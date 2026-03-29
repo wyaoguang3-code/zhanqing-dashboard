@@ -1,131 +1,92 @@
 let hourChart, platformChart, mentionChart;
+let mode = '24h';
 
 function upsertChart(instance, ctx, config){
-  if(instance){
-    instance.data = config.data;
-    instance.options = config.options;
-    instance.update();
-    return instance;
-  }
+  if(instance){ instance.data=config.data; instance.options=config.options; instance.update(); return instance; }
   return new Chart(ctx, config);
 }
+
+function pick(d, key24, key7){ return mode==='7d' ? (d[key7] ?? d[key24]) : d[key24]; }
 
 async function run(){
   const res = await fetch('./data.json?t='+Date.now());
   const d = await res.json();
-  const m = d.metrics || {};
 
+  const m = pick(d, 'metrics', 'metrics_7d') || {};
   document.getElementById('updated').textContent = '更新時間：' + new Date(d.generated_at).toLocaleString('zh-TW',{hour12:false});
-  document.getElementById('total24').textContent = m.total_24h ?? '-';
-  document.getElementById('prev24').textContent = m.prev_24h ?? '-';
+  document.getElementById('modeHint').textContent = mode==='7d' ? '（近7日聚合）' : '（近24h）';
+  document.getElementById('total24').textContent = m.total ?? m.total_24h ?? '-';
+  document.getElementById('prev24').textContent = m.prev ?? m.prev_24h ?? '-';
   document.getElementById('growth').textContent = m.growth_pct==null ? '-' : `${m.growth_pct}%`;
-  document.getElementById('news24').textContent = m.news_24h ?? '-';
+  document.getElementById('news24').textContent = m.news ?? m.news_24h ?? '-';
 
   const level = (m.anomaly||{}).level || '綠';
-  const light = document.getElementById('light');
-  light.innerHTML = `<span class="badge ${level}">${level}</span>`;
+  document.getElementById('light').innerHTML = `<span class="badge ${level}">${level}</span>`;
 
-  const cmp = d.mention_compare_24h || {};
-  const z = cmp['張嘉郡']||0;
-  const l = cmp['劉建國']||0;
+  const cmp = pick(d, 'mention_compare_24h', 'mention_compare_7d') || {};
+  const z = cmp['張嘉郡']||0, l = cmp['劉建國']||0;
   document.getElementById('compare').textContent = `張嘉郡：${z} ｜ 劉建國：${l}`;
 
+  const byPlatform = pick(d, 'by_platform', 'by_platform_7d') || [];
   const ul = document.getElementById('platforms'); ul.innerHTML='';
-  (d.by_platform||[]).forEach(x=>{
-    const li=document.createElement('li');
-    li.textContent=`${x.platform}: ${x.count}`;
-    ul.appendChild(li);
-  });
+  byPlatform.forEach(x=>{ const li=document.createElement('li'); li.textContent=`${x.platform}: ${x.count}`; ul.appendChild(li); });
 
+  const topNews = pick(d, 'top_news', 'top_news_7d') || [];
   const news = document.getElementById('news'); news.innerHTML='';
-  (d.top_news||[]).slice(0,12).forEach(x=>{
+  topNews.slice(0,12).forEach(x=>{
     const li=document.createElement('li');
     const a=document.createElement('a');
     a.href=x.url; a.target='_blank'; a.rel='noopener';
-    a.textContent=(x.title || x.url) + (x.time ? `（${x.time.slice(11,16)}）` : '');
-    li.appendChild(a);
-    news.appendChild(li);
+    a.textContent=(x.title || x.url) + (x.time ? `（${x.time.slice(5,16)}）` : '');
+    li.appendChild(a); news.appendChild(li);
   });
 
+  const detailMap = pick(d, 'latest_by_platform_24h', 'latest_by_platform_7d') || {};
   const platformDetail = document.getElementById('platformDetail');
   if(platformDetail){
     platformDetail.innerHTML='';
-    const map = d.latest_by_platform_24h || {};
-    Object.keys(map).forEach(p=>{
-      const box=document.createElement('div');
-      box.className='platform-box';
-      const h=document.createElement('h3');
-      h.textContent=`${p}（${(map[p]||[]).length} 筆）`;
-      box.appendChild(h);
-
+    Object.keys(detailMap).forEach(p=>{
+      const box=document.createElement('div'); box.className='platform-box';
+      const h=document.createElement('h3'); h.textContent=`${p}（${(detailMap[p]||[]).length} 筆）`; box.appendChild(h);
       const ol=document.createElement('ol');
-      (map[p]||[]).forEach(x=>{
+      (detailMap[p]||[]).forEach(x=>{
         const li=document.createElement('li');
-        const a=document.createElement('a');
-        a.href=x.url; a.target='_blank'; a.rel='noopener';
-        a.textContent=(x.title || x.url) + (x.time ? `（${x.time.slice(5,16)}）` : '');
-        li.appendChild(a);
-        ol.appendChild(li);
+        const a=document.createElement('a'); a.href=x.url; a.target='_blank'; a.rel='noopener';
+        a.textContent=(x.title||x.url) + (x.time ? `（${x.time.slice(5,16)}）` : '');
+        li.appendChild(a); ol.appendChild(li);
       });
-      box.appendChild(ol);
-      platformDetail.appendChild(box);
+      box.appendChild(ol); platformDetail.appendChild(box);
     });
   }
 
   function renderList(elId, arr){
-    const el=document.getElementById(elId);
-    if(!el) return;
-    el.innerHTML='';
-    (arr||[]).forEach(x=>{
-      const li=document.createElement('li');
-      const a=document.createElement('a');
-      a.href=x.url; a.target='_blank'; a.rel='noopener';
-      a.textContent=(x.title || x.url) + (x.time ? `（${x.time.slice(5,16)}）` : '');
-      li.appendChild(a);
-      el.appendChild(li);
-    });
+    const el=document.getElementById(elId); if(!el) return; el.innerHTML='';
+    (arr||[]).forEach(x=>{ const li=document.createElement('li'); const a=document.createElement('a'); a.href=x.url; a.target='_blank'; a.rel='noopener'; a.textContent=(x.title||x.url)+(x.time?`（${x.time.slice(5,16)}）`:''); li.appendChild(a); el.appendChild(li); });
   }
-
   const ps = d.person_sections || {};
   renderList('zhangFb', (ps['張嘉郡']||{}).facebook || []);
   renderList('zhangNews', (ps['張嘉郡']||{}).news || []);
   renderList('liuFb', (ps['劉建國']||{}).facebook || []);
   renderList('liuNews', (ps['劉建國']||{}).news || []);
 
-  // 24h 聲量趨勢
-  const hourLabels=(d.by_hour||[]).map(x=> (x.hour||'').slice(11,16));
-  const hourCounts=(d.by_hour||[]).map(x=> x.count||0);
+  const byHour = pick(d, 'by_hour', 'by_hour_7d') || [];
   hourChart = upsertChart(hourChart, document.getElementById('hourChart'), {
     type:'line',
-    data:{
-      labels:hourLabels,
-      datasets:[{label:'mentions', data:hourCounts, borderColor:'#7fc0ff', backgroundColor:'rgba(127,192,255,0.2)', tension:0.25, fill:true}]
-    },
+    data:{ labels:byHour.map(x=>(x.hour||'').slice(5,16)), datasets:[{label:'mentions', data:byHour.map(x=>x.count||0), borderColor:'#7fc0ff', backgroundColor:'rgba(127,192,255,0.2)', tension:0.25, fill:true}] },
     options:{plugins:{legend:{display:false}}, scales:{x:{ticks:{color:'#b9c3f2'}}, y:{ticks:{color:'#b9c3f2'}}}}
   });
 
-  // 平台分布
-  const pLabels=(d.by_platform||[]).map(x=>x.platform);
-  const pCounts=(d.by_platform||[]).map(x=>x.count);
   platformChart = upsertChart(platformChart, document.getElementById('platformChart'), {
     type:'doughnut',
-    data:{
-      labels:pLabels,
-      datasets:[{data:pCounts, backgroundColor:['#4f8cff','#20c997','#ffc107','#e83e8c','#fd7e14','#6f42c1','#adb5bd']}]
-    },
+    data:{ labels:byPlatform.map(x=>x.platform), datasets:[{data:byPlatform.map(x=>x.count), backgroundColor:['#4f8cff','#20c997','#ffc107','#e83e8c','#fd7e14','#6f42c1','#adb5bd']}] },
     options:{plugins:{legend:{labels:{color:'#b9c3f2'}}}}
   });
 
-  // 人物提及
   mentionChart = upsertChart(mentionChart, document.getElementById('mentionChart'), {
     type:'bar',
-    data:{
-      labels:['張嘉郡','劉建國'],
-      datasets:[{data:[z,l], backgroundColor:['#20c997','#4f8cff']}]
-    },
+    data:{ labels:['張嘉郡','劉建國'], datasets:[{data:[z,l], backgroundColor:['#20c997','#4f8cff']}] },
     options:{plugins:{legend:{display:false}}, scales:{x:{ticks:{color:'#b9c3f2'}}, y:{ticks:{color:'#b9c3f2'}}}}
   });
-
 }
 
 function initCollapsibles(){
@@ -141,6 +102,14 @@ function initCollapsibles(){
   });
 }
 
-run();
+function initModes(){
+  const b24 = document.getElementById('mode24');
+  const b7 = document.getElementById('mode7d');
+  if(b24) b24.onclick = async ()=>{ mode='24h'; await run(); };
+  if(b7) b7.onclick = async ()=>{ mode='7d'; await run(); };
+}
+
 initCollapsibles();
+initModes();
+run();
 setInterval(run,60000);
