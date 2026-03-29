@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-03-29T10:47:15.586205+00:00",
+  "generated_at": "2026-03-29T10:52:56.330665+00:00",
   "metrics": {
-    "total_24h": 0,
+    "total_24h": 1,
     "prev_24h": 7,
-    "growth_pct": -100.0,
-    "news_24h": 0,
+    "growth_pct": -85.71,
+    "news_24h": 1,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 153,
+    "total": 154,
     "prev": 0,
     "growth_pct": null,
-    "news": 103,
+    "news": 104,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -25,11 +25,16 @@
       "reasons": []
     }
   },
-  "by_platform": [],
+  "by_platform": [
+    {
+      "platform": "news",
+      "count": 1
+    }
+  ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 103
+      "count": 104
     },
     {
       "platform": "facebook",
@@ -44,7 +49,12 @@
       "count": 1
     }
   ],
-  "by_hour": [],
+  "by_hour": [
+    {
+      "hour": "2026-03-29 18:00",
+      "count": 1
+    }
+  ],
   "by_hour_7d": [
     {
       "hour": "2026-03-23 07:00",
@@ -257,22 +267,63 @@
     {
       "hour": "2026-03-28 16:00",
       "count": 1
+    },
+    {
+      "hour": "2026-03-29 18:00",
+      "count": 1
     }
   ],
-  "mention_by_platform_24h": [],
-  "mention_latest_by_platform_24h": {},
-  "alias_by_platform_24h": [],
-  "alias_latest_by_platform_24h": {},
+  "mention_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 1
+    }
+  ],
+  "mention_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "不只張雪峰…45歲「劉建國」心梗離世 2天前還跑馬拉松 - 世界新聞網",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwWmYtMVhRdWMxcHhXRjl0ZWNpZTIxT2NPSVhJcEU1WXkxRUc3TFIwRXgzTzR0a3hFNnEteV9EME5ETFVxY2IyaEFQSS1tUkNjcnBLYU1mS2NSVUhORFlZcVM5LTB1Y3M1cThXb0tzQXhpTmxhQmgzRWpVbjB4UFXSAWdBVV95cUxNSEl2a2ZXaGdtRFBTT2lkZ1hRd0l4MW9MV1dnWFd5NXFkVjNnM0VraW1IQ2oyeUs4cS1DZ012enlxSEVaak8wbm5VYUVLMWVxMmw4djY1ajVVNndUZjZWTDVoaHF1em9Z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-03-29 18:30:00"
+      }
+    ]
+  },
+  "alias_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 1
+    }
+  ],
+  "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "不只張雪峰…45歲「劉建國」心梗離世 2天前還跑馬拉松 - 世界新聞網",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwWmYtMVhRdWMxcHhXRjl0ZWNpZTIxT2NPSVhJcEU1WXkxRUc3TFIwRXgzTzR0a3hFNnEteV9EME5ETFVxY2IyaEFQSS1tUkNjcnBLYU1mS2NSVUhORFlZcVM5LTB1Y3M1cThXb0tzQXhpTmxhQmgzRWpVbjB4UFXSAWdBVV95cUxNSEl2a2ZXaGdtRFBTT2lkZ1hRd0l4MW9MV1dnWFd5NXFkVjNnM0VraW1IQ2oyeUs4cS1DZ012enlxSEVaak8wbm5VYUVLMWVxMmw4djY1ajVVNndUZjZWTDVoaHF1em9Z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-03-29 18:30:00"
+      }
+    ]
+  },
   "mention_compare_24h": {
     "張嘉郡": 0,
-    "劉建國": 0
+    "劉建國": 1
   },
   "mention_compare_7d": {
     "張嘉郡": 23,
-    "劉建國": 56
+    "劉建國": 57
   },
-  "top_news": [],
+  "top_news": [
+    {
+      "title": "不只張雪峰…45歲「劉建國」心梗離世 2天前還跑馬拉松 - 世界新聞網",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwWmYtMVhRdWMxcHhXRjl0ZWNpZTIxT2NPSVhJcEU1WXkxRUc3TFIwRXgzTzR0a3hFNnEteV9EME5ETFVxY2IyaEFQSS1tUkNjcnBLYU1mS2NSVUhORFlZcVM5LTB1Y3M1cThXb0tzQXhpTmxhQmgzRWpVbjB4UFXSAWdBVV95cUxNSEl2a2ZXaGdtRFBTT2lkZ1hRd0l4MW9MV1dnWFd5NXFkVjNnM0VraW1IQ2oyeUs4cS1DZ012enlxSEVaak8wbm5VYUVLMWVxMmw4djY1ajVVNndUZjZWTDVoaHF1em9Z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-03-29 18:30:00"
+    }
+  ],
   "top_news_7d": [
+    {
+      "title": "不只張雪峰…45歲「劉建國」心梗離世 2天前還跑馬拉松 - 世界新聞網",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwWmYtMVhRdWMxcHhXRjl0ZWNpZTIxT2NPSVhJcEU1WXkxRUc3TFIwRXgzTzR0a3hFNnEteV9EME5ETFVxY2IyaEFQSS1tUkNjcnBLYU1mS2NSVUhORFlZcVM5LTB1Y3M1cThXb0tzQXhpTmxhQmgzRWpVbjB4UFXSAWdBVV95cUxNSEl2a2ZXaGdtRFBTT2lkZ1hRd0l4MW9MV1dnWFd5NXFkVjNnM0VraW1IQ2oyeUs4cS1DZ012enlxSEVaak8wbm5VYUVLMWVxMmw4djY1ajVVNndUZjZWTDVoaHF1em9Z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-03-29 18:30:00"
+    },
     {
       "title": "張麗善推農業政見白皮書 劉建國邀教授相挺 - Yahoo - 汽機車",
       "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNSm16ckhqMXgzWVh2ZUpEaTB4N0Y5VGtBMU82QnhBM09uNVJBM1JQN3BWbXZ4WjNlMk5CSDRnbGZYcGlkWXVjal9BejJKdUpOTHZGNmJVeGhMMFlPVUVCVEVPTk5BMmkxM0ZfU2JSX05vV2VKRzVFaFRTczl3X3BUWDBmd0NzYlhiRjFneEY0Sk1pYUFKT1QtdTVrRThKdU1oSy1Mdm9UUGhieWJycmdqVWsyN2xXSDVJZFEtZkZVb0xIUTVRWC03UEZfaGVEaFJTaWo4dXJmRUhVX242bW9vbXVjODFFdmc0cnZYU05qdmRWdlFlU3JjR1pxWExYTWhIUnZacXdfWE1HU1hibi14UHNjemtyTTV3cEZHUTFkTEY2T3JhVG56R2plRS1xZlBEWUtfM3M4TFlwX2llV2pSa09vOUhzNmZjSUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -367,11 +418,6 @@
       "title": "產業園區托育量能不足 劉建國促一月內提擴充對策 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0S0VLanlQcmF6V3NlR2gxaGZUdTVfblljOWxoOGo1TEVabXZJd0dlWGhCaldoNnRndzBFSDV4dS0zVVotTVVmSTRGUi1CMVkwc2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-03-27 00:17:00"
-    },
-    {
-      "title": "擴大產業園區托育量能 勞工安心就業 劉建國要求經濟部1個月內提具體計畫 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOQ3M5bk5peHRUQXhCNlBDcWtQWk8wZ181ZjRvT3pHRUh3LVE1bDJVU1ZNNkt1NFZaRmRzcjk3cHRYaEQ0WkxCOGJrOHV1ZEEzdGlwUjBISE0zNDVueVNwdXpDV1kwSEJLcjREdWJsQW9vZV9jeVIzc202ZWRsUnh5eGZpLU9PaWFWWjNwQ2JXM0MzOGlBTWVtRm1RMGZhSG1Pa1pYT212Ym5VLWlMYWZOeDRzNUdFX3BBQ0pDRU42aHJIRTZTOW0zZ2FhUnZzVjRGb1RTQlVBb2VpcXVjQ1NvQ3p3LWtaS0RFWGM2bXlfVW14OE5ScUs3QUZJZDZtdEo1ZE9XNVd4ZmIwYjRNMXo1V2hKeEUxbUJJaTlGVS1nS0RIdE1uSldXZUo1Y2ZremlOTTMzcUxHSEVKbmlyOHVEQjBwVlAwODgzTU44R29TV013aTVBa0FROUdmQ1E4NUhhMUhYUjRmUGpIUzZRWmQ5UEtlYzR4Q19aLXY4cEFGLWFpZ0lBS3Q3VDVYTTVBWVJLUmtMdE5DU0NnSm5uU0hEa1kyZlVXSkRINVBSN2twTmxiUm5ER25TQ3kydkJvTHRMMWpvU1dBc3ZwMzZ6MEM3amstbVg4OUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-03-27 00:16:21"
     }
   ],
   "latest_facebook_20": [
@@ -478,6 +524,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "不只張雪峰…45歲「劉建國」心梗離世 2天前還跑馬拉松 - 世界新聞網",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwWmYtMVhRdWMxcHhXRjl0ZWNpZTIxT2NPSVhJcEU1WXkxRUc3TFIwRXgzTzR0a3hFNnEteV9EME5ETFVxY2IyaEFQSS1tUkNjcnBLYU1mS2NSVUhORFlZcVM5LTB1Y3M1cThXb0tzQXhpTmxhQmgzRWpVbjB4UFXSAWdBVV95cUxNSEl2a2ZXaGdtRFBTT2lkZ1hRd0l4MW9MV1dnWFd5NXFkVjNnM0VraW1IQ2oyeUs4cS1DZ012enlxSEVaak8wbm5VYUVLMWVxMmw4djY1ajVVNndUZjZWTDVoaHF1em9Z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-03-29 18:30:00"
+    },
+    {
       "title": "張麗善推農業政見白皮書 劉建國邀教授相挺 - Yahoo - 汽機車",
       "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNSm16ckhqMXgzWVh2ZUpEaTB4N0Y5VGtBMU82QnhBM09uNVJBM1JQN3BWbXZ4WjNlMk5CSDRnbGZYcGlkWXVjal9BejJKdUpOTHZGNmJVeGhMMFlPVUVCVEVPTk5BMmkxM0ZfU2JSX05vV2VKRzVFaFRTczl3X3BUWDBmd0NzYlhiRjFneEY0Sk1pYUFKT1QtdTVrRThKdU1oSy1Mdm9UUGhieWJycmdqVWsyN2xXSDVJZFEtZkZVb0xIUTVRWC03UEZfaGVEaFJTaWo4dXJmRUhVX242bW9vbXVjODFFdmc0cnZYU05qdmRWdlFlU3JjR1pxWExYTWhIUnZacXdfWE1HU1hibi14UHNjemtyTTV3cEZHUTFkTEY2T3JhVG56R2plRS1xZlBEWUtfM3M4TFlwX2llV2pSa09vOUhzNmZjSUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-03-28 16:32:21"
@@ -571,11 +622,6 @@
       "title": "產業園區托育量能不足 劉建國促一月內提擴充對策 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0S0VLanlQcmF6V3NlR2gxaGZUdTVfblljOWxoOGo1TEVabXZJd0dlWGhCaldoNnRndzBFSDV4dS0zVVotTVVmSTRGUi1CMVkwc2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-03-27 00:17:00"
-    },
-    {
-      "title": "擴大產業園區托育量能 勞工安心就業 劉建國要求經濟部1個月內提具體計畫 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOQ3M5bk5peHRUQXhCNlBDcWtQWk8wZ181ZjRvT3pHRUh3LVE1bDJVU1ZNNkt1NFZaRmRzcjk3cHRYaEQ0WkxCOGJrOHV1ZEEzdGlwUjBISE0zNDVueVNwdXpDV1kwSEJLcjREdWJsQW9vZV9jeVIzc202ZWRsUnh5eGZpLU9PaWFWWjNwQ2JXM0MzOGlBTWVtRm1RMGZhSG1Pa1pYT212Ym5VLWlMYWZOeDRzNUdFX3BBQ0pDRU42aHJIRTZTOW0zZ2FhUnZzVjRGb1RTQlVBb2VpcXVjQ1NvQ3p3LWtaS0RFWGM2bXlfVW14OE5ScUs3QUZJZDZtdEo1ZE9XNVd4ZmIwYjRNMXo1V2hKeEUxbUJJaTlGVS1nS0RIdE1uSldXZUo1Y2ZremlOTTMzcUxHSEVKbmlyOHVEQjBwVlAwODgzTU44R29TV013aTVBa0FROUdmQ1E4NUhhMUhYUjRmUGpIUzZRWmQ5UEtlYzR4Q19aLXY4cEFGLWFpZ0lBS3Q3VDVYTTVBWVJLUmtMdE5DU0NnSm5uU0hEa1kyZlVXSkRINVBSN2twTmxiUm5ER25TQ3kydkJvTHRMMWpvU1dBc3ZwMzZ6MEM3amstbVg4OUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-03-27 00:16:21"
     }
   ],
   "person_sections": {
@@ -755,6 +801,11 @@
       ],
       "news": [
         {
+          "title": "不只張雪峰…45歲「劉建國」心梗離世 2天前還跑馬拉松 - 世界新聞網",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwWmYtMVhRdWMxcHhXRjl0ZWNpZTIxT2NPSVhJcEU1WXkxRUc3TFIwRXgzTzR0a3hFNnEteV9EME5ETFVxY2IyaEFQSS1tUkNjcnBLYU1mS2NSVUhORFlZcVM5LTB1Y3M1cThXb0tzQXhpTmxhQmgzRWpVbjB4UFXSAWdBVV95cUxNSEl2a2ZXaGdtRFBTT2lkZ1hRd0l4MW9MV1dnWFd5NXFkVjNnM0VraW1IQ2oyeUs4cS1DZ012enlxSEVaak8wbm5VYUVLMWVxMmw4djY1ajVVNndUZjZWTDVoaHF1em9Z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-03-29 18:30:00"
+        },
+        {
           "title": "張麗善推農業政見白皮書 劉建國邀教授相挺 - Yahoo - 汽機車",
           "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNSm16ckhqMXgzWVh2ZUpEaTB4N0Y5VGtBMU82QnhBM09uNVJBM1JQN3BWbXZ4WjNlMk5CSDRnbGZYcGlkWXVjal9BejJKdUpOTHZGNmJVeGhMMFlPVUVCVEVPTk5BMmkxM0ZfU2JSX05vV2VKRzVFaFRTczl3X3BUWDBmd0NzYlhiRjFneEY0Sk1pYUFKT1QtdTVrRThKdU1oSy1Mdm9UUGhieWJycmdqVWsyN2xXSDVJZFEtZkZVb0xIUTVRWC03UEZfaGVEaFJTaWo4dXJmRUhVX242bW9vbXVjODFFdmc0cnZYU05qdmRWdlFlU3JjR1pxWExYTWhIUnZacXdfWE1HU1hibi14UHNjemtyTTV3cEZHUTFkTEY2T3JhVG56R2plRS1xZlBEWUtfM3M4TFlwX2llV2pSa09vOUhzNmZjSUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-03-28 16:32:21"
@@ -848,18 +899,26 @@
           "title": "擴大產業園區托育服務 劉建國要求經濟部一個月內提具體計畫 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNank5OFZjeEFhbXpvSmVGVVQtLVVZRjRoSzl2ZkNuWjB2UUdXRHg3N0N1V3FySF9WUDBGQ1ZyNjVwekJBQXR6UzUwT0ZSU0xLVFlnc2lTMHAyRFVqZlpHVXplZHNJS2VWbVR4MVVDR3QzdEdvWEJDemp3bWl0OTh4MnNvamNObFdzSF9pc2ViV0szYmNjbDB6X21TRHBzajJWVXpGd0dWYTJOdl9qOXVwWmhvWmRkelJnWHcwOVc4eVFiQjVoWVp4QVRudmJlbDA2aWljcWhLYXNNNXhfY1VobEZxdnRJaF9HRnI5a1p0TDZRSFdWRzZHMWRFc0NxRDFNNXEzbEdjaVl1NFB3aFA4QTdQR3FyZ0dRN1FPZEpLNEdvLWRtWWpQWjhaVHRiZjZGNzI0ZEFFMThmVkhoZlFxNlZyRmNtWnBtTUQzcnlwaU9VQzJTelJDVVc3OC1sTlJBTEVuekZjREkyaWVwanU1YnNHS2otS19WTGY4S3lvTVU0cUdFYjNZaHk1NDQxUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-03-26 23:20:02"
-        },
-        {
-          "title": "擴大產業園區托育服務 劉建國要求經濟部一個月內提具體計畫 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU0ZsZDBRUms0cjdWZmFDZjltLUR6Rm1aTWJtNXdmaWxJWEVBbXdJcDBZNFpzREdmV1VmcWlxYWN0b0ZWNFlEaUxudnkxZk5OVEtVY3FlV0Y1NUR4M1J1SjNyQWVOSmRidEg1cnR0VXZxampRU3BnTHU4cGphVWM3M2p3T0FMN1pQcWJYaGpLWXpyR0htZUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-03-26 23:20:02"
         }
       ]
     }
   },
-  "latest_by_platform_24h": {},
+  "latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "不只張雪峰…45歲「劉建國」心梗離世 2天前還跑馬拉松 - 世界新聞網",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwWmYtMVhRdWMxcHhXRjl0ZWNpZTIxT2NPSVhJcEU1WXkxRUc3TFIwRXgzTzR0a3hFNnEteV9EME5ETFVxY2IyaEFQSS1tUkNjcnBLYU1mS2NSVUhORFlZcVM5LTB1Y3M1cThXb0tzQXhpTmxhQmgzRWpVbjB4UFXSAWdBVV95cUxNSEl2a2ZXaGdtRFBTT2lkZ1hRd0l4MW9MV1dnWFd5NXFkVjNnM0VraW1IQ2oyeUs4cS1DZ012enlxSEVaak8wbm5VYUVLMWVxMmw4djY1ajVVNndUZjZWTDVoaHF1em9Z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-03-29 18:30:00"
+      }
+    ]
+  },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "不只張雪峰…45歲「劉建國」心梗離世 2天前還跑馬拉松 - 世界新聞網",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwWmYtMVhRdWMxcHhXRjl0ZWNpZTIxT2NPSVhJcEU1WXkxRUc3TFIwRXgzTzR0a3hFNnEteV9EME5ETFVxY2IyaEFQSS1tUkNjcnBLYU1mS2NSVUhORFlZcVM5LTB1Y3M1cThXb0tzQXhpTmxhQmgzRWpVbjB4UFXSAWdBVV95cUxNSEl2a2ZXaGdtRFBTT2lkZ1hRd0l4MW9MV1dnWFd5NXFkVjNnM0VraW1IQ2oyeUs4cS1DZ012enlxSEVaak8wbm5VYUVLMWVxMmw4djY1ajVVNndUZjZWTDVoaHF1em9Z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-03-29 18:30:00"
+      },
       {
         "title": "張麗善推農業政見白皮書 劉建國邀教授相挺 - Yahoo - 汽機車",
         "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNSm16ckhqMXgzWVh2ZUpEaTB4N0Y5VGtBMU82QnhBM09uNVJBM1JQN3BWbXZ4WjNlMk5CSDRnbGZYcGlkWXVjal9BejJKdUpOTHZGNmJVeGhMMFlPVUVCVEVPTk5BMmkxM0ZfU2JSX05vV2VKRzVFaFRTczl3X3BUWDBmd0NzYlhiRjFneEY0Sk1pYUFKT1QtdTVrRThKdU1oSy1Mdm9UUGhieWJycmdqVWsyN2xXSDVJZFEtZkZVb0xIUTVRWC03UEZfaGVEaFJTaWo4dXJmRUhVX242bW9vbXVjODFFdmc0cnZYU05qdmRWdlFlU3JjR1pxWExYTWhIUnZacXdfWE1HU1hibi14UHNjemtyTTV3cEZHUTFkTEY2T3JhVG56R2plRS1xZlBEWUtfM3M4TFlwX2llV2pSa09vOUhzNmZjSUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1054,11 +1113,6 @@
         "title": "戰火衝擊民生！包材價格飆漲甚至缺貨 劉建國籲政院成立跨部會應變小組 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQM1dlNXd3bjlZMnBsQjFPMDRxeG5hQ1ZXaUxPa21ubUpwb0JOczlPdkY3dlVuenFScFFyV0FOZllyWUNnYTNiTlpqN044NVoxcm1EZzdnaVNTLURoUS1zVEcxMUd0dnl3RGpzaGlEdzhLWWdFb0dNN0ctMllSZk81S0w3bkFRQ0EtTlBic253M2poX1hock5HMXl5cEZ6WHotMGFzWUlyUDBOaGkzS2dIcFBqZFhYNUxvS19EdG5Fd1o5dWlGY3NhU3QyY2I5WF8ySjBwdWhkVmRoX3JRMHQ3akxTQ2NYLWxKZE5IX3VWVFkwcElkSDh4Z3Y0NklrMDFwOWh5QVRmNXd5MkpzaGVrRDFyMWt1TDZCaTBnSGtrdW9hOWhXRVhhNE5KazN3WUpjRzc0VFJDaGdIcHVRcUk5N1FvRVR5cmpMc1E1STJHb1poSnltdS01cHJ4Mno3N2ZUanNvZ2h4SGFDZnhBbDVNT2FJWVA3MTkyRjdGRFhGamk5RFdpdnNiYjB4b0RsOGdoWDZDVVVLQ3FYckZFZUdHNEcyU3ZxampMQ1k3ZHFPbFBjYi1JZU9ZRFJOOEQ5UEVXU3BCVVhFQkRmQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-03-25 14:34:50"
-      },
-      {
-        "title": "戰火衝擊民生！包材價格飆漲甚至缺貨 劉建國籲政院成立跨部會應變小組 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4OXI2SF9OWm1sZHg4NVgzMkE0amt2QUdia2dLdVFYMXRQX1JhRVlTak9tRk5aUjh0SnBqVlBYaEpQUWZtaS1wTkNsSjNYQ1RqdlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-03-25 14:32:00"
       }
     ],
     "facebook": [
