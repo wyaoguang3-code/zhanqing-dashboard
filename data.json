@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-03-31T03:44:57.721070+00:00",
+  "generated_at": "2026-03-31T04:00:00.036872+00:00",
   "metrics": {
-    "total_24h": 38,
+    "total_24h": 40,
     "prev_24h": 3,
-    "growth_pct": 1166.67,
-    "news_24h": 34,
+    "growth_pct": 1233.33,
+    "news_24h": 36,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 184,
+    "total": 186,
     "prev": 11,
-    "growth_pct": 1572.73,
-    "news": 135,
+    "growth_pct": 1590.91,
+    "news": 137,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 34
+      "count": 36
     },
     {
       "platform": "facebook",
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 135
+      "count": 137
     },
     {
       "platform": "facebook",
@@ -105,6 +105,10 @@
     {
       "hour": "2026-03-31 10:00",
       "count": 3
+    },
+    {
+      "hour": "2026-03-31 11:00",
+      "count": 2
     }
   ],
   "by_hour_7d": [
@@ -347,12 +351,16 @@
     {
       "hour": "2026-03-31 10:00",
       "count": 3
+    },
+    {
+      "hour": "2026-03-31 11:00",
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 34
+      "count": 36
     },
     {
       "platform": "facebook",
@@ -365,6 +373,16 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "台商深耕泰國扮橋樑 劉建國：未來深化醫療等多元領域合作 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNZWRHVFR1bXVCUkFDd2I1TlljQWJWbWFoYlVITjB3UXdDV2JRR2RNa3JsaW8tUllqRlVuU2pGXzRvQURUWEtCSjhUNlBBWDNZdURMRFpqWWw4QzRvM0pfenU5WGk1SFh4U0Q5dHZyWXZwUDA0dGRVOHFobEZVQS05YVJ6V1lLYnA0cEFJZGxrTTVEQkZOZ3NKNWFabmhOLXFHWmlvU0YtQXg4WktKZDNCVjJYc1AwN1g1UWw3U25XNTlod2tXbmJEZXRJQ2YzUHVZcW5zV1N4bVZ1ZUNEVlVKNzIzVEpiaWdIQTB5Z0x1eEpFSndfRnloTFlmOWYxc0x1Z1JVRlJnSjl6RjVKTU52Q0xEVmU3a1dwOGR6MGJxR0Fja2Q1NEtUNFRURjY5ZWhQYnJ3bzBHUFNGQ2o3dG1OdzgydFFOM0VTR2luQzJBWjVHX0w5czFTNlpaeldpNzV1UVNrM0JNaFpVaTlpZVNGdG1Hb3lTcS1ZRi1TRDRTRXhVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-03-31 11:42:23"
+      },
+      {
+        "title": "台商深耕泰國扮橋樑 劉建國： 未來深化醫療等多元領域合作 - 匯流新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZQTdXZW41NnJVQmZZZUJ1dVpodmdwTFk2Tzc5cHdpU0JKQ3ZGTTlBaEw2Zjd3ZnowaXVKaFhSeXJ6d1E3MlJ5eFhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-03-31 11:34:27"
+      },
       {
         "title": "古坑春茶全枯失收！張嘉郡爭取每公頃10萬救助及低利貸款 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQRmEwR1hndkdVLTVaNHRDdkxpdGpKYUk5ZTREMmw1Uk9URmgza0JIOUkyMGFIUmYtTWZ5Ylc1TlJKTllKcWo0ejNCcDVnNjNmUTJjWXM0WmQ3S0NRZk01Z2laYlVzRUp2bm8xQUVVcFpxYlQzX1pycXRsZ1hDNktIakNldFUybWlMUFByMGduX2c5LU1oOGktd3gxZHlnVUI5NW9oMmJMNmlkRjJxejYxOFA4dHM2NVl3OVpDWDFCNHZXQ2Z3VDEwcEhuY25Va0s0RUZaQm0wQm5WVWZNWjAtcjBqV19INWg2a1Y4TGxSRkIza3NpbnpxYzUzQzlPLXRwbnhDQ0gtM0VqMXFCVFBwN2hOVTRSRkNEVmlfYXR1UTZ2cDNVaWlVdVVENUdQT0xNNEVmdWZIQ253dzFfT2dBNWNVX0xZaFFRYWZxOE9NcEtVQnlud1ZVRF9jcnBVeTR2SWdCNTY2OUNmVmk2N0FsUnhKLWZYZ3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -564,7 +582,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 34
+      "count": 36
     },
     {
       "platform": "facebook",
@@ -577,6 +595,16 @@
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "台商深耕泰國扮橋樑 劉建國：未來深化醫療等多元領域合作 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNZWRHVFR1bXVCUkFDd2I1TlljQWJWbWFoYlVITjB3UXdDV2JRR2RNa3JsaW8tUllqRlVuU2pGXzRvQURUWEtCSjhUNlBBWDNZdURMRFpqWWw4QzRvM0pfenU5WGk1SFh4U0Q5dHZyWXZwUDA0dGRVOHFobEZVQS05YVJ6V1lLYnA0cEFJZGxrTTVEQkZOZ3NKNWFabmhOLXFHWmlvU0YtQXg4WktKZDNCVjJYc1AwN1g1UWw3U25XNTlod2tXbmJEZXRJQ2YzUHVZcW5zV1N4bVZ1ZUNEVlVKNzIzVEpiaWdIQTB5Z0x1eEpFSndfRnloTFlmOWYxc0x1Z1JVRlJnSjl6RjVKTU52Q0xEVmU3a1dwOGR6MGJxR0Fja2Q1NEtUNFRURjY5ZWhQYnJ3bzBHUFNGQ2o3dG1OdzgydFFOM0VTR2luQzJBWjVHX0w5czFTNlpaeldpNzV1UVNrM0JNaFpVaTlpZVNGdG1Hb3lTcS1ZRi1TRDRTRXhVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-03-31 11:42:23"
+      },
+      {
+        "title": "台商深耕泰國扮橋樑 劉建國： 未來深化醫療等多元領域合作 - 匯流新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZQTdXZW41NnJVQmZZZUJ1dVpodmdwTFk2Tzc5cHdpU0JKQ3ZGTTlBaEw2Zjd3ZnowaXVKaFhSeXJ6d1E3MlJ5eFhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-03-31 11:34:27"
+      },
       {
         "title": "古坑春茶全枯失收！張嘉郡爭取每公頃10萬救助及低利貸款 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQRmEwR1hndkdVLTVaNHRDdkxpdGpKYUk5ZTREMmw1Uk9URmgza0JIOUkyMGFIUmYtTWZ5Ylc1TlJKTllKcWo0ejNCcDVnNjNmUTJjWXM0WmQ3S0NRZk01Z2laYlVzRUp2bm8xQUVVcFpxYlQzX1pycXRsZ1hDNktIakNldFUybWlMUFByMGduX2c5LU1oOGktd3gxZHlnVUI5NW9oMmJMNmlkRjJxejYxOFA4dHM2NVl3OVpDWDFCNHZXQ2Z3VDEwcEhuY25Va0s0RUZaQm0wQm5WVWZNWjAtcjBqV19INWg2a1Y4TGxSRkIza3NpbnpxYzUzQzlPLXRwbnhDQ0gtM0VqMXFCVFBwN2hOVTRSRkNEVmlfYXR1UTZ2cDNVaWlVdVVENUdQT0xNNEVmdWZIQ253dzFfT2dBNWNVX0xZaFFRYWZxOE9NcEtVQnlud1ZVRF9jcnBVeTR2SWdCNTY2OUNmVmk2N0FsUnhKLWZYZ3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -775,13 +803,23 @@
   },
   "mention_compare_24h": {
     "張嘉郡": 36,
-    "劉建國": 7
+    "劉建國": 9
   },
   "mention_compare_7d": {
     "張嘉郡": 57,
-    "劉建國": 59
+    "劉建國": 61
   },
   "top_news": [
+    {
+      "title": "台商深耕泰國扮橋樑 劉建國：未來深化醫療等多元領域合作 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNZWRHVFR1bXVCUkFDd2I1TlljQWJWbWFoYlVITjB3UXdDV2JRR2RNa3JsaW8tUllqRlVuU2pGXzRvQURUWEtCSjhUNlBBWDNZdURMRFpqWWw4QzRvM0pfenU5WGk1SFh4U0Q5dHZyWXZwUDA0dGRVOHFobEZVQS05YVJ6V1lLYnA0cEFJZGxrTTVEQkZOZ3NKNWFabmhOLXFHWmlvU0YtQXg4WktKZDNCVjJYc1AwN1g1UWw3U25XNTlod2tXbmJEZXRJQ2YzUHVZcW5zV1N4bVZ1ZUNEVlVKNzIzVEpiaWdIQTB5Z0x1eEpFSndfRnloTFlmOWYxc0x1Z1JVRlJnSjl6RjVKTU52Q0xEVmU3a1dwOGR6MGJxR0Fja2Q1NEtUNFRURjY5ZWhQYnJ3bzBHUFNGQ2o3dG1OdzgydFFOM0VTR2luQzJBWjVHX0w5czFTNlpaeldpNzV1UVNrM0JNaFpVaTlpZVNGdG1Hb3lTcS1ZRi1TRDRTRXhVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-03-31 11:42:23"
+    },
+    {
+      "title": "台商深耕泰國扮橋樑 劉建國： 未來深化醫療等多元領域合作 - 匯流新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZQTdXZW41NnJVQmZZZUJ1dVpodmdwTFk2Tzc5cHdpU0JKQ3ZGTTlBaEw2Zjd3ZnowaXVKaFhSeXJ6d1E3MlJ5eFhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-03-31 11:34:27"
+    },
     {
       "title": "古坑春茶全枯失收！張嘉郡爭取每公頃10萬救助及低利貸款 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQRmEwR1hndkdVLTVaNHRDdkxpdGpKYUk5ZTREMmw1Uk9URmgza0JIOUkyMGFIUmYtTWZ5Ylc1TlJKTllKcWo0ejNCcDVnNjNmUTJjWXM0WmQ3S0NRZk01Z2laYlVzRUp2bm8xQUVVcFpxYlQzX1pycXRsZ1hDNktIakNldFUybWlMUFByMGduX2c5LU1oOGktd3gxZHlnVUI5NW9oMmJMNmlkRjJxejYxOFA4dHM2NVl3OVpDWDFCNHZXQ2Z3VDEwcEhuY25Va0s0RUZaQm0wQm5WVWZNWjAtcjBqV19INWg2a1Y4TGxSRkIza3NpbnpxYzUzQzlPLXRwbnhDQ0gtM0VqMXFCVFBwN2hOVTRSRkNEVmlfYXR1UTZ2cDNVaWlVdVVENUdQT0xNNEVmdWZIQ253dzFfT2dBNWNVX0xZaFFRYWZxOE9NcEtVQnlud1ZVRF9jcnBVeTR2SWdCNTY2OUNmVmk2N0FsUnhKLWZYZ3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -831,19 +869,19 @@
       "title": "小一導入雙語、AI 培養世界公民 張嘉郡教育政見推「品德永續、國際視野」 - 臺灣導報",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYY2ptNlo0WXJWa1JHcjJDOGIzc2FzV3dNanhpUGl3WDJOUlRGd2dTYlVULUJCM041ODcySlI2SnVPcmlPZ0o0aFJYX3cxbmhJUlM4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-03-30 18:34:04"
-    },
-    {
-      "title": "缺水乾枯古坑春茶失收 張嘉郡爭取每公頃10萬免現勘救助 - 台灣民眾電子報",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1iRTRiZXZqUDhVUWw1RVUxelUyMFZYa016cHJBZUdzZ0ZhTXd6MkhpRGJESHRLZWh3TEgxMER6VGFNamVrdkNOTw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-03-30 18:16:15"
-    },
-    {
-      "title": "批張嘉郡雙語教學政見「早不是新主張」 劉建國：如否定姑姑執政成果 | 自由電子報 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IbXgzcmZjdWpBUGZ0Rl9ldmJhODgtaXB2X1N1UjFhOGRwU2NYRlN0SFB5N2I1VUlVR2Zrb3pWR3lBS1hNNmdYcmpuVExJWGI2aWszNUZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-03-30 17:50:21"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "台商深耕泰國扮橋樑 劉建國：未來深化醫療等多元領域合作 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNZWRHVFR1bXVCUkFDd2I1TlljQWJWbWFoYlVITjB3UXdDV2JRR2RNa3JsaW8tUllqRlVuU2pGXzRvQURUWEtCSjhUNlBBWDNZdURMRFpqWWw4QzRvM0pfenU5WGk1SFh4U0Q5dHZyWXZwUDA0dGRVOHFobEZVQS05YVJ6V1lLYnA0cEFJZGxrTTVEQkZOZ3NKNWFabmhOLXFHWmlvU0YtQXg4WktKZDNCVjJYc1AwN1g1UWw3U25XNTlod2tXbmJEZXRJQ2YzUHVZcW5zV1N4bVZ1ZUNEVlVKNzIzVEpiaWdIQTB5Z0x1eEpFSndfRnloTFlmOWYxc0x1Z1JVRlJnSjl6RjVKTU52Q0xEVmU3a1dwOGR6MGJxR0Fja2Q1NEtUNFRURjY5ZWhQYnJ3bzBHUFNGQ2o3dG1OdzgydFFOM0VTR2luQzJBWjVHX0w5czFTNlpaeldpNzV1UVNrM0JNaFpVaTlpZVNGdG1Hb3lTcS1ZRi1TRDRTRXhVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-03-31 11:42:23"
+    },
+    {
+      "title": "台商深耕泰國扮橋樑 劉建國： 未來深化醫療等多元領域合作 - 匯流新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZQTdXZW41NnJVQmZZZUJ1dVpodmdwTFk2Tzc5cHdpU0JKQ3ZGTTlBaEw2Zjd3ZnowaXVKaFhSeXJ6d1E3MlJ5eFhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-03-31 11:34:27"
+    },
     {
       "title": "古坑春茶全枯失收！張嘉郡爭取每公頃10萬救助及低利貸款 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQRmEwR1hndkdVLTVaNHRDdkxpdGpKYUk5ZTREMmw1Uk9URmgza0JIOUkyMGFIUmYtTWZ5Ylc1TlJKTllKcWo0ejNCcDVnNjNmUTJjWXM0WmQ3S0NRZk01Z2laYlVzRUp2bm8xQUVVcFpxYlQzX1pycXRsZ1hDNktIakNldFUybWlMUFByMGduX2c5LU1oOGktd3gxZHlnVUI5NW9oMmJMNmlkRjJxejYxOFA4dHM2NVl3OVpDWDFCNHZXQ2Z3VDEwcEhuY25Va0s0RUZaQm0wQm5WVWZNWjAtcjBqV19INWg2a1Y4TGxSRkIza3NpbnpxYzUzQzlPLXRwbnhDQ0gtM0VqMXFCVFBwN2hOVTRSRkNEVmlfYXR1UTZ2cDNVaWlVdVVENUdQT0xNNEVmdWZIQ253dzFfT2dBNWNVX0xZaFFRYWZxOE9NcEtVQnlud1ZVRF9jcnBVeTR2SWdCNTY2OUNmVmk2N0FsUnhKLWZYZ3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -933,16 +971,6 @@
       "title": "小一導入雙語、AI培養世界公民 張嘉郡教育政見推「品德永續、國際視野」 - 台灣民眾電子報",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5JbkNBYmROZTlXZ3ZtZm1jMHFCNDFXemRJcl9VQWJZV253M2JlZGkzN0FXVDNGVHhuODVHd1REdXBQUUZJWURjQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-03-30 16:59:42"
-    },
-    {
-      "title": "批張嘉郡雙語教學政見「早不是新主張」 劉建國：如否定姑姑執政成果 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yQl9ZcXZkYzFDdldOZGFSU2NQVWxaNjAzcHdfQzQ3Z1JTZU9ZTFEtX0dKZ1kydmJ6UzFsTUlrcFVhanVEQ1R1eE0wbERXVGNsTTVEb2hsY0pibWdyNEFrRXA2TE40UDRaQ3fSAW9BVV95cUxPZXU3Q1ltTkkxUnVBY1VaMWFMZWpkMVVSekQ2Yl8wVERzVF8xYzJLMEl6UFlYa01fQlN3UzFLU0p3Y1ZvZHE1aE9kRF8yTkluQTlaTmo5aEtNb25aSm9HZU5jSGM0d3UycnZnYWlEWjQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-03-30 16:20:47"
-    },
-    {
-      "title": "批張嘉郡雙語教學政見「早不是新主張」 劉建國：如否定姑姑執政成果 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQaTNUdndkb0xmUmVRTmFkb1dCTnZsVnhRR0VGSVpVb3E0T0lZNEU2a0NGdkhaMkVjUWhXdlZZNmlLRVlXU1owbGlvcXJOQk1zdVlDT0NuNGRmd0FrOGduNlNSMk43WTRkTEJ1S2VBSXZDMm0xZmp0WE5peWd3S0Y5cW5UYm83VXJsRy1nRXNMLUhnSkpJQTZWaGRydTVSVWIyNXVKS3lxdVhEa0xtOEtSeGdDbWdEZ1I3c3VyY0ZzSGpvWGJBYy1wVWRYRmVPTERIdktzVFF1QktESk1aUkRhMFE4RENvTmpXOGlxcFphS29fRmJXSDMyd2lhWGt5V01mRWRNby03WktVd05FMl9SSmh0WTdwR1ZGOVVfVFpUY0RRTUxtNWRSMDRJUWNnMWFkdkNnSjBuSHpNb1I4WFFlaDJGeDdDR1cwSElYVU4zOTdyb3E1SHRKaXp6TmgyRm5rYUtycVdQSDBhSGpQZjlhWEMydmQ1eGdhYzI4b1FPVXpzRlZYYVFYX3FTaHMyR2dZZG1xSDFYci1JR1ZCRko1b0ZRRGwxN28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-03-30 16:20:47"
     }
   ],
   "latest_facebook_20": [
@@ -1049,6 +1077,16 @@
   ],
   "latest_news_20": [
     {
+      "title": "台商深耕泰國扮橋樑 劉建國：未來深化醫療等多元領域合作 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNZWRHVFR1bXVCUkFDd2I1TlljQWJWbWFoYlVITjB3UXdDV2JRR2RNa3JsaW8tUllqRlVuU2pGXzRvQURUWEtCSjhUNlBBWDNZdURMRFpqWWw4QzRvM0pfenU5WGk1SFh4U0Q5dHZyWXZwUDA0dGRVOHFobEZVQS05YVJ6V1lLYnA0cEFJZGxrTTVEQkZOZ3NKNWFabmhOLXFHWmlvU0YtQXg4WktKZDNCVjJYc1AwN1g1UWw3U25XNTlod2tXbmJEZXRJQ2YzUHVZcW5zV1N4bVZ1ZUNEVlVKNzIzVEpiaWdIQTB5Z0x1eEpFSndfRnloTFlmOWYxc0x1Z1JVRlJnSjl6RjVKTU52Q0xEVmU3a1dwOGR6MGJxR0Fja2Q1NEtUNFRURjY5ZWhQYnJ3bzBHUFNGQ2o3dG1OdzgydFFOM0VTR2luQzJBWjVHX0w5czFTNlpaeldpNzV1UVNrM0JNaFpVaTlpZVNGdG1Hb3lTcS1ZRi1TRDRTRXhVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-03-31 11:42:23"
+    },
+    {
+      "title": "台商深耕泰國扮橋樑 劉建國： 未來深化醫療等多元領域合作 - 匯流新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZQTdXZW41NnJVQmZZZUJ1dVpodmdwTFk2Tzc5cHdpU0JKQ3ZGTTlBaEw2Zjd3ZnowaXVKaFhSeXJ6d1E3MlJ5eFhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-03-31 11:34:27"
+    },
+    {
       "title": "古坑春茶全枯失收！張嘉郡爭取每公頃10萬救助及低利貸款 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQRmEwR1hndkdVLTVaNHRDdkxpdGpKYUk5ZTREMmw1Uk9URmgza0JIOUkyMGFIUmYtTWZ5Ylc1TlJKTllKcWo0ejNCcDVnNjNmUTJjWXM0WmQ3S0NRZk01Z2laYlVzRUp2bm8xQUVVcFpxYlQzX1pycXRsZ1hDNktIakNldFUybWlMUFByMGduX2c5LU1oOGktd3gxZHlnVUI5NW9oMmJMNmlkRjJxejYxOFA4dHM2NVl3OVpDWDFCNHZXQ2Z3VDEwcEhuY25Va0s0RUZaQm0wQm5WVWZNWjAtcjBqV19INWg2a1Y4TGxSRkIza3NpbnpxYzUzQzlPLXRwbnhDQ0gtM0VqMXFCVFBwN2hOVTRSRkNEVmlfYXR1UTZ2cDNVaWlVdVVENUdQT0xNNEVmdWZIQ253dzFfT2dBNWNVX0xZaFFRYWZxOE9NcEtVQnlud1ZVRF9jcnBVeTR2SWdCNTY2OUNmVmk2N0FsUnhKLWZYZ3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-03-31 10:57:12"
@@ -1137,16 +1175,6 @@
       "title": "小一導入雙語、AI培養世界公民 張嘉郡教育政見推「品德永續、國際視野」 - 台灣民眾電子報",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5JbkNBYmROZTlXZ3ZtZm1jMHFCNDFXemRJcl9VQWJZV253M2JlZGkzN0FXVDNGVHhuODVHd1REdXBQUUZJWURjQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-03-30 16:59:42"
-    },
-    {
-      "title": "批張嘉郡雙語教學政見「早不是新主張」 劉建國：如否定姑姑執政成果 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yQl9ZcXZkYzFDdldOZGFSU2NQVWxaNjAzcHdfQzQ3Z1JTZU9ZTFEtX0dKZ1kydmJ6UzFsTUlrcFVhanVEQ1R1eE0wbERXVGNsTTVEb2hsY0pibWdyNEFrRXA2TE40UDRaQ3fSAW9BVV95cUxPZXU3Q1ltTkkxUnVBY1VaMWFMZWpkMVVSekQ2Yl8wVERzVF8xYzJLMEl6UFlYa01fQlN3UzFLU0p3Y1ZvZHE1aE9kRF8yTkluQTlaTmo5aEtNb25aSm9HZU5jSGM0d3UycnZnYWlEWjQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-03-30 16:20:47"
-    },
-    {
-      "title": "批張嘉郡雙語教學政見「早不是新主張」 劉建國：如否定姑姑執政成果 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQaTNUdndkb0xmUmVRTmFkb1dCTnZsVnhRR0VGSVpVb3E0T0lZNEU2a0NGdkhaMkVjUWhXdlZZNmlLRVlXU1owbGlvcXJOQk1zdVlDT0NuNGRmd0FrOGduNlNSMk43WTRkTEJ1S2VBSXZDMm0xZmp0WE5peWd3S0Y5cW5UYm83VXJsRy1nRXNMLUhnSkpJQTZWaGRydTVSVWIyNXVKS3lxdVhEa0xtOEtSeGdDbWdEZ1I3c3VyY0ZzSGpvWGJBYy1wVWRYRmVPTERIdktzVFF1QktESk1aUkRhMFE4RENvTmpXOGlxcFphS29fRmJXSDMyd2lhWGt5V01mRWRNby03WktVd05FMl9SSmh0WTdwR1ZGOVVfVFpUY0RRTUxtNWRSMDRJUWNnMWFkdkNnSjBuSHpNb1I4WFFlaDJGeDdDR1cwSElYVU4zOTdyb3E1SHRKaXp6TmgyRm5rYUtycVdQSDBhSGpQZjlhWEMydmQ1eGdhYzI4b1FPVXpzRlZYYVFYX3FTaHMyR2dZZG1xSDFYci1JR1ZCRko1b0ZRRGwxN28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-03-30 16:20:47"
     }
   ],
   "person_sections": {
@@ -1331,6 +1359,16 @@
       ],
       "news": [
         {
+          "title": "台商深耕泰國扮橋樑 劉建國：未來深化醫療等多元領域合作 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNZWRHVFR1bXVCUkFDd2I1TlljQWJWbWFoYlVITjB3UXdDV2JRR2RNa3JsaW8tUllqRlVuU2pGXzRvQURUWEtCSjhUNlBBWDNZdURMRFpqWWw4QzRvM0pfenU5WGk1SFh4U0Q5dHZyWXZwUDA0dGRVOHFobEZVQS05YVJ6V1lLYnA0cEFJZGxrTTVEQkZOZ3NKNWFabmhOLXFHWmlvU0YtQXg4WktKZDNCVjJYc1AwN1g1UWw3U25XNTlod2tXbmJEZXRJQ2YzUHVZcW5zV1N4bVZ1ZUNEVlVKNzIzVEpiaWdIQTB5Z0x1eEpFSndfRnloTFlmOWYxc0x1Z1JVRlJnSjl6RjVKTU52Q0xEVmU3a1dwOGR6MGJxR0Fja2Q1NEtUNFRURjY5ZWhQYnJ3bzBHUFNGQ2o3dG1OdzgydFFOM0VTR2luQzJBWjVHX0w5czFTNlpaeldpNzV1UVNrM0JNaFpVaTlpZVNGdG1Hb3lTcS1ZRi1TRDRTRXhVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-03-31 11:42:23"
+        },
+        {
+          "title": "台商深耕泰國扮橋樑 劉建國： 未來深化醫療等多元領域合作 - 匯流新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZQTdXZW41NnJVQmZZZUJ1dVpodmdwTFk2Tzc5cHdpU0JKQ3ZGTTlBaEw2Zjd3ZnowaXVKaFhSeXJ6d1E3MlJ5eFhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-03-31 11:34:27"
+        },
+        {
           "title": "雲縣長選戰 張嘉郡、 劉建國PK教育政見 - 自由時報",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RN2F1YlB2Wndla1pXUFp6RHNkNnJlVnNhSGRGSG9hdEV6Z2ZtZTUwcVpMQVBIeGxDYy1hTFBGU0drczR4NlZtQzFZQUxKRjdaV3hMX1d3ODdURVRLa1ZFadIBZkFVX3lxTE5Qd2EwMGFpR3pRZTdSOUxoMGFHMlB2NWRlaTM5VWs4M1lldGNpeGFTTThTMmsxVTBjTTNlTHh4ZktNVWkzWFdaQ0JlS1FIYWJqRVJXOHBQc2tDMGF2aXVjZnNMZWNMdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-03-31 05:30:00"
@@ -1419,22 +1457,22 @@
           "title": "爭取調高天然災害現金救助 劉建國：助農民度過極端氣候衝擊 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOUXRYRXc5eHVLWmhESjlQeVVWYkZ5enlEVktneERYSDNDdURXWjdycm9wMjVQWVNPbkZIeVZybFNTOTlQWDdDaENyMEhENlFaX1cyR0JoMl9pVUhIdzNkbHBzRlowcEpyempaTFFkdDE3WXVXRnJ3NGU3MWJOVUFrZ19ZSDZ4VHp0SS1EX0Qwb3A4bUhacWpJSXEyMWt3aWV5OFNYUk9NUHVzbVhYMXRyVVdrUDkxWlR5NkRHSThOYWFSRUNmNFhMbHZaMkZqSGI0SU1udW1oOGVRYlA3T3J0ZWZSVXRHUXZ6TkFacGI2dmVZX1VlZV85WDdOTHY2Vmc2cUdMaWlGUnNVOG84U0J4bFhJSUc2am9EQ2xxcTJnYTFBYjdwUm11Nm1VZVlJN1UtZGoxeWlmZERmb2tEVlJxaktIblhQNGt6M1RtX3FzVXJ4dmE0ME8xSW9laDB2emVSSFNBdUVtZVQzZ3ZxcmRoRlhGNl9CN2txalg3LVZRb0JzLV9vdGZzVHNMM2RNdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-03-27 15:57:00"
-        },
-        {
-          "title": "爭取調高天然災害現金救助　劉建國：助農民度過極端氣候衝擊 - 鏡週刊Mirror Media",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zYV9WS3hsQmJqbEpPSUhucFRpM3Nkcjd0WW1GZERTLW9QejNjdEprVWNRdWlCTVhjQXk2amxsdFAyX1dJRG14aGpPMTFuNFVZaEVjOUtLY2dYRE3SAWBBVV95cUxNZmw3VXo2eDdSNEpjNHBpNzVHZl8tM0RxMllPQlBfdWFnR0FnS2RCMEJ5LTRlMVJyWHhzdGktcUVoOTlna3BIV1pKaFM5ODg0Q0RnT0NsMkdQdENOY2ZUWEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-03-27 15:57:00"
-        },
-        {
-          "title": "擴大產業園區托育量能 勞工安心就業 劉建國要求經濟部1個月內提具體計畫 | 新頭殼 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NVUcyYV9SY3FVdmlMX0M4NWJfSmVxTWdkbjZXYW9UeU5tTnV2T1JFakhHSHkzU0FnQmZiVHZCVGRCYkt5OGNjb2ljX2E0aUduaDZySkpB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-03-27 01:53:11"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "台商深耕泰國扮橋樑 劉建國：未來深化醫療等多元領域合作 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNZWRHVFR1bXVCUkFDd2I1TlljQWJWbWFoYlVITjB3UXdDV2JRR2RNa3JsaW8tUllqRlVuU2pGXzRvQURUWEtCSjhUNlBBWDNZdURMRFpqWWw4QzRvM0pfenU5WGk1SFh4U0Q5dHZyWXZwUDA0dGRVOHFobEZVQS05YVJ6V1lLYnA0cEFJZGxrTTVEQkZOZ3NKNWFabmhOLXFHWmlvU0YtQXg4WktKZDNCVjJYc1AwN1g1UWw3U25XNTlod2tXbmJEZXRJQ2YzUHVZcW5zV1N4bVZ1ZUNEVlVKNzIzVEpiaWdIQTB5Z0x1eEpFSndfRnloTFlmOWYxc0x1Z1JVRlJnSjl6RjVKTU52Q0xEVmU3a1dwOGR6MGJxR0Fja2Q1NEtUNFRURjY5ZWhQYnJ3bzBHUFNGQ2o3dG1OdzgydFFOM0VTR2luQzJBWjVHX0w5czFTNlpaeldpNzV1UVNrM0JNaFpVaTlpZVNGdG1Hb3lTcS1ZRi1TRDRTRXhVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-03-31 11:42:23"
+      },
+      {
+        "title": "台商深耕泰國扮橋樑 劉建國： 未來深化醫療等多元領域合作 - 匯流新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZQTdXZW41NnJVQmZZZUJ1dVpodmdwTFk2Tzc5cHdpU0JKQ3ZGTTlBaEw2Zjd3ZnowaXVKaFhSeXJ6d1E3MlJ5eFhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-03-31 11:34:27"
+      },
       {
         "title": "古坑春茶全枯失收！張嘉郡爭取每公頃10萬救助及低利貸款 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQRmEwR1hndkdVLTVaNHRDdkxpdGpKYUk5ZTREMmw1Uk9URmgza0JIOUkyMGFIUmYtTWZ5Ylc1TlJKTllKcWo0ejNCcDVnNjNmUTJjWXM0WmQ3S0NRZk01Z2laYlVzRUp2bm8xQUVVcFpxYlQzX1pycXRsZ1hDNktIakNldFUybWlMUFByMGduX2c5LU1oOGktd3gxZHlnVUI5NW9oMmJMNmlkRjJxejYxOFA4dHM2NVl3OVpDWDFCNHZXQ2Z3VDEwcEhuY25Va0s0RUZaQm0wQm5WVWZNWjAtcjBqV19INWg2a1Y4TGxSRkIza3NpbnpxYzUzQzlPLXRwbnhDQ0gtM0VqMXFCVFBwN2hOVTRSRkNEVmlfYXR1UTZ2cDNVaWlVdVVENUdQT0xNNEVmdWZIQ253dzFfT2dBNWNVX0xZaFFRYWZxOE9NcEtVQnlud1ZVRF9jcnBVeTR2SWdCNTY2OUNmVmk2N0FsUnhKLWZYZ3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1634,6 +1672,16 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "台商深耕泰國扮橋樑 劉建國：未來深化醫療等多元領域合作 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNZWRHVFR1bXVCUkFDd2I1TlljQWJWbWFoYlVITjB3UXdDV2JRR2RNa3JsaW8tUllqRlVuU2pGXzRvQURUWEtCSjhUNlBBWDNZdURMRFpqWWw4QzRvM0pfenU5WGk1SFh4U0Q5dHZyWXZwUDA0dGRVOHFobEZVQS05YVJ6V1lLYnA0cEFJZGxrTTVEQkZOZ3NKNWFabmhOLXFHWmlvU0YtQXg4WktKZDNCVjJYc1AwN1g1UWw3U25XNTlod2tXbmJEZXRJQ2YzUHVZcW5zV1N4bVZ1ZUNEVlVKNzIzVEpiaWdIQTB5Z0x1eEpFSndfRnloTFlmOWYxc0x1Z1JVRlJnSjl6RjVKTU52Q0xEVmU3a1dwOGR6MGJxR0Fja2Q1NEtUNFRURjY5ZWhQYnJ3bzBHUFNGQ2o3dG1OdzgydFFOM0VTR2luQzJBWjVHX0w5czFTNlpaeldpNzV1UVNrM0JNaFpVaTlpZVNGdG1Hb3lTcS1ZRi1TRDRTRXhVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-03-31 11:42:23"
+      },
+      {
+        "title": "台商深耕泰國扮橋樑 劉建國： 未來深化醫療等多元領域合作 - 匯流新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZQTdXZW41NnJVQmZZZUJ1dVpodmdwTFk2Tzc5cHdpU0JKQ3ZGTTlBaEw2Zjd3ZnowaXVKaFhSeXJ6d1E3MlJ5eFhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-03-31 11:34:27"
+      },
+      {
         "title": "古坑春茶全枯失收！張嘉郡爭取每公頃10萬救助及低利貸款 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQRmEwR1hndkdVLTVaNHRDdkxpdGpKYUk5ZTREMmw1Uk9URmgza0JIOUkyMGFIUmYtTWZ5Ylc1TlJKTllKcWo0ejNCcDVnNjNmUTJjWXM0WmQ3S0NRZk01Z2laYlVzRUp2bm8xQUVVcFpxYlQzX1pycXRsZ1hDNktIakNldFUybWlMUFByMGduX2c5LU1oOGktd3gxZHlnVUI5NW9oMmJMNmlkRjJxejYxOFA4dHM2NVl3OVpDWDFCNHZXQ2Z3VDEwcEhuY25Va0s0RUZaQm0wQm5WVWZNWjAtcjBqV19INWg2a1Y4TGxSRkIza3NpbnpxYzUzQzlPLXRwbnhDQ0gtM0VqMXFCVFBwN2hOVTRSRkNEVmlfYXR1UTZ2cDNVaWlVdVVENUdQT0xNNEVmdWZIQ253dzFfT2dBNWNVX0xZaFFRYWZxOE9NcEtVQnlud1ZVRF9jcnBVeTR2SWdCNTY2OUNmVmk2N0FsUnhKLWZYZ3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-03-31 10:57:12"
@@ -1822,16 +1870,6 @@
         "title": "張麗善推農業政見白皮書 劉建國邀教授相挺 - Yahoo - 汽機車",
         "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNSm16ckhqMXgzWVh2ZUpEaTB4N0Y5VGtBMU82QnhBM09uNVJBM1JQN3BWbXZ4WjNlMk5CSDRnbGZYcGlkWXVjal9BejJKdUpOTHZGNmJVeGhMMFlPVUVCVEVPTk5BMmkxM0ZfU2JSX05vV2VKRzVFaFRTczl3X3BUWDBmd0NzYlhiRjFneEY0Sk1pYUFKT1QtdTVrRThKdU1oSy1Mdm9UUGhieWJycmdqVWsyN2xXSDVJZFEtZkZVb0xIUTVRWC03UEZfaGVEaFJTaWo4dXJmRUhVX242bW9vbXVjODFFdmc0cnZYU05qdmRWdlFlU3JjR1pxWExYTWhIUnZacXdfWE1HU1hibi14UHNjemtyTTV3cEZHUTFkTEY2T3JhVG56R2plRS1xZlBEWUtfM3M4TFlwX2llV2pSa09vOUhzNmZjSUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-03-28 16:32:21"
-      },
-      {
-        "title": "亞太國會議員聯合會登場 張嘉郡任理事主席： 台灣在國際不可或缺 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxNdmFLalFNei1tRjAwVWZETGJIZU4xQm51elZFOG9RUkRzLWg0NHI0NXFsQVVYcmZKSlRZSmFTOEVDRHc5VGF1dm1mM3BpdTk0T2RaRW5CVUkteTlnbFpYdE1wZ3NhTTdKbU1lam15RGY0akNFSk5jUEFzUTVLTVNMLVVPM0QwckdXSWlHRHRONkdyMHJITXVlSlBsRnpaSzIxWXkzcXJ6V09wRTRBZVRLSGRZZnBKRENtdk4tVk13bER1NHhTQlhUcmF0NHlsaGd2Qm1nZ1pTSGc2WHI3Mk5VczFMbHFUWF94Z0xGVzE4SUNYLVV2WEZ2U25uV3Vudzl1MjJaRkp0dEJIQmhiR3QtUWxCMXE1dlNQMUhBWkFrU1ZWSVYyNkxiTkpzNG5hc0h2NkJaek5uMUtlT0RfdTE3SXk1Qkh1cXFWUWdxekliVm5vSFdNM19wQWJ3LWNDbFlBUlpkaFhNRVVsNzJqTzdtVUQ5MU1YazNCbnlOZnRCS0JHRW94ZnROVXczMlpjMEp5LW9rczNXOWs2QXNOZnJOeHJNVXFaWTJnSWRRMzNmU1QtR3JwTzIzclQ1Z2ZwQmhJWmZ2bzZ1Sm1LREFFLWt3Z1ZGR2RJa1NBdUZjTkRycW1nWXN5Vzc1Z3lORDhMWEdFRGo3QVYwdVFCQTdsUElPMHB1Q0w4ZmRNUXUwenNPaVNJd0l2cnowRUx1UllCYXhCazUzVFZfencxeC1NcnU2MjBCN19tanVEYV9qUkprQm8wM1NDOHJMelR3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-03-28 08:08:18"
-      },
-      {
-        "title": "爭取調高天然災害現金救助 雲林立委劉建國：強化制度協助農民度過極端氣候衝擊！ - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kR3ltZ1M1RVZ4MlAwQUN6a29QWkdaUGhlU295S3VxWFJDTUNkaXRVNC1EUTFtMG5BMDNPQVNpVjlqRDc4SVBLWlNBVS1UWVpCVm5ubXNhQllGcFdMSVBaTEVvY3MteEV4S1JZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-03-27 23:37:44"
       }
     ],
     "facebook": [
