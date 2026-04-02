@@ -41,6 +41,45 @@ async function run(){
     li.appendChild(a); news.appendChild(li);
   });
 
+  // 事件分流（分/時/日）
+  function renderEventList(elId, arr){
+    const el=document.getElementById(elId); if(!el) return; el.innerHTML='';
+    (arr||[]).forEach(x=>{
+      const li=document.createElement('li');
+      const a=document.createElement('a');
+      a.href=x.url; a.target='_blank'; a.rel='noopener';
+      a.textContent=`[${x.risk}] ${(x.title||x.url)}${x.time?`（${x.time.slice(5,16)}）`:''}`;
+      li.appendChild(a); el.appendChild(li);
+    });
+    if((arr||[]).length===0){ const li=document.createElement('li'); li.textContent='無'; el.appendChild(li); }
+  }
+  const es=d.event_stream||{};
+  renderEventList('eventsMinute', es.minute||[]);
+  renderEventList('eventsHour', es.hour||[]);
+  renderEventList('eventsDay', es.day||[]);
+
+  const lw=document.getElementById('lightWall');
+  if(lw){
+    const cRed=(es.minute||[]).length;
+    const cYellow=(es.hour||[]).length;
+    const cGreen=(es.day||[]).length;
+    lw.innerHTML=`<span class="badge 紅">紅 ${cRed}</span> <span class="badge 黃">黃 ${cYellow}</span> <span class="badge 綠">綠 ${cGreen}</span>`;
+  }
+
+  const rg=d.regional_groups||{};
+  const rEl=document.getElementById('regionHot');
+  if(rEl){
+    rEl.innerHTML='';
+    (rg.regions||[]).forEach(x=>{ const li=document.createElement('li'); li.textContent=`${x.name}: ${x.count}`; rEl.appendChild(li); });
+    if((rg.regions||[]).length===0){const li=document.createElement('li'); li.textContent='無'; rEl.appendChild(li);}
+  }
+  const gEl=document.getElementById('groupHot');
+  if(gEl){
+    gEl.innerHTML='';
+    (rg.groups||[]).forEach(x=>{ const li=document.createElement('li'); li.textContent=`${x.name}: ${x.count}`; gEl.appendChild(li); });
+    if((rg.groups||[]).length===0){const li=document.createElement('li'); li.textContent='無'; gEl.appendChild(li);}
+  }
+
   const detailMap = pick(d, 'latest_by_platform_24h', 'latest_by_platform_7d') || {};
   const platformDetail = document.getElementById('platformDetail');
   if(platformDetail){
