@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-04-03T02:28:40.192541+00:00",
+  "generated_at": "2026-04-03T02:43:42.663120+00:00",
   "metrics": {
-    "total_24h": 14,
-    "prev_24h": 14,
-    "growth_pct": 0.0,
-    "news_24h": 12,
+    "total_24h": 12,
+    "prev_24h": 17,
+    "growth_pct": -29.41,
+    "news_24h": 10,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 126,
+    "total": 127,
     "prev": 132,
-    "growth_pct": -4.55,
-    "news": 98,
+    "growth_pct": -3.79,
+    "news": 99,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 12
+      "count": 10
     },
     {
       "platform": "facebook",
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 98
+      "count": 99
     },
     {
       "platform": "facebook",
@@ -56,7 +56,7 @@
   "by_hour": [
     {
       "hour": "2026-04-02 10:00",
-      "count": 4
+      "count": 1
     },
     {
       "hour": "2026-04-02 11:00",
@@ -84,6 +84,10 @@
     },
     {
       "hour": "2026-04-02 23:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-04-03 10:00",
       "count": 1
     }
   ],
@@ -315,12 +319,16 @@
     {
       "hour": "2026-04-02 23:00",
       "count": 1
+    },
+    {
+      "hour": "2026-04-03 10:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 12
+      "count": 10
     },
     {
       "platform": "facebook",
@@ -329,6 +337,11 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "嘉市藍白整合民調決戰 藍營立委張嘉郡林沛祥陪張啓楷車掃拚勝出 - 聯合新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01UnZ1WDRRNzdnQTNWQXo1akIzamlRazFZaXE4eFFIZ1FHZUdmbTRjNjExSmdmalAxUzJaOXpELTdBWkVkaVFfNUNBZmg4bDVpVzdv0gFYQVVfeXFMUHFKRG8wdVJnR0J6dXcwV0U5anZBcmJpSHRRSk5nR3VpcHY4dEhMa1IyS25WeHNGMFRmYWxnZzlReU5iNXgzSGQ3SkJCVDZVSE5DVzFjeEJfNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-03 10:29:21"
+      },
       {
         "title": "活化閒置空間兼顧治安與長照 雲林立委劉建國促成水試所台西舊宿舍轉型長照據點！ - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IdkREQTUyNjhjNHRhQ09nd1l0OVBjRmFxMmx0a0xGLWxPYXdEUkZuN01yRV9ySjBfV1hHN0d0YWN6QlBWLVRKSzhIUXdkcUl0cGVudDRlTkhWOUtTMlBRcUpQcnNpREFqX05n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -373,21 +386,6 @@
         "title": "劉建國召開「挺漁民、護漁權、顧未來」與漁民座談養殖併入？漁撈？類別直接轉換聘僱外勞更方便 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeVEtcGpoemhUUkcyN1gxM3ZNRmZFM2tCZk5sNi1mVUxFRm15NGN4U1dhY0ZvemNPNU0wRmtrMDVXNnA2V3hTRWZWQjRGYnJ5NXpPZlJta3VWbjRJOUZNUC1EYW9YbGlFa1FqQkxSYndLSTJqNDVxM1NiRmZKa0xvR0ZOZnNmTEViTTFhMDVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-02 10:58:55"
-      },
-      {
-        "title": "劉建國召開「挺漁民、護漁權、顧未來」座談會 - 三星傳媒",
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNMkdtZjlKUWN3SUhIbDRoZFJwSXVhVEp3alZzcU9acGZVckdZNG1HUnNxSm5xSGJKbV9ac0FUdVhtZWJxTnpMSkwwMnp2R0hzMGo0VzNaY2tEVW14X2dkYUQtLTE1ZExVR3luMHZxMUczN0dJRkNWUlFkdEJwRVotOFZkcHNBNU5lNjJ5OUV4anBvSEtkX21zQnkwcllocHJEa3JubzFkRkl3bVVxVDBNX2p4d2g3UDZRR25Da2VTelJ0MDJFZGVGTUJWZWUzT0M3eVpwQTA2V0FKbGNYMzJ5Rm9DZU95Z2otdVc5SnVNTUxYdk9WUUNuTTJrMGd1aFNIaHBxbW5GRE9zVTZTa1JWQ3ZfT3pKSkotbXBJSERVcWJJcTRTWmUyblhCMzRuSmpYeW9fTGNBY1VfSkIzLURLem1sSlJfQTRncWE5aV8tVjhYZmo1U3VqaUNEeHpidzQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-02 10:39:05"
-      },
-      {
-        "title": "劉建國召開「挺漁民、護漁權、顧未來」座談會 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdWRDdFNIbEU4cW9zUkJybUh0enFVV3d6TEdXMEF3X21LaVdQY19VQVRrbWdlNUZ3enBCTHpHMGZZd1FTd0NfLUU3TjRJaFZ1am5tcFFFVm1qQWxpSVNlREZOYXdLekVpTzcxaUNvRXdLbHM1VnNGUWlRVjdxRS1fWEtWSUtrQ3ctQThlNlM4V0ltUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-02 10:36:36"
-      },
-      {
-        "title": "劉建國召開「挺漁民、護漁權、顧未來」座談會 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DZkVyWFFmc1lZMm1xM0swSGs5V25wdkY4bGtNcV9ETlg2QjVlNWZJNG53bVlGVVB0TjBiUnYzNUpTUk1ic2FETHMtUjdNZ1hzb3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-02 10:36:00"
       }
     ],
     "facebook": [
@@ -401,7 +399,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 12
+      "count": 10
     },
     {
       "platform": "facebook",
@@ -410,6 +408,11 @@
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "嘉市藍白整合民調決戰 藍營立委張嘉郡林沛祥陪張啓楷車掃拚勝出 - 聯合新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01UnZ1WDRRNzdnQTNWQXo1akIzamlRazFZaXE4eFFIZ1FHZUdmbTRjNjExSmdmalAxUzJaOXpELTdBWkVkaVFfNUNBZmg4bDVpVzdv0gFYQVVfeXFMUHFKRG8wdVJnR0J6dXcwV0U5anZBcmJpSHRRSk5nR3VpcHY4dEhMa1IyS25WeHNGMFRmYWxnZzlReU5iNXgzSGQ3SkJCVDZVSE5DVzFjeEJfNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-03 10:29:21"
+      },
       {
         "title": "活化閒置空間兼顧治安與長照 雲林立委劉建國促成水試所台西舊宿舍轉型長照據點！ - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IdkREQTUyNjhjNHRhQ09nd1l0OVBjRmFxMmx0a0xGLWxPYXdEUkZuN01yRV9ySjBfV1hHN0d0YWN6QlBWLVRKSzhIUXdkcUl0cGVudDRlTkhWOUtTMlBRcUpQcnNpREFqX05n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -454,21 +457,6 @@
         "title": "劉建國召開「挺漁民、護漁權、顧未來」與漁民座談養殖併入？漁撈？類別直接轉換聘僱外勞更方便 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeVEtcGpoemhUUkcyN1gxM3ZNRmZFM2tCZk5sNi1mVUxFRm15NGN4U1dhY0ZvemNPNU0wRmtrMDVXNnA2V3hTRWZWQjRGYnJ5NXpPZlJta3VWbjRJOUZNUC1EYW9YbGlFa1FqQkxSYndLSTJqNDVxM1NiRmZKa0xvR0ZOZnNmTEViTTFhMDVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-02 10:58:55"
-      },
-      {
-        "title": "劉建國召開「挺漁民、護漁權、顧未來」座談會 - 三星傳媒",
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNMkdtZjlKUWN3SUhIbDRoZFJwSXVhVEp3alZzcU9acGZVckdZNG1HUnNxSm5xSGJKbV9ac0FUdVhtZWJxTnpMSkwwMnp2R0hzMGo0VzNaY2tEVW14X2dkYUQtLTE1ZExVR3luMHZxMUczN0dJRkNWUlFkdEJwRVotOFZkcHNBNU5lNjJ5OUV4anBvSEtkX21zQnkwcllocHJEa3JubzFkRkl3bVVxVDBNX2p4d2g3UDZRR25Da2VTelJ0MDJFZGVGTUJWZWUzT0M3eVpwQTA2V0FKbGNYMzJ5Rm9DZU95Z2otdVc5SnVNTUxYdk9WUUNuTTJrMGd1aFNIaHBxbW5GRE9zVTZTa1JWQ3ZfT3pKSkotbXBJSERVcWJJcTRTWmUyblhCMzRuSmpYeW9fTGNBY1VfSkIzLURLem1sSlJfQTRncWE5aV8tVjhYZmo1U3VqaUNEeHpidzQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-02 10:39:05"
-      },
-      {
-        "title": "劉建國召開「挺漁民、護漁權、顧未來」座談會 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdWRDdFNIbEU4cW9zUkJybUh0enFVV3d6TEdXMEF3X21LaVdQY19VQVRrbWdlNUZ3enBCTHpHMGZZd1FTd0NfLUU3TjRJaFZ1am5tcFFFVm1qQWxpSVNlREZOYXdLekVpTzcxaUNvRXdLbHM1VnNGUWlRVjdxRS1fWEtWSUtrQ3ctQThlNlM4V0ltUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-02 10:36:36"
-      },
-      {
-        "title": "劉建國召開「挺漁民、護漁權、顧未來」座談會 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DZkVyWFFmc1lZMm1xM0swSGs5V25wdkY4bGtNcV9ETlg2QjVlNWZJNG53bVlGVVB0TjBiUnYzNUpTUk1ic2FETHMtUjdNZ1hzb3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-02 10:36:00"
       }
     ],
     "facebook": [
@@ -480,14 +468,19 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 0,
-    "劉建國": 13
+    "張嘉郡": 1,
+    "劉建國": 10
   },
   "mention_compare_7d": {
-    "張嘉郡": 55,
+    "張嘉郡": 56,
     "劉建國": 64
   },
   "top_news": [
+    {
+      "title": "嘉市藍白整合民調決戰 藍營立委張嘉郡林沛祥陪張啓楷車掃拚勝出 - 聯合新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01UnZ1WDRRNzdnQTNWQXo1akIzamlRazFZaXE4eFFIZ1FHZUdmbTRjNjExSmdmalAxUzJaOXpELTdBWkVkaVFfNUNBZmg4bDVpVzdv0gFYQVVfeXFMUHFKRG8wdVJnR0J6dXcwV0U5anZBcmJpSHRRSk5nR3VpcHY4dEhMa1IyS25WeHNGMFRmYWxnZzlReU5iNXgzSGQ3SkJCVDZVSE5DVzFjeEJfNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-03 10:29:21"
+    },
     {
       "title": "活化閒置空間兼顧治安與長照 雲林立委劉建國促成水試所台西舊宿舍轉型長照據點！ - 台灣華報",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IdkREQTUyNjhjNHRhQ09nd1l0OVBjRmFxMmx0a0xGLWxPYXdEUkZuN01yRV9ySjBfV1hHN0d0YWN6QlBWLVRKSzhIUXdkcUl0cGVudDRlTkhWOUtTMlBRcUpQcnNpREFqX05n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -532,24 +525,14 @@
       "title": "劉建國召開「挺漁民、護漁權、顧未來」與漁民座談養殖併入？漁撈？類別直接轉換聘僱外勞更方便 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeVEtcGpoemhUUkcyN1gxM3ZNRmZFM2tCZk5sNi1mVUxFRm15NGN4U1dhY0ZvemNPNU0wRmtrMDVXNnA2V3hTRWZWQjRGYnJ5NXpPZlJta3VWbjRJOUZNUC1EYW9YbGlFa1FqQkxSYndLSTJqNDVxM1NiRmZKa0xvR0ZOZnNmTEViTTFhMDVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-02 10:58:55"
-    },
-    {
-      "title": "劉建國召開「挺漁民、護漁權、顧未來」座談會 - 三星傳媒",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNMkdtZjlKUWN3SUhIbDRoZFJwSXVhVEp3alZzcU9acGZVckdZNG1HUnNxSm5xSGJKbV9ac0FUdVhtZWJxTnpMSkwwMnp2R0hzMGo0VzNaY2tEVW14X2dkYUQtLTE1ZExVR3luMHZxMUczN0dJRkNWUlFkdEJwRVotOFZkcHNBNU5lNjJ5OUV4anBvSEtkX21zQnkwcllocHJEa3JubzFkRkl3bVVxVDBNX2p4d2g3UDZRR25Da2VTelJ0MDJFZGVGTUJWZWUzT0M3eVpwQTA2V0FKbGNYMzJ5Rm9DZU95Z2otdVc5SnVNTUxYdk9WUUNuTTJrMGd1aFNIaHBxbW5GRE9zVTZTa1JWQ3ZfT3pKSkotbXBJSERVcWJJcTRTWmUyblhCMzRuSmpYeW9fTGNBY1VfSkIzLURLem1sSlJfQTRncWE5aV8tVjhYZmo1U3VqaUNEeHpidzQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-02 10:39:05"
-    },
-    {
-      "title": "劉建國召開「挺漁民、護漁權、顧未來」座談會 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdWRDdFNIbEU4cW9zUkJybUh0enFVV3d6TEdXMEF3X21LaVdQY19VQVRrbWdlNUZ3enBCTHpHMGZZd1FTd0NfLUU3TjRJaFZ1am5tcFFFVm1qQWxpSVNlREZOYXdLekVpTzcxaUNvRXdLbHM1VnNGUWlRVjdxRS1fWEtWSUtrQ3ctQThlNlM4V0ltUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-02 10:36:36"
-    },
-    {
-      "title": "劉建國召開「挺漁民、護漁權、顧未來」座談會 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DZkVyWFFmc1lZMm1xM0swSGs5V25wdkY4bGtNcV9ETlg2QjVlNWZJNG53bVlGVVB0TjBiUnYzNUpTUk1ic2FETHMtUjdNZ1hzb3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-02 10:36:00"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "嘉市藍白整合民調決戰 藍營立委張嘉郡林沛祥陪張啓楷車掃拚勝出 - 聯合新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01UnZ1WDRRNzdnQTNWQXo1akIzamlRazFZaXE4eFFIZ1FHZUdmbTRjNjExSmdmalAxUzJaOXpELTdBWkVkaVFfNUNBZmg4bDVpVzdv0gFYQVVfeXFMUHFKRG8wdVJnR0J6dXcwV0U5anZBcmJpSHRRSk5nR3VpcHY4dEhMa1IyS25WeHNGMFRmYWxnZzlReU5iNXgzSGQ3SkJCVDZVSE5DVzFjeEJfNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-03 10:29:21"
+    },
     {
       "title": "活化閒置空間兼顧治安與長照 雲林立委劉建國促成水試所台西舊宿舍轉型長照據點！ - 台灣華報",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IdkREQTUyNjhjNHRhQ09nd1l0OVBjRmFxMmx0a0xGLWxPYXdEUkZuN01yRV9ySjBfV1hHN0d0YWN6QlBWLVRKSzhIUXdkcUl0cGVudDRlTkhWOUtTMlBRcUpQcnNpREFqX05n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -644,11 +627,6 @@
       "title": "114年雲林縣雲中新舊城區藍綠廊道縫合串聯計畫 雲林縣政府爭取4千餘萬 張麗善感謝張嘉郡等立委協助 打造虎尾城鄉共融新願景 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmhCV1RVOHVNQUFBTXRVVW11QkZGRnZCSVp4TEpYV3VVR2NtRkR6WGxXZDJGZmxSY2Z5b2NEc0lpS2dmLUhRTFAwWEUwX2JhbUEza1hqNmhIYTVKUkZkbUxtSWl5RlE0VlRYTFBZbG9pNXY4VjV4WlRjVGpZT1UwYjYtOW5td0dBSmxB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-01 11:20:08"
-    },
-    {
-      "title": "114年雲林縣雲中新舊城區藍綠廊道縫合串聯計畫雲林縣政府爭取4千餘萬張麗善感謝張嘉郡等立委協助打造虎尾城鄉共融新願景 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WbmtsczZ5UnJCdFlsVTRmSmJXTGlKTmhuLXBjeVlvVTJoQW9WbHczS0JPOVpXZng0UEE1NzNEVy1obVljT19QdUNLOERIVGQ1Qmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-01 11:20:00"
     }
   ],
   "latest_facebook_20": [
@@ -755,6 +733,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "嘉市藍白整合民調決戰 藍營立委張嘉郡林沛祥陪張啓楷車掃拚勝出 - 聯合新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01UnZ1WDRRNzdnQTNWQXo1akIzamlRazFZaXE4eFFIZ1FHZUdmbTRjNjExSmdmalAxUzJaOXpELTdBWkVkaVFfNUNBZmg4bDVpVzdv0gFYQVVfeXFMUHFKRG8wdVJnR0J6dXcwV0U5anZBcmJpSHRRSk5nR3VpcHY4dEhMa1IyS25WeHNGMFRmYWxnZzlReU5iNXgzSGQ3SkJCVDZVSE5DVzFjeEJfNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-03 10:29:21"
+    },
+    {
       "title": "活化閒置空間兼顧治安與長照 雲林立委劉建國促成水試所台西舊宿舍轉型長照據點！ - 台灣華報",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IdkREQTUyNjhjNHRhQ09nd1l0OVBjRmFxMmx0a0xGLWxPYXdEUkZuN01yRV9ySjBfV1hHN0d0YWN6QlBWLVRKSzhIUXdkcUl0cGVudDRlTkhWOUtTMlBRcUpQcnNpREFqX05n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-02 23:35:43"
@@ -848,11 +831,6 @@
       "title": "114年雲林縣雲中新舊城區藍綠廊道縫合串聯計畫 雲林縣政府爭取4千餘萬 張麗善感謝張嘉郡等立委協助 打造虎尾城鄉共融新願景 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmhCV1RVOHVNQUFBTXRVVW11QkZGRnZCSVp4TEpYV3VVR2NtRkR6WGxXZDJGZmxSY2Z5b2NEc0lpS2dmLUhRTFAwWEUwX2JhbUEza1hqNmhIYTVKUkZkbUxtSWl5RlE0VlRYTFBZbG9pNXY4VjV4WlRjVGpZT1UwYjYtOW5td0dBSmxB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-01 11:20:08"
-    },
-    {
-      "title": "114年雲林縣雲中新舊城區藍綠廊道縫合串聯計畫雲林縣政府爭取4千餘萬張麗善感謝張嘉郡等立委協助打造虎尾城鄉共融新願景 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WbmtsczZ5UnJCdFlsVTRmSmJXTGlKTmhuLXBjeVlvVTJoQW9WbHczS0JPOVpXZng0UEE1NzNEVy1obVljT19QdUNLOERIVGQ1Qmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-01 11:20:00"
     }
   ],
   "person_sections": {
@@ -885,6 +863,11 @@
         }
       ],
       "news": [
+        {
+          "title": "嘉市藍白整合民調決戰 藍營立委張嘉郡林沛祥陪張啓楷車掃拚勝出 - 聯合新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01UnZ1WDRRNzdnQTNWQXo1akIzamlRazFZaXE4eFFIZ1FHZUdmbTRjNjExSmdmalAxUzJaOXpELTdBWkVkaVFfNUNBZmg4bDVpVzdv0gFYQVVfeXFMUHFKRG8wdVJnR0J6dXcwV0U5anZBcmJpSHRRSk5nR3VpcHY4dEhMa1IyS25WeHNGMFRmYWxnZzlReU5iNXgzSGQ3SkJCVDZVSE5DVzFjeEJfNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-03 10:29:21"
+        },
         {
           "title": "古坑春茶失收張嘉郡爭取救助 - 臺灣導報",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzZnp5M2hBUWhmMmhxUFpQYVdOemRYcU9zQmZUVllrNDJlTldtNkc1OHlmTTlpOEttQjNSOUpWXzVueVZlanU2bzNlZzU5VE5QTzVZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -979,11 +962,6 @@
           "title": "張嘉郡拋教育白皮書 主打雙語AI與品德教育打造世界公民 - 蕃新聞",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RckxSMHhNQjB5YzFvbEYtY2s5Nl9jcWdwZWd6REprbjJZbmNiX1FEVFNOdE1LUnEzaV8wM2QtdG56Y0VGRmZTTzhPV3Zqc0k5aFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-03-30 23:28:00"
-        },
-        {
-          "title": "張嘉郡提首波教育政見 推「品德永續、國際視野」導入雙語、AI 培養世界公民 - 大宇宙新聞民時新聞|",
-          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPUVdMN2VQVDQ4Z1BzUXJjRGJfMlFvNnVqblJZMFlnVVNWZHpJWk8tNmNlM2FFWUhjRWJJc3d2LUhCbFQ5RXU5OWpiNURJR2daLWp2VlVUTk9uWXFBQS1GRW9wdTBNblFEb2hKR0VSUUpvY1RYSkhrNnV4N0xxVkw5bmpJaTNvbE5QN3BvcTVCczFZczRRdzJlNERGMU9DRTNjX0ZCNnhIZjd2b25OYlJBakJKLUZ2YWVHdFNZOU9ZZ2JEc1VQZkswRmdsaUw0TjV3elFNZkc4QXczb252WEhZOW4yZ0J4X2hNU0xzOUtNWXpDeC1jeGdvbXJqb1FFZ1FqRjQ1V2t1cW9wR0ZPd0FpRGluTEc4QjBOZnJrQmZPekVfOERQX09VX2tKTU9CbDZMZXVUMW44M0tkVm9DeF83dVgzOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-03-30 21:50:49"
         }
       ]
     },
@@ -1182,6 +1160,11 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "嘉市藍白整合民調決戰 藍營立委張嘉郡林沛祥陪張啓楷車掃拚勝出 - 聯合新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01UnZ1WDRRNzdnQTNWQXo1akIzamlRazFZaXE4eFFIZ1FHZUdmbTRjNjExSmdmalAxUzJaOXpELTdBWkVkaVFfNUNBZmg4bDVpVzdv0gFYQVVfeXFMUHFKRG8wdVJnR0J6dXcwV0U5anZBcmJpSHRRSk5nR3VpcHY4dEhMa1IyS25WeHNGMFRmYWxnZzlReU5iNXgzSGQ3SkJCVDZVSE5DVzFjeEJfNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-03 10:29:21"
+      },
+      {
         "title": "活化閒置空間兼顧治安與長照 雲林立委劉建國促成水試所台西舊宿舍轉型長照據點！ - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IdkREQTUyNjhjNHRhQ09nd1l0OVBjRmFxMmx0a0xGLWxPYXdEUkZuN01yRV9ySjBfV1hHN0d0YWN6QlBWLVRKSzhIUXdkcUl0cGVudDRlTkhWOUtTMlBRcUpQcnNpREFqX05n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-02 23:35:43"
@@ -1225,21 +1208,6 @@
         "title": "劉建國召開「挺漁民、護漁權、顧未來」與漁民座談養殖併入？漁撈？類別直接轉換聘僱外勞更方便 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeVEtcGpoemhUUkcyN1gxM3ZNRmZFM2tCZk5sNi1mVUxFRm15NGN4U1dhY0ZvemNPNU0wRmtrMDVXNnA2V3hTRWZWQjRGYnJ5NXpPZlJta3VWbjRJOUZNUC1EYW9YbGlFa1FqQkxSYndLSTJqNDVxM1NiRmZKa0xvR0ZOZnNmTEViTTFhMDVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-02 10:58:55"
-      },
-      {
-        "title": "劉建國召開「挺漁民、護漁權、顧未來」座談會 - 三星傳媒",
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNMkdtZjlKUWN3SUhIbDRoZFJwSXVhVEp3alZzcU9acGZVckdZNG1HUnNxSm5xSGJKbV9ac0FUdVhtZWJxTnpMSkwwMnp2R0hzMGo0VzNaY2tEVW14X2dkYUQtLTE1ZExVR3luMHZxMUczN0dJRkNWUlFkdEJwRVotOFZkcHNBNU5lNjJ5OUV4anBvSEtkX21zQnkwcllocHJEa3JubzFkRkl3bVVxVDBNX2p4d2g3UDZRR25Da2VTelJ0MDJFZGVGTUJWZWUzT0M3eVpwQTA2V0FKbGNYMzJ5Rm9DZU95Z2otdVc5SnVNTUxYdk9WUUNuTTJrMGd1aFNIaHBxbW5GRE9zVTZTa1JWQ3ZfT3pKSkotbXBJSERVcWJJcTRTWmUyblhCMzRuSmpYeW9fTGNBY1VfSkIzLURLem1sSlJfQTRncWE5aV8tVjhYZmo1U3VqaUNEeHpidzQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-02 10:39:05"
-      },
-      {
-        "title": "劉建國召開「挺漁民、護漁權、顧未來」座談會 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdWRDdFNIbEU4cW9zUkJybUh0enFVV3d6TEdXMEF3X21LaVdQY19VQVRrbWdlNUZ3enBCTHpHMGZZd1FTd0NfLUU3TjRJaFZ1am5tcFFFVm1qQWxpSVNlREZOYXdLekVpTzcxaUNvRXdLbHM1VnNGUWlRVjdxRS1fWEtWSUtrQ3ctQThlNlM4V0ltUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-02 10:36:36"
-      },
-      {
-        "title": "劉建國召開「挺漁民、護漁權、顧未來」座談會 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DZkVyWFFmc1lZMm1xM0swSGs5V25wdkY4bGtNcV9ETlg2QjVlNWZJNG53bVlGVVB0TjBiUnYzNUpTUk1ic2FETHMtUjdNZ1hzb3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-02 10:36:00"
       }
     ],
     "facebook": [
@@ -1259,6 +1227,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "嘉市藍白整合民調決戰 藍營立委張嘉郡林沛祥陪張啓楷車掃拚勝出 - 聯合新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01UnZ1WDRRNzdnQTNWQXo1akIzamlRazFZaXE4eFFIZ1FHZUdmbTRjNjExSmdmalAxUzJaOXpELTdBWkVkaVFfNUNBZmg4bDVpVzdv0gFYQVVfeXFMUHFKRG8wdVJnR0J6dXcwV0U5anZBcmJpSHRRSk5nR3VpcHY4dEhMa1IyS25WeHNGMFRmYWxnZzlReU5iNXgzSGQ3SkJCVDZVSE5DVzFjeEJfNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-03 10:29:21"
+      },
       {
         "title": "活化閒置空間兼顧治安與長照 雲林立委劉建國促成水試所台西舊宿舍轉型長照據點！ - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IdkREQTUyNjhjNHRhQ09nd1l0OVBjRmFxMmx0a0xGLWxPYXdEUkZuN01yRV9ySjBfV1hHN0d0YWN6QlBWLVRKSzhIUXdkcUl0cGVudDRlTkhWOUtTMlBRcUpQcnNpREFqX05n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1453,11 +1426,6 @@
         "title": "接待泰國台商顧問團訪立法院 劉建國：深化台泰交流 以民間外交厚植合作基礎 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxNYnRsRHY3cHR4Q0otQmt1Z3V5Wll4enlwdDRMZWJXWWUwSjhwV190eXNOQVZZMXdQMVRtbk1zMVpKT2pqWmIyNUF3ekZ0eDNENEdlWU0zTUx0SVRqbm40cThnY0Zhc0hTNGg5cnpoY2R5eVozTUFMMGhFNmhHczVCWUdDZkhyaFItNUdLMmUyTkZ1UUZmLTI3eTJ2VXR1R21VQWFpT0xPSVREeW9VMTV2T3ljQzg3REJrZ3ktRmZ0N2tvb0IxbFBheVc0eDFZR29FM0pyY2J6NEpFUHFYN3pzZW9QZFJTdjJHckcwU2R2OVZfMUZBdzJRbWQyWHhuWGYxWDJPZ25JUWR4emdYNnY5a29BcWd3SDJNZlEyMUozNTZaVjNINGtlS3Y3X2lIX1p2SmdyMF9wUUJZZGN3TVA4MjVIRTVkVUpmazd0UzlFOWRkLWlmYzRjOFEzU3ZOV3ZVMTNjcFo5dTJqR1kwdlRFWmpMSnFqMjVPVmE3WThJcmMzT1dSR19WS25xdXV1SEhPVzdtUTdYeGFFVkFKcjdGSU04NEJqckdiWjJUTkt3aDh4cDBMMlBQUjZRd3BMZ1RHQW5yWmNXUmxEdXlacjM1TFhpcjBJSXYyQUs1RzRjNDg3MWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-03-31 15:39:17"
-      },
-      {
-        "title": "台商深耕泰國扮橋樑 劉建國：未來深化醫療等多元領域合作 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNZWRHVFR1bXVCUkFDd2I1TlljQWJWbWFoYlVITjB3UXdDV2JRR2RNa3JsaW8tUllqRlVuU2pGXzRvQURUWEtCSjhUNlBBWDNZdURMRFpqWWw4QzRvM0pfenU5WGk1SFh4U0Q5dHZyWXZwUDA0dGRVOHFobEZVQS05YVJ6V1lLYnA0cEFJZGxrTTVEQkZOZ3NKNWFabmhOLXFHWmlvU0YtQXg4WktKZDNCVjJYc1AwN1g1UWw3U25XNTlod2tXbmJEZXRJQ2YzUHVZcW5zV1N4bVZ1ZUNEVlVKNzIzVEpiaWdIQTB5Z0x1eEpFSndfRnloTFlmOWYxc0x1Z1JVRlJnSjl6RjVKTU52Q0xEVmU3a1dwOGR6MGJxR0Fja2Q1NEtUNFRURjY5ZWhQYnJ3bzBHUFNGQ2o3dG1OdzgydFFOM0VTR2luQzJBWjVHX0w5czFTNlpaeldpNzV1UVNrM0JNaFpVaTlpZVNGdG1Hb3lTcS1ZRi1TRDRTRXhVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-03-31 11:42:23"
       }
     ],
     "facebook": [
@@ -1610,6 +1578,13 @@
     "hour": [],
     "day": [
       {
+        "title": "嘉市藍白整合民調決戰 藍營立委張嘉郡林沛祥陪張啓楷車掃拚勝出 - 聯合新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01UnZ1WDRRNzdnQTNWQXo1akIzamlRazFZaXE4eFFIZ1FHZUdmbTRjNjExSmdmalAxUzJaOXpELTdBWkVkaVFfNUNBZmg4bDVpVzdv0gFYQVVfeXFMUHFKRG8wdVJnR0J6dXcwV0U5anZBcmJpSHRRSk5nR3VpcHY4dEhMa1IyS25WeHNGMFRmYWxnZzlReU5iNXgzSGQ3SkJCVDZVSE5DVzFjeEJfNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-03 10:29:21",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "活化閒置空間兼顧治安與長照 雲林立委劉建國促成水試所台西舊宿舍轉型長照據點！ - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IdkREQTUyNjhjNHRhQ09nd1l0OVBjRmFxMmx0a0xGLWxPYXdEUkZuN01yRV9ySjBfV1hHN0d0YWN6QlBWLVRKSzhIUXdkcUl0cGVudDRlTkhWOUtTMlBRcUpQcnNpREFqX05n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-02 23:35:43",
@@ -1683,27 +1658,6 @@
         "title": "劉建國召開「挺漁民、護漁權、顧未來」與漁民座談養殖併入？漁撈？類別直接轉換聘僱外勞更方便 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeVEtcGpoemhUUkcyN1gxM3ZNRmZFM2tCZk5sNi1mVUxFRm15NGN4U1dhY0ZvemNPNU0wRmtrMDVXNnA2V3hTRWZWQjRGYnJ5NXpPZlJta3VWbjRJOUZNUC1EYW9YbGlFa1FqQkxSYndLSTJqNDVxM1NiRmZKa0xvR0ZOZnNmTEViTTFhMDVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-02 10:58:55",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "劉建國召開「挺漁民、護漁權、顧未來」座談會 - 三星傳媒",
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNMkdtZjlKUWN3SUhIbDRoZFJwSXVhVEp3alZzcU9acGZVckdZNG1HUnNxSm5xSGJKbV9ac0FUdVhtZWJxTnpMSkwwMnp2R0hzMGo0VzNaY2tEVW14X2dkYUQtLTE1ZExVR3luMHZxMUczN0dJRkNWUlFkdEJwRVotOFZkcHNBNU5lNjJ5OUV4anBvSEtkX21zQnkwcllocHJEa3JubzFkRkl3bVVxVDBNX2p4d2g3UDZRR25Da2VTelJ0MDJFZGVGTUJWZWUzT0M3eVpwQTA2V0FKbGNYMzJ5Rm9DZU95Z2otdVc5SnVNTUxYdk9WUUNuTTJrMGd1aFNIaHBxbW5GRE9zVTZTa1JWQ3ZfT3pKSkotbXBJSERVcWJJcTRTWmUyblhCMzRuSmpYeW9fTGNBY1VfSkIzLURLem1sSlJfQTRncWE5aV8tVjhYZmo1U3VqaUNEeHpidzQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-02 10:39:05",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "劉建國召開「挺漁民、護漁權、顧未來」座談會 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdWRDdFNIbEU4cW9zUkJybUh0enFVV3d6TEdXMEF3X21LaVdQY19VQVRrbWdlNUZ3enBCTHpHMGZZd1FTd0NfLUU3TjRJaFZ1am5tcFFFVm1qQWxpSVNlREZOYXdLekVpTzcxaUNvRXdLbHM1VnNGUWlRVjdxRS1fWEtWSUtrQ3ctQThlNlM4V0ltUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-02 10:36:36",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "劉建國召開「挺漁民、護漁權、顧未來」座談會 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DZkVyWFFmc1lZMm1xM0swSGs5V25wdkY4bGtNcV9ETlg2QjVlNWZJNG53bVlGVVB0TjBiUnYzNUpTUk1ic2FETHMtUjdNZ1hzb3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-02 10:36:00",
         "platform": "news",
         "risk": "綠"
       }
