@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-04-03T04:29:05.473592+00:00",
+  "generated_at": "2026-04-03T04:44:11.780296+00:00",
   "metrics": {
-    "total_24h": 10,
+    "total_24h": 11,
     "prev_24h": 16,
-    "growth_pct": -37.5,
-    "news_24h": 8,
+    "growth_pct": -31.25,
+    "news_24h": 9,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 125,
+    "total": 126,
     "prev": 134,
-    "growth_pct": -6.72,
-    "news": 99,
+    "growth_pct": -5.97,
+    "news": 100,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 8
+      "count": 9
     },
     {
       "platform": "facebook",
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 99
+      "count": 100
     },
     {
       "platform": "facebook",
@@ -80,6 +80,10 @@
     },
     {
       "hour": "2026-04-03 10:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-04-03 12:00",
       "count": 1
     }
   ],
@@ -311,12 +315,16 @@
     {
       "hour": "2026-04-03 10:00",
       "count": 1
+    },
+    {
+      "hour": "2026-04-03 12:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 8
+      "count": 9
     },
     {
       "platform": "facebook",
@@ -325,6 +333,11 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "閒置20年成治安死角 劉建國會勘台西水試所宿舍推長照轉型 - 波新聞",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzQzNWMm01V2FtNm9md2pPWHVKQXJ1MERTM3hMTFktbGhTMUVlTUx4OTNEblNSNWZESmprcXAzbS0tWG9IdS1EWF9jQUt5czVPR25paXVwSDNFaEJ1VDRZWm5NUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-03 12:15:00"
+      },
       {
         "title": "嘉市藍白整合民調決戰 藍營立委張嘉郡林沛祥陪張啓楷車掃拚勝出 - 聯合新聞網",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01UnZ1WDRRNzdnQTNWQXo1akIzamlRazFZaXE4eFFIZ1FHZUdmbTRjNjExSmdmalAxUzJaOXpELTdBWkVkaVFfNUNBZmg4bDVpVzdv0gFYQVVfeXFMUHFKRG8wdVJnR0J6dXcwV0U5anZBcmJpSHRRSk5nR3VpcHY4dEhMa1IyS25WeHNGMFRmYWxnZzlReU5iNXgzSGQ3SkJCVDZVSE5DVzFjeEJfNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -377,7 +390,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 8
+      "count": 9
     },
     {
       "platform": "facebook",
@@ -386,6 +399,11 @@
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "閒置20年成治安死角 劉建國會勘台西水試所宿舍推長照轉型 - 波新聞",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzQzNWMm01V2FtNm9md2pPWHVKQXJ1MERTM3hMTFktbGhTMUVlTUx4OTNEblNSNWZESmprcXAzbS0tWG9IdS1EWF9jQUt5czVPR25paXVwSDNFaEJ1VDRZWm5NUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-03 12:15:00"
+      },
       {
         "title": "嘉市藍白整合民調決戰 藍營立委張嘉郡林沛祥陪張啓楷車掃拚勝出 - 聯合新聞網",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01UnZ1WDRRNzdnQTNWQXo1akIzamlRazFZaXE4eFFIZ1FHZUdmbTRjNjExSmdmalAxUzJaOXpELTdBWkVkaVFfNUNBZmg4bDVpVzdv0gFYQVVfeXFMUHFKRG8wdVJnR0J6dXcwV0U5anZBcmJpSHRRSk5nR3VpcHY4dEhMa1IyS25WeHNGMFRmYWxnZzlReU5iNXgzSGQ3SkJCVDZVSE5DVzFjeEJfNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -437,13 +455,18 @@
   },
   "mention_compare_24h": {
     "張嘉郡": 1,
-    "劉建國": 8
+    "劉建國": 9
   },
   "mention_compare_7d": {
     "張嘉郡": 56,
-    "劉建國": 63
+    "劉建國": 64
   },
   "top_news": [
+    {
+      "title": "閒置20年成治安死角 劉建國會勘台西水試所宿舍推長照轉型 - 波新聞",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzQzNWMm01V2FtNm9md2pPWHVKQXJ1MERTM3hMTFktbGhTMUVlTUx4OTNEblNSNWZESmprcXAzbS0tWG9IdS1EWF9jQUt5czVPR25paXVwSDNFaEJ1VDRZWm5NUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-03 12:15:00"
+    },
     {
       "title": "嘉市藍白整合民調決戰 藍營立委張嘉郡林沛祥陪張啓楷車掃拚勝出 - 聯合新聞網",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01UnZ1WDRRNzdnQTNWQXo1akIzamlRazFZaXE4eFFIZ1FHZUdmbTRjNjExSmdmalAxUzJaOXpELTdBWkVkaVFfNUNBZmg4bDVpVzdv0gFYQVVfeXFMUHFKRG8wdVJnR0J6dXcwV0U5anZBcmJpSHRRSk5nR3VpcHY4dEhMa1IyS25WeHNGMFRmYWxnZzlReU5iNXgzSGQ3SkJCVDZVSE5DVzFjeEJfNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -486,6 +509,11 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "閒置20年成治安死角 劉建國會勘台西水試所宿舍推長照轉型 - 波新聞",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzQzNWMm01V2FtNm9md2pPWHVKQXJ1MERTM3hMTFktbGhTMUVlTUx4OTNEblNSNWZESmprcXAzbS0tWG9IdS1EWF9jQUt5czVPR25paXVwSDNFaEJ1VDRZWm5NUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-03 12:15:00"
+    },
     {
       "title": "嘉市藍白整合民調決戰 藍營立委張嘉郡林沛祥陪張啓楷車掃拚勝出 - 聯合新聞網",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01UnZ1WDRRNzdnQTNWQXo1akIzamlRazFZaXE4eFFIZ1FHZUdmbTRjNjExSmdmalAxUzJaOXpELTdBWkVkaVFfNUNBZmg4bDVpVzdv0gFYQVVfeXFMUHFKRG8wdVJnR0J6dXcwV0U5anZBcmJpSHRRSk5nR3VpcHY4dEhMa1IyS25WeHNGMFRmYWxnZzlReU5iNXgzSGQ3SkJCVDZVSE5DVzFjeEJfNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -579,11 +607,6 @@
     {
       "title": "114年雲林縣雲中新舊城區藍綠廊道縫合串聯計畫雲林縣政府爭取4千餘萬張麗善感謝張嘉郡等立委協助打造虎尾城鄉共融新願景 - 墨新聞-MORE News",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9qMldDS3JrWDJNOHlDRjlacUxVRW9CdVZXakh2SzFBU0FsVkhQd2ZrLVZVSGt6SnJrNFZRNkhoT21ZUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-01 11:20:08"
-    },
-    {
-      "title": "114年雲林縣雲中新舊城區藍綠廊道縫合串聯計畫 雲林縣政府爭取4千餘萬 張麗善感謝張嘉郡等立委協助 打造虎尾城鄉共融新願景 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmhCV1RVOHVNQUFBTXRVVW11QkZGRnZCSVp4TEpYV3VVR2NtRkR6WGxXZDJGZmxSY2Z5b2NEc0lpS2dmLUhRTFAwWEUwX2JhbUEza1hqNmhIYTVKUkZkbUxtSWl5RlE0VlRYTFBZbG9pNXY4VjV4WlRjVGpZT1UwYjYtOW5td0dBSmxB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-01 11:20:08"
     }
   ],
@@ -691,6 +714,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "閒置20年成治安死角 劉建國會勘台西水試所宿舍推長照轉型 - 波新聞",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzQzNWMm01V2FtNm9md2pPWHVKQXJ1MERTM3hMTFktbGhTMUVlTUx4OTNEblNSNWZESmprcXAzbS0tWG9IdS1EWF9jQUt5czVPR25paXVwSDNFaEJ1VDRZWm5NUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-03 12:15:00"
+    },
+    {
       "title": "嘉市藍白整合民調決戰 藍營立委張嘉郡林沛祥陪張啓楷車掃拚勝出 - 聯合新聞網",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01UnZ1WDRRNzdnQTNWQXo1akIzamlRazFZaXE4eFFIZ1FHZUdmbTRjNjExSmdmalAxUzJaOXpELTdBWkVkaVFfNUNBZmg4bDVpVzdv0gFYQVVfeXFMUHFKRG8wdVJnR0J6dXcwV0U5anZBcmJpSHRRSk5nR3VpcHY4dEhMa1IyS25WeHNGMFRmYWxnZzlReU5iNXgzSGQ3SkJCVDZVSE5DVzFjeEJfNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-03 10:29:21"
@@ -783,11 +811,6 @@
     {
       "title": "114年雲林縣雲中新舊城區藍綠廊道縫合串聯計畫雲林縣政府爭取4千餘萬張麗善感謝張嘉郡等立委協助打造虎尾城鄉共融新願景 - 墨新聞-MORE News",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9qMldDS3JrWDJNOHlDRjlacUxVRW9CdVZXakh2SzFBU0FsVkhQd2ZrLVZVSGt6SnJrNFZRNkhoT21ZUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-01 11:20:08"
-    },
-    {
-      "title": "114年雲林縣雲中新舊城區藍綠廊道縫合串聯計畫 雲林縣政府爭取4千餘萬 張麗善感謝張嘉郡等立委協助 打造虎尾城鄉共融新願景 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmhCV1RVOHVNQUFBTXRVVW11QkZGRnZCSVp4TEpYV3VVR2NtRkR6WGxXZDJGZmxSY2Z5b2NEc0lpS2dmLUhRTFAwWEUwX2JhbUEza1hqNmhIYTVKUkZkbUxtSWl5RlE0VlRYTFBZbG9pNXY4VjV4WlRjVGpZT1UwYjYtOW5td0dBSmxB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-01 11:20:08"
     }
   ],
@@ -1013,6 +1036,11 @@
       ],
       "news": [
         {
+          "title": "閒置20年成治安死角 劉建國會勘台西水試所宿舍推長照轉型 - 波新聞",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzQzNWMm01V2FtNm9md2pPWHVKQXJ1MERTM3hMTFktbGhTMUVlTUx4OTNEblNSNWZESmprcXAzbS0tWG9IdS1EWF9jQUt5czVPR25paXVwSDNFaEJ1VDRZWm5NUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-03 12:15:00"
+        },
+        {
           "title": "活化閒置空間兼顧治安與長照 雲林立委劉建國促成水試所台西舊宿舍轉型長照據點！ - 台灣華報",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IdkREQTUyNjhjNHRhQ09nd1l0OVBjRmFxMmx0a0xGLWxPYXdEUkZuN01yRV9ySjBfV1hHN0d0YWN6QlBWLVRKSzhIUXdkcUl0cGVudDRlTkhWOUtTMlBRcUpQcnNpREFqX05n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-02 23:35:43"
@@ -1106,17 +1134,17 @@
           "title": "劉建國接待泰國台商團 強化台泰民間外交合作 | 觀傳媒 - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BbmpidTZVUVFIVmhaZktUaWdveTRzMmhHbTdOaWVSZUdKeWFOU29IZTlDUWZnVElFMk5CLVZlT0lmMk12bDFHYXRIUnRZTzhCYjJ6RTlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-03-31 20:50:10"
-        },
-        {
-          "title": "劉建國接待泰國台商團 強化台泰民間外交合作 - 觀傳媒",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EYlgyU1gtYW1xbG1DTEFfaHpNbmUzSVRURFpFeWYwTUdiVFZLVWZOWXhNcWtEX0laa3BnODQybk1BNlgxLTdzNUhQVjBPZmtHaWo2dER2bw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-03-31 20:15:29"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "閒置20年成治安死角 劉建國會勘台西水試所宿舍推長照轉型 - 波新聞",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzQzNWMm01V2FtNm9md2pPWHVKQXJ1MERTM3hMTFktbGhTMUVlTUx4OTNEblNSNWZESmprcXAzbS0tWG9IdS1EWF9jQUt5czVPR25paXVwSDNFaEJ1VDRZWm5NUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-03 12:15:00"
+      },
       {
         "title": "嘉市藍白整合民調決戰 藍營立委張嘉郡林沛祥陪張啓楷車掃拚勝出 - 聯合新聞網",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01UnZ1WDRRNzdnQTNWQXo1akIzamlRazFZaXE4eFFIZ1FHZUdmbTRjNjExSmdmalAxUzJaOXpELTdBWkVkaVFfNUNBZmg4bDVpVzdv0gFYQVVfeXFMUHFKRG8wdVJnR0J6dXcwV0U5anZBcmJpSHRRSk5nR3VpcHY4dEhMa1IyS25WeHNGMFRmYWxnZzlReU5iNXgzSGQ3SkJCVDZVSE5DVzFjeEJfNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1175,6 +1203,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "閒置20年成治安死角 劉建國會勘台西水試所宿舍推長照轉型 - 波新聞",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzQzNWMm01V2FtNm9md2pPWHVKQXJ1MERTM3hMTFktbGhTMUVlTUx4OTNEblNSNWZESmprcXAzbS0tWG9IdS1EWF9jQUt5czVPR25paXVwSDNFaEJ1VDRZWm5NUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-03 12:15:00"
+      },
       {
         "title": "嘉市藍白整合民調決戰 藍營立委張嘉郡林沛祥陪張啓楷車掃拚勝出 - 聯合新聞網",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01UnZ1WDRRNzdnQTNWQXo1akIzamlRazFZaXE4eFFIZ1FHZUdmbTRjNjExSmdmalAxUzJaOXpELTdBWkVkaVFfNUNBZmg4bDVpVzdv0gFYQVVfeXFMUHFKRG8wdVJnR0J6dXcwV0U5anZBcmJpSHRRSk5nR3VpcHY4dEhMa1IyS25WeHNGMFRmYWxnZzlReU5iNXgzSGQ3SkJCVDZVSE5DVzFjeEJfNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1369,11 +1402,6 @@
         "title": "接待泰國台商顧問團訪立法院 劉建國：深化台泰交流 以民間外交厚植合作基礎 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM3VncmtGeDQ1dEphcXgxMEIwMGo1SEdrOGtGWTVBbzYzWllvYndOaVRrVDZ5RnlseFlaZHNhWXJWOHRYMUt3WGlvSzFUVDJfWm1heFlubFI5dlIzRk1mVWRyYlF5d2ZUZ1hlbTdDTEhkX3p0c3NaRDRvWUNUYzU1dmVuVndzakdXMlhZckJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-03-31 15:39:17"
-      },
-      {
-        "title": "接待泰國台商顧問團訪立法院 劉建國：深化台泰交流 以民間外交厚植合作基礎 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxNYnRsRHY3cHR4Q0otQmt1Z3V5Wll4enlwdDRMZWJXWWUwSjhwV190eXNOQVZZMXdQMVRtbk1zMVpKT2pqWmIyNUF3ekZ0eDNENEdlWU0zTUx0SVRqbm40cThnY0Zhc0hTNGg5cnpoY2R5eVozTUFMMGhFNmhHczVCWUdDZkhyaFItNUdLMmUyTkZ1UUZmLTI3eTJ2VXR1R21VQWFpT0xPSVREeW9VMTV2T3ljQzg3REJrZ3ktRmZ0N2tvb0IxbFBheVc0eDFZR29FM0pyY2J6NEpFUHFYN3pzZW9QZFJTdjJHckcwU2R2OVZfMUZBdzJRbWQyWHhuWGYxWDJPZ25JUWR4emdYNnY5a29BcWd3SDJNZlEyMUozNTZaVjNINGtlS3Y3X2lIX1p2SmdyMF9wUUJZZGN3TVA4MjVIRTVkVUpmazd0UzlFOWRkLWlmYzRjOFEzU3ZOV3ZVMTNjcFo5dTJqR1kwdlRFWmpMSnFqMjVPVmE3WThJcmMzT1dSR19WS25xdXV1SEhPVzdtUTdYeGFFVkFKcjdGSU04NEJqckdiWjJUTkt3aDh4cDBMMlBQUjZRd3BMZ1RHQW5yWmNXUmxEdXlacjM1TFhpcjBJSXYyQUs1RzRjNDg3MWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-03-31 15:39:17"
       }
     ],
     "facebook": [
@@ -1515,6 +1543,13 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "閒置20年成治安死角 劉建國會勘台西水試所宿舍推長照轉型 - 波新聞",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzQzNWMm01V2FtNm9md2pPWHVKQXJ1MERTM3hMTFktbGhTMUVlTUx4OTNEblNSNWZESmprcXAzbS0tWG9IdS1EWF9jQUt5czVPR25paXVwSDNFaEJ1VDRZWm5NUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-03 12:15:00",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "嘉市藍白整合民調決戰 藍營立委張嘉郡林沛祥陪張啓楷車掃拚勝出 - 聯合新聞網",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01UnZ1WDRRNzdnQTNWQXo1akIzamlRazFZaXE4eFFIZ1FHZUdmbTRjNjExSmdmalAxUzJaOXpELTdBWkVkaVFfNUNBZmg4bDVpVzdv0gFYQVVfeXFMUHFKRG8wdVJnR0J6dXcwV0U5anZBcmJpSHRRSk5nR3VpcHY4dEhMa1IyS25WeHNGMFRmYWxnZzlReU5iNXgzSGQ3SkJCVDZVSE5DVzFjeEJfNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
