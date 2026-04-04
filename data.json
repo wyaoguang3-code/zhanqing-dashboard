@@ -1,10 +1,10 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-04-04T22:30:08.035715+00:00",
+  "generated_at": "2026-04-04T22:45:11.630738+00:00",
   "metrics": {
-    "total_24h": 2,
+    "total_24h": 3,
     "prev_24h": 10,
-    "growth_pct": -80.0,
+    "growth_pct": -70.0,
     "news_24h": 1,
     "anomaly": {
       "level": "綠",
@@ -14,9 +14,9 @@
     }
   },
   "metrics_7d": {
-    "total": 116,
+    "total": 117,
     "prev": 154,
-    "growth_pct": -24.68,
+    "growth_pct": -24.03,
     "news": 90,
     "anomaly": {
       "level": "綠",
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "facebook",
-      "count": 1
+      "count": 2
     },
     {
       "platform": "news",
@@ -42,7 +42,7 @@
     },
     {
       "platform": "facebook",
-      "count": 21
+      "count": 22
     },
     {
       "platform": "youtube",
@@ -53,6 +53,10 @@
     {
       "hour": "2026-04-04 08:00",
       "count": 2
+    },
+    {
+      "hour": "2026-04-04 10:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -279,18 +283,48 @@
     {
       "hour": "2026-04-04 08:00",
       "count": 2
+    },
+    {
+      "hour": "2026-04-04 10:00",
+      "count": 1
     }
   ],
-  "mention_by_platform_24h": [],
-  "mention_latest_by_platform_24h": {},
-  "alias_by_platform_24h": [],
-  "alias_latest_by_platform_24h": {},
+  "mention_by_platform_24h": [
+    {
+      "platform": "facebook",
+      "count": 1
+    }
+  ],
+  "mention_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "張嘉郡 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zNGk1eE9YdWdCYmJteW9iRnVFN3BXanVBbEFDb3hVVVotMWhma21NbjRtMFlmRjZxLVN2YTJaclRIWER6NjRoYXRrTVZSQUQ5dnZCU05CMXp0NDNPRk5pdk9hSk1MMnpRSVJ4N2VyYmk5OGw0Q3JtZThyRQ",
+        "time": "2026-04-04 10:40:29"
+      }
+    ]
+  },
+  "alias_by_platform_24h": [
+    {
+      "platform": "facebook",
+      "count": 1
+    }
+  ],
+  "alias_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "張嘉郡 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zNGk1eE9YdWdCYmJteW9iRnVFN3BXanVBbEFDb3hVVVotMWhma21NbjRtMFlmRjZxLVN2YTJaclRIWER6NjRoYXRrTVZSQUQ5dnZCU05CMXp0NDNPRk5pdk9hSk1MMnpRSVJ4N2VyYmk5OGw0Q3JtZThyRQ",
+        "time": "2026-04-04 10:40:29"
+      }
+    ]
+  },
   "mention_compare_24h": {
-    "張嘉郡": 0,
+    "張嘉郡": 1,
     "劉建國": 0
   },
   "mention_compare_7d": {
-    "張嘉郡": 55,
+    "張嘉郡": 56,
     "劉建國": 55
   },
   "top_news": [
@@ -404,6 +438,11 @@
   ],
   "latest_facebook_20": [
     {
+      "title": "張嘉郡 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zNGk1eE9YdWdCYmJteW9iRnVFN3BXanVBbEFDb3hVVVotMWhma21NbjRtMFlmRjZxLVN2YTJaclRIWER6NjRoYXRrTVZSQUQ5dnZCU05CMXp0NDNPRk5pdk9hSk1MMnpRSVJ4N2VyYmk5OGw0Q3JtZThyRQ",
+      "time": "2026-04-04 10:40:29"
+    },
+    {
       "title": "【民眾黨恐開鍘李貞秀！柯文哲首表態：尊重決策、不再一人政黨】 （圖／記者徐文彬、周宸亘攝） - Facebook",
       "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQUlhVSVdEOTVaZjJFN1RGZDJJLWozMGFOV0tDUjU1MUFNRWR3emdJd2NFNnVlb2ZfWlAzdVRkSXVLVEd4LTN4V21Jbkt1cXFWMFM5cDNIMk02WnBzZVVPYnJncDlHS2pvN2FDT2kxN1hXU2o4cEdjOUhoUG5TeVMwa3FfSjZkMVdyTVdTQ0lQTmRDVE9sVklQQ0pHOWxVeFhHZXVDOVcweVRDb0xzNVJaTlpIbWVQZ01IV3YtUWI2NFdsLWZJdl9kNkhJVHVlRTFESUEteFZMZ2FRQ3JBN2FWMUd0aENSZkF4Z29XQlY1clVwaC1xb09lWk1LOXBYZDRMYThYUWVUYzhrU1JLQ0hiNGszS2dfS1k5UnYydWZCQTNwNzM2MGdiUEhSem9UdHVkZWZ1YWxlM290MUlIT0RSM2dWZndsSHduMTlaNTJMRTI2cUY3OFpoLVM0cnI1ZlBpZFdTZVlubnBnRGVHZldpODkyaS15V3VTLWo1U0FZbUhCT2dKOS1iRkhDOXBOQ2FDSFl3ZDNSUlIzbHRodnRoOHNCUGprSEFmNEZjWGNzWVpVcWVESmpmaG9rT1NHNF9qYWlPSmkxU2V1LTNxSy0wNXlZODNEek85NnJoRmdmYVFtOFF3cjlSNHZPTm5FV21aczJWbl9hMTB2OWxVaDJwb1RsQmcyODVXNzZQY3JR",
       "time": "2026-04-04 08:53:10"
@@ -497,11 +536,6 @@
       "title": "哎呀，看來我說的沒錯，隨著美方關切越加熱絡，「鄭習會」越有提前的壓力，美國參院外交委員會的跨黨派訪團前腳剛落地，中國官媒立刻宣布「鄭習會」落在4月7日，因為習近平開始擔心國民黨要被美國拐走了。 有趣的是，剛訪美返國的盧秀燕，也準時發動攻勢。她訪美1 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMikwhBVV95cUxQd2hIYWNlcjhSSUItei1qUXZ5OWg3ZkVUZk5yVkhpZTFnSUJaRnhjYnBMdllXaG5lWFB6VnNHNi1XSTJJUm1MZllnckQ5dm5rczR6ZUh3cElhTlhXOFRKenA4TTA5ZDUwdFdiMm9TYkNJZFM0bjJSNHpjcGphRVB0XzZ1dFFOVWJRd0hINkp3UGhxMUF6VmdsQkZVelhzTXdWYzhTeWp2SmJsYXF4d0o1eUtFQnU2aUVlQ3AzeXU4am56OTd5cTF2aVRONkdxWlBQWGMwdlR1ZHcyUkh2OTBQVEJBZ1BuQ08xUmR3d1FYVHJicWZMS0tmMHZPWVFWcnVuR1FfazFLY2c5Y2RKWThGSElZQi1fRUxBRmpnaTg2Z3V4bk1INF9WQUNaZjFFZHdzcWdXOXo5ZEJOODVmcEFWbUUxMk1VR1FxWHVLckhPdkRCYmNrRll0ZWRwZnB0T0p6bVZVbFNhWlRrLVVpRFlha1JScTcwc2RPZkp6Z01Oc1V1d2NZWTduZHV2Z2RKRzFKTnRJWHUyT1V4VGU5NVhCR09pYlBZTTc4dHpnLXYyN2pWMVJwczZabTE1VnJqSUF3VTliamhPRTdlTG9IZjZKREdUWU14WWpoODVvVDgxYlIwTXlRSGl6d01SZTFwZ003VG5yVmpic1R5M2pqODZoX0h4TVlsYlh5bEFmYTlwU0Y0ZVJmOVpkd1BQbDZaaTVrY1JSUVFGRjRheXo3TkR5T29GU01zX3ZGSk9qa2FRUHdwWHJJNXdaamVkdFJEZC1FaVJIdHV4WlFnTzRrRjJ0Y1VVUS1hNmlaVmF2LWRkLXNPYmZIRU96NTFmcTRxLTZLd2x4NjU5SVp2ejRaLVgwZHBrYzM1UGwyRV9rZWVkeTB2VS1CQk1QczNlYlA3RzItNkpmT3JpejZCVmM2NU42aWRjcWU1OUpmcEpFTmp1cFl2M2dXRzFQNmk0QnhYSzUzSm9kUmJreU03S3UwSE9CUG02cnMyMjl6ano4SDJZNW9nQ1VPZ2ZpWTYweU52bFREdlFmeV9Xb0wzWjhOWHJTZ0UyNy1YSk1HdG5VN3RHUTgwbVprbkJrSnd2Z1UzMTExOTJtWjBnUGtFVktnSDhMODRHeTFXOXF2ODY5dEd0NUlWSVdZRGJqV1BTQTluWmtQY01Bc3o4bnpYMURQLTh0TDZDSUhsUzNaM0tpd3JIRlAySFpCWFR0WHdzcFRYaS1FWVNpU0gwMFVHb0ExZFZ1M21OUGtQcWZfOGFsTkVpdklOQzBZWFJwekg1TjFqVkVBNk91am00QnlVdGxuRk1mNXZnVkJBeEcxaU9RbEtuRHEtRVJTY21ydlZLaFpUT2NmZERkTnpQWTdId1lKeDVNV3BkOA",
       "time": "2026-03-30 11:10:49"
-    },
-    {
-      "title": "劉建國 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORWtfaTZOM1BhU0ZsUjVOX1hOZUFHckF2aXZUcld1UldZTEdzeGdRM3BOR0dZYkhiUFVhZWItMEo1dzRrNnhreEtMckcydmdJS05yNFVQUUowVHRJTUJyRU8wWTRIU3dLLXRieVFqSFc2XzdPZGxwYm9vR2I4Tkg1c193X3J5WXZVa2FSYmtUZUdNcE96bk1iRC12emVtZw",
-      "time": "2026-03-30 10:55:59"
     }
   ],
   "latest_news_20": [
@@ -609,6 +643,11 @@
   "person_sections": {
     "張嘉郡": {
       "facebook": [
+        {
+          "title": "張嘉郡 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zNGk1eE9YdWdCYmJteW9iRnVFN3BXanVBbEFDb3hVVVotMWhma21NbjRtMFlmRjZxLVN2YTJaclRIWER6NjRoYXRrTVZSQUQ5dnZCU05CMXp0NDNPRk5pdk9hSk1MMnpRSVJ4N2VyYmk5OGw0Q3JtZThyRQ",
+          "time": "2026-04-04 10:40:29"
+        },
         {
           "title": "感謝 張嘉郡立委副主任陳君威 楊國寬議員主任楊君偉 蒞臨本校致贈贊助 本校教職員校慶運動會紀念T恤👕👚 ❤️熱心支持本校運動會，不僅提升整體活動的專業形象，更凝聚團隊向心力。 此次贊助讓每位工作夥伴在辛勞付出之餘，也感受到溫暖與鼓勵。 🙏謹代表全體師 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMiowhBVV95cUxQcDhSN2tJUklUa0IwVmFzRDdQQlhndXU5RW8wdk5JTHd4dDE5ei1zaDFxVkIwZlZwejljU3NScER4QnBuMUc1dWhUNGVxUW54Y0VEa3NzbnJPZDlzUGlHTzQ4Wjk4eDJJVUlfbzJVcE1nT3d0Rl95cGJDRW9VdDBNRF9UY3VEY0hybGdYREhnMG1JWi1WNlhUZ2xia0l6aERfTWE4Q0FEOW5Wa3NmSHNFalBFVWNKNFdvT2NvbWx4Qjh6UUY2dy1xU0hlMnRwUWp5QWdua05VbU94cEdaZHhwTlRiNW9ERzEzbUtTeDF0bF91M2Q0eE5jYUc3QUJwSklKYm03Q293czM4ajVuLUVTZmdqUkRxaWs4LUJ4Ym5yRWlaS1FleFk4bFA5NmloV2ZQMWxVR0NMdVJGOFRFSFhlQjFPSWdhcE4xN3haVjZNZzJLYThiWEtsWWRqQmhyZHU5V2NpdFdlZXAyNnp1VHlUQzN4aEJCVDV2Nm9RdjFyWDNpWTFRRHFLbU1PZkNsSjBWbjhaSC1rXzA1cWZJV3FyYWVFR3lmeVVvNGxlZW1fTWhXNnZ6Y3B1aDhidWVCcGotenN6T3NRM1pNazBnS0psTmxXOFlwZkxudVFNRnhYa0czWXZaNHU2WF84VDJNUjRGQmtrN0Iyb2dLVzQxVjZ3bEpFWUwxNjg1ek1nd05qSWpPREJpSUpMWVRYS25aOWdYcTUzMXNnd0JDa1RUQ2pPbWhHVmdnck5JS1ZBYldob2g2dXdWaTZfeDIwOXdQeEhLU2FuajJNbmFSeVM5dWFnbUt2WFAwZkVrWmVJNTFZTjNVNEVteHhhVW9zYlRrckVlcFZndk4tdG1hRkxBdFZ4aDdoMWJQczVabzZZMll6QXJqeFg2OFlBOTM2bHMyOWxIVTdpWnlXYWJfWUxTaGFvd3h1SlRlZ1VmSWNTcjNhTW0xbzJRUjNpRW15MXZId3Q1WTlwMHVNUjNndGRoS2Nnc041QVdUbkxDZzRYb3FNTHlKdkI0UmR4dXRWWVRqT295RzFZdm83ajFxWEZxYm9kQTVjNldXVVhLNkZoQkxoNHY0TkdIa1JtVDdoclpnWnh2elRPZDVPc0dIeUZkZTJBQ2V0WUU0eUtvZUFqMzdha24zLVVGU0lEV3BweWFRNzBrcHlqVFh2NTJDd09OLWdNbGtKem5NUXF5NjZoYWt0bHFTN1lRTGZOUnkwT2Vmc1VEVU43MnhrOEJfWGRsMFNmUHplRHFkc2F2QzVMZW94dmFsOWFtcU5qMi1ZWDhIOXExMFZSU0lpbjJsSjZaMUpZczRqYjE1TTkwUXpxNHhjUzVWdDJmdjByZVJGV21DSVcwS3k3ZDVpNDVXdEhjX01yOGZ2QldKYURpLUhqZVB6Wm5OMU0",
@@ -933,6 +972,11 @@
   "latest_by_platform_24h": {
     "facebook": [
       {
+        "title": "張嘉郡 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zNGk1eE9YdWdCYmJteW9iRnVFN3BXanVBbEFDb3hVVVotMWhma21NbjRtMFlmRjZxLVN2YTJaclRIWER6NjRoYXRrTVZSQUQ5dnZCU05CMXp0NDNPRk5pdk9hSk1MMnpRSVJ4N2VyYmk5OGw0Q3JtZThyRQ",
+        "time": "2026-04-04 10:40:29"
+      },
+      {
         "title": "【民眾黨恐開鍘李貞秀！柯文哲首表態：尊重決策、不再一人政黨】 （圖／記者徐文彬、周宸亘攝） - Facebook",
         "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQUlhVSVdEOTVaZjJFN1RGZDJJLWozMGFOV0tDUjU1MUFNRWR3emdJd2NFNnVlb2ZfWlAzdVRkSXVLVEd4LTN4V21Jbkt1cXFWMFM5cDNIMk02WnBzZVVPYnJncDlHS2pvN2FDT2kxN1hXU2o4cEdjOUhoUG5TeVMwa3FfSjZkMVdyTVdTQ0lQTmRDVE9sVklQQ0pHOWxVeFhHZXVDOVcweVRDb0xzNVJaTlpIbWVQZ01IV3YtUWI2NFdsLWZJdl9kNkhJVHVlRTFESUEteFZMZ2FRQ3JBN2FWMUd0aENSZkF4Z29XQlY1clVwaC1xb09lWk1LOXBYZDRMYThYUWVUYzhrU1JLQ0hiNGszS2dfS1k5UnYydWZCQTNwNzM2MGdiUEhSem9UdHVkZWZ1YWxlM290MUlIT0RSM2dWZndsSHduMTlaNTJMRTI2cUY3OFpoLVM0cnI1ZlBpZFdTZVlubnBnRGVHZldpODkyaS15V3VTLWo1U0FZbUhCT2dKOS1iRkhDOXBOQ2FDSFl3ZDNSUlIzbHRodnRoOHNCUGprSEFmNEZjWGNzWVpVcWVESmpmaG9rT1NHNF9qYWlPSmkxU2V1LTNxSy0wNXlZODNEek85NnJoRmdmYVFtOFF3cjlSNHZPTm5FV21aczJWbl9hMTB2OWxVaDJwb1RsQmcyODVXNzZQY3JR",
         "time": "2026-04-04 08:53:10"
@@ -1151,6 +1195,11 @@
     ],
     "facebook": [
       {
+        "title": "張嘉郡 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zNGk1eE9YdWdCYmJteW9iRnVFN3BXanVBbEFDb3hVVVotMWhma21NbjRtMFlmRjZxLVN2YTJaclRIWER6NjRoYXRrTVZSQUQ5dnZCU05CMXp0NDNPRk5pdk9hSk1MMnpRSVJ4N2VyYmk5OGw0Q3JtZThyRQ",
+        "time": "2026-04-04 10:40:29"
+      },
+      {
         "title": "【民眾黨恐開鍘李貞秀！柯文哲首表態：尊重決策、不再一人政黨】 （圖／記者徐文彬、周宸亘攝） - Facebook",
         "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQUlhVSVdEOTVaZjJFN1RGZDJJLWozMGFOV0tDUjU1MUFNRWR3emdJd2NFNnVlb2ZfWlAzdVRkSXVLVEd4LTN4V21Jbkt1cXFWMFM5cDNIMk02WnBzZVVPYnJncDlHS2pvN2FDT2kxN1hXU2o4cEdjOUhoUG5TeVMwa3FfSjZkMVdyTVdTQ0lQTmRDVE9sVklQQ0pHOWxVeFhHZXVDOVcweVRDb0xzNVJaTlpIbWVQZ01IV3YtUWI2NFdsLWZJdl9kNkhJVHVlRTFESUEteFZMZ2FRQ3JBN2FWMUd0aENSZkF4Z29XQlY1clVwaC1xb09lWk1LOXBYZDRMYThYUWVUYzhrU1JLQ0hiNGszS2dfS1k5UnYydWZCQTNwNzM2MGdiUEhSem9UdHVkZWZ1YWxlM290MUlIT0RSM2dWZndsSHduMTlaNTJMRTI2cUY3OFpoLVM0cnI1ZlBpZFdTZVlubnBnRGVHZldpODkyaS15V3VTLWo1U0FZbUhCT2dKOS1iRkhDOXBOQ2FDSFl3ZDNSUlIzbHRodnRoOHNCUGprSEFmNEZjWGNzWVpVcWVESmpmaG9rT1NHNF9qYWlPSmkxU2V1LTNxSy0wNXlZODNEek85NnJoRmdmYVFtOFF3cjlSNHZPTm5FV21aczJWbl9hMTB2OWxVaDJwb1RsQmcyODVXNzZQY3JR",
         "time": "2026-04-04 08:53:10"
@@ -1296,6 +1345,13 @@
       }
     ],
     "day": [
+      {
+        "title": "張嘉郡 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zNGk1eE9YdWdCYmJteW9iRnVFN3BXanVBbEFDb3hVVVotMWhma21NbjRtMFlmRjZxLVN2YTJaclRIWER6NjRoYXRrTVZSQUQ5dnZCU05CMXp0NDNPRk5pdk9hSk1MMnpRSVJ4N2VyYmk5OGw0Q3JtZThyRQ",
+        "time": "2026-04-04 10:40:29",
+        "platform": "facebook",
+        "risk": "綠"
+      },
       {
         "title": "【民眾黨恐開鍘李貞秀！柯文哲首表態：尊重決策、不再一人政黨】 （圖／記者徐文彬、周宸亘攝） - Facebook",
         "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQUlhVSVdEOTVaZjJFN1RGZDJJLWozMGFOV0tDUjU1MUFNRWR3emdJd2NFNnVlb2ZfWlAzdVRkSXVLVEd4LTN4V21Jbkt1cXFWMFM5cDNIMk02WnBzZVVPYnJncDlHS2pvN2FDT2kxN1hXU2o4cEdjOUhoUG5TeVMwa3FfSjZkMVdyTVdTQ0lQTmRDVE9sVklQQ0pHOWxVeFhHZXVDOVcweVRDb0xzNVJaTlpIbWVQZ01IV3YtUWI2NFdsLWZJdl9kNkhJVHVlRTFESUEteFZMZ2FRQ3JBN2FWMUd0aENSZkF4Z29XQlY1clVwaC1xb09lWk1LOXBYZDRMYThYUWVUYzhrU1JLQ0hiNGszS2dfS1k5UnYydWZCQTNwNzM2MGdiUEhSem9UdHVkZWZ1YWxlM290MUlIT0RSM2dWZndsSHduMTlaNTJMRTI2cUY3OFpoLVM0cnI1ZlBpZFdTZVlubnBnRGVHZldpODkyaS15V3VTLWo1U0FZbUhCT2dKOS1iRkhDOXBOQ2FDSFl3ZDNSUlIzbHRodnRoOHNCUGprSEFmNEZjWGNzWVpVcWVESmpmaG9rT1NHNF9qYWlPSmkxU2V1LTNxSy0wNXlZODNEek85NnJoRmdmYVFtOFF3cjlSNHZPTm5FV21aczJWbl9hMTB2OWxVaDJwb1RsQmcyODVXNzZQY3JR",
