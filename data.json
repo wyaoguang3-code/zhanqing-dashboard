@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-04-04T19:59:40.075636+00:00",
+  "generated_at": "2026-04-04T20:14:42.600039+00:00",
   "metrics": {
-    "total_24h": 3,
-    "prev_24h": 9,
-    "growth_pct": -66.67,
-    "news_24h": 2,
+    "total_24h": 2,
+    "prev_24h": 10,
+    "growth_pct": -80.0,
+    "news_24h": 1,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -27,11 +27,11 @@
   },
   "by_platform": [
     {
-      "platform": "news",
-      "count": 2
+      "platform": "facebook",
+      "count": 1
     },
     {
-      "platform": "facebook",
+      "platform": "news",
       "count": 1
     }
   ],
@@ -50,10 +50,6 @@
     }
   ],
   "by_hour": [
-    {
-      "hour": "2026-04-04 04:00",
-      "count": 1
-    },
     {
       "hour": "2026-04-04 08:00",
       "count": 2
@@ -285,39 +281,13 @@
       "count": 2
     }
   ],
-  "mention_by_platform_24h": [
-    {
-      "platform": "news",
-      "count": 1
-    }
-  ],
-  "mention_latest_by_platform_24h": {
-    "news": [
-      {
-        "title": "張嘉郡擘劃教育拚接棒 劉建國挺漁民深耕基層 - chinatimes.com",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPaGJaSmhTX2R1QTlCUzhCWFpUczIzcy1rbThGd0RXQ2FzQlhyZFVZSmgtaWJodktuSWJkR3ZsVEUxVUNpR2RKX2NELV9vc0J4aGFnQi1PQzQwc1Jsd2JKam5oTDRtbEVxNjZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-04 04:10:00"
-      }
-    ]
-  },
-  "alias_by_platform_24h": [
-    {
-      "platform": "news",
-      "count": 1
-    }
-  ],
-  "alias_latest_by_platform_24h": {
-    "news": [
-      {
-        "title": "張嘉郡擘劃教育拚接棒 劉建國挺漁民深耕基層 - chinatimes.com",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPaGJaSmhTX2R1QTlCUzhCWFpUczIzcy1rbThGd0RXQ2FzQlhyZFVZSmgtaWJodktuSWJkR3ZsVEUxVUNpR2RKX2NELV9vc0J4aGFnQi1PQzQwc1Jsd2JKam5oTDRtbEVxNjZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-04 04:10:00"
-      }
-    ]
-  },
+  "mention_by_platform_24h": [],
+  "mention_latest_by_platform_24h": {},
+  "alias_by_platform_24h": [],
+  "alias_latest_by_platform_24h": {},
   "mention_compare_24h": {
-    "張嘉郡": 1,
-    "劉建國": 1
+    "張嘉郡": 0,
+    "劉建國": 0
   },
   "mention_compare_7d": {
     "張嘉郡": 55,
@@ -328,11 +298,6 @@
       "title": "蘇治芬站肥皂箱「宣傳罷免」遭衝撞 男跳針問：有申請嗎？ - MSN",
       "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxPU3hidGNwbEJGSmFxZnowUlRLd1lFaVJLTjhMVUlfSEtmZld2ZUIyMGpMX2pUMkFlcnZDNThTUW8xeWRKSzZsamNrUjlCNFNodTJ2LTM0TE5YeHEzQjJ3ZU1SNlQ1UTl6VEkyWjlsc21SdU41cTNCR1BSQml0NlJlVzhWSjlfckt6ckYzX2hYQ04zRTYwN2cyTUxZN2hRZ05kYUhFenFHQUtGODZlU2NtcjA1SGN0QmVnRTBPbnJsNUVhb3lVYWhVTThuZjZyTng2YnhWdVJUdWJma1JWUzZZbXg1TGZyUWxKbWhCaWZQc3QxVnhuUElVRF9ZMUVKRTc1RnRrTUtXelF4Rk8wNHlnVXhzbnA0N0VPQXdKNkhmY1RIaFllYWJKaDNqR2xSeDNYOEcwNkQ1VkUyYkNiU1A4YjZ0UENJT1pBQ2ltU29xcEkwSWpiZ3hwQ2NuR3dvSEdFamM2T3oxS0lNbWliQjV5MDEzdldsTVZsUmVDYkxtNjU4bnViek1nRmdORzZnU3cyb1NONk9sSWVidGpDbm9fUVpka1RyTnJjS0ZCcV83TGVSY3lEOW1icEh2YUd1WmdQUThOUDhWSnJaWkVwczQ5VjQ0M0dCbHNxVm1rMUxwcHRNR1pzd3lxb1NaQmYtV21fTXBoVXcyRnBIdmNJUTRlRWprTUNoVnpkdnJMekdWZTFUOUJGNnFQVTVMa2pFVTVkVEZiVXRncXdSMW93ZjhQdGtocDdZdnBmRXZFWlpsM2xseXRPbktkV0tSSWJWZHo2UXYyOGlfWGg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-04 08:25:33"
-    },
-    {
-      "title": "張嘉郡擘劃教育拚接棒 劉建國挺漁民深耕基層 - chinatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPaGJaSmhTX2R1QTlCUzhCWFpUczIzcy1rbThGd0RXQ2FzQlhyZFVZSmgtaWJodktuSWJkR3ZsVEUxVUNpR2RKX2NELV9vc0J4aGFnQi1PQzQwc1Jsd2JKam5oTDRtbEVxNjZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-04 04:10:00"
     }
   ],
   "top_news_7d": [
@@ -966,23 +931,18 @@
     }
   },
   "latest_by_platform_24h": {
-    "news": [
-      {
-        "title": "蘇治芬站肥皂箱「宣傳罷免」遭衝撞 男跳針問：有申請嗎？ - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxPU3hidGNwbEJGSmFxZnowUlRLd1lFaVJLTjhMVUlfSEtmZld2ZUIyMGpMX2pUMkFlcnZDNThTUW8xeWRKSzZsamNrUjlCNFNodTJ2LTM0TE5YeHEzQjJ3ZU1SNlQ1UTl6VEkyWjlsc21SdU41cTNCR1BSQml0NlJlVzhWSjlfckt6ckYzX2hYQ04zRTYwN2cyTUxZN2hRZ05kYUhFenFHQUtGODZlU2NtcjA1SGN0QmVnRTBPbnJsNUVhb3lVYWhVTThuZjZyTng2YnhWdVJUdWJma1JWUzZZbXg1TGZyUWxKbWhCaWZQc3QxVnhuUElVRF9ZMUVKRTc1RnRrTUtXelF4Rk8wNHlnVXhzbnA0N0VPQXdKNkhmY1RIaFllYWJKaDNqR2xSeDNYOEcwNkQ1VkUyYkNiU1A4YjZ0UENJT1pBQ2ltU29xcEkwSWpiZ3hwQ2NuR3dvSEdFamM2T3oxS0lNbWliQjV5MDEzdldsTVZsUmVDYkxtNjU4bnViek1nRmdORzZnU3cyb1NONk9sSWVidGpDbm9fUVpka1RyTnJjS0ZCcV83TGVSY3lEOW1icEh2YUd1WmdQUThOUDhWSnJaWkVwczQ5VjQ0M0dCbHNxVm1rMUxwcHRNR1pzd3lxb1NaQmYtV21fTXBoVXcyRnBIdmNJUTRlRWprTUNoVnpkdnJMekdWZTFUOUJGNnFQVTVMa2pFVTVkVEZiVXRncXdSMW93ZjhQdGtocDdZdnBmRXZFWlpsM2xseXRPbktkV0tSSWJWZHo2UXYyOGlfWGg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-04 08:25:33"
-      },
-      {
-        "title": "張嘉郡擘劃教育拚接棒 劉建國挺漁民深耕基層 - chinatimes.com",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPaGJaSmhTX2R1QTlCUzhCWFpUczIzcy1rbThGd0RXQ2FzQlhyZFVZSmgtaWJodktuSWJkR3ZsVEUxVUNpR2RKX2NELV9vc0J4aGFnQi1PQzQwc1Jsd2JKam5oTDRtbEVxNjZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-04 04:10:00"
-      }
-    ],
     "facebook": [
       {
         "title": "【民眾黨恐開鍘李貞秀！柯文哲首表態：尊重決策、不再一人政黨】 （圖／記者徐文彬、周宸亘攝） - Facebook",
         "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQUlhVSVdEOTVaZjJFN1RGZDJJLWozMGFOV0tDUjU1MUFNRWR3emdJd2NFNnVlb2ZfWlAzdVRkSXVLVEd4LTN4V21Jbkt1cXFWMFM5cDNIMk02WnBzZVVPYnJncDlHS2pvN2FDT2kxN1hXU2o4cEdjOUhoUG5TeVMwa3FfSjZkMVdyTVdTQ0lQTmRDVE9sVklQQ0pHOWxVeFhHZXVDOVcweVRDb0xzNVJaTlpIbWVQZ01IV3YtUWI2NFdsLWZJdl9kNkhJVHVlRTFESUEteFZMZ2FRQ3JBN2FWMUd0aENSZkF4Z29XQlY1clVwaC1xb09lWk1LOXBYZDRMYThYUWVUYzhrU1JLQ0hiNGszS2dfS1k5UnYydWZCQTNwNzM2MGdiUEhSem9UdHVkZWZ1YWxlM290MUlIT0RSM2dWZndsSHduMTlaNTJMRTI2cUY3OFpoLVM0cnI1ZlBpZFdTZVlubnBnRGVHZldpODkyaS15V3VTLWo1U0FZbUhCT2dKOS1iRkhDOXBOQ2FDSFl3ZDNSUlIzbHRodnRoOHNCUGprSEFmNEZjWGNzWVpVcWVESmpmaG9rT1NHNF9qYWlPSmkxU2V1LTNxSy0wNXlZODNEek85NnJoRmdmYVFtOFF3cjlSNHZPTm5FV21aczJWbl9hMTB2OWxVaDJwb1RsQmcyODVXNzZQY3JR",
         "time": "2026-04-04 08:53:10"
+      }
+    ],
+    "news": [
+      {
+        "title": "蘇治芬站肥皂箱「宣傳罷免」遭衝撞 男跳針問：有申請嗎？ - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxPU3hidGNwbEJGSmFxZnowUlRLd1lFaVJLTjhMVUlfSEtmZld2ZUIyMGpMX2pUMkFlcnZDNThTUW8xeWRKSzZsamNrUjlCNFNodTJ2LTM0TE5YeHEzQjJ3ZU1SNlQ1UTl6VEkyWjlsc21SdU41cTNCR1BSQml0NlJlVzhWSjlfckt6ckYzX2hYQ04zRTYwN2cyTUxZN2hRZ05kYUhFenFHQUtGODZlU2NtcjA1SGN0QmVnRTBPbnJsNUVhb3lVYWhVTThuZjZyTng2YnhWdVJUdWJma1JWUzZZbXg1TGZyUWxKbWhCaWZQc3QxVnhuUElVRF9ZMUVKRTc1RnRrTUtXelF4Rk8wNHlnVXhzbnA0N0VPQXdKNkhmY1RIaFllYWJKaDNqR2xSeDNYOEcwNkQ1VkUyYkNiU1A4YjZ0UENJT1pBQ2ltU29xcEkwSWpiZ3hwQ2NuR3dvSEdFamM2T3oxS0lNbWliQjV5MDEzdldsTVZsUmVDYkxtNjU4bnViek1nRmdORzZnU3cyb1NONk9sSWVidGpDbm9fUVpka1RyTnJjS0ZCcV83TGVSY3lEOW1icEh2YUd1WmdQUThOUDhWSnJaWkVwczQ5VjQ0M0dCbHNxVm1rMUxwcHRNR1pzd3lxb1NaQmYtV21fTXBoVXcyRnBIdmNJUTRlRWprTUNoVnpkdnJMekdWZTFUOUJGNnFQVTVMa2pFVTVkVEZiVXRncXdSMW93ZjhQdGtocDdZdnBmRXZFWlpsM2xseXRPbktkV0tSSWJWZHo2UXYyOGlfWGg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-04 08:25:33"
       }
     ]
   },
@@ -1342,23 +1302,11 @@
         "time": "2026-04-04 08:53:10",
         "platform": "facebook",
         "risk": "綠"
-      },
-      {
-        "title": "張嘉郡擘劃教育拚接棒 劉建國挺漁民深耕基層 - chinatimes.com",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPaGJaSmhTX2R1QTlCUzhCWFpUczIzcy1rbThGd0RXQ2FzQlhyZFVZSmgtaWJodktuSWJkR3ZsVEUxVUNpR2RKX2NELV9vc0J4aGFnQi1PQzQwc1Jsd2JKam5oTDRtbEVxNjZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-04 04:10:00",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
   "regional_groups": {
     "regions": [],
-    "groups": [
-      {
-        "name": "教育家長",
-        "count": 1
-      }
-    ]
+    "groups": []
   }
 }
