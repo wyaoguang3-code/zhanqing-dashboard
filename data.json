@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-04-05T09:02:06.338695+00:00",
+  "generated_at": "2026-04-05T09:17:10.440926+00:00",
   "metrics": {
-    "total_24h": 1,
+    "total_24h": 2,
     "prev_24h": 9,
-    "growth_pct": -88.89,
-    "news_24h": 0,
+    "growth_pct": -77.78,
+    "news_24h": 1,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 117,
+    "total": 118,
     "prev": 155,
-    "growth_pct": -24.52,
-    "news": 90,
+    "growth_pct": -23.87,
+    "news": 91,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -29,12 +29,16 @@
     {
       "platform": "facebook",
       "count": 1
+    },
+    {
+      "platform": "news",
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 90
+      "count": 91
     },
     {
       "platform": "facebook",
@@ -48,6 +52,10 @@
   "by_hour": [
     {
       "hour": "2026-04-05 09:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-04-05 16:00",
       "count": 1
     }
   ],
@@ -279,22 +287,63 @@
     {
       "hour": "2026-04-05 09:00",
       "count": 1
+    },
+    {
+      "hour": "2026-04-05 16:00",
+      "count": 1
     }
   ],
-  "mention_by_platform_24h": [],
-  "mention_latest_by_platform_24h": {},
-  "alias_by_platform_24h": [],
-  "alias_latest_by_platform_24h": {},
+  "mention_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 1
+    }
+  ],
+  "mention_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "活化閒置空間兼顧治安與長照 劉建國促水試所宿舍轉型長照據點 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQQXVwZG1XZTJ4RE1uWU5hQ1FFYkwxYUlucHN6VUVacUgzZWRjSk0tamduQ2hKQXR0Z0JNaWRaWXBPNTBaT2s1MHRDc25zdy04TXBqNWRKZDQtQlAzMnlOeDR4RzNUNU0yNEhaREhzVlBKMkp5VzQ1SnloMWNyMG9Qd0J1RkZXTS1TUU0wWmVQMXhJTzNwdVNWcWQtZmVUSlJXX0pvbjRfMm9WcTBmTWpUcWJKWGNPSXB5dWFqVUF4cTF5MlJ4eEdXTE0wX2dZQmx6SVUtbVhQTVRySk1jYlZqVVV2R0JxX0xmSjdMVkFPNGJ1VTJ5V0VkUU5KYUNlYmhZRzRqQWxxUVU0T21jQUVlWFUzSjA3VGZYb19YTzJqMzFkY211Q25kVDk5SFFUWm5QT082ZDlLTlFxSG5oTEc2b29GZWt3Rm9PR1lQeC1SdmlPdlJZdWZiTG9MSUdxRzZuWDQwUndQRlVtWmhIN2drRURZV0dNYVZnQU9MM1ZvMHFrUF9DWFZFMXhvdHg3a3ljanpmcV9MRlVSdjBJZnM2N04tRnk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-05 16:52:11"
+      }
+    ]
+  },
+  "alias_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 1
+    }
+  ],
+  "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "活化閒置空間兼顧治安與長照 劉建國促水試所宿舍轉型長照據點 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQQXVwZG1XZTJ4RE1uWU5hQ1FFYkwxYUlucHN6VUVacUgzZWRjSk0tamduQ2hKQXR0Z0JNaWRaWXBPNTBaT2s1MHRDc25zdy04TXBqNWRKZDQtQlAzMnlOeDR4RzNUNU0yNEhaREhzVlBKMkp5VzQ1SnloMWNyMG9Qd0J1RkZXTS1TUU0wWmVQMXhJTzNwdVNWcWQtZmVUSlJXX0pvbjRfMm9WcTBmTWpUcWJKWGNPSXB5dWFqVUF4cTF5MlJ4eEdXTE0wX2dZQmx6SVUtbVhQTVRySk1jYlZqVVV2R0JxX0xmSjdMVkFPNGJ1VTJ5V0VkUU5KYUNlYmhZRzRqQWxxUVU0T21jQUVlWFUzSjA3VGZYb19YTzJqMzFkY211Q25kVDk5SFFUWm5QT082ZDlLTlFxSG5oTEc2b29GZWt3Rm9PR1lQeC1SdmlPdlJZdWZiTG9MSUdxRzZuWDQwUndQRlVtWmhIN2drRURZV0dNYVZnQU9MM1ZvMHFrUF9DWFZFMXhvdHg3a3ljanpmcV9MRlVSdjBJZnM2N04tRnk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-05 16:52:11"
+      }
+    ]
+  },
   "mention_compare_24h": {
     "張嘉郡": 0,
-    "劉建國": 0
+    "劉建國": 1
   },
   "mention_compare_7d": {
     "張嘉郡": 56,
-    "劉建國": 55
+    "劉建國": 56
   },
-  "top_news": [],
+  "top_news": [
+    {
+      "title": "活化閒置空間兼顧治安與長照 劉建國促水試所宿舍轉型長照據點 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQQXVwZG1XZTJ4RE1uWU5hQ1FFYkwxYUlucHN6VUVacUgzZWRjSk0tamduQ2hKQXR0Z0JNaWRaWXBPNTBaT2s1MHRDc25zdy04TXBqNWRKZDQtQlAzMnlOeDR4RzNUNU0yNEhaREhzVlBKMkp5VzQ1SnloMWNyMG9Qd0J1RkZXTS1TUU0wWmVQMXhJTzNwdVNWcWQtZmVUSlJXX0pvbjRfMm9WcTBmTWpUcWJKWGNPSXB5dWFqVUF4cTF5MlJ4eEdXTE0wX2dZQmx6SVUtbVhQTVRySk1jYlZqVVV2R0JxX0xmSjdMVkFPNGJ1VTJ5V0VkUU5KYUNlYmhZRzRqQWxxUVU0T21jQUVlWFUzSjA3VGZYb19YTzJqMzFkY211Q25kVDk5SFFUWm5QT082ZDlLTlFxSG5oTEc2b29GZWt3Rm9PR1lQeC1SdmlPdlJZdWZiTG9MSUdxRzZuWDQwUndQRlVtWmhIN2drRURZV0dNYVZnQU9MM1ZvMHFrUF9DWFZFMXhvdHg3a3ljanpmcV9MRlVSdjBJZnM2N04tRnk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-05 16:52:11"
+    }
+  ],
   "top_news_7d": [
+    {
+      "title": "活化閒置空間兼顧治安與長照 劉建國促水試所宿舍轉型長照據點 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQQXVwZG1XZTJ4RE1uWU5hQ1FFYkwxYUlucHN6VUVacUgzZWRjSk0tamduQ2hKQXR0Z0JNaWRaWXBPNTBaT2s1MHRDc25zdy04TXBqNWRKZDQtQlAzMnlOeDR4RzNUNU0yNEhaREhzVlBKMkp5VzQ1SnloMWNyMG9Qd0J1RkZXTS1TUU0wWmVQMXhJTzNwdVNWcWQtZmVUSlJXX0pvbjRfMm9WcTBmTWpUcWJKWGNPSXB5dWFqVUF4cTF5MlJ4eEdXTE0wX2dZQmx6SVUtbVhQTVRySk1jYlZqVVV2R0JxX0xmSjdMVkFPNGJ1VTJ5V0VkUU5KYUNlYmhZRzRqQWxxUVU0T21jQUVlWFUzSjA3VGZYb19YTzJqMzFkY211Q25kVDk5SFFUWm5QT082ZDlLTlFxSG5oTEc2b29GZWt3Rm9PR1lQeC1SdmlPdlJZdWZiTG9MSUdxRzZuWDQwUndQRlVtWmhIN2drRURZV0dNYVZnQU9MM1ZvMHFrUF9DWFZFMXhvdHg3a3ljanpmcV9MRlVSdjBJZnM2N04tRnk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-05 16:52:11"
+    },
     {
       "title": "蘇治芬站肥皂箱「宣傳罷免」遭衝撞 男跳針問：有申請嗎？ - MSN",
       "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxPU3hidGNwbEJGSmFxZnowUlRLd1lFaVJLTjhMVUlfSEtmZld2ZUIyMGpMX2pUMkFlcnZDNThTUW8xeWRKSzZsamNrUjlCNFNodTJ2LTM0TE5YeHEzQjJ3ZU1SNlQ1UTl6VEkyWjlsc21SdU41cTNCR1BSQml0NlJlVzhWSjlfckt6ckYzX2hYQ04zRTYwN2cyTUxZN2hRZ05kYUhFenFHQUtGODZlU2NtcjA1SGN0QmVnRTBPbnJsNUVhb3lVYWhVTThuZjZyTng2YnhWdVJUdWJma1JWUzZZbXg1TGZyUWxKbWhCaWZQc3QxVnhuUElVRF9ZMUVKRTc1RnRrTUtXelF4Rk8wNHlnVXhzbnA0N0VPQXdKNkhmY1RIaFllYWJKaDNqR2xSeDNYOEcwNkQ1VkUyYkNiU1A4YjZ0UENJT1pBQ2ltU29xcEkwSWpiZ3hwQ2NuR3dvSEdFamM2T3oxS0lNbWliQjV5MDEzdldsTVZsUmVDYkxtNjU4bnViek1nRmdORzZnU3cyb1NONk9sSWVidGpDbm9fUVpka1RyTnJjS0ZCcV83TGVSY3lEOW1icEh2YUd1WmdQUThOUDhWSnJaWkVwczQ5VjQ0M0dCbHNxVm1rMUxwcHRNR1pzd3lxb1NaQmYtV21fTXBoVXcyRnBIdmNJUTRlRWprTUNoVnpkdnJMekdWZTFUOUJGNnFQVTVMa2pFVTVkVEZiVXRncXdSMW93ZjhQdGtocDdZdnBmRXZFWlpsM2xseXRPbktkV0tSSWJWZHo2UXYyOGlfWGg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -389,11 +438,6 @@
       "title": "劉建國召開「挺漁民、護漁權、顧未來」座談會 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DZkVyWFFmc1lZMm1xM0swSGs5V25wdkY4bGtNcV9ETlg2QjVlNWZJNG53bVlGVVB0TjBiUnYzNUpTUk1ic2FETHMtUjdNZ1hzb3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-02 10:36:00"
-    },
-    {
-      "title": "雲林立委劉建國召開「挺漁民、護漁權、顧未來」與漁民座談獲同意養殖併入漁撈類別直接轉換聘僱外勞更方便！ - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sMDEwbkVmMlJpNDJwRUZSU0lMMXNPbFZ2YzBkajBwVE5FRmR5UkF1WVJaaGp1UWR2cDhzT1ZuZm9DV2F0d21mQ2ZQZGVadVBVTmc4bUdHMkpYdElQS3hSLTJfM2twUFRPWHRZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-01 21:59:01"
     }
   ],
   "latest_facebook_20": [
@@ -500,6 +544,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "活化閒置空間兼顧治安與長照 劉建國促水試所宿舍轉型長照據點 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQQXVwZG1XZTJ4RE1uWU5hQ1FFYkwxYUlucHN6VUVacUgzZWRjSk0tamduQ2hKQXR0Z0JNaWRaWXBPNTBaT2s1MHRDc25zdy04TXBqNWRKZDQtQlAzMnlOeDR4RzNUNU0yNEhaREhzVlBKMkp5VzQ1SnloMWNyMG9Qd0J1RkZXTS1TUU0wWmVQMXhJTzNwdVNWcWQtZmVUSlJXX0pvbjRfMm9WcTBmTWpUcWJKWGNPSXB5dWFqVUF4cTF5MlJ4eEdXTE0wX2dZQmx6SVUtbVhQTVRySk1jYlZqVVV2R0JxX0xmSjdMVkFPNGJ1VTJ5V0VkUU5KYUNlYmhZRzRqQWxxUVU0T21jQUVlWFUzSjA3VGZYb19YTzJqMzFkY211Q25kVDk5SFFUWm5QT082ZDlLTlFxSG5oTEc2b29GZWt3Rm9PR1lQeC1SdmlPdlJZdWZiTG9MSUdxRzZuWDQwUndQRlVtWmhIN2drRURZV0dNYVZnQU9MM1ZvMHFrUF9DWFZFMXhvdHg3a3ljanpmcV9MRlVSdjBJZnM2N04tRnk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-05 16:52:11"
+    },
+    {
       "title": "蘇治芬站肥皂箱「宣傳罷免」遭衝撞 男跳針問：有申請嗎？ - MSN",
       "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxPU3hidGNwbEJGSmFxZnowUlRLd1lFaVJLTjhMVUlfSEtmZld2ZUIyMGpMX2pUMkFlcnZDNThTUW8xeWRKSzZsamNrUjlCNFNodTJ2LTM0TE5YeHEzQjJ3ZU1SNlQ1UTl6VEkyWjlsc21SdU41cTNCR1BSQml0NlJlVzhWSjlfckt6ckYzX2hYQ04zRTYwN2cyTUxZN2hRZ05kYUhFenFHQUtGODZlU2NtcjA1SGN0QmVnRTBPbnJsNUVhb3lVYWhVTThuZjZyTng2YnhWdVJUdWJma1JWUzZZbXg1TGZyUWxKbWhCaWZQc3QxVnhuUElVRF9ZMUVKRTc1RnRrTUtXelF4Rk8wNHlnVXhzbnA0N0VPQXdKNkhmY1RIaFllYWJKaDNqR2xSeDNYOEcwNkQ1VkUyYkNiU1A4YjZ0UENJT1pBQ2ltU29xcEkwSWpiZ3hwQ2NuR3dvSEdFamM2T3oxS0lNbWliQjV5MDEzdldsTVZsUmVDYkxtNjU4bnViek1nRmdORzZnU3cyb1NONk9sSWVidGpDbm9fUVpka1RyTnJjS0ZCcV83TGVSY3lEOW1icEh2YUd1WmdQUThOUDhWSnJaWkVwczQ5VjQ0M0dCbHNxVm1rMUxwcHRNR1pzd3lxb1NaQmYtV21fTXBoVXcyRnBIdmNJUTRlRWprTUNoVnpkdnJMekdWZTFUOUJGNnFQVTVMa2pFVTVkVEZiVXRncXdSMW93ZjhQdGtocDdZdnBmRXZFWlpsM2xseXRPbktkV0tSSWJWZHo2UXYyOGlfWGg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-04 08:25:33"
@@ -593,11 +642,6 @@
       "title": "劉建國召開「挺漁民、護漁權、顧未來」座談會 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DZkVyWFFmc1lZMm1xM0swSGs5V25wdkY4bGtNcV9ETlg2QjVlNWZJNG53bVlGVVB0TjBiUnYzNUpTUk1ic2FETHMtUjdNZ1hzb3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-02 10:36:00"
-    },
-    {
-      "title": "雲林立委劉建國召開「挺漁民、護漁權、顧未來」與漁民座談獲同意養殖併入漁撈類別直接轉換聘僱外勞更方便！ - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sMDEwbkVmMlJpNDJwRUZSU0lMMXNPbFZ2YzBkajBwVE5FRmR5UkF1WVJaaGp1UWR2cDhzT1ZuZm9DV2F0d21mQ2ZQZGVadVBVTmc4bUdHMkpYdElQS3hSLTJfM2twUFRPWHRZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-01 21:59:01"
     }
   ],
   "person_sections": {
@@ -827,6 +871,11 @@
       ],
       "news": [
         {
+          "title": "活化閒置空間兼顧治安與長照 劉建國促水試所宿舍轉型長照據點 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQQXVwZG1XZTJ4RE1uWU5hQ1FFYkwxYUlucHN6VUVacUgzZWRjSk0tamduQ2hKQXR0Z0JNaWRaWXBPNTBaT2s1MHRDc25zdy04TXBqNWRKZDQtQlAzMnlOeDR4RzNUNU0yNEhaREhzVlBKMkp5VzQ1SnloMWNyMG9Qd0J1RkZXTS1TUU0wWmVQMXhJTzNwdVNWcWQtZmVUSlJXX0pvbjRfMm9WcTBmTWpUcWJKWGNPSXB5dWFqVUF4cTF5MlJ4eEdXTE0wX2dZQmx6SVUtbVhQTVRySk1jYlZqVVV2R0JxX0xmSjdMVkFPNGJ1VTJ5V0VkUU5KYUNlYmhZRzRqQWxxUVU0T21jQUVlWFUzSjA3VGZYb19YTzJqMzFkY211Q25kVDk5SFFUWm5QT082ZDlLTlFxSG5oTEc2b29GZWt3Rm9PR1lQeC1SdmlPdlJZdWZiTG9MSUdxRzZuWDQwUndQRlVtWmhIN2drRURZV0dNYVZnQU9MM1ZvMHFrUF9DWFZFMXhvdHg3a3ljanpmcV9MRlVSdjBJZnM2N04tRnk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-05 16:52:11"
+        },
+        {
           "title": "張嘉郡擘劃教育拚接棒 劉建國挺漁民深耕基層 - chinatimes.com",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPaGJaSmhTX2R1QTlCUzhCWFpUczIzcy1rbThGd0RXQ2FzQlhyZFVZSmgtaWJodktuSWJkR3ZsVEUxVUNpR2RKX2NELV9vc0J4aGFnQi1PQzQwc1Jsd2JKam5oTDRtbEVxNjZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-04 04:10:00"
@@ -920,11 +969,6 @@
           "title": "討論牆 | 批張嘉郡雙語教學政見「早不是新主張」 劉建國：如否定姑姑執政成果 - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GMU5jWDRLRzl6bm1MOU5CQzhyWU5iZXZxZjNMUGFfZUtZV3ROR1ZqRFZTbndoLXV0elVvUDczRjhybTBaYlgzUmJHTzNNNXdrWnc0SXNWQUJMcnFwTjRiNzJhc28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-01 03:54:05"
-        },
-        {
-          "title": "雲林立委劉建國接待泰國台商顧問團訪立法院 深化台泰交流 以民間外交厚植合作基礎！ - 台灣華報",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tNWZHQ3d5M3A2SEZfYTY2NVNuS3hLZWVYME5EUFpNTDViR292aWcxNm5wUVNEbmZHamFza3g4VjFIeXpGNU54LTV5cm1UUUZEa2k3OUI4bGhTTGZXRTZXak9NNmlwRldITXdZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-01 01:54:18"
         }
       ]
     }
@@ -936,10 +980,22 @@
         "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxNa1Z2M2VIN1dod3dfdmY0M29DY3dUaGJ6NVZOLWVQdENwSmVxdVVpb2JGUFdNaTMxaFJSS0REbV9UaWt3YkJ4aTJCa1FOdXRwdWJtNzZYU21JY2h0VTlBaXN4aW56T2JYaFA5X1dib3RlTl9QdFRMQUxLLTE5MUczT2pyblhrbi11d1d2M21MM2cxTjU4NmVoQV9NSHpJSWtyR3lZOVRELWdXNjZmS2o5Z0doZWM2TDlpcTBoTXMtNGZCLWlrYnl3YWVlUk80ZllBczhadDlwSDJJNlFUUDhycWNhRE5hbF9vX1YxLVlKQUx0cnpDM29lZU4tTEpQMXcyTExpbFpmNDNlZ1dzT1lTZk80dER4QWtxdUZ4clNwVm9UdlpXcjFuNWV4TGRzTFg1T1poVE5xZEZGS1kzR204aWpSQzg5SmtuM1J1aGt6X1FoWkdoRjUwRy1fTkV5aXA0dUNKcWZOTGtQZzBnUThBZkhWVnZXRkRaaW1oRUQyajlEaGlIZkZEX3ByMG11Y1gzX1h0c3FFY05TZnhYNFpQVnhMWHBSa0VlR0lKM3U4NXRiWHdHTzlJcVlMWEdmMTBFN01mSnZKQ0NveW1vcDlWTHZtMzM4X3pRTlhkaGUwc3BDaXlXWmNsS0xLN0ZaNUp0NTU0cVZIZWNmc2FfMWRaZ3gwM25LcHRxUjRKX195N1hiU0thM0R0Q2c3TG1HTU9hXzZtaGl1aGJ6eEpiSVpvQjVoU3dJdWdRWlBmRW9mZXNzMGNtMm0xb0hkdnRKQ3JVZnFRblQ3Mjh6QmpRd1FkME1XVXFCemRRc3VWdl93QlNBaEdpN3h0eUhPVll0akx2bGZ6V29HbUJZNXVmUGRiVDJaQ0JDVmhlMFlGbmhWS19BM2w4VGtHTlZxbm1XSEJUMnFfYmJHRlVtVlBIUjdYYVJQQUgyTmlXNVY0dkRGRTlCcURBNS1tZFppcEU0S29XTXBmLU8wemprRGhkUjJBLTY1WTBicDBmWHNtZHoyWnBZR2xNZG5Qb0gzeElfMGxNMm9rcU5pMlQ5dENZVUJNTzdJdS1YcFg2SEExaGNMTGlpTDgtUUVHQnNYNXdTQ3pOM0pxS0RWR2YybnJTblM4ek9SMWhqS2ZDbUlGdE95N0s0Wk9ycHE3LXZmblRtMV9tMjJtMzFKc3kydXIzMlJsNWpkeGlTMHFHNE5mdkt3QUNPNllWNENJaE9XRXQ4cno4MW5jWGZiRnByckZPVi04OTR4dnVBVldVUFNMZy1QUkxfSzA5Zk5HRUdRekczeXJOdTZ2b1J6b2luc012c2JHeXN1U2VGUXJZdHBxb0l0bHhIcFl4NmlHbzFyM2M0ckxHaUxSR0h2QnlQc0JKRWpGTkt4SS1WOS05bUN1blR0bGVHdnpkWG1KU2Nsb0szWmc",
         "time": "2026-04-05 09:22:10"
       }
+    ],
+    "news": [
+      {
+        "title": "活化閒置空間兼顧治安與長照 劉建國促水試所宿舍轉型長照據點 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQQXVwZG1XZTJ4RE1uWU5hQ1FFYkwxYUlucHN6VUVacUgzZWRjSk0tamduQ2hKQXR0Z0JNaWRaWXBPNTBaT2s1MHRDc25zdy04TXBqNWRKZDQtQlAzMnlOeDR4RzNUNU0yNEhaREhzVlBKMkp5VzQ1SnloMWNyMG9Qd0J1RkZXTS1TUU0wWmVQMXhJTzNwdVNWcWQtZmVUSlJXX0pvbjRfMm9WcTBmTWpUcWJKWGNPSXB5dWFqVUF4cTF5MlJ4eEdXTE0wX2dZQmx6SVUtbVhQTVRySk1jYlZqVVV2R0JxX0xmSjdMVkFPNGJ1VTJ5V0VkUU5KYUNlYmhZRzRqQWxxUVU0T21jQUVlWFUzSjA3VGZYb19YTzJqMzFkY211Q25kVDk5SFFUWm5QT082ZDlLTlFxSG5oTEc2b29GZWt3Rm9PR1lQeC1SdmlPdlJZdWZiTG9MSUdxRzZuWDQwUndQRlVtWmhIN2drRURZV0dNYVZnQU9MM1ZvMHFrUF9DWFZFMXhvdHg3a3ljanpmcV9MRlVSdjBJZnM2N04tRnk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-05 16:52:11"
+      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "活化閒置空間兼顧治安與長照 劉建國促水試所宿舍轉型長照據點 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQQXVwZG1XZTJ4RE1uWU5hQ1FFYkwxYUlucHN6VUVacUgzZWRjSk0tamduQ2hKQXR0Z0JNaWRaWXBPNTBaT2s1MHRDc25zdy04TXBqNWRKZDQtQlAzMnlOeDR4RzNUNU0yNEhaREhzVlBKMkp5VzQ1SnloMWNyMG9Qd0J1RkZXTS1TUU0wWmVQMXhJTzNwdVNWcWQtZmVUSlJXX0pvbjRfMm9WcTBmTWpUcWJKWGNPSXB5dWFqVUF4cTF5MlJ4eEdXTE0wX2dZQmx6SVUtbVhQTVRySk1jYlZqVVV2R0JxX0xmSjdMVkFPNGJ1VTJ5V0VkUU5KYUNlYmhZRzRqQWxxUVU0T21jQUVlWFUzSjA3VGZYb19YTzJqMzFkY211Q25kVDk5SFFUWm5QT082ZDlLTlFxSG5oTEc2b29GZWt3Rm9PR1lQeC1SdmlPdlJZdWZiTG9MSUdxRzZuWDQwUndQRlVtWmhIN2drRURZV0dNYVZnQU9MM1ZvMHFrUF9DWFZFMXhvdHg3a3ljanpmcV9MRlVSdjBJZnM2N04tRnk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-05 16:52:11"
+      },
       {
         "title": "蘇治芬站肥皂箱「宣傳罷免」遭衝撞 男跳針問：有申請嗎？ - MSN",
         "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxPU3hidGNwbEJGSmFxZnowUlRLd1lFaVJLTjhMVUlfSEtmZld2ZUIyMGpMX2pUMkFlcnZDNThTUW8xeWRKSzZsamNrUjlCNFNodTJ2LTM0TE5YeHEzQjJ3ZU1SNlQ1UTl6VEkyWjlsc21SdU41cTNCR1BSQml0NlJlVzhWSjlfckt6ckYzX2hYQ04zRTYwN2cyTUxZN2hRZ05kYUhFenFHQUtGODZlU2NtcjA1SGN0QmVnRTBPbnJsNUVhb3lVYWhVTThuZjZyTng2YnhWdVJUdWJma1JWUzZZbXg1TGZyUWxKbWhCaWZQc3QxVnhuUElVRF9ZMUVKRTc1RnRrTUtXelF4Rk8wNHlnVXhzbnA0N0VPQXdKNkhmY1RIaFllYWJKaDNqR2xSeDNYOEcwNkQ1VkUyYkNiU1A4YjZ0UENJT1pBQ2ltU29xcEkwSWpiZ3hwQ2NuR3dvSEdFamM2T3oxS0lNbWliQjV5MDEzdldsTVZsUmVDYkxtNjU4bnViek1nRmdORzZnU3cyb1NONk9sSWVidGpDbm9fUVpka1RyTnJjS0ZCcV83TGVSY3lEOW1icEh2YUd1WmdQUThOUDhWSnJaWkVwczQ5VjQ0M0dCbHNxVm1rMUxwcHRNR1pzd3lxb1NaQmYtV21fTXBoVXcyRnBIdmNJUTRlRWprTUNoVnpkdnJMekdWZTFUOUJGNnFQVTVMa2pFVTVkVEZiVXRncXdSMW93ZjhQdGtocDdZdnBmRXZFWlpsM2xseXRPbktkV0tSSWJWZHo2UXYyOGlfWGg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1134,11 +1190,6 @@
         "title": "接待泰國台商顧問團訪立法院 劉建國：以民間外交厚植合作基礎 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQWg4cnBtZjJ4YkpRSEc5RkdSRE1reUtQTjZIbUJDaWp5bER0by12dVJLUEw0V1FKeGVrOFgtVDZyczJ6S3BubEw4aXR0QzhUNUVSYzNJMGhTdldRcllxUlhzcU9TcUYtWVJKaE51VWpscF9WWlBkV3pLaHZiZUJFQzY4VnlTbHlqTUpiLWY4S0ZhQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-03-31 18:23:15"
-      },
-      {
-        "title": "接待泰國台商顧問團訪立法院 劉建國：以民間外交厚植合作基礎 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhNlQ2RlBySnpoVTBnc191Q2hncUxZeTB1MTYwXzc4Q3lncTUwVU11Tnd2QWUydEV6OGJPUDNadndYbFlxQi1ORldOTnk5emJkUXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-03-31 18:23:00"
       }
     ],
     "facebook": [
@@ -1285,6 +1336,13 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "活化閒置空間兼顧治安與長照 劉建國促水試所宿舍轉型長照據點 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQQXVwZG1XZTJ4RE1uWU5hQ1FFYkwxYUlucHN6VUVacUgzZWRjSk0tamduQ2hKQXR0Z0JNaWRaWXBPNTBaT2s1MHRDc25zdy04TXBqNWRKZDQtQlAzMnlOeDR4RzNUNU0yNEhaREhzVlBKMkp5VzQ1SnloMWNyMG9Qd0J1RkZXTS1TUU0wWmVQMXhJTzNwdVNWcWQtZmVUSlJXX0pvbjRfMm9WcTBmTWpUcWJKWGNPSXB5dWFqVUF4cTF5MlJ4eEdXTE0wX2dZQmx6SVUtbVhQTVRySk1jYlZqVVV2R0JxX0xmSjdMVkFPNGJ1VTJ5V0VkUU5KYUNlYmhZRzRqQWxxUVU0T21jQUVlWFUzSjA3VGZYb19YTzJqMzFkY211Q25kVDk5SFFUWm5QT082ZDlLTlFxSG5oTEc2b29GZWt3Rm9PR1lQeC1SdmlPdlJZdWZiTG9MSUdxRzZuWDQwUndQRlVtWmhIN2drRURZV0dNYVZnQU9MM1ZvMHFrUF9DWFZFMXhvdHg3a3ljanpmcV9MRlVSdjBJZnM2N04tRnk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-05 16:52:11",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "#清明祭祖平安最重要🌿 清明時節，是我們回到家鄉、追思先人的日子。 在一趟趟掃墓的路上，承載的是對家人的思念，也是把記憶延續下去的方式。 這樣的日子，不只是懷念過去，也提醒我們珍惜身邊的人、守護彼此的平安。讓鄉親能安心祭祖、順利返家，是一個地方最 - Facebook",
         "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxNa1Z2M2VIN1dod3dfdmY0M29DY3dUaGJ6NVZOLWVQdENwSmVxdVVpb2JGUFdNaTMxaFJSS0REbV9UaWt3YkJ4aTJCa1FOdXRwdWJtNzZYU21JY2h0VTlBaXN4aW56T2JYaFA5X1dib3RlTl9QdFRMQUxLLTE5MUczT2pyblhrbi11d1d2M21MM2cxTjU4NmVoQV9NSHpJSWtyR3lZOVRELWdXNjZmS2o5Z0doZWM2TDlpcTBoTXMtNGZCLWlrYnl3YWVlUk80ZllBczhadDlwSDJJNlFUUDhycWNhRE5hbF9vX1YxLVlKQUx0cnpDM29lZU4tTEpQMXcyTExpbFpmNDNlZ1dzT1lTZk80dER4QWtxdUZ4clNwVm9UdlpXcjFuNWV4TGRzTFg1T1poVE5xZEZGS1kzR204aWpSQzg5SmtuM1J1aGt6X1FoWkdoRjUwRy1fTkV5aXA0dUNKcWZOTGtQZzBnUThBZkhWVnZXRkRaaW1oRUQyajlEaGlIZkZEX3ByMG11Y1gzX1h0c3FFY05TZnhYNFpQVnhMWHBSa0VlR0lKM3U4NXRiWHdHTzlJcVlMWEdmMTBFN01mSnZKQ0NveW1vcDlWTHZtMzM4X3pRTlhkaGUwc3BDaXlXWmNsS0xLN0ZaNUp0NTU0cVZIZWNmc2FfMWRaZ3gwM25LcHRxUjRKX195N1hiU0thM0R0Q2c3TG1HTU9hXzZtaGl1aGJ6eEpiSVpvQjVoU3dJdWdRWlBmRW9mZXNzMGNtMm0xb0hkdnRKQ3JVZnFRblQ3Mjh6QmpRd1FkME1XVXFCemRRc3VWdl93QlNBaEdpN3h0eUhPVll0akx2bGZ6V29HbUJZNXVmUGRiVDJaQ0JDVmhlMFlGbmhWS19BM2w4VGtHTlZxbm1XSEJUMnFfYmJHRlVtVlBIUjdYYVJQQUgyTmlXNVY0dkRGRTlCcURBNS1tZFppcEU0S29XTXBmLU8wemprRGhkUjJBLTY1WTBicDBmWHNtZHoyWnBZR2xNZG5Qb0gzeElfMGxNMm9rcU5pMlQ5dENZVUJNTzdJdS1YcFg2SEExaGNMTGlpTDgtUUVHQnNYNXdTQ3pOM0pxS0RWR2YybnJTblM4ek9SMWhqS2ZDbUlGdE95N0s0Wk9ycHE3LXZmblRtMV9tMjJtMzFKc3kydXIzMlJsNWpkeGlTMHFHNE5mdkt3QUNPNllWNENJaE9XRXQ4cno4MW5jWGZiRnByckZPVi04OTR4dnVBVldVUFNMZy1QUkxfSzA5Zk5HRUdRekczeXJOdTZ2b1J6b2luc012c2JHeXN1U2VGUXJZdHBxb0l0bHhIcFl4NmlHbzFyM2M0ckxHaUxSR0h2QnlQc0JKRWpGTkt4SS1WOS05bUN1blR0bGVHdnpkWG1KU2Nsb0szWmc",
