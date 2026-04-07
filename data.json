@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-04-07T06:55:17.189095+00:00",
+  "generated_at": "2026-04-07T07:10:19.575393+00:00",
   "metrics": {
-    "total_24h": 8,
+    "total_24h": 11,
     "prev_24h": 6,
-    "growth_pct": 33.33,
-    "news_24h": 4,
+    "growth_pct": 83.33,
+    "news_24h": 6,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 81,
-    "prev": 194,
-    "growth_pct": -58.25,
-    "news": 51,
+    "total": 84,
+    "prev": 193,
+    "growth_pct": -56.48,
+    "news": 53,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -27,18 +27,22 @@
   },
   "by_platform": [
     {
+      "platform": "news",
+      "count": 6
+    },
+    {
       "platform": "facebook",
       "count": 4
     },
     {
-      "platform": "news",
-      "count": 4
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 51
+      "count": 53
     },
     {
       "platform": "facebook",
@@ -46,7 +50,7 @@
     },
     {
       "platform": "youtube",
-      "count": 4
+      "count": 5
     }
   ],
   "by_hour": [
@@ -80,7 +84,11 @@
     },
     {
       "hour": "2026-04-07 13:00",
-      "count": 1
+      "count": 2
+    },
+    {
+      "hour": "2026-04-07 14:00",
+      "count": 2
     }
   ],
   "by_hour_7d": [
@@ -286,13 +294,17 @@
     },
     {
       "hour": "2026-04-07 13:00",
-      "count": 1
+      "count": 2
+    },
+    {
+      "hour": "2026-04-07 14:00",
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 4
+      "count": 6
     },
     {
       "platform": "facebook",
@@ -301,6 +313,16 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "連日大雨重創雲林蒜田 劉建國邀農政單位跑五鄉鎮爭取天然災害救助 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNR1d2aFNiSFo2aUlqakJOOWJGTkJkNExteVlibHhwMnJSZTBRbUpzREYyT1NyS0IwaF9JZzNYV0FsNFQxMmhtZlhsSzlKSmV6Wms0YnlqTldFMEp0Z0NKNlNCR3hPX0FlTzh2dktHTEJwbDBYcDZwT3NETlphYnNoRkQwaHBUT0tELUwtVnp2Y2tGZ3BwN2Fram5ldFFQUjFtNEN0dFBJdXNxUHFjcE5hTU1POVhxVkUzSW1TS2VPQmIwYWxLYk5tVXJROWtsZHpGWFZoR1RGbzFRX1d3ZkZHY09fN1dONUQ5Y09Qd2w3ellzZGRwNk12cDJOODJfcDdZU052cUhxUHhMLS10Q3VnNUktZ0ZRZV9feHZ2aWZaNWtKWkZEWDl0eS1hU0w1Tk4xbElhV0ZtTTN0bG9qeFFlRlVkRDlkWmlKS1BQOVpwVmRsb2Z4TDB2Qy10SHNBLUlSTHVQSFhJcUhnZFlldXhCWGpxVlgxU0Via0hPMHMyVFpVS0laX08xR0R5a2Nyc2E1UkdOeUlQTVhLUWtYd1M0NzhVTUpVbFFqS1hMRGItamxlZVV5SVdablhUREc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-07 14:58:20"
+      },
+      {
+        "title": "匹克球進軍雲林 張嘉郡規劃全縣運動場域三代共融 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Rd1AzVlM5SHF0eU0yalpMU09jQnJ3Sm5NLVBQdV9Bbzk5WDRCUEpmdmoxaFZIbks3eEFmaVpSamhPTEFPaXBtV3ZSaGowOHMySEYxbHlnM1cwQkI2MjA2RXdTZUY2dS1M?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-07 14:56:54"
+      },
       {
         "title": "張嘉郡提雙軸運動治理藍圖 規劃大西螺運動中心一鄉鎮一匹克球場 - 台灣民眾電子報",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VdkJsOWxvWS03dE5aclVQNm5EUG5faXJfT3BMY0hhdllNY0o0dnVIVTZ4eEpKMWhFZlVoZkc1UERJNENtVklfeg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -338,7 +360,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 4
+      "count": 6
     },
     {
       "platform": "facebook",
@@ -347,6 +369,16 @@
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "連日大雨重創雲林蒜田 劉建國邀農政單位跑五鄉鎮爭取天然災害救助 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNR1d2aFNiSFo2aUlqakJOOWJGTkJkNExteVlibHhwMnJSZTBRbUpzREYyT1NyS0IwaF9JZzNYV0FsNFQxMmhtZlhsSzlKSmV6Wms0YnlqTldFMEp0Z0NKNlNCR3hPX0FlTzh2dktHTEJwbDBYcDZwT3NETlphYnNoRkQwaHBUT0tELUwtVnp2Y2tGZ3BwN2Fram5ldFFQUjFtNEN0dFBJdXNxUHFjcE5hTU1POVhxVkUzSW1TS2VPQmIwYWxLYk5tVXJROWtsZHpGWFZoR1RGbzFRX1d3ZkZHY09fN1dONUQ5Y09Qd2w3ellzZGRwNk12cDJOODJfcDdZU052cUhxUHhMLS10Q3VnNUktZ0ZRZV9feHZ2aWZaNWtKWkZEWDl0eS1hU0w1Tk4xbElhV0ZtTTN0bG9qeFFlRlVkRDlkWmlKS1BQOVpwVmRsb2Z4TDB2Qy10SHNBLUlSTHVQSFhJcUhnZFlldXhCWGpxVlgxU0Via0hPMHMyVFpVS0laX08xR0R5a2Nyc2E1UkdOeUlQTVhLUWtYd1M0NzhVTUpVbFFqS1hMRGItamxlZVV5SVdablhUREc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-07 14:58:20"
+      },
+      {
+        "title": "匹克球進軍雲林 張嘉郡規劃全縣運動場域三代共融 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Rd1AzVlM5SHF0eU0yalpMU09jQnJ3Sm5NLVBQdV9Bbzk5WDRCUEpmdmoxaFZIbks3eEFmaVpSamhPTEFPaXBtV3ZSaGowOHMySEYxbHlnM1cwQkI2MjA2RXdTZUY2dS1M?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-07 14:56:54"
+      },
       {
         "title": "張嘉郡提雙軸運動治理藍圖 規劃大西螺運動中心一鄉鎮一匹克球場 - 台灣民眾電子報",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VdkJsOWxvWS03dE5aclVQNm5EUG5faXJfT3BMY0hhdllNY0o0dnVIVTZ4eEpKMWhFZlVoZkc1UERJNENtVklfeg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -382,14 +414,24 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 1,
-    "劉建國": 5
+    "張嘉郡": 2,
+    "劉建國": 6
   },
   "mention_compare_7d": {
-    "張嘉郡": 18,
-    "劉建國": 49
+    "張嘉郡": 19,
+    "劉建國": 50
   },
   "top_news": [
+    {
+      "title": "連日大雨重創雲林蒜田 劉建國邀農政單位跑五鄉鎮爭取天然災害救助 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNR1d2aFNiSFo2aUlqakJOOWJGTkJkNExteVlibHhwMnJSZTBRbUpzREYyT1NyS0IwaF9JZzNYV0FsNFQxMmhtZlhsSzlKSmV6Wms0YnlqTldFMEp0Z0NKNlNCR3hPX0FlTzh2dktHTEJwbDBYcDZwT3NETlphYnNoRkQwaHBUT0tELUwtVnp2Y2tGZ3BwN2Fram5ldFFQUjFtNEN0dFBJdXNxUHFjcE5hTU1POVhxVkUzSW1TS2VPQmIwYWxLYk5tVXJROWtsZHpGWFZoR1RGbzFRX1d3ZkZHY09fN1dONUQ5Y09Qd2w3ellzZGRwNk12cDJOODJfcDdZU052cUhxUHhMLS10Q3VnNUktZ0ZRZV9feHZ2aWZaNWtKWkZEWDl0eS1hU0w1Tk4xbElhV0ZtTTN0bG9qeFFlRlVkRDlkWmlKS1BQOVpwVmRsb2Z4TDB2Qy10SHNBLUlSTHVQSFhJcUhnZFlldXhCWGpxVlgxU0Via0hPMHMyVFpVS0laX08xR0R5a2Nyc2E1UkdOeUlQTVhLUWtYd1M0NzhVTUpVbFFqS1hMRGItamxlZVV5SVdablhUREc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-07 14:58:20"
+    },
+    {
+      "title": "匹克球進軍雲林 張嘉郡規劃全縣運動場域三代共融 - 元丰傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Rd1AzVlM5SHF0eU0yalpMU09jQnJ3Sm5NLVBQdV9Bbzk5WDRCUEpmdmoxaFZIbks3eEFmaVpSamhPTEFPaXBtV3ZSaGowOHMySEYxbHlnM1cwQkI2MjA2RXdTZUY2dS1M?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-07 14:56:54"
+    },
     {
       "title": "張嘉郡提雙軸運動治理藍圖 規劃大西螺運動中心一鄉鎮一匹克球場 - 台灣民眾電子報",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VdkJsOWxvWS03dE5aclVQNm5EUG5faXJfT3BMY0hhdllNY0o0dnVIVTZ4eEpKMWhFZlVoZkc1UERJNENtVklfeg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -412,6 +454,16 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "連日大雨重創雲林蒜田 劉建國邀農政單位跑五鄉鎮爭取天然災害救助 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNR1d2aFNiSFo2aUlqakJOOWJGTkJkNExteVlibHhwMnJSZTBRbUpzREYyT1NyS0IwaF9JZzNYV0FsNFQxMmhtZlhsSzlKSmV6Wms0YnlqTldFMEp0Z0NKNlNCR3hPX0FlTzh2dktHTEJwbDBYcDZwT3NETlphYnNoRkQwaHBUT0tELUwtVnp2Y2tGZ3BwN2Fram5ldFFQUjFtNEN0dFBJdXNxUHFjcE5hTU1POVhxVkUzSW1TS2VPQmIwYWxLYk5tVXJROWtsZHpGWFZoR1RGbzFRX1d3ZkZHY09fN1dONUQ5Y09Qd2w3ellzZGRwNk12cDJOODJfcDdZU052cUhxUHhMLS10Q3VnNUktZ0ZRZV9feHZ2aWZaNWtKWkZEWDl0eS1hU0w1Tk4xbElhV0ZtTTN0bG9qeFFlRlVkRDlkWmlKS1BQOVpwVmRsb2Z4TDB2Qy10SHNBLUlSTHVQSFhJcUhnZFlldXhCWGpxVlgxU0Via0hPMHMyVFpVS0laX08xR0R5a2Nyc2E1UkdOeUlQTVhLUWtYd1M0NzhVTUpVbFFqS1hMRGItamxlZVV5SVdablhUREc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-07 14:58:20"
+    },
+    {
+      "title": "匹克球進軍雲林 張嘉郡規劃全縣運動場域三代共融 - 元丰傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Rd1AzVlM5SHF0eU0yalpMU09jQnJ3Sm5NLVBQdV9Bbzk5WDRCUEpmdmoxaFZIbks3eEFmaVpSamhPTEFPaXBtV3ZSaGowOHMySEYxbHlnM1cwQkI2MjA2RXdTZUY2dS1M?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-07 14:56:54"
+    },
     {
       "title": "張嘉郡提雙軸運動治理藍圖 規劃大西螺運動中心一鄉鎮一匹克球場 - 台灣民眾電子報",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VdkJsOWxvWS03dE5aclVQNm5EUG5faXJfT3BMY0hhdllNY0o0dnVIVTZ4eEpKMWhFZlVoZkc1UERJNENtVklfeg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -501,16 +553,6 @@
       "title": "牡蠣採收將至卻缺工？劉建國促養殖移工轉換解套 併入漁撈類 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPZjhMQmxxOFBBRG1wYkx1ajVNV1FrM3pva1RMUVZZUXZjakZocWNiY0hVQk9TVV81MFM5bmNuaFJ3ZXl3bG9obHVQLXhCbDVZYmVKTy0wV21TcXhVaFljQk91OHBlTXpJSUNvb2N3TE5rY0FQclJDQ200NGU5c3JyOEhrc25zNWJYNDNXM3REZFl6WXhBZHJOUkQyaUREejRGb1ktdUdUQk1McU44S3FRSE83dXV1VlZKRHEwYU1oTWtyS0JRSEhkREU0ZFdyVTRlQkxBWWFseDI2WFNGYmI1VDEwU2kwclZlMnZNZWpVVDJ1d3JGN093XzFUSGVqT3ZtTk9ONTh5MzJVLWlJWlZjcnNpSm8yUmw1dkZrZDlxRmRiREw1YTA2MHhMcWg1Ykh4Ym9lR1dXMVpnV2t6U24tOWZ2MnpGMnhrVmMyUHp0QnBoZGVtSlZjd0VpT19RVUc4MzFmejlxanZhaS1Kc19LYXVlazJhdlJOQUprQWJaN2ExcnYyV0p2dnBNRVlMZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-02 14:35:46"
-    },
-    {
-      "title": "牡蠣採收將至卻缺工？劉建國促養殖移工轉換解套 併入漁撈類 - news.ltn.com.tw",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84dlR3MWFQVXVvdTdPcy1KR3padXBHYU5uLWpEQnNwS2oxcUtvUS1oX1BJd3E0OE1GVWpIOUJfcU5zWENya1I3UGVFWFF5RUpZOWVoSmVTN0ZPbTRKcDlTZW5NY3VqY0XSAWxBVV95cUxNS0NoVXowOC1JX2p3SjIzT0kxeTBKdlZER2xCSnF6bl9IMkt3dDdMU2V5cGdKRmpJNUU0WGIyZGxOb2NIdFpBZ2s0RktQbTktczNPQmdFaUVsTkxQRG95SHdOZklmZEFvWGcybjA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-02 14:23:00"
-    },
-    {
-      "title": "劉建國召開「挺漁民、護漁權、顧未來」與漁民座談養殖併入？漁撈？類別直接轉換聘僱外勞更方便 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPbkh0YnQ4UFR3X1ZXUWtISEM5SV9fVWRlMndIc1R2OU9BX1I1c0gxM1A3Q2hNR3U4SmxXazVmTElHNHdxbzh0THIyWXFWRk1Va3M5S2w2aC1peFJyNmhBY2lJcmNudldBZEI5c1czdTlxWGNxOWpUZU5Mc0lPXzBUUG5QMGpOMThKajBOTHNxTV9VZUVwa2Q0Qy1UTUdCTmE1M1JVSlBSZWN3d1BuTHhydW11Q1Jpb3ZpSzg0YmNYTF9jSzYtcjVPR0hKeHp3bGRfcHBjeVVGUF9IbFQ0akMwcXByd0VtTThiMWowMkhtUlo4TXcyaWpUSDVUa1NVeGVnX2t3RDEtMHZoV1FGVDBhWkd1alRhWjJhVnMyRnF3M0VFM0Rkak1HRHdkbERFc3ZnWFpFaXB0RE91R0N2WmJxMnRqdnB4dGE1cTd3eWVHYkxxOXBvcXBfWTBSY3ZsNDFHQS0wbnFQNUJRQ3o4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-02 11:28:09"
     }
   ],
   "latest_facebook_20": [
@@ -617,6 +659,16 @@
   ],
   "latest_news_20": [
     {
+      "title": "連日大雨重創雲林蒜田 劉建國邀農政單位跑五鄉鎮爭取天然災害救助 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNR1d2aFNiSFo2aUlqakJOOWJGTkJkNExteVlibHhwMnJSZTBRbUpzREYyT1NyS0IwaF9JZzNYV0FsNFQxMmhtZlhsSzlKSmV6Wms0YnlqTldFMEp0Z0NKNlNCR3hPX0FlTzh2dktHTEJwbDBYcDZwT3NETlphYnNoRkQwaHBUT0tELUwtVnp2Y2tGZ3BwN2Fram5ldFFQUjFtNEN0dFBJdXNxUHFjcE5hTU1POVhxVkUzSW1TS2VPQmIwYWxLYk5tVXJROWtsZHpGWFZoR1RGbzFRX1d3ZkZHY09fN1dONUQ5Y09Qd2w3ellzZGRwNk12cDJOODJfcDdZU052cUhxUHhMLS10Q3VnNUktZ0ZRZV9feHZ2aWZaNWtKWkZEWDl0eS1hU0w1Tk4xbElhV0ZtTTN0bG9qeFFlRlVkRDlkWmlKS1BQOVpwVmRsb2Z4TDB2Qy10SHNBLUlSTHVQSFhJcUhnZFlldXhCWGpxVlgxU0Via0hPMHMyVFpVS0laX08xR0R5a2Nyc2E1UkdOeUlQTVhLUWtYd1M0NzhVTUpVbFFqS1hMRGItamxlZVV5SVdablhUREc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-07 14:58:20"
+    },
+    {
+      "title": "匹克球進軍雲林 張嘉郡規劃全縣運動場域三代共融 - 元丰傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Rd1AzVlM5SHF0eU0yalpMU09jQnJ3Sm5NLVBQdV9Bbzk5WDRCUEpmdmoxaFZIbks3eEFmaVpSamhPTEFPaXBtV3ZSaGowOHMySEYxbHlnM1cwQkI2MjA2RXdTZUY2dS1M?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-07 14:56:54"
+    },
+    {
       "title": "張嘉郡提雙軸運動治理藍圖 規劃大西螺運動中心一鄉鎮一匹克球場 - 台灣民眾電子報",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VdkJsOWxvWS03dE5aclVQNm5EUG5faXJfT3BMY0hhdllNY0o0dnVIVTZ4eEpKMWhFZlVoZkc1UERJNENtVklfeg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-07 13:50:05"
@@ -705,16 +757,6 @@
       "title": "牡蠣採收將至卻缺工？劉建國促養殖移工轉換解套 併入漁撈類 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPZjhMQmxxOFBBRG1wYkx1ajVNV1FrM3pva1RMUVZZUXZjakZocWNiY0hVQk9TVV81MFM5bmNuaFJ3ZXl3bG9obHVQLXhCbDVZYmVKTy0wV21TcXhVaFljQk91OHBlTXpJSUNvb2N3TE5rY0FQclJDQ200NGU5c3JyOEhrc25zNWJYNDNXM3REZFl6WXhBZHJOUkQyaUREejRGb1ktdUdUQk1McU44S3FRSE83dXV1VlZKRHEwYU1oTWtyS0JRSEhkREU0ZFdyVTRlQkxBWWFseDI2WFNGYmI1VDEwU2kwclZlMnZNZWpVVDJ1d3JGN093XzFUSGVqT3ZtTk9ONTh5MzJVLWlJWlZjcnNpSm8yUmw1dkZrZDlxRmRiREw1YTA2MHhMcWg1Ykh4Ym9lR1dXMVpnV2t6U24tOWZ2MnpGMnhrVmMyUHp0QnBoZGVtSlZjd0VpT19RVUc4MzFmejlxanZhaS1Kc19LYXVlazJhdlJOQUprQWJaN2ExcnYyV0p2dnBNRVlMZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-02 14:35:46"
-    },
-    {
-      "title": "牡蠣採收將至卻缺工？劉建國促養殖移工轉換解套 併入漁撈類 - news.ltn.com.tw",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84dlR3MWFQVXVvdTdPcy1KR3padXBHYU5uLWpEQnNwS2oxcUtvUS1oX1BJd3E0OE1GVWpIOUJfcU5zWENya1I3UGVFWFF5RUpZOWVoSmVTN0ZPbTRKcDlTZW5NY3VqY0XSAWxBVV95cUxNS0NoVXowOC1JX2p3SjIzT0kxeTBKdlZER2xCSnF6bl9IMkt3dDdMU2V5cGdKRmpJNUU0WGIyZGxOb2NIdFpBZ2s0RktQbTktczNPQmdFaUVsTkxQRG95SHdOZklmZEFvWGcybjA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-02 14:23:00"
-    },
-    {
-      "title": "劉建國召開「挺漁民、護漁權、顧未來」與漁民座談養殖併入？漁撈？類別直接轉換聘僱外勞更方便 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPbkh0YnQ4UFR3X1ZXUWtISEM5SV9fVWRlMndIc1R2OU9BX1I1c0gxM1A3Q2hNR3U4SmxXazVmTElHNHdxbzh0THIyWXFWRk1Va3M5S2w2aC1peFJyNmhBY2lJcmNudldBZEI5c1czdTlxWGNxOWpUZU5Mc0lPXzBUUG5QMGpOMThKajBOTHNxTV9VZUVwa2Q0Qy1UTUdCTmE1M1JVSlBSZWN3d1BuTHhydW11Q1Jpb3ZpSzg0YmNYTF9jSzYtcjVPR0hKeHp3bGRfcHBjeVVGUF9IbFQ0akMwcXByd0VtTThiMWowMkhtUlo4TXcyaWpUSDVUa1NVeGVnX2t3RDEtMHZoV1FGVDBhWkd1alRhWjJhVnMyRnF3M0VFM0Rkak1HRHdkbERFc3ZnWFpFaXB0RE91R0N2WmJxMnRqdnB4dGE1cTd3eWVHYkxxOXBvcXBfWTBSY3ZsNDFHQS0wbnFQNUJRQ3o4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-02 11:28:09"
     }
   ],
   "person_sections": {
@@ -757,6 +799,11 @@
         }
       ],
       "news": [
+        {
+          "title": "匹克球進軍雲林 張嘉郡規劃全縣運動場域三代共融 - 元丰傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Rd1AzVlM5SHF0eU0yalpMU09jQnJ3Sm5NLVBQdV9Bbzk5WDRCUEpmdmoxaFZIbks3eEFmaVpSamhPTEFPaXBtV3ZSaGowOHMySEYxbHlnM1cwQkI2MjA2RXdTZUY2dS1M?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-07 14:56:54"
+        },
         {
           "title": "張嘉郡提雙軸運動治理藍圖 規劃大西螺運動中心一鄉鎮一匹克球場 - 台灣民眾電子報",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VdkJsOWxvWS03dE5aclVQNm5EUG5faXJfT3BMY0hhdllNY0o0dnVIVTZ4eEpKMWhFZlVoZkc1UERJNENtVklfeg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -851,11 +898,6 @@
           "title": "雲林縣長選舉 張嘉郡首波政見談教育 劉建國：舊瓶新裝 - 聯合新聞網",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sNTFzeUtQd1V4SHVuU2ZUMU5YRF9TTEg4ZGNYLWdac1ZoM2poVmpxYUtldS1PbGRYaU9uODg3djJ6NElvamd1a2FqN3VKLTRaM21V0gFYQVVfeXFMT0hsMGtrc1VVQXhnV05GVVloVFd2ZnhBRnlKWnNXNHM1bkduWXVfdjJQOE03ZVpMSVBWS2FyX1ZuMk5ja2hxMkZpQzRXSlZMbGJ3Z0dzQXd1LQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-03-31 00:10:03"
-        },
-        {
-          "title": "雲林教育政策交鋒 張嘉郡提AI雙語與減負改革拚教育翻轉 - yuanfengmedia.tw",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VTVZoSGp5d2EzcEU2V0hIVThQMlMwSUljd1lwVkZVclZXalRRMzl0VWJtUld5RTRjMVowM1lKZmpMdWM4d0xyS0oyenBqZGtaVmZDaHRyM04xeE9vaUtoRV9NZ1o5ZUhW?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-03-30 23:34:42"
         }
       ]
     },
@@ -964,6 +1006,11 @@
       ],
       "news": [
         {
+          "title": "連日大雨重創雲林蒜田 劉建國邀農政單位跑五鄉鎮爭取天然災害救助 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNR1d2aFNiSFo2aUlqakJOOWJGTkJkNExteVlibHhwMnJSZTBRbUpzREYyT1NyS0IwaF9JZzNYV0FsNFQxMmhtZlhsSzlKSmV6Wms0YnlqTldFMEp0Z0NKNlNCR3hPX0FlTzh2dktHTEJwbDBYcDZwT3NETlphYnNoRkQwaHBUT0tELUwtVnp2Y2tGZ3BwN2Fram5ldFFQUjFtNEN0dFBJdXNxUHFjcE5hTU1POVhxVkUzSW1TS2VPQmIwYWxLYk5tVXJROWtsZHpGWFZoR1RGbzFRX1d3ZkZHY09fN1dONUQ5Y09Qd2w3ellzZGRwNk12cDJOODJfcDdZU052cUhxUHhMLS10Q3VnNUktZ0ZRZV9feHZ2aWZaNWtKWkZEWDl0eS1hU0w1Tk4xbElhV0ZtTTN0bG9qeFFlRlVkRDlkWmlKS1BQOVpwVmRsb2Z4TDB2Qy10SHNBLUlSTHVQSFhJcUhnZFlldXhCWGpxVlgxU0Via0hPMHMyVFpVS0laX08xR0R5a2Nyc2E1UkdOeUlQTVhLUWtYd1M0NzhVTUpVbFFqS1hMRGItamxlZVV5SVdablhUREc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-07 14:58:20"
+        },
+        {
           "title": "台西水試所舊宿舍閒置逾20年 劉建國促活化長照據點 - 自由健康網",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSlZEaGVLTlAtRWM2U0FVN1d6ZjBGVGozUm5uT3lwVWdicnNJTVVZMXBSNmRDM3p1QVMtUDdMbFFlRlBRQUNsak9sQ0FoTzZIaG5rTnFreUlrMW5Oc3k1S3dlOHrSAWpBVV95cUxORV9DTlF4MnhRX2J2OThJODR4aXY4NzdILUtJLS1xZTBJNVBzS1dqbldfa2xhdmcwRUcwZE9qNzFuUXN6U3Z0aTdfZzFZei1jR09XNC1tUURmcUN2U0lrR0NtQmJhTWM0WTBn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-07 10:13:00"
@@ -1057,16 +1104,43 @@
           "title": "劉建國召開「挺漁民、護漁權、顧未來」座談會 - PChome Online 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdWRDdFNIbEU4cW9zUkJybUh0enFVV3d6TEdXMEF3X21LaVdQY19VQVRrbWdlNUZ3enBCTHpHMGZZd1FTd0NfLUU3TjRJaFZ1am5tcFFFVm1qQWxpSVNlREZOYXdLekVpTzcxaUNvRXdLbHM1VnNGUWlRVjdxRS1fWEtWSUtrQ3ctQThlNlM4V0ltUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-02 10:36:36"
-        },
-        {
-          "title": "劉建國召開「挺漁民、護漁權、顧未來」座談會 - 蕃新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DZkVyWFFmc1lZMm1xM0swSGs5V25wdkY4bGtNcV9ETlg2QjVlNWZJNG53bVlGVVB0TjBiUnYzNUpTUk1ic2FETHMtUjdNZ1hzb3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-02 10:36:00"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "連日大雨重創雲林蒜田 劉建國邀農政單位跑五鄉鎮爭取天然災害救助 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNR1d2aFNiSFo2aUlqakJOOWJGTkJkNExteVlibHhwMnJSZTBRbUpzREYyT1NyS0IwaF9JZzNYV0FsNFQxMmhtZlhsSzlKSmV6Wms0YnlqTldFMEp0Z0NKNlNCR3hPX0FlTzh2dktHTEJwbDBYcDZwT3NETlphYnNoRkQwaHBUT0tELUwtVnp2Y2tGZ3BwN2Fram5ldFFQUjFtNEN0dFBJdXNxUHFjcE5hTU1POVhxVkUzSW1TS2VPQmIwYWxLYk5tVXJROWtsZHpGWFZoR1RGbzFRX1d3ZkZHY09fN1dONUQ5Y09Qd2w3ellzZGRwNk12cDJOODJfcDdZU052cUhxUHhMLS10Q3VnNUktZ0ZRZV9feHZ2aWZaNWtKWkZEWDl0eS1hU0w1Tk4xbElhV0ZtTTN0bG9qeFFlRlVkRDlkWmlKS1BQOVpwVmRsb2Z4TDB2Qy10SHNBLUlSTHVQSFhJcUhnZFlldXhCWGpxVlgxU0Via0hPMHMyVFpVS0laX08xR0R5a2Nyc2E1UkdOeUlQTVhLUWtYd1M0NzhVTUpVbFFqS1hMRGItamxlZVV5SVdablhUREc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-07 14:58:20"
+      },
+      {
+        "title": "匹克球進軍雲林 張嘉郡規劃全縣運動場域三代共融 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Rd1AzVlM5SHF0eU0yalpMU09jQnJ3Sm5NLVBQdV9Bbzk5WDRCUEpmdmoxaFZIbks3eEFmaVpSamhPTEFPaXBtV3ZSaGowOHMySEYxbHlnM1cwQkI2MjA2RXdTZUY2dS1M?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-07 14:56:54"
+      },
+      {
+        "title": "張嘉郡提雙軸運動治理藍圖 規劃大西螺運動中心一鄉鎮一匹克球場 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VdkJsOWxvWS03dE5aclVQNm5EUG5faXJfT3BMY0hhdllNY0o0dnVIVTZ4eEpKMWhFZlVoZkc1UERJNENtVklfeg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-07 13:50:05"
+      },
+      {
+        "title": "台西水試所舊宿舍閒置逾20年 劉建國促活化長照據點 - 自由健康網",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSlZEaGVLTlAtRWM2U0FVN1d6ZjBGVGozUm5uT3lwVWdicnNJTVVZMXBSNmRDM3p1QVMtUDdMbFFlRlBRQUNsak9sQ0FoTzZIaG5rTnFreUlrMW5Oc3k1S3dlOHrSAWpBVV95cUxORV9DTlF4MnhRX2J2OThJODR4aXY4NzdILUtJLS1xZTBJNVBzS1dqbldfa2xhdmcwRUcwZE9qNzFuUXN6U3Z0aTdfZzFZei1jR09XNC1tUURmcUN2U0lrR0NtQmJhTWM0WTBn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-07 10:13:00"
+      },
+      {
+        "title": "劉建國召開「挺漁民、護漁權、顧未來」與漁民座談 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNQWRVUzVQUXBsYmdXS2tDSUZxYTVYUzZLbWZJamdrbmk4b0MyQUswRjhUZmI3Ni1ZbHpLVHJYbXVTQzA5T3lLVzdBTzJYV0FaOHQ2aENiQXFDaEUxcE9rT1VDVGI2Y1haa28wN2RKN0JpczV5bU9KR2E3UmQwcFdaRTJvb19XZWN1UDVpT1lfZFBRQmVYNHJTakFRYm1xVGNKeVZXVUVDQ0ktSk83Z0JaUk83LWdIM3JXQnpNT1FobXlyYTRremJDWEp6WVg5cUlRaGJTbUNoNlV0bzJNVjZzSVBQalZyVXhYbnFaRFZYbkJwa0dqTk9RODdoU0FSSHNnWFc5bmNEckxHd0hMajAtamJQWTF4RlRxUmZDendlb1NXa2dwdmdlNWUyNVZ0VGQwZmFycnotT2ZqMjVz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-06 23:03:57"
+      },
+      {
+        "title": "劉建國召開「挺漁民、護漁權、顧未來」與漁民座談 養殖併入漁撈類別 直接轉換聘僱外勞更方便 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPVTJ3dzlMVVFWYmdnejdCWkl3MEwtcXVmY0k4dzFPOG9kVWplUS1zRlp5bFdWWGs5dmRPZzZGQ2l0d0pabS02aTNVY1UwUElub0NsbWFoZGhwV3k3N2p1YTJCdGFnVWhHRUktRS1NYXpDNE4wYm9fdGo0T0dQMXpJdF90em5ORW43d0J0NXVLd3ZwSjI0TWt6NVlVNUtsbXRpS0JxXzVDVlVZLTZNZVUtUTRKQmRpcks5b0xrR0h5T1NoN0xyc2RGYWtmcldOWEVLR2MtbFpTT3RCX0tfY3h1dFVYT2pCMTJPWWtlLXFtR0FKay1CV1p3YnVDc2dLOEVXNDVyYWkxajFWZWl4OVhxRGt0MTZ3dDJudms3MXBoNWE3RHotd1BkNGMzNmdLd3lGa0c5cHVIaTFvaUxM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-06 16:29:19"
+      }
+    ],
     "facebook": [
       {
         "title": "劉建國 - Facebook",
@@ -1089,31 +1163,26 @@
         "time": "2026-04-06 18:18:57"
       }
     ],
-    "news": [
+    "youtube": [
       {
-        "title": "張嘉郡提雙軸運動治理藍圖 規劃大西螺運動中心一鄉鎮一匹克球場 - 台灣民眾電子報",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VdkJsOWxvWS03dE5aclVQNm5EUG5faXJfT3BMY0hhdllNY0o0dnVIVTZ4eEpKMWhFZlVoZkc1UERJNENtVklfeg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-07 13:50:05"
-      },
-      {
-        "title": "台西水試所舊宿舍閒置逾20年 劉建國促活化長照據點 - 自由健康網",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSlZEaGVLTlAtRWM2U0FVN1d6ZjBGVGozUm5uT3lwVWdicnNJTVVZMXBSNmRDM3p1QVMtUDdMbFFlRlBRQUNsak9sQ0FoTzZIaG5rTnFreUlrMW5Oc3k1S3dlOHrSAWpBVV95cUxORV9DTlF4MnhRX2J2OThJODR4aXY4NzdILUtJLS1xZTBJNVBzS1dqbldfa2xhdmcwRUcwZE9qNzFuUXN6U3Z0aTdfZzFZei1jR09XNC1tUURmcUN2U0lrR0NtQmJhTWM0WTBn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-07 10:13:00"
-      },
-      {
-        "title": "劉建國召開「挺漁民、護漁權、顧未來」與漁民座談 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNQWRVUzVQUXBsYmdXS2tDSUZxYTVYUzZLbWZJamdrbmk4b0MyQUswRjhUZmI3Ni1ZbHpLVHJYbXVTQzA5T3lLVzdBTzJYV0FaOHQ2aENiQXFDaEUxcE9rT1VDVGI2Y1haa28wN2RKN0JpczV5bU9KR2E3UmQwcFdaRTJvb19XZWN1UDVpT1lfZFBRQmVYNHJTakFRYm1xVGNKeVZXVUVDQ0ktSk83Z0JaUk83LWdIM3JXQnpNT1FobXlyYTRremJDWEp6WVg5cUlRaGJTbUNoNlV0bzJNVjZzSVBQalZyVXhYbnFaRFZYbkJwa0dqTk9RODdoU0FSSHNnWFc5bmNEckxHd0hMajAtamJQWTF4RlRxUmZDendlb1NXa2dwdmdlNWUyNVZ0VGQwZmFycnotT2ZqMjVz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-06 23:03:57"
-      },
-      {
-        "title": "劉建國召開「挺漁民、護漁權、顧未來」與漁民座談 養殖併入漁撈類別 直接轉換聘僱外勞更方便 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPVTJ3dzlMVVFWYmdnejdCWkl3MEwtcXVmY0k4dzFPOG9kVWplUS1zRlp5bFdWWGs5dmRPZzZGQ2l0d0pabS02aTNVY1UwUElub0NsbWFoZGhwV3k3N2p1YTJCdGFnVWhHRUktRS1NYXpDNE4wYm9fdGo0T0dQMXpJdF90em5ORW43d0J0NXVLd3ZwSjI0TWt6NVlVNUtsbXRpS0JxXzVDVlVZLTZNZVUtUTRKQmRpcks5b0xrR0h5T1NoN0xyc2RGYWtmcldOWEVLR2MtbFpTT3RCX0tfY3h1dFVYT2pCMTJPWWtlLXFtR0FKay1CV1p3YnVDc2dLOEVXNDVyYWkxajFWZWl4OVhxRGt0MTZ3dDJudms3MXBoNWE3RHotd1BkNGMzNmdLd3lGa0c5cHVIaTFvaUxM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-06 16:29:19"
+        "title": "鄭麗文選擇今天出發訪問沒有言論自由的中國，是言論自由日最大的諷刺。#范雲",
+        "url": "https://www.youtube.com/shorts/tmhbmMnJvsA",
+        "time": "2026-04-07 13:18:01"
       }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "連日大雨重創雲林蒜田 劉建國邀農政單位跑五鄉鎮爭取天然災害救助 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNR1d2aFNiSFo2aUlqakJOOWJGTkJkNExteVlibHhwMnJSZTBRbUpzREYyT1NyS0IwaF9JZzNYV0FsNFQxMmhtZlhsSzlKSmV6Wms0YnlqTldFMEp0Z0NKNlNCR3hPX0FlTzh2dktHTEJwbDBYcDZwT3NETlphYnNoRkQwaHBUT0tELUwtVnp2Y2tGZ3BwN2Fram5ldFFQUjFtNEN0dFBJdXNxUHFjcE5hTU1POVhxVkUzSW1TS2VPQmIwYWxLYk5tVXJROWtsZHpGWFZoR1RGbzFRX1d3ZkZHY09fN1dONUQ5Y09Qd2w3ellzZGRwNk12cDJOODJfcDdZU052cUhxUHhMLS10Q3VnNUktZ0ZRZV9feHZ2aWZaNWtKWkZEWDl0eS1hU0w1Tk4xbElhV0ZtTTN0bG9qeFFlRlVkRDlkWmlKS1BQOVpwVmRsb2Z4TDB2Qy10SHNBLUlSTHVQSFhJcUhnZFlldXhCWGpxVlgxU0Via0hPMHMyVFpVS0laX08xR0R5a2Nyc2E1UkdOeUlQTVhLUWtYd1M0NzhVTUpVbFFqS1hMRGItamxlZVV5SVdablhUREc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-07 14:58:20"
+      },
+      {
+        "title": "匹克球進軍雲林 張嘉郡規劃全縣運動場域三代共融 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Rd1AzVlM5SHF0eU0yalpMU09jQnJ3Sm5NLVBQdV9Bbzk5WDRCUEpmdmoxaFZIbks3eEFmaVpSamhPTEFPaXBtV3ZSaGowOHMySEYxbHlnM1cwQkI2MjA2RXdTZUY2dS1M?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-07 14:56:54"
+      },
       {
         "title": "張嘉郡提雙軸運動治理藍圖 規劃大西螺運動中心一鄉鎮一匹克球場 - 台灣民眾電子報",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VdkJsOWxvWS03dE5aclVQNm5EUG5faXJfT3BMY0hhdllNY0o0dnVIVTZ4eEpKMWhFZlVoZkc1UERJNENtVklfeg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1303,16 +1372,6 @@
         "title": "立委劉建國召開漁民座談 推動養殖納入漁撈類別 既有移工可直接轉換 紓解牡蠣產業人力缺口 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vVW4yS0Q1QnNOcHVSTW5QRzl4V04yQTZNNnI0aXJ4U3FfUm9wLUdQVGlPSG4ybVlyR3lpWDZzcHNFNFNZNmgyN1FhQ0hxcWRBTEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-01 00:00:00"
-      },
-      {
-        "title": "雲林立委劉建國接待泰國台商顧問團訪立法院 深化台泰交流 以民間外交厚植合作基礎！ - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wemNJOUJBWm5ESi1SUHcwc01VNEhwTXhYUEFhM0xnN1pmT3JjOFcwdkJxX2F1dUtLanhDZHV3Sk1LTnFjTTFfSG1ZUWp6ODlXcHVIeWNxcGdTU3FGTy1fRnRTT1lYZnFLRFFJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-03-31 23:21:08"
-      },
-      {
-        "title": "劉建國接待泰國台商團 強化台泰民間外交合作 | 觀傳媒 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BbmpidTZVUVFIVmhaZktUaWdveTRzMmhHbTdOaWVSZUdKeWFOU29IZTlDUWZnVElFMk5CLVZlT0lmMk12bDFHYXRIUnRZTzhCYjJ6RTlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-03-31 20:50:10"
       }
     ],
     "facebook": [
@@ -1449,6 +1508,11 @@
     ],
     "youtube": [
       {
+        "title": "鄭麗文選擇今天出發訪問沒有言論自由的中國，是言論自由日最大的諷刺。#范雲",
+        "url": "https://www.youtube.com/shorts/tmhbmMnJvsA",
+        "time": "2026-04-07 13:18:01"
+      },
+      {
         "title": "⚠️「習鄭會」要注意的兩大示警： #八范雲集 #鄭麗文",
         "url": "https://www.youtube.com/shorts/Oshbol0Oau4",
         "time": "2026-04-03 17:43:07"
@@ -1475,10 +1539,31 @@
     "hour": [],
     "day": [
       {
+        "title": "連日大雨重創雲林蒜田 劉建國邀農政單位跑五鄉鎮爭取天然災害救助 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNR1d2aFNiSFo2aUlqakJOOWJGTkJkNExteVlibHhwMnJSZTBRbUpzREYyT1NyS0IwaF9JZzNYV0FsNFQxMmhtZlhsSzlKSmV6Wms0YnlqTldFMEp0Z0NKNlNCR3hPX0FlTzh2dktHTEJwbDBYcDZwT3NETlphYnNoRkQwaHBUT0tELUwtVnp2Y2tGZ3BwN2Fram5ldFFQUjFtNEN0dFBJdXNxUHFjcE5hTU1POVhxVkUzSW1TS2VPQmIwYWxLYk5tVXJROWtsZHpGWFZoR1RGbzFRX1d3ZkZHY09fN1dONUQ5Y09Qd2w3ellzZGRwNk12cDJOODJfcDdZU052cUhxUHhMLS10Q3VnNUktZ0ZRZV9feHZ2aWZaNWtKWkZEWDl0eS1hU0w1Tk4xbElhV0ZtTTN0bG9qeFFlRlVkRDlkWmlKS1BQOVpwVmRsb2Z4TDB2Qy10SHNBLUlSTHVQSFhJcUhnZFlldXhCWGpxVlgxU0Via0hPMHMyVFpVS0laX08xR0R5a2Nyc2E1UkdOeUlQTVhLUWtYd1M0NzhVTUpVbFFqS1hMRGItamxlZVV5SVdablhUREc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-07 14:58:20",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "匹克球進軍雲林 張嘉郡規劃全縣運動場域三代共融 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Rd1AzVlM5SHF0eU0yalpMU09jQnJ3Sm5NLVBQdV9Bbzk5WDRCUEpmdmoxaFZIbks3eEFmaVpSamhPTEFPaXBtV3ZSaGowOHMySEYxbHlnM1cwQkI2MjA2RXdTZUY2dS1M?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-07 14:56:54",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "張嘉郡提雙軸運動治理藍圖 規劃大西螺運動中心一鄉鎮一匹克球場 - 台灣民眾電子報",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VdkJsOWxvWS03dE5aclVQNm5EUG5faXJfT3BMY0hhdllNY0o0dnVIVTZ4eEpKMWhFZlVoZkc1UERJNENtVklfeg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-07 13:50:05",
         "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "鄭麗文選擇今天出發訪問沒有言論自由的中國，是言論自由日最大的諷刺。#范雲",
+        "url": "https://www.youtube.com/shorts/tmhbmMnJvsA",
+        "time": "2026-04-07 13:18:01",
+        "platform": "youtube",
         "risk": "綠"
       },
       {
@@ -1533,14 +1618,19 @@
     ]
   },
   "regional_groups": {
-    "regions": [],
+    "regions": [
+      {
+        "name": "雲林",
+        "count": 2
+      }
+    ],
     "groups": [
       {
-        "name": "工地/營造",
-        "count": 1
+        "name": "農業族群",
+        "count": 2
       },
       {
-        "name": "農業族群",
+        "name": "工地/營造",
         "count": 1
       }
     ]
