@@ -1,10 +1,10 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-04-07T08:25:31.986093+00:00",
+  "generated_at": "2026-04-07T08:40:34.465921+00:00",
   "metrics": {
-    "total_24h": 15,
-    "prev_24h": 6,
-    "growth_pct": 150.0,
+    "total_24h": 16,
+    "prev_24h": 7,
+    "growth_pct": 128.57,
     "news_24h": 10,
     "anomaly": {
       "level": "綠",
@@ -14,9 +14,9 @@
     }
   },
   "metrics_7d": {
-    "total": 86,
-    "prev": 194,
-    "growth_pct": -55.67,
+    "total": 87,
+    "prev": 195,
+    "growth_pct": -55.38,
     "news": 55,
     "anomaly": {
       "level": "綠",
@@ -36,7 +36,7 @@
     },
     {
       "platform": "youtube",
-      "count": 1
+      "count": 2
     }
   ],
   "by_platform_7d": [
@@ -50,14 +50,10 @@
     },
     {
       "platform": "youtube",
-      "count": 5
+      "count": 6
     }
   ],
   "by_hour": [
-    {
-      "hour": "2026-04-06 16:00",
-      "count": 1
-    },
     {
       "hour": "2026-04-06 18:00",
       "count": 1
@@ -93,12 +89,16 @@
     {
       "hour": "2026-04-07 15:00",
       "count": 3
+    },
+    {
+      "hour": "2026-04-07 16:00",
+      "count": 2
     }
   ],
   "by_hour_7d": [
     {
       "hour": "2026-03-31 16:00",
-      "count": 2
+      "count": 1
     },
     {
       "hour": "2026-03-31 17:00",
@@ -303,6 +303,10 @@
     {
       "hour": "2026-04-07 15:00",
       "count": 3
+    },
+    {
+      "hour": "2026-04-07 16:00",
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
@@ -313,10 +317,19 @@
     {
       "platform": "facebook",
       "count": 2
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "張嘉郡拚選雲林! 拋\"兩大運動\"政策主軸 - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJRkFHVmFkSWduX2pCUmRHdGxjLVppVkx3M2dnTmpRSzVGVnJxLVlnM3FmTEtVb2FMY0JQc1FpbVNMREg3d3h5QlduYnR3WVo5eWNBbmMyR210NVUwdGQ0Vg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-07 16:28:44"
+      },
       {
         "title": "打造健康城市 繼運動中心後張嘉郡推「一鄉鎮一匹克球場」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPZklzSTMwdVdJOWtpTTc4NEdsQkdaR19nQ0FNMzM1Rm9jVEhTY0Y3V19wblZkZjBwX21ncEpYVUgyZDlCcnEwSFZTZm9ORzRDUnJNaWdFOFpyUVBRQVZLQ01Qd3dRTWRkbEJrbTdZUVlaSmhVZ3Npd0swVGJNSkd1bUpzcWNmVFFBeV9wU21NNVJ0blhDajF3TEJ0eHNEU01QQnlyQTVsY0ppcHFPdzlRZENEVzNEV0I5YnF0VF9ldGIwNElVTUkxTnVaZERibDdxVVhnTVVKWXE5SWM1VVhLWTg3TWpOcWJQelJmNFU5akxwVmpUVjJuZWprenZGZm9tcm16MjNKcEZwRlJ0NHRYdm51bHhnWVJYT05hR194eXlib0dfa3dhTUJZMmpLM0duTVI2ZmMtV0p0UkRzbXhUUjFmWFZTODhvNGlWMUoxelREbHdkYVhFN2NfUC1rU1U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -361,11 +374,13 @@
         "title": "劉建國召開「挺漁民、護漁權、顧未來」與漁民座談 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNQWRVUzVQUXBsYmdXS2tDSUZxYTVYUzZLbWZJamdrbmk4b0MyQUswRjhUZmI3Ni1ZbHpLVHJYbXVTQzA5T3lLVzdBTzJYV0FaOHQ2aENiQXFDaEUxcE9rT1VDVGI2Y1haa28wN2RKN0JpczV5bU9KR2E3UmQwcFdaRTJvb19XZWN1UDVpT1lfZFBRQmVYNHJTakFRYm1xVGNKeVZXVUVDQ0ktSk83Z0JaUk83LWdIM3JXQnpNT1FobXlyYTRremJDWEp6WVg5cUlRaGJTbUNoNlV0bzJNVjZzSVBQalZyVXhYbnFaRFZYbkJwa0dqTk9RODdoU0FSSHNnWFc5bmNEckxHd0hMajAtamJQWTF4RlRxUmZDendlb1NXa2dwdmdlNWUyNVZ0VGQwZmFycnotT2ZqMjVz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-06 23:03:57"
-      },
+      }
+    ],
+    "youtube": [
       {
-        "title": "劉建國召開「挺漁民、護漁權、顧未來」與漁民座談 養殖併入漁撈類別 直接轉換聘僱外勞更方便 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPVTJ3dzlMVVFWYmdnejdCWkl3MEwtcXVmY0k4dzFPOG9kVWplUS1zRlp5bFdWWGs5dmRPZzZGQ2l0d0pabS02aTNVY1UwUElub0NsbWFoZGhwV3k3N2p1YTJCdGFnVWhHRUktRS1NYXpDNE4wYm9fdGo0T0dQMXpJdF90em5ORW43d0J0NXVLd3ZwSjI0TWt6NVlVNUtsbXRpS0JxXzVDVlVZLTZNZVUtUTRKQmRpcks5b0xrR0h5T1NoN0xyc2RGYWtmcldOWEVLR2MtbFpTT3RCX0tfY3h1dFVYT2pCMTJPWWtlLXFtR0FKay1CV1p3YnVDc2dLOEVXNDVyYWkxajFWZWl4OVhxRGt0MTZ3dDJudms3MXBoNWE3RHotd1BkNGMzNmdLd3lGa0c5cHVIaTFvaUxM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-06 16:29:19"
+        "title": "張嘉郡拚選雲林! 規劃大西螺運動中心\"1鄉鎮一匹克球場\"－民視新聞",
+        "url": "https://www.youtube.com/watch?v=3Cdr2fJ7eYw",
+        "time": "2026-04-07 16:22:01"
       }
     ],
     "facebook": [
@@ -389,10 +404,19 @@
     {
       "platform": "facebook",
       "count": 2
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "張嘉郡拚選雲林! 拋\"兩大運動\"政策主軸 - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJRkFHVmFkSWduX2pCUmRHdGxjLVppVkx3M2dnTmpRSzVGVnJxLVlnM3FmTEtVb2FMY0JQc1FpbVNMREg3d3h5QlduYnR3WVo5eWNBbmMyR210NVUwdGQ0Vg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-07 16:28:44"
+      },
       {
         "title": "打造健康城市 繼運動中心後張嘉郡推「一鄉鎮一匹克球場」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPZklzSTMwdVdJOWtpTTc4NEdsQkdaR19nQ0FNMzM1Rm9jVEhTY0Y3V19wblZkZjBwX21ncEpYVUgyZDlCcnEwSFZTZm9ORzRDUnJNaWdFOFpyUVBRQVZLQ01Qd3dRTWRkbEJrbTdZUVlaSmhVZ3Npd0swVGJNSkd1bUpzcWNmVFFBeV9wU21NNVJ0blhDajF3TEJ0eHNEU01QQnlyQTVsY0ppcHFPdzlRZENEVzNEV0I5YnF0VF9ldGIwNElVTUkxTnVaZERibDdxVVhnTVVKWXE5SWM1VVhLWTg3TWpOcWJQelJmNFU5akxwVmpUVjJuZWprenZGZm9tcm16MjNKcEZwRlJ0NHRYdm51bHhnWVJYT05hR194eXlib0dfa3dhTUJZMmpLM0duTVI2ZmMtV0p0UkRzbXhUUjFmWFZTODhvNGlWMUoxelREbHdkYVhFN2NfUC1rU1U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -437,11 +461,13 @@
         "title": "劉建國召開「挺漁民、護漁權、顧未來」與漁民座談 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNQWRVUzVQUXBsYmdXS2tDSUZxYTVYUzZLbWZJamdrbmk4b0MyQUswRjhUZmI3Ni1ZbHpLVHJYbXVTQzA5T3lLVzdBTzJYV0FaOHQ2aENiQXFDaEUxcE9rT1VDVGI2Y1haa28wN2RKN0JpczV5bU9KR2E3UmQwcFdaRTJvb19XZWN1UDVpT1lfZFBRQmVYNHJTakFRYm1xVGNKeVZXVUVDQ0ktSk83Z0JaUk83LWdIM3JXQnpNT1FobXlyYTRremJDWEp6WVg5cUlRaGJTbUNoNlV0bzJNVjZzSVBQalZyVXhYbnFaRFZYbkJwa0dqTk9RODdoU0FSSHNnWFc5bmNEckxHd0hMajAtamJQWTF4RlRxUmZDendlb1NXa2dwdmdlNWUyNVZ0VGQwZmFycnotT2ZqMjVz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-06 23:03:57"
-      },
+      }
+    ],
+    "youtube": [
       {
-        "title": "劉建國召開「挺漁民、護漁權、顧未來」與漁民座談 養殖併入漁撈類別 直接轉換聘僱外勞更方便 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPVTJ3dzlMVVFWYmdnejdCWkl3MEwtcXVmY0k4dzFPOG9kVWplUS1zRlp5bFdWWGs5dmRPZzZGQ2l0d0pabS02aTNVY1UwUElub0NsbWFoZGhwV3k3N2p1YTJCdGFnVWhHRUktRS1NYXpDNE4wYm9fdGo0T0dQMXpJdF90em5ORW43d0J0NXVLd3ZwSjI0TWt6NVlVNUtsbXRpS0JxXzVDVlVZLTZNZVUtUTRKQmRpcks5b0xrR0h5T1NoN0xyc2RGYWtmcldOWEVLR2MtbFpTT3RCX0tfY3h1dFVYT2pCMTJPWWtlLXFtR0FKay1CV1p3YnVDc2dLOEVXNDVyYWkxajFWZWl4OVhxRGt0MTZ3dDJudms3MXBoNWE3RHotd1BkNGMzNmdLd3lGa0c5cHVIaTFvaUxM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-06 16:29:19"
+        "title": "張嘉郡拚選雲林! 規劃大西螺運動中心\"1鄉鎮一匹克球場\"－民視新聞",
+        "url": "https://www.youtube.com/watch?v=3Cdr2fJ7eYw",
+        "time": "2026-04-07 16:22:01"
       }
     ],
     "facebook": [
@@ -458,14 +484,19 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 4,
-    "劉建國": 8
+    "張嘉郡": 6,
+    "劉建國": 7
   },
   "mention_compare_7d": {
-    "張嘉郡": 21,
-    "劉建國": 50
+    "張嘉郡": 23,
+    "劉建國": 49
   },
   "top_news": [
+    {
+      "title": "張嘉郡拚選雲林! 拋\"兩大運動\"政策主軸 - 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJRkFHVmFkSWduX2pCUmRHdGxjLVppVkx3M2dnTmpRSzVGVnJxLVlnM3FmTEtVb2FMY0JQc1FpbVNMREg3d3h5QlduYnR3WVo5eWNBbmMyR210NVUwdGQ0Vg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-07 16:28:44"
+    },
     {
       "title": "打造健康城市 繼運動中心後張嘉郡推「一鄉鎮一匹克球場」 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPZklzSTMwdVdJOWtpTTc4NEdsQkdaR19nQ0FNMzM1Rm9jVEhTY0Y3V19wblZkZjBwX21ncEpYVUgyZDlCcnEwSFZTZm9ORzRDUnJNaWdFOFpyUVBRQVZLQ01Qd3dRTWRkbEJrbTdZUVlaSmhVZ3Npd0swVGJNSkd1bUpzcWNmVFFBeV9wU21NNVJ0blhDajF3TEJ0eHNEU01QQnlyQTVsY0ppcHFPdzlRZENEVzNEV0I5YnF0VF9ldGIwNElVTUkxTnVaZERibDdxVVhnTVVKWXE5SWM1VVhLWTg3TWpOcWJQelJmNFU5akxwVmpUVjJuZWprenZGZm9tcm16MjNKcEZwRlJ0NHRYdm51bHhnWVJYT05hR194eXlib0dfa3dhTUJZMmpLM0duTVI2ZmMtV0p0UkRzbXhUUjFmWFZTODhvNGlWMUoxelREbHdkYVhFN2NfUC1rU1U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -510,14 +541,14 @@
       "title": "劉建國召開「挺漁民、護漁權、顧未來」與漁民座談 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNQWRVUzVQUXBsYmdXS2tDSUZxYTVYUzZLbWZJamdrbmk4b0MyQUswRjhUZmI3Ni1ZbHpLVHJYbXVTQzA5T3lLVzdBTzJYV0FaOHQ2aENiQXFDaEUxcE9rT1VDVGI2Y1haa28wN2RKN0JpczV5bU9KR2E3UmQwcFdaRTJvb19XZWN1UDVpT1lfZFBRQmVYNHJTakFRYm1xVGNKeVZXVUVDQ0ktSk83Z0JaUk83LWdIM3JXQnpNT1FobXlyYTRremJDWEp6WVg5cUlRaGJTbUNoNlV0bzJNVjZzSVBQalZyVXhYbnFaRFZYbkJwa0dqTk9RODdoU0FSSHNnWFc5bmNEckxHd0hMajAtamJQWTF4RlRxUmZDendlb1NXa2dwdmdlNWUyNVZ0VGQwZmFycnotT2ZqMjVz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-06 23:03:57"
-    },
-    {
-      "title": "劉建國召開「挺漁民、護漁權、顧未來」與漁民座談 養殖併入漁撈類別 直接轉換聘僱外勞更方便 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPVTJ3dzlMVVFWYmdnejdCWkl3MEwtcXVmY0k4dzFPOG9kVWplUS1zRlp5bFdWWGs5dmRPZzZGQ2l0d0pabS02aTNVY1UwUElub0NsbWFoZGhwV3k3N2p1YTJCdGFnVWhHRUktRS1NYXpDNE4wYm9fdGo0T0dQMXpJdF90em5ORW43d0J0NXVLd3ZwSjI0TWt6NVlVNUtsbXRpS0JxXzVDVlVZLTZNZVUtUTRKQmRpcks5b0xrR0h5T1NoN0xyc2RGYWtmcldOWEVLR2MtbFpTT3RCX0tfY3h1dFVYT2pCMTJPWWtlLXFtR0FKay1CV1p3YnVDc2dLOEVXNDVyYWkxajFWZWl4OVhxRGt0MTZ3dDJudms3MXBoNWE3RHotd1BkNGMzNmdLd3lGa0c5cHVIaTFvaUxM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-06 16:29:19"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "張嘉郡拚選雲林! 拋\"兩大運動\"政策主軸 - 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJRkFHVmFkSWduX2pCUmRHdGxjLVppVkx3M2dnTmpRSzVGVnJxLVlnM3FmTEtVb2FMY0JQc1FpbVNMREg3d3h5QlduYnR3WVo5eWNBbmMyR210NVUwdGQ0Vg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-07 16:28:44"
+    },
     {
       "title": "打造健康城市 繼運動中心後張嘉郡推「一鄉鎮一匹克球場」 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPZklzSTMwdVdJOWtpTTc4NEdsQkdaR19nQ0FNMzM1Rm9jVEhTY0Y3V19wblZkZjBwX21ncEpYVUgyZDlCcnEwSFZTZm9ORzRDUnJNaWdFOFpyUVBRQVZLQ01Qd3dRTWRkbEJrbTdZUVlaSmhVZ3Npd0swVGJNSkd1bUpzcWNmVFFBeV9wU21NNVJ0blhDajF3TEJ0eHNEU01QQnlyQTVsY0ppcHFPdzlRZENEVzNEV0I5YnF0VF9ldGIwNElVTUkxTnVaZERibDdxVVhnTVVKWXE5SWM1VVhLWTg3TWpOcWJQelJmNFU5akxwVmpUVjJuZWprenZGZm9tcm16MjNKcEZwRlJ0NHRYdm51bHhnWVJYT05hR194eXlib0dfa3dhTUJZMmpLM0duTVI2ZmMtV0p0UkRzbXhUUjFmWFZTODhvNGlWMUoxelREbHdkYVhFN2NfUC1rU1U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -612,11 +643,6 @@
       "title": "活化閒置空間兼顧治安與長照 雲林立委劉建國促成水試所台西舊宿舍轉型長照據點！ - 台灣華報",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IdkREQTUyNjhjNHRhQ09nd1l0OVBjRmFxMmx0a0xGLWxPYXdEUkZuN01yRV9ySjBfV1hHN0d0YWN6QlBWLVRKSzhIUXdkcUl0cGVudDRlTkhWOUtTMlBRcUpQcnNpREFqX05n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-02 23:35:43"
-    },
-    {
-      "title": "活化閒置空間兼顧治安與長照 立委劉建國促水試所宿舍轉型長照據點 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55TlZkSUZWdWpTODhiTElMSjhoXy16WVRFZk5pS041OU11cGpsdmh5aHpHRS1WWUNkWVpCSnIwc25aNDhQSEI1aFhUc2Z4eFBsSHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-02 17:58:00"
     }
   ],
   "latest_facebook_20": [
@@ -723,6 +749,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "張嘉郡拚選雲林! 拋\"兩大運動\"政策主軸 - 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJRkFHVmFkSWduX2pCUmRHdGxjLVppVkx3M2dnTmpRSzVGVnJxLVlnM3FmTEtVb2FMY0JQc1FpbVNMREg3d3h5QlduYnR3WVo5eWNBbmMyR210NVUwdGQ0Vg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-07 16:28:44"
+    },
+    {
       "title": "打造健康城市 繼運動中心後張嘉郡推「一鄉鎮一匹克球場」 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPZklzSTMwdVdJOWtpTTc4NEdsQkdaR19nQ0FNMzM1Rm9jVEhTY0Y3V19wblZkZjBwX21ncEpYVUgyZDlCcnEwSFZTZm9ORzRDUnJNaWdFOFpyUVBRQVZLQ01Qd3dRTWRkbEJrbTdZUVlaSmhVZ3Npd0swVGJNSkd1bUpzcWNmVFFBeV9wU21NNVJ0blhDajF3TEJ0eHNEU01QQnlyQTVsY0ppcHFPdzlRZENEVzNEV0I5YnF0VF9ldGIwNElVTUkxTnVaZERibDdxVVhnTVVKWXE5SWM1VVhLWTg3TWpOcWJQelJmNFU5akxwVmpUVjJuZWprenZGZm9tcm16MjNKcEZwRlJ0NHRYdm51bHhnWVJYT05hR194eXlib0dfa3dhTUJZMmpLM0duTVI2ZmMtV0p0UkRzbXhUUjFmWFZTODhvNGlWMUoxelREbHdkYVhFN2NfUC1rU1U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-07 15:27:30"
@@ -816,11 +847,6 @@
       "title": "活化閒置空間兼顧治安與長照 雲林立委劉建國促成水試所台西舊宿舍轉型長照據點！ - 台灣華報",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IdkREQTUyNjhjNHRhQ09nd1l0OVBjRmFxMmx0a0xGLWxPYXdEUkZuN01yRV9ySjBfV1hHN0d0YWN6QlBWLVRKSzhIUXdkcUl0cGVudDRlTkhWOUtTMlBRcUpQcnNpREFqX05n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-02 23:35:43"
-    },
-    {
-      "title": "活化閒置空間兼顧治安與長照 立委劉建國促水試所宿舍轉型長照據點 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55TlZkSUZWdWpTODhiTElMSjhoXy16WVRFZk5pS041OU11cGpsdmh5aHpHRS1WWUNkWVpCSnIwc25aNDhQSEI1aFhUc2Z4eFBsSHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-02 17:58:00"
     }
   ],
   "person_sections": {
@@ -863,6 +889,11 @@
         }
       ],
       "news": [
+        {
+          "title": "張嘉郡拚選雲林! 拋\"兩大運動\"政策主軸 - 民視新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJRkFHVmFkSWduX2pCUmRHdGxjLVppVkx3M2dnTmpRSzVGVnJxLVlnM3FmTEtVb2FMY0JQc1FpbVNMREg3d3h5QlduYnR3WVo5eWNBbmMyR210NVUwdGQ0Vg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-07 16:28:44"
+        },
         {
           "title": "打造健康城市 繼運動中心後張嘉郡推「一鄉鎮一匹克球場」 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPZklzSTMwdVdJOWtpTTc4NEdsQkdaR19nQ0FNMzM1Rm9jVEhTY0Y3V19wblZkZjBwX21ncEpYVUgyZDlCcnEwSFZTZm9ORzRDUnJNaWdFOFpyUVBRQVZLQ01Qd3dRTWRkbEJrbTdZUVlaSmhVZ3Npd0swVGJNSkd1bUpzcWNmVFFBeV9wU21NNVJ0blhDajF3TEJ0eHNEU01QQnlyQTVsY0ppcHFPdzlRZENEVzNEV0I5YnF0VF9ldGIwNElVTUkxTnVaZERibDdxVVhnTVVKWXE5SWM1VVhLWTg3TWpOcWJQelJmNFU5akxwVmpUVjJuZWprenZGZm9tcm16MjNKcEZwRlJ0NHRYdm51bHhnWVJYT05hR194eXlib0dfa3dhTUJZMmpLM0duTVI2ZmMtV0p0UkRzbXhUUjFmWFZTODhvNGlWMUoxelREbHdkYVhFN2NfUC1rU1U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -957,11 +988,6 @@
           "title": "古坑春茶全枯失收！張嘉郡爭取每公頃10萬救助及低利貸款 - 蕃新聞",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RYzQ1b3BwZWFvWkZKd2F6ZHkwOWdadExPNDUySFgxcTEyVDMzZ3Z6QmkyTHJRcEo2ckhscWNzUHg0Sm5FLVhLZWhQN2pDWVRLZUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-03-31 10:36:00"
-        },
-        {
-          "title": "雲縣長選戰 張嘉郡、 劉建國PK教育政見 - 自由時報",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RN2F1YlB2Wndla1pXUFp6RHNkNnJlVnNhSGRGSG9hdEV6Z2ZtZTUwcVpMQVBIeGxDYy1hTFBGU0drczR4NlZtQzFZQUxKRjdaV3hMX1d3ODdURVRLa1ZFadIBZkFVX3lxTE5Qd2EwMGFpR3pRZTdSOUxoMGFHMlB2NWRlaTM5VWs4M1lldGNpeGFTTThTMmsxVTBjTTNlTHh4ZktNVWkzWFdaQ0JlS1FIYWJqRVJXOHBQc2tDMGF2aXVjZnNMZWNMdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-03-31 05:30:00"
         }
       ]
     },
@@ -1175,6 +1201,11 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "張嘉郡拚選雲林! 拋\"兩大運動\"政策主軸 - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJRkFHVmFkSWduX2pCUmRHdGxjLVppVkx3M2dnTmpRSzVGVnJxLVlnM3FmTEtVb2FMY0JQc1FpbVNMREg3d3h5QlduYnR3WVo5eWNBbmMyR210NVUwdGQ0Vg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-07 16:28:44"
+      },
+      {
         "title": "打造健康城市 繼運動中心後張嘉郡推「一鄉鎮一匹克球場」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPZklzSTMwdVdJOWtpTTc4NEdsQkdaR19nQ0FNMzM1Rm9jVEhTY0Y3V19wblZkZjBwX21ncEpYVUgyZDlCcnEwSFZTZm9ORzRDUnJNaWdFOFpyUVBRQVZLQ01Qd3dRTWRkbEJrbTdZUVlaSmhVZ3Npd0swVGJNSkd1bUpzcWNmVFFBeV9wU21NNVJ0blhDajF3TEJ0eHNEU01QQnlyQTVsY0ppcHFPdzlRZENEVzNEV0I5YnF0VF9ldGIwNElVTUkxTnVaZERibDdxVVhnTVVKWXE5SWM1VVhLWTg3TWpOcWJQelJmNFU5akxwVmpUVjJuZWprenZGZm9tcm16MjNKcEZwRlJ0NHRYdm51bHhnWVJYT05hR194eXlib0dfa3dhTUJZMmpLM0duTVI2ZmMtV0p0UkRzbXhUUjFmWFZTODhvNGlWMUoxelREbHdkYVhFN2NfUC1rU1U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-07 15:27:30"
@@ -1218,11 +1249,6 @@
         "title": "劉建國召開「挺漁民、護漁權、顧未來」與漁民座談 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNQWRVUzVQUXBsYmdXS2tDSUZxYTVYUzZLbWZJamdrbmk4b0MyQUswRjhUZmI3Ni1ZbHpLVHJYbXVTQzA5T3lLVzdBTzJYV0FaOHQ2aENiQXFDaEUxcE9rT1VDVGI2Y1haa28wN2RKN0JpczV5bU9KR2E3UmQwcFdaRTJvb19XZWN1UDVpT1lfZFBRQmVYNHJTakFRYm1xVGNKeVZXVUVDQ0ktSk83Z0JaUk83LWdIM3JXQnpNT1FobXlyYTRremJDWEp6WVg5cUlRaGJTbUNoNlV0bzJNVjZzSVBQalZyVXhYbnFaRFZYbkJwa0dqTk9RODdoU0FSSHNnWFc5bmNEckxHd0hMajAtamJQWTF4RlRxUmZDendlb1NXa2dwdmdlNWUyNVZ0VGQwZmFycnotT2ZqMjVz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-06 23:03:57"
-      },
-      {
-        "title": "劉建國召開「挺漁民、護漁權、顧未來」與漁民座談 養殖併入漁撈類別 直接轉換聘僱外勞更方便 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPVTJ3dzlMVVFWYmdnejdCWkl3MEwtcXVmY0k4dzFPOG9kVWplUS1zRlp5bFdWWGs5dmRPZzZGQ2l0d0pabS02aTNVY1UwUElub0NsbWFoZGhwV3k3N2p1YTJCdGFnVWhHRUktRS1NYXpDNE4wYm9fdGo0T0dQMXpJdF90em5ORW43d0J0NXVLd3ZwSjI0TWt6NVlVNUtsbXRpS0JxXzVDVlVZLTZNZVUtUTRKQmRpcks5b0xrR0h5T1NoN0xyc2RGYWtmcldOWEVLR2MtbFpTT3RCX0tfY3h1dFVYT2pCMTJPWWtlLXFtR0FKay1CV1p3YnVDc2dLOEVXNDVyYWkxajFWZWl4OVhxRGt0MTZ3dDJudms3MXBoNWE3RHotd1BkNGMzNmdLd3lGa0c5cHVIaTFvaUxM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-06 16:29:19"
       }
     ],
     "facebook": [
@@ -1249,6 +1275,11 @@
     ],
     "youtube": [
       {
+        "title": "張嘉郡拚選雲林! 規劃大西螺運動中心\"1鄉鎮一匹克球場\"－民視新聞",
+        "url": "https://www.youtube.com/watch?v=3Cdr2fJ7eYw",
+        "time": "2026-04-07 16:22:01"
+      },
+      {
         "title": "鄭麗文選擇今天出發訪問沒有言論自由的中國，是言論自由日最大的諷刺。#范雲",
         "url": "https://www.youtube.com/shorts/tmhbmMnJvsA",
         "time": "2026-04-07 13:18:01"
@@ -1257,6 +1288,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "張嘉郡拚選雲林! 拋\"兩大運動\"政策主軸 - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJRkFHVmFkSWduX2pCUmRHdGxjLVppVkx3M2dnTmpRSzVGVnJxLVlnM3FmTEtVb2FMY0JQc1FpbVNMREg3d3h5QlduYnR3WVo5eWNBbmMyR210NVUwdGQ0Vg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-07 16:28:44"
+      },
       {
         "title": "打造健康城市 繼運動中心後張嘉郡推「一鄉鎮一匹克球場」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPZklzSTMwdVdJOWtpTTc4NEdsQkdaR19nQ0FNMzM1Rm9jVEhTY0Y3V19wblZkZjBwX21ncEpYVUgyZDlCcnEwSFZTZm9ORzRDUnJNaWdFOFpyUVBRQVZLQ01Qd3dRTWRkbEJrbTdZUVlaSmhVZ3Npd0swVGJNSkd1bUpzcWNmVFFBeV9wU21NNVJ0blhDajF3TEJ0eHNEU01QQnlyQTVsY0ppcHFPdzlRZENEVzNEV0I5YnF0VF9ldGIwNElVTUkxTnVaZERibDdxVVhnTVVKWXE5SWM1VVhLWTg3TWpOcWJQelJmNFU5akxwVmpUVjJuZWprenZGZm9tcm16MjNKcEZwRlJ0NHRYdm51bHhnWVJYT05hR194eXlib0dfa3dhTUJZMmpLM0duTVI2ZmMtV0p0UkRzbXhUUjFmWFZTODhvNGlWMUoxelREbHdkYVhFN2NfUC1rU1U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1451,11 +1487,6 @@
         "title": "討論牆 | 批張嘉郡雙語教學政見「早不是新主張」 劉建國：如否定姑姑執政成果 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GMU5jWDRLRzl6bm1MOU5CQzhyWU5iZXZxZjNMUGFfZUtZV3ROR1ZqRFZTbndoLXV0elVvUDczRjhybTBaYlgzUmJHTzNNNXdrWnc0SXNWQUJMcnFwTjRiNzJhc28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-01 03:54:05"
-      },
-      {
-        "title": "雲林立委劉建國接待泰國台商顧問團訪立法院 深化台泰交流 以民間外交厚植合作基礎！ - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tNWZHQ3d5M3A2SEZfYTY2NVNuS3hLZWVYME5EUFpNTDViR292aWcxNm5wUVNEbmZHamFza3g4VjFIeXpGNU54LTV5cm1UUUZEa2k3OUI4bGhTTGZXRTZXak9NNmlwRldITXdZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-01 01:54:18"
       }
     ],
     "facebook": [
@@ -1592,6 +1623,11 @@
     ],
     "youtube": [
       {
+        "title": "張嘉郡拚選雲林! 規劃大西螺運動中心\"1鄉鎮一匹克球場\"－民視新聞",
+        "url": "https://www.youtube.com/watch?v=3Cdr2fJ7eYw",
+        "time": "2026-04-07 16:22:01"
+      },
+      {
         "title": "鄭麗文選擇今天出發訪問沒有言論自由的中國，是言論自由日最大的諷刺。#范雲",
         "url": "https://www.youtube.com/shorts/tmhbmMnJvsA",
         "time": "2026-04-07 13:18:01"
@@ -1622,6 +1658,20 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "張嘉郡拚選雲林! 拋\"兩大運動\"政策主軸 - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJRkFHVmFkSWduX2pCUmRHdGxjLVppVkx3M2dnTmpRSzVGVnJxLVlnM3FmTEtVb2FMY0JQc1FpbVNMREg3d3h5QlduYnR3WVo5eWNBbmMyR210NVUwdGQ0Vg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-07 16:28:44",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "張嘉郡拚選雲林! 規劃大西螺運動中心\"1鄉鎮一匹克球場\"－民視新聞",
+        "url": "https://www.youtube.com/watch?v=3Cdr2fJ7eYw",
+        "time": "2026-04-07 16:22:01",
+        "platform": "youtube",
+        "risk": "綠"
+      },
       {
         "title": "打造健康城市 繼運動中心後張嘉郡推「一鄉鎮一匹克球場」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPZklzSTMwdVdJOWtpTTc4NEdsQkdaR19nQ0FNMzM1Rm9jVEhTY0Y3V19wblZkZjBwX21ncEpYVUgyZDlCcnEwSFZTZm9ORzRDUnJNaWdFOFpyUVBRQVZLQ01Qd3dRTWRkbEJrbTdZUVlaSmhVZ3Npd0swVGJNSkd1bUpzcWNmVFFBeV9wU21NNVJ0blhDajF3TEJ0eHNEU01QQnlyQTVsY0ppcHFPdzlRZENEVzNEV0I5YnF0VF9ldGIwNElVTUkxTnVaZERibDdxVVhnTVVKWXE5SWM1VVhLWTg3TWpOcWJQelJmNFU5akxwVmpUVjJuZWprenZGZm9tcm16MjNKcEZwRlJ0NHRYdm51bHhnWVJYT05hR194eXlib0dfa3dhTUJZMmpLM0duTVI2ZmMtV0p0UkRzbXhUUjFmWFZTODhvNGlWMUoxelREbHdkYVhFN2NfUC1rU1U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1719,13 +1769,6 @@
         "time": "2026-04-06 18:18:57",
         "platform": "facebook",
         "risk": "綠"
-      },
-      {
-        "title": "劉建國召開「挺漁民、護漁權、顧未來」與漁民座談 養殖併入漁撈類別 直接轉換聘僱外勞更方便 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPVTJ3dzlMVVFWYmdnejdCWkl3MEwtcXVmY0k4dzFPOG9kVWplUS1zRlp5bFdWWGs5dmRPZzZGQ2l0d0pabS02aTNVY1UwUElub0NsbWFoZGhwV3k3N2p1YTJCdGFnVWhHRUktRS1NYXpDNE4wYm9fdGo0T0dQMXpJdF90em5ORW43d0J0NXVLd3ZwSjI0TWt6NVlVNUtsbXRpS0JxXzVDVlVZLTZNZVUtUTRKQmRpcks5b0xrR0h5T1NoN0xyc2RGYWtmcldOWEVLR2MtbFpTT3RCX0tfY3h1dFVYT2pCMTJPWWtlLXFtR0FKay1CV1p3YnVDc2dLOEVXNDVyYWkxajFWZWl4OVhxRGt0MTZ3dDJudms3MXBoNWE3RHotd1BkNGMzNmdLd3lGa0c5cHVIaTFvaUxM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-06 16:29:19",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -1733,17 +1776,13 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 4
+        "count": 6
       }
     ],
     "groups": [
       {
         "name": "農業族群",
         "count": 4
-      },
-      {
-        "name": "工地/營造",
-        "count": 1
       }
     ]
   }
