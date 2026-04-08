@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-04-08T09:29:38.523696+00:00",
+  "generated_at": "2026-04-08T09:44:41.051704+00:00",
   "metrics": {
-    "total_24h": 49,
-    "prev_24h": 26,
-    "growth_pct": 88.46,
-    "news_24h": 39,
+    "total_24h": 46,
+    "prev_24h": 30,
+    "growth_pct": 53.33,
+    "news_24h": 38,
     "anomaly": {
       "level": "黃",
       "current_hour_count": 0,
@@ -16,10 +16,10 @@
     }
   },
   "metrics_7d": {
-    "total": 119,
-    "prev": 137,
-    "growth_pct": -13.14,
-    "news": 80,
+    "total": 120,
+    "prev": 135,
+    "growth_pct": -11.11,
+    "news": 81,
     "anomaly": {
       "level": "黃",
       "current_hour_count": 0,
@@ -32,11 +32,11 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 39
+      "count": 38
     },
     {
       "platform": "facebook",
-      "count": 9
+      "count": 7
     },
     {
       "platform": "youtube",
@@ -46,7 +46,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 80
+      "count": 81
     },
     {
       "platform": "facebook",
@@ -60,7 +60,7 @@
   "by_hour": [
     {
       "hour": "2026-04-07 17:00",
-      "count": 6
+      "count": 2
     },
     {
       "hour": "2026-04-07 18:00",
@@ -105,6 +105,10 @@
     {
       "hour": "2026-04-08 16:00",
       "count": 4
+    },
+    {
+      "hour": "2026-04-08 17:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -311,20 +315,29 @@
     {
       "hour": "2026-04-08 16:00",
       "count": 4
+    },
+    {
+      "hour": "2026-04-08 17:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 39
+      "count": 38
     },
     {
       "platform": "facebook",
-      "count": 8
+      "count": 6
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "從土地出發《RE-雲林》開展 虎尾建國眷村近百攤市集展永續 | 中華日報 - today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kRlNKbnFLakEzclUtdVhsN3QxemlmMUlaX3pvLTNDWmRCVVpzOWpTWFJzajZSTlhhLVc1NFlqRmgtY0wwQTd4cFVfQmFFdkZzX3RnU0lR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-08 17:02:15"
+      },
       {
         "title": "劉建國邀交通部長陳世凱南下雲林 推動交通大躍進 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOMmJWSnZrR3RfN2FSSERjdnA3djktVVlxdk1rcGZxMURUZG1oSzFDYllCS3RCd0ZvRHRPYjNvRHMtbVpjN0lkMHdmVnV3d01yRDAtRHAtV0pSX213X3QzOFoyUlZuZGtvVzNKVGNhRFZ2REplYVEtVkFxSVhwd2hZdHk1MGJ2TnlqX3l0WElxc3V1YlZNMmxlYS1vTDZMZ2hWeDQ3Sl9mREdEU1FUaDhFdEdGaEpHSlVXVmFlVmFiQUpUUG13a2l4eER1OTZRRVZxVmRzUUVlNmItUnVDTWFSRXF3TWpYQzRUMEp6bG9vNU5nNEhCVnMtbGVzOGprTjBTdHVNWTlTV0loZ3BMQVNKM0ZlVjJCT3ZodWt3SHl3RXo2S3VKT3Q1enF5SDI0bG5oN3piU0VHYWJNUXh3M3hjVXlUM05vT3lUbGhkUW5JOTNiX21qdWZua3FKLUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -509,16 +522,6 @@
         "title": "張嘉郡布局運動新治理 推「一鄉鎮一匹克球場」 (圖) - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQYWhSNkpHQWhSR1dseGNfWUhRbVFfV0lld2JJTmtVcG5WVGpnNm5zQ1B2blVtRDN5Nko4bTZGbmUyMm9oM3ZuMkRyd2tWdVl4dUU0LXJPSUJaY21hdS1SQVZkTXZHbkZFSUpycFdncGRNSlBaNkRrcnFFUkNvVkhEb1owS0YzaVVDa0pwdm1fS3pkMWx0QzltbjVCVTRGcFliMG9yZzd1ejAyOWJBX0w4Y1hjbzBkcE5ULXVZSDM0bl8zZU1RdTN0eWEybDIwUFJ3WnJGRWhZVXYwZmtRMDBhVEs4YTZGRUltQUN2U2p6Sk1kei1EcklMLThWaVo2Q2R4MGsybGlJVEdVSENyNlBMck9Mc19vU19SWU00WGd1M015TjVVV2dNai1QNktFQWNl?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-07 17:48:44"
-      },
-      {
-        "title": "豪雨病蟲害致大蒜災損 張嘉郡丁學忠籲從速從優從簡救助 - 台灣民眾電子報",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6aDY1VExOeXZSdjJxNUpxT0ZuS0pwZEVyVVV5amoyYk5oZi05a0xLUlRHZl9IMlZwZ0FKX0MzdGFpTEp5dFRfNQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-07 17:38:34"
-      },
-      {
-        "title": "雲林大蒜豪雨釀災 張嘉郡籲儘速啟動現金救助 - tw.news.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPNnl0MFpud3BLSlZBQXJDaTZuWjJZM3dfVzdUdFhFYXhRZmRTakQ3TkZlX3dSRGVId3dZZDV2VFRldXRqdTFFZWRVdm94YzFHTHVFZldQaUV3SDN5di1xX3QzTmlGTlNNSTk3UG9XdVd2ZVBqQUVUT2tWZXhWenFYOWg1UW5ZdXhOM1JSZ1NqbjB1SVVxYWFibWJNRkY4N3NhLTNPNmlKUExTVEtqc3BTTmxSZjlIR0FOdXdOanlQOWJDWVM1TUhQaE91SGpocFRpVFQ5M3pmcnlEZ3J5TXIzQmdGYzBIX2QtTjh6aVpuOVEtMDZ4Zmh1NThjRjg4aEdXZzQ0YURPNl8wUnAtS21NSlQwdnk4eE9sZjEtUWc2TkNtYnNXVTh4YmktM1hGb1VNU2lSX1JILXcwUVpoZktwT1psdDk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-07 17:32:31"
       }
     ],
     "facebook": [
@@ -551,31 +554,26 @@
         "title": "國民黨雲林縣長參選人 #張嘉郡 7日於西螺鎮提出運動政見 興建「#大西螺國民運動中心」 完成全縣各區設置運動中心的拼圖 並規劃打造「#一鄉鎮一匹克球場」推動「全齡共享」的運動模式 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi7gdBVV95cUxQUTROcDBUdm9zQjFuaEtQbFdkSEdfZUFENDBLUnVJM1pWZWl2TWhhbzVnT3ZuY1pEOG1EVU5QekpwRWdaOGQzVllBeENkMkVQeEZlRlZjQl9TNW5qNEE4d2lmbmdHT2FoRm9ycnNBTG9XcVdzNk8zajZYaDVCbXFhbVBrR2NTUnNiSXppZUl2UHpFNkpWT3l2d0R3QjN0NERpYm9RZy1YZ0Nja1Rqa2VRRHRma0xSY0lIVEY5TXVtaW1QMDRMaHhqWGdJdzhuRGdVZjZEbzFtSjF4QW1FYnVETGRJeGJmaGJSdVJ1MFp2RFF2a2NaLUREMzVjZGtXU3Zka2hnOEpIeE1nbmF5OG1iS0l6LUpETDg0N294VUJadzA5bnFRaEFaeDdraVZ6T0MyTU8tdVlSTnp2cC1FR3dMdWw4UGtnaEQ3MFUyaVl0VEVEeWVPaElLM3R3a3hjVTFzMTgzTFVSZTNDd2tZYkJoSUtOTVJvT0VtYjF5blNsTUVHRnZaRTNTLVBKRmhRdk5SOU9Fb002Rm1LcXlaWVE0U3BDb0xyMTdSck5jZlBhM19Gd05ONjhFWkZPcnljT0pxM0hsVmMxN096R01CZHVfRzFMOUV6MHBZRmduYmtBWnZ6MV9YTjRXOHQ1RnNpNHBTRDYtY3E4dVlyZlNPbFV5Um5CeVZxeF9FcjJ4TVlfOTdkSUlXbWRaNzNyZGtCQ0tFNmF5eXpvUzAxUjRMcXVPbDdDcUJQXzh0eVBlYnlVT3ZzYnE5d2FXdXF2cTFUM1h1YV92WFRaOVZtaklhZC04czN0NzJjQUZPNjc4b2xzMnBiNkF6T2xkcjNCU0luZHNGanZkTTlRbFJWR0lSSjBvcjFneXdyOWFiUjktMWxZYnh0QTEwclB1bXFwUXhwZ2d5V3h2MjZSYUtFSmZfSzJ2WS1CVzVCMTMtUFgzYzcwdnd5TDVZYzJKM0xJRWs1SjdyVDNaSERZQkdWUE1SS0FzenVCb3Rvd1c4R3RFTzFwbXR0bS0xQXdibFRMczBWajVTMWt1Zi1SOE9BTnpYSjBoNFFkUnA3TlZMc2FhN2lhU0o5Y1NiZG1KOTZISEl6bllkRkNoVldLMkRyTlJVQ09iQ1FSZ1FSa0lrTkVqWmN1bkR3YlVMdklGMWRMeXdnWWk3RURRR3NXVHJkdktnSTRpSnFNS2pPOEpubDc3clhseThxQWxfUkRNSGluUWx3Z0JHNi10ajdZNWh5aGhVdEgxV2ljMHdiYUp3eERUUHRza1JfMjY5UmZDazBHM1pqX210UE5OVEFSMW9tYXpKX2w3a01PNG9ibEI4ZHAtcEp3",
         "time": "2026-04-07 18:33:16"
-      },
-      {
-        "title": "劉建國 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IQUFnRmhQZ1NSZkxKNXhjdFhOYlBGN0dPYWljZlJXdXpmUnVmSkZKRmg2SzNma2o1NjVRNEFyTWpKMHVIUGdYZDVaRmFsd0dNaUZpb2xEeGpaNVRFTm84VHVaa1hFZzBJam1lR0syV3VtVXBpUElkVFBMaw",
-        "time": "2026-04-07 17:35:04"
-      },
-      {
-        "title": "劉建國 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56UEFCZUFIOEQtX3VHMWJWTFdjUTgxNy00V21oajZWTlczREV2LXFyU1Z1VHhFMkRFOGhfQXFxeTUwRC1xUWtCY2J1LWs0RlZXd0JMUGRGRmJxNWtJZVU1eXdJRE91V2tCNXpLM2xwY3F5ckZIdllpb0NIQQ",
-        "time": "2026-04-07 17:35:04"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 39
+      "count": 38
     },
     {
       "platform": "facebook",
-      "count": 8
+      "count": 6
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "從土地出發《RE-雲林》開展 虎尾建國眷村近百攤市集展永續 | 中華日報 - today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kRlNKbnFLakEzclUtdVhsN3QxemlmMUlaX3pvLTNDWmRCVVpzOWpTWFJzajZSTlhhLVc1NFlqRmgtY0wwQTd4cFVfQmFFdkZzX3RnU0lR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-08 17:02:15"
+      },
       {
         "title": "劉建國邀交通部長陳世凱南下雲林 推動交通大躍進 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOMmJWSnZrR3RfN2FSSERjdnA3djktVVlxdk1rcGZxMURUZG1oSzFDYllCS3RCd0ZvRHRPYjNvRHMtbVpjN0lkMHdmVnV3d01yRDAtRHAtV0pSX213X3QzOFoyUlZuZGtvVzNKVGNhRFZ2REplYVEtVkFxSVhwd2hZdHk1MGJ2TnlqX3l0WElxc3V1YlZNMmxlYS1vTDZMZ2hWeDQ3Sl9mREdEU1FUaDhFdEdGaEpHSlVXVmFlVmFiQUpUUG13a2l4eER1OTZRRVZxVmRzUUVlNmItUnVDTWFSRXF3TWpYQzRUMEp6bG9vNU5nNEhCVnMtbGVzOGprTjBTdHVNWTlTV0loZ3BMQVNKM0ZlVjJCT3ZodWt3SHl3RXo2S3VKT3Q1enF5SDI0bG5oN3piU0VHYWJNUXh3M3hjVXlUM05vT3lUbGhkUW5JOTNiX21qdWZua3FKLUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -760,16 +758,6 @@
         "title": "張嘉郡布局運動新治理 推「一鄉鎮一匹克球場」 (圖) - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQYWhSNkpHQWhSR1dseGNfWUhRbVFfV0lld2JJTmtVcG5WVGpnNm5zQ1B2blVtRDN5Nko4bTZGbmUyMm9oM3ZuMkRyd2tWdVl4dUU0LXJPSUJaY21hdS1SQVZkTXZHbkZFSUpycFdncGRNSlBaNkRrcnFFUkNvVkhEb1owS0YzaVVDa0pwdm1fS3pkMWx0QzltbjVCVTRGcFliMG9yZzd1ejAyOWJBX0w4Y1hjbzBkcE5ULXVZSDM0bl8zZU1RdTN0eWEybDIwUFJ3WnJGRWhZVXYwZmtRMDBhVEs4YTZGRUltQUN2U2p6Sk1kei1EcklMLThWaVo2Q2R4MGsybGlJVEdVSENyNlBMck9Mc19vU19SWU00WGd1M015TjVVV2dNai1QNktFQWNl?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-07 17:48:44"
-      },
-      {
-        "title": "豪雨病蟲害致大蒜災損 張嘉郡丁學忠籲從速從優從簡救助 - 台灣民眾電子報",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6aDY1VExOeXZSdjJxNUpxT0ZuS0pwZEVyVVV5amoyYk5oZi05a0xLUlRHZl9IMlZwZ0FKX0MzdGFpTEp5dFRfNQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-07 17:38:34"
-      },
-      {
-        "title": "雲林大蒜豪雨釀災 張嘉郡籲儘速啟動現金救助 - tw.news.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPNnl0MFpud3BLSlZBQXJDaTZuWjJZM3dfVzdUdFhFYXhRZmRTakQ3TkZlX3dSRGVId3dZZDV2VFRldXRqdTFFZWRVdm94YzFHTHVFZldQaUV3SDN5di1xX3QzTmlGTlNNSTk3UG9XdVd2ZVBqQUVUT2tWZXhWenFYOWg1UW5ZdXhOM1JSZ1NqbjB1SVVxYWFibWJNRkY4N3NhLTNPNmlKUExTVEtqc3BTTmxSZjlIR0FOdXdOanlQOWJDWVM1TUhQaE91SGpocFRpVFQ5M3pmcnlEZ3J5TXIzQmdGYzBIX2QtTjh6aVpuOVEtMDZ4Zmh1NThjRjg4aEdXZzQ0YURPNl8wUnAtS21NSlQwdnk4eE9sZjEtUWc2TkNtYnNXVTh4YmktM1hGb1VNU2lSX1JILXcwUVpoZktwT1psdDk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-07 17:32:31"
       }
     ],
     "facebook": [
@@ -802,28 +790,23 @@
         "title": "國民黨雲林縣長參選人 #張嘉郡 7日於西螺鎮提出運動政見 興建「#大西螺國民運動中心」 完成全縣各區設置運動中心的拼圖 並規劃打造「#一鄉鎮一匹克球場」推動「全齡共享」的運動模式 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi7gdBVV95cUxQUTROcDBUdm9zQjFuaEtQbFdkSEdfZUFENDBLUnVJM1pWZWl2TWhhbzVnT3ZuY1pEOG1EVU5QekpwRWdaOGQzVllBeENkMkVQeEZlRlZjQl9TNW5qNEE4d2lmbmdHT2FoRm9ycnNBTG9XcVdzNk8zajZYaDVCbXFhbVBrR2NTUnNiSXppZUl2UHpFNkpWT3l2d0R3QjN0NERpYm9RZy1YZ0Nja1Rqa2VRRHRma0xSY0lIVEY5TXVtaW1QMDRMaHhqWGdJdzhuRGdVZjZEbzFtSjF4QW1FYnVETGRJeGJmaGJSdVJ1MFp2RFF2a2NaLUREMzVjZGtXU3Zka2hnOEpIeE1nbmF5OG1iS0l6LUpETDg0N294VUJadzA5bnFRaEFaeDdraVZ6T0MyTU8tdVlSTnp2cC1FR3dMdWw4UGtnaEQ3MFUyaVl0VEVEeWVPaElLM3R3a3hjVTFzMTgzTFVSZTNDd2tZYkJoSUtOTVJvT0VtYjF5blNsTUVHRnZaRTNTLVBKRmhRdk5SOU9Fb002Rm1LcXlaWVE0U3BDb0xyMTdSck5jZlBhM19Gd05ONjhFWkZPcnljT0pxM0hsVmMxN096R01CZHVfRzFMOUV6MHBZRmduYmtBWnZ6MV9YTjRXOHQ1RnNpNHBTRDYtY3E4dVlyZlNPbFV5Um5CeVZxeF9FcjJ4TVlfOTdkSUlXbWRaNzNyZGtCQ0tFNmF5eXpvUzAxUjRMcXVPbDdDcUJQXzh0eVBlYnlVT3ZzYnE5d2FXdXF2cTFUM1h1YV92WFRaOVZtaklhZC04czN0NzJjQUZPNjc4b2xzMnBiNkF6T2xkcjNCU0luZHNGanZkTTlRbFJWR0lSSjBvcjFneXdyOWFiUjktMWxZYnh0QTEwclB1bXFwUXhwZ2d5V3h2MjZSYUtFSmZfSzJ2WS1CVzVCMTMtUFgzYzcwdnd5TDVZYzJKM0xJRWs1SjdyVDNaSERZQkdWUE1SS0FzenVCb3Rvd1c4R3RFTzFwbXR0bS0xQXdibFRMczBWajVTMWt1Zi1SOE9BTnpYSjBoNFFkUnA3TlZMc2FhN2lhU0o5Y1NiZG1KOTZISEl6bllkRkNoVldLMkRyTlJVQ09iQ1FSZ1FSa0lrTkVqWmN1bkR3YlVMdklGMWRMeXdnWWk3RURRR3NXVHJkdktnSTRpSnFNS2pPOEpubDc3clhseThxQWxfUkRNSGluUWx3Z0JHNi10ajdZNWh5aGhVdEgxV2ljMHdiYUp3eERUUHRza1JfMjY5UmZDazBHM1pqX210UE5OVEFSMW9tYXpKX2w3a01PNG9ibEI4ZHAtcEp3",
         "time": "2026-04-07 18:33:16"
-      },
-      {
-        "title": "劉建國 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IQUFnRmhQZ1NSZkxKNXhjdFhOYlBGN0dPYWljZlJXdXpmUnVmSkZKRmg2SzNma2o1NjVRNEFyTWpKMHVIUGdYZDVaRmFsd0dNaUZpb2xEeGpaNVRFTm84VHVaa1hFZzBJam1lR0syV3VtVXBpUElkVFBMaw",
-        "time": "2026-04-07 17:35:04"
-      },
-      {
-        "title": "劉建國 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56UEFCZUFIOEQtX3VHMWJWTFdjUTgxNy00V21oajZWTlczREV2LXFyU1Z1VHhFMkRFOGhfQXFxeTUwRC1xUWtCY2J1LWs0RlZXd0JMUGRGRmJxNWtJZVU1eXdJRE91V2tCNXpLM2xwY3F5ckZIdllpb0NIQQ",
-        "time": "2026-04-07 17:35:04"
       }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 40,
-    "劉建國": 11
+    "張嘉郡": 38,
+    "劉建國": 10
   },
   "mention_compare_7d": {
     "張嘉郡": 58,
-    "劉建國": 49
+    "劉建國": 50
   },
   "top_news": [
+    {
+      "title": "從土地出發《RE-雲林》開展 虎尾建國眷村近百攤市集展永續 | 中華日報 - today.line.me",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kRlNKbnFLakEzclUtdVhsN3QxemlmMUlaX3pvLTNDWmRCVVpzOWpTWFJzajZSTlhhLVc1NFlqRmgtY0wwQTd4cFVfQmFFdkZzX3RnU0lR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-08 17:02:15"
+    },
     {
       "title": "劉建國邀交通部長陳世凱南下雲林 推動交通大躍進 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOMmJWSnZrR3RfN2FSSERjdnA3djktVVlxdk1rcGZxMURUZG1oSzFDYllCS3RCd0ZvRHRPYjNvRHMtbVpjN0lkMHdmVnV3d01yRDAtRHAtV0pSX213X3QzOFoyUlZuZGtvVzNKVGNhRFZ2REplYVEtVkFxSVhwd2hZdHk1MGJ2TnlqX3l0WElxc3V1YlZNMmxlYS1vTDZMZ2hWeDQ3Sl9mREdEU1FUaDhFdEdGaEpHSlVXVmFlVmFiQUpUUG13a2l4eER1OTZRRVZxVmRzUUVlNmItUnVDTWFSRXF3TWpYQzRUMEp6bG9vNU5nNEhCVnMtbGVzOGprTjBTdHVNWTlTV0loZ3BMQVNKM0ZlVjJCT3ZodWt3SHl3RXo2S3VKT3Q1enF5SDI0bG5oN3piU0VHYWJNUXh3M3hjVXlUM05vT3lUbGhkUW5JOTNiX21qdWZua3FKLUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -878,14 +861,14 @@
       "title": "節省燃油！張嘉郡呼籲居家上班 經濟部回應！ - 三立新聞網SETN.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aeERyQTRpWVphVWRWdzZMRlo4MUZGN2JfYjNUbGppWE54M19FeW9PeXktdEJJbldrWXIxWDN4UUt5NVpQeGh6bERnd196SWxCTHdKNlBkSllIN1NSdTl3VW1zNHpPUTJNczRxRENLNlpBbnhwVXhiRGp3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-08 11:50:00"
-    },
-    {
-      "title": "省油！張嘉郡籲居家上班　經濟部回應！ - mirrormedia.mg",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Ea0JhMkF2T0NmR3BGQ1YxMmV0RzR1TjExWjdzVjRGZklNcU1zUjhkQWpNNzlOcjNHRU80cnBvdWlfMFBJRjlWeFVnMTViNzBNWkl6b2xrcmFoTVBoMkVwUXBB0gFiQVVfeXFMT0RrQmEyQXZPQ2ZHcEZDVjEyZXRHNHVOMTFaN3NWNEZmSU1xTXNSOGRBak03OU5yM0dFTzRycG91aV8wUElGOVZ4VWcxNWI3ME1aSXpvbGtyYWhNUGgyRXBRcEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-08 11:50:00"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "從土地出發《RE-雲林》開展 虎尾建國眷村近百攤市集展永續 | 中華日報 - today.line.me",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kRlNKbnFLakEzclUtdVhsN3QxemlmMUlaX3pvLTNDWmRCVVpzOWpTWFJzajZSTlhhLVc1NFlqRmgtY0wwQTd4cFVfQmFFdkZzX3RnU0lR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-08 17:02:15"
+    },
     {
       "title": "劉建國邀交通部長陳世凱南下雲林 推動交通大躍進 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOMmJWSnZrR3RfN2FSSERjdnA3djktVVlxdk1rcGZxMURUZG1oSzFDYllCS3RCd0ZvRHRPYjNvRHMtbVpjN0lkMHdmVnV3d01yRDAtRHAtV0pSX213X3QzOFoyUlZuZGtvVzNKVGNhRFZ2REplYVEtVkFxSVhwd2hZdHk1MGJ2TnlqX3l0WElxc3V1YlZNMmxlYS1vTDZMZ2hWeDQ3Sl9mREdEU1FUaDhFdEdGaEpHSlVXVmFlVmFiQUpUUG13a2l4eER1OTZRRVZxVmRzUUVlNmItUnVDTWFSRXF3TWpYQzRUMEp6bG9vNU5nNEhCVnMtbGVzOGprTjBTdHVNWTlTV0loZ3BMQVNKM0ZlVjJCT3ZodWt3SHl3RXo2S3VKT3Q1enF5SDI0bG5oN3piU0VHYWJNUXh3M3hjVXlUM05vT3lUbGhkUW5JOTNiX21qdWZua3FKLUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -980,11 +963,6 @@
       "title": "角逐雲林縣長 張嘉郡推運動白皮書 - 中國評論新聞",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56eU9XQWhISlQwOVkwT1ZUdFBIdWVjUDlaTk4tNjFJRnR5Z1JZVXBVNGZtOUYwbE9ZOElSTDFzcEdoemR0Y3dCSG5UUWtkbEZyV2lQb2Q0dmpHZFpOZ3Jja19yOFVPRjN4NkhrZW1OVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-07 21:35:33"
-    },
-    {
-      "title": "雲林大蒜遭蟲害損失慘重 張嘉郡籲速啟動現金救助 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNZDRKNG9vS3dQZGR0Wk10N2d4R0VYRGQ2NV8wMzdVdjlmWTZFQWdlYVZTRHA3NWlheUtoS29Lc3dlLXlTZ1lKNXhScnZUZEtLX1M0czhNTjloN01FOGlfTjdYUWswZVY2QXRWNndwSlVfRDBRS0JUSEZwT0w3ZlBXZ3BMMmlVWVUzRUxsNTFIMDQyUm1BZjZXcmhfN3dPTl9lcTduNlhaaFA5NU45c09CVzY1SXg5cFp1RXExWlJmVjNNOUdNN1M3bXc3aVd2cFVhT3ZqSV9WeVNjemJ6Rm1wZVdtc0hsa0dkYTJKTVFVZ3Bid21xYjlzR01uVGJZeS1ab0I4dEdWdmk0N0ZwMVUyeEZ4b0RDVlNhM2oxbG1HbWZub1IzYlI2aW1JSlNPaVdvUUhqXzkwWms2NDBKbjlILTFRRXo4d29HQkVkeDVQV2VUTENjMFlXRDlqNUs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-07 21:11:34"
     }
   ],
   "latest_facebook_20": [
@@ -1091,6 +1069,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "從土地出發《RE-雲林》開展 虎尾建國眷村近百攤市集展永續 | 中華日報 - today.line.me",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kRlNKbnFLakEzclUtdVhsN3QxemlmMUlaX3pvLTNDWmRCVVpzOWpTWFJzajZSTlhhLVc1NFlqRmgtY0wwQTd4cFVfQmFFdkZzX3RnU0lR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-08 17:02:15"
+    },
+    {
       "title": "劉建國邀交通部長陳世凱南下雲林 推動交通大躍進 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOMmJWSnZrR3RfN2FSSERjdnA3djktVVlxdk1rcGZxMURUZG1oSzFDYllCS3RCd0ZvRHRPYjNvRHMtbVpjN0lkMHdmVnV3d01yRDAtRHAtV0pSX213X3QzOFoyUlZuZGtvVzNKVGNhRFZ2REplYVEtVkFxSVhwd2hZdHk1MGJ2TnlqX3l0WElxc3V1YlZNMmxlYS1vTDZMZ2hWeDQ3Sl9mREdEU1FUaDhFdEdGaEpHSlVXVmFlVmFiQUpUUG13a2l4eER1OTZRRVZxVmRzUUVlNmItUnVDTWFSRXF3TWpYQzRUMEp6bG9vNU5nNEhCVnMtbGVzOGprTjBTdHVNWTlTV0loZ3BMQVNKM0ZlVjJCT3ZodWt3SHl3RXo2S3VKT3Q1enF5SDI0bG5oN3piU0VHYWJNUXh3M3hjVXlUM05vT3lUbGhkUW5JOTNiX21qdWZua3FKLUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-08 16:54:17"
@@ -1184,11 +1167,6 @@
       "title": "角逐雲林縣長 張嘉郡推運動白皮書 - 中國評論新聞",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56eU9XQWhISlQwOVkwT1ZUdFBIdWVjUDlaTk4tNjFJRnR5Z1JZVXBVNGZtOUYwbE9ZOElSTDFzcEdoemR0Y3dCSG5UUWtkbEZyV2lQb2Q0dmpHZFpOZ3Jja19yOFVPRjN4NkhrZW1OVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-07 21:35:33"
-    },
-    {
-      "title": "雲林大蒜遭蟲害損失慘重 張嘉郡籲速啟動現金救助 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNZDRKNG9vS3dQZGR0Wk10N2d4R0VYRGQ2NV8wMzdVdjlmWTZFQWdlYVZTRHA3NWlheUtoS29Lc3dlLXlTZ1lKNXhScnZUZEtLX1M0czhNTjloN01FOGlfTjdYUWswZVY2QXRWNndwSlVfRDBRS0JUSEZwT0w3ZlBXZ3BMMmlVWVUzRUxsNTFIMDQyUm1BZjZXcmhfN3dPTl9lcTduNlhaaFA5NU45c09CVzY1SXg5cFp1RXExWlJmVjNNOUdNN1M3bXc3aVd2cFVhT3ZqSV9WeVNjemJ6Rm1wZVdtc0hsa0dkYTJKTVFVZ3Bid21xYjlzR01uVGJZeS1ab0I4dEdWdmk0N0ZwMVUyeEZ4b0RDVlNhM2oxbG1HbWZub1IzYlI2aW1JSlNPaVdvUUhqXzkwWms2NDBKbjlILTFRRXo4d29HQkVkeDVQV2VUTENjMFlXRDlqNUs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-07 21:11:34"
     }
   ],
   "person_sections": {
@@ -1568,6 +1546,11 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "從土地出發《RE-雲林》開展 虎尾建國眷村近百攤市集展永續 | 中華日報 - today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kRlNKbnFLakEzclUtdVhsN3QxemlmMUlaX3pvLTNDWmRCVVpzOWpTWFJzajZSTlhhLVc1NFlqRmgtY0wwQTd4cFVfQmFFdkZzX3RnU0lR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-08 17:02:15"
+      },
+      {
         "title": "劉建國邀交通部長陳世凱南下雲林 推動交通大躍進 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOMmJWSnZrR3RfN2FSSERjdnA3djktVVlxdk1rcGZxMURUZG1oSzFDYllCS3RCd0ZvRHRPYjNvRHMtbVpjN0lkMHdmVnV3d01yRDAtRHAtV0pSX213X3QzOFoyUlZuZGtvVzNKVGNhRFZ2REplYVEtVkFxSVhwd2hZdHk1MGJ2TnlqX3l0WElxc3V1YlZNMmxlYS1vTDZMZ2hWeDQ3Sl9mREdEU1FUaDhFdEdGaEpHSlVXVmFlVmFiQUpUUG13a2l4eER1OTZRRVZxVmRzUUVlNmItUnVDTWFSRXF3TWpYQzRUMEp6bG9vNU5nNEhCVnMtbGVzOGprTjBTdHVNWTlTV0loZ3BMQVNKM0ZlVjJCT3ZodWt3SHl3RXo2S3VKT3Q1enF5SDI0bG5oN3piU0VHYWJNUXh3M3hjVXlUM05vT3lUbGhkUW5JOTNiX21qdWZua3FKLUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-08 16:54:17"
@@ -1751,16 +1734,6 @@
         "title": "張嘉郡布局運動新治理 推「一鄉鎮一匹克球場」 (圖) - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQYWhSNkpHQWhSR1dseGNfWUhRbVFfV0lld2JJTmtVcG5WVGpnNm5zQ1B2blVtRDN5Nko4bTZGbmUyMm9oM3ZuMkRyd2tWdVl4dUU0LXJPSUJaY21hdS1SQVZkTXZHbkZFSUpycFdncGRNSlBaNkRrcnFFUkNvVkhEb1owS0YzaVVDa0pwdm1fS3pkMWx0QzltbjVCVTRGcFliMG9yZzd1ejAyOWJBX0w4Y1hjbzBkcE5ULXVZSDM0bl8zZU1RdTN0eWEybDIwUFJ3WnJGRWhZVXYwZmtRMDBhVEs4YTZGRUltQUN2U2p6Sk1kei1EcklMLThWaVo2Q2R4MGsybGlJVEdVSENyNlBMck9Mc19vU19SWU00WGd1M015TjVVV2dNai1QNktFQWNl?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-07 17:48:44"
-      },
-      {
-        "title": "豪雨病蟲害致大蒜災損 張嘉郡丁學忠籲從速從優從簡救助 - 台灣民眾電子報",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6aDY1VExOeXZSdjJxNUpxT0ZuS0pwZEVyVVV5amoyYk5oZi05a0xLUlRHZl9IMlZwZ0FKX0MzdGFpTEp5dFRfNQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-07 17:38:34"
-      },
-      {
-        "title": "雲林大蒜豪雨釀災 張嘉郡籲儘速啟動現金救助 - tw.news.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPNnl0MFpud3BLSlZBQXJDaTZuWjJZM3dfVzdUdFhFYXhRZmRTakQ3TkZlX3dSRGVId3dZZDV2VFRldXRqdTFFZWRVdm94YzFHTHVFZldQaUV3SDN5di1xX3QzTmlGTlNNSTk3UG9XdVd2ZVBqQUVUT2tWZXhWenFYOWg1UW5ZdXhOM1JSZ1NqbjB1SVVxYWFibWJNRkY4N3NhLTNPNmlKUExTVEtqc3BTTmxSZjlIR0FOdXdOanlQOWJDWVM1TUhQaE91SGpocFRpVFQ5M3pmcnlEZ3J5TXIzQmdGYzBIX2QtTjh6aVpuOVEtMDZ4Zmh1NThjRjg4aEdXZzQ0YURPNl8wUnAtS21NSlQwdnk4eE9sZjEtUWc2TkNtYnNXVTh4YmktM1hGb1VNU2lSX1JILXcwUVpoZktwT1psdDk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-07 17:32:31"
       }
     ],
     "facebook": [
@@ -1798,16 +1771,6 @@
         "title": "國民黨雲林縣長參選人 #張嘉郡 7日於西螺鎮提出運動政見 興建「#大西螺國民運動中心」 完成全縣各區設置運動中心的拼圖 並規劃打造「#一鄉鎮一匹克球場」推動「全齡共享」的運動模式 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi7gdBVV95cUxQUTROcDBUdm9zQjFuaEtQbFdkSEdfZUFENDBLUnVJM1pWZWl2TWhhbzVnT3ZuY1pEOG1EVU5QekpwRWdaOGQzVllBeENkMkVQeEZlRlZjQl9TNW5qNEE4d2lmbmdHT2FoRm9ycnNBTG9XcVdzNk8zajZYaDVCbXFhbVBrR2NTUnNiSXppZUl2UHpFNkpWT3l2d0R3QjN0NERpYm9RZy1YZ0Nja1Rqa2VRRHRma0xSY0lIVEY5TXVtaW1QMDRMaHhqWGdJdzhuRGdVZjZEbzFtSjF4QW1FYnVETGRJeGJmaGJSdVJ1MFp2RFF2a2NaLUREMzVjZGtXU3Zka2hnOEpIeE1nbmF5OG1iS0l6LUpETDg0N294VUJadzA5bnFRaEFaeDdraVZ6T0MyTU8tdVlSTnp2cC1FR3dMdWw4UGtnaEQ3MFUyaVl0VEVEeWVPaElLM3R3a3hjVTFzMTgzTFVSZTNDd2tZYkJoSUtOTVJvT0VtYjF5blNsTUVHRnZaRTNTLVBKRmhRdk5SOU9Fb002Rm1LcXlaWVE0U3BDb0xyMTdSck5jZlBhM19Gd05ONjhFWkZPcnljT0pxM0hsVmMxN096R01CZHVfRzFMOUV6MHBZRmduYmtBWnZ6MV9YTjRXOHQ1RnNpNHBTRDYtY3E4dVlyZlNPbFV5Um5CeVZxeF9FcjJ4TVlfOTdkSUlXbWRaNzNyZGtCQ0tFNmF5eXpvUzAxUjRMcXVPbDdDcUJQXzh0eVBlYnlVT3ZzYnE5d2FXdXF2cTFUM1h1YV92WFRaOVZtaklhZC04czN0NzJjQUZPNjc4b2xzMnBiNkF6T2xkcjNCU0luZHNGanZkTTlRbFJWR0lSSjBvcjFneXdyOWFiUjktMWxZYnh0QTEwclB1bXFwUXhwZ2d5V3h2MjZSYUtFSmZfSzJ2WS1CVzVCMTMtUFgzYzcwdnd5TDVZYzJKM0xJRWs1SjdyVDNaSERZQkdWUE1SS0FzenVCb3Rvd1c4R3RFTzFwbXR0bS0xQXdibFRMczBWajVTMWt1Zi1SOE9BTnpYSjBoNFFkUnA3TlZMc2FhN2lhU0o5Y1NiZG1KOTZISEl6bllkRkNoVldLMkRyTlJVQ09iQ1FSZ1FSa0lrTkVqWmN1bkR3YlVMdklGMWRMeXdnWWk3RURRR3NXVHJkdktnSTRpSnFNS2pPOEpubDc3clhseThxQWxfUkRNSGluUWx3Z0JHNi10ajdZNWh5aGhVdEgxV2ljMHdiYUp3eERUUHRza1JfMjY5UmZDazBHM1pqX210UE5OVEFSMW9tYXpKX2w3a01PNG9ibEI4ZHAtcEp3",
         "time": "2026-04-07 18:33:16"
-      },
-      {
-        "title": "劉建國 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IQUFnRmhQZ1NSZkxKNXhjdFhOYlBGN0dPYWljZlJXdXpmUnVmSkZKRmg2SzNma2o1NjVRNEFyTWpKMHVIUGdYZDVaRmFsd0dNaUZpb2xEeGpaNVRFTm84VHVaa1hFZzBJam1lR0syV3VtVXBpUElkVFBMaw",
-        "time": "2026-04-07 17:35:04"
-      },
-      {
-        "title": "劉建國 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56UEFCZUFIOEQtX3VHMWJWTFdjUTgxNy00V21oajZWTlczREV2LXFyU1Z1VHhFMkRFOGhfQXFxeTUwRC1xUWtCY2J1LWs0RlZXd0JMUGRGRmJxNWtJZVU1eXdJRE91V2tCNXpLM2xwY3F5ckZIdllpb0NIQQ",
-        "time": "2026-04-07 17:35:04"
       }
     ],
     "youtube": [
@@ -1820,6 +1783,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "從土地出發《RE-雲林》開展 虎尾建國眷村近百攤市集展永續 | 中華日報 - today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kRlNKbnFLakEzclUtdVhsN3QxemlmMUlaX3pvLTNDWmRCVVpzOWpTWFJzajZSTlhhLVc1NFlqRmgtY0wwQTd4cFVfQmFFdkZzX3RnU0lR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-08 17:02:15"
+      },
       {
         "title": "劉建國邀交通部長陳世凱南下雲林 推動交通大躍進 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOMmJWSnZrR3RfN2FSSERjdnA3djktVVlxdk1rcGZxMURUZG1oSzFDYllCS3RCd0ZvRHRPYjNvRHMtbVpjN0lkMHdmVnV3d01yRDAtRHAtV0pSX213X3QzOFoyUlZuZGtvVzNKVGNhRFZ2REplYVEtVkFxSVhwd2hZdHk1MGJ2TnlqX3l0WElxc3V1YlZNMmxlYS1vTDZMZ2hWeDQ3Sl9mREdEU1FUaDhFdEdGaEpHSlVXVmFlVmFiQUpUUG13a2l4eER1OTZRRVZxVmRzUUVlNmItUnVDTWFSRXF3TWpYQzRUMEp6bG9vNU5nNEhCVnMtbGVzOGprTjBTdHVNWTlTV0loZ3BMQVNKM0ZlVjJCT3ZodWt3SHl3RXo2S3VKT3Q1enF5SDI0bG5oN3piU0VHYWJNUXh3M3hjVXlUM05vT3lUbGhkUW5JOTNiX21qdWZua3FKLUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -2014,11 +1982,6 @@
         "title": "雲林大蒜豪雨釀災 張嘉郡籲儘速啟動現金救助 - tw.news.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPNnl0MFpud3BLSlZBQXJDaTZuWjJZM3dfVzdUdFhFYXhRZmRTakQ3TkZlX3dSRGVId3dZZDV2VFRldXRqdTFFZWRVdm94YzFHTHVFZldQaUV3SDN5di1xX3QzTmlGTlNNSTk3UG9XdVd2ZVBqQUVUT2tWZXhWenFYOWg1UW5ZdXhOM1JSZ1NqbjB1SVVxYWFibWJNRkY4N3NhLTNPNmlKUExTVEtqc3BTTmxSZjlIR0FOdXdOanlQOWJDWVM1TUhQaE91SGpocFRpVFQ5M3pmcnlEZ3J5TXIzQmdGYzBIX2QtTjh6aVpuOVEtMDZ4Zmh1NThjRjg4aEdXZzQ0YURPNl8wUnAtS21NSlQwdnk4eE9sZjEtUWc2TkNtYnNXVTh4YmktM1hGb1VNU2lSX1JILXcwUVpoZktwT1psdDk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-07 17:32:31"
-      },
-      {
-        "title": "豪雨釀災！雲林大蒜受損 立委張嘉郡籲啟動現金救助 - tw.news.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPQWxDZ05uNExEVVpndDNHTC1SQmV0WDV4U0xtQUkxY2JMeHJlQWlGQ2FyTC1FVjJqUDZHTW1teEtJM1pudGhrNGFCcWF4Mk5UV3RQUU15ak9vdTJaQzh1NjdyUnF5Qm85aFd1YzF5LUpnNzNsbjM5NFdha2lUN3VsUmlMS1NOdWJFdEI5bmd1Ym9ja0xnU3FoX3VFUXFpbEw3dkt2OXRHQVdjME4wVFhYS2s5ajV4THFGUlR0bEgyQ29QeUhVTWVLWGt6UDZVbVFJRDUzd2M1TFhsb1lDNFVROEFlb3UxSmJXZzZ0TUtNNzRPV2NBemZPYXlWX3ZwTXVnRlFZUjBEOEQzM0NwWDFhMW9mXy1EbHdNZm9kdDc4NDdzSnFpcUs3b1dRY1ZQUGdfOFVINGlPT05qcDZ5U2NTNkZQTDhfaTVPZjUzN0poY2tlUTZYTF9iU05tMnkzZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-07 17:17:57"
       }
     ],
     "facebook": [
@@ -2226,6 +2189,13 @@
     "hour": [],
     "day": [
       {
+        "title": "從土地出發《RE-雲林》開展 虎尾建國眷村近百攤市集展永續 | 中華日報 - today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kRlNKbnFLakEzclUtdVhsN3QxemlmMUlaX3pvLTNDWmRCVVpzOWpTWFJzajZSTlhhLVc1NFlqRmgtY0wwQTd4cFVfQmFFdkZzX3RnU0lR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-08 17:02:15",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "劉建國邀交通部長陳世凱南下雲林 推動交通大躍進 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOMmJWSnZrR3RfN2FSSERjdnA3djktVVlxdk1rcGZxMURUZG1oSzFDYllCS3RCd0ZvRHRPYjNvRHMtbVpjN0lkMHdmVnV3d01yRDAtRHAtV0pSX213X3QzOFoyUlZuZGtvVzNKVGNhRFZ2REplYVEtVkFxSVhwd2hZdHk1MGJ2TnlqX3l0WElxc3V1YlZNMmxlYS1vTDZMZ2hWeDQ3Sl9mREdEU1FUaDhFdEdGaEpHSlVXVmFlVmFiQUpUUG13a2l4eER1OTZRRVZxVmRzUUVlNmItUnVDTWFSRXF3TWpYQzRUMEp6bG9vNU5nNEhCVnMtbGVzOGprTjBTdHVNWTlTV0loZ3BMQVNKM0ZlVjJCT3ZodWt3SHl3RXo2S3VKT3Q1enF5SDI0bG5oN3piU0VHYWJNUXh3M3hjVXlUM05vT3lUbGhkUW5JOTNiX21qdWZua3FKLUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-08 16:54:17",
@@ -2357,13 +2327,6 @@
         "time": "2026-04-07 22:22:39",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "張嘉郡雙軸布局運動新治理 提議興建大西螺運動中心 - n.yam.com",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jUDdkVGdRYkdjelF2LXl4ZE8zZEZHeXFVajR4Z2FNNjZVcko5bkg4c0ZMM1hpdTMwa0pyUzJoTjg3NDBhUnlIWDY5eHpLcVR4aUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-07 22:22:00",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2375,13 +2338,13 @@
       },
       {
         "name": "虎尾",
-        "count": 1
+        "count": 2
       }
     ],
     "groups": [
       {
         "name": "農業族群",
-        "count": 15
+        "count": 13
       },
       {
         "name": "交通通勤",
