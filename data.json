@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-04-09T07:33:18.140763+00:00",
+  "generated_at": "2026-04-09T07:48:20.669121+00:00",
   "metrics": {
-    "total_24h": 19,
+    "total_24h": 22,
     "prev_24h": 60,
-    "growth_pct": -68.33,
-    "news_24h": 15,
+    "growth_pct": -63.33,
+    "news_24h": 18,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 127,
+    "total": 130,
     "prev": 138,
-    "growth_pct": -7.97,
-    "news": 89,
+    "growth_pct": -5.8,
+    "news": 92,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 15
+      "count": 18
     },
     {
       "platform": "facebook",
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 89
+      "count": 92
     },
     {
       "platform": "facebook",
@@ -84,11 +84,11 @@
     },
     {
       "hour": "2026-04-09 12:00",
-      "count": 3
+      "count": 4
     },
     {
       "hour": "2026-04-09 15:00",
-      "count": 1
+      "count": 3
     }
   ],
   "by_hour_7d": [
@@ -290,17 +290,17 @@
     },
     {
       "hour": "2026-04-09 12:00",
-      "count": 3
+      "count": 4
     },
     {
       "hour": "2026-04-09 15:00",
-      "count": 1
+      "count": 3
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 14
+      "count": 17
     },
     {
       "platform": "facebook",
@@ -310,9 +310,24 @@
   "mention_latest_by_platform_24h": {
     "news": [
       {
+        "title": "劉建國邀內政部董建宏次長南下雲林 提升城鄉新風貌與排水韌性 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxOZ3dMbngtM3BSX2lBNzZMd0k5N0l0YlRLRVh2RkNQb181cS1GOXBNVDFQZVJObGhFbzUtOVBJYUhocWFtMWs1WWZJbjZYcUE4NHpwRFVYSkRDc2pqbnlsZF9FQ2RmaDZnQUtqeWx0SlNIZTlYOUs1c0lsRk5Ya2c5NURwSmhxLXNlRl9Bai16ZE0wTG5FbHkxR0hTVmVpdC1QcW1yQklHTUg1YTFMYVA2TmI5aElpQXdtZl9mU2EtYjRwaDZYdDdEdTJqRmgwWjc2SE5BbkQyMGNkbWV4ejg3ZmRpMXVocjczbXVRb3BlTC1zN1JlenZfcmt2QTZGYk44amFNZmdGaXN6RTZsM3ZqTXg4Q3dOQlBHMVl5MkhHV2xWRUlKTjVsb196Wm5FTGNSVTRKY200ZjlDWjFJUm1yaUVSbnVmSEliTjRuWmRUMGJFSjczVDNERjk1WjVPVTJaTmhfODBHZFM5eVVnMEN4bXhISnhFbkxvd2p6RXNFWUdPaXU2TXd0VmM4U29nOGNRTjZhX0NucGM1cF82N1N0dy0zbEc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 15:26:05"
+      },
+      {
+        "title": "劉建國邀內政部董建宏次長南下雲林 提升城鄉新風貌與排水韌性 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TVFBJczVjcW90RWpXVFU5VjQ2eEw2cFIwNDhQeThYU1BhUDgyOEF2UVEwOFd2UVg3ZVFLaTlqcU0xQkQ3T1RDQ19SYjZuZ1IyLUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 15:26:00"
+      },
+      {
         "title": "大蒜災損嚴重 立委劉建國邀農業部現勘 次長胡忠一允諾：天然災害救助火速核定 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNYVhveWJFTjJSVWJkWk1kd010LUpVM09ja2tpUnBrVlZFUXQyQUtmUTE0N296LW10aVE4aDNNRnVRVHkwQW9jeW9tS1A2M1Zjb1dDZ3QtREN3NUpMVkVTLXMyeTJUVV9Dbkx1TmNLSlhWTHctQ3lSTWtWRWtTdDFzYi05bnVJNUtKa2VUM29FdS1hY3NMRkY4cFFfY0hLQ0VnX3dVMG1KY2I1bjUtVXlPaGEtRldBV0JOcGVwWk9OVmhoa094N1lyTEN4UEVDQU1tRzlmMXQ5el9OR245bVRJM1VGZ3k4cW1kNWJxMkkwd25IUDl5WFRtNXFaaXpwSTBZTmJzd0xOVjk3S3N4T2E0bmFtYzlGaTJRRzVJZnhwY0pRRTJCS2RLZVJiNmtMdC0wNTJtdFRsdU9zWjhpUnBJWmRIMGtjcVBHU0l6c3BFWlo2NHJtZXBZc1ZEWFZHMUJjUDdqRVhRa0JCYzFZLTVMMGZtNGhPTDRVMnFLRjg3RF9qNXVfRVAtZE03a25kSmFrS05QeXdsUWg5eGlQdFpSN1F1MWNLdVlCRFQ0TmtZRkR1U2R5Ui1VZTlzY1NOODc0Qm5oeWYya3FfMmN1VXpHVGhzbGVSMFRGNk9NcFAxYjkyLUtB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-09 15:07:30"
+      },
+      {
+        "title": "麥寮電廠燃煤機組擬重啟 蘇清泉劉建國同聲質疑恐危害健康 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOVDlrY09lMnJnMTdzVWZiVHBPYVpVYTFvT1huVFc3UUQybGdrLXpfZGVZVV95SkJQSjhGMTdEX2lmRVlCbk5DajZoR21JdlZmRy1SSEQ5NU05ODM5aG1qSjRLR0lwTW15cGEyMUVNdVVraUZrM0hodmhCRk5iSTJYTTQ4YzdkeGtVcE44Q0E0UXR2eWJQa3RMRVQ3TVlSTjRCTTlRM1JOMno2RVVlYXB0OFZxT1JaZ2MteEJVamdDQnByZ1lra294VmdPNUlBcUI4SW1McEpwVE5WUl9BWE1KS1RJVXRPM1Z1dWRpTDlQai1ENTZLRWcyVjQxMktiRXhGaVk1VnVaM0dYaFVQZE5iQTlodUZNY1pnb3dJRVRUYkRQYWxqX1JDTjc0cjdTQ0xHQXBBdVpvbENDT29tc0VldjhZWVNVNGphSEpDLVc2TGlsM0hwaklDUHItWlNQSUlvb3ZMRElicE9OWWg4N1V2TGhpWTBVWkZSLVhJb09fYWcwN3BvVEE4V2ExZkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 12:43:00"
       },
       {
         "title": "麥寮電廠燃煤機組擬重啟 蘇清泉劉建國同聲質疑恐危害健康 - 匯流新聞網",
@@ -396,7 +411,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 14
+      "count": 17
     },
     {
       "platform": "facebook",
@@ -406,9 +421,24 @@
   "alias_latest_by_platform_24h": {
     "news": [
       {
+        "title": "劉建國邀內政部董建宏次長南下雲林 提升城鄉新風貌與排水韌性 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxOZ3dMbngtM3BSX2lBNzZMd0k5N0l0YlRLRVh2RkNQb181cS1GOXBNVDFQZVJObGhFbzUtOVBJYUhocWFtMWs1WWZJbjZYcUE4NHpwRFVYSkRDc2pqbnlsZF9FQ2RmaDZnQUtqeWx0SlNIZTlYOUs1c0lsRk5Ya2c5NURwSmhxLXNlRl9Bai16ZE0wTG5FbHkxR0hTVmVpdC1QcW1yQklHTUg1YTFMYVA2TmI5aElpQXdtZl9mU2EtYjRwaDZYdDdEdTJqRmgwWjc2SE5BbkQyMGNkbWV4ejg3ZmRpMXVocjczbXVRb3BlTC1zN1JlenZfcmt2QTZGYk44amFNZmdGaXN6RTZsM3ZqTXg4Q3dOQlBHMVl5MkhHV2xWRUlKTjVsb196Wm5FTGNSVTRKY200ZjlDWjFJUm1yaUVSbnVmSEliTjRuWmRUMGJFSjczVDNERjk1WjVPVTJaTmhfODBHZFM5eVVnMEN4bXhISnhFbkxvd2p6RXNFWUdPaXU2TXd0VmM4U29nOGNRTjZhX0NucGM1cF82N1N0dy0zbEc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 15:26:05"
+      },
+      {
+        "title": "劉建國邀內政部董建宏次長南下雲林 提升城鄉新風貌與排水韌性 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TVFBJczVjcW90RWpXVFU5VjQ2eEw2cFIwNDhQeThYU1BhUDgyOEF2UVEwOFd2UVg3ZVFLaTlqcU0xQkQ3T1RDQ19SYjZuZ1IyLUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 15:26:00"
+      },
+      {
         "title": "大蒜災損嚴重 立委劉建國邀農業部現勘 次長胡忠一允諾：天然災害救助火速核定 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNYVhveWJFTjJSVWJkWk1kd010LUpVM09ja2tpUnBrVlZFUXQyQUtmUTE0N296LW10aVE4aDNNRnVRVHkwQW9jeW9tS1A2M1Zjb1dDZ3QtREN3NUpMVkVTLXMyeTJUVV9Dbkx1TmNLSlhWTHctQ3lSTWtWRWtTdDFzYi05bnVJNUtKa2VUM29FdS1hY3NMRkY4cFFfY0hLQ0VnX3dVMG1KY2I1bjUtVXlPaGEtRldBV0JOcGVwWk9OVmhoa094N1lyTEN4UEVDQU1tRzlmMXQ5el9OR245bVRJM1VGZ3k4cW1kNWJxMkkwd25IUDl5WFRtNXFaaXpwSTBZTmJzd0xOVjk3S3N4T2E0bmFtYzlGaTJRRzVJZnhwY0pRRTJCS2RLZVJiNmtMdC0wNTJtdFRsdU9zWjhpUnBJWmRIMGtjcVBHU0l6c3BFWlo2NHJtZXBZc1ZEWFZHMUJjUDdqRVhRa0JCYzFZLTVMMGZtNGhPTDRVMnFLRjg3RF9qNXVfRVAtZE03a25kSmFrS05QeXdsUWg5eGlQdFpSN1F1MWNLdVlCRFQ0TmtZRkR1U2R5Ui1VZTlzY1NOODc0Qm5oeWYya3FfMmN1VXpHVGhzbGVSMFRGNk9NcFAxYjkyLUtB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-09 15:07:30"
+      },
+      {
+        "title": "麥寮電廠燃煤機組擬重啟 蘇清泉劉建國同聲質疑恐危害健康 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOVDlrY09lMnJnMTdzVWZiVHBPYVpVYTFvT1huVFc3UUQybGdrLXpfZGVZVV95SkJQSjhGMTdEX2lmRVlCbk5DajZoR21JdlZmRy1SSEQ5NU05ODM5aG1qSjRLR0lwTW15cGEyMUVNdVVraUZrM0hodmhCRk5iSTJYTTQ4YzdkeGtVcE44Q0E0UXR2eWJQa3RMRVQ3TVlSTjRCTTlRM1JOMno2RVVlYXB0OFZxT1JaZ2MteEJVamdDQnByZ1lra294VmdPNUlBcUI4SW1McEpwVE5WUl9BWE1KS1RJVXRPM1Z1dWRpTDlQai1ENTZLRWcyVjQxMktiRXhGaVk1VnVaM0dYaFVQZE5iQTlodUZNY1pnb3dJRVRUYkRQYWxqX1JDTjc0cjdTQ0xHQXBBdVpvbENDT29tc0VldjhZWVNVNGphSEpDLVc2TGlsM0hwaklDUHItWlNQSUlvb3ZMRElicE9OWWg4N1V2TGhpWTBVWkZSLVhJb09fYWcwN3BvVEE4V2ExZkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 12:43:00"
       },
       {
         "title": "麥寮電廠燃煤機組擬重啟 蘇清泉劉建國同聲質疑恐危害健康 - 匯流新聞網",
@@ -491,17 +521,32 @@
   },
   "mention_compare_24h": {
     "張嘉郡": 3,
-    "劉建國": 13
+    "劉建國": 16
   },
   "mention_compare_7d": {
     "張嘉郡": 66,
-    "劉建國": 48
+    "劉建國": 51
   },
   "top_news": [
+    {
+      "title": "劉建國邀內政部董建宏次長南下雲林 提升城鄉新風貌與排水韌性 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxOZ3dMbngtM3BSX2lBNzZMd0k5N0l0YlRLRVh2RkNQb181cS1GOXBNVDFQZVJObGhFbzUtOVBJYUhocWFtMWs1WWZJbjZYcUE4NHpwRFVYSkRDc2pqbnlsZF9FQ2RmaDZnQUtqeWx0SlNIZTlYOUs1c0lsRk5Ya2c5NURwSmhxLXNlRl9Bai16ZE0wTG5FbHkxR0hTVmVpdC1QcW1yQklHTUg1YTFMYVA2TmI5aElpQXdtZl9mU2EtYjRwaDZYdDdEdTJqRmgwWjc2SE5BbkQyMGNkbWV4ejg3ZmRpMXVocjczbXVRb3BlTC1zN1JlenZfcmt2QTZGYk44amFNZmdGaXN6RTZsM3ZqTXg4Q3dOQlBHMVl5MkhHV2xWRUlKTjVsb196Wm5FTGNSVTRKY200ZjlDWjFJUm1yaUVSbnVmSEliTjRuWmRUMGJFSjczVDNERjk1WjVPVTJaTmhfODBHZFM5eVVnMEN4bXhISnhFbkxvd2p6RXNFWUdPaXU2TXd0VmM4U29nOGNRTjZhX0NucGM1cF82N1N0dy0zbEc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-09 15:26:05"
+    },
+    {
+      "title": "劉建國邀內政部董建宏次長南下雲林 提升城鄉新風貌與排水韌性 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TVFBJczVjcW90RWpXVFU5VjQ2eEw2cFIwNDhQeThYU1BhUDgyOEF2UVEwOFd2UVg3ZVFLaTlqcU0xQkQ3T1RDQ19SYjZuZ1IyLUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-09 15:26:00"
+    },
     {
       "title": "大蒜災損嚴重 立委劉建國邀農業部現勘 次長胡忠一允諾：天然災害救助火速核定 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNYVhveWJFTjJSVWJkWk1kd010LUpVM09ja2tpUnBrVlZFUXQyQUtmUTE0N296LW10aVE4aDNNRnVRVHkwQW9jeW9tS1A2M1Zjb1dDZ3QtREN3NUpMVkVTLXMyeTJUVV9Dbkx1TmNLSlhWTHctQ3lSTWtWRWtTdDFzYi05bnVJNUtKa2VUM29FdS1hY3NMRkY4cFFfY0hLQ0VnX3dVMG1KY2I1bjUtVXlPaGEtRldBV0JOcGVwWk9OVmhoa094N1lyTEN4UEVDQU1tRzlmMXQ5el9OR245bVRJM1VGZ3k4cW1kNWJxMkkwd25IUDl5WFRtNXFaaXpwSTBZTmJzd0xOVjk3S3N4T2E0bmFtYzlGaTJRRzVJZnhwY0pRRTJCS2RLZVJiNmtMdC0wNTJtdFRsdU9zWjhpUnBJWmRIMGtjcVBHU0l6c3BFWlo2NHJtZXBZc1ZEWFZHMUJjUDdqRVhRa0JCYzFZLTVMMGZtNGhPTDRVMnFLRjg3RF9qNXVfRVAtZE03a25kSmFrS05QeXdsUWg5eGlQdFpSN1F1MWNLdVlCRFQ0TmtZRkR1U2R5Ui1VZTlzY1NOODc0Qm5oeWYya3FfMmN1VXpHVGhzbGVSMFRGNk9NcFAxYjkyLUtB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-09 15:07:30"
+    },
+    {
+      "title": "麥寮電廠燃煤機組擬重啟 蘇清泉劉建國同聲質疑恐危害健康 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOVDlrY09lMnJnMTdzVWZiVHBPYVpVYTFvT1huVFc3UUQybGdrLXpfZGVZVV95SkJQSjhGMTdEX2lmRVlCbk5DajZoR21JdlZmRy1SSEQ5NU05ODM5aG1qSjRLR0lwTW15cGEyMUVNdVVraUZrM0hodmhCRk5iSTJYTTQ4YzdkeGtVcE44Q0E0UXR2eWJQa3RMRVQ3TVlSTjRCTTlRM1JOMno2RVVlYXB0OFZxT1JaZ2MteEJVamdDQnByZ1lra294VmdPNUlBcUI4SW1McEpwVE5WUl9BWE1KS1RJVXRPM1Z1dWRpTDlQai1ENTZLRWcyVjQxMktiRXhGaVk1VnVaM0dYaFVQZE5iQTlodUZNY1pnb3dJRVRUYkRQYWxqX1JDTjc0cjdTQ0xHQXBBdVpvbENDT29tc0VldjhZWVNVNGphSEpDLVc2TGlsM0hwaklDUHItWlNQSUlvb3ZMRElicE9OWWg4N1V2TGhpWTBVWkZSLVhJb09fYWcwN3BvVEE4V2ExZkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-09 12:43:00"
     },
     {
       "title": "麥寮電廠燃煤機組擬重啟 蘇清泉劉建國同聲質疑恐危害健康 - 匯流新聞網",
@@ -542,28 +587,28 @@
       "title": "豪雨重創蒜頭災損 張嘉郡、丁學忠爭取天然災害補助 - 臺灣導報",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhM2RfMDZDbjhwSjY2SHhRQXgzNDlhUjNsYmVuY0JRNFdjbE1CYWN3WlBZU2tGdmR2aDIyLU5FZGpxaVZLU2FBOFFpYkt3YUxIaXZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-08 19:33:14"
-    },
-    {
-      "title": "劉建國邀交通部長視察 攜手推動雲林交通發展大躍進 - 台灣民眾電子報",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LM0NDSGRqSmRPQnRBZWpRX0hGVnJFT1JuckhoMXE5M2twdFptUER0N3UtWVpDbVRtWGg4cWEyY044NnRsNFhDQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-08 17:48:10"
-    },
-    {
-      "title": "從土地出發《RE-雲林》開展 虎尾建國眷村近百攤市集展永續 | 中華日報 - today.line.me",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kRlNKbnFLakEzclUtdVhsN3QxemlmMUlaX3pvLTNDWmRCVVpzOWpTWFJzajZSTlhhLVc1NFlqRmgtY0wwQTd4cFVfQmFFdkZzX3RnU0lR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-08 17:02:15"
-    },
-    {
-      "title": "劉建國邀交通部長陳世凱南下雲林 推動交通大躍進 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOMmJWSnZrR3RfN2FSSERjdnA3djktVVlxdk1rcGZxMURUZG1oSzFDYllCS3RCd0ZvRHRPYjNvRHMtbVpjN0lkMHdmVnV3d01yRDAtRHAtV0pSX213X3QzOFoyUlZuZGtvVzNKVGNhRFZ2REplYVEtVkFxSVhwd2hZdHk1MGJ2TnlqX3l0WElxc3V1YlZNMmxlYS1vTDZMZ2hWeDQ3Sl9mREdEU1FUaDhFdEdGaEpHSlVXVmFlVmFiQUpUUG13a2l4eER1OTZRRVZxVmRzUUVlNmItUnVDTWFSRXF3TWpYQzRUMEp6bG9vNU5nNEhCVnMtbGVzOGprTjBTdHVNWTlTV0loZ3BMQVNKM0ZlVjJCT3ZodWt3SHl3RXo2S3VKT3Q1enF5SDI0bG5oN3piU0VHYWJNUXh3M3hjVXlUM05vT3lUbGhkUW5JOTNiX21qdWZua3FKLUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-08 16:54:17"
     }
   ],
   "top_news_7d": [
     {
+      "title": "劉建國邀內政部董建宏次長南下雲林 提升城鄉新風貌與排水韌性 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxOZ3dMbngtM3BSX2lBNzZMd0k5N0l0YlRLRVh2RkNQb181cS1GOXBNVDFQZVJObGhFbzUtOVBJYUhocWFtMWs1WWZJbjZYcUE4NHpwRFVYSkRDc2pqbnlsZF9FQ2RmaDZnQUtqeWx0SlNIZTlYOUs1c0lsRk5Ya2c5NURwSmhxLXNlRl9Bai16ZE0wTG5FbHkxR0hTVmVpdC1QcW1yQklHTUg1YTFMYVA2TmI5aElpQXdtZl9mU2EtYjRwaDZYdDdEdTJqRmgwWjc2SE5BbkQyMGNkbWV4ejg3ZmRpMXVocjczbXVRb3BlTC1zN1JlenZfcmt2QTZGYk44amFNZmdGaXN6RTZsM3ZqTXg4Q3dOQlBHMVl5MkhHV2xWRUlKTjVsb196Wm5FTGNSVTRKY200ZjlDWjFJUm1yaUVSbnVmSEliTjRuWmRUMGJFSjczVDNERjk1WjVPVTJaTmhfODBHZFM5eVVnMEN4bXhISnhFbkxvd2p6RXNFWUdPaXU2TXd0VmM4U29nOGNRTjZhX0NucGM1cF82N1N0dy0zbEc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-09 15:26:05"
+    },
+    {
+      "title": "劉建國邀內政部董建宏次長南下雲林 提升城鄉新風貌與排水韌性 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TVFBJczVjcW90RWpXVFU5VjQ2eEw2cFIwNDhQeThYU1BhUDgyOEF2UVEwOFd2UVg3ZVFLaTlqcU0xQkQ3T1RDQ19SYjZuZ1IyLUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-09 15:26:00"
+    },
+    {
       "title": "大蒜災損嚴重 立委劉建國邀農業部現勘 次長胡忠一允諾：天然災害救助火速核定 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNYVhveWJFTjJSVWJkWk1kd010LUpVM09ja2tpUnBrVlZFUXQyQUtmUTE0N296LW10aVE4aDNNRnVRVHkwQW9jeW9tS1A2M1Zjb1dDZ3QtREN3NUpMVkVTLXMyeTJUVV9Dbkx1TmNLSlhWTHctQ3lSTWtWRWtTdDFzYi05bnVJNUtKa2VUM29FdS1hY3NMRkY4cFFfY0hLQ0VnX3dVMG1KY2I1bjUtVXlPaGEtRldBV0JOcGVwWk9OVmhoa094N1lyTEN4UEVDQU1tRzlmMXQ5el9OR245bVRJM1VGZ3k4cW1kNWJxMkkwd25IUDl5WFRtNXFaaXpwSTBZTmJzd0xOVjk3S3N4T2E0bmFtYzlGaTJRRzVJZnhwY0pRRTJCS2RLZVJiNmtMdC0wNTJtdFRsdU9zWjhpUnBJWmRIMGtjcVBHU0l6c3BFWlo2NHJtZXBZc1ZEWFZHMUJjUDdqRVhRa0JCYzFZLTVMMGZtNGhPTDRVMnFLRjg3RF9qNXVfRVAtZE03a25kSmFrS05QeXdsUWg5eGlQdFpSN1F1MWNLdVlCRFQ0TmtZRkR1U2R5Ui1VZTlzY1NOODc0Qm5oeWYya3FfMmN1VXpHVGhzbGVSMFRGNk9NcFAxYjkyLUtB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-09 15:07:30"
+    },
+    {
+      "title": "麥寮電廠燃煤機組擬重啟 蘇清泉劉建國同聲質疑恐危害健康 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOVDlrY09lMnJnMTdzVWZiVHBPYVpVYTFvT1huVFc3UUQybGdrLXpfZGVZVV95SkJQSjhGMTdEX2lmRVlCbk5DajZoR21JdlZmRy1SSEQ5NU05ODM5aG1qSjRLR0lwTW15cGEyMUVNdVVraUZrM0hodmhCRk5iSTJYTTQ4YzdkeGtVcE44Q0E0UXR2eWJQa3RMRVQ3TVlSTjRCTTlRM1JOMno2RVVlYXB0OFZxT1JaZ2MteEJVamdDQnByZ1lra294VmdPNUlBcUI4SW1McEpwVE5WUl9BWE1KS1RJVXRPM1Z1dWRpTDlQai1ENTZLRWcyVjQxMktiRXhGaVk1VnVaM0dYaFVQZE5iQTlodUZNY1pnb3dJRVRUYkRQYWxqX1JDTjc0cjdTQ0xHQXBBdVpvbENDT29tc0VldjhZWVNVNGphSEpDLVc2TGlsM0hwaklDUHItWlNQSUlvb3ZMRElicE9OWWg4N1V2TGhpWTBVWkZSLVhJb09fYWcwN3BvVEE4V2ExZkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-09 12:43:00"
     },
     {
       "title": "麥寮電廠燃煤機組擬重啟 蘇清泉劉建國同聲質疑恐危害健康 - 匯流新聞網",
@@ -644,21 +689,6 @@
       "title": "蒜農血本無歸！張嘉郡、丁學忠成功爭取 農業部核定每公頃補助9.5萬 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNTGIwNzJlUjEwTHBpZmdjcExySmxmMFF0UElxM3hUVFJVNDFEZ01GWTVQVndKWTVfeURvT3BEckV3cURhcjZoNXpMbmhiSE9EMXRKZmVLbWUyU1NhWDZZQVBJYWNFOXBBQUlsVnEtd2NiZEtDQ3dGVXN0M2dtZlhUNEVaa2ZkbV9KcFkwS2ZRUmhsbmJEb2REZmNuR0FGZ2d1eDNtWXY2UndUTWtNdHozdEJPTnAwcnBESUI3YkNVc2FSZExxblVSQkpMREU2T2h4NTNLdjhIRTVHWkVscFJxUWhQeFhMc29sZ3NGNkMzNGRUblUtRWdTaDRjYkd4ZXlGa2x6YS14VEZXdmlYYTFMdHVqWDV5cG5WdVg0dkFGV2RQaWJ0SUVQbmN6X2hmeTlBcjZrcHJhV295VlNHYlZYMDNXblc0RmJtZmtwV0lBMWh1UGs5NGpoSDVvZkU0NlJTbzJ5RGlVd3JfbGxUVFkyYVpIRTNVTjNSZWY2Zm9sT2ZEQy01SHpseXQ1eE1yV0tmNlZQb0VyUTh0V1MwWGQ0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-08 13:58:47"
-    },
-    {
-      "title": "蒜農血本無歸！張嘉郡、丁學忠成功爭取 農業部核定每公頃補助9.5萬 - PChome Online新聞",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWlhaX0RlNTltSkc1T2VHSHBEUjJwR2VtWXhDWUZtZDYzZ3pfbEVTWkgyUy10SFRsbTkyUW52UGlCQXAzTUM0OFlTYkNvR0ttWDFQQnhEbFQ1YmpRYllsOEJRWDZoVEtIZlhUNHFlRWhLdTVHWFBUcHh0bjFYMTM4VFFQV0JYQWxpOUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-08 13:56:06"
-    },
-    {
-      "title": "蒜農血本無歸！張嘉郡、丁學忠成功爭取 農業部核定每公頃補助9.5 萬 - 匯流新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ySWlLdmRVLWV0UVVnOGtBVFM2NzFtR0JvQTNtbUNvUm9JY1NfZzQ2NEpmUFpYNjVxaWxnVG1SVVRyRWRmZUtnUGh3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-08 13:56:06"
-    },
-    {
-      "title": "近日豪雨蒜頭釀災立委張嘉郡及丁學忠爭取農業部核定天然災害補助 - 臺灣時報",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM2s0OUtVNXNCTnFNQVNYNjV3OVJaYXRmMUVUVUE3WXVMeExXYVVIeEczdGRhWlo5ZkJXc3VLSGx3UlRHNGZFbnE3Q2llTkRoQTNZQ0J6dE4tZVE1b0Y0a0ZvRDhWTmtKc1Y1LWo3WEVxZ3phVmtSV00wd2hnTy1sMGc0N1BIU180Vi00YVVYT0ZhSFBHR3hFQ2paSlNvWkd2VzdRcnVKNzZORkd1RnRoZU1qWVk1N2lsMWJuWlkzNXdXQ2JXVFFYVUp3SXQzTEN5cEMyaUdwcHRDbkhOaVpuZQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-08 13:54:00"
     }
   ],
   "latest_facebook_20": [
@@ -765,9 +795,24 @@
   ],
   "latest_news_20": [
     {
+      "title": "劉建國邀內政部董建宏次長南下雲林 提升城鄉新風貌與排水韌性 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxOZ3dMbngtM3BSX2lBNzZMd0k5N0l0YlRLRVh2RkNQb181cS1GOXBNVDFQZVJObGhFbzUtOVBJYUhocWFtMWs1WWZJbjZYcUE4NHpwRFVYSkRDc2pqbnlsZF9FQ2RmaDZnQUtqeWx0SlNIZTlYOUs1c0lsRk5Ya2c5NURwSmhxLXNlRl9Bai16ZE0wTG5FbHkxR0hTVmVpdC1QcW1yQklHTUg1YTFMYVA2TmI5aElpQXdtZl9mU2EtYjRwaDZYdDdEdTJqRmgwWjc2SE5BbkQyMGNkbWV4ejg3ZmRpMXVocjczbXVRb3BlTC1zN1JlenZfcmt2QTZGYk44amFNZmdGaXN6RTZsM3ZqTXg4Q3dOQlBHMVl5MkhHV2xWRUlKTjVsb196Wm5FTGNSVTRKY200ZjlDWjFJUm1yaUVSbnVmSEliTjRuWmRUMGJFSjczVDNERjk1WjVPVTJaTmhfODBHZFM5eVVnMEN4bXhISnhFbkxvd2p6RXNFWUdPaXU2TXd0VmM4U29nOGNRTjZhX0NucGM1cF82N1N0dy0zbEc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-09 15:26:05"
+    },
+    {
+      "title": "劉建國邀內政部董建宏次長南下雲林 提升城鄉新風貌與排水韌性 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TVFBJczVjcW90RWpXVFU5VjQ2eEw2cFIwNDhQeThYU1BhUDgyOEF2UVEwOFd2UVg3ZVFLaTlqcU0xQkQ3T1RDQ19SYjZuZ1IyLUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-09 15:26:00"
+    },
+    {
       "title": "大蒜災損嚴重 立委劉建國邀農業部現勘 次長胡忠一允諾：天然災害救助火速核定 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNYVhveWJFTjJSVWJkWk1kd010LUpVM09ja2tpUnBrVlZFUXQyQUtmUTE0N296LW10aVE4aDNNRnVRVHkwQW9jeW9tS1A2M1Zjb1dDZ3QtREN3NUpMVkVTLXMyeTJUVV9Dbkx1TmNLSlhWTHctQ3lSTWtWRWtTdDFzYi05bnVJNUtKa2VUM29FdS1hY3NMRkY4cFFfY0hLQ0VnX3dVMG1KY2I1bjUtVXlPaGEtRldBV0JOcGVwWk9OVmhoa094N1lyTEN4UEVDQU1tRzlmMXQ5el9OR245bVRJM1VGZ3k4cW1kNWJxMkkwd25IUDl5WFRtNXFaaXpwSTBZTmJzd0xOVjk3S3N4T2E0bmFtYzlGaTJRRzVJZnhwY0pRRTJCS2RLZVJiNmtMdC0wNTJtdFRsdU9zWjhpUnBJWmRIMGtjcVBHU0l6c3BFWlo2NHJtZXBZc1ZEWFZHMUJjUDdqRVhRa0JCYzFZLTVMMGZtNGhPTDRVMnFLRjg3RF9qNXVfRVAtZE03a25kSmFrS05QeXdsUWg5eGlQdFpSN1F1MWNLdVlCRFQ0TmtZRkR1U2R5Ui1VZTlzY1NOODc0Qm5oeWYya3FfMmN1VXpHVGhzbGVSMFRGNk9NcFAxYjkyLUtB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-09 15:07:30"
+    },
+    {
+      "title": "麥寮電廠燃煤機組擬重啟 蘇清泉劉建國同聲質疑恐危害健康 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOVDlrY09lMnJnMTdzVWZiVHBPYVpVYTFvT1huVFc3UUQybGdrLXpfZGVZVV95SkJQSjhGMTdEX2lmRVlCbk5DajZoR21JdlZmRy1SSEQ5NU05ODM5aG1qSjRLR0lwTW15cGEyMUVNdVVraUZrM0hodmhCRk5iSTJYTTQ4YzdkeGtVcE44Q0E0UXR2eWJQa3RMRVQ3TVlSTjRCTTlRM1JOMno2RVVlYXB0OFZxT1JaZ2MteEJVamdDQnByZ1lra294VmdPNUlBcUI4SW1McEpwVE5WUl9BWE1KS1RJVXRPM1Z1dWRpTDlQai1ENTZLRWcyVjQxMktiRXhGaVk1VnVaM0dYaFVQZE5iQTlodUZNY1pnb3dJRVRUYkRQYWxqX1JDTjc0cjdTQ0xHQXBBdVpvbENDT29tc0VldjhZWVNVNGphSEpDLVc2TGlsM0hwaklDUHItWlNQSUlvb3ZMRElicE9OWWg4N1V2TGhpWTBVWkZSLVhJb09fYWcwN3BvVEE4V2ExZkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-09 12:43:00"
     },
     {
       "title": "麥寮電廠燃煤機組擬重啟 蘇清泉劉建國同聲質疑恐危害健康 - 匯流新聞網",
@@ -848,21 +893,6 @@
       "title": "蒜農血本無歸！張嘉郡、丁學忠成功爭取 農業部核定每公頃補助9.5萬 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNTGIwNzJlUjEwTHBpZmdjcExySmxmMFF0UElxM3hUVFJVNDFEZ01GWTVQVndKWTVfeURvT3BEckV3cURhcjZoNXpMbmhiSE9EMXRKZmVLbWUyU1NhWDZZQVBJYWNFOXBBQUlsVnEtd2NiZEtDQ3dGVXN0M2dtZlhUNEVaa2ZkbV9KcFkwS2ZRUmhsbmJEb2REZmNuR0FGZ2d1eDNtWXY2UndUTWtNdHozdEJPTnAwcnBESUI3YkNVc2FSZExxblVSQkpMREU2T2h4NTNLdjhIRTVHWkVscFJxUWhQeFhMc29sZ3NGNkMzNGRUblUtRWdTaDRjYkd4ZXlGa2x6YS14VEZXdmlYYTFMdHVqWDV5cG5WdVg0dkFGV2RQaWJ0SUVQbmN6X2hmeTlBcjZrcHJhV295VlNHYlZYMDNXblc0RmJtZmtwV0lBMWh1UGs5NGpoSDVvZkU0NlJTbzJ5RGlVd3JfbGxUVFkyYVpIRTNVTjNSZWY2Zm9sT2ZEQy01SHpseXQ1eE1yV0tmNlZQb0VyUTh0V1MwWGQ0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-08 13:58:47"
-    },
-    {
-      "title": "蒜農血本無歸！張嘉郡、丁學忠成功爭取 農業部核定每公頃補助9.5萬 - PChome Online新聞",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWlhaX0RlNTltSkc1T2VHSHBEUjJwR2VtWXhDWUZtZDYzZ3pfbEVTWkgyUy10SFRsbTkyUW52UGlCQXAzTUM0OFlTYkNvR0ttWDFQQnhEbFQ1YmpRYllsOEJRWDZoVEtIZlhUNHFlRWhLdTVHWFBUcHh0bjFYMTM4VFFQV0JYQWxpOUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-08 13:56:06"
-    },
-    {
-      "title": "蒜農血本無歸！張嘉郡、丁學忠成功爭取 農業部核定每公頃補助9.5 萬 - 匯流新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ySWlLdmRVLWV0UVVnOGtBVFM2NzFtR0JvQTNtbUNvUm9JY1NfZzQ2NEpmUFpYNjVxaWxnVG1SVVRyRWRmZUtnUGh3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-08 13:56:06"
-    },
-    {
-      "title": "近日豪雨蒜頭釀災立委張嘉郡及丁學忠爭取農業部核定天然災害補助 - 臺灣時報",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM2s0OUtVNXNCTnFNQVNYNjV3OVJaYXRmMUVUVUE3WXVMeExXYVVIeEczdGRhWlo5ZkJXc3VLSGx3UlRHNGZFbnE3Q2llTkRoQTNZQ0J6dE4tZVE1b0Y0a0ZvRDhWTmtKc1Y1LWo3WEVxZ3phVmtSV00wd2hnTy1sMGc0N1BIU180Vi00YVVYT0ZhSFBHR3hFQ2paSlNvWkd2VzdRcnVKNzZORkd1RnRoZU1qWVk1N2lsMWJuWlkzNXdXQ2JXVFFYVUp3SXQzTEN5cEMyaUdwcHRDbkhOaVpuZQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-08 13:54:00"
     }
   ],
   "person_sections": {
@@ -1142,9 +1172,24 @@
       ],
       "news": [
         {
+          "title": "劉建國邀內政部董建宏次長南下雲林 提升城鄉新風貌與排水韌性 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxOZ3dMbngtM3BSX2lBNzZMd0k5N0l0YlRLRVh2RkNQb181cS1GOXBNVDFQZVJObGhFbzUtOVBJYUhocWFtMWs1WWZJbjZYcUE4NHpwRFVYSkRDc2pqbnlsZF9FQ2RmaDZnQUtqeWx0SlNIZTlYOUs1c0lsRk5Ya2c5NURwSmhxLXNlRl9Bai16ZE0wTG5FbHkxR0hTVmVpdC1QcW1yQklHTUg1YTFMYVA2TmI5aElpQXdtZl9mU2EtYjRwaDZYdDdEdTJqRmgwWjc2SE5BbkQyMGNkbWV4ejg3ZmRpMXVocjczbXVRb3BlTC1zN1JlenZfcmt2QTZGYk44amFNZmdGaXN6RTZsM3ZqTXg4Q3dOQlBHMVl5MkhHV2xWRUlKTjVsb196Wm5FTGNSVTRKY200ZjlDWjFJUm1yaUVSbnVmSEliTjRuWmRUMGJFSjczVDNERjk1WjVPVTJaTmhfODBHZFM5eVVnMEN4bXhISnhFbkxvd2p6RXNFWUdPaXU2TXd0VmM4U29nOGNRTjZhX0NucGM1cF82N1N0dy0zbEc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-09 15:26:05"
+        },
+        {
+          "title": "劉建國邀內政部董建宏次長南下雲林 提升城鄉新風貌與排水韌性 - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TVFBJczVjcW90RWpXVFU5VjQ2eEw2cFIwNDhQeThYU1BhUDgyOEF2UVEwOFd2UVg3ZVFLaTlqcU0xQkQ3T1RDQ19SYjZuZ1IyLUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-09 15:26:00"
+        },
+        {
           "title": "大蒜災損嚴重 立委劉建國邀農業部現勘 次長胡忠一允諾：天然災害救助火速核定 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNYVhveWJFTjJSVWJkWk1kd010LUpVM09ja2tpUnBrVlZFUXQyQUtmUTE0N296LW10aVE4aDNNRnVRVHkwQW9jeW9tS1A2M1Zjb1dDZ3QtREN3NUpMVkVTLXMyeTJUVV9Dbkx1TmNLSlhWTHctQ3lSTWtWRWtTdDFzYi05bnVJNUtKa2VUM29FdS1hY3NMRkY4cFFfY0hLQ0VnX3dVMG1KY2I1bjUtVXlPaGEtRldBV0JOcGVwWk9OVmhoa094N1lyTEN4UEVDQU1tRzlmMXQ5el9OR245bVRJM1VGZ3k4cW1kNWJxMkkwd25IUDl5WFRtNXFaaXpwSTBZTmJzd0xOVjk3S3N4T2E0bmFtYzlGaTJRRzVJZnhwY0pRRTJCS2RLZVJiNmtMdC0wNTJtdFRsdU9zWjhpUnBJWmRIMGtjcVBHU0l6c3BFWlo2NHJtZXBZc1ZEWFZHMUJjUDdqRVhRa0JCYzFZLTVMMGZtNGhPTDRVMnFLRjg3RF9qNXVfRVAtZE03a25kSmFrS05QeXdsUWg5eGlQdFpSN1F1MWNLdVlCRFQ0TmtZRkR1U2R5Ui1VZTlzY1NOODc0Qm5oeWYya3FfMmN1VXpHVGhzbGVSMFRGNk9NcFAxYjkyLUtB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-09 15:07:30"
+        },
+        {
+          "title": "麥寮電廠燃煤機組擬重啟 蘇清泉劉建國同聲質疑恐危害健康 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOVDlrY09lMnJnMTdzVWZiVHBPYVpVYTFvT1huVFc3UUQybGdrLXpfZGVZVV95SkJQSjhGMTdEX2lmRVlCbk5DajZoR21JdlZmRy1SSEQ5NU05ODM5aG1qSjRLR0lwTW15cGEyMUVNdVVraUZrM0hodmhCRk5iSTJYTTQ4YzdkeGtVcE44Q0E0UXR2eWJQa3RMRVQ3TVlSTjRCTTlRM1JOMno2RVVlYXB0OFZxT1JaZ2MteEJVamdDQnByZ1lra294VmdPNUlBcUI4SW1McEpwVE5WUl9BWE1KS1RJVXRPM1Z1dWRpTDlQai1ENTZLRWcyVjQxMktiRXhGaVk1VnVaM0dYaFVQZE5iQTlodUZNY1pnb3dJRVRUYkRQYWxqX1JDTjc0cjdTQ0xHQXBBdVpvbENDT29tc0VldjhZWVNVNGphSEpDLVc2TGlsM0hwaklDUHItWlNQSUlvb3ZMRElicE9OWWg4N1V2TGhpWTBVWkZSLVhJb09fYWcwN3BvVEE4V2ExZkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-09 12:43:00"
         },
         {
           "title": "麥寮電廠燃煤機組擬重啟 蘇清泉劉建國同聲質疑恐危害健康 - 匯流新聞網",
@@ -1225,21 +1270,6 @@
           "title": "雲林蒜田積水腐爛 立委劉建國帶隊五鄉鎮勘災爭救助 - 元丰傳媒",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zODlMSXpqSU51ZU9Nd2hIYnNjTUI3NlJWUVdvMXQwY3pRLThLTmRGTG5jRDhxTjZ3NWoxaVNFbGVXZ2JZX0VqeDh1MGhvQ0Zib1I4dG9vLWRBMmx5X3ludkdOei1TWlROc0NtN0F3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-07 15:02:02"
-        },
-        {
-          "title": "連日豪雨重創雲林蒜田 劉建國五鄉鎮實地勘災爭取救助 - 蕃新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxUDY5b2RGSTNTbVE1Z2V6RTgzR01yZm96eEVkOE9VQUIySktTYTBGX09OQTNhRnNlN3dOc1I2ZE1XMVFWSzZ2cmJkX2dQaC11RVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-07 15:00:00"
-        },
-        {
-          "title": "連日豪雨重創雲林蒜田劉建國五鄉鎮實地勘災爭取救助- 政府消息新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZVNYQU92MC1CZVZDUnloM0x5d3UtdWVkUFVUSnlUZzBSRFduUHNaX1B6WVQ3ZlRzaEZLTGN0UU5GUzBrdEt0Si1hQjgyY2tvZ0F6SlRmRjM2YUJ6M0xpN0JQQ2JiQ0NRckxwaVI0UkJnYzRRTk1GY2ViZHU5V0syRXZNV2RfRE9Idnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-07 15:00:00"
-        },
-        {
-          "title": "連日大雨重創雲林蒜田 劉建國邀農政單位跑五鄉鎮爭取天然災害救助 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNR1d2aFNiSFo2aUlqakJOOWJGTkJkNExteVlibHhwMnJSZTBRbUpzREYyT1NyS0IwaF9JZzNYV0FsNFQxMmhtZlhsSzlKSmV6Wms0YnlqTldFMEp0Z0NKNlNCR3hPX0FlTzh2dktHTEJwbDBYcDZwT3NETlphYnNoRkQwaHBUT0tELUwtVnp2Y2tGZ3BwN2Fram5ldFFQUjFtNEN0dFBJdXNxUHFjcE5hTU1POVhxVkUzSW1TS2VPQmIwYWxLYk5tVXJROWtsZHpGWFZoR1RGbzFRX1d3ZkZHY09fN1dONUQ5Y09Qd2w3ellzZGRwNk12cDJOODJfcDdZU052cUhxUHhMLS10Q3VnNUktZ0ZRZV9feHZ2aWZaNWtKWkZEWDl0eS1hU0w1Tk4xbElhV0ZtTTN0bG9qeFFlRlVkRDlkWmlKS1BQOVpwVmRsb2Z4TDB2Qy10SHNBLUlSTHVQSFhJcUhnZFlldXhCWGpxVlgxU0Via0hPMHMyVFpVS0laX08xR0R5a2Nyc2E1UkdOeUlQTVhLUWtYd1M0NzhVTUpVbFFqS1hMRGItamxlZVV5SVdablhUREc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-07 14:58:20"
         }
       ]
     }
@@ -1247,9 +1277,24 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "劉建國邀內政部董建宏次長南下雲林 提升城鄉新風貌與排水韌性 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxOZ3dMbngtM3BSX2lBNzZMd0k5N0l0YlRLRVh2RkNQb181cS1GOXBNVDFQZVJObGhFbzUtOVBJYUhocWFtMWs1WWZJbjZYcUE4NHpwRFVYSkRDc2pqbnlsZF9FQ2RmaDZnQUtqeWx0SlNIZTlYOUs1c0lsRk5Ya2c5NURwSmhxLXNlRl9Bai16ZE0wTG5FbHkxR0hTVmVpdC1QcW1yQklHTUg1YTFMYVA2TmI5aElpQXdtZl9mU2EtYjRwaDZYdDdEdTJqRmgwWjc2SE5BbkQyMGNkbWV4ejg3ZmRpMXVocjczbXVRb3BlTC1zN1JlenZfcmt2QTZGYk44amFNZmdGaXN6RTZsM3ZqTXg4Q3dOQlBHMVl5MkhHV2xWRUlKTjVsb196Wm5FTGNSVTRKY200ZjlDWjFJUm1yaUVSbnVmSEliTjRuWmRUMGJFSjczVDNERjk1WjVPVTJaTmhfODBHZFM5eVVnMEN4bXhISnhFbkxvd2p6RXNFWUdPaXU2TXd0VmM4U29nOGNRTjZhX0NucGM1cF82N1N0dy0zbEc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 15:26:05"
+      },
+      {
+        "title": "劉建國邀內政部董建宏次長南下雲林 提升城鄉新風貌與排水韌性 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TVFBJczVjcW90RWpXVFU5VjQ2eEw2cFIwNDhQeThYU1BhUDgyOEF2UVEwOFd2UVg3ZVFLaTlqcU0xQkQ3T1RDQ19SYjZuZ1IyLUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 15:26:00"
+      },
+      {
         "title": "大蒜災損嚴重 立委劉建國邀農業部現勘 次長胡忠一允諾：天然災害救助火速核定 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNYVhveWJFTjJSVWJkWk1kd010LUpVM09ja2tpUnBrVlZFUXQyQUtmUTE0N296LW10aVE4aDNNRnVRVHkwQW9jeW9tS1A2M1Zjb1dDZ3QtREN3NUpMVkVTLXMyeTJUVV9Dbkx1TmNLSlhWTHctQ3lSTWtWRWtTdDFzYi05bnVJNUtKa2VUM29FdS1hY3NMRkY4cFFfY0hLQ0VnX3dVMG1KY2I1bjUtVXlPaGEtRldBV0JOcGVwWk9OVmhoa094N1lyTEN4UEVDQU1tRzlmMXQ5el9OR245bVRJM1VGZ3k4cW1kNWJxMkkwd25IUDl5WFRtNXFaaXpwSTBZTmJzd0xOVjk3S3N4T2E0bmFtYzlGaTJRRzVJZnhwY0pRRTJCS2RLZVJiNmtMdC0wNTJtdFRsdU9zWjhpUnBJWmRIMGtjcVBHU0l6c3BFWlo2NHJtZXBZc1ZEWFZHMUJjUDdqRVhRa0JCYzFZLTVMMGZtNGhPTDRVMnFLRjg3RF9qNXVfRVAtZE03a25kSmFrS05QeXdsUWg5eGlQdFpSN1F1MWNLdVlCRFQ0TmtZRkR1U2R5Ui1VZTlzY1NOODc0Qm5oeWYya3FfMmN1VXpHVGhzbGVSMFRGNk9NcFAxYjkyLUtB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-09 15:07:30"
+      },
+      {
+        "title": "麥寮電廠燃煤機組擬重啟 蘇清泉劉建國同聲質疑恐危害健康 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOVDlrY09lMnJnMTdzVWZiVHBPYVpVYTFvT1huVFc3UUQybGdrLXpfZGVZVV95SkJQSjhGMTdEX2lmRVlCbk5DajZoR21JdlZmRy1SSEQ5NU05ODM5aG1qSjRLR0lwTW15cGEyMUVNdVVraUZrM0hodmhCRk5iSTJYTTQ4YzdkeGtVcE44Q0E0UXR2eWJQa3RMRVQ3TVlSTjRCTTlRM1JOMno2RVVlYXB0OFZxT1JaZ2MteEJVamdDQnByZ1lra294VmdPNUlBcUI4SW1McEpwVE5WUl9BWE1KS1RJVXRPM1Z1dWRpTDlQai1ENTZLRWcyVjQxMktiRXhGaVk1VnVaM0dYaFVQZE5iQTlodUZNY1pnb3dJRVRUYkRQYWxqX1JDTjc0cjdTQ0xHQXBBdVpvbENDT29tc0VldjhZWVNVNGphSEpDLVc2TGlsM0hwaklDUHItWlNQSUlvb3ZMRElicE9OWWg4N1V2TGhpWTBVWkZSLVhJb09fYWcwN3BvVEE4V2ExZkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 12:43:00"
       },
       {
         "title": "麥寮電廠燃煤機組擬重啟 蘇清泉劉建國同聲質疑恐危害健康 - 匯流新聞網",
@@ -1350,9 +1395,24 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "劉建國邀內政部董建宏次長南下雲林 提升城鄉新風貌與排水韌性 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxOZ3dMbngtM3BSX2lBNzZMd0k5N0l0YlRLRVh2RkNQb181cS1GOXBNVDFQZVJObGhFbzUtOVBJYUhocWFtMWs1WWZJbjZYcUE4NHpwRFVYSkRDc2pqbnlsZF9FQ2RmaDZnQUtqeWx0SlNIZTlYOUs1c0lsRk5Ya2c5NURwSmhxLXNlRl9Bai16ZE0wTG5FbHkxR0hTVmVpdC1QcW1yQklHTUg1YTFMYVA2TmI5aElpQXdtZl9mU2EtYjRwaDZYdDdEdTJqRmgwWjc2SE5BbkQyMGNkbWV4ejg3ZmRpMXVocjczbXVRb3BlTC1zN1JlenZfcmt2QTZGYk44amFNZmdGaXN6RTZsM3ZqTXg4Q3dOQlBHMVl5MkhHV2xWRUlKTjVsb196Wm5FTGNSVTRKY200ZjlDWjFJUm1yaUVSbnVmSEliTjRuWmRUMGJFSjczVDNERjk1WjVPVTJaTmhfODBHZFM5eVVnMEN4bXhISnhFbkxvd2p6RXNFWUdPaXU2TXd0VmM4U29nOGNRTjZhX0NucGM1cF82N1N0dy0zbEc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 15:26:05"
+      },
+      {
+        "title": "劉建國邀內政部董建宏次長南下雲林 提升城鄉新風貌與排水韌性 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TVFBJczVjcW90RWpXVFU5VjQ2eEw2cFIwNDhQeThYU1BhUDgyOEF2UVEwOFd2UVg3ZVFLaTlqcU0xQkQ3T1RDQ19SYjZuZ1IyLUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 15:26:00"
+      },
+      {
         "title": "大蒜災損嚴重 立委劉建國邀農業部現勘 次長胡忠一允諾：天然災害救助火速核定 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNYVhveWJFTjJSVWJkWk1kd010LUpVM09ja2tpUnBrVlZFUXQyQUtmUTE0N296LW10aVE4aDNNRnVRVHkwQW9jeW9tS1A2M1Zjb1dDZ3QtREN3NUpMVkVTLXMyeTJUVV9Dbkx1TmNLSlhWTHctQ3lSTWtWRWtTdDFzYi05bnVJNUtKa2VUM29FdS1hY3NMRkY4cFFfY0hLQ0VnX3dVMG1KY2I1bjUtVXlPaGEtRldBV0JOcGVwWk9OVmhoa094N1lyTEN4UEVDQU1tRzlmMXQ5el9OR245bVRJM1VGZ3k4cW1kNWJxMkkwd25IUDl5WFRtNXFaaXpwSTBZTmJzd0xOVjk3S3N4T2E0bmFtYzlGaTJRRzVJZnhwY0pRRTJCS2RLZVJiNmtMdC0wNTJtdFRsdU9zWjhpUnBJWmRIMGtjcVBHU0l6c3BFWlo2NHJtZXBZc1ZEWFZHMUJjUDdqRVhRa0JCYzFZLTVMMGZtNGhPTDRVMnFLRjg3RF9qNXVfRVAtZE03a25kSmFrS05QeXdsUWg5eGlQdFpSN1F1MWNLdVlCRFQ0TmtZRkR1U2R5Ui1VZTlzY1NOODc0Qm5oeWYya3FfMmN1VXpHVGhzbGVSMFRGNk9NcFAxYjkyLUtB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-09 15:07:30"
+      },
+      {
+        "title": "麥寮電廠燃煤機組擬重啟 蘇清泉劉建國同聲質疑恐危害健康 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOVDlrY09lMnJnMTdzVWZiVHBPYVpVYTFvT1huVFc3UUQybGdrLXpfZGVZVV95SkJQSjhGMTdEX2lmRVlCbk5DajZoR21JdlZmRy1SSEQ5NU05ODM5aG1qSjRLR0lwTW15cGEyMUVNdVVraUZrM0hodmhCRk5iSTJYTTQ4YzdkeGtVcE44Q0E0UXR2eWJQa3RMRVQ3TVlSTjRCTTlRM1JOMno2RVVlYXB0OFZxT1JaZ2MteEJVamdDQnByZ1lra294VmdPNUlBcUI4SW1McEpwVE5WUl9BWE1KS1RJVXRPM1Z1dWRpTDlQai1ENTZLRWcyVjQxMktiRXhGaVk1VnVaM0dYaFVQZE5iQTlodUZNY1pnb3dJRVRUYkRQYWxqX1JDTjc0cjdTQ0xHQXBBdVpvbENDT29tc0VldjhZWVNVNGphSEpDLVc2TGlsM0hwaklDUHItWlNQSUlvb3ZMRElicE9OWWg4N1V2TGhpWTBVWkZSLVhJb09fYWcwN3BvVEE4V2ExZkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 12:43:00"
       },
       {
         "title": "麥寮電廠燃煤機組擬重啟 蘇清泉劉建國同聲質疑恐危害健康 - 匯流新聞網",
@@ -1533,21 +1593,6 @@
         "title": "雲林大蒜遭蟲害損失慘重 張嘉郡籲速啟動現金救助 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNZDRKNG9vS3dQZGR0Wk10N2d4R0VYRGQ2NV8wMzdVdjlmWTZFQWdlYVZTRHA3NWlheUtoS29Lc3dlLXlTZ1lKNXhScnZUZEtLX1M0czhNTjloN01FOGlfTjdYUWswZVY2QXRWNndwSlVfRDBRS0JUSEZwT0w3ZlBXZ3BMMmlVWVUzRUxsNTFIMDQyUm1BZjZXcmhfN3dPTl9lcTduNlhaaFA5NU45c09CVzY1SXg5cFp1RXExWlJmVjNNOUdNN1M3bXc3aVd2cFVhT3ZqSV9WeVNjemJ6Rm1wZVdtc0hsa0dkYTJKTVFVZ3Bid21xYjlzR01uVGJZeS1ab0I4dEdWdmk0N0ZwMVUyeEZ4b0RDVlNhM2oxbG1HbWZub1IzYlI2aW1JSlNPaVdvUUhqXzkwWms2NDBKbjlILTFRRXo4d29HQkVkeDVQV2VUTENjMFlXRDlqNUs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-07 21:11:34"
-      },
-      {
-        "title": "連日大雨重創雲林蒜田 立委劉建國邀農政單位跑5鄉鎮爭取天然災害救助！ - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rbU5rY0lCUldMQ0FNaU1BcU1vdTZOYUJwNFN1RlRZVkwwYjd3YnVZVEhDOWZ1cnVXSzlhTndOOWJVdmRZMlJ0T2RjUVJ4RUkxcmZLMW9hT3NMZld2NXUxSkJhVENSSzRnYUJZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-07 20:16:16"
-      },
-      {
-        "title": "雲林縣長參選人張嘉郡雙軸布局運動新治理提出興建大西螺運動中心打造一鄉鎮一匹克球場擘劃健康城市！ - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DSGowRTJpSlEwZm9tenM3eVZsZWlGcHJKZ0VyeTBVUUg1ak9MUVJaMnc2S0EyQVRWcUFZQy1hWjhzTTBEd1dvVGVzbW84OUlKQy11eHRLUnU0SWs4Vlg5TjR6RWpjbVhhN0pR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-07 19:56:17"
-      },
-      {
-        "title": "張嘉郡政見推匹克球、運動中心 劉建國：應全面評估雲林運動政策 | 自由電子報 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93Um84NWMwenFJZzNXaFlNWVd3eG15VWp0Z3dTS21idDNsVlZxMjE3ZWkyWklKcmRvUm9GdnA2aFE1MjBpNVltQjY5aG5LS2RnTk9zRV9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-07 19:20:22"
       }
     ],
     "facebook": [
@@ -1749,6 +1794,13 @@
     "minute": [],
     "hour": [
       {
+        "title": "麥寮電廠燃煤機組擬重啟 蘇清泉劉建國同聲質疑恐危害健康 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOVDlrY09lMnJnMTdzVWZiVHBPYVpVYTFvT1huVFc3UUQybGdrLXpfZGVZVV95SkJQSjhGMTdEX2lmRVlCbk5DajZoR21JdlZmRy1SSEQ5NU05ODM5aG1qSjRLR0lwTW15cGEyMUVNdVVraUZrM0hodmhCRk5iSTJYTTQ4YzdkeGtVcE44Q0E0UXR2eWJQa3RMRVQ3TVlSTjRCTTlRM1JOMno2RVVlYXB0OFZxT1JaZ2MteEJVamdDQnByZ1lra294VmdPNUlBcUI4SW1McEpwVE5WUl9BWE1KS1RJVXRPM1Z1dWRpTDlQai1ENTZLRWcyVjQxMktiRXhGaVk1VnVaM0dYaFVQZE5iQTlodUZNY1pnb3dJRVRUYkRQYWxqX1JDTjc0cjdTQ0xHQXBBdVpvbENDT29tc0VldjhZWVNVNGphSEpDLVc2TGlsM0hwaklDUHItWlNQSUlvb3ZMRElicE9OWWg4N1V2TGhpWTBVWkZSLVhJb09fYWcwN3BvVEE4V2ExZkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 12:43:00",
+        "platform": "news",
+        "risk": "黃"
+      },
+      {
         "title": "麥寮電廠燃煤機組擬重啟 蘇清泉劉建國同聲質疑恐危害健康 - 匯流新聞網",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05bmFkekFqQWNaY3FpWHctX3FOaElkZUI3Y3c0S2IwRXNEeFlrNXdGUXE3a1d4TGF4SnpSWjB0eTAtTFZJZHljc2x3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-09 12:32:44",
@@ -1771,6 +1823,20 @@
       }
     ],
     "day": [
+      {
+        "title": "劉建國邀內政部董建宏次長南下雲林 提升城鄉新風貌與排水韌性 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxOZ3dMbngtM3BSX2lBNzZMd0k5N0l0YlRLRVh2RkNQb181cS1GOXBNVDFQZVJObGhFbzUtOVBJYUhocWFtMWs1WWZJbjZYcUE4NHpwRFVYSkRDc2pqbnlsZF9FQ2RmaDZnQUtqeWx0SlNIZTlYOUs1c0lsRk5Ya2c5NURwSmhxLXNlRl9Bai16ZE0wTG5FbHkxR0hTVmVpdC1QcW1yQklHTUg1YTFMYVA2TmI5aElpQXdtZl9mU2EtYjRwaDZYdDdEdTJqRmgwWjc2SE5BbkQyMGNkbWV4ejg3ZmRpMXVocjczbXVRb3BlTC1zN1JlenZfcmt2QTZGYk44amFNZmdGaXN6RTZsM3ZqTXg4Q3dOQlBHMVl5MkhHV2xWRUlKTjVsb196Wm5FTGNSVTRKY200ZjlDWjFJUm1yaUVSbnVmSEliTjRuWmRUMGJFSjczVDNERjk1WjVPVTJaTmhfODBHZFM5eVVnMEN4bXhISnhFbkxvd2p6RXNFWUdPaXU2TXd0VmM4U29nOGNRTjZhX0NucGM1cF82N1N0dy0zbEc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 15:26:05",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國邀內政部董建宏次長南下雲林 提升城鄉新風貌與排水韌性 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TVFBJczVjcW90RWpXVFU5VjQ2eEw2cFIwNDhQeThYU1BhUDgyOEF2UVEwOFd2UVg3ZVFLaTlqcU0xQkQ3T1RDQ19SYjZuZ1IyLUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 15:26:00",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "大蒜災損嚴重 立委劉建國邀農業部現勘 次長胡忠一允諾：天然災害救助火速核定 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNYVhveWJFTjJSVWJkWk1kd010LUpVM09ja2tpUnBrVlZFUXQyQUtmUTE0N296LW10aVE4aDNNRnVRVHkwQW9jeW9tS1A2M1Zjb1dDZ3QtREN3NUpMVkVTLXMyeTJUVV9Dbkx1TmNLSlhWTHctQ3lSTWtWRWtTdDFzYi05bnVJNUtKa2VUM29FdS1hY3NMRkY4cFFfY0hLQ0VnX3dVMG1KY2I1bjUtVXlPaGEtRldBV0JOcGVwWk9OVmhoa094N1lyTEN4UEVDQU1tRzlmMXQ5el9OR245bVRJM1VGZ3k4cW1kNWJxMkkwd25IUDl5WFRtNXFaaXpwSTBZTmJzd0xOVjk3S3N4T2E0bmFtYzlGaTJRRzVJZnhwY0pRRTJCS2RLZVJiNmtMdC0wNTJtdFRsdU9zWjhpUnBJWmRIMGtjcVBHU0l6c3BFWlo2NHJtZXBZc1ZEWFZHMUJjUDdqRVhRa0JCYzFZLTVMMGZtNGhPTDRVMnFLRjg3RF9qNXVfRVAtZE03a25kSmFrS05QeXdsUWg5eGlQdFpSN1F1MWNLdVlCRFQ0TmtZRkR1U2R5Ui1VZTlzY1NOODc0Qm5oeWYya3FfMmN1VXpHVGhzbGVSMFRGNk9NcFAxYjkyLUtB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1889,14 +1955,14 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 7
-      },
-      {
-        "name": "虎尾",
-        "count": 2
+        "count": 9
       },
       {
         "name": "麥寮",
+        "count": 3
+      },
+      {
+        "name": "虎尾",
         "count": 2
       },
       {
