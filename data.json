@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-04-10T09:37:36.209907+00:00",
+  "generated_at": "2026-04-10T09:52:38.496838+00:00",
   "metrics": {
-    "total_24h": 9,
-    "prev_24h": 21,
-    "growth_pct": -57.14,
-    "news_24h": 5,
+    "total_24h": 11,
+    "prev_24h": 20,
+    "growth_pct": -45.0,
+    "news_24h": 7,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 139,
+    "total": 140,
     "prev": 117,
-    "growth_pct": 18.8,
-    "news": 95,
+    "growth_pct": 19.66,
+    "news": 97,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 5
+      "count": 7
     },
     {
       "platform": "youtube",
@@ -38,7 +38,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 95
+      "count": 97
     },
     {
       "platform": "facebook",
@@ -46,7 +46,7 @@
     },
     {
       "platform": "youtube",
-      "count": 10
+      "count": 9
     }
   ],
   "by_hour": [
@@ -55,8 +55,16 @@
       "count": 1
     },
     {
+      "hour": "2026-04-09 19:00",
+      "count": 1
+    },
+    {
       "hour": "2026-04-09 21:00",
       "count": 4
+    },
+    {
+      "hour": "2026-04-09 22:00",
+      "count": 1
     },
     {
       "hour": "2026-04-09 23:00",
@@ -68,10 +76,6 @@
     }
   ],
   "by_hour_7d": [
-    {
-      "hour": "2026-04-03 17:00",
-      "count": 1
-    },
     {
       "hour": "2026-04-03 18:00",
       "count": 1
@@ -269,8 +273,16 @@
       "count": 1
     },
     {
+      "hour": "2026-04-09 19:00",
+      "count": 1
+    },
+    {
       "hour": "2026-04-09 21:00",
       "count": 4
+    },
+    {
+      "hour": "2026-04-09 22:00",
+      "count": 1
     },
     {
       "hour": "2026-04-09 23:00",
@@ -284,7 +296,7 @@
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 5
+      "count": 7
     }
   ],
   "mention_latest_by_platform_24h": {
@@ -295,6 +307,11 @@
         "time": "2026-04-09 23:27:00"
       },
       {
+        "title": "雲林立委劉建國邀交通部長陳世凱等人南下雲林 推動交通大躍進！ - yesmedia.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQZHZnWUpJeGloR0J6Z2dPTVFLcU1KSzU5U0ZBUXhfZmc3eEs1Z3BmMWdDSDRfQlhhQUpvQkpvWWlDdndPMWZXRE4tS19PSFpXTkIyMU1MVzMtSnZYUUlnLXo1Mmg3X0VSUVZfOEZ0S2txd0E1cWxPb0JVV2lUeE9mV3NPZ2g0T0ZNd1BDZUI2X202Zmtvc2VJMVFQbmd4b3JOSXlrNkFqWDZXaFNKMERaRDVVTzBxTW0tODJkSWllcDB5UGQzRGIyaWdfNTVzZ21TYmNsWThPSklkZFgyeVBVMjFYNHFhTnJjU2l2Vy1VdFExd3JrRlp4ZVk4RG9RRUQ3MllLTGhQZmVmNkF1MlZueFhRdk5SbkJEaXVJS1ZfQ2dNcVRnbnN3NzZYY19NU0lXMWNoQXhJbjRFRV9ZRUpfRFhuRzFLWWlRSG9v?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 22:49:22"
+      },
+      {
         "title": "推動交通大躍進！劉建國邀交通部長陳世凱南下雲林 展現中央建設決心 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNT0tNRGVQSUpKaWFmX2MySW5HMFRVVmR1TVA0M3ozTWRWWExiaHlObndyek9nOUVmdW03bDZSTjllTTRrNlllZjVIczI5azV5QzZnaTRaYmNzU2wydzZ2MjdWZ09sd00wcklYRGlqcjVYRWxDSTJTdHlINkZpZUtUZzJvTEZMMVVXaGlCOWtULWlSb0ZoRXVyLU12UWNmM2tHQ2J4TzJNakRLM2E5QzUzYnd1UEtFUjlpRHVUUTlyYUpoWGlfRmpuVURZUC0zMklGUW1ldkpjcWE2MVI1cEdvU3g3WWt5U2FiQVQ2aHhsUnFCMjBFaDFVTk5SQlRibndUNTQ4TjZyM1lzZXdFajhZTlUtdTNxYU1DbHhBVnpRb0xKZmJTTGM5bTVMWEhUTlZPQkJ1ZEpGYXdsWGFyQmdmbkFKdnhmXzVRMmJzWDNhS21fVnJReUJkWHlMUWdSQnpZUkQxSWpGZER3UVRsYWJfb3UzeUN3MUhTSnlYWVAyd1Q2NlgzM09YRUVFZWZYNjdfUWhGVjFscEE3UWpqTEd4NEZzZFBfSnhuZVhjTlBhYy1uc1h5cGMtWHBtQkU0UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-09 21:42:04"
@@ -313,13 +330,18 @@
         "title": "張嘉郡雙軸布局運動新治理 興建大西螺運動中心 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkJfb3E0NF84TXRIMEoyMnpTdWREQzIwaXRFQV8zcHlBQkhLV0Z4TDh4dHd6ZU1mdm1kVmdaM1ppSmNHbnFYWWJlRU5NQWd0dXVzcUxHS0FaWnE2OGttZzdGcTJYY1FRaGRzbTM2MzRzTWVRb3FVeDdVdVZDbmxidVJkWE1SVUZwMGlwYldtYm1WT0RpR1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-09 21:39:57"
+      },
+      {
+        "title": "推動雲林交通發展 劉建國邀陳世凱視察 - 臺灣導報",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSY3BpbnZua1ZwVmI1cUlXMmRma2d5WDFwSWRyTjltaXlKOHczT3BSQ3RUeVFDN21YbXhOdDZ0eXdUMFhOSnVKb0cwTG54MkM5ekpZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 19:00:44"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 5
+      "count": 7
     }
   ],
   "alias_latest_by_platform_24h": {
@@ -330,6 +352,11 @@
         "time": "2026-04-09 23:27:00"
       },
       {
+        "title": "雲林立委劉建國邀交通部長陳世凱等人南下雲林 推動交通大躍進！ - yesmedia.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQZHZnWUpJeGloR0J6Z2dPTVFLcU1KSzU5U0ZBUXhfZmc3eEs1Z3BmMWdDSDRfQlhhQUpvQkpvWWlDdndPMWZXRE4tS19PSFpXTkIyMU1MVzMtSnZYUUlnLXo1Mmg3X0VSUVZfOEZ0S2txd0E1cWxPb0JVV2lUeE9mV3NPZ2g0T0ZNd1BDZUI2X202Zmtvc2VJMVFQbmd4b3JOSXlrNkFqWDZXaFNKMERaRDVVTzBxTW0tODJkSWllcDB5UGQzRGIyaWdfNTVzZ21TYmNsWThPSklkZFgyeVBVMjFYNHFhTnJjU2l2Vy1VdFExd3JrRlp4ZVk4RG9RRUQ3MllLTGhQZmVmNkF1MlZueFhRdk5SbkJEaXVJS1ZfQ2dNcVRnbnN3NzZYY19NU0lXMWNoQXhJbjRFRV9ZRUpfRFhuRzFLWWlRSG9v?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 22:49:22"
+      },
+      {
         "title": "推動交通大躍進！劉建國邀交通部長陳世凱南下雲林 展現中央建設決心 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNT0tNRGVQSUpKaWFmX2MySW5HMFRVVmR1TVA0M3ozTWRWWExiaHlObndyek9nOUVmdW03bDZSTjllTTRrNlllZjVIczI5azV5QzZnaTRaYmNzU2wydzZ2MjdWZ09sd00wcklYRGlqcjVYRWxDSTJTdHlINkZpZUtUZzJvTEZMMVVXaGlCOWtULWlSb0ZoRXVyLU12UWNmM2tHQ2J4TzJNakRLM2E5QzUzYnd1UEtFUjlpRHVUUTlyYUpoWGlfRmpuVURZUC0zMklGUW1ldkpjcWE2MVI1cEdvU3g3WWt5U2FiQVQ2aHhsUnFCMjBFaDFVTk5SQlRibndUNTQ4TjZyM1lzZXdFajhZTlUtdTNxYU1DbHhBVnpRb0xKZmJTTGM5bTVMWEhUTlZPQkJ1ZEpGYXdsWGFyQmdmbkFKdnhmXzVRMmJzWDNhS21fVnJReUJkWHlMUWdSQnpZUkQxSWpGZER3UVRsYWJfb3UzeUN3MUhTSnlYWVAyd1Q2NlgzM09YRUVFZWZYNjdfUWhGVjFscEE3UWpqTEd4NEZzZFBfSnhuZVhjTlBhYy1uc1h5cGMtWHBtQkU0UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-09 21:42:04"
@@ -348,22 +375,32 @@
         "title": "張嘉郡雙軸布局運動新治理 興建大西螺運動中心 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkJfb3E0NF84TXRIMEoyMnpTdWREQzIwaXRFQV8zcHlBQkhLV0Z4TDh4dHd6ZU1mdm1kVmdaM1ppSmNHbnFYWWJlRU5NQWd0dXVzcUxHS0FaWnE2OGttZzdGcTJYY1FRaGRzbTM2MzRzTWVRb3FVeDdVdVZDbmxidVJkWE1SVUZwMGlwYldtYm1WT0RpR1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-09 21:39:57"
+      },
+      {
+        "title": "推動雲林交通發展 劉建國邀陳世凱視察 - 臺灣導報",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSY3BpbnZua1ZwVmI1cUlXMmRma2d5WDFwSWRyTjltaXlKOHczT3BSQ3RUeVFDN21YbXhOdDZ0eXdUMFhOSnVKb0cwTG54MkM5ekpZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 19:00:44"
       }
     ]
   },
   "mention_compare_24h": {
     "張嘉郡": 2,
-    "劉建國": 3
+    "劉建國": 5
   },
   "mention_compare_7d": {
     "張嘉郡": 67,
-    "劉建國": 55
+    "劉建國": 57
   },
   "top_news": [
     {
       "title": "劉建國邀內政部會勘雲林五大建設 4.16億強化排水防洪 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LTDhZbVdKQl9TZ2F0WHd1bjNxODdPYjZWMmFoSWRNZnNvaUlsOUdzYnRwdFQxczhqOTYyZmdDcXp2UEdHZ0U1aWNIS28wbVlmQVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-09 23:27:00"
+    },
+    {
+      "title": "雲林立委劉建國邀交通部長陳世凱等人南下雲林 推動交通大躍進！ - yesmedia.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQZHZnWUpJeGloR0J6Z2dPTVFLcU1KSzU5U0ZBUXhfZmc3eEs1Z3BmMWdDSDRfQlhhQUpvQkpvWWlDdndPMWZXRE4tS19PSFpXTkIyMU1MVzMtSnZYUUlnLXo1Mmg3X0VSUVZfOEZ0S2txd0E1cWxPb0JVV2lUeE9mV3NPZ2g0T0ZNd1BDZUI2X202Zmtvc2VJMVFQbmd4b3JOSXlrNkFqWDZXaFNKMERaRDVVTzBxTW0tODJkSWllcDB5UGQzRGIyaWdfNTVzZ21TYmNsWThPSklkZFgyeVBVMjFYNHFhTnJjU2l2Vy1VdFExd3JrRlp4ZVk4RG9RRUQ3MllLTGhQZmVmNkF1MlZueFhRdk5SbkJEaXVJS1ZfQ2dNcVRnbnN3NzZYY19NU0lXMWNoQXhJbjRFRV9ZRUpfRFhuRzFLWWlRSG9v?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-09 22:49:22"
     },
     {
       "title": "推動交通大躍進！劉建國邀交通部長陳世凱南下雲林 展現中央建設決心 - Yahoo新聞",
@@ -384,6 +421,11 @@
       "title": "張嘉郡雙軸布局運動新治理 興建大西螺運動中心 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkJfb3E0NF84TXRIMEoyMnpTdWREQzIwaXRFQV8zcHlBQkhLV0Z4TDh4dHd6ZU1mdm1kVmdaM1ppSmNHbnFYWWJlRU5NQWd0dXVzcUxHS0FaWnE2OGttZzdGcTJYY1FRaGRzbTM2MzRzTWVRb3FVeDdVdVZDbmxidVJkWE1SVUZwMGlwYldtYm1WT0RpR1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-09 21:39:57"
+    },
+    {
+      "title": "推動雲林交通發展 劉建國邀陳世凱視察 - 臺灣導報",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSY3BpbnZua1ZwVmI1cUlXMmRma2d5WDFwSWRyTjltaXlKOHczT3BSQ3RUeVFDN21YbXhOdDZ0eXdUMFhOSnVKb0cwTG54MkM5ekpZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-09 19:00:44"
     }
   ],
   "top_news_7d": [
@@ -393,6 +435,11 @@
       "time": "2026-04-09 23:27:00"
     },
     {
+      "title": "雲林立委劉建國邀交通部長陳世凱等人南下雲林 推動交通大躍進！ - yesmedia.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQZHZnWUpJeGloR0J6Z2dPTVFLcU1KSzU5U0ZBUXhfZmc3eEs1Z3BmMWdDSDRfQlhhQUpvQkpvWWlDdndPMWZXRE4tS19PSFpXTkIyMU1MVzMtSnZYUUlnLXo1Mmg3X0VSUVZfOEZ0S2txd0E1cWxPb0JVV2lUeE9mV3NPZ2g0T0ZNd1BDZUI2X202Zmtvc2VJMVFQbmd4b3JOSXlrNkFqWDZXaFNKMERaRDVVTzBxTW0tODJkSWllcDB5UGQzRGIyaWdfNTVzZ21TYmNsWThPSklkZFgyeVBVMjFYNHFhTnJjU2l2Vy1VdFExd3JrRlp4ZVk4RG9RRUQ3MllLTGhQZmVmNkF1MlZueFhRdk5SbkJEaXVJS1ZfQ2dNcVRnbnN3NzZYY19NU0lXMWNoQXhJbjRFRV9ZRUpfRFhuRzFLWWlRSG9v?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-09 22:49:22"
+    },
+    {
       "title": "推動交通大躍進！劉建國邀交通部長陳世凱南下雲林 展現中央建設決心 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNT0tNRGVQSUpKaWFmX2MySW5HMFRVVmR1TVA0M3ozTWRWWExiaHlObndyek9nOUVmdW03bDZSTjllTTRrNlllZjVIczI5azV5QzZnaTRaYmNzU2wydzZ2MjdWZ09sd00wcklYRGlqcjVYRWxDSTJTdHlINkZpZUtUZzJvTEZMMVVXaGlCOWtULWlSb0ZoRXVyLU12UWNmM2tHQ2J4TzJNakRLM2E5QzUzYnd1UEtFUjlpRHVUUTlyYUpoWGlfRmpuVURZUC0zMklGUW1ldkpjcWE2MVI1cEdvU3g3WWt5U2FiQVQ2aHhsUnFCMjBFaDFVTk5SQlRibndUNTQ4TjZyM1lzZXdFajhZTlUtdTNxYU1DbHhBVnpRb0xKZmJTTGM5bTVMWEhUTlZPQkJ1ZEpGYXdsWGFyQmdmbkFKdnhmXzVRMmJzWDNhS21fVnJReUJkWHlMUWdSQnpZUkQxSWpGZER3UVRsYWJfb3UzeUN3MUhTSnlYWVAyd1Q2NlgzM09YRUVFZWZYNjdfUWhGVjFscEE3UWpqTEd4NEZzZFBfSnhuZVhjTlBhYy1uc1h5cGMtWHBtQkU0UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-09 21:42:04"
@@ -411,6 +458,11 @@
       "title": "張嘉郡雙軸布局運動新治理 興建大西螺運動中心 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkJfb3E0NF84TXRIMEoyMnpTdWREQzIwaXRFQV8zcHlBQkhLV0Z4TDh4dHd6ZU1mdm1kVmdaM1ppSmNHbnFYWWJlRU5NQWd0dXVzcUxHS0FaWnE2OGttZzdGcTJYY1FRaGRzbTM2MzRzTWVRb3FVeDdVdVZDbmxidVJkWE1SVUZwMGlwYldtYm1WT0RpR1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-09 21:39:57"
+    },
+    {
+      "title": "推動雲林交通發展 劉建國邀陳世凱視察 - 臺灣導報",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSY3BpbnZua1ZwVmI1cUlXMmRma2d5WDFwSWRyTjltaXlKOHczT3BSQ3RUeVFDN21YbXhOdDZ0eXdUMFhOSnVKb0cwTG54MkM5ekpZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-09 19:00:44"
     },
     {
       "title": "劉建國邀內政部董建宏次長南下雲林 提升城鄉新風貌與排水韌性 - Yahoo新聞",
@@ -476,16 +528,6 @@
       "title": "大蒜災損劉建國邀農部現勘 大蒜天然災害救助啟動 - 觀傳媒",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01S0VSMUU3ZlFHY0xqZ1liRUFJXy04NmlCTWJEblpIbTJTZzRKeHYwcDE0Z0xBcFNUUFVtaVVSQ3lQVGpoZlVkTU0zOGUtYmRtcWVkdHpNdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-08 20:49:10"
-    },
-    {
-      "title": "大蒜災損劉建國邀農部現勘 大蒜天然災害救助啟動 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOS0JqTDJQU2ZRZkFlel9pSG5sbVNVTmMzX0tSU09xVDEwY2pDNVMxZmZ3VEctVXp1QzJ6ZDJ4MUtDMjdyaTRnSzVHVmc5WEVYZzNTSHFBWlVSQmI5d2JjOTFHLTZDSURrN2kxSWQwZVNFQXN4Nm9GUkQzN215SW5BT1RYY1NCQ2lTa3ZTWU5MMGloQW40Vy0tYmtSa3RPMkc5dklWa2FrdkxLaTJBLXNpNnMxWWJhSGg3RzQ5ZEMwWkhvQ0FLc3RNa2FScnVWQWprSzJGaWdXVHNnYmhmSGotUmd2U0ZjRFVudmh2ZWxmcENMcUtweHZhek90c0JuMzBUV2R3Y1Y1WGdCblpwcDhiaGtRblhDS0V5MjNjMjYwSGNLa2g4VFJOU0tkeTdUUWVnQmlNWVhQYWdUTWd6Y0ZHdWc3UDFvelBEdmtjUjRKNUg1WUU5c1BXbHVOYnI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-08 20:49:10"
-    },
-    {
-      "title": "豪雨重創蒜頭災損 張嘉郡、丁學忠爭取天然災害補助 - 臺灣導報",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhM2RfMDZDbjhwSjY2SHhRQXgzNDlhUjNsYmVuY0JRNFdjbE1CYWN3WlBZU2tGdmR2aDIyLU5FZGpxaVZLU2FBOFFpYkt3YUxIaXZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-08 19:33:14"
     }
   ],
   "latest_facebook_20": [
@@ -597,6 +639,11 @@
       "time": "2026-04-09 23:27:00"
     },
     {
+      "title": "雲林立委劉建國邀交通部長陳世凱等人南下雲林 推動交通大躍進！ - yesmedia.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQZHZnWUpJeGloR0J6Z2dPTVFLcU1KSzU5U0ZBUXhfZmc3eEs1Z3BmMWdDSDRfQlhhQUpvQkpvWWlDdndPMWZXRE4tS19PSFpXTkIyMU1MVzMtSnZYUUlnLXo1Mmg3X0VSUVZfOEZ0S2txd0E1cWxPb0JVV2lUeE9mV3NPZ2g0T0ZNd1BDZUI2X202Zmtvc2VJMVFQbmd4b3JOSXlrNkFqWDZXaFNKMERaRDVVTzBxTW0tODJkSWllcDB5UGQzRGIyaWdfNTVzZ21TYmNsWThPSklkZFgyeVBVMjFYNHFhTnJjU2l2Vy1VdFExd3JrRlp4ZVk4RG9RRUQ3MllLTGhQZmVmNkF1MlZueFhRdk5SbkJEaXVJS1ZfQ2dNcVRnbnN3NzZYY19NU0lXMWNoQXhJbjRFRV9ZRUpfRFhuRzFLWWlRSG9v?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-09 22:49:22"
+    },
+    {
       "title": "推動交通大躍進！劉建國邀交通部長陳世凱南下雲林 展現中央建設決心 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNT0tNRGVQSUpKaWFmX2MySW5HMFRVVmR1TVA0M3ozTWRWWExiaHlObndyek9nOUVmdW03bDZSTjllTTRrNlllZjVIczI5azV5QzZnaTRaYmNzU2wydzZ2MjdWZ09sd00wcklYRGlqcjVYRWxDSTJTdHlINkZpZUtUZzJvTEZMMVVXaGlCOWtULWlSb0ZoRXVyLU12UWNmM2tHQ2J4TzJNakRLM2E5QzUzYnd1UEtFUjlpRHVUUTlyYUpoWGlfRmpuVURZUC0zMklGUW1ldkpjcWE2MVI1cEdvU3g3WWt5U2FiQVQ2aHhsUnFCMjBFaDFVTk5SQlRibndUNTQ4TjZyM1lzZXdFajhZTlUtdTNxYU1DbHhBVnpRb0xKZmJTTGM5bTVMWEhUTlZPQkJ1ZEpGYXdsWGFyQmdmbkFKdnhmXzVRMmJzWDNhS21fVnJReUJkWHlMUWdSQnpZUkQxSWpGZER3UVRsYWJfb3UzeUN3MUhTSnlYWVAyd1Q2NlgzM09YRUVFZWZYNjdfUWhGVjFscEE3UWpqTEd4NEZzZFBfSnhuZVhjTlBhYy1uc1h5cGMtWHBtQkU0UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-09 21:42:04"
@@ -615,6 +662,11 @@
       "title": "張嘉郡雙軸布局運動新治理 興建大西螺運動中心 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkJfb3E0NF84TXRIMEoyMnpTdWREQzIwaXRFQV8zcHlBQkhLV0Z4TDh4dHd6ZU1mdm1kVmdaM1ppSmNHbnFYWWJlRU5NQWd0dXVzcUxHS0FaWnE2OGttZzdGcTJYY1FRaGRzbTM2MzRzTWVRb3FVeDdVdVZDbmxidVJkWE1SVUZwMGlwYldtYm1WT0RpR1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-09 21:39:57"
+    },
+    {
+      "title": "推動雲林交通發展 劉建國邀陳世凱視察 - 臺灣導報",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSY3BpbnZua1ZwVmI1cUlXMmRma2d5WDFwSWRyTjltaXlKOHczT3BSQ3RUeVFDN21YbXhOdDZ0eXdUMFhOSnVKb0cwTG54MkM5ekpZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-09 19:00:44"
     },
     {
       "title": "劉建國邀內政部董建宏次長南下雲林 提升城鄉新風貌與排水韌性 - Yahoo新聞",
@@ -680,16 +732,6 @@
       "title": "大蒜災損劉建國邀農部現勘 大蒜天然災害救助啟動 - 觀傳媒",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01S0VSMUU3ZlFHY0xqZ1liRUFJXy04NmlCTWJEblpIbTJTZzRKeHYwcDE0Z0xBcFNUUFVtaVVSQ3lQVGpoZlVkTU0zOGUtYmRtcWVkdHpNdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-08 20:49:10"
-    },
-    {
-      "title": "大蒜災損劉建國邀農部現勘 大蒜天然災害救助啟動 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOS0JqTDJQU2ZRZkFlel9pSG5sbVNVTmMzX0tSU09xVDEwY2pDNVMxZmZ3VEctVXp1QzJ6ZDJ4MUtDMjdyaTRnSzVHVmc5WEVYZzNTSHFBWlVSQmI5d2JjOTFHLTZDSURrN2kxSWQwZVNFQXN4Nm9GUkQzN215SW5BT1RYY1NCQ2lTa3ZTWU5MMGloQW40Vy0tYmtSa3RPMkc5dklWa2FrdkxLaTJBLXNpNnMxWWJhSGg3RzQ5ZEMwWkhvQ0FLc3RNa2FScnVWQWprSzJGaWdXVHNnYmhmSGotUmd2U0ZjRFVudmh2ZWxmcENMcUtweHZhek90c0JuMzBUV2R3Y1Y1WGdCblpwcDhiaGtRblhDS0V5MjNjMjYwSGNLa2g4VFJOU0tkeTdUUWVnQmlNWVhQYWdUTWd6Y0ZHdWc3UDFvelBEdmtjUjRKNUg1WUU5c1BXbHVOYnI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-08 20:49:10"
-    },
-    {
-      "title": "豪雨重創蒜頭災損 張嘉郡、丁學忠爭取天然災害補助 - 臺灣導報",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhM2RfMDZDbjhwSjY2SHhRQXgzNDlhUjNsYmVuY0JRNFdjbE1CYWN3WlBZU2tGdmR2aDIyLU5FZGpxaVZLU2FBOFFpYkt3YUxIaXZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-08 19:33:14"
     }
   ],
   "person_sections": {
@@ -979,6 +1021,11 @@
           "time": "2026-04-09 23:27:00"
         },
         {
+          "title": "雲林立委劉建國邀交通部長陳世凱等人南下雲林 推動交通大躍進！ - yesmedia.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQZHZnWUpJeGloR0J6Z2dPTVFLcU1KSzU5U0ZBUXhfZmc3eEs1Z3BmMWdDSDRfQlhhQUpvQkpvWWlDdndPMWZXRE4tS19PSFpXTkIyMU1MVzMtSnZYUUlnLXo1Mmg3X0VSUVZfOEZ0S2txd0E1cWxPb0JVV2lUeE9mV3NPZ2g0T0ZNd1BDZUI2X202Zmtvc2VJMVFQbmd4b3JOSXlrNkFqWDZXaFNKMERaRDVVTzBxTW0tODJkSWllcDB5UGQzRGIyaWdfNTVzZ21TYmNsWThPSklkZFgyeVBVMjFYNHFhTnJjU2l2Vy1VdFExd3JrRlp4ZVk4RG9RRUQ3MllLTGhQZmVmNkF1MlZueFhRdk5SbkJEaXVJS1ZfQ2dNcVRnbnN3NzZYY19NU0lXMWNoQXhJbjRFRV9ZRUpfRFhuRzFLWWlRSG9v?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-09 22:49:22"
+        },
+        {
           "title": "推動交通大躍進！劉建國邀交通部長陳世凱南下雲林 展現中央建設決心 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNT0tNRGVQSUpKaWFmX2MySW5HMFRVVmR1TVA0M3ozTWRWWExiaHlObndyek9nOUVmdW03bDZSTjllTTRrNlllZjVIczI5azV5QzZnaTRaYmNzU2wydzZ2MjdWZ09sd00wcklYRGlqcjVYRWxDSTJTdHlINkZpZUtUZzJvTEZMMVVXaGlCOWtULWlSb0ZoRXVyLU12UWNmM2tHQ2J4TzJNakRLM2E5QzUzYnd1UEtFUjlpRHVUUTlyYUpoWGlfRmpuVURZUC0zMklGUW1ldkpjcWE2MVI1cEdvU3g3WWt5U2FiQVQ2aHhsUnFCMjBFaDFVTk5SQlRibndUNTQ4TjZyM1lzZXdFajhZTlUtdTNxYU1DbHhBVnpRb0xKZmJTTGM5bTVMWEhUTlZPQkJ1ZEpGYXdsWGFyQmdmbkFKdnhmXzVRMmJzWDNhS21fVnJReUJkWHlMUWdSQnpZUkQxSWpGZER3UVRsYWJfb3UzeUN3MUhTSnlYWVAyd1Q2NlgzM09YRUVFZWZYNjdfUWhGVjFscEE3UWpqTEd4NEZzZFBfSnhuZVhjTlBhYy1uc1h5cGMtWHBtQkU0UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-09 21:42:04"
@@ -987,6 +1034,11 @@
           "title": "推動交通大躍進！劉建國邀交通部長陳世凱南下雲林 展現中央建設決心 - PChome Online 新聞",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPemxqNGR4TnNXZnBWdnBrY3dmMENQZ25LTlZCcldOUHVyWFZOME5JRWNCMXJrU0VpLV91aEFucGVjZXJyYVI0b3ZKVVk1c2YtZEVRWUVOQzM4ZUtQeVJ5RGJlZm9keUY2eFA1UHZReGVLVnVsZG9PckRiR1RrWjBjbzZTa3d6NkJVV3VpT25FUUlHcHZwT1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-09 21:42:04"
+        },
+        {
+          "title": "推動雲林交通發展 劉建國邀陳世凱視察 - 臺灣導報",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSY3BpbnZua1ZwVmI1cUlXMmRma2d5WDFwSWRyTjltaXlKOHczT3BSQ3RUeVFDN21YbXhOdDZ0eXdUMFhOSnVKb0cwTG54MkM5ekpZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-09 19:00:44"
         },
         {
           "title": "劉建國邀內政部董建宏次長南下雲林 提升城鄉新風貌與排水韌性 - Yahoo新聞",
@@ -1062,16 +1114,6 @@
           "title": "劉建國邀交通部長陳世凱南下雲林 推動交通大躍進 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOMmJWSnZrR3RfN2FSSERjdnA3djktVVlxdk1rcGZxMURUZG1oSzFDYllCS3RCd0ZvRHRPYjNvRHMtbVpjN0lkMHdmVnV3d01yRDAtRHAtV0pSX213X3QzOFoyUlZuZGtvVzNKVGNhRFZ2REplYVEtVkFxSVhwd2hZdHk1MGJ2TnlqX3l0WElxc3V1YlZNMmxlYS1vTDZMZ2hWeDQ3Sl9mREdEU1FUaDhFdEdGaEpHSlVXVmFlVmFiQUpUUG13a2l4eER1OTZRRVZxVmRzUUVlNmItUnVDTWFSRXF3TWpYQzRUMEp6bG9vNU5nNEhCVnMtbGVzOGprTjBTdHVNWTlTV0loZ3BMQVNKM0ZlVjJCT3ZodWt3SHl3RXo2S3VKT3Q1enF5SDI0bG5oN3piU0VHYWJNUXh3M3hjVXlUM05vT3lUbGhkUW5JOTNiX21qdWZua3FKLUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-08 16:54:17"
-        },
-        {
-          "title": "劉建國邀交通部長陳世凱南下雲林 推動交通大躍進 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM1JQTWN5OHItdEhCcTlNU256Wm9zcXJtZHhOQ0xiTXF5RmlBUVBYWHRhTDZJci1fdGJMNXA3Sl9IeEV1YUt1bERlMkVicnVnUzVsVVRfQktHX0lTRWxuYzRWRWs5bldxX1B6Z1NhVEI5eUhvYVdvSTNhbk9NaENxVFJYdFp2dnFueS05dGh3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-08 16:54:17"
-        },
-        {
-          "title": "劉建國邀交通部長陳世凱南下雲林 推動交通大躍進 - 蕃新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53MTV1MGtKSlc3eDlnSldVZDFvYUtZdm5oZEFCQnE1T1ZfY0tlTHR0NU5qM1Q4SFEzVVdtSERXZENNblFQcWx5cGFIX3VoeE94REE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-08 16:54:00"
         }
       ]
     }
@@ -1082,6 +1124,11 @@
         "title": "劉建國邀內政部會勘雲林五大建設 4.16億強化排水防洪 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LTDhZbVdKQl9TZ2F0WHd1bjNxODdPYjZWMmFoSWRNZnNvaUlsOUdzYnRwdFQxczhqOTYyZmdDcXp2UEdHZ0U1aWNIS28wbVlmQVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-09 23:27:00"
+      },
+      {
+        "title": "雲林立委劉建國邀交通部長陳世凱等人南下雲林 推動交通大躍進！ - yesmedia.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQZHZnWUpJeGloR0J6Z2dPTVFLcU1KSzU5U0ZBUXhfZmc3eEs1Z3BmMWdDSDRfQlhhQUpvQkpvWWlDdndPMWZXRE4tS19PSFpXTkIyMU1MVzMtSnZYUUlnLXo1Mmg3X0VSUVZfOEZ0S2txd0E1cWxPb0JVV2lUeE9mV3NPZ2g0T0ZNd1BDZUI2X202Zmtvc2VJMVFQbmd4b3JOSXlrNkFqWDZXaFNKMERaRDVVTzBxTW0tODJkSWllcDB5UGQzRGIyaWdfNTVzZ21TYmNsWThPSklkZFgyeVBVMjFYNHFhTnJjU2l2Vy1VdFExd3JrRlp4ZVk4RG9RRUQ3MllLTGhQZmVmNkF1MlZueFhRdk5SbkJEaXVJS1ZfQ2dNcVRnbnN3NzZYY19NU0lXMWNoQXhJbjRFRV9ZRUpfRFhuRzFLWWlRSG9v?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 22:49:22"
       },
       {
         "title": "推動交通大躍進！劉建國邀交通部長陳世凱南下雲林 展現中央建設決心 - Yahoo新聞",
@@ -1102,6 +1149,11 @@
         "title": "張嘉郡雙軸布局運動新治理 興建大西螺運動中心 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkJfb3E0NF84TXRIMEoyMnpTdWREQzIwaXRFQV8zcHlBQkhLV0Z4TDh4dHd6ZU1mdm1kVmdaM1ppSmNHbnFYWWJlRU5NQWd0dXVzcUxHS0FaWnE2OGttZzdGcTJYY1FRaGRzbTM2MzRzTWVRb3FVeDdVdVZDbmxidVJkWE1SVUZwMGlwYldtYm1WT0RpR1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-09 21:39:57"
+      },
+      {
+        "title": "推動雲林交通發展 劉建國邀陳世凱視察 - 臺灣導報",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSY3BpbnZua1ZwVmI1cUlXMmRma2d5WDFwSWRyTjltaXlKOHczT3BSQ3RUeVFDN21YbXhOdDZ0eXdUMFhOSnVKb0cwTG54MkM5ekpZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 19:00:44"
       }
     ],
     "youtube": [
@@ -1135,6 +1187,11 @@
         "time": "2026-04-09 23:27:00"
       },
       {
+        "title": "雲林立委劉建國邀交通部長陳世凱等人南下雲林 推動交通大躍進！ - yesmedia.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQZHZnWUpJeGloR0J6Z2dPTVFLcU1KSzU5U0ZBUXhfZmc3eEs1Z3BmMWdDSDRfQlhhQUpvQkpvWWlDdndPMWZXRE4tS19PSFpXTkIyMU1MVzMtSnZYUUlnLXo1Mmg3X0VSUVZfOEZ0S2txd0E1cWxPb0JVV2lUeE9mV3NPZ2g0T0ZNd1BDZUI2X202Zmtvc2VJMVFQbmd4b3JOSXlrNkFqWDZXaFNKMERaRDVVTzBxTW0tODJkSWllcDB5UGQzRGIyaWdfNTVzZ21TYmNsWThPSklkZFgyeVBVMjFYNHFhTnJjU2l2Vy1VdFExd3JrRlp4ZVk4RG9RRUQ3MllLTGhQZmVmNkF1MlZueFhRdk5SbkJEaXVJS1ZfQ2dNcVRnbnN3NzZYY19NU0lXMWNoQXhJbjRFRV9ZRUpfRFhuRzFLWWlRSG9v?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 22:49:22"
+      },
+      {
         "title": "推動交通大躍進！劉建國邀交通部長陳世凱南下雲林 展現中央建設決心 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNT0tNRGVQSUpKaWFmX2MySW5HMFRVVmR1TVA0M3ozTWRWWExiaHlObndyek9nOUVmdW03bDZSTjllTTRrNlllZjVIczI5azV5QzZnaTRaYmNzU2wydzZ2MjdWZ09sd00wcklYRGlqcjVYRWxDSTJTdHlINkZpZUtUZzJvTEZMMVVXaGlCOWtULWlSb0ZoRXVyLU12UWNmM2tHQ2J4TzJNakRLM2E5QzUzYnd1UEtFUjlpRHVUUTlyYUpoWGlfRmpuVURZUC0zMklGUW1ldkpjcWE2MVI1cEdvU3g3WWt5U2FiQVQ2aHhsUnFCMjBFaDFVTk5SQlRibndUNTQ4TjZyM1lzZXdFajhZTlUtdTNxYU1DbHhBVnpRb0xKZmJTTGM5bTVMWEhUTlZPQkJ1ZEpGYXdsWGFyQmdmbkFKdnhmXzVRMmJzWDNhS21fVnJReUJkWHlMUWdSQnpZUkQxSWpGZER3UVRsYWJfb3UzeUN3MUhTSnlYWVAyd1Q2NlgzM09YRUVFZWZYNjdfUWhGVjFscEE3UWpqTEd4NEZzZFBfSnhuZVhjTlBhYy1uc1h5cGMtWHBtQkU0UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-09 21:42:04"
@@ -1153,6 +1210,11 @@
         "title": "張嘉郡雙軸布局運動新治理 興建大西螺運動中心 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkJfb3E0NF84TXRIMEoyMnpTdWREQzIwaXRFQV8zcHlBQkhLV0Z4TDh4dHd6ZU1mdm1kVmdaM1ppSmNHbnFYWWJlRU5NQWd0dXVzcUxHS0FaWnE2OGttZzdGcTJYY1FRaGRzbTM2MzRzTWVRb3FVeDdVdVZDbmxidVJkWE1SVUZwMGlwYldtYm1WT0RpR1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-09 21:39:57"
+      },
+      {
+        "title": "推動雲林交通發展 劉建國邀陳世凱視察 - 臺灣導報",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSY3BpbnZua1ZwVmI1cUlXMmRma2d5WDFwSWRyTjltaXlKOHczT3BSQ3RUeVFDN21YbXhOdDZ0eXdUMFhOSnVKb0cwTG54MkM5ekpZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 19:00:44"
       },
       {
         "title": "劉建國邀內政部董建宏次長南下雲林 提升城鄉新風貌與排水韌性 - Yahoo新聞",
@@ -1318,16 +1380,6 @@
         "title": "節省燃油！張嘉郡呼籲居家上班 經濟部回應！ - 三立新聞網SETN.com",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91a3VRd2RWYWtPYkVKdnlnbWVsZGRzX1UzSmtoamQtX0FONDVlVG1ndGl5T0dPOHp1R0VpbDh4RFV4dW1JTVd1WXFsRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-08 11:53:36"
-      },
-      {
-        "title": "節省燃油！張嘉郡呼籲居家上班 經濟部回應！ - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aeERyQTRpWVphVWRWdzZMRlo4MUZGN2JfYjNUbGppWE54M19FeW9PeXktdEJJbldrWXIxWDN4UUt5NVpQeGh6bERnd196SWxCTHdKNlBkSllIN1NSdTl3VW1zNHpPUTJNczRxRENLNlpBbnhwVXhiRGp3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-08 11:50:00"
-      },
-      {
-        "title": "省油！張嘉郡籲居家上班　經濟部回應！ - mirrormedia.mg",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Ea0JhMkF2T0NmR3BGQ1YxMmV0RzR1TjExWjdzVjRGZklNcU1zUjhkQWpNNzlOcjNHRU80cnBvdWlfMFBJRjlWeFVnMTViNzBNWkl6b2xrcmFoTVBoMkVwUXBB0gFiQVVfeXFMT0RrQmEyQXZPQ2ZHcEZDVjEyZXRHNHVOMTFaN3NWNEZmSU1xTXNSOGRBak03OU5yM0dFTzRycG91aV8wUElGOVZ4VWcxNWI3ME1aSXpvbGtyYWhNUGgyRXBRcEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-08 11:50:00"
       }
     ],
     "facebook": [
@@ -1547,11 +1599,6 @@
         "title": "鄭麗文選擇今天出發訪問沒有言論自由的中國，是言論自由日最大的諷刺。#范雲",
         "url": "https://www.youtube.com/shorts/tmhbmMnJvsA",
         "time": "2026-04-07 13:18:01"
-      },
-      {
-        "title": "⚠️「習鄭會」要注意的兩大示警： #八范雲集 #鄭麗文",
-        "url": "https://www.youtube.com/shorts/Oshbol0Oau4",
-        "time": "2026-04-03 17:43:07"
       }
     ]
   },
@@ -1588,6 +1635,13 @@
         "risk": "綠"
       },
       {
+        "title": "雲林立委劉建國邀交通部長陳世凱等人南下雲林 推動交通大躍進！ - yesmedia.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQZHZnWUpJeGloR0J6Z2dPTVFLcU1KSzU5U0ZBUXhfZmc3eEs1Z3BmMWdDSDRfQlhhQUpvQkpvWWlDdndPMWZXRE4tS19PSFpXTkIyMU1MVzMtSnZYUUlnLXo1Mmg3X0VSUVZfOEZ0S2txd0E1cWxPb0JVV2lUeE9mV3NPZ2g0T0ZNd1BDZUI2X202Zmtvc2VJMVFQbmd4b3JOSXlrNkFqWDZXaFNKMERaRDVVTzBxTW0tODJkSWllcDB5UGQzRGIyaWdfNTVzZ21TYmNsWThPSklkZFgyeVBVMjFYNHFhTnJjU2l2Vy1VdFExd3JrRlp4ZVk4RG9RRUQ3MllLTGhQZmVmNkF1MlZueFhRdk5SbkJEaXVJS1ZfQ2dNcVRnbnN3NzZYY19NU0lXMWNoQXhJbjRFRV9ZRUpfRFhuRzFLWWlRSG9v?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 22:49:22",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "推動交通大躍進！劉建國邀交通部長陳世凱南下雲林 展現中央建設決心 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNT0tNRGVQSUpKaWFmX2MySW5HMFRVVmR1TVA0M3ozTWRWWExiaHlObndyek9nOUVmdW03bDZSTjllTTRrNlllZjVIczI5azV5QzZnaTRaYmNzU2wydzZ2MjdWZ09sd00wcklYRGlqcjVYRWxDSTJTdHlINkZpZUtUZzJvTEZMMVVXaGlCOWtULWlSb0ZoRXVyLU12UWNmM2tHQ2J4TzJNakRLM2E5QzUzYnd1UEtFUjlpRHVUUTlyYUpoWGlfRmpuVURZUC0zMklGUW1ldkpjcWE2MVI1cEdvU3g3WWt5U2FiQVQ2aHhsUnFCMjBFaDFVTk5SQlRibndUNTQ4TjZyM1lzZXdFajhZTlUtdTNxYU1DbHhBVnpRb0xKZmJTTGM5bTVMWEhUTlZPQkJ1ZEpGYXdsWGFyQmdmbkFKdnhmXzVRMmJzWDNhS21fVnJReUJkWHlMUWdSQnpZUkQxSWpGZER3UVRsYWJfb3UzeUN3MUhTSnlYWVAyd1Q2NlgzM09YRUVFZWZYNjdfUWhGVjFscEE3UWpqTEd4NEZzZFBfSnhuZVhjTlBhYy1uc1h5cGMtWHBtQkU0UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-09 21:42:04",
@@ -1616,6 +1670,13 @@
         "risk": "綠"
       },
       {
+        "title": "推動雲林交通發展 劉建國邀陳世凱視察 - 臺灣導報",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSY3BpbnZua1ZwVmI1cUlXMmRma2d5WDFwSWRyTjltaXlKOHczT3BSQ3RUeVFDN21YbXhOdDZ0eXdUMFhOSnVKb0cwTG54MkM5ekpZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-09 19:00:44",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "國防部顧立雄部長  因為國民黨選擇集體缺席國防 特別條例協商，散會前的最後誠懇呼告。 @DPPCAUCUSYTCHANNEL",
         "url": "https://www.youtube.com/watch?v=nf7uLTz6gaM",
         "time": "2026-04-09 18:59:08",
@@ -1628,17 +1689,17 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 5
+        "count": 7
       }
     ],
     "groups": [
       {
-        "name": "工地/營造",
-        "count": 3
+        "name": "交通通勤",
+        "count": 4
       },
       {
-        "name": "交通通勤",
-        "count": 2
+        "name": "工地/營造",
+        "count": 3
       }
     ]
   }
