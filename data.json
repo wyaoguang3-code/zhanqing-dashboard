@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-04-11T09:56:37.734887+00:00",
+  "generated_at": "2026-04-11T10:11:40.035071+00:00",
   "metrics": {
-    "total_24h": 14,
+    "total_24h": 15,
     "prev_24h": 14,
-    "growth_pct": 0.0,
-    "news_24h": 11,
+    "growth_pct": 7.14,
+    "news_24h": 12,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 150,
+    "total": 151,
     "prev": 119,
-    "growth_pct": 26.05,
-    "news": 107,
+    "growth_pct": 26.89,
+    "news": 108,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 11
+      "count": 12
     },
     {
       "platform": "youtube",
@@ -38,7 +38,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 107
+      "count": 108
     },
     {
       "platform": "facebook",
@@ -84,6 +84,10 @@
     },
     {
       "hour": "2026-04-11 15:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-04-11 18:00",
       "count": 1
     }
   ],
@@ -319,16 +323,25 @@
     {
       "hour": "2026-04-11 15:00",
       "count": 1
+    },
+    {
+      "hour": "2026-04-11 18:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 11
+      "count": 12
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國邀集內政部南下雲林 強化城鄉環境品質提升防洪排水能力 - TDN台灣生活新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwLUozQ0tmc0RLTGp3Z1duSjdHZVl2RFVjLWkxUllGalZlU3h3SXBWVXpReFUtQmRGcDRlVWNrTFF2MVF0ejA3M1hIRUg4VklM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-11 18:01:37"
+      },
       {
         "title": "白沙屯媽祖進香明起走 張嘉郡推「雲林嘉郡」束口袋結緣 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQVkZZVFViV1h6RXM5NUxsSmFqQWJiMGZ1NWRzei1KT0JLbW1zMnFoTUtfVEhNaHhNZUJ6YTVzbVBHVWxWeFBBUjVfMDN2U3FQTkhLdlBhLVFCMUV0c2FxSHVUS3NNbHl6cWJkZjBNU2liOWpkQllpN3Y3SHdFMU9IU1oyU1dSbDhldFhNbTdNd2N5aE1iMUhFR183R3ZKMzZ1b0VQNXMtTy12eG1WaWFBV25hZGRJcmlxRmF1MDN0NEtLOWxOZEkwT0FfN1VFd09LeXlzaFN6V2g5Tk9HMzFFd0RvNHpmUnJYclBhUHQzQ0RNdWVJdm5qcWkyaVhLbXNzRGxsNFE3WmM5bElRTVpFT05EX280aHNXdjlQSFIwRFByT0I3RG4xRVVqVjBwUi1QSjNXUGVOMFBZMkVFYThMakhRelBoQktXcE9Ncm4tLVBzREZkUVl3aTBKcWpZRkxlNUVLSlJfZWxaekU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -389,11 +402,16 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 11
+      "count": 12
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國邀集內政部南下雲林 強化城鄉環境品質提升防洪排水能力 - TDN台灣生活新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwLUozQ0tmc0RLTGp3Z1duSjdHZVl2RFVjLWkxUllGalZlU3h3SXBWVXpReFUtQmRGcDRlVWNrTFF2MVF0ejA3M1hIRUg4VklM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-11 18:01:37"
+      },
       {
         "title": "白沙屯媽祖進香明起走 張嘉郡推「雲林嘉郡」束口袋結緣 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQVkZZVFViV1h6RXM5NUxsSmFqQWJiMGZ1NWRzei1KT0JLbW1zMnFoTUtfVEhNaHhNZUJ6YTVzbVBHVWxWeFBBUjVfMDN2U3FQTkhLdlBhLVFCMUV0c2FxSHVUS3NNbHl6cWJkZjBNU2liOWpkQllpN3Y3SHdFMU9IU1oyU1dSbDhldFhNbTdNd2N5aE1iMUhFR183R3ZKMzZ1b0VQNXMtTy12eG1WaWFBV25hZGRJcmlxRmF1MDN0NEtLOWxOZEkwT0FfN1VFd09LeXlzaFN6V2g5Tk9HMzFFd0RvNHpmUnJYclBhUHQzQ0RNdWVJdm5qcWkyaVhLbXNzRGxsNFE3WmM5bElRTVpFT05EX280aHNXdjlQSFIwRFByT0I3RG4xRVVqVjBwUi1QSjNXUGVOMFBZMkVFYThMakhRelBoQktXcE9Ncm4tLVBzREZkUVl3aTBKcWpZRkxlNUVLSlJfZWxaekU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -453,13 +471,18 @@
   },
   "mention_compare_24h": {
     "張嘉郡": 4,
-    "劉建國": 7
+    "劉建國": 8
   },
   "mention_compare_7d": {
     "張嘉郡": 68,
-    "劉建國": 67
+    "劉建國": 68
   },
   "top_news": [
+    {
+      "title": "劉建國邀集內政部南下雲林 強化城鄉環境品質提升防洪排水能力 - TDN台灣生活新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwLUozQ0tmc0RLTGp3Z1duSjdHZVl2RFVjLWkxUllGalZlU3h3SXBWVXpReFUtQmRGcDRlVWNrTFF2MVF0ejA3M1hIRUg4VklM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-11 18:01:37"
+    },
     {
       "title": "白沙屯媽祖進香明起走 張嘉郡推「雲林嘉郡」束口袋結緣 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQVkZZVFViV1h6RXM5NUxsSmFqQWJiMGZ1NWRzei1KT0JLbW1zMnFoTUtfVEhNaHhNZUJ6YTVzbVBHVWxWeFBBUjVfMDN2U3FQTkhLdlBhLVFCMUV0c2FxSHVUS3NNbHl6cWJkZjBNU2liOWpkQllpN3Y3SHdFMU9IU1oyU1dSbDhldFhNbTdNd2N5aE1iMUhFR183R3ZKMzZ1b0VQNXMtTy12eG1WaWFBV25hZGRJcmlxRmF1MDN0NEtLOWxOZEkwT0FfN1VFd09LeXlzaFN6V2g5Tk9HMzFFd0RvNHpmUnJYclBhUHQzQ0RNdWVJdm5qcWkyaVhLbXNzRGxsNFE3WmM5bElRTVpFT05EX280aHNXdjlQSFIwRFByT0I3RG4xRVVqVjBwUi1QSjNXUGVOMFBZMkVFYThMakhRelBoQktXcE9Ncm4tLVBzREZkUVl3aTBKcWpZRkxlNUVLSlJfZWxaekU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -517,6 +540,11 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "劉建國邀集內政部南下雲林 強化城鄉環境品質提升防洪排水能力 - TDN台灣生活新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwLUozQ0tmc0RLTGp3Z1duSjdHZVl2RFVjLWkxUllGalZlU3h3SXBWVXpReFUtQmRGcDRlVWNrTFF2MVF0ejA3M1hIRUg4VklM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-11 18:01:37"
+    },
     {
       "title": "白沙屯媽祖進香明起走 張嘉郡推「雲林嘉郡」束口袋結緣 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQVkZZVFViV1h6RXM5NUxsSmFqQWJiMGZ1NWRzei1KT0JLbW1zMnFoTUtfVEhNaHhNZUJ6YTVzbVBHVWxWeFBBUjVfMDN2U3FQTkhLdlBhLVFCMUV0c2FxSHVUS3NNbHl6cWJkZjBNU2liOWpkQllpN3Y3SHdFMU9IU1oyU1dSbDhldFhNbTdNd2N5aE1iMUhFR183R3ZKMzZ1b0VQNXMtTy12eG1WaWFBV25hZGRJcmlxRmF1MDN0NEtLOWxOZEkwT0FfN1VFd09LeXlzaFN6V2g5Tk9HMzFFd0RvNHpmUnJYclBhUHQzQ0RNdWVJdm5qcWkyaVhLbXNzRGxsNFE3WmM5bElRTVpFT05EX280aHNXdjlQSFIwRFByT0I3RG4xRVVqVjBwUi1QSjNXUGVOMFBZMkVFYThMakhRelBoQktXcE9Ncm4tLVBzREZkUVl3aTBKcWpZRkxlNUVLSlJfZWxaekU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -611,11 +639,6 @@
       "title": "張嘉郡雙軸布局運動新治理 興建大西螺運動中心 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkJfb3E0NF84TXRIMEoyMnpTdWREQzIwaXRFQV8zcHlBQkhLV0Z4TDh4dHd6ZU1mdm1kVmdaM1ppSmNHbnFYWWJlRU5NQWd0dXVzcUxHS0FaWnE2OGttZzdGcTJYY1FRaGRzbTM2MzRzTWVRb3FVeDdVdVZDbmxidVJkWE1SVUZwMGlwYldtYm1WT0RpR1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-09 21:39:57"
-    },
-    {
-      "title": "推動雲林交通發展 劉建國邀陳世凱視察 - 臺灣導報",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSY3BpbnZua1ZwVmI1cUlXMmRma2d5WDFwSWRyTjltaXlKOHczT3BSQ3RUeVFDN21YbXhOdDZ0eXdUMFhOSnVKb0cwTG54MkM5ekpZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-09 19:00:44"
     }
   ],
   "latest_facebook_20": [
@@ -722,6 +745,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "劉建國邀集內政部南下雲林 強化城鄉環境品質提升防洪排水能力 - TDN台灣生活新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwLUozQ0tmc0RLTGp3Z1duSjdHZVl2RFVjLWkxUllGalZlU3h3SXBWVXpReFUtQmRGcDRlVWNrTFF2MVF0ejA3M1hIRUg4VklM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-11 18:01:37"
+    },
+    {
       "title": "白沙屯媽祖進香明起走 張嘉郡推「雲林嘉郡」束口袋結緣 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQVkZZVFViV1h6RXM5NUxsSmFqQWJiMGZ1NWRzei1KT0JLbW1zMnFoTUtfVEhNaHhNZUJ6YTVzbVBHVWxWeFBBUjVfMDN2U3FQTkhLdlBhLVFCMUV0c2FxSHVUS3NNbHl6cWJkZjBNU2liOWpkQllpN3Y3SHdFMU9IU1oyU1dSbDhldFhNbTdNd2N5aE1iMUhFR183R3ZKMzZ1b0VQNXMtTy12eG1WaWFBV25hZGRJcmlxRmF1MDN0NEtLOWxOZEkwT0FfN1VFd09LeXlzaFN6V2g5Tk9HMzFFd0RvNHpmUnJYclBhUHQzQ0RNdWVJdm5qcWkyaVhLbXNzRGxsNFE3WmM5bElRTVpFT05EX280aHNXdjlQSFIwRFByT0I3RG4xRVVqVjBwUi1QSjNXUGVOMFBZMkVFYThMakhRelBoQktXcE9Ncm4tLVBzREZkUVl3aTBKcWpZRkxlNUVLSlJfZWxaekU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-11 14:33:45"
@@ -815,11 +843,6 @@
       "title": "張嘉郡雙軸布局運動新治理 興建大西螺運動中心 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkJfb3E0NF84TXRIMEoyMnpTdWREQzIwaXRFQV8zcHlBQkhLV0Z4TDh4dHd6ZU1mdm1kVmdaM1ppSmNHbnFYWWJlRU5NQWd0dXVzcUxHS0FaWnE2OGttZzdGcTJYY1FRaGRzbTM2MzRzTWVRb3FVeDdVdVZDbmxidVJkWE1SVUZwMGlwYldtYm1WT0RpR1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-09 21:39:57"
-    },
-    {
-      "title": "推動雲林交通發展 劉建國邀陳世凱視察 - 臺灣導報",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSY3BpbnZua1ZwVmI1cUlXMmRma2d5WDFwSWRyTjltaXlKOHczT3BSQ3RUeVFDN21YbXhOdDZ0eXdUMFhOSnVKb0cwTG54MkM5ekpZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-09 19:00:44"
     }
   ],
   "person_sections": {
@@ -1104,6 +1127,11 @@
       ],
       "news": [
         {
+          "title": "劉建國邀集內政部南下雲林 強化城鄉環境品質提升防洪排水能力 - TDN台灣生活新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwLUozQ0tmc0RLTGp3Z1duSjdHZVl2RFVjLWkxUllGalZlU3h3SXBWVXpReFUtQmRGcDRlVWNrTFF2MVF0ejA3M1hIRUg4VklM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-11 18:01:37"
+        },
+        {
           "title": "劉建國邀內政部董建宏次長南下雲林 實勘提升城鄉新風貌與排水韌性 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOWU5NU2hjYk9KMEs3MW4zZUs5aVZFc3Z1bkdqQlI4ZU1QcmJMSU44YW5aSW9fSDFjOXozZTVYTUNvVUUwNXd0aHpqR1lxZEppZTVZVDAtV3JhWGctR0V2TXNuTzZLbUk0aWNLTVVFWGczNDhCWlc4bk1WVXhJWGpEUlB4N0UzRWhlZkZqVlRLSGRUaW1faTgydEpELXo5YnhRcU9hSW10Y3pmUkdRZTBEY1ZuYU4ydjlJQi1ia1JlWUl0WUpnRDVid2I4M2xhNEtDMWxGRG00UWc1cFJJWE5rUnRTY2xRVS1OTTBUYVdMaHV5T1BTck9lOHVRUXRGSWZNUXZTclhTdzZyY0ZUaV9EZWFpTW5pWXVEODk4WDQxYnZnT1dSdjhMZGJIeFRVMmUweVYxc0gzbGJocXVCR0V2TUc1cVZJYkxUT0xGeTVMWXlvWmpLbjl0Q0dLTmtvRHNaeUprUjNWaEFXeTlvWktSdzgxNkpIWXc1VFN6U0h2T2JTQ3Q4VGlrZmNfRnNxLUc1em15MzBDQko3UWEwRWtTam5ZRXJPLVZBTXNEMTFicmlaR0VXYXhMZ01XYUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-11 00:09:05"
@@ -1197,17 +1225,17 @@
           "title": "大蒜災損嚴重 立委劉建國邀農業部現勘 次長胡忠一允諾：天然災害救助火速核定 - PChome Online 新聞",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRndkRjd4RktBam1OSG1SUFhqcW13dzNJXzBma05uYmdVMzJnVGhNU1RzQXkyTm1VSFl2T2JOZkJEZzBFRkFyOUs5aUg2M3Jtd0dwWmZBdmJJMHAwSUFhVlc1RUZ4NHZhUF9vWWpOQ3ltWjFSZlFUN0JTQi14aXVLWWxXS05ZeGZLekd5cQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-09 14:55:26"
-        },
-        {
-          "title": "麥寮電廠燃煤機組擬重啟 蘇清泉劉建國同聲質疑恐危害健康 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOVDlrY09lMnJnMTdzVWZiVHBPYVpVYTFvT1huVFc3UUQybGdrLXpfZGVZVV95SkJQSjhGMTdEX2lmRVlCbk5DajZoR21JdlZmRy1SSEQ5NU05ODM5aG1qSjRLR0lwTW15cGEyMUVNdVVraUZrM0hodmhCRk5iSTJYTTQ4YzdkeGtVcE44Q0E0UXR2eWJQa3RMRVQ3TVlSTjRCTTlRM1JOMno2RVVlYXB0OFZxT1JaZ2MteEJVamdDQnByZ1lra294VmdPNUlBcUI4SW1McEpwVE5WUl9BWE1KS1RJVXRPM1Z1dWRpTDlQai1ENTZLRWcyVjQxMktiRXhGaVk1VnVaM0dYaFVQZE5iQTlodUZNY1pnb3dJRVRUYkRQYWxqX1JDTjc0cjdTQ0xHQXBBdVpvbENDT29tc0VldjhZWVNVNGphSEpDLVc2TGlsM0hwaklDUHItWlNQSUlvb3ZMRElicE9OWWg4N1V2TGhpWTBVWkZSLVhJb09fYWcwN3BvVEE4V2ExZkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-09 12:43:00"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國邀集內政部南下雲林 強化城鄉環境品質提升防洪排水能力 - TDN台灣生活新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwLUozQ0tmc0RLTGp3Z1duSjdHZVl2RFVjLWkxUllGalZlU3h3SXBWVXpReFUtQmRGcDRlVWNrTFF2MVF0ejA3M1hIRUg4VklM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-11 18:01:37"
+      },
       {
         "title": "白沙屯媽祖進香明起走 張嘉郡推「雲林嘉郡」束口袋結緣 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQVkZZVFViV1h6RXM5NUxsSmFqQWJiMGZ1NWRzei1KT0JLbW1zMnFoTUtfVEhNaHhNZUJ6YTVzbVBHVWxWeFBBUjVfMDN2U3FQTkhLdlBhLVFCMUV0c2FxSHVUS3NNbHl6cWJkZjBNU2liOWpkQllpN3Y3SHdFMU9IU1oyU1dSbDhldFhNbTdNd2N5aE1iMUhFR183R3ZKMzZ1b0VQNXMtTy12eG1WaWFBV25hZGRJcmlxRmF1MDN0NEtLOWxOZEkwT0FfN1VFd09LeXlzaFN6V2g5Tk9HMzFFd0RvNHpmUnJYclBhUHQzQ0RNdWVJdm5qcWkyaVhLbXNzRGxsNFE3WmM5bElRTVpFT05EX280aHNXdjlQSFIwRFByT0I3RG4xRVVqVjBwUi1QSjNXUGVOMFBZMkVFYThMakhRelBoQktXcE9Ncm4tLVBzREZkUVl3aTBKcWpZRkxlNUVLSlJfZWxaekU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1284,6 +1312,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "劉建國邀集內政部南下雲林 強化城鄉環境品質提升防洪排水能力 - TDN台灣生活新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwLUozQ0tmc0RLTGp3Z1duSjdHZVl2RFVjLWkxUllGalZlU3h3SXBWVXpReFUtQmRGcDRlVWNrTFF2MVF0ejA3M1hIRUg4VklM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-11 18:01:37"
+      },
       {
         "title": "白沙屯媽祖進香明起走 張嘉郡推「雲林嘉郡」束口袋結緣 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQVkZZVFViV1h6RXM5NUxsSmFqQWJiMGZ1NWRzei1KT0JLbW1zMnFoTUtfVEhNaHhNZUJ6YTVzbVBHVWxWeFBBUjVfMDN2U3FQTkhLdlBhLVFCMUV0c2FxSHVUS3NNbHl6cWJkZjBNU2liOWpkQllpN3Y3SHdFMU9IU1oyU1dSbDhldFhNbTdNd2N5aE1iMUhFR183R3ZKMzZ1b0VQNXMtTy12eG1WaWFBV25hZGRJcmlxRmF1MDN0NEtLOWxOZEkwT0FfN1VFd09LeXlzaFN6V2g5Tk9HMzFFd0RvNHpmUnJYclBhUHQzQ0RNdWVJdm5qcWkyaVhLbXNzRGxsNFE3WmM5bElRTVpFT05EX280aHNXdjlQSFIwRFByT0I3RG4xRVVqVjBwUi1QSjNXUGVOMFBZMkVFYThMakhRelBoQktXcE9Ncm4tLVBzREZkUVl3aTBKcWpZRkxlNUVLSlJfZWxaekU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1477,11 +1510,6 @@
       {
         "title": "劉建國邀交通部長陳世凱南下雲林 推動交通大躍進 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOMmJWSnZrR3RfN2FSSERjdnA3djktVVlxdk1rcGZxMURUZG1oSzFDYllCS3RCd0ZvRHRPYjNvRHMtbVpjN0lkMHdmVnV3d01yRDAtRHAtV0pSX213X3QzOFoyUlZuZGtvVzNKVGNhRFZ2REplYVEtVkFxSVhwd2hZdHk1MGJ2TnlqX3l0WElxc3V1YlZNMmxlYS1vTDZMZ2hWeDQ3Sl9mREdEU1FUaDhFdEdGaEpHSlVXVmFlVmFiQUpUUG13a2l4eER1OTZRRVZxVmRzUUVlNmItUnVDTWFSRXF3TWpYQzRUMEp6bG9vNU5nNEhCVnMtbGVzOGprTjBTdHVNWTlTV0loZ3BMQVNKM0ZlVjJCT3ZodWt3SHl3RXo2S3VKT3Q1enF5SDI0bG5oN3piU0VHYWJNUXh3M3hjVXlUM05vT3lUbGhkUW5JOTNiX21qdWZua3FKLUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-08 16:54:17"
-      },
-      {
-        "title": "劉建國邀交通部長陳世凱南下雲林 推動交通大躍進 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM1JQTWN5OHItdEhCcTlNU256Wm9zcXJtZHhOQ0xiTXF5RmlBUVBYWHRhTDZJci1fdGJMNXA3Sl9IeEV1YUt1bERlMkVicnVnUzVsVVRfQktHX0lTRWxuYzRWRWs5bldxX1B6Z1NhVEI5eUhvYVdvSTNhbk9NaENxVFJYdFp2dnFueS05dGh3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-08 16:54:17"
       }
     ],
@@ -1710,6 +1738,13 @@
     "hour": [],
     "day": [
       {
+        "title": "劉建國邀集內政部南下雲林 強化城鄉環境品質提升防洪排水能力 - TDN台灣生活新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwLUozQ0tmc0RLTGp3Z1duSjdHZVl2RFVjLWkxUllGalZlU3h3SXBWVXpReFUtQmRGcDRlVWNrTFF2MVF0ejA3M1hIRUg4VklM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-11 18:01:37",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "義光教會（林宅血案發生地）已正式成為國家認證「具 #轉型正義 意涵場址」。今天用影片帶大家走讀，一起用記憶對抗遺忘，讓公義光照台灣。 #范雲",
         "url": "https://www.youtube.com/shorts/HWMIY5F_KnE",
         "time": "2026-04-11 15:24:56",
@@ -1813,7 +1848,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 10
+        "count": 11
       },
       {
         "name": "斗六",
