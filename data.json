@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-04-11T10:11:40.035071+00:00",
+  "generated_at": "2026-04-11T10:26:42.545058+00:00",
   "metrics": {
-    "total_24h": 15,
+    "total_24h": 17,
     "prev_24h": 14,
-    "growth_pct": 7.14,
-    "news_24h": 12,
+    "growth_pct": 21.43,
+    "news_24h": 13,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 151,
+    "total": 153,
     "prev": 119,
-    "growth_pct": 26.89,
-    "news": 108,
+    "growth_pct": 28.57,
+    "news": 109,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,17 +28,17 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 12
+      "count": 13
     },
     {
       "platform": "youtube",
-      "count": 3
+      "count": 4
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 108
+      "count": 109
     },
     {
       "platform": "facebook",
@@ -46,7 +46,7 @@
     },
     {
       "platform": "youtube",
-      "count": 12
+      "count": 13
     }
   ],
   "by_hour": [
@@ -88,7 +88,7 @@
     },
     {
       "hour": "2026-04-11 18:00",
-      "count": 1
+      "count": 3
     }
   ],
   "by_hour_7d": [
@@ -326,17 +326,26 @@
     },
     {
       "hour": "2026-04-11 18:00",
-      "count": 1
+      "count": 3
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 12
+      "count": 13
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國邀內政部會勘 強化雲林排水韌性 - 臺灣導報",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xVmJPY2R2bzZLMlRoVGF1MzhCMEt1RWdtdnE4OFdBOE56T0tuNGJPZFdCcWVwcXVqb3d5VnpyVlRWWTVXT1preW92Ui1rWnB4MkpR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-11 18:10:53"
+      },
       {
         "title": "劉建國邀集內政部南下雲林 強化城鄉環境品質提升防洪排水能力 - TDN台灣生活新聞",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwLUozQ0tmc0RLTGp3Z1duSjdHZVl2RFVjLWkxUllGalZlU3h3SXBWVXpReFUtQmRGcDRlVWNrTFF2MVF0ejA3M1hIRUg4VklM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -396,17 +405,33 @@
         "title": "劉建國邀內政部次長南下會勘 強化雲林排水韌性與城鄉新風貌 - 台灣民眾電子報",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VdTZwY0hYYi1vZDRMYmJsc0dzUEZGdjdKM2FNZlNsdm00NE02SDdfR3hLMkFGOUgxbU5qSEtxTjEwa1dqMlI4eA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-10 19:42:05"
+      }
+    ],
+    "youtube": [
+      {
+        "title": "劉建國邀內政部會勘 加強雲林防洪排水能力 雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=maNC6Lf_OBw",
+        "time": "2026-04-11 18:04:03"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 12
+      "count": 13
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國邀內政部會勘 強化雲林排水韌性 - 臺灣導報",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xVmJPY2R2bzZLMlRoVGF1MzhCMEt1RWdtdnE4OFdBOE56T0tuNGJPZFdCcWVwcXVqb3d5VnpyVlRWWTVXT1preW92Ui1rWnB4MkpR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-11 18:10:53"
+      },
       {
         "title": "劉建國邀集內政部南下雲林 強化城鄉環境品質提升防洪排水能力 - TDN台灣生活新聞",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwLUozQ0tmc0RLTGp3Z1duSjdHZVl2RFVjLWkxUllGalZlU3h3SXBWVXpReFUtQmRGcDRlVWNrTFF2MVF0ejA3M1hIRUg4VklM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -467,17 +492,29 @@
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VdTZwY0hYYi1vZDRMYmJsc0dzUEZGdjdKM2FNZlNsdm00NE02SDdfR3hLMkFGOUgxbU5qSEtxTjEwa1dqMlI4eA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-10 19:42:05"
       }
+    ],
+    "youtube": [
+      {
+        "title": "劉建國邀內政部會勘 加強雲林防洪排水能力 雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=maNC6Lf_OBw",
+        "time": "2026-04-11 18:04:03"
+      }
     ]
   },
   "mention_compare_24h": {
     "張嘉郡": 4,
-    "劉建國": 8
+    "劉建國": 10
   },
   "mention_compare_7d": {
     "張嘉郡": 68,
-    "劉建國": 68
+    "劉建國": 70
   },
   "top_news": [
+    {
+      "title": "劉建國邀內政部會勘 強化雲林排水韌性 - 臺灣導報",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xVmJPY2R2bzZLMlRoVGF1MzhCMEt1RWdtdnE4OFdBOE56T0tuNGJPZFdCcWVwcXVqb3d5VnpyVlRWWTVXT1preW92Ui1rWnB4MkpR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-11 18:10:53"
+    },
     {
       "title": "劉建國邀集內政部南下雲林 強化城鄉環境品質提升防洪排水能力 - TDN台灣生活新聞",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwLUozQ0tmc0RLTGp3Z1duSjdHZVl2RFVjLWkxUllGalZlU3h3SXBWVXpReFUtQmRGcDRlVWNrTFF2MVF0ejA3M1hIRUg4VklM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -532,14 +569,14 @@
       "title": "劉建國邀交通部長陳世凱南下雲林　推動交通大躍進 - 鏡週刊Mirror Media",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Id0NuMURFUlpheXZlN1ZjLWtXSVBWM1JVNlY4aWc3dTRXdnZ5TzJrVTJPNDZJMDVfNm5JMXc5Sk5Pdmo2ckRuTGsxSHF4dGw3bzl1OGoxRHY5UW_SAWBBVV95cUxNVGZuRGNjaUdMcE9vVW51UDl1eTlmRnFWY1Ztb3VDNnFJQ3czME1zWFJqbC1ZTVIzX2dEM0MwLVBqMTIwTmxacUh5RjdxbjNtTHV6V29rdnJNVzN1Q0p0SVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-10 20:15:00"
-    },
-    {
-      "title": "劉建國邀內政部次長南下會勘 強化雲林排水韌性與城鄉新風貌 - 台灣民眾電子報",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VdTZwY0hYYi1vZDRMYmJsc0dzUEZGdjdKM2FNZlNsdm00NE02SDdfR3hLMkFGOUgxbU5qSEtxTjEwa1dqMlI4eA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-10 19:42:05"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "劉建國邀內政部會勘 強化雲林排水韌性 - 臺灣導報",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xVmJPY2R2bzZLMlRoVGF1MzhCMEt1RWdtdnE4OFdBOE56T0tuNGJPZFdCcWVwcXVqb3d5VnpyVlRWWTVXT1preW92Ui1rWnB4MkpR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-11 18:10:53"
+    },
     {
       "title": "劉建國邀集內政部南下雲林 強化城鄉環境品質提升防洪排水能力 - TDN台灣生活新聞",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwLUozQ0tmc0RLTGp3Z1duSjdHZVl2RFVjLWkxUllGalZlU3h3SXBWVXpReFUtQmRGcDRlVWNrTFF2MVF0ejA3M1hIRUg4VklM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -633,11 +670,6 @@
     {
       "title": "張嘉郡雙軸布局運動新治理 興建大西螺運動中心 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSkx1ZHBiM1dUZFdGSFh2b0tvUzUwM01yWnZQQzRrc3lPRndTVE83UVhmYUVCeXE5Q085bDVSVE5FOHVTdDRPZkM3RjduQ3liQTBWRGs5Y2NJSWlpaGtNZzBwLUJsZ2hIemhzQnJrT1RSSEZJMUp1dUVXUWFPR3M3X2Y3UEpPdGFoYW5hS2Y5YTRJQ0xTd1YwZlRuaHpBeHRCQy1yd2xSSEpWT040NDZ3dmhvcTRQckd0aHZfcVNjZjcxajNzTDVWeGE5d1BmSVNjckI3ZXZ2dXhmc0VEcGJCRVVWRDBLRWllaWFuZTNMNlJETXZFd0RWQ0t3MllsY2hrVDk0TmVBV2stRDNIQ3dWS21ER29laXhEV091TGdSZVl3Umg3QTF1R0d4OFBpTzYtalJ3YndDWHFhU3JrcHhqRWlvREl2c1VDNFZFeWpqOHE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-09 21:39:57"
-    },
-    {
-      "title": "張嘉郡雙軸布局運動新治理 興建大西螺運動中心 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkJfb3E0NF84TXRIMEoyMnpTdWREQzIwaXRFQV8zcHlBQkhLV0Z4TDh4dHd6ZU1mdm1kVmdaM1ppSmNHbnFYWWJlRU5NQWd0dXVzcUxHS0FaWnE2OGttZzdGcTJYY1FRaGRzbTM2MzRzTWVRb3FVeDdVdVZDbmxidVJkWE1SVUZwMGlwYldtYm1WT0RpR1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-09 21:39:57"
     }
   ],
@@ -745,6 +777,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "劉建國邀內政部會勘 強化雲林排水韌性 - 臺灣導報",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xVmJPY2R2bzZLMlRoVGF1MzhCMEt1RWdtdnE4OFdBOE56T0tuNGJPZFdCcWVwcXVqb3d5VnpyVlRWWTVXT1preW92Ui1rWnB4MkpR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-11 18:10:53"
+    },
+    {
       "title": "劉建國邀集內政部南下雲林 強化城鄉環境品質提升防洪排水能力 - TDN台灣生活新聞",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwLUozQ0tmc0RLTGp3Z1duSjdHZVl2RFVjLWkxUllGalZlU3h3SXBWVXpReFUtQmRGcDRlVWNrTFF2MVF0ejA3M1hIRUg4VklM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-11 18:01:37"
@@ -837,11 +874,6 @@
     {
       "title": "張嘉郡雙軸布局運動新治理 興建大西螺運動中心 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSkx1ZHBiM1dUZFdGSFh2b0tvUzUwM01yWnZQQzRrc3lPRndTVE83UVhmYUVCeXE5Q085bDVSVE5FOHVTdDRPZkM3RjduQ3liQTBWRGs5Y2NJSWlpaGtNZzBwLUJsZ2hIemhzQnJrT1RSSEZJMUp1dUVXUWFPR3M3X2Y3UEpPdGFoYW5hS2Y5YTRJQ0xTd1YwZlRuaHpBeHRCQy1yd2xSSEpWT040NDZ3dmhvcTRQckd0aHZfcVNjZjcxajNzTDVWeGE5d1BmSVNjckI3ZXZ2dXhmc0VEcGJCRVVWRDBLRWllaWFuZTNMNlJETXZFd0RWQ0t3MllsY2hrVDk0TmVBV2stRDNIQ3dWS21ER29laXhEV091TGdSZVl3Umg3QTF1R0d4OFBpTzYtalJ3YndDWHFhU3JrcHhqRWlvREl2c1VDNFZFeWpqOHE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-09 21:39:57"
-    },
-    {
-      "title": "張嘉郡雙軸布局運動新治理 興建大西螺運動中心 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkJfb3E0NF84TXRIMEoyMnpTdWREQzIwaXRFQV8zcHlBQkhLV0Z4TDh4dHd6ZU1mdm1kVmdaM1ppSmNHbnFYWWJlRU5NQWd0dXVzcUxHS0FaWnE2OGttZzdGcTJYY1FRaGRzbTM2MzRzTWVRb3FVeDdVdVZDbmxidVJkWE1SVUZwMGlwYldtYm1WT0RpR1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-09 21:39:57"
     }
   ],
@@ -1127,6 +1159,11 @@
       ],
       "news": [
         {
+          "title": "劉建國邀內政部會勘 強化雲林排水韌性 - 臺灣導報",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xVmJPY2R2bzZLMlRoVGF1MzhCMEt1RWdtdnE4OFdBOE56T0tuNGJPZFdCcWVwcXVqb3d5VnpyVlRWWTVXT1preW92Ui1rWnB4MkpR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-11 18:10:53"
+        },
+        {
           "title": "劉建國邀集內政部南下雲林 強化城鄉環境品質提升防洪排水能力 - TDN台灣生活新聞",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwLUozQ0tmc0RLTGp3Z1duSjdHZVl2RFVjLWkxUllGalZlU3h3SXBWVXpReFUtQmRGcDRlVWNrTFF2MVF0ejA3M1hIRUg4VklM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-11 18:01:37"
@@ -1220,17 +1257,17 @@
           "title": "大蒜災損嚴重 立委劉建國邀農業部現勘 次長胡忠一允諾：天然災害救助火速核定 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNYVhveWJFTjJSVWJkWk1kd010LUpVM09ja2tpUnBrVlZFUXQyQUtmUTE0N296LW10aVE4aDNNRnVRVHkwQW9jeW9tS1A2M1Zjb1dDZ3QtREN3NUpMVkVTLXMyeTJUVV9Dbkx1TmNLSlhWTHctQ3lSTWtWRWtTdDFzYi05bnVJNUtKa2VUM29FdS1hY3NMRkY4cFFfY0hLQ0VnX3dVMG1KY2I1bjUtVXlPaGEtRldBV0JOcGVwWk9OVmhoa094N1lyTEN4UEVDQU1tRzlmMXQ5el9OR245bVRJM1VGZ3k4cW1kNWJxMkkwd25IUDl5WFRtNXFaaXpwSTBZTmJzd0xOVjk3S3N4T2E0bmFtYzlGaTJRRzVJZnhwY0pRRTJCS2RLZVJiNmtMdC0wNTJtdFRsdU9zWjhpUnBJWmRIMGtjcVBHU0l6c3BFWlo2NHJtZXBZc1ZEWFZHMUJjUDdqRVhRa0JCYzFZLTVMMGZtNGhPTDRVMnFLRjg3RF9qNXVfRVAtZE03a25kSmFrS05QeXdsUWg5eGlQdFpSN1F1MWNLdVlCRFQ0TmtZRkR1U2R5Ui1VZTlzY1NOODc0Qm5oeWYya3FfMmN1VXpHVGhzbGVSMFRGNk9NcFAxYjkyLUtB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-09 15:07:30"
-        },
-        {
-          "title": "大蒜災損嚴重 立委劉建國邀農業部現勘 次長胡忠一允諾：天然災害救助火速核定 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRndkRjd4RktBam1OSG1SUFhqcW13dzNJXzBma05uYmdVMzJnVGhNU1RzQXkyTm1VSFl2T2JOZkJEZzBFRkFyOUs5aUg2M3Jtd0dwWmZBdmJJMHAwSUFhVlc1RUZ4NHZhUF9vWWpOQ3ltWjFSZlFUN0JTQi14aXVLWWxXS05ZeGZLekd5cQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-09 14:55:26"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國邀內政部會勘 強化雲林排水韌性 - 臺灣導報",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xVmJPY2R2bzZLMlRoVGF1MzhCMEt1RWdtdnE4OFdBOE56T0tuNGJPZFdCcWVwcXVqb3d5VnpyVlRWWTVXT1preW92Ui1rWnB4MkpR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-11 18:10:53"
+      },
       {
         "title": "劉建國邀集內政部南下雲林 強化城鄉環境品質提升防洪排水能力 - TDN台灣生活新聞",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwLUozQ0tmc0RLTGp3Z1duSjdHZVl2RFVjLWkxUllGalZlU3h3SXBWVXpReFUtQmRGcDRlVWNrTFF2MVF0ejA3M1hIRUg4VklM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1294,6 +1331,11 @@
     ],
     "youtube": [
       {
+        "title": "劉建國邀內政部會勘 加強雲林防洪排水能力 雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=maNC6Lf_OBw",
+        "time": "2026-04-11 18:04:03"
+      },
+      {
         "title": "義光教會（林宅血案發生地）已正式成為國家認證「具 #轉型正義 意涵場址」。今天用影片帶大家走讀，一起用記憶對抗遺忘，讓公義光照台灣。 #范雲",
         "url": "https://www.youtube.com/shorts/HWMIY5F_KnE",
         "time": "2026-04-11 15:24:56"
@@ -1312,6 +1354,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "劉建國邀內政部會勘 強化雲林排水韌性 - 臺灣導報",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xVmJPY2R2bzZLMlRoVGF1MzhCMEt1RWdtdnE4OFdBOE56T0tuNGJPZFdCcWVwcXVqb3d5VnpyVlRWWTVXT1preW92Ui1rWnB4MkpR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-11 18:10:53"
+      },
       {
         "title": "劉建國邀集內政部南下雲林 強化城鄉環境品質提升防洪排水能力 - TDN台灣生活新聞",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwLUozQ0tmc0RLTGp3Z1duSjdHZVl2RFVjLWkxUllGalZlU3h3SXBWVXpReFUtQmRGcDRlVWNrTFF2MVF0ejA3M1hIRUg4VklM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1506,11 +1553,6 @@
         "title": "從土地出發《RE-雲林》開展 虎尾建國眷村近百攤市集展永續 | 中華日報 - today.line.me",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kRlNKbnFLakEzclUtdVhsN3QxemlmMUlaX3pvLTNDWmRCVVpzOWpTWFJzajZSTlhhLVc1NFlqRmgtY0wwQTd4cFVfQmFFdkZzX3RnU0lR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-08 17:02:15"
-      },
-      {
-        "title": "劉建國邀交通部長陳世凱南下雲林 推動交通大躍進 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOMmJWSnZrR3RfN2FSSERjdnA3djktVVlxdk1rcGZxMURUZG1oSzFDYllCS3RCd0ZvRHRPYjNvRHMtbVpjN0lkMHdmVnV3d01yRDAtRHAtV0pSX213X3QzOFoyUlZuZGtvVzNKVGNhRFZ2REplYVEtVkFxSVhwd2hZdHk1MGJ2TnlqX3l0WElxc3V1YlZNMmxlYS1vTDZMZ2hWeDQ3Sl9mREdEU1FUaDhFdEdGaEpHSlVXVmFlVmFiQUpUUG13a2l4eER1OTZRRVZxVmRzUUVlNmItUnVDTWFSRXF3TWpYQzRUMEp6bG9vNU5nNEhCVnMtbGVzOGprTjBTdHVNWTlTV0loZ3BMQVNKM0ZlVjJCT3ZodWt3SHl3RXo2S3VKT3Q1enF5SDI0bG5oN3piU0VHYWJNUXh3M3hjVXlUM05vT3lUbGhkUW5JOTNiX21qdWZua3FKLUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-08 16:54:17"
       }
     ],
     "facebook": [
@@ -1672,6 +1714,11 @@
     ],
     "youtube": [
       {
+        "title": "劉建國邀內政部會勘 加強雲林防洪排水能力 雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=maNC6Lf_OBw",
+        "time": "2026-04-11 18:04:03"
+      },
+      {
         "title": "義光教會（林宅血案發生地）已正式成為國家認證「具 #轉型正義 意涵場址」。今天用影片帶大家走讀，一起用記憶對抗遺忘，讓公義光照台灣。 #范雲",
         "url": "https://www.youtube.com/shorts/HWMIY5F_KnE",
         "time": "2026-04-11 15:24:56"
@@ -1737,6 +1784,20 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "劉建國邀內政部會勘 強化雲林排水韌性 - 臺灣導報",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xVmJPY2R2bzZLMlRoVGF1MzhCMEt1RWdtdnE4OFdBOE56T0tuNGJPZFdCcWVwcXVqb3d5VnpyVlRWWTVXT1preW92Ui1rWnB4MkpR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-11 18:10:53",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國邀內政部會勘 加強雲林防洪排水能力 雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=maNC6Lf_OBw",
+        "time": "2026-04-11 18:04:03",
+        "platform": "youtube",
+        "risk": "綠"
+      },
       {
         "title": "劉建國邀集內政部南下雲林 強化城鄉環境品質提升防洪排水能力 - TDN台灣生活新聞",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwLUozQ0tmc0RLTGp3Z1duSjdHZVl2RFVjLWkxUllGalZlU3h3SXBWVXpReFUtQmRGcDRlVWNrTFF2MVF0ejA3M1hIRUg4VklM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1848,7 +1909,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 11
+        "count": 13
       },
       {
         "name": "斗六",
