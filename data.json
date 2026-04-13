@@ -1,27 +1,27 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-04-13T00:02:54.787462+00:00",
+  "generated_at": "2026-04-13T00:17:57.144112+00:00",
   "metrics": {
-    "total_24h": 5,
+    "total_24h": 6,
     "prev_24h": 16,
-    "growth_pct": -68.75,
-    "news_24h": 0,
+    "growth_pct": -62.5,
+    "news_24h": 1,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
-      "baseline_same_hour_7d": 1.5,
+      "baseline_same_hour_7d": 1.0,
       "reasons": []
     }
   },
   "metrics_7d": {
-    "total": 165,
+    "total": 166,
     "prev": 121,
-    "growth_pct": 36.36,
-    "news": 116,
+    "growth_pct": 37.19,
+    "news": 117,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
-      "baseline_same_hour_7d": 1.5,
+      "baseline_same_hour_7d": 1.0,
       "reasons": []
     }
   },
@@ -31,6 +31,10 @@
       "count": 4
     },
     {
+      "platform": "news",
+      "count": 1
+    },
+    {
       "platform": "youtube",
       "count": 1
     }
@@ -38,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 116
+      "count": 117
     },
     {
       "platform": "facebook",
@@ -60,7 +64,7 @@
     },
     {
       "hour": "2026-04-12 18:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-04-13 04:00",
@@ -326,7 +330,7 @@
     },
     {
       "hour": "2026-04-12 18:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-04-13 04:00",
@@ -341,6 +345,10 @@
     {
       "platform": "facebook",
       "count": 3
+    },
+    {
+      "platform": "news",
+      "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
@@ -360,12 +368,23 @@
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZN2VYN1Q2ekppRm94ZWFtak53MWFvb0NPd2hHRFgzM25NdFhLNGRSQ211eEV2VWJaMGx5TUJWOTk0TzlGR2RwRV9lRmNGOTdvc0lBNVRwb0JldmwxRUNsVUpPT2ZBODZvUXp4WFZiNkU5MS10YW84NHBGSQ",
         "time": "2026-04-12 17:43:09"
       }
+    ],
+    "news": [
+      {
+        "title": "討論牆 | 張嘉郡推在宅醫療升級 科技大數據守護長者健康 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xZUZBQjNWVEJpR1E3bEpaNWVMdlpUTUZmSXpIZDJoOFZJeGNudjZkWTRtM1FEZExUUEMtNkNSZWdXVmdBTDI0cllXWFV1S3BzLXdMYmdFc2RYSXdHMWFFdi1kUXQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-12 18:23:59"
+      }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "facebook",
       "count": 3
+    },
+    {
+      "platform": "news",
+      "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
@@ -385,18 +404,36 @@
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZN2VYN1Q2ekppRm94ZWFtak53MWFvb0NPd2hHRFgzM25NdFhLNGRSQ211eEV2VWJaMGx5TUJWOTk0TzlGR2RwRV9lRmNGOTdvc0lBNVRwb0JldmwxRUNsVUpPT2ZBODZvUXp4WFZiNkU5MS10YW84NHBGSQ",
         "time": "2026-04-12 17:43:09"
       }
+    ],
+    "news": [
+      {
+        "title": "討論牆 | 張嘉郡推在宅醫療升級 科技大數據守護長者健康 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xZUZBQjNWVEJpR1E3bEpaNWVMdlpUTUZmSXpIZDJoOFZJeGNudjZkWTRtM1FEZExUUEMtNkNSZWdXVmdBTDI0cllXWFV1S3BzLXdMYmdFc2RYSXdHMWFFdi1kUXQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-12 18:23:59"
+      }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 2,
+    "張嘉郡": 3,
     "劉建國": 1
   },
   "mention_compare_7d": {
-    "張嘉郡": 74,
+    "張嘉郡": 75,
     "劉建國": 75
   },
-  "top_news": [],
+  "top_news": [
+    {
+      "title": "討論牆 | 張嘉郡推在宅醫療升級 科技大數據守護長者健康 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xZUZBQjNWVEJpR1E3bEpaNWVMdlpUTUZmSXpIZDJoOFZJeGNudjZkWTRtM1FEZExUUEMtNkNSZWdXVmdBTDI0cllXWFV1S3BzLXdMYmdFc2RYSXdHMWFFdi1kUXQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-12 18:23:59"
+    }
+  ],
   "top_news_7d": [
+    {
+      "title": "討論牆 | 張嘉郡推在宅醫療升級 科技大數據守護長者健康 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xZUZBQjNWVEJpR1E3bEpaNWVMdlpUTUZmSXpIZDJoOFZJeGNudjZkWTRtM1FEZExUUEMtNkNSZWdXVmdBTDI0cllXWFV1S3BzLXdMYmdFc2RYSXdHMWFFdi1kUXQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-12 18:23:59"
+    },
     {
       "title": "白沙屯媽祖徒步進香登場 張嘉郡攜信徒發創意束口袋結緣 - 元丰傳媒",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0STVTSDhwbFFnbGFjMkpVMTEtdFp6RWlmbWxOUEp1WDQ4TklHcHpybkt1X0N2c1VJN2JIbnBaTkNreUl5dlBVMW5oMnFGaWpwelhVR2dHQ24zNy1wYVRCQ3diajBDNk5w?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -491,11 +528,6 @@
       "title": "劉建國邀交通部長陳世凱南下雲林　推動交通大躍進 - 鏡週刊Mirror Media",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UZm5EY2NpR0xwT29VbnVQOXV5OWZGcVZjVm1vdUM2cUlDdzMwTXNYUmpsLVlNUjNfZ0QzQzAtUGoxMjBObFpxSHlGN3FuM21MdXpXb2t2ck1XM3VDSnRJUdIBYEFVX3lxTE1UZm5EY2NpR0xwT29VbnVQOXV5OWZGcVZjVm1vdUM2cUlDdzMwTXNYUmpsLVlNUjNfZ0QzQzAtUGoxMjBObFpxSHlGN3FuM21MdXpXb2t2ck1XM3VDSnRJUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-10 20:15:00"
-    },
-    {
-      "title": "劉建國邀內政部次長南下會勘 強化雲林排水韌性與城鄉新風貌 - 台灣民眾電子報",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VdTZwY0hYYi1vZDRMYmJsc0dzUEZGdjdKM2FNZlNsdm00NE02SDdfR3hLMkFGOUgxbU5qSEtxTjEwa1dqMlI4eA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-10 19:42:05"
     }
   ],
   "latest_facebook_20": [
@@ -602,6 +634,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "討論牆 | 張嘉郡推在宅醫療升級 科技大數據守護長者健康 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xZUZBQjNWVEJpR1E3bEpaNWVMdlpUTUZmSXpIZDJoOFZJeGNudjZkWTRtM1FEZExUUEMtNkNSZWdXVmdBTDI0cllXWFV1S3BzLXdMYmdFc2RYSXdHMWFFdi1kUXQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-12 18:23:59"
+    },
+    {
       "title": "白沙屯媽祖徒步進香登場 張嘉郡攜信徒發創意束口袋結緣 - 元丰傳媒",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0STVTSDhwbFFnbGFjMkpVMTEtdFp6RWlmbWxOUEp1WDQ4TklHcHpybkt1X0N2c1VJN2JIbnBaTkNreUl5dlBVMW5oMnFGaWpwelhVR2dHQ24zNy1wYVRCQ3diajBDNk5w?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-12 00:14:58"
@@ -695,11 +732,6 @@
       "title": "劉建國邀交通部長陳世凱南下雲林　推動交通大躍進 - 鏡週刊Mirror Media",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UZm5EY2NpR0xwT29VbnVQOXV5OWZGcVZjVm1vdUM2cUlDdzMwTXNYUmpsLVlNUjNfZ0QzQzAtUGoxMjBObFpxSHlGN3FuM21MdXpXb2t2ck1XM3VDSnRJUdIBYEFVX3lxTE1UZm5EY2NpR0xwT29VbnVQOXV5OWZGcVZjVm1vdUM2cUlDdzMwTXNYUmpsLVlNUjNfZ0QzQzAtUGoxMjBObFpxSHlGN3FuM21MdXpXb2t2ck1XM3VDSnRJUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-10 20:15:00"
-    },
-    {
-      "title": "劉建國邀內政部次長南下會勘 強化雲林排水韌性與城鄉新風貌 - 台灣民眾電子報",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VdTZwY0hYYi1vZDRMYmJsc0dzUEZGdjdKM2FNZlNsdm00NE02SDdfR3hLMkFGOUgxbU5qSEtxTjEwa1dqMlI4eA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-10 19:42:05"
     }
   ],
   "person_sections": {
@@ -782,6 +814,11 @@
         }
       ],
       "news": [
+        {
+          "title": "討論牆 | 張嘉郡推在宅醫療升級 科技大數據守護長者健康 - LINE TODAY",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xZUZBQjNWVEJpR1E3bEpaNWVMdlpUTUZmSXpIZDJoOFZJeGNudjZkWTRtM1FEZExUUEMtNkNSZWdXVmdBTDI0cllXWFV1S3BzLXdMYmdFc2RYSXdHMWFFdi1kUXQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-12 18:23:59"
+        },
         {
           "title": "白沙屯媽祖徒步進香登場 張嘉郡攜信徒發創意束口袋結緣 - 元丰傳媒",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0STVTSDhwbFFnbGFjMkpVMTEtdFp6RWlmbWxOUEp1WDQ4TklHcHpybkt1X0N2c1VJN2JIbnBaTkNreUl5dlBVMW5oMnFGaWpwelhVR2dHQ24zNy1wYVRCQ3diajBDNk5w?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -876,11 +913,6 @@
           "title": "節省燃油! 張嘉郡呼籲居家上班 經濟部回應! - MSN",
           "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOSzJyVzJqWlNPLW5oODZURDZNRElPamF0LS1rTXVRd2JKbC1DYVIwdE10SlBaYWdFLWRKcFlZaGF1QTdVR2Q5OXk3SzJ3NDQwNlltRy1XUlhpbEt1Z1cxckE5MmFpSC1paU16MWd2STh0Y2ZQOVBkVHZVVXdjRVNUcmphaHdNaGxzallaSnRXSGo2akV5U3BQdXU1bDk3bDVkZ1lTcVpoV1Z3SFp1VmNZeGlGTTZYVnFRc0lhaEYyNXlGSVpqaVAtS3VTZ0lhM2drNTFZUHJTdDdkWnpHLWJtSFR4UjRWcGZoZ3lReXdMOTRpMUhpV3hOWnY4VzdIUDNUdFlILUF5bEg3Y2d1aDJ6bWF3NnJmRExXVVJyR2k5d1lTQXJBbGdBX1IxdjIyWEtCMjZlZ1dUOGdZZXgxalNvWA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-08 12:38:35"
-        },
-        {
-          "title": "節省燃油！張嘉郡呼籲居家上班 經濟部回應！ - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOWXByODFjTGVoVFMyZXdkajlRUTlKVGIyOFpEcVFMVlp3Sk1BZ3pXcVBnMDZyTVZocl9wa0xUWExnWWxKSEZ3SlNtR0dSWVBiX2lvendwUkwzUnZSM19TTUNZa3ZwX3RHOEJ3T0l4R3prSDUwWi1Cel84X1FrWDJzX29zdDBmWmJTNjl6MHNTTGtNOXJicktXWF9TbEgtU0lLdE93NlRxM0VxdHJKem1PMXdGX2xhZHdBZlI0SkxpanlfYjB6TjlLYWJobWVrVkUxX3VydWc5OWFfUEtMU2VwbFRBWlY1Y1IwbnhSbGtMbzV2M1hTVS1OekZVZkRfX3l5OTRIRXp3WmJWN3llektZLVJMMWtFV3BLXzR3WElsMm9sMWdwZ2t4ZDI2Q0VVUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-08 12:03:48"
         }
       ]
     },
@@ -1114,6 +1146,13 @@
         "time": "2026-04-12 17:43:09"
       }
     ],
+    "news": [
+      {
+        "title": "討論牆 | 張嘉郡推在宅醫療升級 科技大數據守護長者健康 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xZUZBQjNWVEJpR1E3bEpaNWVMdlpUTUZmSXpIZDJoOFZJeGNudjZkWTRtM1FEZExUUEMtNkNSZWdXVmdBTDI0cllXWFV1S3BzLXdMYmdFc2RYSXdHMWFFdi1kUXQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-12 18:23:59"
+      }
+    ],
     "youtube": [
       {
         "title": "全台最受矚目的宗教盛事——「白沙屯媽祖北港進香」即將展開！",
@@ -1124,6 +1163,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "討論牆 | 張嘉郡推在宅醫療升級 科技大數據守護長者健康 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xZUZBQjNWVEJpR1E3bEpaNWVMdlpUTUZmSXpIZDJoOFZJeGNudjZkWTRtM1FEZExUUEMtNkNSZWdXVmdBTDI0cllXWFV1S3BzLXdMYmdFc2RYSXdHMWFFdi1kUXQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-12 18:23:59"
+      },
       {
         "title": "白沙屯媽祖徒步進香登場 張嘉郡攜信徒發創意束口袋結緣 - 元丰傳媒",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0STVTSDhwbFFnbGFjMkpVMTEtdFp6RWlmbWxOUEp1WDQ4TklHcHpybkt1X0N2c1VJN2JIbnBaTkNreUl5dlBVMW5oMnFGaWpwelhVR2dHQ24zNy1wYVRCQ3diajBDNk5w?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1318,11 +1362,6 @@
         "title": "麥寮電廠燃煤機組擬重啟 蘇清泉劉建國同聲質疑恐危害健康 - PChome Online新聞",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS2szSm1JS25EMjI1TlFVaXBYSDluRGdGWTVwaFNRVWJUbFUwYldENlpSTFFRcVJxeDZFTkR1MUlQUE42ZV9wbjR3MUY4MHlJVUxvdmpCVmtUWGZxeWZva1dhTXpiTE5adVZXQkx4N196N2dVWG5GQ2RSUzNzOEpGUjBJLTZhNFhPYnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-09 12:32:44"
-      },
-      {
-        "title": "討論牆 | 丁學忠\"罷免案不通過\" 罷團志工難掩低落數度哽咽 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rU212VkZvdmFzaW95WjRVQU1kbzFXUVhDbXZiS05Icm40NFpjZU9pY0FJTW1oZ00xTGFxeWlKUFdrd1diUmNBQTREbjNDeWVKVHRwS0xNLUliSEIzUjUzSnNzTmw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-09 03:36:46"
       }
     ],
     "facebook": [
@@ -1598,6 +1637,13 @@
         "url": "https://news.google.com/rss/articles/CBMiiwZBVV95cUxOQUR5cjhWYWZIUVZidUwxUnpUdDRPalR0eDlyUnk2dUlTQTc5dDk1ektyTXBiWklfUUNoWW5IajlMYTg0TUE1T2xCMWF4SlRRdTR5eDZjODNCNktBTTV6REVxbUNyVnZ1bTZqRnlNVTlfaHM1Y2lrZ0k0QmhIMlRPYm9Ta3Fwb1UwNElzeHpjY0tLUkVWeExFUXZETEh4M2wxamxFXzZBWmw3bmhuWXlCYW50dEY3UFVIZTYxbVY3aklWNlZsZmt5TVRBVnZvbG5Oa2F1UWtPWTFJVUR1TUpVcFBvamh2ZHphUEszOEMtUEszaXpHbXp5WU9yd2NfZFhjd3RiYlRHUEpGSGRkS2pDcmpHSHN2STkwWjd4Q0dMWWpxMGJQLUpuMXAwT3I4MkhIbmpnRjk1RVNXcHBIZU5BWUZKNlNZSlRfek5DMVFrUnQ3RV8xVC1BZzhBYVFlYUs1VUFzbUxTQlg1eDJZMHBLcFQzUXkzeVQxdm8wb01TRlFEQ0ZzR0Q4SVBRN2pPZkhST0dBazlTQjY0bmhYUmFCNDhqeU1JZVJld2NNaDg2WnZaaHk2Y0J3U2o5WkhMU3NseFRRZU5DRHl4bDZITlEzTXNDVzd3bTMzQ1RJUXJoMFZLbGFSXzlDZ2NXbjV6QzdINjZ6cTh3dUFlOGFfSVpqYzJIOGtQUlB5UUEtRWJna2hSOHRYSThFU3ZGQ0g2TVNDSGZFd0JFblp6dWJfSWRyMTQ3UDVyTlYwSDZUWmVyUmh2UWJNNkM0TVEwQk53UFd6UWNHTG5SeV8xdXM1Uk9rUmtWalJpM3ViX20yVkEzblpUaTkxVlhDUFpqcHpMRUxFT3BDUmJsLWdiOXU2MERYUTNfbkpzRWtHOUE1dXJUeTVnQ0VUMnZydHNJTGtMdHBiYmZfeXJfTUdHTEJaLXR2YktKdDBtRXZDS3J5QTkta2ZuVVNyNHZaSDFjNGRrSi1lSVhPT2pVc2FnQU91MFQ4LTlFVlNwLWFvLVM0enk2c3dpRzVsT3BzaWU3cw",
         "time": "2026-04-12 18:26:46",
         "platform": "facebook",
+        "risk": "綠"
+      },
+      {
+        "title": "討論牆 | 張嘉郡推在宅醫療升級 科技大數據守護長者健康 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xZUZBQjNWVEJpR1E3bEpaNWVMdlpUTUZmSXpIZDJoOFZJeGNudjZkWTRtM1FEZExUUEMtNkNSZWdXVmdBTDI0cllXWFV1S3BzLXdMYmdFc2RYSXdHMWFFdi1kUXQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-12 18:23:59",
+        "platform": "news",
         "risk": "綠"
       },
       {
