@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-04-19T11:41:28.101368+00:00",
+  "generated_at": "2026-04-19T11:56:33.576136+00:00",
   "metrics": {
-    "total_24h": 11,
+    "total_24h": 13,
     "prev_24h": 7,
-    "growth_pct": 57.14,
-    "news_24h": 9,
+    "growth_pct": 85.71,
+    "news_24h": 11,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 32,
+    "total": 34,
     "prev": 166,
-    "growth_pct": -80.72,
-    "news": 20,
+    "growth_pct": -79.52,
+    "news": 22,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 9
+      "count": 11
     },
     {
       "platform": "facebook",
@@ -38,7 +38,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 20
+      "count": 22
     },
     {
       "platform": "facebook",
@@ -76,6 +76,10 @@
     },
     {
       "hour": "2026-04-19 15:00",
+      "count": 2
+    },
+    {
+      "hour": "2026-04-19 17:00",
       "count": 1
     }
   ],
@@ -166,13 +170,17 @@
     },
     {
       "hour": "2026-04-19 15:00",
+      "count": 2
+    },
+    {
+      "hour": "2026-04-19 17:00",
       "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 9
+      "count": 11
     },
     {
       "platform": "facebook",
@@ -182,8 +190,18 @@
   "mention_latest_by_platform_24h": {
     "news": [
       {
+        "title": "雲林藍白合有譜?柯文哲同框張嘉郡 致詞喊： 未來新縣長 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPWXpzQ2NlMVZIZkVlZG9XRVhBaGpwSlRhZUhqS1JpTmlUNFE1ZVA4ODNicFpib01iM2I0a1VqQU1oVFVOcDQ1SWNTQXNqNWVXMWxBaWdtdVgtSWRiSkR6Sllqb3Z6eVZrSG1DWkkyVW44TEZkWFp2YU9UMERydWJrSEp2dmdEWGhwZXM4N1ZJV0tqYmVubFY0VTA2bnVOOFRnd3l5V3B5YW1XNUZBMUxfUV80MXV2YzlxN3JqaEdJZl9HeXREeVdLSzVuTnQzWFZ2VUhrLVRVSVRnUDhyX1NsekVmRDRFbi1CZndYWGJNQ1M2c0VfLTJlREJadlhlekNWY0NmdnV3dlRKaFhrMHhUckdfVGtYMVh3MjVEUUx3c2JiUkVyYTBlWUhIVzJsaUZGekVPVEpXcEp1dkFxbkdaaVZXc296blNWek9Rc0ZWYmk3NVhJX3ZxbkhJUlFhSmNnV0E4OTFjcG16NVotRE9VMWdCZVNrUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-19 17:49:04"
+      },
+      {
         "title": "柯文哲雲林參拜喊「咱的新縣長」　張嘉郡盼藍白合遍地開花 - 鏡週刊Mirror Media",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhejNZWVBMNm9CalZQUnMxaVo4ZWltUHNQby1pbmNpemlfcUwtVm5PUUNyVE5EeHpTRUZ4LV80cEV2SnVITHpPNExqcDBWWmhxai0tSXZwMW00aDlMeTduVmxObzJhd9IBa0FVX3lxTE5TNTJCdGpTTjBIRkRvQnZxSFBvR2dUV1NYX1ZLUVJEWVFmT1p2WGhzTUp3QkZqNXhsY3Vmd3pjREpsNkZlVG5nVnJ6OVZSZnhSSlVEMHZiQXFaUlR1YW1NNVcxT1VaalFSSUZj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-19 15:33:00"
+      },
+      {
+        "title": "柯文哲雲林參拜喊「咱的新縣長」　張嘉郡盼藍白合遍地開花 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TNTJCdGpTTjBIRkRvQnZxSFBvR2dUV1NYX1ZLUVJEWVFmT1p2WGhzTUp3QkZqNXhsY3Vmd3pjREpsNkZlVG5nVnJ6OVZSZnhSSlVEMHZiQXFaUlR1YW1NNVcxT1VaalFSSUZj0gFrQVVfeXFMTlM1MkJ0alNOMEhGRG9CdnFIUG9HZ1RXU1hfVktRUkRZUWZPWnZYaHNNSndCRmo1eGxjdWZ3emNESmw2RmVUbmdWcno5VlJmeFJKVUQwdmJBcVpSVHVhbU01VzFPVVpqUVJJRmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-19 15:33:00"
       },
       {
@@ -243,7 +261,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 9
+      "count": 11
     },
     {
       "platform": "facebook",
@@ -253,8 +271,18 @@
   "alias_latest_by_platform_24h": {
     "news": [
       {
+        "title": "雲林藍白合有譜?柯文哲同框張嘉郡 致詞喊： 未來新縣長 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPWXpzQ2NlMVZIZkVlZG9XRVhBaGpwSlRhZUhqS1JpTmlUNFE1ZVA4ODNicFpib01iM2I0a1VqQU1oVFVOcDQ1SWNTQXNqNWVXMWxBaWdtdVgtSWRiSkR6Sllqb3Z6eVZrSG1DWkkyVW44TEZkWFp2YU9UMERydWJrSEp2dmdEWGhwZXM4N1ZJV0tqYmVubFY0VTA2bnVOOFRnd3l5V3B5YW1XNUZBMUxfUV80MXV2YzlxN3JqaEdJZl9HeXREeVdLSzVuTnQzWFZ2VUhrLVRVSVRnUDhyX1NsekVmRDRFbi1CZndYWGJNQ1M2c0VfLTJlREJadlhlekNWY0NmdnV3dlRKaFhrMHhUckdfVGtYMVh3MjVEUUx3c2JiUkVyYTBlWUhIVzJsaUZGekVPVEpXcEp1dkFxbkdaaVZXc296blNWek9Rc0ZWYmk3NVhJX3ZxbkhJUlFhSmNnV0E4OTFjcG16NVotRE9VMWdCZVNrUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-19 17:49:04"
+      },
+      {
         "title": "柯文哲雲林參拜喊「咱的新縣長」　張嘉郡盼藍白合遍地開花 - 鏡週刊Mirror Media",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhejNZWVBMNm9CalZQUnMxaVo4ZWltUHNQby1pbmNpemlfcUwtVm5PUUNyVE5EeHpTRUZ4LV80cEV2SnVITHpPNExqcDBWWmhxai0tSXZwMW00aDlMeTduVmxObzJhd9IBa0FVX3lxTE5TNTJCdGpTTjBIRkRvQnZxSFBvR2dUV1NYX1ZLUVJEWVFmT1p2WGhzTUp3QkZqNXhsY3Vmd3pjREpsNkZlVG5nVnJ6OVZSZnhSSlVEMHZiQXFaUlR1YW1NNVcxT1VaalFSSUZj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-19 15:33:00"
+      },
+      {
+        "title": "柯文哲雲林參拜喊「咱的新縣長」　張嘉郡盼藍白合遍地開花 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TNTJCdGpTTjBIRkRvQnZxSFBvR2dUV1NYX1ZLUVJEWVFmT1p2WGhzTUp3QkZqNXhsY3Vmd3pjREpsNkZlVG5nVnJ6OVZSZnhSSlVEMHZiQXFaUlR1YW1NNVcxT1VaalFSSUZj0gFrQVVfeXFMTlM1MkJ0alNOMEhGRG9CdnFIUG9HZ1RXU1hfVktRUkRZUWZPWnZYaHNNSndCRmo1eGxjdWZ3emNESmw2RmVUbmdWcno5VlJmeFJKVUQwdmJBcVpSVHVhbU01VzFPVVpqUVJJRmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-19 15:33:00"
       },
       {
@@ -312,17 +340,27 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 10,
+    "張嘉郡": 12,
     "劉建國": 1
   },
   "mention_compare_7d": {
-    "張嘉郡": 15,
+    "張嘉郡": 17,
     "劉建國": 14
   },
   "top_news": [
     {
+      "title": "雲林藍白合有譜?柯文哲同框張嘉郡 致詞喊： 未來新縣長 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPWXpzQ2NlMVZIZkVlZG9XRVhBaGpwSlRhZUhqS1JpTmlUNFE1ZVA4ODNicFpib01iM2I0a1VqQU1oVFVOcDQ1SWNTQXNqNWVXMWxBaWdtdVgtSWRiSkR6Sllqb3Z6eVZrSG1DWkkyVW44TEZkWFp2YU9UMERydWJrSEp2dmdEWGhwZXM4N1ZJV0tqYmVubFY0VTA2bnVOOFRnd3l5V3B5YW1XNUZBMUxfUV80MXV2YzlxN3JqaEdJZl9HeXREeVdLSzVuTnQzWFZ2VUhrLVRVSVRnUDhyX1NsekVmRDRFbi1CZndYWGJNQ1M2c0VfLTJlREJadlhlekNWY0NmdnV3dlRKaFhrMHhUckdfVGtYMVh3MjVEUUx3c2JiUkVyYTBlWUhIVzJsaUZGekVPVEpXcEp1dkFxbkdaaVZXc296blNWek9Rc0ZWYmk3NVhJX3ZxbkhJUlFhSmNnV0E4OTFjcG16NVotRE9VMWdCZVNrUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-19 17:49:04"
+    },
+    {
       "title": "柯文哲雲林參拜喊「咱的新縣長」　張嘉郡盼藍白合遍地開花 - 鏡週刊Mirror Media",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhejNZWVBMNm9CalZQUnMxaVo4ZWltUHNQby1pbmNpemlfcUwtVm5PUUNyVE5EeHpTRUZ4LV80cEV2SnVITHpPNExqcDBWWmhxai0tSXZwMW00aDlMeTduVmxObzJhd9IBa0FVX3lxTE5TNTJCdGpTTjBIRkRvQnZxSFBvR2dUV1NYX1ZLUVJEWVFmT1p2WGhzTUp3QkZqNXhsY3Vmd3pjREpsNkZlVG5nVnJ6OVZSZnhSSlVEMHZiQXFaUlR1YW1NNVcxT1VaalFSSUZj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-19 15:33:00"
+    },
+    {
+      "title": "柯文哲雲林參拜喊「咱的新縣長」　張嘉郡盼藍白合遍地開花 - 鏡週刊Mirror Media",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TNTJCdGpTTjBIRkRvQnZxSFBvR2dUV1NYX1ZLUVJEWVFmT1p2WGhzTUp3QkZqNXhsY3Vmd3pjREpsNkZlVG5nVnJ6OVZSZnhSSlVEMHZiQXFaUlR1YW1NNVcxT1VaalFSSUZj0gFrQVVfeXFMTlM1MkJ0alNOMEhGRG9CdnFIUG9HZ1RXU1hfVktRUkRZUWZPWnZYaHNNSndCRmo1eGxjdWZ3emNESmw2RmVUbmdWcno5VlJmeFJKVUQwdmJBcVpSVHVhbU01VzFPVVpqUVJJRmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-19 15:33:00"
     },
     {
@@ -368,8 +406,18 @@
   ],
   "top_news_7d": [
     {
+      "title": "雲林藍白合有譜?柯文哲同框張嘉郡 致詞喊： 未來新縣長 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPWXpzQ2NlMVZIZkVlZG9XRVhBaGpwSlRhZUhqS1JpTmlUNFE1ZVA4ODNicFpib01iM2I0a1VqQU1oVFVOcDQ1SWNTQXNqNWVXMWxBaWdtdVgtSWRiSkR6Sllqb3Z6eVZrSG1DWkkyVW44TEZkWFp2YU9UMERydWJrSEp2dmdEWGhwZXM4N1ZJV0tqYmVubFY0VTA2bnVOOFRnd3l5V3B5YW1XNUZBMUxfUV80MXV2YzlxN3JqaEdJZl9HeXREeVdLSzVuTnQzWFZ2VUhrLVRVSVRnUDhyX1NsekVmRDRFbi1CZndYWGJNQ1M2c0VfLTJlREJadlhlekNWY0NmdnV3dlRKaFhrMHhUckdfVGtYMVh3MjVEUUx3c2JiUkVyYTBlWUhIVzJsaUZGekVPVEpXcEp1dkFxbkdaaVZXc296blNWek9Rc0ZWYmk3NVhJX3ZxbkhJUlFhSmNnV0E4OTFjcG16NVotRE9VMWdCZVNrUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-19 17:49:04"
+    },
+    {
       "title": "柯文哲雲林參拜喊「咱的新縣長」　張嘉郡盼藍白合遍地開花 - 鏡週刊Mirror Media",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhejNZWVBMNm9CalZQUnMxaVo4ZWltUHNQby1pbmNpemlfcUwtVm5PUUNyVE5EeHpTRUZ4LV80cEV2SnVITHpPNExqcDBWWmhxai0tSXZwMW00aDlMeTduVmxObzJhd9IBa0FVX3lxTE5TNTJCdGpTTjBIRkRvQnZxSFBvR2dUV1NYX1ZLUVJEWVFmT1p2WGhzTUp3QkZqNXhsY3Vmd3pjREpsNkZlVG5nVnJ6OVZSZnhSSlVEMHZiQXFaUlR1YW1NNVcxT1VaalFSSUZj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-19 15:33:00"
+    },
+    {
+      "title": "柯文哲雲林參拜喊「咱的新縣長」　張嘉郡盼藍白合遍地開花 - 鏡週刊Mirror Media",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TNTJCdGpTTjBIRkRvQnZxSFBvR2dUV1NYX1ZLUVJEWVFmT1p2WGhzTUp3QkZqNXhsY3Vmd3pjREpsNkZlVG5nVnJ6OVZSZnhSSlVEMHZiQXFaUlR1YW1NNVcxT1VaalFSSUZj0gFrQVVfeXFMTlM1MkJ0alNOMEhGRG9CdnFIUG9HZ1RXU1hfVktRUkRZUWZPWnZYaHNNSndCRmo1eGxjdWZ3emNESmw2RmVUbmdWcno5VlJmeFJKVUQwdmJBcVpSVHVhbU01VzFPVVpqUVJJRmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-19 15:33:00"
     },
     {
@@ -456,16 +504,6 @@
       "title": "白沙屯媽祖進香應援！徐國勇、劉建國補給香蕉送暖 - ETtoday新聞雲",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45cDRhcGh4a1ZYQ1hfdnRuQU9IaG9haFo4XzZLWm92SWkxQmxsTndEa3R4Ri15d2NmRkIwM1JLTnBtbzBJcVFvUzhCV2tlLXRiMnJRRHpzdmp6NGlqZlHSAWhBVV95cUxOSGxKTldGV2hZaVA4ZnlWT1I0dGJ4RU1EUWJuYmw2UlBJM2pUQzdYaGZJb0QxZ0pFaGZ3clVJV2NCZDN2dndTQWVCYXViaW1EOTFrZGQ2dExKSVFuRmNpOWVxTWY5UWVfUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-16 18:34:00"
-    },
-    {
-      "title": "白沙屯媽祖抵北港 張麗善、張嘉郡迎駕 (圖) - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPTkhiSGNmWUxLZy1QbWpmTW9rLVROcURPc3pGZHctb2NlbXF0STZ5Y1Y4OE9nTlJiR29US0ZEY1FYSmVielFjVVlCd01nUVJwTFVJTldSVkpkZ3RzdDFhYUc0bUJFa0p4WGJVaFQxRnVpR2dzbWVEN1NNcXppeXFpZ28wbEVkMlJydkowNEV0UWZPNUF4NzByVWNRZXhNNTVpNGRjNTYtVy10QlpOcE4yLTZRTjVXYWxhbHBDTUZic3otNVJFTGthOGFQMFotQ0lkdTNOM3IzMXFtQV9TQlJhMVN0S1NpSmFJc2VFOGlHa3F2STVKUXFpMUhGZFNuVUV1SE80cWhfOGw5czZVSE9XVFl6YlVqRXlUMnl0QXlpZ3lnaWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-16 13:27:40"
-    },
-    {
-      "title": "白沙屯媽祖抵北港 劉建國分送補給品 (圖) - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOeWI4a0RWbE00UlZEazB1VC01dE5oTkNVZjJyc3gzNnc5bm0tMHk4dy0ySEhuYlFhWDlsc1lZaTRBX3ZxZTY0bmwwYjYtQ2c1cnFJT0c0Z2d5RHpTOWVmd2U3TlJ1R0thVElaTnlwSlVWNmE1alBJRk5NX3RiZGl0dGJxOFZncXcyQVFGYnBlRXBGd2thb056cVJuUmY1VGJwa0tvZEhxNzdGQzdrTHU5ZzNBSjZzN0lvUDl2N0VTTWhfZTBNN2lxYVV2eFVPbmRJVjNvTU9tVUZGNEF3UC1ScDYwVzRMUEM5VUdIT1ZjT3BXdkZGU1V2OUtFT0h0OGZOZk83UHhsTFhnRGoteEVtaDBqTzlGVnpka3JqeXY0UTJwQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-16 13:27:40"
     }
   ],
   "latest_facebook_20": [
@@ -572,8 +610,18 @@
   ],
   "latest_news_20": [
     {
+      "title": "雲林藍白合有譜?柯文哲同框張嘉郡 致詞喊： 未來新縣長 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPWXpzQ2NlMVZIZkVlZG9XRVhBaGpwSlRhZUhqS1JpTmlUNFE1ZVA4ODNicFpib01iM2I0a1VqQU1oVFVOcDQ1SWNTQXNqNWVXMWxBaWdtdVgtSWRiSkR6Sllqb3Z6eVZrSG1DWkkyVW44TEZkWFp2YU9UMERydWJrSEp2dmdEWGhwZXM4N1ZJV0tqYmVubFY0VTA2bnVOOFRnd3l5V3B5YW1XNUZBMUxfUV80MXV2YzlxN3JqaEdJZl9HeXREeVdLSzVuTnQzWFZ2VUhrLVRVSVRnUDhyX1NsekVmRDRFbi1CZndYWGJNQ1M2c0VfLTJlREJadlhlekNWY0NmdnV3dlRKaFhrMHhUckdfVGtYMVh3MjVEUUx3c2JiUkVyYTBlWUhIVzJsaUZGekVPVEpXcEp1dkFxbkdaaVZXc296blNWek9Rc0ZWYmk3NVhJX3ZxbkhJUlFhSmNnV0E4OTFjcG16NVotRE9VMWdCZVNrUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-19 17:49:04"
+    },
+    {
       "title": "柯文哲雲林參拜喊「咱的新縣長」　張嘉郡盼藍白合遍地開花 - 鏡週刊Mirror Media",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhejNZWVBMNm9CalZQUnMxaVo4ZWltUHNQby1pbmNpemlfcUwtVm5PUUNyVE5EeHpTRUZ4LV80cEV2SnVITHpPNExqcDBWWmhxai0tSXZwMW00aDlMeTduVmxObzJhd9IBa0FVX3lxTE5TNTJCdGpTTjBIRkRvQnZxSFBvR2dUV1NYX1ZLUVJEWVFmT1p2WGhzTUp3QkZqNXhsY3Vmd3pjREpsNkZlVG5nVnJ6OVZSZnhSSlVEMHZiQXFaUlR1YW1NNVcxT1VaalFSSUZj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-19 15:33:00"
+    },
+    {
+      "title": "柯文哲雲林參拜喊「咱的新縣長」　張嘉郡盼藍白合遍地開花 - 鏡週刊Mirror Media",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TNTJCdGpTTjBIRkRvQnZxSFBvR2dUV1NYX1ZLUVJEWVFmT1p2WGhzTUp3QkZqNXhsY3Vmd3pjREpsNkZlVG5nVnJ6OVZSZnhSSlVEMHZiQXFaUlR1YW1NNVcxT1VaalFSSUZj0gFrQVVfeXFMTlM1MkJ0alNOMEhGRG9CdnFIUG9HZ1RXU1hfVktRUkRZUWZPWnZYaHNNSndCRmo1eGxjdWZ3emNESmw2RmVUbmdWcno5VlJmeFJKVUQwdmJBcVpSVHVhbU01VzFPVVpqUVJJRmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-19 15:33:00"
     },
     {
@@ -660,16 +708,6 @@
       "title": "白沙屯媽祖進香應援！徐國勇、劉建國補給香蕉送暖 - ETtoday新聞雲",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45cDRhcGh4a1ZYQ1hfdnRuQU9IaG9haFo4XzZLWm92SWkxQmxsTndEa3R4Ri15d2NmRkIwM1JLTnBtbzBJcVFvUzhCV2tlLXRiMnJRRHpzdmp6NGlqZlHSAWhBVV95cUxOSGxKTldGV2hZaVA4ZnlWT1I0dGJ4RU1EUWJuYmw2UlBJM2pUQzdYaGZJb0QxZ0pFaGZ3clVJV2NCZDN2dndTQWVCYXViaW1EOTFrZGQ2dExKSVFuRmNpOWVxTWY5UWVfUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-16 18:34:00"
-    },
-    {
-      "title": "白沙屯媽祖抵北港 張麗善、張嘉郡迎駕 (圖) - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPTkhiSGNmWUxLZy1QbWpmTW9rLVROcURPc3pGZHctb2NlbXF0STZ5Y1Y4OE9nTlJiR29US0ZEY1FYSmVielFjVVlCd01nUVJwTFVJTldSVkpkZ3RzdDFhYUc0bUJFa0p4WGJVaFQxRnVpR2dzbWVEN1NNcXppeXFpZ28wbEVkMlJydkowNEV0UWZPNUF4NzByVWNRZXhNNTVpNGRjNTYtVy10QlpOcE4yLTZRTjVXYWxhbHBDTUZic3otNVJFTGthOGFQMFotQ0lkdTNOM3IzMXFtQV9TQlJhMVN0S1NpSmFJc2VFOGlHa3F2STVKUXFpMUhGZFNuVUV1SE80cWhfOGw5czZVSE9XVFl6YlVqRXlUMnl0QXlpZ3lnaWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-16 13:27:40"
-    },
-    {
-      "title": "白沙屯媽祖抵北港 劉建國分送補給品 (圖) - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOeWI4a0RWbE00UlZEazB1VC01dE5oTkNVZjJyc3gzNnc5bm0tMHk4dy0ySEhuYlFhWDlsc1lZaTRBX3ZxZTY0bmwwYjYtQ2c1cnFJT0c0Z2d5RHpTOWVmd2U3TlJ1R0thVElaTnlwSlVWNmE1alBJRk5NX3RiZGl0dGJxOFZncXcyQVFGYnBlRXBGd2thb056cVJuUmY1VGJwa0tvZEhxNzdGQzdrTHU5ZzNBSjZzN0lvUDl2N0VTTWhfZTBNN2lxYVV2eFVPbmRJVjNvTU9tVUZGNEF3UC1ScDYwVzRMUEM5VUdIT1ZjT3BXdkZGU1V2OUtFT0h0OGZOZk83UHhsTFhnRGoteEVtaDBqTzlGVnpka3JqeXY0UTJwQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-16 13:27:40"
     }
   ],
   "person_sections": {
@@ -773,8 +811,18 @@
       ],
       "news": [
         {
+          "title": "雲林藍白合有譜?柯文哲同框張嘉郡 致詞喊： 未來新縣長 - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPWXpzQ2NlMVZIZkVlZG9XRVhBaGpwSlRhZUhqS1JpTmlUNFE1ZVA4ODNicFpib01iM2I0a1VqQU1oVFVOcDQ1SWNTQXNqNWVXMWxBaWdtdVgtSWRiSkR6Sllqb3Z6eVZrSG1DWkkyVW44TEZkWFp2YU9UMERydWJrSEp2dmdEWGhwZXM4N1ZJV0tqYmVubFY0VTA2bnVOOFRnd3l5V3B5YW1XNUZBMUxfUV80MXV2YzlxN3JqaEdJZl9HeXREeVdLSzVuTnQzWFZ2VUhrLVRVSVRnUDhyX1NsekVmRDRFbi1CZndYWGJNQ1M2c0VfLTJlREJadlhlekNWY0NmdnV3dlRKaFhrMHhUckdfVGtYMVh3MjVEUUx3c2JiUkVyYTBlWUhIVzJsaUZGekVPVEpXcEp1dkFxbkdaaVZXc296blNWek9Rc0ZWYmk3NVhJX3ZxbkhJUlFhSmNnV0E4OTFjcG16NVotRE9VMWdCZVNrUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-19 17:49:04"
+        },
+        {
           "title": "柯文哲雲林參拜喊「咱的新縣長」　張嘉郡盼藍白合遍地開花 - 鏡週刊Mirror Media",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhejNZWVBMNm9CalZQUnMxaVo4ZWltUHNQby1pbmNpemlfcUwtVm5PUUNyVE5EeHpTRUZ4LV80cEV2SnVITHpPNExqcDBWWmhxai0tSXZwMW00aDlMeTduVmxObzJhd9IBa0FVX3lxTE5TNTJCdGpTTjBIRkRvQnZxSFBvR2dUV1NYX1ZLUVJEWVFmT1p2WGhzTUp3QkZqNXhsY3Vmd3pjREpsNkZlVG5nVnJ6OVZSZnhSSlVEMHZiQXFaUlR1YW1NNVcxT1VaalFSSUZj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-19 15:33:00"
+        },
+        {
+          "title": "柯文哲雲林參拜喊「咱的新縣長」　張嘉郡盼藍白合遍地開花 - 鏡週刊Mirror Media",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TNTJCdGpTTjBIRkRvQnZxSFBvR2dUV1NYX1ZLUVJEWVFmT1p2WGhzTUp3QkZqNXhsY3Vmd3pjREpsNkZlVG5nVnJ6OVZSZnhSSlVEMHZiQXFaUlR1YW1NNVcxT1VaalFSSUZj0gFrQVVfeXFMTlM1MkJ0alNOMEhGRG9CdnFIUG9HZ1RXU1hfVktRUkRZUWZPWnZYaHNNSndCRmo1eGxjdWZ3emNESmw2RmVUbmdWcno5VlJmeFJKVUQwdmJBcVpSVHVhbU01VzFPVVpqUVJJRmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-19 15:33:00"
         },
         {
@@ -861,16 +909,6 @@
           "title": "擘劃健康城市 張嘉郡雙軸布局運動新治理 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNc05VQ1RnVFRhQ1RkQXVxVmFISzZ2ZjRZdXZGdkxtWXZOYjhGQ2M5SjZxX2FZMGY3WGxiNDJKSXl6dHFOSWFWYjE0T2hCN1dDa040WmtZdTh2cnc0Y0JIQ0h2clBmS3ZWVklyVkVWejQ2eEd3NF9WSk1lSkZMcVoxQTEzQnR2bjRhNWM3bVNyUmRReHpLTUllX2VoTzdmQVVTQ2UxTGt2NFhHS0w2ODFNeXBnUVpxZzN0NF9DeFRCclpqdEYtNFQxZmJFXzNBcmVUaXlLU1pIZDl2eGtzci1FTXlhZHVMMEJaYjVoRzZpMFB2dkk0eWlVQmdtU04yQndwOGZ0TmU0dkFZaEZuMmo0cndjdjFsNVR3LVloWnhXN0V3VnBoMW1oUm1TM24?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-10 20:46:19"
-        },
-        {
-          "title": "張嘉郡雙軸布局運動新治理 興建大西螺運動中心 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSkx1ZHBiM1dUZFdGSFh2b0tvUzUwM01yWnZQQzRrc3lPRndTVE83UVhmYUVCeXE5Q085bDVSVE5FOHVTdDRPZkM3RjduQ3liQTBWRGs5Y2NJSWlpaGtNZzBwLUJsZ2hIemhzQnJrT1RSSEZJMUp1dUVXUWFPR3M3X2Y3UEpPdGFoYW5hS2Y5YTRJQ0xTd1YwZlRuaHpBeHRCQy1yd2xSSEpWT040NDZ3dmhvcTRQckd0aHZfcVNjZjcxajNzTDVWeGE5d1BmSVNjckI3ZXZ2dXhmc0VEcGJCRVVWRDBLRWllaWFuZTNMNlJETXZFd0RWQ0t3MllsY2hrVDk0TmVBV2stRDNIQ3dWS21ER29laXhEV091TGdSZVl3Umg3QTF1R0d4OFBpTzYtalJ3YndDWHFhU3JrcHhqRWlvREl2c1VDNFZFeWpqOHE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-09 21:39:57"
-        },
-        {
-          "title": "張嘉郡雙軸布局運動新治理 興建大西螺運動中心 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkJfb3E0NF84TXRIMEoyMnpTdWREQzIwaXRFQV8zcHlBQkhLV0Z4TDh4dHd6ZU1mdm1kVmdaM1ppSmNHbnFYWWJlRU5NQWd0dXVzcUxHS0FaWnE2OGttZzdGcTJYY1FRaGRzbTM2MzRzTWVRb3FVeDdVdVZDbmxidVJkWE1SVUZwMGlwYldtYm1WT0RpR1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-09 21:39:57"
         }
       ]
     },
@@ -1084,8 +1122,18 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "雲林藍白合有譜?柯文哲同框張嘉郡 致詞喊： 未來新縣長 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPWXpzQ2NlMVZIZkVlZG9XRVhBaGpwSlRhZUhqS1JpTmlUNFE1ZVA4ODNicFpib01iM2I0a1VqQU1oVFVOcDQ1SWNTQXNqNWVXMWxBaWdtdVgtSWRiSkR6Sllqb3Z6eVZrSG1DWkkyVW44TEZkWFp2YU9UMERydWJrSEp2dmdEWGhwZXM4N1ZJV0tqYmVubFY0VTA2bnVOOFRnd3l5V3B5YW1XNUZBMUxfUV80MXV2YzlxN3JqaEdJZl9HeXREeVdLSzVuTnQzWFZ2VUhrLVRVSVRnUDhyX1NsekVmRDRFbi1CZndYWGJNQ1M2c0VfLTJlREJadlhlekNWY0NmdnV3dlRKaFhrMHhUckdfVGtYMVh3MjVEUUx3c2JiUkVyYTBlWUhIVzJsaUZGekVPVEpXcEp1dkFxbkdaaVZXc296blNWek9Rc0ZWYmk3NVhJX3ZxbkhJUlFhSmNnV0E4OTFjcG16NVotRE9VMWdCZVNrUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-19 17:49:04"
+      },
+      {
         "title": "柯文哲雲林參拜喊「咱的新縣長」　張嘉郡盼藍白合遍地開花 - 鏡週刊Mirror Media",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhejNZWVBMNm9CalZQUnMxaVo4ZWltUHNQby1pbmNpemlfcUwtVm5PUUNyVE5EeHpTRUZ4LV80cEV2SnVITHpPNExqcDBWWmhxai0tSXZwMW00aDlMeTduVmxObzJhd9IBa0FVX3lxTE5TNTJCdGpTTjBIRkRvQnZxSFBvR2dUV1NYX1ZLUVJEWVFmT1p2WGhzTUp3QkZqNXhsY3Vmd3pjREpsNkZlVG5nVnJ6OVZSZnhSSlVEMHZiQXFaUlR1YW1NNVcxT1VaalFSSUZj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-19 15:33:00"
+      },
+      {
+        "title": "柯文哲雲林參拜喊「咱的新縣長」　張嘉郡盼藍白合遍地開花 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TNTJCdGpTTjBIRkRvQnZxSFBvR2dUV1NYX1ZLUVJEWVFmT1p2WGhzTUp3QkZqNXhsY3Vmd3pjREpsNkZlVG5nVnJ6OVZSZnhSSlVEMHZiQXFaUlR1YW1NNVcxT1VaalFSSUZj0gFrQVVfeXFMTlM1MkJ0alNOMEhGRG9CdnFIUG9HZ1RXU1hfVktRUkRZUWZPWnZYaHNNSndCRmo1eGxjdWZ3emNESmw2RmVUbmdWcno5VlJmeFJKVUQwdmJBcVpSVHVhbU01VzFPVVpqUVJJRmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-19 15:33:00"
       },
       {
@@ -1145,8 +1193,18 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "雲林藍白合有譜?柯文哲同框張嘉郡 致詞喊： 未來新縣長 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPWXpzQ2NlMVZIZkVlZG9XRVhBaGpwSlRhZUhqS1JpTmlUNFE1ZVA4ODNicFpib01iM2I0a1VqQU1oVFVOcDQ1SWNTQXNqNWVXMWxBaWdtdVgtSWRiSkR6Sllqb3Z6eVZrSG1DWkkyVW44TEZkWFp2YU9UMERydWJrSEp2dmdEWGhwZXM4N1ZJV0tqYmVubFY0VTA2bnVOOFRnd3l5V3B5YW1XNUZBMUxfUV80MXV2YzlxN3JqaEdJZl9HeXREeVdLSzVuTnQzWFZ2VUhrLVRVSVRnUDhyX1NsekVmRDRFbi1CZndYWGJNQ1M2c0VfLTJlREJadlhlekNWY0NmdnV3dlRKaFhrMHhUckdfVGtYMVh3MjVEUUx3c2JiUkVyYTBlWUhIVzJsaUZGekVPVEpXcEp1dkFxbkdaaVZXc296blNWek9Rc0ZWYmk3NVhJX3ZxbkhJUlFhSmNnV0E4OTFjcG16NVotRE9VMWdCZVNrUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-19 17:49:04"
+      },
+      {
         "title": "柯文哲雲林參拜喊「咱的新縣長」　張嘉郡盼藍白合遍地開花 - 鏡週刊Mirror Media",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhejNZWVBMNm9CalZQUnMxaVo4ZWltUHNQby1pbmNpemlfcUwtVm5PUUNyVE5EeHpTRUZ4LV80cEV2SnVITHpPNExqcDBWWmhxai0tSXZwMW00aDlMeTduVmxObzJhd9IBa0FVX3lxTE5TNTJCdGpTTjBIRkRvQnZxSFBvR2dUV1NYX1ZLUVJEWVFmT1p2WGhzTUp3QkZqNXhsY3Vmd3pjREpsNkZlVG5nVnJ6OVZSZnhSSlVEMHZiQXFaUlR1YW1NNVcxT1VaalFSSUZj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-19 15:33:00"
+      },
+      {
+        "title": "柯文哲雲林參拜喊「咱的新縣長」　張嘉郡盼藍白合遍地開花 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TNTJCdGpTTjBIRkRvQnZxSFBvR2dUV1NYX1ZLUVJEWVFmT1p2WGhzTUp3QkZqNXhsY3Vmd3pjREpsNkZlVG5nVnJ6OVZSZnhSSlVEMHZiQXFaUlR1YW1NNVcxT1VaalFSSUZj0gFrQVVfeXFMTlM1MkJ0alNOMEhGRG9CdnFIUG9HZ1RXU1hfVktRUkRZUWZPWnZYaHNNSndCRmo1eGxjdWZ3emNESmw2RmVUbmdWcno5VlJmeFJKVUQwdmJBcVpSVHVhbU01VzFPVVpqUVJJRmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-19 15:33:00"
       },
       {
@@ -1315,8 +1373,22 @@
     "hour": [],
     "day": [
       {
+        "title": "雲林藍白合有譜?柯文哲同框張嘉郡 致詞喊： 未來新縣長 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPWXpzQ2NlMVZIZkVlZG9XRVhBaGpwSlRhZUhqS1JpTmlUNFE1ZVA4ODNicFpib01iM2I0a1VqQU1oVFVOcDQ1SWNTQXNqNWVXMWxBaWdtdVgtSWRiSkR6Sllqb3Z6eVZrSG1DWkkyVW44TEZkWFp2YU9UMERydWJrSEp2dmdEWGhwZXM4N1ZJV0tqYmVubFY0VTA2bnVOOFRnd3l5V3B5YW1XNUZBMUxfUV80MXV2YzlxN3JqaEdJZl9HeXREeVdLSzVuTnQzWFZ2VUhrLVRVSVRnUDhyX1NsekVmRDRFbi1CZndYWGJNQ1M2c0VfLTJlREJadlhlekNWY0NmdnV3dlRKaFhrMHhUckdfVGtYMVh3MjVEUUx3c2JiUkVyYTBlWUhIVzJsaUZGekVPVEpXcEp1dkFxbkdaaVZXc296blNWek9Rc0ZWYmk3NVhJX3ZxbkhJUlFhSmNnV0E4OTFjcG16NVotRE9VMWdCZVNrUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-19 17:49:04",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "柯文哲雲林參拜喊「咱的新縣長」　張嘉郡盼藍白合遍地開花 - 鏡週刊Mirror Media",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhejNZWVBMNm9CalZQUnMxaVo4ZWltUHNQby1pbmNpemlfcUwtVm5PUUNyVE5EeHpTRUZ4LV80cEV2SnVITHpPNExqcDBWWmhxai0tSXZwMW00aDlMeTduVmxObzJhd9IBa0FVX3lxTE5TNTJCdGpTTjBIRkRvQnZxSFBvR2dUV1NYX1ZLUVJEWVFmT1p2WGhzTUp3QkZqNXhsY3Vmd3pjREpsNkZlVG5nVnJ6OVZSZnhSSlVEMHZiQXFaUlR1YW1NNVcxT1VaalFSSUZj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-19 15:33:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "柯文哲雲林參拜喊「咱的新縣長」　張嘉郡盼藍白合遍地開花 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TNTJCdGpTTjBIRkRvQnZxSFBvR2dUV1NYX1ZLUVJEWVFmT1p2WGhzTUp3QkZqNXhsY3Vmd3pjREpsNkZlVG5nVnJ6OVZSZnhSSlVEMHZiQXFaUlR1YW1NNVcxT1VaalFSSUZj0gFrQVVfeXFMTlM1MkJ0alNOMEhGRG9CdnFIUG9HZ1RXU1hfVktRUkRZUWZPWnZYaHNNSndCRmo1eGxjdWZ3emNESmw2RmVUbmdWcno5VlJmeFJKVUQwdmJBcVpSVHVhbU01VzFPVVpqUVJJRmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-19 15:33:00",
         "platform": "news",
         "risk": "綠"
@@ -1397,7 +1469,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 9
+        "count": 11
       }
     ],
     "groups": [
