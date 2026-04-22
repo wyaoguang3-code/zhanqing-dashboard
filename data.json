@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-04-22T09:30:40.176412+00:00",
+  "generated_at": "2026-04-22T09:45:45.399674+00:00",
   "metrics": {
-    "total_24h": 20,
-    "prev_24h": 12,
-    "growth_pct": 66.67,
-    "news_24h": 18,
+    "total_24h": 21,
+    "prev_24h": 14,
+    "growth_pct": 50.0,
+    "news_24h": 19,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 93,
+    "total": 96,
     "prev": 74,
-    "growth_pct": 25.68,
-    "news": 69,
+    "growth_pct": 29.73,
+    "news": 72,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 18
+      "count": 19
     },
     {
       "platform": "facebook",
@@ -38,7 +38,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 69
+      "count": 72
     },
     {
       "platform": "facebook",
@@ -50,10 +50,6 @@
     }
   ],
   "by_hour": [
-    {
-      "hour": "2026-04-21 17:00",
-      "count": 2
-    },
     {
       "hour": "2026-04-21 18:00",
       "count": 1
@@ -80,10 +76,14 @@
     },
     {
       "hour": "2026-04-22 15:00",
-      "count": 4
+      "count": 5
     },
     {
       "hour": "2026-04-22 16:00",
+      "count": 2
+    },
+    {
+      "hour": "2026-04-22 17:00",
       "count": 1
     }
   ],
@@ -258,17 +258,21 @@
     },
     {
       "hour": "2026-04-22 15:00",
-      "count": 4
+      "count": 5
     },
     {
       "hour": "2026-04-22 16:00",
+      "count": 2
+    },
+    {
+      "hour": "2026-04-22 17:00",
       "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 18
+      "count": 19
     },
     {
       "platform": "facebook",
@@ -276,18 +280,26 @@
     }
   ],
   "mention_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "【經長樂觀看中東戰事「不會太久」 雲林綠委堅決反對麥電再延一季】 中東戰事未解，經濟部規劃5月起重啟雲林麥寮電廠1、3號，讓已停機的兩部燃煤機組再運轉3個月，雲林的民進黨立委劉建國今(22)詢問7月後，麥電會不會再延一季？經濟部長龔明鑫表示目前沒有這樣 - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi-AdBVV95cUxQTjlhbVlCWmNhRWlzTWl2UVlmWkVRM29VWEw2TWVSeDJaMXJISkt6LXJPMnphM3Y0czlZVzBuYzlYUXhvYjB2YVExdVcxZnhJa19XbDZENjNVSVk3SmRUdFlVcHRsN1FNMzRxLUZUajV0SVR5Wmt2VmNFT0l2VFlhcGN5U1NadVdIUXZwV2o4ZVIxeTBUQmM3eGcyMlNDSHpEQkEwSG5EOHlSS3pmZE93TTlTdlE2WEVlU0pkcVdzOHFaekI3M0tNMXZULVRHQWxyUFRUa3pUcFFUaXZOZWRxYnNEMW5ROS1vTWR2Qnh0SlFITnVrX3dmMlduZ3Fkd2d5dFZOdHNpZE54Q292RF9rSDdQdWg5WmJQN3hhVUVneG80YjhzaXlkS1NKTk5yVGtZT1Z6Wjlaalo5MVZLY1Z3TzAyRDliamUzRDZ5YTJ6T21fc0lNMnRoTUQzbWNrQWMzQUd6RHJKeElFOVRmeW8yY3NWbWRvTHVhRS1Cc1NhSTQtMEdTcWhGcXJsYmlLdnFSTnFHcHF3ZXVkRUpBeUp0cm1oQ1IybHJKSzZ1eC11bmxRaTdNaUczbVl0VlhfSzZ0Z2JxSEtGbFZQcmNtaVpWNnlYblQ4d2dvRmFaV1AxSGdlRXdTcDhqNWpRRkQ2MDlWeVJ2YnRsUFgtOGJnem9oNlpNaUdaVjdDbHJGNENGZ3FYc3JYbkJ4bGNfbUNUZEVVN0tmajhCQ1NvZ1NFZDU4am93Zk42ZFA3RHdLMDlDejhBdGE3alM4UW9hRUxtWUtDWXBVSlhfSXF1c0xXeFY1c3VudEx0eWFpR3RZN1dtbFd1SkFnS0ZURWtxaUIySkNwcktFVVhlMkEyZlUzR0w4WFFCN2ZQMllwcnFfMXp1UU5PUlN3eUYzVnVKcXRPOHR5eFpBX2hJUTBOcU1VWmRYTDRiQ244QUJXZlZtSVF4WGJEM050aXpkM3lITXR2TUNWSHgwZmJhaTFXSXdiTWQwRVIzTHNYMEh1aVB3RTVqM3p2RjhLWXVjLWk0d2dHVThCczVnc0d1dEFvU1BCNGhnTU9lVWl5c3dnUW5KRWZZLXhhZFVVWk93Rm90aF83NHhxRUlDY3Y1ZV9iMFBRQnRKTVlna3JGa2VROUFha1ZSR3FPVV9wb3AtVUJObFp5Y045V1B1Vm9aNlFPeVVlU0JpVTQtT0ZNMkJSMXp0b2ctVkx0dHMwN1pTUjRIaHF6OERLbXJiUFZyMF93WkJLZTF4RjRGMzJwTGxpQncwbVJiRzBZNkJuWW1qZ1lpTExfZjVWLThUY1ZLRUFOcFV3N3c4U2liQTAzVWFRR2FDUmhMdmJXV05FblctLQ",
-        "time": "2026-04-22 16:20:06"
-      }
-    ],
     "news": [
+      {
+        "title": "提供關稅戰、中東戰火「及時雨」 張嘉郡籲：報稅延至6/30 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNOG5UeHVyZFNHNW11dW9MM3pySGVhREl0SzNMNkFVWDNQNi1wYjJ6Wmo5ZGVxblduUVZKZmViU3BNaTI0N2sxT1dlNmdxUjlnUHdxVXp2RUlETkJsa0xYdzJsdDVnRlI2UkM1Z0JJZmlBVmpDSzlSX1drQnU5eEQzVUFBaXFsMHZOV0pwV3ZHSk5fQjU0U3VZMUotQjg1NHZjRzQ3SlBydmZNSFlCR25rMHBtS0RzYzRnYjlBR1ZaZkY5bzllNThtLU9XZUpkN3JvRVFmSGN4aFo5Q1R6U2lkWUpmZllxcWNydFlDcS1va0ZGVC1Nb19mcUl5TE0ydE5oWnB6QXU3dFctelBWc0RneXhVWHJWRGxEaXJJRXhVamdzczNxTlVaV1hEUHk1alVNa09zRVlTcTZlV2pLeW1HdHdLaHdHd2RNWlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-22 17:05:55"
+      },
+      {
+        "title": "美伊戰爭衝擊 張嘉郡籲：所得稅報稅期展延至6月底 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCWURjai0xSk4wM0laOTFQcXJicXFIeVhWaUJkM1FTbkp2NHN3S1g0N1gwQURreFZFazdhYmVaNGxBZ1owdVRVQWNWd0tPR1k2Slc0WjFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-22 16:19:46"
+      },
       {
         "title": "美伊戰爭衝擊 張嘉郡籲：所得稅報稅期展延至6月底 - 太報 TaiSounds",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBONUh0dUotMTV0ZVcxZ0xjYWpkcXIxSEFWQ3B1TzhRVUhJU1kzcDUwTFdGZWg3UHh5LVN1empsV0xrblVISjROTGhsYVhnUHhkSUZhLU9tdE95aFpY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-22 15:56:06"
+      },
+      {
+        "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tYnhRZUhJelo3OWpCbWZ0Q3p1NE1aeGx5c3FIQ0ZJVXE4aDdGWUE3Qmt3al9JeHlrWmhCTlpYQ0FIR05uRE5GamZuaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-22 15:52:10"
       },
       {
         "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - Yahoo新聞",
@@ -363,23 +375,20 @@
         "title": "討論牆 | 柯文哲走訪雲林 張嘉郡同框(圖) - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlRGt2c09pQVZEbElOTUFZZ3Q4UlVrdFVYRGJsaEtiaWZCSHZwa3QwZHA3WEZDNEVzLW9MVHZLaEthVzEtWnVCUTlyWHJaWjFtTFQ5d2REU3hpTGZhNWZYdS1CNlQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-21 18:18:29"
-      },
+      }
+    ],
+    "facebook": [
       {
-        "title": "稱「民間聽到美已通知關稅稅額」 張嘉郡：為何政院遲不公開？ - MSN",
-        "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPdDluQWlJWndITGdGM2tGVmpES21XcEt0RVNtdU1Id3lSWEtjelJHRWt4dlhLd3dNeGFxeDBManI1N3JXTDR1VmloelByQTRHZHBkaHFoUjZ6c29fQnUyZVZXODNKMVdnaEtpWTVEc0F2YnFlcVhxSmg5cXNjemhrTjB6QlMxSDVsb1BxYU9nWC0zWXQ2S1A4UzJMTUVjbmZ3YUVwaWV4VVJRSnN5Z3lHNnJJSVZYNnpsRjNBaUpoQTdsSWtsVnZjdGY1S29lb2duSnI1cVJ3b1RZX0pZWTZOTzhFTzQ1a0s0VExtZWE0WjQyTFRsNGxabGNXZGFKekpGWC1XTTRTb0pqMWdfdVJPaVZ1R28yQ3Utbnp6ajBNSFYwRTZxczZmY0dsMWpieXlROHh6emRFQ0wydlhrMkVWMkI0dXg0VDJmdXJhc0Z1U21PakFkZ0N3U2oyazUxam5hYWdzeUE4MjdEai1WbkpXbFVXNGJvUHNMc0ktVk1kblk2LUlfZndSb2o2YkltSDRyMkplTG9rYWdLTVZIZWViSXJpZzkzV1ZfcWdNUExEQmVTTGxxWldBeDdjZzZJc1BVM0N1eDliU1djNlZlangycGt1ejdUdDltTkdqUEpnVGhnTkpiTWZ4YlVJVHVwS1FmYnZsRVlyZGdiaDZITFpUcHhPX1VCbkRzOWlqM2MtVTVmYzFvUERv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-21 17:45:16"
-      },
-      {
-        "title": "稱「民間聽到美已通知關稅稅額」 張嘉郡：為何政院遲不公開？ - MSN",
-        "url": "https://news.google.com/rss/articles/CBMimARBVV95cUxQcHY3dlE5X0VLeHVrYTFFeGx4d29CTzVuSzhPUWxNUTRoTXl6MjEwa180TDM0SGs5Sk1kZ2RVaFo2MXlabDZHRWwwa0hmc1pPX3FvZ2IwMVBaX1B6REdlWnJDaEhJcmdnOFRxOW9HS0RhZWFUUGlRRjV6RWcxMjNsZ25KZGdNTU9NNnNoSjNfZnl3RG1DMjk2VHhlUHkwQU44RWFHZnQtRnZNYkc2SDFSNDZha2FHanQ2Sk9wYks3TWVwWVVhR3Y2bVlXbWlqQnJValhqRTNwM0Q3bmJOeWtjakdrZW5hZzFxODBGbzJRSUhONERJV1g4ODd2d1hJanVJMmtCMVhuZWt0aFVEVkFkTWNkRFJDRnI4NHVoS3lCeFZTdlhCUHNBbG1sX0d4YlZNeVpfUTJpdjFXdjJ2aFpoc3FZcF9zNzk0UjZTODRha25sZWIwX3pISTJ5OF82RnVOeU95QVBodDRzNUhSRlZuWW1wUC1oMGx2SzRqWS1qYTlxR1d6TmpJOERLUlFrM2RBbDFUSHN2dnNDbWp2blJKTjdHMnBfVElQWXZsYkw5MWtEUndVZjJzNWNrY2JzTFYxa3RZU0d0Ml9ZRW1DcTZfb3dWbElhR1NUZGFwXy1yMi1WWnNyTi04YzJ0dmIyVnRhLWdfTjJhLVdxNWMwTUVlZnBUazF2RUVYZWJHNmgtSTV0UWdVY1ZwaQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-21 17:45:16"
+        "title": "【經長樂觀看中東戰事「不會太久」 雲林綠委堅決反對麥電再延一季】 中東戰事未解，經濟部規劃5月起重啟雲林麥寮電廠1、3號，讓已停機的兩部燃煤機組再運轉3個月，雲林的民進黨立委劉建國今(22)詢問7月後，麥電會不會再延一季？經濟部長龔明鑫表示目前沒有這樣 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi-AdBVV95cUxQTjlhbVlCWmNhRWlzTWl2UVlmWkVRM29VWEw2TWVSeDJaMXJISkt6LXJPMnphM3Y0czlZVzBuYzlYUXhvYjB2YVExdVcxZnhJa19XbDZENjNVSVk3SmRUdFlVcHRsN1FNMzRxLUZUajV0SVR5Wmt2VmNFT0l2VFlhcGN5U1NadVdIUXZwV2o4ZVIxeTBUQmM3eGcyMlNDSHpEQkEwSG5EOHlSS3pmZE93TTlTdlE2WEVlU0pkcVdzOHFaekI3M0tNMXZULVRHQWxyUFRUa3pUcFFUaXZOZWRxYnNEMW5ROS1vTWR2Qnh0SlFITnVrX3dmMlduZ3Fkd2d5dFZOdHNpZE54Q292RF9rSDdQdWg5WmJQN3hhVUVneG80YjhzaXlkS1NKTk5yVGtZT1Z6Wjlaalo5MVZLY1Z3TzAyRDliamUzRDZ5YTJ6T21fc0lNMnRoTUQzbWNrQWMzQUd6RHJKeElFOVRmeW8yY3NWbWRvTHVhRS1Cc1NhSTQtMEdTcWhGcXJsYmlLdnFSTnFHcHF3ZXVkRUpBeUp0cm1oQ1IybHJKSzZ1eC11bmxRaTdNaUczbVl0VlhfSzZ0Z2JxSEtGbFZQcmNtaVpWNnlYblQ4d2dvRmFaV1AxSGdlRXdTcDhqNWpRRkQ2MDlWeVJ2YnRsUFgtOGJnem9oNlpNaUdaVjdDbHJGNENGZ3FYc3JYbkJ4bGNfbUNUZEVVN0tmajhCQ1NvZ1NFZDU4am93Zk42ZFA3RHdLMDlDejhBdGE3alM4UW9hRUxtWUtDWXBVSlhfSXF1c0xXeFY1c3VudEx0eWFpR3RZN1dtbFd1SkFnS0ZURWtxaUIySkNwcktFVVhlMkEyZlUzR0w4WFFCN2ZQMllwcnFfMXp1UU5PUlN3eUYzVnVKcXRPOHR5eFpBX2hJUTBOcU1VWmRYTDRiQ244QUJXZlZtSVF4WGJEM050aXpkM3lITXR2TUNWSHgwZmJhaTFXSXdiTWQwRVIzTHNYMEh1aVB3RTVqM3p2RjhLWXVjLWk0d2dHVThCczVnc0d1dEFvU1BCNGhnTU9lVWl5c3dnUW5KRWZZLXhhZFVVWk93Rm90aF83NHhxRUlDY3Y1ZV9iMFBRQnRKTVlna3JGa2VROUFha1ZSR3FPVV9wb3AtVUJObFp5Y045V1B1Vm9aNlFPeVVlU0JpVTQtT0ZNMkJSMXp0b2ctVkx0dHMwN1pTUjRIaHF6OERLbXJiUFZyMF93WkJLZTF4RjRGMzJwTGxpQncwbVJiRzBZNkJuWW1qZ1lpTExfZjVWLThUY1ZLRUFOcFV3N3c4U2liQTAzVWFRR2FDUmhMdmJXV05FblctLQ",
+        "time": "2026-04-22 16:20:06"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 18
+      "count": 19
     },
     {
       "platform": "facebook",
@@ -387,18 +396,26 @@
     }
   ],
   "alias_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "【經長樂觀看中東戰事「不會太久」 雲林綠委堅決反對麥電再延一季】 中東戰事未解，經濟部規劃5月起重啟雲林麥寮電廠1、3號，讓已停機的兩部燃煤機組再運轉3個月，雲林的民進黨立委劉建國今(22)詢問7月後，麥電會不會再延一季？經濟部長龔明鑫表示目前沒有這樣 - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi-AdBVV95cUxQTjlhbVlCWmNhRWlzTWl2UVlmWkVRM29VWEw2TWVSeDJaMXJISkt6LXJPMnphM3Y0czlZVzBuYzlYUXhvYjB2YVExdVcxZnhJa19XbDZENjNVSVk3SmRUdFlVcHRsN1FNMzRxLUZUajV0SVR5Wmt2VmNFT0l2VFlhcGN5U1NadVdIUXZwV2o4ZVIxeTBUQmM3eGcyMlNDSHpEQkEwSG5EOHlSS3pmZE93TTlTdlE2WEVlU0pkcVdzOHFaekI3M0tNMXZULVRHQWxyUFRUa3pUcFFUaXZOZWRxYnNEMW5ROS1vTWR2Qnh0SlFITnVrX3dmMlduZ3Fkd2d5dFZOdHNpZE54Q292RF9rSDdQdWg5WmJQN3hhVUVneG80YjhzaXlkS1NKTk5yVGtZT1Z6Wjlaalo5MVZLY1Z3TzAyRDliamUzRDZ5YTJ6T21fc0lNMnRoTUQzbWNrQWMzQUd6RHJKeElFOVRmeW8yY3NWbWRvTHVhRS1Cc1NhSTQtMEdTcWhGcXJsYmlLdnFSTnFHcHF3ZXVkRUpBeUp0cm1oQ1IybHJKSzZ1eC11bmxRaTdNaUczbVl0VlhfSzZ0Z2JxSEtGbFZQcmNtaVpWNnlYblQ4d2dvRmFaV1AxSGdlRXdTcDhqNWpRRkQ2MDlWeVJ2YnRsUFgtOGJnem9oNlpNaUdaVjdDbHJGNENGZ3FYc3JYbkJ4bGNfbUNUZEVVN0tmajhCQ1NvZ1NFZDU4am93Zk42ZFA3RHdLMDlDejhBdGE3alM4UW9hRUxtWUtDWXBVSlhfSXF1c0xXeFY1c3VudEx0eWFpR3RZN1dtbFd1SkFnS0ZURWtxaUIySkNwcktFVVhlMkEyZlUzR0w4WFFCN2ZQMllwcnFfMXp1UU5PUlN3eUYzVnVKcXRPOHR5eFpBX2hJUTBOcU1VWmRYTDRiQ244QUJXZlZtSVF4WGJEM050aXpkM3lITXR2TUNWSHgwZmJhaTFXSXdiTWQwRVIzTHNYMEh1aVB3RTVqM3p2RjhLWXVjLWk0d2dHVThCczVnc0d1dEFvU1BCNGhnTU9lVWl5c3dnUW5KRWZZLXhhZFVVWk93Rm90aF83NHhxRUlDY3Y1ZV9iMFBRQnRKTVlna3JGa2VROUFha1ZSR3FPVV9wb3AtVUJObFp5Y045V1B1Vm9aNlFPeVVlU0JpVTQtT0ZNMkJSMXp0b2ctVkx0dHMwN1pTUjRIaHF6OERLbXJiUFZyMF93WkJLZTF4RjRGMzJwTGxpQncwbVJiRzBZNkJuWW1qZ1lpTExfZjVWLThUY1ZLRUFOcFV3N3c4U2liQTAzVWFRR2FDUmhMdmJXV05FblctLQ",
-        "time": "2026-04-22 16:20:06"
-      }
-    ],
     "news": [
+      {
+        "title": "提供關稅戰、中東戰火「及時雨」 張嘉郡籲：報稅延至6/30 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNOG5UeHVyZFNHNW11dW9MM3pySGVhREl0SzNMNkFVWDNQNi1wYjJ6Wmo5ZGVxblduUVZKZmViU3BNaTI0N2sxT1dlNmdxUjlnUHdxVXp2RUlETkJsa0xYdzJsdDVnRlI2UkM1Z0JJZmlBVmpDSzlSX1drQnU5eEQzVUFBaXFsMHZOV0pwV3ZHSk5fQjU0U3VZMUotQjg1NHZjRzQ3SlBydmZNSFlCR25rMHBtS0RzYzRnYjlBR1ZaZkY5bzllNThtLU9XZUpkN3JvRVFmSGN4aFo5Q1R6U2lkWUpmZllxcWNydFlDcS1va0ZGVC1Nb19mcUl5TE0ydE5oWnB6QXU3dFctelBWc0RneXhVWHJWRGxEaXJJRXhVamdzczNxTlVaV1hEUHk1alVNa09zRVlTcTZlV2pLeW1HdHdLaHdHd2RNWlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-22 17:05:55"
+      },
+      {
+        "title": "美伊戰爭衝擊 張嘉郡籲：所得稅報稅期展延至6月底 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCWURjai0xSk4wM0laOTFQcXJicXFIeVhWaUJkM1FTbkp2NHN3S1g0N1gwQURreFZFazdhYmVaNGxBZ1owdVRVQWNWd0tPR1k2Slc0WjFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-22 16:19:46"
+      },
       {
         "title": "美伊戰爭衝擊 張嘉郡籲：所得稅報稅期展延至6月底 - 太報 TaiSounds",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBONUh0dUotMTV0ZVcxZ0xjYWpkcXIxSEFWQ3B1TzhRVUhJU1kzcDUwTFdGZWg3UHh5LVN1empsV0xrblVISjROTGhsYVhnUHhkSUZhLU9tdE95aFpY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-22 15:56:06"
+      },
+      {
+        "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tYnhRZUhJelo3OWpCbWZ0Q3p1NE1aeGx5c3FIQ0ZJVXE4aDdGWUE3Qmt3al9JeHlrWmhCTlpYQ0FIR05uRE5GamZuaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-22 15:52:10"
       },
       {
         "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - Yahoo新聞",
@@ -474,32 +491,44 @@
         "title": "討論牆 | 柯文哲走訪雲林 張嘉郡同框(圖) - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlRGt2c09pQVZEbElOTUFZZ3Q4UlVrdFVYRGJsaEtiaWZCSHZwa3QwZHA3WEZDNEVzLW9MVHZLaEthVzEtWnVCUTlyWHJaWjFtTFQ5d2REU3hpTGZhNWZYdS1CNlQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-21 18:18:29"
-      },
+      }
+    ],
+    "facebook": [
       {
-        "title": "稱「民間聽到美已通知關稅稅額」 張嘉郡：為何政院遲不公開？ - MSN",
-        "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPdDluQWlJWndITGdGM2tGVmpES21XcEt0RVNtdU1Id3lSWEtjelJHRWt4dlhLd3dNeGFxeDBManI1N3JXTDR1VmloelByQTRHZHBkaHFoUjZ6c29fQnUyZVZXODNKMVdnaEtpWTVEc0F2YnFlcVhxSmg5cXNjemhrTjB6QlMxSDVsb1BxYU9nWC0zWXQ2S1A4UzJMTUVjbmZ3YUVwaWV4VVJRSnN5Z3lHNnJJSVZYNnpsRjNBaUpoQTdsSWtsVnZjdGY1S29lb2duSnI1cVJ3b1RZX0pZWTZOTzhFTzQ1a0s0VExtZWE0WjQyTFRsNGxabGNXZGFKekpGWC1XTTRTb0pqMWdfdVJPaVZ1R28yQ3Utbnp6ajBNSFYwRTZxczZmY0dsMWpieXlROHh6emRFQ0wydlhrMkVWMkI0dXg0VDJmdXJhc0Z1U21PakFkZ0N3U2oyazUxam5hYWdzeUE4MjdEai1WbkpXbFVXNGJvUHNMc0ktVk1kblk2LUlfZndSb2o2YkltSDRyMkplTG9rYWdLTVZIZWViSXJpZzkzV1ZfcWdNUExEQmVTTGxxWldBeDdjZzZJc1BVM0N1eDliU1djNlZlangycGt1ejdUdDltTkdqUEpnVGhnTkpiTWZ4YlVJVHVwS1FmYnZsRVlyZGdiaDZITFpUcHhPX1VCbkRzOWlqM2MtVTVmYzFvUERv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-21 17:45:16"
-      },
-      {
-        "title": "稱「民間聽到美已通知關稅稅額」 張嘉郡：為何政院遲不公開？ - MSN",
-        "url": "https://news.google.com/rss/articles/CBMimARBVV95cUxQcHY3dlE5X0VLeHVrYTFFeGx4d29CTzVuSzhPUWxNUTRoTXl6MjEwa180TDM0SGs5Sk1kZ2RVaFo2MXlabDZHRWwwa0hmc1pPX3FvZ2IwMVBaX1B6REdlWnJDaEhJcmdnOFRxOW9HS0RhZWFUUGlRRjV6RWcxMjNsZ25KZGdNTU9NNnNoSjNfZnl3RG1DMjk2VHhlUHkwQU44RWFHZnQtRnZNYkc2SDFSNDZha2FHanQ2Sk9wYks3TWVwWVVhR3Y2bVlXbWlqQnJValhqRTNwM0Q3bmJOeWtjakdrZW5hZzFxODBGbzJRSUhONERJV1g4ODd2d1hJanVJMmtCMVhuZWt0aFVEVkFkTWNkRFJDRnI4NHVoS3lCeFZTdlhCUHNBbG1sX0d4YlZNeVpfUTJpdjFXdjJ2aFpoc3FZcF9zNzk0UjZTODRha25sZWIwX3pISTJ5OF82RnVOeU95QVBodDRzNUhSRlZuWW1wUC1oMGx2SzRqWS1qYTlxR1d6TmpJOERLUlFrM2RBbDFUSHN2dnNDbWp2blJKTjdHMnBfVElQWXZsYkw5MWtEUndVZjJzNWNrY2JzTFYxa3RZU0d0Ml9ZRW1DcTZfb3dWbElhR1NUZGFwXy1yMi1WWnNyTi04YzJ0dmIyVnRhLWdfTjJhLVdxNWMwTUVlZnBUazF2RUVYZWJHNmgtSTV0UWdVY1ZwaQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-21 17:45:16"
+        "title": "【經長樂觀看中東戰事「不會太久」 雲林綠委堅決反對麥電再延一季】 中東戰事未解，經濟部規劃5月起重啟雲林麥寮電廠1、3號，讓已停機的兩部燃煤機組再運轉3個月，雲林的民進黨立委劉建國今(22)詢問7月後，麥電會不會再延一季？經濟部長龔明鑫表示目前沒有這樣 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi-AdBVV95cUxQTjlhbVlCWmNhRWlzTWl2UVlmWkVRM29VWEw2TWVSeDJaMXJISkt6LXJPMnphM3Y0czlZVzBuYzlYUXhvYjB2YVExdVcxZnhJa19XbDZENjNVSVk3SmRUdFlVcHRsN1FNMzRxLUZUajV0SVR5Wmt2VmNFT0l2VFlhcGN5U1NadVdIUXZwV2o4ZVIxeTBUQmM3eGcyMlNDSHpEQkEwSG5EOHlSS3pmZE93TTlTdlE2WEVlU0pkcVdzOHFaekI3M0tNMXZULVRHQWxyUFRUa3pUcFFUaXZOZWRxYnNEMW5ROS1vTWR2Qnh0SlFITnVrX3dmMlduZ3Fkd2d5dFZOdHNpZE54Q292RF9rSDdQdWg5WmJQN3hhVUVneG80YjhzaXlkS1NKTk5yVGtZT1Z6Wjlaalo5MVZLY1Z3TzAyRDliamUzRDZ5YTJ6T21fc0lNMnRoTUQzbWNrQWMzQUd6RHJKeElFOVRmeW8yY3NWbWRvTHVhRS1Cc1NhSTQtMEdTcWhGcXJsYmlLdnFSTnFHcHF3ZXVkRUpBeUp0cm1oQ1IybHJKSzZ1eC11bmxRaTdNaUczbVl0VlhfSzZ0Z2JxSEtGbFZQcmNtaVpWNnlYblQ4d2dvRmFaV1AxSGdlRXdTcDhqNWpRRkQ2MDlWeVJ2YnRsUFgtOGJnem9oNlpNaUdaVjdDbHJGNENGZ3FYc3JYbkJ4bGNfbUNUZEVVN0tmajhCQ1NvZ1NFZDU4am93Zk42ZFA3RHdLMDlDejhBdGE3alM4UW9hRUxtWUtDWXBVSlhfSXF1c0xXeFY1c3VudEx0eWFpR3RZN1dtbFd1SkFnS0ZURWtxaUIySkNwcktFVVhlMkEyZlUzR0w4WFFCN2ZQMllwcnFfMXp1UU5PUlN3eUYzVnVKcXRPOHR5eFpBX2hJUTBOcU1VWmRYTDRiQ244QUJXZlZtSVF4WGJEM050aXpkM3lITXR2TUNWSHgwZmJhaTFXSXdiTWQwRVIzTHNYMEh1aVB3RTVqM3p2RjhLWXVjLWk0d2dHVThCczVnc0d1dEFvU1BCNGhnTU9lVWl5c3dnUW5KRWZZLXhhZFVVWk93Rm90aF83NHhxRUlDY3Y1ZV9iMFBRQnRKTVlna3JGa2VROUFha1ZSR3FPVV9wb3AtVUJObFp5Y045V1B1Vm9aNlFPeVVlU0JpVTQtT0ZNMkJSMXp0b2ctVkx0dHMwN1pTUjRIaHF6OERLbXJiUFZyMF93WkJLZTF4RjRGMzJwTGxpQncwbVJiRzBZNkJuWW1qZ1lpTExfZjVWLThUY1ZLRUFOcFV3N3c4U2liQTAzVWFRR2FDUmhMdmJXV05FblctLQ",
+        "time": "2026-04-22 16:20:06"
       }
     ]
   },
   "mention_compare_24h": {
     "張嘉郡": 12,
-    "劉建國": 7
+    "劉建國": 8
   },
   "mention_compare_7d": {
-    "張嘉郡": 53,
-    "劉建國": 29
+    "張嘉郡": 55,
+    "劉建國": 30
   },
   "top_news": [
+    {
+      "title": "提供關稅戰、中東戰火「及時雨」 張嘉郡籲：報稅延至6/30 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNOG5UeHVyZFNHNW11dW9MM3pySGVhREl0SzNMNkFVWDNQNi1wYjJ6Wmo5ZGVxblduUVZKZmViU3BNaTI0N2sxT1dlNmdxUjlnUHdxVXp2RUlETkJsa0xYdzJsdDVnRlI2UkM1Z0JJZmlBVmpDSzlSX1drQnU5eEQzVUFBaXFsMHZOV0pwV3ZHSk5fQjU0U3VZMUotQjg1NHZjRzQ3SlBydmZNSFlCR25rMHBtS0RzYzRnYjlBR1ZaZkY5bzllNThtLU9XZUpkN3JvRVFmSGN4aFo5Q1R6U2lkWUpmZllxcWNydFlDcS1va0ZGVC1Nb19mcUl5TE0ydE5oWnB6QXU3dFctelBWc0RneXhVWHJWRGxEaXJJRXhVamdzczNxTlVaV1hEUHk1alVNa09zRVlTcTZlV2pLeW1HdHdLaHdHd2RNWlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-22 17:05:55"
+    },
+    {
+      "title": "美伊戰爭衝擊 張嘉郡籲：所得稅報稅期展延至6月底 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCWURjai0xSk4wM0laOTFQcXJicXFIeVhWaUJkM1FTbkp2NHN3S1g0N1gwQURreFZFazdhYmVaNGxBZ1owdVRVQWNWd0tPR1k2Slc0WjFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-22 16:19:46"
+    },
     {
       "title": "美伊戰爭衝擊 張嘉郡籲：所得稅報稅期展延至6月底 - 太報 TaiSounds",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBONUh0dUotMTV0ZVcxZ0xjYWpkcXIxSEFWQ3B1TzhRVUhJU1kzcDUwTFdGZWg3UHh5LVN1empsV0xrblVISjROTGhsYVhnUHhkSUZhLU9tdE95aFpY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-22 15:56:06"
+    },
+    {
+      "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tYnhRZUhJelo3OWpCbWZ0Q3p1NE1aeGx5c3FIQ0ZJVXE4aDdGWUE3Qmt3al9JeHlrWmhCTlpYQ0FIR05uRE5GamZuaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-22 15:52:10"
     },
     {
       "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - Yahoo新聞",
@@ -540,28 +569,28 @@
       "title": "受關稅戰、美伊戰爭影響　張嘉郡提議：報稅季延長1個月 - NOWnews今日新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52R3RlSVhaaXNZMy13ai15cGtrTFV1bVUyQW9CMWJLMUJ6aGRFWjl3M3ZvM3V5WUtRNXRWME50ODJ0RHBodEE0akdzY25Tc0FwR1HSAVJBVV95cUxOdkd0ZUlYWmlzWTMtd2oteXBra0xVdW1VMkFvQjFiSzFCemhkRVo5dzN2bzN1eVlLUTV0VjBOdDgydERwaHRBNGpHc2NuU3NBcEdR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-22 13:15:08"
-    },
-    {
-      "title": "美伊戰爭、關稅戰延燒 張嘉郡籲「報稅季」延長一個月 - 上報Up Media",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XcUZKZzVQX1hsWlgzVkVZWFowNG1sREVUYXlyMlpOam5lR0RxU21YMUN3Q1h4bHVneDVOR3Zsbk5nX2VGbll5N2dPSlRUbWo3cWxVbDBPcXRKYzg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-22 13:09:00"
-    },
-    {
-      "title": "張嘉郡質詢籲報稅比照疫情延長1個月 經長稱會轉達財政部 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KbmFTVmRQOEpLS2ZyV00zRWUtd1dLaWhxdjB3bjhGWnlPcmc5QUNSVmNPbFJLUHRWSGtINTNsV2paMG9QNzlLTUVwMzdBTVE5aEJRNi1meWhDX0lYTjBGZDF1WGd0dVFBNmfSAW9BVV95cUxQNGVNUnRrNWFaNUJRT1JVa2x2RUd2UTVnRFFqZk16S3BUaXR5U1pob2c3cmJXZFNHLWR6ZHZ4QWp3M0Q0NHktUDIxQU5DT2J0QV9ldW1femdrQ2Mwb2pJakJ0a3duNEc4NHQ2NmZKTGM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-22 13:05:11"
-    },
-    {
-      "title": "藍委張嘉郡「高水準英文演說」畫面曝 網：大勝民進黨 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxPaUNiSXdqaTFUd2JhMTVJTmFGbEwwZW96Q2htb1E1WXlRSVNFR3RjZ0NwajMzTE5NSzYtNzROY3ZnNDgzUE1TLWJacElnTFdmcTZuSFhUMXRmYU5wNlJaTHZPeVN3cjlHOUFJMTdBRDJJcHBMdFdwU1JnTldBQ3huSTU1NEo0N2dpUGltUmtzR3FtanlZZWJ0YUIwMEx2blVNZjNDTGhIWUR2Y3NkLVNGOEFTblU0TU5ORGk3emRodXJ2M3JOTFBjYXdVODJMRVNhNzE4OWpockdsUWJtSjBNYkFUTnNxUEg5LWFUYmp5dEpsbVNJYWI1MzVwX3k5dWxMY0dLLWNibkNLVjBZYWp5a3dNaklkX3VYNmU4UnRsOWYzQ1FTY01YNWwxNDhlci11T1piQndKc2Zic2V3N3F0WXdoSmo4V284YkZ4eWNCODhXWkUzeThibG9qN01uWFVFdjZRdWVoQlV3dkVvb0FmaTc3LXlfRC1aSzdsWWN3NnZQXzZ3TmNRX1VnRHFZWDB6UFo5SWhfMHdNVDR1RWx3a0tzRmlfWG9UOTVHb2JUc2x4ZWhON0dFM2dQa1Y1UG1vYWJPSktPWkRiVkh0WkN1ZVRMN3RfbURQaVFhUTZXcjFhRUdoNkZ3YW92VzVVRHVsWS0zcFRQWmUwNXZmVWhWZ3V3MVdISXVRY19xdjJzVC14TUdxUW1zQ1JuUGJHV2laUU9RRE9WRVVMSGpFMzJKYkJxMXRWNXNMNUZHU2N1blZMSEk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-21 22:43:57"
     }
   ],
   "top_news_7d": [
     {
+      "title": "提供關稅戰、中東戰火「及時雨」 張嘉郡籲：報稅延至6/30 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNOG5UeHVyZFNHNW11dW9MM3pySGVhREl0SzNMNkFVWDNQNi1wYjJ6Wmo5ZGVxblduUVZKZmViU3BNaTI0N2sxT1dlNmdxUjlnUHdxVXp2RUlETkJsa0xYdzJsdDVnRlI2UkM1Z0JJZmlBVmpDSzlSX1drQnU5eEQzVUFBaXFsMHZOV0pwV3ZHSk5fQjU0U3VZMUotQjg1NHZjRzQ3SlBydmZNSFlCR25rMHBtS0RzYzRnYjlBR1ZaZkY5bzllNThtLU9XZUpkN3JvRVFmSGN4aFo5Q1R6U2lkWUpmZllxcWNydFlDcS1va0ZGVC1Nb19mcUl5TE0ydE5oWnB6QXU3dFctelBWc0RneXhVWHJWRGxEaXJJRXhVamdzczNxTlVaV1hEUHk1alVNa09zRVlTcTZlV2pLeW1HdHdLaHdHd2RNWlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-22 17:05:55"
+    },
+    {
+      "title": "美伊戰爭衝擊 張嘉郡籲：所得稅報稅期展延至6月底 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCWURjai0xSk4wM0laOTFQcXJicXFIeVhWaUJkM1FTbkp2NHN3S1g0N1gwQURreFZFazdhYmVaNGxBZ1owdVRVQWNWd0tPR1k2Slc0WjFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-22 16:19:46"
+    },
+    {
       "title": "美伊戰爭衝擊 張嘉郡籲：所得稅報稅期展延至6月底 - 太報 TaiSounds",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBONUh0dUotMTV0ZVcxZ0xjYWpkcXIxSEFWQ3B1TzhRVUhJU1kzcDUwTFdGZWg3UHh5LVN1empsV0xrblVISjROTGhsYVhnUHhkSUZhLU9tdE95aFpY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-22 15:56:06"
+    },
+    {
+      "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tYnhRZUhJelo3OWpCbWZ0Q3p1NE1aeGx5c3FIQ0ZJVXE4aDdGWUE3Qmt3al9JeHlrWmhCTlpYQ0FIR05uRE5GamZuaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-22 15:52:10"
     },
     {
       "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - Yahoo新聞",
@@ -642,21 +671,6 @@
       "title": "稱「民間聽到美已通知關稅稅額」 張嘉郡：為何政院遲不公開？ - MSN",
       "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPdDluQWlJWndITGdGM2tGVmpES21XcEt0RVNtdU1Id3lSWEtjelJHRWt4dlhLd3dNeGFxeDBManI1N3JXTDR1VmloelByQTRHZHBkaHFoUjZ6c29fQnUyZVZXODNKMVdnaEtpWTVEc0F2YnFlcVhxSmg5cXNjemhrTjB6QlMxSDVsb1BxYU9nWC0zWXQ2S1A4UzJMTUVjbmZ3YUVwaWV4VVJRSnN5Z3lHNnJJSVZYNnpsRjNBaUpoQTdsSWtsVnZjdGY1S29lb2duSnI1cVJ3b1RZX0pZWTZOTzhFTzQ1a0s0VExtZWE0WjQyTFRsNGxabGNXZGFKekpGWC1XTTRTb0pqMWdfdVJPaVZ1R28yQ3Utbnp6ajBNSFYwRTZxczZmY0dsMWpieXlROHh6emRFQ0wydlhrMkVWMkI0dXg0VDJmdXJhc0Z1U21PakFkZ0N3U2oyazUxam5hYWdzeUE4MjdEai1WbkpXbFVXNGJvUHNMc0ktVk1kblk2LUlfZndSb2o2YkltSDRyMkplTG9rYWdLTVZIZWViSXJpZzkzV1ZfcWdNUExEQmVTTGxxWldBeDdjZzZJc1BVM0N1eDliU1djNlZlangycGt1ejdUdDltTkdqUEpnVGhnTkpiTWZ4YlVJVHVwS1FmYnZsRVlyZGdiaDZITFpUcHhPX1VCbkRzOWlqM2MtVTVmYzFvUERv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-21 17:45:16"
-    },
-    {
-      "title": "稱「民間聽到美已通知關稅稅額」 張嘉郡：為何政院遲不公開？ - MSN",
-      "url": "https://news.google.com/rss/articles/CBMimARBVV95cUxQcHY3dlE5X0VLeHVrYTFFeGx4d29CTzVuSzhPUWxNUTRoTXl6MjEwa180TDM0SGs5Sk1kZ2RVaFo2MXlabDZHRWwwa0hmc1pPX3FvZ2IwMVBaX1B6REdlWnJDaEhJcmdnOFRxOW9HS0RhZWFUUGlRRjV6RWcxMjNsZ25KZGdNTU9NNnNoSjNfZnl3RG1DMjk2VHhlUHkwQU44RWFHZnQtRnZNYkc2SDFSNDZha2FHanQ2Sk9wYks3TWVwWVVhR3Y2bVlXbWlqQnJValhqRTNwM0Q3bmJOeWtjakdrZW5hZzFxODBGbzJRSUhONERJV1g4ODd2d1hJanVJMmtCMVhuZWt0aFVEVkFkTWNkRFJDRnI4NHVoS3lCeFZTdlhCUHNBbG1sX0d4YlZNeVpfUTJpdjFXdjJ2aFpoc3FZcF9zNzk0UjZTODRha25sZWIwX3pISTJ5OF82RnVOeU95QVBodDRzNUhSRlZuWW1wUC1oMGx2SzRqWS1qYTlxR1d6TmpJOERLUlFrM2RBbDFUSHN2dnNDbWp2blJKTjdHMnBfVElQWXZsYkw5MWtEUndVZjJzNWNrY2JzTFYxa3RZU0d0Ml9ZRW1DcTZfb3dWbElhR1NUZGFwXy1yMi1WWnNyTi04YzJ0dmIyVnRhLWdfTjJhLVdxNWMwTUVlZnBUazF2RUVYZWJHNmgtSTV0UWdVY1ZwaQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-21 17:45:16"
-    },
-    {
-      "title": "爭取3500萬元改善校園環境 立委劉建國會勘雲林多校建設 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPX0ZRM19sa01TMmpKUEJjSlB5ZXdaOEQtNlJuU0dOZzROSjFsbUVfQVlNbXJvbHVkZVk2MFc5LUFXczRya00yZXQwN1J5YVBVb3lJTHJCSnBVQV96WEd2enNKa1AycXJYVmlhZ196QlA2eGMtX1BLX2Nnc2dTUXVHcktVYmV0cGtQcTNFOHdVRlhGUVNuVEctN1VuMFBtSUpiRHliZEJybVZUTGkyRkhBN3AwVUo1cl9NdEcydTlRTUE4bHo4bm9hSXpCT201Wkw1VWdGODZ3YmFFN1hKLUYzZjJRRlF5cEd5eHZ3b3FrTVkxa1FMMEhVNjdWWVE3RGd2b1NLblZteVdybjlJa2FmdTRHcXdQWlVKUmhvaHg2c1dIVllHR0lVdDhEaFhyanhUdlRUc3Y0ME55amlwa0ZUYkJMTU0tdHV2RTdyMjNjVDdHQWd0a1VPaTk0eEpWZFkzNllwaVZvNUJxb1hFbVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-21 16:41:06"
-    },
-    {
-      "title": "雲林校園大升級！劉建國爭取3,500萬打造安全運動與學習環境 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91UEplWmo1X0RpQzRXSzF0MGxoVUJYTTlkWVFIYmdsdloycWxFODA4VF9wWFBQai1Kem9kNjRFdUswQlFuRlJlUW9tOVhUWHdCSHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-21 16:11:00"
     }
   ],
   "latest_facebook_20": [
@@ -763,9 +777,24 @@
   ],
   "latest_news_20": [
     {
+      "title": "提供關稅戰、中東戰火「及時雨」 張嘉郡籲：報稅延至6/30 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNOG5UeHVyZFNHNW11dW9MM3pySGVhREl0SzNMNkFVWDNQNi1wYjJ6Wmo5ZGVxblduUVZKZmViU3BNaTI0N2sxT1dlNmdxUjlnUHdxVXp2RUlETkJsa0xYdzJsdDVnRlI2UkM1Z0JJZmlBVmpDSzlSX1drQnU5eEQzVUFBaXFsMHZOV0pwV3ZHSk5fQjU0U3VZMUotQjg1NHZjRzQ3SlBydmZNSFlCR25rMHBtS0RzYzRnYjlBR1ZaZkY5bzllNThtLU9XZUpkN3JvRVFmSGN4aFo5Q1R6U2lkWUpmZllxcWNydFlDcS1va0ZGVC1Nb19mcUl5TE0ydE5oWnB6QXU3dFctelBWc0RneXhVWHJWRGxEaXJJRXhVamdzczNxTlVaV1hEUHk1alVNa09zRVlTcTZlV2pLeW1HdHdLaHdHd2RNWlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-22 17:05:55"
+    },
+    {
+      "title": "美伊戰爭衝擊 張嘉郡籲：所得稅報稅期展延至6月底 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCWURjai0xSk4wM0laOTFQcXJicXFIeVhWaUJkM1FTbkp2NHN3S1g0N1gwQURreFZFazdhYmVaNGxBZ1owdVRVQWNWd0tPR1k2Slc0WjFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-22 16:19:46"
+    },
+    {
       "title": "美伊戰爭衝擊 張嘉郡籲：所得稅報稅期展延至6月底 - 太報 TaiSounds",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBONUh0dUotMTV0ZVcxZ0xjYWpkcXIxSEFWQ3B1TzhRVUhJU1kzcDUwTFdGZWg3UHh5LVN1empsV0xrblVISjROTGhsYVhnUHhkSUZhLU9tdE95aFpY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-22 15:56:06"
+    },
+    {
+      "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tYnhRZUhJelo3OWpCbWZ0Q3p1NE1aeGx5c3FIQ0ZJVXE4aDdGWUE3Qmt3al9JeHlrWmhCTlpYQ0FIR05uRE5GamZuaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-22 15:52:10"
     },
     {
       "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - Yahoo新聞",
@@ -846,21 +875,6 @@
       "title": "稱「民間聽到美已通知關稅稅額」 張嘉郡：為何政院遲不公開？ - MSN",
       "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPdDluQWlJWndITGdGM2tGVmpES21XcEt0RVNtdU1Id3lSWEtjelJHRWt4dlhLd3dNeGFxeDBManI1N3JXTDR1VmloelByQTRHZHBkaHFoUjZ6c29fQnUyZVZXODNKMVdnaEtpWTVEc0F2YnFlcVhxSmg5cXNjemhrTjB6QlMxSDVsb1BxYU9nWC0zWXQ2S1A4UzJMTUVjbmZ3YUVwaWV4VVJRSnN5Z3lHNnJJSVZYNnpsRjNBaUpoQTdsSWtsVnZjdGY1S29lb2duSnI1cVJ3b1RZX0pZWTZOTzhFTzQ1a0s0VExtZWE0WjQyTFRsNGxabGNXZGFKekpGWC1XTTRTb0pqMWdfdVJPaVZ1R28yQ3Utbnp6ajBNSFYwRTZxczZmY0dsMWpieXlROHh6emRFQ0wydlhrMkVWMkI0dXg0VDJmdXJhc0Z1U21PakFkZ0N3U2oyazUxam5hYWdzeUE4MjdEai1WbkpXbFVXNGJvUHNMc0ktVk1kblk2LUlfZndSb2o2YkltSDRyMkplTG9rYWdLTVZIZWViSXJpZzkzV1ZfcWdNUExEQmVTTGxxWldBeDdjZzZJc1BVM0N1eDliU1djNlZlangycGt1ejdUdDltTkdqUEpnVGhnTkpiTWZ4YlVJVHVwS1FmYnZsRVlyZGdiaDZITFpUcHhPX1VCbkRzOWlqM2MtVTVmYzFvUERv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-21 17:45:16"
-    },
-    {
-      "title": "稱「民間聽到美已通知關稅稅額」 張嘉郡：為何政院遲不公開？ - MSN",
-      "url": "https://news.google.com/rss/articles/CBMimARBVV95cUxQcHY3dlE5X0VLeHVrYTFFeGx4d29CTzVuSzhPUWxNUTRoTXl6MjEwa180TDM0SGs5Sk1kZ2RVaFo2MXlabDZHRWwwa0hmc1pPX3FvZ2IwMVBaX1B6REdlWnJDaEhJcmdnOFRxOW9HS0RhZWFUUGlRRjV6RWcxMjNsZ25KZGdNTU9NNnNoSjNfZnl3RG1DMjk2VHhlUHkwQU44RWFHZnQtRnZNYkc2SDFSNDZha2FHanQ2Sk9wYks3TWVwWVVhR3Y2bVlXbWlqQnJValhqRTNwM0Q3bmJOeWtjakdrZW5hZzFxODBGbzJRSUhONERJV1g4ODd2d1hJanVJMmtCMVhuZWt0aFVEVkFkTWNkRFJDRnI4NHVoS3lCeFZTdlhCUHNBbG1sX0d4YlZNeVpfUTJpdjFXdjJ2aFpoc3FZcF9zNzk0UjZTODRha25sZWIwX3pISTJ5OF82RnVOeU95QVBodDRzNUhSRlZuWW1wUC1oMGx2SzRqWS1qYTlxR1d6TmpJOERLUlFrM2RBbDFUSHN2dnNDbWp2blJKTjdHMnBfVElQWXZsYkw5MWtEUndVZjJzNWNrY2JzTFYxa3RZU0d0Ml9ZRW1DcTZfb3dWbElhR1NUZGFwXy1yMi1WWnNyTi04YzJ0dmIyVnRhLWdfTjJhLVdxNWMwTUVlZnBUazF2RUVYZWJHNmgtSTV0UWdVY1ZwaQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-21 17:45:16"
-    },
-    {
-      "title": "爭取3500萬元改善校園環境 立委劉建國會勘雲林多校建設 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPX0ZRM19sa01TMmpKUEJjSlB5ZXdaOEQtNlJuU0dOZzROSjFsbUVfQVlNbXJvbHVkZVk2MFc5LUFXczRya00yZXQwN1J5YVBVb3lJTHJCSnBVQV96WEd2enNKa1AycXJYVmlhZ196QlA2eGMtX1BLX2Nnc2dTUXVHcktVYmV0cGtQcTNFOHdVRlhGUVNuVEctN1VuMFBtSUpiRHliZEJybVZUTGkyRkhBN3AwVUo1cl9NdEcydTlRTUE4bHo4bm9hSXpCT201Wkw1VWdGODZ3YmFFN1hKLUYzZjJRRlF5cEd5eHZ3b3FrTVkxa1FMMEhVNjdWWVE3RGd2b1NLblZteVdybjlJa2FmdTRHcXdQWlVKUmhvaHg2c1dIVllHR0lVdDhEaFhyanhUdlRUc3Y0ME55amlwa0ZUYkJMTU0tdHV2RTdyMjNjVDdHQWd0a1VPaTk0eEpWZFkzNllwaVZvNUJxb1hFbVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-21 16:41:06"
-    },
-    {
-      "title": "雲林校園大升級！劉建國爭取3,500萬打造安全運動與學習環境 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91UEplWmo1X0RpQzRXSzF0MGxoVUJYTTlkWVFIYmdsdloycWxFODA4VF9wWFBQai1Kem9kNjRFdUswQlFuRlJlUW9tOVhUWHdCSHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-21 16:11:00"
     }
   ],
   "person_sections": {
@@ -969,6 +983,16 @@
       ],
       "news": [
         {
+          "title": "提供關稅戰、中東戰火「及時雨」 張嘉郡籲：報稅延至6/30 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNOG5UeHVyZFNHNW11dW9MM3pySGVhREl0SzNMNkFVWDNQNi1wYjJ6Wmo5ZGVxblduUVZKZmViU3BNaTI0N2sxT1dlNmdxUjlnUHdxVXp2RUlETkJsa0xYdzJsdDVnRlI2UkM1Z0JJZmlBVmpDSzlSX1drQnU5eEQzVUFBaXFsMHZOV0pwV3ZHSk5fQjU0U3VZMUotQjg1NHZjRzQ3SlBydmZNSFlCR25rMHBtS0RzYzRnYjlBR1ZaZkY5bzllNThtLU9XZUpkN3JvRVFmSGN4aFo5Q1R6U2lkWUpmZllxcWNydFlDcS1va0ZGVC1Nb19mcUl5TE0ydE5oWnB6QXU3dFctelBWc0RneXhVWHJWRGxEaXJJRXhVamdzczNxTlVaV1hEUHk1alVNa09zRVlTcTZlV2pLeW1HdHdLaHdHd2RNWlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-22 17:05:55"
+        },
+        {
+          "title": "美伊戰爭衝擊 張嘉郡籲：所得稅報稅期展延至6月底 - LINE TODAY",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCWURjai0xSk4wM0laOTFQcXJicXFIeVhWaUJkM1FTbkp2NHN3S1g0N1gwQURreFZFazdhYmVaNGxBZ1owdVRVQWNWd0tPR1k2Slc0WjFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-22 16:19:46"
+        },
+        {
           "title": "美伊戰爭衝擊 張嘉郡籲：所得稅報稅期展延至6月底 - 太報 TaiSounds",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBONUh0dUotMTV0ZVcxZ0xjYWpkcXIxSEFWQ3B1TzhRVUhJU1kzcDUwTFdGZWg3UHh5LVN1empsV0xrblVISjROTGhsYVhnUHhkSUZhLU9tdE95aFpY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-22 15:56:06"
@@ -1056,16 +1080,6 @@
         {
           "title": "大甲媽進雲林！張麗善、張嘉郡接駕 西螺大橋南端萬人恭迎 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPbUFUTXQ1a0w2RU9YMVFHOVNyczdtd0dkRm1YakVWUXVIUld5VnNGZF9OQXI1MEw1N3A4blpJV0UzUGlZMW8zTnpjQ1JkcGZUcWtkSVhFRUN2dEw4QzY4LUxldXVXNHNXT3pJVThpOEVjUjd6ZnQwNjFBbmFfTnpaOEhtNVFXWTZhMFZoY0RObVY5elNlZFdZTzVSS2ZVRGNxcEpLY3Job0VQYTJsWFQ5R2ozNjV4bU9pMy1tbmpERERXcW1PeHJZUUF5Zk1MRC1pN3dJYV9pMDdwQl9WRnRneWFDQ19jYmMyeWpGUVJidW9VMjdXQTllajNBcl82SVlUWTJJQTR2MGh2ZllBOGFRdXBXRnMtelJETENWWHVld01NVDVGTnZhdXRLbWQwVnJ1U0QwTDdtTk1OclU4VnRIRnFxa3BhaU1ERGRTVEdNYjdrSEFtekgtTXgtQ0ZEaUhJX2c1U3VaWVowRWNhYUtjeWwyRzM5WTA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-19 21:14:33"
-        },
-        {
-          "title": "大甲媽進雲林！張麗善、張嘉郡接駕 西螺大橋南端萬人恭迎 - 自由時報",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10ZFFscXpVOGhxclplMDBma0swc1p0ZlJsV3I4aExkc1lobHBRckxRN1M3bVdPd3pDSEs3MklzQ2pVZmFUWXZpd29fY0cwZ0dBN2Z4ckhQVkZ6UmxNc0VQLVI1VTTSAWpBVV95cUxNVU4zcWpydHF0aGVjTHp0Rjdwa3VjdFJtNE9YYXYtSnlYQmd5TXY0UnhvU2V3eVlhb290S3Q0Vk5YeGZPUlQwakY3N21HNmJ1VWFRMXRrcHFlaEhJd3hQanB4eTNIaVZpVHh3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-19 21:14:33"
-        },
-        {
-          "title": "大甲媽進雲林！張麗善、張嘉郡接駕 西螺大橋南端萬人恭迎 - 自由時報",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VTjNxanJ0cXRoZWNMenRGN3BrdWN0Um00T1hhdi1KeVhCZ3lNdjRSeG9TZXd5WWFvb3RLdDRWTlh4Zk9SVDBqRjc3bUc2YnVVYVExdGtwcWVoSEl3eFBqcHh5M0hpVmlUeHfSAWpBVV95cUxNVU4zcWpydHF0aGVjTHp0Rjdwa3VjdFJtNE9YYXYtSnlYQmd5TXY0UnhvU2V3eVlhb290S3Q0Vk5YeGZPUlQwakY3N21HNmJ1VWFRMXRrcHFlaEhJd3hQanB4eTNIaVZpVHh3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-19 21:14:33"
         }
       ]
@@ -1175,6 +1189,11 @@
       ],
       "news": [
         {
+          "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tYnhRZUhJelo3OWpCbWZ0Q3p1NE1aeGx5c3FIQ0ZJVXE4aDdGWUE3Qmt3al9JeHlrWmhCTlpYQ0FIR05uRE5GamZuaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-22 15:52:10"
+        },
+        {
           "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNTVEUk5tQm5CZzZNemE4bU1pazJ1aFE1VENjdlNrYTVJbzZYaE9vWlE2bEtzX0U2YVNWY0NtWTYzcEZZVFg5MjJiVEF1T0QwSVdsTHJ1MTE3NWEtNnRRaG1FYUlVZ2t2UjhQcERwR2czeGNEWXotdWxXalNHSjZnbTFLVWhxNnZ5RzY2bmEtWmFkR2hrMlAyQWFBUnUzZkpGU1NHeENFNVA4NThfWC1UMkFpYU9HaFlXOU9JZEFpckdhU0M5LWYtTFJ1a2VOR1FpeWI0LTNIQ21sWGxEb3ZBRlRwTmFFdWlqRHktTExZQ1NoQ1Z3Y0JKajVIVEo5aDZ4UHNWdThjOGVWZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-22 15:50:00"
@@ -1268,11 +1287,6 @@
           "title": "強化投資 劉建國邀泰國台商訪雲林 - 自由時報",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wVlVCcFR2eWV3NEtRRXdObUx2MExpcVhJZVdaYWhjTUZBY2FzWkdxWU1waHlEdllsSlZ6UHEwRjN0MGRQaEIwYl9ldlJkTkE4UHlERkRvZDNGVEnSAWBBVV95cUxPNG1GSVEtSkptZGNWYktsenJ3Y3pRVFQ1TEszUmlHM2tKa09fTUhkOVl2eWJqOW54bS1seTVLYUdPVmgzZE5rQ1hDLVJ0Um1iaURhQWs5SGR4RDFjUFYwLWY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-17 05:30:00"
-        },
-        {
-          "title": "徐國勇、劉建國結合雲林蕉農 應援香蕉為香燈腳補體力 - 聯合新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ia1drQWtJbkF1NzlEYV9CT1RKc09jY3pXeUhoVE1oUmt5LTlWMGdMZ3hHNV83VkE0ODlESTlLMi03VGFTVHduLW5LOTBzbWswdmfSAVdBVV95cUxNdnJUZEx6aUMtWnFwamxIdnZfV20wbmRiblJQWDJpOTBUb2lGb1lGUG9icF9KTVZrUzJCa3FTbmFUZ1RFRXdRQ1JqSEI2bXpoWEhHX0wyRms?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-16 19:09:24"
         }
       ]
     }
@@ -1280,9 +1294,24 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "提供關稅戰、中東戰火「及時雨」 張嘉郡籲：報稅延至6/30 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNOG5UeHVyZFNHNW11dW9MM3pySGVhREl0SzNMNkFVWDNQNi1wYjJ6Wmo5ZGVxblduUVZKZmViU3BNaTI0N2sxT1dlNmdxUjlnUHdxVXp2RUlETkJsa0xYdzJsdDVnRlI2UkM1Z0JJZmlBVmpDSzlSX1drQnU5eEQzVUFBaXFsMHZOV0pwV3ZHSk5fQjU0U3VZMUotQjg1NHZjRzQ3SlBydmZNSFlCR25rMHBtS0RzYzRnYjlBR1ZaZkY5bzllNThtLU9XZUpkN3JvRVFmSGN4aFo5Q1R6U2lkWUpmZllxcWNydFlDcS1va0ZGVC1Nb19mcUl5TE0ydE5oWnB6QXU3dFctelBWc0RneXhVWHJWRGxEaXJJRXhVamdzczNxTlVaV1hEUHk1alVNa09zRVlTcTZlV2pLeW1HdHdLaHdHd2RNWlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-22 17:05:55"
+      },
+      {
+        "title": "美伊戰爭衝擊 張嘉郡籲：所得稅報稅期展延至6月底 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCWURjai0xSk4wM0laOTFQcXJicXFIeVhWaUJkM1FTbkp2NHN3S1g0N1gwQURreFZFazdhYmVaNGxBZ1owdVRVQWNWd0tPR1k2Slc0WjFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-22 16:19:46"
+      },
+      {
         "title": "美伊戰爭衝擊 張嘉郡籲：所得稅報稅期展延至6月底 - 太報 TaiSounds",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBONUh0dUotMTV0ZVcxZ0xjYWpkcXIxSEFWQ3B1TzhRVUhJU1kzcDUwTFdGZWg3UHh5LVN1empsV0xrblVISjROTGhsYVhnUHhkSUZhLU9tdE95aFpY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-22 15:56:06"
+      },
+      {
+        "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tYnhRZUhJelo3OWpCbWZ0Q3p1NE1aeGx5c3FIQ0ZJVXE4aDdGWUE3Qmt3al9JeHlrWmhCTlpYQ0FIR05uRE5GamZuaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-22 15:52:10"
       },
       {
         "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - Yahoo新聞",
@@ -1358,16 +1387,6 @@
         "title": "討論牆 | 柯文哲走訪雲林 張嘉郡同框(圖) - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlRGt2c09pQVZEbElOTUFZZ3Q4UlVrdFVYRGJsaEtiaWZCSHZwa3QwZHA3WEZDNEVzLW9MVHZLaEthVzEtWnVCUTlyWHJaWjFtTFQ5d2REU3hpTGZhNWZYdS1CNlQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-21 18:18:29"
-      },
-      {
-        "title": "稱「民間聽到美已通知關稅稅額」 張嘉郡：為何政院遲不公開？ - MSN",
-        "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPdDluQWlJWndITGdGM2tGVmpES21XcEt0RVNtdU1Id3lSWEtjelJHRWt4dlhLd3dNeGFxeDBManI1N3JXTDR1VmloelByQTRHZHBkaHFoUjZ6c29fQnUyZVZXODNKMVdnaEtpWTVEc0F2YnFlcVhxSmg5cXNjemhrTjB6QlMxSDVsb1BxYU9nWC0zWXQ2S1A4UzJMTUVjbmZ3YUVwaWV4VVJRSnN5Z3lHNnJJSVZYNnpsRjNBaUpoQTdsSWtsVnZjdGY1S29lb2duSnI1cVJ3b1RZX0pZWTZOTzhFTzQ1a0s0VExtZWE0WjQyTFRsNGxabGNXZGFKekpGWC1XTTRTb0pqMWdfdVJPaVZ1R28yQ3Utbnp6ajBNSFYwRTZxczZmY0dsMWpieXlROHh6emRFQ0wydlhrMkVWMkI0dXg0VDJmdXJhc0Z1U21PakFkZ0N3U2oyazUxam5hYWdzeUE4MjdEai1WbkpXbFVXNGJvUHNMc0ktVk1kblk2LUlfZndSb2o2YkltSDRyMkplTG9rYWdLTVZIZWViSXJpZzkzV1ZfcWdNUExEQmVTTGxxWldBeDdjZzZJc1BVM0N1eDliU1djNlZlangycGt1ejdUdDltTkdqUEpnVGhnTkpiTWZ4YlVJVHVwS1FmYnZsRVlyZGdiaDZITFpUcHhPX1VCbkRzOWlqM2MtVTVmYzFvUERv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-21 17:45:16"
-      },
-      {
-        "title": "稱「民間聽到美已通知關稅稅額」 張嘉郡：為何政院遲不公開？ - MSN",
-        "url": "https://news.google.com/rss/articles/CBMimARBVV95cUxQcHY3dlE5X0VLeHVrYTFFeGx4d29CTzVuSzhPUWxNUTRoTXl6MjEwa180TDM0SGs5Sk1kZ2RVaFo2MXlabDZHRWwwa0hmc1pPX3FvZ2IwMVBaX1B6REdlWnJDaEhJcmdnOFRxOW9HS0RhZWFUUGlRRjV6RWcxMjNsZ25KZGdNTU9NNnNoSjNfZnl3RG1DMjk2VHhlUHkwQU44RWFHZnQtRnZNYkc2SDFSNDZha2FHanQ2Sk9wYks3TWVwWVVhR3Y2bVlXbWlqQnJValhqRTNwM0Q3bmJOeWtjakdrZW5hZzFxODBGbzJRSUhONERJV1g4ODd2d1hJanVJMmtCMVhuZWt0aFVEVkFkTWNkRFJDRnI4NHVoS3lCeFZTdlhCUHNBbG1sX0d4YlZNeVpfUTJpdjFXdjJ2aFpoc3FZcF9zNzk0UjZTODRha25sZWIwX3pISTJ5OF82RnVOeU95QVBodDRzNUhSRlZuWW1wUC1oMGx2SzRqWS1qYTlxR1d6TmpJOERLUlFrM2RBbDFUSHN2dnNDbWp2blJKTjdHMnBfVElQWXZsYkw5MWtEUndVZjJzNWNrY2JzTFYxa3RZU0d0Ml9ZRW1DcTZfb3dWbElhR1NUZGFwXy1yMi1WWnNyTi04YzJ0dmIyVnRhLWdfTjJhLVdxNWMwTUVlZnBUazF2RUVYZWJHNmgtSTV0UWdVY1ZwaQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-21 17:45:16"
       }
     ],
     "facebook": [
@@ -1386,9 +1405,24 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "提供關稅戰、中東戰火「及時雨」 張嘉郡籲：報稅延至6/30 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNOG5UeHVyZFNHNW11dW9MM3pySGVhREl0SzNMNkFVWDNQNi1wYjJ6Wmo5ZGVxblduUVZKZmViU3BNaTI0N2sxT1dlNmdxUjlnUHdxVXp2RUlETkJsa0xYdzJsdDVnRlI2UkM1Z0JJZmlBVmpDSzlSX1drQnU5eEQzVUFBaXFsMHZOV0pwV3ZHSk5fQjU0U3VZMUotQjg1NHZjRzQ3SlBydmZNSFlCR25rMHBtS0RzYzRnYjlBR1ZaZkY5bzllNThtLU9XZUpkN3JvRVFmSGN4aFo5Q1R6U2lkWUpmZllxcWNydFlDcS1va0ZGVC1Nb19mcUl5TE0ydE5oWnB6QXU3dFctelBWc0RneXhVWHJWRGxEaXJJRXhVamdzczNxTlVaV1hEUHk1alVNa09zRVlTcTZlV2pLeW1HdHdLaHdHd2RNWlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-22 17:05:55"
+      },
+      {
+        "title": "美伊戰爭衝擊 張嘉郡籲：所得稅報稅期展延至6月底 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCWURjai0xSk4wM0laOTFQcXJicXFIeVhWaUJkM1FTbkp2NHN3S1g0N1gwQURreFZFazdhYmVaNGxBZ1owdVRVQWNWd0tPR1k2Slc0WjFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-22 16:19:46"
+      },
+      {
         "title": "美伊戰爭衝擊 張嘉郡籲：所得稅報稅期展延至6月底 - 太報 TaiSounds",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBONUh0dUotMTV0ZVcxZ0xjYWpkcXIxSEFWQ3B1TzhRVUhJU1kzcDUwTFdGZWg3UHh5LVN1empsV0xrblVISjROTGhsYVhnUHhkSUZhLU9tdE95aFpY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-22 15:56:06"
+      },
+      {
+        "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tYnhRZUhJelo3OWpCbWZ0Q3p1NE1aeGx5c3FIQ0ZJVXE4aDdGWUE3Qmt3al9JeHlrWmhCTlpYQ0FIR05uRE5GamZuaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-22 15:52:10"
       },
       {
         "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - Yahoo新聞",
@@ -1569,21 +1603,6 @@
         "title": "雲林藍白合有譜？柯文哲同框張嘉郡　致詞喊：未來新縣長 - ETtoday新聞雲",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yMzdkY3BpRzVuLUF1UklWMDJpSWwyOEZ0NnpPNFJMNFFlRzRodFUyTWp5RHJ4UlAyVjJjYlJDNE9XWnByVEhjZmQ0SFZDb001dEJMRzRhNEM2MVhRM2fSAWhBVV95cUxPUkZfUXNwT1BRcUtMRXJKaUhjRFFyN0NCRmZjdkpJWUtUTnRKb01DSy1pY2d1X1d0WENMUk1vdnZlbmxZZ18zSG9wSE9kbmswYzlOczRHM3pxTXZZVlVZN01ldFEzejdrbw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-19 15:56:00"
-      },
-      {
-        "title": "柯文哲雲林參拜喊「咱的新縣長」　張嘉郡盼藍白合遍地開花 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhejNZWVBMNm9CalZQUnMxaVo4ZWltUHNQby1pbmNpemlfcUwtVm5PUUNyVE5EeHpTRUZ4LV80cEV2SnVITHpPNExqcDBWWmhxai0tSXZwMW00aDlMeTduVmxObzJhd9IBa0FVX3lxTE5TNTJCdGpTTjBIRkRvQnZxSFBvR2dUV1NYX1ZLUVJEWVFmT1p2WGhzTUp3QkZqNXhsY3Vmd3pjREpsNkZlVG5nVnJ6OVZSZnhSSlVEMHZiQXFaUlR1YW1NNVcxT1VaalFSSUZj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-19 15:33:00"
-      },
-      {
-        "title": "柯文哲雲林參拜喊「咱的新縣長」　張嘉郡盼藍白合遍地開花 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TNTJCdGpTTjBIRkRvQnZxSFBvR2dUV1NYX1ZLUVJEWVFmT1p2WGhzTUp3QkZqNXhsY3Vmd3pjREpsNkZlVG5nVnJ6OVZSZnhSSlVEMHZiQXFaUlR1YW1NNVcxT1VaalFSSUZj0gFrQVVfeXFMTlM1MkJ0alNOMEhGRG9CdnFIUG9HZ1RXU1hfVktRUkRZUWZPWnZYaHNNSndCRmo1eGxjdWZ3emNESmw2RmVUbmdWcno5VlJmeFJKVUQwdmJBcVpSVHVhbU01VzFPVVpqUVJJRmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-19 15:33:00"
-      },
-      {
-        "title": "柯文哲雲林參拜喊「咱的新縣長」　張嘉郡盼藍白合遍地開花 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TNTJCdGpTTjBIRkRvQnZxSFBvR2dUV1NYX1ZLUVJEWVFmT1p2WGhzTUp3QkZqNXhsY3Vmd3pjREpsNkZlVG5nVnJ6OVZSZnhSSlVEMHZiQXFaUlR1YW1NNVcxT1VaalFSSUZj0gFrQVVfeXFMTlM1MkJ0alNOMEhGRG9CdnFIUG9HZ1RXU1hfVktRUkRZUWZPWnZYaHNNSndCRmo1eGxjdWZ3emNESmw2RmVUbmdWcno5VlJmeFJKVUQwdmJBcVpSVHVhbU01VzFPVVpqUVJJRmM?oc=5",
-        "time": "2026-04-19 15:33:00"
       }
     ],
     "facebook": [
@@ -1716,6 +1735,13 @@
     "hour": [],
     "day": [
       {
+        "title": "提供關稅戰、中東戰火「及時雨」 張嘉郡籲：報稅延至6/30 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNOG5UeHVyZFNHNW11dW9MM3pySGVhREl0SzNMNkFVWDNQNi1wYjJ6Wmo5ZGVxblduUVZKZmViU3BNaTI0N2sxT1dlNmdxUjlnUHdxVXp2RUlETkJsa0xYdzJsdDVnRlI2UkM1Z0JJZmlBVmpDSzlSX1drQnU5eEQzVUFBaXFsMHZOV0pwV3ZHSk5fQjU0U3VZMUotQjg1NHZjRzQ3SlBydmZNSFlCR25rMHBtS0RzYzRnYjlBR1ZaZkY5bzllNThtLU9XZUpkN3JvRVFmSGN4aFo5Q1R6U2lkWUpmZllxcWNydFlDcS1va0ZGVC1Nb19mcUl5TE0ydE5oWnB6QXU3dFctelBWc0RneXhVWHJWRGxEaXJJRXhVamdzczNxTlVaV1hEUHk1alVNa09zRVlTcTZlV2pLeW1HdHdLaHdHd2RNWlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-22 17:05:55",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "【經長樂觀看中東戰事「不會太久」 雲林綠委堅決反對麥電再延一季】 中東戰事未解，經濟部規劃5月起重啟雲林麥寮電廠1、3號，讓已停機的兩部燃煤機組再運轉3個月，雲林的民進黨立委劉建國今(22)詢問7月後，麥電會不會再延一季？經濟部長龔明鑫表示目前沒有這樣 - Facebook",
         "url": "https://news.google.com/rss/articles/CBMi-AdBVV95cUxQTjlhbVlCWmNhRWlzTWl2UVlmWkVRM29VWEw2TWVSeDJaMXJISkt6LXJPMnphM3Y0czlZVzBuYzlYUXhvYjB2YVExdVcxZnhJa19XbDZENjNVSVk3SmRUdFlVcHRsN1FNMzRxLUZUajV0SVR5Wmt2VmNFT0l2VFlhcGN5U1NadVdIUXZwV2o4ZVIxeTBUQmM3eGcyMlNDSHpEQkEwSG5EOHlSS3pmZE93TTlTdlE2WEVlU0pkcVdzOHFaekI3M0tNMXZULVRHQWxyUFRUa3pUcFFUaXZOZWRxYnNEMW5ROS1vTWR2Qnh0SlFITnVrX3dmMlduZ3Fkd2d5dFZOdHNpZE54Q292RF9rSDdQdWg5WmJQN3hhVUVneG80YjhzaXlkS1NKTk5yVGtZT1Z6Wjlaalo5MVZLY1Z3TzAyRDliamUzRDZ5YTJ6T21fc0lNMnRoTUQzbWNrQWMzQUd6RHJKeElFOVRmeW8yY3NWbWRvTHVhRS1Cc1NhSTQtMEdTcWhGcXJsYmlLdnFSTnFHcHF3ZXVkRUpBeUp0cm1oQ1IybHJKSzZ1eC11bmxRaTdNaUczbVl0VlhfSzZ0Z2JxSEtGbFZQcmNtaVpWNnlYblQ4d2dvRmFaV1AxSGdlRXdTcDhqNWpRRkQ2MDlWeVJ2YnRsUFgtOGJnem9oNlpNaUdaVjdDbHJGNENGZ3FYc3JYbkJ4bGNfbUNUZEVVN0tmajhCQ1NvZ1NFZDU4am93Zk42ZFA3RHdLMDlDejhBdGE3alM4UW9hRUxtWUtDWXBVSlhfSXF1c0xXeFY1c3VudEx0eWFpR3RZN1dtbFd1SkFnS0ZURWtxaUIySkNwcktFVVhlMkEyZlUzR0w4WFFCN2ZQMllwcnFfMXp1UU5PUlN3eUYzVnVKcXRPOHR5eFpBX2hJUTBOcU1VWmRYTDRiQ244QUJXZlZtSVF4WGJEM050aXpkM3lITXR2TUNWSHgwZmJhaTFXSXdiTWQwRVIzTHNYMEh1aVB3RTVqM3p2RjhLWXVjLWk0d2dHVThCczVnc0d1dEFvU1BCNGhnTU9lVWl5c3dnUW5KRWZZLXhhZFVVWk93Rm90aF83NHhxRUlDY3Y1ZV9iMFBRQnRKTVlna3JGa2VROUFha1ZSR3FPVV9wb3AtVUJObFp5Y045V1B1Vm9aNlFPeVVlU0JpVTQtT0ZNMkJSMXp0b2ctVkx0dHMwN1pTUjRIaHF6OERLbXJiUFZyMF93WkJLZTF4RjRGMzJwTGxpQncwbVJiRzBZNkJuWW1qZ1lpTExfZjVWLThUY1ZLRUFOcFV3N3c4U2liQTAzVWFRR2FDUmhMdmJXV05FblctLQ",
         "time": "2026-04-22 16:20:06",
@@ -1723,9 +1749,23 @@
         "risk": "綠"
       },
       {
+        "title": "美伊戰爭衝擊 張嘉郡籲：所得稅報稅期展延至6月底 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCWURjai0xSk4wM0laOTFQcXJicXFIeVhWaUJkM1FTbkp2NHN3S1g0N1gwQURreFZFazdhYmVaNGxBZ1owdVRVQWNWd0tPR1k2Slc0WjFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-22 16:19:46",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "美伊戰爭衝擊 張嘉郡籲：所得稅報稅期展延至6月底 - 太報 TaiSounds",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBONUh0dUotMTV0ZVcxZ0xjYWpkcXIxSEFWQ3B1TzhRVUhJU1kzcDUwTFdGZWg3UHh5LVN1empsV0xrblVISjROTGhsYVhnUHhkSUZhLU9tdE95aFpY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-22 15:56:06",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tYnhRZUhJelo3OWpCbWZ0Q3p1NE1aeGx5c3FIQ0ZJVXE4aDdGWUE3Qmt3al9JeHlrWmhCTlpYQ0FIR05uRE5GamZuaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-22 15:52:10",
         "platform": "news",
         "risk": "綠"
       },
@@ -1833,27 +1873,6 @@
         "time": "2026-04-21 20:31:00",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "討論牆 | 柯文哲走訪雲林 張嘉郡同框(圖) - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlRGt2c09pQVZEbElOTUFZZ3Q4UlVrdFVYRGJsaEtiaWZCSHZwa3QwZHA3WEZDNEVzLW9MVHZLaEthVzEtWnVCUTlyWHJaWjFtTFQ5d2REU3hpTGZhNWZYdS1CNlQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-21 18:18:29",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "稱「民間聽到美已通知關稅稅額」 張嘉郡：為何政院遲不公開？ - MSN",
-        "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPdDluQWlJWndITGdGM2tGVmpES21XcEt0RVNtdU1Id3lSWEtjelJHRWt4dlhLd3dNeGFxeDBManI1N3JXTDR1VmloelByQTRHZHBkaHFoUjZ6c29fQnUyZVZXODNKMVdnaEtpWTVEc0F2YnFlcVhxSmg5cXNjemhrTjB6QlMxSDVsb1BxYU9nWC0zWXQ2S1A4UzJMTUVjbmZ3YUVwaWV4VVJRSnN5Z3lHNnJJSVZYNnpsRjNBaUpoQTdsSWtsVnZjdGY1S29lb2duSnI1cVJ3b1RZX0pZWTZOTzhFTzQ1a0s0VExtZWE0WjQyTFRsNGxabGNXZGFKekpGWC1XTTRTb0pqMWdfdVJPaVZ1R28yQ3Utbnp6ajBNSFYwRTZxczZmY0dsMWpieXlROHh6emRFQ0wydlhrMkVWMkI0dXg0VDJmdXJhc0Z1U21PakFkZ0N3U2oyazUxam5hYWdzeUE4MjdEai1WbkpXbFVXNGJvUHNMc0ktVk1kblk2LUlfZndSb2o2YkltSDRyMkplTG9rYWdLTVZIZWViSXJpZzkzV1ZfcWdNUExEQmVTTGxxWldBeDdjZzZJc1BVM0N1eDliU1djNlZlangycGt1ejdUdDltTkdqUEpnVGhnTkpiTWZ4YlVJVHVwS1FmYnZsRVlyZGdiaDZITFpUcHhPX1VCbkRzOWlqM2MtVTVmYzFvUERv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-21 17:45:16",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "稱「民間聽到美已通知關稅稅額」 張嘉郡：為何政院遲不公開？ - MSN",
-        "url": "https://news.google.com/rss/articles/CBMimARBVV95cUxQcHY3dlE5X0VLeHVrYTFFeGx4d29CTzVuSzhPUWxNUTRoTXl6MjEwa180TDM0SGs5Sk1kZ2RVaFo2MXlabDZHRWwwa0hmc1pPX3FvZ2IwMVBaX1B6REdlWnJDaEhJcmdnOFRxOW9HS0RhZWFUUGlRRjV6RWcxMjNsZ25KZGdNTU9NNnNoSjNfZnl3RG1DMjk2VHhlUHkwQU44RWFHZnQtRnZNYkc2SDFSNDZha2FHanQ2Sk9wYks3TWVwWVVhR3Y2bVlXbWlqQnJValhqRTNwM0Q3bmJOeWtjakdrZW5hZzFxODBGbzJRSUhONERJV1g4ODd2d1hJanVJMmtCMVhuZWt0aFVEVkFkTWNkRFJDRnI4NHVoS3lCeFZTdlhCUHNBbG1sX0d4YlZNeVpfUTJpdjFXdjJ2aFpoc3FZcF9zNzk0UjZTODRha25sZWIwX3pISTJ5OF82RnVOeU95QVBodDRzNUhSRlZuWW1wUC1oMGx2SzRqWS1qYTlxR1d6TmpJOERLUlFrM2RBbDFUSHN2dnNDbWp2blJKTjdHMnBfVElQWXZsYkw5MWtEUndVZjJzNWNrY2JzTFYxa3RZU0d0Ml9ZRW1DcTZfb3dWbElhR1NUZGFwXy1yMi1WWnNyTi04YzJ0dmIyVnRhLWdfTjJhLVdxNWMwTUVlZnBUazF2RUVYZWJHNmgtSTV0UWdVY1ZwaQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-21 17:45:16",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -1861,7 +1880,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 8
+        "count": 9
       },
       {
         "name": "麥寮",
