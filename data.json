@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-04-23T07:38:05.259145+00:00",
+  "generated_at": "2026-04-23T07:53:10.864532+00:00",
   "metrics": {
-    "total_24h": 31,
-    "prev_24h": 20,
-    "growth_pct": 55.0,
-    "news_24h": 20,
+    "total_24h": 26,
+    "prev_24h": 26,
+    "growth_pct": 0.0,
+    "news_24h": 16,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 118,
+    "total": 119,
     "prev": 55,
-    "growth_pct": 114.55,
-    "news": 84,
+    "growth_pct": 116.36,
+    "news": 85,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,11 +28,11 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 20
+      "count": 16
     },
     {
       "platform": "facebook",
-      "count": 9
+      "count": 8
     },
     {
       "platform": "youtube",
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 84
+      "count": 85
     },
     {
       "platform": "facebook",
@@ -56,7 +56,7 @@
   "by_hour": [
     {
       "hour": "2026-04-22 15:00",
-      "count": 8
+      "count": 2
     },
     {
       "hour": "2026-04-22 16:00",
@@ -92,6 +92,10 @@
     },
     {
       "hour": "2026-04-23 12:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-04-23 15:00",
       "count": 1
     }
   ],
@@ -303,16 +307,20 @@
     {
       "hour": "2026-04-23 12:00",
       "count": 1
+    },
+    {
+      "hour": "2026-04-23 15:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 19
+      "count": 15
     },
     {
       "platform": "facebook",
-      "count": 8
+      "count": 7
     },
     {
       "platform": "youtube",
@@ -320,49 +328,12 @@
     }
   ],
   "mention_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "劉建國 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1icnZ0Qy04TVZrRmtPSkRyYi1sbFo4YUxsdWplV2JjOG90bUp6ZVAtSHRRbFljblRqME8tOUpZQmRNSVdJUHNlZGYtUVpWY09jUDhDRUMzV3lZakIxc2U5WmtHdVlub053U1gtUTFhdGJPbTl6cTZCZGZ0dw",
-        "time": "2026-04-23 12:17:07"
-      },
-      {
-        "title": "#新住民語言中心扎根雲林🌱 #讓多元文化成為地方優勢💯 走進「#新住民一家一菜」活動現場，每一道菜，背後都是一段跨越國界的人生故事。 有人把家鄉的味道帶來台灣，在廚房裡延續記憶；也有人把不同文化交織，變成屬於這片土地、也屬於自己家庭的新日常。 嘉郡希 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxOYnl5ekFKc1pMTklIZW00Qm1fWjFscjlBQjZxVHhnbUpXUUZ1OWN3Q1hGUUpzbVBMTWc4dVlqeE9vMzRiQXp6SUdlZWdFdUJtZGx1Mmo0bkdja0dPMUFBSFg3V0hEbjZ2TmpMd3hEZWwzZFhSemhHMUtqRUtBeEJJbl9CTm1wTUt3REw2SjIxN1BabkNzWWhadmRJTVFlSmE0elRTTndrTG0xYzZYTFpMUkdHNUlFd3dnZGt4c1Q5dG95OWR5d0RxWFdldTl6WDJteVJwRXFTblVzbGxQRGllMTNzZnlZVWtQcVJreTlFUzJnZlowZGl4VTBNcU5tRW5yWWdwMk5vazh1LUpTM0ZpNXVPTExKMFJ5RU5naUZxWGRFRmVmV0NVbktwREJpNmprRFVUd0dUZ2s4VzVyRUdxM3hJdFgyV0lQRl85ZFFUSHlyNDlBcU9JUGE0Vy13cmhra1NZZkRQR0Y3dTg1YUNtczhxSmdlTE02WENPVGk3MUlKcXhmOE9Zd3Ayekp6dVh0YWdUaWpYNmdFZDJaT2NxZ2R5aDltTEtuQV9XN1VFZzRxSTB5LTItQzB6UmczTXRqRjc5Mk5PdG42blV5UGtfMk5MbkRiN0F4bUszbFk5a21MMUIyUTd4LXFEcUtCNlk5dVp4XzBscWNqb1owUW1CU3RkbW9Pd3lXOTkwS1h0ZzYwdkl5aGo4WWNiN2NoZ3NOLVpBS2VrWmd5VVFydnp1SV9xRHNxZTQ2Z0ItREJEdFpwVGwyMDlTS3o4bndCVWhYYTdUOGlpanNxOXk3aHhkTGktSmVTRUZyOVVaNENPQ1hXMTJqRnlHQThjSWxCTkdhSTcyUndPZ3hFLVYzMHA1Rnc3Tl9rdDRMQVNYVWo2SzJVUm5BOUZaaVlyNXg4eXJnSTJQOHlRcm5XclN3OFpST3FKdFdPbDNzaVFZQVhnSkVTb0YxLWU4anZiTXJCbVlDSHF0NWUtOE4wak1vNXFuVFFBdVlkLW1wZEE4S3hXdl9XS245MlEzWk5pcll5OHp4YkFDODNteFNVbnpTMzVhbjNxRElWQ1NYS3hiYjZCNjFtMWdTLVcyRTZNNlNPbWFHZ2NVdHhJZTBVTG83TGlzVndEYUp0YlpEQzdVc2ZWS21Jcm1VS1hLN0FHS09hQlo3bkFwNk92SVVQSVJHaFg1SnlFRnBIUTBNdG5VelpyMm05UzFFQ21iSlgybUFZbENaSjlrZDRwb1N4ZENFMTZQbVlzRW5QemJJeGU0d00zZ0I5cEJ2NFpQMFRFX3hXZS1OVlI3U0RWUHRsT1I4REk0OFo5cTRXcXhzUWZ1UGJRSUpiUFA3b1VkOVZSVEJRNWQ2eU43dHZ6eTRLdjNxLWRXMkV5emlhemk2UGZNdVFlcUFYT284djlKTzU3cmZCN2s",
-        "time": "2026-04-23 08:46:25"
-      },
-      {
-        "title": "張嘉郡 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWWmJ5MG9hMU5lUFBzelVrQ1QzenhsQU5iWVJzYXh0ZE0tOG03RGJmMUZNQVZDc21tRGlYUU56YzBJaXlsZU9tak1OWmk3VEtQb0pRYzdoVmtFMGRmclhEUXVjeUpsU1cwUXRmQkk5NlN1bXlRQmdkUHhsNA",
-        "time": "2026-04-23 08:46:25"
-      },
-      {
-        "title": "【藍委張嘉郡籲延長報稅期限 經濟部回應了】 . #連結見留言處 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOcFZmbVRVOG5MNG1jNUlDOXBjQnJxMktOOTU4YjhiWFdfS3VMQnpzWkxfLXg1V2xuTWpxelJyZXRTYVFLNnR0a3RnUHg1bS1zdGtZLURyLWJvRHR4cUhWTC1oNGpLdzRDMjFmNnVfR3dFX2UzS245V0RpamczNDl5MlRLc0otWkUwUW5WZGpHLXhIaF9kOEVIM25sbXJhcVFiTkRuX054S1R0RVhXZGpPak8xVWVJT0l2RnFEV1VsbzM4cFM4V0tzY0JjZk9hSThyYVZYb2Jid2tzcGM4WUVPWmlRZnNXZjVJalJQTzZURTVLbE9EYkNEbmJPU1NUMmpjY3hlZWhLeTZFT3RKOFMyVzRRQTZtZm1QWTJXeG5uUFlfekl3YmpCMVRzSlFBM25VWjlyVV9UZFM0bWd2NjNSQUdCZy1mMWRzZW9pU3hIZXlyQTl3dE5kMVBKQXI4MFV6T18wVjdDdkdLeTY4STlGdmRuODNYelZESkZEZ0otRFJ1clZ2UU9MVlhRa0VVbzYybU9r",
-        "time": "2026-04-22 19:32:46"
-      },
-      {
-        "title": "立法委員劉建國邀集教育部國教署署長彭富源，針對口湖國中、褒忠復興國小、土庫後埔國小及大埤國中等校園的運動設施與校園環境安全逐一盤點，成功爭取中央核定總計新臺幣3,500萬元經費。 - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMihghBVV95cUxObUhpRnJCQjFmdmVfRUdfbkFGRU14RzdWUHlocGc4MEVZRnFFY1VaVHdROTJJQW9IdnpTWUtvZGtsTURUNkYxSTI2UnNubnRjakFVN2NwVTJLWjVYQjNJSGVPNUdSMUoxaUl1OWd0N3JaanM4UzFvbEF4aDlVMGRlcTlaaTJxZXhrOTk0LWx4WlBCakVWa1hKYW1PV3ZMaDdGdE9FWTR1dmJ5ekRFSTYzRGJSQjR0MXRoNXNlNVNyMEVNRERuS1ZuVFZRLXJJLTh0S0Q3YzU1azFqRDljRW9lcngyWUZxV0wzVUFSSXRUTmpUSnMwdmJlbEQ3NlVWYnhxY1Y5aWNaM2RxZk5fRENrb1ZTNWV5NmdJeXRyTHJGTkFscVgybDd2Mm1tRmU4b1hCRTBmV2RzV2U1blVoeWNpN0FJNUtxaUxocWdDel9OTHVFY0NzdjNGT1hHa1lUWkNmX3dDY3VTbXE0MU01Y3NhbllxVGhpelRZSHJFakVUT2MtVWhCUFg1cFpQTGZsRXJCVFdOM2FMbWtkZGp3Z1VDTF9aenFnXzJ0WWVhdlN0QzFZVldjSndEYmkwdzc4WmpjN0hXcGY4UDNQcXdxc2tFc3R6S01scFk2T1F1cTZseDhyVF9OcWJKLWZEdzJvTnowaUJLTWt3R0lyV093cDFfWFFnanRZVEpmMlJhcnhLUzlhVzVkMU1tTDJLWGEzQkVYMHp3a0lKVHJ5RlZ5YkptWnlpN1hneHMwUm92c1NzN0xrTkNTQVhvNDg1Qzk4RmtTaldoYmxOUTkyUGVoTVkyc2RSSGdkNnl6bTZ4bkllb0FJcEItSEo4UjBsN3ZOWEtSLXM4eHBKbm1hT3I4Ukc1THNiczVhSFdrcHlQNjZtWHNUSzhPVTZrNDBGczZxNUdES2pHaEVUc1hoRnRKZDJXai1pS2ptTk9VOFBiRHRZck5RelFGYWVlNm5sRUxPeWt6dzd4YlFQVkw0NWpkd0lLTzlqVklLMHh6MHg3ekV1d1BQUUh0NWdKNW9CVDlfM0JXNE9KRGUxNEtlXy1LdzljQVdsQnY4al9qUzdRcXVKNVFkOGFKZkpNbzMxME5VMEh4N3FoX3daUW43MWJqR3cxNEx3UFczUklvTlhpTTNPa3lXcGFYaHh5MW5BQ3IxVEpTOFJxQnJpOGNfckdyWUhDOC1sZlBXTDhBWlZkUUhseEp4T1RCWkFIT29uRE50Y19tVDdtaGVsODZJNVFRTENoQ1FuQzJRb2ItekNyRnZDVy03V0otdmFlaFpXeXAzM1lSTHI3R1FSTDBHQmRMSURzY3F6U2dOeGlqR2lYU01faWJsbDZjMXFKb2xxVzNUTnFYSFNhMkF3",
-        "time": "2026-04-22 18:24:52"
-      },
-      {
-        "title": "美伊戰爭、關稅戰延燒 張嘉郡籲「報稅季」延長一個月 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNUi1iUkc3QmNZMUg2RmM2Rk5qOWVPUzcwOG56aXd0M1hSdFd5WFF3U2QzNjJUV0lJckRUaEcwamRlRUtZWEQ5SjNucG9OaFNVcWF2TlhSTUo3a2JGZmR3bWlaUHBDd2pJNXhqUi04RUlvLWdFQ2x0VVo3MmZLWm1kUHpjRmJ6Tno4cHpBMFRueXBVbTgtejZicWpRbXBfNldmZm5zSm9GSzNrSlNhRVl6UjNxX0xvdHlINzF0XzlVVG52dXZDcGVJX1Y1S19HTjkwX2hoU19oVUVIRV9qWkJOZDFSNXZjS0lkeHJsamZsb0hJZWVqWDJ2N1YxVHZ4QVpTWTMzQXdhQzN6Ny0yN3ZhcGRhZEJGbEtnTmhreFZPempwNFNpdllRS0trM1BwdnA0RW5kcGZjeUxJU0FLb2VJU0hWei15QnZwcV85MWNOZExDVFJtU21TbnpmZFJvWDVyeG1NamUyNlRqQQ",
-        "time": "2026-04-22 17:20:02"
-      },
-      {
-        "title": "【經長樂觀看中東戰事「不會太久」 雲林綠委堅決反對麥電再延一季】 中東戰事未解，經濟部規劃5月起重啟雲林麥寮電廠1、3號，讓已停機的兩部燃煤機組再運轉3個月，雲林的民進黨立委劉建國今(22)詢問7月後，麥電會不會再延一季？經濟部長龔明鑫表示目前沒有這樣 - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi-AdBVV95cUxQTjlhbVlCWmNhRWlzTWl2UVlmWkVRM29VWEw2TWVSeDJaMXJISkt6LXJPMnphM3Y0czlZVzBuYzlYUXhvYjB2YVExdVcxZnhJa19XbDZENjNVSVk3SmRUdFlVcHRsN1FNMzRxLUZUajV0SVR5Wmt2VmNFT0l2VFlhcGN5U1NadVdIUXZwV2o4ZVIxeTBUQmM3eGcyMlNDSHpEQkEwSG5EOHlSS3pmZE93TTlTdlE2WEVlU0pkcVdzOHFaekI3M0tNMXZULVRHQWxyUFRUa3pUcFFUaXZOZWRxYnNEMW5ROS1vTWR2Qnh0SlFITnVrX3dmMlduZ3Fkd2d5dFZOdHNpZE54Q292RF9rSDdQdWg5WmJQN3hhVUVneG80YjhzaXlkS1NKTk5yVGtZT1Z6Wjlaalo5MVZLY1Z3TzAyRDliamUzRDZ5YTJ6T21fc0lNMnRoTUQzbWNrQWMzQUd6RHJKeElFOVRmeW8yY3NWbWRvTHVhRS1Cc1NhSTQtMEdTcWhGcXJsYmlLdnFSTnFHcHF3ZXVkRUpBeUp0cm1oQ1IybHJKSzZ1eC11bmxRaTdNaUczbVl0VlhfSzZ0Z2JxSEtGbFZQcmNtaVpWNnlYblQ4d2dvRmFaV1AxSGdlRXdTcDhqNWpRRkQ2MDlWeVJ2YnRsUFgtOGJnem9oNlpNaUdaVjdDbHJGNENGZ3FYc3JYbkJ4bGNfbUNUZEVVN0tmajhCQ1NvZ1NFZDU4am93Zk42ZFA3RHdLMDlDejhBdGE3alM4UW9hRUxtWUtDWXBVSlhfSXF1c0xXeFY1c3VudEx0eWFpR3RZN1dtbFd1SkFnS0ZURWtxaUIySkNwcktFVVhlMkEyZlUzR0w4WFFCN2ZQMllwcnFfMXp1UU5PUlN3eUYzVnVKcXRPOHR5eFpBX2hJUTBOcU1VWmRYTDRiQ244QUJXZlZtSVF4WGJEM050aXpkM3lITXR2TUNWSHgwZmJhaTFXSXdiTWQwRVIzTHNYMEh1aVB3RTVqM3p2RjhLWXVjLWk0d2dHVThCczVnc0d1dEFvU1BCNGhnTU9lVWl5c3dnUW5KRWZZLXhhZFVVWk93Rm90aF83NHhxRUlDY3Y1ZV9iMFBRQnRKTVlna3JGa2VROUFha1ZSR3FPVV9wb3AtVUJObFp5Y045V1B1Vm9aNlFPeVVlU0JpVTQtT0ZNMkJSMXp0b2ctVkx0dHMwN1pTUjRIaHF6OERLbXJiUFZyMF93WkJLZTF4RjRGMzJwTGxpQncwbVJiRzBZNkJuWW1qZ1lpTExfZjVWLThUY1ZLRUFOcFV3N3c4U2liQTAzVWFRR2FDUmhMdmJXV05FblctLQ",
-        "time": "2026-04-22 16:20:06"
-      },
-      {
-        "title": "調度麥電燃煤 #劉建國：雲林人繳稅少？ - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPYUVpWTlqUjJ4SE5BX3B6YWNMOHFEUWxWdTRHSEF2UDdneDdxMkFMNXRCeEdRZF80dC14d1c1bkVBZzdDQnlWNV9FTElXSHV5eUpPYlFnRDRPeVdWZUF1aml1RGJSdjhjMzduaE9fWWNhT0dSRU9FNTVOZ0ZYdjdhTFBGc1I3Y1NlTERvWUlDRFVHbnJiOTZBWXVVenVaQ2FEZXV6ZFRrSkdsejM4clJ3cGczMENhLVFlUjE0c012SVF0N2xDN2FqM0k1V2R3dllvYW5IZ3F6YnlsLWhVTzJ1eFZNN3d6Rmd6VFNUMlM4ZlRuNnFMSm9VQTc1LVM4cjRMc1RoeFNNeXNtcExneFFwbkxpTEZPdW1qRnExclkyQkJjQ3Nl",
-        "time": "2026-04-22 15:49:09"
-      }
-    ],
     "news": [
+      {
+        "title": "AI盜眼科權威賣假藥！張嘉郡籲公平會建立快速下架機制 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTU9WUnlrWG85QWNPSEtmMmhHbzgtN0h6Q21JVVk3RGs1MExFTFBSekJ6eW4yREx5ZWRDZEpXVmJsbVJ5VXoxN0dpenBIS3Q3cFBKXzlCalV4cnVHRVdkcExxTVNBREVxM1hTMkhzb1hxQ0RKQW9vRG5DenlONVZ5TXRWVWtoeUlDd0w2Q2RfOUJveVdPTmlzUE9Jay1xVEpZOXMtdEZwaG5pQWdiUTlrQ0xMOWZEcE5BQUlkQUJXRmlwYWR0WUdMUXlQZTJQTXNSeEVCU1QtbHFDV01RV1FrZmg0eU9CNnA1bEF5SzhXQi0wa3hsT3lKSEdUUWhBdW84dG42UWYxRjhrV1ZUb2RlN0x3djNVR2UyTHA5R2c3T0ZKZW5PaHdNNE5kc1J1R3Q2TWdyZ1hwQXA5cmJNQ0pmQ2FrWU5lQkpBSzh4MmV1QWUxWUhEWDB6b04wTXpJRHc5b3RDbkp1ZUdNeVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-23 15:28:53"
+      },
       {
         "title": "劉建國爭取3500萬 雲林多校運動設施全面升級 | 觀傳媒 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IQzRCZ1pkU0syRVBqSFprRC0tUlg1TnQ0dU1ySTJqVUxDMnNYQTB2ZExYbGowcDF3bWdGNHd2WWR6dXpQcFZjdE1paWNrc3JkYzltVGZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -432,31 +403,43 @@
         "title": "美伊戰爭衝擊 張嘉郡籲：所得稅報稅期展延至6月底 - 太報 TaiSounds",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05WTFJSVRMQ1pkUW9lVE1NVHM2YzdDYlVhbkRYZ1d4cWk5THNBOUJ1ZDdxOUhxY1NHYjhUSnpzeEFKTTc0cE84WUx3aHd3a1VzVHBwdVZBbm9iMnlK?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-22 15:56:06"
+      }
+    ],
+    "facebook": [
+      {
+        "title": "劉建國 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1icnZ0Qy04TVZrRmtPSkRyYi1sbFo4YUxsdWplV2JjOG90bUp6ZVAtSHRRbFljblRqME8tOUpZQmRNSVdJUHNlZGYtUVpWY09jUDhDRUMzV3lZakIxc2U5WmtHdVlub053U1gtUTFhdGJPbTl6cTZCZGZ0dw",
+        "time": "2026-04-23 12:17:07"
       },
       {
-        "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tYnhRZUhJelo3OWpCbWZ0Q3p1NE1aeGx5c3FIQ0ZJVXE4aDdGWUE3Qmt3al9JeHlrWmhCTlpYQ0FIR05uRE5GamZuaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-22 15:52:10"
+        "title": "#新住民語言中心扎根雲林🌱 #讓多元文化成為地方優勢💯 走進「#新住民一家一菜」活動現場，每一道菜，背後都是一段跨越國界的人生故事。 有人把家鄉的味道帶來台灣，在廚房裡延續記憶；也有人把不同文化交織，變成屬於這片土地、也屬於自己家庭的新日常。 嘉郡希 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxOYnl5ekFKc1pMTklIZW00Qm1fWjFscjlBQjZxVHhnbUpXUUZ1OWN3Q1hGUUpzbVBMTWc4dVlqeE9vMzRiQXp6SUdlZWdFdUJtZGx1Mmo0bkdja0dPMUFBSFg3V0hEbjZ2TmpMd3hEZWwzZFhSemhHMUtqRUtBeEJJbl9CTm1wTUt3REw2SjIxN1BabkNzWWhadmRJTVFlSmE0elRTTndrTG0xYzZYTFpMUkdHNUlFd3dnZGt4c1Q5dG95OWR5d0RxWFdldTl6WDJteVJwRXFTblVzbGxQRGllMTNzZnlZVWtQcVJreTlFUzJnZlowZGl4VTBNcU5tRW5yWWdwMk5vazh1LUpTM0ZpNXVPTExKMFJ5RU5naUZxWGRFRmVmV0NVbktwREJpNmprRFVUd0dUZ2s4VzVyRUdxM3hJdFgyV0lQRl85ZFFUSHlyNDlBcU9JUGE0Vy13cmhra1NZZkRQR0Y3dTg1YUNtczhxSmdlTE02WENPVGk3MUlKcXhmOE9Zd3Ayekp6dVh0YWdUaWpYNmdFZDJaT2NxZ2R5aDltTEtuQV9XN1VFZzRxSTB5LTItQzB6UmczTXRqRjc5Mk5PdG42blV5UGtfMk5MbkRiN0F4bUszbFk5a21MMUIyUTd4LXFEcUtCNlk5dVp4XzBscWNqb1owUW1CU3RkbW9Pd3lXOTkwS1h0ZzYwdkl5aGo4WWNiN2NoZ3NOLVpBS2VrWmd5VVFydnp1SV9xRHNxZTQ2Z0ItREJEdFpwVGwyMDlTS3o4bndCVWhYYTdUOGlpanNxOXk3aHhkTGktSmVTRUZyOVVaNENPQ1hXMTJqRnlHQThjSWxCTkdhSTcyUndPZ3hFLVYzMHA1Rnc3Tl9rdDRMQVNYVWo2SzJVUm5BOUZaaVlyNXg4eXJnSTJQOHlRcm5XclN3OFpST3FKdFdPbDNzaVFZQVhnSkVTb0YxLWU4anZiTXJCbVlDSHF0NWUtOE4wak1vNXFuVFFBdVlkLW1wZEE4S3hXdl9XS245MlEzWk5pcll5OHp4YkFDODNteFNVbnpTMzVhbjNxRElWQ1NYS3hiYjZCNjFtMWdTLVcyRTZNNlNPbWFHZ2NVdHhJZTBVTG83TGlzVndEYUp0YlpEQzdVc2ZWS21Jcm1VS1hLN0FHS09hQlo3bkFwNk92SVVQSVJHaFg1SnlFRnBIUTBNdG5VelpyMm05UzFFQ21iSlgybUFZbENaSjlrZDRwb1N4ZENFMTZQbVlzRW5QemJJeGU0d00zZ0I5cEJ2NFpQMFRFX3hXZS1OVlI3U0RWUHRsT1I4REk0OFo5cTRXcXhzUWZ1UGJRSUpiUFA3b1VkOVZSVEJRNWQ2eU43dHZ6eTRLdjNxLWRXMkV5emlhemk2UGZNdVFlcUFYT284djlKTzU3cmZCN2s",
+        "time": "2026-04-23 08:46:25"
       },
       {
-        "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNTVEUk5tQm5CZzZNemE4bU1pazJ1aFE1VENjdlNrYTVJbzZYaE9vWlE2bEtzX0U2YVNWY0NtWTYzcEZZVFg5MjJiVEF1T0QwSVdsTHJ1MTE3NWEtNnRRaG1FYUlVZ2t2UjhQcERwR2czeGNEWXotdWxXalNHSjZnbTFLVWhxNnZ5RzY2bmEtWmFkR2hrMlAyQWFBUnUzZkpGU1NHeENFNVA4NThfWC1UMkFpYU9HaFlXOU9JZEFpckdhU0M5LWYtTFJ1a2VOR1FpeWI0LTNIQ21sWGxEb3ZBRlRwTmFFdWlqRHktTExZQ1NoQ1Z3Y0JKajVIVEo5aDZ4UHNWdThjOGVWZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-22 15:50:00"
+        "title": "張嘉郡 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWWmJ5MG9hMU5lUFBzelVrQ1QzenhsQU5iWVJzYXh0ZE0tOG03RGJmMUZNQVZDc21tRGlYUU56YzBJaXlsZU9tak1OWmk3VEtQb0pRYzdoVmtFMGRmclhEUXVjeUpsU1cwUXRmQkk5NlN1bXlRQmdkUHhsNA",
+        "time": "2026-04-23 08:46:25"
       },
       {
-        "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yeFZBc0F2MUVSc0dHUXZsSzI2SWU5Y1l1V043WDU3R3FTaWRtYnVmWjA1ZU5PV2syUmEwS3ZKaGpNTDRnVGVmMWdWdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-22 15:49:39"
+        "title": "【藍委張嘉郡籲延長報稅期限 經濟部回應了】 . #連結見留言處 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOcFZmbVRVOG5MNG1jNUlDOXBjQnJxMktOOTU4YjhiWFdfS3VMQnpzWkxfLXg1V2xuTWpxelJyZXRTYVFLNnR0a3RnUHg1bS1zdGtZLURyLWJvRHR4cUhWTC1oNGpLdzRDMjFmNnVfR3dFX2UzS245V0RpamczNDl5MlRLc0otWkUwUW5WZGpHLXhIaF9kOEVIM25sbXJhcVFiTkRuX054S1R0RVhXZGpPak8xVWVJT0l2RnFEV1VsbzM4cFM4V0tzY0JjZk9hSThyYVZYb2Jid2tzcGM4WUVPWmlRZnNXZjVJalJQTzZURTVLbE9EYkNEbmJPU1NUMmpjY3hlZWhLeTZFT3RKOFMyVzRRQTZtZm1QWTJXeG5uUFlfekl3YmpCMVRzSlFBM25VWjlyVV9UZFM0bWd2NjNSQUdCZy1mMWRzZW9pU3hIZXlyQTl3dE5kMVBKQXI4MFV6T18wVjdDdkdLeTY4STlGdmRuODNYelZESkZEZ0otRFJ1clZ2UU9MVlhRa0VVbzYybU9r",
+        "time": "2026-04-22 19:32:46"
       },
       {
-        "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yTE15d1pUcGQtbC15b0xmV1k0RUlEdjh3NEgxRERhNC1NUmI4V05XdTBEVGhLaWZkTWEtXzRIQ1VkZWlFU2cySTdVN0MyU0EtTW9teWJfRDk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-22 15:45:00"
+        "title": "立法委員劉建國邀集教育部國教署署長彭富源，針對口湖國中、褒忠復興國小、土庫後埔國小及大埤國中等校園的運動設施與校園環境安全逐一盤點，成功爭取中央核定總計新臺幣3,500萬元經費。 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMihghBVV95cUxObUhpRnJCQjFmdmVfRUdfbkFGRU14RzdWUHlocGc4MEVZRnFFY1VaVHdROTJJQW9IdnpTWUtvZGtsTURUNkYxSTI2UnNubnRjakFVN2NwVTJLWjVYQjNJSGVPNUdSMUoxaUl1OWd0N3JaanM4UzFvbEF4aDlVMGRlcTlaaTJxZXhrOTk0LWx4WlBCakVWa1hKYW1PV3ZMaDdGdE9FWTR1dmJ5ekRFSTYzRGJSQjR0MXRoNXNlNVNyMEVNRERuS1ZuVFZRLXJJLTh0S0Q3YzU1azFqRDljRW9lcngyWUZxV0wzVUFSSXRUTmpUSnMwdmJlbEQ3NlVWYnhxY1Y5aWNaM2RxZk5fRENrb1ZTNWV5NmdJeXRyTHJGTkFscVgybDd2Mm1tRmU4b1hCRTBmV2RzV2U1blVoeWNpN0FJNUtxaUxocWdDel9OTHVFY0NzdjNGT1hHa1lUWkNmX3dDY3VTbXE0MU01Y3NhbllxVGhpelRZSHJFakVUT2MtVWhCUFg1cFpQTGZsRXJCVFdOM2FMbWtkZGp3Z1VDTF9aenFnXzJ0WWVhdlN0QzFZVldjSndEYmkwdzc4WmpjN0hXcGY4UDNQcXdxc2tFc3R6S01scFk2T1F1cTZseDhyVF9OcWJKLWZEdzJvTnowaUJLTWt3R0lyV093cDFfWFFnanRZVEpmMlJhcnhLUzlhVzVkMU1tTDJLWGEzQkVYMHp3a0lKVHJ5RlZ5YkptWnlpN1hneHMwUm92c1NzN0xrTkNTQVhvNDg1Qzk4RmtTaldoYmxOUTkyUGVoTVkyc2RSSGdkNnl6bTZ4bkllb0FJcEItSEo4UjBsN3ZOWEtSLXM4eHBKbm1hT3I4Ukc1THNiczVhSFdrcHlQNjZtWHNUSzhPVTZrNDBGczZxNUdES2pHaEVUc1hoRnRKZDJXai1pS2ptTk9VOFBiRHRZck5RelFGYWVlNm5sRUxPeWt6dzd4YlFQVkw0NWpkd0lLTzlqVklLMHh6MHg3ekV1d1BQUUh0NWdKNW9CVDlfM0JXNE9KRGUxNEtlXy1LdzljQVdsQnY4al9qUzdRcXVKNVFkOGFKZkpNbzMxME5VMEh4N3FoX3daUW43MWJqR3cxNEx3UFczUklvTlhpTTNPa3lXcGFYaHh5MW5BQ3IxVEpTOFJxQnJpOGNfckdyWUhDOC1sZlBXTDhBWlZkUUhseEp4T1RCWkFIT29uRE50Y19tVDdtaGVsODZJNVFRTENoQ1FuQzJRb2ItekNyRnZDVy03V0otdmFlaFpXeXAzM1lSTHI3R1FSTDBHQmRMSURzY3F6U2dOeGlqR2lYU01faWJsbDZjMXFKb2xxVzNUTnFYSFNhMkF3",
+        "time": "2026-04-22 18:24:52"
       },
       {
-        "title": "調度麥電燃煤　劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaY29DbXVsam9FR1U0bk1LV2JCclN1M2xEcmRoRzdBajEtanNSTWtNT3FQZm1ZbklaaXEwWUVuUGI5XzF6bldqc3lXSmJNUFpRMlJBYjg4NmrSAV9BVV95cUxONzZPcGpwTG01ZjFuVmRQdjJYWXVkZ0RGczBmbjRoZkJUUTM3UzFuWHVuUXhadHgteVhpWUJ5MkM1c3R4M0hYRTAxbEE0dms0dzFmTXNfWTBDa0Z3ZUVqOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-22 15:45:00"
+        "title": "美伊戰爭、關稅戰延燒 張嘉郡籲「報稅季」延長一個月 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNUi1iUkc3QmNZMUg2RmM2Rk5qOWVPUzcwOG56aXd0M1hSdFd5WFF3U2QzNjJUV0lJckRUaEcwamRlRUtZWEQ5SjNucG9OaFNVcWF2TlhSTUo3a2JGZmR3bWlaUHBDd2pJNXhqUi04RUlvLWdFQ2x0VVo3MmZLWm1kUHpjRmJ6Tno4cHpBMFRueXBVbTgtejZicWpRbXBfNldmZm5zSm9GSzNrSlNhRVl6UjNxX0xvdHlINzF0XzlVVG52dXZDcGVJX1Y1S19HTjkwX2hoU19oVUVIRV9qWkJOZDFSNXZjS0lkeHJsamZsb0hJZWVqWDJ2N1YxVHZ4QVpTWTMzQXdhQzN6Ny0yN3ZhcGRhZEJGbEtnTmhreFZPempwNFNpdllRS0trM1BwdnA0RW5kcGZjeUxJU0FLb2VJU0hWei15QnZwcV85MWNOZExDVFJtU21TbnpmZFJvWDVyeG1NamUyNlRqQQ",
+        "time": "2026-04-22 17:20:02"
+      },
+      {
+        "title": "【經長樂觀看中東戰事「不會太久」 雲林綠委堅決反對麥電再延一季】 中東戰事未解，經濟部規劃5月起重啟雲林麥寮電廠1、3號，讓已停機的兩部燃煤機組再運轉3個月，雲林的民進黨立委劉建國今(22)詢問7月後，麥電會不會再延一季？經濟部長龔明鑫表示目前沒有這樣 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi-AdBVV95cUxQTjlhbVlCWmNhRWlzTWl2UVlmWkVRM29VWEw2TWVSeDJaMXJISkt6LXJPMnphM3Y0czlZVzBuYzlYUXhvYjB2YVExdVcxZnhJa19XbDZENjNVSVk3SmRUdFlVcHRsN1FNMzRxLUZUajV0SVR5Wmt2VmNFT0l2VFlhcGN5U1NadVdIUXZwV2o4ZVIxeTBUQmM3eGcyMlNDSHpEQkEwSG5EOHlSS3pmZE93TTlTdlE2WEVlU0pkcVdzOHFaekI3M0tNMXZULVRHQWxyUFRUa3pUcFFUaXZOZWRxYnNEMW5ROS1vTWR2Qnh0SlFITnVrX3dmMlduZ3Fkd2d5dFZOdHNpZE54Q292RF9rSDdQdWg5WmJQN3hhVUVneG80YjhzaXlkS1NKTk5yVGtZT1Z6Wjlaalo5MVZLY1Z3TzAyRDliamUzRDZ5YTJ6T21fc0lNMnRoTUQzbWNrQWMzQUd6RHJKeElFOVRmeW8yY3NWbWRvTHVhRS1Cc1NhSTQtMEdTcWhGcXJsYmlLdnFSTnFHcHF3ZXVkRUpBeUp0cm1oQ1IybHJKSzZ1eC11bmxRaTdNaUczbVl0VlhfSzZ0Z2JxSEtGbFZQcmNtaVpWNnlYblQ4d2dvRmFaV1AxSGdlRXdTcDhqNWpRRkQ2MDlWeVJ2YnRsUFgtOGJnem9oNlpNaUdaVjdDbHJGNENGZ3FYc3JYbkJ4bGNfbUNUZEVVN0tmajhCQ1NvZ1NFZDU4am93Zk42ZFA3RHdLMDlDejhBdGE3alM4UW9hRUxtWUtDWXBVSlhfSXF1c0xXeFY1c3VudEx0eWFpR3RZN1dtbFd1SkFnS0ZURWtxaUIySkNwcktFVVhlMkEyZlUzR0w4WFFCN2ZQMllwcnFfMXp1UU5PUlN3eUYzVnVKcXRPOHR5eFpBX2hJUTBOcU1VWmRYTDRiQ244QUJXZlZtSVF4WGJEM050aXpkM3lITXR2TUNWSHgwZmJhaTFXSXdiTWQwRVIzTHNYMEh1aVB3RTVqM3p2RjhLWXVjLWk0d2dHVThCczVnc0d1dEFvU1BCNGhnTU9lVWl5c3dnUW5KRWZZLXhhZFVVWk93Rm90aF83NHhxRUlDY3Y1ZV9iMFBRQnRKTVlna3JGa2VROUFha1ZSR3FPVV9wb3AtVUJObFp5Y045V1B1Vm9aNlFPeVVlU0JpVTQtT0ZNMkJSMXp0b2ctVkx0dHMwN1pTUjRIaHF6OERLbXJiUFZyMF93WkJLZTF4RjRGMzJwTGxpQncwbVJiRzBZNkJuWW1qZ1lpTExfZjVWLThUY1ZLRUFOcFV3N3c4U2liQTAzVWFRR2FDUmhMdmJXV05FblctLQ",
+        "time": "2026-04-22 16:20:06"
       }
     ],
     "youtube": [
@@ -475,11 +458,11 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 19
+      "count": 15
     },
     {
       "platform": "facebook",
-      "count": 8
+      "count": 7
     },
     {
       "platform": "youtube",
@@ -487,49 +470,12 @@
     }
   ],
   "alias_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "劉建國 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1icnZ0Qy04TVZrRmtPSkRyYi1sbFo4YUxsdWplV2JjOG90bUp6ZVAtSHRRbFljblRqME8tOUpZQmRNSVdJUHNlZGYtUVpWY09jUDhDRUMzV3lZakIxc2U5WmtHdVlub053U1gtUTFhdGJPbTl6cTZCZGZ0dw",
-        "time": "2026-04-23 12:17:07"
-      },
-      {
-        "title": "#新住民語言中心扎根雲林🌱 #讓多元文化成為地方優勢💯 走進「#新住民一家一菜」活動現場，每一道菜，背後都是一段跨越國界的人生故事。 有人把家鄉的味道帶來台灣，在廚房裡延續記憶；也有人把不同文化交織，變成屬於這片土地、也屬於自己家庭的新日常。 嘉郡希 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxOYnl5ekFKc1pMTklIZW00Qm1fWjFscjlBQjZxVHhnbUpXUUZ1OWN3Q1hGUUpzbVBMTWc4dVlqeE9vMzRiQXp6SUdlZWdFdUJtZGx1Mmo0bkdja0dPMUFBSFg3V0hEbjZ2TmpMd3hEZWwzZFhSemhHMUtqRUtBeEJJbl9CTm1wTUt3REw2SjIxN1BabkNzWWhadmRJTVFlSmE0elRTTndrTG0xYzZYTFpMUkdHNUlFd3dnZGt4c1Q5dG95OWR5d0RxWFdldTl6WDJteVJwRXFTblVzbGxQRGllMTNzZnlZVWtQcVJreTlFUzJnZlowZGl4VTBNcU5tRW5yWWdwMk5vazh1LUpTM0ZpNXVPTExKMFJ5RU5naUZxWGRFRmVmV0NVbktwREJpNmprRFVUd0dUZ2s4VzVyRUdxM3hJdFgyV0lQRl85ZFFUSHlyNDlBcU9JUGE0Vy13cmhra1NZZkRQR0Y3dTg1YUNtczhxSmdlTE02WENPVGk3MUlKcXhmOE9Zd3Ayekp6dVh0YWdUaWpYNmdFZDJaT2NxZ2R5aDltTEtuQV9XN1VFZzRxSTB5LTItQzB6UmczTXRqRjc5Mk5PdG42blV5UGtfMk5MbkRiN0F4bUszbFk5a21MMUIyUTd4LXFEcUtCNlk5dVp4XzBscWNqb1owUW1CU3RkbW9Pd3lXOTkwS1h0ZzYwdkl5aGo4WWNiN2NoZ3NOLVpBS2VrWmd5VVFydnp1SV9xRHNxZTQ2Z0ItREJEdFpwVGwyMDlTS3o4bndCVWhYYTdUOGlpanNxOXk3aHhkTGktSmVTRUZyOVVaNENPQ1hXMTJqRnlHQThjSWxCTkdhSTcyUndPZ3hFLVYzMHA1Rnc3Tl9rdDRMQVNYVWo2SzJVUm5BOUZaaVlyNXg4eXJnSTJQOHlRcm5XclN3OFpST3FKdFdPbDNzaVFZQVhnSkVTb0YxLWU4anZiTXJCbVlDSHF0NWUtOE4wak1vNXFuVFFBdVlkLW1wZEE4S3hXdl9XS245MlEzWk5pcll5OHp4YkFDODNteFNVbnpTMzVhbjNxRElWQ1NYS3hiYjZCNjFtMWdTLVcyRTZNNlNPbWFHZ2NVdHhJZTBVTG83TGlzVndEYUp0YlpEQzdVc2ZWS21Jcm1VS1hLN0FHS09hQlo3bkFwNk92SVVQSVJHaFg1SnlFRnBIUTBNdG5VelpyMm05UzFFQ21iSlgybUFZbENaSjlrZDRwb1N4ZENFMTZQbVlzRW5QemJJeGU0d00zZ0I5cEJ2NFpQMFRFX3hXZS1OVlI3U0RWUHRsT1I4REk0OFo5cTRXcXhzUWZ1UGJRSUpiUFA3b1VkOVZSVEJRNWQ2eU43dHZ6eTRLdjNxLWRXMkV5emlhemk2UGZNdVFlcUFYT284djlKTzU3cmZCN2s",
-        "time": "2026-04-23 08:46:25"
-      },
-      {
-        "title": "張嘉郡 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWWmJ5MG9hMU5lUFBzelVrQ1QzenhsQU5iWVJzYXh0ZE0tOG03RGJmMUZNQVZDc21tRGlYUU56YzBJaXlsZU9tak1OWmk3VEtQb0pRYzdoVmtFMGRmclhEUXVjeUpsU1cwUXRmQkk5NlN1bXlRQmdkUHhsNA",
-        "time": "2026-04-23 08:46:25"
-      },
-      {
-        "title": "【藍委張嘉郡籲延長報稅期限 經濟部回應了】 . #連結見留言處 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOcFZmbVRVOG5MNG1jNUlDOXBjQnJxMktOOTU4YjhiWFdfS3VMQnpzWkxfLXg1V2xuTWpxelJyZXRTYVFLNnR0a3RnUHg1bS1zdGtZLURyLWJvRHR4cUhWTC1oNGpLdzRDMjFmNnVfR3dFX2UzS245V0RpamczNDl5MlRLc0otWkUwUW5WZGpHLXhIaF9kOEVIM25sbXJhcVFiTkRuX054S1R0RVhXZGpPak8xVWVJT0l2RnFEV1VsbzM4cFM4V0tzY0JjZk9hSThyYVZYb2Jid2tzcGM4WUVPWmlRZnNXZjVJalJQTzZURTVLbE9EYkNEbmJPU1NUMmpjY3hlZWhLeTZFT3RKOFMyVzRRQTZtZm1QWTJXeG5uUFlfekl3YmpCMVRzSlFBM25VWjlyVV9UZFM0bWd2NjNSQUdCZy1mMWRzZW9pU3hIZXlyQTl3dE5kMVBKQXI4MFV6T18wVjdDdkdLeTY4STlGdmRuODNYelZESkZEZ0otRFJ1clZ2UU9MVlhRa0VVbzYybU9r",
-        "time": "2026-04-22 19:32:46"
-      },
-      {
-        "title": "立法委員劉建國邀集教育部國教署署長彭富源，針對口湖國中、褒忠復興國小、土庫後埔國小及大埤國中等校園的運動設施與校園環境安全逐一盤點，成功爭取中央核定總計新臺幣3,500萬元經費。 - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMihghBVV95cUxObUhpRnJCQjFmdmVfRUdfbkFGRU14RzdWUHlocGc4MEVZRnFFY1VaVHdROTJJQW9IdnpTWUtvZGtsTURUNkYxSTI2UnNubnRjakFVN2NwVTJLWjVYQjNJSGVPNUdSMUoxaUl1OWd0N3JaanM4UzFvbEF4aDlVMGRlcTlaaTJxZXhrOTk0LWx4WlBCakVWa1hKYW1PV3ZMaDdGdE9FWTR1dmJ5ekRFSTYzRGJSQjR0MXRoNXNlNVNyMEVNRERuS1ZuVFZRLXJJLTh0S0Q3YzU1azFqRDljRW9lcngyWUZxV0wzVUFSSXRUTmpUSnMwdmJlbEQ3NlVWYnhxY1Y5aWNaM2RxZk5fRENrb1ZTNWV5NmdJeXRyTHJGTkFscVgybDd2Mm1tRmU4b1hCRTBmV2RzV2U1blVoeWNpN0FJNUtxaUxocWdDel9OTHVFY0NzdjNGT1hHa1lUWkNmX3dDY3VTbXE0MU01Y3NhbllxVGhpelRZSHJFakVUT2MtVWhCUFg1cFpQTGZsRXJCVFdOM2FMbWtkZGp3Z1VDTF9aenFnXzJ0WWVhdlN0QzFZVldjSndEYmkwdzc4WmpjN0hXcGY4UDNQcXdxc2tFc3R6S01scFk2T1F1cTZseDhyVF9OcWJKLWZEdzJvTnowaUJLTWt3R0lyV093cDFfWFFnanRZVEpmMlJhcnhLUzlhVzVkMU1tTDJLWGEzQkVYMHp3a0lKVHJ5RlZ5YkptWnlpN1hneHMwUm92c1NzN0xrTkNTQVhvNDg1Qzk4RmtTaldoYmxOUTkyUGVoTVkyc2RSSGdkNnl6bTZ4bkllb0FJcEItSEo4UjBsN3ZOWEtSLXM4eHBKbm1hT3I4Ukc1THNiczVhSFdrcHlQNjZtWHNUSzhPVTZrNDBGczZxNUdES2pHaEVUc1hoRnRKZDJXai1pS2ptTk9VOFBiRHRZck5RelFGYWVlNm5sRUxPeWt6dzd4YlFQVkw0NWpkd0lLTzlqVklLMHh6MHg3ekV1d1BQUUh0NWdKNW9CVDlfM0JXNE9KRGUxNEtlXy1LdzljQVdsQnY4al9qUzdRcXVKNVFkOGFKZkpNbzMxME5VMEh4N3FoX3daUW43MWJqR3cxNEx3UFczUklvTlhpTTNPa3lXcGFYaHh5MW5BQ3IxVEpTOFJxQnJpOGNfckdyWUhDOC1sZlBXTDhBWlZkUUhseEp4T1RCWkFIT29uRE50Y19tVDdtaGVsODZJNVFRTENoQ1FuQzJRb2ItekNyRnZDVy03V0otdmFlaFpXeXAzM1lSTHI3R1FSTDBHQmRMSURzY3F6U2dOeGlqR2lYU01faWJsbDZjMXFKb2xxVzNUTnFYSFNhMkF3",
-        "time": "2026-04-22 18:24:52"
-      },
-      {
-        "title": "美伊戰爭、關稅戰延燒 張嘉郡籲「報稅季」延長一個月 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNUi1iUkc3QmNZMUg2RmM2Rk5qOWVPUzcwOG56aXd0M1hSdFd5WFF3U2QzNjJUV0lJckRUaEcwamRlRUtZWEQ5SjNucG9OaFNVcWF2TlhSTUo3a2JGZmR3bWlaUHBDd2pJNXhqUi04RUlvLWdFQ2x0VVo3MmZLWm1kUHpjRmJ6Tno4cHpBMFRueXBVbTgtejZicWpRbXBfNldmZm5zSm9GSzNrSlNhRVl6UjNxX0xvdHlINzF0XzlVVG52dXZDcGVJX1Y1S19HTjkwX2hoU19oVUVIRV9qWkJOZDFSNXZjS0lkeHJsamZsb0hJZWVqWDJ2N1YxVHZ4QVpTWTMzQXdhQzN6Ny0yN3ZhcGRhZEJGbEtnTmhreFZPempwNFNpdllRS0trM1BwdnA0RW5kcGZjeUxJU0FLb2VJU0hWei15QnZwcV85MWNOZExDVFJtU21TbnpmZFJvWDVyeG1NamUyNlRqQQ",
-        "time": "2026-04-22 17:20:02"
-      },
-      {
-        "title": "【經長樂觀看中東戰事「不會太久」 雲林綠委堅決反對麥電再延一季】 中東戰事未解，經濟部規劃5月起重啟雲林麥寮電廠1、3號，讓已停機的兩部燃煤機組再運轉3個月，雲林的民進黨立委劉建國今(22)詢問7月後，麥電會不會再延一季？經濟部長龔明鑫表示目前沒有這樣 - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi-AdBVV95cUxQTjlhbVlCWmNhRWlzTWl2UVlmWkVRM29VWEw2TWVSeDJaMXJISkt6LXJPMnphM3Y0czlZVzBuYzlYUXhvYjB2YVExdVcxZnhJa19XbDZENjNVSVk3SmRUdFlVcHRsN1FNMzRxLUZUajV0SVR5Wmt2VmNFT0l2VFlhcGN5U1NadVdIUXZwV2o4ZVIxeTBUQmM3eGcyMlNDSHpEQkEwSG5EOHlSS3pmZE93TTlTdlE2WEVlU0pkcVdzOHFaekI3M0tNMXZULVRHQWxyUFRUa3pUcFFUaXZOZWRxYnNEMW5ROS1vTWR2Qnh0SlFITnVrX3dmMlduZ3Fkd2d5dFZOdHNpZE54Q292RF9rSDdQdWg5WmJQN3hhVUVneG80YjhzaXlkS1NKTk5yVGtZT1Z6Wjlaalo5MVZLY1Z3TzAyRDliamUzRDZ5YTJ6T21fc0lNMnRoTUQzbWNrQWMzQUd6RHJKeElFOVRmeW8yY3NWbWRvTHVhRS1Cc1NhSTQtMEdTcWhGcXJsYmlLdnFSTnFHcHF3ZXVkRUpBeUp0cm1oQ1IybHJKSzZ1eC11bmxRaTdNaUczbVl0VlhfSzZ0Z2JxSEtGbFZQcmNtaVpWNnlYblQ4d2dvRmFaV1AxSGdlRXdTcDhqNWpRRkQ2MDlWeVJ2YnRsUFgtOGJnem9oNlpNaUdaVjdDbHJGNENGZ3FYc3JYbkJ4bGNfbUNUZEVVN0tmajhCQ1NvZ1NFZDU4am93Zk42ZFA3RHdLMDlDejhBdGE3alM4UW9hRUxtWUtDWXBVSlhfSXF1c0xXeFY1c3VudEx0eWFpR3RZN1dtbFd1SkFnS0ZURWtxaUIySkNwcktFVVhlMkEyZlUzR0w4WFFCN2ZQMllwcnFfMXp1UU5PUlN3eUYzVnVKcXRPOHR5eFpBX2hJUTBOcU1VWmRYTDRiQ244QUJXZlZtSVF4WGJEM050aXpkM3lITXR2TUNWSHgwZmJhaTFXSXdiTWQwRVIzTHNYMEh1aVB3RTVqM3p2RjhLWXVjLWk0d2dHVThCczVnc0d1dEFvU1BCNGhnTU9lVWl5c3dnUW5KRWZZLXhhZFVVWk93Rm90aF83NHhxRUlDY3Y1ZV9iMFBRQnRKTVlna3JGa2VROUFha1ZSR3FPVV9wb3AtVUJObFp5Y045V1B1Vm9aNlFPeVVlU0JpVTQtT0ZNMkJSMXp0b2ctVkx0dHMwN1pTUjRIaHF6OERLbXJiUFZyMF93WkJLZTF4RjRGMzJwTGxpQncwbVJiRzBZNkJuWW1qZ1lpTExfZjVWLThUY1ZLRUFOcFV3N3c4U2liQTAzVWFRR2FDUmhMdmJXV05FblctLQ",
-        "time": "2026-04-22 16:20:06"
-      },
-      {
-        "title": "調度麥電燃煤 #劉建國：雲林人繳稅少？ - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPYUVpWTlqUjJ4SE5BX3B6YWNMOHFEUWxWdTRHSEF2UDdneDdxMkFMNXRCeEdRZF80dC14d1c1bkVBZzdDQnlWNV9FTElXSHV5eUpPYlFnRDRPeVdWZUF1aml1RGJSdjhjMzduaE9fWWNhT0dSRU9FNTVOZ0ZYdjdhTFBGc1I3Y1NlTERvWUlDRFVHbnJiOTZBWXVVenVaQ2FEZXV6ZFRrSkdsejM4clJ3cGczMENhLVFlUjE0c012SVF0N2xDN2FqM0k1V2R3dllvYW5IZ3F6YnlsLWhVTzJ1eFZNN3d6Rmd6VFNUMlM4ZlRuNnFMSm9VQTc1LVM4cjRMc1RoeFNNeXNtcExneFFwbkxpTEZPdW1qRnExclkyQkJjQ3Nl",
-        "time": "2026-04-22 15:49:09"
-      }
-    ],
     "news": [
+      {
+        "title": "AI盜眼科權威賣假藥！張嘉郡籲公平會建立快速下架機制 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTU9WUnlrWG85QWNPSEtmMmhHbzgtN0h6Q21JVVk3RGs1MExFTFBSekJ6eW4yREx5ZWRDZEpXVmJsbVJ5VXoxN0dpenBIS3Q3cFBKXzlCalV4cnVHRVdkcExxTVNBREVxM1hTMkhzb1hxQ0RKQW9vRG5DenlONVZ5TXRWVWtoeUlDd0w2Q2RfOUJveVdPTmlzUE9Jay1xVEpZOXMtdEZwaG5pQWdiUTlrQ0xMOWZEcE5BQUlkQUJXRmlwYWR0WUdMUXlQZTJQTXNSeEVCU1QtbHFDV01RV1FrZmg0eU9CNnA1bEF5SzhXQi0wa3hsT3lKSEdUUWhBdW84dG42UWYxRjhrV1ZUb2RlN0x3djNVR2UyTHA5R2c3T0ZKZW5PaHdNNE5kc1J1R3Q2TWdyZ1hwQXA5cmJNQ0pmQ2FrWU5lQkpBSzh4MmV1QWUxWUhEWDB6b04wTXpJRHc5b3RDbkp1ZUdNeVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-23 15:28:53"
+      },
       {
         "title": "劉建國爭取3500萬 雲林多校運動設施全面升級 | 觀傳媒 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IQzRCZ1pkU0syRVBqSFprRC0tUlg1TnQ0dU1ySTJqVUxDMnNYQTB2ZExYbGowcDF3bWdGNHd2WWR6dXpQcFZjdE1paWNrc3JkYzltVGZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -599,31 +545,43 @@
         "title": "美伊戰爭衝擊 張嘉郡籲：所得稅報稅期展延至6月底 - 太報 TaiSounds",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05WTFJSVRMQ1pkUW9lVE1NVHM2YzdDYlVhbkRYZ1d4cWk5THNBOUJ1ZDdxOUhxY1NHYjhUSnpzeEFKTTc0cE84WUx3aHd3a1VzVHBwdVZBbm9iMnlK?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-22 15:56:06"
+      }
+    ],
+    "facebook": [
+      {
+        "title": "劉建國 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1icnZ0Qy04TVZrRmtPSkRyYi1sbFo4YUxsdWplV2JjOG90bUp6ZVAtSHRRbFljblRqME8tOUpZQmRNSVdJUHNlZGYtUVpWY09jUDhDRUMzV3lZakIxc2U5WmtHdVlub053U1gtUTFhdGJPbTl6cTZCZGZ0dw",
+        "time": "2026-04-23 12:17:07"
       },
       {
-        "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tYnhRZUhJelo3OWpCbWZ0Q3p1NE1aeGx5c3FIQ0ZJVXE4aDdGWUE3Qmt3al9JeHlrWmhCTlpYQ0FIR05uRE5GamZuaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-22 15:52:10"
+        "title": "#新住民語言中心扎根雲林🌱 #讓多元文化成為地方優勢💯 走進「#新住民一家一菜」活動現場，每一道菜，背後都是一段跨越國界的人生故事。 有人把家鄉的味道帶來台灣，在廚房裡延續記憶；也有人把不同文化交織，變成屬於這片土地、也屬於自己家庭的新日常。 嘉郡希 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxOYnl5ekFKc1pMTklIZW00Qm1fWjFscjlBQjZxVHhnbUpXUUZ1OWN3Q1hGUUpzbVBMTWc4dVlqeE9vMzRiQXp6SUdlZWdFdUJtZGx1Mmo0bkdja0dPMUFBSFg3V0hEbjZ2TmpMd3hEZWwzZFhSemhHMUtqRUtBeEJJbl9CTm1wTUt3REw2SjIxN1BabkNzWWhadmRJTVFlSmE0elRTTndrTG0xYzZYTFpMUkdHNUlFd3dnZGt4c1Q5dG95OWR5d0RxWFdldTl6WDJteVJwRXFTblVzbGxQRGllMTNzZnlZVWtQcVJreTlFUzJnZlowZGl4VTBNcU5tRW5yWWdwMk5vazh1LUpTM0ZpNXVPTExKMFJ5RU5naUZxWGRFRmVmV0NVbktwREJpNmprRFVUd0dUZ2s4VzVyRUdxM3hJdFgyV0lQRl85ZFFUSHlyNDlBcU9JUGE0Vy13cmhra1NZZkRQR0Y3dTg1YUNtczhxSmdlTE02WENPVGk3MUlKcXhmOE9Zd3Ayekp6dVh0YWdUaWpYNmdFZDJaT2NxZ2R5aDltTEtuQV9XN1VFZzRxSTB5LTItQzB6UmczTXRqRjc5Mk5PdG42blV5UGtfMk5MbkRiN0F4bUszbFk5a21MMUIyUTd4LXFEcUtCNlk5dVp4XzBscWNqb1owUW1CU3RkbW9Pd3lXOTkwS1h0ZzYwdkl5aGo4WWNiN2NoZ3NOLVpBS2VrWmd5VVFydnp1SV9xRHNxZTQ2Z0ItREJEdFpwVGwyMDlTS3o4bndCVWhYYTdUOGlpanNxOXk3aHhkTGktSmVTRUZyOVVaNENPQ1hXMTJqRnlHQThjSWxCTkdhSTcyUndPZ3hFLVYzMHA1Rnc3Tl9rdDRMQVNYVWo2SzJVUm5BOUZaaVlyNXg4eXJnSTJQOHlRcm5XclN3OFpST3FKdFdPbDNzaVFZQVhnSkVTb0YxLWU4anZiTXJCbVlDSHF0NWUtOE4wak1vNXFuVFFBdVlkLW1wZEE4S3hXdl9XS245MlEzWk5pcll5OHp4YkFDODNteFNVbnpTMzVhbjNxRElWQ1NYS3hiYjZCNjFtMWdTLVcyRTZNNlNPbWFHZ2NVdHhJZTBVTG83TGlzVndEYUp0YlpEQzdVc2ZWS21Jcm1VS1hLN0FHS09hQlo3bkFwNk92SVVQSVJHaFg1SnlFRnBIUTBNdG5VelpyMm05UzFFQ21iSlgybUFZbENaSjlrZDRwb1N4ZENFMTZQbVlzRW5QemJJeGU0d00zZ0I5cEJ2NFpQMFRFX3hXZS1OVlI3U0RWUHRsT1I4REk0OFo5cTRXcXhzUWZ1UGJRSUpiUFA3b1VkOVZSVEJRNWQ2eU43dHZ6eTRLdjNxLWRXMkV5emlhemk2UGZNdVFlcUFYT284djlKTzU3cmZCN2s",
+        "time": "2026-04-23 08:46:25"
       },
       {
-        "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNTVEUk5tQm5CZzZNemE4bU1pazJ1aFE1VENjdlNrYTVJbzZYaE9vWlE2bEtzX0U2YVNWY0NtWTYzcEZZVFg5MjJiVEF1T0QwSVdsTHJ1MTE3NWEtNnRRaG1FYUlVZ2t2UjhQcERwR2czeGNEWXotdWxXalNHSjZnbTFLVWhxNnZ5RzY2bmEtWmFkR2hrMlAyQWFBUnUzZkpGU1NHeENFNVA4NThfWC1UMkFpYU9HaFlXOU9JZEFpckdhU0M5LWYtTFJ1a2VOR1FpeWI0LTNIQ21sWGxEb3ZBRlRwTmFFdWlqRHktTExZQ1NoQ1Z3Y0JKajVIVEo5aDZ4UHNWdThjOGVWZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-22 15:50:00"
+        "title": "張嘉郡 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWWmJ5MG9hMU5lUFBzelVrQ1QzenhsQU5iWVJzYXh0ZE0tOG03RGJmMUZNQVZDc21tRGlYUU56YzBJaXlsZU9tak1OWmk3VEtQb0pRYzdoVmtFMGRmclhEUXVjeUpsU1cwUXRmQkk5NlN1bXlRQmdkUHhsNA",
+        "time": "2026-04-23 08:46:25"
       },
       {
-        "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yeFZBc0F2MUVSc0dHUXZsSzI2SWU5Y1l1V043WDU3R3FTaWRtYnVmWjA1ZU5PV2syUmEwS3ZKaGpNTDRnVGVmMWdWdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-22 15:49:39"
+        "title": "【藍委張嘉郡籲延長報稅期限 經濟部回應了】 . #連結見留言處 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOcFZmbVRVOG5MNG1jNUlDOXBjQnJxMktOOTU4YjhiWFdfS3VMQnpzWkxfLXg1V2xuTWpxelJyZXRTYVFLNnR0a3RnUHg1bS1zdGtZLURyLWJvRHR4cUhWTC1oNGpLdzRDMjFmNnVfR3dFX2UzS245V0RpamczNDl5MlRLc0otWkUwUW5WZGpHLXhIaF9kOEVIM25sbXJhcVFiTkRuX054S1R0RVhXZGpPak8xVWVJT0l2RnFEV1VsbzM4cFM4V0tzY0JjZk9hSThyYVZYb2Jid2tzcGM4WUVPWmlRZnNXZjVJalJQTzZURTVLbE9EYkNEbmJPU1NUMmpjY3hlZWhLeTZFT3RKOFMyVzRRQTZtZm1QWTJXeG5uUFlfekl3YmpCMVRzSlFBM25VWjlyVV9UZFM0bWd2NjNSQUdCZy1mMWRzZW9pU3hIZXlyQTl3dE5kMVBKQXI4MFV6T18wVjdDdkdLeTY4STlGdmRuODNYelZESkZEZ0otRFJ1clZ2UU9MVlhRa0VVbzYybU9r",
+        "time": "2026-04-22 19:32:46"
       },
       {
-        "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yTE15d1pUcGQtbC15b0xmV1k0RUlEdjh3NEgxRERhNC1NUmI4V05XdTBEVGhLaWZkTWEtXzRIQ1VkZWlFU2cySTdVN0MyU0EtTW9teWJfRDk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-22 15:45:00"
+        "title": "立法委員劉建國邀集教育部國教署署長彭富源，針對口湖國中、褒忠復興國小、土庫後埔國小及大埤國中等校園的運動設施與校園環境安全逐一盤點，成功爭取中央核定總計新臺幣3,500萬元經費。 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMihghBVV95cUxObUhpRnJCQjFmdmVfRUdfbkFGRU14RzdWUHlocGc4MEVZRnFFY1VaVHdROTJJQW9IdnpTWUtvZGtsTURUNkYxSTI2UnNubnRjakFVN2NwVTJLWjVYQjNJSGVPNUdSMUoxaUl1OWd0N3JaanM4UzFvbEF4aDlVMGRlcTlaaTJxZXhrOTk0LWx4WlBCakVWa1hKYW1PV3ZMaDdGdE9FWTR1dmJ5ekRFSTYzRGJSQjR0MXRoNXNlNVNyMEVNRERuS1ZuVFZRLXJJLTh0S0Q3YzU1azFqRDljRW9lcngyWUZxV0wzVUFSSXRUTmpUSnMwdmJlbEQ3NlVWYnhxY1Y5aWNaM2RxZk5fRENrb1ZTNWV5NmdJeXRyTHJGTkFscVgybDd2Mm1tRmU4b1hCRTBmV2RzV2U1blVoeWNpN0FJNUtxaUxocWdDel9OTHVFY0NzdjNGT1hHa1lUWkNmX3dDY3VTbXE0MU01Y3NhbllxVGhpelRZSHJFakVUT2MtVWhCUFg1cFpQTGZsRXJCVFdOM2FMbWtkZGp3Z1VDTF9aenFnXzJ0WWVhdlN0QzFZVldjSndEYmkwdzc4WmpjN0hXcGY4UDNQcXdxc2tFc3R6S01scFk2T1F1cTZseDhyVF9OcWJKLWZEdzJvTnowaUJLTWt3R0lyV093cDFfWFFnanRZVEpmMlJhcnhLUzlhVzVkMU1tTDJLWGEzQkVYMHp3a0lKVHJ5RlZ5YkptWnlpN1hneHMwUm92c1NzN0xrTkNTQVhvNDg1Qzk4RmtTaldoYmxOUTkyUGVoTVkyc2RSSGdkNnl6bTZ4bkllb0FJcEItSEo4UjBsN3ZOWEtSLXM4eHBKbm1hT3I4Ukc1THNiczVhSFdrcHlQNjZtWHNUSzhPVTZrNDBGczZxNUdES2pHaEVUc1hoRnRKZDJXai1pS2ptTk9VOFBiRHRZck5RelFGYWVlNm5sRUxPeWt6dzd4YlFQVkw0NWpkd0lLTzlqVklLMHh6MHg3ekV1d1BQUUh0NWdKNW9CVDlfM0JXNE9KRGUxNEtlXy1LdzljQVdsQnY4al9qUzdRcXVKNVFkOGFKZkpNbzMxME5VMEh4N3FoX3daUW43MWJqR3cxNEx3UFczUklvTlhpTTNPa3lXcGFYaHh5MW5BQ3IxVEpTOFJxQnJpOGNfckdyWUhDOC1sZlBXTDhBWlZkUUhseEp4T1RCWkFIT29uRE50Y19tVDdtaGVsODZJNVFRTENoQ1FuQzJRb2ItekNyRnZDVy03V0otdmFlaFpXeXAzM1lSTHI3R1FSTDBHQmRMSURzY3F6U2dOeGlqR2lYU01faWJsbDZjMXFKb2xxVzNUTnFYSFNhMkF3",
+        "time": "2026-04-22 18:24:52"
       },
       {
-        "title": "調度麥電燃煤　劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaY29DbXVsam9FR1U0bk1LV2JCclN1M2xEcmRoRzdBajEtanNSTWtNT3FQZm1ZbklaaXEwWUVuUGI5XzF6bldqc3lXSmJNUFpRMlJBYjg4NmrSAV9BVV95cUxONzZPcGpwTG01ZjFuVmRQdjJYWXVkZ0RGczBmbjRoZkJUUTM3UzFuWHVuUXhadHgteVhpWUJ5MkM1c3R4M0hYRTAxbEE0dms0dzFmTXNfWTBDa0Z3ZUVqOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-22 15:45:00"
+        "title": "美伊戰爭、關稅戰延燒 張嘉郡籲「報稅季」延長一個月 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNUi1iUkc3QmNZMUg2RmM2Rk5qOWVPUzcwOG56aXd0M1hSdFd5WFF3U2QzNjJUV0lJckRUaEcwamRlRUtZWEQ5SjNucG9OaFNVcWF2TlhSTUo3a2JGZmR3bWlaUHBDd2pJNXhqUi04RUlvLWdFQ2x0VVo3MmZLWm1kUHpjRmJ6Tno4cHpBMFRueXBVbTgtejZicWpRbXBfNldmZm5zSm9GSzNrSlNhRVl6UjNxX0xvdHlINzF0XzlVVG52dXZDcGVJX1Y1S19HTjkwX2hoU19oVUVIRV9qWkJOZDFSNXZjS0lkeHJsamZsb0hJZWVqWDJ2N1YxVHZ4QVpTWTMzQXdhQzN6Ny0yN3ZhcGRhZEJGbEtnTmhreFZPempwNFNpdllRS0trM1BwdnA0RW5kcGZjeUxJU0FLb2VJU0hWei15QnZwcV85MWNOZExDVFJtU21TbnpmZFJvWDVyeG1NamUyNlRqQQ",
+        "time": "2026-04-22 17:20:02"
+      },
+      {
+        "title": "【經長樂觀看中東戰事「不會太久」 雲林綠委堅決反對麥電再延一季】 中東戰事未解，經濟部規劃5月起重啟雲林麥寮電廠1、3號，讓已停機的兩部燃煤機組再運轉3個月，雲林的民進黨立委劉建國今(22)詢問7月後，麥電會不會再延一季？經濟部長龔明鑫表示目前沒有這樣 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi-AdBVV95cUxQTjlhbVlCWmNhRWlzTWl2UVlmWkVRM29VWEw2TWVSeDJaMXJISkt6LXJPMnphM3Y0czlZVzBuYzlYUXhvYjB2YVExdVcxZnhJa19XbDZENjNVSVk3SmRUdFlVcHRsN1FNMzRxLUZUajV0SVR5Wmt2VmNFT0l2VFlhcGN5U1NadVdIUXZwV2o4ZVIxeTBUQmM3eGcyMlNDSHpEQkEwSG5EOHlSS3pmZE93TTlTdlE2WEVlU0pkcVdzOHFaekI3M0tNMXZULVRHQWxyUFRUa3pUcFFUaXZOZWRxYnNEMW5ROS1vTWR2Qnh0SlFITnVrX3dmMlduZ3Fkd2d5dFZOdHNpZE54Q292RF9rSDdQdWg5WmJQN3hhVUVneG80YjhzaXlkS1NKTk5yVGtZT1Z6Wjlaalo5MVZLY1Z3TzAyRDliamUzRDZ5YTJ6T21fc0lNMnRoTUQzbWNrQWMzQUd6RHJKeElFOVRmeW8yY3NWbWRvTHVhRS1Cc1NhSTQtMEdTcWhGcXJsYmlLdnFSTnFHcHF3ZXVkRUpBeUp0cm1oQ1IybHJKSzZ1eC11bmxRaTdNaUczbVl0VlhfSzZ0Z2JxSEtGbFZQcmNtaVpWNnlYblQ4d2dvRmFaV1AxSGdlRXdTcDhqNWpRRkQ2MDlWeVJ2YnRsUFgtOGJnem9oNlpNaUdaVjdDbHJGNENGZ3FYc3JYbkJ4bGNfbUNUZEVVN0tmajhCQ1NvZ1NFZDU4am93Zk42ZFA3RHdLMDlDejhBdGE3alM4UW9hRUxtWUtDWXBVSlhfSXF1c0xXeFY1c3VudEx0eWFpR3RZN1dtbFd1SkFnS0ZURWtxaUIySkNwcktFVVhlMkEyZlUzR0w4WFFCN2ZQMllwcnFfMXp1UU5PUlN3eUYzVnVKcXRPOHR5eFpBX2hJUTBOcU1VWmRYTDRiQ244QUJXZlZtSVF4WGJEM050aXpkM3lITXR2TUNWSHgwZmJhaTFXSXdiTWQwRVIzTHNYMEh1aVB3RTVqM3p2RjhLWXVjLWk0d2dHVThCczVnc0d1dEFvU1BCNGhnTU9lVWl5c3dnUW5KRWZZLXhhZFVVWk93Rm90aF83NHhxRUlDY3Y1ZV9iMFBRQnRKTVlna3JGa2VROUFha1ZSR3FPVV9wb3AtVUJObFp5Y045V1B1Vm9aNlFPeVVlU0JpVTQtT0ZNMkJSMXp0b2ctVkx0dHMwN1pTUjRIaHF6OERLbXJiUFZyMF93WkJLZTF4RjRGMzJwTGxpQncwbVJiRzBZNkJuWW1qZ1lpTExfZjVWLThUY1ZLRUFOcFV3N3c4U2liQTAzVWFRR2FDUmhMdmJXV05FblctLQ",
+        "time": "2026-04-22 16:20:06"
       }
     ],
     "youtube": [
@@ -640,14 +598,19 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 11,
-    "劉建國": 18
+    "張嘉郡": 12,
+    "劉建國": 12
   },
   "mention_compare_7d": {
-    "張嘉郡": 63,
+    "張嘉郡": 64,
     "劉建國": 42
   },
   "top_news": [
+    {
+      "title": "AI盜眼科權威賣假藥！張嘉郡籲公平會建立快速下架機制 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTU9WUnlrWG85QWNPSEtmMmhHbzgtN0h6Q21JVVk3RGs1MExFTFBSekJ6eW4yREx5ZWRDZEpXVmJsbVJ5VXoxN0dpenBIS3Q3cFBKXzlCalV4cnVHRVdkcExxTVNBREVxM1hTMkhzb1hxQ0RKQW9vRG5DenlONVZ5TXRWVWtoeUlDd0w2Q2RfOUJveVdPTmlzUE9Jay1xVEpZOXMtdEZwaG5pQWdiUTlrQ0xMOWZEcE5BQUlkQUJXRmlwYWR0WUdMUXlQZTJQTXNSeEVCU1QtbHFDV01RV1FrZmg0eU9CNnA1bEF5SzhXQi0wa3hsT3lKSEdUUWhBdW84dG42UWYxRjhrV1ZUb2RlN0x3djNVR2UyTHA5R2c3T0ZKZW5PaHdNNE5kc1J1R3Q2TWdyZ1hwQXA5cmJNQ0pmQ2FrWU5lQkpBSzh4MmV1QWUxWUhEWDB6b04wTXpJRHc5b3RDbkp1ZUdNeVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-23 15:28:53"
+    },
     {
       "title": "劉建國爭取3500萬 雲林多校運動設施全面升級 | 觀傳媒 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IQzRCZ1pkU0syRVBqSFprRC0tUlg1TnQ0dU1ySTJqVUxDMnNYQTB2ZExYbGowcDF3bWdGNHd2WWR6dXpQcFZjdE1paWNrc3JkYzltVGZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -702,14 +665,14 @@
       "title": "調度麥電燃煤 劉建國：雲林人繳稅少? - MSN",
       "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOODRfYzIyVFhXbWUzX2U2VnJjbTVkV3pCelBTeXpCbHg1ekJTUlhDR1g0SkpOWnlSU1ktRXA1c3hqQ0FwY1R4bkxjVjdJRjM2cHp4S2VsVExaVWctcGtmUFJDb2t6LTQtUDdlck1lYm5WbkxWeno0YzU1d0p1cHVvY210S0pyNk1NUE4xTktvRm92a0pJQ3MzM192ZFliMUstUENYVzdBMkV0TDZ5YjkwcjF4TGNTcGpzYkN4TWt6ZEVYYnd4R3BycWN2NnJYVjNrM1kydDBibHZfNmNGSDh0NVEtbWlxaUxiQ0FHa0E5LUl1SXhUTnBFSXBlbWNOUERMRE00NEV0M3Q1aFI0M2ZpNWwyc0ttcEFHTHlieXNHWFBqY0JMUEdoMTdOX3FlU3hhcUV1ZEwzX1B6d1FIdlJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-22 17:23:54"
-    },
-    {
-      "title": "提供關稅戰、中東戰火「及時雨」 張嘉郡籲：報稅延至6/30 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNOG5UeHVyZFNHNW11dW9MM3pySGVhREl0SzNMNkFVWDNQNi1wYjJ6Wmo5ZGVxblduUVZKZmViU3BNaTI0N2sxT1dlNmdxUjlnUHdxVXp2RUlETkJsa0xYdzJsdDVnRlI2UkM1Z0JJZmlBVmpDSzlSX1drQnU5eEQzVUFBaXFsMHZOV0pwV3ZHSk5fQjU0U3VZMUotQjg1NHZjRzQ3SlBydmZNSFlCR25rMHBtS0RzYzRnYjlBR1ZaZkY5bzllNThtLU9XZUpkN3JvRVFmSGN4aFo5Q1R6U2lkWUpmZllxcWNydFlDcS1va0ZGVC1Nb19mcUl5TE0ydE5oWnB6QXU3dFctelBWc0RneXhVWHJWRGxEaXJJRXhVamdzczNxTlVaV1hEUHk1alVNa09zRVlTcTZlV2pLeW1HdHdLaHdHd2RNWlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-22 17:05:55"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "AI盜眼科權威賣假藥！張嘉郡籲公平會建立快速下架機制 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTU9WUnlrWG85QWNPSEtmMmhHbzgtN0h6Q21JVVk3RGs1MExFTFBSekJ6eW4yREx5ZWRDZEpXVmJsbVJ5VXoxN0dpenBIS3Q3cFBKXzlCalV4cnVHRVdkcExxTVNBREVxM1hTMkhzb1hxQ0RKQW9vRG5DenlONVZ5TXRWVWtoeUlDd0w2Q2RfOUJveVdPTmlzUE9Jay1xVEpZOXMtdEZwaG5pQWdiUTlrQ0xMOWZEcE5BQUlkQUJXRmlwYWR0WUdMUXlQZTJQTXNSeEVCU1QtbHFDV01RV1FrZmg0eU9CNnA1bEF5SzhXQi0wa3hsT3lKSEdUUWhBdW84dG42UWYxRjhrV1ZUb2RlN0x3djNVR2UyTHA5R2c3T0ZKZW5PaHdNNE5kc1J1R3Q2TWdyZ1hwQXA5cmJNQ0pmQ2FrWU5lQkpBSzh4MmV1QWUxWUhEWDB6b04wTXpJRHc5b3RDbkp1ZUdNeVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-23 15:28:53"
+    },
     {
       "title": "劉建國爭取3500萬 雲林多校運動設施全面升級 | 觀傳媒 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IQzRCZ1pkU0syRVBqSFprRC0tUlg1TnQ0dU1ySTJqVUxDMnNYQTB2ZExYbGowcDF3bWdGNHd2WWR6dXpQcFZjdE1paWNrc3JkYzltVGZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -803,11 +766,6 @@
     {
       "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yTE15d1pUcGQtbC15b0xmV1k0RUlEdjh3NEgxRERhNC1NUmI4V05XdTBEVGhLaWZkTWEtXzRIQ1VkZWlFU2cySTdVN0MyU0EtTW9teWJfRDk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-22 15:45:00"
-    },
-    {
-      "title": "調度麥電燃煤　劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaY29DbXVsam9FR1U0bk1LV2JCclN1M2xEcmRoRzdBajEtanNSTWtNT3FQZm1ZbklaaXEwWUVuUGI5XzF6bldqc3lXSmJNUFpRMlJBYjg4NmrSAV9BVV95cUxONzZPcGpwTG01ZjFuVmRQdjJYWXVkZ0RGczBmbjRoZkJUUTM3UzFuWHVuUXhadHgteVhpWUJ5MkM1c3R4M0hYRTAxbEE0dms0dzFmTXNfWTBDa0Z3ZUVqOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-22 15:45:00"
     }
   ],
@@ -915,6 +873,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "AI盜眼科權威賣假藥！張嘉郡籲公平會建立快速下架機制 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTU9WUnlrWG85QWNPSEtmMmhHbzgtN0h6Q21JVVk3RGs1MExFTFBSekJ6eW4yREx5ZWRDZEpXVmJsbVJ5VXoxN0dpenBIS3Q3cFBKXzlCalV4cnVHRVdkcExxTVNBREVxM1hTMkhzb1hxQ0RKQW9vRG5DenlONVZ5TXRWVWtoeUlDd0w2Q2RfOUJveVdPTmlzUE9Jay1xVEpZOXMtdEZwaG5pQWdiUTlrQ0xMOWZEcE5BQUlkQUJXRmlwYWR0WUdMUXlQZTJQTXNSeEVCU1QtbHFDV01RV1FrZmg0eU9CNnA1bEF5SzhXQi0wa3hsT3lKSEdUUWhBdW84dG42UWYxRjhrV1ZUb2RlN0x3djNVR2UyTHA5R2c3T0ZKZW5PaHdNNE5kc1J1R3Q2TWdyZ1hwQXA5cmJNQ0pmQ2FrWU5lQkpBSzh4MmV1QWUxWUhEWDB6b04wTXpJRHc5b3RDbkp1ZUdNeVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-23 15:28:53"
+    },
+    {
       "title": "劉建國爭取3500萬 雲林多校運動設施全面升級 | 觀傳媒 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IQzRCZ1pkU0syRVBqSFprRC0tUlg1TnQ0dU1ySTJqVUxDMnNYQTB2ZExYbGowcDF3bWdGNHd2WWR6dXpQcFZjdE1paWNrc3JkYzltVGZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-22 22:11:27"
@@ -1007,11 +970,6 @@
     {
       "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yTE15d1pUcGQtbC15b0xmV1k0RUlEdjh3NEgxRERhNC1NUmI4V05XdTBEVGhLaWZkTWEtXzRIQ1VkZWlFU2cySTdVN0MyU0EtTW9teWJfRDk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-22 15:45:00"
-    },
-    {
-      "title": "調度麥電燃煤　劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaY29DbXVsam9FR1U0bk1LV2JCclN1M2xEcmRoRzdBajEtanNSTWtNT3FQZm1ZbklaaXEwWUVuUGI5XzF6bldqc3lXSmJNUFpRMlJBYjg4NmrSAV9BVV95cUxONzZPcGpwTG01ZjFuVmRQdjJYWXVkZ0RGczBmbjRoZkJUUTM3UzFuWHVuUXhadHgteVhpWUJ5MkM1c3R4M0hYRTAxbEE0dms0dzFmTXNfWTBDa0Z3ZUVqOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-22 15:45:00"
     }
   ],
@@ -1121,6 +1079,11 @@
       ],
       "news": [
         {
+          "title": "AI盜眼科權威賣假藥！張嘉郡籲公平會建立快速下架機制 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTU9WUnlrWG85QWNPSEtmMmhHbzgtN0h6Q21JVVk3RGs1MExFTFBSekJ6eW4yREx5ZWRDZEpXVmJsbVJ5VXoxN0dpenBIS3Q3cFBKXzlCalV4cnVHRVdkcExxTVNBREVxM1hTMkhzb1hxQ0RKQW9vRG5DenlONVZ5TXRWVWtoeUlDd0w2Q2RfOUJveVdPTmlzUE9Jay1xVEpZOXMtdEZwaG5pQWdiUTlrQ0xMOWZEcE5BQUlkQUJXRmlwYWR0WUdMUXlQZTJQTXNSeEVCU1QtbHFDV01RV1FrZmg0eU9CNnA1bEF5SzhXQi0wa3hsT3lKSEdUUWhBdW84dG42UWYxRjhrV1ZUb2RlN0x3djNVR2UyTHA5R2c3T0ZKZW5PaHdNNE5kc1J1R3Q2TWdyZ1hwQXA5cmJNQ0pmQ2FrWU5lQkpBSzh4MmV1QWUxWUhEWDB6b04wTXpJRHc5b3RDbkp1ZUdNeVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-23 15:28:53"
+        },
+        {
           "title": "藍委張嘉郡籲延長報稅期限　經濟部回應了 - 鏡週刊Mirror Media",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05UkItMENKTG5RQ3l2WnZZLUN5UkVoV2d2X0FULTVKOUZfY2h5cU9XYXBYR1liajQ4aTVzZkwza3NubUtXQ19YTjVvazRVWG1maE9sRjZPUE5MaE3SAWBBVV95cUxQTUgyTGttTnc3R2lPUjMwNnhGV1Q3aUhnSnZ1enFFTTVtWmoyYzdJU1E5clhxQXcyb2l2cTFiUnlpWXBSaUh3ZjRDakZ5ZW8wcjAyT2g4TmZrdHpLN1JGLVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-22 17:52:00"
@@ -1214,11 +1177,6 @@
           "title": "稱「民間聽到美已通知關稅稅額」 張嘉郡：為何政院遲不公開？ - MSN",
           "url": "https://news.google.com/rss/articles/CBMimARBVV95cUxQcHY3dlE5X0VLeHVrYTFFeGx4d29CTzVuSzhPUWxNUTRoTXl6MjEwa180TDM0SGs5Sk1kZ2RVaFo2MXlabDZHRWwwa0hmc1pPX3FvZ2IwMVBaX1B6REdlWnJDaEhJcmdnOFRxOW9HS0RhZWFUUGlRRjV6RWcxMjNsZ25KZGdNTU9NNnNoSjNfZnl3RG1DMjk2VHhlUHkwQU44RWFHZnQtRnZNYkc2SDFSNDZha2FHanQ2Sk9wYks3TWVwWVVhR3Y2bVlXbWlqQnJValhqRTNwM0Q3bmJOeWtjakdrZW5hZzFxODBGbzJRSUhONERJV1g4ODd2d1hJanVJMmtCMVhuZWt0aFVEVkFkTWNkRFJDRnI4NHVoS3lCeFZTdlhCUHNBbG1sX0d4YlZNeVpfUTJpdjFXdjJ2aFpoc3FZcF9zNzk0UjZTODRha25sZWIwX3pISTJ5OF82RnVOeU95QVBodDRzNUhSRlZuWW1wUC1oMGx2SzRqWS1qYTlxR1d6TmpJOERLUlFrM2RBbDFUSHN2dnNDbWp2blJKTjdHMnBfVElQWXZsYkw5MWtEUndVZjJzNWNrY2JzTFYxa3RZU0d0Ml9ZRW1DcTZfb3dWbElhR1NUZGFwXy1yMi1WWnNyTi04YzJ0dmIyVnRhLWdfTjJhLVdxNWMwTUVlZnBUazF2RUVYZWJHNmgtSTV0UWdVY1ZwaQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-21 17:45:16"
-        },
-        {
-          "title": "柯文哲雲林參拜多廟 介紹張嘉郡「未來新縣長」 - MSN",
-          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNY0poVUlHQ3dsZTBmdmI0TUFYeVAwd3F0ZWViblNUcU5FMVkwQTB0MHlOMWkyNFNYVXpwdGxwOUpjX1hFTWN1aEs2eGN4QjdJX3ZkeWdyU1lfMFB3UDJUN1BEV1c0ZFhyQWhhY1c5MjBTcm1tejRwNmwwME5vV0dIRUlxNGlqZlFDclRBMXdtZVEzXzFCNnhQcVd4NE1ReWkybWpWei14c180Y2k2NGYzNW16bEtsTzJodm9YOThKREVwbFVzMzFHQXNPVFRNWVBfbFlGdHQ4M3VTeGJvN1NwcWQwQkhZNnR6emdUMkJXWDctc0VmMVBUdnB3TUdKZmtNdFhQWDFKSVFhYmVfWG4tZGpyQ2QxVExWUGNINFJuRVhEQTVBdVd2R0dMenBuZmdINWRxT1NsN1JxMDY3Y2tOSHVFbExJeGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-20 21:12:51"
         }
       ]
     },
@@ -1432,6 +1390,11 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "AI盜眼科權威賣假藥！張嘉郡籲公平會建立快速下架機制 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTU9WUnlrWG85QWNPSEtmMmhHbzgtN0h6Q21JVVk3RGs1MExFTFBSekJ6eW4yREx5ZWRDZEpXVmJsbVJ5VXoxN0dpenBIS3Q3cFBKXzlCalV4cnVHRVdkcExxTVNBREVxM1hTMkhzb1hxQ0RKQW9vRG5DenlONVZ5TXRWVWtoeUlDd0w2Q2RfOUJveVdPTmlzUE9Jay1xVEpZOXMtdEZwaG5pQWdiUTlrQ0xMOWZEcE5BQUlkQUJXRmlwYWR0WUdMUXlQZTJQTXNSeEVCU1QtbHFDV01RV1FrZmg0eU9CNnA1bEF5SzhXQi0wa3hsT3lKSEdUUWhBdW84dG42UWYxRjhrV1ZUb2RlN0x3djNVR2UyTHA5R2c3T0ZKZW5PaHdNNE5kc1J1R3Q2TWdyZ1hwQXA5cmJNQ0pmQ2FrWU5lQkpBSzh4MmV1QWUxWUhEWDB6b04wTXpJRHc5b3RDbkp1ZUdNeVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-23 15:28:53"
+      },
+      {
         "title": "劉建國爭取3500萬 雲林多校運動設施全面升級 | 觀傳媒 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IQzRCZ1pkU0syRVBqSFprRC0tUlg1TnQ0dU1ySTJqVUxDMnNYQTB2ZExYbGowcDF3bWdGNHd2WWR6dXpQcFZjdE1paWNrc3JkYzltVGZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-22 22:11:27"
@@ -1505,31 +1468,6 @@
         "title": "美伊戰爭衝擊 張嘉郡籲：所得稅報稅期展延至6月底 - 太報 TaiSounds",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05WTFJSVRMQ1pkUW9lVE1NVHM2YzdDYlVhbkRYZ1d4cWk5THNBOUJ1ZDdxOUhxY1NHYjhUSnpzeEFKTTc0cE84WUx3aHd3a1VzVHBwdVZBbm9iMnlK?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-22 15:56:06"
-      },
-      {
-        "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tYnhRZUhJelo3OWpCbWZ0Q3p1NE1aeGx5c3FIQ0ZJVXE4aDdGWUE3Qmt3al9JeHlrWmhCTlpYQ0FIR05uRE5GamZuaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-22 15:52:10"
-      },
-      {
-        "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNTVEUk5tQm5CZzZNemE4bU1pazJ1aFE1VENjdlNrYTVJbzZYaE9vWlE2bEtzX0U2YVNWY0NtWTYzcEZZVFg5MjJiVEF1T0QwSVdsTHJ1MTE3NWEtNnRRaG1FYUlVZ2t2UjhQcERwR2czeGNEWXotdWxXalNHSjZnbTFLVWhxNnZ5RzY2bmEtWmFkR2hrMlAyQWFBUnUzZkpGU1NHeENFNVA4NThfWC1UMkFpYU9HaFlXOU9JZEFpckdhU0M5LWYtTFJ1a2VOR1FpeWI0LTNIQ21sWGxEb3ZBRlRwTmFFdWlqRHktTExZQ1NoQ1Z3Y0JKajVIVEo5aDZ4UHNWdThjOGVWZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-22 15:50:00"
-      },
-      {
-        "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yeFZBc0F2MUVSc0dHUXZsSzI2SWU5Y1l1V043WDU3R3FTaWRtYnVmWjA1ZU5PV2syUmEwS3ZKaGpNTDRnVGVmMWdWdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-22 15:49:39"
-      },
-      {
-        "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yTE15d1pUcGQtbC15b0xmV1k0RUlEdjh3NEgxRERhNC1NUmI4V05XdTBEVGhLaWZkTWEtXzRIQ1VkZWlFU2cySTdVN0MyU0EtTW9teWJfRDk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-22 15:45:00"
-      },
-      {
-        "title": "調度麥電燃煤　劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaY29DbXVsam9FR1U0bk1LV2JCclN1M2xEcmRoRzdBajEtanNSTWtNT3FQZm1ZbklaaXEwWUVuUGI5XzF6bldqc3lXSmJNUFpRMlJBYjg4NmrSAV9BVV95cUxONzZPcGpwTG01ZjFuVmRQdjJYWXVkZ0RGczBmbjRoZkJUUTM3UzFuWHVuUXhadHgteVhpWUJ5MkM1c3R4M0hYRTAxbEE0dms0dzFmTXNfWTBDa0Z3ZUVqOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-22 15:45:00"
       }
     ],
     "facebook": [
@@ -1572,11 +1510,6 @@
         "title": "【經長樂觀看中東戰事「不會太久」 雲林綠委堅決反對麥電再延一季】 中東戰事未解，經濟部規劃5月起重啟雲林麥寮電廠1、3號，讓已停機的兩部燃煤機組再運轉3個月，雲林的民進黨立委劉建國今(22)詢問7月後，麥電會不會再延一季？經濟部長龔明鑫表示目前沒有這樣 - Facebook",
         "url": "https://news.google.com/rss/articles/CBMi-AdBVV95cUxQTjlhbVlCWmNhRWlzTWl2UVlmWkVRM29VWEw2TWVSeDJaMXJISkt6LXJPMnphM3Y0czlZVzBuYzlYUXhvYjB2YVExdVcxZnhJa19XbDZENjNVSVk3SmRUdFlVcHRsN1FNMzRxLUZUajV0SVR5Wmt2VmNFT0l2VFlhcGN5U1NadVdIUXZwV2o4ZVIxeTBUQmM3eGcyMlNDSHpEQkEwSG5EOHlSS3pmZE93TTlTdlE2WEVlU0pkcVdzOHFaekI3M0tNMXZULVRHQWxyUFRUa3pUcFFUaXZOZWRxYnNEMW5ROS1vTWR2Qnh0SlFITnVrX3dmMlduZ3Fkd2d5dFZOdHNpZE54Q292RF9rSDdQdWg5WmJQN3hhVUVneG80YjhzaXlkS1NKTk5yVGtZT1Z6Wjlaalo5MVZLY1Z3TzAyRDliamUzRDZ5YTJ6T21fc0lNMnRoTUQzbWNrQWMzQUd6RHJKeElFOVRmeW8yY3NWbWRvTHVhRS1Cc1NhSTQtMEdTcWhGcXJsYmlLdnFSTnFHcHF3ZXVkRUpBeUp0cm1oQ1IybHJKSzZ1eC11bmxRaTdNaUczbVl0VlhfSzZ0Z2JxSEtGbFZQcmNtaVpWNnlYblQ4d2dvRmFaV1AxSGdlRXdTcDhqNWpRRkQ2MDlWeVJ2YnRsUFgtOGJnem9oNlpNaUdaVjdDbHJGNENGZ3FYc3JYbkJ4bGNfbUNUZEVVN0tmajhCQ1NvZ1NFZDU4am93Zk42ZFA3RHdLMDlDejhBdGE3alM4UW9hRUxtWUtDWXBVSlhfSXF1c0xXeFY1c3VudEx0eWFpR3RZN1dtbFd1SkFnS0ZURWtxaUIySkNwcktFVVhlMkEyZlUzR0w4WFFCN2ZQMllwcnFfMXp1UU5PUlN3eUYzVnVKcXRPOHR5eFpBX2hJUTBOcU1VWmRYTDRiQ244QUJXZlZtSVF4WGJEM050aXpkM3lITXR2TUNWSHgwZmJhaTFXSXdiTWQwRVIzTHNYMEh1aVB3RTVqM3p2RjhLWXVjLWk0d2dHVThCczVnc0d1dEFvU1BCNGhnTU9lVWl5c3dnUW5KRWZZLXhhZFVVWk93Rm90aF83NHhxRUlDY3Y1ZV9iMFBRQnRKTVlna3JGa2VROUFha1ZSR3FPVV9wb3AtVUJObFp5Y045V1B1Vm9aNlFPeVVlU0JpVTQtT0ZNMkJSMXp0b2ctVkx0dHMwN1pTUjRIaHF6OERLbXJiUFZyMF93WkJLZTF4RjRGMzJwTGxpQncwbVJiRzBZNkJuWW1qZ1lpTExfZjVWLThUY1ZLRUFOcFV3N3c4U2liQTAzVWFRR2FDUmhMdmJXV05FblctLQ",
         "time": "2026-04-22 16:20:06"
-      },
-      {
-        "title": "調度麥電燃煤 #劉建國：雲林人繳稅少？ - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPYUVpWTlqUjJ4SE5BX3B6YWNMOHFEUWxWdTRHSEF2UDdneDdxMkFMNXRCeEdRZF80dC14d1c1bkVBZzdDQnlWNV9FTElXSHV5eUpPYlFnRDRPeVdWZUF1aml1RGJSdjhjMzduaE9fWWNhT0dSRU9FNTVOZ0ZYdjdhTFBGc1I3Y1NlTERvWUlDRFVHbnJiOTZBWXVVenVaQ2FEZXV6ZFRrSkdsejM4clJ3cGczMENhLVFlUjE0c012SVF0N2xDN2FqM0k1V2R3dllvYW5IZ3F6YnlsLWhVTzJ1eFZNN3d6Rmd6VFNUMlM4ZlRuNnFMSm9VQTc1LVM4cjRMc1RoeFNNeXNtcExneFFwbkxpTEZPdW1qRnExclkyQkJjQ3Nl",
-        "time": "2026-04-22 15:49:09"
       }
     ],
     "youtube": [
@@ -1594,6 +1527,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "AI盜眼科權威賣假藥！張嘉郡籲公平會建立快速下架機制 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTU9WUnlrWG85QWNPSEtmMmhHbzgtN0h6Q21JVVk3RGs1MExFTFBSekJ6eW4yREx5ZWRDZEpXVmJsbVJ5VXoxN0dpenBIS3Q3cFBKXzlCalV4cnVHRVdkcExxTVNBREVxM1hTMkhzb1hxQ0RKQW9vRG5DenlONVZ5TXRWVWtoeUlDd0w2Q2RfOUJveVdPTmlzUE9Jay1xVEpZOXMtdEZwaG5pQWdiUTlrQ0xMOWZEcE5BQUlkQUJXRmlwYWR0WUdMUXlQZTJQTXNSeEVCU1QtbHFDV01RV1FrZmg0eU9CNnA1bEF5SzhXQi0wa3hsT3lKSEdUUWhBdW84dG42UWYxRjhrV1ZUb2RlN0x3djNVR2UyTHA5R2c3T0ZKZW5PaHdNNE5kc1J1R3Q2TWdyZ1hwQXA5cmJNQ0pmQ2FrWU5lQkpBSzh4MmV1QWUxWUhEWDB6b04wTXpJRHc5b3RDbkp1ZUdNeVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-23 15:28:53"
+      },
       {
         "title": "劉建國爭取3500萬 雲林多校運動設施全面升級 | 觀傳媒 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IQzRCZ1pkU0syRVBqSFprRC0tUlg1TnQ0dU1ySTJqVUxDMnNYQTB2ZExYbGowcDF3bWdGNHd2WWR6dXpQcFZjdE1paWNrc3JkYzltVGZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1788,11 +1726,6 @@
         "title": "柯文哲雲林參拜多廟 介紹張嘉郡「未來新縣長」 - MSN",
         "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNY0poVUlHQ3dsZTBmdmI0TUFYeVAwd3F0ZWViblNUcU5FMVkwQTB0MHlOMWkyNFNYVXpwdGxwOUpjX1hFTWN1aEs2eGN4QjdJX3ZkeWdyU1lfMFB3UDJUN1BEV1c0ZFhyQWhhY1c5MjBTcm1tejRwNmwwME5vV0dIRUlxNGlqZlFDclRBMXdtZVEzXzFCNnhQcVd4NE1ReWkybWpWei14c180Y2k2NGYzNW16bEtsTzJodm9YOThKREVwbFVzMzFHQXNPVFRNWVBfbFlGdHQ4M3VTeGJvN1NwcWQwQkhZNnR6emdUMkJXWDctc0VmMVBUdnB3TUdKZmtNdFhQWDFKSVFhYmVfWG4tZGpyQ2QxVExWUGNINFJuRVhEQTVBdVd2R0dMenBuZmdINWRxT1NsN1JxMDY3Y2tOSHVFbExJeGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-20 21:12:51"
-      },
-      {
-        "title": "柯文哲雲林參拜多廟 介紹張嘉郡「未來新縣長」 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPbDZiRjhlQjJDeC1pQlBoZ1NGSnYzYUNCSnA1Sm8zTDBrYTFES3VhMllNaDlDWlNsMzZLSEpyX29rd0F3eTM5Z2E4NjZEUUVTY1ZpNnJHamhjWDUzeHhVdFdaeHFPSGU1X1hWd1pIdENzUmNNT0FuTmg3eml2UzZKcEpBTGNhOTg3NzA4U2lBVGtsOG9Qa3c0b1k4TFhsd19TZGxQQ0IyZmcxWElkY0I5cTM2NmtEMjVzNGtKVHNxWnRQdFlfbE53Yzh0V2lvaGZTRU9vNlM0NWhmdkxDNTFyZVNQNnlpazBkMmJ0QzVGY2NaYXJNSDgwMGgyU3FUUDhYWXZ6NXRXbm1xcGdUR1RnRWlHanFxSGRVbXlyQUhPQW82NExrYXp3M29yM05RMVNVdk5ZWmZXMUtBMU0yZFdLTE1Rd2ZPWkxu?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-20 21:12:51"
       }
     ],
     "facebook": [
@@ -1983,6 +1916,13 @@
     ],
     "day": [
       {
+        "title": "AI盜眼科權威賣假藥！張嘉郡籲公平會建立快速下架機制 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTU9WUnlrWG85QWNPSEtmMmhHbzgtN0h6Q21JVVk3RGs1MExFTFBSekJ6eW4yREx5ZWRDZEpXVmJsbVJ5VXoxN0dpenBIS3Q3cFBKXzlCalV4cnVHRVdkcExxTVNBREVxM1hTMkhzb1hxQ0RKQW9vRG5DenlONVZ5TXRWVWtoeUlDd0w2Q2RfOUJveVdPTmlzUE9Jay1xVEpZOXMtdEZwaG5pQWdiUTlrQ0xMOWZEcE5BQUlkQUJXRmlwYWR0WUdMUXlQZTJQTXNSeEVCU1QtbHFDV01RV1FrZmg0eU9CNnA1bEF5SzhXQi0wa3hsT3lKSEdUUWhBdW84dG42UWYxRjhrV1ZUb2RlN0x3djNVR2UyTHA5R2c3T0ZKZW5PaHdNNE5kc1J1R3Q2TWdyZ1hwQXA5cmJNQ0pmQ2FrWU5lQkpBSzh4MmV1QWUxWUhEWDB6b04wTXpJRHc5b3RDbkp1ZUdNeVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-23 15:28:53",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "劉建國 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1icnZ0Qy04TVZrRmtPSkRyYi1sbFo4YUxsdWplV2JjOG90bUp6ZVAtSHRRbFljblRqME8tOUpZQmRNSVdJUHNlZGYtUVpWY09jUDhDRUMzV3lZakIxc2U5WmtHdVlub053U1gtUTFhdGJPbTl6cTZCZGZ0dw",
         "time": "2026-04-23 12:17:07",
@@ -2114,13 +2054,6 @@
         "time": "2026-04-22 17:20:02",
         "platform": "facebook",
         "risk": "綠"
-      },
-      {
-        "title": "提供關稅戰、中東戰火「及時雨」 張嘉郡籲：報稅延至6/30 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNOG5UeHVyZFNHNW11dW9MM3pySGVhREl0SzNMNkFVWDNQNi1wYjJ6Wmo5ZGVxblduUVZKZmViU3BNaTI0N2sxT1dlNmdxUjlnUHdxVXp2RUlETkJsa0xYdzJsdDVnRlI2UkM1Z0JJZmlBVmpDSzlSX1drQnU5eEQzVUFBaXFsMHZOV0pwV3ZHSk5fQjU0U3VZMUotQjg1NHZjRzQ3SlBydmZNSFlCR25rMHBtS0RzYzRnYjlBR1ZaZkY5bzllNThtLU9XZUpkN3JvRVFmSGN4aFo5Q1R6U2lkWUpmZllxcWNydFlDcS1va0ZGVC1Nb19mcUl5TE0ydE5oWnB6QXU3dFctelBWc0RneXhVWHJWRGxEaXJJRXhVamdzczNxTlVaV1hEUHk1alVNa09zRVlTcTZlV2pLeW1HdHdLaHdHd2RNWlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-22 17:05:55",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2128,7 +2061,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 17
+        "count": 11
       },
       {
         "name": "麥寮",
