@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-04-24T09:47:11.181809+00:00",
+  "generated_at": "2026-04-24T10:02:34.765881+00:00",
   "metrics": {
     "total_24h": 22,
-    "prev_24h": 29,
-    "growth_pct": -24.14,
-    "news_24h": 18,
+    "prev_24h": 26,
+    "growth_pct": -15.38,
+    "news_24h": 19,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 145,
+    "total": 146,
     "prev": 46,
-    "growth_pct": 215.22,
-    "news": 108,
+    "growth_pct": 217.39,
+    "news": 109,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 18
+      "count": 19
     },
     {
       "platform": "facebook",
@@ -36,13 +36,13 @@
     },
     {
       "platform": "youtube",
-      "count": 2
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 108
+      "count": 109
     },
     {
       "platform": "facebook",
@@ -54,10 +54,6 @@
     }
   ],
   "by_hour": [
-    {
-      "hour": "2026-04-23 17:00",
-      "count": 1
-    },
     {
       "hour": "2026-04-23 18:00",
       "count": 5
@@ -108,6 +104,10 @@
     },
     {
       "hour": "2026-04-24 16:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-04-24 17:00",
       "count": 1
     }
   ],
@@ -363,12 +363,16 @@
     {
       "hour": "2026-04-24 16:00",
       "count": 1
+    },
+    {
+      "hour": "2026-04-24 17:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 14
+      "count": 15
     },
     {
       "platform": "facebook",
@@ -377,6 +381,11 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "立委劉建國爭取近7千萬改善東勢海豐大排！提升水利設施 守護雲林家園 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQUTZiRF90YS1fVXFrX2E2eHE5Rm5OZ2ZtdHg3ZXRjY21NSlJTNDZqODNkWkZuY1RLWWV2M0xiQkJydktqTWdLYmtUX202ZTh0a0FCRTQ3V1JLbHk4TXJtc0d3UVlBTkpHYTlWX1NwQXE0bFhEMUUwTHBNbGJ1RVdObkJMeHgxQXhKd2YyUDhyS3dxOVVqTDZhWEo5RkJaQk52XzNDbVVHQV9RaVV2bTZzZzNKQTZPeFB6LVlGMDNLVzRES2VSdmEteC1OeVV3eFdFZy1UWlcwZVVleEpyZTFMYVRVczJaNEJsN1N4WXQxQmlNbmRST2xJbHFTaTEzZXlsOUE4V1E1TEI5cFRFT0x0N2lCTFFPZFVmc1MwZ1ZsSFNzMm9yNWNGYkoxVXRDME9LTEtqbkk2N1V1eGpvZndiRlBpLWxEOW5GbFI0ZWJSVE5tTms1aXFIVHRPYnRCWkZtMWc0dHMtR2ZuVjFEbnJNRUxqTm9xcWlTNU1aSUk0Q1RMN2hSUlAzVThaOFZ2Y3FSdzBSUkxvLVdySXY4c3Z5WW5zeXJwd0xTUFB1bjNEWmE1S0cyampNRnpJQ3NOY28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-24 17:36:46"
+      },
       {
         "title": "爭取三千五百萬元改善校園環境 劉建國偕教育部彭署長會勘雲林多校建設 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNZTRpb0JOdjJLLXZodGR5dDFnTkhwM1hJLW1NZWJ4QjI1WnFhenRNMFJWUGYwSUlaQ1l0aWpVUEJUc1NVclFrQ01haWZQWTBfekR0WXlRQTBVeGwwM2cwVlR5dUc2VGdodEt0QndOX0dSbnEyb28ta0lGWDBhZWl5SnlteGFYSkQ0Q1BpemtNRmdlU3NMNGVDUEFhYnhrRUVrbldmLXBoTE9SNlZBaTZCOFdXUUpDWU1XQzJQSmZRalBya0xGZk9IbWx4UDJiQWswNVZ3aHBTd3g3dWp5VlRESXR0VFVOSFRjXzlZbktnTnFHQmZRYUlSSXUyUUR0NGlGa3VESWEyLS16MnFZOWxoZDdUNktrazlLb3ZmeldwSUNTMGpqSE4wVVktWTExRkpTYjNDd2JBNTJ3WThqOVpHVExTUDRMdmNKSjJmczNXeEw2T0pLbGNPeFgxUEhrY29reGpKM09KVkFIcXFFNk8yVDFXMnVnWmdDU3FlV1dLdG1Sc1FPQ3lmQ0dRLUNaWEJPNUFYQmsxM19hYzFsS0FndDUyeVd4azhJVDhjS2owUlFNNlpPZFIyYVp4V2ZvdEpqNWhPOWxmaDFOcG1vRl9BNE9pemQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -459,7 +468,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 14
+      "count": 15
     },
     {
       "platform": "facebook",
@@ -467,19 +476,12 @@
     }
   ],
   "alias_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "📣 #古坑孟宗竹筍納入災害救助 連續乾旱，讓古坑不少竹筍產量受影響，農民的辛苦，大家都看在眼裡。 在嘉郡努力爭取下，古坑鄉孟宗竹筍已納入 #農業天然災害現金救助👇 🎋 救助金額 每公頃4萬1,000元（損失達20%以上可申請） 🎋 申請時間 農業用地：4/25～5/11 林 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMihAhBVV95cUxPNWg5LUZkdldwT2E1MnpoLTl3NnFubGJ4QWt6ZlZHaXo5VnBDa2Voc0JnbkEyTU96OERfSlQ0RXhzRlNxa3VhOUlobGVkU2lrTHlBSlROM1Ixdkx5QUJsWDJVVzk1dGswYWU4a2R1d2V6eHJmYUNtX0dOQTVJSjVDcmt5RG1PVHZYVm00SVc2Z3BPcTV6Rm4yTHJ2d01tZ3AyV1NvRlNhY05QZzZENndZWEhpcDg3ZjdrUXFkZ2pzeWw3bDU2Zk82X29kdUM1VE03X1Jsa0M0d1U2dnpOQXdGOUhDRU9id3NEZW9lV1I5Yk4zQ05sMS0tSXFJMHpvYkpZMVcxZGJRbkpLN3dKRC1od3B3Z3Z3VDZRZl9ndy1FbjZtRVRzSmVIWldvQjgtRGM1R084c2hHcFFhN2xOQi1qRXVWU3hVQXZoRi15aVBNZUV1dEhWNkkyakJaUlQ1bHdDdGV4dmZWdllGV1RRTTlYdXdJeXdqUDRxbWpteWdqbG1iZkNKNFRUdEs3OU9FbTZVMHVXS2M1cnFSbUw1RnNqZjc3ZTBlZldiLWhJWkhyZjFyc0NhMDVYOGZ4QzB1MmczbHdubXhoVzJVS2Z0cllGSkVqajlvZ1ZiOXE1VkdsS1ZodWZld3p1SHVjcFlGMkJzSENQN2tqMk54UExmN1RhZkhIcGhRUFRKdUlJdDlRV0U3cGdYUV8zdkh4ZjVNQWJvRjJ5UXZQdDY1VVAwM3dOZl8xYzZDVHlFMVN1M0R1M1lVVUQ3aDJ6XzV4eDAyWVhQZUxmcUJyVF9UbXdzOTQ0NFdxcDdrUWo2ZGk3UU8wOXFUT1RkZ2swWTdkaDNsRTNUMldIN3d3OUhkUkJaNVUzdkZicTEzQllhMjd6UUR4cnZzQWZfT0lxM1FQNnVXa3JXNHNTSWtEbXRLRG9Jc0thd0lSbTAyU1k5YnNjWXl1Qmk3ZnRqSEpkTUFheGQyd1Nrdkozdmt0MjFTYnl1MHYyajhkTVh0MUluaFFOV3ViT3l0cTNiZkNLS2dodXB2UzB5VU54ZWhBR0NrRTBrMDF4dlVndThSWmpUN1U0MUhVdml6Q2ZIUUJ4UlUzbGVmeGVOam5veTl2QTFCVTcydmtOZEIySVI5SlJ5c0ppRnpNWGJlNDJWdlFWbDYwalFKLVBoOTdlTkdoVkpiUnNERlpyVjJBM2pIM281RUJiSXBPaVNOR1FPN0hRRHBaLWVIbjF0b2ZQUkhmVDdmSFk5T1ZDWHItZHNqYjVUQkRMUE9nOERZTWUwTUlJOEhvalQwZXFVM2xidE1ja2VXUnQ4R3g0UGtyRm4xeklfRDVxNVYtX0phNTdzdmZmNXdRR0thRjQzeS1vdw",
-        "time": "2026-04-24 16:39:10"
-      },
-      {
-        "title": "國民黨立委張嘉郡質詢稱，網路社群近期AI生成不實廣告愈來愈氾濫，甚至連中研院士、眼科權威都被盜用... 獨家、快訊搶先看！追蹤鏡即時👉 https://www.facebook.com/mirrormedianews - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMipgZBVV95cUxQdzNHM2pqSEdxSTB2ZnJjVTZRdktJb0R1SDl5YlRDZ0FHX0xFeEw2LWptdXd3dy00cXdxd2NneV9LWE10Yks1MHd0eUxURGF4ZHdQWXJhb0huRFFYQUpEcWhUUnpaOW1sTXdzRDVWVnBZRmZxcGRiWTdrNHhrS3FnRF9CempsbWNnVE1kTDZVUThDcks0d1dRUXlJeWZBNThkLUlTRHhwaGt2a2x5VUhKUGFhVXhzYnVSMEh5Y0dJOVVjU3ZGRGFyTUgyTHpvcmdoMjA4QkVIMUo2dTdJUjBGQjRTWFNlOWFvMHVsNm5GNmxZUHVkaGV1RG9JcEdJbGZyS2w0MENObTJoSXB4T0JMVV9KZUxpTWZpV3Jnem1acVJJUWFoaXN0dTRheWdGR0NoVUtNS0xOMHprV0J1UnJFWHU5ZEhIdkZaUUw0M3pLbUsyN2kxZTNRLTd4ZTBqRy1fLW5tRDR4RG9aLVZjY0l1UG5RdVNoMXBQN0I5N3M1VllraFdyY3Q5VWJvM3hwNE5UM3g3VmRMUWpEOVhoSVRQa0tpazlDLVZMeFZWS0Z6d19iejkzM0s4MGdUQ1hRR0g1SXZXRkN5TVZJZFozX1liTmprOWc1MklUeHlUT29TZkRhX01qMUhCUXJYS0s3WnpBc0VRYnMyeEc1anpvLXFaeFFTSUR1M1p6M084Mzkya1RDV1JXUVpXaUNPUXBDdTluXzEyczZLS3FERkVEYUo5X1dZMXJ4OHd5RENmNDRrYjNWM2s2Y21KMmgwc3Mxd1dkRmJTN3FMejBod3pEYUVLVkgzbEVNX3UxV1llUlM2TkI5T1lUQ3VlMDB3NzZ3OXJSOWZyQVgzcy1kNjllSVpKcnA3aXJkcjdhQmtPYUk4SE04OVZfSVQ3VjdtQnNnTU5rcUFremlBVEJxNHlhQ1ZHbU96ZXpjX1M2WnZISVdhWk10T2NYTnFQSDV6UGRUQnB1Sm8zSnp4cUJ5WGZrQXdNeHNVOEVUbzRkSEN4b0tyMEZlcDRoSVkwQWtoNFhPMU1jTUVYaWtEeExYUDE3a1BtMGZBTjVXZw",
-        "time": "2026-04-23 19:30:05"
-      }
-    ],
     "news": [
+      {
+        "title": "立委劉建國爭取近7千萬改善東勢海豐大排！提升水利設施 守護雲林家園 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQUTZiRF90YS1fVXFrX2E2eHE5Rm5OZ2ZtdHg3ZXRjY21NSlJTNDZqODNkWkZuY1RLWWV2M0xiQkJydktqTWdLYmtUX202ZTh0a0FCRTQ3V1JLbHk4TXJtc0d3UVlBTkpHYTlWX1NwQXE0bFhEMUUwTHBNbGJ1RVdObkJMeHgxQXhKd2YyUDhyS3dxOVVqTDZhWEo5RkJaQk52XzNDbVVHQV9RaVV2bTZzZzNKQTZPeFB6LVlGMDNLVzRES2VSdmEteC1OeVV3eFdFZy1UWlcwZVVleEpyZTFMYVRVczJaNEJsN1N4WXQxQmlNbmRST2xJbHFTaTEzZXlsOUE4V1E1TEI5cFRFT0x0N2lCTFFPZFVmc1MwZ1ZsSFNzMm9yNWNGYkoxVXRDME9LTEtqbkk2N1V1eGpvZndiRlBpLWxEOW5GbFI0ZWJSVE5tTms1aXFIVHRPYnRCWkZtMWc0dHMtR2ZuVjFEbnJNRUxqTm9xcWlTNU1aSUk0Q1RMN2hSUlAzVThaOFZ2Y3FSdzBSUkxvLVdySXY4c3Z5WW5zeXJwd0xTUFB1bjNEWmE1S0cyampNRnpJQ3NOY28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-24 17:36:46"
+      },
       {
         "title": "爭取三千五百萬元改善校園環境 劉建國偕教育部彭署長會勘雲林多校建設 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNZTRpb0JOdjJLLXZodGR5dDFnTkhwM1hJLW1NZWJ4QjI1WnFhenRNMFJWUGYwSUlaQ1l0aWpVUEJUc1NVclFrQ01haWZQWTBfekR0WXlRQTBVeGwwM2cwVlR5dUc2VGdodEt0QndOX0dSbnEyb28ta0lGWDBhZWl5SnlteGFYSkQ0Q1BpemtNRmdlU3NMNGVDUEFhYnhrRUVrbldmLXBoTE9SNlZBaTZCOFdXUUpDWU1XQzJQSmZRalBya0xGZk9IbWx4UDJiQWswNVZ3aHBTd3g3dWp5VlRESXR0VFVOSFRjXzlZbktnTnFHQmZRYUlSSXUyUUR0NGlGa3VESWEyLS16MnFZOWxoZDdUNktrazlLb3ZmeldwSUNTMGpqSE4wVVktWTExRkpTYjNDd2JBNTJ3WThqOVpHVExTUDRMdmNKSjJmczNXeEw2T0pLbGNPeFgxUEhrY29reGpKM09KVkFIcXFFNk8yVDFXMnVnWmdDU3FlV1dLdG1Sc1FPQ3lmQ0dRLUNaWEJPNUFYQmsxM19hYzFsS0FndDUyeVd4azhJVDhjS2owUlFNNlpPZFIyYVp4V2ZvdEpqNWhPOWxmaDFOcG1vRl9BNE9pemQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -550,17 +552,34 @@
         "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxOOExkdUFHUnRzdVNWeTVaOWRieFcyVHFzMTFmdGFVYm5SN1pEOTBXcmwyVlgxYUw0ZlpsMGRhOTlYcmlxeE12QXc3bEhGUHJ1NlRjYTdZekJ2UWZyRm5DOG80ZFlKR3RYLVpwUmZTSjNUNldnQnlYcmhZQmM3NXFVUm1OVmNaVEJvU1J2VzRpZ1lzVXA5WXhnUUxZRWZsZ0dGZXNTOHVGRE5XWVdaYlRlTE96c2d5SzFITmFyMjJnVkJmdGM5bFl5R0VORWlzQUNXY194Z0RJc2pSNWlldGF1NzJELUVKcTdRZXh6dWp0N25MdTNJY25Yc2NuY2FFZGszUjA0RE1QSGhYdV9KU1d3dDVmMDJ0S28wYnBsRkp0VVNLc3BUM2tKV3M4TnJJaWZBejEwUGdaZHh6S2FVVHlraUhYQ28xdzhELTVJLU1BLWc4Qmk3QTFUTUNuSmRDRVduOU4zRkJ1ZHlDQTBnLXNObjgwd3FOdHNfOXIwaEljaGtOSVRxd0pwQUpqa280ZTRYbFpLVm9NWVJva2Fw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-23 18:06:00"
       }
+    ],
+    "facebook": [
+      {
+        "title": "📣 #古坑孟宗竹筍納入災害救助 連續乾旱，讓古坑不少竹筍產量受影響，農民的辛苦，大家都看在眼裡。 在嘉郡努力爭取下，古坑鄉孟宗竹筍已納入 #農業天然災害現金救助👇 🎋 救助金額 每公頃4萬1,000元（損失達20%以上可申請） 🎋 申請時間 農業用地：4/25～5/11 林 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMihAhBVV95cUxPNWg5LUZkdldwT2E1MnpoLTl3NnFubGJ4QWt6ZlZHaXo5VnBDa2Voc0JnbkEyTU96OERfSlQ0RXhzRlNxa3VhOUlobGVkU2lrTHlBSlROM1Ixdkx5QUJsWDJVVzk1dGswYWU4a2R1d2V6eHJmYUNtX0dOQTVJSjVDcmt5RG1PVHZYVm00SVc2Z3BPcTV6Rm4yTHJ2d01tZ3AyV1NvRlNhY05QZzZENndZWEhpcDg3ZjdrUXFkZ2pzeWw3bDU2Zk82X29kdUM1VE03X1Jsa0M0d1U2dnpOQXdGOUhDRU9id3NEZW9lV1I5Yk4zQ05sMS0tSXFJMHpvYkpZMVcxZGJRbkpLN3dKRC1od3B3Z3Z3VDZRZl9ndy1FbjZtRVRzSmVIWldvQjgtRGM1R084c2hHcFFhN2xOQi1qRXVWU3hVQXZoRi15aVBNZUV1dEhWNkkyakJaUlQ1bHdDdGV4dmZWdllGV1RRTTlYdXdJeXdqUDRxbWpteWdqbG1iZkNKNFRUdEs3OU9FbTZVMHVXS2M1cnFSbUw1RnNqZjc3ZTBlZldiLWhJWkhyZjFyc0NhMDVYOGZ4QzB1MmczbHdubXhoVzJVS2Z0cllGSkVqajlvZ1ZiOXE1VkdsS1ZodWZld3p1SHVjcFlGMkJzSENQN2tqMk54UExmN1RhZkhIcGhRUFRKdUlJdDlRV0U3cGdYUV8zdkh4ZjVNQWJvRjJ5UXZQdDY1VVAwM3dOZl8xYzZDVHlFMVN1M0R1M1lVVUQ3aDJ6XzV4eDAyWVhQZUxmcUJyVF9UbXdzOTQ0NFdxcDdrUWo2ZGk3UU8wOXFUT1RkZ2swWTdkaDNsRTNUMldIN3d3OUhkUkJaNVUzdkZicTEzQllhMjd6UUR4cnZzQWZfT0lxM1FQNnVXa3JXNHNTSWtEbXRLRG9Jc0thd0lSbTAyU1k5YnNjWXl1Qmk3ZnRqSEpkTUFheGQyd1Nrdkozdmt0MjFTYnl1MHYyajhkTVh0MUluaFFOV3ViT3l0cTNiZkNLS2dodXB2UzB5VU54ZWhBR0NrRTBrMDF4dlVndThSWmpUN1U0MUhVdml6Q2ZIUUJ4UlUzbGVmeGVOam5veTl2QTFCVTcydmtOZEIySVI5SlJ5c0ppRnpNWGJlNDJWdlFWbDYwalFKLVBoOTdlTkdoVkpiUnNERlpyVjJBM2pIM281RUJiSXBPaVNOR1FPN0hRRHBaLWVIbjF0b2ZQUkhmVDdmSFk5T1ZDWHItZHNqYjVUQkRMUE9nOERZTWUwTUlJOEhvalQwZXFVM2xidE1ja2VXUnQ4R3g0UGtyRm4xeklfRDVxNVYtX0phNTdzdmZmNXdRR0thRjQzeS1vdw",
+        "time": "2026-04-24 16:39:10"
+      },
+      {
+        "title": "國民黨立委張嘉郡質詢稱，網路社群近期AI生成不實廣告愈來愈氾濫，甚至連中研院士、眼科權威都被盜用... 獨家、快訊搶先看！追蹤鏡即時👉 https://www.facebook.com/mirrormedianews - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMipgZBVV95cUxQdzNHM2pqSEdxSTB2ZnJjVTZRdktJb0R1SDl5YlRDZ0FHX0xFeEw2LWptdXd3dy00cXdxd2NneV9LWE10Yks1MHd0eUxURGF4ZHdQWXJhb0huRFFYQUpEcWhUUnpaOW1sTXdzRDVWVnBZRmZxcGRiWTdrNHhrS3FnRF9CempsbWNnVE1kTDZVUThDcks0d1dRUXlJeWZBNThkLUlTRHhwaGt2a2x5VUhKUGFhVXhzYnVSMEh5Y0dJOVVjU3ZGRGFyTUgyTHpvcmdoMjA4QkVIMUo2dTdJUjBGQjRTWFNlOWFvMHVsNm5GNmxZUHVkaGV1RG9JcEdJbGZyS2w0MENObTJoSXB4T0JMVV9KZUxpTWZpV3Jnem1acVJJUWFoaXN0dTRheWdGR0NoVUtNS0xOMHprV0J1UnJFWHU5ZEhIdkZaUUw0M3pLbUsyN2kxZTNRLTd4ZTBqRy1fLW5tRDR4RG9aLVZjY0l1UG5RdVNoMXBQN0I5N3M1VllraFdyY3Q5VWJvM3hwNE5UM3g3VmRMUWpEOVhoSVRQa0tpazlDLVZMeFZWS0Z6d19iejkzM0s4MGdUQ1hRR0g1SXZXRkN5TVZJZFozX1liTmprOWc1MklUeHlUT29TZkRhX01qMUhCUXJYS0s3WnpBc0VRYnMyeEc1anpvLXFaeFFTSUR1M1p6M084Mzkya1RDV1JXUVpXaUNPUXBDdTluXzEyczZLS3FERkVEYUo5X1dZMXJ4OHd5RENmNDRrYjNWM2s2Y21KMmgwc3Mxd1dkRmJTN3FMejBod3pEYUVLVkgzbEVNX3UxV1llUlM2TkI5T1lUQ3VlMDB3NzZ3OXJSOWZyQVgzcy1kNjllSVpKcnA3aXJkcjdhQmtPYUk4SE04OVZfSVQ3VjdtQnNnTU5rcUFremlBVEJxNHlhQ1ZHbU96ZXpjX1M2WnZISVdhWk10T2NYTnFQSDV6UGRUQnB1Sm8zSnp4cUJ5WGZrQXdNeHNVOEVUbzRkSEN4b0tyMEZlcDRoSVkwQWtoNFhPMU1jTUVYaWtEeExYUDE3a1BtMGZBTjVXZw",
+        "time": "2026-04-23 19:30:05"
+      }
     ]
   },
   "mention_compare_24h": {
     "張嘉郡": 8,
-    "劉建國": 7
+    "劉建國": 8
   },
   "mention_compare_7d": {
     "張嘉郡": 78,
-    "劉建國": 47
+    "劉建國": 48
   },
   "top_news": [
+    {
+      "title": "立委劉建國爭取近7千萬改善東勢海豐大排！提升水利設施 守護雲林家園 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQUTZiRF90YS1fVXFrX2E2eHE5Rm5OZ2ZtdHg3ZXRjY21NSlJTNDZqODNkWkZuY1RLWWV2M0xiQkJydktqTWdLYmtUX202ZTh0a0FCRTQ3V1JLbHk4TXJtc0d3UVlBTkpHYTlWX1NwQXE0bFhEMUUwTHBNbGJ1RVdObkJMeHgxQXhKd2YyUDhyS3dxOVVqTDZhWEo5RkJaQk52XzNDbVVHQV9RaVV2bTZzZzNKQTZPeFB6LVlGMDNLVzRES2VSdmEteC1OeVV3eFdFZy1UWlcwZVVleEpyZTFMYVRVczJaNEJsN1N4WXQxQmlNbmRST2xJbHFTaTEzZXlsOUE4V1E1TEI5cFRFT0x0N2lCTFFPZFVmc1MwZ1ZsSFNzMm9yNWNGYkoxVXRDME9LTEtqbkk2N1V1eGpvZndiRlBpLWxEOW5GbFI0ZWJSVE5tTms1aXFIVHRPYnRCWkZtMWc0dHMtR2ZuVjFEbnJNRUxqTm9xcWlTNU1aSUk0Q1RMN2hSUlAzVThaOFZ2Y3FSdzBSUkxvLVdySXY4c3Z5WW5zeXJwd0xTUFB1bjNEWmE1S0cyampNRnpJQ3NOY28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-24 17:36:46"
+    },
     {
       "title": "爭取三千五百萬元改善校園環境 劉建國偕教育部彭署長會勘雲林多校建設 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNZTRpb0JOdjJLLXZodGR5dDFnTkhwM1hJLW1NZWJ4QjI1WnFhenRNMFJWUGYwSUlaQ1l0aWpVUEJUc1NVclFrQ01haWZQWTBfekR0WXlRQTBVeGwwM2cwVlR5dUc2VGdodEt0QndOX0dSbnEyb28ta0lGWDBhZWl5SnlteGFYSkQ0Q1BpemtNRmdlU3NMNGVDUEFhYnhrRUVrbldmLXBoTE9SNlZBaTZCOFdXUUpDWU1XQzJQSmZRalBya0xGZk9IbWx4UDJiQWswNVZ3aHBTd3g3dWp5VlRESXR0VFVOSFRjXzlZbktnTnFHQmZRYUlSSXUyUUR0NGlGa3VESWEyLS16MnFZOWxoZDdUNktrazlLb3ZmeldwSUNTMGpqSE4wVVktWTExRkpTYjNDd2JBNTJ3WThqOVpHVExTUDRMdmNKSjJmczNXeEw2T0pLbGNPeFgxUEhrY29reGpKM09KVkFIcXFFNk8yVDFXMnVnWmdDU3FlV1dLdG1Sc1FPQ3lmQ0dRLUNaWEJPNUFYQmsxM19hYzFsS0FndDUyeVd4azhJVDhjS2owUlFNNlpPZFIyYVp4V2ZvdEpqNWhPOWxmaDFOcG1vRl9BNE9pemQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -615,14 +634,14 @@
       "title": "丁學忠徒步掃街懇託： 出來投票中止惡質循環 - MSN",
       "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQbzNIUThvVkprcnJYTUFtdm9aVUtpRVFUVGhCbGZvWTNnZ2Vub05vXzlYdW5jRlpjbVFKMTdRR0FNYVEwdE9ERzRxcXl1TG1DcVVuczBidVRaWm13ZXZjYVQ2YnctREdhWkNXVno3UTNQMkk2RW56V0sxY2ZPUWo1RUxaMmdYbHJPU2NPRGR6WTNudWtLckZIci1SUThXRGhEVUJyTS10Y19lTE56VDJjNTM2V2d5TE82WnNxQ3NRM2pBRUpGX3hObnUtY29jTnBJRXJHeHdkT3Rabzc2Y2VIWjN4U1N1U2MzdmE4UEJKRk5LSjFVZGsxcFc0c0xxdm9welVwUHpuU0FjRnlTSDV6Q1UzcWZCVERXLXJUcEtKazMyZkk4NTJ4T25KQV9KQVVzM1h1WnFqaWZ4S0kxMlY0eEVrU1ZfTXIzVXBERFd2alp2OFZjQ3VXM3BTTThEM0lRSlhrT1p1cFFOSDMwb0x3TjFRT3dwQmo4cFZBMnYxa3pXUDhDQ0xaTFBVQTVodFdidkEtUUxKdVFuSDRaejF4UG5ORVhnRTBwcVN4SVRSMUQwRC13Y2tmYVFrR2JWcXRjeXdpZHFoajNEYmZNcnFuX2R4SENQWTZrQWRjdmZaLXNGMEZLelcyZUNLdGJCeXlpWGw3YnJWc29yRXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-23 23:04:02"
-    },
-    {
-      "title": "AI生成不實廣告氾濫！張嘉郡籲：公平會應建立快速下架機制 - NOWnews今日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1iWldsTUg4SVA5NGVCVWRxNUt6c0JHVTNMQWFkV3FJQ0tmdThHWThSeXlVeGppSlNHSXU3X0p1ZzFHYVhHcGxaUldiNTjSAVJBVV95cUxOX2JvbVFCSURYZUtYMHhhOTNodVByU3FZMkRfanBTM3pielBjS2VyRHBTbWZSSnFpSVZtNUpmY0lPN2M3Q0ZRVU81N0RRV1gyRG9n?oc=5",
-      "time": "2026-04-23 21:47:35"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "立委劉建國爭取近7千萬改善東勢海豐大排！提升水利設施 守護雲林家園 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQUTZiRF90YS1fVXFrX2E2eHE5Rm5OZ2ZtdHg3ZXRjY21NSlJTNDZqODNkWkZuY1RLWWV2M0xiQkJydktqTWdLYmtUX202ZTh0a0FCRTQ3V1JLbHk4TXJtc0d3UVlBTkpHYTlWX1NwQXE0bFhEMUUwTHBNbGJ1RVdObkJMeHgxQXhKd2YyUDhyS3dxOVVqTDZhWEo5RkJaQk52XzNDbVVHQV9RaVV2bTZzZzNKQTZPeFB6LVlGMDNLVzRES2VSdmEteC1OeVV3eFdFZy1UWlcwZVVleEpyZTFMYVRVczJaNEJsN1N4WXQxQmlNbmRST2xJbHFTaTEzZXlsOUE4V1E1TEI5cFRFT0x0N2lCTFFPZFVmc1MwZ1ZsSFNzMm9yNWNGYkoxVXRDME9LTEtqbkk2N1V1eGpvZndiRlBpLWxEOW5GbFI0ZWJSVE5tTms1aXFIVHRPYnRCWkZtMWc0dHMtR2ZuVjFEbnJNRUxqTm9xcWlTNU1aSUk0Q1RMN2hSUlAzVThaOFZ2Y3FSdzBSUkxvLVdySXY4c3Z5WW5zeXJwd0xTUFB1bjNEWmE1S0cyampNRnpJQ3NOY28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-24 17:36:46"
+    },
     {
       "title": "爭取三千五百萬元改善校園環境 劉建國偕教育部彭署長會勘雲林多校建設 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNZTRpb0JOdjJLLXZodGR5dDFnTkhwM1hJLW1NZWJ4QjI1WnFhenRNMFJWUGYwSUlaQ1l0aWpVUEJUc1NVclFrQ01haWZQWTBfekR0WXlRQTBVeGwwM2cwVlR5dUc2VGdodEt0QndOX0dSbnEyb28ta0lGWDBhZWl5SnlteGFYSkQ0Q1BpemtNRmdlU3NMNGVDUEFhYnhrRUVrbldmLXBoTE9SNlZBaTZCOFdXUUpDWU1XQzJQSmZRalBya0xGZk9IbWx4UDJiQWswNVZ3aHBTd3g3dWp5VlRESXR0VFVOSFRjXzlZbktnTnFHQmZRYUlSSXUyUUR0NGlGa3VESWEyLS16MnFZOWxoZDdUNktrazlLb3ZmeldwSUNTMGpqSE4wVVktWTExRkpTYjNDd2JBNTJ3WThqOVpHVExTUDRMdmNKSjJmczNXeEw2T0pLbGNPeFgxUEhrY29reGpKM09KVkFIcXFFNk8yVDFXMnVnWmdDU3FlV1dLdG1Sc1FPQ3lmQ0dRLUNaWEJPNUFYQmsxM19hYzFsS0FndDUyeVd4azhJVDhjS2owUlFNNlpPZFIyYVp4V2ZvdEpqNWhPOWxmaDFOcG1vRl9BNE9pemQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -717,11 +736,6 @@
       "title": "揭違法賣瘦瘦針、AI盜名醫臉賣假藥 張嘉郡促建立快速下架機制 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10UWVjN1UtR3VGR3hpYXpBbEFJcVhDZTVZQzlONGxwVEt0bXJsQkNNVWVIZFpvb1hWYXI2V3RSZWZiWVhXaVZsWEJ0OVFkMTRXcGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-23 16:34:00"
-    },
-    {
-      "title": "揭違法賣瘦瘦針、AI 盜名醫臉賣假藥張嘉郡促建立快速下架機制 - 匯流新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UZklhRzlYY2xKNmhYNHRMaFhNbzV4RVk4TE9DajVTMFZXazB3RnhTN2MzQ3o5SGwxLVBNQTRRVmV2TnA3bm9BUUl3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-23 16:24:06"
     }
   ],
   "latest_facebook_20": [
@@ -828,6 +842,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "立委劉建國爭取近7千萬改善東勢海豐大排！提升水利設施 守護雲林家園 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQUTZiRF90YS1fVXFrX2E2eHE5Rm5OZ2ZtdHg3ZXRjY21NSlJTNDZqODNkWkZuY1RLWWV2M0xiQkJydktqTWdLYmtUX202ZTh0a0FCRTQ3V1JLbHk4TXJtc0d3UVlBTkpHYTlWX1NwQXE0bFhEMUUwTHBNbGJ1RVdObkJMeHgxQXhKd2YyUDhyS3dxOVVqTDZhWEo5RkJaQk52XzNDbVVHQV9RaVV2bTZzZzNKQTZPeFB6LVlGMDNLVzRES2VSdmEteC1OeVV3eFdFZy1UWlcwZVVleEpyZTFMYVRVczJaNEJsN1N4WXQxQmlNbmRST2xJbHFTaTEzZXlsOUE4V1E1TEI5cFRFT0x0N2lCTFFPZFVmc1MwZ1ZsSFNzMm9yNWNGYkoxVXRDME9LTEtqbkk2N1V1eGpvZndiRlBpLWxEOW5GbFI0ZWJSVE5tTms1aXFIVHRPYnRCWkZtMWc0dHMtR2ZuVjFEbnJNRUxqTm9xcWlTNU1aSUk0Q1RMN2hSUlAzVThaOFZ2Y3FSdzBSUkxvLVdySXY4c3Z5WW5zeXJwd0xTUFB1bjNEWmE1S0cyampNRnpJQ3NOY28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-24 17:36:46"
+    },
+    {
       "title": "爭取三千五百萬元改善校園環境 劉建國偕教育部彭署長會勘雲林多校建設 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNZTRpb0JOdjJLLXZodGR5dDFnTkhwM1hJLW1NZWJ4QjI1WnFhenRNMFJWUGYwSUlaQ1l0aWpVUEJUc1NVclFrQ01haWZQWTBfekR0WXlRQTBVeGwwM2cwVlR5dUc2VGdodEt0QndOX0dSbnEyb28ta0lGWDBhZWl5SnlteGFYSkQ0Q1BpemtNRmdlU3NMNGVDUEFhYnhrRUVrbldmLXBoTE9SNlZBaTZCOFdXUUpDWU1XQzJQSmZRalBya0xGZk9IbWx4UDJiQWswNVZ3aHBTd3g3dWp5VlRESXR0VFVOSFRjXzlZbktnTnFHQmZRYUlSSXUyUUR0NGlGa3VESWEyLS16MnFZOWxoZDdUNktrazlLb3ZmeldwSUNTMGpqSE4wVVktWTExRkpTYjNDd2JBNTJ3WThqOVpHVExTUDRMdmNKSjJmczNXeEw2T0pLbGNPeFgxUEhrY29reGpKM09KVkFIcXFFNk8yVDFXMnVnWmdDU3FlV1dLdG1Sc1FPQ3lmQ0dRLUNaWEJPNUFYQmsxM19hYzFsS0FndDUyeVd4azhJVDhjS2owUlFNNlpPZFIyYVp4V2ZvdEpqNWhPOWxmaDFOcG1vRl9BNE9pemQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-24 15:58:26"
@@ -921,11 +940,6 @@
       "title": "揭違法賣瘦瘦針、AI盜名醫臉賣假藥 張嘉郡促建立快速下架機制 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10UWVjN1UtR3VGR3hpYXpBbEFJcVhDZTVZQzlONGxwVEt0bXJsQkNNVWVIZFpvb1hWYXI2V3RSZWZiWVhXaVZsWEJ0OVFkMTRXcGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-23 16:34:00"
-    },
-    {
-      "title": "揭違法賣瘦瘦針、AI 盜名醫臉賣假藥張嘉郡促建立快速下架機制 - 匯流新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UZklhRzlYY2xKNmhYNHRMaFhNbzV4RVk4TE9DajVTMFZXazB3RnhTN2MzQ3o5SGwxLVBNQTRRVmV2TnA3bm9BUUl3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-23 16:24:06"
     }
   ],
   "person_sections": {
@@ -1240,6 +1254,11 @@
       ],
       "news": [
         {
+          "title": "立委劉建國爭取近7千萬改善東勢海豐大排！提升水利設施 守護雲林家園 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQUTZiRF90YS1fVXFrX2E2eHE5Rm5OZ2ZtdHg3ZXRjY21NSlJTNDZqODNkWkZuY1RLWWV2M0xiQkJydktqTWdLYmtUX202ZTh0a0FCRTQ3V1JLbHk4TXJtc0d3UVlBTkpHYTlWX1NwQXE0bFhEMUUwTHBNbGJ1RVdObkJMeHgxQXhKd2YyUDhyS3dxOVVqTDZhWEo5RkJaQk52XzNDbVVHQV9RaVV2bTZzZzNKQTZPeFB6LVlGMDNLVzRES2VSdmEteC1OeVV3eFdFZy1UWlcwZVVleEpyZTFMYVRVczJaNEJsN1N4WXQxQmlNbmRST2xJbHFTaTEzZXlsOUE4V1E1TEI5cFRFT0x0N2lCTFFPZFVmc1MwZ1ZsSFNzMm9yNWNGYkoxVXRDME9LTEtqbkk2N1V1eGpvZndiRlBpLWxEOW5GbFI0ZWJSVE5tTms1aXFIVHRPYnRCWkZtMWc0dHMtR2ZuVjFEbnJNRUxqTm9xcWlTNU1aSUk0Q1RMN2hSUlAzVThaOFZ2Y3FSdzBSUkxvLVdySXY4c3Z5WW5zeXJwd0xTUFB1bjNEWmE1S0cyampNRnpJQ3NOY28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-24 17:36:46"
+        },
+        {
           "title": "爭取三千五百萬元改善校園環境 劉建國偕教育部彭署長會勘雲林多校建設 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNZTRpb0JOdjJLLXZodGR5dDFnTkhwM1hJLW1NZWJ4QjI1WnFhenRNMFJWUGYwSUlaQ1l0aWpVUEJUc1NVclFrQ01haWZQWTBfekR0WXlRQTBVeGwwM2cwVlR5dUc2VGdodEt0QndOX0dSbnEyb28ta0lGWDBhZWl5SnlteGFYSkQ0Q1BpemtNRmdlU3NMNGVDUEFhYnhrRUVrbldmLXBoTE9SNlZBaTZCOFdXUUpDWU1XQzJQSmZRalBya0xGZk9IbWx4UDJiQWswNVZ3aHBTd3g3dWp5VlRESXR0VFVOSFRjXzlZbktnTnFHQmZRYUlSSXUyUUR0NGlGa3VESWEyLS16MnFZOWxoZDdUNktrazlLb3ZmeldwSUNTMGpqSE4wVVktWTExRkpTYjNDd2JBNTJ3WThqOVpHVExTUDRMdmNKSjJmczNXeEw2T0pLbGNPeFgxUEhrY29reGpKM09KVkFIcXFFNk8yVDFXMnVnWmdDU3FlV1dLdG1Sc1FPQ3lmQ0dRLUNaWEJPNUFYQmsxM19hYzFsS0FndDUyeVd4azhJVDhjS2owUlFNNlpPZFIyYVp4V2ZvdEpqNWhPOWxmaDFOcG1vRl9BNE9pemQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-24 15:58:26"
@@ -1333,17 +1352,17 @@
           "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNTVEUk5tQm5CZzZNemE4bU1pazJ1aFE1VENjdlNrYTVJbzZYaE9vWlE2bEtzX0U2YVNWY0NtWTYzcEZZVFg5MjJiVEF1T0QwSVdsTHJ1MTE3NWEtNnRRaG1FYUlVZ2t2UjhQcERwR2czeGNEWXotdWxXalNHSjZnbTFLVWhxNnZ5RzY2bmEtWmFkR2hrMlAyQWFBUnUzZkpGU1NHeENFNVA4NThfWC1UMkFpYU9HaFlXOU9JZEFpckdhU0M5LWYtTFJ1a2VOR1FpeWI0LTNIQ21sWGxEb3ZBRlRwTmFFdWlqRHktTExZQ1NoQ1Z3Y0JKajVIVEo5aDZ4UHNWdThjOGVWZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-22 15:50:00"
-        },
-        {
-          "title": "調度麥電燃煤 劉建國：雲林人繳稅少？ - 三立新聞網SETN.com",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yeFZBc0F2MUVSc0dHUXZsSzI2SWU5Y1l1V043WDU3R3FTaWRtYnVmWjA1ZU5PV2syUmEwS3ZKaGpNTDRnVGVmMWdWdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-22 15:49:39"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "立委劉建國爭取近7千萬改善東勢海豐大排！提升水利設施 守護雲林家園 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQUTZiRF90YS1fVXFrX2E2eHE5Rm5OZ2ZtdHg3ZXRjY21NSlJTNDZqODNkWkZuY1RLWWV2M0xiQkJydktqTWdLYmtUX202ZTh0a0FCRTQ3V1JLbHk4TXJtc0d3UVlBTkpHYTlWX1NwQXE0bFhEMUUwTHBNbGJ1RVdObkJMeHgxQXhKd2YyUDhyS3dxOVVqTDZhWEo5RkJaQk52XzNDbVVHQV9RaVV2bTZzZzNKQTZPeFB6LVlGMDNLVzRES2VSdmEteC1OeVV3eFdFZy1UWlcwZVVleEpyZTFMYVRVczJaNEJsN1N4WXQxQmlNbmRST2xJbHFTaTEzZXlsOUE4V1E1TEI5cFRFT0x0N2lCTFFPZFVmc1MwZ1ZsSFNzMm9yNWNGYkoxVXRDME9LTEtqbkk2N1V1eGpvZndiRlBpLWxEOW5GbFI0ZWJSVE5tTms1aXFIVHRPYnRCWkZtMWc0dHMtR2ZuVjFEbnJNRUxqTm9xcWlTNU1aSUk0Q1RMN2hSUlAzVThaOFZ2Y3FSdzBSUkxvLVdySXY4c3Z5WW5zeXJwd0xTUFB1bjNEWmE1S0cyampNRnpJQ3NOY28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-24 17:36:46"
+      },
       {
         "title": "爭取三千五百萬元改善校園環境 劉建國偕教育部彭署長會勘雲林多校建設 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNZTRpb0JOdjJLLXZodGR5dDFnTkhwM1hJLW1NZWJ4QjI1WnFhenRNMFJWUGYwSUlaQ1l0aWpVUEJUc1NVclFrQ01haWZQWTBfekR0WXlRQTBVeGwwM2cwVlR5dUc2VGdodEt0QndOX0dSbnEyb28ta0lGWDBhZWl5SnlteGFYSkQ0Q1BpemtNRmdlU3NMNGVDUEFhYnhrRUVrbldmLXBoTE9SNlZBaTZCOFdXUUpDWU1XQzJQSmZRalBya0xGZk9IbWx4UDJiQWswNVZ3aHBTd3g3dWp5VlRESXR0VFVOSFRjXzlZbktnTnFHQmZRYUlSSXUyUUR0NGlGa3VESWEyLS16MnFZOWxoZDdUNktrazlLb3ZmeldwSUNTMGpqSE4wVVktWTExRkpTYjNDd2JBNTJ3WThqOVpHVExTUDRMdmNKSjJmczNXeEw2T0pLbGNPeFgxUEhrY29reGpKM09KVkFIcXFFNk8yVDFXMnVnWmdDU3FlV1dLdG1Sc1FPQ3lmQ0dRLUNaWEJPNUFYQmsxM19hYzFsS0FndDUyeVd4azhJVDhjS2owUlFNNlpPZFIyYVp4V2ZvdEpqNWhPOWxmaDFOcG1vRl9BNE9pemQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1452,16 +1471,16 @@
         "title": "看到很多人 中 國 APP高德地圖的在臺灣上路的風險。下個月，數發部會公布該軟體的資安評測風險。以下影片是我昨天的回應：",
         "url": "https://www.youtube.com/shorts/w0-Ak8hzk_w",
         "time": "2026-04-24 13:16:34"
-      },
-      {
-        "title": "突破全國國中紀錄! 建國國中李健嘉再創鉛球佳績 雲林新聞網",
-        "url": "https://www.youtube.com/watch?v=MDUYH8LInBM",
-        "time": "2026-04-23 17:59:46"
       }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "立委劉建國爭取近7千萬改善東勢海豐大排！提升水利設施 守護雲林家園 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQUTZiRF90YS1fVXFrX2E2eHE5Rm5OZ2ZtdHg3ZXRjY21NSlJTNDZqODNkWkZuY1RLWWV2M0xiQkJydktqTWdLYmtUX202ZTh0a0FCRTQ3V1JLbHk4TXJtc0d3UVlBTkpHYTlWX1NwQXE0bFhEMUUwTHBNbGJ1RVdObkJMeHgxQXhKd2YyUDhyS3dxOVVqTDZhWEo5RkJaQk52XzNDbVVHQV9RaVV2bTZzZzNKQTZPeFB6LVlGMDNLVzRES2VSdmEteC1OeVV3eFdFZy1UWlcwZVVleEpyZTFMYVRVczJaNEJsN1N4WXQxQmlNbmRST2xJbHFTaTEzZXlsOUE4V1E1TEI5cFRFT0x0N2lCTFFPZFVmc1MwZ1ZsSFNzMm9yNWNGYkoxVXRDME9LTEtqbkk2N1V1eGpvZndiRlBpLWxEOW5GbFI0ZWJSVE5tTms1aXFIVHRPYnRCWkZtMWc0dHMtR2ZuVjFEbnJNRUxqTm9xcWlTNU1aSUk0Q1RMN2hSUlAzVThaOFZ2Y3FSdzBSUkxvLVdySXY4c3Z5WW5zeXJwd0xTUFB1bjNEWmE1S0cyampNRnpJQ3NOY28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-24 17:36:46"
+      },
       {
         "title": "爭取三千五百萬元改善校園環境 劉建國偕教育部彭署長會勘雲林多校建設 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNZTRpb0JOdjJLLXZodGR5dDFnTkhwM1hJLW1NZWJ4QjI1WnFhenRNMFJWUGYwSUlaQ1l0aWpVUEJUc1NVclFrQ01haWZQWTBfekR0WXlRQTBVeGwwM2cwVlR5dUc2VGdodEt0QndOX0dSbnEyb28ta0lGWDBhZWl5SnlteGFYSkQ0Q1BpemtNRmdlU3NMNGVDUEFhYnhrRUVrbldmLXBoTE9SNlZBaTZCOFdXUUpDWU1XQzJQSmZRalBya0xGZk9IbWx4UDJiQWswNVZ3aHBTd3g3dWp5VlRESXR0VFVOSFRjXzlZbktnTnFHQmZRYUlSSXUyUUR0NGlGa3VESWEyLS16MnFZOWxoZDdUNktrazlLb3ZmeldwSUNTMGpqSE4wVVktWTExRkpTYjNDd2JBNTJ3WThqOVpHVExTUDRMdmNKSjJmczNXeEw2T0pLbGNPeFgxUEhrY29reGpKM09KVkFIcXFFNk8yVDFXMnVnWmdDU3FlV1dLdG1Sc1FPQ3lmQ0dRLUNaWEJPNUFYQmsxM19hYzFsS0FndDUyeVd4azhJVDhjS2owUlFNNlpPZFIyYVp4V2ZvdEpqNWhPOWxmaDFOcG1vRl9BNE9pemQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1656,11 +1675,6 @@
         "title": "提供關稅戰、中東戰火「及時雨」 張嘉郡籲：報稅延至6/30 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNOG5UeHVyZFNHNW11dW9MM3pySGVhREl0SzNMNkFVWDNQNi1wYjJ6Wmo5ZGVxblduUVZKZmViU3BNaTI0N2sxT1dlNmdxUjlnUHdxVXp2RUlETkJsa0xYdzJsdDVnRlI2UkM1Z0JJZmlBVmpDSzlSX1drQnU5eEQzVUFBaXFsMHZOV0pwV3ZHSk5fQjU0U3VZMUotQjg1NHZjRzQ3SlBydmZNSFlCR25rMHBtS0RzYzRnYjlBR1ZaZkY5bzllNThtLU9XZUpkN3JvRVFmSGN4aFo5Q1R6U2lkWUpmZllxcWNydFlDcS1va0ZGVC1Nb19mcUl5TE0ydE5oWnB6QXU3dFctelBWc0RneXhVWHJWRGxEaXJJRXhVamdzczNxTlVaV1hEUHk1alVNa09zRVlTcTZlV2pLeW1HdHdLaHdHd2RNWlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-22 17:05:55"
-      },
-      {
-        "title": "美伊戰爭衝擊 張嘉郡籲：所得稅報稅期展延至6月底 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCWURjai0xSk4wM0laOTFQcXJicXFIeVhWaUJkM1FTbkp2NHN3S1g0N1gwQURreFZFazdhYmVaNGxBZ1owdVRVQWNWd0tPR1k2Slc0WjFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-22 16:19:46"
       }
     ],
     "facebook": [
@@ -1880,6 +1894,13 @@
     ],
     "day": [
       {
+        "title": "立委劉建國爭取近7千萬改善東勢海豐大排！提升水利設施 守護雲林家園 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQUTZiRF90YS1fVXFrX2E2eHE5Rm5OZ2ZtdHg3ZXRjY21NSlJTNDZqODNkWkZuY1RLWWV2M0xiQkJydktqTWdLYmtUX202ZTh0a0FCRTQ3V1JLbHk4TXJtc0d3UVlBTkpHYTlWX1NwQXE0bFhEMUUwTHBNbGJ1RVdObkJMeHgxQXhKd2YyUDhyS3dxOVVqTDZhWEo5RkJaQk52XzNDbVVHQV9RaVV2bTZzZzNKQTZPeFB6LVlGMDNLVzRES2VSdmEteC1OeVV3eFdFZy1UWlcwZVVleEpyZTFMYVRVczJaNEJsN1N4WXQxQmlNbmRST2xJbHFTaTEzZXlsOUE4V1E1TEI5cFRFT0x0N2lCTFFPZFVmc1MwZ1ZsSFNzMm9yNWNGYkoxVXRDME9LTEtqbkk2N1V1eGpvZndiRlBpLWxEOW5GbFI0ZWJSVE5tTms1aXFIVHRPYnRCWkZtMWc0dHMtR2ZuVjFEbnJNRUxqTm9xcWlTNU1aSUk0Q1RMN2hSUlAzVThaOFZ2Y3FSdzBSUkxvLVdySXY4c3Z5WW5zeXJwd0xTUFB1bjNEWmE1S0cyampNRnpJQ3NOY28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-24 17:36:46",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "📣 #古坑孟宗竹筍納入災害救助 連續乾旱，讓古坑不少竹筍產量受影響，農民的辛苦，大家都看在眼裡。 在嘉郡努力爭取下，古坑鄉孟宗竹筍已納入 #農業天然災害現金救助👇 🎋 救助金額 每公頃4萬1,000元（損失達20%以上可申請） 🎋 申請時間 農業用地：4/25～5/11 林 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMihAhBVV95cUxPNWg5LUZkdldwT2E1MnpoLTl3NnFubGJ4QWt6ZlZHaXo5VnBDa2Voc0JnbkEyTU96OERfSlQ0RXhzRlNxa3VhOUlobGVkU2lrTHlBSlROM1Ixdkx5QUJsWDJVVzk1dGswYWU4a2R1d2V6eHJmYUNtX0dOQTVJSjVDcmt5RG1PVHZYVm00SVc2Z3BPcTV6Rm4yTHJ2d01tZ3AyV1NvRlNhY05QZzZENndZWEhpcDg3ZjdrUXFkZ2pzeWw3bDU2Zk82X29kdUM1VE03X1Jsa0M0d1U2dnpOQXdGOUhDRU9id3NEZW9lV1I5Yk4zQ05sMS0tSXFJMHpvYkpZMVcxZGJRbkpLN3dKRC1od3B3Z3Z3VDZRZl9ndy1FbjZtRVRzSmVIWldvQjgtRGM1R084c2hHcFFhN2xOQi1qRXVWU3hVQXZoRi15aVBNZUV1dEhWNkkyakJaUlQ1bHdDdGV4dmZWdllGV1RRTTlYdXdJeXdqUDRxbWpteWdqbG1iZkNKNFRUdEs3OU9FbTZVMHVXS2M1cnFSbUw1RnNqZjc3ZTBlZldiLWhJWkhyZjFyc0NhMDVYOGZ4QzB1MmczbHdubXhoVzJVS2Z0cllGSkVqajlvZ1ZiOXE1VkdsS1ZodWZld3p1SHVjcFlGMkJzSENQN2tqMk54UExmN1RhZkhIcGhRUFRKdUlJdDlRV0U3cGdYUV8zdkh4ZjVNQWJvRjJ5UXZQdDY1VVAwM3dOZl8xYzZDVHlFMVN1M0R1M1lVVUQ3aDJ6XzV4eDAyWVhQZUxmcUJyVF9UbXdzOTQ0NFdxcDdrUWo2ZGk3UU8wOXFUT1RkZ2swWTdkaDNsRTNUMldIN3d3OUhkUkJaNVUzdkZicTEzQllhMjd6UUR4cnZzQWZfT0lxM1FQNnVXa3JXNHNTSWtEbXRLRG9Jc0thd0lSbTAyU1k5YnNjWXl1Qmk3ZnRqSEpkTUFheGQyd1Nrdkozdmt0MjFTYnl1MHYyajhkTVh0MUluaFFOV3ViT3l0cTNiZkNLS2dodXB2UzB5VU54ZWhBR0NrRTBrMDF4dlVndThSWmpUN1U0MUhVdml6Q2ZIUUJ4UlUzbGVmeGVOam5veTl2QTFCVTcydmtOZEIySVI5SlJ5c0ppRnpNWGJlNDJWdlFWbDYwalFKLVBoOTdlTkdoVkpiUnNERlpyVjJBM2pIM281RUJiSXBPaVNOR1FPN0hRRHBaLWVIbjF0b2ZQUkhmVDdmSFk5T1ZDWHItZHNqYjVUQkRMUE9nOERZTWUwTUlJOEhvalQwZXFVM2xidE1ja2VXUnQ4R3g0UGtyRm4xeklfRDVxNVYtX0phNTdzdmZmNXdRR0thRjQzeS1vdw",
         "time": "2026-04-24 16:39:10",
@@ -2003,13 +2024,6 @@
         "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxOOExkdUFHUnRzdVNWeTVaOWRieFcyVHFzMTFmdGFVYm5SN1pEOTBXcmwyVlgxYUw0ZlpsMGRhOTlYcmlxeE12QXc3bEhGUHJ1NlRjYTdZekJ2UWZyRm5DOG80ZFlKR3RYLVpwUmZTSjNUNldnQnlYcmhZQmM3NXFVUm1OVmNaVEJvU1J2VzRpZ1lzVXA5WXhnUUxZRWZsZ0dGZXNTOHVGRE5XWVdaYlRlTE96c2d5SzFITmFyMjJnVkJmdGM5bFl5R0VORWlzQUNXY194Z0RJc2pSNWlldGF1NzJELUVKcTdRZXh6dWp0N25MdTNJY25Yc2NuY2FFZGszUjA0RE1QSGhYdV9KU1d3dDVmMDJ0S28wYnBsRkp0VVNLc3BUM2tKV3M4TnJJaWZBejEwUGdaZHh6S2FVVHlraUhYQ28xdzhELTVJLU1BLWc4Qmk3QTFUTUNuSmRDRVduOU4zRkJ1ZHlDQTBnLXNObjgwd3FOdHNfOXIwaEljaGtOSVRxd0pwQUpqa280ZTRYbFpLVm9NWVJva2Fw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-23 18:06:00",
         "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "突破全國國中紀錄! 建國國中李健嘉再創鉛球佳績 雲林新聞網",
-        "url": "https://www.youtube.com/watch?v=MDUYH8LInBM",
-        "time": "2026-04-23 17:59:46",
-        "platform": "youtube",
         "risk": "綠"
       }
     ]
