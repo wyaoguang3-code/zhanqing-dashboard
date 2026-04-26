@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-04-26T01:31:56.709363+00:00",
+  "generated_at": "2026-04-26T01:47:01.730381+00:00",
   "metrics": {
-    "total_24h": 11,
-    "prev_24h": 26,
-    "growth_pct": -57.69,
-    "news_24h": 11,
+    "total_24h": 13,
+    "prev_24h": 25,
+    "growth_pct": -48.0,
+    "news_24h": 13,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 175,
+    "total": 177,
     "prev": 26,
-    "growth_pct": 573.08,
-    "news": 135,
+    "growth_pct": 580.77,
+    "news": 137,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,13 +28,13 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 11
+      "count": 13
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 135
+      "count": 137
     },
     {
       "platform": "facebook",
@@ -65,6 +65,14 @@
     {
       "hour": "2026-04-25 19:00",
       "count": 2
+    },
+    {
+      "hour": "2026-04-26 05:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-04-26 06:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -355,16 +363,29 @@
     {
       "hour": "2026-04-25 19:00",
       "count": 2
+    },
+    {
+      "hour": "2026-04-26 05:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-04-26 06:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 11
+      "count": 12
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "對決劉建國!張嘉郡獲國民黨雲林縣黨部提名 3月中常會拍板 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxOand4QWtkOEthQzFDeFplVVpiWHctNzRjMXBQQWxqdWNHVmc0TlNIYkh3eG41aFJCenZNYUlIV3NzeDM2MVpqSXYxOEtOSDc1cWJkNVlFT0NyR3JGMVBteXhzRWw4ajJQeXItVng3bk4tNjBHWGtzZFR5YUIxWFFCUHVJODZBbDg5dlhnc1hEYVlrUFgxWDlQSlExSGJ6d3BRUk1qcXp5NUgxdFlWYlpFQVFNZmFQRW1mQUhCLUN1TVVvcjhQcUhaVGNaWkNBTTdoakloVkg0VGhrbHAwdzEydTVTSHVTekI2MzhUcVZaN05uMmY2M0dBTmd6N0FsOGFXanVETTM4N2ZiTkE5Y2JEeWtFdGR4UkdEd21GMGtmaUtWZjZPQzY2Q1JyWFY2Q3FiRlhsb0hObGYzMXhRR0RwLV9xUDVPbWlobk5oVFBLU1dhWXBOQno5d1JuNmVlR3hEMy14YzNLTDFlS0VVUEZhMkdPTHk3dW5URXRiSkl4MTI0Ym5CQlZsLUxrWEZoQ1ZWejh3S29aNU05U3hlVmdWYjJNU2dmSnVLLWV4Vk40QmlxaHJFNTFfOEhpaHZ5d3c4dkp5UVdCQ29XTm40OE9HaUo0S0txbDhRV3BRWjA1cU91OXFCNC0xNnJvLUdzcDdaOWhETDFsT0s0NWhfOS02WnN0Tzluc0wtRnlxa3lZSGJ4ZVFqSzlhNEk4Qnh1amt5MXBxSF9RWmxwSEloOGVlQi1xX3Joc1dSdXRwV1JpRVc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-26 06:13:56"
+      },
       {
         "title": "快訊／二度參戰！ 民進黨徵召劉建國參選2026 雲林縣長 - MSN",
         "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOYW9fd1JyUmxxNVd4dUlNMEFZbjBwNF9hSnc1LVkybjdHNXJEM2JqaXRxUzFXT1dlQWF1NlQ2ZXI5UFR2WVplY0hZUGIyMDJUNWNtcklyVWdfZ19qQzVXbjN1S2Rpc3pmekNXd2pPQi1EOG5WYWZTSU5lQmdKell5WjBDVnh2WkF5QUxuN2dSWHZFNTZ6UDhxcUlwbEFPTjFsVXcwT2k0UmJiUTBwRWozMURvT2U2NGMzT1RkWnJyeUlRTUUwOEV6UDhzbjFFdW4wVHRoZWhJU1VteHVOY2YwSkd6QmkzLUV5NEwzalFwZWlYQ2VjRUlsZjhEeTVET1dmT29jNzBWNzV5ZlpPT2g2RDJ0cldEaDctb0k3UFBSVDY3NkNmZkdaaURXV2RMTXBHc1h0S0c2LVZiWlNyZ29ZRllmUnExYWN0bDZEbVFPTElaY1hjWGI3Qm8yaC1MNWdtSkRtYXdWUjZXS0lQMmxBbXQyVGJKMHhNMUxRN3E3dTNGWDZWQzFyd2pFMy1WWnV3a3pJRnVPVDk1ZmY3UEtPejhuMlp6ZDFnR05wb1pWckRTclF5QXNDT0xKU3V6MG9MLVgxY051bmk3cFNZeHhxMWZmX1pqeTM5SC1zWDQyX2I0MWNIOUZlYmR1ZUZOWEFWc3o0TmoyVklQYTE3U1hnMHc3dnNOcER6?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -425,11 +446,16 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 11
+      "count": 12
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "對決劉建國!張嘉郡獲國民黨雲林縣黨部提名 3月中常會拍板 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxOand4QWtkOEthQzFDeFplVVpiWHctNzRjMXBQQWxqdWNHVmc0TlNIYkh3eG41aFJCenZNYUlIV3NzeDM2MVpqSXYxOEtOSDc1cWJkNVlFT0NyR3JGMVBteXhzRWw4ajJQeXItVng3bk4tNjBHWGtzZFR5YUIxWFFCUHVJODZBbDg5dlhnc1hEYVlrUFgxWDlQSlExSGJ6d3BRUk1qcXp5NUgxdFlWYlpFQVFNZmFQRW1mQUhCLUN1TVVvcjhQcUhaVGNaWkNBTTdoakloVkg0VGhrbHAwdzEydTVTSHVTekI2MzhUcVZaN05uMmY2M0dBTmd6N0FsOGFXanVETTM4N2ZiTkE5Y2JEeWtFdGR4UkdEd21GMGtmaUtWZjZPQzY2Q1JyWFY2Q3FiRlhsb0hObGYzMXhRR0RwLV9xUDVPbWlobk5oVFBLU1dhWXBOQno5d1JuNmVlR3hEMy14YzNLTDFlS0VVUEZhMkdPTHk3dW5URXRiSkl4MTI0Ym5CQlZsLUxrWEZoQ1ZWejh3S29aNU05U3hlVmdWYjJNU2dmSnVLLWV4Vk40QmlxaHJFNTFfOEhpaHZ5d3c4dkp5UVdCQ29XTm40OE9HaUo0S0txbDhRV3BRWjA1cU91OXFCNC0xNnJvLUdzcDdaOWhETDFsT0s0NWhfOS02WnN0Tzluc0wtRnlxa3lZSGJ4ZVFqSzlhNEk4Qnh1amt5MXBxSF9RWmxwSEloOGVlQi1xX3Joc1dSdXRwV1JpRVc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-26 06:13:56"
+      },
       {
         "title": "快訊／二度參戰！ 民進黨徵召劉建國參選2026 雲林縣長 - MSN",
         "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOYW9fd1JyUmxxNVd4dUlNMEFZbjBwNF9hSnc1LVkybjdHNXJEM2JqaXRxUzFXT1dlQWF1NlQ2ZXI5UFR2WVplY0hZUGIyMDJUNWNtcklyVWdfZ19qQzVXbjN1S2Rpc3pmekNXd2pPQi1EOG5WYWZTSU5lQmdKell5WjBDVnh2WkF5QUxuN2dSWHZFNTZ6UDhxcUlwbEFPTjFsVXcwT2k0UmJiUTBwRWozMURvT2U2NGMzT1RkWnJyeUlRTUUwOEV6UDhzbjFFdW4wVHRoZWhJU1VteHVOY2YwSkd6QmkzLUV5NEwzalFwZWlYQ2VjRUlsZjhEeTVET1dmT29jNzBWNzV5ZlpPT2g2RDJ0cldEaDctb0k3UFBSVDY3NkNmZkdaaURXV2RMTXBHc1h0S0c2LVZiWlNyZ29ZRllmUnExYWN0bDZEbVFPTElaY1hjWGI3Qm8yaC1MNWdtSkRtYXdWUjZXS0lQMmxBbXQyVGJKMHhNMUxRN3E3dTNGWDZWQzFyd2pFMy1WWnV3a3pJRnVPVDk1ZmY3UEtPejhuMlp6ZDFnR05wb1pWckRTclF5QXNDT0xKU3V6MG9MLVgxY051bmk3cFNZeHhxMWZmX1pqeTM5SC1zWDQyX2I0MWNIOUZlYmR1ZUZOWEFWc3o0TmoyVklQYTE3U1hnMHc3dnNOcER6?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -488,14 +514,24 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 10,
-    "劉建國": 4
+    "張嘉郡": 11,
+    "劉建國": 5
   },
   "mention_compare_7d": {
-    "張嘉郡": 96,
-    "劉建國": 64
+    "張嘉郡": 97,
+    "劉建國": 65
   },
   "top_news": [
+    {
+      "title": "對決劉建國!張嘉郡獲國民黨雲林縣黨部提名 3月中常會拍板 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxOand4QWtkOEthQzFDeFplVVpiWHctNzRjMXBQQWxqdWNHVmc0TlNIYkh3eG41aFJCenZNYUlIV3NzeDM2MVpqSXYxOEtOSDc1cWJkNVlFT0NyR3JGMVBteXhzRWw4ajJQeXItVng3bk4tNjBHWGtzZFR5YUIxWFFCUHVJODZBbDg5dlhnc1hEYVlrUFgxWDlQSlExSGJ6d3BRUk1qcXp5NUgxdFlWYlpFQVFNZmFQRW1mQUhCLUN1TVVvcjhQcUhaVGNaWkNBTTdoakloVkg0VGhrbHAwdzEydTVTSHVTekI2MzhUcVZaN05uMmY2M0dBTmd6N0FsOGFXanVETTM4N2ZiTkE5Y2JEeWtFdGR4UkdEd21GMGtmaUtWZjZPQzY2Q1JyWFY2Q3FiRlhsb0hObGYzMXhRR0RwLV9xUDVPbWlobk5oVFBLU1dhWXBOQno5d1JuNmVlR3hEMy14YzNLTDFlS0VVUEZhMkdPTHk3dW5URXRiSkl4MTI0Ym5CQlZsLUxrWEZoQ1ZWejh3S29aNU05U3hlVmdWYjJNU2dmSnVLLWV4Vk40QmlxaHJFNTFfOEhpaHZ5d3c4dkp5UVdCQ29XTm40OE9HaUo0S0txbDhRV3BRWjA1cU91OXFCNC0xNnJvLUdzcDdaOWhETDFsT0s0NWhfOS02WnN0Tzluc0wtRnlxa3lZSGJ4ZVFqSzlhNEk4Qnh1amt5MXBxSF9RWmxwSEloOGVlQi1xX3Joc1dSdXRwV1JpRVc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-26 06:13:56"
+    },
+    {
+      "title": "丁學忠徒步掃街懇託： 出來投票中止惡質循環 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxObWlDeWtHUUR2VU9EY2lsY3gyT0s3cWxUWDFDcGE5eWhzbDlNTHRpVzdlcnZRQnFhY1RIQ2w5b2Q3RXlVYlJ4WFcxNFBpZ0tzRHJycHU1VkVad0ZSMXFWTHhUckE1Z1hLdUVRWDVtVW9Ub2tfWFlfT2otYi13VVZFeVV3Qk1ZdmtIR0prdGYtZDIxMkxuQnlXZWZQdkx0VGE4U3BEbE5ZSGZuQVF3REhHMHRmVmQzcFNoMnlJNy1MRHY5OEx0ek5kb2RYMGhlNlRzMmI0cVhCaFkwUF9XaUVRYUh1aVNjWS1TZEVDcHZBaGxLaFItdlpJcE5mSFhoMjU2OVV4YWhlNlJqYlNqZFk3YWNFX3Q5eUVfNFdvS25EWkNPWGdXR1hwMmZMZGM3X3FtTkxFUTZaQkpGNnEwZUllVVhEUXREdVRWZW9Kd3pGb1dLQzkwR1otWVVrRkVfTGtxZHFyWk5Wc05LQ25xbHBPSU5PYTRGUVlzUkYwcTZSUkNfb1RVcjFoUEM4a3lFbFFTTmR3djB2SDFiLU9yS2pwS09PWUF1UWZ1eFdET0NuT20tNWU4SjNVZ1FZVjRjNWhkWThOZHdKanVrRUstMUtlQkJ4VURQQnlvYzJZQTBKYjFxOExEV2s4WlphcEhNVDI1Q0thSHpOdUxWR2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-26 05:16:51"
+    },
     {
       "title": "快訊／二度參戰！ 民進黨徵召劉建國參選2026 雲林縣長 - MSN",
       "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOYW9fd1JyUmxxNVd4dUlNMEFZbjBwNF9hSnc1LVkybjdHNXJEM2JqaXRxUzFXT1dlQWF1NlQ2ZXI5UFR2WVplY0hZUGIyMDJUNWNtcklyVWdfZ19qQzVXbjN1S2Rpc3pmekNXd2pPQi1EOG5WYWZTSU5lQmdKell5WjBDVnh2WkF5QUxuN2dSWHZFNTZ6UDhxcUlwbEFPTjFsVXcwT2k0UmJiUTBwRWozMURvT2U2NGMzT1RkWnJyeUlRTUUwOEV6UDhzbjFFdW4wVHRoZWhJU1VteHVOY2YwSkd6QmkzLUV5NEwzalFwZWlYQ2VjRUlsZjhEeTVET1dmT29jNzBWNzV5ZlpPT2g2RDJ0cldEaDctb0k3UFBSVDY3NkNmZkdaaURXV2RMTXBHc1h0S0c2LVZiWlNyZ29ZRllmUnExYWN0bDZEbVFPTElaY1hjWGI3Qm8yaC1MNWdtSkRtYXdWUjZXS0lQMmxBbXQyVGJKMHhNMUxRN3E3dTNGWDZWQzFyd2pFMy1WWnV3a3pJRnVPVDk1ZmY3UEtPejhuMlp6ZDFnR05wb1pWckRTclF5QXNDT0xKU3V6MG9MLVgxY051bmk3cFNZeHhxMWZmX1pqeTM5SC1zWDQyX2I0MWNIOUZlYmR1ZUZOWEFWc3o0TmoyVklQYTE3U1hnMHc3dnNOcER6?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -545,14 +581,19 @@
       "title": "張嘉郡、丁學忠爭取雲林站增班 高鐵有望7月後增5班次 - MSN",
       "url": "https://news.google.com/rss/articles/CBMiowRBVV95cUxNa04wSFVhWk50LUM4N2FVTVdFNFRGYnNsUGhuYzlvcjRlcEgyOW0wWEZsMFhrVTA4d25xM1pOYS1YdzRHTXEwdXBLOFV5N2hUcTNiczhOT0M0Szh6S2NJZFBuSFFlZjgzaFFUbUFuZnZrblA3dDM3OXREM3g3R2hiV19BX3V2d29HNkVHbVlmanNDdjJiaHNxU1M2UUpBZHJpbVAtY1A2cWZ0UF9QNUVOeGRSZENTbC1KaTQ4OVp4RXdrSmJOTVE0TUppQThhU2xUZC00MVBmLWN4NTFxcmRWblJTdGc0ODVnaUcyVU1nU2JyZ0d0VllocU5USkNfVE1vQUV4TmFuVS1ZcGFqdWl6SjhlSllwZXQxMmdZRF9rai1wMm1lUjFLcnBTay1hUS1XUFF2QnM4U2RTVUVSTkZXcTJ5Y1RGX05UOEgzVHJEOHdocEVuTXQxNFlvdW0wOHlGNDdwWFdFSU5PeGh3UTlPZ3VjVGpfTHZteWNFYzVHWU9CTmpjM0sxQkQ1T0hFMmh1RWtKRi02Q0c4RG9ibXdZSExBTk5NRl9TbXhMcUFiVTctdnNoc3drOTQ3XzJZbEpZMTZHMU94RUJWSkJqcFJwRTF5VzZZUEMxZlo4bE5EeXlBZEd4cVRGWTA3Xy1XOXZsdURtWkFXaUllV3BtVm5tU1dWRjJNZFBZZ0w2ekpXN1JwajdsaGlOR3dxREU2eUl4U2c4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-25 15:23:51"
-    },
-    {
-      "title": "張嘉郡獲提名參選雲林縣長 確定對決劉建國 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQOTFhTExsSFFDNU5FempDMG42NnpOc3JSbFJpRFg2NG1mdlhKeG5VaUZDdnBka1FNc0I3angtVGltNF9ZMXNqTV9xYW1CbGNMUVU1S0ZsY3lqS1hPeDVHYm9rQUZRc2JqUFpNSWpwRkpNMExLeXNwSWMxWUNySHVuRXhsTVJhOFFnVk5GRE9mVzhmdk9Ub3lzRTNqY1lHWTVZUENEWlN6cGhWejExWVNqc1hoSWlhSmhhOEpsVXVnM3ZsMzBYRlVuNHQ2SnRmdENXTEdCV2k4dERqVFRLaF9qYlY3WWR5LVh1VEw4VHEzcmtEbXZ6bjROYXoxVU4wZTRJQjNQdGxfOWtaSjBqU1gtekpRYXJ5RnJ3YnNmWkVoT00zQ2xXc21fYkYzV0U3bTlrdG40V1dhTFMyV01wX0dPbnpNVGpIUlIzLUpkVVlScjZUU1g2cGFvZzMySkJLOXBGWFBPSWJxMEJSNkdVWHVEWmwycHNpT2RvbEhuMFoxMUg2UkRReE8zNWwtR2JXcUVSeUZNQlU3V0pQLU1JUGpicEVfWloxa25Ib2d1b1VNanNaRFMzcTNjM1ZxQ3dxV3ZVaDQ0OUh3V3UtY0R6d3Ffa2loSGRESURSLTJ5TndxR0lvcVh0RlBMY2htQnR4QVJ6YjRJc1BzNVJpRjQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-25 14:34:04"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "對決劉建國!張嘉郡獲國民黨雲林縣黨部提名 3月中常會拍板 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxOand4QWtkOEthQzFDeFplVVpiWHctNzRjMXBQQWxqdWNHVmc0TlNIYkh3eG41aFJCenZNYUlIV3NzeDM2MVpqSXYxOEtOSDc1cWJkNVlFT0NyR3JGMVBteXhzRWw4ajJQeXItVng3bk4tNjBHWGtzZFR5YUIxWFFCUHVJODZBbDg5dlhnc1hEYVlrUFgxWDlQSlExSGJ6d3BRUk1qcXp5NUgxdFlWYlpFQVFNZmFQRW1mQUhCLUN1TVVvcjhQcUhaVGNaWkNBTTdoakloVkg0VGhrbHAwdzEydTVTSHVTekI2MzhUcVZaN05uMmY2M0dBTmd6N0FsOGFXanVETTM4N2ZiTkE5Y2JEeWtFdGR4UkdEd21GMGtmaUtWZjZPQzY2Q1JyWFY2Q3FiRlhsb0hObGYzMXhRR0RwLV9xUDVPbWlobk5oVFBLU1dhWXBOQno5d1JuNmVlR3hEMy14YzNLTDFlS0VVUEZhMkdPTHk3dW5URXRiSkl4MTI0Ym5CQlZsLUxrWEZoQ1ZWejh3S29aNU05U3hlVmdWYjJNU2dmSnVLLWV4Vk40QmlxaHJFNTFfOEhpaHZ5d3c4dkp5UVdCQ29XTm40OE9HaUo0S0txbDhRV3BRWjA1cU91OXFCNC0xNnJvLUdzcDdaOWhETDFsT0s0NWhfOS02WnN0Tzluc0wtRnlxa3lZSGJ4ZVFqSzlhNEk4Qnh1amt5MXBxSF9RWmxwSEloOGVlQi1xX3Joc1dSdXRwV1JpRVc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-26 06:13:56"
+    },
+    {
+      "title": "丁學忠徒步掃街懇託： 出來投票中止惡質循環 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxObWlDeWtHUUR2VU9EY2lsY3gyT0s3cWxUWDFDcGE5eWhzbDlNTHRpVzdlcnZRQnFhY1RIQ2w5b2Q3RXlVYlJ4WFcxNFBpZ0tzRHJycHU1VkVad0ZSMXFWTHhUckE1Z1hLdUVRWDVtVW9Ub2tfWFlfT2otYi13VVZFeVV3Qk1ZdmtIR0prdGYtZDIxMkxuQnlXZWZQdkx0VGE4U3BEbE5ZSGZuQVF3REhHMHRmVmQzcFNoMnlJNy1MRHY5OEx0ek5kb2RYMGhlNlRzMmI0cVhCaFkwUF9XaUVRYUh1aVNjWS1TZEVDcHZBaGxLaFItdlpJcE5mSFhoMjU2OVV4YWhlNlJqYlNqZFk3YWNFX3Q5eUVfNFdvS25EWkNPWGdXR1hwMmZMZGM3X3FtTkxFUTZaQkpGNnEwZUllVVhEUXREdVRWZW9Kd3pGb1dLQzkwR1otWVVrRkVfTGtxZHFyWk5Wc05LQ25xbHBPSU5PYTRGUVlzUkYwcTZSUkNfb1RVcjFoUEM4a3lFbFFTTmR3djB2SDFiLU9yS2pwS09PWUF1UWZ1eFdET0NuT20tNWU4SjNVZ1FZVjRjNWhkWThOZHdKanVrRUstMUtlQkJ4VURQQnlvYzJZQTBKYjFxOExEV2s4WlphcEhNVDI1Q0thSHpOdUxWR2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-26 05:16:51"
+    },
     {
       "title": "快訊／二度參戰！ 民進黨徵召劉建國參選2026 雲林縣長 - MSN",
       "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOYW9fd1JyUmxxNVd4dUlNMEFZbjBwNF9hSnc1LVkybjdHNXJEM2JqaXRxUzFXT1dlQWF1NlQ2ZXI5UFR2WVplY0hZUGIyMDJUNWNtcklyVWdfZ19qQzVXbjN1S2Rpc3pmekNXd2pPQi1EOG5WYWZTSU5lQmdKell5WjBDVnh2WkF5QUxuN2dSWHZFNTZ6UDhxcUlwbEFPTjFsVXcwT2k0UmJiUTBwRWozMURvT2U2NGMzT1RkWnJyeUlRTUUwOEV6UDhzbjFFdW4wVHRoZWhJU1VteHVOY2YwSkd6QmkzLUV5NEwzalFwZWlYQ2VjRUlsZjhEeTVET1dmT29jNzBWNzV5ZlpPT2g2RDJ0cldEaDctb0k3UFBSVDY3NkNmZkdaaURXV2RMTXBHc1h0S0c2LVZiWlNyZ29ZRllmUnExYWN0bDZEbVFPTElaY1hjWGI3Qm8yaC1MNWdtSkRtYXdWUjZXS0lQMmxBbXQyVGJKMHhNMUxRN3E3dTNGWDZWQzFyd2pFMy1WWnV3a3pJRnVPVDk1ZmY3UEtPejhuMlp6ZDFnR05wb1pWckRTclF5QXNDT0xKU3V6MG9MLVgxY051bmk3cFNZeHhxMWZmX1pqeTM5SC1zWDQyX2I0MWNIOUZlYmR1ZUZOWEFWc3o0TmoyVklQYTE3U1hnMHc3dnNOcER6?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -642,16 +683,6 @@
       "title": "立委劉建國爭取近7千萬改善東勢海豐大排！提升水利設施 守護雲林家園 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRbzE2LTJGYVk3XzA0Ym1uZVhNZjFyS05taGVLb3BYWVVCX0d2b2dfZUIwNEFzT2xmQTI2VnhubnZNWHFNNHQxREJXUGJYWkJ0N3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-24 18:56:00"
-    },
-    {
-      "title": "AI生成不實廣告氾濫 雲林立委張嘉郡呼籲：公平會應建立快速下架機制！ - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HSndZNFE0dkNCNXlJclRlckdTUFJDczFNczhHd3FYMGc0Y21yUnNJM3htVkRxUXpDZ0lPSmd3VHhzblpJWW5laE1ZVnBWbm1qZHlHUFZ0YlFYQ18tMHlCUjkwbUR0V3RXRGRj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-24 18:40:50"
-    },
-    {
-      "title": "大蒜受災申報延長啟動 立委劉建國爭取專案放寬 保障農民補助權益 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XZkxsMEZwblNkLTN5SXk4emdkeWw3cktWUGtSMTVIREFkZFhMQnV6MG14TzZwZnlSYzJ0RFFZWUlXSVlGbUJQaVBvZWFWRHlmeVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-24 17:49:00"
     }
   ],
   "latest_facebook_20": [
@@ -758,6 +789,16 @@
   ],
   "latest_news_20": [
     {
+      "title": "對決劉建國!張嘉郡獲國民黨雲林縣黨部提名 3月中常會拍板 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxOand4QWtkOEthQzFDeFplVVpiWHctNzRjMXBQQWxqdWNHVmc0TlNIYkh3eG41aFJCenZNYUlIV3NzeDM2MVpqSXYxOEtOSDc1cWJkNVlFT0NyR3JGMVBteXhzRWw4ajJQeXItVng3bk4tNjBHWGtzZFR5YUIxWFFCUHVJODZBbDg5dlhnc1hEYVlrUFgxWDlQSlExSGJ6d3BRUk1qcXp5NUgxdFlWYlpFQVFNZmFQRW1mQUhCLUN1TVVvcjhQcUhaVGNaWkNBTTdoakloVkg0VGhrbHAwdzEydTVTSHVTekI2MzhUcVZaN05uMmY2M0dBTmd6N0FsOGFXanVETTM4N2ZiTkE5Y2JEeWtFdGR4UkdEd21GMGtmaUtWZjZPQzY2Q1JyWFY2Q3FiRlhsb0hObGYzMXhRR0RwLV9xUDVPbWlobk5oVFBLU1dhWXBOQno5d1JuNmVlR3hEMy14YzNLTDFlS0VVUEZhMkdPTHk3dW5URXRiSkl4MTI0Ym5CQlZsLUxrWEZoQ1ZWejh3S29aNU05U3hlVmdWYjJNU2dmSnVLLWV4Vk40QmlxaHJFNTFfOEhpaHZ5d3c4dkp5UVdCQ29XTm40OE9HaUo0S0txbDhRV3BRWjA1cU91OXFCNC0xNnJvLUdzcDdaOWhETDFsT0s0NWhfOS02WnN0Tzluc0wtRnlxa3lZSGJ4ZVFqSzlhNEk4Qnh1amt5MXBxSF9RWmxwSEloOGVlQi1xX3Joc1dSdXRwV1JpRVc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-26 06:13:56"
+    },
+    {
+      "title": "丁學忠徒步掃街懇託： 出來投票中止惡質循環 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxObWlDeWtHUUR2VU9EY2lsY3gyT0s3cWxUWDFDcGE5eWhzbDlNTHRpVzdlcnZRQnFhY1RIQ2w5b2Q3RXlVYlJ4WFcxNFBpZ0tzRHJycHU1VkVad0ZSMXFWTHhUckE1Z1hLdUVRWDVtVW9Ub2tfWFlfT2otYi13VVZFeVV3Qk1ZdmtIR0prdGYtZDIxMkxuQnlXZWZQdkx0VGE4U3BEbE5ZSGZuQVF3REhHMHRmVmQzcFNoMnlJNy1MRHY5OEx0ek5kb2RYMGhlNlRzMmI0cVhCaFkwUF9XaUVRYUh1aVNjWS1TZEVDcHZBaGxLaFItdlpJcE5mSFhoMjU2OVV4YWhlNlJqYlNqZFk3YWNFX3Q5eUVfNFdvS25EWkNPWGdXR1hwMmZMZGM3X3FtTkxFUTZaQkpGNnEwZUllVVhEUXREdVRWZW9Kd3pGb1dLQzkwR1otWVVrRkVfTGtxZHFyWk5Wc05LQ25xbHBPSU5PYTRGUVlzUkYwcTZSUkNfb1RVcjFoUEM4a3lFbFFTTmR3djB2SDFiLU9yS2pwS09PWUF1UWZ1eFdET0NuT20tNWU4SjNVZ1FZVjRjNWhkWThOZHdKanVrRUstMUtlQkJ4VURQQnlvYzJZQTBKYjFxOExEV2s4WlphcEhNVDI1Q0thSHpOdUxWR2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-26 05:16:51"
+    },
+    {
       "title": "快訊／二度參戰！ 民進黨徵召劉建國參選2026 雲林縣長 - MSN",
       "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOYW9fd1JyUmxxNVd4dUlNMEFZbjBwNF9hSnc1LVkybjdHNXJEM2JqaXRxUzFXT1dlQWF1NlQ2ZXI5UFR2WVplY0hZUGIyMDJUNWNtcklyVWdfZ19qQzVXbjN1S2Rpc3pmekNXd2pPQi1EOG5WYWZTSU5lQmdKell5WjBDVnh2WkF5QUxuN2dSWHZFNTZ6UDhxcUlwbEFPTjFsVXcwT2k0UmJiUTBwRWozMURvT2U2NGMzT1RkWnJyeUlRTUUwOEV6UDhzbjFFdW4wVHRoZWhJU1VteHVOY2YwSkd6QmkzLUV5NEwzalFwZWlYQ2VjRUlsZjhEeTVET1dmT29jNzBWNzV5ZlpPT2g2RDJ0cldEaDctb0k3UFBSVDY3NkNmZkdaaURXV2RMTXBHc1h0S0c2LVZiWlNyZ29ZRllmUnExYWN0bDZEbVFPTElaY1hjWGI3Qm8yaC1MNWdtSkRtYXdWUjZXS0lQMmxBbXQyVGJKMHhNMUxRN3E3dTNGWDZWQzFyd2pFMy1WWnV3a3pJRnVPVDk1ZmY3UEtPejhuMlp6ZDFnR05wb1pWckRTclF5QXNDT0xKU3V6MG9MLVgxY051bmk3cFNZeHhxMWZmX1pqeTM5SC1zWDQyX2I0MWNIOUZlYmR1ZUZOWEFWc3o0TmoyVklQYTE3U1hnMHc3dnNOcER6?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-25 19:57:48"
@@ -846,16 +887,6 @@
       "title": "立委劉建國爭取近7千萬改善東勢海豐大排！提升水利設施 守護雲林家園 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRbzE2LTJGYVk3XzA0Ym1uZVhNZjFyS05taGVLb3BYWVVCX0d2b2dfZUIwNEFzT2xmQTI2VnhubnZNWHFNNHQxREJXUGJYWkJ0N3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-24 18:56:00"
-    },
-    {
-      "title": "AI生成不實廣告氾濫 雲林立委張嘉郡呼籲：公平會應建立快速下架機制！ - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HSndZNFE0dkNCNXlJclRlckdTUFJDczFNczhHd3FYMGc0Y21yUnNJM3htVkRxUXpDZ0lPSmd3VHhzblpJWW5laE1ZVnBWbm1qZHlHUFZ0YlFYQ18tMHlCUjkwbUR0V3RXRGRj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-24 18:40:50"
-    },
-    {
-      "title": "大蒜受災申報延長啟動 立委劉建國爭取專案放寬 保障農民補助權益 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XZkxsMEZwblNkLTN5SXk4emdkeWw3cktWUGtSMTVIREFkZFhMQnV6MG14TzZwZnlSYzJ0RFFZWUlXSVlGbUJQaVBvZWFWRHlmeVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-24 17:49:00"
     }
   ],
   "person_sections": {
@@ -964,6 +995,11 @@
       ],
       "news": [
         {
+          "title": "對決劉建國!張嘉郡獲國民黨雲林縣黨部提名 3月中常會拍板 - MSN",
+          "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxOand4QWtkOEthQzFDeFplVVpiWHctNzRjMXBQQWxqdWNHVmc0TlNIYkh3eG41aFJCenZNYUlIV3NzeDM2MVpqSXYxOEtOSDc1cWJkNVlFT0NyR3JGMVBteXhzRWw4ajJQeXItVng3bk4tNjBHWGtzZFR5YUIxWFFCUHVJODZBbDg5dlhnc1hEYVlrUFgxWDlQSlExSGJ6d3BRUk1qcXp5NUgxdFlWYlpFQVFNZmFQRW1mQUhCLUN1TVVvcjhQcUhaVGNaWkNBTTdoakloVkg0VGhrbHAwdzEydTVTSHVTekI2MzhUcVZaN05uMmY2M0dBTmd6N0FsOGFXanVETTM4N2ZiTkE5Y2JEeWtFdGR4UkdEd21GMGtmaUtWZjZPQzY2Q1JyWFY2Q3FiRlhsb0hObGYzMXhRR0RwLV9xUDVPbWlobk5oVFBLU1dhWXBOQno5d1JuNmVlR3hEMy14YzNLTDFlS0VVUEZhMkdPTHk3dW5URXRiSkl4MTI0Ym5CQlZsLUxrWEZoQ1ZWejh3S29aNU05U3hlVmdWYjJNU2dmSnVLLWV4Vk40QmlxaHJFNTFfOEhpaHZ5d3c4dkp5UVdCQ29XTm40OE9HaUo0S0txbDhRV3BRWjA1cU91OXFCNC0xNnJvLUdzcDdaOWhETDFsT0s0NWhfOS02WnN0Tzluc0wtRnlxa3lZSGJ4ZVFqSzlhNEk4Qnh1amt5MXBxSF9RWmxwSEloOGVlQi1xX3Joc1dSdXRwV1JpRVc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-26 06:13:56"
+        },
+        {
           "title": "張榮味低調赴中 蘇治芬指「令人又憂又懼」點名張嘉郡：要保密還是給全民說明 | 太報 - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MRm1LdXYyUldRcDViOHdTODRTYS1NZmFjbTVNU1RwRVd6YW9taXo1MVpyaU9aYk1YQkZ0WE1kSVQzWVg1WHFHUS0xSnJVSUZSSlp6YzJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-25 19:39:17"
@@ -1057,11 +1093,6 @@
           "title": "藍委張嘉郡「高水準英文演說」畫面曝 網： 大勝民進黨 - MSN",
           "url": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxPVmJxOXViLTI0bU9GRC1fNndGNjFVYjh1QkFmU1FjVjRpZVhTMTlPRU9WYkluYndFci01bjkzQ3BsZThadEhudWRSb0MzNDhaT0M0Sk4zek5RMndJS2hRTmFBMUdid0FYaVNVRU53MUM2UXlYQzBrN0o3TWZGX1VYOXFEOG5HeVZwdkNEY0xqbXZ0cmJOekNOeWJzNGU0SEViUHVrQTZ0UE5NZm0tMjlkQ3JsWGkzNlFSQ19DODhHY3lzcXlKV01DdEpEQkprTm0yRnBOa294UVZoX0c5UzBGMWkyREg3WkRDSVFZQUQyQTF1d3laazVkNHo3NTBpemVCbEZnLThmdVlsYzZkUnlFWkpqb2IwVTVKWWU2cTE4NGFqbHBrbmhHbEw2Z1dqNUJHV0RQQ1dKWEJSZmRYYzJwbVc4ZVNmVndHMTNzZkFKZXlxZi1ERFpaUk1hVWFSc2RVODcwXzFlcS1SRU9JakdfYXFtUDFUN0kwSXdCY1I2TFI2Z1g0eWRJZlI5M0JNRUVkcUtUb2JlUEJMYzVYOVUxQzNmVmNpd0l3SjltMWx1eHJFVG42dy1LVE90YW0tZFV4NGdGZlZsQVl0OGkyVEptX2l4LXJOOHZzc0JPQzdFY2Jta0x3Y283OGU0Zl96NzdxN0U2V09VUGw5Mml3WXNua2hyRllzSTUxWGc1VndXVUFkS2JxeFEwZjVDbW1aM19iYWRmWGhMMmNmRzZaNFNYZlliaXRkQ2hESF9oOVRycEloTk15ZGRGUE93WjVBMXkyQm1WNXBabTZ0WGxDV2NWUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-23 19:20:45"
-        },
-        {
-          "title": "中研院士、眼科權威影像遭盜用 張嘉郡要求公平會開罰AI不實廣告 | 鏡週刊 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TbTlUV1Y2RDhQY2psX0xPdklXaUNqZmZ4cHdpTi1qaEJhcGFHZnhNMGtEQ3dVNXhSYzlSWkhZZWpQR0czRDJxc0ItU0FYME13cFlkX3VB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-23 18:34:57"
         }
       ]
     },
@@ -1170,6 +1201,11 @@
       ],
       "news": [
         {
+          "title": "對決劉建國!張嘉郡獲國民黨雲林縣黨部提名 3月中常會拍板 - MSN",
+          "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxOand4QWtkOEthQzFDeFplVVpiWHctNzRjMXBQQWxqdWNHVmc0TlNIYkh3eG41aFJCenZNYUlIV3NzeDM2MVpqSXYxOEtOSDc1cWJkNVlFT0NyR3JGMVBteXhzRWw4ajJQeXItVng3bk4tNjBHWGtzZFR5YUIxWFFCUHVJODZBbDg5dlhnc1hEYVlrUFgxWDlQSlExSGJ6d3BRUk1qcXp5NUgxdFlWYlpFQVFNZmFQRW1mQUhCLUN1TVVvcjhQcUhaVGNaWkNBTTdoakloVkg0VGhrbHAwdzEydTVTSHVTekI2MzhUcVZaN05uMmY2M0dBTmd6N0FsOGFXanVETTM4N2ZiTkE5Y2JEeWtFdGR4UkdEd21GMGtmaUtWZjZPQzY2Q1JyWFY2Q3FiRlhsb0hObGYzMXhRR0RwLV9xUDVPbWlobk5oVFBLU1dhWXBOQno5d1JuNmVlR3hEMy14YzNLTDFlS0VVUEZhMkdPTHk3dW5URXRiSkl4MTI0Ym5CQlZsLUxrWEZoQ1ZWejh3S29aNU05U3hlVmdWYjJNU2dmSnVLLWV4Vk40QmlxaHJFNTFfOEhpaHZ5d3c4dkp5UVdCQ29XTm40OE9HaUo0S0txbDhRV3BRWjA1cU91OXFCNC0xNnJvLUdzcDdaOWhETDFsT0s0NWhfOS02WnN0Tzluc0wtRnlxa3lZSGJ4ZVFqSzlhNEk4Qnh1amt5MXBxSF9RWmxwSEloOGVlQi1xX3Joc1dSdXRwV1JpRVc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-26 06:13:56"
+        },
+        {
           "title": "快訊／二度參戰！ 民進黨徵召劉建國參選2026 雲林縣長 - MSN",
           "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOYW9fd1JyUmxxNVd4dUlNMEFZbjBwNF9hSnc1LVkybjdHNXJEM2JqaXRxUzFXT1dlQWF1NlQ2ZXI5UFR2WVplY0hZUGIyMDJUNWNtcklyVWdfZ19qQzVXbjN1S2Rpc3pmekNXd2pPQi1EOG5WYWZTSU5lQmdKell5WjBDVnh2WkF5QUxuN2dSWHZFNTZ6UDhxcUlwbEFPTjFsVXcwT2k0UmJiUTBwRWozMURvT2U2NGMzT1RkWnJyeUlRTUUwOEV6UDhzbjFFdW4wVHRoZWhJU1VteHVOY2YwSkd6QmkzLUV5NEwzalFwZWlYQ2VjRUlsZjhEeTVET1dmT29jNzBWNzV5ZlpPT2g2RDJ0cldEaDctb0k3UFBSVDY3NkNmZkdaaURXV2RMTXBHc1h0S0c2LVZiWlNyZ29ZRllmUnExYWN0bDZEbVFPTElaY1hjWGI3Qm8yaC1MNWdtSkRtYXdWUjZXS0lQMmxBbXQyVGJKMHhNMUxRN3E3dTNGWDZWQzFyd2pFMy1WWnV3a3pJRnVPVDk1ZmY3UEtPejhuMlp6ZDFnR05wb1pWckRTclF5QXNDT0xKU3V6MG9MLVgxY051bmk3cFNZeHhxMWZmX1pqeTM5SC1zWDQyX2I0MWNIOUZlYmR1ZUZOWEFWc3o0TmoyVklQYTE3U1hnMHc3dnNOcER6?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-25 19:57:48"
@@ -1263,17 +1299,22 @@
           "title": "雲林大蒜受災申報延長機制啟動 劉建國爭取專案延長申報保障農民權益 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOcjVYTERsc201RWVxczVIdlZqX2JNQmxCUmVYN0p4TDhkQy12emhVbE93cklmUUdncUFvekVQaldXVEU4aDBYbDl2bGE2WUpkclR4VjhtYWhlSFQ0a0hFVTFQaUFiNlZrOEQyVDNBWG1DT01oOTd6ajhKRDE2TkFyS19SR3lnZWRYNmE5OFBJTFZrZ2NDRFpBZXUzQ215Nmo0TDNfbHAwZWE2ZjYzU3VkdGFmRU9EdHRyVWRxZmpSZzBmWVlPRWtuNjhmM2VhZXotUDlrNm5malI4WEZyT0NiM0RGWHd6WTF4dU90bmZJU1FxWXBFOWVLZUVDaFFzY0hWN296YmphSHYya2N3bGpwZXE4dmJJM1hKRDJoSjRsRFBNYW9VbkczNUozMk1lOHEweXBsMktzSXlNMHFjc2QwMlFySmFXWVVlM2FXUVRIVU00bUNFOXJnaVhZd1Q2TXl5aGJKaTNhMHVjV3pwcVUwa0hxT3JLeXZtcEJ2dzZwbzVER3hXbGNGU0x4akJSRmJwUDctQlhVUjdGNmtjNHZrSnhjaG01ZWg2SXF3bC14UjN0TzBBWXJZV2o4NzNCR05sbjAyWXl4Z3M?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-24 15:14:01"
-        },
-        {
-          "title": "討論牆 | 大蒜災損劉建國邀農部現勘 大蒜天然災害救助啟動 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nazhIamczYWJIXzZ6V0RnTWVYXzZLWlVYLWVlaGJJbktIZ2RGeENPczV0VjRIRmJVNVh3Rl9EYTdtUHptQTljLVV6ZjBPTUlrRG9lVkgzcmt1aEhiRHdnbjJDWk4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-24 06:02:53"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "對決劉建國!張嘉郡獲國民黨雲林縣黨部提名 3月中常會拍板 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxOand4QWtkOEthQzFDeFplVVpiWHctNzRjMXBQQWxqdWNHVmc0TlNIYkh3eG41aFJCenZNYUlIV3NzeDM2MVpqSXYxOEtOSDc1cWJkNVlFT0NyR3JGMVBteXhzRWw4ajJQeXItVng3bk4tNjBHWGtzZFR5YUIxWFFCUHVJODZBbDg5dlhnc1hEYVlrUFgxWDlQSlExSGJ6d3BRUk1qcXp5NUgxdFlWYlpFQVFNZmFQRW1mQUhCLUN1TVVvcjhQcUhaVGNaWkNBTTdoakloVkg0VGhrbHAwdzEydTVTSHVTekI2MzhUcVZaN05uMmY2M0dBTmd6N0FsOGFXanVETTM4N2ZiTkE5Y2JEeWtFdGR4UkdEd21GMGtmaUtWZjZPQzY2Q1JyWFY2Q3FiRlhsb0hObGYzMXhRR0RwLV9xUDVPbWlobk5oVFBLU1dhWXBOQno5d1JuNmVlR3hEMy14YzNLTDFlS0VVUEZhMkdPTHk3dW5URXRiSkl4MTI0Ym5CQlZsLUxrWEZoQ1ZWejh3S29aNU05U3hlVmdWYjJNU2dmSnVLLWV4Vk40QmlxaHJFNTFfOEhpaHZ5d3c4dkp5UVdCQ29XTm40OE9HaUo0S0txbDhRV3BRWjA1cU91OXFCNC0xNnJvLUdzcDdaOWhETDFsT0s0NWhfOS02WnN0Tzluc0wtRnlxa3lZSGJ4ZVFqSzlhNEk4Qnh1amt5MXBxSF9RWmxwSEloOGVlQi1xX3Joc1dSdXRwV1JpRVc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-26 06:13:56"
+      },
+      {
+        "title": "丁學忠徒步掃街懇託： 出來投票中止惡質循環 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxObWlDeWtHUUR2VU9EY2lsY3gyT0s3cWxUWDFDcGE5eWhzbDlNTHRpVzdlcnZRQnFhY1RIQ2w5b2Q3RXlVYlJ4WFcxNFBpZ0tzRHJycHU1VkVad0ZSMXFWTHhUckE1Z1hLdUVRWDVtVW9Ub2tfWFlfT2otYi13VVZFeVV3Qk1ZdmtIR0prdGYtZDIxMkxuQnlXZWZQdkx0VGE4U3BEbE5ZSGZuQVF3REhHMHRmVmQzcFNoMnlJNy1MRHY5OEx0ek5kb2RYMGhlNlRzMmI0cVhCaFkwUF9XaUVRYUh1aVNjWS1TZEVDcHZBaGxLaFItdlpJcE5mSFhoMjU2OVV4YWhlNlJqYlNqZFk3YWNFX3Q5eUVfNFdvS25EWkNPWGdXR1hwMmZMZGM3X3FtTkxFUTZaQkpGNnEwZUllVVhEUXREdVRWZW9Kd3pGb1dLQzkwR1otWVVrRkVfTGtxZHFyWk5Wc05LQ25xbHBPSU5PYTRGUVlzUkYwcTZSUkNfb1RVcjFoUEM4a3lFbFFTTmR3djB2SDFiLU9yS2pwS09PWUF1UWZ1eFdET0NuT20tNWU4SjNVZ1FZVjRjNWhkWThOZHdKanVrRUstMUtlQkJ4VURQQnlvYzJZQTBKYjFxOExEV2s4WlphcEhNVDI1Q0thSHpOdUxWR2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-26 05:16:51"
+      },
       {
         "title": "快訊／二度參戰！ 民進黨徵召劉建國參選2026 雲林縣長 - MSN",
         "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOYW9fd1JyUmxxNVd4dUlNMEFZbjBwNF9hSnc1LVkybjdHNXJEM2JqaXRxUzFXT1dlQWF1NlQ2ZXI5UFR2WVplY0hZUGIyMDJUNWNtcklyVWdfZ19qQzVXbjN1S2Rpc3pmekNXd2pPQi1EOG5WYWZTSU5lQmdKell5WjBDVnh2WkF5QUxuN2dSWHZFNTZ6UDhxcUlwbEFPTjFsVXcwT2k0UmJiUTBwRWozMURvT2U2NGMzT1RkWnJyeUlRTUUwOEV6UDhzbjFFdW4wVHRoZWhJU1VteHVOY2YwSkd6QmkzLUV5NEwzalFwZWlYQ2VjRUlsZjhEeTVET1dmT29jNzBWNzV5ZlpPT2g2RDJ0cldEaDctb0k3UFBSVDY3NkNmZkdaaURXV2RMTXBHc1h0S0c2LVZiWlNyZ29ZRllmUnExYWN0bDZEbVFPTElaY1hjWGI3Qm8yaC1MNWdtSkRtYXdWUjZXS0lQMmxBbXQyVGJKMHhNMUxRN3E3dTNGWDZWQzFyd2pFMy1WWnV3a3pJRnVPVDk1ZmY3UEtPejhuMlp6ZDFnR05wb1pWckRTclF5QXNDT0xKU3V6MG9MLVgxY051bmk3cFNZeHhxMWZmX1pqeTM5SC1zWDQyX2I0MWNIOUZlYmR1ZUZOWEFWc3o0TmoyVklQYTE3U1hnMHc3dnNOcER6?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1333,6 +1374,16 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "對決劉建國!張嘉郡獲國民黨雲林縣黨部提名 3月中常會拍板 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxOand4QWtkOEthQzFDeFplVVpiWHctNzRjMXBQQWxqdWNHVmc0TlNIYkh3eG41aFJCenZNYUlIV3NzeDM2MVpqSXYxOEtOSDc1cWJkNVlFT0NyR3JGMVBteXhzRWw4ajJQeXItVng3bk4tNjBHWGtzZFR5YUIxWFFCUHVJODZBbDg5dlhnc1hEYVlrUFgxWDlQSlExSGJ6d3BRUk1qcXp5NUgxdFlWYlpFQVFNZmFQRW1mQUhCLUN1TVVvcjhQcUhaVGNaWkNBTTdoakloVkg0VGhrbHAwdzEydTVTSHVTekI2MzhUcVZaN05uMmY2M0dBTmd6N0FsOGFXanVETTM4N2ZiTkE5Y2JEeWtFdGR4UkdEd21GMGtmaUtWZjZPQzY2Q1JyWFY2Q3FiRlhsb0hObGYzMXhRR0RwLV9xUDVPbWlobk5oVFBLU1dhWXBOQno5d1JuNmVlR3hEMy14YzNLTDFlS0VVUEZhMkdPTHk3dW5URXRiSkl4MTI0Ym5CQlZsLUxrWEZoQ1ZWejh3S29aNU05U3hlVmdWYjJNU2dmSnVLLWV4Vk40QmlxaHJFNTFfOEhpaHZ5d3c4dkp5UVdCQ29XTm40OE9HaUo0S0txbDhRV3BRWjA1cU91OXFCNC0xNnJvLUdzcDdaOWhETDFsT0s0NWhfOS02WnN0Tzluc0wtRnlxa3lZSGJ4ZVFqSzlhNEk4Qnh1amt5MXBxSF9RWmxwSEloOGVlQi1xX3Joc1dSdXRwV1JpRVc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-26 06:13:56"
+      },
+      {
+        "title": "丁學忠徒步掃街懇託： 出來投票中止惡質循環 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxObWlDeWtHUUR2VU9EY2lsY3gyT0s3cWxUWDFDcGE5eWhzbDlNTHRpVzdlcnZRQnFhY1RIQ2w5b2Q3RXlVYlJ4WFcxNFBpZ0tzRHJycHU1VkVad0ZSMXFWTHhUckE1Z1hLdUVRWDVtVW9Ub2tfWFlfT2otYi13VVZFeVV3Qk1ZdmtIR0prdGYtZDIxMkxuQnlXZWZQdkx0VGE4U3BEbE5ZSGZuQVF3REhHMHRmVmQzcFNoMnlJNy1MRHY5OEx0ek5kb2RYMGhlNlRzMmI0cVhCaFkwUF9XaUVRYUh1aVNjWS1TZEVDcHZBaGxLaFItdlpJcE5mSFhoMjU2OVV4YWhlNlJqYlNqZFk3YWNFX3Q5eUVfNFdvS25EWkNPWGdXR1hwMmZMZGM3X3FtTkxFUTZaQkpGNnEwZUllVVhEUXREdVRWZW9Kd3pGb1dLQzkwR1otWVVrRkVfTGtxZHFyWk5Wc05LQ25xbHBPSU5PYTRGUVlzUkYwcTZSUkNfb1RVcjFoUEM4a3lFbFFTTmR3djB2SDFiLU9yS2pwS09PWUF1UWZ1eFdET0NuT20tNWU4SjNVZ1FZVjRjNWhkWThOZHdKanVrRUstMUtlQkJ4VURQQnlvYzJZQTBKYjFxOExEV2s4WlphcEhNVDI1Q0thSHpOdUxWR2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-26 05:16:51"
+      },
       {
         "title": "快訊／二度參戰！ 民進黨徵召劉建國參選2026 雲林縣長 - MSN",
         "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOYW9fd1JyUmxxNVd4dUlNMEFZbjBwNF9hSnc1LVkybjdHNXJEM2JqaXRxUzFXT1dlQWF1NlQ2ZXI5UFR2WVplY0hZUGIyMDJUNWNtcklyVWdfZ19qQzVXbjN1S2Rpc3pmekNXd2pPQi1EOG5WYWZTSU5lQmdKell5WjBDVnh2WkF5QUxuN2dSWHZFNTZ6UDhxcUlwbEFPTjFsVXcwT2k0UmJiUTBwRWozMURvT2U2NGMzT1RkWnJyeUlRTUUwOEV6UDhzbjFFdW4wVHRoZWhJU1VteHVOY2YwSkd6QmkzLUV5NEwzalFwZWlYQ2VjRUlsZjhEeTVET1dmT29jNzBWNzV5ZlpPT2g2RDJ0cldEaDctb0k3UFBSVDY3NkNmZkdaaURXV2RMTXBHc1h0S0c2LVZiWlNyZ29ZRllmUnExYWN0bDZEbVFPTElaY1hjWGI3Qm8yaC1MNWdtSkRtYXdWUjZXS0lQMmxBbXQyVGJKMHhNMUxRN3E3dTNGWDZWQzFyd2pFMy1WWnV3a3pJRnVPVDk1ZmY3UEtPejhuMlp6ZDFnR05wb1pWckRTclF5QXNDT0xKU3V6MG9MLVgxY051bmk3cFNZeHhxMWZmX1pqeTM5SC1zWDQyX2I0MWNIOUZlYmR1ZUZOWEFWc3o0TmoyVklQYTE3U1hnMHc3dnNOcER6?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1522,16 +1573,6 @@
         "title": "立委劉建國爭取近 7 千萬改善東勢海豐大排！提升水利設施 守護雲林家園 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GSkIwbjA3ZnFaSkZILWI0RlZvcG51eXlCUEtBTzdOTlVFVEtBakxyN2RrSXRXM3FtVWFXakkteGtocHM0bThoM29IVTZVTkc0UXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-24 00:00:00"
-      },
-      {
-        "title": "丁學忠徒步掃街懇託： 出來投票中止惡質循環 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQbzNIUThvVkprcnJYTUFtdm9aVUtpRVFUVGhCbGZvWTNnZ2Vub05vXzlYdW5jRlpjbVFKMTdRR0FNYVEwdE9ERzRxcXl1TG1DcVVuczBidVRaWm13ZXZjYVQ2YnctREdhWkNXVno3UTNQMkk2RW56V0sxY2ZPUWo1RUxaMmdYbHJPU2NPRGR6WTNudWtLckZIci1SUThXRGhEVUJyTS10Y19lTE56VDJjNTM2V2d5TE82WnNxQ3NRM2pBRUpGX3hObnUtY29jTnBJRXJHeHdkT3Rabzc2Y2VIWjN4U1N1U2MzdmE4UEJKRk5LSjFVZGsxcFc0c0xxdm9welVwUHpuU0FjRnlTSDV6Q1UzcWZCVERXLXJUcEtKazMyZkk4NTJ4T25KQV9KQVVzM1h1WnFqaWZ4S0kxMlY0eEVrU1ZfTXIzVXBERFd2alp2OFZjQ3VXM3BTTThEM0lRSlhrT1p1cFFOSDMwb0x3TjFRT3dwQmo4cFZBMnYxa3pXUDhDQ0xaTFBVQTVodFdidkEtUUxKdVFuSDRaejF4UG5ORVhnRTBwcVN4SVRSMUQwRC13Y2tmYVFrR2JWcXRjeXdpZHFoajNEYmZNcnFuX2R4SENQWTZrQWRjdmZaLXNGMEZLelcyZUNLdGJCeXlpWGw3YnJWc29yRXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-23 23:04:02"
-      },
-      {
-        "title": "AI生成不實廣告氾濫！張嘉郡籲：公平會應建立快速下架機制 - NOWnews今日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1iWldsTUg4SVA5NGVCVWRxNUt6c0JHVTNMQWFkV3FJQ0tmdThHWThSeXlVeGppSlNHSXU3X0p1ZzFHYVhHcGxaUldiNTjSAVJBVV95cUxOX2JvbVFCSURYZUtYMHhhOTNodVByU3FZMkRfanBTM3pielBjS2VyRHBTbWZSSnFpSVZtNUpmY0lPN2M3Q0ZRVU81N0RRV1gyRG9n?oc=5",
-        "time": "2026-04-23 21:47:35"
       }
     ],
     "facebook": [
@@ -1744,6 +1785,20 @@
     "hour": [],
     "day": [
       {
+        "title": "對決劉建國!張嘉郡獲國民黨雲林縣黨部提名 3月中常會拍板 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxOand4QWtkOEthQzFDeFplVVpiWHctNzRjMXBQQWxqdWNHVmc0TlNIYkh3eG41aFJCenZNYUlIV3NzeDM2MVpqSXYxOEtOSDc1cWJkNVlFT0NyR3JGMVBteXhzRWw4ajJQeXItVng3bk4tNjBHWGtzZFR5YUIxWFFCUHVJODZBbDg5dlhnc1hEYVlrUFgxWDlQSlExSGJ6d3BRUk1qcXp5NUgxdFlWYlpFQVFNZmFQRW1mQUhCLUN1TVVvcjhQcUhaVGNaWkNBTTdoakloVkg0VGhrbHAwdzEydTVTSHVTekI2MzhUcVZaN05uMmY2M0dBTmd6N0FsOGFXanVETTM4N2ZiTkE5Y2JEeWtFdGR4UkdEd21GMGtmaUtWZjZPQzY2Q1JyWFY2Q3FiRlhsb0hObGYzMXhRR0RwLV9xUDVPbWlobk5oVFBLU1dhWXBOQno5d1JuNmVlR3hEMy14YzNLTDFlS0VVUEZhMkdPTHk3dW5URXRiSkl4MTI0Ym5CQlZsLUxrWEZoQ1ZWejh3S29aNU05U3hlVmdWYjJNU2dmSnVLLWV4Vk40QmlxaHJFNTFfOEhpaHZ5d3c4dkp5UVdCQ29XTm40OE9HaUo0S0txbDhRV3BRWjA1cU91OXFCNC0xNnJvLUdzcDdaOWhETDFsT0s0NWhfOS02WnN0Tzluc0wtRnlxa3lZSGJ4ZVFqSzlhNEk4Qnh1amt5MXBxSF9RWmxwSEloOGVlQi1xX3Joc1dSdXRwV1JpRVc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-26 06:13:56",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "丁學忠徒步掃街懇託： 出來投票中止惡質循環 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxObWlDeWtHUUR2VU9EY2lsY3gyT0s3cWxUWDFDcGE5eWhzbDlNTHRpVzdlcnZRQnFhY1RIQ2w5b2Q3RXlVYlJ4WFcxNFBpZ0tzRHJycHU1VkVad0ZSMXFWTHhUckE1Z1hLdUVRWDVtVW9Ub2tfWFlfT2otYi13VVZFeVV3Qk1ZdmtIR0prdGYtZDIxMkxuQnlXZWZQdkx0VGE4U3BEbE5ZSGZuQVF3REhHMHRmVmQzcFNoMnlJNy1MRHY5OEx0ek5kb2RYMGhlNlRzMmI0cVhCaFkwUF9XaUVRYUh1aVNjWS1TZEVDcHZBaGxLaFItdlpJcE5mSFhoMjU2OVV4YWhlNlJqYlNqZFk3YWNFX3Q5eUVfNFdvS25EWkNPWGdXR1hwMmZMZGM3X3FtTkxFUTZaQkpGNnEwZUllVVhEUXREdVRWZW9Kd3pGb1dLQzkwR1otWVVrRkVfTGtxZHFyWk5Wc05LQ25xbHBPSU5PYTRGUVlzUkYwcTZSUkNfb1RVcjFoUEM4a3lFbFFTTmR3djB2SDFiLU9yS2pwS09PWUF1UWZ1eFdET0NuT20tNWU4SjNVZ1FZVjRjNWhkWThOZHdKanVrRUstMUtlQkJ4VURQQnlvYzJZQTBKYjFxOExEV2s4WlphcEhNVDI1Q0thSHpOdUxWR2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-26 05:16:51",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "快訊／二度參戰！ 民進黨徵召劉建國參選2026 雲林縣長 - MSN",
         "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOYW9fd1JyUmxxNVd4dUlNMEFZbjBwNF9hSnc1LVkybjdHNXJEM2JqaXRxUzFXT1dlQWF1NlQ2ZXI5UFR2WVplY0hZUGIyMDJUNWNtcklyVWdfZ19qQzVXbjN1S2Rpc3pmekNXd2pPQi1EOG5WYWZTSU5lQmdKell5WjBDVnh2WkF5QUxuN2dSWHZFNTZ6UDhxcUlwbEFPTjFsVXcwT2k0UmJiUTBwRWozMURvT2U2NGMzT1RkWnJyeUlRTUUwOEV6UDhzbjFFdW4wVHRoZWhJU1VteHVOY2YwSkd6QmkzLUV5NEwzalFwZWlYQ2VjRUlsZjhEeTVET1dmT29jNzBWNzV5ZlpPT2g2RDJ0cldEaDctb0k3UFBSVDY3NkNmZkdaaURXV2RMTXBHc1h0S0c2LVZiWlNyZ29ZRllmUnExYWN0bDZEbVFPTElaY1hjWGI3Qm8yaC1MNWdtSkRtYXdWUjZXS0lQMmxBbXQyVGJKMHhNMUxRN3E3dTNGWDZWQzFyd2pFMy1WWnV3a3pJRnVPVDk1ZmY3UEtPejhuMlp6ZDFnR05wb1pWckRTclF5QXNDT0xKU3V6MG9MLVgxY051bmk3cFNZeHhxMWZmX1pqeTM5SC1zWDQyX2I0MWNIOUZlYmR1ZUZOWEFWc3o0TmoyVklQYTE3U1hnMHc3dnNOcER6?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-25 19:57:48",
@@ -1826,7 +1881,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 5
+        "count": 6
       }
     ],
     "groups": []
