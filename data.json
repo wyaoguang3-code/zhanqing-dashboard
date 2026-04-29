@@ -1,10 +1,10 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-04-29T10:31:39.099849+00:00",
+  "generated_at": "2026-04-29T10:46:45.718072+00:00",
   "metrics": {
-    "total_24h": 43,
-    "prev_24h": 47,
-    "growth_pct": -8.51,
+    "total_24h": 45,
+    "prev_24h": 42,
+    "growth_pct": 7.14,
     "news_24h": 39,
     "anomaly": {
       "level": "綠",
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 221,
+    "total": 225,
     "prev": 113,
-    "growth_pct": 95.58,
-    "news": 184,
+    "growth_pct": 99.12,
+    "news": 186,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -32,27 +32,31 @@
     },
     {
       "platform": "facebook",
-      "count": 4
+      "count": 5
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 184
+      "count": 186
     },
     {
       "platform": "facebook",
-      "count": 32
+      "count": 33
     },
     {
       "platform": "youtube",
-      "count": 5
+      "count": 6
     }
   ],
   "by_hour": [
     {
       "hour": "2026-04-28 18:00",
-      "count": 4
+      "count": 2
     },
     {
       "hour": "2026-04-28 19:00",
@@ -100,6 +104,10 @@
     },
     {
       "hour": "2026-04-29 17:00",
+      "count": 4
+    },
+    {
+      "hour": "2026-04-29 18:00",
       "count": 4
     }
   ],
@@ -459,6 +467,10 @@
     {
       "hour": "2026-04-29 17:00",
       "count": 4
+    },
+    {
+      "hour": "2026-04-29 18:00",
+      "count": 4
     }
   ],
   "mention_by_platform_24h": [
@@ -473,6 +485,16 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "美花生進口衝擊本土農！張嘉郡憂雲林生計 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQVEI0eWRzSFE5RFFQcjhuS1VlYW03eDI3U0t0ejVLYzBDWU1fY25RQXNrN0JnWU5qSEFUMlJDSGFoQmJGZ2ZqRWhLbmRLSDRNaDlsY2NUQjlCZlZlOXBzX0VISWxlN2hTbGN5LVZPM25pT0lUMFZjakY1NmJBbm5GSXZLa2VXb0p4ZjFqaU0yRmc2ZV9ybFhZdHdGQ0ZKNm5EUGIxUFdjcXJQSXpqUEhTa0o1MnExR3JxYl8teUdXcUhvc01HRWxjSjROSHpQNVhuUDE5MHl0V0FndDFDSFBFMXpDaDd3REE4X0t0Zm5uQW1xZlZMRlFHZVZBSFZVbzZKZ0hXVkFEcTZCVkdtdjZIcU1KT05nNm45NktLdm5sb3ZJVF9vb0hqSXZaUkg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-29 18:09:36"
+      },
+      {
+        "title": "美花生進口衝擊本土農！張嘉郡憂雲林生計：嚴防進口混充國產 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwNmdITlVQbHkzd0pmQXZJRHF2eXkyRkxfYVNUY2NIbERFeFpvVzE5SkhHWGRvLU11UEpXeWJlX2NESVFRai1IOUZZME7SAVJBVV95cUxNV1ROQllsak1vRm9WOUdKX1cteWNNUlFlSF95WEpkYV9jdHR1UU8xN0lOSUl1eVlMelJzWHFoTDM4eHlGb2VtZzZYR2s2cldpM2ln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-29 18:09:36"
+      },
       {
         "title": "美國花生零關稅叩關 張嘉郡籲：農民轉作金提高三倍才能競爭| TVBS - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xY0JWdmR3Y1JMOVRaZ09YTk9SdFo0QWM1WWFGZVlDbm51Wmd2b0pyZGs4NUlCUi12MnprT2pFQUsyMV90aDZac1V2OEFHdlBBd25nMk9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -657,16 +679,6 @@
         "title": "進口美國花生風暴衝擊雲林 張嘉郡、劉建國為農民發聲 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQWG9ZVnMxNmZwbGNYdW9McERGNjZMNDdBcXppaGhsSThoSy0tdGNsYzREaTF5Q0RObGp5Zmk2QmVYOUtsRGVHeEZNTTRmTTFtME13SC1tcDFJTzJ5ZllaaURuLTRqV0xDYnl3b2V4VWlhQUs4d2owdEpnZndFYVA1NzdYbEpPbFh2YlMzYUd2Ujh3Mkh4UFItN2RiRGpLTTVkeHB0cWdfS09kTl9vZWRxY3pocW5YeVhiZFpuZVUwQ0d2ZF84UGYxeWZpQ3o1NW5SbGRnWkdZb1FhUUJVTGRUeTJEUXV0ZFMyYk5qZjc4bENJOXpkd3BBazBma3BQZVc5bTZERjRXTkN5UFhJeGxxVnU3czh6aEQtSm9KMEZ2c3JXWjhqMEJDTFZKSE90VUpFSU53UnpYYWNhdl9mV3owYTY1UndFZGZIZnVjM2pQZWNqZjNWdE93Yk82U1FQVDdUR0ZpNVM4U0hvdw?oc=5",
         "time": "2026-04-28 18:50:39"
-      },
-      {
-        "title": "進口美國花生風暴衝擊雲林 張嘉郡、劉建國為農民發聲 - 中時新聞網",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ0dncWNGaEREMGJ2ekNzeDZqaFV6TC1Pcmh4U3ZFcjdQTWdpTGJpOHVFbkM2YWpYVk5IQ1Y0MVo4MWhaNnE4cFNWYzJmWFQxTGRXdm5YLTJiZHBrQmxyY0FQYWgzT1hDZDFjNWpvV01pUWZzRDYwVm9GQTFUQl9LT3lwYzlueV9aeHduTmRybw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-28 18:45:39"
-      },
-      {
-        "title": "進口美國花生風暴衝擊雲林 張嘉郡、劉建國為農民發聲 - 中時新聞網",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03MUdxTWNuN3ZILU9JREdzbjdOZlpNREdCRVRWYm1TdnA0bjBQN1VHVmJmSjlOSDhQZ1JNaGNCVmxRdnNXdC0wMnp3TWVQRDUxNno0R3pCZEs3OF93d2JMdmNoWFVBa3MwTkY1dDBn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-28 18:45:39"
       }
     ],
     "facebook": [
@@ -705,6 +717,16 @@
   "alias_latest_by_platform_24h": {
     "news": [
       {
+        "title": "美花生進口衝擊本土農！張嘉郡憂雲林生計 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQVEI0eWRzSFE5RFFQcjhuS1VlYW03eDI3U0t0ejVLYzBDWU1fY25RQXNrN0JnWU5qSEFUMlJDSGFoQmJGZ2ZqRWhLbmRLSDRNaDlsY2NUQjlCZlZlOXBzX0VISWxlN2hTbGN5LVZPM25pT0lUMFZjakY1NmJBbm5GSXZLa2VXb0p4ZjFqaU0yRmc2ZV9ybFhZdHdGQ0ZKNm5EUGIxUFdjcXJQSXpqUEhTa0o1MnExR3JxYl8teUdXcUhvc01HRWxjSjROSHpQNVhuUDE5MHl0V0FndDFDSFBFMXpDaDd3REE4X0t0Zm5uQW1xZlZMRlFHZVZBSFZVbzZKZ0hXVkFEcTZCVkdtdjZIcU1KT05nNm45NktLdm5sb3ZJVF9vb0hqSXZaUkg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-29 18:09:36"
+      },
+      {
+        "title": "美花生進口衝擊本土農！張嘉郡憂雲林生計：嚴防進口混充國產 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwNmdITlVQbHkzd0pmQXZJRHF2eXkyRkxfYVNUY2NIbERFeFpvVzE5SkhHWGRvLU11UEpXeWJlX2NESVFRai1IOUZZME7SAVJBVV95cUxNV1ROQllsak1vRm9WOUdKX1cteWNNUlFlSF95WEpkYV9jdHR1UU8xN0lOSUl1eVlMelJzWHFoTDM4eHlGb2VtZzZYR2s2cldpM2ln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-29 18:09:36"
+      },
+      {
         "title": "美國花生零關稅叩關 張嘉郡籲：農民轉作金提高三倍才能競爭| TVBS - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xY0JWdmR3Y1JMOVRaZ09YTk9SdFo0QWM1WWFGZVlDbm51Wmd2b0pyZGs4NUlCUi12MnprT2pFQUsyMV90aDZac1V2OEFHdlBBd25nMk9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-29 17:47:03"
@@ -888,16 +910,6 @@
         "title": "進口美國花生風暴衝擊雲林 張嘉郡、劉建國為農民發聲 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQWG9ZVnMxNmZwbGNYdW9McERGNjZMNDdBcXppaGhsSThoSy0tdGNsYzREaTF5Q0RObGp5Zmk2QmVYOUtsRGVHeEZNTTRmTTFtME13SC1tcDFJTzJ5ZllaaURuLTRqV0xDYnl3b2V4VWlhQUs4d2owdEpnZndFYVA1NzdYbEpPbFh2YlMzYUd2Ujh3Mkh4UFItN2RiRGpLTTVkeHB0cWdfS09kTl9vZWRxY3pocW5YeVhiZFpuZVUwQ0d2ZF84UGYxeWZpQ3o1NW5SbGRnWkdZb1FhUUJVTGRUeTJEUXV0ZFMyYk5qZjc4bENJOXpkd3BBazBma3BQZVc5bTZERjRXTkN5UFhJeGxxVnU3czh6aEQtSm9KMEZ2c3JXWjhqMEJDTFZKSE90VUpFSU53UnpYYWNhdl9mV3owYTY1UndFZGZIZnVjM2pQZWNqZjNWdE93Yk82U1FQVDdUR0ZpNVM4U0hvdw?oc=5",
         "time": "2026-04-28 18:50:39"
-      },
-      {
-        "title": "進口美國花生風暴衝擊雲林 張嘉郡、劉建國為農民發聲 - 中時新聞網",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ0dncWNGaEREMGJ2ekNzeDZqaFV6TC1Pcmh4U3ZFcjdQTWdpTGJpOHVFbkM2YWpYVk5IQ1Y0MVo4MWhaNnE4cFNWYzJmWFQxTGRXdm5YLTJiZHBrQmxyY0FQYWgzT1hDZDFjNWpvV01pUWZzRDYwVm9GQTFUQl9LT3lwYzlueV9aeHduTmRybw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-28 18:45:39"
-      },
-      {
-        "title": "進口美國花生風暴衝擊雲林 張嘉郡、劉建國為農民發聲 - 中時新聞網",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03MUdxTWNuN3ZILU9JREdzbjdOZlpNREdCRVRWYm1TdnA0bjBQN1VHVmJmSjlOSDhQZ1JNaGNCVmxRdnNXdC0wMnp3TWVQRDUxNno0R3pCZEs3OF93d2JMdmNoWFVBa3MwTkY1dDBn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-28 18:45:39"
       }
     ],
     "facebook": [
@@ -925,13 +937,23 @@
   },
   "mention_compare_24h": {
     "張嘉郡": 36,
-    "劉建國": 12
+    "劉建國": 10
   },
   "mention_compare_7d": {
-    "張嘉郡": 128,
+    "張嘉郡": 130,
     "劉建國": 78
   },
   "top_news": [
+    {
+      "title": "美花生進口衝擊本土農！張嘉郡憂雲林生計 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQVEI0eWRzSFE5RFFQcjhuS1VlYW03eDI3U0t0ejVLYzBDWU1fY25RQXNrN0JnWU5qSEFUMlJDSGFoQmJGZ2ZqRWhLbmRLSDRNaDlsY2NUQjlCZlZlOXBzX0VISWxlN2hTbGN5LVZPM25pT0lUMFZjakY1NmJBbm5GSXZLa2VXb0p4ZjFqaU0yRmc2ZV9ybFhZdHdGQ0ZKNm5EUGIxUFdjcXJQSXpqUEhTa0o1MnExR3JxYl8teUdXcUhvc01HRWxjSjROSHpQNVhuUDE5MHl0V0FndDFDSFBFMXpDaDd3REE4X0t0Zm5uQW1xZlZMRlFHZVZBSFZVbzZKZ0hXVkFEcTZCVkdtdjZIcU1KT05nNm45NktLdm5sb3ZJVF9vb0hqSXZaUkg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-29 18:09:36"
+    },
+    {
+      "title": "美花生進口衝擊本土農！張嘉郡憂雲林生計：嚴防進口混充國產 - NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwNmdITlVQbHkzd0pmQXZJRHF2eXkyRkxfYVNUY2NIbERFeFpvVzE5SkhHWGRvLU11UEpXeWJlX2NESVFRai1IOUZZME7SAVJBVV95cUxNV1ROQllsak1vRm9WOUdKX1cteWNNUlFlSF95WEpkYV9jdHR1UU8xN0lOSUl1eVlMelJzWHFoTDM4eHlGb2VtZzZYR2s2cldpM2ln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-29 18:09:36"
+    },
     {
       "title": "美國花生零關稅叩關 張嘉郡籲：農民轉作金提高三倍才能競爭| TVBS - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xY0JWdmR3Y1JMOVRaZ09YTk9SdFo0QWM1WWFGZVlDbm51Wmd2b0pyZGs4NUlCUi12MnprT2pFQUsyMV90aDZac1V2OEFHdlBBd25nMk9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -981,19 +1003,19 @@
       "title": "美花生進口零關稅 張嘉郡：政府不能「協助轉型」就帶過 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPRjU1RTAtUER6TnpKZXFJcC1aM2VLVEVNbl9SQXlmc0JVU3VtQThhdmZZZUYzSnBONFozN1RocEtKYk9XYWhzYjV4aGU5ZVBOcUF5aUZIVVlhVy1YQ1VKdWdNRW1ObUlHYWRxTkZManBBOEdqTUpscjZfYVRuQThha3p3NUtWbXdpcFVIa1ZnT0lvNmM5NGlGTl9YMDVUQk5PdjNvSUg0TS15Rk9xdUlXU0VmZkpqV2w5N1ZLMlBqRkRjZHdQY3g5eklRcTlCVk83S2gtN2RXeGxhWV95OGNaZGd4U2pIR3JGY3RlZFV5OG9oTEtRbmNBcHB2eFVIWHRqbnA5TlIzOVZiV0VPYWd1ZU9vd2dUemwzdU1keUROX0VUX0pRX0pwd0hvNW1xLVVVNTN2bmU5X0JRWS00QVRSNDAyZUF4dGV3WkpTR2RKcTBEZktpTkhabGFXNHdsNXB2?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-29 12:14:56"
-    },
-    {
-      "title": "美花生進口零關稅 張嘉郡：政府不能「協助轉型」就帶過 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPRjU1RTAtUER6TnpKZXFJcC1aM2VLVEVNbl9SQXlmc0JVU3VtQThhdmZZZUYzSnBONFozN1RocEtKYk9XYWhzYjV4aGU5ZVBOcUF5aUZIVVlhVy1YQ1VKdWdNRW1ObUlHYWRxTkZManBBOEdqTUpscjZfYVRuQThha3p3NUtWbXdpcFVIa1ZnT0lvNmM5NGlGTl9YMDVUQk5PdjNvSUg0TS15Rk9xdUlXU0VmZkpqV2w5N1ZLMlBqRkRjZHdQY3g5eklRcTlCVk83S2gtN2RXeGxhWV95OGNaZGd4U2pIR3JGY3RlZFV5OG9oTEtRbmNBcHB2eFVIWHRqbnA5TlIzOVZiV0VPYWd1ZU9vd2dUemwzdU1keUROX0VUX0pRX0pwd0hvNW1xLVVVNTN2bmU5X0JRWS00QVRSNDAyZUF4dGV3WkpTR2RKcTBEZktpTkhabGFXNHdsNXB2?oc=5",
-      "time": "2026-04-29 12:14:56"
-    },
-    {
-      "title": "美國花生零關稅叩關 張嘉郡：應有補足價差配套方案 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tNU5PX2k1Tmd5dWhhUjJjd2dwOHpRS2pHZXM4eGp5TkRKanlFaG1sLVRGSDdjX1RNNTBUTGphUkllUXNNNkVyMWVWYWY2QndiRTFRcFZQUENsZ9IBX0FVX3lxTE00dFh5eVRoM1pPTU5lT0RtMlk0Yy15WGpZdXF4WDVBX1Nqam50ZWFyMWZhXzliVzBxaGxUX3RtN2dnS0M4eXB0UEtGMEgxZlNQSW96MGNKU1hoVzQ1dE44?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-29 12:13:55"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "美花生進口衝擊本土農！張嘉郡憂雲林生計 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQVEI0eWRzSFE5RFFQcjhuS1VlYW03eDI3U0t0ejVLYzBDWU1fY25RQXNrN0JnWU5qSEFUMlJDSGFoQmJGZ2ZqRWhLbmRLSDRNaDlsY2NUQjlCZlZlOXBzX0VISWxlN2hTbGN5LVZPM25pT0lUMFZjakY1NmJBbm5GSXZLa2VXb0p4ZjFqaU0yRmc2ZV9ybFhZdHdGQ0ZKNm5EUGIxUFdjcXJQSXpqUEhTa0o1MnExR3JxYl8teUdXcUhvc01HRWxjSjROSHpQNVhuUDE5MHl0V0FndDFDSFBFMXpDaDd3REE4X0t0Zm5uQW1xZlZMRlFHZVZBSFZVbzZKZ0hXVkFEcTZCVkdtdjZIcU1KT05nNm45NktLdm5sb3ZJVF9vb0hqSXZaUkg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-29 18:09:36"
+    },
+    {
+      "title": "美花生進口衝擊本土農！張嘉郡憂雲林生計：嚴防進口混充國產 - NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwNmdITlVQbHkzd0pmQXZJRHF2eXkyRkxfYVNUY2NIbERFeFpvVzE5SkhHWGRvLU11UEpXeWJlX2NESVFRai1IOUZZME7SAVJBVV95cUxNV1ROQllsak1vRm9WOUdKX1cteWNNUlFlSF95WEpkYV9jdHR1UU8xN0lOSUl1eVlMelJzWHFoTDM4eHlGb2VtZzZYR2s2cldpM2ln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-29 18:09:36"
+    },
     {
       "title": "美國花生零關稅叩關 張嘉郡籲：農民轉作金提高三倍才能競爭| TVBS - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xY0JWdmR3Y1JMOVRaZ09YTk9SdFo0QWM1WWFGZVlDbm51Wmd2b0pyZGs4NUlCUi12MnprT2pFQUsyMV90aDZac1V2OEFHdlBBd25nMk9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1083,19 +1105,14 @@
       "title": "美花生滅台農？張嘉郡輪番質疑陳駿季 - 中國評論新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uREstOV9lTDhhMzRzRktIQXRGeUVtYUJFUURHYWxuaW82czJGd21ZTk83RzZNRGluekpwVzd2VVFCdGszSzY5R3hVel9WN3QxSU1TZ3k2bEp5cDNxcTI5cVhnQmRuaXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-29 11:26:30"
-    },
-    {
-      "title": "美國花生零關稅衝擊雲林農民 張嘉郡憂：可能造成「滅農」後果 - 梅花新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rTzZ1M2VkWkt1RGpnelN0WGNYRnVCd0hKaG1aUnpQVENjREtDYkl4UnJOU3lmY0FxdVNYZzdKMGtsdVlCVWk2Uk9hdjRDRnN0OWZqSUNNd1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-29 11:25:00"
-    },
-    {
-      "title": "美國花生壓境 張嘉郡：運儲恐生黃麴毒素 難道也要逐顆檢驗？ - 聯合新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyY1VQWkJUc3RhLVE2MU9aaEhVVG5vdFNYanExbjB3WWxtUUdhRWxCMUU1VmM1TFZJR1FpMFZSZWdRUm11YzNHbV9VREhvWjNJcFNF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-29 11:21:56"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "雲林鄉親參訪立法院 今天立法院特別熱鬧，因為充滿了熟悉的家鄉氛圍！🥰 非常開心能接待 遠道而來的鄉親們，#江文登 #蔡孟真 #蔡永富 #林文彬 #顏嘉葦 議員帶領大家特地北上來到立法院參訪，一路上真的辛苦了。看到一張張親切的臉孔，能和大家輕鬆聊聊家鄉的 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wdBVV95cUxNbmY5eGFDXzNlYUdycFFCRThYeDl3V2RXenl5ZHczMjllRXdzTVFJOUhGazJ0blB2eWNMMWtNVjhvSm9fbThnLVlsX3laNktXbDgtc2RKV2hqcUlJdlFrWWh5dEdsZldSQ2pmWHZQeDZkbjhYLUpZaGdJS3djSVA2Y1Y4bWt1VWdOdXViYWxfM2FyaVFxQ21vbkt0aFczZnJ2OEI3Y1RxVl9sVFRwc1cxMEpubWwzZ3FNOTdUdGtmeUlFX0wycEljVHpnT19CeVFtMUVsWGZOczNTZW4wdXBzb3h3MXl3Ri00Z1FoOVFJczFKX2tUQWhRWllkV1pCVWpDdnI0b1EzWGpwMkkwd0RGYk1BR3FGREJoLWl6dGpwZWhSdmxWaFVxMWpJUTkySUh6aDNPWFJwMjBsT3RleUgybHF5ZF9TNk9tb0t3LVk2bkdoUlFzRWRIc2dPbmJncUdhdHNtZ1hhenJsb0RZcEc2RTBjRjhvR0M3TXpHdW1lTnlmZFBYbkVySUFFQ25aUzBsbTE3azJhS0RyOU01U2tRWUk5TFM4ZEJsT2dIZEZWSG43VkdmZ3d1TWFZU21hVEZfYXV2N3lmeTRZT0hWMWxqeDRNb0hPYlNjSk5uSTdtTzBDVDcyY0xUVlJiWnpnb3B2SVJKTFpSblVLRzBnekRYM3RxdVRRM0M5WEJydlMxZnREMFNObUhTZUlXSnNzOE0xZ1pDQzRJMlBTQnFfZXItbUdpN0VqcUFGbkt4dVNzeU5SX2pNcXZGQ0NpWkthVUxkUXNjN0M4V2tRSzRKUHIwN1hncGNEZkxEYW53cVV0SHVCQVFyWXg0cWFKbjVnT0lBOVlucEk1S2xTV2RFX1U4dGUyb0ZLTlQwOXFBRmZfUmJVaWxZS1MxT2ZuZUJ0VW1MM0xxXzQ3NHVtaTVSU2xpTkk4VTNTWHlwc2RrdkxQVEdFVTl1cHF4dGlOb2NnaUdXQ09sYXVjdGpwcW9aSEh2c0xvdkxqSURZY2NLbjhUT250WVpocFFodkt0c0NhRzRGSXdHOWZRNEtENURpNmhTRUtzbzJqYU9aNFVDbnQ2aWpXaXFqeTBHRVdnX2pyeDNkbWlkMGxkYnM5V3RmZzRsNnJXYnFSQUFSY2ZEMXNlMk9vcm5WdjdqdWhLZWdMaFkzTUNyVjNPTHdnSE9PWlFRbFlaclJIcVQzZWlyQVVOUWJ6MS1NVTU1dGZfeE9HTFZjTHZLZTFSVlZjejE3SjBKakNaN29BWEJTeS1vV0ZTU3U5cEpFWEdwRm9wZ09Mak9IR3dKa2NmSTZFWlRKZ0JsZ001VzVncnp6cjVzQzdpdw",
+      "time": "2026-04-29 18:15:49"
+    },
     {
       "title": "🛡️ 美國花生零關稅衝擊花生農民，拒絕「滅農政策」！ 張嘉郡：農業部不能坐在冷氣房說風涼話 針對美國花生未來將零關稅進口，國民黨雲林縣長參選人、立法委員張嘉郡嚴正指出，雲林花生產量占全台近九成，若政府未提出具體配套，美國低價花生大舉進口，將直接衝 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMikAhBVV95cUxPd1pXRmRLZG9DUUZDQUNaeFNkRmNFeWFLVFBmaXVMNnhqNWh3TEpxTWNiRWNLZzlIYldIVTFweUlVSDd2ckhneHdQRjAxaDVZUDRwQm90UWFCVG1TaElxNEhlZFYzZVY4c0FwMkxJNE1WRjFQV3VfaTNhWTAzWEtON3lWdjhrMVNxcTZCVW15OTlmTzdMRG84N3VKWVp0bk50aFVEeWUwNmpYbl9OZ2FCWTdxTElYUXlRRTZCZzZzSjk5cmFxcEVzWk5NQzFuOE1weC1IUVBQZHpSbHVyZlotbUJ4NTdTbGtlb1diN2xranhKVGxvUlRiREQxVU0wZlBNUkg1VDFLeDFLTllkdGpNUWFUWVFiZFMtRF9oNjhOSklCQ0kyQTJHYXVzV2xPbEVudGNncHlXS205RjIzcWhpMjVxMzNJbGlVT2hDVWRPZWdoaENBNmpNVDc1LW5CMkl2WnRqbWdDR1VydHNJU3I0b19oSFRHMkd4WU1aRjIwS2k1blVBeFMxdUJCdUJNbFEweG9tbnhRbFo0b3NxSDVpalVpVElaNVJNT1FFWkdBV0k3Rk84azdkRURwRDVHSzdSNFhOcHpBeFRoUERmVW9kYjFCTUN2Mk5feEVHYUpQMXdQNV9XLWtuZUtDTXlsbWtxU3FTeXJQTHU5ZWdwTXZjTEZRNzdpSEdpUngxRTFPRnlxcThtMFlLVk9oejhlSmZrbERfRnJER3JfUzAxTkdITkhfc1dkMnhfWTU0RWwzZ005RFRjbENxR08zWF95VWU3bXN6Y0JCMUJNU1l6M0VSbUlWcmRSTUF1SE5ReXJPakh5Q1hUWkNVMmEyVWhKaERhUXg2VVlPQmduaVB5eUNjOGhManJ6c3RFSTJ1ek1JS3BSUEt2d0x4OHRXSmstdEQwRU5KVlRqYWp5dVBNN1FKQ0pEUkthVkhSTW9sODVwYXNnYmx5Tmd1eUQyZDh4SllRZklBVkE3STNtV1YyOGw1d2pJZW05VDh6SnlFQ2JnWmpmR3pYT0JiaHd2NkxxMGhCT1BpRGlzTlVHUDVjQ0pmMndQVjlaX2FPV0VaQU1QV0lpdkhBU0xESXdZVE5ZdlE3SVpneUVkUG1FdXFUenJpOUJBRzFkSDJyQkM5ZkY0YVJQcGlqMzdET0IyMW11akx2bURrTGJzNkNTZGg3ZnE2V0lQT0c0UXNCYUdkcG9XM0g3SjJUNzc3d251TkxfRzR5YXVtX2J1MGVHemFrMkFxS1dFQjlUczE5SkJzT3BGbTZ3TDhIV1BiRmRobjliUTlVZEozcWJBSjJhdmsxRnpMZ2dteTRKU0ZlenZpN3IyOFZIamlZX3VXdUdUejNDZ2FkRklRMDZtWEF5QXJER0JUaA",
@@ -1190,14 +1207,19 @@
       "title": "📣 #古坑孟宗竹筍納入災害救助 連續乾旱，讓古坑不少竹筍產量受影響，農民的辛苦，大家都看在眼裡。 在嘉郡努力爭取下，古坑鄉孟宗竹筍已納入 #農業天然災害現金救助👇 🎋 救助金額 每公頃4萬1,000元（損失達20%以上可申請） 🎋 申請時間 農業用地：4/25～5/11 林 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMihAhBVV95cUxPNWg5LUZkdldwT2E1MnpoLTl3NnFubGJ4QWt6ZlZHaXo5VnBDa2Voc0JnbkEyTU96OERfSlQ0RXhzRlNxa3VhOUlobGVkU2lrTHlBSlROM1Ixdkx5QUJsWDJVVzk1dGswYWU4a2R1d2V6eHJmYUNtX0dOQTVJSjVDcmt5RG1PVHZYVm00SVc2Z3BPcTV6Rm4yTHJ2d01tZ3AyV1NvRlNhY05QZzZENndZWEhpcDg3ZjdrUXFkZ2pzeWw3bDU2Zk82X29kdUM1VE03X1Jsa0M0d1U2dnpOQXdGOUhDRU9id3NEZW9lV1I5Yk4zQ05sMS0tSXFJMHpvYkpZMVcxZGJRbkpLN3dKRC1od3B3Z3Z3VDZRZl9ndy1FbjZtRVRzSmVIWldvQjgtRGM1R084c2hHcFFhN2xOQi1qRXVWU3hVQXZoRi15aVBNZUV1dEhWNkkyakJaUlQ1bHdDdGV4dmZWdllGV1RRTTlYdXdJeXdqUDRxbWpteWdqbG1iZkNKNFRUdEs3OU9FbTZVMHVXS2M1cnFSbUw1RnNqZjc3ZTBlZldiLWhJWkhyZjFyc0NhMDVYOGZ4QzB1MmczbHdubXhoVzJVS2Z0cllGSkVqajlvZ1ZiOXE1VkdsS1ZodWZld3p1SHVjcFlGMkJzSENQN2tqMk54UExmN1RhZkhIcGhRUFRKdUlJdDlRV0U3cGdYUV8zdkh4ZjVNQWJvRjJ5UXZQdDY1VVAwM3dOZl8xYzZDVHlFMVN1M0R1M1lVVUQ3aDJ6XzV4eDAyWVhQZUxmcUJyVF9UbXdzOTQ0NFdxcDdrUWo2ZGk3UU8wOXFUT1RkZ2swWTdkaDNsRTNUMldIN3d3OUhkUkJaNVUzdkZicTEzQllhMjd6UUR4cnZzQWZfT0lxM1FQNnVXa3JXNHNTSWtEbXRLRG9Jc0thd0lSbTAyU1k5YnNjWXl1Qmk3ZnRqSEpkTUFheGQyd1Nrdkozdmt0MjFTYnl1MHYyajhkTVh0MUluaFFOV3ViT3l0cTNiZkNLS2dodXB2UzB5VU54ZWhBR0NrRTBrMDF4dlVndThSWmpUN1U0MUhVdml6Q2ZIUUJ4UlUzbGVmeGVOam5veTl2QTFCVTcydmtOZEIySVI5SlJ5c0ppRnpNWGJlNDJWdlFWbDYwalFKLVBoOTdlTkdoVkpiUnNERlpyVjJBM2pIM281RUJiSXBPaVNOR1FPN0hRRHBaLWVIbjF0b2ZQUkhmVDdmSFk5T1ZDWHItZHNqYjVUQkRMUE9nOERZTWUwTUlJOEhvalQwZXFVM2xidE1ja2VXUnQ4R3g0UGtyRm4xeklfRDVxNVYtX0phNTdzdmZmNXdRR0thRjQzeS1vdw",
       "time": "2026-04-24 16:39:10"
-    },
-    {
-      "title": "【莫忘初衷，堅持始終如一】 從 2009 年建國接下雲林鄉親的囑託，一路努力到今天，沒讓大家失望！ 每次 #公督盟 或 #口袋國會 獲獎，不僅是對建國的肯定，更是繳交給雲林鄉親一張安心的成績單。 從第7屆開始擔任立法委員起，至今公督盟與口袋國會獲獎 33 次肯定。 - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeHczWThWU1VvZkVvM2RJdER2VDhaTmVNbXZCNjFZV08yUWpLaGI4WEhYYzNSZ2VDZjRIblFJMHctNEt0cnlzOW9kT09JVEd5Z1dScVp2V1NhRHJGOEUyU0VlSG12dXBnYmFxdFFYY25zTmhkaEI0MXJPd2xwTnE0Vnhxd0t5b0ZQNUtzc2xkM21hdU1NOW9oc3Buaks0Zw",
-      "time": "2026-04-24 12:00:00"
     }
   ],
   "latest_news_20": [
+    {
+      "title": "美花生進口衝擊本土農！張嘉郡憂雲林生計 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQVEI0eWRzSFE5RFFQcjhuS1VlYW03eDI3U0t0ejVLYzBDWU1fY25RQXNrN0JnWU5qSEFUMlJDSGFoQmJGZ2ZqRWhLbmRLSDRNaDlsY2NUQjlCZlZlOXBzX0VISWxlN2hTbGN5LVZPM25pT0lUMFZjakY1NmJBbm5GSXZLa2VXb0p4ZjFqaU0yRmc2ZV9ybFhZdHdGQ0ZKNm5EUGIxUFdjcXJQSXpqUEhTa0o1MnExR3JxYl8teUdXcUhvc01HRWxjSjROSHpQNVhuUDE5MHl0V0FndDFDSFBFMXpDaDd3REE4X0t0Zm5uQW1xZlZMRlFHZVZBSFZVbzZKZ0hXVkFEcTZCVkdtdjZIcU1KT05nNm45NktLdm5sb3ZJVF9vb0hqSXZaUkg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-29 18:09:36"
+    },
+    {
+      "title": "美花生進口衝擊本土農！張嘉郡憂雲林生計：嚴防進口混充國產 - NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwNmdITlVQbHkzd0pmQXZJRHF2eXkyRkxfYVNUY2NIbERFeFpvVzE5SkhHWGRvLU11UEpXeWJlX2NESVFRai1IOUZZME7SAVJBVV95cUxNV1ROQllsak1vRm9WOUdKX1cteWNNUlFlSF95WEpkYV9jdHR1UU8xN0lOSUl1eVlMelJzWHFoTDM4eHlGb2VtZzZYR2s2cldpM2ln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-29 18:09:36"
+    },
     {
       "title": "美國花生零關稅叩關 張嘉郡籲：農民轉作金提高三倍才能競爭| TVBS - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xY0JWdmR3Y1JMOVRaZ09YTk9SdFo0QWM1WWFGZVlDbm51Wmd2b0pyZGs4NUlCUi12MnprT2pFQUsyMV90aDZac1V2OEFHdlBBd25nMk9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1287,16 +1309,6 @@
       "title": "美花生滅台農？張嘉郡輪番質疑陳駿季 - 中國評論新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uREstOV9lTDhhMzRzRktIQXRGeUVtYUJFUURHYWxuaW82czJGd21ZTk83RzZNRGluekpwVzd2VVFCdGszSzY5R3hVel9WN3QxSU1TZ3k2bEp5cDNxcTI5cVhnQmRuaXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-29 11:26:30"
-    },
-    {
-      "title": "美國花生零關稅衝擊雲林農民 張嘉郡憂：可能造成「滅農」後果 - 梅花新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rTzZ1M2VkWkt1RGpnelN0WGNYRnVCd0hKaG1aUnpQVENjREtDYkl4UnJOU3lmY0FxdVNYZzdKMGtsdVlCVWk2Uk9hdjRDRnN0OWZqSUNNd1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-29 11:25:00"
-    },
-    {
-      "title": "美國花生壓境 張嘉郡：運儲恐生黃麴毒素 難道也要逐顆檢驗？ - 聯合新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyY1VQWkJUc3RhLVE2MU9aaEhVVG5vdFNYanExbjB3WWxtUUdhRWxCMUU1VmM1TFZJR1FpMFZSZWdRUm11YzNHbV9VREhvWjNJcFNF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-29 11:21:56"
     }
   ],
   "person_sections": {
@@ -1405,6 +1417,16 @@
       ],
       "news": [
         {
+          "title": "美花生進口衝擊本土農！張嘉郡憂雲林生計 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQVEI0eWRzSFE5RFFQcjhuS1VlYW03eDI3U0t0ejVLYzBDWU1fY25RQXNrN0JnWU5qSEFUMlJDSGFoQmJGZ2ZqRWhLbmRLSDRNaDlsY2NUQjlCZlZlOXBzX0VISWxlN2hTbGN5LVZPM25pT0lUMFZjakY1NmJBbm5GSXZLa2VXb0p4ZjFqaU0yRmc2ZV9ybFhZdHdGQ0ZKNm5EUGIxUFdjcXJQSXpqUEhTa0o1MnExR3JxYl8teUdXcUhvc01HRWxjSjROSHpQNVhuUDE5MHl0V0FndDFDSFBFMXpDaDd3REE4X0t0Zm5uQW1xZlZMRlFHZVZBSFZVbzZKZ0hXVkFEcTZCVkdtdjZIcU1KT05nNm45NktLdm5sb3ZJVF9vb0hqSXZaUkg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-29 18:09:36"
+        },
+        {
+          "title": "美花生進口衝擊本土農！張嘉郡憂雲林生計：嚴防進口混充國產 - NOWnews今日新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwNmdITlVQbHkzd0pmQXZJRHF2eXkyRkxfYVNUY2NIbERFeFpvVzE5SkhHWGRvLU11UEpXeWJlX2NESVFRai1IOUZZME7SAVJBVV95cUxNV1ROQllsak1vRm9WOUdKX1cteWNNUlFlSF95WEpkYV9jdHR1UU8xN0lOSUl1eVlMelJzWHFoTDM4eHlGb2VtZzZYR2s2cldpM2ln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-29 18:09:36"
+        },
+        {
           "title": "美國花生零關稅叩關 張嘉郡籲：農民轉作金提高三倍才能競爭| TVBS - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xY0JWdmR3Y1JMOVRaZ09YTk9SdFo0QWM1WWFGZVlDbm51Wmd2b0pyZGs4NUlCUi12MnprT2pFQUsyMV90aDZac1V2OEFHdlBBd25nMk9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-29 17:47:03"
@@ -1493,16 +1515,6 @@
           "title": "美國花生零關稅衝擊雲林農民 張嘉郡憂：可能造成「滅農」後果 - 梅花新聞網",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rTzZ1M2VkWkt1RGpnelN0WGNYRnVCd0hKaG1aUnpQVENjREtDYkl4UnJOU3lmY0FxdVNYZzdKMGtsdVlCVWk2Uk9hdjRDRnN0OWZqSUNNd1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-29 11:25:00"
-        },
-        {
-          "title": "美國花生壓境 張嘉郡：運儲恐生黃麴毒素 難道也要逐顆檢驗？ - 聯合新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyY1VQWkJUc3RhLVE2MU9aaEhVVG5vdFNYanExbjB3WWxtUUdhRWxCMUU1VmM1TFZJR1FpMFZSZWdRUm11YzNHbV9VREhvWjNJcFNF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-29 11:21:56"
-        },
-        {
-          "title": "美國花生壓境配套呢？張嘉郡：運儲恐生黃麴毒素 難道也要逐顆檢驗？ - 聯合新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyY1VQWkJUc3RhLVE2MU9aaEhVVG5vdFNYanExbjB3WWxtUUdhRWxCMUU1VmM1TFZJR1FpMFZSZWdRUm11YzNHbV9VREhvWjNJcFNF0gFYQVVfeXFMTTJFV1paVXpuU05XdUlORU84ckw0anZGVFBZUU1UVTJZbGQ4MnFUSkt5dGNrM1c4aEFScDYwblJ1VF96ZXhPUXZ1MEZQYlRLcXZ6TzU2dlIyOQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-29 11:21:56"
         }
       ]
     },
@@ -1716,6 +1728,16 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "美花生進口衝擊本土農！張嘉郡憂雲林生計 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQVEI0eWRzSFE5RFFQcjhuS1VlYW03eDI3U0t0ejVLYzBDWU1fY25RQXNrN0JnWU5qSEFUMlJDSGFoQmJGZ2ZqRWhLbmRLSDRNaDlsY2NUQjlCZlZlOXBzX0VISWxlN2hTbGN5LVZPM25pT0lUMFZjakY1NmJBbm5GSXZLa2VXb0p4ZjFqaU0yRmc2ZV9ybFhZdHdGQ0ZKNm5EUGIxUFdjcXJQSXpqUEhTa0o1MnExR3JxYl8teUdXcUhvc01HRWxjSjROSHpQNVhuUDE5MHl0V0FndDFDSFBFMXpDaDd3REE4X0t0Zm5uQW1xZlZMRlFHZVZBSFZVbzZKZ0hXVkFEcTZCVkdtdjZIcU1KT05nNm45NktLdm5sb3ZJVF9vb0hqSXZaUkg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-29 18:09:36"
+      },
+      {
+        "title": "美花生進口衝擊本土農！張嘉郡憂雲林生計：嚴防進口混充國產 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwNmdITlVQbHkzd0pmQXZJRHF2eXkyRkxfYVNUY2NIbERFeFpvVzE5SkhHWGRvLU11UEpXeWJlX2NESVFRai1IOUZZME7SAVJBVV95cUxNV1ROQllsak1vRm9WOUdKX1cteWNNUlFlSF95WEpkYV9jdHR1UU8xN0lOSUl1eVlMelJzWHFoTDM4eHlGb2VtZzZYR2s2cldpM2ln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-29 18:09:36"
+      },
+      {
         "title": "美國花生零關稅叩關 張嘉郡籲：農民轉作金提高三倍才能競爭| TVBS - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xY0JWdmR3Y1JMOVRaZ09YTk9SdFo0QWM1WWFGZVlDbm51Wmd2b0pyZGs4NUlCUi12MnprT2pFQUsyMV90aDZac1V2OEFHdlBBd25nMk9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-29 17:47:03"
@@ -1899,19 +1921,14 @@
         "title": "進口美國花生風暴衝擊雲林 張嘉郡、劉建國為農民發聲 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQWG9ZVnMxNmZwbGNYdW9McERGNjZMNDdBcXppaGhsSThoSy0tdGNsYzREaTF5Q0RObGp5Zmk2QmVYOUtsRGVHeEZNTTRmTTFtME13SC1tcDFJTzJ5ZllaaURuLTRqV0xDYnl3b2V4VWlhQUs4d2owdEpnZndFYVA1NzdYbEpPbFh2YlMzYUd2Ujh3Mkh4UFItN2RiRGpLTTVkeHB0cWdfS09kTl9vZWRxY3pocW5YeVhiZFpuZVUwQ0d2ZF84UGYxeWZpQ3o1NW5SbGRnWkdZb1FhUUJVTGRUeTJEUXV0ZFMyYk5qZjc4bENJOXpkd3BBazBma3BQZVc5bTZERjRXTkN5UFhJeGxxVnU3czh6aEQtSm9KMEZ2c3JXWjhqMEJDTFZKSE90VUpFSU53UnpYYWNhdl9mV3owYTY1UndFZGZIZnVjM2pQZWNqZjNWdE93Yk82U1FQVDdUR0ZpNVM4U0hvdw?oc=5",
         "time": "2026-04-28 18:50:39"
-      },
-      {
-        "title": "進口美國花生風暴衝擊雲林 張嘉郡、劉建國為農民發聲 - 中時新聞網",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ0dncWNGaEREMGJ2ekNzeDZqaFV6TC1Pcmh4U3ZFcjdQTWdpTGJpOHVFbkM2YWpYVk5IQ1Y0MVo4MWhaNnE4cFNWYzJmWFQxTGRXdm5YLTJiZHBrQmxyY0FQYWgzT1hDZDFjNWpvV01pUWZzRDYwVm9GQTFUQl9LT3lwYzlueV9aeHduTmRybw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-28 18:45:39"
-      },
-      {
-        "title": "進口美國花生風暴衝擊雲林 張嘉郡、劉建國為農民發聲 - 中時新聞網",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03MUdxTWNuN3ZILU9JREdzbjdOZlpNREdCRVRWYm1TdnA0bjBQN1VHVmJmSjlOSDhQZ1JNaGNCVmxRdnNXdC0wMnp3TWVQRDUxNno0R3pCZEs3OF93d2JMdmNoWFVBa3MwTkY1dDBn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-28 18:45:39"
       }
     ],
     "facebook": [
+      {
+        "title": "雲林鄉親參訪立法院 今天立法院特別熱鬧，因為充滿了熟悉的家鄉氛圍！🥰 非常開心能接待 遠道而來的鄉親們，#江文登 #蔡孟真 #蔡永富 #林文彬 #顏嘉葦 議員帶領大家特地北上來到立法院參訪，一路上真的辛苦了。看到一張張親切的臉孔，能和大家輕鬆聊聊家鄉的 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi7wdBVV95cUxNbmY5eGFDXzNlYUdycFFCRThYeDl3V2RXenl5ZHczMjllRXdzTVFJOUhGazJ0blB2eWNMMWtNVjhvSm9fbThnLVlsX3laNktXbDgtc2RKV2hqcUlJdlFrWWh5dEdsZldSQ2pmWHZQeDZkbjhYLUpZaGdJS3djSVA2Y1Y4bWt1VWdOdXViYWxfM2FyaVFxQ21vbkt0aFczZnJ2OEI3Y1RxVl9sVFRwc1cxMEpubWwzZ3FNOTdUdGtmeUlFX0wycEljVHpnT19CeVFtMUVsWGZOczNTZW4wdXBzb3h3MXl3Ri00Z1FoOVFJczFKX2tUQWhRWllkV1pCVWpDdnI0b1EzWGpwMkkwd0RGYk1BR3FGREJoLWl6dGpwZWhSdmxWaFVxMWpJUTkySUh6aDNPWFJwMjBsT3RleUgybHF5ZF9TNk9tb0t3LVk2bkdoUlFzRWRIc2dPbmJncUdhdHNtZ1hhenJsb0RZcEc2RTBjRjhvR0M3TXpHdW1lTnlmZFBYbkVySUFFQ25aUzBsbTE3azJhS0RyOU01U2tRWUk5TFM4ZEJsT2dIZEZWSG43VkdmZ3d1TWFZU21hVEZfYXV2N3lmeTRZT0hWMWxqeDRNb0hPYlNjSk5uSTdtTzBDVDcyY0xUVlJiWnpnb3B2SVJKTFpSblVLRzBnekRYM3RxdVRRM0M5WEJydlMxZnREMFNObUhTZUlXSnNzOE0xZ1pDQzRJMlBTQnFfZXItbUdpN0VqcUFGbkt4dVNzeU5SX2pNcXZGQ0NpWkthVUxkUXNjN0M4V2tRSzRKUHIwN1hncGNEZkxEYW53cVV0SHVCQVFyWXg0cWFKbjVnT0lBOVlucEk1S2xTV2RFX1U4dGUyb0ZLTlQwOXFBRmZfUmJVaWxZS1MxT2ZuZUJ0VW1MM0xxXzQ3NHVtaTVSU2xpTkk4VTNTWHlwc2RrdkxQVEdFVTl1cHF4dGlOb2NnaUdXQ09sYXVjdGpwcW9aSEh2c0xvdkxqSURZY2NLbjhUT250WVpocFFodkt0c0NhRzRGSXdHOWZRNEtENURpNmhTRUtzbzJqYU9aNFVDbnQ2aWpXaXFqeTBHRVdnX2pyeDNkbWlkMGxkYnM5V3RmZzRsNnJXYnFSQUFSY2ZEMXNlMk9vcm5WdjdqdWhLZWdMaFkzTUNyVjNPTHdnSE9PWlFRbFlaclJIcVQzZWlyQVVOUWJ6MS1NVTU1dGZfeE9HTFZjTHZLZTFSVlZjejE3SjBKakNaN29BWEJTeS1vV0ZTU3U5cEpFWEdwRm9wZ09Mak9IR3dKa2NmSTZFWlRKZ0JsZ001VzVncnp6cjVzQzdpdw",
+        "time": "2026-04-29 18:15:49"
+      },
       {
         "title": "🛡️ 美國花生零關稅衝擊花生農民，拒絕「滅農政策」！ 張嘉郡：農業部不能坐在冷氣房說風涼話 針對美國花生未來將零關稅進口，國民黨雲林縣長參選人、立法委員張嘉郡嚴正指出，雲林花生產量占全台近九成，若政府未提出具體配套，美國低價花生大舉進口，將直接衝 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMikAhBVV95cUxPd1pXRmRLZG9DUUZDQUNaeFNkRmNFeWFLVFBmaXVMNnhqNWh3TEpxTWNiRWNLZzlIYldIVTFweUlVSDd2ckhneHdQRjAxaDVZUDRwQm90UWFCVG1TaElxNEhlZFYzZVY4c0FwMkxJNE1WRjFQV3VfaTNhWTAzWEtON3lWdjhrMVNxcTZCVW15OTlmTzdMRG84N3VKWVp0bk50aFVEeWUwNmpYbl9OZ2FCWTdxTElYUXlRRTZCZzZzSjk5cmFxcEVzWk5NQzFuOE1weC1IUVBQZHpSbHVyZlotbUJ4NTdTbGtlb1diN2xranhKVGxvUlRiREQxVU0wZlBNUkg1VDFLeDFLTllkdGpNUWFUWVFiZFMtRF9oNjhOSklCQ0kyQTJHYXVzV2xPbEVudGNncHlXS205RjIzcWhpMjVxMzNJbGlVT2hDVWRPZWdoaENBNmpNVDc1LW5CMkl2WnRqbWdDR1VydHNJU3I0b19oSFRHMkd4WU1aRjIwS2k1blVBeFMxdUJCdUJNbFEweG9tbnhRbFo0b3NxSDVpalVpVElaNVJNT1FFWkdBV0k3Rk84azdkRURwRDVHSzdSNFhOcHpBeFRoUERmVW9kYjFCTUN2Mk5feEVHYUpQMXdQNV9XLWtuZUtDTXlsbWtxU3FTeXJQTHU5ZWdwTXZjTEZRNzdpSEdpUngxRTFPRnlxcThtMFlLVk9oejhlSmZrbERfRnJER3JfUzAxTkdITkhfc1dkMnhfWTU0RWwzZ005RFRjbENxR08zWF95VWU3bXN6Y0JCMUJNU1l6M0VSbUlWcmRSTUF1SE5ReXJPakh5Q1hUWkNVMmEyVWhKaERhUXg2VVlPQmduaVB5eUNjOGhManJ6c3RFSTJ1ek1JS3BSUEt2d0x4OHRXSmstdEQwRU5KVlRqYWp5dVBNN1FKQ0pEUkthVkhSTW9sODVwYXNnYmx5Tmd1eUQyZDh4SllRZklBVkE3STNtV1YyOGw1d2pJZW05VDh6SnlFQ2JnWmpmR3pYT0JiaHd2NkxxMGhCT1BpRGlzTlVHUDVjQ0pmMndQVjlaX2FPV0VaQU1QV0lpdkhBU0xESXdZVE5ZdlE3SVpneUVkUG1FdXFUenJpOUJBRzFkSDJyQkM5ZkY0YVJQcGlqMzdET0IyMW11akx2bURrTGJzNkNTZGg3ZnE2V0lQT0c0UXNCYUdkcG9XM0g3SjJUNzc3d251TkxfRzR5YXVtX2J1MGVHemFrMkFxS1dFQjlUczE5SkJzT3BGbTZ3TDhIV1BiRmRobjliUTlVZEozcWJBSjJhdmsxRnpMZ2dteTRKU0ZlenZpN3IyOFZIamlZX3VXdUdUejNDZ2FkRklRMDZtWEF5QXJER0JUaA",
@@ -1932,10 +1949,27 @@
         "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOVEllU0dXZlVQOUJYaEVDOWxKQWxMYlBMaHF5d0NmRGxVdm84WmlZc0drbmRvU2J0TlBMdXdxQ2pCZjlrZmpjXzZ3ZEg5VktuNUxFbWJNbXk0WjhidS1KM0I5Y0VENU1KeXFNbHZ5ZzQ3QlZqeUZ5azRsMHVsUXl0WGxWcU42SWtnT3cxUm82aUtzQ250cGVlZ095OVowdlZvSHJxa3FmbGZSOW9pX0VnempaaEIyei1FQ2lrZTljcU1BM0o0aFUyM0NmOXJ4TlhsT0tWcDhid205cGhncHNLdnlRWnE2bmVXZGU5ajFIUmdaaG9XelFZN3BZUkNLb3pJdmxoRHNmMFdzNmR0dWd6anQxYmRoc2RPdmRTVzJBRHJFOGFpeEN4a1RCZXNmR2twZjBLQWN5UzZSX1ZOQmRvRnk5TjV5c0Rac3pJSVI2bFpKUlZkRnVUQXZCSlBxdXh0MlpmR2F6UXNnbi0wRlNuS3d1VzZTNjh6",
         "time": "2026-04-29 12:04:36"
       }
+    ],
+    "youtube": [
+      {
+        "title": "中國對臺灣的敵意從未消失，鄭麗文說的「等距外交」真的有可能嗎？",
+        "url": "https://www.youtube.com/shorts/3Qt7dvvrpgs",
+        "time": "2026-04-29 18:32:16"
+      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "美花生進口衝擊本土農！張嘉郡憂雲林生計 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQVEI0eWRzSFE5RFFQcjhuS1VlYW03eDI3U0t0ejVLYzBDWU1fY25RQXNrN0JnWU5qSEFUMlJDSGFoQmJGZ2ZqRWhLbmRLSDRNaDlsY2NUQjlCZlZlOXBzX0VISWxlN2hTbGN5LVZPM25pT0lUMFZjakY1NmJBbm5GSXZLa2VXb0p4ZjFqaU0yRmc2ZV9ybFhZdHdGQ0ZKNm5EUGIxUFdjcXJQSXpqUEhTa0o1MnExR3JxYl8teUdXcUhvc01HRWxjSjROSHpQNVhuUDE5MHl0V0FndDFDSFBFMXpDaDd3REE4X0t0Zm5uQW1xZlZMRlFHZVZBSFZVbzZKZ0hXVkFEcTZCVkdtdjZIcU1KT05nNm45NktLdm5sb3ZJVF9vb0hqSXZaUkg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-29 18:09:36"
+      },
+      {
+        "title": "美花生進口衝擊本土農！張嘉郡憂雲林生計：嚴防進口混充國產 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwNmdITlVQbHkzd0pmQXZJRHF2eXkyRkxfYVNUY2NIbERFeFpvVzE5SkhHWGRvLU11UEpXeWJlX2NESVFRai1IOUZZME7SAVJBVV95cUxNV1ROQllsak1vRm9WOUdKX1cteWNNUlFlSF95WEpkYV9jdHR1UU8xN0lOSUl1eVlMelJzWHFoTDM4eHlGb2VtZzZYR2s2cldpM2ln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-29 18:09:36"
+      },
       {
         "title": "美國花生零關稅叩關 張嘉郡籲：農民轉作金提高三倍才能競爭| TVBS - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xY0JWdmR3Y1JMOVRaZ09YTk9SdFo0QWM1WWFGZVlDbm51Wmd2b0pyZGs4NUlCUi12MnprT2pFQUsyMV90aDZac1V2OEFHdlBBd25nMk9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -2125,19 +2159,14 @@
         "title": "進口美國花生風暴衝擊雲林 張嘉郡、劉建國為農民發聲 - 中時新聞網",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ0dncWNGaEREMGJ2ekNzeDZqaFV6TC1Pcmh4U3ZFcjdQTWdpTGJpOHVFbkM2YWpYVk5IQ1Y0MVo4MWhaNnE4cFNWYzJmWFQxTGRXdm5YLTJiZHBrQmxyY0FQYWgzT1hDZDFjNWpvV01pUWZzRDYwVm9GQTFUQl9LT3lwYzlueV9aeHduTmRybw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-28 18:45:39"
-      },
-      {
-        "title": "進口美國花生風暴衝擊雲林 張嘉郡、劉建國為農民發聲 - 中時新聞網",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03MUdxTWNuN3ZILU9JREdzbjdOZlpNREdCRVRWYm1TdnA0bjBQN1VHVmJmSjlOSDhQZ1JNaGNCVmxRdnNXdC0wMnp3TWVQRDUxNno0R3pCZEs3OF93d2JMdmNoWFVBa3MwTkY1dDBn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-28 18:45:39"
-      },
-      {
-        "title": "面對美國花生零關稅衝擊雲林縣長張麗善喊話中央：妥善規劃因應方案立委張嘉郡：絕不能犧牲花生農權益！ - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16Yjcwb01EakcxdV9wUGx6c2t3VmZHRTNnM211aFZiMW5IYXhRaU9WMV9rUW5QVGdZb1ZOY2l3VFVwb3dwTWJoZFFwdVJuVWlobnRzNzU5RnNqOTE5alZaTmNJZnBTWmVTWlJr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-28 18:28:31"
       }
     ],
     "facebook": [
+      {
+        "title": "雲林鄉親參訪立法院 今天立法院特別熱鬧，因為充滿了熟悉的家鄉氛圍！🥰 非常開心能接待 遠道而來的鄉親們，#江文登 #蔡孟真 #蔡永富 #林文彬 #顏嘉葦 議員帶領大家特地北上來到立法院參訪，一路上真的辛苦了。看到一張張親切的臉孔，能和大家輕鬆聊聊家鄉的 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi7wdBVV95cUxNbmY5eGFDXzNlYUdycFFCRThYeDl3V2RXenl5ZHczMjllRXdzTVFJOUhGazJ0blB2eWNMMWtNVjhvSm9fbThnLVlsX3laNktXbDgtc2RKV2hqcUlJdlFrWWh5dEdsZldSQ2pmWHZQeDZkbjhYLUpZaGdJS3djSVA2Y1Y4bWt1VWdOdXViYWxfM2FyaVFxQ21vbkt0aFczZnJ2OEI3Y1RxVl9sVFRwc1cxMEpubWwzZ3FNOTdUdGtmeUlFX0wycEljVHpnT19CeVFtMUVsWGZOczNTZW4wdXBzb3h3MXl3Ri00Z1FoOVFJczFKX2tUQWhRWllkV1pCVWpDdnI0b1EzWGpwMkkwd0RGYk1BR3FGREJoLWl6dGpwZWhSdmxWaFVxMWpJUTkySUh6aDNPWFJwMjBsT3RleUgybHF5ZF9TNk9tb0t3LVk2bkdoUlFzRWRIc2dPbmJncUdhdHNtZ1hhenJsb0RZcEc2RTBjRjhvR0M3TXpHdW1lTnlmZFBYbkVySUFFQ25aUzBsbTE3azJhS0RyOU01U2tRWUk5TFM4ZEJsT2dIZEZWSG43VkdmZ3d1TWFZU21hVEZfYXV2N3lmeTRZT0hWMWxqeDRNb0hPYlNjSk5uSTdtTzBDVDcyY0xUVlJiWnpnb3B2SVJKTFpSblVLRzBnekRYM3RxdVRRM0M5WEJydlMxZnREMFNObUhTZUlXSnNzOE0xZ1pDQzRJMlBTQnFfZXItbUdpN0VqcUFGbkt4dVNzeU5SX2pNcXZGQ0NpWkthVUxkUXNjN0M4V2tRSzRKUHIwN1hncGNEZkxEYW53cVV0SHVCQVFyWXg0cWFKbjVnT0lBOVlucEk1S2xTV2RFX1U4dGUyb0ZLTlQwOXFBRmZfUmJVaWxZS1MxT2ZuZUJ0VW1MM0xxXzQ3NHVtaTVSU2xpTkk4VTNTWHlwc2RrdkxQVEdFVTl1cHF4dGlOb2NnaUdXQ09sYXVjdGpwcW9aSEh2c0xvdkxqSURZY2NLbjhUT250WVpocFFodkt0c0NhRzRGSXdHOWZRNEtENURpNmhTRUtzbzJqYU9aNFVDbnQ2aWpXaXFqeTBHRVdnX2pyeDNkbWlkMGxkYnM5V3RmZzRsNnJXYnFSQUFSY2ZEMXNlMk9vcm5WdjdqdWhLZWdMaFkzTUNyVjNPTHdnSE9PWlFRbFlaclJIcVQzZWlyQVVOUWJ6MS1NVTU1dGZfeE9HTFZjTHZLZTFSVlZjejE3SjBKakNaN29BWEJTeS1vV0ZTU3U5cEpFWEdwRm9wZ09Mak9IR3dKa2NmSTZFWlRKZ0JsZ001VzVncnp6cjVzQzdpdw",
+        "time": "2026-04-29 18:15:49"
+      },
       {
         "title": "🛡️ 美國花生零關稅衝擊花生農民，拒絕「滅農政策」！ 張嘉郡：農業部不能坐在冷氣房說風涼話 針對美國花生未來將零關稅進口，國民黨雲林縣長參選人、立法委員張嘉郡嚴正指出，雲林花生產量占全台近九成，若政府未提出具體配套，美國低價花生大舉進口，將直接衝 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMikAhBVV95cUxPd1pXRmRLZG9DUUZDQUNaeFNkRmNFeWFLVFBmaXVMNnhqNWh3TEpxTWNiRWNLZzlIYldIVTFweUlVSDd2ckhneHdQRjAxaDVZUDRwQm90UWFCVG1TaElxNEhlZFYzZVY4c0FwMkxJNE1WRjFQV3VfaTNhWTAzWEtON3lWdjhrMVNxcTZCVW15OTlmTzdMRG84N3VKWVp0bk50aFVEeWUwNmpYbl9OZ2FCWTdxTElYUXlRRTZCZzZzSjk5cmFxcEVzWk5NQzFuOE1weC1IUVBQZHpSbHVyZlotbUJ4NTdTbGtlb1diN2xranhKVGxvUlRiREQxVU0wZlBNUkg1VDFLeDFLTllkdGpNUWFUWVFiZFMtRF9oNjhOSklCQ0kyQTJHYXVzV2xPbEVudGNncHlXS205RjIzcWhpMjVxMzNJbGlVT2hDVWRPZWdoaENBNmpNVDc1LW5CMkl2WnRqbWdDR1VydHNJU3I0b19oSFRHMkd4WU1aRjIwS2k1blVBeFMxdUJCdUJNbFEweG9tbnhRbFo0b3NxSDVpalVpVElaNVJNT1FFWkdBV0k3Rk84azdkRURwRDVHSzdSNFhOcHpBeFRoUERmVW9kYjFCTUN2Mk5feEVHYUpQMXdQNV9XLWtuZUtDTXlsbWtxU3FTeXJQTHU5ZWdwTXZjTEZRNzdpSEdpUngxRTFPRnlxcThtMFlLVk9oejhlSmZrbERfRnJER3JfUzAxTkdITkhfc1dkMnhfWTU0RWwzZ005RFRjbENxR08zWF95VWU3bXN6Y0JCMUJNU1l6M0VSbUlWcmRSTUF1SE5ReXJPakh5Q1hUWkNVMmEyVWhKaERhUXg2VVlPQmduaVB5eUNjOGhManJ6c3RFSTJ1ek1JS3BSUEt2d0x4OHRXSmstdEQwRU5KVlRqYWp5dVBNN1FKQ0pEUkthVkhSTW9sODVwYXNnYmx5Tmd1eUQyZDh4SllRZklBVkE3STNtV1YyOGw1d2pJZW05VDh6SnlFQ2JnWmpmR3pYT0JiaHd2NkxxMGhCT1BpRGlzTlVHUDVjQ0pmMndQVjlaX2FPV0VaQU1QV0lpdkhBU0xESXdZVE5ZdlE3SVpneUVkUG1FdXFUenJpOUJBRzFkSDJyQkM5ZkY0YVJQcGlqMzdET0IyMW11akx2bURrTGJzNkNTZGg3ZnE2V0lQT0c0UXNCYUdkcG9XM0g3SjJUNzc3d251TkxfRzR5YXVtX2J1MGVHemFrMkFxS1dFQjlUczE5SkJzT3BGbTZ3TDhIV1BiRmRobjliUTlVZEozcWJBSjJhdmsxRnpMZ2dteTRKU0ZlenZpN3IyOFZIamlZX3VXdUdUejNDZ2FkRklRMDZtWEF5QXJER0JUaA",
@@ -2301,6 +2330,11 @@
     ],
     "youtube": [
       {
+        "title": "中國對臺灣的敵意從未消失，鄭麗文說的「等距外交」真的有可能嗎？",
+        "url": "https://www.youtube.com/shorts/3Qt7dvvrpgs",
+        "time": "2026-04-29 18:32:16"
+      },
+      {
         "title": "【LIVE主播+立委線上聊】 馬鈴薯之亂還沒完 美國花生又來! 雲林首當其衝 張嘉郡:別犧牲農民權益",
         "url": "https://www.youtube.com/watch?v=qCTcQuspRMk",
         "time": "2026-04-28 15:57:17"
@@ -2346,6 +2380,34 @@
       }
     ],
     "day": [
+      {
+        "title": "中國對臺灣的敵意從未消失，鄭麗文說的「等距外交」真的有可能嗎？",
+        "url": "https://www.youtube.com/shorts/3Qt7dvvrpgs",
+        "time": "2026-04-29 18:32:16",
+        "platform": "youtube",
+        "risk": "綠"
+      },
+      {
+        "title": "雲林鄉親參訪立法院 今天立法院特別熱鬧，因為充滿了熟悉的家鄉氛圍！🥰 非常開心能接待 遠道而來的鄉親們，#江文登 #蔡孟真 #蔡永富 #林文彬 #顏嘉葦 議員帶領大家特地北上來到立法院參訪，一路上真的辛苦了。看到一張張親切的臉孔，能和大家輕鬆聊聊家鄉的 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi7wdBVV95cUxNbmY5eGFDXzNlYUdycFFCRThYeDl3V2RXenl5ZHczMjllRXdzTVFJOUhGazJ0blB2eWNMMWtNVjhvSm9fbThnLVlsX3laNktXbDgtc2RKV2hqcUlJdlFrWWh5dEdsZldSQ2pmWHZQeDZkbjhYLUpZaGdJS3djSVA2Y1Y4bWt1VWdOdXViYWxfM2FyaVFxQ21vbkt0aFczZnJ2OEI3Y1RxVl9sVFRwc1cxMEpubWwzZ3FNOTdUdGtmeUlFX0wycEljVHpnT19CeVFtMUVsWGZOczNTZW4wdXBzb3h3MXl3Ri00Z1FoOVFJczFKX2tUQWhRWllkV1pCVWpDdnI0b1EzWGpwMkkwd0RGYk1BR3FGREJoLWl6dGpwZWhSdmxWaFVxMWpJUTkySUh6aDNPWFJwMjBsT3RleUgybHF5ZF9TNk9tb0t3LVk2bkdoUlFzRWRIc2dPbmJncUdhdHNtZ1hhenJsb0RZcEc2RTBjRjhvR0M3TXpHdW1lTnlmZFBYbkVySUFFQ25aUzBsbTE3azJhS0RyOU01U2tRWUk5TFM4ZEJsT2dIZEZWSG43VkdmZ3d1TWFZU21hVEZfYXV2N3lmeTRZT0hWMWxqeDRNb0hPYlNjSk5uSTdtTzBDVDcyY0xUVlJiWnpnb3B2SVJKTFpSblVLRzBnekRYM3RxdVRRM0M5WEJydlMxZnREMFNObUhTZUlXSnNzOE0xZ1pDQzRJMlBTQnFfZXItbUdpN0VqcUFGbkt4dVNzeU5SX2pNcXZGQ0NpWkthVUxkUXNjN0M4V2tRSzRKUHIwN1hncGNEZkxEYW53cVV0SHVCQVFyWXg0cWFKbjVnT0lBOVlucEk1S2xTV2RFX1U4dGUyb0ZLTlQwOXFBRmZfUmJVaWxZS1MxT2ZuZUJ0VW1MM0xxXzQ3NHVtaTVSU2xpTkk4VTNTWHlwc2RrdkxQVEdFVTl1cHF4dGlOb2NnaUdXQ09sYXVjdGpwcW9aSEh2c0xvdkxqSURZY2NLbjhUT250WVpocFFodkt0c0NhRzRGSXdHOWZRNEtENURpNmhTRUtzbzJqYU9aNFVDbnQ2aWpXaXFqeTBHRVdnX2pyeDNkbWlkMGxkYnM5V3RmZzRsNnJXYnFSQUFSY2ZEMXNlMk9vcm5WdjdqdWhLZWdMaFkzTUNyVjNPTHdnSE9PWlFRbFlaclJIcVQzZWlyQVVOUWJ6MS1NVTU1dGZfeE9HTFZjTHZLZTFSVlZjejE3SjBKakNaN29BWEJTeS1vV0ZTU3U5cEpFWEdwRm9wZ09Mak9IR3dKa2NmSTZFWlRKZ0JsZ001VzVncnp6cjVzQzdpdw",
+        "time": "2026-04-29 18:15:49",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
+        "title": "美花生進口衝擊本土農！張嘉郡憂雲林生計 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQVEI0eWRzSFE5RFFQcjhuS1VlYW03eDI3U0t0ejVLYzBDWU1fY25RQXNrN0JnWU5qSEFUMlJDSGFoQmJGZ2ZqRWhLbmRLSDRNaDlsY2NUQjlCZlZlOXBzX0VISWxlN2hTbGN5LVZPM25pT0lUMFZjakY1NmJBbm5GSXZLa2VXb0p4ZjFqaU0yRmc2ZV9ybFhZdHdGQ0ZKNm5EUGIxUFdjcXJQSXpqUEhTa0o1MnExR3JxYl8teUdXcUhvc01HRWxjSjROSHpQNVhuUDE5MHl0V0FndDFDSFBFMXpDaDd3REE4X0t0Zm5uQW1xZlZMRlFHZVZBSFZVbzZKZ0hXVkFEcTZCVkdtdjZIcU1KT05nNm45NktLdm5sb3ZJVF9vb0hqSXZaUkg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-29 18:09:36",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "美花生進口衝擊本土農！張嘉郡憂雲林生計：嚴防進口混充國產 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwNmdITlVQbHkzd0pmQXZJRHF2eXkyRkxfYVNUY2NIbERFeFpvVzE5SkhHWGRvLU11UEpXeWJlX2NESVFRai1IOUZZME7SAVJBVV95cUxNV1ROQllsak1vRm9WOUdKX1cteWNNUlFlSF95WEpkYV9jdHR1UU8xN0lOSUl1eVlMelJzWHFoTDM4eHlGb2VtZzZYR2s2cldpM2ln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-29 18:09:36",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "美國花生零關稅叩關 張嘉郡籲：農民轉作金提高三倍才能競爭| TVBS - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xY0JWdmR3Y1JMOVRaZ09YTk9SdFo0QWM1WWFGZVlDbm51Wmd2b0pyZGs4NUlCUi12MnprT2pFQUsyMV90aDZac1V2OEFHdlBBd25nMk9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -2457,34 +2519,6 @@
         "time": "2026-04-29 12:13:55",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "美花生零關稅恐「滅農」？ 張嘉郡怒嗆農業部：別把責任推給發現問題的人 - 台灣好新聞",
-        "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxQcE9ocXJHRENTenRhLS1XQV9YNGNfcGx6bFV0anBvVHA4QzhOYXBWNkM4SlEya0tPbjFEY0VDdzlrcXlrZHVraHBKVkRmeWtUc2JKc0JJQUVUeWk2OWFrS2VYRWNwcTd3U3JIZlppNl9GYWw5QVV3T2VMcWRIZXJOdGFFVi0tWEg1U1h1djJVRVBiWkxod1YxZTlsSUQ3SUVwRnR6Uk1fakdQbHlNSllQMnc5dm8wd3dtREZBNVlWRWFsM1R1YURqSWtVWnJWZVM5VDhnTGtyU2pOdTdQeUtBaTM1MURpNDVVOEpYdHhJaGRMWGNMcG9YQnBlQnN1b0tWVmhxZVNEWHM3RjJvU1MtQ2QzU2cweEJQNUNVdHhhNXRXTnFoQ2hPU0xxODA0aTM2TDdiUGRkdnhYWm5SY0Vwd2FibDhpVVZRTVNUMzFZYnVKS1hRQUJ0bVJneDZTaDRvbklkZG1hMmNIX3UyLVc0TTRfRHpLVTlSd0ZXeURBVDBtZ3NJbTZWUTM3WWp0dDRoZTdteGF4NXpCZUhPYVU2S21hajJpS3ZvN3RIVUw1bndfU0NfdEdKM3ZEODJkcHl4YnN4NlZpX25PT3U1dVVmOE5wWXNGajhrVDNwU1p3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-29 12:09:56",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "美國花生零關稅恐「滅農」 張嘉郡轟農業部： 別坐在冷氣房說風涼話 - 匯流新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8tZkhDWWROc28xRE5JWkoyR3MzaGZtdk9lckM2T3NpeklTZlFwN1FoQmEwZXV4bm5jcFVWakZaQUNyUlRIZk1KVlNB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-29 12:05:52",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "美花生進口零關稅 張嘉郡：政府不能「協助轉型」就帶過 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOVEllU0dXZlVQOUJYaEVDOWxKQWxMYlBMaHF5d0NmRGxVdm84WmlZc0drbmRvU2J0TlBMdXdxQ2pCZjlrZmpjXzZ3ZEg5VktuNUxFbWJNbXk0WjhidS1KM0I5Y0VENU1KeXFNbHZ5ZzQ3QlZqeUZ5azRsMHVsUXl0WGxWcU42SWtnT3cxUm82aUtzQ250cGVlZ095OVowdlZvSHJxa3FmbGZSOW9pX0VnempaaEIyei1FQ2lrZTljcU1BM0o0aFUyM0NmOXJ4TlhsT0tWcDhid205cGhncHNLdnlRWnE2bmVXZGU5ajFIUmdaaG9XelFZN3BZUkNLb3pJdmxoRHNmMFdzNmR0dWd6anQxYmRoc2RPdmRTVzJBRHJFOGFpeEN4a1RCZXNmR2twZjBLQWN5UzZSX1ZOQmRvRnk5TjV5c0Rac3pJSVI2bFpKUlZkRnVUQXZCSlBxdXh0MlpmR2F6UXNnbi0wRlNuS3d1VzZTNjh6",
-        "time": "2026-04-29 12:04:36",
-        "platform": "facebook",
-        "risk": "綠"
-      },
-      {
-        "title": "美花生進口零關稅張嘉郡：政府不能「協助轉型」就帶過| 政治 - Newtalk新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41QU5xVzh3RzhtaWtzajlkc1RSVXdvQWdldFFJNDFPelZ3bEZsX0QyR005X3Y0S2hUbi16LU5Idk1FeVh3dExsQ3FIQU94dXJvTDI5eTJocWlKY0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-29 11:50:31",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2492,7 +2526,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 14
+        "count": 15
       },
       {
         "name": "斗六",
@@ -2502,7 +2536,7 @@
     "groups": [
       {
         "name": "農業族群",
-        "count": 22
+        "count": 20
       },
       {
         "name": "交通通勤",
