@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-04-30T07:39:56.082808+00:00",
+  "generated_at": "2026-04-30T07:55:01.390196+00:00",
   "metrics": {
     "total_24h": 26,
-    "prev_24h": 54,
-    "growth_pct": -51.85,
-    "news_24h": 20,
+    "prev_24h": 57,
+    "growth_pct": -54.39,
+    "news_24h": 21,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 237,
+    "total": 240,
     "prev": 129,
-    "growth_pct": 83.72,
-    "news": 199,
+    "growth_pct": 86.05,
+    "news": 200,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,11 +28,11 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 20
+      "count": 21
     },
     {
       "platform": "facebook",
-      "count": 4
+      "count": 3
     },
     {
       "platform": "youtube",
@@ -42,11 +42,11 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 199
+      "count": 200
     },
     {
       "platform": "facebook",
-      "count": 31
+      "count": 33
     },
     {
       "platform": "youtube",
@@ -54,10 +54,6 @@
     }
   ],
   "by_hour": [
-    {
-      "hour": "2026-04-29 15:00",
-      "count": 2
-    },
     {
       "hour": "2026-04-29 16:00",
       "count": 2
@@ -68,7 +64,7 @@
     },
     {
       "hour": "2026-04-29 18:00",
-      "count": 7
+      "count": 8
     },
     {
       "hour": "2026-04-29 19:00",
@@ -89,6 +85,10 @@
     {
       "hour": "2026-04-30 11:00",
       "count": 4
+    },
+    {
+      "hour": "2026-04-30 15:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -406,7 +406,7 @@
     },
     {
       "hour": "2026-04-29 12:00",
-      "count": 13
+      "count": 14
     },
     {
       "hour": "2026-04-29 13:00",
@@ -430,7 +430,7 @@
     },
     {
       "hour": "2026-04-29 18:00",
-      "count": 7
+      "count": 8
     },
     {
       "hour": "2026-04-29 19:00",
@@ -451,20 +451,29 @@
     {
       "hour": "2026-04-30 11:00",
       "count": 4
+    },
+    {
+      "hour": "2026-04-30 15:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 20
+      "count": 21
     },
     {
       "platform": "facebook",
-      "count": 3
+      "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "提偏鄉閱讀翻轉計畫 張嘉郡允重建鄭豐喜紀念圖書館 (圖) - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOdWY3YkNwejU2UzdpaXgweWtFQ210MDdfYnN5clo2RlhsT0N4cUNaMUpBNHZON3RUZjJKdnYzUm5QbUpfMjZEVFVwaWlKSmg1cEVzYXlFNTFFUVJhdlN0WEw4SjZORnpSSFRMZE41UFRjdnYtTXk5SElPRE1yTTBHaFVaQlN3eGJTYjJNVWRWcUc2MXhzTVUxLVVwdTVyWmtkSDlyaTZqQWFHYlNyTXZleVRCLXBBQ3hKRkpOSXF2Q2NrQzNPY1BDZEczUUtkWnRRTmxGWTZjV1c0TGFXMkpodDJyc05FQVhONTFKT21PMS1DUzlGUUduNHF5cjVRUUhOcTE4SEdVd05fS21JbW1KRFk3OVF2M2EyUXdsMWUzN2FDb01OTmFPS3VvWml1NVdQb0lWbmI4ZFQwc09tR3R3cXBGX2RLWnFnV1dOZElwbnJyYUJkR1lxbFdWUGI5dWk0cHpkQnU3dVc0bGl2THJaSWJTZGhUdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-30 15:28:01"
+      },
       {
         "title": "【2026藍點將】張嘉郡透露「很多支持者是民進黨」：綠委也讚自己太認真 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPdFdCUjdVRGNoNDlkejJlcnNLaURHWno5NnhNOEZVVnRoMGEwZU9TOEdjSC1UZzV1enJCVXhrQjNjNXZoWUtOVlA2ZUVFY0RoNldRVzFHbVhzdzd0QnlCUVVFa1ZHTjIzbXl3Nk1ZMmpmXzBjWUZDU0VPWnpOSU91R0JlY3V5aGlFNzhvTU50Q3h0WS1pX050WjNtRXppVFVWMXVJU05UczBDd2JOODFhYTNXbElFbW1La0RpWDFuOVhmRHVXSDhFcUFWUVViT3VPNnhNNU1SdW9DRHR5MmsydldSZm9PZ3JadzVfOWpXMVJEbUdqMjJGaF9SV1JWTXpVWDliYkpfZThFR0djcHNwbFd1ZEI4czJxNm9oalBqZ1V6OWVvdDNlUWNZaGlDVzNiREpsbmxBUlFFZzdTSFJEYUpTX2JUSTBmcEhKaTNZeGMzWWVvUjFXZTBPd2dVaFV2TGhzYjQzMmRWVE11Qm1MaHkwZ0ZMMm9NVVRUQnF1M3ltSm42YTRFMWpNMGN2Y19iWmY1UA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -571,31 +580,26 @@
         "title": "美國花生零關稅衝擊雲林農民 張嘉郡：農業部不能坐在冷氣房說風涼話 https://www.ctwant.com/article/479135/ - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNZVVKQkZfbVlfSXNRRUVjNjZpOElIek41WkxaS2ZFaV9fdjVpajVjNG5PZVZaaUpsZ2VCckRWQmVmM1NJREFZRUFReWl4RF8wYkpYYkpZamlqbGE4eTZkTHJ5eDF1WUczZDNxYkVKa0p3bEJkTDVhVGVVY3FQSmhVVjRoN09wa2pMeUVSZ19PTFoyeThJQTVyU2NtVGs5RjR1N3c2NUNva2hFTDV2LXFJYjl6OXpPa185TzRrR2UwXzBOMHEtZVcwUVZTTTdWTVJnczNxVlFDcVpSNVRvN0tsTmtKUzdWYmVncHRvczdNZDFTRmVlTDVlQUFHNGVnUXYwUFY4TEpCMll2VzFyOFpDQWtsUy1OcDIzazVJZ3lrR2RTTTF1UFN6YldiS3pmQi1VbGdXTS1DUzJfRHFDVmtPVndicHhfcVJhYW5RRXdZT3laLV8xY0VrWXBnX2lxS3VjdFVlZHRiQThFSWdHazZTS2NTbnRfaHdBZFZxMWo5NWJ4dTBXOC1FTkNZalg0d2x5d3RicHJIenk1bHlqbDdybUY5dlFqX1FEdjNkMWRtMmhoOEVaWldybGw2WEFESzM0c1hzYlB5WTNnTFlMQkxkUTZtc0k0TkMtM1RpX3d5anJFSXRpZHk5OTF2aTRrTmRIWUZ6ZXR3N1BwQQ",
         "time": "2026-04-29 22:00:14"
-      },
-      {
-        "title": "雲林縣虎尾鎮公所. 雲林縣虎尾鎮公所 · 原始音訊. ♥️ #民眾的許願 #嘉弘來實現♥️ 🚧【虎尾鎮道路改善工程說明會】🚧 本次針對平和、東仁、公安、德興、中山、新興里辦理道路改善工程說明會。🛣️ #虎尾鎮長林嘉弘 偕同 #虎尾鎮民代表會主席 服務處主任及 #張嘉郡丁 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMigwhBVV95cUxPS0xkX0dBM3Z6S3IwSW9mMG5FUWxmWWhGMUtNemVQbm9Xb3U0X2JuQVRMVW56YkUtbm4zOWRTOTRpbnpENDcyUTJiUzZSc3prVk15WWRKU2hSQkctNXRHZTV2ODgzZnljM2xhaGZCWkVRa1lRbGsxenFlTTJWc3FPV3RyMTZYYm1RVWNiX2JVUkd3aDlvMVFfM0RaRUxzaks5bE92U2FXQnI1S3gyMDVCUWNYc3BKZkhqYnJIcUI4U3NpVXMxdU5FTmNvV0JnVmVpQlV0dG1ZLXczQ0ZJS01ZNFU1MFdmbDU3SExSUkxSaUVrYzdYUlVBQmJNNTdkcXVEMENHRWotc2YtNXZqd2F0V3ZrMjkwc0N6eHFDblRyeG50dHBKc3c2bWpORnFkWXRfemlXaThTb1hHY0gxWGVJZWJENHFtTHdRMUZGMW5qNlpKN09WbTFWb1kyd1VkSFp4bzJFZEU4RUVBdzB5d1hEdERzRDlrSG1XZThodVpvbWh4S19Ibms3U2MxTml4ZHBzRlVCNkVCRkRIajhzZ1lqeTB0WExRc0Q5cmdHMXN0eHZyZkNrZ3NaVHRjc2VfRFlSQ3hMOERTYWZQYjVRMVBOeWVFV0FLXy1ESFRXaV9DMFc2WnJqQjU3OUF1cWhid1R5SHdlX3Q2clVzb3ZIYnVudl9JY1BINXQ2dWpHNWdNeHY4cmV1LUZFT19zcE90MWp0VUxaYi1nVXBGd2ZOYl92YndnZzVlLXBNZ01PU0xuU3N6S0UwZDVHSmNtOXRlRWU0bTc0T3JwMHgybGJsOU9DQ0tzd3Zta0dsM1p3SkI5QXVEeXRvNDBjWllnbm1ST0FMUGxJSGpFYkFORTFPRnhFR185aVhia1BwWDBid190bi1Kb0FDbVo1SmpveWlMYm9WUjdiM2plVVZTVXFNcVR0dmw4ZFktTnBzblNxa2FPZzF0UFVNRU9fZ19UUW1UeUNRamRHYXpHTm96VDgtSGIyQnp3TnN1Y3pCbDZDZXY5clJEcXJabjhMbDhSNmFIck1yaUZ0Y2ZLdGlyS01CaV83aG4yLXEyaTY1YWYxYk5SSHhTMUdDSkxPcXZhMUx2R0RUOWxOZ3ZUdFVrQ1pGMlBwbGdwTWJZQnl1VlpkRVZrZmpfUFVpUDJTRXk0VVNxZTBPRFhQQmM2NU16TkNzOG5RTk42N0dsYmplUjRQUXZDYmJ1UE03WjdNbVF1TklyUk5EbU8tZUFVOHgzZFJWTTl3TFdlUVp0b2xlOVp4YnNpc20xdFhSaEVQek1RSzJUT0V0cG5uSEJfUnlWS2VGdG1jWkgwRWF6TVlBTmRGV0VFODRJZ0xFRUZEX09xVjBJdjNKYzZB",
-        "time": "2026-04-29 15:53:34"
-      },
-      {
-        "title": "♥️ #民眾的許願 #嘉弘來實現♥️ 🚧【虎尾鎮道路改善工程說明會】🚧 本次針對平和、東仁、公安、德興、中山、新興里辦理道路改善工程說明會。🛣️ #虎尾鎮長林嘉弘 偕同 #虎尾鎮民代表會主席 服務處主任及 #張嘉郡丁學忠聯合服務處副主任林書玄 深入了解地方需求， - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxQOV8xZnN5WC16UlFLRlpGUk9jNXcyMnFyNkJ6YmtVMjZaZHJWQWNLZnBBalV3dG9TRHluM2ZLQUROWHlpWnZ5UTdlblRFbXluLS1xZ0xXNW5kMzcyX25BNUtsMHZaM3YxdEhJZ3pyNVJIN2h3dmhKYmRIX1htRmp1THByMG5NYmNCOUpRNGFHREZNVTVDMG82WG1wVGljemJpbVppMkgzWEJ5YlFjRXhJMkU1dGNwb1NWdER5bVZyNjVCeTh5WUpUWFZseDZBUzg1ZUQ1ZlVzVzNIeEpKclhaUlVxcDVZT2N5bE5PcFloZ1JMQ2UwTmV5U2xtSmhCZVhKS3VTN2pnTmVEYzhrYUhXZGFITlRUVElYVjBPczFNQTgydjdsTTNGVW9xNkdQZmR1d056d3Z4c0lzdFM2Y2kzR3pOYm1IZ3VxUmEwRVdvaVRSUUlFd2ZLOUF0bUtob2Q5QnMwcmRkZ1BvbGNqRmxfQ3kzdy1jOTFPb0VhUDRMbVUzTXpLQ2RRUGtLeHZzdUtwb3VLMFpSTHFyQTZGUlR4VFNhamVMMlBGb2pZT3dSUzQtUjhfU0phTUVFa0xoQUZkTWE0X1pMRlU1UTAwWjNHbGgzSkwwWEt3Q2xIaElrUVJhWG85TS04YzBIZEpYRHZoU2N5MU90bFd2QkRzVE5LRmVYZFowbkUtUm5UZmltS2dadk1reGRuQXdfZkpocGJPTzRDNXR6OF9ldk5TUHRmdUp6S01hWXZQWXgtbTYyQjRSYmRBazNta1JnbHBXNWltTklla1VuVTBpN1lTdDJjU2pVZEpfR2lXUFJMTURtcHNCYm5FLUxZSkpRNnNYREswc1RYWmR6TEZBMWtXck1USndxT05kaC10bkpTMF91b3M5M3F3c1FmcUpDeUE5ZE5haXRTcktQVG0xc0xjcTFGUGFSX3hQeWVoVHZwMXNCVDFtWV9zRGsxSjRVX1M1eWV0a1g2dmdTeElHZGJjNVB2UFphN2FRVFI4bUtJTUYzSnlpQWwzTjJCdk1SdEdqS1JONTMtelJtZFFQcFJZUHRxd0NmczNIRWR6am56Mk5yQjlpa0pEVW1UZzJGLXpVWWVQWmtiMS1UU3htOWtnc1ZzbW9RWUZNbFlIaHdxbC1sUm5sYU5iYldiMHVhMzVfTElOTmxYN2dBZUdwVkptMzBSbkx4emFzS2J3bGN0SWY3LXFmU0Nid010c201dUV5Y09wb1BiS1N5Y1hEcG5xaHVmTk5ia0FQTmd5akdHMzlVQkNsV19EcERwUG81Z1VLbnRmaDBiSURvc1VRZEpPRjM4WXlZMVZMOTlhVVpLcGJiUUo4QQ",
-        "time": "2026-04-29 15:53:34"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 20
+      "count": 21
     },
     {
       "platform": "facebook",
-      "count": 3
+      "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "提偏鄉閱讀翻轉計畫 張嘉郡允重建鄭豐喜紀念圖書館 (圖) - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOdWY3YkNwejU2UzdpaXgweWtFQ210MDdfYnN5clo2RlhsT0N4cUNaMUpBNHZON3RUZjJKdnYzUm5QbUpfMjZEVFVwaWlKSmg1cEVzYXlFNTFFUVJhdlN0WEw4SjZORnpSSFRMZE41UFRjdnYtTXk5SElPRE1yTTBHaFVaQlN3eGJTYjJNVWRWcUc2MXhzTVUxLVVwdTVyWmtkSDlyaTZqQWFHYlNyTXZleVRCLXBBQ3hKRkpOSXF2Q2NrQzNPY1BDZEczUUtkWnRRTmxGWTZjV1c0TGFXMkpodDJyc05FQVhONTFKT21PMS1DUzlGUUduNHF5cjVRUUhOcTE4SEdVd05fS21JbW1KRFk3OVF2M2EyUXdsMWUzN2FDb01OTmFPS3VvWml1NVdQb0lWbmI4ZFQwc09tR3R3cXBGX2RLWnFnV1dOZElwbnJyYUJkR1lxbFdWUGI5dWk0cHpkQnU3dVc0bGl2THJaSWJTZGhUdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-30 15:28:01"
+      },
       {
         "title": "【2026藍點將】張嘉郡透露「很多支持者是民進黨」：綠委也讚自己太認真 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPdFdCUjdVRGNoNDlkejJlcnNLaURHWno5NnhNOEZVVnRoMGEwZU9TOEdjSC1UZzV1enJCVXhrQjNjNXZoWUtOVlA2ZUVFY0RoNldRVzFHbVhzdzd0QnlCUVVFa1ZHTjIzbXl3Nk1ZMmpmXzBjWUZDU0VPWnpOSU91R0JlY3V5aGlFNzhvTU50Q3h0WS1pX050WjNtRXppVFVWMXVJU05UczBDd2JOODFhYTNXbElFbW1La0RpWDFuOVhmRHVXSDhFcUFWUVViT3VPNnhNNU1SdW9DRHR5MmsydldSZm9PZ3JadzVfOWpXMVJEbUdqMjJGaF9SV1JWTXpVWDliYkpfZThFR0djcHNwbFd1ZEI4czJxNm9oalBqZ1V6OWVvdDNlUWNZaGlDVzNiREpsbmxBUlFFZzdTSFJEYUpTX2JUSTBmcEhKaTNZeGMzWWVvUjFXZTBPd2dVaFV2TGhzYjQzMmRWVE11Qm1MaHkwZ0ZMMm9NVVRUQnF1M3ltSm42YTRFMWpNMGN2Y19iWmY1UA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -702,28 +706,23 @@
         "title": "美國花生零關稅衝擊雲林農民 張嘉郡：農業部不能坐在冷氣房說風涼話 https://www.ctwant.com/article/479135/ - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNZVVKQkZfbVlfSXNRRUVjNjZpOElIek41WkxaS2ZFaV9fdjVpajVjNG5PZVZaaUpsZ2VCckRWQmVmM1NJREFZRUFReWl4RF8wYkpYYkpZamlqbGE4eTZkTHJ5eDF1WUczZDNxYkVKa0p3bEJkTDVhVGVVY3FQSmhVVjRoN09wa2pMeUVSZ19PTFoyeThJQTVyU2NtVGs5RjR1N3c2NUNva2hFTDV2LXFJYjl6OXpPa185TzRrR2UwXzBOMHEtZVcwUVZTTTdWTVJnczNxVlFDcVpSNVRvN0tsTmtKUzdWYmVncHRvczdNZDFTRmVlTDVlQUFHNGVnUXYwUFY4TEpCMll2VzFyOFpDQWtsUy1OcDIzazVJZ3lrR2RTTTF1UFN6YldiS3pmQi1VbGdXTS1DUzJfRHFDVmtPVndicHhfcVJhYW5RRXdZT3laLV8xY0VrWXBnX2lxS3VjdFVlZHRiQThFSWdHazZTS2NTbnRfaHdBZFZxMWo5NWJ4dTBXOC1FTkNZalg0d2x5d3RicHJIenk1bHlqbDdybUY5dlFqX1FEdjNkMWRtMmhoOEVaWldybGw2WEFESzM0c1hzYlB5WTNnTFlMQkxkUTZtc0k0TkMtM1RpX3d5anJFSXRpZHk5OTF2aTRrTmRIWUZ6ZXR3N1BwQQ",
         "time": "2026-04-29 22:00:14"
-      },
-      {
-        "title": "雲林縣虎尾鎮公所. 雲林縣虎尾鎮公所 · 原始音訊. ♥️ #民眾的許願 #嘉弘來實現♥️ 🚧【虎尾鎮道路改善工程說明會】🚧 本次針對平和、東仁、公安、德興、中山、新興里辦理道路改善工程說明會。🛣️ #虎尾鎮長林嘉弘 偕同 #虎尾鎮民代表會主席 服務處主任及 #張嘉郡丁 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMigwhBVV95cUxPS0xkX0dBM3Z6S3IwSW9mMG5FUWxmWWhGMUtNemVQbm9Xb3U0X2JuQVRMVW56YkUtbm4zOWRTOTRpbnpENDcyUTJiUzZSc3prVk15WWRKU2hSQkctNXRHZTV2ODgzZnljM2xhaGZCWkVRa1lRbGsxenFlTTJWc3FPV3RyMTZYYm1RVWNiX2JVUkd3aDlvMVFfM0RaRUxzaks5bE92U2FXQnI1S3gyMDVCUWNYc3BKZkhqYnJIcUI4U3NpVXMxdU5FTmNvV0JnVmVpQlV0dG1ZLXczQ0ZJS01ZNFU1MFdmbDU3SExSUkxSaUVrYzdYUlVBQmJNNTdkcXVEMENHRWotc2YtNXZqd2F0V3ZrMjkwc0N6eHFDblRyeG50dHBKc3c2bWpORnFkWXRfemlXaThTb1hHY0gxWGVJZWJENHFtTHdRMUZGMW5qNlpKN09WbTFWb1kyd1VkSFp4bzJFZEU4RUVBdzB5d1hEdERzRDlrSG1XZThodVpvbWh4S19Ibms3U2MxTml4ZHBzRlVCNkVCRkRIajhzZ1lqeTB0WExRc0Q5cmdHMXN0eHZyZkNrZ3NaVHRjc2VfRFlSQ3hMOERTYWZQYjVRMVBOeWVFV0FLXy1ESFRXaV9DMFc2WnJqQjU3OUF1cWhid1R5SHdlX3Q2clVzb3ZIYnVudl9JY1BINXQ2dWpHNWdNeHY4cmV1LUZFT19zcE90MWp0VUxaYi1nVXBGd2ZOYl92YndnZzVlLXBNZ01PU0xuU3N6S0UwZDVHSmNtOXRlRWU0bTc0T3JwMHgybGJsOU9DQ0tzd3Zta0dsM1p3SkI5QXVEeXRvNDBjWllnbm1ST0FMUGxJSGpFYkFORTFPRnhFR185aVhia1BwWDBid190bi1Kb0FDbVo1SmpveWlMYm9WUjdiM2plVVZTVXFNcVR0dmw4ZFktTnBzblNxa2FPZzF0UFVNRU9fZ19UUW1UeUNRamRHYXpHTm96VDgtSGIyQnp3TnN1Y3pCbDZDZXY5clJEcXJabjhMbDhSNmFIck1yaUZ0Y2ZLdGlyS01CaV83aG4yLXEyaTY1YWYxYk5SSHhTMUdDSkxPcXZhMUx2R0RUOWxOZ3ZUdFVrQ1pGMlBwbGdwTWJZQnl1VlpkRVZrZmpfUFVpUDJTRXk0VVNxZTBPRFhQQmM2NU16TkNzOG5RTk42N0dsYmplUjRQUXZDYmJ1UE03WjdNbVF1TklyUk5EbU8tZUFVOHgzZFJWTTl3TFdlUVp0b2xlOVp4YnNpc20xdFhSaEVQek1RSzJUT0V0cG5uSEJfUnlWS2VGdG1jWkgwRWF6TVlBTmRGV0VFODRJZ0xFRUZEX09xVjBJdjNKYzZB",
-        "time": "2026-04-29 15:53:34"
-      },
-      {
-        "title": "♥️ #民眾的許願 #嘉弘來實現♥️ 🚧【虎尾鎮道路改善工程說明會】🚧 本次針對平和、東仁、公安、德興、中山、新興里辦理道路改善工程說明會。🛣️ #虎尾鎮長林嘉弘 偕同 #虎尾鎮民代表會主席 服務處主任及 #張嘉郡丁學忠聯合服務處副主任林書玄 深入了解地方需求， - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxQOV8xZnN5WC16UlFLRlpGUk9jNXcyMnFyNkJ6YmtVMjZaZHJWQWNLZnBBalV3dG9TRHluM2ZLQUROWHlpWnZ5UTdlblRFbXluLS1xZ0xXNW5kMzcyX25BNUtsMHZaM3YxdEhJZ3pyNVJIN2h3dmhKYmRIX1htRmp1THByMG5NYmNCOUpRNGFHREZNVTVDMG82WG1wVGljemJpbVppMkgzWEJ5YlFjRXhJMkU1dGNwb1NWdER5bVZyNjVCeTh5WUpUWFZseDZBUzg1ZUQ1ZlVzVzNIeEpKclhaUlVxcDVZT2N5bE5PcFloZ1JMQ2UwTmV5U2xtSmhCZVhKS3VTN2pnTmVEYzhrYUhXZGFITlRUVElYVjBPczFNQTgydjdsTTNGVW9xNkdQZmR1d056d3Z4c0lzdFM2Y2kzR3pOYm1IZ3VxUmEwRVdvaVRSUUlFd2ZLOUF0bUtob2Q5QnMwcmRkZ1BvbGNqRmxfQ3kzdy1jOTFPb0VhUDRMbVUzTXpLQ2RRUGtLeHZzdUtwb3VLMFpSTHFyQTZGUlR4VFNhamVMMlBGb2pZT3dSUzQtUjhfU0phTUVFa0xoQUZkTWE0X1pMRlU1UTAwWjNHbGgzSkwwWEt3Q2xIaElrUVJhWG85TS04YzBIZEpYRHZoU2N5MU90bFd2QkRzVE5LRmVYZFowbkUtUm5UZmltS2dadk1reGRuQXdfZkpocGJPTzRDNXR6OF9ldk5TUHRmdUp6S01hWXZQWXgtbTYyQjRSYmRBazNta1JnbHBXNWltTklla1VuVTBpN1lTdDJjU2pVZEpfR2lXUFJMTURtcHNCYm5FLUxZSkpRNnNYREswc1RYWmR6TEZBMWtXck1USndxT05kaC10bkpTMF91b3M5M3F3c1FmcUpDeUE5ZE5haXRTcktQVG0xc0xjcTFGUGFSX3hQeWVoVHZwMXNCVDFtWV9zRGsxSjRVX1M1eWV0a1g2dmdTeElHZGJjNVB2UFphN2FRVFI4bUtJTUYzSnlpQWwzTjJCdk1SdEdqS1JONTMtelJtZFFQcFJZUHRxd0NmczNIRWR6am56Mk5yQjlpa0pEVW1UZzJGLXpVWWVQWmtiMS1UU3htOWtnc1ZzbW9RWUZNbFlIaHdxbC1sUm5sYU5iYldiMHVhMzVfTElOTmxYN2dBZUdwVkptMzBSbkx4emFzS2J3bGN0SWY3LXFmU0Nid010c201dUV5Y09wb1BiS1N5Y1hEcG5xaHVmTk5ia0FQTmd5akdHMzlVQkNsV19EcERwUG81Z1VLbnRmaDBiSURvc1VRZEpPRjM4WXlZMVZMOTlhVVpLcGJiUUo4QQ",
-        "time": "2026-04-29 15:53:34"
       }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 21,
+    "張嘉郡": 20,
     "劉建國": 2
   },
   "mention_compare_7d": {
-    "張嘉郡": 149,
-    "劉建國": 72
+    "張嘉郡": 150,
+    "劉建國": 73
   },
   "top_news": [
+    {
+      "title": "提偏鄉閱讀翻轉計畫 張嘉郡允重建鄭豐喜紀念圖書館 (圖) - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOdWY3YkNwejU2UzdpaXgweWtFQ210MDdfYnN5clo2RlhsT0N4cUNaMUpBNHZON3RUZjJKdnYzUm5QbUpfMjZEVFVwaWlKSmg1cEVzYXlFNTFFUVJhdlN0WEw4SjZORnpSSFRMZE41UFRjdnYtTXk5SElPRE1yTTBHaFVaQlN3eGJTYjJNVWRWcUc2MXhzTVUxLVVwdTVyWmtkSDlyaTZqQWFHYlNyTXZleVRCLXBBQ3hKRkpOSXF2Q2NrQzNPY1BDZEczUUtkWnRRTmxGWTZjV1c0TGFXMkpodDJyc05FQVhONTFKT21PMS1DUzlGUUduNHF5cjVRUUhOcTE4SEdVd05fS21JbW1KRFk3OVF2M2EyUXdsMWUzN2FDb01OTmFPS3VvWml1NVdQb0lWbmI4ZFQwc09tR3R3cXBGX2RLWnFnV1dOZElwbnJyYUJkR1lxbFdWUGI5dWk0cHpkQnU3dVc0bGl2THJaSWJTZGhUdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-30 15:28:01"
+    },
     {
       "title": "【2026藍點將】張嘉郡透露「很多支持者是民進黨」：綠委也讚自己太認真 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPdFdCUjdVRGNoNDlkejJlcnNLaURHWno5NnhNOEZVVnRoMGEwZU9TOEdjSC1UZzV1enJCVXhrQjNjNXZoWUtOVlA2ZUVFY0RoNldRVzFHbVhzdzd0QnlCUVVFa1ZHTjIzbXl3Nk1ZMmpmXzBjWUZDU0VPWnpOSU91R0JlY3V5aGlFNzhvTU50Q3h0WS1pX050WjNtRXppVFVWMXVJU05UczBDd2JOODFhYTNXbElFbW1La0RpWDFuOVhmRHVXSDhFcUFWUVViT3VPNnhNNU1SdW9DRHR5MmsydldSZm9PZ3JadzVfOWpXMVJEbUdqMjJGaF9SV1JWTXpVWDliYkpfZThFR0djcHNwbFd1ZEI4czJxNm9oalBqZ1V6OWVvdDNlUWNZaGlDVzNiREpsbmxBUlFFZzdTSFJEYUpTX2JUSTBmcEhKaTNZeGMzWWVvUjFXZTBPd2dVaFV2TGhzYjQzMmRWVE11Qm1MaHkwZ0ZMMm9NVVRUQnF1M3ltSm42YTRFMWpNMGN2Y19iWmY1UA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -778,14 +777,14 @@
       "title": "美花生進口衝擊本土農！張嘉郡憂雲林生計：嚴防進口混充國產 - NOWnews今日新聞",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwNmdITlVQbHkzd0pmQXZJRHF2eXkyRkxfYVNUY2NIbERFeFpvVzE5SkhHWGRvLU11UEpXeWJlX2NESVFRai1IOUZZME7SAVJBVV95cUxNV1ROQllsak1vRm9WOUdKX1cteWNNUlFlSF95WEpkYV9jdHR1UU8xN0lOSUl1eVlMelJzWHFoTDM4eHlGb2VtZzZYR2s2cldpM2ln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-29 18:09:36"
-    },
-    {
-      "title": "美花生進口衝擊本土農！張嘉郡憂雲林生計：嚴防進口混充國產 - NOWnews今日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XVE5CWWxqTW9Gb1Y5R0pfVy15Y01SUWVIX3lYSmRhX2N0dHVRTzE3SU5JSXV5WUx6UnNYcWhMMzh4eUZvZW1nNlhHazZyV2kzaWfSAVJBVV95cUxNV1ROQllsak1vRm9WOUdKX1cteWNNUlFlSF95WEpkYV9jdHR1UU8xN0lOSUl1eVlMelJzWHFoTDM4eHlGb2VtZzZYR2s2cldpM2ln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-29 18:09:36"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "提偏鄉閱讀翻轉計畫 張嘉郡允重建鄭豐喜紀念圖書館 (圖) - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOdWY3YkNwejU2UzdpaXgweWtFQ210MDdfYnN5clo2RlhsT0N4cUNaMUpBNHZON3RUZjJKdnYzUm5QbUpfMjZEVFVwaWlKSmg1cEVzYXlFNTFFUVJhdlN0WEw4SjZORnpSSFRMZE41UFRjdnYtTXk5SElPRE1yTTBHaFVaQlN3eGJTYjJNVWRWcUc2MXhzTVUxLVVwdTVyWmtkSDlyaTZqQWFHYlNyTXZleVRCLXBBQ3hKRkpOSXF2Q2NrQzNPY1BDZEczUUtkWnRRTmxGWTZjV1c0TGFXMkpodDJyc05FQVhONTFKT21PMS1DUzlGUUduNHF5cjVRUUhOcTE4SEdVd05fS21JbW1KRFk3OVF2M2EyUXdsMWUzN2FDb01OTmFPS3VvWml1NVdQb0lWbmI4ZFQwc09tR3R3cXBGX2RLWnFnV1dOZElwbnJyYUJkR1lxbFdWUGI5dWk0cHpkQnU3dVc0bGl2THJaSWJTZGhUdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-30 15:28:01"
+    },
     {
       "title": "【2026藍點將】張嘉郡透露「很多支持者是民進黨」：綠委也讚自己太認真 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPdFdCUjdVRGNoNDlkejJlcnNLaURHWno5NnhNOEZVVnRoMGEwZU9TOEdjSC1UZzV1enJCVXhrQjNjNXZoWUtOVlA2ZUVFY0RoNldRVzFHbVhzdzd0QnlCUVVFa1ZHTjIzbXl3Nk1ZMmpmXzBjWUZDU0VPWnpOSU91R0JlY3V5aGlFNzhvTU50Q3h0WS1pX050WjNtRXppVFVWMXVJU05UczBDd2JOODFhYTNXbElFbW1La0RpWDFuOVhmRHVXSDhFcUFWUVViT3VPNnhNNU1SdW9DRHR5MmsydldSZm9PZ3JadzVfOWpXMVJEbUdqMjJGaF9SV1JWTXpVWDliYkpfZThFR0djcHNwbFd1ZEI4czJxNm9oalBqZ1V6OWVvdDNlUWNZaGlDVzNiREpsbmxBUlFFZzdTSFJEYUpTX2JUSTBmcEhKaTNZeGMzWWVvUjFXZTBPd2dVaFV2TGhzYjQzMmRWVE11Qm1MaHkwZ0ZMMm9NVVRUQnF1M3ltSm42YTRFMWpNMGN2Y19iWmY1UA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -880,11 +879,6 @@
       "title": "美國花生零關稅衝擊雲林農民 張嘉郡批農業部「滅農政策」 - 藍雀新傳媒",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44alB4WmJ2aHN5ZTFXa1ZldVFpcmFNNFlQV0JiVWIyNHZOVzFWQllfRkg3YzVobEdHQWlCTkI5MmZuSlBQYnhxZWpVdzZXM0MtdDRJLUpn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-29 16:26:33"
-    },
-    {
-      "title": "美國花生零關稅進口衝擊本土 張嘉郡：農業部不能只在辦公室說風涼話 - 上報Up Media",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wR1VsVWFLb1dLbHR2NTdJUFJrdDVfaG91RTFUSElhd3hiaVc4X2NWZUVEWnhkM3lEVDNkQWx1V3JadXRmUEdEdWJJc092aF81ajAtMi1MMFNHSDg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-29 16:22:00"
     }
   ],
   "latest_facebook_20": [
@@ -892,6 +886,11 @@
       "title": "美國花生零關稅衝擊雲林農民 張嘉郡：農業部不能坐在冷氣房說風涼話 https://www.ctwant.com/article/479135/ - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNZVVKQkZfbVlfSXNRRUVjNjZpOElIek41WkxaS2ZFaV9fdjVpajVjNG5PZVZaaUpsZ2VCckRWQmVmM1NJREFZRUFReWl4RF8wYkpYYkpZamlqbGE4eTZkTHJ5eDF1WUczZDNxYkVKa0p3bEJkTDVhVGVVY3FQSmhVVjRoN09wa2pMeUVSZ19PTFoyeThJQTVyU2NtVGs5RjR1N3c2NUNva2hFTDV2LXFJYjl6OXpPa185TzRrR2UwXzBOMHEtZVcwUVZTTTdWTVJnczNxVlFDcVpSNVRvN0tsTmtKUzdWYmVncHRvczdNZDFTRmVlTDVlQUFHNGVnUXYwUFY4TEpCMll2VzFyOFpDQWtsUy1OcDIzazVJZ3lrR2RTTTF1UFN6YldiS3pmQi1VbGdXTS1DUzJfRHFDVmtPVndicHhfcVJhYW5RRXdZT3laLV8xY0VrWXBnX2lxS3VjdFVlZHRiQThFSWdHazZTS2NTbnRfaHdBZFZxMWo5NWJ4dTBXOC1FTkNZalg0d2x5d3RicHJIenk1bHlqbDdybUY5dlFqX1FEdjNkMWRtMmhoOEVaWldybGw2WEFESzM0c1hzYlB5WTNnTFlMQkxkUTZtc0k0TkMtM1RpX3d5anJFSXRpZHk5OTF2aTRrTmRIWUZ6ZXR3N1BwQQ",
       "time": "2026-04-29 22:00:14"
+    },
+    {
+      "title": "#食安與農民不能被犧牲 從 #美豬、#美牛，到 #發芽馬鈴薯，再到現在的 #美國花生零關稅進口，農民承受的壓力也一再累積。 一次次政策調整，大家心裡都有一個疑問： 下一個受到衝擊的農產品，會是什麼？ 雲林花生占全台近九成，美國花生價格卻只有台灣的三分之一 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2EtR09jSkhVenVMTDVVRnAwLXcyUjMzSnFYZkZtSE1LZnlTTFJGWlUxYTR0Njdmd2x0RFNLRkRCUF9wYXY4MFJVY1NnSkJGdl9kTVZKd1VONE93cGI4eUtLSDQ0eV9aaUU0Qi1fcEpiLWlvaWZaMnhpbDZUa3ZqQ3c5SGF3SjRWbTdqQ1p0VkdSZlBzcGFEQ0JUTUp4UQ",
+      "time": "2026-04-29 18:48:43"
     },
     {
       "title": "雲林鄉親參訪立法院 今天立法院特別熱鬧，因為充滿了熟悉的家鄉氛圍！🥰 非常開心能接待 遠道而來的鄉親們，#江文登 #蔡孟真 #蔡永富 #林文彬 #顏嘉葦 議員帶領大家特地北上來到立法院參訪，一路上真的辛苦了。看到一張張親切的臉孔，能和大家輕鬆聊聊家鄉的 - facebook.com",
@@ -931,6 +930,11 @@
     {
       "title": "劉建國 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rWXpvWUhKV2VtcGcwaGM4bS1lWkdva3VCQ2gtT1FPR0loM245RWJPQWJ0bjdPcFBDd1M2NWM5eG5yQ0ZLVVh2Z2FBVVM3ZHkyWUY0SnJ4ODJSSWt2c29RRjdOQ0JhQWxHNFJLMHZlMURTRWoyTFJMampBZw",
+      "time": "2026-04-29 12:06:19"
+    },
+    {
+      "title": "劉建國 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNajdFclJsVzhhYXVyUlBvZGQ1b0pxbUxmbmZZQUxBYTR1WlFoUlVyNUxjMWh6UEotbEhXMHNrb1hhVzRDR0xORHJ2RDh6aFVMbzYwMEZ5VVhlVkNGeVVaZmFPSEJkbzBWYTc5OU9yQTdSWC11dm5fd3A2SThvWEs3MFFOMkhieThqTGRMNkhlN01DM1lFMTFuMEYyeDVvUQ",
       "time": "2026-04-29 12:06:19"
     },
     {
@@ -977,19 +981,14 @@
       "title": "感謝立委劉建國率領水保署署長蒞臨傾聽 社區居民需求未來目標規劃於雷厝入庄 意境大門，土地公廟休閒規劃，集會所親子遊樂設施等等！ - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMinwZBVV95cUxNb3dYeVQ2Q0VmSWh6NUk4VU9QZ2J2b0ZnR3l6M3p2Q192VVUzZ0xVbUpYZjhSc0dfQ2R3OWdiemlLMTZfX3VTMEpQZUpLQ3l5cUQyTFJ4cHc0V2xZWUszaENKRXdXMEFfZzdreXlWMlFoYktDLVQ4b1NSUWVYQzB2UXdtWm5BQ1RvSjRVZkpzQ2RCYTFSdkttRWtIdy1CRXlWcy04Wmp2d0ZaeVd1VmkzOFZfeHFEN0FDTEY5NlFIaHhCeGVzcVZjZUtRSk5LMl9GU2ZkLXY2RU5MTFJRRldvUENtemI4NTJHa1pOSkhhZ3Y1NFI2QjRTN2t6TTlLZWVyWkxYb0ZCcHliUkhpaGpiSDNUcEt3QWh1TTZwRGxxQ2RKU292R0dSNHQtTUdaTVNtenlrZ3RmdkJlN25fRHRrTEQtY0h1aHFZZUhFWWpDS3BTM20wWXcwMUxpTXR6VUl5bkRGWERJdmFNMnZvRDRXX1JQdVRMMmNTbk14MV8wMkY0dS03TjMtSjlnWlM5Zmw4c2lMMW5yNUxOZnlpV0lHN1V4MDNCa1pCQ19LcVRTbEhjbzZRSnZiUXJfeUo0UFd2dUZMVzlsODc0QXg0Z19XRnhOTzlGZWg0YnNFZFhOczRpNnNxcTN1cEVSYWNYd002OUVPLTliMXd0VWt5ZlAtMWVGMV9TQXNDV0VxdzhLZEw0Yy1Neko1N3lyRXZ6RlNmY2VKVVR2TmRPNjM2Z2VjbmJsbmtJZXZJcXdoVElnMVNESlV6WlJzbzBJM1A1SW1IWTU2MmZCeFFrajl2NlpWX2I0VDJ3Um5CdWs1ZWp4UGlPX0ZPdUlLVjZoX2twRGt2aUo1TTBQaDBwbEZGUGpxa010WVFNN19kbGctZ0NpWXVWb2tzd0RuSEktZTM2c1UtTHNkd0pkZ2xOYnZtbWNuRGp0MHcwY0w1TzRtUWt3cU1HcGY3bE5fdFVjaW9YOVM2SGs2ajlxNloyc1VoNDlxSUIwVU5QX0RuY3N4ZUxBa0NLbU9YbVVESWZ4b3lpX2hNekFEVXJ5QmhLODNsMFRz",
       "time": "2026-04-27 19:29:49"
-    },
-    {
-      "title": "斗六人期望30年的斗六市區鐵路立體化計畫，雲林縣長張麗善今天（27日）率縣府團隊北上出席交通部審查會議，長期關心此案的立委張嘉郡也親赴交通部，在審查會前再次表達斗六人的訴求。 #斗六 #雲林 #張嘉郡 #國民黨 #交通部 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMigghBVV95cUxPVHp2UUVWRVRqd3hIcUtGWlJLYXRpQTl5ZnpjZmQ0cExfVVBTNFFKbkg5M3JsUTAtOTVHSFR1eUl2NTZydTEtTmw0Ui1nNERZSFRpVXBYYWpyZkVVX1hqNm9halJJak5lRzQwZm44RHBVS1lwZUw1cUFMUDlrQkhBNlgzY2MtNVRWakUyZ3A0bXk3SzhSM3lDYmkzcjQzSE5nTHAzY2FnT0d1emdaS3VaZ3VWdk5tbTdYdUhxQTMybGtiT1FtLU9XclRteEE2QUIzVXhpMHNoa2x0Ulp3OHVXMkFpekZjMkdPNXZyRWVrRlZ6QUFER3M3ZGZEMmpOd2d1Ql9ad1pHM3FsNWtzbVB4QmlkNHJrNmU4WFN6azJqeVZvR1NhcDFfdENfaktvS2hmai0zSHI3ZVJHVEF2blJHZDRPLUVXRHZJQTFqVDI5Z3d3TjJ1WHAtYURFVlpUclkxdnQ4dEN4S3R0ZC1ERWxCcUZRNkU0OWZtTGFjUUNLVjZJekVNME4xUC1KLUw2UEFxOVBjTnJ2aXpMSUdqajJyQ3UtV1RpZHppVjYtVVQ5cjN1eWFSZmpiTlZFcF9FSExqR2I0eG1FaURFNWdrMzJkcU5nTFNJNjlQb29ybXlCYkZSYkUwN0pjb1VzT2pPWmoxRGV2cmFTakdWQXpaZXFUeFNsdzN3RXRsYWdFUFhnN2x3dUdDdXpwQUNxc3l3cTl4RGlubngzSkE3d05jcXJGQXBadlY4VEpPQmlQVzlQR0E5N3BBLU5mbVpNbi04TmJmX2IyVUIxOGtyN3ZXTlVNZm5CTVNHZnJwZUsxdkhmRWVzejVZVTNRbUlmVkVEVFl3cC1Vb3NETTAtX2MtUGJ0MlRPNHJ5N2ZFek5McmlYVXJtWVBDYXJhWmtrdklwdjMzYTdLUjJCRWlOOGpIUUZEdThuZVJlV0l1U1hpMlZ0cjgzOXFoNWVoa1d5dkc4WHJUZlBhRGp5N0xDeXFidXBKeG1kT05nVjFBckhLZHh2V0Z0VjdOUTVnUno0b0k2emc0RzZ0a1daSjJoSGRQM0tHcWt6amdzQmlybTdsOVkwYkFlT0s5bEgtZ0gzSGVzdHF5eDJQLUZCQkFLQ2pzQ0U4WkRrd2t2S3RENVFiNmFTUlVGaEpseFF1Zi1heENnbEh1c1F6UmtRMTRadUc2SjgwYkpISHNSb3pRakxGc3gzRHZ5QjNGZmUtNEl0Sjk4dWdEeHBZeHd5QzJQVW1SZktfRHVVZG1FUGJuMHQwbldBN0U5WjRRelA3SnJtN0dXdlRKeUlpU1lXX2d1d2ZKWnY5M1pjek91ZkFxZ0ZkV1A2Vm5GRjNJdkRMNGlGTWlqWmtWdnc",
-      "time": "2026-04-27 19:00:45"
-    },
-    {
-      "title": "#斗六鐵路高架化重大進展🚆 #嘉郡親自參加 正式通過可行性研究報告邁入關鍵里程碑✨️ 今天，#斗六鐵路高架化 重要進展，#交通部審查委員會 正式通過可行性研究報告，將報請行政院核定，計畫正式邁入下一階段。 感謝 張麗善 縣長與斗六市長 斗六市長林聖爵 今天 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMimghBVV95cUxOQ2xpMHVkWUVTYlFMNEU3SWtXRWIzejFPaG9OaGoteUw4OUVfVFdKdVNUakdNUEF5MHZNWlk0blc1YzE3ZWIxZFJMdjlxZUxyLTY1clZyZHowcFZnUDFtZFgwVlI5Y0QyQWc3RVh3WmlaVHBrQ0x2dUV3SlJteXp5MDYyWUk1bEhjRGtPMkM0NGd0Qm5Bd3dBS3BKSHRvWU5QaVhWclp0ZV9UdzdHUUd1ZXBXSHVSWXY2UU1UcGNmMkl1alQwQmVVTjYwVzk5MTloVFREVWRUWHNEWktGbFYyZWhyY2FEVWV6dXpuYnRkMTVBblZMa3YxNWZVNWtieDJWbVlSY0hZNGJDLV8xczU0cWt5emt0bXBYRUR3bnZMMDlhal9CNlQ5UW40NWN0T3h3SDM4b2pzSVZxbWdVX3Y2ckpMeDZnM2xnVC1YNlZOUVh0LVhEOFdRU3FSOHp0Wm5mbXJ1dlQ5MlNxOTllOXRJYkxhOWdLSEZSbnduSVNodEhDOHV0ZHdJbGtBaTc5YlNZN1k3V1ZJZXBOb2xKTUJyNlNkUWtpSTNuSmNzN3U0X2prSnhWNzA1RTUtLXBfUTJILTA3ZWRKWjdzVFVaT2pzNXh2blRYWjY3Mm5LZy1XOUJTMlNUQTRsTTh5LU1PNzVfM0dhZnFzQnZXMnJOMDZOSVlEUGFYVkN0VGdUN0NmS2ZBbkVtNVNnRTRXRXBGYXhYalQwb3Q4eTEtSnBpRUdwNFo3Y0NRNWlrZnJsckYyXzU0TU5TZXBGS2EzNVlCOWNIVXdVM3NDSHRUY25EamJuSUFDbThfUG1qWlhRVkYzemlfXzNVUTNOZDBxMXRMV3M1R0FEd01GY2Jncm5fU1RWbkFxZE9kVElDWEZIVWExWTlKSzFJU0lUT0U4U3ItRzJMUUZlR3VBWXBRTjU1THhjRGY4LU1ISXFuQ2I4OXZ3aWthcnVPcE8wME83TnRGN2hYNnRudmVvQnY0WWhKd3lxRExKYnZxTUpiMmZBSGMxTlJsc1gxVGFqdXp2dm9pWkRUMnN1TkR3ZDdvMUNpRHRCMzlnWjVqNE0zSWFKVlp4TFlFQkFZLVRhQWdKRzg0WnlZUHY5R2FBcE9LNnpaV0lqZDFNV2N2U3huRTVsLTVKVkpLX2ZVQXdONmVCR3hOUXkwWjQwUXZ4Z1QxS1h2by1vNFhXeVYyb08tN01IdlFmS2h3QnRZTnpmZnQ2OVVUY0dhNGtROXNmQmlBSjVHZ1E4RWtZY0hpckNiY3hNcm04MmJoYVExTzNIRUtnOWtWYlVQdmRWaVdYNm1uX2J1d2c1VGtrMldMZWlBMTM3RF9oZWFMTWRPbVNnTnhkZjNiVDhvZXF4YTRwNzFrWklVVWFpZnNFbFlWYmdnM0E",
-      "time": "2026-04-27 18:55:29"
     }
   ],
   "latest_news_20": [
+    {
+      "title": "提偏鄉閱讀翻轉計畫 張嘉郡允重建鄭豐喜紀念圖書館 (圖) - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOdWY3YkNwejU2UzdpaXgweWtFQ210MDdfYnN5clo2RlhsT0N4cUNaMUpBNHZON3RUZjJKdnYzUm5QbUpfMjZEVFVwaWlKSmg1cEVzYXlFNTFFUVJhdlN0WEw4SjZORnpSSFRMZE41UFRjdnYtTXk5SElPRE1yTTBHaFVaQlN3eGJTYjJNVWRWcUc2MXhzTVUxLVVwdTVyWmtkSDlyaTZqQWFHYlNyTXZleVRCLXBBQ3hKRkpOSXF2Q2NrQzNPY1BDZEczUUtkWnRRTmxGWTZjV1c0TGFXMkpodDJyc05FQVhONTFKT21PMS1DUzlGUUduNHF5cjVRUUhOcTE4SEdVd05fS21JbW1KRFk3OVF2M2EyUXdsMWUzN2FDb01OTmFPS3VvWml1NVdQb0lWbmI4ZFQwc09tR3R3cXBGX2RLWnFnV1dOZElwbnJyYUJkR1lxbFdWUGI5dWk0cHpkQnU3dVc0bGl2THJaSWJTZGhUdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-04-30 15:28:01"
+    },
     {
       "title": "【2026藍點將】張嘉郡透露「很多支持者是民進黨」：綠委也讚自己太認真 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPdFdCUjdVRGNoNDlkejJlcnNLaURHWno5NnhNOEZVVnRoMGEwZU9TOEdjSC1UZzV1enJCVXhrQjNjNXZoWUtOVlA2ZUVFY0RoNldRVzFHbVhzdzd0QnlCUVVFa1ZHTjIzbXl3Nk1ZMmpmXzBjWUZDU0VPWnpOSU91R0JlY3V5aGlFNzhvTU50Q3h0WS1pX050WjNtRXppVFVWMXVJU05UczBDd2JOODFhYTNXbElFbW1La0RpWDFuOVhmRHVXSDhFcUFWUVViT3VPNnhNNU1SdW9DRHR5MmsydldSZm9PZ3JadzVfOWpXMVJEbUdqMjJGaF9SV1JWTXpVWDliYkpfZThFR0djcHNwbFd1ZEI4czJxNm9oalBqZ1V6OWVvdDNlUWNZaGlDVzNiREpsbmxBUlFFZzdTSFJEYUpTX2JUSTBmcEhKaTNZeGMzWWVvUjFXZTBPd2dVaFV2TGhzYjQzMmRWVE11Qm1MaHkwZ0ZMMm9NVVRUQnF1M3ltSm42YTRFMWpNMGN2Y19iWmY1UA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1084,11 +1083,6 @@
       "title": "美國花生零關稅衝擊雲林農民 張嘉郡批農業部「滅農政策」 - 藍雀新傳媒",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44alB4WmJ2aHN5ZTFXa1ZldVFpcmFNNFlQV0JiVWIyNHZOVzFWQllfRkg3YzVobEdHQWlCTkI5MmZuSlBQYnhxZWpVdzZXM0MtdDRJLUpn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-04-29 16:26:33"
-    },
-    {
-      "title": "美國花生零關稅進口衝擊本土 張嘉郡：農業部不能只在辦公室說風涼話 - 上報Up Media",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wR1VsVWFLb1dLbHR2NTdJUFJrdDVfaG91RTFUSElhd3hiaVc4X2NWZUVEWnhkM3lEVDNkQWx1V3JadXRmUEdEdWJJc092aF81ajAtMi1MMFNHSDg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-04-29 16:22:00"
     }
   ],
   "person_sections": {
@@ -1197,6 +1191,11 @@
       ],
       "news": [
         {
+          "title": "提偏鄉閱讀翻轉計畫 張嘉郡允重建鄭豐喜紀念圖書館 (圖) - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOdWY3YkNwejU2UzdpaXgweWtFQ210MDdfYnN5clo2RlhsT0N4cUNaMUpBNHZON3RUZjJKdnYzUm5QbUpfMjZEVFVwaWlKSmg1cEVzYXlFNTFFUVJhdlN0WEw4SjZORnpSSFRMZE41UFRjdnYtTXk5SElPRE1yTTBHaFVaQlN3eGJTYjJNVWRWcUc2MXhzTVUxLVVwdTVyWmtkSDlyaTZqQWFHYlNyTXZleVRCLXBBQ3hKRkpOSXF2Q2NrQzNPY1BDZEczUUtkWnRRTmxGWTZjV1c0TGFXMkpodDJyc05FQVhONTFKT21PMS1DUzlGUUduNHF5cjVRUUhOcTE4SEdVd05fS21JbW1KRFk3OVF2M2EyUXdsMWUzN2FDb01OTmFPS3VvWml1NVdQb0lWbmI4ZFQwc09tR3R3cXBGX2RLWnFnV1dOZElwbnJyYUJkR1lxbFdWUGI5dWk0cHpkQnU3dVc0bGl2THJaSWJTZGhUdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-04-30 15:28:01"
+        },
+        {
           "title": "【2026藍點將】張嘉郡透露「很多支持者是民進黨」：綠委也讚自己太認真 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPdFdCUjdVRGNoNDlkejJlcnNLaURHWno5NnhNOEZVVnRoMGEwZU9TOEdjSC1UZzV1enJCVXhrQjNjNXZoWUtOVlA2ZUVFY0RoNldRVzFHbVhzdzd0QnlCUVVFa1ZHTjIzbXl3Nk1ZMmpmXzBjWUZDU0VPWnpOSU91R0JlY3V5aGlFNzhvTU50Q3h0WS1pX050WjNtRXppVFVWMXVJU05UczBDd2JOODFhYTNXbElFbW1La0RpWDFuOVhmRHVXSDhFcUFWUVViT3VPNnhNNU1SdW9DRHR5MmsydldSZm9PZ3JadzVfOWpXMVJEbUdqMjJGaF9SV1JWTXpVWDliYkpfZThFR0djcHNwbFd1ZEI4czJxNm9oalBqZ1V6OWVvdDNlUWNZaGlDVzNiREpsbmxBUlFFZzdTSFJEYUpTX2JUSTBmcEhKaTNZeGMzWWVvUjFXZTBPd2dVaFV2TGhzYjQzMmRWVE11Qm1MaHkwZ0ZMMm9NVVRUQnF1M3ltSm42YTRFMWpNMGN2Y19iWmY1UA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-30 11:17:33"
@@ -1290,11 +1289,6 @@
           "title": "美國零關稅花生恐「混充」本土產？ 張嘉郡出手為農民請命！ - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPZHVmVlMxWGwzUGpmZEtnVTVJdkgyMTMzTmJuLWV2eHliaEVKdGQ3ZjVadW40SHlWM21GRlpuOHppLWJ3Tlo5cFNtN2RvbXI5SW1rQmlremdJc0h0WWc2a3FKUTV0TW5VcC04eFhIUHk1QTJUNHFrZTBhRGwxUkl3N0dka3ZPWGFSMnh1OUxoQ1lvQVk2blA0NmZkNGViczQteDYxUjhsZUdLbWZkaTRrVlFTVGRWRzhTYkxNeEw3SXlSRTB5VUxmSjJTTU40NzNIWmJZeGZBNFJuQzlDRmgyVW90U19JV0dfUmUwOTE5cThOWE94YzF1RUF3SklzaERMZ3dPbnVkUU1hUjYzcDViTDhMTnpqSlU3ak9iRXFyUUw3OHNrY2s4UlpMU3VTX29ab19QMWFOUlNKMkN5bFhwR2NfVnZmSWxKN2JXZ2xvbWZGQkYxU2pERzJRcjB0V1VuMm1iT0pQaVhVMWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-29 15:21:39"
-        },
-        {
-          "title": "美國花生零關稅衝擊雲林農民 張嘉郡：農業部不能坐在冷氣房說風涼話 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNUDhOTThDZjhENWE0YUhzSE04SDl1eWtjQ2tYdTYyZnNGQ1MtQmpXc0lVQnZhVVYxNzBOWk1ZajlkZWtPWDlqRkw5Q2NUaENmci1UajBSV1lPZnpJYTFsSm51WktYS2JhNGdSUlBaX2NJVEprRXBYSXhSdHZyS3c2dWZuWWwzRUV5VllQN1JtVUVLNnB0c056NDM3U2RORUtWMHNkS25fUU1ZVTQwS096NGo2eEtVOGtXeGpVaTYzdk9TLUdhMVpiaktpQ19oblFRRjlvZVNHejF2ZV8zb05RWlZqaWJHSGRsYXpvNks5UjB0ZjIzZU1fckNSYkdlVnhyYmpfLTVfVGgxeTc5OHFid3lTekpMZUNxYlBQRlRYQ3ROaDY0T0tKY2wteWViTkpzcy1rUlA4YnhFNE9FWlBmclotYW9IMUZpb1V4TjJCeGptZGQtZGFXNE9wMWRYMjlvTGdJQ05RRndoR0lyU0t0V2IzdU9MZGctR0dEc3RZMnVja3M2Z2VzTjJkNXFSSGtHdU1XTUNqRlJUXzUyQVVVaDZ4MXVUS1pudTIyUXcyX2RTOFpGbjNpSk5TVU1Cdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-29 14:27:00"
         }
       ]
     },
@@ -1303,6 +1297,11 @@
         {
           "title": "劉建國 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rWXpvWUhKV2VtcGcwaGM4bS1lWkdva3VCQ2gtT1FPR0loM245RWJPQWJ0bjdPcFBDd1M2NWM5eG5yQ0ZLVVh2Z2FBVVM3ZHkyWUY0SnJ4ODJSSWt2c29RRjdOQ0JhQWxHNFJLMHZlMURTRWoyTFJMampBZw",
+          "time": "2026-04-29 12:06:19"
+        },
+        {
+          "title": "劉建國 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNajdFclJsVzhhYXVyUlBvZGQ1b0pxbUxmbmZZQUxBYTR1WlFoUlVyNUxjMWh6UEotbEhXMHNrb1hhVzRDR0xORHJ2RDh6aFVMbzYwMEZ5VVhlVkNGeVVaZmFPSEJkbzBWYTc5OU9yQTdSWC11dm5fd3A2SThvWEs3MFFOMkhieThqTGRMNkhlN01DM1lFMTFuMEYyeDVvUQ",
           "time": "2026-04-29 12:06:19"
         },
         {
@@ -1394,11 +1393,6 @@
           "title": "為強化雲林縣整體城鄉環境品質並提升防洪排水能力，#立法委員劉建國 邀請內政部次長董建宏南下雲林，針對 #西螺、#虎尾 及 #北港 等地共五項計畫，總經費4.16億進行實地會勘。 . 本次會勘，董建宏次長承諾全力支持，後續會要求加速計畫核定與經費到位，中央與地 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMi3AdBVV95cUxOeTJzd2pBdC1BUUlvN09vR2hscWhiamJPOUFKVDZWakt0WTZMaUVCM2tWb0t3UktsSVZPZE5kWXE0dEpFcTFKNEZETVIya0ZDR3c4NVZiLU5OQ0pJLWFZQkpIVUMxdi1HQkF3Q2pTRERPVDF3VHZYeTdQRGVQWlVuaVJoaGVUUVpCYXYyRUNQWk9fd2JvUE92d1hyT1FwdVZ1S0o2YV8xU0h0LTMydzZ6TlBXTFkzVW1OeUpCYWNzbHFMRVExZzUzX1kzNFAzbUdmWTNFLWtoWGd1ZE01cFVxODE3dTlqZE5qN0Vhb1JQWTNYdXAyZXk5UmZ5NDgxOHc5ZkxVdlhpSzc3ZUxaUjR5eEpleGFORzVsRS13VjFXLW9kWDlTVHZIMmtQY21CTTdkNl9TX1dITXdXNjk5NDd0clk0eW1PWE5Kem1FOWlTUjN0UjRwNUxSRVI2UjBMdmpYTlY1MFBNLXg1ak42Vm0tVV92aWItd1MySi04MThITUJrNzIxdTNOeExqQUwyOEFnS29fNFA2dnNrNkYxSzBCamRMclhZNjNQb3RpS0E3SExZbGcyOGh5RWZmWm5CY3luTFh5Uml4WG0zZEtzZDBqMDVSd3M3djJFcmxFdzVPUEZWWktrNVVmRzZxU2pXRGkxSDVmMTQxekhkUjdKSGZ1cmtlck5hVEN1SzR5RlotU2xtYktQY09waVVOaVoybWs4am1VMUxUVVVmMTBtWThENWl4RmcxQnhYUmRNaWVPVUk2T1hwbE55Y0laV04tNHBRdG9UTUZTcGxXZzByRkxOY1lUYk9iVWpnLXZWd3M3bGc0MzRkdmNPdTA0R0t3Z2x2Wl9yRmdWcDBBQ21VYU8zc3F5M0dOWTlYUG1rMlhqZjd1WGwwZDI0Qi04RERKcEdhczdJb2FmNnVmUml3TklxcExhZmdFX1gwYm0zMlp6RWk1c1hza29xbGRIU1k2N2RBZHNUaFA3cXJPa1hiY3c3T3FZdXBqeDlLQUtudDZ2VmpvSHNkN1pBNG5QWjFnTW4tU2N2WUxBSEgxbk56RkttRy1fZjJ3QmllallLTTFBd2xYelRKb09NX081RFprSWpJcWRHT0RTR0FabXdPdWotaXU2UmJDVjBDU01FU1BYOWNFbEltc3lGVERzVUxtMnZuX3h3VWtncTFuYWFybTRyakp2SUY1MkJHNVdzb0gwWWQ0T0RjbWdXZUFaS0RnT3pFU01jNGJFYWpVX3otM3RMVFNDcThKcTh6d0Jqc1ZZQXdIY0hETHViWTNOR2hOVS15YTlNYUw3UmZFWm5U",
           "time": "2026-04-11 18:18:18"
-        },
-        {
-          "title": "劉建國 - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GczBROGl1Z2htYWRHUkpxMWVMVXZnRElvVEF5b2Q1S281QUEzS0NjM0tmdklfRXBwMklpVi16MU9oT0NxUDByWlFta2tEc0RkY05wbjRheUJaVVRlZ010dzZJbXZIVDhDWnVxblpvSE1QYm00MWc",
-          "time": "2026-04-11 17:28:43"
         }
       ],
       "news": [
@@ -1508,6 +1502,11 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "提偏鄉閱讀翻轉計畫 張嘉郡允重建鄭豐喜紀念圖書館 (圖) - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOdWY3YkNwejU2UzdpaXgweWtFQ210MDdfYnN5clo2RlhsT0N4cUNaMUpBNHZON3RUZjJKdnYzUm5QbUpfMjZEVFVwaWlKSmg1cEVzYXlFNTFFUVJhdlN0WEw4SjZORnpSSFRMZE41UFRjdnYtTXk5SElPRE1yTTBHaFVaQlN3eGJTYjJNVWRWcUc2MXhzTVUxLVVwdTVyWmtkSDlyaTZqQWFHYlNyTXZleVRCLXBBQ3hKRkpOSXF2Q2NrQzNPY1BDZEczUUtkWnRRTmxGWTZjV1c0TGFXMkpodDJyc05FQVhONTFKT21PMS1DUzlGUUduNHF5cjVRUUhOcTE4SEdVd05fS21JbW1KRFk3OVF2M2EyUXdsMWUzN2FDb01OTmFPS3VvWml1NVdQb0lWbmI4ZFQwc09tR3R3cXBGX2RLWnFnV1dOZElwbnJyYUJkR1lxbFdWUGI5dWk0cHpkQnU3dVc0bGl2THJaSWJTZGhUdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-30 15:28:01"
+      },
+      {
         "title": "【2026藍點將】張嘉郡透露「很多支持者是民進黨」：綠委也讚自己太認真 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPdFdCUjdVRGNoNDlkejJlcnNLaURHWno5NnhNOEZVVnRoMGEwZU9TOEdjSC1UZzV1enJCVXhrQjNjNXZoWUtOVlA2ZUVFY0RoNldRVzFHbVhzdzd0QnlCUVVFa1ZHTjIzbXl3Nk1ZMmpmXzBjWUZDU0VPWnpOSU91R0JlY3V5aGlFNzhvTU50Q3h0WS1pX050WjNtRXppVFVWMXVJU05UczBDd2JOODFhYTNXbElFbW1La0RpWDFuOVhmRHVXSDhFcUFWUVViT3VPNnhNNU1SdW9DRHR5MmsydldSZm9PZ3JadzVfOWpXMVJEbUdqMjJGaF9SV1JWTXpVWDliYkpfZThFR0djcHNwbFd1ZEI4czJxNm9oalBqZ1V6OWVvdDNlUWNZaGlDVzNiREpsbmxBUlFFZzdTSFJEYUpTX2JUSTBmcEhKaTNZeGMzWWVvUjFXZTBPd2dVaFV2TGhzYjQzMmRWVE11Qm1MaHkwZ0ZMMm9NVVRUQnF1M3ltSm42YTRFMWpNMGN2Y19iWmY1UA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-30 11:17:33"
@@ -1615,19 +1614,14 @@
         "time": "2026-04-29 22:00:14"
       },
       {
+        "title": "#食安與農民不能被犧牲 從 #美豬、#美牛，到 #發芽馬鈴薯，再到現在的 #美國花生零關稅進口，農民承受的壓力也一再累積。 一次次政策調整，大家心裡都有一個疑問： 下一個受到衝擊的農產品，會是什麼？ 雲林花生占全台近九成，美國花生價格卻只有台灣的三分之一 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2EtR09jSkhVenVMTDVVRnAwLXcyUjMzSnFYZkZtSE1LZnlTTFJGWlUxYTR0Njdmd2x0RFNLRkRCUF9wYXY4MFJVY1NnSkJGdl9kTVZKd1VONE93cGI4eUtLSDQ0eV9aaUU0Qi1fcEpiLWlvaWZaMnhpbDZUa3ZqQ3c5SGF3SjRWbTdqQ1p0VkdSZlBzcGFEQ0JUTUp4UQ",
+        "time": "2026-04-29 18:48:43"
+      },
+      {
         "title": "雲林鄉親參訪立法院 今天立法院特別熱鬧，因為充滿了熟悉的家鄉氛圍！🥰 非常開心能接待 遠道而來的鄉親們，#江文登 #蔡孟真 #蔡永富 #林文彬 #顏嘉葦 議員帶領大家特地北上來到立法院參訪，一路上真的辛苦了。看到一張張親切的臉孔，能和大家輕鬆聊聊家鄉的 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi7wdBVV95cUxNbmY5eGFDXzNlYUdycFFCRThYeDl3V2RXenl5ZHczMjllRXdzTVFJOUhGazJ0blB2eWNMMWtNVjhvSm9fbThnLVlsX3laNktXbDgtc2RKV2hqcUlJdlFrWWh5dEdsZldSQ2pmWHZQeDZkbjhYLUpZaGdJS3djSVA2Y1Y4bWt1VWdOdXViYWxfM2FyaVFxQ21vbkt0aFczZnJ2OEI3Y1RxVl9sVFRwc1cxMEpubWwzZ3FNOTdUdGtmeUlFX0wycEljVHpnT19CeVFtMUVsWGZOczNTZW4wdXBzb3h3MXl3Ri00Z1FoOVFJczFKX2tUQWhRWllkV1pCVWpDdnI0b1EzWGpwMkkwd0RGYk1BR3FGREJoLWl6dGpwZWhSdmxWaFVxMWpJUTkySUh6aDNPWFJwMjBsT3RleUgybHF5ZF9TNk9tb0t3LVk2bkdoUlFzRWRIc2dPbmJncUdhdHNtZ1hhenJsb0RZcEc2RTBjRjhvR0M3TXpHdW1lTnlmZFBYbkVySUFFQ25aUzBsbTE3azJhS0RyOU01U2tRWUk5TFM4ZEJsT2dIZEZWSG43VkdmZ3d1TWFZU21hVEZfYXV2N3lmeTRZT0hWMWxqeDRNb0hPYlNjSk5uSTdtTzBDVDcyY0xUVlJiWnpnb3B2SVJKTFpSblVLRzBnekRYM3RxdVRRM0M5WEJydlMxZnREMFNObUhTZUlXSnNzOE0xZ1pDQzRJMlBTQnFfZXItbUdpN0VqcUFGbkt4dVNzeU5SX2pNcXZGQ0NpWkthVUxkUXNjN0M4V2tRSzRKUHIwN1hncGNEZkxEYW53cVV0SHVCQVFyWXg0cWFKbjVnT0lBOVlucEk1S2xTV2RFX1U4dGUyb0ZLTlQwOXFBRmZfUmJVaWxZS1MxT2ZuZUJ0VW1MM0xxXzQ3NHVtaTVSU2xpTkk4VTNTWHlwc2RrdkxQVEdFVTl1cHF4dGlOb2NnaUdXQ09sYXVjdGpwcW9aSEh2c0xvdkxqSURZY2NLbjhUT250WVpocFFodkt0c0NhRzRGSXdHOWZRNEtENURpNmhTRUtzbzJqYU9aNFVDbnQ2aWpXaXFqeTBHRVdnX2pyeDNkbWlkMGxkYnM5V3RmZzRsNnJXYnFSQUFSY2ZEMXNlMk9vcm5WdjdqdWhLZWdMaFkzTUNyVjNPTHdnSE9PWlFRbFlaclJIcVQzZWlyQVVOUWJ6MS1NVTU1dGZfeE9HTFZjTHZLZTFSVlZjejE3SjBKakNaN29BWEJTeS1vV0ZTU3U5cEpFWEdwRm9wZ09Mak9IR3dKa2NmSTZFWlRKZ0JsZ001VzVncnp6cjVzQzdpdw",
         "time": "2026-04-29 18:15:49"
-      },
-      {
-        "title": "雲林縣虎尾鎮公所. 雲林縣虎尾鎮公所 · 原始音訊. ♥️ #民眾的許願 #嘉弘來實現♥️ 🚧【虎尾鎮道路改善工程說明會】🚧 本次針對平和、東仁、公安、德興、中山、新興里辦理道路改善工程說明會。🛣️ #虎尾鎮長林嘉弘 偕同 #虎尾鎮民代表會主席 服務處主任及 #張嘉郡丁 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMigwhBVV95cUxPS0xkX0dBM3Z6S3IwSW9mMG5FUWxmWWhGMUtNemVQbm9Xb3U0X2JuQVRMVW56YkUtbm4zOWRTOTRpbnpENDcyUTJiUzZSc3prVk15WWRKU2hSQkctNXRHZTV2ODgzZnljM2xhaGZCWkVRa1lRbGsxenFlTTJWc3FPV3RyMTZYYm1RVWNiX2JVUkd3aDlvMVFfM0RaRUxzaks5bE92U2FXQnI1S3gyMDVCUWNYc3BKZkhqYnJIcUI4U3NpVXMxdU5FTmNvV0JnVmVpQlV0dG1ZLXczQ0ZJS01ZNFU1MFdmbDU3SExSUkxSaUVrYzdYUlVBQmJNNTdkcXVEMENHRWotc2YtNXZqd2F0V3ZrMjkwc0N6eHFDblRyeG50dHBKc3c2bWpORnFkWXRfemlXaThTb1hHY0gxWGVJZWJENHFtTHdRMUZGMW5qNlpKN09WbTFWb1kyd1VkSFp4bzJFZEU4RUVBdzB5d1hEdERzRDlrSG1XZThodVpvbWh4S19Ibms3U2MxTml4ZHBzRlVCNkVCRkRIajhzZ1lqeTB0WExRc0Q5cmdHMXN0eHZyZkNrZ3NaVHRjc2VfRFlSQ3hMOERTYWZQYjVRMVBOeWVFV0FLXy1ESFRXaV9DMFc2WnJqQjU3OUF1cWhid1R5SHdlX3Q2clVzb3ZIYnVudl9JY1BINXQ2dWpHNWdNeHY4cmV1LUZFT19zcE90MWp0VUxaYi1nVXBGd2ZOYl92YndnZzVlLXBNZ01PU0xuU3N6S0UwZDVHSmNtOXRlRWU0bTc0T3JwMHgybGJsOU9DQ0tzd3Zta0dsM1p3SkI5QXVEeXRvNDBjWllnbm1ST0FMUGxJSGpFYkFORTFPRnhFR185aVhia1BwWDBid190bi1Kb0FDbVo1SmpveWlMYm9WUjdiM2plVVZTVXFNcVR0dmw4ZFktTnBzblNxa2FPZzF0UFVNRU9fZ19UUW1UeUNRamRHYXpHTm96VDgtSGIyQnp3TnN1Y3pCbDZDZXY5clJEcXJabjhMbDhSNmFIck1yaUZ0Y2ZLdGlyS01CaV83aG4yLXEyaTY1YWYxYk5SSHhTMUdDSkxPcXZhMUx2R0RUOWxOZ3ZUdFVrQ1pGMlBwbGdwTWJZQnl1VlpkRVZrZmpfUFVpUDJTRXk0VVNxZTBPRFhQQmM2NU16TkNzOG5RTk42N0dsYmplUjRQUXZDYmJ1UE03WjdNbVF1TklyUk5EbU8tZUFVOHgzZFJWTTl3TFdlUVp0b2xlOVp4YnNpc20xdFhSaEVQek1RSzJUT0V0cG5uSEJfUnlWS2VGdG1jWkgwRWF6TVlBTmRGV0VFODRJZ0xFRUZEX09xVjBJdjNKYzZB",
-        "time": "2026-04-29 15:53:34"
-      },
-      {
-        "title": "♥️ #民眾的許願 #嘉弘來實現♥️ 🚧【虎尾鎮道路改善工程說明會】🚧 本次針對平和、東仁、公安、德興、中山、新興里辦理道路改善工程說明會。🛣️ #虎尾鎮長林嘉弘 偕同 #虎尾鎮民代表會主席 服務處主任及 #張嘉郡丁學忠聯合服務處副主任林書玄 深入了解地方需求， - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxQOV8xZnN5WC16UlFLRlpGUk9jNXcyMnFyNkJ6YmtVMjZaZHJWQWNLZnBBalV3dG9TRHluM2ZLQUROWHlpWnZ5UTdlblRFbXluLS1xZ0xXNW5kMzcyX25BNUtsMHZaM3YxdEhJZ3pyNVJIN2h3dmhKYmRIX1htRmp1THByMG5NYmNCOUpRNGFHREZNVTVDMG82WG1wVGljemJpbVppMkgzWEJ5YlFjRXhJMkU1dGNwb1NWdER5bVZyNjVCeTh5WUpUWFZseDZBUzg1ZUQ1ZlVzVzNIeEpKclhaUlVxcDVZT2N5bE5PcFloZ1JMQ2UwTmV5U2xtSmhCZVhKS3VTN2pnTmVEYzhrYUhXZGFITlRUVElYVjBPczFNQTgydjdsTTNGVW9xNkdQZmR1d056d3Z4c0lzdFM2Y2kzR3pOYm1IZ3VxUmEwRVdvaVRSUUlFd2ZLOUF0bUtob2Q5QnMwcmRkZ1BvbGNqRmxfQ3kzdy1jOTFPb0VhUDRMbVUzTXpLQ2RRUGtLeHZzdUtwb3VLMFpSTHFyQTZGUlR4VFNhamVMMlBGb2pZT3dSUzQtUjhfU0phTUVFa0xoQUZkTWE0X1pMRlU1UTAwWjNHbGgzSkwwWEt3Q2xIaElrUVJhWG85TS04YzBIZEpYRHZoU2N5MU90bFd2QkRzVE5LRmVYZFowbkUtUm5UZmltS2dadk1reGRuQXdfZkpocGJPTzRDNXR6OF9ldk5TUHRmdUp6S01hWXZQWXgtbTYyQjRSYmRBazNta1JnbHBXNWltTklla1VuVTBpN1lTdDJjU2pVZEpfR2lXUFJMTURtcHNCYm5FLUxZSkpRNnNYREswc1RYWmR6TEZBMWtXck1USndxT05kaC10bkpTMF91b3M5M3F3c1FmcUpDeUE5ZE5haXRTcktQVG0xc0xjcTFGUGFSX3hQeWVoVHZwMXNCVDFtWV9zRGsxSjRVX1M1eWV0a1g2dmdTeElHZGJjNVB2UFphN2FRVFI4bUtJTUYzSnlpQWwzTjJCdk1SdEdqS1JONTMtelJtZFFQcFJZUHRxd0NmczNIRWR6am56Mk5yQjlpa0pEVW1UZzJGLXpVWWVQWmtiMS1UU3htOWtnc1ZzbW9RWUZNbFlIaHdxbC1sUm5sYU5iYldiMHVhMzVfTElOTmxYN2dBZUdwVkptMzBSbkx4emFzS2J3bGN0SWY3LXFmU0Nid010c201dUV5Y09wb1BiS1N5Y1hEcG5xaHVmTk5ia0FQTmd5akdHMzlVQkNsV19EcERwUG81Z1VLbnRmaDBiSURvc1VRZEpPRjM4WXlZMVZMOTlhVVpLcGJiUUo4QQ",
-        "time": "2026-04-29 15:53:34"
       }
     ],
     "youtube": [
@@ -1645,6 +1639,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "提偏鄉閱讀翻轉計畫 張嘉郡允重建鄭豐喜紀念圖書館 (圖) - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOdWY3YkNwejU2UzdpaXgweWtFQ210MDdfYnN5clo2RlhsT0N4cUNaMUpBNHZON3RUZjJKdnYzUm5QbUpfMjZEVFVwaWlKSmg1cEVzYXlFNTFFUVJhdlN0WEw4SjZORnpSSFRMZE41UFRjdnYtTXk5SElPRE1yTTBHaFVaQlN3eGJTYjJNVWRWcUc2MXhzTVUxLVVwdTVyWmtkSDlyaTZqQWFHYlNyTXZleVRCLXBBQ3hKRkpOSXF2Q2NrQzNPY1BDZEczUUtkWnRRTmxGWTZjV1c0TGFXMkpodDJyc05FQVhONTFKT21PMS1DUzlGUUduNHF5cjVRUUhOcTE4SEdVd05fS21JbW1KRFk3OVF2M2EyUXdsMWUzN2FDb01OTmFPS3VvWml1NVdQb0lWbmI4ZFQwc09tR3R3cXBGX2RLWnFnV1dOZElwbnJyYUJkR1lxbFdWUGI5dWk0cHpkQnU3dVc0bGl2THJaSWJTZGhUdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-30 15:28:01"
+      },
       {
         "title": "【2026藍點將】張嘉郡透露「很多支持者是民進黨」：綠委也讚自己太認真 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPdFdCUjdVRGNoNDlkejJlcnNLaURHWno5NnhNOEZVVnRoMGEwZU9TOEdjSC1UZzV1enJCVXhrQjNjNXZoWUtOVlA2ZUVFY0RoNldRVzFHbVhzdzd0QnlCUVVFa1ZHTjIzbXl3Nk1ZMmpmXzBjWUZDU0VPWnpOSU91R0JlY3V5aGlFNzhvTU50Q3h0WS1pX050WjNtRXppVFVWMXVJU05UczBDd2JOODFhYTNXbElFbW1La0RpWDFuOVhmRHVXSDhFcUFWUVViT3VPNnhNNU1SdW9DRHR5MmsydldSZm9PZ3JadzVfOWpXMVJEbUdqMjJGaF9SV1JWTXpVWDliYkpfZThFR0djcHNwbFd1ZEI4czJxNm9oalBqZ1V6OWVvdDNlUWNZaGlDVzNiREpsbmxBUlFFZzdTSFJEYUpTX2JUSTBmcEhKaTNZeGMzWWVvUjFXZTBPd2dVaFV2TGhzYjQzMmRWVE11Qm1MaHkwZ0ZMMm9NVVRUQnF1M3ltSm42YTRFMWpNMGN2Y19iWmY1UA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1839,11 +1838,6 @@
         "title": "美國花生壓境 張嘉郡：運儲恐生黃麴毒素 難道也要逐顆檢驗？ - 聯合新聞網",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyY1VQWkJUc3RhLVE2MU9aaEhVVG5vdFNYanExbjB3WWxtUUdhRWxCMUU1VmM1TFZJR1FpMFZSZWdRUm11YzNHbV9VREhvWjNJcFNF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-29 11:21:56"
-      },
-      {
-        "title": "美國花生壓境配套呢？張嘉郡：運儲恐生黃麴毒素 難道也要逐顆檢驗？ - 聯合新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyY1VQWkJUc3RhLVE2MU9aaEhVVG5vdFNYanExbjB3WWxtUUdhRWxCMUU1VmM1TFZJR1FpMFZSZWdRUm11YzNHbV9VREhvWjNJcFNF0gFYQVVfeXFMTTJFV1paVXpuU05XdUlORU84ckw0anZGVFBZUU1UVTJZbGQ4MnFUSkt5dGNrM1c4aEFScDYwblJ1VF96ZXhPUXZ1MEZQYlRLcXZ6TzU2dlIyOQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-29 11:21:56"
       }
     ],
     "facebook": [
@@ -1851,6 +1845,11 @@
         "title": "美國花生零關稅衝擊雲林農民 張嘉郡：農業部不能坐在冷氣房說風涼話 https://www.ctwant.com/article/479135/ - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNZVVKQkZfbVlfSXNRRUVjNjZpOElIek41WkxaS2ZFaV9fdjVpajVjNG5PZVZaaUpsZ2VCckRWQmVmM1NJREFZRUFReWl4RF8wYkpYYkpZamlqbGE4eTZkTHJ5eDF1WUczZDNxYkVKa0p3bEJkTDVhVGVVY3FQSmhVVjRoN09wa2pMeUVSZ19PTFoyeThJQTVyU2NtVGs5RjR1N3c2NUNva2hFTDV2LXFJYjl6OXpPa185TzRrR2UwXzBOMHEtZVcwUVZTTTdWTVJnczNxVlFDcVpSNVRvN0tsTmtKUzdWYmVncHRvczdNZDFTRmVlTDVlQUFHNGVnUXYwUFY4TEpCMll2VzFyOFpDQWtsUy1OcDIzazVJZ3lrR2RTTTF1UFN6YldiS3pmQi1VbGdXTS1DUzJfRHFDVmtPVndicHhfcVJhYW5RRXdZT3laLV8xY0VrWXBnX2lxS3VjdFVlZHRiQThFSWdHazZTS2NTbnRfaHdBZFZxMWo5NWJ4dTBXOC1FTkNZalg0d2x5d3RicHJIenk1bHlqbDdybUY5dlFqX1FEdjNkMWRtMmhoOEVaWldybGw2WEFESzM0c1hzYlB5WTNnTFlMQkxkUTZtc0k0TkMtM1RpX3d5anJFSXRpZHk5OTF2aTRrTmRIWUZ6ZXR3N1BwQQ",
         "time": "2026-04-29 22:00:14"
+      },
+      {
+        "title": "#食安與農民不能被犧牲 從 #美豬、#美牛，到 #發芽馬鈴薯，再到現在的 #美國花生零關稅進口，農民承受的壓力也一再累積。 一次次政策調整，大家心裡都有一個疑問： 下一個受到衝擊的農產品，會是什麼？ 雲林花生占全台近九成，美國花生價格卻只有台灣的三分之一 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2EtR09jSkhVenVMTDVVRnAwLXcyUjMzSnFYZkZtSE1LZnlTTFJGWlUxYTR0Njdmd2x0RFNLRkRCUF9wYXY4MFJVY1NnSkJGdl9kTVZKd1VONE93cGI4eUtLSDQ0eV9aaUU0Qi1fcEpiLWlvaWZaMnhpbDZUa3ZqQ3c5SGF3SjRWbTdqQ1p0VkdSZlBzcGFEQ0JUTUp4UQ",
+        "time": "2026-04-29 18:48:43"
       },
       {
         "title": "雲林鄉親參訪立法院 今天立法院特別熱鬧，因為充滿了熟悉的家鄉氛圍！🥰 非常開心能接待 遠道而來的鄉親們，#江文登 #蔡孟真 #蔡永富 #林文彬 #顏嘉葦 議員帶領大家特地北上來到立法院參訪，一路上真的辛苦了。看到一張張親切的臉孔，能和大家輕鬆聊聊家鄉的 - facebook.com",
@@ -1890,6 +1889,11 @@
       {
         "title": "劉建國 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rWXpvWUhKV2VtcGcwaGM4bS1lWkdva3VCQ2gtT1FPR0loM245RWJPQWJ0bjdPcFBDd1M2NWM5eG5yQ0ZLVVh2Z2FBVVM3ZHkyWUY0SnJ4ODJSSWt2c29RRjdOQ0JhQWxHNFJLMHZlMURTRWoyTFJMampBZw",
+        "time": "2026-04-29 12:06:19"
+      },
+      {
+        "title": "劉建國 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNajdFclJsVzhhYXVyUlBvZGQ1b0pxbUxmbmZZQUxBYTR1WlFoUlVyNUxjMWh6UEotbEhXMHNrb1hhVzRDR0xORHJ2RDh6aFVMbzYwMEZ5VVhlVkNGeVVaZmFPSEJkbzBWYTc5OU9yQTdSWC11dm5fd3A2SThvWEs3MFFOMkhieThqTGRMNkhlN01DM1lFMTFuMEYyeDVvUQ",
         "time": "2026-04-29 12:06:19"
       },
       {
@@ -2046,6 +2050,13 @@
     "hour": [],
     "day": [
       {
+        "title": "提偏鄉閱讀翻轉計畫 張嘉郡允重建鄭豐喜紀念圖書館 (圖) - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOdWY3YkNwejU2UzdpaXgweWtFQ210MDdfYnN5clo2RlhsT0N4cUNaMUpBNHZON3RUZjJKdnYzUm5QbUpfMjZEVFVwaWlKSmg1cEVzYXlFNTFFUVJhdlN0WEw4SjZORnpSSFRMZE41UFRjdnYtTXk5SElPRE1yTTBHaFVaQlN3eGJTYjJNVWRWcUc2MXhzTVUxLVVwdTVyWmtkSDlyaTZqQWFHYlNyTXZleVRCLXBBQ3hKRkpOSXF2Q2NrQzNPY1BDZEczUUtkWnRRTmxGWTZjV1c0TGFXMkpodDJyc05FQVhONTFKT21PMS1DUzlGUUduNHF5cjVRUUhOcTE4SEdVd05fS21JbW1KRFk3OVF2M2EyUXdsMWUzN2FDb01OTmFPS3VvWml1NVdQb0lWbmI4ZFQwc09tR3R3cXBGX2RLWnFnV1dOZElwbnJyYUJkR1lxbFdWUGI5dWk0cHpkQnU3dVc0bGl2THJaSWJTZGhUdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-04-30 15:28:01",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "【2026藍點將】張嘉郡透露「很多支持者是民進黨」：綠委也讚自己太認真 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPdFdCUjdVRGNoNDlkejJlcnNLaURHWno5NnhNOEZVVnRoMGEwZU9TOEdjSC1UZzV1enJCVXhrQjNjNXZoWUtOVlA2ZUVFY0RoNldRVzFHbVhzdzd0QnlCUVVFa1ZHTjIzbXl3Nk1ZMmpmXzBjWUZDU0VPWnpOSU91R0JlY3V5aGlFNzhvTU50Q3h0WS1pX050WjNtRXppVFVWMXVJU05UczBDd2JOODFhYTNXbElFbW1La0RpWDFuOVhmRHVXSDhFcUFWUVViT3VPNnhNNU1SdW9DRHR5MmsydldSZm9PZ3JadzVfOWpXMVJEbUdqMjJGaF9SV1JWTXpVWDliYkpfZThFR0djcHNwbFd1ZEI4czJxNm9oalBqZ1V6OWVvdDNlUWNZaGlDVzNiREpsbmxBUlFFZzdTSFJEYUpTX2JUSTBmcEhKaTNZeGMzWWVvUjFXZTBPd2dVaFV2TGhzYjQzMmRWVE11Qm1MaHkwZ0ZMMm9NVVRUQnF1M3ltSm42YTRFMWpNMGN2Y19iWmY1UA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-30 11:17:33",
@@ -2116,6 +2127,13 @@
         "risk": "綠"
       },
       {
+        "title": "#食安與農民不能被犧牲 從 #美豬、#美牛，到 #發芽馬鈴薯，再到現在的 #美國花生零關稅進口，農民承受的壓力也一再累積。 一次次政策調整，大家心裡都有一個疑問： 下一個受到衝擊的農產品，會是什麼？ 雲林花生占全台近九成，美國花生價格卻只有台灣的三分之一 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2EtR09jSkhVenVMTDVVRnAwLXcyUjMzSnFYZkZtSE1LZnlTTFJGWlUxYTR0Njdmd2x0RFNLRkRCUF9wYXY4MFJVY1NnSkJGdl9kTVZKd1VONE93cGI4eUtLSDQ0eV9aaUU0Qi1fcEpiLWlvaWZaMnhpbDZUa3ZqQ3c5SGF3SjRWbTdqQ1p0VkdSZlBzcGFEQ0JUTUp4UQ",
+        "time": "2026-04-29 18:48:43",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
         "title": "美國花生零關稅叩關 張嘉郡籲： 農民轉作金提高三倍才能競爭 - MSN",
         "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxOcWhzSEJpbG81YUpQa2VQZVN6Zlg0X0VzdTBkeXQxbm5iaXhXWk5kWjhxbHRNRWFwRDFRUzlyQTktbU9NclhzSUN3amdkNFo4TWF3Y2RwVURqLWNaQmU2VXd0WkdmaGZKRUF1TFVXQjdSTEtJa1FSNHByQzhxVzRhTEN1RV9leE5FUl9HQlBoYks5R01KWk94elBHWTI5Y19MRTFSQVhpaHF5UjhROU5WdV9NVzhKU0VKLUhxbTkwRlAzNjhvdEJXT25XSVhsZmFLeDZ2cFdocVNXUEVEVTItNVRfLW9fdVFLTC04UUJsTTRFV2tUclU4a2dOLWVpUlQ2NEJRNXJ1WkhDVk1PQk9Mbk1rd3ZOdW1sYW1Eakw0UnRLbVlVSjBsNXhXZHJkcjEzRmZwWHJFQkMybTgyZExONVZGdENWRGk0aGE5WDlXaUkxQWNjcF9VLXN2SzZkOUROYWJGVi01c2N5SWlMSzZXZWRwT19kRTQ0WnJMcXdDbFU1RzNVeDhpNTVRQjVIWl9lT0VBTGdIbjdRa012?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-29 18:33:27",
@@ -2170,20 +2188,6 @@
         "time": "2026-04-29 17:47:03",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "斗六鐵路高架化審查原則通過 劉建國：106年啟動關鍵第一步 持續推動儘速核定 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQdS1CUkZ6Z3V5YnlPQ0FaUnFhVjdRRkp4VFdVVHhBMXFteXpDcmFnc0ItdzJjSnY5NDF4Vl9qUlR6c3EwbWFNUlpwQTk4X2EwWG1reW80NjRVNXFCcGg1djhHMkFQMEdBZ3JyVnRkczNTV1M3dHdNcTNIWWM4eklwV2E4a0VkYU4wZEh2NXFPOHRadFhXYzhncHl2cFZJY0dzVjhwTFFfV0RaVE1kR2FyS0FVLWZURW1OMVg4OTNYZ3RSMFJ4YzVFOHk0eFVNMXpFN3JpczBDZHZ6RVRPaWN3aVpRVU9FY2kydG5Dd2ZkMU5kTHNZOHlUbkdfRXQ4SEVKUXk3ZkQ4aS1oeHZmNzQ0aTZDVlI5NFk5RDExWHYtT1Z3eTlESTk1V1R6QjVuZzY2bnI3REItVGpXOHZqX3g3ZHhQcDItWnprNng5Q3JHOU13NUhRNllMaS1NVWhBekNicV9nS05RaW10MkpiRU1JT0h3aDhaRjN3MU15dTljZzZxWHBaLTBXeHNuQTdmZVQxODRoVkN4bXVLM1czRUhuNjFtUnZZaGQ4TW02RzZ3Q0FCUGctN21WYlNJbzFXRjZ2UExRNWF1YlkwZ0d1ZFFnRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-29 17:42:30",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "張嘉郡替花生農發聲籲提高轉作補助、強化產地標示| 政治 - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52VlcwOFZXc2h2MzlNZHJOTVdzbDQtbE83Yml2djVLck1Qa1dfU0xfTW5QOU9IUUx6T09rVVp4SHlmQXZDQVg2eE14Z25QZFBGd2tINkxwTkI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-29 17:00:00",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2196,20 +2200,12 @@
       {
         "name": "斗六",
         "count": 2
-      },
-      {
-        "name": "虎尾",
-        "count": 2
       }
     ],
     "groups": [
       {
         "name": "農業族群",
-        "count": 6
-      },
-      {
-        "name": "交通通勤",
-        "count": 2
+        "count": 7
       }
     ]
   }
