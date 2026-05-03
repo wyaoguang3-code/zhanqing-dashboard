@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-03T13:29:54.404758+00:00",
+  "generated_at": "2026-05-03T13:44:59.510200+00:00",
   "metrics": {
     "total_24h": 6,
-    "prev_24h": 3,
-    "growth_pct": 100.0,
-    "news_24h": 2,
+    "prev_24h": 5,
+    "growth_pct": 20.0,
+    "news_24h": 3,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 218,
+    "total": 220,
     "prev": 165,
-    "growth_pct": 32.12,
-    "news": 171,
+    "growth_pct": 33.33,
+    "news": 173,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,17 +28,17 @@
   "by_platform": [
     {
       "platform": "facebook",
-      "count": 4
+      "count": 3
     },
     {
       "platform": "news",
-      "count": 2
+      "count": 3
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 171
+      "count": 173
     },
     {
       "platform": "facebook",
@@ -51,10 +51,6 @@
   ],
   "by_hour": [
     {
-      "hour": "2026-05-02 21:00",
-      "count": 1
-    },
-    {
       "hour": "2026-05-02 22:00",
       "count": 2
     },
@@ -65,6 +61,10 @@
     {
       "hour": "2026-05-03 19:00",
       "count": 2
+    },
+    {
+      "hour": "2026-05-03 21:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -365,6 +365,10 @@
       "count": 1
     },
     {
+      "hour": "2026-05-02 04:00",
+      "count": 1
+    },
+    {
       "hour": "2026-05-02 06:00",
       "count": 1
     },
@@ -383,69 +387,88 @@
     {
       "hour": "2026-05-03 19:00",
       "count": 2
+    },
+    {
+      "hour": "2026-05-03 21:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
-      "platform": "facebook",
-      "count": 1
+      "platform": "news",
+      "count": 2
     },
     {
-      "platform": "news",
+      "platform": "facebook",
       "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
+        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-03 21:26:08"
+      },
+      {
+        "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPY2VLQ3lGNG1YMjI4dEhvazZrUEZoSkszR0lZWGZpNEd2bUd0RGJhYWQ4QndDTUQyRjd0d2FGQ3paTFJ6M3ZST3ZGVWdyRHZBTUo1NHc1RmthWmNqYTI3WExTcTJqMk1zM0VaYkdBM05ZTjFSYzZJSG9UYW04VlZKQkhNaXF3RzhORkgzU01IXzgzRmlnOVRCLUthNmhXdWFLbkZWVElhNmpDYzNEa0t1Vl96TFN1WnJodTJhOFdvQmY1RWhoWXNyR2lOTi1Zb1BYbU1WZEFLWTVPUmQxZE10ZHJ5UmZuSXlMclZna2M2MFdUQkluQnJtbm1Qc2VJUU55OGpFeFlpRF8yTS1vdVMxbzhiWFpOMjA2QUo5d09BLUhad09TN2luMmNwdVRybWRVNXJXN2tQNjQzOFoyanlDRjBsbTkteFZGMVVOMGNQRzdxRDM2R3kydmdIajdsUzNHaUxBUFg0RTVHS1dIc3I5c1dDaHY3ZXBDaFBjSHotX0VZNDE5X05IRUhxRktxSWpBclk0LUg3S29ldDFsY0YwbDZiQmcwNXZyWlp2OUpBQUlhQnpUaDFoWTRDMXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-02 22:11:00"
+      }
+    ],
     "facebook": [
       {
         "title": "👉更多新聞👉 國家, 醫學, 高齡 好報報導 (劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地) 版權所有 台灣好報 【記者 劉峻文／雲林 報導】台灣正式邁入超高齡社會，為因應人口結構快速老化，在立法委員劉建國長期奔走與強力爭取下，中央投入總經 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi2wdBVV95cUxOaDhVV2U4QnFGOExVUGRhN2h5QUlKNnpJLWtGTjBXejZIMXFPVWFpRWZwQnRtdmU4WW1tbkItdVEySXhyd0hYYTRESF9jeUxnLUpDSDJvT1JwM3piX2NYdmFCeVZuMlRkU3hGTFRRTktMWjdHejFKRks2c21uT3A1ekU3eV9DYXp6eU9FX092N2c2R2ZibVh0b19XZTQ0RHBlb3lUdTF5TmQ0VkgxM3k3dUNJaHlkOEdOZFhhVlF0WFNaWTNnZVg4TlR6YkE1Sl9mLVVQNGNpNGE1alRLZG8xYzlkZFFaUGhobV8wV3djaE1uWHcwVkFROWRpSzdpR3BYN3ZtOUJlZVE3UmVSWFB3RW9SZjh0UFd3SnNqNjhOTEdELVcxbFp4VlZodTZQcW0xMU9iWXZOY2Z1Z01DdElmdEs0eVhkUWZGcTE1QTBlZ05Hc2tSai14cld2cFhOcHpWelp3d1A4Zk44RC1EVkR3bng5TXFaa3BTMzZfazlQLU9OZmg0bWpSdktoRy1Na29DcVdKMlhwLWNKQ0NnUWZtTkE1Mm5RUG1ZbGI4UWNsM1NKU2RrN2o3YTNKOUt0VFJRWlQ4Z1REWjdRSWRoVkRoWWN4YURTdk9FZFJta25oM3d1QnBpd3hXQXpmQmhOeXNhOGdKRDBiaWNiRGVlUUJSZnZLb1VSNXNUWW82a1NkNmZjNkp3X0NIUk9JaWxDZ1Vham1nNjI3N2VtV09GWWpSUGljZWw4cWd2TEc2dWZ2cW9ZZkJuV1Bsa2xEcUo1aU01YnF1aXV4VXBaZE12cHcxR0pWX3ZKN3BMSTVzZnlpRlpxMVRyREdOamxvQVBibWZaTUJfVG1YNjBWemhBU2h2RjhZQUozYkJCZmVXUVVBeGVNZU9Lb1VIQnNGNE1mX0lsLW5DNjZCYjI5bHlMZDUtZmZEOXg1eXdfUmNtTG1WeEZxVkNhQTlLckhGUzk3dV8xbHBKc3QzS1NDZm8zanp5RVNLTlIzejJFalllR0JmX05JX3VIa0xOTk9GTWdWNWxiNG9nSU8tVGtVUXVlbnhBN0FDSXAyRFZRaElaV25TRWdyb25OcjV5dlJPZ1dzRDBXdE45MEotOUtNU3A0Y2FYejU2dlRQdS1ZQ2JMel9nRnhYSUdhb01kb1pndTB2bFdoTE5XczdReWUzRzZQS3RkYXlXTnlvRXFibmdfTXJJbjg4cEc5NGsxQnJ6OWQ5ZDlSX0pmSFA1NmxjWVc4RUdKMWY1Q25xSlVHR21WZUFNLWxtTV95VUlILTZDbTEtZU10NUJKZWxkZ192YUk",
         "time": "2026-05-02 22:11:08"
-      }
-    ],
-    "news": [
-      {
-        "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPY2VLQ3lGNG1YMjI4dEhvazZrUEZoSkszR0lZWGZpNEd2bUd0RGJhYWQ4QndDTUQyRjd0d2FGQ3paTFJ6M3ZST3ZGVWdyRHZBTUo1NHc1RmthWmNqYTI3WExTcTJqMk1zM0VaYkdBM05ZTjFSYzZJSG9UYW04VlZKQkhNaXF3RzhORkgzU01IXzgzRmlnOVRCLUthNmhXdWFLbkZWVElhNmpDYzNEa0t1Vl96TFN1WnJodTJhOFdvQmY1RWhoWXNyR2lOTi1Zb1BYbU1WZEFLWTVPUmQxZE10ZHJ5UmZuSXlMclZna2M2MFdUQkluQnJtbm1Qc2VJUU55OGpFeFlpRF8yTS1vdVMxbzhiWFpOMjA2QUo5d09BLUhad09TN2luMmNwdVRybWRVNXJXN2tQNjQzOFoyanlDRjBsbTkteFZGMVVOMGNQRzdxRDM2R3kydmdIajdsUzNHaUxBUFg0RTVHS1dIc3I5c1dDaHY3ZXBDaFBjSHotX0VZNDE5X05IRUhxRktxSWpBclk0LUg3S29ldDFsY0YwbDZiQmcwNXZyWlp2OUpBQUlhQnpUaDFoWTRDMXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-02 22:11:00"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
-      "platform": "facebook",
-      "count": 1
+      "platform": "news",
+      "count": 2
     },
     {
-      "platform": "news",
+      "platform": "facebook",
       "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
+        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-03 21:26:08"
+      },
+      {
+        "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPY2VLQ3lGNG1YMjI4dEhvazZrUEZoSkszR0lZWGZpNEd2bUd0RGJhYWQ4QndDTUQyRjd0d2FGQ3paTFJ6M3ZST3ZGVWdyRHZBTUo1NHc1RmthWmNqYTI3WExTcTJqMk1zM0VaYkdBM05ZTjFSYzZJSG9UYW04VlZKQkhNaXF3RzhORkgzU01IXzgzRmlnOVRCLUthNmhXdWFLbkZWVElhNmpDYzNEa0t1Vl96TFN1WnJodTJhOFdvQmY1RWhoWXNyR2lOTi1Zb1BYbU1WZEFLWTVPUmQxZE10ZHJ5UmZuSXlMclZna2M2MFdUQkluQnJtbm1Qc2VJUU55OGpFeFlpRF8yTS1vdVMxbzhiWFpOMjA2QUo5d09BLUhad09TN2luMmNwdVRybWRVNXJXN2tQNjQzOFoyanlDRjBsbTkteFZGMVVOMGNQRzdxRDM2R3kydmdIajdsUzNHaUxBUFg0RTVHS1dIc3I5c1dDaHY3ZXBDaFBjSHotX0VZNDE5X05IRUhxRktxSWpBclk0LUg3S29ldDFsY0YwbDZiQmcwNXZyWlp2OUpBQUlhQnpUaDFoWTRDMXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-02 22:11:00"
+      }
+    ],
     "facebook": [
       {
         "title": "👉更多新聞👉 國家, 醫學, 高齡 好報報導 (劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地) 版權所有 台灣好報 【記者 劉峻文／雲林 報導】台灣正式邁入超高齡社會，為因應人口結構快速老化，在立法委員劉建國長期奔走與強力爭取下，中央投入總經 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi2wdBVV95cUxOaDhVV2U4QnFGOExVUGRhN2h5QUlKNnpJLWtGTjBXejZIMXFPVWFpRWZwQnRtdmU4WW1tbkItdVEySXhyd0hYYTRESF9jeUxnLUpDSDJvT1JwM3piX2NYdmFCeVZuMlRkU3hGTFRRTktMWjdHejFKRks2c21uT3A1ekU3eV9DYXp6eU9FX092N2c2R2ZibVh0b19XZTQ0RHBlb3lUdTF5TmQ0VkgxM3k3dUNJaHlkOEdOZFhhVlF0WFNaWTNnZVg4TlR6YkE1Sl9mLVVQNGNpNGE1alRLZG8xYzlkZFFaUGhobV8wV3djaE1uWHcwVkFROWRpSzdpR3BYN3ZtOUJlZVE3UmVSWFB3RW9SZjh0UFd3SnNqNjhOTEdELVcxbFp4VlZodTZQcW0xMU9iWXZOY2Z1Z01DdElmdEs0eVhkUWZGcTE1QTBlZ05Hc2tSai14cld2cFhOcHpWelp3d1A4Zk44RC1EVkR3bng5TXFaa3BTMzZfazlQLU9OZmg0bWpSdktoRy1Na29DcVdKMlhwLWNKQ0NnUWZtTkE1Mm5RUG1ZbGI4UWNsM1NKU2RrN2o3YTNKOUt0VFJRWlQ4Z1REWjdRSWRoVkRoWWN4YURTdk9FZFJta25oM3d1QnBpd3hXQXpmQmhOeXNhOGdKRDBiaWNiRGVlUUJSZnZLb1VSNXNUWW82a1NkNmZjNkp3X0NIUk9JaWxDZ1Vham1nNjI3N2VtV09GWWpSUGljZWw4cWd2TEc2dWZ2cW9ZZkJuV1Bsa2xEcUo1aU01YnF1aXV4VXBaZE12cHcxR0pWX3ZKN3BMSTVzZnlpRlpxMVRyREdOamxvQVBibWZaTUJfVG1YNjBWemhBU2h2RjhZQUozYkJCZmVXUVVBeGVNZU9Lb1VIQnNGNE1mX0lsLW5DNjZCYjI5bHlMZDUtZmZEOXg1eXdfUmNtTG1WeEZxVkNhQTlLckhGUzk3dV8xbHBKc3QzS1NDZm8zanp5RVNLTlIzejJFalllR0JmX05JX3VIa0xOTk9GTWdWNWxiNG9nSU8tVGtVUXVlbnhBN0FDSXAyRFZRaElaV25TRWdyb25OcjV5dlJPZ1dzRDBXdE45MEotOUtNU3A0Y2FYejU2dlRQdS1ZQ2JMel9nRnhYSUdhb01kb1pndTB2bFdoTE5XczdReWUzRzZQS3RkYXlXTnlvRXFibmdfTXJJbjg4cEc5NGsxQnJ6OWQ5ZDlSX0pmSFA1NmxjWVc4RUdKMWY1Q25xSlVHR21WZUFNLWxtTV95VUlILTZDbTEtZU10NUJKZWxkZ192YUk",
         "time": "2026-05-02 22:11:08"
       }
-    ],
-    "news": [
-      {
-        "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPY2VLQ3lGNG1YMjI4dEhvazZrUEZoSkszR0lZWGZpNEd2bUd0RGJhYWQ4QndDTUQyRjd0d2FGQ3paTFJ6M3ZST3ZGVWdyRHZBTUo1NHc1RmthWmNqYTI3WExTcTJqMk1zM0VaYkdBM05ZTjFSYzZJSG9UYW04VlZKQkhNaXF3RzhORkgzU01IXzgzRmlnOVRCLUthNmhXdWFLbkZWVElhNmpDYzNEa0t1Vl96TFN1WnJodTJhOFdvQmY1RWhoWXNyR2lOTi1Zb1BYbU1WZEFLWTVPUmQxZE10ZHJ5UmZuSXlMclZna2M2MFdUQkluQnJtbm1Qc2VJUU55OGpFeFlpRF8yTS1vdVMxbzhiWFpOMjA2QUo5d09BLUhad09TN2luMmNwdVRybWRVNXJXN2tQNjQzOFoyanlDRjBsbTkteFZGMVVOMGNQRzdxRDM2R3kydmdIajdsUzNHaUxBUFg0RTVHS1dIc3I5c1dDaHY3ZXBDaFBjSHotX0VZNDE5X05IRUhxRktxSWpBclk0LUg3S29ldDFsY0YwbDZiQmcwNXZyWlp2OUpBQUlhQnpUaDFoWTRDMXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-02 22:11:00"
-      }
     ]
   },
   "mention_compare_24h": {
     "張嘉郡": 0,
-    "劉建國": 2
+    "劉建國": 3
   },
   "mention_compare_7d": {
     "張嘉郡": 140,
-    "劉建國": 59
+    "劉建國": 61
   },
   "top_news": [
+    {
+      "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-03 21:26:08"
+    },
     {
       "title": "丁學忠徒步掃街懇託： 出來投票中止惡質循環 - MSN",
       "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxORzRfdjBub0twSkFuWFBwZ21VR1ZuN05DczVfTmRqclZncTdCelkxQkFBRjVUdmZrb2Fuc2NYR2taMXF3Zm1CQ0xGM3JlbURHV1poWTZfQ3pnNVRiNllMYzh6WUE4N2xPY2tNVEpOMGwwaGFpc2k4MDVmcUZ3cktzdmFHZ2JrRFF3WlhkdTNPSFJLNmg1am1WdjlCbndWQzN1Y2xvMFoyUlpwTmY2MDJlWlRlbzFVcENmTkJGcGNuc2Zva1dqM05ZaUE5MVJkX3NmazRLSnlIc3BNM1V1OHdlSVhzWThOZ2xrdldDYXdkRE5VbFJuMmhidkhXSFZWYUM1RTZrTVhCdGtKM0gxbE1rcVkwS2xnR2FubzhMcG9sRHVRTjBqQWJ6WTlwem9BTUlmSmo5bU93aHlZaW5sVGVMV1JnQm5HQlRDOFVRTFFxTmgwc3dNaHJ5akFneHJVN2RBV1RvWGJCV2NoYkhOSDZxaG9sMEYzTWROVkNMbkI0a2dZRTlieDhjZllHYlhLeWZyX0VTUVJIUEZ6RC1maHRvRGJBRHpDUDFNczhfQUNETmczOEdKSi1zYzJVbW5BaTBwcmdadkl6aGhTRWRMdEZpMHhxcGVxcmJEdWtxZll3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -458,6 +481,11 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-03 21:26:08"
+    },
     {
       "title": "丁學忠徒步掃街懇託： 出來投票中止惡質循環 - MSN",
       "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxORzRfdjBub0twSkFuWFBwZ21VR1ZuN05DczVfTmRqclZncTdCelkxQkFBRjVUdmZrb2Fuc2NYR2taMXF3Zm1CQ0xGM3JlbURHV1poWTZfQ3pnNVRiNllMYzh6WUE4N2xPY2tNVEpOMGwwaGFpc2k4MDVmcUZ3cktzdmFHZ2JrRFF3WlhkdTNPSFJLNmg1am1WdjlCbndWQzN1Y2xvMFoyUlpwTmY2MDJlWlRlbzFVcENmTkJGcGNuc2Zva1dqM05ZaUE5MVJkX3NmazRLSnlIc3BNM1V1OHdlSVhzWThOZ2xrdldDYXdkRE5VbFJuMmhidkhXSFZWYUM1RTZrTVhCdGtKM0gxbE1rcVkwS2xnR2FubzhMcG9sRHVRTjBqQWJ6WTlwem9BTUlmSmo5bU93aHlZaW5sVGVMV1JnQm5HQlRDOFVRTFFxTmgwc3dNaHJ5akFneHJVN2RBV1RvWGJCV2NoYkhOSDZxaG9sMEYzTWROVkNMbkI0a2dZRTlieDhjZllHYlhLeWZyX0VTUVJIUEZ6RC1maHRvRGJBRHpDUDFNczhfQUNETmczOEdKSi1zYzJVbW5BaTBwcmdadkl6aGhTRWRMdEZpMHhxcGVxcmJEdWtxZll3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -472,6 +500,11 @@
       "title": "雲林高齡研究中心啟用 劉建國促成39億重大建設 - 元丰傳媒",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0xBdXlhc3lrX2ZlS0ljUGFMeVBQcUFDZklXN0M3bWxjay1PUVd2SVdkNTVSTzJDWkhHemU4YlpIVmVrbXhING9HSks4ZWlJcU9pLWZNd0JnOGM4VDhlQVplV3R0MDZNQzl2ZENxUmZPYTJxU3hBUnRXSVVqLVV5Uw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-02 06:13:29"
+    },
+    {
+      "title": "全台首座「國家級高齡醫學中心」落腳雲林！賴清德大讚劉建國成關鍵推手 | 民視新聞網 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aV1FoUXpWSGxWcTg4V21QVFFRNDFiWG1nWE1rc3NGTGJ1YmJCVFU1b1N1dVdwYTV3V3NqdDljTlJPRk1fQ3hyMFJudWp5amtmVHNNSXRR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-02 04:18:02"
     },
     {
       "title": "雲林高齡研究中心啟用 劉建國促成39億重大建設 - 元丰傳媒",
@@ -547,16 +580,6 @@
       "title": "「國家高齡醫學中心」落腳雲林 賴總統：劉建國持續幕後推動 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZU1STEZTbmVEdHpoa1NpbmJtQjZwYjl3MmtXV0Y2M3ZpYkswY0VDZDhmaUJhazU4Y2JfdmFOUmZyZXdDR3VMaUNxN21zVDg3dG5lQmFyWUxRSDJNVTdUQUJKSHFOMFA4elUtN0MzaUl2UmVSV0JsRUtjTnRPT1hYdFhaME53QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-01 16:23:00"
-    },
-    {
-      "title": "健康台灣重要基地落腳雲林 劉建國推動國家級高齡研究中心 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNUFVMZGMtYlFJdkdqN3FhVk9SS3MyXzZIZnFwTDVkLVRmQTE2b2RBbURVYnNsaDllZWc1akNGYlE1cU9fQmRsdTdZYlFrOEVneTFuMmMxM2VjYnRWdEFkbklta3J3cHR3NWdpYUc3RUJ4V3czV0ZBOGtBbmhsMEtDWGJZVEVuQ01CN1hyY3lvR3Nzdk1IQzdranotdWJ6V0hYaHpDVGZ1SUVQQ1ZJMkFSZkJLc1RxZmRuZ2N4TXFoM0tvaXdFMm9NRUk5bXdORmFuS2syZGVXS24xaVdGMjF0dFQ1Sms4OHpHQkxsVm5hM1Vta2JweTA0bXRnWC02VVVONjhfTmZuUk9jSm8xZkFxMVIyTXFvZzU0eFVIakxVdnlyUWJucnc4T0lsWVVHMWFlellhNjhzNENOWnJMZGhZWEs2eG8zaFg5UnpmZGM0bTVrb21yMHhUYkh1bkFZank3Z2hFdFVMZ1dkQWduU2dwNEU3UmtROHZkc0w3MnIzb0FFU28taE4zNDFxQ2k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-01 15:07:07"
-    },
-    {
-      "title": "健康台灣重要基地落腳雲林 劉建國推動國家級高齡研究中心 - 匯流新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XNDZNOXNGTG41dUNnZU42Wi1nRDFBRkJzanU3WldFME5RZ0s1T01KY1ltdXNCWGlTRm5KYmNCTThZUzMzQWJ0eERR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-01 14:53:53"
     }
   ],
   "latest_facebook_20": [
@@ -663,6 +686,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-03 21:26:08"
+    },
+    {
       "title": "丁學忠徒步掃街懇託： 出來投票中止惡質循環 - MSN",
       "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxORzRfdjBub0twSkFuWFBwZ21VR1ZuN05DczVfTmRqclZncTdCelkxQkFBRjVUdmZrb2Fuc2NYR2taMXF3Zm1CQ0xGM3JlbURHV1poWTZfQ3pnNVRiNllMYzh6WUE4N2xPY2tNVEpOMGwwaGFpc2k4MDVmcUZ3cktzdmFHZ2JrRFF3WlhkdTNPSFJLNmg1am1WdjlCbndWQzN1Y2xvMFoyUlpwTmY2MDJlWlRlbzFVcENmTkJGcGNuc2Zva1dqM05ZaUE5MVJkX3NmazRLSnlIc3BNM1V1OHdlSVhzWThOZ2xrdldDYXdkRE5VbFJuMmhidkhXSFZWYUM1RTZrTVhCdGtKM0gxbE1rcVkwS2xnR2FubzhMcG9sRHVRTjBqQWJ6WTlwem9BTUlmSmo5bU93aHlZaW5sVGVMV1JnQm5HQlRDOFVRTFFxTmgwc3dNaHJ5akFneHJVN2RBV1RvWGJCV2NoYkhOSDZxaG9sMEYzTWROVkNMbkI0a2dZRTlieDhjZllHYlhLeWZyX0VTUVJIUEZ6RC1maHRvRGJBRHpDUDFNczhfQUNETmczOEdKSi1zYzJVbW5BaTBwcmdadkl6aGhTRWRMdEZpMHhxcGVxcmJEdWtxZll3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-03 03:16:41"
@@ -676,6 +704,11 @@
       "title": "雲林高齡研究中心啟用 劉建國促成39億重大建設 - 元丰傳媒",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0xBdXlhc3lrX2ZlS0ljUGFMeVBQcUFDZklXN0M3bWxjay1PUVd2SVdkNTVSTzJDWkhHemU4YlpIVmVrbXhING9HSks4ZWlJcU9pLWZNd0JnOGM4VDhlQVplV3R0MDZNQzl2ZENxUmZPYTJxU3hBUnRXSVVqLVV5Uw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-02 06:13:29"
+    },
+    {
+      "title": "全台首座「國家級高齡醫學中心」落腳雲林！賴清德大讚劉建國成關鍵推手 | 民視新聞網 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aV1FoUXpWSGxWcTg4V21QVFFRNDFiWG1nWE1rc3NGTGJ1YmJCVFU1b1N1dVdwYTV3V3NqdDljTlJPRk1fQ3hyMFJudWp5amtmVHNNSXRR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-02 04:18:02"
     },
     {
       "title": "雲林高齡研究中心啟用 劉建國促成39億重大建設 - 元丰傳媒",
@@ -751,16 +784,6 @@
       "title": "「國家高齡醫學中心」落腳雲林 賴總統：劉建國持續幕後推動 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZU1STEZTbmVEdHpoa1NpbmJtQjZwYjl3MmtXV0Y2M3ZpYkswY0VDZDhmaUJhazU4Y2JfdmFOUmZyZXdDR3VMaUNxN21zVDg3dG5lQmFyWUxRSDJNVTdUQUJKSHFOMFA4elUtN0MzaUl2UmVSV0JsRUtjTnRPT1hYdFhaME53QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-01 16:23:00"
-    },
-    {
-      "title": "健康台灣重要基地落腳雲林 劉建國推動國家級高齡研究中心 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNUFVMZGMtYlFJdkdqN3FhVk9SS3MyXzZIZnFwTDVkLVRmQTE2b2RBbURVYnNsaDllZWc1akNGYlE1cU9fQmRsdTdZYlFrOEVneTFuMmMxM2VjYnRWdEFkbklta3J3cHR3NWdpYUc3RUJ4V3czV0ZBOGtBbmhsMEtDWGJZVEVuQ01CN1hyY3lvR3Nzdk1IQzdranotdWJ6V0hYaHpDVGZ1SUVQQ1ZJMkFSZkJLc1RxZmRuZ2N4TXFoM0tvaXdFMm9NRUk5bXdORmFuS2syZGVXS24xaVdGMjF0dFQ1Sms4OHpHQkxsVm5hM1Vta2JweTA0bXRnWC02VVVONjhfTmZuUk9jSm8xZkFxMVIyTXFvZzU0eFVIakxVdnlyUWJucnc4T0lsWVVHMWFlellhNjhzNENOWnJMZGhZWEs2eG8zaFg5UnpmZGM0bTVrb21yMHhUYkh1bkFZank3Z2hFdFVMZ1dkQWduU2dwNEU3UmtROHZkc0w3MnIzb0FFU28taE4zNDFxQ2k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-01 15:07:07"
-    },
-    {
-      "title": "健康台灣重要基地落腳雲林 劉建國推動國家級高齡研究中心 - 匯流新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XNDZNOXNGTG41dUNnZU42Wi1nRDFBRkJzanU3WldFME5RZ0s1T01KY1ltdXNCWGlTRm5KYmNCTThZUzMzQWJ0eERR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-01 14:53:53"
     }
   ],
   "person_sections": {
@@ -1075,6 +1098,11 @@
       ],
       "news": [
         {
+          "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-03 21:26:08"
+        },
+        {
           "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPY2VLQ3lGNG1YMjI4dEhvazZrUEZoSkszR0lZWGZpNEd2bUd0RGJhYWQ4QndDTUQyRjd0d2FGQ3paTFJ6M3ZST3ZGVWdyRHZBTUo1NHc1RmthWmNqYTI3WExTcTJqMk1zM0VaYkdBM05ZTjFSYzZJSG9UYW04VlZKQkhNaXF3RzhORkgzU01IXzgzRmlnOVRCLUthNmhXdWFLbkZWVElhNmpDYzNEa0t1Vl96TFN1WnJodTJhOFdvQmY1RWhoWXNyR2lOTi1Zb1BYbU1WZEFLWTVPUmQxZE10ZHJ5UmZuSXlMclZna2M2MFdUQkluQnJtbm1Qc2VJUU55OGpFeFlpRF8yTS1vdVMxbzhiWFpOMjA2QUo5d09BLUhad09TN2luMmNwdVRybWRVNXJXN2tQNjQzOFoyanlDRjBsbTkteFZGMVVOMGNQRzdxRDM2R3kydmdIajdsUzNHaUxBUFg0RTVHS1dIc3I5c1dDaHY3ZXBDaFBjSHotX0VZNDE5X05IRUhxRktxSWpBclk0LUg3S29ldDFsY0YwbDZiQmcwNXZyWlp2OUpBQUlhQnpUaDFoWTRDMXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-02 22:11:00"
@@ -1083,6 +1111,11 @@
           "title": "雲林高齡研究中心啟用 劉建國促成39億重大建設 - 元丰傳媒",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0xBdXlhc3lrX2ZlS0ljUGFMeVBQcUFDZklXN0M3bWxjay1PUVd2SVdkNTVSTzJDWkhHemU4YlpIVmVrbXhING9HSks4ZWlJcU9pLWZNd0JnOGM4VDhlQVplV3R0MDZNQzl2ZENxUmZPYTJxU3hBUnRXSVVqLVV5Uw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-02 06:13:29"
+        },
+        {
+          "title": "全台首座「國家級高齡醫學中心」落腳雲林！賴清德大讚劉建國成關鍵推手 | 民視新聞網 - LINE TODAY",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aV1FoUXpWSGxWcTg4V21QVFFRNDFiWG1nWE1rc3NGTGJ1YmJCVFU1b1N1dVdwYTV3V3NqdDljTlJPRk1fQ3hyMFJudWp5amtmVHNNSXRR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-02 04:18:02"
         },
         {
           "title": "雲林高齡研究中心啟用 劉建國促成39億重大建設 - 元丰傳媒",
@@ -1163,16 +1196,6 @@
           "title": "斗六鐵路高架化審查「原則通過」 劉建國：106年啟動關鍵第一步 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOWlpZcVpocl92cXE1cFczZmhxSmVHNktCem9mZUJLblE3cUtDVVhWWFNpam9qM0NHaVJHdWt1d1M4SDFVcFJmRW1LWjRSUHVGUXdqTUdpSmlfMFNLNEZFeDQtUnI3cTNTcjZzaGwxdC1SY3NSSnAtYjM0bV9BbXNYSS1URmdBYmtabFRhMkcwUVFFcTRkZlNLUzJxdGVGbjhLVlVqSWJoNW1HWjNzU2ZJYWxsb1RjNUMtOGtsM3ppdUlacHU5Y19qMU1ia3FDRVFVQjRYSTdWVzRkcTZXTFA1N3dsYTY4dklDSmU4OWoycFMyclhOdWpCSWpLUVFYb3gtY1E1MzRudy1rY290Rno5WUdiZnJTTmVSN2NaYlNEbVlJOFFsNWJnRms2ckRIV1hmNk5kcVhuc0FOX0RDZXpqT20wUUhnVnNpMEJUTzJEamtpYWZFMTk3aTF5Yms3RU1SeVQ4WmlFQzRaUkY5dEJFcA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-30 06:53:46"
-        },
-        {
-          "title": "討論牆 | 斗六鐵路高架化審查「原則通過」 劉建國：持續推動儘速核定 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WNWNBeHN5c3FuLXlDbWNCWkNQa25QVTZGcUVpOHR2Ykd5bmo5VEprcWhlT291V3lHc0xYTHZzMHJFYlhTMmxfYnAxQ2VJMmxPeV80UXJXRzhVYWFjc3N6cThMZDE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-30 03:28:24"
-        },
-        {
-          "title": "斗六鐵路高架化審查原則通過 劉建國：106年啟動關鍵第一步 持續推動儘速核定 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQdS1CUkZ6Z3V5YnlPQ0FaUnFhVjdRRkp4VFdVVHhBMXFteXpDcmFnc0ItdzJjSnY5NDF4Vl9qUlR6c3EwbWFNUlpwQTk4X2EwWG1reW80NjRVNXFCcGg1djhHMkFQMEdBZ3JyVnRkczNTV1M3dHdNcTNIWWM4eklwV2E4a0VkYU4wZEh2NXFPOHRadFhXYzhncHl2cFZJY0dzVjhwTFFfV0RaVE1kR2FyS0FVLWZURW1OMVg4OTNYZ3RSMFJ4YzVFOHk0eFVNMXpFN3JpczBDZHZ6RVRPaWN3aVpRVU9FY2kydG5Dd2ZkMU5kTHNZOHlUbkdfRXQ4SEVKUXk3ZkQ4aS1oeHZmNzQ0aTZDVlI5NFk5RDExWHYtT1Z3eTlESTk1V1R6QjVuZzY2bnI3REItVGpXOHZqX3g3ZHhQcDItWnprNng5Q3JHOU13NUhRNllMaS1NVWhBekNicV9nS05RaW10MkpiRU1JT0h3aDhaRjN3MU15dTljZzZxWHBaLTBXeHNuQTdmZVQxODRoVkN4bXVLM1czRUhuNjFtUnZZaGQ4TW02RzZ3Q0FCUGctN21WYlNJbzFXRjZ2UExRNWF1YlkwZ0d1ZFFnRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-29 17:42:30"
         }
       ]
     }
@@ -1193,14 +1216,14 @@
         "title": "👉更多新聞👉 國家, 醫學, 高齡 好報報導 (劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地) 版權所有 台灣好報 【記者 劉峻文／雲林 報導】台灣正式邁入超高齡社會，為因應人口結構快速老化，在立法委員劉建國長期奔走與強力爭取下，中央投入總經 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi2wdBVV95cUxOaDhVV2U4QnFGOExVUGRhN2h5QUlKNnpJLWtGTjBXejZIMXFPVWFpRWZwQnRtdmU4WW1tbkItdVEySXhyd0hYYTRESF9jeUxnLUpDSDJvT1JwM3piX2NYdmFCeVZuMlRkU3hGTFRRTktMWjdHejFKRks2c21uT3A1ekU3eV9DYXp6eU9FX092N2c2R2ZibVh0b19XZTQ0RHBlb3lUdTF5TmQ0VkgxM3k3dUNJaHlkOEdOZFhhVlF0WFNaWTNnZVg4TlR6YkE1Sl9mLVVQNGNpNGE1alRLZG8xYzlkZFFaUGhobV8wV3djaE1uWHcwVkFROWRpSzdpR3BYN3ZtOUJlZVE3UmVSWFB3RW9SZjh0UFd3SnNqNjhOTEdELVcxbFp4VlZodTZQcW0xMU9iWXZOY2Z1Z01DdElmdEs0eVhkUWZGcTE1QTBlZ05Hc2tSai14cld2cFhOcHpWelp3d1A4Zk44RC1EVkR3bng5TXFaa3BTMzZfazlQLU9OZmg0bWpSdktoRy1Na29DcVdKMlhwLWNKQ0NnUWZtTkE1Mm5RUG1ZbGI4UWNsM1NKU2RrN2o3YTNKOUt0VFJRWlQ4Z1REWjdRSWRoVkRoWWN4YURTdk9FZFJta25oM3d1QnBpd3hXQXpmQmhOeXNhOGdKRDBiaWNiRGVlUUJSZnZLb1VSNXNUWW82a1NkNmZjNkp3X0NIUk9JaWxDZ1Vham1nNjI3N2VtV09GWWpSUGljZWw4cWd2TEc2dWZ2cW9ZZkJuV1Bsa2xEcUo1aU01YnF1aXV4VXBaZE12cHcxR0pWX3ZKN3BMSTVzZnlpRlpxMVRyREdOamxvQVBibWZaTUJfVG1YNjBWemhBU2h2RjhZQUozYkJCZmVXUVVBeGVNZU9Lb1VIQnNGNE1mX0lsLW5DNjZCYjI5bHlMZDUtZmZEOXg1eXdfUmNtTG1WeEZxVkNhQTlLckhGUzk3dV8xbHBKc3QzS1NDZm8zanp5RVNLTlIzejJFalllR0JmX05JX3VIa0xOTk9GTWdWNWxiNG9nSU8tVGtVUXVlbnhBN0FDSXAyRFZRaElaV25TRWdyb25OcjV5dlJPZ1dzRDBXdE45MEotOUtNU3A0Y2FYejU2dlRQdS1ZQ2JMel9nRnhYSUdhb01kb1pndTB2bFdoTE5XczdReWUzRzZQS3RkYXlXTnlvRXFibmdfTXJJbjg4cEc5NGsxQnJ6OWQ5ZDlSX0pmSFA1NmxjWVc4RUdKMWY1Q25xSlVHR21WZUFNLWxtTV95VUlILTZDbTEtZU10NUJKZWxkZ192YUk",
         "time": "2026-05-02 22:11:08"
-      },
-      {
-        "title": "國人同胞大家好，我在稍早抵達友邦史瓦帝尼。 原訂4月22日的出訪，因爲非預期的外力而暫緩。經過外交與國安團隊連日來的縝密安排，我們在今天順利抵達，儘管晚了幾天，史國人民依舊給了我們最熱烈而溫暖的歡迎。 期待此行透過更緊密的經濟、農業、文化及教育 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMiiAhBVV95cUxPclpUNWt0cjluZGR0ODRILV9RcXlWSnZIbEs0SWtYUVNCRHkzRlczMFJtdnh4blRsRDBqY2hqZEE2TFloSHZxNV84cms3WjNGZjRBczl4WUhubXR0LThGcFVzYTRmN0gxbllGUXJhNFR5LTNrb1lRT1htYnZwdEtyeFVvN24tZmhmNUo4RG5mRnpZTEpCRUhEeVY3VXVyVFB0b0NqODVlVFZVOWplbjJSSzFnSkViaWt5TW9LR0xYblJ3WV90b1RMZkRFREtXXzlDdngtX2lfT3hFVHN2bkZveVgtNGpfUGNuaVBhMHRYSHFwRVhZR0Frc081VDVjdW0zS2k4OHVEZkNtaC1wVnBaT3laekY4dThIT2RrdDlOMWsxVWs4Zl9BaW56bjlKUmMtYVA5bmFMaFM4WmZGU1dNQ3ExaGFEU1B2TDN4ZWZXcXpxblJ2R2hHLVhDLVotY0dQeFhUWFp4TU5oTDdBS1ZqQjVtUF9HbVBUUFFIWEJsbjFkbmhXVFZIMVVjMHEwZ0JDWjZmZFFDVXN3X2ZmeWdPRmZIbklMaXZTS2lWbmN4UDh6TWdEcDdIS1ZhbDRmdVRQMHZ4aHZlcDRYN2ZXNVF2ZS14NUxSbFdzV3ZsU1JVMm5acTk4UmE3Z1VkSXhyLXRjdk1oTzNMZmdGaEsxY1ZMWnhpQWI1ZmlPdHJ4NXBHLUhtb2lhS3liQjMzY204YUxTYUxpcnlScEJETmRjWWJ3eURreDIxUmZuQTR5cWpfUzFYYXN3dWRVNnpXUEp3d2w5Q2tHeTF1Y2NsQTFaZk96RmdkSW9tcFRsX3d5SUJTbTBHbzNYQXZrcnRYcU14MUFjNGJyeUNUazdiOVJtY2VXaFphT25NWUU4Z2RvNjBNSUNLS0hQeGtZZTVDYm5JWks3akdNc095R3BjMlRvQU9pWWlsbE5aZ3psSm1zTURwU1UzcFZ4a0VRX0N5Q0w1andUbnkweXRlUjVCREk1RGFwZTlhTUlmTjhJQnE2b2IxX2RiMGZyZFpfYTJid2owTVFBaVotRVpTQzc2OFBmSDNFQTdzQmhWYWF0aTh2RkloXzdCWjQ4Mk5NTnI0dkhxUXBGT0RIVF9GeFFZWEIzV2huWFR6YnpIYW00YVR2ekF5UFdkeC1JVk94cFZ3eDFVZldMUkMxejNIS2R3aGVGeGFkQlZ0MDMzRHJtWTZrNlc1NXJyMm5GaG5TNGtpd3Y5UGxnQjQwR0lkQlRlblRHYno2NFFGVnliUDczMlRHeXZTSWtfZ3pDTHpMd1NsZzNqYXJXMnVONGhsMV9BR3ZBcHpsb0l0TG5UTlBJeXF1cFhLdkppMVUxV3U3QlU0dWx5Q2RZbHNyQnlGYlY",
-        "time": "2026-05-02 21:37:45"
       }
     ],
     "news": [
+      {
+        "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
+        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-03 21:26:08"
+      },
       {
         "title": "丁學忠徒步掃街懇託： 出來投票中止惡質循環 - MSN",
         "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxORzRfdjBub0twSkFuWFBwZ21VR1ZuN05DczVfTmRqclZncTdCelkxQkFBRjVUdmZrb2Fuc2NYR2taMXF3Zm1CQ0xGM3JlbURHV1poWTZfQ3pnNVRiNllMYzh6WUE4N2xPY2tNVEpOMGwwaGFpc2k4MDVmcUZ3cktzdmFHZ2JrRFF3WlhkdTNPSFJLNmg1am1WdjlCbndWQzN1Y2xvMFoyUlpwTmY2MDJlWlRlbzFVcENmTkJGcGNuc2Zva1dqM05ZaUE5MVJkX3NmazRLSnlIc3BNM1V1OHdlSVhzWThOZ2xrdldDYXdkRE5VbFJuMmhidkhXSFZWYUM1RTZrTVhCdGtKM0gxbE1rcVkwS2xnR2FubzhMcG9sRHVRTjBqQWJ6WTlwem9BTUlmSmo5bU93aHlZaW5sVGVMV1JnQm5HQlRDOFVRTFFxTmgwc3dNaHJ5akFneHJVN2RBV1RvWGJCV2NoYkhOSDZxaG9sMEYzTWROVkNMbkI0a2dZRTlieDhjZllHYlhLeWZyX0VTUVJIUEZ6RC1maHRvRGJBRHpDUDFNczhfQUNETmczOEdKSi1zYzJVbW5BaTBwcmdadkl6aGhTRWRMdEZpMHhxcGVxcmJEdWtxZll3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1216,6 +1239,11 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
+        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-03 21:26:08"
+      },
+      {
         "title": "丁學忠徒步掃街懇託： 出來投票中止惡質循環 - MSN",
         "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxORzRfdjBub0twSkFuWFBwZ21VR1ZuN05DczVfTmRqclZncTdCelkxQkFBRjVUdmZrb2Fuc2NYR2taMXF3Zm1CQ0xGM3JlbURHV1poWTZfQ3pnNVRiNllMYzh6WUE4N2xPY2tNVEpOMGwwaGFpc2k4MDVmcUZ3cktzdmFHZ2JrRFF3WlhkdTNPSFJLNmg1am1WdjlCbndWQzN1Y2xvMFoyUlpwTmY2MDJlWlRlbzFVcENmTkJGcGNuc2Zva1dqM05ZaUE5MVJkX3NmazRLSnlIc3BNM1V1OHdlSVhzWThOZ2xrdldDYXdkRE5VbFJuMmhidkhXSFZWYUM1RTZrTVhCdGtKM0gxbE1rcVkwS2xnR2FubzhMcG9sRHVRTjBqQWJ6WTlwem9BTUlmSmo5bU93aHlZaW5sVGVMV1JnQm5HQlRDOFVRTFFxTmgwc3dNaHJ5akFneHJVN2RBV1RvWGJCV2NoYkhOSDZxaG9sMEYzTWROVkNMbkI0a2dZRTlieDhjZllHYlhLeWZyX0VTUVJIUEZ6RC1maHRvRGJBRHpDUDFNczhfQUNETmczOEdKSi1zYzJVbW5BaTBwcmdadkl6aGhTRWRMdEZpMHhxcGVxcmJEdWtxZll3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-03 03:16:41"
@@ -1229,6 +1257,11 @@
         "title": "雲林高齡研究中心啟用 劉建國促成39億重大建設 - 元丰傳媒",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0xBdXlhc3lrX2ZlS0ljUGFMeVBQcUFDZklXN0M3bWxjay1PUVd2SVdkNTVSTzJDWkhHemU4YlpIVmVrbXhING9HSks4ZWlJcU9pLWZNd0JnOGM4VDhlQVplV3R0MDZNQzl2ZENxUmZPYTJxU3hBUnRXSVVqLVV5Uw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-02 06:13:29"
+      },
+      {
+        "title": "全台首座「國家級高齡醫學中心」落腳雲林！賴清德大讚劉建國成關鍵推手 | 民視新聞網 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aV1FoUXpWSGxWcTg4V21QVFFRNDFiWG1nWE1rc3NGTGJ1YmJCVFU1b1N1dVdwYTV3V3NqdDljTlJPRk1fQ3hyMFJudWp5amtmVHNNSXRR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-02 04:18:02"
       },
       {
         "title": "雲林高齡研究中心啟用 劉建國促成39億重大建設 - 元丰傳媒",
@@ -1404,16 +1437,6 @@
         "title": "提偏鄉閱讀翻轉計畫 張嘉郡允重建鄭豐喜紀念圖書館 (圖) - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOdWY3YkNwejU2UzdpaXgweWtFQ210MDdfYnN5clo2RlhsT0N4cUNaMUpBNHZON3RUZjJKdnYzUm5QbUpfMjZEVFVwaWlKSmg1cEVzYXlFNTFFUVJhdlN0WEw4SjZORnpSSFRMZE41UFRjdnYtTXk5SElPRE1yTTBHaFVaQlN3eGJTYjJNVWRWcUc2MXhzTVUxLVVwdTVyWmtkSDlyaTZqQWFHYlNyTXZleVRCLXBBQ3hKRkpOSXF2Q2NrQzNPY1BDZEczUUtkWnRRTmxGWTZjV1c0TGFXMkpodDJyc05FQVhONTFKT21PMS1DUzlGUUduNHF5cjVRUUhOcTE4SEdVd05fS21JbW1KRFk3OVF2M2EyUXdsMWUzN2FDb01OTmFPS3VvWml1NVdQb0lWbmI4ZFQwc09tR3R3cXBGX2RLWnFnV1dOZElwbnJyYUJkR1lxbFdWUGI5dWk0cHpkQnU3dVc0bGl2THJaSWJTZGhUdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-30 15:28:01"
-      },
-      {
-        "title": "張嘉郡允重建雲林口湖鄭豐喜紀念圖書館| 地方 - 中央社 CNA",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QQXBUakxtR0J3U1R2QWdOOGFHNU1yOTYtUHRic2JyM1RaM0xEQmdXRTlwSnh0MV9GLXdfcDA4cm5CMTNJMjRORzNjSU5DLWVMSFRuTU9qSmRMMk1tNE5N?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-30 14:36:00"
-      },
-      {
-        "title": "【2026藍點將】張嘉郡透露「很多支持者是民進黨」：綠委也讚自己太認真 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPdFdCUjdVRGNoNDlkejJlcnNLaURHWno5NnhNOEZVVnRoMGEwZU9TOEdjSC1UZzV1enJCVXhrQjNjNXZoWUtOVlA2ZUVFY0RoNldRVzFHbVhzdzd0QnlCUVVFa1ZHTjIzbXl3Nk1ZMmpmXzBjWUZDU0VPWnpOSU91R0JlY3V5aGlFNzhvTU50Q3h0WS1pX050WjNtRXppVFVWMXVJU05UczBDd2JOODFhYTNXbElFbW1La0RpWDFuOVhmRHVXSDhFcUFWUVViT3VPNnhNNU1SdW9DRHR5MmsydldSZm9PZ3JadzVfOWpXMVJEbUdqMjJGaF9SV1JWTXpVWDliYkpfZThFR0djcHNwbFd1ZEI4czJxNm9oalBqZ1V6OWVvdDNlUWNZaGlDVzNiREpsbmxBUlFFZzdTSFJEYUpTX2JUSTBmcEhKaTNZeGMzWWVvUjFXZTBPd2dVaFV2TGhzYjQzMmRWVE11Qm1MaHkwZ0ZMMm9NVVRUQnF1M3ltSm42YTRFMWpNMGN2Y19iWmY1UA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-30 11:17:33"
       }
     ],
     "facebook": [
@@ -1656,6 +1679,13 @@
     "hour": [],
     "day": [
       {
+        "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
+        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-03 21:26:08",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "一早到斗六長和宮，跟著鄉親一起迎接斑鳩，參加建宮360週年的繞境團拜與起馬炮。 炮聲響起、香煙裊裊，整個斗六都是熱鬧又溫暖的感覺。這不只是熱鬧，更是一種大家心裡的依靠，有媽祖在，就有平安的力量。 360年走到現在，陪著斗六一代一代的人成長，也守護著 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMijwhBVV95cUxNaDctZnlXTE1OUzhmMnZRMXVwUFNUSkhfVzBmNlI4TTVXa1BhN3FqUGhGemFqNGFjRUVjY0ZxMXRJdncySFpxTWQ2a2dwWFNMdHdqZ3Q5UDg3ZHdYUFVXYnlDbFl3VExHWElOSnU4SndxQ3dTUHVYQkhibUo4RHJ1ZnEwaXlvT2kxNVFUY2FQSTBlbXJyOUxNM1NXM2k3SzB4YWJUYVJkRXZWUWtLZ0NISGFtU0dkNjBKTW9yMU05NDR3LV95aDlyV3piZXk0YmJlQUFRUXBKTHRGd3RhNS1WMXU4YTJNZ216WS1vQldNMjZqbDZaZzdIRU5QSllxaDZSWHRTaEFEZHRtZXdaTzk0d0FITS1Pa2Y0R0R3b0ZoNTgxT3BmazEtQTJIdS1FX05EUkJfTXlWZTlENEExRVNLbUFMSFNUenJGTzJtekZGNk5CVHJrS0cwcnh5bzdkRmRmQWVBUW5SOUNRZ2xTWThIbS1mcE04X2dqRFV2azl6ZkMxX2JIcjYwdzRYbTlkYmU4Vy1UeTdxN19mbDlOWmFGQ2Nnb3B1ODgxRFFJOTlHZDB3b19Sb3Q0YTdacnpKZTM0Z3N6U2c2dlhfSHFXdHplWE1ZQ3Q3SmJsRUFzN2x1eGxlWnlZcFJYd3ZNNGYzR2t0RE94VTNfVnpmdXl0bUNCeUJBbWRoOEVBRzIzMnRuYXQzdzJMdFBwaVJSSjN0QTBoVlZJUlFzd1J2N0pHaDl5YkFkclRWaEZVc3lIbzVvNF95akM5MlRZTHB6VURReUN6OGNxX19ELTU0MUZtU2RLT0tpU3dIR0VuZDBSMDlKNHJ1a0lEYXBEc1lRbjE5czBrc3FkNWVMc3U2Sm9BUlgtN1BvSS1JR2F5bndsSHo0dkx1YnhIWExfRVJGbldOZ08wMmRkQ0tQN2lnZWZKRmgwdGxQWlBLSU9OYjlXbDdrWi1KeC1ZZ2xDMVU3U2s4bjJBWktyZXIwSmJRdU1LbmxsZVlmVWthaU1UanpXYXYzZFZjQjdxMmxGWFdvWTMyRlpEOGRwT3NKZldyb2s5d1RPaVMwOGIzV2k3Y3daUjItQ2lfZWR1QVpRa1h5WFNXd0tKUjQzN2NJZUVSNjFWMlJLcUVNM2d6a3BfZlIweGo2Rjk5ZzFPV2l0Vml4eEdoUFF0RDNpanhDM2dqdFRZME1BdHM5YVBKbGZQZ1JHcUZoWVNId2g1RXUtX05NSjYwbHYyY01qRUhYZlVFMDJlSmZXYVBZZnRjRFViNEE3MVdzbzAxZkp2TS1mRUt2bWQxTzdkaTM1UGNhN0VWQ0hONFNWcklyTGZQR1hLTEFqcU1zZjFrelhhUjBYZC1DWkFhbGRNTm5sLTc2dFRJMUZwZDNF",
         "time": "2026-05-03 19:22:49",
@@ -1689,13 +1719,6 @@
         "time": "2026-05-02 22:11:00",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "國人同胞大家好，我在稍早抵達友邦史瓦帝尼。 原訂4月22日的出訪，因爲非預期的外力而暫緩。經過外交與國安團隊連日來的縝密安排，我們在今天順利抵達，儘管晚了幾天，史國人民依舊給了我們最熱烈而溫暖的歡迎。 期待此行透過更緊密的經濟、農業、文化及教育 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMiiAhBVV95cUxPclpUNWt0cjluZGR0ODRILV9RcXlWSnZIbEs0SWtYUVNCRHkzRlczMFJtdnh4blRsRDBqY2hqZEE2TFloSHZxNV84cms3WjNGZjRBczl4WUhubXR0LThGcFVzYTRmN0gxbllGUXJhNFR5LTNrb1lRT1htYnZwdEtyeFVvN24tZmhmNUo4RG5mRnpZTEpCRUhEeVY3VXVyVFB0b0NqODVlVFZVOWplbjJSSzFnSkViaWt5TW9LR0xYblJ3WV90b1RMZkRFREtXXzlDdngtX2lfT3hFVHN2bkZveVgtNGpfUGNuaVBhMHRYSHFwRVhZR0Frc081VDVjdW0zS2k4OHVEZkNtaC1wVnBaT3laekY4dThIT2RrdDlOMWsxVWs4Zl9BaW56bjlKUmMtYVA5bmFMaFM4WmZGU1dNQ3ExaGFEU1B2TDN4ZWZXcXpxblJ2R2hHLVhDLVotY0dQeFhUWFp4TU5oTDdBS1ZqQjVtUF9HbVBUUFFIWEJsbjFkbmhXVFZIMVVjMHEwZ0JDWjZmZFFDVXN3X2ZmeWdPRmZIbklMaXZTS2lWbmN4UDh6TWdEcDdIS1ZhbDRmdVRQMHZ4aHZlcDRYN2ZXNVF2ZS14NUxSbFdzV3ZsU1JVMm5acTk4UmE3Z1VkSXhyLXRjdk1oTzNMZmdGaEsxY1ZMWnhpQWI1ZmlPdHJ4NXBHLUhtb2lhS3liQjMzY204YUxTYUxpcnlScEJETmRjWWJ3eURreDIxUmZuQTR5cWpfUzFYYXN3dWRVNnpXUEp3d2w5Q2tHeTF1Y2NsQTFaZk96RmdkSW9tcFRsX3d5SUJTbTBHbzNYQXZrcnRYcU14MUFjNGJyeUNUazdiOVJtY2VXaFphT25NWUU4Z2RvNjBNSUNLS0hQeGtZZTVDYm5JWks3akdNc095R3BjMlRvQU9pWWlsbE5aZ3psSm1zTURwU1UzcFZ4a0VRX0N5Q0w1andUbnkweXRlUjVCREk1RGFwZTlhTUlmTjhJQnE2b2IxX2RiMGZyZFpfYTJid2owTVFBaVotRVpTQzc2OFBmSDNFQTdzQmhWYWF0aTh2RkloXzdCWjQ4Mk5NTnI0dkhxUXBGT0RIVF9GeFFZWEIzV2huWFR6YnpIYW00YVR2ekF5UFdkeC1JVk94cFZ3eDFVZldMUkMxejNIS2R3aGVGeGFkQlZ0MDMzRHJtWTZrNlc1NXJyMm5GaG5TNGtpd3Y5UGxnQjQwR0lkQlRlblRHYno2NFFGVnliUDczMlRHeXZTSWtfZ3pDTHpMd1NsZzNqYXJXMnVONGhsMV9BR3ZBcHpsb0l0TG5UTlBJeXF1cFhLdkppMVUxV3U3QlU0dWx5Q2RZbHNyQnlGYlY",
-        "time": "2026-05-02 21:37:45",
-        "platform": "facebook",
-        "risk": "綠"
       }
     ]
   },
@@ -1703,22 +1726,13 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 2
+        "count": 3
       },
       {
         "name": "斗六",
         "count": 1
       }
     ],
-    "groups": [
-      {
-        "name": "農業族群",
-        "count": 1
-      },
-      {
-        "name": "教育家長",
-        "count": 1
-      }
-    ]
+    "groups": []
   }
 }
