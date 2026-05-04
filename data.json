@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-04T07:51:30.883513+00:00",
+  "generated_at": "2026-05-04T08:06:36.156487+00:00",
   "metrics": {
-    "total_24h": 4,
+    "total_24h": 6,
     "prev_24h": 5,
-    "growth_pct": -20.0,
-    "news_24h": 1,
+    "growth_pct": 20.0,
+    "news_24h": 3,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 207,
-    "prev": 173,
-    "growth_pct": 19.65,
-    "news": 161,
+    "total": 209,
+    "prev": 172,
+    "growth_pct": 21.51,
+    "news": 163,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -32,13 +32,13 @@
     },
     {
       "platform": "news",
-      "count": 1
+      "count": 3
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 161
+      "count": 163
     },
     {
       "platform": "facebook",
@@ -61,6 +61,10 @@
     {
       "hour": "2026-05-03 21:00",
       "count": 1
+    },
+    {
+      "hour": "2026-05-04 15:00",
+      "count": 2
     }
   ],
   "by_hour_7d": [
@@ -363,16 +367,30 @@
     {
       "hour": "2026-05-03 21:00",
       "count": 1
+    },
+    {
+      "hour": "2026-05-04 15:00",
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 1
+      "count": 3
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96Ul9VQV9GZHRVbUpFTVVFdHVJbktFcF9ZMFByT1pteUNlSXo5MmtydmNmM3A0Yi1RRFAzNmRKT2I1eWRMOS1Kc1lUQWpZRTMwY3hkRmJXSUt6ZFdxNE1mRE0zWHBMRW1rc2fSAW9BVV95cUxPQXRVVC1JNnUtNWlDVnBXdTVnVUJhY3c4WmdjMkltcGhmVXdOWjlpb1BrM3B1TktMdkg3VTcxZ0JISXNOZmo1RkNySDh2QkhvZlMtUkJVQmNGNU9DX0phaU9GSmU5NkY0a1pMbXQtb1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-04 15:42:45"
+      },
+      {
+        "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNY2tvclpCcEI0SGM5akQ0dXpmakZYZDNiTEI5VzFkZEM0Xzh6aW1BeUp6TzBabTFRU1NPUmQ2blNjWDA1Zl9HX2RCNXdNOEJ6SlRKUWltZlpaWkdxaHVZMXRSQ1RHYnVsd0xfeHZqNFhJX3U2U3h3WU03cnR6aXJicGc0ZXpIbWVGYWtPbEdhSHV4VXg3b1E1TGNIWnl5cmdxTjBRQk1RNEVDR3p5TlJkeFo3aVNDS0s3Ym9qRnkwbEt6UDJzSW1rcEFNeHpMSW5fc19QX2ZwUjM0LWxIZFVmSFJwUmZrTjBXZ1RTVXRSc0IwN1prLUctWkJDUVQwN1FJQjJIcThtZVdLelNIWXU5SFpMQmE5VUVZejhTZUI3T2RnUjZyQU5XRWFUZHNtcDIxeC1wSGJWbndHekVXbC1lTzF5YlM0MlgwT3VCUWN1TmlOWnMtRnNYbDZ0NDhQNlE3YTF0NUhYSzNQay11REZfSnVRR0lFeUxxZVZ3RFpTTDNJcVpzMGRSRXhnR0NKb29oLTFpU3daa295aHFfS3JLS29LUndza2YxTDhUR1hHN1Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-04 15:42:45"
+      },
       {
         "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
         "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -383,11 +401,21 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 1
+      "count": 3
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96Ul9VQV9GZHRVbUpFTVVFdHVJbktFcF9ZMFByT1pteUNlSXo5MmtydmNmM3A0Yi1RRFAzNmRKT2I1eWRMOS1Kc1lUQWpZRTMwY3hkRmJXSUt6ZFdxNE1mRE0zWHBMRW1rc2fSAW9BVV95cUxPQXRVVC1JNnUtNWlDVnBXdTVnVUJhY3c4WmdjMkltcGhmVXdOWjlpb1BrM3B1TktMdkg3VTcxZ0JISXNOZmo1RkNySDh2QkhvZlMtUkJVQmNGNU9DX0phaU9GSmU5NkY0a1pMbXQtb1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-04 15:42:45"
+      },
+      {
+        "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNY2tvclpCcEI0SGM5akQ0dXpmakZYZDNiTEI5VzFkZEM0Xzh6aW1BeUp6TzBabTFRU1NPUmQ2blNjWDA1Zl9HX2RCNXdNOEJ6SlRKUWltZlpaWkdxaHVZMXRSQ1RHYnVsd0xfeHZqNFhJX3U2U3h3WU03cnR6aXJicGc0ZXpIbWVGYWtPbEdhSHV4VXg3b1E1TGNIWnl5cmdxTjBRQk1RNEVDR3p5TlJkeFo3aVNDS0s3Ym9qRnkwbEt6UDJzSW1rcEFNeHpMSW5fc19QX2ZwUjM0LWxIZFVmSFJwUmZrTjBXZ1RTVXRSc0IwN1prLUctWkJDUVQwN1FJQjJIcThtZVdLelNIWXU5SFpMQmE5VUVZejhTZUI3T2RnUjZyQU5XRWFUZHNtcDIxeC1wSGJWbndHekVXbC1lTzF5YlM0MlgwT3VCUWN1TmlOWnMtRnNYbDZ0NDhQNlE3YTF0NUhYSzNQay11REZfSnVRR0lFeUxxZVZ3RFpTTDNJcVpzMGRSRXhnR0NKb29oLTFpU3daa295aHFfS3JLS29LUndza2YxTDhUR1hHN1Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-04 15:42:45"
+      },
       {
         "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
         "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -396,14 +424,24 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 0,
+    "張嘉郡": 2,
     "劉建國": 1
   },
   "mention_compare_7d": {
-    "張嘉郡": 133,
+    "張嘉郡": 135,
     "劉建國": 59
   },
   "top_news": [
+    {
+      "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96Ul9VQV9GZHRVbUpFTVVFdHVJbktFcF9ZMFByT1pteUNlSXo5MmtydmNmM3A0Yi1RRFAzNmRKT2I1eWRMOS1Kc1lUQWpZRTMwY3hkRmJXSUt6ZFdxNE1mRE0zWHBMRW1rc2fSAW9BVV95cUxPQXRVVC1JNnUtNWlDVnBXdTVnVUJhY3c4WmdjMkltcGhmVXdOWjlpb1BrM3B1TktMdkg3VTcxZ0JISXNOZmo1RkNySDh2QkhvZlMtUkJVQmNGNU9DX0phaU9GSmU5NkY0a1pMbXQtb1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-04 15:42:45"
+    },
+    {
+      "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNY2tvclpCcEI0SGM5akQ0dXpmakZYZDNiTEI5VzFkZEM0Xzh6aW1BeUp6TzBabTFRU1NPUmQ2blNjWDA1Zl9HX2RCNXdNOEJ6SlRKUWltZlpaWkdxaHVZMXRSQ1RHYnVsd0xfeHZqNFhJX3U2U3h3WU03cnR6aXJicGc0ZXpIbWVGYWtPbEdhSHV4VXg3b1E1TGNIWnl5cmdxTjBRQk1RNEVDR3p5TlJkeFo3aVNDS0s3Ym9qRnkwbEt6UDJzSW1rcEFNeHpMSW5fc19QX2ZwUjM0LWxIZFVmSFJwUmZrTjBXZ1RTVXRSc0IwN1prLUctWkJDUVQwN1FJQjJIcThtZVdLelNIWXU5SFpMQmE5VUVZejhTZUI3T2RnUjZyQU5XRWFUZHNtcDIxeC1wSGJWbndHekVXbC1lTzF5YlM0MlgwT3VCUWN1TmlOWnMtRnNYbDZ0NDhQNlE3YTF0NUhYSzNQay11REZfSnVRR0lFeUxxZVZ3RFpTTDNJcVpzMGRSRXhnR0NKb29oLTFpU3daa295aHFfS3JLS29LUndza2YxTDhUR1hHN1Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-04 15:42:45"
+    },
     {
       "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
       "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -411,6 +449,16 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96Ul9VQV9GZHRVbUpFTVVFdHVJbktFcF9ZMFByT1pteUNlSXo5MmtydmNmM3A0Yi1RRFAzNmRKT2I1eWRMOS1Kc1lUQWpZRTMwY3hkRmJXSUt6ZFdxNE1mRE0zWHBMRW1rc2fSAW9BVV95cUxPQXRVVC1JNnUtNWlDVnBXdTVnVUJhY3c4WmdjMkltcGhmVXdOWjlpb1BrM3B1TktMdkg3VTcxZ0JISXNOZmo1RkNySDh2QkhvZlMtUkJVQmNGNU9DX0phaU9GSmU5NkY0a1pMbXQtb1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-04 15:42:45"
+    },
+    {
+      "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNY2tvclpCcEI0SGM5akQ0dXpmakZYZDNiTEI5VzFkZEM0Xzh6aW1BeUp6TzBabTFRU1NPUmQ2blNjWDA1Zl9HX2RCNXdNOEJ6SlRKUWltZlpaWkdxaHVZMXRSQ1RHYnVsd0xfeHZqNFhJX3U2U3h3WU03cnR6aXJicGc0ZXpIbWVGYWtPbEdhSHV4VXg3b1E1TGNIWnl5cmdxTjBRQk1RNEVDR3p5TlJkeFo3aVNDS0s3Ym9qRnkwbEt6UDJzSW1rcEFNeHpMSW5fc19QX2ZwUjM0LWxIZFVmSFJwUmZrTjBXZ1RTVXRSc0IwN1prLUctWkJDUVQwN1FJQjJIcThtZVdLelNIWXU5SFpMQmE5VUVZejhTZUI3T2RnUjZyQU5XRWFUZHNtcDIxeC1wSGJWbndHekVXbC1lTzF5YlM0MlgwT3VCUWN1TmlOWnMtRnNYbDZ0NDhQNlE3YTF0NUhYSzNQay11REZfSnVRR0lFeUxxZVZ3RFpTTDNJcVpzMGRSRXhnR0NKb29oLTFpU3daa295aHFfS3JLS29LUndza2YxTDhUR1hHN1Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-04 15:42:45"
+    },
     {
       "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
       "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -500,16 +548,6 @@
       "title": "立委劉建國成功催生國家級高齡研究中心落腳雲林 打造健康台灣重要基地 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93VHZLV3VvdXBVbWhIUXNkUUVLRGd4b1d2cUZOcXdZSnBMT0dlMTRaTjQ0R0EwU1BWd0VtdlR6WWZRdzJuOFRJR2U5bkljdmFPdmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-01 17:01:00"
-    },
-    {
-      "title": "國家級高齡研究中心雲林啟用 劉建國打造健康台灣關鍵基地 - 台灣民眾電子報",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QU2xobEo3bHUxXzdRbWhra0xoOXZXVFEweDVZRGxwb1pZR25vLXIyTHgtUy1XS1VwU2p0TmNtcGxlSm9CTTFkUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-01 16:42:13"
-    },
-    {
-      "title": "「國家高齡醫學中心」落腳雲林 賴總統：劉建國持續幕後推動 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51VlJ0eXBKZTBJMlpnVWllN29pWTdxZDBiTGVNUlJiSHpVT2c0cFRfaHNsbnVLT0k3MmtwYl9RbWgtZHhPVGhOYm53b2w2MDJfYnVlaHZTdzNtOExkcHBXU1RnWENETHBVT0HSAW9BVV95cUxQQ3BYLWcwTG0tWkY3THhzVzRsMEVJbzVyUGRyZGp4ZDVBTnlYVUZzLVNRd0NvMXpSZ0RkdGJvdmVNdHI2MUt2aXNIVmxXLWZ5OVI5RDVZdG5ySE11TTl6cm9iTlpsUmtibzJTZE5OanM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-01 16:23:52"
     }
   ],
   "latest_facebook_20": [
@@ -616,6 +654,16 @@
   ],
   "latest_news_20": [
     {
+      "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96Ul9VQV9GZHRVbUpFTVVFdHVJbktFcF9ZMFByT1pteUNlSXo5MmtydmNmM3A0Yi1RRFAzNmRKT2I1eWRMOS1Kc1lUQWpZRTMwY3hkRmJXSUt6ZFdxNE1mRE0zWHBMRW1rc2fSAW9BVV95cUxPQXRVVC1JNnUtNWlDVnBXdTVnVUJhY3c4WmdjMkltcGhmVXdOWjlpb1BrM3B1TktMdkg3VTcxZ0JISXNOZmo1RkNySDh2QkhvZlMtUkJVQmNGNU9DX0phaU9GSmU5NkY0a1pMbXQtb1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-04 15:42:45"
+    },
+    {
+      "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNY2tvclpCcEI0SGM5akQ0dXpmakZYZDNiTEI5VzFkZEM0Xzh6aW1BeUp6TzBabTFRU1NPUmQ2blNjWDA1Zl9HX2RCNXdNOEJ6SlRKUWltZlpaWkdxaHVZMXRSQ1RHYnVsd0xfeHZqNFhJX3U2U3h3WU03cnR6aXJicGc0ZXpIbWVGYWtPbEdhSHV4VXg3b1E1TGNIWnl5cmdxTjBRQk1RNEVDR3p5TlJkeFo3aVNDS0s3Ym9qRnkwbEt6UDJzSW1rcEFNeHpMSW5fc19QX2ZwUjM0LWxIZFVmSFJwUmZrTjBXZ1RTVXRSc0IwN1prLUctWkJDUVQwN1FJQjJIcThtZVdLelNIWXU5SFpMQmE5VUVZejhTZUI3T2RnUjZyQU5XRWFUZHNtcDIxeC1wSGJWbndHekVXbC1lTzF5YlM0MlgwT3VCUWN1TmlOWnMtRnNYbDZ0NDhQNlE3YTF0NUhYSzNQay11REZfSnVRR0lFeUxxZVZ3RFpTTDNJcVpzMGRSRXhnR0NKb29oLTFpU3daa295aHFfS3JLS29LUndza2YxTDhUR1hHN1Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-04 15:42:45"
+    },
+    {
       "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
       "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-03 21:26:08"
@@ -704,16 +752,6 @@
       "title": "立委劉建國成功催生國家級高齡研究中心落腳雲林 打造健康台灣重要基地 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93VHZLV3VvdXBVbWhIUXNkUUVLRGd4b1d2cUZOcXdZSnBMT0dlMTRaTjQ0R0EwU1BWd0VtdlR6WWZRdzJuOFRJR2U5bkljdmFPdmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-01 17:01:00"
-    },
-    {
-      "title": "國家級高齡研究中心雲林啟用 劉建國打造健康台灣關鍵基地 - 台灣民眾電子報",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QU2xobEo3bHUxXzdRbWhra0xoOXZXVFEweDVZRGxwb1pZR25vLXIyTHgtUy1XS1VwU2p0TmNtcGxlSm9CTTFkUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-01 16:42:13"
-    },
-    {
-      "title": "「國家高齡醫學中心」落腳雲林 賴總統：劉建國持續幕後推動 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51VlJ0eXBKZTBJMlpnVWllN29pWTdxZDBiTGVNUlJiSHpVT2c0cFRfaHNsbnVLT0k3MmtwYl9RbWgtZHhPVGhOYm53b2w2MDJfYnVlaHZTdzNtOExkcHBXU1RnWENETHBVT0HSAW9BVV95cUxQQ3BYLWcwTG0tWkY3THhzVzRsMEVJbzVyUGRyZGp4ZDVBTnlYVUZzLVNRd0NvMXpSZ0RkdGJvdmVNdHI2MUt2aXNIVmxXLWZ5OVI5RDVZdG5ySE11TTl6cm9iTlpsUmtibzJTZE5OanM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-01 16:23:52"
     }
   ],
   "person_sections": {
@@ -822,6 +860,16 @@
       ],
       "news": [
         {
+          "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - 自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96Ul9VQV9GZHRVbUpFTVVFdHVJbktFcF9ZMFByT1pteUNlSXo5MmtydmNmM3A0Yi1RRFAzNmRKT2I1eWRMOS1Kc1lUQWpZRTMwY3hkRmJXSUt6ZFdxNE1mRE0zWHBMRW1rc2fSAW9BVV95cUxPQXRVVC1JNnUtNWlDVnBXdTVnVUJhY3c4WmdjMkltcGhmVXdOWjlpb1BrM3B1TktMdkg3VTcxZ0JISXNOZmo1RkNySDh2QkhvZlMtUkJVQmNGNU9DX0phaU9GSmU5NkY0a1pMbXQtb1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-04 15:42:45"
+        },
+        {
+          "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNY2tvclpCcEI0SGM5akQ0dXpmakZYZDNiTEI5VzFkZEM0Xzh6aW1BeUp6TzBabTFRU1NPUmQ2blNjWDA1Zl9HX2RCNXdNOEJ6SlRKUWltZlpaWkdxaHVZMXRSQ1RHYnVsd0xfeHZqNFhJX3U2U3h3WU03cnR6aXJicGc0ZXpIbWVGYWtPbEdhSHV4VXg3b1E1TGNIWnl5cmdxTjBRQk1RNEVDR3p5TlJkeFo3aVNDS0s3Ym9qRnkwbEt6UDJzSW1rcEFNeHpMSW5fc19QX2ZwUjM0LWxIZFVmSFJwUmZrTjBXZ1RTVXRSc0IwN1prLUctWkJDUVQwN1FJQjJIcThtZVdLelNIWXU5SFpMQmE5VUVZejhTZUI3T2RnUjZyQU5XRWFUZHNtcDIxeC1wSGJWbndHekVXbC1lTzF5YlM0MlgwT3VCUWN1TmlOWnMtRnNYbDZ0NDhQNlE3YTF0NUhYSzNQay11REZfSnVRR0lFeUxxZVZ3RFpTTDNJcVpzMGRSRXhnR0NKb29oLTFpU3daa295aHFfS3JLS29LUndza2YxTDhUR1hHN1Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-04 15:42:45"
+        },
+        {
           "title": "美國花生零關稅叩關 張嘉郡： 應有補足價差配套方案 - MSN",
           "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQeE11ajZQWFV3V2tVVGg2T0tEY2ZGRVVWWGNlZG1wYWxFZERISXNNMmtzR2lNZEE3TXpfRlpXcFVIUXZ3OTFJcm1haVo1d05LTDNHQ3RIUFpqWFFPNGlCV2dSbUFzLUJCZHJRT2tQTGt2QnN0a1lJRXRXWURqci1hYTdsSHE3cnFEenhJWHlWcXVNd2w2VW9ZeDhHdWdqR1N6TElhQ2NXY2VOWDhIVmZyOEpQdUpPd1Aya20zWU1HRTJIUXFicERDdVBMbTZWYTFlQWV5cExpMlR0U2dzQkRpTm8wR2luZWFqb0FPWjBJeERYUHNiQlNhX0l4cjVSMkE5cjROUXkzWDl1QzVSRGZzalRVSFNlOW5TYkRaemZvY245RFB6LXo5bTYzamtrcTZxYkhyQ1RNaDNDVXhMM3dKc1loV2I2bDc1TGpCN2QxXzBXNjdBX3VSd3lKMm9iUHNibE01OHA5NkdtbzQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-01 18:04:08"
@@ -910,16 +958,6 @@
           "title": "鄭豐喜紀念圖書館重建 張嘉郡承諾籌措1.3億元導入AI翻轉偏鄉 - 台灣民眾電子報",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qWE40Z2JtN2dKNTMwOXdZRjlxYmRfaWY1QVREQTJNcmd2UHJnaFozY3U1Q2tRUmVhZmo5MUljVHNYbVRIQ2M2aA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-30 16:05:34"
-        },
-        {
-          "title": "張嘉郡首提政見 口湖鄭豐喜紀念圖書館重建、導入科技學習 - 中華日報",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56STZqNFJZQzBkSkZaQWFCRjFDRGRQMnhEVnpmU1NrNlJhaUhLczBZdGNHUWFHWU5idEl2Rjl0WVV2TXBwTXhvSXVSTWJ0OXY5YVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-30 16:04:33"
-        },
-        {
-          "title": "張嘉郡首提政見 口湖鄭豐喜紀念圖書館重建、導入科技學習 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNY2xOdGtTRks5Z1pMSU1zVTRneTY4Tjl5RzJiUkFJSlNGekVQZTRoNzZ2eG5mdkQ1UG9FUTd5VlJ5ZXBkblVmYUpGbW0yOXh3RnNUS0pRcVNoUmlPZF82V3N2WVVPVDJfanMtYkNKOEM3SERNbHJwdHpCMFpFRmVYMktDWkJNbWppZXhHdXhteHF2eDMtMUZMYWg5Y09zdEN5cDZFTFNpOUNZemVIMHRiUjBfckJJMEJjOXhyMF8wc2F0QnFBb3BDNXFNZGlORzRDeU5rM2o0NGxBTmlkT2Q2OW1VaWpyWmpPaUlGeE5DbTV2N0d5YlVscXNoa3RaZHRJYzRuZy1JazRKdFVpaHNqQlNIb01tZEhwdFFwbXBQaEN5X0lERzlRU0Z0dVVtLXRZMW5sWl95REhqbGtMNHgtRGtISnpRVVdHYnh5aTdqMjNTLV9QUm1mVzZKdFdBZzdqaS1WX1VCV0JSVjhIalJkd19Fc2JteE1qOFZXMV9UVkRHdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-30 15:55:02"
         }
       ]
     },
@@ -1150,6 +1188,16 @@
     ],
     "news": [
       {
+        "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96Ul9VQV9GZHRVbUpFTVVFdHVJbktFcF9ZMFByT1pteUNlSXo5MmtydmNmM3A0Yi1RRFAzNmRKT2I1eWRMOS1Kc1lUQWpZRTMwY3hkRmJXSUt6ZFdxNE1mRE0zWHBMRW1rc2fSAW9BVV95cUxPQXRVVC1JNnUtNWlDVnBXdTVnVUJhY3c4WmdjMkltcGhmVXdOWjlpb1BrM3B1TktMdkg3VTcxZ0JISXNOZmo1RkNySDh2QkhvZlMtUkJVQmNGNU9DX0phaU9GSmU5NkY0a1pMbXQtb1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-04 15:42:45"
+      },
+      {
+        "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNY2tvclpCcEI0SGM5akQ0dXpmakZYZDNiTEI5VzFkZEM0Xzh6aW1BeUp6TzBabTFRU1NPUmQ2blNjWDA1Zl9HX2RCNXdNOEJ6SlRKUWltZlpaWkdxaHVZMXRSQ1RHYnVsd0xfeHZqNFhJX3U2U3h3WU03cnR6aXJicGc0ZXpIbWVGYWtPbEdhSHV4VXg3b1E1TGNIWnl5cmdxTjBRQk1RNEVDR3p5TlJkeFo3aVNDS0s3Ym9qRnkwbEt6UDJzSW1rcEFNeHpMSW5fc19QX2ZwUjM0LWxIZFVmSFJwUmZrTjBXZ1RTVXRSc0IwN1prLUctWkJDUVQwN1FJQjJIcThtZVdLelNIWXU5SFpMQmE5VUVZejhTZUI3T2RnUjZyQU5XRWFUZHNtcDIxeC1wSGJWbndHekVXbC1lTzF5YlM0MlgwT3VCUWN1TmlOWnMtRnNYbDZ0NDhQNlE3YTF0NUhYSzNQay11REZfSnVRR0lFeUxxZVZ3RFpTTDNJcVpzMGRSRXhnR0NKb29oLTFpU3daa295aHFfS3JLS29LUndza2YxTDhUR1hHN1Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-04 15:42:45"
+      },
+      {
         "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
         "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-03 21:26:08"
@@ -1158,6 +1206,16 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96Ul9VQV9GZHRVbUpFTVVFdHVJbktFcF9ZMFByT1pteUNlSXo5MmtydmNmM3A0Yi1RRFAzNmRKT2I1eWRMOS1Kc1lUQWpZRTMwY3hkRmJXSUt6ZFdxNE1mRE0zWHBMRW1rc2fSAW9BVV95cUxPQXRVVC1JNnUtNWlDVnBXdTVnVUJhY3c4WmdjMkltcGhmVXdOWjlpb1BrM3B1TktMdkg3VTcxZ0JISXNOZmo1RkNySDh2QkhvZlMtUkJVQmNGNU9DX0phaU9GSmU5NkY0a1pMbXQtb1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-04 15:42:45"
+      },
+      {
+        "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNY2tvclpCcEI0SGM5akQ0dXpmakZYZDNiTEI5VzFkZEM0Xzh6aW1BeUp6TzBabTFRU1NPUmQ2blNjWDA1Zl9HX2RCNXdNOEJ6SlRKUWltZlpaWkdxaHVZMXRSQ1RHYnVsd0xfeHZqNFhJX3U2U3h3WU03cnR6aXJicGc0ZXpIbWVGYWtPbEdhSHV4VXg3b1E1TGNIWnl5cmdxTjBRQk1RNEVDR3p5TlJkeFo3aVNDS0s3Ym9qRnkwbEt6UDJzSW1rcEFNeHpMSW5fc19QX2ZwUjM0LWxIZFVmSFJwUmZrTjBXZ1RTVXRSc0IwN1prLUctWkJDUVQwN1FJQjJIcThtZVdLelNIWXU5SFpMQmE5VUVZejhTZUI3T2RnUjZyQU5XRWFUZHNtcDIxeC1wSGJWbndHekVXbC1lTzF5YlM0MlgwT3VCUWN1TmlOWnMtRnNYbDZ0NDhQNlE3YTF0NUhYSzNQay11REZfSnVRR0lFeUxxZVZ3RFpTTDNJcVpzMGRSRXhnR0NKb29oLTFpU3daa295aHFfS3JLS29LUndza2YxTDhUR1hHN1Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-04 15:42:45"
+      },
       {
         "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
         "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1347,16 +1405,6 @@
         "title": "鄭豐喜紀念圖書館重建 張嘉郡承諾籌措1.3億元導入AI翻轉偏鄉 - 台灣民眾電子報",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qWE40Z2JtN2dKNTMwOXdZRjlxYmRfaWY1QVREQTJNcmd2UHJnaFozY3U1Q2tRUmVhZmo5MUljVHNYbVRIQ2M2aA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-30 16:05:34"
-      },
-      {
-        "title": "張嘉郡首提政見 口湖鄭豐喜紀念圖書館重建、導入科技學習 - 中華日報",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56STZqNFJZQzBkSkZaQWFCRjFDRGRQMnhEVnpmU1NrNlJhaUhLczBZdGNHUWFHWU5idEl2Rjl0WVV2TXBwTXhvSXVSTWJ0OXY5YVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-30 16:04:33"
-      },
-      {
-        "title": "張嘉郡首提政見 口湖鄭豐喜紀念圖書館重建、導入科技學習 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNY2xOdGtTRks5Z1pMSU1zVTRneTY4Tjl5RzJiUkFJSlNGekVQZTRoNzZ2eG5mdkQ1UG9FUTd5VlJ5ZXBkblVmYUpGbW0yOXh3RnNUS0pRcVNoUmlPZF82V3N2WVVPVDJfanMtYkNKOEM3SERNbHJwdHpCMFpFRmVYMktDWkJNbWppZXhHdXhteHF2eDMtMUZMYWg5Y09zdEN5cDZFTFNpOUNZemVIMHRiUjBfckJJMEJjOXhyMF8wc2F0QnFBb3BDNXFNZGlORzRDeU5rM2o0NGxBTmlkT2Q2OW1VaWpyWmpPaUlGeE5DbTV2N0d5YlVscXNoa3RaZHRJYzRuZy1JazRKdFVpaHNqQlNIb01tZEhwdFFwbXBQaEN5X0lERzlRU0Z0dVVtLXRZMW5sWl95REhqbGtMNHgtRGtISnpRVVdHYnh5aTdqMjNTLV9QUm1mVzZKdFdBZzdqaS1WX1VCV0JSVjhIalJkd19Fc2JteE1qOFZXMV9UVkRHdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-30 15:55:02"
       }
     ],
     "facebook": [
@@ -1599,6 +1647,20 @@
     "hour": [],
     "day": [
       {
+        "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96Ul9VQV9GZHRVbUpFTVVFdHVJbktFcF9ZMFByT1pteUNlSXo5MmtydmNmM3A0Yi1RRFAzNmRKT2I1eWRMOS1Kc1lUQWpZRTMwY3hkRmJXSUt6ZFdxNE1mRE0zWHBMRW1rc2fSAW9BVV95cUxPQXRVVC1JNnUtNWlDVnBXdTVnVUJhY3c4WmdjMkltcGhmVXdOWjlpb1BrM3B1TktMdkg3VTcxZ0JISXNOZmo1RkNySDh2QkhvZlMtUkJVQmNGNU9DX0phaU9GSmU5NkY0a1pMbXQtb1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-04 15:42:45",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNY2tvclpCcEI0SGM5akQ0dXpmakZYZDNiTEI5VzFkZEM0Xzh6aW1BeUp6TzBabTFRU1NPUmQ2blNjWDA1Zl9HX2RCNXdNOEJ6SlRKUWltZlpaWkdxaHVZMXRSQ1RHYnVsd0xfeHZqNFhJX3U2U3h3WU03cnR6aXJicGc0ZXpIbWVGYWtPbEdhSHV4VXg3b1E1TGNIWnl5cmdxTjBRQk1RNEVDR3p5TlJkeFo3aVNDS0s3Ym9qRnkwbEt6UDJzSW1rcEFNeHpMSW5fc19QX2ZwUjM0LWxIZFVmSFJwUmZrTjBXZ1RTVXRSc0IwN1prLUctWkJDUVQwN1FJQjJIcThtZVdLelNIWXU5SFpMQmE5VUVZejhTZUI3T2RnUjZyQU5XRWFUZHNtcDIxeC1wSGJWbndHekVXbC1lTzF5YlM0MlgwT3VCUWN1TmlOWnMtRnNYbDZ0NDhQNlE3YTF0NUhYSzNQay11REZfSnVRR0lFeUxxZVZ3RFpTTDNJcVpzMGRSRXhnR0NKb29oLTFpU3daa295aHFfS3JLS29LUndza2YxTDhUR1hHN1Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-04 15:42:45",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
         "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-03 21:26:08",
@@ -1631,11 +1693,11 @@
   "regional_groups": {
     "regions": [
       {
-        "name": "斗六",
-        "count": 1
+        "name": "雲林",
+        "count": 3
       },
       {
-        "name": "雲林",
+        "name": "斗六",
         "count": 1
       }
     ],
