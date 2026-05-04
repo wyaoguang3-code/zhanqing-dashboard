@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-04T14:08:46.508344+00:00",
+  "generated_at": "2026-05-04T14:23:51.207466+00:00",
   "metrics": {
-    "total_24h": 9,
-    "prev_24h": 9,
-    "growth_pct": 0.0,
-    "news_24h": 7,
+    "total_24h": 10,
+    "prev_24h": 7,
+    "growth_pct": 42.86,
+    "news_24h": 8,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -15,9 +15,9 @@
   },
   "metrics_7d": {
     "total": 187,
-    "prev": 198,
-    "growth_pct": -5.56,
-    "news": 144,
+    "prev": 199,
+    "growth_pct": -6.03,
+    "news": 145,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 7
+      "count": 8
     },
     {
       "platform": "youtube",
@@ -38,11 +38,11 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 144
+      "count": 145
     },
     {
       "platform": "facebook",
-      "count": 35
+      "count": 34
     },
     {
       "platform": "youtube",
@@ -69,12 +69,16 @@
     {
       "hour": "2026-05-04 20:00",
       "count": 1
+    },
+    {
+      "hour": "2026-05-04 21:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
     {
       "hour": "2026-04-27 22:00",
-      "count": 4
+      "count": 3
     },
     {
       "hour": "2026-04-28 00:00",
@@ -367,16 +371,25 @@
     {
       "hour": "2026-05-04 20:00",
       "count": 1
+    },
+    {
+      "hour": "2026-05-04 21:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 7
+      "count": 8
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "美國花生要來了！張嘉郡警告「稻米恐淪陷」 農業部嚴正澄清 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQNmJYeWJSeFNmZVFocTJVV3h5aF8wX3FfdE5jb3RHUTk1UW4wWFViWkZyX2lrMDJnQ3FfQ0NMLUJKLVZTeWJKU0RieE1QZUpOaUh6WnRQVjV5MVdDcVJVb2Y3LUxmRjd5NEJFTDItRTFaMGNUTjdvOXVWaVY0RmZodXQ4MjVYQ2tUT2V3RWRHaTRWTlVGSHlmM1J1eXA0cUlaY216Q29oY0tfb2NMWW5vQmExdVZQZnZVMTNuSDgxSXp3eGR6cC0xdWltZV9uLUQtUkdVaVFhMTFGaXlEb1hKWTVsMVMzc01pUkdfSzdnUmo5aHl1bFZWX25GR2ZMcUd1WldkRG1IVmdUMW54UjVMVmx0X2RCWENpcEFfN1Y1Z1A1bnJrb1hPUFNJWWdFbTJyMnJ2Q054Sl9udDJ5am5JaV9lOUF5UzU1bkFHWjVxdXZqMlZOd2hUd2R1ZDBKTlVsY25PYnFES0hLQXBvVnNqYzl2bDFFZm8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-04 21:47:44"
+      },
       {
         "title": "張嘉郡稱「下個零關稅恐是稻米」農業部嚴正澄清：配額關稅維持不變 - 三立娛樂星聞",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nVXpwUDQ0bzkzWW8wUDdQNHhHWVdfVjJ5Ql9ZazN1MEhMNjZibU4zQnNUVG9BRDh3VV9uMDZuLVlabHVuSGNRbjRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -417,11 +430,16 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 7
+      "count": 8
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "美國花生要來了！張嘉郡警告「稻米恐淪陷」 農業部嚴正澄清 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQNmJYeWJSeFNmZVFocTJVV3h5aF8wX3FfdE5jb3RHUTk1UW4wWFViWkZyX2lrMDJnQ3FfQ0NMLUJKLVZTeWJKU0RieE1QZUpOaUh6WnRQVjV5MVdDcVJVb2Y3LUxmRjd5NEJFTDItRTFaMGNUTjdvOXVWaVY0RmZodXQ4MjVYQ2tUT2V3RWRHaTRWTlVGSHlmM1J1eXA0cUlaY216Q29oY0tfb2NMWW5vQmExdVZQZnZVMTNuSDgxSXp3eGR6cC0xdWltZV9uLUQtUkdVaVFhMTFGaXlEb1hKWTVsMVMzc01pUkdfSzdnUmo5aHl1bFZWX25GR2ZMcUd1WldkRG1IVmdUMW54UjVMVmx0X2RCWENpcEFfN1Y1Z1A1bnJrb1hPUFNJWWdFbTJyMnJ2Q054Sl9udDJ5am5JaV9lOUF5UzU1bkFHWjVxdXZqMlZOd2hUd2R1ZDBKTlVsY25PYnFES0hLQXBvVnNqYzl2bDFFZm8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-04 21:47:44"
+      },
       {
         "title": "張嘉郡稱「下個零關稅恐是稻米」農業部嚴正澄清：配額關稅維持不變 - 三立娛樂星聞",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nVXpwUDQ0bzkzWW8wUDdQNHhHWVdfVjJ5Ql9ZazN1MEhMNjZibU4zQnNUVG9BRDh3VV9uMDZuLVlabHVuSGNRbjRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -460,7 +478,7 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 6,
+    "張嘉郡": 7,
     "劉建國": 1
   },
   "mention_compare_7d": {
@@ -468,6 +486,11 @@
     "劉建國": 59
   },
   "top_news": [
+    {
+      "title": "美國花生要來了！張嘉郡警告「稻米恐淪陷」 農業部嚴正澄清 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQNmJYeWJSeFNmZVFocTJVV3h5aF8wX3FfdE5jb3RHUTk1UW4wWFViWkZyX2lrMDJnQ3FfQ0NMLUJKLVZTeWJKU0RieE1QZUpOaUh6WnRQVjV5MVdDcVJVb2Y3LUxmRjd5NEJFTDItRTFaMGNUTjdvOXVWaVY0RmZodXQ4MjVYQ2tUT2V3RWRHaTRWTlVGSHlmM1J1eXA0cUlaY216Q29oY0tfb2NMWW5vQmExdVZQZnZVMTNuSDgxSXp3eGR6cC0xdWltZV9uLUQtUkdVaVFhMTFGaXlEb1hKWTVsMVMzc01pUkdfSzdnUmo5aHl1bFZWX25GR2ZMcUd1WldkRG1IVmdUMW54UjVMVmx0X2RCWENpcEFfN1Y1Z1A1bnJrb1hPUFNJWWdFbTJyMnJ2Q054Sl9udDJ5am5JaV9lOUF5UzU1bkFHWjVxdXZqMlZOd2hUd2R1ZDBKTlVsY25PYnFES0hLQXBvVnNqYzl2bDFFZm8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-04 21:47:44"
+    },
     {
       "title": "張嘉郡稱「下個零關稅恐是稻米」農業部嚴正澄清：配額關稅維持不變 - 三立娛樂星聞",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nVXpwUDQ0bzkzWW8wUDdQNHhHWVdfVjJ5Ql9ZazN1MEhMNjZibU4zQnNUVG9BRDh3VV9uMDZuLVlabHVuSGNRbjRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -505,6 +528,11 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "美國花生要來了！張嘉郡警告「稻米恐淪陷」 農業部嚴正澄清 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQNmJYeWJSeFNmZVFocTJVV3h5aF8wX3FfdE5jb3RHUTk1UW4wWFViWkZyX2lrMDJnQ3FfQ0NMLUJKLVZTeWJKU0RieE1QZUpOaUh6WnRQVjV5MVdDcVJVb2Y3LUxmRjd5NEJFTDItRTFaMGNUTjdvOXVWaVY0RmZodXQ4MjVYQ2tUT2V3RWRHaTRWTlVGSHlmM1J1eXA0cUlaY216Q29oY0tfb2NMWW5vQmExdVZQZnZVMTNuSDgxSXp3eGR6cC0xdWltZV9uLUQtUkdVaVFhMTFGaXlEb1hKWTVsMVMzc01pUkdfSzdnUmo5aHl1bFZWX25GR2ZMcUd1WldkRG1IVmdUMW54UjVMVmx0X2RCWENpcEFfN1Y1Z1A1bnJrb1hPUFNJWWdFbTJyMnJ2Q054Sl9udDJ5am5JaV9lOUF5UzU1bkFHWjVxdXZqMlZOd2hUd2R1ZDBKTlVsY25PYnFES0hLQXBvVnNqYzl2bDFFZm8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-04 21:47:44"
+    },
     {
       "title": "張嘉郡稱「下個零關稅恐是稻米」農業部嚴正澄清：配額關稅維持不變 - 三立娛樂星聞",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nVXpwUDQ0bzkzWW8wUDdQNHhHWVdfVjJ5Ql9ZazN1MEhMNjZibU4zQnNUVG9BRDh3VV9uMDZuLVlabHVuSGNRbjRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -599,11 +627,6 @@
       "title": "美國花生零關稅叩關 張嘉郡： 應有補足價差配套方案 - MSN",
       "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQeE11ajZQWFV3V2tVVGg2T0tEY2ZGRVVWWGNlZG1wYWxFZERISXNNMmtzR2lNZEE3TXpfRlpXcFVIUXZ3OTFJcm1haVo1d05LTDNHQ3RIUFpqWFFPNGlCV2dSbUFzLUJCZHJRT2tQTGt2QnN0a1lJRXRXWURqci1hYTdsSHE3cnFEenhJWHlWcXVNd2w2VW9ZeDhHdWdqR1N6TElhQ2NXY2VOWDhIVmZyOEpQdUpPd1Aya20zWU1HRTJIUXFicERDdVBMbTZWYTFlQWV5cExpMlR0U2dzQkRpTm8wR2luZWFqb0FPWjBJeERYUHNiQlNhX0l4cjVSMkE5cjROUXkzWDl1QzVSRGZzalRVSFNlOW5TYkRaemZvY245RFB6LXo5bTYzamtrcTZxYkhyQ1RNaDNDVXhMM3dKc1loV2I2bDc1TGpCN2QxXzBXNjdBX3VSd3lKMm9iUHNibE01OHA5NkdtbzQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-01 18:04:08"
-    },
-    {
-      "title": "全台首座「國家級高齡醫學中心」落腳雲林！賴清德大讚劉建國成關鍵推手 - 民視新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zZGpNZUx0bUJzRG9PaVVKSk4zaHBpRTltYjJIZGxFbjd2NV9oT21kUW9KNFNuMTFCbmFpVGFOc1VaREhxc2F2VUdQcHZzXzN1eDk1eHZaT3pDZk53Qkc1Tg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-01 18:03:44"
     }
   ],
   "latest_facebook_20": [
@@ -710,6 +733,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "美國花生要來了！張嘉郡警告「稻米恐淪陷」 農業部嚴正澄清 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQNmJYeWJSeFNmZVFocTJVV3h5aF8wX3FfdE5jb3RHUTk1UW4wWFViWkZyX2lrMDJnQ3FfQ0NMLUJKLVZTeWJKU0RieE1QZUpOaUh6WnRQVjV5MVdDcVJVb2Y3LUxmRjd5NEJFTDItRTFaMGNUTjdvOXVWaVY0RmZodXQ4MjVYQ2tUT2V3RWRHaTRWTlVGSHlmM1J1eXA0cUlaY216Q29oY0tfb2NMWW5vQmExdVZQZnZVMTNuSDgxSXp3eGR6cC0xdWltZV9uLUQtUkdVaVFhMTFGaXlEb1hKWTVsMVMzc01pUkdfSzdnUmo5aHl1bFZWX25GR2ZMcUd1WldkRG1IVmdUMW54UjVMVmx0X2RCWENpcEFfN1Y1Z1A1bnJrb1hPUFNJWWdFbTJyMnJ2Q054Sl9udDJ5am5JaV9lOUF5UzU1bkFHWjVxdXZqMlZOd2hUd2R1ZDBKTlVsY25PYnFES0hLQXBvVnNqYzl2bDFFZm8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-04 21:47:44"
+    },
+    {
       "title": "張嘉郡稱「下個零關稅恐是稻米」農業部嚴正澄清：配額關稅維持不變 - 三立娛樂星聞",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nVXpwUDQ0bzkzWW8wUDdQNHhHWVdfVjJ5Ql9ZazN1MEhMNjZibU4zQnNUVG9BRDh3VV9uMDZuLVlabHVuSGNRbjRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-04 20:49:45"
@@ -803,11 +831,6 @@
       "title": "美國花生零關稅叩關 張嘉郡： 應有補足價差配套方案 - MSN",
       "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQeE11ajZQWFV3V2tVVGg2T0tEY2ZGRVVWWGNlZG1wYWxFZERISXNNMmtzR2lNZEE3TXpfRlpXcFVIUXZ3OTFJcm1haVo1d05LTDNHQ3RIUFpqWFFPNGlCV2dSbUFzLUJCZHJRT2tQTGt2QnN0a1lJRXRXWURqci1hYTdsSHE3cnFEenhJWHlWcXVNd2w2VW9ZeDhHdWdqR1N6TElhQ2NXY2VOWDhIVmZyOEpQdUpPd1Aya20zWU1HRTJIUXFicERDdVBMbTZWYTFlQWV5cExpMlR0U2dzQkRpTm8wR2luZWFqb0FPWjBJeERYUHNiQlNhX0l4cjVSMkE5cjROUXkzWDl1QzVSRGZzalRVSFNlOW5TYkRaemZvY245RFB6LXo5bTYzamtrcTZxYkhyQ1RNaDNDVXhMM3dKc1loV2I2bDc1TGpCN2QxXzBXNjdBX3VSd3lKMm9iUHNibE01OHA5NkdtbzQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-01 18:04:08"
-    },
-    {
-      "title": "全台首座「國家級高齡醫學中心」落腳雲林！賴清德大讚劉建國成關鍵推手 - 民視新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zZGpNZUx0bUJzRG9PaVVKSk4zaHBpRTltYjJIZGxFbjd2NV9oT21kUW9KNFNuMTFCbmFpVGFOc1VaREhxc2F2VUdQcHZzXzN1eDk1eHZaT3pDZk53Qkc1Tg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-01 18:03:44"
     }
   ],
   "person_sections": {
@@ -916,6 +939,11 @@
       ],
       "news": [
         {
+          "title": "美國花生要來了！張嘉郡警告「稻米恐淪陷」 農業部嚴正澄清 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQNmJYeWJSeFNmZVFocTJVV3h5aF8wX3FfdE5jb3RHUTk1UW4wWFViWkZyX2lrMDJnQ3FfQ0NMLUJKLVZTeWJKU0RieE1QZUpOaUh6WnRQVjV5MVdDcVJVb2Y3LUxmRjd5NEJFTDItRTFaMGNUTjdvOXVWaVY0RmZodXQ4MjVYQ2tUT2V3RWRHaTRWTlVGSHlmM1J1eXA0cUlaY216Q29oY0tfb2NMWW5vQmExdVZQZnZVMTNuSDgxSXp3eGR6cC0xdWltZV9uLUQtUkdVaVFhMTFGaXlEb1hKWTVsMVMzc01pUkdfSzdnUmo5aHl1bFZWX25GR2ZMcUd1WldkRG1IVmdUMW54UjVMVmx0X2RCWENpcEFfN1Y1Z1A1bnJrb1hPUFNJWWdFbTJyMnJ2Q054Sl9udDJ5am5JaV9lOUF5UzU1bkFHWjVxdXZqMlZOd2hUd2R1ZDBKTlVsY25PYnFES0hLQXBvVnNqYzl2bDFFZm8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-04 21:47:44"
+        },
+        {
           "title": "張嘉郡稱「下個零關稅恐是稻米」農業部嚴正澄清：配額關稅維持不變 - 三立娛樂星聞",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nVXpwUDQ0bzkzWW8wUDdQNHhHWVdfVjJ5Ql9ZazN1MEhMNjZibU4zQnNUVG9BRDh3VV9uMDZuLVlabHVuSGNRbjRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-04 20:49:45"
@@ -1009,11 +1037,6 @@
           "title": "鄭豐喜圖書館重建遭卡關？張嘉郡承諾籌 1.3 億，導入AI盼重建翻轉口湖 | 夏和宣 | 地方新聞 - 風傳媒",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLMkliMjBfeXhRSDZfa0RLcHJNZ1RQdVQ3T3FDcHBmMHdYbk1JYlZYekpTUXZ6bllRU3dGeDJfYjhzdWRmZkNHZlhxWGt5QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-30 18:19:55"
-        },
-        {
-          "title": "老舊鄭豐喜圖書館重建卡關 張嘉郡提政見承諾1.3億元打造AI圖書館 - 聯合新聞網",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XOUt0aV95c0hUOWFSZk93YnZvRGlVNllDWjVpQmpjWGdkRVFPaTdDNkNON3N6cUJGVjFldG9Ia0tCT2dXWkU2TldUczE2QUJWTldLa3U1N0dUcFhmYm1KeXN6MURXX1VBVi15TjFQYTlWQdIBVkFVX3lxTE1RdjlYNUJxZ0tTYlZSYjlxd19JTWZGVW5nMFc2TVpvMHpjOWpjNldoVEdHRWl3UVI4ZGl1b0NhRW5raERZX1VJYkp0OTRBckZxd0VwcmpB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-30 17:25:15"
         }
       ]
     },
@@ -1227,6 +1250,11 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "美國花生要來了！張嘉郡警告「稻米恐淪陷」 農業部嚴正澄清 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQNmJYeWJSeFNmZVFocTJVV3h5aF8wX3FfdE5jb3RHUTk1UW4wWFViWkZyX2lrMDJnQ3FfQ0NMLUJKLVZTeWJKU0RieE1QZUpOaUh6WnRQVjV5MVdDcVJVb2Y3LUxmRjd5NEJFTDItRTFaMGNUTjdvOXVWaVY0RmZodXQ4MjVYQ2tUT2V3RWRHaTRWTlVGSHlmM1J1eXA0cUlaY216Q29oY0tfb2NMWW5vQmExdVZQZnZVMTNuSDgxSXp3eGR6cC0xdWltZV9uLUQtUkdVaVFhMTFGaXlEb1hKWTVsMVMzc01pUkdfSzdnUmo5aHl1bFZWX25GR2ZMcUd1WldkRG1IVmdUMW54UjVMVmx0X2RCWENpcEFfN1Y1Z1A1bnJrb1hPUFNJWWdFbTJyMnJ2Q054Sl9udDJ5am5JaV9lOUF5UzU1bkFHWjVxdXZqMlZOd2hUd2R1ZDBKTlVsY25PYnFES0hLQXBvVnNqYzl2bDFFZm8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-04 21:47:44"
+      },
+      {
         "title": "張嘉郡稱「下個零關稅恐是稻米」農業部嚴正澄清：配額關稅維持不變 - 三立娛樂星聞",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nVXpwUDQ0bzkzWW8wUDdQNHhHWVdfVjJ5Ql9ZazN1MEhMNjZibU4zQnNUVG9BRDh3VV9uMDZuLVlabHVuSGNRbjRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-04 20:49:45"
@@ -1277,6 +1305,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "美國花生要來了！張嘉郡警告「稻米恐淪陷」 農業部嚴正澄清 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQNmJYeWJSeFNmZVFocTJVV3h5aF8wX3FfdE5jb3RHUTk1UW4wWFViWkZyX2lrMDJnQ3FfQ0NMLUJKLVZTeWJKU0RieE1QZUpOaUh6WnRQVjV5MVdDcVJVb2Y3LUxmRjd5NEJFTDItRTFaMGNUTjdvOXVWaVY0RmZodXQ4MjVYQ2tUT2V3RWRHaTRWTlVGSHlmM1J1eXA0cUlaY216Q29oY0tfb2NMWW5vQmExdVZQZnZVMTNuSDgxSXp3eGR6cC0xdWltZV9uLUQtUkdVaVFhMTFGaXlEb1hKWTVsMVMzc01pUkdfSzdnUmo5aHl1bFZWX25GR2ZMcUd1WldkRG1IVmdUMW54UjVMVmx0X2RCWENpcEFfN1Y1Z1A1bnJrb1hPUFNJWWdFbTJyMnJ2Q054Sl9udDJ5am5JaV9lOUF5UzU1bkFHWjVxdXZqMlZOd2hUd2R1ZDBKTlVsY25PYnFES0hLQXBvVnNqYzl2bDFFZm8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-04 21:47:44"
+      },
       {
         "title": "張嘉郡稱「下個零關稅恐是稻米」農業部嚴正澄清：配額關稅維持不變 - 三立娛樂星聞",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nVXpwUDQ0bzkzWW8wUDdQNHhHWVdfVjJ5Ql9ZazN1MEhMNjZibU4zQnNUVG9BRDh3VV9uMDZuLVlabHVuSGNRbjRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1471,11 +1504,6 @@
         "title": "口湖圖書館重建卡關 張嘉郡批中央延宕拋自籌1.3億 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxObUhPZnROOExRektRNzdiZThnVzdjYzkzZkJOcE1xZjRyMy1SUUUtSDcyX0FfTGhVT3JQZU53YVRucmdHOFRsMFE5MUFrWmhER3RId1NLaGxlRG5UUUZsenRTYURYV2pHQzBpZDd0cmFObktRQm5TNnNzYWpuaUd6VEdtanZCY2dxeGlPa1RscTRvaU1MZ0JqNlhUaUVSZTktZ1MydVZ6NXJ5cDU1elNYbUFDMHhJdHYxTG81dk9nTnFONzJYOWdSbnkzY0t5alFUMklpUlo0ZXlTRFphYldzYUcyaE9yODdha1hmYUpOWDZmM1Bvb2lLazJqTU5SZVZRcnc3cExrY1l3R2VCcDFCZkNmelplNnJyLXNTUmpOb3E1SzV2RFh5azF3cVNRMFJsVHloTVJyWEZRRE5UNFRTY2dTVlNuaFZLMVpOeEtoSGJnQ3VH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-30 19:13:25"
-      },
-      {
-        "title": "偏鄉閱讀升級張嘉郡承諾重建鄭豐喜圖書館- 政府消息新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUUwxYUU4VEZtQy1OcDZKT3IxNnhiaEtaazlxVGx3N1lyYWJWQjVkTjA4Q2xMLVFIQi0wa24zSVBzV1dLZnlWMkVZb2YzRTMtbnBsRFhWYzFtMDRvYnRmX0NmdXRkWmtEbHZHWEx5WjVYaXdzRUlabG5wQ25XSE0ySDA3YlVMdWNJbGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-30 19:11:06"
       }
     ],
     "facebook": [
@@ -1648,11 +1676,6 @@
         "title": "感謝張嘉郡委員跟張麗善縣長還有許宇甄委員替斗六爭取鐵路高架化由交通部正式進入行政院核定。 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi8gRBVV95cUxOaTBGZUFWUjF1UEFwZDR5Q0hvM2pfOGk3RnlzMUdXQU01elZ4Z3JrZ2phLWlCN1JkdGxwVlV2Q0pLS21oUVJ6UkZjMnhoQ1E5QXZrcWc5RU95YlVkaHpIY1hMTi16eWxwQW5fUUpPb3pTdE84YzNIYkdKWFhreXluSzA3QUMtUERyQ09rVHpfdWxEZ0hRT1NXUDdRbmdUdWZzNjI3TVR5Qkt5YWM5anJ6a2stREZQcHRjQzZIRkVveVUxajBiLXdScENGbHBNdEdMaWotSk5ROE8wUWdOZHBTUFkzelBmRlhERFFDenpJOEd6RTdaT2M2NVJSckJHTFpEQzZtMXY0UWhac1BvTzBsLVdxcURaU1hNa1pnV3ZvcVRVWm96YzNWbDBiRDNxTnUwanVqeVVHVVp5VnlpQklUc3BWX3pScnFXeklkU1JOZzRlemlYU0dkVUh5cWZUUFZoV09IYS04UE1YZG44Z1djeFA5a3BBbWFaVHV5bEc1NU4xZF9WS0pBZDM5bHZHZ2dqSlZNSlZ1M2pLYnNpMm9HN1RMaEhmQzVNVHVhb0Mwck0xX0U1RkloVEZmMjRaRURYR2hhalZNTVdWRms4Z1V2ZndZdHlnazM0cm9wVDNVT0gtdFNoNFJBUHBxZ3VKMUxYc2NmU0ZJQnhHbnJEUEJlUkVkWWVMZlNMNFZDbmtBRGxSRVNua1NROXQwRlBULThYV3YyYXJXek93eDN6enVRMWZTMGtlYU5BQUNfWkdJeGZqOGRGTHpLTk5xNG14R0haN3NrZ0hiLWZJNlpLa0x6blJMdkg3aXk5TlhYM2RnQ0Fmdw",
         "time": "2026-04-28 07:35:22"
-      },
-      {
-        "title": "115/4/27 雲林斗六鄉親企盼30年 交通部通過斗六鐵路高架化案可行性研究報告 縣長張麗善、立委張嘉郡等人亟盼行政院儘速核定！ - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wVBVV95cUxNdGdDTWNNdkxqOXB6M3M5M19VMWRGOUJSRHBockNIWWNzQm0yUE5Pd2EzeFNrS2hueVZiZ1hrUnB5ODZYa0VmWjI5ZzRrbUZSUXVDSmx2MnRDSEwtcTgwdGFIMVp0bXo4T1ZhN3RPNUg5OTdhMjJGaXloVGhWSkJFNmFud1NFS3dGVHJsejdUYi1aMzh1U3g1YzlxLXJwNFV5Z044N2dUOS0tNFZ2WXdNajBYVWdfUHhLNHFuVHFWSmpTV1BDTFRPUm9WZHlBYWxkSkREWU1XeXcxT0E0NDRObDMybDlCd3ZOZTBMejJSdFljTElTWFJxRF9fUmwtaURoVXFFVEtpMWpJdmg0dm1XU3lLU1hPMkdsMHpqQ2NCdG1kMldZdmRlWUNzc3pJay1LNm5UN3pzVXNzUnJRN2I3emptem95Z29CT25KRlRsN3JRNW9WWm9BNTR0N09LNS1JZHdqMGtfSnRBSEo0clZzTzBxSFVhUkM1REllTmlSNTVOY3FhSHZEYzYxYU9NTDRKZG1meVJXc25zbzhUWEZaa280Q2VpOGNGUXdzUU1aQ2JRelhabVdlRnlid1JFRDhSTWNackNKYS1GQzFNbXZFR3padXhZVWlmc3E5WXVUckJxNHBYdFl4UGNaMDNodmpzLThXWEszMUJpaXZOZS1lUFFxd2pGamRPRXBfRjVqX18tbjA3NXBXVjZtcVFDNGdWRGVieXl5bjc4STQ5b1c3UjVneWMtb3VzckZDa1ZDZEl2R285aVJwOEhhTUU3LS1hd3hEalRSYkp1aXJfVUt2SC1Fd2pkV1NMSjdLVmExaWxyUVlKdU5MM0NtTk12R21JX0dqYXg4elhNV0wxcVlWN1VuMjQ0M1dId0RiYXNPUlByZ2lobmdvbWFocVF3cWFiU0FGSEdvVDJ4cVNPbE04UmpmYnRTcGpONFJyYzVvbFVHNE5Hdmx1aDZWOFliZVB6c2RwaFNiWElrWTQ",
-        "time": "2026-04-27 22:13:58"
       }
     ],
     "youtube": [
@@ -1702,6 +1725,13 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "美國花生要來了！張嘉郡警告「稻米恐淪陷」 農業部嚴正澄清 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQNmJYeWJSeFNmZVFocTJVV3h5aF8wX3FfdE5jb3RHUTk1UW4wWFViWkZyX2lrMDJnQ3FfQ0NMLUJKLVZTeWJKU0RieE1QZUpOaUh6WnRQVjV5MVdDcVJVb2Y3LUxmRjd5NEJFTDItRTFaMGNUTjdvOXVWaVY0RmZodXQ4MjVYQ2tUT2V3RWRHaTRWTlVGSHlmM1J1eXA0cUlaY216Q29oY0tfb2NMWW5vQmExdVZQZnZVMTNuSDgxSXp3eGR6cC0xdWltZV9uLUQtUkdVaVFhMTFGaXlEb1hKWTVsMVMzc01pUkdfSzdnUmo5aHl1bFZWX25GR2ZMcUd1WldkRG1IVmdUMW54UjVMVmx0X2RCWENpcEFfN1Y1Z1A1bnJrb1hPUFNJWWdFbTJyMnJ2Q054Sl9udDJ5am5JaV9lOUF5UzU1bkFHWjVxdXZqMlZOd2hUd2R1ZDBKTlVsY25PYnFES0hLQXBvVnNqYzl2bDFFZm8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-04 21:47:44",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "張嘉郡稱「下個零關稅恐是稻米」農業部嚴正澄清：配額關稅維持不變 - 三立娛樂星聞",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nVXpwUDQ0bzkzWW8wUDdQNHhHWVdfVjJ5Ql9ZazN1MEhMNjZibU4zQnNUVG9BRDh3VV9uMDZuLVlabHVuSGNRbjRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1777,7 +1807,7 @@
     "groups": [
       {
         "name": "農業族群",
-        "count": 1
+        "count": 2
       }
     ]
   }
