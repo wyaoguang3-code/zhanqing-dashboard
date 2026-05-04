@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-04T10:07:18.317113+00:00",
+  "generated_at": "2026-05-04T10:22:23.683583+00:00",
   "metrics": {
-    "total_24h": 10,
+    "total_24h": 12,
     "prev_24h": 6,
-    "growth_pct": 66.67,
-    "news_24h": 6,
+    "growth_pct": 100.0,
+    "news_24h": 7,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 204,
+    "total": 206,
     "prev": 182,
-    "growth_pct": 12.09,
-    "news": 157,
+    "growth_pct": 13.19,
+    "news": 158,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 6
+      "count": 7
     },
     {
       "platform": "facebook",
@@ -36,13 +36,13 @@
     },
     {
       "platform": "youtube",
-      "count": 1
+      "count": 2
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 157
+      "count": 158
     },
     {
       "platform": "facebook",
@@ -50,7 +50,7 @@
     },
     {
       "platform": "youtube",
-      "count": 7
+      "count": 8
     }
   ],
   "by_hour": [
@@ -67,12 +67,20 @@
       "count": 1
     },
     {
+      "hour": "2026-05-04 14:00",
+      "count": 1
+    },
+    {
       "hour": "2026-05-04 15:00",
       "count": 2
     },
     {
       "hour": "2026-05-04 16:00",
       "count": 4
+    },
+    {
+      "hour": "2026-05-04 17:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -369,18 +377,26 @@
       "count": 1
     },
     {
+      "hour": "2026-05-04 14:00",
+      "count": 1
+    },
+    {
       "hour": "2026-05-04 15:00",
       "count": 2
     },
     {
       "hour": "2026-05-04 16:00",
       "count": 4
+    },
+    {
+      "hour": "2026-05-04 17:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 6
+      "count": 7
     }
   ],
   "mention_latest_by_platform_24h": {
@@ -411,6 +427,11 @@
         "time": "2026-05-04 15:42:45"
       },
       {
+        "title": "美花生進口衝擊本土農! 張嘉郡憂雲林生計 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxON0xoZFNKNWo4RXhZZ3ZTNDhoa09XakFXQ2IwT3JGZWxRbW43dm4tRXVaRElFWVZOaEQwS0htX0lFUWUxNEJTWU5GdmVITGlSOGdDaEp4MmJEQm5taVBOc1o0czlGYUx1ay1mT3F0VkNfNDB3T0FCdFVlS1dHTDUxRXYtdkE2Ujlva1d3Q2xkUElFM2doQkpEdHExWEp1YzJ5dzgxUFNVUHRzakh1VndhM0w5MmY3d2dNaXdBZGRXbXlkdkxTWjVCOVRIdE5BTVBHdzVIR0o0ckV4N1dkcHg5cDh3RGpPQnViVmxmVFhVOC1oV0J5NExmS0NQdjRJQ1hpaDZxV0QwRTNHX1pFRDBwOTJuRzk1UGRRQXBodTBENjFVdDJfbnhJQ2lCR3FFRllHLVlDbGl6MFhDS0VFY0JyS2JPSWZxcDZIdFU3NFl1VHM2ZzhDcEhiZHZ5VHVFaDhMUVFLWl9Uc3dnSlZpN1FCc3ZaSHpvSE9VVjdBb3FGZEIwWG5YdXEwUUZxSHhpX0MycWRnc2tBR0RlT2o1cFNtUWZzdkpkczA0aWFram91TFdwc1dzc3hhMzEyWjFOel9JeWM4RTliNG1qT2pnbDNNeHJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-04 14:25:47"
+      },
+      {
         "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
         "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-03 21:26:08"
@@ -420,7 +441,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 6
+      "count": 7
     }
   ],
   "alias_latest_by_platform_24h": {
@@ -451,6 +472,11 @@
         "time": "2026-05-04 15:42:45"
       },
       {
+        "title": "美花生進口衝擊本土農! 張嘉郡憂雲林生計 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxON0xoZFNKNWo4RXhZZ3ZTNDhoa09XakFXQ2IwT3JGZWxRbW43dm4tRXVaRElFWVZOaEQwS0htX0lFUWUxNEJTWU5GdmVITGlSOGdDaEp4MmJEQm5taVBOc1o0czlGYUx1ay1mT3F0VkNfNDB3T0FCdFVlS1dHTDUxRXYtdkE2Ujlva1d3Q2xkUElFM2doQkpEdHExWEp1YzJ5dzgxUFNVUHRzakh1VndhM0w5MmY3d2dNaXdBZGRXbXlkdkxTWjVCOVRIdE5BTVBHdzVIR0o0ckV4N1dkcHg5cDh3RGpPQnViVmxmVFhVOC1oV0J5NExmS0NQdjRJQ1hpaDZxV0QwRTNHX1pFRDBwOTJuRzk1UGRRQXBodTBENjFVdDJfbnhJQ2lCR3FFRllHLVlDbGl6MFhDS0VFY0JyS2JPSWZxcDZIdFU3NFl1VHM2ZzhDcEhiZHZ5VHVFaDhMUVFLWl9Uc3dnSlZpN1FCc3ZaSHpvSE9VVjdBb3FGZEIwWG5YdXEwUUZxSHhpX0MycWRnc2tBR0RlT2o1cFNtUWZzdkpkczA0aWFram91TFdwc1dzc3hhMzEyWjFOel9JeWM4RTliNG1qT2pnbDNNeHJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-04 14:25:47"
+      },
+      {
         "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
         "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-03 21:26:08"
@@ -458,11 +484,11 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 4,
+    "張嘉郡": 5,
     "劉建國": 2
   },
   "mention_compare_7d": {
-    "張嘉郡": 128,
+    "張嘉郡": 129,
     "劉建國": 60
   },
   "top_news": [
@@ -490,6 +516,11 @@
       "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNY2tvclpCcEI0SGM5akQ0dXpmakZYZDNiTEI5VzFkZEM0Xzh6aW1BeUp6TzBabTFRU1NPUmQ2blNjWDA1Zl9HX2RCNXdNOEJ6SlRKUWltZlpaWkdxaHVZMXRSQ1RHYnVsd0xfeHZqNFhJX3U2U3h3WU03cnR6aXJicGc0ZXpIbWVGYWtPbEdhSHV4VXg3b1E1TGNIWnl5cmdxTjBRQk1RNEVDR3p5TlJkeFo3aVNDS0s3Ym9qRnkwbEt6UDJzSW1rcEFNeHpMSW5fc19QX2ZwUjM0LWxIZFVmSFJwUmZrTjBXZ1RTVXRSc0IwN1prLUctWkJDUVQwN1FJQjJIcThtZVdLelNIWXU5SFpMQmE5VUVZejhTZUI3T2RnUjZyQU5XRWFUZHNtcDIxeC1wSGJWbndHekVXbC1lTzF5YlM0MlgwT3VCUWN1TmlOWnMtRnNYbDZ0NDhQNlE3YTF0NUhYSzNQay11REZfSnVRR0lFeUxxZVZ3RFpTTDNJcVpzMGRSRXhnR0NKb29oLTFpU3daa295aHFfS3JLS29LUndza2YxTDhUR1hHN1Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-04 15:42:45"
+    },
+    {
+      "title": "美花生進口衝擊本土農! 張嘉郡憂雲林生計 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxON0xoZFNKNWo4RXhZZ3ZTNDhoa09XakFXQ2IwT3JGZWxRbW43dm4tRXVaRElFWVZOaEQwS0htX0lFUWUxNEJTWU5GdmVITGlSOGdDaEp4MmJEQm5taVBOc1o0czlGYUx1ay1mT3F0VkNfNDB3T0FCdFVlS1dHTDUxRXYtdkE2Ujlva1d3Q2xkUElFM2doQkpEdHExWEp1YzJ5dzgxUFNVUHRzakh1VndhM0w5MmY3d2dNaXdBZGRXbXlkdkxTWjVCOVRIdE5BTVBHdzVIR0o0ckV4N1dkcHg5cDh3RGpPQnViVmxmVFhVOC1oV0J5NExmS0NQdjRJQ1hpaDZxV0QwRTNHX1pFRDBwOTJuRzk1UGRRQXBodTBENjFVdDJfbnhJQ2lCR3FFRllHLVlDbGl6MFhDS0VFY0JyS2JPSWZxcDZIdFU3NFl1VHM2ZzhDcEhiZHZ5VHVFaDhMUVFLWl9Uc3dnSlZpN1FCc3ZaSHpvSE9VVjdBb3FGZEIwWG5YdXEwUUZxSHhpX0MycWRnc2tBR0RlT2o1cFNtUWZzdkpkczA0aWFram91TFdwc1dzc3hhMzEyWjFOel9JeWM4RTliNG1qT2pnbDNNeHJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-04 14:25:47"
     },
     {
       "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
@@ -522,6 +553,11 @@
       "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNY2tvclpCcEI0SGM5akQ0dXpmakZYZDNiTEI5VzFkZEM0Xzh6aW1BeUp6TzBabTFRU1NPUmQ2blNjWDA1Zl9HX2RCNXdNOEJ6SlRKUWltZlpaWkdxaHVZMXRSQ1RHYnVsd0xfeHZqNFhJX3U2U3h3WU03cnR6aXJicGc0ZXpIbWVGYWtPbEdhSHV4VXg3b1E1TGNIWnl5cmdxTjBRQk1RNEVDR3p5TlJkeFo3aVNDS0s3Ym9qRnkwbEt6UDJzSW1rcEFNeHpMSW5fc19QX2ZwUjM0LWxIZFVmSFJwUmZrTjBXZ1RTVXRSc0IwN1prLUctWkJDUVQwN1FJQjJIcThtZVdLelNIWXU5SFpMQmE5VUVZejhTZUI3T2RnUjZyQU5XRWFUZHNtcDIxeC1wSGJWbndHekVXbC1lTzF5YlM0MlgwT3VCUWN1TmlOWnMtRnNYbDZ0NDhQNlE3YTF0NUhYSzNQay11REZfSnVRR0lFeUxxZVZ3RFpTTDNJcVpzMGRSRXhnR0NKb29oLTFpU3daa295aHFfS3JLS29LUndza2YxTDhUR1hHN1Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-04 15:42:45"
+    },
+    {
+      "title": "美花生進口衝擊本土農! 張嘉郡憂雲林生計 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxON0xoZFNKNWo4RXhZZ3ZTNDhoa09XakFXQ2IwT3JGZWxRbW43dm4tRXVaRElFWVZOaEQwS0htX0lFUWUxNEJTWU5GdmVITGlSOGdDaEp4MmJEQm5taVBOc1o0czlGYUx1ay1mT3F0VkNfNDB3T0FCdFVlS1dHTDUxRXYtdkE2Ujlva1d3Q2xkUElFM2doQkpEdHExWEp1YzJ5dzgxUFNVUHRzakh1VndhM0w5MmY3d2dNaXdBZGRXbXlkdkxTWjVCOVRIdE5BTVBHdzVIR0o0ckV4N1dkcHg5cDh3RGpPQnViVmxmVFhVOC1oV0J5NExmS0NQdjRJQ1hpaDZxV0QwRTNHX1pFRDBwOTJuRzk1UGRRQXBodTBENjFVdDJfbnhJQ2lCR3FFRllHLVlDbGl6MFhDS0VFY0JyS2JPSWZxcDZIdFU3NFl1VHM2ZzhDcEhiZHZ5VHVFaDhMUVFLWl9Uc3dnSlZpN1FCc3ZaSHpvSE9VVjdBb3FGZEIwWG5YdXEwUUZxSHhpX0MycWRnc2tBR0RlT2o1cFNtUWZzdkpkczA0aWFram91TFdwc1dzc3hhMzEyWjFOel9JeWM4RTliNG1qT2pnbDNNeHJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-04 14:25:47"
     },
     {
       "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
@@ -592,11 +628,6 @@
       "title": "全台首座「國家級高齡醫學中心」落腳雲林！賴清德大讚劉建國成關鍵推手 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxObUIzVEhRWExhV1B6a0g4TVZrbEhIWEduOVBCUEREV3BTcVZFWFRBRlE2cmJ5dGtvaUIwdGZOYkxSNV84eVhUaHhMa1F0bktHM050MnJhdmozd0JmNjktdC1LUlpwak9zZU91WGxDR0hyRDBRSWJlQTlfWXhBYmhTQ3VVSXNGOEpna0lLbXpzTUJsNU93bl9rM0xYT21adFZPbVl0bkgtV01Na0wyWjlnR2NMb2xTYVdpLXlYT1NjMEVidXFVR1pfeWg3X1BuSGxDRmxURzRVMnVYMmN3YWhnenNRSnU1c0FobnFZWDVUVTFCMWFQTDZYMjhpckFqTXpOenhxR25jSGpqUGVOVkV1dUNkNS1Ha19vOUNnLU5fR1VlSUd3NlRhSi00TTF3dTRuTlllRDJUVGRPQ1J6XzMzekllNVNkZ29BbEpzUFpXMDg5am1mNUZiWVVVaFNMR1R5UnhwMEJ0LTVxcDloSFFVcUo5S1Y4OHRvOWxVcWgtdWFJMEF6Uy1yd2JMVVBTbkQzSHI4VlNXYzBxUkRPNGJucGFBYXI2M3Y1bTlhMkg4Rld6dFVoOE5yRDgxN3JqN0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-01 18:03:44"
-    },
-    {
-      "title": "劉建國成功催生高齡研究中心落腳雲林 打造健康台灣重要基地 - PChome Online 股市",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWDU2QURMNnJoNXBrZFBJQ1dSWGRTTUhwWmo5MF9qalFUSC1fN1pPcVplZTJ6X04wYm5PeDBnalZSOWVISzJDa2RUTVFOX0ViQ3pTTjRySHhpNnZrQjFiUnEwUUk1cDZDTFlkc2tYRUtlMFg4b05oTkNRZFVXeEtURg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-01 17:44:36"
     }
   ],
   "latest_facebook_20": [
@@ -728,6 +759,11 @@
       "time": "2026-05-04 15:42:45"
     },
     {
+      "title": "美花生進口衝擊本土農! 張嘉郡憂雲林生計 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxON0xoZFNKNWo4RXhZZ3ZTNDhoa09XakFXQ2IwT3JGZWxRbW43dm4tRXVaRElFWVZOaEQwS0htX0lFUWUxNEJTWU5GdmVITGlSOGdDaEp4MmJEQm5taVBOc1o0czlGYUx1ay1mT3F0VkNfNDB3T0FCdFVlS1dHTDUxRXYtdkE2Ujlva1d3Q2xkUElFM2doQkpEdHExWEp1YzJ5dzgxUFNVUHRzakh1VndhM0w5MmY3d2dNaXdBZGRXbXlkdkxTWjVCOVRIdE5BTVBHdzVIR0o0ckV4N1dkcHg5cDh3RGpPQnViVmxmVFhVOC1oV0J5NExmS0NQdjRJQ1hpaDZxV0QwRTNHX1pFRDBwOTJuRzk1UGRRQXBodTBENjFVdDJfbnhJQ2lCR3FFRllHLVlDbGl6MFhDS0VFY0JyS2JPSWZxcDZIdFU3NFl1VHM2ZzhDcEhiZHZ5VHVFaDhMUVFLWl9Uc3dnSlZpN1FCc3ZaSHpvSE9VVjdBb3FGZEIwWG5YdXEwUUZxSHhpX0MycWRnc2tBR0RlT2o1cFNtUWZzdkpkczA0aWFram91TFdwc1dzc3hhMzEyWjFOel9JeWM4RTliNG1qT2pnbDNNeHJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-04 14:25:47"
+    },
+    {
       "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
       "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-03 21:26:08"
@@ -796,11 +832,6 @@
       "title": "全台首座「國家級高齡醫學中心」落腳雲林！賴清德大讚劉建國成關鍵推手 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxObUIzVEhRWExhV1B6a0g4TVZrbEhIWEduOVBCUEREV3BTcVZFWFRBRlE2cmJ5dGtvaUIwdGZOYkxSNV84eVhUaHhMa1F0bktHM050MnJhdmozd0JmNjktdC1LUlpwak9zZU91WGxDR0hyRDBRSWJlQTlfWXhBYmhTQ3VVSXNGOEpna0lLbXpzTUJsNU93bl9rM0xYT21adFZPbVl0bkgtV01Na0wyWjlnR2NMb2xTYVdpLXlYT1NjMEVidXFVR1pfeWg3X1BuSGxDRmxURzRVMnVYMmN3YWhnenNRSnU1c0FobnFZWDVUVTFCMWFQTDZYMjhpckFqTXpOenhxR25jSGpqUGVOVkV1dUNkNS1Ha19vOUNnLU5fR1VlSUd3NlRhSi00TTF3dTRuTlllRDJUVGRPQ1J6XzMzekllNVNkZ29BbEpzUFpXMDg5am1mNUZiWVVVaFNMR1R5UnhwMEJ0LTVxcDloSFFVcUo5S1Y4OHRvOWxVcWgtdWFJMEF6Uy1yd2JMVVBTbkQzSHI4VlNXYzBxUkRPNGJucGFBYXI2M3Y1bTlhMkg4Rld6dFVoOE5yRDgxN3JqN0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-01 18:03:44"
-    },
-    {
-      "title": "劉建國成功催生高齡研究中心落腳雲林 打造健康台灣重要基地 - PChome Online 股市",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWDU2QURMNnJoNXBrZFBJQ1dSWGRTTUhwWmo5MF9qalFUSC1fN1pPcVplZTJ6X04wYm5PeDBnalZSOWVISzJDa2RUTVFOX0ViQ3pTTjRySHhpNnZrQjFiUnEwUUk1cDZDTFlkc2tYRUtlMFg4b05oTkNRZFVXeEtURg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-01 17:44:36"
     }
   ],
   "person_sections": {
@@ -929,6 +960,11 @@
           "time": "2026-05-04 15:42:45"
         },
         {
+          "title": "美花生進口衝擊本土農! 張嘉郡憂雲林生計 - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxON0xoZFNKNWo4RXhZZ3ZTNDhoa09XakFXQ2IwT3JGZWxRbW43dm4tRXVaRElFWVZOaEQwS0htX0lFUWUxNEJTWU5GdmVITGlSOGdDaEp4MmJEQm5taVBOc1o0czlGYUx1ay1mT3F0VkNfNDB3T0FCdFVlS1dHTDUxRXYtdkE2Ujlva1d3Q2xkUElFM2doQkpEdHExWEp1YzJ5dzgxUFNVUHRzakh1VndhM0w5MmY3d2dNaXdBZGRXbXlkdkxTWjVCOVRIdE5BTVBHdzVIR0o0ckV4N1dkcHg5cDh3RGpPQnViVmxmVFhVOC1oV0J5NExmS0NQdjRJQ1hpaDZxV0QwRTNHX1pFRDBwOTJuRzk1UGRRQXBodTBENjFVdDJfbnhJQ2lCR3FFRllHLVlDbGl6MFhDS0VFY0JyS2JPSWZxcDZIdFU3NFl1VHM2ZzhDcEhiZHZ5VHVFaDhMUVFLWl9Uc3dnSlZpN1FCc3ZaSHpvSE9VVjdBb3FGZEIwWG5YdXEwUUZxSHhpX0MycWRnc2tBR0RlT2o1cFNtUWZzdkpkczA0aWFram91TFdwc1dzc3hhMzEyWjFOel9JeWM4RTliNG1qT2pnbDNNeHJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-04 14:25:47"
+        },
+        {
           "title": "美國花生零關稅叩關 張嘉郡： 應有補足價差配套方案 - MSN",
           "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQeE11ajZQWFV3V2tVVGg2T0tEY2ZGRVVWWGNlZG1wYWxFZERISXNNMmtzR2lNZEE3TXpfRlpXcFVIUXZ3OTFJcm1haVo1d05LTDNHQ3RIUFpqWFFPNGlCV2dSbUFzLUJCZHJRT2tQTGt2QnN0a1lJRXRXWURqci1hYTdsSHE3cnFEenhJWHlWcXVNd2w2VW9ZeDhHdWdqR1N6TElhQ2NXY2VOWDhIVmZyOEpQdUpPd1Aya20zWU1HRTJIUXFicERDdVBMbTZWYTFlQWV5cExpMlR0U2dzQkRpTm8wR2luZWFqb0FPWjBJeERYUHNiQlNhX0l4cjVSMkE5cjROUXkzWDl1QzVSRGZzalRVSFNlOW5TYkRaemZvY245RFB6LXo5bTYzamtrcTZxYkhyQ1RNaDNDVXhMM3dKc1loV2I2bDc1TGpCN2QxXzBXNjdBX3VSd3lKMm9iUHNibE01OHA5NkdtbzQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-01 18:04:08"
@@ -1002,11 +1038,6 @@
           "title": "老舊鄭豐喜圖書館重建卡關 張嘉郡提政見承諾1.3億元打造AI圖書館 - 聯合新聞網",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QWlBQVFRhUTFRZ2VmNGhuQ1dkTWt6emRIdEowNndZMHlLNVNwMS1lZ3NGdld1aF82djY0LXd6dTE5VjNYZElMd3h2SnRlUWNp0gFWQVVfeXFMTVF2OVg1QnFnS1NiVlJiOXF3X0lNZkZVbmcwVzZNWm8wemM5amM2V2hUR0dFaXdRUjhkaXVvQ2FFbmtoRFlfVUliSnQ5NEFyRnF3RXByakE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-30 17:25:15"
-        },
-        {
-          "title": "中央不補縣府扛 張嘉郡承諾籌1.3 億重建口湖鄭豐喜圖書館 - 匯流新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9WOTE1ck5WUEh5LTJQY3c0SkdKZHFCQUZqRFJJNjVjZ0hleEMtVFZ0cHotdm0wTG9TSF9LeXhCcWZ3WGZ4aDhjS2FR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-30 16:33:23"
         }
       ]
     },
@@ -1245,6 +1276,11 @@
         "time": "2026-05-04 15:42:45"
       },
       {
+        "title": "美花生進口衝擊本土農! 張嘉郡憂雲林生計 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxON0xoZFNKNWo4RXhZZ3ZTNDhoa09XakFXQ2IwT3JGZWxRbW43dm4tRXVaRElFWVZOaEQwS0htX0lFUWUxNEJTWU5GdmVITGlSOGdDaEp4MmJEQm5taVBOc1o0czlGYUx1ay1mT3F0VkNfNDB3T0FCdFVlS1dHTDUxRXYtdkE2Ujlva1d3Q2xkUElFM2doQkpEdHExWEp1YzJ5dzgxUFNVUHRzakh1VndhM0w5MmY3d2dNaXdBZGRXbXlkdkxTWjVCOVRIdE5BTVBHdzVIR0o0ckV4N1dkcHg5cDh3RGpPQnViVmxmVFhVOC1oV0J5NExmS0NQdjRJQ1hpaDZxV0QwRTNHX1pFRDBwOTJuRzk1UGRRQXBodTBENjFVdDJfbnhJQ2lCR3FFRllHLVlDbGl6MFhDS0VFY0JyS2JPSWZxcDZIdFU3NFl1VHM2ZzhDcEhiZHZ5VHVFaDhMUVFLWl9Uc3dnSlZpN1FCc3ZaSHpvSE9VVjdBb3FGZEIwWG5YdXEwUUZxSHhpX0MycWRnc2tBR0RlT2o1cFNtUWZzdkpkczA0aWFram91TFdwc1dzc3hhMzEyWjFOel9JeWM4RTliNG1qT2pnbDNNeHJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-04 14:25:47"
+      },
+      {
         "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
         "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-03 21:26:08"
@@ -1268,6 +1304,11 @@
       }
     ],
     "youtube": [
+      {
+        "title": "後天將再協商強軍條例！范雲：6成民眾支持1.25兆，國民黨立委請對選民負責！",
+        "url": "https://www.youtube.com/shorts/-scvlj1TsUU",
+        "time": "2026-05-04 17:59:05"
+      },
       {
         "title": "賴總統成功外交突圍，2300 萬台灣人走向世界！",
         "url": "https://www.youtube.com/shorts/r5hC040aQbg",
@@ -1301,6 +1342,11 @@
         "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNY2tvclpCcEI0SGM5akQ0dXpmakZYZDNiTEI5VzFkZEM0Xzh6aW1BeUp6TzBabTFRU1NPUmQ2blNjWDA1Zl9HX2RCNXdNOEJ6SlRKUWltZlpaWkdxaHVZMXRSQ1RHYnVsd0xfeHZqNFhJX3U2U3h3WU03cnR6aXJicGc0ZXpIbWVGYWtPbEdhSHV4VXg3b1E1TGNIWnl5cmdxTjBRQk1RNEVDR3p5TlJkeFo3aVNDS0s3Ym9qRnkwbEt6UDJzSW1rcEFNeHpMSW5fc19QX2ZwUjM0LWxIZFVmSFJwUmZrTjBXZ1RTVXRSc0IwN1prLUctWkJDUVQwN1FJQjJIcThtZVdLelNIWXU5SFpMQmE5VUVZejhTZUI3T2RnUjZyQU5XRWFUZHNtcDIxeC1wSGJWbndHekVXbC1lTzF5YlM0MlgwT3VCUWN1TmlOWnMtRnNYbDZ0NDhQNlE3YTF0NUhYSzNQay11REZfSnVRR0lFeUxxZVZ3RFpTTDNJcVpzMGRSRXhnR0NKb29oLTFpU3daa295aHFfS3JLS29LUndza2YxTDhUR1hHN1Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-04 15:42:45"
+      },
+      {
+        "title": "美花生進口衝擊本土農! 張嘉郡憂雲林生計 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxON0xoZFNKNWo4RXhZZ3ZTNDhoa09XakFXQ2IwT3JGZWxRbW43dm4tRXVaRElFWVZOaEQwS0htX0lFUWUxNEJTWU5GdmVITGlSOGdDaEp4MmJEQm5taVBOc1o0czlGYUx1ay1mT3F0VkNfNDB3T0FCdFVlS1dHTDUxRXYtdkE2Ujlva1d3Q2xkUElFM2doQkpEdHExWEp1YzJ5dzgxUFNVUHRzakh1VndhM0w5MmY3d2dNaXdBZGRXbXlkdkxTWjVCOVRIdE5BTVBHdzVIR0o0ckV4N1dkcHg5cDh3RGpPQnViVmxmVFhVOC1oV0J5NExmS0NQdjRJQ1hpaDZxV0QwRTNHX1pFRDBwOTJuRzk1UGRRQXBodTBENjFVdDJfbnhJQ2lCR3FFRllHLVlDbGl6MFhDS0VFY0JyS2JPSWZxcDZIdFU3NFl1VHM2ZzhDcEhiZHZ5VHVFaDhMUVFLWl9Uc3dnSlZpN1FCc3ZaSHpvSE9VVjdBb3FGZEIwWG5YdXEwUUZxSHhpX0MycWRnc2tBR0RlT2o1cFNtUWZzdkpkczA0aWFram91TFdwc1dzc3hhMzEyWjFOel9JeWM4RTliNG1qT2pnbDNNeHJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-04 14:25:47"
       },
       {
         "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
@@ -1471,11 +1517,6 @@
         "title": "鄭豐喜圖書館重建遭卡關？張嘉郡承諾籌 1.3 億，導入AI盼重建翻轉口湖 | 夏和宣 | 地方新聞 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLMkliMjBfeXhRSDZfa0RLcHJNZ1RQdVQ3T3FDcHBmMHdYbk1JYlZYekpTUXZ6bllRU3dGeDJfYjhzdWRmZkNHZlhxWGt5QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-30 18:19:55"
-      },
-      {
-        "title": "老舊鄭豐喜圖書館重建卡關 張嘉郡提政見承諾1.3億元打造AI圖書館 - 聯合新聞網",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XOUt0aV95c0hUOWFSZk93YnZvRGlVNllDWjVpQmpjWGdkRVFPaTdDNkNON3N6cUJGVjFldG9Ia0tCT2dXWkU2TldUczE2QUJWTldLa3U1N0dUcFhmYm1KeXN6MURXX1VBVi15TjFQYTlWQdIBVkFVX3lxTE1RdjlYNUJxZ0tTYlZSYjlxd19JTWZGVW5nMFc2TVpvMHpjOWpjNldoVEdHRWl3UVI4ZGl1b0NhRW5raERZX1VJYkp0OTRBckZxd0VwcmpB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-30 17:25:15"
       }
     ],
     "facebook": [
@@ -1682,6 +1723,11 @@
     ],
     "youtube": [
       {
+        "title": "後天將再協商強軍條例！范雲：6成民眾支持1.25兆，國民黨立委請對選民負責！",
+        "url": "https://www.youtube.com/shorts/-scvlj1TsUU",
+        "time": "2026-05-04 17:59:05"
+      },
+      {
         "title": "賴總統成功外交突圍，2300 萬台灣人走向世界！",
         "url": "https://www.youtube.com/shorts/r5hC040aQbg",
         "time": "2026-05-04 16:09:16"
@@ -1722,6 +1768,13 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "後天將再協商強軍條例！范雲：6成民眾支持1.25兆，國民黨立委請對選民負責！",
+        "url": "https://www.youtube.com/shorts/-scvlj1TsUU",
+        "time": "2026-05-04 17:59:05",
+        "platform": "youtube",
+        "risk": "綠"
+      },
       {
         "title": "國家級高齡研究中心啟用 雲林躍升長照政策核心，劉建國十年布局浮上檯面 - 波新聞",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00bW9MUnMyVEplZ25KV2x4TGlveDJmQkpOSUdqa2d0RzRNZmNLeVZoOEFPNGY0TlZPMVhOcWFmRDBKNS1BdDB2cmUzX1F3UmxreTBHYmQ3NGdYSGZNSjEwTThqSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1765,6 +1818,13 @@
         "risk": "綠"
       },
       {
+        "title": "美花生進口衝擊本土農! 張嘉郡憂雲林生計 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxON0xoZFNKNWo4RXhZZ3ZTNDhoa09XakFXQ2IwT3JGZWxRbW43dm4tRXVaRElFWVZOaEQwS0htX0lFUWUxNEJTWU5GdmVITGlSOGdDaEp4MmJEQm5taVBOc1o0czlGYUx1ay1mT3F0VkNfNDB3T0FCdFVlS1dHTDUxRXYtdkE2Ujlva1d3Q2xkUElFM2doQkpEdHExWEp1YzJ5dzgxUFNVUHRzakh1VndhM0w5MmY3d2dNaXdBZGRXbXlkdkxTWjVCOVRIdE5BTVBHdzVIR0o0ckV4N1dkcHg5cDh3RGpPQnViVmxmVFhVOC1oV0J5NExmS0NQdjRJQ1hpaDZxV0QwRTNHX1pFRDBwOTJuRzk1UGRRQXBodTBENjFVdDJfbnhJQ2lCR3FFRllHLVlDbGl6MFhDS0VFY0JyS2JPSWZxcDZIdFU3NFl1VHM2ZzhDcEhiZHZ5VHVFaDhMUVFLWl9Uc3dnSlZpN1FCc3ZaSHpvSE9VVjdBb3FGZEIwWG5YdXEwUUZxSHhpX0MycWRnc2tBR0RlT2o1cFNtUWZzdkpkczA0aWFram91TFdwc1dzc3hhMzEyWjFOel9JeWM4RTliNG1qT2pnbDNNeHJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-04 14:25:47",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
         "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-03 21:26:08",
@@ -1798,7 +1858,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 4
+        "count": 5
       },
       {
         "name": "斗六",
