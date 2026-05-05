@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-05T07:00:33.527216+00:00",
+  "generated_at": "2026-05-05T07:15:38.724003+00:00",
   "metrics": {
-    "total_24h": 16,
+    "total_24h": 18,
     "prev_24h": 5,
-    "growth_pct": 220.0,
-    "news_24h": 12,
+    "growth_pct": 260.0,
+    "news_24h": 13,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 171,
+    "total": 173,
     "prev": 219,
-    "growth_pct": -21.92,
-    "news": 132,
+    "growth_pct": -21.0,
+    "news": 133,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,21 +28,25 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 12
+      "count": 13
     },
     {
       "platform": "youtube",
       "count": 4
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 132
+      "count": 133
     },
     {
       "platform": "facebook",
-      "count": 30
+      "count": 31
     },
     {
       "platform": "youtube",
@@ -76,7 +80,7 @@
     },
     {
       "hour": "2026-05-05 04:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-05-05 07:00",
@@ -84,7 +88,7 @@
     },
     {
       "hour": "2026-05-05 10:00",
-      "count": 2
+      "count": 3
     }
   ],
   "by_hour_7d": [
@@ -354,7 +358,7 @@
     },
     {
       "hour": "2026-05-05 04:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-05-05 07:00",
@@ -362,16 +366,27 @@
     },
     {
       "hour": "2026-05-05 10:00",
-      "count": 2
+      "count": 3
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 12
+      "count": 13
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "劉建國 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmODhJamJGaEE1QUdfaFU3eDNyWXdDMmstcEdicUFRMlZGYlFQWWc3WDd2dEp5UHRVVGQwbHBVY09EV2syazRZWWRnOWlXT1ZLbk94TmNuSE1kQXNmYW9fTVJ5cjF1RWxKZ0NZZHlMRzZsSzRtMzJYN2gyOA",
+        "time": "2026-05-05 10:45:21"
+      }
+    ],
     "news": [
       {
         "title": "討論牆 | 代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - LINE TODAY",
@@ -381,6 +396,11 @@
       {
         "title": "張嘉郡：下個零關稅可能是稻米 - 中時新聞網",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yaE82MjRJNEJlVXNSdzdVaGV2Zlg4NDdpWU44aWR0UmM0aVV0akdtOENyWC1IWERnX2RUai13OGY2dFZXd2dyR0U5Q1lwQ0sydk9qZURULWFTNzF0VU5aYWlXOWMwTG5IM3Jv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-05 04:10:00"
+      },
+      {
+        "title": "張嘉郡：下個零關稅可能是稻米 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbHFMOUJBZW9sNWZZWllQRWp4STQ5ZHU4SmFrNTVsTUdCUE9idHY0d2dURDVud292X1N5b0t0XzJUdVRYODdWNDVxWEZzTzJ2U05ISFRVS3lETU1ORFpLVXcwVWNiTmdaTUgzVzEzbzBobzZjYnU3RVd5RXpncW94eFdjNTdDVWdoVjYwcC1qNTMtdXgyTXJvRVNwNU1BbGNVZjNnbU5XZUIzN1F1dmhlYjQyb1JCcEhaNUROdEtGZlVRdUFjQWUzU3QzZFJFZHNrMmoySU5uX0hUb3Fyalp1NFZYVmFQbnV0TVR5V0szS24?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-05 04:10:00"
       },
       {
@@ -438,10 +458,21 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 12
+      "count": 13
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "劉建國 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmODhJamJGaEE1QUdfaFU3eDNyWXdDMmstcEdicUFRMlZGYlFQWWc3WDd2dEp5UHRVVGQwbHBVY09EV2syazRZWWRnOWlXT1ZLbk94TmNuSE1kQXNmYW9fTVJ5cjF1RWxKZ0NZZHlMRzZsSzRtMzJYN2gyOA",
+        "time": "2026-05-05 10:45:21"
+      }
+    ],
     "news": [
       {
         "title": "討論牆 | 代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - LINE TODAY",
@@ -451,6 +482,11 @@
       {
         "title": "張嘉郡：下個零關稅可能是稻米 - 中時新聞網",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yaE82MjRJNEJlVXNSdzdVaGV2Zlg4NDdpWU44aWR0UmM0aVV0akdtOENyWC1IWERnX2RUai13OGY2dFZXd2dyR0U5Q1lwQ0sydk9qZURULWFTNzF0VU5aYWlXOWMwTG5IM3Jv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-05 04:10:00"
+      },
+      {
+        "title": "張嘉郡：下個零關稅可能是稻米 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbHFMOUJBZW9sNWZZWllQRWp4STQ5ZHU4SmFrNTVsTUdCUE9idHY0d2dURDVud292X1N5b0t0XzJUdVRYODdWNDVxWEZzTzJ2U05ISFRVS3lETU1ORFpLVXcwVWNiTmdaTUgzVzEzbzBobzZjYnU3RVd5RXpncW94eFdjNTdDVWdoVjYwcC1qNTMtdXgyTXJvRVNwNU1BbGNVZjNnbU5XZUIzN1F1dmhlYjQyb1JCcEhaNUROdEtGZlVRdUFjQWUzU3QzZFJFZHNrMmoySU5uX0hUb3Fyalp1NFZYVmFQbnV0TVR5V0szS24?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-05 04:10:00"
       },
       {
@@ -506,12 +542,12 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 11,
-    "劉建國": 1
+    "張嘉郡": 12,
+    "劉建國": 2
   },
   "mention_compare_7d": {
-    "張嘉郡": 111,
-    "劉建國": 45
+    "張嘉郡": 112,
+    "劉建國": 46
   },
   "top_news": [
     {
@@ -522,6 +558,11 @@
     {
       "title": "張嘉郡：下個零關稅可能是稻米 - 中時新聞網",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yaE82MjRJNEJlVXNSdzdVaGV2Zlg4NDdpWU44aWR0UmM0aVV0akdtOENyWC1IWERnX2RUai13OGY2dFZXd2dyR0U5Q1lwQ0sydk9qZURULWFTNzF0VU5aYWlXOWMwTG5IM3Jv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-05 04:10:00"
+    },
+    {
+      "title": "張嘉郡：下個零關稅可能是稻米 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbHFMOUJBZW9sNWZZWllQRWp4STQ5ZHU4SmFrNTVsTUdCUE9idHY0d2dURDVud292X1N5b0t0XzJUdVRYODdWNDVxWEZzTzJ2U05ISFRVS3lETU1ORFpLVXcwVWNiTmdaTUgzVzEzbzBobzZjYnU3RVd5RXpncW94eFdjNTdDVWdoVjYwcC1qNTMtdXgyTXJvRVNwNU1BbGNVZjNnbU5XZUIzN1F1dmhlYjQyb1JCcEhaNUROdEtGZlVRdUFjQWUzU3QzZFJFZHNrMmoySU5uX0hUb3Fyalp1NFZYVmFQbnV0TVR5V0szS24?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-05 04:10:00"
     },
     {
@@ -568,11 +609,6 @@
       "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96Ul9VQV9GZHRVbUpFTVVFdHVJbktFcF9ZMFByT1pteUNlSXo5MmtydmNmM3A0Yi1RRFAzNmRKT2I1eWRMOS1Kc1lUQWpZRTMwY3hkRmJXSUt6ZFdxNE1mRE0zWHBMRW1rc2fSAW9BVV95cUxPQXRVVC1JNnUtNWlDVnBXdTVnVUJhY3c4WmdjMkltcGhmVXdOWjlpb1BrM3B1TktMdkg3VTcxZ0JISXNOZmo1RkNySDh2QkhvZlMtUkJVQmNGNU9DX0phaU9GSmU5NkY0a1pMbXQtb1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-04 15:42:45"
-    },
-    {
-      "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNY2tvclpCcEI0SGM5akQ0dXpmakZYZDNiTEI5VzFkZEM0Xzh6aW1BeUp6TzBabTFRU1NPUmQ2blNjWDA1Zl9HX2RCNXdNOEJ6SlRKUWltZlpaWkdxaHVZMXRSQ1RHYnVsd0xfeHZqNFhJX3U2U3h3WU03cnR6aXJicGc0ZXpIbWVGYWtPbEdhSHV4VXg3b1E1TGNIWnl5cmdxTjBRQk1RNEVDR3p5TlJkeFo3aVNDS0s3Ym9qRnkwbEt6UDJzSW1rcEFNeHpMSW5fc19QX2ZwUjM0LWxIZFVmSFJwUmZrTjBXZ1RTVXRSc0IwN1prLUctWkJDUVQwN1FJQjJIcThtZVdLelNIWXU5SFpMQmE5VUVZejhTZUI3T2RnUjZyQU5XRWFUZHNtcDIxeC1wSGJWbndHekVXbC1lTzF5YlM0MlgwT3VCUWN1TmlOWnMtRnNYbDZ0NDhQNlE3YTF0NUhYSzNQay11REZfSnVRR0lFeUxxZVZ3RFpTTDNJcVpzMGRSRXhnR0NKb29oLTFpU3daa295aHFfS3JLS29LUndza2YxTDhUR1hHN1Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-04 15:42:45"
     }
   ],
   "top_news_7d": [
@@ -584,6 +620,11 @@
     {
       "title": "張嘉郡：下個零關稅可能是稻米 - 中時新聞網",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yaE82MjRJNEJlVXNSdzdVaGV2Zlg4NDdpWU44aWR0UmM0aVV0akdtOENyWC1IWERnX2RUai13OGY2dFZXd2dyR0U5Q1lwQ0sydk9qZURULWFTNzF0VU5aYWlXOWMwTG5IM3Jv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-05 04:10:00"
+    },
+    {
+      "title": "張嘉郡：下個零關稅可能是稻米 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbHFMOUJBZW9sNWZZWllQRWp4STQ5ZHU4SmFrNTVsTUdCUE9idHY0d2dURDVud292X1N5b0t0XzJUdVRYODdWNDVxWEZzTzJ2U05ISFRVS3lETU1ORFpLVXcwVWNiTmdaTUgzVzEzbzBobzZjYnU3RVd5RXpncW94eFdjNTdDVWdoVjYwcC1qNTMtdXgyTXJvRVNwNU1BbGNVZjNnbU5XZUIzN1F1dmhlYjQyb1JCcEhaNUROdEtGZlVRdUFjQWUzU3QzZFJFZHNrMmoySU5uX0hUb3Fyalp1NFZYVmFQbnV0TVR5V0szS24?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-05 04:10:00"
     },
     {
@@ -670,14 +711,14 @@
       "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPY2VLQ3lGNG1YMjI4dEhvazZrUEZoSkszR0lZWGZpNEd2bUd0RGJhYWQ4QndDTUQyRjd0d2FGQ3paTFJ6M3ZST3ZGVWdyRHZBTUo1NHc1RmthWmNqYTI3WExTcTJqMk1zM0VaYkdBM05ZTjFSYzZJSG9UYW04VlZKQkhNaXF3RzhORkgzU01IXzgzRmlnOVRCLUthNmhXdWFLbkZWVElhNmpDYzNEa0t1Vl96TFN1WnJodTJhOFdvQmY1RWhoWXNyR2lOTi1Zb1BYbU1WZEFLWTVPUmQxZE10ZHJ5UmZuSXlMclZna2M2MFdUQkluQnJtbm1Qc2VJUU55OGpFeFlpRF8yTS1vdVMxbzhiWFpOMjA2QUo5d09BLUhad09TN2luMmNwdVRybWRVNXJXN2tQNjQzOFoyanlDRjBsbTkteFZGMVVOMGNQRzdxRDM2R3kydmdIajdsUzNHaUxBUFg0RTVHS1dIc3I5c1dDaHY3ZXBDaFBjSHotX0VZNDE5X05IRUhxRktxSWpBclk0LUg3S29ldDFsY0YwbDZiQmcwNXZyWlp2OUpBQUlhQnpUaDFoWTRDMXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-02 22:11:00"
-    },
-    {
-      "title": "雲林高齡研究中心啟用 劉建國促成39億重大建設 - 元丰傳媒",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0xBdXlhc3lrX2ZlS0ljUGFMeVBQcUFDZklXN0M3bWxjay1PUVd2SVdkNTVSTzJDWkhHemU4YlpIVmVrbXhING9HSks4ZWlJcU9pLWZNd0JnOGM4VDhlQVplV3R0MDZNQzl2ZENxUmZPYTJxU3hBUnRXSVVqLVV5Uw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-02 06:13:29"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "劉建國 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmODhJamJGaEE1QUdfaFU3eDNyWXdDMmstcEdicUFRMlZGYlFQWWc3WDd2dEp5UHRVVGQwbHBVY09EV2syazRZWWRnOWlXT1ZLbk94TmNuSE1kQXNmYW9fTVJ5cjF1RWxKZ0NZZHlMRzZsSzRtMzJYN2gyOA",
+      "time": "2026-05-05 10:45:21"
+    },
     {
       "title": "下午出去走一趟 很快，7000步以上 整座山只有你一個人 吊橋上唯我獨享 恰似天地的枕木 給我不著邊際的空間⋯⋯ - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMigAVBVV95cUxPYnFkT3dSd1VQT2w4N0hqeHBHMDcwSTExSnFTQ2FyU2dmLVJhZDNsUnZrTjl6Tmp0V2JsblRyem5XeDYzMFExMnpMNnpQX2RqZ0dRSmxydWlzWm9FT3VlQzV3eHpsak5UUUdLTkU0dUFVMW82czQ2eFN5eWlJaGdFX2d1TlI5V0lRZGI2aWllamdrRXpwcFh2R09LUFotQW14VXRkc1gxNkFpSGxxS0RjTjhVeDdhMDlCX2ZkZ2l5a3BOWTBRaXh4RlpsNUx6Q2lIVUY3ZTJXbVlxUnRKWDR2MFJ6MW1xY2tueWpXUkFZSHpidnlxRVY1eEdFZGVJNHFPWjFXWVY3MXlySGt4UTFpejMyYlJ3QnROeEZ0aHJTZnVoeF82bTlnM0FpNG9KWjNRcVgxdzlvUXdnZDRyU0hadElKZVFJVkx1WUx1Z2xlbnRJWG16NUVrUDJ4azJOb3pXaENxYUptMlpOU2N3bXp1Zi1QWmREYTBISG12ZksweDBmUkdmNl9QdlZTT2lad3dOdTM1MUV3QzBtNlNUSTJ1cFpFOFR3ZFZZYkxIZnJtQUV0TlJqX1JpM0lRMzF2bUtMLU5QNHY5ZS1FSlI5QndxQzF5dXdKeTdWZ29id2RHaWJuUHdJRkJJV3VKd2ZaVG9KUzlTaFV1WTBhWXMzTjlkSHFoMDRrbVg2aDQxdGJFUk5JZDFWM0NSeGJ4cFQyZ19JWFRPOXRqR1gtUmRBekhUUmF6bzIwenJVakFmTE14cHotRG4xS1ZLdEtDRVdxeUlTbEtZVUtSSDdtM3BFYzRZLTRlUXY5V0VndjY2NGwxbU1Sb1JPREFyMGotYjBIUV9R",
@@ -772,11 +813,6 @@
       "title": "雲林鄉親參訪立法院 今天立法院特別熱鬧，因為充滿了熟悉的家鄉氛圍！🥰 非常開心能接待 遠道而來的鄉親們，#江文登 #蔡孟真 #蔡永富 #林文彬 #顏嘉葦 議員帶領大家特地北上來到立法院參訪，一路上真的辛苦了。看到一張張親切的臉孔，能和大家輕鬆聊聊家鄉的 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi8AdBVV95cUxOUndxV1dpWVVXVDVqd1FMc202QTlfaE9WcnRWeEFSMWVrQ3FOelp2ZW1CbFpseTFRUTlTVTF3ZkpacWUyc1VTbVd4QzlBZzZraFlfbUstVEJtUlc2cTZleEhpQWNoZ3B1c1JsRjN3cXk0ZW1SYnZQLTU4YWZOTE0zVXRlWjIxZnFKYkU3Yy1PckNZanl4NFNkeW8tc05mSDRnMDJFOTdzcDdOUnRjLXRLNU9jbXNVRVVTeEd0UV83dmFGazNuM1hVOWtHUjRDbjdCWThRMS1WVzZNRzBMSGxJdFJ2dEQ4X1JHMWR4TDhTWmhNMl9VdVVXTlpvU3UzcFJXcVo5LU9TUWlQd0pGYmg5UzZrRENKWE5ucC1jNTFfam5IZ1ptYzFaak1OMHgxM0tIckxRLUh4M2VYNGczZkY5d2l2LUJNWTVHSHVzcTdqODNEUzVkNDRfVGFSLXlzSTc2Q3RjTnJwT1RMckIxX0x0bENZTmZvVDJmbHlHZnFERGZfTlEyUzljeEZVQVRwM2RCYVZWcDNZbnFyRThuSXJHMGI3aEpvR0NYN2JYRHlQZkpqRjIxYTFUNlNNMmtwTHlmbnl0ZFpVVHVtN3dCVTJEX29PVUFVd3ZkUWtoQzB1MXdscWNNcm96bFJ1Wk9sZmJIOUF4X3d1MHdkaG1uaWxkazQ3SE0tXzZUNU5GenJwcXIzaFh5ZWU0UnNTV2hJOURLV0dLbGhJTThIOEswWDE2S0p1QUNKSTYybjQ1cWlCS2t2Q3Nub19yLTFaeEd1VjJUemp5cmNUQ1ZRdkIxNVQ2WHNhQ3NoanNWZHhaMlNCdjlyc1N1bkpsOHJ1MkotUDJQY0VUU3FCRE5WVWQyWnhQdjktTU1acUlyVERSX2FwaFdvNVZuWkttcUhGYU1PWGhuVG1zaVVQOEdMam5KTlVyUGczV3RVVjR4TUJqMWE5dExMTlp2ekZkaXVJUWdfQWRvNU9KeEVXUFktaTh1Q29fOTJqRnJkX1l5YzViR2NvamI0QnJCVVh0aHZaRjdzbFpvMjAtRlJWc1RUcUoyZmk4Ymxkc000U1R0eTdvV0I0VDAtS0lTN0lVd3c0aHV2SnFhd2lGQko5OW5fclpSdkxOSUVCaWhhVTFCMnB5UGhqZmpGaW16b0xEZTNMbGZkN0tDQWJIUzhkSWFHdHQtUEd6aTFlal85QkFacjlBSHlLakI3X21SOHN1MDlVUW0zNFJGNmk4R3J1UnFURE9ON1podnRPN1ZiUi1QM3NUR1pCSFFBbTNwN0piQ2l0SFpoajFUSkRWZVhaZ2RkSGF4WEp3aWlpRWlXdTBQRzZJTmRkUDM",
       "time": "2026-04-29 20:20:24"
-    },
-    {
-      "title": "#食安與農民不能被犧牲 從 #美豬、#美牛，到 #發芽馬鈴薯，再到現在的 #美國花生零關稅進口，農民承受的壓力也一再累積。 一次次政策調整，大家心裡都有一個疑問： 下一個受到衝擊的農產品，會是什麼？ 雲林花生占全台近九成，美國花生價格卻只有台灣的三分之一 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2EtR09jSkhVenVMTDVVRnAwLXcyUjMzSnFYZkZtSE1LZnlTTFJGWlUxYTR0Njdmd2x0RFNLRkRCUF9wYXY4MFJVY1NnSkJGdl9kTVZKd1VONE93cGI4eUtLSDQ0eV9aaUU0Qi1fcEpiLWlvaWZaMnhpbDZUa3ZqQ3c5SGF3SjRWbTdqQ1p0VkdSZlBzcGFEQ0JUTUp4UQ",
-      "time": "2026-04-29 18:48:43"
     }
   ],
   "latest_news_20": [
@@ -788,6 +824,11 @@
     {
       "title": "張嘉郡：下個零關稅可能是稻米 - 中時新聞網",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yaE82MjRJNEJlVXNSdzdVaGV2Zlg4NDdpWU44aWR0UmM0aVV0akdtOENyWC1IWERnX2RUai13OGY2dFZXd2dyR0U5Q1lwQ0sydk9qZURULWFTNzF0VU5aYWlXOWMwTG5IM3Jv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-05 04:10:00"
+    },
+    {
+      "title": "張嘉郡：下個零關稅可能是稻米 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbHFMOUJBZW9sNWZZWllQRWp4STQ5ZHU4SmFrNTVsTUdCUE9idHY0d2dURDVud292X1N5b0t0XzJUdVRYODdWNDVxWEZzTzJ2U05ISFRVS3lETU1ORFpLVXcwVWNiTmdaTUgzVzEzbzBobzZjYnU3RVd5RXpncW94eFdjNTdDVWdoVjYwcC1qNTMtdXgyTXJvRVNwNU1BbGNVZjNnbU5XZUIzN1F1dmhlYjQyb1JCcEhaNUROdEtGZlVRdUFjQWUzU3QzZFJFZHNrMmoySU5uX0hUb3Fyalp1NFZYVmFQbnV0TVR5V0szS24?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-05 04:10:00"
     },
     {
@@ -874,11 +915,6 @@
       "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPY2VLQ3lGNG1YMjI4dEhvazZrUEZoSkszR0lZWGZpNEd2bUd0RGJhYWQ4QndDTUQyRjd0d2FGQ3paTFJ6M3ZST3ZGVWdyRHZBTUo1NHc1RmthWmNqYTI3WExTcTJqMk1zM0VaYkdBM05ZTjFSYzZJSG9UYW04VlZKQkhNaXF3RzhORkgzU01IXzgzRmlnOVRCLUthNmhXdWFLbkZWVElhNmpDYzNEa0t1Vl96TFN1WnJodTJhOFdvQmY1RWhoWXNyR2lOTi1Zb1BYbU1WZEFLWTVPUmQxZE10ZHJ5UmZuSXlMclZna2M2MFdUQkluQnJtbm1Qc2VJUU55OGpFeFlpRF8yTS1vdVMxbzhiWFpOMjA2QUo5d09BLUhad09TN2luMmNwdVRybWRVNXJXN2tQNjQzOFoyanlDRjBsbTkteFZGMVVOMGNQRzdxRDM2R3kydmdIajdsUzNHaUxBUFg0RTVHS1dIc3I5c1dDaHY3ZXBDaFBjSHotX0VZNDE5X05IRUhxRktxSWpBclk0LUg3S29ldDFsY0YwbDZiQmcwNXZyWlp2OUpBQUlhQnpUaDFoWTRDMXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-02 22:11:00"
-    },
-    {
-      "title": "雲林高齡研究中心啟用 劉建國促成39億重大建設 - 元丰傳媒",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0xBdXlhc3lrX2ZlS0ljUGFMeVBQcUFDZklXN0M3bWxjay1PUVd2SVdkNTVSTzJDWkhHemU4YlpIVmVrbXhING9HSks4ZWlJcU9pLWZNd0JnOGM4VDhlQVplV3R0MDZNQzl2ZENxUmZPYTJxU3hBUnRXSVVqLVV5Uw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-02 06:13:29"
     }
   ],
   "person_sections": {
@@ -997,6 +1033,11 @@
           "time": "2026-05-05 04:10:00"
         },
         {
+          "title": "張嘉郡：下個零關稅可能是稻米 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbHFMOUJBZW9sNWZZWllQRWp4STQ5ZHU4SmFrNTVsTUdCUE9idHY0d2dURDVud292X1N5b0t0XzJUdVRYODdWNDVxWEZzTzJ2U05ISFRVS3lETU1ORFpLVXcwVWNiTmdaTUgzVzEzbzBobzZjYnU3RVd5RXpncW94eFdjNTdDVWdoVjYwcC1qNTMtdXgyTXJvRVNwNU1BbGNVZjNnbU5XZUIzN1F1dmhlYjQyb1JCcEhaNUROdEtGZlVRdUFjQWUzU3QzZFJFZHNrMmoySU5uX0hUb3Fyalp1NFZYVmFQbnV0TVR5V0szS24?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-05 04:10:00"
+        },
+        {
           "title": "美國花生要來了！張嘉郡警告「稻米恐淪陷」 農業部嚴正澄清 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQNmJYeWJSeFNmZVFocTJVV3h5aF8wX3FfdE5jb3RHUTk1UW4wWFViWkZyX2lrMDJnQ3FfQ0NMLUJKLVZTeWJKU0RieE1QZUpOaUh6WnRQVjV5MVdDcVJVb2Y3LUxmRjd5NEJFTDItRTFaMGNUTjdvOXVWaVY0RmZodXQ4MjVYQ2tUT2V3RWRHaTRWTlVGSHlmM1J1eXA0cUlaY216Q29oY0tfb2NMWW5vQmExdVZQZnZVMTNuSDgxSXp3eGR6cC0xdWltZV9uLUQtUkdVaVFhMTFGaXlEb1hKWTVsMVMzc01pUkdfSzdnUmo5aHl1bFZWX25GR2ZMcUd1WldkRG1IVmdUMW54UjVMVmx0X2RCWENpcEFfN1Y1Z1A1bnJrb1hPUFNJWWdFbTJyMnJ2Q054Sl9udDJ5am5JaV9lOUF5UzU1bkFHWjVxdXZqMlZOd2hUd2R1ZDBKTlVsY25PYnFES0hLQXBvVnNqYzl2bDFFZm8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-04 21:47:44"
@@ -1080,16 +1121,16 @@
           "title": "雲林縣長參選人張嘉郡重視偏鄉閱讀承諾籌措1.3億重建鄭豐喜圖書館導入AI學習翻轉口湖發展！ - 台灣華報",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ET0RuUDJYR29YemJTT21IaFhORHRBZDlPY1plVTJhSHRMZHNrYlY0VHV1enlPeTNMUXhEcFk0UkNZUGJUZHhURnp4NDQtTjdaZXBqeFFKcmxURExySGY5dU9ObmlJYngxNjZN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-30 21:59:06"
-        },
-        {
-          "title": "（有影片）／張嘉郡承諾1.3億重建鄭豐喜圖書館 推AI翻轉口湖偏鄉數位文化學習機制 | 觀傳媒 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BUzlfdTc0MXV4Mkk0M2U3azdWamRhQnRIMl9rTFFsRUFHZWxzSVU1a2JKQkJyTTZxVU5uY3I5Nk5CcUdCVEltc0JUMXRrWWtNYnVuWmVn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-30 20:43:02"
         }
       ]
     },
     "劉建國": {
       "facebook": [
+        {
+          "title": "劉建國 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmODhJamJGaEE1QUdfaFU3eDNyWXdDMmstcEdicUFRMlZGYlFQWWc3WDd2dEp5UHRVVGQwbHBVY09EV2syazRZWWRnOWlXT1ZLbk94TmNuSE1kQXNmYW9fTVJ5cjF1RWxKZ0NZZHlMRzZsSzRtMzJYN2gyOA",
+          "time": "2026-05-05 10:45:21"
+        },
         {
           "title": "👉更多新聞👉 國家, 醫學, 高齡 好報報導 (劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地) 版權所有 台灣好報 【記者 劉峻文／雲林 報導】台灣正式邁入超高齡社會，為因應人口結構快速老化，在立法委員劉建國長期奔走與強力爭取下，中央投入總經 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMi2wdBVV95cUxOaDhVV2U4QnFGOExVUGRhN2h5QUlKNnpJLWtGTjBXejZIMXFPVWFpRWZwQnRtdmU4WW1tbkItdVEySXhyd0hYYTRESF9jeUxnLUpDSDJvT1JwM3piX2NYdmFCeVZuMlRkU3hGTFRRTktMWjdHejFKRks2c21uT3A1ekU3eV9DYXp6eU9FX092N2c2R2ZibVh0b19XZTQ0RHBlb3lUdTF5TmQ0VkgxM3k3dUNJaHlkOEdOZFhhVlF0WFNaWTNnZVg4TlR6YkE1Sl9mLVVQNGNpNGE1alRLZG8xYzlkZFFaUGhobV8wV3djaE1uWHcwVkFROWRpSzdpR3BYN3ZtOUJlZVE3UmVSWFB3RW9SZjh0UFd3SnNqNjhOTEdELVcxbFp4VlZodTZQcW0xMU9iWXZOY2Z1Z01DdElmdEs0eVhkUWZGcTE1QTBlZ05Hc2tSai14cld2cFhOcHpWelp3d1A4Zk44RC1EVkR3bng5TXFaa3BTMzZfazlQLU9OZmg0bWpSdktoRy1Na29DcVdKMlhwLWNKQ0NnUWZtTkE1Mm5RUG1ZbGI4UWNsM1NKU2RrN2o3YTNKOUt0VFJRWlQ4Z1REWjdRSWRoVkRoWWN4YURTdk9FZFJta25oM3d1QnBpd3hXQXpmQmhOeXNhOGdKRDBiaWNiRGVlUUJSZnZLb1VSNXNUWW82a1NkNmZjNkp3X0NIUk9JaWxDZ1Vham1nNjI3N2VtV09GWWpSUGljZWw4cWd2TEc2dWZ2cW9ZZkJuV1Bsa2xEcUo1aU01YnF1aXV4VXBaZE12cHcxR0pWX3ZKN3BMSTVzZnlpRlpxMVRyREdOamxvQVBibWZaTUJfVG1YNjBWemhBU2h2RjhZQUozYkJCZmVXUVVBeGVNZU9Lb1VIQnNGNE1mX0lsLW5DNjZCYjI5bHlMZDUtZmZEOXg1eXdfUmNtTG1WeEZxVkNhQTlLckhGUzk3dV8xbHBKc3QzS1NDZm8zanp5RVNLTlIzejJFalllR0JmX05JX3VIa0xOTk9GTWdWNWxiNG9nSU8tVGtVUXVlbnhBN0FDSXAyRFZRaElaV25TRWdyb25OcjV5dlJPZ1dzRDBXdE45MEotOUtNU3A0Y2FYejU2dlRQdS1ZQ2JMel9nRnhYSUdhb01kb1pndTB2bFdoTE5XczdReWUzRzZQS3RkYXlXTnlvRXFibmdfTXJJbjg4cEc5NGsxQnJ6OWQ5ZDlSX0pmSFA1NmxjWVc4RUdKMWY1Q25xSlVHR21WZUFNLWxtTV95VUlILTZDbTEtZU10NUJKZWxkZ192YUk",
@@ -1183,11 +1224,6 @@
         {
           "title": "劉建國 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZlNLTXRBT1JRbU9YdU9BNElrOUNmT0RuNktjcjZzdVJCX3N5SVo0QWdCczMzNTdPanQzeTZZWnRJclVZZy13SDFkMndLajZaMkduZXV0RGNUWWc5Z29QeVhaazBtNG9JTHd0bGNtZmg1NFJtNGVnUzRzOA",
-          "time": "2026-04-17 17:37:54"
-        },
-        {
-          "title": "劉建國 - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYjd0dmFsb012cEdMRHVlSzZ2X3BkOHZtWEVYV3BNTGJMQlVuWnRzUEJpVmFyeE9RUGJBdVUyeHVvNFRLUWNab05zTkpLZEF0Y0kyX194V193MnhzLS1mRjhnVDAzTzFTTW5iTk9Pc0piQm5GNjY5UjdXYks4OEpnTTlERzZjajRsLV95TE5jZ0duOUY2RTRSLTNZM3g3dw",
           "time": "2026-04-17 17:37:54"
         }
       ],
@@ -1308,6 +1344,11 @@
         "time": "2026-05-05 04:10:00"
       },
       {
+        "title": "張嘉郡：下個零關稅可能是稻米 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbHFMOUJBZW9sNWZZWllQRWp4STQ5ZHU4SmFrNTVsTUdCUE9idHY0d2dURDVud292X1N5b0t0XzJUdVRYODdWNDVxWEZzTzJ2U05ISFRVS3lETU1ORFpLVXcwVWNiTmdaTUgzVzEzbzBobzZjYnU3RVd5RXpncW94eFdjNTdDVWdoVjYwcC1qNTMtdXgyTXJvRVNwNU1BbGNVZjNnbU5XZUIzN1F1dmhlYjQyb1JCcEhaNUROdEtGZlVRdUFjQWUzU3QzZFJFZHNrMmoySU5uX0hUb3Fyalp1NFZYVmFQbnV0TVR5V0szS24?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-05 04:10:00"
+      },
+      {
         "title": "美國花生要來了！張嘉郡警告「稻米恐淪陷」 農業部嚴正澄清 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQNmJYeWJSeFNmZVFocTJVV3h5aF8wX3FfdE5jb3RHUTk1UW4wWFViWkZyX2lrMDJnQ3FfQ0NMLUJKLVZTeWJKU0RieE1QZUpOaUh6WnRQVjV5MVdDcVJVb2Y3LUxmRjd5NEJFTDItRTFaMGNUTjdvOXVWaVY0RmZodXQ4MjVYQ2tUT2V3RWRHaTRWTlVGSHlmM1J1eXA0cUlaY216Q29oY0tfb2NMWW5vQmExdVZQZnZVMTNuSDgxSXp3eGR6cC0xdWltZV9uLUQtUkdVaVFhMTFGaXlEb1hKWTVsMVMzc01pUkdfSzdnUmo5aHl1bFZWX25GR2ZMcUd1WldkRG1IVmdUMW54UjVMVmx0X2RCWENpcEFfN1Y1Z1A1bnJrb1hPUFNJWWdFbTJyMnJ2Q054Sl9udDJ5am5JaV9lOUF5UzU1bkFHWjVxdXZqMlZOd2hUd2R1ZDBKTlVsY25PYnFES0hLQXBvVnNqYzl2bDFFZm8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-04 21:47:44"
@@ -1379,6 +1420,13 @@
         "url": "https://www.youtube.com/shorts/r5hC040aQbg",
         "time": "2026-05-04 16:09:16"
       }
+    ],
+    "facebook": [
+      {
+        "title": "劉建國 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmODhJamJGaEE1QUdfaFU3eDNyWXdDMmstcEdicUFRMlZGYlFQWWc3WDd2dEp5UHRVVGQwbHBVY09EV2syazRZWWRnOWlXT1ZLbk94TmNuSE1kQXNmYW9fTVJ5cjF1RWxKZ0NZZHlMRzZsSzRtMzJYN2gyOA",
+        "time": "2026-05-05 10:45:21"
+      }
     ]
   },
   "latest_by_platform_7d": {
@@ -1391,6 +1439,11 @@
       {
         "title": "張嘉郡：下個零關稅可能是稻米 - 中時新聞網",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yaE82MjRJNEJlVXNSdzdVaGV2Zlg4NDdpWU44aWR0UmM0aVV0akdtOENyWC1IWERnX2RUai13OGY2dFZXd2dyR0U5Q1lwQ0sydk9qZURULWFTNzF0VU5aYWlXOWMwTG5IM3Jv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-05 04:10:00"
+      },
+      {
+        "title": "張嘉郡：下個零關稅可能是稻米 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbHFMOUJBZW9sNWZZWllQRWp4STQ5ZHU4SmFrNTVsTUdCUE9idHY0d2dURDVud292X1N5b0t0XzJUdVRYODdWNDVxWEZzTzJ2U05ISFRVS3lETU1ORFpLVXcwVWNiTmdaTUgzVzEzbzBobzZjYnU3RVd5RXpncW94eFdjNTdDVWdoVjYwcC1qNTMtdXgyTXJvRVNwNU1BbGNVZjNnbU5XZUIzN1F1dmhlYjQyb1JCcEhaNUROdEtGZlVRdUFjQWUzU3QzZFJFZHNrMmoySU5uX0hUb3Fyalp1NFZYVmFQbnV0TVR5V0szS24?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-05 04:10:00"
       },
       {
@@ -1577,14 +1630,14 @@
         "title": "討論牆 | 美國花生零關稅叩關 張嘉郡籲：農民轉作金提高三倍才能競爭 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wOGNIZEJJUmROOWQ1WUlUV29pM0NrdnN4RWwzaldXcGJibFF0SFFtUkpiZGtITlZOZnVtMWpoX3VpcDVZMjZXSmc4RkpOZWtscGk1and3SXBEOUh3R1lwUnhuTE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-04-30 22:34:53"
-      },
-      {
-        "title": "偏鄉閱讀升級 張嘉郡承諾重建鄭豐喜圖書館 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JTFFKWTg1MllyQ3lFWXYyaUUwMUtnZm52V1VJLWstN1VuUWZHN21sZU5KRklXeS1pZXVSS1c2R2w3T2h6MzliZzRpTDI5aGE2NHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-04-30 22:18:28"
       }
     ],
     "facebook": [
+      {
+        "title": "劉建國 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmODhJamJGaEE1QUdfaFU3eDNyWXdDMmstcEdicUFRMlZGYlFQWWc3WDd2dEp5UHRVVGQwbHBVY09EV2syazRZWWRnOWlXT1ZLbk94TmNuSE1kQXNmYW9fTVJ5cjF1RWxKZ0NZZHlMRzZsSzRtMzJYN2gyOA",
+        "time": "2026-05-05 10:45:21"
+      },
       {
         "title": "下午出去走一趟 很快，7000步以上 整座山只有你一個人 吊橋上唯我獨享 恰似天地的枕木 給我不著邊際的空間⋯⋯ - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMigAVBVV95cUxPYnFkT3dSd1VQT2w4N0hqeHBHMDcwSTExSnFTQ2FyU2dmLVJhZDNsUnZrTjl6Tmp0V2JsblRyem5XeDYzMFExMnpMNnpQX2RqZ0dRSmxydWlzWm9FT3VlQzV3eHpsak5UUUdLTkU0dUFVMW82czQ2eFN5eWlJaGdFX2d1TlI5V0lRZGI2aWllamdrRXpwcFh2R09LUFotQW14VXRkc1gxNkFpSGxxS0RjTjhVeDdhMDlCX2ZkZ2l5a3BOWTBRaXh4RlpsNUx6Q2lIVUY3ZTJXbVlxUnRKWDR2MFJ6MW1xY2tueWpXUkFZSHpidnlxRVY1eEdFZGVJNHFPWjFXWVY3MXlySGt4UTFpejMyYlJ3QnROeEZ0aHJTZnVoeF82bTlnM0FpNG9KWjNRcVgxdzlvUXdnZDRyU0hadElKZVFJVkx1WUx1Z2xlbnRJWG16NUVrUDJ4azJOb3pXaENxYUptMlpOU2N3bXp1Zi1QWmREYTBISG12ZksweDBmUkdmNl9QdlZTT2lad3dOdTM1MUV3QzBtNlNUSTJ1cFpFOFR3ZFZZYkxIZnJtQUV0TlJqX1JpM0lRMzF2bUtMLU5QNHY5ZS1FSlI5QndxQzF5dXdKeTdWZ29id2RHaWJuUHdJRkJJV3VKd2ZaVG9KUzlTaFV1WTBhWXMzTjlkSHFoMDRrbVg2aDQxdGJFUk5JZDFWM0NSeGJ4cFQyZ19JWFRPOXRqR1gtUmRBekhUUmF6bzIwenJVakFmTE14cHotRG4xS1ZLdEtDRVdxeUlTbEtZVUtSSDdtM3BFYzRZLTRlUXY5V0VndjY2NGwxbU1Sb1JPREFyMGotYjBIUV9R",
@@ -1789,6 +1842,13 @@
     "hour": [],
     "day": [
       {
+        "title": "劉建國 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmODhJamJGaEE1QUdfaFU3eDNyWXdDMmstcEdicUFRMlZGYlFQWWc3WDd2dEp5UHRVVGQwbHBVY09EV2syazRZWWRnOWlXT1ZLbk94TmNuSE1kQXNmYW9fTVJ5cjF1RWxKZ0NZZHlMRzZsSzRtMzJYN2gyOA",
+        "time": "2026-05-05 10:45:21",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
         "title": "5月9日誠摯邀請大家一起到雲林縣立田徑場參與 #感恩孝親洗腳 活動",
         "url": "https://www.youtube.com/shorts/kRoZAQWHFIc",
         "time": "2026-05-05 10:24:50",
@@ -1812,6 +1872,13 @@
       {
         "title": "張嘉郡：下個零關稅可能是稻米 - 中時新聞網",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yaE82MjRJNEJlVXNSdzdVaGV2Zlg4NDdpWU44aWR0UmM0aVV0akdtOENyWC1IWERnX2RUai13OGY2dFZXd2dyR0U5Q1lwQ0sydk9qZURULWFTNzF0VU5aYWlXOWMwTG5IM3Jv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-05 04:10:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "張嘉郡：下個零關稅可能是稻米 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbHFMOUJBZW9sNWZZWllQRWp4STQ5ZHU4SmFrNTVsTUdCUE9idHY0d2dURDVud292X1N5b0t0XzJUdVRYODdWNDVxWEZzTzJ2U05ISFRVS3lETU1ORFpLVXcwVWNiTmdaTUgzVzEzbzBobzZjYnU3RVd5RXpncW94eFdjNTdDVWdoVjYwcC1qNTMtdXgyTXJvRVNwNU1BbGNVZjNnbU5XZUIzN1F1dmhlYjQyb1JCcEhaNUROdEtGZlVRdUFjQWUzU3QzZFJFZHNrMmoySU5uX0hUb3Fyalp1NFZYVmFQbnV0TVR5V0szS24?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-05 04:10:00",
         "platform": "news",
         "risk": "綠"
