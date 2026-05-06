@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-06T18:13:35.319328+00:00",
+  "generated_at": "2026-05-06T18:28:41.312849+00:00",
   "metrics": {
-    "total_24h": 10,
+    "total_24h": 11,
     "prev_24h": 8,
-    "growth_pct": 25.0,
-    "news_24h": 0,
+    "growth_pct": 37.5,
+    "news_24h": 1,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 106,
+    "total": 107,
     "prev": 246,
-    "growth_pct": -56.91,
-    "news": 70,
+    "growth_pct": -56.5,
+    "news": 71,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -33,12 +33,16 @@
     {
       "platform": "facebook",
       "count": 1
+    },
+    {
+      "platform": "news",
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 70
+      "count": 71
     },
     {
       "platform": "facebook",
@@ -50,6 +54,10 @@
     }
   ],
   "by_hour": [
+    {
+      "hour": "2026-05-06 10:00",
+      "count": 1
+    },
     {
       "hour": "2026-05-06 17:00",
       "count": 1
@@ -257,6 +265,10 @@
       "count": 1
     },
     {
+      "hour": "2026-05-06 10:00",
+      "count": 1
+    },
+    {
       "hour": "2026-05-06 17:00",
       "count": 1
     },
@@ -277,6 +289,10 @@
     {
       "platform": "youtube",
       "count": 9
+    },
+    {
+      "platform": "news",
+      "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
@@ -326,12 +342,23 @@
         "url": "https://www.youtube.com/watch?v=9L_I-INU_9o",
         "time": "2026-05-06 19:44:17"
       }
+    ],
+    "news": [
+      {
+        "title": "美國花生零關稅叩關 張嘉郡憂心： 下一個可能就是稻米 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOaW14RW13ZWdEOXJGSGI2T3d4VDE2LXNueC1xbXEzdE5rc2JaRXVPVktuY0hlWG8yY3BwR0tQN1Z0QmhJTTR1cTk5U3MwOWZsOUFxdkRyYWVyWGh2U1Y3WVpCVDlueW84bmhTcUI3NHRYSGZKVWttMVhnc2d3MGJXSlNTN3dYUFo3ZzVVcXZndk83cVR4M2tzNUJoS1RkREhGN2d1NVdlclY2Mm9vZ3lVRUowczNKdTJfUUZvOWlCZll2cWZIRWN5TVJaY1FaelZjdmZ3UmI4NWJ2Q21uam96OXU2T2U2M1k5VWRaZGVpR3p5T3BqRnlUQmVfV0NnVXdEOEZHWXNkb1hUb1JZRmZjYlVIX3ZIVk9FZHJaQW55X0FNN3RRUVdEY2pKeEYtbkFBXzY1MG1CR21ZOUgwaWFqTDczRnF1M19jYlNZQXlyX3RVbGJUbjV4WVE5d19TUFh1OFJHMmpGQnNpSl9BZTg3YjVTaldpeUlwX01TOF9HMnJYa2FhbWFOcTFKM1JxaGp3ZVU3M05fQVBLUVNpUmg0Nk9WdHgxV2VMdkY0cHRTS2NYaDd6TjZxNU9BSFdrZzZMZUoycDlEQUZfZ0FNMEZSOE45Y1plY3pqbDVJNFVrZHZlamFDTm1KWWotY1YxRUZMR1BmTGp6TVJKU3V3YVM1eDNuc292bFZYQUJjSnJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-06 10:49:01"
+      }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "youtube",
       "count": 9
+    },
+    {
+      "platform": "news",
+      "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
@@ -381,18 +408,36 @@
         "url": "https://www.youtube.com/watch?v=9L_I-INU_9o",
         "time": "2026-05-06 19:44:17"
       }
+    ],
+    "news": [
+      {
+        "title": "美國花生零關稅叩關 張嘉郡憂心： 下一個可能就是稻米 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOaW14RW13ZWdEOXJGSGI2T3d4VDE2LXNueC1xbXEzdE5rc2JaRXVPVktuY0hlWG8yY3BwR0tQN1Z0QmhJTTR1cTk5U3MwOWZsOUFxdkRyYWVyWGh2U1Y3WVpCVDlueW84bmhTcUI3NHRYSGZKVWttMVhnc2d3MGJXSlNTN3dYUFo3ZzVVcXZndk83cVR4M2tzNUJoS1RkREhGN2d1NVdlclY2Mm9vZ3lVRUowczNKdTJfUUZvOWlCZll2cWZIRWN5TVJaY1FaelZjdmZ3UmI4NWJ2Q21uam96OXU2T2U2M1k5VWRaZGVpR3p5T3BqRnlUQmVfV0NnVXdEOEZHWXNkb1hUb1JZRmZjYlVIX3ZIVk9FZHJaQW55X0FNN3RRUVdEY2pKeEYtbkFBXzY1MG1CR21ZOUgwaWFqTDczRnF1M19jYlNZQXlyX3RVbGJUbjV4WVE5d19TUFh1OFJHMmpGQnNpSl9BZTg3YjVTaldpeUlwX01TOF9HMnJYa2FhbWFOcTFKM1JxaGp3ZVU3M05fQVBLUVNpUmg0Nk9WdHgxV2VMdkY0cHRTS2NYaDd6TjZxNU9BSFdrZzZMZUoycDlEQUZfZ0FNMEZSOE45Y1plY3pqbDVJNFVrZHZlamFDTm1KWWotY1YxRUZMR1BmTGp6TVJKU3V3YVM1eDNuc292bFZYQUJjSnJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-06 10:49:01"
+      }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 9,
+    "張嘉郡": 10,
     "劉建國": 0
   },
   "mention_compare_7d": {
-    "張嘉郡": 59,
+    "張嘉郡": 60,
     "劉建國": 28
   },
-  "top_news": [],
+  "top_news": [
+    {
+      "title": "美國花生零關稅叩關 張嘉郡憂心： 下一個可能就是稻米 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOaW14RW13ZWdEOXJGSGI2T3d4VDE2LXNueC1xbXEzdE5rc2JaRXVPVktuY0hlWG8yY3BwR0tQN1Z0QmhJTTR1cTk5U3MwOWZsOUFxdkRyYWVyWGh2U1Y3WVpCVDlueW84bmhTcUI3NHRYSGZKVWttMVhnc2d3MGJXSlNTN3dYUFo3ZzVVcXZndk83cVR4M2tzNUJoS1RkREhGN2d1NVdlclY2Mm9vZ3lVRUowczNKdTJfUUZvOWlCZll2cWZIRWN5TVJaY1FaelZjdmZ3UmI4NWJ2Q21uam96OXU2T2U2M1k5VWRaZGVpR3p5T3BqRnlUQmVfV0NnVXdEOEZHWXNkb1hUb1JZRmZjYlVIX3ZIVk9FZHJaQW55X0FNN3RRUVdEY2pKeEYtbkFBXzY1MG1CR21ZOUgwaWFqTDczRnF1M19jYlNZQXlyX3RVbGJUbjV4WVE5d19TUFh1OFJHMmpGQnNpSl9BZTg3YjVTaldpeUlwX01TOF9HMnJYa2FhbWFOcTFKM1JxaGp3ZVU3M05fQVBLUVNpUmg0Nk9WdHgxV2VMdkY0cHRTS2NYaDd6TjZxNU9BSFdrZzZMZUoycDlEQUZfZ0FNMEZSOE45Y1plY3pqbDVJNFVrZHZlamFDTm1KWWotY1YxRUZMR1BmTGp6TVJKU3V3YVM1eDNuc292bFZYQUJjSnJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-06 10:49:01"
+    }
+  ],
   "top_news_7d": [
+    {
+      "title": "美國花生零關稅叩關 張嘉郡憂心： 下一個可能就是稻米 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOaW14RW13ZWdEOXJGSGI2T3d4VDE2LXNueC1xbXEzdE5rc2JaRXVPVktuY0hlWG8yY3BwR0tQN1Z0QmhJTTR1cTk5U3MwOWZsOUFxdkRyYWVyWGh2U1Y3WVpCVDlueW84bmhTcUI3NHRYSGZKVWttMVhnc2d3MGJXSlNTN3dYUFo3ZzVVcXZndk83cVR4M2tzNUJoS1RkREhGN2d1NVdlclY2Mm9vZ3lVRUowczNKdTJfUUZvOWlCZll2cWZIRWN5TVJaY1FaelZjdmZ3UmI4NWJ2Q21uam96OXU2T2U2M1k5VWRaZGVpR3p5T3BqRnlUQmVfV0NnVXdEOEZHWXNkb1hUb1JZRmZjYlVIX3ZIVk9FZHJaQW55X0FNN3RRUVdEY2pKeEYtbkFBXzY1MG1CR21ZOUgwaWFqTDczRnF1M19jYlNZQXlyX3RVbGJUbjV4WVE5d19TUFh1OFJHMmpGQnNpSl9BZTg3YjVTaldpeUlwX01TOF9HMnJYa2FhbWFOcTFKM1JxaGp3ZVU3M05fQVBLUVNpUmg0Nk9WdHgxV2VMdkY0cHRTS2NYaDd6TjZxNU9BSFdrZzZMZUoycDlEQUZfZ0FNMEZSOE45Y1plY3pqbDVJNFVrZHZlamFDTm1KWWotY1YxRUZMR1BmTGp6TVJKU3V3YVM1eDNuc292bFZYQUJjSnJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-06 10:49:01"
+    },
     {
       "title": "討論牆 | 代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqaktUc240YlYzb2ZJejJ2YVNrZjVYdzR4WEFiVEp1cm9zall3T3dpbGVWTzZpaWhuQm90ZlZXYVBKLWgzTTgwbGdrbWVIV3NBNFhUWjhiSk1oY3dVS1dsX0pNVGU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -487,11 +532,6 @@
       "title": "丁學忠徒步掃街懇託： 出來投票中止惡質循環 - MSN",
       "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxORzRfdjBub0twSkFuWFBwZ21VR1ZuN05DczVfTmRqclZncTdCelkxQkFBRjVUdmZrb2Fuc2NYR2taMXF3Zm1CQ0xGM3JlbURHV1poWTZfQ3pnNVRiNllMYzh6WUE4N2xPY2tNVEpOMGwwaGFpc2k4MDVmcUZ3cktzdmFHZ2JrRFF3WlhkdTNPSFJLNmg1am1WdjlCbndWQzN1Y2xvMFoyUlpwTmY2MDJlWlRlbzFVcENmTkJGcGNuc2Zva1dqM05ZaUE5MVJkX3NmazRLSnlIc3BNM1V1OHdlSVhzWThOZ2xrdldDYXdkRE5VbFJuMmhidkhXSFZWYUM1RTZrTVhCdGtKM0gxbE1rcVkwS2xnR2FubzhMcG9sRHVRTjBqQWJ6WTlwem9BTUlmSmo5bU93aHlZaW5sVGVMV1JnQm5HQlRDOFVRTFFxTmgwc3dNaHJ5akFneHJVN2RBV1RvWGJCV2NoYkhOSDZxaG9sMEYzTWROVkNMbkI0a2dZRTlieDhjZllHYlhLeWZyX0VTUVJIUEZ6RC1maHRvRGJBRHpDUDFNczhfQUNETmczOEdKSi1zYzJVbW5BaTBwcmdadkl6aGhTRWRMdEZpMHhxcGVxcmJEdWtxZll3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-03 03:16:41"
-    },
-    {
-      "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92VnRvcDZBQ2toUXlYQVJrSFpQT094NG1KaHdaN0c5cFROckF3ZzBjX0xEaXBQWHVQZnVqSnI2aFhZR3hCTGJ5Tl9TMkRPbXlSUEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-02 22:27:32"
     }
   ],
   "latest_facebook_20": [
@@ -598,6 +638,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "美國花生零關稅叩關 張嘉郡憂心： 下一個可能就是稻米 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOaW14RW13ZWdEOXJGSGI2T3d4VDE2LXNueC1xbXEzdE5rc2JaRXVPVktuY0hlWG8yY3BwR0tQN1Z0QmhJTTR1cTk5U3MwOWZsOUFxdkRyYWVyWGh2U1Y3WVpCVDlueW84bmhTcUI3NHRYSGZKVWttMVhnc2d3MGJXSlNTN3dYUFo3ZzVVcXZndk83cVR4M2tzNUJoS1RkREhGN2d1NVdlclY2Mm9vZ3lVRUowczNKdTJfUUZvOWlCZll2cWZIRWN5TVJaY1FaelZjdmZ3UmI4NWJ2Q21uam96OXU2T2U2M1k5VWRaZGVpR3p5T3BqRnlUQmVfV0NnVXdEOEZHWXNkb1hUb1JZRmZjYlVIX3ZIVk9FZHJaQW55X0FNN3RRUVdEY2pKeEYtbkFBXzY1MG1CR21ZOUgwaWFqTDczRnF1M19jYlNZQXlyX3RVbGJUbjV4WVE5d19TUFh1OFJHMmpGQnNpSl9BZTg3YjVTaldpeUlwX01TOF9HMnJYa2FhbWFOcTFKM1JxaGp3ZVU3M05fQVBLUVNpUmg0Nk9WdHgxV2VMdkY0cHRTS2NYaDd6TjZxNU9BSFdrZzZMZUoycDlEQUZfZ0FNMEZSOE45Y1plY3pqbDVJNFVrZHZlamFDTm1KWWotY1YxRUZMR1BmTGp6TVJKU3V3YVM1eDNuc292bFZYQUJjSnJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-06 10:49:01"
+    },
+    {
       "title": "討論牆 | 代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqaktUc240YlYzb2ZJejJ2YVNrZjVYdzR4WEFiVEp1cm9zall3T3dpbGVWTzZpaWhuQm90ZlZXYVBKLWgzTTgwbGdrbWVIV3NBNFhUWjhiSk1oY3dVS1dsX0pNVGU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-05 07:42:42"
@@ -691,11 +736,6 @@
       "title": "丁學忠徒步掃街懇託： 出來投票中止惡質循環 - MSN",
       "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxORzRfdjBub0twSkFuWFBwZ21VR1ZuN05DczVfTmRqclZncTdCelkxQkFBRjVUdmZrb2Fuc2NYR2taMXF3Zm1CQ0xGM3JlbURHV1poWTZfQ3pnNVRiNllMYzh6WUE4N2xPY2tNVEpOMGwwaGFpc2k4MDVmcUZ3cktzdmFHZ2JrRFF3WlhkdTNPSFJLNmg1am1WdjlCbndWQzN1Y2xvMFoyUlpwTmY2MDJlWlRlbzFVcENmTkJGcGNuc2Zva1dqM05ZaUE5MVJkX3NmazRLSnlIc3BNM1V1OHdlSVhzWThOZ2xrdldDYXdkRE5VbFJuMmhidkhXSFZWYUM1RTZrTVhCdGtKM0gxbE1rcVkwS2xnR2FubzhMcG9sRHVRTjBqQWJ6WTlwem9BTUlmSmo5bU93aHlZaW5sVGVMV1JnQm5HQlRDOFVRTFFxTmgwc3dNaHJ5akFneHJVN2RBV1RvWGJCV2NoYkhOSDZxaG9sMEYzTWROVkNMbkI0a2dZRTlieDhjZllHYlhLeWZyX0VTUVJIUEZ6RC1maHRvRGJBRHpDUDFNczhfQUNETmczOEdKSi1zYzJVbW5BaTBwcmdadkl6aGhTRWRMdEZpMHhxcGVxcmJEdWtxZll3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-03 03:16:41"
-    },
-    {
-      "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92VnRvcDZBQ2toUXlYQVJrSFpQT094NG1KaHdaN0c5cFROckF3ZzBjX0xEaXBQWHVQZnVqSnI2aFhZR3hCTGJ5Tl9TMkRPbXlSUEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-02 22:27:32"
     }
   ],
   "person_sections": {
@@ -804,6 +844,11 @@
       ],
       "news": [
         {
+          "title": "美國花生零關稅叩關 張嘉郡憂心： 下一個可能就是稻米 - MSN",
+          "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOaW14RW13ZWdEOXJGSGI2T3d4VDE2LXNueC1xbXEzdE5rc2JaRXVPVktuY0hlWG8yY3BwR0tQN1Z0QmhJTTR1cTk5U3MwOWZsOUFxdkRyYWVyWGh2U1Y3WVpCVDlueW84bmhTcUI3NHRYSGZKVWttMVhnc2d3MGJXSlNTN3dYUFo3ZzVVcXZndk83cVR4M2tzNUJoS1RkREhGN2d1NVdlclY2Mm9vZ3lVRUowczNKdTJfUUZvOWlCZll2cWZIRWN5TVJaY1FaelZjdmZ3UmI4NWJ2Q21uam96OXU2T2U2M1k5VWRaZGVpR3p5T3BqRnlUQmVfV0NnVXdEOEZHWXNkb1hUb1JZRmZjYlVIX3ZIVk9FZHJaQW55X0FNN3RRUVdEY2pKeEYtbkFBXzY1MG1CR21ZOUgwaWFqTDczRnF1M19jYlNZQXlyX3RVbGJUbjV4WVE5d19TUFh1OFJHMmpGQnNpSl9BZTg3YjVTaldpeUlwX01TOF9HMnJYa2FhbWFOcTFKM1JxaGp3ZVU3M05fQVBLUVNpUmg0Nk9WdHgxV2VMdkY0cHRTS2NYaDd6TjZxNU9BSFdrZzZMZUoycDlEQUZfZ0FNMEZSOE45Y1plY3pqbDVJNFVrZHZlamFDTm1KWWotY1YxRUZMR1BmTGp6TVJKU3V3YVM1eDNuc292bFZYQUJjSnJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-06 10:49:01"
+        },
+        {
           "title": "討論牆 | 代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqaktUc240YlYzb2ZJejJ2YVNrZjVYdzR4WEFiVEp1cm9zall3T3dpbGVWTzZpaWhuQm90ZlZXYVBKLWgzTTgwbGdrbWVIV3NBNFhUWjhiSk1oY3dVS1dsX0pNVGU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-05 07:42:42"
@@ -897,11 +942,6 @@
           "title": "討論牆 | 美國花生零關稅叩關 張嘉郡籲：農民轉作金提高三倍才能競爭 - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wOGNIZEJJUmROOWQ1WUlUV29pM0NrdnN4RWwzaldXcGJibFF0SFFtUkpiZGtITlZOZnVtMWpoX3VpcDVZMjZXSmc4RkpOZWtscGk1and3SXBEOUh3R1lwUnhuTE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-04-30 22:34:53"
-        },
-        {
-          "title": "偏鄉閱讀升級 張嘉郡承諾重建鄭豐喜圖書館 - 蕃新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JTFFKWTg1MllyQ3lFWXYyaUUwMUtnZm52V1VJLWstN1VuUWZHN21sZU5KRklXeS1pZXVSS1c2R2w3T2h6MzliZzRpTDI5aGE2NHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-04-30 22:18:28"
         }
       ]
     },
@@ -1166,10 +1206,22 @@
         "url": "https://news.google.com/rss/articles/CBMi2gZBVV95cUxQNFdYWldXZVg0ckUwT0pKeW1UdDhHR01EMDJ4X2J6NnBBX2Ywd3ZheTk2VmU0ZWplNVM3YTlDNFNhNV93SExUWmFmYXByTUtNc1VZRkNzYTAyQjRNaUFTVkJVc0xaNkVHOXFGbXFUQ0J6RTl1M2VsQ01YR3F2aGtqVExUekRlczNVSFJnRkY4NnZsckliN00xMFV0b2gxOTM2N2wxNURWUVJCaFVQblFVc0x0bTBXd3YtZDFCX1lyVG5fRVNJZHFYRzBwbkhiLWloVXNacElsX3hmcXBrTk40NUJPVkttSGVDaWRicm5HZGx0b0RIak00bVVUUWp1SHRnY3RDT2VTZkU3X05xbWZkVDU5dFlYQm5MSVlYc0Z6aG1pcm9RUS1ETXVWSENxZzRSUndweTNxUm5ic0ZtWkI1c0RlTmNDb0FwODVlS2RMMmFReWNhX1RmUGk2cGFmdGp3Mm9rY2FpSFY5VkpZQy1KUzRhZWhoMXBNMGRfaGhEVjdzUWFJSmgxQ0p2NjBrQVFDVXBoZzI5N3NLTkNmR0F0WlBPTHV2YjlxMVZjRUVCLVc0QmRtR1d5dEV4OFBFanBMZGk3LTJ6Uk54LW5NZXpnSmdaMmpTM2ZydmVDS2trQk5YaVVvb0FSMVVFcVVfaGxpUDZIRkNiV2xrbEtEWWhPX2tIODJPYVdyUlJka3BYQk1wYmFQMFFVY0NwekNxbERMV2RsUmtqMjd6b0Vwb0h5VzQ2NlREY2NTOGNrdV9SeFhPbVlHQ3hsRkJjMmhwTG5mY0g2c3BxbHlMd1Y4M3VGNXI4ZElTeEprTk1KeVNQaDVkQWtwUFFfakk0OFlqN2JJb0YwdlBWbW5UYlg5SkdzQjJobzAxb0haMS1BaHFnVnhrOEtjVU1DTG5jaERaY1JydnBrWVIxNWZaUlJLTFVaY2dJMl9LeXZRUGN2VHVxNUxJSFNvR3pyWGxUeGZfVGpfOHotelJ4LVZQQkw0UFNnZWg5b1FWZ2szOUk3ajB5aTMweXplNV8tOVppLS1LWS1XZ1ZEQUlOYm5CMGN6bnY3TE9CTTNhZF9VZ3RjeW1tenZKZDZwRHZqcXhaWUVNM1JrSTY4NnRXaDRPQmF5OFhSR19JTFZTVS1tNkE",
         "time": "2026-05-06 17:18:27"
       }
+    ],
+    "news": [
+      {
+        "title": "美國花生零關稅叩關 張嘉郡憂心： 下一個可能就是稻米 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOaW14RW13ZWdEOXJGSGI2T3d4VDE2LXNueC1xbXEzdE5rc2JaRXVPVktuY0hlWG8yY3BwR0tQN1Z0QmhJTTR1cTk5U3MwOWZsOUFxdkRyYWVyWGh2U1Y3WVpCVDlueW84bmhTcUI3NHRYSGZKVWttMVhnc2d3MGJXSlNTN3dYUFo3ZzVVcXZndk83cVR4M2tzNUJoS1RkREhGN2d1NVdlclY2Mm9vZ3lVRUowczNKdTJfUUZvOWlCZll2cWZIRWN5TVJaY1FaelZjdmZ3UmI4NWJ2Q21uam96OXU2T2U2M1k5VWRaZGVpR3p5T3BqRnlUQmVfV0NnVXdEOEZHWXNkb1hUb1JZRmZjYlVIX3ZIVk9FZHJaQW55X0FNN3RRUVdEY2pKeEYtbkFBXzY1MG1CR21ZOUgwaWFqTDczRnF1M19jYlNZQXlyX3RVbGJUbjV4WVE5d19TUFh1OFJHMmpGQnNpSl9BZTg3YjVTaldpeUlwX01TOF9HMnJYa2FhbWFOcTFKM1JxaGp3ZVU3M05fQVBLUVNpUmg0Nk9WdHgxV2VMdkY0cHRTS2NYaDd6TjZxNU9BSFdrZzZMZUoycDlEQUZfZ0FNMEZSOE45Y1plY3pqbDVJNFVrZHZlamFDTm1KWWotY1YxRUZMR1BmTGp6TVJKU3V3YVM1eDNuc292bFZYQUJjSnJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-06 10:49:01"
+      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "美國花生零關稅叩關 張嘉郡憂心： 下一個可能就是稻米 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOaW14RW13ZWdEOXJGSGI2T3d4VDE2LXNueC1xbXEzdE5rc2JaRXVPVktuY0hlWG8yY3BwR0tQN1Z0QmhJTTR1cTk5U3MwOWZsOUFxdkRyYWVyWGh2U1Y3WVpCVDlueW84bmhTcUI3NHRYSGZKVWttMVhnc2d3MGJXSlNTN3dYUFo3ZzVVcXZndk83cVR4M2tzNUJoS1RkREhGN2d1NVdlclY2Mm9vZ3lVRUowczNKdTJfUUZvOWlCZll2cWZIRWN5TVJaY1FaelZjdmZ3UmI4NWJ2Q21uam96OXU2T2U2M1k5VWRaZGVpR3p5T3BqRnlUQmVfV0NnVXdEOEZHWXNkb1hUb1JZRmZjYlVIX3ZIVk9FZHJaQW55X0FNN3RRUVdEY2pKeEYtbkFBXzY1MG1CR21ZOUgwaWFqTDczRnF1M19jYlNZQXlyX3RVbGJUbjV4WVE5d19TUFh1OFJHMmpGQnNpSl9BZTg3YjVTaldpeUlwX01TOF9HMnJYa2FhbWFOcTFKM1JxaGp3ZVU3M05fQVBLUVNpUmg0Nk9WdHgxV2VMdkY0cHRTS2NYaDd6TjZxNU9BSFdrZzZMZUoycDlEQUZfZ0FNMEZSOE45Y1plY3pqbDVJNFVrZHZlamFDTm1KWWotY1YxRUZMR1BmTGp6TVJKU3V3YVM1eDNuc292bFZYQUJjSnJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-06 10:49:01"
+      },
       {
         "title": "討論牆 | 代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqaktUc240YlYzb2ZJejJ2YVNrZjVYdzR4WEFiVEp1cm9zall3T3dpbGVWTzZpaWhuQm90ZlZXYVBKLWgzTTgwbGdrbWVIV3NBNFhUWjhiSk1oY3dVS1dsX0pNVGU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1364,11 +1416,6 @@
         "title": "健康台灣重要基地落腳雲林 劉建國推動國家級高齡研究中心 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNUFVMZGMtYlFJdkdqN3FhVk9SS3MyXzZIZnFwTDVkLVRmQTE2b2RBbURVYnNsaDllZWc1akNGYlE1cU9fQmRsdTdZYlFrOEVneTFuMmMxM2VjYnRWdEFkbklta3J3cHR3NWdpYUc3RUJ4V3czV0ZBOGtBbmhsMEtDWGJZVEVuQ01CN1hyY3lvR3Nzdk1IQzdranotdWJ6V0hYaHpDVGZ1SUVQQ1ZJMkFSZkJLc1RxZmRuZ2N4TXFoM0tvaXdFMm9NRUk5bXdORmFuS2syZGVXS24xaVdGMjF0dFQ1Sms4OHpHQkxsVm5hM1Vta2JweTA0bXRnWC02VVVONjhfTmZuUk9jSm8xZkFxMVIyTXFvZzU0eFVIakxVdnlyUWJucnc4T0lsWVVHMWFlellhNjhzNENOWnJMZGhZWEs2eG8zaFg5UnpmZGM0bTVrb21yMHhUYkh1bkFZank3Z2hFdFVMZ1dkQWduU2dwNEU3UmtROHZkc0w3MnIzb0FFU28taE4zNDFxQ2k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-01 15:07:07"
-      },
-      {
-        "title": "健康台灣重要基地落腳雲林 劉建國推動國家級高齡研究中心 - 匯流新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XNDZNOXNGTG41dUNnZU42Wi1nRDFBRkJzanU3WldFME5RZ0s1T01KY1ltdXNCWGlTRm5KYmNCTThZUzMzQWJ0eERR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-01 14:53:53"
       }
     ],
     "facebook": [
@@ -1628,6 +1675,13 @@
         "url": "https://news.google.com/rss/articles/CBMi2gZBVV95cUxQNFdYWldXZVg0ckUwT0pKeW1UdDhHR01EMDJ4X2J6NnBBX2Ywd3ZheTk2VmU0ZWplNVM3YTlDNFNhNV93SExUWmFmYXByTUtNc1VZRkNzYTAyQjRNaUFTVkJVc0xaNkVHOXFGbXFUQ0J6RTl1M2VsQ01YR3F2aGtqVExUekRlczNVSFJnRkY4NnZsckliN00xMFV0b2gxOTM2N2wxNURWUVJCaFVQblFVc0x0bTBXd3YtZDFCX1lyVG5fRVNJZHFYRzBwbkhiLWloVXNacElsX3hmcXBrTk40NUJPVkttSGVDaWRicm5HZGx0b0RIak00bVVUUWp1SHRnY3RDT2VTZkU3X05xbWZkVDU5dFlYQm5MSVlYc0Z6aG1pcm9RUS1ETXVWSENxZzRSUndweTNxUm5ic0ZtWkI1c0RlTmNDb0FwODVlS2RMMmFReWNhX1RmUGk2cGFmdGp3Mm9rY2FpSFY5VkpZQy1KUzRhZWhoMXBNMGRfaGhEVjdzUWFJSmgxQ0p2NjBrQVFDVXBoZzI5N3NLTkNmR0F0WlBPTHV2YjlxMVZjRUVCLVc0QmRtR1d5dEV4OFBFanBMZGk3LTJ6Uk54LW5NZXpnSmdaMmpTM2ZydmVDS2trQk5YaVVvb0FSMVVFcVVfaGxpUDZIRkNiV2xrbEtEWWhPX2tIODJPYVdyUlJka3BYQk1wYmFQMFFVY0NwekNxbERMV2RsUmtqMjd6b0Vwb0h5VzQ2NlREY2NTOGNrdV9SeFhPbVlHQ3hsRkJjMmhwTG5mY0g2c3BxbHlMd1Y4M3VGNXI4ZElTeEprTk1KeVNQaDVkQWtwUFFfakk0OFlqN2JJb0YwdlBWbW5UYlg5SkdzQjJobzAxb0haMS1BaHFnVnhrOEtjVU1DTG5jaERaY1JydnBrWVIxNWZaUlJLTFVaY2dJMl9LeXZRUGN2VHVxNUxJSFNvR3pyWGxUeGZfVGpfOHotelJ4LVZQQkw0UFNnZWg5b1FWZ2szOUk3ajB5aTMweXplNV8tOVppLS1LWS1XZ1ZEQUlOYm5CMGN6bnY3TE9CTTNhZF9VZ3RjeW1tenZKZDZwRHZqcXhaWUVNM1JrSTY4NnRXaDRPQmF5OFhSR19JTFZTVS1tNkE",
         "time": "2026-05-06 17:18:27",
         "platform": "facebook",
+        "risk": "綠"
+      },
+      {
+        "title": "美國花生零關稅叩關 張嘉郡憂心： 下一個可能就是稻米 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOaW14RW13ZWdEOXJGSGI2T3d4VDE2LXNueC1xbXEzdE5rc2JaRXVPVktuY0hlWG8yY3BwR0tQN1Z0QmhJTTR1cTk5U3MwOWZsOUFxdkRyYWVyWGh2U1Y3WVpCVDlueW84bmhTcUI3NHRYSGZKVWttMVhnc2d3MGJXSlNTN3dYUFo3ZzVVcXZndk83cVR4M2tzNUJoS1RkREhGN2d1NVdlclY2Mm9vZ3lVRUowczNKdTJfUUZvOWlCZll2cWZIRWN5TVJaY1FaelZjdmZ3UmI4NWJ2Q21uam96OXU2T2U2M1k5VWRaZGVpR3p5T3BqRnlUQmVfV0NnVXdEOEZHWXNkb1hUb1JZRmZjYlVIX3ZIVk9FZHJaQW55X0FNN3RRUVdEY2pKeEYtbkFBXzY1MG1CR21ZOUgwaWFqTDczRnF1M19jYlNZQXlyX3RVbGJUbjV4WVE5d19TUFh1OFJHMmpGQnNpSl9BZTg3YjVTaldpeUlwX01TOF9HMnJYa2FhbWFOcTFKM1JxaGp3ZVU3M05fQVBLUVNpUmg0Nk9WdHgxV2VMdkY0cHRTS2NYaDd6TjZxNU9BSFdrZzZMZUoycDlEQUZfZ0FNMEZSOE45Y1plY3pqbDVJNFVrZHZlamFDTm1KWWotY1YxRUZMR1BmTGp6TVJKU3V3YVM1eDNuc292bFZYQUJjSnJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-06 10:49:01",
+        "platform": "news",
         "risk": "綠"
       }
     ]
