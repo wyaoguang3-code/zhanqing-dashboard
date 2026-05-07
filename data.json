@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-07T22:06:52.362494+00:00",
+  "generated_at": "2026-05-07T22:21:58.358094+00:00",
   "metrics": {
-    "total_24h": 1,
+    "total_24h": 5,
     "prev_24h": 12,
-    "growth_pct": -91.67,
-    "news_24h": 0,
+    "growth_pct": -58.33,
+    "news_24h": 4,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 68,
+    "total": 72,
     "prev": 254,
-    "growth_pct": -73.23,
-    "news": 42,
+    "growth_pct": -71.65,
+    "news": 46,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -27,6 +27,10 @@
   },
   "by_platform": [
     {
+      "platform": "news",
+      "count": 4
+    },
+    {
       "platform": "youtube",
       "count": 1
     }
@@ -34,7 +38,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 42
+      "count": 46
     },
     {
       "platform": "youtube",
@@ -47,7 +51,19 @@
   ],
   "by_hour": [
     {
+      "hour": "2026-05-07 15:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-05-07 16:00",
+      "count": 1
+    },
+    {
       "hour": "2026-05-07 17:00",
+      "count": 2
+    },
+    {
+      "hour": "2026-05-08 00:00",
       "count": 1
     }
   ],
@@ -197,24 +213,133 @@
       "count": 2
     },
     {
+      "hour": "2026-05-07 15:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-05-07 16:00",
+      "count": 1
+    },
+    {
       "hour": "2026-05-07 17:00",
+      "count": 2
+    },
+    {
+      "hour": "2026-05-08 00:00",
       "count": 1
     }
   ],
-  "mention_by_platform_24h": [],
-  "mention_latest_by_platform_24h": {},
-  "alias_by_platform_24h": [],
-  "alias_latest_by_platform_24h": {},
+  "mention_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 4
+    }
+  ],
+  "mention_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "關注營造業職災攀升 劉建國要求勞動部強化防治、正視雲林職災問題 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQSUJFOG9Bbk8tcEpxV0lHaWMxSkRfTDROdURucFBLdFEzZlpwcmh1ZnlpYUk4MUs0UWx0Ymx4Z3VrbzRkVzJDRWJlMGY0QUhmZXpPWVRjZ3gtRU9ub21IeXpNcXByQlNSeG9JOEt4NXlrZjloX29CVG4tVklSZ0JRMnNWM1VRc3hmS1cxNlZVcEt4ZXY0ZV9RRHpQVVlXcEhJMG03cDZXRks5TW9HdTRIX3JvV29GUDlIRW1qWHBmZTgzdzJrLTNLcFlFQ29waFZfbG5JRkpSNE03YmNJWEhXdmxOd3RuNFV5VTRoQUJOYlV5aWxZeWRpN2pJMV9nZmNMZklpN0V6QXlxVkFDWWlrdFMwa3pQLUVxSXFxcW9jS1FPQm5NZzgwTHNuSXk4Wnc4TUdvNDRKLUE3X2FUTFpKUkNpSlFkYkNvdFRlZkF6YXNDODg3TnhKb2t5UHhDUERGeVpYSDhEdTI0dHNHYmFwaml1VkM3R0NNTXoyUDIyZUotdzJrU0FoSDU1bWZsYVI4ZVkzRl9GQ3k0TTM4Y1hvQVZwQTBIeElyaVV0Y2liSVdYdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-08 00:21:58"
+      },
+      {
+        "title": "關注營造業職災攀升 劉建國要求勞動部強化防治、正視雲林職災問題 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOdThkUjd2WWRoN084NGtZTXI0YkRaOFYyNlh4LUZxdXQ5cHk0emQ3NkNyQjJBekhOSzNhdHZIZkFGc2cydlI1TUx4OFdpMnppUVpJTjFkdVc0c1p3d2R5bnMwbS1vSGJHcHZVaWltcEh3UmJYMzhuLVRONXpidDlTaFJJX2o4amtOR3JWMHBYcmYzSFU5aE1tXzE4ZllQRENxak81MXE4UmVCYWhmR05TbU1RUWNLcFhTWHBNSUQ2QjROWXBOWmd6RnNnaFVuclJ6ZmVpbHo3NXN6VEJFenpsUW5hbzB4T0lKN0lKWGoxakU2cTE3Z0dMZ1ctSWZnQnFqRU94WkNqbmhrajdvZGZTeTdNcDJtVlVZRDM5UmZaQ2RoQnd2TjdObnJWbjlVOWFmNFFIRnI5WHROQVFxZXQ5LTVuX1lkZFMydVBlbVJrSDJpdW1hQ0pLRlNTVWZlTGR1NW0tMlk4ZGh6cjZidTBveDhtZjN1ZmFLanE3UzNnb0hfRkV3d1F0c2g1TmY1RVNzVUx2NGh3T1dOQVJVUEdkNmRwWDZQTlQzV0xlX2dtZFFEQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-07 17:13:48"
+      },
+      {
+        "title": "劉建國關注營造業職災攀升 要求勞動部正視雲林職安問題 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93TERScFJnSmhhaFJqd1V1ZVRPekg2NFh3eG9vVWZFenNqelVCZm1QRW9mZ0xuX0x6ODFKZm44R0FWYjczd1lfMw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-07 16:01:32"
+      },
+      {
+        "title": "營造業職災死亡攀升 立委劉建國要求勞動部強化防治、正視雲林問題 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ad0hnWG5xQ2NQWXNuMG9qS3pQOGRXMFV5ck16MVVMN0VLcHA2QmpfcktyeklFcnRUdkU0aXpJcW12bUc0UHFZUXM1bzVad0MxQlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-07 15:21:00"
+      }
+    ]
+  },
+  "alias_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 4
+    }
+  ],
+  "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "關注營造業職災攀升 劉建國要求勞動部強化防治、正視雲林職災問題 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQSUJFOG9Bbk8tcEpxV0lHaWMxSkRfTDROdURucFBLdFEzZlpwcmh1ZnlpYUk4MUs0UWx0Ymx4Z3VrbzRkVzJDRWJlMGY0QUhmZXpPWVRjZ3gtRU9ub21IeXpNcXByQlNSeG9JOEt4NXlrZjloX29CVG4tVklSZ0JRMnNWM1VRc3hmS1cxNlZVcEt4ZXY0ZV9RRHpQVVlXcEhJMG03cDZXRks5TW9HdTRIX3JvV29GUDlIRW1qWHBmZTgzdzJrLTNLcFlFQ29waFZfbG5JRkpSNE03YmNJWEhXdmxOd3RuNFV5VTRoQUJOYlV5aWxZeWRpN2pJMV9nZmNMZklpN0V6QXlxVkFDWWlrdFMwa3pQLUVxSXFxcW9jS1FPQm5NZzgwTHNuSXk4Wnc4TUdvNDRKLUE3X2FUTFpKUkNpSlFkYkNvdFRlZkF6YXNDODg3TnhKb2t5UHhDUERGeVpYSDhEdTI0dHNHYmFwaml1VkM3R0NNTXoyUDIyZUotdzJrU0FoSDU1bWZsYVI4ZVkzRl9GQ3k0TTM4Y1hvQVZwQTBIeElyaVV0Y2liSVdYdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-08 00:21:58"
+      },
+      {
+        "title": "關注營造業職災攀升 劉建國要求勞動部強化防治、正視雲林職災問題 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOdThkUjd2WWRoN084NGtZTXI0YkRaOFYyNlh4LUZxdXQ5cHk0emQ3NkNyQjJBekhOSzNhdHZIZkFGc2cydlI1TUx4OFdpMnppUVpJTjFkdVc0c1p3d2R5bnMwbS1vSGJHcHZVaWltcEh3UmJYMzhuLVRONXpidDlTaFJJX2o4amtOR3JWMHBYcmYzSFU5aE1tXzE4ZllQRENxak81MXE4UmVCYWhmR05TbU1RUWNLcFhTWHBNSUQ2QjROWXBOWmd6RnNnaFVuclJ6ZmVpbHo3NXN6VEJFenpsUW5hbzB4T0lKN0lKWGoxakU2cTE3Z0dMZ1ctSWZnQnFqRU94WkNqbmhrajdvZGZTeTdNcDJtVlVZRDM5UmZaQ2RoQnd2TjdObnJWbjlVOWFmNFFIRnI5WHROQVFxZXQ5LTVuX1lkZFMydVBlbVJrSDJpdW1hQ0pLRlNTVWZlTGR1NW0tMlk4ZGh6cjZidTBveDhtZjN1ZmFLanE3UzNnb0hfRkV3d1F0c2g1TmY1RVNzVUx2NGh3T1dOQVJVUEdkNmRwWDZQTlQzV0xlX2dtZFFEQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-07 17:13:48"
+      },
+      {
+        "title": "劉建國關注營造業職災攀升 要求勞動部正視雲林職安問題 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93TERScFJnSmhhaFJqd1V1ZVRPekg2NFh3eG9vVWZFenNqelVCZm1QRW9mZ0xuX0x6ODFKZm44R0FWYjczd1lfMw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-07 16:01:32"
+      },
+      {
+        "title": "營造業職災死亡攀升 立委劉建國要求勞動部強化防治、正視雲林問題 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ad0hnWG5xQ2NQWXNuMG9qS3pQOGRXMFV5ck16MVVMN0VLcHA2QmpfcktyeklFcnRUdkU0aXpJcW12bUc0UHFZUXM1bzVad0MxQlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-07 15:21:00"
+      }
+    ]
+  },
   "mention_compare_24h": {
     "張嘉郡": 0,
-    "劉建國": 0
+    "劉建國": 4
   },
   "mention_compare_7d": {
     "張嘉郡": 30,
-    "劉建國": 24
+    "劉建國": 28
   },
-  "top_news": [],
+  "top_news": [
+    {
+      "title": "關注營造業職災攀升 劉建國要求勞動部強化防治、正視雲林職災問題 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQSUJFOG9Bbk8tcEpxV0lHaWMxSkRfTDROdURucFBLdFEzZlpwcmh1ZnlpYUk4MUs0UWx0Ymx4Z3VrbzRkVzJDRWJlMGY0QUhmZXpPWVRjZ3gtRU9ub21IeXpNcXByQlNSeG9JOEt4NXlrZjloX29CVG4tVklSZ0JRMnNWM1VRc3hmS1cxNlZVcEt4ZXY0ZV9RRHpQVVlXcEhJMG03cDZXRks5TW9HdTRIX3JvV29GUDlIRW1qWHBmZTgzdzJrLTNLcFlFQ29waFZfbG5JRkpSNE03YmNJWEhXdmxOd3RuNFV5VTRoQUJOYlV5aWxZeWRpN2pJMV9nZmNMZklpN0V6QXlxVkFDWWlrdFMwa3pQLUVxSXFxcW9jS1FPQm5NZzgwTHNuSXk4Wnc4TUdvNDRKLUE3X2FUTFpKUkNpSlFkYkNvdFRlZkF6YXNDODg3TnhKb2t5UHhDUERGeVpYSDhEdTI0dHNHYmFwaml1VkM3R0NNTXoyUDIyZUotdzJrU0FoSDU1bWZsYVI4ZVkzRl9GQ3k0TTM4Y1hvQVZwQTBIeElyaVV0Y2liSVdYdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-08 00:21:58"
+    },
+    {
+      "title": "關注營造業職災攀升 劉建國要求勞動部強化防治、正視雲林職災問題 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOdThkUjd2WWRoN084NGtZTXI0YkRaOFYyNlh4LUZxdXQ5cHk0emQ3NkNyQjJBekhOSzNhdHZIZkFGc2cydlI1TUx4OFdpMnppUVpJTjFkdVc0c1p3d2R5bnMwbS1vSGJHcHZVaWltcEh3UmJYMzhuLVRONXpidDlTaFJJX2o4amtOR3JWMHBYcmYzSFU5aE1tXzE4ZllQRENxak81MXE4UmVCYWhmR05TbU1RUWNLcFhTWHBNSUQ2QjROWXBOWmd6RnNnaFVuclJ6ZmVpbHo3NXN6VEJFenpsUW5hbzB4T0lKN0lKWGoxakU2cTE3Z0dMZ1ctSWZnQnFqRU94WkNqbmhrajdvZGZTeTdNcDJtVlVZRDM5UmZaQ2RoQnd2TjdObnJWbjlVOWFmNFFIRnI5WHROQVFxZXQ5LTVuX1lkZFMydVBlbVJrSDJpdW1hQ0pLRlNTVWZlTGR1NW0tMlk4ZGh6cjZidTBveDhtZjN1ZmFLanE3UzNnb0hfRkV3d1F0c2g1TmY1RVNzVUx2NGh3T1dOQVJVUEdkNmRwWDZQTlQzV0xlX2dtZFFEQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-07 17:13:48"
+    },
+    {
+      "title": "劉建國關注營造業職災攀升 要求勞動部正視雲林職安問題 - 台灣民眾電子報",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93TERScFJnSmhhaFJqd1V1ZVRPekg2NFh3eG9vVWZFenNqelVCZm1QRW9mZ0xuX0x6ODFKZm44R0FWYjczd1lfMw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-07 16:01:32"
+    },
+    {
+      "title": "營造業職災死亡攀升 立委劉建國要求勞動部強化防治、正視雲林問題 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ad0hnWG5xQ2NQWXNuMG9qS3pQOGRXMFV5ck16MVVMN0VLcHA2QmpfcktyeklFcnRUdkU0aXpJcW12bUc0UHFZUXM1bzVad0MxQlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-07 15:21:00"
+    }
+  ],
   "top_news_7d": [
+    {
+      "title": "關注營造業職災攀升 劉建國要求勞動部強化防治、正視雲林職災問題 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQSUJFOG9Bbk8tcEpxV0lHaWMxSkRfTDROdURucFBLdFEzZlpwcmh1ZnlpYUk4MUs0UWx0Ymx4Z3VrbzRkVzJDRWJlMGY0QUhmZXpPWVRjZ3gtRU9ub21IeXpNcXByQlNSeG9JOEt4NXlrZjloX29CVG4tVklSZ0JRMnNWM1VRc3hmS1cxNlZVcEt4ZXY0ZV9RRHpQVVlXcEhJMG03cDZXRks5TW9HdTRIX3JvV29GUDlIRW1qWHBmZTgzdzJrLTNLcFlFQ29waFZfbG5JRkpSNE03YmNJWEhXdmxOd3RuNFV5VTRoQUJOYlV5aWxZeWRpN2pJMV9nZmNMZklpN0V6QXlxVkFDWWlrdFMwa3pQLUVxSXFxcW9jS1FPQm5NZzgwTHNuSXk4Wnc4TUdvNDRKLUE3X2FUTFpKUkNpSlFkYkNvdFRlZkF6YXNDODg3TnhKb2t5UHhDUERGeVpYSDhEdTI0dHNHYmFwaml1VkM3R0NNTXoyUDIyZUotdzJrU0FoSDU1bWZsYVI4ZVkzRl9GQ3k0TTM4Y1hvQVZwQTBIeElyaVV0Y2liSVdYdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-08 00:21:58"
+    },
+    {
+      "title": "關注營造業職災攀升 劉建國要求勞動部強化防治、正視雲林職災問題 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOdThkUjd2WWRoN084NGtZTXI0YkRaOFYyNlh4LUZxdXQ5cHk0emQ3NkNyQjJBekhOSzNhdHZIZkFGc2cydlI1TUx4OFdpMnppUVpJTjFkdVc0c1p3d2R5bnMwbS1vSGJHcHZVaWltcEh3UmJYMzhuLVRONXpidDlTaFJJX2o4amtOR3JWMHBYcmYzSFU5aE1tXzE4ZllQRENxak81MXE4UmVCYWhmR05TbU1RUWNLcFhTWHBNSUQ2QjROWXBOWmd6RnNnaFVuclJ6ZmVpbHo3NXN6VEJFenpsUW5hbzB4T0lKN0lKWGoxakU2cTE3Z0dMZ1ctSWZnQnFqRU94WkNqbmhrajdvZGZTeTdNcDJtVlVZRDM5UmZaQ2RoQnd2TjdObnJWbjlVOWFmNFFIRnI5WHROQVFxZXQ5LTVuX1lkZFMydVBlbVJrSDJpdW1hQ0pLRlNTVWZlTGR1NW0tMlk4ZGh6cjZidTBveDhtZjN1ZmFLanE3UzNnb0hfRkV3d1F0c2g1TmY1RVNzVUx2NGh3T1dOQVJVUEdkNmRwWDZQTlQzV0xlX2dtZFFEQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-07 17:13:48"
+    },
+    {
+      "title": "劉建國關注營造業職災攀升 要求勞動部正視雲林職安問題 - 台灣民眾電子報",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93TERScFJnSmhhaFJqd1V1ZVRPekg2NFh3eG9vVWZFenNqelVCZm1QRW9mZ0xuX0x6ODFKZm44R0FWYjczd1lfMw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-07 16:01:32"
+    },
+    {
+      "title": "營造業職災死亡攀升 立委劉建國要求勞動部強化防治、正視雲林問題 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ad0hnWG5xQ2NQWXNuMG9qS3pQOGRXMFV5ck16MVVMN0VLcHA2QmpfcktyeklFcnRUdkU0aXpJcW12bUc0UHFZUXM1bzVad0MxQlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-07 15:21:00"
+    },
     {
       "title": "美國花生零關稅叩關 張嘉郡憂心： 下一個可能就是稻米 - MSN",
       "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxPWm0xcnFzVXY5SlROTEVVcUVNaVhpOThPUHR0ZUQ3R21RNXA5SUNBU2FJeW1sdnBTUzJpcHkybF9TQTVNX2ViaUhpekIwclQwcTJaQy03YmQ5MzZzaVJHVGpWMFpCUEd4UHhnWDNhM0RRVi1wb2xoakNvd25oQVEySFo4Unc4Y1VaS3JtX2l6SVBrcng0dmk1TTdxUHBpajc5S1ktUEl1QTJnWE9hX1N6N1VjS19Jd29CcGc2WVpEdXNZVmpBY2RvbXkzSVZtZDFEWUNWMTNfQmpvR3BfMFRCbUxWeVFYX3EtMHBfbTZjQXVWSjBjdUtPTmM3VjNVQ3d1TURnS2RPZndaZGpEMDFISzdFZFlZRy1XV3VQU1BPZFpVVzhqNV9QRmx5czU5b3hHMjRTOGQ2d3Z6azl0U3FRTjVQODBZV0ZfYTJXT0hHa1I2bVN2NnVua1ZiN2NYS2hjOXFzVjllYW1WV3lweVBwZXpMcm9VSlRCUExmNGR3eWEtLW9OWXZZVDI5OEhWNkpZRWM5RWtnU21yYWlwSElFTHV0cEhVbHo0RnZJUDRXWFJTZEZqd3V6Q002aFhER0xuZzgwVXh0RTVVTHQxdGc0SE1MeEpnUkpHZTN3eG1Oem9FUDFwaVVHRE9vTFpfOEo4WjAyYkFXRTRXcVVPS280TlhtMll5ZWZyY3QyU3NxSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -294,26 +419,6 @@
       "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNY2tvclpCcEI0SGM5akQ0dXpmakZYZDNiTEI5VzFkZEM0Xzh6aW1BeUp6TzBabTFRU1NPUmQ2blNjWDA1Zl9HX2RCNXdNOEJ6SlRKUWltZlpaWkdxaHVZMXRSQ1RHYnVsd0xfeHZqNFhJX3U2U3h3WU03cnR6aXJicGc0ZXpIbWVGYWtPbEdhSHV4VXg3b1E1TGNIWnl5cmdxTjBRQk1RNEVDR3p5TlJkeFo3aVNDS0s3Ym9qRnkwbEt6UDJzSW1rcEFNeHpMSW5fc19QX2ZwUjM0LWxIZFVmSFJwUmZrTjBXZ1RTVXRSc0IwN1prLUctWkJDUVQwN1FJQjJIcThtZVdLelNIWXU5SFpMQmE5VUVZejhTZUI3T2RnUjZyQU5XRWFUZHNtcDIxeC1wSGJWbndHekVXbC1lTzF5YlM0MlgwT3VCUWN1TmlOWnMtRnNYbDZ0NDhQNlE3YTF0NUhYSzNQay11REZfSnVRR0lFeUxxZVZ3RFpTTDNJcVpzMGRSRXhnR0NKb29oLTFpU3daa295aHFfS3JLS29LUndza2YxTDhUR1hHN1Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-04 15:42:45"
-    },
-    {
-      "title": "美花生進口衝擊本土農! 張嘉郡憂雲林生計 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxON0xoZFNKNWo4RXhZZ3ZTNDhoa09XakFXQ2IwT3JGZWxRbW43dm4tRXVaRElFWVZOaEQwS0htX0lFUWUxNEJTWU5GdmVITGlSOGdDaEp4MmJEQm5taVBOc1o0czlGYUx1ay1mT3F0VkNfNDB3T0FCdFVlS1dHTDUxRXYtdkE2Ujlva1d3Q2xkUElFM2doQkpEdHExWEp1YzJ5dzgxUFNVUHRzakh1VndhM0w5MmY3d2dNaXdBZGRXbXlkdkxTWjVCOVRIdE5BTVBHdzVIR0o0ckV4N1dkcHg5cDh3RGpPQnViVmxmVFhVOC1oV0J5NExmS0NQdjRJQ1hpaDZxV0QwRTNHX1pFRDBwOTJuRzk1UGRRQXBodTBENjFVdDJfbnhJQ2lCR3FFRllHLVlDbGl6MFhDS0VFY0JyS2JPSWZxcDZIdFU3NFl1VHM2ZzhDcEhiZHZ5VHVFaDhMUVFLWl9Uc3dnSlZpN1FCc3ZaSHpvSE9VVjdBb3FGZEIwWG5YdXEwUUZxSHhpX0MycWRnc2tBR0RlT2o1cFNtUWZzdkpkczA0aWFram91TFdwc1dzc3hhMzEyWjFOel9JeWM4RTliNG1qT2pnbDNNeHJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-04 14:25:47"
-    },
-    {
-      "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-03 21:26:08"
-    },
-    {
-      "title": "調度麥電燃煤 劉建國：雲林人繳稅少? - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOdjZlZ2RmU1ppamE0bTIxczBKaTRQQnNCNWxMcXJkbTlVSmxjMWVzOTFRV3pWbWFXOHhLQUp4b3R6UXR5VUJLcE1TdlAtS01oMUxaSnc4MDlOU01BemcwSENjN3Jjc09acThjb2FEQk55YXdSSGVNRkUwSjhVeVdLd2huQWo4dndYeklBZjAycWtkQ1pXb3FMT04wT2tocnFQV3gtS185ellfd2NQYUJWOGtiTlh4X0E1VUx3X0dyNk5PQkZlTktSeno5LXhUSkkxUXU5dEVNRmx0cGFvV2xTWFp4c1V0STVFRDlYOGJVRkdseEtOV3NwUVFJR200bGNXZy1PNTJkNEllUllFNE5kR2VQNF9lUHVhVko5VTk5dGNuTlBnRFJPVER6WEtsMkp1TGUwMnpEcWhxQWJENEI1dXJreXpDRGVVZkN3U3h1dVVIOGtjSURhWHdjQXpPYjZuYVdZMzk3Q29Qa2l4UWhValVHMzd6VThCdGE4VzVKejJHSUFkQVpvMjViQWJ0OVhOQUJfY2VPMlV0eXljMnljSzFUVGp0RlNqMGpBaGpSSXpRakt5aVdLTXR3U291SUU0ckRIQTJ6Y3hiUFhzak9VSEpiaWpPQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-03 13:05:42"
-    },
-    {
-      "title": "張嘉郡嘆大蒜穩價措施如「抽樂透」 卓揆： 考量蒜農最大利益 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxNUS0wUzZSOHNoUmtWbDlGeVd4dEd6ZmswTk9IaTVINDlVaURTdFhSQ0JmRlVWM1J1Q045N29JQWlSNExBUWl3MktzOTA3QVJGVmZET05UWTJ5R2R1UFNoWVFXU3JSZW5yZ1NEcHhiTU1ySnlJY0g2RnlrU25jNlhDcWQ4WXJ6N3RCd3ZVb0UzakJzT0pRcjkyX1NuaUtXY1RJSTJtQXU3Z0Nkb21GYkQ3Y2hkcjA1eV94T3B4SHVIZzhna2xtYmdudThFMm5rN2s5M0c5NDE0RUtpQUJQMW5KbUN0STZiQk5sUnV3TDlIT0w1T3MtY2IzWDhtRWgzZzI4RmlWWXk5MGN2cl9mVUs1Y1pMc09lOWNFdXExRWd2U29CcUg3OGtFdDZOTzRwZEY1eklSWVdjQldldE9UakFyeTFROFBzTWYtRWJJOW00bF9fWDV1MmtnVlcxdmNiakhUUGZhQjFOT05FR0ZpOWhkRW1NZWFJX293SnZVX29tNFNFVU5fb0tBTmU3b2pMU19DZGVKZVJ5R2E3OFd2bnlpak8yVXYyaTVUYlZxZ2RiOXZxb3o2ZGNmUV9URkx3emxuSUhnMUZqVjk4WHpoN0pabDJNMkJnQ2NqcG03VElQcFpIeE5DWGxFbmZKTXRCNHZ6RXNzSlNseDA0UXZYVTFFb0lEWnNhZTRRSkFUOGNZMHlWbnVhNENrTDVQbnA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-03 08:59:44"
     }
   ],
   "latest_facebook_20": [
@@ -420,6 +525,26 @@
   ],
   "latest_news_20": [
     {
+      "title": "關注營造業職災攀升 劉建國要求勞動部強化防治、正視雲林職災問題 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQSUJFOG9Bbk8tcEpxV0lHaWMxSkRfTDROdURucFBLdFEzZlpwcmh1ZnlpYUk4MUs0UWx0Ymx4Z3VrbzRkVzJDRWJlMGY0QUhmZXpPWVRjZ3gtRU9ub21IeXpNcXByQlNSeG9JOEt4NXlrZjloX29CVG4tVklSZ0JRMnNWM1VRc3hmS1cxNlZVcEt4ZXY0ZV9RRHpQVVlXcEhJMG03cDZXRks5TW9HdTRIX3JvV29GUDlIRW1qWHBmZTgzdzJrLTNLcFlFQ29waFZfbG5JRkpSNE03YmNJWEhXdmxOd3RuNFV5VTRoQUJOYlV5aWxZeWRpN2pJMV9nZmNMZklpN0V6QXlxVkFDWWlrdFMwa3pQLUVxSXFxcW9jS1FPQm5NZzgwTHNuSXk4Wnc4TUdvNDRKLUE3X2FUTFpKUkNpSlFkYkNvdFRlZkF6YXNDODg3TnhKb2t5UHhDUERGeVpYSDhEdTI0dHNHYmFwaml1VkM3R0NNTXoyUDIyZUotdzJrU0FoSDU1bWZsYVI4ZVkzRl9GQ3k0TTM4Y1hvQVZwQTBIeElyaVV0Y2liSVdYdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-08 00:21:58"
+    },
+    {
+      "title": "關注營造業職災攀升 劉建國要求勞動部強化防治、正視雲林職災問題 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOdThkUjd2WWRoN084NGtZTXI0YkRaOFYyNlh4LUZxdXQ5cHk0emQ3NkNyQjJBekhOSzNhdHZIZkFGc2cydlI1TUx4OFdpMnppUVpJTjFkdVc0c1p3d2R5bnMwbS1vSGJHcHZVaWltcEh3UmJYMzhuLVRONXpidDlTaFJJX2o4amtOR3JWMHBYcmYzSFU5aE1tXzE4ZllQRENxak81MXE4UmVCYWhmR05TbU1RUWNLcFhTWHBNSUQ2QjROWXBOWmd6RnNnaFVuclJ6ZmVpbHo3NXN6VEJFenpsUW5hbzB4T0lKN0lKWGoxakU2cTE3Z0dMZ1ctSWZnQnFqRU94WkNqbmhrajdvZGZTeTdNcDJtVlVZRDM5UmZaQ2RoQnd2TjdObnJWbjlVOWFmNFFIRnI5WHROQVFxZXQ5LTVuX1lkZFMydVBlbVJrSDJpdW1hQ0pLRlNTVWZlTGR1NW0tMlk4ZGh6cjZidTBveDhtZjN1ZmFLanE3UzNnb0hfRkV3d1F0c2g1TmY1RVNzVUx2NGh3T1dOQVJVUEdkNmRwWDZQTlQzV0xlX2dtZFFEQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-07 17:13:48"
+    },
+    {
+      "title": "劉建國關注營造業職災攀升 要求勞動部正視雲林職安問題 - 台灣民眾電子報",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93TERScFJnSmhhaFJqd1V1ZVRPekg2NFh3eG9vVWZFenNqelVCZm1QRW9mZ0xuX0x6ODFKZm44R0FWYjczd1lfMw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-07 16:01:32"
+    },
+    {
+      "title": "營造業職災死亡攀升 立委劉建國要求勞動部強化防治、正視雲林問題 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ad0hnWG5xQ2NQWXNuMG9qS3pQOGRXMFV5ck16MVVMN0VLcHA2QmpfcktyeklFcnRUdkU0aXpJcW12bUc0UHFZUXM1bzVad0MxQlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-07 15:21:00"
+    },
+    {
       "title": "美國花生零關稅叩關 張嘉郡憂心： 下一個可能就是稻米 - MSN",
       "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxPWm0xcnFzVXY5SlROTEVVcUVNaVhpOThPUHR0ZUQ3R21RNXA5SUNBU2FJeW1sdnBTUzJpcHkybF9TQTVNX2ViaUhpekIwclQwcTJaQy03YmQ5MzZzaVJHVGpWMFpCUEd4UHhnWDNhM0RRVi1wb2xoakNvd25oQVEySFo4Unc4Y1VaS3JtX2l6SVBrcng0dmk1TTdxUHBpajc5S1ktUEl1QTJnWE9hX1N6N1VjS19Jd29CcGc2WVpEdXNZVmpBY2RvbXkzSVZtZDFEWUNWMTNfQmpvR3BfMFRCbUxWeVFYX3EtMHBfbTZjQXVWSjBjdUtPTmM3VjNVQ3d1TURnS2RPZndaZGpEMDFISzdFZFlZRy1XV3VQU1BPZFpVVzhqNV9QRmx5czU5b3hHMjRTOGQ2d3Z6azl0U3FRTjVQODBZV0ZfYTJXT0hHa1I2bVN2NnVua1ZiN2NYS2hjOXFzVjllYW1WV3lweVBwZXpMcm9VSlRCUExmNGR3eWEtLW9OWXZZVDI5OEhWNkpZRWM5RWtnU21yYWlwSElFTHV0cEhVbHo0RnZJUDRXWFJTZEZqd3V6Q002aFhER0xuZzgwVXh0RTVVTHQxdGc0SE1MeEpnUkpHZTN3eG1Oem9FUDFwaVVHRE9vTFpfOEo4WjAyYkFXRTRXcVVPS280TlhtMll5ZWZyY3QyU3NxSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-06 10:49:02"
@@ -498,26 +623,6 @@
       "title": "代表國民黨選雲林縣長 張嘉郡稱支持最有利國家與民眾的軍購方案 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNY2tvclpCcEI0SGM5akQ0dXpmakZYZDNiTEI5VzFkZEM0Xzh6aW1BeUp6TzBabTFRU1NPUmQ2blNjWDA1Zl9HX2RCNXdNOEJ6SlRKUWltZlpaWkdxaHVZMXRSQ1RHYnVsd0xfeHZqNFhJX3U2U3h3WU03cnR6aXJicGc0ZXpIbWVGYWtPbEdhSHV4VXg3b1E1TGNIWnl5cmdxTjBRQk1RNEVDR3p5TlJkeFo3aVNDS0s3Ym9qRnkwbEt6UDJzSW1rcEFNeHpMSW5fc19QX2ZwUjM0LWxIZFVmSFJwUmZrTjBXZ1RTVXRSc0IwN1prLUctWkJDUVQwN1FJQjJIcThtZVdLelNIWXU5SFpMQmE5VUVZejhTZUI3T2RnUjZyQU5XRWFUZHNtcDIxeC1wSGJWbndHekVXbC1lTzF5YlM0MlgwT3VCUWN1TmlOWnMtRnNYbDZ0NDhQNlE3YTF0NUhYSzNQay11REZfSnVRR0lFeUxxZVZ3RFpTTDNJcVpzMGRSRXhnR0NKb29oLTFpU3daa295aHFfS3JLS29LUndza2YxTDhUR1hHN1Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-04 15:42:45"
-    },
-    {
-      "title": "美花生進口衝擊本土農! 張嘉郡憂雲林生計 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxON0xoZFNKNWo4RXhZZ3ZTNDhoa09XakFXQ2IwT3JGZWxRbW43dm4tRXVaRElFWVZOaEQwS0htX0lFUWUxNEJTWU5GdmVITGlSOGdDaEp4MmJEQm5taVBOc1o0czlGYUx1ay1mT3F0VkNfNDB3T0FCdFVlS1dHTDUxRXYtdkE2Ujlva1d3Q2xkUElFM2doQkpEdHExWEp1YzJ5dzgxUFNVUHRzakh1VndhM0w5MmY3d2dNaXdBZGRXbXlkdkxTWjVCOVRIdE5BTVBHdzVIR0o0ckV4N1dkcHg5cDh3RGpPQnViVmxmVFhVOC1oV0J5NExmS0NQdjRJQ1hpaDZxV0QwRTNHX1pFRDBwOTJuRzk1UGRRQXBodTBENjFVdDJfbnhJQ2lCR3FFRllHLVlDbGl6MFhDS0VFY0JyS2JPSWZxcDZIdFU3NFl1VHM2ZzhDcEhiZHZ5VHVFaDhMUVFLWl9Uc3dnSlZpN1FCc3ZaSHpvSE9VVjdBb3FGZEIwWG5YdXEwUUZxSHhpX0MycWRnc2tBR0RlT2o1cFNtUWZzdkpkczA0aWFram91TFdwc1dzc3hhMzEyWjFOel9JeWM4RTliNG1qT2pnbDNNeHJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-04 14:25:47"
-    },
-    {
-      "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 大宇宙新聞民時新聞|",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTWJJUmE2b2prVzhRWl9qajBlLTBtVll6VHlmdDlxaVRPN0NMRGVzTlhrNjM5Ni1tT2FGcmFOZU1BQUpacC1xckF4aVRwWDV1Z1Rndl9KOFpFSURvaVRnLWhDY0FrYWZDMzE0Si00cjM5RGlJTWoxYUM2bkRDbDkzMENJZGYxY0MxangwVE5BWmRHbnU2NC14VjQ5ZHUwSUREaTF3T3FVQU9tQnlMSGdIb1doLWsyMkhTN0xzRlRHSE5TTUdLNkRfNmZNM09xQVNBSGs4Vi1yc2NON2Vfa1YwX3NKZE5RbzFMT2d3SFUwYlFVVTFEbTRMZElnYXNaOU5QNVZhWVA4TGVZSXpfREw3WHMtSHlqSjdlQ2RBbjNpNl9HS3VpalhLaEdtMG81YWFjU0VFU2FVSEd6SzZQeVhtdWF2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-03 21:26:08"
-    },
-    {
-      "title": "調度麥電燃煤 劉建國：雲林人繳稅少? - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOdjZlZ2RmU1ppamE0bTIxczBKaTRQQnNCNWxMcXJkbTlVSmxjMWVzOTFRV3pWbWFXOHhLQUp4b3R6UXR5VUJLcE1TdlAtS01oMUxaSnc4MDlOU01BemcwSENjN3Jjc09acThjb2FEQk55YXdSSGVNRkUwSjhVeVdLd2huQWo4dndYeklBZjAycWtkQ1pXb3FMT04wT2tocnFQV3gtS185ellfd2NQYUJWOGtiTlh4X0E1VUx3X0dyNk5PQkZlTktSeno5LXhUSkkxUXU5dEVNRmx0cGFvV2xTWFp4c1V0STVFRDlYOGJVRkdseEtOV3NwUVFJR200bGNXZy1PNTJkNEllUllFNE5kR2VQNF9lUHVhVko5VTk5dGNuTlBnRFJPVER6WEtsMkp1TGUwMnpEcWhxQWJENEI1dXJreXpDRGVVZkN3U3h1dVVIOGtjSURhWHdjQXpPYjZuYVdZMzk3Q29Qa2l4UWhValVHMzd6VThCdGE4VzVKejJHSUFkQVpvMjViQWJ0OVhOQUJfY2VPMlV0eXljMnljSzFUVGp0RlNqMGpBaGpSSXpRakt5aVdLTXR3U291SUU0ckRIQTJ6Y3hiUFhzak9VSEpiaWpPQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-03 13:05:42"
-    },
-    {
-      "title": "張嘉郡嘆大蒜穩價措施如「抽樂透」 卓揆： 考量蒜農最大利益 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxNUS0wUzZSOHNoUmtWbDlGeVd4dEd6ZmswTk9IaTVINDlVaURTdFhSQ0JmRlVWM1J1Q045N29JQWlSNExBUWl3MktzOTA3QVJGVmZET05UWTJ5R2R1UFNoWVFXU3JSZW5yZ1NEcHhiTU1ySnlJY0g2RnlrU25jNlhDcWQ4WXJ6N3RCd3ZVb0UzakJzT0pRcjkyX1NuaUtXY1RJSTJtQXU3Z0Nkb21GYkQ3Y2hkcjA1eV94T3B4SHVIZzhna2xtYmdudThFMm5rN2s5M0c5NDE0RUtpQUJQMW5KbUN0STZiQk5sUnV3TDlIT0w1T3MtY2IzWDhtRWgzZzI4RmlWWXk5MGN2cl9mVUs1Y1pMc09lOWNFdXExRWd2U29CcUg3OGtFdDZOTzRwZEY1eklSWVdjQldldE9UakFyeTFROFBzTWYtRWJJOW00bF9fWDV1MmtnVlcxdmNiakhUUGZhQjFOT05FR0ZpOWhkRW1NZWFJX293SnZVX29tNFNFVU5fb0tBTmU3b2pMU19DZGVKZVJ5R2E3OFd2bnlpak8yVXYyaTVUYlZxZ2RiOXZxb3o2ZGNmUV9URkx3emxuSUhnMUZqVjk4WHpoN0pabDJNMkJnQ2NqcG03VElQcFpIeE5DWGxFbmZKTXRCNHZ6RXNzSlNseDA0UXZYVTFFb0lEWnNhZTRRSkFUOGNZMHlWbnVhNENrTDVQbnA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-03 08:59:44"
     }
   ],
   "person_sections": {
@@ -832,6 +937,26 @@
       ],
       "news": [
         {
+          "title": "關注營造業職災攀升 劉建國要求勞動部強化防治、正視雲林職災問題 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQSUJFOG9Bbk8tcEpxV0lHaWMxSkRfTDROdURucFBLdFEzZlpwcmh1ZnlpYUk4MUs0UWx0Ymx4Z3VrbzRkVzJDRWJlMGY0QUhmZXpPWVRjZ3gtRU9ub21IeXpNcXByQlNSeG9JOEt4NXlrZjloX29CVG4tVklSZ0JRMnNWM1VRc3hmS1cxNlZVcEt4ZXY0ZV9RRHpQVVlXcEhJMG03cDZXRks5TW9HdTRIX3JvV29GUDlIRW1qWHBmZTgzdzJrLTNLcFlFQ29waFZfbG5JRkpSNE03YmNJWEhXdmxOd3RuNFV5VTRoQUJOYlV5aWxZeWRpN2pJMV9nZmNMZklpN0V6QXlxVkFDWWlrdFMwa3pQLUVxSXFxcW9jS1FPQm5NZzgwTHNuSXk4Wnc4TUdvNDRKLUE3X2FUTFpKUkNpSlFkYkNvdFRlZkF6YXNDODg3TnhKb2t5UHhDUERGeVpYSDhEdTI0dHNHYmFwaml1VkM3R0NNTXoyUDIyZUotdzJrU0FoSDU1bWZsYVI4ZVkzRl9GQ3k0TTM4Y1hvQVZwQTBIeElyaVV0Y2liSVdYdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-08 00:21:58"
+        },
+        {
+          "title": "關注營造業職災攀升 劉建國要求勞動部強化防治、正視雲林職災問題 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOdThkUjd2WWRoN084NGtZTXI0YkRaOFYyNlh4LUZxdXQ5cHk0emQ3NkNyQjJBekhOSzNhdHZIZkFGc2cydlI1TUx4OFdpMnppUVpJTjFkdVc0c1p3d2R5bnMwbS1vSGJHcHZVaWltcEh3UmJYMzhuLVRONXpidDlTaFJJX2o4amtOR3JWMHBYcmYzSFU5aE1tXzE4ZllQRENxak81MXE4UmVCYWhmR05TbU1RUWNLcFhTWHBNSUQ2QjROWXBOWmd6RnNnaFVuclJ6ZmVpbHo3NXN6VEJFenpsUW5hbzB4T0lKN0lKWGoxakU2cTE3Z0dMZ1ctSWZnQnFqRU94WkNqbmhrajdvZGZTeTdNcDJtVlVZRDM5UmZaQ2RoQnd2TjdObnJWbjlVOWFmNFFIRnI5WHROQVFxZXQ5LTVuX1lkZFMydVBlbVJrSDJpdW1hQ0pLRlNTVWZlTGR1NW0tMlk4ZGh6cjZidTBveDhtZjN1ZmFLanE3UzNnb0hfRkV3d1F0c2g1TmY1RVNzVUx2NGh3T1dOQVJVUEdkNmRwWDZQTlQzV0xlX2dtZFFEQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-07 17:13:48"
+        },
+        {
+          "title": "劉建國關注營造業職災攀升 要求勞動部正視雲林職安問題 - 台灣民眾電子報",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93TERScFJnSmhhaFJqd1V1ZVRPekg2NFh3eG9vVWZFenNqelVCZm1QRW9mZ0xuX0x6ODFKZm44R0FWYjczd1lfMw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-07 16:01:32"
+        },
+        {
+          "title": "營造業職災死亡攀升 立委劉建國要求勞動部強化防治、正視雲林問題 - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ad0hnWG5xQ2NQWXNuMG9qS3pQOGRXMFV5ck16MVVMN0VLcHA2QmpfcktyeklFcnRUdkU0aXpJcW12bUc0UHFZUXM1bzVad0MxQlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-07 15:21:00"
+        },
+        {
           "title": "國家級高齡研究中心啟用 雲林躍升長照政策核心，劉建國十年布局浮上檯面 - 波新聞",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00bW9MUnMyVEplZ25KV2x4TGlveDJmQkpOSUdqa2d0RzRNZmNLeVZoOEFPNGY0TlZPMVhOcWFmRDBKNS1BdDB2cmUzX1F3UmxreTBHYmQ3NGdYSGZNSjEwTThqSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-04 16:13:00"
@@ -910,31 +1035,33 @@
           "title": "立委劉建國成功催生國家級高齡研究中心落腳雲林 打造健康台灣重要基地 - 蕃新聞",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93VHZLV3VvdXBVbWhIUXNkUUVLRGd4b1d2cUZOcXdZSnBMT0dlMTRaTjQ0R0EwU1BWd0VtdlR6WWZRdzJuOFRJR2U5bkljdmFPdmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-01 17:01:00"
-        },
-        {
-          "title": "國家級高齡研究中心雲林啟用 劉建國打造健康台灣關鍵基地 - 台灣民眾電子報",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QU2xobEo3bHUxXzdRbWhra0xoOXZXVFEweDVZRGxwb1pZR25vLXIyTHgtUy1XS1VwU2p0TmNtcGxlSm9CTTFkUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-01 16:42:13"
-        },
-        {
-          "title": "「國家高齡醫學中心」落腳雲林 賴總統：劉建國持續幕後推動 - 自由時報",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51VlJ0eXBKZTBJMlpnVWllN29pWTdxZDBiTGVNUlJiSHpVT2c0cFRfaHNsbnVLT0k3MmtwYl9RbWgtZHhPVGhOYm53b2w2MDJfYnVlaHZTdzNtOExkcHBXU1RnWENETHBVT0HSAW9BVV95cUxQQ3BYLWcwTG0tWkY3THhzVzRsMEVJbzVyUGRyZGp4ZDVBTnlYVUZzLVNRd0NvMXpSZ0RkdGJvdmVNdHI2MUt2aXNIVmxXLWZ5OVI5RDVZdG5ySE11TTl6cm9iTlpsUmtibzJTZE5OanM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-01 16:23:52"
-        },
-        {
-          "title": "「國家高齡醫學中心」落腳雲林 賴總統：劉建國持續幕後推動 - 自由時報",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZU1STEZTbmVEdHpoa1NpbmJtQjZwYjl3MmtXV0Y2M3ZpYkswY0VDZDhmaUJhazU4Y2JfdmFOUmZyZXdDR3VMaUNxN21zVDg3dG5lQmFyWUxRSDJNVTdUQUJKSHFOMFA4elUtN0MzaUl2UmVSV0JsRUtjTnRPT1hYdFhaME53QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-01 16:23:00"
-        },
-        {
-          "title": "健康台灣重要基地落腳雲林 劉建國推動國家級高齡研究中心 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNUFVMZGMtYlFJdkdqN3FhVk9SS3MyXzZIZnFwTDVkLVRmQTE2b2RBbURVYnNsaDllZWc1akNGYlE1cU9fQmRsdTdZYlFrOEVneTFuMmMxM2VjYnRWdEFkbklta3J3cHR3NWdpYUc3RUJ4V3czV0ZBOGtBbmhsMEtDWGJZVEVuQ01CN1hyY3lvR3Nzdk1IQzdranotdWJ6V0hYaHpDVGZ1SUVQQ1ZJMkFSZkJLc1RxZmRuZ2N4TXFoM0tvaXdFMm9NRUk5bXdORmFuS2syZGVXS24xaVdGMjF0dFQ1Sms4OHpHQkxsVm5hM1Vta2JweTA0bXRnWC02VVVONjhfTmZuUk9jSm8xZkFxMVIyTXFvZzU0eFVIakxVdnlyUWJucnc4T0lsWVVHMWFlellhNjhzNENOWnJMZGhZWEs2eG8zaFg5UnpmZGM0bTVrb21yMHhUYkh1bkFZank3Z2hFdFVMZ1dkQWduU2dwNEU3UmtROHZkc0w3MnIzb0FFU28taE4zNDFxQ2k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-01 15:07:07"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "關注營造業職災攀升 劉建國要求勞動部強化防治、正視雲林職災問題 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQSUJFOG9Bbk8tcEpxV0lHaWMxSkRfTDROdURucFBLdFEzZlpwcmh1ZnlpYUk4MUs0UWx0Ymx4Z3VrbzRkVzJDRWJlMGY0QUhmZXpPWVRjZ3gtRU9ub21IeXpNcXByQlNSeG9JOEt4NXlrZjloX29CVG4tVklSZ0JRMnNWM1VRc3hmS1cxNlZVcEt4ZXY0ZV9RRHpQVVlXcEhJMG03cDZXRks5TW9HdTRIX3JvV29GUDlIRW1qWHBmZTgzdzJrLTNLcFlFQ29waFZfbG5JRkpSNE03YmNJWEhXdmxOd3RuNFV5VTRoQUJOYlV5aWxZeWRpN2pJMV9nZmNMZklpN0V6QXlxVkFDWWlrdFMwa3pQLUVxSXFxcW9jS1FPQm5NZzgwTHNuSXk4Wnc4TUdvNDRKLUE3X2FUTFpKUkNpSlFkYkNvdFRlZkF6YXNDODg3TnhKb2t5UHhDUERGeVpYSDhEdTI0dHNHYmFwaml1VkM3R0NNTXoyUDIyZUotdzJrU0FoSDU1bWZsYVI4ZVkzRl9GQ3k0TTM4Y1hvQVZwQTBIeElyaVV0Y2liSVdYdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-08 00:21:58"
+      },
+      {
+        "title": "關注營造業職災攀升 劉建國要求勞動部強化防治、正視雲林職災問題 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOdThkUjd2WWRoN084NGtZTXI0YkRaOFYyNlh4LUZxdXQ5cHk0emQ3NkNyQjJBekhOSzNhdHZIZkFGc2cydlI1TUx4OFdpMnppUVpJTjFkdVc0c1p3d2R5bnMwbS1vSGJHcHZVaWltcEh3UmJYMzhuLVRONXpidDlTaFJJX2o4amtOR3JWMHBYcmYzSFU5aE1tXzE4ZllQRENxak81MXE4UmVCYWhmR05TbU1RUWNLcFhTWHBNSUQ2QjROWXBOWmd6RnNnaFVuclJ6ZmVpbHo3NXN6VEJFenpsUW5hbzB4T0lKN0lKWGoxakU2cTE3Z0dMZ1ctSWZnQnFqRU94WkNqbmhrajdvZGZTeTdNcDJtVlVZRDM5UmZaQ2RoQnd2TjdObnJWbjlVOWFmNFFIRnI5WHROQVFxZXQ5LTVuX1lkZFMydVBlbVJrSDJpdW1hQ0pLRlNTVWZlTGR1NW0tMlk4ZGh6cjZidTBveDhtZjN1ZmFLanE3UzNnb0hfRkV3d1F0c2g1TmY1RVNzVUx2NGh3T1dOQVJVUEdkNmRwWDZQTlQzV0xlX2dtZFFEQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-07 17:13:48"
+      },
+      {
+        "title": "劉建國關注營造業職災攀升 要求勞動部正視雲林職安問題 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93TERScFJnSmhhaFJqd1V1ZVRPekg2NFh3eG9vVWZFenNqelVCZm1QRW9mZ0xuX0x6ODFKZm44R0FWYjczd1lfMw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-07 16:01:32"
+      },
+      {
+        "title": "營造業職災死亡攀升 立委劉建國要求勞動部強化防治、正視雲林問題 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ad0hnWG5xQ2NQWXNuMG9qS3pQOGRXMFV5ck16MVVMN0VLcHA2QmpfcktyeklFcnRUdkU0aXpJcW12bUc0UHFZUXM1bzVad0MxQlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-07 15:21:00"
+      }
+    ],
     "youtube": [
       {
         "title": "藍白兩黨軍購條例的實質版本為何一直不提出？是想如傳聞拖過川習會，來逼迫台灣與中共「和平談判」嗎？",
@@ -945,6 +1072,26 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "關注營造業職災攀升 劉建國要求勞動部強化防治、正視雲林職災問題 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQSUJFOG9Bbk8tcEpxV0lHaWMxSkRfTDROdURucFBLdFEzZlpwcmh1ZnlpYUk4MUs0UWx0Ymx4Z3VrbzRkVzJDRWJlMGY0QUhmZXpPWVRjZ3gtRU9ub21IeXpNcXByQlNSeG9JOEt4NXlrZjloX29CVG4tVklSZ0JRMnNWM1VRc3hmS1cxNlZVcEt4ZXY0ZV9RRHpQVVlXcEhJMG03cDZXRks5TW9HdTRIX3JvV29GUDlIRW1qWHBmZTgzdzJrLTNLcFlFQ29waFZfbG5JRkpSNE03YmNJWEhXdmxOd3RuNFV5VTRoQUJOYlV5aWxZeWRpN2pJMV9nZmNMZklpN0V6QXlxVkFDWWlrdFMwa3pQLUVxSXFxcW9jS1FPQm5NZzgwTHNuSXk4Wnc4TUdvNDRKLUE3X2FUTFpKUkNpSlFkYkNvdFRlZkF6YXNDODg3TnhKb2t5UHhDUERGeVpYSDhEdTI0dHNHYmFwaml1VkM3R0NNTXoyUDIyZUotdzJrU0FoSDU1bWZsYVI4ZVkzRl9GQ3k0TTM4Y1hvQVZwQTBIeElyaVV0Y2liSVdYdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-08 00:21:58"
+      },
+      {
+        "title": "關注營造業職災攀升 劉建國要求勞動部強化防治、正視雲林職災問題 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOdThkUjd2WWRoN084NGtZTXI0YkRaOFYyNlh4LUZxdXQ5cHk0emQ3NkNyQjJBekhOSzNhdHZIZkFGc2cydlI1TUx4OFdpMnppUVpJTjFkdVc0c1p3d2R5bnMwbS1vSGJHcHZVaWltcEh3UmJYMzhuLVRONXpidDlTaFJJX2o4amtOR3JWMHBYcmYzSFU5aE1tXzE4ZllQRENxak81MXE4UmVCYWhmR05TbU1RUWNLcFhTWHBNSUQ2QjROWXBOWmd6RnNnaFVuclJ6ZmVpbHo3NXN6VEJFenpsUW5hbzB4T0lKN0lKWGoxakU2cTE3Z0dMZ1ctSWZnQnFqRU94WkNqbmhrajdvZGZTeTdNcDJtVlVZRDM5UmZaQ2RoQnd2TjdObnJWbjlVOWFmNFFIRnI5WHROQVFxZXQ5LTVuX1lkZFMydVBlbVJrSDJpdW1hQ0pLRlNTVWZlTGR1NW0tMlk4ZGh6cjZidTBveDhtZjN1ZmFLanE3UzNnb0hfRkV3d1F0c2g1TmY1RVNzVUx2NGh3T1dOQVJVUEdkNmRwWDZQTlQzV0xlX2dtZFFEQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-07 17:13:48"
+      },
+      {
+        "title": "劉建國關注營造業職災攀升 要求勞動部正視雲林職安問題 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93TERScFJnSmhhaFJqd1V1ZVRPekg2NFh3eG9vVWZFenNqelVCZm1QRW9mZ0xuX0x6ODFKZm44R0FWYjczd1lfMw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-07 16:01:32"
+      },
+      {
+        "title": "營造業職災死亡攀升 立委劉建國要求勞動部強化防治、正視雲林問題 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ad0hnWG5xQ2NQWXNuMG9qS3pQOGRXMFV5ck16MVVMN0VLcHA2QmpfcktyeklFcnRUdkU0aXpJcW12bUc0UHFZUXM1bzVad0MxQlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-07 15:21:00"
+      },
       {
         "title": "美國花生零關稅叩關 張嘉郡憂心： 下一個可能就是稻米 - MSN",
         "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxPWm0xcnFzVXY5SlROTEVVcUVNaVhpOThPUHR0ZUQ3R21RNXA5SUNBU2FJeW1sdnBTUzJpcHkybF9TQTVNX2ViaUhpekIwclQwcTJaQy03YmQ5MzZzaVJHVGpWMFpCUEd4UHhnWDNhM0RRVi1wb2xoakNvd25oQVEySFo4Unc4Y1VaS3JtX2l6SVBrcng0dmk1TTdxUHBpajc5S1ktUEl1QTJnWE9hX1N6N1VjS19Jd29CcGc2WVpEdXNZVmpBY2RvbXkzSVZtZDFEWUNWMTNfQmpvR3BfMFRCbUxWeVFYX3EtMHBfbTZjQXVWSjBjdUtPTmM3VjNVQ3d1TURnS2RPZndaZGpEMDFISzdFZFlZRy1XV3VQU1BPZFpVVzhqNV9QRmx5czU5b3hHMjRTOGQ2d3Z6azl0U3FRTjVQODBZV0ZfYTJXT0hHa1I2bVN2NnVua1ZiN2NYS2hjOXFzVjllYW1WV3lweVBwZXpMcm9VSlRCUExmNGR3eWEtLW9OWXZZVDI5OEhWNkpZRWM5RWtnU21yYWlwSElFTHV0cEhVbHo0RnZJUDRXWFJTZEZqd3V6Q002aFhER0xuZzgwVXh0RTVVTHQxdGc0SE1MeEpnUkpHZTN3eG1Oem9FUDFwaVVHRE9vTFpfOEo4WjAyYkFXRTRXcVVPS280TlhtMll5ZWZyY3QyU3NxSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1124,26 +1271,6 @@
         "title": "劉建國成功催生國家級高齡研究中心落腳雲林 打造健康台灣重要基地 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQWXdXMnNZemVGbHg5YS1NTE0yVHlrekw0cHRfU1J6UmgwdHVGc2owSDBkMjhfRWZvU3dZYkczRU95dHl4N1JrTHJ6NXF2TFFLZFl2UHZjRE5XZVB6Qm96VnFveTVjTG5ZbDZKa19LQVZaa2g2N28ydm43RGdYYlNlVXY0WGZoYVpwTzJ3UFpqbUtGYzBvNm4ySklCZGRiRjJzbmtBcFVfQWNQMWhGNFZJLVl4eWdCTklycG1ya1VLTTF3eWRpVDJqbEVMczBCdmZ6VmVvTlRCT3ROXy1KdjU0QlJnc21oTzlMYUV2ZnJ1M3drdlRmWEtBbFBxTGF1Ny1wMzk0VDhudGZXbkVoZkl0OWRxMnBWYlhJa1lfUjh1S1RWTm5SSlhxRFdsVVg5ckk4dVpSQ3pzQXliaWY0RnhuS0liLVdzRC1yMThFQ2YySzJ0SXdaczI3Y2t6cE5XWTc3bk05aWpZaWZmVi1wWEVBNmMwMDZDLVIzdmZQNkRTZVIzRWxwUkpKVUlmVE85Ri10aDZhTEUxZkw2aUxlZHlQTlk3Sm5RMTB2UDBqUlZWYm5heFI2Rk5DT1Z2bzE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-01 17:03:49"
-      },
-      {
-        "title": "立委劉建國成功催生國家級高齡研究中心落腳雲林 打造健康台灣重要基地 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93VHZLV3VvdXBVbWhIUXNkUUVLRGd4b1d2cUZOcXdZSnBMT0dlMTRaTjQ0R0EwU1BWd0VtdlR6WWZRdzJuOFRJR2U5bkljdmFPdmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-01 17:01:00"
-      },
-      {
-        "title": "國家級高齡研究中心雲林啟用 劉建國打造健康台灣關鍵基地 - 台灣民眾電子報",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QU2xobEo3bHUxXzdRbWhra0xoOXZXVFEweDVZRGxwb1pZR25vLXIyTHgtUy1XS1VwU2p0TmNtcGxlSm9CTTFkUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-01 16:42:13"
-      },
-      {
-        "title": "「國家高齡醫學中心」落腳雲林 賴總統：劉建國持續幕後推動 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51VlJ0eXBKZTBJMlpnVWllN29pWTdxZDBiTGVNUlJiSHpVT2c0cFRfaHNsbnVLT0k3MmtwYl9RbWgtZHhPVGhOYm53b2w2MDJfYnVlaHZTdzNtOExkcHBXU1RnWENETHBVT0HSAW9BVV95cUxQQ3BYLWcwTG0tWkY3THhzVzRsMEVJbzVyUGRyZGp4ZDVBTnlYVUZzLVNRd0NvMXpSZ0RkdGJvdmVNdHI2MUt2aXNIVmxXLWZ5OVI5RDVZdG5ySE11TTl6cm9iTlpsUmtibzJTZE5OanM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-01 16:23:52"
-      },
-      {
-        "title": "「國家高齡醫學中心」落腳雲林 賴總統：劉建國持續幕後推動 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZU1STEZTbmVEdHpoa1NpbmJtQjZwYjl3MmtXV0Y2M3ZpYkswY0VDZDhmaUJhazU4Y2JfdmFOUmZyZXdDR3VMaUNxN21zVDg3dG5lQmFyWUxRSDJNVTdUQUJKSHFOMFA4elUtN0MzaUl2UmVSV0JsRUtjTnRPT1hYdFhaME53QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-01 16:23:00"
       }
     ],
     "youtube": [
@@ -1286,16 +1413,54 @@
     "hour": [],
     "day": [
       {
+        "title": "關注營造業職災攀升 劉建國要求勞動部強化防治、正視雲林職災問題 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQSUJFOG9Bbk8tcEpxV0lHaWMxSkRfTDROdURucFBLdFEzZlpwcmh1ZnlpYUk4MUs0UWx0Ymx4Z3VrbzRkVzJDRWJlMGY0QUhmZXpPWVRjZ3gtRU9ub21IeXpNcXByQlNSeG9JOEt4NXlrZjloX29CVG4tVklSZ0JRMnNWM1VRc3hmS1cxNlZVcEt4ZXY0ZV9RRHpQVVlXcEhJMG03cDZXRks5TW9HdTRIX3JvV29GUDlIRW1qWHBmZTgzdzJrLTNLcFlFQ29waFZfbG5JRkpSNE03YmNJWEhXdmxOd3RuNFV5VTRoQUJOYlV5aWxZeWRpN2pJMV9nZmNMZklpN0V6QXlxVkFDWWlrdFMwa3pQLUVxSXFxcW9jS1FPQm5NZzgwTHNuSXk4Wnc4TUdvNDRKLUE3X2FUTFpKUkNpSlFkYkNvdFRlZkF6YXNDODg3TnhKb2t5UHhDUERGeVpYSDhEdTI0dHNHYmFwaml1VkM3R0NNTXoyUDIyZUotdzJrU0FoSDU1bWZsYVI4ZVkzRl9GQ3k0TTM4Y1hvQVZwQTBIeElyaVV0Y2liSVdYdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-08 00:21:58",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "藍白兩黨軍購條例的實質版本為何一直不提出？是想如傳聞拖過川習會，來逼迫台灣與中共「和平談判」嗎？",
         "url": "https://www.youtube.com/shorts/oGM2slGANRY",
         "time": "2026-05-07 17:42:53",
         "platform": "youtube",
         "risk": "綠"
+      },
+      {
+        "title": "關注營造業職災攀升 劉建國要求勞動部強化防治、正視雲林職災問題 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOdThkUjd2WWRoN084NGtZTXI0YkRaOFYyNlh4LUZxdXQ5cHk0emQ3NkNyQjJBekhOSzNhdHZIZkFGc2cydlI1TUx4OFdpMnppUVpJTjFkdVc0c1p3d2R5bnMwbS1vSGJHcHZVaWltcEh3UmJYMzhuLVRONXpidDlTaFJJX2o4amtOR3JWMHBYcmYzSFU5aE1tXzE4ZllQRENxak81MXE4UmVCYWhmR05TbU1RUWNLcFhTWHBNSUQ2QjROWXBOWmd6RnNnaFVuclJ6ZmVpbHo3NXN6VEJFenpsUW5hbzB4T0lKN0lKWGoxakU2cTE3Z0dMZ1ctSWZnQnFqRU94WkNqbmhrajdvZGZTeTdNcDJtVlVZRDM5UmZaQ2RoQnd2TjdObnJWbjlVOWFmNFFIRnI5WHROQVFxZXQ5LTVuX1lkZFMydVBlbVJrSDJpdW1hQ0pLRlNTVWZlTGR1NW0tMlk4ZGh6cjZidTBveDhtZjN1ZmFLanE3UzNnb0hfRkV3d1F0c2g1TmY1RVNzVUx2NGh3T1dOQVJVUEdkNmRwWDZQTlQzV0xlX2dtZFFEQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-07 17:13:48",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國關注營造業職災攀升 要求勞動部正視雲林職安問題 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93TERScFJnSmhhaFJqd1V1ZVRPekg2NFh3eG9vVWZFenNqelVCZm1QRW9mZ0xuX0x6ODFKZm44R0FWYjczd1lfMw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-07 16:01:32",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "營造業職災死亡攀升 立委劉建國要求勞動部強化防治、正視雲林問題 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ad0hnWG5xQ2NQWXNuMG9qS3pQOGRXMFV5ck16MVVMN0VLcHA2QmpfcktyeklFcnRUdkU0aXpJcW12bUc0UHFZUXM1bzVad0MxQlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-07 15:21:00",
+        "platform": "news",
+        "risk": "綠"
       }
     ]
   },
   "regional_groups": {
-    "regions": [],
-    "groups": []
+    "regions": [
+      {
+        "name": "雲林",
+        "count": 4
+      }
+    ],
+    "groups": [
+      {
+        "name": "工地/營造",
+        "count": 4
+      }
+    ]
   }
 }
