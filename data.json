@@ -1,42 +1,42 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-08T16:59:49.473064+00:00",
+  "generated_at": "2026-05-09T07:34:59.153207+00:00",
   "metrics": {
-    "total_24h": 5,
-    "prev_24h": 12,
-    "growth_pct": -58.33,
-    "news_24h": 1,
+    "total_24h": 8,
+    "prev_24h": 9,
+    "growth_pct": -11.11,
+    "news_24h": 3,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
-      "baseline_same_hour_7d": 1.25,
+      "baseline_same_hour_7d": 1.0,
       "reasons": []
     }
   },
   "metrics_7d": {
-    "total": 64,
-    "prev": 249,
-    "growth_pct": -74.3,
+    "total": 67,
+    "prev": 242,
+    "growth_pct": -72.31,
     "news": 37,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
-      "baseline_same_hour_7d": 1.25,
+      "baseline_same_hour_7d": 1.0,
       "reasons": []
     }
   },
   "by_platform": [
     {
       "platform": "facebook",
-      "count": 2
+      "count": 3
+    },
+    {
+      "platform": "news",
+      "count": 3
     },
     {
       "platform": "youtube",
       "count": 2
-    },
-    {
-      "platform": "news",
-      "count": 1
     }
   ],
   "by_platform_7d": [
@@ -50,14 +50,10 @@
     },
     {
       "platform": "facebook",
-      "count": 10
+      "count": 13
     }
   ],
   "by_hour": [
-    {
-      "hour": "2026-05-08 10:00",
-      "count": 2
-    },
     {
       "hour": "2026-05-08 18:00",
       "count": 2
@@ -65,17 +61,21 @@
     {
       "hour": "2026-05-08 19:00",
       "count": 1
+    },
+    {
+      "hour": "2026-05-09 09:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-05-09 11:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-05-09 12:00",
+      "count": 3
     }
   ],
   "by_hour_7d": [
-    {
-      "hour": "2026-05-02 04:00",
-      "count": 1
-    },
-    {
-      "hour": "2026-05-02 06:00",
-      "count": 1
-    },
     {
       "hour": "2026-05-02 21:00",
       "count": 1
@@ -223,47 +223,121 @@
     {
       "hour": "2026-05-08 19:00",
       "count": 1
+    },
+    {
+      "hour": "2026-05-09 09:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-05-09 11:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-05-09 12:00",
+      "count": 3
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 1
+      "count": 3
+    },
+    {
+      "platform": "facebook",
+      "count": 2
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
       {
+        "title": "張嘉郡留心！劉建國領軍搶回雲林「綠營第二波徵召名單曝光」 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPMXNRVW9lYk4xdElXd1E5UzdrX2JYclZOZ1ZJYVRKNmU1bkVNVFJuUjd0UGJMR0l4N1V1MFE3RkVCSmR6c3NQZWw0VElVMVRYWEtlU09Qb1AxY2JiVkh3UUNQRTlvTmdxVTctMHpyY01hem9vV1pfS0puazl6X1FhZXBwQUxyTG1UeHc5UC01X1JwWjRFVURVOUVqVVJZR1IzNzlwWVlwRVJPdXNwOWhmOFc1SGVEakRfekJMYmpibURYa2ZqLTJJdFpocl9hbnVrVC1UNjFYc3I0RzlGanJsdU9PLV96VmpzbjFyWnFsY0FxeWxKRlJZSVBzQkNaWk1EaFpibjc1NFNFMlNKYlZpNEhBemRXS0RaRVd1UzlaLUxWczVaT21kNmU2a0UwQXdvRjc1NW0wUDM4dmRvUWhKdS1FUXBZcWFRNjliSkNNT2IwN2ZFZXpvRElfeEEyS2xOR2JCcTYyOGtpY2xyaTJvcXdYZlNxVVBCRVlUVnVVaU9PZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-09 12:42:51"
+      },
+      {
+        "title": "獨家專訪｜張嘉郡挑戰雲林縣長盼撕「標籤」 以「200%努力」叫陣17年資深老將 - 壹蘋新聞網",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtdnJFMEVZZ2NZVkdDTTF4V2gta01aLXZ0SEpYN3UzMVlQLXRTXzdhQUdONnNiYy1GaVJodnhEOWVwS3JselRqZndzMTdlcmU1NDZvYkM5SndSeUdPNkJJUjM3bzM3M0JwVXF0NzZYUl84dlZLX0MweHVZSzVGb1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-09 09:00:00"
+      },
+      {
         "title": "張嘉郡爭取2.39億元防洪經費 提升莿桐、西螺等治水韌性 - 臺灣導報",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IclRDU2RNWlFsMkRyVGhrczNGak12elJtcktvdjFkVWJlb0ZIVVlpVWprSFhYQ3Z6My1RdXZlZl91UjFxbWYzdjlyWDBoSmVMYl9r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-08 19:27:41"
+      }
+    ],
+    "facebook": [
+      {
+        "title": "張嘉郡留心！ 劉建國領軍搶回雲林 「綠營第二波徵召名單曝光」 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQV21XSEdfLUtIRkZBZzh2UVkzTE5QZF9neUoybE9VcFF5Q0F4TnZuVFR0SGlDb3U5aF9UUjh5UWV4N1JValhGZGE0aV9EVW1nWl9qUXVqaWFwTmdFSnFfaU9xdDI1elh1SWhRYUs5TExORi1WVUF2TjNrSzV1MVdESEQyMk1zd0x0WWRfRlhkUzdBLWVIZDVCWTF6UDZ6eHBnVk1KbGRnM0Y3UzNCMk5LR3hiZlFMYW9QcWJRUVkzWjk0TjJGT2VzZGdpdmx0eDRLaDhYei1QT2phM2JLbHVGdThlak5oSDR4dU9OR2xiVGxXMVNHeUJVUzJsV1hwcUplR1dTRll1OFJCaUZ5cGpCcnZHMGhHdWZjdHJPV3ktZDVLb0RHZFRfazVVRURGT3o0QjVQTjRHSUhpeVpySDJzNmp0S2Y4a2d5Zm9yVmhTdzdPWmhDOXhGS3M4LWJremV5bUZjaDZDVWNFdnhpSklfUTNTQWhFdEVqazQwRkgyQi1STGNNZzNhT2hEYk5JRGFrd0s0TVdIOA",
+        "time": "2026-05-09 12:15:55"
+      },
+      {
+        "title": "張嘉郡曝母親節孩子暖心舉動 爸爸一句話笑翻全場 @ChinaTimes #SHORTS #張嘉郡 #母親節 #孩子 #暖心 #舉動 #祝福 #卡片 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxPTksxdWFhaUZIWVZlX2ZLRl9VZEFjYkl5V3BsT294TUY5UWxwRWc0TFVHSEg0LXNKV3RYSi1fa2tJbEVTYWNaWFl5M2M3TzdaRGFIUHNtVk1Fc2dUZ1hIQXpqOFBBYTZyeV9sYUVyT0Q2NmhuVzdmM3llZHlLTnJTQWdwcjlGNzJCeEJBRTF4MmxydVJZTzJQWm43NnZHRmFMWl8zVWlpck1Gc2JkYm1lS2I3ZXR0MnVXdjRYN3RxTXFyQ2Q2T3hHMGFzRFZOME1oZVJLbG5FWmlrV3p2V1p6TEdkcGNRUkpKZHoyRkcwclg1OHhWenRJNlpPNmE1TlhNWXZnZkhUM2p2S2V2TWJ3TXlrVHY5aWtPdkpVTFdNUDNIVG5RNGJrNDN2WmIzSlp6VUthRzhSbUpTdU03eEh4ZTdrMVZfd2phSnNpRUlIM1A1eFY5WVVuQzFmR3h4djZMRWhNSW5BOEV2dW1sMjFTYjFWNTJPZmZSV05faG9IZGlDRW5ydEUzeDNmeVVQNW1BVnE3UUw5VFF4ZGlOTmZBekxXaFRDOGJicVdjY3NtbU5HWC1GTWpIWE9SQ3FTRmt2a19BOFpfbElxY25LbTJ6Q2Z1cFBQUVY5bVRWNHZ3YlY4eGhJM2E1OGJETVY5bTRXbWE2LUx4MmJHMXFfdWZBREFLVk44NkF4WlVYcEc5V1JBUjJpekxIOGpVZE15Z2s5NUY3aTNKcWJnUVlnMnVSZDhhY2Vfa2hJbzBadXFOSzlaMy1RRkstM3hJRDRHUGRHajJCaw",
+        "time": "2026-05-09 11:10:03"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 1
+      "count": 3
+    },
+    {
+      "platform": "facebook",
+      "count": 2
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
       {
+        "title": "張嘉郡留心！劉建國領軍搶回雲林「綠營第二波徵召名單曝光」 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPMXNRVW9lYk4xdElXd1E5UzdrX2JYclZOZ1ZJYVRKNmU1bkVNVFJuUjd0UGJMR0l4N1V1MFE3RkVCSmR6c3NQZWw0VElVMVRYWEtlU09Qb1AxY2JiVkh3UUNQRTlvTmdxVTctMHpyY01hem9vV1pfS0puazl6X1FhZXBwQUxyTG1UeHc5UC01X1JwWjRFVURVOUVqVVJZR1IzNzlwWVlwRVJPdXNwOWhmOFc1SGVEakRfekJMYmpibURYa2ZqLTJJdFpocl9hbnVrVC1UNjFYc3I0RzlGanJsdU9PLV96VmpzbjFyWnFsY0FxeWxKRlJZSVBzQkNaWk1EaFpibjc1NFNFMlNKYlZpNEhBemRXS0RaRVd1UzlaLUxWczVaT21kNmU2a0UwQXdvRjc1NW0wUDM4dmRvUWhKdS1FUXBZcWFRNjliSkNNT2IwN2ZFZXpvRElfeEEyS2xOR2JCcTYyOGtpY2xyaTJvcXdYZlNxVVBCRVlUVnVVaU9PZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-09 12:42:51"
+      },
+      {
+        "title": "獨家專訪｜張嘉郡挑戰雲林縣長盼撕「標籤」 以「200%努力」叫陣17年資深老將 - 壹蘋新聞網",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtdnJFMEVZZ2NZVkdDTTF4V2gta01aLXZ0SEpYN3UzMVlQLXRTXzdhQUdONnNiYy1GaVJodnhEOWVwS3JselRqZndzMTdlcmU1NDZvYkM5SndSeUdPNkJJUjM3bzM3M0JwVXF0NzZYUl84dlZLX0MweHVZSzVGb1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-09 09:00:00"
+      },
+      {
         "title": "張嘉郡爭取2.39億元防洪經費 提升莿桐、西螺等治水韌性 - 臺灣導報",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IclRDU2RNWlFsMkRyVGhrczNGak12elJtcktvdjFkVWJlb0ZIVVlpVWprSFhYQ3Z6My1RdXZlZl91UjFxbWYzdjlyWDBoSmVMYl9r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-08 19:27:41"
       }
+    ],
+    "facebook": [
+      {
+        "title": "張嘉郡留心！ 劉建國領軍搶回雲林 「綠營第二波徵召名單曝光」 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQV21XSEdfLUtIRkZBZzh2UVkzTE5QZF9neUoybE9VcFF5Q0F4TnZuVFR0SGlDb3U5aF9UUjh5UWV4N1JValhGZGE0aV9EVW1nWl9qUXVqaWFwTmdFSnFfaU9xdDI1elh1SWhRYUs5TExORi1WVUF2TjNrSzV1MVdESEQyMk1zd0x0WWRfRlhkUzdBLWVIZDVCWTF6UDZ6eHBnVk1KbGRnM0Y3UzNCMk5LR3hiZlFMYW9QcWJRUVkzWjk0TjJGT2VzZGdpdmx0eDRLaDhYei1QT2phM2JLbHVGdThlak5oSDR4dU9OR2xiVGxXMVNHeUJVUzJsV1hwcUplR1dTRll1OFJCaUZ5cGpCcnZHMGhHdWZjdHJPV3ktZDVLb0RHZFRfazVVRURGT3o0QjVQTjRHSUhpeVpySDJzNmp0S2Y4a2d5Zm9yVmhTdzdPWmhDOXhGS3M4LWJremV5bUZjaDZDVWNFdnhpSklfUTNTQWhFdEVqazQwRkgyQi1STGNNZzNhT2hEYk5JRGFrd0s0TVdIOA",
+        "time": "2026-05-09 12:15:55"
+      },
+      {
+        "title": "張嘉郡曝母親節孩子暖心舉動 爸爸一句話笑翻全場 @ChinaTimes #SHORTS #張嘉郡 #母親節 #孩子 #暖心 #舉動 #祝福 #卡片 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxPTksxdWFhaUZIWVZlX2ZLRl9VZEFjYkl5V3BsT294TUY5UWxwRWc0TFVHSEg0LXNKV3RYSi1fa2tJbEVTYWNaWFl5M2M3TzdaRGFIUHNtVk1Fc2dUZ1hIQXpqOFBBYTZyeV9sYUVyT0Q2NmhuVzdmM3llZHlLTnJTQWdwcjlGNzJCeEJBRTF4MmxydVJZTzJQWm43NnZHRmFMWl8zVWlpck1Gc2JkYm1lS2I3ZXR0MnVXdjRYN3RxTXFyQ2Q2T3hHMGFzRFZOME1oZVJLbG5FWmlrV3p2V1p6TEdkcGNRUkpKZHoyRkcwclg1OHhWenRJNlpPNmE1TlhNWXZnZkhUM2p2S2V2TWJ3TXlrVHY5aWtPdkpVTFdNUDNIVG5RNGJrNDN2WmIzSlp6VUthRzhSbUpTdU03eEh4ZTdrMVZfd2phSnNpRUlIM1A1eFY5WVVuQzFmR3h4djZMRWhNSW5BOEV2dW1sMjFTYjFWNTJPZmZSV05faG9IZGlDRW5ydEUzeDNmeVVQNW1BVnE3UUw5VFF4ZGlOTmZBekxXaFRDOGJicVdjY3NtbU5HWC1GTWpIWE9SQ3FTRmt2a19BOFpfbElxY25LbTJ6Q2Z1cFBQUVY5bVRWNHZ3YlY4eGhJM2E1OGJETVY5bTRXbWE2LUx4MmJHMXFfdWZBREFLVk44NkF4WlVYcEc5V1JBUjJpekxIOGpVZE15Z2s5NUY3aTNKcWJnUVlnMnVSZDhhY2Vfa2hJbzBadXFOSzlaMy1RRkstM3hJRDRHUGRHajJCaw",
+        "time": "2026-05-09 11:10:03"
+      }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 1,
-    "劉建國": 0
+    "張嘉郡": 5,
+    "劉建國": 2
   },
   "mention_compare_7d": {
-    "張嘉郡": 35,
+    "張嘉郡": 39,
     "劉建國": 13
   },
   "top_news": [
+    {
+      "title": "張嘉郡留心！劉建國領軍搶回雲林「綠營第二波徵召名單曝光」 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPMXNRVW9lYk4xdElXd1E5UzdrX2JYclZOZ1ZJYVRKNmU1bkVNVFJuUjd0UGJMR0l4N1V1MFE3RkVCSmR6c3NQZWw0VElVMVRYWEtlU09Qb1AxY2JiVkh3UUNQRTlvTmdxVTctMHpyY01hem9vV1pfS0puazl6X1FhZXBwQUxyTG1UeHc5UC01X1JwWjRFVURVOUVqVVJZR1IzNzlwWVlwRVJPdXNwOWhmOFc1SGVEakRfekJMYmpibURYa2ZqLTJJdFpocl9hbnVrVC1UNjFYc3I0RzlGanJsdU9PLV96VmpzbjFyWnFsY0FxeWxKRlJZSVBzQkNaWk1EaFpibjc1NFNFMlNKYlZpNEhBemRXS0RaRVd1UzlaLUxWczVaT21kNmU2a0UwQXdvRjc1NW0wUDM4dmRvUWhKdS1FUXBZcWFRNjliSkNNT2IwN2ZFZXpvRElfeEEyS2xOR2JCcTYyOGtpY2xyaTJvcXdYZlNxVVBCRVlUVnVVaU9PZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-09 12:42:51"
+    },
+    {
+      "title": "獨家專訪｜張嘉郡挑戰雲林縣長盼撕「標籤」 以「200%努力」叫陣17年資深老將 - 壹蘋新聞網",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtdnJFMEVZZ2NZVkdDTTF4V2gta01aLXZ0SEpYN3UzMVlQLXRTXzdhQUdONnNiYy1GaVJodnhEOWVwS3JselRqZndzMTdlcmU1NDZvYkM5SndSeUdPNkJJUjM3bzM3M0JwVXF0NzZYUl84dlZLX0MweHVZSzVGb1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-09 09:00:00"
+    },
     {
       "title": "張嘉郡爭取2.39億元防洪經費 提升莿桐、西螺等治水韌性 - 臺灣導報",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IclRDU2RNWlFsMkRyVGhrczNGak12elJtcktvdjFkVWJlb0ZIVVlpVWprSFhYQ3Z6My1RdXZlZl91UjFxbWYzdjlyWDBoSmVMYl9r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -271,6 +345,16 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "張嘉郡留心！劉建國領軍搶回雲林「綠營第二波徵召名單曝光」 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPMXNRVW9lYk4xdElXd1E5UzdrX2JYclZOZ1ZJYVRKNmU1bkVNVFJuUjd0UGJMR0l4N1V1MFE3RkVCSmR6c3NQZWw0VElVMVRYWEtlU09Qb1AxY2JiVkh3UUNQRTlvTmdxVTctMHpyY01hem9vV1pfS0puazl6X1FhZXBwQUxyTG1UeHc5UC01X1JwWjRFVURVOUVqVVJZR1IzNzlwWVlwRVJPdXNwOWhmOFc1SGVEakRfekJMYmpibURYa2ZqLTJJdFpocl9hbnVrVC1UNjFYc3I0RzlGanJsdU9PLV96VmpzbjFyWnFsY0FxeWxKRlJZSVBzQkNaWk1EaFpibjc1NFNFMlNKYlZpNEhBemRXS0RaRVd1UzlaLUxWczVaT21kNmU2a0UwQXdvRjc1NW0wUDM4dmRvUWhKdS1FUXBZcWFRNjliSkNNT2IwN2ZFZXpvRElfeEEyS2xOR2JCcTYyOGtpY2xyaTJvcXdYZlNxVVBCRVlUVnVVaU9PZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-09 12:42:51"
+    },
+    {
+      "title": "獨家專訪｜張嘉郡挑戰雲林縣長盼撕「標籤」 以「200%努力」叫陣17年資深老將 - 壹蘋新聞網",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtdnJFMEVZZ2NZVkdDTTF4V2gta01aLXZ0SEpYN3UzMVlQLXRTXzdhQUdONnNiYy1GaVJodnhEOWVwS3JselRqZndzMTdlcmU1NDZvYkM5SndSeUdPNkJJUjM3bzM3M0JwVXF0NzZYUl84dlZLX0MweHVZSzVGb1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-09 09:00:00"
+    },
     {
       "title": "張嘉郡爭取2.39億元防洪經費 提升莿桐、西螺等治水韌性 - 臺灣導報",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IclRDU2RNWlFsMkRyVGhrczNGak12elJtcktvdjFkVWJlb0ZIVVlpVWprSFhYQ3Z6My1RdXZlZl91UjFxbWYzdjlyWDBoSmVMYl9r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -360,19 +444,24 @@
       "title": "美國花生要來了！張嘉郡警告「稻米恐淪陷」 農業部嚴正澄清 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQNmJYeWJSeFNmZVFocTJVV3h5aF8wX3FfdE5jb3RHUTk1UW4wWFViWkZyX2lrMDJnQ3FfQ0NMLUJKLVZTeWJKU0RieE1QZUpOaUh6WnRQVjV5MVdDcVJVb2Y3LUxmRjd5NEJFTDItRTFaMGNUTjdvOXVWaVY0RmZodXQ4MjVYQ2tUT2V3RWRHaTRWTlVGSHlmM1J1eXA0cUlaY216Q29oY0tfb2NMWW5vQmExdVZQZnZVMTNuSDgxSXp3eGR6cC0xdWltZV9uLUQtUkdVaVFhMTFGaXlEb1hKWTVsMVMzc01pUkdfSzdnUmo5aHl1bFZWX25GR2ZMcUd1WldkRG1IVmdUMW54UjVMVmx0X2RCWENpcEFfN1Y1Z1A1bnJrb1hPUFNJWWdFbTJyMnJ2Q054Sl9udDJ5am5JaV9lOUF5UzU1bkFHWjVxdXZqMlZOd2hUd2R1ZDBKTlVsY25PYnFES0hLQXBvVnNqYzl2bDFFZm8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-04 21:47:44"
-    },
-    {
-      "title": "張嘉郡稱「下個零關稅恐是稻米」農業部嚴正澄清：配額關稅維持不變 - 三立娛樂星聞",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nVXpwUDQ0bzkzWW8wUDdQNHhHWVdfVjJ5Ql9ZazN1MEhMNjZibU4zQnNUVG9BRDh3VV9uMDZuLVlabHVuSGNRbjRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-04 20:49:45"
-    },
-    {
-      "title": "張嘉郡稱「下個零關稅恐是稻米」農業部嚴正澄清：配額關稅維持不變 - 三立新聞網SETN.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zdzQzdHA3bnZzMk5rajZfdlB0cFU5Wm1VTHRIX2hlOTVMNEZZTEhOX0VJc3BnRmZ0c0JjYnNyeEc4dGxQTngzUVVpazZHU2xJM0h4YXF1U1rSAV9BVV95cUxNdmZwQm1wTWVDd3J6S3RCMzdLcHBLU3NkVUIyQkN5TUhYU3RZVEx3WHBUeXl4X05XaVBnWk53VWFBM0pYMkUyOEpxM2RXeUo4MHJDYkg1bGFvZjNzU0xDMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-04 20:41:00"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "立院速記—— 三班護病比入法，三黨都支持，但是卻在表決現場出現「靈異現象」！ 條文中負責審議護病比標準的「諮詢委員會」三黨對於成員組成的看法： ➡️民進黨團提出必須保障護理代表的人數比例為1/3，傾聽護理人員的聲音，也保障病患的權益。 ➡️但國民黨直接 - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMiqAhBVV95cUxNYl9uTExBalB1MU5FU1VzaVJvVFhyT1lUdDdoTVpMS0ktam9qbzhyMGh3QTJPeWVlRFdRTFBrbXBBa3hWWFpqcjJycnlmTVlUNzRVd2ZKWktRNUVaODZfU2ZOVGdDQ2ZGLXd6MDRmeTc3WVBnU0VKdXJyTU1IZ3J1cVBhZlo2d2lLNkkzSnMtcjdQYWRQWF8tQmV3MHlySWNBYzlITWF3Rjc0V29iS3o0dGYwMThjLWRkbTlObUwzOXZTa1Jkc2U4WVlIOGpzR1J5SDFMa1UtbmxDd3RrZWR2ZnZPNVlkRm1Dc1pqT2Jlc3U4TEhoc3FCSklFdms3SlIzX05ZanZhVkx6alBrSGlxc3R5UmtBSHBUQU9nMlBNci1xM3V2amp1ZFlDT2tjakRIc0k4X2R3S1hBcjF0TS14Vk5MdkZIWks1MUFnZ1JXWXpCdEpCT2JMSlItNHFycXlQRHNFRnlKSFpKV3VsZHpMTmVKUUR0NTBPS0Q0V2xJLW9KYVUwaXJCVnY2cTBqRWVvaF9VUmNaOWRzMnczOWRpa2lTZDA4S3VjdVN2cjlXWFhicnBib3VFN3hDdHR6TDJDLTFwZjZDOTdQU3ZWRnF3X1ZpanJxQXlQSENka1FCTnFCUnVtR1hlY1VKMzdTRnVVeDJPVDlvMERLVkF0UXhKWmg0Ynd2U3NiYWVlZEtrQVh3NnZIZi0zNXMxOVoxbGgtWlN1WDZQRmktM2ltMEd0UmdCVzBwU2FxdGtQMzNTY1d0ck8xU1BwcFFnZ29ZdTNjWmFCLXFmWFJxeVV2Ymk0aHhzNElHSzBfNmM0dUNwcnJLZUJKN3ZZMG43LU1qVTl0QkZpMWNaVVNCZ1hHWlRCVzE1SWFxTER3eXg3SjV5aVpIREFIY05TUDNNcHA1ellGM05KZlNyS2VWUnNVTUpzbGo1NkgwTDJud2MwOC1zdmV5UUo1Rm1WYzZpLUx2OGNoeDBWRnBJM1pMR0pjcVlEVDctUUFKNUFNWTFPdDhJak9CWTBmRDNOUVNnc0hiOXBjdFhObUpWd3RoSVlLQ0YxV1pwMVFfTmdxMHlYSzJjZGwyT3ZJZDlnVDBkZ0h3b0ZNMUJxTUNVMnRVNmFQelJsbE1oSWRnQVVoZjRsbGc1X1cxV1dBTEV1VllmbHhSbWdjQXk1dTcxWklIVkoydVBUc3I0TWFYUXVESFpsSjBiN2RfVWh3cUJlQno4bVBxOS1tNkNjNHk1bkk2RldhZGpaZUZnNU9sc01LeWVNUGliTFlXb0dKb2pFQThLU1pPU1I0RXFILWxVOFotUHlKWXJGbFJhdzV6NHZ5Sjhfa3ZaMkhHY0xaY3M2TGRTbEtQbS15SkhOa2dDb0VQdl9HTHhuQmdZbHZXdHo5VXBsazZTRTh6UURFMWVfSw",
+      "time": "2026-05-09 12:23:44"
+    },
+    {
+      "title": "張嘉郡留心！ 劉建國領軍搶回雲林 「綠營第二波徵召名單曝光」 - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQV21XSEdfLUtIRkZBZzh2UVkzTE5QZF9neUoybE9VcFF5Q0F4TnZuVFR0SGlDb3U5aF9UUjh5UWV4N1JValhGZGE0aV9EVW1nWl9qUXVqaWFwTmdFSnFfaU9xdDI1elh1SWhRYUs5TExORi1WVUF2TjNrSzV1MVdESEQyMk1zd0x0WWRfRlhkUzdBLWVIZDVCWTF6UDZ6eHBnVk1KbGRnM0Y3UzNCMk5LR3hiZlFMYW9QcWJRUVkzWjk0TjJGT2VzZGdpdmx0eDRLaDhYei1QT2phM2JLbHVGdThlak5oSDR4dU9OR2xiVGxXMVNHeUJVUzJsV1hwcUplR1dTRll1OFJCaUZ5cGpCcnZHMGhHdWZjdHJPV3ktZDVLb0RHZFRfazVVRURGT3o0QjVQTjRHSUhpeVpySDJzNmp0S2Y4a2d5Zm9yVmhTdzdPWmhDOXhGS3M4LWJremV5bUZjaDZDVWNFdnhpSklfUTNTQWhFdEVqazQwRkgyQi1STGNNZzNhT2hEYk5JRGFrd0s0TVdIOA",
+      "time": "2026-05-09 12:15:55"
+    },
+    {
+      "title": "張嘉郡曝母親節孩子暖心舉動 爸爸一句話笑翻全場 @ChinaTimes #SHORTS #張嘉郡 #母親節 #孩子 #暖心 #舉動 #祝福 #卡片 - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxPTksxdWFhaUZIWVZlX2ZLRl9VZEFjYkl5V3BsT294TUY5UWxwRWc0TFVHSEg0LXNKV3RYSi1fa2tJbEVTYWNaWFl5M2M3TzdaRGFIUHNtVk1Fc2dUZ1hIQXpqOFBBYTZyeV9sYUVyT0Q2NmhuVzdmM3llZHlLTnJTQWdwcjlGNzJCeEJBRTF4MmxydVJZTzJQWm43NnZHRmFMWl8zVWlpck1Gc2JkYm1lS2I3ZXR0MnVXdjRYN3RxTXFyQ2Q2T3hHMGFzRFZOME1oZVJLbG5FWmlrV3p2V1p6TEdkcGNRUkpKZHoyRkcwclg1OHhWenRJNlpPNmE1TlhNWXZnZkhUM2p2S2V2TWJ3TXlrVHY5aWtPdkpVTFdNUDNIVG5RNGJrNDN2WmIzSlp6VUthRzhSbUpTdU03eEh4ZTdrMVZfd2phSnNpRUlIM1A1eFY5WVVuQzFmR3h4djZMRWhNSW5BOEV2dW1sMjFTYjFWNTJPZmZSV05faG9IZGlDRW5ydEUzeDNmeVVQNW1BVnE3UUw5VFF4ZGlOTmZBekxXaFRDOGJicVdjY3NtbU5HWC1GTWpIWE9SQ3FTRmt2a19BOFpfbElxY25LbTJ6Q2Z1cFBQUVY5bVRWNHZ3YlY4eGhJM2E1OGJETVY5bTRXbWE2LUx4MmJHMXFfdWZBREFLVk44NkF4WlVYcEc5V1JBUjJpekxIOGpVZE15Z2s5NUY3aTNKcWJnUVlnMnVSZDhhY2Vfa2hJbzBadXFOSzlaMy1RRkstM3hJRDRHUGRHajJCaw",
+      "time": "2026-05-09 11:10:03"
+    },
     {
       "title": "今天是 5月8日「世界卵巢癌日」🩵 建國長期與 #台灣癌症基金會 共同關注各種癌症治療與權益保障，因此今天特別響應台癌發出的「#世界卵巢癌日」線上串聯活動。 卵巢癌因為早期不易察覺，需要我們平日更多的關心與警覺，尤其馬上就是母親節了，透過這樣的活動，希 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi-gdBVV95cUxPUDRURkEzQjNaYktETnZYYVJtbTlvNHJUcEZHSFVza1hGZUc3a1VpcktVZUNBNmdaOEZ2OWhVTzd1QlJ2bFVjb2dvX0tReUZ6X3dUUGdLQWpiVW5aOFNBWEtCb29MbW4zZ1FWM2FFWUt2SS1Fa1NGR0JNeDBKbHdBSVBvdXl4UXRQX29CTW5BenFaRzlVclY4NXVxWFIyNWZvODJZQ2d5dUxYRDhMWFp1blRMZXdtejRmelhDY2ZEYWtmU1BhVVhzSmtOMGpnWFhYQ2paZ2dvcU9vVUllQjMzeEZrZlFRcnIyQ1hzeldILWx1U1EyUGZFaThybjNBNEliTjhMVlVuNUE4ZGZ3MzNHUlU3RFBXdzVjSVJFVzE1ZmhEV09kSDZ0UU0wbmx0QWV1LWhWUW5WVklQbm9JS2w4dWtDa05NZV9ScU10YkJwalJyekpHdzZiTjM3djJNRzR2SHVKeHVkbEJ2NzFVaXlRaFowLVZzcEpBQTZSWG54eFN5UnFpMjRLQ2twOXRVYUZadXd1SWRkZjRjQVI2MVowOUJnRy0tQWZzOWlMT19fY3NpeGRXYTdDSHR5V0FLRmVtSXVOR01jbnM2WUI1YkpuNmVMNzFJTWwyYXY3UFVCY2praVJnbFQ3Zk4yMXNlVVV2WnpNOFZmbUxDWndFdVJaM3lHdjRqcEpZNEc4Zjl2cUNEMFRhektpN2thMmpFM0lCb2ljRDE4QUpZY0pTM3BzeXotamFoQWF6LXN5UEd1bXo5ZzBfV3FLbHJUX3h4UVVmZlR3UFpNXzJveHlHd2JIU1NMdXZrZWFjRDVvR1FOTXBKdTd4SXFxU3l6VUNtc1Z3VXRRZHZOdDVkX0dCZ0MteXFyWTRLYTNadjktNTRqLVkzZWlVRDN1SGFmXzRiR2s2S0FxOWpJenUzNk9ob2U2NkFWaUpablRlMG1HNGtRcnUxRHlXLUF1alZOWlZIZkpyOHlCMnBCT0RXNDRUN3V4TndENEk4SzNLTWxod3FzVzVMOUoyMWUzVDhyNmV2RHlXdWZ6cjJ3MjdqYWowelp4TW5vbGtHaEtET2wzT0E3X2lpTlpwYmg1SFY5RFZuaXBDa0RQa1FCQklwN3E4WUtMSG9vTGZwVDh5NzYxTlM5TkdjYlREaGhrOTdYSzd3LXBhV3NITi1nNkswMEVSNnFlMUFhZUdLcXl6dkxxZzZRd1ZLWnJmSjdIaVFNMHVOQnNnZUlpQlpJS2Z2M21pcFlXQUJFLWRoYTU2TlVMcHRVMW1qZ3Rzb2FUOS0wSzYxeVRFSHNTNHlUYjVUV2lhaE9mZlhlM1o1NWxrbTZSZjMyLVFyamhpN1ZKLWFB",
@@ -457,24 +546,19 @@
       "title": "## 🐔 穩定中求升級：蘇治芬董事長出席彰化養雞協會大會 今日蘇治芬董事長親自出席彰化縣養雞協會會員大會，現場向施能銘理事長、新任理事長連進通先生，以及長期在第一線努力的農友致上最誠摯的敬意。蘇董事長特別強調，彰化不只是雞蛋的重要產地，也是全國 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMinghBVV95cUxQWC1FcmdLM2ZqNFExQ1kyOWVXWkszSWR1WnFjZFhoVG1maC15SHkyYWRudk10bnNneFdZOUpiT3lzQXpvR2NqQnc0MW4wR3VsekpSc0tBLUZfQmJEVHZHZDFZZFpfT3NRN2RzeDQ4dVB2V3pkTzFoakJkanVxS1A3cnM5dk41eTZUZ0lFYmZuZkwzYzAzYTJWZDZ5a3JJeGNMTGhxWTV2RkJaQnY0X09DQTFhVUxmMUp5TGpiR1FMSnlZanlvZDNIamxkNVlFN0JuOGlXOUR1dHM4UXoxdWNRM3FxRHhVT3ppSG5MMEt2UjZtelNZY3BwZnZkbVhIcC1oV2cwZXY2ZG1rY1lwa19aTW9IckRQMGx3ZVY1VDMzLWg2c3ZkVlFiaHZkRlFRb2tOZjQzaDVRcVA0TkZjRUdWQnZyaXVBR1J1ZTQtVzZKZnFuY2tzYjd2T0VWSGxaY05GcFlyRi1uTHUydUVwNmR1bTZmVHNRU1YwUGZaRmhqTGxPUGpienFEcWJiZk13RGFFNEJja0V3N0ZHWkFkakhKVWlEcUVieU1aVHVzMzRsa2tsVjF2blAwUnQ5Qy1kVUgwcTNabU1lUzlUdnB6Skc1S0NQeXRHa3BUMkExM1liRlVNOHpLWHNRYXJBelRYczU0bHh1dGMzRHZWNTctelJHSlFUMkZWb2dYMzhvUG51WUNCQ2JGOTZOazZHS3hBTDRVVUdJT1JqMVVWRGxYQkx0aFliM2FPMVA0cTlDNW56aDk3YzRycUJJWi0tWW1sZGozTFloSHcxQWdNdkYxNndyNm43WWdOaTYtb2xhMUo4UkdaVmZRZ2RrYnhUaHlkSGZ0QkdMOWoteFVSVUNGdmRHdU1rVW1vZzNQT0RqUm9YTVkxLU1UTnd3Z25GSDBxUHk0TGxWNld0MXpvYVBITWdMUDVUZ1lfN0Q4dGI1OXh3NF9xcFJmQ3Y4aEc1dWdBX3h2NGV5OFJuWkZFYTlRS2ZIV1ctUWZ6SFVUMnJ2bDdMUktQbThGUFpjT1RUT0pDUmpkOWV6ZkpZTE42YUpOUXhiT3E5d1dQTVlEeWlEel80UnJMbkFIRkl1U3RoMEVheHBrZVFkTEVzazNIbFNvZ3BzU1dTejRnVldxNWVyMG42ZEo0bVM5ekZoRFIxbWx4UTNNTTgyRTVxM1Y4d0otdkM2UlpqZm9IZW9MSFY4b2x5bmVMa3p4TUhydjBQMjNLUC1ybjMtbUpUMEwzdjVmdi1idk9KUjF5Z19obUVLZzR5LXFXUzM0cEpLYi1aVzdiSXJuNTdXaGtOQTdVdGpfeklmQ2U4VmVXZEl0YzY0Y21pc2lwa1REeDF2YVlDRkZrdWRBaTFqZDRsQ1Bab2NYVUYzamwtUU5FV3lkODY3VUx3",
       "time": "2026-04-30 13:31:36"
-    },
-    {
-      "title": "張嘉郡 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMGNjWXI0UEd6N3RseXBHcmZEVHJDa2xYWWZ4b3o4cTBwWVZuelFNUEVIcVZVWFB1WjdOODVRN1lndXRYdksyeUx5U2F0ZVktbFB3LVZCYmIxNUJnTmNGSmNxVnJnR0pqa2JPQnlHd2JBNGRnSzRxLUNCMHdvVUFZdktIUG4",
-      "time": "2026-04-30 11:31:11"
-    },
-    {
-      "title": "張嘉郡 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeVBKZDJ5OWFQVWlDWm5meXgzWG1ScHdwX1cwWlMxMnBZNmVibU85ZUhGMFpOaFA0YkZEN2NNZ1Rmb3dMRVZaVVFqWEl3ZWFSTzBGVnZVVEVfNE1WaGxvU0dENFljMXlfUEc1Q0d6LWx3Nnl1LU5Td3UwTzlUaDh4T3Q1a3M",
-      "time": "2026-04-30 11:23:50"
-    },
-    {
-      "title": "團結前行，院長加油！！！ 韓國瑜 院長，您辛苦了。 院長一路公正主持會議讓國會能順利運作，大家都有目共睹！ - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc3RQQUVkOTc0MEJDTmJvRHU5aDcxWHZmZDZzdDc3Y2R4cUFvY1F1VHktck5mRm91UGd4MWJoamlPQ19KaV9NYU1BVU1TUjQ0MDA3OHhrRDQ3QzByS0g5VUdoSDBjWVhpWWhkenFZQ3pYdjVQb05laVBVVlVjelBzWTkyeFRlWVJHTC01NTNB",
-      "time": "2026-04-30 10:32:09"
     }
   ],
   "latest_news_20": [
+    {
+      "title": "張嘉郡留心！劉建國領軍搶回雲林「綠營第二波徵召名單曝光」 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPMXNRVW9lYk4xdElXd1E5UzdrX2JYclZOZ1ZJYVRKNmU1bkVNVFJuUjd0UGJMR0l4N1V1MFE3RkVCSmR6c3NQZWw0VElVMVRYWEtlU09Qb1AxY2JiVkh3UUNQRTlvTmdxVTctMHpyY01hem9vV1pfS0puazl6X1FhZXBwQUxyTG1UeHc5UC01X1JwWjRFVURVOUVqVVJZR1IzNzlwWVlwRVJPdXNwOWhmOFc1SGVEakRfekJMYmpibURYa2ZqLTJJdFpocl9hbnVrVC1UNjFYc3I0RzlGanJsdU9PLV96VmpzbjFyWnFsY0FxeWxKRlJZSVBzQkNaWk1EaFpibjc1NFNFMlNKYlZpNEhBemRXS0RaRVd1UzlaLUxWczVaT21kNmU2a0UwQXdvRjc1NW0wUDM4dmRvUWhKdS1FUXBZcWFRNjliSkNNT2IwN2ZFZXpvRElfeEEyS2xOR2JCcTYyOGtpY2xyaTJvcXdYZlNxVVBCRVlUVnVVaU9PZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-09 12:42:51"
+    },
+    {
+      "title": "獨家專訪｜張嘉郡挑戰雲林縣長盼撕「標籤」 以「200%努力」叫陣17年資深老將 - 壹蘋新聞網",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtdnJFMEVZZ2NZVkdDTTF4V2gta01aLXZ0SEpYN3UzMVlQLXRTXzdhQUdONnNiYy1GaVJodnhEOWVwS3JselRqZndzMTdlcmU1NDZvYkM5SndSeUdPNkJJUjM3bzM3M0JwVXF0NzZYUl84dlZLX0MweHVZSzVGb1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-09 09:00:00"
+    },
     {
       "title": "張嘉郡爭取2.39億元防洪經費 提升莿桐、西螺等治水韌性 - 臺灣導報",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IclRDU2RNWlFsMkRyVGhrczNGak12elJtcktvdjFkVWJlb0ZIVVlpVWprSFhYQ3Z6My1RdXZlZl91UjFxbWYzdjlyWDBoSmVMYl9r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -564,21 +648,21 @@
       "title": "美國花生要來了！張嘉郡警告「稻米恐淪陷」 農業部嚴正澄清 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQNmJYeWJSeFNmZVFocTJVV3h5aF8wX3FfdE5jb3RHUTk1UW4wWFViWkZyX2lrMDJnQ3FfQ0NMLUJKLVZTeWJKU0RieE1QZUpOaUh6WnRQVjV5MVdDcVJVb2Y3LUxmRjd5NEJFTDItRTFaMGNUTjdvOXVWaVY0RmZodXQ4MjVYQ2tUT2V3RWRHaTRWTlVGSHlmM1J1eXA0cUlaY216Q29oY0tfb2NMWW5vQmExdVZQZnZVMTNuSDgxSXp3eGR6cC0xdWltZV9uLUQtUkdVaVFhMTFGaXlEb1hKWTVsMVMzc01pUkdfSzdnUmo5aHl1bFZWX25GR2ZMcUd1WldkRG1IVmdUMW54UjVMVmx0X2RCWENpcEFfN1Y1Z1A1bnJrb1hPUFNJWWdFbTJyMnJ2Q054Sl9udDJ5am5JaV9lOUF5UzU1bkFHWjVxdXZqMlZOd2hUd2R1ZDBKTlVsY25PYnFES0hLQXBvVnNqYzl2bDFFZm8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-04 21:47:44"
-    },
-    {
-      "title": "張嘉郡稱「下個零關稅恐是稻米」農業部嚴正澄清：配額關稅維持不變 - 三立娛樂星聞",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nVXpwUDQ0bzkzWW8wUDdQNHhHWVdfVjJ5Ql9ZazN1MEhMNjZibU4zQnNUVG9BRDh3VV9uMDZuLVlabHVuSGNRbjRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-04 20:49:45"
-    },
-    {
-      "title": "張嘉郡稱「下個零關稅恐是稻米」農業部嚴正澄清：配額關稅維持不變 - 三立新聞網SETN.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zdzQzdHA3bnZzMk5rajZfdlB0cFU5Wm1VTHRIX2hlOTVMNEZZTEhOX0VJc3BnRmZ0c0JjYnNyeEc4dGxQTngzUVVpazZHU2xJM0h4YXF1U1rSAV9BVV95cUxNdmZwQm1wTWVDd3J6S3RCMzdLcHBLU3NkVUIyQkN5TUhYU3RZVEx3WHBUeXl4X05XaVBnWk53VWFBM0pYMkUyOEpxM2RXeUo4MHJDYkg1bGFvZjNzU0xDMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-04 20:41:00"
     }
   ],
   "person_sections": {
     "張嘉郡": {
       "facebook": [
+        {
+          "title": "張嘉郡留心！ 劉建國領軍搶回雲林 「綠營第二波徵召名單曝光」 - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQV21XSEdfLUtIRkZBZzh2UVkzTE5QZF9neUoybE9VcFF5Q0F4TnZuVFR0SGlDb3U5aF9UUjh5UWV4N1JValhGZGE0aV9EVW1nWl9qUXVqaWFwTmdFSnFfaU9xdDI1elh1SWhRYUs5TExORi1WVUF2TjNrSzV1MVdESEQyMk1zd0x0WWRfRlhkUzdBLWVIZDVCWTF6UDZ6eHBnVk1KbGRnM0Y3UzNCMk5LR3hiZlFMYW9QcWJRUVkzWjk0TjJGT2VzZGdpdmx0eDRLaDhYei1QT2phM2JLbHVGdThlak5oSDR4dU9OR2xiVGxXMVNHeUJVUzJsV1hwcUplR1dTRll1OFJCaUZ5cGpCcnZHMGhHdWZjdHJPV3ktZDVLb0RHZFRfazVVRURGT3o0QjVQTjRHSUhpeVpySDJzNmp0S2Y4a2d5Zm9yVmhTdzdPWmhDOXhGS3M4LWJremV5bUZjaDZDVWNFdnhpSklfUTNTQWhFdEVqazQwRkgyQi1STGNNZzNhT2hEYk5JRGFrd0s0TVdIOA",
+          "time": "2026-05-09 12:15:55"
+        },
+        {
+          "title": "張嘉郡曝母親節孩子暖心舉動 爸爸一句話笑翻全場 @ChinaTimes #SHORTS #張嘉郡 #母親節 #孩子 #暖心 #舉動 #祝福 #卡片 - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxPTksxdWFhaUZIWVZlX2ZLRl9VZEFjYkl5V3BsT294TUY5UWxwRWc0TFVHSEg0LXNKV3RYSi1fa2tJbEVTYWNaWFl5M2M3TzdaRGFIUHNtVk1Fc2dUZ1hIQXpqOFBBYTZyeV9sYUVyT0Q2NmhuVzdmM3llZHlLTnJTQWdwcjlGNzJCeEJBRTF4MmxydVJZTzJQWm43NnZHRmFMWl8zVWlpck1Gc2JkYm1lS2I3ZXR0MnVXdjRYN3RxTXFyQ2Q2T3hHMGFzRFZOME1oZVJLbG5FWmlrV3p2V1p6TEdkcGNRUkpKZHoyRkcwclg1OHhWenRJNlpPNmE1TlhNWXZnZkhUM2p2S2V2TWJ3TXlrVHY5aWtPdkpVTFdNUDNIVG5RNGJrNDN2WmIzSlp6VUthRzhSbUpTdU03eEh4ZTdrMVZfd2phSnNpRUlIM1A1eFY5WVVuQzFmR3h4djZMRWhNSW5BOEV2dW1sMjFTYjFWNTJPZmZSV05faG9IZGlDRW5ydEUzeDNmeVVQNW1BVnE3UUw5VFF4ZGlOTmZBekxXaFRDOGJicVdjY3NtbU5HWC1GTWpIWE9SQ3FTRmt2a19BOFpfbElxY25LbTJ6Q2Z1cFBQUVY5bVRWNHZ3YlY4eGhJM2E1OGJETVY5bTRXbWE2LUx4MmJHMXFfdWZBREFLVk44NkF4WlVYcEc5V1JBUjJpekxIOGpVZE15Z2s5NUY3aTNKcWJnUVlnMnVSZDhhY2Vfa2hJbzBadXFOSzlaMy1RRkstM3hJRDRHUGRHajJCaw",
+          "time": "2026-05-09 11:10:03"
+        },
         {
           "title": "鄭豐喜圖書館盼重建 雲林縣長參選人張嘉郡承諾予以協助 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxOTThRYXpiQmt0cVAzdFJxc1dSNDhDR1lKWmdHTFEtaG1OR0ZlRHhLUDdlanlTZzBTcENwcGwyNzlqYWZwaS1fNWtnTTQzNHN6cDlWSkU3bWtITTd4V0xuRG9xa3hlUmxuUmozcnNIbmJ6Mkt4Y0Z3U3VZZGJjUC1Ib1FfdTNibDR3cEtGS1FoRzdEWGJ1aGpwdHZGZlZUZnFkeDk2bU5nMk9HVFZnY2lyVVJNTVprVGpINTY5VVUzU0pGU3kzbXl1Vzh5QkFiR0JrdXRXNDBlNkhqWFk2akdIeW80WkJVQTRMRGl4d092aVNEbmkzRVhxbWpEZkFvUkVsZ3J3ejBiWHQwV3g5OXFkajRpSWQtdXN2SXdMYjBkaEpLTTJ3Mk9wNGN4LWEzajlYY1hLZHNNaU9LNTUxLU5ZY04wWW5zVndHb0lNS2I2SDFlSFRoRFJEMUl3OFhraWlRZVI0Q1F6WXdzYlBEdzBPNE9ySmw1NmNNbHZoMk5CeGJHZlJnSUpsX1k3U181SDRBQ3NKRElMdU5nN1NkRFE",
@@ -668,19 +752,19 @@
           "title": "AI生成不實廣告氾濫！ 雲林立委張嘉郡呼籲：公平會應建立快速下架機制！ - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxNU0NManVydXp5UHV1VmFCVWtJaktSU3lZOE5jbUhIZjVjaUwyeHJBdExWcm56Zld1blRjODg1Q1dPUFdxUHJ2U2RHZVBmSjAzaENqQ0tNVm11ZW9SZVV4MUNPbXN1TndMbWFDbUFPSmpOVHJWXzJsRzNWWGlqWnIwdEZlM0UyZDFVcTV6eHZULXBlYXl0eU16aWY1ZndnLWNDSDJvblNiQld5UHVLTEFYeElCNEU4blNfTXBsQXl4ZmZhSHNNTE14MlhHaTZaYmVKRi1vZ0ZMcHhlYTNTZVdSWDRCdTlmdG9uS25tamtia19VMG43MDUzcG5PdEYyX2RGUE1sakJYekhISElPbjRwYzJ1SDJYcGZwRi1tdjNOUmlRRUZ6YkMtSjY1OFR3OTFmRnR1bWdwcW5ocW9BRDRUQnN2ZmRueGlPcGY4Zzh4eVBmUlZRczZxUVI2Y2VuVUlPMHZsVEpXTUo1aUlkU2ZlTFhzWlBDVE15ZnJFajJ3LVBIaVI3VEtNY2ZqQWxNN25TMDNjUHJ6Y3RPUWtnS0lpZTBrRnNQU3BBd2RueVZkdjlERnVlSExHT2F6aXR1T2dDTVFUX0xuOEg5VVFtdm9XRg",
           "time": "2026-04-24 00:18:25"
-        },
-        {
-          "title": "國民黨立委張嘉郡質詢稱，網路社群近期AI生成不實廣告愈來愈氾濫，甚至連中研院士、眼科權威都被盜用... 獨家、快訊搶先看！追蹤鏡即時👉 https://www.facebook.com/mirrormedianews - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMipgZBVV95cUxQdzNHM2pqSEdxSTB2ZnJjVTZRdktJb0R1SDl5YlRDZ0FHX0xFeEw2LWptdXd3dy00cXdxd2NneV9LWE10Yks1MHd0eUxURGF4ZHdQWXJhb0huRFFYQUpEcWhUUnpaOW1sTXdzRDVWVnBZRmZxcGRiWTdrNHhrS3FnRF9CempsbWNnVE1kTDZVUThDcks0d1dRUXlJeWZBNThkLUlTRHhwaGt2a2x5VUhKUGFhVXhzYnVSMEh5Y0dJOVVjU3ZGRGFyTUgyTHpvcmdoMjA4QkVIMUo2dTdJUjBGQjRTWFNlOWFvMHVsNm5GNmxZUHVkaGV1RG9JcEdJbGZyS2w0MENObTJoSXB4T0JMVV9KZUxpTWZpV3Jnem1acVJJUWFoaXN0dTRheWdGR0NoVUtNS0xOMHprV0J1UnJFWHU5ZEhIdkZaUUw0M3pLbUsyN2kxZTNRLTd4ZTBqRy1fLW5tRDR4RG9aLVZjY0l1UG5RdVNoMXBQN0I5N3M1VllraFdyY3Q5VWJvM3hwNE5UM3g3VmRMUWpEOVhoSVRQa0tpazlDLVZMeFZWS0Z6d19iejkzM0s4MGdUQ1hRR0g1SXZXRkN5TVZJZFozX1liTmprOWc1MklUeHlUT29TZkRhX01qMUhCUXJYS0s3WnpBc0VRYnMyeEc1anpvLXFaeFFTSUR1M1p6M084Mzkya1RDV1JXUVpXaUNPUXBDdTluXzEyczZLS3FERkVEYUo5X1dZMXJ4OHd5RENmNDRrYjNWM2s2Y21KMmgwc3Mxd1dkRmJTN3FMejBod3pEYUVLVkgzbEVNX3UxV1llUlM2TkI5T1lUQ3VlMDB3NzZ3OXJSOWZyQVgzcy1kNjllSVpKcnA3aXJkcjdhQmtPYUk4SE04OVZfSVQ3VjdtQnNnTU5rcUFremlBVEJxNHlhQ1ZHbU96ZXpjX1M2WnZISVdhWk10T2NYTnFQSDV6UGRUQnB1Sm8zSnp4cUJ5WGZrQXdNeHNVOEVUbzRkSEN4b0tyMEZlcDRoSVkwQWtoNFhPMU1jTUVYaWtEeExYUDE3a1BtMGZBTjVXZw",
-          "time": "2026-04-23 19:30:05"
-        },
-        {
-          "title": "張嘉郡 - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWWmJ5MG9hMU5lUFBzelVrQ1QzenhsQU5iWVJzYXh0ZE0tOG03RGJmMUZNQVZDc21tRGlYUU56YzBJaXlsZU9tak1OWmk3VEtQb0pRYzdoVmtFMGRmclhEUXVjeUpsU1cwUXRmQkk5NlN1bXlRQmdkUHhsNA",
-          "time": "2026-04-23 08:46:25"
         }
       ],
       "news": [
+        {
+          "title": "張嘉郡留心！劉建國領軍搶回雲林「綠營第二波徵召名單曝光」 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPMXNRVW9lYk4xdElXd1E5UzdrX2JYclZOZ1ZJYVRKNmU1bkVNVFJuUjd0UGJMR0l4N1V1MFE3RkVCSmR6c3NQZWw0VElVMVRYWEtlU09Qb1AxY2JiVkh3UUNQRTlvTmdxVTctMHpyY01hem9vV1pfS0puazl6X1FhZXBwQUxyTG1UeHc5UC01X1JwWjRFVURVOUVqVVJZR1IzNzlwWVlwRVJPdXNwOWhmOFc1SGVEakRfekJMYmpibURYa2ZqLTJJdFpocl9hbnVrVC1UNjFYc3I0RzlGanJsdU9PLV96VmpzbjFyWnFsY0FxeWxKRlJZSVBzQkNaWk1EaFpibjc1NFNFMlNKYlZpNEhBemRXS0RaRVd1UzlaLUxWczVaT21kNmU2a0UwQXdvRjc1NW0wUDM4dmRvUWhKdS1FUXBZcWFRNjliSkNNT2IwN2ZFZXpvRElfeEEyS2xOR2JCcTYyOGtpY2xyaTJvcXdYZlNxVVBCRVlUVnVVaU9PZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-09 12:42:51"
+        },
+        {
+          "title": "獨家專訪｜張嘉郡挑戰雲林縣長盼撕「標籤」 以「200%努力」叫陣17年資深老將 - 壹蘋新聞網",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtdnJFMEVZZ2NZVkdDTTF4V2gta01aLXZ0SEpYN3UzMVlQLXRTXzdhQUdONnNiYy1GaVJodnhEOWVwS3JselRqZndzMTdlcmU1NDZvYkM5SndSeUdPNkJJUjM3bzM3M0JwVXF0NzZYUl84dlZLX0MweHVZSzVGb1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-09 09:00:00"
+        },
         {
           "title": "張嘉郡爭取2.39億元防洪經費 提升莿桐、西螺等治水韌性 - 臺灣導報",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IclRDU2RNWlFsMkRyVGhrczNGak12elJtcktvdjFkVWJlb0ZIVVlpVWprSFhYQ3Z6My1RdXZlZl91UjFxbWYzdjlyWDBoSmVMYl9r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -770,21 +854,16 @@
           "title": "美國花生零關稅叩關 張嘉郡憂心：下一個可能就是稻米 - 翻爆",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GNF91UlUwdGF5aVlOaXFRVlZVN1V6R055dGJVRVRDZi1FOG14ZzNzSVJpbUNWNnF4c1didU8yakxlMUtVOG1GM0pycGplbjdyam1CbkZYOWl4M090V2RIY1gwWVE2RHN3XzJfYlRJa1RHYVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-04 17:10:17"
-        },
-        {
-          "title": "美國花生零關稅叩關 張嘉郡憂心：下一個可能就是稻米 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOWGZGRVBocWNFZkdtYkpXWjA0MGNrd0x2cHFEbVZDRXJmQ2ZkMS1LXy1jcWRydHhZOXd1cXBuaWQxcFdvcXJnUDB0WGYxRDFzRENQcVlWS1FhcVNhNFJxUzluNUxrSV82c2V2SURrMjlva0MtbUtHZkR6eTZmQjR6clBlZFpXaFc5cUQ3dVpJVUk3cWYybnh1dGhKNkxLNGdPUjVseGExQXBybHhiOTFrUEtiS1NDOEFibkdxbmthMzk0SzJrVVhkUU1YcVhBV1R4eG1iNnZJeFpWaV93VWJUc3hKV0lWOFpsOElNNW42ZjcycnJCcHkzbVRGQ1JuOG80OTF2ajVYejlZUThwLTUwNXp4dXEyVU94YXRqSnRkdTNkdXZTb1lDaURUVW5rcm5UR1M1akJ2U0YzTjNpVzQ5T0xpbDNLS1g5dC1YQ29CZGJLX0R1TTU3UXJiUXUwWFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-04 16:11:32"
-        },
-        {
-          "title": "美國花生零關稅叩關 張嘉郡憂心：下一個可能就是稻米 - 中時新聞網",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaDVFNGtsQ1ZiXzJDc0lERy0wR2t3ZG9veS1RMHRNSFJydFB2Mkd2bFJjVU5SVWhqMVFVRlFrNFNtZ0FHdmdSZTN6ZEs3VUNSWGx3OTd5QnhHcHlNZ1ZRVU1qS0dDRDFRRjVJTk5IOTRGd24yaEtkMWh1eVdEZHJLbTRaTGJZYnFXRE1oZWh2UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-04 16:06:32"
         }
       ]
     },
     "劉建國": {
       "facebook": [
+        {
+          "title": "張嘉郡留心！ 劉建國領軍搶回雲林 「綠營第二波徵召名單曝光」 - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQV21XSEdfLUtIRkZBZzh2UVkzTE5QZF9neUoybE9VcFF5Q0F4TnZuVFR0SGlDb3U5aF9UUjh5UWV4N1JValhGZGE0aV9EVW1nWl9qUXVqaWFwTmdFSnFfaU9xdDI1elh1SWhRYUs5TExORi1WVUF2TjNrSzV1MVdESEQyMk1zd0x0WWRfRlhkUzdBLWVIZDVCWTF6UDZ6eHBnVk1KbGRnM0Y3UzNCMk5LR3hiZlFMYW9QcWJRUVkzWjk0TjJGT2VzZGdpdmx0eDRLaDhYei1QT2phM2JLbHVGdThlak5oSDR4dU9OR2xiVGxXMVNHeUJVUzJsV1hwcUplR1dTRll1OFJCaUZ5cGpCcnZHMGhHdWZjdHJPV3ktZDVLb0RHZFRfazVVRURGT3o0QjVQTjRHSUhpeVpySDJzNmp0S2Y4a2d5Zm9yVmhTdzdPWmhDOXhGS3M4LWJremV5bUZjaDZDVWNFdnhpSklfUTNTQWhFdEVqazQwRkgyQi1STGNNZzNhT2hEYk5JRGFrd0s0TVdIOA",
+          "time": "2026-05-09 12:15:55"
+        },
         {
           "title": "劉建國 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmODhJamJGaEE1QUdfaFU3eDNyWXdDMmstcEdicUFRMlZGYlFQWWc3WDd2dEp5UHRVVGQwbHBVY09EV2syazRZWWRnOWlXT1ZLbk94TmNuSE1kQXNmYW9fTVJ5cjF1RWxKZ0NZZHlMRzZsSzRtMzJYN2gyOA",
@@ -879,14 +958,14 @@
           "title": "劉建國 - Facebook",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRRW1VS0Fjd1RUUWxfRGJOVVBTNXp6SVhqd2RLZ1dzUG5LLXVsMC1WLWEyUEZoUGdWdnBLcW5FU0stdWxUOGttUXdTSVFRcGNPM0VvQTkzSXpLRmVjSTduekJYVGV3U3lHOVZuLW94SW1XWXBaSWdpcUVUZw",
           "time": "2026-04-21 14:13:22"
-        },
-        {
-          "title": "劉建國 - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZlNLTXRBT1JRbU9YdU9BNElrOUNmT0RuNktjcjZzdVJCX3N5SVo0QWdCczMzNTdPanQzeTZZWnRJclVZZy13SDFkMndLajZaMkduZXV0RGNUWWc5Z29QeVhaazBtNG9JTHd0bGNtZmg1NFJtNGVnUzRzOA",
-          "time": "2026-04-17 17:37:54"
         }
       ],
       "news": [
+        {
+          "title": "張嘉郡留心！劉建國領軍搶回雲林「綠營第二波徵召名單曝光」 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPMXNRVW9lYk4xdElXd1E5UzdrX2JYclZOZ1ZJYVRKNmU1bkVNVFJuUjd0UGJMR0l4N1V1MFE3RkVCSmR6c3NQZWw0VElVMVRYWEtlU09Qb1AxY2JiVkh3UUNQRTlvTmdxVTctMHpyY01hem9vV1pfS0puazl6X1FhZXBwQUxyTG1UeHc5UC01X1JwWjRFVURVOUVqVVJZR1IzNzlwWVlwRVJPdXNwOWhmOFc1SGVEakRfekJMYmpibURYa2ZqLTJJdFpocl9hbnVrVC1UNjFYc3I0RzlGanJsdU9PLV96VmpzbjFyWnFsY0FxeWxKRlJZSVBzQkNaWk1EaFpibjc1NFNFMlNKYlZpNEhBemRXS0RaRVd1UzlaLUxWczVaT21kNmU2a0UwQXdvRjc1NW0wUDM4dmRvUWhKdS1FUXBZcWFRNjliSkNNT2IwN2ZFZXpvRElfeEEyS2xOR2JCcTYyOGtpY2xyaTJvcXdYZlNxVVBCRVlUVnVVaU9PZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-09 12:42:51"
+        },
         {
           "title": "關注營造業職災攀升 劉建國要求勞動部強化防治、正視雲林職災問題 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQSUJFOG9Bbk8tcEpxV0lHaWMxSkRfTDROdURucFBLdFEzZlpwcmh1ZnlpYUk4MUs0UWx0Ymx4Z3VrbzRkVzJDRWJlMGY0QUhmZXpPWVRjZ3gtRU9ub21IeXpNcXByQlNSeG9JOEt4NXlrZjloX29CVG4tVklSZ0JRMnNWM1VRc3hmS1cxNlZVcEt4ZXY0ZV9RRHpQVVlXcEhJMG03cDZXRks5TW9HdTRIX3JvV29GUDlIRW1qWHBmZTgzdzJrLTNLcFlFQ29waFZfbG5JRkpSNE03YmNJWEhXdmxOd3RuNFV5VTRoQUJOYlV5aWxZeWRpN2pJMV9nZmNMZklpN0V6QXlxVkFDWWlrdFMwa3pQLUVxSXFxcW9jS1FPQm5NZzgwTHNuSXk4Wnc4TUdvNDRKLUE3X2FUTFpKUkNpSlFkYkNvdFRlZkF6YXNDODg3TnhKb2t5UHhDUERGeVpYSDhEdTI0dHNHYmFwaml1VkM3R0NNTXoyUDIyZUotdzJrU0FoSDU1bWZsYVI4ZVkzRl9GQ3k0TTM4Y1hvQVZwQTBIeElyaVV0Y2liSVdYdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -981,11 +1060,6 @@
           "title": "劉建國成功催生國家級高齡研究中心落腳雲林 打造健康台灣重要基地 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQWXdXMnNZemVGbHg5YS1NTE0yVHlrekw0cHRfU1J6UmgwdHVGc2owSDBkMjhfRWZvU3dZYkczRU95dHl4N1JrTHJ6NXF2TFFLZFl2UHZjRE5XZVB6Qm96VnFveTVjTG5ZbDZKa19LQVZaa2g2N28ydm43RGdYYlNlVXY0WGZoYVpwTzJ3UFpqbUtGYzBvNm4ySklCZGRiRjJzbmtBcFVfQWNQMWhGNFZJLVl4eWdCTklycG1ya1VLTTF3eWRpVDJqbEVMczBCdmZ6VmVvTlRCT3ROXy1KdjU0QlJnc21oTzlMYUV2ZnJ1M3drdlRmWEtBbFBxTGF1Ny1wMzk0VDhudGZXbkVoZkl0OWRxMnBWYlhJa1lfUjh1S1RWTm5SSlhxRFdsVVg5ckk4dVpSQ3pzQXliaWY0RnhuS0liLVdzRC1yMThFQ2YySzJ0SXdaczI3Y2t6cE5XWTc3bk05aWpZaWZmVi1wWEVBNmMwMDZDLVIzdmZQNkRTZVIzRWxwUkpKVUlmVE85Ri10aDZhTEUxZkw2aUxlZHlQTlk3Sm5RMTB2UDBqUlZWYm5heFI2Rk5DT1Z2bzE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-01 17:03:49"
-        },
-        {
-          "title": "立委劉建國成功催生國家級高齡研究中心落腳雲林 打造健康台灣重要基地 - 蕃新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93VHZLV3VvdXBVbWhIUXNkUUVLRGd4b1d2cUZOcXdZSnBMT0dlMTRaTjQ0R0EwU1BWd0VtdlR6WWZRdzJuOFRJR2U5bkljdmFPdmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-01 17:01:00"
         }
       ]
     }
@@ -993,14 +1067,36 @@
   "latest_by_platform_24h": {
     "facebook": [
       {
-        "title": "今天是 5月8日「世界卵巢癌日」🩵 建國長期與 #台灣癌症基金會 共同關注各種癌症治療與權益保障，因此今天特別響應台癌發出的「#世界卵巢癌日」線上串聯活動。 卵巢癌因為早期不易察覺，需要我們平日更多的關心與警覺，尤其馬上就是母親節了，透過這樣的活動，希 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi-gdBVV95cUxPUDRURkEzQjNaYktETnZYYVJtbTlvNHJUcEZHSFVza1hGZUc3a1VpcktVZUNBNmdaOEZ2OWhVTzd1QlJ2bFVjb2dvX0tReUZ6X3dUUGdLQWpiVW5aOFNBWEtCb29MbW4zZ1FWM2FFWUt2SS1Fa1NGR0JNeDBKbHdBSVBvdXl4UXRQX29CTW5BenFaRzlVclY4NXVxWFIyNWZvODJZQ2d5dUxYRDhMWFp1blRMZXdtejRmelhDY2ZEYWtmU1BhVVhzSmtOMGpnWFhYQ2paZ2dvcU9vVUllQjMzeEZrZlFRcnIyQ1hzeldILWx1U1EyUGZFaThybjNBNEliTjhMVlVuNUE4ZGZ3MzNHUlU3RFBXdzVjSVJFVzE1ZmhEV09kSDZ0UU0wbmx0QWV1LWhWUW5WVklQbm9JS2w4dWtDa05NZV9ScU10YkJwalJyekpHdzZiTjM3djJNRzR2SHVKeHVkbEJ2NzFVaXlRaFowLVZzcEpBQTZSWG54eFN5UnFpMjRLQ2twOXRVYUZadXd1SWRkZjRjQVI2MVowOUJnRy0tQWZzOWlMT19fY3NpeGRXYTdDSHR5V0FLRmVtSXVOR01jbnM2WUI1YkpuNmVMNzFJTWwyYXY3UFVCY2praVJnbFQ3Zk4yMXNlVVV2WnpNOFZmbUxDWndFdVJaM3lHdjRqcEpZNEc4Zjl2cUNEMFRhektpN2thMmpFM0lCb2ljRDE4QUpZY0pTM3BzeXotamFoQWF6LXN5UEd1bXo5ZzBfV3FLbHJUX3h4UVVmZlR3UFpNXzJveHlHd2JIU1NMdXZrZWFjRDVvR1FOTXBKdTd4SXFxU3l6VUNtc1Z3VXRRZHZOdDVkX0dCZ0MteXFyWTRLYTNadjktNTRqLVkzZWlVRDN1SGFmXzRiR2s2S0FxOWpJenUzNk9ob2U2NkFWaUpablRlMG1HNGtRcnUxRHlXLUF1alZOWlZIZkpyOHlCMnBCT0RXNDRUN3V4TndENEk4SzNLTWxod3FzVzVMOUoyMWUzVDhyNmV2RHlXdWZ6cjJ3MjdqYWowelp4TW5vbGtHaEtET2wzT0E3X2lpTlpwYmg1SFY5RFZuaXBDa0RQa1FCQklwN3E4WUtMSG9vTGZwVDh5NzYxTlM5TkdjYlREaGhrOTdYSzd3LXBhV3NITi1nNkswMEVSNnFlMUFhZUdLcXl6dkxxZzZRd1ZLWnJmSjdIaVFNMHVOQnNnZUlpQlpJS2Z2M21pcFlXQUJFLWRoYTU2TlVMcHRVMW1qZ3Rzb2FUOS0wSzYxeVRFSHNTNHlUYjVUV2lhaE9mZlhlM1o1NWxrbTZSZjMyLVFyamhpN1ZKLWFB",
-        "time": "2026-05-08 10:06:02"
+        "title": "立院速記—— 三班護病比入法，三黨都支持，但是卻在表決現場出現「靈異現象」！ 條文中負責審議護病比標準的「諮詢委員會」三黨對於成員組成的看法： ➡️民進黨團提出必須保障護理代表的人數比例為1/3，傾聽護理人員的聲音，也保障病患的權益。 ➡️但國民黨直接 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMiqAhBVV95cUxNYl9uTExBalB1MU5FU1VzaVJvVFhyT1lUdDdoTVpMS0ktam9qbzhyMGh3QTJPeWVlRFdRTFBrbXBBa3hWWFpqcjJycnlmTVlUNzRVd2ZKWktRNUVaODZfU2ZOVGdDQ2ZGLXd6MDRmeTc3WVBnU0VKdXJyTU1IZ3J1cVBhZlo2d2lLNkkzSnMtcjdQYWRQWF8tQmV3MHlySWNBYzlITWF3Rjc0V29iS3o0dGYwMThjLWRkbTlObUwzOXZTa1Jkc2U4WVlIOGpzR1J5SDFMa1UtbmxDd3RrZWR2ZnZPNVlkRm1Dc1pqT2Jlc3U4TEhoc3FCSklFdms3SlIzX05ZanZhVkx6alBrSGlxc3R5UmtBSHBUQU9nMlBNci1xM3V2amp1ZFlDT2tjakRIc0k4X2R3S1hBcjF0TS14Vk5MdkZIWks1MUFnZ1JXWXpCdEpCT2JMSlItNHFycXlQRHNFRnlKSFpKV3VsZHpMTmVKUUR0NTBPS0Q0V2xJLW9KYVUwaXJCVnY2cTBqRWVvaF9VUmNaOWRzMnczOWRpa2lTZDA4S3VjdVN2cjlXWFhicnBib3VFN3hDdHR6TDJDLTFwZjZDOTdQU3ZWRnF3X1ZpanJxQXlQSENka1FCTnFCUnVtR1hlY1VKMzdTRnVVeDJPVDlvMERLVkF0UXhKWmg0Ynd2U3NiYWVlZEtrQVh3NnZIZi0zNXMxOVoxbGgtWlN1WDZQRmktM2ltMEd0UmdCVzBwU2FxdGtQMzNTY1d0ck8xU1BwcFFnZ29ZdTNjWmFCLXFmWFJxeVV2Ymk0aHhzNElHSzBfNmM0dUNwcnJLZUJKN3ZZMG43LU1qVTl0QkZpMWNaVVNCZ1hHWlRCVzE1SWFxTER3eXg3SjV5aVpIREFIY05TUDNNcHA1ellGM05KZlNyS2VWUnNVTUpzbGo1NkgwTDJud2MwOC1zdmV5UUo1Rm1WYzZpLUx2OGNoeDBWRnBJM1pMR0pjcVlEVDctUUFKNUFNWTFPdDhJak9CWTBmRDNOUVNnc0hiOXBjdFhObUpWd3RoSVlLQ0YxV1pwMVFfTmdxMHlYSzJjZGwyT3ZJZDlnVDBkZ0h3b0ZNMUJxTUNVMnRVNmFQelJsbE1oSWRnQVVoZjRsbGc1X1cxV1dBTEV1VllmbHhSbWdjQXk1dTcxWklIVkoydVBUc3I0TWFYUXVESFpsSjBiN2RfVWh3cUJlQno4bVBxOS1tNkNjNHk1bkk2RldhZGpaZUZnNU9sc01LeWVNUGliTFlXb0dKb2pFQThLU1pPU1I0RXFILWxVOFotUHlKWXJGbFJhdzV6NHZ5Sjhfa3ZaMkhHY0xaY3M2TGRTbEtQbS15SkhOa2dDb0VQdl9HTHhuQmdZbHZXdHo5VXBsazZTRTh6UURFMWVfSw",
+        "time": "2026-05-09 12:23:44"
       },
       {
-        "title": "今天是 5月8日「世界卵巢癌日」🩵 建國長期與 #台灣癌症基金會 共同關注各種癌症治療與權益保障，因此今天特別響應台癌發出的「#世界卵巢癌日」線上串聯活動。 卵巢癌因為早期不易察覺，需要我們平日更多的關心與警覺，尤其馬上就是母親節了，透過這樣的活動，希 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdk9KaWQ5d1VRcnBSbG5ITTF3OWFpWF9INXp0cktTdXhvSm9aSVJGZUhmVjgwMmtSR09KRHF2aFUxYVJOb0JFVzQyZnVxVkVNUFB1alFyM2twNmJwNUNodGV1UlotMEtiR2UzOEc4V1VqM0c5SEt6SVBZbnBiQXVvcEdtc0hOMzF1RWRHN3Vn",
-        "time": "2026-05-08 10:05:58"
+        "title": "張嘉郡留心！ 劉建國領軍搶回雲林 「綠營第二波徵召名單曝光」 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQV21XSEdfLUtIRkZBZzh2UVkzTE5QZF9neUoybE9VcFF5Q0F4TnZuVFR0SGlDb3U5aF9UUjh5UWV4N1JValhGZGE0aV9EVW1nWl9qUXVqaWFwTmdFSnFfaU9xdDI1elh1SWhRYUs5TExORi1WVUF2TjNrSzV1MVdESEQyMk1zd0x0WWRfRlhkUzdBLWVIZDVCWTF6UDZ6eHBnVk1KbGRnM0Y3UzNCMk5LR3hiZlFMYW9QcWJRUVkzWjk0TjJGT2VzZGdpdmx0eDRLaDhYei1QT2phM2JLbHVGdThlak5oSDR4dU9OR2xiVGxXMVNHeUJVUzJsV1hwcUplR1dTRll1OFJCaUZ5cGpCcnZHMGhHdWZjdHJPV3ktZDVLb0RHZFRfazVVRURGT3o0QjVQTjRHSUhpeVpySDJzNmp0S2Y4a2d5Zm9yVmhTdzdPWmhDOXhGS3M4LWJremV5bUZjaDZDVWNFdnhpSklfUTNTQWhFdEVqazQwRkgyQi1STGNNZzNhT2hEYk5JRGFrd0s0TVdIOA",
+        "time": "2026-05-09 12:15:55"
+      },
+      {
+        "title": "張嘉郡曝母親節孩子暖心舉動 爸爸一句話笑翻全場 @ChinaTimes #SHORTS #張嘉郡 #母親節 #孩子 #暖心 #舉動 #祝福 #卡片 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxPTksxdWFhaUZIWVZlX2ZLRl9VZEFjYkl5V3BsT294TUY5UWxwRWc0TFVHSEg0LXNKV3RYSi1fa2tJbEVTYWNaWFl5M2M3TzdaRGFIUHNtVk1Fc2dUZ1hIQXpqOFBBYTZyeV9sYUVyT0Q2NmhuVzdmM3llZHlLTnJTQWdwcjlGNzJCeEJBRTF4MmxydVJZTzJQWm43NnZHRmFMWl8zVWlpck1Gc2JkYm1lS2I3ZXR0MnVXdjRYN3RxTXFyQ2Q2T3hHMGFzRFZOME1oZVJLbG5FWmlrV3p2V1p6TEdkcGNRUkpKZHoyRkcwclg1OHhWenRJNlpPNmE1TlhNWXZnZkhUM2p2S2V2TWJ3TXlrVHY5aWtPdkpVTFdNUDNIVG5RNGJrNDN2WmIzSlp6VUthRzhSbUpTdU03eEh4ZTdrMVZfd2phSnNpRUlIM1A1eFY5WVVuQzFmR3h4djZMRWhNSW5BOEV2dW1sMjFTYjFWNTJPZmZSV05faG9IZGlDRW5ydEUzeDNmeVVQNW1BVnE3UUw5VFF4ZGlOTmZBekxXaFRDOGJicVdjY3NtbU5HWC1GTWpIWE9SQ3FTRmt2a19BOFpfbElxY25LbTJ6Q2Z1cFBQUVY5bVRWNHZ3YlY4eGhJM2E1OGJETVY5bTRXbWE2LUx4MmJHMXFfdWZBREFLVk44NkF4WlVYcEc5V1JBUjJpekxIOGpVZE15Z2s5NUY3aTNKcWJnUVlnMnVSZDhhY2Vfa2hJbzBadXFOSzlaMy1RRkstM3hJRDRHUGRHajJCaw",
+        "time": "2026-05-09 11:10:03"
+      }
+    ],
+    "news": [
+      {
+        "title": "張嘉郡留心！劉建國領軍搶回雲林「綠營第二波徵召名單曝光」 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPMXNRVW9lYk4xdElXd1E5UzdrX2JYclZOZ1ZJYVRKNmU1bkVNVFJuUjd0UGJMR0l4N1V1MFE3RkVCSmR6c3NQZWw0VElVMVRYWEtlU09Qb1AxY2JiVkh3UUNQRTlvTmdxVTctMHpyY01hem9vV1pfS0puazl6X1FhZXBwQUxyTG1UeHc5UC01X1JwWjRFVURVOUVqVVJZR1IzNzlwWVlwRVJPdXNwOWhmOFc1SGVEakRfekJMYmpibURYa2ZqLTJJdFpocl9hbnVrVC1UNjFYc3I0RzlGanJsdU9PLV96VmpzbjFyWnFsY0FxeWxKRlJZSVBzQkNaWk1EaFpibjc1NFNFMlNKYlZpNEhBemRXS0RaRVd1UzlaLUxWczVaT21kNmU2a0UwQXdvRjc1NW0wUDM4dmRvUWhKdS1FUXBZcWFRNjliSkNNT2IwN2ZFZXpvRElfeEEyS2xOR2JCcTYyOGtpY2xyaTJvcXdYZlNxVVBCRVlUVnVVaU9PZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-09 12:42:51"
+      },
+      {
+        "title": "獨家專訪｜張嘉郡挑戰雲林縣長盼撕「標籤」 以「200%努力」叫陣17年資深老將 - 壹蘋新聞網",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtdnJFMEVZZ2NZVkdDTTF4V2gta01aLXZ0SEpYN3UzMVlQLXRTXzdhQUdONnNiYy1GaVJodnhEOWVwS3JselRqZndzMTdlcmU1NDZvYkM5SndSeUdPNkJJUjM3bzM3M0JwVXF0NzZYUl84dlZLX0MweHVZSzVGb1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-09 09:00:00"
+      },
+      {
+        "title": "張嘉郡爭取2.39億元防洪經費 提升莿桐、西螺等治水韌性 - 臺灣導報",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IclRDU2RNWlFsMkRyVGhrczNGak12elJtcktvdjFkVWJlb0ZIVVlpVWprSFhYQ3Z6My1RdXZlZl91UjFxbWYzdjlyWDBoSmVMYl9r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-08 19:27:41"
       }
     ],
     "youtube": [
@@ -1014,17 +1110,20 @@
         "url": "https://www.youtube.com/shorts/Yz1yqQeDEvY",
         "time": "2026-05-08 18:30:00"
       }
-    ],
-    "news": [
-      {
-        "title": "張嘉郡爭取2.39億元防洪經費 提升莿桐、西螺等治水韌性 - 臺灣導報",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IclRDU2RNWlFsMkRyVGhrczNGak12elJtcktvdjFkVWJlb0ZIVVlpVWprSFhYQ3Z6My1RdXZlZl91UjFxbWYzdjlyWDBoSmVMYl9r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-08 19:27:41"
-      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "張嘉郡留心！劉建國領軍搶回雲林「綠營第二波徵召名單曝光」 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPMXNRVW9lYk4xdElXd1E5UzdrX2JYclZOZ1ZJYVRKNmU1bkVNVFJuUjd0UGJMR0l4N1V1MFE3RkVCSmR6c3NQZWw0VElVMVRYWEtlU09Qb1AxY2JiVkh3UUNQRTlvTmdxVTctMHpyY01hem9vV1pfS0puazl6X1FhZXBwQUxyTG1UeHc5UC01X1JwWjRFVURVOUVqVVJZR1IzNzlwWVlwRVJPdXNwOWhmOFc1SGVEakRfekJMYmpibURYa2ZqLTJJdFpocl9hbnVrVC1UNjFYc3I0RzlGanJsdU9PLV96VmpzbjFyWnFsY0FxeWxKRlJZSVBzQkNaWk1EaFpibjc1NFNFMlNKYlZpNEhBemRXS0RaRVd1UzlaLUxWczVaT21kNmU2a0UwQXdvRjc1NW0wUDM4dmRvUWhKdS1FUXBZcWFRNjliSkNNT2IwN2ZFZXpvRElfeEEyS2xOR2JCcTYyOGtpY2xyaTJvcXdYZlNxVVBCRVlUVnVVaU9PZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-09 12:42:51"
+      },
+      {
+        "title": "獨家專訪｜張嘉郡挑戰雲林縣長盼撕「標籤」 以「200%努力」叫陣17年資深老將 - 壹蘋新聞網",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtdnJFMEVZZ2NZVkdDTTF4V2gta01aLXZ0SEpYN3UzMVlQLXRTXzdhQUdONnNiYy1GaVJodnhEOWVwS3JselRqZndzMTdlcmU1NDZvYkM5SndSeUdPNkJJUjM3bzM3M0JwVXF0NzZYUl84dlZLX0MweHVZSzVGb1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-09 09:00:00"
+      },
       {
         "title": "張嘉郡爭取2.39億元防洪經費 提升莿桐、西螺等治水韌性 - 臺灣導報",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IclRDU2RNWlFsMkRyVGhrczNGak12elJtcktvdjFkVWJlb0ZIVVlpVWprSFhYQ3Z6My1RdXZlZl91UjFxbWYzdjlyWDBoSmVMYl9r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1199,16 +1298,6 @@
         "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPY2VLQ3lGNG1YMjI4dEhvazZrUEZoSkszR0lZWGZpNEd2bUd0RGJhYWQ4QndDTUQyRjd0d2FGQ3paTFJ6M3ZST3ZGVWdyRHZBTUo1NHc1RmthWmNqYTI3WExTcTJqMk1zM0VaYkdBM05ZTjFSYzZJSG9UYW04VlZKQkhNaXF3RzhORkgzU01IXzgzRmlnOVRCLUthNmhXdWFLbkZWVElhNmpDYzNEa0t1Vl96TFN1WnJodTJhOFdvQmY1RWhoWXNyR2lOTi1Zb1BYbU1WZEFLWTVPUmQxZE10ZHJ5UmZuSXlMclZna2M2MFdUQkluQnJtbm1Qc2VJUU55OGpFeFlpRF8yTS1vdVMxbzhiWFpOMjA2QUo5d09BLUhad09TN2luMmNwdVRybWRVNXJXN2tQNjQzOFoyanlDRjBsbTkteFZGMVVOMGNQRzdxRDM2R3kydmdIajdsUzNHaUxBUFg0RTVHS1dIc3I5c1dDaHY3ZXBDaFBjSHotX0VZNDE5X05IRUhxRktxSWpBclk0LUg3S29ldDFsY0YwbDZiQmcwNXZyWlp2OUpBQUlhQnpUaDFoWTRDMXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-02 22:11:00"
-      },
-      {
-        "title": "雲林高齡研究中心啟用 劉建國促成39億重大建設 - 元丰傳媒",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0xBdXlhc3lrX2ZlS0ljUGFMeVBQcUFDZklXN0M3bWxjay1PUVd2SVdkNTVSTzJDWkhHemU4YlpIVmVrbXhING9HSks4ZWlJcU9pLWZNd0JnOGM4VDhlQVplV3R0MDZNQzl2ZENxUmZPYTJxU3hBUnRXSVVqLVV5Uw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-02 06:13:29"
-      },
-      {
-        "title": "全台首座「國家級高齡醫學中心」落腳雲林！賴清德大讚劉建國成關鍵推手 | 民視新聞網 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aV1FoUXpWSGxWcTg4V21QVFFRNDFiWG1nWE1rc3NGTGJ1YmJCVFU1b1N1dVdwYTV3V3NqdDljTlJPRk1fQ3hyMFJudWp5amtmVHNNSXRR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-02 04:18:02"
       }
     ],
     "youtube": [
@@ -1300,6 +1389,21 @@
     ],
     "facebook": [
       {
+        "title": "立院速記—— 三班護病比入法，三黨都支持，但是卻在表決現場出現「靈異現象」！ 條文中負責審議護病比標準的「諮詢委員會」三黨對於成員組成的看法： ➡️民進黨團提出必須保障護理代表的人數比例為1/3，傾聽護理人員的聲音，也保障病患的權益。 ➡️但國民黨直接 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMiqAhBVV95cUxNYl9uTExBalB1MU5FU1VzaVJvVFhyT1lUdDdoTVpMS0ktam9qbzhyMGh3QTJPeWVlRFdRTFBrbXBBa3hWWFpqcjJycnlmTVlUNzRVd2ZKWktRNUVaODZfU2ZOVGdDQ2ZGLXd6MDRmeTc3WVBnU0VKdXJyTU1IZ3J1cVBhZlo2d2lLNkkzSnMtcjdQYWRQWF8tQmV3MHlySWNBYzlITWF3Rjc0V29iS3o0dGYwMThjLWRkbTlObUwzOXZTa1Jkc2U4WVlIOGpzR1J5SDFMa1UtbmxDd3RrZWR2ZnZPNVlkRm1Dc1pqT2Jlc3U4TEhoc3FCSklFdms3SlIzX05ZanZhVkx6alBrSGlxc3R5UmtBSHBUQU9nMlBNci1xM3V2amp1ZFlDT2tjakRIc0k4X2R3S1hBcjF0TS14Vk5MdkZIWks1MUFnZ1JXWXpCdEpCT2JMSlItNHFycXlQRHNFRnlKSFpKV3VsZHpMTmVKUUR0NTBPS0Q0V2xJLW9KYVUwaXJCVnY2cTBqRWVvaF9VUmNaOWRzMnczOWRpa2lTZDA4S3VjdVN2cjlXWFhicnBib3VFN3hDdHR6TDJDLTFwZjZDOTdQU3ZWRnF3X1ZpanJxQXlQSENka1FCTnFCUnVtR1hlY1VKMzdTRnVVeDJPVDlvMERLVkF0UXhKWmg0Ynd2U3NiYWVlZEtrQVh3NnZIZi0zNXMxOVoxbGgtWlN1WDZQRmktM2ltMEd0UmdCVzBwU2FxdGtQMzNTY1d0ck8xU1BwcFFnZ29ZdTNjWmFCLXFmWFJxeVV2Ymk0aHhzNElHSzBfNmM0dUNwcnJLZUJKN3ZZMG43LU1qVTl0QkZpMWNaVVNCZ1hHWlRCVzE1SWFxTER3eXg3SjV5aVpIREFIY05TUDNNcHA1ellGM05KZlNyS2VWUnNVTUpzbGo1NkgwTDJud2MwOC1zdmV5UUo1Rm1WYzZpLUx2OGNoeDBWRnBJM1pMR0pjcVlEVDctUUFKNUFNWTFPdDhJak9CWTBmRDNOUVNnc0hiOXBjdFhObUpWd3RoSVlLQ0YxV1pwMVFfTmdxMHlYSzJjZGwyT3ZJZDlnVDBkZ0h3b0ZNMUJxTUNVMnRVNmFQelJsbE1oSWRnQVVoZjRsbGc1X1cxV1dBTEV1VllmbHhSbWdjQXk1dTcxWklIVkoydVBUc3I0TWFYUXVESFpsSjBiN2RfVWh3cUJlQno4bVBxOS1tNkNjNHk1bkk2RldhZGpaZUZnNU9sc01LeWVNUGliTFlXb0dKb2pFQThLU1pPU1I0RXFILWxVOFotUHlKWXJGbFJhdzV6NHZ5Sjhfa3ZaMkhHY0xaY3M2TGRTbEtQbS15SkhOa2dDb0VQdl9HTHhuQmdZbHZXdHo5VXBsazZTRTh6UURFMWVfSw",
+        "time": "2026-05-09 12:23:44"
+      },
+      {
+        "title": "張嘉郡留心！ 劉建國領軍搶回雲林 「綠營第二波徵召名單曝光」 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQV21XSEdfLUtIRkZBZzh2UVkzTE5QZF9neUoybE9VcFF5Q0F4TnZuVFR0SGlDb3U5aF9UUjh5UWV4N1JValhGZGE0aV9EVW1nWl9qUXVqaWFwTmdFSnFfaU9xdDI1elh1SWhRYUs5TExORi1WVUF2TjNrSzV1MVdESEQyMk1zd0x0WWRfRlhkUzdBLWVIZDVCWTF6UDZ6eHBnVk1KbGRnM0Y3UzNCMk5LR3hiZlFMYW9QcWJRUVkzWjk0TjJGT2VzZGdpdmx0eDRLaDhYei1QT2phM2JLbHVGdThlak5oSDR4dU9OR2xiVGxXMVNHeUJVUzJsV1hwcUplR1dTRll1OFJCaUZ5cGpCcnZHMGhHdWZjdHJPV3ktZDVLb0RHZFRfazVVRURGT3o0QjVQTjRHSUhpeVpySDJzNmp0S2Y4a2d5Zm9yVmhTdzdPWmhDOXhGS3M4LWJremV5bUZjaDZDVWNFdnhpSklfUTNTQWhFdEVqazQwRkgyQi1STGNNZzNhT2hEYk5JRGFrd0s0TVdIOA",
+        "time": "2026-05-09 12:15:55"
+      },
+      {
+        "title": "張嘉郡曝母親節孩子暖心舉動 爸爸一句話笑翻全場 @ChinaTimes #SHORTS #張嘉郡 #母親節 #孩子 #暖心 #舉動 #祝福 #卡片 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxPTksxdWFhaUZIWVZlX2ZLRl9VZEFjYkl5V3BsT294TUY5UWxwRWc0TFVHSEg0LXNKV3RYSi1fa2tJbEVTYWNaWFl5M2M3TzdaRGFIUHNtVk1Fc2dUZ1hIQXpqOFBBYTZyeV9sYUVyT0Q2NmhuVzdmM3llZHlLTnJTQWdwcjlGNzJCeEJBRTF4MmxydVJZTzJQWm43NnZHRmFMWl8zVWlpck1Gc2JkYm1lS2I3ZXR0MnVXdjRYN3RxTXFyQ2Q2T3hHMGFzRFZOME1oZVJLbG5FWmlrV3p2V1p6TEdkcGNRUkpKZHoyRkcwclg1OHhWenRJNlpPNmE1TlhNWXZnZkhUM2p2S2V2TWJ3TXlrVHY5aWtPdkpVTFdNUDNIVG5RNGJrNDN2WmIzSlp6VUthRzhSbUpTdU03eEh4ZTdrMVZfd2phSnNpRUlIM1A1eFY5WVVuQzFmR3h4djZMRWhNSW5BOEV2dW1sMjFTYjFWNTJPZmZSV05faG9IZGlDRW5ydEUzeDNmeVVQNW1BVnE3UUw5VFF4ZGlOTmZBekxXaFRDOGJicVdjY3NtbU5HWC1GTWpIWE9SQ3FTRmt2a19BOFpfbElxY25LbTJ6Q2Z1cFBQUVY5bVRWNHZ3YlY4eGhJM2E1OGJETVY5bTRXbWE2LUx4MmJHMXFfdWZBREFLVk44NkF4WlVYcEc5V1JBUjJpekxIOGpVZE15Z2s5NUY3aTNKcWJnUVlnMnVSZDhhY2Vfa2hJbzBadXFOSzlaMy1RRkstM3hJRDRHUGRHajJCaw",
+        "time": "2026-05-09 11:10:03"
+      },
+      {
         "title": "今天是 5月8日「世界卵巢癌日」🩵 建國長期與 #台灣癌症基金會 共同關注各種癌症治療與權益保障，因此今天特別響應台癌發出的「#世界卵巢癌日」線上串聯活動。 卵巢癌因為早期不易察覺，需要我們平日更多的關心與警覺，尤其馬上就是母親節了，透過這樣的活動，希 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi-gdBVV95cUxPUDRURkEzQjNaYktETnZYYVJtbTlvNHJUcEZHSFVza1hGZUc3a1VpcktVZUNBNmdaOEZ2OWhVTzd1QlJ2bFVjb2dvX0tReUZ6X3dUUGdLQWpiVW5aOFNBWEtCb29MbW4zZ1FWM2FFWUt2SS1Fa1NGR0JNeDBKbHdBSVBvdXl4UXRQX29CTW5BenFaRzlVclY4NXVxWFIyNWZvODJZQ2d5dUxYRDhMWFp1blRMZXdtejRmelhDY2ZEYWtmU1BhVVhzSmtOMGpnWFhYQ2paZ2dvcU9vVUllQjMzeEZrZlFRcnIyQ1hzeldILWx1U1EyUGZFaThybjNBNEliTjhMVlVuNUE4ZGZ3MzNHUlU3RFBXdzVjSVJFVzE1ZmhEV09kSDZ0UU0wbmx0QWV1LWhWUW5WVklQbm9JS2w4dWtDa05NZV9ScU10YkJwalJyekpHdzZiTjM3djJNRzR2SHVKeHVkbEJ2NzFVaXlRaFowLVZzcEpBQTZSWG54eFN5UnFpMjRLQ2twOXRVYUZadXd1SWRkZjRjQVI2MVowOUJnRy0tQWZzOWlMT19fY3NpeGRXYTdDSHR5V0FLRmVtSXVOR01jbnM2WUI1YkpuNmVMNzFJTWwyYXY3UFVCY2praVJnbFQ3Zk4yMXNlVVV2WnpNOFZmbUxDWndFdVJaM3lHdjRqcEpZNEc4Zjl2cUNEMFRhektpN2thMmpFM0lCb2ljRDE4QUpZY0pTM3BzeXotamFoQWF6LXN5UEd1bXo5ZzBfV3FLbHJUX3h4UVVmZlR3UFpNXzJveHlHd2JIU1NMdXZrZWFjRDVvR1FOTXBKdTd4SXFxU3l6VUNtc1Z3VXRRZHZOdDVkX0dCZ0MteXFyWTRLYTNadjktNTRqLVkzZWlVRDN1SGFmXzRiR2s2S0FxOWpJenUzNk9ob2U2NkFWaUpablRlMG1HNGtRcnUxRHlXLUF1alZOWlZIZkpyOHlCMnBCT0RXNDRUN3V4TndENEk4SzNLTWxod3FzVzVMOUoyMWUzVDhyNmV2RHlXdWZ6cjJ3MjdqYWowelp4TW5vbGtHaEtET2wzT0E3X2lpTlpwYmg1SFY5RFZuaXBDa0RQa1FCQklwN3E4WUtMSG9vTGZwVDh5NzYxTlM5TkdjYlREaGhrOTdYSzd3LXBhV3NITi1nNkswMEVSNnFlMUFhZUdLcXl6dkxxZzZRd1ZLWnJmSjdIaVFNMHVOQnNnZUlpQlpJS2Z2M21pcFlXQUJFLWRoYTU2TlVMcHRVMW1qZ3Rzb2FUOS0wSzYxeVRFSHNTNHlUYjVUV2lhaE9mZlhlM1o1NWxrbTZSZjMyLVFyamhpN1ZKLWFB",
         "time": "2026-05-08 10:06:02"
@@ -1356,6 +1460,41 @@
     "hour": [],
     "day": [
       {
+        "title": "張嘉郡留心！劉建國領軍搶回雲林「綠營第二波徵召名單曝光」 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPMXNRVW9lYk4xdElXd1E5UzdrX2JYclZOZ1ZJYVRKNmU1bkVNVFJuUjd0UGJMR0l4N1V1MFE3RkVCSmR6c3NQZWw0VElVMVRYWEtlU09Qb1AxY2JiVkh3UUNQRTlvTmdxVTctMHpyY01hem9vV1pfS0puazl6X1FhZXBwQUxyTG1UeHc5UC01X1JwWjRFVURVOUVqVVJZR1IzNzlwWVlwRVJPdXNwOWhmOFc1SGVEakRfekJMYmpibURYa2ZqLTJJdFpocl9hbnVrVC1UNjFYc3I0RzlGanJsdU9PLV96VmpzbjFyWnFsY0FxeWxKRlJZSVBzQkNaWk1EaFpibjc1NFNFMlNKYlZpNEhBemRXS0RaRVd1UzlaLUxWczVaT21kNmU2a0UwQXdvRjc1NW0wUDM4dmRvUWhKdS1FUXBZcWFRNjliSkNNT2IwN2ZFZXpvRElfeEEyS2xOR2JCcTYyOGtpY2xyaTJvcXdYZlNxVVBCRVlUVnVVaU9PZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-09 12:42:51",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "立院速記—— 三班護病比入法，三黨都支持，但是卻在表決現場出現「靈異現象」！ 條文中負責審議護病比標準的「諮詢委員會」三黨對於成員組成的看法： ➡️民進黨團提出必須保障護理代表的人數比例為1/3，傾聽護理人員的聲音，也保障病患的權益。 ➡️但國民黨直接 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMiqAhBVV95cUxNYl9uTExBalB1MU5FU1VzaVJvVFhyT1lUdDdoTVpMS0ktam9qbzhyMGh3QTJPeWVlRFdRTFBrbXBBa3hWWFpqcjJycnlmTVlUNzRVd2ZKWktRNUVaODZfU2ZOVGdDQ2ZGLXd6MDRmeTc3WVBnU0VKdXJyTU1IZ3J1cVBhZlo2d2lLNkkzSnMtcjdQYWRQWF8tQmV3MHlySWNBYzlITWF3Rjc0V29iS3o0dGYwMThjLWRkbTlObUwzOXZTa1Jkc2U4WVlIOGpzR1J5SDFMa1UtbmxDd3RrZWR2ZnZPNVlkRm1Dc1pqT2Jlc3U4TEhoc3FCSklFdms3SlIzX05ZanZhVkx6alBrSGlxc3R5UmtBSHBUQU9nMlBNci1xM3V2amp1ZFlDT2tjakRIc0k4X2R3S1hBcjF0TS14Vk5MdkZIWks1MUFnZ1JXWXpCdEpCT2JMSlItNHFycXlQRHNFRnlKSFpKV3VsZHpMTmVKUUR0NTBPS0Q0V2xJLW9KYVUwaXJCVnY2cTBqRWVvaF9VUmNaOWRzMnczOWRpa2lTZDA4S3VjdVN2cjlXWFhicnBib3VFN3hDdHR6TDJDLTFwZjZDOTdQU3ZWRnF3X1ZpanJxQXlQSENka1FCTnFCUnVtR1hlY1VKMzdTRnVVeDJPVDlvMERLVkF0UXhKWmg0Ynd2U3NiYWVlZEtrQVh3NnZIZi0zNXMxOVoxbGgtWlN1WDZQRmktM2ltMEd0UmdCVzBwU2FxdGtQMzNTY1d0ck8xU1BwcFFnZ29ZdTNjWmFCLXFmWFJxeVV2Ymk0aHhzNElHSzBfNmM0dUNwcnJLZUJKN3ZZMG43LU1qVTl0QkZpMWNaVVNCZ1hHWlRCVzE1SWFxTER3eXg3SjV5aVpIREFIY05TUDNNcHA1ellGM05KZlNyS2VWUnNVTUpzbGo1NkgwTDJud2MwOC1zdmV5UUo1Rm1WYzZpLUx2OGNoeDBWRnBJM1pMR0pjcVlEVDctUUFKNUFNWTFPdDhJak9CWTBmRDNOUVNnc0hiOXBjdFhObUpWd3RoSVlLQ0YxV1pwMVFfTmdxMHlYSzJjZGwyT3ZJZDlnVDBkZ0h3b0ZNMUJxTUNVMnRVNmFQelJsbE1oSWRnQVVoZjRsbGc1X1cxV1dBTEV1VllmbHhSbWdjQXk1dTcxWklIVkoydVBUc3I0TWFYUXVESFpsSjBiN2RfVWh3cUJlQno4bVBxOS1tNkNjNHk1bkk2RldhZGpaZUZnNU9sc01LeWVNUGliTFlXb0dKb2pFQThLU1pPU1I0RXFILWxVOFotUHlKWXJGbFJhdzV6NHZ5Sjhfa3ZaMkhHY0xaY3M2TGRTbEtQbS15SkhOa2dDb0VQdl9HTHhuQmdZbHZXdHo5VXBsazZTRTh6UURFMWVfSw",
+        "time": "2026-05-09 12:23:44",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
+        "title": "張嘉郡留心！ 劉建國領軍搶回雲林 「綠營第二波徵召名單曝光」 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQV21XSEdfLUtIRkZBZzh2UVkzTE5QZF9neUoybE9VcFF5Q0F4TnZuVFR0SGlDb3U5aF9UUjh5UWV4N1JValhGZGE0aV9EVW1nWl9qUXVqaWFwTmdFSnFfaU9xdDI1elh1SWhRYUs5TExORi1WVUF2TjNrSzV1MVdESEQyMk1zd0x0WWRfRlhkUzdBLWVIZDVCWTF6UDZ6eHBnVk1KbGRnM0Y3UzNCMk5LR3hiZlFMYW9QcWJRUVkzWjk0TjJGT2VzZGdpdmx0eDRLaDhYei1QT2phM2JLbHVGdThlak5oSDR4dU9OR2xiVGxXMVNHeUJVUzJsV1hwcUplR1dTRll1OFJCaUZ5cGpCcnZHMGhHdWZjdHJPV3ktZDVLb0RHZFRfazVVRURGT3o0QjVQTjRHSUhpeVpySDJzNmp0S2Y4a2d5Zm9yVmhTdzdPWmhDOXhGS3M4LWJremV5bUZjaDZDVWNFdnhpSklfUTNTQWhFdEVqazQwRkgyQi1STGNNZzNhT2hEYk5JRGFrd0s0TVdIOA",
+        "time": "2026-05-09 12:15:55",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
+        "title": "張嘉郡曝母親節孩子暖心舉動 爸爸一句話笑翻全場 @ChinaTimes #SHORTS #張嘉郡 #母親節 #孩子 #暖心 #舉動 #祝福 #卡片 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxPTksxdWFhaUZIWVZlX2ZLRl9VZEFjYkl5V3BsT294TUY5UWxwRWc0TFVHSEg0LXNKV3RYSi1fa2tJbEVTYWNaWFl5M2M3TzdaRGFIUHNtVk1Fc2dUZ1hIQXpqOFBBYTZyeV9sYUVyT0Q2NmhuVzdmM3llZHlLTnJTQWdwcjlGNzJCeEJBRTF4MmxydVJZTzJQWm43NnZHRmFMWl8zVWlpck1Gc2JkYm1lS2I3ZXR0MnVXdjRYN3RxTXFyQ2Q2T3hHMGFzRFZOME1oZVJLbG5FWmlrV3p2V1p6TEdkcGNRUkpKZHoyRkcwclg1OHhWenRJNlpPNmE1TlhNWXZnZkhUM2p2S2V2TWJ3TXlrVHY5aWtPdkpVTFdNUDNIVG5RNGJrNDN2WmIzSlp6VUthRzhSbUpTdU03eEh4ZTdrMVZfd2phSnNpRUlIM1A1eFY5WVVuQzFmR3h4djZMRWhNSW5BOEV2dW1sMjFTYjFWNTJPZmZSV05faG9IZGlDRW5ydEUzeDNmeVVQNW1BVnE3UUw5VFF4ZGlOTmZBekxXaFRDOGJicVdjY3NtbU5HWC1GTWpIWE9SQ3FTRmt2a19BOFpfbElxY25LbTJ6Q2Z1cFBQUVY5bVRWNHZ3YlY4eGhJM2E1OGJETVY5bTRXbWE2LUx4MmJHMXFfdWZBREFLVk44NkF4WlVYcEc5V1JBUjJpekxIOGpVZE15Z2s5NUY3aTNKcWJnUVlnMnVSZDhhY2Vfa2hJbzBadXFOSzlaMy1RRkstM3hJRDRHUGRHajJCaw",
+        "time": "2026-05-09 11:10:03",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
+        "title": "獨家專訪｜張嘉郡挑戰雲林縣長盼撕「標籤」 以「200%努力」叫陣17年資深老將 - 壹蘋新聞網",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtdnJFMEVZZ2NZVkdDTTF4V2gta01aLXZ0SEpYN3UzMVlQLXRTXzdhQUdONnNiYy1GaVJodnhEOWVwS3JselRqZndzMTdlcmU1NDZvYkM5SndSeUdPNkJJUjM3bzM3M0JwVXF0NzZYUl84dlZLX0MweHVZSzVGb1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-09 09:00:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "張嘉郡爭取2.39億元防洪經費 提升莿桐、西螺等治水韌性 - 臺灣導報",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IclRDU2RNWlFsMkRyVGhrczNGak12elJtcktvdjFkVWJlb0ZIVVlpVWprSFhYQ3Z6My1RdXZlZl91UjFxbWYzdjlyWDBoSmVMYl9r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-08 19:27:41",
@@ -1375,25 +1514,16 @@
         "time": "2026-05-08 18:30:00",
         "platform": "youtube",
         "risk": "綠"
-      },
-      {
-        "title": "今天是 5月8日「世界卵巢癌日」🩵 建國長期與 #台灣癌症基金會 共同關注各種癌症治療與權益保障，因此今天特別響應台癌發出的「#世界卵巢癌日」線上串聯活動。 卵巢癌因為早期不易察覺，需要我們平日更多的關心與警覺，尤其馬上就是母親節了，透過這樣的活動，希 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi-gdBVV95cUxPUDRURkEzQjNaYktETnZYYVJtbTlvNHJUcEZHSFVza1hGZUc3a1VpcktVZUNBNmdaOEZ2OWhVTzd1QlJ2bFVjb2dvX0tReUZ6X3dUUGdLQWpiVW5aOFNBWEtCb29MbW4zZ1FWM2FFWUt2SS1Fa1NGR0JNeDBKbHdBSVBvdXl4UXRQX29CTW5BenFaRzlVclY4NXVxWFIyNWZvODJZQ2d5dUxYRDhMWFp1blRMZXdtejRmelhDY2ZEYWtmU1BhVVhzSmtOMGpnWFhYQ2paZ2dvcU9vVUllQjMzeEZrZlFRcnIyQ1hzeldILWx1U1EyUGZFaThybjNBNEliTjhMVlVuNUE4ZGZ3MzNHUlU3RFBXdzVjSVJFVzE1ZmhEV09kSDZ0UU0wbmx0QWV1LWhWUW5WVklQbm9JS2w4dWtDa05NZV9ScU10YkJwalJyekpHdzZiTjM3djJNRzR2SHVKeHVkbEJ2NzFVaXlRaFowLVZzcEpBQTZSWG54eFN5UnFpMjRLQ2twOXRVYUZadXd1SWRkZjRjQVI2MVowOUJnRy0tQWZzOWlMT19fY3NpeGRXYTdDSHR5V0FLRmVtSXVOR01jbnM2WUI1YkpuNmVMNzFJTWwyYXY3UFVCY2praVJnbFQ3Zk4yMXNlVVV2WnpNOFZmbUxDWndFdVJaM3lHdjRqcEpZNEc4Zjl2cUNEMFRhektpN2thMmpFM0lCb2ljRDE4QUpZY0pTM3BzeXotamFoQWF6LXN5UEd1bXo5ZzBfV3FLbHJUX3h4UVVmZlR3UFpNXzJveHlHd2JIU1NMdXZrZWFjRDVvR1FOTXBKdTd4SXFxU3l6VUNtc1Z3VXRRZHZOdDVkX0dCZ0MteXFyWTRLYTNadjktNTRqLVkzZWlVRDN1SGFmXzRiR2s2S0FxOWpJenUzNk9ob2U2NkFWaUpablRlMG1HNGtRcnUxRHlXLUF1alZOWlZIZkpyOHlCMnBCT0RXNDRUN3V4TndENEk4SzNLTWxod3FzVzVMOUoyMWUzVDhyNmV2RHlXdWZ6cjJ3MjdqYWowelp4TW5vbGtHaEtET2wzT0E3X2lpTlpwYmg1SFY5RFZuaXBDa0RQa1FCQklwN3E4WUtMSG9vTGZwVDh5NzYxTlM5TkdjYlREaGhrOTdYSzd3LXBhV3NITi1nNkswMEVSNnFlMUFhZUdLcXl6dkxxZzZRd1ZLWnJmSjdIaVFNMHVOQnNnZUlpQlpJS2Z2M21pcFlXQUJFLWRoYTU2TlVMcHRVMW1qZ3Rzb2FUOS0wSzYxeVRFSHNTNHlUYjVUV2lhaE9mZlhlM1o1NWxrbTZSZjMyLVFyamhpN1ZKLWFB",
-        "time": "2026-05-08 10:06:02",
-        "platform": "facebook",
-        "risk": "綠"
-      },
-      {
-        "title": "今天是 5月8日「世界卵巢癌日」🩵 建國長期與 #台灣癌症基金會 共同關注各種癌症治療與權益保障，因此今天特別響應台癌發出的「#世界卵巢癌日」線上串聯活動。 卵巢癌因為早期不易察覺，需要我們平日更多的關心與警覺，尤其馬上就是母親節了，透過這樣的活動，希 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdk9KaWQ5d1VRcnBSbG5ITTF3OWFpWF9INXp0cktTdXhvSm9aSVJGZUhmVjgwMmtSR09KRHF2aFUxYVJOb0JFVzQyZnVxVkVNUFB1alFyM2twNmJwNUNodGV1UlotMEtiR2UzOEc4V1VqM0c5SEt6SVBZbnBiQXVvcEdtc0hOMzF1RWRHN3Vn",
-        "time": "2026-05-08 10:05:58",
-        "platform": "facebook",
-        "risk": "綠"
       }
     ]
   },
   "regional_groups": {
-    "regions": [],
+    "regions": [
+      {
+        "name": "雲林",
+        "count": 3
+      }
+    ],
     "groups": []
   }
 }
