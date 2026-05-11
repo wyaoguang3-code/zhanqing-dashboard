@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-11T12:50:58.733374+00:00",
+  "generated_at": "2026-05-11T13:06:06.339073+00:00",
   "metrics": {
-    "total_24h": 22,
+    "total_24h": 26,
     "prev_24h": 4,
-    "growth_pct": 450.0,
-    "news_24h": 20,
+    "growth_pct": 550.0,
+    "news_24h": 23,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 78,
-    "prev": 195,
-    "growth_pct": -60.0,
-    "news": 46,
+    "total": 82,
+    "prev": 194,
+    "growth_pct": -57.73,
+    "news": 49,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,17 +28,21 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 20
+      "count": 23
     },
     {
       "platform": "youtube",
       "count": 2
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 46
+      "count": 49
     },
     {
       "platform": "youtube",
@@ -46,7 +50,7 @@
     },
     {
       "platform": "facebook",
-      "count": 14
+      "count": 15
     }
   ],
   "by_hour": [
@@ -68,7 +72,7 @@
     },
     {
       "hour": "2026-05-11 15:00",
-      "count": 5
+      "count": 6
     },
     {
       "hour": "2026-05-11 16:00",
@@ -80,11 +84,11 @@
     },
     {
       "hour": "2026-05-11 18:00",
-      "count": 5
+      "count": 6
     },
     {
       "hour": "2026-05-11 19:00",
-      "count": 1
+      "count": 3
     }
   ],
   "by_hour_7d": [
@@ -234,7 +238,7 @@
     },
     {
       "hour": "2026-05-11 15:00",
-      "count": 5
+      "count": 6
     },
     {
       "hour": "2026-05-11 16:00",
@@ -246,17 +250,21 @@
     },
     {
       "hour": "2026-05-11 18:00",
-      "count": 5
+      "count": 6
     },
     {
       "hour": "2026-05-11 19:00",
-      "count": 1
+      "count": 3
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 20
+      "count": 23
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     },
     {
       "platform": "youtube",
@@ -264,7 +272,19 @@
     }
   ],
   "mention_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "醫美偷拍風暴擴大！ 劉建國怒轟衛福部慢半拍 「全國稽查刻不容緩」 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQcTlTRl80UlFRbGVEUVZGWXNIcWxQMWhTY3BSU1BGSFh6M1pfZ2FVbXAtZnZMcVlwMW5MNFVEMkdPMHB3Qlg3aUI3TmdPU3FFd2JNdlBpamxLVE8tZjdHSE1GTFFtc1hSdmQ3YWFPOTlHTzVVYlVFcC1kSU02VXJqMUJoOVVpTWJSLWhXb0JRYVlaM21GWFh2QjV6TS16RWdzaHlkOXZfNFFGS2poZU8xV3V2VEl4cy1RV0M3UlFZQkozX2thMWFVVTZ6WldsSWFzRXZnb1drMUhSMTdwRzhrZlZVbEM4RUxoQXowaFNsenpBSTU4OC1oY3lYX2tLTWJLYlhQVWhkSkpLMzkyUDhMcTV4STVIbmo5cmtXTHJIZDJGWDVoQUcxVmNzQno2UVRYZFBrV2FnRzhMWC1VdFJGekZ6VU90MFNTa0U0bGQ5SlRPeVlGVTNIYnNhY3pzMlZobVVoMGZEeVdmVl92WmRGaGVkWGNBMUF6SnlUaXc1Uk1rR1lyWTIwZ1hsQTFrdHdkQ196bHlGTGE2Nk84VzRubU4ycXBiQktVYk1NX3p3SQ",
+        "time": "2026-05-11 19:56:38"
+      }
+    ],
     "news": [
+      {
+        "title": "醫美偷拍風暴擴大！劉建國怒轟衛福部慢半拍「全國稽查刻不容緩」 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNU3UzUnQ4YjRaUGtzM0dWaUtLR1lmdk43ZnpCTVQ2Ti1NWXpzeFVIU2pSSjhaSXJpdHByYmRGdXhVZnFwbkJhOE1jODVkNmlCSTM4SUdyel9SZTM3WWNSUVpRNVgzUS1HVVJoeHFQQ2oxdEdSYXJqQkxXY2oyaC1OOE9SNzZhUjVGWjNWVkVpRmFKLXVrZ2hTZFVrbTMwZzZFN3JUWFJybE9YOTc2RU9ZYng1R19Cc0JicG1tRGZNc1pCOTd1YnNrNk5xSWczWFRTcUh2OHJuWFFmR0xhUWZHbmFZakFBTmhENGQtRzNvWnE5NXFFbmNhZFROZHFyYWkzbzI1NVNHZXJmZDlObkVwdzdFS0hremZSUC1maGdHd1BFWnk1M0YzcW9xc3NOa1FmSExyejNxVTNrSER3Uk41eDFDR0tUSHhZZU5Sc0VYOGZmUFVOVjFhWWJHVXBKdFNmSGEyaUkzaGxTQ1hiMzdMOHVnenpESURnQnd3U3pJekl4ZjRNakdPWjhkTGdUbU9jX3pxNzJBcGpBdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-11 19:53:00"
+      },
       {
         "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPWmd2NTlod1hwd0dTbjhvTDQ2T1kzZUpnV2ZWRHRVbm1CYWp2SnRVenRJdzEzMHBVMVFqOVV1QWxKd19XaWZQQzZBaEU5T3BmQWNNamE3U3hMa1Y5b1BISUhoWFlVVk9LYU1YMExUZ2VCNWN1UVZtM1drNk9jd0lWVDVUMV84SHpzLUhZNmJRT0U1bVlYUHlRSk1Wc290Q2lTM3ZCWnRjMU1GVUxxYkdCb0NlMWs3d1hDZy1lM0s0ajhCeWVybmdhNS05REdKaW1ka05Hay1GcXJRb3Z0a3RpUm5xRTVYZmRwb3Y2WUx3ZWNtdUgyNUh2bFBPaTFYMTlqRmdtbm1ZR0dSMVliTDl0UVhSS1hDRzBnbmo1YlBYNmRhcDh1RlZTMDIzZkZFYWxoSkFzdC04anRtUmEtcDJubnNPandYZ2JZcWMxTTU2ZlU5dmZpQjhDMnV4THUyNmI1VzJvWEl5cENuamVVblczYjl5b3BuTWlJbTc5VG5fakk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -286,6 +306,11 @@
         "time": "2026-05-11 18:10:00"
       },
       {
+        "title": "醫美偷拍案延燒　劉建國要求衛福部啟動全國稽查 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11UXppRlZ6cE9FQ1QzVnlhN0FobThSYk5ib3JSOXlCWnhQaUFPMnY3Q3pzVzg2cjBqQXpfc2p5Q3lKSW5IbXJ1TUlmNVZWemtHQVN2LUN4RjFkYXktNE5aRkdLc2xIUdIBa0FVX3lxTFBsUXFubVJqZmQxT2lVZnlxTXV0eEtneVBGbTRVRWRkZFEwUzlWVV9iUGZub0VGZ3BkdUNuejNCYWVQdWcwblFRNE9ONGY2dDdGUmJ5V3A0M21iTF9uUUZGczI5d0RnWWR3Y3Nv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-11 18:10:00"
+      },
+      {
         "title": "立委丁學忠張嘉郡許宇甄爭取雨水下水道經費 改善北港褒忠淹水問題 - 台灣民眾電子報",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pcVFMWU1ZN3NVZS1QZjA3dHRBY3JZTWVIakl0U2hTbWRBVDJhZVFFMUtwS1Vtanp2TFgtcGhWcTZ5QkVOcm5oRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-11 18:07:31"
@@ -304,6 +329,11 @@
         "title": "張嘉郡拋「斗六興建小巨蛋」引進大型百貨，串聯展演與生活圈 | 夏和宣 | 地方新聞 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFbTVwN0RlVy1zRjNtQllZNGU1bWJ3MVpoVWoydWhzWldVZl9ENzNnYzU4QzhLNm5OYVkwNFVtdzVVeVdsOTRwZTRPd0xudw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-11 15:15:46"
+      },
+      {
+        "title": "雲林縣長之爭張嘉郡拋「孵蛋」政見 劉建國關注職災問題 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQUHNuTEIxb2hJVVN3TElMeW1aQm1aanhURDQ1QTA1X2IwZTdRcjVvaVFyU2Uxc1JZeXNBOTIwejc4d1p3R2N0ZF9JLS1Ma1FKLXQ2cDRSZ0RHbXl3OTBKWC15X2xxQ21wNjZ2dnVaSFFnVzdRb0dyNGtqUkZWcVpVZHdWUjlhc0FUM2pBd25wRTM1bmhIbk5OYnhyWFF4QmhrRHFEYUl1LUNOQUV5Qmtka3o2ZldTbWlBbUNub19IM3JZcGpfMWhlR3RTb3hCRlpCamFjM0ZDc0hucVE5OW5lZDM0c3dKV1ZubEc4TzF4WWxrT21JSTNTaVNaQ0JnQjB3cjZGOVQ1M3VTU25XM1ZOdFNRX3lKOFgwbUtoN2UxVnpDY1hxR2Q1OW9RTFJxSklMV2ZuSmNYblRmZENrWWFFM3F4NWNaTHFlUEFOSkxaUGI4bjJyR2ltTkRUb0FzMEplUnNNR0J2N2hTb1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-11 15:14:07"
       },
       {
         "title": "宣布當選推蓋「雲林小巨蛋」 張嘉郡：6核心定位推動城市發展升級| 政治焦點 - 太報 TaiSounds",
@@ -377,7 +407,11 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 20
+      "count": 23
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     },
     {
       "platform": "youtube",
@@ -385,7 +419,19 @@
     }
   ],
   "alias_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "醫美偷拍風暴擴大！ 劉建國怒轟衛福部慢半拍 「全國稽查刻不容緩」 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQcTlTRl80UlFRbGVEUVZGWXNIcWxQMWhTY3BSU1BGSFh6M1pfZ2FVbXAtZnZMcVlwMW5MNFVEMkdPMHB3Qlg3aUI3TmdPU3FFd2JNdlBpamxLVE8tZjdHSE1GTFFtc1hSdmQ3YWFPOTlHTzVVYlVFcC1kSU02VXJqMUJoOVVpTWJSLWhXb0JRYVlaM21GWFh2QjV6TS16RWdzaHlkOXZfNFFGS2poZU8xV3V2VEl4cy1RV0M3UlFZQkozX2thMWFVVTZ6WldsSWFzRXZnb1drMUhSMTdwRzhrZlZVbEM4RUxoQXowaFNsenpBSTU4OC1oY3lYX2tLTWJLYlhQVWhkSkpLMzkyUDhMcTV4STVIbmo5cmtXTHJIZDJGWDVoQUcxVmNzQno2UVRYZFBrV2FnRzhMWC1VdFJGekZ6VU90MFNTa0U0bGQ5SlRPeVlGVTNIYnNhY3pzMlZobVVoMGZEeVdmVl92WmRGaGVkWGNBMUF6SnlUaXc1Uk1rR1lyWTIwZ1hsQTFrdHdkQ196bHlGTGE2Nk84VzRubU4ycXBiQktVYk1NX3p3SQ",
+        "time": "2026-05-11 19:56:38"
+      }
+    ],
     "news": [
+      {
+        "title": "醫美偷拍風暴擴大！劉建國怒轟衛福部慢半拍「全國稽查刻不容緩」 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNU3UzUnQ4YjRaUGtzM0dWaUtLR1lmdk43ZnpCTVQ2Ti1NWXpzeFVIU2pSSjhaSXJpdHByYmRGdXhVZnFwbkJhOE1jODVkNmlCSTM4SUdyel9SZTM3WWNSUVpRNVgzUS1HVVJoeHFQQ2oxdEdSYXJqQkxXY2oyaC1OOE9SNzZhUjVGWjNWVkVpRmFKLXVrZ2hTZFVrbTMwZzZFN3JUWFJybE9YOTc2RU9ZYng1R19Cc0JicG1tRGZNc1pCOTd1YnNrNk5xSWczWFRTcUh2OHJuWFFmR0xhUWZHbmFZakFBTmhENGQtRzNvWnE5NXFFbmNhZFROZHFyYWkzbzI1NVNHZXJmZDlObkVwdzdFS0hremZSUC1maGdHd1BFWnk1M0YzcW9xc3NOa1FmSExyejNxVTNrSER3Uk41eDFDR0tUSHhZZU5Sc0VYOGZmUFVOVjFhWWJHVXBKdFNmSGEyaUkzaGxTQ1hiMzdMOHVnenpESURnQnd3U3pJekl4ZjRNakdPWjhkTGdUbU9jX3pxNzJBcGpBdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-11 19:53:00"
+      },
       {
         "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPWmd2NTlod1hwd0dTbjhvTDQ2T1kzZUpnV2ZWRHRVbm1CYWp2SnRVenRJdzEzMHBVMVFqOVV1QWxKd19XaWZQQzZBaEU5T3BmQWNNamE3U3hMa1Y5b1BISUhoWFlVVk9LYU1YMExUZ2VCNWN1UVZtM1drNk9jd0lWVDVUMV84SHpzLUhZNmJRT0U1bVlYUHlRSk1Wc290Q2lTM3ZCWnRjMU1GVUxxYkdCb0NlMWs3d1hDZy1lM0s0ajhCeWVybmdhNS05REdKaW1ka05Hay1GcXJRb3Z0a3RpUm5xRTVYZmRwb3Y2WUx3ZWNtdUgyNUh2bFBPaTFYMTlqRmdtbm1ZR0dSMVliTDl0UVhSS1hDRzBnbmo1YlBYNmRhcDh1RlZTMDIzZkZFYWxoSkFzdC04anRtUmEtcDJubnNPandYZ2JZcWMxTTU2ZlU5dmZpQjhDMnV4THUyNmI1VzJvWEl5cENuamVVblczYjl5b3BuTWlJbTc5VG5fakk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -407,6 +453,11 @@
         "time": "2026-05-11 18:10:00"
       },
       {
+        "title": "醫美偷拍案延燒　劉建國要求衛福部啟動全國稽查 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11UXppRlZ6cE9FQ1QzVnlhN0FobThSYk5ib3JSOXlCWnhQaUFPMnY3Q3pzVzg2cjBqQXpfc2p5Q3lKSW5IbXJ1TUlmNVZWemtHQVN2LUN4RjFkYXktNE5aRkdLc2xIUdIBa0FVX3lxTFBsUXFubVJqZmQxT2lVZnlxTXV0eEtneVBGbTRVRWRkZFEwUzlWVV9iUGZub0VGZ3BkdUNuejNCYWVQdWcwblFRNE9ONGY2dDdGUmJ5V3A0M21iTF9uUUZGczI5d0RnWWR3Y3Nv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-11 18:10:00"
+      },
+      {
         "title": "立委丁學忠張嘉郡許宇甄爭取雨水下水道經費 改善北港褒忠淹水問題 - 台灣民眾電子報",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pcVFMWU1ZN3NVZS1QZjA3dHRBY3JZTWVIakl0U2hTbWRBVDJhZVFFMUtwS1Vtanp2TFgtcGhWcTZ5QkVOcm5oRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-11 18:07:31"
@@ -425,6 +476,11 @@
         "title": "張嘉郡拋「斗六興建小巨蛋」引進大型百貨，串聯展演與生活圈 | 夏和宣 | 地方新聞 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFbTVwN0RlVy1zRjNtQllZNGU1bWJ3MVpoVWoydWhzWldVZl9ENzNnYzU4QzhLNm5OYVkwNFVtdzVVeVdsOTRwZTRPd0xudw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-11 15:15:46"
+      },
+      {
+        "title": "雲林縣長之爭張嘉郡拋「孵蛋」政見 劉建國關注職災問題 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQUHNuTEIxb2hJVVN3TElMeW1aQm1aanhURDQ1QTA1X2IwZTdRcjVvaVFyU2Uxc1JZeXNBOTIwejc4d1p3R2N0ZF9JLS1Ma1FKLXQ2cDRSZ0RHbXl3OTBKWC15X2xxQ21wNjZ2dnVaSFFnVzdRb0dyNGtqUkZWcVpVZHdWUjlhc0FUM2pBd25wRTM1bmhIbk5OYnhyWFF4QmhrRHFEYUl1LUNOQUV5Qmtka3o2ZldTbWlBbUNub19IM3JZcGpfMWhlR3RTb3hCRlpCamFjM0ZDc0hucVE5OW5lZDM0c3dKV1ZubEc4TzF4WWxrT21JSTNTaVNaQ0JnQjB3cjZGOVQ1M3VTU25XM1ZOdFNRX3lKOFgwbUtoN2UxVnpDY1hxR2Q1OW9RTFJxSklMV2ZuSmNYblRmZENrWWFFM3F4NWNaTHFlUEFOSkxaUGI4bjJyR2ltTkRUb0FzMEplUnNNR0J2N2hTb1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-11 15:14:07"
       },
       {
         "title": "宣布當選推蓋「雲林小巨蛋」 張嘉郡：6核心定位推動城市發展升級| 政治焦點 - 太報 TaiSounds",
@@ -496,14 +552,19 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 17,
-    "劉建國": 8
+    "張嘉郡": 18,
+    "劉建國": 12
   },
   "mention_compare_7d": {
-    "張嘉郡": 52,
-    "劉建國": 16
+    "張嘉郡": 53,
+    "劉建國": 20
   },
   "top_news": [
+    {
+      "title": "醫美偷拍風暴擴大！劉建國怒轟衛福部慢半拍「全國稽查刻不容緩」 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNU3UzUnQ4YjRaUGtzM0dWaUtLR1lmdk43ZnpCTVQ2Ti1NWXpzeFVIU2pSSjhaSXJpdHByYmRGdXhVZnFwbkJhOE1jODVkNmlCSTM4SUdyel9SZTM3WWNSUVpRNVgzUS1HVVJoeHFQQ2oxdEdSYXJqQkxXY2oyaC1OOE9SNzZhUjVGWjNWVkVpRmFKLXVrZ2hTZFVrbTMwZzZFN3JUWFJybE9YOTc2RU9ZYng1R19Cc0JicG1tRGZNc1pCOTd1YnNrNk5xSWczWFRTcUh2OHJuWFFmR0xhUWZHbmFZakFBTmhENGQtRzNvWnE5NXFFbmNhZFROZHFyYWkzbzI1NVNHZXJmZDlObkVwdzdFS0hremZSUC1maGdHd1BFWnk1M0YzcW9xc3NOa1FmSExyejNxVTNrSER3Uk41eDFDR0tUSHhZZU5Sc0VYOGZmUFVOVjFhWWJHVXBKdFNmSGEyaUkzaGxTQ1hiMzdMOHVnenpESURnQnd3U3pJekl4ZjRNakdPWjhkTGdUbU9jX3pxNzJBcGpBdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-11 19:53:00"
+    },
     {
       "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPWmd2NTlod1hwd0dTbjhvTDQ2T1kzZUpnV2ZWRHRVbm1CYWp2SnRVenRJdzEzMHBVMVFqOVV1QWxKd19XaWZQQzZBaEU5T3BmQWNNamE3U3hMa1Y5b1BISUhoWFlVVk9LYU1YMExUZ2VCNWN1UVZtM1drNk9jd0lWVDVUMV84SHpzLUhZNmJRT0U1bVlYUHlRSk1Wc290Q2lTM3ZCWnRjMU1GVUxxYkdCb0NlMWs3d1hDZy1lM0s0ajhCeWVybmdhNS05REdKaW1ka05Hay1GcXJRb3Z0a3RpUm5xRTVYZmRwb3Y2WUx3ZWNtdUgyNUh2bFBPaTFYMTlqRmdtbm1ZR0dSMVliTDl0UVhSS1hDRzBnbmo1YlBYNmRhcDh1RlZTMDIzZkZFYWxoSkFzdC04anRtUmEtcDJubnNPandYZ2JZcWMxTTU2ZlU5dmZpQjhDMnV4THUyNmI1VzJvWEl5cENuamVVblczYjl5b3BuTWlJbTc5VG5fakk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -525,6 +586,11 @@
       "time": "2026-05-11 18:10:00"
     },
     {
+      "title": "醫美偷拍案延燒　劉建國要求衛福部啟動全國稽查 - 鏡週刊Mirror Media",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11UXppRlZ6cE9FQ1QzVnlhN0FobThSYk5ib3JSOXlCWnhQaUFPMnY3Q3pzVzg2cjBqQXpfc2p5Q3lKSW5IbXJ1TUlmNVZWemtHQVN2LUN4RjFkYXktNE5aRkdLc2xIUdIBa0FVX3lxTFBsUXFubVJqZmQxT2lVZnlxTXV0eEtneVBGbTRVRWRkZFEwUzlWVV9iUGZub0VGZ3BkdUNuejNCYWVQdWcwblFRNE9ONGY2dDdGUmJ5V3A0M21iTF9uUUZGczI5d0RnWWR3Y3Nv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-11 18:10:00"
+    },
+    {
       "title": "立委丁學忠張嘉郡許宇甄爭取雨水下水道經費 改善北港褒忠淹水問題 - 台灣民眾電子報",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pcVFMWU1ZN3NVZS1QZjA3dHRBY3JZTWVIakl0U2hTbWRBVDJhZVFFMUtwS1Vtanp2TFgtcGhWcTZ5QkVOcm5oRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-11 18:07:31"
@@ -543,29 +609,24 @@
       "title": "張嘉郡拋「斗六興建小巨蛋」引進大型百貨，串聯展演與生活圈 | 夏和宣 | 地方新聞 - 風傳媒",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFbTVwN0RlVy1zRjNtQllZNGU1bWJ3MVpoVWoydWhzWldVZl9ENzNnYzU4QzhLNm5OYVkwNFVtdzVVeVdsOTRwZTRPd0xudw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-11 15:15:46"
+    },
+    {
+      "title": "雲林縣長之爭張嘉郡拋「孵蛋」政見 劉建國關注職災問題 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQUHNuTEIxb2hJVVN3TElMeW1aQm1aanhURDQ1QTA1X2IwZTdRcjVvaVFyU2Uxc1JZeXNBOTIwejc4d1p3R2N0ZF9JLS1Ma1FKLXQ2cDRSZ0RHbXl3OTBKWC15X2xxQ21wNjZ2dnVaSFFnVzdRb0dyNGtqUkZWcVpVZHdWUjlhc0FUM2pBd25wRTM1bmhIbk5OYnhyWFF4QmhrRHFEYUl1LUNOQUV5Qmtka3o2ZldTbWlBbUNub19IM3JZcGpfMWhlR3RTb3hCRlpCamFjM0ZDc0hucVE5OW5lZDM0c3dKV1ZubEc4TzF4WWxrT21JSTNTaVNaQ0JnQjB3cjZGOVQ1M3VTU25XM1ZOdFNRX3lKOFgwbUtoN2UxVnpDY1hxR2Q1OW9RTFJxSklMV2ZuSmNYblRmZENrWWFFM3F4NWNaTHFlUEFOSkxaUGI4bjJyR2ltTkRUb0FzMEplUnNNR0J2N2hTb1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-11 15:14:07"
     },
     {
       "title": "宣布當選推蓋「雲林小巨蛋」 張嘉郡：6核心定位推動城市發展升級| 政治焦點 - 太報 TaiSounds",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HUWRlVi1DUjR3a2l4a1hNUC1ubWxnSVlwS0xkNUhOWVpTQmhDWHdZcG1GN0h4YWwxZFBEbGhIZF9NSEtMdGJIYjR1QlVMVUdMTVR2MlBBMExoVUtV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-11 15:10:44"
-    },
-    {
-      "title": "拋政見將蓋「雲林小巨蛋」 張嘉郡：6核心定位推動城市發展升級 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPak85dEg4ZXFLLTZXUktYVGZuMkIzVE5Ma1NWdy1yOUFWN05ZTnJtQmZFN2drWVlRQWQ4QWpvWmZuUENWdWxYb1ZyT2toTTFRZHZiZFdTTDFLUVZFd251QnBNdVNveHlzdF9hSnVmamxSVi1uQUlxZE1QcjRoalB6ZDlzRnVrclZVYUM0UnotN3RDXy00MzVYRjVnWmN0SnRIclpQQXdlQkswY1g0UnlhRmJZdUhULU9icUpTM21uaTFmS1BBXzVtczZOckRVS2FhZzZBSWZnNVQyc2V2UHNGT2JhZVptVVVJaDJXYVBTN0VKeGxRTVdvb0RBc3ZOV0FBUkJpeEdVdDFsTUtVSm15ajZoLWVoeDhjWUowdVN6YUdvOHlINTI3c1g3eEU2RkhOUi01d2VWZmZ2azdaM2swR0JKM1ltaFg5SFJLeVlIYjJnY1pjeEV3WkxWVE1mTjJzbklwVFA3cjlkYnY3NzBrclhOWU85YlI1Mmo5TXZybjNRNkVs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-11 15:10:44"
-    },
-    {
-      "title": "雲林縣長之爭張嘉郡拋「孵蛋」政見 劉建國關注職災問題 - 中時新聞網",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WZE4wcnlrcm5ZYmp6c19wdjdQMk1WRG5waU54VlBubzJ4cXlRYVlsY1NDdlowMk95azJNV1VlVXBjcU0yc3VROW9aREU0NWlwQ0V3WGJVaGNPZk1fNndaaWVoN3R4QW5meVJlWFNB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-11 15:09:07"
-    },
-    {
-      "title": "失智人口逐年攀升立委籲將團體家屋納長照給支付制| 失智| 劉建國 | 林月琴 - 台灣大紀元",
-      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOM3hlNlZlX0lqajVFOTNTY0xhTjczRVpjNkl3M3lUTlBnRDE4WkxzVUFoSTZjdEJiTjBTRGh2cWV6NXhnbjRPQ1pYdW8tTDNxTS1zbVpSNlkxU3ZGSWZBMkV2ZU0tVnNINWMzWDE0QTdZalQzSmlvQkxaRkVZakROeUVsVGVjVUhrQTF1RUpraGNFZzByV2VBb1RhVWdtSERVcG0ybl9PYWVFc00xQ21hczRPclVudkFrTTZuZVBEa0c5UW9Ud0JXaGVIeDNKdWlqbGEtLXI1NEFMcWNCQ09HRzRfdDI3Q01UMFhXLUc5cDk2NEJxbVRSMDE1TEhPR1RwTU5CSFROdFh3Vmk2WUMwZml3VkVWamt6LVIycTFiSnVBR1d2dURMRjc4M2ZfVmM4S1o0VjNqdzRBUjRuMExfcXNQdUE3NGdQZ09Mb2JubllPMEVDSktWbms0M25rbFpWTWRaQmFGNElWQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-11 14:53:15"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "醫美偷拍風暴擴大！劉建國怒轟衛福部慢半拍「全國稽查刻不容緩」 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNU3UzUnQ4YjRaUGtzM0dWaUtLR1lmdk43ZnpCTVQ2Ti1NWXpzeFVIU2pSSjhaSXJpdHByYmRGdXhVZnFwbkJhOE1jODVkNmlCSTM4SUdyel9SZTM3WWNSUVpRNVgzUS1HVVJoeHFQQ2oxdEdSYXJqQkxXY2oyaC1OOE9SNzZhUjVGWjNWVkVpRmFKLXVrZ2hTZFVrbTMwZzZFN3JUWFJybE9YOTc2RU9ZYng1R19Cc0JicG1tRGZNc1pCOTd1YnNrNk5xSWczWFRTcUh2OHJuWFFmR0xhUWZHbmFZakFBTmhENGQtRzNvWnE5NXFFbmNhZFROZHFyYWkzbzI1NVNHZXJmZDlObkVwdzdFS0hremZSUC1maGdHd1BFWnk1M0YzcW9xc3NOa1FmSExyejNxVTNrSER3Uk41eDFDR0tUSHhZZU5Sc0VYOGZmUFVOVjFhWWJHVXBKdFNmSGEyaUkzaGxTQ1hiMzdMOHVnenpESURnQnd3U3pJekl4ZjRNakdPWjhkTGdUbU9jX3pxNzJBcGpBdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-11 19:53:00"
+    },
     {
       "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPWmd2NTlod1hwd0dTbjhvTDQ2T1kzZUpnV2ZWRHRVbm1CYWp2SnRVenRJdzEzMHBVMVFqOVV1QWxKd19XaWZQQzZBaEU5T3BmQWNNamE3U3hMa1Y5b1BISUhoWFlVVk9LYU1YMExUZ2VCNWN1UVZtM1drNk9jd0lWVDVUMV84SHpzLUhZNmJRT0U1bVlYUHlRSk1Wc290Q2lTM3ZCWnRjMU1GVUxxYkdCb0NlMWs3d1hDZy1lM0s0ajhCeWVybmdhNS05REdKaW1ka05Hay1GcXJRb3Z0a3RpUm5xRTVYZmRwb3Y2WUx3ZWNtdUgyNUh2bFBPaTFYMTlqRmdtbm1ZR0dSMVliTDl0UVhSS1hDRzBnbmo1YlBYNmRhcDh1RlZTMDIzZkZFYWxoSkFzdC04anRtUmEtcDJubnNPandYZ2JZcWMxTTU2ZlU5dmZpQjhDMnV4THUyNmI1VzJvWEl5cENuamVVblczYjl5b3BuTWlJbTc5VG5fakk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -587,6 +648,11 @@
       "time": "2026-05-11 18:10:00"
     },
     {
+      "title": "醫美偷拍案延燒　劉建國要求衛福部啟動全國稽查 - 鏡週刊Mirror Media",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11UXppRlZ6cE9FQ1QzVnlhN0FobThSYk5ib3JSOXlCWnhQaUFPMnY3Q3pzVzg2cjBqQXpfc2p5Q3lKSW5IbXJ1TUlmNVZWemtHQVN2LUN4RjFkYXktNE5aRkdLc2xIUdIBa0FVX3lxTFBsUXFubVJqZmQxT2lVZnlxTXV0eEtneVBGbTRVRWRkZFEwUzlWVV9iUGZub0VGZ3BkdUNuejNCYWVQdWcwblFRNE9ONGY2dDdGUmJ5V3A0M21iTF9uUUZGczI5d0RnWWR3Y3Nv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-11 18:10:00"
+    },
+    {
       "title": "立委丁學忠張嘉郡許宇甄爭取雨水下水道經費 改善北港褒忠淹水問題 - 台灣民眾電子報",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pcVFMWU1ZN3NVZS1QZjA3dHRBY3JZTWVIakl0U2hTbWRBVDJhZVFFMUtwS1Vtanp2TFgtcGhWcTZ5QkVOcm5oRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-11 18:07:31"
@@ -605,6 +671,11 @@
       "title": "張嘉郡拋「斗六興建小巨蛋」引進大型百貨，串聯展演與生活圈 | 夏和宣 | 地方新聞 - 風傳媒",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFbTVwN0RlVy1zRjNtQllZNGU1bWJ3MVpoVWoydWhzWldVZl9ENzNnYzU4QzhLNm5OYVkwNFVtdzVVeVdsOTRwZTRPd0xudw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-11 15:15:46"
+    },
+    {
+      "title": "雲林縣長之爭張嘉郡拋「孵蛋」政見 劉建國關注職災問題 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQUHNuTEIxb2hJVVN3TElMeW1aQm1aanhURDQ1QTA1X2IwZTdRcjVvaVFyU2Uxc1JZeXNBOTIwejc4d1p3R2N0ZF9JLS1Ma1FKLXQ2cDRSZ0RHbXl3OTBKWC15X2xxQ21wNjZ2dnVaSFFnVzdRb0dyNGtqUkZWcVpVZHdWUjlhc0FUM2pBd25wRTM1bmhIbk5OYnhyWFF4QmhrRHFEYUl1LUNOQUV5Qmtka3o2ZldTbWlBbUNub19IM3JZcGpfMWhlR3RTb3hCRlpCamFjM0ZDc0hucVE5OW5lZDM0c3dKV1ZubEc4TzF4WWxrT21JSTNTaVNaQ0JnQjB3cjZGOVQ1M3VTU25XM1ZOdFNRX3lKOFgwbUtoN2UxVnpDY1hxR2Q1OW9RTFJxSklMV2ZuSmNYblRmZENrWWFFM3F4NWNaTHFlUEFOSkxaUGI4bjJyR2ltTkRUb0FzMEplUnNNR0J2N2hTb1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-11 15:14:07"
     },
     {
       "title": "宣布當選推蓋「雲林小巨蛋」 張嘉郡：6核心定位推動城市發展升級| 政治焦點 - 太報 TaiSounds",
@@ -650,24 +721,14 @@
       "title": "雲林也要孵蛋 張嘉郡拋小巨蛋政見打造運動、 演藝新地標 - 匯流新聞網",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE81OEp5dVc4UUdHNG5tLUhwcjdzbjFyMWViRW94WHFhdksxSmJmWU9zdTdJM2tSeEdRcy14aDdJSi05MGVoN2c5blNn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-11 12:40:59"
-    },
-    {
-      "title": "張嘉郡拋斗六「孵蛋」！打造運動、演藝、電競多功能場館 - NOWnews今日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MVThrNVNmTkx3NmoyZFRYVThORWZVS2F1cExNUUdyemNVbW1OSWg4ZHoyeVgtUVpWdTQxYnNFZ2k3aFBfRm1OcG5EVEHSAVJBVV95cUxPRWtmbUFuSTJDZnpkQzU1V21CWk5SM2dmU2NfYVRKWF9aY25nYVBqb19iR0luQ0NlSWtpdUFCVjI1S0xmZTBsbm54NFl5eUdPZ3dR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-11 11:37:40"
-    },
-    {
-      "title": "張嘉郡拋斗六「孵蛋」！打造運動、演藝、電競多功能場館 - NOWnews今日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Fa2ZtQW5JMkNmemRDNTVXbUJaTlIzZ2ZTY19hVEpYX1pjbmdhUGpvX2JHSW5DQ2VJa2l1QUJWMjVLTGZlMGxubng0WXl5R09nd1HSAVJBVV95cUxPRWtmbUFuSTJDZnpkQzU1V21CWk5SM2dmU2NfYVRKWF9aY25nYVBqb19iR0luQ0NlSWtpdUFCVjI1S0xmZTBsbm54NFl5eUdPZ3dR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-11 11:37:40"
-    },
-    {
-      "title": "醫美偷拍案延燒 立委劉建國要求衛福部立即啟動全國稽查 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DcnRBTndMMWFXTXFsSE8tb3NOVmpMekU5VTNlX2t4dUlSSVkwVFA5MUJwX3VON21Pb284OFZUWlRVTWt4dTZxam1tTUkyVWkxZnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-11 00:00:00"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "醫美偷拍風暴擴大！ 劉建國怒轟衛福部慢半拍 「全國稽查刻不容緩」 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQcTlTRl80UlFRbGVEUVZGWXNIcWxQMWhTY3BSU1BGSFh6M1pfZ2FVbXAtZnZMcVlwMW5MNFVEMkdPMHB3Qlg3aUI3TmdPU3FFd2JNdlBpamxLVE8tZjdHSE1GTFFtc1hSdmQ3YWFPOTlHTzVVYlVFcC1kSU02VXJqMUJoOVVpTWJSLWhXb0JRYVlaM21GWFh2QjV6TS16RWdzaHlkOXZfNFFGS2poZU8xV3V2VEl4cy1RV0M3UlFZQkozX2thMWFVVTZ6WldsSWFzRXZnb1drMUhSMTdwRzhrZlZVbEM4RUxoQXowaFNsenpBSTU4OC1oY3lYX2tLTWJLYlhQVWhkSkpLMzkyUDhMcTV4STVIbmo5cmtXTHJIZDJGWDVoQUcxVmNzQno2UVRYZFBrV2FnRzhMWC1VdFJGekZ6VU90MFNTa0U0bGQ5SlRPeVlGVTNIYnNhY3pzMlZobVVoMGZEeVdmVl92WmRGaGVkWGNBMUF6SnlUaXc1Uk1rR1lyWTIwZ1hsQTFrdHdkQ196bHlGTGE2Nk84VzRubU4ycXBiQktVYk1NX3p3SQ",
+      "time": "2026-05-11 19:56:38"
+    },
     {
       "title": "這幾天，建國與多位公職及團隊走訪各市場、社區與活動，親手送上康乃馨，向每一位為家庭辛苦打拚的媽媽們送上祝福～ 來到莿桐參加模範母親表揚活動，看著一位位媽媽站上舞台，真的很感動。媽媽總是默默付出，把一家人的大小事放在心上，撐起一個家庭的溫暖與 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxPTVFnZFRyUUw5RDlNRVU1LXpDYXNzTS16OXY4OWFUeVN4aENEU2lVcWFJUDVvWDNNNWs0MU45eER0T1I2YjItdVdtTGwyNG9PaWJLTWkzbkZaZ0VOMXJhZnR6S3JMWjR1Y0c0ZXBMaU5ORWpRZEdWWi00NHYzYkRVNkhjdHFXQlI2S1ZJT3BwOHQzeGtmejYxUXhwZFhMaWlNdjZLQWNtRy1RTmFzSnZXakpENDRudlhtMVk0YnVNVVduVWdxZkQ1SEotLXdieHRSdVpsaGN6dkNQSnpxUi13Wno1NUlCeVgyU240cWNzenhjWUwxd2l0eERyajlyS1gwemlKTGsxTmpUcXRIRGx1NjRTU3pOZEQ1YjloUklqdDFYbEpvSlc5OVp3VDhKYlBDNWE3X19Dc2ctTFMyY0U3c2czSlQwUi1wdjdJUUY3YTdrOEFveUpTWWo3YWc1b3ZFZXNqU2VvbklRV05jVk5mMExZUlFZVUMwQjliTWtKbjlCT05aSURzcllCSmlMbldjY2doMmYteHh3cklnRVQxT0NOYmxnUmFlTVdXQkRWX3NFWUNjWVdUdllZT0ItRHhOU3ZZYXpmLThWRDl6UUxoaW5DUHRjRDN1Z3o0WjRjaU5ucmQ3bE1iQUZ0LWRKc1lzU2Q1YjctUEhWcGdCdzBybEtBWWl5bGM2TXZmOE1wR3h2aExHVUw2bVlTMlE3dkdhRGRWODdyYTFiaktNYUFfdFVySTRWNE1UMXNibXRyWHNxTHpRV2YwWm1lb3pybUh1NmEwV05hWUhJdU52UFV3Q3BPejVVWjdweFFNLW1STUV1dUFXcjg1ZUl5dUExcnkyU0Y0T2pUNGhHZmZVUHl6dnlpRHpyZWRPSlo3YXFnczBnQmZ2MkJSaHpnV0Eya3JpbVdWRko5Wms4cUpxZV81SlNsQmNJWEtqNWxnSUozWk5xNzV2bG5jVjZJdW1mVWhmczRIT3NHVDhlYkhuWWJNbTIydDlvclFDQm1OSVJjaUJVQlB6d2ZwdFd3d1lQckZQVmxuczFCT1JPTHNnTHJhUFJmR29LVWpoSU1veFJBeGQ5cVRGQXpmRWFfYWxIcUZJY0xPMTNxRlgzT2RLT2NvNmJNVGpuMFRxOGNQTWxNOGZZajlJbzZjVm9QcnM4UTFUa1FmcFd0Y29mWUZYYzFBY3kxZkVtVEZBdWtPX2h2SXBtX1pfVUtpRjZWQWVPRFJ5TDNIUFNJdmt2Skt0Zm0zY0FyelhQUDQzTW1na0gwdmw1TXRmcGpXejVxNmIwWHBuc0FONUEwRk12NEt4R0R0czdSb182d1JpdHE3bkVYVVJMVTRxU1RDdGJVVC1jaXdIZ21aRGRJQ1M1RnRvTkp4X2RteFY1M3dwZVNtalhJQzhJWGotZ2Y3dE1TamdHME0",
@@ -762,14 +823,14 @@
       "title": "國人同胞大家好，我在稍早抵達友邦史瓦帝尼。 原訂4月22日的出訪，因爲非預期的外力而暫緩。經過外交與國安團隊連日來的縝密安排，我們在今天順利抵達，儘管晚了幾天，史國人民依舊給了我們最熱烈而溫暖的歡迎。 期待此行透過更緊密的經濟、農業、文化及教育 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMiiAhBVV95cUxPclpUNWt0cjluZGR0ODRILV9RcXlWSnZIbEs0SWtYUVNCRHkzRlczMFJtdnh4blRsRDBqY2hqZEE2TFloSHZxNV84cms3WjNGZjRBczl4WUhubXR0LThGcFVzYTRmN0gxbllGUXJhNFR5LTNrb1lRT1htYnZwdEtyeFVvN24tZmhmNUo4RG5mRnpZTEpCRUhEeVY3VXVyVFB0b0NqODVlVFZVOWplbjJSSzFnSkViaWt5TW9LR0xYblJ3WV90b1RMZkRFREtXXzlDdngtX2lfT3hFVHN2bkZveVgtNGpfUGNuaVBhMHRYSHFwRVhZR0Frc081VDVjdW0zS2k4OHVEZkNtaC1wVnBaT3laekY4dThIT2RrdDlOMWsxVWs4Zl9BaW56bjlKUmMtYVA5bmFMaFM4WmZGU1dNQ3ExaGFEU1B2TDN4ZWZXcXpxblJ2R2hHLVhDLVotY0dQeFhUWFp4TU5oTDdBS1ZqQjVtUF9HbVBUUFFIWEJsbjFkbmhXVFZIMVVjMHEwZ0JDWjZmZFFDVXN3X2ZmeWdPRmZIbklMaXZTS2lWbmN4UDh6TWdEcDdIS1ZhbDRmdVRQMHZ4aHZlcDRYN2ZXNVF2ZS14NUxSbFdzV3ZsU1JVMm5acTk4UmE3Z1VkSXhyLXRjdk1oTzNMZmdGaEsxY1ZMWnhpQWI1ZmlPdHJ4NXBHLUhtb2lhS3liQjMzY204YUxTYUxpcnlScEJETmRjWWJ3eURreDIxUmZuQTR5cWpfUzFYYXN3dWRVNnpXUEp3d2w5Q2tHeTF1Y2NsQTFaZk96RmdkSW9tcFRsX3d5SUJTbTBHbzNYQXZrcnRYcU14MUFjNGJyeUNUazdiOVJtY2VXaFphT25NWUU4Z2RvNjBNSUNLS0hQeGtZZTVDYm5JWks3akdNc095R3BjMlRvQU9pWWlsbE5aZ3psSm1zTURwU1UzcFZ4a0VRX0N5Q0w1andUbnkweXRlUjVCREk1RGFwZTlhTUlmTjhJQnE2b2IxX2RiMGZyZFpfYTJid2owTVFBaVotRVpTQzc2OFBmSDNFQTdzQmhWYWF0aTh2RkloXzdCWjQ4Mk5NTnI0dkhxUXBGT0RIVF9GeFFZWEIzV2huWFR6YnpIYW00YVR2ekF5UFdkeC1JVk94cFZ3eDFVZldMUkMxejNIS2R3aGVGeGFkQlZ0MDMzRHJtWTZrNlc1NXJyMm5GaG5TNGtpd3Y5UGxnQjQwR0lkQlRlblRHYno2NFFGVnliUDczMlRHeXZTSWtfZ3pDTHpMd1NsZzNqYXJXMnVONGhsMV9BR3ZBcHpsb0l0TG5UTlBJeXF1cFhLdkppMVUxV3U3QlU0dWx5Q2RZbHNyQnlGYlY",
       "time": "2026-05-02 21:37:45"
-    },
-    {
-      "title": "自由時報. . 「國家高齡醫學中心」落腳雲林 賴總統：劉建國持續幕後推動 圖文報導：https://news.ltn.com.tw/news/politics/breakingnews/5422293 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxNTjcxMFZFMzZiY3hwdVVDLVlseXVwY05vX0thU3lLcUNScW1aQjZ6MjVJeVd0aU1kdEVWaHFFazByM2NLUWJLY00wbHdrcWVWTUxaTVBCNXZWdWk2X1NuMzZxSVZEZXJyeUg0OXo2N3VOdU5PUWFPaGtxN2dNQjNENG1DUXdyNUxNUW1QbF9NOGNrX2ZqNGl2SnNKU0ZMRmNONkhRMkU1aGZ3M1l5cU91QlAzRzhiaFB5OThneE43NFNNcVN5VGozdG5jclhSR3VCemotWm5zYXVRb3ZNMVVSTnktV2s5cjNIbEdXQmtZYXhoSGVYMF9wTkRZQ3ZnMTczdmdfV1VmT2EzbmN1ZGdvTDRWc2JhWWJlZGt1WE5qRkVYZGdBODRac3FUVEd2ZlhVZFlsMmdDLVN6ODBBVlJvbTQ0QjB1MXpmbHhObUV2di1jVWdMbE1MSWxUMFFWbXBfdkM2SXEzRnBHU2VJMFlxVTVRVlNBRE5hRkJtNks2Q2xmZGh1Z3ZrWXE4cUwzUElhQUYzY0c5dFkxNEwzX3lqdVlTRlBKR1hCdXY0UkZmb3dTcnlfMExSUmRwaUJsVXNEMkVnakVvRG9HckRHZzRnMW9Eel9rekI5VjN4MUNBVm5YdlZha3BEN01GU3UyQzlsRDlDUEkyVmd0SENy",
-      "time": "2026-05-01 22:57:15"
     }
   ],
   "latest_news_20": [
+    {
+      "title": "醫美偷拍風暴擴大！劉建國怒轟衛福部慢半拍「全國稽查刻不容緩」 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNU3UzUnQ4YjRaUGtzM0dWaUtLR1lmdk43ZnpCTVQ2Ti1NWXpzeFVIU2pSSjhaSXJpdHByYmRGdXhVZnFwbkJhOE1jODVkNmlCSTM4SUdyel9SZTM3WWNSUVpRNVgzUS1HVVJoeHFQQ2oxdEdSYXJqQkxXY2oyaC1OOE9SNzZhUjVGWjNWVkVpRmFKLXVrZ2hTZFVrbTMwZzZFN3JUWFJybE9YOTc2RU9ZYng1R19Cc0JicG1tRGZNc1pCOTd1YnNrNk5xSWczWFRTcUh2OHJuWFFmR0xhUWZHbmFZakFBTmhENGQtRzNvWnE5NXFFbmNhZFROZHFyYWkzbzI1NVNHZXJmZDlObkVwdzdFS0hremZSUC1maGdHd1BFWnk1M0YzcW9xc3NOa1FmSExyejNxVTNrSER3Uk41eDFDR0tUSHhZZU5Sc0VYOGZmUFVOVjFhWWJHVXBKdFNmSGEyaUkzaGxTQ1hiMzdMOHVnenpESURnQnd3U3pJekl4ZjRNakdPWjhkTGdUbU9jX3pxNzJBcGpBdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-11 19:53:00"
+    },
     {
       "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPWmd2NTlod1hwd0dTbjhvTDQ2T1kzZUpnV2ZWRHRVbm1CYWp2SnRVenRJdzEzMHBVMVFqOVV1QWxKd19XaWZQQzZBaEU5T3BmQWNNamE3U3hMa1Y5b1BISUhoWFlVVk9LYU1YMExUZ2VCNWN1UVZtM1drNk9jd0lWVDVUMV84SHpzLUhZNmJRT0U1bVlYUHlRSk1Wc290Q2lTM3ZCWnRjMU1GVUxxYkdCb0NlMWs3d1hDZy1lM0s0ajhCeWVybmdhNS05REdKaW1ka05Hay1GcXJRb3Z0a3RpUm5xRTVYZmRwb3Y2WUx3ZWNtdUgyNUh2bFBPaTFYMTlqRmdtbm1ZR0dSMVliTDl0UVhSS1hDRzBnbmo1YlBYNmRhcDh1RlZTMDIzZkZFYWxoSkFzdC04anRtUmEtcDJubnNPandYZ2JZcWMxTTU2ZlU5dmZpQjhDMnV4THUyNmI1VzJvWEl5cENuamVVblczYjl5b3BuTWlJbTc5VG5fakk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -791,6 +852,11 @@
       "time": "2026-05-11 18:10:00"
     },
     {
+      "title": "醫美偷拍案延燒　劉建國要求衛福部啟動全國稽查 - 鏡週刊Mirror Media",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11UXppRlZ6cE9FQ1QzVnlhN0FobThSYk5ib3JSOXlCWnhQaUFPMnY3Q3pzVzg2cjBqQXpfc2p5Q3lKSW5IbXJ1TUlmNVZWemtHQVN2LUN4RjFkYXktNE5aRkdLc2xIUdIBa0FVX3lxTFBsUXFubVJqZmQxT2lVZnlxTXV0eEtneVBGbTRVRWRkZFEwUzlWVV9iUGZub0VGZ3BkdUNuejNCYWVQdWcwblFRNE9ONGY2dDdGUmJ5V3A0M21iTF9uUUZGczI5d0RnWWR3Y3Nv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-11 18:10:00"
+    },
+    {
       "title": "立委丁學忠張嘉郡許宇甄爭取雨水下水道經費 改善北港褒忠淹水問題 - 台灣民眾電子報",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pcVFMWU1ZN3NVZS1QZjA3dHRBY3JZTWVIakl0U2hTbWRBVDJhZVFFMUtwS1Vtanp2TFgtcGhWcTZ5QkVOcm5oRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-11 18:07:31"
@@ -809,6 +875,11 @@
       "title": "張嘉郡拋「斗六興建小巨蛋」引進大型百貨，串聯展演與生活圈 | 夏和宣 | 地方新聞 - 風傳媒",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFbTVwN0RlVy1zRjNtQllZNGU1bWJ3MVpoVWoydWhzWldVZl9ENzNnYzU4QzhLNm5OYVkwNFVtdzVVeVdsOTRwZTRPd0xudw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-11 15:15:46"
+    },
+    {
+      "title": "雲林縣長之爭張嘉郡拋「孵蛋」政見 劉建國關注職災問題 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQUHNuTEIxb2hJVVN3TElMeW1aQm1aanhURDQ1QTA1X2IwZTdRcjVvaVFyU2Uxc1JZeXNBOTIwejc4d1p3R2N0ZF9JLS1Ma1FKLXQ2cDRSZ0RHbXl3OTBKWC15X2xxQ21wNjZ2dnVaSFFnVzdRb0dyNGtqUkZWcVpVZHdWUjlhc0FUM2pBd25wRTM1bmhIbk5OYnhyWFF4QmhrRHFEYUl1LUNOQUV5Qmtka3o2ZldTbWlBbUNub19IM3JZcGpfMWhlR3RTb3hCRlpCamFjM0ZDc0hucVE5OW5lZDM0c3dKV1ZubEc4TzF4WWxrT21JSTNTaVNaQ0JnQjB3cjZGOVQ1M3VTU25XM1ZOdFNRX3lKOFgwbUtoN2UxVnpDY1hxR2Q1OW9RTFJxSklMV2ZuSmNYblRmZENrWWFFM3F4NWNaTHFlUEFOSkxaUGI4bjJyR2ltTkRUb0FzMEplUnNNR0J2N2hTb1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-11 15:14:07"
     },
     {
       "title": "宣布當選推蓋「雲林小巨蛋」 張嘉郡：6核心定位推動城市發展升級| 政治焦點 - 太報 TaiSounds",
@@ -854,21 +925,6 @@
       "title": "雲林也要孵蛋 張嘉郡拋小巨蛋政見打造運動、 演藝新地標 - 匯流新聞網",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE81OEp5dVc4UUdHNG5tLUhwcjdzbjFyMWViRW94WHFhdksxSmJmWU9zdTdJM2tSeEdRcy14aDdJSi05MGVoN2c5blNn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-11 12:40:59"
-    },
-    {
-      "title": "張嘉郡拋斗六「孵蛋」！打造運動、演藝、電競多功能場館 - NOWnews今日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MVThrNVNmTkx3NmoyZFRYVThORWZVS2F1cExNUUdyemNVbW1OSWg4ZHoyeVgtUVpWdTQxYnNFZ2k3aFBfRm1OcG5EVEHSAVJBVV95cUxPRWtmbUFuSTJDZnpkQzU1V21CWk5SM2dmU2NfYVRKWF9aY25nYVBqb19iR0luQ0NlSWtpdUFCVjI1S0xmZTBsbm54NFl5eUdPZ3dR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-11 11:37:40"
-    },
-    {
-      "title": "張嘉郡拋斗六「孵蛋」！打造運動、演藝、電競多功能場館 - NOWnews今日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Fa2ZtQW5JMkNmemRDNTVXbUJaTlIzZ2ZTY19hVEpYX1pjbmdhUGpvX2JHSW5DQ2VJa2l1QUJWMjVLTGZlMGxubng0WXl5R09nd1HSAVJBVV95cUxPRWtmbUFuSTJDZnpkQzU1V21CWk5SM2dmU2NfYVRKWF9aY25nYVBqb19iR0luQ0NlSWtpdUFCVjI1S0xmZTBsbm54NFl5eUdPZ3dR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-11 11:37:40"
-    },
-    {
-      "title": "醫美偷拍案延燒 立委劉建國要求衛福部立即啟動全國稽查 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DcnRBTndMMWFXTXFsSE8tb3NOVmpMekU5VTNlX2t4dUlSSVkwVFA5MUJwX3VON21Pb284OFZUWlRVTWt4dTZxam1tTUkyVWkxZnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-11 00:00:00"
     }
   ],
   "person_sections": {
@@ -1007,6 +1063,11 @@
           "time": "2026-05-11 15:15:46"
         },
         {
+          "title": "雲林縣長之爭張嘉郡拋「孵蛋」政見 劉建國關注職災問題 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQUHNuTEIxb2hJVVN3TElMeW1aQm1aanhURDQ1QTA1X2IwZTdRcjVvaVFyU2Uxc1JZeXNBOTIwejc4d1p3R2N0ZF9JLS1Ma1FKLXQ2cDRSZ0RHbXl3OTBKWC15X2xxQ21wNjZ2dnVaSFFnVzdRb0dyNGtqUkZWcVpVZHdWUjlhc0FUM2pBd25wRTM1bmhIbk5OYnhyWFF4QmhrRHFEYUl1LUNOQUV5Qmtka3o2ZldTbWlBbUNub19IM3JZcGpfMWhlR3RTb3hCRlpCamFjM0ZDc0hucVE5OW5lZDM0c3dKV1ZubEc4TzF4WWxrT21JSTNTaVNaQ0JnQjB3cjZGOVQ1M3VTU25XM1ZOdFNRX3lKOFgwbUtoN2UxVnpDY1hxR2Q1OW9RTFJxSklMV2ZuSmNYblRmZENrWWFFM3F4NWNaTHFlUEFOSkxaUGI4bjJyR2ltTkRUb0FzMEplUnNNR0J2N2hTb1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-11 15:14:07"
+        },
+        {
           "title": "宣布當選推蓋「雲林小巨蛋」 張嘉郡：6核心定位推動城市發展升級| 政治焦點 - 太報 TaiSounds",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HUWRlVi1DUjR3a2l4a1hNUC1ubWxnSVlwS0xkNUhOWVpTQmhDWHdZcG1GN0h4YWwxZFBEbGhIZF9NSEtMdGJIYjR1QlVMVUdMTVR2MlBBMExoVUtV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-11 15:10:44"
@@ -1070,16 +1131,16 @@
           "title": "獨家專訪｜張嘉郡挑戰雲林縣長盼撕「標籤」 以「200%努力」叫陣17年資深老將 - 壹蘋新聞網",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTUJPX1FEa3VrMnM0bkhRVWFZQjc4UzJTbXhhN1g3U3BhRjRsOXNRcWRTbUFpeDJYa1JwNEJYSUdldXc5Smd0S0kzMl92M2R3dm52blBiZHI2TmNfVHhXNU5HVGxpTzcxNkxVRGtvX0NhbHhvZ3IwVWhxU0QyZVRpV3R3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-09 09:00:00"
-        },
-        {
-          "title": "獨家專訪｜張嘉郡挑戰雲林縣長盼撕「標籤」 以「200%努力」叫陣17年資深老將 - 壹蘋新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcld6YVdrOWRkWjR4aFdjRnFkc2F4Yk9yWHRrZlZndVJ6NFI5c1djUFRGSEVGWDVUakIzUEFTcEdSamItSGZzZ3dBQ1lWYndOVVpfbnRQc3pXN0piS3VEem92XzVJSlNPcFZKejNjVDhXMXhONTBqdWIwcGJjLXNzWjB1UHljZ2kzOGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-09 09:00:00"
         }
       ]
     },
     "劉建國": {
       "facebook": [
+        {
+          "title": "醫美偷拍風暴擴大！ 劉建國怒轟衛福部慢半拍 「全國稽查刻不容緩」 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQcTlTRl80UlFRbGVEUVZGWXNIcWxQMWhTY3BSU1BGSFh6M1pfZ2FVbXAtZnZMcVlwMW5MNFVEMkdPMHB3Qlg3aUI3TmdPU3FFd2JNdlBpamxLVE8tZjdHSE1GTFFtc1hSdmQ3YWFPOTlHTzVVYlVFcC1kSU02VXJqMUJoOVVpTWJSLWhXb0JRYVlaM21GWFh2QjV6TS16RWdzaHlkOXZfNFFGS2poZU8xV3V2VEl4cy1RV0M3UlFZQkozX2thMWFVVTZ6WldsSWFzRXZnb1drMUhSMTdwRzhrZlZVbEM4RUxoQXowaFNsenpBSTU4OC1oY3lYX2tLTWJLYlhQVWhkSkpLMzkyUDhMcTV4STVIbmo5cmtXTHJIZDJGWDVoQUcxVmNzQno2UVRYZFBrV2FnRzhMWC1VdFJGekZ6VU90MFNTa0U0bGQ5SlRPeVlGVTNIYnNhY3pzMlZobVVoMGZEeVdmVl92WmRGaGVkWGNBMUF6SnlUaXc1Uk1rR1lyWTIwZ1hsQTFrdHdkQ196bHlGTGE2Nk84VzRubU4ycXBiQktVYk1NX3p3SQ",
+          "time": "2026-05-11 19:56:38"
+        },
         {
           "title": "張嘉郡留心！ 劉建國領軍搶回雲林 「綠營第二波徵召名單曝光」 - Facebook",
           "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQV21XSEdfLUtIRkZBZzh2UVkzTE5QZF9neUoybE9VcFF5Q0F4TnZuVFR0SGlDb3U5aF9UUjh5UWV4N1JValhGZGE0aV9EVW1nWl9qUXVqaWFwTmdFSnFfaU9xdDI1elh1SWhRYUs5TExORi1WVUF2TjNrSzV1MVdESEQyMk1zd0x0WWRfRlhkUzdBLWVIZDVCWTF6UDZ6eHBnVk1KbGRnM0Y3UzNCMk5LR3hiZlFMYW9QcWJRUVkzWjk0TjJGT2VzZGdpdmx0eDRLaDhYei1QT2phM2JLbHVGdThlak5oSDR4dU9OR2xiVGxXMVNHeUJVUzJsV1hwcUplR1dTRll1OFJCaUZ5cGpCcnZHMGhHdWZjdHJPV3ktZDVLb0RHZFRfazVVRURGT3o0QjVQTjRHSUhpeVpySDJzNmp0S2Y4a2d5Zm9yVmhTdzdPWmhDOXhGS3M4LWJremV5bUZjaDZDVWNFdnhpSklfUTNTQWhFdEVqazQwRkgyQi1STGNNZzNhT2hEYk5JRGFrd0s0TVdIOA",
@@ -1174,14 +1235,14 @@
           "title": "調度麥電燃煤 #劉建國：雲林人繳稅少？ - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPYUVpWTlqUjJ4SE5BX3B6YWNMOHFEUWxWdTRHSEF2UDdneDdxMkFMNXRCeEdRZF80dC14d1c1bkVBZzdDQnlWNV9FTElXSHV5eUpPYlFnRDRPeVdWZUF1aml1RGJSdjhjMzduaE9fWWNhT0dSRU9FNTVOZ0ZYdjdhTFBGc1I3Y1NlTERvWUlDRFVHbnJiOTZBWXVVenVaQ2FEZXV6ZFRrSkdsejM4clJ3cGczMENhLVFlUjE0c012SVF0N2xDN2FqM0k1V2R3dllvYW5IZ3F6YnlsLWhVTzJ1eFZNN3d6Rmd6VFNUMlM4ZlRuNnFMSm9VQTc1LVM4cjRMc1RoeFNNeXNtcExneFFwbkxpTEZPdW1qRnExclkyQkJjQ3Nl",
           "time": "2026-04-22 15:49:09"
-        },
-        {
-          "title": "劉建國 - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRRW1VS0Fjd1RUUWxfRGJOVVBTNXp6SVhqd2RLZ1dzUG5LLXVsMC1WLWEyUEZoUGdWdnBLcW5FU0stdWxUOGttUXdTSVFRcGNPM0VvQTkzSXpLRmVjSTduekJYVGV3U3lHOVZuLW94SW1XWXBaSWdpcUVUZw",
-          "time": "2026-04-21 14:13:22"
         }
       ],
       "news": [
+        {
+          "title": "醫美偷拍風暴擴大！劉建國怒轟衛福部慢半拍「全國稽查刻不容緩」 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNU3UzUnQ4YjRaUGtzM0dWaUtLR1lmdk43ZnpCTVQ2Ti1NWXpzeFVIU2pSSjhaSXJpdHByYmRGdXhVZnFwbkJhOE1jODVkNmlCSTM4SUdyel9SZTM3WWNSUVpRNVgzUS1HVVJoeHFQQ2oxdEdSYXJqQkxXY2oyaC1OOE9SNzZhUjVGWjNWVkVpRmFKLXVrZ2hTZFVrbTMwZzZFN3JUWFJybE9YOTc2RU9ZYng1R19Cc0JicG1tRGZNc1pCOTd1YnNrNk5xSWczWFRTcUh2OHJuWFFmR0xhUWZHbmFZakFBTmhENGQtRzNvWnE5NXFFbmNhZFROZHFyYWkzbzI1NVNHZXJmZDlObkVwdzdFS0hremZSUC1maGdHd1BFWnk1M0YzcW9xc3NOa1FmSExyejNxVTNrSER3Uk41eDFDR0tUSHhZZU5Sc0VYOGZmUFVOVjFhWWJHVXBKdFNmSGEyaUkzaGxTQ1hiMzdMOHVnenpESURnQnd3U3pJekl4ZjRNakdPWjhkTGdUbU9jX3pxNzJBcGpBdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-11 19:53:00"
+        },
         {
           "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPWmd2NTlod1hwd0dTbjhvTDQ2T1kzZUpnV2ZWRHRVbm1CYWp2SnRVenRJdzEzMHBVMVFqOVV1QWxKd19XaWZQQzZBaEU5T3BmQWNNamE3U3hMa1Y5b1BISUhoWFlVVk9LYU1YMExUZ2VCNWN1UVZtM1drNk9jd0lWVDVUMV84SHpzLUhZNmJRT0U1bVlYUHlRSk1Wc290Q2lTM3ZCWnRjMU1GVUxxYkdCb0NlMWs3d1hDZy1lM0s0ajhCeWVybmdhNS05REdKaW1ka05Hay1GcXJRb3Z0a3RpUm5xRTVYZmRwb3Y2WUx3ZWNtdUgyNUh2bFBPaTFYMTlqRmdtbm1ZR0dSMVliTDl0UVhSS1hDRzBnbmo1YlBYNmRhcDh1RlZTMDIzZkZFYWxoSkFzdC04anRtUmEtcDJubnNPandYZ2JZcWMxTTU2ZlU5dmZpQjhDMnV4THUyNmI1VzJvWEl5cENuamVVblczYjl5b3BuTWlJbTc5VG5fakk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1191,6 +1252,16 @@
           "title": "醫美偷拍案延燒 劉建國要求衛福部啟動全國稽查 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQXzdsaktyVzUtYkZZaFAzaV9vaG1OeUNwM2VKUzBUb2JnSmtEWThkVkNaT2tqdXptN2MybVdXb21NVnVwZGJHV1Yzci05ajB4Qkp1REZJellQLVV0M0RGVm41dE1ydXBVay1xS0djZ2pBVnB0X2NwZVZKUVhiWlA2clRsMjJBbnRLRnE2OWdOQ0NTbnZURUJoMW1DYkNkLVFqVUNQZU93QUpOcWwtUE5oc3RXRjJETk45Y0ZHTjFGR2d5VVB4QjVYQlJzSFgtaUZhYk9kVVg0eUhiWDFOTDJpanJfOC1OZkNodHlCRWY0TjMzdE90ajBmWHk1WHpLdncwbHBOMFdldGdUSjBHTTRLQnlCWGE5Yk1CSElpcUZBM2JpYUw5M1V2N3Q3VEE3MWY2cUhaRU9tVTBhcTZXQ0V6VFRCR3dZb0t1M3o1X2hzT0o?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-11 18:10:00"
+        },
+        {
+          "title": "醫美偷拍案延燒　劉建國要求衛福部啟動全國稽查 - 鏡週刊Mirror Media",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11UXppRlZ6cE9FQ1QzVnlhN0FobThSYk5ib3JSOXlCWnhQaUFPMnY3Q3pzVzg2cjBqQXpfc2p5Q3lKSW5IbXJ1TUlmNVZWemtHQVN2LUN4RjFkYXktNE5aRkdLc2xIUdIBa0FVX3lxTFBsUXFubVJqZmQxT2lVZnlxTXV0eEtneVBGbTRVRWRkZFEwUzlWVV9iUGZub0VGZ3BkdUNuejNCYWVQdWcwblFRNE9ONGY2dDdGUmJ5V3A0M21iTF9uUUZGczI5d0RnWWR3Y3Nv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-11 18:10:00"
+        },
+        {
+          "title": "雲林縣長之爭張嘉郡拋「孵蛋」政見 劉建國關注職災問題 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQUHNuTEIxb2hJVVN3TElMeW1aQm1aanhURDQ1QTA1X2IwZTdRcjVvaVFyU2Uxc1JZeXNBOTIwejc4d1p3R2N0ZF9JLS1Ma1FKLXQ2cDRSZ0RHbXl3OTBKWC15X2xxQ21wNjZ2dnVaSFFnVzdRb0dyNGtqUkZWcVpVZHdWUjlhc0FUM2pBd25wRTM1bmhIbk5OYnhyWFF4QmhrRHFEYUl1LUNOQUV5Qmtka3o2ZldTbWlBbUNub19IM3JZcGpfMWhlR3RTb3hCRlpCamFjM0ZDc0hucVE5OW5lZDM0c3dKV1ZubEc4TzF4WWxrT21JSTNTaVNaQ0JnQjB3cjZGOVQ1M3VTU25XM1ZOdFNRX3lKOFgwbUtoN2UxVnpDY1hxR2Q1OW9RTFJxSklMV2ZuSmNYblRmZENrWWFFM3F4NWNaTHFlUEFOSkxaUGI4bjJyR2ltTkRUb0FzMEplUnNNR0J2N2hTb1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-11 15:14:07"
         },
         {
           "title": "雲林縣長之爭張嘉郡拋「孵蛋」政見 劉建國關注職災問題 - 中時新聞網",
@@ -1266,27 +1337,17 @@
           "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - 蕃新聞",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92VnRvcDZBQ2toUXlYQVJrSFpQT094NG1KaHdaN0c5cFROckF3ZzBjX0xEaXBQWHVQZnVqSnI2aFhZR3hCTGJ5Tl9TMkRPbXlSUEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-02 22:27:32"
-        },
-        {
-          "title": "劉建國成功催生國家級高齡研究中心 落腳雲林打造健康台灣重要基地 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPY2VLQ3lGNG1YMjI4dEhvazZrUEZoSkszR0lZWGZpNEd2bUd0RGJhYWQ4QndDTUQyRjd0d2FGQ3paTFJ6M3ZST3ZGVWdyRHZBTUo1NHc1RmthWmNqYTI3WExTcTJqMk1zM0VaYkdBM05ZTjFSYzZJSG9UYW04VlZKQkhNaXF3RzhORkgzU01IXzgzRmlnOVRCLUthNmhXdWFLbkZWVElhNmpDYzNEa0t1Vl96TFN1WnJodTJhOFdvQmY1RWhoWXNyR2lOTi1Zb1BYbU1WZEFLWTVPUmQxZE10ZHJ5UmZuSXlMclZna2M2MFdUQkluQnJtbm1Qc2VJUU55OGpFeFlpRF8yTS1vdVMxbzhiWFpOMjA2QUo5d09BLUhad09TN2luMmNwdVRybWRVNXJXN2tQNjQzOFoyanlDRjBsbTkteFZGMVVOMGNQRzdxRDM2R3kydmdIajdsUzNHaUxBUFg0RTVHS1dIc3I5c1dDaHY3ZXBDaFBjSHotX0VZNDE5X05IRUhxRktxSWpBclk0LUg3S29ldDFsY0YwbDZiQmcwNXZyWlp2OUpBQUlhQnpUaDFoWTRDMXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-02 22:11:00"
-        },
-        {
-          "title": "雲林高齡研究中心啟用 劉建國促成39億重大建設 - 元丰傳媒",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0xBdXlhc3lrX2ZlS0ljUGFMeVBQcUFDZklXN0M3bWxjay1PUVd2SVdkNTVSTzJDWkhHemU4YlpIVmVrbXhING9HSks4ZWlJcU9pLWZNd0JnOGM4VDhlQVplV3R0MDZNQzl2ZENxUmZPYTJxU3hBUnRXSVVqLVV5Uw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-02 06:13:29"
-        },
-        {
-          "title": "全台首座「國家級高齡醫學中心」落腳雲林！賴清德大讚劉建國成關鍵推手 | 民視新聞網 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aV1FoUXpWSGxWcTg4V21QVFFRNDFiWG1nWE1rc3NGTGJ1YmJCVFU1b1N1dVdwYTV3V3NqdDljTlJPRk1fQ3hyMFJudWp5amtmVHNNSXRR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-02 04:18:02"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "醫美偷拍風暴擴大！劉建國怒轟衛福部慢半拍「全國稽查刻不容緩」 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNU3UzUnQ4YjRaUGtzM0dWaUtLR1lmdk43ZnpCTVQ2Ti1NWXpzeFVIU2pSSjhaSXJpdHByYmRGdXhVZnFwbkJhOE1jODVkNmlCSTM4SUdyel9SZTM3WWNSUVpRNVgzUS1HVVJoeHFQQ2oxdEdSYXJqQkxXY2oyaC1OOE9SNzZhUjVGWjNWVkVpRmFKLXVrZ2hTZFVrbTMwZzZFN3JUWFJybE9YOTc2RU9ZYng1R19Cc0JicG1tRGZNc1pCOTd1YnNrNk5xSWczWFRTcUh2OHJuWFFmR0xhUWZHbmFZakFBTmhENGQtRzNvWnE5NXFFbmNhZFROZHFyYWkzbzI1NVNHZXJmZDlObkVwdzdFS0hremZSUC1maGdHd1BFWnk1M0YzcW9xc3NOa1FmSExyejNxVTNrSER3Uk41eDFDR0tUSHhZZU5Sc0VYOGZmUFVOVjFhWWJHVXBKdFNmSGEyaUkzaGxTQ1hiMzdMOHVnenpESURnQnd3U3pJekl4ZjRNakdPWjhkTGdUbU9jX3pxNzJBcGpBdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-11 19:53:00"
+      },
       {
         "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPWmd2NTlod1hwd0dTbjhvTDQ2T1kzZUpnV2ZWRHRVbm1CYWp2SnRVenRJdzEzMHBVMVFqOVV1QWxKd19XaWZQQzZBaEU5T3BmQWNNamE3U3hMa1Y5b1BISUhoWFlVVk9LYU1YMExUZ2VCNWN1UVZtM1drNk9jd0lWVDVUMV84SHpzLUhZNmJRT0U1bVlYUHlRSk1Wc290Q2lTM3ZCWnRjMU1GVUxxYkdCb0NlMWs3d1hDZy1lM0s0ajhCeWVybmdhNS05REdKaW1ka05Hay1GcXJRb3Z0a3RpUm5xRTVYZmRwb3Y2WUx3ZWNtdUgyNUh2bFBPaTFYMTlqRmdtbm1ZR0dSMVliTDl0UVhSS1hDRzBnbmo1YlBYNmRhcDh1RlZTMDIzZkZFYWxoSkFzdC04anRtUmEtcDJubnNPandYZ2JZcWMxTTU2ZlU5dmZpQjhDMnV4THUyNmI1VzJvWEl5cENuamVVblczYjl5b3BuTWlJbTc5VG5fakk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1308,6 +1369,11 @@
         "time": "2026-05-11 18:10:00"
       },
       {
+        "title": "醫美偷拍案延燒　劉建國要求衛福部啟動全國稽查 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11UXppRlZ6cE9FQ1QzVnlhN0FobThSYk5ib3JSOXlCWnhQaUFPMnY3Q3pzVzg2cjBqQXpfc2p5Q3lKSW5IbXJ1TUlmNVZWemtHQVN2LUN4RjFkYXktNE5aRkdLc2xIUdIBa0FVX3lxTFBsUXFubVJqZmQxT2lVZnlxTXV0eEtneVBGbTRVRWRkZFEwUzlWVV9iUGZub0VGZ3BkdUNuejNCYWVQdWcwblFRNE9ONGY2dDdGUmJ5V3A0M21iTF9uUUZGczI5d0RnWWR3Y3Nv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-11 18:10:00"
+      },
+      {
         "title": "立委丁學忠張嘉郡許宇甄爭取雨水下水道經費 改善北港褒忠淹水問題 - 台灣民眾電子報",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pcVFMWU1ZN3NVZS1QZjA3dHRBY3JZTWVIakl0U2hTbWRBVDJhZVFFMUtwS1Vtanp2TFgtcGhWcTZ5QkVOcm5oRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-11 18:07:31"
@@ -1326,6 +1392,11 @@
         "title": "張嘉郡拋「斗六興建小巨蛋」引進大型百貨，串聯展演與生活圈 | 夏和宣 | 地方新聞 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFbTVwN0RlVy1zRjNtQllZNGU1bWJ3MVpoVWoydWhzWldVZl9ENzNnYzU4QzhLNm5OYVkwNFVtdzVVeVdsOTRwZTRPd0xudw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-11 15:15:46"
+      },
+      {
+        "title": "雲林縣長之爭張嘉郡拋「孵蛋」政見 劉建國關注職災問題 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQUHNuTEIxb2hJVVN3TElMeW1aQm1aanhURDQ1QTA1X2IwZTdRcjVvaVFyU2Uxc1JZeXNBOTIwejc4d1p3R2N0ZF9JLS1Ma1FKLXQ2cDRSZ0RHbXl3OTBKWC15X2xxQ21wNjZ2dnVaSFFnVzdRb0dyNGtqUkZWcVpVZHdWUjlhc0FUM2pBd25wRTM1bmhIbk5OYnhyWFF4QmhrRHFEYUl1LUNOQUV5Qmtka3o2ZldTbWlBbUNub19IM3JZcGpfMWhlR3RTb3hCRlpCamFjM0ZDc0hucVE5OW5lZDM0c3dKV1ZubEc4TzF4WWxrT21JSTNTaVNaQ0JnQjB3cjZGOVQ1M3VTU25XM1ZOdFNRX3lKOFgwbUtoN2UxVnpDY1hxR2Q1OW9RTFJxSklMV2ZuSmNYblRmZENrWWFFM3F4NWNaTHFlUEFOSkxaUGI4bjJyR2ltTkRUb0FzMEplUnNNR0J2N2hTb1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-11 15:14:07"
       },
       {
         "title": "宣布當選推蓋「雲林小巨蛋」 張嘉郡：6核心定位推動城市發展升級| 政治焦點 - 太報 TaiSounds",
@@ -1399,10 +1470,22 @@
         "url": "https://www.youtube.com/shorts/Ml472xOlunE",
         "time": "2026-05-11 15:22:43"
       }
+    ],
+    "facebook": [
+      {
+        "title": "醫美偷拍風暴擴大！ 劉建國怒轟衛福部慢半拍 「全國稽查刻不容緩」 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQcTlTRl80UlFRbGVEUVZGWXNIcWxQMWhTY3BSU1BGSFh6M1pfZ2FVbXAtZnZMcVlwMW5MNFVEMkdPMHB3Qlg3aUI3TmdPU3FFd2JNdlBpamxLVE8tZjdHSE1GTFFtc1hSdmQ3YWFPOTlHTzVVYlVFcC1kSU02VXJqMUJoOVVpTWJSLWhXb0JRYVlaM21GWFh2QjV6TS16RWdzaHlkOXZfNFFGS2poZU8xV3V2VEl4cy1RV0M3UlFZQkozX2thMWFVVTZ6WldsSWFzRXZnb1drMUhSMTdwRzhrZlZVbEM4RUxoQXowaFNsenpBSTU4OC1oY3lYX2tLTWJLYlhQVWhkSkpLMzkyUDhMcTV4STVIbmo5cmtXTHJIZDJGWDVoQUcxVmNzQno2UVRYZFBrV2FnRzhMWC1VdFJGekZ6VU90MFNTa0U0bGQ5SlRPeVlGVTNIYnNhY3pzMlZobVVoMGZEeVdmVl92WmRGaGVkWGNBMUF6SnlUaXc1Uk1rR1lyWTIwZ1hsQTFrdHdkQ196bHlGTGE2Nk84VzRubU4ycXBiQktVYk1NX3p3SQ",
+        "time": "2026-05-11 19:56:38"
+      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "醫美偷拍風暴擴大！劉建國怒轟衛福部慢半拍「全國稽查刻不容緩」 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNU3UzUnQ4YjRaUGtzM0dWaUtLR1lmdk43ZnpCTVQ2Ti1NWXpzeFVIU2pSSjhaSXJpdHByYmRGdXhVZnFwbkJhOE1jODVkNmlCSTM4SUdyel9SZTM3WWNSUVpRNVgzUS1HVVJoeHFQQ2oxdEdSYXJqQkxXY2oyaC1OOE9SNzZhUjVGWjNWVkVpRmFKLXVrZ2hTZFVrbTMwZzZFN3JUWFJybE9YOTc2RU9ZYng1R19Cc0JicG1tRGZNc1pCOTd1YnNrNk5xSWczWFRTcUh2OHJuWFFmR0xhUWZHbmFZakFBTmhENGQtRzNvWnE5NXFFbmNhZFROZHFyYWkzbzI1NVNHZXJmZDlObkVwdzdFS0hremZSUC1maGdHd1BFWnk1M0YzcW9xc3NOa1FmSExyejNxVTNrSER3Uk41eDFDR0tUSHhZZU5Sc0VYOGZmUFVOVjFhWWJHVXBKdFNmSGEyaUkzaGxTQ1hiMzdMOHVnenpESURnQnd3U3pJekl4ZjRNakdPWjhkTGdUbU9jX3pxNzJBcGpBdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-11 19:53:00"
+      },
       {
         "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPWmd2NTlod1hwd0dTbjhvTDQ2T1kzZUpnV2ZWRHRVbm1CYWp2SnRVenRJdzEzMHBVMVFqOVV1QWxKd19XaWZQQzZBaEU5T3BmQWNNamE3U3hMa1Y5b1BISUhoWFlVVk9LYU1YMExUZ2VCNWN1UVZtM1drNk9jd0lWVDVUMV84SHpzLUhZNmJRT0U1bVlYUHlRSk1Wc290Q2lTM3ZCWnRjMU1GVUxxYkdCb0NlMWs3d1hDZy1lM0s0ajhCeWVybmdhNS05REdKaW1ka05Hay1GcXJRb3Z0a3RpUm5xRTVYZmRwb3Y2WUx3ZWNtdUgyNUh2bFBPaTFYMTlqRmdtbm1ZR0dSMVliTDl0UVhSS1hDRzBnbmo1YlBYNmRhcDh1RlZTMDIzZkZFYWxoSkFzdC04anRtUmEtcDJubnNPandYZ2JZcWMxTTU2ZlU5dmZpQjhDMnV4THUyNmI1VzJvWEl5cENuamVVblczYjl5b3BuTWlJbTc5VG5fakk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1424,6 +1507,11 @@
         "time": "2026-05-11 18:10:00"
       },
       {
+        "title": "醫美偷拍案延燒　劉建國要求衛福部啟動全國稽查 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11UXppRlZ6cE9FQ1QzVnlhN0FobThSYk5ib3JSOXlCWnhQaUFPMnY3Q3pzVzg2cjBqQXpfc2p5Q3lKSW5IbXJ1TUlmNVZWemtHQVN2LUN4RjFkYXktNE5aRkdLc2xIUdIBa0FVX3lxTFBsUXFubVJqZmQxT2lVZnlxTXV0eEtneVBGbTRVRWRkZFEwUzlWVV9iUGZub0VGZ3BkdUNuejNCYWVQdWcwblFRNE9ONGY2dDdGUmJ5V3A0M21iTF9uUUZGczI5d0RnWWR3Y3Nv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-11 18:10:00"
+      },
+      {
         "title": "立委丁學忠張嘉郡許宇甄爭取雨水下水道經費 改善北港褒忠淹水問題 - 台灣民眾電子報",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pcVFMWU1ZN3NVZS1QZjA3dHRBY3JZTWVIakl0U2hTbWRBVDJhZVFFMUtwS1Vtanp2TFgtcGhWcTZ5QkVOcm5oRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-11 18:07:31"
@@ -1442,6 +1530,11 @@
         "title": "張嘉郡拋「斗六興建小巨蛋」引進大型百貨，串聯展演與生活圈 | 夏和宣 | 地方新聞 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFbTVwN0RlVy1zRjNtQllZNGU1bWJ3MVpoVWoydWhzWldVZl9ENzNnYzU4QzhLNm5OYVkwNFVtdzVVeVdsOTRwZTRPd0xudw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-11 15:15:46"
+      },
+      {
+        "title": "雲林縣長之爭張嘉郡拋「孵蛋」政見 劉建國關注職災問題 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQUHNuTEIxb2hJVVN3TElMeW1aQm1aanhURDQ1QTA1X2IwZTdRcjVvaVFyU2Uxc1JZeXNBOTIwejc4d1p3R2N0ZF9JLS1Ma1FKLXQ2cDRSZ0RHbXl3OTBKWC15X2xxQ21wNjZ2dnVaSFFnVzdRb0dyNGtqUkZWcVpVZHdWUjlhc0FUM2pBd25wRTM1bmhIbk5OYnhyWFF4QmhrRHFEYUl1LUNOQUV5Qmtka3o2ZldTbWlBbUNub19IM3JZcGpfMWhlR3RTb3hCRlpCamFjM0ZDc0hucVE5OW5lZDM0c3dKV1ZubEc4TzF4WWxrT21JSTNTaVNaQ0JnQjB3cjZGOVQ1M3VTU25XM1ZOdFNRX3lKOFgwbUtoN2UxVnpDY1hxR2Q1OW9RTFJxSklMV2ZuSmNYblRmZENrWWFFM3F4NWNaTHFlUEFOSkxaUGI4bjJyR2ltTkRUb0FzMEplUnNNR0J2N2hTb1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-11 15:14:07"
       },
       {
         "title": "宣布當選推蓋「雲林小巨蛋」 張嘉郡：6核心定位推動城市發展升級| 政治焦點 - 太報 TaiSounds",
@@ -1587,21 +1680,6 @@
         "title": "台美協定恐衝擊雲林花生農 張嘉郡批黑箱：國產需求恐減1.6 萬公噸 - MSN",
         "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNVFVvMUc4WUk2Tlkzb19jU3hQTjBvcEpPbEhLQUc5Y0VlU3Vqb0l3RE9feDB5M2YwbDg0XzE3eVVqUVp4eGY2eFJkeVlpRkJhdDk3aFV5d2I5OWlTZ3dvSTBoa1BLeE81RG85THVmTU05S1pRN0JHbGEtUEY5bTV4a0NPVERIa01zOWVtTzZQR3dxakwwXy1HR09NUExPVXVDbXNhM3lYekNnX19vMEtrSVlOT2oyNF9UM2llTXdOUDFKRlZISk9ybWRUZ1dqQlNzQWs5OFppYjg5Y3A4aVBGU1hrZXRkaHhzN05WVS0ydUlTNmVfczYtSHQzWVVFMzFRYlljbGl0djlOX3BkV0VHcTd2SGNhbHp1d3NkcHRDMkNGRW5MNlJyX2dmSWlZVDl4b0FxRUJ0QXE1MU5jZnZnWUlUQVB1ZmFNbG5MbThRNU4zNUtzcGhDYmNwOTJJYlEzSDZIelV4a1A2MXZsMUFjVkdMY2FqY1puY2QxSTA4QjlSR3BsRU9aWk1DNjdiVXQzUEtJc0xvNkcwbVpsRHAxTm9IeF82UDdn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-07 13:37:24"
-      },
-      {
-        "title": "拒絕極端降雨威脅！張嘉郡爭取雲林「2.3 億防洪經費」，19案應急工程初審同意| 夏和宣| 地方新聞 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oTUs5Qk5Oc3hmMWFPUFFIYnZ2djlCNG5idVRqUG0zTXJ2d1VLNTlzak1UMS13ZVNuXzM2RWVJZnRaUGtoTnBIcERKNTRJdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-07 13:18:15"
-      },
-      {
-        "title": "爭取2.39億防洪經費 立委張嘉郡邀水利署會勘雲林治水工程 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPTWRNRS1GY1dQOGc5emZzZFFxd0lha1E5U1JyUGY5N3E5RUx2VWFNcVFEbmJiSmQ1djlCQVNTRjZWUjJyc2l0MXZuT0ZfQjlONWx2WjQ4aEk3VTA5QkIyNXo4RjBQNGdpcEg4eE5VVnVYaExNV1ZHQlB3Q29VakJQTmJmaTRYb0ljemsxbk5aLXgwb0REUDZudHlTS210WGhneUlkZWluNk9MYi0zYmhjazE3NE0yaXNLcjVQM2U1QUlWTkVsUW5nR0tnWFB3VndZYVRQUkxReGNFeUhacG51dVZ4U3NQVm1lMGVhUjg0dktQcUlsT1M2ZXNZNU9CbThkZGZxWnhWMGpBNmlEZ1g4MThYMTZoWkNVUm9UX3Y4M0pSeGNfS1lzTmo4M0p3czBlYW92UHVxSkU4XzdZNmlUb04yLVVuUG5zOEZRb3hnZFRTb01LejROaGI2RHltSFBNSWxUbzVPbXpiSHNRdTlnQWtCSERRQlZhVWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-07 13:06:42"
-      },
-      {
-        "title": "爭取逾2億治水經費 張嘉郡推雲林10鄉鎮19案應急工程過初審 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNMzh6UEJ6YzlueXBEYVdWbk5nb19IT2hFenVRMGNVcnBWRHpxa2Q2N1U5XzBfZlUtRjB6SzZVUzN2R3d6ZmRFMWRIVDFzNEQ2SUtiM3NKZENhcEhfMnhka3NWMWhKME1EV2VWQndOWnFCN2ZWTFp1ZHZkSUdtQ2MwYVVjWFJhVUpzOS0xbGtiekt1UmFnMUxlcU80ajVXRk0tSzZhV0pCTlEtQ1VlRjJMcl9CNU9QemZQODktNHRhWlo2amd2WEowaGtnLXp3OUFUUFdiVUJxTDBwa3FHN3Q3bjN2cEltRXRpVm5wWVdlaFUxT1Q2MzI2ZEdMZVloMWVJWVpXeVZMRHFuOHVFekJPb3RNb1U4bkhQZWF4WEt0ZGpVd296MUl3Vzd3YUxyUXUwYVRFYkRpQWRCcHlUTTU5UlBNZnR5RTZNM0xicGlDNUc5MnI0b3pBNWJTOHBic19MNUtSeVhMcndzRzdqVWVXMV9NUjZPdGFUZEVj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-07 12:37:55"
       }
     ],
     "youtube": [
@@ -1698,6 +1776,11 @@
     ],
     "facebook": [
       {
+        "title": "醫美偷拍風暴擴大！ 劉建國怒轟衛福部慢半拍 「全國稽查刻不容緩」 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQcTlTRl80UlFRbGVEUVZGWXNIcWxQMWhTY3BSU1BGSFh6M1pfZ2FVbXAtZnZMcVlwMW5MNFVEMkdPMHB3Qlg3aUI3TmdPU3FFd2JNdlBpamxLVE8tZjdHSE1GTFFtc1hSdmQ3YWFPOTlHTzVVYlVFcC1kSU02VXJqMUJoOVVpTWJSLWhXb0JRYVlaM21GWFh2QjV6TS16RWdzaHlkOXZfNFFGS2poZU8xV3V2VEl4cy1RV0M3UlFZQkozX2thMWFVVTZ6WldsSWFzRXZnb1drMUhSMTdwRzhrZlZVbEM4RUxoQXowaFNsenpBSTU4OC1oY3lYX2tLTWJLYlhQVWhkSkpLMzkyUDhMcTV4STVIbmo5cmtXTHJIZDJGWDVoQUcxVmNzQno2UVRYZFBrV2FnRzhMWC1VdFJGekZ6VU90MFNTa0U0bGQ5SlRPeVlGVTNIYnNhY3pzMlZobVVoMGZEeVdmVl92WmRGaGVkWGNBMUF6SnlUaXc1Uk1rR1lyWTIwZ1hsQTFrdHdkQ196bHlGTGE2Nk84VzRubU4ycXBiQktVYk1NX3p3SQ",
+        "time": "2026-05-11 19:56:38"
+      },
+      {
         "title": "這幾天，建國與多位公職及團隊走訪各市場、社區與活動，親手送上康乃馨，向每一位為家庭辛苦打拚的媽媽們送上祝福～ 來到莿桐參加模範母親表揚活動，看著一位位媽媽站上舞台，真的很感動。媽媽總是默默付出，把一家人的大小事放在心上，撐起一個家庭的溫暖與 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxPTVFnZFRyUUw5RDlNRVU1LXpDYXNzTS16OXY4OWFUeVN4aENEU2lVcWFJUDVvWDNNNWs0MU45eER0T1I2YjItdVdtTGwyNG9PaWJLTWkzbkZaZ0VOMXJhZnR6S3JMWjR1Y0c0ZXBMaU5ORWpRZEdWWi00NHYzYkRVNkhjdHFXQlI2S1ZJT3BwOHQzeGtmejYxUXhwZFhMaWlNdjZLQWNtRy1RTmFzSnZXakpENDRudlhtMVk0YnVNVVduVWdxZkQ1SEotLXdieHRSdVpsaGN6dkNQSnpxUi13Wno1NUlCeVgyU240cWNzenhjWUwxd2l0eERyajlyS1gwemlKTGsxTmpUcXRIRGx1NjRTU3pOZEQ1YjloUklqdDFYbEpvSlc5OVp3VDhKYlBDNWE3X19Dc2ctTFMyY0U3c2czSlQwUi1wdjdJUUY3YTdrOEFveUpTWWo3YWc1b3ZFZXNqU2VvbklRV05jVk5mMExZUlFZVUMwQjliTWtKbjlCT05aSURzcllCSmlMbldjY2doMmYteHh3cklnRVQxT0NOYmxnUmFlTVdXQkRWX3NFWUNjWVdUdllZT0ItRHhOU3ZZYXpmLThWRDl6UUxoaW5DUHRjRDN1Z3o0WjRjaU5ucmQ3bE1iQUZ0LWRKc1lzU2Q1YjctUEhWcGdCdzBybEtBWWl5bGM2TXZmOE1wR3h2aExHVUw2bVlTMlE3dkdhRGRWODdyYTFiaktNYUFfdFVySTRWNE1UMXNibXRyWHNxTHpRV2YwWm1lb3pybUh1NmEwV05hWUhJdU52UFV3Q3BPejVVWjdweFFNLW1STUV1dUFXcjg1ZUl5dUExcnkyU0Y0T2pUNGhHZmZVUHl6dnlpRHpyZWRPSlo3YXFnczBnQmZ2MkJSaHpnV0Eya3JpbVdWRko5Wms4cUpxZV81SlNsQmNJWEtqNWxnSUozWk5xNzV2bG5jVjZJdW1mVWhmczRIT3NHVDhlYkhuWWJNbTIydDlvclFDQm1OSVJjaUJVQlB6d2ZwdFd3d1lQckZQVmxuczFCT1JPTHNnTHJhUFJmR29LVWpoSU1veFJBeGQ5cVRGQXpmRWFfYWxIcUZJY0xPMTNxRlgzT2RLT2NvNmJNVGpuMFRxOGNQTWxNOGZZajlJbzZjVm9QcnM4UTFUa1FmcFd0Y29mWUZYYzFBY3kxZkVtVEZBdWtPX2h2SXBtX1pfVUtpRjZWQWVPRFJ5TDNIUFNJdmt2Skt0Zm0zY0FyelhQUDQzTW1na0gwdmw1TXRmcGpXejVxNmIwWHBuc0FONUEwRk12NEt4R0R0czdSb182d1JpdHE3bkVYVVJMVTRxU1RDdGJVVC1jaXdIZ21aRGRJQ1M1RnRvTkp4X2RteFY1M3dwZVNtalhJQzhJWGotZ2Y3dE1TamdHME0",
         "time": "2026-05-10 18:40:47"
@@ -1774,6 +1857,20 @@
     "hour": [],
     "day": [
       {
+        "title": "醫美偷拍風暴擴大！ 劉建國怒轟衛福部慢半拍 「全國稽查刻不容緩」 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQcTlTRl80UlFRbGVEUVZGWXNIcWxQMWhTY3BSU1BGSFh6M1pfZ2FVbXAtZnZMcVlwMW5MNFVEMkdPMHB3Qlg3aUI3TmdPU3FFd2JNdlBpamxLVE8tZjdHSE1GTFFtc1hSdmQ3YWFPOTlHTzVVYlVFcC1kSU02VXJqMUJoOVVpTWJSLWhXb0JRYVlaM21GWFh2QjV6TS16RWdzaHlkOXZfNFFGS2poZU8xV3V2VEl4cy1RV0M3UlFZQkozX2thMWFVVTZ6WldsSWFzRXZnb1drMUhSMTdwRzhrZlZVbEM4RUxoQXowaFNsenpBSTU4OC1oY3lYX2tLTWJLYlhQVWhkSkpLMzkyUDhMcTV4STVIbmo5cmtXTHJIZDJGWDVoQUcxVmNzQno2UVRYZFBrV2FnRzhMWC1VdFJGekZ6VU90MFNTa0U0bGQ5SlRPeVlGVTNIYnNhY3pzMlZobVVoMGZEeVdmVl92WmRGaGVkWGNBMUF6SnlUaXc1Uk1rR1lyWTIwZ1hsQTFrdHdkQ196bHlGTGE2Nk84VzRubU4ycXBiQktVYk1NX3p3SQ",
+        "time": "2026-05-11 19:56:38",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
+        "title": "醫美偷拍風暴擴大！劉建國怒轟衛福部慢半拍「全國稽查刻不容緩」 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNU3UzUnQ4YjRaUGtzM0dWaUtLR1lmdk43ZnpCTVQ2Ti1NWXpzeFVIU2pSSjhaSXJpdHByYmRGdXhVZnFwbkJhOE1jODVkNmlCSTM4SUdyel9SZTM3WWNSUVpRNVgzUS1HVVJoeHFQQ2oxdEdSYXJqQkxXY2oyaC1OOE9SNzZhUjVGWjNWVkVpRmFKLXVrZ2hTZFVrbTMwZzZFN3JUWFJybE9YOTc2RU9ZYng1R19Cc0JicG1tRGZNc1pCOTd1YnNrNk5xSWczWFRTcUh2OHJuWFFmR0xhUWZHbmFZakFBTmhENGQtRzNvWnE5NXFFbmNhZFROZHFyYWkzbzI1NVNHZXJmZDlObkVwdzdFS0hremZSUC1maGdHd1BFWnk1M0YzcW9xc3NOa1FmSExyejNxVTNrSER3Uk41eDFDR0tUSHhZZU5Sc0VYOGZmUFVOVjFhWWJHVXBKdFNmSGEyaUkzaGxTQ1hiMzdMOHVnenpESURnQnd3U3pJekl4ZjRNakdPWjhkTGdUbU9jX3pxNzJBcGpBdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-11 19:53:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPWmd2NTlod1hwd0dTbjhvTDQ2T1kzZUpnV2ZWRHRVbm1CYWp2SnRVenRJdzEzMHBVMVFqOVV1QWxKd19XaWZQQzZBaEU5T3BmQWNNamE3U3hMa1Y5b1BISUhoWFlVVk9LYU1YMExUZ2VCNWN1UVZtM1drNk9jd0lWVDVUMV84SHpzLUhZNmJRT0U1bVlYUHlRSk1Wc290Q2lTM3ZCWnRjMU1GVUxxYkdCb0NlMWs3d1hDZy1lM0s0ajhCeWVybmdhNS05REdKaW1ka05Hay1GcXJRb3Z0a3RpUm5xRTVYZmRwb3Y2WUx3ZWNtdUgyNUh2bFBPaTFYMTlqRmdtbm1ZR0dSMVliTDl0UVhSS1hDRzBnbmo1YlBYNmRhcDh1RlZTMDIzZkZFYWxoSkFzdC04anRtUmEtcDJubnNPandYZ2JZcWMxTTU2ZlU5dmZpQjhDMnV4THUyNmI1VzJvWEl5cENuamVVblczYjl5b3BuTWlJbTc5VG5fakk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-11 19:17:21",
@@ -1804,6 +1901,13 @@
       {
         "title": "醫美偷拍案延燒 劉建國要求衛福部啟動全國稽查 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQXzdsaktyVzUtYkZZaFAzaV9vaG1OeUNwM2VKUzBUb2JnSmtEWThkVkNaT2tqdXptN2MybVdXb21NVnVwZGJHV1Yzci05ajB4Qkp1REZJellQLVV0M0RGVm41dE1ydXBVay1xS0djZ2pBVnB0X2NwZVZKUVhiWlA2clRsMjJBbnRLRnE2OWdOQ0NTbnZURUJoMW1DYkNkLVFqVUNQZU93QUpOcWwtUE5oc3RXRjJETk45Y0ZHTjFGR2d5VVB4QjVYQlJzSFgtaUZhYk9kVVg0eUhiWDFOTDJpanJfOC1OZkNodHlCRWY0TjMzdE90ajBmWHk1WHpLdncwbHBOMFdldGdUSjBHTTRLQnlCWGE5Yk1CSElpcUZBM2JpYUw5M1V2N3Q3VEE3MWY2cUhaRU9tVTBhcTZXQ0V6VFRCR3dZb0t1M3o1X2hzT0o?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-11 18:10:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "醫美偷拍案延燒　劉建國要求衛福部啟動全國稽查 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11UXppRlZ6cE9FQ1QzVnlhN0FobThSYk5ib3JSOXlCWnhQaUFPMnY3Q3pzVzg2cjBqQXpfc2p5Q3lKSW5IbXJ1TUlmNVZWemtHQVN2LUN4RjFkYXktNE5aRkdLc2xIUdIBa0FVX3lxTFBsUXFubVJqZmQxT2lVZnlxTXV0eEtneVBGbTRVRWRkZFEwUzlWVV9iUGZub0VGZ3BkdUNuejNCYWVQdWcwblFRNE9ONGY2dDdGUmJ5V3A0M21iTF9uUUZGczI5d0RnWWR3Y3Nv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-11 18:10:00",
         "platform": "news",
         "risk": "綠"
@@ -1840,6 +1944,13 @@
         "title": "張嘉郡拋「斗六興建小巨蛋」引進大型百貨，串聯展演與生活圈 | 夏和宣 | 地方新聞 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFbTVwN0RlVy1zRjNtQllZNGU1bWJ3MVpoVWoydWhzWldVZl9ENzNnYzU4QzhLNm5OYVkwNFVtdzVVeVdsOTRwZTRPd0xudw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-11 15:15:46",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "雲林縣長之爭張嘉郡拋「孵蛋」政見 劉建國關注職災問題 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQUHNuTEIxb2hJVVN3TElMeW1aQm1aanhURDQ1QTA1X2IwZTdRcjVvaVFyU2Uxc1JZeXNBOTIwejc4d1p3R2N0ZF9JLS1Ma1FKLXQ2cDRSZ0RHbXl3OTBKWC15X2xxQ21wNjZ2dnVaSFFnVzdRb0dyNGtqUkZWcVpVZHdWUjlhc0FUM2pBd25wRTM1bmhIbk5OYnhyWFF4QmhrRHFEYUl1LUNOQUV5Qmtka3o2ZldTbWlBbUNub19IM3JZcGpfMWhlR3RTb3hCRlpCamFjM0ZDc0hucVE5OW5lZDM0c3dKV1ZubEc4TzF4WWxrT21JSTNTaVNaQ0JnQjB3cjZGOVQ1M3VTU25XM1ZOdFNRX3lKOFgwbUtoN2UxVnpDY1hxR2Q1OW9RTFJxSklMV2ZuSmNYblRmZENrWWFFM3F4NWNaTHFlUEFOSkxaUGI4bjJyR2ltTkRUb0FzMEplUnNNR0J2N2hTb1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-11 15:14:07",
         "platform": "news",
         "risk": "綠"
       },
@@ -1884,34 +1995,6 @@
         "time": "2026-05-11 14:00:28",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "雲林縣長選戰拚政見 張嘉郡推「小巨蛋」、劉建國關心農業及勞工 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXemxqWVlDZWRPc1hTSjNLWWtWUncyaGJUUjdjN1JOLUZsZUNUUnA4MUxUUDd4N29vT0JVMVFUTUVzN0dfYWNMWXhfUkEwS0hYb0ZCdFgyU1N2dGthMHluY0JES0xfZFFHU0xmRNIBbEFVX3lxTFBXemxqWVlDZWRPc1hTSjNLWWtWUncyaGJUUjdjN1JOLUZsZUNUUnA4MUxUUDd4N29vT0JVMVFUTUVzN0dfYWNMWXhfUkEwS0hYb0ZCdFgyU1N2dGthMHluY0JES0xfZFFHU0xmRA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-11 14:00:28",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "雲林也要孵蛋 張嘉郡拋小巨蛋政見打造運動、演藝新地標 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNTURNY0hRa2JYSVNLWERYZVNxOVpnVFFxU184a3pUV3F0ckNnaTVQcmlvaUstUHNMOE12alVOUWRyeVhsYVhKLUJvQlFzeUpVX3A2b29xSlVCVmNyU3hjNXFRdnVqSUw0THQ1bnZ4SW8tTTlfUnRYMUxLbFNPcWVjRmVuR1kzUWxyMXBGemJHUW1DV2VKQ3NKZjZnTmRMWTl4ZUtUbEpkMWFfUlZlWm0tdU40dG5pOTVPdW1hRDRXRjBmWFZJWDd4ZnppeURmWEtlZkN6OGVQVFV5c05Eby1lSXloTW1Ga1Myd2FTdzcwQlYtTFpuVlRDQzlhWlNLZzBsdlBhTUdRYXgwWVh4YUJHb0VPNWZJaUlRdUYtVXVQdXpicFE2MzVDYjV6NThsSXl3UlNnUlhCUlpYUWxUdDRNTnRCNmFIU0tReTJreTg2ZDBnblBYT3RKMDFhZWJieHIzSlp4dzZjMGo2YXJ5TXktYk9OQnRNUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-11 12:53:15",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "雲林也要孵蛋 張嘉郡拋小巨蛋政見打造運動、 演藝新地標 - 匯流新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE81OEp5dVc4UUdHNG5tLUhwcjdzbjFyMWViRW94WHFhdksxSmJmWU9zdTdJM2tSeEdRcy14aDdJSi05MGVoN2c5blNn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-11 12:40:59",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "張嘉郡拋斗六「孵蛋」！打造運動、演藝、電競多功能場館 - NOWnews今日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MVThrNVNmTkx3NmoyZFRYVThORWZVS2F1cExNUUdyemNVbW1OSWg4ZHoyeVgtUVpWdTQxYnNFZ2k3aFBfRm1OcG5EVEHSAVJBVV95cUxPRWtmbUFuSTJDZnpkQzU1V21CWk5SM2dmU2NfYVRKWF9aY25nYVBqb19iR0luQ0NlSWtpdUFCVjI1S0xmZTBsbm54NFl5eUdPZ3dR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-11 11:37:40",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -1919,7 +2002,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 13
+        "count": 14
       },
       {
         "name": "斗六",
