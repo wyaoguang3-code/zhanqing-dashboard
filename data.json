@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-14T12:39:26.092709+00:00",
+  "generated_at": "2026-05-14T12:54:41.825586+00:00",
   "metrics": {
-    "total_24h": 11,
-    "prev_24h": 14,
-    "growth_pct": -21.43,
-    "news_24h": 10,
+    "total_24h": 14,
+    "prev_24h": 12,
+    "growth_pct": 16.67,
+    "news_24h": 12,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 127,
-    "prev": 81,
-    "growth_pct": 56.79,
-    "news": 94,
+    "total": 130,
+    "prev": 80,
+    "growth_pct": 62.5,
+    "news": 96,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,17 +28,17 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 10
+      "count": 12
     },
     {
       "platform": "youtube",
-      "count": 1
+      "count": 2
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 94
+      "count": 96
     },
     {
       "platform": "facebook",
@@ -46,7 +46,7 @@
     },
     {
       "platform": "youtube",
-      "count": 9
+      "count": 10
     }
   ],
   "by_hour": [
@@ -68,11 +68,11 @@
     },
     {
       "hour": "2026-05-14 18:00",
-      "count": 3
+      "count": 4
     },
     {
       "hour": "2026-05-14 19:00",
-      "count": 1
+      "count": 3
     }
   ],
   "by_hour_7d": [
@@ -286,21 +286,26 @@
     },
     {
       "hour": "2026-05-14 18:00",
-      "count": 3
+      "count": 4
     },
     {
       "hour": "2026-05-14 19:00",
-      "count": 1
+      "count": 3
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 9
+      "count": 11
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國籲社工導入AI系統 減輕第一線文書工作負擔 | 觀傳媒 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kaUFqVGRYWWtkekxJZkcwNzJNVHUtQld0ZFZlbWczWW1jY0EzcDZxQ1lYSzhEOWc0UnQybC1Wa2ZBVURhMS1ZRmt4eGVKZkRYSUF2YTV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 19:48:45"
+      },
       {
         "title": "張嘉郡拋雲林小巨蛋政見 斗六打造多功能城市新地標 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNWHczc1YtMEl3S3lRMF91S1hDcFY0RkQtVm8xd2VpY1lCcHkxaDdTWG5UdGl0ZFlWS2MzVFNWMUY3Y1pSUTQ4Qk1UT2RYM0NpMGxHWFVTVXdoempLNGRVT1hWQ1F6dTFuVjVxUTlHTDhuY2dwUnFQeGFJbzh5WGFlTld6dFZrUy1VckVJbHkzQ1pvTXVmcUlHcElVbUwyLUVFQnp0c3ZvRjRBN2xvdEJ2VHp0bkFMMVNOVmNxaTE4eElYZVZaUjQyVkxpOTRmVUFoN0NXZjdpcGN2ZWxyeXZVVG0wM3pJbnBZRWlMLXR6QmhpNnBodHlqcnE2aWtwQUtOZVROeGhuWGwxZ2VoYnNwWlNFX19SbGNUeUdlSnpxYmNQNDVjc1NPT3NTMDBaeGNDcnVfZGJ4VEtpNTNiLUJnSjJJWlNjLUtrZV9Gc1l4aHFENkUzaWJIZW5heG5RX3hDRzZhVnMxdU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -309,6 +314,11 @@
       {
         "title": "劉建國籲社工導入AI系統 減輕第一線文書工作負擔 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQNEdseTEybE5nQTRNeGFHTFFIeWZqOFNMOEhkeEEwNU5WeWx2bnVJeGQ2U280SFhqTnR1QmNpQVY5ejdQbjRObEJfbW1ES1pQdm1GRUhDSkFHcExtMXZzOUlzRkxhb0hYSmNlMlQ1eHNhdFFCN1J6aFc1T0tGNU5KVWR4bnFWQi1OdzFxSVpBdXppY1pVcTdndDViSFJYVHgzTUgzWUE3LUtseFM3V1ZtZzFBUmFtUTVZRy1Idy1KNmVSSUlYeVl3ek8xUDZFOUVGVk1GN2tJU1lKVm0wOW5ENkJmZk9nSTV6ZVotQ3hBcEhzRkt5czVkQUJ4VFloUTFBYjl2ZUVFWFpoTFk3cmFwZlRGN0NLR0cwdDVvTS1ydHd1cnZ6bE41WUg3d1Y2M21CN3RCM3NnS3RMSkMyWWZEZG9uZzc4dF9f?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 18:59:26"
+      },
+      {
+        "title": "張嘉郡拋雲林小巨蛋政見 斗六打造多功能城市新地標 - 觀傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1YVBzNlNKOUtIVVozNUYwWlc2Z0FzUW5lLWI1ekkxWTZpSjRScFFFS0FVczJwSl9BeVJZN1MxZndWNHFYcnlQSHZJaC1PV2dwTGE2X0dLdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-14 18:59:26"
       },
       {
@@ -351,11 +361,16 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 9
+      "count": 11
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國籲社工導入AI系統 減輕第一線文書工作負擔 | 觀傳媒 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kaUFqVGRYWWtkekxJZkcwNzJNVHUtQld0ZFZlbWczWW1jY0EzcDZxQ1lYSzhEOWc0UnQybC1Wa2ZBVURhMS1ZRmt4eGVKZkRYSUF2YTV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 19:48:45"
+      },
       {
         "title": "張嘉郡拋雲林小巨蛋政見 斗六打造多功能城市新地標 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNWHczc1YtMEl3S3lRMF91S1hDcFY0RkQtVm8xd2VpY1lCcHkxaDdTWG5UdGl0ZFlWS2MzVFNWMUY3Y1pSUTQ4Qk1UT2RYM0NpMGxHWFVTVXdoempLNGRVT1hWQ1F6dTFuVjVxUTlHTDhuY2dwUnFQeGFJbzh5WGFlTld6dFZrUy1VckVJbHkzQ1pvTXVmcUlHcElVbUwyLUVFQnp0c3ZvRjRBN2xvdEJ2VHp0bkFMMVNOVmNxaTE4eElYZVZaUjQyVkxpOTRmVUFoN0NXZjdpcGN2ZWxyeXZVVG0wM3pJbnBZRWlMLXR6QmhpNnBodHlqcnE2aWtwQUtOZVROeGhuWGwxZ2VoYnNwWlNFX19SbGNUeUdlSnpxYmNQNDVjc1NPT3NTMDBaeGNDcnVfZGJ4VEtpNTNiLUJnSjJJWlNjLUtrZV9Gc1l4aHFENkUzaWJIZW5heG5RX3hDRzZhVnMxdU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -364,6 +379,11 @@
       {
         "title": "劉建國籲社工導入AI系統 減輕第一線文書工作負擔 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQNEdseTEybE5nQTRNeGFHTFFIeWZqOFNMOEhkeEEwNU5WeWx2bnVJeGQ2U280SFhqTnR1QmNpQVY5ejdQbjRObEJfbW1ES1pQdm1GRUhDSkFHcExtMXZzOUlzRkxhb0hYSmNlMlQ1eHNhdFFCN1J6aFc1T0tGNU5KVWR4bnFWQi1OdzFxSVpBdXppY1pVcTdndDViSFJYVHgzTUgzWUE3LUtseFM3V1ZtZzFBUmFtUTVZRy1Idy1KNmVSSUlYeVl3ek8xUDZFOUVGVk1GN2tJU1lKVm0wOW5ENkJmZk9nSTV6ZVotQ3hBcEhzRkt5czVkQUJ4VFloUTFBYjl2ZUVFWFpoTFk3cmFwZlRGN0NLR0cwdDVvTS1ydHd1cnZ6bE41WUg3d1Y2M21CN3RCM3NnS3RMSkMyWWZEZG9uZzc4dF9f?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 18:59:26"
+      },
+      {
+        "title": "張嘉郡拋雲林小巨蛋政見 斗六打造多功能城市新地標 - 觀傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1YVBzNlNKOUtIVVozNUYwWlc2Z0FzUW5lLWI1ekkxWTZpSjRScFFFS0FVczJwSl9BeVJZN1MxZndWNHFYcnlQSHZJaC1PV2dwTGE2X0dLdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-14 18:59:26"
       },
       {
@@ -404,14 +424,19 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 1,
-    "劉建國": 8
+    "張嘉郡": 2,
+    "劉建國": 9
   },
   "mention_compare_7d": {
-    "張嘉郡": 52,
-    "劉建國": 48
+    "張嘉郡": 53,
+    "劉建國": 49
   },
   "top_news": [
+    {
+      "title": "劉建國籲社工導入AI系統 減輕第一線文書工作負擔 | 觀傳媒 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kaUFqVGRYWWtkekxJZkcwNzJNVHUtQld0ZFZlbWczWW1jY0EzcDZxQ1lYSzhEOWc0UnQybC1Wa2ZBVURhMS1ZRmt4eGVKZkRYSUF2YTV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-14 19:48:45"
+    },
     {
       "title": "張嘉郡拋雲林小巨蛋政見 斗六打造多功能城市新地標 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNWHczc1YtMEl3S3lRMF91S1hDcFY0RkQtVm8xd2VpY1lCcHkxaDdTWG5UdGl0ZFlWS2MzVFNWMUY3Y1pSUTQ4Qk1UT2RYM0NpMGxHWFVTVXdoempLNGRVT1hWQ1F6dTFuVjVxUTlHTDhuY2dwUnFQeGFJbzh5WGFlTld6dFZrUy1VckVJbHkzQ1pvTXVmcUlHcElVbUwyLUVFQnp0c3ZvRjRBN2xvdEJ2VHp0bkFMMVNOVmNxaTE4eElYZVZaUjQyVkxpOTRmVUFoN0NXZjdpcGN2ZWxyeXZVVG0wM3pJbnBZRWlMLXR6QmhpNnBodHlqcnE2aWtwQUtOZVROeGhuWGwxZ2VoYnNwWlNFX19SbGNUeUdlSnpxYmNQNDVjc1NPT3NTMDBaeGNDcnVfZGJ4VEtpNTNiLUJnSjJJWlNjLUtrZV9Gc1l4aHFENkUzaWJIZW5heG5RX3hDRzZhVnMxdU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -420,6 +445,11 @@
     {
       "title": "劉建國籲社工導入AI系統 減輕第一線文書工作負擔 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQNEdseTEybE5nQTRNeGFHTFFIeWZqOFNMOEhkeEEwNU5WeWx2bnVJeGQ2U280SFhqTnR1QmNpQVY5ejdQbjRObEJfbW1ES1pQdm1GRUhDSkFHcExtMXZzOUlzRkxhb0hYSmNlMlQ1eHNhdFFCN1J6aFc1T0tGNU5KVWR4bnFWQi1OdzFxSVpBdXppY1pVcTdndDViSFJYVHgzTUgzWUE3LUtseFM3V1ZtZzFBUmFtUTVZRy1Idy1KNmVSSUlYeVl3ek8xUDZFOUVGVk1GN2tJU1lKVm0wOW5ENkJmZk9nSTV6ZVotQ3hBcEhzRkt5czVkQUJ4VFloUTFBYjl2ZUVFWFpoTFk3cmFwZlRGN0NLR0cwdDVvTS1ydHd1cnZ6bE41WUg3d1Y2M21CN3RCM3NnS3RMSkMyWWZEZG9uZzc4dF9f?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-14 18:59:26"
+    },
+    {
+      "title": "張嘉郡拋雲林小巨蛋政見 斗六打造多功能城市新地標 - 觀傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1YVBzNlNKOUtIVVozNUYwWlc2Z0FzUW5lLWI1ekkxWTZpSjRScFFFS0FVczJwSl9BeVJZN1MxZndWNHFYcnlQSHZJaC1PV2dwTGE2X0dLdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-14 18:59:26"
     },
     {
@@ -465,6 +495,11 @@
   ],
   "top_news_7d": [
     {
+      "title": "劉建國籲社工導入AI系統 減輕第一線文書工作負擔 | 觀傳媒 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kaUFqVGRYWWtkekxJZkcwNzJNVHUtQld0ZFZlbWczWW1jY0EzcDZxQ1lYSzhEOWc0UnQybC1Wa2ZBVURhMS1ZRmt4eGVKZkRYSUF2YTV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-14 19:48:45"
+    },
+    {
       "title": "張嘉郡拋雲林小巨蛋政見 斗六打造多功能城市新地標 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNWHczc1YtMEl3S3lRMF91S1hDcFY0RkQtVm8xd2VpY1lCcHkxaDdTWG5UdGl0ZFlWS2MzVFNWMUY3Y1pSUTQ4Qk1UT2RYM0NpMGxHWFVTVXdoempLNGRVT1hWQ1F6dTFuVjVxUTlHTDhuY2dwUnFQeGFJbzh5WGFlTld6dFZrUy1VckVJbHkzQ1pvTXVmcUlHcElVbUwyLUVFQnp0c3ZvRjRBN2xvdEJ2VHp0bkFMMVNOVmNxaTE4eElYZVZaUjQyVkxpOTRmVUFoN0NXZjdpcGN2ZWxyeXZVVG0wM3pJbnBZRWlMLXR6QmhpNnBodHlqcnE2aWtwQUtOZVROeGhuWGwxZ2VoYnNwWlNFX19SbGNUeUdlSnpxYmNQNDVjc1NPT3NTMDBaeGNDcnVfZGJ4VEtpNTNiLUJnSjJJWlNjLUtrZV9Gc1l4aHFENkUzaWJIZW5heG5RX3hDRzZhVnMxdU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-14 18:59:26"
@@ -472,6 +507,11 @@
     {
       "title": "劉建國籲社工導入AI系統 減輕第一線文書工作負擔 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQNEdseTEybE5nQTRNeGFHTFFIeWZqOFNMOEhkeEEwNU5WeWx2bnVJeGQ2U280SFhqTnR1QmNpQVY5ejdQbjRObEJfbW1ES1pQdm1GRUhDSkFHcExtMXZzOUlzRkxhb0hYSmNlMlQ1eHNhdFFCN1J6aFc1T0tGNU5KVWR4bnFWQi1OdzFxSVpBdXppY1pVcTdndDViSFJYVHgzTUgzWUE3LUtseFM3V1ZtZzFBUmFtUTVZRy1Idy1KNmVSSUlYeVl3ek8xUDZFOUVGVk1GN2tJU1lKVm0wOW5ENkJmZk9nSTV6ZVotQ3hBcEhzRkt5czVkQUJ4VFloUTFBYjl2ZUVFWFpoTFk3cmFwZlRGN0NLR0cwdDVvTS1ydHd1cnZ6bE41WUg3d1Y2M21CN3RCM3NnS3RMSkMyWWZEZG9uZzc4dF9f?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-14 18:59:26"
+    },
+    {
+      "title": "張嘉郡拋雲林小巨蛋政見 斗六打造多功能城市新地標 - 觀傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1YVBzNlNKOUtIVVozNUYwWlc2Z0FzUW5lLWI1ekkxWTZpSjRScFFFS0FVczJwSl9BeVJZN1MxZndWNHFYcnlQSHZJaC1PV2dwTGE2X0dLdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-14 18:59:26"
     },
     {
@@ -553,16 +593,6 @@
       "title": "醫美偷拍案延燒 劉建國要求衛福部立即啟動全國稽查 - 大纪元",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCU2ZJc3RMNEd5UmdUN056anN1MjRORmdBTmpha2gtM2dHOG13dk5mUTVqV0lVakFyR3FQUGNxS3dWNW1MYl95R2hpOFp3SVhoM1JsZ1NVWWlBUVNFMVNLLdIBZkFVX3lxTE1sN2g1bGx4MlFiMmlKdlRhUFppUVJTNlRUOVRmTjJlM2J0aUxJdVRDVF9sTVhpRF9EdTdXV3N5YVFvRjVQczg3ZHBEbDNMZWQxSkdyYTcwTmNOZ0VtbHRDSlJJR2x2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-12 20:43:00"
-    },
-    {
-      "title": "醫美偷拍案延燒 劉建國要求衛福部立即啟動全國稽查 - 大纪元",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sN2g1bGx4MlFiMmlKdlRhUFppUVJTNlRUOVRmTjJlM2J0aUxJdVRDVF9sTVhpRF9EdTdXV3N5YVFvRjVQczg3ZHBEbDNMZWQxSkdyYTcwTmNOZ0VtbHRDSlJJR2x2QdIBZkFVX3lxTE1sN2g1bGx4MlFiMmlKdlRhUFppUVJTNlRUOVRmTjJlM2J0aUxJdVRDVF9sTVhpRF9EdTdXV3N5YVFvRjVQczg3ZHBEbDNMZWQxSkdyYTcwTmNOZ0VtbHRDSlJJR2x2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-12 20:43:00"
-    },
-    {
-      "title": "立委丁學忠張嘉郡爭取雨水下水道經費 改善北港褒忠淹水問題 - 臺灣導報",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SVTZVdGNtR1E3X21pSUhELWRrQWRKMlYybGQ4UndBVXhYZVBMcHZVZGkzWnhVQThWdnVObkh1dHoxNmdrT0EtWDdDdkVObHhDY0ZJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-12 19:43:58"
     }
   ],
   "latest_facebook_20": [
@@ -669,6 +699,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "劉建國籲社工導入AI系統 減輕第一線文書工作負擔 | 觀傳媒 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kaUFqVGRYWWtkekxJZkcwNzJNVHUtQld0ZFZlbWczWW1jY0EzcDZxQ1lYSzhEOWc0UnQybC1Wa2ZBVURhMS1ZRmt4eGVKZkRYSUF2YTV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-14 19:48:45"
+    },
+    {
       "title": "張嘉郡拋雲林小巨蛋政見 斗六打造多功能城市新地標 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNWHczc1YtMEl3S3lRMF91S1hDcFY0RkQtVm8xd2VpY1lCcHkxaDdTWG5UdGl0ZFlWS2MzVFNWMUY3Y1pSUTQ4Qk1UT2RYM0NpMGxHWFVTVXdoempLNGRVT1hWQ1F6dTFuVjVxUTlHTDhuY2dwUnFQeGFJbzh5WGFlTld6dFZrUy1VckVJbHkzQ1pvTXVmcUlHcElVbUwyLUVFQnp0c3ZvRjRBN2xvdEJ2VHp0bkFMMVNOVmNxaTE4eElYZVZaUjQyVkxpOTRmVUFoN0NXZjdpcGN2ZWxyeXZVVG0wM3pJbnBZRWlMLXR6QmhpNnBodHlqcnE2aWtwQUtOZVROeGhuWGwxZ2VoYnNwWlNFX19SbGNUeUdlSnpxYmNQNDVjc1NPT3NTMDBaeGNDcnVfZGJ4VEtpNTNiLUJnSjJJWlNjLUtrZV9Gc1l4aHFENkUzaWJIZW5heG5RX3hDRzZhVnMxdU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-14 18:59:26"
@@ -676,6 +711,11 @@
     {
       "title": "劉建國籲社工導入AI系統 減輕第一線文書工作負擔 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQNEdseTEybE5nQTRNeGFHTFFIeWZqOFNMOEhkeEEwNU5WeWx2bnVJeGQ2U280SFhqTnR1QmNpQVY5ejdQbjRObEJfbW1ES1pQdm1GRUhDSkFHcExtMXZzOUlzRkxhb0hYSmNlMlQ1eHNhdFFCN1J6aFc1T0tGNU5KVWR4bnFWQi1OdzFxSVpBdXppY1pVcTdndDViSFJYVHgzTUgzWUE3LUtseFM3V1ZtZzFBUmFtUTVZRy1Idy1KNmVSSUlYeVl3ek8xUDZFOUVGVk1GN2tJU1lKVm0wOW5ENkJmZk9nSTV6ZVotQ3hBcEhzRkt5czVkQUJ4VFloUTFBYjl2ZUVFWFpoTFk3cmFwZlRGN0NLR0cwdDVvTS1ydHd1cnZ6bE41WUg3d1Y2M21CN3RCM3NnS3RMSkMyWWZEZG9uZzc4dF9f?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-14 18:59:26"
+    },
+    {
+      "title": "張嘉郡拋雲林小巨蛋政見 斗六打造多功能城市新地標 - 觀傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1YVBzNlNKOUtIVVozNUYwWlc2Z0FzUW5lLWI1ekkxWTZpSjRScFFFS0FVczJwSl9BeVJZN1MxZndWNHFYcnlQSHZJaC1PV2dwTGE2X0dLdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-14 18:59:26"
     },
     {
@@ -757,16 +797,6 @@
       "title": "醫美偷拍案延燒 劉建國要求衛福部立即啟動全國稽查 - 大纪元",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCU2ZJc3RMNEd5UmdUN056anN1MjRORmdBTmpha2gtM2dHOG13dk5mUTVqV0lVakFyR3FQUGNxS3dWNW1MYl95R2hpOFp3SVhoM1JsZ1NVWWlBUVNFMVNLLdIBZkFVX3lxTE1sN2g1bGx4MlFiMmlKdlRhUFppUVJTNlRUOVRmTjJlM2J0aUxJdVRDVF9sTVhpRF9EdTdXV3N5YVFvRjVQczg3ZHBEbDNMZWQxSkdyYTcwTmNOZ0VtbHRDSlJJR2x2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-12 20:43:00"
-    },
-    {
-      "title": "醫美偷拍案延燒 劉建國要求衛福部立即啟動全國稽查 - 大纪元",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sN2g1bGx4MlFiMmlKdlRhUFppUVJTNlRUOVRmTjJlM2J0aUxJdVRDVF9sTVhpRF9EdTdXV3N5YVFvRjVQczg3ZHBEbDNMZWQxSkdyYTcwTmNOZ0VtbHRDSlJJR2x2QdIBZkFVX3lxTE1sN2g1bGx4MlFiMmlKdlRhUFppUVJTNlRUOVRmTjJlM2J0aUxJdVRDVF9sTVhpRF9EdTdXV3N5YVFvRjVQczg3ZHBEbDNMZWQxSkdyYTcwTmNOZ0VtbHRDSlJJR2x2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-12 20:43:00"
-    },
-    {
-      "title": "立委丁學忠張嘉郡爭取雨水下水道經費 改善北港褒忠淹水問題 - 臺灣導報",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SVTZVdGNtR1E3X21pSUhELWRrQWRKMlYybGQ4UndBVXhYZVBMcHZVZGkzWnhVQThWdnVObkh1dHoxNmdrT0EtWDdDdkVObHhDY0ZJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-12 19:43:58"
     }
   ],
   "person_sections": {
@@ -880,6 +910,11 @@
           "time": "2026-05-14 18:59:26"
         },
         {
+          "title": "張嘉郡拋雲林小巨蛋政見 斗六打造多功能城市新地標 - 觀傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1YVBzNlNKOUtIVVozNUYwWlc2Z0FzUW5lLWI1ekkxWTZpSjRScFFFS0FVczJwSl9BeVJZN1MxZndWNHFYcnlQSHZJaC1PV2dwTGE2X0dLdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-14 18:59:26"
+        },
+        {
           "title": "討論牆 | 拋政見將蓋「雲林小巨蛋」 張嘉郡：6核心定位推動城市發展升級 - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkYWpfUk9ZNGtDYTJ4WTUwTjlhTk4tanIwc21tdTlkR2hyZWlDQ2ZETVF3LUd2bmd2LWpXS1lHM0R2VmhtQWdWZThnNy1nMklaRDJaNWlZY2hTR1JpR3MzVjBDRmE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-12 21:59:29"
@@ -968,11 +1003,6 @@
           "title": "雲林縣長之爭張嘉郡拋「孵蛋」 政見劉建國關注職災問題 - MSN",
           "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxPSnZ4bFpwc3p1cTEtWnNTS0xWTEVDSlZ4amhmekNwcElFSEp4MmxoUHBFN2hSbUItYkczZ0dUbVhxUllvMXBOZlJGc2tzRFlkVVB3UDRkeVlxUl9QTENTQVV2QlFoVmlKdzExNHBFOFZiZThOd0hOUV9sejJvVzVQa2FPVmxlVmszM0lyajlFNEZuekw4OTdFcUdUeFpBeVRXOXdQejBHX2dlYTNIXzRmR1ZFY3lIQWM3NjNVSEpVeEpob1l5LVZwbjJBa0t3REtHQUthTUZUVzdGU1JaM0hycGZWcy1RcExzS0FKXzZlc1F5VWJaenlrSzFMSERUZVo4d1NDWDJPQW5qWnE4aW5sd3FEX0ppUWhreVB0RUY3dHNMZ1o4Q3hoM2FOZ2RjR0NfSUMzWWt5OG53ZmJPSEV3d2NhSmF1cXZnWkpIZ2lwRnA4NDNMelVNTjFodnM4U0FhZjhPb2RQSUpBbTlyX0F5akhzbGNmQXVwblBDbWx0OUs0UlgwWkdtVThuSE8xZ3kta3ZtUVdjSEl1S1p1Sm9rSlVnTGUyeG5wMkFxUkZVRnowZWpPemYwOC1yM1hRUS1xX0JSSVhsc3gtZnNrY0N6MzZVenF4elY4WloweXBMalhQWkxZVElXaDRhLWZJWHFqSnNTckNXRmltM19ISVUyYjhfUXpaTzgyZWdzZXJJWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-11 18:05:10"
-        },
-        {
-          "title": "雲林縣長參選人張嘉郡拋「斗六孵蛋」重大政見「雲林小巨蛋」將兼具商場、運動、演藝、電競等多功能國際級場館！ - 台灣華報",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IdHFhdS1qMXVnbzRYWXEwLV82Y2RfZFJfWUEtSGY1TDJuWTlyTDMwTG5NS3FqTlA5Z1U5WC0wM3FKSVdhaU01R3RNTTFRY2JHNEhJSGVGRUUwRHFEMzBpR3JFaXA5bUthTEJV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-11 17:44:13"
         }
       ]
     },
@@ -1081,6 +1111,11 @@
       ],
       "news": [
         {
+          "title": "劉建國籲社工導入AI系統 減輕第一線文書工作負擔 | 觀傳媒 - LINE TODAY",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kaUFqVGRYWWtkekxJZkcwNzJNVHUtQld0ZFZlbWczWW1jY0EzcDZxQ1lYSzhEOWc0UnQybC1Wa2ZBVURhMS1ZRmt4eGVKZkRYSUF2YTV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-14 19:48:45"
+        },
+        {
           "title": "劉建國籲社工導入AI系統 減輕第一線文書工作負擔 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQNEdseTEybE5nQTRNeGFHTFFIeWZqOFNMOEhkeEEwNU5WeWx2bnVJeGQ2U280SFhqTnR1QmNpQVY5ejdQbjRObEJfbW1ES1pQdm1GRUhDSkFHcExtMXZzOUlzRkxhb0hYSmNlMlQ1eHNhdFFCN1J6aFc1T0tGNU5KVWR4bnFWQi1OdzFxSVpBdXppY1pVcTdndDViSFJYVHgzTUgzWUE3LUtseFM3V1ZtZzFBUmFtUTVZRy1Idy1KNmVSSUlYeVl3ek8xUDZFOUVGVk1GN2tJU1lKVm0wOW5ENkJmZk9nSTV6ZVotQ3hBcEhzRkt5czVkQUJ4VFloUTFBYjl2ZUVFWFpoTFk3cmFwZlRGN0NLR0cwdDVvTS1ydHd1cnZ6bE41WUg3d1Y2M21CN3RCM3NnS3RMSkMyWWZEZG9uZzc4dF9f?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-14 18:59:26"
@@ -1174,17 +1209,17 @@
           "title": "醫美偷拍案全面延燒！劉建國要求衛福部立即啟動全國稽查 - 三星傳媒",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvanl4Z0dXc0w4dmg5RkstTzVJdVhUUFpNSGh2ZU9qVGc1cTJ5WTJjTy1wQjBlVmtCd2h1eFkxNkVWNHo1NXFJZFplaDZPa0NUZG5FU2EtYnc0WWVUeTdCRlhB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-12 00:39:02"
-        },
-        {
-          "title": "張嘉郡拋雲林孵蛋 劉建國訪基層勘災 - 聯合新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWQ1QxM3N3X2J5OEd3TjVpSG0xNXJXUHZHYzhVblR5N0RGOWZiM19qcUVpRmVQcHR3bUUydURLalRVUnR2Mk9tUTdHNkdLeXVIUkdJ0gFYQVVfeXFMT0JsZFBtMERuRmt3alpjUGY2VVhmT3ZHRW5PcDJZVVctblQ2MjFPZWxhMm9XVUF1NzNVNXpIaEVaT2lCYmV5SjQ5QVR0YlgtTFpiMkRudjlKQg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-12 00:00:00"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國籲社工導入AI系統 減輕第一線文書工作負擔 | 觀傳媒 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kaUFqVGRYWWtkekxJZkcwNzJNVHUtQld0ZFZlbWczWW1jY0EzcDZxQ1lYSzhEOWc0UnQybC1Wa2ZBVURhMS1ZRmt4eGVKZkRYSUF2YTV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 19:48:45"
+      },
       {
         "title": "張嘉郡拋雲林小巨蛋政見 斗六打造多功能城市新地標 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNWHczc1YtMEl3S3lRMF91S1hDcFY0RkQtVm8xd2VpY1lCcHkxaDdTWG5UdGl0ZFlWS2MzVFNWMUY3Y1pSUTQ4Qk1UT2RYM0NpMGxHWFVTVXdoempLNGRVT1hWQ1F6dTFuVjVxUTlHTDhuY2dwUnFQeGFJbzh5WGFlTld6dFZrUy1VckVJbHkzQ1pvTXVmcUlHcElVbUwyLUVFQnp0c3ZvRjRBN2xvdEJ2VHp0bkFMMVNOVmNxaTE4eElYZVZaUjQyVkxpOTRmVUFoN0NXZjdpcGN2ZWxyeXZVVG0wM3pJbnBZRWlMLXR6QmhpNnBodHlqcnE2aWtwQUtOZVROeGhuWGwxZ2VoYnNwWlNFX19SbGNUeUdlSnpxYmNQNDVjc1NPT3NTMDBaeGNDcnVfZGJ4VEtpNTNiLUJnSjJJWlNjLUtrZV9Gc1l4aHFENkUzaWJIZW5heG5RX3hDRzZhVnMxdU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1193,6 +1228,11 @@
       {
         "title": "劉建國籲社工導入AI系統 減輕第一線文書工作負擔 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQNEdseTEybE5nQTRNeGFHTFFIeWZqOFNMOEhkeEEwNU5WeWx2bnVJeGQ2U280SFhqTnR1QmNpQVY5ejdQbjRObEJfbW1ES1pQdm1GRUhDSkFHcExtMXZzOUlzRkxhb0hYSmNlMlQ1eHNhdFFCN1J6aFc1T0tGNU5KVWR4bnFWQi1OdzFxSVpBdXppY1pVcTdndDViSFJYVHgzTUgzWUE3LUtseFM3V1ZtZzFBUmFtUTVZRy1Idy1KNmVSSUlYeVl3ek8xUDZFOUVGVk1GN2tJU1lKVm0wOW5ENkJmZk9nSTV6ZVotQ3hBcEhzRkt5czVkQUJ4VFloUTFBYjl2ZUVFWFpoTFk3cmFwZlRGN0NLR0cwdDVvTS1ydHd1cnZ6bE41WUg3d1Y2M21CN3RCM3NnS3RMSkMyWWZEZG9uZzc4dF9f?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 18:59:26"
+      },
+      {
+        "title": "張嘉郡拋雲林小巨蛋政見 斗六打造多功能城市新地標 - 觀傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1YVBzNlNKOUtIVVozNUYwWlc2Z0FzUW5lLWI1ekkxWTZpSjRScFFFS0FVczJwSl9BeVJZN1MxZndWNHFYcnlQSHZJaC1PV2dwTGE2X0dLdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-14 18:59:26"
       },
       {
@@ -1238,6 +1278,11 @@
     ],
     "youtube": [
       {
+        "title": "川習會習近平致詞賀美建國250年　盼中美做夥伴非對手？【#今日精華搶先看】少康戰情室 20260514｜#何孟樺 #許甫 #唐湘龍 #洪孟楷 #游淑慧",
+        "url": "https://www.youtube.com/watch?v=msr_GOof2bE",
+        "time": "2026-05-14 19:55:54"
+      },
+      {
         "title": "川習會今舉行 范雲：台灣應關注國防條例是否被習近平利用",
         "url": "https://www.youtube.com/watch?v=KAyHhPiYTIA",
         "time": "2026-05-14 19:30:11"
@@ -1247,6 +1292,11 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "劉建國籲社工導入AI系統 減輕第一線文書工作負擔 | 觀傳媒 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kaUFqVGRYWWtkekxJZkcwNzJNVHUtQld0ZFZlbWczWW1jY0EzcDZxQ1lYSzhEOWc0UnQybC1Wa2ZBVURhMS1ZRmt4eGVKZkRYSUF2YTV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 19:48:45"
+      },
+      {
         "title": "張嘉郡拋雲林小巨蛋政見 斗六打造多功能城市新地標 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNWHczc1YtMEl3S3lRMF91S1hDcFY0RkQtVm8xd2VpY1lCcHkxaDdTWG5UdGl0ZFlWS2MzVFNWMUY3Y1pSUTQ4Qk1UT2RYM0NpMGxHWFVTVXdoempLNGRVT1hWQ1F6dTFuVjVxUTlHTDhuY2dwUnFQeGFJbzh5WGFlTld6dFZrUy1VckVJbHkzQ1pvTXVmcUlHcElVbUwyLUVFQnp0c3ZvRjRBN2xvdEJ2VHp0bkFMMVNOVmNxaTE4eElYZVZaUjQyVkxpOTRmVUFoN0NXZjdpcGN2ZWxyeXZVVG0wM3pJbnBZRWlMLXR6QmhpNnBodHlqcnE2aWtwQUtOZVROeGhuWGwxZ2VoYnNwWlNFX19SbGNUeUdlSnpxYmNQNDVjc1NPT3NTMDBaeGNDcnVfZGJ4VEtpNTNiLUJnSjJJWlNjLUtrZV9Gc1l4aHFENkUzaWJIZW5heG5RX3hDRzZhVnMxdU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-14 18:59:26"
@@ -1254,6 +1304,11 @@
       {
         "title": "劉建國籲社工導入AI系統 減輕第一線文書工作負擔 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQNEdseTEybE5nQTRNeGFHTFFIeWZqOFNMOEhkeEEwNU5WeWx2bnVJeGQ2U280SFhqTnR1QmNpQVY5ejdQbjRObEJfbW1ES1pQdm1GRUhDSkFHcExtMXZzOUlzRkxhb0hYSmNlMlQ1eHNhdFFCN1J6aFc1T0tGNU5KVWR4bnFWQi1OdzFxSVpBdXppY1pVcTdndDViSFJYVHgzTUgzWUE3LUtseFM3V1ZtZzFBUmFtUTVZRy1Idy1KNmVSSUlYeVl3ek8xUDZFOUVGVk1GN2tJU1lKVm0wOW5ENkJmZk9nSTV6ZVotQ3hBcEhzRkt5czVkQUJ4VFloUTFBYjl2ZUVFWFpoTFk3cmFwZlRGN0NLR0cwdDVvTS1ydHd1cnZ6bE41WUg3d1Y2M21CN3RCM3NnS3RMSkMyWWZEZG9uZzc4dF9f?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 18:59:26"
+      },
+      {
+        "title": "張嘉郡拋雲林小巨蛋政見 斗六打造多功能城市新地標 - 觀傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1YVBzNlNKOUtIVVozNUYwWlc2Z0FzUW5lLWI1ekkxWTZpSjRScFFFS0FVczJwSl9BeVJZN1MxZndWNHFYcnlQSHZJaC1PV2dwTGE2X0dLdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-14 18:59:26"
       },
       {
@@ -1435,16 +1490,6 @@
         "title": "兒涉毆80歲曾蔡美佐　蘇治芬拋2問蔡咏得 - 鏡週刊Mirror Media",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MZ0Q4dHBZNlRVRjhTc3VpTktZbHhwVllCcHNhZkJzcGt3aFRWYW1KUFZLTE1jQnlwVjVvMmJINkp1VmZIYnFrRHZhdjNxM3dVMmtmZmxJOGJFTXRyeFZCT0Jn0gFiQVVfeXFMTUxnRDh0cFk2VFVGOFNzdWlOS1lseHBWWUJwc2FmQnNwa3doVFZhbUpQVktMTWNCeXBWNW8yYkg2SnVWZkhicWtEdmF2M3Ezd1Uya2ZmbEk4YkVNdHJ4VkJPQmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-12 10:35:00"
-      },
-      {
-        "title": "張嘉郡拋斗六孵蛋 結合商圈打造運動、演藝、電競多功能場館 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQMmtJTGptWUplX0trZ2hyckZXSXNsclVWRVhORjE5aTExOEdadk9pNFdTeVhiVGktZGdSMEV2MlFHdlhoMHItOUYxdlVQd3Q4TUFLQjFhYmRwNi0yOVlPaXBETGtmZG9EOWFjSTFEeUM2QVMxNV90bnp3YjhaY25VN3ZsMF83OWxGNU1JdDU0Z3VlbmRReFZHUHdCRDBReFVPR0s4YWdGRkxGZF9pdUJJR0wwQTB4bk51czVibXhLQ1Q2bjBqSVk4eGZ3WmlLajF3NDd0eVRSd2NZV2xIbGlFMGRTOGljOEZ6VHB2dUhLUjk2VlhjZ1phYjR0RmxWNzFQSjVxeHBwVm5HWlhER2ZLb0xLN3daOVFkemM1VEtQVXNNMmtBZENVYTlaYjY4Mk9sWFRiak5JYUNoN0ZSeE4teXl4TE5KVmlZcFlJcnk5QXUwRUZObXpJcE1YLWtlOVdSSi1nSHVNMVZuZHlPdlNoOHNFZU9BZm0xUUV5ZzVROWxRZ1U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-12 10:18:32"
-      },
-      {
-        "title": "81歲前立委曾蔡美佐遭蔡咏鍀兒子率眾毆打 蘇治芬嘆：你們夫妻倆有沒有去探望？ - Newtalk新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iTUFaR1N4Q2I3ZGJDUlJnaHRGX29oZWZUNGlGQnpyLXh5bGlhS1NYd2x6dGoxZTgtOHdmLWNiLVRtUGtIZUJzMkFaSXNNOGQ3T1B5Y0pvRDFROWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-12 10:17:51"
       }
     ],
     "facebook": [
@@ -1571,6 +1616,11 @@
     ],
     "youtube": [
       {
+        "title": "川習會習近平致詞賀美建國250年　盼中美做夥伴非對手？【#今日精華搶先看】少康戰情室 20260514｜#何孟樺 #許甫 #唐湘龍 #洪孟楷 #游淑慧",
+        "url": "https://www.youtube.com/watch?v=msr_GOof2bE",
+        "time": "2026-05-14 19:55:54"
+      },
+      {
         "title": "川習會今舉行 范雲：台灣應關注國防條例是否被習近平利用",
         "url": "https://www.youtube.com/watch?v=KAyHhPiYTIA",
         "time": "2026-05-14 19:30:11"
@@ -1622,6 +1672,20 @@
     "hour": [],
     "day": [
       {
+        "title": "川習會習近平致詞賀美建國250年　盼中美做夥伴非對手？【#今日精華搶先看】少康戰情室 20260514｜#何孟樺 #許甫 #唐湘龍 #洪孟楷 #游淑慧",
+        "url": "https://www.youtube.com/watch?v=msr_GOof2bE",
+        "time": "2026-05-14 19:55:54",
+        "platform": "youtube",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國籲社工導入AI系統 減輕第一線文書工作負擔 | 觀傳媒 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kaUFqVGRYWWtkekxJZkcwNzJNVHUtQld0ZFZlbWczWW1jY0EzcDZxQ1lYSzhEOWc0UnQybC1Wa2ZBVURhMS1ZRmt4eGVKZkRYSUF2YTV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 19:48:45",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "川習會今舉行 范雲：台灣應關注國防條例是否被習近平利用",
         "url": "https://www.youtube.com/watch?v=KAyHhPiYTIA",
         "time": "2026-05-14 19:30:11",
@@ -1638,6 +1702,13 @@
       {
         "title": "劉建國籲社工導入AI系統 減輕第一線文書工作負擔 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQNEdseTEybE5nQTRNeGFHTFFIeWZqOFNMOEhkeEEwNU5WeWx2bnVJeGQ2U280SFhqTnR1QmNpQVY5ejdQbjRObEJfbW1ES1pQdm1GRUhDSkFHcExtMXZzOUlzRkxhb0hYSmNlMlQ1eHNhdFFCN1J6aFc1T0tGNU5KVWR4bnFWQi1OdzFxSVpBdXppY1pVcTdndDViSFJYVHgzTUgzWUE3LUtseFM3V1ZtZzFBUmFtUTVZRy1Idy1KNmVSSUlYeVl3ek8xUDZFOUVGVk1GN2tJU1lKVm0wOW5ENkJmZk9nSTV6ZVotQ3hBcEhzRkt5czVkQUJ4VFloUTFBYjl2ZUVFWFpoTFk3cmFwZlRGN0NLR0cwdDVvTS1ydHd1cnZ6bE41WUg3d1Y2M21CN3RCM3NnS3RMSkMyWWZEZG9uZzc4dF9f?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 18:59:26",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "張嘉郡拋雲林小巨蛋政見 斗六打造多功能城市新地標 - 觀傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1YVBzNlNKOUtIVVozNUYwWlc2Z0FzUW5lLWI1ekkxWTZpSjRScFFFS0FVczJwSl9BeVJZN1MxZndWNHFYcnlQSHZJaC1PV2dwTGE2X0dLdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-14 18:59:26",
         "platform": "news",
         "risk": "綠"
@@ -1704,11 +1775,11 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 3
+        "count": 4
       },
       {
         "name": "斗六",
-        "count": 1
+        "count": 2
       }
     ],
     "groups": []
