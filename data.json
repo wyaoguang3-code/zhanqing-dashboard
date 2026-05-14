@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-14T10:22:44.493836+00:00",
+  "generated_at": "2026-05-14T10:37:54.235558+00:00",
   "metrics": {
-    "total_24h": 6,
+    "total_24h": 10,
     "prev_24h": 13,
-    "growth_pct": -53.85,
-    "news_24h": 3,
+    "growth_pct": -23.08,
+    "news_24h": 7,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 120,
+    "total": 124,
     "prev": 87,
-    "growth_pct": 37.93,
-    "news": 88,
+    "growth_pct": 42.53,
+    "news": 92,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 3
+      "count": 7
     },
     {
       "platform": "youtube",
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 88
+      "count": 92
     },
     {
       "platform": "facebook",
@@ -64,15 +64,19 @@
     },
     {
       "hour": "2026-05-13 22:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-05-14 06:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-05-14 11:00",
       "count": 1
+    },
+    {
+      "hour": "2026-05-14 17:00",
+      "count": 2
     }
   ],
   "by_hour_7d": [
@@ -274,21 +278,25 @@
     },
     {
       "hour": "2026-05-13 22:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-05-14 06:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-05-14 11:00",
       "count": 1
+    },
+    {
+      "hour": "2026-05-14 17:00",
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 3
+      "count": 6
     },
     {
       "platform": "facebook",
@@ -298,6 +306,11 @@
   "mention_latest_by_platform_24h": {
     "news": [
       {
+        "title": "AI浪潮席捲全球 劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNWTlicVhIcTNPOEpKa0VFYVZZRklWWGNmMWx0RGJESlA0OVdsYkMtOTd0dXJGSWdiQUtVY2FzZGlMTHc1MUpRV0Y0ekM5Uk9ONVBGQm40ei1Gd1lnWS1CdVdJZkt4ZDktRlBVR2dTMGlTc0JzWmFmUFNxdHU4dDNXeGtXc3lQVXo5YWViM2RZU2w0bngzSHd0SjJRUVpFQ3JyYlJoN0dUUk40dGJpMXBvOGZ0cjB3M3VjR3BiVUpXMVdjR3FIT1l4NkRXNzRzc0x3akY3bmMzV3NoVFlxWlNGMGdTbHA4bDU4VlQxVEJod2Q3dXRHVHV5WW96NnFBY3I4SFozdjVsQjdYTEctUTZIZUwtQUR3UDhpWm5PR0RjaE9UYkhqQ3JtR2ROLTJtRWl0SlRTaWpkMnR1c1FWWUZVUHZwMzJFVFpLcUVyYjhVZ2NWaThoUzBUbllfS3lFNUlHTXp2X0Qxd1NUaUlBQXRmWXl0NzN5U2dhQzBEcTlQOVMtZkxMSlNfcFFDc04xRkd5MDBQeWFyMXFyUDlTRDBqdg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 17:47:15"
+      },
+      {
         "title": "AI浪潮席捲全球！ 雲林立委劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIMHlCUF9pM1lUU0Q5M0pYbG13MTM3bGxaVS1QU1JzVGxLejdiazVtWmtjNTZXRWJpNU5uLXJTT0p2Zmp5aUZrNnFYUkxFRkJMUi10Wml3c0hDaVVtUU4yQ09NdDB0TUNyMVpV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-14 11:56:28"
@@ -306,6 +319,16 @@
         "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNN09MZ2lyVTNoLVlLbURYTmhuckZZeFVFV3pxb0ZMaE55NHhtTjVFNzNicHNCMk5WbFl6aGswYWdoal9TWEZNeEp4VUNXR1FUaHRQOHNoZm5GRkVEVUZBdTAtWWlsQWoydkRaQ3ZXeTZBN1EyX1lEWVoyZV9ETTBTVm5KSDd3Y2g0djhROWthYlVVWlFwaWxFRTZFaUtIX3REWWtja2d3bDJhUmNxUGRoQld4UUxCWG9BRlpXWFdkX3BpdGtvTC1IUmRoQzZMeWxacFAxbjFpaVV6bFN6anlXWEtSRkdGRUNPRjVFbi0xdk8wcE5RSjgtWjlYd3NMRnQzRlN3a1NlZEphLW9FbU5IdDhhTlR1UXRKUjI2VDE3eXhiY2JmZzFYVFJVQkd2Qll5OTU3S2M1LXdBN0dfRmlveWliV2FWUl9mNFZOb3R3SVdhVkRCal8tQUhTbXdodUxMTnpIUWpNMUwtVzNjMk9wUTlYY0hYcGR0cERjUGxDcnk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-14 06:05:37"
+      },
+      {
+        "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMlJhRTVRcng4dTlBWGVTcFRBM2UxS1VHSzZmcnQzMFJNNFRXdU5lazZGTmhGZGNOSTAtU0JnUE9Hb1hLS3JJUFdKLVNwTUZsTUppbU9LZ0pnV3c4Q2hxeU43U0RoSXFXT01hbzdMeFhYd3czSWVjRFlrQ3hna1A3SExWRTg2Vmx4RllFTHlnb2RSSVdTeVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 06:05:37"
+      },
+      {
+        "title": "社工文書壓力爆棚 劉建國籲衛福部全面導入AI減負擔 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TbnR5MG0wVFJYUG5BUkRxRl9EenZPc1A5MjJlRDM2Z3JNVWtxejZ2cUs5d1RpazZOY29CYXFsM193V3kzUFdjOUU2RHVtcjU2YkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-13 22:39:00"
       },
       {
         "title": "社工文書壓力爆棚 劉建國籲衛福部全面導入AI減負擔 - PChome Online 新聞",
@@ -324,7 +347,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 3
+      "count": 6
     },
     {
       "platform": "facebook",
@@ -334,6 +357,11 @@
   "alias_latest_by_platform_24h": {
     "news": [
       {
+        "title": "AI浪潮席捲全球 劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNWTlicVhIcTNPOEpKa0VFYVZZRklWWGNmMWx0RGJESlA0OVdsYkMtOTd0dXJGSWdiQUtVY2FzZGlMTHc1MUpRV0Y0ekM5Uk9ONVBGQm40ei1Gd1lnWS1CdVdJZkt4ZDktRlBVR2dTMGlTc0JzWmFmUFNxdHU4dDNXeGtXc3lQVXo5YWViM2RZU2w0bngzSHd0SjJRUVpFQ3JyYlJoN0dUUk40dGJpMXBvOGZ0cjB3M3VjR3BiVUpXMVdjR3FIT1l4NkRXNzRzc0x3akY3bmMzV3NoVFlxWlNGMGdTbHA4bDU4VlQxVEJod2Q3dXRHVHV5WW96NnFBY3I4SFozdjVsQjdYTEctUTZIZUwtQUR3UDhpWm5PR0RjaE9UYkhqQ3JtR2ROLTJtRWl0SlRTaWpkMnR1c1FWWUZVUHZwMzJFVFpLcUVyYjhVZ2NWaThoUzBUbllfS3lFNUlHTXp2X0Qxd1NUaUlBQXRmWXl0NzN5U2dhQzBEcTlQOVMtZkxMSlNfcFFDc04xRkd5MDBQeWFyMXFyUDlTRDBqdg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 17:47:15"
+      },
+      {
         "title": "AI浪潮席捲全球！ 雲林立委劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIMHlCUF9pM1lUU0Q5M0pYbG13MTM3bGxaVS1QU1JzVGxLejdiazVtWmtjNTZXRWJpNU5uLXJTT0p2Zmp5aUZrNnFYUkxFRkJMUi10Wml3c0hDaVVtUU4yQ09NdDB0TUNyMVpV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-14 11:56:28"
@@ -342,6 +370,16 @@
         "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNN09MZ2lyVTNoLVlLbURYTmhuckZZeFVFV3pxb0ZMaE55NHhtTjVFNzNicHNCMk5WbFl6aGswYWdoal9TWEZNeEp4VUNXR1FUaHRQOHNoZm5GRkVEVUZBdTAtWWlsQWoydkRaQ3ZXeTZBN1EyX1lEWVoyZV9ETTBTVm5KSDd3Y2g0djhROWthYlVVWlFwaWxFRTZFaUtIX3REWWtja2d3bDJhUmNxUGRoQld4UUxCWG9BRlpXWFdkX3BpdGtvTC1IUmRoQzZMeWxacFAxbjFpaVV6bFN6anlXWEtSRkdGRUNPRjVFbi0xdk8wcE5RSjgtWjlYd3NMRnQzRlN3a1NlZEphLW9FbU5IdDhhTlR1UXRKUjI2VDE3eXhiY2JmZzFYVFJVQkd2Qll5OTU3S2M1LXdBN0dfRmlveWliV2FWUl9mNFZOb3R3SVdhVkRCal8tQUhTbXdodUxMTnpIUWpNMUwtVzNjMk9wUTlYY0hYcGR0cERjUGxDcnk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-14 06:05:37"
+      },
+      {
+        "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMlJhRTVRcng4dTlBWGVTcFRBM2UxS1VHSzZmcnQzMFJNNFRXdU5lazZGTmhGZGNOSTAtU0JnUE9Hb1hLS3JJUFdKLVNwTUZsTUppbU9LZ0pnV3c4Q2hxeU43U0RoSXFXT01hbzdMeFhYd3czSWVjRFlrQ3hna1A3SExWRTg2Vmx4RllFTHlnb2RSSVdTeVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 06:05:37"
+      },
+      {
+        "title": "社工文書壓力爆棚 劉建國籲衛福部全面導入AI減負擔 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TbnR5MG0wVFJYUG5BUkRxRl9EenZPc1A5MjJlRDM2Z3JNVWtxejZ2cUs5d1RpazZOY29CYXFsM193V3kzUFdjOUU2RHVtcjU2YkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-13 22:39:00"
       },
       {
         "title": "社工文書壓力爆棚 劉建國籲衛福部全面導入AI減負擔 - PChome Online 新聞",
@@ -359,13 +397,23 @@
   },
   "mention_compare_24h": {
     "張嘉郡": 0,
-    "劉建國": 4
+    "劉建國": 7
   },
   "mention_compare_7d": {
     "張嘉郡": 52,
-    "劉建國": 43
+    "劉建國": 46
   },
   "top_news": [
+    {
+      "title": "立委丁學忠邀水利署會勘 提升雲林海線排水防洪能力補強治水設施 - 台灣生活新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fS1B4OFUwOVRhUTNyZm5LdXp4SmFaNDlyUG1QdmxiSkVWYnNOcFRvaTU0Q2dhQW5lMEVQN256V2JtdEUwTlRqQk54TVhwTjUy?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-14 17:54:57"
+    },
+    {
+      "title": "AI浪潮席捲全球 劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNWTlicVhIcTNPOEpKa0VFYVZZRklWWGNmMWx0RGJESlA0OVdsYkMtOTd0dXJGSWdiQUtVY2FzZGlMTHc1MUpRV0Y0ekM5Uk9ONVBGQm40ei1Gd1lnWS1CdVdJZkt4ZDktRlBVR2dTMGlTc0JzWmFmUFNxdHU4dDNXeGtXc3lQVXo5YWViM2RZU2w0bngzSHd0SjJRUVpFQ3JyYlJoN0dUUk40dGJpMXBvOGZ0cjB3M3VjR3BiVUpXMVdjR3FIT1l4NkRXNzRzc0x3akY3bmMzV3NoVFlxWlNGMGdTbHA4bDU4VlQxVEJod2Q3dXRHVHV5WW96NnFBY3I4SFozdjVsQjdYTEctUTZIZUwtQUR3UDhpWm5PR0RjaE9UYkhqQ3JtR2ROLTJtRWl0SlRTaWpkMnR1c1FWWUZVUHZwMzJFVFpLcUVyYjhVZ2NWaThoUzBUbllfS3lFNUlHTXp2X0Qxd1NUaUlBQXRmWXl0NzN5U2dhQzBEcTlQOVMtZkxMSlNfcFFDc04xRkd5MDBQeWFyMXFyUDlTRDBqdg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-14 17:47:15"
+    },
     {
       "title": "AI浪潮席捲全球！ 雲林立委劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - 台灣華報",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIMHlCUF9pM1lUU0Q5M0pYbG13MTM3bGxaVS1QU1JzVGxLejdiazVtWmtjNTZXRWJpNU5uLXJTT0p2Zmp5aUZrNnFYUkxFRkJMUi10Wml3c0hDaVVtUU4yQ09NdDB0TUNyMVpV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -375,6 +423,16 @@
       "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNN09MZ2lyVTNoLVlLbURYTmhuckZZeFVFV3pxb0ZMaE55NHhtTjVFNzNicHNCMk5WbFl6aGswYWdoal9TWEZNeEp4VUNXR1FUaHRQOHNoZm5GRkVEVUZBdTAtWWlsQWoydkRaQ3ZXeTZBN1EyX1lEWVoyZV9ETTBTVm5KSDd3Y2g0djhROWthYlVVWlFwaWxFRTZFaUtIX3REWWtja2d3bDJhUmNxUGRoQld4UUxCWG9BRlpXWFdkX3BpdGtvTC1IUmRoQzZMeWxacFAxbjFpaVV6bFN6anlXWEtSRkdGRUNPRjVFbi0xdk8wcE5RSjgtWjlYd3NMRnQzRlN3a1NlZEphLW9FbU5IdDhhTlR1UXRKUjI2VDE3eXhiY2JmZzFYVFJVQkd2Qll5OTU3S2M1LXdBN0dfRmlveWliV2FWUl9mNFZOb3R3SVdhVkRCal8tQUhTbXdodUxMTnpIUWpNMUwtVzNjMk9wUTlYY0hYcGR0cERjUGxDcnk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-14 06:05:37"
+    },
+    {
+      "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMlJhRTVRcng4dTlBWGVTcFRBM2UxS1VHSzZmcnQzMFJNNFRXdU5lazZGTmhGZGNOSTAtU0JnUE9Hb1hLS3JJUFdKLVNwTUZsTUppbU9LZ0pnV3c4Q2hxeU43U0RoSXFXT01hbzdMeFhYd3czSWVjRFlrQ3hna1A3SExWRTg2Vmx4RllFTHlnb2RSSVdTeVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-14 06:05:37"
+    },
+    {
+      "title": "社工文書壓力爆棚 劉建國籲衛福部全面導入AI減負擔 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TbnR5MG0wVFJYUG5BUkRxRl9EenZPc1A5MjJlRDM2Z3JNVWtxejZ2cUs5d1RpazZOY29CYXFsM193V3kzUFdjOUU2RHVtcjU2YkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-13 22:39:00"
     },
     {
       "title": "社工文書壓力爆棚 劉建國籲衛福部全面導入AI減負擔 - PChome Online 新聞",
@@ -384,6 +442,16 @@
   ],
   "top_news_7d": [
     {
+      "title": "立委丁學忠邀水利署會勘 提升雲林海線排水防洪能力補強治水設施 - 台灣生活新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fS1B4OFUwOVRhUTNyZm5LdXp4SmFaNDlyUG1QdmxiSkVWYnNOcFRvaTU0Q2dhQW5lMEVQN256V2JtdEUwTlRqQk54TVhwTjUy?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-14 17:54:57"
+    },
+    {
+      "title": "AI浪潮席捲全球 劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNWTlicVhIcTNPOEpKa0VFYVZZRklWWGNmMWx0RGJESlA0OVdsYkMtOTd0dXJGSWdiQUtVY2FzZGlMTHc1MUpRV0Y0ekM5Uk9ONVBGQm40ei1Gd1lnWS1CdVdJZkt4ZDktRlBVR2dTMGlTc0JzWmFmUFNxdHU4dDNXeGtXc3lQVXo5YWViM2RZU2w0bngzSHd0SjJRUVpFQ3JyYlJoN0dUUk40dGJpMXBvOGZ0cjB3M3VjR3BiVUpXMVdjR3FIT1l4NkRXNzRzc0x3akY3bmMzV3NoVFlxWlNGMGdTbHA4bDU4VlQxVEJod2Q3dXRHVHV5WW96NnFBY3I4SFozdjVsQjdYTEctUTZIZUwtQUR3UDhpWm5PR0RjaE9UYkhqQ3JtR2ROLTJtRWl0SlRTaWpkMnR1c1FWWUZVUHZwMzJFVFpLcUVyYjhVZ2NWaThoUzBUbllfS3lFNUlHTXp2X0Qxd1NUaUlBQXRmWXl0NzN5U2dhQzBEcTlQOVMtZkxMSlNfcFFDc04xRkd5MDBQeWFyMXFyUDlTRDBqdg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-14 17:47:15"
+    },
+    {
       "title": "AI浪潮席捲全球！ 雲林立委劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - 台灣華報",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIMHlCUF9pM1lUU0Q5M0pYbG13MTM3bGxaVS1QU1JzVGxLejdiazVtWmtjNTZXRWJpNU5uLXJTT0p2Zmp5aUZrNnFYUkxFRkJMUi10Wml3c0hDaVVtUU4yQ09NdDB0TUNyMVpV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-14 11:56:28"
@@ -392,6 +460,16 @@
       "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNN09MZ2lyVTNoLVlLbURYTmhuckZZeFVFV3pxb0ZMaE55NHhtTjVFNzNicHNCMk5WbFl6aGswYWdoal9TWEZNeEp4VUNXR1FUaHRQOHNoZm5GRkVEVUZBdTAtWWlsQWoydkRaQ3ZXeTZBN1EyX1lEWVoyZV9ETTBTVm5KSDd3Y2g0djhROWthYlVVWlFwaWxFRTZFaUtIX3REWWtja2d3bDJhUmNxUGRoQld4UUxCWG9BRlpXWFdkX3BpdGtvTC1IUmRoQzZMeWxacFAxbjFpaVV6bFN6anlXWEtSRkdGRUNPRjVFbi0xdk8wcE5RSjgtWjlYd3NMRnQzRlN3a1NlZEphLW9FbU5IdDhhTlR1UXRKUjI2VDE3eXhiY2JmZzFYVFJVQkd2Qll5OTU3S2M1LXdBN0dfRmlveWliV2FWUl9mNFZOb3R3SVdhVkRCal8tQUhTbXdodUxMTnpIUWpNMUwtVzNjMk9wUTlYY0hYcGR0cERjUGxDcnk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-14 06:05:37"
+    },
+    {
+      "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMlJhRTVRcng4dTlBWGVTcFRBM2UxS1VHSzZmcnQzMFJNNFRXdU5lazZGTmhGZGNOSTAtU0JnUE9Hb1hLS3JJUFdKLVNwTUZsTUppbU9LZ0pnV3c4Q2hxeU43U0RoSXFXT01hbzdMeFhYd3czSWVjRFlrQ3hna1A3SExWRTg2Vmx4RllFTHlnb2RSSVdTeVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-14 06:05:37"
+    },
+    {
+      "title": "社工文書壓力爆棚 劉建國籲衛福部全面導入AI減負擔 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TbnR5MG0wVFJYUG5BUkRxRl9EenZPc1A5MjJlRDM2Z3JNVWtxejZ2cUs5d1RpazZOY29CYXFsM193V3kzUFdjOUU2RHVtcjU2YkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-13 22:39:00"
     },
     {
       "title": "社工文書壓力爆棚 劉建國籲衛福部全面導入AI減負擔 - PChome Online 新聞",
@@ -462,26 +540,6 @@
       "title": "拋斗六建「雲林小巨蛋」 張嘉郡：帶動觀光消費、投資 - TVBS新聞網",
       "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQRnZCeWR4WURpZ0U2YWJQZmJhdnVzUkh0WnkxRm1MaHNEZERYQjhFbkNNcmxJT000YkFWbUV5Q0dfSjFCcXpoWEJpTHh6d1ZNYXo4Uzc4TEZfYl9EdVpzT1Z5dlNmSGVkakxfTDFkbjBxeTlhd0Fwa3N5SGJwbTJBdTlfVGhYMGhWNUY1MXhwNDZSSXBoM3BaaGx6UVNHd3J5azNIYkwtcVlRdWUxQXlhNVkxQ1l4RkNITndJNXd6cDEtbXVVRWdQby1hb0h1Vmt5SjQ1SFpiUFFpdHpKY1ZpX2huRlJraUFBVVN0LWZlQUQ4ZXdIQno2YjdMMWVITEtqeVJVY0cya0hOdl9ORHVrZ3A1aWtnalpXMnJoOEZ2LTJXRXNDSlp6Q0dwTWtRNzhzM3pvbklvbUdEZnUybFpRTU9GWGV6NWcwamtaMGl0N2pCblZPSjhBQl9pNm8tMm9XNndkNktlN0pkbWY2cU5PZ2l0ZHJMc2o0eVVTWndRZy1EaGpYMDlOcmtlZ3RENXpGZkNoamVGcFRmNGwyeUhJSkpYMjFHQ3g5bWZaM09qX3BFVmxtNGg1cWNlX3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-12 16:43:00"
-    },
-    {
-      "title": "曾蔡美佐遭毆骨裂！蘇治芬抱不平喊話蔡咏鍀：辭朝天宮董事長嗎？ - TVBS新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56OUZMbXFpVU5tY1gwQUlSN3pqVDJTazZzbEF0eDNjVVVhME8yYl8tbnB3bkM4NTJtMHU1NG9PdnJOcWVmLUIwRk1aNWRtMWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-12 15:33:00"
-    },
-    {
-      "title": "曾蔡美佐遭毆骨裂！蘇治芬抱不平喊話蔡咏鍀：辭朝天宮董事長嗎？ - TVBS新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56OUZMbXFpVU5tY1gwQUlSN3pqVDJTazZzbEF0eDNjVVVhME8yYl8tbnB3bkM4NTJtMHU1NG9PdnJOcWVmLUIwRk1aNWRtMWc?oc=5",
-      "time": "2026-05-12 15:33:00"
-    },
-    {
-      "title": "兒毆80歲曾蔡美佐！蘇治芬轟蔡咏鍀：媽祖生日烙人打長輩「快辭朝天宮」 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNa0JXLVFwWlZzM0tKVDlWeXI2eWZYQ1F3YUlmVVcyWS1jcHB3S1h2ZS1rd0VkZXZmZ1pIdTBTWVhmVWE5ZHBzdGVFb05yZXpIWTNHQ2R1TDlkeWp5a3JCZ2tOTDhNakJ2ekdZNEtFaC1oblVsc00wTGtyVTRqV0xySFc3TllOT0REZEhNcmkyWUxPOWs2MzhqbzJkYUlncnZPM3VpNVJqNFVMYVpRWHpFdVNqUElad2JXSTk1Mk5YVzhBVV9XbE5KQXZQVVoxZ1dncnhoOElzck5FN1FoZVZjSVRpVmZjRy1uYUREcGdkblhBaFI5ajRfWEdXdFpOeG9xZEwtV3dvZzdnTzVvQno2dmhsbVNGeXJacHRDQ3pMQnVDa0NiTnJPaTVFdEtsUjRDZjhhTzFzT2pLY3p5ejZYZWRvWWFUOUxESENERDBvTVotdDk5MWtaQVk4QldQeWVLLTZNaUNBdy1OUGFPZTZxckZnUGR0SnFYdXppLXFLVGFmR3FQZ2lGOXpFQkNFUC1Xd2dqZEtOZ0dYeE9nQk9qRmNuS1ZOYnZrUXJ6LUhrdml0SFprRGNaOF92UlhheGszTUZnNEVMTXVNcnRuTVItT3Q3SV80NWsyalFsOWtGVjc1a2hnWVp0MjhTaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-12 13:02:04"
-    },
-    {
-      "title": "兒毆80歲曾蔡美佐！蘇治芬轟蔡咏鍀：媽祖生日烙人打長輩「快辭朝天宮」 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxPUHpmQklqcm9KXy15MkEtcG4wam5SZGtQd2d1UlJIZHhiSWpoYTNQUTBjRVc1Z3RtVWl1YkVqWXRRN2h4TXY1TDNlcW9POUt6X1ByZ29EMTBuRFdSQlRMWmkxN2VXTEdwWF9tcDBqLVZIcUZ6NDFnTmRld1RfVzJZQUJRME5lVjJKMjg4d0lKSDMzcnNjOUJ3bDhhbUkyYnZmTkVhR3RJa05SbG83TGlyUEZFTjZLYkF6UEpRQWE2cGZ0Ni1WbDlRd2hidk5KZTlXRjNJb2Z1dTBkQU5uTXRycmNhTGlJYXNoT3RVWGFZOWtPbnQtS0tTbVBhQkpjbGNlN1NSczhMdkttZ1pvYzNTYlhQSEQ3TTNDWjdLMUVhblY4Mmh5U2gwZmN1eE9vMnNjZnpQUGhHeWhtZzhlWGJDZ2xSN1l4bkdFWWpITV9PVUljdTVWUXBFNDFwRGNscVFvcXZHMXQ4OG9CUndyM25McFRyMV9iSU53TTdZcWZNaUNnMnFqVTJRcWRKNlRqUlFURkJISEZBaS1fV2JSYTh3VDNQVUJ6NTVYNDR4NWdOYjJqdzdrMm81SkZ5SjF1NGxQYWFyQ0FoMjJGOEt0alJSblNqYWlSajZFcF94Q3VhZXVlTlZNdkt1WHhNSDlWY3IxS0xrMDYybnJpaGZXQ01VeGY2VUtEbGMzQzRkdWFtVWtLdkZsdWxmc2wya1pxRjVVWFJoN2JvSG5HRFhha1g1emx5SnhaTHRiSEVLT1didTRkNnM5TDBJMmNCeF8yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-12 12:08:12"
     }
   ],
   "latest_facebook_20": [
@@ -588,6 +646,16 @@
   ],
   "latest_news_20": [
     {
+      "title": "立委丁學忠邀水利署會勘 提升雲林海線排水防洪能力補強治水設施 - 台灣生活新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fS1B4OFUwOVRhUTNyZm5LdXp4SmFaNDlyUG1QdmxiSkVWYnNOcFRvaTU0Q2dhQW5lMEVQN256V2JtdEUwTlRqQk54TVhwTjUy?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-14 17:54:57"
+    },
+    {
+      "title": "AI浪潮席捲全球 劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNWTlicVhIcTNPOEpKa0VFYVZZRklWWGNmMWx0RGJESlA0OVdsYkMtOTd0dXJGSWdiQUtVY2FzZGlMTHc1MUpRV0Y0ekM5Uk9ONVBGQm40ei1Gd1lnWS1CdVdJZkt4ZDktRlBVR2dTMGlTc0JzWmFmUFNxdHU4dDNXeGtXc3lQVXo5YWViM2RZU2w0bngzSHd0SjJRUVpFQ3JyYlJoN0dUUk40dGJpMXBvOGZ0cjB3M3VjR3BiVUpXMVdjR3FIT1l4NkRXNzRzc0x3akY3bmMzV3NoVFlxWlNGMGdTbHA4bDU4VlQxVEJod2Q3dXRHVHV5WW96NnFBY3I4SFozdjVsQjdYTEctUTZIZUwtQUR3UDhpWm5PR0RjaE9UYkhqQ3JtR2ROLTJtRWl0SlRTaWpkMnR1c1FWWUZVUHZwMzJFVFpLcUVyYjhVZ2NWaThoUzBUbllfS3lFNUlHTXp2X0Qxd1NUaUlBQXRmWXl0NzN5U2dhQzBEcTlQOVMtZkxMSlNfcFFDc04xRkd5MDBQeWFyMXFyUDlTRDBqdg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-14 17:47:15"
+    },
+    {
       "title": "AI浪潮席捲全球！ 雲林立委劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - 台灣華報",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIMHlCUF9pM1lUU0Q5M0pYbG13MTM3bGxaVS1QU1JzVGxLejdiazVtWmtjNTZXRWJpNU5uLXJTT0p2Zmp5aUZrNnFYUkxFRkJMUi10Wml3c0hDaVVtUU4yQ09NdDB0TUNyMVpV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-14 11:56:28"
@@ -596,6 +664,16 @@
       "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNN09MZ2lyVTNoLVlLbURYTmhuckZZeFVFV3pxb0ZMaE55NHhtTjVFNzNicHNCMk5WbFl6aGswYWdoal9TWEZNeEp4VUNXR1FUaHRQOHNoZm5GRkVEVUZBdTAtWWlsQWoydkRaQ3ZXeTZBN1EyX1lEWVoyZV9ETTBTVm5KSDd3Y2g0djhROWthYlVVWlFwaWxFRTZFaUtIX3REWWtja2d3bDJhUmNxUGRoQld4UUxCWG9BRlpXWFdkX3BpdGtvTC1IUmRoQzZMeWxacFAxbjFpaVV6bFN6anlXWEtSRkdGRUNPRjVFbi0xdk8wcE5RSjgtWjlYd3NMRnQzRlN3a1NlZEphLW9FbU5IdDhhTlR1UXRKUjI2VDE3eXhiY2JmZzFYVFJVQkd2Qll5OTU3S2M1LXdBN0dfRmlveWliV2FWUl9mNFZOb3R3SVdhVkRCal8tQUhTbXdodUxMTnpIUWpNMUwtVzNjMk9wUTlYY0hYcGR0cERjUGxDcnk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-14 06:05:37"
+    },
+    {
+      "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMlJhRTVRcng4dTlBWGVTcFRBM2UxS1VHSzZmcnQzMFJNNFRXdU5lazZGTmhGZGNOSTAtU0JnUE9Hb1hLS3JJUFdKLVNwTUZsTUppbU9LZ0pnV3c4Q2hxeU43U0RoSXFXT01hbzdMeFhYd3czSWVjRFlrQ3hna1A3SExWRTg2Vmx4RllFTHlnb2RSSVdTeVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-14 06:05:37"
+    },
+    {
+      "title": "社工文書壓力爆棚 劉建國籲衛福部全面導入AI減負擔 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TbnR5MG0wVFJYUG5BUkRxRl9EenZPc1A5MjJlRDM2Z3JNVWtxejZ2cUs5d1RpazZOY29CYXFsM193V3kzUFdjOUU2RHVtcjU2YkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-13 22:39:00"
     },
     {
       "title": "社工文書壓力爆棚 劉建國籲衛福部全面導入AI減負擔 - PChome Online 新聞",
@@ -666,26 +744,6 @@
       "title": "拋斗六建「雲林小巨蛋」 張嘉郡：帶動觀光消費、投資 - TVBS新聞網",
       "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQRnZCeWR4WURpZ0U2YWJQZmJhdnVzUkh0WnkxRm1MaHNEZERYQjhFbkNNcmxJT000YkFWbUV5Q0dfSjFCcXpoWEJpTHh6d1ZNYXo4Uzc4TEZfYl9EdVpzT1Z5dlNmSGVkakxfTDFkbjBxeTlhd0Fwa3N5SGJwbTJBdTlfVGhYMGhWNUY1MXhwNDZSSXBoM3BaaGx6UVNHd3J5azNIYkwtcVlRdWUxQXlhNVkxQ1l4RkNITndJNXd6cDEtbXVVRWdQby1hb0h1Vmt5SjQ1SFpiUFFpdHpKY1ZpX2huRlJraUFBVVN0LWZlQUQ4ZXdIQno2YjdMMWVITEtqeVJVY0cya0hOdl9ORHVrZ3A1aWtnalpXMnJoOEZ2LTJXRXNDSlp6Q0dwTWtRNzhzM3pvbklvbUdEZnUybFpRTU9GWGV6NWcwamtaMGl0N2pCblZPSjhBQl9pNm8tMm9XNndkNktlN0pkbWY2cU5PZ2l0ZHJMc2o0eVVTWndRZy1EaGpYMDlOcmtlZ3RENXpGZkNoamVGcFRmNGwyeUhJSkpYMjFHQ3g5bWZaM09qX3BFVmxtNGg1cWNlX3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-12 16:43:00"
-    },
-    {
-      "title": "曾蔡美佐遭毆骨裂！蘇治芬抱不平喊話蔡咏鍀：辭朝天宮董事長嗎？ - TVBS新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56OUZMbXFpVU5tY1gwQUlSN3pqVDJTazZzbEF0eDNjVVVhME8yYl8tbnB3bkM4NTJtMHU1NG9PdnJOcWVmLUIwRk1aNWRtMWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-12 15:33:00"
-    },
-    {
-      "title": "曾蔡美佐遭毆骨裂！蘇治芬抱不平喊話蔡咏鍀：辭朝天宮董事長嗎？ - TVBS新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56OUZMbXFpVU5tY1gwQUlSN3pqVDJTazZzbEF0eDNjVVVhME8yYl8tbnB3bkM4NTJtMHU1NG9PdnJOcWVmLUIwRk1aNWRtMWc?oc=5",
-      "time": "2026-05-12 15:33:00"
-    },
-    {
-      "title": "兒毆80歲曾蔡美佐！蘇治芬轟蔡咏鍀：媽祖生日烙人打長輩「快辭朝天宮」 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNa0JXLVFwWlZzM0tKVDlWeXI2eWZYQ1F3YUlmVVcyWS1jcHB3S1h2ZS1rd0VkZXZmZ1pIdTBTWVhmVWE5ZHBzdGVFb05yZXpIWTNHQ2R1TDlkeWp5a3JCZ2tOTDhNakJ2ekdZNEtFaC1oblVsc00wTGtyVTRqV0xySFc3TllOT0REZEhNcmkyWUxPOWs2MzhqbzJkYUlncnZPM3VpNVJqNFVMYVpRWHpFdVNqUElad2JXSTk1Mk5YVzhBVV9XbE5KQXZQVVoxZ1dncnhoOElzck5FN1FoZVZjSVRpVmZjRy1uYUREcGdkblhBaFI5ajRfWEdXdFpOeG9xZEwtV3dvZzdnTzVvQno2dmhsbVNGeXJacHRDQ3pMQnVDa0NiTnJPaTVFdEtsUjRDZjhhTzFzT2pLY3p5ejZYZWRvWWFUOUxESENERDBvTVotdDk5MWtaQVk4QldQeWVLLTZNaUNBdy1OUGFPZTZxckZnUGR0SnFYdXppLXFLVGFmR3FQZ2lGOXpFQkNFUC1Xd2dqZEtOZ0dYeE9nQk9qRmNuS1ZOYnZrUXJ6LUhrdml0SFprRGNaOF92UlhheGszTUZnNEVMTXVNcnRuTVItT3Q3SV80NWsyalFsOWtGVjc1a2hnWVp0MjhTaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-12 13:02:04"
-    },
-    {
-      "title": "兒毆80歲曾蔡美佐！蘇治芬轟蔡咏鍀：媽祖生日烙人打長輩「快辭朝天宮」 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxPUHpmQklqcm9KXy15MkEtcG4wam5SZGtQd2d1UlJIZHhiSWpoYTNQUTBjRVc1Z3RtVWl1YkVqWXRRN2h4TXY1TDNlcW9POUt6X1ByZ29EMTBuRFdSQlRMWmkxN2VXTEdwWF9tcDBqLVZIcUZ6NDFnTmRld1RfVzJZQUJRME5lVjJKMjg4d0lKSDMzcnNjOUJ3bDhhbUkyYnZmTkVhR3RJa05SbG83TGlyUEZFTjZLYkF6UEpRQWE2cGZ0Ni1WbDlRd2hidk5KZTlXRjNJb2Z1dTBkQU5uTXRycmNhTGlJYXNoT3RVWGFZOWtPbnQtS0tTbVBhQkpjbGNlN1NSczhMdkttZ1pvYzNTYlhQSEQ3TTNDWjdLMUVhblY4Mmh5U2gwZmN1eE9vMnNjZnpQUGhHeWhtZzhlWGJDZ2xSN1l4bkdFWWpITV9PVUljdTVWUXBFNDFwRGNscVFvcXZHMXQ4OG9CUndyM25McFRyMV9iSU53TTdZcWZNaUNnMnFqVTJRcWRKNlRqUlFURkJISEZBaS1fV2JSYTh3VDNQVUJ6NTVYNDR4NWdOYjJqdzdrMm81SkZ5SjF1NGxQYWFyQ0FoMjJGOEt0alJSblNqYWlSajZFcF94Q3VhZXVlTlZNdkt1WHhNSDlWY3IxS0xrMDYybnJpaGZXQ01VeGY2VUtEbGMzQzRkdWFtVWtLdkZsdWxmc2wya1pxRjVVWFJoN2JvSG5HRFhha1g1emx5SnhaTHRiSEVLT1didTRkNnM5TDBJMmNCeF8yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-12 12:08:12"
     }
   ],
   "person_sections": {
@@ -1000,6 +1058,11 @@
       ],
       "news": [
         {
+          "title": "AI浪潮席捲全球 劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNWTlicVhIcTNPOEpKa0VFYVZZRklWWGNmMWx0RGJESlA0OVdsYkMtOTd0dXJGSWdiQUtVY2FzZGlMTHc1MUpRV0Y0ekM5Uk9ONVBGQm40ei1Gd1lnWS1CdVdJZkt4ZDktRlBVR2dTMGlTc0JzWmFmUFNxdHU4dDNXeGtXc3lQVXo5YWViM2RZU2w0bngzSHd0SjJRUVpFQ3JyYlJoN0dUUk40dGJpMXBvOGZ0cjB3M3VjR3BiVUpXMVdjR3FIT1l4NkRXNzRzc0x3akY3bmMzV3NoVFlxWlNGMGdTbHA4bDU4VlQxVEJod2Q3dXRHVHV5WW96NnFBY3I4SFozdjVsQjdYTEctUTZIZUwtQUR3UDhpWm5PR0RjaE9UYkhqQ3JtR2ROLTJtRWl0SlRTaWpkMnR1c1FWWUZVUHZwMzJFVFpLcUVyYjhVZ2NWaThoUzBUbllfS3lFNUlHTXp2X0Qxd1NUaUlBQXRmWXl0NzN5U2dhQzBEcTlQOVMtZkxMSlNfcFFDc04xRkd5MDBQeWFyMXFyUDlTRDBqdg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-14 17:47:15"
+        },
+        {
           "title": "AI浪潮席捲全球！ 雲林立委劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - 台灣華報",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIMHlCUF9pM1lUU0Q5M0pYbG13MTM3bGxaVS1QU1JzVGxLejdiazVtWmtjNTZXRWJpNU5uLXJTT0p2Zmp5aUZrNnFYUkxFRkJMUi10Wml3c0hDaVVtUU4yQ09NdDB0TUNyMVpV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-14 11:56:28"
@@ -1008,6 +1071,16 @@
           "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNN09MZ2lyVTNoLVlLbURYTmhuckZZeFVFV3pxb0ZMaE55NHhtTjVFNzNicHNCMk5WbFl6aGswYWdoal9TWEZNeEp4VUNXR1FUaHRQOHNoZm5GRkVEVUZBdTAtWWlsQWoydkRaQ3ZXeTZBN1EyX1lEWVoyZV9ETTBTVm5KSDd3Y2g0djhROWthYlVVWlFwaWxFRTZFaUtIX3REWWtja2d3bDJhUmNxUGRoQld4UUxCWG9BRlpXWFdkX3BpdGtvTC1IUmRoQzZMeWxacFAxbjFpaVV6bFN6anlXWEtSRkdGRUNPRjVFbi0xdk8wcE5RSjgtWjlYd3NMRnQzRlN3a1NlZEphLW9FbU5IdDhhTlR1UXRKUjI2VDE3eXhiY2JmZzFYVFJVQkd2Qll5OTU3S2M1LXdBN0dfRmlveWliV2FWUl9mNFZOb3R3SVdhVkRCal8tQUhTbXdodUxMTnpIUWpNMUwtVzNjMk9wUTlYY0hYcGR0cERjUGxDcnk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-14 06:05:37"
+        },
+        {
+          "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMlJhRTVRcng4dTlBWGVTcFRBM2UxS1VHSzZmcnQzMFJNNFRXdU5lazZGTmhGZGNOSTAtU0JnUE9Hb1hLS3JJUFdKLVNwTUZsTUppbU9LZ0pnV3c4Q2hxeU43U0RoSXFXT01hbzdMeFhYd3czSWVjRFlrQ3hna1A3SExWRTg2Vmx4RllFTHlnb2RSSVdTeVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-14 06:05:37"
+        },
+        {
+          "title": "社工文書壓力爆棚 劉建國籲衛福部全面導入AI減負擔 - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TbnR5MG0wVFJYUG5BUkRxRl9EenZPc1A5MjJlRDM2Z3JNVWtxejZ2cUs5d1RpazZOY29CYXFsM193V3kzUFdjOUU2RHVtcjU2YkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-13 22:39:00"
         },
         {
           "title": "社工文書壓力爆棚 劉建國籲衛福部全面導入AI減負擔 - PChome Online 新聞",
@@ -1083,27 +1156,22 @@
           "title": "醫美偷拍案全面延燒！劉建國要求衛福部立即啟動全國稽查 - PChome Online 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbUU5MmZCbGdUQ3BSYzc1TVpaWHdQWkM2RjZlQ3hwTnZLTnQzZDh4U2RmOVVuSV9WTV9YM3diU0NIUzdPVVJOMWYxNlJocWtSOHpxOWxrcFoxaUlaNDJpR2hJcE1hcVg0M2JTNGVyRTRRQWNPV09oTHFfUGxyQWw2ZXZzWkFzSVN5MXNENVF4NTVWdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-11 20:17:18"
-        },
-        {
-          "title": "醫美偷拍案全面延燒！劉建國要求衛福部立即啟動全國稽查 - 蕃新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tNDlSdVlQaHJPbmNndUZkTENPRzY5dnNyOS1iM2dVdURBcDAyWTk4T3hxV1dTQ2xRanJrdWE2RWU3TDdPRzl4T1FzQk9RNXBYQkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-11 20:17:00"
-        },
-        {
-          "title": "醫美偷拍風暴擴大！劉建國怒轟衛福部慢半拍「全國稽查刻不容緩」 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNU3UzUnQ4YjRaUGtzM0dWaUtLR1lmdk43ZnpCTVQ2Ti1NWXpzeFVIU2pSSjhaSXJpdHByYmRGdXhVZnFwbkJhOE1jODVkNmlCSTM4SUdyel9SZTM3WWNSUVpRNVgzUS1HVVJoeHFQQ2oxdEdSYXJqQkxXY2oyaC1OOE9SNzZhUjVGWjNWVkVpRmFKLXVrZ2hTZFVrbTMwZzZFN3JUWFJybE9YOTc2RU9ZYng1R19Cc0JicG1tRGZNc1pCOTd1YnNrNk5xSWczWFRTcUh2OHJuWFFmR0xhUWZHbmFZakFBTmhENGQtRzNvWnE5NXFFbmNhZFROZHFyYWkzbzI1NVNHZXJmZDlObkVwdzdFS0hremZSUC1maGdHd1BFWnk1M0YzcW9xc3NOa1FmSExyejNxVTNrSER3Uk41eDFDR0tUSHhZZU5Sc0VYOGZmUFVOVjFhWWJHVXBKdFNmSGEyaUkzaGxTQ1hiMzdMOHVnenpESURnQnd3U3pJekl4ZjRNakdPWjhkTGdUbU9jX3pxNzJBcGpBdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-11 19:53:00"
-        },
-        {
-          "title": "快新聞／醫美偷拍風暴擴大！劉建國怒轟衛福部慢半拍「全國稽查刻不容緩」 - 民視新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1la3dWWlNLRXJTQy12ZE9yOEN1YW54NUdRdDRsbDFxdFMwU3ZwVlBZV0YzUjI2TXB4Q0hESHotVHBVTWdDMzY4dTRrR3hQYkplVXBPblVzOVJ4eDhEQzFVQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-11 19:53:00"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "立委丁學忠邀水利署會勘 提升雲林海線排水防洪能力補強治水設施 - 台灣生活新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fS1B4OFUwOVRhUTNyZm5LdXp4SmFaNDlyUG1QdmxiSkVWYnNOcFRvaTU0Q2dhQW5lMEVQN256V2JtdEUwTlRqQk54TVhwTjUy?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 17:54:57"
+      },
+      {
+        "title": "AI浪潮席捲全球 劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNWTlicVhIcTNPOEpKa0VFYVZZRklWWGNmMWx0RGJESlA0OVdsYkMtOTd0dXJGSWdiQUtVY2FzZGlMTHc1MUpRV0Y0ekM5Uk9ONVBGQm40ei1Gd1lnWS1CdVdJZkt4ZDktRlBVR2dTMGlTc0JzWmFmUFNxdHU4dDNXeGtXc3lQVXo5YWViM2RZU2w0bngzSHd0SjJRUVpFQ3JyYlJoN0dUUk40dGJpMXBvOGZ0cjB3M3VjR3BiVUpXMVdjR3FIT1l4NkRXNzRzc0x3akY3bmMzV3NoVFlxWlNGMGdTbHA4bDU4VlQxVEJod2Q3dXRHVHV5WW96NnFBY3I4SFozdjVsQjdYTEctUTZIZUwtQUR3UDhpWm5PR0RjaE9UYkhqQ3JtR2ROLTJtRWl0SlRTaWpkMnR1c1FWWUZVUHZwMzJFVFpLcUVyYjhVZ2NWaThoUzBUbllfS3lFNUlHTXp2X0Qxd1NUaUlBQXRmWXl0NzN5U2dhQzBEcTlQOVMtZkxMSlNfcFFDc04xRkd5MDBQeWFyMXFyUDlTRDBqdg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 17:47:15"
+      },
       {
         "title": "AI浪潮席捲全球！ 雲林立委劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIMHlCUF9pM1lUU0Q5M0pYbG13MTM3bGxaVS1QU1JzVGxLejdiazVtWmtjNTZXRWJpNU5uLXJTT0p2Zmp5aUZrNnFYUkxFRkJMUi10Wml3c0hDaVVtUU4yQ09NdDB0TUNyMVpV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1113,6 +1181,16 @@
         "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNN09MZ2lyVTNoLVlLbURYTmhuckZZeFVFV3pxb0ZMaE55NHhtTjVFNzNicHNCMk5WbFl6aGswYWdoal9TWEZNeEp4VUNXR1FUaHRQOHNoZm5GRkVEVUZBdTAtWWlsQWoydkRaQ3ZXeTZBN1EyX1lEWVoyZV9ETTBTVm5KSDd3Y2g0djhROWthYlVVWlFwaWxFRTZFaUtIX3REWWtja2d3bDJhUmNxUGRoQld4UUxCWG9BRlpXWFdkX3BpdGtvTC1IUmRoQzZMeWxacFAxbjFpaVV6bFN6anlXWEtSRkdGRUNPRjVFbi0xdk8wcE5RSjgtWjlYd3NMRnQzRlN3a1NlZEphLW9FbU5IdDhhTlR1UXRKUjI2VDE3eXhiY2JmZzFYVFJVQkd2Qll5OTU3S2M1LXdBN0dfRmlveWliV2FWUl9mNFZOb3R3SVdhVkRCal8tQUhTbXdodUxMTnpIUWpNMUwtVzNjMk9wUTlYY0hYcGR0cERjUGxDcnk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-14 06:05:37"
+      },
+      {
+        "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMlJhRTVRcng4dTlBWGVTcFRBM2UxS1VHSzZmcnQzMFJNNFRXdU5lazZGTmhGZGNOSTAtU0JnUE9Hb1hLS3JJUFdKLVNwTUZsTUppbU9LZ0pnV3c4Q2hxeU43U0RoSXFXT01hbzdMeFhYd3czSWVjRFlrQ3hna1A3SExWRTg2Vmx4RllFTHlnb2RSSVdTeVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 06:05:37"
+      },
+      {
+        "title": "社工文書壓力爆棚 劉建國籲衛福部全面導入AI減負擔 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TbnR5MG0wVFJYUG5BUkRxRl9EenZPc1A5MjJlRDM2Z3JNVWtxejZ2cUs5d1RpazZOY29CYXFsM193V3kzUFdjOUU2RHVtcjU2YkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-13 22:39:00"
       },
       {
         "title": "社工文書壓力爆棚 劉建國籲衛福部全面導入AI減負擔 - PChome Online 新聞",
@@ -1143,6 +1221,16 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "立委丁學忠邀水利署會勘 提升雲林海線排水防洪能力補強治水設施 - 台灣生活新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fS1B4OFUwOVRhUTNyZm5LdXp4SmFaNDlyUG1QdmxiSkVWYnNOcFRvaTU0Q2dhQW5lMEVQN256V2JtdEUwTlRqQk54TVhwTjUy?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 17:54:57"
+      },
+      {
+        "title": "AI浪潮席捲全球 劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNWTlicVhIcTNPOEpKa0VFYVZZRklWWGNmMWx0RGJESlA0OVdsYkMtOTd0dXJGSWdiQUtVY2FzZGlMTHc1MUpRV0Y0ekM5Uk9ONVBGQm40ei1Gd1lnWS1CdVdJZkt4ZDktRlBVR2dTMGlTc0JzWmFmUFNxdHU4dDNXeGtXc3lQVXo5YWViM2RZU2w0bngzSHd0SjJRUVpFQ3JyYlJoN0dUUk40dGJpMXBvOGZ0cjB3M3VjR3BiVUpXMVdjR3FIT1l4NkRXNzRzc0x3akY3bmMzV3NoVFlxWlNGMGdTbHA4bDU4VlQxVEJod2Q3dXRHVHV5WW96NnFBY3I4SFozdjVsQjdYTEctUTZIZUwtQUR3UDhpWm5PR0RjaE9UYkhqQ3JtR2ROLTJtRWl0SlRTaWpkMnR1c1FWWUZVUHZwMzJFVFpLcUVyYjhVZ2NWaThoUzBUbllfS3lFNUlHTXp2X0Qxd1NUaUlBQXRmWXl0NzN5U2dhQzBEcTlQOVMtZkxMSlNfcFFDc04xRkd5MDBQeWFyMXFyUDlTRDBqdg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 17:47:15"
+      },
+      {
         "title": "AI浪潮席捲全球！ 雲林立委劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIMHlCUF9pM1lUU0Q5M0pYbG13MTM3bGxaVS1QU1JzVGxLejdiazVtWmtjNTZXRWJpNU5uLXJTT0p2Zmp5aUZrNnFYUkxFRkJMUi10Wml3c0hDaVVtUU4yQ09NdDB0TUNyMVpV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-14 11:56:28"
@@ -1151,6 +1239,16 @@
         "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNN09MZ2lyVTNoLVlLbURYTmhuckZZeFVFV3pxb0ZMaE55NHhtTjVFNzNicHNCMk5WbFl6aGswYWdoal9TWEZNeEp4VUNXR1FUaHRQOHNoZm5GRkVEVUZBdTAtWWlsQWoydkRaQ3ZXeTZBN1EyX1lEWVoyZV9ETTBTVm5KSDd3Y2g0djhROWthYlVVWlFwaWxFRTZFaUtIX3REWWtja2d3bDJhUmNxUGRoQld4UUxCWG9BRlpXWFdkX3BpdGtvTC1IUmRoQzZMeWxacFAxbjFpaVV6bFN6anlXWEtSRkdGRUNPRjVFbi0xdk8wcE5RSjgtWjlYd3NMRnQzRlN3a1NlZEphLW9FbU5IdDhhTlR1UXRKUjI2VDE3eXhiY2JmZzFYVFJVQkd2Qll5OTU3S2M1LXdBN0dfRmlveWliV2FWUl9mNFZOb3R3SVdhVkRCal8tQUhTbXdodUxMTnpIUWpNMUwtVzNjMk9wUTlYY0hYcGR0cERjUGxDcnk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-14 06:05:37"
+      },
+      {
+        "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMlJhRTVRcng4dTlBWGVTcFRBM2UxS1VHSzZmcnQzMFJNNFRXdU5lazZGTmhGZGNOSTAtU0JnUE9Hb1hLS3JJUFdKLVNwTUZsTUppbU9LZ0pnV3c4Q2hxeU43U0RoSXFXT01hbzdMeFhYd3czSWVjRFlrQ3hna1A3SExWRTg2Vmx4RllFTHlnb2RSSVdTeVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 06:05:37"
+      },
+      {
+        "title": "社工文書壓力爆棚 劉建國籲衛福部全面導入AI減負擔 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TbnR5MG0wVFJYUG5BUkRxRl9EenZPc1A5MjJlRDM2Z3JNVWtxejZ2cUs5d1RpazZOY29CYXFsM193V3kzUFdjOUU2RHVtcjU2YkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-13 22:39:00"
       },
       {
         "title": "社工文書壓力爆棚 劉建國籲衛福部全面導入AI減負擔 - PChome Online 新聞",
@@ -1321,26 +1419,6 @@
         "title": "朝天宮董事長之子涉率眾傷人 蘇治芬建議蔡咏鍀「讓媽祖卡清心」自己請辭 - 鉅聞天下",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Mc0VFOE5qNnB4RkFQSDVReU1IdXB4UThwM2NUUmlvWGJuYUI1bE1ldUZWTE9PTnhFRzdvbE9wUVF4X1hlT2wtRDRTa09PZHlWR0NQeXdIY1VaNHZOX2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-12 07:10:00"
-      },
-      {
-        "title": "張嘉郡拋雲林孵蛋 劉建國訪基層勘災 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQdlZEX0dGVlU5X2RtQXZMSzNyd010bDhTYTJFMUJMR3JOakVpNWNNY25YdUtUSDJiRl9pQ3dfakdqTHJ4eTdYaFBCUWhqeEZaZk82YlJMZ1NNVldpeUNnXzh6WXdTdXk4UWxLOUxoalJxY1NKSnJiM0cwSVJsTUVDRDhwM19RT0dvLXBya25uUEtpV0VyUUpwTDQ2cVBmWVJYc0Y1aTBZNmNBaE5OTkJGYXpTZHczZksyQVpKeWw5bm9uay16VnV0LUhURHZlZ3VqZEZkRmZVMklZdVJXa08yQTFrTlZrbHlwS3pqMkZlSFhNd3h5RmFDb2FEcTBjQmMtVE1MM29kUV9MT0VpUjZqZDgtR1o?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-12 06:27:28"
-      },
-      {
-        "title": "丁學忠罷案不通過！本尊： 不捨長輩分裂對立 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxNcXc4eG9fbVNPNkhqZG4zXy02VjlEMm1vLUpvSjVubjAzcjJHTldHeFJod256ZWNrRDNUbksxUmFzcnh0SmEzTTB2U1RCQUlzMHFtMmlrTHNWM01hN09BQUE4aVpDOW5hUEV3NXh6QnBrRG9hT2pRdUpMcUE3RlpBSnhUZjc1b1FXYjFPc29FeXY4bkw2OEl2V1ROdUVXNU1wanA5cVRyNTBocWdvV0pXeWs1ZmN3emlITTB0MGNCNGtEdm9MTWR4MU9yVTVCdllqck10SUFLd2RSSGVJZl9NcVFaakd5TFc4RmtXWXQ4NEY2TUVpcFJzVWg3V1k0VHBMRFJvMGkzbm1nNm1BVllJVmdmbXBDWWRZdDhuUEdVRkFUVk84OHd6elNFOHNsaVloYXJjSUs4VFdEcGh4RjIwQTk3S3Fta0VGU3hBUDRXYkl3VHdvb1BKZGxyelFlSkpSTWFwUlUzZVZWT042RGwtUEFaWHZ6RF9lQVd6bzltNW1hVTlHeGdpRjJJaEJmeWlWOHk4TG82YVFablk1WU5BLS1NcHR4eUJySGI0bTVwSU9iblQ3TDlxc0piaTNIVkNJVkJOWjdCLVI4RklEVE5RTllBNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-12 05:23:49"
-      },
-      {
-        "title": "雲林 張嘉郡要孵蛋 劉建國爭高齡醫學中心 - 中時新聞網",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yRjhxd3hUWnRHek9POXNIQ0M0SGIwRUZuQkNkSFVlbExhczJkOGgtWUxoR1Z0NkFPSkNHTlZFWm5NMFNUbFVkMGNVMEN0OWpQU2ltcTRGOHVsMU9LWVprcFJSYkhUWm44cUxV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-12 04:10:00"
-      },
-      {
-        "title": "張嘉郡拋斗六「孵蛋」! 打造嶄新多功能場館 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQOFVyTHZJVk9Zd0xhLTluOUJhSXV5TWoyR0Rxa1dPamZhR21wUWdjUDNLNW5YTV9VQmNDV19qS0NjVldXeU1QY3ppZUNHV2dBWWRWZVFRenBvUXE2b0x2RC1LQjZ6aFB3TzhmTEJJT0tBcnJMVkljeFNNd0FGQ05LSnZvX2ZBNU1IdTFEQ3RSckNKVDhJTUxjZzBNYVU5c3N5N01Zb296RllvZ1lPbGFFOC0wS24wdnlWOVN5TEpjWGF3LTl1MVVyVVJQYVJjbm9IVE1TOENTaHpxNHB1RVVJbDluUHdkMEVTWHl6LWY2UThROVdhQ0QxNUN1N2NqaFNzTjhpR2VQMDBHRU9XcU5wb2R2VzU4OFF6TktnX1VYU1JKUzlvWTJpRi0wdWtMbWxL?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-12 02:06:09"
       }
     ],
     "facebook": [
@@ -1513,6 +1591,20 @@
     "hour": [],
     "day": [
       {
+        "title": "立委丁學忠邀水利署會勘 提升雲林海線排水防洪能力補強治水設施 - 台灣生活新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fS1B4OFUwOVRhUTNyZm5LdXp4SmFaNDlyUG1QdmxiSkVWYnNOcFRvaTU0Q2dhQW5lMEVQN256V2JtdEUwTlRqQk54TVhwTjUy?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 17:54:57",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "AI浪潮席捲全球 劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNWTlicVhIcTNPOEpKa0VFYVZZRklWWGNmMWx0RGJESlA0OVdsYkMtOTd0dXJGSWdiQUtVY2FzZGlMTHc1MUpRV0Y0ekM5Uk9ONVBGQm40ei1Gd1lnWS1CdVdJZkt4ZDktRlBVR2dTMGlTc0JzWmFmUFNxdHU4dDNXeGtXc3lQVXo5YWViM2RZU2w0bngzSHd0SjJRUVpFQ3JyYlJoN0dUUk40dGJpMXBvOGZ0cjB3M3VjR3BiVUpXMVdjR3FIT1l4NkRXNzRzc0x3akY3bmMzV3NoVFlxWlNGMGdTbHA4bDU4VlQxVEJod2Q3dXRHVHV5WW96NnFBY3I4SFozdjVsQjdYTEctUTZIZUwtQUR3UDhpWm5PR0RjaE9UYkhqQ3JtR2ROLTJtRWl0SlRTaWpkMnR1c1FWWUZVUHZwMzJFVFpLcUVyYjhVZ2NWaThoUzBUbllfS3lFNUlHTXp2X0Qxd1NUaUlBQXRmWXl0NzN5U2dhQzBEcTlQOVMtZkxMSlNfcFFDc04xRkd5MDBQeWFyMXFyUDlTRDBqdg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 17:47:15",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "AI浪潮席捲全球！ 雲林立委劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIMHlCUF9pM1lUU0Q5M0pYbG13MTM3bGxaVS1QU1JzVGxLejdiazVtWmtjNTZXRWJpNU5uLXJTT0p2Zmp5aUZrNnFYUkxFRkJMUi10Wml3c0hDaVVtUU4yQ09NdDB0TUNyMVpV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-14 11:56:28",
@@ -1523,6 +1615,20 @@
         "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNN09MZ2lyVTNoLVlLbURYTmhuckZZeFVFV3pxb0ZMaE55NHhtTjVFNzNicHNCMk5WbFl6aGswYWdoal9TWEZNeEp4VUNXR1FUaHRQOHNoZm5GRkVEVUZBdTAtWWlsQWoydkRaQ3ZXeTZBN1EyX1lEWVoyZV9ETTBTVm5KSDd3Y2g0djhROWthYlVVWlFwaWxFRTZFaUtIX3REWWtja2d3bDJhUmNxUGRoQld4UUxCWG9BRlpXWFdkX3BpdGtvTC1IUmRoQzZMeWxacFAxbjFpaVV6bFN6anlXWEtSRkdGRUNPRjVFbi0xdk8wcE5RSjgtWjlYd3NMRnQzRlN3a1NlZEphLW9FbU5IdDhhTlR1UXRKUjI2VDE3eXhiY2JmZzFYVFJVQkd2Qll5OTU3S2M1LXdBN0dfRmlveWliV2FWUl9mNFZOb3R3SVdhVkRCal8tQUhTbXdodUxMTnpIUWpNMUwtVzNjMk9wUTlYY0hYcGR0cERjUGxDcnk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-14 06:05:37",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMlJhRTVRcng4dTlBWGVTcFRBM2UxS1VHSzZmcnQzMFJNNFRXdU5lazZGTmhGZGNOSTAtU0JnUE9Hb1hLS3JJUFdKLVNwTUZsTUppbU9LZ0pnV3c4Q2hxeU43U0RoSXFXT01hbzdMeFhYd3czSWVjRFlrQ3hna1A3SExWRTg2Vmx4RllFTHlnb2RSSVdTeVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-14 06:05:37",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "社工文書壓力爆棚 劉建國籲衛福部全面導入AI減負擔 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TbnR5MG0wVFJYUG5BUkRxRl9EenZPc1A5MjJlRDM2Z3JNVWtxejZ2cUs5d1RpazZOY29CYXFsM193V3kzUFdjOUU2RHVtcjU2YkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-13 22:39:00",
         "platform": "news",
         "risk": "綠"
       },
@@ -1560,7 +1666,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 1
+        "count": 2
       }
     ],
     "groups": []
