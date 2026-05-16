@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-16T11:33:22.169407+00:00",
+  "generated_at": "2026-05-16T11:48:42.871572+00:00",
   "metrics": {
-    "total_24h": 0,
+    "total_24h": 2,
     "prev_24h": 11,
-    "growth_pct": -100.0,
-    "news_24h": 0,
+    "growth_pct": -81.82,
+    "news_24h": 2,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 125,
+    "total": 127,
     "prev": 76,
-    "growth_pct": 64.47,
-    "news": 96,
+    "growth_pct": 67.11,
+    "news": 98,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -25,11 +25,16 @@
       "reasons": []
     }
   },
-  "by_platform": [],
+  "by_platform": [
+    {
+      "platform": "news",
+      "count": 2
+    }
+  ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 96
+      "count": 98
     },
     {
       "platform": "facebook",
@@ -40,7 +45,16 @@
       "count": 7
     }
   ],
-  "by_hour": [],
+  "by_hour": [
+    {
+      "hour": "2026-05-16 13:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-05-16 16:00",
+      "count": 1
+    }
+  ],
   "by_hour_7d": [
     {
       "hour": "2026-05-09 23:00",
@@ -249,22 +263,87 @@
     {
       "hour": "2026-05-15 14:00",
       "count": 1
+    },
+    {
+      "hour": "2026-05-16 13:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-05-16 16:00",
+      "count": 1
     }
   ],
-  "mention_by_platform_24h": [],
-  "mention_latest_by_platform_24h": {},
-  "alias_by_platform_24h": [],
-  "alias_latest_by_platform_24h": {},
+  "mention_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 2
+    }
+  ],
+  "mention_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "AI助社工減壓 劉建國要求衛福部加速導入智慧系統 - 大纪元",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HSk9ka3FvaHJYb0NEdFRhRmhha1RseFFCZlJLbldqYVBnQzl2Unp5U0dOR1l5TU5yMjgwRlBwd1lxQ2w3TXlQdDBmU3N1REJ2V0JMY1h4U1poN0lOc3RkaNIBZkFVX3lxTE5qektoSlZJY0hjMWFYNDAxV0hqVVM5NEJKclZLUHBxWXlPblZuckpWY2c1MS1iak1NbmswRElYMERiYjlKZ0xIYm1sNi1XRjhfZHRGVzdDbzAyMy12Mmp6Q3BOQ0p4UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-16 16:29:00"
+      },
+      {
+        "title": "漁業署推鰻魚入粽 劉建國豪邁包\"鰻魚粽\" - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wWHdQN1g5d3dWMzBjNk91cDVZLVZ5Zm9wdXBqNE1TalpGb1VCMW5aWVdCQnVwbHdpSjJLUzQ0MjJfd1dQNllZUlJXbGNncVZuSFF1SW5YQTZyM21tdEZpNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-16 13:51:12"
+      }
+    ]
+  },
+  "alias_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 2
+    }
+  ],
+  "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "AI助社工減壓 劉建國要求衛福部加速導入智慧系統 - 大纪元",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HSk9ka3FvaHJYb0NEdFRhRmhha1RseFFCZlJLbldqYVBnQzl2Unp5U0dOR1l5TU5yMjgwRlBwd1lxQ2w3TXlQdDBmU3N1REJ2V0JMY1h4U1poN0lOc3RkaNIBZkFVX3lxTE5qektoSlZJY0hjMWFYNDAxV0hqVVM5NEJKclZLUHBxWXlPblZuckpWY2c1MS1iak1NbmswRElYMERiYjlKZ0xIYm1sNi1XRjhfZHRGVzdDbzAyMy12Mmp6Q3BOQ0p4UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-16 16:29:00"
+      },
+      {
+        "title": "漁業署推鰻魚入粽 劉建國豪邁包\"鰻魚粽\" - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wWHdQN1g5d3dWMzBjNk91cDVZLVZ5Zm9wdXBqNE1TalpGb1VCMW5aWVdCQnVwbHdpSjJLUzQ0MjJfd1dQNllZUlJXbGNncVZuSFF1SW5YQTZyM21tdEZpNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-16 13:51:12"
+      }
+    ]
+  },
   "mention_compare_24h": {
     "張嘉郡": 0,
-    "劉建國": 0
+    "劉建國": 2
   },
   "mention_compare_7d": {
     "張嘉郡": 47,
-    "劉建國": 51
+    "劉建國": 53
   },
-  "top_news": [],
+  "top_news": [
+    {
+      "title": "AI助社工減壓 劉建國要求衛福部加速導入智慧系統 - 大纪元",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HSk9ka3FvaHJYb0NEdFRhRmhha1RseFFCZlJLbldqYVBnQzl2Unp5U0dOR1l5TU5yMjgwRlBwd1lxQ2w3TXlQdDBmU3N1REJ2V0JMY1h4U1poN0lOc3RkaNIBZkFVX3lxTE5qektoSlZJY0hjMWFYNDAxV0hqVVM5NEJKclZLUHBxWXlPblZuckpWY2c1MS1iak1NbmswRElYMERiYjlKZ0xIYm1sNi1XRjhfZHRGVzdDbzAyMy12Mmp6Q3BOQ0p4UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-16 16:29:00"
+    },
+    {
+      "title": "漁業署推鰻魚入粽 劉建國豪邁包\"鰻魚粽\" - 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wWHdQN1g5d3dWMzBjNk91cDVZLVZ5Zm9wdXBqNE1TalpGb1VCMW5aWVdCQnVwbHdpSjJLUzQ0MjJfd1dQNllZUlJXbGNncVZuSFF1SW5YQTZyM21tdEZpNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-16 13:51:12"
+    }
+  ],
   "top_news_7d": [
+    {
+      "title": "AI助社工減壓 劉建國要求衛福部加速導入智慧系統 - 大纪元",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HSk9ka3FvaHJYb0NEdFRhRmhha1RseFFCZlJLbldqYVBnQzl2Unp5U0dOR1l5TU5yMjgwRlBwd1lxQ2w3TXlQdDBmU3N1REJ2V0JMY1h4U1poN0lOc3RkaNIBZkFVX3lxTE5qektoSlZJY0hjMWFYNDAxV0hqVVM5NEJKclZLUHBxWXlPblZuckpWY2c1MS1iak1NbmswRElYMERiYjlKZ0xIYm1sNi1XRjhfZHRGVzdDbzAyMy12Mmp6Q3BOQ0p4UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-16 16:29:00"
+    },
+    {
+      "title": "漁業署推鰻魚入粽 劉建國豪邁包\"鰻魚粽\" - 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wWHdQN1g5d3dWMzBjNk91cDVZLVZ5Zm9wdXBqNE1TalpGb1VCMW5aWVdCQnVwbHdpSjJLUzQ0MjJfd1dQNllZUlJXbGNncVZuSFF1SW5YQTZyM21tdEZpNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-16 13:51:12"
+    },
     {
       "title": "緩解雲林托育荒！張嘉郡爭「6533萬」升級39所公幼，虎尾新校8月開園力拚免錢讀冊| 夏和宣| 地方新聞 - 風傳媒",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0ySW9zbkFYM3J0RklvSWlzbk1kUVpuSG02SzViTjNTYjluekZ0djZSdDB0RV9QdG9QRnU2QnhlZjhkQ1JZQlpUaE04UUstUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -354,16 +433,6 @@
       "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNN09MZ2lyVTNoLVlLbURYTmhuckZZeFVFV3pxb0ZMaE55NHhtTjVFNzNicHNCMk5WbFl6aGswYWdoal9TWEZNeEp4VUNXR1FUaHRQOHNoZm5GRkVEVUZBdTAtWWlsQWoydkRaQ3ZXeTZBN1EyX1lEWVoyZV9ETTBTVm5KSDd3Y2g0djhROWthYlVVWlFwaWxFRTZFaUtIX3REWWtja2d3bDJhUmNxUGRoQld4UUxCWG9BRlpXWFdkX3BpdGtvTC1IUmRoQzZMeWxacFAxbjFpaVV6bFN6anlXWEtSRkdGRUNPRjVFbi0xdk8wcE5RSjgtWjlYd3NMRnQzRlN3a1NlZEphLW9FbU5IdDhhTlR1UXRKUjI2VDE3eXhiY2JmZzFYVFJVQkd2Qll5OTU3S2M1LXdBN0dfRmlveWliV2FWUl9mNFZOb3R3SVdhVkRCal8tQUhTbXdodUxMTnpIUWpNMUwtVzNjMk9wUTlYY0hYcGR0cERjUGxDcnk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-14 06:05:37"
-    },
-    {
-      "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMlJhRTVRcng4dTlBWGVTcFRBM2UxS1VHSzZmcnQzMFJNNFRXdU5lazZGTmhGZGNOSTAtU0JnUE9Hb1hLS3JJUFdKLVNwTUZsTUppbU9LZ0pnV3c4Q2hxeU43U0RoSXFXT01hbzdMeFhYd3czSWVjRFlrQ3hna1A3SExWRTg2Vmx4RllFTHlnb2RSSVdTeVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-14 06:05:37"
-    },
-    {
-      "title": "衛福部AI平台挨批難用 劉建國替第一線社工發聲 - 元丰傳媒",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWlV2MklEV00yS1lGdmkwd2xDTVYwRno4NHhzVjc0X3drVzNsak4za3NpOHExZ0xNNGY4bW9Ic2k0ZWtuWkQ2ZndqUmZFelhFMFFNRTZvQ0NhN1p5TGZvSzJzejRrZEM1c0pBODR5dGxZMktCRXlScWFlSVNyelltV1dJelRURlhUV0JrblR6Q0wwU3NNS19laVlPWGdPYkNQTGRWUw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-14 01:36:04"
     }
   ],
   "latest_facebook_20": [
@@ -470,6 +539,16 @@
   ],
   "latest_news_20": [
     {
+      "title": "AI助社工減壓 劉建國要求衛福部加速導入智慧系統 - 大纪元",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HSk9ka3FvaHJYb0NEdFRhRmhha1RseFFCZlJLbldqYVBnQzl2Unp5U0dOR1l5TU5yMjgwRlBwd1lxQ2w3TXlQdDBmU3N1REJ2V0JMY1h4U1poN0lOc3RkaNIBZkFVX3lxTE5qektoSlZJY0hjMWFYNDAxV0hqVVM5NEJKclZLUHBxWXlPblZuckpWY2c1MS1iak1NbmswRElYMERiYjlKZ0xIYm1sNi1XRjhfZHRGVzdDbzAyMy12Mmp6Q3BOQ0p4UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-16 16:29:00"
+    },
+    {
+      "title": "漁業署推鰻魚入粽 劉建國豪邁包\"鰻魚粽\" - 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wWHdQN1g5d3dWMzBjNk91cDVZLVZ5Zm9wdXBqNE1TalpGb1VCMW5aWVdCQnVwbHdpSjJLUzQ0MjJfd1dQNllZUlJXbGNncVZuSFF1SW5YQTZyM21tdEZpNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-16 13:51:12"
+    },
+    {
       "title": "緩解雲林托育荒！張嘉郡爭「6533萬」升級39所公幼，虎尾新校8月開園力拚免錢讀冊| 夏和宣| 地方新聞 - 風傳媒",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0ySW9zbkFYM3J0RklvSWlzbk1kUVpuSG02SzViTjNTYjluekZ0djZSdDB0RV9QdG9QRnU2QnhlZjhkQ1JZQlpUaE04UUstUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-15 14:55:24"
@@ -558,16 +637,6 @@
       "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNN09MZ2lyVTNoLVlLbURYTmhuckZZeFVFV3pxb0ZMaE55NHhtTjVFNzNicHNCMk5WbFl6aGswYWdoal9TWEZNeEp4VUNXR1FUaHRQOHNoZm5GRkVEVUZBdTAtWWlsQWoydkRaQ3ZXeTZBN1EyX1lEWVoyZV9ETTBTVm5KSDd3Y2g0djhROWthYlVVWlFwaWxFRTZFaUtIX3REWWtja2d3bDJhUmNxUGRoQld4UUxCWG9BRlpXWFdkX3BpdGtvTC1IUmRoQzZMeWxacFAxbjFpaVV6bFN6anlXWEtSRkdGRUNPRjVFbi0xdk8wcE5RSjgtWjlYd3NMRnQzRlN3a1NlZEphLW9FbU5IdDhhTlR1UXRKUjI2VDE3eXhiY2JmZzFYVFJVQkd2Qll5OTU3S2M1LXdBN0dfRmlveWliV2FWUl9mNFZOb3R3SVdhVkRCal8tQUhTbXdodUxMTnpIUWpNMUwtVzNjMk9wUTlYY0hYcGR0cERjUGxDcnk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-14 06:05:37"
-    },
-    {
-      "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMlJhRTVRcng4dTlBWGVTcFRBM2UxS1VHSzZmcnQzMFJNNFRXdU5lazZGTmhGZGNOSTAtU0JnUE9Hb1hLS3JJUFdKLVNwTUZsTUppbU9LZ0pnV3c4Q2hxeU43U0RoSXFXT01hbzdMeFhYd3czSWVjRFlrQ3hna1A3SExWRTg2Vmx4RllFTHlnb2RSSVdTeVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-14 06:05:37"
-    },
-    {
-      "title": "衛福部AI平台挨批難用 劉建國替第一線社工發聲 - 元丰傳媒",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWlV2MklEV00yS1lGdmkwd2xDTVYwRno4NHhzVjc0X3drVzNsak4za3NpOHExZ0xNNGY4bW9Ic2k0ZWtuWkQ2ZndqUmZFelhFMFFNRTZvQ0NhN1p5TGZvSzJzejRrZEM1c0pBODR5dGxZMktCRXlScWFlSVNyelltV1dJelRURlhUV0JrblR6Q0wwU3NNS19laVlPWGdPYkNQTGRWUw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-14 01:36:04"
     }
   ],
   "person_sections": {
@@ -882,6 +951,16 @@
       ],
       "news": [
         {
+          "title": "AI助社工減壓 劉建國要求衛福部加速導入智慧系統 - 大纪元",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HSk9ka3FvaHJYb0NEdFRhRmhha1RseFFCZlJLbldqYVBnQzl2Unp5U0dOR1l5TU5yMjgwRlBwd1lxQ2w3TXlQdDBmU3N1REJ2V0JMY1h4U1poN0lOc3RkaNIBZkFVX3lxTE5qektoSlZJY0hjMWFYNDAxV0hqVVM5NEJKclZLUHBxWXlPblZuckpWY2c1MS1iak1NbmswRElYMERiYjlKZ0xIYm1sNi1XRjhfZHRGVzdDbzAyMy12Mmp6Q3BOQ0p4UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-16 16:29:00"
+        },
+        {
+          "title": "漁業署推鰻魚入粽 劉建國豪邁包\"鰻魚粽\" - 民視新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wWHdQN1g5d3dWMzBjNk91cDVZLVZ5Zm9wdXBqNE1TalpGb1VCMW5aWVdCQnVwbHdpSjJLUzQ0MjJfd1dQNllZUlJXbGNncVZuSFF1SW5YQTZyM21tdEZpNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-16 13:51:12"
+        },
+        {
           "title": "AI浪潮席捲全球！劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxPNjhvdG51NGFyUkZ4cmpHN3c2VjJpUGEyUlFldUtQZVRjUjY4S21MenBoQXVSYnlnRUVmTkFIaW9mQ1Fqc1VPWnJkV1lHR2NuNkJXME8wYldmWHRzbS1yYXlsVnQtZ3dkWnN5MmlBX2dwTl9tbFRSMUhTLXZra0tzUUszTDZIUkxycW5MYW5PTnNkY0VPLU5oWlAzbFYzclJIWDhxbXg3SUZiUVJETzRhXy12N1RDQTFtWW9MMXJxcTRKcERCZ3BjdWlMSUJoRy11WUFKcG1feklEMkw1N1FZd1g5Tjg0TTQ1X2RwM2pDZmlSZ0ZJNXpMeWVTaGdhRXpFZ0FPSDdmUGVvM19LSDFpa2dMc3lKUFRfcEo0RkZ5MlFyZlg1dDQyOGtjbEpYRGp4VmRRTzJaWnpVUXphNTloQzJxUlpjeWZUMTk1bXVuekdCZ1V0RnlZLTloNWs1SGVjVnp5eklEZ2RETzBLc0RocjRQUmxmSkNJcTFDdmQzTGJ4aE1mVnAzXzJlRHFjb0c5YzRtNGM4b0FpZjZYcXdtWA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-15 00:15:50"
@@ -970,23 +1049,36 @@
           "title": "劉建國關注醫療隱私與社工AI化 要求衛福部立即全國稽查、減輕基層負擔 - 台灣民眾電子報",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QM3lfR1lpX3hiYm5QSDI3ZnZINDB1UnhSWThxRHRkTG1qOVN1YUp6Z05MRzZERVFGa1dKbmVlUlNTaXZrTzA3cw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-13 17:35:55"
-        },
-        {
-          "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNT1hlT0hvZ09IRzI3THdTbk5Ecm5ZMzJlYXdfSTVKSFF1Nl8tREVtRmRxVE1jd0xLeEl4ZHdESjl3aVhVcC1qbmZjUFFWcmZQQW5RR0txOW40RnY1M0syTjZTbTB4cHRGeWp1SzRDeE9GZEI1MjhFVVlDRDVkNmVfcHdxd3RDQTdhd1F3VXFZdC1IYmIydWJEMGNuZkhTRWFtSFhNX1lpNTJWeE9MMUtDQ216UGhWekstamNzNHc4MFBhc1dyVkE3X3ZZdTNQLV8xTmd1U2I5aGhiRTVJVV9KZWFsMGhhYUVlWFBDUWNNa284U0VnYlZ0WXV4dHdnZlBVSF9IQVMzcXJoY2J1RGtRV3JvV0JsYTN1eklvWXFqX2hiM09HMmVVZzBMMk1pSV96b2NUUzRranhUa2VVaUdyQU5faHRDbVZFY29iVVNJb3J3UzlLUmdWeFkwVHJlR0lVcVNYN2NSUEZxQXFDTVVvZUVXc1o2emFxT3AtNnZWcGM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-13 17:19:05"
-        },
-        {
-          "title": "AI浪潮衝擊社工體系 立委劉建國促衛福部加速導入AI減輕文書負擔 - 蕃新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51YmZRZ2NmcVJtUzJ2RGxXc2YxVUZKN0pyMUZadF9hTW1qMl9aaGdTN2ZYc2ZOYnRxLVkxblp5ZC1LQlotbWs1UTF5M3NMV08yZnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-13 00:00:00"
         }
       ]
     }
   },
-  "latest_by_platform_24h": {},
+  "latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "AI助社工減壓 劉建國要求衛福部加速導入智慧系統 - 大纪元",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HSk9ka3FvaHJYb0NEdFRhRmhha1RseFFCZlJLbldqYVBnQzl2Unp5U0dOR1l5TU5yMjgwRlBwd1lxQ2w3TXlQdDBmU3N1REJ2V0JMY1h4U1poN0lOc3RkaNIBZkFVX3lxTE5qektoSlZJY0hjMWFYNDAxV0hqVVM5NEJKclZLUHBxWXlPblZuckpWY2c1MS1iak1NbmswRElYMERiYjlKZ0xIYm1sNi1XRjhfZHRGVzdDbzAyMy12Mmp6Q3BOQ0p4UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-16 16:29:00"
+      },
+      {
+        "title": "漁業署推鰻魚入粽 劉建國豪邁包\"鰻魚粽\" - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wWHdQN1g5d3dWMzBjNk91cDVZLVZ5Zm9wdXBqNE1TalpGb1VCMW5aWVdCQnVwbHdpSjJLUzQ0MjJfd1dQNllZUlJXbGNncVZuSFF1SW5YQTZyM21tdEZpNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-16 13:51:12"
+      }
+    ]
+  },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "AI助社工減壓 劉建國要求衛福部加速導入智慧系統 - 大纪元",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HSk9ka3FvaHJYb0NEdFRhRmhha1RseFFCZlJLbldqYVBnQzl2Unp5U0dOR1l5TU5yMjgwRlBwd1lxQ2w3TXlQdDBmU3N1REJ2V0JMY1h4U1poN0lOc3RkaNIBZkFVX3lxTE5qektoSlZJY0hjMWFYNDAxV0hqVVM5NEJKclZLUHBxWXlPblZuckpWY2c1MS1iak1NbmswRElYMERiYjlKZ0xIYm1sNi1XRjhfZHRGVzdDbzAyMy12Mmp6Q3BOQ0p4UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-16 16:29:00"
+      },
+      {
+        "title": "漁業署推鰻魚入粽 劉建國豪邁包\"鰻魚粽\" - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wWHdQN1g5d3dWMzBjNk91cDVZLVZ5Zm9wdXBqNE1TalpGb1VCMW5aWVdCQnVwbHdpSjJLUzQ0MjJfd1dQNllZUlJXbGNncVZuSFF1SW5YQTZyM21tdEZpNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-16 13:51:12"
+      },
       {
         "title": "緩解雲林托育荒！張嘉郡爭「6533萬」升級39所公幼，虎尾新校8月開園力拚免錢讀冊| 夏和宣| 地方新聞 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0ySW9zbkFYM3J0RklvSWlzbk1kUVpuSG02SzViTjNTYjluekZ0djZSdDB0RV9QdG9QRnU2QnhlZjhkQ1JZQlpUaE04UUstUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1176,16 +1268,6 @@
         "title": "曾蔡美佐遭毆骨裂！蘇治芬抱不平喊話蔡咏鍀：辭朝天宮董事長嗎？ - TVBS新聞網",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56OUZMbXFpVU5tY1gwQUlSN3pqVDJTazZzbEF0eDNjVVVhME8yYl8tbnB3bkM4NTJtMHU1NG9PdnJOcWVmLUIwRk1aNWRtMWc?oc=5",
         "time": "2026-05-12 15:33:00"
-      },
-      {
-        "title": "兒毆80歲曾蔡美佐！蘇治芬轟蔡咏鍀：媽祖生日烙人打長輩「快辭朝天宮」 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNa0JXLVFwWlZzM0tKVDlWeXI2eWZYQ1F3YUlmVVcyWS1jcHB3S1h2ZS1rd0VkZXZmZ1pIdTBTWVhmVWE5ZHBzdGVFb05yZXpIWTNHQ2R1TDlkeWp5a3JCZ2tOTDhNakJ2ekdZNEtFaC1oblVsc00wTGtyVTRqV0xySFc3TllOT0REZEhNcmkyWUxPOWs2MzhqbzJkYUlncnZPM3VpNVJqNFVMYVpRWHpFdVNqUElad2JXSTk1Mk5YVzhBVV9XbE5KQXZQVVoxZ1dncnhoOElzck5FN1FoZVZjSVRpVmZjRy1uYUREcGdkblhBaFI5ajRfWEdXdFpOeG9xZEwtV3dvZzdnTzVvQno2dmhsbVNGeXJacHRDQ3pMQnVDa0NiTnJPaTVFdEtsUjRDZjhhTzFzT2pLY3p5ejZYZWRvWWFUOUxESENERDBvTVotdDk5MWtaQVk4QldQeWVLLTZNaUNBdy1OUGFPZTZxckZnUGR0SnFYdXppLXFLVGFmR3FQZ2lGOXpFQkNFUC1Xd2dqZEtOZ0dYeE9nQk9qRmNuS1ZOYnZrUXJ6LUhrdml0SFprRGNaOF92UlhheGszTUZnNEVMTXVNcnRuTVItT3Q3SV80NWsyalFsOWtGVjc1a2hnWVp0MjhTaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-12 13:02:04"
-      },
-      {
-        "title": "兒毆80歲曾蔡美佐！蘇治芬轟蔡咏鍀：媽祖生日烙人打長輩「快辭朝天宮」 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxPUHpmQklqcm9KXy15MkEtcG4wam5SZGtQd2d1UlJIZHhiSWpoYTNQUTBjRVc1Z3RtVWl1YkVqWXRRN2h4TXY1TDNlcW9POUt6X1ByZ29EMTBuRFdSQlRMWmkxN2VXTEdwWF9tcDBqLVZIcUZ6NDFnTmRld1RfVzJZQUJRME5lVjJKMjg4d0lKSDMzcnNjOUJ3bDhhbUkyYnZmTkVhR3RJa05SbG83TGlyUEZFTjZLYkF6UEpRQWE2cGZ0Ni1WbDlRd2hidk5KZTlXRjNJb2Z1dTBkQU5uTXRycmNhTGlJYXNoT3RVWGFZOWtPbnQtS0tTbVBhQkpjbGNlN1NSczhMdkttZ1pvYzNTYlhQSEQ3TTNDWjdLMUVhblY4Mmh5U2gwZmN1eE9vMnNjZnpQUGhHeWhtZzhlWGJDZ2xSN1l4bkdFWWpITV9PVUljdTVWUXBFNDFwRGNscVFvcXZHMXQ4OG9CUndyM25McFRyMV9iSU53TTdZcWZNaUNnMnFqVTJRcWRKNlRqUlFURkJISEZBaS1fV2JSYTh3VDNQVUJ6NTVYNDR4NWdOYjJqdzdrMm81SkZ5SjF1NGxQYWFyQ0FoMjJGOEt0alJSblNqYWlSajZFcF94Q3VhZXVlTlZNdkt1WHhNSDlWY3IxS0xrMDYybnJpaGZXQ01VeGY2VUtEbGMzQzRkdWFtVWtLdkZsdWxmc2wya1pxRjVVWFJoN2JvSG5HRFhha1g1emx5SnhaTHRiSEVLT1didTRkNnM5TDBJMmNCeF8yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-12 12:08:12"
       }
     ],
     "facebook": [
@@ -1341,7 +1423,22 @@
   "event_stream": {
     "minute": [],
     "hour": [],
-    "day": []
+    "day": [
+      {
+        "title": "AI助社工減壓 劉建國要求衛福部加速導入智慧系統 - 大纪元",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HSk9ka3FvaHJYb0NEdFRhRmhha1RseFFCZlJLbldqYVBnQzl2Unp5U0dOR1l5TU5yMjgwRlBwd1lxQ2w3TXlQdDBmU3N1REJ2V0JMY1h4U1poN0lOc3RkaNIBZkFVX3lxTE5qektoSlZJY0hjMWFYNDAxV0hqVVM5NEJKclZLUHBxWXlPblZuckpWY2c1MS1iak1NbmswRElYMERiYjlKZ0xIYm1sNi1XRjhfZHRGVzdDbzAyMy12Mmp6Q3BOQ0p4UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-16 16:29:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "漁業署推鰻魚入粽 劉建國豪邁包\"鰻魚粽\" - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wWHdQN1g5d3dWMzBjNk91cDVZLVZ5Zm9wdXBqNE1TalpGb1VCMW5aWVdCQnVwbHdpSjJLUzQ0MjJfd1dQNllZUlJXbGNncVZuSFF1SW5YQTZyM21tdEZpNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-16 13:51:12",
+        "platform": "news",
+        "risk": "綠"
+      }
+    ]
   },
   "regional_groups": {
     "regions": [],
