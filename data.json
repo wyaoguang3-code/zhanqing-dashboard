@@ -1,10 +1,10 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-17T07:48:28.017442+00:00",
+  "generated_at": "2026-05-17T08:03:37.563538+00:00",
   "metrics": {
-    "total_24h": 2,
-    "prev_24h": 3,
-    "growth_pct": -33.33,
+    "total_24h": 3,
+    "prev_24h": 4,
+    "growth_pct": -25.0,
     "news_24h": 2,
     "anomaly": {
       "level": "綠",
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 127,
+    "total": 129,
     "prev": 72,
-    "growth_pct": 76.39,
-    "news": 101,
+    "growth_pct": 79.17,
+    "news": 102,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -29,16 +29,20 @@
     {
       "platform": "news",
       "count": 2
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 101
+      "count": 102
     },
     {
       "platform": "facebook",
-      "count": 19
+      "count": 20
     },
     {
       "platform": "youtube",
@@ -52,6 +56,10 @@
     },
     {
       "hour": "2026-05-17 00:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-05-17 13:00",
       "count": 1
     }
   ],
@@ -265,11 +273,19 @@
       "count": 1
     },
     {
+      "hour": "2026-05-16 15:00",
+      "count": 1
+    },
+    {
       "hour": "2026-05-16 16:00",
       "count": 1
     },
     {
       "hour": "2026-05-17 00:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-05-17 13:00",
       "count": 1
     }
   ],
@@ -319,7 +335,7 @@
   },
   "mention_compare_7d": {
     "張嘉郡": 46,
-    "劉建國": 56
+    "劉建國": 57
   },
   "top_news": [
     {
@@ -343,6 +359,11 @@
       "title": "AI助社工減壓 劉建國要求衛福部加速導入智慧系統 - 大纪元",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HSk9ka3FvaHJYb0NEdFRhRmhha1RseFFCZlJLbldqYVBnQzl2Unp5U0dOR1l5TU5yMjgwRlBwd1lxQ2w3TXlQdDBmU3N1REJ2V0JMY1h4U1poN0lOc3RkaNIBZkFVX3lxTE5qektoSlZJY0hjMWFYNDAxV0hqVVM5NEJKclZLUHBxWXlPblZuckpWY2c1MS1iak1NbmswRElYMERiYjlKZ0xIYm1sNi1XRjhfZHRGVzdDbzAyMy12Mmp6Q3BOQ0p4UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-16 16:29:00"
+    },
+    {
+      "title": "漁業署推鰻魚入粽 劉建國豪邁包\"鰻魚粽\" - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNY3JuWkVVN2tYUVhESkxXbFBfbXJnZk43Q1VRamNvd1BXQy0yRWhDR18wcDhrUFY5dThGWlZCSldwdFdNWi02UDhOWWFDNVd0WTR1V0dXN0JsaEpDWXc0X25VQVNRQXZfbXBDTkFWU2ZaZGhkYWRpa0lYUXpnNTFaSmt4NmFFeU4xQTliNlRTS1NSUmxpM3habEdYWGlSa18zaDlwZzJKY3IycmxVOUNyZjZLbFJNWWZxSm5BTUZEb1g2QWxwcHB2a3ZzS3U4bzNmbXFjSjI5ZEQzT0NSVjJRU1BsbXhWeDFWeU5qWDN5QkIxQjZDcnZUdHpBSnhCMko1SGViQlVKOXRsTmZnOE1kNDRWZmlmbzhQNmQ4QmFPLVQwUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-16 15:52:02"
     },
     {
       "title": "漁業署推鰻魚入粽 劉建國豪邁包\"鰻魚粽\" - Yahoo新聞",
@@ -428,14 +449,14 @@
       "title": "AI浪潮席捲全球 劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNWTlicVhIcTNPOEpKa0VFYVZZRklWWGNmMWx0RGJESlA0OVdsYkMtOTd0dXJGSWdiQUtVY2FzZGlMTHc1MUpRV0Y0ekM5Uk9ONVBGQm40ei1Gd1lnWS1CdVdJZkt4ZDktRlBVR2dTMGlTc0JzWmFmUFNxdHU4dDNXeGtXc3lQVXo5YWViM2RZU2w0bngzSHd0SjJRUVpFQ3JyYlJoN0dUUk40dGJpMXBvOGZ0cjB3M3VjR3BiVUpXMVdjR3FIT1l4NkRXNzRzc0x3akY3bmMzV3NoVFlxWlNGMGdTbHA4bDU4VlQxVEJod2Q3dXRHVHV5WW96NnFBY3I4SFozdjVsQjdYTEctUTZIZUwtQUR3UDhpWm5PR0RjaE9UYkhqQ3JtR2ROLTJtRWl0SlRTaWpkMnR1c1FWWUZVUHZwMzJFVFpLcUVyYjhVZ2NWaThoUzBUbllfS3lFNUlHTXp2X0Qxd1NUaUlBQXRmWXl0NzN5U2dhQzBEcTlQOVMtZkxMSlNfcFFDc04xRkd5MDBQeWFyMXFyUDlTRDBqdg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-14 17:47:15"
-    },
-    {
-      "title": "討論牆 | 曾蔡美佐遭毆住院 蘇治芬要求蔡咏鍀反思2事辭朝天宮職務 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tVm5qTU0wTENJRU9FSGZyVEl6OER5R3FGMzB6TUJoYVJmcFNhWVBRdkVsQmJhR3AtQi1kakdVdFB4SUxZVW1Pc084QmdwOG5FLWhZSGg5WjRiSE5JSHptN2cxb1A?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-14 14:22:48"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "一年一年的荷花開，不只是風景， 更是一份陪伴～ 今天參加「沐心荷園音樂饗宴」，除了欣賞滿園荷花與悠揚國樂，更是有一段很溫暖的故事。 20多年前，廖顯能老師退休後聽從友人建議開始種植荷花，荷花盛開在母親節前後，返鄉的鄉親都能有個賞花、放鬆心情的地方。 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMimghBVV95cUxQbEJqbmJVSWpHN2VLTjFveVFvN241VUpEdTMxY1AwY3h2bnB6MzhKWl9ScTREakdWM0Ezb2I3TV91YzZPbFB0bGlOa19DVGxybmtsYkF2cXp3dExwR3U1MlBJTzJVa3pBdlF6bnJtUURfSDNXcFdNbU9DNGRIYlpIQUt6NE8wblV2a0RMbDRvS1p4Z3dYS1U0bkpHcmFPZXloMEQ5YTFQaGJzclRnOENIbVp5WERQbUFTaU1NeHA5QmxfaVAyQkpIUzBMeE9KQzVMTUlTQ19BczZnNlBzcEhDekZDNlczU2ZEcXRnMzNFcDNlS1Y5LW84Q1BUeGV6UVZEZFNsTkZ0YmNzYlB5T1hJak5JUDNUSElPSi04WndnclkxOHB3YzJwMDBnS0p1ZmozSEdTRWpwODhrSFp3b0o0ZjJFU21RX2oxa2hzcWlaYThxd2d2dllyR2lrRXhxYXA1SHh6eEQyZC10UFVKdTBKd29pS2xSZk1LXzRERG53aEdiUnFMZnB3VlZ2THhfUy16cnJzR2RMV1VtVm52RWhFSXg5TndwckI2Rjc4Q01uM0g4Wm8zbWdJdXhxd3VJOHRCTEp4THQyUktUbld3UWR2Uk40UXZ1TDNPeFVnWTlZN1pWdHVXd0NXdW5wT0hjSmlfbzhuQzdKdk1XSEZjY1pOLXdual9vNGRnalk4ZzdVQ09udEtiUWlwNFZMRVNycVFGNG5aaFJucnVzN3J2bjlUenBXMjA5dkNqVkhzeDZWUnRrbnh0STZmQ1ROQWdLNEt0bldwaXBpSEtQY0dXY1JvVlEyLTd4Z1gyUlVYMW5UUjhKb0N0cnNwRzI1TWFRZ3JHZzhHMXBkYTV1c1hkTEYyRDg3NHMtYmR1UGczVURXbFpObm9QdVBRTVRTcHNsN3A0dW54N2Y0UDJlV1lPYUFsaTdTNzl0MklYSVAxR1VydlZZOTlsM3dnNldGaFAzdWpHd0tXbFpkWjhJdVQxcjFCYXo0cERGYzZ5SmFBZjZMQXRLSUpySDhuSS1tSnpxa3FPSHdtcGJUbEVvYXpydDJLN1Z0MkQ3aHJ3UUVJMThFdmFvNmhlUXpMcFQ2YkhhZVhCNmJiOW1UREczT2pRcjY2RzJPc2UxWkVPUnBGMVQtMXBQLU4yYTlkdlJCM3JDT1MyQWoxVkZJaklNb2IwVVZ4TTBVU1dSSzFsTlAzS3NHOGx5Z1k2Q3B1Sm9ZSFQ0TzFGc1RMS3Y4M2JNd0hkXzhRS0FwYUxmMlg0cjFhLTNJMXNzMWRhM3Vwb0dqR0xFUkRZOElMX0JvNUdyXzh1dnAwdHR6QklVSkxJSng0UDZTQmNMZWxqVWs5VnB0ZXh0VmsxMndDWXgzQmFNaDk4eUlWYmVubVJIUGdrRUE",
+      "time": "2026-05-17 13:23:46"
+    },
     {
       "title": "🔰立委丁學忠邀水利署會勘 提升雲林海線排水防洪能力補強治水設施 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNdzdvejRJOUpSNGNxdGZoMklHbmZLNjJSUzVzZmEzNXg5OG9PZGx2bjg1LVR3dDFEREdQN3N5dnAzREY0djJHek9DdjBiZzFLWXVjRlFJdFBCYzdCbnU4Ylh5QU1ORzAycWlnNVExbG9fQk5XM1JrQm9aZ0h3TE4xcXpOa1pFY0tReGNFQjJraUJkVVFJVWxURVFuNzRucU9zQkVNNk81VTZneTR1bFdTckJYZVc1SU0tS0dkUldhM056VGNJMjVwbnpHdEJNRFh6WV9yeTdQMmdHRXlqMGU4LXgxRVJnNzA0X0FyVXFwTWpUYXFXS3RYNkx3cThqWml5QjE4SkhnWjJia3h3WFB3V25uQ3FaN0gxdHk2SFdURFE0ZTk0dWNsOTFVV1N0ZVROaUkwMGF0WERlT1lMYk1ycTN5Z0Jsek15N2NUSHJGNm9XbHItd2Z2elFpVXRWeUhvRERkSzRITmR5QnFyYXFmWUZUN1pELWVlVVRZUGxlTExHVExTRHBLZF9PeFZHdGNvbjJ6MXpKWDNCQTlYc0RiRlVtbXRDaGFSQmNVU2tGUmh2R3BXZHBQalQxRjNiLXluUWlqNWRPQQ",
@@ -530,11 +551,6 @@
       "title": "這幾天，建國與多位公職及團隊走訪各市場、社區與活動，親手送上康乃馨，向每一位為家庭辛苦打拚的媽媽們送上祝福～ 來到莿桐參加模範母親表揚活動，看著一位位媽媽站上舞台，真的很感動。媽媽總是默默付出，把一家人的大小事放在心上，撐起一個家庭的溫暖與 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxPTVFnZFRyUUw5RDlNRVU1LXpDYXNzTS16OXY4OWFUeVN4aENEU2lVcWFJUDVvWDNNNWs0MU45eER0T1I2YjItdVdtTGwyNG9PaWJLTWkzbkZaZ0VOMXJhZnR6S3JMWjR1Y0c0ZXBMaU5ORWpRZEdWWi00NHYzYkRVNkhjdHFXQlI2S1ZJT3BwOHQzeGtmejYxUXhwZFhMaWlNdjZLQWNtRy1RTmFzSnZXakpENDRudlhtMVk0YnVNVVduVWdxZkQ1SEotLXdieHRSdVpsaGN6dkNQSnpxUi13Wno1NUlCeVgyU240cWNzenhjWUwxd2l0eERyajlyS1gwemlKTGsxTmpUcXRIRGx1NjRTU3pOZEQ1YjloUklqdDFYbEpvSlc5OVp3VDhKYlBDNWE3X19Dc2ctTFMyY0U3c2czSlQwUi1wdjdJUUY3YTdrOEFveUpTWWo3YWc1b3ZFZXNqU2VvbklRV05jVk5mMExZUlFZVUMwQjliTWtKbjlCT05aSURzcllCSmlMbldjY2doMmYteHh3cklnRVQxT0NOYmxnUmFlTVdXQkRWX3NFWUNjWVdUdllZT0ItRHhOU3ZZYXpmLThWRDl6UUxoaW5DUHRjRDN1Z3o0WjRjaU5ucmQ3bE1iQUZ0LWRKc1lzU2Q1YjctUEhWcGdCdzBybEtBWWl5bGM2TXZmOE1wR3h2aExHVUw2bVlTMlE3dkdhRGRWODdyYTFiaktNYUFfdFVySTRWNE1UMXNibXRyWHNxTHpRV2YwWm1lb3pybUh1NmEwV05hWUhJdU52UFV3Q3BPejVVWjdweFFNLW1STUV1dUFXcjg1ZUl5dUExcnkyU0Y0T2pUNGhHZmZVUHl6dnlpRHpyZWRPSlo3YXFnczBnQmZ2MkJSaHpnV0Eya3JpbVdWRko5Wms4cUpxZV81SlNsQmNJWEtqNWxnSUozWk5xNzV2bG5jVjZJdW1mVWhmczRIT3NHVDhlYkhuWWJNbTIydDlvclFDQm1OSVJjaUJVQlB6d2ZwdFd3d1lQckZQVmxuczFCT1JPTHNnTHJhUFJmR29LVWpoSU1veFJBeGQ5cVRGQXpmRWFfYWxIcUZJY0xPMTNxRlgzT2RLT2NvNmJNVGpuMFRxOGNQTWxNOGZZajlJbzZjVm9QcnM4UTFUa1FmcFd0Y29mWUZYYzFBY3kxZkVtVEZBdWtPX2h2SXBtX1pfVUtpRjZWQWVPRFJ5TDNIUFNJdmt2Skt0Zm0zY0FyelhQUDQzTW1na0gwdmw1TXRmcGpXejVxNmIwWHBuc0FONUEwRk12NEt4R0R0czdSb182d1JpdHE3bkVYVVJMVTRxU1RDdGJVVC1jaXdIZ21aRGRJQ1M1RnRvTkp4X2RteFY1M3dwZVNtalhJQzhJWGotZ2Y3dE1TamdHME0",
       "time": "2026-05-10 18:40:47"
-    },
-    {
-      "title": "【韓國瑜率三黨立委出訪英法 網喊：韓院長不簡單 跨黨派】 立法院長韓國瑜9日深夜率跨黨派訪團啟程前往法國、英國推動國會外交，成員包括國民黨立委楊瓊瓔、羅廷瑋、魯明哲、張嘉郡（11日抵達歐洲），以及民進黨立委林楚茵、邱議瑩、王義川、李柏毅，民眾黨立委邱慧 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wdBVV95cUxNSVRYcVVodUdSVVA4dXpHWXdOS0FYYTJHZVcydmJUdm05SlBhcFdhWG9mOFVwSXJ0QWdpcU1jVUp2c1JiZVRGZm9SYlRTc1JKNHhuUVlNUnNJOVlkSVlDNEtNOERIRDBXUWliS2hBLTFLY0lRTVNzSTJ5eGJBYW92elNtRW5HcnU0RXJnbURNbHpVcjJNS0hFbzJsX3FqQkZ4dkl1dVdxSTREU1lCRWU3WW9uaVNsZDdVY2t1eEgxb2ZWQVhNVnROc1pZWGIwVm5kcVdzODIzZkU2Z1dOM2U5QzVoVmZJMGpEeEVJc2tESmFpOW9XTXIzeEQyTjBlYVZvRVlLWkNjOHZrNlRBcFhzZGdjSkgtOTBrNVdWQUNVNGNETEtQQ2FzeEJZTktqaTNIM2lwbHBsRUJYVzFqYV9MbGl3REMyVDRlcXNrZU1JX1NwWDlPMmtnU01sRUZZSWJITUF6OXo5QmRyM3BSblppUGswNVU1UDlUbjRKTnhvMm4tUGlVX1JSaHFhTVFNZkJXcmdnbnNHZFRyZ25ITy1kNDU5em5UcjA5T3V5dFg4X1FzR0lxY25FYzRncUZRRnZ0TUdieENJaWJobWNha1hibkhwSVZWUE03MFRWcmpLM1c5bXNpWk93Q25Ebm5wU2FvWEhrWkVEOEdUY19Fc0xISTNVMDJhNzgxQ2FXU1I0bENYNU8xNXNzUk1oNUNHV0g0N2ZKQVJqeEp4dEUzQjRFX3RHQ29RMkdjREFvM1k1R2Q3WHhuaHNIa05DUFh0NlhpY2JwRHB3SmtVMlVmS3padGVkTzFxaV8tS0VoS3Zia1Bwdm90c1FVczhzeWg5Y09FVGIwWEVRTHpsUjhtY0dOaEtReGh5czR5akhjOEhCQ2VDWVh2QnRCaF9GLU91SS1zOENyMjdCM3pZYXFTc1RNbmI5Ny00T0ZjYnF5dkhMQWtvMlhiR3ljV25iS0xuM3NESDJhMWNycWNub3kybFpJZ2RpWGJhUVZEUExkWkxrcTJCdzJvZG0zSWJldW5xMmNBUHdSaXdsU2xoZk9qQzhvNlk1VnQ0TXhibzJ1UW85aV8za1NkcmNPREtGR2JJQV9mRXpTeVpEOVRzQ2xueVZDYVhENDV4NnpDNGJLRVZvSFIxZlBrNU1vNzZDZUhiRWgzdVJqaE9fVFRpRmpGcXV6NFVWWE5pM3hwRnpyV0VDRklPWkdsRzFBczZNNFZ3b0xqRkd0cjRBYjZvS3lDX25vZ21BVWJKYkN0bTNRQ1ZMOEdwNlI3b3pmSnFtWUxqMTBpX1NaamJFUURZQl94R3ZOR3VQOVhSSlpxR0g2U0J6dW5lc1U",
-      "time": "2026-05-10 13:52:03"
     }
   ],
   "latest_news_20": [
@@ -547,6 +563,11 @@
       "title": "AI助社工減壓 劉建國要求衛福部加速導入智慧系統 - 大纪元",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HSk9ka3FvaHJYb0NEdFRhRmhha1RseFFCZlJLbldqYVBnQzl2Unp5U0dOR1l5TU5yMjgwRlBwd1lxQ2w3TXlQdDBmU3N1REJ2V0JMY1h4U1poN0lOc3RkaNIBZkFVX3lxTE5qektoSlZJY0hjMWFYNDAxV0hqVVM5NEJKclZLUHBxWXlPblZuckpWY2c1MS1iak1NbmswRElYMERiYjlKZ0xIYm1sNi1XRjhfZHRGVzdDbzAyMy12Mmp6Q3BOQ0p4UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-16 16:29:00"
+    },
+    {
+      "title": "漁業署推鰻魚入粽 劉建國豪邁包\"鰻魚粽\" - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNY3JuWkVVN2tYUVhESkxXbFBfbXJnZk43Q1VRamNvd1BXQy0yRWhDR18wcDhrUFY5dThGWlZCSldwdFdNWi02UDhOWWFDNVd0WTR1V0dXN0JsaEpDWXc0X25VQVNRQXZfbXBDTkFWU2ZaZGhkYWRpa0lYUXpnNTFaSmt4NmFFeU4xQTliNlRTS1NSUmxpM3habEdYWGlSa18zaDlwZzJKY3IycmxVOUNyZjZLbFJNWWZxSm5BTUZEb1g2QWxwcHB2a3ZzS3U4bzNmbXFjSjI5ZEQzT0NSVjJRU1BsbXhWeDFWeU5qWDN5QkIxQjZDcnZUdHpBSnhCMko1SGViQlVKOXRsTmZnOE1kNDRWZmlmbzhQNmQ4QmFPLVQwUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-16 15:52:02"
     },
     {
       "title": "漁業署推鰻魚入粽 劉建國豪邁包\"鰻魚粽\" - Yahoo新聞",
@@ -632,11 +653,6 @@
       "title": "AI浪潮席捲全球 劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNWTlicVhIcTNPOEpKa0VFYVZZRklWWGNmMWx0RGJESlA0OVdsYkMtOTd0dXJGSWdiQUtVY2FzZGlMTHc1MUpRV0Y0ekM5Uk9ONVBGQm40ei1Gd1lnWS1CdVdJZkt4ZDktRlBVR2dTMGlTc0JzWmFmUFNxdHU4dDNXeGtXc3lQVXo5YWViM2RZU2w0bngzSHd0SjJRUVpFQ3JyYlJoN0dUUk40dGJpMXBvOGZ0cjB3M3VjR3BiVUpXMVdjR3FIT1l4NkRXNzRzc0x3akY3bmMzV3NoVFlxWlNGMGdTbHA4bDU4VlQxVEJod2Q3dXRHVHV5WW96NnFBY3I4SFozdjVsQjdYTEctUTZIZUwtQUR3UDhpWm5PR0RjaE9UYkhqQ3JtR2ROLTJtRWl0SlRTaWpkMnR1c1FWWUZVUHZwMzJFVFpLcUVyYjhVZ2NWaThoUzBUbllfS3lFNUlHTXp2X0Qxd1NUaUlBQXRmWXl0NzN5U2dhQzBEcTlQOVMtZkxMSlNfcFFDc04xRkd5MDBQeWFyMXFyUDlTRDBqdg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-14 17:47:15"
-    },
-    {
-      "title": "討論牆 | 曾蔡美佐遭毆住院 蘇治芬要求蔡咏鍀反思2事辭朝天宮職務 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tVm5qTU0wTENJRU9FSGZyVEl6OER5R3FGMzB6TUJoYVJmcFNhWVBRdkVsQmJhR3AtQi1kakdVdFB4SUxZVW1Pc084QmdwOG5FLWhZSGg5WjRiSE5JSHptN2cxb1A?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-14 14:22:48"
     }
   ],
   "person_sections": {
@@ -962,6 +978,11 @@
         },
         {
           "title": "漁業署推鰻魚入粽 劉建國豪邁包\"鰻魚粽\" - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNY3JuWkVVN2tYUVhESkxXbFBfbXJnZk43Q1VRamNvd1BXQy0yRWhDR18wcDhrUFY5dThGWlZCSldwdFdNWi02UDhOWWFDNVd0WTR1V0dXN0JsaEpDWXc0X25VQVNRQXZfbXBDTkFWU2ZaZGhkYWRpa0lYUXpnNTFaSmt4NmFFeU4xQTliNlRTS1NSUmxpM3habEdYWGlSa18zaDlwZzJKY3IycmxVOUNyZjZLbFJNWWZxSm5BTUZEb1g2QWxwcHB2a3ZzS3U4bzNmbXFjSjI5ZEQzT0NSVjJRU1BsbXhWeDFWeU5qWDN5QkIxQjZDcnZUdHpBSnhCMko1SGViQlVKOXRsTmZnOE1kNDRWZmlmbzhQNmQ4QmFPLVQwUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-16 15:52:02"
+        },
+        {
+          "title": "漁業署推鰻魚入粽 劉建國豪邁包\"鰻魚粽\" - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPUFZCaWdCbmpoNnRzOG9XcTJjdktGR3k3R0R6V08ySDhuUGdBTlhVSS1nR0hPRndRa3p2WlF0ZHlVb2Nja2dzR2dmeDh3aWRQYmlaQlNrUHdGZzNqYzl2VngwX1RvU0FudVczQlR6MGEtS3Y5V1R6cVNjZUVoOE5rYlRKNnlPdW9pWEgzZ0FfUzNoRmxtcE1US0xWbVlaVTNiakdJdVlPSXotLXdVNE95NE5weFJNeGtFRE5vNlU2c182M3VObnltUk94UU16cDRJYkJQUzVxdWt6MWkzTDdfMzNUVmwtcERMaVZkcUcxaXVRUDdlSlAyS1hPcUNyV1U4bEVkQ19ZbnpfUHBDT2Y3SWNGTzFnSG8wVXFTTy16cmRYZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-16 14:15:54"
         },
@@ -1044,11 +1065,6 @@
           "title": "社工文書壓力爆棚 劉建國籲衛福部全面導入AI減負擔 - 蕃新聞",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TbnR5MG0wVFJYUG5BUkRxRl9EenZPc1A5MjJlRDM2Z3JNVWtxejZ2cUs5d1RpazZOY29CYXFsM193V3kzUFdjOUU2RHVtcjU2YkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-13 22:39:00"
-        },
-        {
-          "title": "社工文書壓力爆棚 劉建國籲衛福部全面導入AI減負擔 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY2MtdEFNRUozdms0cG5KbnZPRWpvTk9PNjZJX01rQ1pzY3doaDBPUjNSUFpfWUpTQ2hCSlhCeXhfX0N0QXk2SVRyX3VyblNTNlRiTzlhcjNBMFhMUHV1QVh2akpVVTF3blR2aHVoNmJNMmllTGZHZzRrSXdMTFRBSUpwX2FNZEIzRmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-13 22:33:50"
         }
       ]
     }
@@ -1065,6 +1081,13 @@
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HSk9ka3FvaHJYb0NEdFRhRmhha1RseFFCZlJLbldqYVBnQzl2Unp5U0dOR1l5TU5yMjgwRlBwd1lxQ2w3TXlQdDBmU3N1REJ2V0JMY1h4U1poN0lOc3RkaNIBZkFVX3lxTE5qektoSlZJY0hjMWFYNDAxV0hqVVM5NEJKclZLUHBxWXlPblZuckpWY2c1MS1iak1NbmswRElYMERiYjlKZ0xIYm1sNi1XRjhfZHRGVzdDbzAyMy12Mmp6Q3BOQ0p4UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-16 16:29:00"
       }
+    ],
+    "facebook": [
+      {
+        "title": "一年一年的荷花開，不只是風景， 更是一份陪伴～ 今天參加「沐心荷園音樂饗宴」，除了欣賞滿園荷花與悠揚國樂，更是有一段很溫暖的故事。 20多年前，廖顯能老師退休後聽從友人建議開始種植荷花，荷花盛開在母親節前後，返鄉的鄉親都能有個賞花、放鬆心情的地方。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMimghBVV95cUxQbEJqbmJVSWpHN2VLTjFveVFvN241VUpEdTMxY1AwY3h2bnB6MzhKWl9ScTREakdWM0Ezb2I3TV91YzZPbFB0bGlOa19DVGxybmtsYkF2cXp3dExwR3U1MlBJTzJVa3pBdlF6bnJtUURfSDNXcFdNbU9DNGRIYlpIQUt6NE8wblV2a0RMbDRvS1p4Z3dYS1U0bkpHcmFPZXloMEQ5YTFQaGJzclRnOENIbVp5WERQbUFTaU1NeHA5QmxfaVAyQkpIUzBMeE9KQzVMTUlTQ19BczZnNlBzcEhDekZDNlczU2ZEcXRnMzNFcDNlS1Y5LW84Q1BUeGV6UVZEZFNsTkZ0YmNzYlB5T1hJak5JUDNUSElPSi04WndnclkxOHB3YzJwMDBnS0p1ZmozSEdTRWpwODhrSFp3b0o0ZjJFU21RX2oxa2hzcWlaYThxd2d2dllyR2lrRXhxYXA1SHh6eEQyZC10UFVKdTBKd29pS2xSZk1LXzRERG53aEdiUnFMZnB3VlZ2THhfUy16cnJzR2RMV1VtVm52RWhFSXg5TndwckI2Rjc4Q01uM0g4Wm8zbWdJdXhxd3VJOHRCTEp4THQyUktUbld3UWR2Uk40UXZ1TDNPeFVnWTlZN1pWdHVXd0NXdW5wT0hjSmlfbzhuQzdKdk1XSEZjY1pOLXdual9vNGRnalk4ZzdVQ09udEtiUWlwNFZMRVNycVFGNG5aaFJucnVzN3J2bjlUenBXMjA5dkNqVkhzeDZWUnRrbnh0STZmQ1ROQWdLNEt0bldwaXBpSEtQY0dXY1JvVlEyLTd4Z1gyUlVYMW5UUjhKb0N0cnNwRzI1TWFRZ3JHZzhHMXBkYTV1c1hkTEYyRDg3NHMtYmR1UGczVURXbFpObm9QdVBRTVRTcHNsN3A0dW54N2Y0UDJlV1lPYUFsaTdTNzl0MklYSVAxR1VydlZZOTlsM3dnNldGaFAzdWpHd0tXbFpkWjhJdVQxcjFCYXo0cERGYzZ5SmFBZjZMQXRLSUpySDhuSS1tSnpxa3FPSHdtcGJUbEVvYXpydDJLN1Z0MkQ3aHJ3UUVJMThFdmFvNmhlUXpMcFQ2YkhhZVhCNmJiOW1UREczT2pRcjY2RzJPc2UxWkVPUnBGMVQtMXBQLU4yYTlkdlJCM3JDT1MyQWoxVkZJaklNb2IwVVZ4TTBVU1dSSzFsTlAzS3NHOGx5Z1k2Q3B1Sm9ZSFQ0TzFGc1RMS3Y4M2JNd0hkXzhRS0FwYUxmMlg0cjFhLTNJMXNzMWRhM3Vwb0dqR0xFUkRZOElMX0JvNUdyXzh1dnAwdHR6QklVSkxJSng0UDZTQmNMZWxqVWs5VnB0ZXh0VmsxMndDWXgzQmFNaDk4eUlWYmVubVJIUGdrRUE",
+        "time": "2026-05-17 13:23:46"
+      }
     ]
   },
   "latest_by_platform_7d": {
@@ -1078,6 +1101,11 @@
         "title": "AI助社工減壓 劉建國要求衛福部加速導入智慧系統 - 大纪元",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HSk9ka3FvaHJYb0NEdFRhRmhha1RseFFCZlJLbldqYVBnQzl2Unp5U0dOR1l5TU5yMjgwRlBwd1lxQ2w3TXlQdDBmU3N1REJ2V0JMY1h4U1poN0lOc3RkaNIBZkFVX3lxTE5qektoSlZJY0hjMWFYNDAxV0hqVVM5NEJKclZLUHBxWXlPblZuckpWY2c1MS1iak1NbmswRElYMERiYjlKZ0xIYm1sNi1XRjhfZHRGVzdDbzAyMy12Mmp6Q3BOQ0p4UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-16 16:29:00"
+      },
+      {
+        "title": "漁業署推鰻魚入粽 劉建國豪邁包\"鰻魚粽\" - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNY3JuWkVVN2tYUVhESkxXbFBfbXJnZk43Q1VRamNvd1BXQy0yRWhDR18wcDhrUFY5dThGWlZCSldwdFdNWi02UDhOWWFDNVd0WTR1V0dXN0JsaEpDWXc0X25VQVNRQXZfbXBDTkFWU2ZaZGhkYWRpa0lYUXpnNTFaSmt4NmFFeU4xQTliNlRTS1NSUmxpM3habEdYWGlSa18zaDlwZzJKY3IycmxVOUNyZjZLbFJNWWZxSm5BTUZEb1g2QWxwcHB2a3ZzS3U4bzNmbXFjSjI5ZEQzT0NSVjJRU1BsbXhWeDFWeU5qWDN5QkIxQjZDcnZUdHpBSnhCMko1SGViQlVKOXRsTmZnOE1kNDRWZmlmbzhQNmQ4QmFPLVQwUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-16 15:52:02"
       },
       {
         "title": "漁業署推鰻魚入粽 劉建國豪邁包\"鰻魚粽\" - Yahoo新聞",
@@ -1263,14 +1291,14 @@
         "title": "張嘉郡拋雲林小巨蛋政見 - 臺灣導報",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FWUtyYTJORG5qT01HSFRQdFBhSHkyN3B6dkJ3UWNFUHBZbWxkODJCOFNqVlZVUTFLRS11ZTVIOTJTV3BmXzJvOG1CeFYyeFJQQUJz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-12 19:23:27"
-      },
-      {
-        "title": "拋斗六建「雲林小巨蛋」 張嘉郡：帶動觀光消費、投資 - TVBS新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iYWxkOTVScXY3dXdtd3l3dnhsd0xBdGpldnJGcGNsQTQzREkydmhfV0NZOWpjZDZlaG5RUlM4WU5nSVQ0SHpGWldhVUlLYk5rc3d3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-12 16:43:00"
       }
     ],
     "facebook": [
+      {
+        "title": "一年一年的荷花開，不只是風景， 更是一份陪伴～ 今天參加「沐心荷園音樂饗宴」，除了欣賞滿園荷花與悠揚國樂，更是有一段很溫暖的故事。 20多年前，廖顯能老師退休後聽從友人建議開始種植荷花，荷花盛開在母親節前後，返鄉的鄉親都能有個賞花、放鬆心情的地方。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMimghBVV95cUxQbEJqbmJVSWpHN2VLTjFveVFvN241VUpEdTMxY1AwY3h2bnB6MzhKWl9ScTREakdWM0Ezb2I3TV91YzZPbFB0bGlOa19DVGxybmtsYkF2cXp3dExwR3U1MlBJTzJVa3pBdlF6bnJtUURfSDNXcFdNbU9DNGRIYlpIQUt6NE8wblV2a0RMbDRvS1p4Z3dYS1U0bkpHcmFPZXloMEQ5YTFQaGJzclRnOENIbVp5WERQbUFTaU1NeHA5QmxfaVAyQkpIUzBMeE9KQzVMTUlTQ19BczZnNlBzcEhDekZDNlczU2ZEcXRnMzNFcDNlS1Y5LW84Q1BUeGV6UVZEZFNsTkZ0YmNzYlB5T1hJak5JUDNUSElPSi04WndnclkxOHB3YzJwMDBnS0p1ZmozSEdTRWpwODhrSFp3b0o0ZjJFU21RX2oxa2hzcWlaYThxd2d2dllyR2lrRXhxYXA1SHh6eEQyZC10UFVKdTBKd29pS2xSZk1LXzRERG53aEdiUnFMZnB3VlZ2THhfUy16cnJzR2RMV1VtVm52RWhFSXg5TndwckI2Rjc4Q01uM0g4Wm8zbWdJdXhxd3VJOHRCTEp4THQyUktUbld3UWR2Uk40UXZ1TDNPeFVnWTlZN1pWdHVXd0NXdW5wT0hjSmlfbzhuQzdKdk1XSEZjY1pOLXdual9vNGRnalk4ZzdVQ09udEtiUWlwNFZMRVNycVFGNG5aaFJucnVzN3J2bjlUenBXMjA5dkNqVkhzeDZWUnRrbnh0STZmQ1ROQWdLNEt0bldwaXBpSEtQY0dXY1JvVlEyLTd4Z1gyUlVYMW5UUjhKb0N0cnNwRzI1TWFRZ3JHZzhHMXBkYTV1c1hkTEYyRDg3NHMtYmR1UGczVURXbFpObm9QdVBRTVRTcHNsN3A0dW54N2Y0UDJlV1lPYUFsaTdTNzl0MklYSVAxR1VydlZZOTlsM3dnNldGaFAzdWpHd0tXbFpkWjhJdVQxcjFCYXo0cERGYzZ5SmFBZjZMQXRLSUpySDhuSS1tSnpxa3FPSHdtcGJUbEVvYXpydDJLN1Z0MkQ3aHJ3UUVJMThFdmFvNmhlUXpMcFQ2YkhhZVhCNmJiOW1UREczT2pRcjY2RzJPc2UxWkVPUnBGMVQtMXBQLU4yYTlkdlJCM3JDT1MyQWoxVkZJaklNb2IwVVZ4TTBVU1dSSzFsTlAzS3NHOGx5Z1k2Q3B1Sm9ZSFQ0TzFGc1RMS3Y4M2JNd0hkXzhRS0FwYUxmMlg0cjFhLTNJMXNzMWRhM3Vwb0dqR0xFUkRZOElMX0JvNUdyXzh1dnAwdHR6QklVSkxJSng0UDZTQmNMZWxqVWs5VnB0ZXh0VmsxMndDWXgzQmFNaDk4eUlWYmVubVJIUGdrRUE",
+        "time": "2026-05-17 13:23:46"
+      },
       {
         "title": "🔰立委丁學忠邀水利署會勘 提升雲林海線排水防洪能力補強治水設施 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNdzdvejRJOUpSNGNxdGZoMklHbmZLNjJSUzVzZmEzNXg5OG9PZGx2bjg1LVR3dDFEREdQN3N5dnAzREY0djJHek9DdjBiZzFLWXVjRlFJdFBCYzdCbnU4Ylh5QU1ORzAycWlnNVExbG9fQk5XM1JrQm9aZ0h3TE4xcXpOa1pFY0tReGNFQjJraUJkVVFJVWxURVFuNzRucU9zQkVNNk81VTZneTR1bFdTckJYZVc1SU0tS0dkUldhM056VGNJMjVwbnpHdEJNRFh6WV9yeTdQMmdHRXlqMGU4LXgxRVJnNzA0X0FyVXFwTWpUYXFXS3RYNkx3cThqWml5QjE4SkhnWjJia3h3WFB3V25uQ3FaN0gxdHk2SFdURFE0ZTk0dWNsOTFVV1N0ZVROaUkwMGF0WERlT1lMYk1ycTN5Z0Jsek15N2NUSHJGNm9XbHItd2Z2elFpVXRWeUhvRERkSzRITmR5QnFyYXFmWUZUN1pELWVlVVRZUGxlTExHVExTRHBLZF9PeFZHdGNvbjJ6MXpKWDNCQTlYc0RiRlVtbXRDaGFSQmNVU2tGUmh2R3BXZHBQalQxRjNiLXluUWlqNWRPQQ",
@@ -1409,6 +1437,13 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "一年一年的荷花開，不只是風景， 更是一份陪伴～ 今天參加「沐心荷園音樂饗宴」，除了欣賞滿園荷花與悠揚國樂，更是有一段很溫暖的故事。 20多年前，廖顯能老師退休後聽從友人建議開始種植荷花，荷花盛開在母親節前後，返鄉的鄉親都能有個賞花、放鬆心情的地方。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMimghBVV95cUxQbEJqbmJVSWpHN2VLTjFveVFvN241VUpEdTMxY1AwY3h2bnB6MzhKWl9ScTREakdWM0Ezb2I3TV91YzZPbFB0bGlOa19DVGxybmtsYkF2cXp3dExwR3U1MlBJTzJVa3pBdlF6bnJtUURfSDNXcFdNbU9DNGRIYlpIQUt6NE8wblV2a0RMbDRvS1p4Z3dYS1U0bkpHcmFPZXloMEQ5YTFQaGJzclRnOENIbVp5WERQbUFTaU1NeHA5QmxfaVAyQkpIUzBMeE9KQzVMTUlTQ19BczZnNlBzcEhDekZDNlczU2ZEcXRnMzNFcDNlS1Y5LW84Q1BUeGV6UVZEZFNsTkZ0YmNzYlB5T1hJak5JUDNUSElPSi04WndnclkxOHB3YzJwMDBnS0p1ZmozSEdTRWpwODhrSFp3b0o0ZjJFU21RX2oxa2hzcWlaYThxd2d2dllyR2lrRXhxYXA1SHh6eEQyZC10UFVKdTBKd29pS2xSZk1LXzRERG53aEdiUnFMZnB3VlZ2THhfUy16cnJzR2RMV1VtVm52RWhFSXg5TndwckI2Rjc4Q01uM0g4Wm8zbWdJdXhxd3VJOHRCTEp4THQyUktUbld3UWR2Uk40UXZ1TDNPeFVnWTlZN1pWdHVXd0NXdW5wT0hjSmlfbzhuQzdKdk1XSEZjY1pOLXdual9vNGRnalk4ZzdVQ09udEtiUWlwNFZMRVNycVFGNG5aaFJucnVzN3J2bjlUenBXMjA5dkNqVkhzeDZWUnRrbnh0STZmQ1ROQWdLNEt0bldwaXBpSEtQY0dXY1JvVlEyLTd4Z1gyUlVYMW5UUjhKb0N0cnNwRzI1TWFRZ3JHZzhHMXBkYTV1c1hkTEYyRDg3NHMtYmR1UGczVURXbFpObm9QdVBRTVRTcHNsN3A0dW54N2Y0UDJlV1lPYUFsaTdTNzl0MklYSVAxR1VydlZZOTlsM3dnNldGaFAzdWpHd0tXbFpkWjhJdVQxcjFCYXo0cERGYzZ5SmFBZjZMQXRLSUpySDhuSS1tSnpxa3FPSHdtcGJUbEVvYXpydDJLN1Z0MkQ3aHJ3UUVJMThFdmFvNmhlUXpMcFQ2YkhhZVhCNmJiOW1UREczT2pRcjY2RzJPc2UxWkVPUnBGMVQtMXBQLU4yYTlkdlJCM3JDT1MyQWoxVkZJaklNb2IwVVZ4TTBVU1dSSzFsTlAzS3NHOGx5Z1k2Q3B1Sm9ZSFQ0TzFGc1RMS3Y4M2JNd0hkXzhRS0FwYUxmMlg0cjFhLTNJMXNzMWRhM3Vwb0dqR0xFUkRZOElMX0JvNUdyXzh1dnAwdHR6QklVSkxJSng0UDZTQmNMZWxqVWs5VnB0ZXh0VmsxMndDWXgzQmFNaDk4eUlWYmVubVJIUGdrRUE",
+        "time": "2026-05-17 13:23:46",
+        "platform": "facebook",
+        "risk": "綠"
+      },
       {
         "title": "雲林縣全品項荔枝納入天然災害現金救助5/16起全面受理申請立委劉建國籲請受災果農速向各鄉鎮市公所申辦！ - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53ZGt5LV9PU2F5R2gzWG04dzlmX1FHZFNCMjJ2SlRUeVVTM0RhZ0ptQ0V5ekhJUk1Ja242SDczMXB4d09GMzFFWnlWZVlIWXdlcXl2dVZsdi1IRGM1RGlKVGdEUEllNFY1MmZv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
