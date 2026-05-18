@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-18T15:42:56.836372+00:00",
+  "generated_at": "2026-05-18T15:58:10.695301+00:00",
   "metrics": {
-    "total_24h": 10,
+    "total_24h": 13,
     "prev_24h": 7,
-    "growth_pct": 42.86,
-    "news_24h": 8,
+    "growth_pct": 85.71,
+    "news_24h": 9,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 105,
+    "total": 108,
     "prev": 95,
-    "growth_pct": 10.53,
-    "news": 84,
+    "growth_pct": 13.68,
+    "news": 85,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,11 +28,11 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 8
+      "count": 9
     },
     {
       "platform": "facebook",
-      "count": 1
+      "count": 3
     },
     {
       "platform": "youtube",
@@ -42,11 +42,11 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 84
+      "count": 85
     },
     {
       "platform": "facebook",
-      "count": 15
+      "count": 17
     },
     {
       "platform": "youtube",
@@ -67,6 +67,10 @@
       "count": 1
     },
     {
+      "hour": "2026-05-18 15:00",
+      "count": 2
+    },
+    {
       "hour": "2026-05-18 16:00",
       "count": 4
     },
@@ -76,6 +80,10 @@
     },
     {
       "hour": "2026-05-18 18:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-05-18 19:00",
       "count": 1
     }
   ],
@@ -285,6 +293,10 @@
       "count": 1
     },
     {
+      "hour": "2026-05-18 15:00",
+      "count": 2
+    },
+    {
       "hour": "2026-05-18 16:00",
       "count": 4
     },
@@ -295,19 +307,40 @@
     {
       "hour": "2026-05-18 18:00",
       "count": 1
+    },
+    {
+      "hour": "2026-05-18 19:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 8
+      "count": 9
     },
     {
       "platform": "facebook",
-      "count": 1
+      "count": 3
     }
   ],
   "mention_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "看似市政交流，實則輔選❓ #蔣萬安 #雲林 #張麗善 #張嘉郡 #輔選 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPZW40bUw2d0pzN2owS2tRRTlRcDkwNU9tbmZvOC1wSGV6NTZuSml3Um5rZksxbWlOanVKbnQxYTBUTWpIX2hRQkxfTmZjZlFteURaMDB3dzJDZm1nM0Q5TWMtUzRxZW9NZ1VsMEFTYWYwSk1VYlBvOG84Tk92OHNPQ3ZQcGVCYjMzUnZxRjhha3o3NEVsTkFaZVFxbk5xX3YtTktnNHJHc1pWTlpYV003d2Y5LWc1bDQyT3JhU19TRGJ1NlRQR2VFaFd3OUxWLWhDeWxUdTUtSG1pbHhKU2I4cXdCaFJpUXNNNDF0VW5NejFxMmtnT2I2RjRnX05LMWJYQkV6Z192NXJMbFpBRlUxUW1CT0ZEZEtXa0kxSlpuNC0xeUt5bGtzSmR3cnFFS2JLOXRtMUJ5UkJDLWZ0TlR4SjJ5WnF2b3dRcktrX2hpQVQ2UXRFR09ZMmV4LWpLSVRCdV9PaGFuOEZSMGJVVXU2MDFhZTJETkhwYTVFekEwREwybGpQ",
+        "time": "2026-05-18 19:05:55"
+      },
+      {
+        "title": "【蔣萬安穿青蛙裝抓鰻魚 大讚台灣養殖技術第一】 蔣萬安今(18日)中午11點前往雲林縣口湖鄉進行鰻魚養殖考察，他與立委張嘉郡全身穿著俗稱青蛙裝的養殖漁業涉水褲體驗抓鰻魚，並關心在地鰻農的產業文化。 #蔣萬安 #鰻魚 #青蛙裝 #養殖漁業 #鰻農 #雲林 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi8AdBVV95cUxOMHVOSVFSMWR3djJ2azFiaUE4dm5qQ2VOUjV4T2xzd0lDdGFwYzJ4RnlDVURZM0ZXQWlxUEhfTW5kUEdlcUlVR1BRUGxMbGVUeGV4aEh6OGs3SHFpM2w0ZnBvTF9Ha2ZGZFBVaHBLUV9ieGJVZmp4XzNUTnhhUkVyOEZMWlpjcUJodjdwLThpbGRDYWlDaFdkSjViemJYbTBZaHNteGhMTFVPb0lHX1RwZG5iWjJjZ19EYVUxQ1ZLY202T1NfZDRwb2NoaV83TVFMdUlXYkpyaHhvOXdlSUdCWW9kdDBCM3Jqbng5Tm1vQjBUckczVkYzWlFYMzhTblZWOTVET2JwTDFsUklmY09zajVYbFd1WUJoeERNZmNVQUpYR2pUV0EzQ0diQmp6LUR0U2U1a3VleC1KZUJ5R2ZmM3Q2ZC1ZeEtwd2RLZ01QbzlVc3JLUHRGU3psOVlqMGpGVjhtRDFxQmRQTmhNdm1DVl9KOWxGenRKQVBwdDViR0NHZVFNYzZqVmxOQnFJbVkwWGNJQmJsVDgyVkZBcjV4dFV0aDdtRExoTE93RWJTeUpMUEpWMnNUOEpRUm9YNDUweFdaMTNsMnpzVjVUZnhYR3JzcDRoNTNWRnFpeWRZTkNRT3RnTzlkWXJjNFZvYW1zTF9fcnNvWlgtMVVtbnYtTnZBV0FMdW9NeUYxZDlySk9BQ0FDN2E5aE9FMmEyRTlHdFBZT29Mb1MwZnFRajAyUDlvUlh1MzlVdHFMNVVGcHF3ZDh3Z05OM2VadU5GU3BwYUFPSGFRUGZ6ZDE1d3RBWHNpNmVQZ1hiOTRJYVlKSmpCOEVaay1Wc1FRMTBTZ1JUUWtDSmVrUFRLTUFWRTV5MTVETWhuUlNzOUgtOXE4VnhlTTZGNWg0ankyZ1VocTdRYzRSc29MZ2VSQVFKT0xGNjM2Y1ZLbEJ3MFUyU2pQcnJDMlBxUno2VktPWGpMWHplQUd3b1RLblktLTdTMFhfNXVBSERQSlF3ZmNDQ2I4YmpiM19MVy1neENiQUxHanNFTDZTTjJqN2pBMzBNemUtTUJCb2pqc2U0dUVKbkxpREJURUhWLU10VUtqb2c0dUwxN0IwTHpmMjEweW5KNjBfN3NYUzV3eEtNT3d4UXZDOXQteU90Xzg4d3RCYng2RUZoUzN4RldTeTdLcVZ5Y1NvWUN4NTV1S0R6UG5nOU9YemRfbUJCczlabDJqQjNIUTlmSzVyQkIxQU9ZUWV3UzVXMmhEOERQSkZNTjZmUWxCZzVKVlRZUXd3VEtFV0FEUTlYY0s3M2lPMVpxeHptNW5mNXlnVVctSENRSmdXVVZlU28",
+        "time": "2026-05-18 16:50:51"
+      },
+      {
+        "title": "劉建國 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tZmtZZkN1ZVJZeWFEYm5vM0Z0d1BHQkkxYjZYS0p1SjRMQ0xkUkxVNUZDSlJwUXdQNG51QmVab3hld1NIQ05KVGc2MDZ5T2x2cHhpeGUwZjJMakhPMU9qMUpnZksyN0UxUHNEUzNNcHNySGhGRFM4Sk5Idw",
+        "time": "2026-05-18 15:35:05"
+      }
+    ],
     "news": [
       {
         "title": "蔣萬安喊話與打造北雲農漁產供應鍊 張嘉郡：共創雙贏 - Yahoo新聞",
@@ -335,6 +368,11 @@
         "time": "2026-05-18 16:18:51"
       },
       {
+        "title": "蔣萬安參訪雲林農漁產 張嘉郡包粽子大喊「大家都包中」 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQVFpBRlNPbW5DRjZsbGZrZ3cxZHg2RGktaDNjYV9LS0d3MDk1QnVJalVzRVFIaHhCeGphVlZoWDdGekNHQnhyZ1JqSmJETDltRXQxVE9hRjZPa2s4ZTRRbXg2STlRUjRVTW9wd1ZzLTJFZ2ZlN0pGanAxNldrQklmQkpLQkN0aHlHNjF3b2RJUlNWUnFuQW5vRWJCRTZvblFHd0tDV1N5ZTcwMUJYcUFWcVFvbHlkdXMzX1NXSmQtcDhLYXEtX0pWUWl3SlFYTWpJZHdQOVFJSkd0M0Ixc0lyNi1UNmVQSWZaRG5kdmlfbkJ2Mnk3UElrTjliZjB0RDFmU2x0Y1NteVEtQ1N2czhraWE5RnJhWmNNaXhmcE5xODhkNjk5UDZYSHZWREFEVjF4RDZMUENhZTA2Qk94dGxCSHdRVlpkYkx3MVVSeFZTdnloRmVjMk0wWFFjMlExWmUybF9SclZCWndINEp1WTB1VnZWSmh5X2JW?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-18 15:49:29"
+      },
+      {
         "title": "蔣萬安南下參訪農漁產　張嘉郡盼台北、雲林合作創雙贏 - NOWnews今日新聞",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iXzV2Y25QQ1dWZzBSV0lCd1l3YzR4dzlvc3ZON1pUOVE5XzhMNXNUaVUzZEtvemNQYlFwcjNRX1d1Wkp1SWNzMWhOSUHSAVJBVV95cUxON0RaTWdfWXVrbVF2eERKTUg3STA4S0V3eDRfYkp0ZERqU0R4VjJnUkZSU0VCUUFXRmpncUFNNHM4Z2MzT3hvdmZuR2VBc3M2XzJ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-18 14:38:20"
@@ -348,27 +386,37 @@
         "title": "蔣萬安參訪雲林農漁產 張嘉郡包粽子大喊「大家都包中」 - 中時新聞網",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10RVpkSkZkZ253cHhGbXZ3WnRSOS1WbDR1c1FxbjNwOExaby1fU0NVYm9aZ0tjVE82Si1JQ29GaXZQeEJoeDE0YnBTTXExM1VWSE1VZ0xMejAwX0NBdjR6YUV5ajdlX2Z1bnkwaUlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-18 12:30:22"
-      }
-    ],
-    "facebook": [
-      {
-        "title": "【蔣萬安穿青蛙裝抓鰻魚 大讚台灣養殖技術第一】 蔣萬安今(18日)中午11點前往雲林縣口湖鄉進行鰻魚養殖考察，他與立委張嘉郡全身穿著俗稱青蛙裝的養殖漁業涉水褲體驗抓鰻魚，並關心在地鰻農的產業文化。 #蔣萬安 #鰻魚 #青蛙裝 #養殖漁業 #鰻農 #雲林 - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi8AdBVV95cUxOMHVOSVFSMWR3djJ2azFiaUE4dm5qQ2VOUjV4T2xzd0lDdGFwYzJ4RnlDVURZM0ZXQWlxUEhfTW5kUEdlcUlVR1BRUGxMbGVUeGV4aEh6OGs3SHFpM2w0ZnBvTF9Ha2ZGZFBVaHBLUV9ieGJVZmp4XzNUTnhhUkVyOEZMWlpjcUJodjdwLThpbGRDYWlDaFdkSjViemJYbTBZaHNteGhMTFVPb0lHX1RwZG5iWjJjZ19EYVUxQ1ZLY202T1NfZDRwb2NoaV83TVFMdUlXYkpyaHhvOXdlSUdCWW9kdDBCM3Jqbng5Tm1vQjBUckczVkYzWlFYMzhTblZWOTVET2JwTDFsUklmY09zajVYbFd1WUJoeERNZmNVQUpYR2pUV0EzQ0diQmp6LUR0U2U1a3VleC1KZUJ5R2ZmM3Q2ZC1ZeEtwd2RLZ01QbzlVc3JLUHRGU3psOVlqMGpGVjhtRDFxQmRQTmhNdm1DVl9KOWxGenRKQVBwdDViR0NHZVFNYzZqVmxOQnFJbVkwWGNJQmJsVDgyVkZBcjV4dFV0aDdtRExoTE93RWJTeUpMUEpWMnNUOEpRUm9YNDUweFdaMTNsMnpzVjVUZnhYR3JzcDRoNTNWRnFpeWRZTkNRT3RnTzlkWXJjNFZvYW1zTF9fcnNvWlgtMVVtbnYtTnZBV0FMdW9NeUYxZDlySk9BQ0FDN2E5aE9FMmEyRTlHdFBZT29Mb1MwZnFRajAyUDlvUlh1MzlVdHFMNVVGcHF3ZDh3Z05OM2VadU5GU3BwYUFPSGFRUGZ6ZDE1d3RBWHNpNmVQZ1hiOTRJYVlKSmpCOEVaay1Wc1FRMTBTZ1JUUWtDSmVrUFRLTUFWRTV5MTVETWhuUlNzOUgtOXE4VnhlTTZGNWg0ankyZ1VocTdRYzRSc29MZ2VSQVFKT0xGNjM2Y1ZLbEJ3MFUyU2pQcnJDMlBxUno2VktPWGpMWHplQUd3b1RLblktLTdTMFhfNXVBSERQSlF3ZmNDQ2I4YmpiM19MVy1neENiQUxHanNFTDZTTjJqN2pBMzBNemUtTUJCb2pqc2U0dUVKbkxpREJURUhWLU10VUtqb2c0dUwxN0IwTHpmMjEweW5KNjBfN3NYUzV3eEtNT3d4UXZDOXQteU90Xzg4d3RCYng2RUZoUzN4RldTeTdLcVZ5Y1NvWUN4NTV1S0R6UG5nOU9YemRfbUJCczlabDJqQjNIUTlmSzVyQkIxQU9ZUWV3UzVXMmhEOERQSkZNTjZmUWxCZzVKVlRZUXd3VEtFV0FEUTlYY0s3M2lPMVpxeHptNW5mNXlnVVctSENRSmdXVVZlU28",
-        "time": "2026-05-18 16:50:51"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 8
+      "count": 9
     },
     {
       "platform": "facebook",
-      "count": 1
+      "count": 3
     }
   ],
   "alias_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "看似市政交流，實則輔選❓ #蔣萬安 #雲林 #張麗善 #張嘉郡 #輔選 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPZW40bUw2d0pzN2owS2tRRTlRcDkwNU9tbmZvOC1wSGV6NTZuSml3Um5rZksxbWlOanVKbnQxYTBUTWpIX2hRQkxfTmZjZlFteURaMDB3dzJDZm1nM0Q5TWMtUzRxZW9NZ1VsMEFTYWYwSk1VYlBvOG84Tk92OHNPQ3ZQcGVCYjMzUnZxRjhha3o3NEVsTkFaZVFxbk5xX3YtTktnNHJHc1pWTlpYV003d2Y5LWc1bDQyT3JhU19TRGJ1NlRQR2VFaFd3OUxWLWhDeWxUdTUtSG1pbHhKU2I4cXdCaFJpUXNNNDF0VW5NejFxMmtnT2I2RjRnX05LMWJYQkV6Z192NXJMbFpBRlUxUW1CT0ZEZEtXa0kxSlpuNC0xeUt5bGtzSmR3cnFFS2JLOXRtMUJ5UkJDLWZ0TlR4SjJ5WnF2b3dRcktrX2hpQVQ2UXRFR09ZMmV4LWpLSVRCdV9PaGFuOEZSMGJVVXU2MDFhZTJETkhwYTVFekEwREwybGpQ",
+        "time": "2026-05-18 19:05:55"
+      },
+      {
+        "title": "【蔣萬安穿青蛙裝抓鰻魚 大讚台灣養殖技術第一】 蔣萬安今(18日)中午11點前往雲林縣口湖鄉進行鰻魚養殖考察，他與立委張嘉郡全身穿著俗稱青蛙裝的養殖漁業涉水褲體驗抓鰻魚，並關心在地鰻農的產業文化。 #蔣萬安 #鰻魚 #青蛙裝 #養殖漁業 #鰻農 #雲林 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi8AdBVV95cUxOMHVOSVFSMWR3djJ2azFiaUE4dm5qQ2VOUjV4T2xzd0lDdGFwYzJ4RnlDVURZM0ZXQWlxUEhfTW5kUEdlcUlVR1BRUGxMbGVUeGV4aEh6OGs3SHFpM2w0ZnBvTF9Ha2ZGZFBVaHBLUV9ieGJVZmp4XzNUTnhhUkVyOEZMWlpjcUJodjdwLThpbGRDYWlDaFdkSjViemJYbTBZaHNteGhMTFVPb0lHX1RwZG5iWjJjZ19EYVUxQ1ZLY202T1NfZDRwb2NoaV83TVFMdUlXYkpyaHhvOXdlSUdCWW9kdDBCM3Jqbng5Tm1vQjBUckczVkYzWlFYMzhTblZWOTVET2JwTDFsUklmY09zajVYbFd1WUJoeERNZmNVQUpYR2pUV0EzQ0diQmp6LUR0U2U1a3VleC1KZUJ5R2ZmM3Q2ZC1ZeEtwd2RLZ01QbzlVc3JLUHRGU3psOVlqMGpGVjhtRDFxQmRQTmhNdm1DVl9KOWxGenRKQVBwdDViR0NHZVFNYzZqVmxOQnFJbVkwWGNJQmJsVDgyVkZBcjV4dFV0aDdtRExoTE93RWJTeUpMUEpWMnNUOEpRUm9YNDUweFdaMTNsMnpzVjVUZnhYR3JzcDRoNTNWRnFpeWRZTkNRT3RnTzlkWXJjNFZvYW1zTF9fcnNvWlgtMVVtbnYtTnZBV0FMdW9NeUYxZDlySk9BQ0FDN2E5aE9FMmEyRTlHdFBZT29Mb1MwZnFRajAyUDlvUlh1MzlVdHFMNVVGcHF3ZDh3Z05OM2VadU5GU3BwYUFPSGFRUGZ6ZDE1d3RBWHNpNmVQZ1hiOTRJYVlKSmpCOEVaay1Wc1FRMTBTZ1JUUWtDSmVrUFRLTUFWRTV5MTVETWhuUlNzOUgtOXE4VnhlTTZGNWg0ankyZ1VocTdRYzRSc29MZ2VSQVFKT0xGNjM2Y1ZLbEJ3MFUyU2pQcnJDMlBxUno2VktPWGpMWHplQUd3b1RLblktLTdTMFhfNXVBSERQSlF3ZmNDQ2I4YmpiM19MVy1neENiQUxHanNFTDZTTjJqN2pBMzBNemUtTUJCb2pqc2U0dUVKbkxpREJURUhWLU10VUtqb2c0dUwxN0IwTHpmMjEweW5KNjBfN3NYUzV3eEtNT3d4UXZDOXQteU90Xzg4d3RCYng2RUZoUzN4RldTeTdLcVZ5Y1NvWUN4NTV1S0R6UG5nOU9YemRfbUJCczlabDJqQjNIUTlmSzVyQkIxQU9ZUWV3UzVXMmhEOERQSkZNTjZmUWxCZzVKVlRZUXd3VEtFV0FEUTlYY0s3M2lPMVpxeHptNW5mNXlnVVctSENRSmdXVVZlU28",
+        "time": "2026-05-18 16:50:51"
+      },
+      {
+        "title": "劉建國 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tZmtZZkN1ZVJZeWFEYm5vM0Z0d1BHQkkxYjZYS0p1SjRMQ0xkUkxVNUZDSlJwUXdQNG51QmVab3hld1NIQ05KVGc2MDZ5T2x2cHhpeGUwZjJMakhPMU9qMUpnZksyN0UxUHNEUzNNcHNySGhGRFM4Sk5Idw",
+        "time": "2026-05-18 15:35:05"
+      }
+    ],
     "news": [
       {
         "title": "蔣萬安喊話與打造北雲農漁產供應鍊 張嘉郡：共創雙贏 - Yahoo新聞",
@@ -396,6 +444,11 @@
         "time": "2026-05-18 16:18:51"
       },
       {
+        "title": "蔣萬安參訪雲林農漁產 張嘉郡包粽子大喊「大家都包中」 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQVFpBRlNPbW5DRjZsbGZrZ3cxZHg2RGktaDNjYV9LS0d3MDk1QnVJalVzRVFIaHhCeGphVlZoWDdGekNHQnhyZ1JqSmJETDltRXQxVE9hRjZPa2s4ZTRRbXg2STlRUjRVTW9wd1ZzLTJFZ2ZlN0pGanAxNldrQklmQkpLQkN0aHlHNjF3b2RJUlNWUnFuQW5vRWJCRTZvblFHd0tDV1N5ZTcwMUJYcUFWcVFvbHlkdXMzX1NXSmQtcDhLYXEtX0pWUWl3SlFYTWpJZHdQOVFJSkd0M0Ixc0lyNi1UNmVQSWZaRG5kdmlfbkJ2Mnk3UElrTjliZjB0RDFmU2x0Y1NteVEtQ1N2czhraWE5RnJhWmNNaXhmcE5xODhkNjk5UDZYSHZWREFEVjF4RDZMUENhZTA2Qk94dGxCSHdRVlpkYkx3MVVSeFZTdnloRmVjMk0wWFFjMlExWmUybF9SclZCWndINEp1WTB1VnZWSmh5X2JW?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-18 15:49:29"
+      },
+      {
         "title": "蔣萬安南下參訪農漁產　張嘉郡盼台北、雲林合作創雙贏 - NOWnews今日新聞",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iXzV2Y25QQ1dWZzBSV0lCd1l3YzR4dzlvc3ZON1pUOVE5XzhMNXNUaVUzZEtvemNQYlFwcjNRX1d1Wkp1SWNzMWhOSUHSAVJBVV95cUxON0RaTWdfWXVrbVF2eERKTUg3STA4S0V3eDRfYkp0ZERqU0R4VjJnUkZSU0VCUUFXRmpncUFNNHM4Z2MzT3hvdmZuR2VBc3M2XzJ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-18 14:38:20"
@@ -410,22 +463,15 @@
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10RVpkSkZkZ253cHhGbXZ3WnRSOS1WbDR1c1FxbjNwOExaby1fU0NVYm9aZ0tjVE82Si1JQ29GaXZQeEJoeDE0YnBTTXExM1VWSE1VZ0xMejAwX0NBdjR6YUV5ajdlX2Z1bnkwaUlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-18 12:30:22"
       }
-    ],
-    "facebook": [
-      {
-        "title": "【蔣萬安穿青蛙裝抓鰻魚 大讚台灣養殖技術第一】 蔣萬安今(18日)中午11點前往雲林縣口湖鄉進行鰻魚養殖考察，他與立委張嘉郡全身穿著俗稱青蛙裝的養殖漁業涉水褲體驗抓鰻魚，並關心在地鰻農的產業文化。 #蔣萬安 #鰻魚 #青蛙裝 #養殖漁業 #鰻農 #雲林 - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi8AdBVV95cUxOMHVOSVFSMWR3djJ2azFiaUE4dm5qQ2VOUjV4T2xzd0lDdGFwYzJ4RnlDVURZM0ZXQWlxUEhfTW5kUEdlcUlVR1BRUGxMbGVUeGV4aEh6OGs3SHFpM2w0ZnBvTF9Ha2ZGZFBVaHBLUV9ieGJVZmp4XzNUTnhhUkVyOEZMWlpjcUJodjdwLThpbGRDYWlDaFdkSjViemJYbTBZaHNteGhMTFVPb0lHX1RwZG5iWjJjZ19EYVUxQ1ZLY202T1NfZDRwb2NoaV83TVFMdUlXYkpyaHhvOXdlSUdCWW9kdDBCM3Jqbng5Tm1vQjBUckczVkYzWlFYMzhTblZWOTVET2JwTDFsUklmY09zajVYbFd1WUJoeERNZmNVQUpYR2pUV0EzQ0diQmp6LUR0U2U1a3VleC1KZUJ5R2ZmM3Q2ZC1ZeEtwd2RLZ01QbzlVc3JLUHRGU3psOVlqMGpGVjhtRDFxQmRQTmhNdm1DVl9KOWxGenRKQVBwdDViR0NHZVFNYzZqVmxOQnFJbVkwWGNJQmJsVDgyVkZBcjV4dFV0aDdtRExoTE93RWJTeUpMUEpWMnNUOEpRUm9YNDUweFdaMTNsMnpzVjVUZnhYR3JzcDRoNTNWRnFpeWRZTkNRT3RnTzlkWXJjNFZvYW1zTF9fcnNvWlgtMVVtbnYtTnZBV0FMdW9NeUYxZDlySk9BQ0FDN2E5aE9FMmEyRTlHdFBZT29Mb1MwZnFRajAyUDlvUlh1MzlVdHFMNVVGcHF3ZDh3Z05OM2VadU5GU3BwYUFPSGFRUGZ6ZDE1d3RBWHNpNmVQZ1hiOTRJYVlKSmpCOEVaay1Wc1FRMTBTZ1JUUWtDSmVrUFRLTUFWRTV5MTVETWhuUlNzOUgtOXE4VnhlTTZGNWg0ankyZ1VocTdRYzRSc29MZ2VSQVFKT0xGNjM2Y1ZLbEJ3MFUyU2pQcnJDMlBxUno2VktPWGpMWHplQUd3b1RLblktLTdTMFhfNXVBSERQSlF3ZmNDQ2I4YmpiM19MVy1neENiQUxHanNFTDZTTjJqN2pBMzBNemUtTUJCb2pqc2U0dUVKbkxpREJURUhWLU10VUtqb2c0dUwxN0IwTHpmMjEweW5KNjBfN3NYUzV3eEtNT3d4UXZDOXQteU90Xzg4d3RCYng2RUZoUzN4RldTeTdLcVZ5Y1NvWUN4NTV1S0R6UG5nOU9YemRfbUJCczlabDJqQjNIUTlmSzVyQkIxQU9ZUWV3UzVXMmhEOERQSkZNTjZmUWxCZzVKVlRZUXd3VEtFV0FEUTlYY0s3M2lPMVpxeHptNW5mNXlnVVctSENRSmdXVVZlU28",
-        "time": "2026-05-18 16:50:51"
-      }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 9,
-    "劉建國": 0
+    "張嘉郡": 11,
+    "劉建國": 1
   },
   "mention_compare_7d": {
-    "張嘉郡": 32,
-    "劉建國": 41
+    "張嘉郡": 34,
+    "劉建國": 42
   },
   "top_news": [
     {
@@ -452,6 +498,11 @@
       "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」 創雙贏 - 匯流新聞網",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SOGpvTkR0WTV1eUtXU0dkdlNqV0loT3Fsb3h3d1ZmcDVmZjlTRDIzX1pxV0t6YTlvMHg0aHgxRjZIdWVwSlN2VWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-18 16:18:51"
+    },
+    {
+      "title": "蔣萬安參訪雲林農漁產 張嘉郡包粽子大喊「大家都包中」 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQVFpBRlNPbW5DRjZsbGZrZ3cxZHg2RGktaDNjYV9LS0d3MDk1QnVJalVzRVFIaHhCeGphVlZoWDdGekNHQnhyZ1JqSmJETDltRXQxVE9hRjZPa2s4ZTRRbXg2STlRUjRVTW9wd1ZzLTJFZ2ZlN0pGanAxNldrQklmQkpLQkN0aHlHNjF3b2RJUlNWUnFuQW5vRWJCRTZvblFHd0tDV1N5ZTcwMUJYcUFWcVFvbHlkdXMzX1NXSmQtcDhLYXEtX0pWUWl3SlFYTWpJZHdQOVFJSkd0M0Ixc0lyNi1UNmVQSWZaRG5kdmlfbkJ2Mnk3UElrTjliZjB0RDFmU2x0Y1NteVEtQ1N2czhraWE5RnJhWmNNaXhmcE5xODhkNjk5UDZYSHZWREFEVjF4RDZMUENhZTA2Qk94dGxCSHdRVlpkYkx3MVVSeFZTdnloRmVjMk0wWFFjMlExWmUybF9SclZCWndINEp1WTB1VnZWSmh5X2JW?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-18 15:49:29"
     },
     {
       "title": "蔣萬安南下參訪農漁產　張嘉郡盼台北、雲林合作創雙贏 - NOWnews今日新聞",
@@ -494,6 +545,11 @@
       "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」 創雙贏 - 匯流新聞網",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SOGpvTkR0WTV1eUtXU0dkdlNqV0loT3Fsb3h3d1ZmcDVmZjlTRDIzX1pxV0t6YTlvMHg0aHgxRjZIdWVwSlN2VWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-18 16:18:51"
+    },
+    {
+      "title": "蔣萬安參訪雲林農漁產 張嘉郡包粽子大喊「大家都包中」 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQVFpBRlNPbW5DRjZsbGZrZ3cxZHg2RGktaDNjYV9LS0d3MDk1QnVJalVzRVFIaHhCeGphVlZoWDdGekNHQnhyZ1JqSmJETDltRXQxVE9hRjZPa2s4ZTRRbXg2STlRUjRVTW9wd1ZzLTJFZ2ZlN0pGanAxNldrQklmQkpLQkN0aHlHNjF3b2RJUlNWUnFuQW5vRWJCRTZvblFHd0tDV1N5ZTcwMUJYcUFWcVFvbHlkdXMzX1NXSmQtcDhLYXEtX0pWUWl3SlFYTWpJZHdQOVFJSkd0M0Ixc0lyNi1UNmVQSWZaRG5kdmlfbkJ2Mnk3UElrTjliZjB0RDFmU2x0Y1NteVEtQ1N2czhraWE5RnJhWmNNaXhmcE5xODhkNjk5UDZYSHZWREFEVjF4RDZMUENhZTA2Qk94dGxCSHdRVlpkYkx3MVVSeFZTdnloRmVjMk0wWFFjMlExWmUybF9SclZCWndINEp1WTB1VnZWSmh5X2JW?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-18 15:49:29"
     },
     {
       "title": "蔣萬安南下參訪農漁產　張嘉郡盼台北、雲林合作創雙贏 - NOWnews今日新聞",
@@ -564,18 +620,23 @@
       "title": "漁業署推鰻魚入粽 劉建國豪邁包\"鰻魚粽\" - 民視新聞網",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wWHdQN1g5d3dWMzBjNk91cDVZLVZ5Zm9wdXBqNE1TalpGb1VCMW5aWVdCQnVwbHdpSjJLUzQ0MjJfd1dQNllZUlJXbGNncVZuSFF1SW5YQTZyM21tdEZpNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-16 13:51:12"
-    },
-    {
-      "title": "拋斗六建「雲林小巨蛋」 張嘉郡：帶動觀光消費、投資 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNQXN0Q2o1ODB0VXFRa2VpUjhFR0ZxZERiNXpfSzVxSTdyUVhiWHVaWkdNdkRGTmg2U3hMWkZFNjhtdldfblVidFdiYWNMU1cwU2VkaldEbWdZUWNFZVVtQUk5bmZTeUMtMm53aVdYQmdNUzJldkFTa3hoVVJCcjRjZ2R1cmZrSTZ6ZTNqdWk0ZHA2YnRQT0tEdnBPTlBpeTV4bk5GQ0JNQUs1ZmF1RUVoeUVGRTFKa2ZyblFYaXE4OThCaG9jZG5UMVdlNmlTMVVDd0xraXZJTlJjRVNJYm5kMnlYaFhCaUR6elpyVllsWHF3ZkE3aFVuU1Jha1FJZUcxRzA3U0xOek9pNHNWU0FyYl9RUFlkQVpPUlpyaHc2TXdyaGM5ZTByWGFYUXBPWEJ0aDF3UnREZF9oazBvaFRHb2RvdkdvRWJhQjRaR1VINWY1T01Cd2JZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-16 08:22:28"
     }
   ],
   "latest_facebook_20": [
     {
+      "title": "看似市政交流，實則輔選❓ #蔣萬安 #雲林 #張麗善 #張嘉郡 #輔選 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPZW40bUw2d0pzN2owS2tRRTlRcDkwNU9tbmZvOC1wSGV6NTZuSml3Um5rZksxbWlOanVKbnQxYTBUTWpIX2hRQkxfTmZjZlFteURaMDB3dzJDZm1nM0Q5TWMtUzRxZW9NZ1VsMEFTYWYwSk1VYlBvOG84Tk92OHNPQ3ZQcGVCYjMzUnZxRjhha3o3NEVsTkFaZVFxbk5xX3YtTktnNHJHc1pWTlpYV003d2Y5LWc1bDQyT3JhU19TRGJ1NlRQR2VFaFd3OUxWLWhDeWxUdTUtSG1pbHhKU2I4cXdCaFJpUXNNNDF0VW5NejFxMmtnT2I2RjRnX05LMWJYQkV6Z192NXJMbFpBRlUxUW1CT0ZEZEtXa0kxSlpuNC0xeUt5bGtzSmR3cnFFS2JLOXRtMUJ5UkJDLWZ0TlR4SjJ5WnF2b3dRcktrX2hpQVQ2UXRFR09ZMmV4LWpLSVRCdV9PaGFuOEZSMGJVVXU2MDFhZTJETkhwYTVFekEwREwybGpQ",
+      "time": "2026-05-18 19:05:55"
+    },
+    {
       "title": "【蔣萬安穿青蛙裝抓鰻魚 大讚台灣養殖技術第一】 蔣萬安今(18日)中午11點前往雲林縣口湖鄉進行鰻魚養殖考察，他與立委張嘉郡全身穿著俗稱青蛙裝的養殖漁業涉水褲體驗抓鰻魚，並關心在地鰻農的產業文化。 #蔣萬安 #鰻魚 #青蛙裝 #養殖漁業 #鰻農 #雲林 - Facebook",
       "url": "https://news.google.com/rss/articles/CBMi8AdBVV95cUxOMHVOSVFSMWR3djJ2azFiaUE4dm5qQ2VOUjV4T2xzd0lDdGFwYzJ4RnlDVURZM0ZXQWlxUEhfTW5kUEdlcUlVR1BRUGxMbGVUeGV4aEh6OGs3SHFpM2w0ZnBvTF9Ha2ZGZFBVaHBLUV9ieGJVZmp4XzNUTnhhUkVyOEZMWlpjcUJodjdwLThpbGRDYWlDaFdkSjViemJYbTBZaHNteGhMTFVPb0lHX1RwZG5iWjJjZ19EYVUxQ1ZLY202T1NfZDRwb2NoaV83TVFMdUlXYkpyaHhvOXdlSUdCWW9kdDBCM3Jqbng5Tm1vQjBUckczVkYzWlFYMzhTblZWOTVET2JwTDFsUklmY09zajVYbFd1WUJoeERNZmNVQUpYR2pUV0EzQ0diQmp6LUR0U2U1a3VleC1KZUJ5R2ZmM3Q2ZC1ZeEtwd2RLZ01QbzlVc3JLUHRGU3psOVlqMGpGVjhtRDFxQmRQTmhNdm1DVl9KOWxGenRKQVBwdDViR0NHZVFNYzZqVmxOQnFJbVkwWGNJQmJsVDgyVkZBcjV4dFV0aDdtRExoTE93RWJTeUpMUEpWMnNUOEpRUm9YNDUweFdaMTNsMnpzVjVUZnhYR3JzcDRoNTNWRnFpeWRZTkNRT3RnTzlkWXJjNFZvYW1zTF9fcnNvWlgtMVVtbnYtTnZBV0FMdW9NeUYxZDlySk9BQ0FDN2E5aE9FMmEyRTlHdFBZT29Mb1MwZnFRajAyUDlvUlh1MzlVdHFMNVVGcHF3ZDh3Z05OM2VadU5GU3BwYUFPSGFRUGZ6ZDE1d3RBWHNpNmVQZ1hiOTRJYVlKSmpCOEVaay1Wc1FRMTBTZ1JUUWtDSmVrUFRLTUFWRTV5MTVETWhuUlNzOUgtOXE4VnhlTTZGNWg0ankyZ1VocTdRYzRSc29MZ2VSQVFKT0xGNjM2Y1ZLbEJ3MFUyU2pQcnJDMlBxUno2VktPWGpMWHplQUd3b1RLblktLTdTMFhfNXVBSERQSlF3ZmNDQ2I4YmpiM19MVy1neENiQUxHanNFTDZTTjJqN2pBMzBNemUtTUJCb2pqc2U0dUVKbkxpREJURUhWLU10VUtqb2c0dUwxN0IwTHpmMjEweW5KNjBfN3NYUzV3eEtNT3d4UXZDOXQteU90Xzg4d3RCYng2RUZoUzN4RldTeTdLcVZ5Y1NvWUN4NTV1S0R6UG5nOU9YemRfbUJCczlabDJqQjNIUTlmSzVyQkIxQU9ZUWV3UzVXMmhEOERQSkZNTjZmUWxCZzVKVlRZUXd3VEtFV0FEUTlYY0s3M2lPMVpxeHptNW5mNXlnVVctSENRSmdXVVZlU28",
       "time": "2026-05-18 16:50:51"
+    },
+    {
+      "title": "劉建國 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tZmtZZkN1ZVJZeWFEYm5vM0Z0d1BHQkkxYjZYS0p1SjRMQ0xkUkxVNUZDSlJwUXdQNG51QmVab3hld1NIQ05KVGc2MDZ5T2x2cHhpeGUwZjJMakhPMU9qMUpnZksyN0UxUHNEUzNNcHNySGhGRFM4Sk5Idw",
+      "time": "2026-05-18 15:35:05"
     },
     {
       "title": "一年一年的荷花開，不只是風景， 更是一份陪伴～ 今天參加「沐心荷園音樂饗宴」，除了欣賞滿園荷花與悠揚國樂，更是有一段很溫暖的故事。 20多年前，廖顯能老師退休後聽從友人建議開始種植荷花，荷花盛開在母親節前後，返鄉的鄉親都能有個賞花、放鬆心情的地方。 - facebook.com",
@@ -661,16 +722,6 @@
       "title": "📣醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查：https://hoomedia.com.tw/2026/05/11/141245/ 🌎延伸閱讀： https://hoomedia.com.tw/2026/05/11/141245/ 🏘️互傳媒新聞網： https://hoomedia.com.tw - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxOQmVsSU5qdFdjVzA5V3hiSnVPZTFCSGt5X2V3a3JBOTBCRzhrSEpGMldoTWZQSXdfaWdnTGxpMVJyOEx4R1hlYjdsVm5XNWc2ci1HeXE1MS02UW1TYWU1Ujh1eEhDV213dEpWb1p2TENZUTdVeGtwQ1BXLUxIaFlGMDd6ZlhPYktlbHZSNFhtdExRU0cxb1liNkM2R3h6TzFpZENEZVdSZHdsaHlaQzFMZ3JrMmxoRmtFc0FCM3JGNDlIcTY4V0p2ZUdZVkhWVFNNY2tWcTlnMERmMWhKT2JlaF9ER2pTVTNMUFZTQW5KWXJlQlF6aF9fblZvS3ZjOXlXMUJtOWRWMkNORkdNc0l4b0hadF9zY2RYaHFNZ1NtV0lsdjVlSHA4dmd2bTBOanJyZ2xib2s5TTA2YTdHNGZNN1hrNXZWakJNb0k3ZUdYTGE3ai1fZVh2YmxuQU1qSlVRQWJRV1dxTlcxRHBCSENhMjhURjlIRndzVHFPQlJzQXptUHV1VmNnU2tZRUw1RVFVWXI4U3gyd0k4Y3owbC1sNHNWTkFSNXBuYno5djNhTHJ6YzF4dno0NmVKbGpwbWplOFdKQm5mU2lFVTNYS0NJbmlqWkRGc29iSmhtaldJN052Zk5UMU5GRGZ6cnJMUHI5T0wzaHVQYkxkZmpack1DdnRrRkQ2a2MyUTI2VnRXWQ",
       "time": "2026-05-11 20:17:51"
-    },
-    {
-      "title": "醫美偷拍風暴擴大！ 劉建國怒轟衛福部慢半拍 「全國稽查刻不容緩」 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQcTlTRl80UlFRbGVEUVZGWXNIcWxQMWhTY3BSU1BGSFh6M1pfZ2FVbXAtZnZMcVlwMW5MNFVEMkdPMHB3Qlg3aUI3TmdPU3FFd2JNdlBpamxLVE8tZjdHSE1GTFFtc1hSdmQ3YWFPOTlHTzVVYlVFcC1kSU02VXJqMUJoOVVpTWJSLWhXb0JRYVlaM21GWFh2QjV6TS16RWdzaHlkOXZfNFFGS2poZU8xV3V2VEl4cy1RV0M3UlFZQkozX2thMWFVVTZ6WldsSWFzRXZnb1drMUhSMTdwRzhrZlZVbEM4RUxoQXowaFNsenpBSTU4OC1oY3lYX2tLTWJLYlhQVWhkSkpLMzkyUDhMcTV4STVIbmo5cmtXTHJIZDJGWDVoQUcxVmNzQno2UVRYZFBrV2FnRzhMWC1VdFJGekZ6VU90MFNTa0U0bGQ5SlRPeVlGVTNIYnNhY3pzMlZobVVoMGZEeVdmVl92WmRGaGVkWGNBMUF6SnlUaXc1Uk1rR1lyWTIwZ1hsQTFrdHdkQ196bHlGTGE2Nk84VzRubU4ycXBiQktVYk1NX3p3SQ",
-      "time": "2026-05-11 19:56:38"
-    },
-    {
-      "title": "醫美偷拍案延燒 劉建國要求衛福部啟動全國稽查 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPcVBCYTRBRUpmajBjX1JMT0oxdWxvcnY5dHhJbXVweWtpR0lvenBjX3R0YnRwSGZZN0szV2NtSHpiS2tvTFFlYWV4THF0X1NWNGdLNjRkRkZKaE5iY2F0VzVJbWZfNmNxRHRYOTI2VXNKZGl3LVFXSjhNYllHUEtXOWdZV244UExEczFuSUxDWks0cGVHeUtFRGE1Zk56d3dkN1lCUUZNZ0NicEdWTXNsYXV4VUZ5VkRYa1dMUVVkX2IzVjc0T0o5emJVd24tZWpzLU1WS2N5dnBpT3BSRHk4aklpdkszT0dXTE11bDJrRWJQclVBSTBpU3ZLeVhYaUhGNW40OGZLSEJoQ24zWUxUVWlVQnBFbXQ5dmp2RVVFM3BtNTgxR1NncmM5Um0xS1hSNzRDY2RJLVhTaXVYUUdmMnYwbkwyS2NSeWRnc1RITzNvWEM5VC12cnpaY3BrWG1nRmhVSXExaEhlbDlD",
-      "time": "2026-05-11 18:30:28"
     }
   ],
   "latest_news_20": [
@@ -698,6 +749,11 @@
       "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」 創雙贏 - 匯流新聞網",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SOGpvTkR0WTV1eUtXU0dkdlNqV0loT3Fsb3h3d1ZmcDVmZjlTRDIzX1pxV0t6YTlvMHg0aHgxRjZIdWVwSlN2VWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-18 16:18:51"
+    },
+    {
+      "title": "蔣萬安參訪雲林農漁產 張嘉郡包粽子大喊「大家都包中」 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQVFpBRlNPbW5DRjZsbGZrZ3cxZHg2RGktaDNjYV9LS0d3MDk1QnVJalVzRVFIaHhCeGphVlZoWDdGekNHQnhyZ1JqSmJETDltRXQxVE9hRjZPa2s4ZTRRbXg2STlRUjRVTW9wd1ZzLTJFZ2ZlN0pGanAxNldrQklmQkpLQkN0aHlHNjF3b2RJUlNWUnFuQW5vRWJCRTZvblFHd0tDV1N5ZTcwMUJYcUFWcVFvbHlkdXMzX1NXSmQtcDhLYXEtX0pWUWl3SlFYTWpJZHdQOVFJSkd0M0Ixc0lyNi1UNmVQSWZaRG5kdmlfbkJ2Mnk3UElrTjliZjB0RDFmU2x0Y1NteVEtQ1N2czhraWE5RnJhWmNNaXhmcE5xODhkNjk5UDZYSHZWREFEVjF4RDZMUENhZTA2Qk94dGxCSHdRVlpkYkx3MVVSeFZTdnloRmVjMk0wWFFjMlExWmUybF9SclZCWndINEp1WTB1VnZWSmh5X2JW?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-18 15:49:29"
     },
     {
       "title": "蔣萬安南下參訪農漁產　張嘉郡盼台北、雲林合作創雙贏 - NOWnews今日新聞",
@@ -768,16 +824,16 @@
       "title": "漁業署推鰻魚入粽 劉建國豪邁包\"鰻魚粽\" - 民視新聞網",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wWHdQN1g5d3dWMzBjNk91cDVZLVZ5Zm9wdXBqNE1TalpGb1VCMW5aWVdCQnVwbHdpSjJLUzQ0MjJfd1dQNllZUlJXbGNncVZuSFF1SW5YQTZyM21tdEZpNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-16 13:51:12"
-    },
-    {
-      "title": "拋斗六建「雲林小巨蛋」 張嘉郡：帶動觀光消費、投資 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNQXN0Q2o1ODB0VXFRa2VpUjhFR0ZxZERiNXpfSzVxSTdyUVhiWHVaWkdNdkRGTmg2U3hMWkZFNjhtdldfblVidFdiYWNMU1cwU2VkaldEbWdZUWNFZVVtQUk5bmZTeUMtMm53aVdYQmdNUzJldkFTa3hoVVJCcjRjZ2R1cmZrSTZ6ZTNqdWk0ZHA2YnRQT0tEdnBPTlBpeTV4bk5GQ0JNQUs1ZmF1RUVoeUVGRTFKa2ZyblFYaXE4OThCaG9jZG5UMVdlNmlTMVVDd0xraXZJTlJjRVNJYm5kMnlYaFhCaUR6elpyVllsWHF3ZkE3aFVuU1Jha1FJZUcxRzA3U0xOek9pNHNWU0FyYl9RUFlkQVpPUlpyaHc2TXdyaGM5ZTByWGFYUXBPWEJ0aDF3UnREZF9oazBvaFRHb2RvdkdvRWJhQjRaR1VINWY1T01Cd2JZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-16 08:22:28"
     }
   ],
   "person_sections": {
     "張嘉郡": {
       "facebook": [
+        {
+          "title": "看似市政交流，實則輔選❓ #蔣萬安 #雲林 #張麗善 #張嘉郡 #輔選 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPZW40bUw2d0pzN2owS2tRRTlRcDkwNU9tbmZvOC1wSGV6NTZuSml3Um5rZksxbWlOanVKbnQxYTBUTWpIX2hRQkxfTmZjZlFteURaMDB3dzJDZm1nM0Q5TWMtUzRxZW9NZ1VsMEFTYWYwSk1VYlBvOG84Tk92OHNPQ3ZQcGVCYjMzUnZxRjhha3o3NEVsTkFaZVFxbk5xX3YtTktnNHJHc1pWTlpYV003d2Y5LWc1bDQyT3JhU19TRGJ1NlRQR2VFaFd3OUxWLWhDeWxUdTUtSG1pbHhKU2I4cXdCaFJpUXNNNDF0VW5NejFxMmtnT2I2RjRnX05LMWJYQkV6Z192NXJMbFpBRlUxUW1CT0ZEZEtXa0kxSlpuNC0xeUt5bGtzSmR3cnFFS2JLOXRtMUJ5UkJDLWZ0TlR4SjJ5WnF2b3dRcktrX2hpQVQ2UXRFR09ZMmV4LWpLSVRCdV9PaGFuOEZSMGJVVXU2MDFhZTJETkhwYTVFekEwREwybGpQ",
+          "time": "2026-05-18 19:05:55"
+        },
         {
           "title": "【蔣萬安穿青蛙裝抓鰻魚 大讚台灣養殖技術第一】 蔣萬安今(18日)中午11點前往雲林縣口湖鄉進行鰻魚養殖考察，他與立委張嘉郡全身穿著俗稱青蛙裝的養殖漁業涉水褲體驗抓鰻魚，並關心在地鰻農的產業文化。 #蔣萬安 #鰻魚 #青蛙裝 #養殖漁業 #鰻農 #雲林 - Facebook",
           "url": "https://news.google.com/rss/articles/CBMi8AdBVV95cUxOMHVOSVFSMWR3djJ2azFiaUE4dm5qQ2VOUjV4T2xzd0lDdGFwYzJ4RnlDVURZM0ZXQWlxUEhfTW5kUEdlcUlVR1BRUGxMbGVUeGV4aEh6OGs3SHFpM2w0ZnBvTF9Ha2ZGZFBVaHBLUV9ieGJVZmp4XzNUTnhhUkVyOEZMWlpjcUJodjdwLThpbGRDYWlDaFdkSjViemJYbTBZaHNteGhMTFVPb0lHX1RwZG5iWjJjZ19EYVUxQ1ZLY202T1NfZDRwb2NoaV83TVFMdUlXYkpyaHhvOXdlSUdCWW9kdDBCM3Jqbng5Tm1vQjBUckczVkYzWlFYMzhTblZWOTVET2JwTDFsUklmY09zajVYbFd1WUJoeERNZmNVQUpYR2pUV0EzQ0diQmp6LUR0U2U1a3VleC1KZUJ5R2ZmM3Q2ZC1ZeEtwd2RLZ01QbzlVc3JLUHRGU3psOVlqMGpGVjhtRDFxQmRQTmhNdm1DVl9KOWxGenRKQVBwdDViR0NHZVFNYzZqVmxOQnFJbVkwWGNJQmJsVDgyVkZBcjV4dFV0aDdtRExoTE93RWJTeUpMUEpWMnNUOEpRUm9YNDUweFdaMTNsMnpzVjVUZnhYR3JzcDRoNTNWRnFpeWRZTkNRT3RnTzlkWXJjNFZvYW1zTF9fcnNvWlgtMVVtbnYtTnZBV0FMdW9NeUYxZDlySk9BQ0FDN2E5aE9FMmEyRTlHdFBZT29Mb1MwZnFRajAyUDlvUlh1MzlVdHFMNVVGcHF3ZDh3Z05OM2VadU5GU3BwYUFPSGFRUGZ6ZDE1d3RBWHNpNmVQZ1hiOTRJYVlKSmpCOEVaay1Wc1FRMTBTZ1JUUWtDSmVrUFRLTUFWRTV5MTVETWhuUlNzOUgtOXE4VnhlTTZGNWg0ankyZ1VocTdRYzRSc29MZ2VSQVFKT0xGNjM2Y1ZLbEJ3MFUyU2pQcnJDMlBxUno2VktPWGpMWHplQUd3b1RLblktLTdTMFhfNXVBSERQSlF3ZmNDQ2I4YmpiM19MVy1neENiQUxHanNFTDZTTjJqN2pBMzBNemUtTUJCb2pqc2U0dUVKbkxpREJURUhWLU10VUtqb2c0dUwxN0IwTHpmMjEweW5KNjBfN3NYUzV3eEtNT3d4UXZDOXQteU90Xzg4d3RCYng2RUZoUzN4RldTeTdLcVZ5Y1NvWUN4NTV1S0R6UG5nOU9YemRfbUJCczlabDJqQjNIUTlmSzVyQkIxQU9ZUWV3UzVXMmhEOERQSkZNTjZmUWxCZzVKVlRZUXd3VEtFV0FEUTlYY0s3M2lPMVpxeHptNW5mNXlnVVctSENRSmdXVVZlU28",
@@ -872,11 +928,6 @@
           "title": "立委張嘉郡今表示，雲林花生產量占全台近九成，若政府未提出具體配套，美國低價花生大舉進口，將直接衝擊雲林花生農生計，甚至可能造成「滅農」後果。 【美國花生壓境 張嘉郡：運儲恐生黃麴毒素 難道也要逐顆檢驗？】 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMinghBVV95cUxQQkFtMTRMLVd5S1pxRHNVMWh6VGc1Q2tNMTFJWVJoSTY5bkVoVzlGcU5QU0FoV1hKRXVJSkh3N2hfbXhjWDhoS0d2U2lzYURCem9DTExEU2cxRmxZT2FfMHBwNnc1X3Q2bmQyYmlUdFpydm9MeTBubHhuRlJiMk81X1N3WjVLN2xscjNfN3lESHNCMFYtSjFiSWNuaENUNU9oYlpYeWpZN3VXeTQ2eVcwT0NlZFFPMXdQYm1HMU1MVF9yRjNDX2xTTmVoSGc0dXZERlVwUk1aeUF0RF8zb0tmcjRKX25nc216WDV4OFdUVHJFZEtxUUdRY3dwTk5sQUNTQV9tMVEyNHVLWmhxR3E3dXFlNU0yNjZqQ2FSY095X2JqQkMxQ1pNZ1Q5MVRrSWp6ZmFLS052T2RORGJWal80YzNPTTE0RHRtQS00TXNsZzhqa29TOXgyLWpidWk2dUpEVURDS3JUelVzUEtCd0piYzVHUU01YVVRRmRpVEZvWXZDMjk1X0kzb0c5akYxMG1lSW1GZ0VMT0piaW0xQU15N1U2Y2dUenQySEEyajVGTnFZeG5TamcwUVVtZjYyakJuR0FwajJSYThjdEVLWkpZdTRoQk1YUVlvRmI0R2JzaUlSc3hEQWYyUTVFLXV0elphRW5HNnB3bFQ0Rm5qaUYzU1J1ZlUwalBpRVdQSlpBMVRDWE4yTUQwdHNZNnBDTEY5Z012OWVJQ3VsWjNDWldrekdXVVV5UGp1Mm1yXzhBajN2bUMyZUQ2cVpvLWl2SngxbzBTNVZ3emxGbENFdFpXbDlnTkttQUFPaktqLWplTDNQSEdsVS12Tlp3Zk05aGlBcERDbWdsTWRpNExpVW9qbDloSHY1OXlhLXdZSzlERlFvTGpSdUNqVEN5ZzVHTFhaNGZXUjFFSDkwd0tDNWpyS3pTdmdaemNzbVZpdktPNS1EcGRDT3E4WFAxaGZkWVlIbWNMTGFMeE40UzB4MlRVeWNEVTktWl93YXFaRjRYTWg1bVAtUFB6TExiRWlKVHM4eHhXR0lOY1pPaFpoVk5qbDNnNzh6N2tSVUpjOE9welVYcEpvb19IOWM4SE5GSXR3TUZTS1k3VlBPdVZicTlyRzgzczJXNnRfZy1BM3JIZlpEaXBaSTZ1R3FUSUdadHExQ2xheWlmcW1Cak9ZVElYemhJUWw1cllhSnQydDBpNVQ4ZDdpbl9udG52dm1aUkczVmZUUmFsaUZHaG1KaDBlVThxaTFFNldBcy1Jc3NDbVQyRTk2T0txZlRncHBNYlN6WW9VSWo5ZzFiVm1JLUJmYUo2aTZJbXFxeEVLZUJUbmJMVGwzZFVXTVJuUDNSWEZQaVdDWWJndm9ibk5hQ01XNE9QX2ZCM2dJTHBvVHRR",
           "time": "2026-04-29 12:53:18"
-        },
-        {
-          "title": "中國國民黨 KMT. . 美國花生0關稅 國民黨雲林縣長參選人張嘉郡捍衛花生農民 提高轉作補助 落實產地標示 #美國花生零關稅 - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxNUE5BS2tmZ0E2NmhRcHFjTktvYmdzRkFLN2EtSjVUdnlONDFFQmRCX2dzaG8zaUhBSldVNnJRXzVqRkhScXFYWGp5V2x6SHEyaDA4b2FBeXUzTGs3NWtlVlNPTUNUSkZxNVNSSGpGZnNqSUhUZFc5eWZwZ1NNM1FEdWdDcG1WZXI2dE9OaGZpMDR4ejlMSXBzSDR5MFlWeDJuQVgwU3I0Z1ZuNk1YNWFTVjJUUTRWWnZCZHMyZkJ5ZlZzckpOVUZ2aXJTSEoyRHAyS0hWcTVCamszODFHNXI5T2lHVVA0ZHVwUkFZOXRoR1MtVEd0dW9acDVuM01ZVHdtbG9TNWZtMkMyNi1hZUs0LV95MUFvQUtSdUdkM3VNWjNJdXB6LVJ5SWo2dU9fV1FNSzk3SUU3N085MjFjOGh6WGNFalNZbVhHT3VKOTlpMDJQNGo0VUNyR2p5dUcxMTc5eVJWVVJyaFdySlVFcTBaMnFpY3hOd2NjN28tWmRhNzY3bG5XcV84SWhCX19GWnBkMWxYQ0M1NjRfSzRVVjhjYUJOVGNud0U2TmM3eDVmUFRnRVVuejZTYXJ4S1RNYWtzS0pVejRuTC03UjZRaEozRjg1X1FGMHNMTFoyUXlCVFpaZENEWXk0NWJra1dGU0w3VC01WG9DQjRaVzlVdGtPbDNFVGFnZ19YMm50dE1wbnJMSm0xd1FFODVyUi14MGg1Mi1CMWxKTzNDNWFZb0pXUHNjS1p3bnlDVWtkcGt2OEg4MDhIcy1aNGZ3ak1LYnFFOUZVN0VWQ2VYR2FxR2RBYUVYTXcxUG5Sc2RVM3J1b1g2UlVoV0NfSQ",
-          "time": "2026-04-29 12:24:28"
         }
       ],
       "news": [
@@ -904,6 +955,11 @@
           "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」 創雙贏 - 匯流新聞網",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SOGpvTkR0WTV1eUtXU0dkdlNqV0loT3Fsb3h3d1ZmcDVmZjlTRDIzX1pxV0t6YTlvMHg0aHgxRjZIdWVwSlN2VWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-18 16:18:51"
+        },
+        {
+          "title": "蔣萬安參訪雲林農漁產 張嘉郡包粽子大喊「大家都包中」 - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQVFpBRlNPbW5DRjZsbGZrZ3cxZHg2RGktaDNjYV9LS0d3MDk1QnVJalVzRVFIaHhCeGphVlZoWDdGekNHQnhyZ1JqSmJETDltRXQxVE9hRjZPa2s4ZTRRbXg2STlRUjRVTW9wd1ZzLTJFZ2ZlN0pGanAxNldrQklmQkpLQkN0aHlHNjF3b2RJUlNWUnFuQW5vRWJCRTZvblFHd0tDV1N5ZTcwMUJYcUFWcVFvbHlkdXMzX1NXSmQtcDhLYXEtX0pWUWl3SlFYTWpJZHdQOVFJSkd0M0Ixc0lyNi1UNmVQSWZaRG5kdmlfbkJ2Mnk3UElrTjliZjB0RDFmU2x0Y1NteVEtQ1N2czhraWE5RnJhWmNNaXhmcE5xODhkNjk5UDZYSHZWREFEVjF4RDZMUENhZTA2Qk94dGxCSHdRVlpkYkx3MVVSeFZTdnloRmVjMk0wWFFjMlExWmUybF9SclZCWndINEp1WTB1VnZWSmh5X2JW?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-18 15:49:29"
         },
         {
           "title": "蔣萬安南下參訪農漁產　張嘉郡盼台北、雲林合作創雙贏 - NOWnews今日新聞",
@@ -974,16 +1030,16 @@
           "title": "張嘉郡拋雲林小巨蛋政見 - 臺灣導報",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FWUtyYTJORG5qT01HSFRQdFBhSHkyN3B6dkJ3UWNFUHBZbWxkODJCOFNqVlZVUTFLRS11ZTVIOTJTV3BmXzJvOG1CeFYyeFJQQUJz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-12 19:23:27"
-        },
-        {
-          "title": "拋斗六建「雲林小巨蛋」 張嘉郡：帶動觀光消費、投資 - TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iYWxkOTVScXY3dXdtd3l3dnhsd0xBdGpldnJGcGNsQTQzREkydmhfV0NZOWpjZDZlaG5RUlM4WU5nSVQ0SHpGWldhVUlLYk5rc3d3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-12 16:43:00"
         }
       ]
     },
     "劉建國": {
       "facebook": [
+        {
+          "title": "劉建國 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tZmtZZkN1ZVJZeWFEYm5vM0Z0d1BHQkkxYjZYS0p1SjRMQ0xkUkxVNUZDSlJwUXdQNG51QmVab3hld1NIQ05KVGc2MDZ5T2x2cHhpeGUwZjJMakhPMU9qMUpnZksyN0UxUHNEUzNNcHNySGhGRFM4Sk5Idw",
+          "time": "2026-05-18 15:35:05"
+        },
         {
           "title": "📣AI浪潮席捲全球 劉建國要求衛福部加速社工AI化 減輕第一線文書負擔：https://hoomedia.com.tw/2026/05/13/141595/ 🌎延伸閱讀： https://hoomedia.com.tw/2026/05/13/141595/ 🏘️互傳媒新聞網： https://hoomedia.com.tw - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxQTXIyRlFaRVd0ejJQeDRiU0cwX0Y1MXRKUXpJVEF2dktjbHRaSDJDdEZ6TXQxcnhzOGNZVVVMdGxTNVNYcWxLekZ0TEd3bXdPZm0zbjBaMWgyeXl3SHp4QTBqYlBsZjRQUFZ3NVhCWllwaUlJbDRNQjRraGFoTW1oVW1OcGhpT1JHaWJURUY4aWU0cTZIN1h4SDdJQzdZd09zRFY2QlB5cS1pa1pESC00eVBxS2JIandGZlhWQ0dINlhsV1VTeHVXSkxjX01SRm04S1JabmtQUG9TOHZwMWZ6WTlydklpNGhob2gwT1FldVNEa0tRWUg0S2hCTFVWekVsZFJIYWNKNzVEN0pxckxFLTA1MWl6QWtZLWQ3dF9reXp6b0QxYThOZnE3ekFPTHpBWkpfS0NJWmlLVEE2bUd6N0NTRm5INzByMDVuZTkxNmhiRTNVeE9GZlhYakZ1a1lCb1AxdEVtUmNpc215ZEt5VXQtRXAyYVczVk1Xai1ISVZBWUlFdnQwZ2NnQ2ZrRW9kTFVmSVBYOFk3SG5QYkFJZWlOVmlncm9OV01MSm95U2tSeWFQS1NUQ2U4X21vdjh0aXZNSVcwSXpHdkVjb3ZPazg4eFlTSGdOOWFJSXBqcFpiSFdTY3FGOUV2c2VhdUFKRnh0eTBxdVg4NTh5TjdGbTUzMXUtb294T3hlNERwSVpuS1JYcW92VE5rOXoxUG1JN2ZmNENRX2cxSnF3NFln",
@@ -1078,11 +1134,6 @@
           "title": "雲林立委劉建國爭取近7千萬改善東勢海豐大排 提升水利設施 守護雲林家園 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxObDFtV1doNzhsTzY1N2Y0NXdHYmx0Njg4anFuUEhTRVdxd1VvbktrMVVxcThYQ2djVEVHdEUwMlFJVXdISVcyVG4yUFFpMTFXNXY1QjlnXzZGaFJtR2ZIZUx3eDVEM1RBemY2cXdFQzdDQXJGMDFOX2N6OVdOelVCX3NqZk4ya1R0RWUtSnFYSkdIdEhFUG40ZlRWZnhBb3EzdElMMUwtT2s4eDlOMW5fWDlmZUlEZ0ZMQWtaU25TWVpZaXlRSUh4WDdFUEVnMDN0T2N4dmlZTEpJSEY3bjFBSDZvOFp6SUR0TXVoMG5PeEhTRGlHdEhDQ1NIZGIwVmZwTk82MkYxNE83MnIyaDh1N2xtVVZvdm9feC1pSXBPQ3BnZWZkWVBNUE90TEVScmJKeGJsSkFVV3hJMDRPV3daZk9BNnY2eE1BVElQVkNkVlc4VEhCMXRZVk9nY1FmeFJFQmRpTlpBNXpYTzRIUjc0MkxQa3RTdzlUSkliMWNOQ204eXhCQ0phSDFrdXJFWURFQVg4YldJT0IyQVBmTlNMRGE3RjVFbWlRVloyOElSV3BPMG1zc2lJTjhOMTl2dUJCRUVMV0t6T2J0X21jVTVNaHozMUJTazRPMHg3MGs1Tk9YcnpkbG5zeXhWS3JoRlZ6Yk5qcw",
           "time": "2026-04-24 23:13:07"
-        },
-        {
-          "title": "立委劉建國暨好央甲團隊. 立委劉建國暨好央甲團隊 · Original audio. - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvWDVHaG8wMDE5ZFY2ckJ4MnhoVDUwV3FiYkxVTC1FNDJvcld0N0M2TkRSbTVsNzdiMkVXbUFfQVRnTUhlVGZvY1dLSW5LZTNBMGtNQWVzbm44YUlFRnRtVS1hV0tiVHVwNHZrblMyaw",
-          "time": "2026-04-24 09:38:01"
         }
       ],
       "news": [
@@ -1217,6 +1268,11 @@
         "time": "2026-05-18 16:18:51"
       },
       {
+        "title": "蔣萬安參訪雲林農漁產 張嘉郡包粽子大喊「大家都包中」 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQVFpBRlNPbW5DRjZsbGZrZ3cxZHg2RGktaDNjYV9LS0d3MDk1QnVJalVzRVFIaHhCeGphVlZoWDdGekNHQnhyZ1JqSmJETDltRXQxVE9hRjZPa2s4ZTRRbXg2STlRUjRVTW9wd1ZzLTJFZ2ZlN0pGanAxNldrQklmQkpLQkN0aHlHNjF3b2RJUlNWUnFuQW5vRWJCRTZvblFHd0tDV1N5ZTcwMUJYcUFWcVFvbHlkdXMzX1NXSmQtcDhLYXEtX0pWUWl3SlFYTWpJZHdQOVFJSkd0M0Ixc0lyNi1UNmVQSWZaRG5kdmlfbkJ2Mnk3UElrTjliZjB0RDFmU2x0Y1NteVEtQ1N2czhraWE5RnJhWmNNaXhmcE5xODhkNjk5UDZYSHZWREFEVjF4RDZMUENhZTA2Qk94dGxCSHdRVlpkYkx3MVVSeFZTdnloRmVjMk0wWFFjMlExWmUybF9SclZCWndINEp1WTB1VnZWSmh5X2JW?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-18 15:49:29"
+      },
+      {
         "title": "蔣萬安南下參訪農漁產　張嘉郡盼台北、雲林合作創雙贏 - NOWnews今日新聞",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iXzV2Y25QQ1dWZzBSV0lCd1l3YzR4dzlvc3ZON1pUOVE5XzhMNXNUaVUzZEtvemNQYlFwcjNRX1d1Wkp1SWNzMWhOSUHSAVJBVV95cUxON0RaTWdfWXVrbVF2eERKTUg3STA4S0V3eDRfYkp0ZERqU0R4VjJnUkZSU0VCUUFXRmpncUFNNHM4Z2MzT3hvdmZuR2VBc3M2XzJ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-18 14:38:20"
@@ -1234,9 +1290,19 @@
     ],
     "facebook": [
       {
+        "title": "看似市政交流，實則輔選❓ #蔣萬安 #雲林 #張麗善 #張嘉郡 #輔選 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPZW40bUw2d0pzN2owS2tRRTlRcDkwNU9tbmZvOC1wSGV6NTZuSml3Um5rZksxbWlOanVKbnQxYTBUTWpIX2hRQkxfTmZjZlFteURaMDB3dzJDZm1nM0Q5TWMtUzRxZW9NZ1VsMEFTYWYwSk1VYlBvOG84Tk92OHNPQ3ZQcGVCYjMzUnZxRjhha3o3NEVsTkFaZVFxbk5xX3YtTktnNHJHc1pWTlpYV003d2Y5LWc1bDQyT3JhU19TRGJ1NlRQR2VFaFd3OUxWLWhDeWxUdTUtSG1pbHhKU2I4cXdCaFJpUXNNNDF0VW5NejFxMmtnT2I2RjRnX05LMWJYQkV6Z192NXJMbFpBRlUxUW1CT0ZEZEtXa0kxSlpuNC0xeUt5bGtzSmR3cnFFS2JLOXRtMUJ5UkJDLWZ0TlR4SjJ5WnF2b3dRcktrX2hpQVQ2UXRFR09ZMmV4LWpLSVRCdV9PaGFuOEZSMGJVVXU2MDFhZTJETkhwYTVFekEwREwybGpQ",
+        "time": "2026-05-18 19:05:55"
+      },
+      {
         "title": "【蔣萬安穿青蛙裝抓鰻魚 大讚台灣養殖技術第一】 蔣萬安今(18日)中午11點前往雲林縣口湖鄉進行鰻魚養殖考察，他與立委張嘉郡全身穿著俗稱青蛙裝的養殖漁業涉水褲體驗抓鰻魚，並關心在地鰻農的產業文化。 #蔣萬安 #鰻魚 #青蛙裝 #養殖漁業 #鰻農 #雲林 - Facebook",
         "url": "https://news.google.com/rss/articles/CBMi8AdBVV95cUxOMHVOSVFSMWR3djJ2azFiaUE4dm5qQ2VOUjV4T2xzd0lDdGFwYzJ4RnlDVURZM0ZXQWlxUEhfTW5kUEdlcUlVR1BRUGxMbGVUeGV4aEh6OGs3SHFpM2w0ZnBvTF9Ha2ZGZFBVaHBLUV9ieGJVZmp4XzNUTnhhUkVyOEZMWlpjcUJodjdwLThpbGRDYWlDaFdkSjViemJYbTBZaHNteGhMTFVPb0lHX1RwZG5iWjJjZ19EYVUxQ1ZLY202T1NfZDRwb2NoaV83TVFMdUlXYkpyaHhvOXdlSUdCWW9kdDBCM3Jqbng5Tm1vQjBUckczVkYzWlFYMzhTblZWOTVET2JwTDFsUklmY09zajVYbFd1WUJoeERNZmNVQUpYR2pUV0EzQ0diQmp6LUR0U2U1a3VleC1KZUJ5R2ZmM3Q2ZC1ZeEtwd2RLZ01QbzlVc3JLUHRGU3psOVlqMGpGVjhtRDFxQmRQTmhNdm1DVl9KOWxGenRKQVBwdDViR0NHZVFNYzZqVmxOQnFJbVkwWGNJQmJsVDgyVkZBcjV4dFV0aDdtRExoTE93RWJTeUpMUEpWMnNUOEpRUm9YNDUweFdaMTNsMnpzVjVUZnhYR3JzcDRoNTNWRnFpeWRZTkNRT3RnTzlkWXJjNFZvYW1zTF9fcnNvWlgtMVVtbnYtTnZBV0FMdW9NeUYxZDlySk9BQ0FDN2E5aE9FMmEyRTlHdFBZT29Mb1MwZnFRajAyUDlvUlh1MzlVdHFMNVVGcHF3ZDh3Z05OM2VadU5GU3BwYUFPSGFRUGZ6ZDE1d3RBWHNpNmVQZ1hiOTRJYVlKSmpCOEVaay1Wc1FRMTBTZ1JUUWtDSmVrUFRLTUFWRTV5MTVETWhuUlNzOUgtOXE4VnhlTTZGNWg0ankyZ1VocTdRYzRSc29MZ2VSQVFKT0xGNjM2Y1ZLbEJ3MFUyU2pQcnJDMlBxUno2VktPWGpMWHplQUd3b1RLblktLTdTMFhfNXVBSERQSlF3ZmNDQ2I4YmpiM19MVy1neENiQUxHanNFTDZTTjJqN2pBMzBNemUtTUJCb2pqc2U0dUVKbkxpREJURUhWLU10VUtqb2c0dUwxN0IwTHpmMjEweW5KNjBfN3NYUzV3eEtNT3d4UXZDOXQteU90Xzg4d3RCYng2RUZoUzN4RldTeTdLcVZ5Y1NvWUN4NTV1S0R6UG5nOU9YemRfbUJCczlabDJqQjNIUTlmSzVyQkIxQU9ZUWV3UzVXMmhEOERQSkZNTjZmUWxCZzVKVlRZUXd3VEtFV0FEUTlYY0s3M2lPMVpxeHptNW5mNXlnVVctSENRSmdXVVZlU28",
         "time": "2026-05-18 16:50:51"
+      },
+      {
+        "title": "劉建國 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tZmtZZkN1ZVJZeWFEYm5vM0Z0d1BHQkkxYjZYS0p1SjRMQ0xkUkxVNUZDSlJwUXdQNG51QmVab3hld1NIQ05KVGc2MDZ5T2x2cHhpeGUwZjJMakhPMU9qMUpnZksyN0UxUHNEUzNNcHNySGhGRFM4Sk5Idw",
+        "time": "2026-05-18 15:35:05"
       }
     ],
     "youtube": [
@@ -1273,6 +1339,11 @@
         "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」 創雙贏 - 匯流新聞網",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SOGpvTkR0WTV1eUtXU0dkdlNqV0loT3Fsb3h3d1ZmcDVmZjlTRDIzX1pxV0t6YTlvMHg0aHgxRjZIdWVwSlN2VWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-18 16:18:51"
+      },
+      {
+        "title": "蔣萬安參訪雲林農漁產 張嘉郡包粽子大喊「大家都包中」 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQVFpBRlNPbW5DRjZsbGZrZ3cxZHg2RGktaDNjYV9LS0d3MDk1QnVJalVzRVFIaHhCeGphVlZoWDdGekNHQnhyZ1JqSmJETDltRXQxVE9hRjZPa2s4ZTRRbXg2STlRUjRVTW9wd1ZzLTJFZ2ZlN0pGanAxNldrQklmQkpLQkN0aHlHNjF3b2RJUlNWUnFuQW5vRWJCRTZvblFHd0tDV1N5ZTcwMUJYcUFWcVFvbHlkdXMzX1NXSmQtcDhLYXEtX0pWUWl3SlFYTWpJZHdQOVFJSkd0M0Ixc0lyNi1UNmVQSWZaRG5kdmlfbkJ2Mnk3UElrTjliZjB0RDFmU2x0Y1NteVEtQ1N2czhraWE5RnJhWmNNaXhmcE5xODhkNjk5UDZYSHZWREFEVjF4RDZMUENhZTA2Qk94dGxCSHdRVlpkYkx3MVVSeFZTdnloRmVjMk0wWFFjMlExWmUybF9SclZCWndINEp1WTB1VnZWSmh5X2JW?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-18 15:49:29"
       },
       {
         "title": "蔣萬安南下參訪農漁產　張嘉郡盼台北、雲林合作創雙贏 - NOWnews今日新聞",
@@ -1443,18 +1514,23 @@
         "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNN09MZ2lyVTNoLVlLbURYTmhuckZZeFVFV3pxb0ZMaE55NHhtTjVFNzNicHNCMk5WbFl6aGswYWdoal9TWEZNeEp4VUNXR1FUaHRQOHNoZm5GRkVEVUZBdTAtWWlsQWoydkRaQ3ZXeTZBN1EyX1lEWVoyZV9ETTBTVm5KSDd3Y2g0djhROWthYlVVWlFwaWxFRTZFaUtIX3REWWtja2d3bDJhUmNxUGRoQld4UUxCWG9BRlpXWFdkX3BpdGtvTC1IUmRoQzZMeWxacFAxbjFpaVV6bFN6anlXWEtSRkdGRUNPRjVFbi0xdk8wcE5RSjgtWjlYd3NMRnQzRlN3a1NlZEphLW9FbU5IdDhhTlR1UXRKUjI2VDE3eXhiY2JmZzFYVFJVQkd2Qll5OTU3S2M1LXdBN0dfRmlveWliV2FWUl9mNFZOb3R3SVdhVkRCal8tQUhTbXdodUxMTnpIUWpNMUwtVzNjMk9wUTlYY0hYcGR0cERjUGxDcnk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-14 06:05:37"
-      },
-      {
-        "title": "醫美偷拍案全面延燒 劉建國要求衛福部立即啟動全國稽查 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMlJhRTVRcng4dTlBWGVTcFRBM2UxS1VHSzZmcnQzMFJNNFRXdU5lazZGTmhGZGNOSTAtU0JnUE9Hb1hLS3JJUFdKLVNwTUZsTUppbU9LZ0pnV3c4Q2hxeU43U0RoSXFXT01hbzdMeFhYd3czSWVjRFlrQ3hna1A3SExWRTg2Vmx4RllFTHlnb2RSSVdTeVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-14 06:05:37"
       }
     ],
     "facebook": [
       {
+        "title": "看似市政交流，實則輔選❓ #蔣萬安 #雲林 #張麗善 #張嘉郡 #輔選 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPZW40bUw2d0pzN2owS2tRRTlRcDkwNU9tbmZvOC1wSGV6NTZuSml3Um5rZksxbWlOanVKbnQxYTBUTWpIX2hRQkxfTmZjZlFteURaMDB3dzJDZm1nM0Q5TWMtUzRxZW9NZ1VsMEFTYWYwSk1VYlBvOG84Tk92OHNPQ3ZQcGVCYjMzUnZxRjhha3o3NEVsTkFaZVFxbk5xX3YtTktnNHJHc1pWTlpYV003d2Y5LWc1bDQyT3JhU19TRGJ1NlRQR2VFaFd3OUxWLWhDeWxUdTUtSG1pbHhKU2I4cXdCaFJpUXNNNDF0VW5NejFxMmtnT2I2RjRnX05LMWJYQkV6Z192NXJMbFpBRlUxUW1CT0ZEZEtXa0kxSlpuNC0xeUt5bGtzSmR3cnFFS2JLOXRtMUJ5UkJDLWZ0TlR4SjJ5WnF2b3dRcktrX2hpQVQ2UXRFR09ZMmV4LWpLSVRCdV9PaGFuOEZSMGJVVXU2MDFhZTJETkhwYTVFekEwREwybGpQ",
+        "time": "2026-05-18 19:05:55"
+      },
+      {
         "title": "【蔣萬安穿青蛙裝抓鰻魚 大讚台灣養殖技術第一】 蔣萬安今(18日)中午11點前往雲林縣口湖鄉進行鰻魚養殖考察，他與立委張嘉郡全身穿著俗稱青蛙裝的養殖漁業涉水褲體驗抓鰻魚，並關心在地鰻農的產業文化。 #蔣萬安 #鰻魚 #青蛙裝 #養殖漁業 #鰻農 #雲林 - Facebook",
         "url": "https://news.google.com/rss/articles/CBMi8AdBVV95cUxOMHVOSVFSMWR3djJ2azFiaUE4dm5qQ2VOUjV4T2xzd0lDdGFwYzJ4RnlDVURZM0ZXQWlxUEhfTW5kUEdlcUlVR1BRUGxMbGVUeGV4aEh6OGs3SHFpM2w0ZnBvTF9Ha2ZGZFBVaHBLUV9ieGJVZmp4XzNUTnhhUkVyOEZMWlpjcUJodjdwLThpbGRDYWlDaFdkSjViemJYbTBZaHNteGhMTFVPb0lHX1RwZG5iWjJjZ19EYVUxQ1ZLY202T1NfZDRwb2NoaV83TVFMdUlXYkpyaHhvOXdlSUdCWW9kdDBCM3Jqbng5Tm1vQjBUckczVkYzWlFYMzhTblZWOTVET2JwTDFsUklmY09zajVYbFd1WUJoeERNZmNVQUpYR2pUV0EzQ0diQmp6LUR0U2U1a3VleC1KZUJ5R2ZmM3Q2ZC1ZeEtwd2RLZ01QbzlVc3JLUHRGU3psOVlqMGpGVjhtRDFxQmRQTmhNdm1DVl9KOWxGenRKQVBwdDViR0NHZVFNYzZqVmxOQnFJbVkwWGNJQmJsVDgyVkZBcjV4dFV0aDdtRExoTE93RWJTeUpMUEpWMnNUOEpRUm9YNDUweFdaMTNsMnpzVjVUZnhYR3JzcDRoNTNWRnFpeWRZTkNRT3RnTzlkWXJjNFZvYW1zTF9fcnNvWlgtMVVtbnYtTnZBV0FMdW9NeUYxZDlySk9BQ0FDN2E5aE9FMmEyRTlHdFBZT29Mb1MwZnFRajAyUDlvUlh1MzlVdHFMNVVGcHF3ZDh3Z05OM2VadU5GU3BwYUFPSGFRUGZ6ZDE1d3RBWHNpNmVQZ1hiOTRJYVlKSmpCOEVaay1Wc1FRMTBTZ1JUUWtDSmVrUFRLTUFWRTV5MTVETWhuUlNzOUgtOXE4VnhlTTZGNWg0ankyZ1VocTdRYzRSc29MZ2VSQVFKT0xGNjM2Y1ZLbEJ3MFUyU2pQcnJDMlBxUno2VktPWGpMWHplQUd3b1RLblktLTdTMFhfNXVBSERQSlF3ZmNDQ2I4YmpiM19MVy1neENiQUxHanNFTDZTTjJqN2pBMzBNemUtTUJCb2pqc2U0dUVKbkxpREJURUhWLU10VUtqb2c0dUwxN0IwTHpmMjEweW5KNjBfN3NYUzV3eEtNT3d4UXZDOXQteU90Xzg4d3RCYng2RUZoUzN4RldTeTdLcVZ5Y1NvWUN4NTV1S0R6UG5nOU9YemRfbUJCczlabDJqQjNIUTlmSzVyQkIxQU9ZUWV3UzVXMmhEOERQSkZNTjZmUWxCZzVKVlRZUXd3VEtFV0FEUTlYY0s3M2lPMVpxeHptNW5mNXlnVVctSENRSmdXVVZlU28",
         "time": "2026-05-18 16:50:51"
+      },
+      {
+        "title": "劉建國 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tZmtZZkN1ZVJZeWFEYm5vM0Z0d1BHQkkxYjZYS0p1SjRMQ0xkUkxVNUZDSlJwUXdQNG51QmVab3hld1NIQ05KVGc2MDZ5T2x2cHhpeGUwZjJMakhPMU9qMUpnZksyN0UxUHNEUzNNcHNySGhGRFM4Sk5Idw",
+        "time": "2026-05-18 15:35:05"
       },
       {
         "title": "一年一年的荷花開，不只是風景， 更是一份陪伴～ 今天參加「沐心荷園音樂饗宴」，除了欣賞滿園荷花與悠揚國樂，更是有一段很溫暖的故事。 20多年前，廖顯能老師退休後聽從友人建議開始種植荷花，荷花盛開在母親節前後，返鄉的鄉親都能有個賞花、放鬆心情的地方。 - facebook.com",
@@ -1565,6 +1641,13 @@
     "hour": [],
     "day": [
       {
+        "title": "看似市政交流，實則輔選❓ #蔣萬安 #雲林 #張麗善 #張嘉郡 #輔選 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPZW40bUw2d0pzN2owS2tRRTlRcDkwNU9tbmZvOC1wSGV6NTZuSml3Um5rZksxbWlOanVKbnQxYTBUTWpIX2hRQkxfTmZjZlFteURaMDB3dzJDZm1nM0Q5TWMtUzRxZW9NZ1VsMEFTYWYwSk1VYlBvOG84Tk92OHNPQ3ZQcGVCYjMzUnZxRjhha3o3NEVsTkFaZVFxbk5xX3YtTktnNHJHc1pWTlpYV003d2Y5LWc1bDQyT3JhU19TRGJ1NlRQR2VFaFd3OUxWLWhDeWxUdTUtSG1pbHhKU2I4cXdCaFJpUXNNNDF0VW5NejFxMmtnT2I2RjRnX05LMWJYQkV6Z192NXJMbFpBRlUxUW1CT0ZEZEtXa0kxSlpuNC0xeUt5bGtzSmR3cnFFS2JLOXRtMUJ5UkJDLWZ0TlR4SjJ5WnF2b3dRcktrX2hpQVQ2UXRFR09ZMmV4LWpLSVRCdV9PaGFuOEZSMGJVVXU2MDFhZTJETkhwYTVFekEwREwybGpQ",
+        "time": "2026-05-18 19:05:55",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
         "title": "鄭文芳案如果臺大20年前就處理，後面還會有6位受害者嗎？范雲：醫界組織文化必須被OO，將持續監督醫師懲戒漏洞",
         "url": "https://www.youtube.com/shorts/vS3JSrUqYQI",
         "time": "2026-05-18 18:49:06",
@@ -1614,6 +1697,20 @@
         "risk": "綠"
       },
       {
+        "title": "蔣萬安參訪雲林農漁產 張嘉郡包粽子大喊「大家都包中」 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQVFpBRlNPbW5DRjZsbGZrZ3cxZHg2RGktaDNjYV9LS0d3MDk1QnVJalVzRVFIaHhCeGphVlZoWDdGekNHQnhyZ1JqSmJETDltRXQxVE9hRjZPa2s4ZTRRbXg2STlRUjRVTW9wd1ZzLTJFZ2ZlN0pGanAxNldrQklmQkpLQkN0aHlHNjF3b2RJUlNWUnFuQW5vRWJCRTZvblFHd0tDV1N5ZTcwMUJYcUFWcVFvbHlkdXMzX1NXSmQtcDhLYXEtX0pWUWl3SlFYTWpJZHdQOVFJSkd0M0Ixc0lyNi1UNmVQSWZaRG5kdmlfbkJ2Mnk3UElrTjliZjB0RDFmU2x0Y1NteVEtQ1N2czhraWE5RnJhWmNNaXhmcE5xODhkNjk5UDZYSHZWREFEVjF4RDZMUENhZTA2Qk94dGxCSHdRVlpkYkx3MVVSeFZTdnloRmVjMk0wWFFjMlExWmUybF9SclZCWndINEp1WTB1VnZWSmh5X2JW?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-18 15:49:29",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tZmtZZkN1ZVJZeWFEYm5vM0Z0d1BHQkkxYjZYS0p1SjRMQ0xkUkxVNUZDSlJwUXdQNG51QmVab3hld1NIQ05KVGc2MDZ5T2x2cHhpeGUwZjJMakhPMU9qMUpnZksyN0UxUHNEUzNNcHNySGhGRFM4Sk5Idw",
+        "time": "2026-05-18 15:35:05",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
         "title": "蔣萬安南下參訪農漁產　張嘉郡盼台北、雲林合作創雙贏 - NOWnews今日新聞",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iXzV2Y25QQ1dWZzBSV0lCd1l3YzR4dzlvc3ZON1pUOVE5XzhMNXNUaVUzZEtvemNQYlFwcjNRX1d1Wkp1SWNzMWhOSUHSAVJBVV95cUxON0RaTWdfWXVrbVF2eERKTUg3STA4S0V3eDRfYkp0ZERqU0R4VjJnUkZSU0VCUUFXRmpncUFNNHM4Z2MzT3hvdmZuR2VBc3M2XzJ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-18 14:38:20",
@@ -1640,7 +1737,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 5
+        "count": 7
       }
     ],
     "groups": []
