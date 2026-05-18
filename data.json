@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-18T10:22:21.213495+00:00",
+  "generated_at": "2026-05-18T10:37:32.999481+00:00",
   "metrics": {
-    "total_24h": 6,
+    "total_24h": 8,
     "prev_24h": 7,
-    "growth_pct": -14.29,
-    "news_24h": 6,
+    "growth_pct": 14.29,
+    "news_24h": 8,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -15,9 +15,9 @@
   },
   "metrics_7d": {
     "total": 114,
-    "prev": 85,
-    "growth_pct": 34.12,
-    "news": 90,
+    "prev": 87,
+    "growth_pct": 31.03,
+    "news": 91,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,17 +28,17 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 6
+      "count": 8
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 90
+      "count": 91
     },
     {
       "platform": "facebook",
-      "count": 19
+      "count": 18
     },
     {
       "platform": "youtube",
@@ -64,14 +64,14 @@
     },
     {
       "hour": "2026-05-18 16:00",
-      "count": 2
+      "count": 3
+    },
+    {
+      "hour": "2026-05-18 17:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
-    {
-      "hour": "2026-05-11 18:00",
-      "count": 2
-    },
     {
       "hour": "2026-05-11 19:00",
       "count": 4
@@ -298,17 +298,26 @@
     },
     {
       "hour": "2026-05-18 16:00",
-      "count": 2
+      "count": 3
+    },
+    {
+      "hour": "2026-05-18 17:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 6
+      "count": 8
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "蔣萬安喊話與打造北雲農漁產供應鍊 張嘉郡：共創雙贏 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSjE4Q0t0eTNkeFhpQi0zdGwtaHdkZGU3UWJydlhqRzdZVlBPWnR3ajcxZHVHMkUzTFlwWENlM3RERFNzLXBOV2VrOEowRkluU2g0LXh1NzczYUM4OU5pTmNFUjhrUGhrcDc4VUw4U2lTbEVRMk54WlpyOHJFN0tFZW1YVTIzT05OVHZkRHJQQzhkS0ZiYU9Vc3JZTkhoSjUzYkR6SW5WRldPc1lTT2F4UkE4T0hQeWg3b2pjcUo5TTNuOGpKY3RtRF9saWhwbGRUWjhQdWJrOEllTFlsRUpPOEhlSFB4VmtmRGNJZU9WUjVTVzQxc2s2ajNyRnB4d3ZfQ2VKeldwQXFsdmdOUEwta3JhTW50SnJ0TlhiUkJ5ZWZOWndqR0JSQ1BxbUxpXzd4dFc3VzgyWGRwb005QmRJY3VVd05UakttRVRyTGw5cTA2cnV6c19IMEF3SUNoOWlvNVVVOFpTZEJQUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-18 17:14:52"
+      },
       {
         "title": "蔣萬安親訪雲林建營養午餐「直供一條龍」！張嘉郡揭米其林秘密，盼北雲聯手打國際賽| 夏和宣| 地方新聞 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEU1prMk9zMWdWSlNic2JqUWNmcnVPR1NaTXljUzMxWGJ3M1BBUUNsOHJyaTEzTWtqOXRmOGhpcHBfV0FrNXluTUxoMENvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -317,6 +326,11 @@
       {
         "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」創雙贏 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNenh4Q0lTYjI2cXlKWUxQVk1mdzF6V3FIYVdCcW9MblJzUWNQRmRnOXJ5a0pPSTFtZWJ4bmpCSkNvcGhyWW1pb0NjM0R0bFE4eTVXUlN3VmxKMk5famN2dUcxY1RMS1luWU1IeEp3aEVMQUlXU0ZRVFJ2MS00UVc0TTR2SzMtT2xxdmN0M21qWW1zbWxnSUVFQ1I5S1NGT1pBZ2xMR2VSbFVFVS0xYzJqZDh5Mnk4X1JCSjRfWm51WlZuM2xTeEF1VnYxa2VoVFV4S0hUbEFZYkpwRXl1Ny1FV0FvYWFPckphNmhIRnF1cDdJdm5TWVBYMEYzX2ZMcnlKNEdmUmtwMHBPN0piSHZWYUpJaVhSa3E5SHB5ekZwUUtfdURSQ0VaTDRCSmU1VFNQZjVZRmpCNkpwSkR3ZXdMdC1xb29aajA3dDFQS0xUa2hYektRaGxOYkhLM1QyZFFEbDVGeHpvV1FYZVFSX0c2b0o0R2JfM2drckphX05jeWNNUUswNzRhM3VrT1Z5SnUxSDVVS1pPYkhhQXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-18 16:18:51"
+      },
+      {
+        "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」 創雙贏 - 匯流新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SOGpvTkR0WTV1eUtXU0dkdlNqV0loT3Fsb3h3d1ZmcDVmZjlTRDIzX1pxV0t6YTlvMHg0aHgxRjZIdWVwSlN2VWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-18 16:18:51"
       },
       {
@@ -344,11 +358,16 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 6
+      "count": 8
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "蔣萬安喊話與打造北雲農漁產供應鍊 張嘉郡：共創雙贏 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSjE4Q0t0eTNkeFhpQi0zdGwtaHdkZGU3UWJydlhqRzdZVlBPWnR3ajcxZHVHMkUzTFlwWENlM3RERFNzLXBOV2VrOEowRkluU2g0LXh1NzczYUM4OU5pTmNFUjhrUGhrcDc4VUw4U2lTbEVRMk54WlpyOHJFN0tFZW1YVTIzT05OVHZkRHJQQzhkS0ZiYU9Vc3JZTkhoSjUzYkR6SW5WRldPc1lTT2F4UkE4T0hQeWg3b2pjcUo5TTNuOGpKY3RtRF9saWhwbGRUWjhQdWJrOEllTFlsRUpPOEhlSFB4VmtmRGNJZU9WUjVTVzQxc2s2ajNyRnB4d3ZfQ2VKeldwQXFsdmdOUEwta3JhTW50SnJ0TlhiUkJ5ZWZOWndqR0JSQ1BxbUxpXzd4dFc3VzgyWGRwb005QmRJY3VVd05UakttRVRyTGw5cTA2cnV6c19IMEF3SUNoOWlvNVVVOFpTZEJQUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-18 17:14:52"
+      },
       {
         "title": "蔣萬安親訪雲林建營養午餐「直供一條龍」！張嘉郡揭米其林秘密，盼北雲聯手打國際賽| 夏和宣| 地方新聞 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEU1prMk9zMWdWSlNic2JqUWNmcnVPR1NaTXljUzMxWGJ3M1BBUUNsOHJyaTEzTWtqOXRmOGhpcHBfV0FrNXluTUxoMENvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -357,6 +376,11 @@
       {
         "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」創雙贏 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNenh4Q0lTYjI2cXlKWUxQVk1mdzF6V3FIYVdCcW9MblJzUWNQRmRnOXJ5a0pPSTFtZWJ4bmpCSkNvcGhyWW1pb0NjM0R0bFE4eTVXUlN3VmxKMk5famN2dUcxY1RMS1luWU1IeEp3aEVMQUlXU0ZRVFJ2MS00UVc0TTR2SzMtT2xxdmN0M21qWW1zbWxnSUVFQ1I5S1NGT1pBZ2xMR2VSbFVFVS0xYzJqZDh5Mnk4X1JCSjRfWm51WlZuM2xTeEF1VnYxa2VoVFV4S0hUbEFZYkpwRXl1Ny1FV0FvYWFPckphNmhIRnF1cDdJdm5TWVBYMEYzX2ZMcnlKNEdmUmtwMHBPN0piSHZWYUpJaVhSa3E5SHB5ekZwUUtfdURSQ0VaTDRCSmU1VFNQZjVZRmpCNkpwSkR3ZXdMdC1xb29aajA3dDFQS0xUa2hYektRaGxOYkhLM1QyZFFEbDVGeHpvV1FYZVFSX0c2b0o0R2JfM2drckphX05jeWNNUUswNzRhM3VrT1Z5SnUxSDVVS1pPYkhhQXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-18 16:18:51"
+      },
+      {
+        "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」 創雙贏 - 匯流新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SOGpvTkR0WTV1eUtXU0dkdlNqV0loT3Fsb3h3d1ZmcDVmZjlTRDIzX1pxV0t6YTlvMHg0aHgxRjZIdWVwSlN2VWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-18 16:18:51"
       },
       {
@@ -382,14 +406,19 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 5,
+    "張嘉郡": 7,
     "劉建國": 1
   },
   "mention_compare_7d": {
-    "張嘉郡": 33,
-    "劉建國": 50
+    "張嘉郡": 34,
+    "劉建國": 49
   },
   "top_news": [
+    {
+      "title": "蔣萬安喊話與打造北雲農漁產供應鍊 張嘉郡：共創雙贏 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSjE4Q0t0eTNkeFhpQi0zdGwtaHdkZGU3UWJydlhqRzdZVlBPWnR3ajcxZHVHMkUzTFlwWENlM3RERFNzLXBOV2VrOEowRkluU2g0LXh1NzczYUM4OU5pTmNFUjhrUGhrcDc4VUw4U2lTbEVRMk54WlpyOHJFN0tFZW1YVTIzT05OVHZkRHJQQzhkS0ZiYU9Vc3JZTkhoSjUzYkR6SW5WRldPc1lTT2F4UkE4T0hQeWg3b2pjcUo5TTNuOGpKY3RtRF9saWhwbGRUWjhQdWJrOEllTFlsRUpPOEhlSFB4VmtmRGNJZU9WUjVTVzQxc2s2ajNyRnB4d3ZfQ2VKeldwQXFsdmdOUEwta3JhTW50SnJ0TlhiUkJ5ZWZOWndqR0JSQ1BxbUxpXzd4dFc3VzgyWGRwb005QmRJY3VVd05UakttRVRyTGw5cTA2cnV6c19IMEF3SUNoOWlvNVVVOFpTZEJQUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-18 17:14:52"
+    },
     {
       "title": "蔣萬安親訪雲林建營養午餐「直供一條龍」！張嘉郡揭米其林秘密，盼北雲聯手打國際賽| 夏和宣| 地方新聞 - 風傳媒",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEU1prMk9zMWdWSlNic2JqUWNmcnVPR1NaTXljUzMxWGJ3M1BBUUNsOHJyaTEzTWtqOXRmOGhpcHBfV0FrNXluTUxoMENvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -398,6 +427,11 @@
     {
       "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」創雙贏 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNenh4Q0lTYjI2cXlKWUxQVk1mdzF6V3FIYVdCcW9MblJzUWNQRmRnOXJ5a0pPSTFtZWJ4bmpCSkNvcGhyWW1pb0NjM0R0bFE4eTVXUlN3VmxKMk5famN2dUcxY1RMS1luWU1IeEp3aEVMQUlXU0ZRVFJ2MS00UVc0TTR2SzMtT2xxdmN0M21qWW1zbWxnSUVFQ1I5S1NGT1pBZ2xMR2VSbFVFVS0xYzJqZDh5Mnk4X1JCSjRfWm51WlZuM2xTeEF1VnYxa2VoVFV4S0hUbEFZYkpwRXl1Ny1FV0FvYWFPckphNmhIRnF1cDdJdm5TWVBYMEYzX2ZMcnlKNEdmUmtwMHBPN0piSHZWYUpJaVhSa3E5SHB5ekZwUUtfdURSQ0VaTDRCSmU1VFNQZjVZRmpCNkpwSkR3ZXdMdC1xb29aajA3dDFQS0xUa2hYektRaGxOYkhLM1QyZFFEbDVGeHpvV1FYZVFSX0c2b0o0R2JfM2drckphX05jeWNNUUswNzRhM3VrT1Z5SnUxSDVVS1pPYkhhQXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-18 16:18:51"
+    },
+    {
+      "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」 創雙贏 - 匯流新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SOGpvTkR0WTV1eUtXU0dkdlNqV0loT3Fsb3h3d1ZmcDVmZjlTRDIzX1pxV0t6YTlvMHg0aHgxRjZIdWVwSlN2VWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-18 16:18:51"
     },
     {
@@ -423,6 +457,11 @@
   ],
   "top_news_7d": [
     {
+      "title": "蔣萬安喊話與打造北雲農漁產供應鍊 張嘉郡：共創雙贏 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSjE4Q0t0eTNkeFhpQi0zdGwtaHdkZGU3UWJydlhqRzdZVlBPWnR3ajcxZHVHMkUzTFlwWENlM3RERFNzLXBOV2VrOEowRkluU2g0LXh1NzczYUM4OU5pTmNFUjhrUGhrcDc4VUw4U2lTbEVRMk54WlpyOHJFN0tFZW1YVTIzT05OVHZkRHJQQzhkS0ZiYU9Vc3JZTkhoSjUzYkR6SW5WRldPc1lTT2F4UkE4T0hQeWg3b2pjcUo5TTNuOGpKY3RtRF9saWhwbGRUWjhQdWJrOEllTFlsRUpPOEhlSFB4VmtmRGNJZU9WUjVTVzQxc2s2ajNyRnB4d3ZfQ2VKeldwQXFsdmdOUEwta3JhTW50SnJ0TlhiUkJ5ZWZOWndqR0JSQ1BxbUxpXzd4dFc3VzgyWGRwb005QmRJY3VVd05UakttRVRyTGw5cTA2cnV6c19IMEF3SUNoOWlvNVVVOFpTZEJQUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-18 17:14:52"
+    },
+    {
       "title": "蔣萬安親訪雲林建營養午餐「直供一條龍」！張嘉郡揭米其林秘密，盼北雲聯手打國際賽| 夏和宣| 地方新聞 - 風傳媒",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEU1prMk9zMWdWSlNic2JqUWNmcnVPR1NaTXljUzMxWGJ3M1BBUUNsOHJyaTEzTWtqOXRmOGhpcHBfV0FrNXluTUxoMENvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-18 16:56:28"
@@ -430,6 +469,11 @@
     {
       "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」創雙贏 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNenh4Q0lTYjI2cXlKWUxQVk1mdzF6V3FIYVdCcW9MblJzUWNQRmRnOXJ5a0pPSTFtZWJ4bmpCSkNvcGhyWW1pb0NjM0R0bFE4eTVXUlN3VmxKMk5famN2dUcxY1RMS1luWU1IeEp3aEVMQUlXU0ZRVFJ2MS00UVc0TTR2SzMtT2xxdmN0M21qWW1zbWxnSUVFQ1I5S1NGT1pBZ2xMR2VSbFVFVS0xYzJqZDh5Mnk4X1JCSjRfWm51WlZuM2xTeEF1VnYxa2VoVFV4S0hUbEFZYkpwRXl1Ny1FV0FvYWFPckphNmhIRnF1cDdJdm5TWVBYMEYzX2ZMcnlKNEdmUmtwMHBPN0piSHZWYUpJaVhSa3E5SHB5ekZwUUtfdURSQ0VaTDRCSmU1VFNQZjVZRmpCNkpwSkR3ZXdMdC1xb29aajA3dDFQS0xUa2hYektRaGxOYkhLM1QyZFFEbDVGeHpvV1FYZVFSX0c2b0o0R2JfM2drckphX05jeWNNUUswNzRhM3VrT1Z5SnUxSDVVS1pPYkhhQXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-18 16:18:51"
+    },
+    {
+      "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」 創雙贏 - 匯流新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SOGpvTkR0WTV1eUtXU0dkdlNqV0loT3Fsb3h3d1ZmcDVmZjlTRDIzX1pxV0t6YTlvMHg0aHgxRjZIdWVwSlN2VWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-18 16:18:51"
     },
     {
@@ -511,16 +555,6 @@
       "title": "NET病友盼在台治療 劉建國促PRRT納健保 - 樂聯網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oWlNjRDJtNHB3R3hCUVQ1TUE1Q0JEZVEzMHNld3lEWGdaSlJnTVpPeE5BNm14Vy00Q2haS0kxVGxmQlZhVk5lRWFMYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-15 16:06:50"
-    },
-    {
-      "title": "緩解雲林托育荒！張嘉郡爭「6533萬」升級39所公幼，虎尾新校8月開園力拚免錢讀冊| 夏和宣| 地方新聞 - 風傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0ySW9zbkFYM3J0RklvSWlzbk1kUVpuSG02SzViTjNTYjluekZ0djZSdDB0RV9QdG9QRnU2QnhlZjhkQ1JZQlpUaE04UUstUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-15 14:55:24"
-    },
-    {
-      "title": "為雲林打造優質育兒城市 張嘉郡爭取逾6千萬升級公立幼兒園 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOckJ1V0tiMWJhTnF2UU1GWlJxNHlKWWdfVlUyZHl1UUVEUng0dE1WREtHeHFQUmw1WEh3YThHQ19lazNJNC1kaEZVYmFjZkhFR3BCem81YmstNW1QUFRHS0hETW9rYWZ0bTdrODE4LXZIeE01RTNHMFRlX0oxX083eWl0MmtKdTRNMEZPTnVsVVFrYW1zXy1KQl9xOEVFS0VybV93ZERwYndrby05cjVrUnBNeG1EeUpNTXBiVWJnc0k2Rm1rNld3SDBkOE1mOTUxbkxUdEZPa1ZCNUVvMDBJY3ZXMFROZi1DcHFtX1dLRlFwMUNvZERzMFcyclFSUVF3SmxndFBhbkdCRDBzcGNhN0NtNHpyandZWnVUSW9jU3Z3OHBOMEt3cUZ0UGk5RzhMWWJ6YUJkTlVfWDNTUUF1VDdydGJ2YzBlbzdnNi1pelZ6NHF3VkNYajcwalM1TVBpVjQ3MHJfQ0F1Y3R2OHk4RG5HUW5CdE9lVmRxaEFqc2Z5Mm1TUUtTNFNDQVZCUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-15 13:37:12"
     }
   ],
   "latest_facebook_20": [
@@ -627,6 +661,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "蔣萬安喊話與打造北雲農漁產供應鍊 張嘉郡：共創雙贏 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSjE4Q0t0eTNkeFhpQi0zdGwtaHdkZGU3UWJydlhqRzdZVlBPWnR3ajcxZHVHMkUzTFlwWENlM3RERFNzLXBOV2VrOEowRkluU2g0LXh1NzczYUM4OU5pTmNFUjhrUGhrcDc4VUw4U2lTbEVRMk54WlpyOHJFN0tFZW1YVTIzT05OVHZkRHJQQzhkS0ZiYU9Vc3JZTkhoSjUzYkR6SW5WRldPc1lTT2F4UkE4T0hQeWg3b2pjcUo5TTNuOGpKY3RtRF9saWhwbGRUWjhQdWJrOEllTFlsRUpPOEhlSFB4VmtmRGNJZU9WUjVTVzQxc2s2ajNyRnB4d3ZfQ2VKeldwQXFsdmdOUEwta3JhTW50SnJ0TlhiUkJ5ZWZOWndqR0JSQ1BxbUxpXzd4dFc3VzgyWGRwb005QmRJY3VVd05UakttRVRyTGw5cTA2cnV6c19IMEF3SUNoOWlvNVVVOFpTZEJQUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-18 17:14:52"
+    },
+    {
       "title": "蔣萬安親訪雲林建營養午餐「直供一條龍」！張嘉郡揭米其林秘密，盼北雲聯手打國際賽| 夏和宣| 地方新聞 - 風傳媒",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEU1prMk9zMWdWSlNic2JqUWNmcnVPR1NaTXljUzMxWGJ3M1BBUUNsOHJyaTEzTWtqOXRmOGhpcHBfV0FrNXluTUxoMENvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-18 16:56:28"
@@ -634,6 +673,11 @@
     {
       "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」創雙贏 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNenh4Q0lTYjI2cXlKWUxQVk1mdzF6V3FIYVdCcW9MblJzUWNQRmRnOXJ5a0pPSTFtZWJ4bmpCSkNvcGhyWW1pb0NjM0R0bFE4eTVXUlN3VmxKMk5famN2dUcxY1RMS1luWU1IeEp3aEVMQUlXU0ZRVFJ2MS00UVc0TTR2SzMtT2xxdmN0M21qWW1zbWxnSUVFQ1I5S1NGT1pBZ2xMR2VSbFVFVS0xYzJqZDh5Mnk4X1JCSjRfWm51WlZuM2xTeEF1VnYxa2VoVFV4S0hUbEFZYkpwRXl1Ny1FV0FvYWFPckphNmhIRnF1cDdJdm5TWVBYMEYzX2ZMcnlKNEdmUmtwMHBPN0piSHZWYUpJaVhSa3E5SHB5ekZwUUtfdURSQ0VaTDRCSmU1VFNQZjVZRmpCNkpwSkR3ZXdMdC1xb29aajA3dDFQS0xUa2hYektRaGxOYkhLM1QyZFFEbDVGeHpvV1FYZVFSX0c2b0o0R2JfM2drckphX05jeWNNUUswNzRhM3VrT1Z5SnUxSDVVS1pPYkhhQXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-18 16:18:51"
+    },
+    {
+      "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」 創雙贏 - 匯流新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SOGpvTkR0WTV1eUtXU0dkdlNqV0loT3Fsb3h3d1ZmcDVmZjlTRDIzX1pxV0t6YTlvMHg0aHgxRjZIdWVwSlN2VWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-18 16:18:51"
     },
     {
@@ -715,16 +759,6 @@
       "title": "NET病友盼在台治療 劉建國促PRRT納健保 - 樂聯網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oWlNjRDJtNHB3R3hCUVQ1TUE1Q0JEZVEzMHNld3lEWGdaSlJnTVpPeE5BNm14Vy00Q2haS0kxVGxmQlZhVk5lRWFMYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-15 16:06:50"
-    },
-    {
-      "title": "緩解雲林托育荒！張嘉郡爭「6533萬」升級39所公幼，虎尾新校8月開園力拚免錢讀冊| 夏和宣| 地方新聞 - 風傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0ySW9zbkFYM3J0RklvSWlzbk1kUVpuSG02SzViTjNTYjluekZ0djZSdDB0RV9QdG9QRnU2QnhlZjhkQ1JZQlpUaE04UUstUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-15 14:55:24"
-    },
-    {
-      "title": "為雲林打造優質育兒城市 張嘉郡爭取逾6千萬升級公立幼兒園 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOckJ1V0tiMWJhTnF2UU1GWlJxNHlKWWdfVlUyZHl1UUVEUng0dE1WREtHeHFQUmw1WEh3YThHQ19lazNJNC1kaEZVYmFjZkhFR3BCem81YmstNW1QUFRHS0hETW9rYWZ0bTdrODE4LXZIeE01RTNHMFRlX0oxX083eWl0MmtKdTRNMEZPTnVsVVFrYW1zXy1KQl9xOEVFS0VybV93ZERwYndrby05cjVrUnBNeG1EeUpNTXBiVWJnc0k2Rm1rNld3SDBkOE1mOTUxbkxUdEZPa1ZCNUVvMDBJY3ZXMFROZi1DcHFtX1dLRlFwMUNvZERzMFcyclFSUVF3SmxndFBhbkdCRDBzcGNhN0NtNHpyandZWnVUSW9jU3Z3OHBOMEt3cUZ0UGk5RzhMWWJ6YUJkTlVfWDNTUUF1VDdydGJ2YzBlbzdnNi1pelZ6NHF3VkNYajcwalM1TVBpVjQ3MHJfQ0F1Y3R2OHk4RG5HUW5CdE9lVmRxaEFqc2Z5Mm1TUUtTNFNDQVZCUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-15 13:37:12"
     }
   ],
   "person_sections": {
@@ -833,6 +867,11 @@
       ],
       "news": [
         {
+          "title": "蔣萬安喊話與打造北雲農漁產供應鍊 張嘉郡：共創雙贏 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSjE4Q0t0eTNkeFhpQi0zdGwtaHdkZGU3UWJydlhqRzdZVlBPWnR3ajcxZHVHMkUzTFlwWENlM3RERFNzLXBOV2VrOEowRkluU2g0LXh1NzczYUM4OU5pTmNFUjhrUGhrcDc4VUw4U2lTbEVRMk54WlpyOHJFN0tFZW1YVTIzT05OVHZkRHJQQzhkS0ZiYU9Vc3JZTkhoSjUzYkR6SW5WRldPc1lTT2F4UkE4T0hQeWg3b2pjcUo5TTNuOGpKY3RtRF9saWhwbGRUWjhQdWJrOEllTFlsRUpPOEhlSFB4VmtmRGNJZU9WUjVTVzQxc2s2ajNyRnB4d3ZfQ2VKeldwQXFsdmdOUEwta3JhTW50SnJ0TlhiUkJ5ZWZOWndqR0JSQ1BxbUxpXzd4dFc3VzgyWGRwb005QmRJY3VVd05UakttRVRyTGw5cTA2cnV6c19IMEF3SUNoOWlvNVVVOFpTZEJQUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-18 17:14:52"
+        },
+        {
           "title": "蔣萬安親訪雲林建營養午餐「直供一條龍」！張嘉郡揭米其林秘密，盼北雲聯手打國際賽| 夏和宣| 地方新聞 - 風傳媒",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEU1prMk9zMWdWSlNic2JqUWNmcnVPR1NaTXljUzMxWGJ3M1BBUUNsOHJyaTEzTWtqOXRmOGhpcHBfV0FrNXluTUxoMENvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-18 16:56:28"
@@ -840,6 +879,11 @@
         {
           "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」創雙贏 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNenh4Q0lTYjI2cXlKWUxQVk1mdzF6V3FIYVdCcW9MblJzUWNQRmRnOXJ5a0pPSTFtZWJ4bmpCSkNvcGhyWW1pb0NjM0R0bFE4eTVXUlN3VmxKMk5famN2dUcxY1RMS1luWU1IeEp3aEVMQUlXU0ZRVFJ2MS00UVc0TTR2SzMtT2xxdmN0M21qWW1zbWxnSUVFQ1I5S1NGT1pBZ2xMR2VSbFVFVS0xYzJqZDh5Mnk4X1JCSjRfWm51WlZuM2xTeEF1VnYxa2VoVFV4S0hUbEFZYkpwRXl1Ny1FV0FvYWFPckphNmhIRnF1cDdJdm5TWVBYMEYzX2ZMcnlKNEdmUmtwMHBPN0piSHZWYUpJaVhSa3E5SHB5ekZwUUtfdURSQ0VaTDRCSmU1VFNQZjVZRmpCNkpwSkR3ZXdMdC1xb29aajA3dDFQS0xUa2hYektRaGxOYkhLM1QyZFFEbDVGeHpvV1FYZVFSX0c2b0o0R2JfM2drckphX05jeWNNUUswNzRhM3VrT1Z5SnUxSDVVS1pPYkhhQXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-18 16:18:51"
+        },
+        {
+          "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」 創雙贏 - 匯流新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SOGpvTkR0WTV1eUtXU0dkdlNqV0loT3Fsb3h3d1ZmcDVmZjlTRDIzX1pxV0t6YTlvMHg0aHgxRjZIdWVwSlN2VWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-18 16:18:51"
         },
         {
@@ -921,16 +965,6 @@
           "title": "拋斗六建「雲林小巨蛋」 張嘉郡：帶動觀光消費、投資 - TVBS新聞網",
           "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQRnZCeWR4WURpZ0U2YWJQZmJhdnVzUkh0WnkxRm1MaHNEZERYQjhFbkNNcmxJT000YkFWbUV5Q0dfSjFCcXpoWEJpTHh6d1ZNYXo4Uzc4TEZfYl9EdVpzT1Z5dlNmSGVkakxfTDFkbjBxeTlhd0Fwa3N5SGJwbTJBdTlfVGhYMGhWNUY1MXhwNDZSSXBoM3BaaGx6UVNHd3J5azNIYkwtcVlRdWUxQXlhNVkxQ1l4RkNITndJNXd6cDEtbXVVRWdQby1hb0h1Vmt5SjQ1SFpiUFFpdHpKY1ZpX2huRlJraUFBVVN0LWZlQUQ4ZXdIQno2YjdMMWVITEtqeVJVY0cya0hOdl9ORHVrZ3A1aWtnalpXMnJoOEZ2LTJXRXNDSlp6Q0dwTWtRNzhzM3pvbklvbUdEZnUybFpRTU9GWGV6NWcwamtaMGl0N2pCblZPSjhBQl9pNm8tMm9XNndkNktlN0pkbWY2cU5PZ2l0ZHJMc2o0eVVTWndRZy1EaGpYMDlOcmtlZ3RENXpGZkNoamVGcFRmNGwyeUhJSkpYMjFHQ3g5bWZaM09qX3BFVmxtNGg1cWNlX3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-12 16:43:00"
-        },
-        {
-          "title": "張嘉郡拋斗六孵蛋 結合商圈打造運動、演藝、電競多功能場館 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQMmtJTGptWUplX0trZ2hyckZXSXNsclVWRVhORjE5aTExOEdadk9pNFdTeVhiVGktZGdSMEV2MlFHdlhoMHItOUYxdlVQd3Q4TUFLQjFhYmRwNi0yOVlPaXBETGtmZG9EOWFjSTFEeUM2QVMxNV90bnp3YjhaY25VN3ZsMF83OWxGNU1JdDU0Z3VlbmRReFZHUHdCRDBReFVPR0s4YWdGRkxGZF9pdUJJR0wwQTB4bk51czVibXhLQ1Q2bjBqSVk4eGZ3WmlLajF3NDd0eVRSd2NZV2xIbGlFMGRTOGljOEZ6VHB2dUhLUjk2VlhjZ1phYjR0RmxWNzFQSjVxeHBwVm5HWlhER2ZLb0xLN3daOVFkemM1VEtQVXNNMmtBZENVYTlaYjY4Mk9sWFRiak5JYUNoN0ZSeE4teXl4TE5KVmlZcFlJcnk5QXUwRUZObXpJcE1YLWtlOVdSSi1nSHVNMVZuZHlPdlNoOHNFZU9BZm0xUUV5ZzVROWxRZ1U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-12 10:18:32"
-        },
-        {
-          "title": "重塑雲林未來城市樣貌！張嘉郡拋「斗六孵蛋」政見 - 中天新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2Rm1iaUNnMmlBT0J0N1VUV2FRMXZLekdBMHlJVG9yV3ZyZVR5WVZ6MWVGVTFVdGlTbnp5SnlEcWMxdjd4MXhFeEhXZDBxRnV2OU04?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-12 07:21:43"
         }
       ]
     },
@@ -1144,6 +1178,11 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "蔣萬安喊話與打造北雲農漁產供應鍊 張嘉郡：共創雙贏 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSjE4Q0t0eTNkeFhpQi0zdGwtaHdkZGU3UWJydlhqRzdZVlBPWnR3ajcxZHVHMkUzTFlwWENlM3RERFNzLXBOV2VrOEowRkluU2g0LXh1NzczYUM4OU5pTmNFUjhrUGhrcDc4VUw4U2lTbEVRMk54WlpyOHJFN0tFZW1YVTIzT05OVHZkRHJQQzhkS0ZiYU9Vc3JZTkhoSjUzYkR6SW5WRldPc1lTT2F4UkE4T0hQeWg3b2pjcUo5TTNuOGpKY3RtRF9saWhwbGRUWjhQdWJrOEllTFlsRUpPOEhlSFB4VmtmRGNJZU9WUjVTVzQxc2s2ajNyRnB4d3ZfQ2VKeldwQXFsdmdOUEwta3JhTW50SnJ0TlhiUkJ5ZWZOWndqR0JSQ1BxbUxpXzd4dFc3VzgyWGRwb005QmRJY3VVd05UakttRVRyTGw5cTA2cnV6c19IMEF3SUNoOWlvNVVVOFpTZEJQUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-18 17:14:52"
+      },
+      {
         "title": "蔣萬安親訪雲林建營養午餐「直供一條龍」！張嘉郡揭米其林秘密，盼北雲聯手打國際賽| 夏和宣| 地方新聞 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEU1prMk9zMWdWSlNic2JqUWNmcnVPR1NaTXljUzMxWGJ3M1BBUUNsOHJyaTEzTWtqOXRmOGhpcHBfV0FrNXluTUxoMENvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-18 16:56:28"
@@ -1151,6 +1190,11 @@
       {
         "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」創雙贏 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNenh4Q0lTYjI2cXlKWUxQVk1mdzF6V3FIYVdCcW9MblJzUWNQRmRnOXJ5a0pPSTFtZWJ4bmpCSkNvcGhyWW1pb0NjM0R0bFE4eTVXUlN3VmxKMk5famN2dUcxY1RMS1luWU1IeEp3aEVMQUlXU0ZRVFJ2MS00UVc0TTR2SzMtT2xxdmN0M21qWW1zbWxnSUVFQ1I5S1NGT1pBZ2xMR2VSbFVFVS0xYzJqZDh5Mnk4X1JCSjRfWm51WlZuM2xTeEF1VnYxa2VoVFV4S0hUbEFZYkpwRXl1Ny1FV0FvYWFPckphNmhIRnF1cDdJdm5TWVBYMEYzX2ZMcnlKNEdmUmtwMHBPN0piSHZWYUpJaVhSa3E5SHB5ekZwUUtfdURSQ0VaTDRCSmU1VFNQZjVZRmpCNkpwSkR3ZXdMdC1xb29aajA3dDFQS0xUa2hYektRaGxOYkhLM1QyZFFEbDVGeHpvV1FYZVFSX0c2b0o0R2JfM2drckphX05jeWNNUUswNzRhM3VrT1Z5SnUxSDVVS1pPYkhhQXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-18 16:18:51"
+      },
+      {
+        "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」 創雙贏 - 匯流新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SOGpvTkR0WTV1eUtXU0dkdlNqV0loT3Fsb3h3d1ZmcDVmZjlTRDIzX1pxV0t6YTlvMHg0aHgxRjZIdWVwSlN2VWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-18 16:18:51"
       },
       {
@@ -1178,6 +1222,11 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "蔣萬安喊話與打造北雲農漁產供應鍊 張嘉郡：共創雙贏 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSjE4Q0t0eTNkeFhpQi0zdGwtaHdkZGU3UWJydlhqRzdZVlBPWnR3ajcxZHVHMkUzTFlwWENlM3RERFNzLXBOV2VrOEowRkluU2g0LXh1NzczYUM4OU5pTmNFUjhrUGhrcDc4VUw4U2lTbEVRMk54WlpyOHJFN0tFZW1YVTIzT05OVHZkRHJQQzhkS0ZiYU9Vc3JZTkhoSjUzYkR6SW5WRldPc1lTT2F4UkE4T0hQeWg3b2pjcUo5TTNuOGpKY3RtRF9saWhwbGRUWjhQdWJrOEllTFlsRUpPOEhlSFB4VmtmRGNJZU9WUjVTVzQxc2s2ajNyRnB4d3ZfQ2VKeldwQXFsdmdOUEwta3JhTW50SnJ0TlhiUkJ5ZWZOWndqR0JSQ1BxbUxpXzd4dFc3VzgyWGRwb005QmRJY3VVd05UakttRVRyTGw5cTA2cnV6c19IMEF3SUNoOWlvNVVVOFpTZEJQUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-18 17:14:52"
+      },
+      {
         "title": "蔣萬安親訪雲林建營養午餐「直供一條龍」！張嘉郡揭米其林秘密，盼北雲聯手打國際賽| 夏和宣| 地方新聞 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEU1prMk9zMWdWSlNic2JqUWNmcnVPR1NaTXljUzMxWGJ3M1BBUUNsOHJyaTEzTWtqOXRmOGhpcHBfV0FrNXluTUxoMENvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-18 16:56:28"
@@ -1185,6 +1234,11 @@
       {
         "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」創雙贏 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNenh4Q0lTYjI2cXlKWUxQVk1mdzF6V3FIYVdCcW9MblJzUWNQRmRnOXJ5a0pPSTFtZWJ4bmpCSkNvcGhyWW1pb0NjM0R0bFE4eTVXUlN3VmxKMk5famN2dUcxY1RMS1luWU1IeEp3aEVMQUlXU0ZRVFJ2MS00UVc0TTR2SzMtT2xxdmN0M21qWW1zbWxnSUVFQ1I5S1NGT1pBZ2xMR2VSbFVFVS0xYzJqZDh5Mnk4X1JCSjRfWm51WlZuM2xTeEF1VnYxa2VoVFV4S0hUbEFZYkpwRXl1Ny1FV0FvYWFPckphNmhIRnF1cDdJdm5TWVBYMEYzX2ZMcnlKNEdmUmtwMHBPN0piSHZWYUpJaVhSa3E5SHB5ekZwUUtfdURSQ0VaTDRCSmU1VFNQZjVZRmpCNkpwSkR3ZXdMdC1xb29aajA3dDFQS0xUa2hYektRaGxOYkhLM1QyZFFEbDVGeHpvV1FYZVFSX0c2b0o0R2JfM2drckphX05jeWNNUUswNzRhM3VrT1Z5SnUxSDVVS1pPYkhhQXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-18 16:18:51"
+      },
+      {
+        "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」 創雙贏 - 匯流新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SOGpvTkR0WTV1eUtXU0dkdlNqV0loT3Fsb3h3d1ZmcDVmZjlTRDIzX1pxV0t6YTlvMHg0aHgxRjZIdWVwSlN2VWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-18 16:18:51"
       },
       {
@@ -1366,16 +1420,6 @@
         "title": "衛福部AI平台挨批難用 劉建國替第一線社工發聲 - 元丰傳媒",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWlV2MklEV00yS1lGdmkwd2xDTVYwRno4NHhzVjc0X3drVzNsak4za3NpOHExZ0xNNGY4bW9Ic2k0ZWtuWkQ2ZndqUmZFelhFMFFNRTZvQ0NhN1p5TGZvSzJzejRrZEM1c0pBODR5dGxZMktCRXlScWFlSVNyelltV1dJelRURlhUV0JrblR6Q0wwU3NNS19laVlPWGdPYkNQTGRWUw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-14 01:36:04"
-      },
-      {
-        "title": "AI浪潮席捲全球！ 雲林立委劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CcUV5ZE94bVNTamprUGM0cUMwaGE4YmJQS19IVTRsaldPZUJIMmRCZ3RWTFBNNjZEOXBiRW5IVnBsc0RjTmI3QU4wVHFORmplZ0F2OVJIVFJFaGlhN2Nlam9zTmtKMEdtbTVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-14 01:16:07"
-      },
-      {
-        "title": "社工文書壓力爆棚 劉建國籲衛福部全面導入AI減負擔 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TbnR5MG0wVFJYUG5BUkRxRl9EenZPc1A5MjJlRDM2Z3JNVWtxejZ2cUs5d1RpazZOY29CYXFsM193V3kzUFdjOUU2RHVtcjU2YkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-13 22:39:00"
       }
     ],
     "facebook": [
@@ -1468,11 +1512,6 @@
         "title": "醫美偷拍風暴擴大！ 劉建國怒轟衛福部慢半拍 「全國稽查刻不容緩」 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQcTlTRl80UlFRbGVEUVZGWXNIcWxQMWhTY3BSU1BGSFh6M1pfZ2FVbXAtZnZMcVlwMW5MNFVEMkdPMHB3Qlg3aUI3TmdPU3FFd2JNdlBpamxLVE8tZjdHSE1GTFFtc1hSdmQ3YWFPOTlHTzVVYlVFcC1kSU02VXJqMUJoOVVpTWJSLWhXb0JRYVlaM21GWFh2QjV6TS16RWdzaHlkOXZfNFFGS2poZU8xV3V2VEl4cy1RV0M3UlFZQkozX2thMWFVVTZ6WldsSWFzRXZnb1drMUhSMTdwRzhrZlZVbEM4RUxoQXowaFNsenpBSTU4OC1oY3lYX2tLTWJLYlhQVWhkSkpLMzkyUDhMcTV4STVIbmo5cmtXTHJIZDJGWDVoQUcxVmNzQno2UVRYZFBrV2FnRzhMWC1VdFJGekZ6VU90MFNTa0U0bGQ5SlRPeVlGVTNIYnNhY3pzMlZobVVoMGZEeVdmVl92WmRGaGVkWGNBMUF6SnlUaXc1Uk1rR1lyWTIwZ1hsQTFrdHdkQ196bHlGTGE2Nk84VzRubU4ycXBiQktVYk1NX3p3SQ",
         "time": "2026-05-11 19:56:38"
-      },
-      {
-        "title": "醫美偷拍案延燒 劉建國要求衛福部啟動全國稽查 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPcVBCYTRBRUpmajBjX1JMT0oxdWxvcnY5dHhJbXVweWtpR0lvenBjX3R0YnRwSGZZN0szV2NtSHpiS2tvTFFlYWV4THF0X1NWNGdLNjRkRkZKaE5iY2F0VzVJbWZfNmNxRHRYOTI2VXNKZGl3LVFXSjhNYllHUEtXOWdZV244UExEczFuSUxDWks0cGVHeUtFRGE1Zk56d3dkN1lCUUZNZ0NicEdWTXNsYXV4VUZ5VkRYa1dMUVVkX2IzVjc0T0o5emJVd24tZWpzLU1WS2N5dnBpT3BSRHk4aklpdkszT0dXTE11bDJrRWJQclVBSTBpU3ZLeVhYaUhGNW40OGZLSEJoQ24zWUxUVWlVQnBFbXQ5dmp2RVVFM3BtNTgxR1NncmM5Um0xS1hSNzRDY2RJLVhTaXVYUUdmMnYwbkwyS2NSeWRnc1RITzNvWEM5VC12cnpaY3BrWG1nRmhVSXExaEhlbDlD",
-        "time": "2026-05-11 18:30:28"
       }
     ],
     "youtube": [
@@ -1508,6 +1547,13 @@
     "hour": [],
     "day": [
       {
+        "title": "蔣萬安喊話與打造北雲農漁產供應鍊 張嘉郡：共創雙贏 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSjE4Q0t0eTNkeFhpQi0zdGwtaHdkZGU3UWJydlhqRzdZVlBPWnR3ajcxZHVHMkUzTFlwWENlM3RERFNzLXBOV2VrOEowRkluU2g0LXh1NzczYUM4OU5pTmNFUjhrUGhrcDc4VUw4U2lTbEVRMk54WlpyOHJFN0tFZW1YVTIzT05OVHZkRHJQQzhkS0ZiYU9Vc3JZTkhoSjUzYkR6SW5WRldPc1lTT2F4UkE4T0hQeWg3b2pjcUo5TTNuOGpKY3RtRF9saWhwbGRUWjhQdWJrOEllTFlsRUpPOEhlSFB4VmtmRGNJZU9WUjVTVzQxc2s2ajNyRnB4d3ZfQ2VKeldwQXFsdmdOUEwta3JhTW50SnJ0TlhiUkJ5ZWZOWndqR0JSQ1BxbUxpXzd4dFc3VzgyWGRwb005QmRJY3VVd05UakttRVRyTGw5cTA2cnV6c19IMEF3SUNoOWlvNVVVOFpTZEJQUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-18 17:14:52",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "蔣萬安親訪雲林建營養午餐「直供一條龍」！張嘉郡揭米其林秘密，盼北雲聯手打國際賽| 夏和宣| 地方新聞 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEU1prMk9zMWdWSlNic2JqUWNmcnVPR1NaTXljUzMxWGJ3M1BBUUNsOHJyaTEzTWtqOXRmOGhpcHBfV0FrNXluTUxoMENvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-18 16:56:28",
@@ -1517,6 +1563,13 @@
       {
         "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」創雙贏 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNenh4Q0lTYjI2cXlKWUxQVk1mdzF6V3FIYVdCcW9MblJzUWNQRmRnOXJ5a0pPSTFtZWJ4bmpCSkNvcGhyWW1pb0NjM0R0bFE4eTVXUlN3VmxKMk5famN2dUcxY1RMS1luWU1IeEp3aEVMQUlXU0ZRVFJ2MS00UVc0TTR2SzMtT2xxdmN0M21qWW1zbWxnSUVFQ1I5S1NGT1pBZ2xMR2VSbFVFVS0xYzJqZDh5Mnk4X1JCSjRfWm51WlZuM2xTeEF1VnYxa2VoVFV4S0hUbEFZYkpwRXl1Ny1FV0FvYWFPckphNmhIRnF1cDdJdm5TWVBYMEYzX2ZMcnlKNEdmUmtwMHBPN0piSHZWYUpJaVhSa3E5SHB5ekZwUUtfdURSQ0VaTDRCSmU1VFNQZjVZRmpCNkpwSkR3ZXdMdC1xb29aajA3dDFQS0xUa2hYektRaGxOYkhLM1QyZFFEbDVGeHpvV1FYZVFSX0c2b0o0R2JfM2drckphX05jeWNNUUswNzRhM3VrT1Z5SnUxSDVVS1pPYkhhQXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-18 16:18:51",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」 創雙贏 - 匯流新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SOGpvTkR0WTV1eUtXU0dkdlNqV0loT3Fsb3h3d1ZmcDVmZjlTRDIzX1pxV0t6YTlvMHg0aHgxRjZIdWVwSlN2VWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-18 16:18:51",
         "platform": "news",
         "risk": "綠"
