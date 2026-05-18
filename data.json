@@ -1,10 +1,10 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-18T11:38:27.043573+00:00",
+  "generated_at": "2026-05-18T11:54:00.272627+00:00",
   "metrics": {
-    "total_24h": 7,
+    "total_24h": 8,
     "prev_24h": 7,
-    "growth_pct": 0.0,
+    "growth_pct": 14.29,
     "news_24h": 7,
     "anomaly": {
       "level": "綠",
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 113,
-    "prev": 87,
-    "growth_pct": 29.89,
-    "news": 90,
+    "total": 112,
+    "prev": 89,
+    "growth_pct": 25.84,
+    "news": 88,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -29,12 +29,16 @@
     {
       "platform": "news",
       "count": 7
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 90
+      "count": 88
     },
     {
       "platform": "facebook",
@@ -42,7 +46,7 @@
     },
     {
       "platform": "youtube",
-      "count": 5
+      "count": 6
     }
   ],
   "by_hour": [
@@ -65,12 +69,16 @@
     {
       "hour": "2026-05-18 17:00",
       "count": 1
+    },
+    {
+      "hour": "2026-05-18 18:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
     {
       "hour": "2026-05-11 19:00",
-      "count": 3
+      "count": 1
     },
     {
       "hour": "2026-05-11 20:00",
@@ -299,6 +307,10 @@
     {
       "hour": "2026-05-18 17:00",
       "count": 1
+    },
+    {
+      "hour": "2026-05-18 18:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
@@ -397,7 +409,7 @@
   },
   "mention_compare_7d": {
     "張嘉郡": 34,
-    "劉建國": 48
+    "劉建國": 46
   },
   "top_news": [
     {
@@ -1193,6 +1205,13 @@
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10RVpkSkZkZ253cHhGbXZ3WnRSOS1WbDR1c1FxbjNwOExaby1fU0NVYm9aZ0tjVE82Si1JQ29GaXZQeEJoeDE0YnBTTXExM1VWSE1VZ0xMejAwX0NBdjR6YUV5ajdlX2Z1bnkwaUlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-18 12:30:22"
       }
+    ],
+    "youtube": [
+      {
+        "title": "鄭文芳案如果臺大20年前就處理，後面還會有6位受害者嗎？范雲：醫界組織文化必須被OO，將持續監督醫師懲戒漏洞",
+        "url": "https://www.youtube.com/shorts/vS3JSrUqYQI",
+        "time": "2026-05-18 18:49:06"
+      }
     ]
   },
   "latest_by_platform_7d": {
@@ -1492,6 +1511,11 @@
     ],
     "youtube": [
       {
+        "title": "鄭文芳案如果臺大20年前就處理，後面還會有6位受害者嗎？范雲：醫界組織文化必須被OO，將持續監督醫師懲戒漏洞",
+        "url": "https://www.youtube.com/shorts/vS3JSrUqYQI",
+        "time": "2026-05-18 18:49:06"
+      },
+      {
         "title": "川習會習近平致詞賀美建國250年　盼中美做夥伴非對手？【#今日精華搶先看】少康戰情室 20260514｜#何孟樺 #許甫 #唐湘龍 #洪孟楷 #游淑慧",
         "url": "https://www.youtube.com/watch?v=msr_GOof2bE",
         "time": "2026-05-14 19:55:54"
@@ -1522,6 +1546,13 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "鄭文芳案如果臺大20年前就處理，後面還會有6位受害者嗎？范雲：醫界組織文化必須被OO，將持續監督醫師懲戒漏洞",
+        "url": "https://www.youtube.com/shorts/vS3JSrUqYQI",
+        "time": "2026-05-18 18:49:06",
+        "platform": "youtube",
+        "risk": "綠"
+      },
       {
         "title": "蔣萬安喊話與打造北雲農漁產供應鍊 張嘉郡：共創雙贏 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSjE4Q0t0eTNkeFhpQi0zdGwtaHdkZGU3UWJydlhqRzdZVlBPWnR3ajcxZHVHMkUzTFlwWENlM3RERFNzLXBOV2VrOEowRkluU2g0LXh1NzczYUM4OU5pTmNFUjhrUGhrcDc4VUw4U2lTbEVRMk54WlpyOHJFN0tFZW1YVTIzT05OVHZkRHJQQzhkS0ZiYU9Vc3JZTkhoSjUzYkR6SW5WRldPc1lTT2F4UkE4T0hQeWg3b2pjcUo5TTNuOGpKY3RtRF9saWhwbGRUWjhQdWJrOEllTFlsRUpPOEhlSFB4VmtmRGNJZU9WUjVTVzQxc2s2ajNyRnB4d3ZfQ2VKeldwQXFsdmdOUEwta3JhTW50SnJ0TlhiUkJ5ZWZOWndqR0JSQ1BxbUxpXzd4dFc3VzgyWGRwb005QmRJY3VVd05UakttRVRyTGw5cTA2cnV6c19IMEF3SUNoOWlvNVVVOFpTZEJQUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
