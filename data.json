@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-19T13:48:48.932518+00:00",
+  "generated_at": "2026-05-19T14:04:01.733228+00:00",
   "metrics": {
-    "total_24h": 15,
+    "total_24h": 20,
     "prev_24h": 17,
-    "growth_pct": -11.76,
-    "news_24h": 11,
+    "growth_pct": 17.65,
+    "news_24h": 16,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 87,
-    "prev": 127,
-    "growth_pct": -31.5,
-    "news": 63,
+    "total": 91,
+    "prev": 128,
+    "growth_pct": -28.91,
+    "news": 67,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 11
+      "count": 16
     },
     {
       "platform": "facebook",
@@ -38,7 +38,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 63
+      "count": 67
     },
     {
       "platform": "facebook",
@@ -60,7 +60,7 @@
     },
     {
       "hour": "2026-05-19 14:00",
-      "count": 2
+      "count": 3
     },
     {
       "hour": "2026-05-19 15:00",
@@ -72,18 +72,18 @@
     },
     {
       "hour": "2026-05-19 17:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-05-19 20:00",
+      "count": 3
+    },
+    {
+      "hour": "2026-05-19 21:00",
       "count": 1
     }
   ],
   "by_hour_7d": [
-    {
-      "hour": "2026-05-12 21:00",
-      "count": 1
-    },
     {
       "hour": "2026-05-12 22:00",
       "count": 2
@@ -258,7 +258,7 @@
     },
     {
       "hour": "2026-05-19 14:00",
-      "count": 2
+      "count": 3
     },
     {
       "hour": "2026-05-19 15:00",
@@ -270,17 +270,21 @@
     },
     {
       "hour": "2026-05-19 17:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-05-19 20:00",
+      "count": 3
+    },
+    {
+      "hour": "2026-05-19 21:00",
       "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 10
+      "count": 15
     },
     {
       "platform": "facebook",
@@ -288,33 +292,31 @@
     }
   ],
   "mention_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQblVCUFQwb0xLeHM5QVFnblktdE8zTmxHaWlFRFZES29wUm5KQXVOZVZpZnFhQURJandmYkQtZThSSXlNYzZxNUVFZ0NKQVZZRzk4ME5NT1NoVzRJNmdLbkduREY4MUl6b1M5aXRBLVlpc21SQW5YRUhEdDJrNmpfNGF0by1nOEhXYUNncDFXQzFxaS1SYUVfVjZibzBIX2hlbzhiaGVjNjVCcHpqdTY1dlNxQVg3TDV2Zi00NF9SYmI1OHRCOXVBU2ZXaE1QdHZST1lJaFRyQ2VNWlZhRG9rTU4xOG1nVjNFNjB3ZGhJLWpMMERleGRoX0RoUFhPWVhvai0zSVotN3pnRUlnZE5wMlJJSmNEbUh4bEFWUDFPOGxLUDVWTUtKUVFOdFBoWFpGb19xNmNUSnM5WGtrMnIyenFzNFg3Z2JyVkF1R2k2VkNpSDE4QzVjb3lfMEtvazFWSjBUVTRrTWl4a0hsRnFhUU9OQTg",
-        "time": "2026-05-19 20:22:18"
-      },
-      {
-        "title": "劉建國爭取成功！ 彈性育嬰假再升級 行政院正式拍板 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxONHJxXzJ4eWlvSmVsUzdFOU9uNVZaR3VHQ2lZOV95NjlZaEdxckc2YldtMjlDQXBpVmlEdDNfd2lQcjh3cUdSMHVFdnVRTElhaHlEWTRMY0NUTFlDNEpkekVqdGhXTFRLUDBabzVqd21laFA0RDItSTRyQnNDNDRNVDBSTExBZnNOb1UySmJXejhpOW5DcUZXWUx4ZDJNd0tFWTQ5ZkJtaUREQW9UWkJBYUZZb3VRX3RVajBzVkY1STRycjZUams4aWVJeUNvT3NZNEpydXFzWmk5SlhsZjluT0NnSnU3SUdOcmltUl9KZnd5aW9fVTdlbC1QLUFST0hVVS1lNVNaVnE3eDB2RTR3dC10WnVSX0VCWDJIbThPT1ljYnRZNTZFOGlxV3pDMGxWd2JQMkpzRHdrazByUE5pbmpWYkp1eS1mdERoV05JRkc0bEJnZURWVXplalc2RHB6NUItNjBUdG81MHJBa2JjYXlyVQ",
-        "time": "2026-05-19 14:23:02"
-      },
-      {
-        "title": "#爭取改善雲林39所公立幼兒園環境🏫 #未來不分公私立都給孩子最好的環境👧🧒 孩子的成長只有一次，教育與照顧，更不能等。 孩子的起跑點，不該因為城鄉而有差距。 嘉郡這次 #成功爭取6533萬元經費，#補助雲林39所公立幼兒園，投入園舍修繕、教學設備更新、戶外 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi5AdBVV95cUxOX3lnLXktT0JZSVMwMFBYYlhBc09sbXZPM0dqT3BjT3pKOHpHUnoteUxsTVRjXzVNRHFWT0Zwb3JpWGN0X1BnRVVlNk1zNHBfTVA5aDlJUVBnNDBMaVZON1QybWdHV1Rid3l2NDJhSzMtbXhiTk42ZDdBWVFmZFo4bnFlMkpEMlVuSHI1WE5kbm1ycWtaOEJfV0Rockc1UzV5cm9Kd1FoRlR6RWhkZXlxbUlJb3JDdmxOSkE4TF9kLWFiRVU3MDk2YUlYTW5rUzRvVTJjSDhpWkxyLVVwN1Azc3RxTWYyeUc2UXBiNHlORFVJanh1QW13UU1PM01MNDFrMTF4RE11dWZnVkJqZEdfVXhUQnQ3TmU5b25xV19VU3BFSlBlNDJqWHVtNVhXTGd0QTZtaFhqWE52MzN0NVYyRklLVC12SV9zcVNxOE9IMjByQkpTTkpuWEplR2RCOHdmeXZxUHI4OGJoTGZhZ2RsMWJLN0tiQ1UxX1cxblY3VUdTNXRTVktUWjZUbmV6bUNpTUVxUVlqWTEybEJIdFkxUGpyM2Y3N3JCbzE5MEdLZXRId2xzeXB0OGNaMlJOZV82cGJzRjdveExfR0lmVDdaWXFJZHcyX0YxZmx1d2N5M2tmc09Qb3NPTFpKNjBrVFl2Mm15RDBSaGx0YlBkZzVNdTRoSWlXTUJVSE1GcGRoSnpfaUFZaU5TYTBieFNxMFBOcFhqZFc1aUt4cHpCU09sUE1PS1RFNjNsb29NdnVLbk9YblZja1pzaG1mTkQ1MzFWY3A0OXBrWldjb1BfMDhiQUxmUUZuV0dEUmJaNjlqcldFOUppLVpiZm5uRlM3WG9CcEtyMVN3eWVHRnNDME5JblJ1VFB2NjRBYkVNMHBFOENEZTlEelQ2TDlvZkVmeS01QWVtb3FHMWJINk5WaWF3c0k3V1FlSHR4TlA4U0p4SkJWZzNxR3pyWmVmc01weEhZU3V1V0FySHo4OHV5OFpfOXZwR2gtR1RkejNwdzk5RXlEOWlZUG5pWUpfWHp1UU1wamZlYnV4ckxBUlVqdHJWRTdqNlpEbHlZLUpyRGZwc1FvMVdoVTI3TWh5TTIzZXJIVHRTWVB2aW5SR1JSbVBnRWY3dmE3NmZja1ItaGdJRm5qX0hUdFJLY1lfX2NIXzkzdlVQM1Y2eThvSVZXalhJTk5ESlJvSnJBM0Y2MVhUZF9YaDExVGwtQk9kYXc3VzFJR0gwMml2Y3VaM015dHE1OV9JMlQ2aC1PUWhaeDZHT211UTF2XzVFSjBjQmVfa05PNlo1RTdadFJVeXo1eXdUZ2xCNlo",
-        "time": "2026-05-19 09:49:50"
-      },
-      {
-        "title": "▌為台獨掀戰火！遭蔣萬安酸「很同情」 沈伯洋：欺瞞民眾 👉 https://reurl.cc/K2RYNm - 台北市長蔣萬安週一現身雲林，合體縣長參選人張嘉郡，說是考察但被外界解讀跨縣市輔選，更逮到機會用台獨議題酸沈伯洋說自己很同情他，因為民進黨的台獨初一十五不一樣，沈 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMilghBVV95cUxPcnZwVFFPQWpqOEZlc1dlOVlaN3FIV3VRQUZYc3RUcDljQlJtQ3VNT2xOa2YwaWRKaTZhbHZsaXc4SWp2Q196bTNKZkFOa3ZGRmZTM1FRdkswOHFSRDNuUktuc3RRdnRWM3NQNW0xbGlBS2xlLTNoTU96dWl2WEtXQnBJUEo5Z3p1UU91R0ZGZkY2NGxHY2ZuSHlhb0dhS0ZLQjJWaGg0LWdmcFNlZjRuekticG01VmtjQk1mNDBCVVJKeXNFOGZ1MWZqODdXaTVsRUg5MUxnQ3RxZzc1eDZncjNNdlRIeHI0cVJQbmxkcGxSMkdrMjF6eGk1LXBfa2RMaFVIVDhDYi1jSXJFVEdDQmk0TWhMSnA0T3ZWUUU1eWlxOFJ5NTZzSWhYM240Qk9wRHlLNFpUY1QydzJ1cGFuOTNLWXgzNTUtYWRaZW13V0tGWlAtUElPM3R6U1N1VWZvOS1Lc19pM0ZiYVBWcUxtb0h0YXdVMHpoMVRZX0NrQkVtNVNTb0RxU1h1djBzQWNOY0hiRUg0cHE5OTl3R0d2NjF3cTRUTHJkZ05rN3NrYzZYSmxVbEtZR2NPWVo5eXRwVndMd05RV3VXYXE5aUt2cEY1SkRCYnF1QnBLeTZ6b0t1eUtJSFQtTTdFZW9ZV0gtQUNWWUIwamFud09tYzdSZlZIZHdvdWdnTEpMNm9aYnBpZmVpWVpiSFNUUzVydldjUWdNRmYwbWVtS0o5LTZ2YmpnRm5qWkpiV2U2aEpDY3FLWUE5Z1lfaXpkd1V4X0RMazUzcmxSSENlYnEyQXMwTzZiOWxkd19yamo3UjA1TlJVR2wwZXBPbWhPWUc1OWx3OFQ3TXoxOVNrbjdhMm9hZnh2RW53RWwydmdadXgtRE9RUDg1elpEcnNadmVOMW9FVktBc01sOGxDQ3dOclNXc3pQbTE0blZoUU1EX3djQmx3bmlqTnJBRV9HTUpTZGo3cU1QTXJsT2wway1CbnlzeU9qTEppQ0FPd1VGZE5wSVRqVmpDbktzT3JfRFNzNTZ5LVg4VWhZcGtURW9hWU1DTTlzT3ZvUHJOU2Z0SzlnOWxoa3RxaUhmU0s4NFdLdUZrZF92NktTYWFCZDd3UU8tb3dsdVJoWmotYjIzdThad0lVWjQzVTZZY2o4bjJyZklDbWkzV1JjMVI5X3MzQWQ2Y256MW5pOW5rcUI2RXpVU0EwYXdhUjNtV0ZrS3d6MDdJbUFMREwxU1hVaEw0a1NSZ0s4U2tsbW5WQTljTmdTdW1DbW5uQ003UGtQODBzVkhNZWVvSjFfU0xSeHJYY0ZpdXJMb2ZCVTNTdklCYk8yZ2xHdjFaVEpMdDRFcXpIYWZVNFJaU09GM1IyQVBMbUVzR0kydEt3Zw",
-        "time": "2026-05-19 09:15:42"
-      }
-    ],
     "news": [
+      {
+        "title": "行政院拍板「彈性育嬰假」擴大適用至6歲前雲林立委劉建國感謝院長卓榮泰、勞動部長洪申翰支持新手爸媽！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHMXlOcEw2R0I0OE5NQ1Q0NERnWDU5Um5Ha1BtdnFndEQycGxlWXBBSEJZb0lXUkliSk1URUdlRmwxcTZtWVZVVkVjT2JyT0F2Z2lYb0o5NTBpOFBPRER5M2hKWmlOODZGaG5Z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 21:23:25"
+      },
+      {
+        "title": "劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQNHNfdGRjUHduWmlOeFI0Y0pYcldMRy1NSTdEZ2lLUzc5aGRSVXAxSWpkU1hRSnlrR0IxY2g3YXdVSlZCYWd3dVFjUHRxdllVVkszQWZ4WUJQYTBHYzJzVFpIOHgybWM3akY3Smsya1pIS3lSR0psVGJtVVhFUlFpal9xR2J0SFV2dkVNRlZ6aHRSbS1wbnVWcmpPOTNRMzMzR1JQQjJrSGViVXhjRkJFYzV3OGlSLTZNcUhWdGdidUxSRW1vR1kwd01BdVBPVkZrUEMxa2dmLXFrQTFCWENfVWZmQV80X19GQlNDUTJWcDROQnZXanpSTzVHVkxkMnVYam1vT0haT1BjQmFOX3BTYjlpODRKMjNTMXFYWkdOamFaa1YyOW8xM1N5NU9QanJ2N1pwNnJBNVhzX1ZFTU00NHBkaUlIUnJYTXdVdElaZ1BVcnZNd0xLZ25ScVdVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 20:19:14"
+      },
+      {
+        "title": "快新聞／劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuQlhQd1JLNGNGLWhTS1FZSkZVRmV0Z0JoekZYMU92NlNmd3IyTVVjYlhFRGZrR3VVTVhqaTJ4T3Jka3Zma3FiTTN5OExweEEwMlBGdXh4Tl8yblpJVDZPZg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 20:19:14"
+      },
       {
         "title": "因應美花生關稅挑戰 劉建國邀農業部赴雲林座談 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSDVWYkpFVWV6cHZ4T3dsVEEyTU9Wa2VHREVVTnp5OTY2dkdLVVFiZ1lNcXlVbWE1bWZYSWtIR3pvNzk1aU5JZGZTWlNrdDdGSi1LRWtfeWtaNHJCV2t5TXdNMUNiMk1kWXhFcnh3T1ZfcEt2cldWY2pCclg5emdTZUFvc3U1LTZ3N0tNTjBxeGN5RTM5ME9aU3BqOTZkUm02OVV1NERzclU1Yi1Kd181aXVjTjlpc2tRSDJLd3VmQzZPWkVKZ0dZdkw0NGVodko0YWFsaVYybnA5RGxzN0FJOGdTMnVtMlNXWF9TenVEXzc1elkwbmZyZU5oWE5KVmszQXVTcC1WTjQ1LUZtV0cxN2dxV0Y4UmRTdDUyUEM4N2ZEUTk1ZU9xdkdOREQ3QTNqYjlVd2VRTjc3bE5OcjM2NE14QUhPQnV5N0lULVVDVTI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-19 17:54:02"
+      },
+      {
+        "title": "政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝支持新手爸媽 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNM01mTTBSN0F6TGphcVh6MGE2by1ZdUdRYWRmcGFBbExZRzlPT0ZUaURJUVpwQjVZM0k0ekRhNjJNQXJZVmFSWVFTakxOcFl6MUxmd1VHUlJYZmR3SVVCOUpmN21iUHBud2JyQk1UMkZVYUpjeTdjUWJnWGlJZjU4Z2Fqd2pWWUs5bVdYclQ5b2VuN0ZEMmZOR19ISVg3WnZZdExFNHdMQTMtR1d5OExHS08tUXlEOXNGYUNtd1c4REV6ajlTOER5bkxON2kxMkRNN19JRFIwMkxnLXAxLXZ0Y0FFNVlkQzllN3loYlpOZFdnaHJWczhaZFBkN3lTSGpBVDFMZXRMenF3aWhWWUM1eWlOaXNGa2xENVpHX1FjTXQxMGZ1d3Fkem5ubmpSRUoxQ0lTWG40RWR5Ql83Z2tHN3Btc3JTWXVFS08yNmlZb28yWnNERlUtWnVIb3FSNnMycE5CR1ZTLXJ1Ry1NS2Frb1NNcEZZMTAzNy1IeVFIdmVkSklXZlNOVVZlcGV3WVdCUjFFOUhNTk9qd3Nu?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 17:52:36"
       },
       {
         "title": "行政院拍板彈性育嬰假擴大至6歲前 立委劉建國肯定政策升級：打造更友善育兒環境 - Yahoo新聞",
@@ -347,6 +349,11 @@
         "time": "2026-05-19 15:20:06"
       },
       {
+        "title": "劉建國爭取成功！彈性育嬰假再升級 行政院正式拍板 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQTF9pUC1OVWIzT2JUN05RSE9GOW45ME1wNjRqVjQtQUM5UVhSemstbmVlYTZFYzk0VFhfdlIxbUdGWWJlNFd3RE5FX1poWWF0NDNHSmQ5T2JNS2pCOTRETjB0bUlyVVNFSVZ5cXdma0F3bFlfMXlWQU1IeVFLTGtpSXZsZWtrREFVMnIxSnhEaGFpWW5OUG1DOHNWaXB2YkI1Z19zVUM1Vy1mazhhVGd1bXZlai0yZ21aaS1vQzlITEVVWjdqZXREeDZwcHRUekVWUEF4M0NCa1ZZNzhoM3hlRjdGWXF0MC0zNThVQWUzU296MkZ0U2d1WS1hUXJIM2NwdFZsSmlmcW5xRERKNWhlTDNLX1IxSUdoY0dmTndNcnpycFZHdHA5QzJqMnZYdFROaHN5eVdmcmJMYUpjVTc1TnQxRHF2WkdTT2dKZTQ5V0tnZjBJaTlXM1RXTkZLZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 14:46:17"
+      },
+      {
         "title": "快新聞／劉建國爭取成功！彈性育嬰假再升級 行政院正式拍板 - 民視新聞網",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mMGNoeUpzRmJKLV92dWV1dkMtTkxSUHlHSVYyakVHYXN3Q0FSck5VRlU4RFVmX05nRHN0S2IwbFA4RUtJSno3RzVLXzFxQnQ3UWRyUlEtMTJxSTlFZXpVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-19 14:18:58"
@@ -361,12 +368,34 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lUDdaLWN1ZzBDQm1tWDZHYXJ1SHdLTGVWLWNlY3RWYmxwbU1IbU9jRG9SMExMU2V6ZzBwYklFV0lDeDVuenBjMUNUbERxWnMtZ1lLWTduRWlEV19VVDktVmNJcDRhNFozUjRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-19 04:10:00"
       }
+    ],
+    "facebook": [
+      {
+        "title": "劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQblVCUFQwb0xLeHM5QVFnblktdE8zTmxHaWlFRFZES29wUm5KQXVOZVZpZnFhQURJandmYkQtZThSSXlNYzZxNUVFZ0NKQVZZRzk4ME5NT1NoVzRJNmdLbkduREY4MUl6b1M5aXRBLVlpc21SQW5YRUhEdDJrNmpfNGF0by1nOEhXYUNncDFXQzFxaS1SYUVfVjZibzBIX2hlbzhiaGVjNjVCcHpqdTY1dlNxQVg3TDV2Zi00NF9SYmI1OHRCOXVBU2ZXaE1QdHZST1lJaFRyQ2VNWlZhRG9rTU4xOG1nVjNFNjB3ZGhJLWpMMERleGRoX0RoUFhPWVhvai0zSVotN3pnRUlnZE5wMlJJSmNEbUh4bEFWUDFPOGxLUDVWTUtKUVFOdFBoWFpGb19xNmNUSnM5WGtrMnIyenFzNFg3Z2JyVkF1R2k2VkNpSDE4QzVjb3lfMEtvazFWSjBUVTRrTWl4a0hsRnFhUU9OQTg",
+        "time": "2026-05-19 20:22:18"
+      },
+      {
+        "title": "劉建國爭取成功！ 彈性育嬰假再升級 行政院正式拍板 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxONHJxXzJ4eWlvSmVsUzdFOU9uNVZaR3VHQ2lZOV95NjlZaEdxckc2YldtMjlDQXBpVmlEdDNfd2lQcjh3cUdSMHVFdnVRTElhaHlEWTRMY0NUTFlDNEpkekVqdGhXTFRLUDBabzVqd21laFA0RDItSTRyQnNDNDRNVDBSTExBZnNOb1UySmJXejhpOW5DcUZXWUx4ZDJNd0tFWTQ5ZkJtaUREQW9UWkJBYUZZb3VRX3RVajBzVkY1STRycjZUams4aWVJeUNvT3NZNEpydXFzWmk5SlhsZjluT0NnSnU3SUdOcmltUl9KZnd5aW9fVTdlbC1QLUFST0hVVS1lNVNaVnE3eDB2RTR3dC10WnVSX0VCWDJIbThPT1ljYnRZNTZFOGlxV3pDMGxWd2JQMkpzRHdrazByUE5pbmpWYkp1eS1mdERoV05JRkc0bEJnZURWVXplalc2RHB6NUItNjBUdG81MHJBa2JjYXlyVQ",
+        "time": "2026-05-19 14:23:02"
+      },
+      {
+        "title": "#爭取改善雲林39所公立幼兒園環境🏫 #未來不分公私立都給孩子最好的環境👧🧒 孩子的成長只有一次，教育與照顧，更不能等。 孩子的起跑點，不該因為城鄉而有差距。 嘉郡這次 #成功爭取6533萬元經費，#補助雲林39所公立幼兒園，投入園舍修繕、教學設備更新、戶外 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi5AdBVV95cUxOX3lnLXktT0JZSVMwMFBYYlhBc09sbXZPM0dqT3BjT3pKOHpHUnoteUxsTVRjXzVNRHFWT0Zwb3JpWGN0X1BnRVVlNk1zNHBfTVA5aDlJUVBnNDBMaVZON1QybWdHV1Rid3l2NDJhSzMtbXhiTk42ZDdBWVFmZFo4bnFlMkpEMlVuSHI1WE5kbm1ycWtaOEJfV0Rockc1UzV5cm9Kd1FoRlR6RWhkZXlxbUlJb3JDdmxOSkE4TF9kLWFiRVU3MDk2YUlYTW5rUzRvVTJjSDhpWkxyLVVwN1Azc3RxTWYyeUc2UXBiNHlORFVJanh1QW13UU1PM01MNDFrMTF4RE11dWZnVkJqZEdfVXhUQnQ3TmU5b25xV19VU3BFSlBlNDJqWHVtNVhXTGd0QTZtaFhqWE52MzN0NVYyRklLVC12SV9zcVNxOE9IMjByQkpTTkpuWEplR2RCOHdmeXZxUHI4OGJoTGZhZ2RsMWJLN0tiQ1UxX1cxblY3VUdTNXRTVktUWjZUbmV6bUNpTUVxUVlqWTEybEJIdFkxUGpyM2Y3N3JCbzE5MEdLZXRId2xzeXB0OGNaMlJOZV82cGJzRjdveExfR0lmVDdaWXFJZHcyX0YxZmx1d2N5M2tmc09Qb3NPTFpKNjBrVFl2Mm15RDBSaGx0YlBkZzVNdTRoSWlXTUJVSE1GcGRoSnpfaUFZaU5TYTBieFNxMFBOcFhqZFc1aUt4cHpCU09sUE1PS1RFNjNsb29NdnVLbk9YblZja1pzaG1mTkQ1MzFWY3A0OXBrWldjb1BfMDhiQUxmUUZuV0dEUmJaNjlqcldFOUppLVpiZm5uRlM3WG9CcEtyMVN3eWVHRnNDME5JblJ1VFB2NjRBYkVNMHBFOENEZTlEelQ2TDlvZkVmeS01QWVtb3FHMWJINk5WaWF3c0k3V1FlSHR4TlA4U0p4SkJWZzNxR3pyWmVmc01weEhZU3V1V0FySHo4OHV5OFpfOXZwR2gtR1RkejNwdzk5RXlEOWlZUG5pWUpfWHp1UU1wamZlYnV4ckxBUlVqdHJWRTdqNlpEbHlZLUpyRGZwc1FvMVdoVTI3TWh5TTIzZXJIVHRTWVB2aW5SR1JSbVBnRWY3dmE3NmZja1ItaGdJRm5qX0hUdFJLY1lfX2NIXzkzdlVQM1Y2eThvSVZXalhJTk5ESlJvSnJBM0Y2MVhUZF9YaDExVGwtQk9kYXc3VzFJR0gwMml2Y3VaM015dHE1OV9JMlQ2aC1PUWhaeDZHT211UTF2XzVFSjBjQmVfa05PNlo1RTdadFJVeXo1eXdUZ2xCNlo",
+        "time": "2026-05-19 09:49:50"
+      },
+      {
+        "title": "▌為台獨掀戰火！遭蔣萬安酸「很同情」 沈伯洋：欺瞞民眾 👉 https://reurl.cc/K2RYNm - 台北市長蔣萬安週一現身雲林，合體縣長參選人張嘉郡，說是考察但被外界解讀跨縣市輔選，更逮到機會用台獨議題酸沈伯洋說自己很同情他，因為民進黨的台獨初一十五不一樣，沈 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMilghBVV95cUxPcnZwVFFPQWpqOEZlc1dlOVlaN3FIV3VRQUZYc3RUcDljQlJtQ3VNT2xOa2YwaWRKaTZhbHZsaXc4SWp2Q196bTNKZkFOa3ZGRmZTM1FRdkswOHFSRDNuUktuc3RRdnRWM3NQNW0xbGlBS2xlLTNoTU96dWl2WEtXQnBJUEo5Z3p1UU91R0ZGZkY2NGxHY2ZuSHlhb0dhS0ZLQjJWaGg0LWdmcFNlZjRuekticG01VmtjQk1mNDBCVVJKeXNFOGZ1MWZqODdXaTVsRUg5MUxnQ3RxZzc1eDZncjNNdlRIeHI0cVJQbmxkcGxSMkdrMjF6eGk1LXBfa2RMaFVIVDhDYi1jSXJFVEdDQmk0TWhMSnA0T3ZWUUU1eWlxOFJ5NTZzSWhYM240Qk9wRHlLNFpUY1QydzJ1cGFuOTNLWXgzNTUtYWRaZW13V0tGWlAtUElPM3R6U1N1VWZvOS1Lc19pM0ZiYVBWcUxtb0h0YXdVMHpoMVRZX0NrQkVtNVNTb0RxU1h1djBzQWNOY0hiRUg0cHE5OTl3R0d2NjF3cTRUTHJkZ05rN3NrYzZYSmxVbEtZR2NPWVo5eXRwVndMd05RV3VXYXE5aUt2cEY1SkRCYnF1QnBLeTZ6b0t1eUtJSFQtTTdFZW9ZV0gtQUNWWUIwamFud09tYzdSZlZIZHdvdWdnTEpMNm9aYnBpZmVpWVpiSFNUUzVydldjUWdNRmYwbWVtS0o5LTZ2YmpnRm5qWkpiV2U2aEpDY3FLWUE5Z1lfaXpkd1V4X0RMazUzcmxSSENlYnEyQXMwTzZiOWxkd19yamo3UjA1TlJVR2wwZXBPbWhPWUc1OWx3OFQ3TXoxOVNrbjdhMm9hZnh2RW53RWwydmdadXgtRE9RUDg1elpEcnNadmVOMW9FVktBc01sOGxDQ3dOclNXc3pQbTE0blZoUU1EX3djQmx3bmlqTnJBRV9HTUpTZGo3cU1QTXJsT2wway1CbnlzeU9qTEppQ0FPd1VGZE5wSVRqVmpDbktzT3JfRFNzNTZ5LVg4VWhZcGtURW9hWU1DTTlzT3ZvUHJOU2Z0SzlnOWxoa3RxaUhmU0s4NFdLdUZrZF92NktTYWFCZDd3UU8tb3dsdVJoWmotYjIzdThad0lVWjQzVTZZY2o4bjJyZklDbWkzV1JjMVI5X3MzQWQ2Y256MW5pOW5rcUI2RXpVU0EwYXdhUjNtV0ZrS3d6MDdJbUFMREwxU1hVaEw0a1NSZ0s4U2tsbW5WQTljTmdTdW1DbW5uQ003UGtQODBzVkhNZWVvSjFfU0xSeHJYY0ZpdXJMb2ZCVTNTdklCYk8yZ2xHdjFaVEpMdDRFcXpIYWZVNFJaU09GM1IyQVBMbUVzR0kydEt3Zw",
+        "time": "2026-05-19 09:15:42"
+      }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 10
+      "count": 15
     },
     {
       "platform": "facebook",
@@ -374,33 +403,31 @@
     }
   ],
   "alias_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQblVCUFQwb0xLeHM5QVFnblktdE8zTmxHaWlFRFZES29wUm5KQXVOZVZpZnFhQURJandmYkQtZThSSXlNYzZxNUVFZ0NKQVZZRzk4ME5NT1NoVzRJNmdLbkduREY4MUl6b1M5aXRBLVlpc21SQW5YRUhEdDJrNmpfNGF0by1nOEhXYUNncDFXQzFxaS1SYUVfVjZibzBIX2hlbzhiaGVjNjVCcHpqdTY1dlNxQVg3TDV2Zi00NF9SYmI1OHRCOXVBU2ZXaE1QdHZST1lJaFRyQ2VNWlZhRG9rTU4xOG1nVjNFNjB3ZGhJLWpMMERleGRoX0RoUFhPWVhvai0zSVotN3pnRUlnZE5wMlJJSmNEbUh4bEFWUDFPOGxLUDVWTUtKUVFOdFBoWFpGb19xNmNUSnM5WGtrMnIyenFzNFg3Z2JyVkF1R2k2VkNpSDE4QzVjb3lfMEtvazFWSjBUVTRrTWl4a0hsRnFhUU9OQTg",
-        "time": "2026-05-19 20:22:18"
-      },
-      {
-        "title": "劉建國爭取成功！ 彈性育嬰假再升級 行政院正式拍板 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxONHJxXzJ4eWlvSmVsUzdFOU9uNVZaR3VHQ2lZOV95NjlZaEdxckc2YldtMjlDQXBpVmlEdDNfd2lQcjh3cUdSMHVFdnVRTElhaHlEWTRMY0NUTFlDNEpkekVqdGhXTFRLUDBabzVqd21laFA0RDItSTRyQnNDNDRNVDBSTExBZnNOb1UySmJXejhpOW5DcUZXWUx4ZDJNd0tFWTQ5ZkJtaUREQW9UWkJBYUZZb3VRX3RVajBzVkY1STRycjZUams4aWVJeUNvT3NZNEpydXFzWmk5SlhsZjluT0NnSnU3SUdOcmltUl9KZnd5aW9fVTdlbC1QLUFST0hVVS1lNVNaVnE3eDB2RTR3dC10WnVSX0VCWDJIbThPT1ljYnRZNTZFOGlxV3pDMGxWd2JQMkpzRHdrazByUE5pbmpWYkp1eS1mdERoV05JRkc0bEJnZURWVXplalc2RHB6NUItNjBUdG81MHJBa2JjYXlyVQ",
-        "time": "2026-05-19 14:23:02"
-      },
-      {
-        "title": "#爭取改善雲林39所公立幼兒園環境🏫 #未來不分公私立都給孩子最好的環境👧🧒 孩子的成長只有一次，教育與照顧，更不能等。 孩子的起跑點，不該因為城鄉而有差距。 嘉郡這次 #成功爭取6533萬元經費，#補助雲林39所公立幼兒園，投入園舍修繕、教學設備更新、戶外 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi5AdBVV95cUxOX3lnLXktT0JZSVMwMFBYYlhBc09sbXZPM0dqT3BjT3pKOHpHUnoteUxsTVRjXzVNRHFWT0Zwb3JpWGN0X1BnRVVlNk1zNHBfTVA5aDlJUVBnNDBMaVZON1QybWdHV1Rid3l2NDJhSzMtbXhiTk42ZDdBWVFmZFo4bnFlMkpEMlVuSHI1WE5kbm1ycWtaOEJfV0Rockc1UzV5cm9Kd1FoRlR6RWhkZXlxbUlJb3JDdmxOSkE4TF9kLWFiRVU3MDk2YUlYTW5rUzRvVTJjSDhpWkxyLVVwN1Azc3RxTWYyeUc2UXBiNHlORFVJanh1QW13UU1PM01MNDFrMTF4RE11dWZnVkJqZEdfVXhUQnQ3TmU5b25xV19VU3BFSlBlNDJqWHVtNVhXTGd0QTZtaFhqWE52MzN0NVYyRklLVC12SV9zcVNxOE9IMjByQkpTTkpuWEplR2RCOHdmeXZxUHI4OGJoTGZhZ2RsMWJLN0tiQ1UxX1cxblY3VUdTNXRTVktUWjZUbmV6bUNpTUVxUVlqWTEybEJIdFkxUGpyM2Y3N3JCbzE5MEdLZXRId2xzeXB0OGNaMlJOZV82cGJzRjdveExfR0lmVDdaWXFJZHcyX0YxZmx1d2N5M2tmc09Qb3NPTFpKNjBrVFl2Mm15RDBSaGx0YlBkZzVNdTRoSWlXTUJVSE1GcGRoSnpfaUFZaU5TYTBieFNxMFBOcFhqZFc1aUt4cHpCU09sUE1PS1RFNjNsb29NdnVLbk9YblZja1pzaG1mTkQ1MzFWY3A0OXBrWldjb1BfMDhiQUxmUUZuV0dEUmJaNjlqcldFOUppLVpiZm5uRlM3WG9CcEtyMVN3eWVHRnNDME5JblJ1VFB2NjRBYkVNMHBFOENEZTlEelQ2TDlvZkVmeS01QWVtb3FHMWJINk5WaWF3c0k3V1FlSHR4TlA4U0p4SkJWZzNxR3pyWmVmc01weEhZU3V1V0FySHo4OHV5OFpfOXZwR2gtR1RkejNwdzk5RXlEOWlZUG5pWUpfWHp1UU1wamZlYnV4ckxBUlVqdHJWRTdqNlpEbHlZLUpyRGZwc1FvMVdoVTI3TWh5TTIzZXJIVHRTWVB2aW5SR1JSbVBnRWY3dmE3NmZja1ItaGdJRm5qX0hUdFJLY1lfX2NIXzkzdlVQM1Y2eThvSVZXalhJTk5ESlJvSnJBM0Y2MVhUZF9YaDExVGwtQk9kYXc3VzFJR0gwMml2Y3VaM015dHE1OV9JMlQ2aC1PUWhaeDZHT211UTF2XzVFSjBjQmVfa05PNlo1RTdadFJVeXo1eXdUZ2xCNlo",
-        "time": "2026-05-19 09:49:50"
-      },
-      {
-        "title": "▌為台獨掀戰火！遭蔣萬安酸「很同情」 沈伯洋：欺瞞民眾 👉 https://reurl.cc/K2RYNm - 台北市長蔣萬安週一現身雲林，合體縣長參選人張嘉郡，說是考察但被外界解讀跨縣市輔選，更逮到機會用台獨議題酸沈伯洋說自己很同情他，因為民進黨的台獨初一十五不一樣，沈 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMilghBVV95cUxPcnZwVFFPQWpqOEZlc1dlOVlaN3FIV3VRQUZYc3RUcDljQlJtQ3VNT2xOa2YwaWRKaTZhbHZsaXc4SWp2Q196bTNKZkFOa3ZGRmZTM1FRdkswOHFSRDNuUktuc3RRdnRWM3NQNW0xbGlBS2xlLTNoTU96dWl2WEtXQnBJUEo5Z3p1UU91R0ZGZkY2NGxHY2ZuSHlhb0dhS0ZLQjJWaGg0LWdmcFNlZjRuekticG01VmtjQk1mNDBCVVJKeXNFOGZ1MWZqODdXaTVsRUg5MUxnQ3RxZzc1eDZncjNNdlRIeHI0cVJQbmxkcGxSMkdrMjF6eGk1LXBfa2RMaFVIVDhDYi1jSXJFVEdDQmk0TWhMSnA0T3ZWUUU1eWlxOFJ5NTZzSWhYM240Qk9wRHlLNFpUY1QydzJ1cGFuOTNLWXgzNTUtYWRaZW13V0tGWlAtUElPM3R6U1N1VWZvOS1Lc19pM0ZiYVBWcUxtb0h0YXdVMHpoMVRZX0NrQkVtNVNTb0RxU1h1djBzQWNOY0hiRUg0cHE5OTl3R0d2NjF3cTRUTHJkZ05rN3NrYzZYSmxVbEtZR2NPWVo5eXRwVndMd05RV3VXYXE5aUt2cEY1SkRCYnF1QnBLeTZ6b0t1eUtJSFQtTTdFZW9ZV0gtQUNWWUIwamFud09tYzdSZlZIZHdvdWdnTEpMNm9aYnBpZmVpWVpiSFNUUzVydldjUWdNRmYwbWVtS0o5LTZ2YmpnRm5qWkpiV2U2aEpDY3FLWUE5Z1lfaXpkd1V4X0RMazUzcmxSSENlYnEyQXMwTzZiOWxkd19yamo3UjA1TlJVR2wwZXBPbWhPWUc1OWx3OFQ3TXoxOVNrbjdhMm9hZnh2RW53RWwydmdadXgtRE9RUDg1elpEcnNadmVOMW9FVktBc01sOGxDQ3dOclNXc3pQbTE0blZoUU1EX3djQmx3bmlqTnJBRV9HTUpTZGo3cU1QTXJsT2wway1CbnlzeU9qTEppQ0FPd1VGZE5wSVRqVmpDbktzT3JfRFNzNTZ5LVg4VWhZcGtURW9hWU1DTTlzT3ZvUHJOU2Z0SzlnOWxoa3RxaUhmU0s4NFdLdUZrZF92NktTYWFCZDd3UU8tb3dsdVJoWmotYjIzdThad0lVWjQzVTZZY2o4bjJyZklDbWkzV1JjMVI5X3MzQWQ2Y256MW5pOW5rcUI2RXpVU0EwYXdhUjNtV0ZrS3d6MDdJbUFMREwxU1hVaEw0a1NSZ0s4U2tsbW5WQTljTmdTdW1DbW5uQ003UGtQODBzVkhNZWVvSjFfU0xSeHJYY0ZpdXJMb2ZCVTNTdklCYk8yZ2xHdjFaVEpMdDRFcXpIYWZVNFJaU09GM1IyQVBMbUVzR0kydEt3Zw",
-        "time": "2026-05-19 09:15:42"
-      }
-    ],
     "news": [
+      {
+        "title": "行政院拍板「彈性育嬰假」擴大適用至6歲前雲林立委劉建國感謝院長卓榮泰、勞動部長洪申翰支持新手爸媽！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHMXlOcEw2R0I0OE5NQ1Q0NERnWDU5Um5Ha1BtdnFndEQycGxlWXBBSEJZb0lXUkliSk1URUdlRmwxcTZtWVZVVkVjT2JyT0F2Z2lYb0o5NTBpOFBPRER5M2hKWmlOODZGaG5Z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 21:23:25"
+      },
+      {
+        "title": "劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQNHNfdGRjUHduWmlOeFI0Y0pYcldMRy1NSTdEZ2lLUzc5aGRSVXAxSWpkU1hRSnlrR0IxY2g3YXdVSlZCYWd3dVFjUHRxdllVVkszQWZ4WUJQYTBHYzJzVFpIOHgybWM3akY3Smsya1pIS3lSR0psVGJtVVhFUlFpal9xR2J0SFV2dkVNRlZ6aHRSbS1wbnVWcmpPOTNRMzMzR1JQQjJrSGViVXhjRkJFYzV3OGlSLTZNcUhWdGdidUxSRW1vR1kwd01BdVBPVkZrUEMxa2dmLXFrQTFCWENfVWZmQV80X19GQlNDUTJWcDROQnZXanpSTzVHVkxkMnVYam1vT0haT1BjQmFOX3BTYjlpODRKMjNTMXFYWkdOamFaa1YyOW8xM1N5NU9QanJ2N1pwNnJBNVhzX1ZFTU00NHBkaUlIUnJYTXdVdElaZ1BVcnZNd0xLZ25ScVdVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 20:19:14"
+      },
+      {
+        "title": "快新聞／劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuQlhQd1JLNGNGLWhTS1FZSkZVRmV0Z0JoekZYMU92NlNmd3IyTVVjYlhFRGZrR3VVTVhqaTJ4T3Jka3Zma3FiTTN5OExweEEwMlBGdXh4Tl8yblpJVDZPZg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 20:19:14"
+      },
       {
         "title": "因應美花生關稅挑戰 劉建國邀農業部赴雲林座談 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSDVWYkpFVWV6cHZ4T3dsVEEyTU9Wa2VHREVVTnp5OTY2dkdLVVFiZ1lNcXlVbWE1bWZYSWtIR3pvNzk1aU5JZGZTWlNrdDdGSi1LRWtfeWtaNHJCV2t5TXdNMUNiMk1kWXhFcnh3T1ZfcEt2cldWY2pCclg5emdTZUFvc3U1LTZ3N0tNTjBxeGN5RTM5ME9aU3BqOTZkUm02OVV1NERzclU1Yi1Kd181aXVjTjlpc2tRSDJLd3VmQzZPWkVKZ0dZdkw0NGVodko0YWFsaVYybnA5RGxzN0FJOGdTMnVtMlNXWF9TenVEXzc1elkwbmZyZU5oWE5KVmszQXVTcC1WTjQ1LUZtV0cxN2dxV0Y4UmRTdDUyUEM4N2ZEUTk1ZU9xdkdOREQ3QTNqYjlVd2VRTjc3bE5OcjM2NE14QUhPQnV5N0lULVVDVTI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-19 17:54:02"
+      },
+      {
+        "title": "政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝支持新手爸媽 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNM01mTTBSN0F6TGphcVh6MGE2by1ZdUdRYWRmcGFBbExZRzlPT0ZUaURJUVpwQjVZM0k0ekRhNjJNQXJZVmFSWVFTakxOcFl6MUxmd1VHUlJYZmR3SVVCOUpmN21iUHBud2JyQk1UMkZVYUpjeTdjUWJnWGlJZjU4Z2Fqd2pWWUs5bVdYclQ5b2VuN0ZEMmZOR19ISVg3WnZZdExFNHdMQTMtR1d5OExHS08tUXlEOXNGYUNtd1c4REV6ajlTOER5bkxON2kxMkRNN19JRFIwMkxnLXAxLXZ0Y0FFNVlkQzllN3loYlpOZFdnaHJWczhaZFBkN3lTSGpBVDFMZXRMenF3aWhWWUM1eWlOaXNGa2xENVpHX1FjTXQxMGZ1d3Fkem5ubmpSRUoxQ0lTWG40RWR5Ql83Z2tHN3Btc3JTWXVFS08yNmlZb28yWnNERlUtWnVIb3FSNnMycE5CR1ZTLXJ1Ry1NS2Frb1NNcEZZMTAzNy1IeVFIdmVkSklXZlNOVVZlcGV3WVdCUjFFOUhNTk9qd3Nu?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 17:52:36"
       },
       {
         "title": "行政院拍板彈性育嬰假擴大至6歲前 立委劉建國肯定政策升級：打造更友善育兒環境 - Yahoo新聞",
@@ -433,6 +460,11 @@
         "time": "2026-05-19 15:20:06"
       },
       {
+        "title": "劉建國爭取成功！彈性育嬰假再升級 行政院正式拍板 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQTF9pUC1OVWIzT2JUN05RSE9GOW45ME1wNjRqVjQtQUM5UVhSemstbmVlYTZFYzk0VFhfdlIxbUdGWWJlNFd3RE5FX1poWWF0NDNHSmQ5T2JNS2pCOTRETjB0bUlyVVNFSVZ5cXdma0F3bFlfMXlWQU1IeVFLTGtpSXZsZWtrREFVMnIxSnhEaGFpWW5OUG1DOHNWaXB2YkI1Z19zVUM1Vy1mazhhVGd1bXZlai0yZ21aaS1vQzlITEVVWjdqZXREeDZwcHRUekVWUEF4M0NCa1ZZNzhoM3hlRjdGWXF0MC0zNThVQWUzU296MkZ0U2d1WS1hUXJIM2NwdFZsSmlmcW5xRERKNWhlTDNLX1IxSUdoY0dmTndNcnpycFZHdHA5QzJqMnZYdFROaHN5eVdmcmJMYUpjVTc1TnQxRHF2WkdTT2dKZTQ5V0tnZjBJaTlXM1RXTkZLZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 14:46:17"
+      },
+      {
         "title": "快新聞／劉建國爭取成功！彈性育嬰假再升級 行政院正式拍板 - 民視新聞網",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mMGNoeUpzRmJKLV92dWV1dkMtTkxSUHlHSVYyakVHYXN3Q0FSck5VRlU4RFVmX05nRHN0S2IwbFA4RUtJSno3RzVLXzFxQnQ3UWRyUlEtMTJxSTlFZXpVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-19 14:18:58"
@@ -447,21 +479,63 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lUDdaLWN1ZzBDQm1tWDZHYXJ1SHdLTGVWLWNlY3RWYmxwbU1IbU9jRG9SMExMU2V6ZzBwYklFV0lDeDVuenBjMUNUbERxWnMtZ1lLWTduRWlEV19VVDktVmNJcDRhNFozUjRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-19 04:10:00"
       }
+    ],
+    "facebook": [
+      {
+        "title": "劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQblVCUFQwb0xLeHM5QVFnblktdE8zTmxHaWlFRFZES29wUm5KQXVOZVZpZnFhQURJandmYkQtZThSSXlNYzZxNUVFZ0NKQVZZRzk4ME5NT1NoVzRJNmdLbkduREY4MUl6b1M5aXRBLVlpc21SQW5YRUhEdDJrNmpfNGF0by1nOEhXYUNncDFXQzFxaS1SYUVfVjZibzBIX2hlbzhiaGVjNjVCcHpqdTY1dlNxQVg3TDV2Zi00NF9SYmI1OHRCOXVBU2ZXaE1QdHZST1lJaFRyQ2VNWlZhRG9rTU4xOG1nVjNFNjB3ZGhJLWpMMERleGRoX0RoUFhPWVhvai0zSVotN3pnRUlnZE5wMlJJSmNEbUh4bEFWUDFPOGxLUDVWTUtKUVFOdFBoWFpGb19xNmNUSnM5WGtrMnIyenFzNFg3Z2JyVkF1R2k2VkNpSDE4QzVjb3lfMEtvazFWSjBUVTRrTWl4a0hsRnFhUU9OQTg",
+        "time": "2026-05-19 20:22:18"
+      },
+      {
+        "title": "劉建國爭取成功！ 彈性育嬰假再升級 行政院正式拍板 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxONHJxXzJ4eWlvSmVsUzdFOU9uNVZaR3VHQ2lZOV95NjlZaEdxckc2YldtMjlDQXBpVmlEdDNfd2lQcjh3cUdSMHVFdnVRTElhaHlEWTRMY0NUTFlDNEpkekVqdGhXTFRLUDBabzVqd21laFA0RDItSTRyQnNDNDRNVDBSTExBZnNOb1UySmJXejhpOW5DcUZXWUx4ZDJNd0tFWTQ5ZkJtaUREQW9UWkJBYUZZb3VRX3RVajBzVkY1STRycjZUams4aWVJeUNvT3NZNEpydXFzWmk5SlhsZjluT0NnSnU3SUdOcmltUl9KZnd5aW9fVTdlbC1QLUFST0hVVS1lNVNaVnE3eDB2RTR3dC10WnVSX0VCWDJIbThPT1ljYnRZNTZFOGlxV3pDMGxWd2JQMkpzRHdrazByUE5pbmpWYkp1eS1mdERoV05JRkc0bEJnZURWVXplalc2RHB6NUItNjBUdG81MHJBa2JjYXlyVQ",
+        "time": "2026-05-19 14:23:02"
+      },
+      {
+        "title": "#爭取改善雲林39所公立幼兒園環境🏫 #未來不分公私立都給孩子最好的環境👧🧒 孩子的成長只有一次，教育與照顧，更不能等。 孩子的起跑點，不該因為城鄉而有差距。 嘉郡這次 #成功爭取6533萬元經費，#補助雲林39所公立幼兒園，投入園舍修繕、教學設備更新、戶外 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi5AdBVV95cUxOX3lnLXktT0JZSVMwMFBYYlhBc09sbXZPM0dqT3BjT3pKOHpHUnoteUxsTVRjXzVNRHFWT0Zwb3JpWGN0X1BnRVVlNk1zNHBfTVA5aDlJUVBnNDBMaVZON1QybWdHV1Rid3l2NDJhSzMtbXhiTk42ZDdBWVFmZFo4bnFlMkpEMlVuSHI1WE5kbm1ycWtaOEJfV0Rockc1UzV5cm9Kd1FoRlR6RWhkZXlxbUlJb3JDdmxOSkE4TF9kLWFiRVU3MDk2YUlYTW5rUzRvVTJjSDhpWkxyLVVwN1Azc3RxTWYyeUc2UXBiNHlORFVJanh1QW13UU1PM01MNDFrMTF4RE11dWZnVkJqZEdfVXhUQnQ3TmU5b25xV19VU3BFSlBlNDJqWHVtNVhXTGd0QTZtaFhqWE52MzN0NVYyRklLVC12SV9zcVNxOE9IMjByQkpTTkpuWEplR2RCOHdmeXZxUHI4OGJoTGZhZ2RsMWJLN0tiQ1UxX1cxblY3VUdTNXRTVktUWjZUbmV6bUNpTUVxUVlqWTEybEJIdFkxUGpyM2Y3N3JCbzE5MEdLZXRId2xzeXB0OGNaMlJOZV82cGJzRjdveExfR0lmVDdaWXFJZHcyX0YxZmx1d2N5M2tmc09Qb3NPTFpKNjBrVFl2Mm15RDBSaGx0YlBkZzVNdTRoSWlXTUJVSE1GcGRoSnpfaUFZaU5TYTBieFNxMFBOcFhqZFc1aUt4cHpCU09sUE1PS1RFNjNsb29NdnVLbk9YblZja1pzaG1mTkQ1MzFWY3A0OXBrWldjb1BfMDhiQUxmUUZuV0dEUmJaNjlqcldFOUppLVpiZm5uRlM3WG9CcEtyMVN3eWVHRnNDME5JblJ1VFB2NjRBYkVNMHBFOENEZTlEelQ2TDlvZkVmeS01QWVtb3FHMWJINk5WaWF3c0k3V1FlSHR4TlA4U0p4SkJWZzNxR3pyWmVmc01weEhZU3V1V0FySHo4OHV5OFpfOXZwR2gtR1RkejNwdzk5RXlEOWlZUG5pWUpfWHp1UU1wamZlYnV4ckxBUlVqdHJWRTdqNlpEbHlZLUpyRGZwc1FvMVdoVTI3TWh5TTIzZXJIVHRTWVB2aW5SR1JSbVBnRWY3dmE3NmZja1ItaGdJRm5qX0hUdFJLY1lfX2NIXzkzdlVQM1Y2eThvSVZXalhJTk5ESlJvSnJBM0Y2MVhUZF9YaDExVGwtQk9kYXc3VzFJR0gwMml2Y3VaM015dHE1OV9JMlQ2aC1PUWhaeDZHT211UTF2XzVFSjBjQmVfa05PNlo1RTdadFJVeXo1eXdUZ2xCNlo",
+        "time": "2026-05-19 09:49:50"
+      },
+      {
+        "title": "▌為台獨掀戰火！遭蔣萬安酸「很同情」 沈伯洋：欺瞞民眾 👉 https://reurl.cc/K2RYNm - 台北市長蔣萬安週一現身雲林，合體縣長參選人張嘉郡，說是考察但被外界解讀跨縣市輔選，更逮到機會用台獨議題酸沈伯洋說自己很同情他，因為民進黨的台獨初一十五不一樣，沈 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMilghBVV95cUxPcnZwVFFPQWpqOEZlc1dlOVlaN3FIV3VRQUZYc3RUcDljQlJtQ3VNT2xOa2YwaWRKaTZhbHZsaXc4SWp2Q196bTNKZkFOa3ZGRmZTM1FRdkswOHFSRDNuUktuc3RRdnRWM3NQNW0xbGlBS2xlLTNoTU96dWl2WEtXQnBJUEo5Z3p1UU91R0ZGZkY2NGxHY2ZuSHlhb0dhS0ZLQjJWaGg0LWdmcFNlZjRuekticG01VmtjQk1mNDBCVVJKeXNFOGZ1MWZqODdXaTVsRUg5MUxnQ3RxZzc1eDZncjNNdlRIeHI0cVJQbmxkcGxSMkdrMjF6eGk1LXBfa2RMaFVIVDhDYi1jSXJFVEdDQmk0TWhMSnA0T3ZWUUU1eWlxOFJ5NTZzSWhYM240Qk9wRHlLNFpUY1QydzJ1cGFuOTNLWXgzNTUtYWRaZW13V0tGWlAtUElPM3R6U1N1VWZvOS1Lc19pM0ZiYVBWcUxtb0h0YXdVMHpoMVRZX0NrQkVtNVNTb0RxU1h1djBzQWNOY0hiRUg0cHE5OTl3R0d2NjF3cTRUTHJkZ05rN3NrYzZYSmxVbEtZR2NPWVo5eXRwVndMd05RV3VXYXE5aUt2cEY1SkRCYnF1QnBLeTZ6b0t1eUtJSFQtTTdFZW9ZV0gtQUNWWUIwamFud09tYzdSZlZIZHdvdWdnTEpMNm9aYnBpZmVpWVpiSFNUUzVydldjUWdNRmYwbWVtS0o5LTZ2YmpnRm5qWkpiV2U2aEpDY3FLWUE5Z1lfaXpkd1V4X0RMazUzcmxSSENlYnEyQXMwTzZiOWxkd19yamo3UjA1TlJVR2wwZXBPbWhPWUc1OWx3OFQ3TXoxOVNrbjdhMm9hZnh2RW53RWwydmdadXgtRE9RUDg1elpEcnNadmVOMW9FVktBc01sOGxDQ3dOclNXc3pQbTE0blZoUU1EX3djQmx3bmlqTnJBRV9HTUpTZGo3cU1QTXJsT2wway1CbnlzeU9qTEppQ0FPd1VGZE5wSVRqVmpDbktzT3JfRFNzNTZ5LVg4VWhZcGtURW9hWU1DTTlzT3ZvUHJOU2Z0SzlnOWxoa3RxaUhmU0s4NFdLdUZrZF92NktTYWFCZDd3UU8tb3dsdVJoWmotYjIzdThad0lVWjQzVTZZY2o4bjJyZklDbWkzV1JjMVI5X3MzQWQ2Y256MW5pOW5rcUI2RXpVU0EwYXdhUjNtV0ZrS3d6MDdJbUFMREwxU1hVaEw0a1NSZ0s4U2tsbW5WQTljTmdTdW1DbW5uQ003UGtQODBzVkhNZWVvSjFfU0xSeHJYY0ZpdXJMb2ZCVTNTdklCYk8yZ2xHdjFaVEpMdDRFcXpIYWZVNFJaU09GM1IyQVBMbUVzR0kydEt3Zw",
+        "time": "2026-05-19 09:15:42"
+      }
     ]
   },
   "mention_compare_24h": {
     "張嘉郡": 4,
-    "劉建國": 10
+    "劉建國": 15
   },
   "mention_compare_7d": {
-    "張嘉郡": 28,
-    "劉建國": 46
+    "張嘉郡": 27,
+    "劉建國": 51
   },
   "top_news": [
+    {
+      "title": "行政院拍板「彈性育嬰假」擴大適用至6歲前雲林立委劉建國感謝院長卓榮泰、勞動部長洪申翰支持新手爸媽！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHMXlOcEw2R0I0OE5NQ1Q0NERnWDU5Um5Ha1BtdnFndEQycGxlWXBBSEJZb0lXUkliSk1URUdlRmwxcTZtWVZVVkVjT2JyT0F2Z2lYb0o5NTBpOFBPRER5M2hKWmlOODZGaG5Z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-19 21:23:25"
+    },
+    {
+      "title": "劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQNHNfdGRjUHduWmlOeFI0Y0pYcldMRy1NSTdEZ2lLUzc5aGRSVXAxSWpkU1hRSnlrR0IxY2g3YXdVSlZCYWd3dVFjUHRxdllVVkszQWZ4WUJQYTBHYzJzVFpIOHgybWM3akY3Smsya1pIS3lSR0psVGJtVVhFUlFpal9xR2J0SFV2dkVNRlZ6aHRSbS1wbnVWcmpPOTNRMzMzR1JQQjJrSGViVXhjRkJFYzV3OGlSLTZNcUhWdGdidUxSRW1vR1kwd01BdVBPVkZrUEMxa2dmLXFrQTFCWENfVWZmQV80X19GQlNDUTJWcDROQnZXanpSTzVHVkxkMnVYam1vT0haT1BjQmFOX3BTYjlpODRKMjNTMXFYWkdOamFaa1YyOW8xM1N5NU9QanJ2N1pwNnJBNVhzX1ZFTU00NHBkaUlIUnJYTXdVdElaZ1BVcnZNd0xLZ25ScVdVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-19 20:19:14"
+    },
+    {
+      "title": "快新聞／劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuQlhQd1JLNGNGLWhTS1FZSkZVRmV0Z0JoekZYMU92NlNmd3IyTVVjYlhFRGZrR3VVTVhqaTJ4T3Jka3Zma3FiTTN5OExweEEwMlBGdXh4Tl8yblpJVDZPZg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-19 20:19:14"
+    },
     {
       "title": "因應美花生關稅挑戰 劉建國邀農業部赴雲林座談 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSDVWYkpFVWV6cHZ4T3dsVEEyTU9Wa2VHREVVTnp5OTY2dkdLVVFiZ1lNcXlVbWE1bWZYSWtIR3pvNzk1aU5JZGZTWlNrdDdGSi1LRWtfeWtaNHJCV2t5TXdNMUNiMk1kWXhFcnh3T1ZfcEt2cldWY2pCclg5emdTZUFvc3U1LTZ3N0tNTjBxeGN5RTM5ME9aU3BqOTZkUm02OVV1NERzclU1Yi1Kd181aXVjTjlpc2tRSDJLd3VmQzZPWkVKZ0dZdkw0NGVodko0YWFsaVYybnA5RGxzN0FJOGdTMnVtMlNXWF9TenVEXzc1elkwbmZyZU5oWE5KVmszQXVTcC1WTjQ1LUZtV0cxN2dxV0Y4UmRTdDUyUEM4N2ZEUTk1ZU9xdkdOREQ3QTNqYjlVd2VRTjc3bE5OcjM2NE14QUhPQnV5N0lULVVDVTI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-19 17:54:02"
+    },
+    {
+      "title": "政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝支持新手爸媽 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNM01mTTBSN0F6TGphcVh6MGE2by1ZdUdRYWRmcGFBbExZRzlPT0ZUaURJUVpwQjVZM0k0ekRhNjJNQXJZVmFSWVFTakxOcFl6MUxmd1VHUlJYZmR3SVVCOUpmN21iUHBud2JyQk1UMkZVYUpjeTdjUWJnWGlJZjU4Z2Fqd2pWWUs5bVdYclQ5b2VuN0ZEMmZOR19ISVg3WnZZdExFNHdMQTMtR1d5OExHS08tUXlEOXNGYUNtd1c4REV6ajlTOER5bkxON2kxMkRNN19JRFIwMkxnLXAxLXZ0Y0FFNVlkQzllN3loYlpOZFdnaHJWczhaZFBkN3lTSGpBVDFMZXRMenF3aWhWWUM1eWlOaXNGa2xENVpHX1FjTXQxMGZ1d3Fkem5ubmpSRUoxQ0lTWG40RWR5Ql83Z2tHN3Btc3JTWXVFS08yNmlZb28yWnNERlUtWnVIb3FSNnMycE5CR1ZTLXJ1Ry1NS2Frb1NNcEZZMTAzNy1IeVFIdmVkSklXZlNOVVZlcGV3WVdCUjFFOUhNTk9qd3Nu?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-19 17:52:36"
     },
     {
       "title": "行政院拍板彈性育嬰假擴大至6歲前 立委劉建國肯定政策升級：打造更友善育兒環境 - Yahoo新聞",
@@ -497,28 +571,33 @@
       "title": "行政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝卓榮泰、洪申翰支持新手爸媽 - 觀傳媒",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBock9WVjF5WUVGdU1hOGRnTGc5S0prZFJpSlFVSERLQzVwNGN1R3lDUG83M2hxNTRTWWVIWFRlWU52VGgtbUNhdjh0WXdnWU5tc2FYN3VjOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-19 15:20:06"
-    },
-    {
-      "title": "快新聞／劉建國爭取成功！彈性育嬰假再升級 行政院正式拍板 - 民視新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mMGNoeUpzRmJKLV92dWV1dkMtTkxSUHlHSVYyakVHYXN3Q0FSck5VRlU4RFVmX05nRHN0S2IwbFA4RUtJSno3RzVLXzFxQnQ3UWRyUlEtMTJxSTlFZXpVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-19 14:18:58"
-    },
-    {
-      "title": "雲林 蔣萬安參訪 合體張嘉郡包粽 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOa1RKMTgza055d1JwRktTbThWLUdVSEZJXzg5dGlNbUprTl9TRk9mRjUzYVM1MmJqbU9yWlVxUUxrT01XTDd2VjEtRFlGSnFrbWc3YUtiMzFCUy1TZWNiTWJSQUk3NWpTYi1ablJQd2RvdHFqdGM3Ql9ueGpjeVkyY0VvMklvWk1GV0RBT0xBLU5wY0llVVJabFNYd0pHcG9Wc09vRzE0VlZCNUZxVlFiVUI0UHBUdml6M0k0OHh6WmxZLVR2bXB1MGl5X3FWTDNrWjUxek5JcVN6ZjdLM0Y0SDI3UjdidGdKS3g4SC1IdTVyUndyRnpodTYtNFNCZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-19 04:10:00"
-    },
-    {
-      "title": "雲林 蔣萬安參訪 合體張嘉郡包粽 - 中時新聞網",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lUDdaLWN1ZzBDQm1tWDZHYXJ1SHdLTGVWLWNlY3RWYmxwbU1IbU9jRG9SMExMU2V6ZzBwYklFV0lDeDVuenBjMUNUbERxWnMtZ1lLWTduRWlEV19VVDktVmNJcDRhNFozUjRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-19 04:10:00"
     }
   ],
   "top_news_7d": [
     {
+      "title": "行政院拍板「彈性育嬰假」擴大適用至6歲前雲林立委劉建國感謝院長卓榮泰、勞動部長洪申翰支持新手爸媽！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHMXlOcEw2R0I0OE5NQ1Q0NERnWDU5Um5Ha1BtdnFndEQycGxlWXBBSEJZb0lXUkliSk1URUdlRmwxcTZtWVZVVkVjT2JyT0F2Z2lYb0o5NTBpOFBPRER5M2hKWmlOODZGaG5Z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-19 21:23:25"
+    },
+    {
+      "title": "劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQNHNfdGRjUHduWmlOeFI0Y0pYcldMRy1NSTdEZ2lLUzc5aGRSVXAxSWpkU1hRSnlrR0IxY2g3YXdVSlZCYWd3dVFjUHRxdllVVkszQWZ4WUJQYTBHYzJzVFpIOHgybWM3akY3Smsya1pIS3lSR0psVGJtVVhFUlFpal9xR2J0SFV2dkVNRlZ6aHRSbS1wbnVWcmpPOTNRMzMzR1JQQjJrSGViVXhjRkJFYzV3OGlSLTZNcUhWdGdidUxSRW1vR1kwd01BdVBPVkZrUEMxa2dmLXFrQTFCWENfVWZmQV80X19GQlNDUTJWcDROQnZXanpSTzVHVkxkMnVYam1vT0haT1BjQmFOX3BTYjlpODRKMjNTMXFYWkdOamFaa1YyOW8xM1N5NU9QanJ2N1pwNnJBNVhzX1ZFTU00NHBkaUlIUnJYTXdVdElaZ1BVcnZNd0xLZ25ScVdVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-19 20:19:14"
+    },
+    {
+      "title": "快新聞／劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuQlhQd1JLNGNGLWhTS1FZSkZVRmV0Z0JoekZYMU92NlNmd3IyTVVjYlhFRGZrR3VVTVhqaTJ4T3Jka3Zma3FiTTN5OExweEEwMlBGdXh4Tl8yblpJVDZPZg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-19 20:19:14"
+    },
+    {
       "title": "因應美花生關稅挑戰 劉建國邀農業部赴雲林座談 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSDVWYkpFVWV6cHZ4T3dsVEEyTU9Wa2VHREVVTnp5OTY2dkdLVVFiZ1lNcXlVbWE1bWZYSWtIR3pvNzk1aU5JZGZTWlNrdDdGSi1LRWtfeWtaNHJCV2t5TXdNMUNiMk1kWXhFcnh3T1ZfcEt2cldWY2pCclg5emdTZUFvc3U1LTZ3N0tNTjBxeGN5RTM5ME9aU3BqOTZkUm02OVV1NERzclU1Yi1Kd181aXVjTjlpc2tRSDJLd3VmQzZPWkVKZ0dZdkw0NGVodko0YWFsaVYybnA5RGxzN0FJOGdTMnVtMlNXWF9TenVEXzc1elkwbmZyZU5oWE5KVmszQXVTcC1WTjQ1LUZtV0cxN2dxV0Y4UmRTdDUyUEM4N2ZEUTk1ZU9xdkdOREQ3QTNqYjlVd2VRTjc3bE5OcjM2NE14QUhPQnV5N0lULVVDVTI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-19 17:54:02"
+    },
+    {
+      "title": "政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝支持新手爸媽 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNM01mTTBSN0F6TGphcVh6MGE2by1ZdUdRYWRmcGFBbExZRzlPT0ZUaURJUVpwQjVZM0k0ekRhNjJNQXJZVmFSWVFTakxOcFl6MUxmd1VHUlJYZmR3SVVCOUpmN21iUHBud2JyQk1UMkZVYUpjeTdjUWJnWGlJZjU4Z2Fqd2pWWUs5bVdYclQ5b2VuN0ZEMmZOR19ISVg3WnZZdExFNHdMQTMtR1d5OExHS08tUXlEOXNGYUNtd1c4REV6ajlTOER5bkxON2kxMkRNN19JRFIwMkxnLXAxLXZ0Y0FFNVlkQzllN3loYlpOZFdnaHJWczhaZFBkN3lTSGpBVDFMZXRMenF3aWhWWUM1eWlOaXNGa2xENVpHX1FjTXQxMGZ1d3Fkem5ubmpSRUoxQ0lTWG40RWR5Ql83Z2tHN3Btc3JTWXVFS08yNmlZb28yWnNERlUtWnVIb3FSNnMycE5CR1ZTLXJ1Ry1NS2Frb1NNcEZZMTAzNy1IeVFIdmVkSklXZlNOVVZlcGV3WVdCUjFFOUhNTk9qd3Nu?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-19 17:52:36"
     },
     {
       "title": "行政院拍板彈性育嬰假擴大至6歲前 立委劉建國肯定政策升級：打造更友善育兒環境 - Yahoo新聞",
@@ -554,6 +633,11 @@
       "title": "行政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝卓榮泰、洪申翰支持新手爸媽 - 觀傳媒",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBock9WVjF5WUVGdU1hOGRnTGc5S0prZFJpSlFVSERLQzVwNGN1R3lDUG83M2hxNTRTWWVIWFRlWU52VGgtbUNhdjh0WXdnWU5tc2FYN3VjOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-19 15:20:06"
+    },
+    {
+      "title": "劉建國爭取成功！彈性育嬰假再升級 行政院正式拍板 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQTF9pUC1OVWIzT2JUN05RSE9GOW45ME1wNjRqVjQtQUM5UVhSemstbmVlYTZFYzk0VFhfdlIxbUdGWWJlNFd3RE5FX1poWWF0NDNHSmQ5T2JNS2pCOTRETjB0bUlyVVNFSVZ5cXdma0F3bFlfMXlWQU1IeVFLTGtpSXZsZWtrREFVMnIxSnhEaGFpWW5OUG1DOHNWaXB2YkI1Z19zVUM1Vy1mazhhVGd1bXZlai0yZ21aaS1vQzlITEVVWjdqZXREeDZwcHRUekVWUEF4M0NCa1ZZNzhoM3hlRjdGWXF0MC0zNThVQWUzU296MkZ0U2d1WS1hUXJIM2NwdFZsSmlmcW5xRERKNWhlTDNLX1IxSUdoY0dmTndNcnpycFZHdHA5QzJqMnZYdFROaHN5eVdmcmJMYUpjVTc1TnQxRHF2WkdTT2dKZTQ5V0tnZjBJaTlXM1RXTkZLZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-19 14:46:17"
     },
     {
       "title": "快新聞／劉建國爭取成功！彈性育嬰假再升級 行政院正式拍板 - 民視新聞網",
@@ -589,31 +673,6 @@
       "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」創雙贏 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNenh4Q0lTYjI2cXlKWUxQVk1mdzF6V3FIYVdCcW9MblJzUWNQRmRnOXJ5a0pPSTFtZWJ4bmpCSkNvcGhyWW1pb0NjM0R0bFE4eTVXUlN3VmxKMk5famN2dUcxY1RMS1luWU1IeEp3aEVMQUlXU0ZRVFJ2MS00UVc0TTR2SzMtT2xxdmN0M21qWW1zbWxnSUVFQ1I5S1NGT1pBZ2xMR2VSbFVFVS0xYzJqZDh5Mnk4X1JCSjRfWm51WlZuM2xTeEF1VnYxa2VoVFV4S0hUbEFZYkpwRXl1Ny1FV0FvYWFPckphNmhIRnF1cDdJdm5TWVBYMEYzX2ZMcnlKNEdmUmtwMHBPN0piSHZWYUpJaVhSa3E5SHB5ekZwUUtfdURSQ0VaTDRCSmU1VFNQZjVZRmpCNkpwSkR3ZXdMdC1xb29aajA3dDFQS0xUa2hYektRaGxOYkhLM1QyZFFEbDVGeHpvV1FYZVFSX0c2b0o0R2JfM2drckphX05jeWNNUUswNzRhM3VrT1Z5SnUxSDVVS1pPYkhhQXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-18 16:18:51"
-    },
-    {
-      "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」 創雙贏 - 匯流新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SOGpvTkR0WTV1eUtXU0dkdlNqV0loT3Fsb3h3d1ZmcDVmZjlTRDIzX1pxV0t6YTlvMHg0aHgxRjZIdWVwSlN2VWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-18 16:18:51"
-    },
-    {
-      "title": "蔣萬安參訪雲林農漁產 張嘉郡包粽子大喊「大家都包中」 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQVFpBRlNPbW5DRjZsbGZrZ3cxZHg2RGktaDNjYV9LS0d3MDk1QnVJalVzRVFIaHhCeGphVlZoWDdGekNHQnhyZ1JqSmJETDltRXQxVE9hRjZPa2s4ZTRRbXg2STlRUjRVTW9wd1ZzLTJFZ2ZlN0pGanAxNldrQklmQkpLQkN0aHlHNjF3b2RJUlNWUnFuQW5vRWJCRTZvblFHd0tDV1N5ZTcwMUJYcUFWcVFvbHlkdXMzX1NXSmQtcDhLYXEtX0pWUWl3SlFYTWpJZHdQOVFJSkd0M0Ixc0lyNi1UNmVQSWZaRG5kdmlfbkJ2Mnk3UElrTjliZjB0RDFmU2x0Y1NteVEtQ1N2czhraWE5RnJhWmNNaXhmcE5xODhkNjk5UDZYSHZWREFEVjF4RDZMUENhZTA2Qk94dGxCSHdRVlpkYkx3MVVSeFZTdnloRmVjMk0wWFFjMlExWmUybF9SclZCWndINEp1WTB1VnZWSmh5X2JW?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-18 15:49:29"
-    },
-    {
-      "title": "行政院十九日正式宣布推動「零到十八歲全程支持計畫」 劉建國：感謝卓榮泰、洪申翰 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOZnZ6Q3NPOTVHVUV1YTY5Vm1GdG95YmY3SjBCY0RNbVhsMXRqbkFKWk5TZncydzB5cDhPbkZHUTREOFRCZ0FLanFBMjUwYzlVRkExOHNmTER2OFlaZFNJU1RXeU8tOWNfYS1kZmhPMVljcVNvQmg3bmZkZXlvX3hSai1BS25odlVBSEFITGE5X0tWcmZJeXNNWmdESGZYVVNCcTRIdERrd3pwVElZRExmRHowWXpScjE5cnljOTYybXFPMHc0bW1SbDRSNDd1Q1JmbFpTZmZQUWhSRW1ZR3FLWmg4ZXR4OWsyWDlNT19hRjRTQ2NocFZNcmFWQ3FvZTBmYW9iQlcwUzV3RUw1ZXlNLWlCQjI2YWM2UzBVaWd5TVhpNVA0ck1Dc21jTnp1SXlBRDBYNWFNNER4TFdGYTBzSURVdmhaanJVeDdmOElBRlNRdmNTU2lkaHFHX1MzMlFkcWdUb2VsVXRxbkpSM0NCdHh5SVBtNFFQUUJXZ2w3SW04d3VQZkpMd1kxN0hMRkVHRnl2U25HcHREbWtISWNnQ3k3ZGRFckhuZDR5TmJxVzNzVFk0ZzlZQ0tvUi1WWklTWHU5WWEyRFkyc09QNmhsaDRxYzRwZFFqRXNjby1vZ2stQlZFXy1LeVFPcUZYbnBj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-18 15:00:00"
-    },
-    {
-      "title": "蔣萬安南下參訪農漁產　張嘉郡盼台北、雲林合作創雙贏 - NOWnews今日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iXzV2Y25QQ1dWZzBSV0lCd1l3YzR4dzlvc3ZON1pUOVE5XzhMNXNUaVUzZEtvemNQYlFwcjNRX1d1Wkp1SWNzMWhOSUHSAVJBVV95cUxON0RaTWdfWXVrbVF2eERKTUg3STA4S0V3eDRfYkp0ZERqU0R4VjJnUkZSU0VCUUFXRmpncUFNNHM4Z2MzT3hvdmZuR2VBc3M2XzJ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-18 14:38:20"
-    },
-    {
-      "title": "張麗善、張嘉郡全程緊跟 蔣萬安臨時加開雲林行程遭疑輔選 - 壹電視",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLU4xTEQwOEhZa0ZpdzF1VWxYRWc0RDY4OUFYZ1ZJeUM2VGlQUGs2dzBSaDM2b2hhQ1lmN1d2ejhOdDBHZmdLcE1KS1hUNmlvaVo2UC03SWVjS0xyRHg1cEo2UkZjQkdMZDFocng1amZjUGYzTmZrMGlGNUJTSHJneA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-18 13:59:26"
     }
   ],
   "latest_facebook_20": [
@@ -720,9 +779,29 @@
   ],
   "latest_news_20": [
     {
+      "title": "行政院拍板「彈性育嬰假」擴大適用至6歲前雲林立委劉建國感謝院長卓榮泰、勞動部長洪申翰支持新手爸媽！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHMXlOcEw2R0I0OE5NQ1Q0NERnWDU5Um5Ha1BtdnFndEQycGxlWXBBSEJZb0lXUkliSk1URUdlRmwxcTZtWVZVVkVjT2JyT0F2Z2lYb0o5NTBpOFBPRER5M2hKWmlOODZGaG5Z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-19 21:23:25"
+    },
+    {
+      "title": "劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQNHNfdGRjUHduWmlOeFI0Y0pYcldMRy1NSTdEZ2lLUzc5aGRSVXAxSWpkU1hRSnlrR0IxY2g3YXdVSlZCYWd3dVFjUHRxdllVVkszQWZ4WUJQYTBHYzJzVFpIOHgybWM3akY3Smsya1pIS3lSR0psVGJtVVhFUlFpal9xR2J0SFV2dkVNRlZ6aHRSbS1wbnVWcmpPOTNRMzMzR1JQQjJrSGViVXhjRkJFYzV3OGlSLTZNcUhWdGdidUxSRW1vR1kwd01BdVBPVkZrUEMxa2dmLXFrQTFCWENfVWZmQV80X19GQlNDUTJWcDROQnZXanpSTzVHVkxkMnVYam1vT0haT1BjQmFOX3BTYjlpODRKMjNTMXFYWkdOamFaa1YyOW8xM1N5NU9QanJ2N1pwNnJBNVhzX1ZFTU00NHBkaUlIUnJYTXdVdElaZ1BVcnZNd0xLZ25ScVdVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-19 20:19:14"
+    },
+    {
+      "title": "快新聞／劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuQlhQd1JLNGNGLWhTS1FZSkZVRmV0Z0JoekZYMU92NlNmd3IyTVVjYlhFRGZrR3VVTVhqaTJ4T3Jka3Zma3FiTTN5OExweEEwMlBGdXh4Tl8yblpJVDZPZg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-19 20:19:14"
+    },
+    {
       "title": "因應美花生關稅挑戰 劉建國邀農業部赴雲林座談 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSDVWYkpFVWV6cHZ4T3dsVEEyTU9Wa2VHREVVTnp5OTY2dkdLVVFiZ1lNcXlVbWE1bWZYSWtIR3pvNzk1aU5JZGZTWlNrdDdGSi1LRWtfeWtaNHJCV2t5TXdNMUNiMk1kWXhFcnh3T1ZfcEt2cldWY2pCclg5emdTZUFvc3U1LTZ3N0tNTjBxeGN5RTM5ME9aU3BqOTZkUm02OVV1NERzclU1Yi1Kd181aXVjTjlpc2tRSDJLd3VmQzZPWkVKZ0dZdkw0NGVodko0YWFsaVYybnA5RGxzN0FJOGdTMnVtMlNXWF9TenVEXzc1elkwbmZyZU5oWE5KVmszQXVTcC1WTjQ1LUZtV0cxN2dxV0Y4UmRTdDUyUEM4N2ZEUTk1ZU9xdkdOREQ3QTNqYjlVd2VRTjc3bE5OcjM2NE14QUhPQnV5N0lULVVDVTI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-19 17:54:02"
+    },
+    {
+      "title": "政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝支持新手爸媽 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNM01mTTBSN0F6TGphcVh6MGE2by1ZdUdRYWRmcGFBbExZRzlPT0ZUaURJUVpwQjVZM0k0ekRhNjJNQXJZVmFSWVFTakxOcFl6MUxmd1VHUlJYZmR3SVVCOUpmN21iUHBud2JyQk1UMkZVYUpjeTdjUWJnWGlJZjU4Z2Fqd2pWWUs5bVdYclQ5b2VuN0ZEMmZOR19ISVg3WnZZdExFNHdMQTMtR1d5OExHS08tUXlEOXNGYUNtd1c4REV6ajlTOER5bkxON2kxMkRNN19JRFIwMkxnLXAxLXZ0Y0FFNVlkQzllN3loYlpOZFdnaHJWczhaZFBkN3lTSGpBVDFMZXRMenF3aWhWWUM1eWlOaXNGa2xENVpHX1FjTXQxMGZ1d3Fkem5ubmpSRUoxQ0lTWG40RWR5Ql83Z2tHN3Btc3JTWXVFS08yNmlZb28yWnNERlUtWnVIb3FSNnMycE5CR1ZTLXJ1Ry1NS2Frb1NNcEZZMTAzNy1IeVFIdmVkSklXZlNOVVZlcGV3WVdCUjFFOUhNTk9qd3Nu?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-19 17:52:36"
     },
     {
       "title": "行政院拍板彈性育嬰假擴大至6歲前 立委劉建國肯定政策升級：打造更友善育兒環境 - Yahoo新聞",
@@ -760,6 +839,11 @@
       "time": "2026-05-19 15:20:06"
     },
     {
+      "title": "劉建國爭取成功！彈性育嬰假再升級 行政院正式拍板 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQTF9pUC1OVWIzT2JUN05RSE9GOW45ME1wNjRqVjQtQUM5UVhSemstbmVlYTZFYzk0VFhfdlIxbUdGWWJlNFd3RE5FX1poWWF0NDNHSmQ5T2JNS2pCOTRETjB0bUlyVVNFSVZ5cXdma0F3bFlfMXlWQU1IeVFLTGtpSXZsZWtrREFVMnIxSnhEaGFpWW5OUG1DOHNWaXB2YkI1Z19zVUM1Vy1mazhhVGd1bXZlai0yZ21aaS1vQzlITEVVWjdqZXREeDZwcHRUekVWUEF4M0NCa1ZZNzhoM3hlRjdGWXF0MC0zNThVQWUzU296MkZ0U2d1WS1hUXJIM2NwdFZsSmlmcW5xRERKNWhlTDNLX1IxSUdoY0dmTndNcnpycFZHdHA5QzJqMnZYdFROaHN5eVdmcmJMYUpjVTc1TnQxRHF2WkdTT2dKZTQ5V0tnZjBJaTlXM1RXTkZLZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-19 14:46:17"
+    },
+    {
       "title": "快新聞／劉建國爭取成功！彈性育嬰假再升級 行政院正式拍板 - 民視新聞網",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mMGNoeUpzRmJKLV92dWV1dkMtTkxSUHlHSVYyakVHYXN3Q0FSck5VRlU4RFVmX05nRHN0S2IwbFA4RUtJSno3RzVLXzFxQnQ3UWRyUlEtMTJxSTlFZXpVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-19 14:18:58"
@@ -793,31 +877,6 @@
       "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」創雙贏 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNenh4Q0lTYjI2cXlKWUxQVk1mdzF6V3FIYVdCcW9MblJzUWNQRmRnOXJ5a0pPSTFtZWJ4bmpCSkNvcGhyWW1pb0NjM0R0bFE4eTVXUlN3VmxKMk5famN2dUcxY1RMS1luWU1IeEp3aEVMQUlXU0ZRVFJ2MS00UVc0TTR2SzMtT2xxdmN0M21qWW1zbWxnSUVFQ1I5S1NGT1pBZ2xMR2VSbFVFVS0xYzJqZDh5Mnk4X1JCSjRfWm51WlZuM2xTeEF1VnYxa2VoVFV4S0hUbEFZYkpwRXl1Ny1FV0FvYWFPckphNmhIRnF1cDdJdm5TWVBYMEYzX2ZMcnlKNEdmUmtwMHBPN0piSHZWYUpJaVhSa3E5SHB5ekZwUUtfdURSQ0VaTDRCSmU1VFNQZjVZRmpCNkpwSkR3ZXdMdC1xb29aajA3dDFQS0xUa2hYektRaGxOYkhLM1QyZFFEbDVGeHpvV1FYZVFSX0c2b0o0R2JfM2drckphX05jeWNNUUswNzRhM3VrT1Z5SnUxSDVVS1pPYkhhQXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-18 16:18:51"
-    },
-    {
-      "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」 創雙贏 - 匯流新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SOGpvTkR0WTV1eUtXU0dkdlNqV0loT3Fsb3h3d1ZmcDVmZjlTRDIzX1pxV0t6YTlvMHg0aHgxRjZIdWVwSlN2VWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-18 16:18:51"
-    },
-    {
-      "title": "蔣萬安參訪雲林農漁產 張嘉郡包粽子大喊「大家都包中」 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQVFpBRlNPbW5DRjZsbGZrZ3cxZHg2RGktaDNjYV9LS0d3MDk1QnVJalVzRVFIaHhCeGphVlZoWDdGekNHQnhyZ1JqSmJETDltRXQxVE9hRjZPa2s4ZTRRbXg2STlRUjRVTW9wd1ZzLTJFZ2ZlN0pGanAxNldrQklmQkpLQkN0aHlHNjF3b2RJUlNWUnFuQW5vRWJCRTZvblFHd0tDV1N5ZTcwMUJYcUFWcVFvbHlkdXMzX1NXSmQtcDhLYXEtX0pWUWl3SlFYTWpJZHdQOVFJSkd0M0Ixc0lyNi1UNmVQSWZaRG5kdmlfbkJ2Mnk3UElrTjliZjB0RDFmU2x0Y1NteVEtQ1N2czhraWE5RnJhWmNNaXhmcE5xODhkNjk5UDZYSHZWREFEVjF4RDZMUENhZTA2Qk94dGxCSHdRVlpkYkx3MVVSeFZTdnloRmVjMk0wWFFjMlExWmUybF9SclZCWndINEp1WTB1VnZWSmh5X2JW?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-18 15:49:29"
-    },
-    {
-      "title": "行政院十九日正式宣布推動「零到十八歲全程支持計畫」 劉建國：感謝卓榮泰、洪申翰 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOZnZ6Q3NPOTVHVUV1YTY5Vm1GdG95YmY3SjBCY0RNbVhsMXRqbkFKWk5TZncydzB5cDhPbkZHUTREOFRCZ0FLanFBMjUwYzlVRkExOHNmTER2OFlaZFNJU1RXeU8tOWNfYS1kZmhPMVljcVNvQmg3bmZkZXlvX3hSai1BS25odlVBSEFITGE5X0tWcmZJeXNNWmdESGZYVVNCcTRIdERrd3pwVElZRExmRHowWXpScjE5cnljOTYybXFPMHc0bW1SbDRSNDd1Q1JmbFpTZmZQUWhSRW1ZR3FLWmg4ZXR4OWsyWDlNT19hRjRTQ2NocFZNcmFWQ3FvZTBmYW9iQlcwUzV3RUw1ZXlNLWlCQjI2YWM2UzBVaWd5TVhpNVA0ck1Dc21jTnp1SXlBRDBYNWFNNER4TFdGYTBzSURVdmhaanJVeDdmOElBRlNRdmNTU2lkaHFHX1MzMlFkcWdUb2VsVXRxbkpSM0NCdHh5SVBtNFFQUUJXZ2w3SW04d3VQZkpMd1kxN0hMRkVHRnl2U25HcHREbWtISWNnQ3k3ZGRFckhuZDR5TmJxVzNzVFk0ZzlZQ0tvUi1WWklTWHU5WWEyRFkyc09QNmhsaDRxYzRwZFFqRXNjby1vZ2stQlZFXy1LeVFPcUZYbnBj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-18 15:00:00"
-    },
-    {
-      "title": "蔣萬安南下參訪農漁產　張嘉郡盼台北、雲林合作創雙贏 - NOWnews今日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iXzV2Y25QQ1dWZzBSV0lCd1l3YzR4dzlvc3ZON1pUOVE5XzhMNXNUaVUzZEtvemNQYlFwcjNRX1d1Wkp1SWNzMWhOSUHSAVJBVV95cUxON0RaTWdfWXVrbVF2eERKTUg3STA4S0V3eDRfYkp0ZERqU0R4VjJnUkZSU0VCUUFXRmpncUFNNHM4Z2MzT3hvdmZuR2VBc3M2XzJ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-18 14:38:20"
-    },
-    {
-      "title": "張麗善、張嘉郡全程緊跟 蔣萬安臨時加開雲林行程遭疑輔選 - 壹電視",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLU4xTEQwOEhZa0ZpdzF1VWxYRWc0RDY4OUFYZ1ZJeUM2VGlQUGs2dzBSaDM2b2hhQ1lmN1d2ejhOdDBHZmdLcE1KS1hUNmlvaVo2UC03SWVjS0xyRHg1cEo2UkZjQkdMZDFocng1amZjUGYzTmZrMGlGNUJTSHJneA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-18 13:59:26"
     }
   ],
   "person_sections": {
@@ -1132,9 +1191,29 @@
       ],
       "news": [
         {
+          "title": "行政院拍板「彈性育嬰假」擴大適用至6歲前雲林立委劉建國感謝院長卓榮泰、勞動部長洪申翰支持新手爸媽！ - 台灣華報",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHMXlOcEw2R0I0OE5NQ1Q0NERnWDU5Um5Ha1BtdnFndEQycGxlWXBBSEJZb0lXUkliSk1URUdlRmwxcTZtWVZVVkVjT2JyT0F2Z2lYb0o5NTBpOFBPRER5M2hKWmlOODZGaG5Z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-19 21:23:25"
+        },
+        {
+          "title": "劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQNHNfdGRjUHduWmlOeFI0Y0pYcldMRy1NSTdEZ2lLUzc5aGRSVXAxSWpkU1hRSnlrR0IxY2g3YXdVSlZCYWd3dVFjUHRxdllVVkszQWZ4WUJQYTBHYzJzVFpIOHgybWM3akY3Smsya1pIS3lSR0psVGJtVVhFUlFpal9xR2J0SFV2dkVNRlZ6aHRSbS1wbnVWcmpPOTNRMzMzR1JQQjJrSGViVXhjRkJFYzV3OGlSLTZNcUhWdGdidUxSRW1vR1kwd01BdVBPVkZrUEMxa2dmLXFrQTFCWENfVWZmQV80X19GQlNDUTJWcDROQnZXanpSTzVHVkxkMnVYam1vT0haT1BjQmFOX3BTYjlpODRKMjNTMXFYWkdOamFaa1YyOW8xM1N5NU9QanJ2N1pwNnJBNVhzX1ZFTU00NHBkaUlIUnJYTXdVdElaZ1BVcnZNd0xLZ25ScVdVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-19 20:19:14"
+        },
+        {
+          "title": "快新聞／劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - 民視新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuQlhQd1JLNGNGLWhTS1FZSkZVRmV0Z0JoekZYMU92NlNmd3IyTVVjYlhFRGZrR3VVTVhqaTJ4T3Jka3Zma3FiTTN5OExweEEwMlBGdXh4Tl8yblpJVDZPZg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-19 20:19:14"
+        },
+        {
           "title": "因應美花生關稅挑戰 劉建國邀農業部赴雲林座談 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSDVWYkpFVWV6cHZ4T3dsVEEyTU9Wa2VHREVVTnp5OTY2dkdLVVFiZ1lNcXlVbWE1bWZYSWtIR3pvNzk1aU5JZGZTWlNrdDdGSi1LRWtfeWtaNHJCV2t5TXdNMUNiMk1kWXhFcnh3T1ZfcEt2cldWY2pCclg5emdTZUFvc3U1LTZ3N0tNTjBxeGN5RTM5ME9aU3BqOTZkUm02OVV1NERzclU1Yi1Kd181aXVjTjlpc2tRSDJLd3VmQzZPWkVKZ0dZdkw0NGVodko0YWFsaVYybnA5RGxzN0FJOGdTMnVtMlNXWF9TenVEXzc1elkwbmZyZU5oWE5KVmszQXVTcC1WTjQ1LUZtV0cxN2dxV0Y4UmRTdDUyUEM4N2ZEUTk1ZU9xdkdOREQ3QTNqYjlVd2VRTjc3bE5OcjM2NE14QUhPQnV5N0lULVVDVTI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-19 17:54:02"
+        },
+        {
+          "title": "政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝支持新手爸媽 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNM01mTTBSN0F6TGphcVh6MGE2by1ZdUdRYWRmcGFBbExZRzlPT0ZUaURJUVpwQjVZM0k0ekRhNjJNQXJZVmFSWVFTakxOcFl6MUxmd1VHUlJYZmR3SVVCOUpmN21iUHBud2JyQk1UMkZVYUpjeTdjUWJnWGlJZjU4Z2Fqd2pWWUs5bVdYclQ5b2VuN0ZEMmZOR19ISVg3WnZZdExFNHdMQTMtR1d5OExHS08tUXlEOXNGYUNtd1c4REV6ajlTOER5bkxON2kxMkRNN19JRFIwMkxnLXAxLXZ0Y0FFNVlkQzllN3loYlpOZFdnaHJWczhaZFBkN3lTSGpBVDFMZXRMenF3aWhWWUM1eWlOaXNGa2xENVpHX1FjTXQxMGZ1d3Fkem5ubmpSRUoxQ0lTWG40RWR5Ql83Z2tHN3Btc3JTWXVFS08yNmlZb28yWnNERlUtWnVIb3FSNnMycE5CR1ZTLXJ1Ry1NS2Frb1NNcEZZMTAzNy1IeVFIdmVkSklXZlNOVVZlcGV3WVdCUjFFOUhNTk9qd3Nu?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-19 17:52:36"
         },
         {
           "title": "行政院拍板彈性育嬰假擴大至6歲前 立委劉建國肯定政策升級：打造更友善育兒環境 - Yahoo新聞",
@@ -1165,6 +1244,11 @@
           "title": "行政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝卓榮泰、洪申翰支持新手爸媽 - 觀傳媒",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBock9WVjF5WUVGdU1hOGRnTGc5S0prZFJpSlFVSERLQzVwNGN1R3lDUG83M2hxNTRTWWVIWFRlWU52VGgtbUNhdjh0WXdnWU5tc2FYN3VjOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-19 15:20:06"
+        },
+        {
+          "title": "劉建國爭取成功！彈性育嬰假再升級 行政院正式拍板 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQTF9pUC1OVWIzT2JUN05RSE9GOW45ME1wNjRqVjQtQUM5UVhSemstbmVlYTZFYzk0VFhfdlIxbUdGWWJlNFd3RE5FX1poWWF0NDNHSmQ5T2JNS2pCOTRETjB0bUlyVVNFSVZ5cXdma0F3bFlfMXlWQU1IeVFLTGtpSXZsZWtrREFVMnIxSnhEaGFpWW5OUG1DOHNWaXB2YkI1Z19zVUM1Vy1mazhhVGd1bXZlai0yZ21aaS1vQzlITEVVWjdqZXREeDZwcHRUekVWUEF4M0NCa1ZZNzhoM3hlRjdGWXF0MC0zNThVQWUzU296MkZ0U2d1WS1hUXJIM2NwdFZsSmlmcW5xRERKNWhlTDNLX1IxSUdoY0dmTndNcnpycFZHdHA5QzJqMnZYdFROaHN5eVdmcmJMYUpjVTc1TnQxRHF2WkdTT2dKZTQ5V0tnZjBJaTlXM1RXTkZLZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-19 14:46:17"
         },
         {
           "title": "快新聞／劉建國爭取成功！彈性育嬰假再升級 行政院正式拍板 - 民視新聞網",
@@ -1205,31 +1289,6 @@
           "title": "漁業署推鰻魚入粽 劉建國豪邁包\"鰻魚粽\" - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNY3JuWkVVN2tYUVhESkxXbFBfbXJnZk43Q1VRamNvd1BXQy0yRWhDR18wcDhrUFY5dThGWlZCSldwdFdNWi02UDhOWWFDNVd0WTR1V0dXN0JsaEpDWXc0X25VQVNRQXZfbXBDTkFWU2ZaZGhkYWRpa0lYUXpnNTFaSmt4NmFFeU4xQTliNlRTS1NSUmxpM3habEdYWGlSa18zaDlwZzJKY3IycmxVOUNyZjZLbFJNWWZxSm5BTUZEb1g2QWxwcHB2a3ZzS3U4bzNmbXFjSjI5ZEQzT0NSVjJRU1BsbXhWeDFWeU5qWDN5QkIxQjZDcnZUdHpBSnhCMko1SGViQlVKOXRsTmZnOE1kNDRWZmlmbzhQNmQ4QmFPLVQwUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-16 15:52:02"
-        },
-        {
-          "title": "漁業署推鰻魚入粽 劉建國豪邁包\"鰻魚粽\" - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPUFZCaWdCbmpoNnRzOG9XcTJjdktGR3k3R0R6V08ySDhuUGdBTlhVSS1nR0hPRndRa3p2WlF0ZHlVb2Nja2dzR2dmeDh3aWRQYmlaQlNrUHdGZzNqYzl2VngwX1RvU0FudVczQlR6MGEtS3Y5V1R6cVNjZUVoOE5rYlRKNnlPdW9pWEgzZ0FfUzNoRmxtcE1US0xWbVlaVTNiakdJdVlPSXotLXdVNE95NE5weFJNeGtFRE5vNlU2c182M3VObnltUk94UU16cDRJYkJQUzVxdWt6MWkzTDdfMzNUVmwtcERMaVZkcUcxaXVRUDdlSlAyS1hPcUNyV1U4bEVkQ19ZbnpfUHBDT2Y3SWNGTzFnSG8wVXFTTy16cmRYZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-16 14:15:54"
-        },
-        {
-          "title": "漁業署推鰻魚入粽 劉建國豪邁包\"鰻魚粽\" - 民視新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wWHdQN1g5d3dWMzBjNk91cDVZLVZ5Zm9wdXBqNE1TalpGb1VCMW5aWVdCQnVwbHdpSjJLUzQ0MjJfd1dQNllZUlJXbGNncVZuSFF1SW5YQTZyM21tdEZpNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-16 13:51:12"
-        },
-        {
-          "title": "NET病友盼在台治療 劉建國促PRRT納健保 - 樂聯網",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oWlNjRDJtNHB3R3hCUVQ1TUE1Q0JEZVEzMHNld3lEWGdaSlJnTVpPeE5BNm14Vy00Q2haS0kxVGxmQlZhVk5lRWFMYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-15 16:06:50"
-        },
-        {
-          "title": "AI浪潮席捲全球！劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxPNjhvdG51NGFyUkZ4cmpHN3c2VjJpUGEyUlFldUtQZVRjUjY4S21MenBoQXVSYnlnRUVmTkFIaW9mQ1Fqc1VPWnJkV1lHR2NuNkJXME8wYldmWHRzbS1yYXlsVnQtZ3dkWnN5MmlBX2dwTl9tbFRSMUhTLXZra0tzUUszTDZIUkxycW5MYW5PTnNkY0VPLU5oWlAzbFYzclJIWDhxbXg3SUZiUVJETzRhXy12N1RDQTFtWW9MMXJxcTRKcERCZ3BjdWlMSUJoRy11WUFKcG1feklEMkw1N1FZd1g5Tjg0TTQ1X2RwM2pDZmlSZ0ZJNXpMeWVTaGdhRXpFZ0FPSDdmUGVvM19LSDFpa2dMc3lKUFRfcEo0RkZ5MlFyZlg1dDQyOGtjbEpYRGp4VmRRTzJaWnpVUXphNTloQzJxUlpjeWZUMTk1bXVuekdCZ1V0RnlZLTloNWs1SGVjVnp5eklEZ2RETzBLc0RocjRQUmxmSkNJcTFDdmQzTGJ4aE1mVnAzXzJlRHFjb0c5YzRtNGM4b0FpZjZYcXdtWA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-15 00:15:50"
-        },
-        {
-          "title": "AI浪潮席捲全球！劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRnhLVEFwSE5YZjI5eE5weERQWHcxNlNPbmxPTnJUTkJUaXZ2VHdibVhncWd0RFdkS2lZRmJqQkJCUVRNZENkRW5qZ0pPaE16Zzdjc2JpemE4UVdJUnlhQ2k2ZnlaeDVWM3R5S3FnTUw0NFd1cFpnb0x2MDV3cFdvTFpac0xOYWtPOWNxMldnejQxVnU3ckE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-15 00:15:50"
         }
       ]
     }
@@ -1237,9 +1296,29 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "行政院拍板「彈性育嬰假」擴大適用至6歲前雲林立委劉建國感謝院長卓榮泰、勞動部長洪申翰支持新手爸媽！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHMXlOcEw2R0I0OE5NQ1Q0NERnWDU5Um5Ha1BtdnFndEQycGxlWXBBSEJZb0lXUkliSk1URUdlRmwxcTZtWVZVVkVjT2JyT0F2Z2lYb0o5NTBpOFBPRER5M2hKWmlOODZGaG5Z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 21:23:25"
+      },
+      {
+        "title": "劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQNHNfdGRjUHduWmlOeFI0Y0pYcldMRy1NSTdEZ2lLUzc5aGRSVXAxSWpkU1hRSnlrR0IxY2g3YXdVSlZCYWd3dVFjUHRxdllVVkszQWZ4WUJQYTBHYzJzVFpIOHgybWM3akY3Smsya1pIS3lSR0psVGJtVVhFUlFpal9xR2J0SFV2dkVNRlZ6aHRSbS1wbnVWcmpPOTNRMzMzR1JQQjJrSGViVXhjRkJFYzV3OGlSLTZNcUhWdGdidUxSRW1vR1kwd01BdVBPVkZrUEMxa2dmLXFrQTFCWENfVWZmQV80X19GQlNDUTJWcDROQnZXanpSTzVHVkxkMnVYam1vT0haT1BjQmFOX3BTYjlpODRKMjNTMXFYWkdOamFaa1YyOW8xM1N5NU9QanJ2N1pwNnJBNVhzX1ZFTU00NHBkaUlIUnJYTXdVdElaZ1BVcnZNd0xLZ25ScVdVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 20:19:14"
+      },
+      {
+        "title": "快新聞／劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuQlhQd1JLNGNGLWhTS1FZSkZVRmV0Z0JoekZYMU92NlNmd3IyTVVjYlhFRGZrR3VVTVhqaTJ4T3Jka3Zma3FiTTN5OExweEEwMlBGdXh4Tl8yblpJVDZPZg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 20:19:14"
+      },
+      {
         "title": "因應美花生關稅挑戰 劉建國邀農業部赴雲林座談 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSDVWYkpFVWV6cHZ4T3dsVEEyTU9Wa2VHREVVTnp5OTY2dkdLVVFiZ1lNcXlVbWE1bWZYSWtIR3pvNzk1aU5JZGZTWlNrdDdGSi1LRWtfeWtaNHJCV2t5TXdNMUNiMk1kWXhFcnh3T1ZfcEt2cldWY2pCclg5emdTZUFvc3U1LTZ3N0tNTjBxeGN5RTM5ME9aU3BqOTZkUm02OVV1NERzclU1Yi1Kd181aXVjTjlpc2tRSDJLd3VmQzZPWkVKZ0dZdkw0NGVodko0YWFsaVYybnA5RGxzN0FJOGdTMnVtMlNXWF9TenVEXzc1elkwbmZyZU5oWE5KVmszQXVTcC1WTjQ1LUZtV0cxN2dxV0Y4UmRTdDUyUEM4N2ZEUTk1ZU9xdkdOREQ3QTNqYjlVd2VRTjc3bE5OcjM2NE14QUhPQnV5N0lULVVDVTI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-19 17:54:02"
+      },
+      {
+        "title": "政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝支持新手爸媽 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNM01mTTBSN0F6TGphcVh6MGE2by1ZdUdRYWRmcGFBbExZRzlPT0ZUaURJUVpwQjVZM0k0ekRhNjJNQXJZVmFSWVFTakxOcFl6MUxmd1VHUlJYZmR3SVVCOUpmN21iUHBud2JyQk1UMkZVYUpjeTdjUWJnWGlJZjU4Z2Fqd2pWWUs5bVdYclQ5b2VuN0ZEMmZOR19ISVg3WnZZdExFNHdMQTMtR1d5OExHS08tUXlEOXNGYUNtd1c4REV6ajlTOER5bkxON2kxMkRNN19JRFIwMkxnLXAxLXZ0Y0FFNVlkQzllN3loYlpOZFdnaHJWczhaZFBkN3lTSGpBVDFMZXRMenF3aWhWWUM1eWlOaXNGa2xENVpHX1FjTXQxMGZ1d3Fkem5ubmpSRUoxQ0lTWG40RWR5Ql83Z2tHN3Btc3JTWXVFS08yNmlZb28yWnNERlUtWnVIb3FSNnMycE5CR1ZTLXJ1Ry1NS2Frb1NNcEZZMTAzNy1IeVFIdmVkSklXZlNOVVZlcGV3WVdCUjFFOUhNTk9qd3Nu?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 17:52:36"
       },
       {
         "title": "行政院拍板彈性育嬰假擴大至6歲前 立委劉建國肯定政策升級：打造更友善育兒環境 - Yahoo新聞",
@@ -1275,6 +1354,11 @@
         "title": "行政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝卓榮泰、洪申翰支持新手爸媽 - 觀傳媒",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBock9WVjF5WUVGdU1hOGRnTGc5S0prZFJpSlFVSERLQzVwNGN1R3lDUG83M2hxNTRTWWVIWFRlWU52VGgtbUNhdjh0WXdnWU5tc2FYN3VjOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-19 15:20:06"
+      },
+      {
+        "title": "劉建國爭取成功！彈性育嬰假再升級 行政院正式拍板 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQTF9pUC1OVWIzT2JUN05RSE9GOW45ME1wNjRqVjQtQUM5UVhSemstbmVlYTZFYzk0VFhfdlIxbUdGWWJlNFd3RE5FX1poWWF0NDNHSmQ5T2JNS2pCOTRETjB0bUlyVVNFSVZ5cXdma0F3bFlfMXlWQU1IeVFLTGtpSXZsZWtrREFVMnIxSnhEaGFpWW5OUG1DOHNWaXB2YkI1Z19zVUM1Vy1mazhhVGd1bXZlai0yZ21aaS1vQzlITEVVWjdqZXREeDZwcHRUekVWUEF4M0NCa1ZZNzhoM3hlRjdGWXF0MC0zNThVQWUzU296MkZ0U2d1WS1hUXJIM2NwdFZsSmlmcW5xRERKNWhlTDNLX1IxSUdoY0dmTndNcnpycFZHdHA5QzJqMnZYdFROaHN5eVdmcmJMYUpjVTc1TnQxRHF2WkdTT2dKZTQ5V0tnZjBJaTlXM1RXTkZLZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 14:46:17"
       },
       {
         "title": "快新聞／劉建國爭取成功！彈性育嬰假再升級 行政院正式拍板 - 民視新聞網",
@@ -1318,9 +1402,29 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "行政院拍板「彈性育嬰假」擴大適用至6歲前雲林立委劉建國感謝院長卓榮泰、勞動部長洪申翰支持新手爸媽！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHMXlOcEw2R0I0OE5NQ1Q0NERnWDU5Um5Ha1BtdnFndEQycGxlWXBBSEJZb0lXUkliSk1URUdlRmwxcTZtWVZVVkVjT2JyT0F2Z2lYb0o5NTBpOFBPRER5M2hKWmlOODZGaG5Z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 21:23:25"
+      },
+      {
+        "title": "劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQNHNfdGRjUHduWmlOeFI0Y0pYcldMRy1NSTdEZ2lLUzc5aGRSVXAxSWpkU1hRSnlrR0IxY2g3YXdVSlZCYWd3dVFjUHRxdllVVkszQWZ4WUJQYTBHYzJzVFpIOHgybWM3akY3Smsya1pIS3lSR0psVGJtVVhFUlFpal9xR2J0SFV2dkVNRlZ6aHRSbS1wbnVWcmpPOTNRMzMzR1JQQjJrSGViVXhjRkJFYzV3OGlSLTZNcUhWdGdidUxSRW1vR1kwd01BdVBPVkZrUEMxa2dmLXFrQTFCWENfVWZmQV80X19GQlNDUTJWcDROQnZXanpSTzVHVkxkMnVYam1vT0haT1BjQmFOX3BTYjlpODRKMjNTMXFYWkdOamFaa1YyOW8xM1N5NU9QanJ2N1pwNnJBNVhzX1ZFTU00NHBkaUlIUnJYTXdVdElaZ1BVcnZNd0xLZ25ScVdVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 20:19:14"
+      },
+      {
+        "title": "快新聞／劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuQlhQd1JLNGNGLWhTS1FZSkZVRmV0Z0JoekZYMU92NlNmd3IyTVVjYlhFRGZrR3VVTVhqaTJ4T3Jka3Zma3FiTTN5OExweEEwMlBGdXh4Tl8yblpJVDZPZg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 20:19:14"
+      },
+      {
         "title": "因應美花生關稅挑戰 劉建國邀農業部赴雲林座談 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSDVWYkpFVWV6cHZ4T3dsVEEyTU9Wa2VHREVVTnp5OTY2dkdLVVFiZ1lNcXlVbWE1bWZYSWtIR3pvNzk1aU5JZGZTWlNrdDdGSi1LRWtfeWtaNHJCV2t5TXdNMUNiMk1kWXhFcnh3T1ZfcEt2cldWY2pCclg5emdTZUFvc3U1LTZ3N0tNTjBxeGN5RTM5ME9aU3BqOTZkUm02OVV1NERzclU1Yi1Kd181aXVjTjlpc2tRSDJLd3VmQzZPWkVKZ0dZdkw0NGVodko0YWFsaVYybnA5RGxzN0FJOGdTMnVtMlNXWF9TenVEXzc1elkwbmZyZU5oWE5KVmszQXVTcC1WTjQ1LUZtV0cxN2dxV0Y4UmRTdDUyUEM4N2ZEUTk1ZU9xdkdOREQ3QTNqYjlVd2VRTjc3bE5OcjM2NE14QUhPQnV5N0lULVVDVTI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-19 17:54:02"
+      },
+      {
+        "title": "政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝支持新手爸媽 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNM01mTTBSN0F6TGphcVh6MGE2by1ZdUdRYWRmcGFBbExZRzlPT0ZUaURJUVpwQjVZM0k0ekRhNjJNQXJZVmFSWVFTakxOcFl6MUxmd1VHUlJYZmR3SVVCOUpmN21iUHBud2JyQk1UMkZVYUpjeTdjUWJnWGlJZjU4Z2Fqd2pWWUs5bVdYclQ5b2VuN0ZEMmZOR19ISVg3WnZZdExFNHdMQTMtR1d5OExHS08tUXlEOXNGYUNtd1c4REV6ajlTOER5bkxON2kxMkRNN19JRFIwMkxnLXAxLXZ0Y0FFNVlkQzllN3loYlpOZFdnaHJWczhaZFBkN3lTSGpBVDFMZXRMenF3aWhWWUM1eWlOaXNGa2xENVpHX1FjTXQxMGZ1d3Fkem5ubmpSRUoxQ0lTWG40RWR5Ql83Z2tHN3Btc3JTWXVFS08yNmlZb28yWnNERlUtWnVIb3FSNnMycE5CR1ZTLXJ1Ry1NS2Frb1NNcEZZMTAzNy1IeVFIdmVkSklXZlNOVVZlcGV3WVdCUjFFOUhNTk9qd3Nu?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 17:52:36"
       },
       {
         "title": "行政院拍板彈性育嬰假擴大至6歲前 立委劉建國肯定政策升級：打造更友善育兒環境 - Yahoo新聞",
@@ -1356,6 +1460,11 @@
         "title": "行政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝卓榮泰、洪申翰支持新手爸媽 - 觀傳媒",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBock9WVjF5WUVGdU1hOGRnTGc5S0prZFJpSlFVSERLQzVwNGN1R3lDUG83M2hxNTRTWWVIWFRlWU52VGgtbUNhdjh0WXdnWU5tc2FYN3VjOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-19 15:20:06"
+      },
+      {
+        "title": "劉建國爭取成功！彈性育嬰假再升級 行政院正式拍板 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQTF9pUC1OVWIzT2JUN05RSE9GOW45ME1wNjRqVjQtQUM5UVhSemstbmVlYTZFYzk0VFhfdlIxbUdGWWJlNFd3RE5FX1poWWF0NDNHSmQ5T2JNS2pCOTRETjB0bUlyVVNFSVZ5cXdma0F3bFlfMXlWQU1IeVFLTGtpSXZsZWtrREFVMnIxSnhEaGFpWW5OUG1DOHNWaXB2YkI1Z19zVUM1Vy1mazhhVGd1bXZlai0yZ21aaS1vQzlITEVVWjdqZXREeDZwcHRUekVWUEF4M0NCa1ZZNzhoM3hlRjdGWXF0MC0zNThVQWUzU296MkZ0U2d1WS1hUXJIM2NwdFZsSmlmcW5xRERKNWhlTDNLX1IxSUdoY0dmTndNcnpycFZHdHA5QzJqMnZYdFROaHN5eVdmcmJMYUpjVTc1TnQxRHF2WkdTT2dKZTQ5V0tnZjBJaTlXM1RXTkZLZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 14:46:17"
       },
       {
         "title": "快新聞／劉建國爭取成功！彈性育嬰假再升級 行政院正式拍板 - 民視新聞網",
@@ -1491,31 +1600,6 @@
         "title": "緩解雲林托育荒！張嘉郡爭「6533萬」升級39所公幼，虎尾新校8月開園力拚免錢讀冊| 夏和宣| 地方新聞 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0ySW9zbkFYM3J0RklvSWlzbk1kUVpuSG02SzViTjNTYjluekZ0djZSdDB0RV9QdG9QRnU2QnhlZjhkQ1JZQlpUaE04UUstUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-15 14:55:24"
-      },
-      {
-        "title": "為雲林打造優質育兒城市 張嘉郡爭取逾6千萬升級公立幼兒園 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOckJ1V0tiMWJhTnF2UU1GWlJxNHlKWWdfVlUyZHl1UUVEUng0dE1WREtHeHFQUmw1WEh3YThHQ19lazNJNC1kaEZVYmFjZkhFR3BCem81YmstNW1QUFRHS0hETW9rYWZ0bTdrODE4LXZIeE01RTNHMFRlX0oxX083eWl0MmtKdTRNMEZPTnVsVVFrYW1zXy1KQl9xOEVFS0VybV93ZERwYndrby05cjVrUnBNeG1EeUpNTXBiVWJnc0k2Rm1rNld3SDBkOE1mOTUxbkxUdEZPa1ZCNUVvMDBJY3ZXMFROZi1DcHFtX1dLRlFwMUNvZERzMFcyclFSUVF3SmxndFBhbkdCRDBzcGNhN0NtNHpyandZWnVUSW9jU3Z3OHBOMEt3cUZ0UGk5RzhMWWJ6YUJkTlVfWDNTUUF1VDdydGJ2YzBlbzdnNi1pelZ6NHF3VkNYajcwalM1TVBpVjQ3MHJfQ0F1Y3R2OHk4RG5HUW5CdE9lVmRxaEFqc2Z5Mm1TUUtTNFNDQVZCUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-15 13:37:12"
-      },
-      {
-        "title": "為雲林打造優質育兒城市 張嘉郡爭取逾6 千萬升級公立幼兒園 - 匯流新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9taDJUQkRKX2tXSm5heDQwUmFvcVdfZzNxR3l1SERaN2hQbGMxOGRWbEVPM3dsb3ZLV2lDakhISlNIbmtGdUd0LWVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-15 13:34:51"
-      },
-      {
-        "title": "建議柯文哲交保出來！郭正亮勸：別想當「蘇治芬第二」 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxNZFRCRkw5NGF5NVQ0dG5icU52VVlFby0yVXdTc293SnFfTW1FeDdyeWJYV19BNnZ1VzgteXlPampEZWppZFFLcFVOYUlPbi1nMWt2VUtKRHR1NVFJekdrMWcxVXdyTEVDRi1zSXdXTmJHcy01LXlLS04zczYwczFZcS1iZlpkY1NOTHRtOTlDRVRJZnlKNk5hM0hGYmdpSmJJT3QxeFBzNkY3OEF5YmRuOWh0MXJ0cUpJOU1RdDY3SHVNemp3WE14RjBXQTk4YVZRQzNUUk8zV0Zrb2VhYWgtY0kwTTdTWTltQnl4NFlDWVVfSXpfeVllQ25XU2l6NFdYeEZ4enYtbFBqaDlNS1pPenNEWjdBTjRoNi1FaW93Q2tJNS1wTEZkTHFYYklJcnNCTng3UUJqWHFYdm56SDZhUFZDTVhQdUg4S2t2MTIxRG9FOWRQYWFreDQ5bzEtVmdYY3NwcExWeHpPVkdRYkJGZVVoX1M1WUxDT1JpREJoTEFmaGdZWGgtYkd0NGkwWG1zLWJRdk9lTmk1RFhra0VQVlJaSWNsNTVSUFpCb1lESHhXNVNlakxiMnJrZ3JFN0lXY3FMNGI1MXVPMzBza1l3bWtRU25SaHBERXctR0tENmpEQVh5YU9KZVNORTVJczVJeVdRb2ZudDI5THFyMHlIXzUwc080SDlMU3h2N1cyZXN4Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-15 07:22:14"
-      },
-      {
-        "title": "AI浪潮席捲全球！劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxPNjhvdG51NGFyUkZ4cmpHN3c2VjJpUGEyUlFldUtQZVRjUjY4S21MenBoQXVSYnlnRUVmTkFIaW9mQ1Fqc1VPWnJkV1lHR2NuNkJXME8wYldmWHRzbS1yYXlsVnQtZ3dkWnN5MmlBX2dwTl9tbFRSMUhTLXZra0tzUUszTDZIUkxycW5MYW5PTnNkY0VPLU5oWlAzbFYzclJIWDhxbXg3SUZiUVJETzRhXy12N1RDQTFtWW9MMXJxcTRKcERCZ3BjdWlMSUJoRy11WUFKcG1feklEMkw1N1FZd1g5Tjg0TTQ1X2RwM2pDZmlSZ0ZJNXpMeWVTaGdhRXpFZ0FPSDdmUGVvM19LSDFpa2dMc3lKUFRfcEo0RkZ5MlFyZlg1dDQyOGtjbEpYRGp4VmRRTzJaWnpVUXphNTloQzJxUlpjeWZUMTk1bXVuekdCZ1V0RnlZLTloNWs1SGVjVnp5eklEZ2RETzBLc0RocjRQUmxmSkNJcTFDdmQzTGJ4aE1mVnAzXzJlRHFjb0c5YzRtNGM4b0FpZjZYcXdtWA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-15 00:15:50"
-      },
-      {
-        "title": "AI浪潮席捲全球！劉建國要求衛福部加速社工AI化 減輕第一線文書負擔 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRnhLVEFwSE5YZjI5eE5weERQWHcxNlNPbmxPTnJUTkJUaXZ2VHdibVhncWd0RFdkS2lZRmJqQkJCUVRNZENkRW5qZ0pPaE16Zzdjc2JpemE4UVdJUnlhQ2k2ZnlaeDVWM3R5S3FnTUw0NFd1cFpnb0x2MDV3cFdvTFpac0xOYWtPOWNxMldnejQxVnU3ckE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-15 00:15:50"
       }
     ],
     "facebook": [
@@ -1648,6 +1732,13 @@
     "hour": [],
     "day": [
       {
+        "title": "行政院拍板「彈性育嬰假」擴大適用至6歲前雲林立委劉建國感謝院長卓榮泰、勞動部長洪申翰支持新手爸媽！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHMXlOcEw2R0I0OE5NQ1Q0NERnWDU5Um5Ha1BtdnFndEQycGxlWXBBSEJZb0lXUkliSk1URUdlRmwxcTZtWVZVVkVjT2JyT0F2Z2lYb0o5NTBpOFBPRER5M2hKWmlOODZGaG5Z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 21:23:25",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQblVCUFQwb0xLeHM5QVFnblktdE8zTmxHaWlFRFZES29wUm5KQXVOZVZpZnFhQURJandmYkQtZThSSXlNYzZxNUVFZ0NKQVZZRzk4ME5NT1NoVzRJNmdLbkduREY4MUl6b1M5aXRBLVlpc21SQW5YRUhEdDJrNmpfNGF0by1nOEhXYUNncDFXQzFxaS1SYUVfVjZibzBIX2hlbzhiaGVjNjVCcHpqdTY1dlNxQVg3TDV2Zi00NF9SYmI1OHRCOXVBU2ZXaE1QdHZST1lJaFRyQ2VNWlZhRG9rTU4xOG1nVjNFNjB3ZGhJLWpMMERleGRoX0RoUFhPWVhvai0zSVotN3pnRUlnZE5wMlJJSmNEbUh4bEFWUDFPOGxLUDVWTUtKUVFOdFBoWFpGb19xNmNUSnM5WGtrMnIyenFzNFg3Z2JyVkF1R2k2VkNpSDE4QzVjb3lfMEtvazFWSjBUVTRrTWl4a0hsRnFhUU9OQTg",
         "time": "2026-05-19 20:22:18",
@@ -1655,9 +1746,30 @@
         "risk": "綠"
       },
       {
+        "title": "劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQNHNfdGRjUHduWmlOeFI0Y0pYcldMRy1NSTdEZ2lLUzc5aGRSVXAxSWpkU1hRSnlrR0IxY2g3YXdVSlZCYWd3dVFjUHRxdllVVkszQWZ4WUJQYTBHYzJzVFpIOHgybWM3akY3Smsya1pIS3lSR0psVGJtVVhFUlFpal9xR2J0SFV2dkVNRlZ6aHRSbS1wbnVWcmpPOTNRMzMzR1JQQjJrSGViVXhjRkJFYzV3OGlSLTZNcUhWdGdidUxSRW1vR1kwd01BdVBPVkZrUEMxa2dmLXFrQTFCWENfVWZmQV80X19GQlNDUTJWcDROQnZXanpSTzVHVkxkMnVYam1vT0haT1BjQmFOX3BTYjlpODRKMjNTMXFYWkdOamFaa1YyOW8xM1N5NU9QanJ2N1pwNnJBNVhzX1ZFTU00NHBkaUlIUnJYTXdVdElaZ1BVcnZNd0xLZ25ScVdVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 20:19:14",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "快新聞／劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuQlhQd1JLNGNGLWhTS1FZSkZVRmV0Z0JoekZYMU92NlNmd3IyTVVjYlhFRGZrR3VVTVhqaTJ4T3Jka3Zma3FiTTN5OExweEEwMlBGdXh4Tl8yblpJVDZPZg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 20:19:14",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "因應美花生關稅挑戰 劉建國邀農業部赴雲林座談 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSDVWYkpFVWV6cHZ4T3dsVEEyTU9Wa2VHREVVTnp5OTY2dkdLVVFiZ1lNcXlVbWE1bWZYSWtIR3pvNzk1aU5JZGZTWlNrdDdGSi1LRWtfeWtaNHJCV2t5TXdNMUNiMk1kWXhFcnh3T1ZfcEt2cldWY2pCclg5emdTZUFvc3U1LTZ3N0tNTjBxeGN5RTM5ME9aU3BqOTZkUm02OVV1NERzclU1Yi1Kd181aXVjTjlpc2tRSDJLd3VmQzZPWkVKZ0dZdkw0NGVodko0YWFsaVYybnA5RGxzN0FJOGdTMnVtMlNXWF9TenVEXzc1elkwbmZyZU5oWE5KVmszQXVTcC1WTjQ1LUZtV0cxN2dxV0Y4UmRTdDUyUEM4N2ZEUTk1ZU9xdkdOREQ3QTNqYjlVd2VRTjc3bE5OcjM2NE14QUhPQnV5N0lULVVDVTI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-19 17:54:02",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝支持新手爸媽 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNM01mTTBSN0F6TGphcVh6MGE2by1ZdUdRYWRmcGFBbExZRzlPT0ZUaURJUVpwQjVZM0k0ekRhNjJNQXJZVmFSWVFTakxOcFl6MUxmd1VHUlJYZmR3SVVCOUpmN21iUHBud2JyQk1UMkZVYUpjeTdjUWJnWGlJZjU4Z2Fqd2pWWUs5bVdYclQ5b2VuN0ZEMmZOR19ISVg3WnZZdExFNHdMQTMtR1d5OExHS08tUXlEOXNGYUNtd1c4REV6ajlTOER5bkxON2kxMkRNN19JRFIwMkxnLXAxLXZ0Y0FFNVlkQzllN3loYlpOZFdnaHJWczhaZFBkN3lTSGpBVDFMZXRMenF3aWhWWUM1eWlOaXNGa2xENVpHX1FjTXQxMGZ1d3Fkem5ubmpSRUoxQ0lTWG40RWR5Ql83Z2tHN3Btc3JTWXVFS08yNmlZb28yWnNERlUtWnVIb3FSNnMycE5CR1ZTLXJ1Ry1NS2Frb1NNcEZZMTAzNy1IeVFIdmVkSklXZlNOVVZlcGV3WVdCUjFFOUhNTk9qd3Nu?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 17:52:36",
         "platform": "news",
         "risk": "綠"
       },
@@ -1711,6 +1823,13 @@
         "risk": "綠"
       },
       {
+        "title": "劉建國爭取成功！彈性育嬰假再升級 行政院正式拍板 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQTF9pUC1OVWIzT2JUN05RSE9GOW45ME1wNjRqVjQtQUM5UVhSemstbmVlYTZFYzk0VFhfdlIxbUdGWWJlNFd3RE5FX1poWWF0NDNHSmQ5T2JNS2pCOTRETjB0bUlyVVNFSVZ5cXdma0F3bFlfMXlWQU1IeVFLTGtpSXZsZWtrREFVMnIxSnhEaGFpWW5OUG1DOHNWaXB2YkI1Z19zVUM1Vy1mazhhVGd1bXZlai0yZ21aaS1vQzlITEVVWjdqZXREeDZwcHRUekVWUEF4M0NCa1ZZNzhoM3hlRjdGWXF0MC0zNThVQWUzU296MkZ0U2d1WS1hUXJIM2NwdFZsSmlmcW5xRERKNWhlTDNLX1IxSUdoY0dmTndNcnpycFZHdHA5QzJqMnZYdFROaHN5eVdmcmJMYUpjVTc1TnQxRHF2WkdTT2dKZTQ5V0tnZjBJaTlXM1RXTkZLZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-19 14:46:17",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "劉建國爭取成功！ 彈性育嬰假再升級 行政院正式拍板 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxONHJxXzJ4eWlvSmVsUzdFOU9uNVZaR3VHQ2lZOV95NjlZaEdxckc2YldtMjlDQXBpVmlEdDNfd2lQcjh3cUdSMHVFdnVRTElhaHlEWTRMY0NUTFlDNEpkekVqdGhXTFRLUDBabzVqd21laFA0RDItSTRyQnNDNDRNVDBSTExBZnNOb1UySmJXejhpOW5DcUZXWUx4ZDJNd0tFWTQ5ZkJtaUREQW9UWkJBYUZZb3VRX3RVajBzVkY1STRycjZUams4aWVJeUNvT3NZNEpydXFzWmk5SlhsZjluT0NnSnU3SUdOcmltUl9KZnd5aW9fVTdlbC1QLUFST0hVVS1lNVNaVnE3eDB2RTR3dC10WnVSX0VCWDJIbThPT1ljYnRZNTZFOGlxV3pDMGxWd2JQMkpzRHdrazByUE5pbmpWYkp1eS1mdERoV05JRkc0bEJnZURWVXplalc2RHB6NUItNjBUdG81MHJBa2JjYXlyVQ",
         "time": "2026-05-19 14:23:02",
@@ -1758,11 +1877,11 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 6
+        "count": 9
       },
       {
         "name": "斗六",
-        "count": 1
+        "count": 3
       }
     ],
     "groups": [
