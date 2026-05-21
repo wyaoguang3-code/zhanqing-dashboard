@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-21T08:01:48.792288+00:00",
+  "generated_at": "2026-05-21T08:17:14.005011+00:00",
   "metrics": {
-    "total_24h": 5,
-    "prev_24h": 23,
-    "growth_pct": -78.26,
-    "news_24h": 5,
+    "total_24h": 10,
+    "prev_24h": 22,
+    "growth_pct": -54.55,
+    "news_24h": 9,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 90,
+    "total": 95,
     "prev": 129,
-    "growth_pct": -30.23,
-    "news": 71,
+    "growth_pct": -26.36,
+    "news": 75,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,17 +28,21 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 5
+      "count": 9
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 71
+      "count": 75
     },
     {
       "platform": "facebook",
-      "count": 16
+      "count": 17
     },
     {
       "platform": "youtube",
@@ -60,7 +64,11 @@
     },
     {
       "hour": "2026-05-21 13:00",
-      "count": 1
+      "count": 2
+    },
+    {
+      "hour": "2026-05-21 15:00",
+      "count": 4
     }
   ],
   "by_hour_7d": [
@@ -270,20 +278,55 @@
     },
     {
       "hour": "2026-05-21 13:00",
-      "count": 1
+      "count": 2
+    },
+    {
+      "hour": "2026-05-21 15:00",
+      "count": 4
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 4
+      "count": 8
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "🎊斗六市「多功能社會福利大樓」正式啟用囉！🎉 這是結合「托育中心🍼」、「日照、長照空間👩‍🔬」、「K書中心📖」、「研習教室👨‍🎓」、「多功能空間🏫」、「運動休閒空間🏸」的 #全年齡多功能社會福利大樓，不只是硬體升級，更代表雲林縣的社福系統持續升級！ 嘉郡會繼續努力提 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMimghBVV95cUxPeElBd3dFV3lfSlJqbzI0YThyc3pzM09LZDNRX0xIenBDdnpDc0FmRWp6eXVvbFB2WnlxQ1dNRWVZSVRfdzQ1cEhLZFN4VjRrNHExUUZEc21mMmNiZGpUNUp4WVRHc3RIMll1aTAzZWdFaHNydmdMYk1NdnN1SHRzelNhVDdJWEdVN0IwLW5OVVhyR25CS2t5RVlXZkRoY0pCeG1jX2RoLVJLMkRjbEVnc09la1AxTm12dzVZQ1dRQXc1Q2U5OWxaeUwtb1N0THNhUjRaQlFhZmVMUWZqaUVUZV9iZTBxMzF3YXRWM2V4TVltSlh6T05sQm9OTjJUaEpGUDJmcGIwOXo1MENNR3ByNUUzdS1fdHFudldNQjVyVmFCdGQxbXN2MjhzYTJzazgzbDVfM3o1aWRRdUdnUWVOOUxEUUQ1bHZQQ1FnVXMtTHQ0TWh6MUZ0TnVFc1JSblpON2Mwd0k5dmlHXzlIbndfdGNMdmpsMUhyMXc2UG5tMU9jU2JSSFY0T2g5cF94a3VqUzc5eGc0Y2l2cGROQ2s1alJlZk1XNS1DQnhubU14RkI0VW51bkhHMFpYTWw2TTkzbmlrQUdoLU9FV2ZwZ1VseDVPNnhwZ1pvOW4zcm5PZFVhWVFXYmlnVXExMEREMjJpZUlWaW95YVFHM09pOXY4U0E1bEc5UDJtRDNMMFpVOGNyOFpjejgxYW5tUzFta043ei1sQzNaSUt5MmllcGgyRW1XalRXdURBdUs4bV9TQktMM3k1VG0ycC05WWQ0WlBzaUZxVjg0WEdjR0JrRFVqUFdqaXRjMG1tRUdVWTZEQmdYWGM3Z0Jqd3B5TUJTWFl6ekU2dnhvYTg3emlZcDhTd09xUnRrY0VXZGRWS2J0QUtWVjNTc202WTdBa1RmNEs5M2pEcHNYbkhQVDhjNzNJbTlRRkpyTGZwMVlJcktCSmFUWlNaN29mY3puZ3ZlNnFScDA1a19samtQUEkwVDUyTVh1bjRYQnZUUkdmQ2Z0eFBHaGRrZFhVeGZrUnlMNE1OSzl6WHp2UXlUeU9XNmZDTFN4UHBlelRCMVVYdWhyM3RaRy1iYU45ckFkZFVsdkFfV3o2WUxfNEhQenlDTjhkRXZXWTZ3eFFvSDd4a0JST3RFQV8zWlIyQmRjZmJRTGJwZWlSM0Z3M3h3anhQMHNXYzBncmNZN0VsR1dPV2pFU2cyTE1rMEJPcjVJTnI4Z2VCazJLNkR6NkRoWkF0ZXk5QUVvbGdYU1Q5NGpVRXpMMUdZZ1FHb1lkc0lhT0VETFJzZ3Qxemo5Yl9MblNZVm5pTjZWMkVja25lM3Exb2xIR24yMm1PemdNQ2dWUzY3SFYzaFBXb2U0YWpMYUI3WHhPdW5uT0lRRXhfVlE",
+        "time": "2026-05-21 15:53:22"
+      }
+    ],
     "news": [
+      {
+        "title": "斗六鐵路高架化等30年！張嘉郡率隊考察，促政院速核定動工 | 夏和宣 | 地方新聞 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83SHA4T3pKdlRzeTFQOXFCTmpTXzFUQmpBRUNRT0R1WVJkTzJyUWxCcXgxbE5kT05KeWFIa3RGeG93TVlVYUdtTy1FODZuQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 15:45:02"
+      },
+      {
+        "title": "張嘉郡率交委會考察斗六鐵路高架化 陳世凱允諾交通部會努力 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNOEdRLUlNNmpQTW0xOGx1ci1xMFZWODExdU11LWI1cHF3Q28tQkFnSC1wUU8zandDTS1CUFBXWmV1bS1JSmlTOFZ0TFVtaFQwbDRMaFdrVHB3SVhnUVJiNDZlRTFvTmNPRUt3aTVXdjh4RFEzNU9xYWN3dl9HekVvOElSa0lDMTRyaEJvOWZ1M2lGbThab2k1bzBpNlVNS0xIS1FPOG15SEF5RGEycjlITW1tRmpmOFUzSjhFLXBmbC1GUWNyTmNsM3ZyNnRhZTFqRkpvOThYcUZVMWR5Nmt2OUk4YkdlYWZnQVFvRHlockpFdmRtNUVkMnZMYW9kV0RrZ2U4LWFDUmN2SVRXcVd1SXdSZDItMzZIdWFHamlSa0YzWmV1bmd0VjhWd3BIaHdxS3Q0V0hJUlFiRHdTMjhOdEx0T0d5T3Azb2R1VWNteXd4Tm16RnVkZW1JcXB3Y1lxTHRCbWpqcEhNWHNLQlE5LURsTmQ4REZjeDROYzUxdjljQzdMblB0cDlwRmZsc0o4eUFFRHdEYzI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 15:32:34"
+      },
+      {
+        "title": "立院交委會考察斗六鐵路高架化 張嘉郡籲政院儘速核定動工 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPY29SUnZsV2U5d2YxR0xJcVlWQzhBdVNxWkZsa3NLOTgxZ2QwdmUtYjFYYUJ1RkFiNlY2UHlsUzR3UW8wSmdBS29OQVdkRWNhb1FOREtieXNaeG5pSDhhTHdrWE1wNk5sN2JkeEsxbVdnMzg2UkR0Uzk0OXpCd0lyZ2lmVzFvYTViUFVVSmVHcHBwU2RrSDNVbVhfNXdHWjQwLTVKZ2piZkNZRjJ1dDA4cXAyYkNQODM5enh6Y05QU081ZlBBUmdjT1RLYkVPRW5zNEQxRjIzc09nMzhsdjZka2Vtbi00Q2I4TS12SFNwU3FYUTJ1LVVJaEpRNjVHNDd5RVlJZ1FUVzYtZE9kbHZoTjJfeTlGSDZmYlU3bkVIRjkwWUlaQjYzQ1F0c1dsY3pNaldtOE83MTlBTm1Ic05SSWVLSU9kVlpGbkxwUW11T28zQnR0MTc5a05scnUtSmlCek45T1MtNURydWZaTUlUeVdGalVmTTREQUFkbFcwTWNIZk1zcGlMNTB4MVM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 15:03:17"
+      },
       {
         "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DbXNWdVVxbzJpc2RXTE9zRFhETE12cDI2N1RhMjdiMVA4dUlacEliMmVUS1BUV3BIQnVqV21fN1pJZzVDVUd1TlViU3bSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 13:35:19"
+      },
+      {
+        "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zSFNWUXdFZVhQdUZYY2VvMUVEczJZb2Q1Vmd0aGttSFg1WldraGlNUXJXMGdYUV9BSnlYWWo0OC1JdjZPQ2puRXhiZVhoUkszM3fSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-21 13:35:19"
       },
       {
@@ -306,14 +349,45 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 4
+      "count": 8
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "🎊斗六市「多功能社會福利大樓」正式啟用囉！🎉 這是結合「托育中心🍼」、「日照、長照空間👩‍🔬」、「K書中心📖」、「研習教室👨‍🎓」、「多功能空間🏫」、「運動休閒空間🏸」的 #全年齡多功能社會福利大樓，不只是硬體升級，更代表雲林縣的社福系統持續升級！ 嘉郡會繼續努力提 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMimghBVV95cUxPeElBd3dFV3lfSlJqbzI0YThyc3pzM09LZDNRX0xIenBDdnpDc0FmRWp6eXVvbFB2WnlxQ1dNRWVZSVRfdzQ1cEhLZFN4VjRrNHExUUZEc21mMmNiZGpUNUp4WVRHc3RIMll1aTAzZWdFaHNydmdMYk1NdnN1SHRzelNhVDdJWEdVN0IwLW5OVVhyR25CS2t5RVlXZkRoY0pCeG1jX2RoLVJLMkRjbEVnc09la1AxTm12dzVZQ1dRQXc1Q2U5OWxaeUwtb1N0THNhUjRaQlFhZmVMUWZqaUVUZV9iZTBxMzF3YXRWM2V4TVltSlh6T05sQm9OTjJUaEpGUDJmcGIwOXo1MENNR3ByNUUzdS1fdHFudldNQjVyVmFCdGQxbXN2MjhzYTJzazgzbDVfM3o1aWRRdUdnUWVOOUxEUUQ1bHZQQ1FnVXMtTHQ0TWh6MUZ0TnVFc1JSblpON2Mwd0k5dmlHXzlIbndfdGNMdmpsMUhyMXc2UG5tMU9jU2JSSFY0T2g5cF94a3VqUzc5eGc0Y2l2cGROQ2s1alJlZk1XNS1DQnhubU14RkI0VW51bkhHMFpYTWw2TTkzbmlrQUdoLU9FV2ZwZ1VseDVPNnhwZ1pvOW4zcm5PZFVhWVFXYmlnVXExMEREMjJpZUlWaW95YVFHM09pOXY4U0E1bEc5UDJtRDNMMFpVOGNyOFpjejgxYW5tUzFta043ei1sQzNaSUt5MmllcGgyRW1XalRXdURBdUs4bV9TQktMM3k1VG0ycC05WWQ0WlBzaUZxVjg0WEdjR0JrRFVqUFdqaXRjMG1tRUdVWTZEQmdYWGM3Z0Jqd3B5TUJTWFl6ekU2dnhvYTg3emlZcDhTd09xUnRrY0VXZGRWS2J0QUtWVjNTc202WTdBa1RmNEs5M2pEcHNYbkhQVDhjNzNJbTlRRkpyTGZwMVlJcktCSmFUWlNaN29mY3puZ3ZlNnFScDA1a19samtQUEkwVDUyTVh1bjRYQnZUUkdmQ2Z0eFBHaGRrZFhVeGZrUnlMNE1OSzl6WHp2UXlUeU9XNmZDTFN4UHBlelRCMVVYdWhyM3RaRy1iYU45ckFkZFVsdkFfV3o2WUxfNEhQenlDTjhkRXZXWTZ3eFFvSDd4a0JST3RFQV8zWlIyQmRjZmJRTGJwZWlSM0Z3M3h3anhQMHNXYzBncmNZN0VsR1dPV2pFU2cyTE1rMEJPcjVJTnI4Z2VCazJLNkR6NkRoWkF0ZXk5QUVvbGdYU1Q5NGpVRXpMMUdZZ1FHb1lkc0lhT0VETFJzZ3Qxemo5Yl9MblNZVm5pTjZWMkVja25lM3Exb2xIR24yMm1PemdNQ2dWUzY3SFYzaFBXb2U0YWpMYUI3WHhPdW5uT0lRRXhfVlE",
+        "time": "2026-05-21 15:53:22"
+      }
+    ],
     "news": [
+      {
+        "title": "斗六鐵路高架化等30年！張嘉郡率隊考察，促政院速核定動工 | 夏和宣 | 地方新聞 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83SHA4T3pKdlRzeTFQOXFCTmpTXzFUQmpBRUNRT0R1WVJkTzJyUWxCcXgxbE5kT05KeWFIa3RGeG93TVlVYUdtTy1FODZuQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 15:45:02"
+      },
+      {
+        "title": "張嘉郡率交委會考察斗六鐵路高架化 陳世凱允諾交通部會努力 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNOEdRLUlNNmpQTW0xOGx1ci1xMFZWODExdU11LWI1cHF3Q28tQkFnSC1wUU8zandDTS1CUFBXWmV1bS1JSmlTOFZ0TFVtaFQwbDRMaFdrVHB3SVhnUVJiNDZlRTFvTmNPRUt3aTVXdjh4RFEzNU9xYWN3dl9HekVvOElSa0lDMTRyaEJvOWZ1M2lGbThab2k1bzBpNlVNS0xIS1FPOG15SEF5RGEycjlITW1tRmpmOFUzSjhFLXBmbC1GUWNyTmNsM3ZyNnRhZTFqRkpvOThYcUZVMWR5Nmt2OUk4YkdlYWZnQVFvRHlockpFdmRtNUVkMnZMYW9kV0RrZ2U4LWFDUmN2SVRXcVd1SXdSZDItMzZIdWFHamlSa0YzWmV1bmd0VjhWd3BIaHdxS3Q0V0hJUlFiRHdTMjhOdEx0T0d5T3Azb2R1VWNteXd4Tm16RnVkZW1JcXB3Y1lxTHRCbWpqcEhNWHNLQlE5LURsTmQ4REZjeDROYzUxdjljQzdMblB0cDlwRmZsc0o4eUFFRHdEYzI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 15:32:34"
+      },
+      {
+        "title": "立院交委會考察斗六鐵路高架化 張嘉郡籲政院儘速核定動工 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPY29SUnZsV2U5d2YxR0xJcVlWQzhBdVNxWkZsa3NLOTgxZ2QwdmUtYjFYYUJ1RkFiNlY2UHlsUzR3UW8wSmdBS29OQVdkRWNhb1FOREtieXNaeG5pSDhhTHdrWE1wNk5sN2JkeEsxbVdnMzg2UkR0Uzk0OXpCd0lyZ2lmVzFvYTViUFVVSmVHcHBwU2RrSDNVbVhfNXdHWjQwLTVKZ2piZkNZRjJ1dDA4cXAyYkNQODM5enh6Y05QU081ZlBBUmdjT1RLYkVPRW5zNEQxRjIzc09nMzhsdjZka2Vtbi00Q2I4TS12SFNwU3FYUTJ1LVVJaEpRNjVHNDd5RVlJZ1FUVzYtZE9kbHZoTjJfeTlGSDZmYlU3bkVIRjkwWUlaQjYzQ1F0c1dsY3pNaldtOE83MTlBTm1Ic05SSWVLSU9kVlpGbkxwUW11T28zQnR0MTc5a05scnUtSmlCek45T1MtNURydWZaTUlUeVdGalVmTTREQUFkbFcwTWNIZk1zcGlMNTB4MVM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 15:03:17"
+      },
       {
         "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DbXNWdVVxbzJpc2RXTE9zRFhETE12cDI2N1RhMjdiMVA4dUlacEliMmVUS1BUV3BIQnVqV21fN1pJZzVDVUd1TlViU3bSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 13:35:19"
+      },
+      {
+        "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zSFNWUXdFZVhQdUZYY2VvMUVEczJZb2Q1Vmd0aGttSFg1WldraGlNUXJXMGdYUV9BSnlYWWo0OC1JdjZPQ2puRXhiZVhoUkszM3fSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-21 13:35:19"
       },
       {
@@ -334,17 +408,37 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 2,
+    "張嘉郡": 7,
     "劉建國": 3
   },
   "mention_compare_7d": {
-    "張嘉郡": 32,
+    "張嘉郡": 37,
     "劉建國": 45
   },
   "top_news": [
     {
+      "title": "斗六鐵路高架化等30年！張嘉郡率隊考察，促政院速核定動工 | 夏和宣 | 地方新聞 - 風傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83SHA4T3pKdlRzeTFQOXFCTmpTXzFUQmpBRUNRT0R1WVJkTzJyUWxCcXgxbE5kT05KeWFIa3RGeG93TVlVYUdtTy1FODZuQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-21 15:45:02"
+    },
+    {
+      "title": "張嘉郡率交委會考察斗六鐵路高架化 陳世凱允諾交通部會努力 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNOEdRLUlNNmpQTW0xOGx1ci1xMFZWODExdU11LWI1cHF3Q28tQkFnSC1wUU8zandDTS1CUFBXWmV1bS1JSmlTOFZ0TFVtaFQwbDRMaFdrVHB3SVhnUVJiNDZlRTFvTmNPRUt3aTVXdjh4RFEzNU9xYWN3dl9HekVvOElSa0lDMTRyaEJvOWZ1M2lGbThab2k1bzBpNlVNS0xIS1FPOG15SEF5RGEycjlITW1tRmpmOFUzSjhFLXBmbC1GUWNyTmNsM3ZyNnRhZTFqRkpvOThYcUZVMWR5Nmt2OUk4YkdlYWZnQVFvRHlockpFdmRtNUVkMnZMYW9kV0RrZ2U4LWFDUmN2SVRXcVd1SXdSZDItMzZIdWFHamlSa0YzWmV1bmd0VjhWd3BIaHdxS3Q0V0hJUlFiRHdTMjhOdEx0T0d5T3Azb2R1VWNteXd4Tm16RnVkZW1JcXB3Y1lxTHRCbWpqcEhNWHNLQlE5LURsTmQ4REZjeDROYzUxdjljQzdMblB0cDlwRmZsc0o4eUFFRHdEYzI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-21 15:32:34"
+    },
+    {
+      "title": "立院交委會考察斗六鐵路高架化 張嘉郡籲政院儘速核定動工 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPY29SUnZsV2U5d2YxR0xJcVlWQzhBdVNxWkZsa3NLOTgxZ2QwdmUtYjFYYUJ1RkFiNlY2UHlsUzR3UW8wSmdBS29OQVdkRWNhb1FOREtieXNaeG5pSDhhTHdrWE1wNk5sN2JkeEsxbVdnMzg2UkR0Uzk0OXpCd0lyZ2lmVzFvYTViUFVVSmVHcHBwU2RrSDNVbVhfNXdHWjQwLTVKZ2piZkNZRjJ1dDA4cXAyYkNQODM5enh6Y05QU081ZlBBUmdjT1RLYkVPRW5zNEQxRjIzc09nMzhsdjZka2Vtbi00Q2I4TS12SFNwU3FYUTJ1LVVJaEpRNjVHNDd5RVlJZ1FUVzYtZE9kbHZoTjJfeTlGSDZmYlU3bkVIRjkwWUlaQjYzQ1F0c1dsY3pNaldtOE83MTlBTm1Ic05SSWVLSU9kVlpGbkxwUW11T28zQnR0MTc5a05scnUtSmlCek45T1MtNURydWZaTUlUeVdGalVmTTREQUFkbFcwTWNIZk1zcGlMNTB4MVM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-21 15:03:17"
+    },
+    {
       "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DbXNWdVVxbzJpc2RXTE9zRFhETE12cDI2N1RhMjdiMVA4dUlacEliMmVUS1BUV3BIQnVqV21fN1pJZzVDVUd1TlViU3bSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-21 13:35:19"
+    },
+    {
+      "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zSFNWUXdFZVhQdUZYY2VvMUVEczJZb2Q1Vmd0aGttSFg1WldraGlNUXJXMGdYUV9BSnlYWWo0OC1JdjZPQ2puRXhiZVhoUkszM3fSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-21 13:35:19"
     },
     {
@@ -370,8 +464,28 @@
   ],
   "top_news_7d": [
     {
+      "title": "斗六鐵路高架化等30年！張嘉郡率隊考察，促政院速核定動工 | 夏和宣 | 地方新聞 - 風傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83SHA4T3pKdlRzeTFQOXFCTmpTXzFUQmpBRUNRT0R1WVJkTzJyUWxCcXgxbE5kT05KeWFIa3RGeG93TVlVYUdtTy1FODZuQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-21 15:45:02"
+    },
+    {
+      "title": "張嘉郡率交委會考察斗六鐵路高架化 陳世凱允諾交通部會努力 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNOEdRLUlNNmpQTW0xOGx1ci1xMFZWODExdU11LWI1cHF3Q28tQkFnSC1wUU8zandDTS1CUFBXWmV1bS1JSmlTOFZ0TFVtaFQwbDRMaFdrVHB3SVhnUVJiNDZlRTFvTmNPRUt3aTVXdjh4RFEzNU9xYWN3dl9HekVvOElSa0lDMTRyaEJvOWZ1M2lGbThab2k1bzBpNlVNS0xIS1FPOG15SEF5RGEycjlITW1tRmpmOFUzSjhFLXBmbC1GUWNyTmNsM3ZyNnRhZTFqRkpvOThYcUZVMWR5Nmt2OUk4YkdlYWZnQVFvRHlockpFdmRtNUVkMnZMYW9kV0RrZ2U4LWFDUmN2SVRXcVd1SXdSZDItMzZIdWFHamlSa0YzWmV1bmd0VjhWd3BIaHdxS3Q0V0hJUlFiRHdTMjhOdEx0T0d5T3Azb2R1VWNteXd4Tm16RnVkZW1JcXB3Y1lxTHRCbWpqcEhNWHNLQlE5LURsTmQ4REZjeDROYzUxdjljQzdMblB0cDlwRmZsc0o4eUFFRHdEYzI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-21 15:32:34"
+    },
+    {
+      "title": "立院交委會考察斗六鐵路高架化 張嘉郡籲政院儘速核定動工 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPY29SUnZsV2U5d2YxR0xJcVlWQzhBdVNxWkZsa3NLOTgxZ2QwdmUtYjFYYUJ1RkFiNlY2UHlsUzR3UW8wSmdBS29OQVdkRWNhb1FOREtieXNaeG5pSDhhTHdrWE1wNk5sN2JkeEsxbVdnMzg2UkR0Uzk0OXpCd0lyZ2lmVzFvYTViUFVVSmVHcHBwU2RrSDNVbVhfNXdHWjQwLTVKZ2piZkNZRjJ1dDA4cXAyYkNQODM5enh6Y05QU081ZlBBUmdjT1RLYkVPRW5zNEQxRjIzc09nMzhsdjZka2Vtbi00Q2I4TS12SFNwU3FYUTJ1LVVJaEpRNjVHNDd5RVlJZ1FUVzYtZE9kbHZoTjJfeTlGSDZmYlU3bkVIRjkwWUlaQjYzQ1F0c1dsY3pNaldtOE83MTlBTm1Ic05SSWVLSU9kVlpGbkxwUW11T28zQnR0MTc5a05scnUtSmlCek45T1MtNURydWZaTUlUeVdGalVmTTREQUFkbFcwTWNIZk1zcGlMNTB4MVM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-21 15:03:17"
+    },
+    {
       "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DbXNWdVVxbzJpc2RXTE9zRFhETE12cDI2N1RhMjdiMVA4dUlacEliMmVUS1BUV3BIQnVqV21fN1pJZzVDVUd1TlViU3bSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-21 13:35:19"
+    },
+    {
+      "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zSFNWUXdFZVhQdUZYY2VvMUVEczJZb2Q1Vmd0aGttSFg1WldraGlNUXJXMGdYUV9BSnlYWWo0OC1JdjZPQ2puRXhiZVhoUkszM3fSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-21 13:35:19"
     },
     {
@@ -448,29 +562,14 @@
       "title": "劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQNHNfdGRjUHduWmlOeFI0Y0pYcldMRy1NSTdEZ2lLUzc5aGRSVXAxSWpkU1hRSnlrR0IxY2g3YXdVSlZCYWd3dVFjUHRxdllVVkszQWZ4WUJQYTBHYzJzVFpIOHgybWM3akY3Smsya1pIS3lSR0psVGJtVVhFUlFpal9xR2J0SFV2dkVNRlZ6aHRSbS1wbnVWcmpPOTNRMzMzR1JQQjJrSGViVXhjRkJFYzV3OGlSLTZNcUhWdGdidUxSRW1vR1kwd01BdVBPVkZrUEMxa2dmLXFrQTFCWENfVWZmQV80X19GQlNDUTJWcDROQnZXanpSTzVHVkxkMnVYam1vT0haT1BjQmFOX3BTYjlpODRKMjNTMXFYWkdOamFaa1YyOW8xM1N5NU9QanJ2N1pwNnJBNVhzX1ZFTU00NHBkaUlIUnJYTXdVdElaZ1BVcnZNd0xLZ25ScVdVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-19 20:19:14"
-    },
-    {
-      "title": "快新聞／劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - 民視新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuQlhQd1JLNGNGLWhTS1FZSkZVRmV0Z0JoekZYMU92NlNmd3IyTVVjYlhFRGZrR3VVTVhqaTJ4T3Jka3Zma3FiTTN5OExweEEwMlBGdXh4Tl8yblpJVDZPZg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-19 20:19:14"
-    },
-    {
-      "title": "畜產會董事長月領30萬卻未見治理成效 蘇治芬挾雲林經驗入主表現卻大受質疑 - 勢傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vQUhLa0toX29ZSnluYS1GYXNIX2lwZnZxYll0Q1FZU19wRFp6eUVXOGpTSU5XMDZoVER4Tm9PdGhlYXdqbHhKZkVpVzZBbmdW?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-19 18:35:54"
-    },
-    {
-      "title": "因應美花生關稅挑戰 劉建國邀農業部赴雲林座談 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSDVWYkpFVWV6cHZ4T3dsVEEyTU9Wa2VHREVVTnp5OTY2dkdLVVFiZ1lNcXlVbWE1bWZYSWtIR3pvNzk1aU5JZGZTWlNrdDdGSi1LRWtfeWtaNHJCV2t5TXdNMUNiMk1kWXhFcnh3T1ZfcEt2cldWY2pCclg5emdTZUFvc3U1LTZ3N0tNTjBxeGN5RTM5ME9aU3BqOTZkUm02OVV1NERzclU1Yi1Kd181aXVjTjlpc2tRSDJLd3VmQzZPWkVKZ0dZdkw0NGVodko0YWFsaVYybnA5RGxzN0FJOGdTMnVtMlNXWF9TenVEXzc1elkwbmZyZU5oWE5KVmszQXVTcC1WTjQ1LUZtV0cxN2dxV0Y4UmRTdDUyUEM4N2ZEUTk1ZU9xdkdOREQ3QTNqYjlVd2VRTjc3bE5OcjM2NE14QUhPQnV5N0lULVVDVTI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-19 17:54:02"
-    },
-    {
-      "title": "政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝支持新手爸媽 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNM01mTTBSN0F6TGphcVh6MGE2by1ZdUdRYWRmcGFBbExZRzlPT0ZUaURJUVpwQjVZM0k0ekRhNjJNQXJZVmFSWVFTakxOcFl6MUxmd1VHUlJYZmR3SVVCOUpmN21iUHBud2JyQk1UMkZVYUpjeTdjUWJnWGlJZjU4Z2Fqd2pWWUs5bVdYclQ5b2VuN0ZEMmZOR19ISVg3WnZZdExFNHdMQTMtR1d5OExHS08tUXlEOXNGYUNtd1c4REV6ajlTOER5bkxON2kxMkRNN19JRFIwMkxnLXAxLXZ0Y0FFNVlkQzllN3loYlpOZFdnaHJWczhaZFBkN3lTSGpBVDFMZXRMenF3aWhWWUM1eWlOaXNGa2xENVpHX1FjTXQxMGZ1d3Fkem5ubmpSRUoxQ0lTWG40RWR5Ql83Z2tHN3Btc3JTWXVFS08yNmlZb28yWnNERlUtWnVIb3FSNnMycE5CR1ZTLXJ1Ry1NS2Frb1NNcEZZMTAzNy1IeVFIdmVkSklXZlNOVVZlcGV3WVdCUjFFOUhNTk9qd3Nu?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-19 17:52:36"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "🎊斗六市「多功能社會福利大樓」正式啟用囉！🎉 這是結合「托育中心🍼」、「日照、長照空間👩‍🔬」、「K書中心📖」、「研習教室👨‍🎓」、「多功能空間🏫」、「運動休閒空間🏸」的 #全年齡多功能社會福利大樓，不只是硬體升級，更代表雲林縣的社福系統持續升級！ 嘉郡會繼續努力提 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMimghBVV95cUxPeElBd3dFV3lfSlJqbzI0YThyc3pzM09LZDNRX0xIenBDdnpDc0FmRWp6eXVvbFB2WnlxQ1dNRWVZSVRfdzQ1cEhLZFN4VjRrNHExUUZEc21mMmNiZGpUNUp4WVRHc3RIMll1aTAzZWdFaHNydmdMYk1NdnN1SHRzelNhVDdJWEdVN0IwLW5OVVhyR25CS2t5RVlXZkRoY0pCeG1jX2RoLVJLMkRjbEVnc09la1AxTm12dzVZQ1dRQXc1Q2U5OWxaeUwtb1N0THNhUjRaQlFhZmVMUWZqaUVUZV9iZTBxMzF3YXRWM2V4TVltSlh6T05sQm9OTjJUaEpGUDJmcGIwOXo1MENNR3ByNUUzdS1fdHFudldNQjVyVmFCdGQxbXN2MjhzYTJzazgzbDVfM3o1aWRRdUdnUWVOOUxEUUQ1bHZQQ1FnVXMtTHQ0TWh6MUZ0TnVFc1JSblpON2Mwd0k5dmlHXzlIbndfdGNMdmpsMUhyMXc2UG5tMU9jU2JSSFY0T2g5cF94a3VqUzc5eGc0Y2l2cGROQ2s1alJlZk1XNS1DQnhubU14RkI0VW51bkhHMFpYTWw2TTkzbmlrQUdoLU9FV2ZwZ1VseDVPNnhwZ1pvOW4zcm5PZFVhWVFXYmlnVXExMEREMjJpZUlWaW95YVFHM09pOXY4U0E1bEc5UDJtRDNMMFpVOGNyOFpjejgxYW5tUzFta043ei1sQzNaSUt5MmllcGgyRW1XalRXdURBdUs4bV9TQktMM3k1VG0ycC05WWQ0WlBzaUZxVjg0WEdjR0JrRFVqUFdqaXRjMG1tRUdVWTZEQmdYWGM3Z0Jqd3B5TUJTWFl6ekU2dnhvYTg3emlZcDhTd09xUnRrY0VXZGRWS2J0QUtWVjNTc202WTdBa1RmNEs5M2pEcHNYbkhQVDhjNzNJbTlRRkpyTGZwMVlJcktCSmFUWlNaN29mY3puZ3ZlNnFScDA1a19samtQUEkwVDUyTVh1bjRYQnZUUkdmQ2Z0eFBHaGRrZFhVeGZrUnlMNE1OSzl6WHp2UXlUeU9XNmZDTFN4UHBlelRCMVVYdWhyM3RaRy1iYU45ckFkZFVsdkFfV3o2WUxfNEhQenlDTjhkRXZXWTZ3eFFvSDd4a0JST3RFQV8zWlIyQmRjZmJRTGJwZWlSM0Z3M3h3anhQMHNXYzBncmNZN0VsR1dPV2pFU2cyTE1rMEJPcjVJTnI4Z2VCazJLNkR6NkRoWkF0ZXk5QUVvbGdYU1Q5NGpVRXpMMUdZZ1FHb1lkc0lhT0VETFJzZ3Qxemo5Yl9MblNZVm5pTjZWMkVja25lM3Exb2xIR24yMm1PemdNQ2dWUzY3SFYzaFBXb2U0YWpMYUI3WHhPdW5uT0lRRXhfVlE",
+      "time": "2026-05-21 15:53:22"
+    },
     {
       "title": "劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQblVCUFQwb0xLeHM5QVFnblktdE8zTmxHaWlFRFZES29wUm5KQXVOZVZpZnFhQURJandmYkQtZThSSXlNYzZxNUVFZ0NKQVZZRzk4ME5NT1NoVzRJNmdLbkduREY4MUl6b1M5aXRBLVlpc21SQW5YRUhEdDJrNmpfNGF0by1nOEhXYUNncDFXQzFxaS1SYUVfVjZibzBIX2hlbzhiaGVjNjVCcHpqdTY1dlNxQVg3TDV2Zi00NF9SYmI1OHRCOXVBU2ZXaE1QdHZST1lJaFRyQ2VNWlZhRG9rTU4xOG1nVjNFNjB3ZGhJLWpMMERleGRoX0RoUFhPWVhvai0zSVotN3pnRUlnZE5wMlJJSmNEbUh4bEFWUDFPOGxLUDVWTUtKUVFOdFBoWFpGb19xNmNUSnM5WGtrMnIyenFzNFg3Z2JyVkF1R2k2VkNpSDE4QzVjb3lfMEtvazFWSjBUVTRrTWl4a0hsRnFhUU9OQTg",
@@ -565,17 +664,32 @@
       "title": "劉建國 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZV9IMEg2TU9xTVNIVk1fX2ZjeE00QXNIYThBSVNwRGxDdy1OazhoN2lJaWNQVmRSeGRINE1HYW1zeEVmdWpKNXFTaklHdHRxOXRVMXdaZmktUnNfWkxzeVY3bDhGVVZLOUJ6cm1GQnRhRjRmQWcyWWRNd1R6MjBZdm5kOGE",
       "time": "2026-05-12 22:28:53"
-    },
-    {
-      "title": "曾蔡美佐遭毆骨裂！ 蘇治芬抱不平喊話蔡咏鍀：辭朝天宮董事長嗎？ - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNa0Y3WERwdFo5aW9OM012bTFuRFhfdEJtVHNZNHB5aTFJZk5zNHhyRkRZek5aSTJFbXVaS2daUXYzcVNVemxTbHlackV1TGpkQ2JfT1o1WG52OUdKazZmeEhCMXd3V1pLQ1Q4RVFCVlFWNzYtdTJnTXJVVFphQW8tUDRVX0NjWDByTUFCYndVUm9vTUxNbTRkeWNpcXc0VzlTX00wdWZBYU1sYkJIeW8yTW1oWm1QYUo0QjFkdjFTYkFNNHVpRTI0OXRJR3FYQnlnMU5QTDJZa3Z5LXhzNnpMdERENzIzT1YwZzRaaEhNVWNrMUhEZFNEM09UWmhwWVV4UEhJNkRON040MUY2SWhaYThBdWlXRF9VMlU1a2lWa2hMTkhENnBnc0xiVkI5ZDdMM05ReG5wZXR3T1k4UE52S1Itb2FNMUFkWmNOMVJ6bW5PVjE3UnRhTWlJeEI4RWp0YnUweWFBRGhSNFp6bG9WYnB4RFowLWxFX0J3Zm1XemlXNWVyekR6VDF5aWpzTlJtWmd3QkhqLXFoc1Itell6b1A1UFQtbEd0MXk4T3ZB",
-      "time": "2026-05-12 16:20:38"
     }
   ],
   "latest_news_20": [
     {
+      "title": "斗六鐵路高架化等30年！張嘉郡率隊考察，促政院速核定動工 | 夏和宣 | 地方新聞 - 風傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83SHA4T3pKdlRzeTFQOXFCTmpTXzFUQmpBRUNRT0R1WVJkTzJyUWxCcXgxbE5kT05KeWFIa3RGeG93TVlVYUdtTy1FODZuQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-21 15:45:02"
+    },
+    {
+      "title": "張嘉郡率交委會考察斗六鐵路高架化 陳世凱允諾交通部會努力 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNOEdRLUlNNmpQTW0xOGx1ci1xMFZWODExdU11LWI1cHF3Q28tQkFnSC1wUU8zandDTS1CUFBXWmV1bS1JSmlTOFZ0TFVtaFQwbDRMaFdrVHB3SVhnUVJiNDZlRTFvTmNPRUt3aTVXdjh4RFEzNU9xYWN3dl9HekVvOElSa0lDMTRyaEJvOWZ1M2lGbThab2k1bzBpNlVNS0xIS1FPOG15SEF5RGEycjlITW1tRmpmOFUzSjhFLXBmbC1GUWNyTmNsM3ZyNnRhZTFqRkpvOThYcUZVMWR5Nmt2OUk4YkdlYWZnQVFvRHlockpFdmRtNUVkMnZMYW9kV0RrZ2U4LWFDUmN2SVRXcVd1SXdSZDItMzZIdWFHamlSa0YzWmV1bmd0VjhWd3BIaHdxS3Q0V0hJUlFiRHdTMjhOdEx0T0d5T3Azb2R1VWNteXd4Tm16RnVkZW1JcXB3Y1lxTHRCbWpqcEhNWHNLQlE5LURsTmQ4REZjeDROYzUxdjljQzdMblB0cDlwRmZsc0o4eUFFRHdEYzI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-21 15:32:34"
+    },
+    {
+      "title": "立院交委會考察斗六鐵路高架化 張嘉郡籲政院儘速核定動工 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPY29SUnZsV2U5d2YxR0xJcVlWQzhBdVNxWkZsa3NLOTgxZ2QwdmUtYjFYYUJ1RkFiNlY2UHlsUzR3UW8wSmdBS29OQVdkRWNhb1FOREtieXNaeG5pSDhhTHdrWE1wNk5sN2JkeEsxbVdnMzg2UkR0Uzk0OXpCd0lyZ2lmVzFvYTViUFVVSmVHcHBwU2RrSDNVbVhfNXdHWjQwLTVKZ2piZkNZRjJ1dDA4cXAyYkNQODM5enh6Y05QU081ZlBBUmdjT1RLYkVPRW5zNEQxRjIzc09nMzhsdjZka2Vtbi00Q2I4TS12SFNwU3FYUTJ1LVVJaEpRNjVHNDd5RVlJZ1FUVzYtZE9kbHZoTjJfeTlGSDZmYlU3bkVIRjkwWUlaQjYzQ1F0c1dsY3pNaldtOE83MTlBTm1Ic05SSWVLSU9kVlpGbkxwUW11T28zQnR0MTc5a05scnUtSmlCek45T1MtNURydWZaTUlUeVdGalVmTTREQUFkbFcwTWNIZk1zcGlMNTB4MVM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-21 15:03:17"
+    },
+    {
       "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DbXNWdVVxbzJpc2RXTE9zRFhETE12cDI2N1RhMjdiMVA4dUlacEliMmVUS1BUV3BIQnVqV21fN1pJZzVDVUd1TlViU3bSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-21 13:35:19"
+    },
+    {
+      "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zSFNWUXdFZVhQdUZYY2VvMUVEczJZb2Q1Vmd0aGttSFg1WldraGlNUXJXMGdYUV9BSnlYWWo0OC1JdjZPQ2puRXhiZVhoUkszM3fSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-21 13:35:19"
     },
     {
@@ -652,26 +766,6 @@
       "title": "劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQNHNfdGRjUHduWmlOeFI0Y0pYcldMRy1NSTdEZ2lLUzc5aGRSVXAxSWpkU1hRSnlrR0IxY2g3YXdVSlZCYWd3dVFjUHRxdllVVkszQWZ4WUJQYTBHYzJzVFpIOHgybWM3akY3Smsya1pIS3lSR0psVGJtVVhFUlFpal9xR2J0SFV2dkVNRlZ6aHRSbS1wbnVWcmpPOTNRMzMzR1JQQjJrSGViVXhjRkJFYzV3OGlSLTZNcUhWdGdidUxSRW1vR1kwd01BdVBPVkZrUEMxa2dmLXFrQTFCWENfVWZmQV80X19GQlNDUTJWcDROQnZXanpSTzVHVkxkMnVYam1vT0haT1BjQmFOX3BTYjlpODRKMjNTMXFYWkdOamFaa1YyOW8xM1N5NU9QanJ2N1pwNnJBNVhzX1ZFTU00NHBkaUlIUnJYTXdVdElaZ1BVcnZNd0xLZ25ScVdVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-19 20:19:14"
-    },
-    {
-      "title": "快新聞／劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - 民視新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuQlhQd1JLNGNGLWhTS1FZSkZVRmV0Z0JoekZYMU92NlNmd3IyTVVjYlhFRGZrR3VVTVhqaTJ4T3Jka3Zma3FiTTN5OExweEEwMlBGdXh4Tl8yblpJVDZPZg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-19 20:19:14"
-    },
-    {
-      "title": "畜產會董事長月領30萬卻未見治理成效 蘇治芬挾雲林經驗入主表現卻大受質疑 - 勢傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vQUhLa0toX29ZSnluYS1GYXNIX2lwZnZxYll0Q1FZU19wRFp6eUVXOGpTSU5XMDZoVER4Tm9PdGhlYXdqbHhKZkVpVzZBbmdW?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-19 18:35:54"
-    },
-    {
-      "title": "因應美花生關稅挑戰 劉建國邀農業部赴雲林座談 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSDVWYkpFVWV6cHZ4T3dsVEEyTU9Wa2VHREVVTnp5OTY2dkdLVVFiZ1lNcXlVbWE1bWZYSWtIR3pvNzk1aU5JZGZTWlNrdDdGSi1LRWtfeWtaNHJCV2t5TXdNMUNiMk1kWXhFcnh3T1ZfcEt2cldWY2pCclg5emdTZUFvc3U1LTZ3N0tNTjBxeGN5RTM5ME9aU3BqOTZkUm02OVV1NERzclU1Yi1Kd181aXVjTjlpc2tRSDJLd3VmQzZPWkVKZ0dZdkw0NGVodko0YWFsaVYybnA5RGxzN0FJOGdTMnVtMlNXWF9TenVEXzc1elkwbmZyZU5oWE5KVmszQXVTcC1WTjQ1LUZtV0cxN2dxV0Y4UmRTdDUyUEM4N2ZEUTk1ZU9xdkdOREQ3QTNqYjlVd2VRTjc3bE5OcjM2NE14QUhPQnV5N0lULVVDVTI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-19 17:54:02"
-    },
-    {
-      "title": "政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝支持新手爸媽 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNM01mTTBSN0F6TGphcVh6MGE2by1ZdUdRYWRmcGFBbExZRzlPT0ZUaURJUVpwQjVZM0k0ekRhNjJNQXJZVmFSWVFTakxOcFl6MUxmd1VHUlJYZmR3SVVCOUpmN21iUHBud2JyQk1UMkZVYUpjeTdjUWJnWGlJZjU4Z2Fqd2pWWUs5bVdYclQ5b2VuN0ZEMmZOR19ISVg3WnZZdExFNHdMQTMtR1d5OExHS08tUXlEOXNGYUNtd1c4REV6ajlTOER5bkxON2kxMkRNN19JRFIwMkxnLXAxLXZ0Y0FFNVlkQzllN3loYlpOZFdnaHJWczhaZFBkN3lTSGpBVDFMZXRMenF3aWhWWUM1eWlOaXNGa2xENVpHX1FjTXQxMGZ1d3Fkem5ubmpSRUoxQ0lTWG40RWR5Ql83Z2tHN3Btc3JTWXVFS08yNmlZb28yWnNERlUtWnVIb3FSNnMycE5CR1ZTLXJ1Ry1NS2Frb1NNcEZZMTAzNy1IeVFIdmVkSklXZlNOVVZlcGV3WVdCUjFFOUhNTk9qd3Nu?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-19 17:52:36"
     }
   ],
   "person_sections": {
@@ -780,8 +874,28 @@
       ],
       "news": [
         {
+          "title": "斗六鐵路高架化等30年！張嘉郡率隊考察，促政院速核定動工 | 夏和宣 | 地方新聞 - 風傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83SHA4T3pKdlRzeTFQOXFCTmpTXzFUQmpBRUNRT0R1WVJkTzJyUWxCcXgxbE5kT05KeWFIa3RGeG93TVlVYUdtTy1FODZuQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-21 15:45:02"
+        },
+        {
+          "title": "張嘉郡率交委會考察斗六鐵路高架化 陳世凱允諾交通部會努力 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNOEdRLUlNNmpQTW0xOGx1ci1xMFZWODExdU11LWI1cHF3Q28tQkFnSC1wUU8zandDTS1CUFBXWmV1bS1JSmlTOFZ0TFVtaFQwbDRMaFdrVHB3SVhnUVJiNDZlRTFvTmNPRUt3aTVXdjh4RFEzNU9xYWN3dl9HekVvOElSa0lDMTRyaEJvOWZ1M2lGbThab2k1bzBpNlVNS0xIS1FPOG15SEF5RGEycjlITW1tRmpmOFUzSjhFLXBmbC1GUWNyTmNsM3ZyNnRhZTFqRkpvOThYcUZVMWR5Nmt2OUk4YkdlYWZnQVFvRHlockpFdmRtNUVkMnZMYW9kV0RrZ2U4LWFDUmN2SVRXcVd1SXdSZDItMzZIdWFHamlSa0YzWmV1bmd0VjhWd3BIaHdxS3Q0V0hJUlFiRHdTMjhOdEx0T0d5T3Azb2R1VWNteXd4Tm16RnVkZW1JcXB3Y1lxTHRCbWpqcEhNWHNLQlE5LURsTmQ4REZjeDROYzUxdjljQzdMblB0cDlwRmZsc0o4eUFFRHdEYzI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-21 15:32:34"
+        },
+        {
+          "title": "立院交委會考察斗六鐵路高架化 張嘉郡籲政院儘速核定動工 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPY29SUnZsV2U5d2YxR0xJcVlWQzhBdVNxWkZsa3NLOTgxZ2QwdmUtYjFYYUJ1RkFiNlY2UHlsUzR3UW8wSmdBS29OQVdkRWNhb1FOREtieXNaeG5pSDhhTHdrWE1wNk5sN2JkeEsxbVdnMzg2UkR0Uzk0OXpCd0lyZ2lmVzFvYTViUFVVSmVHcHBwU2RrSDNVbVhfNXdHWjQwLTVKZ2piZkNZRjJ1dDA4cXAyYkNQODM5enh6Y05QU081ZlBBUmdjT1RLYkVPRW5zNEQxRjIzc09nMzhsdjZka2Vtbi00Q2I4TS12SFNwU3FYUTJ1LVVJaEpRNjVHNDd5RVlJZ1FUVzYtZE9kbHZoTjJfeTlGSDZmYlU3bkVIRjkwWUlaQjYzQ1F0c1dsY3pNaldtOE83MTlBTm1Ic05SSWVLSU9kVlpGbkxwUW11T28zQnR0MTc5a05scnUtSmlCek45T1MtNURydWZaTUlUeVdGalVmTTREQUFkbFcwTWNIZk1zcGlMNTB4MVM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-21 15:03:17"
+        },
+        {
           "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DbXNWdVVxbzJpc2RXTE9zRFhETE12cDI2N1RhMjdiMVA4dUlacEliMmVUS1BUV3BIQnVqV21fN1pJZzVDVUd1TlViU3bSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-21 13:35:19"
+        },
+        {
+          "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zSFNWUXdFZVhQdUZYY2VvMUVEczJZb2Q1Vmd0aGttSFg1WldraGlNUXJXMGdYUV9BSnlYWWo0OC1JdjZPQ2puRXhiZVhoUkszM3fSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-21 13:35:19"
         },
         {
@@ -858,26 +972,6 @@
           "title": "蔣萬安參訪雲林農漁產 張嘉郡包粽子大喊「大家都包中」 - 中時新聞網",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10RVpkSkZkZ253cHhGbXZ3WnRSOS1WbDR1c1FxbjNwOExaby1fU0NVYm9aZ0tjVE82Si1JQ29GaXZQeEJoeDE0YnBTTXExM1VWSE1VZ0xMejAwX0NBdjR6YUV5ajdlX2Z1bnkwaUlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-18 12:30:22"
-        },
-        {
-          "title": "雲林立委張嘉郡爭取6533萬元補助雲林39所公立幼兒園軟硬體設施升級全面提升幼兒學習與照顧環境！ - 台灣華報",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tcnpubGZVU3VTNVFNTzNyWXJFWUdvNHN4TWtLZG9ROHRmYnhNN0VYOUQyc0E1azdSQ1JVUEJybnVmS2EyNXZndFFkMFlSTHFBY1NjUFZwRUU3UURDREFDYjhCS3llTGxrQUhj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-17 05:15:16"
-        },
-        {
-          "title": "雲林立委張嘉郡爭取6533萬元補助雲林39所公立幼兒園軟硬體設施升級全面提升幼兒學習與照顧環境！ - 台灣華報",
-          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOQlF3dkNvd1daOW1PeHRDTldMRlVnT1g4azNpTEwtYzBnWldRaEE4WlRJVDR3QkZBNHRST0V6WmR4c3ZRQzJnd2l4b0JYbGVhM3k3dUpqRHdvMkFwbm9GRGJ0TjRGX3RPTDI3a0dSV3ZQMGJ0Q3M0V0lVNzNCS2NLWUZYSXlKWXVtem5VMU1SYkNGVW8zeEwtVUpuVVM2OGI2QlBFcm81bGhpUGE3UGxpbjBsMlpYQlVhbU1fcS1yNlU3alpTVlB2TFFPSEdlVFJNcE9hSVgyTVRwcVBCVExKeXFGSzFrakk1SzZzLVZZM0xxTFNSamYyZ0c4VmQxc1ZhVkVndDZVc2p3a29lVFZ6NmFWV0UzNnN0Nmx2X2tIc1pmbWNTOFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-16 19:16:45"
-        },
-        {
-          "title": "拋斗六建「雲林小巨蛋」 張嘉郡：帶動觀光消費、投資 - MSN",
-          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNQXN0Q2o1ODB0VXFRa2VpUjhFR0ZxZERiNXpfSzVxSTdyUVhiWHVaWkdNdkRGTmg2U3hMWkZFNjhtdldfblVidFdiYWNMU1cwU2VkaldEbWdZUWNFZVVtQUk5bmZTeUMtMm53aVdYQmdNUzJldkFTa3hoVVJCcjRjZ2R1cmZrSTZ6ZTNqdWk0ZHA2YnRQT0tEdnBPTlBpeTV4bk5GQ0JNQUs1ZmF1RUVoeUVGRTFKa2ZyblFYaXE4OThCaG9jZG5UMVdlNmlTMVVDd0xraXZJTlJjRVNJYm5kMnlYaFhCaUR6elpyVllsWHF3ZkE3aFVuU1Jha1FJZUcxRzA3U0xOek9pNHNWU0FyYl9RUFlkQVpPUlpyaHc2TXdyaGM5ZTByWGFYUXBPWEJ0aDF3UnREZF9oazBvaFRHb2RvdkdvRWJhQjRaR1VINWY1T01Cd2JZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-16 08:22:28"
-        },
-        {
-          "title": "緩解雲林托育荒！張嘉郡爭「6533萬」升級39所公幼，虎尾新校8月開園力拚免錢讀冊| 夏和宣| 地方新聞 - 風傳媒",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0ySW9zbkFYM3J0RklvSWlzbk1kUVpuSG02SzViTjNTYjluekZ0djZSdDB0RV9QdG9QRnU2QnhlZjhkQ1JZQlpUaE04UUstUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-15 14:55:24"
         }
       ]
     },
@@ -1091,8 +1185,28 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "斗六鐵路高架化等30年！張嘉郡率隊考察，促政院速核定動工 | 夏和宣 | 地方新聞 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83SHA4T3pKdlRzeTFQOXFCTmpTXzFUQmpBRUNRT0R1WVJkTzJyUWxCcXgxbE5kT05KeWFIa3RGeG93TVlVYUdtTy1FODZuQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 15:45:02"
+      },
+      {
+        "title": "張嘉郡率交委會考察斗六鐵路高架化 陳世凱允諾交通部會努力 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNOEdRLUlNNmpQTW0xOGx1ci1xMFZWODExdU11LWI1cHF3Q28tQkFnSC1wUU8zandDTS1CUFBXWmV1bS1JSmlTOFZ0TFVtaFQwbDRMaFdrVHB3SVhnUVJiNDZlRTFvTmNPRUt3aTVXdjh4RFEzNU9xYWN3dl9HekVvOElSa0lDMTRyaEJvOWZ1M2lGbThab2k1bzBpNlVNS0xIS1FPOG15SEF5RGEycjlITW1tRmpmOFUzSjhFLXBmbC1GUWNyTmNsM3ZyNnRhZTFqRkpvOThYcUZVMWR5Nmt2OUk4YkdlYWZnQVFvRHlockpFdmRtNUVkMnZMYW9kV0RrZ2U4LWFDUmN2SVRXcVd1SXdSZDItMzZIdWFHamlSa0YzWmV1bmd0VjhWd3BIaHdxS3Q0V0hJUlFiRHdTMjhOdEx0T0d5T3Azb2R1VWNteXd4Tm16RnVkZW1JcXB3Y1lxTHRCbWpqcEhNWHNLQlE5LURsTmQ4REZjeDROYzUxdjljQzdMblB0cDlwRmZsc0o4eUFFRHdEYzI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 15:32:34"
+      },
+      {
+        "title": "立院交委會考察斗六鐵路高架化 張嘉郡籲政院儘速核定動工 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPY29SUnZsV2U5d2YxR0xJcVlWQzhBdVNxWkZsa3NLOTgxZ2QwdmUtYjFYYUJ1RkFiNlY2UHlsUzR3UW8wSmdBS29OQVdkRWNhb1FOREtieXNaeG5pSDhhTHdrWE1wNk5sN2JkeEsxbVdnMzg2UkR0Uzk0OXpCd0lyZ2lmVzFvYTViUFVVSmVHcHBwU2RrSDNVbVhfNXdHWjQwLTVKZ2piZkNZRjJ1dDA4cXAyYkNQODM5enh6Y05QU081ZlBBUmdjT1RLYkVPRW5zNEQxRjIzc09nMzhsdjZka2Vtbi00Q2I4TS12SFNwU3FYUTJ1LVVJaEpRNjVHNDd5RVlJZ1FUVzYtZE9kbHZoTjJfeTlGSDZmYlU3bkVIRjkwWUlaQjYzQ1F0c1dsY3pNaldtOE83MTlBTm1Ic05SSWVLSU9kVlpGbkxwUW11T28zQnR0MTc5a05scnUtSmlCek45T1MtNURydWZaTUlUeVdGalVmTTREQUFkbFcwTWNIZk1zcGlMNTB4MVM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 15:03:17"
+      },
+      {
         "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DbXNWdVVxbzJpc2RXTE9zRFhETE12cDI2N1RhMjdiMVA4dUlacEliMmVUS1BUV3BIQnVqV21fN1pJZzVDVUd1TlViU3bSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 13:35:19"
+      },
+      {
+        "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zSFNWUXdFZVhQdUZYY2VvMUVEczJZb2Q1Vmd0aGttSFg1WldraGlNUXJXMGdYUV9BSnlYWWo0OC1JdjZPQ2puRXhiZVhoUkszM3fSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-21 13:35:19"
       },
       {
@@ -1115,13 +1229,40 @@
         "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPWllTUl95WUc1R3lKM2laWmpSdllDZ3hwd0M1ZEk0MGtzSnhGSmQzN19nYjNJTEZJTWJaTGR3ZXpyMXBvb1MtZktIUG9lWjZaeWFmVFFxOXBZSDFtTG1qRWJBX2I2ZzA5SVJ5ZllUVmFoZHdEVmRxeDJTazE5WGlrTWpPVTlMOHVKYWZoVDMzbmNFWjFtcjVGaklSMmJVOEtIU29BckVkcXpRN3VjLVNsc0lrdldrSlhBdlhUN2YtS3JISDd5Nl9UWGQtQVo4azU0em03UVhMamVZNmdTXzVIMllZOVBLcnI4TUF0UG9JR2hXcDhXM3NybHdFR0pXV1RwQmRHc3ZsQXlyQV9hZ2hEeWN1OHU3S3pWWGFGX0N2aGF4Y1VseDNYZXVQQWpVZUlO?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-20 20:10:12"
       }
+    ],
+    "facebook": [
+      {
+        "title": "🎊斗六市「多功能社會福利大樓」正式啟用囉！🎉 這是結合「托育中心🍼」、「日照、長照空間👩‍🔬」、「K書中心📖」、「研習教室👨‍🎓」、「多功能空間🏫」、「運動休閒空間🏸」的 #全年齡多功能社會福利大樓，不只是硬體升級，更代表雲林縣的社福系統持續升級！ 嘉郡會繼續努力提 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMimghBVV95cUxPeElBd3dFV3lfSlJqbzI0YThyc3pzM09LZDNRX0xIenBDdnpDc0FmRWp6eXVvbFB2WnlxQ1dNRWVZSVRfdzQ1cEhLZFN4VjRrNHExUUZEc21mMmNiZGpUNUp4WVRHc3RIMll1aTAzZWdFaHNydmdMYk1NdnN1SHRzelNhVDdJWEdVN0IwLW5OVVhyR25CS2t5RVlXZkRoY0pCeG1jX2RoLVJLMkRjbEVnc09la1AxTm12dzVZQ1dRQXc1Q2U5OWxaeUwtb1N0THNhUjRaQlFhZmVMUWZqaUVUZV9iZTBxMzF3YXRWM2V4TVltSlh6T05sQm9OTjJUaEpGUDJmcGIwOXo1MENNR3ByNUUzdS1fdHFudldNQjVyVmFCdGQxbXN2MjhzYTJzazgzbDVfM3o1aWRRdUdnUWVOOUxEUUQ1bHZQQ1FnVXMtTHQ0TWh6MUZ0TnVFc1JSblpON2Mwd0k5dmlHXzlIbndfdGNMdmpsMUhyMXc2UG5tMU9jU2JSSFY0T2g5cF94a3VqUzc5eGc0Y2l2cGROQ2s1alJlZk1XNS1DQnhubU14RkI0VW51bkhHMFpYTWw2TTkzbmlrQUdoLU9FV2ZwZ1VseDVPNnhwZ1pvOW4zcm5PZFVhWVFXYmlnVXExMEREMjJpZUlWaW95YVFHM09pOXY4U0E1bEc5UDJtRDNMMFpVOGNyOFpjejgxYW5tUzFta043ei1sQzNaSUt5MmllcGgyRW1XalRXdURBdUs4bV9TQktMM3k1VG0ycC05WWQ0WlBzaUZxVjg0WEdjR0JrRFVqUFdqaXRjMG1tRUdVWTZEQmdYWGM3Z0Jqd3B5TUJTWFl6ekU2dnhvYTg3emlZcDhTd09xUnRrY0VXZGRWS2J0QUtWVjNTc202WTdBa1RmNEs5M2pEcHNYbkhQVDhjNzNJbTlRRkpyTGZwMVlJcktCSmFUWlNaN29mY3puZ3ZlNnFScDA1a19samtQUEkwVDUyTVh1bjRYQnZUUkdmQ2Z0eFBHaGRrZFhVeGZrUnlMNE1OSzl6WHp2UXlUeU9XNmZDTFN4UHBlelRCMVVYdWhyM3RaRy1iYU45ckFkZFVsdkFfV3o2WUxfNEhQenlDTjhkRXZXWTZ3eFFvSDd4a0JST3RFQV8zWlIyQmRjZmJRTGJwZWlSM0Z3M3h3anhQMHNXYzBncmNZN0VsR1dPV2pFU2cyTE1rMEJPcjVJTnI4Z2VCazJLNkR6NkRoWkF0ZXk5QUVvbGdYU1Q5NGpVRXpMMUdZZ1FHb1lkc0lhT0VETFJzZ3Qxemo5Yl9MblNZVm5pTjZWMkVja25lM3Exb2xIR24yMm1PemdNQ2dWUzY3SFYzaFBXb2U0YWpMYUI3WHhPdW5uT0lRRXhfVlE",
+        "time": "2026-05-21 15:53:22"
+      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "斗六鐵路高架化等30年！張嘉郡率隊考察，促政院速核定動工 | 夏和宣 | 地方新聞 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83SHA4T3pKdlRzeTFQOXFCTmpTXzFUQmpBRUNRT0R1WVJkTzJyUWxCcXgxbE5kT05KeWFIa3RGeG93TVlVYUdtTy1FODZuQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 15:45:02"
+      },
+      {
+        "title": "張嘉郡率交委會考察斗六鐵路高架化 陳世凱允諾交通部會努力 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNOEdRLUlNNmpQTW0xOGx1ci1xMFZWODExdU11LWI1cHF3Q28tQkFnSC1wUU8zandDTS1CUFBXWmV1bS1JSmlTOFZ0TFVtaFQwbDRMaFdrVHB3SVhnUVJiNDZlRTFvTmNPRUt3aTVXdjh4RFEzNU9xYWN3dl9HekVvOElSa0lDMTRyaEJvOWZ1M2lGbThab2k1bzBpNlVNS0xIS1FPOG15SEF5RGEycjlITW1tRmpmOFUzSjhFLXBmbC1GUWNyTmNsM3ZyNnRhZTFqRkpvOThYcUZVMWR5Nmt2OUk4YkdlYWZnQVFvRHlockpFdmRtNUVkMnZMYW9kV0RrZ2U4LWFDUmN2SVRXcVd1SXdSZDItMzZIdWFHamlSa0YzWmV1bmd0VjhWd3BIaHdxS3Q0V0hJUlFiRHdTMjhOdEx0T0d5T3Azb2R1VWNteXd4Tm16RnVkZW1JcXB3Y1lxTHRCbWpqcEhNWHNLQlE5LURsTmQ4REZjeDROYzUxdjljQzdMblB0cDlwRmZsc0o4eUFFRHdEYzI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 15:32:34"
+      },
+      {
+        "title": "立院交委會考察斗六鐵路高架化 張嘉郡籲政院儘速核定動工 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPY29SUnZsV2U5d2YxR0xJcVlWQzhBdVNxWkZsa3NLOTgxZ2QwdmUtYjFYYUJ1RkFiNlY2UHlsUzR3UW8wSmdBS29OQVdkRWNhb1FOREtieXNaeG5pSDhhTHdrWE1wNk5sN2JkeEsxbVdnMzg2UkR0Uzk0OXpCd0lyZ2lmVzFvYTViUFVVSmVHcHBwU2RrSDNVbVhfNXdHWjQwLTVKZ2piZkNZRjJ1dDA4cXAyYkNQODM5enh6Y05QU081ZlBBUmdjT1RLYkVPRW5zNEQxRjIzc09nMzhsdjZka2Vtbi00Q2I4TS12SFNwU3FYUTJ1LVVJaEpRNjVHNDd5RVlJZ1FUVzYtZE9kbHZoTjJfeTlGSDZmYlU3bkVIRjkwWUlaQjYzQ1F0c1dsY3pNaldtOE83MTlBTm1Ic05SSWVLSU9kVlpGbkxwUW11T28zQnR0MTc5a05scnUtSmlCek45T1MtNURydWZaTUlUeVdGalVmTTREQUFkbFcwTWNIZk1zcGlMNTB4MVM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 15:03:17"
+      },
+      {
         "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DbXNWdVVxbzJpc2RXTE9zRFhETE12cDI2N1RhMjdiMVA4dUlacEliMmVUS1BUV3BIQnVqV21fN1pJZzVDVUd1TlViU3bSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 13:35:19"
+      },
+      {
+        "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zSFNWUXdFZVhQdUZYY2VvMUVEczJZb2Q1Vmd0aGttSFg1WldraGlNUXJXMGdYUV9BSnlYWWo0OC1JdjZPQ2puRXhiZVhoUkszM3fSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-21 13:35:19"
       },
       {
@@ -1298,29 +1439,14 @@
         "title": "蔣萬安喊話與打造北雲農漁產供應鍊張嘉郡：共創雙贏| 政治焦點 - 太報 TaiSounds",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aZkgyRXJWaU5pQWxuX3loSUJnMFJlNGgzVlVyR09QRGlkLVhEU2w2RHpTZmFBUnlYWTY2d094aVBaaFZydElxc3c1SDBmVVhVcHYyaWctaG9uLUFP?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-18 17:14:52"
-      },
-      {
-        "title": "蔣萬安親訪雲林建營養午餐「直供一條龍」！張嘉郡揭米其林秘密，盼北雲聯手打國際賽| 夏和宣| 地方新聞 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEU1prMk9zMWdWSlNic2JqUWNmcnVPR1NaTXljUzMxWGJ3M1BBUUNsOHJyaTEzTWtqOXRmOGhpcHBfV0FrNXluTUxoMENvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-18 16:56:28"
-      },
-      {
-        "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」創雙贏 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNenh4Q0lTYjI2cXlKWUxQVk1mdzF6V3FIYVdCcW9MblJzUWNQRmRnOXJ5a0pPSTFtZWJ4bmpCSkNvcGhyWW1pb0NjM0R0bFE4eTVXUlN3VmxKMk5famN2dUcxY1RMS1luWU1IeEp3aEVMQUlXU0ZRVFJ2MS00UVc0TTR2SzMtT2xxdmN0M21qWW1zbWxnSUVFQ1I5S1NGT1pBZ2xMR2VSbFVFVS0xYzJqZDh5Mnk4X1JCSjRfWm51WlZuM2xTeEF1VnYxa2VoVFV4S0hUbEFZYkpwRXl1Ny1FV0FvYWFPckphNmhIRnF1cDdJdm5TWVBYMEYzX2ZMcnlKNEdmUmtwMHBPN0piSHZWYUpJaVhSa3E5SHB5ekZwUUtfdURSQ0VaTDRCSmU1VFNQZjVZRmpCNkpwSkR3ZXdMdC1xb29aajA3dDFQS0xUa2hYektRaGxOYkhLM1QyZFFEbDVGeHpvV1FYZVFSX0c2b0o0R2JfM2drckphX05jeWNNUUswNzRhM3VrT1Z5SnUxSDVVS1pPYkhhQXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-18 16:18:51"
-      },
-      {
-        "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」 創雙贏 - 匯流新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SOGpvTkR0WTV1eUtXU0dkdlNqV0loT3Fsb3h3d1ZmcDVmZjlTRDIzX1pxV0t6YTlvMHg0aHgxRjZIdWVwSlN2VWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-18 16:18:51"
-      },
-      {
-        "title": "蔣萬安參訪雲林農漁產 張嘉郡包粽子大喊「大家都包中」 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQVFpBRlNPbW5DRjZsbGZrZ3cxZHg2RGktaDNjYV9LS0d3MDk1QnVJalVzRVFIaHhCeGphVlZoWDdGekNHQnhyZ1JqSmJETDltRXQxVE9hRjZPa2s4ZTRRbXg2STlRUjRVTW9wd1ZzLTJFZ2ZlN0pGanAxNldrQklmQkpLQkN0aHlHNjF3b2RJUlNWUnFuQW5vRWJCRTZvblFHd0tDV1N5ZTcwMUJYcUFWcVFvbHlkdXMzX1NXSmQtcDhLYXEtX0pWUWl3SlFYTWpJZHdQOVFJSkd0M0Ixc0lyNi1UNmVQSWZaRG5kdmlfbkJ2Mnk3UElrTjliZjB0RDFmU2x0Y1NteVEtQ1N2czhraWE5RnJhWmNNaXhmcE5xODhkNjk5UDZYSHZWREFEVjF4RDZMUENhZTA2Qk94dGxCSHdRVlpkYkx3MVVSeFZTdnloRmVjMk0wWFFjMlExWmUybF9SclZCWndINEp1WTB1VnZWSmh5X2JW?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-18 15:49:29"
       }
     ],
     "facebook": [
+      {
+        "title": "🎊斗六市「多功能社會福利大樓」正式啟用囉！🎉 這是結合「托育中心🍼」、「日照、長照空間👩‍🔬」、「K書中心📖」、「研習教室👨‍🎓」、「多功能空間🏫」、「運動休閒空間🏸」的 #全年齡多功能社會福利大樓，不只是硬體升級，更代表雲林縣的社福系統持續升級！ 嘉郡會繼續努力提 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMimghBVV95cUxPeElBd3dFV3lfSlJqbzI0YThyc3pzM09LZDNRX0xIenBDdnpDc0FmRWp6eXVvbFB2WnlxQ1dNRWVZSVRfdzQ1cEhLZFN4VjRrNHExUUZEc21mMmNiZGpUNUp4WVRHc3RIMll1aTAzZWdFaHNydmdMYk1NdnN1SHRzelNhVDdJWEdVN0IwLW5OVVhyR25CS2t5RVlXZkRoY0pCeG1jX2RoLVJLMkRjbEVnc09la1AxTm12dzVZQ1dRQXc1Q2U5OWxaeUwtb1N0THNhUjRaQlFhZmVMUWZqaUVUZV9iZTBxMzF3YXRWM2V4TVltSlh6T05sQm9OTjJUaEpGUDJmcGIwOXo1MENNR3ByNUUzdS1fdHFudldNQjVyVmFCdGQxbXN2MjhzYTJzazgzbDVfM3o1aWRRdUdnUWVOOUxEUUQ1bHZQQ1FnVXMtTHQ0TWh6MUZ0TnVFc1JSblpON2Mwd0k5dmlHXzlIbndfdGNMdmpsMUhyMXc2UG5tMU9jU2JSSFY0T2g5cF94a3VqUzc5eGc0Y2l2cGROQ2s1alJlZk1XNS1DQnhubU14RkI0VW51bkhHMFpYTWw2TTkzbmlrQUdoLU9FV2ZwZ1VseDVPNnhwZ1pvOW4zcm5PZFVhWVFXYmlnVXExMEREMjJpZUlWaW95YVFHM09pOXY4U0E1bEc5UDJtRDNMMFpVOGNyOFpjejgxYW5tUzFta043ei1sQzNaSUt5MmllcGgyRW1XalRXdURBdUs4bV9TQktMM3k1VG0ycC05WWQ0WlBzaUZxVjg0WEdjR0JrRFVqUFdqaXRjMG1tRUdVWTZEQmdYWGM3Z0Jqd3B5TUJTWFl6ekU2dnhvYTg3emlZcDhTd09xUnRrY0VXZGRWS2J0QUtWVjNTc202WTdBa1RmNEs5M2pEcHNYbkhQVDhjNzNJbTlRRkpyTGZwMVlJcktCSmFUWlNaN29mY3puZ3ZlNnFScDA1a19samtQUEkwVDUyTVh1bjRYQnZUUkdmQ2Z0eFBHaGRrZFhVeGZrUnlMNE1OSzl6WHp2UXlUeU9XNmZDTFN4UHBlelRCMVVYdWhyM3RaRy1iYU45ckFkZFVsdkFfV3o2WUxfNEhQenlDTjhkRXZXWTZ3eFFvSDd4a0JST3RFQV8zWlIyQmRjZmJRTGJwZWlSM0Z3M3h3anhQMHNXYzBncmNZN0VsR1dPV2pFU2cyTE1rMEJPcjVJTnI4Z2VCazJLNkR6NkRoWkF0ZXk5QUVvbGdYU1Q5NGpVRXpMMUdZZ1FHb1lkc0lhT0VETFJzZ3Qxemo5Yl9MblNZVm5pTjZWMkVja25lM3Exb2xIR24yMm1PemdNQ2dWUzY3SFYzaFBXb2U0YWpMYUI3WHhPdW5uT0lRRXhfVlE",
+        "time": "2026-05-21 15:53:22"
+      },
       {
         "title": "劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQblVCUFQwb0xLeHM5QVFnblktdE8zTmxHaWlFRFZES29wUm5KQXVOZVZpZnFhQURJandmYkQtZThSSXlNYzZxNUVFZ0NKQVZZRzk4ME5NT1NoVzRJNmdLbkduREY4MUl6b1M5aXRBLVlpc21SQW5YRUhEdDJrNmpfNGF0by1nOEhXYUNncDFXQzFxaS1SYUVfVjZibzBIX2hlbzhiaGVjNjVCcHpqdTY1dlNxQVg3TDV2Zi00NF9SYmI1OHRCOXVBU2ZXaE1QdHZST1lJaFRyQ2VNWlZhRG9rTU4xOG1nVjNFNjB3ZGhJLWpMMERleGRoX0RoUFhPWVhvai0zSVotN3pnRUlnZE5wMlJJSmNEbUh4bEFWUDFPOGxLUDVWTUtKUVFOdFBoWFpGb19xNmNUSnM5WGtrMnIyenFzNFg3Z2JyVkF1R2k2VkNpSDE4QzVjb3lfMEtvazFWSjBUVTRrTWl4a0hsRnFhUU9OQTg",
@@ -1425,8 +1551,43 @@
     "hour": [],
     "day": [
       {
+        "title": "🎊斗六市「多功能社會福利大樓」正式啟用囉！🎉 這是結合「托育中心🍼」、「日照、長照空間👩‍🔬」、「K書中心📖」、「研習教室👨‍🎓」、「多功能空間🏫」、「運動休閒空間🏸」的 #全年齡多功能社會福利大樓，不只是硬體升級，更代表雲林縣的社福系統持續升級！ 嘉郡會繼續努力提 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMimghBVV95cUxPeElBd3dFV3lfSlJqbzI0YThyc3pzM09LZDNRX0xIenBDdnpDc0FmRWp6eXVvbFB2WnlxQ1dNRWVZSVRfdzQ1cEhLZFN4VjRrNHExUUZEc21mMmNiZGpUNUp4WVRHc3RIMll1aTAzZWdFaHNydmdMYk1NdnN1SHRzelNhVDdJWEdVN0IwLW5OVVhyR25CS2t5RVlXZkRoY0pCeG1jX2RoLVJLMkRjbEVnc09la1AxTm12dzVZQ1dRQXc1Q2U5OWxaeUwtb1N0THNhUjRaQlFhZmVMUWZqaUVUZV9iZTBxMzF3YXRWM2V4TVltSlh6T05sQm9OTjJUaEpGUDJmcGIwOXo1MENNR3ByNUUzdS1fdHFudldNQjVyVmFCdGQxbXN2MjhzYTJzazgzbDVfM3o1aWRRdUdnUWVOOUxEUUQ1bHZQQ1FnVXMtTHQ0TWh6MUZ0TnVFc1JSblpON2Mwd0k5dmlHXzlIbndfdGNMdmpsMUhyMXc2UG5tMU9jU2JSSFY0T2g5cF94a3VqUzc5eGc0Y2l2cGROQ2s1alJlZk1XNS1DQnhubU14RkI0VW51bkhHMFpYTWw2TTkzbmlrQUdoLU9FV2ZwZ1VseDVPNnhwZ1pvOW4zcm5PZFVhWVFXYmlnVXExMEREMjJpZUlWaW95YVFHM09pOXY4U0E1bEc5UDJtRDNMMFpVOGNyOFpjejgxYW5tUzFta043ei1sQzNaSUt5MmllcGgyRW1XalRXdURBdUs4bV9TQktMM3k1VG0ycC05WWQ0WlBzaUZxVjg0WEdjR0JrRFVqUFdqaXRjMG1tRUdVWTZEQmdYWGM3Z0Jqd3B5TUJTWFl6ekU2dnhvYTg3emlZcDhTd09xUnRrY0VXZGRWS2J0QUtWVjNTc202WTdBa1RmNEs5M2pEcHNYbkhQVDhjNzNJbTlRRkpyTGZwMVlJcktCSmFUWlNaN29mY3puZ3ZlNnFScDA1a19samtQUEkwVDUyTVh1bjRYQnZUUkdmQ2Z0eFBHaGRrZFhVeGZrUnlMNE1OSzl6WHp2UXlUeU9XNmZDTFN4UHBlelRCMVVYdWhyM3RaRy1iYU45ckFkZFVsdkFfV3o2WUxfNEhQenlDTjhkRXZXWTZ3eFFvSDd4a0JST3RFQV8zWlIyQmRjZmJRTGJwZWlSM0Z3M3h3anhQMHNXYzBncmNZN0VsR1dPV2pFU2cyTE1rMEJPcjVJTnI4Z2VCazJLNkR6NkRoWkF0ZXk5QUVvbGdYU1Q5NGpVRXpMMUdZZ1FHb1lkc0lhT0VETFJzZ3Qxemo5Yl9MblNZVm5pTjZWMkVja25lM3Exb2xIR24yMm1PemdNQ2dWUzY3SFYzaFBXb2U0YWpMYUI3WHhPdW5uT0lRRXhfVlE",
+        "time": "2026-05-21 15:53:22",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
+        "title": "斗六鐵路高架化等30年！張嘉郡率隊考察，促政院速核定動工 | 夏和宣 | 地方新聞 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83SHA4T3pKdlRzeTFQOXFCTmpTXzFUQmpBRUNRT0R1WVJkTzJyUWxCcXgxbE5kT05KeWFIa3RGeG93TVlVYUdtTy1FODZuQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 15:45:02",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "張嘉郡率交委會考察斗六鐵路高架化 陳世凱允諾交通部會努力 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNOEdRLUlNNmpQTW0xOGx1ci1xMFZWODExdU11LWI1cHF3Q28tQkFnSC1wUU8zandDTS1CUFBXWmV1bS1JSmlTOFZ0TFVtaFQwbDRMaFdrVHB3SVhnUVJiNDZlRTFvTmNPRUt3aTVXdjh4RFEzNU9xYWN3dl9HekVvOElSa0lDMTRyaEJvOWZ1M2lGbThab2k1bzBpNlVNS0xIS1FPOG15SEF5RGEycjlITW1tRmpmOFUzSjhFLXBmbC1GUWNyTmNsM3ZyNnRhZTFqRkpvOThYcUZVMWR5Nmt2OUk4YkdlYWZnQVFvRHlockpFdmRtNUVkMnZMYW9kV0RrZ2U4LWFDUmN2SVRXcVd1SXdSZDItMzZIdWFHamlSa0YzWmV1bmd0VjhWd3BIaHdxS3Q0V0hJUlFiRHdTMjhOdEx0T0d5T3Azb2R1VWNteXd4Tm16RnVkZW1JcXB3Y1lxTHRCbWpqcEhNWHNLQlE5LURsTmQ4REZjeDROYzUxdjljQzdMblB0cDlwRmZsc0o4eUFFRHdEYzI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 15:32:34",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "立院交委會考察斗六鐵路高架化 張嘉郡籲政院儘速核定動工 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPY29SUnZsV2U5d2YxR0xJcVlWQzhBdVNxWkZsa3NLOTgxZ2QwdmUtYjFYYUJ1RkFiNlY2UHlsUzR3UW8wSmdBS29OQVdkRWNhb1FOREtieXNaeG5pSDhhTHdrWE1wNk5sN2JkeEsxbVdnMzg2UkR0Uzk0OXpCd0lyZ2lmVzFvYTViUFVVSmVHcHBwU2RrSDNVbVhfNXdHWjQwLTVKZ2piZkNZRjJ1dDA4cXAyYkNQODM5enh6Y05QU081ZlBBUmdjT1RLYkVPRW5zNEQxRjIzc09nMzhsdjZka2Vtbi00Q2I4TS12SFNwU3FYUTJ1LVVJaEpRNjVHNDd5RVlJZ1FUVzYtZE9kbHZoTjJfeTlGSDZmYlU3bkVIRjkwWUlaQjYzQ1F0c1dsY3pNaldtOE83MTlBTm1Ic05SSWVLSU9kVlpGbkxwUW11T28zQnR0MTc5a05scnUtSmlCek45T1MtNURydWZaTUlUeVdGalVmTTREQUFkbFcwTWNIZk1zcGlMNTB4MVM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 15:03:17",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DbXNWdVVxbzJpc2RXTE9zRFhETE12cDI2N1RhMjdiMVA4dUlacEliMmVUS1BUV3BIQnVqV21fN1pJZzVDVUd1TlViU3bSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 13:35:19",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zSFNWUXdFZVhQdUZYY2VvMUVEczJZb2Q1Vmd0aGttSFg1WldraGlNUXJXMGdYUV9BSnlYWWo0OC1JdjZPQ2puRXhiZVhoUkszM3fSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-21 13:35:19",
         "platform": "news",
         "risk": "綠"
@@ -1465,13 +1626,18 @@
     "regions": [
       {
         "name": "斗六",
-        "count": 3
+        "count": 8
       },
       {
         "name": "雲林",
-        "count": 2
+        "count": 3
       }
     ],
-    "groups": []
+    "groups": [
+      {
+        "name": "交通通勤",
+        "count": 1
+      }
+    ]
   }
 }
