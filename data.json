@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-21T15:43:14.901803+00:00",
+  "generated_at": "2026-05-21T15:58:36.527882+00:00",
   "metrics": {
-    "total_24h": 11,
+    "total_24h": 12,
     "prev_24h": 11,
-    "growth_pct": 0.0,
-    "news_24h": 9,
+    "growth_pct": 9.09,
+    "news_24h": 10,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 88,
+    "total": 89,
     "prev": 137,
-    "growth_pct": -35.77,
-    "news": 72,
+    "growth_pct": -35.04,
+    "news": 73,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 9
+      "count": 10
     },
     {
       "platform": "facebook",
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 72
+      "count": 73
     },
     {
       "platform": "facebook",
@@ -76,6 +76,10 @@
     },
     {
       "hour": "2026-05-21 20:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-05-21 22:00",
       "count": 1
     }
   ],
@@ -287,12 +291,16 @@
     {
       "hour": "2026-05-21 20:00",
       "count": 1
+    },
+    {
+      "hour": "2026-05-21 22:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 9
+      "count": 10
     },
     {
       "platform": "facebook",
@@ -301,6 +309,11 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "雲林立委張嘉郡率交委會考察縣道164線拓寬案交通部長陳世凱允諾補助規劃設計費後續工程再視明年預算規模分期推動 - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kR2R5d3d3UlN4THRGdkZjUnN4MkxBcmNyMWkwU0l2Zno0M3RiQkNMNEk0N3FjLW02ZGVtYkRLaW5VbThLa2EzNVRDSnlsczFMVkkyc280eFlPQkU2bkJnS0xBelpzWjI2eHBj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 22:47:53"
+      },
       {
         "title": "張嘉郡考察斗六鐵路高架化　促政院儘速核定動工 - 三立新聞網SETN.com",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kMGp0dXJGbEdDNkRCSDhkRHRHSkIwc25uNmRLMnpaYzBBMnRncmhqNFg4dkdNeERVcFAzS0Y4NU5iYmdFN2RJVzgtaTlIVU9FN1NxYTQ0UkLSAV9BVV95cUxQSmhmWmhiQ3ZlT1Q0QzFNYm1pLXBRWmVSR2VXQnhkekxyQ1V5ZDNVUUg2MG1NX0pYZ0syRjdRRDRPOHhkLVVsYUFmQTVoS3BNTklqMm9rNEJwNm1aT2NyQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -358,7 +371,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 9
+      "count": 10
     },
     {
       "platform": "facebook",
@@ -367,6 +380,11 @@
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "雲林立委張嘉郡率交委會考察縣道164線拓寬案交通部長陳世凱允諾補助規劃設計費後續工程再視明年預算規模分期推動 - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kR2R5d3d3UlN4THRGdkZjUnN4MkxBcmNyMWkwU0l2Zno0M3RiQkNMNEk0N3FjLW02ZGVtYkRLaW5VbThLa2EzNVRDSnlsczFMVkkyc280eFlPQkU2bkJnS0xBelpzWjI2eHBj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 22:47:53"
+      },
       {
         "title": "張嘉郡考察斗六鐵路高架化　促政院儘速核定動工 - 三立新聞網SETN.com",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kMGp0dXJGbEdDNkRCSDhkRHRHSkIwc25uNmRLMnpaYzBBMnRncmhqNFg4dkdNeERVcFAzS0Y4NU5iYmdFN2RJVzgtaTlIVU9FN1NxYTQ0UkLSAV9BVV95cUxQSmhmWmhiQ3ZlT1Q0QzFNYm1pLXBRWmVSR2VXQnhkekxyQ1V5ZDNVUUg2MG1NX0pYZ0syRjdRRDRPOHhkLVVsYUFmQTVoS3BNTklqMm9rNEJwNm1aT2NyQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -422,14 +440,19 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 10,
+    "張嘉郡": 11,
     "劉建國": 1
   },
   "mention_compare_7d": {
-    "張嘉郡": 35,
+    "張嘉郡": 36,
     "劉建國": 42
   },
   "top_news": [
+    {
+      "title": "雲林立委張嘉郡率交委會考察縣道164線拓寬案交通部長陳世凱允諾補助規劃設計費後續工程再視明年預算規模分期推動 - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kR2R5d3d3UlN4THRGdkZjUnN4MkxBcmNyMWkwU0l2Zno0M3RiQkNMNEk0N3FjLW02ZGVtYkRLaW5VbThLa2EzNVRDSnlsczFMVkkyc280eFlPQkU2bkJnS0xBelpzWjI2eHBj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-21 22:47:53"
+    },
     {
       "title": "張嘉郡考察斗六鐵路高架化　促政院儘速核定動工 - 三立新聞網SETN.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kMGp0dXJGbEdDNkRCSDhkRHRHSkIwc25uNmRLMnpaYzBBMnRncmhqNFg4dkdNeERVcFAzS0Y4NU5iYmdFN2RJVzgtaTlIVU9FN1NxYTQ0UkLSAV9BVV95cUxQSmhmWmhiQ3ZlT1Q0QzFNYm1pLXBRWmVSR2VXQnhkekxyQ1V5ZDNVUUg2MG1NX0pYZ0syRjdRRDRPOHhkLVVsYUFmQTVoS3BNTklqMm9rNEJwNm1aT2NyQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -477,6 +500,11 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "雲林立委張嘉郡率交委會考察縣道164線拓寬案交通部長陳世凱允諾補助規劃設計費後續工程再視明年預算規模分期推動 - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kR2R5d3d3UlN4THRGdkZjUnN4MkxBcmNyMWkwU0l2Zno0M3RiQkNMNEk0N3FjLW02ZGVtYkRLaW5VbThLa2EzNVRDSnlsczFMVkkyc280eFlPQkU2bkJnS0xBelpzWjI2eHBj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-21 22:47:53"
+    },
     {
       "title": "張嘉郡考察斗六鐵路高架化　促政院儘速核定動工 - 三立新聞網SETN.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kMGp0dXJGbEdDNkRCSDhkRHRHSkIwc25uNmRLMnpaYzBBMnRncmhqNFg4dkdNeERVcFAzS0Y4NU5iYmdFN2RJVzgtaTlIVU9FN1NxYTQ0UkLSAV9BVV95cUxQSmhmWmhiQ3ZlT1Q0QzFNYm1pLXBRWmVSR2VXQnhkekxyQ1V5ZDNVUUg2MG1NX0pYZ0syRjdRRDRPOHhkLVVsYUFmQTVoS3BNTklqMm9rNEJwNm1aT2NyQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -571,11 +599,6 @@
       "title": "是接受酬庸還是真有本事？ 畜產會董事長蘇治芬面臨改革與信任的雙重考驗 - 記者爆料網",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tQTVvRzFPTWZFbFJNZlppNkxCa3dJZ19nM3lLc1gwckk4c0QxVmc2R1JVb2pFZGF3V1hjSXh2RFNWaXNsd2xLRWRfczJaQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-20 01:52:07"
-    },
-    {
-      "title": "2026《鉅聞民調》雲林縣長選舉／張嘉郡49.52%領先劉建國10.61個百分點張在海線及農業鄉鎮碾壓劉固守斗六最大票倉 - 鉅聞天下",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjaUZuZi04SWNtckpfdmpEWXNzenJlTklmYjBJZmdCNGRtUzVzSmlTdVR4ZlRXeGtIQ2ppY3FxLS1yS2lsOHlpQnhqbm5xaTBtUW1zU040QlAtbXhjd2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-20 00:00:00"
     }
   ],
   "latest_facebook_20": [
@@ -682,6 +705,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "雲林立委張嘉郡率交委會考察縣道164線拓寬案交通部長陳世凱允諾補助規劃設計費後續工程再視明年預算規模分期推動 - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kR2R5d3d3UlN4THRGdkZjUnN4MkxBcmNyMWkwU0l2Zno0M3RiQkNMNEk0N3FjLW02ZGVtYkRLaW5VbThLa2EzNVRDSnlsczFMVkkyc280eFlPQkU2bkJnS0xBelpzWjI2eHBj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-21 22:47:53"
+    },
+    {
       "title": "張嘉郡考察斗六鐵路高架化　促政院儘速核定動工 - 三立新聞網SETN.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kMGp0dXJGbEdDNkRCSDhkRHRHSkIwc25uNmRLMnpaYzBBMnRncmhqNFg4dkdNeERVcFAzS0Y4NU5iYmdFN2RJVzgtaTlIVU9FN1NxYTQ0UkLSAV9BVV95cUxQSmhmWmhiQ3ZlT1Q0QzFNYm1pLXBRWmVSR2VXQnhkekxyQ1V5ZDNVUUg2MG1NX0pYZ0syRjdRRDRPOHhkLVVsYUFmQTVoS3BNTklqMm9rNEJwNm1aT2NyQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-21 19:00:00"
@@ -775,11 +803,6 @@
       "title": "是接受酬庸還是真有本事？ 畜產會董事長蘇治芬面臨改革與信任的雙重考驗 - 記者爆料網",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tQTVvRzFPTWZFbFJNZlppNkxCa3dJZ19nM3lLc1gwckk4c0QxVmc2R1JVb2pFZGF3V1hjSXh2RFNWaXNsd2xLRWRfczJaQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-20 01:52:07"
-    },
-    {
-      "title": "2026《鉅聞民調》雲林縣長選舉／張嘉郡49.52%領先劉建國10.61個百分點張在海線及農業鄉鎮碾壓劉固守斗六最大票倉 - 鉅聞天下",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjaUZuZi04SWNtckpfdmpEWXNzenJlTklmYjBJZmdCNGRtUzVzSmlTdVR4ZlRXeGtIQ2ppY3FxLS1yS2lsOHlpQnhqbm5xaTBtUW1zU040QlAtbXhjd2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-20 00:00:00"
     }
   ],
   "person_sections": {
@@ -888,6 +911,11 @@
       ],
       "news": [
         {
+          "title": "雲林立委張嘉郡率交委會考察縣道164線拓寬案交通部長陳世凱允諾補助規劃設計費後續工程再視明年預算規模分期推動 - 台灣華報",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kR2R5d3d3UlN4THRGdkZjUnN4MkxBcmNyMWkwU0l2Zno0M3RiQkNMNEk0N3FjLW02ZGVtYkRLaW5VbThLa2EzNVRDSnlsczFMVkkyc280eFlPQkU2bkJnS0xBelpzWjI2eHBj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-21 22:47:53"
+        },
+        {
           "title": "張嘉郡考察斗六鐵路高架化　促政院儘速核定動工 - 三立新聞網SETN.com",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kMGp0dXJGbEdDNkRCSDhkRHRHSkIwc25uNmRLMnpaYzBBMnRncmhqNFg4dkdNeERVcFAzS0Y4NU5iYmdFN2RJVzgtaTlIVU9FN1NxYTQ0UkLSAV9BVV95cUxQSmhmWmhiQ3ZlT1Q0QzFNYm1pLXBRWmVSR2VXQnhkekxyQ1V5ZDNVUUg2MG1NX0pYZ0syRjdRRDRPOHhkLVVsYUFmQTVoS3BNTklqMm9rNEJwNm1aT2NyQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-21 19:00:00"
@@ -981,11 +1009,6 @@
           "title": "蔣萬安南下參訪營養午餐供應鏈來源 張嘉郡盼「北雲合作」 創雙贏 - 匯流新聞網",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SOGpvTkR0WTV1eUtXU0dkdlNqV0loT3Fsb3h3d1ZmcDVmZjlTRDIzX1pxV0t6YTlvMHg0aHgxRjZIdWVwSlN2VWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-18 16:18:51"
-        },
-        {
-          "title": "蔣萬安參訪雲林農漁產 張嘉郡包粽子大喊「大家都包中」 - MSN",
-          "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQVFpBRlNPbW5DRjZsbGZrZ3cxZHg2RGktaDNjYV9LS0d3MDk1QnVJalVzRVFIaHhCeGphVlZoWDdGekNHQnhyZ1JqSmJETDltRXQxVE9hRjZPa2s4ZTRRbXg2STlRUjRVTW9wd1ZzLTJFZ2ZlN0pGanAxNldrQklmQkpLQkN0aHlHNjF3b2RJUlNWUnFuQW5vRWJCRTZvblFHd0tDV1N5ZTcwMUJYcUFWcVFvbHlkdXMzX1NXSmQtcDhLYXEtX0pWUWl3SlFYTWpJZHdQOVFJSkd0M0Ixc0lyNi1UNmVQSWZaRG5kdmlfbkJ2Mnk3UElrTjliZjB0RDFmU2x0Y1NteVEtQ1N2czhraWE5RnJhWmNNaXhmcE5xODhkNjk5UDZYSHZWREFEVjF4RDZMUENhZTA2Qk94dGxCSHdRVlpkYkx3MVVSeFZTdnloRmVjMk0wWFFjMlExWmUybF9SclZCWndINEp1WTB1VnZWSmh5X2JW?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-18 15:49:29"
         }
       ]
     },
@@ -1199,6 +1222,11 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "雲林立委張嘉郡率交委會考察縣道164線拓寬案交通部長陳世凱允諾補助規劃設計費後續工程再視明年預算規模分期推動 - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kR2R5d3d3UlN4THRGdkZjUnN4MkxBcmNyMWkwU0l2Zno0M3RiQkNMNEk0N3FjLW02ZGVtYkRLaW5VbThLa2EzNVRDSnlsczFMVkkyc280eFlPQkU2bkJnS0xBelpzWjI2eHBj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 22:47:53"
+      },
+      {
         "title": "張嘉郡考察斗六鐵路高架化　促政院儘速核定動工 - 三立新聞網SETN.com",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kMGp0dXJGbEdDNkRCSDhkRHRHSkIwc25uNmRLMnpaYzBBMnRncmhqNFg4dkdNeERVcFAzS0Y4NU5iYmdFN2RJVzgtaTlIVU9FN1NxYTQ0UkLSAV9BVV95cUxQSmhmWmhiQ3ZlT1Q0QzFNYm1pLXBRWmVSR2VXQnhkekxyQ1V5ZDNVUUg2MG1NX0pYZ0syRjdRRDRPOHhkLVVsYUFmQTVoS3BNTklqMm9rNEJwNm1aT2NyQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-21 19:00:00"
@@ -1261,6 +1289,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "雲林立委張嘉郡率交委會考察縣道164線拓寬案交通部長陳世凱允諾補助規劃設計費後續工程再視明年預算規模分期推動 - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kR2R5d3d3UlN4THRGdkZjUnN4MkxBcmNyMWkwU0l2Zno0M3RiQkNMNEk0N3FjLW02ZGVtYkRLaW5VbThLa2EzNVRDSnlsczFMVkkyc280eFlPQkU2bkJnS0xBelpzWjI2eHBj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 22:47:53"
+      },
       {
         "title": "張嘉郡考察斗六鐵路高架化　促政院儘速核定動工 - 三立新聞網SETN.com",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kMGp0dXJGbEdDNkRCSDhkRHRHSkIwc25uNmRLMnpaYzBBMnRncmhqNFg4dkdNeERVcFAzS0Y4NU5iYmdFN2RJVzgtaTlIVU9FN1NxYTQ0UkLSAV9BVV95cUxQSmhmWmhiQ3ZlT1Q0QzFNYm1pLXBRWmVSR2VXQnhkekxyQ1V5ZDNVUUg2MG1NX0pYZ0syRjdRRDRPOHhkLVVsYUFmQTVoS3BNTklqMm9rNEJwNm1aT2NyQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1455,11 +1488,6 @@
         "title": "劉建國爭取成功！彈性育嬰假再升級 行政院正式拍板 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQTF9pUC1OVWIzT2JUN05RSE9GOW45ME1wNjRqVjQtQUM5UVhSemstbmVlYTZFYzk0VFhfdlIxbUdGWWJlNFd3RE5FX1poWWF0NDNHSmQ5T2JNS2pCOTRETjB0bUlyVVNFSVZ5cXdma0F3bFlfMXlWQU1IeVFLTGtpSXZsZWtrREFVMnIxSnhEaGFpWW5OUG1DOHNWaXB2YkI1Z19zVUM1Vy1mazhhVGd1bXZlai0yZ21aaS1vQzlITEVVWjdqZXREeDZwcHRUekVWUEF4M0NCa1ZZNzhoM3hlRjdGWXF0MC0zNThVQWUzU296MkZ0U2d1WS1hUXJIM2NwdFZsSmlmcW5xRERKNWhlTDNLX1IxSUdoY0dmTndNcnpycFZHdHA5QzJqMnZYdFROaHN5eVdmcmJMYUpjVTc1TnQxRHF2WkdTT2dKZTQ5V0tnZjBJaTlXM1RXTkZLZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-19 14:46:17"
-      },
-      {
-        "title": "快新聞／劉建國爭取成功！彈性育嬰假再升級 行政院正式拍板 - 民視新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mMGNoeUpzRmJKLV92dWV1dkMtTkxSUHlHSVYyakVHYXN3Q0FSck5VRlU4RFVmX05nRHN0S2IwbFA4RUtJSno3RzVLXzFxQnQ3UWRyUlEtMTJxSTlFZXpVdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-19 14:18:58"
       }
     ],
     "facebook": [
@@ -1552,6 +1580,13 @@
     "hour": [],
     "day": [
       {
+        "title": "雲林立委張嘉郡率交委會考察縣道164線拓寬案交通部長陳世凱允諾補助規劃設計費後續工程再視明年預算規模分期推動 - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kR2R5d3d3UlN4THRGdkZjUnN4MkxBcmNyMWkwU0l2Zno0M3RiQkNMNEk0N3FjLW02ZGVtYkRLaW5VbThLa2EzNVRDSnlsczFMVkkyc280eFlPQkU2bkJnS0xBelpzWjI2eHBj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-21 22:47:53",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "今天媒體朋友問我，川普總統和賴清德若直接通話，是不是會觸怒中國？我只想說，中國生氣的門檻非常低，生氣一點都不意外。與其整天擔心中國生氣，不如好好強化我們的國防實力！👇我的完整回答：",
         "url": "https://www.youtube.com/shorts/R0GHiDCZI2w",
         "time": "2026-05-21 20:11:53",
@@ -1638,13 +1673,13 @@
       },
       {
         "name": "雲林",
-        "count": 4
+        "count": 5
       }
     ],
     "groups": [
       {
         "name": "交通通勤",
-        "count": 2
+        "count": 3
       },
       {
         "name": "工地/營造",
