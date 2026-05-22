@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-22T03:44:17.241625+00:00",
+  "generated_at": "2026-05-22T03:59:35.386830+00:00",
   "metrics": {
-    "total_24h": 16,
+    "total_24h": 17,
     "prev_24h": 10,
-    "growth_pct": 60.0,
-    "news_24h": 14,
+    "growth_pct": 70.0,
+    "news_24h": 15,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 90,
+    "total": 91,
     "prev": 138,
-    "growth_pct": -34.78,
-    "news": 75,
+    "growth_pct": -34.06,
+    "news": 76,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 14
+      "count": 15
     },
     {
       "platform": "facebook",
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 75
+      "count": 76
     },
     {
       "platform": "facebook",
@@ -85,6 +85,10 @@
     {
       "hour": "2026-05-22 00:00",
       "count": 2
+    },
+    {
+      "hour": "2026-05-22 11:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -299,6 +303,10 @@
     {
       "hour": "2026-05-22 00:00",
       "count": 2
+    },
+    {
+      "hour": "2026-05-22 11:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
@@ -493,6 +501,11 @@
   },
   "top_news": [
     {
+      "title": "現任鄉長因流氓感訓、槍砲前科 蘇治芬子弟兵排黑政治生涯止步 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WbGp0VGI2MUVpWEk4OWxGbmRVeloxTE9LNlhtblFSZHNJd0l5YnMtSnJwWFFYNC1SMENYTDlrX01HbTVDV3VMMlhXOF9rejRGbEE3VUx3QmNzZU5aOXNUQ3kxRXdYMDBjWENvbnFR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-22 11:05:01"
+    },
+    {
       "title": "張嘉郡率交委會考察斗六鐵路高架化 促政院儘速核定動工 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQRnM0djNMU3M0YlBsSC1oX2d4cUJ2dmpjMnVBdGhBcklNLVR6Yi1QN1RCLWctY0xDNFlsSTR1WTMzU3A2aXpBRWJ6STd3SzRRcll4ZlJsRGdnTzJGZGtacW9WQXFSYWFjUUxVbnY1cF9JZndTeW9JU3NwY3dKSFh5T1c2TlduaVJyaHF4Wkd2OTRwY2ZPZEtiOU9tamVJeHpQa2JINHBUdkpIOV9fYk1VMFN3S3VTMnE0TmpDekhmaHpPc1lqTFdSUXlVbXJPUHZYVDZ6cG1ITTlQcTNsZ3UxOWJOMjJ0Z19IRXBibTVPNE1JeXVlU3ZLYlJQTVpLSDN1MGUyQ2hkb2JfZXd0QUhGT1ZPSzFRLVZlaDNKNWJUQnF3SXRqS3VWLWxxakJaRmNRdDlSZFM3SUg5V2NBSmpCb1dHNlVZOW55UlFOZTlfejBCVnA4RnhYUVBackMwRHdjQWplRWZuTHB0RVBYQlJ0eHRpdUcxcmdWakdwVnZ3TV8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-22 00:04:06"
@@ -546,14 +559,14 @@
       "title": "立院交委會考察斗六鐵路高架化 張嘉郡籲政院儘速核定動工 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPY29SUnZsV2U5d2YxR0xJcVlWQzhBdVNxWkZsa3NLOTgxZ2QwdmUtYjFYYUJ1RkFiNlY2UHlsUzR3UW8wSmdBS29OQVdkRWNhb1FOREtieXNaeG5pSDhhTHdrWE1wNk5sN2JkeEsxbVdnMzg2UkR0Uzk0OXpCd0lyZ2lmVzFvYTViUFVVSmVHcHBwU2RrSDNVbVhfNXdHWjQwLTVKZ2piZkNZRjJ1dDA4cXAyYkNQODM5enh6Y05QU081ZlBBUmdjT1RLYkVPRW5zNEQxRjIzc09nMzhsdjZka2Vtbi00Q2I4TS12SFNwU3FYUTJ1LVVJaEpRNjVHNDd5RVlJZ1FUVzYtZE9kbHZoTjJfeTlGSDZmYlU3bkVIRjkwWUlaQjYzQ1F0c1dsY3pNaldtOE83MTlBTm1Ic05SSWVLSU9kVlpGbkxwUW11T28zQnR0MTc5a05scnUtSmlCek45T1MtNURydWZaTUlUeVdGalVmTTREQUFkbFcwTWNIZk1zcGlMNTB4MVM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-21 15:03:17"
-    },
-    {
-      "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DbXNWdVVxbzJpc2RXTE9zRFhETE12cDI2N1RhMjdiMVA4dUlacEliMmVUS1BUV3BIQnVqV21fN1pJZzVDVUd1TlViU3bSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-21 13:35:19"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "現任鄉長因流氓感訓、槍砲前科 蘇治芬子弟兵排黑政治生涯止步 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WbGp0VGI2MUVpWEk4OWxGbmRVeloxTE9LNlhtblFSZHNJd0l5YnMtSnJwWFFYNC1SMENYTDlrX01HbTVDV3VMMlhXOF9rejRGbEE3VUx3QmNzZU5aOXNUQ3kxRXdYMDBjWENvbnFR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-22 11:05:01"
+    },
     {
       "title": "張嘉郡率交委會考察斗六鐵路高架化 促政院儘速核定動工 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQRnM0djNMU3M0YlBsSC1oX2d4cUJ2dmpjMnVBdGhBcklNLVR6Yi1QN1RCLWctY0xDNFlsSTR1WTMzU3A2aXpBRWJ6STd3SzRRcll4ZlJsRGdnTzJGZGtacW9WQXFSYWFjUUxVbnY1cF9JZndTeW9JU3NwY3dKSFh5T1c2TlduaVJyaHF4Wkd2OTRwY2ZPZEtiOU9tamVJeHpQa2JINHBUdkpIOV9fYk1VMFN3S3VTMnE0TmpDekhmaHpPc1lqTFdSUXlVbXJPUHZYVDZ6cG1ITTlQcTNsZ3UxOWJOMjJ0Z19IRXBibTVPNE1JeXVlU3ZLYlJQTVpLSDN1MGUyQ2hkb2JfZXd0QUhGT1ZPSzFRLVZlaDNKNWJUQnF3SXRqS3VWLWxxakJaRmNRdDlSZFM3SUg5V2NBSmpCb1dHNlVZOW55UlFOZTlfejBCVnA4RnhYUVBackMwRHdjQWplRWZuTHB0RVBYQlJ0eHRpdUcxcmdWakdwVnZ3TV8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -648,11 +661,6 @@
       "title": "行政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝支持新手爸媽 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wQTU4XzZVWHdMcERMTm52Uk9nNmN0Mm5ySEs1SWktVzFVN0NJVjktMHk1RTJ5di1lOTZ5eDJSdTZiR1ZyTTloR0NQb1pST2xueHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-20 15:32:00"
-    },
-    {
-      "title": "行政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝支持新手爸媽 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1gtQkl0OEFTTlNNbkg5UjJiTXdmZWIya2VIVk1xOEI5YktKVnlJemZxVWNscllTdWRNdWwtUzJSeWxFcnBJT2NTbU9rRGpDWUpFdlZSemFNU0xoQVVhRFJRWjRYTjZhUlpwQzN3ZEpTWGl6Ym8tWGxhWXhaZDljUHE2UTRodm5hZ3hqYVFqVnI5a1ZKVEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-20 15:22:17"
     }
   ],
   "latest_facebook_20": [
@@ -759,6 +767,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "現任鄉長因流氓感訓、槍砲前科 蘇治芬子弟兵排黑政治生涯止步 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WbGp0VGI2MUVpWEk4OWxGbmRVeloxTE9LNlhtblFSZHNJd0l5YnMtSnJwWFFYNC1SMENYTDlrX01HbTVDV3VMMlhXOF9rejRGbEE3VUx3QmNzZU5aOXNUQ3kxRXdYMDBjWENvbnFR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-22 11:05:01"
+    },
+    {
       "title": "張嘉郡率交委會考察斗六鐵路高架化 促政院儘速核定動工 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQRnM0djNMU3M0YlBsSC1oX2d4cUJ2dmpjMnVBdGhBcklNLVR6Yi1QN1RCLWctY0xDNFlsSTR1WTMzU3A2aXpBRWJ6STd3SzRRcll4ZlJsRGdnTzJGZGtacW9WQXFSYWFjUUxVbnY1cF9JZndTeW9JU3NwY3dKSFh5T1c2TlduaVJyaHF4Wkd2OTRwY2ZPZEtiOU9tamVJeHpQa2JINHBUdkpIOV9fYk1VMFN3S3VTMnE0TmpDekhmaHpPc1lqTFdSUXlVbXJPUHZYVDZ6cG1ITTlQcTNsZ3UxOWJOMjJ0Z19IRXBibTVPNE1JeXVlU3ZLYlJQTVpLSDN1MGUyQ2hkb2JfZXd0QUhGT1ZPSzFRLVZlaDNKNWJUQnF3SXRqS3VWLWxxakJaRmNRdDlSZFM3SUg5V2NBSmpCb1dHNlVZOW55UlFOZTlfejBCVnA4RnhYUVBackMwRHdjQWplRWZuTHB0RVBYQlJ0eHRpdUcxcmdWakdwVnZ3TV8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-22 00:04:06"
@@ -852,11 +865,6 @@
       "title": "行政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝支持新手爸媽 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wQTU4XzZVWHdMcERMTm52Uk9nNmN0Mm5ySEs1SWktVzFVN0NJVjktMHk1RTJ5di1lOTZ5eDJSdTZiR1ZyTTloR0NQb1pST2xueHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-20 15:32:00"
-    },
-    {
-      "title": "行政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝支持新手爸媽 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1gtQkl0OEFTTlNNbkg5UjJiTXdmZWIya2VIVk1xOEI5YktKVnlJemZxVWNscllTdWRNdWwtUzJSeWxFcnBJT2NTbU9rRGpDWUpFdlZSemFNU0xoQVVhRFJRWjRYTjZhUlpwQzN3ZEpTWGl6Ym8tWGxhWXhaZDljUHE2UTRodm5hZ3hqYVFqVnI5a1ZKVEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-20 15:22:17"
     }
   ],
   "person_sections": {
@@ -1276,6 +1284,11 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "現任鄉長因流氓感訓、槍砲前科 蘇治芬子弟兵排黑政治生涯止步 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WbGp0VGI2MUVpWEk4OWxGbmRVeloxTE9LNlhtblFSZHNJd0l5YnMtSnJwWFFYNC1SMENYTDlrX01HbTVDV3VMMlhXOF9rejRGbEE3VUx3QmNzZU5aOXNUQ3kxRXdYMDBjWENvbnFR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-22 11:05:01"
+      },
+      {
         "title": "張嘉郡率交委會考察斗六鐵路高架化 促政院儘速核定動工 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQRnM0djNMU3M0YlBsSC1oX2d4cUJ2dmpjMnVBdGhBcklNLVR6Yi1QN1RCLWctY0xDNFlsSTR1WTMzU3A2aXpBRWJ6STd3SzRRcll4ZlJsRGdnTzJGZGtacW9WQXFSYWFjUUxVbnY1cF9JZndTeW9JU3NwY3dKSFh5T1c2TlduaVJyaHF4Wkd2OTRwY2ZPZEtiOU9tamVJeHpQa2JINHBUdkpIOV9fYk1VMFN3S3VTMnE0TmpDekhmaHpPc1lqTFdSUXlVbXJPUHZYVDZ6cG1ITTlQcTNsZ3UxOWJOMjJ0Z19IRXBibTVPNE1JeXVlU3ZLYlJQTVpLSDN1MGUyQ2hkb2JfZXd0QUhGT1ZPSzFRLVZlaDNKNWJUQnF3SXRqS3VWLWxxakJaRmNRdDlSZFM3SUg5V2NBSmpCb1dHNlVZOW55UlFOZTlfejBCVnA4RnhYUVBackMwRHdjQWplRWZuTHB0RVBYQlJ0eHRpdUcxcmdWakdwVnZ3TV8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-22 00:04:06"
@@ -1363,6 +1376,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "現任鄉長因流氓感訓、槍砲前科 蘇治芬子弟兵排黑政治生涯止步 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WbGp0VGI2MUVpWEk4OWxGbmRVeloxTE9LNlhtblFSZHNJd0l5YnMtSnJwWFFYNC1SMENYTDlrX01HbTVDV3VMMlhXOF9rejRGbEE3VUx3QmNzZU5aOXNUQ3kxRXdYMDBjWENvbnFR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-22 11:05:01"
+      },
       {
         "title": "張嘉郡率交委會考察斗六鐵路高架化 促政院儘速核定動工 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQRnM0djNMU3M0YlBsSC1oX2d4cUJ2dmpjMnVBdGhBcklNLVR6Yi1QN1RCLWctY0xDNFlsSTR1WTMzU3A2aXpBRWJ6STd3SzRRcll4ZlJsRGdnTzJGZGtacW9WQXFSYWFjUUxVbnY1cF9JZndTeW9JU3NwY3dKSFh5T1c2TlduaVJyaHF4Wkd2OTRwY2ZPZEtiOU9tamVJeHpQa2JINHBUdkpIOV9fYk1VMFN3S3VTMnE0TmpDekhmaHpPc1lqTFdSUXlVbXJPUHZYVDZ6cG1ITTlQcTNsZ3UxOWJOMjJ0Z19IRXBibTVPNE1JeXVlU3ZLYlJQTVpLSDN1MGUyQ2hkb2JfZXd0QUhGT1ZPSzFRLVZlaDNKNWJUQnF3SXRqS3VWLWxxakJaRmNRdDlSZFM3SUg5V2NBSmpCb1dHNlVZOW55UlFOZTlfejBCVnA4RnhYUVBackMwRHdjQWplRWZuTHB0RVBYQlJ0eHRpdUcxcmdWakdwVnZ3TV8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1557,11 +1575,6 @@
         "title": "彈性育嬰假放寬至幼兒6歲前適用 劉建國指有助新手爸媽兼顧工作家庭 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CcXlLeklBek81T1BWb2o1TlNpUmQ5QWNpV3RSXzdrb1RaaTVLNjZHdVJaR2NSaTl0T0xzNEtiRzE4dXN2bllvLXBmUEoyanh5M2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-19 16:25:00"
-      },
-      {
-        "title": "是接受酬庸還是真有本事？ 畜產會董事長蘇治芬面臨改革與信任的雙重考驗 - 新頭條",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MUUNrOVFKWE03UU55bmJFVmh0dW15X1FYLXl1cHJpUmY4OVhzSjUyMVZ0Rk9WYzhLZkY5NXNQdkE2cU9IZWllSHhOdmtMaWxaYVRTXw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-19 16:21:34"
       }
     ],
     "facebook": [
@@ -1648,6 +1661,13 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "現任鄉長因流氓感訓、槍砲前科 蘇治芬子弟兵排黑政治生涯止步 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WbGp0VGI2MUVpWEk4OWxGbmRVeloxTE9LNlhtblFSZHNJd0l5YnMtSnJwWFFYNC1SMENYTDlrX01HbTVDV3VMMlhXOF9rejRGbEE3VUx3QmNzZU5aOXNUQ3kxRXdYMDBjWENvbnFR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-22 11:05:01",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "張嘉郡率交委會考察斗六鐵路高架化 促政院儘速核定動工 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQRnM0djNMU3M0YlBsSC1oX2d4cUJ2dmpjMnVBdGhBcklNLVR6Yi1QN1RCLWctY0xDNFlsSTR1WTMzU3A2aXpBRWJ6STd3SzRRcll4ZlJsRGdnTzJGZGtacW9WQXFSYWFjUUxVbnY1cF9JZndTeW9JU3NwY3dKSFh5T1c2TlduaVJyaHF4Wkd2OTRwY2ZPZEtiOU9tamVJeHpQa2JINHBUdkpIOV9fYk1VMFN3S3VTMnE0TmpDekhmaHpPc1lqTFdSUXlVbXJPUHZYVDZ6cG1ITTlQcTNsZ3UxOWJOMjJ0Z19IRXBibTVPNE1JeXVlU3ZLYlJQTVpLSDN1MGUyQ2hkb2JfZXd0QUhGT1ZPSzFRLVZlaDNKNWJUQnF3SXRqS3VWLWxxakJaRmNRdDlSZFM3SUg5V2NBSmpCb1dHNlVZOW55UlFOZTlfejBCVnA4RnhYUVBackMwRHdjQWplRWZuTHB0RVBYQlJ0eHRpdUcxcmdWakdwVnZ3TV8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
