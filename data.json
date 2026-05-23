@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-23T01:01:45.366908+00:00",
+  "generated_at": "2026-05-23T01:17:03.890137+00:00",
   "metrics": {
-    "total_24h": 4,
+    "total_24h": 6,
     "prev_24h": 19,
-    "growth_pct": -78.95,
-    "news_24h": 3,
+    "growth_pct": -68.42,
+    "news_24h": 4,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 92,
+    "total": 94,
     "prev": 133,
-    "growth_pct": -30.83,
-    "news": 76,
+    "growth_pct": -29.32,
+    "news": 77,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,11 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 3
+      "count": 4
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     },
     {
       "platform": "youtube",
@@ -38,11 +42,11 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 76
+      "count": 77
     },
     {
       "platform": "facebook",
-      "count": 13
+      "count": 14
     },
     {
       "platform": "youtube",
@@ -52,11 +56,15 @@
   "by_hour": [
     {
       "hour": "2026-05-22 11:00",
-      "count": 2
+      "count": 3
     },
     {
       "hour": "2026-05-22 19:00",
       "count": 2
+    },
+    {
+      "hour": "2026-05-23 08:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -266,11 +274,15 @@
     },
     {
       "hour": "2026-05-22 11:00",
-      "count": 2
+      "count": 3
     },
     {
       "hour": "2026-05-22 19:00",
       "count": 2
+    },
+    {
+      "hour": "2026-05-23 08:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
@@ -290,11 +302,22 @@
   },
   "alias_by_platform_24h": [
     {
+      "platform": "facebook",
+      "count": 1
+    },
+    {
       "platform": "news",
       "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "#推動164縣道拓寬工程🚧 #打造沿海鄉親更安全便利的交通路網🛣️ #北港、#水林、#口湖 鄉親期待多年的 #164縣道拓寬工程，嘉郡一直放在心上。 不只是通勤、載送孩子上下學，更關係到農漁產品運輸、地方產業發展，以及沿海鄉親的交通安全。 過去因為道路狹窄，長 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxPdzAwb1pEdGxTellWaThuTW96V1dYVmtoblJoR0xWUVl2U1otZEZUNk1kdWZfQ09mdVFXZjRLWktvVnNhbFBseHg2dE5odGFoekF6QmltVFV2VWF3X1VoNWk5OVhuZm5LNzRheUdGQ3VKWTFjNm5aa2pvMnNvZEZNdGpNNlJkUGJQNXZvVDY3aHlCMXFxQ3BvQ1d1TVNBZWNMeGxIRll5bERyTEN3OFhkTUg5MU5GN25EYXFRR1lDQ0l2d1RlQjlybnpOZnVIa3Q4MC1laUtwT0d0WlluMjdvd0pfUTg5RXZoTUl4VGhPYkw4U1AzNGRJaGwtMHJidmRBSU1kd3Y1Q0RsUGVnbFY3UFJQdlRkRTEwUFhlUUFlajNUdkQwWlZoaW9hTWZVZmFvQXZmYWdOdG1rS2xLTDRhcDlFX0pzRml4TzAyUkVGM1l3Yzg4UGJNbEpIaUZMUmpvZ0dnX2ZGd3V5WTJLdTFEVmczZklPMGtEdkxramNYNUxMLVJfbG5mVldoelZ5c01lS0VjdDZwSEV1VXJSc2hKQ2NFQ2tIcnF1MFBLN0lldkVldjBHRkJobENiWXpDMHlfZlNXM0NiaFE1eDJxQXIxakh0aklXYTJVMjVBOG1DTWhhV1FsejU3YTRmazNkV3FMUFptUWw3OE5vajhxODdZcTFLNmlwdlNlOVNOZ0NpZUwyel9JcElxOU5MMGVkRFFYYkJnV1J1eU9Pb2JnVUpWNjNERWVOX0JtemtLV0VDckRFdS1aV0VKcld5YXNMQ0gyRmNWWTZCZ0xrZkRvWUo3MUlZbFJaUmZfbm5VNEk3TVlZMllQMkozVjNFaVZsYXJBRWVMRHhDZnRlYmdfS3RyMzNMMHB3LUNqV0tpMVdteTBFUktuQVhkb1hHVzIwWmZpekRwRWNscVFvSnNoTjhBMFJfU0QyOWxqOWl6cGNqOHhKSlBDZ29DZnBDV0pwLUVteTVHNnpob181NEZmUDBqNzJkS09Nd2NGUnFMeS1rYjlUdXRqZkE3ZnBFalREZGNhT2FMS1BKeVNpRVVwRnU1MENXQ1cwX3ZadDFZbDM3eTRLREJVMzk5dHp3WDM2Q0tvMkFvSHBZYS1mOWtDZGcxcUtMVHFtYlpWdE1KWVc5bEVCOWdvS0Z5STBPcEctNzQ3TGQyQy1DNEo2elNubXAwMG5vaFdReGZLNGZTMUhMM2VLZWxkSjFaZ1B1cnNBWUlzNHBSTEhzSHV2V0JOOUJlZzJzbXgxNzVfQXhJUmZRLV8zeHViQjhvcVQ4VDg4YzhYcGtwVl85c1FIQQ",
+        "time": "2026-05-23 08:39:20"
+      }
+    ],
     "news": [
       {
         "title": "張嘉郡與立院交委會考察雲林 爭取斗六鐵路高架化與縣道164線拓寬 - 臺灣導報",
@@ -318,6 +341,11 @@
       "time": "2026-05-22 19:14:30"
     },
     {
+      "title": "現任鄉長因流氓感訓、槍砲前科 蘇治芬子弟兵排黑政治生涯止步 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPSVdWZVFuUjBCRXliczNvZ1BRV1RKYnhSQ190MXQyVmhDNFZRMm43cVoxZURKbFJTVU5wU002RWU2ZzJJbnljbUhwZEp0N2ZUbFBiR3dnVUY4Ml9RSkYxa3c0MnUzRlFCXzBndlRIY1JieEJHM01aSlBVY3VNT2NTQWsyTVM3cTNJR0lNVUZZRjBaVmhBbVZKYkNkSm5xdDN1enVIT3lDMUNhcTBwemdEakl6Vm5tQlJrWGRFTGc1Nnc0QndkOUtmcDNhM09ONjhoNkJrVzk2VHlSQkN4V1A2WWExQTJNMmdqS1hBaTVwcFdTY3Z6a2VWbG8yT1ltekEtT0c1UFAzVlFLaWNlV3l2d2xCMzhJS29SZGNaQ3I5S2FMcGtIaEpMa20xRlhMTklWWWJXZDcyZ2FMZE9HbTBFNGNJR1N0MjJWTGIydjVjb3NkVEZaVS14NDN1Z1FDTEhVcnpsVVhKeFJ1dXdBRFBxV0hhUWJSQUJGX0pUd0VEVUZHTWE0MkNsNFVqMGVwaDYxUmxlaVdKYUNFZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-22 11:35:56"
+    },
+    {
       "title": "現任鄉長因流氓感訓、槍砲前科 蘇治芬子弟兵排黑政治生涯止步 - 中時新聞網",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WbGp0VGI2MUVpWEk4OWxGbmRVeloxTE9LNlhtblFSZHNJd0l5YnMtSnJwWFFYNC1SMENYTDlrX01HbTVDV3VMMlhXOF9rejRGbEE3VUx3QmNzZU5aOXNUQ3kxRXdYMDBjWENvbnFR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-22 11:05:01"
@@ -333,6 +361,11 @@
       "title": "張嘉郡與立院交委會考察雲林 爭取斗六鐵路高架化與縣道164線拓寬 - 臺灣導報",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04NmRxTTU5TkVnZk5FaEpiMHZNbU1KNndlalIxUDBaMjR6WFc4eW41UTdheE9MQkZZSjZES2tvcFdOcXoybmZlVkM5UkVmLTZyYlAw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-22 19:14:30"
+    },
+    {
+      "title": "現任鄉長因流氓感訓、槍砲前科 蘇治芬子弟兵排黑政治生涯止步 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPSVdWZVFuUjBCRXliczNvZ1BRV1RKYnhSQ190MXQyVmhDNFZRMm43cVoxZURKbFJTVU5wU002RWU2ZzJJbnljbUhwZEp0N2ZUbFBiR3dnVUY4Ml9RSkYxa3c0MnUzRlFCXzBndlRIY1JieEJHM01aSlBVY3VNT2NTQWsyTVM3cTNJR0lNVUZZRjBaVmhBbVZKYkNkSm5xdDN1enVIT3lDMUNhcTBwemdEakl6Vm5tQlJrWGRFTGc1Nnc0QndkOUtmcDNhM09ONjhoNkJrVzk2VHlSQkN4V1A2WWExQTJNMmdqS1hBaTVwcFdTY3Z6a2VWbG8yT1ltekEtT0c1UFAzVlFLaWNlV3l2d2xCMzhJS29SZGNaQ3I5S2FMcGtIaEpMa20xRlhMTklWWWJXZDcyZ2FMZE9HbTBFNGNJR1N0MjJWTGIydjVjb3NkVEZaVS14NDN1Z1FDTEhVcnpsVVhKeFJ1dXdBRFBxV0hhUWJSQUJGX0pUd0VEVUZHTWE0MkNsNFVqMGVwaDYxUmxlaVdKYUNFZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-22 11:35:56"
     },
     {
       "title": "現任鄉長因流氓感訓、槍砲前科 蘇治芬子弟兵排黑政治生涯止步 - 中時新聞網",
@@ -423,14 +456,14 @@
       "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zSFNWUXdFZVhQdUZYY2VvMUVEczJZb2Q1Vmd0aGttSFg1WldraGlNUXJXMGdYUV9BSnlYWWo0OC1JdjZPQ2puRXhiZVhoUkszM3fSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-21 13:35:19"
-    },
-    {
-      "title": "張嘉郡考察斗六鐵路高架化 促中央儘速核定 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNanNteWt2dVZUaFZKOUI2Q3VFVkJWT0Mxc2xiejl2X2RxWEpnZWRYenZQYnJPYTI4SXk0WUVjdUtWZG5SeVpiNFZnb0RaZThWaURtZVYtQUxVZVJhb1BNbGMwbHc0WDIxNUg2cDdsajJMUHBIb1ZIT2l5dDZNVU9VbmtPUGRERG0yaHV2dg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-21 13:35:19"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "#推動164縣道拓寬工程🚧 #打造沿海鄉親更安全便利的交通路網🛣️ #北港、#水林、#口湖 鄉親期待多年的 #164縣道拓寬工程，嘉郡一直放在心上。 不只是通勤、載送孩子上下學，更關係到農漁產品運輸、地方產業發展，以及沿海鄉親的交通安全。 過去因為道路狹窄，長 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxPdzAwb1pEdGxTellWaThuTW96V1dYVmtoblJoR0xWUVl2U1otZEZUNk1kdWZfQ09mdVFXZjRLWktvVnNhbFBseHg2dE5odGFoekF6QmltVFV2VWF3X1VoNWk5OVhuZm5LNzRheUdGQ3VKWTFjNm5aa2pvMnNvZEZNdGpNNlJkUGJQNXZvVDY3aHlCMXFxQ3BvQ1d1TVNBZWNMeGxIRll5bERyTEN3OFhkTUg5MU5GN25EYXFRR1lDQ0l2d1RlQjlybnpOZnVIa3Q4MC1laUtwT0d0WlluMjdvd0pfUTg5RXZoTUl4VGhPYkw4U1AzNGRJaGwtMHJidmRBSU1kd3Y1Q0RsUGVnbFY3UFJQdlRkRTEwUFhlUUFlajNUdkQwWlZoaW9hTWZVZmFvQXZmYWdOdG1rS2xLTDRhcDlFX0pzRml4TzAyUkVGM1l3Yzg4UGJNbEpIaUZMUmpvZ0dnX2ZGd3V5WTJLdTFEVmczZklPMGtEdkxramNYNUxMLVJfbG5mVldoelZ5c01lS0VjdDZwSEV1VXJSc2hKQ2NFQ2tIcnF1MFBLN0lldkVldjBHRkJobENiWXpDMHlfZlNXM0NiaFE1eDJxQXIxakh0aklXYTJVMjVBOG1DTWhhV1FsejU3YTRmazNkV3FMUFptUWw3OE5vajhxODdZcTFLNmlwdlNlOVNOZ0NpZUwyel9JcElxOU5MMGVkRFFYYkJnV1J1eU9Pb2JnVUpWNjNERWVOX0JtemtLV0VDckRFdS1aV0VKcld5YXNMQ0gyRmNWWTZCZ0xrZkRvWUo3MUlZbFJaUmZfbm5VNEk3TVlZMllQMkozVjNFaVZsYXJBRWVMRHhDZnRlYmdfS3RyMzNMMHB3LUNqV0tpMVdteTBFUktuQVhkb1hHVzIwWmZpekRwRWNscVFvSnNoTjhBMFJfU0QyOWxqOWl6cGNqOHhKSlBDZ29DZnBDV0pwLUVteTVHNnpob181NEZmUDBqNzJkS09Nd2NGUnFMeS1rYjlUdXRqZkE3ZnBFalREZGNhT2FMS1BKeVNpRVVwRnU1MENXQ1cwX3ZadDFZbDM3eTRLREJVMzk5dHp3WDM2Q0tvMkFvSHBZYS1mOWtDZGcxcUtMVHFtYlpWdE1KWVc5bEVCOWdvS0Z5STBPcEctNzQ3TGQyQy1DNEo2elNubXAwMG5vaFdReGZLNGZTMUhMM2VLZWxkSjFaZ1B1cnNBWUlzNHBSTEhzSHV2V0JOOUJlZzJzbXgxNzVfQXhJUmZRLV8zeHViQjhvcVQ4VDg4YzhYcGtwVl85c1FIQQ",
+      "time": "2026-05-23 08:39:20"
+    },
     {
       "title": "🎊斗六市「多功能社會福利大樓」正式啟用囉！🎉 這是結合「托育中心🍼」、「日照、長照空間👩‍🔬」、「K書中心📖」、「研習教室👨‍🎓」、「多功能空間🏫」、「運動休閒空間🏸」的 #全年齡多功能社會福利大樓，不只是硬體升級，更代表雲林縣的社福系統持續升級！ 嘉郡會繼續努力提 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMimghBVV95cUxPeElBd3dFV3lfSlJqbzI0YThyc3pzM09LZDNRX0xIenBDdnpDc0FmRWp6eXVvbFB2WnlxQ1dNRWVZSVRfdzQ1cEhLZFN4VjRrNHExUUZEc21mMmNiZGpUNUp4WVRHc3RIMll1aTAzZWdFaHNydmdMYk1NdnN1SHRzelNhVDdJWEdVN0IwLW5OVVhyR25CS2t5RVlXZkRoY0pCeG1jX2RoLVJLMkRjbEVnc09la1AxTm12dzVZQ1dRQXc1Q2U5OWxaeUwtb1N0THNhUjRaQlFhZmVMUWZqaUVUZV9iZTBxMzF3YXRWM2V4TVltSlh6T05sQm9OTjJUaEpGUDJmcGIwOXo1MENNR3ByNUUzdS1fdHFudldNQjVyVmFCdGQxbXN2MjhzYTJzazgzbDVfM3o1aWRRdUdnUWVOOUxEUUQ1bHZQQ1FnVXMtTHQ0TWh6MUZ0TnVFc1JSblpON2Mwd0k5dmlHXzlIbndfdGNMdmpsMUhyMXc2UG5tMU9jU2JSSFY0T2g5cF94a3VqUzc5eGc0Y2l2cGROQ2s1alJlZk1XNS1DQnhubU14RkI0VW51bkhHMFpYTWw2TTkzbmlrQUdoLU9FV2ZwZ1VseDVPNnhwZ1pvOW4zcm5PZFVhWVFXYmlnVXExMEREMjJpZUlWaW95YVFHM09pOXY4U0E1bEc5UDJtRDNMMFpVOGNyOFpjejgxYW5tUzFta043ei1sQzNaSUt5MmllcGgyRW1XalRXdURBdUs4bV9TQktMM3k1VG0ycC05WWQ0WlBzaUZxVjg0WEdjR0JrRFVqUFdqaXRjMG1tRUdVWTZEQmdYWGM3Z0Jqd3B5TUJTWFl6ekU2dnhvYTg3emlZcDhTd09xUnRrY0VXZGRWS2J0QUtWVjNTc202WTdBa1RmNEs5M2pEcHNYbkhQVDhjNzNJbTlRRkpyTGZwMVlJcktCSmFUWlNaN29mY3puZ3ZlNnFScDA1a19samtQUEkwVDUyTVh1bjRYQnZUUkdmQ2Z0eFBHaGRrZFhVeGZrUnlMNE1OSzl6WHp2UXlUeU9XNmZDTFN4UHBlelRCMVVYdWhyM3RaRy1iYU45ckFkZFVsdkFfV3o2WUxfNEhQenlDTjhkRXZXWTZ3eFFvSDd4a0JST3RFQV8zWlIyQmRjZmJRTGJwZWlSM0Z3M3h3anhQMHNXYzBncmNZN0VsR1dPV2pFU2cyTE1rMEJPcjVJTnI4Z2VCazJLNkR6NkRoWkF0ZXk5QUVvbGdYU1Q5NGpVRXpMMUdZZ1FHb1lkc0lhT0VETFJzZ3Qxemo5Yl9MblNZVm5pTjZWMkVja25lM3Exb2xIR24yMm1PemdNQ2dWUzY3SFYzaFBXb2U0YWpMYUI3WHhPdW5uT0lRRXhfVlE",
@@ -525,11 +558,6 @@
       "title": "📣AI浪潮席捲全球 劉建國要求衛福部加速社工AI化 減輕第一線文書負擔：https://hoomedia.com.tw/2026/05/13/141595/ 🌎延伸閱讀： https://hoomedia.com.tw/2026/05/13/141595/ 🏘️互傳媒新聞網： https://hoomedia.com.tw - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxQTXIyRlFaRVd0ejJQeDRiU0cwX0Y1MXRKUXpJVEF2dktjbHRaSDJDdEZ6TXQxcnhzOGNZVVVMdGxTNVNYcWxLekZ0TEd3bXdPZm0zbjBaMWgyeXl3SHp4QTBqYlBsZjRQUFZ3NVhCWllwaUlJbDRNQjRraGFoTW1oVW1OcGhpT1JHaWJURUY4aWU0cTZIN1h4SDdJQzdZd09zRFY2QlB5cS1pa1pESC00eVBxS2JIandGZlhWQ0dINlhsV1VTeHVXSkxjX01SRm04S1JabmtQUG9TOHZwMWZ6WTlydklpNGhob2gwT1FldVNEa0tRWUg0S2hCTFVWekVsZFJIYWNKNzVEN0pxckxFLTA1MWl6QWtZLWQ3dF9reXp6b0QxYThOZnE3ekFPTHpBWkpfS0NJWmlLVEE2bUd6N0NTRm5INzByMDVuZTkxNmhiRTNVeE9GZlhYakZ1a1lCb1AxdEVtUmNpc215ZEt5VXQtRXAyYVczVk1Xai1ISVZBWUlFdnQwZ2NnQ2ZrRW9kTFVmSVBYOFk3SG5QYkFJZWlOVmlncm9OV01MSm95U2tSeWFQS1NUQ2U4X21vdjh0aXZNSVcwSXpHdkVjb3ZPazg4eFlTSGdOOWFJSXBqcFpiSFdTY3FGOUV2c2VhdUFKRnh0eTBxdVg4NTh5TjdGbTUzMXUtb294T3hlNERwSVpuS1JYcW92VE5rOXoxUG1JN2ZmNENRX2cxSnF3NFln",
       "time": "2026-05-13 19:17:43"
-    },
-    {
-      "title": "劉建國 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWV82NmhKU09ZMEg2UGg0b3hXd2VyLThqSHVibm1Jbl9aOTZzZDgxMW14ZnFkNzFiV1VCY1ZzYkNfR09fSzZocy1rZ2g0RFZkc2F1UE52M3ZsbERJMWZ6ZlpzVVFZNHl5cDB1U3liekc1UVVKdG4xaFhQY0d5SlIzbUI0SHE",
-      "time": "2026-05-12 22:41:34"
     }
   ],
   "latest_news_20": [
@@ -537,6 +565,11 @@
       "title": "張嘉郡與立院交委會考察雲林 爭取斗六鐵路高架化與縣道164線拓寬 - 臺灣導報",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04NmRxTTU5TkVnZk5FaEpiMHZNbU1KNndlalIxUDBaMjR6WFc4eW41UTdheE9MQkZZSjZES2tvcFdOcXoybmZlVkM5UkVmLTZyYlAw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-22 19:14:30"
+    },
+    {
+      "title": "現任鄉長因流氓感訓、槍砲前科 蘇治芬子弟兵排黑政治生涯止步 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPSVdWZVFuUjBCRXliczNvZ1BRV1RKYnhSQ190MXQyVmhDNFZRMm43cVoxZURKbFJTVU5wU002RWU2ZzJJbnljbUhwZEp0N2ZUbFBiR3dnVUY4Ml9RSkYxa3c0MnUzRlFCXzBndlRIY1JieEJHM01aSlBVY3VNT2NTQWsyTVM3cTNJR0lNVUZZRjBaVmhBbVZKYkNkSm5xdDN1enVIT3lDMUNhcTBwemdEakl6Vm5tQlJrWGRFTGc1Nnc0QndkOUtmcDNhM09ONjhoNkJrVzk2VHlSQkN4V1A2WWExQTJNMmdqS1hBaTVwcFdTY3Z6a2VWbG8yT1ltekEtT0c1UFAzVlFLaWNlV3l2d2xCMzhJS29SZGNaQ3I5S2FMcGtIaEpMa20xRlhMTklWWWJXZDcyZ2FMZE9HbTBFNGNJR1N0MjJWTGIydjVjb3NkVEZaVS14NDN1Z1FDTEhVcnpsVVhKeFJ1dXdBRFBxV0hhUWJSQUJGX0pUd0VEVUZHTWE0MkNsNFVqMGVwaDYxUmxlaVdKYUNFZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-22 11:35:56"
     },
     {
       "title": "現任鄉長因流氓感訓、槍砲前科 蘇治芬子弟兵排黑政治生涯止步 - 中時新聞網",
@@ -626,11 +659,6 @@
     {
       "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zSFNWUXdFZVhQdUZYY2VvMUVEczJZb2Q1Vmd0aGttSFg1WldraGlNUXJXMGdYUV9BSnlYWWo0OC1JdjZPQ2puRXhiZVhoUkszM3fSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-21 13:35:19"
-    },
-    {
-      "title": "張嘉郡考察斗六鐵路高架化 促中央儘速核定 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNanNteWt2dVZUaFZKOUI2Q3VFVkJWT0Mxc2xiejl2X2RxWEpnZWRYenZQYnJPYTI4SXk0WUVjdUtWZG5SeVpiNFZnb0RaZThWaURtZVYtQUxVZVJhb1BNbGMwbHc0WDIxNUg2cDdsajJMUHBIb1ZIT2l5dDZNVU9VbmtPUGRERG0yaHV2dg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-21 13:35:19"
     }
   ],
@@ -1056,6 +1084,11 @@
         "time": "2026-05-22 19:14:30"
       },
       {
+        "title": "現任鄉長因流氓感訓、槍砲前科 蘇治芬子弟兵排黑政治生涯止步 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPSVdWZVFuUjBCRXliczNvZ1BRV1RKYnhSQ190MXQyVmhDNFZRMm43cVoxZURKbFJTVU5wU002RWU2ZzJJbnljbUhwZEp0N2ZUbFBiR3dnVUY4Ml9RSkYxa3c0MnUzRlFCXzBndlRIY1JieEJHM01aSlBVY3VNT2NTQWsyTVM3cTNJR0lNVUZZRjBaVmhBbVZKYkNkSm5xdDN1enVIT3lDMUNhcTBwemdEakl6Vm5tQlJrWGRFTGc1Nnc0QndkOUtmcDNhM09ONjhoNkJrVzk2VHlSQkN4V1A2WWExQTJNMmdqS1hBaTVwcFdTY3Z6a2VWbG8yT1ltekEtT0c1UFAzVlFLaWNlV3l2d2xCMzhJS29SZGNaQ3I5S2FMcGtIaEpMa20xRlhMTklWWWJXZDcyZ2FMZE9HbTBFNGNJR1N0MjJWTGIydjVjb3NkVEZaVS14NDN1Z1FDTEhVcnpsVVhKeFJ1dXdBRFBxV0hhUWJSQUJGX0pUd0VEVUZHTWE0MkNsNFVqMGVwaDYxUmxlaVdKYUNFZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-22 11:35:56"
+      },
+      {
         "title": "現任鄉長因流氓感訓、槍砲前科 蘇治芬子弟兵排黑政治生涯止步 - 中時新聞網",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WbGp0VGI2MUVpWEk4OWxGbmRVeloxTE9LNlhtblFSZHNJd0l5YnMtSnJwWFFYNC1SMENYTDlrX01HbTVDV3VMMlhXOF9rejRGbEE3VUx3QmNzZU5aOXNUQ3kxRXdYMDBjWENvbnFR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-22 11:05:01"
@@ -1064,6 +1097,13 @@
         "title": "現任鄉長因流氓感訓、槍砲前科 蘇治芬子弟兵排黑政治生涯止步 - 中時新聞網",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUElkQTg3R2FvWWFaWGFPamxfTXNoZWFaSUg3d3J2SS15XzVHMHRHX0FMTUlva2V0ZlNQU3ZGeEpfdUlWa1ZCWTRSN04xcWZFNXFBTnM4dlc5MExOOWNDTDVWSzZJbFRVcWtheW90c1BjNFc2dFhNRHhvc3NTSUhiS1ZZNExyZ0Y2S3N6ZVFQQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-22 11:05:01"
+      }
+    ],
+    "facebook": [
+      {
+        "title": "#推動164縣道拓寬工程🚧 #打造沿海鄉親更安全便利的交通路網🛣️ #北港、#水林、#口湖 鄉親期待多年的 #164縣道拓寬工程，嘉郡一直放在心上。 不只是通勤、載送孩子上下學，更關係到農漁產品運輸、地方產業發展，以及沿海鄉親的交通安全。 過去因為道路狹窄，長 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxPdzAwb1pEdGxTellWaThuTW96V1dYVmtoblJoR0xWUVl2U1otZEZUNk1kdWZfQ09mdVFXZjRLWktvVnNhbFBseHg2dE5odGFoekF6QmltVFV2VWF3X1VoNWk5OVhuZm5LNzRheUdGQ3VKWTFjNm5aa2pvMnNvZEZNdGpNNlJkUGJQNXZvVDY3aHlCMXFxQ3BvQ1d1TVNBZWNMeGxIRll5bERyTEN3OFhkTUg5MU5GN25EYXFRR1lDQ0l2d1RlQjlybnpOZnVIa3Q4MC1laUtwT0d0WlluMjdvd0pfUTg5RXZoTUl4VGhPYkw4U1AzNGRJaGwtMHJidmRBSU1kd3Y1Q0RsUGVnbFY3UFJQdlRkRTEwUFhlUUFlajNUdkQwWlZoaW9hTWZVZmFvQXZmYWdOdG1rS2xLTDRhcDlFX0pzRml4TzAyUkVGM1l3Yzg4UGJNbEpIaUZMUmpvZ0dnX2ZGd3V5WTJLdTFEVmczZklPMGtEdkxramNYNUxMLVJfbG5mVldoelZ5c01lS0VjdDZwSEV1VXJSc2hKQ2NFQ2tIcnF1MFBLN0lldkVldjBHRkJobENiWXpDMHlfZlNXM0NiaFE1eDJxQXIxakh0aklXYTJVMjVBOG1DTWhhV1FsejU3YTRmazNkV3FMUFptUWw3OE5vajhxODdZcTFLNmlwdlNlOVNOZ0NpZUwyel9JcElxOU5MMGVkRFFYYkJnV1J1eU9Pb2JnVUpWNjNERWVOX0JtemtLV0VDckRFdS1aV0VKcld5YXNMQ0gyRmNWWTZCZ0xrZkRvWUo3MUlZbFJaUmZfbm5VNEk3TVlZMllQMkozVjNFaVZsYXJBRWVMRHhDZnRlYmdfS3RyMzNMMHB3LUNqV0tpMVdteTBFUktuQVhkb1hHVzIwWmZpekRwRWNscVFvSnNoTjhBMFJfU0QyOWxqOWl6cGNqOHhKSlBDZ29DZnBDV0pwLUVteTVHNnpob181NEZmUDBqNzJkS09Nd2NGUnFMeS1rYjlUdXRqZkE3ZnBFalREZGNhT2FMS1BKeVNpRVVwRnU1MENXQ1cwX3ZadDFZbDM3eTRLREJVMzk5dHp3WDM2Q0tvMkFvSHBZYS1mOWtDZGcxcUtMVHFtYlpWdE1KWVc5bEVCOWdvS0Z5STBPcEctNzQ3TGQyQy1DNEo2elNubXAwMG5vaFdReGZLNGZTMUhMM2VLZWxkSjFaZ1B1cnNBWUlzNHBSTEhzSHV2V0JOOUJlZzJzbXgxNzVfQXhJUmZRLV8zeHViQjhvcVQ4VDg4YzhYcGtwVl85c1FIQQ",
+        "time": "2026-05-23 08:39:20"
       }
     ],
     "youtube": [
@@ -1080,6 +1120,11 @@
         "title": "張嘉郡與立院交委會考察雲林 爭取斗六鐵路高架化與縣道164線拓寬 - 臺灣導報",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04NmRxTTU5TkVnZk5FaEpiMHZNbU1KNndlalIxUDBaMjR6WFc4eW41UTdheE9MQkZZSjZES2tvcFdOcXoybmZlVkM5UkVmLTZyYlAw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-22 19:14:30"
+      },
+      {
+        "title": "現任鄉長因流氓感訓、槍砲前科 蘇治芬子弟兵排黑政治生涯止步 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPSVdWZVFuUjBCRXliczNvZ1BRV1RKYnhSQ190MXQyVmhDNFZRMm43cVoxZURKbFJTVU5wU002RWU2ZzJJbnljbUhwZEp0N2ZUbFBiR3dnVUY4Ml9RSkYxa3c0MnUzRlFCXzBndlRIY1JieEJHM01aSlBVY3VNT2NTQWsyTVM3cTNJR0lNVUZZRjBaVmhBbVZKYkNkSm5xdDN1enVIT3lDMUNhcTBwemdEakl6Vm5tQlJrWGRFTGc1Nnc0QndkOUtmcDNhM09ONjhoNkJrVzk2VHlSQkN4V1A2WWExQTJNMmdqS1hBaTVwcFdTY3Z6a2VWbG8yT1ltekEtT0c1UFAzVlFLaWNlV3l2d2xCMzhJS29SZGNaQ3I5S2FMcGtIaEpMa20xRlhMTklWWWJXZDcyZ2FMZE9HbTBFNGNJR1N0MjJWTGIydjVjb3NkVEZaVS14NDN1Z1FDTEhVcnpsVVhKeFJ1dXdBRFBxV0hhUWJSQUJGX0pUd0VEVUZHTWE0MkNsNFVqMGVwaDYxUmxlaVdKYUNFZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-22 11:35:56"
       },
       {
         "title": "現任鄉長因流氓感訓、槍砲前科 蘇治芬子弟兵排黑政治生涯止步 - 中時新聞網",
@@ -1270,14 +1315,14 @@
         "title": "畜產會董事長月領30萬卻未見治理成效 蘇治芬挾雲林經驗入主表現卻大受質疑 - 勢傳媒",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vQUhLa0toX29ZSnluYS1GYXNIX2lwZnZxYll0Q1FZU19wRFp6eUVXOGpTSU5XMDZoVER4Tm9PdGhlYXdqbHhKZkVpVzZBbmdW?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-19 18:35:54"
-      },
-      {
-        "title": "因應美花生關稅挑戰 劉建國邀農業部赴雲林座談 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSDVWYkpFVWV6cHZ4T3dsVEEyTU9Wa2VHREVVTnp5OTY2dkdLVVFiZ1lNcXlVbWE1bWZYSWtIR3pvNzk1aU5JZGZTWlNrdDdGSi1LRWtfeWtaNHJCV2t5TXdNMUNiMk1kWXhFcnh3T1ZfcEt2cldWY2pCclg5emdTZUFvc3U1LTZ3N0tNTjBxeGN5RTM5ME9aU3BqOTZkUm02OVV1NERzclU1Yi1Kd181aXVjTjlpc2tRSDJLd3VmQzZPWkVKZ0dZdkw0NGVodko0YWFsaVYybnA5RGxzN0FJOGdTMnVtMlNXWF9TenVEXzc1elkwbmZyZU5oWE5KVmszQXVTcC1WTjQ1LUZtV0cxN2dxV0Y4UmRTdDUyUEM4N2ZEUTk1ZU9xdkdOREQ3QTNqYjlVd2VRTjc3bE5OcjM2NE14QUhPQnV5N0lULVVDVTI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-19 17:54:02"
       }
     ],
     "facebook": [
+      {
+        "title": "#推動164縣道拓寬工程🚧 #打造沿海鄉親更安全便利的交通路網🛣️ #北港、#水林、#口湖 鄉親期待多年的 #164縣道拓寬工程，嘉郡一直放在心上。 不只是通勤、載送孩子上下學，更關係到農漁產品運輸、地方產業發展，以及沿海鄉親的交通安全。 過去因為道路狹窄，長 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxPdzAwb1pEdGxTellWaThuTW96V1dYVmtoblJoR0xWUVl2U1otZEZUNk1kdWZfQ09mdVFXZjRLWktvVnNhbFBseHg2dE5odGFoekF6QmltVFV2VWF3X1VoNWk5OVhuZm5LNzRheUdGQ3VKWTFjNm5aa2pvMnNvZEZNdGpNNlJkUGJQNXZvVDY3aHlCMXFxQ3BvQ1d1TVNBZWNMeGxIRll5bERyTEN3OFhkTUg5MU5GN25EYXFRR1lDQ0l2d1RlQjlybnpOZnVIa3Q4MC1laUtwT0d0WlluMjdvd0pfUTg5RXZoTUl4VGhPYkw4U1AzNGRJaGwtMHJidmRBSU1kd3Y1Q0RsUGVnbFY3UFJQdlRkRTEwUFhlUUFlajNUdkQwWlZoaW9hTWZVZmFvQXZmYWdOdG1rS2xLTDRhcDlFX0pzRml4TzAyUkVGM1l3Yzg4UGJNbEpIaUZMUmpvZ0dnX2ZGd3V5WTJLdTFEVmczZklPMGtEdkxramNYNUxMLVJfbG5mVldoelZ5c01lS0VjdDZwSEV1VXJSc2hKQ2NFQ2tIcnF1MFBLN0lldkVldjBHRkJobENiWXpDMHlfZlNXM0NiaFE1eDJxQXIxakh0aklXYTJVMjVBOG1DTWhhV1FsejU3YTRmazNkV3FMUFptUWw3OE5vajhxODdZcTFLNmlwdlNlOVNOZ0NpZUwyel9JcElxOU5MMGVkRFFYYkJnV1J1eU9Pb2JnVUpWNjNERWVOX0JtemtLV0VDckRFdS1aV0VKcld5YXNMQ0gyRmNWWTZCZ0xrZkRvWUo3MUlZbFJaUmZfbm5VNEk3TVlZMllQMkozVjNFaVZsYXJBRWVMRHhDZnRlYmdfS3RyMzNMMHB3LUNqV0tpMVdteTBFUktuQVhkb1hHVzIwWmZpekRwRWNscVFvSnNoTjhBMFJfU0QyOWxqOWl6cGNqOHhKSlBDZ29DZnBDV0pwLUVteTVHNnpob181NEZmUDBqNzJkS09Nd2NGUnFMeS1rYjlUdXRqZkE3ZnBFalREZGNhT2FMS1BKeVNpRVVwRnU1MENXQ1cwX3ZadDFZbDM3eTRLREJVMzk5dHp3WDM2Q0tvMkFvSHBZYS1mOWtDZGcxcUtMVHFtYlpWdE1KWVc5bEVCOWdvS0Z5STBPcEctNzQ3TGQyQy1DNEo2elNubXAwMG5vaFdReGZLNGZTMUhMM2VLZWxkSjFaZ1B1cnNBWUlzNHBSTEhzSHV2V0JOOUJlZzJzbXgxNzVfQXhJUmZRLV8zeHViQjhvcVQ4VDg4YzhYcGtwVl85c1FIQQ",
+        "time": "2026-05-23 08:39:20"
+      },
       {
         "title": "🎊斗六市「多功能社會福利大樓」正式啟用囉！🎉 這是結合「托育中心🍼」、「日照、長照空間👩‍🔬」、「K書中心📖」、「研習教室👨‍🎓」、「多功能空間🏫」、「運動休閒空間🏸」的 #全年齡多功能社會福利大樓，不只是硬體升級，更代表雲林縣的社福系統持續升級！ 嘉郡會繼續努力提 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMimghBVV95cUxPeElBd3dFV3lfSlJqbzI0YThyc3pzM09LZDNRX0xIenBDdnpDc0FmRWp6eXVvbFB2WnlxQ1dNRWVZSVRfdzQ1cEhLZFN4VjRrNHExUUZEc21mMmNiZGpUNUp4WVRHc3RIMll1aTAzZWdFaHNydmdMYk1NdnN1SHRzelNhVDdJWEdVN0IwLW5OVVhyR25CS2t5RVlXZkRoY0pCeG1jX2RoLVJLMkRjbEVnc09la1AxTm12dzVZQ1dRQXc1Q2U5OWxaeUwtb1N0THNhUjRaQlFhZmVMUWZqaUVUZV9iZTBxMzF3YXRWM2V4TVltSlh6T05sQm9OTjJUaEpGUDJmcGIwOXo1MENNR3ByNUUzdS1fdHFudldNQjVyVmFCdGQxbXN2MjhzYTJzazgzbDVfM3o1aWRRdUdnUWVOOUxEUUQ1bHZQQ1FnVXMtTHQ0TWh6MUZ0TnVFc1JSblpON2Mwd0k5dmlHXzlIbndfdGNMdmpsMUhyMXc2UG5tMU9jU2JSSFY0T2g5cF94a3VqUzc5eGc0Y2l2cGROQ2s1alJlZk1XNS1DQnhubU14RkI0VW51bkhHMFpYTWw2TTkzbmlrQUdoLU9FV2ZwZ1VseDVPNnhwZ1pvOW4zcm5PZFVhWVFXYmlnVXExMEREMjJpZUlWaW95YVFHM09pOXY4U0E1bEc5UDJtRDNMMFpVOGNyOFpjejgxYW5tUzFta043ei1sQzNaSUt5MmllcGgyRW1XalRXdURBdUs4bV9TQktMM3k1VG0ycC05WWQ0WlBzaUZxVjg0WEdjR0JrRFVqUFdqaXRjMG1tRUdVWTZEQmdYWGM3Z0Jqd3B5TUJTWFl6ekU2dnhvYTg3emlZcDhTd09xUnRrY0VXZGRWS2J0QUtWVjNTc202WTdBa1RmNEs5M2pEcHNYbkhQVDhjNzNJbTlRRkpyTGZwMVlJcktCSmFUWlNaN29mY3puZ3ZlNnFScDA1a19samtQUEkwVDUyTVh1bjRYQnZUUkdmQ2Z0eFBHaGRrZFhVeGZrUnlMNE1OSzl6WHp2UXlUeU9XNmZDTFN4UHBlelRCMVVYdWhyM3RaRy1iYU45ckFkZFVsdkFfV3o2WUxfNEhQenlDTjhkRXZXWTZ3eFFvSDd4a0JST3RFQV8zWlIyQmRjZmJRTGJwZWlSM0Z3M3h3anhQMHNXYzBncmNZN0VsR1dPV2pFU2cyTE1rMEJPcjVJTnI4Z2VCazJLNkR6NkRoWkF0ZXk5QUVvbGdYU1Q5NGpVRXpMMUdZZ1FHb1lkc0lhT0VETFJzZ3Qxemo5Yl9MblNZVm5pTjZWMkVja25lM3Exb2xIR24yMm1PemdNQ2dWUzY3SFYzaFBXb2U0YWpMYUI3WHhPdW5uT0lRRXhfVlE",
@@ -1367,6 +1412,13 @@
     "hour": [],
     "day": [
       {
+        "title": "#推動164縣道拓寬工程🚧 #打造沿海鄉親更安全便利的交通路網🛣️ #北港、#水林、#口湖 鄉親期待多年的 #164縣道拓寬工程，嘉郡一直放在心上。 不只是通勤、載送孩子上下學，更關係到農漁產品運輸、地方產業發展，以及沿海鄉親的交通安全。 過去因為道路狹窄，長 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxPdzAwb1pEdGxTellWaThuTW96V1dYVmtoblJoR0xWUVl2U1otZEZUNk1kdWZfQ09mdVFXZjRLWktvVnNhbFBseHg2dE5odGFoekF6QmltVFV2VWF3X1VoNWk5OVhuZm5LNzRheUdGQ3VKWTFjNm5aa2pvMnNvZEZNdGpNNlJkUGJQNXZvVDY3aHlCMXFxQ3BvQ1d1TVNBZWNMeGxIRll5bERyTEN3OFhkTUg5MU5GN25EYXFRR1lDQ0l2d1RlQjlybnpOZnVIa3Q4MC1laUtwT0d0WlluMjdvd0pfUTg5RXZoTUl4VGhPYkw4U1AzNGRJaGwtMHJidmRBSU1kd3Y1Q0RsUGVnbFY3UFJQdlRkRTEwUFhlUUFlajNUdkQwWlZoaW9hTWZVZmFvQXZmYWdOdG1rS2xLTDRhcDlFX0pzRml4TzAyUkVGM1l3Yzg4UGJNbEpIaUZMUmpvZ0dnX2ZGd3V5WTJLdTFEVmczZklPMGtEdkxramNYNUxMLVJfbG5mVldoelZ5c01lS0VjdDZwSEV1VXJSc2hKQ2NFQ2tIcnF1MFBLN0lldkVldjBHRkJobENiWXpDMHlfZlNXM0NiaFE1eDJxQXIxakh0aklXYTJVMjVBOG1DTWhhV1FsejU3YTRmazNkV3FMUFptUWw3OE5vajhxODdZcTFLNmlwdlNlOVNOZ0NpZUwyel9JcElxOU5MMGVkRFFYYkJnV1J1eU9Pb2JnVUpWNjNERWVOX0JtemtLV0VDckRFdS1aV0VKcld5YXNMQ0gyRmNWWTZCZ0xrZkRvWUo3MUlZbFJaUmZfbm5VNEk3TVlZMllQMkozVjNFaVZsYXJBRWVMRHhDZnRlYmdfS3RyMzNMMHB3LUNqV0tpMVdteTBFUktuQVhkb1hHVzIwWmZpekRwRWNscVFvSnNoTjhBMFJfU0QyOWxqOWl6cGNqOHhKSlBDZ29DZnBDV0pwLUVteTVHNnpob181NEZmUDBqNzJkS09Nd2NGUnFMeS1rYjlUdXRqZkE3ZnBFalREZGNhT2FMS1BKeVNpRVVwRnU1MENXQ1cwX3ZadDFZbDM3eTRLREJVMzk5dHp3WDM2Q0tvMkFvSHBZYS1mOWtDZGcxcUtMVHFtYlpWdE1KWVc5bEVCOWdvS0Z5STBPcEctNzQ3TGQyQy1DNEo2elNubXAwMG5vaFdReGZLNGZTMUhMM2VLZWxkSjFaZ1B1cnNBWUlzNHBSTEhzSHV2V0JOOUJlZzJzbXgxNzVfQXhJUmZRLV8zeHViQjhvcVQ4VDg4YzhYcGtwVl85c1FIQQ",
+        "time": "2026-05-23 08:39:20",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
         "title": "張嘉郡與立院交委會考察雲林 爭取斗六鐵路高架化與縣道164線拓寬 - 臺灣導報",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04NmRxTTU5TkVnZk5FaEpiMHZNbU1KNndlalIxUDBaMjR6WFc4eW41UTdheE9MQkZZSjZES2tvcFdOcXoybmZlVkM5UkVmLTZyYlAw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-22 19:14:30",
@@ -1378,6 +1430,13 @@
         "url": "https://www.youtube.com/shorts/qpimi7knoxY",
         "time": "2026-05-22 19:04:47",
         "platform": "youtube",
+        "risk": "綠"
+      },
+      {
+        "title": "現任鄉長因流氓感訓、槍砲前科 蘇治芬子弟兵排黑政治生涯止步 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPSVdWZVFuUjBCRXliczNvZ1BRV1RKYnhSQ190MXQyVmhDNFZRMm43cVoxZURKbFJTVU5wU002RWU2ZzJJbnljbUhwZEp0N2ZUbFBiR3dnVUY4Ml9RSkYxa3c0MnUzRlFCXzBndlRIY1JieEJHM01aSlBVY3VNT2NTQWsyTVM3cTNJR0lNVUZZRjBaVmhBbVZKYkNkSm5xdDN1enVIT3lDMUNhcTBwemdEakl6Vm5tQlJrWGRFTGc1Nnc0QndkOUtmcDNhM09ONjhoNkJrVzk2VHlSQkN4V1A2WWExQTJNMmdqS1hBaTVwcFdTY3Z6a2VWbG8yT1ltekEtT0c1UFAzVlFLaWNlV3l2d2xCMzhJS29SZGNaQ3I5S2FMcGtIaEpMa20xRlhMTklWWWJXZDcyZ2FMZE9HbTBFNGNJR1N0MjJWTGIydjVjb3NkVEZaVS14NDN1Z1FDTEhVcnpsVVhKeFJ1dXdBRFBxV0hhUWJSQUJGX0pUd0VEVUZHTWE0MkNsNFVqMGVwaDYxUmxlaVdKYUNFZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-22 11:35:56",
+        "platform": "news",
         "risk": "綠"
       },
       {
@@ -1407,6 +1466,11 @@
         "count": 1
       }
     ],
-    "groups": []
+    "groups": [
+      {
+        "name": "交通通勤",
+        "count": 1
+      }
+    ]
   }
 }
