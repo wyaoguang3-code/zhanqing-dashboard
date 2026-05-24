@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-24T11:05:32.200590+00:00",
+  "generated_at": "2026-05-24T11:20:50.969582+00:00",
   "metrics": {
-    "total_24h": 7,
-    "prev_24h": 3,
-    "growth_pct": 133.33,
-    "news_24h": 6,
+    "total_24h": 10,
+    "prev_24h": 2,
+    "growth_pct": 400.0,
+    "news_24h": 9,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 93,
+    "total": 96,
     "prev": 135,
-    "growth_pct": -31.11,
-    "news": 75,
+    "growth_pct": -28.89,
+    "news": 78,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 6
+      "count": 9
     },
     {
       "platform": "facebook",
@@ -38,7 +38,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 75
+      "count": 78
     },
     {
       "platform": "facebook",
@@ -64,7 +64,15 @@
     },
     {
       "hour": "2026-05-24 17:00",
-      "count": 2
+      "count": 3
+    },
+    {
+      "hour": "2026-05-24 18:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-05-24 19:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -266,13 +274,21 @@
     },
     {
       "hour": "2026-05-24 17:00",
-      "count": 2
+      "count": 3
+    },
+    {
+      "hour": "2026-05-24 18:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-05-24 19:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 6
+      "count": 9
     },
     {
       "platform": "facebook",
@@ -280,17 +296,25 @@
     }
   ],
   "mention_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "當年恐嚇成空話！ 同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQNHpBVWlpVHh6UUl2QWZoTjZfUnVfbWhfdnJ2MnJYT0RtU19EM0tnUTdsTC0yWHp1VGRGVk9ERFYtMF9BV19fRnVvUUg4V3JpaF9Xd2RGQVM2UXptRjlBbU1mN1N6SmVWN2dobjNicGpQOFR3UkxvX25feEhtZEE1QmUtNzgwYkRZRlpFOFVGdUR0YmlCbFU1eXVZWURQcmpOSmJDT0xROGo5OE90Nl9wb0xzSXVXaGh0QmhILU11S0Vla3QtSDNRSXhaNVo0b1ZiQTVHSWwtWjBqU1ZmbFJiV295VWN3aHVVd1Z4Z2NKZjNWUUFBNndYUlNBMWZMUWdlSklMMl9JTjROSHBpeEd5SjNWaUlrd3BtMW5CSUx2dVU3VEd5M0xtTmhwdEV1NHpqNzAwZ0pmbm1SN21haDVTRGRvM3cydjRscGNocTJLeGRLQUVsbXhQQWNsMFhmb2g1c2UyVE1heEszdlRfamlCVTIyb09EMk1halNDQml6QXp6bWs0YWVSS2kwdkNxVFhZSVVaaTM1UTREMngwMU1hdXl4dVo",
-        "time": "2026-05-24 17:50:01"
-      }
-    ],
     "news": [
+      {
+        "title": "民進黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手立委劉建國凝聚改革力量！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tQ2kzN1JpODNNTmw1cEkxU05UU3BkNUp5WUtfSW5JZDhWSFNXMENLODB6dWxrQ0JxcWRoZmgtbDJqWVpDeGJ0Tmd6VjdrT01oTDdqN1p6d3dibFF0aVlHcG82ejlvTjQ5Qlk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-24 19:08:57"
+      },
+      {
+        "title": "民主進步黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手劉建國凝聚改革力量 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNRTNpRXRIaU9jbzQ1dURoaG5mU1RTRGVrZGVFc0tkX1IyRlVyQ2R1SnQxQnRzeTJBVTh5YnRCLXJjT2FiREJ6Mmc0dzlpNEtBT1d5U0pERVNxZ1RsdzN6a2RGOER5THFKYl8tUDJwQmtWRUs0dGRJX180UG42MnhSZGI3My1IVXN6ejRxelkxRnN4U2VuaUdUelpIYUQxdDBEcEQ0aWtvYlR4REtaTm0yUnFDV0lnSjJLR2pHTURCNjd0UTNlRmEwU19lQXcyM29tbEs4OTFMOHNkTW9GUXh2OUhZeUhVVVg0ZHQ5UjRGVkt4V2ZLU2ZBQm1TSDhYVGgyaUZhSmd3SjBEakVSMHVGcUh0T0xIYWdpQ2ZYamRwbWU3cHUyc0Jyd2JjOHgtNGh0SzVnNTF0NWZHY3FQTGFTVEhDeTczNUdFdTVWMmExZFE5V3BHSGs1MV9aTWlZQjZvZE1fNzM5bFhrdGZhZDBVZE9rcWtBNllKZUNVMVdBaTFtQlEzVUZVQWRqWHpKUFFtTUhucHVVT0xCTEhMUExUeHdZZ0llbWRQYlV4aEhfQWk2TWFNYTliRWVLOUpLa3hQaXIxMUlpZlh6enhGNlVnZnR4dWcybWdIcUE4N1lYVkYyWENaM1FWX0NMbC1yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-24 18:33:27"
+      },
       {
         "title": "當年恐嚇成空話！同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNVWZOOFZDSnRjMk1TV3RTQ285Z2NyRjVqM2dxTHpPUl96eDd4ZWFZU2FsdW9sVzdLMDFXTmliLVJ5YkoxRWZIaG8zSWRRTUNvTmwwTWJnRTd1enFhS3A2S19uMWhqZG5CTmdIU3NiZWZFQjV3dl90NklmMWhqeFY2b3ZTelVXTG13WGZycWRFSnYzWWxRTzk1V1ZUVEZUblUybF9oX3AwSlJwMDBCNXFycFpTVEpkeWZVdGN0RFNXR1VRdFViV2Q3TE1IWkl4cW80a0lwUmFUM0xKWng4dGpldmlrMGE1SzNzeW1UQmxZUkNRWHFlRERTdUVRTHBWbDZCTGZkN0g2aWdMZzlqQ0NzaHRSRVJBNUtiVHhsbVpYV1d0cXlFMU1YbktFdUU2MkVJcEZIWlVyNkoyaHlHVUtEclJ4T2l6RUJYd3hBbE16V1poMk01d1FPZkxMaXJxQ0Uxbm5QLUZhOHZDSy1jYk02ZzR1RjM0SUJmM09CX09WT3R6Q0NWVFE5QTltQTZQNzY4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-24 17:43:43"
+      },
+      {
+        "title": "快新聞／當年恐嚇成空話！同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kOV8wVGJ4cVhDNnpBWEVIWmtjT1JtVTNhVmo5SmladFlvODVTaUpyazJsbVkxcnk4dzBKSEVuRDZBc1RyRlkzeE9DSHJITkV5LThpeEtHOWVJWkQ0cVFFag?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-24 17:43:43"
       },
       {
@@ -318,12 +342,19 @@
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwcF9pTUFDQWFPSlR1aVlia3A0VlE2ZDJaME9rZzVGa21kZjFXNVFSazlaVmgwNmd3RDdIRDdmNHN4MEVfZG9yNkhWTTh5aERXaHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-24 00:00:00"
       }
+    ],
+    "facebook": [
+      {
+        "title": "當年恐嚇成空話！ 同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQNHpBVWlpVHh6UUl2QWZoTjZfUnVfbWhfdnJ2MnJYT0RtU19EM0tnUTdsTC0yWHp1VGRGVk9ERFYtMF9BV19fRnVvUUg4V3JpaF9Xd2RGQVM2UXptRjlBbU1mN1N6SmVWN2dobjNicGpQOFR3UkxvX25feEhtZEE1QmUtNzgwYkRZRlpFOFVGdUR0YmlCbFU1eXVZWURQcmpOSmJDT0xROGo5OE90Nl9wb0xzSXVXaGh0QmhILU11S0Vla3QtSDNRSXhaNVo0b1ZiQTVHSWwtWjBqU1ZmbFJiV295VWN3aHVVd1Z4Z2NKZjNWUUFBNndYUlNBMWZMUWdlSklMMl9JTjROSHBpeEd5SjNWaUlrd3BtMW5CSUx2dVU3VEd5M0xtTmhwdEV1NHpqNzAwZ0pmbm1SN21haDVTRGRvM3cydjRscGNocTJLeGRLQUVsbXhQQWNsMFhmb2g1c2UyVE1heEszdlRfamlCVTIyb09EMk1halNDQml6QXp6bWs0YWVSS2kwdkNxVFhZSVVaaTM1UTREMngwMU1hdXl4dVo",
+        "time": "2026-05-24 17:50:01"
+      }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 6
+      "count": 9
     },
     {
       "platform": "facebook",
@@ -331,17 +362,25 @@
     }
   ],
   "alias_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "當年恐嚇成空話！ 同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQNHpBVWlpVHh6UUl2QWZoTjZfUnVfbWhfdnJ2MnJYT0RtU19EM0tnUTdsTC0yWHp1VGRGVk9ERFYtMF9BV19fRnVvUUg4V3JpaF9Xd2RGQVM2UXptRjlBbU1mN1N6SmVWN2dobjNicGpQOFR3UkxvX25feEhtZEE1QmUtNzgwYkRZRlpFOFVGdUR0YmlCbFU1eXVZWURQcmpOSmJDT0xROGo5OE90Nl9wb0xzSXVXaGh0QmhILU11S0Vla3QtSDNRSXhaNVo0b1ZiQTVHSWwtWjBqU1ZmbFJiV295VWN3aHVVd1Z4Z2NKZjNWUUFBNndYUlNBMWZMUWdlSklMMl9JTjROSHBpeEd5SjNWaUlrd3BtMW5CSUx2dVU3VEd5M0xtTmhwdEV1NHpqNzAwZ0pmbm1SN21haDVTRGRvM3cydjRscGNocTJLeGRLQUVsbXhQQWNsMFhmb2g1c2UyVE1heEszdlRfamlCVTIyb09EMk1halNDQml6QXp6bWs0YWVSS2kwdkNxVFhZSVVaaTM1UTREMngwMU1hdXl4dVo",
-        "time": "2026-05-24 17:50:01"
-      }
-    ],
     "news": [
+      {
+        "title": "民進黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手立委劉建國凝聚改革力量！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tQ2kzN1JpODNNTmw1cEkxU05UU3BkNUp5WUtfSW5JZDhWSFNXMENLODB6dWxrQ0JxcWRoZmgtbDJqWVpDeGJ0Tmd6VjdrT01oTDdqN1p6d3dibFF0aVlHcG82ejlvTjQ5Qlk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-24 19:08:57"
+      },
+      {
+        "title": "民主進步黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手劉建國凝聚改革力量 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNRTNpRXRIaU9jbzQ1dURoaG5mU1RTRGVrZGVFc0tkX1IyRlVyQ2R1SnQxQnRzeTJBVTh5YnRCLXJjT2FiREJ6Mmc0dzlpNEtBT1d5U0pERVNxZ1RsdzN6a2RGOER5THFKYl8tUDJwQmtWRUs0dGRJX180UG42MnhSZGI3My1IVXN6ejRxelkxRnN4U2VuaUdUelpIYUQxdDBEcEQ0aWtvYlR4REtaTm0yUnFDV0lnSjJLR2pHTURCNjd0UTNlRmEwU19lQXcyM29tbEs4OTFMOHNkTW9GUXh2OUhZeUhVVVg0ZHQ5UjRGVkt4V2ZLU2ZBQm1TSDhYVGgyaUZhSmd3SjBEakVSMHVGcUh0T0xIYWdpQ2ZYamRwbWU3cHUyc0Jyd2JjOHgtNGh0SzVnNTF0NWZHY3FQTGFTVEhDeTczNUdFdTVWMmExZFE5V3BHSGs1MV9aTWlZQjZvZE1fNzM5bFhrdGZhZDBVZE9rcWtBNllKZUNVMVdBaTFtQlEzVUZVQWRqWHpKUFFtTUhucHVVT0xCTEhMUExUeHdZZ0llbWRQYlV4aEhfQWk2TWFNYTliRWVLOUpLa3hQaXIxMUlpZlh6enhGNlVnZnR4dWcybWdIcUE4N1lYVkYyWENaM1FWX0NMbC1yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-24 18:33:27"
+      },
       {
         "title": "當年恐嚇成空話！同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNVWZOOFZDSnRjMk1TV3RTQ285Z2NyRjVqM2dxTHpPUl96eDd4ZWFZU2FsdW9sVzdLMDFXTmliLVJ5YkoxRWZIaG8zSWRRTUNvTmwwTWJnRTd1enFhS3A2S19uMWhqZG5CTmdIU3NiZWZFQjV3dl90NklmMWhqeFY2b3ZTelVXTG13WGZycWRFSnYzWWxRTzk1V1ZUVEZUblUybF9oX3AwSlJwMDBCNXFycFpTVEpkeWZVdGN0RFNXR1VRdFViV2Q3TE1IWkl4cW80a0lwUmFUM0xKWng4dGpldmlrMGE1SzNzeW1UQmxZUkNRWHFlRERTdUVRTHBWbDZCTGZkN0g2aWdMZzlqQ0NzaHRSRVJBNUtiVHhsbVpYV1d0cXlFMU1YbktFdUU2MkVJcEZIWlVyNkoyaHlHVUtEclJ4T2l6RUJYd3hBbE16V1poMk01d1FPZkxMaXJxQ0Uxbm5QLUZhOHZDSy1jYk02ZzR1RjM0SUJmM09CX09WT3R6Q0NWVFE5QTltQTZQNzY4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-24 17:43:43"
+      },
+      {
+        "title": "快新聞／當年恐嚇成空話！同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kOV8wVGJ4cVhDNnpBWEVIWmtjT1JtVTNhVmo5SmladFlvODVTaUpyazJsbVkxcnk4dzBKSEVuRDZBc1RyRlkzeE9DSHJITkV5LThpeEtHOWVJWkQ0cVFFag?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-24 17:43:43"
       },
       {
@@ -369,20 +408,42 @@
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwcF9pTUFDQWFPSlR1aVlia3A0VlE2ZDJaME9rZzVGa21kZjFXNVFSazlaVmgwNmd3RDdIRDdmNHN4MEVfZG9yNkhWTTh5aERXaHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-24 00:00:00"
       }
+    ],
+    "facebook": [
+      {
+        "title": "當年恐嚇成空話！ 同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQNHpBVWlpVHh6UUl2QWZoTjZfUnVfbWhfdnJ2MnJYT0RtU19EM0tnUTdsTC0yWHp1VGRGVk9ERFYtMF9BV19fRnVvUUg4V3JpaF9Xd2RGQVM2UXptRjlBbU1mN1N6SmVWN2dobjNicGpQOFR3UkxvX25feEhtZEE1QmUtNzgwYkRZRlpFOFVGdUR0YmlCbFU1eXVZWURQcmpOSmJDT0xROGo5OE90Nl9wb0xzSXVXaGh0QmhILU11S0Vla3QtSDNRSXhaNVo0b1ZiQTVHSWwtWjBqU1ZmbFJiV295VWN3aHVVd1Z4Z2NKZjNWUUFBNndYUlNBMWZMUWdlSklMMl9JTjROSHBpeEd5SjNWaUlrd3BtMW5CSUx2dVU3VEd5M0xtTmhwdEV1NHpqNzAwZ0pmbm1SN21haDVTRGRvM3cydjRscGNocTJLeGRLQUVsbXhQQWNsMFhmb2g1c2UyVE1heEszdlRfamlCVTIyb09EMk1halNDQml6QXp6bWs0YWVSS2kwdkNxVFhZSVVaaTM1UTREMngwMU1hdXl4dVo",
+        "time": "2026-05-24 17:50:01"
+      }
     ]
   },
   "mention_compare_24h": {
     "張嘉郡": 0,
-    "劉建國": 7
+    "劉建國": 10
   },
   "mention_compare_7d": {
     "張嘉郡": 41,
-    "劉建國": 41
+    "劉建國": 44
   },
   "top_news": [
     {
+      "title": "民進黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手立委劉建國凝聚改革力量！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tQ2kzN1JpODNNTmw1cEkxU05UU3BkNUp5WUtfSW5JZDhWSFNXMENLODB6dWxrQ0JxcWRoZmgtbDJqWVpDeGJ0Tmd6VjdrT01oTDdqN1p6d3dibFF0aVlHcG82ejlvTjQ5Qlk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-24 19:08:57"
+    },
+    {
+      "title": "民主進步黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手劉建國凝聚改革力量 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNRTNpRXRIaU9jbzQ1dURoaG5mU1RTRGVrZGVFc0tkX1IyRlVyQ2R1SnQxQnRzeTJBVTh5YnRCLXJjT2FiREJ6Mmc0dzlpNEtBT1d5U0pERVNxZ1RsdzN6a2RGOER5THFKYl8tUDJwQmtWRUs0dGRJX180UG42MnhSZGI3My1IVXN6ejRxelkxRnN4U2VuaUdUelpIYUQxdDBEcEQ0aWtvYlR4REtaTm0yUnFDV0lnSjJLR2pHTURCNjd0UTNlRmEwU19lQXcyM29tbEs4OTFMOHNkTW9GUXh2OUhZeUhVVVg0ZHQ5UjRGVkt4V2ZLU2ZBQm1TSDhYVGgyaUZhSmd3SjBEakVSMHVGcUh0T0xIYWdpQ2ZYamRwbWU3cHUyc0Jyd2JjOHgtNGh0SzVnNTF0NWZHY3FQTGFTVEhDeTczNUdFdTVWMmExZFE5V3BHSGs1MV9aTWlZQjZvZE1fNzM5bFhrdGZhZDBVZE9rcWtBNllKZUNVMVdBaTFtQlEzVUZVQWRqWHpKUFFtTUhucHVVT0xCTEhMUExUeHdZZ0llbWRQYlV4aEhfQWk2TWFNYTliRWVLOUpLa3hQaXIxMUlpZlh6enhGNlVnZnR4dWcybWdIcUE4N1lYVkYyWENaM1FWX0NMbC1yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-24 18:33:27"
+    },
+    {
       "title": "當年恐嚇成空話！同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNVWZOOFZDSnRjMk1TV3RTQ285Z2NyRjVqM2dxTHpPUl96eDd4ZWFZU2FsdW9sVzdLMDFXTmliLVJ5YkoxRWZIaG8zSWRRTUNvTmwwTWJnRTd1enFhS3A2S19uMWhqZG5CTmdIU3NiZWZFQjV3dl90NklmMWhqeFY2b3ZTelVXTG13WGZycWRFSnYzWWxRTzk1V1ZUVEZUblUybF9oX3AwSlJwMDBCNXFycFpTVEpkeWZVdGN0RFNXR1VRdFViV2Q3TE1IWkl4cW80a0lwUmFUM0xKWng4dGpldmlrMGE1SzNzeW1UQmxZUkNRWHFlRERTdUVRTHBWbDZCTGZkN0g2aWdMZzlqQ0NzaHRSRVJBNUtiVHhsbVpYV1d0cXlFMU1YbktFdUU2MkVJcEZIWlVyNkoyaHlHVUtEclJ4T2l6RUJYd3hBbE16V1poMk01d1FPZkxMaXJxQ0Uxbm5QLUZhOHZDSy1jYk02ZzR1RjM0SUJmM09CX09WT3R6Q0NWVFE5QTltQTZQNzY4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-24 17:43:43"
+    },
+    {
+      "title": "快新聞／當年恐嚇成空話！同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kOV8wVGJ4cVhDNnpBWEVIWmtjT1JtVTNhVmo5SmladFlvODVTaUpyazJsbVkxcnk4dzBKSEVuRDZBc1RyRlkzeE9DSHJITkV5LThpeEtHOWVJWkQ0cVFFag?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-24 17:43:43"
     },
     {
@@ -413,8 +474,23 @@
   ],
   "top_news_7d": [
     {
+      "title": "民進黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手立委劉建國凝聚改革力量！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tQ2kzN1JpODNNTmw1cEkxU05UU3BkNUp5WUtfSW5JZDhWSFNXMENLODB6dWxrQ0JxcWRoZmgtbDJqWVpDeGJ0Tmd6VjdrT01oTDdqN1p6d3dibFF0aVlHcG82ejlvTjQ5Qlk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-24 19:08:57"
+    },
+    {
+      "title": "民主進步黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手劉建國凝聚改革力量 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNRTNpRXRIaU9jbzQ1dURoaG5mU1RTRGVrZGVFc0tkX1IyRlVyQ2R1SnQxQnRzeTJBVTh5YnRCLXJjT2FiREJ6Mmc0dzlpNEtBT1d5U0pERVNxZ1RsdzN6a2RGOER5THFKYl8tUDJwQmtWRUs0dGRJX180UG42MnhSZGI3My1IVXN6ejRxelkxRnN4U2VuaUdUelpIYUQxdDBEcEQ0aWtvYlR4REtaTm0yUnFDV0lnSjJLR2pHTURCNjd0UTNlRmEwU19lQXcyM29tbEs4OTFMOHNkTW9GUXh2OUhZeUhVVVg0ZHQ5UjRGVkt4V2ZLU2ZBQm1TSDhYVGgyaUZhSmd3SjBEakVSMHVGcUh0T0xIYWdpQ2ZYamRwbWU3cHUyc0Jyd2JjOHgtNGh0SzVnNTF0NWZHY3FQTGFTVEhDeTczNUdFdTVWMmExZFE5V3BHSGs1MV9aTWlZQjZvZE1fNzM5bFhrdGZhZDBVZE9rcWtBNllKZUNVMVdBaTFtQlEzVUZVQWRqWHpKUFFtTUhucHVVT0xCTEhMUExUeHdZZ0llbWRQYlV4aEhfQWk2TWFNYTliRWVLOUpLa3hQaXIxMUlpZlh6enhGNlVnZnR4dWcybWdIcUE4N1lYVkYyWENaM1FWX0NMbC1yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-24 18:33:27"
+    },
+    {
       "title": "當年恐嚇成空話！同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNVWZOOFZDSnRjMk1TV3RTQ285Z2NyRjVqM2dxTHpPUl96eDd4ZWFZU2FsdW9sVzdLMDFXTmliLVJ5YkoxRWZIaG8zSWRRTUNvTmwwTWJnRTd1enFhS3A2S19uMWhqZG5CTmdIU3NiZWZFQjV3dl90NklmMWhqeFY2b3ZTelVXTG13WGZycWRFSnYzWWxRTzk1V1ZUVEZUblUybF9oX3AwSlJwMDBCNXFycFpTVEpkeWZVdGN0RFNXR1VRdFViV2Q3TE1IWkl4cW80a0lwUmFUM0xKWng4dGpldmlrMGE1SzNzeW1UQmxZUkNRWHFlRERTdUVRTHBWbDZCTGZkN0g2aWdMZzlqQ0NzaHRSRVJBNUtiVHhsbVpYV1d0cXlFMU1YbktFdUU2MkVJcEZIWlVyNkoyaHlHVUtEclJ4T2l6RUJYd3hBbE16V1poMk01d1FPZkxMaXJxQ0Uxbm5QLUZhOHZDSy1jYk02ZzR1RjM0SUJmM09CX09WT3R6Q0NWVFE5QTltQTZQNzY4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-24 17:43:43"
+    },
+    {
+      "title": "快新聞／當年恐嚇成空話！同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kOV8wVGJ4cVhDNnpBWEVIWmtjT1JtVTNhVmo5SmladFlvODVTaUpyazJsbVkxcnk4dzBKSEVuRDZBc1RyRlkzeE9DSHJITkV5LThpeEtHOWVJWkQ0cVFFag?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-24 17:43:43"
     },
     {
@@ -496,21 +572,6 @@
       "title": "2026《鉅聞民調》雲林縣長選舉／賴清德全縣滿意度只有39.79%！劉建國本命區推「宿敵」尹伶瑛選斗六市長蘇治芬助攻泯恩仇？ - 鉅聞天下",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TN0l0ZEVkeE40WE9VczVVdXlmMVdmdm9oVTBIZV9KSGdtQzllcWFBZjFqRkFQVjVVRHktTVc5elp4b25wNXdFTUF3WXQtX1BQcHRzenVsVkgxOHNMNXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-22 00:00:00"
-    },
-    {
-      "title": "雲林立委張嘉郡率交委會考察縣道164線拓寬案交通部長陳世凱允諾補助規劃設計費後續工程再視明年預算規模分期推動 - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kR2R5d3d3UlN4THRGdkZjUnN4MkxBcmNyMWkwU0l2Zno0M3RiQkNMNEk0N3FjLW02ZGVtYkRLaW5VbThLa2EzNVRDSnlsczFMVkkyc280eFlPQkU2bkJnS0xBelpzWjI2eHBj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-21 22:47:53"
-    },
-    {
-      "title": "張嘉郡考察斗六鐵路高架化　促政院儘速核定動工 - 三立新聞網SETN.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kMGp0dXJGbEdDNkRCSDhkRHRHSkIwc25uNmRLMnpaYzBBMnRncmhqNFg4dkdNeERVcFAzS0Y4NU5iYmdFN2RJVzgtaTlIVU9FN1NxYTQ0UkLSAV9BVV95cUxQSmhmWmhiQ3ZlT1Q0QzFNYm1pLXBRWmVSR2VXQnhkekxyQ1V5ZDNVUUg2MG1NX0pYZ0syRjdRRDRPOHhkLVVsYUFmQTVoS3BNTklqMm9rNEJwNm1aT2NyQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-21 19:00:00"
-    },
-    {
-      "title": "張嘉郡率交委會考察雲林重大建設 力推斗六鐵路高架化與縣道164線拓寬 - 台灣民眾電子報",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lMTlkQnJkUDZNRGFrcmNrOGpZSGN1bjkwQ1VOVENQSU8zOEFpSE81ZTdyY2F4ZENlTlc3Q1dJLTNSaVlDdDNBcA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-21 17:25:52"
     }
   ],
   "latest_facebook_20": [
@@ -617,8 +678,23 @@
   ],
   "latest_news_20": [
     {
+      "title": "民進黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手立委劉建國凝聚改革力量！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tQ2kzN1JpODNNTmw1cEkxU05UU3BkNUp5WUtfSW5JZDhWSFNXMENLODB6dWxrQ0JxcWRoZmgtbDJqWVpDeGJ0Tmd6VjdrT01oTDdqN1p6d3dibFF0aVlHcG82ejlvTjQ5Qlk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-24 19:08:57"
+    },
+    {
+      "title": "民主進步黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手劉建國凝聚改革力量 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNRTNpRXRIaU9jbzQ1dURoaG5mU1RTRGVrZGVFc0tkX1IyRlVyQ2R1SnQxQnRzeTJBVTh5YnRCLXJjT2FiREJ6Mmc0dzlpNEtBT1d5U0pERVNxZ1RsdzN6a2RGOER5THFKYl8tUDJwQmtWRUs0dGRJX180UG42MnhSZGI3My1IVXN6ejRxelkxRnN4U2VuaUdUelpIYUQxdDBEcEQ0aWtvYlR4REtaTm0yUnFDV0lnSjJLR2pHTURCNjd0UTNlRmEwU19lQXcyM29tbEs4OTFMOHNkTW9GUXh2OUhZeUhVVVg0ZHQ5UjRGVkt4V2ZLU2ZBQm1TSDhYVGgyaUZhSmd3SjBEakVSMHVGcUh0T0xIYWdpQ2ZYamRwbWU3cHUyc0Jyd2JjOHgtNGh0SzVnNTF0NWZHY3FQTGFTVEhDeTczNUdFdTVWMmExZFE5V3BHSGs1MV9aTWlZQjZvZE1fNzM5bFhrdGZhZDBVZE9rcWtBNllKZUNVMVdBaTFtQlEzVUZVQWRqWHpKUFFtTUhucHVVT0xCTEhMUExUeHdZZ0llbWRQYlV4aEhfQWk2TWFNYTliRWVLOUpLa3hQaXIxMUlpZlh6enhGNlVnZnR4dWcybWdIcUE4N1lYVkYyWENaM1FWX0NMbC1yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-24 18:33:27"
+    },
+    {
       "title": "當年恐嚇成空話！同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNVWZOOFZDSnRjMk1TV3RTQ285Z2NyRjVqM2dxTHpPUl96eDd4ZWFZU2FsdW9sVzdLMDFXTmliLVJ5YkoxRWZIaG8zSWRRTUNvTmwwTWJnRTd1enFhS3A2S19uMWhqZG5CTmdIU3NiZWZFQjV3dl90NklmMWhqeFY2b3ZTelVXTG13WGZycWRFSnYzWWxRTzk1V1ZUVEZUblUybF9oX3AwSlJwMDBCNXFycFpTVEpkeWZVdGN0RFNXR1VRdFViV2Q3TE1IWkl4cW80a0lwUmFUM0xKWng4dGpldmlrMGE1SzNzeW1UQmxZUkNRWHFlRERTdUVRTHBWbDZCTGZkN0g2aWdMZzlqQ0NzaHRSRVJBNUtiVHhsbVpYV1d0cXlFMU1YbktFdUU2MkVJcEZIWlVyNkoyaHlHVUtEclJ4T2l6RUJYd3hBbE16V1poMk01d1FPZkxMaXJxQ0Uxbm5QLUZhOHZDSy1jYk02ZzR1RjM0SUJmM09CX09WT3R6Q0NWVFE5QTltQTZQNzY4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-24 17:43:43"
+    },
+    {
+      "title": "快新聞／當年恐嚇成空話！同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kOV8wVGJ4cVhDNnpBWEVIWmtjT1JtVTNhVmo5SmladFlvODVTaUpyazJsbVkxcnk4dzBKSEVuRDZBc1RyRlkzeE9DSHJITkV5LThpeEtHOWVJWkQ0cVFFag?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-24 17:43:43"
     },
     {
@@ -700,21 +776,6 @@
       "title": "2026《鉅聞民調》雲林縣長選舉／賴清德全縣滿意度只有39.79%！劉建國本命區推「宿敵」尹伶瑛選斗六市長蘇治芬助攻泯恩仇？ - 鉅聞天下",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TN0l0ZEVkeE40WE9VczVVdXlmMVdmdm9oVTBIZV9KSGdtQzllcWFBZjFqRkFQVjVVRHktTVc5elp4b25wNXdFTUF3WXQtX1BQcHRzenVsVkgxOHNMNXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-22 00:00:00"
-    },
-    {
-      "title": "雲林立委張嘉郡率交委會考察縣道164線拓寬案交通部長陳世凱允諾補助規劃設計費後續工程再視明年預算規模分期推動 - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kR2R5d3d3UlN4THRGdkZjUnN4MkxBcmNyMWkwU0l2Zno0M3RiQkNMNEk0N3FjLW02ZGVtYkRLaW5VbThLa2EzNVRDSnlsczFMVkkyc280eFlPQkU2bkJnS0xBelpzWjI2eHBj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-21 22:47:53"
-    },
-    {
-      "title": "張嘉郡考察斗六鐵路高架化　促政院儘速核定動工 - 三立新聞網SETN.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kMGp0dXJGbEdDNkRCSDhkRHRHSkIwc25uNmRLMnpaYzBBMnRncmhqNFg4dkdNeERVcFAzS0Y4NU5iYmdFN2RJVzgtaTlIVU9FN1NxYTQ0UkLSAV9BVV95cUxQSmhmWmhiQ3ZlT1Q0QzFNYm1pLXBRWmVSR2VXQnhkekxyQ1V5ZDNVUUg2MG1NX0pYZ0syRjdRRDRPOHhkLVVsYUFmQTVoS3BNTklqMm9rNEJwNm1aT2NyQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-21 19:00:00"
-    },
-    {
-      "title": "張嘉郡率交委會考察雲林重大建設 力推斗六鐵路高架化與縣道164線拓寬 - 台灣民眾電子報",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lMTlkQnJkUDZNRGFrcmNrOGpZSGN1bjkwQ1VOVENQSU8zOEFpSE81ZTdyY2F4ZENlTlc3Q1dJLTNSaVlDdDNBcA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-21 17:25:52"
     }
   ],
   "person_sections": {
@@ -1029,8 +1090,23 @@
       ],
       "news": [
         {
+          "title": "民進黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手立委劉建國凝聚改革力量！ - 台灣華報",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tQ2kzN1JpODNNTmw1cEkxU05UU3BkNUp5WUtfSW5JZDhWSFNXMENLODB6dWxrQ0JxcWRoZmgtbDJqWVpDeGJ0Tmd6VjdrT01oTDdqN1p6d3dibFF0aVlHcG82ejlvTjQ5Qlk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-24 19:08:57"
+        },
+        {
+          "title": "民主進步黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手劉建國凝聚改革力量 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNRTNpRXRIaU9jbzQ1dURoaG5mU1RTRGVrZGVFc0tkX1IyRlVyQ2R1SnQxQnRzeTJBVTh5YnRCLXJjT2FiREJ6Mmc0dzlpNEtBT1d5U0pERVNxZ1RsdzN6a2RGOER5THFKYl8tUDJwQmtWRUs0dGRJX180UG42MnhSZGI3My1IVXN6ejRxelkxRnN4U2VuaUdUelpIYUQxdDBEcEQ0aWtvYlR4REtaTm0yUnFDV0lnSjJLR2pHTURCNjd0UTNlRmEwU19lQXcyM29tbEs4OTFMOHNkTW9GUXh2OUhZeUhVVVg0ZHQ5UjRGVkt4V2ZLU2ZBQm1TSDhYVGgyaUZhSmd3SjBEakVSMHVGcUh0T0xIYWdpQ2ZYamRwbWU3cHUyc0Jyd2JjOHgtNGh0SzVnNTF0NWZHY3FQTGFTVEhDeTczNUdFdTVWMmExZFE5V3BHSGs1MV9aTWlZQjZvZE1fNzM5bFhrdGZhZDBVZE9rcWtBNllKZUNVMVdBaTFtQlEzVUZVQWRqWHpKUFFtTUhucHVVT0xCTEhMUExUeHdZZ0llbWRQYlV4aEhfQWk2TWFNYTliRWVLOUpLa3hQaXIxMUlpZlh6enhGNlVnZnR4dWcybWdIcUE4N1lYVkYyWENaM1FWX0NMbC1yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-24 18:33:27"
+        },
+        {
           "title": "當年恐嚇成空話！同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNVWZOOFZDSnRjMk1TV3RTQ285Z2NyRjVqM2dxTHpPUl96eDd4ZWFZU2FsdW9sVzdLMDFXTmliLVJ5YkoxRWZIaG8zSWRRTUNvTmwwTWJnRTd1enFhS3A2S19uMWhqZG5CTmdIU3NiZWZFQjV3dl90NklmMWhqeFY2b3ZTelVXTG13WGZycWRFSnYzWWxRTzk1V1ZUVEZUblUybF9oX3AwSlJwMDBCNXFycFpTVEpkeWZVdGN0RFNXR1VRdFViV2Q3TE1IWkl4cW80a0lwUmFUM0xKWng4dGpldmlrMGE1SzNzeW1UQmxZUkNRWHFlRERTdUVRTHBWbDZCTGZkN0g2aWdMZzlqQ0NzaHRSRVJBNUtiVHhsbVpYV1d0cXlFMU1YbktFdUU2MkVJcEZIWlVyNkoyaHlHVUtEclJ4T2l6RUJYd3hBbE16V1poMk01d1FPZkxMaXJxQ0Uxbm5QLUZhOHZDSy1jYk02ZzR1RjM0SUJmM09CX09WT3R6Q0NWVFE5QTltQTZQNzY4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-24 17:43:43"
+        },
+        {
+          "title": "快新聞／當年恐嚇成空話！同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - 民視新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kOV8wVGJ4cVhDNnpBWEVIWmtjT1JtVTNhVmo5SmladFlvODVTaUpyazJsbVkxcnk4dzBKSEVuRDZBc1RyRlkzeE9DSHJITkV5LThpeEtHOWVJWkQ0cVFFag?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-24 17:43:43"
         },
         {
@@ -1112,21 +1188,6 @@
           "title": "2026《鉅聞民調》雲林縣長選舉／張嘉郡49.52%領先劉建國10.61個百分點張在海線及農業鄉鎮碾壓劉固守斗六最大票倉 - 鉅聞天下",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjaUZuZi04SWNtckpfdmpEWXNzenJlTklmYjBJZmdCNGRtUzVzSmlTdVR4ZlRXeGtIQ2ppY3FxLS1yS2lsOHlpQnhqbm5xaTBtUW1zU040QlAtbXhjd2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-20 00:00:00"
-        },
-        {
-          "title": "劉建國爭取8千萬補助 斗六多功能社福大樓正式啟用 - 蕃新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55S2N6ZG5oQnU0anJtSDA0T2w1RFdVaXhmXzhDZUpRdHBuUDZYdDBPa2ZpZlNpTVJvMjRnazUzMkRlM2thZzMzR2dYbG1DMFhwdUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-19 23:02:00"
-        },
-        {
-          "title": "劉建國爭取8千萬補助斗六多功能社福大樓正式啟用- 政府消息新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNG5TMXdqcmhaTGo5U1RKcklFTWxhUEtSaEh0UzNqZXpNMXc3QlFwdEFWZzNKamlzVnNOZFlCTWNPUFFNenpIZmpnQlJ1aV9IbVJsNUo3X19KcmJtaUhPdEF3MXpkVzZMYVR1S3FJSkV1UjZPZUl3enBRbzBhX1VJSmRlS3l4UkllNUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-19 22:52:18"
-        },
-        {
-          "title": "劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 | 民視新聞網 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CallWQ0pEd1pSMFhoNHR0aUx5T1hmU3o0dDlaNFFZY3VYZ1R5OHU5R1VCaDRDcHJ4ZXY3dzBPYlNEeUREZXUtTkJQbkJhVmJQRzV1eW5R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-19 21:48:12"
         }
       ]
     }
@@ -1134,8 +1195,23 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "民進黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手立委劉建國凝聚改革力量！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tQ2kzN1JpODNNTmw1cEkxU05UU3BkNUp5WUtfSW5JZDhWSFNXMENLODB6dWxrQ0JxcWRoZmgtbDJqWVpDeGJ0Tmd6VjdrT01oTDdqN1p6d3dibFF0aVlHcG82ejlvTjQ5Qlk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-24 19:08:57"
+      },
+      {
+        "title": "民主進步黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手劉建國凝聚改革力量 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNRTNpRXRIaU9jbzQ1dURoaG5mU1RTRGVrZGVFc0tkX1IyRlVyQ2R1SnQxQnRzeTJBVTh5YnRCLXJjT2FiREJ6Mmc0dzlpNEtBT1d5U0pERVNxZ1RsdzN6a2RGOER5THFKYl8tUDJwQmtWRUs0dGRJX180UG42MnhSZGI3My1IVXN6ejRxelkxRnN4U2VuaUdUelpIYUQxdDBEcEQ0aWtvYlR4REtaTm0yUnFDV0lnSjJLR2pHTURCNjd0UTNlRmEwU19lQXcyM29tbEs4OTFMOHNkTW9GUXh2OUhZeUhVVVg0ZHQ5UjRGVkt4V2ZLU2ZBQm1TSDhYVGgyaUZhSmd3SjBEakVSMHVGcUh0T0xIYWdpQ2ZYamRwbWU3cHUyc0Jyd2JjOHgtNGh0SzVnNTF0NWZHY3FQTGFTVEhDeTczNUdFdTVWMmExZFE5V3BHSGs1MV9aTWlZQjZvZE1fNzM5bFhrdGZhZDBVZE9rcWtBNllKZUNVMVdBaTFtQlEzVUZVQWRqWHpKUFFtTUhucHVVT0xCTEhMUExUeHdZZ0llbWRQYlV4aEhfQWk2TWFNYTliRWVLOUpLa3hQaXIxMUlpZlh6enhGNlVnZnR4dWcybWdIcUE4N1lYVkYyWENaM1FWX0NMbC1yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-24 18:33:27"
+      },
+      {
         "title": "當年恐嚇成空話！同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNVWZOOFZDSnRjMk1TV3RTQ285Z2NyRjVqM2dxTHpPUl96eDd4ZWFZU2FsdW9sVzdLMDFXTmliLVJ5YkoxRWZIaG8zSWRRTUNvTmwwTWJnRTd1enFhS3A2S19uMWhqZG5CTmdIU3NiZWZFQjV3dl90NklmMWhqeFY2b3ZTelVXTG13WGZycWRFSnYzWWxRTzk1V1ZUVEZUblUybF9oX3AwSlJwMDBCNXFycFpTVEpkeWZVdGN0RFNXR1VRdFViV2Q3TE1IWkl4cW80a0lwUmFUM0xKWng4dGpldmlrMGE1SzNzeW1UQmxZUkNRWHFlRERTdUVRTHBWbDZCTGZkN0g2aWdMZzlqQ0NzaHRSRVJBNUtiVHhsbVpYV1d0cXlFMU1YbktFdUU2MkVJcEZIWlVyNkoyaHlHVUtEclJ4T2l6RUJYd3hBbE16V1poMk01d1FPZkxMaXJxQ0Uxbm5QLUZhOHZDSy1jYk02ZzR1RjM0SUJmM09CX09WT3R6Q0NWVFE5QTltQTZQNzY4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-24 17:43:43"
+      },
+      {
+        "title": "快新聞／當年恐嚇成空話！同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kOV8wVGJ4cVhDNnpBWEVIWmtjT1JtVTNhVmo5SmladFlvODVTaUpyazJsbVkxcnk4dzBKSEVuRDZBc1RyRlkzeE9DSHJITkV5LThpeEtHOWVJWkQ0cVFFag?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-24 17:43:43"
       },
       {
@@ -1175,8 +1251,23 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "民進黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手立委劉建國凝聚改革力量！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tQ2kzN1JpODNNTmw1cEkxU05UU3BkNUp5WUtfSW5JZDhWSFNXMENLODB6dWxrQ0JxcWRoZmgtbDJqWVpDeGJ0Tmd6VjdrT01oTDdqN1p6d3dibFF0aVlHcG82ejlvTjQ5Qlk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-24 19:08:57"
+      },
+      {
+        "title": "民主進步黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手劉建國凝聚改革力量 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNRTNpRXRIaU9jbzQ1dURoaG5mU1RTRGVrZGVFc0tkX1IyRlVyQ2R1SnQxQnRzeTJBVTh5YnRCLXJjT2FiREJ6Mmc0dzlpNEtBT1d5U0pERVNxZ1RsdzN6a2RGOER5THFKYl8tUDJwQmtWRUs0dGRJX180UG42MnhSZGI3My1IVXN6ejRxelkxRnN4U2VuaUdUelpIYUQxdDBEcEQ0aWtvYlR4REtaTm0yUnFDV0lnSjJLR2pHTURCNjd0UTNlRmEwU19lQXcyM29tbEs4OTFMOHNkTW9GUXh2OUhZeUhVVVg0ZHQ5UjRGVkt4V2ZLU2ZBQm1TSDhYVGgyaUZhSmd3SjBEakVSMHVGcUh0T0xIYWdpQ2ZYamRwbWU3cHUyc0Jyd2JjOHgtNGh0SzVnNTF0NWZHY3FQTGFTVEhDeTczNUdFdTVWMmExZFE5V3BHSGs1MV9aTWlZQjZvZE1fNzM5bFhrdGZhZDBVZE9rcWtBNllKZUNVMVdBaTFtQlEzVUZVQWRqWHpKUFFtTUhucHVVT0xCTEhMUExUeHdZZ0llbWRQYlV4aEhfQWk2TWFNYTliRWVLOUpLa3hQaXIxMUlpZlh6enhGNlVnZnR4dWcybWdIcUE4N1lYVkYyWENaM1FWX0NMbC1yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-24 18:33:27"
+      },
+      {
         "title": "當年恐嚇成空話！同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNVWZOOFZDSnRjMk1TV3RTQ285Z2NyRjVqM2dxTHpPUl96eDd4ZWFZU2FsdW9sVzdLMDFXTmliLVJ5YkoxRWZIaG8zSWRRTUNvTmwwTWJnRTd1enFhS3A2S19uMWhqZG5CTmdIU3NiZWZFQjV3dl90NklmMWhqeFY2b3ZTelVXTG13WGZycWRFSnYzWWxRTzk1V1ZUVEZUblUybF9oX3AwSlJwMDBCNXFycFpTVEpkeWZVdGN0RFNXR1VRdFViV2Q3TE1IWkl4cW80a0lwUmFUM0xKWng4dGpldmlrMGE1SzNzeW1UQmxZUkNRWHFlRERTdUVRTHBWbDZCTGZkN0g2aWdMZzlqQ0NzaHRSRVJBNUtiVHhsbVpYV1d0cXlFMU1YbktFdUU2MkVJcEZIWlVyNkoyaHlHVUtEclJ4T2l6RUJYd3hBbE16V1poMk01d1FPZkxMaXJxQ0Uxbm5QLUZhOHZDSy1jYk02ZzR1RjM0SUJmM09CX09WT3R6Q0NWVFE5QTltQTZQNzY4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-24 17:43:43"
+      },
+      {
+        "title": "快新聞／當年恐嚇成空話！同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kOV8wVGJ4cVhDNnpBWEVIWmtjT1JtVTNhVmo5SmladFlvODVTaUpyazJsbVkxcnk4dzBKSEVuRDZBc1RyRlkzeE9DSHJITkV5LThpeEtHOWVJWkQ0cVFFag?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-24 17:43:43"
       },
       {
@@ -1358,21 +1449,6 @@
         "title": "行政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝支持新手爸媽 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNMUFBMFF1N3lnam9KTmpOaktIbzBTN1NhTlQtVUVmWHR4d1dIajVLZ1Izd0dJTHgtc1lHQ0ZKYjdZOXlTaXNhOG1VS0lwa3YxUUdPbDVtMkpfMDBLZVBfYkF6MTZiSlBuZDNmclhhVlFDX2xlTUp5N0M1MElMRElGSEhFSFdaX2hUS3pncWotb2FuSTZKYnBhSThRYWM0SEFXUUVONU5UTHBUdzNoUWhIeWNYUVdBTVlQS0xwWmtEMGR1SGZIc0hDeVNvcFloc0FwT3FER2t2VloyQ3Q2ZXdNZnBzSUtfLXU5RmpCU0FZeEZiR0FxNy1DbWVUZHgtekoyQ0U0aTJRTjVPbVBaMlpTSHNYZ2c3YW1XR3hRcmN6S0lDcGZtTi10M1UzY01mekd1VjVyYzdMYm9qV3A3Q2xEd3NYTzFaQTg3VUNtUlFUQkZUVTNCUzU2MEFVY08tdWVRU3lmbUdCUWxSR2V5Q0xMOHh6S1E4ZjFGZ2h3SDQ4TUtxUEZ4VWdKYUJwUjE5MjZqT3NiUVlha3pUajNHamM3UThFQTczTld4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-20 15:22:17"
-      },
-      {
-        "title": "美花生關稅挑戰！劉建國邀農業部赴雲林座談 陳駿季部長允諾全力護農 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQdUxJVUV5MGVrNTNGRnppSmxzVVBEUEVpS1QzWHdhSFRjb3JQd1g5dlNmV2JoMnMtMG90Q0ctNTloT0dpN0t5Q3BlRS1sQnh3clFRRGlHcmVpQkdHV0pQSVExMlV4MFBGUFJ2emxMR3AzOEJqdy1iWXdjZGJPSDRnMlo5elRtR3ZpNnYyWGdlaWZPQ2tjVm8zMlV4ajVKc3ZOaHFySkNOSnYxdXJmeXF2NG04X1VnMUhMUTk4M1hOOVVjaHgwMHp3OHIxRExKRzh2aGZZVnFqS2lIUTlsTE9kMk9KUWhTdUNlMl9ESTBURDVkbjZqNTNNWURocEVsZU9FQ2E5eUg1MkNxRVZibks3Z3VybzFBWkdzcUQwS1NZU0JjZ2FPQ1dQNTJqVm5EaEwtZlJxSmFHUEIzMU5Ib0dBV0o4Z2lWX1ZadHZsQ3RNWGxCenl5Y3ptODkyMzRvT2NFWk5oTDZ3Nnc1dHdWaXE0UFd5aWRibWk4TEx0VGxUVFNFZ0c4eVZ5Tk51Y1gzQjN2QlZ4eU8zN25OUVFqWUpRNC1HZVhmNzhoZGhqUmFnOVY3Qkd3dWk4LUpDQ2RxUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-20 15:20:25"
-      },
-      {
-        "title": "蔣萬安參訪農漁產 張嘉郡盼北雲合作創雙贏 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxNbGxfNmJGTHNTVDgzOU93VU1iMlNqN2V4aUk1bXhBdnVxVXF3QUhacVptT1habmVxaFoyQWhEaE1WZE1UNGlONzExcWJiOWFoUkxkVWVmLVhDM1g5NEkxNWQ0U2pvMk96VlI4V3R3eHlpMDVYbFhLR05YVXVFWnQ5NUREaDVEcmxQb0ROTG9xUmpQWFEybmtoYm1nTG45U2FYMlhFeXlUY1N6NG9vb1NoeVllcWhTVkZpbC1ibU13eXkxMVFXT0JiM0RnNElIQUQ1VTBJa29HZEJ3S3ROVE9haEUyU0cxS0dqSjJPZFRNWU9OU3Y0NGZwR1hQdEFGLTVySGVNTGZUREVLMkdVTDNXSFp5djdvSzFXbE5NWURVRVgtNG5VWFBMM3JiSXFXWXZyVGhFSWFaZE5ZV2F6dVdVTXYzOFY3bXBiUGIxNjRNWGRVV3k2bjV4dm5ub1RpRGFDdnV3WHBMODFJLVBTX0tmWF9BUE1Vcm1MVEE0MEpWYklxcTZWVjQxQzlUT0lLbm45NlhtcnhDUE1nWUY4YV9SVEVJa21SUUdvS1BYU3VvaEdvaUc2T0EyZHJMam1POGhUd19HcGYwVGZWWXB4VEdZR2dTR05vUW93ekpMRE53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-20 13:57:07"
-      },
-      {
-        "title": "立委蘇治芬會勘頂寮大排 籲整合中央地方提升治水效能 - 台灣好新聞",
-        "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPNnJOMlVtWjBRdDhiRGFjRlhJNTZHZk5zc05mQkRaT0FwVFo5Ymx1RzBkcWw1SkZXZXJZQVMzbWFnYUJKb1BsV3FLS1FsVU5FQ1Fyb2NjNmVFNzgtanhHYk1zSGxBOWpudTU3ME41Q1c4NjNSTVBiQ1BFeTJxYzVpTXhFU2wxODRSSDFnVkF2NDhIcUxxRDFjVVQ0bk4zNVhmUzNfY0ZxNmpEU1pGNllPT01YX0hEY1AzWmNTcGlWbEdOUEZHVnY3bzNKWkhvNW01U1N5a3ltOGN3eldaekxjSnc3bW9qeEtzTzc3MjJnVWJBcDNyNThiT1YwaVRVT19kRDl5bm9wdHJvNFF2UzBtTnRDWFdfZ3FWZEY1SUg0YVRjd0xrczVQZ2cwZUZXMjBHUnV1dDZFbUtobXdwdnNyc3hiUDRPT2JUc2J4Q2pNNWFaaDlDTG1qVi1mZEJwbVJUWDJPQ2pLel9zUG5KbXgzaVpUVlJ2NFBGNThtbk1ZWkZrM1hXck5DZ1RoaFhMN1ll?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-20 12:21:15"
       }
     ],
     "facebook": [
@@ -1475,6 +1551,20 @@
     "hour": [],
     "day": [
       {
+        "title": "民進黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手立委劉建國凝聚改革力量！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tQ2kzN1JpODNNTmw1cEkxU05UU3BkNUp5WUtfSW5JZDhWSFNXMENLODB6dWxrQ0JxcWRoZmgtbDJqWVpDeGJ0Tmd6VjdrT01oTDdqN1p6d3dibFF0aVlHcG82ejlvTjQ5Qlk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-24 19:08:57",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "民主進步黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手劉建國凝聚改革力量 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNRTNpRXRIaU9jbzQ1dURoaG5mU1RTRGVrZGVFc0tkX1IyRlVyQ2R1SnQxQnRzeTJBVTh5YnRCLXJjT2FiREJ6Mmc0dzlpNEtBT1d5U0pERVNxZ1RsdzN6a2RGOER5THFKYl8tUDJwQmtWRUs0dGRJX180UG42MnhSZGI3My1IVXN6ejRxelkxRnN4U2VuaUdUelpIYUQxdDBEcEQ0aWtvYlR4REtaTm0yUnFDV0lnSjJLR2pHTURCNjd0UTNlRmEwU19lQXcyM29tbEs4OTFMOHNkTW9GUXh2OUhZeUhVVVg0ZHQ5UjRGVkt4V2ZLU2ZBQm1TSDhYVGgyaUZhSmd3SjBEakVSMHVGcUh0T0xIYWdpQ2ZYamRwbWU3cHUyc0Jyd2JjOHgtNGh0SzVnNTF0NWZHY3FQTGFTVEhDeTczNUdFdTVWMmExZFE5V3BHSGs1MV9aTWlZQjZvZE1fNzM5bFhrdGZhZDBVZE9rcWtBNllKZUNVMVdBaTFtQlEzVUZVQWRqWHpKUFFtTUhucHVVT0xCTEhMUExUeHdZZ0llbWRQYlV4aEhfQWk2TWFNYTliRWVLOUpLa3hQaXIxMUlpZlh6enhGNlVnZnR4dWcybWdIcUE4N1lYVkYyWENaM1FWX0NMbC1yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-24 18:33:27",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "當年恐嚇成空話！ 同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQNHpBVWlpVHh6UUl2QWZoTjZfUnVfbWhfdnJ2MnJYT0RtU19EM0tnUTdsTC0yWHp1VGRGVk9ERFYtMF9BV19fRnVvUUg4V3JpaF9Xd2RGQVM2UXptRjlBbU1mN1N6SmVWN2dobjNicGpQOFR3UkxvX25feEhtZEE1QmUtNzgwYkRZRlpFOFVGdUR0YmlCbFU1eXVZWURQcmpOSmJDT0xROGo5OE90Nl9wb0xzSXVXaGh0QmhILU11S0Vla3QtSDNRSXhaNVo0b1ZiQTVHSWwtWjBqU1ZmbFJiV295VWN3aHVVd1Z4Z2NKZjNWUUFBNndYUlNBMWZMUWdlSklMMl9JTjROSHBpeEd5SjNWaUlrd3BtMW5CSUx2dVU3VEd5M0xtTmhwdEV1NHpqNzAwZ0pmbm1SN21haDVTRGRvM3cydjRscGNocTJLeGRLQUVsbXhQQWNsMFhmb2g1c2UyVE1heEszdlRfamlCVTIyb09EMk1halNDQml6QXp6bWs0YWVSS2kwdkNxVFhZSVVaaTM1UTREMngwMU1hdXl4dVo",
         "time": "2026-05-24 17:50:01",
@@ -1484,6 +1574,13 @@
       {
         "title": "當年恐嚇成空話！同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNVWZOOFZDSnRjMk1TV3RTQ285Z2NyRjVqM2dxTHpPUl96eDd4ZWFZU2FsdW9sVzdLMDFXTmliLVJ5YkoxRWZIaG8zSWRRTUNvTmwwTWJnRTd1enFhS3A2S19uMWhqZG5CTmdIU3NiZWZFQjV3dl90NklmMWhqeFY2b3ZTelVXTG13WGZycWRFSnYzWWxRTzk1V1ZUVEZUblUybF9oX3AwSlJwMDBCNXFycFpTVEpkeWZVdGN0RFNXR1VRdFViV2Q3TE1IWkl4cW80a0lwUmFUM0xKWng4dGpldmlrMGE1SzNzeW1UQmxZUkNRWHFlRERTdUVRTHBWbDZCTGZkN0g2aWdMZzlqQ0NzaHRSRVJBNUtiVHhsbVpYV1d0cXlFMU1YbktFdUU2MkVJcEZIWlVyNkoyaHlHVUtEclJ4T2l6RUJYd3hBbE16V1poMk01d1FPZkxMaXJxQ0Uxbm5QLUZhOHZDSy1jYk02ZzR1RjM0SUJmM09CX09WT3R6Q0NWVFE5QTltQTZQNzY4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-24 17:43:43",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "快新聞／當年恐嚇成空話！同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kOV8wVGJ4cVhDNnpBWEVIWmtjT1JtVTNhVmo5SmladFlvODVTaUpyazJsbVkxcnk4dzBKSEVuRDZBc1RyRlkzeE9DSHJITkV5LThpeEtHOWVJWkQ0cVFFag?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-24 17:43:43",
         "platform": "news",
         "risk": "綠"
@@ -1529,7 +1626,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 4
+        "count": 6
       }
     ],
     "groups": []
