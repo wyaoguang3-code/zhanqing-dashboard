@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-24T08:45:52.686122+00:00",
+  "generated_at": "2026-05-24T09:02:04.751717+00:00",
   "metrics": {
-    "total_24h": 2,
+    "total_24h": 3,
     "prev_24h": 4,
-    "growth_pct": -50.0,
-    "news_24h": 2,
+    "growth_pct": -25.0,
+    "news_24h": 3,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 89,
+    "total": 90,
     "prev": 135,
-    "growth_pct": -34.07,
-    "news": 72,
+    "growth_pct": -33.33,
+    "news": 73,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,13 +28,13 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 2
+      "count": 3
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 72
+      "count": 73
     },
     {
       "platform": "facebook",
@@ -49,6 +49,10 @@
     {
       "hour": "2026-05-24 14:00",
       "count": 2
+    },
+    {
+      "hour": "2026-05-24 16:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -243,16 +247,25 @@
     {
       "hour": "2026-05-24 14:00",
       "count": 2
+    },
+    {
+      "hour": "2026-05-24 16:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 2
+      "count": 3
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "民進黨雲林縣黨部主委改選 劉建國盼新主委能創造新雲林 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0NXUW5lc1UwYV8wUWlEYnhlbmFVTHN4QmtmdVVFNmdac3NVYWZPV3hiQThHMWNacVVNei15NGRNVVVENzNGSGVPdXoxVzJHSTJoa1A3c0pIWXdFaEtjLUozdnNhT182WV9VdGl0cXA1ZS1GY0Q3Rl9oNGlkaUc4X1pOYUVVRnlDUlhqbVVldw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-24 16:42:29"
+      },
       {
         "title": "民進黨雲林縣黨部改選佈局選戰 劉建國：會與新任主委共商 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QYXNROWJiUGM2MHNOQTlLQW5UXzJ0ZGl2MFZhTXhLXzdHdFF6X1QyOXd4c013VWlWeWFzb1o3YkxMeml4UkpCZ241U1h0RHlsMldWRF83dnB6STl2cC1ZdGxmem9IRHI4SGfSAW9BVV95cUxPcDZBZE9KQjdYRkNrZ3dhcFk5Ykp2a0ZSOWtBWEU4a3Z2VnJGNTdDU0Z1VUFwNDFoUVpwM3E2TTZ2VWE4RTNTdWVrTk5CSlhyc2pyMUQxejBSQnJCdkdzREF4T0dCQU5DSERfaEF2dWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -268,11 +281,16 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 2
+      "count": 3
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "民進黨雲林縣黨部主委改選 劉建國盼新主委能創造新雲林 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0NXUW5lc1UwYV8wUWlEYnhlbmFVTHN4QmtmdVVFNmdac3NVYWZPV3hiQThHMWNacVVNei15NGRNVVVENzNGSGVPdXoxVzJHSTJoa1A3c0pIWXdFaEtjLUozdnNhT182WV9VdGl0cXA1ZS1GY0Q3Rl9oNGlkaUc4X1pOYUVVRnlDUlhqbVVldw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-24 16:42:29"
+      },
       {
         "title": "民進黨雲林縣黨部改選佈局選戰 劉建國：會與新任主委共商 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QYXNROWJiUGM2MHNOQTlLQW5UXzJ0ZGl2MFZhTXhLXzdHdFF6X1QyOXd4c013VWlWeWFzb1o3YkxMeml4UkpCZ241U1h0RHlsMldWRF83dnB6STl2cC1ZdGxmem9IRHI4SGfSAW9BVV95cUxPcDZBZE9KQjdYRkNrZ3dhcFk5Ykp2a0ZSOWtBWEU4a3Z2VnJGNTdDU0Z1VUFwNDFoUVpwM3E2TTZ2VWE4RTNTdWVrTk5CSlhyc2pyMUQxejBSQnJCdkdzREF4T0dCQU5DSERfaEF2dWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -287,13 +305,18 @@
   },
   "mention_compare_24h": {
     "張嘉郡": 0,
-    "劉建國": 2
+    "劉建國": 3
   },
   "mention_compare_7d": {
     "張嘉郡": 41,
-    "劉建國": 37
+    "劉建國": 38
   },
   "top_news": [
+    {
+      "title": "民進黨雲林縣黨部主委改選 劉建國盼新主委能創造新雲林 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0NXUW5lc1UwYV8wUWlEYnhlbmFVTHN4QmtmdVVFNmdac3NVYWZPV3hiQThHMWNacVVNei15NGRNVVVENzNGSGVPdXoxVzJHSTJoa1A3c0pIWXdFaEtjLUozdnNhT182WV9VdGl0cXA1ZS1GY0Q3Rl9oNGlkaUc4X1pOYUVVRnlDUlhqbVVldw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-24 16:42:29"
+    },
     {
       "title": "民進黨雲林縣黨部改選佈局選戰 劉建國：會與新任主委共商 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QYXNROWJiUGM2MHNOQTlLQW5UXzJ0ZGl2MFZhTXhLXzdHdFF6X1QyOXd4c013VWlWeWFzb1o3YkxMeml4UkpCZ241U1h0RHlsMldWRF83dnB6STl2cC1ZdGxmem9IRHI4SGfSAW9BVV95cUxPcDZBZE9KQjdYRkNrZ3dhcFk5Ykp2a0ZSOWtBWEU4a3Z2VnJGNTdDU0Z1VUFwNDFoUVpwM3E2TTZ2VWE4RTNTdWVrTk5CSlhyc2pyMUQxejBSQnJCdkdzREF4T0dCQU5DSERfaEF2dWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -306,6 +329,11 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "民進黨雲林縣黨部主委改選 劉建國盼新主委能創造新雲林 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0NXUW5lc1UwYV8wUWlEYnhlbmFVTHN4QmtmdVVFNmdac3NVYWZPV3hiQThHMWNacVVNei15NGRNVVVENzNGSGVPdXoxVzJHSTJoa1A3c0pIWXdFaEtjLUozdnNhT182WV9VdGl0cXA1ZS1GY0Q3Rl9oNGlkaUc4X1pOYUVVRnlDUlhqbVVldw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-24 16:42:29"
+    },
     {
       "title": "民進黨雲林縣黨部改選佈局選戰 劉建國：會與新任主委共商 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QYXNROWJiUGM2MHNOQTlLQW5UXzJ0ZGl2MFZhTXhLXzdHdFF6X1QyOXd4c013VWlWeWFzb1o3YkxMeml4UkpCZ241U1h0RHlsMldWRF83dnB6STl2cC1ZdGxmem9IRHI4SGfSAW9BVV95cUxPcDZBZE9KQjdYRkNrZ3dhcFk5Ykp2a0ZSOWtBWEU4a3Z2VnJGNTdDU0Z1VUFwNDFoUVpwM3E2TTZ2VWE4RTNTdWVrTk5CSlhyc2pyMUQxejBSQnJCdkdzREF4T0dCQU5DSERfaEF2dWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -400,11 +428,6 @@
       "title": "斗六鐵路高架化等30年！張嘉郡率隊考察，促政院速核定動工 | 夏和宣 | 地方新聞 - 風傳媒",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83SHA4T3pKdlRzeTFQOXFCTmpTXzFUQmpBRUNRT0R1WVJkTzJyUWxCcXgxbE5kT05KeWFIa3RGeG93TVlVYUdtTy1FODZuQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-21 15:45:02"
-    },
-    {
-      "title": "張嘉郡率交委會考察斗六鐵路高架化 陳世凱允諾交通部會努力 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HNi1VNmNWajJ3OFVRTHRiaGl5SFhCcExqRWhBSjdpc213cURrSUNlejZqVXo1Y29vUVloT1B6bjgtTXZBM2c2d0s5VzV6UEhrR0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-21 15:44:00"
     }
   ],
   "latest_facebook_20": [
@@ -511,6 +534,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "民進黨雲林縣黨部主委改選 劉建國盼新主委能創造新雲林 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0NXUW5lc1UwYV8wUWlEYnhlbmFVTHN4QmtmdVVFNmdac3NVYWZPV3hiQThHMWNacVVNei15NGRNVVVENzNGSGVPdXoxVzJHSTJoa1A3c0pIWXdFaEtjLUozdnNhT182WV9VdGl0cXA1ZS1GY0Q3Rl9oNGlkaUc4X1pOYUVVRnlDUlhqbVVldw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-24 16:42:29"
+    },
+    {
       "title": "民進黨雲林縣黨部改選佈局選戰 劉建國：會與新任主委共商 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QYXNROWJiUGM2MHNOQTlLQW5UXzJ0ZGl2MFZhTXhLXzdHdFF6X1QyOXd4c013VWlWeWFzb1o3YkxMeml4UkpCZ241U1h0RHlsMldWRF83dnB6STl2cC1ZdGxmem9IRHI4SGfSAW9BVV95cUxPcDZBZE9KQjdYRkNrZ3dhcFk5Ykp2a0ZSOWtBWEU4a3Z2VnJGNTdDU0Z1VUFwNDFoUVpwM3E2TTZ2VWE4RTNTdWVrTk5CSlhyc2pyMUQxejBSQnJCdkdzREF4T0dCQU5DSERfaEF2dWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-24 14:46:59"
@@ -604,11 +632,6 @@
       "title": "斗六鐵路高架化等30年！張嘉郡率隊考察，促政院速核定動工 | 夏和宣 | 地方新聞 - 風傳媒",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83SHA4T3pKdlRzeTFQOXFCTmpTXzFUQmpBRUNRT0R1WVJkTzJyUWxCcXgxbE5kT05KeWFIa3RGeG93TVlVYUdtTy1FODZuQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-21 15:45:02"
-    },
-    {
-      "title": "張嘉郡率交委會考察斗六鐵路高架化 陳世凱允諾交通部會努力 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HNi1VNmNWajJ3OFVRTHRiaGl5SFhCcExqRWhBSjdpc213cURrSUNlejZqVXo1Y29vUVloT1B6bjgtTXZBM2c2d0s5VzV6UEhrR0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-21 15:44:00"
     }
   ],
   "person_sections": {
@@ -923,6 +946,11 @@
       ],
       "news": [
         {
+          "title": "民進黨雲林縣黨部主委改選 劉建國盼新主委能創造新雲林 - 中時新聞網",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0NXUW5lc1UwYV8wUWlEYnhlbmFVTHN4QmtmdVVFNmdac3NVYWZPV3hiQThHMWNacVVNei15NGRNVVVENzNGSGVPdXoxVzJHSTJoa1A3c0pIWXdFaEtjLUozdnNhT182WV9VdGl0cXA1ZS1GY0Q3Rl9oNGlkaUc4X1pOYUVVRnlDUlhqbVVldw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-24 16:42:29"
+        },
+        {
           "title": "民進黨雲林縣黨部改選佈局選戰 劉建國：會與新任主委共商 - 自由時報",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QYXNROWJiUGM2MHNOQTlLQW5UXzJ0ZGl2MFZhTXhLXzdHdFF6X1QyOXd4c013VWlWeWFzb1o3YkxMeml4UkpCZ241U1h0RHlsMldWRF83dnB6STl2cC1ZdGxmem9IRHI4SGfSAW9BVV95cUxPcDZBZE9KQjdYRkNrZ3dhcFk5Ykp2a0ZSOWtBWEU4a3Z2VnJGNTdDU0Z1VUFwNDFoUVpwM3E2TTZ2VWE4RTNTdWVrTk5CSlhyc2pyMUQxejBSQnJCdkdzREF4T0dCQU5DSERfaEF2dWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-24 14:46:59"
@@ -1016,17 +1044,17 @@
           "title": "快新聞／劉建國爭取8千萬補助 雲林斗六多功能社福大樓落成 - 民視新聞網",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuQlhQd1JLNGNGLWhTS1FZSkZVRmV0Z0JoekZYMU92NlNmd3IyTVVjYlhFRGZrR3VVTVhqaTJ4T3Jka3Zma3FiTTN5OExweEEwMlBGdXh4Tl8yblpJVDZPZg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-19 20:19:14"
-        },
-        {
-          "title": "因應美花生關稅挑戰 劉建國邀農業部赴雲林座談 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSDVWYkpFVWV6cHZ4T3dsVEEyTU9Wa2VHREVVTnp5OTY2dkdLVVFiZ1lNcXlVbWE1bWZYSWtIR3pvNzk1aU5JZGZTWlNrdDdGSi1LRWtfeWtaNHJCV2t5TXdNMUNiMk1kWXhFcnh3T1ZfcEt2cldWY2pCclg5emdTZUFvc3U1LTZ3N0tNTjBxeGN5RTM5ME9aU3BqOTZkUm02OVV1NERzclU1Yi1Kd181aXVjTjlpc2tRSDJLd3VmQzZPWkVKZ0dZdkw0NGVodko0YWFsaVYybnA5RGxzN0FJOGdTMnVtMlNXWF9TenVEXzc1elkwbmZyZU5oWE5KVmszQXVTcC1WTjQ1LUZtV0cxN2dxV0Y4UmRTdDUyUEM4N2ZEUTk1ZU9xdkdOREQ3QTNqYjlVd2VRTjc3bE5OcjM2NE14QUhPQnV5N0lULVVDVTI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-19 17:54:02"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "民進黨雲林縣黨部主委改選 劉建國盼新主委能創造新雲林 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0NXUW5lc1UwYV8wUWlEYnhlbmFVTHN4QmtmdVVFNmdac3NVYWZPV3hiQThHMWNacVVNei15NGRNVVVENzNGSGVPdXoxVzJHSTJoa1A3c0pIWXdFaEtjLUozdnNhT182WV9VdGl0cXA1ZS1GY0Q3Rl9oNGlkaUc4X1pOYUVVRnlDUlhqbVVldw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-24 16:42:29"
+      },
       {
         "title": "民進黨雲林縣黨部改選佈局選戰 劉建國：會與新任主委共商 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QYXNROWJiUGM2MHNOQTlLQW5UXzJ0ZGl2MFZhTXhLXzdHdFF6X1QyOXd4c013VWlWeWFzb1o3YkxMeml4UkpCZ241U1h0RHlsMldWRF83dnB6STl2cC1ZdGxmem9IRHI4SGfSAW9BVV95cUxPcDZBZE9KQjdYRkNrZ3dhcFk5Ykp2a0ZSOWtBWEU4a3Z2VnJGNTdDU0Z1VUFwNDFoUVpwM3E2TTZ2VWE4RTNTdWVrTk5CSlhyc2pyMUQxejBSQnJCdkdzREF4T0dCQU5DSERfaEF2dWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1041,6 +1069,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "民進黨雲林縣黨部主委改選 劉建國盼新主委能創造新雲林 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0NXUW5lc1UwYV8wUWlEYnhlbmFVTHN4QmtmdVVFNmdac3NVYWZPV3hiQThHMWNacVVNei15NGRNVVVENzNGSGVPdXoxVzJHSTJoa1A3c0pIWXdFaEtjLUozdnNhT182WV9VdGl0cXA1ZS1GY0Q3Rl9oNGlkaUc4X1pOYUVVRnlDUlhqbVVldw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-24 16:42:29"
+      },
       {
         "title": "民進黨雲林縣黨部改選佈局選戰 劉建國：會與新任主委共商 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QYXNROWJiUGM2MHNOQTlLQW5UXzJ0ZGl2MFZhTXhLXzdHdFF6X1QyOXd4c013VWlWeWFzb1o3YkxMeml4UkpCZ241U1h0RHlsMldWRF83dnB6STl2cC1ZdGxmem9IRHI4SGfSAW9BVV95cUxPcDZBZE9KQjdYRkNrZ3dhcFk5Ykp2a0ZSOWtBWEU4a3Z2VnJGNTdDU0Z1VUFwNDFoUVpwM3E2TTZ2VWE4RTNTdWVrTk5CSlhyc2pyMUQxejBSQnJCdkdzREF4T0dCQU5DSERfaEF2dWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1235,11 +1268,6 @@
         "title": "劉建國爭取8千萬補助 斗六多功能社福大樓正式啟用 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55S2N6ZG5oQnU0anJtSDA0T2w1RFdVaXhmXzhDZUpRdHBuUDZYdDBPa2ZpZlNpTVJvMjRnazUzMkRlM2thZzMzR2dYbG1DMFhwdUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-19 23:02:00"
-      },
-      {
-        "title": "劉建國爭取8千萬補助斗六多功能社福大樓正式啟用- 政府消息新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNG5TMXdqcmhaTGo5U1RKcklFTWxhUEtSaEh0UzNqZXpNMXc3QlFwdEFWZzNKamlzVnNOZFlCTWNPUFFNenpIZmpnQlJ1aV9IbVJsNUo3X19KcmJtaUhPdEF3MXpkVzZMYVR1S3FJSkV1UjZPZUl3enBRbzBhX1VJSmRlS3l4UkllNUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-19 22:52:18"
       }
     ],
     "facebook": [
@@ -1337,6 +1365,13 @@
     "hour": [],
     "day": [
       {
+        "title": "民進黨雲林縣黨部主委改選 劉建國盼新主委能創造新雲林 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0NXUW5lc1UwYV8wUWlEYnhlbmFVTHN4QmtmdVVFNmdac3NVYWZPV3hiQThHMWNacVVNei15NGRNVVVENzNGSGVPdXoxVzJHSTJoa1A3c0pIWXdFaEtjLUozdnNhT182WV9VdGl0cXA1ZS1GY0Q3Rl9oNGlkaUc4X1pOYUVVRnlDUlhqbVVldw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-24 16:42:29",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "民進黨雲林縣黨部改選佈局選戰 劉建國：會與新任主委共商 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QYXNROWJiUGM2MHNOQTlLQW5UXzJ0ZGl2MFZhTXhLXzdHdFF6X1QyOXd4c013VWlWeWFzb1o3YkxMeml4UkpCZ241U1h0RHlsMldWRF83dnB6STl2cC1ZdGxmem9IRHI4SGfSAW9BVV95cUxPcDZBZE9KQjdYRkNrZ3dhcFk5Ykp2a0ZSOWtBWEU4a3Z2VnJGNTdDU0Z1VUFwNDFoUVpwM3E2TTZ2VWE4RTNTdWVrTk5CSlhyc2pyMUQxejBSQnJCdkdzREF4T0dCQU5DSERfaEF2dWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-05-24 14:46:59",
@@ -1356,7 +1391,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 2
+        "count": 3
       }
     ],
     "groups": []
