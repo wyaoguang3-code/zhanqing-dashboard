@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-23T23:45:19.576582+00:00",
+  "generated_at": "2026-05-24T00:07:22.538032+00:00",
   "metrics": {
-    "total_24h": 2,
+    "total_24h": 1,
     "prev_24h": 8,
-    "growth_pct": -75.0,
-    "news_24h": 1,
+    "growth_pct": -87.5,
+    "news_24h": 0,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -29,10 +29,6 @@
     {
       "platform": "facebook",
       "count": 1
-    },
-    {
-      "platform": "news",
-      "count": 1
     }
   ],
   "by_platform_7d": [
@@ -50,10 +46,6 @@
     }
   ],
   "by_hour": [
-    {
-      "hour": "2026-05-23 07:00",
-      "count": 1
-    },
     {
       "hour": "2026-05-23 08:00",
       "count": 1
@@ -257,28 +249,11 @@
       "count": 1
     }
   ],
-  "mention_by_platform_24h": [
-    {
-      "platform": "news",
-      "count": 1
-    }
-  ],
-  "mention_latest_by_platform_24h": {
-    "news": [
-      {
-        "title": "討論牆 | 雲林大蒜受災申報延長機制啟動 劉建國爭取專案延長申報保障農民權益 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BSFZIeGozME1WR1ZiVW5SZWJNMkRPaDlxSHN1VFBOaFRhLU4yV0U5WmlJQ0pWYUhYaGQ2ZXRHbnZFYms2dGc0SjNDM3d5aGpuRmVpcXQ2bS1Ub2R1ajlVbVA1TUw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-23 07:49:08"
-      }
-    ]
-  },
+  "mention_by_platform_24h": [],
+  "mention_latest_by_platform_24h": {},
   "alias_by_platform_24h": [
     {
       "platform": "facebook",
-      "count": 1
-    },
-    {
-      "platform": "news",
       "count": 1
     }
   ],
@@ -289,30 +264,17 @@
         "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxPdzAwb1pEdGxTellWaThuTW96V1dYVmtoblJoR0xWUVl2U1otZEZUNk1kdWZfQ09mdVFXZjRLWktvVnNhbFBseHg2dE5odGFoekF6QmltVFV2VWF3X1VoNWk5OVhuZm5LNzRheUdGQ3VKWTFjNm5aa2pvMnNvZEZNdGpNNlJkUGJQNXZvVDY3aHlCMXFxQ3BvQ1d1TVNBZWNMeGxIRll5bERyTEN3OFhkTUg5MU5GN25EYXFRR1lDQ0l2d1RlQjlybnpOZnVIa3Q4MC1laUtwT0d0WlluMjdvd0pfUTg5RXZoTUl4VGhPYkw4U1AzNGRJaGwtMHJidmRBSU1kd3Y1Q0RsUGVnbFY3UFJQdlRkRTEwUFhlUUFlajNUdkQwWlZoaW9hTWZVZmFvQXZmYWdOdG1rS2xLTDRhcDlFX0pzRml4TzAyUkVGM1l3Yzg4UGJNbEpIaUZMUmpvZ0dnX2ZGd3V5WTJLdTFEVmczZklPMGtEdkxramNYNUxMLVJfbG5mVldoelZ5c01lS0VjdDZwSEV1VXJSc2hKQ2NFQ2tIcnF1MFBLN0lldkVldjBHRkJobENiWXpDMHlfZlNXM0NiaFE1eDJxQXIxakh0aklXYTJVMjVBOG1DTWhhV1FsejU3YTRmazNkV3FMUFptUWw3OE5vajhxODdZcTFLNmlwdlNlOVNOZ0NpZUwyel9JcElxOU5MMGVkRFFYYkJnV1J1eU9Pb2JnVUpWNjNERWVOX0JtemtLV0VDckRFdS1aV0VKcld5YXNMQ0gyRmNWWTZCZ0xrZkRvWUo3MUlZbFJaUmZfbm5VNEk3TVlZMllQMkozVjNFaVZsYXJBRWVMRHhDZnRlYmdfS3RyMzNMMHB3LUNqV0tpMVdteTBFUktuQVhkb1hHVzIwWmZpekRwRWNscVFvSnNoTjhBMFJfU0QyOWxqOWl6cGNqOHhKSlBDZ29DZnBDV0pwLUVteTVHNnpob181NEZmUDBqNzJkS09Nd2NGUnFMeS1rYjlUdXRqZkE3ZnBFalREZGNhT2FMS1BKeVNpRVVwRnU1MENXQ1cwX3ZadDFZbDM3eTRLREJVMzk5dHp3WDM2Q0tvMkFvSHBZYS1mOWtDZGcxcUtMVHFtYlpWdE1KWVc5bEVCOWdvS0Z5STBPcEctNzQ3TGQyQy1DNEo2elNubXAwMG5vaFdReGZLNGZTMUhMM2VLZWxkSjFaZ1B1cnNBWUlzNHBSTEhzSHV2V0JOOUJlZzJzbXgxNzVfQXhJUmZRLV8zeHViQjhvcVQ4VDg4YzhYcGtwVl85c1FIQQ",
         "time": "2026-05-23 08:39:20"
       }
-    ],
-    "news": [
-      {
-        "title": "討論牆 | 雲林大蒜受災申報延長機制啟動 劉建國爭取專案延長申報保障農民權益 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BSFZIeGozME1WR1ZiVW5SZWJNMkRPaDlxSHN1VFBOaFRhLU4yV0U5WmlJQ0pWYUhYaGQ2ZXRHbnZFYms2dGc0SjNDM3d5aGpuRmVpcXQ2bS1Ub2R1ajlVbVA1TUw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-23 07:49:08"
-      }
     ]
   },
   "mention_compare_24h": {
     "張嘉郡": 0,
-    "劉建國": 1
+    "劉建國": 0
   },
   "mention_compare_7d": {
     "張嘉郡": 41,
     "劉建國": 35
   },
-  "top_news": [
-    {
-      "title": "討論牆 | 雲林大蒜受災申報延長機制啟動 劉建國爭取專案延長申報保障農民權益 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BSFZIeGozME1WR1ZiVW5SZWJNMkRPaDlxSHN1VFBOaFRhLU4yV0U5WmlJQ0pWYUhYaGQ2ZXRHbnZFYms2dGc0SjNDM3d5aGpuRmVpcXQ2bS1Ub2R1ajlVbVA1TUw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-23 07:49:08"
-    }
-  ],
+  "top_news": [],
   "top_news_7d": [
     {
       "title": "討論牆 | 雲林大蒜受災申報延長機制啟動 劉建國爭取專案延長申報保障農民權益 - LINE TODAY",
@@ -1040,13 +1002,6 @@
         "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxPdzAwb1pEdGxTellWaThuTW96V1dYVmtoblJoR0xWUVl2U1otZEZUNk1kdWZfQ09mdVFXZjRLWktvVnNhbFBseHg2dE5odGFoekF6QmltVFV2VWF3X1VoNWk5OVhuZm5LNzRheUdGQ3VKWTFjNm5aa2pvMnNvZEZNdGpNNlJkUGJQNXZvVDY3aHlCMXFxQ3BvQ1d1TVNBZWNMeGxIRll5bERyTEN3OFhkTUg5MU5GN25EYXFRR1lDQ0l2d1RlQjlybnpOZnVIa3Q4MC1laUtwT0d0WlluMjdvd0pfUTg5RXZoTUl4VGhPYkw4U1AzNGRJaGwtMHJidmRBSU1kd3Y1Q0RsUGVnbFY3UFJQdlRkRTEwUFhlUUFlajNUdkQwWlZoaW9hTWZVZmFvQXZmYWdOdG1rS2xLTDRhcDlFX0pzRml4TzAyUkVGM1l3Yzg4UGJNbEpIaUZMUmpvZ0dnX2ZGd3V5WTJLdTFEVmczZklPMGtEdkxramNYNUxMLVJfbG5mVldoelZ5c01lS0VjdDZwSEV1VXJSc2hKQ2NFQ2tIcnF1MFBLN0lldkVldjBHRkJobENiWXpDMHlfZlNXM0NiaFE1eDJxQXIxakh0aklXYTJVMjVBOG1DTWhhV1FsejU3YTRmazNkV3FMUFptUWw3OE5vajhxODdZcTFLNmlwdlNlOVNOZ0NpZUwyel9JcElxOU5MMGVkRFFYYkJnV1J1eU9Pb2JnVUpWNjNERWVOX0JtemtLV0VDckRFdS1aV0VKcld5YXNMQ0gyRmNWWTZCZ0xrZkRvWUo3MUlZbFJaUmZfbm5VNEk3TVlZMllQMkozVjNFaVZsYXJBRWVMRHhDZnRlYmdfS3RyMzNMMHB3LUNqV0tpMVdteTBFUktuQVhkb1hHVzIwWmZpekRwRWNscVFvSnNoTjhBMFJfU0QyOWxqOWl6cGNqOHhKSlBDZ29DZnBDV0pwLUVteTVHNnpob181NEZmUDBqNzJkS09Nd2NGUnFMeS1rYjlUdXRqZkE3ZnBFalREZGNhT2FMS1BKeVNpRVVwRnU1MENXQ1cwX3ZadDFZbDM3eTRLREJVMzk5dHp3WDM2Q0tvMkFvSHBZYS1mOWtDZGcxcUtMVHFtYlpWdE1KWVc5bEVCOWdvS0Z5STBPcEctNzQ3TGQyQy1DNEo2elNubXAwMG5vaFdReGZLNGZTMUhMM2VLZWxkSjFaZ1B1cnNBWUlzNHBSTEhzSHV2V0JOOUJlZzJzbXgxNzVfQXhJUmZRLV8zeHViQjhvcVQ4VDg4YzhYcGtwVl85c1FIQQ",
         "time": "2026-05-23 08:39:20"
       }
-    ],
-    "news": [
-      {
-        "title": "討論牆 | 雲林大蒜受災申報延長機制啟動 劉建國爭取專案延長申報保障農民權益 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BSFZIeGozME1WR1ZiVW5SZWJNMkRPaDlxSHN1VFBOaFRhLU4yV0U5WmlJQ0pWYUhYaGQ2ZXRHbnZFYms2dGc0SjNDM3d5aGpuRmVpcXQ2bS1Ub2R1ajlVbVA1TUw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-23 07:49:08"
-      }
     ]
   },
   "latest_by_platform_7d": {
@@ -1357,28 +1312,12 @@
         "time": "2026-05-23 08:39:20",
         "platform": "facebook",
         "risk": "綠"
-      },
-      {
-        "title": "討論牆 | 雲林大蒜受災申報延長機制啟動 劉建國爭取專案延長申報保障農民權益 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BSFZIeGozME1WR1ZiVW5SZWJNMkRPaDlxSHN1VFBOaFRhLU4yV0U5WmlJQ0pWYUhYaGQ2ZXRHbnZFYms2dGc0SjNDM3d5aGpuRmVpcXQ2bS1Ub2R1ajlVbVA1TUw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-23 07:49:08",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
   "regional_groups": {
-    "regions": [
-      {
-        "name": "雲林",
-        "count": 1
-      }
-    ],
+    "regions": [],
     "groups": [
-      {
-        "name": "農業族群",
-        "count": 1
-      },
       {
         "name": "交通通勤",
         "count": 1
