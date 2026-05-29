@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-29T09:21:06.948764+00:00",
+  "generated_at": "2026-05-29T09:36:26.418911+00:00",
   "metrics": {
-    "total_24h": 2,
+    "total_24h": 5,
     "prev_24h": 3,
-    "growth_pct": -33.33,
-    "news_24h": 0,
+    "growth_pct": 66.67,
+    "news_24h": 3,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 27,
+    "total": 30,
     "prev": 95,
-    "growth_pct": -71.58,
-    "news": 13,
+    "growth_pct": -68.42,
+    "news": 16,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -27,6 +27,10 @@
   },
   "by_platform": [
     {
+      "platform": "news",
+      "count": 3
+    },
+    {
       "platform": "facebook",
       "count": 2
     }
@@ -34,7 +38,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 13
+      "count": 16
     },
     {
       "platform": "facebook",
@@ -52,6 +56,14 @@
     },
     {
       "hour": "2026-05-29 11:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-05-29 16:00",
+      "count": 2
+    },
+    {
+      "hour": "2026-05-29 17:00",
       "count": 1
     }
   ],
@@ -131,22 +143,107 @@
     {
       "hour": "2026-05-29 11:00",
       "count": 1
+    },
+    {
+      "hour": "2026-05-29 16:00",
+      "count": 2
+    },
+    {
+      "hour": "2026-05-29 17:00",
+      "count": 1
     }
   ],
-  "mention_by_platform_24h": [],
-  "mention_latest_by_platform_24h": {},
-  "alias_by_platform_24h": [],
-  "alias_latest_by_platform_24h": {},
+  "mention_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 3
+    }
+  ],
+  "mention_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "消防弟兄出生入死 劉建國籲依法補償超勤加班費 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BWDlzZVh6ak9kak9UdGpHTTVyVDJJd19Pa1dyRmtqYjkxaE56NC1CV21YMHByejlKekpvQlhrTk9oY2lYX09LWVRtOHlZc1RoSUFhSmxNbU0ydVk1eE4zdXVFS0lDcFNG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-29 17:21:28"
+      },
+      {
+        "title": "消防超勤不能用嘉獎代替 立委劉建國籲依法補償保障消防員權益 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsU214cGlYSDZRZHk0S2RES0NNT0tmVGhYeFNpU0NRcHR2V2ZWWVIxQ00yajdqc1VOTTRlNDZISFVmVmF2TE8yM1BYQmZ6aDduWWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-29 16:50:00"
+      },
+      {
+        "title": "超勤補償爭議！雲林縣府「嘉獎補償加班」 劉建國質疑對消防員不公平 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oQmhkYUFyNDhEZjZ5YU5rWFVvV0FuMFZvQ0M5c1FkT1dUSHJzLXAyWktzZFZOQW9SZFkwdjBKWFZZajhpMTM4azM1ZDVGaXhVa1NyX3NPc1JxbDFtd0RIWEJEeC1KZlA2YmfSAW9BVV95cUxPUVdUOGtYLVJYOUwyaGlSMHdIQXdhUWZ0dFJYS1k5YmtTb1BtS3JYREV1S0RLakJRR0hXMFJqWVZCcUNPcTJ4R0laMzNWZW9YQURpV1FaeEE4MWd0elEyQmliV3Fqd2VqcUVRR3NqT00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-29 16:29:19"
+      }
+    ]
+  },
+  "alias_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 3
+    }
+  ],
+  "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "消防弟兄出生入死 劉建國籲依法補償超勤加班費 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BWDlzZVh6ak9kak9UdGpHTTVyVDJJd19Pa1dyRmtqYjkxaE56NC1CV21YMHByejlKekpvQlhrTk9oY2lYX09LWVRtOHlZc1RoSUFhSmxNbU0ydVk1eE4zdXVFS0lDcFNG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-29 17:21:28"
+      },
+      {
+        "title": "消防超勤不能用嘉獎代替 立委劉建國籲依法補償保障消防員權益 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsU214cGlYSDZRZHk0S2RES0NNT0tmVGhYeFNpU0NRcHR2V2ZWWVIxQ00yajdqc1VOTTRlNDZISFVmVmF2TE8yM1BYQmZ6aDduWWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-29 16:50:00"
+      },
+      {
+        "title": "超勤補償爭議！雲林縣府「嘉獎補償加班」 劉建國質疑對消防員不公平 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oQmhkYUFyNDhEZjZ5YU5rWFVvV0FuMFZvQ0M5c1FkT1dUSHJzLXAyWktzZFZOQW9SZFkwdjBKWFZZajhpMTM4azM1ZDVGaXhVa1NyX3NPc1JxbDFtd0RIWEJEeC1KZlA2YmfSAW9BVV95cUxPUVdUOGtYLVJYOUwyaGlSMHdIQXdhUWZ0dFJYS1k5YmtTb1BtS3JYREV1S0RLakJRR0hXMFJqWVZCcUNPcTJ4R0laMzNWZW9YQURpV1FaeEE4MWd0elEyQmliV3Fqd2VqcUVRR3NqT00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-29 16:29:19"
+      }
+    ]
+  },
   "mention_compare_24h": {
     "張嘉郡": 0,
-    "劉建國": 0
+    "劉建國": 3
   },
   "mention_compare_7d": {
     "張嘉郡": 4,
-    "劉建國": 13
+    "劉建國": 16
   },
-  "top_news": [],
+  "top_news": [
+    {
+      "title": "消防弟兄出生入死 劉建國籲依法補償超勤加班費 - 元丰傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BWDlzZVh6ak9kak9UdGpHTTVyVDJJd19Pa1dyRmtqYjkxaE56NC1CV21YMHByejlKekpvQlhrTk9oY2lYX09LWVRtOHlZc1RoSUFhSmxNbU0ydVk1eE4zdXVFS0lDcFNG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-29 17:21:28"
+    },
+    {
+      "title": "消防超勤不能用嘉獎代替 立委劉建國籲依法補償保障消防員權益 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsU214cGlYSDZRZHk0S2RES0NNT0tmVGhYeFNpU0NRcHR2V2ZWWVIxQ00yajdqc1VOTTRlNDZISFVmVmF2TE8yM1BYQmZ6aDduWWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-29 16:50:00"
+    },
+    {
+      "title": "超勤補償爭議！雲林縣府「嘉獎補償加班」 劉建國質疑對消防員不公平 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oQmhkYUFyNDhEZjZ5YU5rWFVvV0FuMFZvQ0M5c1FkT1dUSHJzLXAyWktzZFZOQW9SZFkwdjBKWFZZajhpMTM4azM1ZDVGaXhVa1NyX3NPc1JxbDFtd0RIWEJEeC1KZlA2YmfSAW9BVV95cUxPUVdUOGtYLVJYOUwyaGlSMHdIQXdhUWZ0dFJYS1k5YmtTb1BtS3JYREV1S0RLakJRR0hXMFJqWVZCcUNPcTJ4R0laMzNWZW9YQURpV1FaeEE4MWd0elEyQmliV3Fqd2VqcUVRR3NqT00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-29 16:29:19"
+    }
+  ],
   "top_news_7d": [
+    {
+      "title": "消防弟兄出生入死 劉建國籲依法補償超勤加班費 - 元丰傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BWDlzZVh6ak9kak9UdGpHTTVyVDJJd19Pa1dyRmtqYjkxaE56NC1CV21YMHByejlKekpvQlhrTk9oY2lYX09LWVRtOHlZc1RoSUFhSmxNbU0ydVk1eE4zdXVFS0lDcFNG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-29 17:21:28"
+    },
+    {
+      "title": "消防超勤不能用嘉獎代替 立委劉建國籲依法補償保障消防員權益 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsU214cGlYSDZRZHk0S2RES0NNT0tmVGhYeFNpU0NRcHR2V2ZWWVIxQ00yajdqc1VOTTRlNDZISFVmVmF2TE8yM1BYQmZ6aDduWWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-29 16:50:00"
+    },
+    {
+      "title": "超勤補償爭議！雲林縣府「嘉獎補償加班」 劉建國質疑對消防員不公平 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oQmhkYUFyNDhEZjZ5YU5rWFVvV0FuMFZvQ0M5c1FkT1dUSHJzLXAyWktzZFZOQW9SZFkwdjBKWFZZajhpMTM4azM1ZDVGaXhVa1NyX3NPc1JxbDFtd0RIWEJEeC1KZlA2YmfSAW9BVV95cUxPUVdUOGtYLVJYOUwyaGlSMHdIQXdhUWZ0dFJYS1k5YmtTb1BtS3JYREV1S0RLakJRR0hXMFJqWVZCcUNPcTJ4R0laMzNWZW9YQURpV1FaeEE4MWd0elEyQmliV3Fqd2VqcUVRR3NqT00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-29 16:29:19"
+    },
     {
       "title": "民進黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手立委劉建國凝聚改革力量！ - 台灣華報",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OcVpMbE5KLS1kNEZoU1FESDd4WmdfNDVUVk0xeDQ2cnN1V0NpUHIxSnloVXhYZHJtNWVpQkxlcFFvU1lkZzZHUHNoUkZqeDRNSnNEMXdpd19rUEplQkh5NGprUlBOQW80OGpuRUhHVHlRZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -317,6 +414,21 @@
   ],
   "latest_news_20": [
     {
+      "title": "消防弟兄出生入死 劉建國籲依法補償超勤加班費 - 元丰傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BWDlzZVh6ak9kak9UdGpHTTVyVDJJd19Pa1dyRmtqYjkxaE56NC1CV21YMHByejlKekpvQlhrTk9oY2lYX09LWVRtOHlZc1RoSUFhSmxNbU0ydVk1eE4zdXVFS0lDcFNG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-29 17:21:28"
+    },
+    {
+      "title": "消防超勤不能用嘉獎代替 立委劉建國籲依法補償保障消防員權益 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsU214cGlYSDZRZHk0S2RES0NNT0tmVGhYeFNpU0NRcHR2V2ZWWVIxQ00yajdqc1VOTTRlNDZISFVmVmF2TE8yM1BYQmZ6aDduWWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-29 16:50:00"
+    },
+    {
+      "title": "超勤補償爭議！雲林縣府「嘉獎補償加班」 劉建國質疑對消防員不公平 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oQmhkYUFyNDhEZjZ5YU5rWFVvV0FuMFZvQ0M5c1FkT1dUSHJzLXAyWktzZFZOQW9SZFkwdjBKWFZZajhpMTM4azM1ZDVGaXhVa1NyX3NPc1JxbDFtd0RIWEJEeC1KZlA2YmfSAW9BVV95cUxPUVdUOGtYLVJYOUwyaGlSMHdIQXdhUWZ0dFJYS1k5YmtTb1BtS3JYREV1S0RLakJRR0hXMFJqWVZCcUNPcTJ4R0laMzNWZW9YQURpV1FaeEE4MWd0elEyQmliV3Fqd2VqcUVRR3NqT00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-29 16:29:19"
+    },
+    {
       "title": "民進黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手立委劉建國凝聚改革力量！ - 台灣華報",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OcVpMbE5KLS1kNEZoU1FESDd4WmdfNDVUVk0xeDQ2cnN1V0NpUHIxSnloVXhYZHJtNWVpQkxlcFFvU1lkZzZHUHNoUkZqeDRNSnNEMXdpd19rUEplQkh5NGprUlBOQW80OGpuRUhHVHlRZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-25 17:25:43"
@@ -400,21 +512,6 @@
       "title": "現任鄉長因流氓感訓、槍砲前科 蘇治芬子弟兵排黑政治生涯止步 - 中時新聞網",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUElkQTg3R2FvWWFaWGFPamxfTXNoZWFaSUg3d3J2SS15XzVHMHRHX0FMTUlva2V0ZlNQU3ZGeEpfdUlWa1ZCWTRSN04xcWZFNXFBTnM4dlc5MExOOWNDTDVWSzZJbFRVcWtheW90c1BjNFc2dFhNRHhvc3NTSUhiS1ZZNExyZ0Y2S3N6ZVFQQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-22 11:05:01"
-    },
-    {
-      "title": "雲林立委張嘉郡率交委會考察縣道164線拓寬案交通部長陳世凱允諾補助規劃設計費後續工程再視明年預算規模分期推動 - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uNWg0aG1BMGhXclJBV0dKUF9taUl5RHkzQUNvaXRHYXU3RGx2LWdRX3h0c08tU1Z1b2M1QUdDMFJpM29CcS1CcDhMd05QQ2RUS2tJU3lHOHpKWTB0MHlmVDg5aE9KR2k1MUNF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-22 08:07:11"
-    },
-    {
-      "title": "雲林立委張嘉郡率交委會考察縣道164線拓寬案交通部長陳世凱允諾補助規劃設計費後續工程再視明年預算規模分期推動 - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hXzBSVWxYUWhzYWYzXzR0emREc2h2c2hhNVNPRkNwM3FGRkk3QVdVM0Q2S3ozcXFFX294TGZpMjNnWXR2M3JzUngyM0htNFZYSEdtQ2FxeG4wbzFlY3l3MUFobmkwdWJ2R3Q0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-22 02:09:16"
-    },
-    {
-      "title": "張嘉郡率交委會考察斗六鐵路高架化 促政院儘速核定動工 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQRnM0djNMU3M0YlBsSC1oX2d4cUJ2dmpjMnVBdGhBcklNLVR6Yi1QN1RCLWctY0xDNFlsSTR1WTMzU3A2aXpBRWJ6STd3SzRRcll4ZlJsRGdnTzJGZGtacW9WQXFSYWFjUUxVbnY1cF9JZndTeW9JU3NwY3dKSFh5T1c2TlduaVJyaHF4Wkd2OTRwY2ZPZEtiOU9tamVJeHpQa2JINHBUdkpIOV9fYk1VMFN3S3VTMnE0TmpDekhmaHpPc1lqTFdSUXlVbXJPUHZYVDZ6cG1ITTlQcTNsZ3UxOWJOMjJ0Z19IRXBibTVPNE1JeXVlU3ZLYlJQTVpLSDN1MGUyQ2hkb2JfZXd0QUhGT1ZPSzFRLVZlaDNKNWJUQnF3SXRqS3VWLWxxakJaRmNRdDlSZFM3SUg5V2NBSmpCb1dHNlVZOW55UlFOZTlfejBCVnA4RnhYUVBackMwRHdjQWplRWZuTHB0RVBYQlJ0eHRpdUcxcmdWakdwVnZ3TV8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-22 00:04:06"
     }
   ],
   "person_sections": {
@@ -729,6 +826,21 @@
       ],
       "news": [
         {
+          "title": "消防弟兄出生入死 劉建國籲依法補償超勤加班費 - 元丰傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BWDlzZVh6ak9kak9UdGpHTTVyVDJJd19Pa1dyRmtqYjkxaE56NC1CV21YMHByejlKekpvQlhrTk9oY2lYX09LWVRtOHlZc1RoSUFhSmxNbU0ydVk1eE4zdXVFS0lDcFNG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-29 17:21:28"
+        },
+        {
+          "title": "消防超勤不能用嘉獎代替 立委劉建國籲依法補償保障消防員權益 - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsU214cGlYSDZRZHk0S2RES0NNT0tmVGhYeFNpU0NRcHR2V2ZWWVIxQ00yajdqc1VOTTRlNDZISFVmVmF2TE8yM1BYQmZ6aDduWWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-29 16:50:00"
+        },
+        {
+          "title": "超勤補償爭議！雲林縣府「嘉獎補償加班」 劉建國質疑對消防員不公平 - 自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oQmhkYUFyNDhEZjZ5YU5rWFVvV0FuMFZvQ0M5c1FkT1dUSHJzLXAyWktzZFZOQW9SZFkwdjBKWFZZajhpMTM4azM1ZDVGaXhVa1NyX3NPc1JxbDFtd0RIWEJEeC1KZlA2YmfSAW9BVV95cUxPUVdUOGtYLVJYOUwyaGlSMHdIQXdhUWZ0dFJYS1k5YmtTb1BtS3JYREV1S0RLakJRR0hXMFJqWVZCcUNPcTJ4R0laMzNWZW9YQURpV1FaeEE4MWd0elEyQmliV3Fqd2VqcUVRR3NqT00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-29 16:29:19"
+        },
+        {
           "title": "民進黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手立委劉建國凝聚改革力量！ - 台灣華報",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OcVpMbE5KLS1kNEZoU1FESDd4WmdfNDVUVk0xeDQ2cnN1V0NpUHIxSnloVXhYZHJtNWVpQkxlcFFvU1lkZzZHUHNoUkZqeDRNSnNEMXdpd19rUEplQkh5NGprUlBOQW80OGpuRUhHVHlRZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-25 17:25:43"
@@ -812,26 +924,28 @@
           "title": "劉建國、王正旭邀公衛界 促政府推動「公共衛生師」人力制度 - 自由健康網",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0ycC1HRmdab3FIb3IwaUNWNUc1M0FiVFBVY0pkYnQ1RVY3UW9ocG9RZ2Rlcm4yOW90N1VDaWx1d1dFMXRzcHp6TFRCSERLZlRNZ290Q1cwckpOUFROanBXZU1rdkzSAWpBVV95cUxOSnRyaDdRY3ViNF9mMkp0Y0NfZmZlVFlWelNyZ3hOdDlucklGREtKYXNmd2N4MVkzR0o1a1Zrc0dsSkVGeFM0dnc5UUw0eTd4dUJPeVlhNllNRnhkb3I0T2FOdERsMFptVHl3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-20 20:46:00"
-        },
-        {
-          "title": "行政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝支持新手爸媽 - 蕃新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wQTU4XzZVWHdMcERMTm52Uk9nNmN0Mm5ySEs1SWktVzFVN0NJVjktMHk1RTJ5di1lOTZ5eDJSdTZiR1ZyTTloR0NQb1pST2xueHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-20 15:32:00"
-        },
-        {
-          "title": "行政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝支持新手爸媽 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1gtQkl0OEFTTlNNbkg5UjJiTXdmZWIya2VIVk1xOEI5YktKVnlJemZxVWNscllTdWRNdWwtUzJSeWxFcnBJT2NTbU9rRGpDWUpFdlZSemFNU0xoQVVhRFJRWjRYTjZhUlpwQzN3ZEpTWGl6Ym8tWGxhWXhaZDljUHE2UTRodm5hZ3hqYVFqVnI5a1ZKVEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-20 15:22:17"
-        },
-        {
-          "title": "行政院拍板「彈性育嬰假」擴大適用至6歲前 劉建國感謝支持新手爸媽 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNMUFBMFF1N3lnam9KTmpOaktIbzBTN1NhTlQtVUVmWHR4d1dIajVLZ1Izd0dJTHgtc1lHQ0ZKYjdZOXlTaXNhOG1VS0lwa3YxUUdPbDVtMkpfMDBLZVBfYkF6MTZiSlBuZDNmclhhVlFDX2xlTUp5N0M1MElMRElGSEhFSFdaX2hUS3pncWotb2FuSTZKYnBhSThRYWM0SEFXUUVONU5UTHBUdzNoUWhIeWNYUVdBTVlQS0xwWmtEMGR1SGZIc0hDeVNvcFloc0FwT3FER2t2VloyQ3Q2ZXdNZnBzSUtfLXU5RmpCU0FZeEZiR0FxNy1DbWVUZHgtekoyQ0U0aTJRTjVPbVBaMlpTSHNYZ2c3YW1XR3hRcmN6S0lDcGZtTi10M1UzY01mekd1VjVyYzdMYm9qV3A3Q2xEd3NYTzFaQTg3VUNtUlFUQkZUVTNCUzU2MEFVY08tdWVRU3lmbUdCUWxSR2V5Q0xMOHh6S1E4ZjFGZ2h3SDQ4TUtxUEZ4VWdKYUJwUjE5MjZqT3NiUVlha3pUajNHamM3UThFQTczTld4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-20 15:22:17"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "消防弟兄出生入死 劉建國籲依法補償超勤加班費 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BWDlzZVh6ak9kak9UdGpHTTVyVDJJd19Pa1dyRmtqYjkxaE56NC1CV21YMHByejlKekpvQlhrTk9oY2lYX09LWVRtOHlZc1RoSUFhSmxNbU0ydVk1eE4zdXVFS0lDcFNG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-29 17:21:28"
+      },
+      {
+        "title": "消防超勤不能用嘉獎代替 立委劉建國籲依法補償保障消防員權益 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsU214cGlYSDZRZHk0S2RES0NNT0tmVGhYeFNpU0NRcHR2V2ZWWVIxQ00yajdqc1VOTTRlNDZISFVmVmF2TE8yM1BYQmZ6aDduWWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-29 16:50:00"
+      },
+      {
+        "title": "超勤補償爭議！雲林縣府「嘉獎補償加班」 劉建國質疑對消防員不公平 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oQmhkYUFyNDhEZjZ5YU5rWFVvV0FuMFZvQ0M5c1FkT1dUSHJzLXAyWktzZFZOQW9SZFkwdjBKWFZZajhpMTM4azM1ZDVGaXhVa1NyX3NPc1JxbDFtd0RIWEJEeC1KZlA2YmfSAW9BVV95cUxPUVdUOGtYLVJYOUwyaGlSMHdIQXdhUWZ0dFJYS1k5YmtTb1BtS3JYREV1S0RLakJRR0hXMFJqWVZCcUNPcTJ4R0laMzNWZW9YQURpV1FaeEE4MWd0elEyQmliV3Fqd2VqcUVRR3NqT00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-29 16:29:19"
+      }
+    ],
     "facebook": [
       {
         "title": "捕捉野生 蔣萬安 市長❤️ 難得來到雲林 當然不能讓蔣市長空手回去🤭 先帶他解鎖虎尾在地美食 鴨蛋糕吃起來、神農茶喝起來 走到哪都被鄉親認出來 合照邀請一路沒停過 感覺根本不是美食行程 是粉絲見面會📸 歡迎更多好朋友 來到雲林走走看看 感受這片土地 最真實 - facebook.com",
@@ -847,6 +961,21 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "消防弟兄出生入死 劉建國籲依法補償超勤加班費 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BWDlzZVh6ak9kak9UdGpHTTVyVDJJd19Pa1dyRmtqYjkxaE56NC1CV21YMHByejlKekpvQlhrTk9oY2lYX09LWVRtOHlZc1RoSUFhSmxNbU0ydVk1eE4zdXVFS0lDcFNG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-29 17:21:28"
+      },
+      {
+        "title": "消防超勤不能用嘉獎代替 立委劉建國籲依法補償保障消防員權益 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsU214cGlYSDZRZHk0S2RES0NNT0tmVGhYeFNpU0NRcHR2V2ZWWVIxQ00yajdqc1VOTTRlNDZISFVmVmF2TE8yM1BYQmZ6aDduWWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-29 16:50:00"
+      },
+      {
+        "title": "超勤補償爭議！雲林縣府「嘉獎補償加班」 劉建國質疑對消防員不公平 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oQmhkYUFyNDhEZjZ5YU5rWFVvV0FuMFZvQ0M5c1FkT1dUSHJzLXAyWktzZFZOQW9SZFkwdjBKWFZZajhpMTM4azM1ZDVGaXhVa1NyX3NPc1JxbDFtd0RIWEJEeC1KZlA2YmfSAW9BVV95cUxPUVdUOGtYLVJYOUwyaGlSMHdIQXdhUWZ0dFJYS1k5YmtTb1BtS3JYREV1S0RLakJRR0hXMFJqWVZCcUNPcTJ4R0laMzNWZW9YQURpV1FaeEE4MWd0elEyQmliV3Fqd2VqcUVRR3NqT00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-29 16:29:19"
+      },
       {
         "title": "民進黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手立委劉建國凝聚改革力量！ - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OcVpMbE5KLS1kNEZoU1FESDd4WmdfNDVUVk0xeDQ2cnN1V0NpUHIxSnloVXhYZHJtNWVpQkxlcFFvU1lkZzZHUHNoUkZqeDRNSnNEMXdpd19rUEplQkh5NGprUlBOQW80OGpuRUhHVHlRZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -990,8 +1119,30 @@
   },
   "event_stream": {
     "minute": [],
-    "hour": [],
+    "hour": [
+      {
+        "title": "超勤補償爭議！雲林縣府「嘉獎補償加班」 劉建國質疑對消防員不公平 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oQmhkYUFyNDhEZjZ5YU5rWFVvV0FuMFZvQ0M5c1FkT1dUSHJzLXAyWktzZFZOQW9SZFkwdjBKWFZZajhpMTM4azM1ZDVGaXhVa1NyX3NPc1JxbDFtd0RIWEJEeC1KZlA2YmfSAW9BVV95cUxPUVdUOGtYLVJYOUwyaGlSMHdIQXdhUWZ0dFJYS1k5YmtTb1BtS3JYREV1S0RLakJRR0hXMFJqWVZCcUNPcTJ4R0laMzNWZW9YQURpV1FaeEE4MWd0elEyQmliV3Fqd2VqcUVRR3NqT00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-29 16:29:19",
+        "platform": "news",
+        "risk": "黃"
+      }
+    ],
     "day": [
+      {
+        "title": "消防弟兄出生入死 劉建國籲依法補償超勤加班費 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BWDlzZVh6ak9kak9UdGpHTTVyVDJJd19Pa1dyRmtqYjkxaE56NC1CV21YMHByejlKekpvQlhrTk9oY2lYX09LWVRtOHlZc1RoSUFhSmxNbU0ydVk1eE4zdXVFS0lDcFNG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-29 17:21:28",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "消防超勤不能用嘉獎代替 立委劉建國籲依法補償保障消防員權益 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsU214cGlYSDZRZHk0S2RES0NNT0tmVGhYeFNpU0NRcHR2V2ZWWVIxQ00yajdqc1VOTTRlNDZISFVmVmF2TE8yM1BYQmZ6aDduWWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-29 16:50:00",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "捕捉野生 蔣萬安 市長❤️ 難得來到雲林 當然不能讓蔣市長空手回去🤭 先帶他解鎖虎尾在地美食 鴨蛋糕吃起來、神農茶喝起來 走到哪都被鄉親認出來 合照邀請一路沒停過 感覺根本不是美食行程 是粉絲見面會📸 歡迎更多好朋友 來到雲林走走看看 感受這片土地 最真實 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMimghBVV95cUxNaFJNcFFreHlQWUpqbWpqSFVCSjNQSmt2UjZMRzhnQTRrYTFxa0ttWGE4T0NIdm9BUE0tSFdkWVFOdVB3V3dkLU5jWGdsSldwSklEc2RHa2U4TU1kQ1lxRk5sRUJLOHFmc2lqT3ZBQlFhcDFRZjBYWm1OUFZ0Z1dmQWxVN0hkckxWYzFxb0ZTeDdzcXk0Q3JwQ0JKZkhmMzdoSVBLU2dmbl96WnlqUnlPTVJ4emdpdVZEZkxXenJ4Uks0LWVWeTR5UFZHSkFJUmZQbVJVb0I2LS1kS3lTcXlTUHJEMmd4enhCeWRKTTNRZnNMTUVhNjlrdnd1cUt6WVlLbEpHTHFQdzlyeHhCS25DWGxxaDRvOFFwSFNfMjZTZEJaMklmNTFqQTFxX2lOYkpod283Snd5RzhzMFNRVnRCZ0lnMnRuZzY2R1V6THBlMUVrUlRTeVJYQ2hhSXQxSUtIR0g1UXpDQzN4M3ZUQy1xNW9XVmRFbXQwSjBqSGRnZXp3cHNHSGtmSmc0TkdKZWdoR25WSGFUdEl3N3IwQXVzQTgyYm9sbHdONEI5WkdpeUl6ZHhRQ2ZOX2RmdV9vSDh2Wjd0bDNBQTRVT2E4SDFNTTgwTHVHZGw3R0lUb3B6SVh0VTR6QUJMQVJYc0c3UFM0UXF3NFprUGROTXRMLTRJSWg3anpHVFBmbTl6Q3pmU1R3Rmg5VzQ0X3lHRnRERTd1QmMxU3JIY1NhMUd1SnZTSHlaTEM2M0pXUUM3QmkzWVBTajdCS3dIM3RFaUJpd0ItT1NRUVJWUnZ1S09oR29ZQ25WaUhXcUJZZVdZTEZ0dV9IaHpMc0dtSzNPNDVNTFNhaFNUMmx6Z2NETXFiRHJ1Q0plU25zcnhTU05lQ3pxaEU4MVktSnZoWWtPNi04cVRGX2cyQXZ2S1RlNnpJd3hHMjNkNXdTUzFrdEk2Y0xsRnI1c3NBT2NGRTR6QkE3ME9SQ2ZqMGx0V25HOWMzTkV2cl83YTUzWmFXUzR5WHRKU3p4OXAwdnpzTl9MN3ZsbE5GbEd4RE9WT2x1MHhpcmNYb3VVQlQ1Ykd6WERJNXFrRTJfaTE2Q2ZuZThveG5oSlUzMDRCc2NVV2tLRHYzeWtVeDlqdExXRUdZemV0aHJjbXFRWGRWQXUtZkdvXzAteDlpcWtoeHYtU1RSbjB6SUV5bklzVklSdk9ZNUIzS0VsYWQxVU5VMm53Ujh3WmM4bU1FS19VZU42TlU4T0VFX2VtZ3dOZUgtbEhjRllGQnZrcW0xZ0FSdm9SbnlDQlNOd3Q3UVFPOUtFVUxXRjRLVXhuT2NuVnhFQVpsT2pvN0JjNmVFazFIMlNCVGlBTVpjdWhYV0JvaGdwQlVBenA5cExmX1BHZk1OWmw3UVE",
@@ -1011,11 +1162,11 @@
   "regional_groups": {
     "regions": [
       {
-        "name": "虎尾",
-        "count": 1
+        "name": "雲林",
+        "count": 2
       },
       {
-        "name": "雲林",
+        "name": "虎尾",
         "count": 1
       }
     ],
