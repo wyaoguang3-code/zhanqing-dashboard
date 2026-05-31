@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-05-31T10:47:16.224700+00:00",
+  "generated_at": "2026-05-31T11:02:35.437589+00:00",
   "metrics": {
-    "total_24h": 0,
+    "total_24h": 1,
     "prev_24h": 7,
-    "growth_pct": -100.0,
-    "news_24h": 0,
+    "growth_pct": -85.71,
+    "news_24h": 1,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 24,
-    "prev": 99,
-    "growth_pct": -75.76,
-    "news": 12,
+    "total": 25,
+    "prev": 98,
+    "growth_pct": -74.49,
+    "news": 13,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -25,11 +25,16 @@
       "reasons": []
     }
   },
-  "by_platform": [],
+  "by_platform": [
+    {
+      "platform": "news",
+      "count": 1
+    }
+  ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 12
+      "count": 13
     },
     {
       "platform": "facebook",
@@ -40,7 +45,12 @@
       "count": 3
     }
   ],
-  "by_hour": [],
+  "by_hour": [
+    {
+      "hour": "2026-05-31 18:00",
+      "count": 1
+    }
+  ],
   "by_hour_7d": [
     {
       "hour": "2026-05-24 19:00",
@@ -109,22 +119,63 @@
     {
       "hour": "2026-05-30 12:00",
       "count": 2
+    },
+    {
+      "hour": "2026-05-31 18:00",
+      "count": 1
     }
   ],
-  "mention_by_platform_24h": [],
-  "mention_latest_by_platform_24h": {},
-  "alias_by_platform_24h": [],
-  "alias_latest_by_platform_24h": {},
+  "mention_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 1
+    }
+  ],
+  "mention_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "雲林麥寮風機火警 劉建國：應引進高空滅火無人機 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaXzY4QlROZ0lOaXlacUt5WDIxQzJoell4MmZSWXhxYjFYNURrOFhGXy1yd19MWVYwRjRYZ0xUQnRuWnhwdEpPeHhMSVhsUDdRejA0aWV5bzFJMFJNSUg4eDBzT01CLWptUkHSAW9BVV95cUxOQWxHMUQtTDFGVnVOT01UYXVCY2laemkyQjBRYzJZbk43ZXBFamdVUGQ1ZXJ1Qkg3Y1VMOFZyQ3dHYVFrT3hBSkJXVnI5NW9ua09iVnpUeXoyRVRMQXhtb1djcWUyYmVUTXdoOVVPRWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-31 18:48:44"
+      }
+    ]
+  },
+  "alias_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 1
+    }
+  ],
+  "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "雲林麥寮風機火警 劉建國：應引進高空滅火無人機 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaXzY4QlROZ0lOaXlacUt5WDIxQzJoell4MmZSWXhxYjFYNURrOFhGXy1yd19MWVYwRjRYZ0xUQnRuWnhwdEpPeHhMSVhsUDdRejA0aWV5bzFJMFJNSUg4eDBzT01CLWptUkHSAW9BVV95cUxOQWxHMUQtTDFGVnVOT01UYXVCY2laemkyQjBRYzJZbk43ZXBFamdVUGQ1ZXJ1Qkg3Y1VMOFZyQ3dHYVFrT3hBSkJXVnI5NW9ua09iVnpUeXoyRVRMQXhtb1djcWUyYmVUTXdoOVVPRWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-31 18:48:44"
+      }
+    ]
+  },
   "mention_compare_24h": {
     "張嘉郡": 0,
-    "劉建國": 0
+    "劉建國": 1
   },
   "mention_compare_7d": {
     "張嘉郡": 2,
-    "劉建國": 14
+    "劉建國": 15
   },
-  "top_news": [],
+  "top_news": [
+    {
+      "title": "雲林麥寮風機火警 劉建國：應引進高空滅火無人機 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaXzY4QlROZ0lOaXlacUt5WDIxQzJoell4MmZSWXhxYjFYNURrOFhGXy1yd19MWVYwRjRYZ0xUQnRuWnhwdEpPeHhMSVhsUDdRejA0aWV5bzFJMFJNSUg4eDBzT01CLWptUkHSAW9BVV95cUxOQWxHMUQtTDFGVnVOT01UYXVCY2laemkyQjBRYzJZbk43ZXBFamdVUGQ1ZXJ1Qkg3Y1VMOFZyQ3dHYVFrT3hBSkJXVnI5NW9ua09iVnpUeXoyRVRMQXhtb1djcWUyYmVUTXdoOVVPRWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-31 18:48:44"
+    }
+  ],
   "top_news_7d": [
+    {
+      "title": "雲林麥寮風機火警 劉建國：應引進高空滅火無人機 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaXzY4QlROZ0lOaXlacUt5WDIxQzJoell4MmZSWXhxYjFYNURrOFhGXy1yd19MWVYwRjRYZ0xUQnRuWnhwdEpPeHhMSVhsUDdRejA0aWV5bzFJMFJNSUg4eDBzT01CLWptUkHSAW9BVV95cUxOQWxHMUQtTDFGVnVOT01UYXVCY2laemkyQjBRYzJZbk43ZXBFamdVUGQ1ZXJ1Qkg3Y1VMOFZyQ3dHYVFrT3hBSkJXVnI5NW9ua09iVnpUeXoyRVRMQXhtb1djcWUyYmVUTXdoOVVPRWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-31 18:48:44"
+    },
     {
       "title": "消防隊員超勤加班 立委劉建國：不能用嘉獎代替 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNbnM3SUd5YWk0NUhzWjFabF9YWmJRY0wxTjcyd2hzbDVxLUp2VnVYUlBMZ3NudmRDOGx1WW5sNUdQRjZLMUxmZlh4RllXa0h3UzNuTFA0bFZpU0JvOXI1Ukt6WkVERFNfNjlIb3ZKNmh2ZmQxa1YyVnlpaTVIZkN2c21UaGd0QWx0T3g4ZHpNamQtWHVqTUJrQkl3N3BHeFc2SnUtVUlVUmFGR2FzNnd5enVmY2VjWl9kTFBTV0NrQU5SUDNzNkNyM3hmSkpQeWNLOHJxLTNJZGZITW5XTXJOdWpLUVptUFNCZ1FXTG50ek4zVm5fQXFKeFRlME5DRWg4M1pqTzdLalRLcFI4d0xfeW5vZGJCcHliRHVjQjB6NUtVb2FhVHJ1TV9xcldZRklESFJvNzJDcmF4djFmWTVzVzhNb0JYUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -290,6 +341,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "雲林麥寮風機火警 劉建國：應引進高空滅火無人機 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaXzY4QlROZ0lOaXlacUt5WDIxQzJoell4MmZSWXhxYjFYNURrOFhGXy1yd19MWVYwRjRYZ0xUQnRuWnhwdEpPeHhMSVhsUDdRejA0aWV5bzFJMFJNSUg4eDBzT01CLWptUkHSAW9BVV95cUxOQWxHMUQtTDFGVnVOT01UYXVCY2laemkyQjBRYzJZbk43ZXBFamdVUGQ1ZXJ1Qkg3Y1VMOFZyQ3dHYVFrT3hBSkJXVnI5NW9ua09iVnpUeXoyRVRMQXhtb1djcWUyYmVUTXdoOVVPRWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-05-31 18:48:44"
+    },
+    {
       "title": "消防隊員超勤加班 立委劉建國：不能用嘉獎代替 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNbnM3SUd5YWk0NUhzWjFabF9YWmJRY0wxTjcyd2hzbDVxLUp2VnVYUlBMZ3NudmRDOGx1WW5sNUdQRjZLMUxmZlh4RllXa0h3UzNuTFA0bFZpU0JvOXI1Ukt6WkVERFNfNjlIb3ZKNmh2ZmQxa1YyVnlpaTVIZkN2c21UaGd0QWx0T3g4ZHpNamQtWHVqTUJrQkl3N3BHeFc2SnUtVUlVUmFGR2FzNnd5enVmY2VjWl9kTFBTV0NrQU5SUDNzNkNyM3hmSkpQeWNLOHJxLTNJZGZITW5XTXJOdWpLUVptUFNCZ1FXTG50ek4zVm5fQXFKeFRlME5DRWg4M1pqTzdLalRLcFI4d0xfeW5vZGJCcHliRHVjQjB6NUtVb2FhVHJ1TV9xcldZRklESFJvNzJDcmF4djFmWTVzVzhNb0JYUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-30 12:39:28"
@@ -383,11 +439,6 @@
       "title": "民進黨雲林縣黨部改選佈局選戰 劉建國：會與新任主委共商 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wNkFkT0pCN1hGQ2tnd2FwWTliSnZrRlI5a0FYRThrdnZWckY1N0NTRnVVQXA0MWhRWnAzcTZNNnZVYThFM1N1ZWtOTkJKWHJzanIxRDF6MFJCckJ2R3NEQXhPR0JBTkNIRF9oQXZ1Y9IBb0FVX3lxTE9wNkFkT0pCN1hGQ2tnd2FwWTliSnZrRlI5a0FYRThrdnZWckY1N0NTRnVVQXA0MWhRWnAzcTZNNnZVYThFM1N1ZWtOTkJKWHJzanIxRDF6MFJCckJ2R3NEQXhPR0JBTkNIRF9oQXZ1Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-24 14:46:59"
-    },
-    {
-      "title": "民進黨雲林縣黨部改選佈局選戰 劉建國：會與新任主委共商 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU2tZYUphUzlCV2pnc0hQVmhKeVFGMk1OdEY2NDhDd29uMFhRaC1hTVpHdXc1U2JjU3FfeTVZdzRjZVg4R3ZLeVFJSFFEZHNXcHdGSl9BNWFBWGs3RktEZnZObDFna0NOemZsbE9jZ2ZrMUo0ZkwzZ1laM2JySGxRQ2g1SUZWQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-24 14:46:00"
     }
   ],
   "person_sections": {
@@ -702,6 +753,11 @@
       ],
       "news": [
         {
+          "title": "雲林麥寮風機火警 劉建國：應引進高空滅火無人機 - 自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaXzY4QlROZ0lOaXlacUt5WDIxQzJoell4MmZSWXhxYjFYNURrOFhGXy1yd19MWVYwRjRYZ0xUQnRuWnhwdEpPeHhMSVhsUDdRejA0aWV5bzFJMFJNSUg4eDBzT01CLWptUkHSAW9BVV95cUxOQWxHMUQtTDFGVnVOT01UYXVCY2laemkyQjBRYzJZbk43ZXBFamdVUGQ1ZXJ1Qkg3Y1VMOFZyQ3dHYVFrT3hBSkJXVnI5NW9ua09iVnpUeXoyRVRMQXhtb1djcWUyYmVUTXdoOVVPRWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-05-31 18:48:44"
+        },
+        {
           "title": "消防隊員超勤加班 立委劉建國：不能用嘉獎代替 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNbnM3SUd5YWk0NUhzWjFabF9YWmJRY0wxTjcyd2hzbDVxLUp2VnVYUlBMZ3NudmRDOGx1WW5sNUdQRjZLMUxmZlh4RllXa0h3UzNuTFA0bFZpU0JvOXI1Ukt6WkVERFNfNjlIb3ZKNmh2ZmQxa1YyVnlpaTVIZkN2c21UaGd0QWx0T3g4ZHpNamQtWHVqTUJrQkl3N3BHeFc2SnUtVUlVUmFGR2FzNnd5enVmY2VjWl9kTFBTV0NrQU5SUDNzNkNyM3hmSkpQeWNLOHJxLTNJZGZITW5XTXJOdWpLUVptUFNCZ1FXTG50ek4zVm5fQXFKeFRlME5DRWg4M1pqTzdLalRLcFI4d0xfeW5vZGJCcHliRHVjQjB6NUtVb2FhVHJ1TV9xcldZRklESFJvNzJDcmF4djFmWTVzVzhNb0JYUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-30 12:39:28"
@@ -795,18 +851,26 @@
           "title": "民進黨雲林縣黨部改選佈局選戰 劉建國：會與新任主委共商 - 自由時報",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wNkFkT0pCN1hGQ2tnd2FwWTliSnZrRlI5a0FYRThrdnZWckY1N0NTRnVVQXA0MWhRWnAzcTZNNnZVYThFM1N1ZWtOTkJKWHJzanIxRDF6MFJCckJ2R3NEQXhPR0JBTkNIRF9oQXZ1Y9IBb0FVX3lxTE9wNkFkT0pCN1hGQ2tnd2FwWTliSnZrRlI5a0FYRThrdnZWckY1N0NTRnVVQXA0MWhRWnAzcTZNNnZVYThFM1N1ZWtOTkJKWHJzanIxRDF6MFJCckJ2R3NEQXhPR0JBTkNIRF9oQXZ1Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-24 14:46:59"
-        },
-        {
-          "title": "民進黨雲林縣黨部改選佈局選戰 劉建國：會與新任主委共商 - 自由時報",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU2tZYUphUzlCV2pnc0hQVmhKeVFGMk1OdEY2NDhDd29uMFhRaC1hTVpHdXc1U2JjU3FfeTVZdzRjZVg4R3ZLeVFJSFFEZHNXcHdGSl9BNWFBWGs3RktEZnZObDFna0NOemZsbE9jZ2ZrMUo0ZkwzZ1laM2JySGxRQ2g1SUZWQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-24 14:46:00"
         }
       ]
     }
   },
-  "latest_by_platform_24h": {},
+  "latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "雲林麥寮風機火警 劉建國：應引進高空滅火無人機 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaXzY4QlROZ0lOaXlacUt5WDIxQzJoell4MmZSWXhxYjFYNURrOFhGXy1yd19MWVYwRjRYZ0xUQnRuWnhwdEpPeHhMSVhsUDdRejA0aWV5bzFJMFJNSUg4eDBzT01CLWptUkHSAW9BVV95cUxOQWxHMUQtTDFGVnVOT01UYXVCY2laemkyQjBRYzJZbk43ZXBFamdVUGQ1ZXJ1Qkg3Y1VMOFZyQ3dHYVFrT3hBSkJXVnI5NW9ua09iVnpUeXoyRVRMQXhtb1djcWUyYmVUTXdoOVVPRWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-31 18:48:44"
+      }
+    ]
+  },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "雲林麥寮風機火警 劉建國：應引進高空滅火無人機 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaXzY4QlROZ0lOaXlacUt5WDIxQzJoell4MmZSWXhxYjFYNURrOFhGXy1yd19MWVYwRjRYZ0xUQnRuWnhwdEpPeHhMSVhsUDdRejA0aWV5bzFJMFJNSUg4eDBzT01CLWptUkHSAW9BVV95cUxOQWxHMUQtTDFGVnVOT01UYXVCY2laemkyQjBRYzJZbk43ZXBFamdVUGQ1ZXJ1Qkg3Y1VMOFZyQ3dHYVFrT3hBSkJXVnI5NW9ua09iVnpUeXoyRVRMQXhtb1djcWUyYmVUTXdoOVVPRWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-31 18:48:44"
+      },
       {
         "title": "消防隊員超勤加班 立委劉建國：不能用嘉獎代替 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNbnM3SUd5YWk0NUhzWjFabF9YWmJRY0wxTjcyd2hzbDVxLUp2VnVYUlBMZ3NudmRDOGx1WW5sNUdQRjZLMUxmZlh4RllXa0h3UzNuTFA0bFZpU0JvOXI1Ukt6WkVERFNfNjlIb3ZKNmh2ZmQxa1YyVnlpaTVIZkN2c21UaGd0QWx0T3g4ZHpNamQtWHVqTUJrQkl3N3BHeFc2SnUtVUlVUmFGR2FzNnd5enVmY2VjWl9kTFBTV0NrQU5SUDNzNkNyM3hmSkpQeWNLOHJxLTNJZGZITW5XTXJOdWpLUVptUFNCZ1FXTG50ek4zVm5fQXFKeFRlME5DRWg4M1pqTzdLalRLcFI4d0xfeW5vZGJCcHliRHVjQjB6NUtVb2FhVHJ1TV9xcldZRklESFJvNzJDcmF4djFmWTVzVzhNb0JYUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -936,10 +1000,27 @@
   "event_stream": {
     "minute": [],
     "hour": [],
-    "day": []
+    "day": [
+      {
+        "title": "雲林麥寮風機火警 劉建國：應引進高空滅火無人機 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaXzY4QlROZ0lOaXlacUt5WDIxQzJoell4MmZSWXhxYjFYNURrOFhGXy1yd19MWVYwRjRYZ0xUQnRuWnhwdEpPeHhMSVhsUDdRejA0aWV5bzFJMFJNSUg4eDBzT01CLWptUkHSAW9BVV95cUxOQWxHMUQtTDFGVnVOT01UYXVCY2laemkyQjBRYzJZbk43ZXBFamdVUGQ1ZXJ1Qkg3Y1VMOFZyQ3dHYVFrT3hBSkJXVnI5NW9ua09iVnpUeXoyRVRMQXhtb1djcWUyYmVUTXdoOVVPRWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-05-31 18:48:44",
+        "platform": "news",
+        "risk": "綠"
+      }
+    ]
   },
   "regional_groups": {
-    "regions": [],
+    "regions": [
+      {
+        "name": "麥寮",
+        "count": 1
+      },
+      {
+        "name": "雲林",
+        "count": 1
+      }
+    ],
     "groups": []
   }
 }
