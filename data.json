@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-06-01T10:39:42.169311+00:00",
+  "generated_at": "2026-06-01T10:55:02.536500+00:00",
   "metrics": {
-    "total_24h": 4,
-    "prev_24h": 2,
-    "growth_pct": 100.0,
-    "news_24h": 4,
+    "total_24h": 7,
+    "prev_24h": 3,
+    "growth_pct": 133.33,
+    "news_24h": 7,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 27,
-    "prev": 88,
-    "growth_pct": -69.32,
-    "news": 16,
+    "total": 31,
+    "prev": 87,
+    "growth_pct": -64.37,
+    "news": 20,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,13 +28,13 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 4
+      "count": 7
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 16
+      "count": 20
     },
     {
       "platform": "facebook",
@@ -47,16 +47,20 @@
   ],
   "by_hour": [
     {
-      "hour": "2026-05-31 18:00",
-      "count": 1
-    },
-    {
       "hour": "2026-06-01 14:00",
       "count": 1
     },
     {
       "hour": "2026-06-01 15:00",
       "count": 2
+    },
+    {
+      "hour": "2026-06-01 17:00",
+      "count": 3
+    },
+    {
+      "hour": "2026-06-01 18:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -135,16 +139,44 @@
     {
       "hour": "2026-06-01 15:00",
       "count": 2
+    },
+    {
+      "hour": "2026-06-01 17:00",
+      "count": 3
+    },
+    {
+      "hour": "2026-06-01 18:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 4
+      "count": 7
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國成功爭取復建經費 草嶺交通安全大升級 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RNFNqQ2ZxbERsSTNQcEl1WXBNMkwwUjF0VnFjYkdQQkpWM01uSXN3b3o4bkpTS3FodllqbThNT2c3Z0lkemdWc194czFyUmpualE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-01 18:00:00"
+      },
+      {
+        "title": "立院經委會考察虎尾褒忠產業園區 張嘉郡盼打造雲林產業升級新引擎 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1LVRreXVqRHBOeF8zcEV1aU14RFNuaDlaV1hQNjd4MXpXdUlqcWJRQlEzUEpESjRJSlZuNlg2R2x5UWF3SEoxMQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-01 17:53:41"
+      },
+      {
+        "title": "劉建國爭取災後復建經費青山坪明隧道竣工 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQTG9qOUlrdXpCZU56aDZscm5sa1hpaDNETFd4akY1ajJ0YUxDQlN3ZjZMc3pRMV9YYVlPdjdNMVJac1Etczk1SjFmaFhPdERqWEYzM2NxendZdV96NGVMaVpiZWl2NG94dHN6dzlXMG5VSWxWUXkxemliYU1iRy15ZDVYNi1KS05KSHRnWDJiaFY0UnVmWE9ldlRqRUFnNTVGaXM2dGg5TkRwT2FVckpiVlR3RXNVNFpFZ0dEMzZ5ZFBVdUEta0h2TTdRcEM2ZXlVMmwzUVA0STcwZ3lvLUdGa0pYb0tYR1MzWGJJcWF2aHNRdjgwMHRIdG0zT0plN01VNXQ1d3lqV3FfTW9GUXJuODkyazhUazFjSVpGdE5sNXgwVEw4UElKckZTZkw2TUJOUERHRWFhYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-01 17:39:22"
+      },
+      {
+        "title": "立院經委會考察虎尾、褒忠產業園區 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOS3RaUXNhQ21HcEI5N3BOZ29JTm5iLWtVQnJUenUwQklwRGpvSW1nUkowWEVNcVBpUXh6aVlUWU12WnBaTFJna2F0YThuaF9oRkFhMlVROFlMeDlDeVJLbzBZdjFkUWlYWGJsYzNEQ3Y4Z3ZHOVNDOU9ZSl9HYzlDbmdEeFB1M3VPaUJGZnlRT1NvcFNyZWxSSG5UQzA3QTJaN0VxRGNaSDdPSE00bmVtV3FZdjhyS3NsTWdBMC1FRV82U3lwUFRjSWJycE1qbmx2ZEtLQlEzMGtHd1REdUZPV0E4TVd5dXdqRjhCZmxCT21uUXl3ckxOdDZ4blR2b0c4NXZIeDV1T2VMYUVNYkdHaEtMX0k4V0V1Tmluc0RpbFFrRXNVcXdVYWtSRXhvOWpZa2ltWTg0MEVaTTdQc2w3Qlp3aExGbFU2c0syNEIwLVVXT1RJdF9xcFAxUFRwZXZ4ZkRzZFFRRm5HWVJRMkhtamEwYk5QSTJNZ3RKVTliQUN5d3dCUFNaazc3SEs0UmVXZWRPY21ieGIxc3ZEOTlIbng1R0JkQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-01 17:34:19"
+      },
       {
         "title": "虎尾、褒忠產業園區開發進度曝光 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPTzlWVlZOUDdsajdIQXhYNXkzNTJnWXdCUXhXb0R1eEY5a2lLbjlCOHRVTVNkQk1Tc1NfZUF5Z09fcERMcmdRZnpkcmpWTTF6QjF6cEVid1ZXLVBlWVJFNTh6NHJaLU5iR2xTcWd6WVNpM2ZfRF80dy1VUnZJYy00N3RxMlMyeVJBYTd3V2hIdW5RZ1hBQmpPcXFJRko1d0ZIaDIyRGI1dE9aV3l5UWlxSFF3OUN4WDFWZ0VhWHV5NHhoRDRGZkZNRWxjMzRMSkdla29ybWNnYU9CZ3BSY0xxWXRXdGt6NHB6WS1RUUxYUy1DbzlKRWdRcklPWDN6Nzk1T2syeVNDOEpKaF84c05Qd2pyc005V3lHZ0luTkhlekMtZmp5NklNTjN6c3g0Mk91Um5hS0N1UW1vM1QweVZRXzJmZWRVaTZxXzRfVkVNUzk1ckRTVlIxbmJneEp5enFDOWgwX21NcElSTDdKN0RNYndYQk9YTFZSQXFjcVg0UjZNYURSenFPcXJtbFpCT2JJcUxUc2ZzQVJhUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -159,22 +191,37 @@
         "title": "雲林虎尾園區迎半導體封裝廠！張嘉郡攜經濟部現勘推進度 | 夏和宣 | 地方新聞 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OakxHWTBvMk9EQW1KeWJBdU5EY2c0dUJzeEJuUGlEOUt3cHR4cnVEMHRiT0dpZ2ZoOWFfSUowaWEzakJyVFJMNTU4OFJXQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-01 14:10:33"
-      },
-      {
-        "title": "雲林麥寮風機火警 劉建國：應引進高空滅火無人機 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaXzY4QlROZ0lOaXlacUt5WDIxQzJoell4MmZSWXhxYjFYNURrOFhGXy1yd19MWVYwRjRYZ0xUQnRuWnhwdEpPeHhMSVhsUDdRejA0aWV5bzFJMFJNSUg4eDBzT01CLWptUkHSAW9BVV95cUxOQWxHMUQtTDFGVnVOT01UYXVCY2laemkyQjBRYzJZbk43ZXBFamdVUGQ1ZXJ1Qkg3Y1VMOFZyQ3dHYVFrT3hBSkJXVnI5NW9ua09iVnpUeXoyRVRMQXhtb1djcWUyYmVUTXdoOVVPRWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-31 18:48:44"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 4
+      "count": 7
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國成功爭取復建經費 草嶺交通安全大升級 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RNFNqQ2ZxbERsSTNQcEl1WXBNMkwwUjF0VnFjYkdQQkpWM01uSXN3b3o4bkpTS3FodllqbThNT2c3Z0lkemdWc194czFyUmpualE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-01 18:00:00"
+      },
+      {
+        "title": "立院經委會考察虎尾褒忠產業園區 張嘉郡盼打造雲林產業升級新引擎 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1LVRreXVqRHBOeF8zcEV1aU14RFNuaDlaV1hQNjd4MXpXdUlqcWJRQlEzUEpESjRJSlZuNlg2R2x5UWF3SEoxMQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-01 17:53:41"
+      },
+      {
+        "title": "劉建國爭取災後復建經費青山坪明隧道竣工 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQTG9qOUlrdXpCZU56aDZscm5sa1hpaDNETFd4akY1ajJ0YUxDQlN3ZjZMc3pRMV9YYVlPdjdNMVJac1Etczk1SjFmaFhPdERqWEYzM2NxendZdV96NGVMaVpiZWl2NG94dHN6dzlXMG5VSWxWUXkxemliYU1iRy15ZDVYNi1KS05KSHRnWDJiaFY0UnVmWE9ldlRqRUFnNTVGaXM2dGg5TkRwT2FVckpiVlR3RXNVNFpFZ0dEMzZ5ZFBVdUEta0h2TTdRcEM2ZXlVMmwzUVA0STcwZ3lvLUdGa0pYb0tYR1MzWGJJcWF2aHNRdjgwMHRIdG0zT0plN01VNXQ1d3lqV3FfTW9GUXJuODkyazhUazFjSVpGdE5sNXgwVEw4UElKckZTZkw2TUJOUERHRWFhYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-01 17:39:22"
+      },
+      {
+        "title": "立院經委會考察虎尾、褒忠產業園區 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOS3RaUXNhQ21HcEI5N3BOZ29JTm5iLWtVQnJUenUwQklwRGpvSW1nUkowWEVNcVBpUXh6aVlUWU12WnBaTFJna2F0YThuaF9oRkFhMlVROFlMeDlDeVJLbzBZdjFkUWlYWGJsYzNEQ3Y4Z3ZHOVNDOU9ZSl9HYzlDbmdEeFB1M3VPaUJGZnlRT1NvcFNyZWxSSG5UQzA3QTJaN0VxRGNaSDdPSE00bmVtV3FZdjhyS3NsTWdBMC1FRV82U3lwUFRjSWJycE1qbmx2ZEtLQlEzMGtHd1REdUZPV0E4TVd5dXdqRjhCZmxCT21uUXl3ckxOdDZ4blR2b0c4NXZIeDV1T2VMYUVNYkdHaEtMX0k4V0V1Tmluc0RpbFFrRXNVcXdVYWtSRXhvOWpZa2ltWTg0MEVaTTdQc2w3Qlp3aExGbFU2c0syNEIwLVVXT1RJdF9xcFAxUFRwZXZ4ZkRzZFFRRm5HWVJRMkhtamEwYk5QSTJNZ3RKVTliQUN5d3dCUFNaazc3SEs0UmVXZWRPY21ieGIxc3ZEOTlIbng1R0JkQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-01 17:34:19"
+      },
       {
         "title": "虎尾、褒忠產業園區開發進度曝光 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPTzlWVlZOUDdsajdIQXhYNXkzNTJnWXdCUXhXb0R1eEY5a2lLbjlCOHRVTVNkQk1Tc1NfZUF5Z09fcERMcmdRZnpkcmpWTTF6QjF6cEVid1ZXLVBlWVJFNTh6NHJaLU5iR2xTcWd6WVNpM2ZfRF80dy1VUnZJYy00N3RxMlMyeVJBYTd3V2hIdW5RZ1hBQmpPcXFJRko1d0ZIaDIyRGI1dE9aV3l5UWlxSFF3OUN4WDFWZ0VhWHV5NHhoRDRGZkZNRWxjMzRMSkdla29ybWNnYU9CZ3BSY0xxWXRXdGt6NHB6WS1RUUxYUy1DbzlKRWdRcklPWDN6Nzk1T2syeVNDOEpKaF84c05Qd2pyc005V3lHZ0luTkhlekMtZmp5NklNTjN6c3g0Mk91Um5hS0N1UW1vM1QweVZRXzJmZWRVaTZxXzRfVkVNUzk1ckRTVlIxbmJneEp5enFDOWgwX21NcElSTDdKN0RNYndYQk9YTFZSQXFjcVg0UjZNYURSenFPcXJtbFpCT2JJcUxUc2ZzQVJhUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -189,23 +236,38 @@
         "title": "雲林虎尾園區迎半導體封裝廠！張嘉郡攜經濟部現勘推進度 | 夏和宣 | 地方新聞 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OakxHWTBvMk9EQW1KeWJBdU5EY2c0dUJzeEJuUGlEOUt3cHR4cnVEMHRiT0dpZ2ZoOWFfSUowaWEzakJyVFJMNTU4OFJXQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-01 14:10:33"
-      },
-      {
-        "title": "雲林麥寮風機火警 劉建國：應引進高空滅火無人機 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaXzY4QlROZ0lOaXlacUt5WDIxQzJoell4MmZSWXhxYjFYNURrOFhGXy1yd19MWVYwRjRYZ0xUQnRuWnhwdEpPeHhMSVhsUDdRejA0aWV5bzFJMFJNSUg4eDBzT01CLWptUkHSAW9BVV95cUxOQWxHMUQtTDFGVnVOT01UYXVCY2laemkyQjBRYzJZbk43ZXBFamdVUGQ1ZXJ1Qkg3Y1VMOFZyQ3dHYVFrT3hBSkJXVnI5NW9ua09iVnpUeXoyRVRMQXhtb1djcWUyYmVUTXdoOVVPRWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-31 18:48:44"
       }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 2,
-    "劉建國": 2
+    "張嘉郡": 4,
+    "劉建國": 3
   },
   "mention_compare_7d": {
-    "張嘉郡": 3,
-    "劉建國": 16
+    "張嘉郡": 5,
+    "劉建國": 18
   },
   "top_news": [
+    {
+      "title": "劉建國成功爭取復建經費 草嶺交通安全大升級 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RNFNqQ2ZxbERsSTNQcEl1WXBNMkwwUjF0VnFjYkdQQkpWM01uSXN3b3o4bkpTS3FodllqbThNT2c3Z0lkemdWc194czFyUmpualE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-01 18:00:00"
+    },
+    {
+      "title": "立院經委會考察虎尾褒忠產業園區 張嘉郡盼打造雲林產業升級新引擎 - 台灣民眾電子報",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1LVRreXVqRHBOeF8zcEV1aU14RFNuaDlaV1hQNjd4MXpXdUlqcWJRQlEzUEpESjRJSlZuNlg2R2x5UWF3SEoxMQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-01 17:53:41"
+    },
+    {
+      "title": "劉建國爭取災後復建經費青山坪明隧道竣工 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQTG9qOUlrdXpCZU56aDZscm5sa1hpaDNETFd4akY1ajJ0YUxDQlN3ZjZMc3pRMV9YYVlPdjdNMVJac1Etczk1SjFmaFhPdERqWEYzM2NxendZdV96NGVMaVpiZWl2NG94dHN6dzlXMG5VSWxWUXkxemliYU1iRy15ZDVYNi1KS05KSHRnWDJiaFY0UnVmWE9ldlRqRUFnNTVGaXM2dGg5TkRwT2FVckpiVlR3RXNVNFpFZ0dEMzZ5ZFBVdUEta0h2TTdRcEM2ZXlVMmwzUVA0STcwZ3lvLUdGa0pYb0tYR1MzWGJJcWF2aHNRdjgwMHRIdG0zT0plN01VNXQ1d3lqV3FfTW9GUXJuODkyazhUazFjSVpGdE5sNXgwVEw4UElKckZTZkw2TUJOUERHRWFhYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-01 17:39:22"
+    },
+    {
+      "title": "立院經委會考察虎尾、褒忠產業園區 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOS3RaUXNhQ21HcEI5N3BOZ29JTm5iLWtVQnJUenUwQklwRGpvSW1nUkowWEVNcVBpUXh6aVlUWU12WnBaTFJna2F0YThuaF9oRkFhMlVROFlMeDlDeVJLbzBZdjFkUWlYWGJsYzNEQ3Y4Z3ZHOVNDOU9ZSl9HYzlDbmdEeFB1M3VPaUJGZnlRT1NvcFNyZWxSSG5UQzA3QTJaN0VxRGNaSDdPSE00bmVtV3FZdjhyS3NsTWdBMC1FRV82U3lwUFRjSWJycE1qbmx2ZEtLQlEzMGtHd1REdUZPV0E4TVd5dXdqRjhCZmxCT21uUXl3ckxOdDZ4blR2b0c4NXZIeDV1T2VMYUVNYkdHaEtMX0k4V0V1Tmluc0RpbFFrRXNVcXdVYWtSRXhvOWpZa2ltWTg0MEVaTTdQc2w3Qlp3aExGbFU2c0syNEIwLVVXT1RJdF9xcFAxUFRwZXZ4ZkRzZFFRRm5HWVJRMkhtamEwYk5QSTJNZ3RKVTliQUN5d3dCUFNaazc3SEs0UmVXZWRPY21ieGIxc3ZEOTlIbng1R0JkQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-01 17:34:19"
+    },
     {
       "title": "虎尾、褒忠產業園區開發進度曝光 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPTzlWVlZOUDdsajdIQXhYNXkzNTJnWXdCUXhXb0R1eEY5a2lLbjlCOHRVTVNkQk1Tc1NfZUF5Z09fcERMcmdRZnpkcmpWTTF6QjF6cEVid1ZXLVBlWVJFNTh6NHJaLU5iR2xTcWd6WVNpM2ZfRF80dy1VUnZJYy00N3RxMlMyeVJBYTd3V2hIdW5RZ1hBQmpPcXFJRko1d0ZIaDIyRGI1dE9aV3l5UWlxSFF3OUN4WDFWZ0VhWHV5NHhoRDRGZkZNRWxjMzRMSkdla29ybWNnYU9CZ3BSY0xxWXRXdGt6NHB6WS1RUUxYUy1DbzlKRWdRcklPWDN6Nzk1T2syeVNDOEpKaF84c05Qd2pyc005V3lHZ0luTkhlekMtZmp5NklNTjN6c3g0Mk91Um5hS0N1UW1vM1QweVZRXzJmZWRVaTZxXzRfVkVNUzk1ckRTVlIxbmJneEp5enFDOWgwX21NcElSTDdKN0RNYndYQk9YTFZSQXFjcVg0UjZNYURSenFPcXJtbFpCT2JJcUxUc2ZzQVJhUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -220,14 +282,29 @@
       "title": "雲林虎尾園區迎半導體封裝廠！張嘉郡攜經濟部現勘推進度 | 夏和宣 | 地方新聞 - 風傳媒",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OakxHWTBvMk9EQW1KeWJBdU5EY2c0dUJzeEJuUGlEOUt3cHR4cnVEMHRiT0dpZ2ZoOWFfSUowaWEzakJyVFJMNTU4OFJXQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-01 14:10:33"
-    },
-    {
-      "title": "雲林麥寮風機火警 劉建國：應引進高空滅火無人機 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaXzY4QlROZ0lOaXlacUt5WDIxQzJoell4MmZSWXhxYjFYNURrOFhGXy1yd19MWVYwRjRYZ0xUQnRuWnhwdEpPeHhMSVhsUDdRejA0aWV5bzFJMFJNSUg4eDBzT01CLWptUkHSAW9BVV95cUxOQWxHMUQtTDFGVnVOT01UYXVCY2laemkyQjBRYzJZbk43ZXBFamdVUGQ1ZXJ1Qkg3Y1VMOFZyQ3dHYVFrT3hBSkJXVnI5NW9ua09iVnpUeXoyRVRMQXhtb1djcWUyYmVUTXdoOVVPRWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-31 18:48:44"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "劉建國成功爭取復建經費 草嶺交通安全大升級 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RNFNqQ2ZxbERsSTNQcEl1WXBNMkwwUjF0VnFjYkdQQkpWM01uSXN3b3o4bkpTS3FodllqbThNT2c3Z0lkemdWc194czFyUmpualE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-01 18:00:00"
+    },
+    {
+      "title": "立院經委會考察虎尾褒忠產業園區 張嘉郡盼打造雲林產業升級新引擎 - 台灣民眾電子報",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1LVRreXVqRHBOeF8zcEV1aU14RFNuaDlaV1hQNjd4MXpXdUlqcWJRQlEzUEpESjRJSlZuNlg2R2x5UWF3SEoxMQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-01 17:53:41"
+    },
+    {
+      "title": "劉建國爭取災後復建經費青山坪明隧道竣工 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQTG9qOUlrdXpCZU56aDZscm5sa1hpaDNETFd4akY1ajJ0YUxDQlN3ZjZMc3pRMV9YYVlPdjdNMVJac1Etczk1SjFmaFhPdERqWEYzM2NxendZdV96NGVMaVpiZWl2NG94dHN6dzlXMG5VSWxWUXkxemliYU1iRy15ZDVYNi1KS05KSHRnWDJiaFY0UnVmWE9ldlRqRUFnNTVGaXM2dGg5TkRwT2FVckpiVlR3RXNVNFpFZ0dEMzZ5ZFBVdUEta0h2TTdRcEM2ZXlVMmwzUVA0STcwZ3lvLUdGa0pYb0tYR1MzWGJJcWF2aHNRdjgwMHRIdG0zT0plN01VNXQ1d3lqV3FfTW9GUXJuODkyazhUazFjSVpGdE5sNXgwVEw4UElKckZTZkw2TUJOUERHRWFhYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-01 17:39:22"
+    },
+    {
+      "title": "立院經委會考察虎尾、褒忠產業園區 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOS3RaUXNhQ21HcEI5N3BOZ29JTm5iLWtVQnJUenUwQklwRGpvSW1nUkowWEVNcVBpUXh6aVlUWU12WnBaTFJna2F0YThuaF9oRkFhMlVROFlMeDlDeVJLbzBZdjFkUWlYWGJsYzNEQ3Y4Z3ZHOVNDOU9ZSl9HYzlDbmdEeFB1M3VPaUJGZnlRT1NvcFNyZWxSSG5UQzA3QTJaN0VxRGNaSDdPSE00bmVtV3FZdjhyS3NsTWdBMC1FRV82U3lwUFRjSWJycE1qbmx2ZEtLQlEzMGtHd1REdUZPV0E4TVd5dXdqRjhCZmxCT21uUXl3ckxOdDZ4blR2b0c4NXZIeDV1T2VMYUVNYkdHaEtMX0k4V0V1Tmluc0RpbFFrRXNVcXdVYWtSRXhvOWpZa2ltWTg0MEVaTTdQc2w3Qlp3aExGbFU2c0syNEIwLVVXT1RJdF9xcFAxUFRwZXZ4ZkRzZFFRRm5HWVJRMkhtamEwYk5QSTJNZ3RKVTliQUN5d3dCUFNaazc3SEs0UmVXZWRPY21ieGIxc3ZEOTlIbng1R0JkQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-01 17:34:19"
+    },
     {
       "title": "虎尾、褒忠產業園區開發進度曝光 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPTzlWVlZOUDdsajdIQXhYNXkzNTJnWXdCUXhXb0R1eEY5a2lLbjlCOHRVTVNkQk1Tc1NfZUF5Z09fcERMcmdRZnpkcmpWTTF6QjF6cEVid1ZXLVBlWVJFNTh6NHJaLU5iR2xTcWd6WVNpM2ZfRF80dy1VUnZJYy00N3RxMlMyeVJBYTd3V2hIdW5RZ1hBQmpPcXFJRko1d0ZIaDIyRGI1dE9aV3l5UWlxSFF3OUN4WDFWZ0VhWHV5NHhoRDRGZkZNRWxjMzRMSkdla29ybWNnYU9CZ3BSY0xxWXRXdGt6NHB6WS1RUUxYUy1DbzlKRWdRcklPWDN6Nzk1T2syeVNDOEpKaF84c05Qd2pyc005V3lHZ0luTkhlekMtZmp5NklNTjN6c3g0Mk91Um5hS0N1UW1vM1QweVZRXzJmZWRVaTZxXzRfVkVNUzk1ckRTVlIxbmJneEp5enFDOWgwX21NcElSTDdKN0RNYndYQk9YTFZSQXFjcVg0UjZNYURSenFPcXJtbFpCT2JJcUxUc2ZzQVJhUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -413,6 +490,26 @@
   ],
   "latest_news_20": [
     {
+      "title": "劉建國成功爭取復建經費 草嶺交通安全大升級 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RNFNqQ2ZxbERsSTNQcEl1WXBNMkwwUjF0VnFjYkdQQkpWM01uSXN3b3o4bkpTS3FodllqbThNT2c3Z0lkemdWc194czFyUmpualE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-01 18:00:00"
+    },
+    {
+      "title": "立院經委會考察虎尾褒忠產業園區 張嘉郡盼打造雲林產業升級新引擎 - 台灣民眾電子報",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1LVRreXVqRHBOeF8zcEV1aU14RFNuaDlaV1hQNjd4MXpXdUlqcWJRQlEzUEpESjRJSlZuNlg2R2x5UWF3SEoxMQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-01 17:53:41"
+    },
+    {
+      "title": "劉建國爭取災後復建經費青山坪明隧道竣工 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQTG9qOUlrdXpCZU56aDZscm5sa1hpaDNETFd4akY1ajJ0YUxDQlN3ZjZMc3pRMV9YYVlPdjdNMVJac1Etczk1SjFmaFhPdERqWEYzM2NxendZdV96NGVMaVpiZWl2NG94dHN6dzlXMG5VSWxWUXkxemliYU1iRy15ZDVYNi1KS05KSHRnWDJiaFY0UnVmWE9ldlRqRUFnNTVGaXM2dGg5TkRwT2FVckpiVlR3RXNVNFpFZ0dEMzZ5ZFBVdUEta0h2TTdRcEM2ZXlVMmwzUVA0STcwZ3lvLUdGa0pYb0tYR1MzWGJJcWF2aHNRdjgwMHRIdG0zT0plN01VNXQ1d3lqV3FfTW9GUXJuODkyazhUazFjSVpGdE5sNXgwVEw4UElKckZTZkw2TUJOUERHRWFhYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-01 17:39:22"
+    },
+    {
+      "title": "立院經委會考察虎尾、褒忠產業園區 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOS3RaUXNhQ21HcEI5N3BOZ29JTm5iLWtVQnJUenUwQklwRGpvSW1nUkowWEVNcVBpUXh6aVlUWU12WnBaTFJna2F0YThuaF9oRkFhMlVROFlMeDlDeVJLbzBZdjFkUWlYWGJsYzNEQ3Y4Z3ZHOVNDOU9ZSl9HYzlDbmdEeFB1M3VPaUJGZnlRT1NvcFNyZWxSSG5UQzA3QTJaN0VxRGNaSDdPSE00bmVtV3FZdjhyS3NsTWdBMC1FRV82U3lwUFRjSWJycE1qbmx2ZEtLQlEzMGtHd1REdUZPV0E4TVd5dXdqRjhCZmxCT21uUXl3ckxOdDZ4blR2b0c4NXZIeDV1T2VMYUVNYkdHaEtMX0k4V0V1Tmluc0RpbFFrRXNVcXdVYWtSRXhvOWpZa2ltWTg0MEVaTTdQc2w3Qlp3aExGbFU2c0syNEIwLVVXT1RJdF9xcFAxUFRwZXZ4ZkRzZFFRRm5HWVJRMkhtamEwYk5QSTJNZ3RKVTliQUN5d3dCUFNaazc3SEs0UmVXZWRPY21ieGIxc3ZEOTlIbng1R0JkQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-01 17:34:19"
+    },
+    {
       "title": "虎尾、褒忠產業園區開發進度曝光 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPTzlWVlZOUDdsajdIQXhYNXkzNTJnWXdCUXhXb0R1eEY5a2lLbjlCOHRVTVNkQk1Tc1NfZUF5Z09fcERMcmdRZnpkcmpWTTF6QjF6cEVid1ZXLVBlWVJFNTh6NHJaLU5iR2xTcWd6WVNpM2ZfRF80dy1VUnZJYy00N3RxMlMyeVJBYTd3V2hIdW5RZ1hBQmpPcXFJRko1d0ZIaDIyRGI1dE9aV3l5UWlxSFF3OUN4WDFWZ0VhWHV5NHhoRDRGZkZNRWxjMzRMSkdla29ybWNnYU9CZ3BSY0xxWXRXdGt6NHB6WS1RUUxYUy1DbzlKRWdRcklPWDN6Nzk1T2syeVNDOEpKaF84c05Qd2pyc005V3lHZ0luTkhlekMtZmp5NklNTjN6c3g0Mk91Um5hS0N1UW1vM1QweVZRXzJmZWRVaTZxXzRfVkVNUzk1ckRTVlIxbmJneEp5enFDOWgwX21NcElSTDdKN0RNYndYQk9YTFZSQXFjcVg0UjZNYURSenFPcXJtbFpCT2JJcUxUc2ZzQVJhUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-01 15:41:45"
@@ -491,26 +588,6 @@
       "title": "超勤補償爭議！雲林縣府「嘉獎補償加班」 劉建國質疑對消防員不公平 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oQmhkYUFyNDhEZjZ5YU5rWFVvV0FuMFZvQ0M5c1FkT1dUSHJzLXAyWktzZFZOQW9SZFkwdjBKWFZZajhpMTM4azM1ZDVGaXhVa1NyX3NPc1JxbDFtd0RIWEJEeC1KZlA2YmfSAW9BVV95cUxPUVdUOGtYLVJYOUwyaGlSMHdIQXdhUWZ0dFJYS1k5YmtTb1BtS3JYREV1S0RLakJRR0hXMFJqWVZCcUNPcTJ4R0laMzNWZW9YQURpV1FaeEE4MWd0elEyQmliV3Fqd2VqcUVRR3NqT00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-29 16:29:19"
-    },
-    {
-      "title": "民進黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手立委劉建國凝聚改革力量！ - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OcVpMbE5KLS1kNEZoU1FESDd4WmdfNDVUVk0xeDQ2cnN1V0NpUHIxSnloVXhYZHJtNWVpQkxlcFFvU1lkZzZHUHNoUkZqeDRNSnNEMXdpd19rUEplQkh5NGprUlBOQW80OGpuRUhHVHlRZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-25 17:25:43"
-    },
-    {
-      "title": "民進黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手立委劉建國凝聚改革力量！ - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tQ2kzN1JpODNNTmw1cEkxU05UU3BkNUp5WUtfSW5JZDhWSFNXMENLODB6dWxrQ0JxcWRoZmgtbDJqWVpDeGJ0Tmd6VjdrT01oTDdqN1p6d3dibFF0aVlHcG82ejlvTjQ5Qlk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-24 19:08:57"
-    },
-    {
-      "title": "民主進步黨雲林縣黨部主委改選 江宗保接棒承擔重任 攜手劉建國凝聚改革力量 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNRTNpRXRIaU9jbzQ1dURoaG5mU1RTRGVrZGVFc0tkX1IyRlVyQ2R1SnQxQnRzeTJBVTh5YnRCLXJjT2FiREJ6Mmc0dzlpNEtBT1d5U0pERVNxZ1RsdzN6a2RGOER5THFKYl8tUDJwQmtWRUs0dGRJX180UG42MnhSZGI3My1IVXN6ejRxelkxRnN4U2VuaUdUelpIYUQxdDBEcEQ0aWtvYlR4REtaTm0yUnFDV0lnSjJLR2pHTURCNjd0UTNlRmEwU19lQXcyM29tbEs4OTFMOHNkTW9GUXh2OUhZeUhVVVg0ZHQ5UjRGVkt4V2ZLU2ZBQm1TSDhYVGgyaUZhSmd3SjBEakVSMHVGcUh0T0xIYWdpQ2ZYamRwbWU3cHUyc0Jyd2JjOHgtNGh0SzVnNTF0NWZHY3FQTGFTVEhDeTczNUdFdTVWMmExZFE5V3BHSGs1MV9aTWlZQjZvZE1fNzM5bFhrdGZhZDBVZE9rcWtBNllKZUNVMVdBaTFtQlEzVUZVQWRqWHpKUFFtTUhucHVVT0xCTEhMUExUeHdZZ0llbWRQYlV4aEhfQWk2TWFNYTliRWVLOUpLa3hQaXIxMUlpZlh6enhGNlVnZnR4dWcybWdIcUE4N1lYVkYyWENaM1FWX0NMbC1yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-24 18:33:27"
-    },
-    {
-      "title": "當年恐嚇成空話！同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNVWZOOFZDSnRjMk1TV3RTQ285Z2NyRjVqM2dxTHpPUl96eDd4ZWFZU2FsdW9sVzdLMDFXTmliLVJ5YkoxRWZIaG8zSWRRTUNvTmwwTWJnRTd1enFhS3A2S19uMWhqZG5CTmdIU3NiZWZFQjV3dl90NklmMWhqeFY2b3ZTelVXTG13WGZycWRFSnYzWWxRTzk1V1ZUVEZUblUybF9oX3AwSlJwMDBCNXFycFpTVEpkeWZVdGN0RFNXR1VRdFViV2Q3TE1IWkl4cW80a0lwUmFUM0xKWng4dGpldmlrMGE1SzNzeW1UQmxZUkNRWHFlRERTdUVRTHBWbDZCTGZkN0g2aWdMZzlqQ0NzaHRSRVJBNUtiVHhsbVpYV1d0cXlFMU1YbktFdUU2MkVJcEZIWlVyNkoyaHlHVUtEclJ4T2l6RUJYd3hBbE16V1poMk01d1FPZkxMaXJxQ0Uxbm5QLUZhOHZDSy1jYk02ZzR1RjM0SUJmM09CX09WT3R6Q0NWVFE5QTltQTZQNzY4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-24 17:43:43"
     }
   ],
   "person_sections": {
@@ -619,6 +696,16 @@
       ],
       "news": [
         {
+          "title": "立院經委會考察虎尾褒忠產業園區 張嘉郡盼打造雲林產業升級新引擎 - 台灣民眾電子報",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1LVRreXVqRHBOeF8zcEV1aU14RFNuaDlaV1hQNjd4MXpXdUlqcWJRQlEzUEpESjRJSlZuNlg2R2x5UWF3SEoxMQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-01 17:53:41"
+        },
+        {
+          "title": "立院經委會考察虎尾、褒忠產業園區 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOS3RaUXNhQ21HcEI5N3BOZ29JTm5iLWtVQnJUenUwQklwRGpvSW1nUkowWEVNcVBpUXh6aVlUWU12WnBaTFJna2F0YThuaF9oRkFhMlVROFlMeDlDeVJLbzBZdjFkUWlYWGJsYzNEQ3Y4Z3ZHOVNDOU9ZSl9HYzlDbmdEeFB1M3VPaUJGZnlRT1NvcFNyZWxSSG5UQzA3QTJaN0VxRGNaSDdPSE00bmVtV3FZdjhyS3NsTWdBMC1FRV82U3lwUFRjSWJycE1qbmx2ZEtLQlEzMGtHd1REdUZPV0E4TVd5dXdqRjhCZmxCT21uUXl3ckxOdDZ4blR2b0c4NXZIeDV1T2VMYUVNYkdHaEtMX0k4V0V1Tmluc0RpbFFrRXNVcXdVYWtSRXhvOWpZa2ltWTg0MEVaTTdQc2w3Qlp3aExGbFU2c0syNEIwLVVXT1RJdF9xcFAxUFRwZXZ4ZkRzZFFRRm5HWVJRMkhtamEwYk5QSTJNZ3RKVTliQUN5d3dCUFNaazc3SEs0UmVXZWRPY21ieGIxc3ZEOTlIbng1R0JkQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-01 17:34:19"
+        },
+        {
           "title": "虎尾、褒忠產業園區開發進度曝光 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPTzlWVlZOUDdsajdIQXhYNXkzNTJnWXdCUXhXb0R1eEY5a2lLbjlCOHRVTVNkQk1Tc1NfZUF5Z09fcERMcmdRZnpkcmpWTTF6QjF6cEVid1ZXLVBlWVJFNTh6NHJaLU5iR2xTcWd6WVNpM2ZfRF80dy1VUnZJYy00N3RxMlMyeVJBYTd3V2hIdW5RZ1hBQmpPcXFJRko1d0ZIaDIyRGI1dE9aV3l5UWlxSFF3OUN4WDFWZ0VhWHV5NHhoRDRGZkZNRWxjMzRMSkdla29ybWNnYU9CZ3BSY0xxWXRXdGt6NHB6WS1RUUxYUy1DbzlKRWdRcklPWDN6Nzk1T2syeVNDOEpKaF84c05Qd2pyc005V3lHZ0luTkhlekMtZmp5NklNTjN6c3g0Mk91Um5hS0N1UW1vM1QweVZRXzJmZWRVaTZxXzRfVkVNUzk1ckRTVlIxbmJneEp5enFDOWgwX21NcElSTDdKN0RNYndYQk9YTFZSQXFjcVg0UjZNYURSenFPcXJtbFpCT2JJcUxUc2ZzQVJhUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-01 15:41:45"
@@ -706,16 +793,6 @@
         {
           "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DbXNWdVVxbzJpc2RXTE9zRFhETE12cDI2N1RhMjdiMVA4dUlacEliMmVUS1BUV3BIQnVqV21fN1pJZzVDVUd1TlViU3bSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-21 13:35:19"
-        },
-        {
-          "title": "張嘉郡會同陳世凱考察斗六鐵路高架化　促中央儘速核定動工 - NOWnews今日新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zSFNWUXdFZVhQdUZYY2VvMUVEczJZb2Q1Vmd0aGttSFg1WldraGlNUXJXMGdYUV9BSnlYWWo0OC1JdjZPQ2puRXhiZVhoUkszM3fSAVJBVV95cUxPc0hTVlF3RWVYUHVGWGNlbzFFRHMyWW9kNVZndGhrbUhYNVpXa2hpTVFyVzBnWFFfQUp5WFlqNDgtSXY2T0NqbkV4YmVYaFJLMzN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-21 13:35:19"
-        },
-        {
-          "title": "張嘉郡考察斗六鐵路高架化 促中央儘速核定 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNanNteWt2dVZUaFZKOUI2Q3VFVkJWT0Mxc2xiejl2X2RxWEpnZWRYenZQYnJPYTI4SXk0WUVjdUtWZG5SeVpiNFZnb0RaZThWaURtZVYtQUxVZVJhb1BNbGMwbHc0WDIxNUg2cDdsajJMUHBIb1ZIT2l5dDZNVU9VbmtPUGRERG0yaHV2dg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-21 13:35:19"
         }
       ]
@@ -825,6 +902,16 @@
       ],
       "news": [
         {
+          "title": "劉建國成功爭取復建經費 草嶺交通安全大升級 - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RNFNqQ2ZxbERsSTNQcEl1WXBNMkwwUjF0VnFjYkdQQkpWM01uSXN3b3o4bkpTS3FodllqbThNT2c3Z0lkemdWc194czFyUmpualE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-01 18:00:00"
+        },
+        {
+          "title": "劉建國爭取災後復建經費青山坪明隧道竣工 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQTG9qOUlrdXpCZU56aDZscm5sa1hpaDNETFd4akY1ajJ0YUxDQlN3ZjZMc3pRMV9YYVlPdjdNMVJac1Etczk1SjFmaFhPdERqWEYzM2NxendZdV96NGVMaVpiZWl2NG94dHN6dzlXMG5VSWxWUXkxemliYU1iRy15ZDVYNi1KS05KSHRnWDJiaFY0UnVmWE9ldlRqRUFnNTVGaXM2dGg5TkRwT2FVckpiVlR3RXNVNFpFZ0dEMzZ5ZFBVdUEta0h2TTdRcEM2ZXlVMmwzUVA0STcwZ3lvLUdGa0pYb0tYR1MzWGJJcWF2aHNRdjgwMHRIdG0zT0plN01VNXQ1d3lqV3FfTW9GUXJuODkyazhUazFjSVpGdE5sNXgwVEw4UElKckZTZkw2TUJOUERHRWFhYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-01 17:39:22"
+        },
+        {
           "title": "幕後／後院著火？雲林美女議員「遭賞巴掌」事件未歇 恐衝擊劉建國選情 - 鉅聞天下",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGUVBfeHJNTE5ubm9RblVuWTJMTXdyMGNEdnkxMjRIQkxra3JsN2hudWVvTlQya0pwZzg5Z3J5aUNrVklzTWg3cVhMYXRETWd0YWNybWpfMkV1ZFZxdWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-01 15:00:00"
@@ -913,22 +1000,32 @@
           "title": "當年恐嚇成空話！同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNVWZOOFZDSnRjMk1TV3RTQ285Z2NyRjVqM2dxTHpPUl96eDd4ZWFZU2FsdW9sVzdLMDFXTmliLVJ5YkoxRWZIaG8zSWRRTUNvTmwwTWJnRTd1enFhS3A2S19uMWhqZG5CTmdIU3NiZWZFQjV3dl90NklmMWhqeFY2b3ZTelVXTG13WGZycWRFSnYzWWxRTzk1V1ZUVEZUblUybF9oX3AwSlJwMDBCNXFycFpTVEpkeWZVdGN0RFNXR1VRdFViV2Q3TE1IWkl4cW80a0lwUmFUM0xKWng4dGpldmlrMGE1SzNzeW1UQmxZUkNRWHFlRERTdUVRTHBWbDZCTGZkN0g2aWdMZzlqQ0NzaHRSRVJBNUtiVHhsbVpYV1d0cXlFMU1YbktFdUU2MkVJcEZIWlVyNkoyaHlHVUtEclJ4T2l6RUJYd3hBbE16V1poMk01d1FPZkxMaXJxQ0Uxbm5QLUZhOHZDSy1jYk02ZzR1RjM0SUJmM09CX09WT3R6Q0NWVFE5QTltQTZQNzY4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-24 17:43:43"
-        },
-        {
-          "title": "快新聞／當年恐嚇成空話！同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - 民視新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kOV8wVGJ4cVhDNnpBWEVIWmtjT1JtVTNhVmo5SmladFlvODVTaUpyazJsbVkxcnk4dzBKSEVuRDZBc1RyRlkzeE9DSHJITkV5LThpeEtHOWVJWkQ0cVFFag?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-24 17:43:43"
-        },
-        {
-          "title": "民進黨雲林縣黨部主委改選 劉建國盼新主委能創造新雲林 - 中時新聞網",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0NXUW5lc1UwYV8wUWlEYnhlbmFVTHN4QmtmdVVFNmdac3NVYWZPV3hiQThHMWNacVVNei15NGRNVVVENzNGSGVPdXoxVzJHSTJoa1A3c0pIWXdFaEtjLUozdnNhT182WV9VdGl0cXA1ZS1GY0Q3Rl9oNGlkaUc4X1pOYUVVRnlDUlhqbVVldw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-24 16:42:29"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國成功爭取復建經費 草嶺交通安全大升級 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RNFNqQ2ZxbERsSTNQcEl1WXBNMkwwUjF0VnFjYkdQQkpWM01uSXN3b3o4bkpTS3FodllqbThNT2c3Z0lkemdWc194czFyUmpualE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-01 18:00:00"
+      },
+      {
+        "title": "立院經委會考察虎尾褒忠產業園區 張嘉郡盼打造雲林產業升級新引擎 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1LVRreXVqRHBOeF8zcEV1aU14RFNuaDlaV1hQNjd4MXpXdUlqcWJRQlEzUEpESjRJSlZuNlg2R2x5UWF3SEoxMQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-01 17:53:41"
+      },
+      {
+        "title": "劉建國爭取災後復建經費青山坪明隧道竣工 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQTG9qOUlrdXpCZU56aDZscm5sa1hpaDNETFd4akY1ajJ0YUxDQlN3ZjZMc3pRMV9YYVlPdjdNMVJac1Etczk1SjFmaFhPdERqWEYzM2NxendZdV96NGVMaVpiZWl2NG94dHN6dzlXMG5VSWxWUXkxemliYU1iRy15ZDVYNi1KS05KSHRnWDJiaFY0UnVmWE9ldlRqRUFnNTVGaXM2dGg5TkRwT2FVckpiVlR3RXNVNFpFZ0dEMzZ5ZFBVdUEta0h2TTdRcEM2ZXlVMmwzUVA0STcwZ3lvLUdGa0pYb0tYR1MzWGJJcWF2aHNRdjgwMHRIdG0zT0plN01VNXQ1d3lqV3FfTW9GUXJuODkyazhUazFjSVpGdE5sNXgwVEw4UElKckZTZkw2TUJOUERHRWFhYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-01 17:39:22"
+      },
+      {
+        "title": "立院經委會考察虎尾、褒忠產業園區 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOS3RaUXNhQ21HcEI5N3BOZ29JTm5iLWtVQnJUenUwQklwRGpvSW1nUkowWEVNcVBpUXh6aVlUWU12WnBaTFJna2F0YThuaF9oRkFhMlVROFlMeDlDeVJLbzBZdjFkUWlYWGJsYzNEQ3Y4Z3ZHOVNDOU9ZSl9HYzlDbmdEeFB1M3VPaUJGZnlRT1NvcFNyZWxSSG5UQzA3QTJaN0VxRGNaSDdPSE00bmVtV3FZdjhyS3NsTWdBMC1FRV82U3lwUFRjSWJycE1qbmx2ZEtLQlEzMGtHd1REdUZPV0E4TVd5dXdqRjhCZmxCT21uUXl3ckxOdDZ4blR2b0c4NXZIeDV1T2VMYUVNYkdHaEtMX0k4V0V1Tmluc0RpbFFrRXNVcXdVYWtSRXhvOWpZa2ltWTg0MEVaTTdQc2w3Qlp3aExGbFU2c0syNEIwLVVXT1RJdF9xcFAxUFRwZXZ4ZkRzZFFRRm5HWVJRMkhtamEwYk5QSTJNZ3RKVTliQUN5d3dCUFNaazc3SEs0UmVXZWRPY21ieGIxc3ZEOTlIbng1R0JkQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-01 17:34:19"
+      },
       {
         "title": "虎尾、褒忠產業園區開發進度曝光 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPTzlWVlZOUDdsajdIQXhYNXkzNTJnWXdCUXhXb0R1eEY5a2lLbjlCOHRVTVNkQk1Tc1NfZUF5Z09fcERMcmdRZnpkcmpWTTF6QjF6cEVid1ZXLVBlWVJFNTh6NHJaLU5iR2xTcWd6WVNpM2ZfRF80dy1VUnZJYy00N3RxMlMyeVJBYTd3V2hIdW5RZ1hBQmpPcXFJRko1d0ZIaDIyRGI1dE9aV3l5UWlxSFF3OUN4WDFWZ0VhWHV5NHhoRDRGZkZNRWxjMzRMSkdla29ybWNnYU9CZ3BSY0xxWXRXdGt6NHB6WS1RUUxYUy1DbzlKRWdRcklPWDN6Nzk1T2syeVNDOEpKaF84c05Qd2pyc005V3lHZ0luTkhlekMtZmp5NklNTjN6c3g0Mk91Um5hS0N1UW1vM1QweVZRXzJmZWRVaTZxXzRfVkVNUzk1ckRTVlIxbmJneEp5enFDOWgwX21NcElSTDdKN0RNYndYQk9YTFZSQXFjcVg0UjZNYURSenFPcXJtbFpCT2JJcUxUc2ZzQVJhUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -943,16 +1040,31 @@
         "title": "雲林虎尾園區迎半導體封裝廠！張嘉郡攜經濟部現勘推進度 | 夏和宣 | 地方新聞 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OakxHWTBvMk9EQW1KeWJBdU5EY2c0dUJzeEJuUGlEOUt3cHR4cnVEMHRiT0dpZ2ZoOWFfSUowaWEzakJyVFJMNTU4OFJXQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-01 14:10:33"
-      },
-      {
-        "title": "雲林麥寮風機火警 劉建國：應引進高空滅火無人機 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaXzY4QlROZ0lOaXlacUt5WDIxQzJoell4MmZSWXhxYjFYNURrOFhGXy1yd19MWVYwRjRYZ0xUQnRuWnhwdEpPeHhMSVhsUDdRejA0aWV5bzFJMFJNSUg4eDBzT01CLWptUkHSAW9BVV95cUxOQWxHMUQtTDFGVnVOT01UYXVCY2laemkyQjBRYzJZbk43ZXBFamdVUGQ1ZXJ1Qkg3Y1VMOFZyQ3dHYVFrT3hBSkJXVnI5NW9ua09iVnpUeXoyRVRMQXhtb1djcWUyYmVUTXdoOVVPRWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-31 18:48:44"
       }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "劉建國成功爭取復建經費 草嶺交通安全大升級 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RNFNqQ2ZxbERsSTNQcEl1WXBNMkwwUjF0VnFjYkdQQkpWM01uSXN3b3o4bkpTS3FodllqbThNT2c3Z0lkemdWc194czFyUmpualE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-01 18:00:00"
+      },
+      {
+        "title": "立院經委會考察虎尾褒忠產業園區 張嘉郡盼打造雲林產業升級新引擎 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1LVRreXVqRHBOeF8zcEV1aU14RFNuaDlaV1hQNjd4MXpXdUlqcWJRQlEzUEpESjRJSlZuNlg2R2x5UWF3SEoxMQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-01 17:53:41"
+      },
+      {
+        "title": "劉建國爭取災後復建經費青山坪明隧道竣工 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQTG9qOUlrdXpCZU56aDZscm5sa1hpaDNETFd4akY1ajJ0YUxDQlN3ZjZMc3pRMV9YYVlPdjdNMVJac1Etczk1SjFmaFhPdERqWEYzM2NxendZdV96NGVMaVpiZWl2NG94dHN6dzlXMG5VSWxWUXkxemliYU1iRy15ZDVYNi1KS05KSHRnWDJiaFY0UnVmWE9ldlRqRUFnNTVGaXM2dGg5TkRwT2FVckpiVlR3RXNVNFpFZ0dEMzZ5ZFBVdUEta0h2TTdRcEM2ZXlVMmwzUVA0STcwZ3lvLUdGa0pYb0tYR1MzWGJJcWF2aHNRdjgwMHRIdG0zT0plN01VNXQ1d3lqV3FfTW9GUXJuODkyazhUazFjSVpGdE5sNXgwVEw4UElKckZTZkw2TUJOUERHRWFhYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-01 17:39:22"
+      },
+      {
+        "title": "立院經委會考察虎尾、褒忠產業園區 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOS3RaUXNhQ21HcEI5N3BOZ29JTm5iLWtVQnJUenUwQklwRGpvSW1nUkowWEVNcVBpUXh6aVlUWU12WnBaTFJna2F0YThuaF9oRkFhMlVROFlMeDlDeVJLbzBZdjFkUWlYWGJsYzNEQ3Y4Z3ZHOVNDOU9ZSl9HYzlDbmdEeFB1M3VPaUJGZnlRT1NvcFNyZWxSSG5UQzA3QTJaN0VxRGNaSDdPSE00bmVtV3FZdjhyS3NsTWdBMC1FRV82U3lwUFRjSWJycE1qbmx2ZEtLQlEzMGtHd1REdUZPV0E4TVd5dXdqRjhCZmxCT21uUXl3ckxOdDZ4blR2b0c4NXZIeDV1T2VMYUVNYkdHaEtMX0k4V0V1Tmluc0RpbFFrRXNVcXdVYWtSRXhvOWpZa2ltWTg0MEVaTTdQc2w3Qlp3aExGbFU2c0syNEIwLVVXT1RJdF9xcFAxUFRwZXZ4ZkRzZFFRRm5HWVJRMkhtamEwYk5QSTJNZ3RKVTliQUN5d3dCUFNaazc3SEs0UmVXZWRPY21ieGIxc3ZEOTlIbng1R0JkQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-01 17:34:19"
+      },
       {
         "title": "虎尾、褒忠產業園區開發進度曝光 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPTzlWVlZOUDdsajdIQXhYNXkzNTJnWXdCUXhXb0R1eEY5a2lLbjlCOHRVTVNkQk1Tc1NfZUF5Z09fcERMcmdRZnpkcmpWTTF6QjF6cEVid1ZXLVBlWVJFNTh6NHJaLU5iR2xTcWd6WVNpM2ZfRF80dy1VUnZJYy00N3RxMlMyeVJBYTd3V2hIdW5RZ1hBQmpPcXFJRko1d0ZIaDIyRGI1dE9aV3l5UWlxSFF3OUN4WDFWZ0VhWHV5NHhoRDRGZkZNRWxjMzRMSkdla29ybWNnYU9CZ3BSY0xxWXRXdGt6NHB6WS1RUUxYUy1DbzlKRWdRcklPWDN6Nzk1T2syeVNDOEpKaF84c05Qd2pyc005V3lHZ0luTkhlekMtZmp5NklNTjN6c3g0Mk91Um5hS0N1UW1vM1QweVZRXzJmZWRVaTZxXzRfVkVNUzk1ckRTVlIxbmJneEp5enFDOWgwX21NcElSTDdKN0RNYndYQk9YTFZSQXFjcVg0UjZNYURSenFPcXJtbFpCT2JJcUxUc2ZzQVJhUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1099,6 +1211,34 @@
     "hour": [],
     "day": [
       {
+        "title": "劉建國成功爭取復建經費 草嶺交通安全大升級 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RNFNqQ2ZxbERsSTNQcEl1WXBNMkwwUjF0VnFjYkdQQkpWM01uSXN3b3o4bkpTS3FodllqbThNT2c3Z0lkemdWc194czFyUmpualE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-01 18:00:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "立院經委會考察虎尾褒忠產業園區 張嘉郡盼打造雲林產業升級新引擎 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1LVRreXVqRHBOeF8zcEV1aU14RFNuaDlaV1hQNjd4MXpXdUlqcWJRQlEzUEpESjRJSlZuNlg2R2x5UWF3SEoxMQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-01 17:53:41",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國爭取災後復建經費青山坪明隧道竣工 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQTG9qOUlrdXpCZU56aDZscm5sa1hpaDNETFd4akY1ajJ0YUxDQlN3ZjZMc3pRMV9YYVlPdjdNMVJac1Etczk1SjFmaFhPdERqWEYzM2NxendZdV96NGVMaVpiZWl2NG94dHN6dzlXMG5VSWxWUXkxemliYU1iRy15ZDVYNi1KS05KSHRnWDJiaFY0UnVmWE9ldlRqRUFnNTVGaXM2dGg5TkRwT2FVckpiVlR3RXNVNFpFZ0dEMzZ5ZFBVdUEta0h2TTdRcEM2ZXlVMmwzUVA0STcwZ3lvLUdGa0pYb0tYR1MzWGJJcWF2aHNRdjgwMHRIdG0zT0plN01VNXQ1d3lqV3FfTW9GUXJuODkyazhUazFjSVpGdE5sNXgwVEw4UElKckZTZkw2TUJOUERHRWFhYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-01 17:39:22",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "立院經委會考察虎尾、褒忠產業園區 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOS3RaUXNhQ21HcEI5N3BOZ29JTm5iLWtVQnJUenUwQklwRGpvSW1nUkowWEVNcVBpUXh6aVlUWU12WnBaTFJna2F0YThuaF9oRkFhMlVROFlMeDlDeVJLbzBZdjFkUWlYWGJsYzNEQ3Y4Z3ZHOVNDOU9ZSl9HYzlDbmdEeFB1M3VPaUJGZnlRT1NvcFNyZWxSSG5UQzA3QTJaN0VxRGNaSDdPSE00bmVtV3FZdjhyS3NsTWdBMC1FRV82U3lwUFRjSWJycE1qbmx2ZEtLQlEzMGtHd1REdUZPV0E4TVd5dXdqRjhCZmxCT21uUXl3ckxOdDZ4blR2b0c4NXZIeDV1T2VMYUVNYkdHaEtMX0k4V0V1Tmluc0RpbFFrRXNVcXdVYWtSRXhvOWpZa2ltWTg0MEVaTTdQc2w3Qlp3aExGbFU2c0syNEIwLVVXT1RJdF9xcFAxUFRwZXZ4ZkRzZFFRRm5HWVJRMkhtamEwYk5QSTJNZ3RKVTliQUN5d3dCUFNaazc3SEs0UmVXZWRPY21ieGIxc3ZEOTlIbng1R0JkQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-01 17:34:19",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "虎尾、褒忠產業園區開發進度曝光 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPTzlWVlZOUDdsajdIQXhYNXkzNTJnWXdCUXhXb0R1eEY5a2lLbjlCOHRVTVNkQk1Tc1NfZUF5Z09fcERMcmdRZnpkcmpWTTF6QjF6cEVid1ZXLVBlWVJFNTh6NHJaLU5iR2xTcWd6WVNpM2ZfRF80dy1VUnZJYy00N3RxMlMyeVJBYTd3V2hIdW5RZ1hBQmpPcXFJRko1d0ZIaDIyRGI1dE9aV3l5UWlxSFF3OUN4WDFWZ0VhWHV5NHhoRDRGZkZNRWxjMzRMSkdla29ybWNnYU9CZ3BSY0xxWXRXdGt6NHB6WS1RUUxYUy1DbzlKRWdRcklPWDN6Nzk1T2syeVNDOEpKaF84c05Qd2pyc005V3lHZ0luTkhlekMtZmp5NklNTjN6c3g0Mk91Um5hS0N1UW1vM1QweVZRXzJmZWRVaTZxXzRfVkVNUzk1ckRTVlIxbmJneEp5enFDOWgwX21NcElSTDdKN0RNYndYQk9YTFZSQXFjcVg0UjZNYURSenFPcXJtbFpCT2JJcUxUc2ZzQVJhUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-01 15:41:45",
@@ -1118,31 +1258,25 @@
         "time": "2026-06-01 14:10:33",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "雲林麥寮風機火警 劉建國：應引進高空滅火無人機 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaXzY4QlROZ0lOaXlacUt5WDIxQzJoell4MmZSWXhxYjFYNURrOFhGXy1yd19MWVYwRjRYZ0xUQnRuWnhwdEpPeHhMSVhsUDdRejA0aWV5bzFJMFJNSUg4eDBzT01CLWptUkHSAW9BVV95cUxOQWxHMUQtTDFGVnVOT01UYXVCY2laemkyQjBRYzJZbk43ZXBFamdVUGQ1ZXJ1Qkg3Y1VMOFZyQ3dHYVFrT3hBSkJXVnI5NW9ua09iVnpUeXoyRVRMQXhtb1djcWUyYmVUTXdoOVVPRWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-05-31 18:48:44",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
   "regional_groups": {
     "regions": [
       {
+        "name": "虎尾",
+        "count": 4
+      },
+      {
         "name": "雲林",
         "count": 3
-      },
-      {
-        "name": "虎尾",
-        "count": 2
-      },
-      {
-        "name": "麥寮",
-        "count": 1
       }
     ],
-    "groups": []
+    "groups": [
+      {
+        "name": "交通通勤",
+        "count": 1
+      }
+    ]
   }
 }
