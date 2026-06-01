@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-06-01T22:44:46.831630+00:00",
+  "generated_at": "2026-06-01T23:00:06.872509+00:00",
   "metrics": {
-    "total_24h": 9,
+    "total_24h": 10,
     "prev_24h": 5,
-    "growth_pct": 80.0,
-    "news_24h": 9,
+    "growth_pct": 100.0,
+    "news_24h": 10,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 35,
+    "total": 36,
     "prev": 82,
-    "growth_pct": -57.32,
-    "news": 23,
+    "growth_pct": -56.1,
+    "news": 24,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,13 +28,13 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 9
+      "count": 10
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 23
+      "count": 24
     },
     {
       "platform": "facebook",
@@ -64,6 +64,10 @@
     },
     {
       "hour": "2026-06-01 22:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-06-02 06:00",
       "count": 1
     }
   ],
@@ -159,16 +163,25 @@
     {
       "hour": "2026-06-01 22:00",
       "count": 1
+    },
+    {
+      "hour": "2026-06-02 06:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 9
+      "count": 10
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "立院經委會考察虎尾、褒忠產業園區 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOa1dYSTNXUVJYOURWYzFISkVkNWljY0VxVjZ4LXJVZFdaaV9jYlp5RTYzeDFOeVFRYlNIdTNsa0o0Qnp5dl9ldVo1MUdna3hTUS1XcmQyZG11Ymdveng3cW40R0RSQUYyX1VwREZ4V1ZsMlhWSkk4RXhYWVl6eVlpT2plSWJUX280ZUFVaWUwNkUtWGFpdHlaOElwVmdNTG40aUxhNDFQaFpxbkpJLUVqMXk5djNqVkdLSTdJR1dPYjdSa1ZWMTFkV1h4NG13SnFGMEhEMGF5SEEtTmEwUGJJaTdOZDhDVUhxS1p0V3RZMnIyaDNVMzAxU0FoaGh4SmNCYXFFY01DSWJQbjVGOUpscEVFd3Boc3UyZ0xyRGljYkZtVEk2b3B2a3B4aC1lQlF6QTdZUk1ybkdaanJnbFhMdC0tX1U5RXd2TDgtWWpvZWNhOURQTUc3WXFaVDhqMkJWMlEyMTVXOTRJdm1RNURYa1R3WHhmdklBQnpDNlJ2WXVoclFjSlNobzNEbnZ1NUlWRzVoSUR3d0tJUHVyZW9tZy02a19VZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-02 06:08:08"
+      },
       {
         "title": "立法院經委會考察雲林虎尾、褒忠產業園區 立委張嘉郡等人促中央地方齊心拚發展！ - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtQnhwMXhnVzdvMXZlWDN5WTZqaHhLRkhKMm0wV1dHQXFvWXVUdDFyUElWeGJnNmpFMmcwdmV5cThwdk5FWVRmRExCcksyRndxMTBHalFYUDZjeEdmS3NDbVpsaTlnelZnQUsw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -219,11 +232,16 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 9
+      "count": 10
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "立院經委會考察虎尾、褒忠產業園區 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOa1dYSTNXUVJYOURWYzFISkVkNWljY0VxVjZ4LXJVZFdaaV9jYlp5RTYzeDFOeVFRYlNIdTNsa0o0Qnp5dl9ldVo1MUdna3hTUS1XcmQyZG11Ymdveng3cW40R0RSQUYyX1VwREZ4V1ZsMlhWSkk4RXhYWVl6eVlpT2plSWJUX280ZUFVaWUwNkUtWGFpdHlaOElwVmdNTG40aUxhNDFQaFpxbkpJLUVqMXk5djNqVkdLSTdJR1dPYjdSa1ZWMTFkV1h4NG13SnFGMEhEMGF5SEEtTmEwUGJJaTdOZDhDVUhxS1p0V3RZMnIyaDNVMzAxU0FoaGh4SmNCYXFFY01DSWJQbjVGOUpscEVFd3Boc3UyZ0xyRGljYkZtVEk2b3B2a3B4aC1lQlF6QTdZUk1ybkdaanJnbFhMdC0tX1U5RXd2TDgtWWpvZWNhOURQTUc3WXFaVDhqMkJWMlEyMTVXOTRJdm1RNURYa1R3WHhmdklBQnpDNlJ2WXVoclFjSlNobzNEbnZ1NUlWRzVoSUR3d0tJUHVyZW9tZy02a19VZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-02 06:08:08"
+      },
       {
         "title": "立法院經委會考察雲林虎尾、褒忠產業園區 立委張嘉郡等人促中央地方齊心拚發展！ - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtQnhwMXhnVzdvMXZlWDN5WTZqaHhLRkhKMm0wV1dHQXFvWXVUdDFyUElWeGJnNmpFMmcwdmV5cThwdk5FWVRmRExCcksyRndxMTBHalFYUDZjeEdmS3NDbVpsaTlnelZnQUsw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -272,14 +290,19 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 5,
+    "張嘉郡": 6,
     "劉建國": 4
   },
   "mention_compare_7d": {
-    "張嘉郡": 6,
+    "張嘉郡": 7,
     "劉建國": 20
   },
   "top_news": [
+    {
+      "title": "立院經委會考察虎尾、褒忠產業園區 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOa1dYSTNXUVJYOURWYzFISkVkNWljY0VxVjZ4LXJVZFdaaV9jYlp5RTYzeDFOeVFRYlNIdTNsa0o0Qnp5dl9ldVo1MUdna3hTUS1XcmQyZG11Ymdveng3cW40R0RSQUYyX1VwREZ4V1ZsMlhWSkk4RXhYWVl6eVlpT2plSWJUX280ZUFVaWUwNkUtWGFpdHlaOElwVmdNTG40aUxhNDFQaFpxbkpJLUVqMXk5djNqVkdLSTdJR1dPYjdSa1ZWMTFkV1h4NG13SnFGMEhEMGF5SEEtTmEwUGJJaTdOZDhDVUhxS1p0V3RZMnIyaDNVMzAxU0FoaGh4SmNCYXFFY01DSWJQbjVGOUpscEVFd3Boc3UyZ0xyRGljYkZtVEk2b3B2a3B4aC1lQlF6QTdZUk1ybkdaanJnbFhMdC0tX1U5RXd2TDgtWWpvZWNhOURQTUc3WXFaVDhqMkJWMlEyMTVXOTRJdm1RNURYa1R3WHhmdklBQnpDNlJ2WXVoclFjSlNobzNEbnZ1NUlWRzVoSUR3d0tJUHVyZW9tZy02a19VZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-02 06:08:08"
+    },
     {
       "title": "立法院經委會考察雲林虎尾、褒忠產業園區 立委張嘉郡等人促中央地方齊心拚發展！ - 台灣華報",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtQnhwMXhnVzdvMXZlWDN5WTZqaHhLRkhKMm0wV1dHQXFvWXVUdDFyUElWeGJnNmpFMmcwdmV5cThwdk5FWVRmRExCcksyRndxMTBHalFYUDZjeEdmS3NDbVpsaTlnelZnQUsw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -327,6 +350,11 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "立院經委會考察虎尾、褒忠產業園區 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOa1dYSTNXUVJYOURWYzFISkVkNWljY0VxVjZ4LXJVZFdaaV9jYlp5RTYzeDFOeVFRYlNIdTNsa0o0Qnp5dl9ldVo1MUdna3hTUS1XcmQyZG11Ymdveng3cW40R0RSQUYyX1VwREZ4V1ZsMlhWSkk4RXhYWVl6eVlpT2plSWJUX280ZUFVaWUwNkUtWGFpdHlaOElwVmdNTG40aUxhNDFQaFpxbkpJLUVqMXk5djNqVkdLSTdJR1dPYjdSa1ZWMTFkV1h4NG13SnFGMEhEMGF5SEEtTmEwUGJJaTdOZDhDVUhxS1p0V3RZMnIyaDNVMzAxU0FoaGh4SmNCYXFFY01DSWJQbjVGOUpscEVFd3Boc3UyZ0xyRGljYkZtVEk2b3B2a3B4aC1lQlF6QTdZUk1ybkdaanJnbFhMdC0tX1U5RXd2TDgtWWpvZWNhOURQTUc3WXFaVDhqMkJWMlEyMTVXOTRJdm1RNURYa1R3WHhmdklBQnpDNlJ2WXVoclFjSlNobzNEbnZ1NUlWRzVoSUR3d0tJUHVyZW9tZy02a19VZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-02 06:08:08"
+    },
     {
       "title": "立法院經委會考察雲林虎尾、褒忠產業園區 立委張嘉郡等人促中央地方齊心拚發展！ - 台灣華報",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtQnhwMXhnVzdvMXZlWDN5WTZqaHhLRkhKMm0wV1dHQXFvWXVUdDFyUElWeGJnNmpFMmcwdmV5cThwdk5FWVRmRExCcksyRndxMTBHalFYUDZjeEdmS3NDbVpsaTlnelZnQUsw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -421,11 +449,6 @@
       "title": "雲林消防超勤爭議延燒 劉建國：加班不能用嘉獎打發 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44T2Z5ei1DS1MtdFk1cjlsNVR3U09hRXd3VFdLOVhvMVdvektRNUw0YmZka2R0bFFqX0VGS0JJNHQzUHUzSUVDd2xwSEstX09OdGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-29 17:44:00"
-    },
-    {
-      "title": "消防弟兄出生入死 劉建國籲依法補償超勤加班費 - 元丰傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BWDlzZVh6ak9kak9UdGpHTTVyVDJJd19Pa1dyRmtqYjkxaE56NC1CV21YMHByejlKekpvQlhrTk9oY2lYX09LWVRtOHlZc1RoSUFhSmxNbU0ydVk1eE4zdXVFS0lDcFNG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-29 17:21:28"
     }
   ],
   "latest_facebook_20": [
@@ -532,6 +555,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "立院經委會考察虎尾、褒忠產業園區 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOa1dYSTNXUVJYOURWYzFISkVkNWljY0VxVjZ4LXJVZFdaaV9jYlp5RTYzeDFOeVFRYlNIdTNsa0o0Qnp5dl9ldVo1MUdna3hTUS1XcmQyZG11Ymdveng3cW40R0RSQUYyX1VwREZ4V1ZsMlhWSkk4RXhYWVl6eVlpT2plSWJUX280ZUFVaWUwNkUtWGFpdHlaOElwVmdNTG40aUxhNDFQaFpxbkpJLUVqMXk5djNqVkdLSTdJR1dPYjdSa1ZWMTFkV1h4NG13SnFGMEhEMGF5SEEtTmEwUGJJaTdOZDhDVUhxS1p0V3RZMnIyaDNVMzAxU0FoaGh4SmNCYXFFY01DSWJQbjVGOUpscEVFd3Boc3UyZ0xyRGljYkZtVEk2b3B2a3B4aC1lQlF6QTdZUk1ybkdaanJnbFhMdC0tX1U5RXd2TDgtWWpvZWNhOURQTUc3WXFaVDhqMkJWMlEyMTVXOTRJdm1RNURYa1R3WHhmdklBQnpDNlJ2WXVoclFjSlNobzNEbnZ1NUlWRzVoSUR3d0tJUHVyZW9tZy02a19VZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-02 06:08:08"
+    },
+    {
       "title": "立法院經委會考察雲林虎尾、褒忠產業園區 立委張嘉郡等人促中央地方齊心拚發展！ - 台灣華報",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtQnhwMXhnVzdvMXZlWDN5WTZqaHhLRkhKMm0wV1dHQXFvWXVUdDFyUElWeGJnNmpFMmcwdmV5cThwdk5FWVRmRExCcksyRndxMTBHalFYUDZjeEdmS3NDbVpsaTlnelZnQUsw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-01 22:15:30"
@@ -625,11 +653,6 @@
       "title": "雲林消防超勤爭議延燒 劉建國：加班不能用嘉獎打發 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44T2Z5ei1DS1MtdFk1cjlsNVR3U09hRXd3VFdLOVhvMVdvektRNUw0YmZka2R0bFFqX0VGS0JJNHQzUHUzSUVDd2xwSEstX09OdGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-05-29 17:44:00"
-    },
-    {
-      "title": "消防弟兄出生入死 劉建國籲依法補償超勤加班費 - 元丰傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BWDlzZVh6ak9kak9UdGpHTTVyVDJJd19Pa1dyRmtqYjkxaE56NC1CV21YMHByejlKekpvQlhrTk9oY2lYX09LWVRtOHlZc1RoSUFhSmxNbU0ydVk1eE4zdXVFS0lDcFNG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-29 17:21:28"
     }
   ],
   "person_sections": {
@@ -738,6 +761,11 @@
       ],
       "news": [
         {
+          "title": "立院經委會考察虎尾、褒忠產業園區 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOa1dYSTNXUVJYOURWYzFISkVkNWljY0VxVjZ4LXJVZFdaaV9jYlp5RTYzeDFOeVFRYlNIdTNsa0o0Qnp5dl9ldVo1MUdna3hTUS1XcmQyZG11Ymdveng3cW40R0RSQUYyX1VwREZ4V1ZsMlhWSkk4RXhYWVl6eVlpT2plSWJUX280ZUFVaWUwNkUtWGFpdHlaOElwVmdNTG40aUxhNDFQaFpxbkpJLUVqMXk5djNqVkdLSTdJR1dPYjdSa1ZWMTFkV1h4NG13SnFGMEhEMGF5SEEtTmEwUGJJaTdOZDhDVUhxS1p0V3RZMnIyaDNVMzAxU0FoaGh4SmNCYXFFY01DSWJQbjVGOUpscEVFd3Boc3UyZ0xyRGljYkZtVEk2b3B2a3B4aC1lQlF6QTdZUk1ybkdaanJnbFhMdC0tX1U5RXd2TDgtWWpvZWNhOURQTUc3WXFaVDhqMkJWMlEyMTVXOTRJdm1RNURYa1R3WHhmdklBQnpDNlJ2WXVoclFjSlNobzNEbnZ1NUlWRzVoSUR3d0tJUHVyZW9tZy02a19VZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-02 06:08:08"
+        },
+        {
           "title": "立法院經委會考察雲林虎尾、褒忠產業園區 立委張嘉郡等人促中央地方齊心拚發展！ - 台灣華報",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtQnhwMXhnVzdvMXZlWDN5WTZqaHhLRkhKMm0wV1dHQXFvWXVUdDFyUElWeGJnNmpFMmcwdmV5cThwdk5FWVRmRExCcksyRndxMTBHalFYUDZjeEdmS3NDbVpsaTlnelZnQUsw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-01 22:15:30"
@@ -831,11 +859,6 @@
           "title": "張嘉郡率交委會考察斗六鐵路高架化 陳世凱允諾交通部會努力 - 匯流新聞網",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TRURBTFBEYVktVE51ZnduMmg3MXlnYVNBdWdXdmpkcHd3T1hNTUhUeUM1bXB0b2NSVThkekM3TkozcUJRaUp1V3dR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-21 15:32:34"
-        },
-        {
-          "title": "立院交委會考察斗六鐵路高架化 張嘉郡籲政院儘速核定動工 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPY29SUnZsV2U5d2YxR0xJcVlWQzhBdVNxWkZsa3NLOTgxZ2QwdmUtYjFYYUJ1RkFiNlY2UHlsUzR3UW8wSmdBS29OQVdkRWNhb1FOREtieXNaeG5pSDhhTHdrWE1wNk5sN2JkeEsxbVdnMzg2UkR0Uzk0OXpCd0lyZ2lmVzFvYTViUFVVSmVHcHBwU2RrSDNVbVhfNXdHWjQwLTVKZ2piZkNZRjJ1dDA4cXAyYkNQODM5enh6Y05QU081ZlBBUmdjT1RLYkVPRW5zNEQxRjIzc09nMzhsdjZka2Vtbi00Q2I4TS12SFNwU3FYUTJ1LVVJaEpRNjVHNDd5RVlJZ1FUVzYtZE9kbHZoTjJfeTlGSDZmYlU3bkVIRjkwWUlaQjYzQ1F0c1dsY3pNaldtOE83MTlBTm1Ic05SSWVLSU9kVlpGbkxwUW11T28zQnR0MTc5a05scnUtSmlCek45T1MtNURydWZaTUlUeVdGalVmTTREQUFkbFcwTWNIZk1zcGlMNTB4MVM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-21 15:03:17"
         }
       ]
     },
@@ -1049,6 +1072,11 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "立院經委會考察虎尾、褒忠產業園區 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOa1dYSTNXUVJYOURWYzFISkVkNWljY0VxVjZ4LXJVZFdaaV9jYlp5RTYzeDFOeVFRYlNIdTNsa0o0Qnp5dl9ldVo1MUdna3hTUS1XcmQyZG11Ymdveng3cW40R0RSQUYyX1VwREZ4V1ZsMlhWSkk4RXhYWVl6eVlpT2plSWJUX280ZUFVaWUwNkUtWGFpdHlaOElwVmdNTG40aUxhNDFQaFpxbkpJLUVqMXk5djNqVkdLSTdJR1dPYjdSa1ZWMTFkV1h4NG13SnFGMEhEMGF5SEEtTmEwUGJJaTdOZDhDVUhxS1p0V3RZMnIyaDNVMzAxU0FoaGh4SmNCYXFFY01DSWJQbjVGOUpscEVFd3Boc3UyZ0xyRGljYkZtVEk2b3B2a3B4aC1lQlF6QTdZUk1ybkdaanJnbFhMdC0tX1U5RXd2TDgtWWpvZWNhOURQTUc3WXFaVDhqMkJWMlEyMTVXOTRJdm1RNURYa1R3WHhmdklBQnpDNlJ2WXVoclFjSlNobzNEbnZ1NUlWRzVoSUR3d0tJUHVyZW9tZy02a19VZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-02 06:08:08"
+      },
+      {
         "title": "立法院經委會考察雲林虎尾、褒忠產業園區 立委張嘉郡等人促中央地方齊心拚發展！ - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtQnhwMXhnVzdvMXZlWDN5WTZqaHhLRkhKMm0wV1dHQXFvWXVUdDFyUElWeGJnNmpFMmcwdmV5cThwdk5FWVRmRExCcksyRndxMTBHalFYUDZjeEdmS3NDbVpsaTlnelZnQUsw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-01 22:15:30"
@@ -1097,6 +1125,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "立院經委會考察虎尾、褒忠產業園區 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOa1dYSTNXUVJYOURWYzFISkVkNWljY0VxVjZ4LXJVZFdaaV9jYlp5RTYzeDFOeVFRYlNIdTNsa0o0Qnp5dl9ldVo1MUdna3hTUS1XcmQyZG11Ymdveng3cW40R0RSQUYyX1VwREZ4V1ZsMlhWSkk4RXhYWVl6eVlpT2plSWJUX280ZUFVaWUwNkUtWGFpdHlaOElwVmdNTG40aUxhNDFQaFpxbkpJLUVqMXk5djNqVkdLSTdJR1dPYjdSa1ZWMTFkV1h4NG13SnFGMEhEMGF5SEEtTmEwUGJJaTdOZDhDVUhxS1p0V3RZMnIyaDNVMzAxU0FoaGh4SmNCYXFFY01DSWJQbjVGOUpscEVFd3Boc3UyZ0xyRGljYkZtVEk2b3B2a3B4aC1lQlF6QTdZUk1ybkdaanJnbFhMdC0tX1U5RXd2TDgtWWpvZWNhOURQTUc3WXFaVDhqMkJWMlEyMTVXOTRJdm1RNURYa1R3WHhmdklBQnpDNlJ2WXVoclFjSlNobzNEbnZ1NUlWRzVoSUR3d0tJUHVyZW9tZy02a19VZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-02 06:08:08"
+      },
       {
         "title": "立法院經委會考察雲林虎尾、褒忠產業園區 立委張嘉郡等人促中央地方齊心拚發展！ - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtQnhwMXhnVzdvMXZlWDN5WTZqaHhLRkhKMm0wV1dHQXFvWXVUdDFyUElWeGJnNmpFMmcwdmV5cThwdk5FWVRmRExCcksyRndxMTBHalFYUDZjeEdmS3NDbVpsaTlnelZnQUsw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1283,6 +1316,13 @@
     "hour": [],
     "day": [
       {
+        "title": "立院經委會考察虎尾、褒忠產業園區 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOa1dYSTNXUVJYOURWYzFISkVkNWljY0VxVjZ4LXJVZFdaaV9jYlp5RTYzeDFOeVFRYlNIdTNsa0o0Qnp5dl9ldVo1MUdna3hTUS1XcmQyZG11Ymdveng3cW40R0RSQUYyX1VwREZ4V1ZsMlhWSkk4RXhYWVl6eVlpT2plSWJUX280ZUFVaWUwNkUtWGFpdHlaOElwVmdNTG40aUxhNDFQaFpxbkpJLUVqMXk5djNqVkdLSTdJR1dPYjdSa1ZWMTFkV1h4NG13SnFGMEhEMGF5SEEtTmEwUGJJaTdOZDhDVUhxS1p0V3RZMnIyaDNVMzAxU0FoaGh4SmNCYXFFY01DSWJQbjVGOUpscEVFd3Boc3UyZ0xyRGljYkZtVEk2b3B2a3B4aC1lQlF6QTdZUk1ybkdaanJnbFhMdC0tX1U5RXd2TDgtWWpvZWNhOURQTUc3WXFaVDhqMkJWMlEyMTVXOTRJdm1RNURYa1R3WHhmdklBQnpDNlJ2WXVoclFjSlNobzNEbnZ1NUlWRzVoSUR3d0tJUHVyZW9tZy02a19VZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-02 06:08:08",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "立法院經委會考察雲林虎尾、褒忠產業園區 立委張嘉郡等人促中央地方齊心拚發展！ - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtQnhwMXhnVzdvMXZlWDN5WTZqaHhLRkhKMm0wV1dHQXFvWXVUdDFyUElWeGJnNmpFMmcwdmV5cThwdk5FWVRmRExCcksyRndxMTBHalFYUDZjeEdmS3NDbVpsaTlnelZnQUsw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-01 22:15:30",
@@ -1351,7 +1391,7 @@
     "regions": [
       {
         "name": "虎尾",
-        "count": 5
+        "count": 6
       },
       {
         "name": "雲林",
