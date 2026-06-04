@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-06-04T09:57:19.884909+00:00",
+  "generated_at": "2026-06-04T10:12:39.449241+00:00",
   "metrics": {
-    "total_24h": 2,
+    "total_24h": 9,
     "prev_24h": 5,
-    "growth_pct": -60.0,
-    "news_24h": 2,
+    "growth_pct": 80.0,
+    "news_24h": 7,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 47,
+    "total": 54,
     "prev": 38,
-    "growth_pct": 23.68,
-    "news": 33,
+    "growth_pct": 42.11,
+    "news": 38,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,22 +28,42 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 2
+      "count": 7
+    },
+    {
+      "platform": "facebook",
+      "count": 1
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 33
+      "count": 38
     },
     {
       "platform": "facebook",
-      "count": 14
+      "count": 15
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "by_hour": [
     {
       "hour": "2026-06-04 13:00",
+      "count": 2
+    },
+    {
+      "hour": "2026-06-04 17:00",
+      "count": 5
+    },
+    {
+      "hour": "2026-06-04 18:00",
       "count": 2
     }
   ],
@@ -163,16 +183,53 @@
     {
       "hour": "2026-06-04 13:00",
       "count": 2
+    },
+    {
+      "hour": "2026-06-04 17:00",
+      "count": 5
+    },
+    {
+      "hour": "2026-06-04 18:00",
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 2
+      "count": 7
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國領軍拚建設醫療 吳雅雯蔡岳儒攜手布局北港未來 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aaFQ4ZmE0eGp0WS01VWtlUkpLejFYWnY5Y1hNS1BURDFCU3FLX3NJN1VGUFZ3V0s5N0Ffay1rS2gxOG13THFxdC1lQTd0cU5WUEFXeE5LSDgxNUxJSWtJdzNDNl93R2JD?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 18:00:11"
+      },
+      {
+        "title": "劉建國攜手吳雅雯蔡岳儒開總部 北港選戰正式全面啟動 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tY3NkdkgxUlhPUVJaMFJ6OHJBbVNzN0FuWmdPZFhvS3h5Smt5UF9USV9JYXZFM2V4cTlVZTV6dzVMUmVlT0FBdG91a19PX19EdVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 17:55:00"
+      },
+      {
+        "title": "劉建國北港3合1聯合服務處揭牌 蘇治芬出面為強棒組合打氣 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxRG05U1Zzb1E0dXFBS19tNldOelFkT0FNMTRUSHpDVDg5a3NZbk1reGo1em1La1ptc2ZQV0NTbHNqNFVabGt1Zk9rSnVLVS1OTFJZ0gFYQVVfeXFMTkkzQ2NKdGNCQnlnU3pRa1pxQnV1d3NRT004MFJqclEtYUViRnA3cDZyRUlZYWlHSUZkZVB2WUNMRW9POFpaSV9feFhjWE5xb3B1NXA3dzd2UA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 17:23:50"
+      },
+      {
+        "title": "育兒假擬擴大至6歲以下 立委劉建國籲完善制度：單親家庭與特殊需求兒童不能被忽略 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90N2Z3MHdCb1d3a3RaV2htdjBrMDdSQlEya3kyUjlnQ19vMm53OGdjdmJFV1JSNnhjVEp5VEZEcHFaVXBwem01YlhmSjh4T0JyNnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 17:14:00"
+      },
+      {
+        "title": "劉建國、蔡岳儒、吳雅雯聯合競總開幕 蘇治芬喊話：再創北港奇蹟 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52TUh1ZU4zcGFySnNRSlUzdnFuamktaGt2bjJtXzR6ay1PQ1l0ZzBjMmdIUzdyRTFMU044NE0zVlhGWVBiRmlQazFUNUdRSEwtN0dmQlBTMEpMQ1JQZ0VSSWZ6R1ZSSWNienfSAW9BVV95cUxORUNqdGd6Yl9MZm1oUnI5WFl0Q0VabXZHY0JrVEowSU01bnR2VVhxcXlmRHhzNHZucXhOMVV2VUpTWlVCdE15dm9Kd3hQTE1sU3A2WDBtdi1LWnVGV25oc0Q2X2VRdzM4ZnZCcWtpRFU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 17:06:24"
+      },
       {
         "title": "劉建國、吳雅雯、蔡岳儒北港聯合競選總部熱鬧揭牌 攜手打造北港成為「科技綠洲」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNek9Ed2s4ck9JcnR3RU1jZGl3Z2NkZ2ZTanh2NmphLW5LX1ZtdUJ2YmJLVm90YVpheTBVWHM0ckszNTlBcVBvaGZLdXZ6VFpLejJQNERWb3JGWVhhbTREYWJyN2tuUTM2UjE4ZnB2QkpYUmhsNGM0OUFSWVVlc0pzS1VOX1Vud29ZREl4bGhoaXcwRGNfdFFsMFNkUF9VdWhydkFpdGpMeW1Dd0RMaEZGeHlVMVEyUTVUMGtWQmpOTDRHNVA0cC1SbHB0VkxjVG9lbU5BV0l2aGVmYlVSYnZaS1J4c1AzdDNqSUxoVWxPLVFMRG1VbjJKcXZJY3E2LWFNeGtWdUd6LWViN1lwaVVPUFQ0aVJKd01WR19qX2xjdE1wcUdBbllzNnNmaW11YjB0N3RVdV9XTng5NWVPN3EzNnhrc2E3YlItVzlKUmR3SVYtTTFsXzBESXBIUVZQa2REcDhtTkhyaWpxTjM3ek80M3NFdkRSV2hob1oyUVZ2eURWSnlUSkhXaldVdF94N0dXaEViQVR2alJUbDV0bEZReWt2c1BaS3dvaHBmcElrN1R0OU1PbUhfS1d6SWpnMFY1UWNHWmxyUkQ5VUplX1JGb2ZiSnUyWGZJdjVfa2RIYl9ZbVZj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -182,17 +239,53 @@
         "title": "劉建國、吳雅雯、蔡岳儒北港聯合競選總部熱鬧揭牌 攜手打造北港成為「科技綠洲」 - 觀傳媒",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZMzRYYVVFbTlUYjloU1U0M2pMTzIyMjFhSEZ0TmYzVUtva1U0NXlBSnNoR1hRY3pNQ3RNeDg5aENRcXZLem9yNEtHSHRodTNSSkJCY2lkSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-04 13:37:58"
+      }
+    ],
+    "facebook": [
+      {
+        "title": "拒絕人口流失！建國攜手雅雯、岳儒，引進「健康產業園區」翻轉北港！ 今天（6/4）上午，我們的「#劉建國 #蔡岳儒 #吳雅雯 北港聯合競選總部」正式成立了！感謝醫界各位院長、校友會、獅子會、扶輪社、同黨同志 雲林縣議員蔡永富、 雲林縣議員蔡孟真 、 顏嘉葦 海口嘉+ - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi-gdBVV95cUxQSGgzS2QwUlcyNVd0YVBfaTl1ZGJ3c0RXQlZUcncxWnB6aF9GLTE0VkN0R0JsN1RpaDc1R0pwbXdkS2RnZV9FQWZrYUI3Y3ZtOXdqVHZZeFAyVXdXRkdaT2xLV2pjMmV4SUdVNks2cDcwRFhrQzVOVUQ5U0RkaTEyak10RnMxMFdOVFREcDBaY3lHOG5qbUxqNWpPNnRoZmF0Q2x2am1lUUpRLXhKZ0JCa1FzcXBpTnpGUFpwRnhCaC12MUlYWkU0M1lKbzd6ZW5XY2dKS3lGQVBHWjRuaFBxUXI3TkU5MUVMLTdGakZHT0NSWThVT2lNZmVzRmZLdkJ1bzJxX1IzMGl4MVFRUzVZU2xTU280XzFZOUNtR2JNX0xBTzFKcXBiV0RMTXNIZDVEWjhOUVI0elBRUEU4X3FGRGFPNE4wRW1aa1RzNGY4aGsxQlJjR3p3NnJVanJYQVhVcUhxM1B2ZU9iWFh0eTFiMGtYMV80SGJaVHBLcXZER2lZLWlIcUlTWTZQYWtMbHVqUGdZT3dKT1gwTTJrYTR3WGpJNWxBUklnT1FTd2VZaTRReGZlZHVhQWtrS0ZoNThfT2RmN3BlVnEwU1UwNUlRZVEwYzBnT2s1YzYzMGMyaWJLMWgwUFdEcTNIa1ktTDZ5d21kRWF4bHFJdHAxS2VNVmVhdmlsck5YV0ZJZnItS0IzcHozSi1qMVJQU01INFB6SERfZDJfMU1ZNGNfYWg5Y0I2MzRyZXl3OXlpcUF3OXZMcUNUSktpQ0lKaHBJR0pMVnBKal9uSTdhamE3ZWlSNk1Ha0haTjdaOVVCM0hueTVqc3FHMjkyNmp3aTVvcW5KckZudFlXVDVDYUl6eHZ0MHJIOU5uVm85SkJ6THo4OG1FZTJUb0dqZVd3UVlENk45YTRkb05pSTdOYTlhT2dpc0lVT2wyLW5Tb3diNHl0d0IzdFhOTUhYdlMxWlZxN3ZMaUNFZlhTNHNEV3VEckszZnpvblZraFkwMWVpaEwxdm9hOTBwVnU2Q01TS25BcEl3UmZheGI3dlFVNEZycmlkS2pSTEJ1cmR0ZmEyaWFrQlFRczhaMVN6VDQ1MTZMZDN3ZllfSThLR2k5T2hMLTl1ZDF2VVBPMWlXZTBhU09uc283M05ndlhVc2pYbVNuRkd3clJhbUczTHVvcGc3dkFweld2U1BZTjZocEk4N2l0dHhXbl9MRVRuaXpQeERSbHJkUjlBQUJoQU9xdEpwSWRmN0VDTWt1dXRIWFpEc0FFTXYxTHozSW56RGlNQ0doN3IzeHlONWpaWWtsRXowQ1pMVXB1NjZnRkN0SjRBd0FiOUNLdWlWSzliY19n",
+        "time": "2026-06-04 18:00:00"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 2
+      "count": 7
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國領軍拚建設醫療 吳雅雯蔡岳儒攜手布局北港未來 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aaFQ4ZmE0eGp0WS01VWtlUkpLejFYWnY5Y1hNS1BURDFCU3FLX3NJN1VGUFZ3V0s5N0Ffay1rS2gxOG13THFxdC1lQTd0cU5WUEFXeE5LSDgxNUxJSWtJdzNDNl93R2JD?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 18:00:11"
+      },
+      {
+        "title": "劉建國攜手吳雅雯蔡岳儒開總部 北港選戰正式全面啟動 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tY3NkdkgxUlhPUVJaMFJ6OHJBbVNzN0FuWmdPZFhvS3h5Smt5UF9USV9JYXZFM2V4cTlVZTV6dzVMUmVlT0FBdG91a19PX19EdVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 17:55:00"
+      },
+      {
+        "title": "劉建國北港3合1聯合服務處揭牌 蘇治芬出面為強棒組合打氣 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxRG05U1Zzb1E0dXFBS19tNldOelFkT0FNMTRUSHpDVDg5a3NZbk1reGo1em1La1ptc2ZQV0NTbHNqNFVabGt1Zk9rSnVLVS1OTFJZ0gFYQVVfeXFMTkkzQ2NKdGNCQnlnU3pRa1pxQnV1d3NRT004MFJqclEtYUViRnA3cDZyRUlZYWlHSUZkZVB2WUNMRW9POFpaSV9feFhjWE5xb3B1NXA3dzd2UA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 17:23:50"
+      },
+      {
+        "title": "育兒假擬擴大至6歲以下 立委劉建國籲完善制度：單親家庭與特殊需求兒童不能被忽略 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90N2Z3MHdCb1d3a3RaV2htdjBrMDdSQlEya3kyUjlnQ19vMm53OGdjdmJFV1JSNnhjVEp5VEZEcHFaVXBwem01YlhmSjh4T0JyNnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 17:14:00"
+      },
+      {
+        "title": "劉建國、蔡岳儒、吳雅雯聯合競總開幕 蘇治芬喊話：再創北港奇蹟 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52TUh1ZU4zcGFySnNRSlUzdnFuamktaGt2bjJtXzR6ay1PQ1l0ZzBjMmdIUzdyRTFMU044NE0zVlhGWVBiRmlQazFUNUdRSEwtN0dmQlBTMEpMQ1JQZ0VSSWZ6R1ZSSWNienfSAW9BVV95cUxORUNqdGd6Yl9MZm1oUnI5WFl0Q0VabXZHY0JrVEowSU01bnR2VVhxcXlmRHhzNHZucXhOMVV2VUpTWlVCdE15dm9Kd3hQTE1sU3A2WDBtdi1LWnVGV25oc0Q2X2VRdzM4ZnZCcWtpRFU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 17:06:24"
+      },
       {
         "title": "劉建國、吳雅雯、蔡岳儒北港聯合競選總部熱鬧揭牌 攜手打造北港成為「科技綠洲」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNek9Ed2s4ck9JcnR3RU1jZGl3Z2NkZ2ZTanh2NmphLW5LX1ZtdUJ2YmJLVm90YVpheTBVWHM0ckszNTlBcVBvaGZLdXZ6VFpLejJQNERWb3JGWVhhbTREYWJyN2tuUTM2UjE4ZnB2QkpYUmhsNGM0OUFSWVVlc0pzS1VOX1Vud29ZREl4bGhoaXcwRGNfdFFsMFNkUF9VdWhydkFpdGpMeW1Dd0RMaEZGeHlVMVEyUTVUMGtWQmpOTDRHNVA0cC1SbHB0VkxjVG9lbU5BV0l2aGVmYlVSYnZaS1J4c1AzdDNqSUxoVWxPLVFMRG1VbjJKcXZJY3E2LWFNeGtWdUd6LWViN1lwaVVPUFQ0aVJKd01WR19qX2xjdE1wcUdBbllzNnNmaW11YjB0N3RVdV9XTng5NWVPN3EzNnhrc2E3YlItVzlKUmR3SVYtTTFsXzBESXBIUVZQa2REcDhtTkhyaWpxTjM3ek80M3NFdkRSV2hob1oyUVZ2eURWSnlUSkhXaldVdF94N0dXaEViQVR2alJUbDV0bEZReWt2c1BaS3dvaHBmcElrN1R0OU1PbUhfS1d6SWpnMFY1UWNHWmxyUkQ5VUplX1JGb2ZiSnUyWGZJdjVfa2RIYl9ZbVZj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -203,17 +296,49 @@
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZMzRYYVVFbTlUYjloU1U0M2pMTzIyMjFhSEZ0TmYzVUtva1U0NXlBSnNoR1hRY3pNQ3RNeDg5aENRcXZLem9yNEtHSHRodTNSSkJCY2lkSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-04 13:37:58"
       }
+    ],
+    "facebook": [
+      {
+        "title": "拒絕人口流失！建國攜手雅雯、岳儒，引進「健康產業園區」翻轉北港！ 今天（6/4）上午，我們的「#劉建國 #蔡岳儒 #吳雅雯 北港聯合競選總部」正式成立了！感謝醫界各位院長、校友會、獅子會、扶輪社、同黨同志 雲林縣議員蔡永富、 雲林縣議員蔡孟真 、 顏嘉葦 海口嘉+ - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi-gdBVV95cUxQSGgzS2QwUlcyNVd0YVBfaTl1ZGJ3c0RXQlZUcncxWnB6aF9GLTE0VkN0R0JsN1RpaDc1R0pwbXdkS2RnZV9FQWZrYUI3Y3ZtOXdqVHZZeFAyVXdXRkdaT2xLV2pjMmV4SUdVNks2cDcwRFhrQzVOVUQ5U0RkaTEyak10RnMxMFdOVFREcDBaY3lHOG5qbUxqNWpPNnRoZmF0Q2x2am1lUUpRLXhKZ0JCa1FzcXBpTnpGUFpwRnhCaC12MUlYWkU0M1lKbzd6ZW5XY2dKS3lGQVBHWjRuaFBxUXI3TkU5MUVMLTdGakZHT0NSWThVT2lNZmVzRmZLdkJ1bzJxX1IzMGl4MVFRUzVZU2xTU280XzFZOUNtR2JNX0xBTzFKcXBiV0RMTXNIZDVEWjhOUVI0elBRUEU4X3FGRGFPNE4wRW1aa1RzNGY4aGsxQlJjR3p3NnJVanJYQVhVcUhxM1B2ZU9iWFh0eTFiMGtYMV80SGJaVHBLcXZER2lZLWlIcUlTWTZQYWtMbHVqUGdZT3dKT1gwTTJrYTR3WGpJNWxBUklnT1FTd2VZaTRReGZlZHVhQWtrS0ZoNThfT2RmN3BlVnEwU1UwNUlRZVEwYzBnT2s1YzYzMGMyaWJLMWgwUFdEcTNIa1ktTDZ5d21kRWF4bHFJdHAxS2VNVmVhdmlsck5YV0ZJZnItS0IzcHozSi1qMVJQU01INFB6SERfZDJfMU1ZNGNfYWg5Y0I2MzRyZXl3OXlpcUF3OXZMcUNUSktpQ0lKaHBJR0pMVnBKal9uSTdhamE3ZWlSNk1Ha0haTjdaOVVCM0hueTVqc3FHMjkyNmp3aTVvcW5KckZudFlXVDVDYUl6eHZ0MHJIOU5uVm85SkJ6THo4OG1FZTJUb0dqZVd3UVlENk45YTRkb05pSTdOYTlhT2dpc0lVT2wyLW5Tb3diNHl0d0IzdFhOTUhYdlMxWlZxN3ZMaUNFZlhTNHNEV3VEckszZnpvblZraFkwMWVpaEwxdm9hOTBwVnU2Q01TS25BcEl3UmZheGI3dlFVNEZycmlkS2pSTEJ1cmR0ZmEyaWFrQlFRczhaMVN6VDQ1MTZMZDN3ZllfSThLR2k5T2hMLTl1ZDF2VVBPMWlXZTBhU09uc283M05ndlhVc2pYbVNuRkd3clJhbUczTHVvcGc3dkFweld2U1BZTjZocEk4N2l0dHhXbl9MRVRuaXpQeERSbHJkUjlBQUJoQU9xdEpwSWRmN0VDTWt1dXRIWFpEc0FFTXYxTHozSW56RGlNQ0doN3IzeHlONWpaWWtsRXowQ1pMVXB1NjZnRkN0SjRBd0FiOUNLdWlWSzliY19n",
+        "time": "2026-06-04 18:00:00"
+      }
     ]
   },
   "mention_compare_24h": {
     "張嘉郡": 0,
-    "劉建國": 2
+    "劉建國": 8
   },
   "mention_compare_7d": {
     "張嘉郡": 10,
-    "劉建國": 31
+    "劉建國": 37
   },
   "top_news": [
+    {
+      "title": "劉建國領軍拚建設醫療 吳雅雯蔡岳儒攜手布局北港未來 - 元丰傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aaFQ4ZmE0eGp0WS01VWtlUkpLejFYWnY5Y1hNS1BURDFCU3FLX3NJN1VGUFZ3V0s5N0Ffay1rS2gxOG13THFxdC1lQTd0cU5WUEFXeE5LSDgxNUxJSWtJdzNDNl93R2JD?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-04 18:00:11"
+    },
+    {
+      "title": "劉建國攜手吳雅雯蔡岳儒開總部 北港選戰正式全面啟動 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tY3NkdkgxUlhPUVJaMFJ6OHJBbVNzN0FuWmdPZFhvS3h5Smt5UF9USV9JYXZFM2V4cTlVZTV6dzVMUmVlT0FBdG91a19PX19EdVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-04 17:55:00"
+    },
+    {
+      "title": "劉建國北港3合1聯合服務處揭牌 蘇治芬出面為強棒組合打氣 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxRG05U1Zzb1E0dXFBS19tNldOelFkT0FNMTRUSHpDVDg5a3NZbk1reGo1em1La1ptc2ZQV0NTbHNqNFVabGt1Zk9rSnVLVS1OTFJZ0gFYQVVfeXFMTkkzQ2NKdGNCQnlnU3pRa1pxQnV1d3NRT004MFJqclEtYUViRnA3cDZyRUlZYWlHSUZkZVB2WUNMRW9POFpaSV9feFhjWE5xb3B1NXA3dzd2UA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-04 17:23:50"
+    },
+    {
+      "title": "育兒假擬擴大至6歲以下 立委劉建國籲完善制度：單親家庭與特殊需求兒童不能被忽略 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90N2Z3MHdCb1d3a3RaV2htdjBrMDdSQlEya3kyUjlnQ19vMm53OGdjdmJFV1JSNnhjVEp5VEZEcHFaVXBwem01YlhmSjh4T0JyNnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-04 17:14:00"
+    },
+    {
+      "title": "劉建國、蔡岳儒、吳雅雯聯合競總開幕 蘇治芬喊話：再創北港奇蹟 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52TUh1ZU4zcGFySnNRSlUzdnFuamktaGt2bjJtXzR6ay1PQ1l0ZzBjMmdIUzdyRTFMU044NE0zVlhGWVBiRmlQazFUNUdRSEwtN0dmQlBTMEpMQ1JQZ0VSSWZ6R1ZSSWNienfSAW9BVV95cUxORUNqdGd6Yl9MZm1oUnI5WFl0Q0VabXZHY0JrVEowSU01bnR2VVhxcXlmRHhzNHZucXhOMVV2VUpTWlVCdE15dm9Kd3hQTE1sU3A2WDBtdi1LWnVGV25oc0Q2X2VRdzM4ZnZCcWtpRFU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-04 17:06:24"
+    },
     {
       "title": "劉建國、吳雅雯、蔡岳儒北港聯合競選總部熱鬧揭牌 攜手打造北港成為「科技綠洲」 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNek9Ed2s4ck9JcnR3RU1jZGl3Z2NkZ2ZTanh2NmphLW5LX1ZtdUJ2YmJLVm90YVpheTBVWHM0ckszNTlBcVBvaGZLdXZ6VFpLejJQNERWb3JGWVhhbTREYWJyN2tuUTM2UjE4ZnB2QkpYUmhsNGM0OUFSWVVlc0pzS1VOX1Vud29ZREl4bGhoaXcwRGNfdFFsMFNkUF9VdWhydkFpdGpMeW1Dd0RMaEZGeHlVMVEyUTVUMGtWQmpOTDRHNVA0cC1SbHB0VkxjVG9lbU5BV0l2aGVmYlVSYnZaS1J4c1AzdDNqSUxoVWxPLVFMRG1VbjJKcXZJY3E2LWFNeGtWdUd6LWViN1lwaVVPUFQ0aVJKd01WR19qX2xjdE1wcUdBbllzNnNmaW11YjB0N3RVdV9XTng5NWVPN3EzNnhrc2E3YlItVzlKUmR3SVYtTTFsXzBESXBIUVZQa2REcDhtTkhyaWpxTjM3ek80M3NFdkRSV2hob1oyUVZ2eURWSnlUSkhXaldVdF94N0dXaEViQVR2alJUbDV0bEZReWt2c1BaS3dvaHBmcElrN1R0OU1PbUhfS1d6SWpnMFY1UWNHWmxyUkQ5VUplX1JGb2ZiSnUyWGZJdjVfa2RIYl9ZbVZj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -226,6 +351,31 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "劉建國領軍拚建設醫療 吳雅雯蔡岳儒攜手布局北港未來 - 元丰傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aaFQ4ZmE0eGp0WS01VWtlUkpLejFYWnY5Y1hNS1BURDFCU3FLX3NJN1VGUFZ3V0s5N0Ffay1rS2gxOG13THFxdC1lQTd0cU5WUEFXeE5LSDgxNUxJSWtJdzNDNl93R2JD?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-04 18:00:11"
+    },
+    {
+      "title": "劉建國攜手吳雅雯蔡岳儒開總部 北港選戰正式全面啟動 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tY3NkdkgxUlhPUVJaMFJ6OHJBbVNzN0FuWmdPZFhvS3h5Smt5UF9USV9JYXZFM2V4cTlVZTV6dzVMUmVlT0FBdG91a19PX19EdVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-04 17:55:00"
+    },
+    {
+      "title": "劉建國北港3合1聯合服務處揭牌 蘇治芬出面為強棒組合打氣 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxRG05U1Zzb1E0dXFBS19tNldOelFkT0FNMTRUSHpDVDg5a3NZbk1reGo1em1La1ptc2ZQV0NTbHNqNFVabGt1Zk9rSnVLVS1OTFJZ0gFYQVVfeXFMTkkzQ2NKdGNCQnlnU3pRa1pxQnV1d3NRT004MFJqclEtYUViRnA3cDZyRUlZYWlHSUZkZVB2WUNMRW9POFpaSV9feFhjWE5xb3B1NXA3dzd2UA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-04 17:23:50"
+    },
+    {
+      "title": "育兒假擬擴大至6歲以下 立委劉建國籲完善制度：單親家庭與特殊需求兒童不能被忽略 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90N2Z3MHdCb1d3a3RaV2htdjBrMDdSQlEya3kyUjlnQ19vMm53OGdjdmJFV1JSNnhjVEp5VEZEcHFaVXBwem01YlhmSjh4T0JyNnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-04 17:14:00"
+    },
+    {
+      "title": "劉建國、蔡岳儒、吳雅雯聯合競總開幕 蘇治芬喊話：再創北港奇蹟 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52TUh1ZU4zcGFySnNRSlUzdnFuamktaGt2bjJtXzR6ay1PQ1l0ZzBjMmdIUzdyRTFMU044NE0zVlhGWVBiRmlQazFUNUdRSEwtN0dmQlBTMEpMQ1JQZ0VSSWZ6R1ZSSWNienfSAW9BVV95cUxORUNqdGd6Yl9MZm1oUnI5WFl0Q0VabXZHY0JrVEowSU01bnR2VVhxcXlmRHhzNHZucXhOMVV2VUpTWlVCdE15dm9Kd3hQTE1sU3A2WDBtdi1LWnVGV25oc0Q2X2VRdzM4ZnZCcWtpRFU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-04 17:06:24"
+    },
     {
       "title": "劉建國、吳雅雯、蔡岳儒北港聯合競選總部熱鬧揭牌 攜手打造北港成為「科技綠洲」 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNek9Ed2s4ck9JcnR3RU1jZGl3Z2NkZ2ZTanh2NmphLW5LX1ZtdUJ2YmJLVm90YVpheTBVWHM0ckszNTlBcVBvaGZLdXZ6VFpLejJQNERWb3JGWVhhbTREYWJyN2tuUTM2UjE4ZnB2QkpYUmhsNGM0OUFSWVVlc0pzS1VOX1Vud29ZREl4bGhoaXcwRGNfdFFsMFNkUF9VdWhydkFpdGpMeW1Dd0RMaEZGeHlVMVEyUTVUMGtWQmpOTDRHNVA0cC1SbHB0VkxjVG9lbU5BV0l2aGVmYlVSYnZaS1J4c1AzdDNqSUxoVWxPLVFMRG1VbjJKcXZJY3E2LWFNeGtWdUd6LWViN1lwaVVPUFQ0aVJKd01WR19qX2xjdE1wcUdBbllzNnNmaW11YjB0N3RVdV9XTng5NWVPN3EzNnhrc2E3YlItVzlKUmR3SVYtTTFsXzBESXBIUVZQa2REcDhtTkhyaWpxTjM3ek80M3NFdkRSV2hob1oyUVZ2eURWSnlUSkhXaldVdF94N0dXaEViQVR2alJUbDV0bEZReWt2c1BaS3dvaHBmcElrN1R0OU1PbUhfS1d6SWpnMFY1UWNHWmxyUkQ5VUplX1JGb2ZiSnUyWGZJdjVfa2RIYl9ZbVZj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -300,34 +450,14 @@
       "title": "虎尾、褒忠產業園區開發進度曝光 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPTzlWVlZOUDdsajdIQXhYNXkzNTJnWXdCUXhXb0R1eEY5a2lLbjlCOHRVTVNkQk1Tc1NfZUF5Z09fcERMcmdRZnpkcmpWTTF6QjF6cEVid1ZXLVBlWVJFNTh6NHJaLU5iR2xTcWd6WVNpM2ZfRF80dy1VUnZJYy00N3RxMlMyeVJBYTd3V2hIdW5RZ1hBQmpPcXFJRko1d0ZIaDIyRGI1dE9aV3l5UWlxSFF3OUN4WDFWZ0VhWHV5NHhoRDRGZkZNRWxjMzRMSkdla29ybWNnYU9CZ3BSY0xxWXRXdGt6NHB6WS1RUUxYUy1DbzlKRWdRcklPWDN6Nzk1T2syeVNDOEpKaF84c05Qd2pyc005V3lHZ0luTkhlekMtZmp5NklNTjN6c3g0Mk91Um5hS0N1UW1vM1QweVZRXzJmZWRVaTZxXzRfVkVNUzk1ckRTVlIxbmJneEp5enFDOWgwX21NcElSTDdKN0RNYndYQk9YTFZSQXFjcVg0UjZNYURSenFPcXJtbFpCT2JJcUxUc2ZzQVJhUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-01 15:41:45"
-    },
-    {
-      "title": "虎尾、褒忠產業園區開發進度曝光 張嘉郡促中央地方齊心拚發展 - PChome Online 股市",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQzdKWTRoR09KR25XOU5sME14b1VYdXdmNU42ZnFkUXpscW9Mb1BsblRxeFNlMHJWN3A1TFRVSE5nQWtDSXItZW9yMkhQRTk3WHJCUDFhbUFVUS1jcmM0SDdmNURDWThYNnhOdWtHZjJrX2VDNDlQX3k3TDJKWm5nVw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-01 15:41:45"
-    },
-    {
-      "title": "幕後／後院著火？雲林美女議員「遭賞巴掌」事件未歇 恐衝擊劉建國選情 - 鉅聞天下",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGUVBfeHJNTE5ubm9RblVuWTJMTXdyMGNEdnkxMjRIQkxra3JsN2hudWVvTlQya0pwZzg5Z3J5aUNrVklzTWg3cVhMYXRETWd0YWNybWpfMkV1ZFZxdWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-01 15:00:00"
-    },
-    {
-      "title": "雲林虎尾園區迎半導體封裝廠！張嘉郡攜經濟部現勘推進度 | 夏和宣 | 地方新聞 - 風傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OakxHWTBvMk9EQW1KeWJBdU5EY2c0dUJzeEJuUGlEOUt3cHR4cnVEMHRiT0dpZ2ZoOWFfSUowaWEzakJyVFJMNTU4OFJXQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-01 14:10:33"
-    },
-    {
-      "title": "立委劉建國爭取災後復建經費 青山坪明隧道竣工 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3elBIYjNaYVY5R2Y3Qi14Z0lHeWdpNDJ1TkJPdDRRMjQ5OU16UGc2SVAydUpDQXVXRVRPZnJJTHNhRm93Z01ndGgyZVJtak9aWmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-01 00:00:00"
-    },
-    {
-      "title": "雲林麥寮風機火警 劉建國：應引進高空滅火無人機 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaXzY4QlROZ0lOaXlacUt5WDIxQzJoell4MmZSWXhxYjFYNURrOFhGXy1yd19MWVYwRjRYZ0xUQnRuWnhwdEpPeHhMSVhsUDdRejA0aWV5bzFJMFJNSUg4eDBzT01CLWptUkHSAW9BVV95cUxOQWxHMUQtTDFGVnVOT01UYXVCY2laemkyQjBRYzJZbk43ZXBFamdVUGQ1ZXJ1Qkg3Y1VMOFZyQ3dHYVFrT3hBSkJXVnI5NW9ua09iVnpUeXoyRVRMQXhtb1djcWUyYmVUTXdoOVVPRWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-31 18:48:44"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "拒絕人口流失！建國攜手雅雯、岳儒，引進「健康產業園區」翻轉北港！ 今天（6/4）上午，我們的「#劉建國 #蔡岳儒 #吳雅雯 北港聯合競選總部」正式成立了！感謝醫界各位院長、校友會、獅子會、扶輪社、同黨同志 雲林縣議員蔡永富、 雲林縣議員蔡孟真 、 顏嘉葦 海口嘉+ - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi-gdBVV95cUxQSGgzS2QwUlcyNVd0YVBfaTl1ZGJ3c0RXQlZUcncxWnB6aF9GLTE0VkN0R0JsN1RpaDc1R0pwbXdkS2RnZV9FQWZrYUI3Y3ZtOXdqVHZZeFAyVXdXRkdaT2xLV2pjMmV4SUdVNks2cDcwRFhrQzVOVUQ5U0RkaTEyak10RnMxMFdOVFREcDBaY3lHOG5qbUxqNWpPNnRoZmF0Q2x2am1lUUpRLXhKZ0JCa1FzcXBpTnpGUFpwRnhCaC12MUlYWkU0M1lKbzd6ZW5XY2dKS3lGQVBHWjRuaFBxUXI3TkU5MUVMLTdGakZHT0NSWThVT2lNZmVzRmZLdkJ1bzJxX1IzMGl4MVFRUzVZU2xTU280XzFZOUNtR2JNX0xBTzFKcXBiV0RMTXNIZDVEWjhOUVI0elBRUEU4X3FGRGFPNE4wRW1aa1RzNGY4aGsxQlJjR3p3NnJVanJYQVhVcUhxM1B2ZU9iWFh0eTFiMGtYMV80SGJaVHBLcXZER2lZLWlIcUlTWTZQYWtMbHVqUGdZT3dKT1gwTTJrYTR3WGpJNWxBUklnT1FTd2VZaTRReGZlZHVhQWtrS0ZoNThfT2RmN3BlVnEwU1UwNUlRZVEwYzBnT2s1YzYzMGMyaWJLMWgwUFdEcTNIa1ktTDZ5d21kRWF4bHFJdHAxS2VNVmVhdmlsck5YV0ZJZnItS0IzcHozSi1qMVJQU01INFB6SERfZDJfMU1ZNGNfYWg5Y0I2MzRyZXl3OXlpcUF3OXZMcUNUSktpQ0lKaHBJR0pMVnBKal9uSTdhamE3ZWlSNk1Ha0haTjdaOVVCM0hueTVqc3FHMjkyNmp3aTVvcW5KckZudFlXVDVDYUl6eHZ0MHJIOU5uVm85SkJ6THo4OG1FZTJUb0dqZVd3UVlENk45YTRkb05pSTdOYTlhT2dpc0lVT2wyLW5Tb3diNHl0d0IzdFhOTUhYdlMxWlZxN3ZMaUNFZlhTNHNEV3VEckszZnpvblZraFkwMWVpaEwxdm9hOTBwVnU2Q01TS25BcEl3UmZheGI3dlFVNEZycmlkS2pSTEJ1cmR0ZmEyaWFrQlFRczhaMVN6VDQ1MTZMZDN3ZllfSThLR2k5T2hMLTl1ZDF2VVBPMWlXZTBhU09uc283M05ndlhVc2pYbVNuRkd3clJhbUczTHVvcGc3dkFweld2U1BZTjZocEk4N2l0dHhXbl9MRVRuaXpQeERSbHJkUjlBQUJoQU9xdEpwSWRmN0VDTWt1dXRIWFpEc0FFTXYxTHozSW56RGlNQ0doN3IzeHlONWpaWWtsRXowQ1pMVXB1NjZnRkN0SjRBd0FiOUNLdWlWSzliY19n",
+      "time": "2026-06-04 18:00:00"
+    },
     {
       "title": "已經公告了喔！好康來了⋯⋯ 115年補助肉雞🐔家禽冷鏈及設備升級 公告「115年建構肉雞及地方家禽產業冷鏈設施(備)升級現代化補助作業要點」。 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi-wVBVV95cUxQSU5GQk43VTltblVDRjVHVXhWdXo2Y2pYTW5TaGVfRjRNVlE5Q2xvcWFOM1BrblI1R20zTjFSTjZUYWtOdjFHLXlyYTlzUWpsWGpnemNCRnlCVG1melFrcGk4SzZxcXJEY2VleVNZTVJhNWVxQk44NWU5VWR0N2lNYUFHcTZfMWFzTm9LSWN3UGQzNk5lRXF1LXkxd0gzQnU1UHlyNWMwdmlOYW5QcnVtZXd6TFh4R2ktVHkyRkxXWnp2V25jYmY1bTFxeUhQbnlVX1VpVVRnamdoZlJyVmFHdWVQblAwSEh1eV9qTHVvd3A0a3p4MnNJMGxLaEtTRHQ4aUZxOVVhbTBiTkpHcEM2QkM2TVJaN3Y0YTdmVFNFX2JXbVAxTzBmYVFkWERlSFRVUlhSZWZkNXl2MGFPT0daU1F3VWZwZnUwMGpYdXhnTl9tTVRVWEExOHBlZy1XWkl3dVNNVmM1YmVscHE4OHJia25wSEZJdFhkVllLR3lSMWZqbHdGSHBzYUxUZG5QY0stdWI5c3lmMVRPcWpva2J1dnFjRml2SDd2dXZtQmxZM0V3N0cxd1d5Q2FnTE1MYmZtUmE1dWxhSmQ3TDB1ZUlhZDkzczZuNmFrbDNXZ1ZwbG9qdkVqRGp4cGJqQmszYzJaS0NUTDJfMmZVcDFDNEJiNlc5MHpXaXZ3QmJFdTQtdUNtN2I3eEdVMWxjS1BsSjlxcGl3Qm1FaFR2cWdQSkloMEJUMXZRZTZuT0NFNEVIZERuZXR5RXdORFpjeEdDQklCSW40SFZjSFYyM09WSTdGUGJ1VVMyT3Z1VWo5NnZKU2ZnaHg5Z0NPNXRMMU5nUjRmVlcxaVB3Q3VLVlBMZnFNcjdBQ2puRjlDbmtxdWdsSlJXLWxUOXhUMnZKbjlPWWFFSWd6Nk9ILVA5SG9LMW43X2hIcDQ5UmZGV0dxbXVsTDhEdjJZX3phbzg3SEFKSHB2eVI0c2F0ZkIxdndpdTRZc2U4WWdXdkgydF9v",
@@ -422,14 +552,34 @@
       "title": "當年恐嚇成空話！ 同婚7週年翻轉預言 劉建國：阿公阿嬤沒有消失 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQNHpBVWlpVHh6UUl2QWZoTjZfUnVfbWhfdnJ2MnJYT0RtU19EM0tnUTdsTC0yWHp1VGRGVk9ERFYtMF9BV19fRnVvUUg4V3JpaF9Xd2RGQVM2UXptRjlBbU1mN1N6SmVWN2dobjNicGpQOFR3UkxvX25feEhtZEE1QmUtNzgwYkRZRlpFOFVGdUR0YmlCbFU1eXVZWURQcmpOSmJDT0xROGo5OE90Nl9wb0xzSXVXaGh0QmhILU11S0Vla3QtSDNRSXhaNVo0b1ZiQTVHSWwtWjBqU1ZmbFJiV295VWN3aHVVd1Z4Z2NKZjNWUUFBNndYUlNBMWZMUWdlSklMMl9JTjROSHBpeEd5SjNWaUlrd3BtMW5CSUx2dVU3VEd5M0xtTmhwdEV1NHpqNzAwZ0pmbm1SN21haDVTRGRvM3cydjRscGNocTJLeGRLQUVsbXhQQWNsMFhmb2g1c2UyVE1heEszdlRfamlCVTIyb09EMk1halNDQml6QXp6bWs0YWVSS2kwdkNxVFhZSVVaaTM1UTREMngwMU1hdXl4dVo",
       "time": "2026-05-24 17:50:01"
-    },
-    {
-      "title": "真的是越吃越涮嘴😋 如果你來到雲林 除了風景、人情味 還有不能忘記的美味 這次嘉郡來到 #日成香肉鬆店 真的一吃就停不下來 店裡的肉乾、肉鬆選擇很多 而且堅持使用 #雲林豬 純肉製成 吃得到香氣與口感 也讓人更安心🐷 尤其讓人印象很深的是 這裡的肉乾不是 那 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMihAhBVV95cUxNd09uR0hPRF9pX1lHQnJnMmJIVHYzOEdYSEQ5RzNuUzFNOFhfRGV0SzljSXFIaTlLUHlUbFFENUNmenlueGhHc0hFb3BLaURqTXdUYlVxZlhLVnNZWG1teDFqWmlsOTl1Z2JYdjY2LWhnUWVpUWJnMjNyVi1NenFuWTFCa2hBZnEycE55emVIVU9Tai1KekVtOHBRZ1BMWDZZY1dlNHAtTXdzN2lFVWUzajNnRlU1bEhiYVBmT2VJOVRXNzBWQ29QYjh3UVV1UHRBZ3FMY3FIeFRpWU5XU2k1a25Nc1gtMVNQTnhiY1kzZS13Q1ZPdml1X1c0RVRBV3M4OEZzb1hFd2o3YUEwQXY1QV8yQUU1b1hpVFVmWHpZWEIxWVQtaXEyRGVuUlNYZzdMYUl4WTBiZkM3bWRuMFNrVUJ6SXFLcmZFWjdDRUNjakdFYUNxTXhRZjZzakFwMHh0TmFUb0lxdFEtLUV2R0lpMlk4cFAwTWFFX2ctRXdhdUJHbDBUNzVlZFZFaW5FemdCeGZYczM2Y2tSSjFqWElLcldvWnhPbm82MURsaXVhTHlkTDcyZDhROUtGdFR0MGlOUUVvb3hvRVZPTEZzSThYN3dsZEowcmpXWXo5cmkydTVabWJtckJoeVlGWXFtejcycl9kUDhBNmhfVFY2c1dWbVB5dlVpU2hYaUZRQk1US2l4MkhzRlU2UURSOTNzNFlvWWI4Vng0NGdEbWxObU8yUEtaSmxTQ1Z0MFVwdDlZQS01RWk5VGw0ZkJ3N0s4VFZfWEFKVDVhWnFGY19ySm1OZ01hcmpaUnM4MkJ3emJ6YldKS25MeFlORkEtOUozcUFaNV9OVHhHMWhGeklwTVphVVZqcU5Sb3hEY0lQbkNTRlE4Wk1fZmJjYUZsVHpZV2hNX3oxd0JvNHZXMGFHRWUxMm9ZMnVVbzJvaEFBUVlQNDR1d1dTN3F4cV96MWREMFBOTnJKR1FBd0xuRGVaVUstUVk4TEpTWkxnaDVid3lFbDdjZDZQOTlQTHpDWGVmb05Od0U3WUQxMjMzLWhvdUZaVzgteFp4TlhSY2x3bHRmY0JqV3VudEtJcklDNTJlaUxjUWVUX0dIclVOUmhlUWVfS2JwZFhUbF9JN29naTlWLW41LTZHc1FfNTJYMTEtclZKZEpqT0w3YmNMdGJLa25ycmVxRUJvVDluVUtZUGpWRzRNZ2dYWjlQVS1SazVGRk9VbDQzWHRKWHpNWW5oVFNPQjFEeGREYlB0SFZUdnp1Z0Q2eDdsamFJd2pkMkNxVVhJVmRma1JVbjF3bW5ETjRqNE5ZT0l5VWF0LVp5T19YRE9LczFxTG9SeENibkI5VVZPcjFCUQ",
-      "time": "2026-05-24 09:15:25"
     }
   ],
   "latest_news_20": [
+    {
+      "title": "劉建國領軍拚建設醫療 吳雅雯蔡岳儒攜手布局北港未來 - 元丰傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aaFQ4ZmE0eGp0WS01VWtlUkpLejFYWnY5Y1hNS1BURDFCU3FLX3NJN1VGUFZ3V0s5N0Ffay1rS2gxOG13THFxdC1lQTd0cU5WUEFXeE5LSDgxNUxJSWtJdzNDNl93R2JD?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-04 18:00:11"
+    },
+    {
+      "title": "劉建國攜手吳雅雯蔡岳儒開總部 北港選戰正式全面啟動 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tY3NkdkgxUlhPUVJaMFJ6OHJBbVNzN0FuWmdPZFhvS3h5Smt5UF9USV9JYXZFM2V4cTlVZTV6dzVMUmVlT0FBdG91a19PX19EdVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-04 17:55:00"
+    },
+    {
+      "title": "劉建國北港3合1聯合服務處揭牌 蘇治芬出面為強棒組合打氣 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxRG05U1Zzb1E0dXFBS19tNldOelFkT0FNMTRUSHpDVDg5a3NZbk1reGo1em1La1ptc2ZQV0NTbHNqNFVabGt1Zk9rSnVLVS1OTFJZ0gFYQVVfeXFMTkkzQ2NKdGNCQnlnU3pRa1pxQnV1d3NRT004MFJqclEtYUViRnA3cDZyRUlZYWlHSUZkZVB2WUNMRW9POFpaSV9feFhjWE5xb3B1NXA3dzd2UA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-04 17:23:50"
+    },
+    {
+      "title": "育兒假擬擴大至6歲以下 立委劉建國籲完善制度：單親家庭與特殊需求兒童不能被忽略 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90N2Z3MHdCb1d3a3RaV2htdjBrMDdSQlEya3kyUjlnQ19vMm53OGdjdmJFV1JSNnhjVEp5VEZEcHFaVXBwem01YlhmSjh4T0JyNnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-04 17:14:00"
+    },
+    {
+      "title": "劉建國、蔡岳儒、吳雅雯聯合競總開幕 蘇治芬喊話：再創北港奇蹟 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52TUh1ZU4zcGFySnNRSlUzdnFuamktaGt2bjJtXzR6ay1PQ1l0ZzBjMmdIUzdyRTFMU044NE0zVlhGWVBiRmlQazFUNUdRSEwtN0dmQlBTMEpMQ1JQZ0VSSWZ6R1ZSSWNienfSAW9BVV95cUxORUNqdGd6Yl9MZm1oUnI5WFl0Q0VabXZHY0JrVEowSU01bnR2VVhxcXlmRHhzNHZucXhOMVV2VUpTWlVCdE15dm9Kd3hQTE1sU3A2WDBtdi1LWnVGV25oc0Q2X2VRdzM4ZnZCcWtpRFU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-04 17:06:24"
+    },
     {
       "title": "劉建國、吳雅雯、蔡岳儒北港聯合競選總部熱鬧揭牌 攜手打造北港成為「科技綠洲」 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNek9Ed2s4ck9JcnR3RU1jZGl3Z2NkZ2ZTanh2NmphLW5LX1ZtdUJ2YmJLVm90YVpheTBVWHM0ckszNTlBcVBvaGZLdXZ6VFpLejJQNERWb3JGWVhhbTREYWJyN2tuUTM2UjE4ZnB2QkpYUmhsNGM0OUFSWVVlc0pzS1VOX1Vud29ZREl4bGhoaXcwRGNfdFFsMFNkUF9VdWhydkFpdGpMeW1Dd0RMaEZGeHlVMVEyUTVUMGtWQmpOTDRHNVA0cC1SbHB0VkxjVG9lbU5BV0l2aGVmYlVSYnZaS1J4c1AzdDNqSUxoVWxPLVFMRG1VbjJKcXZJY3E2LWFNeGtWdUd6LWViN1lwaVVPUFQ0aVJKd01WR19qX2xjdE1wcUdBbllzNnNmaW11YjB0N3RVdV9XTng5NWVPN3EzNnhrc2E3YlItVzlKUmR3SVYtTTFsXzBESXBIUVZQa2REcDhtTkhyaWpxTjM3ek80M3NFdkRSV2hob1oyUVZ2eURWSnlUSkhXaldVdF94N0dXaEViQVR2alJUbDV0bEZReWt2c1BaS3dvaHBmcElrN1R0OU1PbUhfS1d6SWpnMFY1UWNHWmxyUkQ5VUplX1JGb2ZiSnUyWGZJdjVfa2RIYl9ZbVZj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -504,31 +654,6 @@
       "title": "虎尾、褒忠產業園區開發進度曝光 張嘉郡促中央地方齊心拚發展 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPTzlWVlZOUDdsajdIQXhYNXkzNTJnWXdCUXhXb0R1eEY5a2lLbjlCOHRVTVNkQk1Tc1NfZUF5Z09fcERMcmdRZnpkcmpWTTF6QjF6cEVid1ZXLVBlWVJFNTh6NHJaLU5iR2xTcWd6WVNpM2ZfRF80dy1VUnZJYy00N3RxMlMyeVJBYTd3V2hIdW5RZ1hBQmpPcXFJRko1d0ZIaDIyRGI1dE9aV3l5UWlxSFF3OUN4WDFWZ0VhWHV5NHhoRDRGZkZNRWxjMzRMSkdla29ybWNnYU9CZ3BSY0xxWXRXdGt6NHB6WS1RUUxYUy1DbzlKRWdRcklPWDN6Nzk1T2syeVNDOEpKaF84c05Qd2pyc005V3lHZ0luTkhlekMtZmp5NklNTjN6c3g0Mk91Um5hS0N1UW1vM1QweVZRXzJmZWRVaTZxXzRfVkVNUzk1ckRTVlIxbmJneEp5enFDOWgwX21NcElSTDdKN0RNYndYQk9YTFZSQXFjcVg0UjZNYURSenFPcXJtbFpCT2JJcUxUc2ZzQVJhUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-01 15:41:45"
-    },
-    {
-      "title": "虎尾、褒忠產業園區開發進度曝光 張嘉郡促中央地方齊心拚發展 - PChome Online 股市",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQzdKWTRoR09KR25XOU5sME14b1VYdXdmNU42ZnFkUXpscW9Mb1BsblRxeFNlMHJWN3A1TFRVSE5nQWtDSXItZW9yMkhQRTk3WHJCUDFhbUFVUS1jcmM0SDdmNURDWThYNnhOdWtHZjJrX2VDNDlQX3k3TDJKWm5nVw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-01 15:41:45"
-    },
-    {
-      "title": "幕後／後院著火？雲林美女議員「遭賞巴掌」事件未歇 恐衝擊劉建國選情 - 鉅聞天下",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGUVBfeHJNTE5ubm9RblVuWTJMTXdyMGNEdnkxMjRIQkxra3JsN2hudWVvTlQya0pwZzg5Z3J5aUNrVklzTWg3cVhMYXRETWd0YWNybWpfMkV1ZFZxdWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-01 15:00:00"
-    },
-    {
-      "title": "雲林虎尾園區迎半導體封裝廠！張嘉郡攜經濟部現勘推進度 | 夏和宣 | 地方新聞 - 風傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OakxHWTBvMk9EQW1KeWJBdU5EY2c0dUJzeEJuUGlEOUt3cHR4cnVEMHRiT0dpZ2ZoOWFfSUowaWEzakJyVFJMNTU4OFJXQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-01 14:10:33"
-    },
-    {
-      "title": "立委劉建國爭取災後復建經費 青山坪明隧道竣工 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3elBIYjNaYVY5R2Y3Qi14Z0lHeWdpNDJ1TkJPdDRRMjQ5OU16UGc2SVAydUpDQXVXRVRPZnJJTHNhRm93Z01ndGgyZVJtak9aWmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-01 00:00:00"
-    },
-    {
-      "title": "雲林麥寮風機火警 劉建國：應引進高空滅火無人機 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaXzY4QlROZ0lOaXlacUt5WDIxQzJoell4MmZSWXhxYjFYNURrOFhGXy1yd19MWVYwRjRYZ0xUQnRuWnhwdEpPeHhMSVhsUDdRejA0aWV5bzFJMFJNSUg4eDBzT01CLWptUkHSAW9BVV95cUxOQWxHMUQtTDFGVnVOT01UYXVCY2laemkyQjBRYzJZbk43ZXBFamdVUGQ1ZXJ1Qkg3Y1VMOFZyQ3dHYVFrT3hBSkJXVnI5NW9ua09iVnpUeXoyRVRMQXhtb1djcWUyYmVUTXdoOVVPRWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-05-31 18:48:44"
     }
   ],
   "person_sections": {
@@ -741,6 +866,11 @@
     "劉建國": {
       "facebook": [
         {
+          "title": "拒絕人口流失！建國攜手雅雯、岳儒，引進「健康產業園區」翻轉北港！ 今天（6/4）上午，我們的「#劉建國 #蔡岳儒 #吳雅雯 北港聯合競選總部」正式成立了！感謝醫界各位院長、校友會、獅子會、扶輪社、同黨同志 雲林縣議員蔡永富、 雲林縣議員蔡孟真 、 顏嘉葦 海口嘉+ - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi-gdBVV95cUxQSGgzS2QwUlcyNVd0YVBfaTl1ZGJ3c0RXQlZUcncxWnB6aF9GLTE0VkN0R0JsN1RpaDc1R0pwbXdkS2RnZV9FQWZrYUI3Y3ZtOXdqVHZZeFAyVXdXRkdaT2xLV2pjMmV4SUdVNks2cDcwRFhrQzVOVUQ5U0RkaTEyak10RnMxMFdOVFREcDBaY3lHOG5qbUxqNWpPNnRoZmF0Q2x2am1lUUpRLXhKZ0JCa1FzcXBpTnpGUFpwRnhCaC12MUlYWkU0M1lKbzd6ZW5XY2dKS3lGQVBHWjRuaFBxUXI3TkU5MUVMLTdGakZHT0NSWThVT2lNZmVzRmZLdkJ1bzJxX1IzMGl4MVFRUzVZU2xTU280XzFZOUNtR2JNX0xBTzFKcXBiV0RMTXNIZDVEWjhOUVI0elBRUEU4X3FGRGFPNE4wRW1aa1RzNGY4aGsxQlJjR3p3NnJVanJYQVhVcUhxM1B2ZU9iWFh0eTFiMGtYMV80SGJaVHBLcXZER2lZLWlIcUlTWTZQYWtMbHVqUGdZT3dKT1gwTTJrYTR3WGpJNWxBUklnT1FTd2VZaTRReGZlZHVhQWtrS0ZoNThfT2RmN3BlVnEwU1UwNUlRZVEwYzBnT2s1YzYzMGMyaWJLMWgwUFdEcTNIa1ktTDZ5d21kRWF4bHFJdHAxS2VNVmVhdmlsck5YV0ZJZnItS0IzcHozSi1qMVJQU01INFB6SERfZDJfMU1ZNGNfYWg5Y0I2MzRyZXl3OXlpcUF3OXZMcUNUSktpQ0lKaHBJR0pMVnBKal9uSTdhamE3ZWlSNk1Ha0haTjdaOVVCM0hueTVqc3FHMjkyNmp3aTVvcW5KckZudFlXVDVDYUl6eHZ0MHJIOU5uVm85SkJ6THo4OG1FZTJUb0dqZVd3UVlENk45YTRkb05pSTdOYTlhT2dpc0lVT2wyLW5Tb3diNHl0d0IzdFhOTUhYdlMxWlZxN3ZMaUNFZlhTNHNEV3VEckszZnpvblZraFkwMWVpaEwxdm9hOTBwVnU2Q01TS25BcEl3UmZheGI3dlFVNEZycmlkS2pSTEJ1cmR0ZmEyaWFrQlFRczhaMVN6VDQ1MTZMZDN3ZllfSThLR2k5T2hMLTl1ZDF2VVBPMWlXZTBhU09uc283M05ndlhVc2pYbVNuRkd3clJhbUczTHVvcGc3dkFweld2U1BZTjZocEk4N2l0dHhXbl9MRVRuaXpQeERSbHJkUjlBQUJoQU9xdEpwSWRmN0VDTWt1dXRIWFpEc0FFTXYxTHozSW56RGlNQ0doN3IzeHlONWpaWWtsRXowQ1pMVXB1NjZnRkN0SjRBd0FiOUNLdWlWSzliY19n",
+          "time": "2026-06-04 18:00:00"
+        },
+        {
           "title": "劉建國 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVi13elhZRlNVSU0zbmFlMHlBVVdLNVdmQy10ZVFrZTluSjdlaWhjMTJZUnR0SmxqdXVlOUwxNXN0ZmFPMUdXXzBoMlBlaG16Sm9lQWMtcE9ZbS10bGJmR0ZxR0FROEx0WlBIdkJXdWZaeXhTQXFLWU42SWY4M2dMMUJTeUM",
           "time": "2026-06-03 06:48:12"
@@ -834,14 +964,34 @@
           "title": "醫美偷拍案延燒 劉建國要求衛福部啟動全國稽查 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPcVBCYTRBRUpmajBjX1JMT0oxdWxvcnY5dHhJbXVweWtpR0lvenBjX3R0YnRwSGZZN0szV2NtSHpiS2tvTFFlYWV4THF0X1NWNGdLNjRkRkZKaE5iY2F0VzVJbWZfNmNxRHRYOTI2VXNKZGl3LVFXSjhNYllHUEtXOWdZV244UExEczFuSUxDWks0cGVHeUtFRGE1Zk56d3dkN1lCUUZNZ0NicEdWTXNsYXV4VUZ5VkRYa1dMUVVkX2IzVjc0T0o5emJVd24tZWpzLU1WS2N5dnBpT3BSRHk4aklpdkszT0dXTE11bDJrRWJQclVBSTBpU3ZLeVhYaUhGNW40OGZLSEJoQ24zWUxUVWlVQnBFbXQ5dmp2RVVFM3BtNTgxR1NncmM5Um0xS1hSNzRDY2RJLVhTaXVYUUdmMnYwbkwyS2NSeWRnc1RITzNvWEM5VC12cnpaY3BrWG1nRmhVSXExaEhlbDlD",
           "time": "2026-05-11 18:30:28"
-        },
-        {
-          "title": "張嘉郡留心！ 劉建國領軍搶回雲林 「綠營第二波徵召名單曝光」 - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQV21XSEdfLUtIRkZBZzh2UVkzTE5QZF9neUoybE9VcFF5Q0F4TnZuVFR0SGlDb3U5aF9UUjh5UWV4N1JValhGZGE0aV9EVW1nWl9qUXVqaWFwTmdFSnFfaU9xdDI1elh1SWhRYUs5TExORi1WVUF2TjNrSzV1MVdESEQyMk1zd0x0WWRfRlhkUzdBLWVIZDVCWTF6UDZ6eHBnVk1KbGRnM0Y3UzNCMk5LR3hiZlFMYW9QcWJRUVkzWjk0TjJGT2VzZGdpdmx0eDRLaDhYei1QT2phM2JLbHVGdThlak5oSDR4dU9OR2xiVGxXMVNHeUJVUzJsV1hwcUplR1dTRll1OFJCaUZ5cGpCcnZHMGhHdWZjdHJPV3ktZDVLb0RHZFRfazVVRURGT3o0QjVQTjRHSUhpeVpySDJzNmp0S2Y4a2d5Zm9yVmhTdzdPWmhDOXhGS3M4LWJremV5bUZjaDZDVWNFdnhpSklfUTNTQWhFdEVqazQwRkgyQi1STGNNZzNhT2hEYk5JRGFrd0s0TVdIOA",
-          "time": "2026-05-09 12:15:55"
         }
       ],
       "news": [
+        {
+          "title": "劉建國領軍拚建設醫療 吳雅雯蔡岳儒攜手布局北港未來 - 元丰傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aaFQ4ZmE0eGp0WS01VWtlUkpLejFYWnY5Y1hNS1BURDFCU3FLX3NJN1VGUFZ3V0s5N0Ffay1rS2gxOG13THFxdC1lQTd0cU5WUEFXeE5LSDgxNUxJSWtJdzNDNl93R2JD?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-04 18:00:11"
+        },
+        {
+          "title": "劉建國攜手吳雅雯蔡岳儒開總部 北港選戰正式全面啟動 - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tY3NkdkgxUlhPUVJaMFJ6OHJBbVNzN0FuWmdPZFhvS3h5Smt5UF9USV9JYXZFM2V4cTlVZTV6dzVMUmVlT0FBdG91a19PX19EdVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-04 17:55:00"
+        },
+        {
+          "title": "劉建國北港3合1聯合服務處揭牌 蘇治芬出面為強棒組合打氣 - UDN",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxRG05U1Zzb1E0dXFBS19tNldOelFkT0FNMTRUSHpDVDg5a3NZbk1reGo1em1La1ptc2ZQV0NTbHNqNFVabGt1Zk9rSnVLVS1OTFJZ0gFYQVVfeXFMTkkzQ2NKdGNCQnlnU3pRa1pxQnV1d3NRT004MFJqclEtYUViRnA3cDZyRUlZYWlHSUZkZVB2WUNMRW9POFpaSV9feFhjWE5xb3B1NXA3dzd2UA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-04 17:23:50"
+        },
+        {
+          "title": "育兒假擬擴大至6歲以下 立委劉建國籲完善制度：單親家庭與特殊需求兒童不能被忽略 - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90N2Z3MHdCb1d3a3RaV2htdjBrMDdSQlEya3kyUjlnQ19vMm53OGdjdmJFV1JSNnhjVEp5VEZEcHFaVXBwem01YlhmSjh4T0JyNnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-04 17:14:00"
+        },
+        {
+          "title": "劉建國、蔡岳儒、吳雅雯聯合競總開幕 蘇治芬喊話：再創北港奇蹟 - 自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52TUh1ZU4zcGFySnNRSlUzdnFuamktaGt2bjJtXzR6ay1PQ1l0ZzBjMmdIUzdyRTFMU044NE0zVlhGWVBiRmlQazFUNUdRSEwtN0dmQlBTMEpMQ1JQZ0VSSWZ6R1ZSSWNienfSAW9BVV95cUxORUNqdGd6Yl9MZm1oUnI5WFl0Q0VabXZHY0JrVEowSU01bnR2VVhxcXlmRHhzNHZucXhOMVV2VUpTWlVCdE15dm9Kd3hQTE1sU3A2WDBtdi1LWnVGV25oc0Q2X2VRdzM4ZnZCcWtpRFU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-04 17:06:24"
+        },
         {
           "title": "劉建國、吳雅雯、蔡岳儒北港聯合競選總部熱鬧揭牌 攜手打造北港成為「科技綠洲」 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNek9Ed2s4ck9JcnR3RU1jZGl3Z2NkZ2ZTanh2NmphLW5LX1ZtdUJ2YmJLVm90YVpheTBVWHM0ckszNTlBcVBvaGZLdXZ6VFpLejJQNERWb3JGWVhhbTREYWJyN2tuUTM2UjE4ZnB2QkpYUmhsNGM0OUFSWVVlc0pzS1VOX1Vud29ZREl4bGhoaXcwRGNfdFFsMFNkUF9VdWhydkFpdGpMeW1Dd0RMaEZGeHlVMVEyUTVUMGtWQmpOTDRHNVA0cC1SbHB0VkxjVG9lbU5BV0l2aGVmYlVSYnZaS1J4c1AzdDNqSUxoVWxPLVFMRG1VbjJKcXZJY3E2LWFNeGtWdUd6LWViN1lwaVVPUFQ0aVJKd01WR19qX2xjdE1wcUdBbllzNnNmaW11YjB0N3RVdV9XTng5NWVPN3EzNnhrc2E3YlItVzlKUmR3SVYtTTFsXzBESXBIUVZQa2REcDhtTkhyaWpxTjM3ek80M3NFdkRSV2hob1oyUVZ2eURWSnlUSkhXaldVdF94N0dXaEViQVR2alJUbDV0bEZReWt2c1BaS3dvaHBmcElrN1R0OU1PbUhfS1d6SWpnMFY1UWNHWmxyUkQ5VUplX1JGb2ZiSnUyWGZJdjVfa2RIYl9ZbVZj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -916,37 +1066,37 @@
           "title": "消防隊員超勤加班 立委劉建國：不能用嘉獎代替 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNbnM3SUd5YWk0NUhzWjFabF9YWmJRY0wxTjcyd2hzbDVxLUp2VnVYUlBMZ3NudmRDOGx1WW5sNUdQRjZLMUxmZlh4RllXa0h3UzNuTFA0bFZpU0JvOXI1Ukt6WkVERFNfNjlIb3ZKNmh2ZmQxa1YyVnlpaTVIZkN2c21UaGd0QWx0T3g4ZHpNamQtWHVqTUJrQkl3N3BHeFc2SnUtVUlVUmFGR2FzNnd5enVmY2VjWl9kTFBTV0NrQU5SUDNzNkNyM3hmSkpQeWNLOHJxLTNJZGZITW5XTXJOdWpLUVptUFNCZ1FXTG50ek4zVm5fQXFKeFRlME5DRWg4M1pqTzdLalRLcFI4d0xfeW5vZGJCcHliRHVjQjB6NUtVb2FhVHJ1TV9xcldZRklESFJvNzJDcmF4djFmWTVzVzhNb0JYUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-05-30 12:39:28"
-        },
-        {
-          "title": "消防弟兄出生入死 劉建國籲依法補償超勤加班費 - 元丰傳媒",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGZtTlc1dlFQalNreG1jTTFmR3haWUhNa3l4N09FZDBOVTgzQ2FaQ0FtcUh6ZTV3RjJobmxpZVR2eVdxcEdKX0F2RlZkS0hGSDJwY3JFTTVTcXBrak9iVl9pV3N5MWhLdEt5b3VzeXYyd2d2SldiNHh4cVVTU2drTGRKRVZqQWtVX3p6YmJ1eGdCU1k3ZVZINzNGa0tDZ2lnVG5uVkNGNUMzdHg4U3p3WQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-30 11:14:26"
-        },
-        {
-          "title": "「消防隊員超勤加班，不能用嘉獎代替！」 雲林立委劉建國強調：加班就是加班，相關補償應依法辦理！ - 台灣華報",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uQkhTdVNrblI3RXpQUW9WclAxNjZEYU9MT2FFcXBzMHRQMF9CZ0loVl9ld3pCWHUtaVJXVEo2MklGbGtPRnNtR2dydHZnT0ZWV1FjUzh1N2xSYzhuU3JDOVNNUDR1bm5EYmxJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-30 00:00:47"
-        },
-        {
-          "title": "「消防隊員超勤加班，不能用嘉獎代替！」 雲林立委劉建國強調：加班就是加班，相關補償應依法辦理！ - 台灣華報",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrOEZjQkcwdUhyeFBSQjVtNllxOVhJNExhQUhGSEozMUpsak1lb1k2NE1ZUmtzbGpkazM1MnhuMElwbE1WNmZrSVk3cWFKVzNWRTdxTFNiNWNMVmpvRUVEd2tobERaZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-30 00:00:47"
-        },
-        {
-          "title": "消防隊員超勤加班 劉建國：不能用嘉獎取代 - 大纪元",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVMzFENVVaSFpMWUJLT3FQZFhKbDBjV05zRzVzUjRaaHFrYXZMMU9CX042TmF6WU0wWGVySzJmWkhGLXVlQjRBUWlkYjg2MUlldjMtQ0dNX2ZYbHlZTmZSdtIBZkFVX3lxTE1wTnFJWXpjY3NpMGFiRFNQWjJPWkNYb09GWTF1dHM3MlhZSHlJekhIck1RNGJpY1oxbEJZMFNfb29jejZtMEpUcTVHVnBsemExNnUtZldEaU1XNTcxSDRGYUFxa2g4UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-29 20:02:00"
-        },
-        {
-          "title": "消防隊員超勤加班 劉建國：不能用嘉獎取代 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPRzZFYy04LWxZaWJhaTVEaVZqQnZnWmpJaUNLYzk4ekc0UGY2bWtLS3NfVHFCM1lhWW83VFVMeEQwM2ZzQ1BfMXpKUGFqUkN6UFkyYjVjZkRrU2V2QmJITkh2S0Z5bGVYY1NGNXEySmZJZ0kyYkRBUnl6Mk9zZm1Ma2xTWHhEY1BseTFQMnpQcGItOXRMREhDaGlITHc1dHd6TUtmQlF4X1MxWTItakhWbFY3NkxPS09ETFh6TG5feU9ub3NUU0I1YTgybEd6UDZucnlyalkwRVJCRWZDbXIweEZEVnFLZVVxdGtiMWZlSElxSmgtQUZOOF9odzVQQTJRRlBBX09QZ2pUV2x6WS1JUi1pMzRlNE01V1NoQmIwVDNzeFp3VXZRUHlCS3g2UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-05-29 17:49:39"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國領軍拚建設醫療 吳雅雯蔡岳儒攜手布局北港未來 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aaFQ4ZmE0eGp0WS01VWtlUkpLejFYWnY5Y1hNS1BURDFCU3FLX3NJN1VGUFZ3V0s5N0Ffay1rS2gxOG13THFxdC1lQTd0cU5WUEFXeE5LSDgxNUxJSWtJdzNDNl93R2JD?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 18:00:11"
+      },
+      {
+        "title": "劉建國攜手吳雅雯蔡岳儒開總部 北港選戰正式全面啟動 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tY3NkdkgxUlhPUVJaMFJ6OHJBbVNzN0FuWmdPZFhvS3h5Smt5UF9USV9JYXZFM2V4cTlVZTV6dzVMUmVlT0FBdG91a19PX19EdVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 17:55:00"
+      },
+      {
+        "title": "劉建國北港3合1聯合服務處揭牌 蘇治芬出面為強棒組合打氣 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxRG05U1Zzb1E0dXFBS19tNldOelFkT0FNMTRUSHpDVDg5a3NZbk1reGo1em1La1ptc2ZQV0NTbHNqNFVabGt1Zk9rSnVLVS1OTFJZ0gFYQVVfeXFMTkkzQ2NKdGNCQnlnU3pRa1pxQnV1d3NRT004MFJqclEtYUViRnA3cDZyRUlZYWlHSUZkZVB2WUNMRW9POFpaSV9feFhjWE5xb3B1NXA3dzd2UA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 17:23:50"
+      },
+      {
+        "title": "育兒假擬擴大至6歲以下 立委劉建國籲完善制度：單親家庭與特殊需求兒童不能被忽略 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90N2Z3MHdCb1d3a3RaV2htdjBrMDdSQlEya3kyUjlnQ19vMm53OGdjdmJFV1JSNnhjVEp5VEZEcHFaVXBwem01YlhmSjh4T0JyNnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 17:14:00"
+      },
+      {
+        "title": "劉建國、蔡岳儒、吳雅雯聯合競總開幕 蘇治芬喊話：再創北港奇蹟 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52TUh1ZU4zcGFySnNRSlUzdnFuamktaGt2bjJtXzR6ay1PQ1l0ZzBjMmdIUzdyRTFMU044NE0zVlhGWVBiRmlQazFUNUdRSEwtN0dmQlBTMEpMQ1JQZ0VSSWZ6R1ZSSWNienfSAW9BVV95cUxORUNqdGd6Yl9MZm1oUnI5WFl0Q0VabXZHY0JrVEowSU01bnR2VVhxcXlmRHhzNHZucXhOMVV2VUpTWlVCdE15dm9Kd3hQTE1sU3A2WDBtdi1LWnVGV25oc0Q2X2VRdzM4ZnZCcWtpRFU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 17:06:24"
+      },
       {
         "title": "劉建國、吳雅雯、蔡岳儒北港聯合競選總部熱鬧揭牌 攜手打造北港成為「科技綠洲」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNek9Ed2s4ck9JcnR3RU1jZGl3Z2NkZ2ZTanh2NmphLW5LX1ZtdUJ2YmJLVm90YVpheTBVWHM0ckszNTlBcVBvaGZLdXZ6VFpLejJQNERWb3JGWVhhbTREYWJyN2tuUTM2UjE4ZnB2QkpYUmhsNGM0OUFSWVVlc0pzS1VOX1Vud29ZREl4bGhoaXcwRGNfdFFsMFNkUF9VdWhydkFpdGpMeW1Dd0RMaEZGeHlVMVEyUTVUMGtWQmpOTDRHNVA0cC1SbHB0VkxjVG9lbU5BV0l2aGVmYlVSYnZaS1J4c1AzdDNqSUxoVWxPLVFMRG1VbjJKcXZJY3E2LWFNeGtWdUd6LWViN1lwaVVPUFQ0aVJKd01WR19qX2xjdE1wcUdBbllzNnNmaW11YjB0N3RVdV9XTng5NWVPN3EzNnhrc2E3YlItVzlKUmR3SVYtTTFsXzBESXBIUVZQa2REcDhtTkhyaWpxTjM3ek80M3NFdkRSV2hob1oyUVZ2eURWSnlUSkhXaldVdF94N0dXaEViQVR2alJUbDV0bEZReWt2c1BaS3dvaHBmcElrN1R0OU1PbUhfS1d6SWpnMFY1UWNHWmxyUkQ5VUplX1JGb2ZiSnUyWGZJdjVfa2RIYl9ZbVZj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -957,10 +1107,49 @@
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZMzRYYVVFbTlUYjloU1U0M2pMTzIyMjFhSEZ0TmYzVUtva1U0NXlBSnNoR1hRY3pNQ3RNeDg5aENRcXZLem9yNEtHSHRodTNSSkJCY2lkSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-04 13:37:58"
       }
+    ],
+    "facebook": [
+      {
+        "title": "拒絕人口流失！建國攜手雅雯、岳儒，引進「健康產業園區」翻轉北港！ 今天（6/4）上午，我們的「#劉建國 #蔡岳儒 #吳雅雯 北港聯合競選總部」正式成立了！感謝醫界各位院長、校友會、獅子會、扶輪社、同黨同志 雲林縣議員蔡永富、 雲林縣議員蔡孟真 、 顏嘉葦 海口嘉+ - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi-gdBVV95cUxQSGgzS2QwUlcyNVd0YVBfaTl1ZGJ3c0RXQlZUcncxWnB6aF9GLTE0VkN0R0JsN1RpaDc1R0pwbXdkS2RnZV9FQWZrYUI3Y3ZtOXdqVHZZeFAyVXdXRkdaT2xLV2pjMmV4SUdVNks2cDcwRFhrQzVOVUQ5U0RkaTEyak10RnMxMFdOVFREcDBaY3lHOG5qbUxqNWpPNnRoZmF0Q2x2am1lUUpRLXhKZ0JCa1FzcXBpTnpGUFpwRnhCaC12MUlYWkU0M1lKbzd6ZW5XY2dKS3lGQVBHWjRuaFBxUXI3TkU5MUVMLTdGakZHT0NSWThVT2lNZmVzRmZLdkJ1bzJxX1IzMGl4MVFRUzVZU2xTU280XzFZOUNtR2JNX0xBTzFKcXBiV0RMTXNIZDVEWjhOUVI0elBRUEU4X3FGRGFPNE4wRW1aa1RzNGY4aGsxQlJjR3p3NnJVanJYQVhVcUhxM1B2ZU9iWFh0eTFiMGtYMV80SGJaVHBLcXZER2lZLWlIcUlTWTZQYWtMbHVqUGdZT3dKT1gwTTJrYTR3WGpJNWxBUklnT1FTd2VZaTRReGZlZHVhQWtrS0ZoNThfT2RmN3BlVnEwU1UwNUlRZVEwYzBnT2s1YzYzMGMyaWJLMWgwUFdEcTNIa1ktTDZ5d21kRWF4bHFJdHAxS2VNVmVhdmlsck5YV0ZJZnItS0IzcHozSi1qMVJQU01INFB6SERfZDJfMU1ZNGNfYWg5Y0I2MzRyZXl3OXlpcUF3OXZMcUNUSktpQ0lKaHBJR0pMVnBKal9uSTdhamE3ZWlSNk1Ha0haTjdaOVVCM0hueTVqc3FHMjkyNmp3aTVvcW5KckZudFlXVDVDYUl6eHZ0MHJIOU5uVm85SkJ6THo4OG1FZTJUb0dqZVd3UVlENk45YTRkb05pSTdOYTlhT2dpc0lVT2wyLW5Tb3diNHl0d0IzdFhOTUhYdlMxWlZxN3ZMaUNFZlhTNHNEV3VEckszZnpvblZraFkwMWVpaEwxdm9hOTBwVnU2Q01TS25BcEl3UmZheGI3dlFVNEZycmlkS2pSTEJ1cmR0ZmEyaWFrQlFRczhaMVN6VDQ1MTZMZDN3ZllfSThLR2k5T2hMLTl1ZDF2VVBPMWlXZTBhU09uc283M05ndlhVc2pYbVNuRkd3clJhbUczTHVvcGc3dkFweld2U1BZTjZocEk4N2l0dHhXbl9MRVRuaXpQeERSbHJkUjlBQUJoQU9xdEpwSWRmN0VDTWt1dXRIWFpEc0FFTXYxTHozSW56RGlNQ0doN3IzeHlONWpaWWtsRXowQ1pMVXB1NjZnRkN0SjRBd0FiOUNLdWlWSzliY19n",
+        "time": "2026-06-04 18:00:00"
+      }
+    ],
+    "youtube": [
+      {
+        "title": "早上媒體朋友問我，對黃國昌新書其中一頁內容引發的爭議有什麼看法，以下是我的回應： 為洪慈庸感到不捨。 黃國昌明知內情，卻在書中呈現這樣的內容，非常不人道，也是對他前同志的不尊重。",
+        "url": "https://www.youtube.com/shorts/FeQ5_pBYqss",
+        "time": "2026-06-04 17:36:25"
+      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "劉建國領軍拚建設醫療 吳雅雯蔡岳儒攜手布局北港未來 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aaFQ4ZmE0eGp0WS01VWtlUkpLejFYWnY5Y1hNS1BURDFCU3FLX3NJN1VGUFZ3V0s5N0Ffay1rS2gxOG13THFxdC1lQTd0cU5WUEFXeE5LSDgxNUxJSWtJdzNDNl93R2JD?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 18:00:11"
+      },
+      {
+        "title": "劉建國攜手吳雅雯蔡岳儒開總部 北港選戰正式全面啟動 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tY3NkdkgxUlhPUVJaMFJ6OHJBbVNzN0FuWmdPZFhvS3h5Smt5UF9USV9JYXZFM2V4cTlVZTV6dzVMUmVlT0FBdG91a19PX19EdVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 17:55:00"
+      },
+      {
+        "title": "劉建國北港3合1聯合服務處揭牌 蘇治芬出面為強棒組合打氣 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxRG05U1Zzb1E0dXFBS19tNldOelFkT0FNMTRUSHpDVDg5a3NZbk1reGo1em1La1ptc2ZQV0NTbHNqNFVabGt1Zk9rSnVLVS1OTFJZ0gFYQVVfeXFMTkkzQ2NKdGNCQnlnU3pRa1pxQnV1d3NRT004MFJqclEtYUViRnA3cDZyRUlZYWlHSUZkZVB2WUNMRW9POFpaSV9feFhjWE5xb3B1NXA3dzd2UA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 17:23:50"
+      },
+      {
+        "title": "育兒假擬擴大至6歲以下 立委劉建國籲完善制度：單親家庭與特殊需求兒童不能被忽略 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90N2Z3MHdCb1d3a3RaV2htdjBrMDdSQlEya3kyUjlnQ19vMm53OGdjdmJFV1JSNnhjVEp5VEZEcHFaVXBwem01YlhmSjh4T0JyNnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 17:14:00"
+      },
+      {
+        "title": "劉建國、蔡岳儒、吳雅雯聯合競總開幕 蘇治芬喊話：再創北港奇蹟 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52TUh1ZU4zcGFySnNRSlUzdnFuamktaGt2bjJtXzR6ay1PQ1l0ZzBjMmdIUzdyRTFMU044NE0zVlhGWVBiRmlQazFUNUdRSEwtN0dmQlBTMEpMQ1JQZ0VSSWZ6R1ZSSWNienfSAW9BVV95cUxORUNqdGd6Yl9MZm1oUnI5WFl0Q0VabXZHY0JrVEowSU01bnR2VVhxcXlmRHhzNHZucXhOMVV2VUpTWlVCdE15dm9Kd3hQTE1sU3A2WDBtdi1LWnVGV25oc0Q2X2VRdzM4ZnZCcWtpRFU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 17:06:24"
+      },
       {
         "title": "劉建國、吳雅雯、蔡岳儒北港聯合競選總部熱鬧揭牌 攜手打造北港成為「科技綠洲」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNek9Ed2s4ck9JcnR3RU1jZGl3Z2NkZ2ZTanh2NmphLW5LX1ZtdUJ2YmJLVm90YVpheTBVWHM0ckszNTlBcVBvaGZLdXZ6VFpLejJQNERWb3JGWVhhbTREYWJyN2tuUTM2UjE4ZnB2QkpYUmhsNGM0OUFSWVVlc0pzS1VOX1Vud29ZREl4bGhoaXcwRGNfdFFsMFNkUF9VdWhydkFpdGpMeW1Dd0RMaEZGeHlVMVEyUTVUMGtWQmpOTDRHNVA0cC1SbHB0VkxjVG9lbU5BV0l2aGVmYlVSYnZaS1J4c1AzdDNqSUxoVWxPLVFMRG1VbjJKcXZJY3E2LWFNeGtWdUd6LWViN1lwaVVPUFQ0aVJKd01WR19qX2xjdE1wcUdBbllzNnNmaW11YjB0N3RVdV9XTng5NWVPN3EzNnhrc2E3YlItVzlKUmR3SVYtTTFsXzBESXBIUVZQa2REcDhtTkhyaWpxTjM3ek80M3NFdkRSV2hob1oyUVZ2eURWSnlUSkhXaldVdF94N0dXaEViQVR2alJUbDV0bEZReWt2c1BaS3dvaHBmcElrN1R0OU1PbUhfS1d6SWpnMFY1UWNHWmxyUkQ5VUplX1JGb2ZiSnUyWGZJdjVfa2RIYl9ZbVZj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1129,6 +1318,11 @@
     ],
     "facebook": [
       {
+        "title": "拒絕人口流失！建國攜手雅雯、岳儒，引進「健康產業園區」翻轉北港！ 今天（6/4）上午，我們的「#劉建國 #蔡岳儒 #吳雅雯 北港聯合競選總部」正式成立了！感謝醫界各位院長、校友會、獅子會、扶輪社、同黨同志 雲林縣議員蔡永富、 雲林縣議員蔡孟真 、 顏嘉葦 海口嘉+ - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi-gdBVV95cUxQSGgzS2QwUlcyNVd0YVBfaTl1ZGJ3c0RXQlZUcncxWnB6aF9GLTE0VkN0R0JsN1RpaDc1R0pwbXdkS2RnZV9FQWZrYUI3Y3ZtOXdqVHZZeFAyVXdXRkdaT2xLV2pjMmV4SUdVNks2cDcwRFhrQzVOVUQ5U0RkaTEyak10RnMxMFdOVFREcDBaY3lHOG5qbUxqNWpPNnRoZmF0Q2x2am1lUUpRLXhKZ0JCa1FzcXBpTnpGUFpwRnhCaC12MUlYWkU0M1lKbzd6ZW5XY2dKS3lGQVBHWjRuaFBxUXI3TkU5MUVMLTdGakZHT0NSWThVT2lNZmVzRmZLdkJ1bzJxX1IzMGl4MVFRUzVZU2xTU280XzFZOUNtR2JNX0xBTzFKcXBiV0RMTXNIZDVEWjhOUVI0elBRUEU4X3FGRGFPNE4wRW1aa1RzNGY4aGsxQlJjR3p3NnJVanJYQVhVcUhxM1B2ZU9iWFh0eTFiMGtYMV80SGJaVHBLcXZER2lZLWlIcUlTWTZQYWtMbHVqUGdZT3dKT1gwTTJrYTR3WGpJNWxBUklnT1FTd2VZaTRReGZlZHVhQWtrS0ZoNThfT2RmN3BlVnEwU1UwNUlRZVEwYzBnT2s1YzYzMGMyaWJLMWgwUFdEcTNIa1ktTDZ5d21kRWF4bHFJdHAxS2VNVmVhdmlsck5YV0ZJZnItS0IzcHozSi1qMVJQU01INFB6SERfZDJfMU1ZNGNfYWg5Y0I2MzRyZXl3OXlpcUF3OXZMcUNUSktpQ0lKaHBJR0pMVnBKal9uSTdhamE3ZWlSNk1Ha0haTjdaOVVCM0hueTVqc3FHMjkyNmp3aTVvcW5KckZudFlXVDVDYUl6eHZ0MHJIOU5uVm85SkJ6THo4OG1FZTJUb0dqZVd3UVlENk45YTRkb05pSTdOYTlhT2dpc0lVT2wyLW5Tb3diNHl0d0IzdFhOTUhYdlMxWlZxN3ZMaUNFZlhTNHNEV3VEckszZnpvblZraFkwMWVpaEwxdm9hOTBwVnU2Q01TS25BcEl3UmZheGI3dlFVNEZycmlkS2pSTEJ1cmR0ZmEyaWFrQlFRczhaMVN6VDQ1MTZMZDN3ZllfSThLR2k5T2hMLTl1ZDF2VVBPMWlXZTBhU09uc283M05ndlhVc2pYbVNuRkd3clJhbUczTHVvcGc3dkFweld2U1BZTjZocEk4N2l0dHhXbl9MRVRuaXpQeERSbHJkUjlBQUJoQU9xdEpwSWRmN0VDTWt1dXRIWFpEc0FFTXYxTHozSW56RGlNQ0doN3IzeHlONWpaWWtsRXowQ1pMVXB1NjZnRkN0SjRBd0FiOUNLdWlWSzliY19n",
+        "time": "2026-06-04 18:00:00"
+      },
+      {
         "title": "已經公告了喔！好康來了⋯⋯ 115年補助肉雞🐔家禽冷鏈及設備升級 公告「115年建構肉雞及地方家禽產業冷鏈設施(備)升級現代化補助作業要點」。 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi-wVBVV95cUxQSU5GQk43VTltblVDRjVHVXhWdXo2Y2pYTW5TaGVfRjRNVlE5Q2xvcWFOM1BrblI1R20zTjFSTjZUYWtOdjFHLXlyYTlzUWpsWGpnemNCRnlCVG1melFrcGk4SzZxcXJEY2VleVNZTVJhNWVxQk44NWU5VWR0N2lNYUFHcTZfMWFzTm9LSWN3UGQzNk5lRXF1LXkxd0gzQnU1UHlyNWMwdmlOYW5QcnVtZXd6TFh4R2ktVHkyRkxXWnp2V25jYmY1bTFxeUhQbnlVX1VpVVRnamdoZlJyVmFHdWVQblAwSEh1eV9qTHVvd3A0a3p4MnNJMGxLaEtTRHQ4aUZxOVVhbTBiTkpHcEM2QkM2TVJaN3Y0YTdmVFNFX2JXbVAxTzBmYVFkWERlSFRVUlhSZWZkNXl2MGFPT0daU1F3VWZwZnUwMGpYdXhnTl9tTVRVWEExOHBlZy1XWkl3dVNNVmM1YmVscHE4OHJia25wSEZJdFhkVllLR3lSMWZqbHdGSHBzYUxUZG5QY0stdWI5c3lmMVRPcWpva2J1dnFjRml2SDd2dXZtQmxZM0V3N0cxd1d5Q2FnTE1MYmZtUmE1dWxhSmQ3TDB1ZUlhZDkzczZuNmFrbDNXZ1ZwbG9qdkVqRGp4cGJqQmszYzJaS0NUTDJfMmZVcDFDNEJiNlc5MHpXaXZ3QmJFdTQtdUNtN2I3eEdVMWxjS1BsSjlxcGl3Qm1FaFR2cWdQSkloMEJUMXZRZTZuT0NFNEVIZERuZXR5RXdORFpjeEdDQklCSW40SFZjSFYyM09WSTdGUGJ1VVMyT3Z1VWo5NnZKU2ZnaHg5Z0NPNXRMMU5nUjRmVlcxaVB3Q3VLVlBMZnFNcjdBQ2puRjlDbmtxdWdsSlJXLWxUOXhUMnZKbjlPWWFFSWd6Nk9ILVA5SG9LMW43X2hIcDQ5UmZGV0dxbXVsTDhEdjJZX3phbzg3SEFKSHB2eVI0c2F0ZkIxdndpdTRZc2U4WWdXdkgydF9v",
         "time": "2026-06-03 11:00:13"
@@ -1198,12 +1392,69 @@
         "url": "https://news.google.com/rss/articles/CBMi_gdBVV95cUxPWmpqMU5CSTJhUGtOaTFsM2wwWDRPRjlFWmQwczlRT1JwUTZvV2xTVXlFV203dW5TRmhFM0toenJUVV91ZHVsLWxfSTJKaXp0MC00MXl1OHY2M2cxcV9EOTBRSkRMcnFESi02ZTRmUVozN0g1U1RqcXIzams1R2UtLWxEalhRc010MzlTU1FIR0hxQkJndVVHVzRFR29ZcHgwd1VMd19TZTgzdndxeDVKZjJHVjBPdjYxRHBfMjRqTVNRZGtDMEdPdGFIaVBSSUdwVi1BRnhVT0ljYjFQdEM5WG95Sm9hODZqTnM3UV9wSTFUSm9PVGdDcmdMUjZMMlNBMXNDaEY1RVBmTWRpVExBRVZwRWlGdWdXS0pFbU9NMjVLVi1WeThVdFQ5blhXZ2VhUkxUbE9nc3A4TjhVMGdsdUotS3B5NG1RQS10NXpoSjFtY2RhbVloRTk0RTlxbXFzREZfSkNmaG1qTWROSVpfRWh1YjE0ZmwxTGpoaEZpWTZWVmtvOTl2SFV1a1dGTVFTRnJrcVd5N2l3ZmhtVjZOZVRzaUJ1bUJoRzlkeDQ4eVJROGdlUktXNXViQWJEcXpGU1U5d0FmZ2Jmcm11NWV6Y0ZXekV6blYwY1hUSWhYbHd5QW9RRnNrV1lBZ1l6VHpBdC1lSFV3Y2toVXFYSU1Eby1Qa1laeHFHaUxiZHZSTkFTb2xVRmtDMnB2clZzSndDWGFVa1g5bkxCSURJcGJBTzNwQktPWUlzSXpxSlE3SmNXT19GakkzM3N2ZFhLb2RWUU90cnBFc19xYmhQMGs0a2Fqa05mR1R3QkJrRE5EX0w4a25tVnRpOXV1TTUtVmY0a0JVNTM2cmVWRXVMSHExeTdNZ1A2SENvMVhVNzdRZHBVQ1RnRzVQdkNlRkszREhHbGYtM3BlVlduenV1eTVwRl9maTVKSk9ldGZXWm1vYXJKSzNjWEhXbDkyQk9WNGpLT3FWVFJtc1AzR3RTSFlmUjczME55dUxSdC1PaWNjamRPT0s2d1JwMnlhUFpRbm9UUnk4Q1dDa1dNMWhIVWZDTnF6SXpRYVhLbTFRUkx2Y0J6eEMyX1h3dTN0RGlURldCbmhZdHJKT0RSUUNrQXV5Zjl3OFp0WVBGNHd0SU9pam9qLVhWN05naTBZVm4yVjF3c3JBQzFrSkVvQWJzTnZTZmVRZUN1ZmF0QzA5S1lSWTM2RE9NVDRiOGZyX2Fva3AyOXp0NmZfUWtIUkNXdnZhZ00wYkExSldJcXMtaWx6dzZKNllPUXFhOHdzeV9ycUk4SEF3anhMSDE3LU1YNldmREJQWlNOWDBCMnBwLXBGY0NBQ2xNbnlfdDQyS0l4dw",
         "time": "2026-05-28 18:36:44"
       }
+    ],
+    "youtube": [
+      {
+        "title": "早上媒體朋友問我，對黃國昌新書其中一頁內容引發的爭議有什麼看法，以下是我的回應： 為洪慈庸感到不捨。 黃國昌明知內情，卻在書中呈現這樣的內容，非常不人道，也是對他前同志的不尊重。",
+        "url": "https://www.youtube.com/shorts/FeQ5_pBYqss",
+        "time": "2026-06-04 17:36:25"
+      }
     ]
   },
   "event_stream": {
     "minute": [],
-    "hour": [],
+    "hour": [
+      {
+        "title": "早上媒體朋友問我，對黃國昌新書其中一頁內容引發的爭議有什麼看法，以下是我的回應： 為洪慈庸感到不捨。 黃國昌明知內情，卻在書中呈現這樣的內容，非常不人道，也是對他前同志的不尊重。",
+        "url": "https://www.youtube.com/shorts/FeQ5_pBYqss",
+        "time": "2026-06-04 17:36:25",
+        "platform": "youtube",
+        "risk": "黃"
+      }
+    ],
     "day": [
+      {
+        "title": "劉建國領軍拚建設醫療 吳雅雯蔡岳儒攜手布局北港未來 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aaFQ4ZmE0eGp0WS01VWtlUkpLejFYWnY5Y1hNS1BURDFCU3FLX3NJN1VGUFZ3V0s5N0Ffay1rS2gxOG13THFxdC1lQTd0cU5WUEFXeE5LSDgxNUxJSWtJdzNDNl93R2JD?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 18:00:11",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "拒絕人口流失！建國攜手雅雯、岳儒，引進「健康產業園區」翻轉北港！ 今天（6/4）上午，我們的「#劉建國 #蔡岳儒 #吳雅雯 北港聯合競選總部」正式成立了！感謝醫界各位院長、校友會、獅子會、扶輪社、同黨同志 雲林縣議員蔡永富、 雲林縣議員蔡孟真 、 顏嘉葦 海口嘉+ - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi-gdBVV95cUxQSGgzS2QwUlcyNVd0YVBfaTl1ZGJ3c0RXQlZUcncxWnB6aF9GLTE0VkN0R0JsN1RpaDc1R0pwbXdkS2RnZV9FQWZrYUI3Y3ZtOXdqVHZZeFAyVXdXRkdaT2xLV2pjMmV4SUdVNks2cDcwRFhrQzVOVUQ5U0RkaTEyak10RnMxMFdOVFREcDBaY3lHOG5qbUxqNWpPNnRoZmF0Q2x2am1lUUpRLXhKZ0JCa1FzcXBpTnpGUFpwRnhCaC12MUlYWkU0M1lKbzd6ZW5XY2dKS3lGQVBHWjRuaFBxUXI3TkU5MUVMLTdGakZHT0NSWThVT2lNZmVzRmZLdkJ1bzJxX1IzMGl4MVFRUzVZU2xTU280XzFZOUNtR2JNX0xBTzFKcXBiV0RMTXNIZDVEWjhOUVI0elBRUEU4X3FGRGFPNE4wRW1aa1RzNGY4aGsxQlJjR3p3NnJVanJYQVhVcUhxM1B2ZU9iWFh0eTFiMGtYMV80SGJaVHBLcXZER2lZLWlIcUlTWTZQYWtMbHVqUGdZT3dKT1gwTTJrYTR3WGpJNWxBUklnT1FTd2VZaTRReGZlZHVhQWtrS0ZoNThfT2RmN3BlVnEwU1UwNUlRZVEwYzBnT2s1YzYzMGMyaWJLMWgwUFdEcTNIa1ktTDZ5d21kRWF4bHFJdHAxS2VNVmVhdmlsck5YV0ZJZnItS0IzcHozSi1qMVJQU01INFB6SERfZDJfMU1ZNGNfYWg5Y0I2MzRyZXl3OXlpcUF3OXZMcUNUSktpQ0lKaHBJR0pMVnBKal9uSTdhamE3ZWlSNk1Ha0haTjdaOVVCM0hueTVqc3FHMjkyNmp3aTVvcW5KckZudFlXVDVDYUl6eHZ0MHJIOU5uVm85SkJ6THo4OG1FZTJUb0dqZVd3UVlENk45YTRkb05pSTdOYTlhT2dpc0lVT2wyLW5Tb3diNHl0d0IzdFhOTUhYdlMxWlZxN3ZMaUNFZlhTNHNEV3VEckszZnpvblZraFkwMWVpaEwxdm9hOTBwVnU2Q01TS25BcEl3UmZheGI3dlFVNEZycmlkS2pSTEJ1cmR0ZmEyaWFrQlFRczhaMVN6VDQ1MTZMZDN3ZllfSThLR2k5T2hMLTl1ZDF2VVBPMWlXZTBhU09uc283M05ndlhVc2pYbVNuRkd3clJhbUczTHVvcGc3dkFweld2U1BZTjZocEk4N2l0dHhXbl9MRVRuaXpQeERSbHJkUjlBQUJoQU9xdEpwSWRmN0VDTWt1dXRIWFpEc0FFTXYxTHozSW56RGlNQ0doN3IzeHlONWpaWWtsRXowQ1pMVXB1NjZnRkN0SjRBd0FiOUNLdWlWSzliY19n",
+        "time": "2026-06-04 18:00:00",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國攜手吳雅雯蔡岳儒開總部 北港選戰正式全面啟動 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tY3NkdkgxUlhPUVJaMFJ6OHJBbVNzN0FuWmdPZFhvS3h5Smt5UF9USV9JYXZFM2V4cTlVZTV6dzVMUmVlT0FBdG91a19PX19EdVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 17:55:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國北港3合1聯合服務處揭牌 蘇治芬出面為強棒組合打氣 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxRG05U1Zzb1E0dXFBS19tNldOelFkT0FNMTRUSHpDVDg5a3NZbk1reGo1em1La1ptc2ZQV0NTbHNqNFVabGt1Zk9rSnVLVS1OTFJZ0gFYQVVfeXFMTkkzQ2NKdGNCQnlnU3pRa1pxQnV1d3NRT004MFJqclEtYUViRnA3cDZyRUlZYWlHSUZkZVB2WUNMRW9POFpaSV9feFhjWE5xb3B1NXA3dzd2UA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 17:23:50",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "育兒假擬擴大至6歲以下 立委劉建國籲完善制度：單親家庭與特殊需求兒童不能被忽略 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90N2Z3MHdCb1d3a3RaV2htdjBrMDdSQlEya3kyUjlnQ19vMm53OGdjdmJFV1JSNnhjVEp5VEZEcHFaVXBwem01YlhmSjh4T0JyNnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 17:14:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國、蔡岳儒、吳雅雯聯合競總開幕 蘇治芬喊話：再創北港奇蹟 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52TUh1ZU4zcGFySnNRSlUzdnFuamktaGt2bjJtXzR6ay1PQ1l0ZzBjMmdIUzdyRTFMU044NE0zVlhGWVBiRmlQazFUNUdRSEwtN0dmQlBTMEpMQ1JQZ0VSSWZ6R1ZSSWNienfSAW9BVV95cUxORUNqdGd6Yl9MZm1oUnI5WFl0Q0VabXZHY0JrVEowSU01bnR2VVhxcXlmRHhzNHZucXhOMVV2VUpTWlVCdE15dm9Kd3hQTE1sU3A2WDBtdi1LWnVGV25oc0Q2X2VRdzM4ZnZCcWtpRFU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-04 17:06:24",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "劉建國、吳雅雯、蔡岳儒北港聯合競選總部熱鬧揭牌 攜手打造北港成為「科技綠洲」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNek9Ed2s4ck9JcnR3RU1jZGl3Z2NkZ2ZTanh2NmphLW5LX1ZtdUJ2YmJLVm90YVpheTBVWHM0ckszNTlBcVBvaGZLdXZ6VFpLejJQNERWb3JGWVhhbTREYWJyN2tuUTM2UjE4ZnB2QkpYUmhsNGM0OUFSWVVlc0pzS1VOX1Vud29ZREl4bGhoaXcwRGNfdFFsMFNkUF9VdWhydkFpdGpMeW1Dd0RMaEZGeHlVMVEyUTVUMGtWQmpOTDRHNVA0cC1SbHB0VkxjVG9lbU5BV0l2aGVmYlVSYnZaS1J4c1AzdDNqSUxoVWxPLVFMRG1VbjJKcXZJY3E2LWFNeGtWdUd6LWViN1lwaVVPUFQ0aVJKd01WR19qX2xjdE1wcUdBbllzNnNmaW11YjB0N3RVdV9XTng5NWVPN3EzNnhrc2E3YlItVzlKUmR3SVYtTTFsXzBESXBIUVZQa2REcDhtTkhyaWpxTjM3ek80M3NFdkRSV2hob1oyUVZ2eURWSnlUSkhXaldVdF94N0dXaEViQVR2alJUbDV0bEZReWt2c1BaS3dvaHBmcElrN1R0OU1PbUhfS1d6SWpnMFY1UWNHWmxyUkQ5VUplX1JGb2ZiSnUyWGZJdjVfa2RIYl9ZbVZj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1221,7 +1472,17 @@
     ]
   },
   "regional_groups": {
-    "regions": [],
-    "groups": []
+    "regions": [
+      {
+        "name": "雲林",
+        "count": 1
+      }
+    ],
+    "groups": [
+      {
+        "name": "工地/營造",
+        "count": 1
+      }
+    ]
   }
 }
