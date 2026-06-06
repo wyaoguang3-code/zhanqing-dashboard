@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-06-06T11:29:50.430689+00:00",
+  "generated_at": "2026-06-06T11:55:09.253243+00:00",
   "metrics": {
-    "total_24h": 5,
+    "total_24h": 6,
     "prev_24h": 15,
-    "growth_pct": -66.67,
-    "news_24h": 5,
+    "growth_pct": -60.0,
+    "news_24h": 6,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 70,
+    "total": 71,
     "prev": 36,
-    "growth_pct": 94.44,
-    "news": 56,
+    "growth_pct": 97.22,
+    "news": 57,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,13 +28,13 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 5
+      "count": 6
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 56
+      "count": 57
     },
     {
       "platform": "facebook",
@@ -60,6 +60,10 @@
     },
     {
       "hour": "2026-06-06 14:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-06-06 18:00",
       "count": 1
     }
   ],
@@ -203,16 +207,25 @@
     {
       "hour": "2026-06-06 14:00",
       "count": 1
+    },
+    {
+      "hour": "2026-06-06 18:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 5
+      "count": 6
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "古坑竹筍節登場 立委劉建國：讓竹葉飄香、文化傳承與農業發展一起向前 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05cGRqNXpjcHZhR3lUbkNxSFA3ejUyR19wbzgySXVmWmdEaXVMREFlTkhrTjRGM19yX040ZjdXODFkc1B1SVhWQllVNzFTRjh1dmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-06 18:46:00"
+      },
       {
         "title": "劉建國卸任雲林縣黨部主委 江宗保接棒續寫新局 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNQjhDSHNmVV9NMy1LT2dEYnRXMzRYQ3lGaDVVRXZtS3V5YzVmTnBjXzUwMHJsVFV0WmRzSTZpWWNwS0hyZTFYeHJndk1JcGtGTHNQOGZsWlFLTWIzX2xYNmliTjRpS05hb0poNGJjTllybmhuN01rZ1VlVVRTUUJoRWtMSmt4Y1pzb1d0THhISEJMX0FZS0tSaV8yTTNiMXJENXJTMnlna2liaDRRX0FaYWlOMEJYOWhSMFR3ZldYT2dIVEhkNk0wRElsTl9UMVJHT0VEX3JsWmFnSURTMTVoMG9iMTJxZ01oU0JzTHQ0RHZlN1BjUW92Vm9fRGJZX1pSdWNDTUVzdi1Dako0V3RuZ3ZCZ3JDeTVvem43VkF1bDNqX1pJdUpQNFFCMmJUQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -243,11 +256,16 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 5
+      "count": 6
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "古坑竹筍節登場 立委劉建國：讓竹葉飄香、文化傳承與農業發展一起向前 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05cGRqNXpjcHZhR3lUbkNxSFA3ejUyR19wbzgySXVmWmdEaXVMREFlTkhrTjRGM19yX040ZjdXODFkc1B1SVhWQllVNzFTRjh1dmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-06 18:46:00"
+      },
       {
         "title": "劉建國卸任雲林縣黨部主委 江宗保接棒續寫新局 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNQjhDSHNmVV9NMy1LT2dEYnRXMzRYQ3lGaDVVRXZtS3V5YzVmTnBjXzUwMHJsVFV0WmRzSTZpWWNwS0hyZTFYeHJndk1JcGtGTHNQOGZsWlFLTWIzX2xYNmliTjRpS05hb0poNGJjTllybmhuN01rZ1VlVVRTUUJoRWtMSmt4Y1pzb1d0THhISEJMX0FZS0tSaV8yTTNiMXJENXJTMnlna2liaDRRX0FaYWlOMEJYOWhSMFR3ZldYT2dIVEhkNk0wRElsTl9UMVJHT0VEX3JsWmFnSURTMTVoMG9iMTJxZ01oU0JzTHQ0RHZlN1BjUW92Vm9fRGJZX1pSdWNDTUVzdi1Dako0V3RuZ3ZCZ3JDeTVvem43VkF1bDNqX1pJdUpQNFFCMmJUQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -277,13 +295,18 @@
   },
   "mention_compare_24h": {
     "張嘉郡": 0,
-    "劉建國": 5
+    "劉建國": 6
   },
   "mention_compare_7d": {
     "張嘉郡": 12,
-    "劉建國": 53
+    "劉建國": 54
   },
   "top_news": [
+    {
+      "title": "古坑竹筍節登場 立委劉建國：讓竹葉飄香、文化傳承與農業發展一起向前 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05cGRqNXpjcHZhR3lUbkNxSFA3ejUyR19wbzgySXVmWmdEaXVMREFlTkhrTjRGM19yX040ZjdXODFkc1B1SVhWQllVNzFTRjh1dmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-06 18:46:00"
+    },
     {
       "title": "劉建國卸任雲林縣黨部主委 江宗保接棒續寫新局 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNQjhDSHNmVV9NMy1LT2dEYnRXMzRYQ3lGaDVVRXZtS3V5YzVmTnBjXzUwMHJsVFV0WmRzSTZpWWNwS0hyZTFYeHJndk1JcGtGTHNQOGZsWlFLTWIzX2xYNmliTjRpS05hb0poNGJjTllybmhuN01rZ1VlVVRTUUJoRWtMSmt4Y1pzb1d0THhISEJMX0FZS0tSaV8yTTNiMXJENXJTMnlna2liaDRRX0FaYWlOMEJYOWhSMFR3ZldYT2dIVEhkNk0wRElsTl9UMVJHT0VEX3JsWmFnSURTMTVoMG9iMTJxZ01oU0JzTHQ0RHZlN1BjUW92Vm9fRGJZX1pSdWNDTUVzdi1Dako0V3RuZ3ZCZ3JDeTVvem43VkF1bDNqX1pJdUpQNFFCMmJUQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -311,6 +334,11 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "古坑竹筍節登場 立委劉建國：讓竹葉飄香、文化傳承與農業發展一起向前 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05cGRqNXpjcHZhR3lUbkNxSFA3ejUyR19wbzgySXVmWmdEaXVMREFlTkhrTjRGM19yX040ZjdXODFkc1B1SVhWQllVNzFTRjh1dmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-06 18:46:00"
+    },
     {
       "title": "劉建國卸任雲林縣黨部主委 江宗保接棒續寫新局 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNQjhDSHNmVV9NMy1LT2dEYnRXMzRYQ3lGaDVVRXZtS3V5YzVmTnBjXzUwMHJsVFV0WmRzSTZpWWNwS0hyZTFYeHJndk1JcGtGTHNQOGZsWlFLTWIzX2xYNmliTjRpS05hb0poNGJjTllybmhuN01rZ1VlVVRTUUJoRWtMSmt4Y1pzb1d0THhISEJMX0FZS0tSaV8yTTNiMXJENXJTMnlna2liaDRRX0FaYWlOMEJYOWhSMFR3ZldYT2dIVEhkNk0wRElsTl9UMVJHT0VEX3JsWmFnSURTMTVoMG9iMTJxZ01oU0JzTHQ0RHZlN1BjUW92Vm9fRGJZX1pSdWNDTUVzdi1Dako0V3RuZ3ZCZ3JDeTVvem43VkF1bDNqX1pJdUpQNFFCMmJUQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -405,11 +433,6 @@
       "title": "劉建國籲完善育兒假制度 單親家庭恐成政策遺珠 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQcl9IQW8yRlpVUVd4cGRyb2RjVHJHcmwyYkgxY1RyV3Y3NktFWmI4NTI4dkNHVlBPd3pkcEVlNm14enNmbnlsODVaOVo5d3l2S0tyNFZkb3V4QW8wdEZTQ01QQVdkNlAtSW9jQlNRMmRaVi02UHdQekNVOFVDTUtkOUNHbFA3SmJ0ZURFSWUwWGRIRU03cE9YcTJmSUxNc0xKYjVRTWdrNzFFT25kQktKSUh0QjFnOWFHa29jWWVBN3l2TTA4NTFRYVo5TWpHQ0czaXFJb3lEUWRsSzdqd1N5enhFSHFlM0VER0trMkZxUF9HUE1sNFA2MmQ1VHVIalRGNTVkaUNYS3dFV2IwelJoZk1EZVc2M1JicTlHNmxtdGVFZkVXNzBPVVRYaFdBVkNpZDEyQk1aUmRLbTlhT1lMRy1Rc1QxTm1hdkdwa2h6QkY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-04 18:54:16"
-    },
-    {
-      "title": "劉建國籲完善育兒假制度 單親家庭恐成政策遺珠 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tb1E0TlNFRHllQXlObWZPT2hIMERjWHFiZEZENFU2VXBwTDYtVTRTQ0t1MjVySTRhMzdEZm9ORVVXcUpWMmdHZDdXSHlDWDNrT2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-04 18:54:00"
     }
   ],
   "latest_facebook_20": [
@@ -516,6 +539,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "古坑竹筍節登場 立委劉建國：讓竹葉飄香、文化傳承與農業發展一起向前 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05cGRqNXpjcHZhR3lUbkNxSFA3ejUyR19wbzgySXVmWmdEaXVMREFlTkhrTjRGM19yX040ZjdXODFkc1B1SVhWQllVNzFTRjh1dmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-06 18:46:00"
+    },
+    {
       "title": "劉建國卸任雲林縣黨部主委 江宗保接棒續寫新局 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNQjhDSHNmVV9NMy1LT2dEYnRXMzRYQ3lGaDVVRXZtS3V5YzVmTnBjXzUwMHJsVFV0WmRzSTZpWWNwS0hyZTFYeHJndk1JcGtGTHNQOGZsWlFLTWIzX2xYNmliTjRpS05hb0poNGJjTllybmhuN01rZ1VlVVRTUUJoRWtMSmt4Y1pzb1d0THhISEJMX0FZS0tSaV8yTTNiMXJENXJTMnlna2liaDRRX0FaYWlOMEJYOWhSMFR3ZldYT2dIVEhkNk0wRElsTl9UMVJHT0VEX3JsWmFnSURTMTVoMG9iMTJxZ01oU0JzTHQ0RHZlN1BjUW92Vm9fRGJZX1pSdWNDTUVzdi1Dako0V3RuZ3ZCZ3JDeTVvem43VkF1bDNqX1pJdUpQNFFCMmJUQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-06 14:22:30"
@@ -609,11 +637,6 @@
       "title": "劉建國籲完善育兒假制度 單親家庭恐成政策遺珠 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQcl9IQW8yRlpVUVd4cGRyb2RjVHJHcmwyYkgxY1RyV3Y3NktFWmI4NTI4dkNHVlBPd3pkcEVlNm14enNmbnlsODVaOVo5d3l2S0tyNFZkb3V4QW8wdEZTQ01QQVdkNlAtSW9jQlNRMmRaVi02UHdQekNVOFVDTUtkOUNHbFA3SmJ0ZURFSWUwWGRIRU03cE9YcTJmSUxNc0xKYjVRTWdrNzFFT25kQktKSUh0QjFnOWFHa29jWWVBN3l2TTA4NTFRYVo5TWpHQ0czaXFJb3lEUWRsSzdqd1N5enhFSHFlM0VER0trMkZxUF9HUE1sNFA2MmQ1VHVIalRGNTVkaUNYS3dFV2IwelJoZk1EZVc2M1JicTlHNmxtdGVFZkVXNzBPVVRYaFdBVkNpZDEyQk1aUmRLbTlhT1lMRy1Rc1QxTm1hdkdwa2h6QkY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-04 18:54:16"
-    },
-    {
-      "title": "劉建國籲完善育兒假制度 單親家庭恐成政策遺珠 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tb1E0TlNFRHllQXlObWZPT2hIMERjWHFiZEZENFU2VXBwTDYtVTRTQ0t1MjVySTRhMzdEZm9ORVVXcUpWMmdHZDdXSHlDWDNrT2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-04 18:54:00"
     }
   ],
   "person_sections": {
@@ -928,6 +951,11 @@
       ],
       "news": [
         {
+          "title": "古坑竹筍節登場 立委劉建國：讓竹葉飄香、文化傳承與農業發展一起向前 - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05cGRqNXpjcHZhR3lUbkNxSFA3ejUyR19wbzgySXVmWmdEaXVMREFlTkhrTjRGM19yX040ZjdXODFkc1B1SVhWQllVNzFTRjh1dmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-06 18:46:00"
+        },
+        {
           "title": "劉建國卸任雲林縣黨部主委 江宗保接棒續寫新局 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNQjhDSHNmVV9NMy1LT2dEYnRXMzRYQ3lGaDVVRXZtS3V5YzVmTnBjXzUwMHJsVFV0WmRzSTZpWWNwS0hyZTFYeHJndk1JcGtGTHNQOGZsWlFLTWIzX2xYNmliTjRpS05hb0poNGJjTllybmhuN01rZ1VlVVRTUUJoRWtMSmt4Y1pzb1d0THhISEJMX0FZS0tSaV8yTTNiMXJENXJTMnlna2liaDRRX0FaYWlOMEJYOWhSMFR3ZldYT2dIVEhkNk0wRElsTl9UMVJHT0VEX3JsWmFnSURTMTVoMG9iMTJxZ01oU0JzTHQ0RHZlN1BjUW92Vm9fRGJZX1pSdWNDTUVzdi1Dako0V3RuZ3ZCZ3JDeTVvem43VkF1bDNqX1pJdUpQNFFCMmJUQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-06 14:22:30"
@@ -1021,17 +1049,17 @@
           "title": "劉建國籲完善育兒假制度 單親家庭恐成政策遺珠 - 蕃新聞",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tb1E0TlNFRHllQXlObWZPT2hIMERjWHFiZEZENFU2VXBwTDYtVTRTQ0t1MjVySTRhMzdEZm9ORVVXcUpWMmdHZDdXSHlDWDNrT2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-04 18:54:00"
-        },
-        {
-          "title": "劉建國、蔡岳儒、吳雅雯聯合競總開幕 蘇治芬喊話：再創北港奇蹟 | 自由電子報 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82RFdPWFl5VHhycElaVVBQemtGX0taNHRzM2VPQU4wUWZkdk9RRTZudU9RaU9XX3FJcmdtOG05X1J5V1YwVjhGVTFDT3RJQ2JzMGNKMW5n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-04 18:39:03"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "古坑竹筍節登場 立委劉建國：讓竹葉飄香、文化傳承與農業發展一起向前 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05cGRqNXpjcHZhR3lUbkNxSFA3ejUyR19wbzgySXVmWmdEaXVMREFlTkhrTjRGM19yX040ZjdXODFkc1B1SVhWQllVNzFTRjh1dmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-06 18:46:00"
+      },
       {
         "title": "劉建國卸任雲林縣黨部主委 江宗保接棒續寫新局 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNQjhDSHNmVV9NMy1LT2dEYnRXMzRYQ3lGaDVVRXZtS3V5YzVmTnBjXzUwMHJsVFV0WmRzSTZpWWNwS0hyZTFYeHJndk1JcGtGTHNQOGZsWlFLTWIzX2xYNmliTjRpS05hb0poNGJjTllybmhuN01rZ1VlVVRTUUJoRWtMSmt4Y1pzb1d0THhISEJMX0FZS0tSaV8yTTNiMXJENXJTMnlna2liaDRRX0FaYWlOMEJYOWhSMFR3ZldYT2dIVEhkNk0wRElsTl9UMVJHT0VEX3JsWmFnSURTMTVoMG9iMTJxZ01oU0JzTHQ0RHZlN1BjUW92Vm9fRGJZX1pSdWNDTUVzdi1Dako0V3RuZ3ZCZ3JDeTVvem43VkF1bDNqX1pJdUpQNFFCMmJUQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1061,6 +1089,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "古坑竹筍節登場 立委劉建國：讓竹葉飄香、文化傳承與農業發展一起向前 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05cGRqNXpjcHZhR3lUbkNxSFA3ejUyR19wbzgySXVmWmdEaXVMREFlTkhrTjRGM19yX040ZjdXODFkc1B1SVhWQllVNzFTRjh1dmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-06 18:46:00"
+      },
       {
         "title": "劉建國卸任雲林縣黨部主委 江宗保接棒續寫新局 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNQjhDSHNmVV9NMy1LT2dEYnRXMzRYQ3lGaDVVRXZtS3V5YzVmTnBjXzUwMHJsVFV0WmRzSTZpWWNwS0hyZTFYeHJndk1JcGtGTHNQOGZsWlFLTWIzX2xYNmliTjRpS05hb0poNGJjTllybmhuN01rZ1VlVVRTUUJoRWtMSmt4Y1pzb1d0THhISEJMX0FZS0tSaV8yTTNiMXJENXJTMnlna2liaDRRX0FaYWlOMEJYOWhSMFR3ZldYT2dIVEhkNk0wRElsTl9UMVJHT0VEX3JsWmFnSURTMTVoMG9iMTJxZ01oU0JzTHQ0RHZlN1BjUW92Vm9fRGJZX1pSdWNDTUVzdi1Dako0V3RuZ3ZCZ3JDeTVvem43VkF1bDNqX1pJdUpQNFFCMmJUQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1255,11 +1288,6 @@
         "title": "劉建國爭取災後復建經費 青山坪明隧道竣工啟用 - 臺灣導報",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zbzAxUUo2blNpNnVXa3FQTUUwdVRSX0JqVVc2VGNUYmlTZEJzUW90bEVheTVMX1dPZVctbk16TVRaWklOa3dUTlV6b201WG93ZGlv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-02 19:32:06"
-      },
-      {
-        "title": "立法院經委會考察雲林虎尾、褒忠產業園區 立委張嘉郡等人促中央地方齊心拚發展！ - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pbGxjZFFfX2R6U1M1OFctbVJ5QnRKaGo1LTJyNThnMDBUVkRhcjZFbml2QVNCOUNyOHNTNjRVWUtVNHhjOW1JWTRZMnU4b0pFcmRNck16ZDBWclJtcG5kenU3M1pZMnBEUHRr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-02 08:22:03"
       }
     ],
     "facebook": [
@@ -1342,6 +1370,13 @@
     "hour": [],
     "day": [
       {
+        "title": "古坑竹筍節登場 立委劉建國：讓竹葉飄香、文化傳承與農業發展一起向前 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05cGRqNXpjcHZhR3lUbkNxSFA3ejUyR19wbzgySXVmWmdEaXVMREFlTkhrTjRGM19yX040ZjdXODFkc1B1SVhWQllVNzFTRjh1dmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-06 18:46:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "劉建國卸任雲林縣黨部主委 江宗保接棒續寫新局 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNQjhDSHNmVV9NMy1LT2dEYnRXMzRYQ3lGaDVVRXZtS3V5YzVmTnBjXzUwMHJsVFV0WmRzSTZpWWNwS0hyZTFYeHJndk1JcGtGTHNQOGZsWlFLTWIzX2xYNmliTjRpS05hb0poNGJjTllybmhuN01rZ1VlVVRTUUJoRWtMSmt4Y1pzb1d0THhISEJMX0FZS0tSaV8yTTNiMXJENXJTMnlna2liaDRRX0FaYWlOMEJYOWhSMFR3ZldYT2dIVEhkNk0wRElsTl9UMVJHT0VEX3JsWmFnSURTMTVoMG9iMTJxZ01oU0JzTHQ0RHZlN1BjUW92Vm9fRGJZX1pSdWNDTUVzdi1Dako0V3RuZ3ZCZ3JDeTVvem43VkF1bDNqX1pJdUpQNFFCMmJUQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-06 14:22:30",
@@ -1383,8 +1418,17 @@
       {
         "name": "雲林",
         "count": 4
+      },
+      {
+        "name": "古坑",
+        "count": 1
       }
     ],
-    "groups": []
+    "groups": [
+      {
+        "name": "農業族群",
+        "count": 1
+      }
+    ]
   }
 }
