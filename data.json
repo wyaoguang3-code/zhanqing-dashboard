@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-06-10T11:06:20.997084+00:00",
+  "generated_at": "2026-06-10T11:21:41.038467+00:00",
   "metrics": {
-    "total_24h": 22,
+    "total_24h": 29,
     "prev_24h": 7,
-    "growth_pct": 214.29,
-    "news_24h": 19,
+    "growth_pct": 314.29,
+    "news_24h": 25,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 97,
+    "total": 104,
     "prev": 48,
-    "growth_pct": 102.08,
-    "news": 80,
+    "growth_pct": 116.67,
+    "news": 86,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,17 +28,21 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 19
+      "count": 25
     },
     {
       "platform": "facebook",
       "count": 3
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 80
+      "count": 86
     },
     {
       "platform": "facebook",
@@ -46,7 +50,7 @@
     },
     {
       "platform": "youtube",
-      "count": 1
+      "count": 2
     }
   ],
   "by_hour": [
@@ -56,22 +60,26 @@
     },
     {
       "hour": "2026-06-10 13:00",
-      "count": 7
-    },
-    {
-      "hour": "2026-06-10 14:00",
       "count": 8
     },
     {
+      "hour": "2026-06-10 14:00",
+      "count": 9
+    },
+    {
       "hour": "2026-06-10 15:00",
-      "count": 3
+      "count": 4
     },
     {
       "hour": "2026-06-10 16:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-06-10 17:00",
+      "count": 3
+    },
+    {
+      "hour": "2026-06-10 18:00",
       "count": 1
     }
   ],
@@ -238,29 +246,33 @@
     },
     {
       "hour": "2026-06-10 13:00",
-      "count": 7
-    },
-    {
-      "hour": "2026-06-10 14:00",
       "count": 8
     },
     {
+      "hour": "2026-06-10 14:00",
+      "count": 9
+    },
+    {
       "hour": "2026-06-10 15:00",
-      "count": 3
+      "count": 4
     },
     {
       "hour": "2026-06-10 16:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-06-10 17:00",
+      "count": 3
+    },
+    {
+      "hour": "2026-06-10 18:00",
       "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 19
+      "count": 25
     },
     {
       "platform": "facebook",
@@ -268,18 +280,31 @@
     }
   ],
   "mention_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "雲林第一期花生採收創10年新低！ - 國民黨立委張嘉郡今（10）日要求農業部應盡速研議提高轉作價格，並落實標示原產地，以保障本土農民生計與消費者知情權。 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi4wZBVV95cUxONmVoRUN0Q19BQmpoZE9hVFg3YXZublJpYlBwbFZxdS0zVV9oaVRVRE9WZGJ6ODU0eF9WMGwyR1MySWp3Zy1OOUdwSGxYcFhGbVF3TUxXbE0tWS1WQWFURzNGU2FLcDR6WDlvZlNFMENCdG9QWnJxOUFaTVlwckZOMVBsdDQ2ZzhlNk4yWnhxeVUyUkNmS3ZiWEppUU9ib0tKaHdGRm9KQWVQWngzM2tqX0pJTDBTamx0Y055VXk4V1Q0bFNxOHpDb2Z2UVhySnEySTYzeWFRMjVBLWpOZno2TmF5RlFVX3FHYmxCSkJ6X0NaVmJGazlqX2FSN1hDUXB4amd0RXlUM014N2l4VUZSVWNDQW9LMER1dUFhLS1KNmtLN2JHUk9fRVgzQU9QQ05WRHRvYW84STFvNTFiZW1QLW9qTTloc0ZFYTRLNmdJZkhpdDNZQ19WbnVuSUxlM1gzQ0FBVlRWUGFueWM4M2M2UVV6b2NIcnlUcG9jM0lOX0U3Rkd5ZnV5cGFlVmNhSGlwZzBhYWM2cThMTzNfOWlkU3RKV3ZLYWtUa256UElIQ2lFQkNVYllOakxVLUV2Y0ktcF9BMnhYWjh2TTgtX1F1RnhXc1RfR3dpcXZBRW8yZFJGMVg5ZGhDbFZiQ3dRWGl4TlotQ1RULWVSdXZlaXZzb1RneUJMNEdoSFJzc1F3TXpGd0ZUQnJVSUpmOHU0OG9BWnR1UjNBQzFuRW5fSnM5dk9GOG5kcklOb21lckVDSnVwSVBtdnlNakJoSzBvM1RxUXFmaWU1RTA2dlI1cVZmTThmRWtIRS1zRnNCOENJTkZmcmlfLU9QTUxwVTN0LW9jMnlhOTRaUlRFX3NFYVdDRDR0aWt3NnZxVldNbXRGbjJLeTAxS0lNU00wYmdLRkg4eTlpRjNQU0pRbUJKLVpiNU9RY3REelFDbXQ3dWxsU2h0LXFXdFQwME5tMDRlT3R4TEh4MGprZUJWSXlTOU5tVjVnbV9seGlTUXdBblhDdzVBSHFvaWVFcVRZcVJKUl9Rai1uU0pNd1l5OVFiMUxSa0pXMDl3RGRkOEtGcFVLbXNEOGNqS3lCbXh5RnpfY0YtNzhNdHh0NTRPZktuSG4wdXBjZDVQakRlVlZsYy1fZGlLWG8",
-        "time": "2026-06-10 17:15:03"
-      }
-    ],
     "news": [
+      {
+        "title": "抓完鰻魚換吃火鍋！ 蔣萬安、張麗善、張嘉郡兩度合體拉抬選情｜#鏡新聞 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNT1FMR0c5MGhYcVRpMk9XVldUYzdDODA2TEJ4SkRIeHlTbVRHN3JGQUpneEpwM2ktZ21GNjhuUWVMNWVwd2NxQ000dGFzek8wSE5LcHlkR3NscmpkU0Q2NmZxRUpxcTctSWh2RE1TQ29uYTh1dk5HR2xCeWR4TlFhUVRoVUd3eGRTMmFqSmttejc2cUJleFdma1oxVHZRZmkxcVNJbktxMmlXdGhHQ2FORmlWRjFQcU5uUUhyaVVZT3hiS3p6Vnd5TEZCNUgyUGlxZWRvVGFxUlNhblppeDhLbUI3ekRadHJwdUFOT2U2OUVhV25OX0NoRElCcUNkOXZFM2QtVmdKQVFTOUFmM2hCWkZCd0J5cVJyNnBqYlFEWW5RcmxhX3BQajRZTXhyaDE4ZFlWaWRRY1BKOW9mQzNDOEZ6QkRNSE1xUXdCRlU5TFJ0WWJHem9VRTU1VVV1Q29RbU5OY3VvMW9aUzdLMEx2ZlF0MGpVcEx2bkR4YThRSEhLSGNWcWxWVnhpbzdUcWd3RkhIb0hud21PN0xST1p0V0taOS1MbklO?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 18:41:31"
+      },
+      {
+        "title": "雲林花生開盤價跌四成創十年新低！張嘉郡促調高轉作金、修食安法嚴防洗產地| 夏和宣| 地方新聞 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qZnE4Vm5Bem5QN3BVZmU0ZGtmanpQWTFqSXJzMVFfTWpmbHpLQUJNRG9sSmV3UkxzTTYxMUJKUXY3Ym9EV3lSS1owQjFnUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 17:52:38"
+      },
+      {
+        "title": "不滿曾被酸危言聳聽 張嘉郡擬修《食安法》 嚴防進口花生洗產地 - 匯流新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CQXFZMjhEaWg4M1F0eW1ac0ZMOWZqNFdDOFlBRTFGMXZkbklmNVV2bE1nQ1VtLW9tSGpadTZnUV8xQk4tMnZSaU9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 16:08:27"
+      },
       {
         "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - MSN",
         "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOV1M3MndZQzk3aVI0TDMxWTRqYlNmTkxDb0F4NmUtanVfdWI3OXlVQXNkMWJuYjRkSzhiTFkzRkVISjg5dDl5M2VlYnY0cFRVeHFpaHZfNGpiRVZfaW9KdnQwQ2otWng0dEx6RGNaTGo2RHBEMUVzZmFHenI4S0ZnVWRsZ2V5VVVLUWhEX3hobjZVZmNtN0YzMXV2WnFSMDh1SjMyQWo2X18yUnZ6al9rYUFYR1lXLXduYzV0ZzRZcHYxeHg5MDRidk5qZXZjVmVOSU9QUmlPamJJcGFQMVBwRGF4bWFIelJ2V3hmUXAwQlhVdUp3c1lTbUhBZk1ZYXdqTk5YdklJSVJjZ2liRzhfc09BbEF0VEZVM1hqTVNMQy1ZZzVxTU9naTFHN051WkhyZGR4enEzTFA2X2R6RGRPQVVERDkxX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-10 16:08:06"
+      },
+      {
+        "title": "國產花生價慘崩！張嘉郡急籲中央：提高轉作金、強化原產地標示護農 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOR2Fuc0pJY1ZHUFRoTm5NRW03WG5CVUEyWk1tQloya3p3dnZ6SnFRd21nRmYwLW5ZZVUzeWdmaEhMbUNQWllhTS05V1Z0dHNZMVVma2hnejRLVDE2ZVRIejU4ZnBIZWV2Ni0xZ0VkcktPN29jX0VDWWprWGNEc3ZkREVabVZoZ3laZ2tfRjVkMWtncWgtQ1M3REdmeEhhejdqdHh1cDBxUi1MZUtJaU1TMFBWa1JRdGdTWS1SWjZvcnFZUGw3RGMtODZzalY5bF9rZEdFUlJTdEZUVElTQkJiX2EwTkN4eVh6VmtsMHJicVFKcWdyZHpXUkJQMThhTUo5N181WDZEYzlidkZaRGhRX1RrQVg1N05zdDJUQW5DZ3Q5MHZiSmpSRE1SLXNMQktmY1lvQnJJbWpIT0tHZmRoWVhNZkdjUzB3VXdwUVVhTktsSkFuRFljQVptaHJQVUh0N2YxQm03STlGc3pfREZaNW9Za2tXVVB3MGNqY3hURFBUeHVoOWw2ZlhLejBZMzJFNUx5MlJPTkprT3R1Z2UwcW15OFVfYTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 15:25:59"
       },
       {
         "title": "本土花生價格暴跌約四成張嘉郡籲提高農業部轉作獎勵金| 政治焦點 - 太報 TaiSounds",
@@ -305,6 +330,11 @@
         "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - fugomedia.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzZGFpYjJDV2pjcnctM1RTYTQwYTFENDd3ZzRrb0FKU3dzN2Y5Z00zeEw5WDBUdWs3N3dTSE5TN0x3N0pNdzJMQXNKUUNjQUFNdG1lcnZCXzczQ1ZybmhZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-10 14:58:00"
+      },
+      {
+        "title": "張嘉郡憂美花生「毀滅性衝擊」國產花生 楊瓊瓔反駁：講太嚴重價格更崩 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNeXZWNmlvclUwcW9zMWRRa2hXNFR0Rld4TWY0Y09VeG82Y0xoWVU0UTR2YTh4VTVKekw2WGpmdlZrdDJoY1duZjQxVnZTTXdJT1VQNFFSZVhLdVJ1eDhPWnQtRF9GUWRCd0g5WEJpSURMQmFtRk9TZndvUTY4WEdEMjk1bk1ILWMzYlpyb3c0ckVQWUJ4SkZVWDJLN204aHUwWUlWRmZUTElLWGt3S2V4Y2wzZmNlSUZ0VXVPY1VLemlPSDVyQTdjTUNEM0tWa1lMa0U1eERfeUhwTUpGT0Z3NzgwQ0lORG5GSmgwOTNiTXFEX2RfZE5SVm1vX2V1RVlObDZkRHpEQy1sYVFrRTVLejNxUWYwMWNiYThDWTdQSUtGTDBVZG9KR21aVkdKQ0NmYUhrYkQ4YVRrYmZWWVJXaW9hTXcwaWxqTnh1X0lQNVIwa0NlU3VBTHgyNlZWSERZRVhlUnNXT2xlbEpVck5BU0c3cllrR3ZhTW9lVnhRYzdpVnpqaC0wc0VkUzNaVDNremRZTWJxYzRCbzV4Qlk1VlQ2dTYwQ0pjNjBGNHVINWwtOU5j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 14:46:00"
       },
       {
         "title": "張嘉郡憂美花生「毀滅性衝擊」國產花生楊瓊瓔反駁：講太嚴重價格更崩| 政治 - 三立新聞網SETN.com",
@@ -347,6 +377,11 @@
         "time": "2026-06-10 13:25:06"
       },
       {
+        "title": "張嘉郡稱美國會毀滅性衝擊國產花生 同黨立委楊瓊瓔警告：太嚴重字眼反讓價格更崩 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ET0NUNXB2OGZrOERaSGZTeTlPdEdPSkJpUUNZWDQ5ZVB5ZjAzN21EOUtDUWpkUEVNRkstMWRoRnVXZkJPdVNKbUN5TmRxSGRhN2JoWjFnVUxRM280V3BBbnFveC1pblEzaWfSAW9BVV95cUxORVlIWFZrdFNRSmU0VVplRnVlTGhHZUtETWkwOG1lZnZnSHNqLWlqb1NQUkRfdkhlY0Ewd2tUNWg5ejJLeW90bWF4OVVHdHJzQzRXWVdfZVNSUmRyeTQ4ZWNRTkNib3dQbnh4VnlwdU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 13:25:06"
+      },
+      {
         "title": "張嘉郡要求花生轉作金發10萬5 農業部反應曝 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOcXFaLU1KN0J1dXVEak9JaVVBRjIyU3FCYXR5VzNITzZNem01X0REejhMb0x3eFJYcWZvS1g3TVNtUVRta1dXeFBfOW5oZVZ6VGNIVzh3YWlURUwzWndjWGtSV1JwRGY4S3VBYklXMzRMN1JlcjlfSE9jQW1odXFGYTdPaGJqSlpzaGo4cFVnMTRjS21ZMm4yRE41TzVYdkxxX3NVcDVmcEVDcVluU0ZNaUd6empnY3lFZTc0NlU2M0JLbTdaOGNXVXVZWk9ubzA1cUY5eG1mMHpXd3ZtTVpWbi1RLUxJTU9sdUVqclpnaGw3YlR2c21ISkdPU044SkdRS3JPNXhqblhmV2VpNkdDekJYWFU2ZmxVS0lYTHAxb3NaN09Xak4zRmVkX1Zqdzhy?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-10 13:23:00"
@@ -371,12 +406,19 @@
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FaUhFMzVLOEc2U2ZNZE82WWFQMkdTRXFzMVc5dFdVd1lsakM1MVk2QkhpUnFoMFRYSHM1X3BURDQwQ0dZbTZZY0VOM1FjUUYwZTYzOGZ2SllGU2dF0gFiQVVfeXFMTVo4dTZqdHRLOVNKWFkya2xkMXVyV2tnS0E1ZXNPNXZYNmxvRW16bWFVZmc4dE1UeG93WGcybEsxR0xjYlhaaGpUSjg2Mmp0TEFkYmtEdFhoMlBzRnlDc2pKX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-10 13:18:00"
       }
+    ],
+    "facebook": [
+      {
+        "title": "雲林第一期花生採收創10年新低！ - 國民黨立委張嘉郡今（10）日要求農業部應盡速研議提高轉作價格，並落實標示原產地，以保障本土農民生計與消費者知情權。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wZBVV95cUxONmVoRUN0Q19BQmpoZE9hVFg3YXZublJpYlBwbFZxdS0zVV9oaVRVRE9WZGJ6ODU0eF9WMGwyR1MySWp3Zy1OOUdwSGxYcFhGbVF3TUxXbE0tWS1WQWFURzNGU2FLcDR6WDlvZlNFMENCdG9QWnJxOUFaTVlwckZOMVBsdDQ2ZzhlNk4yWnhxeVUyUkNmS3ZiWEppUU9ib0tKaHdGRm9KQWVQWngzM2tqX0pJTDBTamx0Y055VXk4V1Q0bFNxOHpDb2Z2UVhySnEySTYzeWFRMjVBLWpOZno2TmF5RlFVX3FHYmxCSkJ6X0NaVmJGazlqX2FSN1hDUXB4amd0RXlUM014N2l4VUZSVWNDQW9LMER1dUFhLS1KNmtLN2JHUk9fRVgzQU9QQ05WRHRvYW84STFvNTFiZW1QLW9qTTloc0ZFYTRLNmdJZkhpdDNZQ19WbnVuSUxlM1gzQ0FBVlRWUGFueWM4M2M2UVV6b2NIcnlUcG9jM0lOX0U3Rkd5ZnV5cGFlVmNhSGlwZzBhYWM2cThMTzNfOWlkU3RKV3ZLYWtUa256UElIQ2lFQkNVYllOakxVLUV2Y0ktcF9BMnhYWjh2TTgtX1F1RnhXc1RfR3dpcXZBRW8yZFJGMVg5ZGhDbFZiQ3dRWGl4TlotQ1RULWVSdXZlaXZzb1RneUJMNEdoSFJzc1F3TXpGd0ZUQnJVSUpmOHU0OG9BWnR1UjNBQzFuRW5fSnM5dk9GOG5kcklOb21lckVDSnVwSVBtdnlNakJoSzBvM1RxUXFmaWU1RTA2dlI1cVZmTThmRWtIRS1zRnNCOENJTkZmcmlfLU9QTUxwVTN0LW9jMnlhOTRaUlRFX3NFYVdDRDR0aWt3NnZxVldNbXRGbjJLeTAxS0lNU00wYmdLRkg4eTlpRjNQU0pRbUJKLVpiNU9RY3REelFDbXQ3dWxsU2h0LXFXdFQwME5tMDRlT3R4TEh4MGprZUJWSXlTOU5tVjVnbV9seGlTUXdBblhDdzVBSHFvaWVFcVRZcVJKUl9Rai1uU0pNd1l5OVFiMUxSa0pXMDl3RGRkOEtGcFVLbXNEOGNqS3lCbXh5RnpfY0YtNzhNdHh0NTRPZktuSG4wdXBjZDVQakRlVlZsYy1fZGlLWG8",
+        "time": "2026-06-10 17:15:03"
+      }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 19
+      "count": 25
     },
     {
       "platform": "facebook",
@@ -384,6 +426,133 @@
     }
   ],
   "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "抓完鰻魚換吃火鍋！ 蔣萬安、張麗善、張嘉郡兩度合體拉抬選情｜#鏡新聞 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNT1FMR0c5MGhYcVRpMk9XVldUYzdDODA2TEJ4SkRIeHlTbVRHN3JGQUpneEpwM2ktZ21GNjhuUWVMNWVwd2NxQ000dGFzek8wSE5LcHlkR3NscmpkU0Q2NmZxRUpxcTctSWh2RE1TQ29uYTh1dk5HR2xCeWR4TlFhUVRoVUd3eGRTMmFqSmttejc2cUJleFdma1oxVHZRZmkxcVNJbktxMmlXdGhHQ2FORmlWRjFQcU5uUUhyaVVZT3hiS3p6Vnd5TEZCNUgyUGlxZWRvVGFxUlNhblppeDhLbUI3ekRadHJwdUFOT2U2OUVhV25OX0NoRElCcUNkOXZFM2QtVmdKQVFTOUFmM2hCWkZCd0J5cVJyNnBqYlFEWW5RcmxhX3BQajRZTXhyaDE4ZFlWaWRRY1BKOW9mQzNDOEZ6QkRNSE1xUXdCRlU5TFJ0WWJHem9VRTU1VVV1Q29RbU5OY3VvMW9aUzdLMEx2ZlF0MGpVcEx2bkR4YThRSEhLSGNWcWxWVnhpbzdUcWd3RkhIb0hud21PN0xST1p0V0taOS1MbklO?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 18:41:31"
+      },
+      {
+        "title": "雲林花生開盤價跌四成創十年新低！張嘉郡促調高轉作金、修食安法嚴防洗產地| 夏和宣| 地方新聞 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qZnE4Vm5Bem5QN3BVZmU0ZGtmanpQWTFqSXJzMVFfTWpmbHpLQUJNRG9sSmV3UkxzTTYxMUJKUXY3Ym9EV3lSS1owQjFnUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 17:52:38"
+      },
+      {
+        "title": "不滿曾被酸危言聳聽 張嘉郡擬修《食安法》 嚴防進口花生洗產地 - 匯流新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CQXFZMjhEaWg4M1F0eW1ac0ZMOWZqNFdDOFlBRTFGMXZkbklmNVV2bE1nQ1VtLW9tSGpadTZnUV8xQk4tMnZSaU9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 16:08:27"
+      },
+      {
+        "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOV1M3MndZQzk3aVI0TDMxWTRqYlNmTkxDb0F4NmUtanVfdWI3OXlVQXNkMWJuYjRkSzhiTFkzRkVISjg5dDl5M2VlYnY0cFRVeHFpaHZfNGpiRVZfaW9KdnQwQ2otWng0dEx6RGNaTGo2RHBEMUVzZmFHenI4S0ZnVWRsZ2V5VVVLUWhEX3hobjZVZmNtN0YzMXV2WnFSMDh1SjMyQWo2X18yUnZ6al9rYUFYR1lXLXduYzV0ZzRZcHYxeHg5MDRidk5qZXZjVmVOSU9QUmlPamJJcGFQMVBwRGF4bWFIelJ2V3hmUXAwQlhVdUp3c1lTbUhBZk1ZYXdqTk5YdklJSVJjZ2liRzhfc09BbEF0VEZVM1hqTVNMQy1ZZzVxTU9naTFHN051WkhyZGR4enEzTFA2X2R6RGRPQVVERDkxX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 16:08:06"
+      },
+      {
+        "title": "國產花生價慘崩！張嘉郡急籲中央：提高轉作金、強化原產地標示護農 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOR2Fuc0pJY1ZHUFRoTm5NRW03WG5CVUEyWk1tQloya3p3dnZ6SnFRd21nRmYwLW5ZZVUzeWdmaEhMbUNQWllhTS05V1Z0dHNZMVVma2hnejRLVDE2ZVRIejU4ZnBIZWV2Ni0xZ0VkcktPN29jX0VDWWprWGNEc3ZkREVabVZoZ3laZ2tfRjVkMWtncWgtQ1M3REdmeEhhejdqdHh1cDBxUi1MZUtJaU1TMFBWa1JRdGdTWS1SWjZvcnFZUGw3RGMtODZzalY5bF9rZEdFUlJTdEZUVElTQkJiX2EwTkN4eVh6VmtsMHJicVFKcWdyZHpXUkJQMThhTUo5N181WDZEYzlidkZaRGhRX1RrQVg1N05zdDJUQW5DZ3Q5MHZiSmpSRE1SLXNMQktmY1lvQnJJbWpIT0tHZmRoWVhNZkdjUzB3VXdwUVVhTktsSkFuRFljQVptaHJQVUh0N2YxQm03STlGc3pfREZaNW9Za2tXVVB3MGNqY3hURFBUeHVoOWw2ZlhLejBZMzJFNUx5MlJPTkprT3R1Z2UwcW15OFVfYTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 15:25:59"
+      },
+      {
+        "title": "本土花生價格暴跌約四成張嘉郡籲提高農業部轉作獎勵金| 政治焦點 - 太報 TaiSounds",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BZGE1QzQ4azBkVEFoZ1RSQk5DY1kxNHpmSGgzcENjRDVGYmlPZzFBMzlKUFdjLXdNaFlRSVQzUi1iM2g3OFB6ZHlxTlJaWkxIZFZlM09HVGhOR1ct?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 15:19:23"
+      },
+      {
+        "title": "本土花生價格暴跌約四成 張嘉郡籲提高農業部轉作獎勵金 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQRzlqSF9ZYmtFRkF2S1J6UFNiTTk5OGVnUEgwLVNldkZWaU1fVTZtRWNoRlo3czhjLUVTdTBIbXBLQlhzbHZDaUJJTjVuNTc2WkdaNU56ZUNPa3J4M0xGWVJMSlRIaDhPa1hJd0hPMUNJUFh4NFVPaGtQWDZiRC1mNkZTYTJfeU1PNXE3Ulk4enpBVDNKZVVZMU1BWERaY0YtSTZhZ0xMa0RUdGZ1QWUzVTc1MElCYjdxUlFNSmtjeXktUnZXbEJUTTJ0YVVBalpabmh0YXpvdzZ2WXUxbzZPbzJwck9MbVJNZEJmQW1HZk5id1pCbGY4eFRDSFA5ZlBBcXd3MGlRemJucU9iZ1dDOURaTHJEZzMta19hMG9McXRncUw4VDlZSDYyeU5TSWRwOHFtc25LRzAzS1FTdno4ZTZQckVZVERERHNVdmwyYy1wbzNyRTVjLWhWcnBVbjFJTWVHWkJxLXlFUUQ2Q2Y0M053WjY5R01iOGNzbnpGbEY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 15:19:23"
+      },
+      {
+        "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPME1jbVdHTzF2bTFQM055N3hJdjZjZU43bVNQQUxRYWtxeTFGMXBWSGczMEVKeXdmRUFrUnBZQVA4V2xzUWxaZmRwbzJxQ0pmUVdNa2FVQ3owVFFlZmFvQjBCZU9DV2xtd0o2cUpFdXl6cU82QS10MU9BRnZjT2Z4bUV3VzkwLUZSMGNrRlhNUzJISnRGLUlnUmZzVGlseW9zX3pqMTIwRTF5cE04WElIMWtYb2s2aU9qbmFJTkp5OXQ0cDg2MDB5aFh6TzNfaFFUaHZkajlPMVhvQ1Vwc0l6eGV4R3JiRUdKOVFObWNNR0pqUjY1VmNPaVIyRlM4a29fUDFLWkpLRzNWSnFIT2tfN3M4a2NuUFRpTllEQlU5ZWphYWFqTjVXNFBnbWVBejF5UkhtMzFVUVVxWTJwaTFHVjhNNGJzdlB3azJJNGJEdGk2VXAtcFdLMWFrTkJhSDBFRjVmR1ZxcU9iUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 15:15:43"
+      },
+      {
+        "title": "警告成真？花生價格跌破十年低點　張嘉郡籲提高轉作獎勵金 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBbTQ5SG5DdVdfYkNFVWFZYkVrOVhUZmpBRXJvWGk4aWFyMmVvVFN5dlA2YjZscGx6RlpUalhHd09rSGY5MkFyUnpWNnl1dm1IR0HSAVJBVV95cUxQQW00OUhuQ3VXX2JDRVVhWWJFazlYVGZqQUVyb1hpOGlhcjJlb1RTeXZQNmI2bHBsekZaVGpYR3dPa0hmOTJBclJ6VjZ5dXZtSEdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 14:58:33"
+      },
+      {
+        "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - fugomedia.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzZGFpYjJDV2pjcnctM1RTYTQwYTFENDd3ZzRrb0FKU3dzN2Y5Z00zeEw5WDBUdWs3N3dTSE5TN0x3N0pNdzJMQXNKUUNjQUFNdG1lcnZCXzczQ1ZybmhZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 14:58:00"
+      },
+      {
+        "title": "張嘉郡憂美花生「毀滅性衝擊」國產花生 楊瓊瓔反駁：講太嚴重價格更崩 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNeXZWNmlvclUwcW9zMWRRa2hXNFR0Rld4TWY0Y09VeG82Y0xoWVU0UTR2YTh4VTVKekw2WGpmdlZrdDJoY1duZjQxVnZTTXdJT1VQNFFSZVhLdVJ1eDhPWnQtRF9GUWRCd0g5WEJpSURMQmFtRk9TZndvUTY4WEdEMjk1bk1ILWMzYlpyb3c0ckVQWUJ4SkZVWDJLN204aHUwWUlWRmZUTElLWGt3S2V4Y2wzZmNlSUZ0VXVPY1VLemlPSDVyQTdjTUNEM0tWa1lMa0U1eERfeUhwTUpGT0Z3NzgwQ0lORG5GSmgwOTNiTXFEX2RfZE5SVm1vX2V1RVlObDZkRHpEQy1sYVFrRTVLejNxUWYwMWNiYThDWTdQSUtGTDBVZG9KR21aVkdKQ0NmYUhrYkQ4YVRrYmZWWVJXaW9hTXcwaWxqTnh1X0lQNVIwa0NlU3VBTHgyNlZWSERZRVhlUnNXT2xlbEpVck5BU0c3cllrR3ZhTW9lVnhRYzdpVnpqaC0wc0VkUzNaVDNremRZTWJxYzRCbzV4Qlk1VlQ2dTYwQ0pjNjBGNHVINWwtOU5j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 14:46:00"
+      },
+      {
+        "title": "張嘉郡憂美花生「毀滅性衝擊」國產花生楊瓊瓔反駁：講太嚴重價格更崩| 政治 - 三立新聞網SETN.com",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TRmNUQ0I0V3RBN01IblFSbFVmWDQwcjY3M3FjRUhhUFJzUndoNkpfcWVkY216ekRXZXRxZkhmcHFMNmExY1VxVDZfSjJqR3F3YzZSUWxjTnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 14:41:00"
+      },
+      {
+        "title": "雲林花生價崩 藍委張嘉郡拋2招籲護農 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQWkhCbU5hbFVBUTJKS01TRFBPeWVZU01kdlZCNzJwNUV1WklSM0Njb2xtZFJJdGljMmZlWnVpYUlxQUNvZXlqOFc4Qmp2Z3YxMEN5R3hINmpKWjFHQl92MTVWU2I5b0dFVkhvQVZwcEwzaU1Ud0VqUlNocVBkQl9BOV9OMTdlazh6dHVWVU9iVVpwY3lXOVdKdHVJeTJtQmo4RHdPeUVuMXZaUnh4M1hiOGRnRmxIRnFxbWJUekZ2SXAxaWtxdTRWc3F5NnRjdE9LSGFMN3lJcTZEMHUxb2RLdEJSRlFVYnF6T2RSbl9LbzVKTG5sbG9VQmdVS3JvSVlKcHRHNklFbXZfUFdpX0c2bXNGWkdhUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 14:33:59"
+      },
+      {
+        "title": "雲林花生價崩　藍委張嘉郡拋2招籲護農 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xVDE1cnhMeFBrdUNNQUZfNWE4TG83Mjc3bnhJX0tjcnFBRjk4dGxBWnRWYzJ5QnNYLVh0VExjTnFzdVpRODI1ejROdVdRVTVYRjh4MVRRdzE4dUdBTDduOW03NWNBd9IBa0FVX3lxTE41TDEtWkF4Q0Z5dWdyb0k4Qi1PTlI2QmhLNGVteWlfT01jRUpGRjA5R0haQkYzeUlaX3p0eDlqOVJ6X2pkekM4MzlkT3hBTDJycXJyeGdramtqdkNXWmZIT0lzNWVOU1Vfelpr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 14:15:00"
+      },
+      {
+        "title": "雲林花生價崩　藍委張嘉郡拋2招籲護農 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41TDEtWkF4Q0Z5dWdyb0k4Qi1PTlI2QmhLNGVteWlfT01jRUpGRjA5R0haQkYzeUlaX3p0eDlqOVJ6X2pkekM4MzlkT3hBTDJycXJyeGdramtqdkNXWmZIT0lzNWVOU1Vfelpr0gFrQVVfeXFMTjVMMS1aQXhDRnl1Z3JvSThCLU9OUjZCaEs0ZW15aV9PTWNFSkZGMDlHSFpCRjN5SVpfenR4OWo5UnpfamR6QzgzOWRPeEFMMnJxcnJ4Z2tqa2p2Q1daZkhPSXM1ZU5TVV96Wms?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 14:15:00"
+      },
+      {
+        "title": "花生價跌 張嘉郡要求農業部提高轉作獎勵價格 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05RzRxMXU1WXktUi1tRUlBMGRSc3VBSVo0Y0lmWGVabmNXOEM2RmRGaUU4WlhzUmdkeGNxcGNyUVNGczExaWt0V0R4LUJuOC1I0gFWQVVfeXFMTV9yaHY2M2swYlhhdmgzUUVNZkp1NGtGUUZtUlVXbXh0THJGVjF2LXg0QzNSWmh6amRNVlJ5R3I1WHd2MG1VN2swSlRjMExrTXhFcVJtalE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 14:03:07"
+      },
+      {
+        "title": "花生價跌 張嘉郡要求農業部提高轉作獎勵價格 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fcmh2NjNrMGJYYXZoM1FFTWZKdTRrRlFGbVJVV214dExyRlYxdi14NEMzUlpoempkTVZSeUdyNVh3djBtVTdrMEpUYzBMa014RXFSbWpR0gFWQVVfeXFMTV9yaHY2M2swYlhhdmgzUUVNZkp1NGtGUUZtUlVXbXh0THJGVjF2LXg0QzNSWmh6amRNVlJ5R3I1WHd2MG1VN2swSlRjMExrTXhFcVJtalE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 14:03:07"
+      },
+      {
+        "title": "張嘉郡稱美國會毀滅性衝擊國產花生 同黨立委楊瓊瓔警告：太嚴重字眼反讓價格更崩 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQSTI2c1lOQTBQWi03N2hvT1NWMHhkZXFYZDhfWXBGQU9hc3QxU1RSdTI5Q2VWY3RvWHQ4dGNCMzVtUzAxUlQ3d3JlR05ZQVlGbVEtbnM5RWpwNENRZE1aX3UwM3F4TUR5SjJhTi1yQy1lZDltN1B5TVBVRnRXSnJ0dVZicUdFQThoYXh4YW5razAwNFltekpPSEo2LXMtNnREOEZzSFhuYUxlMnJjdlZWUzUwdTg3TzJkY2ZGa21OT21ncUFkeWJEbDNHMUFHaFRjQm16aXU3cXRxM2RrY1JydDR1TWZ0cUItdFY1em5mOUlzdXcxV1dnUGJzd0Q4RXByTEZqVjlnZFFhYzJnR1pDUmVwM2lGU0hna0Z3ZXhLSnQyenlEV0U5TGxRbm1aNXdOY1hxOUt0QzBqZ1hRYWtMREtCUk9DSDJXcGhZT2lvLTZGbkRCbk9Oc1g4OTA3clhDWHZmY1VvY1Uwb0RTUnlydnRvX2xUbWJzVjRQNG0wX0pWVUZXa2xLbzRJalBwNXNFaUc3UEdiM2pSYm1uWXlGWEVDcVJ3dXloUDBleFl6aHdlT2U3RkY4NDF2ZFN5NEVBYnZaWlRvTm5LLV9sRjh2ZWZjR1g4Z0xsZHNET0xEVjVkdnBISEo2TWJpREUzSkpRb0lzVmtwYVhoZTNyMW02T2Z4emNNQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 13:40:28"
+      },
+      {
+        "title": "張嘉郡稱美國會毀滅性衝擊國產花生 同黨立委楊瓊瓔警告：太嚴重字眼反讓價格更崩 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FWUhYVmt0U1FKZTRVWmVGdWVMaEdlS0RNaTA4bWVmdmdIc2otaWpvU1BSRF92SGVjQTB3a1Q1aDl6Mkt5b3RtYXg5VUd0cnNDNFdZV19lU1JSZHJ5NDhlY1FOQ2Jvd1BueHhWeXB1TdIBb0FVX3lxTE5FWUhYVmt0U1FKZTRVWmVGdWVMaEdlS0RNaTA4bWVmdmdIc2otaWpvU1BSRF92SGVjQTB3a1Q1aDl6Mkt5b3RtYXg5VUd0cnNDNFdZV19lU1JSZHJ5NDhlY1FOQ2Jvd1BueHhWeXB1TQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 13:25:06"
+      },
+      {
+        "title": "張嘉郡稱美國會毀滅性衝擊國產花生 同黨立委楊瓊瓔警告：太嚴重字眼反讓價格更崩 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ET0NUNXB2OGZrOERaSGZTeTlPdEdPSkJpUUNZWDQ5ZVB5ZjAzN21EOUtDUWpkUEVNRkstMWRoRnVXZkJPdVNKbUN5TmRxSGRhN2JoWjFnVUxRM280V3BBbnFveC1pblEzaWfSAW9BVV95cUxORVlIWFZrdFNRSmU0VVplRnVlTGhHZUtETWkwOG1lZnZnSHNqLWlqb1NQUkRfdkhlY0Ewd2tUNWg5ejJLeW90bWF4OVVHdHJzQzRXWVdfZVNSUmRyeTQ4ZWNRTkNib3dQbnh4VnlwdU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 13:25:06"
+      },
+      {
+        "title": "張嘉郡要求花生轉作金發10萬5 農業部反應曝 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOcXFaLU1KN0J1dXVEak9JaVVBRjIyU3FCYXR5VzNITzZNem01X0REejhMb0x3eFJYcWZvS1g3TVNtUVRta1dXeFBfOW5oZVZ6VGNIVzh3YWlURUwzWndjWGtSV1JwRGY4S3VBYklXMzRMN1JlcjlfSE9jQW1odXFGYTdPaGJqSlpzaGo4cFVnMTRjS21ZMm4yRE41TzVYdkxxX3NVcDVmcEVDcVluU0ZNaUd6empnY3lFZTc0NlU2M0JLbTdaOGNXVXVZWk9ubzA1cUY5eG1mMHpXd3ZtTVpWbi1RLUxJTU9sdUVqclpnaGw3YlR2c21ISkdPU044SkdRS3JPNXhqblhmV2VpNkdDekJYWFU2ZmxVS0lYTHAxb3NaN09Xak4zRmVkX1Zqdzhy?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 13:23:00"
+      },
+      {
+        "title": "張嘉郡要求花生轉作金發10萬5 農業部反應曝 - 三立新聞網SETN.com",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84cE02NUtucHNtYUVVR0FmVllGWVRFME5heUYyMlFOVUFJR1RMU3dIVk5ldnhWZi1FVGpIVzJxREd3VXVSUFJqUy0zYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 13:21:15"
+      },
+      {
+        "title": "張嘉郡要求花生轉作金發10萬5 農業部反應曝| 財經 - 三立新聞網SETN.com",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pT1dUOXdsMGY1SWZUcFpDYmZEeHNSYWNBa1gxTkR3WWVKbC04Y2dmQmFIS2ZyLWVlVmFYVUFOSDRpQXJQU2NQbVBtaVBhak1lMDRHSU9udjc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 13:18:00"
+      },
+      {
+        "title": "張嘉郡要花生轉作金發10萬5　農業部回應 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aOHU2anR0SzlTSlhZMmtsZDF1cldrZ0tBNWVzTzV2WDZsb0Vtem1hVWZnOHRNVHhvd1hnMmxLMUdMY2JYWmhqVEo4NjJqdExBZGJrRHRYaDJQc0Z5Q3NqSl9B0gFiQVVfeXFMTVo4dTZqdHRLOVNKWFkya2xkMXVyV2tnS0E1ZXNPNXZYNmxvRW16bWFVZmc4dE1UeG93WGcybEsxR0xjYlhaaGpUSjg2Mmp0TEFkYmtEdFhoMlBzRnlDc2pKX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 13:18:00"
+      },
+      {
+        "title": "張嘉郡要花生轉作金發10萬5　農業部回應 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FaUhFMzVLOEc2U2ZNZE82WWFQMkdTRXFzMVc5dFdVd1lsakM1MVk2QkhpUnFoMFRYSHM1X3BURDQwQ0dZbTZZY0VOM1FjUUYwZTYzOGZ2SllGU2dF0gFiQVVfeXFMTVo4dTZqdHRLOVNKWFkya2xkMXVyV2tnS0E1ZXNPNXZYNmxvRW16bWFVZmc4dE1UeG93WGcybEsxR0xjYlhaaGpUSjg2Mmp0TEFkYmtEdFhoMlBzRnlDc2pKX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 13:18:00"
+      }
+    ],
     "facebook": [
       {
         "title": "雲林第一期花生採收創10年新低！ - 國民黨立委張嘉郡今（10）日要求農業部應盡速研議提高轉作價格，並落實標示原產地，以保障本土農民生計與消費者知情權。 - facebook.com",
@@ -400,118 +569,41 @@
         "url": "https://news.google.com/rss/articles/CBMiyAVBVV95cUxQZC1mVFVydHlfNVhrUjZUT2sxS2JVSzNxZ3llYmh5dWY4MHJQZjhZRUZnX1JtV1IyOUlkUXNGTjZaTm13Z2JCcks3UmdBWC1Wb3ptclJ3T1pmZWFLZ1Zad1EzeTJxMXg3clhUQ3hVQVlxbkNvZ0FXc1ZIbS1BMzVtVFNOZ3AzeXBPSFJGTXNlV01RTFA1aWx4a3RBckMyRS1DSXRhNGlMYU52OGk0VWZabGx1RC1GbmZ6SktTd0NEcnc0WlNvSEh6U0tKRzJWOEhnUW9TVFJfaUR3V0VDdEc5ekJDLUxXTWFubUVsWEcyRWEzc0thelRoT3RRVjdjS25KMGpkTF8yTDl5cDBlTWoxZWFLTTUxOW5KRXhaQkdnVVE2WnhWdmhWb3ZtZ3c5eDZxM2V3WGthbm5aaWdaWDkydGZ4Mm02YlRaMlljeHhIWVRNZVhmOThmU2pVdHVkZEFfQmV4UjdncjI3SjU2aTEyd19PTGRqZmhibHVpWWFJUXltWk9VaXBsWTBUV04yd01ra3h2SkJJOUJ4ak10VG9CNkE5VHVuMmg1NmhfUmhmYS04bkM2NFk0WERjekhCck1Hc1J2SkktQlpLRHlTakVmeVpJX19MVUFNQk1KdmE2cUJNNDlfYTVEMUJhQVFBUVNKM2NSRHhpNDNGT1Z0Rk9hNmhxM0lCdWltNHdRQkJOWXdJMzIxeGRabDl0Z1FJLWVtTUQ4Tzl4cTNLaVQ1T0w5WUl1aU9XdlJjNlJIV1VsakU3YURZQ1NqM0R5a2kydkNOQjNpR2ZmeEhMOU5zaS1zVTlDVWk4bXh6a2h3VS03TmQ0d3FnSkFDeWhRS0lieW80dTlzQzNhOWl5cmk3NHZNQU9rV080ckJ5a0JkUl9mU2xYX2NwYnNZU1N5UElmcGRjYWpESXlLSjEzQ2kwYUs5cjJyX21SQm55",
         "time": "2026-06-10 08:00:11"
       }
-    ],
-    "news": [
-      {
-        "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOV1M3MndZQzk3aVI0TDMxWTRqYlNmTkxDb0F4NmUtanVfdWI3OXlVQXNkMWJuYjRkSzhiTFkzRkVISjg5dDl5M2VlYnY0cFRVeHFpaHZfNGpiRVZfaW9KdnQwQ2otWng0dEx6RGNaTGo2RHBEMUVzZmFHenI4S0ZnVWRsZ2V5VVVLUWhEX3hobjZVZmNtN0YzMXV2WnFSMDh1SjMyQWo2X18yUnZ6al9rYUFYR1lXLXduYzV0ZzRZcHYxeHg5MDRidk5qZXZjVmVOSU9QUmlPamJJcGFQMVBwRGF4bWFIelJ2V3hmUXAwQlhVdUp3c1lTbUhBZk1ZYXdqTk5YdklJSVJjZ2liRzhfc09BbEF0VEZVM1hqTVNMQy1ZZzVxTU9naTFHN051WkhyZGR4enEzTFA2X2R6RGRPQVVERDkxX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 16:08:06"
-      },
-      {
-        "title": "本土花生價格暴跌約四成張嘉郡籲提高農業部轉作獎勵金| 政治焦點 - 太報 TaiSounds",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BZGE1QzQ4azBkVEFoZ1RSQk5DY1kxNHpmSGgzcENjRDVGYmlPZzFBMzlKUFdjLXdNaFlRSVQzUi1iM2g3OFB6ZHlxTlJaWkxIZFZlM09HVGhOR1ct?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 15:19:23"
-      },
-      {
-        "title": "本土花生價格暴跌約四成 張嘉郡籲提高農業部轉作獎勵金 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQRzlqSF9ZYmtFRkF2S1J6UFNiTTk5OGVnUEgwLVNldkZWaU1fVTZtRWNoRlo3czhjLUVTdTBIbXBLQlhzbHZDaUJJTjVuNTc2WkdaNU56ZUNPa3J4M0xGWVJMSlRIaDhPa1hJd0hPMUNJUFh4NFVPaGtQWDZiRC1mNkZTYTJfeU1PNXE3Ulk4enpBVDNKZVVZMU1BWERaY0YtSTZhZ0xMa0RUdGZ1QWUzVTc1MElCYjdxUlFNSmtjeXktUnZXbEJUTTJ0YVVBalpabmh0YXpvdzZ2WXUxbzZPbzJwck9MbVJNZEJmQW1HZk5id1pCbGY4eFRDSFA5ZlBBcXd3MGlRemJucU9iZ1dDOURaTHJEZzMta19hMG9McXRncUw4VDlZSDYyeU5TSWRwOHFtc25LRzAzS1FTdno4ZTZQckVZVERERHNVdmwyYy1wbzNyRTVjLWhWcnBVbjFJTWVHWkJxLXlFUUQ2Q2Y0M053WjY5R01iOGNzbnpGbEY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 15:19:23"
-      },
-      {
-        "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPME1jbVdHTzF2bTFQM055N3hJdjZjZU43bVNQQUxRYWtxeTFGMXBWSGczMEVKeXdmRUFrUnBZQVA4V2xzUWxaZmRwbzJxQ0pmUVdNa2FVQ3owVFFlZmFvQjBCZU9DV2xtd0o2cUpFdXl6cU82QS10MU9BRnZjT2Z4bUV3VzkwLUZSMGNrRlhNUzJISnRGLUlnUmZzVGlseW9zX3pqMTIwRTF5cE04WElIMWtYb2s2aU9qbmFJTkp5OXQ0cDg2MDB5aFh6TzNfaFFUaHZkajlPMVhvQ1Vwc0l6eGV4R3JiRUdKOVFObWNNR0pqUjY1VmNPaVIyRlM4a29fUDFLWkpLRzNWSnFIT2tfN3M4a2NuUFRpTllEQlU5ZWphYWFqTjVXNFBnbWVBejF5UkhtMzFVUVVxWTJwaTFHVjhNNGJzdlB3azJJNGJEdGk2VXAtcFdLMWFrTkJhSDBFRjVmR1ZxcU9iUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 15:15:43"
-      },
-      {
-        "title": "警告成真？花生價格跌破十年低點　張嘉郡籲提高轉作獎勵金 - NOWnews今日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBbTQ5SG5DdVdfYkNFVWFZYkVrOVhUZmpBRXJvWGk4aWFyMmVvVFN5dlA2YjZscGx6RlpUalhHd09rSGY5MkFyUnpWNnl1dm1IR0HSAVJBVV95cUxQQW00OUhuQ3VXX2JDRVVhWWJFazlYVGZqQUVyb1hpOGlhcjJlb1RTeXZQNmI2bHBsekZaVGpYR3dPa0hmOTJBclJ6VjZ5dXZtSEdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 14:58:33"
-      },
-      {
-        "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - fugomedia.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzZGFpYjJDV2pjcnctM1RTYTQwYTFENDd3ZzRrb0FKU3dzN2Y5Z00zeEw5WDBUdWs3N3dTSE5TN0x3N0pNdzJMQXNKUUNjQUFNdG1lcnZCXzczQ1ZybmhZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 14:58:00"
-      },
-      {
-        "title": "張嘉郡憂美花生「毀滅性衝擊」國產花生楊瓊瓔反駁：講太嚴重價格更崩| 政治 - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TRmNUQ0I0V3RBN01IblFSbFVmWDQwcjY3M3FjRUhhUFJzUndoNkpfcWVkY216ekRXZXRxZkhmcHFMNmExY1VxVDZfSjJqR3F3YzZSUWxjTnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 14:41:00"
-      },
-      {
-        "title": "雲林花生價崩 藍委張嘉郡拋2招籲護農 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQWkhCbU5hbFVBUTJKS01TRFBPeWVZU01kdlZCNzJwNUV1WklSM0Njb2xtZFJJdGljMmZlWnVpYUlxQUNvZXlqOFc4Qmp2Z3YxMEN5R3hINmpKWjFHQl92MTVWU2I5b0dFVkhvQVZwcEwzaU1Ud0VqUlNocVBkQl9BOV9OMTdlazh6dHVWVU9iVVpwY3lXOVdKdHVJeTJtQmo4RHdPeUVuMXZaUnh4M1hiOGRnRmxIRnFxbWJUekZ2SXAxaWtxdTRWc3F5NnRjdE9LSGFMN3lJcTZEMHUxb2RLdEJSRlFVYnF6T2RSbl9LbzVKTG5sbG9VQmdVS3JvSVlKcHRHNklFbXZfUFdpX0c2bXNGWkdhUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 14:33:59"
-      },
-      {
-        "title": "雲林花生價崩　藍委張嘉郡拋2招籲護農 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xVDE1cnhMeFBrdUNNQUZfNWE4TG83Mjc3bnhJX0tjcnFBRjk4dGxBWnRWYzJ5QnNYLVh0VExjTnFzdVpRODI1ejROdVdRVTVYRjh4MVRRdzE4dUdBTDduOW03NWNBd9IBa0FVX3lxTE41TDEtWkF4Q0Z5dWdyb0k4Qi1PTlI2QmhLNGVteWlfT01jRUpGRjA5R0haQkYzeUlaX3p0eDlqOVJ6X2pkekM4MzlkT3hBTDJycXJyeGdramtqdkNXWmZIT0lzNWVOU1Vfelpr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 14:15:00"
-      },
-      {
-        "title": "雲林花生價崩　藍委張嘉郡拋2招籲護農 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41TDEtWkF4Q0Z5dWdyb0k4Qi1PTlI2QmhLNGVteWlfT01jRUpGRjA5R0haQkYzeUlaX3p0eDlqOVJ6X2pkekM4MzlkT3hBTDJycXJyeGdramtqdkNXWmZIT0lzNWVOU1Vfelpr0gFrQVVfeXFMTjVMMS1aQXhDRnl1Z3JvSThCLU9OUjZCaEs0ZW15aV9PTWNFSkZGMDlHSFpCRjN5SVpfenR4OWo5UnpfamR6QzgzOWRPeEFMMnJxcnJ4Z2tqa2p2Q1daZkhPSXM1ZU5TVV96Wms?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 14:15:00"
-      },
-      {
-        "title": "花生價跌 張嘉郡要求農業部提高轉作獎勵價格 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05RzRxMXU1WXktUi1tRUlBMGRSc3VBSVo0Y0lmWGVabmNXOEM2RmRGaUU4WlhzUmdkeGNxcGNyUVNGczExaWt0V0R4LUJuOC1I0gFWQVVfeXFMTV9yaHY2M2swYlhhdmgzUUVNZkp1NGtGUUZtUlVXbXh0THJGVjF2LXg0QzNSWmh6amRNVlJ5R3I1WHd2MG1VN2swSlRjMExrTXhFcVJtalE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 14:03:07"
-      },
-      {
-        "title": "花生價跌 張嘉郡要求農業部提高轉作獎勵價格 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fcmh2NjNrMGJYYXZoM1FFTWZKdTRrRlFGbVJVV214dExyRlYxdi14NEMzUlpoempkTVZSeUdyNVh3djBtVTdrMEpUYzBMa014RXFSbWpR0gFWQVVfeXFMTV9yaHY2M2swYlhhdmgzUUVNZkp1NGtGUUZtUlVXbXh0THJGVjF2LXg0QzNSWmh6amRNVlJ5R3I1WHd2MG1VN2swSlRjMExrTXhFcVJtalE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 14:03:07"
-      },
-      {
-        "title": "張嘉郡稱美國會毀滅性衝擊國產花生 同黨立委楊瓊瓔警告：太嚴重字眼反讓價格更崩 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQSTI2c1lOQTBQWi03N2hvT1NWMHhkZXFYZDhfWXBGQU9hc3QxU1RSdTI5Q2VWY3RvWHQ4dGNCMzVtUzAxUlQ3d3JlR05ZQVlGbVEtbnM5RWpwNENRZE1aX3UwM3F4TUR5SjJhTi1yQy1lZDltN1B5TVBVRnRXSnJ0dVZicUdFQThoYXh4YW5razAwNFltekpPSEo2LXMtNnREOEZzSFhuYUxlMnJjdlZWUzUwdTg3TzJkY2ZGa21OT21ncUFkeWJEbDNHMUFHaFRjQm16aXU3cXRxM2RrY1JydDR1TWZ0cUItdFY1em5mOUlzdXcxV1dnUGJzd0Q4RXByTEZqVjlnZFFhYzJnR1pDUmVwM2lGU0hna0Z3ZXhLSnQyenlEV0U5TGxRbm1aNXdOY1hxOUt0QzBqZ1hRYWtMREtCUk9DSDJXcGhZT2lvLTZGbkRCbk9Oc1g4OTA3clhDWHZmY1VvY1Uwb0RTUnlydnRvX2xUbWJzVjRQNG0wX0pWVUZXa2xLbzRJalBwNXNFaUc3UEdiM2pSYm1uWXlGWEVDcVJ3dXloUDBleFl6aHdlT2U3RkY4NDF2ZFN5NEVBYnZaWlRvTm5LLV9sRjh2ZWZjR1g4Z0xsZHNET0xEVjVkdnBISEo2TWJpREUzSkpRb0lzVmtwYVhoZTNyMW02T2Z4emNNQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 13:40:28"
-      },
-      {
-        "title": "張嘉郡稱美國會毀滅性衝擊國產花生 同黨立委楊瓊瓔警告：太嚴重字眼反讓價格更崩 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FWUhYVmt0U1FKZTRVWmVGdWVMaEdlS0RNaTA4bWVmdmdIc2otaWpvU1BSRF92SGVjQTB3a1Q1aDl6Mkt5b3RtYXg5VUd0cnNDNFdZV19lU1JSZHJ5NDhlY1FOQ2Jvd1BueHhWeXB1TdIBb0FVX3lxTE5FWUhYVmt0U1FKZTRVWmVGdWVMaEdlS0RNaTA4bWVmdmdIc2otaWpvU1BSRF92SGVjQTB3a1Q1aDl6Mkt5b3RtYXg5VUd0cnNDNFdZV19lU1JSZHJ5NDhlY1FOQ2Jvd1BueHhWeXB1TQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 13:25:06"
-      },
-      {
-        "title": "張嘉郡要求花生轉作金發10萬5 農業部反應曝 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOcXFaLU1KN0J1dXVEak9JaVVBRjIyU3FCYXR5VzNITzZNem01X0REejhMb0x3eFJYcWZvS1g3TVNtUVRta1dXeFBfOW5oZVZ6VGNIVzh3YWlURUwzWndjWGtSV1JwRGY4S3VBYklXMzRMN1JlcjlfSE9jQW1odXFGYTdPaGJqSlpzaGo4cFVnMTRjS21ZMm4yRE41TzVYdkxxX3NVcDVmcEVDcVluU0ZNaUd6empnY3lFZTc0NlU2M0JLbTdaOGNXVXVZWk9ubzA1cUY5eG1mMHpXd3ZtTVpWbi1RLUxJTU9sdUVqclpnaGw3YlR2c21ISkdPU044SkdRS3JPNXhqblhmV2VpNkdDekJYWFU2ZmxVS0lYTHAxb3NaN09Xak4zRmVkX1Zqdzhy?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 13:23:00"
-      },
-      {
-        "title": "張嘉郡要求花生轉作金發10萬5 農業部反應曝 - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84cE02NUtucHNtYUVVR0FmVllGWVRFME5heUYyMlFOVUFJR1RMU3dIVk5ldnhWZi1FVGpIVzJxREd3VXVSUFJqUy0zYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 13:21:15"
-      },
-      {
-        "title": "張嘉郡要求花生轉作金發10萬5 農業部反應曝| 財經 - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pT1dUOXdsMGY1SWZUcFpDYmZEeHNSYWNBa1gxTkR3WWVKbC04Y2dmQmFIS2ZyLWVlVmFYVUFOSDRpQXJQU2NQbVBtaVBhak1lMDRHSU9udjc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 13:18:00"
-      },
-      {
-        "title": "張嘉郡要花生轉作金發10萬5　農業部回應 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aOHU2anR0SzlTSlhZMmtsZDF1cldrZ0tBNWVzTzV2WDZsb0Vtem1hVWZnOHRNVHhvd1hnMmxLMUdMY2JYWmhqVEo4NjJqdExBZGJrRHRYaDJQc0Z5Q3NqSl9B0gFiQVVfeXFMTVo4dTZqdHRLOVNKWFkya2xkMXVyV2tnS0E1ZXNPNXZYNmxvRW16bWFVZmc4dE1UeG93WGcybEsxR0xjYlhaaGpUSjg2Mmp0TEFkYmtEdFhoMlBzRnlDc2pKX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 13:18:00"
-      },
-      {
-        "title": "張嘉郡要花生轉作金發10萬5　農業部回應 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FaUhFMzVLOEc2U2ZNZE82WWFQMkdTRXFzMVc5dFdVd1lsakM1MVk2QkhpUnFoMFRYSHM1X3BURDQwQ0dZbTZZY0VOM1FjUUYwZTYzOGZ2SllGU2dF0gFiQVVfeXFMTVo4dTZqdHRLOVNKWFkya2xkMXVyV2tnS0E1ZXNPNXZYNmxvRW16bWFVZmc4dE1UeG93WGcybEsxR0xjYlhaaGpUSjg2Mmp0TEFkYmtEdFhoMlBzRnlDc2pKX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 13:18:00"
-      }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 20,
+    "張嘉郡": 26,
     "劉建國": 0
   },
   "mention_compare_7d": {
-    "張嘉郡": 26,
+    "張嘉郡": 32,
     "劉建國": 65
   },
   "top_news": [
     {
+      "title": "抓完鰻魚換吃火鍋！ 蔣萬安、張麗善、張嘉郡兩度合體拉抬選情｜#鏡新聞 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNT1FMR0c5MGhYcVRpMk9XVldUYzdDODA2TEJ4SkRIeHlTbVRHN3JGQUpneEpwM2ktZ21GNjhuUWVMNWVwd2NxQ000dGFzek8wSE5LcHlkR3NscmpkU0Q2NmZxRUpxcTctSWh2RE1TQ29uYTh1dk5HR2xCeWR4TlFhUVRoVUd3eGRTMmFqSmttejc2cUJleFdma1oxVHZRZmkxcVNJbktxMmlXdGhHQ2FORmlWRjFQcU5uUUhyaVVZT3hiS3p6Vnd5TEZCNUgyUGlxZWRvVGFxUlNhblppeDhLbUI3ekRadHJwdUFOT2U2OUVhV25OX0NoRElCcUNkOXZFM2QtVmdKQVFTOUFmM2hCWkZCd0J5cVJyNnBqYlFEWW5RcmxhX3BQajRZTXhyaDE4ZFlWaWRRY1BKOW9mQzNDOEZ6QkRNSE1xUXdCRlU5TFJ0WWJHem9VRTU1VVV1Q29RbU5OY3VvMW9aUzdLMEx2ZlF0MGpVcEx2bkR4YThRSEhLSGNWcWxWVnhpbzdUcWd3RkhIb0hud21PN0xST1p0V0taOS1MbklO?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-10 18:41:31"
+    },
+    {
+      "title": "雲林花生開盤價跌四成創十年新低！張嘉郡促調高轉作金、修食安法嚴防洗產地| 夏和宣| 地方新聞 - 風傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qZnE4Vm5Bem5QN3BVZmU0ZGtmanpQWTFqSXJzMVFfTWpmbHpLQUJNRG9sSmV3UkxzTTYxMUJKUXY3Ym9EV3lSS1owQjFnUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-10 17:52:38"
+    },
+    {
+      "title": "不滿曾被酸危言聳聽 張嘉郡擬修《食安法》 嚴防進口花生洗產地 - 匯流新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CQXFZMjhEaWg4M1F0eW1ac0ZMOWZqNFdDOFlBRTFGMXZkbklmNVV2bE1nQ1VtLW9tSGpadTZnUV8xQk4tMnZSaU9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-10 16:08:27"
+    },
+    {
       "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - MSN",
       "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOV1M3MndZQzk3aVI0TDMxWTRqYlNmTkxDb0F4NmUtanVfdWI3OXlVQXNkMWJuYjRkSzhiTFkzRkVISjg5dDl5M2VlYnY0cFRVeHFpaHZfNGpiRVZfaW9KdnQwQ2otWng0dEx6RGNaTGo2RHBEMUVzZmFHenI4S0ZnVWRsZ2V5VVVLUWhEX3hobjZVZmNtN0YzMXV2WnFSMDh1SjMyQWo2X18yUnZ6al9rYUFYR1lXLXduYzV0ZzRZcHYxeHg5MDRidk5qZXZjVmVOSU9QUmlPamJJcGFQMVBwRGF4bWFIelJ2V3hmUXAwQlhVdUp3c1lTbUhBZk1ZYXdqTk5YdklJSVJjZ2liRzhfc09BbEF0VEZVM1hqTVNMQy1ZZzVxTU9naTFHN051WkhyZGR4enEzTFA2X2R6RGRPQVVERDkxX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-10 16:08:06"
+    },
+    {
+      "title": "國產花生價慘崩！張嘉郡急籲中央：提高轉作金、強化原產地標示護農 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOR2Fuc0pJY1ZHUFRoTm5NRW03WG5CVUEyWk1tQloya3p3dnZ6SnFRd21nRmYwLW5ZZVUzeWdmaEhMbUNQWllhTS05V1Z0dHNZMVVma2hnejRLVDE2ZVRIejU4ZnBIZWV2Ni0xZ0VkcktPN29jX0VDWWprWGNEc3ZkREVabVZoZ3laZ2tfRjVkMWtncWgtQ1M3REdmeEhhejdqdHh1cDBxUi1MZUtJaU1TMFBWa1JRdGdTWS1SWjZvcnFZUGw3RGMtODZzalY5bF9rZEdFUlJTdEZUVElTQkJiX2EwTkN4eVh6VmtsMHJicVFKcWdyZHpXUkJQMThhTUo5N181WDZEYzlidkZaRGhRX1RrQVg1N05zdDJUQW5DZ3Q5MHZiSmpSRE1SLXNMQktmY1lvQnJJbWpIT0tHZmRoWVhNZkdjUzB3VXdwUVVhTktsSkFuRFljQVptaHJQVUh0N2YxQm03STlGc3pfREZaNW9Za2tXVVB3MGNqY3hURFBUeHVoOWw2ZlhLejBZMzJFNUx5MlJPTkprT3R1Z2UwcW15OFVfYTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-10 15:25:59"
     },
     {
       "title": "本土花生價格暴跌約四成張嘉郡籲提高農業部轉作獎勵金| 政治焦點 - 太報 TaiSounds",
@@ -537,43 +629,43 @@
       "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - fugomedia.com.tw",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzZGFpYjJDV2pjcnctM1RTYTQwYTFENDd3ZzRrb0FKU3dzN2Y5Z00zeEw5WDBUdWs3N3dTSE5TN0x3N0pNdzJMQXNKUUNjQUFNdG1lcnZCXzczQ1ZybmhZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-10 14:58:00"
+    },
+    {
+      "title": "張嘉郡憂美花生「毀滅性衝擊」國產花生 楊瓊瓔反駁：講太嚴重價格更崩 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNeXZWNmlvclUwcW9zMWRRa2hXNFR0Rld4TWY0Y09VeG82Y0xoWVU0UTR2YTh4VTVKekw2WGpmdlZrdDJoY1duZjQxVnZTTXdJT1VQNFFSZVhLdVJ1eDhPWnQtRF9GUWRCd0g5WEJpSURMQmFtRk9TZndvUTY4WEdEMjk1bk1ILWMzYlpyb3c0ckVQWUJ4SkZVWDJLN204aHUwWUlWRmZUTElLWGt3S2V4Y2wzZmNlSUZ0VXVPY1VLemlPSDVyQTdjTUNEM0tWa1lMa0U1eERfeUhwTUpGT0Z3NzgwQ0lORG5GSmgwOTNiTXFEX2RfZE5SVm1vX2V1RVlObDZkRHpEQy1sYVFrRTVLejNxUWYwMWNiYThDWTdQSUtGTDBVZG9KR21aVkdKQ0NmYUhrYkQ4YVRrYmZWWVJXaW9hTXcwaWxqTnh1X0lQNVIwa0NlU3VBTHgyNlZWSERZRVhlUnNXT2xlbEpVck5BU0c3cllrR3ZhTW9lVnhRYzdpVnpqaC0wc0VkUzNaVDNremRZTWJxYzRCbzV4Qlk1VlQ2dTYwQ0pjNjBGNHVINWwtOU5j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-10 14:46:00"
     },
     {
       "title": "張嘉郡憂美花生「毀滅性衝擊」國產花生楊瓊瓔反駁：講太嚴重價格更崩| 政治 - 三立新聞網SETN.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TRmNUQ0I0V3RBN01IblFSbFVmWDQwcjY3M3FjRUhhUFJzUndoNkpfcWVkY216ekRXZXRxZkhmcHFMNmExY1VxVDZfSjJqR3F3YzZSUWxjTnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-10 14:41:00"
-    },
-    {
-      "title": "雲林花生價崩 藍委張嘉郡拋2招籲護農 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQWkhCbU5hbFVBUTJKS01TRFBPeWVZU01kdlZCNzJwNUV1WklSM0Njb2xtZFJJdGljMmZlWnVpYUlxQUNvZXlqOFc4Qmp2Z3YxMEN5R3hINmpKWjFHQl92MTVWU2I5b0dFVkhvQVZwcEwzaU1Ud0VqUlNocVBkQl9BOV9OMTdlazh6dHVWVU9iVVpwY3lXOVdKdHVJeTJtQmo4RHdPeUVuMXZaUnh4M1hiOGRnRmxIRnFxbWJUekZ2SXAxaWtxdTRWc3F5NnRjdE9LSGFMN3lJcTZEMHUxb2RLdEJSRlFVYnF6T2RSbl9LbzVKTG5sbG9VQmdVS3JvSVlKcHRHNklFbXZfUFdpX0c2bXNGWkdhUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-10 14:33:59"
-    },
-    {
-      "title": "雲林花生價崩　藍委張嘉郡拋2招籲護農 - 鏡週刊Mirror Media",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xVDE1cnhMeFBrdUNNQUZfNWE4TG83Mjc3bnhJX0tjcnFBRjk4dGxBWnRWYzJ5QnNYLVh0VExjTnFzdVpRODI1ejROdVdRVTVYRjh4MVRRdzE4dUdBTDduOW03NWNBd9IBa0FVX3lxTE41TDEtWkF4Q0Z5dWdyb0k4Qi1PTlI2QmhLNGVteWlfT01jRUpGRjA5R0haQkYzeUlaX3p0eDlqOVJ6X2pkekM4MzlkT3hBTDJycXJyeGdramtqdkNXWmZIT0lzNWVOU1Vfelpr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-10 14:15:00"
-    },
-    {
-      "title": "雲林花生價崩　藍委張嘉郡拋2招籲護農 - 鏡週刊Mirror Media",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41TDEtWkF4Q0Z5dWdyb0k4Qi1PTlI2QmhLNGVteWlfT01jRUpGRjA5R0haQkYzeUlaX3p0eDlqOVJ6X2pkekM4MzlkT3hBTDJycXJyeGdramtqdkNXWmZIT0lzNWVOU1Vfelpr0gFrQVVfeXFMTjVMMS1aQXhDRnl1Z3JvSThCLU9OUjZCaEs0ZW15aV9PTWNFSkZGMDlHSFpCRjN5SVpfenR4OWo5UnpfamR6QzgzOWRPeEFMMnJxcnJ4Z2tqa2p2Q1daZkhPSXM1ZU5TVV96Wms?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-10 14:15:00"
-    },
-    {
-      "title": "花生價跌 張嘉郡要求農業部提高轉作獎勵價格 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05RzRxMXU1WXktUi1tRUlBMGRSc3VBSVo0Y0lmWGVabmNXOEM2RmRGaUU4WlhzUmdkeGNxcGNyUVNGczExaWt0V0R4LUJuOC1I0gFWQVVfeXFMTV9yaHY2M2swYlhhdmgzUUVNZkp1NGtGUUZtUlVXbXh0THJGVjF2LXg0QzNSWmh6amRNVlJ5R3I1WHd2MG1VN2swSlRjMExrTXhFcVJtalE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-10 14:03:07"
-    },
-    {
-      "title": "花生價跌 張嘉郡要求農業部提高轉作獎勵價格 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fcmh2NjNrMGJYYXZoM1FFTWZKdTRrRlFGbVJVV214dExyRlYxdi14NEMzUlpoempkTVZSeUdyNVh3djBtVTdrMEpUYzBMa014RXFSbWpR0gFWQVVfeXFMTV9yaHY2M2swYlhhdmgzUUVNZkp1NGtGUUZtUlVXbXh0THJGVjF2LXg0QzNSWmh6amRNVlJ5R3I1WHd2MG1VN2swSlRjMExrTXhFcVJtalE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-10 14:03:07"
     }
   ],
   "top_news_7d": [
     {
+      "title": "抓完鰻魚換吃火鍋！ 蔣萬安、張麗善、張嘉郡兩度合體拉抬選情｜#鏡新聞 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNT1FMR0c5MGhYcVRpMk9XVldUYzdDODA2TEJ4SkRIeHlTbVRHN3JGQUpneEpwM2ktZ21GNjhuUWVMNWVwd2NxQ000dGFzek8wSE5LcHlkR3NscmpkU0Q2NmZxRUpxcTctSWh2RE1TQ29uYTh1dk5HR2xCeWR4TlFhUVRoVUd3eGRTMmFqSmttejc2cUJleFdma1oxVHZRZmkxcVNJbktxMmlXdGhHQ2FORmlWRjFQcU5uUUhyaVVZT3hiS3p6Vnd5TEZCNUgyUGlxZWRvVGFxUlNhblppeDhLbUI3ekRadHJwdUFOT2U2OUVhV25OX0NoRElCcUNkOXZFM2QtVmdKQVFTOUFmM2hCWkZCd0J5cVJyNnBqYlFEWW5RcmxhX3BQajRZTXhyaDE4ZFlWaWRRY1BKOW9mQzNDOEZ6QkRNSE1xUXdCRlU5TFJ0WWJHem9VRTU1VVV1Q29RbU5OY3VvMW9aUzdLMEx2ZlF0MGpVcEx2bkR4YThRSEhLSGNWcWxWVnhpbzdUcWd3RkhIb0hud21PN0xST1p0V0taOS1MbklO?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-10 18:41:31"
+    },
+    {
+      "title": "雲林花生開盤價跌四成創十年新低！張嘉郡促調高轉作金、修食安法嚴防洗產地| 夏和宣| 地方新聞 - 風傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qZnE4Vm5Bem5QN3BVZmU0ZGtmanpQWTFqSXJzMVFfTWpmbHpLQUJNRG9sSmV3UkxzTTYxMUJKUXY3Ym9EV3lSS1owQjFnUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-10 17:52:38"
+    },
+    {
+      "title": "不滿曾被酸危言聳聽 張嘉郡擬修《食安法》 嚴防進口花生洗產地 - 匯流新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CQXFZMjhEaWg4M1F0eW1ac0ZMOWZqNFdDOFlBRTFGMXZkbklmNVV2bE1nQ1VtLW9tSGpadTZnUV8xQk4tMnZSaU9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-10 16:08:27"
+    },
+    {
       "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - MSN",
       "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOV1M3MndZQzk3aVI0TDMxWTRqYlNmTkxDb0F4NmUtanVfdWI3OXlVQXNkMWJuYjRkSzhiTFkzRkVISjg5dDl5M2VlYnY0cFRVeHFpaHZfNGpiRVZfaW9KdnQwQ2otWng0dEx6RGNaTGo2RHBEMUVzZmFHenI4S0ZnVWRsZ2V5VVVLUWhEX3hobjZVZmNtN0YzMXV2WnFSMDh1SjMyQWo2X18yUnZ6al9rYUFYR1lXLXduYzV0ZzRZcHYxeHg5MDRidk5qZXZjVmVOSU9QUmlPamJJcGFQMVBwRGF4bWFIelJ2V3hmUXAwQlhVdUp3c1lTbUhBZk1ZYXdqTk5YdklJSVJjZ2liRzhfc09BbEF0VEZVM1hqTVNMQy1ZZzVxTU9naTFHN051WkhyZGR4enEzTFA2X2R6RGRPQVVERDkxX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-10 16:08:06"
+    },
+    {
+      "title": "國產花生價慘崩！張嘉郡急籲中央：提高轉作金、強化原產地標示護農 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOR2Fuc0pJY1ZHUFRoTm5NRW03WG5CVUEyWk1tQloya3p3dnZ6SnFRd21nRmYwLW5ZZVUzeWdmaEhMbUNQWllhTS05V1Z0dHNZMVVma2hnejRLVDE2ZVRIejU4ZnBIZWV2Ni0xZ0VkcktPN29jX0VDWWprWGNEc3ZkREVabVZoZ3laZ2tfRjVkMWtncWgtQ1M3REdmeEhhejdqdHh1cDBxUi1MZUtJaU1TMFBWa1JRdGdTWS1SWjZvcnFZUGw3RGMtODZzalY5bF9rZEdFUlJTdEZUVElTQkJiX2EwTkN4eVh6VmtsMHJicVFKcWdyZHpXUkJQMThhTUo5N181WDZEYzlidkZaRGhRX1RrQVg1N05zdDJUQW5DZ3Q5MHZiSmpSRE1SLXNMQktmY1lvQnJJbWpIT0tHZmRoWVhNZkdjUzB3VXdwUVVhTktsSkFuRFljQVptaHJQVUh0N2YxQm03STlGc3pfREZaNW9Za2tXVVB3MGNqY3hURFBUeHVoOWw2ZlhLejBZMzJFNUx5MlJPTkprT3R1Z2UwcW15OFVfYTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-10 15:25:59"
     },
     {
       "title": "本土花生價格暴跌約四成張嘉郡籲提高農業部轉作獎勵金| 政治焦點 - 太報 TaiSounds",
@@ -599,6 +691,11 @@
       "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - fugomedia.com.tw",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzZGFpYjJDV2pjcnctM1RTYTQwYTFENDd3ZzRrb0FKU3dzN2Y5Z00zeEw5WDBUdWs3N3dTSE5TN0x3N0pNdzJMQXNKUUNjQUFNdG1lcnZCXzczQ1ZybmhZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-10 14:58:00"
+    },
+    {
+      "title": "張嘉郡憂美花生「毀滅性衝擊」國產花生 楊瓊瓔反駁：講太嚴重價格更崩 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNeXZWNmlvclUwcW9zMWRRa2hXNFR0Rld4TWY0Y09VeG82Y0xoWVU0UTR2YTh4VTVKekw2WGpmdlZrdDJoY1duZjQxVnZTTXdJT1VQNFFSZVhLdVJ1eDhPWnQtRF9GUWRCd0g5WEJpSURMQmFtRk9TZndvUTY4WEdEMjk1bk1ILWMzYlpyb3c0ckVQWUJ4SkZVWDJLN204aHUwWUlWRmZUTElLWGt3S2V4Y2wzZmNlSUZ0VXVPY1VLemlPSDVyQTdjTUNEM0tWa1lMa0U1eERfeUhwTUpGT0Z3NzgwQ0lORG5GSmgwOTNiTXFEX2RfZE5SVm1vX2V1RVlObDZkRHpEQy1sYVFrRTVLejNxUWYwMWNiYThDWTdQSUtGTDBVZG9KR21aVkdKQ0NmYUhrYkQ4YVRrYmZWWVJXaW9hTXcwaWxqTnh1X0lQNVIwa0NlU3VBTHgyNlZWSERZRVhlUnNXT2xlbEpVck5BU0c3cllrR3ZhTW9lVnhRYzdpVnpqaC0wc0VkUzNaVDNremRZTWJxYzRCbzV4Qlk1VlQ2dTYwQ0pjNjBGNHVINWwtOU5j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-10 14:46:00"
     },
     {
       "title": "張嘉郡憂美花生「毀滅性衝擊」國產花生楊瓊瓔反駁：講太嚴重價格更崩| 政治 - 三立新聞網SETN.com",
@@ -641,34 +738,9 @@
       "time": "2026-06-10 13:25:06"
     },
     {
-      "title": "張嘉郡要求花生轉作金發10萬5 農業部反應曝 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOcXFaLU1KN0J1dXVEak9JaVVBRjIyU3FCYXR5VzNITzZNem01X0REejhMb0x3eFJYcWZvS1g3TVNtUVRta1dXeFBfOW5oZVZ6VGNIVzh3YWlURUwzWndjWGtSV1JwRGY4S3VBYklXMzRMN1JlcjlfSE9jQW1odXFGYTdPaGJqSlpzaGo4cFVnMTRjS21ZMm4yRE41TzVYdkxxX3NVcDVmcEVDcVluU0ZNaUd6empnY3lFZTc0NlU2M0JLbTdaOGNXVXVZWk9ubzA1cUY5eG1mMHpXd3ZtTVpWbi1RLUxJTU9sdUVqclpnaGw3YlR2c21ISkdPU044SkdRS3JPNXhqblhmV2VpNkdDekJYWFU2ZmxVS0lYTHAxb3NaN09Xak4zRmVkX1Zqdzhy?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-10 13:23:00"
-    },
-    {
-      "title": "張嘉郡要求花生轉作金發10萬5 農業部反應曝 - 三立新聞網SETN.com",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84cE02NUtucHNtYUVVR0FmVllGWVRFME5heUYyMlFOVUFJR1RMU3dIVk5ldnhWZi1FVGpIVzJxREd3VXVSUFJqUy0zYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-10 13:21:15"
-    },
-    {
-      "title": "張嘉郡要求花生轉作金發10萬5 農業部反應曝| 財經 - 三立新聞網SETN.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pT1dUOXdsMGY1SWZUcFpDYmZEeHNSYWNBa1gxTkR3WWVKbC04Y2dmQmFIS2ZyLWVlVmFYVUFOSDRpQXJQU2NQbVBtaVBhak1lMDRHSU9udjc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-10 13:18:00"
-    },
-    {
-      "title": "張嘉郡要花生轉作金發10萬5　農業部回應 - 鏡週刊Mirror Media",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aOHU2anR0SzlTSlhZMmtsZDF1cldrZ0tBNWVzTzV2WDZsb0Vtem1hVWZnOHRNVHhvd1hnMmxLMUdMY2JYWmhqVEo4NjJqdExBZGJrRHRYaDJQc0Z5Q3NqSl9B0gFiQVVfeXFMTVo4dTZqdHRLOVNKWFkya2xkMXVyV2tnS0E1ZXNPNXZYNmxvRW16bWFVZmc4dE1UeG93WGcybEsxR0xjYlhaaGpUSjg2Mmp0TEFkYmtEdFhoMlBzRnlDc2pKX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-10 13:18:00"
-    },
-    {
-      "title": "張嘉郡要花生轉作金發10萬5　農業部回應 - 鏡週刊Mirror Media",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FaUhFMzVLOEc2U2ZNZE82WWFQMkdTRXFzMVc5dFdVd1lsakM1MVk2QkhpUnFoMFRYSHM1X3BURDQwQ0dZbTZZY0VOM1FjUUYwZTYzOGZ2SllGU2dF0gFiQVVfeXFMTVo4dTZqdHRLOVNKWFkya2xkMXVyV2tnS0E1ZXNPNXZYNmxvRW16bWFVZmc4dE1UeG93WGcybEsxR0xjYlhaaGpUSjg2Mmp0TEFkYmtEdFhoMlBzRnlDc2pKX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-10 13:18:00"
-    },
-    {
-      "title": "雲林花生價跌3成 張嘉郡：一個多月前示警中央還被說危言聳聽 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45MWdlcEhvblBWYmhrZDVTWENoWkhpdXVqakttYkQ5ek5SYlpyN0YwYmw3cDJ1TThNU2Vtb3MzR2c5TFVrOXJXX3JDVDF5WjlNUXRpZEVrblBjQdIBX0FVX3lxTFBPSVI0WGc2bnpOSGxYdmZVOGNnNW1vYm5iTUprLXU2d1hPMkpnUFkwdTIybkNyenF1bHhoUmdHYVNPdjhtalBfakY0dlNKY3dUVWFCNVJqb3k1cFJjeWtr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-09 14:48:45"
+      "title": "張嘉郡稱美國會毀滅性衝擊國產花生 同黨立委楊瓊瓔警告：太嚴重字眼反讓價格更崩 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ET0NUNXB2OGZrOERaSGZTeTlPdEdPSkJpUUNZWDQ5ZVB5ZjAzN21EOUtDUWpkUEVNRkstMWRoRnVXZkJPdVNKbUN5TmRxSGRhN2JoWjFnVUxRM280V3BBbnFveC1pblEzaWfSAW9BVV95cUxORVlIWFZrdFNRSmU0VVplRnVlTGhHZUtETWkwOG1lZnZnSHNqLWlqb1NQUkRfdkhlY0Ewd2tUNWg5ejJLeW90bWF4OVVHdHJzQzRXWVdfZVNSUmRyeTQ4ZWNRTkNib3dQbnh4VnlwdU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-10 13:25:06"
     }
   ],
   "latest_facebook_20": [
@@ -775,9 +847,29 @@
   ],
   "latest_news_20": [
     {
+      "title": "抓完鰻魚換吃火鍋！ 蔣萬安、張麗善、張嘉郡兩度合體拉抬選情｜#鏡新聞 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNT1FMR0c5MGhYcVRpMk9XVldUYzdDODA2TEJ4SkRIeHlTbVRHN3JGQUpneEpwM2ktZ21GNjhuUWVMNWVwd2NxQ000dGFzek8wSE5LcHlkR3NscmpkU0Q2NmZxRUpxcTctSWh2RE1TQ29uYTh1dk5HR2xCeWR4TlFhUVRoVUd3eGRTMmFqSmttejc2cUJleFdma1oxVHZRZmkxcVNJbktxMmlXdGhHQ2FORmlWRjFQcU5uUUhyaVVZT3hiS3p6Vnd5TEZCNUgyUGlxZWRvVGFxUlNhblppeDhLbUI3ekRadHJwdUFOT2U2OUVhV25OX0NoRElCcUNkOXZFM2QtVmdKQVFTOUFmM2hCWkZCd0J5cVJyNnBqYlFEWW5RcmxhX3BQajRZTXhyaDE4ZFlWaWRRY1BKOW9mQzNDOEZ6QkRNSE1xUXdCRlU5TFJ0WWJHem9VRTU1VVV1Q29RbU5OY3VvMW9aUzdLMEx2ZlF0MGpVcEx2bkR4YThRSEhLSGNWcWxWVnhpbzdUcWd3RkhIb0hud21PN0xST1p0V0taOS1MbklO?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-10 18:41:31"
+    },
+    {
+      "title": "雲林花生開盤價跌四成創十年新低！張嘉郡促調高轉作金、修食安法嚴防洗產地| 夏和宣| 地方新聞 - 風傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qZnE4Vm5Bem5QN3BVZmU0ZGtmanpQWTFqSXJzMVFfTWpmbHpLQUJNRG9sSmV3UkxzTTYxMUJKUXY3Ym9EV3lSS1owQjFnUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-10 17:52:38"
+    },
+    {
+      "title": "不滿曾被酸危言聳聽 張嘉郡擬修《食安法》 嚴防進口花生洗產地 - 匯流新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CQXFZMjhEaWg4M1F0eW1ac0ZMOWZqNFdDOFlBRTFGMXZkbklmNVV2bE1nQ1VtLW9tSGpadTZnUV8xQk4tMnZSaU9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-10 16:08:27"
+    },
+    {
       "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - MSN",
       "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOV1M3MndZQzk3aVI0TDMxWTRqYlNmTkxDb0F4NmUtanVfdWI3OXlVQXNkMWJuYjRkSzhiTFkzRkVISjg5dDl5M2VlYnY0cFRVeHFpaHZfNGpiRVZfaW9KdnQwQ2otWng0dEx6RGNaTGo2RHBEMUVzZmFHenI4S0ZnVWRsZ2V5VVVLUWhEX3hobjZVZmNtN0YzMXV2WnFSMDh1SjMyQWo2X18yUnZ6al9rYUFYR1lXLXduYzV0ZzRZcHYxeHg5MDRidk5qZXZjVmVOSU9QUmlPamJJcGFQMVBwRGF4bWFIelJ2V3hmUXAwQlhVdUp3c1lTbUhBZk1ZYXdqTk5YdklJSVJjZ2liRzhfc09BbEF0VEZVM1hqTVNMQy1ZZzVxTU9naTFHN051WkhyZGR4enEzTFA2X2R6RGRPQVVERDkxX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-10 16:08:06"
+    },
+    {
+      "title": "國產花生價慘崩！張嘉郡急籲中央：提高轉作金、強化原產地標示護農 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOR2Fuc0pJY1ZHUFRoTm5NRW03WG5CVUEyWk1tQloya3p3dnZ6SnFRd21nRmYwLW5ZZVUzeWdmaEhMbUNQWllhTS05V1Z0dHNZMVVma2hnejRLVDE2ZVRIejU4ZnBIZWV2Ni0xZ0VkcktPN29jX0VDWWprWGNEc3ZkREVabVZoZ3laZ2tfRjVkMWtncWgtQ1M3REdmeEhhejdqdHh1cDBxUi1MZUtJaU1TMFBWa1JRdGdTWS1SWjZvcnFZUGw3RGMtODZzalY5bF9rZEdFUlJTdEZUVElTQkJiX2EwTkN4eVh6VmtsMHJicVFKcWdyZHpXUkJQMThhTUo5N181WDZEYzlidkZaRGhRX1RrQVg1N05zdDJUQW5DZ3Q5MHZiSmpSRE1SLXNMQktmY1lvQnJJbWpIT0tHZmRoWVhNZkdjUzB3VXdwUVVhTktsSkFuRFljQVptaHJQVUh0N2YxQm03STlGc3pfREZaNW9Za2tXVVB3MGNqY3hURFBUeHVoOWw2ZlhLejBZMzJFNUx5MlJPTkprT3R1Z2UwcW15OFVfYTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-10 15:25:59"
     },
     {
       "title": "本土花生價格暴跌約四成張嘉郡籲提高農業部轉作獎勵金| 政治焦點 - 太報 TaiSounds",
@@ -803,6 +895,11 @@
       "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - fugomedia.com.tw",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzZGFpYjJDV2pjcnctM1RTYTQwYTFENDd3ZzRrb0FKU3dzN2Y5Z00zeEw5WDBUdWs3N3dTSE5TN0x3N0pNdzJMQXNKUUNjQUFNdG1lcnZCXzczQ1ZybmhZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-10 14:58:00"
+    },
+    {
+      "title": "張嘉郡憂美花生「毀滅性衝擊」國產花生 楊瓊瓔反駁：講太嚴重價格更崩 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNeXZWNmlvclUwcW9zMWRRa2hXNFR0Rld4TWY0Y09VeG82Y0xoWVU0UTR2YTh4VTVKekw2WGpmdlZrdDJoY1duZjQxVnZTTXdJT1VQNFFSZVhLdVJ1eDhPWnQtRF9GUWRCd0g5WEJpSURMQmFtRk9TZndvUTY4WEdEMjk1bk1ILWMzYlpyb3c0ckVQWUJ4SkZVWDJLN204aHUwWUlWRmZUTElLWGt3S2V4Y2wzZmNlSUZ0VXVPY1VLemlPSDVyQTdjTUNEM0tWa1lMa0U1eERfeUhwTUpGT0Z3NzgwQ0lORG5GSmgwOTNiTXFEX2RfZE5SVm1vX2V1RVlObDZkRHpEQy1sYVFrRTVLejNxUWYwMWNiYThDWTdQSUtGTDBVZG9KR21aVkdKQ0NmYUhrYkQ4YVRrYmZWWVJXaW9hTXcwaWxqTnh1X0lQNVIwa0NlU3VBTHgyNlZWSERZRVhlUnNXT2xlbEpVck5BU0c3cllrR3ZhTW9lVnhRYzdpVnpqaC0wc0VkUzNaVDNremRZTWJxYzRCbzV4Qlk1VlQ2dTYwQ0pjNjBGNHVINWwtOU5j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-10 14:46:00"
     },
     {
       "title": "張嘉郡憂美花生「毀滅性衝擊」國產花生楊瓊瓔反駁：講太嚴重價格更崩| 政治 - 三立新聞網SETN.com",
@@ -845,34 +942,9 @@
       "time": "2026-06-10 13:25:06"
     },
     {
-      "title": "張嘉郡要求花生轉作金發10萬5 農業部反應曝 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOcXFaLU1KN0J1dXVEak9JaVVBRjIyU3FCYXR5VzNITzZNem01X0REejhMb0x3eFJYcWZvS1g3TVNtUVRta1dXeFBfOW5oZVZ6VGNIVzh3YWlURUwzWndjWGtSV1JwRGY4S3VBYklXMzRMN1JlcjlfSE9jQW1odXFGYTdPaGJqSlpzaGo4cFVnMTRjS21ZMm4yRE41TzVYdkxxX3NVcDVmcEVDcVluU0ZNaUd6empnY3lFZTc0NlU2M0JLbTdaOGNXVXVZWk9ubzA1cUY5eG1mMHpXd3ZtTVpWbi1RLUxJTU9sdUVqclpnaGw3YlR2c21ISkdPU044SkdRS3JPNXhqblhmV2VpNkdDekJYWFU2ZmxVS0lYTHAxb3NaN09Xak4zRmVkX1Zqdzhy?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-10 13:23:00"
-    },
-    {
-      "title": "張嘉郡要求花生轉作金發10萬5 農業部反應曝 - 三立新聞網SETN.com",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84cE02NUtucHNtYUVVR0FmVllGWVRFME5heUYyMlFOVUFJR1RMU3dIVk5ldnhWZi1FVGpIVzJxREd3VXVSUFJqUy0zYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-10 13:21:15"
-    },
-    {
-      "title": "張嘉郡要求花生轉作金發10萬5 農業部反應曝| 財經 - 三立新聞網SETN.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pT1dUOXdsMGY1SWZUcFpDYmZEeHNSYWNBa1gxTkR3WWVKbC04Y2dmQmFIS2ZyLWVlVmFYVUFOSDRpQXJQU2NQbVBtaVBhak1lMDRHSU9udjc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-10 13:18:00"
-    },
-    {
-      "title": "張嘉郡要花生轉作金發10萬5　農業部回應 - 鏡週刊Mirror Media",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aOHU2anR0SzlTSlhZMmtsZDF1cldrZ0tBNWVzTzV2WDZsb0Vtem1hVWZnOHRNVHhvd1hnMmxLMUdMY2JYWmhqVEo4NjJqdExBZGJrRHRYaDJQc0Z5Q3NqSl9B0gFiQVVfeXFMTVo4dTZqdHRLOVNKWFkya2xkMXVyV2tnS0E1ZXNPNXZYNmxvRW16bWFVZmc4dE1UeG93WGcybEsxR0xjYlhaaGpUSjg2Mmp0TEFkYmtEdFhoMlBzRnlDc2pKX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-10 13:18:00"
-    },
-    {
-      "title": "張嘉郡要花生轉作金發10萬5　農業部回應 - 鏡週刊Mirror Media",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FaUhFMzVLOEc2U2ZNZE82WWFQMkdTRXFzMVc5dFdVd1lsakM1MVk2QkhpUnFoMFRYSHM1X3BURDQwQ0dZbTZZY0VOM1FjUUYwZTYzOGZ2SllGU2dF0gFiQVVfeXFMTVo4dTZqdHRLOVNKWFkya2xkMXVyV2tnS0E1ZXNPNXZYNmxvRW16bWFVZmc4dE1UeG93WGcybEsxR0xjYlhaaGpUSjg2Mmp0TEFkYmtEdFhoMlBzRnlDc2pKX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-10 13:18:00"
-    },
-    {
-      "title": "雲林花生價跌3成 張嘉郡：一個多月前示警中央還被說危言聳聽 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45MWdlcEhvblBWYmhrZDVTWENoWkhpdXVqakttYkQ5ek5SYlpyN0YwYmw3cDJ1TThNU2Vtb3MzR2c5TFVrOXJXX3JDVDF5WjlNUXRpZEVrblBjQdIBX0FVX3lxTFBPSVI0WGc2bnpOSGxYdmZVOGNnNW1vYm5iTUprLXU2d1hPMkpnUFkwdTIybkNyenF1bHhoUmdHYVNPdjhtalBfakY0dlNKY3dUVWFCNVJqb3k1cFJjeWtr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-09 14:48:45"
+      "title": "張嘉郡稱美國會毀滅性衝擊國產花生 同黨立委楊瓊瓔警告：太嚴重字眼反讓價格更崩 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ET0NUNXB2OGZrOERaSGZTeTlPdEdPSkJpUUNZWDQ5ZVB5ZjAzN21EOUtDUWpkUEVNRkstMWRoRnVXZkJPdVNKbUN5TmRxSGRhN2JoWjFnVUxRM280V3BBbnFveC1pblEzaWfSAW9BVV95cUxORVlIWFZrdFNRSmU0VVplRnVlTGhHZUtETWkwOG1lZnZnSHNqLWlqb1NQUkRfdkhlY0Ewd2tUNWg5ejJLeW90bWF4OVVHdHJzQzRXWVdfZVNSUmRyeTQ4ZWNRTkNib3dQbnh4VnlwdU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-10 13:25:06"
     }
   ],
   "person_sections": {
@@ -981,9 +1053,29 @@
       ],
       "news": [
         {
+          "title": "抓完鰻魚換吃火鍋！ 蔣萬安、張麗善、張嘉郡兩度合體拉抬選情｜#鏡新聞 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNT1FMR0c5MGhYcVRpMk9XVldUYzdDODA2TEJ4SkRIeHlTbVRHN3JGQUpneEpwM2ktZ21GNjhuUWVMNWVwd2NxQ000dGFzek8wSE5LcHlkR3NscmpkU0Q2NmZxRUpxcTctSWh2RE1TQ29uYTh1dk5HR2xCeWR4TlFhUVRoVUd3eGRTMmFqSmttejc2cUJleFdma1oxVHZRZmkxcVNJbktxMmlXdGhHQ2FORmlWRjFQcU5uUUhyaVVZT3hiS3p6Vnd5TEZCNUgyUGlxZWRvVGFxUlNhblppeDhLbUI3ekRadHJwdUFOT2U2OUVhV25OX0NoRElCcUNkOXZFM2QtVmdKQVFTOUFmM2hCWkZCd0J5cVJyNnBqYlFEWW5RcmxhX3BQajRZTXhyaDE4ZFlWaWRRY1BKOW9mQzNDOEZ6QkRNSE1xUXdCRlU5TFJ0WWJHem9VRTU1VVV1Q29RbU5OY3VvMW9aUzdLMEx2ZlF0MGpVcEx2bkR4YThRSEhLSGNWcWxWVnhpbzdUcWd3RkhIb0hud21PN0xST1p0V0taOS1MbklO?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-10 18:41:31"
+        },
+        {
+          "title": "雲林花生開盤價跌四成創十年新低！張嘉郡促調高轉作金、修食安法嚴防洗產地| 夏和宣| 地方新聞 - 風傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qZnE4Vm5Bem5QN3BVZmU0ZGtmanpQWTFqSXJzMVFfTWpmbHpLQUJNRG9sSmV3UkxzTTYxMUJKUXY3Ym9EV3lSS1owQjFnUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-10 17:52:38"
+        },
+        {
+          "title": "不滿曾被酸危言聳聽 張嘉郡擬修《食安法》 嚴防進口花生洗產地 - 匯流新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CQXFZMjhEaWg4M1F0eW1ac0ZMOWZqNFdDOFlBRTFGMXZkbklmNVV2bE1nQ1VtLW9tSGpadTZnUV8xQk4tMnZSaU9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-10 16:08:27"
+        },
+        {
           "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - MSN",
           "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOV1M3MndZQzk3aVI0TDMxWTRqYlNmTkxDb0F4NmUtanVfdWI3OXlVQXNkMWJuYjRkSzhiTFkzRkVISjg5dDl5M2VlYnY0cFRVeHFpaHZfNGpiRVZfaW9KdnQwQ2otWng0dEx6RGNaTGo2RHBEMUVzZmFHenI4S0ZnVWRsZ2V5VVVLUWhEX3hobjZVZmNtN0YzMXV2WnFSMDh1SjMyQWo2X18yUnZ6al9rYUFYR1lXLXduYzV0ZzRZcHYxeHg5MDRidk5qZXZjVmVOSU9QUmlPamJJcGFQMVBwRGF4bWFIelJ2V3hmUXAwQlhVdUp3c1lTbUhBZk1ZYXdqTk5YdklJSVJjZ2liRzhfc09BbEF0VEZVM1hqTVNMQy1ZZzVxTU9naTFHN051WkhyZGR4enEzTFA2X2R6RGRPQVVERDkxX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-10 16:08:06"
+        },
+        {
+          "title": "國產花生價慘崩！張嘉郡急籲中央：提高轉作金、強化原產地標示護農 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOR2Fuc0pJY1ZHUFRoTm5NRW03WG5CVUEyWk1tQloya3p3dnZ6SnFRd21nRmYwLW5ZZVUzeWdmaEhMbUNQWllhTS05V1Z0dHNZMVVma2hnejRLVDE2ZVRIejU4ZnBIZWV2Ni0xZ0VkcktPN29jX0VDWWprWGNEc3ZkREVabVZoZ3laZ2tfRjVkMWtncWgtQ1M3REdmeEhhejdqdHh1cDBxUi1MZUtJaU1TMFBWa1JRdGdTWS1SWjZvcnFZUGw3RGMtODZzalY5bF9rZEdFUlJTdEZUVElTQkJiX2EwTkN4eVh6VmtsMHJicVFKcWdyZHpXUkJQMThhTUo5N181WDZEYzlidkZaRGhRX1RrQVg1N05zdDJUQW5DZ3Q5MHZiSmpSRE1SLXNMQktmY1lvQnJJbWpIT0tHZmRoWVhNZkdjUzB3VXdwUVVhTktsSkFuRFljQVptaHJQVUh0N2YxQm03STlGc3pfREZaNW9Za2tXVVB3MGNqY3hURFBUeHVoOWw2ZlhLejBZMzJFNUx5MlJPTkprT3R1Z2UwcW15OFVfYTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-10 15:25:59"
         },
         {
           "title": "本土花生價格暴跌約四成張嘉郡籲提高農業部轉作獎勵金| 政治焦點 - 太報 TaiSounds",
@@ -1009,6 +1101,11 @@
           "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - fugomedia.com.tw",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzZGFpYjJDV2pjcnctM1RTYTQwYTFENDd3ZzRrb0FKU3dzN2Y5Z00zeEw5WDBUdWs3N3dTSE5TN0x3N0pNdzJMQXNKUUNjQUFNdG1lcnZCXzczQ1ZybmhZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-10 14:58:00"
+        },
+        {
+          "title": "張嘉郡憂美花生「毀滅性衝擊」國產花生 楊瓊瓔反駁：講太嚴重價格更崩 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNeXZWNmlvclUwcW9zMWRRa2hXNFR0Rld4TWY0Y09VeG82Y0xoWVU0UTR2YTh4VTVKekw2WGpmdlZrdDJoY1duZjQxVnZTTXdJT1VQNFFSZVhLdVJ1eDhPWnQtRF9GUWRCd0g5WEJpSURMQmFtRk9TZndvUTY4WEdEMjk1bk1ILWMzYlpyb3c0ckVQWUJ4SkZVWDJLN204aHUwWUlWRmZUTElLWGt3S2V4Y2wzZmNlSUZ0VXVPY1VLemlPSDVyQTdjTUNEM0tWa1lMa0U1eERfeUhwTUpGT0Z3NzgwQ0lORG5GSmgwOTNiTXFEX2RfZE5SVm1vX2V1RVlObDZkRHpEQy1sYVFrRTVLejNxUWYwMWNiYThDWTdQSUtGTDBVZG9KR21aVkdKQ0NmYUhrYkQ4YVRrYmZWWVJXaW9hTXcwaWxqTnh1X0lQNVIwa0NlU3VBTHgyNlZWSERZRVhlUnNXT2xlbEpVck5BU0c3cllrR3ZhTW9lVnhRYzdpVnpqaC0wc0VkUzNaVDNremRZTWJxYzRCbzV4Qlk1VlQ2dTYwQ0pjNjBGNHVINWwtOU5j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-10 14:46:00"
         },
         {
           "title": "張嘉郡憂美花生「毀滅性衝擊」國產花生楊瓊瓔反駁：講太嚴重價格更崩| 政治 - 三立新聞網SETN.com",
@@ -1051,34 +1148,9 @@
           "time": "2026-06-10 13:25:06"
         },
         {
-          "title": "張嘉郡要求花生轉作金發10萬5 農業部反應曝 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOcXFaLU1KN0J1dXVEak9JaVVBRjIyU3FCYXR5VzNITzZNem01X0REejhMb0x3eFJYcWZvS1g3TVNtUVRta1dXeFBfOW5oZVZ6VGNIVzh3YWlURUwzWndjWGtSV1JwRGY4S3VBYklXMzRMN1JlcjlfSE9jQW1odXFGYTdPaGJqSlpzaGo4cFVnMTRjS21ZMm4yRE41TzVYdkxxX3NVcDVmcEVDcVluU0ZNaUd6empnY3lFZTc0NlU2M0JLbTdaOGNXVXVZWk9ubzA1cUY5eG1mMHpXd3ZtTVpWbi1RLUxJTU9sdUVqclpnaGw3YlR2c21ISkdPU044SkdRS3JPNXhqblhmV2VpNkdDekJYWFU2ZmxVS0lYTHAxb3NaN09Xak4zRmVkX1Zqdzhy?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-10 13:23:00"
-        },
-        {
-          "title": "張嘉郡要求花生轉作金發10萬5 農業部反應曝 - 三立新聞網SETN.com",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84cE02NUtucHNtYUVVR0FmVllGWVRFME5heUYyMlFOVUFJR1RMU3dIVk5ldnhWZi1FVGpIVzJxREd3VXVSUFJqUy0zYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-10 13:21:15"
-        },
-        {
-          "title": "張嘉郡要求花生轉作金發10萬5 農業部反應曝| 財經 - 三立新聞網SETN.com",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pT1dUOXdsMGY1SWZUcFpDYmZEeHNSYWNBa1gxTkR3WWVKbC04Y2dmQmFIS2ZyLWVlVmFYVUFOSDRpQXJQU2NQbVBtaVBhak1lMDRHSU9udjc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-10 13:18:00"
-        },
-        {
-          "title": "張嘉郡要花生轉作金發10萬5　農業部回應 - 鏡週刊Mirror Media",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aOHU2anR0SzlTSlhZMmtsZDF1cldrZ0tBNWVzTzV2WDZsb0Vtem1hVWZnOHRNVHhvd1hnMmxLMUdMY2JYWmhqVEo4NjJqdExBZGJrRHRYaDJQc0Z5Q3NqSl9B0gFiQVVfeXFMTVo4dTZqdHRLOVNKWFkya2xkMXVyV2tnS0E1ZXNPNXZYNmxvRW16bWFVZmc4dE1UeG93WGcybEsxR0xjYlhaaGpUSjg2Mmp0TEFkYmtEdFhoMlBzRnlDc2pKX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-10 13:18:00"
-        },
-        {
-          "title": "張嘉郡要花生轉作金發10萬5　農業部回應 - 鏡週刊Mirror Media",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FaUhFMzVLOEc2U2ZNZE82WWFQMkdTRXFzMVc5dFdVd1lsakM1MVk2QkhpUnFoMFRYSHM1X3BURDQwQ0dZbTZZY0VOM1FjUUYwZTYzOGZ2SllGU2dF0gFiQVVfeXFMTVo4dTZqdHRLOVNKWFkya2xkMXVyV2tnS0E1ZXNPNXZYNmxvRW16bWFVZmc4dE1UeG93WGcybEsxR0xjYlhaaGpUSjg2Mmp0TEFkYmtEdFhoMlBzRnlDc2pKX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-10 13:18:00"
-        },
-        {
-          "title": "雲林花生價跌3成 張嘉郡：一個多月前示警中央還被說危言聳聽 - 經濟日報",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45MWdlcEhvblBWYmhrZDVTWENoWkhpdXVqakttYkQ5ek5SYlpyN0YwYmw3cDJ1TThNU2Vtb3MzR2c5TFVrOXJXX3JDVDF5WjlNUXRpZEVrblBjQdIBX0FVX3lxTFBPSVI0WGc2bnpOSGxYdmZVOGNnNW1vYm5iTUprLXU2d1hPMkpnUFkwdTIybkNyenF1bHhoUmdHYVNPdjhtalBfakY0dlNKY3dUVWFCNVJqb3k1cFJjeWtr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-09 14:48:45"
+          "title": "張嘉郡稱美國會毀滅性衝擊國產花生 同黨立委楊瓊瓔警告：太嚴重字眼反讓價格更崩 - 自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ET0NUNXB2OGZrOERaSGZTeTlPdEdPSkJpUUNZWDQ5ZVB5ZjAzN21EOUtDUWpkUEVNRkstMWRoRnVXZkJPdVNKbUN5TmRxSGRhN2JoWjFnVUxRM280V3BBbnFveC1pblEzaWfSAW9BVV95cUxORVlIWFZrdFNRSmU0VVplRnVlTGhHZUtETWkwOG1lZnZnSHNqLWlqb1NQUkRfdkhlY0Ewd2tUNWg5ejJLeW90bWF4OVVHdHJzQzRXWVdfZVNSUmRyeTQ4ZWNRTkNib3dQbnh4VnlwdU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-10 13:25:06"
         }
       ]
     },
@@ -1292,9 +1364,29 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "抓完鰻魚換吃火鍋！ 蔣萬安、張麗善、張嘉郡兩度合體拉抬選情｜#鏡新聞 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNT1FMR0c5MGhYcVRpMk9XVldUYzdDODA2TEJ4SkRIeHlTbVRHN3JGQUpneEpwM2ktZ21GNjhuUWVMNWVwd2NxQ000dGFzek8wSE5LcHlkR3NscmpkU0Q2NmZxRUpxcTctSWh2RE1TQ29uYTh1dk5HR2xCeWR4TlFhUVRoVUd3eGRTMmFqSmttejc2cUJleFdma1oxVHZRZmkxcVNJbktxMmlXdGhHQ2FORmlWRjFQcU5uUUhyaVVZT3hiS3p6Vnd5TEZCNUgyUGlxZWRvVGFxUlNhblppeDhLbUI3ekRadHJwdUFOT2U2OUVhV25OX0NoRElCcUNkOXZFM2QtVmdKQVFTOUFmM2hCWkZCd0J5cVJyNnBqYlFEWW5RcmxhX3BQajRZTXhyaDE4ZFlWaWRRY1BKOW9mQzNDOEZ6QkRNSE1xUXdCRlU5TFJ0WWJHem9VRTU1VVV1Q29RbU5OY3VvMW9aUzdLMEx2ZlF0MGpVcEx2bkR4YThRSEhLSGNWcWxWVnhpbzdUcWd3RkhIb0hud21PN0xST1p0V0taOS1MbklO?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 18:41:31"
+      },
+      {
+        "title": "雲林花生開盤價跌四成創十年新低！張嘉郡促調高轉作金、修食安法嚴防洗產地| 夏和宣| 地方新聞 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qZnE4Vm5Bem5QN3BVZmU0ZGtmanpQWTFqSXJzMVFfTWpmbHpLQUJNRG9sSmV3UkxzTTYxMUJKUXY3Ym9EV3lSS1owQjFnUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 17:52:38"
+      },
+      {
+        "title": "不滿曾被酸危言聳聽 張嘉郡擬修《食安法》 嚴防進口花生洗產地 - 匯流新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CQXFZMjhEaWg4M1F0eW1ac0ZMOWZqNFdDOFlBRTFGMXZkbklmNVV2bE1nQ1VtLW9tSGpadTZnUV8xQk4tMnZSaU9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 16:08:27"
+      },
+      {
         "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - MSN",
         "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOV1M3MndZQzk3aVI0TDMxWTRqYlNmTkxDb0F4NmUtanVfdWI3OXlVQXNkMWJuYjRkSzhiTFkzRkVISjg5dDl5M2VlYnY0cFRVeHFpaHZfNGpiRVZfaW9KdnQwQ2otWng0dEx6RGNaTGo2RHBEMUVzZmFHenI4S0ZnVWRsZ2V5VVVLUWhEX3hobjZVZmNtN0YzMXV2WnFSMDh1SjMyQWo2X18yUnZ6al9rYUFYR1lXLXduYzV0ZzRZcHYxeHg5MDRidk5qZXZjVmVOSU9QUmlPamJJcGFQMVBwRGF4bWFIelJ2V3hmUXAwQlhVdUp3c1lTbUhBZk1ZYXdqTk5YdklJSVJjZ2liRzhfc09BbEF0VEZVM1hqTVNMQy1ZZzVxTU9naTFHN051WkhyZGR4enEzTFA2X2R6RGRPQVVERDkxX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-10 16:08:06"
+      },
+      {
+        "title": "國產花生價慘崩！張嘉郡急籲中央：提高轉作金、強化原產地標示護農 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOR2Fuc0pJY1ZHUFRoTm5NRW03WG5CVUEyWk1tQloya3p3dnZ6SnFRd21nRmYwLW5ZZVUzeWdmaEhMbUNQWllhTS05V1Z0dHNZMVVma2hnejRLVDE2ZVRIejU4ZnBIZWV2Ni0xZ0VkcktPN29jX0VDWWprWGNEc3ZkREVabVZoZ3laZ2tfRjVkMWtncWgtQ1M3REdmeEhhejdqdHh1cDBxUi1MZUtJaU1TMFBWa1JRdGdTWS1SWjZvcnFZUGw3RGMtODZzalY5bF9rZEdFUlJTdEZUVElTQkJiX2EwTkN4eVh6VmtsMHJicVFKcWdyZHpXUkJQMThhTUo5N181WDZEYzlidkZaRGhRX1RrQVg1N05zdDJUQW5DZ3Q5MHZiSmpSRE1SLXNMQktmY1lvQnJJbWpIT0tHZmRoWVhNZkdjUzB3VXdwUVVhTktsSkFuRFljQVptaHJQVUh0N2YxQm03STlGc3pfREZaNW9Za2tXVVB3MGNqY3hURFBUeHVoOWw2ZlhLejBZMzJFNUx5MlJPTkprT3R1Z2UwcW15OFVfYTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 15:25:59"
       },
       {
         "title": "本土花生價格暴跌約四成張嘉郡籲提高農業部轉作獎勵金| 政治焦點 - 太報 TaiSounds",
@@ -1320,6 +1412,11 @@
         "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - fugomedia.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzZGFpYjJDV2pjcnctM1RTYTQwYTFENDd3ZzRrb0FKU3dzN2Y5Z00zeEw5WDBUdWs3N3dTSE5TN0x3N0pNdzJMQXNKUUNjQUFNdG1lcnZCXzczQ1ZybmhZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-10 14:58:00"
+      },
+      {
+        "title": "張嘉郡憂美花生「毀滅性衝擊」國產花生 楊瓊瓔反駁：講太嚴重價格更崩 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNeXZWNmlvclUwcW9zMWRRa2hXNFR0Rld4TWY0Y09VeG82Y0xoWVU0UTR2YTh4VTVKekw2WGpmdlZrdDJoY1duZjQxVnZTTXdJT1VQNFFSZVhLdVJ1eDhPWnQtRF9GUWRCd0g5WEJpSURMQmFtRk9TZndvUTY4WEdEMjk1bk1ILWMzYlpyb3c0ckVQWUJ4SkZVWDJLN204aHUwWUlWRmZUTElLWGt3S2V4Y2wzZmNlSUZ0VXVPY1VLemlPSDVyQTdjTUNEM0tWa1lMa0U1eERfeUhwTUpGT0Z3NzgwQ0lORG5GSmgwOTNiTXFEX2RfZE5SVm1vX2V1RVlObDZkRHpEQy1sYVFrRTVLejNxUWYwMWNiYThDWTdQSUtGTDBVZG9KR21aVkdKQ0NmYUhrYkQ4YVRrYmZWWVJXaW9hTXcwaWxqTnh1X0lQNVIwa0NlU3VBTHgyNlZWSERZRVhlUnNXT2xlbEpVck5BU0c3cllrR3ZhTW9lVnhRYzdpVnpqaC0wc0VkUzNaVDNremRZTWJxYzRCbzV4Qlk1VlQ2dTYwQ0pjNjBGNHVINWwtOU5j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 14:46:00"
       },
       {
         "title": "張嘉郡憂美花生「毀滅性衝擊」國產花生楊瓊瓔反駁：講太嚴重價格更崩| 政治 - 三立新聞網SETN.com",
@@ -1359,6 +1456,11 @@
       {
         "title": "張嘉郡稱美國會毀滅性衝擊國產花生 同黨立委楊瓊瓔警告：太嚴重字眼反讓價格更崩 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FWUhYVmt0U1FKZTRVWmVGdWVMaEdlS0RNaTA4bWVmdmdIc2otaWpvU1BSRF92SGVjQTB3a1Q1aDl6Mkt5b3RtYXg5VUd0cnNDNFdZV19lU1JSZHJ5NDhlY1FOQ2Jvd1BueHhWeXB1TdIBb0FVX3lxTE5FWUhYVmt0U1FKZTRVWmVGdWVMaEdlS0RNaTA4bWVmdmdIc2otaWpvU1BSRF92SGVjQTB3a1Q1aDl6Mkt5b3RtYXg5VUd0cnNDNFdZV19lU1JSZHJ5NDhlY1FOQ2Jvd1BueHhWeXB1TQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 13:25:06"
+      },
+      {
+        "title": "張嘉郡稱美國會毀滅性衝擊國產花生 同黨立委楊瓊瓔警告：太嚴重字眼反讓價格更崩 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ET0NUNXB2OGZrOERaSGZTeTlPdEdPSkJpUUNZWDQ5ZVB5ZjAzN21EOUtDUWpkUEVNRkstMWRoRnVXZkJPdVNKbUN5TmRxSGRhN2JoWjFnVUxRM280V3BBbnFveC1pblEzaWfSAW9BVV95cUxORVlIWFZrdFNRSmU0VVplRnVlTGhHZUtETWkwOG1lZnZnSHNqLWlqb1NQUkRfdkhlY0Ewd2tUNWg5ejJLeW90bWF4OVVHdHJzQzRXWVdfZVNSUmRyeTQ4ZWNRTkNib3dQbnh4VnlwdU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-10 13:25:06"
       },
       {
@@ -1403,14 +1505,41 @@
         "url": "https://news.google.com/rss/articles/CBMiyAVBVV95cUxQZC1mVFVydHlfNVhrUjZUT2sxS2JVSzNxZ3llYmh5dWY4MHJQZjhZRUZnX1JtV1IyOUlkUXNGTjZaTm13Z2JCcks3UmdBWC1Wb3ptclJ3T1pmZWFLZ1Zad1EzeTJxMXg3clhUQ3hVQVlxbkNvZ0FXc1ZIbS1BMzVtVFNOZ3AzeXBPSFJGTXNlV01RTFA1aWx4a3RBckMyRS1DSXRhNGlMYU52OGk0VWZabGx1RC1GbmZ6SktTd0NEcnc0WlNvSEh6U0tKRzJWOEhnUW9TVFJfaUR3V0VDdEc5ekJDLUxXTWFubUVsWEcyRWEzc0thelRoT3RRVjdjS25KMGpkTF8yTDl5cDBlTWoxZWFLTTUxOW5KRXhaQkdnVVE2WnhWdmhWb3ZtZ3c5eDZxM2V3WGthbm5aaWdaWDkydGZ4Mm02YlRaMlljeHhIWVRNZVhmOThmU2pVdHVkZEFfQmV4UjdncjI3SjU2aTEyd19PTGRqZmhibHVpWWFJUXltWk9VaXBsWTBUV04yd01ra3h2SkJJOUJ4ak10VG9CNkE5VHVuMmg1NmhfUmhmYS04bkM2NFk0WERjekhCck1Hc1J2SkktQlpLRHlTakVmeVpJX19MVUFNQk1KdmE2cUJNNDlfYTVEMUJhQVFBUVNKM2NSRHhpNDNGT1Z0Rk9hNmhxM0lCdWltNHdRQkJOWXdJMzIxeGRabDl0Z1FJLWVtTUQ4Tzl4cTNLaVQ1T0w5WUl1aU9XdlJjNlJIV1VsakU3YURZQ1NqM0R5a2kydkNOQjNpR2ZmeEhMOU5zaS1zVTlDVWk4bXh6a2h3VS03TmQ0d3FnSkFDeWhRS0lieW80dTlzQzNhOWl5cmk3NHZNQU9rV080ckJ5a0JkUl9mU2xYX2NwYnNZU1N5UElmcGRjYWpESXlLSjEzQ2kwYUs5cjJyX21SQm55",
         "time": "2026-06-10 08:00:11"
       }
+    ],
+    "youtube": [
+      {
+        "title": "直擊濱濱有理一百集！【#八范雲集】EP.41",
+        "url": "https://www.youtube.com/watch?v=SJHEiJiALZs",
+        "time": "2026-06-10 17:42:21"
+      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "抓完鰻魚換吃火鍋！ 蔣萬安、張麗善、張嘉郡兩度合體拉抬選情｜#鏡新聞 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNT1FMR0c5MGhYcVRpMk9XVldUYzdDODA2TEJ4SkRIeHlTbVRHN3JGQUpneEpwM2ktZ21GNjhuUWVMNWVwd2NxQ000dGFzek8wSE5LcHlkR3NscmpkU0Q2NmZxRUpxcTctSWh2RE1TQ29uYTh1dk5HR2xCeWR4TlFhUVRoVUd3eGRTMmFqSmttejc2cUJleFdma1oxVHZRZmkxcVNJbktxMmlXdGhHQ2FORmlWRjFQcU5uUUhyaVVZT3hiS3p6Vnd5TEZCNUgyUGlxZWRvVGFxUlNhblppeDhLbUI3ekRadHJwdUFOT2U2OUVhV25OX0NoRElCcUNkOXZFM2QtVmdKQVFTOUFmM2hCWkZCd0J5cVJyNnBqYlFEWW5RcmxhX3BQajRZTXhyaDE4ZFlWaWRRY1BKOW9mQzNDOEZ6QkRNSE1xUXdCRlU5TFJ0WWJHem9VRTU1VVV1Q29RbU5OY3VvMW9aUzdLMEx2ZlF0MGpVcEx2bkR4YThRSEhLSGNWcWxWVnhpbzdUcWd3RkhIb0hud21PN0xST1p0V0taOS1MbklO?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 18:41:31"
+      },
+      {
+        "title": "雲林花生開盤價跌四成創十年新低！張嘉郡促調高轉作金、修食安法嚴防洗產地| 夏和宣| 地方新聞 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qZnE4Vm5Bem5QN3BVZmU0ZGtmanpQWTFqSXJzMVFfTWpmbHpLQUJNRG9sSmV3UkxzTTYxMUJKUXY3Ym9EV3lSS1owQjFnUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 17:52:38"
+      },
+      {
+        "title": "不滿曾被酸危言聳聽 張嘉郡擬修《食安法》 嚴防進口花生洗產地 - 匯流新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CQXFZMjhEaWg4M1F0eW1ac0ZMOWZqNFdDOFlBRTFGMXZkbklmNVV2bE1nQ1VtLW9tSGpadTZnUV8xQk4tMnZSaU9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 16:08:27"
+      },
+      {
         "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - MSN",
         "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOV1M3MndZQzk3aVI0TDMxWTRqYlNmTkxDb0F4NmUtanVfdWI3OXlVQXNkMWJuYjRkSzhiTFkzRkVISjg5dDl5M2VlYnY0cFRVeHFpaHZfNGpiRVZfaW9KdnQwQ2otWng0dEx6RGNaTGo2RHBEMUVzZmFHenI4S0ZnVWRsZ2V5VVVLUWhEX3hobjZVZmNtN0YzMXV2WnFSMDh1SjMyQWo2X18yUnZ6al9rYUFYR1lXLXduYzV0ZzRZcHYxeHg5MDRidk5qZXZjVmVOSU9QUmlPamJJcGFQMVBwRGF4bWFIelJ2V3hmUXAwQlhVdUp3c1lTbUhBZk1ZYXdqTk5YdklJSVJjZ2liRzhfc09BbEF0VEZVM1hqTVNMQy1ZZzVxTU9naTFHN051WkhyZGR4enEzTFA2X2R6RGRPQVVERDkxX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-10 16:08:06"
+      },
+      {
+        "title": "國產花生價慘崩！張嘉郡急籲中央：提高轉作金、強化原產地標示護農 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOR2Fuc0pJY1ZHUFRoTm5NRW03WG5CVUEyWk1tQloya3p3dnZ6SnFRd21nRmYwLW5ZZVUzeWdmaEhMbUNQWllhTS05V1Z0dHNZMVVma2hnejRLVDE2ZVRIejU4ZnBIZWV2Ni0xZ0VkcktPN29jX0VDWWprWGNEc3ZkREVabVZoZ3laZ2tfRjVkMWtncWgtQ1M3REdmeEhhejdqdHh1cDBxUi1MZUtJaU1TMFBWa1JRdGdTWS1SWjZvcnFZUGw3RGMtODZzalY5bF9rZEdFUlJTdEZUVElTQkJiX2EwTkN4eVh6VmtsMHJicVFKcWdyZHpXUkJQMThhTUo5N181WDZEYzlidkZaRGhRX1RrQVg1N05zdDJUQW5DZ3Q5MHZiSmpSRE1SLXNMQktmY1lvQnJJbWpIT0tHZmRoWVhNZkdjUzB3VXdwUVVhTktsSkFuRFljQVptaHJQVUh0N2YxQm03STlGc3pfREZaNW9Za2tXVVB3MGNqY3hURFBUeHVoOWw2ZlhLejBZMzJFNUx5MlJPTkprT3R1Z2UwcW15OFVfYTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 15:25:59"
       },
       {
         "title": "本土花生價格暴跌約四成張嘉郡籲提高農業部轉作獎勵金| 政治焦點 - 太報 TaiSounds",
@@ -1436,6 +1565,11 @@
         "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - fugomedia.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzZGFpYjJDV2pjcnctM1RTYTQwYTFENDd3ZzRrb0FKU3dzN2Y5Z00zeEw5WDBUdWs3N3dTSE5TN0x3N0pNdzJMQXNKUUNjQUFNdG1lcnZCXzczQ1ZybmhZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-10 14:58:00"
+      },
+      {
+        "title": "張嘉郡憂美花生「毀滅性衝擊」國產花生 楊瓊瓔反駁：講太嚴重價格更崩 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNeXZWNmlvclUwcW9zMWRRa2hXNFR0Rld4TWY0Y09VeG82Y0xoWVU0UTR2YTh4VTVKekw2WGpmdlZrdDJoY1duZjQxVnZTTXdJT1VQNFFSZVhLdVJ1eDhPWnQtRF9GUWRCd0g5WEJpSURMQmFtRk9TZndvUTY4WEdEMjk1bk1ILWMzYlpyb3c0ckVQWUJ4SkZVWDJLN204aHUwWUlWRmZUTElLWGt3S2V4Y2wzZmNlSUZ0VXVPY1VLemlPSDVyQTdjTUNEM0tWa1lMa0U1eERfeUhwTUpGT0Z3NzgwQ0lORG5GSmgwOTNiTXFEX2RfZE5SVm1vX2V1RVlObDZkRHpEQy1sYVFrRTVLejNxUWYwMWNiYThDWTdQSUtGTDBVZG9KR21aVkdKQ0NmYUhrYkQ4YVRrYmZWWVJXaW9hTXcwaWxqTnh1X0lQNVIwa0NlU3VBTHgyNlZWSERZRVhlUnNXT2xlbEpVck5BU0c3cllrR3ZhTW9lVnhRYzdpVnpqaC0wc0VkUzNaVDNremRZTWJxYzRCbzV4Qlk1VlQ2dTYwQ0pjNjBGNHVINWwtOU5j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 14:46:00"
       },
       {
         "title": "張嘉郡憂美花生「毀滅性衝擊」國產花生楊瓊瓔反駁：講太嚴重價格更崩| 政治 - 三立新聞網SETN.com",
@@ -1475,6 +1609,11 @@
       {
         "title": "張嘉郡稱美國會毀滅性衝擊國產花生 同黨立委楊瓊瓔警告：太嚴重字眼反讓價格更崩 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FWUhYVmt0U1FKZTRVWmVGdWVMaEdlS0RNaTA4bWVmdmdIc2otaWpvU1BSRF92SGVjQTB3a1Q1aDl6Mkt5b3RtYXg5VUd0cnNDNFdZV19lU1JSZHJ5NDhlY1FOQ2Jvd1BueHhWeXB1TdIBb0FVX3lxTE5FWUhYVmt0U1FKZTRVWmVGdWVMaEdlS0RNaTA4bWVmdmdIc2otaWpvU1BSRF92SGVjQTB3a1Q1aDl6Mkt5b3RtYXg5VUd0cnNDNFdZV19lU1JSZHJ5NDhlY1FOQ2Jvd1BueHhWeXB1TQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 13:25:06"
+      },
+      {
+        "title": "張嘉郡稱美國會毀滅性衝擊國產花生 同黨立委楊瓊瓔警告：太嚴重字眼反讓價格更崩 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ET0NUNXB2OGZrOERaSGZTeTlPdEdPSkJpUUNZWDQ5ZVB5ZjAzN21EOUtDUWpkUEVNRkstMWRoRnVXZkJPdVNKbUN5TmRxSGRhN2JoWjFnVUxRM280V3BBbnFveC1pblEzaWfSAW9BVV95cUxORVlIWFZrdFNRSmU0VVplRnVlTGhHZUtETWkwOG1lZnZnSHNqLWlqb1NQUkRfdkhlY0Ewd2tUNWg5ejJLeW90bWF4OVVHdHJzQzRXWVdfZVNSUmRyeTQ4ZWNRTkNib3dQbnh4VnlwdU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-10 13:25:06"
       },
       {
@@ -1576,36 +1715,6 @@
         "title": "民進黨雲林縣黨部完成交接　劉建國卸任、江宗保接任主委 - ETtoday新聞雲",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40aF9scnFRYXJhWndUT1ViNGhKeWw2T2t0ZGRqMXlaSFJpZjhyWkUzUkJqNGRRd19KSEFnSHVXWE9oaF9NaFRDYUN0aWFzVExBYVJjeHM3dGIwbktwRnfSAWhBVV95cUxPNER1TFdoRUNwR3I3RU9UNTdzR2NtbXRnQXRqMUZSN2swOWNZdWkyc0U5WjdMQUFqdjJqRGhHN0VBZW41ODUydDNvTVh0UE5USGVFeEV4Mmw4dkh1dVZxMDJjRUVTWVFlNQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-07 15:55:00"
-      },
-      {
-        "title": "民進黨雲林縣黨部完成交接　劉建國卸任、江宗保接任主委 - ETtoday新聞雲",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80RHVMV2hFQ3BHcjdFT1Q1N3NHY21tdGdBdGoxRlI3azA5Y1l1aTJzRTlaN0xBQWp2MmpEaEc3RUFlbjU4NTJ0M29NWHRQTlRIZUV4RXgybDh2SHV1VnEwMmNFRVNZUWU10gFoQVVfeXFMTzREdUxXaEVDcEdyN0VPVDU3c0djbW10Z0F0ajFGUjdrMDljWXVpMnNFOVo3TEFBanYyakRoRzdFQWVuNTg1MnQzb01YdFBOVEhlRXhFeDJsOHZIdXVWcTAyY0VFU1lRZTU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-07 15:55:00"
-      },
-      {
-        "title": "劉建國肯定愛無礙 身障夥伴生命力：願意走出來，生命就無礙 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNSVJzWnprMzJ6ZHQweHExdlNzTkNlSjNXaDdzck5GOFQ1WmJFRUFoeHF3WW1SMkYtV25XUENMSERjeXZKZmN3VHJDNk9SVzVwNGpZRnMyd1N0NFFFWW9CajJycFlnSGhNS2ZUblNDODRVS1c4MkxqaFVFb1NDT1ZFcXpFOGtyMHVTaFAtZnBzS0VqWVRQUDVBcF9OT005ZzZHUVNNRW1SSVhJb3lkb3ZpMjlIenhfbFg2emo0UmlhMllJb0dBdTN2VUJZVmZlYTEtdVJpXzZkZVNIcDJJbjFUOEVIbVkyUE9XdUFrN2Y3MXVGak45VnpWelhDRHlGSnlkeW9HeHRrblNyaFhiZU92eEs2T1BoaGlDdXRKbkRqQzRMT3hvMDRvU3BSSDRZMjdWMDFNSk1MVmdNaE9PS2NuUUJnUGNvRUE4XzhpS2JRVGtfRDdmTEJzaUlGY21JT1BSQjZwSlhhSWlGeDlqZno2OXIwRkhxbWM5Z0szSlNMMEI3Q2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-07 15:07:47"
-      },
-      {
-        "title": "雲林九成竹筍來自古坑 劉建國盼文化、產業與健康家園共榮 | 觀傳媒 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlYnZPS2piWTNGbU5uWHdTM0hmTE14ODMwTmRNQV9kcGhfYlpNMjIxYXVlM1hMcXRNTko3RU5ZVEtJT2lpZktXZ2NjT2s5VVJ2OVRhSVZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-06 22:02:48"
-      },
-      {
-        "title": "雲林九成竹筍來自古坑 劉建國盼文化、產業與健康家園共榮 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOLU93Sl9BbXZ4SzF1bXNEV2RtcXozUEZubTlhRC1KeGp1VThkVHFDaTZ1ZV9veXBaQTJpTUpSRE0zb1ZVYkRJbXhqYWN6ekdfVWtSUmtPTjBuN3Q2NHFBYWYyV200eW1oLWRqNXIwX243VW50VkRWNzdSZHZIOXlsUHgwYXFSZFBUVU1iZzV1WHhXZ19GRlVGVDhNTWdIS0hld3kzcFRRY1lkSTBsOXRUOVpQWW1fMEpFc2IzVmNPTmdHY3lzbUhMcWVZMDZnWHBKUEJiWG9sdm1KdXI1T3VqZ0ZlSmQ3bk5sR0U5cVFXNTY4Nk5sTW1mS0VwVmZoXzE3dUxhOFhEMzJsWEZkZDBxZE9vNTJHNmt0bTF2bzNoTUJRUld2UUdmc1R0T0d6Qjg3WmtKNkZHZ3R1Zm1LWjl6dm9KS0VlcmVpV05PNkY0WkxhVlZabUhKclVlamdzaUZmWTFWRzRvQ1dqSHdtY1lhV2dmZExTWHhFN0o4MHZGdWt6Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-06 21:21:43"
-      },
-      {
-        "title": "雲林九成竹筍來自古坑 劉建國盼文化、產業與健康家園共榮 - 觀傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LdUw1eHpydVRDcU01VTJYSzZTRjZvdlRySlAyOHRlT3U4XzJHaGZTSWVJQ2tvT2t6TFJWZ0d6Q3FGdkdtR2ZXS3UwV2JFWmNHcTlDQ1loMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-06 21:21:41"
-      },
-      {
-        "title": "雲林九成竹筍來自古坑 劉建國盼文化、產業與健康家園共榮 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QTTVXRFZmdDduX2QtX0RmSnFxeFRyU1dBVFRQYmxiZlBVT2dzYzd3aDhMMTFCb2RieFlSdUlSQTdVS1hVTmFsSDlmRF94Qm9SM0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-06 21:21:00"
       }
     ],
     "facebook": [
@@ -1692,6 +1801,11 @@
     ],
     "youtube": [
       {
+        "title": "直擊濱濱有理一百集！【#八范雲集】EP.41",
+        "url": "https://www.youtube.com/watch?v=SJHEiJiALZs",
+        "time": "2026-06-10 17:42:21"
+      },
+      {
         "title": "早上媒體朋友問我，對黃國昌新書其中一頁內容引發的爭議有什麼看法，以下是我的回應： 為洪慈庸感到不捨。 黃國昌明知內情，卻在書中呈現這樣的內容，非常不人道，也是對他前同志的不尊重。",
         "url": "https://www.youtube.com/shorts/FeQ5_pBYqss",
         "time": "2026-06-04 17:36:25"
@@ -1703,6 +1817,27 @@
     "hour": [],
     "day": [
       {
+        "title": "抓完鰻魚換吃火鍋！ 蔣萬安、張麗善、張嘉郡兩度合體拉抬選情｜#鏡新聞 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNT1FMR0c5MGhYcVRpMk9XVldUYzdDODA2TEJ4SkRIeHlTbVRHN3JGQUpneEpwM2ktZ21GNjhuUWVMNWVwd2NxQ000dGFzek8wSE5LcHlkR3NscmpkU0Q2NmZxRUpxcTctSWh2RE1TQ29uYTh1dk5HR2xCeWR4TlFhUVRoVUd3eGRTMmFqSmttejc2cUJleFdma1oxVHZRZmkxcVNJbktxMmlXdGhHQ2FORmlWRjFQcU5uUUhyaVVZT3hiS3p6Vnd5TEZCNUgyUGlxZWRvVGFxUlNhblppeDhLbUI3ekRadHJwdUFOT2U2OUVhV25OX0NoRElCcUNkOXZFM2QtVmdKQVFTOUFmM2hCWkZCd0J5cVJyNnBqYlFEWW5RcmxhX3BQajRZTXhyaDE4ZFlWaWRRY1BKOW9mQzNDOEZ6QkRNSE1xUXdCRlU5TFJ0WWJHem9VRTU1VVV1Q29RbU5OY3VvMW9aUzdLMEx2ZlF0MGpVcEx2bkR4YThRSEhLSGNWcWxWVnhpbzdUcWd3RkhIb0hud21PN0xST1p0V0taOS1MbklO?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 18:41:31",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "雲林花生開盤價跌四成創十年新低！張嘉郡促調高轉作金、修食安法嚴防洗產地| 夏和宣| 地方新聞 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qZnE4Vm5Bem5QN3BVZmU0ZGtmanpQWTFqSXJzMVFfTWpmbHpLQUJNRG9sSmV3UkxzTTYxMUJKUXY3Ym9EV3lSS1owQjFnUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 17:52:38",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "直擊濱濱有理一百集！【#八范雲集】EP.41",
+        "url": "https://www.youtube.com/watch?v=SJHEiJiALZs",
+        "time": "2026-06-10 17:42:21",
+        "platform": "youtube",
+        "risk": "綠"
+      },
+      {
         "title": "雲林第一期花生採收創10年新低！ - 國民黨立委張嘉郡今（10）日要求農業部應盡速研議提高轉作價格，並落實標示原產地，以保障本土農民生計與消費者知情權。 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi4wZBVV95cUxONmVoRUN0Q19BQmpoZE9hVFg3YXZublJpYlBwbFZxdS0zVV9oaVRVRE9WZGJ6ODU0eF9WMGwyR1MySWp3Zy1OOUdwSGxYcFhGbVF3TUxXbE0tWS1WQWFURzNGU2FLcDR6WDlvZlNFMENCdG9QWnJxOUFaTVlwckZOMVBsdDQ2ZzhlNk4yWnhxeVUyUkNmS3ZiWEppUU9ib0tKaHdGRm9KQWVQWngzM2tqX0pJTDBTamx0Y055VXk4V1Q0bFNxOHpDb2Z2UVhySnEySTYzeWFRMjVBLWpOZno2TmF5RlFVX3FHYmxCSkJ6X0NaVmJGazlqX2FSN1hDUXB4amd0RXlUM014N2l4VUZSVWNDQW9LMER1dUFhLS1KNmtLN2JHUk9fRVgzQU9QQ05WRHRvYW84STFvNTFiZW1QLW9qTTloc0ZFYTRLNmdJZkhpdDNZQ19WbnVuSUxlM1gzQ0FBVlRWUGFueWM4M2M2UVV6b2NIcnlUcG9jM0lOX0U3Rkd5ZnV5cGFlVmNhSGlwZzBhYWM2cThMTzNfOWlkU3RKV3ZLYWtUa256UElIQ2lFQkNVYllOakxVLUV2Y0ktcF9BMnhYWjh2TTgtX1F1RnhXc1RfR3dpcXZBRW8yZFJGMVg5ZGhDbFZiQ3dRWGl4TlotQ1RULWVSdXZlaXZzb1RneUJMNEdoSFJzc1F3TXpGd0ZUQnJVSUpmOHU0OG9BWnR1UjNBQzFuRW5fSnM5dk9GOG5kcklOb21lckVDSnVwSVBtdnlNakJoSzBvM1RxUXFmaWU1RTA2dlI1cVZmTThmRWtIRS1zRnNCOENJTkZmcmlfLU9QTUxwVTN0LW9jMnlhOTRaUlRFX3NFYVdDRDR0aWt3NnZxVldNbXRGbjJLeTAxS0lNU00wYmdLRkg4eTlpRjNQU0pRbUJKLVpiNU9RY3REelFDbXQ3dWxsU2h0LXFXdFQwME5tMDRlT3R4TEh4MGprZUJWSXlTOU5tVjVnbV9seGlTUXdBblhDdzVBSHFvaWVFcVRZcVJKUl9Rai1uU0pNd1l5OVFiMUxSa0pXMDl3RGRkOEtGcFVLbXNEOGNqS3lCbXh5RnpfY0YtNzhNdHh0NTRPZktuSG4wdXBjZDVQakRlVlZsYy1fZGlLWG8",
         "time": "2026-06-10 17:15:03",
@@ -1710,9 +1845,23 @@
         "risk": "綠"
       },
       {
+        "title": "不滿曾被酸危言聳聽 張嘉郡擬修《食安法》 嚴防進口花生洗產地 - 匯流新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CQXFZMjhEaWg4M1F0eW1ac0ZMOWZqNFdDOFlBRTFGMXZkbklmNVV2bE1nQ1VtLW9tSGpadTZnUV8xQk4tMnZSaU9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 16:08:27",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - MSN",
         "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOV1M3MndZQzk3aVI0TDMxWTRqYlNmTkxDb0F4NmUtanVfdWI3OXlVQXNkMWJuYjRkSzhiTFkzRkVISjg5dDl5M2VlYnY0cFRVeHFpaHZfNGpiRVZfaW9KdnQwQ2otWng0dEx6RGNaTGo2RHBEMUVzZmFHenI4S0ZnVWRsZ2V5VVVLUWhEX3hobjZVZmNtN0YzMXV2WnFSMDh1SjMyQWo2X18yUnZ6al9rYUFYR1lXLXduYzV0ZzRZcHYxeHg5MDRidk5qZXZjVmVOSU9QUmlPamJJcGFQMVBwRGF4bWFIelJ2V3hmUXAwQlhVdUp3c1lTbUhBZk1ZYXdqTk5YdklJSVJjZ2liRzhfc09BbEF0VEZVM1hqTVNMQy1ZZzVxTU9naTFHN051WkhyZGR4enEzTFA2X2R6RGRPQVVERDkxX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-10 16:08:06",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "國產花生價慘崩！張嘉郡急籲中央：提高轉作金、強化原產地標示護農 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOR2Fuc0pJY1ZHUFRoTm5NRW03WG5CVUEyWk1tQloya3p3dnZ6SnFRd21nRmYwLW5ZZVUzeWdmaEhMbUNQWllhTS05V1Z0dHNZMVVma2hnejRLVDE2ZVRIejU4ZnBIZWV2Ni0xZ0VkcktPN29jX0VDWWprWGNEc3ZkREVabVZoZ3laZ2tfRjVkMWtncWgtQ1M3REdmeEhhejdqdHh1cDBxUi1MZUtJaU1TMFBWa1JRdGdTWS1SWjZvcnFZUGw3RGMtODZzalY5bF9rZEdFUlJTdEZUVElTQkJiX2EwTkN4eVh6VmtsMHJicVFKcWdyZHpXUkJQMThhTUo5N181WDZEYzlidkZaRGhRX1RrQVg1N05zdDJUQW5DZ3Q5MHZiSmpSRE1SLXNMQktmY1lvQnJJbWpIT0tHZmRoWVhNZkdjUzB3VXdwUVVhTktsSkFuRFljQVptaHJQVUh0N2YxQm03STlGc3pfREZaNW9Za2tXVVB3MGNqY3hURFBUeHVoOWw2ZlhLejBZMzJFNUx5MlJPTkprT3R1Z2UwcW15OFVfYTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 15:25:59",
         "platform": "news",
         "risk": "綠"
       },
@@ -1748,6 +1897,13 @@
         "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - fugomedia.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzZGFpYjJDV2pjcnctM1RTYTQwYTFENDd3ZzRrb0FKU3dzN2Y5Z00zeEw5WDBUdWs3N3dTSE5TN0x3N0pNdzJMQXNKUUNjQUFNdG1lcnZCXzczQ1ZybmhZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-10 14:58:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "張嘉郡憂美花生「毀滅性衝擊」國產花生 楊瓊瓔反駁：講太嚴重價格更崩 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNeXZWNmlvclUwcW9zMWRRa2hXNFR0Rld4TWY0Y09VeG82Y0xoWVU0UTR2YTh4VTVKekw2WGpmdlZrdDJoY1duZjQxVnZTTXdJT1VQNFFSZVhLdVJ1eDhPWnQtRF9GUWRCd0g5WEJpSURMQmFtRk9TZndvUTY4WEdEMjk1bk1ILWMzYlpyb3c0ckVQWUJ4SkZVWDJLN204aHUwWUlWRmZUTElLWGt3S2V4Y2wzZmNlSUZ0VXVPY1VLemlPSDVyQTdjTUNEM0tWa1lMa0U1eERfeUhwTUpGT0Z3NzgwQ0lORG5GSmgwOTNiTXFEX2RfZE5SVm1vX2V1RVlObDZkRHpEQy1sYVFrRTVLejNxUWYwMWNiYThDWTdQSUtGTDBVZG9KR21aVkdKQ0NmYUhrYkQ4YVRrYmZWWVJXaW9hTXcwaWxqTnh1X0lQNVIwa0NlU3VBTHgyNlZWSERZRVhlUnNXT2xlbEpVck5BU0c3cllrR3ZhTW9lVnhRYzdpVnpqaC0wc0VkUzNaVDNremRZTWJxYzRCbzV4Qlk1VlQ2dTYwQ0pjNjBGNHVINWwtOU5j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-10 14:46:00",
         "platform": "news",
         "risk": "綠"
       },
@@ -1799,48 +1955,6 @@
         "time": "2026-06-10 13:40:28",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "張嘉郡稱美國會毀滅性衝擊國產花生 同黨立委楊瓊瓔警告：太嚴重字眼反讓價格更崩 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FWUhYVmt0U1FKZTRVWmVGdWVMaEdlS0RNaTA4bWVmdmdIc2otaWpvU1BSRF92SGVjQTB3a1Q1aDl6Mkt5b3RtYXg5VUd0cnNDNFdZV19lU1JSZHJ5NDhlY1FOQ2Jvd1BueHhWeXB1TdIBb0FVX3lxTE5FWUhYVmt0U1FKZTRVWmVGdWVMaEdlS0RNaTA4bWVmdmdIc2otaWpvU1BSRF92SGVjQTB3a1Q1aDl6Mkt5b3RtYXg5VUd0cnNDNFdZV19lU1JSZHJ5NDhlY1FOQ2Jvd1BueHhWeXB1TQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 13:25:06",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "張嘉郡要求花生轉作金發10萬5 農業部反應曝 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOcXFaLU1KN0J1dXVEak9JaVVBRjIyU3FCYXR5VzNITzZNem01X0REejhMb0x3eFJYcWZvS1g3TVNtUVRta1dXeFBfOW5oZVZ6VGNIVzh3YWlURUwzWndjWGtSV1JwRGY4S3VBYklXMzRMN1JlcjlfSE9jQW1odXFGYTdPaGJqSlpzaGo4cFVnMTRjS21ZMm4yRE41TzVYdkxxX3NVcDVmcEVDcVluU0ZNaUd6empnY3lFZTc0NlU2M0JLbTdaOGNXVXVZWk9ubzA1cUY5eG1mMHpXd3ZtTVpWbi1RLUxJTU9sdUVqclpnaGw3YlR2c21ISkdPU044SkdRS3JPNXhqblhmV2VpNkdDekJYWFU2ZmxVS0lYTHAxb3NaN09Xak4zRmVkX1Zqdzhy?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 13:23:00",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "張嘉郡要求花生轉作金發10萬5 農業部反應曝 - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84cE02NUtucHNtYUVVR0FmVllGWVRFME5heUYyMlFOVUFJR1RMU3dIVk5ldnhWZi1FVGpIVzJxREd3VXVSUFJqUy0zYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 13:21:15",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "張嘉郡要求花生轉作金發10萬5 農業部反應曝| 財經 - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pT1dUOXdsMGY1SWZUcFpDYmZEeHNSYWNBa1gxTkR3WWVKbC04Y2dmQmFIS2ZyLWVlVmFYVUFOSDRpQXJQU2NQbVBtaVBhak1lMDRHSU9udjc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 13:18:00",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "張嘉郡要花生轉作金發10萬5　農業部回應 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aOHU2anR0SzlTSlhZMmtsZDF1cldrZ0tBNWVzTzV2WDZsb0Vtem1hVWZnOHRNVHhvd1hnMmxLMUdMY2JYWmhqVEo4NjJqdExBZGJrRHRYaDJQc0Z5Q3NqSl9B0gFiQVVfeXFMTVo4dTZqdHRLOVNKWFkya2xkMXVyV2tnS0E1ZXNPNXZYNmxvRW16bWFVZmc4dE1UeG93WGcybEsxR0xjYlhaaGpUSjg2Mmp0TEFkYmtEdFhoMlBzRnlDc2pKX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 13:18:00",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "張嘉郡要花生轉作金發10萬5　農業部回應 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FaUhFMzVLOEc2U2ZNZE82WWFQMkdTRXFzMVc5dFdVd1lsakM1MVk2QkhpUnFoMFRYSHM1X3BURDQwQ0dZbTZZY0VOM1FjUUYwZTYzOGZ2SllGU2dF0gFiQVVfeXFMTVo4dTZqdHRLOVNKWFkya2xkMXVyV2tnS0E1ZXNPNXZYNmxvRW16bWFVZmc4dE1UeG93WGcybEsxR0xjYlhaaGpUSjg2Mmp0TEFkYmtEdFhoMlBzRnlDc2pKX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 13:18:00",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -1848,7 +1962,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 4
+        "count": 5
       }
     ],
     "groups": [
