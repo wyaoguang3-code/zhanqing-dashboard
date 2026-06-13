@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-06-13T11:44:19.037069+00:00",
+  "generated_at": "2026-06-13T11:59:40.429310+00:00",
   "metrics": {
-    "total_24h": 5,
+    "total_24h": 9,
     "prev_24h": 19,
-    "growth_pct": -73.68,
-    "news_24h": 3,
+    "growth_pct": -52.63,
+    "news_24h": 7,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 114,
+    "total": 118,
     "prev": 76,
-    "growth_pct": 50.0,
-    "news": 82,
+    "growth_pct": 55.26,
+    "news": 86,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 3
+      "count": 7
     },
     {
       "platform": "facebook",
@@ -38,7 +38,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 82
+      "count": 86
     },
     {
       "platform": "facebook",
@@ -55,6 +55,10 @@
       "count": 2
     },
     {
+      "hour": "2026-06-13 00:00",
+      "count": 1
+    },
+    {
       "hour": "2026-06-13 13:00",
       "count": 1
     },
@@ -65,6 +69,10 @@
     {
       "hour": "2026-06-13 17:00",
       "count": 1
+    },
+    {
+      "hour": "2026-06-13 19:00",
+      "count": 3
     }
   ],
   "by_hour_7d": [
@@ -277,6 +285,10 @@
       "count": 2
     },
     {
+      "hour": "2026-06-13 00:00",
+      "count": 1
+    },
+    {
       "hour": "2026-06-13 13:00",
       "count": 1
     },
@@ -287,20 +299,44 @@
     {
       "hour": "2026-06-13 17:00",
       "count": 1
+    },
+    {
+      "hour": "2026-06-13 19:00",
+      "count": 3
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 3
+      "count": 7
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
       {
+        "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPWVJTQ2tCWTM0Y3Y2SzAxeWFGMU1fNzlmRndQWTZ1Mlh5MlRwd2d1bVAtWW1NWkhBRDUwcUJiMHZlZEw5d0xNaW4yYmQtMGRrNHdxNDNIcm5tSTlaZUV4MTBPWVp1NEI1TFBmSWJKV2xISlYteC1oT2NiODBzbE8tb3YyNVBFWnZMYl8yZVluYXpWRHBZSmxmYV9zYkQ3c2ZXaC1ZeVNmT0ZXc1BKVjlnVVAyemFyR1c3dExTaWZoUEVISzI0UFNoRFpoRVEwd2NiRHczSFQ2aVpVSWRaNUZMRjdYT1htbjhMQXU5YkZ1Rng3TFZrQW04MTM2TDYyS0NOSkxHOF9OZDZmSEl3VWltUjFUV1EtWktBMFdRZTZiYzhlNnY5ZHdIRW92bmRnUFJpeDdaSXB2WUpfTzl6czNCb3pucV9lRjhiVUswOFZzdVFwWTZjcmM1Y3Z3c1BIc0xIVWc0MFhaZVFGQU5KVC1IbUhGcE9VZU5oLWpSWWJLbXFsX0U1UXNXTkZKUllVVGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-13 19:11:59"
+      },
+      {
+        "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HYXB4MmZ5RTRQQTl1djhfa05DV3ltUjJOdk84N1JydkZRNUNaMU81X1ZpQ3BNUUxQSllOdTE4d3BrYm0tdXVfUk5pcGFfVnFFUnI4cFppRHZLQ2JqLVhGbg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-13 19:11:59"
+      },
+      {
+        "title": "翻轉偏鄉醫療！劉建國力爭百億資源留雲林 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPVGMwVjBGdURObTF5YWRlSkRCOGZ3R0FpSTA0cXVab0RvY0FCTlE1UU56QV9XMWkxLWpNN3RiSm96UGE1aWt1Rm16ZENXRnJFLWp0dzl0dkFtNlEzdVo3dGhOSnF6cllwak9TZzhvYzg2WTQ0S1RPd1ZMTVlsYThXeHN1b3hlQ0E4YWNibFFyNWRVdFJEdEpPY2tYX2xrN09zN09qLWFKeURIaHR4NDhtRHJxRll4b3VVV1NiUUZjVVVDa0NGZnFmNHJudVR1U1N6azY1dXZQMnhJNDJrR1dLdjNZOFZfeU9IYTFjN2JoUER0RkU4aWtkbGh6Q2Z4UUxxZkNfT3FPREdlYUNrcUxqbF9jZkRjaHZ5T3VmbnZhajBoWHVKMjlWRzVzQk8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-13 19:01:00"
+      },
+      {
         "title": "劉建國召開公共衛生師協調會 凝聚多項共識 推動公職制度與專業進用機制 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOSEkzWnFSWXhrYUR1djFZV1k2U0g5LTFwYmZtRjBlT29mZ2dILXJSdWZTOVNSQ2JsRldlMy14aGF4QmtNclNLRmxiME5SVEJ6UFlSd2dhQ3RhbHotNWdyNTJTZERhMVlBSFZPY2FYMVIxMV9SZE9YWERPWGl2ZWtXcEdMUmVEai03akF1ZFdlTkZHSzNvMGZNaFVYTEp0MXJtTDdWd3FzSF9uSGxGN0UtZThOUDZ4MXF0eHJIODlsOUcxTERIMFNEa3J6blgzeTVDbW1FZFpnaVNlenp1WDBmcWtEdE9PTm1XRjZ3eFpYM1FxT3B0OHRRNmxQWTViR2x1dkxrdXZjRUpVajA4WUg0R3Q5Wm50SkRtakRnOFpFRmpuQkdsdzc5b3dmLXRkSmJ1aDlyVXo5T081MFRBOUdCdjcxVkJ4Yllxa3U4clFTR2RnTUZnMzFjMElLNDB0WlJfZ1FCTHVlTDlKcHFoVGhXY1k0OXFNLXFSNlRySlV4c3FxUFlBc2M1OVRDQnRlSF90S2w2YUdXblhtTE5UUHdyTmZzajZiaExWbnhtMExXd2dhTXpNWWY2bFlfX2FZZjVLWVlNOXhPVGN3Q1B1WU4yMURNWU4yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-13 17:17:38"
+      },
+      {
+        "title": "健保守護全民健康 立委劉建國：完善老幼照護網絡 打造健康幸福雲林 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LXzFUR00tV0Y3VWRkaHQtOElZUDhvUXA2Mi1ralFURTFwY2FLY21qRTNTclJWUlF1MDFmYVItejFqVXhRVlFhNlZYUTAxVFFvdlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-13 00:00:00"
       },
       {
         "title": "劉建國推公共衛生師制度改革 跨部會凝聚共識建構韌性台灣 - Yahoo新聞",
@@ -317,15 +353,35 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 3
+      "count": 7
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
       {
+        "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPWVJTQ2tCWTM0Y3Y2SzAxeWFGMU1fNzlmRndQWTZ1Mlh5MlRwd2d1bVAtWW1NWkhBRDUwcUJiMHZlZEw5d0xNaW4yYmQtMGRrNHdxNDNIcm5tSTlaZUV4MTBPWVp1NEI1TFBmSWJKV2xISlYteC1oT2NiODBzbE8tb3YyNVBFWnZMYl8yZVluYXpWRHBZSmxmYV9zYkQ3c2ZXaC1ZeVNmT0ZXc1BKVjlnVVAyemFyR1c3dExTaWZoUEVISzI0UFNoRFpoRVEwd2NiRHczSFQ2aVpVSWRaNUZMRjdYT1htbjhMQXU5YkZ1Rng3TFZrQW04MTM2TDYyS0NOSkxHOF9OZDZmSEl3VWltUjFUV1EtWktBMFdRZTZiYzhlNnY5ZHdIRW92bmRnUFJpeDdaSXB2WUpfTzl6czNCb3pucV9lRjhiVUswOFZzdVFwWTZjcmM1Y3Z3c1BIc0xIVWc0MFhaZVFGQU5KVC1IbUhGcE9VZU5oLWpSWWJLbXFsX0U1UXNXTkZKUllVVGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-13 19:11:59"
+      },
+      {
+        "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HYXB4MmZ5RTRQQTl1djhfa05DV3ltUjJOdk84N1JydkZRNUNaMU81X1ZpQ3BNUUxQSllOdTE4d3BrYm0tdXVfUk5pcGFfVnFFUnI4cFppRHZLQ2JqLVhGbg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-13 19:11:59"
+      },
+      {
+        "title": "翻轉偏鄉醫療！劉建國力爭百億資源留雲林 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPVGMwVjBGdURObTF5YWRlSkRCOGZ3R0FpSTA0cXVab0RvY0FCTlE1UU56QV9XMWkxLWpNN3RiSm96UGE1aWt1Rm16ZENXRnJFLWp0dzl0dkFtNlEzdVo3dGhOSnF6cllwak9TZzhvYzg2WTQ0S1RPd1ZMTVlsYThXeHN1b3hlQ0E4YWNibFFyNWRVdFJEdEpPY2tYX2xrN09zN09qLWFKeURIaHR4NDhtRHJxRll4b3VVV1NiUUZjVVVDa0NGZnFmNHJudVR1U1N6azY1dXZQMnhJNDJrR1dLdjNZOFZfeU9IYTFjN2JoUER0RkU4aWtkbGh6Q2Z4UUxxZkNfT3FPREdlYUNrcUxqbF9jZkRjaHZ5T3VmbnZhajBoWHVKMjlWRzVzQk8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-13 19:01:00"
+      },
+      {
         "title": "劉建國召開公共衛生師協調會 凝聚多項共識 推動公職制度與專業進用機制 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOSEkzWnFSWXhrYUR1djFZV1k2U0g5LTFwYmZtRjBlT29mZ2dILXJSdWZTOVNSQ2JsRldlMy14aGF4QmtNclNLRmxiME5SVEJ6UFlSd2dhQ3RhbHotNWdyNTJTZERhMVlBSFZPY2FYMVIxMV9SZE9YWERPWGl2ZWtXcEdMUmVEai03akF1ZFdlTkZHSzNvMGZNaFVYTEp0MXJtTDdWd3FzSF9uSGxGN0UtZThOUDZ4MXF0eHJIODlsOUcxTERIMFNEa3J6blgzeTVDbW1FZFpnaVNlenp1WDBmcWtEdE9PTm1XRjZ3eFpYM1FxT3B0OHRRNmxQWTViR2x1dkxrdXZjRUpVajA4WUg0R3Q5Wm50SkRtakRnOFpFRmpuQkdsdzc5b3dmLXRkSmJ1aDlyVXo5T081MFRBOUdCdjcxVkJ4Yllxa3U4clFTR2RnTUZnMzFjMElLNDB0WlJfZ1FCTHVlTDlKcHFoVGhXY1k0OXFNLXFSNlRySlV4c3FxUFlBc2M1OVRDQnRlSF90S2w2YUdXblhtTE5UUHdyTmZzajZiaExWbnhtMExXd2dhTXpNWWY2bFlfX2FZZjVLWVlNOXhPVGN3Q1B1WU4yMURNWU4yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-13 17:17:38"
+      },
+      {
+        "title": "健保守護全民健康 立委劉建國：完善老幼照護網絡 打造健康幸福雲林 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LXzFUR00tV0Y3VWRkaHQtOElZUDhvUXA2Mi1ralFURTFwY2FLY21qRTNTclJWUlF1MDFmYVItejFqVXhRVlFhNlZYUTAxVFFvdlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-13 00:00:00"
       },
       {
         "title": "劉建國推公共衛生師制度改革 跨部會凝聚共識建構韌性台灣 - Yahoo新聞",
@@ -341,17 +397,37 @@
   },
   "mention_compare_24h": {
     "張嘉郡": 0,
-    "劉建國": 3
+    "劉建國": 7
   },
   "mention_compare_7d": {
     "張嘉郡": 53,
-    "劉建國": 45
+    "劉建國": 49
   },
   "top_news": [
+    {
+      "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPWVJTQ2tCWTM0Y3Y2SzAxeWFGMU1fNzlmRndQWTZ1Mlh5MlRwd2d1bVAtWW1NWkhBRDUwcUJiMHZlZEw5d0xNaW4yYmQtMGRrNHdxNDNIcm5tSTlaZUV4MTBPWVp1NEI1TFBmSWJKV2xISlYteC1oT2NiODBzbE8tb3YyNVBFWnZMYl8yZVluYXpWRHBZSmxmYV9zYkQ3c2ZXaC1ZeVNmT0ZXc1BKVjlnVVAyemFyR1c3dExTaWZoUEVISzI0UFNoRFpoRVEwd2NiRHczSFQ2aVpVSWRaNUZMRjdYT1htbjhMQXU5YkZ1Rng3TFZrQW04MTM2TDYyS0NOSkxHOF9OZDZmSEl3VWltUjFUV1EtWktBMFdRZTZiYzhlNnY5ZHdIRW92bmRnUFJpeDdaSXB2WUpfTzl6czNCb3pucV9lRjhiVUswOFZzdVFwWTZjcmM1Y3Z3c1BIc0xIVWc0MFhaZVFGQU5KVC1IbUhGcE9VZU5oLWpSWWJLbXFsX0U1UXNXTkZKUllVVGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-13 19:11:59"
+    },
+    {
+      "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HYXB4MmZ5RTRQQTl1djhfa05DV3ltUjJOdk84N1JydkZRNUNaMU81X1ZpQ3BNUUxQSllOdTE4d3BrYm0tdXVfUk5pcGFfVnFFUnI4cFppRHZLQ2JqLVhGbg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-13 19:11:59"
+    },
+    {
+      "title": "翻轉偏鄉醫療！劉建國力爭百億資源留雲林 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPVGMwVjBGdURObTF5YWRlSkRCOGZ3R0FpSTA0cXVab0RvY0FCTlE1UU56QV9XMWkxLWpNN3RiSm96UGE1aWt1Rm16ZENXRnJFLWp0dzl0dkFtNlEzdVo3dGhOSnF6cllwak9TZzhvYzg2WTQ0S1RPd1ZMTVlsYThXeHN1b3hlQ0E4YWNibFFyNWRVdFJEdEpPY2tYX2xrN09zN09qLWFKeURIaHR4NDhtRHJxRll4b3VVV1NiUUZjVVVDa0NGZnFmNHJudVR1U1N6azY1dXZQMnhJNDJrR1dLdjNZOFZfeU9IYTFjN2JoUER0RkU4aWtkbGh6Q2Z4UUxxZkNfT3FPREdlYUNrcUxqbF9jZkRjaHZ5T3VmbnZhajBoWHVKMjlWRzVzQk8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-13 19:01:00"
+    },
     {
       "title": "劉建國召開公共衛生師協調會 凝聚多項共識 推動公職制度與專業進用機制 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOSEkzWnFSWXhrYUR1djFZV1k2U0g5LTFwYmZtRjBlT29mZ2dILXJSdWZTOVNSQ2JsRldlMy14aGF4QmtNclNLRmxiME5SVEJ6UFlSd2dhQ3RhbHotNWdyNTJTZERhMVlBSFZPY2FYMVIxMV9SZE9YWERPWGl2ZWtXcEdMUmVEai03akF1ZFdlTkZHSzNvMGZNaFVYTEp0MXJtTDdWd3FzSF9uSGxGN0UtZThOUDZ4MXF0eHJIODlsOUcxTERIMFNEa3J6blgzeTVDbW1FZFpnaVNlenp1WDBmcWtEdE9PTm1XRjZ3eFpYM1FxT3B0OHRRNmxQWTViR2x1dkxrdXZjRUpVajA4WUg0R3Q5Wm50SkRtakRnOFpFRmpuQkdsdzc5b3dmLXRkSmJ1aDlyVXo5T081MFRBOUdCdjcxVkJ4Yllxa3U4clFTR2RnTUZnMzFjMElLNDB0WlJfZ1FCTHVlTDlKcHFoVGhXY1k0OXFNLXFSNlRySlV4c3FxUFlBc2M1OVRDQnRlSF90S2w2YUdXblhtTE5UUHdyTmZzajZiaExWbnhtMExXd2dhTXpNWWY2bFlfX2FZZjVLWVlNOXhPVGN3Q1B1WU4yMURNWU4yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-13 17:17:38"
+    },
+    {
+      "title": "健保守護全民健康 立委劉建國：完善老幼照護網絡 打造健康幸福雲林 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LXzFUR00tV0Y3VWRkaHQtOElZUDhvUXA2Mi1ralFURTFwY2FLY21qRTNTclJWUlF1MDFmYVItejFqVXhRVlFhNlZYUTAxVFFvdlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-13 00:00:00"
     },
     {
       "title": "劉建國推公共衛生師制度改革 跨部會凝聚共識建構韌性台灣 - Yahoo新聞",
@@ -366,9 +442,29 @@
   ],
   "top_news_7d": [
     {
+      "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPWVJTQ2tCWTM0Y3Y2SzAxeWFGMU1fNzlmRndQWTZ1Mlh5MlRwd2d1bVAtWW1NWkhBRDUwcUJiMHZlZEw5d0xNaW4yYmQtMGRrNHdxNDNIcm5tSTlaZUV4MTBPWVp1NEI1TFBmSWJKV2xISlYteC1oT2NiODBzbE8tb3YyNVBFWnZMYl8yZVluYXpWRHBZSmxmYV9zYkQ3c2ZXaC1ZeVNmT0ZXc1BKVjlnVVAyemFyR1c3dExTaWZoUEVISzI0UFNoRFpoRVEwd2NiRHczSFQ2aVpVSWRaNUZMRjdYT1htbjhMQXU5YkZ1Rng3TFZrQW04MTM2TDYyS0NOSkxHOF9OZDZmSEl3VWltUjFUV1EtWktBMFdRZTZiYzhlNnY5ZHdIRW92bmRnUFJpeDdaSXB2WUpfTzl6czNCb3pucV9lRjhiVUswOFZzdVFwWTZjcmM1Y3Z3c1BIc0xIVWc0MFhaZVFGQU5KVC1IbUhGcE9VZU5oLWpSWWJLbXFsX0U1UXNXTkZKUllVVGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-13 19:11:59"
+    },
+    {
+      "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HYXB4MmZ5RTRQQTl1djhfa05DV3ltUjJOdk84N1JydkZRNUNaMU81X1ZpQ3BNUUxQSllOdTE4d3BrYm0tdXVfUk5pcGFfVnFFUnI4cFppRHZLQ2JqLVhGbg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-13 19:11:59"
+    },
+    {
+      "title": "翻轉偏鄉醫療！劉建國力爭百億資源留雲林 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPVGMwVjBGdURObTF5YWRlSkRCOGZ3R0FpSTA0cXVab0RvY0FCTlE1UU56QV9XMWkxLWpNN3RiSm96UGE1aWt1Rm16ZENXRnJFLWp0dzl0dkFtNlEzdVo3dGhOSnF6cllwak9TZzhvYzg2WTQ0S1RPd1ZMTVlsYThXeHN1b3hlQ0E4YWNibFFyNWRVdFJEdEpPY2tYX2xrN09zN09qLWFKeURIaHR4NDhtRHJxRll4b3VVV1NiUUZjVVVDa0NGZnFmNHJudVR1U1N6azY1dXZQMnhJNDJrR1dLdjNZOFZfeU9IYTFjN2JoUER0RkU4aWtkbGh6Q2Z4UUxxZkNfT3FPREdlYUNrcUxqbF9jZkRjaHZ5T3VmbnZhajBoWHVKMjlWRzVzQk8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-13 19:01:00"
+    },
+    {
       "title": "劉建國召開公共衛生師協調會 凝聚多項共識 推動公職制度與專業進用機制 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOSEkzWnFSWXhrYUR1djFZV1k2U0g5LTFwYmZtRjBlT29mZ2dILXJSdWZTOVNSQ2JsRldlMy14aGF4QmtNclNLRmxiME5SVEJ6UFlSd2dhQ3RhbHotNWdyNTJTZERhMVlBSFZPY2FYMVIxMV9SZE9YWERPWGl2ZWtXcEdMUmVEai03akF1ZFdlTkZHSzNvMGZNaFVYTEp0MXJtTDdWd3FzSF9uSGxGN0UtZThOUDZ4MXF0eHJIODlsOUcxTERIMFNEa3J6blgzeTVDbW1FZFpnaVNlenp1WDBmcWtEdE9PTm1XRjZ3eFpYM1FxT3B0OHRRNmxQWTViR2x1dkxrdXZjRUpVajA4WUg0R3Q5Wm50SkRtakRnOFpFRmpuQkdsdzc5b3dmLXRkSmJ1aDlyVXo5T081MFRBOUdCdjcxVkJ4Yllxa3U4clFTR2RnTUZnMzFjMElLNDB0WlJfZ1FCTHVlTDlKcHFoVGhXY1k0OXFNLXFSNlRySlV4c3FxUFlBc2M1OVRDQnRlSF90S2w2YUdXblhtTE5UUHdyTmZzajZiaExWbnhtMExXd2dhTXpNWWY2bFlfX2FZZjVLWVlNOXhPVGN3Q1B1WU4yMURNWU4yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-13 17:17:38"
+    },
+    {
+      "title": "健保守護全民健康 立委劉建國：完善老幼照護網絡 打造健康幸福雲林 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LXzFUR00tV0Y3VWRkaHQtOElZUDhvUXA2Mi1ralFURTFwY2FLY21qRTNTclJWUlF1MDFmYVItejFqVXhRVlFhNlZYUTAxVFFvdlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-13 00:00:00"
     },
     {
       "title": "劉建國推公共衛生師制度改革 跨部會凝聚共識建構韌性台灣 - Yahoo新聞",
@@ -444,26 +540,6 @@
       "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - MSN",
       "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxObGJEdGs4ODBSbXlOdmNJYzFXcGZmanlBWTZzWURFOE1fNVBXNzRIUFRoOFNFYU5oYjZlRWYtNTRvdnI1NWdhNEdEcDlXOTZqSnd1OVRYcFloTTE1NVl5Q2ZpWU51XzhNeFBjRVh4VVNHaVZteU8wX3ZCaHRhQ0JET0VZZHJiVUZPRzlmb0NtdHFiQS1UZ2JuRW1DcUd1UEtHai1DSHA2S2ZCU1V0NmRZaG51cC1SbVdqeXZrVTF6NWh5RkR4Skdhb2ZJdmJNWERXS2k1VnlqV2YtYW56VDl0T2VBZFBnWWdmZE9QOWpaMHhLemVISmwzVVdGOEhwNkktTE5IT2ZxX3BWYkIyVGN1MzdfYWZ0ckFsaDZCRnBweHN6RmF0eEpiWjhPYmtxQjN5eXdIWjBIR0hwRW44UnlHVGVFT1A0b1VDdS13TDJIVnFwTDQ3UzV0eURPd1V0dHo4UDhMZVVhbkJiVDV2ajh1YVhtcnNIVkpiMGZueWlVTHBDRXlaQnFpOTZuYlY4YTN1bUJJTndjTEFPNDNVTVQ2TmFha1RuWC1rcGRIVjdqUkFHaDhrVEhkWU14UXBSdU5aUEUtcVg2dVRqdGRXVzlJb3BWMGhxRUwwZlRRVGpQTEdITm1EUlc3VDByQXNaWGhPTDBJU2dGdDF5X2ZGWEhoaHBWcDRPZ2t0RW9kUnpqenBPRHhIVE8xWlFxc2ZJWm8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-11 22:00:15"
-    },
-    {
-      "title": "討論牆 | 本土花生價格暴跌約四成 張嘉郡籲提高農業部轉作獎勵金 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LeWpNR1QxbU1jcENnWlNQSDEzVWdvbXMtNUVZWDgtMF9IcWZoVFM4WS1TS1BsNnUzelZzLWNKVnlkellMRjlaT19Tb29HTjhzakRQN21wakRrYjF3VDBCeWhGWVA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-11 20:13:19"
-    },
-    {
-      "title": "豪雨衝擊採收非零關稅惹禍 劉建國促查緝炒作穩定花生價格 - 觀傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04Z0tCdjdvN0tFelh2YV9GdU5pNjFQZU1DcGJsREIydld2U3EwcGhaU2tsVHBXemtmM1NobHFCZUtnZzB6VW9MdnBNQXRvdmNWV3NEdUlQMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-11 18:53:22"
-    },
-    {
-      "title": "豪雨衝擊採收非零關稅惹禍 劉建國促查緝炒作穩定花生價格 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNcWU4TEdGbk1Nb0ZmN29yM1hNT2dEQ2ZRX3BXMnFlRFBfSVpUV3BaUjhITTE2c0JnczhDVU1LUlNEZzJQdUFsdmM4cWxEd3VqWExwVWdaekpkNVFJNENQQXpNbEZkQXYtNkh1S1RfMzZ3M2NFRDJrWWdKaXo0UzNEWjB2M1V6emd6TlQtemFOZm4xR094dnpzV1FSVkZYNVlndGNQUlJNZVozSjVoYm95ZU5CZnVibUxQUU1NQUFmeVZuUGVjVDNfSXpNajIwTDd3cng5MWd3LVQxTFJRWGhiUFhqTnJZQXVKWmdobURkaGFjVFF6ZWY1ZnVaZlNpeEpTWlluamk4djI4ZUx0TWN5a2kwNzdoY3p5LU9MZjBreVFEeWhBTk1zTG9ZWllHQ2ppR2d1cHJSR1lobG1vQ1BKZDhia01Ob0xxZFZhWXZtSk5ycm1VMl9FMHRybUJ4SHRTZnBQUlhLc3BHd2VsRWN5dDBLVHRob1VqQ01ZSmZOQ2RUcFJPUHZYc29lY3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-11 18:53:22"
-    },
-    {
-      "title": "豪雨衝擊採收非零關稅惹禍 劉建國促查緝炒作穩定花生價格 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41VTdBYnZwOTh2bU5LdHJHa0dZSVl5UTFaaTdvdnZPakpFZmd0eU8zeExyY1NlWGQ2NEp3ekJ1eFFnVXhQbDg0SzZpWTNsOWNVeVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-11 18:53:00"
     }
   ],
   "latest_facebook_20": [
@@ -570,9 +646,29 @@
   ],
   "latest_news_20": [
     {
+      "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPWVJTQ2tCWTM0Y3Y2SzAxeWFGMU1fNzlmRndQWTZ1Mlh5MlRwd2d1bVAtWW1NWkhBRDUwcUJiMHZlZEw5d0xNaW4yYmQtMGRrNHdxNDNIcm5tSTlaZUV4MTBPWVp1NEI1TFBmSWJKV2xISlYteC1oT2NiODBzbE8tb3YyNVBFWnZMYl8yZVluYXpWRHBZSmxmYV9zYkQ3c2ZXaC1ZeVNmT0ZXc1BKVjlnVVAyemFyR1c3dExTaWZoUEVISzI0UFNoRFpoRVEwd2NiRHczSFQ2aVpVSWRaNUZMRjdYT1htbjhMQXU5YkZ1Rng3TFZrQW04MTM2TDYyS0NOSkxHOF9OZDZmSEl3VWltUjFUV1EtWktBMFdRZTZiYzhlNnY5ZHdIRW92bmRnUFJpeDdaSXB2WUpfTzl6czNCb3pucV9lRjhiVUswOFZzdVFwWTZjcmM1Y3Z3c1BIc0xIVWc0MFhaZVFGQU5KVC1IbUhGcE9VZU5oLWpSWWJLbXFsX0U1UXNXTkZKUllVVGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-13 19:11:59"
+    },
+    {
+      "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HYXB4MmZ5RTRQQTl1djhfa05DV3ltUjJOdk84N1JydkZRNUNaMU81X1ZpQ3BNUUxQSllOdTE4d3BrYm0tdXVfUk5pcGFfVnFFUnI4cFppRHZLQ2JqLVhGbg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-13 19:11:59"
+    },
+    {
+      "title": "翻轉偏鄉醫療！劉建國力爭百億資源留雲林 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPVGMwVjBGdURObTF5YWRlSkRCOGZ3R0FpSTA0cXVab0RvY0FCTlE1UU56QV9XMWkxLWpNN3RiSm96UGE1aWt1Rm16ZENXRnJFLWp0dzl0dkFtNlEzdVo3dGhOSnF6cllwak9TZzhvYzg2WTQ0S1RPd1ZMTVlsYThXeHN1b3hlQ0E4YWNibFFyNWRVdFJEdEpPY2tYX2xrN09zN09qLWFKeURIaHR4NDhtRHJxRll4b3VVV1NiUUZjVVVDa0NGZnFmNHJudVR1U1N6azY1dXZQMnhJNDJrR1dLdjNZOFZfeU9IYTFjN2JoUER0RkU4aWtkbGh6Q2Z4UUxxZkNfT3FPREdlYUNrcUxqbF9jZkRjaHZ5T3VmbnZhajBoWHVKMjlWRzVzQk8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-13 19:01:00"
+    },
+    {
       "title": "劉建國召開公共衛生師協調會 凝聚多項共識 推動公職制度與專業進用機制 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOSEkzWnFSWXhrYUR1djFZV1k2U0g5LTFwYmZtRjBlT29mZ2dILXJSdWZTOVNSQ2JsRldlMy14aGF4QmtNclNLRmxiME5SVEJ6UFlSd2dhQ3RhbHotNWdyNTJTZERhMVlBSFZPY2FYMVIxMV9SZE9YWERPWGl2ZWtXcEdMUmVEai03akF1ZFdlTkZHSzNvMGZNaFVYTEp0MXJtTDdWd3FzSF9uSGxGN0UtZThOUDZ4MXF0eHJIODlsOUcxTERIMFNEa3J6blgzeTVDbW1FZFpnaVNlenp1WDBmcWtEdE9PTm1XRjZ3eFpYM1FxT3B0OHRRNmxQWTViR2x1dkxrdXZjRUpVajA4WUg0R3Q5Wm50SkRtakRnOFpFRmpuQkdsdzc5b3dmLXRkSmJ1aDlyVXo5T081MFRBOUdCdjcxVkJ4Yllxa3U4clFTR2RnTUZnMzFjMElLNDB0WlJfZ1FCTHVlTDlKcHFoVGhXY1k0OXFNLXFSNlRySlV4c3FxUFlBc2M1OVRDQnRlSF90S2w2YUdXblhtTE5UUHdyTmZzajZiaExWbnhtMExXd2dhTXpNWWY2bFlfX2FZZjVLWVlNOXhPVGN3Q1B1WU4yMURNWU4yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-13 17:17:38"
+    },
+    {
+      "title": "健保守護全民健康 立委劉建國：完善老幼照護網絡 打造健康幸福雲林 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LXzFUR00tV0Y3VWRkaHQtOElZUDhvUXA2Mi1ralFURTFwY2FLY21qRTNTclJWUlF1MDFmYVItejFqVXhRVlFhNlZYUTAxVFFvdlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-13 00:00:00"
     },
     {
       "title": "劉建國推公共衛生師制度改革 跨部會凝聚共識建構韌性台灣 - Yahoo新聞",
@@ -648,26 +744,6 @@
       "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - MSN",
       "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxObGJEdGs4ODBSbXlOdmNJYzFXcGZmanlBWTZzWURFOE1fNVBXNzRIUFRoOFNFYU5oYjZlRWYtNTRvdnI1NWdhNEdEcDlXOTZqSnd1OVRYcFloTTE1NVl5Q2ZpWU51XzhNeFBjRVh4VVNHaVZteU8wX3ZCaHRhQ0JET0VZZHJiVUZPRzlmb0NtdHFiQS1UZ2JuRW1DcUd1UEtHai1DSHA2S2ZCU1V0NmRZaG51cC1SbVdqeXZrVTF6NWh5RkR4Skdhb2ZJdmJNWERXS2k1VnlqV2YtYW56VDl0T2VBZFBnWWdmZE9QOWpaMHhLemVISmwzVVdGOEhwNkktTE5IT2ZxX3BWYkIyVGN1MzdfYWZ0ckFsaDZCRnBweHN6RmF0eEpiWjhPYmtxQjN5eXdIWjBIR0hwRW44UnlHVGVFT1A0b1VDdS13TDJIVnFwTDQ3UzV0eURPd1V0dHo4UDhMZVVhbkJiVDV2ajh1YVhtcnNIVkpiMGZueWlVTHBDRXlaQnFpOTZuYlY4YTN1bUJJTndjTEFPNDNVTVQ2TmFha1RuWC1rcGRIVjdqUkFHaDhrVEhkWU14UXBSdU5aUEUtcVg2dVRqdGRXVzlJb3BWMGhxRUwwZlRRVGpQTEdITm1EUlc3VDByQXNaWGhPTDBJU2dGdDF5X2ZGWEhoaHBWcDRPZ2t0RW9kUnpqenBPRHhIVE8xWlFxc2ZJWm8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-11 22:00:15"
-    },
-    {
-      "title": "討論牆 | 本土花生價格暴跌約四成 張嘉郡籲提高農業部轉作獎勵金 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LeWpNR1QxbU1jcENnWlNQSDEzVWdvbXMtNUVZWDgtMF9IcWZoVFM4WS1TS1BsNnUzelZzLWNKVnlkellMRjlaT19Tb29HTjhzakRQN21wakRrYjF3VDBCeWhGWVA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-11 20:13:19"
-    },
-    {
-      "title": "豪雨衝擊採收非零關稅惹禍 劉建國促查緝炒作穩定花生價格 - 觀傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04Z0tCdjdvN0tFelh2YV9GdU5pNjFQZU1DcGJsREIydld2U3EwcGhaU2tsVHBXemtmM1NobHFCZUtnZzB6VW9MdnBNQXRvdmNWV3NEdUlQMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-11 18:53:22"
-    },
-    {
-      "title": "豪雨衝擊採收非零關稅惹禍 劉建國促查緝炒作穩定花生價格 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNcWU4TEdGbk1Nb0ZmN29yM1hNT2dEQ2ZRX3BXMnFlRFBfSVpUV3BaUjhITTE2c0JnczhDVU1LUlNEZzJQdUFsdmM4cWxEd3VqWExwVWdaekpkNVFJNENQQXpNbEZkQXYtNkh1S1RfMzZ3M2NFRDJrWWdKaXo0UzNEWjB2M1V6emd6TlQtemFOZm4xR094dnpzV1FSVkZYNVlndGNQUlJNZVozSjVoYm95ZU5CZnVibUxQUU1NQUFmeVZuUGVjVDNfSXpNajIwTDd3cng5MWd3LVQxTFJRWGhiUFhqTnJZQXVKWmdobURkaGFjVFF6ZWY1ZnVaZlNpeEpTWlluamk4djI4ZUx0TWN5a2kwNzdoY3p5LU9MZjBreVFEeWhBTk1zTG9ZWllHQ2ppR2d1cHJSR1lobG1vQ1BKZDhia01Ob0xxZFZhWXZtSk5ycm1VMl9FMHRybUJ4SHRTZnBQUlhLc3BHd2VsRWN5dDBLVHRob1VqQ01ZSmZOQ2RUcFJPUHZYc29lY3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-11 18:53:22"
-    },
-    {
-      "title": "豪雨衝擊採收非零關稅惹禍 劉建國促查緝炒作穩定花生價格 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41VTdBYnZwOTh2bU5LdHJHa0dZSVl5UTFaaTdvdnZPakpFZmd0eU8zeExyY1NlWGQ2NEp3ekJ1eFFnVXhQbDg0SzZpWTNsOWNVeVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-11 18:53:00"
     }
   ],
   "person_sections": {
@@ -982,9 +1058,29 @@
       ],
       "news": [
         {
+          "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPWVJTQ2tCWTM0Y3Y2SzAxeWFGMU1fNzlmRndQWTZ1Mlh5MlRwd2d1bVAtWW1NWkhBRDUwcUJiMHZlZEw5d0xNaW4yYmQtMGRrNHdxNDNIcm5tSTlaZUV4MTBPWVp1NEI1TFBmSWJKV2xISlYteC1oT2NiODBzbE8tb3YyNVBFWnZMYl8yZVluYXpWRHBZSmxmYV9zYkQ3c2ZXaC1ZeVNmT0ZXc1BKVjlnVVAyemFyR1c3dExTaWZoUEVISzI0UFNoRFpoRVEwd2NiRHczSFQ2aVpVSWRaNUZMRjdYT1htbjhMQXU5YkZ1Rng3TFZrQW04MTM2TDYyS0NOSkxHOF9OZDZmSEl3VWltUjFUV1EtWktBMFdRZTZiYzhlNnY5ZHdIRW92bmRnUFJpeDdaSXB2WUpfTzl6czNCb3pucV9lRjhiVUswOFZzdVFwWTZjcmM1Y3Z3c1BIc0xIVWc0MFhaZVFGQU5KVC1IbUhGcE9VZU5oLWpSWWJLbXFsX0U1UXNXTkZKUllVVGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-13 19:11:59"
+        },
+        {
+          "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - 民視新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HYXB4MmZ5RTRQQTl1djhfa05DV3ltUjJOdk84N1JydkZRNUNaMU81X1ZpQ3BNUUxQSllOdTE4d3BrYm0tdXVfUk5pcGFfVnFFUnI4cFppRHZLQ2JqLVhGbg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-13 19:11:59"
+        },
+        {
+          "title": "翻轉偏鄉醫療！劉建國力爭百億資源留雲林 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPVGMwVjBGdURObTF5YWRlSkRCOGZ3R0FpSTA0cXVab0RvY0FCTlE1UU56QV9XMWkxLWpNN3RiSm96UGE1aWt1Rm16ZENXRnJFLWp0dzl0dkFtNlEzdVo3dGhOSnF6cllwak9TZzhvYzg2WTQ0S1RPd1ZMTVlsYThXeHN1b3hlQ0E4YWNibFFyNWRVdFJEdEpPY2tYX2xrN09zN09qLWFKeURIaHR4NDhtRHJxRll4b3VVV1NiUUZjVVVDa0NGZnFmNHJudVR1U1N6azY1dXZQMnhJNDJrR1dLdjNZOFZfeU9IYTFjN2JoUER0RkU4aWtkbGh6Q2Z4UUxxZkNfT3FPREdlYUNrcUxqbF9jZkRjaHZ5T3VmbnZhajBoWHVKMjlWRzVzQk8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-13 19:01:00"
+        },
+        {
           "title": "劉建國召開公共衛生師協調會 凝聚多項共識 推動公職制度與專業進用機制 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOSEkzWnFSWXhrYUR1djFZV1k2U0g5LTFwYmZtRjBlT29mZ2dILXJSdWZTOVNSQ2JsRldlMy14aGF4QmtNclNLRmxiME5SVEJ6UFlSd2dhQ3RhbHotNWdyNTJTZERhMVlBSFZPY2FYMVIxMV9SZE9YWERPWGl2ZWtXcEdMUmVEai03akF1ZFdlTkZHSzNvMGZNaFVYTEp0MXJtTDdWd3FzSF9uSGxGN0UtZThOUDZ4MXF0eHJIODlsOUcxTERIMFNEa3J6blgzeTVDbW1FZFpnaVNlenp1WDBmcWtEdE9PTm1XRjZ3eFpYM1FxT3B0OHRRNmxQWTViR2x1dkxrdXZjRUpVajA4WUg0R3Q5Wm50SkRtakRnOFpFRmpuQkdsdzc5b3dmLXRkSmJ1aDlyVXo5T081MFRBOUdCdjcxVkJ4Yllxa3U4clFTR2RnTUZnMzFjMElLNDB0WlJfZ1FCTHVlTDlKcHFoVGhXY1k0OXFNLXFSNlRySlV4c3FxUFlBc2M1OVRDQnRlSF90S2w2YUdXblhtTE5UUHdyTmZzajZiaExWbnhtMExXd2dhTXpNWWY2bFlfX2FZZjVLWVlNOXhPVGN3Q1B1WU4yMURNWU4yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-13 17:17:38"
+        },
+        {
+          "title": "健保守護全民健康 立委劉建國：完善老幼照護網絡 打造健康幸福雲林 - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LXzFUR00tV0Y3VWRkaHQtOElZUDhvUXA2Mi1ralFURTFwY2FLY21qRTNTclJWUlF1MDFmYVItejFqVXhRVlFhNlZYUTAxVFFvdlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-13 00:00:00"
         },
         {
           "title": "劉建國推公共衛生師制度改革 跨部會凝聚共識建構韌性台灣 - Yahoo新聞",
@@ -1060,26 +1156,6 @@
           "title": "豪雨衝擊採收非零關稅惹禍 劉建國促查緝炒作穩定花生價格 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNcWU4TEdGbk1Nb0ZmN29yM1hNT2dEQ2ZRX3BXMnFlRFBfSVpUV3BaUjhITTE2c0JnczhDVU1LUlNEZzJQdUFsdmM4cWxEd3VqWExwVWdaekpkNVFJNENQQXpNbEZkQXYtNkh1S1RfMzZ3M2NFRDJrWWdKaXo0UzNEWjB2M1V6emd6TlQtemFOZm4xR094dnpzV1FSVkZYNVlndGNQUlJNZVozSjVoYm95ZU5CZnVibUxQUU1NQUFmeVZuUGVjVDNfSXpNajIwTDd3cng5MWd3LVQxTFJRWGhiUFhqTnJZQXVKWmdobURkaGFjVFF6ZWY1ZnVaZlNpeEpTWlluamk4djI4ZUx0TWN5a2kwNzdoY3p5LU9MZjBreVFEeWhBTk1zTG9ZWllHQ2ppR2d1cHJSR1lobG1vQ1BKZDhia01Ob0xxZFZhWXZtSk5ycm1VMl9FMHRybUJ4SHRTZnBQUlhLc3BHd2VsRWN5dDBLVHRob1VqQ01ZSmZOQ2RUcFJPUHZYc29lY3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-11 18:53:22"
-        },
-        {
-          "title": "豪雨衝擊採收非零關稅惹禍 劉建國促查緝炒作穩定花生價格 - 蕃新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41VTdBYnZwOTh2bU5LdHJHa0dZSVl5UTFaaTdvdnZPakpFZmd0eU8zeExyY1NlWGQ2NEp3ekJ1eFFnVXhQbDg0SzZpWTNsOWNVeVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-11 18:53:00"
-        },
-        {
-          "title": "花生價格波動 劉建國：農業部應啟動穩定價格措施 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNzREbU54c18zdVY5TEFqUkRoLWJmM2RacFlIc2kwcklvYWtOaUg5MWRQd1c1OThtU2ZZZ1loR1FLMExOa18xSWdhcWtIcTFVOTc2b015V0I4SVB1ZlZaS0hQRGZ6cWgwY0RSM3hYNEtIVHNsam5XTGp4MlZsZFVRM2JUQjNEU2FVUlU2dg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-11 16:52:07"
-        },
-        {
-          "title": "快新聞／花生行情波動引發關注 劉建國喊話農業部：應啟動穩定價格措施 - 民視新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pbWJGZkp0eGxPYTUtQVM1WTdicG80XzJwRFpwNnl0dEVGZWkwTm9TYWRPajVBalozcFhZY0pIb0JoN2ZkSl95QmJrXzlrY090WUxJREdiLWVOZHVvSVFSeA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-11 15:15:03"
-        },
-        {
-          "title": "豪雨衝擊採收非零關稅惹禍 劉建國促查緝炒作穩定花生價格 - 樂聯網",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PWENBb0lUalNQMURxVlZuUHlyVnFPN1FrOGNndGpWOXlZQXV5bWJaTkpGeWs3MU1Ec1EwMlBrZ1Y5Z0dQMWE5YUxfVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-11 10:53:22"
         }
       ]
     }
@@ -1087,9 +1163,29 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPWVJTQ2tCWTM0Y3Y2SzAxeWFGMU1fNzlmRndQWTZ1Mlh5MlRwd2d1bVAtWW1NWkhBRDUwcUJiMHZlZEw5d0xNaW4yYmQtMGRrNHdxNDNIcm5tSTlaZUV4MTBPWVp1NEI1TFBmSWJKV2xISlYteC1oT2NiODBzbE8tb3YyNVBFWnZMYl8yZVluYXpWRHBZSmxmYV9zYkQ3c2ZXaC1ZeVNmT0ZXc1BKVjlnVVAyemFyR1c3dExTaWZoUEVISzI0UFNoRFpoRVEwd2NiRHczSFQ2aVpVSWRaNUZMRjdYT1htbjhMQXU5YkZ1Rng3TFZrQW04MTM2TDYyS0NOSkxHOF9OZDZmSEl3VWltUjFUV1EtWktBMFdRZTZiYzhlNnY5ZHdIRW92bmRnUFJpeDdaSXB2WUpfTzl6czNCb3pucV9lRjhiVUswOFZzdVFwWTZjcmM1Y3Z3c1BIc0xIVWc0MFhaZVFGQU5KVC1IbUhGcE9VZU5oLWpSWWJLbXFsX0U1UXNXTkZKUllVVGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-13 19:11:59"
+      },
+      {
+        "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HYXB4MmZ5RTRQQTl1djhfa05DV3ltUjJOdk84N1JydkZRNUNaMU81X1ZpQ3BNUUxQSllOdTE4d3BrYm0tdXVfUk5pcGFfVnFFUnI4cFppRHZLQ2JqLVhGbg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-13 19:11:59"
+      },
+      {
+        "title": "翻轉偏鄉醫療！劉建國力爭百億資源留雲林 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPVGMwVjBGdURObTF5YWRlSkRCOGZ3R0FpSTA0cXVab0RvY0FCTlE1UU56QV9XMWkxLWpNN3RiSm96UGE1aWt1Rm16ZENXRnJFLWp0dzl0dkFtNlEzdVo3dGhOSnF6cllwak9TZzhvYzg2WTQ0S1RPd1ZMTVlsYThXeHN1b3hlQ0E4YWNibFFyNWRVdFJEdEpPY2tYX2xrN09zN09qLWFKeURIaHR4NDhtRHJxRll4b3VVV1NiUUZjVVVDa0NGZnFmNHJudVR1U1N6azY1dXZQMnhJNDJrR1dLdjNZOFZfeU9IYTFjN2JoUER0RkU4aWtkbGh6Q2Z4UUxxZkNfT3FPREdlYUNrcUxqbF9jZkRjaHZ5T3VmbnZhajBoWHVKMjlWRzVzQk8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-13 19:01:00"
+      },
+      {
         "title": "劉建國召開公共衛生師協調會 凝聚多項共識 推動公職制度與專業進用機制 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOSEkzWnFSWXhrYUR1djFZV1k2U0g5LTFwYmZtRjBlT29mZ2dILXJSdWZTOVNSQ2JsRldlMy14aGF4QmtNclNLRmxiME5SVEJ6UFlSd2dhQ3RhbHotNWdyNTJTZERhMVlBSFZPY2FYMVIxMV9SZE9YWERPWGl2ZWtXcEdMUmVEai03akF1ZFdlTkZHSzNvMGZNaFVYTEp0MXJtTDdWd3FzSF9uSGxGN0UtZThOUDZ4MXF0eHJIODlsOUcxTERIMFNEa3J6blgzeTVDbW1FZFpnaVNlenp1WDBmcWtEdE9PTm1XRjZ3eFpYM1FxT3B0OHRRNmxQWTViR2x1dkxrdXZjRUpVajA4WUg0R3Q5Wm50SkRtakRnOFpFRmpuQkdsdzc5b3dmLXRkSmJ1aDlyVXo5T081MFRBOUdCdjcxVkJ4Yllxa3U4clFTR2RnTUZnMzFjMElLNDB0WlJfZ1FCTHVlTDlKcHFoVGhXY1k0OXFNLXFSNlRySlV4c3FxUFlBc2M1OVRDQnRlSF90S2w2YUdXblhtTE5UUHdyTmZzajZiaExWbnhtMExXd2dhTXpNWWY2bFlfX2FZZjVLWVlNOXhPVGN3Q1B1WU4yMURNWU4yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-13 17:17:38"
+      },
+      {
+        "title": "健保守護全民健康 立委劉建國：完善老幼照護網絡 打造健康幸福雲林 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LXzFUR00tV0Y3VWRkaHQtOElZUDhvUXA2Mi1ralFURTFwY2FLY21qRTNTclJWUlF1MDFmYVItejFqVXhRVlFhNlZYUTAxVFFvdlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-13 00:00:00"
       },
       {
         "title": "劉建國推公共衛生師制度改革 跨部會凝聚共識建構韌性台灣 - Yahoo新聞",
@@ -1118,9 +1214,29 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPWVJTQ2tCWTM0Y3Y2SzAxeWFGMU1fNzlmRndQWTZ1Mlh5MlRwd2d1bVAtWW1NWkhBRDUwcUJiMHZlZEw5d0xNaW4yYmQtMGRrNHdxNDNIcm5tSTlaZUV4MTBPWVp1NEI1TFBmSWJKV2xISlYteC1oT2NiODBzbE8tb3YyNVBFWnZMYl8yZVluYXpWRHBZSmxmYV9zYkQ3c2ZXaC1ZeVNmT0ZXc1BKVjlnVVAyemFyR1c3dExTaWZoUEVISzI0UFNoRFpoRVEwd2NiRHczSFQ2aVpVSWRaNUZMRjdYT1htbjhMQXU5YkZ1Rng3TFZrQW04MTM2TDYyS0NOSkxHOF9OZDZmSEl3VWltUjFUV1EtWktBMFdRZTZiYzhlNnY5ZHdIRW92bmRnUFJpeDdaSXB2WUpfTzl6czNCb3pucV9lRjhiVUswOFZzdVFwWTZjcmM1Y3Z3c1BIc0xIVWc0MFhaZVFGQU5KVC1IbUhGcE9VZU5oLWpSWWJLbXFsX0U1UXNXTkZKUllVVGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-13 19:11:59"
+      },
+      {
+        "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HYXB4MmZ5RTRQQTl1djhfa05DV3ltUjJOdk84N1JydkZRNUNaMU81X1ZpQ3BNUUxQSllOdTE4d3BrYm0tdXVfUk5pcGFfVnFFUnI4cFppRHZLQ2JqLVhGbg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-13 19:11:59"
+      },
+      {
+        "title": "翻轉偏鄉醫療！劉建國力爭百億資源留雲林 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPVGMwVjBGdURObTF5YWRlSkRCOGZ3R0FpSTA0cXVab0RvY0FCTlE1UU56QV9XMWkxLWpNN3RiSm96UGE1aWt1Rm16ZENXRnJFLWp0dzl0dkFtNlEzdVo3dGhOSnF6cllwak9TZzhvYzg2WTQ0S1RPd1ZMTVlsYThXeHN1b3hlQ0E4YWNibFFyNWRVdFJEdEpPY2tYX2xrN09zN09qLWFKeURIaHR4NDhtRHJxRll4b3VVV1NiUUZjVVVDa0NGZnFmNHJudVR1U1N6azY1dXZQMnhJNDJrR1dLdjNZOFZfeU9IYTFjN2JoUER0RkU4aWtkbGh6Q2Z4UUxxZkNfT3FPREdlYUNrcUxqbF9jZkRjaHZ5T3VmbnZhajBoWHVKMjlWRzVzQk8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-13 19:01:00"
+      },
+      {
         "title": "劉建國召開公共衛生師協調會 凝聚多項共識 推動公職制度與專業進用機制 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOSEkzWnFSWXhrYUR1djFZV1k2U0g5LTFwYmZtRjBlT29mZ2dILXJSdWZTOVNSQ2JsRldlMy14aGF4QmtNclNLRmxiME5SVEJ6UFlSd2dhQ3RhbHotNWdyNTJTZERhMVlBSFZPY2FYMVIxMV9SZE9YWERPWGl2ZWtXcEdMUmVEai03akF1ZFdlTkZHSzNvMGZNaFVYTEp0MXJtTDdWd3FzSF9uSGxGN0UtZThOUDZ4MXF0eHJIODlsOUcxTERIMFNEa3J6blgzeTVDbW1FZFpnaVNlenp1WDBmcWtEdE9PTm1XRjZ3eFpYM1FxT3B0OHRRNmxQWTViR2x1dkxrdXZjRUpVajA4WUg0R3Q5Wm50SkRtakRnOFpFRmpuQkdsdzc5b3dmLXRkSmJ1aDlyVXo5T081MFRBOUdCdjcxVkJ4Yllxa3U4clFTR2RnTUZnMzFjMElLNDB0WlJfZ1FCTHVlTDlKcHFoVGhXY1k0OXFNLXFSNlRySlV4c3FxUFlBc2M1OVRDQnRlSF90S2w2YUdXblhtTE5UUHdyTmZzajZiaExWbnhtMExXd2dhTXpNWWY2bFlfX2FZZjVLWVlNOXhPVGN3Q1B1WU4yMURNWU4yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-13 17:17:38"
+      },
+      {
+        "title": "健保守護全民健康 立委劉建國：完善老幼照護網絡 打造健康幸福雲林 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LXzFUR00tV0Y3VWRkaHQtOElZUDhvUXA2Mi1ralFURTFwY2FLY21qRTNTclJWUlF1MDFmYVItejFqVXhRVlFhNlZYUTAxVFFvdlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-13 00:00:00"
       },
       {
         "title": "劉建國推公共衛生師制度改革 跨部會凝聚共識建構韌性台灣 - Yahoo新聞",
@@ -1296,26 +1412,6 @@
         "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - MSN",
         "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOV1M3MndZQzk3aVI0TDMxWTRqYlNmTkxDb0F4NmUtanVfdWI3OXlVQXNkMWJuYjRkSzhiTFkzRkVISjg5dDl5M2VlYnY0cFRVeHFpaHZfNGpiRVZfaW9KdnQwQ2otWng0dEx6RGNaTGo2RHBEMUVzZmFHenI4S0ZnVWRsZ2V5VVVLUWhEX3hobjZVZmNtN0YzMXV2WnFSMDh1SjMyQWo2X18yUnZ6al9rYUFYR1lXLXduYzV0ZzRZcHYxeHg5MDRidk5qZXZjVmVOSU9QUmlPamJJcGFQMVBwRGF4bWFIelJ2V3hmUXAwQlhVdUp3c1lTbUhBZk1ZYXdqTk5YdklJSVJjZ2liRzhfc09BbEF0VEZVM1hqTVNMQy1ZZzVxTU9naTFHN051WkhyZGR4enEzTFA2X2R6RGRPQVVERDkxX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-10 16:08:06"
-      },
-      {
-        "title": "國產花生價慘崩！張嘉郡急籲中央：提高轉作金、強化原產地標示護農 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOR2Fuc0pJY1ZHUFRoTm5NRW03WG5CVUEyWk1tQloya3p3dnZ6SnFRd21nRmYwLW5ZZVUzeWdmaEhMbUNQWllhTS05V1Z0dHNZMVVma2hnejRLVDE2ZVRIejU4ZnBIZWV2Ni0xZ0VkcktPN29jX0VDWWprWGNEc3ZkREVabVZoZ3laZ2tfRjVkMWtncWgtQ1M3REdmeEhhejdqdHh1cDBxUi1MZUtJaU1TMFBWa1JRdGdTWS1SWjZvcnFZUGw3RGMtODZzalY5bF9rZEdFUlJTdEZUVElTQkJiX2EwTkN4eVh6VmtsMHJicVFKcWdyZHpXUkJQMThhTUo5N181WDZEYzlidkZaRGhRX1RrQVg1N05zdDJUQW5DZ3Q5MHZiSmpSRE1SLXNMQktmY1lvQnJJbWpIT0tHZmRoWVhNZkdjUzB3VXdwUVVhTktsSkFuRFljQVptaHJQVUh0N2YxQm03STlGc3pfREZaNW9Za2tXVVB3MGNqY3hURFBUeHVoOWw2ZlhLejBZMzJFNUx5MlJPTkprT3R1Z2UwcW15OFVfYTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 15:25:59"
-      },
-      {
-        "title": "國產的跌破十年防線！張嘉郡緊急出手了 - 中天新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CVjdkQkhoR2VqNURlTDZCNWhmT2JwbnFLNjVSWnZlUmlWdW1yWU1JY1U5ZWdwN0N6VFFGSWJNdWJKdC1pTWNvcUsyb3Axb1VHZ2dR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 15:25:59"
-      },
-      {
-        "title": "本土花生價格暴跌約四成張嘉郡籲提高農業部轉作獎勵金| 政治焦點 - 太報 TaiSounds",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BZGE1QzQ4azBkVEFoZ1RSQk5DY1kxNHpmSGgzcENjRDVGYmlPZzFBMzlKUFdjLXdNaFlRSVQzUi1iM2g3OFB6ZHlxTlJaWkxIZFZlM09HVGhOR1ct?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 15:19:23"
-      },
-      {
-        "title": "本土花生價格暴跌約四成 張嘉郡籲提高農業部轉作獎勵金 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQRzlqSF9ZYmtFRkF2S1J6UFNiTTk5OGVnUEgwLVNldkZWaU1fVTZtRWNoRlo3czhjLUVTdTBIbXBLQlhzbHZDaUJJTjVuNTc2WkdaNU56ZUNPa3J4M0xGWVJMSlRIaDhPa1hJd0hPMUNJUFh4NFVPaGtQWDZiRC1mNkZTYTJfeU1PNXE3Ulk4enpBVDNKZVVZMU1BWERaY0YtSTZhZ0xMa0RUdGZ1QWUzVTc1MElCYjdxUlFNSmtjeXktUnZXbEJUTTJ0YVVBalpabmh0YXpvdzZ2WXUxbzZPbzJwck9MbVJNZEJmQW1HZk5id1pCbGY4eFRDSFA5ZlBBcXd3MGlRemJucU9iZ1dDOURaTHJEZzMta19hMG9McXRncUw4VDlZSDYyeU5TSWRwOHFtc25LRzAzS1FTdno4ZTZQckVZVERERHNVdmwyYy1wbzNyRTVjLWhWcnBVbjFJTWVHWkJxLXlFUUQ2Q2Y0M053WjY5R01iOGNzbnpGbEY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-10 15:19:23"
       }
     ],
     "facebook": [
@@ -1488,6 +1584,27 @@
     "hour": [],
     "day": [
       {
+        "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPWVJTQ2tCWTM0Y3Y2SzAxeWFGMU1fNzlmRndQWTZ1Mlh5MlRwd2d1bVAtWW1NWkhBRDUwcUJiMHZlZEw5d0xNaW4yYmQtMGRrNHdxNDNIcm5tSTlaZUV4MTBPWVp1NEI1TFBmSWJKV2xISlYteC1oT2NiODBzbE8tb3YyNVBFWnZMYl8yZVluYXpWRHBZSmxmYV9zYkQ3c2ZXaC1ZeVNmT0ZXc1BKVjlnVVAyemFyR1c3dExTaWZoUEVISzI0UFNoRFpoRVEwd2NiRHczSFQ2aVpVSWRaNUZMRjdYT1htbjhMQXU5YkZ1Rng3TFZrQW04MTM2TDYyS0NOSkxHOF9OZDZmSEl3VWltUjFUV1EtWktBMFdRZTZiYzhlNnY5ZHdIRW92bmRnUFJpeDdaSXB2WUpfTzl6czNCb3pucV9lRjhiVUswOFZzdVFwWTZjcmM1Y3Z3c1BIc0xIVWc0MFhaZVFGQU5KVC1IbUhGcE9VZU5oLWpSWWJLbXFsX0U1UXNXTkZKUllVVGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-13 19:11:59",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - 民視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HYXB4MmZ5RTRQQTl1djhfa05DV3ltUjJOdk84N1JydkZRNUNaMU81X1ZpQ3BNUUxQSllOdTE4d3BrYm0tdXVfUk5pcGFfVnFFUnI4cFppRHZLQ2JqLVhGbg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-13 19:11:59",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "翻轉偏鄉醫療！劉建國力爭百億資源留雲林 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPVGMwVjBGdURObTF5YWRlSkRCOGZ3R0FpSTA0cXVab0RvY0FCTlE1UU56QV9XMWkxLWpNN3RiSm96UGE1aWt1Rm16ZENXRnJFLWp0dzl0dkFtNlEzdVo3dGhOSnF6cllwak9TZzhvYzg2WTQ0S1RPd1ZMTVlsYThXeHN1b3hlQ0E4YWNibFFyNWRVdFJEdEpPY2tYX2xrN09zN09qLWFKeURIaHR4NDhtRHJxRll4b3VVV1NiUUZjVVVDa0NGZnFmNHJudVR1U1N6azY1dXZQMnhJNDJrR1dLdjNZOFZfeU9IYTFjN2JoUER0RkU4aWtkbGh6Q2Z4UUxxZkNfT3FPREdlYUNrcUxqbF9jZkRjaHZ5T3VmbnZhajBoWHVKMjlWRzVzQk8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-13 19:01:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "劉建國召開公共衛生師協調會 凝聚多項共識 推動公職制度與專業進用機制 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOSEkzWnFSWXhrYUR1djFZV1k2U0g5LTFwYmZtRjBlT29mZ2dILXJSdWZTOVNSQ2JsRldlMy14aGF4QmtNclNLRmxiME5SVEJ6UFlSd2dhQ3RhbHotNWdyNTJTZERhMVlBSFZPY2FYMVIxMV9SZE9YWERPWGl2ZWtXcEdMUmVEai03akF1ZFdlTkZHSzNvMGZNaFVYTEp0MXJtTDdWd3FzSF9uSGxGN0UtZThOUDZ4MXF0eHJIODlsOUcxTERIMFNEa3J6blgzeTVDbW1FZFpnaVNlenp1WDBmcWtEdE9PTm1XRjZ3eFpYM1FxT3B0OHRRNmxQWTViR2x1dkxrdXZjRUpVajA4WUg0R3Q5Wm50SkRtakRnOFpFRmpuQkdsdzc5b3dmLXRkSmJ1aDlyVXo5T081MFRBOUdCdjcxVkJ4Yllxa3U4clFTR2RnTUZnMzFjMElLNDB0WlJfZ1FCTHVlTDlKcHFoVGhXY1k0OXFNLXFSNlRySlV4c3FxUFlBc2M1OVRDQnRlSF90S2w2YUdXblhtTE5UUHdyTmZzajZiaExWbnhtMExXd2dhTXpNWWY2bFlfX2FZZjVLWVlNOXhPVGN3Q1B1WU4yMURNWU4yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-13 17:17:38",
@@ -1509,6 +1626,13 @@
         "risk": "綠"
       },
       {
+        "title": "健保守護全民健康 立委劉建國：完善老幼照護網絡 打造健康幸福雲林 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LXzFUR00tV0Y3VWRkaHQtOElZUDhvUXA2Mi1ralFURTFwY2FLY21qRTNTclJWUlF1MDFmYVItejFqVXhRVlFhNlZYUTAxVFFvdlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-13 00:00:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "劉建國推公共衛生師制度改革 跨部會凝聚共識建構韌性台灣 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQQ3YtMWpTaTRWUThMYVpXMl9fOWJkM0VpeGFjbTVLUHMwcVVPa3R0bTVjVEVKVlBIMHpYVFRtcEdINXN3WXBpbHM1RWpsblo1YVp5Zk9La3ZNYXd2SU5ETHBwUlJySUdLN2pCbl9UQ2U2X1pZa1h6d0dMRGh5MUt0bWg1M19TeUJENWpQLW01RmJVYk5MOV9hQUFFRGcxaGttVXljWVdIWXhGN3dEN0YzT2d1eF9iTi1waThnTUxzTjVpZEpKc2ZuSVFMVmZHaVBrUmE0NE1JdXVqcWtFaEI2LTQydnNubWVWU0E5elNVRGkzcWg4WFl6Ul82aDR4Q21xa1VEVG9NZ0w1TWx5QUVkVmo4bzRYT3dBOFNJSXlqc25WVG5RRDBtMGV1SlRtRkF1cVdZYnFiTHFjZm5GbC1TdVJ1QlVtLXZibHppX1llMnBNa0ZSUmZFNV9Jc0NRVWZueFJjcjR4dXMyLVBKdGx2cnpyckJOTWhaVkJkYUlldkh5c2g2cERvbENISlk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-12 21:59:35",
@@ -1525,7 +1649,12 @@
     ]
   },
   "regional_groups": {
-    "regions": [],
+    "regions": [
+      {
+        "name": "雲林",
+        "count": 2
+      }
+    ],
     "groups": []
   }
 }
