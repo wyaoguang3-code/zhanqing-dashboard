@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-06-15T12:48:26.362413+00:00",
+  "generated_at": "2026-06-15T13:23:51.791210+00:00",
   "metrics": {
-    "total_24h": 8,
+    "total_24h": 16,
     "prev_24h": 9,
-    "growth_pct": -11.11,
-    "news_24h": 5,
+    "growth_pct": 77.78,
+    "news_24h": 7,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 126,
+    "total": 134,
     "prev": 80,
-    "growth_pct": 57.5,
-    "news": 87,
+    "growth_pct": 67.5,
+    "news": 89,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -27,26 +27,30 @@
   },
   "by_platform": [
     {
-      "platform": "news",
-      "count": 5
+      "platform": "facebook",
+      "count": 7
     },
     {
-      "platform": "facebook",
-      "count": 3
+      "platform": "news",
+      "count": 7
+    },
+    {
+      "platform": "youtube",
+      "count": 2
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 87
+      "count": 89
     },
     {
       "platform": "facebook",
-      "count": 34
+      "count": 38
     },
     {
       "platform": "youtube",
-      "count": 5
+      "count": 7
     }
   ],
   "by_hour": [
@@ -73,6 +77,18 @@
     {
       "hour": "2026-06-15 15:00",
       "count": 2
+    },
+    {
+      "hour": "2026-06-15 17:00",
+      "count": 2
+    },
+    {
+      "hour": "2026-06-15 18:00",
+      "count": 5
+    },
+    {
+      "hour": "2026-06-15 19:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -303,21 +319,47 @@
     {
       "hour": "2026-06-15 15:00",
       "count": 2
+    },
+    {
+      "hour": "2026-06-15 17:00",
+      "count": 2
+    },
+    {
+      "hour": "2026-06-15 18:00",
+      "count": 5
+    },
+    {
+      "hour": "2026-06-15 19:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 5
+      "count": 7
     },
     {
       "platform": "facebook",
+      "count": 4
+    },
+    {
+      "platform": "youtube",
       "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
       {
+        "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心 | 台灣生活新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kdkdqbWNIUFhaQWJ5TVg5Q2JyZWNlT1ZPbTNtZ0FZQVE3N1ZjV3BrdHRTMWhjVzdVYjJ4ZFFMY0FjRlJ5UUd3VGNYSFo4NVNzOE5HRWVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-15 19:13:34"
+      },
+      {
+        "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心 - TDN台灣生活新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kbGVvT0lfZlo2Ti1BM0drS2JDQmJsVXFkdjhKbU5yWDVHNUtyQzlMRU1aTkJyOXBSemcxMm1LZVlfUVllZ0VXeXV0X2QwSDNT?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-15 18:46:42"
+      },
+      {
         "title": "立委劉建國邀環境部長彭啓明訪古坑 推動咖啡全株利用打造全國循環經濟示範基地 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kUGVscE5Sb0JNYUtsNTFhemMxc3hWVGs3WEdLdEJaWTQ5SFRSVGdzbldUVTdkNUU4RmYyVXdpT3NWV1l5ODFDVE9rcUFVTXNRblE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-15 15:18:00"
@@ -345,24 +387,60 @@
     ],
     "facebook": [
       {
+        "title": "為推動咖啡產業全面升級，立法委員劉建國在6/15偕同環境部長彭啓明前往雲林古坑鄉，實地考察如何將咖啡產業的副產品與咖啡渣轉化為高值化循環商品。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AZBVV95cUxQRURhUU9YNWw1SEotN3VZcVgzZEN2VFNMUGdCdDd2alA3bVJQZGcyWklaWmhDV2ZnZVJNUVFuWll4SFltSHBoZjlnSUhEMUY3bTd2MW1rTFRxMGR4QjVGZG5UZGRuLUcwbDlKeE1DRkktajc1dGV0b3JjV29ZU3FDOE9rU08zd3lzZFFnYWxSUjhUZHZNUHo3bnpMNzFNMXBKVW9DVi1GaDB2OUF2TmswZk9LSVJKejV1b0RXTHhCTWNOOXBDRFVJN3JJWVRyUC0xaFAwUDJmblQtOXVXdmNFdGRhR0psbGNxNUJ1eF9wYXNWdGdGcUtOVlVFcV9rU0FYWFBYSkJMVFFGTlN0WDdEdzJqZWhzYmNkZ1ZUbzdXN2NUaWt1OExHWDZXV2o2czFuVE9Vc0VveXI5VE91NmhFckU3Y1l6dXl6NGR5aXNkME93Qk1mZVlYbXlxNFhDYjNkVDNVWjcxZndVbXZnUGlwT1BrUnhrZlBuRnVOVWZCdEM4eW5RRXRYam9HQVFIeEhtaXNMOUZmNG5LYUZwbTFiNjNEb1NZOVRTU09LdUhIQnZGTlZnRTlsVFIzRFpqUGhkaWJJMmd1a2pEdjliT0MxR2xlY05PYkdEa2R2Z2wtdFRiaWl6RHpJRTVuTmRvUUpJaHA3c2FrZjlnZndPMDdsRkR4SHlLX1Jzd29RbkR5VHVLUXhWX3VscDZ6UUljdWs5b2ZzVmNURWsxbEJHVTlycWhKaVoyVXZZNF9FNXNQVGtlWG1FYUo0cVhDN0x4d1RNWkctRWI3Skp0Q3RoOVJTVDRVYWt5cDNaYzczLVEtSllBeEVUNWx1NmYzS2VSSEs4TlQ3S2pKdjBXX1hrR3MzZHA0VnV4ZGRHdkY0TVFfdVJCVVNDUkstSjZPX2hGWXFXdUhqbVowRnpVd0dSNEl1UmtXOTY1NnVOOUx0b19UNnZRUUNZZjRYUXd1bG9RVnNZYW0yVzg1NjhwVWo4bzdQSnpSdTlDZ0ZqQVN2azUwaGJDalBreDhQRjFSWnU2anZqV2VMOGJRTW9Sc2hJaktWcUdWS01EdUtpZF8wUEVEMXR6QUdhaVczdW1MZVNXSE9yT1p1eEhOOHhlU3VYQjZUSFJCZEJ4eFNhVEtELVBSdVpfbTc3ekV3RFdSR1FYZlBGUGFPUQ",
+        "time": "2026-06-15 18:58:22"
+      },
+      {
+        "title": "為推動咖啡產業全面升級，立法委員劉建國在6/15偕同環境部長彭啓明前往雲林古坑鄉，實地考察如何將咖啡產業的副產品與咖啡渣轉化為高值化循環商品。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi9gZBVV95cUxOWnFWX2c3LXU5bGgzZy1SY3RPR1BsbDdsZEFmUlh0RWNXNG5INE91d0lodlFBX0RpNE9lbERPMW5fZUZDenNJNVJCNzJXUUIya1JIQ1hhbW5sSFZPX18tbko2a0sxYzlFOERMcF9TNWhlQ1V6Wnp5bEgyRmNLVjNQYmk4QUVyUkFmOWMwY2RhZGxmZllIeGpPb0x0YXlac0lIY3VuOFEyaWQ3Vk9VVUFwQXo3eW5GZmFjN3lxTlQ1b3I1Y1hhYUVTWEY3UDlnUklBOU5ScTBJNUVCbDhsSGh4TGJ2QVBzdlIxUDhTeW1HWHA3WWtRN0hNZUJMM1lvSUx5cW1sTm9LMEVBYjN2VFcyTlZqNUppZ21CWVgxZGVBYkZiLVF5WUpETTFvdTRnSmxaYS1OTlVvbU5SejhjaUtwSFJwWEtrQkZBYmFYalBCOFVrNG1IekZjSXByMzNicnZpQWhHUDk4UGJ6dVE1YzZiRkUxR3EzWTY0NG5LT3NoTXl2T0FiVWlxWlN5emI5VENWbFFKTUhUTXJDQWxOeGktZWVPLTVvQWN1Q0M5WGhXODRmSHdoTnNwS2luWkR0bkg3aFZUdXMtdUlZNFhSSXZHVGVNQXNMN1BWXzJkMHl3d0dLRFp6RWxla1had1dBdlp4dkhZa05rRElhaklQYVFUMUpTZkh6M3dHRmVsS3pCOE5UcjNac1JyZENuYVBPaElQMUFDejd3YnYwaU1QVFhWWFhQdWhtYk82UTFsNkZaN3dla1R3QTFhSzYtOTBTZklKdnpjMWFWcHdFNWExS2drVmw1emRkZ1dYMnJHVWN4ODdBYm1VQ3VQT043MEhqVkVpcndTMTc0UEhXY1ItN3BIR3ZNT2hSS3lPcEhKSzdNSFhPaHdWTV9NTXRaV1I5Nmo3NldxUGxiekNScUdpMnRMNTdVby12VHM4TUdEcGRzbV9hWHczZVlPNTEtVjdqQk9oWmZMWTVOS1NJeDZiVUdndE83cWVESkl6cXQyd3lhMUwxbXgteDU5Tl9jQjgxSGw5M2tjek1YbGNOSERUWmxxeEJjVDdZS0JuLXFvSWhwcENqbGZHX21mNWNGZjgwYUZkRHk3OHBEUy1oSlhMczdENUpWUVhpZHluOVRUTnpkbFdHanZISkoyaklfY3ZZQzByUU1qUnNB",
+        "time": "2026-06-15 18:58:20"
+      },
+      {
+        "title": "王育敏. . #為全台農民請命 #農民生計不是政府談判的犧牲品 4月底，張嘉郡委員、張麗善縣長和多位國民黨委員就已經公開示警，美國花生若以零關稅進口，勢必重創雲林花生價格，政府不能先斬後奏，更不能等到價格崩跌才亡羊補牢。 沒想到短短一個多月，雲林花生 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMioghBVV95cUxQOUxGaGVTXy04U1pqdmd4b1F6WkdiWHVDUUFiajJBdkZqcmR6d3R4ZHRWSVcxZHZaX3ctb0MxRGl4TWQwemNuUm5qV2xSNjZ3N3phM2lmaUFtcnZ3QUtIZm1JSVNPQzRYQTh4RFRBblNhaEt6MWUxVUwtZTRaZ1EzSHlMQ2FiTHVfejFyamkzbDNFdzM5UjNDNXA2VEVDNEhobDJsZHhhWmh4ZDE3QjlwSlJpMEdFNUpCdjl6eWxtSzNHZEpPak5CS0p1czh1TkhpMi13WUk3U0lqTzFoWWViTWZmNUIxaHVONHY5S3BwVHlwMW95U1pLWjczXzZYR04teHgtYlBYeUNxdVNWeTZZVXRSTW1tRjlPT2s1OXVpUkU0ajk0Um10bzNZeUFVRlcxd0M1TFBXNXRkWEd6SGJBc2RScnY4MlJxN1lOVTl2TWp5TVpWNDlLVFZZVzFMQ3d1OUlFYy1ZRkg1amo4MjN1SFFkQTRJZmoxM3VHWnJuaXphZ18yaTVhT1hwVTZEcmFXbWlXQXJaTjkzeDE0ZHZDOFJEMzlPVE1oZmk1STd4dTFqaVBFbWZac0J0MHdZYm45LUtNRDgya1JlN1Vrei1LNXJZbzRrQ056ZW8zbEFsMUZpQnlEN0JZbnVPN0VKei15WW56WVVYUXp4clRLa0hPaHcxZ0JFelJjOS14Z2RndlFwbGlmSjBSeEYybGFvRng4TWNwU1dmUW1Qa2FTY1dZMmVGMFdhOHhmcG9tcERTYmRJeUs3SW55bHBwODdBY2hzODJnTEZaaHF0dlpwamU3QVgzLUEwWng1QWI1b1QxclVNZU1GMVBRTC1TRkp3cTJHcmdMdFZBOEdlQjFFQ0VWQXo0OS0tZnFjbTZISWhMajJIY1lteGhaM1FKU2VPVjF0S20wekRkbnVUbmNZc3VGalc3cEVNRVVjbWhiNm5zN3laNGlpMnhuRlhhTzcyVkMzaVppczNYZ2RyYk44R1hfQzJGa2xRcGZIeUtsbmJDRHhVWTZwRmphNlFtaGVqb3dOQ0NjbGJhTVcyNndSNjRrWm9rdmhLOFFNWUxMZ19OdG1pYllNeHRsS2xrYzh1c3UzYnZsUTZHV21veWdlVHpSMWplZW51YnVkcVRnaHRhb0JpM3Vfb3F3VmplVDh5RldWaE5FdzVFc0x6bGN4WlJYTHgzVkdnU1c3WVhYNTA4Sm1SS1BudzdObWZleUhxandXNWd5Vmd5U0xIVlEzQ2hyQ2NoLUE2Y3IySkJqRnhNN1NIeENPRGZDQ1FHMHQ0dGYxWWVGNzhaNHRYNzd0X0s4ZW1WV1AtdDd0bmVqd2JCOTdVMnNvRkhlZW1jX0MxUFhvT21fcHl0WHphYlY2TktkSzBVbnd1VXR6cDc5NWdLbklDZw",
+        "time": "2026-06-15 17:40:08"
+      },
+      {
         "title": "劉建國 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnb1FtdFNjUUN0SVRmTjQ4NFlzbUltSXo1ekdYZ0drTnR6TDFXT29GcC03MGRoOTV2S0NnUkJPWlFqVTZ3dF9FaGlqWmo1M1BZRmFhQmhFVm9YYVJSS2xid3FQellJQ1pyNDA2UlJvSQ",
         "time": "2026-06-15 13:53:02"
+      }
+    ],
+    "youtube": [
+      {
+        "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=1fZO1ENToHk",
+        "time": "2026-06-15 18:42:36"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 5
+      "count": 7
     },
     {
       "platform": "facebook",
-      "count": 2
+      "count": 5
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心 | 台灣生活新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kdkdqbWNIUFhaQWJ5TVg5Q2JyZWNlT1ZPbTNtZ0FZQVE3N1ZjV3BrdHRTMWhjVzdVYjJ4ZFFMY0FjRlJ5UUd3VGNYSFo4NVNzOE5HRWVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-15 19:13:34"
+      },
+      {
+        "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心 - TDN台灣生活新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kbGVvT0lfZlo2Ti1BM0drS2JDQmJsVXFkdjhKbU5yWDVHNUtyQzlMRU1aTkJyOXBSemcxMm1LZVlfUVllZ0VXeXV0X2QwSDNT?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-15 18:46:42"
+      },
       {
         "title": "立委劉建國邀環境部長彭啓明訪古坑 推動咖啡全株利用打造全國循環經濟示範基地 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kUGVscE5Sb0JNYUtsNTFhemMxc3hWVGs3WEdLdEJaWTQ5SFRSVGdzbldUVTdkNUU4RmYyVXdpT3NWV1l5ODFDVE9rcUFVTXNRblE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -390,6 +468,21 @@
       }
     ],
     "facebook": [
+      {
+        "title": "為推動咖啡產業全面升級，立法委員劉建國在6/15偕同環境部長彭啓明前往雲林古坑鄉，實地考察如何將咖啡產業的副產品與咖啡渣轉化為高值化循環商品。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AZBVV95cUxQRURhUU9YNWw1SEotN3VZcVgzZEN2VFNMUGdCdDd2alA3bVJQZGcyWklaWmhDV2ZnZVJNUVFuWll4SFltSHBoZjlnSUhEMUY3bTd2MW1rTFRxMGR4QjVGZG5UZGRuLUcwbDlKeE1DRkktajc1dGV0b3JjV29ZU3FDOE9rU08zd3lzZFFnYWxSUjhUZHZNUHo3bnpMNzFNMXBKVW9DVi1GaDB2OUF2TmswZk9LSVJKejV1b0RXTHhCTWNOOXBDRFVJN3JJWVRyUC0xaFAwUDJmblQtOXVXdmNFdGRhR0psbGNxNUJ1eF9wYXNWdGdGcUtOVlVFcV9rU0FYWFBYSkJMVFFGTlN0WDdEdzJqZWhzYmNkZ1ZUbzdXN2NUaWt1OExHWDZXV2o2czFuVE9Vc0VveXI5VE91NmhFckU3Y1l6dXl6NGR5aXNkME93Qk1mZVlYbXlxNFhDYjNkVDNVWjcxZndVbXZnUGlwT1BrUnhrZlBuRnVOVWZCdEM4eW5RRXRYam9HQVFIeEhtaXNMOUZmNG5LYUZwbTFiNjNEb1NZOVRTU09LdUhIQnZGTlZnRTlsVFIzRFpqUGhkaWJJMmd1a2pEdjliT0MxR2xlY05PYkdEa2R2Z2wtdFRiaWl6RHpJRTVuTmRvUUpJaHA3c2FrZjlnZndPMDdsRkR4SHlLX1Jzd29RbkR5VHVLUXhWX3VscDZ6UUljdWs5b2ZzVmNURWsxbEJHVTlycWhKaVoyVXZZNF9FNXNQVGtlWG1FYUo0cVhDN0x4d1RNWkctRWI3Skp0Q3RoOVJTVDRVYWt5cDNaYzczLVEtSllBeEVUNWx1NmYzS2VSSEs4TlQ3S2pKdjBXX1hrR3MzZHA0VnV4ZGRHdkY0TVFfdVJCVVNDUkstSjZPX2hGWXFXdUhqbVowRnpVd0dSNEl1UmtXOTY1NnVOOUx0b19UNnZRUUNZZjRYUXd1bG9RVnNZYW0yVzg1NjhwVWo4bzdQSnpSdTlDZ0ZqQVN2azUwaGJDalBreDhQRjFSWnU2anZqV2VMOGJRTW9Sc2hJaktWcUdWS01EdUtpZF8wUEVEMXR6QUdhaVczdW1MZVNXSE9yT1p1eEhOOHhlU3VYQjZUSFJCZEJ4eFNhVEtELVBSdVpfbTc3ekV3RFdSR1FYZlBGUGFPUQ",
+        "time": "2026-06-15 18:58:22"
+      },
+      {
+        "title": "為推動咖啡產業全面升級，立法委員劉建國在6/15偕同環境部長彭啓明前往雲林古坑鄉，實地考察如何將咖啡產業的副產品與咖啡渣轉化為高值化循環商品。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi9gZBVV95cUxOWnFWX2c3LXU5bGgzZy1SY3RPR1BsbDdsZEFmUlh0RWNXNG5INE91d0lodlFBX0RpNE9lbERPMW5fZUZDenNJNVJCNzJXUUIya1JIQ1hhbW5sSFZPX18tbko2a0sxYzlFOERMcF9TNWhlQ1V6Wnp5bEgyRmNLVjNQYmk4QUVyUkFmOWMwY2RhZGxmZllIeGpPb0x0YXlac0lIY3VuOFEyaWQ3Vk9VVUFwQXo3eW5GZmFjN3lxTlQ1b3I1Y1hhYUVTWEY3UDlnUklBOU5ScTBJNUVCbDhsSGh4TGJ2QVBzdlIxUDhTeW1HWHA3WWtRN0hNZUJMM1lvSUx5cW1sTm9LMEVBYjN2VFcyTlZqNUppZ21CWVgxZGVBYkZiLVF5WUpETTFvdTRnSmxaYS1OTlVvbU5SejhjaUtwSFJwWEtrQkZBYmFYalBCOFVrNG1IekZjSXByMzNicnZpQWhHUDk4UGJ6dVE1YzZiRkUxR3EzWTY0NG5LT3NoTXl2T0FiVWlxWlN5emI5VENWbFFKTUhUTXJDQWxOeGktZWVPLTVvQWN1Q0M5WGhXODRmSHdoTnNwS2luWkR0bkg3aFZUdXMtdUlZNFhSSXZHVGVNQXNMN1BWXzJkMHl3d0dLRFp6RWxla1had1dBdlp4dkhZa05rRElhaklQYVFUMUpTZkh6M3dHRmVsS3pCOE5UcjNac1JyZENuYVBPaElQMUFDejd3YnYwaU1QVFhWWFhQdWhtYk82UTFsNkZaN3dla1R3QTFhSzYtOTBTZklKdnpjMWFWcHdFNWExS2drVmw1emRkZ1dYMnJHVWN4ODdBYm1VQ3VQT043MEhqVkVpcndTMTc0UEhXY1ItN3BIR3ZNT2hSS3lPcEhKSzdNSFhPaHdWTV9NTXRaV1I5Nmo3NldxUGxiekNScUdpMnRMNTdVby12VHM4TUdEcGRzbV9hWHczZVlPNTEtVjdqQk9oWmZMWTVOS1NJeDZiVUdndE83cWVESkl6cXQyd3lhMUwxbXgteDU5Tl9jQjgxSGw5M2tjek1YbGNOSERUWmxxeEJjVDdZS0JuLXFvSWhwcENqbGZHX21mNWNGZjgwYUZkRHk3OHBEUy1oSlhMczdENUpWUVhpZHluOVRUTnpkbFdHanZISkoyaklfY3ZZQzByUU1qUnNB",
+        "time": "2026-06-15 18:58:20"
+      },
+      {
+        "title": "王育敏. . #為全台農民請命 #農民生計不是政府談判的犧牲品 4月底，張嘉郡委員、張麗善縣長和多位國民黨委員就已經公開示警，美國花生若以零關稅進口，勢必重創雲林花生價格，政府不能先斬後奏，更不能等到價格崩跌才亡羊補牢。 沒想到短短一個多月，雲林花生 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMioghBVV95cUxQOUxGaGVTXy04U1pqdmd4b1F6WkdiWHVDUUFiajJBdkZqcmR6d3R4ZHRWSVcxZHZaX3ctb0MxRGl4TWQwemNuUm5qV2xSNjZ3N3phM2lmaUFtcnZ3QUtIZm1JSVNPQzRYQTh4RFRBblNhaEt6MWUxVUwtZTRaZ1EzSHlMQ2FiTHVfejFyamkzbDNFdzM5UjNDNXA2VEVDNEhobDJsZHhhWmh4ZDE3QjlwSlJpMEdFNUpCdjl6eWxtSzNHZEpPak5CS0p1czh1TkhpMi13WUk3U0lqTzFoWWViTWZmNUIxaHVONHY5S3BwVHlwMW95U1pLWjczXzZYR04teHgtYlBYeUNxdVNWeTZZVXRSTW1tRjlPT2s1OXVpUkU0ajk0Um10bzNZeUFVRlcxd0M1TFBXNXRkWEd6SGJBc2RScnY4MlJxN1lOVTl2TWp5TVpWNDlLVFZZVzFMQ3d1OUlFYy1ZRkg1amo4MjN1SFFkQTRJZmoxM3VHWnJuaXphZ18yaTVhT1hwVTZEcmFXbWlXQXJaTjkzeDE0ZHZDOFJEMzlPVE1oZmk1STd4dTFqaVBFbWZac0J0MHdZYm45LUtNRDgya1JlN1Vrei1LNXJZbzRrQ056ZW8zbEFsMUZpQnlEN0JZbnVPN0VKei15WW56WVVYUXp4clRLa0hPaHcxZ0JFelJjOS14Z2RndlFwbGlmSjBSeEYybGFvRng4TWNwU1dmUW1Qa2FTY1dZMmVGMFdhOHhmcG9tcERTYmRJeUs3SW55bHBwODdBY2hzODJnTEZaaHF0dlpwamU3QVgzLUEwWng1QWI1b1QxclVNZU1GMVBRTC1TRkp3cTJHcmdMdFZBOEdlQjFFQ0VWQXo0OS0tZnFjbTZISWhMajJIY1lteGhaM1FKU2VPVjF0S20wekRkbnVUbmNZc3VGalc3cEVNRVVjbWhiNm5zN3laNGlpMnhuRlhhTzcyVkMzaVppczNYZ2RyYk44R1hfQzJGa2xRcGZIeUtsbmJDRHhVWTZwRmphNlFtaGVqb3dOQ0NjbGJhTVcyNndSNjRrWm9rdmhLOFFNWUxMZ19OdG1pYllNeHRsS2xrYzh1c3UzYnZsUTZHV21veWdlVHpSMWplZW51YnVkcVRnaHRhb0JpM3Vfb3F3VmplVDh5RldWaE5FdzVFc0x6bGN4WlJYTHgzVkdnU1c3WVhYNTA4Sm1SS1BudzdObWZleUhxandXNWd5Vmd5U0xIVlEzQ2hyQ2NoLUE2Y3IySkJqRnhNN1NIeENPRGZDQ1FHMHQ0dGYxWWVGNzhaNHRYNzd0X0s4ZW1WV1AtdDd0bmVqd2JCOTdVMnNvRkhlZW1jX0MxUFhvT21fcHl0WHphYlY2TktkSzBVbnd1VXR6cDc5NWdLbklDZw",
+        "time": "2026-06-15 17:40:08"
+      },
       {
         "title": "劉建國 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnb1FtdFNjUUN0SVRmTjQ4NFlzbUltSXo1ekdYZ0drTnR6TDFXT29GcC03MGRoOTV2S0NnUkJPWlFqVTZ3dF9FaGlqWmo1M1BZRmFhQmhFVm9YYVJSS2xid3FQellJQ1pyNDA2UlJvSQ",
@@ -400,17 +493,34 @@
         "url": "https://news.google.com/rss/articles/CBMijwhBVV95cUxOcmFIZmhxM2JlTEZtaE9YVjQ5b3JydnBUaEZLRUM0aUtsVjRvbEsybC1CZERCaW1DMDJCcHhfSjQ4YWtwSWc4bTVBdE5QX05ZaVNVaS12ajNmUERDVm51QUdqb0lSZ0h4bThjSnlNYWVOWWpUYXhZUHVFVlJJYzltLUVJTjNWVlozcW5jZnA0YWtQVnNGcWgwcE9Zdm13SHI5aG9pdzJxYktrM2g1ZmFVY29DZENkb1BXOVlZUkl4NWVCX0tzTmp6MTBJOFA1bWZfbFFraEgteUkySGg2aGZ3S0lxekVxZFVpYjhtYWtSSnd5OExBWFpaYnc3anFtVEFiZEVfNERxYkI0dVhBRXBrWGxDcVFtMlN3bmNvWFNLYWUwZExvX1UxSHVpTlpYNjA4Yk9pUktEdFhzdDJsTlpvMk1UbkNLNktDSVFfbmtIamxWYjVsMjdFYmNlQjZSRGhSb3puc1ZhS3BHQ05HT3FYdkZJQU1QeElNOUdDMl9JYjVYZVM2dlBUU0lhcmRZWnlVY2MteHBfTnBtb241UWJyam5ZRjJoSjdHc2lMa25xTzVvZFMxYmdxYjBpQ3RUVXBrakZsZEpKUVF4S1FZaGxmZlktY3FPYjZHVTVLaVhsTlJFdC1ZbVRjbmh4YXNMYzhzYVk4MG1iUXZWS2VkaEYwSnVGRHpTa2VETTd4SlY3eC1id0dsbGpObWhiTFN4Q2Y2QzlGZmxIR0M3VktLUWFLbmxlbzgyR1NmWVBRN1pBZjNmclBXR1lNVk4wTHktVHdtS2pBaHRVdG1zUU9Eck9aSGJtYjFVUS1CeWNDUzhzeHVKZGtUNER3X1d4QmI0M2c2SWxKdVI5QWxyb1hoS2dpcVZFbWdQVGE3NW1UdG1WY0V3UzlSckxfZG1LWXBzUjIyUWIyUVlFdEhDOWVNeWZxR0hGYU9fV3c0TWFwbHE2VFd6U2sxZlZnWFBXdnVCUVUtZkc3ZmNuNjM5TVZhYW5ZajNWdW5Qa2RtdFI1Q2JFVXgycHR5Z21MdjJQZE9lQXNKVG5SR3RYV2hkZDVELVppaktQYjhZX0dhM2VRQ1RNWUpWRU8zWGdkZURhalpwNmZhcWlwYTlUcUhMMkUxblkybURoUDJ5ZmhDSzNFVHJFcE0yMzNHcWJacmk0eENKdGNneVVJM3N0QjhzTEZOYjRpNGFJd1ZYX0lfVkQyOGVIOEpveDdzWnlhY0tiZ3ZoQkdNaWdCQWItYnI0Q1pITjE1NDZTa0w4NzR1QTdxSkVEOTNUTk9sdVZOaU9MQjlhYWMxM0tCamxqcTVrbHUtSjI2TjkwemY5djB1Tm5WNHF3d2VoS1FfdjNLdk5jWEYwWmMxNVIxM2xnMnZrOWxoczdv",
         "time": "2026-06-15 13:40:53"
       }
+    ],
+    "youtube": [
+      {
+        "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=1fZO1ENToHk",
+        "time": "2026-06-15 18:42:36"
+      }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 1,
-    "劉建國": 5
+    "張嘉郡": 2,
+    "劉建國": 10
   },
   "mention_compare_7d": {
-    "張嘉郡": 54,
-    "劉建國": 52
+    "張嘉郡": 55,
+    "劉建國": 57
   },
   "top_news": [
+    {
+      "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心 | 台灣生活新聞 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kdkdqbWNIUFhaQWJ5TVg5Q2JyZWNlT1ZPbTNtZ0FZQVE3N1ZjV3BrdHRTMWhjVzdVYjJ4ZFFMY0FjRlJ5UUd3VGNYSFo4NVNzOE5HRWVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-15 19:13:34"
+    },
+    {
+      "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心 - TDN台灣生活新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kbGVvT0lfZlo2Ti1BM0drS2JDQmJsVXFkdjhKbU5yWDVHNUtyQzlMRU1aTkJyOXBSemcxMm1LZVlfUVllZ0VXeXV0X2QwSDNT?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-15 18:46:42"
+    },
     {
       "title": "立委劉建國邀環境部長彭啓明訪古坑 推動咖啡全株利用打造全國循環經濟示範基地 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kUGVscE5Sb0JNYUtsNTFhemMxc3hWVGs3WEdLdEJaWTQ5SFRSVGdzbldUVTdkNUU4RmYyVXdpT3NWV1l5ODFDVE9rcUFVTXNRblE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -438,6 +548,16 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心 | 台灣生活新聞 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kdkdqbWNIUFhaQWJ5TVg5Q2JyZWNlT1ZPbTNtZ0FZQVE3N1ZjV3BrdHRTMWhjVzdVYjJ4ZFFMY0FjRlJ5UUd3VGNYSFo4NVNzOE5HRWVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-15 19:13:34"
+    },
+    {
+      "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心 - TDN台灣生活新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kbGVvT0lfZlo2Ti1BM0drS2JDQmJsVXFkdjhKbU5yWDVHNUtyQzlMRU1aTkJyOXBSemcxMm1LZVlfUVllZ0VXeXV0X2QwSDNT?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-15 18:46:42"
+    },
     {
       "title": "立委劉建國邀環境部長彭啓明訪古坑 推動咖啡全株利用打造全國循環經濟示範基地 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kUGVscE5Sb0JNYUtsNTFhemMxc3hWVGs3WEdLdEJaWTQ5SFRSVGdzbldUVTdkNUU4RmYyVXdpT3NWV1l5ODFDVE9rcUFVTXNRblE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -527,19 +647,29 @@
       "title": "翻轉偏鄉醫療！劉建國力爭百億資源留雲林 - 上報Up Media",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1senhOUEtMbmFWWWpYRFJpdjZjRjhZdVRLX201dEc3MU9KcWd5MFZVUmZPYzVaTkJKdFQ4ODF2X3VJVG5RUHVhQUtnQ1Z2Qmo3R3VINVJzR0MtUC0yN2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-13 19:01:00"
-    },
-    {
-      "title": "劉建國召開公共衛生師協調會 凝聚多項共識 推動公職制度與專業進用機制 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOSEkzWnFSWXhrYUR1djFZV1k2U0g5LTFwYmZtRjBlT29mZ2dILXJSdWZTOVNSQ2JsRldlMy14aGF4QmtNclNLRmxiME5SVEJ6UFlSd2dhQ3RhbHotNWdyNTJTZERhMVlBSFZPY2FYMVIxMV9SZE9YWERPWGl2ZWtXcEdMUmVEai03akF1ZFdlTkZHSzNvMGZNaFVYTEp0MXJtTDdWd3FzSF9uSGxGN0UtZThOUDZ4MXF0eHJIODlsOUcxTERIMFNEa3J6blgzeTVDbW1FZFpnaVNlenp1WDBmcWtEdE9PTm1XRjZ3eFpYM1FxT3B0OHRRNmxQWTViR2x1dkxrdXZjRUpVajA4WUg0R3Q5Wm50SkRtakRnOFpFRmpuQkdsdzc5b3dmLXRkSmJ1aDlyVXo5T081MFRBOUdCdjcxVkJ4Yllxa3U4clFTR2RnTUZnMzFjMElLNDB0WlJfZ1FCTHVlTDlKcHFoVGhXY1k0OXFNLXFSNlRySlV4c3FxUFlBc2M1OVRDQnRlSF90S2w2YUdXblhtTE5UUHdyTmZzajZiaExWbnhtMExXd2dhTXpNWWY2bFlfX2FZZjVLWVlNOXhPVGN3Q1B1WU4yMURNWU4yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-13 17:17:38"
-    },
-    {
-      "title": "劉建國推公共衛生師制度改革 跨部會凝聚共識建構韌性台灣 | 觀傳媒 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KTDNCX2ZWVE1GWTJ4NzM0ZTYycVkxN19EcmRqTVdBQVFmTWhQMF9uOE1FNHRIY2xFNXNoQ25sSm9RUWpsb2dMbGxacW5uV3FQektRV1ZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-13 00:36:52"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "為推動咖啡產業全面升級，立法委員劉建國在6/15偕同環境部長彭啓明前往雲林古坑鄉，實地考察如何將咖啡產業的副產品與咖啡渣轉化為高值化循環商品。 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AZBVV95cUxQRURhUU9YNWw1SEotN3VZcVgzZEN2VFNMUGdCdDd2alA3bVJQZGcyWklaWmhDV2ZnZVJNUVFuWll4SFltSHBoZjlnSUhEMUY3bTd2MW1rTFRxMGR4QjVGZG5UZGRuLUcwbDlKeE1DRkktajc1dGV0b3JjV29ZU3FDOE9rU08zd3lzZFFnYWxSUjhUZHZNUHo3bnpMNzFNMXBKVW9DVi1GaDB2OUF2TmswZk9LSVJKejV1b0RXTHhCTWNOOXBDRFVJN3JJWVRyUC0xaFAwUDJmblQtOXVXdmNFdGRhR0psbGNxNUJ1eF9wYXNWdGdGcUtOVlVFcV9rU0FYWFBYSkJMVFFGTlN0WDdEdzJqZWhzYmNkZ1ZUbzdXN2NUaWt1OExHWDZXV2o2czFuVE9Vc0VveXI5VE91NmhFckU3Y1l6dXl6NGR5aXNkME93Qk1mZVlYbXlxNFhDYjNkVDNVWjcxZndVbXZnUGlwT1BrUnhrZlBuRnVOVWZCdEM4eW5RRXRYam9HQVFIeEhtaXNMOUZmNG5LYUZwbTFiNjNEb1NZOVRTU09LdUhIQnZGTlZnRTlsVFIzRFpqUGhkaWJJMmd1a2pEdjliT0MxR2xlY05PYkdEa2R2Z2wtdFRiaWl6RHpJRTVuTmRvUUpJaHA3c2FrZjlnZndPMDdsRkR4SHlLX1Jzd29RbkR5VHVLUXhWX3VscDZ6UUljdWs5b2ZzVmNURWsxbEJHVTlycWhKaVoyVXZZNF9FNXNQVGtlWG1FYUo0cVhDN0x4d1RNWkctRWI3Skp0Q3RoOVJTVDRVYWt5cDNaYzczLVEtSllBeEVUNWx1NmYzS2VSSEs4TlQ3S2pKdjBXX1hrR3MzZHA0VnV4ZGRHdkY0TVFfdVJCVVNDUkstSjZPX2hGWXFXdUhqbVowRnpVd0dSNEl1UmtXOTY1NnVOOUx0b19UNnZRUUNZZjRYUXd1bG9RVnNZYW0yVzg1NjhwVWo4bzdQSnpSdTlDZ0ZqQVN2azUwaGJDalBreDhQRjFSWnU2anZqV2VMOGJRTW9Sc2hJaktWcUdWS01EdUtpZF8wUEVEMXR6QUdhaVczdW1MZVNXSE9yT1p1eEhOOHhlU3VYQjZUSFJCZEJ4eFNhVEtELVBSdVpfbTc3ekV3RFdSR1FYZlBGUGFPUQ",
+      "time": "2026-06-15 18:58:22"
+    },
+    {
+      "title": "為推動咖啡產業全面升級，立法委員劉建國在6/15偕同環境部長彭啓明前往雲林古坑鄉，實地考察如何將咖啡產業的副產品與咖啡渣轉化為高值化循環商品。 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gZBVV95cUxOWnFWX2c3LXU5bGgzZy1SY3RPR1BsbDdsZEFmUlh0RWNXNG5INE91d0lodlFBX0RpNE9lbERPMW5fZUZDenNJNVJCNzJXUUIya1JIQ1hhbW5sSFZPX18tbko2a0sxYzlFOERMcF9TNWhlQ1V6Wnp5bEgyRmNLVjNQYmk4QUVyUkFmOWMwY2RhZGxmZllIeGpPb0x0YXlac0lIY3VuOFEyaWQ3Vk9VVUFwQXo3eW5GZmFjN3lxTlQ1b3I1Y1hhYUVTWEY3UDlnUklBOU5ScTBJNUVCbDhsSGh4TGJ2QVBzdlIxUDhTeW1HWHA3WWtRN0hNZUJMM1lvSUx5cW1sTm9LMEVBYjN2VFcyTlZqNUppZ21CWVgxZGVBYkZiLVF5WUpETTFvdTRnSmxaYS1OTlVvbU5SejhjaUtwSFJwWEtrQkZBYmFYalBCOFVrNG1IekZjSXByMzNicnZpQWhHUDk4UGJ6dVE1YzZiRkUxR3EzWTY0NG5LT3NoTXl2T0FiVWlxWlN5emI5VENWbFFKTUhUTXJDQWxOeGktZWVPLTVvQWN1Q0M5WGhXODRmSHdoTnNwS2luWkR0bkg3aFZUdXMtdUlZNFhSSXZHVGVNQXNMN1BWXzJkMHl3d0dLRFp6RWxla1had1dBdlp4dkhZa05rRElhaklQYVFUMUpTZkh6M3dHRmVsS3pCOE5UcjNac1JyZENuYVBPaElQMUFDejd3YnYwaU1QVFhWWFhQdWhtYk82UTFsNkZaN3dla1R3QTFhSzYtOTBTZklKdnpjMWFWcHdFNWExS2drVmw1emRkZ1dYMnJHVWN4ODdBYm1VQ3VQT043MEhqVkVpcndTMTc0UEhXY1ItN3BIR3ZNT2hSS3lPcEhKSzdNSFhPaHdWTV9NTXRaV1I5Nmo3NldxUGxiekNScUdpMnRMNTdVby12VHM4TUdEcGRzbV9hWHczZVlPNTEtVjdqQk9oWmZMWTVOS1NJeDZiVUdndE83cWVESkl6cXQyd3lhMUwxbXgteDU5Tl9jQjgxSGw5M2tjek1YbGNOSERUWmxxeEJjVDdZS0JuLXFvSWhwcENqbGZHX21mNWNGZjgwYUZkRHk3OHBEUy1oSlhMczdENUpWUVhpZHluOVRUTnpkbFdHanZISkoyaklfY3ZZQzByUU1qUnNB",
+      "time": "2026-06-15 18:58:20"
+    },
+    {
+      "title": "王育敏. . #為全台農民請命 #農民生計不是政府談判的犧牲品 4月底，張嘉郡委員、張麗善縣長和多位國民黨委員就已經公開示警，美國花生若以零關稅進口，勢必重創雲林花生價格，政府不能先斬後奏，更不能等到價格崩跌才亡羊補牢。 沒想到短短一個多月，雲林花生 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMioghBVV95cUxQOUxGaGVTXy04U1pqdmd4b1F6WkdiWHVDUUFiajJBdkZqcmR6d3R4ZHRWSVcxZHZaX3ctb0MxRGl4TWQwemNuUm5qV2xSNjZ3N3phM2lmaUFtcnZ3QUtIZm1JSVNPQzRYQTh4RFRBblNhaEt6MWUxVUwtZTRaZ1EzSHlMQ2FiTHVfejFyamkzbDNFdzM5UjNDNXA2VEVDNEhobDJsZHhhWmh4ZDE3QjlwSlJpMEdFNUpCdjl6eWxtSzNHZEpPak5CS0p1czh1TkhpMi13WUk3U0lqTzFoWWViTWZmNUIxaHVONHY5S3BwVHlwMW95U1pLWjczXzZYR04teHgtYlBYeUNxdVNWeTZZVXRSTW1tRjlPT2s1OXVpUkU0ajk0Um10bzNZeUFVRlcxd0M1TFBXNXRkWEd6SGJBc2RScnY4MlJxN1lOVTl2TWp5TVpWNDlLVFZZVzFMQ3d1OUlFYy1ZRkg1amo4MjN1SFFkQTRJZmoxM3VHWnJuaXphZ18yaTVhT1hwVTZEcmFXbWlXQXJaTjkzeDE0ZHZDOFJEMzlPVE1oZmk1STd4dTFqaVBFbWZac0J0MHdZYm45LUtNRDgya1JlN1Vrei1LNXJZbzRrQ056ZW8zbEFsMUZpQnlEN0JZbnVPN0VKei15WW56WVVYUXp4clRLa0hPaHcxZ0JFelJjOS14Z2RndlFwbGlmSjBSeEYybGFvRng4TWNwU1dmUW1Qa2FTY1dZMmVGMFdhOHhmcG9tcERTYmRJeUs3SW55bHBwODdBY2hzODJnTEZaaHF0dlpwamU3QVgzLUEwWng1QWI1b1QxclVNZU1GMVBRTC1TRkp3cTJHcmdMdFZBOEdlQjFFQ0VWQXo0OS0tZnFjbTZISWhMajJIY1lteGhaM1FKU2VPVjF0S20wekRkbnVUbmNZc3VGalc3cEVNRVVjbWhiNm5zN3laNGlpMnhuRlhhTzcyVkMzaVppczNYZ2RyYk44R1hfQzJGa2xRcGZIeUtsbmJDRHhVWTZwRmphNlFtaGVqb3dOQ0NjbGJhTVcyNndSNjRrWm9rdmhLOFFNWUxMZ19OdG1pYllNeHRsS2xrYzh1c3UzYnZsUTZHV21veWdlVHpSMWplZW51YnVkcVRnaHRhb0JpM3Vfb3F3VmplVDh5RldWaE5FdzVFc0x6bGN4WlJYTHgzVkdnU1c3WVhYNTA4Sm1SS1BudzdObWZleUhxandXNWd5Vmd5U0xIVlEzQ2hyQ2NoLUE2Y3IySkJqRnhNN1NIeENPRGZDQ1FHMHQ0dGYxWWVGNzhaNHRYNzd0X0s4ZW1WV1AtdDd0bmVqd2JCOTdVMnNvRkhlZW1jX0MxUFhvT21fcHl0WHphYlY2TktkSzBVbnd1VXR6cDc5NWdLbklDZw",
+      "time": "2026-06-15 17:40:08"
+    },
+    {
+      "title": "看了這支影片，保證你會多吃一粒粽子 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPMDJrWDN5TkZJVmc4S0JHVlVvUnRMWGotdzM5U1RZbTNZQ054OWFmYmVTRXd6c3JxMmlHcV9rR1BlVXdLYXlDa1ZVN2tHd0lfdEJDaXBVZ3VQQXkzNUlnZFlUS1B5YjVuc2VVeW11WnB0Q2hyUldjbUhLOUoyNnhCQ3JMVGs4OUhFNDNIMVlxSjI1VzdUeURBa1pVM3F6YkFuUktrQUFTamI1Tll1NGRDNXI2QjJ3VDB2M2lKcVh3MTFlcHR0U0tvR2NUa0RpTXJTaGs0d0EtTHRfYm9zdkFCU19Xd1h4MllxZWh5WFNlNXdmSmM4a2FTdGl5bkVNYy00bXlIRTRuaWNYTFFVVGhiVDQtV21nRzRBSnhXVDJyNDllN3VPaDdtdk80WQ",
+      "time": "2026-06-15 17:10:08"
+    },
     {
       "title": "劉建國 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnb1FtdFNjUUN0SVRmTjQ4NFlzbUltSXo1ekdYZ0drTnR6TDFXT29GcC03MGRoOTV2S0NnUkJPWlFqVTZ3dF9FaGlqWmo1M1BZRmFhQmhFVm9YYVJSS2xid3FQellJQ1pyNDA2UlJvSQ",
@@ -619,29 +749,19 @@
       "title": "#古坑產業加值園區啟動🚀 #雲林下一個黃金十年✨️ 雲林「9+1產業園區布局」正在一步一步實現❗️ 而 #古坑產業加值園區，就是這塊產業版圖中非常重要的一塊拼圖。 一顆柳丁、一包咖啡、一項農產品，要透過加工、冷鏈、物流、品牌行銷，創造更多附加價值，讓農民有 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMijwhBVV95cUxQV0tXX19qenlOVm1RSVFNbktUZk9HakZjMXhNR3NZS1NFd2Y2RUxDb3R4aWdNNnB0R05nMVF3WjREZWNTY2VxazNQS2d3b0p6WURBWS1hSTFlUEFETmlkbDRrRk1qOG0zLWNNYUt4bmYtVWEwU3lIeEM3UGtIVHh3c0V0LU1uTmZIOUs0czBpNHlZZUFhemZ6Sjc5NjJjYVBOalMxTU1ieWVqRml4RVhWelhLWUc4eF9mTXdQNFdpMDQ4djBkSzRzRFFCTmlvNDVsRUZTN3BsSUVFTUpJdW5GRjVXbXFnUmt2Zm56b0d3aU5sN1dxQ19vTlVUekgyQnpxaWFOZVpfWUR4Rkg4b05oSWJ2U3h3NkFOMkI1VkFYSktzdHNVRHZ3SWNtOUMzTUZhZWdtRF9MZXVIN3p3S2dBWnlUR05IS3FkTGdEOW9SdTZZdVYycUE0TjBxbU9lQXppUWJOVEJOWnRnMUpwT25LXzhua1AzZXBNM0hjX2l5dEZES1hOcUJBMDZtX1hGUG91NUVaZElvb3BySjFSeUJRS01Ma2hmcXM5eVI1SDF0YWR4UUJwbnluSWNmQVNsUWREd0hmVmZsX2NncHEtZlJFTFlKQXYza25zSGVWbzlaYTlWQXktYlZKUmpVNFZvMXd3QWhNQ21wVThpR2MyLW4tbWJwZG1RbWVIdG9pLTFXN1hYbmhpN3A3YXdpMnVlcTA5TXpnMml4aHV5R0xGMmZINFdKLTVONGZCYnliT0FWMGR6MC14UGcwV1ZJeUt4Y19mUTlFbmpWaHduZVVQNC1XYjBpeWthMU5aVG14QnBtTWZGdi1ZWlBONXNramZ5ZXowVEx6cTZ3S2dNRFBzV1FOaUxFc1hfZHRVczhDTV9UbHVNVjNmNFZlME5KMk1XZ1dwOEcyMVlWQTc3dzYtMnZCUzlnZzE5cHN2LU5VNzVTZUFLQkhKRXExb2Iza1RRSVVNQnc0T003bVlHQUFIQ1JkZzlKVVRkSDF1NlRvdzhjNUItVmNHXzlhVzI2blM4WmNGMHUyVGxSb0xvcFFaRjFQdWl0VTI5S0ZMNFNxTnhiS2d2T3Z0NDJ2ZDF5UE1iOU1xZ0ZwZzNNSmRFeHVGOXhHblVMWWZHTDRnWlR5enpYcHVrNUthVW5xalVvMDNEakpfcDgzWmJQdFFZSmVaMnZHQ0ZpUktlYnN4TFU4dUltc3RYTmFCWnFEeFVGOUYzNy1NSnBwUVRuZzF5WnNYNWJrTTlBMlhzakwyWVdtRXlRdWotQXBDMmhpN3oyTnVRTVB5N2ZvNFYyQ05iOGhSQl9YTTFqQ1cxSVpCYjNMc243R3ZXMFlWQlJkNE0yaTVjRTdZM3Y1WHlXWDJPNFY5RUtj",
       "time": "2026-06-12 14:21:54"
-    },
-    {
-      "title": "TVBS 新聞. . 【蔣萬安喊監委提名''全部否決'' 王世堅:怎會講這個】 什麼情況？！ #蔣萬安 #否決 #王世堅 - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQNjJFMEVlVzAxcC1TbFJmQXhqV3NCRlIzX0xtSFRxVndHNFpXdFNTd19rR1A5ZGtNMVpqdlBiRVlmM3JOVjN1NVRTdEdxSFFlcVFTV2ZPZHRiNko2eXdyWHZITkdRTWdRd0NCUDRzR2hzS1k1N3FhVHp5S045OFZxLWdjTzctSjlkZ0pnbHhDZlJFczlVLVBQM1g4NlRJZHE4MVc5UEtfVWM1WGE0ZzBqOHdTNmhJYS0yVTRUSWZOQ0MxSnhRUjZJUjRfQi1TUmlxYnJ3TGgzeFFVREhlNHluMlN6TEhOcVpPb2J4Ym8yYkp2TmFqeGI2OWdTSjZzazJLM0N3X1BGYVpqTTlISVNLNTI0bngyWE1MY1lLNXBtWF94NmFSbXFiLTVGWFEyb0VaemFCUjlKMEd5dklnN2wwdzJ5RlpnM1BHYWViclJ5bGdfeEVkS1d1OE9QeEcxZnBONjRlb0RuX1pBdUMwQ1JfaFNGUkJ4VzY0ZFJKaS1FYjVqYzB2SExRWExhdmFQcy1YRjNnMFhYQzh4d3huMDNvY0x2Z1lOcjFqWUttNVdHWU9qZWxacUVNTTJRUlFCRnBlSzhRd2FEaDZBWUxOVDNqUHNiVE1ZNnB4Q1hMTVI0SFdGd2M3MGs3RWstS00",
-      "time": "2026-06-12 13:12:07"
-    },
-    {
-      "title": "TVBS 新聞. . 【LIVE主播+立委線上聊】 雲林花生價崩 張嘉郡:一個多月前示警還被說危言聳聽，讓TVBS新聞帶您一起來了解。 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxPTjNqem9vMjlLRk44MzdLOWh2eUE3VUpERWQwR0xjTjU4QnFTSHB4UWpEeWpqLXR0VWIwTFNYNDJmMnNPYVNpYmV0ZjZQdmk3d2hzVHh4Wm1MZUNiVlo4a29XMHM4d2ZhUTZhai1XOThTZktmVWdHTV84SUF6TmNiTmd0UDVTSERPbldjMkVqR1ZWdTJRdzJ1bDc4RFhkLUp0NmxWWEpodkcxZW5xcFZEUHVYeU5JbGJHNHlSaWNBS19JT2xlbFhRcTVoVlRjcEhmTGoxek9SUDM2aTl5MU13TDlvVnYxam1QMXJ0d3hGdTJac2JLR2tFMk9fZlpWN3dMeWN3YVg1X1RTaGxFVmpZVmZOMVFvZVRORW5HNU5hRFJ5MFFydUJMcWhpemZIN1dVVEZLSUI4aHNHZ2lmTzZwN2tPZ2R2Qnh5dzFzeFltbjBrVGxKQmxUY1psRzJYV1A0ZUYtSzc4MmxYTXI4S0hXcXBfaFVmYnZ3ZEVzR3A1Ry1KS1FUYzhlNzVhM29pTkhzRlZfdWFtN1ZCcG5qYXMweDZ1WmpyTXFwWW5TXzU2eF9PYkdNTGF2ZUcwVzdwQ2lITC1ZcmZ5NHlVSVdFWnJUcTNuSWE0czNB",
-      "time": "2026-06-12 10:06:15"
-    },
-    {
-      "title": "解除鄉親倒屋風險，大家的安全，我們顧到底！二崙「永定厝排水改善工程」正式完工驗收！🎉 鄉親們，還記得幾年前我們一起在二崙永定路旁會勘、開說明會的場景嗎？經過多年的積極爭取與漫長的施工期，建國今天要向大家報告一個好消息：「二崙永定厝排水改善工程 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxOMVpvTW9VUmx4QjhLRE9QLVJqTGZqdnBLMExHWFl4QTZ4bkZENEdTX3RhSjVaWFVLb3lqbV9xeVp5ZDJiOUtGRGRWNTU2RDAxNmE4Sno1U3FyOThkR2dHRGJJR2ZBZ29SZl9xbG4xRVprX1V1OTh3eDlwX2lvdlIxaFBuQ0ZJTXV4VUZ0a2xoeWZzMHR2VzhWYmFWdGFBaVY4eTBURFpYdHRYX215M1dlOEJmVWNCWEk4NzF2NGpMczdKZ0hYeFNmZDZTd1RETVJoSWhBTmlkaElkT2x6MTdodU5XbUZIT281S3V5TkxZaG55Zk80alZxY0xCT2Vlb3p4dXlPcVh6cHhVTllxelhLd0xLSzJSRkc4V0cwTEhfY1c4TVRMUjFRUTFTYnk5TFVmMW13QUFhZ1NNUnhud0UySWl0OGFvZThrVi0wZGdGTFVHYTVjNnl5SmhuLU8ydDhuMTBicmg2eTkybFRNSG4wamFXZ2ZOYlNsZ1dUQ1RmaWs2QmxMMXBBUmVLNlhQMVJEZVBzNXdWbC1VSjVVaWhodkFQZDRIdTN6WlZfU2FGN0xFUTF1Ni1DY0lua3YwNkphODlENEdaZ2NHS3g1UDJQR3BGelpxRkMwdUh2WGZNVVZucUNNT0FIeDEzVVVGTGVuSVNCOVYtd1prQkxLNjlsNUFwNmppbVVMU21la09fM2FuMEkyV0FmelN1enRWX1NiaHV3bHhRblBSaE1rempZa3RPMnJPcUFPeW1meVZ6TURLTWZvR3ctM204V1lGRDc4OTBGNzlhcHFHU3M4c0p3NUdkSk1kUk1URktFeHk3Y2JpVkJiQ3dhZV9CV1NMbDlsb09Xd3NFOXVzdWoxNnNPUjhZbWxad3FZN2d6VE41c2NGZjJCS0xBUkxQVlhFRkF2am55d3c1SE9xdWF0TDBHb0dTWjdPQ056U24tYlNzMDE2SlltZXFGRnhicDh0MlJ5QVZCenlqamUyVFRsa1k5bVRGekMzUVJPYm5JN2U2NVphTmoxY1Y1WC1tSi1uekZYWXFDV3RtOHFfaTZqb3NqckhXTllUejdEMm5ya0VxN0FsT1RwMWRJMmNYZHhGY2V3bXU0QzlLN2JsZEVfZG05YkhzWmpSS3l4Q2hJOUNpYVBMd2t5TkpCUTlBYjlUYkQxelRMa3ZSS3NKWnhNaVUweE9mSi1jblJZWTJfTGxXOEZhTFRlNWRsbEU2NDhhbXZydENhYXJEUUpRRnZhTHdVRE5mT3VDUG1hRkJNUml5OURJZGZFZHpZRVpVS1o5RVZjdFhSWFM2X1ZjRlVhQkNjMDg5cExnaFZmdnM0ZldCWW9EcWFLTllKM3NFY3FJLURWREVkaUNBWmlzay1NaGt6bU9kenRhb0hlSy1SNUpab21vTUZsb2Y4Y2Z3YjJjU2M",
-      "time": "2026-06-11 18:24:21"
-    },
-    {
-      "title": "劉建國 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91a1IzdURzRE05OHd2eGdJbjRWUmxzMzNSVGxHNU14UjJoZ1lVSFotWkFzNWY1ZEdZamR1ZTZWal9Nc2lPTDNKVzNTdVZMejZrTVZCMXVDTVh1RllaSTRydkJQZFlGVFc2MzFHdHMta2J4ejBNWWJnckpyVQ",
-      "time": "2026-06-11 18:24:17"
     }
   ],
   "latest_news_20": [
+    {
+      "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心 | 台灣生活新聞 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kdkdqbWNIUFhaQWJ5TVg5Q2JyZWNlT1ZPbTNtZ0FZQVE3N1ZjV3BrdHRTMWhjVzdVYjJ4ZFFMY0FjRlJ5UUd3VGNYSFo4NVNzOE5HRWVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-15 19:13:34"
+    },
+    {
+      "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心 - TDN台灣生活新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kbGVvT0lfZlo2Ti1BM0drS2JDQmJsVXFkdjhKbU5yWDVHNUtyQzlMRU1aTkJyOXBSemcxMm1LZVlfUVllZ0VXeXV0X2QwSDNT?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-15 18:46:42"
+    },
     {
       "title": "立委劉建國邀環境部長彭啓明訪古坑 推動咖啡全株利用打造全國循環經濟示範基地 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kUGVscE5Sb0JNYUtsNTFhemMxc3hWVGs3WEdLdEJaWTQ5SFRSVGdzbldUVTdkNUU4RmYyVXdpT3NWV1l5ODFDVE9rcUFVTXNRblE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -731,21 +851,16 @@
       "title": "翻轉偏鄉醫療！劉建國力爭百億資源留雲林 - 上報Up Media",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1senhOUEtMbmFWWWpYRFJpdjZjRjhZdVRLX201dEc3MU9KcWd5MFZVUmZPYzVaTkJKdFQ4ODF2X3VJVG5RUHVhQUtnQ1Z2Qmo3R3VINVJzR0MtUC0yN2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-13 19:01:00"
-    },
-    {
-      "title": "劉建國召開公共衛生師協調會 凝聚多項共識 推動公職制度與專業進用機制 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOSEkzWnFSWXhrYUR1djFZV1k2U0g5LTFwYmZtRjBlT29mZ2dILXJSdWZTOVNSQ2JsRldlMy14aGF4QmtNclNLRmxiME5SVEJ6UFlSd2dhQ3RhbHotNWdyNTJTZERhMVlBSFZPY2FYMVIxMV9SZE9YWERPWGl2ZWtXcEdMUmVEai03akF1ZFdlTkZHSzNvMGZNaFVYTEp0MXJtTDdWd3FzSF9uSGxGN0UtZThOUDZ4MXF0eHJIODlsOUcxTERIMFNEa3J6blgzeTVDbW1FZFpnaVNlenp1WDBmcWtEdE9PTm1XRjZ3eFpYM1FxT3B0OHRRNmxQWTViR2x1dkxrdXZjRUpVajA4WUg0R3Q5Wm50SkRtakRnOFpFRmpuQkdsdzc5b3dmLXRkSmJ1aDlyVXo5T081MFRBOUdCdjcxVkJ4Yllxa3U4clFTR2RnTUZnMzFjMElLNDB0WlJfZ1FCTHVlTDlKcHFoVGhXY1k0OXFNLXFSNlRySlV4c3FxUFlBc2M1OVRDQnRlSF90S2w2YUdXblhtTE5UUHdyTmZzajZiaExWbnhtMExXd2dhTXpNWWY2bFlfX2FZZjVLWVlNOXhPVGN3Q1B1WU4yMURNWU4yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-13 17:17:38"
-    },
-    {
-      "title": "劉建國推公共衛生師制度改革 跨部會凝聚共識建構韌性台灣 | 觀傳媒 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KTDNCX2ZWVE1GWTJ4NzM0ZTYycVkxN19EcmRqTVdBQVFmTWhQMF9uOE1FNHRIY2xFNXNoQ25sSm9RUWpsb2dMbGxacW5uV3FQektRV1ZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-13 00:36:52"
     }
   ],
   "person_sections": {
     "張嘉郡": {
       "facebook": [
+        {
+          "title": "王育敏. . #為全台農民請命 #農民生計不是政府談判的犧牲品 4月底，張嘉郡委員、張麗善縣長和多位國民黨委員就已經公開示警，美國花生若以零關稅進口，勢必重創雲林花生價格，政府不能先斬後奏，更不能等到價格崩跌才亡羊補牢。 沒想到短短一個多月，雲林花生 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMioghBVV95cUxQOUxGaGVTXy04U1pqdmd4b1F6WkdiWHVDUUFiajJBdkZqcmR6d3R4ZHRWSVcxZHZaX3ctb0MxRGl4TWQwemNuUm5qV2xSNjZ3N3phM2lmaUFtcnZ3QUtIZm1JSVNPQzRYQTh4RFRBblNhaEt6MWUxVUwtZTRaZ1EzSHlMQ2FiTHVfejFyamkzbDNFdzM5UjNDNXA2VEVDNEhobDJsZHhhWmh4ZDE3QjlwSlJpMEdFNUpCdjl6eWxtSzNHZEpPak5CS0p1czh1TkhpMi13WUk3U0lqTzFoWWViTWZmNUIxaHVONHY5S3BwVHlwMW95U1pLWjczXzZYR04teHgtYlBYeUNxdVNWeTZZVXRSTW1tRjlPT2s1OXVpUkU0ajk0Um10bzNZeUFVRlcxd0M1TFBXNXRkWEd6SGJBc2RScnY4MlJxN1lOVTl2TWp5TVpWNDlLVFZZVzFMQ3d1OUlFYy1ZRkg1amo4MjN1SFFkQTRJZmoxM3VHWnJuaXphZ18yaTVhT1hwVTZEcmFXbWlXQXJaTjkzeDE0ZHZDOFJEMzlPVE1oZmk1STd4dTFqaVBFbWZac0J0MHdZYm45LUtNRDgya1JlN1Vrei1LNXJZbzRrQ056ZW8zbEFsMUZpQnlEN0JZbnVPN0VKei15WW56WVVYUXp4clRLa0hPaHcxZ0JFelJjOS14Z2RndlFwbGlmSjBSeEYybGFvRng4TWNwU1dmUW1Qa2FTY1dZMmVGMFdhOHhmcG9tcERTYmRJeUs3SW55bHBwODdBY2hzODJnTEZaaHF0dlpwamU3QVgzLUEwWng1QWI1b1QxclVNZU1GMVBRTC1TRkp3cTJHcmdMdFZBOEdlQjFFQ0VWQXo0OS0tZnFjbTZISWhMajJIY1lteGhaM1FKU2VPVjF0S20wekRkbnVUbmNZc3VGalc3cEVNRVVjbWhiNm5zN3laNGlpMnhuRlhhTzcyVkMzaVppczNYZ2RyYk44R1hfQzJGa2xRcGZIeUtsbmJDRHhVWTZwRmphNlFtaGVqb3dOQ0NjbGJhTVcyNndSNjRrWm9rdmhLOFFNWUxMZ19OdG1pYllNeHRsS2xrYzh1c3UzYnZsUTZHV21veWdlVHpSMWplZW51YnVkcVRnaHRhb0JpM3Vfb3F3VmplVDh5RldWaE5FdzVFc0x6bGN4WlJYTHgzVkdnU1c3WVhYNTA4Sm1SS1BudzdObWZleUhxandXNWd5Vmd5U0xIVlEzQ2hyQ2NoLUE2Y3IySkJqRnhNN1NIeENPRGZDQ1FHMHQ0dGYxWWVGNzhaNHRYNzd0X0s4ZW1WV1AtdDd0bmVqd2JCOTdVMnNvRkhlZW1jX0MxUFhvT21fcHl0WHphYlY2TktkSzBVbnd1VXR6cDc5NWdLbklDZw",
+          "time": "2026-06-15 17:40:08"
+        },
         {
           "title": "TVBS 新聞. . 【LIVE主播+立委線上聊】 雲林花生價崩 張嘉郡:一個多月前示警還被說危言聳聽，讓TVBS新聞帶您一起來了解。 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxPTjNqem9vMjlLRk44MzdLOWh2eUE3VUpERWQwR0xjTjU4QnFTSHB4UWpEeWpqLXR0VWIwTFNYNDJmMnNPYVNpYmV0ZjZQdmk3d2hzVHh4Wm1MZUNiVlo4a29XMHM4d2ZhUTZhai1XOThTZktmVWdHTV84SUF6TmNiTmd0UDVTSERPbldjMkVqR1ZWdTJRdzJ1bDc4RFhkLUp0NmxWWEpodkcxZW5xcFZEUHVYeU5JbGJHNHlSaWNBS19JT2xlbFhRcTVoVlRjcEhmTGoxek9SUDM2aTl5MU13TDlvVnYxam1QMXJ0d3hGdTJac2JLR2tFMk9fZlpWN3dMeWN3YVg1X1RTaGxFVmpZVmZOMVFvZVRORW5HNU5hRFJ5MFFydUJMcWhpemZIN1dVVEZLSUI4aHNHZ2lmTzZwN2tPZ2R2Qnh5dzFzeFltbjBrVGxKQmxUY1psRzJYV1A0ZUYtSzc4MmxYTXI4S0hXcXBfaFVmYnZ3ZEVzR3A1Ry1KS1FUYzhlNzVhM29pTkhzRlZfdWFtN1ZCcG5qYXMweDZ1WmpyTXFwWW5TXzU2eF9PYkdNTGF2ZUcwVzdwQ2lITC1ZcmZ5NHlVSVdFWnJUcTNuSWE0czNB",
@@ -840,11 +955,6 @@
           "title": "👉更多新聞👉 商圈, 張嘉郡, 斗六 好報報導 (張嘉郡拋斗六孵蛋 結合商圈打造運動、演藝、電競多功能場館) 版權所有 台灣好報 【記者 劉峻文／雲林 報導】雲林縣長參選人張嘉郡十一日拋出於斗六市興建「雲林小巨蛋（Yunlin Sports Mall）」政見，打造一個兼具體育賽事、演 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMi2wdBVV95cUxPeHpJQmJJSG9DdEVQNkktT0duelE3THNrdDEzbFIxdjJwZVZJZC1FY3RhdnNSekVoc25TeUstb3pQQkVxZFF1U19TLWN1bUFNb3MxTm1yVzViajBRSWR4ZUlUMWkwdnRvYkhYdGxHSXpxNTJ0TzB5b21iMUtjV0wwQ2RhVUlrMmhuZDZVX1RzUHdpWDlVQ3d0MDF0c2xxTHRkWEZmcGgzdW5udFVZa1ZZMjhJbkxwNWkzZks4MENYRnpOYWRkUGxHMVlDNFA0TktNWWw1Y0twc2FzNkZ6a1RESVYwYnFZWm15Ym94NjBScy1MRlJ0aHhGTlN4M2N2eXdkQ3M3NVZIV011TDdRSHRsdmtMWkF6eENtTWJSazB2cXNZTGRtN2ZqMzdhUzBtd1JvTDZvcUZIWDEtcWlYdzZxRVBNQW9JdzRmWUQzSE8zVExhcDV4czhhcUZFeHc0WkVmbGtfcXRaRkpSNnlJbG9FeTBuX0thaVVNQVpLZ0d3RDRXOExSaUhVYlNfV09JYm1EcUFfaTRqRnlSc1dya202VDdYVjBCOVk3bEdYQmFvc0pFaDVQV2h4SFFPRWFXX0tKQVUyZWlyR0ZOX0VYdTd6VUFCSGp0bDkzbmJoNkxmY0RFaXQyNFZwNnZqVDVyVmEwTlpBZ2JCdTcwWHNYeDh0SWZ0SnNvODd3XzlMRXI3Q1VYWC1yQnJjU2NyQzg2TG9yOXpkcDlVZG9yeWNaTGl4b3dzZW5NMHRFakxpaEdGbnhGVzBEVjJQbko0T3h1NVFwQzZxTzZ0ZEJvQzVKWHZpV2VSRkVkTVFmZlJxSnVKRDc5SE1zc1BYb0pxZXc1WU9lMU5NUlZ6Smt0UFluSC1jYVZkQUdGSi1OM3puSzZ3Sk1OTU9aOTVCZl9COTVYQVJvbnJFWXJZV0ZvcEp1dVF4azhPX2x3a21vUGVkNnNQQjUwNzh4VzlnYXFENjFIdl9YeXNLbUVtT1FncVZtNkMxQzZES3BPeDhTMlNTd3pMVEpaY29mX0FPM3dsNmVKQ1JKSHFPR2pEVy1tVWI1YnpCbjJtLVYtREhMcXBMMWFZa2dQdXpyci14MnRPbDd3ajBqTjZxUFhITmx4Q2lwYlQ4YUhRaGMzMUV6S0xRTWlzNEN4MVRaZ05HWnA4Vlp4Q1R6bk1BVHRhZXJQWVFXczVJVDh0R09NTmNURThlaEZ0MDZfMkE2b0NDVzRwYU1IOWsxbE1mNDM3OXItZEs5OENPMFd1QlZmdVdZUloyOUFZbmJlWU4zYTB3NEdYM1I3Sjh4bTJobWtSM282T2c",
           "time": "2026-05-12 10:09:10"
-        },
-        {
-          "title": "國民黨籍雲林縣長參選人張嘉郡，在5/11日宣布推動興建「雲林小巨蛋」證見，打造一座結合體育賽事、演唱會、展覽與電競活動的多功能國際級場館。 - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMirgZBVV95cUxQZ1lOXzdwRk9iZnlDczU5R2dtRWxlRF9fN0lweGhXUGd0bEZWb28tcHZiY3dKdVdsaWY4YlBsTGRteTdveDgzRDJ0NmlmNW5peHh4akc1SGlGeEp4NHNfVVdOZUlyYThtNG1OOUlsOGQtbWlGU3ZYOEkwTVotdlFwV20wZ1A2QW9OMnkzdEhXNWVUSjhYVmdEYzNTSzVSWHE4ZjN3YlQzUWZQdkR5bGE1R3doN0NkVjdNTHdsOHpoNDkyanpLZjk1UjdtUEJzUFVkeG9naGNPdTRFVXFMWXpPZVJmNlhZZlZJMjgyWjF6a2pRN1VTa2hNTkN3eW5mdmZrbzh3ekpNbTZpZTRVSEJJaTZoa1VhT1IzSHBia3czR3BIZjBUczdXNXNFWTNURmdqR0hWbm9iQkp3M280dUd3MTI4QnVpTDc1MVhxZHh0NlV4WmpuZzFkYi1ERFhucEdhd2U1b0NHcXdjSTB5S0pBLVRiXzl2V3ZiTGY3ZEhPMkZoalU1VlV5R09FbXNrTklHY0pKOTlEUHM1YzI2N3dTMC1pYjJ4RnlJR0dZb0IwSHZKVXRpYmtLRFZBS2RGcEhURUl0Q0VObTNMc04xbzNKOVR1WjhRdkpkQk01emVnX2ZSZERjcUZHME01OHN4Z0FZVWMtRWdsZzVPcHJNQTF2RmZ5WmZ1clZBM2pKdlBENXpYelhIZXdKRWsyMkduRWp2bVRlazF2MmJiXzdwX1B6QVBVV1hlQ2VEbmVDN2JFa2stMlZEeEhMbGRkT0hjY0JmUEp0ckVxbnNoQUZwQnVIc1BJcDBBWEx0S3c1ckhlcUR3bHIwUzRzZ3Izb3lKNGREcmx1WmJmc29wMXVRdXBIcXhHZnY4cUFWc3IyTHU5MDFoZlRHbXBJZjhsejAwOUtsd2NsdmQxSkR3RW1YQ2xCZWlZcjJMaEhxUmplbGZmc2VzYkFiMXFzSGdiTk12dGcxRmtTNjZ6c1dJbWJRcTF0cmU0SUlEa2QxaXJoVzd0cmtWbmhpamFWN1pUWU5SLTlUWkdSUWhZSURYSklCMlVJUkFfTThwU0RNd1o4bzVB",
-          "time": "2026-05-11 22:43:54"
         }
       ],
       "news": [
@@ -953,6 +1063,16 @@
     "劉建國": {
       "facebook": [
         {
+          "title": "為推動咖啡產業全面升級，立法委員劉建國在6/15偕同環境部長彭啓明前往雲林古坑鄉，實地考察如何將咖啡產業的副產品與咖啡渣轉化為高值化循環商品。 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi9AZBVV95cUxQRURhUU9YNWw1SEotN3VZcVgzZEN2VFNMUGdCdDd2alA3bVJQZGcyWklaWmhDV2ZnZVJNUVFuWll4SFltSHBoZjlnSUhEMUY3bTd2MW1rTFRxMGR4QjVGZG5UZGRuLUcwbDlKeE1DRkktajc1dGV0b3JjV29ZU3FDOE9rU08zd3lzZFFnYWxSUjhUZHZNUHo3bnpMNzFNMXBKVW9DVi1GaDB2OUF2TmswZk9LSVJKejV1b0RXTHhCTWNOOXBDRFVJN3JJWVRyUC0xaFAwUDJmblQtOXVXdmNFdGRhR0psbGNxNUJ1eF9wYXNWdGdGcUtOVlVFcV9rU0FYWFBYSkJMVFFGTlN0WDdEdzJqZWhzYmNkZ1ZUbzdXN2NUaWt1OExHWDZXV2o2czFuVE9Vc0VveXI5VE91NmhFckU3Y1l6dXl6NGR5aXNkME93Qk1mZVlYbXlxNFhDYjNkVDNVWjcxZndVbXZnUGlwT1BrUnhrZlBuRnVOVWZCdEM4eW5RRXRYam9HQVFIeEhtaXNMOUZmNG5LYUZwbTFiNjNEb1NZOVRTU09LdUhIQnZGTlZnRTlsVFIzRFpqUGhkaWJJMmd1a2pEdjliT0MxR2xlY05PYkdEa2R2Z2wtdFRiaWl6RHpJRTVuTmRvUUpJaHA3c2FrZjlnZndPMDdsRkR4SHlLX1Jzd29RbkR5VHVLUXhWX3VscDZ6UUljdWs5b2ZzVmNURWsxbEJHVTlycWhKaVoyVXZZNF9FNXNQVGtlWG1FYUo0cVhDN0x4d1RNWkctRWI3Skp0Q3RoOVJTVDRVYWt5cDNaYzczLVEtSllBeEVUNWx1NmYzS2VSSEs4TlQ3S2pKdjBXX1hrR3MzZHA0VnV4ZGRHdkY0TVFfdVJCVVNDUkstSjZPX2hGWXFXdUhqbVowRnpVd0dSNEl1UmtXOTY1NnVOOUx0b19UNnZRUUNZZjRYUXd1bG9RVnNZYW0yVzg1NjhwVWo4bzdQSnpSdTlDZ0ZqQVN2azUwaGJDalBreDhQRjFSWnU2anZqV2VMOGJRTW9Sc2hJaktWcUdWS01EdUtpZF8wUEVEMXR6QUdhaVczdW1MZVNXSE9yT1p1eEhOOHhlU3VYQjZUSFJCZEJ4eFNhVEtELVBSdVpfbTc3ekV3RFdSR1FYZlBGUGFPUQ",
+          "time": "2026-06-15 18:58:22"
+        },
+        {
+          "title": "為推動咖啡產業全面升級，立法委員劉建國在6/15偕同環境部長彭啓明前往雲林古坑鄉，實地考察如何將咖啡產業的副產品與咖啡渣轉化為高值化循環商品。 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi9gZBVV95cUxOWnFWX2c3LXU5bGgzZy1SY3RPR1BsbDdsZEFmUlh0RWNXNG5INE91d0lodlFBX0RpNE9lbERPMW5fZUZDenNJNVJCNzJXUUIya1JIQ1hhbW5sSFZPX18tbko2a0sxYzlFOERMcF9TNWhlQ1V6Wnp5bEgyRmNLVjNQYmk4QUVyUkFmOWMwY2RhZGxmZllIeGpPb0x0YXlac0lIY3VuOFEyaWQ3Vk9VVUFwQXo3eW5GZmFjN3lxTlQ1b3I1Y1hhYUVTWEY3UDlnUklBOU5ScTBJNUVCbDhsSGh4TGJ2QVBzdlIxUDhTeW1HWHA3WWtRN0hNZUJMM1lvSUx5cW1sTm9LMEVBYjN2VFcyTlZqNUppZ21CWVgxZGVBYkZiLVF5WUpETTFvdTRnSmxaYS1OTlVvbU5SejhjaUtwSFJwWEtrQkZBYmFYalBCOFVrNG1IekZjSXByMzNicnZpQWhHUDk4UGJ6dVE1YzZiRkUxR3EzWTY0NG5LT3NoTXl2T0FiVWlxWlN5emI5VENWbFFKTUhUTXJDQWxOeGktZWVPLTVvQWN1Q0M5WGhXODRmSHdoTnNwS2luWkR0bkg3aFZUdXMtdUlZNFhSSXZHVGVNQXNMN1BWXzJkMHl3d0dLRFp6RWxla1had1dBdlp4dkhZa05rRElhaklQYVFUMUpTZkh6M3dHRmVsS3pCOE5UcjNac1JyZENuYVBPaElQMUFDejd3YnYwaU1QVFhWWFhQdWhtYk82UTFsNkZaN3dla1R3QTFhSzYtOTBTZklKdnpjMWFWcHdFNWExS2drVmw1emRkZ1dYMnJHVWN4ODdBYm1VQ3VQT043MEhqVkVpcndTMTc0UEhXY1ItN3BIR3ZNT2hSS3lPcEhKSzdNSFhPaHdWTV9NTXRaV1I5Nmo3NldxUGxiekNScUdpMnRMNTdVby12VHM4TUdEcGRzbV9hWHczZVlPNTEtVjdqQk9oWmZMWTVOS1NJeDZiVUdndE83cWVESkl6cXQyd3lhMUwxbXgteDU5Tl9jQjgxSGw5M2tjek1YbGNOSERUWmxxeEJjVDdZS0JuLXFvSWhwcENqbGZHX21mNWNGZjgwYUZkRHk3OHBEUy1oSlhMczdENUpWUVhpZHluOVRUTnpkbFdHanZISkoyaklfY3ZZQzByUU1qUnNB",
+          "time": "2026-06-15 18:58:20"
+        },
+        {
           "title": "劉建國 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnb1FtdFNjUUN0SVRmTjQ4NFlzbUltSXo1ekdYZ0drTnR6TDFXT29GcC03MGRoOTV2S0NnUkJPWlFqVTZ3dF9FaGlqWmo1M1BZRmFhQmhFVm9YYVJSS2xid3FQellJQ1pyNDA2UlJvSQ",
           "time": "2026-06-15 13:53:02"
@@ -1041,19 +1161,19 @@
           "title": "📣劉建國爭取災後復建經費青山坪明隧道竣工：https://hoomedia.com.tw/2026/06/01/145434/ 🌎延伸閱讀： https://hoomedia.com.tw/2026/06/01/145434/ 🏘️互傳媒新聞網： https://hoomedia.com.tw - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNUUhCekEyZjZpbU9ZOUM4UVJiMVVpakhfQXVsclVZX043X3FqYUVFOW5DcjJUWDBxaUZyUVVWZEtyTXZUS3NNRjdFVDFDc01qcGhQcE9oTUJQR1E4dTFPYnAzM1dkbDJlVkMtVDdRbHRNQ2RhVWM3UnZTbjg1SEgwaW1wdnBadENXVVBiN2xsQTVxR0pUSTFJcGdQazhvNTY5OS1vMnBmeE5DTy1HMG9XVGY0VFQ1cFNZRUhCS251LVVLalJBYjIzb2VzSklOdko2LXpqRGh6cGlwT3JaTGdtWHJjYmdvTXJpekY1NDNFb1JRQmJtX05LcFJUWi1DS0tnRDZZOG54eExRSHRNZTVPa0s4TkxjZ0U3cVNxS1lCWUdlb2tHRS1pcDh3UTNUWGtFNzl0LXlVSFRocHFHT0VsUEtmZGg2TXZJVF9QMjZqdEtfdWVyZE1TTjdYeEt2Sk9aRmM2d1N2WkNoNVNleG50aHdKRTNvZTBwSUVBZWNBRDNaMVM3LWlUc2FRYTR1Ymtxa3VLVGtPdi1VeGktSzR0dG9CaUpOQl83TFY4Z2lmczE0OEwtN21CRkhRcG9VY21ra0xFRlBQRExsVnNzdXkw",
           "time": "2026-06-01 18:17:56"
-        },
-        {
-          "title": "👉更多新聞👉 劉建國, 勞動, 消防 好報報導 (消防隊員超勤加班 立委劉建國：不能用嘉獎代替) 版權所有 台灣好報 【記者 劉峻文／雲林 報導】針對消防員工作權益促進協會發布聲明，指出雲林縣消防局對於消防人員超勤補償問題，竟發布公文表示以「嘉獎補償加班」方式處 - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi2wdBVV95cUxPaThDdGt4SDVGWXpOUWhDcEpRYV84Z0poNEZSOTJTcWUtTUJ3RnZlRDNPRmMzTk04ZUxhRlBJc0RueXlsTFJ5b2RETmQyaXQteUJJQ204aGdxdmNBbnRCbWcyTEl4bkxXcDhFSmY3X3VSc2JmcWVOVE5Mdk9CTHdfWWV4d0RqTm1KdEVjVzVXajlvRVdVV0ZiMkduMFFGN1cwOEhBOVoxZWhoM1JoX3NPM3hkYlNPb2U3eWtQMXk1NEpYR0RWc2wyQVo0cmZPcUNzdjMzczRDd1c4N0FMYmpRQ1NqMzh6V0twNE92RUY4M2t2VkYxT3RsZUFkWDkxOUVfQmwwRTZsRXQ1d2FMN2UwR2EtV1psMmd0ek8zRzYxQzJHQTRlV2g4UldLZnB6ekVSa2NTTEhVS3FwanNhWG9VTElxM2pVTy1BaERGS0NJX2V1NjJpcnhBd1ZrWTZ4R1ZoM3I3ZmdFUnNtem5RQTlEWDlrZTZBN2pjR295ZGRjS3Axdm0ycWRGUXduLVZEVnMxNjJqMzhudEIyc3QxS21zVWIxUEkyVFFQcGpYSU1DaXlLalFBcWNkWlowY2FWQllPSzNOSVhLT3JBUjlZX2FvU3BLd09PaGVCekF3T1R1TVFYQTRtTzVMd1RfT2dMRmtCUWE5VElIWmRXbnkxYzhnd0pWSHVzZGFxSDc4VzJ4eDZKeVlTdTVkMHZ4N1g3M3QzcUllVFFkcjhNdEw5SWVkdmZvQk1pV2VMQmVLWGFqRmRGNXNsSVN2STVteTU4Y25qcGx0a1k2T2tobnBfZGFjalNaY2lLR3prOXh3Z1RUNG5CUXVwTTJQX1AyOWdtN3RLR0k5N2NGaXNFS0t6alhQelMwZVFlREJSVFNBamczT0FCSWVoSU9hOWdPb2Q3UjA5Z0tvT2laNHY4VXJfVVJQaHFpem9WSkpacFoxdkttNkN3QWxEMnJTSXlmZHRPbVZjd3NaRGh5bWd6RVNYaHM0R192bi1sd3pySnNmNk9ESlUtX0FreElRaVFKckFIem84aTRFOVBVNFU1c2xULS10cXU1bkZScDRjTTJVSDZxU0t4emliQXR6TU5FR0JQNHl2MzM4NHk1ZnB1SFZXYXBKV0tFeXJNY2pZdmFQeXJEVzNEU2xSdXRuMER6SUs5WUlGYV9lTWt2Wkp1dW0yNWI3NzAyY1VualBDazVGUlE2bmxRTTI4aUZCaTlWVldQS2NGc3pWcm5jQWlabUxlQmlzSU5mOXpjTHVwZ1RmMDhZd1dwemlXRktldEhCbllGV01jT210TEFzOU5uY2s",
-          "time": "2026-05-30 12:28:43"
-        },
-        {
-          "title": "消防隊員超勤加班 劉建國： 不能用嘉獎取代 - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQRVNIbEprSlZta1JLakRaVW1Zb1Zmckp3aFRqQUlibmxPRUlaMExqS0FMTE50Nnk4eG4ydGhvQUlrQnppRXI4RHpZc2hBZmR5TEFpdVQ4NExGSHk1aURBZ05KMHJ5anB6OHdkeHh6X01CdjZad1VzWUFGQXhHSVpMc1FpeDRCWDBJaGJyclN6MVExUlQ1T3dGa0gxckFwV0RXVlBTTlNmMEZ0d20tZjRQS1pGRTNWZ2VabUN6UmdZYU9qWUZsdENCS182VzVqQXVrMklrSnZaMncwc21SQkNEakl1Q3FYblZmbUJRZFk4eURpVEVONjdfdG9fR0Vmbjd6cXBRZHhUSk93dk8waGZiZ1UwUDk5a3E0S1hqUTZHXzVOTGQ2Z0poVVhqLUl6aDlhTkZ2clc3R2dKbFJIYjRkd3JCWURZdlB6QVdPeFc0cw",
-          "time": "2026-05-30 08:08:02"
         }
       ],
       "news": [
+        {
+          "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心 | 台灣生活新聞 - LINE TODAY",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kdkdqbWNIUFhaQWJ5TVg5Q2JyZWNlT1ZPbTNtZ0FZQVE3N1ZjV3BrdHRTMWhjVzdVYjJ4ZFFMY0FjRlJ5UUd3VGNYSFo4NVNzOE5HRWVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-15 19:13:34"
+        },
+        {
+          "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心 - TDN台灣生活新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kbGVvT0lfZlo2Ti1BM0drS2JDQmJsVXFkdjhKbU5yWDVHNUtyQzlMRU1aTkJyOXBSemcxMm1LZVlfUVllZ0VXeXV0X2QwSDNT?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-15 18:46:42"
+        },
         {
           "title": "立委劉建國邀環境部長彭啓明訪古坑 推動咖啡全株利用打造全國循環經濟示範基地 - 蕃新聞",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kUGVscE5Sb0JNYUtsNTFhemMxc3hWVGs3WEdLdEJaWTQ5SFRSVGdzbldUVTdkNUU4RmYyVXdpT3NWV1l5ODFDVE9rcUFVTXNRblE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1143,22 +1263,59 @@
           "title": "劉建國召開公共衛生師協調會 凝聚多項共識 推動公職制度與專業進用機制 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOSEkzWnFSWXhrYUR1djFZV1k2U0g5LTFwYmZtRjBlT29mZ2dILXJSdWZTOVNSQ2JsRldlMy14aGF4QmtNclNLRmxiME5SVEJ6UFlSd2dhQ3RhbHotNWdyNTJTZERhMVlBSFZPY2FYMVIxMV9SZE9YWERPWGl2ZWtXcEdMUmVEai03akF1ZFdlTkZHSzNvMGZNaFVYTEp0MXJtTDdWd3FzSF9uSGxGN0UtZThOUDZ4MXF0eHJIODlsOUcxTERIMFNEa3J6blgzeTVDbW1FZFpnaVNlenp1WDBmcWtEdE9PTm1XRjZ3eFpYM1FxT3B0OHRRNmxQWTViR2x1dkxrdXZjRUpVajA4WUg0R3Q5Wm50SkRtakRnOFpFRmpuQkdsdzc5b3dmLXRkSmJ1aDlyVXo5T081MFRBOUdCdjcxVkJ4Yllxa3U4clFTR2RnTUZnMzFjMElLNDB0WlJfZ1FCTHVlTDlKcHFoVGhXY1k0OXFNLXFSNlRySlV4c3FxUFlBc2M1OVRDQnRlSF90S2w2YUdXblhtTE5UUHdyTmZzajZiaExWbnhtMExXd2dhTXpNWWY2bFlfX2FZZjVLWVlNOXhPVGN3Q1B1WU4yMURNWU4yZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-13 17:17:38"
-        },
-        {
-          "title": "劉建國推公共衛生師制度改革 跨部會凝聚共識建構韌性台灣 | 觀傳媒 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KTDNCX2ZWVE1GWTJ4NzM0ZTYycVkxN19EcmRqTVdBQVFmTWhQMF9uOE1FNHRIY2xFNXNoQ25sSm9RUWpsb2dMbGxacW5uV3FQektRV1ZR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-13 00:36:52"
-        },
-        {
-          "title": "健保守護全民健康 立委劉建國：完善老幼照護網絡 打造健康幸福雲林 - 蕃新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LXzFUR00tV0Y3VWRkaHQtOElZUDhvUXA2Mi1ralFURTFwY2FLY21qRTNTclJWUlF1MDFmYVItejFqVXhRVlFhNlZYUTAxVFFvdlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-13 00:00:00"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "為推動咖啡產業全面升級，立法委員劉建國在6/15偕同環境部長彭啓明前往雲林古坑鄉，實地考察如何將咖啡產業的副產品與咖啡渣轉化為高值化循環商品。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AZBVV95cUxQRURhUU9YNWw1SEotN3VZcVgzZEN2VFNMUGdCdDd2alA3bVJQZGcyWklaWmhDV2ZnZVJNUVFuWll4SFltSHBoZjlnSUhEMUY3bTd2MW1rTFRxMGR4QjVGZG5UZGRuLUcwbDlKeE1DRkktajc1dGV0b3JjV29ZU3FDOE9rU08zd3lzZFFnYWxSUjhUZHZNUHo3bnpMNzFNMXBKVW9DVi1GaDB2OUF2TmswZk9LSVJKejV1b0RXTHhCTWNOOXBDRFVJN3JJWVRyUC0xaFAwUDJmblQtOXVXdmNFdGRhR0psbGNxNUJ1eF9wYXNWdGdGcUtOVlVFcV9rU0FYWFBYSkJMVFFGTlN0WDdEdzJqZWhzYmNkZ1ZUbzdXN2NUaWt1OExHWDZXV2o2czFuVE9Vc0VveXI5VE91NmhFckU3Y1l6dXl6NGR5aXNkME93Qk1mZVlYbXlxNFhDYjNkVDNVWjcxZndVbXZnUGlwT1BrUnhrZlBuRnVOVWZCdEM4eW5RRXRYam9HQVFIeEhtaXNMOUZmNG5LYUZwbTFiNjNEb1NZOVRTU09LdUhIQnZGTlZnRTlsVFIzRFpqUGhkaWJJMmd1a2pEdjliT0MxR2xlY05PYkdEa2R2Z2wtdFRiaWl6RHpJRTVuTmRvUUpJaHA3c2FrZjlnZndPMDdsRkR4SHlLX1Jzd29RbkR5VHVLUXhWX3VscDZ6UUljdWs5b2ZzVmNURWsxbEJHVTlycWhKaVoyVXZZNF9FNXNQVGtlWG1FYUo0cVhDN0x4d1RNWkctRWI3Skp0Q3RoOVJTVDRVYWt5cDNaYzczLVEtSllBeEVUNWx1NmYzS2VSSEs4TlQ3S2pKdjBXX1hrR3MzZHA0VnV4ZGRHdkY0TVFfdVJCVVNDUkstSjZPX2hGWXFXdUhqbVowRnpVd0dSNEl1UmtXOTY1NnVOOUx0b19UNnZRUUNZZjRYUXd1bG9RVnNZYW0yVzg1NjhwVWo4bzdQSnpSdTlDZ0ZqQVN2azUwaGJDalBreDhQRjFSWnU2anZqV2VMOGJRTW9Sc2hJaktWcUdWS01EdUtpZF8wUEVEMXR6QUdhaVczdW1MZVNXSE9yT1p1eEhOOHhlU3VYQjZUSFJCZEJ4eFNhVEtELVBSdVpfbTc3ekV3RFdSR1FYZlBGUGFPUQ",
+        "time": "2026-06-15 18:58:22"
+      },
+      {
+        "title": "為推動咖啡產業全面升級，立法委員劉建國在6/15偕同環境部長彭啓明前往雲林古坑鄉，實地考察如何將咖啡產業的副產品與咖啡渣轉化為高值化循環商品。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi9gZBVV95cUxOWnFWX2c3LXU5bGgzZy1SY3RPR1BsbDdsZEFmUlh0RWNXNG5INE91d0lodlFBX0RpNE9lbERPMW5fZUZDenNJNVJCNzJXUUIya1JIQ1hhbW5sSFZPX18tbko2a0sxYzlFOERMcF9TNWhlQ1V6Wnp5bEgyRmNLVjNQYmk4QUVyUkFmOWMwY2RhZGxmZllIeGpPb0x0YXlac0lIY3VuOFEyaWQ3Vk9VVUFwQXo3eW5GZmFjN3lxTlQ1b3I1Y1hhYUVTWEY3UDlnUklBOU5ScTBJNUVCbDhsSGh4TGJ2QVBzdlIxUDhTeW1HWHA3WWtRN0hNZUJMM1lvSUx5cW1sTm9LMEVBYjN2VFcyTlZqNUppZ21CWVgxZGVBYkZiLVF5WUpETTFvdTRnSmxaYS1OTlVvbU5SejhjaUtwSFJwWEtrQkZBYmFYalBCOFVrNG1IekZjSXByMzNicnZpQWhHUDk4UGJ6dVE1YzZiRkUxR3EzWTY0NG5LT3NoTXl2T0FiVWlxWlN5emI5VENWbFFKTUhUTXJDQWxOeGktZWVPLTVvQWN1Q0M5WGhXODRmSHdoTnNwS2luWkR0bkg3aFZUdXMtdUlZNFhSSXZHVGVNQXNMN1BWXzJkMHl3d0dLRFp6RWxla1had1dBdlp4dkhZa05rRElhaklQYVFUMUpTZkh6M3dHRmVsS3pCOE5UcjNac1JyZENuYVBPaElQMUFDejd3YnYwaU1QVFhWWFhQdWhtYk82UTFsNkZaN3dla1R3QTFhSzYtOTBTZklKdnpjMWFWcHdFNWExS2drVmw1emRkZ1dYMnJHVWN4ODdBYm1VQ3VQT043MEhqVkVpcndTMTc0UEhXY1ItN3BIR3ZNT2hSS3lPcEhKSzdNSFhPaHdWTV9NTXRaV1I5Nmo3NldxUGxiekNScUdpMnRMNTdVby12VHM4TUdEcGRzbV9hWHczZVlPNTEtVjdqQk9oWmZMWTVOS1NJeDZiVUdndE83cWVESkl6cXQyd3lhMUwxbXgteDU5Tl9jQjgxSGw5M2tjek1YbGNOSERUWmxxeEJjVDdZS0JuLXFvSWhwcENqbGZHX21mNWNGZjgwYUZkRHk3OHBEUy1oSlhMczdENUpWUVhpZHluOVRUTnpkbFdHanZISkoyaklfY3ZZQzByUU1qUnNB",
+        "time": "2026-06-15 18:58:20"
+      },
+      {
+        "title": "王育敏. . #為全台農民請命 #農民生計不是政府談判的犧牲品 4月底，張嘉郡委員、張麗善縣長和多位國民黨委員就已經公開示警，美國花生若以零關稅進口，勢必重創雲林花生價格，政府不能先斬後奏，更不能等到價格崩跌才亡羊補牢。 沒想到短短一個多月，雲林花生 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMioghBVV95cUxQOUxGaGVTXy04U1pqdmd4b1F6WkdiWHVDUUFiajJBdkZqcmR6d3R4ZHRWSVcxZHZaX3ctb0MxRGl4TWQwemNuUm5qV2xSNjZ3N3phM2lmaUFtcnZ3QUtIZm1JSVNPQzRYQTh4RFRBblNhaEt6MWUxVUwtZTRaZ1EzSHlMQ2FiTHVfejFyamkzbDNFdzM5UjNDNXA2VEVDNEhobDJsZHhhWmh4ZDE3QjlwSlJpMEdFNUpCdjl6eWxtSzNHZEpPak5CS0p1czh1TkhpMi13WUk3U0lqTzFoWWViTWZmNUIxaHVONHY5S3BwVHlwMW95U1pLWjczXzZYR04teHgtYlBYeUNxdVNWeTZZVXRSTW1tRjlPT2s1OXVpUkU0ajk0Um10bzNZeUFVRlcxd0M1TFBXNXRkWEd6SGJBc2RScnY4MlJxN1lOVTl2TWp5TVpWNDlLVFZZVzFMQ3d1OUlFYy1ZRkg1amo4MjN1SFFkQTRJZmoxM3VHWnJuaXphZ18yaTVhT1hwVTZEcmFXbWlXQXJaTjkzeDE0ZHZDOFJEMzlPVE1oZmk1STd4dTFqaVBFbWZac0J0MHdZYm45LUtNRDgya1JlN1Vrei1LNXJZbzRrQ056ZW8zbEFsMUZpQnlEN0JZbnVPN0VKei15WW56WVVYUXp4clRLa0hPaHcxZ0JFelJjOS14Z2RndlFwbGlmSjBSeEYybGFvRng4TWNwU1dmUW1Qa2FTY1dZMmVGMFdhOHhmcG9tcERTYmRJeUs3SW55bHBwODdBY2hzODJnTEZaaHF0dlpwamU3QVgzLUEwWng1QWI1b1QxclVNZU1GMVBRTC1TRkp3cTJHcmdMdFZBOEdlQjFFQ0VWQXo0OS0tZnFjbTZISWhMajJIY1lteGhaM1FKU2VPVjF0S20wekRkbnVUbmNZc3VGalc3cEVNRVVjbWhiNm5zN3laNGlpMnhuRlhhTzcyVkMzaVppczNYZ2RyYk44R1hfQzJGa2xRcGZIeUtsbmJDRHhVWTZwRmphNlFtaGVqb3dOQ0NjbGJhTVcyNndSNjRrWm9rdmhLOFFNWUxMZ19OdG1pYllNeHRsS2xrYzh1c3UzYnZsUTZHV21veWdlVHpSMWplZW51YnVkcVRnaHRhb0JpM3Vfb3F3VmplVDh5RldWaE5FdzVFc0x6bGN4WlJYTHgzVkdnU1c3WVhYNTA4Sm1SS1BudzdObWZleUhxandXNWd5Vmd5U0xIVlEzQ2hyQ2NoLUE2Y3IySkJqRnhNN1NIeENPRGZDQ1FHMHQ0dGYxWWVGNzhaNHRYNzd0X0s4ZW1WV1AtdDd0bmVqd2JCOTdVMnNvRkhlZW1jX0MxUFhvT21fcHl0WHphYlY2TktkSzBVbnd1VXR6cDc5NWdLbklDZw",
+        "time": "2026-06-15 17:40:08"
+      },
+      {
+        "title": "看了這支影片，保證你會多吃一粒粽子 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPMDJrWDN5TkZJVmc4S0JHVlVvUnRMWGotdzM5U1RZbTNZQ054OWFmYmVTRXd6c3JxMmlHcV9rR1BlVXdLYXlDa1ZVN2tHd0lfdEJDaXBVZ3VQQXkzNUlnZFlUS1B5YjVuc2VVeW11WnB0Q2hyUldjbUhLOUoyNnhCQ3JMVGs4OUhFNDNIMVlxSjI1VzdUeURBa1pVM3F6YkFuUktrQUFTamI1Tll1NGRDNXI2QjJ3VDB2M2lKcVh3MTFlcHR0U0tvR2NUa0RpTXJTaGs0d0EtTHRfYm9zdkFCU19Xd1h4MllxZWh5WFNlNXdmSmM4a2FTdGl5bkVNYy00bXlIRTRuaWNYTFFVVGhiVDQtV21nRzRBSnhXVDJyNDllN3VPaDdtdk80WQ",
+        "time": "2026-06-15 17:10:08"
+      },
+      {
+        "title": "劉建國 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnb1FtdFNjUUN0SVRmTjQ4NFlzbUltSXo1ekdYZ0drTnR6TDFXT29GcC03MGRoOTV2S0NnUkJPWlFqVTZ3dF9FaGlqWmo1M1BZRmFhQmhFVm9YYVJSS2xid3FQellJQ1pyNDA2UlJvSQ",
+        "time": "2026-06-15 13:53:02"
+      },
+      {
+        "title": "#守護社會安定的力量🧑‍✈️ #向波麗士大人致敬🙋‍♀️ 今天是 #警察節，也是我們 #斗六分局 新大樓正式啟用的好日子🎉看到員警們能在嶄新的大樓內辦公，真的很令人高興，嘉郡與縣府團隊會繼續努力為警察同仁爭取更好的工作環境💪 嘉郡在此也要向所有辛苦的執法 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMijwhBVV95cUxOcmFIZmhxM2JlTEZtaE9YVjQ5b3JydnBUaEZLRUM0aUtsVjRvbEsybC1CZERCaW1DMDJCcHhfSjQ4YWtwSWc4bTVBdE5QX05ZaVNVaS12ajNmUERDVm51QUdqb0lSZ0h4bThjSnlNYWVOWWpUYXhZUHVFVlJJYzltLUVJTjNWVlozcW5jZnA0YWtQVnNGcWgwcE9Zdm13SHI5aG9pdzJxYktrM2g1ZmFVY29DZENkb1BXOVlZUkl4NWVCX0tzTmp6MTBJOFA1bWZfbFFraEgteUkySGg2aGZ3S0lxekVxZFVpYjhtYWtSSnd5OExBWFpaYnc3anFtVEFiZEVfNERxYkI0dVhBRXBrWGxDcVFtMlN3bmNvWFNLYWUwZExvX1UxSHVpTlpYNjA4Yk9pUktEdFhzdDJsTlpvMk1UbkNLNktDSVFfbmtIamxWYjVsMjdFYmNlQjZSRGhSb3puc1ZhS3BHQ05HT3FYdkZJQU1QeElNOUdDMl9JYjVYZVM2dlBUU0lhcmRZWnlVY2MteHBfTnBtb241UWJyam5ZRjJoSjdHc2lMa25xTzVvZFMxYmdxYjBpQ3RUVXBrakZsZEpKUVF4S1FZaGxmZlktY3FPYjZHVTVLaVhsTlJFdC1ZbVRjbmh4YXNMYzhzYVk4MG1iUXZWS2VkaEYwSnVGRHpTa2VETTd4SlY3eC1id0dsbGpObWhiTFN4Q2Y2QzlGZmxIR0M3VktLUWFLbmxlbzgyR1NmWVBRN1pBZjNmclBXR1lNVk4wTHktVHdtS2pBaHRVdG1zUU9Eck9aSGJtYjFVUS1CeWNDUzhzeHVKZGtUNER3X1d4QmI0M2c2SWxKdVI5QWxyb1hoS2dpcVZFbWdQVGE3NW1UdG1WY0V3UzlSckxfZG1LWXBzUjIyUWIyUVlFdEhDOWVNeWZxR0hGYU9fV3c0TWFwbHE2VFd6U2sxZlZnWFBXdnVCUVUtZkc3ZmNuNjM5TVZhYW5ZajNWdW5Qa2RtdFI1Q2JFVXgycHR5Z21MdjJQZE9lQXNKVG5SR3RYV2hkZDVELVppaktQYjhZX0dhM2VRQ1RNWUpWRU8zWGdkZURhalpwNmZhcWlwYTlUcUhMMkUxblkybURoUDJ5ZmhDSzNFVHJFcE0yMzNHcWJacmk0eENKdGNneVVJM3N0QjhzTEZOYjRpNGFJd1ZYX0lfVkQyOGVIOEpveDdzWnlhY0tiZ3ZoQkdNaWdCQWItYnI0Q1pITjE1NDZTa0w4NzR1QTdxSkVEOTNUTk9sdVZOaU9MQjlhYWMxM0tCamxqcTVrbHUtSjI2TjkwemY5djB1Tm5WNHF3d2VoS1FfdjNLdk5jWEYwWmMxNVIxM2xnMnZrOWxoczdv",
+        "time": "2026-06-15 13:40:53"
+      },
+      {
+        "title": "今天是 #警察節 建國向全國警察致上最高的敬意！！ 警察同仁是保衛台灣社會安全的第一線急先鋒，是打擊犯罪、保護人民的最堅強力量。 也因此，建國從議員時期開始，就非常關注警察、消防員等第一線執勤人員的權益，諸如協助爭取超勤加班費，關注裝備汰換等問 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxPLVpVRGJ4N2hnWndBNk5YU1RqellSaFBOcHFROUdUQ3hvRnN0NDdfUlFYMVRILWRzNEh6WGg1UUc2TEtaZTI0MmhTbmlOWG5qSUJDOFlKOEhLc0kybmRhZTV2QUNBUERxZnNuVElUVDk2WGZaQ2xRTVB4ZEo5M0ZHS1kwLW85cUpSSXNLamRsWEVScFFyYWlmWUZseTIxQ2twTnB2ZUtIRER6SGNUMDMzVXNzd09EVTR1WU1BU3BYQThYRGZmbzFhSjl3MGV0OF8xTUZ0Sk1CZEZ6SmVVMmtYWTdkUmU4aGpNNDFmYS1hMXF2ZG9aTllTeHpNQ1MydHFGVWxCRndLMS1zdmZWTFY0QkszeFpaRjViMzh6cVRvcFR3bXc5VWgwX0RENFQwVjBySl9YT2otdktxbklOb3QzcEJkUHhUZ0pEU0F5Y1dJOThUZU1HVHRLUjVEUVdDbWtIcGttdUIwdTJScTdGaTlZTjNKenh5YnExWU1ZOThrRDU0TUw0WklIY3FLWm51T1RMNVZUTzlObmNRVFl1RFVIVGl5eFJ3T2xuQklYM0pmMUxDcGlKemVMdllpazRWQXgyQWZYTENwZTV4enp2V19iWXJsNXE4d1RwUFBTMEJ1Qms1MUdtOFdRMlZKem1nVmwyR19Cd0dWRmZPcElpdHkwNUN0NENNaU5EZWJHVmxuNGtvYzBqTUtFR09MUmVqaWxmckxGeFljVDFaS0JBVmc5c1ZaUklCVk8tbW1vbk5jbml3RlRsdWQtbXdLRUpJcy1IMnlJNl9jd19KbEx4ZGQwcTVhZXVkSVNhNm5jRDQtOVo3bTJZZ0lTdUVTc25UeTlDWW1OQ1FJSkgxbkhKYkp2TlBYYmxtV3J5S05wQzczM2xZbzA5WlNZZ1VGR3BKeC1US2ZyNjJWamRpQXNpRUtFSF9pWlpUQ0pKS3ZxSXJQM2VJTFp5RzVLQjVkNUZUQW12WTVWdGhOc0hKWlJCbGJPVURZUFNVRlBYR2MwcG9fcGVBdW5GRmliVnJ4c1ZBeFJ5YTRvV2NqSDhBS3R1ekdEYWROVENDSWdPREh1RmVoSV82WmViOVM0bXhCbFViblZYVFlKQVQ3SVhGMndRempkUDlJNTM1dHJ5eVBkY3FpNDRZRmg5b3ZvS0xzZHp1dGQ4NHpEMzRTWGItaV9ac3Z1bFRhWTRVU3Q2X2lNXzhHbU9YUGRTM24xYkNldllreTYyTDlDaUpIM2FhbENwZlZwRGxiV3RodGNxdUkwM3VrSWZlSXF3S1dUejJCX3ZKZldGOENXLVgzMlViNFk2dlFhaGRfRVNjenRfeVMtVVI2WW84dy1Eb1A1RE14a1dPLWR6TFVqUmZLN3Y3dGdqdmF4Wk1qV3NWRzdORVI5TFdJVmh2TmYy",
+        "time": "2026-06-15 10:17:28"
+      }
+    ],
     "news": [
+      {
+        "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心 | 台灣生活新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kdkdqbWNIUFhaQWJ5TVg5Q2JyZWNlT1ZPbTNtZ0FZQVE3N1ZjV3BrdHRTMWhjVzdVYjJ4ZFFMY0FjRlJ5UUd3VGNYSFo4NVNzOE5HRWVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-15 19:13:34"
+      },
+      {
+        "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心 - TDN台灣生活新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kbGVvT0lfZlo2Ti1BM0drS2JDQmJsVXFkdjhKbU5yWDVHNUtyQzlMRU1aTkJyOXBSemcxMm1LZVlfUVllZ0VXeXV0X2QwSDNT?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-15 18:46:42"
+      },
       {
         "title": "立委劉建國邀環境部長彭啓明訪古坑 推動咖啡全株利用打造全國循環經濟示範基地 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kUGVscE5Sb0JNYUtsNTFhemMxc3hWVGs3WEdLdEJaWTQ5SFRSVGdzbldUVTdkNUU4RmYyVXdpT3NWV1l5ODFDVE9rcUFVTXNRblE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1185,26 +1342,31 @@
         "time": "2026-06-14 22:35:37"
       }
     ],
-    "facebook": [
+    "youtube": [
       {
-        "title": "劉建國 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnb1FtdFNjUUN0SVRmTjQ4NFlzbUltSXo1ekdYZ0drTnR6TDFXT29GcC03MGRoOTV2S0NnUkJPWlFqVTZ3dF9FaGlqWmo1M1BZRmFhQmhFVm9YYVJSS2xid3FQellJQ1pyNDA2UlJvSQ",
-        "time": "2026-06-15 13:53:02"
+        "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=1fZO1ENToHk",
+        "time": "2026-06-15 18:42:36"
       },
       {
-        "title": "#守護社會安定的力量🧑‍✈️ #向波麗士大人致敬🙋‍♀️ 今天是 #警察節，也是我們 #斗六分局 新大樓正式啟用的好日子🎉看到員警們能在嶄新的大樓內辦公，真的很令人高興，嘉郡與縣府團隊會繼續努力為警察同仁爭取更好的工作環境💪 嘉郡在此也要向所有辛苦的執法 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMijwhBVV95cUxOcmFIZmhxM2JlTEZtaE9YVjQ5b3JydnBUaEZLRUM0aUtsVjRvbEsybC1CZERCaW1DMDJCcHhfSjQ4YWtwSWc4bTVBdE5QX05ZaVNVaS12ajNmUERDVm51QUdqb0lSZ0h4bThjSnlNYWVOWWpUYXhZUHVFVlJJYzltLUVJTjNWVlozcW5jZnA0YWtQVnNGcWgwcE9Zdm13SHI5aG9pdzJxYktrM2g1ZmFVY29DZENkb1BXOVlZUkl4NWVCX0tzTmp6MTBJOFA1bWZfbFFraEgteUkySGg2aGZ3S0lxekVxZFVpYjhtYWtSSnd5OExBWFpaYnc3anFtVEFiZEVfNERxYkI0dVhBRXBrWGxDcVFtMlN3bmNvWFNLYWUwZExvX1UxSHVpTlpYNjA4Yk9pUktEdFhzdDJsTlpvMk1UbkNLNktDSVFfbmtIamxWYjVsMjdFYmNlQjZSRGhSb3puc1ZhS3BHQ05HT3FYdkZJQU1QeElNOUdDMl9JYjVYZVM2dlBUU0lhcmRZWnlVY2MteHBfTnBtb241UWJyam5ZRjJoSjdHc2lMa25xTzVvZFMxYmdxYjBpQ3RUVXBrakZsZEpKUVF4S1FZaGxmZlktY3FPYjZHVTVLaVhsTlJFdC1ZbVRjbmh4YXNMYzhzYVk4MG1iUXZWS2VkaEYwSnVGRHpTa2VETTd4SlY3eC1id0dsbGpObWhiTFN4Q2Y2QzlGZmxIR0M3VktLUWFLbmxlbzgyR1NmWVBRN1pBZjNmclBXR1lNVk4wTHktVHdtS2pBaHRVdG1zUU9Eck9aSGJtYjFVUS1CeWNDUzhzeHVKZGtUNER3X1d4QmI0M2c2SWxKdVI5QWxyb1hoS2dpcVZFbWdQVGE3NW1UdG1WY0V3UzlSckxfZG1LWXBzUjIyUWIyUVlFdEhDOWVNeWZxR0hGYU9fV3c0TWFwbHE2VFd6U2sxZlZnWFBXdnVCUVUtZkc3ZmNuNjM5TVZhYW5ZajNWdW5Qa2RtdFI1Q2JFVXgycHR5Z21MdjJQZE9lQXNKVG5SR3RYV2hkZDVELVppaktQYjhZX0dhM2VRQ1RNWUpWRU8zWGdkZURhalpwNmZhcWlwYTlUcUhMMkUxblkybURoUDJ5ZmhDSzNFVHJFcE0yMzNHcWJacmk0eENKdGNneVVJM3N0QjhzTEZOYjRpNGFJd1ZYX0lfVkQyOGVIOEpveDdzWnlhY0tiZ3ZoQkdNaWdCQWItYnI0Q1pITjE1NDZTa0w4NzR1QTdxSkVEOTNUTk9sdVZOaU9MQjlhYWMxM0tCamxqcTVrbHUtSjI2TjkwemY5djB1Tm5WNHF3d2VoS1FfdjNLdk5jWEYwWmMxNVIxM2xnMnZrOWxoczdv",
-        "time": "2026-06-15 13:40:53"
-      },
-      {
-        "title": "今天是 #警察節 建國向全國警察致上最高的敬意！！ 警察同仁是保衛台灣社會安全的第一線急先鋒，是打擊犯罪、保護人民的最堅強力量。 也因此，建國從議員時期開始，就非常關注警察、消防員等第一線執勤人員的權益，諸如協助爭取超勤加班費，關注裝備汰換等問 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxPLVpVRGJ4N2hnWndBNk5YU1RqellSaFBOcHFROUdUQ3hvRnN0NDdfUlFYMVRILWRzNEh6WGg1UUc2TEtaZTI0MmhTbmlOWG5qSUJDOFlKOEhLc0kybmRhZTV2QUNBUERxZnNuVElUVDk2WGZaQ2xRTVB4ZEo5M0ZHS1kwLW85cUpSSXNLamRsWEVScFFyYWlmWUZseTIxQ2twTnB2ZUtIRER6SGNUMDMzVXNzd09EVTR1WU1BU3BYQThYRGZmbzFhSjl3MGV0OF8xTUZ0Sk1CZEZ6SmVVMmtYWTdkUmU4aGpNNDFmYS1hMXF2ZG9aTllTeHpNQ1MydHFGVWxCRndLMS1zdmZWTFY0QkszeFpaRjViMzh6cVRvcFR3bXc5VWgwX0RENFQwVjBySl9YT2otdktxbklOb3QzcEJkUHhUZ0pEU0F5Y1dJOThUZU1HVHRLUjVEUVdDbWtIcGttdUIwdTJScTdGaTlZTjNKenh5YnExWU1ZOThrRDU0TUw0WklIY3FLWm51T1RMNVZUTzlObmNRVFl1RFVIVGl5eFJ3T2xuQklYM0pmMUxDcGlKemVMdllpazRWQXgyQWZYTENwZTV4enp2V19iWXJsNXE4d1RwUFBTMEJ1Qms1MUdtOFdRMlZKem1nVmwyR19Cd0dWRmZPcElpdHkwNUN0NENNaU5EZWJHVmxuNGtvYzBqTUtFR09MUmVqaWxmckxGeFljVDFaS0JBVmc5c1ZaUklCVk8tbW1vbk5jbml3RlRsdWQtbXdLRUpJcy1IMnlJNl9jd19KbEx4ZGQwcTVhZXVkSVNhNm5jRDQtOVo3bTJZZ0lTdUVTc25UeTlDWW1OQ1FJSkgxbkhKYkp2TlBYYmxtV3J5S05wQzczM2xZbzA5WlNZZ1VGR3BKeC1US2ZyNjJWamRpQXNpRUtFSF9pWlpUQ0pKS3ZxSXJQM2VJTFp5RzVLQjVkNUZUQW12WTVWdGhOc0hKWlJCbGJPVURZUFNVRlBYR2MwcG9fcGVBdW5GRmliVnJ4c1ZBeFJ5YTRvV2NqSDhBS3R1ekdEYWROVENDSWdPREh1RmVoSV82WmViOVM0bXhCbFViblZYVFlKQVQ3SVhGMndRempkUDlJNTM1dHJ5eVBkY3FpNDRZRmg5b3ZvS0xzZHp1dGQ4NHpEMzRTWGItaV9ac3Z1bFRhWTRVU3Q2X2lNXzhHbU9YUGRTM24xYkNldllreTYyTDlDaUpIM2FhbENwZlZwRGxiV3RodGNxdUkwM3VrSWZlSXF3S1dUejJCX3ZKZldGOENXLVgzMlViNFk2dlFhaGRfRVNjenRfeVMtVVI2WW84dy1Eb1A1RE14a1dPLWR6TFVqUmZLN3Y3dGdqdmF4Wk1qV3NWRzdORVI5TFdJVmh2TmYy",
-        "time": "2026-06-15 10:17:28"
+        "title": "全新AED設備贈北港建國國中 延續守護生命理念 雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=ZewFUar-fF0",
+        "time": "2026-06-15 18:19:18"
       }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心 | 台灣生活新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kdkdqbWNIUFhaQWJ5TVg5Q2JyZWNlT1ZPbTNtZ0FZQVE3N1ZjV3BrdHRTMWhjVzdVYjJ4ZFFMY0FjRlJ5UUd3VGNYSFo4NVNzOE5HRWVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-15 19:13:34"
+      },
+      {
+        "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心 - TDN台灣生活新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kbGVvT0lfZlo2Ti1BM0drS2JDQmJsVXFkdjhKbU5yWDVHNUtyQzlMRU1aTkJyOXBSemcxMm1LZVlfUVllZ0VXeXV0X2QwSDNT?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-15 18:46:42"
+      },
       {
         "title": "立委劉建國邀環境部長彭啓明訪古坑 推動咖啡全株利用打造全國循環經濟示範基地 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kUGVscE5Sb0JNYUtsNTFhemMxc3hWVGs3WEdLdEJaWTQ5SFRSVGdzbldUVTdkNUU4RmYyVXdpT3NWV1l5ODFDVE9rcUFVTXNRblE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1394,19 +1556,29 @@
         "title": "豪雨衝擊採收非零關稅惹禍 劉建國促查緝炒作穩定花生價格 - 觀傳媒",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04Z0tCdjdvN0tFelh2YV9GdU5pNjFQZU1DcGJsREIydld2U3EwcGhaU2tsVHBXemtmM1NobHFCZUtnZzB6VW9MdnBNQXRvdmNWV3NEdUlQMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-11 18:53:22"
-      },
-      {
-        "title": "豪雨衝擊採收非零關稅惹禍 劉建國促查緝炒作穩定花生價格 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNcWU4TEdGbk1Nb0ZmN29yM1hNT2dEQ2ZRX3BXMnFlRFBfSVpUV3BaUjhITTE2c0JnczhDVU1LUlNEZzJQdUFsdmM4cWxEd3VqWExwVWdaekpkNVFJNENQQXpNbEZkQXYtNkh1S1RfMzZ3M2NFRDJrWWdKaXo0UzNEWjB2M1V6emd6TlQtemFOZm4xR094dnpzV1FSVkZYNVlndGNQUlJNZVozSjVoYm95ZU5CZnVibUxQUU1NQUFmeVZuUGVjVDNfSXpNajIwTDd3cng5MWd3LVQxTFJRWGhiUFhqTnJZQXVKWmdobURkaGFjVFF6ZWY1ZnVaZlNpeEpTWlluamk4djI4ZUx0TWN5a2kwNzdoY3p5LU9MZjBreVFEeWhBTk1zTG9ZWllHQ2ppR2d1cHJSR1lobG1vQ1BKZDhia01Ob0xxZFZhWXZtSk5ycm1VMl9FMHRybUJ4SHRTZnBQUlhLc3BHd2VsRWN5dDBLVHRob1VqQ01ZSmZOQ2RUcFJPUHZYc29lY3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-11 18:53:22"
-      },
-      {
-        "title": "豪雨衝擊採收非零關稅惹禍 劉建國促查緝炒作穩定花生價格 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41VTdBYnZwOTh2bU5LdHJHa0dZSVl5UTFaaTdvdnZPakpFZmd0eU8zeExyY1NlWGQ2NEp3ekJ1eFFnVXhQbDg0SzZpWTNsOWNVeVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-11 18:53:00"
       }
     ],
     "facebook": [
+      {
+        "title": "為推動咖啡產業全面升級，立法委員劉建國在6/15偕同環境部長彭啓明前往雲林古坑鄉，實地考察如何將咖啡產業的副產品與咖啡渣轉化為高值化循環商品。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AZBVV95cUxQRURhUU9YNWw1SEotN3VZcVgzZEN2VFNMUGdCdDd2alA3bVJQZGcyWklaWmhDV2ZnZVJNUVFuWll4SFltSHBoZjlnSUhEMUY3bTd2MW1rTFRxMGR4QjVGZG5UZGRuLUcwbDlKeE1DRkktajc1dGV0b3JjV29ZU3FDOE9rU08zd3lzZFFnYWxSUjhUZHZNUHo3bnpMNzFNMXBKVW9DVi1GaDB2OUF2TmswZk9LSVJKejV1b0RXTHhCTWNOOXBDRFVJN3JJWVRyUC0xaFAwUDJmblQtOXVXdmNFdGRhR0psbGNxNUJ1eF9wYXNWdGdGcUtOVlVFcV9rU0FYWFBYSkJMVFFGTlN0WDdEdzJqZWhzYmNkZ1ZUbzdXN2NUaWt1OExHWDZXV2o2czFuVE9Vc0VveXI5VE91NmhFckU3Y1l6dXl6NGR5aXNkME93Qk1mZVlYbXlxNFhDYjNkVDNVWjcxZndVbXZnUGlwT1BrUnhrZlBuRnVOVWZCdEM4eW5RRXRYam9HQVFIeEhtaXNMOUZmNG5LYUZwbTFiNjNEb1NZOVRTU09LdUhIQnZGTlZnRTlsVFIzRFpqUGhkaWJJMmd1a2pEdjliT0MxR2xlY05PYkdEa2R2Z2wtdFRiaWl6RHpJRTVuTmRvUUpJaHA3c2FrZjlnZndPMDdsRkR4SHlLX1Jzd29RbkR5VHVLUXhWX3VscDZ6UUljdWs5b2ZzVmNURWsxbEJHVTlycWhKaVoyVXZZNF9FNXNQVGtlWG1FYUo0cVhDN0x4d1RNWkctRWI3Skp0Q3RoOVJTVDRVYWt5cDNaYzczLVEtSllBeEVUNWx1NmYzS2VSSEs4TlQ3S2pKdjBXX1hrR3MzZHA0VnV4ZGRHdkY0TVFfdVJCVVNDUkstSjZPX2hGWXFXdUhqbVowRnpVd0dSNEl1UmtXOTY1NnVOOUx0b19UNnZRUUNZZjRYUXd1bG9RVnNZYW0yVzg1NjhwVWo4bzdQSnpSdTlDZ0ZqQVN2azUwaGJDalBreDhQRjFSWnU2anZqV2VMOGJRTW9Sc2hJaktWcUdWS01EdUtpZF8wUEVEMXR6QUdhaVczdW1MZVNXSE9yT1p1eEhOOHhlU3VYQjZUSFJCZEJ4eFNhVEtELVBSdVpfbTc3ekV3RFdSR1FYZlBGUGFPUQ",
+        "time": "2026-06-15 18:58:22"
+      },
+      {
+        "title": "為推動咖啡產業全面升級，立法委員劉建國在6/15偕同環境部長彭啓明前往雲林古坑鄉，實地考察如何將咖啡產業的副產品與咖啡渣轉化為高值化循環商品。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi9gZBVV95cUxOWnFWX2c3LXU5bGgzZy1SY3RPR1BsbDdsZEFmUlh0RWNXNG5INE91d0lodlFBX0RpNE9lbERPMW5fZUZDenNJNVJCNzJXUUIya1JIQ1hhbW5sSFZPX18tbko2a0sxYzlFOERMcF9TNWhlQ1V6Wnp5bEgyRmNLVjNQYmk4QUVyUkFmOWMwY2RhZGxmZllIeGpPb0x0YXlac0lIY3VuOFEyaWQ3Vk9VVUFwQXo3eW5GZmFjN3lxTlQ1b3I1Y1hhYUVTWEY3UDlnUklBOU5ScTBJNUVCbDhsSGh4TGJ2QVBzdlIxUDhTeW1HWHA3WWtRN0hNZUJMM1lvSUx5cW1sTm9LMEVBYjN2VFcyTlZqNUppZ21CWVgxZGVBYkZiLVF5WUpETTFvdTRnSmxaYS1OTlVvbU5SejhjaUtwSFJwWEtrQkZBYmFYalBCOFVrNG1IekZjSXByMzNicnZpQWhHUDk4UGJ6dVE1YzZiRkUxR3EzWTY0NG5LT3NoTXl2T0FiVWlxWlN5emI5VENWbFFKTUhUTXJDQWxOeGktZWVPLTVvQWN1Q0M5WGhXODRmSHdoTnNwS2luWkR0bkg3aFZUdXMtdUlZNFhSSXZHVGVNQXNMN1BWXzJkMHl3d0dLRFp6RWxla1had1dBdlp4dkhZa05rRElhaklQYVFUMUpTZkh6M3dHRmVsS3pCOE5UcjNac1JyZENuYVBPaElQMUFDejd3YnYwaU1QVFhWWFhQdWhtYk82UTFsNkZaN3dla1R3QTFhSzYtOTBTZklKdnpjMWFWcHdFNWExS2drVmw1emRkZ1dYMnJHVWN4ODdBYm1VQ3VQT043MEhqVkVpcndTMTc0UEhXY1ItN3BIR3ZNT2hSS3lPcEhKSzdNSFhPaHdWTV9NTXRaV1I5Nmo3NldxUGxiekNScUdpMnRMNTdVby12VHM4TUdEcGRzbV9hWHczZVlPNTEtVjdqQk9oWmZMWTVOS1NJeDZiVUdndE83cWVESkl6cXQyd3lhMUwxbXgteDU5Tl9jQjgxSGw5M2tjek1YbGNOSERUWmxxeEJjVDdZS0JuLXFvSWhwcENqbGZHX21mNWNGZjgwYUZkRHk3OHBEUy1oSlhMczdENUpWUVhpZHluOVRUTnpkbFdHanZISkoyaklfY3ZZQzByUU1qUnNB",
+        "time": "2026-06-15 18:58:20"
+      },
+      {
+        "title": "王育敏. . #為全台農民請命 #農民生計不是政府談判的犧牲品 4月底，張嘉郡委員、張麗善縣長和多位國民黨委員就已經公開示警，美國花生若以零關稅進口，勢必重創雲林花生價格，政府不能先斬後奏，更不能等到價格崩跌才亡羊補牢。 沒想到短短一個多月，雲林花生 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMioghBVV95cUxQOUxGaGVTXy04U1pqdmd4b1F6WkdiWHVDUUFiajJBdkZqcmR6d3R4ZHRWSVcxZHZaX3ctb0MxRGl4TWQwemNuUm5qV2xSNjZ3N3phM2lmaUFtcnZ3QUtIZm1JSVNPQzRYQTh4RFRBblNhaEt6MWUxVUwtZTRaZ1EzSHlMQ2FiTHVfejFyamkzbDNFdzM5UjNDNXA2VEVDNEhobDJsZHhhWmh4ZDE3QjlwSlJpMEdFNUpCdjl6eWxtSzNHZEpPak5CS0p1czh1TkhpMi13WUk3U0lqTzFoWWViTWZmNUIxaHVONHY5S3BwVHlwMW95U1pLWjczXzZYR04teHgtYlBYeUNxdVNWeTZZVXRSTW1tRjlPT2s1OXVpUkU0ajk0Um10bzNZeUFVRlcxd0M1TFBXNXRkWEd6SGJBc2RScnY4MlJxN1lOVTl2TWp5TVpWNDlLVFZZVzFMQ3d1OUlFYy1ZRkg1amo4MjN1SFFkQTRJZmoxM3VHWnJuaXphZ18yaTVhT1hwVTZEcmFXbWlXQXJaTjkzeDE0ZHZDOFJEMzlPVE1oZmk1STd4dTFqaVBFbWZac0J0MHdZYm45LUtNRDgya1JlN1Vrei1LNXJZbzRrQ056ZW8zbEFsMUZpQnlEN0JZbnVPN0VKei15WW56WVVYUXp4clRLa0hPaHcxZ0JFelJjOS14Z2RndlFwbGlmSjBSeEYybGFvRng4TWNwU1dmUW1Qa2FTY1dZMmVGMFdhOHhmcG9tcERTYmRJeUs3SW55bHBwODdBY2hzODJnTEZaaHF0dlpwamU3QVgzLUEwWng1QWI1b1QxclVNZU1GMVBRTC1TRkp3cTJHcmdMdFZBOEdlQjFFQ0VWQXo0OS0tZnFjbTZISWhMajJIY1lteGhaM1FKU2VPVjF0S20wekRkbnVUbmNZc3VGalc3cEVNRVVjbWhiNm5zN3laNGlpMnhuRlhhTzcyVkMzaVppczNYZ2RyYk44R1hfQzJGa2xRcGZIeUtsbmJDRHhVWTZwRmphNlFtaGVqb3dOQ0NjbGJhTVcyNndSNjRrWm9rdmhLOFFNWUxMZ19OdG1pYllNeHRsS2xrYzh1c3UzYnZsUTZHV21veWdlVHpSMWplZW51YnVkcVRnaHRhb0JpM3Vfb3F3VmplVDh5RldWaE5FdzVFc0x6bGN4WlJYTHgzVkdnU1c3WVhYNTA4Sm1SS1BudzdObWZleUhxandXNWd5Vmd5U0xIVlEzQ2hyQ2NoLUE2Y3IySkJqRnhNN1NIeENPRGZDQ1FHMHQ0dGYxWWVGNzhaNHRYNzd0X0s4ZW1WV1AtdDd0bmVqd2JCOTdVMnNvRkhlZW1jX0MxUFhvT21fcHl0WHphYlY2TktkSzBVbnd1VXR6cDc5NWdLbklDZw",
+        "time": "2026-06-15 17:40:08"
+      },
+      {
+        "title": "看了這支影片，保證你會多吃一粒粽子 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPMDJrWDN5TkZJVmc4S0JHVlVvUnRMWGotdzM5U1RZbTNZQ054OWFmYmVTRXd6c3JxMmlHcV9rR1BlVXdLYXlDa1ZVN2tHd0lfdEJDaXBVZ3VQQXkzNUlnZFlUS1B5YjVuc2VVeW11WnB0Q2hyUldjbUhLOUoyNnhCQ3JMVGs4OUhFNDNIMVlxSjI1VzdUeURBa1pVM3F6YkFuUktrQUFTamI1Tll1NGRDNXI2QjJ3VDB2M2lKcVh3MTFlcHR0U0tvR2NUa0RpTXJTaGs0d0EtTHRfYm9zdkFCU19Xd1h4MllxZWh5WFNlNXdmSmM4a2FTdGl5bkVNYy00bXlIRTRuaWNYTFFVVGhiVDQtV21nRzRBSnhXVDJyNDllN3VPaDdtdk80WQ",
+        "time": "2026-06-15 17:10:08"
+      },
       {
         "title": "劉建國 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnb1FtdFNjUUN0SVRmTjQ4NFlzbUltSXo1ekdYZ0drTnR6TDFXT29GcC03MGRoOTV2S0NnUkJPWlFqVTZ3dF9FaGlqWmo1M1BZRmFhQmhFVm9YYVJSS2xid3FQellJQ1pyNDA2UlJvSQ",
@@ -1580,6 +1752,16 @@
     ],
     "youtube": [
       {
+        "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=1fZO1ENToHk",
+        "time": "2026-06-15 18:42:36"
+      },
+      {
+        "title": "全新AED設備贈北港建國國中 延續守護生命理念 雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=ZewFUar-fF0",
+        "time": "2026-06-15 18:19:18"
+      },
+      {
         "title": "【LIVE主播+立委線上聊】 雲林花生價崩 張嘉郡:一個多月前示警還被說危言聳聽",
         "url": "https://www.youtube.com/watch?v=62YjKBKeCmo",
         "time": "2026-06-12 08:04:44"
@@ -1610,6 +1792,62 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心 | 台灣生活新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kdkdqbWNIUFhaQWJ5TVg5Q2JyZWNlT1ZPbTNtZ0FZQVE3N1ZjV3BrdHRTMWhjVzdVYjJ4ZFFMY0FjRlJ5UUd3VGNYSFo4NVNzOE5HRWVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-15 19:13:34",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "為推動咖啡產業全面升級，立法委員劉建國在6/15偕同環境部長彭啓明前往雲林古坑鄉，實地考察如何將咖啡產業的副產品與咖啡渣轉化為高值化循環商品。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AZBVV95cUxQRURhUU9YNWw1SEotN3VZcVgzZEN2VFNMUGdCdDd2alA3bVJQZGcyWklaWmhDV2ZnZVJNUVFuWll4SFltSHBoZjlnSUhEMUY3bTd2MW1rTFRxMGR4QjVGZG5UZGRuLUcwbDlKeE1DRkktajc1dGV0b3JjV29ZU3FDOE9rU08zd3lzZFFnYWxSUjhUZHZNUHo3bnpMNzFNMXBKVW9DVi1GaDB2OUF2TmswZk9LSVJKejV1b0RXTHhCTWNOOXBDRFVJN3JJWVRyUC0xaFAwUDJmblQtOXVXdmNFdGRhR0psbGNxNUJ1eF9wYXNWdGdGcUtOVlVFcV9rU0FYWFBYSkJMVFFGTlN0WDdEdzJqZWhzYmNkZ1ZUbzdXN2NUaWt1OExHWDZXV2o2czFuVE9Vc0VveXI5VE91NmhFckU3Y1l6dXl6NGR5aXNkME93Qk1mZVlYbXlxNFhDYjNkVDNVWjcxZndVbXZnUGlwT1BrUnhrZlBuRnVOVWZCdEM4eW5RRXRYam9HQVFIeEhtaXNMOUZmNG5LYUZwbTFiNjNEb1NZOVRTU09LdUhIQnZGTlZnRTlsVFIzRFpqUGhkaWJJMmd1a2pEdjliT0MxR2xlY05PYkdEa2R2Z2wtdFRiaWl6RHpJRTVuTmRvUUpJaHA3c2FrZjlnZndPMDdsRkR4SHlLX1Jzd29RbkR5VHVLUXhWX3VscDZ6UUljdWs5b2ZzVmNURWsxbEJHVTlycWhKaVoyVXZZNF9FNXNQVGtlWG1FYUo0cVhDN0x4d1RNWkctRWI3Skp0Q3RoOVJTVDRVYWt5cDNaYzczLVEtSllBeEVUNWx1NmYzS2VSSEs4TlQ3S2pKdjBXX1hrR3MzZHA0VnV4ZGRHdkY0TVFfdVJCVVNDUkstSjZPX2hGWXFXdUhqbVowRnpVd0dSNEl1UmtXOTY1NnVOOUx0b19UNnZRUUNZZjRYUXd1bG9RVnNZYW0yVzg1NjhwVWo4bzdQSnpSdTlDZ0ZqQVN2azUwaGJDalBreDhQRjFSWnU2anZqV2VMOGJRTW9Sc2hJaktWcUdWS01EdUtpZF8wUEVEMXR6QUdhaVczdW1MZVNXSE9yT1p1eEhOOHhlU3VYQjZUSFJCZEJ4eFNhVEtELVBSdVpfbTc3ekV3RFdSR1FYZlBGUGFPUQ",
+        "time": "2026-06-15 18:58:22",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
+        "title": "為推動咖啡產業全面升級，立法委員劉建國在6/15偕同環境部長彭啓明前往雲林古坑鄉，實地考察如何將咖啡產業的副產品與咖啡渣轉化為高值化循環商品。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi9gZBVV95cUxOWnFWX2c3LXU5bGgzZy1SY3RPR1BsbDdsZEFmUlh0RWNXNG5INE91d0lodlFBX0RpNE9lbERPMW5fZUZDenNJNVJCNzJXUUIya1JIQ1hhbW5sSFZPX18tbko2a0sxYzlFOERMcF9TNWhlQ1V6Wnp5bEgyRmNLVjNQYmk4QUVyUkFmOWMwY2RhZGxmZllIeGpPb0x0YXlac0lIY3VuOFEyaWQ3Vk9VVUFwQXo3eW5GZmFjN3lxTlQ1b3I1Y1hhYUVTWEY3UDlnUklBOU5ScTBJNUVCbDhsSGh4TGJ2QVBzdlIxUDhTeW1HWHA3WWtRN0hNZUJMM1lvSUx5cW1sTm9LMEVBYjN2VFcyTlZqNUppZ21CWVgxZGVBYkZiLVF5WUpETTFvdTRnSmxaYS1OTlVvbU5SejhjaUtwSFJwWEtrQkZBYmFYalBCOFVrNG1IekZjSXByMzNicnZpQWhHUDk4UGJ6dVE1YzZiRkUxR3EzWTY0NG5LT3NoTXl2T0FiVWlxWlN5emI5VENWbFFKTUhUTXJDQWxOeGktZWVPLTVvQWN1Q0M5WGhXODRmSHdoTnNwS2luWkR0bkg3aFZUdXMtdUlZNFhSSXZHVGVNQXNMN1BWXzJkMHl3d0dLRFp6RWxla1had1dBdlp4dkhZa05rRElhaklQYVFUMUpTZkh6M3dHRmVsS3pCOE5UcjNac1JyZENuYVBPaElQMUFDejd3YnYwaU1QVFhWWFhQdWhtYk82UTFsNkZaN3dla1R3QTFhSzYtOTBTZklKdnpjMWFWcHdFNWExS2drVmw1emRkZ1dYMnJHVWN4ODdBYm1VQ3VQT043MEhqVkVpcndTMTc0UEhXY1ItN3BIR3ZNT2hSS3lPcEhKSzdNSFhPaHdWTV9NTXRaV1I5Nmo3NldxUGxiekNScUdpMnRMNTdVby12VHM4TUdEcGRzbV9hWHczZVlPNTEtVjdqQk9oWmZMWTVOS1NJeDZiVUdndE83cWVESkl6cXQyd3lhMUwxbXgteDU5Tl9jQjgxSGw5M2tjek1YbGNOSERUWmxxeEJjVDdZS0JuLXFvSWhwcENqbGZHX21mNWNGZjgwYUZkRHk3OHBEUy1oSlhMczdENUpWUVhpZHluOVRUTnpkbFdHanZISkoyaklfY3ZZQzByUU1qUnNB",
+        "time": "2026-06-15 18:58:20",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
+        "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心 - TDN台灣生活新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kbGVvT0lfZlo2Ti1BM0drS2JDQmJsVXFkdjhKbU5yWDVHNUtyQzlMRU1aTkJyOXBSemcxMm1LZVlfUVllZ0VXeXV0X2QwSDNT?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-15 18:46:42",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=1fZO1ENToHk",
+        "time": "2026-06-15 18:42:36",
+        "platform": "youtube",
+        "risk": "綠"
+      },
+      {
+        "title": "全新AED設備贈北港建國國中 延續守護生命理念 雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=ZewFUar-fF0",
+        "time": "2026-06-15 18:19:18",
+        "platform": "youtube",
+        "risk": "綠"
+      },
+      {
+        "title": "王育敏. . #為全台農民請命 #農民生計不是政府談判的犧牲品 4月底，張嘉郡委員、張麗善縣長和多位國民黨委員就已經公開示警，美國花生若以零關稅進口，勢必重創雲林花生價格，政府不能先斬後奏，更不能等到價格崩跌才亡羊補牢。 沒想到短短一個多月，雲林花生 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMioghBVV95cUxQOUxGaGVTXy04U1pqdmd4b1F6WkdiWHVDUUFiajJBdkZqcmR6d3R4ZHRWSVcxZHZaX3ctb0MxRGl4TWQwemNuUm5qV2xSNjZ3N3phM2lmaUFtcnZ3QUtIZm1JSVNPQzRYQTh4RFRBblNhaEt6MWUxVUwtZTRaZ1EzSHlMQ2FiTHVfejFyamkzbDNFdzM5UjNDNXA2VEVDNEhobDJsZHhhWmh4ZDE3QjlwSlJpMEdFNUpCdjl6eWxtSzNHZEpPak5CS0p1czh1TkhpMi13WUk3U0lqTzFoWWViTWZmNUIxaHVONHY5S3BwVHlwMW95U1pLWjczXzZYR04teHgtYlBYeUNxdVNWeTZZVXRSTW1tRjlPT2s1OXVpUkU0ajk0Um10bzNZeUFVRlcxd0M1TFBXNXRkWEd6SGJBc2RScnY4MlJxN1lOVTl2TWp5TVpWNDlLVFZZVzFMQ3d1OUlFYy1ZRkg1amo4MjN1SFFkQTRJZmoxM3VHWnJuaXphZ18yaTVhT1hwVTZEcmFXbWlXQXJaTjkzeDE0ZHZDOFJEMzlPVE1oZmk1STd4dTFqaVBFbWZac0J0MHdZYm45LUtNRDgya1JlN1Vrei1LNXJZbzRrQ056ZW8zbEFsMUZpQnlEN0JZbnVPN0VKei15WW56WVVYUXp4clRLa0hPaHcxZ0JFelJjOS14Z2RndlFwbGlmSjBSeEYybGFvRng4TWNwU1dmUW1Qa2FTY1dZMmVGMFdhOHhmcG9tcERTYmRJeUs3SW55bHBwODdBY2hzODJnTEZaaHF0dlpwamU3QVgzLUEwWng1QWI1b1QxclVNZU1GMVBRTC1TRkp3cTJHcmdMdFZBOEdlQjFFQ0VWQXo0OS0tZnFjbTZISWhMajJIY1lteGhaM1FKU2VPVjF0S20wekRkbnVUbmNZc3VGalc3cEVNRVVjbWhiNm5zN3laNGlpMnhuRlhhTzcyVkMzaVppczNYZ2RyYk44R1hfQzJGa2xRcGZIeUtsbmJDRHhVWTZwRmphNlFtaGVqb3dOQ0NjbGJhTVcyNndSNjRrWm9rdmhLOFFNWUxMZ19OdG1pYllNeHRsS2xrYzh1c3UzYnZsUTZHV21veWdlVHpSMWplZW51YnVkcVRnaHRhb0JpM3Vfb3F3VmplVDh5RldWaE5FdzVFc0x6bGN4WlJYTHgzVkdnU1c3WVhYNTA4Sm1SS1BudzdObWZleUhxandXNWd5Vmd5U0xIVlEzQ2hyQ2NoLUE2Y3IySkJqRnhNN1NIeENPRGZDQ1FHMHQ0dGYxWWVGNzhaNHRYNzd0X0s4ZW1WV1AtdDd0bmVqd2JCOTdVMnNvRkhlZW1jX0MxUFhvT21fcHl0WHphYlY2TktkSzBVbnd1VXR6cDc5NWdLbklDZw",
+        "time": "2026-06-15 17:40:08",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
+        "title": "看了這支影片，保證你會多吃一粒粽子 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPMDJrWDN5TkZJVmc4S0JHVlVvUnRMWGotdzM5U1RZbTNZQ054OWFmYmVTRXd6c3JxMmlHcV9rR1BlVXdLYXlDa1ZVN2tHd0lfdEJDaXBVZ3VQQXkzNUlnZFlUS1B5YjVuc2VVeW11WnB0Q2hyUldjbUhLOUoyNnhCQ3JMVGs4OUhFNDNIMVlxSjI1VzdUeURBa1pVM3F6YkFuUktrQUFTamI1Tll1NGRDNXI2QjJ3VDB2M2lKcVh3MTFlcHR0U0tvR2NUa0RpTXJTaGs0d0EtTHRfYm9zdkFCU19Xd1h4MllxZWh5WFNlNXdmSmM4a2FTdGl5bkVNYy00bXlIRTRuaWNYTFFVVGhiVDQtV21nRzRBSnhXVDJyNDllN3VPaDdtdk80WQ",
+        "time": "2026-06-15 17:10:08",
+        "platform": "facebook",
+        "risk": "綠"
+      },
       {
         "title": "立委劉建國邀環境部長彭啓明訪古坑 推動咖啡全株利用打造全國循環經濟示範基地 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kUGVscE5Sb0JNYUtsNTFhemMxc3hWVGs3WEdLdEJaWTQ5SFRSVGdzbldUVTdkNUU4RmYyVXdpT3NWV1l5ODFDVE9rcUFVTXNRblE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1671,18 +1909,27 @@
   "regional_groups": {
     "regions": [
       {
-        "name": "古坑",
-        "count": 3
+        "name": "雲林",
+        "count": 7
       },
       {
-        "name": "雲林",
-        "count": 2
+        "name": "古坑",
+        "count": 5
       },
       {
         "name": "斗六",
         "count": 1
       }
     ],
-    "groups": []
+    "groups": [
+      {
+        "name": "工地/營造",
+        "count": 3
+      },
+      {
+        "name": "農業族群",
+        "count": 1
+      }
+    ]
   }
 }
