@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-06-16T08:00:46.160606+00:00",
+  "generated_at": "2026-06-16T08:16:08.599014+00:00",
   "metrics": {
-    "total_24h": 12,
-    "prev_24h": 9,
-    "growth_pct": 33.33,
-    "news_24h": 4,
+    "total_24h": 16,
+    "prev_24h": 10,
+    "growth_pct": 60.0,
+    "news_24h": 8,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 130,
+    "total": 135,
     "prev": 81,
-    "growth_pct": 60.49,
-    "news": 85,
+    "growth_pct": 66.67,
+    "news": 90,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -27,12 +27,12 @@
   },
   "by_platform": [
     {
-      "platform": "facebook",
-      "count": 6
+      "platform": "news",
+      "count": 8
     },
     {
-      "platform": "news",
-      "count": 4
+      "platform": "facebook",
+      "count": 6
     },
     {
       "platform": "youtube",
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 85
+      "count": 90
     },
     {
       "platform": "facebook",
@@ -72,7 +72,11 @@
     },
     {
       "hour": "2026-06-16 14:00",
-      "count": 1
+      "count": 3
+    },
+    {
+      "hour": "2026-06-16 15:00",
+      "count": 2
     }
   ],
   "by_hour_7d": [
@@ -282,7 +286,7 @@
     },
     {
       "hour": "2026-06-15 14:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-06-15 15:00",
@@ -306,13 +310,17 @@
     },
     {
       "hour": "2026-06-16 14:00",
-      "count": 1
+      "count": 3
+    },
+    {
+      "hour": "2026-06-16 15:00",
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 4
+      "count": 8
     },
     {
       "platform": "facebook",
@@ -325,6 +333,26 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "豪雨重創雲林花生 張嘉郡挺身護農：搶收泡水花生也應納天災補助 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPR210d0VPbkFHUi0zdklXMjhwb1Y4Z2JHM3dMOEpwUHBLcGRoTzJXODIzSFZZUE9UYjdja3pCaWljRmhQRVRVOE5RSXRhZ211SXVIM3Bqck1Yb2V5Q3J2Z283YTJudmhQbTY1QV9hZmg1dHFzeDZ0LV9rdTktX3ZFVjNZUDhnZUV2LVJCN0ExM3hnUW9aSGFURkE1NFBWbmRjTEEwb1NmbENzY1VsUDZ6U1NLZWZqZGs5cVJWYVJzbVlualFmN3FFZG14WVIwaHA3R3g2Nmp5MmZteHBfdVpqbWJJcmJ1SVdvbzkzS2Izc3gtYlBfODBxZFZKWno2Y010SXZYUDFHS2JEbEd4Ni1QSG1PaW5LdFVqTmppd3NPa05Jb28xQ1RhUjJTb3d1R3VnazA0MDl6M3NSdTRqM3BVc1pMMjRRQmNvUklJWGg4VVBzVk1KaUVQbG5SZnIwSTN0NkdNcXp2RE0xOUlTTUM2cGxBYk1uZVpvbTVlVXhKcGJtVmZlakpqTFA0T0tmbFVJbkJTSjZDYWNlOHRDMFVDMDlBWndZQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-16 15:08:02"
+      },
+      {
+        "title": "劉建國大力爭取！雲林全縣花生災損納入救助 每公頃提高至3.6萬元 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxNcjdQS0dxTFV1ZmdEcy1RaUs1QmllSU0yUnV0UDJxMzV1NXJEVnJyRjBRNjZPMUhKUk9Sc0Q1UzY1QXV4SV96OE1raWVmQ2VOOUtxRWw4czF6Zm5wQWFmZ3otNjQ1djNxTkdhandpUWFnd3RmRjZwYUlPTTFuRmVmQjBob0xDZmJWQS1MZW5nUlJWNEFMeENsWlU3c0xpTHVzWFczbG5UanhENXlNVUpWU1BsdEhKOWkzNGQySTg5OEx6SUtOLWdyeFNCVFZ6Uk04VFVXSFNDVnU5Rkw5N1N2cElCX29HMWF4SUNWa3B4ZjBDSEFDTHNWN3FnZW1XZDB4WHA4SzFjdlJ1OFZtYnRHb05nUUlLaHA5T3JxdXl6WGFRQnplOVpUQnJ5VTJsV0ZFZEl3aUszOWpwNHZqN0l3Q2NoOTZMRzhNR2FGVklZUDdpQUpnNTctM09ua0tnWktha0JIQldkX0pfajJhZjgwYVpTUy10VzVJM21GZTBHZ2RPTVlIOXQ1OFprT2sxX1pPRjFFTkRUZGNTcUZncFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-16 15:04:28"
+      },
+      {
+        "title": "豪雨重創雲林花生 張嘉郡籲從速、從寬、從簡補助 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ncmR5ckRLYVVDU1d6eUpoUzU0Qy02aTcxal9MWUFJOFl0bmxsM2RKTkhsaGFwODBYeDVLUm9IZkx0blJOclJHRmk4Q3JkN3JvUV9DNUp1VjhmRDJrOFlmTEwzR0pnUUVqM3Rmd1dn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-16 14:52:17"
+      },
+      {
+        "title": "豪雨重創！雲林花生搶收仍腐爛　張嘉郡籲農業部納入補助範圍 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BOVVNMXI5NExmVEpuZm5BZEwwdFJaYm5XZVR6N1FVRmh0N29abkhvZllzQUZvUjNZT05pb1Nac3RtNC1iMTFLeTl1ZW_SAVJBVV95cUxOY3BKbnRHNGpYaVFhQTQxa3dheUxsVC1RUEZ3M1NkWGxHODRMQ0U5bE1DaG9hcnBCQk1IMTRpZ3JFM0Zway1MTkpHZ3hjZTA4eGxB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-16 14:38:12"
+      },
       {
         "title": "劉建國爭取花生災損救助農業部公告雲林全縣納入救助範圍受0608豪雨重創每公頃救助金提高至3.6萬元、17日起受理申請 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uNEcyX3k5VjRPc3ZHNWRsTGtqX1ZUQ0VuQWREMTUtRnBERHhpVDVOWlpjb1ZYTGF3WERPMDVsdEdGM1BKX1JLSlVFWjhwZG5FQlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -379,7 +407,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 4
+      "count": 8
     },
     {
       "platform": "facebook",
@@ -392,6 +420,26 @@
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "豪雨重創雲林花生 張嘉郡挺身護農：搶收泡水花生也應納天災補助 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPR210d0VPbkFHUi0zdklXMjhwb1Y4Z2JHM3dMOEpwUHBLcGRoTzJXODIzSFZZUE9UYjdja3pCaWljRmhQRVRVOE5RSXRhZ211SXVIM3Bqck1Yb2V5Q3J2Z283YTJudmhQbTY1QV9hZmg1dHFzeDZ0LV9rdTktX3ZFVjNZUDhnZUV2LVJCN0ExM3hnUW9aSGFURkE1NFBWbmRjTEEwb1NmbENzY1VsUDZ6U1NLZWZqZGs5cVJWYVJzbVlualFmN3FFZG14WVIwaHA3R3g2Nmp5MmZteHBfdVpqbWJJcmJ1SVdvbzkzS2Izc3gtYlBfODBxZFZKWno2Y010SXZYUDFHS2JEbEd4Ni1QSG1PaW5LdFVqTmppd3NPa05Jb28xQ1RhUjJTb3d1R3VnazA0MDl6M3NSdTRqM3BVc1pMMjRRQmNvUklJWGg4VVBzVk1KaUVQbG5SZnIwSTN0NkdNcXp2RE0xOUlTTUM2cGxBYk1uZVpvbTVlVXhKcGJtVmZlakpqTFA0T0tmbFVJbkJTSjZDYWNlOHRDMFVDMDlBWndZQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-16 15:08:02"
+      },
+      {
+        "title": "劉建國大力爭取！雲林全縣花生災損納入救助 每公頃提高至3.6萬元 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxNcjdQS0dxTFV1ZmdEcy1RaUs1QmllSU0yUnV0UDJxMzV1NXJEVnJyRjBRNjZPMUhKUk9Sc0Q1UzY1QXV4SV96OE1raWVmQ2VOOUtxRWw4czF6Zm5wQWFmZ3otNjQ1djNxTkdhandpUWFnd3RmRjZwYUlPTTFuRmVmQjBob0xDZmJWQS1MZW5nUlJWNEFMeENsWlU3c0xpTHVzWFczbG5UanhENXlNVUpWU1BsdEhKOWkzNGQySTg5OEx6SUtOLWdyeFNCVFZ6Uk04VFVXSFNDVnU5Rkw5N1N2cElCX29HMWF4SUNWa3B4ZjBDSEFDTHNWN3FnZW1XZDB4WHA4SzFjdlJ1OFZtYnRHb05nUUlLaHA5T3JxdXl6WGFRQnplOVpUQnJ5VTJsV0ZFZEl3aUszOWpwNHZqN0l3Q2NoOTZMRzhNR2FGVklZUDdpQUpnNTctM09ua0tnWktha0JIQldkX0pfajJhZjgwYVpTUy10VzVJM21GZTBHZ2RPTVlIOXQ1OFprT2sxX1pPRjFFTkRUZGNTcUZncFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-16 15:04:28"
+      },
+      {
+        "title": "豪雨重創雲林花生 張嘉郡籲從速、從寬、從簡補助 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ncmR5ckRLYVVDU1d6eUpoUzU0Qy02aTcxal9MWUFJOFl0bmxsM2RKTkhsaGFwODBYeDVLUm9IZkx0blJOclJHRmk4Q3JkN3JvUV9DNUp1VjhmRDJrOFlmTEwzR0pnUUVqM3Rmd1dn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-16 14:52:17"
+      },
+      {
+        "title": "豪雨重創！雲林花生搶收仍腐爛　張嘉郡籲農業部納入補助範圍 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BOVVNMXI5NExmVEpuZm5BZEwwdFJaYm5XZVR6N1FVRmh0N29abkhvZllzQUZvUjNZT05pb1Nac3RtNC1iMTFLeTl1ZW_SAVJBVV95cUxOY3BKbnRHNGpYaVFhQTQxa3dheUxsVC1RUEZ3M1NkWGxHODRMQ0U5bE1DaG9hcnBCQk1IMTRpZ3JFM0Zway1MTkpHZ3hjZTA4eGxB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-16 14:38:12"
+      },
       {
         "title": "劉建國爭取花生災損救助農業部公告雲林全縣納入救助範圍受0608豪雨重創每公頃救助金提高至3.6萬元、17日起受理申請 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uNEcyX3k5VjRPc3ZHNWRsTGtqX1ZUQ0VuQWREMTUtRnBERHhpVDVOWlpjb1ZYTGF3WERPMDVsdEdGM1BKX1JLSlVFWjhwZG5FQlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -444,14 +492,34 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 2,
-    "劉建國": 7
+    "張嘉郡": 5,
+    "劉建國": 8
   },
   "mention_compare_7d": {
-    "張嘉郡": 53,
-    "劉建國": 54
+    "張嘉郡": 56,
+    "劉建國": 56
   },
   "top_news": [
+    {
+      "title": "豪雨重創雲林花生 張嘉郡挺身護農：搶收泡水花生也應納天災補助 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPR210d0VPbkFHUi0zdklXMjhwb1Y4Z2JHM3dMOEpwUHBLcGRoTzJXODIzSFZZUE9UYjdja3pCaWljRmhQRVRVOE5RSXRhZ211SXVIM3Bqck1Yb2V5Q3J2Z283YTJudmhQbTY1QV9hZmg1dHFzeDZ0LV9rdTktX3ZFVjNZUDhnZUV2LVJCN0ExM3hnUW9aSGFURkE1NFBWbmRjTEEwb1NmbENzY1VsUDZ6U1NLZWZqZGs5cVJWYVJzbVlualFmN3FFZG14WVIwaHA3R3g2Nmp5MmZteHBfdVpqbWJJcmJ1SVdvbzkzS2Izc3gtYlBfODBxZFZKWno2Y010SXZYUDFHS2JEbEd4Ni1QSG1PaW5LdFVqTmppd3NPa05Jb28xQ1RhUjJTb3d1R3VnazA0MDl6M3NSdTRqM3BVc1pMMjRRQmNvUklJWGg4VVBzVk1KaUVQbG5SZnIwSTN0NkdNcXp2RE0xOUlTTUM2cGxBYk1uZVpvbTVlVXhKcGJtVmZlakpqTFA0T0tmbFVJbkJTSjZDYWNlOHRDMFVDMDlBWndZQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-16 15:08:02"
+    },
+    {
+      "title": "劉建國大力爭取！雲林全縣花生災損納入救助 每公頃提高至3.6萬元 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxNcjdQS0dxTFV1ZmdEcy1RaUs1QmllSU0yUnV0UDJxMzV1NXJEVnJyRjBRNjZPMUhKUk9Sc0Q1UzY1QXV4SV96OE1raWVmQ2VOOUtxRWw4czF6Zm5wQWFmZ3otNjQ1djNxTkdhandpUWFnd3RmRjZwYUlPTTFuRmVmQjBob0xDZmJWQS1MZW5nUlJWNEFMeENsWlU3c0xpTHVzWFczbG5UanhENXlNVUpWU1BsdEhKOWkzNGQySTg5OEx6SUtOLWdyeFNCVFZ6Uk04VFVXSFNDVnU5Rkw5N1N2cElCX29HMWF4SUNWa3B4ZjBDSEFDTHNWN3FnZW1XZDB4WHA4SzFjdlJ1OFZtYnRHb05nUUlLaHA5T3JxdXl6WGFRQnplOVpUQnJ5VTJsV0ZFZEl3aUszOWpwNHZqN0l3Q2NoOTZMRzhNR2FGVklZUDdpQUpnNTctM09ua0tnWktha0JIQldkX0pfajJhZjgwYVpTUy10VzVJM21GZTBHZ2RPTVlIOXQ1OFprT2sxX1pPRjFFTkRUZGNTcUZncFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-16 15:04:28"
+    },
+    {
+      "title": "豪雨重創雲林花生 張嘉郡籲從速、從寬、從簡補助 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ncmR5ckRLYVVDU1d6eUpoUzU0Qy02aTcxal9MWUFJOFl0bmxsM2RKTkhsaGFwODBYeDVLUm9IZkx0blJOclJHRmk4Q3JkN3JvUV9DNUp1VjhmRDJrOFlmTEwzR0pnUUVqM3Rmd1dn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-16 14:52:17"
+    },
+    {
+      "title": "豪雨重創！雲林花生搶收仍腐爛　張嘉郡籲農業部納入補助範圍 - NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BOVVNMXI5NExmVEpuZm5BZEwwdFJaYm5XZVR6N1FVRmh0N29abkhvZllzQUZvUjNZT05pb1Nac3RtNC1iMTFLeTl1ZW_SAVJBVV95cUxOY3BKbnRHNGpYaVFhQTQxa3dheUxsVC1RUEZ3M1NkWGxHODRMQ0U5bE1DaG9hcnBCQk1IMTRpZ3JFM0Zway1MTkpHZ3hjZTA4eGxB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-16 14:38:12"
+    },
     {
       "title": "劉建國爭取花生災損救助農業部公告雲林全縣納入救助範圍受0608豪雨重創每公頃救助金提高至3.6萬元、17日起受理申請 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uNEcyX3k5VjRPc3ZHNWRsTGtqX1ZUQ0VuQWREMTUtRnBERHhpVDVOWlpjb1ZYTGF3WERPMDVsdEdGM1BKX1JLSlVFWjhwZG5FQlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -474,6 +542,26 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "豪雨重創雲林花生 張嘉郡挺身護農：搶收泡水花生也應納天災補助 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPR210d0VPbkFHUi0zdklXMjhwb1Y4Z2JHM3dMOEpwUHBLcGRoTzJXODIzSFZZUE9UYjdja3pCaWljRmhQRVRVOE5RSXRhZ211SXVIM3Bqck1Yb2V5Q3J2Z283YTJudmhQbTY1QV9hZmg1dHFzeDZ0LV9rdTktX3ZFVjNZUDhnZUV2LVJCN0ExM3hnUW9aSGFURkE1NFBWbmRjTEEwb1NmbENzY1VsUDZ6U1NLZWZqZGs5cVJWYVJzbVlualFmN3FFZG14WVIwaHA3R3g2Nmp5MmZteHBfdVpqbWJJcmJ1SVdvbzkzS2Izc3gtYlBfODBxZFZKWno2Y010SXZYUDFHS2JEbEd4Ni1QSG1PaW5LdFVqTmppd3NPa05Jb28xQ1RhUjJTb3d1R3VnazA0MDl6M3NSdTRqM3BVc1pMMjRRQmNvUklJWGg4VVBzVk1KaUVQbG5SZnIwSTN0NkdNcXp2RE0xOUlTTUM2cGxBYk1uZVpvbTVlVXhKcGJtVmZlakpqTFA0T0tmbFVJbkJTSjZDYWNlOHRDMFVDMDlBWndZQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-16 15:08:02"
+    },
+    {
+      "title": "劉建國大力爭取！雲林全縣花生災損納入救助 每公頃提高至3.6萬元 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxNcjdQS0dxTFV1ZmdEcy1RaUs1QmllSU0yUnV0UDJxMzV1NXJEVnJyRjBRNjZPMUhKUk9Sc0Q1UzY1QXV4SV96OE1raWVmQ2VOOUtxRWw4czF6Zm5wQWFmZ3otNjQ1djNxTkdhandpUWFnd3RmRjZwYUlPTTFuRmVmQjBob0xDZmJWQS1MZW5nUlJWNEFMeENsWlU3c0xpTHVzWFczbG5UanhENXlNVUpWU1BsdEhKOWkzNGQySTg5OEx6SUtOLWdyeFNCVFZ6Uk04VFVXSFNDVnU5Rkw5N1N2cElCX29HMWF4SUNWa3B4ZjBDSEFDTHNWN3FnZW1XZDB4WHA4SzFjdlJ1OFZtYnRHb05nUUlLaHA5T3JxdXl6WGFRQnplOVpUQnJ5VTJsV0ZFZEl3aUszOWpwNHZqN0l3Q2NoOTZMRzhNR2FGVklZUDdpQUpnNTctM09ua0tnWktha0JIQldkX0pfajJhZjgwYVpTUy10VzVJM21GZTBHZ2RPTVlIOXQ1OFprT2sxX1pPRjFFTkRUZGNTcUZncFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-16 15:04:28"
+    },
+    {
+      "title": "豪雨重創雲林花生 張嘉郡籲從速、從寬、從簡補助 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ncmR5ckRLYVVDU1d6eUpoUzU0Qy02aTcxal9MWUFJOFl0bmxsM2RKTkhsaGFwODBYeDVLUm9IZkx0blJOclJHRmk4Q3JkN3JvUV9DNUp1VjhmRDJrOFlmTEwzR0pnUUVqM3Rmd1dn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-16 14:52:17"
+    },
+    {
+      "title": "豪雨重創！雲林花生搶收仍腐爛　張嘉郡籲農業部納入補助範圍 - NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BOVVNMXI5NExmVEpuZm5BZEwwdFJaYm5XZVR6N1FVRmh0N29abkhvZllzQUZvUjNZT05pb1Nac3RtNC1iMTFLeTl1ZW_SAVJBVV95cUxOY3BKbnRHNGpYaVFhQTQxa3dheUxsVC1RUEZ3M1NkWGxHODRMQ0U5bE1DaG9hcnBCQk1IMTRpZ3JFM0Zway1MTkpHZ3hjZTA4eGxB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-16 14:38:12"
+    },
     {
       "title": "劉建國爭取花生災損救助農業部公告雲林全縣納入救助範圍受0608豪雨重創每公頃救助金提高至3.6萬元、17日起受理申請 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uNEcyX3k5VjRPc3ZHNWRsTGtqX1ZUQ0VuQWREMTUtRnBERHhpVDVOWlpjb1ZYTGF3WERPMDVsdEdGM1BKX1JLSlVFWjhwZG5FQlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -503,6 +591,11 @@
       "title": "劉建國邀環境部長彭啓明訪古坑 推動咖啡全株利用 打造全國循環經濟示範基地 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNSGx6U3dIWkt4SVM0VW45R0tSQktxSWlvUDJrMGxhRDZidjJOUnZVR3dEYkNKWjJtdlNqTjVLU2lXMjIxelpPVHROYjNMYUZTbDBkaFZfaFZydksyWWhRSGZvUTdBMm1fWGdheHRkYjgxSVRDQ0daRWxFNlpNc3BJaDdpeU1mbzZFbEQ2cHVJREd2ZmxSNWZlbjNqLS1wSXktcmNsZGRxNk9QbGp4TGlxRkVLOE85M2Q0VGZodVFrRElvWG1TTHo0RE9ueHJpXzVmb0FPTkFNb0JZWTQ3M19QeWNQeUZBUF9QTjIyZDRvZmVnZHM4dk0yXzA5RFBWTTdfSWFMTEpac0lNVTVjYmoyQVJERzl5RFRlaVQ0cXhvV1NLQ3dFVHZ1elhlWjloZVQwT3ZJQzA0RzBxLVhTYzVDcWQzU1BnR0g0bDlvVFYxLTVlVXNKVEwzbnRBSWpoUlFPM3ZLYTI1VG5tNXVDOXFRM2FobUZ0d21rTlhpTzEzWHhIX29GajhkNTJndURtSjZJWnQ4cG5ZSUp4cmpQTkhpNkFBd1RVTUVFUVpNTGZrMWVVZTA1bW5JcE1DSHdXQ0tFaGVMN2VNTGNfbWpmZ1B2MXQwZzZqaXZJUG9VMjA5TFM0RnZJWW5qSUxUTFNqZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-15 15:08:51"
+    },
+    {
+      "title": "劉建國邀環境部長彭啓明訪古坑 推動咖啡全株利用 打造全國循環經濟示範基地 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQXFEVTFXdC0wX19OYkhiRDlKMGVIZ0ltclpMSEg0VVpoWmx6MG5kNlhjbHgybUhxenFTZ050S3pKLU9mZm1kekZ3NHd3Ymx4X0oxMGxwTjV1cDBZZE5fdDVJbmJseU9SblVtN2hLZ1loNzRZOVVZak9ieGgtZDBQOEpXSWwwVGwzTVFXaUlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-15 14:55:25"
     },
     {
       "title": "劉建國邀彭啓明訪古坑　推咖啡副產品再利用創新商機 - ETtoday新聞雲",
@@ -548,31 +641,6 @@
       "title": "健保守護超高齡雲林 劉建國推在地醫療與長照整合升級 - 元丰傳媒",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pNDNrdEZXWk9OWVhDTC1GYnJWS2F0Mk1qMTJrME5DN1ZVNDBUWnhrQjBMUng1UVNVMGh3R0FMMTloSzhBNnNSZ253UmdoQWhONW1jU1NmX3ZndU5qNWd2MTZRU2NWYmdR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-13 20:32:03"
-    },
-    {
-      "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - 四季線上4gTV",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtQjU5X202cVQxV0lqZFJDNDN3RkNLbzBIajg4cXhTNDFQT0pHUW13TTJueE8wcHZKem96bF9iX3lCVzlWZ2xkaUM0ZXNLZjU2VktCbU1BLVlJb0FCLWN4RGMzY0NBOVVKT2JLcFNB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-13 20:30:57"
-    },
-    {
-      "title": "雲林健保宣導登場 劉建國：打造老幼照顧更完整醫療網 - 政府消息新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU1VOZjNBUzI3X0VOUjhCRlN3TUMzR1otQVp0bjZpWE1NRU0xWnZRQnNKblNZcXJaVkVTb2ZCek5Bdl9mdVN3TFlpWTJibjhEOG84cFlKUDRySmNmWHgtT1dQM0FTUHk0czByQk1TUFlkUjN6WldQWEd6cTh6Nm5mQlJEdzBkNzk4NFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-13 20:27:20"
-    },
-    {
-      "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 | 民視新聞網 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lWFBiZWZYMTJ1NXh4MlJYUDhUY0hyY21heHhabnp2TW11SDFUWVRHUEp4bV82eXhpb09EUGhCUUFYeldzT3FkdjZESkM1Sk5IRzA5VjBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-13 19:46:51"
-    },
-    {
-      "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPWVJTQ2tCWTM0Y3Y2SzAxeWFGMU1fNzlmRndQWTZ1Mlh5MlRwd2d1bVAtWW1NWkhBRDUwcUJiMHZlZEw5d0xNaW4yYmQtMGRrNHdxNDNIcm5tSTlaZUV4MTBPWVp1NEI1TFBmSWJKV2xISlYteC1oT2NiODBzbE8tb3YyNVBFWnZMYl8yZVluYXpWRHBZSmxmYV9zYkQ3c2ZXaC1ZeVNmT0ZXc1BKVjlnVVAyemFyR1c3dExTaWZoUEVISzI0UFNoRFpoRVEwd2NiRHczSFQ2aVpVSWRaNUZMRjdYT1htbjhMQXU5YkZ1Rng3TFZrQW04MTM2TDYyS0NOSkxHOF9OZDZmSEl3VWltUjFUV1EtWktBMFdRZTZiYzhlNnY5ZHdIRW92bmRnUFJpeDdaSXB2WUpfTzl6czNCb3pucV9lRjhiVUswOFZzdVFwWTZjcmM1Y3Z3c1BIc0xIVWc0MFhaZVFGQU5KVC1IbUhGcE9VZU5oLWpSWWJLbXFsX0U1UXNXTkZKUllVVGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-13 19:11:59"
-    },
-    {
-      "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - 民視新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HYXB4MmZ5RTRQQTl1djhfa05DV3ltUjJOdk84N1JydkZRNUNaMU81X1ZpQ3BNUUxQSllOdTE4d3BrYm0tdXVfUk5pcGFfVnFFUnI4cFppRHZLQ2JqLVhGbg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-13 19:11:59"
     }
   ],
   "latest_facebook_20": [
@@ -679,6 +747,26 @@
   ],
   "latest_news_20": [
     {
+      "title": "豪雨重創雲林花生 張嘉郡挺身護農：搶收泡水花生也應納天災補助 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPR210d0VPbkFHUi0zdklXMjhwb1Y4Z2JHM3dMOEpwUHBLcGRoTzJXODIzSFZZUE9UYjdja3pCaWljRmhQRVRVOE5RSXRhZ211SXVIM3Bqck1Yb2V5Q3J2Z283YTJudmhQbTY1QV9hZmg1dHFzeDZ0LV9rdTktX3ZFVjNZUDhnZUV2LVJCN0ExM3hnUW9aSGFURkE1NFBWbmRjTEEwb1NmbENzY1VsUDZ6U1NLZWZqZGs5cVJWYVJzbVlualFmN3FFZG14WVIwaHA3R3g2Nmp5MmZteHBfdVpqbWJJcmJ1SVdvbzkzS2Izc3gtYlBfODBxZFZKWno2Y010SXZYUDFHS2JEbEd4Ni1QSG1PaW5LdFVqTmppd3NPa05Jb28xQ1RhUjJTb3d1R3VnazA0MDl6M3NSdTRqM3BVc1pMMjRRQmNvUklJWGg4VVBzVk1KaUVQbG5SZnIwSTN0NkdNcXp2RE0xOUlTTUM2cGxBYk1uZVpvbTVlVXhKcGJtVmZlakpqTFA0T0tmbFVJbkJTSjZDYWNlOHRDMFVDMDlBWndZQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-16 15:08:02"
+    },
+    {
+      "title": "劉建國大力爭取！雲林全縣花生災損納入救助 每公頃提高至3.6萬元 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxNcjdQS0dxTFV1ZmdEcy1RaUs1QmllSU0yUnV0UDJxMzV1NXJEVnJyRjBRNjZPMUhKUk9Sc0Q1UzY1QXV4SV96OE1raWVmQ2VOOUtxRWw4czF6Zm5wQWFmZ3otNjQ1djNxTkdhandpUWFnd3RmRjZwYUlPTTFuRmVmQjBob0xDZmJWQS1MZW5nUlJWNEFMeENsWlU3c0xpTHVzWFczbG5UanhENXlNVUpWU1BsdEhKOWkzNGQySTg5OEx6SUtOLWdyeFNCVFZ6Uk04VFVXSFNDVnU5Rkw5N1N2cElCX29HMWF4SUNWa3B4ZjBDSEFDTHNWN3FnZW1XZDB4WHA4SzFjdlJ1OFZtYnRHb05nUUlLaHA5T3JxdXl6WGFRQnplOVpUQnJ5VTJsV0ZFZEl3aUszOWpwNHZqN0l3Q2NoOTZMRzhNR2FGVklZUDdpQUpnNTctM09ua0tnWktha0JIQldkX0pfajJhZjgwYVpTUy10VzVJM21GZTBHZ2RPTVlIOXQ1OFprT2sxX1pPRjFFTkRUZGNTcUZncFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-16 15:04:28"
+    },
+    {
+      "title": "豪雨重創雲林花生 張嘉郡籲從速、從寬、從簡補助 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ncmR5ckRLYVVDU1d6eUpoUzU0Qy02aTcxal9MWUFJOFl0bmxsM2RKTkhsaGFwODBYeDVLUm9IZkx0blJOclJHRmk4Q3JkN3JvUV9DNUp1VjhmRDJrOFlmTEwzR0pnUUVqM3Rmd1dn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-16 14:52:17"
+    },
+    {
+      "title": "豪雨重創！雲林花生搶收仍腐爛　張嘉郡籲農業部納入補助範圍 - NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BOVVNMXI5NExmVEpuZm5BZEwwdFJaYm5XZVR6N1FVRmh0N29abkhvZllzQUZvUjNZT05pb1Nac3RtNC1iMTFLeTl1ZW_SAVJBVV95cUxOY3BKbnRHNGpYaVFhQTQxa3dheUxsVC1RUEZ3M1NkWGxHODRMQ0U5bE1DaG9hcnBCQk1IMTRpZ3JFM0Zway1MTkpHZ3hjZTA4eGxB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-16 14:38:12"
+    },
+    {
       "title": "劉建國爭取花生災損救助農業部公告雲林全縣納入救助範圍受0608豪雨重創每公頃救助金提高至3.6萬元、17日起受理申請 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uNEcyX3k5VjRPc3ZHNWRsTGtqX1ZUQ0VuQWREMTUtRnBERHhpVDVOWlpjb1ZYTGF3WERPMDVsdEdGM1BKX1JLSlVFWjhwZG5FQlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-16 13:56:00"
@@ -707,6 +795,11 @@
       "title": "劉建國邀環境部長彭啓明訪古坑 推動咖啡全株利用 打造全國循環經濟示範基地 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNSGx6U3dIWkt4SVM0VW45R0tSQktxSWlvUDJrMGxhRDZidjJOUnZVR3dEYkNKWjJtdlNqTjVLU2lXMjIxelpPVHROYjNMYUZTbDBkaFZfaFZydksyWWhRSGZvUTdBMm1fWGdheHRkYjgxSVRDQ0daRWxFNlpNc3BJaDdpeU1mbzZFbEQ2cHVJREd2ZmxSNWZlbjNqLS1wSXktcmNsZGRxNk9QbGp4TGlxRkVLOE85M2Q0VGZodVFrRElvWG1TTHo0RE9ueHJpXzVmb0FPTkFNb0JZWTQ3M19QeWNQeUZBUF9QTjIyZDRvZmVnZHM4dk0yXzA5RFBWTTdfSWFMTEpac0lNVTVjYmoyQVJERzl5RFRlaVQ0cXhvV1NLQ3dFVHZ1elhlWjloZVQwT3ZJQzA0RzBxLVhTYzVDcWQzU1BnR0g0bDlvVFYxLTVlVXNKVEwzbnRBSWpoUlFPM3ZLYTI1VG5tNXVDOXFRM2FobUZ0d21rTlhpTzEzWHhIX29GajhkNTJndURtSjZJWnQ4cG5ZSUp4cmpQTkhpNkFBd1RVTUVFUVpNTGZrMWVVZTA1bW5JcE1DSHdXQ0tFaGVMN2VNTGNfbWpmZ1B2MXQwZzZqaXZJUG9VMjA5TFM0RnZJWW5qSUxUTFNqZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-15 15:08:51"
+    },
+    {
+      "title": "劉建國邀環境部長彭啓明訪古坑 推動咖啡全株利用 打造全國循環經濟示範基地 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQXFEVTFXdC0wX19OYkhiRDlKMGVIZ0ltclpMSEg0VVpoWmx6MG5kNlhjbHgybUhxenFTZ050S3pKLU9mZm1kekZ3NHd3Ymx4X0oxMGxwTjV1cDBZZE5fdDVJbmJseU9SblVtN2hLZ1loNzRZOVVZak9ieGgtZDBQOEpXSWwwVGwzTVFXaUlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-15 14:55:25"
     },
     {
       "title": "劉建國邀彭啓明訪古坑　推咖啡副產品再利用創新商機 - ETtoday新聞雲",
@@ -752,31 +845,6 @@
       "title": "健保守護超高齡雲林 劉建國推在地醫療與長照整合升級 - 元丰傳媒",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pNDNrdEZXWk9OWVhDTC1GYnJWS2F0Mk1qMTJrME5DN1ZVNDBUWnhrQjBMUng1UVNVMGh3R0FMMTloSzhBNnNSZ253UmdoQWhONW1jU1NmX3ZndU5qNWd2MTZRU2NWYmdR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-13 20:32:03"
-    },
-    {
-      "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - 四季線上4gTV",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtQjU5X202cVQxV0lqZFJDNDN3RkNLbzBIajg4cXhTNDFQT0pHUW13TTJueE8wcHZKem96bF9iX3lCVzlWZ2xkaUM0ZXNLZjU2VktCbU1BLVlJb0FCLWN4RGMzY0NBOVVKT2JLcFNB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-13 20:30:57"
-    },
-    {
-      "title": "雲林健保宣導登場 劉建國：打造老幼照顧更完整醫療網 - 政府消息新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU1VOZjNBUzI3X0VOUjhCRlN3TUMzR1otQVp0bjZpWE1NRU0xWnZRQnNKblNZcXJaVkVTb2ZCek5Bdl9mdVN3TFlpWTJibjhEOG84cFlKUDRySmNmWHgtT1dQM0FTUHk0czByQk1TUFlkUjN6WldQWEd6cTh6Nm5mQlJEdzBkNzk4NFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-13 20:27:20"
-    },
-    {
-      "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 | 民視新聞網 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lWFBiZWZYMTJ1NXh4MlJYUDhUY0hyY21heHhabnp2TW11SDFUWVRHUEp4bV82eXhpb09EUGhCUUFYeldzT3FkdjZESkM1Sk5IRzA5VjBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-13 19:46:51"
-    },
-    {
-      "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPWVJTQ2tCWTM0Y3Y2SzAxeWFGMU1fNzlmRndQWTZ1Mlh5MlRwd2d1bVAtWW1NWkhBRDUwcUJiMHZlZEw5d0xNaW4yYmQtMGRrNHdxNDNIcm5tSTlaZUV4MTBPWVp1NEI1TFBmSWJKV2xISlYteC1oT2NiODBzbE8tb3YyNVBFWnZMYl8yZVluYXpWRHBZSmxmYV9zYkQ3c2ZXaC1ZeVNmT0ZXc1BKVjlnVVAyemFyR1c3dExTaWZoUEVISzI0UFNoRFpoRVEwd2NiRHczSFQ2aVpVSWRaNUZMRjdYT1htbjhMQXU5YkZ1Rng3TFZrQW04MTM2TDYyS0NOSkxHOF9OZDZmSEl3VWltUjFUV1EtWktBMFdRZTZiYzhlNnY5ZHdIRW92bmRnUFJpeDdaSXB2WUpfTzl6czNCb3pucV9lRjhiVUswOFZzdVFwWTZjcmM1Y3Z3c1BIc0xIVWc0MFhaZVFGQU5KVC1IbUhGcE9VZU5oLWpSWWJLbXFsX0U1UXNXTkZKUllVVGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-13 19:11:59"
-    },
-    {
-      "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - 民視新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HYXB4MmZ5RTRQQTl1djhfa05DV3ltUjJOdk84N1JydkZRNUNaMU81X1ZpQ3BNUUxQSllOdTE4d3BrYm0tdXVfUk5pcGFfVnFFUnI4cFppRHZLQ2JqLVhGbg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-13 19:11:59"
     }
   ],
   "person_sections": {
@@ -885,6 +953,21 @@
       ],
       "news": [
         {
+          "title": "豪雨重創雲林花生 張嘉郡挺身護農：搶收泡水花生也應納天災補助 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPR210d0VPbkFHUi0zdklXMjhwb1Y4Z2JHM3dMOEpwUHBLcGRoTzJXODIzSFZZUE9UYjdja3pCaWljRmhQRVRVOE5RSXRhZ211SXVIM3Bqck1Yb2V5Q3J2Z283YTJudmhQbTY1QV9hZmg1dHFzeDZ0LV9rdTktX3ZFVjNZUDhnZUV2LVJCN0ExM3hnUW9aSGFURkE1NFBWbmRjTEEwb1NmbENzY1VsUDZ6U1NLZWZqZGs5cVJWYVJzbVlualFmN3FFZG14WVIwaHA3R3g2Nmp5MmZteHBfdVpqbWJJcmJ1SVdvbzkzS2Izc3gtYlBfODBxZFZKWno2Y010SXZYUDFHS2JEbEd4Ni1QSG1PaW5LdFVqTmppd3NPa05Jb28xQ1RhUjJTb3d1R3VnazA0MDl6M3NSdTRqM3BVc1pMMjRRQmNvUklJWGg4VVBzVk1KaUVQbG5SZnIwSTN0NkdNcXp2RE0xOUlTTUM2cGxBYk1uZVpvbTVlVXhKcGJtVmZlakpqTFA0T0tmbFVJbkJTSjZDYWNlOHRDMFVDMDlBWndZQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-16 15:08:02"
+        },
+        {
+          "title": "豪雨重創雲林花生 張嘉郡籲從速、從寬、從簡補助 - 中時新聞網",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ncmR5ckRLYVVDU1d6eUpoUzU0Qy02aTcxal9MWUFJOFl0bmxsM2RKTkhsaGFwODBYeDVLUm9IZkx0blJOclJHRmk4Q3JkN3JvUV9DNUp1VjhmRDJrOFlmTEwzR0pnUUVqM3Rmd1dn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-16 14:52:17"
+        },
+        {
+          "title": "豪雨重創！雲林花生搶收仍腐爛　張嘉郡籲農業部納入補助範圍 - NOWnews今日新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BOVVNMXI5NExmVEpuZm5BZEwwdFJaYm5XZVR6N1FVRmh0N29abkhvZllzQUZvUjNZT05pb1Nac3RtNC1iMTFLeTl1ZW_SAVJBVV95cUxOY3BKbnRHNGpYaVFhQTQxa3dheUxsVC1RUEZ3M1NkWGxHODRMQ0U5bE1DaG9hcnBCQk1IMTRpZ3JFM0Zway1MTkpHZ3hjZTA4eGxB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-16 14:38:12"
+        },
+        {
           "title": "【LIVE主播+立委線上聊】 雲林花生價崩 張嘉郡:一個多月前示警還被說危言聳聽 - TVBS新聞網",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UZ0tza1JOOU41SU9JalNXV0VYN3plbjB6cXZkcWJ4a1luYWZnWjdmbEZsd1ZGYkhvZjhDeXUyU1o5cjYxdDJ0MURiRFZDT1kySVRuNUJGN3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-14 22:35:37"
@@ -968,21 +1051,6 @@
           "title": "國產花生價慘崩！張嘉郡急籲中央：提高轉作金、強化原產地標示護農 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOR2Fuc0pJY1ZHUFRoTm5NRW03WG5CVUEyWk1tQloya3p3dnZ6SnFRd21nRmYwLW5ZZVUzeWdmaEhMbUNQWllhTS05V1Z0dHNZMVVma2hnejRLVDE2ZVRIejU4ZnBIZWV2Ni0xZ0VkcktPN29jX0VDWWprWGNEc3ZkREVabVZoZ3laZ2tfRjVkMWtncWgtQ1M3REdmeEhhejdqdHh1cDBxUi1MZUtJaU1TMFBWa1JRdGdTWS1SWjZvcnFZUGw3RGMtODZzalY5bF9rZEdFUlJTdEZUVElTQkJiX2EwTkN4eVh6VmtsMHJicVFKcWdyZHpXUkJQMThhTUo5N181WDZEYzlidkZaRGhRX1RrQVg1N05zdDJUQW5DZ3Q5MHZiSmpSRE1SLXNMQktmY1lvQnJJbWpIT0tHZmRoWVhNZkdjUzB3VXdwUVVhTktsSkFuRFljQVptaHJQVUh0N2YxQm03STlGc3pfREZaNW9Za2tXVVB3MGNqY3hURFBUeHVoOWw2ZlhLejBZMzJFNUx5MlJPTkprT3R1Z2UwcW15OFVfYTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-10 15:25:59"
-        },
-        {
-          "title": "國產的跌破十年防線！張嘉郡緊急出手了 - 中天新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CVjdkQkhoR2VqNURlTDZCNWhmT2JwbnFLNjVSWnZlUmlWdW1yWU1JY1U5ZWdwN0N6VFFGSWJNdWJKdC1pTWNvcUsyb3Axb1VHZ2dR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-10 15:25:59"
-        },
-        {
-          "title": "本土花生價格暴跌約四成張嘉郡籲提高農業部轉作獎勵金| 政治焦點 - 太報 TaiSounds",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BZGE1QzQ4azBkVEFoZ1RSQk5DY1kxNHpmSGgzcENjRDVGYmlPZzFBMzlKUFdjLXdNaFlRSVQzUi1iM2g3OFB6ZHlxTlJaWkxIZFZlM09HVGhOR1ct?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-10 15:19:23"
-        },
-        {
-          "title": "本土花生價格暴跌約四成 張嘉郡籲提高農業部轉作獎勵金 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQRzlqSF9ZYmtFRkF2S1J6UFNiTTk5OGVnUEgwLVNldkZWaU1fVTZtRWNoRlo3czhjLUVTdTBIbXBLQlhzbHZDaUJJTjVuNTc2WkdaNU56ZUNPa3J4M0xGWVJMSlRIaDhPa1hJd0hPMUNJUFh4NFVPaGtQWDZiRC1mNkZTYTJfeU1PNXE3Ulk4enpBVDNKZVVZMU1BWERaY0YtSTZhZ0xMa0RUdGZ1QWUzVTc1MElCYjdxUlFNSmtjeXktUnZXbEJUTTJ0YVVBalpabmh0YXpvdzZ2WXUxbzZPbzJwck9MbVJNZEJmQW1HZk5id1pCbGY4eFRDSFA5ZlBBcXd3MGlRemJucU9iZ1dDOURaTHJEZzMta19hMG9McXRncUw4VDlZSDYyeU5TSWRwOHFtc25LRzAzS1FTdno4ZTZQckVZVERERHNVdmwyYy1wbzNyRTVjLWhWcnBVbjFJTWVHWkJxLXlFUUQ2Q2Y0M053WjY5R01iOGNzbnpGbEY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-10 15:19:23"
         }
       ]
     },
@@ -1091,6 +1159,11 @@
       ],
       "news": [
         {
+          "title": "劉建國大力爭取！雲林全縣花生災損納入救助 每公頃提高至3.6萬元 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxNcjdQS0dxTFV1ZmdEcy1RaUs1QmllSU0yUnV0UDJxMzV1NXJEVnJyRjBRNjZPMUhKUk9Sc0Q1UzY1QXV4SV96OE1raWVmQ2VOOUtxRWw4czF6Zm5wQWFmZ3otNjQ1djNxTkdhandpUWFnd3RmRjZwYUlPTTFuRmVmQjBob0xDZmJWQS1MZW5nUlJWNEFMeENsWlU3c0xpTHVzWFczbG5UanhENXlNVUpWU1BsdEhKOWkzNGQySTg5OEx6SUtOLWdyeFNCVFZ6Uk04VFVXSFNDVnU5Rkw5N1N2cElCX29HMWF4SUNWa3B4ZjBDSEFDTHNWN3FnZW1XZDB4WHA4SzFjdlJ1OFZtYnRHb05nUUlLaHA5T3JxdXl6WGFRQnplOVpUQnJ5VTJsV0ZFZEl3aUszOWpwNHZqN0l3Q2NoOTZMRzhNR2FGVklZUDdpQUpnNTctM09ua0tnWktha0JIQldkX0pfajJhZjgwYVpTUy10VzVJM21GZTBHZ2RPTVlIOXQ1OFprT2sxX1pPRjFFTkRUZGNTcUZncFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-16 15:04:28"
+        },
+        {
           "title": "劉建國爭取花生災損救助農業部公告雲林全縣納入救助範圍受0608豪雨重創每公頃救助金提高至3.6萬元、17日起受理申請 - 蕃新聞",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uNEcyX3k5VjRPc3ZHNWRsTGtqX1ZUQ0VuQWREMTUtRnBERHhpVDVOWlpjb1ZYTGF3WERPMDVsdEdGM1BKX1JLSlVFWjhwZG5FQlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-16 13:56:00"
@@ -1119,6 +1192,11 @@
           "title": "劉建國邀環境部長彭啓明訪古坑 推動咖啡全株利用 打造全國循環經濟示範基地 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNSGx6U3dIWkt4SVM0VW45R0tSQktxSWlvUDJrMGxhRDZidjJOUnZVR3dEYkNKWjJtdlNqTjVLU2lXMjIxelpPVHROYjNMYUZTbDBkaFZfaFZydksyWWhRSGZvUTdBMm1fWGdheHRkYjgxSVRDQ0daRWxFNlpNc3BJaDdpeU1mbzZFbEQ2cHVJREd2ZmxSNWZlbjNqLS1wSXktcmNsZGRxNk9QbGp4TGlxRkVLOE85M2Q0VGZodVFrRElvWG1TTHo0RE9ueHJpXzVmb0FPTkFNb0JZWTQ3M19QeWNQeUZBUF9QTjIyZDRvZmVnZHM4dk0yXzA5RFBWTTdfSWFMTEpac0lNVTVjYmoyQVJERzl5RFRlaVQ0cXhvV1NLQ3dFVHZ1elhlWjloZVQwT3ZJQzA0RzBxLVhTYzVDcWQzU1BnR0g0bDlvVFYxLTVlVXNKVEwzbnRBSWpoUlFPM3ZLYTI1VG5tNXVDOXFRM2FobUZ0d21rTlhpTzEzWHhIX29GajhkNTJndURtSjZJWnQ4cG5ZSUp4cmpQTkhpNkFBd1RVTUVFUVpNTGZrMWVVZTA1bW5JcE1DSHdXQ0tFaGVMN2VNTGNfbWpmZ1B2MXQwZzZqaXZJUG9VMjA5TFM0RnZJWW5qSUxUTFNqZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-15 15:08:51"
+        },
+        {
+          "title": "劉建國邀環境部長彭啓明訪古坑 推動咖啡全株利用 打造全國循環經濟示範基地 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQXFEVTFXdC0wX19OYkhiRDlKMGVIZ0ltclpMSEg0VVpoWmx6MG5kNlhjbHgybUhxenFTZ050S3pKLU9mZm1kekZ3NHd3Ymx4X0oxMGxwTjV1cDBZZE5fdDVJbmJseU9SblVtN2hLZ1loNzRZOVVZak9ieGgtZDBQOEpXSWwwVGwzTVFXaUlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-15 14:55:25"
         },
         {
           "title": "劉建國邀彭啓明訪古坑　推咖啡副產品再利用創新商機 - ETtoday新聞雲",
@@ -1179,21 +1257,53 @@
           "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPWVJTQ2tCWTM0Y3Y2SzAxeWFGMU1fNzlmRndQWTZ1Mlh5MlRwd2d1bVAtWW1NWkhBRDUwcUJiMHZlZEw5d0xNaW4yYmQtMGRrNHdxNDNIcm5tSTlaZUV4MTBPWVp1NEI1TFBmSWJKV2xISlYteC1oT2NiODBzbE8tb3YyNVBFWnZMYl8yZVluYXpWRHBZSmxmYV9zYkQ3c2ZXaC1ZeVNmT0ZXc1BKVjlnVVAyemFyR1c3dExTaWZoUEVISzI0UFNoRFpoRVEwd2NiRHczSFQ2aVpVSWRaNUZMRjdYT1htbjhMQXU5YkZ1Rng3TFZrQW04MTM2TDYyS0NOSkxHOF9OZDZmSEl3VWltUjFUV1EtWktBMFdRZTZiYzhlNnY5ZHdIRW92bmRnUFJpeDdaSXB2WUpfTzl6czNCb3pucV9lRjhiVUswOFZzdVFwWTZjcmM1Y3Z3c1BIc0xIVWc0MFhaZVFGQU5KVC1IbUhGcE9VZU5oLWpSWWJLbXFsX0U1UXNXTkZKUllVVGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-13 19:11:59"
-        },
-        {
-          "title": "關心健保政策！劉建國承諾：讓老幼照顧更完整、醫療資源更到位 - 民視新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HYXB4MmZ5RTRQQTl1djhfa05DV3ltUjJOdk84N1JydkZRNUNaMU81X1ZpQ3BNUUxQSllOdTE4d3BrYm0tdXVfUk5pcGFfVnFFUnI4cFppRHZLQ2JqLVhGbg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-13 19:11:59"
-        },
-        {
-          "title": "翻轉偏鄉醫療！劉建國力爭百億資源留雲林 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPVGMwVjBGdURObTF5YWRlSkRCOGZ3R0FpSTA0cXVab0RvY0FCTlE1UU56QV9XMWkxLWpNN3RiSm96UGE1aWt1Rm16ZENXRnJFLWp0dzl0dkFtNlEzdVo3dGhOSnF6cllwak9TZzhvYzg2WTQ0S1RPd1ZMTVlsYThXeHN1b3hlQ0E4YWNibFFyNWRVdFJEdEpPY2tYX2xrN09zN09qLWFKeURIaHR4NDhtRHJxRll4b3VVV1NiUUZjVVVDa0NGZnFmNHJudVR1U1N6azY1dXZQMnhJNDJrR1dLdjNZOFZfeU9IYTFjN2JoUER0RkU4aWtkbGh6Q2Z4UUxxZkNfT3FPREdlYUNrcUxqbF9jZkRjaHZ5T3VmbnZhajBoWHVKMjlWRzVzQk8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-13 19:01:00"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "豪雨重創雲林花生 張嘉郡挺身護農：搶收泡水花生也應納天災補助 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPR210d0VPbkFHUi0zdklXMjhwb1Y4Z2JHM3dMOEpwUHBLcGRoTzJXODIzSFZZUE9UYjdja3pCaWljRmhQRVRVOE5RSXRhZ211SXVIM3Bqck1Yb2V5Q3J2Z283YTJudmhQbTY1QV9hZmg1dHFzeDZ0LV9rdTktX3ZFVjNZUDhnZUV2LVJCN0ExM3hnUW9aSGFURkE1NFBWbmRjTEEwb1NmbENzY1VsUDZ6U1NLZWZqZGs5cVJWYVJzbVlualFmN3FFZG14WVIwaHA3R3g2Nmp5MmZteHBfdVpqbWJJcmJ1SVdvbzkzS2Izc3gtYlBfODBxZFZKWno2Y010SXZYUDFHS2JEbEd4Ni1QSG1PaW5LdFVqTmppd3NPa05Jb28xQ1RhUjJTb3d1R3VnazA0MDl6M3NSdTRqM3BVc1pMMjRRQmNvUklJWGg4VVBzVk1KaUVQbG5SZnIwSTN0NkdNcXp2RE0xOUlTTUM2cGxBYk1uZVpvbTVlVXhKcGJtVmZlakpqTFA0T0tmbFVJbkJTSjZDYWNlOHRDMFVDMDlBWndZQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-16 15:08:02"
+      },
+      {
+        "title": "劉建國大力爭取！雲林全縣花生災損納入救助 每公頃提高至3.6萬元 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxNcjdQS0dxTFV1ZmdEcy1RaUs1QmllSU0yUnV0UDJxMzV1NXJEVnJyRjBRNjZPMUhKUk9Sc0Q1UzY1QXV4SV96OE1raWVmQ2VOOUtxRWw4czF6Zm5wQWFmZ3otNjQ1djNxTkdhandpUWFnd3RmRjZwYUlPTTFuRmVmQjBob0xDZmJWQS1MZW5nUlJWNEFMeENsWlU3c0xpTHVzWFczbG5UanhENXlNVUpWU1BsdEhKOWkzNGQySTg5OEx6SUtOLWdyeFNCVFZ6Uk04VFVXSFNDVnU5Rkw5N1N2cElCX29HMWF4SUNWa3B4ZjBDSEFDTHNWN3FnZW1XZDB4WHA4SzFjdlJ1OFZtYnRHb05nUUlLaHA5T3JxdXl6WGFRQnplOVpUQnJ5VTJsV0ZFZEl3aUszOWpwNHZqN0l3Q2NoOTZMRzhNR2FGVklZUDdpQUpnNTctM09ua0tnWktha0JIQldkX0pfajJhZjgwYVpTUy10VzVJM21GZTBHZ2RPTVlIOXQ1OFprT2sxX1pPRjFFTkRUZGNTcUZncFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-16 15:04:28"
+      },
+      {
+        "title": "豪雨重創雲林花生 張嘉郡籲從速、從寬、從簡補助 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ncmR5ckRLYVVDU1d6eUpoUzU0Qy02aTcxal9MWUFJOFl0bmxsM2RKTkhsaGFwODBYeDVLUm9IZkx0blJOclJHRmk4Q3JkN3JvUV9DNUp1VjhmRDJrOFlmTEwzR0pnUUVqM3Rmd1dn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-16 14:52:17"
+      },
+      {
+        "title": "豪雨重創！雲林花生搶收仍腐爛　張嘉郡籲農業部納入補助範圍 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BOVVNMXI5NExmVEpuZm5BZEwwdFJaYm5XZVR6N1FVRmh0N29abkhvZllzQUZvUjNZT05pb1Nac3RtNC1iMTFLeTl1ZW_SAVJBVV95cUxOY3BKbnRHNGpYaVFhQTQxa3dheUxsVC1RUEZ3M1NkWGxHODRMQ0U5bE1DaG9hcnBCQk1IMTRpZ3JFM0Zway1MTkpHZ3hjZTA4eGxB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-16 14:38:12"
+      },
+      {
+        "title": "劉建國爭取花生災損救助農業部公告雲林全縣納入救助範圍受0608豪雨重創每公頃救助金提高至3.6萬元、17日起受理申請 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uNEcyX3k5VjRPc3ZHNWRsTGtqX1ZUQ0VuQWREMTUtRnBERHhpVDVOWlpjb1ZYTGF3WERPMDVsdEdGM1BKX1JLSlVFWjhwZG5FQlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-16 13:56:00"
+      },
+      {
+        "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心 | 台灣生活新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kdkdqbWNIUFhaQWJ5TVg5Q2JyZWNlT1ZPbTNtZ0FZQVE3N1ZjV3BrdHRTMWhjVzdVYjJ4ZFFMY0FjRlJ5UUd3VGNYSFo4NVNzOE5HRWVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-15 19:13:34"
+      },
+      {
+        "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心 - TDN台灣生活新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kbGVvT0lfZlo2Ti1BM0drS2JDQmJsVXFkdjhKbU5yWDVHNUtyQzlMRU1aTkJyOXBSemcxMm1LZVlfUVllZ0VXeXV0X2QwSDNT?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-15 18:46:42"
+      },
+      {
+        "title": "劉建國邀環境部長彭啓明訪古坑 推動咖啡全株利用 - 三星傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13RDd0MHlDam5aMXZERUJ3WXl1eGJEUWdFcXlYeVdRZGJjY3RrSVJHRmlJcTVDZ252ZDhXX0xkUHNmVnN1SmFYZjJaeDMzMnBfckx2NHdhUlRBUXJPUjM1bEdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-15 17:05:35"
+      }
+    ],
     "facebook": [
       {
         "title": "緊急會勘花生農損至晚上七點！ 感謝 #農業部 火速啟動天然災害救助 - facebook.com",
@@ -1226,28 +1336,6 @@
         "time": "2026-06-15 17:10:08"
       }
     ],
-    "news": [
-      {
-        "title": "劉建國爭取花生災損救助農業部公告雲林全縣納入救助範圍受0608豪雨重創每公頃救助金提高至3.6萬元、17日起受理申請 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uNEcyX3k5VjRPc3ZHNWRsTGtqX1ZUQ0VuQWREMTUtRnBERHhpVDVOWlpjb1ZYTGF3WERPMDVsdEdGM1BKX1JLSlVFWjhwZG5FQlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-16 13:56:00"
-      },
-      {
-        "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心 | 台灣生活新聞 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kdkdqbWNIUFhaQWJ5TVg5Q2JyZWNlT1ZPbTNtZ0FZQVE3N1ZjV3BrdHRTMWhjVzdVYjJ4ZFFMY0FjRlJ5UUd3VGNYSFo4NVNzOE5HRWVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-15 19:13:34"
-      },
-      {
-        "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心 - TDN台灣生活新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kbGVvT0lfZlo2Ti1BM0drS2JDQmJsVXFkdjhKbU5yWDVHNUtyQzlMRU1aTkJyOXBSemcxMm1LZVlfUVllZ0VXeXV0X2QwSDNT?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-15 18:46:42"
-      },
-      {
-        "title": "劉建國邀環境部長彭啓明訪古坑 推動咖啡全株利用 - 三星傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13RDd0MHlDam5aMXZERUJ3WXl1eGJEUWdFcXlYeVdRZGJjY3RrSVJHRmlJcTVDZ252ZDhXX0xkUHNmVnN1SmFYZjJaeDMzMnBfckx2NHdhUlRBUXJPUjM1bEdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-15 17:05:35"
-      }
-    ],
     "youtube": [
       {
         "title": "咖啡渣變黃金! 劉建國爭取建設咖啡副產品循環利用中心-雲林新聞網",
@@ -1263,6 +1351,26 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "豪雨重創雲林花生 張嘉郡挺身護農：搶收泡水花生也應納天災補助 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPR210d0VPbkFHUi0zdklXMjhwb1Y4Z2JHM3dMOEpwUHBLcGRoTzJXODIzSFZZUE9UYjdja3pCaWljRmhQRVRVOE5RSXRhZ211SXVIM3Bqck1Yb2V5Q3J2Z283YTJudmhQbTY1QV9hZmg1dHFzeDZ0LV9rdTktX3ZFVjNZUDhnZUV2LVJCN0ExM3hnUW9aSGFURkE1NFBWbmRjTEEwb1NmbENzY1VsUDZ6U1NLZWZqZGs5cVJWYVJzbVlualFmN3FFZG14WVIwaHA3R3g2Nmp5MmZteHBfdVpqbWJJcmJ1SVdvbzkzS2Izc3gtYlBfODBxZFZKWno2Y010SXZYUDFHS2JEbEd4Ni1QSG1PaW5LdFVqTmppd3NPa05Jb28xQ1RhUjJTb3d1R3VnazA0MDl6M3NSdTRqM3BVc1pMMjRRQmNvUklJWGg4VVBzVk1KaUVQbG5SZnIwSTN0NkdNcXp2RE0xOUlTTUM2cGxBYk1uZVpvbTVlVXhKcGJtVmZlakpqTFA0T0tmbFVJbkJTSjZDYWNlOHRDMFVDMDlBWndZQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-16 15:08:02"
+      },
+      {
+        "title": "劉建國大力爭取！雲林全縣花生災損納入救助 每公頃提高至3.6萬元 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxNcjdQS0dxTFV1ZmdEcy1RaUs1QmllSU0yUnV0UDJxMzV1NXJEVnJyRjBRNjZPMUhKUk9Sc0Q1UzY1QXV4SV96OE1raWVmQ2VOOUtxRWw4czF6Zm5wQWFmZ3otNjQ1djNxTkdhandpUWFnd3RmRjZwYUlPTTFuRmVmQjBob0xDZmJWQS1MZW5nUlJWNEFMeENsWlU3c0xpTHVzWFczbG5UanhENXlNVUpWU1BsdEhKOWkzNGQySTg5OEx6SUtOLWdyeFNCVFZ6Uk04VFVXSFNDVnU5Rkw5N1N2cElCX29HMWF4SUNWa3B4ZjBDSEFDTHNWN3FnZW1XZDB4WHA4SzFjdlJ1OFZtYnRHb05nUUlLaHA5T3JxdXl6WGFRQnplOVpUQnJ5VTJsV0ZFZEl3aUszOWpwNHZqN0l3Q2NoOTZMRzhNR2FGVklZUDdpQUpnNTctM09ua0tnWktha0JIQldkX0pfajJhZjgwYVpTUy10VzVJM21GZTBHZ2RPTVlIOXQ1OFprT2sxX1pPRjFFTkRUZGNTcUZncFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-16 15:04:28"
+      },
+      {
+        "title": "豪雨重創雲林花生 張嘉郡籲從速、從寬、從簡補助 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ncmR5ckRLYVVDU1d6eUpoUzU0Qy02aTcxal9MWUFJOFl0bmxsM2RKTkhsaGFwODBYeDVLUm9IZkx0blJOclJHRmk4Q3JkN3JvUV9DNUp1VjhmRDJrOFlmTEwzR0pnUUVqM3Rmd1dn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-16 14:52:17"
+      },
+      {
+        "title": "豪雨重創！雲林花生搶收仍腐爛　張嘉郡籲農業部納入補助範圍 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BOVVNMXI5NExmVEpuZm5BZEwwdFJaYm5XZVR6N1FVRmh0N29abkhvZllzQUZvUjNZT05pb1Nac3RtNC1iMTFLeTl1ZW_SAVJBVV95cUxOY3BKbnRHNGpYaVFhQTQxa3dheUxsVC1RUEZ3M1NkWGxHODRMQ0U5bE1DaG9hcnBCQk1IMTRpZ3JFM0Zway1MTkpHZ3hjZTA4eGxB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-16 14:38:12"
+      },
       {
         "title": "劉建國爭取花生災損救助農業部公告雲林全縣納入救助範圍受0608豪雨重創每公頃救助金提高至3.6萬元、17日起受理申請 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uNEcyX3k5VjRPc3ZHNWRsTGtqX1ZUQ0VuQWREMTUtRnBERHhpVDVOWlpjb1ZYTGF3WERPMDVsdEdGM1BKX1JLSlVFWjhwZG5FQlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1292,6 +1400,11 @@
         "title": "劉建國邀環境部長彭啓明訪古坑 推動咖啡全株利用 打造全國循環經濟示範基地 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNSGx6U3dIWkt4SVM0VW45R0tSQktxSWlvUDJrMGxhRDZidjJOUnZVR3dEYkNKWjJtdlNqTjVLU2lXMjIxelpPVHROYjNMYUZTbDBkaFZfaFZydksyWWhRSGZvUTdBMm1fWGdheHRkYjgxSVRDQ0daRWxFNlpNc3BJaDdpeU1mbzZFbEQ2cHVJREd2ZmxSNWZlbjNqLS1wSXktcmNsZGRxNk9QbGp4TGlxRkVLOE85M2Q0VGZodVFrRElvWG1TTHo0RE9ueHJpXzVmb0FPTkFNb0JZWTQ3M19QeWNQeUZBUF9QTjIyZDRvZmVnZHM4dk0yXzA5RFBWTTdfSWFMTEpac0lNVTVjYmoyQVJERzl5RFRlaVQ0cXhvV1NLQ3dFVHZ1elhlWjloZVQwT3ZJQzA0RzBxLVhTYzVDcWQzU1BnR0g0bDlvVFYxLTVlVXNKVEwzbnRBSWpoUlFPM3ZLYTI1VG5tNXVDOXFRM2FobUZ0d21rTlhpTzEzWHhIX29GajhkNTJndURtSjZJWnQ4cG5ZSUp4cmpQTkhpNkFBd1RVTUVFUVpNTGZrMWVVZTA1bW5JcE1DSHdXQ0tFaGVMN2VNTGNfbWpmZ1B2MXQwZzZqaXZJUG9VMjA5TFM0RnZJWW5qSUxUTFNqZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-15 15:08:51"
+      },
+      {
+        "title": "劉建國邀環境部長彭啓明訪古坑 推動咖啡全株利用 打造全國循環經濟示範基地 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQXFEVTFXdC0wX19OYkhiRDlKMGVIZ0ltclpMSEg0VVpoWmx6MG5kNlhjbHgybUhxenFTZ050S3pKLU9mZm1kekZ3NHd3Ymx4X0oxMGxwTjV1cDBZZE5fdDVJbmJseU9SblVtN2hLZ1loNzRZOVVZak9ieGgtZDBQOEpXSWwwVGwzTVFXaUlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-15 14:55:25"
       },
       {
         "title": "劉建國邀彭啓明訪古坑　推咖啡副產品再利用創新商機 - ETtoday新聞雲",
@@ -1437,31 +1550,6 @@
         "title": "劉建國召開公共衛生師協調會凝聚共識 推動公職制度與專業進用機制 - 鏡週刊Mirror Media",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WR1VLV0d1NzN2R2NSYkl6NnhTS0dvN2E2dDBHWWJpWkIzUW5JMzQ3cXZPejJKdnhaVkRXM085UXZsNU9PVGxsdHFDcFVHWC1hbDUtZURtSjVBemcwXy0yR3J4Nk9obHRoR1I00gFrQVVfeXFMTVZHVUtXR3U3M3ZHY1JiSXo2eFNLR283YTZ0MEdZYmlaQjNRbkkzNDdxdk96Mkp2eFpWRFczTzlRdmw1T09UbGx0cUNwVUdYLWFsNS1lRG1KNUF6ZzBfLTJHcng2T2hsdGhHUjQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-12 15:57:00"
-      },
-      {
-        "title": "花生價格波動 劉建國：農業部應啟動穩定價格措施 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PaEpLUFhucFVkV2o0NWZoZ0tEbUg2VG9LbUxVSzBHOVNvRkdzR3JzeWkybk9YRGEyMk5vUC1BcUY4UHBVTXRqOTlYc2R3WFhBX1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-12 05:04:15"
-      },
-      {
-        "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQek1yS1N6ODNTenBKZkNOdGUzN1JGODV2TnZvN3ZnM0ppOGdkMkthNTB4TF9oQjE1RXZsY0lyLWpwVjJma19xdTR2Sjd3UTI1Uy1NNnZidnZHNTJKTVFHWFhaNWdXVjRMbnpSaTRVLXNiWDdGMzZfRVB0MklnOE9BeVNhbGhBbHRMdC0zbjFSLTNBdmpSSzZBMDZLRm5FTFc1NWstNnFJM29UUmxla0NGcFd2eXJka2Z2WUFzMlVOTWh5Q3J4eWFlSXFaR292WHRyd1AxR0RaNFBnQVZyeC0zejZlZksyUWFlM251cHhfMGMtY3NPUktGQzhRZWtmSEJad2c1WGZ5dWpJdDhZVjNZY3hiVElGejdYbUZOOUl0WnlGVUJLSEotLWZXT0Ywa1VRSndCVjlNN0dpUFdhY0hyZ2ZYNTdEbFY3MHJaRXBwSUktc1BwTWZobVVSM0NjOWYtdEdDSzBnLW1BcXhmRl9mYU5aVEZ5MlRoZHhjdUZpLWRtbm93X2owc3Y3emNEYWJBa2lMM0NwYWdfSm5TV3F0YjJ3VGRPd2RWb0NJSDdGSV9Ibk5Pc3VoZ29wR0xqNUVlZ2hVcXo1Qkx1WHNFajBzTFE5bWduN0NrMzRJME1XdXNYLWdPalRTVHNhZVRwaXFDY2tYc21Jbi1ha19HMTN4dQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-12 02:19:34"
-      },
-      {
-        "title": "雲林花生價格波動引關注 立委劉建國：農業部應啟動穩定價格措施 - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40enUyNUVVakVkV2ZqaXVDMFFMVE1SdjVlSS0taTEyVmlCa1RKbTljN1R1eEhXVkxZNXZYaEV2UTFQT3paRXlVUUI5c21CMkZBZFllc29pUmREbU53M1ZxVm5VMGRybXV3MnB3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-12 01:45:39"
-      },
-      {
-        "title": "雲林花生價格波動引關注 立委劉建國：農業部應啟動穩定價格措施 - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2Y1ZWVlo1VUZiY1NoYi1FZ05MM3pGYnhlQnJkeWFPRzdSWVd2QWVzZlZyOFBYd1hkbzFGMDdzUVN1bmRWYkdBOU9VQXRHRWtTbk91Y0FRR2dLWnQ5ZzVwT1FkYXdHX3pLei1j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-11 23:10:53"
-      },
-      {
-        "title": "花生價格創十年新低 張嘉郡籲農業部這樣做 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxObGJEdGs4ODBSbXlOdmNJYzFXcGZmanlBWTZzWURFOE1fNVBXNzRIUFRoOFNFYU5oYjZlRWYtNTRvdnI1NWdhNEdEcDlXOTZqSnd1OVRYcFloTTE1NVl5Q2ZpWU51XzhNeFBjRVh4VVNHaVZteU8wX3ZCaHRhQ0JET0VZZHJiVUZPRzlmb0NtdHFiQS1UZ2JuRW1DcUd1UEtHai1DSHA2S2ZCU1V0NmRZaG51cC1SbVdqeXZrVTF6NWh5RkR4Skdhb2ZJdmJNWERXS2k1VnlqV2YtYW56VDl0T2VBZFBnWWdmZE9QOWpaMHhLemVISmwzVVdGOEhwNkktTE5IT2ZxX3BWYkIyVGN1MzdfYWZ0ckFsaDZCRnBweHN6RmF0eEpiWjhPYmtxQjN5eXdIWjBIR0hwRW44UnlHVGVFT1A0b1VDdS13TDJIVnFwTDQ3UzV0eURPd1V0dHo4UDhMZVVhbkJiVDV2ajh1YVhtcnNIVkpiMGZueWlVTHBDRXlaQnFpOTZuYlY4YTN1bUJJTndjTEFPNDNVTVQ2TmFha1RuWC1rcGRIVjdqUkFHaDhrVEhkWU14UXBSdU5aUEUtcVg2dVRqdGRXVzlJb3BWMGhxRUwwZlRRVGpQTEdITm1EUlc3VDByQXNaWGhPTDBJU2dGdDF5X2ZGWEhoaHBWcDRPZ2t0RW9kUnpqenBPRHhIVE8xWlFxc2ZJWm8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-11 22:00:15"
       }
     ],
     "facebook": [
@@ -1699,6 +1787,34 @@
     "hour": [],
     "day": [
       {
+        "title": "豪雨重創雲林花生 張嘉郡挺身護農：搶收泡水花生也應納天災補助 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPR210d0VPbkFHUi0zdklXMjhwb1Y4Z2JHM3dMOEpwUHBLcGRoTzJXODIzSFZZUE9UYjdja3pCaWljRmhQRVRVOE5RSXRhZ211SXVIM3Bqck1Yb2V5Q3J2Z283YTJudmhQbTY1QV9hZmg1dHFzeDZ0LV9rdTktX3ZFVjNZUDhnZUV2LVJCN0ExM3hnUW9aSGFURkE1NFBWbmRjTEEwb1NmbENzY1VsUDZ6U1NLZWZqZGs5cVJWYVJzbVlualFmN3FFZG14WVIwaHA3R3g2Nmp5MmZteHBfdVpqbWJJcmJ1SVdvbzkzS2Izc3gtYlBfODBxZFZKWno2Y010SXZYUDFHS2JEbEd4Ni1QSG1PaW5LdFVqTmppd3NPa05Jb28xQ1RhUjJTb3d1R3VnazA0MDl6M3NSdTRqM3BVc1pMMjRRQmNvUklJWGg4VVBzVk1KaUVQbG5SZnIwSTN0NkdNcXp2RE0xOUlTTUM2cGxBYk1uZVpvbTVlVXhKcGJtVmZlakpqTFA0T0tmbFVJbkJTSjZDYWNlOHRDMFVDMDlBWndZQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-16 15:08:02",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國大力爭取！雲林全縣花生災損納入救助 每公頃提高至3.6萬元 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxNcjdQS0dxTFV1ZmdEcy1RaUs1QmllSU0yUnV0UDJxMzV1NXJEVnJyRjBRNjZPMUhKUk9Sc0Q1UzY1QXV4SV96OE1raWVmQ2VOOUtxRWw4czF6Zm5wQWFmZ3otNjQ1djNxTkdhandpUWFnd3RmRjZwYUlPTTFuRmVmQjBob0xDZmJWQS1MZW5nUlJWNEFMeENsWlU3c0xpTHVzWFczbG5UanhENXlNVUpWU1BsdEhKOWkzNGQySTg5OEx6SUtOLWdyeFNCVFZ6Uk04VFVXSFNDVnU5Rkw5N1N2cElCX29HMWF4SUNWa3B4ZjBDSEFDTHNWN3FnZW1XZDB4WHA4SzFjdlJ1OFZtYnRHb05nUUlLaHA5T3JxdXl6WGFRQnplOVpUQnJ5VTJsV0ZFZEl3aUszOWpwNHZqN0l3Q2NoOTZMRzhNR2FGVklZUDdpQUpnNTctM09ua0tnWktha0JIQldkX0pfajJhZjgwYVpTUy10VzVJM21GZTBHZ2RPTVlIOXQ1OFprT2sxX1pPRjFFTkRUZGNTcUZncFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-16 15:04:28",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "豪雨重創雲林花生 張嘉郡籲從速、從寬、從簡補助 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ncmR5ckRLYVVDU1d6eUpoUzU0Qy02aTcxal9MWUFJOFl0bmxsM2RKTkhsaGFwODBYeDVLUm9IZkx0blJOclJHRmk4Q3JkN3JvUV9DNUp1VjhmRDJrOFlmTEwzR0pnUUVqM3Rmd1dn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-16 14:52:17",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "豪雨重創！雲林花生搶收仍腐爛　張嘉郡籲農業部納入補助範圍 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BOVVNMXI5NExmVEpuZm5BZEwwdFJaYm5XZVR6N1FVRmh0N29abkhvZllzQUZvUjNZT05pb1Nac3RtNC1iMTFLeTl1ZW_SAVJBVV95cUxOY3BKbnRHNGpYaVFhQTQxa3dheUxsVC1RUEZ3M1NkWGxHODRMQ0U5bE1DaG9hcnBCQk1IMTRpZ3JFM0Zway1MTkpHZ3hjZTA4eGxB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-16 14:38:12",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "緊急會勘花生農損至晚上七點！ 感謝 #農業部 火速啟動天然災害救助 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxQanRzRk9icVhZT0FmUEVLXzZkdVZNU19hMWtlMk8tOUtGbFZoSGlRQ2ZOUUYtUE5HX21RVFB2SWhjdUYxRmtPaHZnakxDLUVXZjlxVC1RZTFpYmtIamlpZmNZZTdqRTNSbDUxVGwtMWpJZVJXREJQVFVqMzlpTEt0a0ZrYURleERPZ3J2YlVCUDBoSlMtWFZwdnRkclJmcVpVNUpaeHFDSV9xUlZsODBHVUVKTnJfSjBFdlE0enF0cldtbkdsZ0N6cmc5V214TWUzWmdYY09xX3Z4dVBmMGRydHRFNjNaaW5ZRmdQQ0pQXy1yNDM4YmlvTm41VDh3czlrdE1xRGV6ZjlrRmItRXBHMVZDaHNlYjZFZUg3VHNDQ2FFQXQweWZVXzVmRENNU2tUU1NLRVY1MFJUOEdyYWVtaVY5WTVmSE05VE0ySnZoUTVwSVBVWXFoWUR5Z3RFYU84OHdBNnFYYi1nOUtQbVRHVFVORHpEazFyT01mbTB1Mk1KUkRLOFdQMmdlRnYtYmw0ZnpjVXUtN3NYZFV2aWI4TkRHTW5tZW5sZzhTZVktWGFRcWc2NW1YYXE5Q25UdDY4SkE",
         "time": "2026-06-16 14:16:15",
@@ -1788,7 +1904,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 7
+        "count": 11
       },
       {
         "name": "古坑",
@@ -1798,7 +1914,7 @@
     "groups": [
       {
         "name": "農業族群",
-        "count": 4
+        "count": 6
       },
       {
         "name": "工地/營造",
