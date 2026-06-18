@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-06-18T14:19:25.764653+00:00",
+  "generated_at": "2026-06-18T14:36:10.473843+00:00",
   "metrics": {
-    "total_24h": 27,
+    "total_24h": 30,
     "prev_24h": 35,
-    "growth_pct": -22.86,
-    "news_24h": 21,
+    "growth_pct": -14.29,
+    "news_24h": 24,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 167,
+    "total": 170,
     "prev": 116,
-    "growth_pct": 43.97,
-    "news": 115,
+    "growth_pct": 46.55,
+    "news": 118,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 21
+      "count": 24
     },
     {
       "platform": "facebook",
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 115
+      "count": 118
     },
     {
       "platform": "facebook",
@@ -72,7 +72,7 @@
     },
     {
       "hour": "2026-06-18 16:00",
-      "count": 14
+      "count": 15
     },
     {
       "hour": "2026-06-18 17:00",
@@ -80,7 +80,11 @@
     },
     {
       "hour": "2026-06-18 19:00",
-      "count": 5
+      "count": 6
+    },
+    {
+      "hour": "2026-06-18 21:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -318,7 +322,7 @@
     },
     {
       "hour": "2026-06-18 16:00",
-      "count": 14
+      "count": 15
     },
     {
       "hour": "2026-06-18 17:00",
@@ -326,13 +330,17 @@
     },
     {
       "hour": "2026-06-18 19:00",
-      "count": 5
+      "count": 6
+    },
+    {
+      "hour": "2026-06-18 21:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 21
+      "count": 24
     },
     {
       "platform": "facebook",
@@ -345,6 +353,11 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "雲林強降雨玉米泡水腐爛 張嘉郡爭取從寬天災救助 | 夏和宣 | 地方新聞 - Storm.mg",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkejlBVF9DSmUxLTloTC1PTkNCSVk1QWkxc0hUSS1Ta05GZl9JRW8tX0hfc3kteElpb3ZKb1IxVDVLb3ZiWWZFMUowUmVUUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-18 21:37:52"
+      },
       {
         "title": "玉米飽滿肥美這原因釀災情 張嘉郡籲中央啟動救助 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pUGVsR0U0LWhIbHg0aDY2ekxCQW9jLWJQV3ZneTRVU182QmwzYllnY3JLRW9adGM1aFJBeDBxS3NqZ0s1UExiVm4zZXVpcXpo0gFWQVVfeXFMTTk2VjgzOXFEMjhzZThxMk42TG11MzJZZTVSUktnZ1AxSGYyNkJHLWNnUWJmOWJkVFZkSzVjU3ZCNWtnVkJwX19ydnR2OF9JWGFWTWJzbWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -364,6 +377,11 @@
         "title": "粽香傳愛、幸福雲林 民進黨部攜手立委劉建國捐贈肉粽 傳遞節慶溫暖與社會關懷 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPaERiQS1zQVlQR3Foa3JrRkhNYjhOQ3cwUUxRc0RvMFJlQXM0NGZZaHp5NFotVXpsU1ZhRmVIUFlTQzFBd1RkRTFFUjJZNGpRNG9ncVJTT3EzOU5jMTNBc2U0MlFYSHVZWG9vUk1hUGNmNFJPQ09KY29ObENDNkFPQjlwenNHT2VfRmhRMW5XVm9lLVVnTVZWMkltVS1CLVpGV3JJX0dBTTYtT2dONTN1aFFhSDlhV1lvSjVCMFotWnYzdzV5N3A1LVFsUkEwRGo5cnRQWFJ6b3hDdEJ4VW1aVGdDV1BzTElXdUNNRjRVbXlzQWp5bFdHODVUMFczVzVmb2NDWlcxNksxOWVIMEpQVGZGcFZCaDd1NE03VjVuWjU0QW11TnVmWnlwZ1I1VzZKRVZsdFBLcGNjRk9JZnhJNmU2T01PNHBnbVFJZkRJRWM3eS1GaVlIcTh1S2Q2aHlCT2wyRkEtdEkwUlplTzd0LU1VbHAwUXZhSkQ5bWhQNkRfZEtNczdhcXhWVHd5UjRFaUxRN2VTS1NUUzJwaWg1ZUZUUGpQU3dQWk5BcmVCUmlCd3RpUGNYMHJjeFM5MnJoZWl2MWZkVWdyUUliOW9EMzlyQkxHbWQ4UzhrZUkzLTM0RlBLMUxZVnQ5NWRtaUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-18 19:22:22"
+      },
+      {
+        "title": "豪雨重創雲林玉米田 張嘉郡虎尾、元長勘災 爭取救助 - 上報Up Media",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xTDk5ZGZwWW5CZFo2RENGc0NNT2tHVXRRa2daQm5DZEpGakFJUE4ySmZWdFlfLVJHc0ZJd0NZZXV6eGJ5NWNFQXlaQ0c1UE52UTNlWDlNSWstMTNJbkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-18 19:10:00"
       },
       {
         "title": "雲林玉米受災嚴重！張嘉郡籲農民儘速通報啟動救助| 政治 - 三立新聞網SETN.com",
@@ -404,6 +422,11 @@
         "title": "挽救「生不如死」！張嘉郡提幼照法修正案 公幼免費、私幼每位每人補至少1.5萬 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUUFJMkdzY2VCV3dVRWtUcVNmYnlTdDlwSFc5M2VmV181dzhBY3BBSjkwa2tocjA2NXd4Zm9DX2JBRXZscTJtNHo0RHh1TmZ5cE5RdXdEWlZQbTdXcHluX3daTmhpNV9yS1VaMUg1SUs1RTRuczJCSUluc0JhdXl5Z2p4TmRvODlmbGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-18 16:48:32"
+      },
+      {
+        "title": "張嘉郡提幼教法修法　主張公幼免學費、私幼每月補助1.5萬元 | 政治 | CTWANT - CTWANT",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40Q0lWdXo1Snc1MU4zTFNxcWJLUlVwM0c0TExlbE93ck5jMEQxdVhnc1JtRTU5eXFsMWFKNW45MmJ2SDFJTkZ5alNkcjBfQUnSAVRBVV95cUxOYlhfVXM4OW1NZUd5bHoyZWxnRkVKZW5VU3VpT1BLSU5kOEtEeFluU3pZWEY0Z2wyck1GMDgwQkJneUJzb1lYcE5uSDdJUFZDdFZvMGQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-18 16:40:13"
       },
       {
         "title": "搶救少子女化！張嘉郡提案育兒新政 公幼免費、私幼補助1.5萬 - Yahoo新聞",
@@ -484,7 +507,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 21
+      "count": 24
     },
     {
       "platform": "facebook",
@@ -497,6 +520,11 @@
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "雲林強降雨玉米泡水腐爛 張嘉郡爭取從寬天災救助 | 夏和宣 | 地方新聞 - Storm.mg",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkejlBVF9DSmUxLTloTC1PTkNCSVk1QWkxc0hUSS1Ta05GZl9JRW8tX0hfc3kteElpb3ZKb1IxVDVLb3ZiWWZFMUowUmVUUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-18 21:37:52"
+      },
       {
         "title": "玉米飽滿肥美這原因釀災情 張嘉郡籲中央啟動救助 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pUGVsR0U0LWhIbHg0aDY2ekxCQW9jLWJQV3ZneTRVU182QmwzYllnY3JLRW9adGM1aFJBeDBxS3NqZ0s1UExiVm4zZXVpcXpo0gFWQVVfeXFMTTk2VjgzOXFEMjhzZThxMk42TG11MzJZZTVSUktnZ1AxSGYyNkJHLWNnUWJmOWJkVFZkSzVjU3ZCNWtnVkJwX19ydnR2OF9JWGFWTWJzbWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -516,6 +544,11 @@
         "title": "粽香傳愛、幸福雲林 民進黨部攜手立委劉建國捐贈肉粽 傳遞節慶溫暖與社會關懷 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPaERiQS1zQVlQR3Foa3JrRkhNYjhOQ3cwUUxRc0RvMFJlQXM0NGZZaHp5NFotVXpsU1ZhRmVIUFlTQzFBd1RkRTFFUjJZNGpRNG9ncVJTT3EzOU5jMTNBc2U0MlFYSHVZWG9vUk1hUGNmNFJPQ09KY29ObENDNkFPQjlwenNHT2VfRmhRMW5XVm9lLVVnTVZWMkltVS1CLVpGV3JJX0dBTTYtT2dONTN1aFFhSDlhV1lvSjVCMFotWnYzdzV5N3A1LVFsUkEwRGo5cnRQWFJ6b3hDdEJ4VW1aVGdDV1BzTElXdUNNRjRVbXlzQWp5bFdHODVUMFczVzVmb2NDWlcxNksxOWVIMEpQVGZGcFZCaDd1NE03VjVuWjU0QW11TnVmWnlwZ1I1VzZKRVZsdFBLcGNjRk9JZnhJNmU2T01PNHBnbVFJZkRJRWM3eS1GaVlIcTh1S2Q2aHlCT2wyRkEtdEkwUlplTzd0LU1VbHAwUXZhSkQ5bWhQNkRfZEtNczdhcXhWVHd5UjRFaUxRN2VTS1NUUzJwaWg1ZUZUUGpQU3dQWk5BcmVCUmlCd3RpUGNYMHJjeFM5MnJoZWl2MWZkVWdyUUliOW9EMzlyQkxHbWQ4UzhrZUkzLTM0RlBLMUxZVnQ5NWRtaUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-18 19:22:22"
+      },
+      {
+        "title": "豪雨重創雲林玉米田 張嘉郡虎尾、元長勘災 爭取救助 - 上報Up Media",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xTDk5ZGZwWW5CZFo2RENGc0NNT2tHVXRRa2daQm5DZEpGakFJUE4ySmZWdFlfLVJHc0ZJd0NZZXV6eGJ5NWNFQXlaQ0c1UE52UTNlWDlNSWstMTNJbkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-18 19:10:00"
       },
       {
         "title": "雲林玉米受災嚴重！張嘉郡籲農民儘速通報啟動救助| 政治 - 三立新聞網SETN.com",
@@ -556,6 +589,11 @@
         "title": "挽救「生不如死」！張嘉郡提幼照法修正案 公幼免費、私幼每位每人補至少1.5萬 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUUFJMkdzY2VCV3dVRWtUcVNmYnlTdDlwSFc5M2VmV181dzhBY3BBSjkwa2tocjA2NXd4Zm9DX2JBRXZscTJtNHo0RHh1TmZ5cE5RdXdEWlZQbTdXcHluX3daTmhpNV9yS1VaMUg1SUs1RTRuczJCSUluc0JhdXl5Z2p4TmRvODlmbGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-18 16:48:32"
+      },
+      {
+        "title": "張嘉郡提幼教法修法　主張公幼免學費、私幼每月補助1.5萬元 | 政治 | CTWANT - CTWANT",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40Q0lWdXo1Snc1MU4zTFNxcWJLUlVwM0c0TExlbE93ck5jMEQxdVhnc1JtRTU5eXFsMWFKNW45MmJ2SDFJTkZ5alNkcjBfQUnSAVRBVV95cUxOYlhfVXM4OW1NZUd5bHoyZWxnRkVKZW5VU3VpT1BLSU5kOEtEeFluU3pZWEY0Z2wyck1GMDgwQkJneUJzb1lYcE5uSDdJUFZDdFZvMGQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-18 16:40:13"
       },
       {
         "title": "搶救少子女化！張嘉郡提案育兒新政 公幼免費、私幼補助1.5萬 - Yahoo新聞",
@@ -634,15 +672,20 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 20,
+    "張嘉郡": 23,
     "劉建國": 6
   },
   "mention_compare_7d": {
-    "張嘉郡": 53,
+    "張嘉郡": 56,
     "劉建國": 97
   },
   "top_news": [
     {
+      "title": "雲林強降雨玉米泡水腐爛 張嘉郡爭取從寬天災救助 | 夏和宣 | 地方新聞 - Storm.mg",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkejlBVF9DSmUxLTloTC1PTkNCSVk1QWkxc0hUSS1Ta05GZl9JRW8tX0hfc3kteElpb3ZKb1IxVDVLb3ZiWWZFMUowUmVUUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-18 21:37:52"
+    },
+    {
       "title": "玉米飽滿肥美這原因釀災情 張嘉郡籲中央啟動救助 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pUGVsR0U0LWhIbHg0aDY2ekxCQW9jLWJQV3ZneTRVU182QmwzYllnY3JLRW9adGM1aFJBeDBxS3NqZ0s1UExiVm4zZXVpcXpo0gFWQVVfeXFMTTk2VjgzOXFEMjhzZThxMk42TG11MzJZZTVSUktnZ1AxSGYyNkJHLWNnUWJmOWJkVFZkSzVjU3ZCNWtnVkJwX19ydnR2OF9JWGFWTWJzbWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-18 19:54:03"
@@ -661,6 +704,11 @@
       "title": "粽香傳愛、幸福雲林 民進黨部攜手立委劉建國捐贈肉粽 傳遞節慶溫暖與社會關懷 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPaERiQS1zQVlQR3Foa3JrRkhNYjhOQ3cwUUxRc0RvMFJlQXM0NGZZaHp5NFotVXpsU1ZhRmVIUFlTQzFBd1RkRTFFUjJZNGpRNG9ncVJTT3EzOU5jMTNBc2U0MlFYSHVZWG9vUk1hUGNmNFJPQ09KY29ObENDNkFPQjlwenNHT2VfRmhRMW5XVm9lLVVnTVZWMkltVS1CLVpGV3JJX0dBTTYtT2dONTN1aFFhSDlhV1lvSjVCMFotWnYzdzV5N3A1LVFsUkEwRGo5cnRQWFJ6b3hDdEJ4VW1aVGdDV1BzTElXdUNNRjRVbXlzQWp5bFdHODVUMFczVzVmb2NDWlcxNksxOWVIMEpQVGZGcFZCaDd1NE03VjVuWjU0QW11TnVmWnlwZ1I1VzZKRVZsdFBLcGNjRk9JZnhJNmU2T01PNHBnbVFJZkRJRWM3eS1GaVlIcTh1S2Q2aHlCT2wyRkEtdEkwUlplTzd0LU1VbHAwUXZhSkQ5bWhQNkRfZEtNczdhcXhWVHd5UjRFaUxRN2VTS1NUUzJwaWg1ZUZUUGpQU3dQWk5BcmVCUmlCd3RpUGNYMHJjeFM5MnJoZWl2MWZkVWdyUUliOW9EMzlyQkxHbWQ4UzhrZUkzLTM0RlBLMUxZVnQ5NWRtaUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-18 19:22:22"
+    },
+    {
+      "title": "豪雨重創雲林玉米田 張嘉郡虎尾、元長勘災 爭取救助 - 上報Up Media",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xTDk5ZGZwWW5CZFo2RENGc0NNT2tHVXRRa2daQm5DZEpGakFJUE4ySmZWdFlfLVJHc0ZJd0NZZXV6eGJ5NWNFQXlaQ0c1UE52UTNlWDlNSWstMTNJbkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-18 19:10:00"
     },
     {
       "title": "雲林玉米受災嚴重！張嘉郡籲農民儘速通報啟動救助| 政治 - 三立新聞網SETN.com",
@@ -691,20 +739,15 @@
       "title": "提修幼兒照顧法解決少子化張嘉郡：公幼、非營利幼兒園費用全免| 政治焦點 - 太報 TaiSounds",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CN2tqQ3YwZGg3anczcWgzeS1FNktBUHhzLWo4QUxOT3Z3czhiNzE4Q19jbE9zNjZyLWs4V0NEblJRVFMyYmg1dWczVkpTUkk5N21TSE5PMnk5N0FG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-18 16:54:45"
-    },
-    {
-      "title": "提修幼兒照顧法解決少子化 張嘉郡：公幼、非營利幼兒園費用全免 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQeVpzOGdQd2U3UGtYRURQaEVFdXdqOUV4Y25FNlJONG9oTkhVcjVFcloxTmtFOERkR3c4bkdLZjJqUC1RVko2R3BTM1VFZE9wdFA2S09EYV9wSU1YWEpibTdCUGplaTFUMHlDVWRyTmhTVmNVRzAzQnZUamVoUEk4N1RoMEdUU1U2Y2pYdjdwM1YtQ1JQZDFqd1E2bG5leFV0VHBGUXUyM3IxdzZzY1NTeWZVbUtodXBtU1FkZkRDdlRaV0dCZUlOaFpYdHV0ZlJnWUNlcnhKZ0h6cHJsUVhmZnVsTnpnTWFIMXJFU3lrV2xqZ01ucmt5MnFmaVVRMjZwcWdsSUx2M0VOZVVvRHRGTktDR2R4ankzejlFbkFVMlhRUmpHeGctay1Dd3FfdkJVbjNFVjlxejdZMEZnR0hSQVp1dk5iY1BuOE1hcmFZMGpmYzJoSldjcVBMYnphYUpSREJoS1JHOUlURERNV1ctRXZ4SWw4UjlodWtUM19BT2lfZ3IxYkJOamRsM2o0bGc4UnNFUUNPN2hLT1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-18 16:54:45"
-    },
-    {
-      "title": "挽救「生不如死」！張嘉郡提幼照法修正案 公幼免費、私幼每位每人補至少1.5萬 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUUFJMkdzY2VCV3dVRWtUcVNmYnlTdDlwSFc5M2VmV181dzhBY3BBSjkwa2tocjA2NXd4Zm9DX2JBRXZscTJtNHo0RHh1TmZ5cE5RdXdEWlZQbTdXcHluX3daTmhpNV9yS1VaMUg1SUs1RTRuczJCSUluc0JhdXl5Z2p4TmRvODlmbGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-18 16:48:32"
     }
   ],
   "top_news_7d": [
     {
+      "title": "雲林強降雨玉米泡水腐爛 張嘉郡爭取從寬天災救助 | 夏和宣 | 地方新聞 - Storm.mg",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkejlBVF9DSmUxLTloTC1PTkNCSVk1QWkxc0hUSS1Ta05GZl9JRW8tX0hfc3kteElpb3ZKb1IxVDVLb3ZiWWZFMUowUmVUUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-18 21:37:52"
+    },
+    {
       "title": "玉米飽滿肥美這原因釀災情 張嘉郡籲中央啟動救助 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pUGVsR0U0LWhIbHg0aDY2ekxCQW9jLWJQV3ZneTRVU182QmwzYllnY3JLRW9adGM1aFJBeDBxS3NqZ0s1UExiVm4zZXVpcXpo0gFWQVVfeXFMTTk2VjgzOXFEMjhzZThxMk42TG11MzJZZTVSUktnZ1AxSGYyNkJHLWNnUWJmOWJkVFZkSzVjU3ZCNWtnVkJwX19ydnR2OF9JWGFWTWJzbWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-18 19:54:03"
@@ -723,6 +766,11 @@
       "title": "粽香傳愛、幸福雲林 民進黨部攜手立委劉建國捐贈肉粽 傳遞節慶溫暖與社會關懷 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPaERiQS1zQVlQR3Foa3JrRkhNYjhOQ3cwUUxRc0RvMFJlQXM0NGZZaHp5NFotVXpsU1ZhRmVIUFlTQzFBd1RkRTFFUjJZNGpRNG9ncVJTT3EzOU5jMTNBc2U0MlFYSHVZWG9vUk1hUGNmNFJPQ09KY29ObENDNkFPQjlwenNHT2VfRmhRMW5XVm9lLVVnTVZWMkltVS1CLVpGV3JJX0dBTTYtT2dONTN1aFFhSDlhV1lvSjVCMFotWnYzdzV5N3A1LVFsUkEwRGo5cnRQWFJ6b3hDdEJ4VW1aVGdDV1BzTElXdUNNRjRVbXlzQWp5bFdHODVUMFczVzVmb2NDWlcxNksxOWVIMEpQVGZGcFZCaDd1NE03VjVuWjU0QW11TnVmWnlwZ1I1VzZKRVZsdFBLcGNjRk9JZnhJNmU2T01PNHBnbVFJZkRJRWM3eS1GaVlIcTh1S2Q2aHlCT2wyRkEtdEkwUlplTzd0LU1VbHAwUXZhSkQ5bWhQNkRfZEtNczdhcXhWVHd5UjRFaUxRN2VTS1NUUzJwaWg1ZUZUUGpQU3dQWk5BcmVCUmlCd3RpUGNYMHJjeFM5MnJoZWl2MWZkVWdyUUliOW9EMzlyQkxHbWQ4UzhrZUkzLTM0RlBLMUxZVnQ5NWRtaUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-18 19:22:22"
+    },
+    {
+      "title": "豪雨重創雲林玉米田 張嘉郡虎尾、元長勘災 爭取救助 - 上報Up Media",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xTDk5ZGZwWW5CZFo2RENGc0NNT2tHVXRRa2daQm5DZEpGakFJUE4ySmZWdFlfLVJHc0ZJd0NZZXV6eGJ5NWNFQXlaQ0c1UE52UTNlWDlNSWstMTNJbkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-18 19:10:00"
     },
     {
       "title": "雲林玉米受災嚴重！張嘉郡籲農民儘速通報啟動救助| 政治 - 三立新聞網SETN.com",
@@ -763,6 +811,11 @@
       "title": "挽救「生不如死」！張嘉郡提幼照法修正案 公幼免費、私幼每位每人補至少1.5萬 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUUFJMkdzY2VCV3dVRWtUcVNmYnlTdDlwSFc5M2VmV181dzhBY3BBSjkwa2tocjA2NXd4Zm9DX2JBRXZscTJtNHo0RHh1TmZ5cE5RdXdEWlZQbTdXcHluX3daTmhpNV9yS1VaMUg1SUs1RTRuczJCSUluc0JhdXl5Z2p4TmRvODlmbGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-18 16:48:32"
+    },
+    {
+      "title": "張嘉郡提幼教法修法　主張公幼免學費、私幼每月補助1.5萬元 | 政治 | CTWANT - CTWANT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40Q0lWdXo1Snc1MU4zTFNxcWJLUlVwM0c0TExlbE93ck5jMEQxdVhnc1JtRTU5eXFsMWFKNW45MmJ2SDFJTkZ5alNkcjBfQUnSAVRBVV95cUxOYlhfVXM4OW1NZUd5bHoyZWxnRkVKZW5VU3VpT1BLSU5kOEtEeFluU3pZWEY0Z2wyck1GMDgwQkJneUJzb1lYcE5uSDdJUFZDdFZvMGQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-18 16:40:13"
     },
     {
       "title": "搶救少子女化！張嘉郡提案育兒新政 公幼免費、私幼補助1.5萬 - Yahoo新聞",
@@ -788,21 +841,6 @@
       "title": "改善育兒環境　藍委張嘉郡提案修法「公幼免費、私幼補助1.5萬元」 - 鏡週刊Mirror Media",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1senZQTFRCcG1hWHFhaGMzMEFuVEVNUDJMbTA3SXM2cVFlZ1NaYTI3YzA5cEYtODREMk9HUVhGdDZWLWtYTHBqcUhiSDZCY1ljTU1kSWhBazJXR3kxSXZQR2JaMnZTUdIBa0FVX3lxTE4yd1YyX29PX21yek1fQnVINlY5eXlDUExBVFV3SlVPOGMxb0JTN2hQNC1ERkF0NFV0ejVaMzd4YnFEWW5aRGtOMWp2M25KVmpFX1gtUjh1UkUtSGZreDlIZ29wZTFjUEs3Mm9r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-18 14:35:00"
-    },
-    {
-      "title": "張嘉郡拋育兒新政！要讓公幼免費、私幼補助拉高到1.5萬 - NOWnews今日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CS2pYX2FGMmRnOF9TZEduSzFaYUY0VkVoQ2FHWVZ1dDhaUkFvODVhTVFyUDlmMUxaOVZxT1pNZFA5aUk4UHZGdFFubkPSAVJBVV95cUxQSnJLZDRIaFlOanlCMVA4RXZBaHRzNl9KRmRKLU55eGtkSmZsbnNhbUtFTVYtSzRGblJSeHNhVzJPU2dpLWtPTVpxRUZ3N2g0eFpB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-18 14:26:32"
-    },
-    {
-      "title": "台灣少子化全球倒數 劉建國促衛福部做「為什麼不結婚」研究 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNcHJqaFFVSTBhRHVXMmRwZFJmU2N3enp6RkIxaUNaT0lsdk92QVZnb1BaSHhjSUJHNDdwNUxPQjlucUZ5V1puOXdMUXFVZTJncmxJaTNYQ0FvbG5zLWpCcndhSWFtdHFFM3AwUUQ5THM5TWlZUzZFbnUtZWZLRmRPMnMwcUJ5M21iZU1xeXpDY1BSUFp4Q0lPa1Z4THhEZGxGeTFsSGdjb18tUG56czBCbC1CSnl2aElVRXdpN2NnZjhiQXRZN20zYXdEdmNzUjQzS0lTQ3dCcDNaSnFxem1GTnNvSmNhY3Y1b1N4WDNlLW9lSFg0YUZacC15VlNkSmJHZFdmeGVMN01xc21TaFFERllUNEJ0MXFiWjE5bnBtdHdYRWt5YmJjbE5tdmtJMkpmci11bnVZZGJKRnBTZkhJZzZFM2Z6T010SWNOMVI1MXlKMVpqVU9YQzduZGVnNDh3TFNPYnRNa0ZNcWp4N0haWHEtUGdFTHFlczd3eWw2QTlOcFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-18 12:37:18"
-    },
-    {
-      "title": "台灣少子化全球倒數 劉建國促衛福部做「為什麼不結婚」研究 - 工商時報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KZW4wN2xaV0xXbWVmb1BOb0JvWFZGZjBhMWt2X01MS0xYdlNHOW9PR1RYUEJ0blRweFlldGs1bGNqWTN5N3poQTJjTUJZM0xNM2VwcURWTWJmYkYyc1VF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-18 12:00:00"
     }
   ],
   "latest_facebook_20": [
@@ -909,6 +947,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "雲林強降雨玉米泡水腐爛 張嘉郡爭取從寬天災救助 | 夏和宣 | 地方新聞 - Storm.mg",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkejlBVF9DSmUxLTloTC1PTkNCSVk1QWkxc0hUSS1Ta05GZl9JRW8tX0hfc3kteElpb3ZKb1IxVDVLb3ZiWWZFMUowUmVUUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-18 21:37:52"
+    },
+    {
       "title": "玉米飽滿肥美這原因釀災情 張嘉郡籲中央啟動救助 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pUGVsR0U0LWhIbHg0aDY2ekxCQW9jLWJQV3ZneTRVU182QmwzYllnY3JLRW9adGM1aFJBeDBxS3NqZ0s1UExiVm4zZXVpcXpo0gFWQVVfeXFMTTk2VjgzOXFEMjhzZThxMk42TG11MzJZZTVSUktnZ1AxSGYyNkJHLWNnUWJmOWJkVFZkSzVjU3ZCNWtnVkJwX19ydnR2OF9JWGFWTWJzbWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-18 19:54:03"
@@ -927,6 +970,11 @@
       "title": "粽香傳愛、幸福雲林 民進黨部攜手立委劉建國捐贈肉粽 傳遞節慶溫暖與社會關懷 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPaERiQS1zQVlQR3Foa3JrRkhNYjhOQ3cwUUxRc0RvMFJlQXM0NGZZaHp5NFotVXpsU1ZhRmVIUFlTQzFBd1RkRTFFUjJZNGpRNG9ncVJTT3EzOU5jMTNBc2U0MlFYSHVZWG9vUk1hUGNmNFJPQ09KY29ObENDNkFPQjlwenNHT2VfRmhRMW5XVm9lLVVnTVZWMkltVS1CLVpGV3JJX0dBTTYtT2dONTN1aFFhSDlhV1lvSjVCMFotWnYzdzV5N3A1LVFsUkEwRGo5cnRQWFJ6b3hDdEJ4VW1aVGdDV1BzTElXdUNNRjRVbXlzQWp5bFdHODVUMFczVzVmb2NDWlcxNksxOWVIMEpQVGZGcFZCaDd1NE03VjVuWjU0QW11TnVmWnlwZ1I1VzZKRVZsdFBLcGNjRk9JZnhJNmU2T01PNHBnbVFJZkRJRWM3eS1GaVlIcTh1S2Q2aHlCT2wyRkEtdEkwUlplTzd0LU1VbHAwUXZhSkQ5bWhQNkRfZEtNczdhcXhWVHd5UjRFaUxRN2VTS1NUUzJwaWg1ZUZUUGpQU3dQWk5BcmVCUmlCd3RpUGNYMHJjeFM5MnJoZWl2MWZkVWdyUUliOW9EMzlyQkxHbWQ4UzhrZUkzLTM0RlBLMUxZVnQ5NWRtaUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-18 19:22:22"
+    },
+    {
+      "title": "豪雨重創雲林玉米田 張嘉郡虎尾、元長勘災 爭取救助 - 上報Up Media",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xTDk5ZGZwWW5CZFo2RENGc0NNT2tHVXRRa2daQm5DZEpGakFJUE4ySmZWdFlfLVJHc0ZJd0NZZXV6eGJ5NWNFQXlaQ0c1UE52UTNlWDlNSWstMTNJbkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-18 19:10:00"
     },
     {
       "title": "雲林玉米受災嚴重！張嘉郡籲農民儘速通報啟動救助| 政治 - 三立新聞網SETN.com",
@@ -969,6 +1017,11 @@
       "time": "2026-06-18 16:48:32"
     },
     {
+      "title": "張嘉郡提幼教法修法　主張公幼免學費、私幼每月補助1.5萬元 | 政治 | CTWANT - CTWANT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40Q0lWdXo1Snc1MU4zTFNxcWJLUlVwM0c0TExlbE93ck5jMEQxdVhnc1JtRTU5eXFsMWFKNW45MmJ2SDFJTkZ5alNkcjBfQUnSAVRBVV95cUxOYlhfVXM4OW1NZUd5bHoyZWxnRkVKZW5VU3VpT1BLSU5kOEtEeFluU3pZWEY0Z2wyck1GMDgwQkJneUJzb1lYcE5uSDdJUFZDdFZvMGQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-18 16:40:13"
+    },
+    {
       "title": "搶救少子女化！張嘉郡提案育兒新政 公幼免費、私幼補助1.5萬 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPSEoxLXh1YlRkdldfdGtCWDZUTEtwS3pKZzRYcXNZa2FDdGRQTkI5ejdSQkhkSWNQejZfeDZ1eEtzRUZQcjRZLVowZ2tKeEliTmxXS1UtRnRmb1Q3TGJYTFg4bzU0UVM4LVV0S1NHZXk3ZFJ5WFR4eWZISnFobXlaYUV2clA0YWpzMGw4b1J3eDZkajFfR3JDX3JiTHc0a1k5UzNjLVlsZDRDbk5DakQ1c1BBbHBOSzE2S3hnTWVxQ2ZQNVhXQnhNWnZuZVBaTWRsTlBId3lwV2JMTWNtd3A4UjFKU3lJc3V4QVBZVHh2Z3g2R0tNMmlMay1BYVVWbXBZaHVGWXN0Q0pqY2YzMUVBMmVkeWF3RkhmOEVpMThQTTFfY0hjOVRoWW9PZkh5Vzd6SnRnVUhLMWwwWVlVWFRYTjZrek5SVVFfS1MwUmpjelowMXFVXzJOMkFWZGJ5cXlDQnRKR21FM2ttMkdjenFkcUIwUzZ4X1hnZ1Iw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-18 16:29:12"
@@ -992,21 +1045,6 @@
       "title": "改善育兒環境　藍委張嘉郡提案修法「公幼免費、私幼補助1.5萬元」 - 鏡週刊Mirror Media",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1senZQTFRCcG1hWHFhaGMzMEFuVEVNUDJMbTA3SXM2cVFlZ1NaYTI3YzA5cEYtODREMk9HUVhGdDZWLWtYTHBqcUhiSDZCY1ljTU1kSWhBazJXR3kxSXZQR2JaMnZTUdIBa0FVX3lxTE4yd1YyX29PX21yek1fQnVINlY5eXlDUExBVFV3SlVPOGMxb0JTN2hQNC1ERkF0NFV0ejVaMzd4YnFEWW5aRGtOMWp2M25KVmpFX1gtUjh1UkUtSGZreDlIZ29wZTFjUEs3Mm9r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-18 14:35:00"
-    },
-    {
-      "title": "張嘉郡拋育兒新政！要讓公幼免費、私幼補助拉高到1.5萬 - NOWnews今日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CS2pYX2FGMmRnOF9TZEduSzFaYUY0VkVoQ2FHWVZ1dDhaUkFvODVhTVFyUDlmMUxaOVZxT1pNZFA5aUk4UHZGdFFubkPSAVJBVV95cUxQSnJLZDRIaFlOanlCMVA4RXZBaHRzNl9KRmRKLU55eGtkSmZsbnNhbUtFTVYtSzRGblJSeHNhVzJPU2dpLWtPTVpxRUZ3N2g0eFpB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-18 14:26:32"
-    },
-    {
-      "title": "台灣少子化全球倒數 劉建國促衛福部做「為什麼不結婚」研究 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNcHJqaFFVSTBhRHVXMmRwZFJmU2N3enp6RkIxaUNaT0lsdk92QVZnb1BaSHhjSUJHNDdwNUxPQjlucUZ5V1puOXdMUXFVZTJncmxJaTNYQ0FvbG5zLWpCcndhSWFtdHFFM3AwUUQ5THM5TWlZUzZFbnUtZWZLRmRPMnMwcUJ5M21iZU1xeXpDY1BSUFp4Q0lPa1Z4THhEZGxGeTFsSGdjb18tUG56czBCbC1CSnl2aElVRXdpN2NnZjhiQXRZN20zYXdEdmNzUjQzS0lTQ3dCcDNaSnFxem1GTnNvSmNhY3Y1b1N4WDNlLW9lSFg0YUZacC15VlNkSmJHZFdmeGVMN01xc21TaFFERllUNEJ0MXFiWjE5bnBtdHdYRWt5YmJjbE5tdmtJMkpmci11bnVZZGJKRnBTZkhJZzZFM2Z6T010SWNOMVI1MXlKMVpqVU9YQzduZGVnNDh3TFNPYnRNa0ZNcWp4N0haWHEtUGdFTHFlczd3eWw2QTlOcFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-18 12:37:18"
-    },
-    {
-      "title": "台灣少子化全球倒數 劉建國促衛福部做「為什麼不結婚」研究 - 工商時報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KZW4wN2xaV0xXbWVmb1BOb0JvWFZGZjBhMWt2X01MS0xYdlNHOW9PR1RYUEJ0blRweFlldGs1bGNqWTN5N3poQTJjTUJZM0xNM2VwcURWTWJmYkYyc1VF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-18 12:00:00"
     }
   ],
   "person_sections": {
@@ -1115,9 +1153,19 @@
       ],
       "news": [
         {
+          "title": "雲林強降雨玉米泡水腐爛 張嘉郡爭取從寬天災救助 | 夏和宣 | 地方新聞 - Storm.mg",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkejlBVF9DSmUxLTloTC1PTkNCSVk1QWkxc0hUSS1Ta05GZl9JRW8tX0hfc3kteElpb3ZKb1IxVDVLb3ZiWWZFMUowUmVUUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-18 21:37:52"
+        },
+        {
           "title": "玉米飽滿肥美這原因釀災情 張嘉郡籲中央啟動救助 - UDN",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pUGVsR0U0LWhIbHg0aDY2ekxCQW9jLWJQV3ZneTRVU182QmwzYllnY3JLRW9adGM1aFJBeDBxS3NqZ0s1UExiVm4zZXVpcXpo0gFWQVVfeXFMTTk2VjgzOXFEMjhzZThxMk42TG11MzJZZTVSUktnZ1AxSGYyNkJHLWNnUWJmOWJkVFZkSzVjU3ZCNWtnVkJwX19ydnR2OF9JWGFWTWJzbWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-18 19:54:03"
+        },
+        {
+          "title": "豪雨重創雲林玉米田 張嘉郡虎尾、元長勘災 爭取救助 - 上報Up Media",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xTDk5ZGZwWW5CZFo2RENGc0NNT2tHVXRRa2daQm5DZEpGakFJUE4ySmZWdFlfLVJHc0ZJd0NZZXV6eGJ5NWNFQXlaQ0c1UE52UTNlWDlNSWstMTNJbkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-18 19:10:00"
         },
         {
           "title": "雲林玉米受災嚴重！張嘉郡籲農民儘速通報啟動救助| 政治 - 三立新聞網SETN.com",
@@ -1160,6 +1208,11 @@
           "time": "2026-06-18 16:48:32"
         },
         {
+          "title": "張嘉郡提幼教法修法　主張公幼免學費、私幼每月補助1.5萬元 | 政治 | CTWANT - CTWANT",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40Q0lWdXo1Snc1MU4zTFNxcWJLUlVwM0c0TExlbE93ck5jMEQxdVhnc1JtRTU5eXFsMWFKNW45MmJ2SDFJTkZ5alNkcjBfQUnSAVRBVV95cUxOYlhfVXM4OW1NZUd5bHoyZWxnRkVKZW5VU3VpT1BLSU5kOEtEeFluU3pZWEY0Z2wyck1GMDgwQkJneUJzb1lYcE5uSDdJUFZDdFZvMGQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-18 16:40:13"
+        },
+        {
           "title": "搶救少子女化！張嘉郡提案育兒新政 公幼免費、私幼補助1.5萬 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPSEoxLXh1YlRkdldfdGtCWDZUTEtwS3pKZzRYcXNZa2FDdGRQTkI5ejdSQkhkSWNQejZfeDZ1eEtzRUZQcjRZLVowZ2tKeEliTmxXS1UtRnRmb1Q3TGJYTFg4bzU0UVM4LVV0S1NHZXk3ZFJ5WFR4eWZISnFobXlaYUV2clA0YWpzMGw4b1J3eDZkajFfR3JDX3JiTHc0a1k5UzNjLVlsZDRDbk5DakQ1c1BBbHBOSzE2S3hnTWVxQ2ZQNVhXQnhNWnZuZVBaTWRsTlBId3lwV2JMTWNtd3A4UjFKU3lJc3V4QVBZVHh2Z3g2R0tNMmlMay1BYVVWbXBZaHVGWXN0Q0pqY2YzMUVBMmVkeWF3RkhmOEVpMThQTTFfY0hjOVRoWW9PZkh5Vzd6SnRnVUhLMWwwWVlVWFRYTjZrek5SVVFfS1MwUmpjelowMXFVXzJOMkFWZGJ5cXlDQnRKR21FM2ttMkdjenFkcUIwUzZ4X1hnZ1Iw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-18 16:29:12"
@@ -1198,21 +1251,6 @@
           "title": "豪雨重創雲林花生 張嘉郡籲從速從寬從簡補助 - 經濟日報",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GeDRnbjRLajJDNEttN21SV1NBUXhMT0FQZTFaWFB3Y3JaOTd3aWtaRzB0M3k5OGZydDVLcEVwNkNBTklUN0xMbXdJWmdNQUlqaWIwcHRfb0VCd9IBX0FVX3lxTE1UVGJaekdQMGtld1JYLTA5bk5uLUI4Y0xvSVNaOEtrZXU2OFoydXFsdWpjS2ZFUkFSOXVfRU5EbE9iVjlid1pDcXpSRXZPdm1oZmhqSEs1SjF2czFhamFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-17 17:12:16"
-        },
-        {
-          "title": "豪雨重創雲林花生 張嘉郡籲從速從寬從簡補助 - 經濟日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UVGJaekdQMGtld1JYLTA5bk5uLUI4Y0xvSVNaOEtrZXU2OFoydXFsdWpjS2ZFUkFSOXVfRU5EbE9iVjlid1pDcXpSRXZPdm1oZmhqSEs1SjF2czFhamFB0gFfQVVfeXFMTVRUYlp6R1Awa2V3UlgtMDluTm4tQjhjTG9JU1o4S2tldTY4WjJ1cWx1amNLZkVSQVI5dV9FTkRsT2JWOWJ3WkNxelJFdk92bWhmaGpISzVKMXZzMWFqYUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-17 17:12:16"
-        },
-        {
-          "title": "豪雨重創雲林花生 張嘉郡籲從速從寬從簡補助 - 經濟日報",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3S3NIZWs2OWxXMHU3cFhCR0RYV3l6aWNkRng4ZzVGcDJxc2h0SkZBSFVlbEUxWm5qeV9lY21TS0NvTTd4ZFVGOW8waEp3X19XOF9FQ29nQVBxTElwakpzVUIwLTVlMEJ1Nm5Pd2lYTlNtSWxNVkhxNnVVZ9IBX0FVX3lxTE1UVGJaekdQMGtld1JYLTA5bk5uLUI4Y0xvSVNaOEtrZXU2OFoydXFsdWpjS2ZFUkFSOXVfRU5EbE9iVjlid1pDcXpSRXZPdm1oZmhqSEs1SjF2czFhamFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-17 17:12:16"
-        },
-        {
-          "title": "討論牆 | 豪雨重創雲林花生採收期 張嘉郡籲從速從寬補助搶救農民生計 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOZXZPQzJlN3RmQUlVSEE4YVd3eEFSdS1veGUtaXpHUWZZS05kWWNrYnVNWHJGeGxJb2pablF4b2kwQ01FTW5pOTc4MklyTlRMYUZacjQxcjh0T0xqaWlRYWxTSW8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-17 15:55:45"
         }
       ]
     },
@@ -1426,6 +1464,11 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "雲林強降雨玉米泡水腐爛 張嘉郡爭取從寬天災救助 | 夏和宣 | 地方新聞 - Storm.mg",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkejlBVF9DSmUxLTloTC1PTkNCSVk1QWkxc0hUSS1Ta05GZl9JRW8tX0hfc3kteElpb3ZKb1IxVDVLb3ZiWWZFMUowUmVUUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-18 21:37:52"
+      },
+      {
         "title": "玉米飽滿肥美這原因釀災情 張嘉郡籲中央啟動救助 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pUGVsR0U0LWhIbHg0aDY2ekxCQW9jLWJQV3ZneTRVU182QmwzYllnY3JLRW9adGM1aFJBeDBxS3NqZ0s1UExiVm4zZXVpcXpo0gFWQVVfeXFMTTk2VjgzOXFEMjhzZThxMk42TG11MzJZZTVSUktnZ1AxSGYyNkJHLWNnUWJmOWJkVFZkSzVjU3ZCNWtnVkJwX19ydnR2OF9JWGFWTWJzbWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-18 19:54:03"
@@ -1444,6 +1487,11 @@
         "title": "粽香傳愛、幸福雲林 民進黨部攜手立委劉建國捐贈肉粽 傳遞節慶溫暖與社會關懷 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPaERiQS1zQVlQR3Foa3JrRkhNYjhOQ3cwUUxRc0RvMFJlQXM0NGZZaHp5NFotVXpsU1ZhRmVIUFlTQzFBd1RkRTFFUjJZNGpRNG9ncVJTT3EzOU5jMTNBc2U0MlFYSHVZWG9vUk1hUGNmNFJPQ09KY29ObENDNkFPQjlwenNHT2VfRmhRMW5XVm9lLVVnTVZWMkltVS1CLVpGV3JJX0dBTTYtT2dONTN1aFFhSDlhV1lvSjVCMFotWnYzdzV5N3A1LVFsUkEwRGo5cnRQWFJ6b3hDdEJ4VW1aVGdDV1BzTElXdUNNRjRVbXlzQWp5bFdHODVUMFczVzVmb2NDWlcxNksxOWVIMEpQVGZGcFZCaDd1NE03VjVuWjU0QW11TnVmWnlwZ1I1VzZKRVZsdFBLcGNjRk9JZnhJNmU2T01PNHBnbVFJZkRJRWM3eS1GaVlIcTh1S2Q2aHlCT2wyRkEtdEkwUlplTzd0LU1VbHAwUXZhSkQ5bWhQNkRfZEtNczdhcXhWVHd5UjRFaUxRN2VTS1NUUzJwaWg1ZUZUUGpQU3dQWk5BcmVCUmlCd3RpUGNYMHJjeFM5MnJoZWl2MWZkVWdyUUliOW9EMzlyQkxHbWQ4UzhrZUkzLTM0RlBLMUxZVnQ5NWRtaUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-18 19:22:22"
+      },
+      {
+        "title": "豪雨重創雲林玉米田 張嘉郡虎尾、元長勘災 爭取救助 - 上報Up Media",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xTDk5ZGZwWW5CZFo2RENGc0NNT2tHVXRRa2daQm5DZEpGakFJUE4ySmZWdFlfLVJHc0ZJd0NZZXV6eGJ5NWNFQXlaQ0c1UE52UTNlWDlNSWstMTNJbkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-18 19:10:00"
       },
       {
         "title": "雲林玉米受災嚴重！張嘉郡籲農民儘速通報啟動救助| 政治 - 三立新聞網SETN.com",
@@ -1484,6 +1532,11 @@
         "title": "挽救「生不如死」！張嘉郡提幼照法修正案 公幼免費、私幼每位每人補至少1.5萬 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUUFJMkdzY2VCV3dVRWtUcVNmYnlTdDlwSFc5M2VmV181dzhBY3BBSjkwa2tocjA2NXd4Zm9DX2JBRXZscTJtNHo0RHh1TmZ5cE5RdXdEWlZQbTdXcHluX3daTmhpNV9yS1VaMUg1SUs1RTRuczJCSUluc0JhdXl5Z2p4TmRvODlmbGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-18 16:48:32"
+      },
+      {
+        "title": "張嘉郡提幼教法修法　主張公幼免學費、私幼每月補助1.5萬元 | 政治 | CTWANT - CTWANT",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40Q0lWdXo1Snc1MU4zTFNxcWJLUlVwM0c0TExlbE93ck5jMEQxdVhnc1JtRTU5eXFsMWFKNW45MmJ2SDFJTkZ5alNkcjBfQUnSAVRBVV95cUxOYlhfVXM4OW1NZUd5bHoyZWxnRkVKZW5VU3VpT1BLSU5kOEtEeFluU3pZWEY0Z2wyck1GMDgwQkJneUJzb1lYcE5uSDdJUFZDdFZvMGQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-18 16:40:13"
       },
       {
         "title": "搶救少子女化！張嘉郡提案育兒新政 公幼免費、私幼補助1.5萬 - Yahoo新聞",
@@ -1569,6 +1622,11 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "雲林強降雨玉米泡水腐爛 張嘉郡爭取從寬天災救助 | 夏和宣 | 地方新聞 - Storm.mg",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkejlBVF9DSmUxLTloTC1PTkNCSVk1QWkxc0hUSS1Ta05GZl9JRW8tX0hfc3kteElpb3ZKb1IxVDVLb3ZiWWZFMUowUmVUUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-18 21:37:52"
+      },
+      {
         "title": "玉米飽滿肥美這原因釀災情 張嘉郡籲中央啟動救助 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pUGVsR0U0LWhIbHg0aDY2ekxCQW9jLWJQV3ZneTRVU182QmwzYllnY3JLRW9adGM1aFJBeDBxS3NqZ0s1UExiVm4zZXVpcXpo0gFWQVVfeXFMTTk2VjgzOXFEMjhzZThxMk42TG11MzJZZTVSUktnZ1AxSGYyNkJHLWNnUWJmOWJkVFZkSzVjU3ZCNWtnVkJwX19ydnR2OF9JWGFWTWJzbWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-18 19:54:03"
@@ -1587,6 +1645,11 @@
         "title": "粽香傳愛、幸福雲林 民進黨部攜手立委劉建國捐贈肉粽 傳遞節慶溫暖與社會關懷 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPaERiQS1zQVlQR3Foa3JrRkhNYjhOQ3cwUUxRc0RvMFJlQXM0NGZZaHp5NFotVXpsU1ZhRmVIUFlTQzFBd1RkRTFFUjJZNGpRNG9ncVJTT3EzOU5jMTNBc2U0MlFYSHVZWG9vUk1hUGNmNFJPQ09KY29ObENDNkFPQjlwenNHT2VfRmhRMW5XVm9lLVVnTVZWMkltVS1CLVpGV3JJX0dBTTYtT2dONTN1aFFhSDlhV1lvSjVCMFotWnYzdzV5N3A1LVFsUkEwRGo5cnRQWFJ6b3hDdEJ4VW1aVGdDV1BzTElXdUNNRjRVbXlzQWp5bFdHODVUMFczVzVmb2NDWlcxNksxOWVIMEpQVGZGcFZCaDd1NE03VjVuWjU0QW11TnVmWnlwZ1I1VzZKRVZsdFBLcGNjRk9JZnhJNmU2T01PNHBnbVFJZkRJRWM3eS1GaVlIcTh1S2Q2aHlCT2wyRkEtdEkwUlplTzd0LU1VbHAwUXZhSkQ5bWhQNkRfZEtNczdhcXhWVHd5UjRFaUxRN2VTS1NUUzJwaWg1ZUZUUGpQU3dQWk5BcmVCUmlCd3RpUGNYMHJjeFM5MnJoZWl2MWZkVWdyUUliOW9EMzlyQkxHbWQ4UzhrZUkzLTM0RlBLMUxZVnQ5NWRtaUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-18 19:22:22"
+      },
+      {
+        "title": "豪雨重創雲林玉米田 張嘉郡虎尾、元長勘災 爭取救助 - 上報Up Media",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xTDk5ZGZwWW5CZFo2RENGc0NNT2tHVXRRa2daQm5DZEpGakFJUE4ySmZWdFlfLVJHc0ZJd0NZZXV6eGJ5NWNFQXlaQ0c1UE52UTNlWDlNSWstMTNJbkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-18 19:10:00"
       },
       {
         "title": "雲林玉米受災嚴重！張嘉郡籲農民儘速通報啟動救助| 政治 - 三立新聞網SETN.com",
@@ -1627,6 +1690,11 @@
         "title": "挽救「生不如死」！張嘉郡提幼照法修正案 公幼免費、私幼每位每人補至少1.5萬 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUUFJMkdzY2VCV3dVRWtUcVNmYnlTdDlwSFc5M2VmV181dzhBY3BBSjkwa2tocjA2NXd4Zm9DX2JBRXZscTJtNHo0RHh1TmZ5cE5RdXdEWlZQbTdXcHluX3daTmhpNV9yS1VaMUg1SUs1RTRuczJCSUluc0JhdXl5Z2p4TmRvODlmbGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-18 16:48:32"
+      },
+      {
+        "title": "張嘉郡提幼教法修法　主張公幼免學費、私幼每月補助1.5萬元 | 政治 | CTWANT - CTWANT",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40Q0lWdXo1Snc1MU4zTFNxcWJLUlVwM0c0TExlbE93ck5jMEQxdVhnc1JtRTU5eXFsMWFKNW45MmJ2SDFJTkZ5alNkcjBfQUnSAVRBVV95cUxOYlhfVXM4OW1NZUd5bHoyZWxnRkVKZW5VU3VpT1BLSU5kOEtEeFluU3pZWEY0Z2wyck1GMDgwQkJneUJzb1lYcE5uSDdJUFZDdFZvMGQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-18 16:40:13"
       },
       {
         "title": "搶救少子女化！張嘉郡提案育兒新政 公幼免費、私幼補助1.5萬 - Yahoo新聞",
@@ -1752,21 +1820,6 @@
         "title": "劉建國爭取花生災損救助 農業部公告雲林全縣納入 每公頃提高至3.6萬元 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxPQllBRjdLTEM0SjBJYXBjNVZHaFFyWkVyTnFhRlhDT1E3SVRyN2podVRYSDZiOHI3VkhRZmt4WVpXbE1CZjBxdUxNa0NsVERSSXBmVzhGTGpJblZBZGV3dHA1b3FVd2RESUJjWFc1Q19RbjRqNWQwVk9iZGZqa3h2Z2NJcE1Tc1ozekpfaWFoaGZOeXRqVXZEVGQxQnQ4S0ZGTEVZV2ZnMnFubkphUXgtX2M3UG54a2JhLVl2MjJIMXM4N19CZEMzSUE0a1NzWkgyRnpkcDltTEFnZTlwNHV5OWI5SzBHUzd5MmFQbDFFTXU3WWVkZHJNeFNVUWNyVDFxNV8zeE91NXAtUFBoSklOb1VNTXBQazEzb1BpOEtMY0dEZG50TFNlc3NTWWZ0UmRPalZmdUxuZFdkaG55bjN1dnp6MnBNZmJXRnVqdGZsUVRoUzdpLS1BZi16aThwN3gzR1A4TXZkUHJMYTBYUkhxQUV1LVJWdUdHcjZ4d3c1Wm9VSlhCNWc2cDJQOVh5cFdRVTFSWW5PWXVmNmFzdXZQdWtXNGVaVml2N2VJVWtwazMyWEFvcDNDNlpTN0RTc3FSSWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-17 09:18:20"
-      },
-      {
-        "title": "劉建國邀環境部長彭啓明訪古坑 推動咖啡全株利用 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81VHdfZV8taXJUTmwtWUdOdlNfY3Joa0ZUZzhybEtIQmV6YUZwZ0NQRWhWdmpaYzd6Nk1qZGcxaXJSVEdpbEo2UGF6ME0ybXZDUGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-17 09:12:00"
-      },
-      {
-        "title": "劉建國爭取花生災損救助 農業部公告雲林全縣納入 每公頃提高至3.6萬元 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pSmtGeFJrUkd2bVNfQ2NNOHNxRm1lSHA3V3NPR1JwWTViMU5rUi1ZQmVXVjlpaklkQU1UMWxjMEFSNWEzU3pGalREeXpvcm4takE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-17 09:12:00"
-      },
-      {
-        "title": "劉建國邀環境部長彭啓明訪古坑 推動咖啡全株利用 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa1hSOXdJc0F0d0pIMUQ1ODZ4Qk1qT1E1VlFKWFQ1M3hxTGQ5Y0ozRUh1M2tSd2pUQ2NCZTNBYThTcDczQVpIYVJ5Z0dhZFZhZ3JpbEstcENfRUpZMGFsY0Y0cExqa0phTld0cGZKazdqakFtVHBzMWswU0RscHgwOTlPQkJYTkJPdkp0U0dqZ2NxLVh5OFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-17 09:04:20"
       }
     ],
     "facebook": [
@@ -2004,6 +2057,13 @@
     "hour": [],
     "day": [
       {
+        "title": "雲林強降雨玉米泡水腐爛 張嘉郡爭取從寬天災救助 | 夏和宣 | 地方新聞 - Storm.mg",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkejlBVF9DSmUxLTloTC1PTkNCSVk1QWkxc0hUSS1Ta05GZl9JRW8tX0hfc3kteElpb3ZKb1IxVDVLb3ZiWWZFMUowUmVUUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-18 21:37:52",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "玉米飽滿肥美這原因釀災情 張嘉郡籲中央啟動救助 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pUGVsR0U0LWhIbHg0aDY2ekxCQW9jLWJQV3ZneTRVU182QmwzYllnY3JLRW9adGM1aFJBeDBxS3NqZ0s1UExiVm4zZXVpcXpo0gFWQVVfeXFMTTk2VjgzOXFEMjhzZThxMk42TG11MzJZZTVSUktnZ1AxSGYyNkJHLWNnUWJmOWJkVFZkSzVjU3ZCNWtnVkJwX19ydnR2OF9JWGFWTWJzbWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-18 19:54:03",
@@ -2028,6 +2088,13 @@
         "title": "粽香傳愛、幸福雲林 民進黨部攜手立委劉建國捐贈肉粽 傳遞節慶溫暖與社會關懷 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPaERiQS1zQVlQR3Foa3JrRkhNYjhOQ3cwUUxRc0RvMFJlQXM0NGZZaHp5NFotVXpsU1ZhRmVIUFlTQzFBd1RkRTFFUjJZNGpRNG9ncVJTT3EzOU5jMTNBc2U0MlFYSHVZWG9vUk1hUGNmNFJPQ09KY29ObENDNkFPQjlwenNHT2VfRmhRMW5XVm9lLVVnTVZWMkltVS1CLVpGV3JJX0dBTTYtT2dONTN1aFFhSDlhV1lvSjVCMFotWnYzdzV5N3A1LVFsUkEwRGo5cnRQWFJ6b3hDdEJ4VW1aVGdDV1BzTElXdUNNRjRVbXlzQWp5bFdHODVUMFczVzVmb2NDWlcxNksxOWVIMEpQVGZGcFZCaDd1NE03VjVuWjU0QW11TnVmWnlwZ1I1VzZKRVZsdFBLcGNjRk9JZnhJNmU2T01PNHBnbVFJZkRJRWM3eS1GaVlIcTh1S2Q2aHlCT2wyRkEtdEkwUlplTzd0LU1VbHAwUXZhSkQ5bWhQNkRfZEtNczdhcXhWVHd5UjRFaUxRN2VTS1NUUzJwaWg1ZUZUUGpQU3dQWk5BcmVCUmlCd3RpUGNYMHJjeFM5MnJoZWl2MWZkVWdyUUliOW9EMzlyQkxHbWQ4UzhrZUkzLTM0RlBLMUxZVnQ5NWRtaUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-18 19:22:22",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "豪雨重創雲林玉米田 張嘉郡虎尾、元長勘災 爭取救助 - 上報Up Media",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xTDk5ZGZwWW5CZFo2RENGc0NNT2tHVXRRa2daQm5DZEpGakFJUE4ySmZWdFlfLVJHc0ZJd0NZZXV6eGJ5NWNFQXlaQ0c1UE52UTNlWDlNSWstMTNJbkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-18 19:10:00",
         "platform": "news",
         "risk": "綠"
       },
@@ -2102,6 +2169,13 @@
         "risk": "綠"
       },
       {
+        "title": "張嘉郡提幼教法修法　主張公幼免學費、私幼每月補助1.5萬元 | 政治 | CTWANT - CTWANT",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40Q0lWdXo1Snc1MU4zTFNxcWJLUlVwM0c0TExlbE93ck5jMEQxdVhnc1JtRTU5eXFsMWFKNW45MmJ2SDFJTkZ5alNkcjBfQUnSAVRBVV95cUxOYlhfVXM4OW1NZUd5bHoyZWxnRkVKZW5VU3VpT1BLSU5kOEtEeFluU3pZWEY0Z2wyck1GMDgwQkJneUJzb1lYcE5uSDdJUFZDdFZvMGQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-18 16:40:13",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "抗 #少子女化！#張嘉郡 提案「公幼費用全免」：私幼每月至少補助1.5萬 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOQ09lYk1uQS1SVHF6Y2hVS3BhNzh4ak8zSTAzRUVtVkw1NnVPR2ZYbmZreDhnSy1qcVlWakVfbVZBRVQzdnlvV3I5NW9tdUFLQURUeWJ1YzlRNnR6bllCOFBMQzJvcDJ6Njd3U3lLa3Zycm53LW0zQmxON05ibXRselp0ZkFxQ0NuY0JPSUczTFAxblFyMTZwcmFZZkppbmszNnlpZGVMcGR3Y0RCbjlSQlMtWmxmM0xHc1NkUzZVSk9TZXJFaDhDS3VMNVdSX0NqTHdGVng5UGZ2RGFBX2lKN05BdXVvYllNM0NjUHA4Y0pkVGU3SGFWUzVxUWEzazlWMUlfbXU4LVl0UmZhSkVrdGIwR2lJemlFYWMtdmNoVk9DYmMySXNiMEJxTHZ4RzFFX2k1LTAxckk0cmVFZ1Zzem9qeDQyeGZmRnF2dmNhSEtVcmFyYmg3ZWdYQ2pTdGRDQTVqbkNuQVM0dnhGa09WaUVCOGdNSDFKd3lDNkFhZXBFQjVzR0o3ZWJkbUN5WkhiSkFWYnZma1phVWs0WUZLRWl6OA",
         "time": "2026-06-18 16:31:14",
@@ -2121,27 +2195,6 @@
         "time": "2026-06-18 16:15:03",
         "platform": "facebook",
         "risk": "綠"
-      },
-      {
-        "title": "張嘉郡提案修法改善育兒環境 - 因應少子化衝擊，國民黨立委張嘉郡提出《幼兒教育及照顧法》第7條修正草案，主張公幼、非營利幼兒園費用全免，私立幼兒園則是每位幼兒每月補助金額不得低於1.5萬元，以拉近公、私幼差距，盼透過修法改善育兒環境。 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMilAhBVV95cUxNT1VwNzE5eXRzX1VIZVRhLVJsOFF5OXo3ZEpDMWFqM2VnRTdrLUtkLUtRQzAxZEg1TjUzeC1fZzBFXzNOYlBpbGFwTE42TXg0bWlzMGxLbGR3b2lwTTBaRkVRejNQbHR2OFJ0MnBSc0FUTk1wcGtQRWdSb3hEZGdWQ2FIQmdPOUgxYlYwcXdHeksxNWtHOG4wbVcyY3c0RVhkU2dGYkUycE9KWDhPRDROdjh5eEx0dW94S3hHM2RqM2NiU0lSN0lRM0c2WnNZLW1lWml3SGpjTUh4dHdvM3Nmd3ZyX2xaX2lsM1F6aWg4cS1zdXNWNEloXzRoSExobGtldWlWYUZSSUlSMHFkWm94VVJOM2dFQWV6S1NhVTF1WmNOVTRhMDU1V0c0ajNzUFFnX3VBNXNZMnBHeFFzRHRuZDFIX1dRVlFkcTJHel8zZjlDVG1RN2N1MmxFaDBZNjJvQlFaZ3Z6cDNENjNCTkVzVEFtaU1RQ1o0LXFmR2l0Z3FXZ3MtVE1jWFlvR1h4V085SEdsbTNJeGMtZDVqRXdpbHpZN0dMVXhDZDQtZl9KcjZMOGx4Q1FtaFdmTHNpUXdpRnZrTFhVTnBMUGt4dGh2UXdXQWhWR3VPRFhyN0tOSTZKeFZIdjlXSFo0OWkzLVdKMVl0d0ZNTkxINnF3SkdKMkM0TUg1dE5hQkFFbk9vY3ZFVVBRV2VXRUFNeS1tUm5ER0lCU2tKRzRTeTRDa2tncmg4QWwxVjlOUkN5RVc0ZDNtMXktajNCWnJ4eWNqbkttUU5UX0xxeFhPWVRfbXV4MDJmbUdqdkhlTGZFeGlhQm1Pd09yUTlLSDBJRVJYVHdiQzFVTUcyTkJWMTYzVlBRM3RpX3VJUTRfaVhMbHFVYzMwVGNIR3pCUXpQT0p6WEdtc2RsOXRCYk9aTDBKcU1LaXVJRm5oVUFQeDlLSVNlVkdoNy1WMDRHam9OQzkyQ0JnVzVsaUhYbFA3bjFOTU92NDRtcWxnYzNnYnd6V0l4X0s2VXkyYUk0cUoweTBmUmM3dkVoREd1UXFCeEZseEI0a1ltZ0w5dVladHJURUNHUlpSVGt6TXpTeFF6NXFKa1p4S1h3cFdFcmVGb2RETDRMOEdEUHl0R0g2OERMTUJvLXpoN2RQalRCT1BfUUlfODJmQnVSQ1Z2ZHIySnFfdlJmWjRzRmNSWnJEcUZwMW1TV0Y1dkVGMWM2dHlaSWZJc1VzUXpxbWh4cnMxR0xsdnk2bkVyV2pJd3RqNFUxMm1xZ3lLd1dLejFNcm5kc0tXZnA3R1lsdC1Db2ZtVFR6dnJ1R0pLS0FZaU02MEctbjBZNlM5NG1yeTRfLVNQb1NJR3FLaXpTYmxpa2dkWVNHeTQtdUVMRUw",
-        "time": "2026-06-18 16:15:03",
-        "platform": "facebook",
-        "risk": "綠"
-      },
-      {
-        "title": "抗少子女化！張嘉郡提案「公幼費用全免」：私幼每月至少補助1.5萬 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOT2I1MGdicHlGQnM2b3pSR0VBbzdsOTZibW50SHV3cnB2alBodFN5WTc1SlBqbmN0U2dfczE4ck1LZnBNcmhqY0pudEJEY215NW9Qc1l2Q21ubzFlU2tRQ1ZhY2FCOW9vUkgzaGxBc1ZNU3c4ZTFhZjFfNUtSbXFMSnY1WVNsZktLT2FKRWxOcXl3YUpsS0NXVEpTODVENUhCNGVZQnNJQ2VhdjVpc2xTaEhqM3JmOXljdFlSZl9EOFNXWkhmWXNwVmJDY2QteXZmMDlVMFNsQ0VIempIYm92bElvTl9yZ3l4TXlYS1dlckI2XzlrVFRYdVJkVnFlSFYzVjhnUnhNREtVUWJqOTliRnJ4WktXQnJvclR2N2JLLUlDN2lKd3dqaFdTTTJQZmxRajdybWRYMUllMzM0S0dWLXBXR0Y1S0pXOFNfX0diWjI0N1FqSU15T3BWM0Q4YVRaWGJ0VVhUUDV0S3RyamxTMDRMbk16UnVMdURpazdocllzNHNOVjlj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-18 16:14:00",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "抗少子女化！張嘉郡提案「公幼費用全免」：私幼每月至少補助1.5萬 - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12LXdMOEdWTVRibXJaaDV6X3lxcGE5eldNbkw2NmZyeXZ1aHNDUW5hMXlHdkFKdjE5S0doOGlkNW5WZGc1dDZfZ0hQcWM5ZXExTzNkLUxUTkXSAV9BVV95cUxNQ0lxMFlmS2FNRmNYVHlhSm5adVhiY3BLXy1jRGgzNHh4NGM3azVVazBFVGowem45VzBySEl5bjhabmFaODgwRDJkbkRSajhUbm01STY1b29OaGFXX0s0QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-18 16:09:00",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2149,17 +2202,17 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 5
+        "count": 7
       },
       {
         "name": "虎尾",
-        "count": 4
+        "count": 5
       }
     ],
     "groups": [
       {
         "name": "農業族群",
-        "count": 2
+        "count": 4
       },
       {
         "name": "教育家長",
