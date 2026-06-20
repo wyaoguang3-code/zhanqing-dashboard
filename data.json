@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-06-20T12:28:36.394190+00:00",
+  "generated_at": "2026-06-20T12:43:59.693337+00:00",
   "metrics": {
-    "total_24h": 1,
-    "prev_24h": 22,
-    "growth_pct": -95.45,
-    "news_24h": 0,
+    "total_24h": 2,
+    "prev_24h": 23,
+    "growth_pct": -91.3,
+    "news_24h": 1,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -15,8 +15,8 @@
   },
   "metrics_7d": {
     "total": 172,
-    "prev": 127,
-    "growth_pct": 35.43,
+    "prev": 129,
+    "growth_pct": 33.33,
     "news": 125,
     "anomaly": {
       "level": "綠",
@@ -28,6 +28,10 @@
   "by_platform": [
     {
       "platform": "facebook",
+      "count": 1
+    },
+    {
+      "platform": "news",
       "count": 1
     }
   ],
@@ -49,13 +53,13 @@
     {
       "hour": "2026-06-20 08:00",
       "count": 1
+    },
+    {
+      "hour": "2026-06-20 20:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
-    {
-      "hour": "2026-06-13 20:00",
-      "count": 2
-    },
     {
       "hour": "2026-06-13 22:00",
       "count": 1
@@ -262,7 +266,7 @@
     },
     {
       "hour": "2026-06-19 17:00",
-      "count": 4
+      "count": 5
     },
     {
       "hour": "2026-06-19 18:00",
@@ -271,22 +275,63 @@
     {
       "hour": "2026-06-20 08:00",
       "count": 1
+    },
+    {
+      "hour": "2026-06-20 20:00",
+      "count": 1
     }
   ],
-  "mention_by_platform_24h": [],
-  "mention_latest_by_platform_24h": {},
-  "alias_by_platform_24h": [],
-  "alias_latest_by_platform_24h": {},
+  "mention_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 1
+    }
+  ],
+  "mention_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "《農眷一起》夏日體驗日 雲林虎尾建國二村重新開門迎客 展現眷村與農村共融新風貌 - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xVTJUYmtVMFQ2ejdYSHd1aHhuakhZSGtTUnU1ek9TZ0hDeWRBTy1GQzd0X2JuUkRRYXNGTWMzSHROUXNGaHF4Mlp1TlEwcVY3cUxxd3JGWXRHUmhNM3AzWEJ6WVUwSm9Fa1hv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-20 20:27:35"
+      }
+    ]
+  },
+  "alias_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 1
+    }
+  ],
+  "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "《農眷一起》夏日體驗日 雲林虎尾建國二村重新開門迎客 展現眷村與農村共融新風貌 - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xVTJUYmtVMFQ2ejdYSHd1aHhuakhZSGtTUnU1ek9TZ0hDeWRBTy1GQzd0X2JuUkRRYXNGTWMzSHROUXNGaHF4Mlp1TlEwcVY3cUxxd3JGWXRHUmhNM3AzWEJ6WVUwSm9Fa1hv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-20 20:27:35"
+      }
+    ]
+  },
   "mention_compare_24h": {
     "張嘉郡": 0,
-    "劉建國": 0
+    "劉建國": 1
   },
   "mention_compare_7d": {
     "張嘉郡": 74,
     "劉建國": 86
   },
-  "top_news": [],
+  "top_news": [
+    {
+      "title": "《農眷一起》夏日體驗日 雲林虎尾建國二村重新開門迎客 展現眷村與農村共融新風貌 - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xVTJUYmtVMFQ2ejdYSHd1aHhuakhZSGtTUnU1ek9TZ0hDeWRBTy1GQzd0X2JuUkRRYXNGTWMzSHROUXNGaHF4Mlp1TlEwcVY3cUxxd3JGWXRHUmhNM3AzWEJ6WVUwSm9Fa1hv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-20 20:27:35"
+    }
+  ],
   "top_news_7d": [
+    {
+      "title": "《農眷一起》夏日體驗日 雲林虎尾建國二村重新開門迎客 展現眷村與農村共融新風貌 - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xVTJUYmtVMFQ2ejdYSHd1aHhuakhZSGtTUnU1ek9TZ0hDeWRBTy1GQzd0X2JuUkRRYXNGTWMzSHROUXNGaHF4Mlp1TlEwcVY3cUxxd3JGWXRHUmhNM3AzWEJ6WVUwSm9Fa1hv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-20 20:27:35"
+    },
     {
       "title": "民進黨雲林縣黨部、立法委員劉建國攜手 端午關懷送到家 五千粒肉粽傳愛心 | 台灣生活新聞 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoZmFQMzBkMjRlbHRSUnVwQlRFRGs3cDRqbjRQcGpUQlk1YXVBZS1RVGZNTllWSEtzYThJRWozOW1NNmNjREJiaXRfdm1BZWJZejVKRkpR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -296,6 +341,11 @@
       "title": "節慶溫暖與社會關懷 民進黨雲林縣黨部攜 x 立委劉建國服務處捐贈5000顆肉粽 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmUml0NllFc1ktRS1vMlEtREVkOGtKdlJacXdLMlpWaDgza2x4Tkx1SHpIdVpSSEQ5MmZZQzhJUG4zS1p1NzNuZ1lCeEV5THJfS0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-19 17:59:00"
+    },
+    {
+      "title": "民進黨雲林縣黨部、立法委員劉建國攜手 端午關懷送到家 五千粒肉粽傳愛心 | 台灣生活新聞 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTlJiOG1zdmh0TGVnaVE3N09DU2p3OHhfREQ0UlZPLWNPNWpkdEh5ZktvYjZtY09jcEdvMXF3QlU4aURTXzU4aXlIZGVnNW5oNkJ2T2hZZm5hbnE5cWJ5MFQ1MzdGNmdmamNYbVVPZ1ZrandzdENiNGt4OXBNNWZjQlozcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-19 17:49:12"
     },
     {
       "title": "民進黨雲林縣黨部、立法委員劉建國攜手 端午關懷送到家 五千粒肉粽傳愛心 - TDN台灣生活新聞",
@@ -376,16 +426,6 @@
       "title": "雲林強降雨玉米泡水腐爛 張嘉郡爭取從寬天災救助 | 夏和宣 | 地方新聞 - Storm.mg",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkejlBVF9DSmUxLTloTC1PTkNCSVk1QWkxc0hUSS1Ta05GZl9JRW8tX0hfc3kteElpb3ZKb1IxVDVLb3ZiWWZFMUowUmVUUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-18 21:37:52"
-    },
-    {
-      "title": "玉米飽滿肥美這原因釀災情 張嘉郡籲中央啟動救助 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pUGVsR0U0LWhIbHg0aDY2ekxCQW9jLWJQV3ZneTRVU182QmwzYllnY3JLRW9adGM1aFJBeDBxS3NqZ0s1UExiVm4zZXVpcXpo0gFWQVVfeXFMTTk2VjgzOXFEMjhzZThxMk42TG11MzJZZTVSUktnZ1AxSGYyNkJHLWNnUWJmOWJkVFZkSzVjU3ZCNWtnVkJwX19ydnR2OF9JWGFWTWJzbWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-18 19:54:03"
-    },
-    {
-      "title": "玉米飽滿肥美這原因釀災情 張嘉郡籲中央啟動救助 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05NlY4MzlxRDI4c2U4cTJONkxtdTMyWWU1UlJLZ2dQMUhmMjZCRy1jZ1FiZjliZFRWZEs1Y1N2QjVrZ1ZCcF9fcnZ0djhfSVhhVk1ic21n0gFWQVVfeXFMTTk2VjgzOXFEMjhzZThxMk42TG11MzJZZTVSUktnZ1AxSGYyNkJHLWNnUWJmOWJkVFZkSzVjU3ZCNWtnVkJwX19ydnR2OF9JWGFWTWJzbWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-18 19:54:03"
     }
   ],
   "latest_facebook_20": [
@@ -492,6 +532,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "《農眷一起》夏日體驗日 雲林虎尾建國二村重新開門迎客 展現眷村與農村共融新風貌 - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xVTJUYmtVMFQ2ejdYSHd1aHhuakhZSGtTUnU1ek9TZ0hDeWRBTy1GQzd0X2JuUkRRYXNGTWMzSHROUXNGaHF4Mlp1TlEwcVY3cUxxd3JGWXRHUmhNM3AzWEJ6WVUwSm9Fa1hv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-20 20:27:35"
+    },
+    {
       "title": "民進黨雲林縣黨部、立法委員劉建國攜手 端午關懷送到家 五千粒肉粽傳愛心 | 台灣生活新聞 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoZmFQMzBkMjRlbHRSUnVwQlRFRGs3cDRqbjRQcGpUQlk1YXVBZS1RVGZNTllWSEtzYThJRWozOW1NNmNjREJiaXRfdm1BZWJZejVKRkpR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-19 18:18:19"
@@ -500,6 +545,11 @@
       "title": "節慶溫暖與社會關懷 民進黨雲林縣黨部攜 x 立委劉建國服務處捐贈5000顆肉粽 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmUml0NllFc1ktRS1vMlEtREVkOGtKdlJacXdLMlpWaDgza2x4Tkx1SHpIdVpSSEQ5MmZZQzhJUG4zS1p1NzNuZ1lCeEV5THJfS0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-19 17:59:00"
+    },
+    {
+      "title": "民進黨雲林縣黨部、立法委員劉建國攜手 端午關懷送到家 五千粒肉粽傳愛心 | 台灣生活新聞 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTlJiOG1zdmh0TGVnaVE3N09DU2p3OHhfREQ0UlZPLWNPNWpkdEh5ZktvYjZtY09jcEdvMXF3QlU4aURTXzU4aXlIZGVnNW5oNkJ2T2hZZm5hbnE5cWJ5MFQ1MzdGNmdmamNYbVVPZ1ZrandzdENiNGt4OXBNNWZjQlozcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-19 17:49:12"
     },
     {
       "title": "民進黨雲林縣黨部、立法委員劉建國攜手 端午關懷送到家 五千粒肉粽傳愛心 - TDN台灣生活新聞",
@@ -580,16 +630,6 @@
       "title": "雲林強降雨玉米泡水腐爛 張嘉郡爭取從寬天災救助 | 夏和宣 | 地方新聞 - Storm.mg",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkejlBVF9DSmUxLTloTC1PTkNCSVk1QWkxc0hUSS1Ta05GZl9JRW8tX0hfc3kteElpb3ZKb1IxVDVLb3ZiWWZFMUowUmVUUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-18 21:37:52"
-    },
-    {
-      "title": "玉米飽滿肥美這原因釀災情 張嘉郡籲中央啟動救助 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pUGVsR0U0LWhIbHg0aDY2ekxCQW9jLWJQV3ZneTRVU182QmwzYllnY3JLRW9adGM1aFJBeDBxS3NqZ0s1UExiVm4zZXVpcXpo0gFWQVVfeXFMTTk2VjgzOXFEMjhzZThxMk42TG11MzJZZTVSUktnZ1AxSGYyNkJHLWNnUWJmOWJkVFZkSzVjU3ZCNWtnVkJwX19ydnR2OF9JWGFWTWJzbWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-18 19:54:03"
-    },
-    {
-      "title": "玉米飽滿肥美這原因釀災情 張嘉郡籲中央啟動救助 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05NlY4MzlxRDI4c2U4cTJONkxtdTMyWWU1UlJLZ2dQMUhmMjZCRy1jZ1FiZjliZFRWZEs1Y1N2QjVrZ1ZCcF9fcnZ0djhfSVhhVk1ic21n0gFWQVVfeXFMTTk2VjgzOXFEMjhzZThxMk42TG11MzJZZTVSUktnZ1AxSGYyNkJHLWNnUWJmOWJkVFZkSzVjU3ZCNWtnVkJwX19ydnR2OF9JWGFWTWJzbWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-18 19:54:03"
     }
   ],
   "person_sections": {
@@ -914,6 +954,11 @@
           "time": "2026-06-19 17:59:00"
         },
         {
+          "title": "民進黨雲林縣黨部、立法委員劉建國攜手 端午關懷送到家 五千粒肉粽傳愛心 | 台灣生活新聞 - LINE TODAY",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTlJiOG1zdmh0TGVnaVE3N09DU2p3OHhfREQ0UlZPLWNPNWpkdEh5ZktvYjZtY09jcEdvMXF3QlU4aURTXzU4aXlIZGVnNW5oNkJ2T2hZZm5hbnE5cWJ5MFQ1MzdGNmdmamNYbVVPZ1ZrandzdENiNGt4OXBNNWZjQlozcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-19 17:49:12"
+        },
+        {
           "title": "民進黨雲林縣黨部、立法委員劉建國攜手 端午關懷送到家 五千粒肉粽傳愛心 - TDN台灣生活新聞",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Zd1NSMTRhZ0F6ZGpmb0lreXRiSVcwM09PaEZ1UnhOaVIxb2NUaTcxbUozaXBVS1A0bk1uWDVkRXpHQUU5ZHlkMTIxQ1NYVy1W?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-19 17:45:02"
@@ -997,11 +1042,6 @@
           "title": "粽香傳愛、幸福雲林 民進黨雲林縣黨部攜手劉建國服務處捐贈近5000顆肉粽關懷弱勢 - 蕃新聞",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tUk5qUjBXUTIxVVI2Nmx1MmNac05lQm9meUIzZUtXWFdNYkE0Y2k0aGs1TXNnTUVPR2NHS3JOMUU4bzFZcHRjem9Mc3VKYlFVQnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-18 00:00:00"
-        },
-        {
-          "title": "守護鄉親回家的路 劉建國爭取交通部補助4768萬元改善西螺、褒忠人行環境 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxONGN4eW15aEJLeWNXaUhpN0pJN0ZzOGRldG0wc3Z2QU9fRW5HM2NINERwZTVSSmI1Y2NYT0xqNXJzYWZxTHpMZnZaWExTZmo2NG9RWGJRdDBJek83SVExQ0hCejdtVXhNV2ZhTUlYc3ZHbUxseDl1ZjktUzB0UHBaWnVoWDlSLTRUdFNqekJBNUpDaGNUYjN0dEtJenRnN0lMN1JEbFJYaVBLakN0RzFSS3JPdWJmVE5WUHAzVHBDa25tM2w5TFRKdi1IZGpVLWoyNVY2RmtPRjlidjY0OG5ENkNiOExlSXRodnNpVHhrSmk1UGU4MEZvcDhhRDZ2NkJXQm1aRUVXSVNGSWVRQXcwSTgxTG1pQkRyVTFvU0VOS0dhQmx3eVdrNTNLOXlQdVRXZm90U05tQWdubTNYTWIyWDdzR0JvUFJiLWdoRENTSUd6bWZucm5Ea3M4NDI4MTNrWFFPcVQ2TUVPX3JaWFRzSm9pbzBSUmk4WVh0bnhhWG9CaUpmODJYU2pOc3Jqd0pzMWQ0dDFvNks1N0h0RVc1N04yaHkyeTRaV3BhTmgtZUpKZXlBOVpkUkNQTnhEVHlWRllz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-17 19:49:53"
         }
       ]
     }
@@ -1013,10 +1053,22 @@
         "url": "https://news.google.com/rss/articles/CBMimwhBVV95cUxNMXZNMTRfTWZnTGdQZTE0MnJWdWxXUHk3eFRvMzNTVUk0Y2VJVXptanhob1BwclB3dXR3UzZsWmRjb0k1ZDJzU0g3Ti0yZTB5NTc3QlVZWEJhVVEzRUFzeHYxNncyUjl5bmM0NGo3QUkzbVhpYWJGU19IRGxVZERFR1pWNzRlc1I2RWZEMXl4WWN0VUtERGRuYmV6dUVNYXFsX29WVHRKaTBwckc4cHRDd3BXcGJ5LTlhOXRjSHA3QXVFN29neEFEd3F1NGdwUTVUeC1UbDNrckVNMHBEbi1GT1Z2aUNrU3pwLW1PU1F2YlFtVUYtTEF6bVd2aVVzVEZRMGlUOEEwSHhiZUlZRnpobXV2ejlMcng4ZHV5bWdWdjBoS1U2eGNiN2pLMVREcURrUXZZakU3dms5SGdzRktUYS1MZW5NMFRSbGJ5TDdKV0czZ1JNbm53anVTZ3ExaUtfQUd6TjQ1MWpHOXl5SU05RWFxaVlGUXZ0UGs2MkxxcjhMcnBaYk9ET1JoTWFGaTZmaUlIZFVlS1RHcDlRNWJsS2xVRmVCYW9nYlpsRzJBekp5OGVBek1YSG95b2JDaS1vaWZ3N2l2dGZFUmpfVTRCWFNfOE1fV0xRdXU2a1dkNG5aek1LaGd6czVHcnJTV1FkYjFvMUhaTlM2T3lUdG43ZXlTdm5CRkx4T3dHZU5ta2M5NlBLTlR3LU1LUXVVejhpV2ZrbzdqUkJra0FuelgySlN2VThvaXZva3hoLVJTellWcWRacWZ0djlGaEtNdEI4blZERGZJRTVLUTJvc2dfRE51SGhyYWhZRVJEX2NxbWRIb0dxWERNX1lmOEdYLWZTOGllWk5lNVBQTHlNeXJiVnpwcTJKQXhkU0pjWVN3V3lCbjA1WGh1VXUwSXJ2cWZObDZ4VzV2cW9tNHhBQVBtXzd4OVlqM3lzd1lxeGNLSVRNRzVILWxOeWdVSDJKS2NhZ1dyeVRPdzVQZWwzeFF6dmVDUmtUcGM3RG93UFk1V2pacnA4NkkxUENfQWRZWXR1Q29WRkxGa2pHcm9lOXJrWU5NUlBxbFRnTFR3ZjQwRlJTQi13bzhpLVN3QlROZm8xZDF6MUFraXpYMnFtS1QteHdFRzMtV0FiUlJsMnBXOERMSEh6eVhrNGNsd0ZuTnhkekg4YnEyVGZEY2tvNTNCVm41NUN4VVBaXzd0RDRDSURxZ003Nm5lQlU1LWdkTkhRaHN1cmxpZ19nY3BGcEEwSUtMYldEM01Iek1sRC1mbFFoOElZMTRnTklRWW44dmFIMURiSGtLTktFS19vcG5zZXYzZzFjNmozR0FIS2ZkUVZHYVduWm5KQU14T2ZJd3FWeVYzSVF3bkMxSjFhN18zX1Y2Y2ZEblBZUy1B",
         "time": "2026-06-20 08:35:05"
       }
+    ],
+    "news": [
+      {
+        "title": "《農眷一起》夏日體驗日 雲林虎尾建國二村重新開門迎客 展現眷村與農村共融新風貌 - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xVTJUYmtVMFQ2ejdYSHd1aHhuakhZSGtTUnU1ek9TZ0hDeWRBTy1GQzd0X2JuUkRRYXNGTWMzSHROUXNGaHF4Mlp1TlEwcVY3cUxxd3JGWXRHUmhNM3AzWEJ6WVUwSm9Fa1hv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-20 20:27:35"
+      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "《農眷一起》夏日體驗日 雲林虎尾建國二村重新開門迎客 展現眷村與農村共融新風貌 - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xVTJUYmtVMFQ2ejdYSHd1aHhuakhZSGtTUnU1ek9TZ0hDeWRBTy1GQzd0X2JuUkRRYXNGTWMzSHROUXNGaHF4Mlp1TlEwcVY3cUxxd3JGWXRHUmhNM3AzWEJ6WVUwSm9Fa1hv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-20 20:27:35"
+      },
       {
         "title": "民進黨雲林縣黨部、立法委員劉建國攜手 端午關懷送到家 五千粒肉粽傳愛心 | 台灣生活新聞 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoZmFQMzBkMjRlbHRSUnVwQlRFRGs3cDRqbjRQcGpUQlk1YXVBZS1RVGZNTllWSEtzYThJRWozOW1NNmNjREJiaXRfdm1BZWJZejVKRkpR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1026,6 +1078,11 @@
         "title": "節慶溫暖與社會關懷 民進黨雲林縣黨部攜 x 立委劉建國服務處捐贈5000顆肉粽 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmUml0NllFc1ktRS1vMlEtREVkOGtKdlJacXdLMlpWaDgza2x4Tkx1SHpIdVpSSEQ5MmZZQzhJUG4zS1p1NzNuZ1lCeEV5THJfS0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-19 17:59:00"
+      },
+      {
+        "title": "民進黨雲林縣黨部、立法委員劉建國攜手 端午關懷送到家 五千粒肉粽傳愛心 | 台灣生活新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTlJiOG1zdmh0TGVnaVE3N09DU2p3OHhfREQ0UlZPLWNPNWpkdEh5ZktvYjZtY09jcEdvMXF3QlU4aURTXzU4aXlIZGVnNW5oNkJ2T2hZZm5hbnE5cWJ5MFQ1MzdGNmdmamNYbVVPZ1ZrandzdENiNGt4OXBNNWZjQlozcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-19 17:49:12"
       },
       {
         "title": "民進黨雲林縣黨部、立法委員劉建國攜手 端午關懷送到家 五千粒肉粽傳愛心 - TDN台灣生活新聞",
@@ -1206,16 +1263,6 @@
         "title": "挽救「生不如死」！張嘉郡提幼照法修正案 公幼免費、私幼每位每人補至少1.5 萬 - 匯流新聞網",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51amtRTEdXU0JTR3hOZFhNZ0RKZzFPUlJqWDJOS3FKXzk0cTJzbXBRb1E4OWdrVGprRmttNGprTUp6QkJjZE9QTGln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-18 16:48:32"
-      },
-      {
-        "title": "張嘉郡提幼教法修法　主張公幼免學費、私幼每月補助1.5萬元 | 政治 | CTWANT - CTWANT",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40Q0lWdXo1Snc1MU4zTFNxcWJLUlVwM0c0TExlbE93ck5jMEQxdVhnc1JtRTU5eXFsMWFKNW45MmJ2SDFJTkZ5alNkcjBfQUnSAVRBVV95cUxOYlhfVXM4OW1NZUd5bHoyZWxnRkVKZW5VU3VpT1BLSU5kOEtEeFluU3pZWEY0Z2wyck1GMDgwQkJneUJzb1lYcE5uSDdJUFZDdFZvMGQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-18 16:40:13"
-      },
-      {
-        "title": "張嘉郡提幼教法修法 主張公幼免學費、私幼每月補助1.5萬元 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPTFc1WllWbG15WWFNYWVqLU1fMEt1NmprVWFVZTBESWxWdGpWY0FfRnN5aEFMbGJYQlI0V3plcTU5QmtpR3NwN2RTVFRkdzFiRFVsQlJGbEhfdExlNkxya3JmdVZ3ZHlULTgxMWV2XzNwNFlQQTAwOGNQQ0VfQVZCc004UUdKSzVlZkN1VzM3NXNhNXBFSUNwdHBDQnRhWTQwdzFsSHVxX0xPcTE0eGE4WDdSRDk2aXRGNi02MU1OaURJWGpTZ0ZVSE41aTQwZlVqTVhpQ1k1R3AyLV9oUWdXYVhMaWxoMWlWWjJFelJva2ZzZ1VKMzBKblZIRmJwb3VpaTlydzd4N29RRW16d1E2WGw1LTZyUjRFRmU4anBXWHJpMkZJalFLX0JqZ0x1RUR2OWZkTXc0ejEzRlk4MnM5c0RaLURMYzN2Zk9PM2VzSG0xN19HMHBIVGNJR2kyOGlSQjdJcHhlUUJtQ3BlanNQb0RDSFNCbDQyUkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-18 16:40:13"
       }
     ],
     "facebook": [
@@ -1453,6 +1500,13 @@
     "hour": [],
     "day": [
       {
+        "title": "《農眷一起》夏日體驗日 雲林虎尾建國二村重新開門迎客 展現眷村與農村共融新風貌 - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xVTJUYmtVMFQ2ejdYSHd1aHhuakhZSGtTUnU1ek9TZ0hDeWRBTy1GQzd0X2JuUkRRYXNGTWMzSHROUXNGaHF4Mlp1TlEwcVY3cUxxd3JGWXRHUmhNM3AzWEJ6WVUwSm9Fa1hv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-20 20:27:35",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "#初審通過私幼補助提高至1萬5千元👏 #減輕育兒負擔向前跨一步👣 每次和年輕爸媽聊天，最常聽到的不是不想生，而是「真的養不起」。 從孩子出生開始，奶粉、尿布、托育、教育，每一項都是家庭的支出。尤其到了幼兒園階段，對許多家庭來說，更是一筆不小的負擔。 台 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMimwhBVV95cUxNMXZNMTRfTWZnTGdQZTE0MnJWdWxXUHk3eFRvMzNTVUk0Y2VJVXptanhob1BwclB3dXR3UzZsWmRjb0k1ZDJzU0g3Ti0yZTB5NTc3QlVZWEJhVVEzRUFzeHYxNncyUjl5bmM0NGo3QUkzbVhpYWJGU19IRGxVZERFR1pWNzRlc1I2RWZEMXl4WWN0VUtERGRuYmV6dUVNYXFsX29WVHRKaTBwckc4cHRDd3BXcGJ5LTlhOXRjSHA3QXVFN29neEFEd3F1NGdwUTVUeC1UbDNrckVNMHBEbi1GT1Z2aUNrU3pwLW1PU1F2YlFtVUYtTEF6bVd2aVVzVEZRMGlUOEEwSHhiZUlZRnpobXV2ejlMcng4ZHV5bWdWdjBoS1U2eGNiN2pLMVREcURrUXZZakU3dms5SGdzRktUYS1MZW5NMFRSbGJ5TDdKV0czZ1JNbm53anVTZ3ExaUtfQUd6TjQ1MWpHOXl5SU05RWFxaVlGUXZ0UGs2MkxxcjhMcnBaYk9ET1JoTWFGaTZmaUlIZFVlS1RHcDlRNWJsS2xVRmVCYW9nYlpsRzJBekp5OGVBek1YSG95b2JDaS1vaWZ3N2l2dGZFUmpfVTRCWFNfOE1fV0xRdXU2a1dkNG5aek1LaGd6czVHcnJTV1FkYjFvMUhaTlM2T3lUdG43ZXlTdm5CRkx4T3dHZU5ta2M5NlBLTlR3LU1LUXVVejhpV2ZrbzdqUkJra0FuelgySlN2VThvaXZva3hoLVJTellWcWRacWZ0djlGaEtNdEI4blZERGZJRTVLUTJvc2dfRE51SGhyYWhZRVJEX2NxbWRIb0dxWERNX1lmOEdYLWZTOGllWk5lNVBQTHlNeXJiVnpwcTJKQXhkU0pjWVN3V3lCbjA1WGh1VXUwSXJ2cWZObDZ4VzV2cW9tNHhBQVBtXzd4OVlqM3lzd1lxeGNLSVRNRzVILWxOeWdVSDJKS2NhZ1dyeVRPdzVQZWwzeFF6dmVDUmtUcGM3RG93UFk1V2pacnA4NkkxUENfQWRZWXR1Q29WRkxGa2pHcm9lOXJrWU5NUlBxbFRnTFR3ZjQwRlJTQi13bzhpLVN3QlROZm8xZDF6MUFraXpYMnFtS1QteHdFRzMtV0FiUlJsMnBXOERMSEh6eVhrNGNsd0ZuTnhkekg4YnEyVGZEY2tvNTNCVm41NUN4VVBaXzd0RDRDSURxZ003Nm5lQlU1LWdkTkhRaHN1cmxpZ19nY3BGcEEwSUtMYldEM01Iek1sRC1mbFFoOElZMTRnTklRWW44dmFIMURiSGtLTktFS19vcG5zZXYzZzFjNmozR0FIS2ZkUVZHYVduWm5KQU14T2ZJd3FWeVYzSVF3bkMxSjFhN18zX1Y2Y2ZEblBZUy1B",
         "time": "2026-06-20 08:35:05",
@@ -1462,7 +1516,16 @@
     ]
   },
   "regional_groups": {
-    "regions": [],
+    "regions": [
+      {
+        "name": "虎尾",
+        "count": 1
+      },
+      {
+        "name": "雲林",
+        "count": 1
+      }
+    ],
     "groups": [
       {
         "name": "教育家長",
