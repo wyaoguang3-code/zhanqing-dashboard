@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-06-21T16:13:11.874737+00:00",
+  "generated_at": "2026-06-21T16:28:35.994815+00:00",
   "metrics": {
-    "total_24h": 3,
+    "total_24h": 5,
     "prev_24h": 4,
-    "growth_pct": -25.0,
-    "news_24h": 0,
+    "growth_pct": 25.0,
+    "news_24h": 2,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 167,
+    "total": 169,
     "prev": 126,
-    "growth_pct": 32.54,
-    "news": 120,
+    "growth_pct": 34.13,
+    "news": 122,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -31,6 +31,10 @@
       "count": 2
     },
     {
+      "platform": "news",
+      "count": 2
+    },
+    {
       "platform": "youtube",
       "count": 1
     }
@@ -38,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 120
+      "count": 122
     },
     {
       "platform": "facebook",
@@ -57,6 +61,10 @@
     {
       "hour": "2026-06-21 15:00",
       "count": 1
+    },
+    {
+      "hour": "2026-06-22 00:00",
+      "count": 2
     }
   ],
   "by_hour_7d": [
@@ -267,22 +275,83 @@
     {
       "hour": "2026-06-21 15:00",
       "count": 1
+    },
+    {
+      "hour": "2026-06-22 00:00",
+      "count": 2
     }
   ],
-  "mention_by_platform_24h": [],
-  "mention_latest_by_platform_24h": {},
-  "alias_by_platform_24h": [],
-  "alias_latest_by_platform_24h": {},
+  "mention_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 2
+    }
+  ],
+  "mention_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "人物側寫／張嘉郡接地氣服務 磨練出接班實力 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sdU9fejdiU25ucF94ZmtoNjRpLVQ3U2VLb0h5eExaWFlVZ3V1QU5fLWg4UWRDVXdwalE1LXItbl8ydEUyazhxMXNycFBmdnV50gFWQVVfeXFMTTQ2V2FxcVgxVkZMNmU5STNQOUxsNHk3VXNiV0d3UnRPZ0VXdDRkS1lURlVrOVNmN1Y4djlvdmg4NzRQVDNOVDFnUnVkelpSUG1uY0doa3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 00:00:10"
+      },
+      {
+        "title": "百里侯爭霸／延續五星 張嘉郡：雲林不能缺席AI潮流 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEX3JVNERxM3VsV0RIdzd2SEF6RDY4ZDlpUVA0cnFWVWhIS1R2TFRTUF9YeVBjR0ZuY29JaU1NTGFMSHZWTVM4cVBvQzVLazZz0gFWQVVfeXFMTjRZMDJzX2hsWTFOeGtWS3hfYXUwdnBYRG5NY3FfcWpmdUY5R1oxd3lMdHI0alNEcWRWME0tSWNtVHhHeFZFd3NiOWRSU3UwemZsdjhEdGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 00:00:00"
+      }
+    ]
+  },
+  "alias_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 2
+    }
+  ],
+  "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "人物側寫／張嘉郡接地氣服務 磨練出接班實力 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sdU9fejdiU25ucF94ZmtoNjRpLVQ3U2VLb0h5eExaWFlVZ3V1QU5fLWg4UWRDVXdwalE1LXItbl8ydEUyazhxMXNycFBmdnV50gFWQVVfeXFMTTQ2V2FxcVgxVkZMNmU5STNQOUxsNHk3VXNiV0d3UnRPZ0VXdDRkS1lURlVrOVNmN1Y4djlvdmg4NzRQVDNOVDFnUnVkelpSUG1uY0doa3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 00:00:10"
+      },
+      {
+        "title": "百里侯爭霸／延續五星 張嘉郡：雲林不能缺席AI潮流 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEX3JVNERxM3VsV0RIdzd2SEF6RDY4ZDlpUVA0cnFWVWhIS1R2TFRTUF9YeVBjR0ZuY29JaU1NTGFMSHZWTVM4cVBvQzVLazZz0gFWQVVfeXFMTjRZMDJzX2hsWTFOeGtWS3hfYXUwdnBYRG5NY3FfcWpmdUY5R1oxd3lMdHI0alNEcWRWME0tSWNtVHhHeFZFd3NiOWRSU3UwemZsdjhEdGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 00:00:00"
+      }
+    ]
+  },
   "mention_compare_24h": {
-    "張嘉郡": 0,
+    "張嘉郡": 2,
     "劉建國": 0
   },
   "mention_compare_7d": {
-    "張嘉郡": 72,
+    "張嘉郡": 74,
     "劉建國": 81
   },
-  "top_news": [],
+  "top_news": [
+    {
+      "title": "人物側寫／張嘉郡接地氣服務 磨練出接班實力 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sdU9fejdiU25ucF94ZmtoNjRpLVQ3U2VLb0h5eExaWFlVZ3V1QU5fLWg4UWRDVXdwalE1LXItbl8ydEUyazhxMXNycFBmdnV50gFWQVVfeXFMTTQ2V2FxcVgxVkZMNmU5STNQOUxsNHk3VXNiV0d3UnRPZ0VXdDRkS1lURlVrOVNmN1Y4djlvdmg4NzRQVDNOVDFnUnVkelpSUG1uY0doa3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-22 00:00:10"
+    },
+    {
+      "title": "百里侯爭霸／延續五星 張嘉郡：雲林不能缺席AI潮流 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEX3JVNERxM3VsV0RIdzd2SEF6RDY4ZDlpUVA0cnFWVWhIS1R2TFRTUF9YeVBjR0ZuY29JaU1NTGFMSHZWTVM4cVBvQzVLazZz0gFWQVVfeXFMTjRZMDJzX2hsWTFOeGtWS3hfYXUwdnBYRG5NY3FfcWpmdUY5R1oxd3lMdHI0alNEcWRWME0tSWNtVHhHeFZFd3NiOWRSU3UwemZsdjhEdGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-22 00:00:00"
+    }
+  ],
   "top_news_7d": [
+    {
+      "title": "人物側寫／張嘉郡接地氣服務 磨練出接班實力 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sdU9fejdiU25ucF94ZmtoNjRpLVQ3U2VLb0h5eExaWFlVZ3V1QU5fLWg4UWRDVXdwalE1LXItbl8ydEUyazhxMXNycFBmdnV50gFWQVVfeXFMTTQ2V2FxcVgxVkZMNmU5STNQOUxsNHk3VXNiV0d3UnRPZ0VXdDRkS1lURlVrOVNmN1Y4djlvdmg4NzRQVDNOVDFnUnVkelpSUG1uY0doa3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-22 00:00:10"
+    },
+    {
+      "title": "百里侯爭霸／延續五星 張嘉郡：雲林不能缺席AI潮流 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEX3JVNERxM3VsV0RIdzd2SEF6RDY4ZDlpUVA0cnFWVWhIS1R2TFRTUF9YeVBjR0ZuY29JaU1NTGFMSHZWTVM4cVBvQzVLazZz0gFWQVVfeXFMTjRZMDJzX2hsWTFOeGtWS3hfYXUwdnBYRG5NY3FfcWpmdUY5R1oxd3lMdHI0alNEcWRWME0tSWNtVHhHeFZFd3NiOWRSU3UwemZsdjhEdGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-22 00:00:00"
+    },
     {
       "title": "台灣中區綠領人才培育中心在雲科大揭牌 立委劉建國協助促成產官學攜手推動淨零轉型！ - 台灣華報",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Uem50ZTlPWXZ3b25OWTYxTW01dFJOdTk3OVpSYmM4d3JCSFdIc1VRbU9rejltS2U1bUUwZlBkUVNreHl1SWZpR3kxTER2am8zT0MzandlelE0UU4tRmlNQXNMVkRCNHdNX2lN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -372,16 +441,6 @@
       "title": "與國際接軌 劉建國立院跨黨推反活摘器官法 - 大纪元",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8weGJaQjhQSV9RNFZXTU5ZdGZLWWhueDU1bzVoSzB6bUFyZ0xrSXY5QmZhSkt0Z0lXQzJoU2FDVVBWUlBiWDFuTWVUdlFtMWYtOUdWR3ktVzYyT2VfUkhGRdIBZkFVX3lxTE1GM1N1ek1CWkZwTkt0TTNocXZhUnRsb1dtQVoyZjg1ck9kbmVNa0lWMWxXY3FvRm85b0lwa21GNERmbWZjdEtkNk5Ga09qalBfUWcyNDNHRG5RNFFYNC1aU1ZjSi14UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-19 00:08:00"
-    },
-    {
-      "title": "台灣少子化危機！落實國家撫育責任，張嘉郡提案公幼全免、私幼月補1.5萬 | 夏和宣 | 地方新聞 - Storm.mg",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IV3p3YVJySUFHemNOck0yWGlOeFRYVFhYU2NwWXdjMG4zRVpUb25XbGgtNHNSYm1mT1NWZVp0TmhjU29MeDZwbDB3RjRfQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-18 23:37:36"
-    },
-    {
-      "title": "台灣少子化全球倒數 劉建國促衛福部做「為什麼不結婚」研究 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxObUY1RDBkOHAzbkJCTG9RZHpybWExOG5NRHItM3dSRlN4WFh6a1YyalpkR3UtaHViTzhCdUVWQUtIV3lRSjhwTTJaRlRXd1lCYlpsMFBtNUJIX0xiTkdhTVB0R3BqYWJJWFdOZlR4MGpYVFloN2IzXzM2Y3BydXp0SFB4LVMxSVJzS1Rla21YV045N0JSSXQ0MHVDeUcwbERNVFNMQmRaMXVLazBGcVVyQ0hCUlRoNmpCSkpsTGloZWpDbGQ5Tl9wc1hENjlFVlI3SEgwdklJUUU0VVgydHQzckp0c2pqRHpDaUluR21DUTdHd09Qb2NTU0d5akN6cjJ4Y1kyRHM5RE5ZX2tJSm9XZEJqSmFpSXVCZFdBeGpXcG9VMEJnTktiOV95VmJEdHFwTW9nTWlod1F2V2hUV05qOXNTYXg3WjdxZkI2VGhfS0JyVHBEYXFCbHZOeDVXTUh4aXp1cGVOSTQ1UXg0QVNGeXNsck1RbWxNZjJFNDVBckRoa3FkX3RqcFFPNjJMbXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-18 22:48:45"
     }
   ],
   "latest_facebook_20": [
@@ -488,6 +547,16 @@
   ],
   "latest_news_20": [
     {
+      "title": "人物側寫／張嘉郡接地氣服務 磨練出接班實力 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sdU9fejdiU25ucF94ZmtoNjRpLVQ3U2VLb0h5eExaWFlVZ3V1QU5fLWg4UWRDVXdwalE1LXItbl8ydEUyazhxMXNycFBmdnV50gFWQVVfeXFMTTQ2V2FxcVgxVkZMNmU5STNQOUxsNHk3VXNiV0d3UnRPZ0VXdDRkS1lURlVrOVNmN1Y4djlvdmg4NzRQVDNOVDFnUnVkelpSUG1uY0doa3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-22 00:00:10"
+    },
+    {
+      "title": "百里侯爭霸／延續五星 張嘉郡：雲林不能缺席AI潮流 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEX3JVNERxM3VsV0RIdzd2SEF6RDY4ZDlpUVA0cnFWVWhIS1R2TFRTUF9YeVBjR0ZuY29JaU1NTGFMSHZWTVM4cVBvQzVLazZz0gFWQVVfeXFMTjRZMDJzX2hsWTFOeGtWS3hfYXUwdnBYRG5NY3FfcWpmdUY5R1oxd3lMdHI0alNEcWRWME0tSWNtVHhHeFZFd3NiOWRSU3UwemZsdjhEdGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-22 00:00:00"
+    },
+    {
       "title": "台灣中區綠領人才培育中心在雲科大揭牌 立委劉建國協助促成產官學攜手推動淨零轉型！ - 台灣華報",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Uem50ZTlPWXZ3b25OWTYxTW01dFJOdTk3OVpSYmM4d3JCSFdIc1VRbU9rejltS2U1bUUwZlBkUVNreHl1SWZpR3kxTER2am8zT0MzandlelE0UU4tRmlNQXNMVkRCNHdNX2lN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-20 23:04:45"
@@ -576,16 +645,6 @@
       "title": "與國際接軌 劉建國立院跨黨推反活摘器官法 - 大纪元",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8weGJaQjhQSV9RNFZXTU5ZdGZLWWhueDU1bzVoSzB6bUFyZ0xrSXY5QmZhSkt0Z0lXQzJoU2FDVVBWUlBiWDFuTWVUdlFtMWYtOUdWR3ktVzYyT2VfUkhGRdIBZkFVX3lxTE1GM1N1ek1CWkZwTkt0TTNocXZhUnRsb1dtQVoyZjg1ck9kbmVNa0lWMWxXY3FvRm85b0lwa21GNERmbWZjdEtkNk5Ga09qalBfUWcyNDNHRG5RNFFYNC1aU1ZjSi14UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-19 00:08:00"
-    },
-    {
-      "title": "台灣少子化危機！落實國家撫育責任，張嘉郡提案公幼全免、私幼月補1.5萬 | 夏和宣 | 地方新聞 - Storm.mg",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IV3p3YVJySUFHemNOck0yWGlOeFRYVFhYU2NwWXdjMG4zRVpUb25XbGgtNHNSYm1mT1NWZVp0TmhjU29MeDZwbDB3RjRfQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-18 23:37:36"
-    },
-    {
-      "title": "台灣少子化全球倒數 劉建國促衛福部做「為什麼不結婚」研究 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxObUY1RDBkOHAzbkJCTG9RZHpybWExOG5NRHItM3dSRlN4WFh6a1YyalpkR3UtaHViTzhCdUVWQUtIV3lRSjhwTTJaRlRXd1lCYlpsMFBtNUJIX0xiTkdhTVB0R3BqYWJJWFdOZlR4MGpYVFloN2IzXzM2Y3BydXp0SFB4LVMxSVJzS1Rla21YV045N0JSSXQ0MHVDeUcwbERNVFNMQmRaMXVLazBGcVVyQ0hCUlRoNmpCSkpsTGloZWpDbGQ5Tl9wc1hENjlFVlI3SEgwdklJUUU0VVgydHQzckp0c2pqRHpDaUluR21DUTdHd09Qb2NTU0d5akN6cjJ4Y1kyRHM5RE5ZX2tJSm9XZEJqSmFpSXVCZFdBeGpXcG9VMEJnTktiOV95VmJEdHFwTW9nTWlod1F2V2hUV05qOXNTYXg3WjdxZkI2VGhfS0JyVHBEYXFCbHZOeDVXTUh4aXp1cGVOSTQ1UXg0QVNGeXNsck1RbWxNZjJFNDVBckRoa3FkX3RqcFFPNjJMbXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-18 22:48:45"
     }
   ],
   "person_sections": {
@@ -694,6 +753,16 @@
       ],
       "news": [
         {
+          "title": "人物側寫／張嘉郡接地氣服務 磨練出接班實力 - UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sdU9fejdiU25ucF94ZmtoNjRpLVQ3U2VLb0h5eExaWFlVZ3V1QU5fLWg4UWRDVXdwalE1LXItbl8ydEUyazhxMXNycFBmdnV50gFWQVVfeXFMTTQ2V2FxcVgxVkZMNmU5STNQOUxsNHk3VXNiV0d3UnRPZ0VXdDRkS1lURlVrOVNmN1Y4djlvdmg4NzRQVDNOVDFnUnVkelpSUG1uY0doa3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-22 00:00:10"
+        },
+        {
+          "title": "百里侯爭霸／延續五星 張嘉郡：雲林不能缺席AI潮流 - UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEX3JVNERxM3VsV0RIdzd2SEF6RDY4ZDlpUVA0cnFWVWhIS1R2TFRTUF9YeVBjR0ZuY29JaU1NTGFMSHZWTVM4cVBvQzVLazZz0gFWQVVfeXFMTjRZMDJzX2hsWTFOeGtWS3hfYXUwdnBYRG5NY3FfcWpmdUY5R1oxd3lMdHI0alNEcWRWME0tSWNtVHhHeFZFd3NiOWRSU3UwemZsdjhEdGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-22 00:00:00"
+        },
+        {
           "title": "改善育兒環境 雲林立委張嘉郡主張公幼免費、私幼補助1.5萬元！ - 台灣華報",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rSGJtWmVnblAyOWlRN19XS1g3cHVsVmhielFwbFg1eXV2WFpuUDFqdG00emZGS1k0ZWpzYUxKbXFMUF93OWlxUlBnRlIxYU5HV1k0WmtBdTBuY3JBSWdrb0N5RHFmVnFpeW9N?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-19 16:36:11"
@@ -781,16 +850,6 @@
         {
           "title": "提修幼兒照顧法解決少子化張嘉郡：公幼、非營利幼兒園費用全免| 政治焦點 - 太報 TaiSounds",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CN2tqQ3YwZGg3anczcWgzeS1FNktBUHhzLWo4QUxOT3Z3czhiNzE4Q19jbE9zNjZyLWs4V0NEblJRVFMyYmg1dWczVkpTUkk5N21TSE5PMnk5N0FG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-18 16:54:45"
-        },
-        {
-          "title": "提修幼兒照顧法解決少子化 張嘉郡：公幼、非營利幼兒園費用全免 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQeVpzOGdQd2U3UGtYRURQaEVFdXdqOUV4Y25FNlJONG9oTkhVcjVFcloxTmtFOERkR3c4bkdLZjJqUC1RVko2R3BTM1VFZE9wdFA2S09EYV9wSU1YWEpibTdCUGplaTFUMHlDVWRyTmhTVmNVRzAzQnZUamVoUEk4N1RoMEdUU1U2Y2pYdjdwM1YtQ1JQZDFqd1E2bG5leFV0VHBGUXUyM3IxdzZzY1NTeWZVbUtodXBtU1FkZkRDdlRaV0dCZUlOaFpYdHV0ZlJnWUNlcnhKZ0h6cHJsUVhmZnVsTnpnTWFIMXJFU3lrV2xqZ01ucmt5MnFmaVVRMjZwcWdsSUx2M0VOZVVvRHRGTktDR2R4ankzejlFbkFVMlhRUmpHeGctay1Dd3FfdkJVbjNFVjlxejdZMEZnR0hSQVp1dk5iY1BuOE1hcmFZMGpmYzJoSldjcVBMYnphYUpSREJoS1JHOUlURERNV1ctRXZ4SWw4UjlodWtUM19BT2lfZ3IxYkJOamRsM2o0bGc4UnNFUUNPN2hLT1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-18 16:54:45"
-        },
-        {
-          "title": "提修幼兒照顧法解決少子化張嘉郡：公幼、非營利幼兒園費用全免| 政治 - 太報 TaiSounds",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RcEtvNExReDNyWFI1UE5PT0p5b08yRXdrRUg2MTFwZ3JjYWFyTWlENWRZZEFiWWhQLV81SmUwMDJIR21YdTBieTdLc2ZrV1lpaDkxS1pxTFlYQ2xi?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-18 16:54:45"
         }
       ]
@@ -1015,6 +1074,18 @@
         "time": "2026-06-21 12:17:51"
       }
     ],
+    "news": [
+      {
+        "title": "人物側寫／張嘉郡接地氣服務 磨練出接班實力 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sdU9fejdiU25ucF94ZmtoNjRpLVQ3U2VLb0h5eExaWFlVZ3V1QU5fLWg4UWRDVXdwalE1LXItbl8ydEUyazhxMXNycFBmdnV50gFWQVVfeXFMTTQ2V2FxcVgxVkZMNmU5STNQOUxsNHk3VXNiV0d3UnRPZ0VXdDRkS1lURlVrOVNmN1Y4djlvdmg4NzRQVDNOVDFnUnVkelpSUG1uY0doa3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 00:00:10"
+      },
+      {
+        "title": "百里侯爭霸／延續五星 張嘉郡：雲林不能缺席AI潮流 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEX3JVNERxM3VsV0RIdzd2SEF6RDY4ZDlpUVA0cnFWVWhIS1R2TFRTUF9YeVBjR0ZuY29JaU1NTGFMSHZWTVM4cVBvQzVLazZz0gFWQVVfeXFMTjRZMDJzX2hsWTFOeGtWS3hfYXUwdnBYRG5NY3FfcWpmdUY5R1oxd3lMdHI0alNEcWRWME0tSWNtVHhHeFZFd3NiOWRSU3UwemZsdjhEdGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 00:00:00"
+      }
+    ],
     "youtube": [
       {
         "title": "鍾佳濱的「濱濱有理」100集生日願望竟然跟 沈伯洋 有關？！",
@@ -1025,6 +1096,16 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "人物側寫／張嘉郡接地氣服務 磨練出接班實力 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sdU9fejdiU25ucF94ZmtoNjRpLVQ3U2VLb0h5eExaWFlVZ3V1QU5fLWg4UWRDVXdwalE1LXItbl8ydEUyazhxMXNycFBmdnV50gFWQVVfeXFMTTQ2V2FxcVgxVkZMNmU5STNQOUxsNHk3VXNiV0d3UnRPZ0VXdDRkS1lURlVrOVNmN1Y4djlvdmg4NzRQVDNOVDFnUnVkelpSUG1uY0doa3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 00:00:10"
+      },
+      {
+        "title": "百里侯爭霸／延續五星 張嘉郡：雲林不能缺席AI潮流 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEX3JVNERxM3VsV0RIdzd2SEF6RDY4ZDlpUVA0cnFWVWhIS1R2TFRTUF9YeVBjR0ZuY29JaU1NTGFMSHZWTVM4cVBvQzVLazZz0gFWQVVfeXFMTjRZMDJzX2hsWTFOeGtWS3hfYXUwdnBYRG5NY3FfcWpmdUY5R1oxd3lMdHI0alNEcWRWME0tSWNtVHhHeFZFd3NiOWRSU3UwemZsdjhEdGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 00:00:00"
+      },
       {
         "title": "台灣中區綠領人才培育中心在雲科大揭牌 立委劉建國協助促成產官學攜手推動淨零轉型！ - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Uem50ZTlPWXZ3b25OWTYxTW01dFJOdTk3OVpSYmM4d3JCSFdIc1VRbU9rejltS2U1bUUwZlBkUVNreHl1SWZpR3kxTER2am8zT0MzandlelE0UU4tRmlNQXNMVkRCNHdNX2lN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1214,16 +1295,6 @@
         "title": "提修幼兒照顧法解決少子化 張嘉郡：公幼、非營利幼兒園費用全免 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQeVpzOGdQd2U3UGtYRURQaEVFdXdqOUV4Y25FNlJONG9oTkhVcjVFcloxTmtFOERkR3c4bkdLZjJqUC1RVko2R3BTM1VFZE9wdFA2S09EYV9wSU1YWEpibTdCUGplaTFUMHlDVWRyTmhTVmNVRzAzQnZUamVoUEk4N1RoMEdUU1U2Y2pYdjdwM1YtQ1JQZDFqd1E2bG5leFV0VHBGUXUyM3IxdzZzY1NTeWZVbUtodXBtU1FkZkRDdlRaV0dCZUlOaFpYdHV0ZlJnWUNlcnhKZ0h6cHJsUVhmZnVsTnpnTWFIMXJFU3lrV2xqZ01ucmt5MnFmaVVRMjZwcWdsSUx2M0VOZVVvRHRGTktDR2R4ankzejlFbkFVMlhRUmpHeGctay1Dd3FfdkJVbjNFVjlxejdZMEZnR0hSQVp1dk5iY1BuOE1hcmFZMGpmYzJoSldjcVBMYnphYUpSREJoS1JHOUlURERNV1ctRXZ4SWw4UjlodWtUM19BT2lfZ3IxYkJOamRsM2o0bGc4UnNFUUNPN2hLT1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-18 16:54:45"
-      },
-      {
-        "title": "提修幼兒照顧法解決少子化張嘉郡：公幼、非營利幼兒園費用全免| 政治 - 太報 TaiSounds",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RcEtvNExReDNyWFI1UE5PT0p5b08yRXdrRUg2MTFwZ3JjYWFyTWlENWRZZEFiWWhQLV81SmUwMDJIR21YdTBieTdLc2ZrV1lpaDkxS1pxTFlYQ2xi?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-18 16:54:45"
-      },
-      {
-        "title": "挽救「生不如死」！張嘉郡提幼照法修正案 公幼免費、私幼每位每人補至少1.5萬 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUUFJMkdzY2VCV3dVRWtUcVNmYnlTdDlwSFc5M2VmV181dzhBY3BBSjkwa2tocjA2NXd4Zm9DX2JBRXZscTJtNHo0RHh1TmZ5cE5RdXdEWlZQbTdXcHluX3daTmhpNV9yS1VaMUg1SUs1RTRuczJCSUluc0JhdXl5Z2p4TmRvODlmbGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-18 16:48:32"
       }
     ],
     "facebook": [
@@ -1466,6 +1537,20 @@
     "hour": [],
     "day": [
       {
+        "title": "人物側寫／張嘉郡接地氣服務 磨練出接班實力 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sdU9fejdiU25ucF94ZmtoNjRpLVQ3U2VLb0h5eExaWFlVZ3V1QU5fLWg4UWRDVXdwalE1LXItbl8ydEUyazhxMXNycFBmdnV50gFWQVVfeXFMTTQ2V2FxcVgxVkZMNmU5STNQOUxsNHk3VXNiV0d3UnRPZ0VXdDRkS1lURlVrOVNmN1Y4djlvdmg4NzRQVDNOVDFnUnVkelpSUG1uY0doa3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 00:00:10",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "百里侯爭霸／延續五星 張嘉郡：雲林不能缺席AI潮流 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEX3JVNERxM3VsV0RIdzd2SEF6RDY4ZDlpUVA0cnFWVWhIS1R2TFRTUF9YeVBjR0ZuY29JaU1NTGFMSHZWTVM4cVBvQzVLazZz0gFWQVVfeXFMTjRZMDJzX2hsWTFOeGtWS3hfYXUwdnBYRG5NY3FfcWpmdUY5R1oxd3lMdHI0alNEcWRWME0tSWNtVHhHeFZFd3NiOWRSU3UwemZsdjhEdGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 00:00:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "鍾佳濱的「濱濱有理」100集生日願望竟然跟 沈伯洋 有關？！",
         "url": "https://www.youtube.com/shorts/vD8Vlfkn280",
         "time": "2026-06-21 15:23:49",
@@ -1492,7 +1577,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 2
+        "count": 3
       }
     ],
     "groups": []
