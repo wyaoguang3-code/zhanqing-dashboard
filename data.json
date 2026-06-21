@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-06-21T21:58:09.324077+00:00",
+  "generated_at": "2026-06-21T22:13:33.317817+00:00",
   "metrics": {
-    "total_24h": 9,
+    "total_24h": 11,
     "prev_24h": 4,
-    "growth_pct": 125.0,
-    "news_24h": 6,
+    "growth_pct": 175.0,
+    "news_24h": 7,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 173,
+    "total": 175,
     "prev": 125,
-    "growth_pct": 38.4,
-    "news": 126,
+    "growth_pct": 40.0,
+    "news": 127,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,11 +28,11 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 6
+      "count": 7
     },
     {
       "platform": "facebook",
-      "count": 2
+      "count": 3
     },
     {
       "platform": "youtube",
@@ -42,11 +42,11 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 126
+      "count": 127
     },
     {
       "platform": "facebook",
-      "count": 41
+      "count": 42
     },
     {
       "platform": "youtube",
@@ -68,6 +68,10 @@
     },
     {
       "hour": "2026-06-22 03:00",
+      "count": 2
+    },
+    {
+      "hour": "2026-06-22 05:00",
       "count": 2
     }
   ],
@@ -287,16 +291,36 @@
     {
       "hour": "2026-06-22 03:00",
       "count": 2
+    },
+    {
+      "hour": "2026-06-22 05:00",
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 6
+      "count": 7
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "【老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農】 朝野立委相繼提出《老年農民福利津貼暫行條例》修法版本，主張老農津貼調高至每人每月1萬至1萬5千元不等，行政院版本則是1萬元；行政院發言人李慧芝表示，行政院版本是最具可行性，籲 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxPQjhfcC1yNWlzYzhjUHpjY0VSOWRTQ1lCdWxyMGl6SnFkLU8zN2g5ejROeXhxWFljNlFlYUdlY2VTOUNlaUphSUxJeHUySEIyOFpWb2V5WjBsbFBVM2JqTEZTcWxOZENTRFVXUlROTmQ5OTk3SEM4ZThFRFYtQ2FUeV9fcXVJbXJvcnU4TzRxYTFrU2JyOTMxM1NtS3o5OXdaVmJWdmZMZUk4cE9QTnRJVDBCdWFiZFM5YUVPdVlWbXdMbEdZblhkcjZYUm1OMi1KWmNoWHMzWmhZSDNaU3p5ZG8wN2h2WEcySjZWZGtwUFFSbVJXMS1fa0Z6NHZ6a0xLSFk0emIydDRPVFFWcW1jQWFaRVZyQlFOQS1aN0lSVXlVVWZoRUpVNC12WFlyZ2V0d0F2UUo0TDQzT0hRenRlS3psUXBSMlpMX2plV2U5LXhrVkh4VXp5WTQ0Z1UwU0pkcGowcXlFdV9rS240Z1duSE1YS3dnc040ZHJjU0ZnOS1lcElhSjJCSHMydGNWV3JUS3EzWVQ4b3piZGFqeGlrY3NCSE5vZjBpdHZ6REVTVmZVdnRIbzBobUNwRmJJcTlzT3Atc1FGbW5EN3JLSzN0MEQxSkYyNFQ4UHdOMnhYY0phSEhleGZfRDRLZEJybDdzNjZBWkxSQnpyZHJnR0pCZzBWUkdSbWhuaS0xbEJucHdhQXZJeGRkWDNKeXlXRHo2ZG4zR3VTM0F2ZjJrRE1QMjZKY2xlMzE0WVplVXEyS09UU2w2RzgyV0szdEFwN1NvTE1hd3RDa2txZUczWWJoUklkaHJERmZuSnhTVjZzbTd3TEp1eXUzTlJPTXR5QkYybFFtYmhMakd4Z0RIaDBvUFJLRTJMOXVPdjRjYzI1YkpOM2NKUjV2TEJ3aUZkY3N4dm1xQWFZUGFscG9aMGFfSnAwcVV5U0pRSGl1NnFucTZVQmJIZEt6RjVPZFBsdEljMmlhTC1VMkM2M1IzdzB6NGZaNmNDMzMwYmhuRUx0RE1nSnNrakZrZjh3ZHQwb2RiWW52eXRfRGlVaHFkTkJKY0pNb09SNVcyRlVWQlBLSGF5eW1Nem5oQ2lsZHFaYjkyNzlwaWtOU0QyOVpVXzM2ZmlPaEo3V0pKWTVVYThMa0tsVFd5anJFZWV3d2JsNE1TQ09EdEIzTGJrNHgzMVdLSXVBdnoyOXpreEctT1YzcUxlNG1EY1paMnU3bGNzbXc1TUpiM3hETk9FWEJlYUtVc1ZrWG8xbWNlT2JoZUdXbEdwT0NhdmhfTlVDdmdoNG16X2pRazJ4M1h3M2dOcTJlMVUxT2tpZjAtLXNGSlFDak1iZw",
+        "time": "2026-06-22 05:21:07"
+      }
+    ],
     "news": [
+      {
+        "title": "老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpXzl4bkZ4bjIwZGhBQkhaNE90SGJBUC1XLXVBbXJYcGdhZkpKbDBvTjF0RWdfWERHejJOcVNDYkw2Z0sxcW56djB1bFZCblZKbk52cDkyYzJidElHSDkzcjA5Vmt1S3I0N24wNi1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 05:05:39"
+      },
       {
         "title": "百里侯爭霸／延續五星 張嘉郡：雲林不能缺席AI潮流 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZdTN6bS0xWmNEeW5aV0c4TENNZk0wWlpVM0NNRTBPcS1aQjg2bXlScFd1NGllOGJDTVRyTWstSm8wZWZSdTk0enAyUlBJZWJ1WGRv0gFYQVVfeXFMTlVEdjRkel84MURaQnUyR05LMkR5cGwwc05ETTZyc3ltNnZqdU5mZ3Y3MVc0Qm54ZmdxcmJadHAxa2pKTVZGSk9NRmdWQnNQYngyWkhCa2wyWg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -332,11 +356,27 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 6
+      "count": 7
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "【老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農】 朝野立委相繼提出《老年農民福利津貼暫行條例》修法版本，主張老農津貼調高至每人每月1萬至1萬5千元不等，行政院版本則是1萬元；行政院發言人李慧芝表示，行政院版本是最具可行性，籲 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxPQjhfcC1yNWlzYzhjUHpjY0VSOWRTQ1lCdWxyMGl6SnFkLU8zN2g5ejROeXhxWFljNlFlYUdlY2VTOUNlaUphSUxJeHUySEIyOFpWb2V5WjBsbFBVM2JqTEZTcWxOZENTRFVXUlROTmQ5OTk3SEM4ZThFRFYtQ2FUeV9fcXVJbXJvcnU4TzRxYTFrU2JyOTMxM1NtS3o5OXdaVmJWdmZMZUk4cE9QTnRJVDBCdWFiZFM5YUVPdVlWbXdMbEdZblhkcjZYUm1OMi1KWmNoWHMzWmhZSDNaU3p5ZG8wN2h2WEcySjZWZGtwUFFSbVJXMS1fa0Z6NHZ6a0xLSFk0emIydDRPVFFWcW1jQWFaRVZyQlFOQS1aN0lSVXlVVWZoRUpVNC12WFlyZ2V0d0F2UUo0TDQzT0hRenRlS3psUXBSMlpMX2plV2U5LXhrVkh4VXp5WTQ0Z1UwU0pkcGowcXlFdV9rS240Z1duSE1YS3dnc040ZHJjU0ZnOS1lcElhSjJCSHMydGNWV3JUS3EzWVQ4b3piZGFqeGlrY3NCSE5vZjBpdHZ6REVTVmZVdnRIbzBobUNwRmJJcTlzT3Atc1FGbW5EN3JLSzN0MEQxSkYyNFQ4UHdOMnhYY0phSEhleGZfRDRLZEJybDdzNjZBWkxSQnpyZHJnR0pCZzBWUkdSbWhuaS0xbEJucHdhQXZJeGRkWDNKeXlXRHo2ZG4zR3VTM0F2ZjJrRE1QMjZKY2xlMzE0WVplVXEyS09UU2w2RzgyV0szdEFwN1NvTE1hd3RDa2txZUczWWJoUklkaHJERmZuSnhTVjZzbTd3TEp1eXUzTlJPTXR5QkYybFFtYmhMakd4Z0RIaDBvUFJLRTJMOXVPdjRjYzI1YkpOM2NKUjV2TEJ3aUZkY3N4dm1xQWFZUGFscG9aMGFfSnAwcVV5U0pRSGl1NnFucTZVQmJIZEt6RjVPZFBsdEljMmlhTC1VMkM2M1IzdzB6NGZaNmNDMzMwYmhuRUx0RE1nSnNrakZrZjh3ZHQwb2RiWW52eXRfRGlVaHFkTkJKY0pNb09SNVcyRlVWQlBLSGF5eW1Nem5oQ2lsZHFaYjkyNzlwaWtOU0QyOVpVXzM2ZmlPaEo3V0pKWTVVYThMa0tsVFd5anJFZWV3d2JsNE1TQ09EdEIzTGJrNHgzMVdLSXVBdnoyOXpreEctT1YzcUxlNG1EY1paMnU3bGNzbXc1TUpiM3hETk9FWEJlYUtVc1ZrWG8xbWNlT2JoZUdXbEdwT0NhdmhfTlVDdmdoNG16X2pRazJ4M1h3M2dOcTJlMVUxT2tpZjAtLXNGSlFDak1iZw",
+        "time": "2026-06-22 05:21:07"
+      }
+    ],
     "news": [
+      {
+        "title": "老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpXzl4bkZ4bjIwZGhBQkhaNE90SGJBUC1XLXVBbXJYcGdhZkpKbDBvTjF0RWdfWERHejJOcVNDYkw2Z0sxcW56djB1bFZCblZKbk52cDkyYzJidElHSDkzcjA5Vmt1S3I0N24wNi1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 05:05:39"
+      },
       {
         "title": "百里侯爭霸／延續五星 張嘉郡：雲林不能缺席AI潮流 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZdTN6bS0xWmNEeW5aV0c4TENNZk0wWlpVM0NNRTBPcS1aQjg2bXlScFd1NGllOGJDTVRyTWstSm8wZWZSdTk0enAyUlBJZWJ1WGRv0gFYQVVfeXFMTlVEdjRkel84MURaQnUyR05LMkR5cGwwc05ETTZyc3ltNnZqdU5mZ3Y3MVc0Qm54ZmdxcmJadHAxa2pKTVZGSk9NRmdWQnNQYngyWkhCa2wyWg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -370,14 +410,19 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 6,
+    "張嘉郡": 8,
     "劉建國": 0
   },
   "mention_compare_7d": {
-    "張嘉郡": 78,
+    "張嘉郡": 80,
     "劉建國": 81
   },
   "top_news": [
+    {
+      "title": "老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpXzl4bkZ4bjIwZGhBQkhaNE90SGJBUC1XLXVBbXJYcGdhZkpKbDBvTjF0RWdfWERHejJOcVNDYkw2Z0sxcW56djB1bFZCblZKbk52cDkyYzJidElHSDkzcjA5Vmt1S3I0N24wNi1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-22 05:05:39"
+    },
     {
       "title": "百里侯爭霸／延續五星 張嘉郡：雲林不能缺席AI潮流 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZdTN6bS0xWmNEeW5aV0c4TENNZk0wWlpVM0NNRTBPcS1aQjg2bXlScFd1NGllOGJDTVRyTWstSm8wZWZSdTk0enAyUlBJZWJ1WGRv0gFYQVVfeXFMTlVEdjRkel84MURaQnUyR05LMkR5cGwwc05ETTZyc3ltNnZqdU5mZ3Y3MVc0Qm54ZmdxcmJadHAxa2pKTVZGSk9NRmdWQnNQYngyWkhCa2wyWg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -410,6 +455,11 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpXzl4bkZ4bjIwZGhBQkhaNE90SGJBUC1XLXVBbXJYcGdhZkpKbDBvTjF0RWdfWERHejJOcVNDYkw2Z0sxcW56djB1bFZCblZKbk52cDkyYzJidElHSDkzcjA5Vmt1S3I0N24wNi1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-22 05:05:39"
+    },
     {
       "title": "百里侯爭霸／延續五星 張嘉郡：雲林不能缺席AI潮流 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZdTN6bS0xWmNEeW5aV0c4TENNZk0wWlpVM0NNRTBPcS1aQjg2bXlScFd1NGllOGJDTVRyTWstSm8wZWZSdTk0enAyUlBJZWJ1WGRv0gFYQVVfeXFMTlVEdjRkel84MURaQnUyR05LMkR5cGwwc05ETTZyc3ltNnZqdU5mZ3Y3MVc0Qm54ZmdxcmJadHAxa2pKTVZGSk9NRmdWQnNQYngyWkhCa2wyWg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -504,14 +554,14 @@
       "title": "豪雨狂襲雲林玉米倒伏發霉 張嘉郡籲農民儘速通報以利啟動天災救助 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVnFXeDRBei1NZnFORnVxWlJENFZDenVFMDZXMXJZM2RKOUppaWpqSmhwb0hzblBfV095SF9QcXRtZEQ3VWFaZE92MnE2aUhadlBFZHpXakZwYmpnNVB1WGVEOG5ZTXI1WVZaVmhnX2Y2dU15VG16Qmw2V09SQlJNbnpxYm1vWFIwY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-19 10:48:09"
-    },
-    {
-      "title": "豪雨狂襲雲林玉米倒伏發霉 張嘉郡籲農民儘速通報以利啟動天災救助 - 匯流新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBvbjg4N1ZqME5CUkp2WTZzT3U1SVhaa1Y5QUFMbFlZWVRaV0dGV1pkelVGWVdIR3pLWnV3Mm5CY1lWRDRxYkF4RmJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-19 10:48:09"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "【老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農】 朝野立委相繼提出《老年農民福利津貼暫行條例》修法版本，主張老農津貼調高至每人每月1萬至1萬5千元不等，行政院版本則是1萬元；行政院發言人李慧芝表示，行政院版本是最具可行性，籲 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxPQjhfcC1yNWlzYzhjUHpjY0VSOWRTQ1lCdWxyMGl6SnFkLU8zN2g5ejROeXhxWFljNlFlYUdlY2VTOUNlaUphSUxJeHUySEIyOFpWb2V5WjBsbFBVM2JqTEZTcWxOZENTRFVXUlROTmQ5OTk3SEM4ZThFRFYtQ2FUeV9fcXVJbXJvcnU4TzRxYTFrU2JyOTMxM1NtS3o5OXdaVmJWdmZMZUk4cE9QTnRJVDBCdWFiZFM5YUVPdVlWbXdMbEdZblhkcjZYUm1OMi1KWmNoWHMzWmhZSDNaU3p5ZG8wN2h2WEcySjZWZGtwUFFSbVJXMS1fa0Z6NHZ6a0xLSFk0emIydDRPVFFWcW1jQWFaRVZyQlFOQS1aN0lSVXlVVWZoRUpVNC12WFlyZ2V0d0F2UUo0TDQzT0hRenRlS3psUXBSMlpMX2plV2U5LXhrVkh4VXp5WTQ0Z1UwU0pkcGowcXlFdV9rS240Z1duSE1YS3dnc040ZHJjU0ZnOS1lcElhSjJCSHMydGNWV3JUS3EzWVQ4b3piZGFqeGlrY3NCSE5vZjBpdHZ6REVTVmZVdnRIbzBobUNwRmJJcTlzT3Atc1FGbW5EN3JLSzN0MEQxSkYyNFQ4UHdOMnhYY0phSEhleGZfRDRLZEJybDdzNjZBWkxSQnpyZHJnR0pCZzBWUkdSbWhuaS0xbEJucHdhQXZJeGRkWDNKeXlXRHo2ZG4zR3VTM0F2ZjJrRE1QMjZKY2xlMzE0WVplVXEyS09UU2w2RzgyV0szdEFwN1NvTE1hd3RDa2txZUczWWJoUklkaHJERmZuSnhTVjZzbTd3TEp1eXUzTlJPTXR5QkYybFFtYmhMakd4Z0RIaDBvUFJLRTJMOXVPdjRjYzI1YkpOM2NKUjV2TEJ3aUZkY3N4dm1xQWFZUGFscG9aMGFfSnAwcVV5U0pRSGl1NnFucTZVQmJIZEt6RjVPZFBsdEljMmlhTC1VMkM2M1IzdzB6NGZaNmNDMzMwYmhuRUx0RE1nSnNrakZrZjh3ZHQwb2RiWW52eXRfRGlVaHFkTkJKY0pNb09SNVcyRlVWQlBLSGF5eW1Nem5oQ2lsZHFaYjkyNzlwaWtOU0QyOVpVXzM2ZmlPaEo3V0pKWTVVYThMa0tsVFd5anJFZWV3d2JsNE1TQ09EdEIzTGJrNHgzMVdLSXVBdnoyOXpreEctT1YzcUxlNG1EY1paMnU3bGNzbXc1TUpiM3hETk9FWEJlYUtVc1ZrWG8xbWNlT2JoZUdXbEdwT0NhdmhfTlVDdmdoNG16X2pRazJ4M1h3M2dOcTJlMVUxT2tpZjAtLXNGSlFDak1iZw",
+      "time": "2026-06-22 05:21:07"
+    },
     {
       "title": "雲林縣是濁水溪以南少數由國民黨執政的縣市，「張榮味家族」在地深耕數十年，形成堅固堡壘。直到民進黨籍的蘇治芬於2005年12月贏得縣長選舉、2009年連任成功，雖在2014年交棒給同黨同志李進勇，但李進勇於2018年落選，輸給現任縣長張麗善。如今張麗善已經 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMimAdBVV95cUxPVS1nSHJ3M0VybFQ1eklOMDd1OUVpcFVjajRRYV9VMkphYmlFWTdMbHlHRmZBdzNTUW1mbWZxSHhuX0FDYV9MbTFwTzJqY0ttcXZlcHkwckFSUG8yRHlldm1UaVFxYW9UdDNNNm1YT2czeGxuNDNiekU5UE9TQ2R5SWpsRlVoXzRnRlBnUVBHMUFwby04YzZMaFRmU2VRTDlHY2ZXWDRuajVZb1ZscDdfNExDQ2V5NWtxN1dCMDEyZlpNVGNmRV9xWGY0S0lqUXFMQklCVDRBVnVpNlFjd3BRRjcyTU0wRFZxYTcyZFNSczRGY3U2b1dNM2wtZE9pMlRtajdfbFdaaXE2Z2dUa2tVekN2UHFIUFF6alNzYmQ5aU1CRkJfd19ZVU5iVWZPNG5GaFBrdS1fazBmVzg0YjZmbndoUVhCdW5JU2xsdEJRMTVlSDlFeHpTOEt0ZFpoajk0dHNuYmp6TGpxQ0dxdG9WNll5VXE1UWhYZ0xQSW9qWUlTVnhFWE9CUWx1X3dmZGdIekNSY3h1cDdSdW9UMkJVNXpSVVdCaDV1UTdybWNmYml1cTlKMzJHblduQmpVejNnMEFKdURmZGZrZl9XeXN2Wkp1TFY5NnZHaFExR0R3YUpKVEM4ejJSbXV0QmFiclMtSzQtMGxyODJYbzJqSnJNcTVWeUlhUm1FVzVON0lYaEJCMFQ0ZzZjMHl3MmQ1QnQxTENEaXNVSEExNjBjaDNrZVZTM2J3MmNZbld3eUZkWlRxbzdkbVVLYWZlXzJ4b0NtY1RRTmNreC15VE5BWW5tY1FIWnJtOFNuNTBDUnMya25FbGJMUVNmYlR1bi1ZTG1JaW1nLWQxQXpsR2dlUnhxT2FGWEtITGR0cG5OVVZyRHRuUkN2NnJOeUR6cDhfQUNkaXVXRW5LZDlDMVN4TDdNUG1XMUNyckdrMjNaQXlMNUNXREVDcnNPeEswMTRrVlZyLUhWTm1vRDdmVkt1eVVPTEtlVk4yMy1GTUtJNDBHUkszMGZTT0hPa1lpazJJWm84eDJCaHpzUkg5UDNoLVBTYVhUWDNpc3hjak1TQnV2bGszQnNOWVVSRkZBck5RTjFzaWZkckNqQlVPc2JFeDVzb0N1emdaWHBTcGFDTUNDX2V4QjYzVE5sRGVhQ3lIMm9QOXNEbVpRelpBMnNTZXlCMElDRlBJV1pyN1N2NlYzcVlVaEc0Zzc1eA",
@@ -606,14 +656,14 @@
       "title": "近期連日豪雨重創雲林縣，嚴重影響正值採收季的花生。立法委員張嘉郡今16日會同農業部、農糧署及雲林縣政府等相關單位，親赴虎尾、麥寮、四湖等鄉鎮辦理實地現勘，要求農業部從速、從寬、從簡進行天然災害補助之外，近期因應豪雨提前搶收的花生，也要納入災損 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMikwhBVV95cUxOVjJQclZwdDJDYUIxc1VXcXJ5eEFpNkN4YXRvQ1BsQlR1eTA0eHc0dHVlUzJMUXFZSHVIUDBDRDlXR3FHb1NxQnFLMjhlLWpJSFRrSW56cUd0eGxmOHVZTy0zWHFLajk0TkdkS0NDcndzZlY2c0NiWnMzOTlQVkFwX3VKcjA3V3VmZ1JteXozeEdXUkhUbm1zZkJvSG9FQ2daTkxtRjV5XzVJV0J2Q1UyT2dYcWxjN1ozaXdMZDZjdUxMaEdOUmJreEVBTEpJb2RrODluSmZWSUxKeDNQQVVEOVZYSXJtMXhJYU0tamt2ZW9aZXRFNHBNM0NfRmRSYmFaZDBtbzctay04TkVFdUp5MWtzS25HYUFqeW9WS21NT3JGMHVXNkdUcFBiSTlNcFZnVkxTajRMVWkwS0tfSzRKcnBvSnlxUF90WWJfVU5VRGNCNVVfVl9WWjZ6RnhacHV0SU5wMHRKV2djc0tNdWNCcWFDYnR5SlVqR1RUakVtTFNVV0tLdEhBWmRlaU05cG5HamhiVGFyZmx6WU1HMmlhV2FOM0EwbzJKZnV1VUFxZUV3dU9PakhZRjl0ZGZWTVZEalo0SEVwOHNnbEQwel9ESWFzNWoyeV9DaFN2Q29MMWNJb3BxaFdGRG9Tb0dsT1B5OE4zOHE5MXRrRENzc1NYa1Vqb0VELThvcEtxcjYwbGtrU3g5UDEyaWM2SFFiRDVzVUZpZVRscEdzbzI2MDl1aFJxUnJ3eFBydmJVWjVNRjhOS3U0bVpmYWRnZ29PcUxlSFRwRWRtUnZvOG1jb2djd2ZncFdOLV96eHpLUko1Mmo0QjJHOUNzZHFYajE4N2VfM0hETnBkdXB1OWVNcUhSbFBFVHlpNVpCdEwzYWlCMFF5djYyYW04SDY5WHpEeFR6bGQ2ejhabFo0ZnJxdjFNam9aeXdsazRjZW5tOWt3aWdxNGxxNEEzRHhvRXNHMFhYejVrUFZWTmtLT2RDOVB0SmRKVGE4MmZvU3pTQXZoUktjWUcwdFp2YXc1aFQ5ZzA5UE9Ra0lLQ1BXOWtUWTJSajhRcDBDOTllM2lOUGpWU0QwMlItVlA5MEI3eXljSFNyWENManpNY0ZrYTIwZmZxalItZTBtMk5NOUpGVTFERVRiTDdlY3VKMHpnNHpTdURMQWhXUnM4V0ZGb18wcWdMcE40a1RDcEhMOVdhbkRraWpkUjFqMklmRmtfbGE0aGJLd0lzdUpIYk4wUjNRd2o1ZjV1ZjhyakEwSjB6THJ1U3V4S2R1ZVAwVTViaUlyMkdiUXpHOWwzWF9UX29sWjNPVXhreENnRUR5eWpaMFRHSWI5SllweHdJUzlzYUs3UWE5bElZSHBlNDNYVEpYWnNGbXlXRQ",
       "time": "2026-06-17 16:43:34"
-    },
-    {
-      "title": "守護鄉親回家的路！ 劉建國向交通部爭取4768萬元 改善雲林人行環境 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOWXBQR242RlA4cElLQWlkYXoxd2VEbFE0Uks1STdaWGM3Rnk4Vm1YbWYtbFlZcXVlS0k4MDAxMnFqOEh2OHQ3MElJMVRXSkw1dGhRaFZiRmRnWW14VUJSR05HNm9fZVVQMGNMbGdfMElaSmtuZXk5UDNrUG5PSTdncmxVMDNzb1BNWFM0cTl2SXk4c2pnOGg0UWhZUGxyeGtiLUwwaTEyN2dSN1BJdzFmbVZVWE14YlFDNEFVZ1pCcmdSRU82YTNOUEpBZEY4RlBVcWViTFR2SFEwVzdVcFVtMXZ2Zm4wS3AxRVVzWG1qRHNsS3lVOGJWRUg0OV80T1FTdHd0MGMtdWp4cVg3ZTBPQzlHMkp0LUJZRVh5NVNvZFMtYmNuVTZEVVNvSTBwaUo3VTA5alVPU3hXNUZCZUJqYXVkSGdTUzFNVTJIRXdoaWFKb24xUDBRdU1DTFZjalRxYVRNVHVHM2VQU2NuZ3pNZks3dEM0NENRZkR6NkNjWUVFeWEtV0piS2c5b1hxLTYyZFUzaHdwQ0ZSdjNxSG5jQVdrVVhNSUdscm10cW4yQ204OXFG",
-      "time": "2026-06-17 15:40:29"
     }
   ],
   "latest_news_20": [
+    {
+      "title": "老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpXzl4bkZ4bjIwZGhBQkhaNE90SGJBUC1XLXVBbXJYcGdhZkpKbDBvTjF0RWdfWERHejJOcVNDYkw2Z0sxcW56djB1bFZCblZKbk52cDkyYzJidElHSDkzcjA5Vmt1S3I0N24wNi1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-22 05:05:39"
+    },
     {
       "title": "百里侯爭霸／延續五星 張嘉郡：雲林不能缺席AI潮流 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZdTN6bS0xWmNEeW5aV0c4TENNZk0wWlpVM0NNRTBPcS1aQjg2bXlScFd1NGllOGJDTVRyTWstSm8wZWZSdTk0enAyUlBJZWJ1WGRv0gFYQVVfeXFMTlVEdjRkel84MURaQnUyR05LMkR5cGwwc05ETTZyc3ltNnZqdU5mZ3Y3MVc0Qm54ZmdxcmJadHAxa2pKTVZGSk9NRmdWQnNQYngyWkhCa2wyWg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -708,16 +758,16 @@
       "title": "豪雨狂襲雲林玉米倒伏發霉 張嘉郡籲農民儘速通報以利啟動天災救助 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVnFXeDRBei1NZnFORnVxWlJENFZDenVFMDZXMXJZM2RKOUppaWpqSmhwb0hzblBfV095SF9QcXRtZEQ3VWFaZE92MnE2aUhadlBFZHpXakZwYmpnNVB1WGVEOG5ZTXI1WVZaVmhnX2Y2dU15VG16Qmw2V09SQlJNbnpxYm1vWFIwY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-19 10:48:09"
-    },
-    {
-      "title": "豪雨狂襲雲林玉米倒伏發霉 張嘉郡籲農民儘速通報以利啟動天災救助 - 匯流新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBvbjg4N1ZqME5CUkp2WTZzT3U1SVhaa1Y5QUFMbFlZWVRaV0dGV1pkelVGWVdIR3pLWnV3Mm5CY1lWRDRxYkF4RmJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-19 10:48:09"
     }
   ],
   "person_sections": {
     "張嘉郡": {
       "facebook": [
+        {
+          "title": "【老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農】 朝野立委相繼提出《老年農民福利津貼暫行條例》修法版本，主張老農津貼調高至每人每月1萬至1萬5千元不等，行政院版本則是1萬元；行政院發言人李慧芝表示，行政院版本是最具可行性，籲 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxPQjhfcC1yNWlzYzhjUHpjY0VSOWRTQ1lCdWxyMGl6SnFkLU8zN2g5ejROeXhxWFljNlFlYUdlY2VTOUNlaUphSUxJeHUySEIyOFpWb2V5WjBsbFBVM2JqTEZTcWxOZENTRFVXUlROTmQ5OTk3SEM4ZThFRFYtQ2FUeV9fcXVJbXJvcnU4TzRxYTFrU2JyOTMxM1NtS3o5OXdaVmJWdmZMZUk4cE9QTnRJVDBCdWFiZFM5YUVPdVlWbXdMbEdZblhkcjZYUm1OMi1KWmNoWHMzWmhZSDNaU3p5ZG8wN2h2WEcySjZWZGtwUFFSbVJXMS1fa0Z6NHZ6a0xLSFk0emIydDRPVFFWcW1jQWFaRVZyQlFOQS1aN0lSVXlVVWZoRUpVNC12WFlyZ2V0d0F2UUo0TDQzT0hRenRlS3psUXBSMlpMX2plV2U5LXhrVkh4VXp5WTQ0Z1UwU0pkcGowcXlFdV9rS240Z1duSE1YS3dnc040ZHJjU0ZnOS1lcElhSjJCSHMydGNWV3JUS3EzWVQ4b3piZGFqeGlrY3NCSE5vZjBpdHZ6REVTVmZVdnRIbzBobUNwRmJJcTlzT3Atc1FGbW5EN3JLSzN0MEQxSkYyNFQ4UHdOMnhYY0phSEhleGZfRDRLZEJybDdzNjZBWkxSQnpyZHJnR0pCZzBWUkdSbWhuaS0xbEJucHdhQXZJeGRkWDNKeXlXRHo2ZG4zR3VTM0F2ZjJrRE1QMjZKY2xlMzE0WVplVXEyS09UU2w2RzgyV0szdEFwN1NvTE1hd3RDa2txZUczWWJoUklkaHJERmZuSnhTVjZzbTd3TEp1eXUzTlJPTXR5QkYybFFtYmhMakd4Z0RIaDBvUFJLRTJMOXVPdjRjYzI1YkpOM2NKUjV2TEJ3aUZkY3N4dm1xQWFZUGFscG9aMGFfSnAwcVV5U0pRSGl1NnFucTZVQmJIZEt6RjVPZFBsdEljMmlhTC1VMkM2M1IzdzB6NGZaNmNDMzMwYmhuRUx0RE1nSnNrakZrZjh3ZHQwb2RiWW52eXRfRGlVaHFkTkJKY0pNb09SNVcyRlVWQlBLSGF5eW1Nem5oQ2lsZHFaYjkyNzlwaWtOU0QyOVpVXzM2ZmlPaEo3V0pKWTVVYThMa0tsVFd5anJFZWV3d2JsNE1TQ09EdEIzTGJrNHgzMVdLSXVBdnoyOXpreEctT1YzcUxlNG1EY1paMnU3bGNzbXc1TUpiM3hETk9FWEJlYUtVc1ZrWG8xbWNlT2JoZUdXbEdwT0NhdmhfTlVDdmdoNG16X2pRazJ4M1h3M2dOcTJlMVUxT2tpZjAtLXNGSlFDak1iZw",
+          "time": "2026-06-22 05:21:07"
+        },
         {
           "title": "▌抗少子女化！張嘉郡提案「公幼費用全免」：私幼每月至少補助1.5萬 #后里書僮：張嘉郡提案對抗少子女化！ （圖／資料照，記者楊士誼攝影） - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMi1AVBVV95cUxOX0szemhFYlVudmIwYXBmdjByU0I3ellDN2tROFIzQ0pNR1R5M05qc1hNT1NlMzlCdEdTZmE0T3JBa1N3WEIyc0ZKSDlKTmQ4amlHRE9hU1VKS1ByYzUxNUVhRkJYZEJsTDR5RE9uVmc1RVJvSWJyVjliMHd3RFZMcEZxaGxEcUFxaElXa0NlMTh0Mnotb3NHR21HdDlkMlVEZmFRdG9pT2p6b0tVLXNiZ3RCTzBtWTlrdG8tX005NVhuVTRreVdkdXc0SkpaNDU4a2lrZlZIaTVyS1NWUXQ3MmdPd3p1SVpOVWluN0lIaGJwaXBSM1gtUzdFa29TMGkyb1RfYUQ3OTJFV0YzUTdndmduT05MeklFakgtZTFoa1Q1Wk1FdjRpQ2NrZGpSQUJNMEhaQ1hKWXprRnoyMUpyaVN0Rl9HT3Fabmg4SWRaT0oydDVieTF3QnJocVBmR3BVY2N1NWphTEFNbGpaMHppc3JPUUUtQUJheDJqY0JhemRIQi02OUMydFRzNnI2TTdmQWRMdlJ2c0lfNnY5bVRLNG9Fa2t5WW4zXzZqRTJVbzZYekpQLWxxd1g4YUtWc0tGTC04SXRIbl9jZHRUTlE5SG1sUWFYb1I3WHluaFM5RnQyRkkyV2VQTkk5T3VDZENVT2RrSmdHa19GM1VCZ3dDdExFZkpVZXVGWVp3ZnZEZ1hkYnM5c29yazhCZkdPaEZkampWN29vajNBTl8zYVdyQk5LWGpZREthNXYzN0RmTk03Z083bzZOVXFJcmdLMjRZWGppeXNINWdDdVdTaWs0YU9INTVTcjBXX2pvNjVWbUI2OS1iS0RhNkp5LXlHZkZyMFdhLTJFZ3ZFZXlRbG8zTG9CYUJnVkVNNzBOaVlYLTl5TDJGbGM5YW1VWmxhNllRWUdRWnFrS2lvV0NuMjZxNzk5YWVZTVhVaHFET0NmS0Q3aTht",
@@ -812,14 +862,14 @@
           "title": "#張嘉郡 憂美花生「毀滅性衝擊」#國產花生 #楊瓊瓔 反駁：講太嚴重價格更崩 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxQVHF1bWhqMnRoeWNvT3M4SjF0ak5zSzFsaXJVNW9nMzF5alhtVkhSS0xTOU9fdDhSRTFxaXpubkNvM1d1WkVLYXVnQjQ3S19kZEFuaV9qckpGQXItWmUyNTBrNTREaXNrRzdWQkZJQlJKRE56YVlMV1RvRGR6VWg1WDFBZ0l2Z1pXTXZtSzJsdjE1REJoQnkzVzBvQXBkd2x2c295akI5eHdScFR3Q0g0YTZqUUF6TlN1Q2lLeExYOUE0MWR3TzRJc2RuRFc3bkV4NlY5SEVEV05hRGtJbmxLMHlScXZCYl9xNXRjenJQTS1qZkprQlF0Ums5Um55Y05jcm5MVnIyZUItVU9sa3NkeC1hTWVPRExhQzlnQ0tVTVh1U3I2YzRPRjRBMXlUMnRfbndPZkJDY2JJWVdHQ0NVeWZoOEMtRmtYNndad2UxT3VOdk8yWTl5OEZKZ3dpQi1rRVVWZGQzTC1LTW0tamRfQm10VUo2a3NnOHRCb1d3SENkUkJfSWxLT1U5WDljMTk1NlZVaUpBVHMyeG1rYllXbDJRRXRHaG1rYnNvOE14VHp4NFRDOWdyWWNOcDZjRHpCT2FTbDBzUkhXZHBjc2tOY0Jn",
           "time": "2026-06-10 14:59:50"
-        },
-        {
-          "title": "雲林縣長選戰，國民黨參選人是現任縣長張麗善的姪女、前縣長張榮味的女兒張嘉郡，對此，民進黨參選人劉建國透露，他有一張王牌！ 究竟哪一張牌？在留言網址連結~ #九合一選舉 #雲林張家 - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMihwhBVV95cUxNLXdUbGQtYTk5bGZTcFhidGpQV09nR3FobzhjU3F4VDc0T184MkNoZERmRmJWMEVkeVFNUkpka1lzT056T2NXRmpHMGZwbm5feXE5VFk4NHFoS0VxUmx3T2g2d2RoN1d6aFhOR2k0QndIODlaNXB6VDhlZDJWd3FKTnRBWGZ3MUt1SE4xR0FLVG9FSnpmcG1jQ1R1X1dXWkRmNE9OSmJpWGtLdFY2dWlqS2Q1Um9PLTFTZlhjTUU2OVNjeXp2Vk5MVVVKSTBXTU5VRVpuUk5aNmxrcGVQemR1amhJMm5Id0hVNVY4Q05ZcVN4Qkp3YUVJOFh2d0JJYWEwUkFfNmUxSnFsZDRoT0RmMnUtUDVtN3VWVHJoZ3RjaGZnRmNGbUtySS0wV1RUYmFzSno1b3drMTRvWW1rV0RvUjhWdEh5TDg2OWliZklmOEQ5a09FTjR6VVR3bnBNT0s2WUF6SUc1bTlaWmNrSUdjN1B3bWxzdEFfT3hkLUJBamFqdU1yVEFVS2JBZXpoYXdDVjdNcU5uV0lIMms1ZW9jN25BSlI3cktLYjhYQUs0bl9ZR1RBNmJHWnEtdWtpckhmVkMyX0dpQ3VMUHQ5Ym5EWWt3T0dzUk5aSlVkYlN3cGlpNUZiNXVBelJpRVpYQ1hROWU2RFJsT1JEd2FKNExUUnppTlpMQUIzcUQwa08wU2lqTU1yd1BIa3BNeTJ0ZHZtRUhIdHUySFZNMzg5TnZ4OWo3SWpZWDJtSUFiOW1uNDh2VGZVLVNiemV6M1RpcTFDbWxSWWp1Q0lHa0dYVGJMSjBSb2Q0Y1p4Z3R1VzE3aXlSVkFxeDZ0QWk2MmJIb2ZHSW5LWnljSnZqVlJ1QkFjb01kYWZreWh6SmRld0R0eUw4ZXM3cmNINXJST0xJZWZyUFRRNVdveXdjNWNyWG5Ia1FlNEpnQTItZjBaaTl3TWMzREZtOHJ6UFpxMnZlalpnZkZZN1RuRnRQSUZ6Q3lDWlRiRnd1VjJkbE5RN09qeHl2cm9TM1U1b28yZ0hSSDI5T0ZEc1piZGhWOExsYi1adkcyMENPR2tKMmF5alVjcVUzamNDQzRuclV2emZSVHlyWlpPd25TY2wtMzFDM2ZQOVVjT2Z5RzVTSjlwWnNEYWRiVjhMTDNyNm1TRjBXN190T0xWc1FsR2QtdTdPbm5xclVSb0pMTGliRDhUd2lycFAzbHl5VWJzdlRfd3ZMUzJmdWxVU0JmelRLazdsQ3NIeWRILWtjQzFMcnFVeUd2enNQUjVrUVZ2TUR4RmJsbUNvUlIxV1VFTXVQejFUODJ2WW55Q21WanN6SHoxMXcwdHlSYUZDTkZodTd1bnQ3cGd4QTRwVldqNA",
-          "time": "2026-06-08 23:51:18"
         }
       ],
       "news": [
+        {
+          "title": "老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農 - 中時新聞網",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpXzl4bkZ4bjIwZGhBQkhaNE90SGJBUC1XLXVBbXJYcGdhZkpKbDBvTjF0RWdfWERHejJOcVNDYkw2Z0sxcW56djB1bFZCblZKbk52cDkyYzJidElHSDkzcjA5Vmt1S3I0N24wNi1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-22 05:05:39"
+        },
         {
           "title": "百里侯爭霸／延續五星 張嘉郡：雲林不能缺席AI潮流 - UDN",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZdTN6bS0xWmNEeW5aV0c4TENNZk0wWlpVM0NNRTBPcS1aQjg2bXlScFd1NGllOGJDTVRyTWstSm8wZWZSdTk0enAyUlBJZWJ1WGRv0gFYQVVfeXFMTlVEdjRkel84MURaQnUyR05LMkR5cGwwc05ETTZyc3ltNnZqdU5mZ3Y3MVc0Qm54ZmdxcmJadHAxa2pKTVZGSk9NRmdWQnNQYngyWkhCa2wyWg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -914,11 +964,6 @@
           "title": "張嘉郡提幼教法修法 主張公幼免學費、私幼每月補助1.5萬元 | CTWANT - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xbVlacnB0VjcycjE1NFJBOXNBbzh0TndLSWlsdVpmclhVd2JGSkdQNEdRUXZYbnlLYnFpSjRvdGNLYXp2VUxiVG05emI4cGVGN3hDRXp3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-18 17:30:40"
-        },
-        {
-          "title": "在地有聲EP5_一段聲音，勾起一座城市的記憶feat.虎尾鎮長林嘉弘、立法委員張嘉郡| 台灣生活新聞 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZbC05N2sxZzE0M3NkZzVXZFJob0JYZmtIdjVqdkw3UE5mVm80MGg4b28ySnRtMkozOG1JOFNPMU1JbGpkUDhmZGRzaGhubUVDOVAySkJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-18 17:21:19"
         }
       ]
     },
@@ -1132,6 +1177,11 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpXzl4bkZ4bjIwZGhBQkhaNE90SGJBUC1XLXVBbXJYcGdhZkpKbDBvTjF0RWdfWERHejJOcVNDYkw2Z0sxcW56djB1bFZCblZKbk52cDkyYzJidElHSDkzcjA5Vmt1S3I0N24wNi1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 05:05:39"
+      },
+      {
         "title": "百里侯爭霸／延續五星 張嘉郡：雲林不能缺席AI潮流 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZdTN6bS0xWmNEeW5aV0c4TENNZk0wWlpVM0NNRTBPcS1aQjg2bXlScFd1NGllOGJDTVRyTWstSm8wZWZSdTk0enAyUlBJZWJ1WGRv0gFYQVVfeXFMTlVEdjRkel84MURaQnUyR05LMkR5cGwwc05ETTZyc3ltNnZqdU5mZ3Y3MVc0Qm54ZmdxcmJadHAxa2pKTVZGSk9NRmdWQnNQYngyWkhCa2wyWg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-22 03:50:46"
@@ -1164,6 +1214,11 @@
     ],
     "facebook": [
       {
+        "title": "【老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農】 朝野立委相繼提出《老年農民福利津貼暫行條例》修法版本，主張老農津貼調高至每人每月1萬至1萬5千元不等，行政院版本則是1萬元；行政院發言人李慧芝表示，行政院版本是最具可行性，籲 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxPQjhfcC1yNWlzYzhjUHpjY0VSOWRTQ1lCdWxyMGl6SnFkLU8zN2g5ejROeXhxWFljNlFlYUdlY2VTOUNlaUphSUxJeHUySEIyOFpWb2V5WjBsbFBVM2JqTEZTcWxOZENTRFVXUlROTmQ5OTk3SEM4ZThFRFYtQ2FUeV9fcXVJbXJvcnU4TzRxYTFrU2JyOTMxM1NtS3o5OXdaVmJWdmZMZUk4cE9QTnRJVDBCdWFiZFM5YUVPdVlWbXdMbEdZblhkcjZYUm1OMi1KWmNoWHMzWmhZSDNaU3p5ZG8wN2h2WEcySjZWZGtwUFFSbVJXMS1fa0Z6NHZ6a0xLSFk0emIydDRPVFFWcW1jQWFaRVZyQlFOQS1aN0lSVXlVVWZoRUpVNC12WFlyZ2V0d0F2UUo0TDQzT0hRenRlS3psUXBSMlpMX2plV2U5LXhrVkh4VXp5WTQ0Z1UwU0pkcGowcXlFdV9rS240Z1duSE1YS3dnc040ZHJjU0ZnOS1lcElhSjJCSHMydGNWV3JUS3EzWVQ4b3piZGFqeGlrY3NCSE5vZjBpdHZ6REVTVmZVdnRIbzBobUNwRmJJcTlzT3Atc1FGbW5EN3JLSzN0MEQxSkYyNFQ4UHdOMnhYY0phSEhleGZfRDRLZEJybDdzNjZBWkxSQnpyZHJnR0pCZzBWUkdSbWhuaS0xbEJucHdhQXZJeGRkWDNKeXlXRHo2ZG4zR3VTM0F2ZjJrRE1QMjZKY2xlMzE0WVplVXEyS09UU2w2RzgyV0szdEFwN1NvTE1hd3RDa2txZUczWWJoUklkaHJERmZuSnhTVjZzbTd3TEp1eXUzTlJPTXR5QkYybFFtYmhMakd4Z0RIaDBvUFJLRTJMOXVPdjRjYzI1YkpOM2NKUjV2TEJ3aUZkY3N4dm1xQWFZUGFscG9aMGFfSnAwcVV5U0pRSGl1NnFucTZVQmJIZEt6RjVPZFBsdEljMmlhTC1VMkM2M1IzdzB6NGZaNmNDMzMwYmhuRUx0RE1nSnNrakZrZjh3ZHQwb2RiWW52eXRfRGlVaHFkTkJKY0pNb09SNVcyRlVWQlBLSGF5eW1Nem5oQ2lsZHFaYjkyNzlwaWtOU0QyOVpVXzM2ZmlPaEo3V0pKWTVVYThMa0tsVFd5anJFZWV3d2JsNE1TQ09EdEIzTGJrNHgzMVdLSXVBdnoyOXpreEctT1YzcUxlNG1EY1paMnU3bGNzbXc1TUpiM3hETk9FWEJlYUtVc1ZrWG8xbWNlT2JoZUdXbEdwT0NhdmhfTlVDdmdoNG16X2pRazJ4M1h3M2dOcTJlMVUxT2tpZjAtLXNGSlFDak1iZw",
+        "time": "2026-06-22 05:21:07"
+      },
+      {
         "title": "雲林縣是濁水溪以南少數由國民黨執政的縣市，「張榮味家族」在地深耕數十年，形成堅固堡壘。直到民進黨籍的蘇治芬於2005年12月贏得縣長選舉、2009年連任成功，雖在2014年交棒給同黨同志李進勇，但李進勇於2018年落選，輸給現任縣長張麗善。如今張麗善已經 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMimAdBVV95cUxPVS1nSHJ3M0VybFQ1eklOMDd1OUVpcFVjajRRYV9VMkphYmlFWTdMbHlHRmZBdzNTUW1mbWZxSHhuX0FDYV9MbTFwTzJqY0ttcXZlcHkwckFSUG8yRHlldm1UaVFxYW9UdDNNNm1YT2czeGxuNDNiekU5UE9TQ2R5SWpsRlVoXzRnRlBnUVBHMUFwby04YzZMaFRmU2VRTDlHY2ZXWDRuajVZb1ZscDdfNExDQ2V5NWtxN1dCMDEyZlpNVGNmRV9xWGY0S0lqUXFMQklCVDRBVnVpNlFjd3BRRjcyTU0wRFZxYTcyZFNSczRGY3U2b1dNM2wtZE9pMlRtajdfbFdaaXE2Z2dUa2tVekN2UHFIUFF6alNzYmQ5aU1CRkJfd19ZVU5iVWZPNG5GaFBrdS1fazBmVzg0YjZmbndoUVhCdW5JU2xsdEJRMTVlSDlFeHpTOEt0ZFpoajk0dHNuYmp6TGpxQ0dxdG9WNll5VXE1UWhYZ0xQSW9qWUlTVnhFWE9CUWx1X3dmZGdIekNSY3h1cDdSdW9UMkJVNXpSVVdCaDV1UTdybWNmYml1cTlKMzJHblduQmpVejNnMEFKdURmZGZrZl9XeXN2Wkp1TFY5NnZHaFExR0R3YUpKVEM4ejJSbXV0QmFiclMtSzQtMGxyODJYbzJqSnJNcTVWeUlhUm1FVzVON0lYaEJCMFQ0ZzZjMHl3MmQ1QnQxTENEaXNVSEExNjBjaDNrZVZTM2J3MmNZbld3eUZkWlRxbzdkbVVLYWZlXzJ4b0NtY1RRTmNreC15VE5BWW5tY1FIWnJtOFNuNTBDUnMya25FbGJMUVNmYlR1bi1ZTG1JaW1nLWQxQXpsR2dlUnhxT2FGWEtITGR0cG5OVVZyRHRuUkN2NnJOeUR6cDhfQUNkaXVXRW5LZDlDMVN4TDdNUG1XMUNyckdrMjNaQXlMNUNXREVDcnNPeEswMTRrVlZyLUhWTm1vRDdmVkt1eVVPTEtlVk4yMy1GTUtJNDBHUkszMGZTT0hPa1lpazJJWm84eDJCaHpzUkg5UDNoLVBTYVhUWDNpc3hjak1TQnV2bGszQnNOWVVSRkZBck5RTjFzaWZkckNqQlVPc2JFeDVzb0N1emdaWHBTcGFDTUNDX2V4QjYzVE5sRGVhQ3lIMm9QOXNEbVpRelpBMnNTZXlCMElDRlBJV1pyN1N2NlYzcVlVaEc0Zzc1eA",
         "time": "2026-06-21 12:17:51"
@@ -1184,6 +1239,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpXzl4bkZ4bjIwZGhBQkhaNE90SGJBUC1XLXVBbXJYcGdhZkpKbDBvTjF0RWdfWERHejJOcVNDYkw2Z0sxcW56djB1bFZCblZKbk52cDkyYzJidElHSDkzcjA5Vmt1S3I0N24wNi1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 05:05:39"
+      },
       {
         "title": "百里侯爭霸／延續五星 張嘉郡：雲林不能缺席AI潮流 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZdTN6bS0xWmNEeW5aV0c4TENNZk0wWlpVM0NNRTBPcS1aQjg2bXlScFd1NGllOGJDTVRyTWstSm8wZWZSdTk0enAyUlBJZWJ1WGRv0gFYQVVfeXFMTlVEdjRkel84MURaQnUyR05LMkR5cGwwc05ETTZyc3ltNnZqdU5mZ3Y3MVc0Qm54ZmdxcmJadHAxa2pKTVZGSk9NRmdWQnNQYngyWkhCa2wyWg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1378,14 +1438,14 @@
         "title": "在地有聲EP5_一段聲音，勾起一座城市的記憶feat.虎尾鎮長林嘉弘、立法委員張嘉郡| 台灣生活新聞 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZbC05N2sxZzE0M3NkZzVXZFJob0JYZmtIdjVqdkw3UE5mVm80MGg4b28ySnRtMkozOG1JOFNPMU1JbGpkUDhmZGRzaGhubUVDOVAySkJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-18 17:21:19"
-      },
-      {
-        "title": "在地有聲 EP5_一段聲音，勾起一座城市的記憶 feat.虎尾鎮長林嘉弘、立法委員張嘉郡 - TDN台灣生活新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SNnlvWEt3ZWFMdUoyVEJBU212NERIRjI1MUZBMDd6aDY4VFI1NjFhMGVxZTJMVWY5N0thQ0kzbVYwRnBWS1luNWNPT1YtSThh?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-18 16:59:58"
       }
     ],
     "facebook": [
+      {
+        "title": "【老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農】 朝野立委相繼提出《老年農民福利津貼暫行條例》修法版本，主張老農津貼調高至每人每月1萬至1萬5千元不等，行政院版本則是1萬元；行政院發言人李慧芝表示，行政院版本是最具可行性，籲 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxPQjhfcC1yNWlzYzhjUHpjY0VSOWRTQ1lCdWxyMGl6SnFkLU8zN2g5ejROeXhxWFljNlFlYUdlY2VTOUNlaUphSUxJeHUySEIyOFpWb2V5WjBsbFBVM2JqTEZTcWxOZENTRFVXUlROTmQ5OTk3SEM4ZThFRFYtQ2FUeV9fcXVJbXJvcnU4TzRxYTFrU2JyOTMxM1NtS3o5OXdaVmJWdmZMZUk4cE9QTnRJVDBCdWFiZFM5YUVPdVlWbXdMbEdZblhkcjZYUm1OMi1KWmNoWHMzWmhZSDNaU3p5ZG8wN2h2WEcySjZWZGtwUFFSbVJXMS1fa0Z6NHZ6a0xLSFk0emIydDRPVFFWcW1jQWFaRVZyQlFOQS1aN0lSVXlVVWZoRUpVNC12WFlyZ2V0d0F2UUo0TDQzT0hRenRlS3psUXBSMlpMX2plV2U5LXhrVkh4VXp5WTQ0Z1UwU0pkcGowcXlFdV9rS240Z1duSE1YS3dnc040ZHJjU0ZnOS1lcElhSjJCSHMydGNWV3JUS3EzWVQ4b3piZGFqeGlrY3NCSE5vZjBpdHZ6REVTVmZVdnRIbzBobUNwRmJJcTlzT3Atc1FGbW5EN3JLSzN0MEQxSkYyNFQ4UHdOMnhYY0phSEhleGZfRDRLZEJybDdzNjZBWkxSQnpyZHJnR0pCZzBWUkdSbWhuaS0xbEJucHdhQXZJeGRkWDNKeXlXRHo2ZG4zR3VTM0F2ZjJrRE1QMjZKY2xlMzE0WVplVXEyS09UU2w2RzgyV0szdEFwN1NvTE1hd3RDa2txZUczWWJoUklkaHJERmZuSnhTVjZzbTd3TEp1eXUzTlJPTXR5QkYybFFtYmhMakd4Z0RIaDBvUFJLRTJMOXVPdjRjYzI1YkpOM2NKUjV2TEJ3aUZkY3N4dm1xQWFZUGFscG9aMGFfSnAwcVV5U0pRSGl1NnFucTZVQmJIZEt6RjVPZFBsdEljMmlhTC1VMkM2M1IzdzB6NGZaNmNDMzMwYmhuRUx0RE1nSnNrakZrZjh3ZHQwb2RiWW52eXRfRGlVaHFkTkJKY0pNb09SNVcyRlVWQlBLSGF5eW1Nem5oQ2lsZHFaYjkyNzlwaWtOU0QyOVpVXzM2ZmlPaEo3V0pKWTVVYThMa0tsVFd5anJFZWV3d2JsNE1TQ09EdEIzTGJrNHgzMVdLSXVBdnoyOXpreEctT1YzcUxlNG1EY1paMnU3bGNzbXc1TUpiM3hETk9FWEJlYUtVc1ZrWG8xbWNlT2JoZUdXbEdwT0NhdmhfTlVDdmdoNG16X2pRazJ4M1h3M2dOcTJlMVUxT2tpZjAtLXNGSlFDak1iZw",
+        "time": "2026-06-22 05:21:07"
+      },
       {
         "title": "雲林縣是濁水溪以南少數由國民黨執政的縣市，「張榮味家族」在地深耕數十年，形成堅固堡壘。直到民進黨籍的蘇治芬於2005年12月贏得縣長選舉、2009年連任成功，雖在2014年交棒給同黨同志李進勇，但李進勇於2018年落選，輸給現任縣長張麗善。如今張麗善已經 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMimAdBVV95cUxPVS1nSHJ3M0VybFQ1eklOMDd1OUVpcFVjajRRYV9VMkphYmlFWTdMbHlHRmZBdzNTUW1mbWZxSHhuX0FDYV9MbTFwTzJqY0ttcXZlcHkwckFSUG8yRHlldm1UaVFxYW9UdDNNNm1YT2czeGxuNDNiekU5UE9TQ2R5SWpsRlVoXzRnRlBnUVBHMUFwby04YzZMaFRmU2VRTDlHY2ZXWDRuajVZb1ZscDdfNExDQ2V5NWtxN1dCMDEyZlpNVGNmRV9xWGY0S0lqUXFMQklCVDRBVnVpNlFjd3BRRjcyTU0wRFZxYTcyZFNSczRGY3U2b1dNM2wtZE9pMlRtajdfbFdaaXE2Z2dUa2tVekN2UHFIUFF6alNzYmQ5aU1CRkJfd19ZVU5iVWZPNG5GaFBrdS1fazBmVzg0YjZmbndoUVhCdW5JU2xsdEJRMTVlSDlFeHpTOEt0ZFpoajk0dHNuYmp6TGpxQ0dxdG9WNll5VXE1UWhYZ0xQSW9qWUlTVnhFWE9CUWx1X3dmZGdIekNSY3h1cDdSdW9UMkJVNXpSVVdCaDV1UTdybWNmYml1cTlKMzJHblduQmpVejNnMEFKdURmZGZrZl9XeXN2Wkp1TFY5NnZHaFExR0R3YUpKVEM4ejJSbXV0QmFiclMtSzQtMGxyODJYbzJqSnJNcTVWeUlhUm1FVzVON0lYaEJCMFQ0ZzZjMHl3MmQ1QnQxTENEaXNVSEExNjBjaDNrZVZTM2J3MmNZbld3eUZkWlRxbzdkbVVLYWZlXzJ4b0NtY1RRTmNreC15VE5BWW5tY1FIWnJtOFNuNTBDUnMya25FbGJMUVNmYlR1bi1ZTG1JaW1nLWQxQXpsR2dlUnhxT2FGWEtITGR0cG5OVVZyRHRuUkN2NnJOeUR6cDhfQUNkaXVXRW5LZDlDMVN4TDdNUG1XMUNyckdrMjNaQXlMNUNXREVDcnNPeEswMTRrVlZyLUhWTm1vRDdmVkt1eVVPTEtlVk4yMy1GTUtJNDBHUkszMGZTT0hPa1lpazJJWm84eDJCaHpzUkg5UDNoLVBTYVhUWDNpc3hjak1TQnV2bGszQnNOWVVSRkZBck5RTjFzaWZkckNqQlVPc2JFeDVzb0N1emdaWHBTcGFDTUNDX2V4QjYzVE5sRGVhQ3lIMm9QOXNEbVpRelpBMnNTZXlCMElDRlBJV1pyN1N2NlYzcVlVaEc0Zzc1eA",
@@ -1580,11 +1640,6 @@
         "title": "#守護社會安定的力量🧑‍✈️ #向波麗士大人致敬🙋‍♀️ 今天是 #警察節，也是我們 #斗六分局 新大樓正式啟用的好日子🎉看到員警們能在嶄新的大樓內辦公，真的很令人高興，嘉郡與縣府團隊會繼續努力為警察同仁爭取更好的工作環境💪 嘉郡在此也要向所有辛苦的執法 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMijwhBVV95cUxOcmFIZmhxM2JlTEZtaE9YVjQ5b3JydnBUaEZLRUM0aUtsVjRvbEsybC1CZERCaW1DMDJCcHhfSjQ4YWtwSWc4bTVBdE5QX05ZaVNVaS12ajNmUERDVm51QUdqb0lSZ0h4bThjSnlNYWVOWWpUYXhZUHVFVlJJYzltLUVJTjNWVlozcW5jZnA0YWtQVnNGcWgwcE9Zdm13SHI5aG9pdzJxYktrM2g1ZmFVY29DZENkb1BXOVlZUkl4NWVCX0tzTmp6MTBJOFA1bWZfbFFraEgteUkySGg2aGZ3S0lxekVxZFVpYjhtYWtSSnd5OExBWFpaYnc3anFtVEFiZEVfNERxYkI0dVhBRXBrWGxDcVFtMlN3bmNvWFNLYWUwZExvX1UxSHVpTlpYNjA4Yk9pUktEdFhzdDJsTlpvMk1UbkNLNktDSVFfbmtIamxWYjVsMjdFYmNlQjZSRGhSb3puc1ZhS3BHQ05HT3FYdkZJQU1QeElNOUdDMl9JYjVYZVM2dlBUU0lhcmRZWnlVY2MteHBfTnBtb241UWJyam5ZRjJoSjdHc2lMa25xTzVvZFMxYmdxYjBpQ3RUVXBrakZsZEpKUVF4S1FZaGxmZlktY3FPYjZHVTVLaVhsTlJFdC1ZbVRjbmh4YXNMYzhzYVk4MG1iUXZWS2VkaEYwSnVGRHpTa2VETTd4SlY3eC1id0dsbGpObWhiTFN4Q2Y2QzlGZmxIR0M3VktLUWFLbmxlbzgyR1NmWVBRN1pBZjNmclBXR1lNVk4wTHktVHdtS2pBaHRVdG1zUU9Eck9aSGJtYjFVUS1CeWNDUzhzeHVKZGtUNER3X1d4QmI0M2c2SWxKdVI5QWxyb1hoS2dpcVZFbWdQVGE3NW1UdG1WY0V3UzlSckxfZG1LWXBzUjIyUWIyUVlFdEhDOWVNeWZxR0hGYU9fV3c0TWFwbHE2VFd6U2sxZlZnWFBXdnVCUVUtZkc3ZmNuNjM5TVZhYW5ZajNWdW5Qa2RtdFI1Q2JFVXgycHR5Z21MdjJQZE9lQXNKVG5SR3RYV2hkZDVELVppaktQYjhZX0dhM2VRQ1RNWUpWRU8zWGdkZURhalpwNmZhcWlwYTlUcUhMMkUxblkybURoUDJ5ZmhDSzNFVHJFcE0yMzNHcWJacmk0eENKdGNneVVJM3N0QjhzTEZOYjRpNGFJd1ZYX0lfVkQyOGVIOEpveDdzWnlhY0tiZ3ZoQkdNaWdCQWItYnI0Q1pITjE1NDZTa0w4NzR1QTdxSkVEOTNUTk9sdVZOaU9MQjlhYWMxM0tCamxqcTVrbHUtSjI2TjkwemY5djB1Tm5WNHF3d2VoS1FfdjNLdk5jWEYwWmMxNVIxM2xnMnZrOWxoczdv",
         "time": "2026-06-15 13:40:53"
-      },
-      {
-        "title": "張嘉郡 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb185cTZQbk9jcDdGOF9JV3Z4RzdnaDNuZldpc1hDMk1Zc2V3aUtjSXpPdmFldXN0WThidHpveG5pMGlpLWtNay1uWGVPZ0U1clR2Yjk5Znlsc3NaMlBUT2F1VS16QWFRUjB5R0ZzZEZ5SXZnQWFFMjBxV2NHRC1TakxNdklZQmhobDYwdHZwVjM0RDNoR1RkWnhvRVR5dw",
-        "time": "2026-06-15 13:40:53"
       }
     ],
     "youtube": [
@@ -1624,6 +1679,20 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "【老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農】 朝野立委相繼提出《老年農民福利津貼暫行條例》修法版本，主張老農津貼調高至每人每月1萬至1萬5千元不等，行政院版本則是1萬元；行政院發言人李慧芝表示，行政院版本是最具可行性，籲 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxPQjhfcC1yNWlzYzhjUHpjY0VSOWRTQ1lCdWxyMGl6SnFkLU8zN2g5ejROeXhxWFljNlFlYUdlY2VTOUNlaUphSUxJeHUySEIyOFpWb2V5WjBsbFBVM2JqTEZTcWxOZENTRFVXUlROTmQ5OTk3SEM4ZThFRFYtQ2FUeV9fcXVJbXJvcnU4TzRxYTFrU2JyOTMxM1NtS3o5OXdaVmJWdmZMZUk4cE9QTnRJVDBCdWFiZFM5YUVPdVlWbXdMbEdZblhkcjZYUm1OMi1KWmNoWHMzWmhZSDNaU3p5ZG8wN2h2WEcySjZWZGtwUFFSbVJXMS1fa0Z6NHZ6a0xLSFk0emIydDRPVFFWcW1jQWFaRVZyQlFOQS1aN0lSVXlVVWZoRUpVNC12WFlyZ2V0d0F2UUo0TDQzT0hRenRlS3psUXBSMlpMX2plV2U5LXhrVkh4VXp5WTQ0Z1UwU0pkcGowcXlFdV9rS240Z1duSE1YS3dnc040ZHJjU0ZnOS1lcElhSjJCSHMydGNWV3JUS3EzWVQ4b3piZGFqeGlrY3NCSE5vZjBpdHZ6REVTVmZVdnRIbzBobUNwRmJJcTlzT3Atc1FGbW5EN3JLSzN0MEQxSkYyNFQ4UHdOMnhYY0phSEhleGZfRDRLZEJybDdzNjZBWkxSQnpyZHJnR0pCZzBWUkdSbWhuaS0xbEJucHdhQXZJeGRkWDNKeXlXRHo2ZG4zR3VTM0F2ZjJrRE1QMjZKY2xlMzE0WVplVXEyS09UU2w2RzgyV0szdEFwN1NvTE1hd3RDa2txZUczWWJoUklkaHJERmZuSnhTVjZzbTd3TEp1eXUzTlJPTXR5QkYybFFtYmhMakd4Z0RIaDBvUFJLRTJMOXVPdjRjYzI1YkpOM2NKUjV2TEJ3aUZkY3N4dm1xQWFZUGFscG9aMGFfSnAwcVV5U0pRSGl1NnFucTZVQmJIZEt6RjVPZFBsdEljMmlhTC1VMkM2M1IzdzB6NGZaNmNDMzMwYmhuRUx0RE1nSnNrakZrZjh3ZHQwb2RiWW52eXRfRGlVaHFkTkJKY0pNb09SNVcyRlVWQlBLSGF5eW1Nem5oQ2lsZHFaYjkyNzlwaWtOU0QyOVpVXzM2ZmlPaEo3V0pKWTVVYThMa0tsVFd5anJFZWV3d2JsNE1TQ09EdEIzTGJrNHgzMVdLSXVBdnoyOXpreEctT1YzcUxlNG1EY1paMnU3bGNzbXc1TUpiM3hETk9FWEJlYUtVc1ZrWG8xbWNlT2JoZUdXbEdwT0NhdmhfTlVDdmdoNG16X2pRazJ4M1h3M2dOcTJlMVUxT2tpZjAtLXNGSlFDak1iZw",
+        "time": "2026-06-22 05:21:07",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
+        "title": "老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpXzl4bkZ4bjIwZGhBQkhaNE90SGJBUC1XLXVBbXJYcGdhZkpKbDBvTjF0RWdfWERHejJOcVNDYkw2Z0sxcW56djB1bFZCblZKbk52cDkyYzJidElHSDkzcjA5Vmt1S3I0N24wNi1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 05:05:39",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "百里侯爭霸／延續五星 張嘉郡：雲林不能缺席AI潮流 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZdTN6bS0xWmNEeW5aV0c4TENNZk0wWlpVM0NNRTBPcS1aQjg2bXlScFd1NGllOGJDTVRyTWstSm8wZWZSdTk0enAyUlBJZWJ1WGRv0gFYQVVfeXFMTlVEdjRkel84MURaQnUyR05LMkR5cGwwc05ETTZyc3ltNnZqdU5mZ3Y3MVc0Qm54ZmdxcmJadHAxa2pKTVZGSk9NRmdWQnNQYngyWkhCa2wyWg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1696,6 +1765,11 @@
         "count": 5
       }
     ],
-    "groups": []
+    "groups": [
+      {
+        "name": "農業族群",
+        "count": 1
+      }
+    ]
   }
 }
