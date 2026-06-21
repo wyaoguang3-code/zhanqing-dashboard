@@ -1,10 +1,10 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-06-21T07:38:12.592731+00:00",
+  "generated_at": "2026-06-21T07:53:38.708329+00:00",
   "metrics": {
-    "total_24h": 5,
+    "total_24h": 6,
     "prev_24h": 11,
-    "growth_pct": -54.55,
+    "growth_pct": -45.45,
     "news_24h": 2,
     "anomaly": {
       "level": "綠",
@@ -14,9 +14,9 @@
     }
   },
   "metrics_7d": {
-    "total": 168,
+    "total": 169,
     "prev": 130,
-    "growth_pct": 29.23,
+    "growth_pct": 30.0,
     "news": 121,
     "anomaly": {
       "level": "綠",
@@ -33,6 +33,10 @@
     {
       "platform": "news",
       "count": 2
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "by_platform_7d": [
@@ -46,7 +50,7 @@
     },
     {
       "platform": "youtube",
-      "count": 5
+      "count": 6
     }
   ],
   "by_hour": [
@@ -65,6 +69,10 @@
     {
       "hour": "2026-06-21 12:00",
       "count": 2
+    },
+    {
+      "hour": "2026-06-21 15:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -279,6 +287,10 @@
     {
       "hour": "2026-06-21 12:00",
       "count": 2
+    },
+    {
+      "hour": "2026-06-21 15:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
@@ -1090,6 +1102,13 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xVTJUYmtVMFQ2ejdYSHd1aHhuakhZSGtTUnU1ek9TZ0hDeWRBTy1GQzd0X2JuUkRRYXNGTWMzSHROUXNGaHF4Mlp1TlEwcVY3cUxxd3JGWXRHUmhNM3AzWEJ6WVUwSm9Fa1hv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-20 20:27:35"
       }
+    ],
+    "youtube": [
+      {
+        "title": "鍾佳濱的「濱濱有理」100集生日願望竟然跟 沈伯洋 有關？！",
+        "url": "https://www.youtube.com/shorts/vD8Vlfkn280",
+        "time": "2026-06-21 15:23:49"
+      }
     ]
   },
   "latest_by_platform_7d": {
@@ -1499,6 +1518,11 @@
     ],
     "youtube": [
       {
+        "title": "鍾佳濱的「濱濱有理」100集生日願望竟然跟 沈伯洋 有關？！",
+        "url": "https://www.youtube.com/shorts/vD8Vlfkn280",
+        "time": "2026-06-21 15:23:49"
+      },
+      {
         "title": "［精華］在地有聲 EP5_一段聲音，勾起一座城市的記憶 feat.虎尾鎮長林嘉弘、立法委員張嘉郡",
         "url": "https://www.youtube.com/shorts/li5IBLr9eDQ",
         "time": "2026-06-19 00:00:01"
@@ -1529,6 +1553,13 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "鍾佳濱的「濱濱有理」100集生日願望竟然跟 沈伯洋 有關？！",
+        "url": "https://www.youtube.com/shorts/vD8Vlfkn280",
+        "time": "2026-06-21 15:23:49",
+        "platform": "youtube",
+        "risk": "綠"
+      },
       {
         "title": "雲林縣是濁水溪以南少數由國民黨執政的縣市，「張榮味家族」在地深耕數十年，形成堅固堡壘。直到民進黨籍的蘇治芬於2005年12月贏得縣長選舉、2009年連任成功，雖在2014年交棒給同黨同志李進勇，但李進勇於2018年落選，輸給現任縣長張麗善。如今張麗善已經 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMimAdBVV95cUxPVS1nSHJ3M0VybFQ1eklOMDd1OUVpcFVjajRRYV9VMkphYmlFWTdMbHlHRmZBdzNTUW1mbWZxSHhuX0FDYV9MbTFwTzJqY0ttcXZlcHkwckFSUG8yRHlldm1UaVFxYW9UdDNNNm1YT2czeGxuNDNiekU5UE9TQ2R5SWpsRlVoXzRnRlBnUVBHMUFwby04YzZMaFRmU2VRTDlHY2ZXWDRuajVZb1ZscDdfNExDQ2V5NWtxN1dCMDEyZlpNVGNmRV9xWGY0S0lqUXFMQklCVDRBVnVpNlFjd3BRRjcyTU0wRFZxYTcyZFNSczRGY3U2b1dNM2wtZE9pMlRtajdfbFdaaXE2Z2dUa2tVekN2UHFIUFF6alNzYmQ5aU1CRkJfd19ZVU5iVWZPNG5GaFBrdS1fazBmVzg0YjZmbndoUVhCdW5JU2xsdEJRMTVlSDlFeHpTOEt0ZFpoajk0dHNuYmp6TGpxQ0dxdG9WNll5VXE1UWhYZ0xQSW9qWUlTVnhFWE9CUWx1X3dmZGdIekNSY3h1cDdSdW9UMkJVNXpSVVdCaDV1UTdybWNmYml1cTlKMzJHblduQmpVejNnMEFKdURmZGZrZl9XeXN2Wkp1TFY5NnZHaFExR0R3YUpKVEM4ejJSbXV0QmFiclMtSzQtMGxyODJYbzJqSnJNcTVWeUlhUm1FVzVON0lYaEJCMFQ0ZzZjMHl3MmQ1QnQxTENEaXNVSEExNjBjaDNrZVZTM2J3MmNZbld3eUZkWlRxbzdkbVVLYWZlXzJ4b0NtY1RRTmNreC15VE5BWW5tY1FIWnJtOFNuNTBDUnMya25FbGJMUVNmYlR1bi1ZTG1JaW1nLWQxQXpsR2dlUnhxT2FGWEtITGR0cG5OVVZyRHRuUkN2NnJOeUR6cDhfQUNkaXVXRW5LZDlDMVN4TDdNUG1XMUNyckdrMjNaQXlMNUNXREVDcnNPeEswMTRrVlZyLUhWTm1vRDdmVkt1eVVPTEtlVk4yMy1GTUtJNDBHUkszMGZTT0hPa1lpazJJWm84eDJCaHpzUkg5UDNoLVBTYVhUWDNpc3hjak1TQnV2bGszQnNOWVVSRkZBck5RTjFzaWZkckNqQlVPc2JFeDVzb0N1emdaWHBTcGFDTUNDX2V4QjYzVE5sRGVhQ3lIMm9QOXNEbVpRelpBMnNTZXlCMElDRlBJV1pyN1N2NlYzcVlVaEc0Zzc1eA",
