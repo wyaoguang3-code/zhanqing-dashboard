@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-06-22T07:25:19.919918+00:00",
+  "generated_at": "2026-06-22T07:40:44.260612+00:00",
   "metrics": {
-    "total_24h": 10,
+    "total_24h": 13,
     "prev_24h": 8,
-    "growth_pct": 25.0,
-    "news_24h": 9,
+    "growth_pct": 62.5,
+    "news_24h": 12,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 169,
-    "prev": 129,
-    "growth_pct": 31.01,
-    "news": 125,
+    "total": 171,
+    "prev": 130,
+    "growth_pct": 31.54,
+    "news": 127,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 9
+      "count": 12
     },
     {
       "platform": "facebook",
@@ -38,7 +38,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 125
+      "count": 127
     },
     {
       "platform": "facebook",
@@ -61,13 +61,17 @@
     {
       "hour": "2026-06-22 05:00",
       "count": 2
+    },
+    {
+      "hour": "2026-06-22 14:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-06-22 15:00",
+      "count": 2
     }
   ],
   "by_hour_7d": [
-    {
-      "hour": "2026-06-15 15:00",
-      "count": 1
-    },
     {
       "hour": "2026-06-15 17:00",
       "count": 3
@@ -275,12 +279,20 @@
     {
       "hour": "2026-06-22 05:00",
       "count": 2
+    },
+    {
+      "hour": "2026-06-22 14:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-06-22 15:00",
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 9
+      "count": 12
     },
     {
       "platform": "facebook",
@@ -288,14 +300,22 @@
     }
   ],
   "mention_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "【老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農】 朝野立委相繼提出《老年農民福利津貼暫行條例》修法版本，主張老農津貼調高至每人每月1萬至1萬5千元不等，行政院版本則是1萬元；行政院發言人李慧芝表示，行政院版本是最具可行性，籲 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxPQjhfcC1yNWlzYzhjUHpjY0VSOWRTQ1lCdWxyMGl6SnFkLU8zN2g5ejROeXhxWFljNlFlYUdlY2VTOUNlaUphSUxJeHUySEIyOFpWb2V5WjBsbFBVM2JqTEZTcWxOZENTRFVXUlROTmQ5OTk3SEM4ZThFRFYtQ2FUeV9fcXVJbXJvcnU4TzRxYTFrU2JyOTMxM1NtS3o5OXdaVmJWdmZMZUk4cE9QTnRJVDBCdWFiZFM5YUVPdVlWbXdMbEdZblhkcjZYUm1OMi1KWmNoWHMzWmhZSDNaU3p5ZG8wN2h2WEcySjZWZGtwUFFSbVJXMS1fa0Z6NHZ6a0xLSFk0emIydDRPVFFWcW1jQWFaRVZyQlFOQS1aN0lSVXlVVWZoRUpVNC12WFlyZ2V0d0F2UUo0TDQzT0hRenRlS3psUXBSMlpMX2plV2U5LXhrVkh4VXp5WTQ0Z1UwU0pkcGowcXlFdV9rS240Z1duSE1YS3dnc040ZHJjU0ZnOS1lcElhSjJCSHMydGNWV3JUS3EzWVQ4b3piZGFqeGlrY3NCSE5vZjBpdHZ6REVTVmZVdnRIbzBobUNwRmJJcTlzT3Atc1FGbW5EN3JLSzN0MEQxSkYyNFQ4UHdOMnhYY0phSEhleGZfRDRLZEJybDdzNjZBWkxSQnpyZHJnR0pCZzBWUkdSbWhuaS0xbEJucHdhQXZJeGRkWDNKeXlXRHo2ZG4zR3VTM0F2ZjJrRE1QMjZKY2xlMzE0WVplVXEyS09UU2w2RzgyV0szdEFwN1NvTE1hd3RDa2txZUczWWJoUklkaHJERmZuSnhTVjZzbTd3TEp1eXUzTlJPTXR5QkYybFFtYmhMakd4Z0RIaDBvUFJLRTJMOXVPdjRjYzI1YkpOM2NKUjV2TEJ3aUZkY3N4dm1xQWFZUGFscG9aMGFfSnAwcVV5U0pRSGl1NnFucTZVQmJIZEt6RjVPZFBsdEljMmlhTC1VMkM2M1IzdzB6NGZaNmNDMzMwYmhuRUx0RE1nSnNrakZrZjh3ZHQwb2RiWW52eXRfRGlVaHFkTkJKY0pNb09SNVcyRlVWQlBLSGF5eW1Nem5oQ2lsZHFaYjkyNzlwaWtOU0QyOVpVXzM2ZmlPaEo3V0pKWTVVYThMa0tsVFd5anJFZWV3d2JsNE1TQ09EdEIzTGJrNHgzMVdLSXVBdnoyOXpreEctT1YzcUxlNG1EY1paMnU3bGNzbXc1TUpiM3hETk9FWEJlYUtVc1ZrWG8xbWNlT2JoZUdXbEdwT0NhdmhfTlVDdmdoNG16X2pRazJ4M1h3M2dOcTJlMVUxT2tpZjAtLXNGSlFDak1iZw",
-        "time": "2026-06-22 05:21:07"
-      }
-    ],
     "news": [
+      {
+        "title": "雲林台西文蛤遇「三溫暖」氣候大量暴斃 劉建國邀水試所專家勘查四養殖區爭取救助與育苗解方 - 觀傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XSks1aEJjY1FjUXVPUmNQSG00Q1ROVUs5cWVYUkZyN2pJY3R3dlp6Z0lfdXg1LUJYZ28xMW5SVk8yRHlrWTltZUg1YzJLTkdqcWFiOVBrZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 15:21:07"
+      },
+      {
+        "title": "台西文蛤不耐「三溫暖」氣候暴斃 劉建國籲加速天災救助 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaOEVRRXZsSzFEVTFWM2NTa0NRdGNMZGpoYnRzc1BRaFpQUGFlYXdQZFE3QlhreE1QVzIxc3R3WF9vbVc5UGVySkFoendWZ3RuVlF6M2RMZlR2dVVpSHduWC16NmVnbHfSAWxBVV95cUxQMWZQUmR1SFFvaGstcDU2MlJyOXMzTTFkaXFnTzkxSkEtTUpmMkxyak1YVUVlNV9KcG5kd1BJOW41WmNmNFZJSnVhTFdEZVNOZm55bFFjdW5oVUdwRldXd0NlZ3hvd2RNMzRPaWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 15:15:55"
+      },
+      {
+        "title": "台西文蛤遇極端氣候大量暴斃 立委劉建國邀專家勘災籲速啟救助並研發抗逆境蛤苗 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1acXdYQktqOFN6em94R0xlWVNJVHBlMlZXcHliQkhxbmRTN3JiOUNMaGtIVHlaVk5vcFp2Z3hkQ1M4Z3RiUlpnMU1BRGdTQ0tnZHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 14:35:00"
+      },
       {
         "title": "老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農 - 中時新聞網",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpXzl4bkZ4bjIwZGhBQkhaNE90SGJBUC1XLXVBbXJYcGdhZkpKbDBvTjF0RWdfWERHejJOcVNDYkw2Z0sxcW56djB1bFZCblZKbk52cDkyYzJidElHSDkzcjA5Vmt1S3I0N24wNi1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -341,12 +361,19 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40WTAyc19obFkxTnhrVkt4X2F1MHZwWERuTWNxX3FqZnVGOUdaMXd5THRyNGpTRHFkVjBNLUljbVR4R3hWRXdzYjlkUlN1MHpmbHY4RHRn0gFWQVVfeXFMTjRZMDJzX2hsWTFOeGtWS3hfYXUwdnBYRG5NY3FfcWpmdUY5R1oxd3lMdHI0alNEcWRWME0tSWNtVHhHeFZFd3NiOWRSU3UwemZsdjhEdGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-22 00:00:00"
       }
+    ],
+    "facebook": [
+      {
+        "title": "【老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農】 朝野立委相繼提出《老年農民福利津貼暫行條例》修法版本，主張老農津貼調高至每人每月1萬至1萬5千元不等，行政院版本則是1萬元；行政院發言人李慧芝表示，行政院版本是最具可行性，籲 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxPQjhfcC1yNWlzYzhjUHpjY0VSOWRTQ1lCdWxyMGl6SnFkLU8zN2g5ejROeXhxWFljNlFlYUdlY2VTOUNlaUphSUxJeHUySEIyOFpWb2V5WjBsbFBVM2JqTEZTcWxOZENTRFVXUlROTmQ5OTk3SEM4ZThFRFYtQ2FUeV9fcXVJbXJvcnU4TzRxYTFrU2JyOTMxM1NtS3o5OXdaVmJWdmZMZUk4cE9QTnRJVDBCdWFiZFM5YUVPdVlWbXdMbEdZblhkcjZYUm1OMi1KWmNoWHMzWmhZSDNaU3p5ZG8wN2h2WEcySjZWZGtwUFFSbVJXMS1fa0Z6NHZ6a0xLSFk0emIydDRPVFFWcW1jQWFaRVZyQlFOQS1aN0lSVXlVVWZoRUpVNC12WFlyZ2V0d0F2UUo0TDQzT0hRenRlS3psUXBSMlpMX2plV2U5LXhrVkh4VXp5WTQ0Z1UwU0pkcGowcXlFdV9rS240Z1duSE1YS3dnc040ZHJjU0ZnOS1lcElhSjJCSHMydGNWV3JUS3EzWVQ4b3piZGFqeGlrY3NCSE5vZjBpdHZ6REVTVmZVdnRIbzBobUNwRmJJcTlzT3Atc1FGbW5EN3JLSzN0MEQxSkYyNFQ4UHdOMnhYY0phSEhleGZfRDRLZEJybDdzNjZBWkxSQnpyZHJnR0pCZzBWUkdSbWhuaS0xbEJucHdhQXZJeGRkWDNKeXlXRHo2ZG4zR3VTM0F2ZjJrRE1QMjZKY2xlMzE0WVplVXEyS09UU2w2RzgyV0szdEFwN1NvTE1hd3RDa2txZUczWWJoUklkaHJERmZuSnhTVjZzbTd3TEp1eXUzTlJPTXR5QkYybFFtYmhMakd4Z0RIaDBvUFJLRTJMOXVPdjRjYzI1YkpOM2NKUjV2TEJ3aUZkY3N4dm1xQWFZUGFscG9aMGFfSnAwcVV5U0pRSGl1NnFucTZVQmJIZEt6RjVPZFBsdEljMmlhTC1VMkM2M1IzdzB6NGZaNmNDMzMwYmhuRUx0RE1nSnNrakZrZjh3ZHQwb2RiWW52eXRfRGlVaHFkTkJKY0pNb09SNVcyRlVWQlBLSGF5eW1Nem5oQ2lsZHFaYjkyNzlwaWtOU0QyOVpVXzM2ZmlPaEo3V0pKWTVVYThMa0tsVFd5anJFZWV3d2JsNE1TQ09EdEIzTGJrNHgzMVdLSXVBdnoyOXpreEctT1YzcUxlNG1EY1paMnU3bGNzbXc1TUpiM3hETk9FWEJlYUtVc1ZrWG8xbWNlT2JoZUdXbEdwT0NhdmhfTlVDdmdoNG16X2pRazJ4M1h3M2dOcTJlMVUxT2tpZjAtLXNGSlFDak1iZw",
+        "time": "2026-06-22 05:21:07"
+      }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 9
+      "count": 12
     },
     {
       "platform": "facebook",
@@ -354,14 +381,22 @@
     }
   ],
   "alias_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "【老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農】 朝野立委相繼提出《老年農民福利津貼暫行條例》修法版本，主張老農津貼調高至每人每月1萬至1萬5千元不等，行政院版本則是1萬元；行政院發言人李慧芝表示，行政院版本是最具可行性，籲 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxPQjhfcC1yNWlzYzhjUHpjY0VSOWRTQ1lCdWxyMGl6SnFkLU8zN2g5ejROeXhxWFljNlFlYUdlY2VTOUNlaUphSUxJeHUySEIyOFpWb2V5WjBsbFBVM2JqTEZTcWxOZENTRFVXUlROTmQ5OTk3SEM4ZThFRFYtQ2FUeV9fcXVJbXJvcnU4TzRxYTFrU2JyOTMxM1NtS3o5OXdaVmJWdmZMZUk4cE9QTnRJVDBCdWFiZFM5YUVPdVlWbXdMbEdZblhkcjZYUm1OMi1KWmNoWHMzWmhZSDNaU3p5ZG8wN2h2WEcySjZWZGtwUFFSbVJXMS1fa0Z6NHZ6a0xLSFk0emIydDRPVFFWcW1jQWFaRVZyQlFOQS1aN0lSVXlVVWZoRUpVNC12WFlyZ2V0d0F2UUo0TDQzT0hRenRlS3psUXBSMlpMX2plV2U5LXhrVkh4VXp5WTQ0Z1UwU0pkcGowcXlFdV9rS240Z1duSE1YS3dnc040ZHJjU0ZnOS1lcElhSjJCSHMydGNWV3JUS3EzWVQ4b3piZGFqeGlrY3NCSE5vZjBpdHZ6REVTVmZVdnRIbzBobUNwRmJJcTlzT3Atc1FGbW5EN3JLSzN0MEQxSkYyNFQ4UHdOMnhYY0phSEhleGZfRDRLZEJybDdzNjZBWkxSQnpyZHJnR0pCZzBWUkdSbWhuaS0xbEJucHdhQXZJeGRkWDNKeXlXRHo2ZG4zR3VTM0F2ZjJrRE1QMjZKY2xlMzE0WVplVXEyS09UU2w2RzgyV0szdEFwN1NvTE1hd3RDa2txZUczWWJoUklkaHJERmZuSnhTVjZzbTd3TEp1eXUzTlJPTXR5QkYybFFtYmhMakd4Z0RIaDBvUFJLRTJMOXVPdjRjYzI1YkpOM2NKUjV2TEJ3aUZkY3N4dm1xQWFZUGFscG9aMGFfSnAwcVV5U0pRSGl1NnFucTZVQmJIZEt6RjVPZFBsdEljMmlhTC1VMkM2M1IzdzB6NGZaNmNDMzMwYmhuRUx0RE1nSnNrakZrZjh3ZHQwb2RiWW52eXRfRGlVaHFkTkJKY0pNb09SNVcyRlVWQlBLSGF5eW1Nem5oQ2lsZHFaYjkyNzlwaWtOU0QyOVpVXzM2ZmlPaEo3V0pKWTVVYThMa0tsVFd5anJFZWV3d2JsNE1TQ09EdEIzTGJrNHgzMVdLSXVBdnoyOXpreEctT1YzcUxlNG1EY1paMnU3bGNzbXc1TUpiM3hETk9FWEJlYUtVc1ZrWG8xbWNlT2JoZUdXbEdwT0NhdmhfTlVDdmdoNG16X2pRazJ4M1h3M2dOcTJlMVUxT2tpZjAtLXNGSlFDak1iZw",
-        "time": "2026-06-22 05:21:07"
-      }
-    ],
     "news": [
+      {
+        "title": "雲林台西文蛤遇「三溫暖」氣候大量暴斃 劉建國邀水試所專家勘查四養殖區爭取救助與育苗解方 - 觀傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XSks1aEJjY1FjUXVPUmNQSG00Q1ROVUs5cWVYUkZyN2pJY3R3dlp6Z0lfdXg1LUJYZ28xMW5SVk8yRHlrWTltZUg1YzJLTkdqcWFiOVBrZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 15:21:07"
+      },
+      {
+        "title": "台西文蛤不耐「三溫暖」氣候暴斃 劉建國籲加速天災救助 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaOEVRRXZsSzFEVTFWM2NTa0NRdGNMZGpoYnRzc1BRaFpQUGFlYXdQZFE3QlhreE1QVzIxc3R3WF9vbVc5UGVySkFoendWZ3RuVlF6M2RMZlR2dVVpSHduWC16NmVnbHfSAWxBVV95cUxQMWZQUmR1SFFvaGstcDU2MlJyOXMzTTFkaXFnTzkxSkEtTUpmMkxyak1YVUVlNV9KcG5kd1BJOW41WmNmNFZJSnVhTFdEZVNOZm55bFFjdW5oVUdwRldXd0NlZ3hvd2RNMzRPaWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 15:15:55"
+      },
+      {
+        "title": "台西文蛤遇極端氣候大量暴斃 立委劉建國邀專家勘災籲速啟救助並研發抗逆境蛤苗 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1acXdYQktqOFN6em94R0xlWVNJVHBlMlZXcHliQkhxbmRTN3JiOUNMaGtIVHlaVk5vcFp2Z3hkQ1M4Z3RiUlpnMU1BRGdTQ0tnZHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 14:35:00"
+      },
       {
         "title": "老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農 - 中時新聞網",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpXzl4bkZ4bjIwZGhBQkhaNE90SGJBUC1XLXVBbXJYcGdhZkpKbDBvTjF0RWdfWERHejJOcVNDYkw2Z0sxcW56djB1bFZCblZKbk52cDkyYzJidElHSDkzcjA5Vmt1S3I0N24wNi1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -407,17 +442,39 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40WTAyc19obFkxTnhrVkt4X2F1MHZwWERuTWNxX3FqZnVGOUdaMXd5THRyNGpTRHFkVjBNLUljbVR4R3hWRXdzYjlkUlN1MHpmbHY4RHRn0gFWQVVfeXFMTjRZMDJzX2hsWTFOeGtWS3hfYXUwdnBYRG5NY3FfcWpmdUY5R1oxd3lMdHI0alNEcWRWME0tSWNtVHhHeFZFd3NiOWRSU3UwemZsdjhEdGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-22 00:00:00"
       }
+    ],
+    "facebook": [
+      {
+        "title": "【老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農】 朝野立委相繼提出《老年農民福利津貼暫行條例》修法版本，主張老農津貼調高至每人每月1萬至1萬5千元不等，行政院版本則是1萬元；行政院發言人李慧芝表示，行政院版本是最具可行性，籲 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxPQjhfcC1yNWlzYzhjUHpjY0VSOWRTQ1lCdWxyMGl6SnFkLU8zN2g5ejROeXhxWFljNlFlYUdlY2VTOUNlaUphSUxJeHUySEIyOFpWb2V5WjBsbFBVM2JqTEZTcWxOZENTRFVXUlROTmQ5OTk3SEM4ZThFRFYtQ2FUeV9fcXVJbXJvcnU4TzRxYTFrU2JyOTMxM1NtS3o5OXdaVmJWdmZMZUk4cE9QTnRJVDBCdWFiZFM5YUVPdVlWbXdMbEdZblhkcjZYUm1OMi1KWmNoWHMzWmhZSDNaU3p5ZG8wN2h2WEcySjZWZGtwUFFSbVJXMS1fa0Z6NHZ6a0xLSFk0emIydDRPVFFWcW1jQWFaRVZyQlFOQS1aN0lSVXlVVWZoRUpVNC12WFlyZ2V0d0F2UUo0TDQzT0hRenRlS3psUXBSMlpMX2plV2U5LXhrVkh4VXp5WTQ0Z1UwU0pkcGowcXlFdV9rS240Z1duSE1YS3dnc040ZHJjU0ZnOS1lcElhSjJCSHMydGNWV3JUS3EzWVQ4b3piZGFqeGlrY3NCSE5vZjBpdHZ6REVTVmZVdnRIbzBobUNwRmJJcTlzT3Atc1FGbW5EN3JLSzN0MEQxSkYyNFQ4UHdOMnhYY0phSEhleGZfRDRLZEJybDdzNjZBWkxSQnpyZHJnR0pCZzBWUkdSbWhuaS0xbEJucHdhQXZJeGRkWDNKeXlXRHo2ZG4zR3VTM0F2ZjJrRE1QMjZKY2xlMzE0WVplVXEyS09UU2w2RzgyV0szdEFwN1NvTE1hd3RDa2txZUczWWJoUklkaHJERmZuSnhTVjZzbTd3TEp1eXUzTlJPTXR5QkYybFFtYmhMakd4Z0RIaDBvUFJLRTJMOXVPdjRjYzI1YkpOM2NKUjV2TEJ3aUZkY3N4dm1xQWFZUGFscG9aMGFfSnAwcVV5U0pRSGl1NnFucTZVQmJIZEt6RjVPZFBsdEljMmlhTC1VMkM2M1IzdzB6NGZaNmNDMzMwYmhuRUx0RE1nSnNrakZrZjh3ZHQwb2RiWW52eXRfRGlVaHFkTkJKY0pNb09SNVcyRlVWQlBLSGF5eW1Nem5oQ2lsZHFaYjkyNzlwaWtOU0QyOVpVXzM2ZmlPaEo3V0pKWTVVYThMa0tsVFd5anJFZWV3d2JsNE1TQ09EdEIzTGJrNHgzMVdLSXVBdnoyOXpreEctT1YzcUxlNG1EY1paMnU3bGNzbXc1TUpiM3hETk9FWEJlYUtVc1ZrWG8xbWNlT2JoZUdXbEdwT0NhdmhfTlVDdmdoNG16X2pRazJ4M1h3M2dOcTJlMVUxT2tpZjAtLXNGSlFDak1iZw",
+        "time": "2026-06-22 05:21:07"
+      }
     ]
   },
   "mention_compare_24h": {
     "張嘉郡": 10,
-    "劉建國": 0
+    "劉建國": 3
   },
   "mention_compare_7d": {
     "張嘉郡": 81,
-    "劉建國": 75
+    "劉建國": 77
   },
   "top_news": [
+    {
+      "title": "雲林台西文蛤遇「三溫暖」氣候大量暴斃 劉建國邀水試所專家勘查四養殖區爭取救助與育苗解方 - 觀傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XSks1aEJjY1FjUXVPUmNQSG00Q1ROVUs5cWVYUkZyN2pJY3R3dlp6Z0lfdXg1LUJYZ28xMW5SVk8yRHlrWTltZUg1YzJLTkdqcWFiOVBrZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-22 15:21:07"
+    },
+    {
+      "title": "台西文蛤不耐「三溫暖」氣候暴斃 劉建國籲加速天災救助 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaOEVRRXZsSzFEVTFWM2NTa0NRdGNMZGpoYnRzc1BRaFpQUGFlYXdQZFE3QlhreE1QVzIxc3R3WF9vbVc5UGVySkFoendWZ3RuVlF6M2RMZlR2dVVpSHduWC16NmVnbHfSAWxBVV95cUxQMWZQUmR1SFFvaGstcDU2MlJyOXMzTTFkaXFnTzkxSkEtTUpmMkxyak1YVUVlNV9KcG5kd1BJOW41WmNmNFZJSnVhTFdEZVNOZm55bFFjdW5oVUdwRldXd0NlZ3hvd2RNMzRPaWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-22 15:15:55"
+    },
+    {
+      "title": "台西文蛤遇極端氣候大量暴斃 立委劉建國邀專家勘災籲速啟救助並研發抗逆境蛤苗 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1acXdYQktqOFN6em94R0xlWVNJVHBlMlZXcHliQkhxbmRTN3JiOUNMaGtIVHlaVk5vcFp2Z3hkQ1M4Z3RiUlpnMU1BRGdTQ0tnZHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-22 14:35:00"
+    },
     {
       "title": "老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農 - 中時新聞網",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpXzl4bkZ4bjIwZGhBQkhaNE90SGJBUC1XLXVBbXJYcGdhZkpKbDBvTjF0RWdfWERHejJOcVNDYkw2Z0sxcW56djB1bFZCblZKbk52cDkyYzJidElHSDkzcjA5Vmt1S3I0N24wNi1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -465,6 +522,21 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "雲林台西文蛤遇「三溫暖」氣候大量暴斃 劉建國邀水試所專家勘查四養殖區爭取救助與育苗解方 - 觀傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XSks1aEJjY1FjUXVPUmNQSG00Q1ROVUs5cWVYUkZyN2pJY3R3dlp6Z0lfdXg1LUJYZ28xMW5SVk8yRHlrWTltZUg1YzJLTkdqcWFiOVBrZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-22 15:21:07"
+    },
+    {
+      "title": "台西文蛤不耐「三溫暖」氣候暴斃 劉建國籲加速天災救助 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaOEVRRXZsSzFEVTFWM2NTa0NRdGNMZGpoYnRzc1BRaFpQUGFlYXdQZFE3QlhreE1QVzIxc3R3WF9vbVc5UGVySkFoendWZ3RuVlF6M2RMZlR2dVVpSHduWC16NmVnbHfSAWxBVV95cUxQMWZQUmR1SFFvaGstcDU2MlJyOXMzTTFkaXFnTzkxSkEtTUpmMkxyak1YVUVlNV9KcG5kd1BJOW41WmNmNFZJSnVhTFdEZVNOZm55bFFjdW5oVUdwRldXd0NlZ3hvd2RNMzRPaWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-22 15:15:55"
+    },
+    {
+      "title": "台西文蛤遇極端氣候大量暴斃 立委劉建國邀專家勘災籲速啟救助並研發抗逆境蛤苗 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1acXdYQktqOFN6em94R0xlWVNJVHBlMlZXcHliQkhxbmRTN3JiOUNMaGtIVHlaVk5vcFp2Z3hkQ1M4Z3RiUlpnMU1BRGdTQ0tnZHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-22 14:35:00"
+    },
     {
       "title": "老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農 - 中時新聞網",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpXzl4bkZ4bjIwZGhBQkhaNE90SGJBUC1XLXVBbXJYcGdhZkpKbDBvTjF0RWdfWERHejJOcVNDYkw2Z0sxcW56djB1bFZCblZKbk52cDkyYzJidElHSDkzcjA5Vmt1S3I0N24wNi1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -549,21 +621,6 @@
       "title": "粽香傳愛送暖弱勢 民進黨雲林縣黨部攜手劉建國捐贈五千顆肉粽 - 臺灣導報",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zN0xvbDlPbjBqMWYzRFFTZ2hHMFBCSHp2d3UwdGE3Q0dDVTlBdGxVS1AyQkZ3d193eU5xNHNHeFJUaThmTDhUSTc0SzJhR3pnckJB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-19 17:35:42"
-    },
-    {
-      "title": "節慶溫暖與社會關懷 民進黨雲林縣黨部攜 x 立委劉建國服務處捐贈5000顆肉粽 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNTlBkU0hESWxsaUtDMWJYME8tVmVQR3Q5cnlVMUFNTllQSndKa1JJeTdERW13XzBFSVpsdzVyZHM0dHZlbmgzU0VQeXliZG1zck8ycHU3RHhvcVlfTm1pVjAyNjZvcDQyNmZDVVFZbDJ2TmtZWGZpRmJVbEI3d2ZYVGJkQzhTdmRvUWdXR0IwUU9abUFNdmF3WWFsc1VFMENiUzNrZW9OOWRzRkxWUFVzOXlvVXY0T3ZHaUdZek53VDFOU19Ma3lNa0FYaHVmdTFreGxmb0N1VUpScWhqR09IOThiSUlMSEtJb0g2dnNNbXNCU01haElBeE5fdU1TQlR6ZEJxT2p2Wmg0WGRtdXZtSXNCclBQYzJYb3pSd29NUXRxZ0dDWTlURDVpNnVJVi1rZmJvUEExX21kSTN2V2FLd1g4cTJIcE5VblVPN0dXYW1BeUFEMFMyeGs4SDhVUGxpQWFGc3ZTaDkzbFlfZm5oTWhQX0FncExxU0pUcnZiNlhJeDItSGd6dWo5YlZMZU5IV3hOTVdHeFJobTdnQ0RoQWlURG4tUHd3SlprMGlxbmVfc1BEaFQ5YVFfMGttb3VjSWFacG0xU3NPTjhmMGFPRFBR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-19 16:55:32"
-    },
-    {
-      "title": "民進黨雲林縣黨部攜手立委劉建國服務處捐近五千顆肉粽 傳遞節慶溫暖與社會關懷 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxNaGdVQjloOUN4ZFliczZNSmR0R2loN3ZlLVdOZ19WVEltUmdub2gzRE90ODN4NjhRYWVXWWJwSnZVU29yMk1ZWHhCM0xmdGI0ZkZtUzhZb282WGY0MTdhdlgxUVRONWhtb1RMbWRnMXNLSzRITHVHX2F2UmpKalcybGdFenBBd2VNem1tQWtXc3EtOGx1VlA1Mm5hdVJ5bi1JN0Q0eHUtSjd4Njlzd3lWTlYzNTlBUXBtTTJpc2pvSnEzVVA1bGJHQlJuc1VwVi1yM055bFhSaTV3alJyZFBrajYtTUVtZHJmajY0MnZNN05jdUZOZXAwLURtWWliWk4wXzlsckpTejNwbG42MTNfa1R6ZkVOSGdxUHBJUEtHYTRacWl1cWwwS2E4Z3F1S2EzMmNYbGZZbnZTY2dxM1o2OWwzTWg0Z0NYT0w3Vk5TeWhteXFBejhuYy1SOWYwN1FmOFZocmE3STBRWlRvOUYzMXdLVC16TGpsTElXbThHY1pseHVMSGtuUGZoNEZ2X2s3QXVlZ3g2YXI0UG9ScktaT21TQkdNWFlJaDVvNHVjU3VnaVZqR0laZFd1ZTZMVkxvN25VbEtyeV9ZbjZESkZFeFE2Tl96TTV6ajJGaGJuUU9xOGdjejZ2NzE5VTdhY3lFcmdYOEFleVl0bHEzTDBVUHNReVY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-19 16:48:32"
-    },
-    {
-      "title": "改善育兒環境 雲林立委張嘉郡主張公幼免費、私幼補助1.5萬元！ - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rSGJtWmVnblAyOWlRN19XS1g3cHVsVmhielFwbFg1eXV2WFpuUDFqdG00emZGS1k0ZWpzYUxKbXFMUF93OWlxUlBnRlIxYU5HV1k0WmtBdTBuY3JBSWdrb0N5RHFmVnFpeW9N?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-19 16:36:11"
     }
   ],
   "latest_facebook_20": [
@@ -670,6 +727,21 @@
   ],
   "latest_news_20": [
     {
+      "title": "雲林台西文蛤遇「三溫暖」氣候大量暴斃 劉建國邀水試所專家勘查四養殖區爭取救助與育苗解方 - 觀傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XSks1aEJjY1FjUXVPUmNQSG00Q1ROVUs5cWVYUkZyN2pJY3R3dlp6Z0lfdXg1LUJYZ28xMW5SVk8yRHlrWTltZUg1YzJLTkdqcWFiOVBrZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-22 15:21:07"
+    },
+    {
+      "title": "台西文蛤不耐「三溫暖」氣候暴斃 劉建國籲加速天災救助 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaOEVRRXZsSzFEVTFWM2NTa0NRdGNMZGpoYnRzc1BRaFpQUGFlYXdQZFE3QlhreE1QVzIxc3R3WF9vbVc5UGVySkFoendWZ3RuVlF6M2RMZlR2dVVpSHduWC16NmVnbHfSAWxBVV95cUxQMWZQUmR1SFFvaGstcDU2MlJyOXMzTTFkaXFnTzkxSkEtTUpmMkxyak1YVUVlNV9KcG5kd1BJOW41WmNmNFZJSnVhTFdEZVNOZm55bFFjdW5oVUdwRldXd0NlZ3hvd2RNMzRPaWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-22 15:15:55"
+    },
+    {
+      "title": "台西文蛤遇極端氣候大量暴斃 立委劉建國邀專家勘災籲速啟救助並研發抗逆境蛤苗 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1acXdYQktqOFN6em94R0xlWVNJVHBlMlZXcHliQkhxbmRTN3JiOUNMaGtIVHlaVk5vcFp2Z3hkQ1M4Z3RiUlpnMU1BRGdTQ0tnZHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-22 14:35:00"
+    },
+    {
       "title": "老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農 - 中時新聞網",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpXzl4bkZ4bjIwZGhBQkhaNE90SGJBUC1XLXVBbXJYcGdhZkpKbDBvTjF0RWdfWERHejJOcVNDYkw2Z0sxcW56djB1bFZCblZKbk52cDkyYzJidElHSDkzcjA5Vmt1S3I0N24wNi1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-22 05:05:39"
@@ -753,21 +825,6 @@
       "title": "粽香傳愛送暖弱勢 民進黨雲林縣黨部攜手劉建國捐贈五千顆肉粽 - 臺灣導報",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zN0xvbDlPbjBqMWYzRFFTZ2hHMFBCSHp2d3UwdGE3Q0dDVTlBdGxVS1AyQkZ3d193eU5xNHNHeFJUaThmTDhUSTc0SzJhR3pnckJB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-19 17:35:42"
-    },
-    {
-      "title": "節慶溫暖與社會關懷 民進黨雲林縣黨部攜 x 立委劉建國服務處捐贈5000顆肉粽 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNTlBkU0hESWxsaUtDMWJYME8tVmVQR3Q5cnlVMUFNTllQSndKa1JJeTdERW13XzBFSVpsdzVyZHM0dHZlbmgzU0VQeXliZG1zck8ycHU3RHhvcVlfTm1pVjAyNjZvcDQyNmZDVVFZbDJ2TmtZWGZpRmJVbEI3d2ZYVGJkQzhTdmRvUWdXR0IwUU9abUFNdmF3WWFsc1VFMENiUzNrZW9OOWRzRkxWUFVzOXlvVXY0T3ZHaUdZek53VDFOU19Ma3lNa0FYaHVmdTFreGxmb0N1VUpScWhqR09IOThiSUlMSEtJb0g2dnNNbXNCU01haElBeE5fdU1TQlR6ZEJxT2p2Wmg0WGRtdXZtSXNCclBQYzJYb3pSd29NUXRxZ0dDWTlURDVpNnVJVi1rZmJvUEExX21kSTN2V2FLd1g4cTJIcE5VblVPN0dXYW1BeUFEMFMyeGs4SDhVUGxpQWFGc3ZTaDkzbFlfZm5oTWhQX0FncExxU0pUcnZiNlhJeDItSGd6dWo5YlZMZU5IV3hOTVdHeFJobTdnQ0RoQWlURG4tUHd3SlprMGlxbmVfc1BEaFQ5YVFfMGttb3VjSWFacG0xU3NPTjhmMGFPRFBR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-19 16:55:32"
-    },
-    {
-      "title": "民進黨雲林縣黨部攜手立委劉建國服務處捐近五千顆肉粽 傳遞節慶溫暖與社會關懷 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxNaGdVQjloOUN4ZFliczZNSmR0R2loN3ZlLVdOZ19WVEltUmdub2gzRE90ODN4NjhRYWVXWWJwSnZVU29yMk1ZWHhCM0xmdGI0ZkZtUzhZb282WGY0MTdhdlgxUVRONWhtb1RMbWRnMXNLSzRITHVHX2F2UmpKalcybGdFenBBd2VNem1tQWtXc3EtOGx1VlA1Mm5hdVJ5bi1JN0Q0eHUtSjd4Njlzd3lWTlYzNTlBUXBtTTJpc2pvSnEzVVA1bGJHQlJuc1VwVi1yM055bFhSaTV3alJyZFBrajYtTUVtZHJmajY0MnZNN05jdUZOZXAwLURtWWliWk4wXzlsckpTejNwbG42MTNfa1R6ZkVOSGdxUHBJUEtHYTRacWl1cWwwS2E4Z3F1S2EzMmNYbGZZbnZTY2dxM1o2OWwzTWg0Z0NYT0w3Vk5TeWhteXFBejhuYy1SOWYwN1FmOFZocmE3STBRWlRvOUYzMXdLVC16TGpsTElXbThHY1pseHVMSGtuUGZoNEZ2X2s3QXVlZ3g2YXI0UG9ScktaT21TQkdNWFlJaDVvNHVjU3VnaVZqR0laZFd1ZTZMVkxvN25VbEtyeV9ZbjZESkZFeFE2Tl96TTV6ajJGaGJuUU9xOGdjejZ2NzE5VTdhY3lFcmdYOEFleVl0bHEzTDBVUHNReVY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-19 16:48:32"
-    },
-    {
-      "title": "改善育兒環境 雲林立委張嘉郡主張公幼免費、私幼補助1.5萬元！ - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rSGJtWmVnblAyOWlRN19XS1g3cHVsVmhielFwbFg1eXV2WFpuUDFqdG00emZGS1k0ZWpzYUxKbXFMUF93OWlxUlBnRlIxYU5HV1k0WmtBdTBuY3JBSWdrb0N5RHFmVnFpeW9N?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-19 16:36:11"
     }
   ],
   "person_sections": {
@@ -1082,6 +1139,21 @@
       ],
       "news": [
         {
+          "title": "雲林台西文蛤遇「三溫暖」氣候大量暴斃 劉建國邀水試所專家勘查四養殖區爭取救助與育苗解方 - 觀傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XSks1aEJjY1FjUXVPUmNQSG00Q1ROVUs5cWVYUkZyN2pJY3R3dlp6Z0lfdXg1LUJYZ28xMW5SVk8yRHlrWTltZUg1YzJLTkdqcWFiOVBrZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-22 15:21:07"
+        },
+        {
+          "title": "台西文蛤不耐「三溫暖」氣候暴斃 劉建國籲加速天災救助 - 自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaOEVRRXZsSzFEVTFWM2NTa0NRdGNMZGpoYnRzc1BRaFpQUGFlYXdQZFE3QlhreE1QVzIxc3R3WF9vbVc5UGVySkFoendWZ3RuVlF6M2RMZlR2dVVpSHduWC16NmVnbHfSAWxBVV95cUxQMWZQUmR1SFFvaGstcDU2MlJyOXMzTTFkaXFnTzkxSkEtTUpmMkxyak1YVUVlNV9KcG5kd1BJOW41WmNmNFZJSnVhTFdEZVNOZm55bFFjdW5oVUdwRldXd0NlZ3hvd2RNMzRPaWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-22 15:15:55"
+        },
+        {
+          "title": "台西文蛤遇極端氣候大量暴斃 立委劉建國邀專家勘災籲速啟救助並研發抗逆境蛤苗 - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1acXdYQktqOFN6em94R0xlWVNJVHBlMlZXcHliQkhxbmRTN3JiOUNMaGtIVHlaVk5vcFp2Z3hkQ1M4Z3RiUlpnMU1BRGdTQ0tnZHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-22 14:35:00"
+        },
+        {
           "title": "台灣中區綠領人才培育中心在雲科大揭牌 立委劉建國協助促成產官學攜手推動淨零轉型！ - 台灣華報",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Uem50ZTlPWXZ3b25OWTYxTW01dFJOdTk3OVpSYmM4d3JCSFdIc1VRbU9rejltS2U1bUUwZlBkUVNreHl1SWZpR3kxTER2am8zT0MzandlelE0UU4tRmlNQXNMVkRCNHdNX2lN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-20 23:04:45"
@@ -1165,27 +1237,27 @@
           "title": "粽香傳愛、幸福雲林 民進黨部攜手立委劉建國捐贈肉粽 傳遞節慶溫暖與社會關懷 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPaERiQS1zQVlQR3Foa3JrRkhNYjhOQ3cwUUxRc0RvMFJlQXM0NGZZaHp5NFotVXpsU1ZhRmVIUFlTQzFBd1RkRTFFUjJZNGpRNG9ncVJTT3EzOU5jMTNBc2U0MlFYSHVZWG9vUk1hUGNmNFJPQ09KY29ObENDNkFPQjlwenNHT2VfRmhRMW5XVm9lLVVnTVZWMkltVS1CLVpGV3JJX0dBTTYtT2dONTN1aFFhSDlhV1lvSjVCMFotWnYzdzV5N3A1LVFsUkEwRGo5cnRQWFJ6b3hDdEJ4VW1aVGdDV1BzTElXdUNNRjRVbXlzQWp5bFdHODVUMFczVzVmb2NDWlcxNksxOWVIMEpQVGZGcFZCaDd1NE03VjVuWjU0QW11TnVmWnlwZ1I1VzZKRVZsdFBLcGNjRk9JZnhJNmU2T01PNHBnbVFJZkRJRWM3eS1GaVlIcTh1S2Q2aHlCT2wyRkEtdEkwUlplTzd0LU1VbHAwUXZhSkQ5bWhQNkRfZEtNczdhcXhWVHd5UjRFaUxRN2VTS1NUUzJwaWg1ZUZUUGpQU3dQWk5BcmVCUmlCd3RpUGNYMHJjeFM5MnJoZWl2MWZkVWdyUUliOW9EMzlyQkxHbWQ4UzhrZUkzLTM0RlBLMUxZVnQ5NWRtaUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-18 19:22:22"
-        },
-        {
-          "title": "粽香傳愛、幸福雲林 民進黨部攜手立委劉建國捐贈肉粽 傳遞節慶溫暖與社會關懷 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXlpb21jTVg2SlFBc2Nrd2E4em04VE93MGh0LWYyeW5ldk02bEd2N1JYNEo1YkszVmVYb2tKUjE2TklualJZMWFvekdTLUphVFNEYnVDc2NaLWM3aWt6ZkkzZGRHMU54OWpqczh0YWRJMUhweFRsZnYxalllTVZBV2NrYVRqckUwQXF2eA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-18 19:22:22"
-        },
-        {
-          "title": "台灣少子化全球倒數 劉建國促衛福部做「為什麼不結婚」研究 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNcHJqaFFVSTBhRHVXMmRwZFJmU2N3enp6RkIxaUNaT0lsdk92QVZnb1BaSHhjSUJHNDdwNUxPQjlucUZ5V1puOXdMUXFVZTJncmxJaTNYQ0FvbG5zLWpCcndhSWFtdHFFM3AwUUQ5THM5TWlZUzZFbnUtZWZLRmRPMnMwcUJ5M21iZU1xeXpDY1BSUFp4Q0lPa1Z4THhEZGxGeTFsSGdjb18tUG56czBCbC1CSnl2aElVRXdpN2NnZjhiQXRZN20zYXdEdmNzUjQzS0lTQ3dCcDNaSnFxem1GTnNvSmNhY3Y1b1N4WDNlLW9lSFg0YUZacC15VlNkSmJHZFdmeGVMN01xc21TaFFERllUNEJ0MXFiWjE5bnBtdHdYRWt5YmJjbE5tdmtJMkpmci11bnVZZGJKRnBTZkhJZzZFM2Z6T010SWNOMVI1MXlKMVpqVU9YQzduZGVnNDh3TFNPYnRNa0ZNcWp4N0haWHEtUGdFTHFlczd3eWw2QTlOcFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-18 12:37:18"
-        },
-        {
-          "title": "台灣少子化全球倒數 劉建國促衛福部做「為什麼不結婚」研究 - 工商時報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KZW4wN2xaV0xXbWVmb1BOb0JvWFZGZjBhMWt2X01MS0xYdlNHOW9PR1RYUEJ0blRweFlldGs1bGNqWTN5N3poQTJjTUJZM0xNM2VwcURWTWJmYkYyc1VF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-18 12:00:00"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "雲林台西文蛤遇「三溫暖」氣候大量暴斃 劉建國邀水試所專家勘查四養殖區爭取救助與育苗解方 - 觀傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XSks1aEJjY1FjUXVPUmNQSG00Q1ROVUs5cWVYUkZyN2pJY3R3dlp6Z0lfdXg1LUJYZ28xMW5SVk8yRHlrWTltZUg1YzJLTkdqcWFiOVBrZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 15:21:07"
+      },
+      {
+        "title": "台西文蛤不耐「三溫暖」氣候暴斃 劉建國籲加速天災救助 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaOEVRRXZsSzFEVTFWM2NTa0NRdGNMZGpoYnRzc1BRaFpQUGFlYXdQZFE3QlhreE1QVzIxc3R3WF9vbVc5UGVySkFoendWZ3RuVlF6M2RMZlR2dVVpSHduWC16NmVnbHfSAWxBVV95cUxQMWZQUmR1SFFvaGstcDU2MlJyOXMzTTFkaXFnTzkxSkEtTUpmMkxyak1YVUVlNV9KcG5kd1BJOW41WmNmNFZJSnVhTFdEZVNOZm55bFFjdW5oVUdwRldXd0NlZ3hvd2RNMzRPaWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 15:15:55"
+      },
+      {
+        "title": "台西文蛤遇極端氣候大量暴斃 立委劉建國邀專家勘災籲速啟救助並研發抗逆境蛤苗 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1acXdYQktqOFN6em94R0xlWVNJVHBlMlZXcHliQkhxbmRTN3JiOUNMaGtIVHlaVk5vcFp2Z3hkQ1M4Z3RiUlpnMU1BRGdTQ0tnZHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 14:35:00"
+      },
       {
         "title": "老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農 - 中時新聞網",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpXzl4bkZ4bjIwZGhBQkhaNE90SGJBUC1XLXVBbXJYcGdhZkpKbDBvTjF0RWdfWERHejJOcVNDYkw2Z0sxcW56djB1bFZCblZKbk52cDkyYzJidElHSDkzcjA5Vmt1S3I0N24wNi1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1242,6 +1314,21 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "雲林台西文蛤遇「三溫暖」氣候大量暴斃 劉建國邀水試所專家勘查四養殖區爭取救助與育苗解方 - 觀傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XSks1aEJjY1FjUXVPUmNQSG00Q1ROVUs5cWVYUkZyN2pJY3R3dlp6Z0lfdXg1LUJYZ28xMW5SVk8yRHlrWTltZUg1YzJLTkdqcWFiOVBrZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 15:21:07"
+      },
+      {
+        "title": "台西文蛤不耐「三溫暖」氣候暴斃 劉建國籲加速天災救助 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaOEVRRXZsSzFEVTFWM2NTa0NRdGNMZGpoYnRzc1BRaFpQUGFlYXdQZFE3QlhreE1QVzIxc3R3WF9vbVc5UGVySkFoendWZ3RuVlF6M2RMZlR2dVVpSHduWC16NmVnbHfSAWxBVV95cUxQMWZQUmR1SFFvaGstcDU2MlJyOXMzTTFkaXFnTzkxSkEtTUpmMkxyak1YVUVlNV9KcG5kd1BJOW41WmNmNFZJSnVhTFdEZVNOZm55bFFjdW5oVUdwRldXd0NlZ3hvd2RNMzRPaWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 15:15:55"
+      },
+      {
+        "title": "台西文蛤遇極端氣候大量暴斃 立委劉建國邀專家勘災籲速啟救助並研發抗逆境蛤苗 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1acXdYQktqOFN6em94R0xlWVNJVHBlMlZXcHliQkhxbmRTN3JiOUNMaGtIVHlaVk5vcFp2Z3hkQ1M4Z3RiUlpnMU1BRGdTQ0tnZHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 14:35:00"
+      },
       {
         "title": "老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農 - 中時新聞網",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpXzl4bkZ4bjIwZGhBQkhaNE90SGJBUC1XLXVBbXJYcGdhZkpKbDBvTjF0RWdfWERHejJOcVNDYkw2Z0sxcW56djB1bFZCblZKbk52cDkyYzJidElHSDkzcjA5Vmt1S3I0N24wNi1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1426,21 +1513,6 @@
         "title": "粽香傳愛、幸福雲林 民進黨部攜手立委劉建國捐贈肉粽 傳遞節慶溫暖與社會關懷 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPaERiQS1zQVlQR3Foa3JrRkhNYjhOQ3cwUUxRc0RvMFJlQXM0NGZZaHp5NFotVXpsU1ZhRmVIUFlTQzFBd1RkRTFFUjJZNGpRNG9ncVJTT3EzOU5jMTNBc2U0MlFYSHVZWG9vUk1hUGNmNFJPQ09KY29ObENDNkFPQjlwenNHT2VfRmhRMW5XVm9lLVVnTVZWMkltVS1CLVpGV3JJX0dBTTYtT2dONTN1aFFhSDlhV1lvSjVCMFotWnYzdzV5N3A1LVFsUkEwRGo5cnRQWFJ6b3hDdEJ4VW1aVGdDV1BzTElXdUNNRjRVbXlzQWp5bFdHODVUMFczVzVmb2NDWlcxNksxOWVIMEpQVGZGcFZCaDd1NE03VjVuWjU0QW11TnVmWnlwZ1I1VzZKRVZsdFBLcGNjRk9JZnhJNmU2T01PNHBnbVFJZkRJRWM3eS1GaVlIcTh1S2Q2aHlCT2wyRkEtdEkwUlplTzd0LU1VbHAwUXZhSkQ5bWhQNkRfZEtNczdhcXhWVHd5UjRFaUxRN2VTS1NUUzJwaWg1ZUZUUGpQU3dQWk5BcmVCUmlCd3RpUGNYMHJjeFM5MnJoZWl2MWZkVWdyUUliOW9EMzlyQkxHbWQ4UzhrZUkzLTM0RlBLMUxZVnQ5NWRtaUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-18 19:22:22"
-      },
-      {
-        "title": "粽香傳愛、幸福雲林 民進黨部攜手立委劉建國捐贈肉粽 傳遞節慶溫暖與社會關懷 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXlpb21jTVg2SlFBc2Nrd2E4em04VE93MGh0LWYyeW5ldk02bEd2N1JYNEo1YkszVmVYb2tKUjE2TklualJZMWFvekdTLUphVFNEYnVDc2NaLWM3aWt6ZkkzZGRHMU54OWpqczh0YWRJMUhweFRsZnYxalllTVZBV2NrYVRqckUwQXF2eA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-18 19:22:22"
-      },
-      {
-        "title": "豪雨重創雲林玉米田 張嘉郡虎尾、元長勘災 爭取救助 - 上報Up Media",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xTDk5ZGZwWW5CZFo2RENGc0NNT2tHVXRRa2daQm5DZEpGakFJUE4ySmZWdFlfLVJHc0ZJd0NZZXV6eGJ5NWNFQXlaQ0c1UE52UTNlWDlNSWstMTNJbkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-18 19:10:00"
-      },
-      {
-        "title": "豪雨重創雲林玉米田 張嘉郡虎尾、元長勘災 爭取救助 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPSWw2MXpuNzcyR045NDVjeGxRVnFDTE5xVExMSEg2R0VIZl82eVl1LXNndGZwMXdnb1ZnQzUtdXBydXNyWHl5dlAxbmdyY3JGRzhHOWlSZ2xiY242V09vemtYRXlBU2V2YTEwMFpZRGxSZGF4SVlrdXFSQk9tLW9VQ19XRGppeFN6dnZiano4TEdlbzlQNnU0YkpteHVkTV9acTZDQU41NFVuWllNbkE4VVFWaUZJYlF5RWJ4enJ5X0s0RHQ3LUtfOG8ySVBjd0V1RUNyUDRfNW9oVHpqSi1PeDdia3VMZ1ZwUzgyeXFMRzZYeVB1UkpNdjc2S3F1MU5iRjZwVlJoZF8xRzd4UGJJSWZKTGwxRVZ3RG5pLWUyZG1QRXBSRC1JY3lTWkQyVllMRFdVaVJ6ZGdqeklEdE1IVlRQYzQzRmdIaE1RNmRpcFpMT1pXZnNoaVNQNGpvU0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-18 19:10:00"
       }
     ],
     "facebook": [
@@ -1673,6 +1745,27 @@
     "hour": [],
     "day": [
       {
+        "title": "雲林台西文蛤遇「三溫暖」氣候大量暴斃 劉建國邀水試所專家勘查四養殖區爭取救助與育苗解方 - 觀傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XSks1aEJjY1FjUXVPUmNQSG00Q1ROVUs5cWVYUkZyN2pJY3R3dlp6Z0lfdXg1LUJYZ28xMW5SVk8yRHlrWTltZUg1YzJLTkdqcWFiOVBrZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 15:21:07",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "台西文蛤不耐「三溫暖」氣候暴斃 劉建國籲加速天災救助 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaOEVRRXZsSzFEVTFWM2NTa0NRdGNMZGpoYnRzc1BRaFpQUGFlYXdQZFE3QlhreE1QVzIxc3R3WF9vbVc5UGVySkFoendWZ3RuVlF6M2RMZlR2dVVpSHduWC16NmVnbHfSAWxBVV95cUxQMWZQUmR1SFFvaGstcDU2MlJyOXMzTTFkaXFnTzkxSkEtTUpmMkxyak1YVUVlNV9KcG5kd1BJOW41WmNmNFZJSnVhTFdEZVNOZm55bFFjdW5oVUdwRldXd0NlZ3hvd2RNMzRPaWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 15:15:55",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "台西文蛤遇極端氣候大量暴斃 立委劉建國邀專家勘災籲速啟救助並研發抗逆境蛤苗 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1acXdYQktqOFN6em94R0xlWVNJVHBlMlZXcHliQkhxbmRTN3JiOUNMaGtIVHlaVk5vcFp2Z3hkQ1M4Z3RiUlpnMU1BRGdTQ0tnZHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-22 14:35:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "【老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農】 朝野立委相繼提出《老年農民福利津貼暫行條例》修法版本，主張老農津貼調高至每人每月1萬至1萬5千元不等，行政院版本則是1萬元；行政院發言人李慧芝表示，行政院版本是最具可行性，籲 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxPQjhfcC1yNWlzYzhjUHpjY0VSOWRTQ1lCdWxyMGl6SnFkLU8zN2g5ejROeXhxWFljNlFlYUdlY2VTOUNlaUphSUxJeHUySEIyOFpWb2V5WjBsbFBVM2JqTEZTcWxOZENTRFVXUlROTmQ5OTk3SEM4ZThFRFYtQ2FUeV9fcXVJbXJvcnU4TzRxYTFrU2JyOTMxM1NtS3o5OXdaVmJWdmZMZUk4cE9QTnRJVDBCdWFiZFM5YUVPdVlWbXdMbEdZblhkcjZYUm1OMi1KWmNoWHMzWmhZSDNaU3p5ZG8wN2h2WEcySjZWZGtwUFFSbVJXMS1fa0Z6NHZ6a0xLSFk0emIydDRPVFFWcW1jQWFaRVZyQlFOQS1aN0lSVXlVVWZoRUpVNC12WFlyZ2V0d0F2UUo0TDQzT0hRenRlS3psUXBSMlpMX2plV2U5LXhrVkh4VXp5WTQ0Z1UwU0pkcGowcXlFdV9rS240Z1duSE1YS3dnc040ZHJjU0ZnOS1lcElhSjJCSHMydGNWV3JUS3EzWVQ4b3piZGFqeGlrY3NCSE5vZjBpdHZ6REVTVmZVdnRIbzBobUNwRmJJcTlzT3Atc1FGbW5EN3JLSzN0MEQxSkYyNFQ4UHdOMnhYY0phSEhleGZfRDRLZEJybDdzNjZBWkxSQnpyZHJnR0pCZzBWUkdSbWhuaS0xbEJucHdhQXZJeGRkWDNKeXlXRHo2ZG4zR3VTM0F2ZjJrRE1QMjZKY2xlMzE0WVplVXEyS09UU2w2RzgyV0szdEFwN1NvTE1hd3RDa2txZUczWWJoUklkaHJERmZuSnhTVjZzbTd3TEp1eXUzTlJPTXR5QkYybFFtYmhMakd4Z0RIaDBvUFJLRTJMOXVPdjRjYzI1YkpOM2NKUjV2TEJ3aUZkY3N4dm1xQWFZUGFscG9aMGFfSnAwcVV5U0pRSGl1NnFucTZVQmJIZEt6RjVPZFBsdEljMmlhTC1VMkM2M1IzdzB6NGZaNmNDMzMwYmhuRUx0RE1nSnNrakZrZjh3ZHQwb2RiWW52eXRfRGlVaHFkTkJKY0pNb09SNVcyRlVWQlBLSGF5eW1Nem5oQ2lsZHFaYjkyNzlwaWtOU0QyOVpVXzM2ZmlPaEo3V0pKWTVVYThMa0tsVFd5anJFZWV3d2JsNE1TQ09EdEIzTGJrNHgzMVdLSXVBdnoyOXpreEctT1YzcUxlNG1EY1paMnU3bGNzbXc1TUpiM3hETk9FWEJlYUtVc1ZrWG8xbWNlT2JoZUdXbEdwT0NhdmhfTlVDdmdoNG16X2pRazJ4M1h3M2dOcTJlMVUxT2tpZjAtLXNGSlFDak1iZw",
         "time": "2026-06-22 05:21:07",
@@ -1748,13 +1841,13 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 4
+        "count": 5
       }
     ],
     "groups": [
       {
         "name": "農業族群",
-        "count": 1
+        "count": 4
       }
     ]
   }
