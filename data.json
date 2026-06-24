@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-06-24T10:48:33.297973+00:00",
+  "generated_at": "2026-06-24T11:04:23.624756+00:00",
   "metrics": {
-    "total_24h": 3,
+    "total_24h": 6,
     "prev_24h": 8,
-    "growth_pct": -62.5,
-    "news_24h": 1,
+    "growth_pct": -25.0,
+    "news_24h": 4,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 116,
+    "total": 119,
     "prev": 160,
-    "growth_pct": -27.5,
-    "news": 90,
+    "growth_pct": -25.62,
+    "news": 93,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -27,11 +27,11 @@
   },
   "by_platform": [
     {
-      "platform": "facebook",
-      "count": 1
+      "platform": "news",
+      "count": 4
     },
     {
-      "platform": "news",
+      "platform": "facebook",
       "count": 1
     },
     {
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 90
+      "count": 93
     },
     {
       "platform": "facebook",
@@ -63,8 +63,16 @@
       "count": 1
     },
     {
+      "hour": "2026-06-24 15:00",
+      "count": 1
+    },
+    {
       "hour": "2026-06-24 16:00",
       "count": 1
+    },
+    {
+      "hour": "2026-06-24 17:00",
+      "count": 2
     }
   ],
   "by_hour_7d": [
@@ -237,17 +245,25 @@
       "count": 1
     },
     {
+      "hour": "2026-06-24 15:00",
+      "count": 1
+    },
+    {
       "hour": "2026-06-24 16:00",
       "count": 1
+    },
+    {
+      "hour": "2026-06-24 17:00",
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
-      "platform": "facebook",
-      "count": 1
+      "platform": "news",
+      "count": 4
     },
     {
-      "platform": "news",
+      "platform": "facebook",
       "count": 1
     },
     {
@@ -256,18 +272,33 @@
     }
   ],
   "mention_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "劉建國會勘沿海四鄉鎮文蛤災損 漁業署允諾立即啟動救助程序 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNbFdfZjJaTU1HVERMcmxSbGUtNmVpZjMwXzVZa19FeWJYVFN4amt4S0dfNW92N294aDZwWG1mZ01pdndzS2Q1Nko5UjJZUzVSTGRPM1Y1UVZ3VGNOSHA1NTZXdDBOaU1HM2Z3OWk0emdsUFpMbHMyUVhtR3Z6ZzB5dG8tU1kwaGJOc2J6T1RZSE5DcE5ZMDd4eVJudkdKbUxDVGh0aHdLaG05TEtwMHM4TGVZNWJZWlRWTmY5SnBBMkZFSXUyajFkcWp6RkV4UmhWVjVhSUJHVDNPY1JNeEkxc0lOYUM3eVRTZkJYVm5EdUFOZU9RbXhZbkxFYnlMbmxMWmhsemYxX0tpZDdwOS1JSTV0enZMTVNpel9LRGMtcW83Q0dXMG9uaFFWamdzYkNfbXdGdjhrZU9qM0g5RWI5eGRmWFBiY0NUbWhzeGwyNnVfQmhQZXFoOTFuY2JuOHZyTFZHVFpTWTBfZTdGYTNjYmU5YmxRdEZ2Q19ZMmxfcnVaNk9FZmJmekZJLVk0dEVVNGFDb0JqVkc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-24 17:39:43"
+      },
+      {
+        "title": "雲林沿海文蛤災損嚴重 劉建國奔走現勘爭取救助獲中央允諾 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNeEE2bkVhbm54MU9jYlRDYWh3WjY2Q2l5T2tMSzZQVFQyZGNTMmdvWER4UFJQRFdZSVVIODR6UUxOTUhPRDczVFpIbmZjUU9XeXdqQ2s2ODhRWTRCT3BFWGZQMXIxOXZZSEEydXNSOXRRT1RiUVJ0MlZvc2JrS3FJYnY1NGM4eXFmUEh1ZEZBYVo5elpEb3N4NzhkTFQ4cE5rc1FKUmg5WkN1MEJoWTRtbXlyLVNqQTRyb0VLc0VPV0xKVEJfUUFJNlFmY1JFQ1lYNmVYcXV6ZDJyLXBmXzlFdHprdDQySTJYNW5HYW5OX0RjVlVLc1VFeDJLUktXSjN4UFh5YWRtUEM3UEtuRVduazNJanE5SHhOTlBqejMtb1QxelhxMHR3emt1OWVzOVkxS1pHVmplRVk4alRKRUN3V0NhWTlLWVd5NThBTDlPR1dpcERXTkZLSG9DTVRXdmoxOW9xZ1RveFZjTkxhRmJ3VHpnV3dabDhRdlF2OE1FUzdNMHpHU25aY0tWZmQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-24 17:19:39"
+      },
+      {
+        "title": "雲林文蛤大量暴斃災情慘重 劉建國促中央火速啟動救助 - 政府消息新聞 - PChome Online 新聞 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3dVcDlVWEFwWmlaSlplRFFJdU5xS0MxRHNTTkEteTFfX21NaTFfZ2dLZHFzcDh4Rl9OTlpqdWFLRXlnWGlVdGtWcHVlZVZMZEVWNDlvcVA0dnlLSDUzV2dFV0hDcFlVYV8xV2dqNlY2WTV4aE9fY1hRVHFzQ2dkRlE4ay1OT3Y4Z3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-24 15:56:13"
+      },
+      {
+        "title": "立委劉建國會勘雲林沿海四鄉鎮文蛤災損 漁業署允諾立即啟動救助程序 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQUpLMmtlYk9xYlhYZ1RLTGd4czdnVW54Mmc3Qi1JbWhXNHlFaVFZYXpOakt3dWt5d3lkbWJCemlZaEJzZ0NUQ245Mlk4c0tnT3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-24 14:38:00"
+      }
+    ],
     "facebook": [
       {
         "title": "【建國爭取有成！落花生災害莢補助正式啟動，保障農民與食安！】 各位鄉親，特別是我們雲林種植花生的農民朋友們，大家辛苦了！前陣子的豪雨，讓我們的落花生受損嚴重，建國知道大家的心血泡湯，心裡非常著急。 為此，建國特別於今年5月16日，邀請 #陳駿季 部長 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMisAhBVV95cUxQVzNCekpsZGhxcTl6VHpIaU5pdVAxanNELUc2dnlwOGx6NXFrQ3ZzNlFrYXFHMDZfYU9xOEtDaEtvUnlLMmI4ak5kOVdiYy1CWkRhX1dKeEQ3cmRvRi1Sdk9PVkUtQkNUbTRCSENvOHZib1hpVnRJdXY0UUxmVnc4NzNRb1NwWTM0QWEzTnNDWXVzdFJQdGxaYm1RbjNtc1FOaDhTelhBQVZEYjlHTE8zLVRIV0pGNzdNMVpEdXZ4Q2hBeDduU01GUDlGTGxXeHFCR0FESTU2Z2g1R3dkeFFKYTVseDBiT2N1NmNzOHVMNWRleFJ1ekkzWG9SN2ZNbXU5ejU0RVdFUzhfbndpNkF1Mk5XVjFzLXdOS08zbzVTUGhZQXAxaWgyWDV6NGtrOVFOMTF6YjJrQnZZdUhfQzZhZmFyejg0ZFp5N2k1YWoyZlJ3cDVmUGVWcmQ2bEdVcmtFcV9LaUVjTmVJY25tYnkwUkdCLUt4eDJyQ2RsZW9pOFBsSjJ0blJMRzd5U0o2YnlLVE41Q2lwMzNUM0lXZmRyZ2dSRlFlVWJvdnM2ZjJ5R19KOFBMN09PbTg5UVNmY1lNbTlOYnVFME5GREs0SW1ZYVBkS3ZlZnIxdi1kdzR2cXhwUXZrUHpqVFlBTnBfWmlyaTRfWW9vYnNDRUhNUWdzUVpLSmZiZnVSR3JfeVBWRE42eWxISHhFYUJLcllpbmhjWFVwcnpxNmg4Y3k1RlNwQlpfTFlRM3hXMlRUZ2VfVFJ4YXRMRlFFQkgyRnlwMjhRa1pTZ1dzNDY2SnR6MVRQWXRReGpMdjFWZGVYVWdJM1ItcWZ3ZjdWMERiYlo4Z281V0YtdldadkxHZF84TE13VmhjeWhSaDBIM0dYYV9UbGdwNlpPOWswTlBlQ1gwSFJWN2JwVzBnOGh3SWdvcXJOT0g0YlJreGV1NEVQeV82X25QMUx5MmtUd1QtazJIMWM5YmMxRTFFTHhTdTMyVDBrVEhNM3hRNDB4NVJNYURKd0xkeHVkTVZHWG4ySXhLZ1NZZHdOUzdPRUpiTlhQckhPSXdSaXhINXBua2Q4ZXZyelViU0VVVTgxNkQ5TlRIaGVuN29BWEQzdjZqOFJoMmRuVC1CMzFrbTk4cElobWVYbVlsZ2lvSnc4b2FGZXMzeHVpSnpkRmhhWC1BX0ZrMHlpbEMta2ctTkxOWVBsN0xBSkVVZUJtSFRWMmlGMVdrdF9yMVVNTUxBWkVJQ0gwS0hOLW9oLWFiVUZ1QjZ2UmxCUTcyVzhCNDVNREhyMDFYQkhqbjFZek9ZV1o5azBTQW5VN0VKQ3EzeDJYMlFMa3RUQnA2TWhfNTM5MW9VaDJnQ2ZJM2U2VmlwMFN4R21iOU5EeXVxMUdOcGdNeWFDVlZONmNxXzZrVTNWeXg2djRuUGlz",
         "time": "2026-06-24 16:01:57"
-      }
-    ],
-    "news": [
-      {
-        "title": "立委劉建國會勘雲林沿海四鄉鎮文蛤災損 漁業署允諾立即啟動救助程序 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQUpLMmtlYk9xYlhYZ1RLTGd4czdnVW54Mmc3Qi1JbWhXNHlFaVFZYXpOakt3dWt5d3lkbWJCemlZaEJzZ0NUQ245Mlk4c0tnT3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-24 14:38:00"
       }
     ],
     "youtube": [
@@ -280,11 +311,11 @@
   },
   "alias_by_platform_24h": [
     {
-      "platform": "facebook",
-      "count": 1
+      "platform": "news",
+      "count": 4
     },
     {
-      "platform": "news",
+      "platform": "facebook",
       "count": 1
     },
     {
@@ -293,18 +324,33 @@
     }
   ],
   "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "劉建國會勘沿海四鄉鎮文蛤災損 漁業署允諾立即啟動救助程序 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNbFdfZjJaTU1HVERMcmxSbGUtNmVpZjMwXzVZa19FeWJYVFN4amt4S0dfNW92N294aDZwWG1mZ01pdndzS2Q1Nko5UjJZUzVSTGRPM1Y1UVZ3VGNOSHA1NTZXdDBOaU1HM2Z3OWk0emdsUFpMbHMyUVhtR3Z6ZzB5dG8tU1kwaGJOc2J6T1RZSE5DcE5ZMDd4eVJudkdKbUxDVGh0aHdLaG05TEtwMHM4TGVZNWJZWlRWTmY5SnBBMkZFSXUyajFkcWp6RkV4UmhWVjVhSUJHVDNPY1JNeEkxc0lOYUM3eVRTZkJYVm5EdUFOZU9RbXhZbkxFYnlMbmxMWmhsemYxX0tpZDdwOS1JSTV0enZMTVNpel9LRGMtcW83Q0dXMG9uaFFWamdzYkNfbXdGdjhrZU9qM0g5RWI5eGRmWFBiY0NUbWhzeGwyNnVfQmhQZXFoOTFuY2JuOHZyTFZHVFpTWTBfZTdGYTNjYmU5YmxRdEZ2Q19ZMmxfcnVaNk9FZmJmekZJLVk0dEVVNGFDb0JqVkc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-24 17:39:43"
+      },
+      {
+        "title": "雲林沿海文蛤災損嚴重 劉建國奔走現勘爭取救助獲中央允諾 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNeEE2bkVhbm54MU9jYlRDYWh3WjY2Q2l5T2tMSzZQVFQyZGNTMmdvWER4UFJQRFdZSVVIODR6UUxOTUhPRDczVFpIbmZjUU9XeXdqQ2s2ODhRWTRCT3BFWGZQMXIxOXZZSEEydXNSOXRRT1RiUVJ0MlZvc2JrS3FJYnY1NGM4eXFmUEh1ZEZBYVo5elpEb3N4NzhkTFQ4cE5rc1FKUmg5WkN1MEJoWTRtbXlyLVNqQTRyb0VLc0VPV0xKVEJfUUFJNlFmY1JFQ1lYNmVYcXV6ZDJyLXBmXzlFdHprdDQySTJYNW5HYW5OX0RjVlVLc1VFeDJLUktXSjN4UFh5YWRtUEM3UEtuRVduazNJanE5SHhOTlBqejMtb1QxelhxMHR3emt1OWVzOVkxS1pHVmplRVk4alRKRUN3V0NhWTlLWVd5NThBTDlPR1dpcERXTkZLSG9DTVRXdmoxOW9xZ1RveFZjTkxhRmJ3VHpnV3dabDhRdlF2OE1FUzdNMHpHU25aY0tWZmQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-24 17:19:39"
+      },
+      {
+        "title": "雲林文蛤大量暴斃災情慘重 劉建國促中央火速啟動救助 - 政府消息新聞 - PChome Online 新聞 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3dVcDlVWEFwWmlaSlplRFFJdU5xS0MxRHNTTkEteTFfX21NaTFfZ2dLZHFzcDh4Rl9OTlpqdWFLRXlnWGlVdGtWcHVlZVZMZEVWNDlvcVA0dnlLSDUzV2dFV0hDcFlVYV8xV2dqNlY2WTV4aE9fY1hRVHFzQ2dkRlE4ay1OT3Y4Z3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-24 15:56:13"
+      },
+      {
+        "title": "立委劉建國會勘雲林沿海四鄉鎮文蛤災損 漁業署允諾立即啟動救助程序 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQUpLMmtlYk9xYlhYZ1RLTGd4czdnVW54Mmc3Qi1JbWhXNHlFaVFZYXpOakt3dWt5d3lkbWJCemlZaEJzZ0NUQ245Mlk4c0tnT3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-24 14:38:00"
+      }
+    ],
     "facebook": [
       {
         "title": "【建國爭取有成！落花生災害莢補助正式啟動，保障農民與食安！】 各位鄉親，特別是我們雲林種植花生的農民朋友們，大家辛苦了！前陣子的豪雨，讓我們的落花生受損嚴重，建國知道大家的心血泡湯，心裡非常著急。 為此，建國特別於今年5月16日，邀請 #陳駿季 部長 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMisAhBVV95cUxQVzNCekpsZGhxcTl6VHpIaU5pdVAxanNELUc2dnlwOGx6NXFrQ3ZzNlFrYXFHMDZfYU9xOEtDaEtvUnlLMmI4ak5kOVdiYy1CWkRhX1dKeEQ3cmRvRi1Sdk9PVkUtQkNUbTRCSENvOHZib1hpVnRJdXY0UUxmVnc4NzNRb1NwWTM0QWEzTnNDWXVzdFJQdGxaYm1RbjNtc1FOaDhTelhBQVZEYjlHTE8zLVRIV0pGNzdNMVpEdXZ4Q2hBeDduU01GUDlGTGxXeHFCR0FESTU2Z2g1R3dkeFFKYTVseDBiT2N1NmNzOHVMNWRleFJ1ekkzWG9SN2ZNbXU5ejU0RVdFUzhfbndpNkF1Mk5XVjFzLXdOS08zbzVTUGhZQXAxaWgyWDV6NGtrOVFOMTF6YjJrQnZZdUhfQzZhZmFyejg0ZFp5N2k1YWoyZlJ3cDVmUGVWcmQ2bEdVcmtFcV9LaUVjTmVJY25tYnkwUkdCLUt4eDJyQ2RsZW9pOFBsSjJ0blJMRzd5U0o2YnlLVE41Q2lwMzNUM0lXZmRyZ2dSRlFlVWJvdnM2ZjJ5R19KOFBMN09PbTg5UVNmY1lNbTlOYnVFME5GREs0SW1ZYVBkS3ZlZnIxdi1kdzR2cXhwUXZrUHpqVFlBTnBfWmlyaTRfWW9vYnNDRUhNUWdzUVpLSmZiZnVSR3JfeVBWRE42eWxISHhFYUJLcllpbmhjWFVwcnpxNmg4Y3k1RlNwQlpfTFlRM3hXMlRUZ2VfVFJ4YXRMRlFFQkgyRnlwMjhRa1pTZ1dzNDY2SnR6MVRQWXRReGpMdjFWZGVYVWdJM1ItcWZ3ZjdWMERiYlo4Z281V0YtdldadkxHZF84TE13VmhjeWhSaDBIM0dYYV9UbGdwNlpPOWswTlBlQ1gwSFJWN2JwVzBnOGh3SWdvcXJOT0g0YlJreGV1NEVQeV82X25QMUx5MmtUd1QtazJIMWM5YmMxRTFFTHhTdTMyVDBrVEhNM3hRNDB4NVJNYURKd0xkeHVkTVZHWG4ySXhLZ1NZZHdOUzdPRUpiTlhQckhPSXdSaXhINXBua2Q4ZXZyelViU0VVVTgxNkQ5TlRIaGVuN29BWEQzdjZqOFJoMmRuVC1CMzFrbTk4cElobWVYbVlsZ2lvSnc4b2FGZXMzeHVpSnpkRmhhWC1BX0ZrMHlpbEMta2ctTkxOWVBsN0xBSkVVZUJtSFRWMmlGMVdrdF9yMVVNTUxBWkVJQ0gwS0hOLW9oLWFiVUZ1QjZ2UmxCUTcyVzhCNDVNREhyMDFYQkhqbjFZek9ZV1o5azBTQW5VN0VKQ3EzeDJYMlFMa3RUQnA2TWhfNTM5MW9VaDJnQ2ZJM2U2VmlwMFN4R21iOU5EeXVxMUdOcGdNeWFDVlZONmNxXzZrVTNWeXg2djRuUGlz",
         "time": "2026-06-24 16:01:57"
-      }
-    ],
-    "news": [
-      {
-        "title": "立委劉建國會勘雲林沿海四鄉鎮文蛤災損 漁業署允諾立即啟動救助程序 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQUpLMmtlYk9xYlhYZ1RLTGd4czdnVW54Mmc3Qi1JbWhXNHlFaVFZYXpOakt3dWt5d3lkbWJCemlZaEJzZ0NUQ245Mlk4c0tnT3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-24 14:38:00"
       }
     ],
     "youtube": [
@@ -317,13 +363,28 @@
   },
   "mention_compare_24h": {
     "張嘉郡": 1,
-    "劉建國": 2
+    "劉建國": 5
   },
   "mention_compare_7d": {
     "張嘉郡": 56,
-    "劉建國": 50
+    "劉建國": 53
   },
   "top_news": [
+    {
+      "title": "劉建國會勘沿海四鄉鎮文蛤災損 漁業署允諾立即啟動救助程序 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNbFdfZjJaTU1HVERMcmxSbGUtNmVpZjMwXzVZa19FeWJYVFN4amt4S0dfNW92N294aDZwWG1mZ01pdndzS2Q1Nko5UjJZUzVSTGRPM1Y1UVZ3VGNOSHA1NTZXdDBOaU1HM2Z3OWk0emdsUFpMbHMyUVhtR3Z6ZzB5dG8tU1kwaGJOc2J6T1RZSE5DcE5ZMDd4eVJudkdKbUxDVGh0aHdLaG05TEtwMHM4TGVZNWJZWlRWTmY5SnBBMkZFSXUyajFkcWp6RkV4UmhWVjVhSUJHVDNPY1JNeEkxc0lOYUM3eVRTZkJYVm5EdUFOZU9RbXhZbkxFYnlMbmxMWmhsemYxX0tpZDdwOS1JSTV0enZMTVNpel9LRGMtcW83Q0dXMG9uaFFWamdzYkNfbXdGdjhrZU9qM0g5RWI5eGRmWFBiY0NUbWhzeGwyNnVfQmhQZXFoOTFuY2JuOHZyTFZHVFpTWTBfZTdGYTNjYmU5YmxRdEZ2Q19ZMmxfcnVaNk9FZmJmekZJLVk0dEVVNGFDb0JqVkc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-24 17:39:43"
+    },
+    {
+      "title": "雲林沿海文蛤災損嚴重 劉建國奔走現勘爭取救助獲中央允諾 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNeEE2bkVhbm54MU9jYlRDYWh3WjY2Q2l5T2tMSzZQVFQyZGNTMmdvWER4UFJQRFdZSVVIODR6UUxOTUhPRDczVFpIbmZjUU9XeXdqQ2s2ODhRWTRCT3BFWGZQMXIxOXZZSEEydXNSOXRRT1RiUVJ0MlZvc2JrS3FJYnY1NGM4eXFmUEh1ZEZBYVo5elpEb3N4NzhkTFQ4cE5rc1FKUmg5WkN1MEJoWTRtbXlyLVNqQTRyb0VLc0VPV0xKVEJfUUFJNlFmY1JFQ1lYNmVYcXV6ZDJyLXBmXzlFdHprdDQySTJYNW5HYW5OX0RjVlVLc1VFeDJLUktXSjN4UFh5YWRtUEM3UEtuRVduazNJanE5SHhOTlBqejMtb1QxelhxMHR3emt1OWVzOVkxS1pHVmplRVk4alRKRUN3V0NhWTlLWVd5NThBTDlPR1dpcERXTkZLSG9DTVRXdmoxOW9xZ1RveFZjTkxhRmJ3VHpnV3dabDhRdlF2OE1FUzdNMHpHU25aY0tWZmQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-24 17:19:39"
+    },
+    {
+      "title": "雲林文蛤大量暴斃災情慘重 劉建國促中央火速啟動救助 - 政府消息新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3dVcDlVWEFwWmlaSlplRFFJdU5xS0MxRHNTTkEteTFfX21NaTFfZ2dLZHFzcDh4Rl9OTlpqdWFLRXlnWGlVdGtWcHVlZVZMZEVWNDlvcVA0dnlLSDUzV2dFV0hDcFlVYV8xV2dqNlY2WTV4aE9fY1hRVHFzQ2dkRlE4ay1OT3Y4Z3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-24 15:56:13"
+    },
     {
       "title": "立委劉建國會勘雲林沿海四鄉鎮文蛤災損 漁業署允諾立即啟動救助程序 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQUpLMmtlYk9xYlhYZ1RLTGd4czdnVW54Mmc3Qi1JbWhXNHlFaVFZYXpOakt3dWt5d3lkbWJCemlZaEJzZ0NUQ245Mlk4c0tnT3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -331,6 +392,21 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "劉建國會勘沿海四鄉鎮文蛤災損 漁業署允諾立即啟動救助程序 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNbFdfZjJaTU1HVERMcmxSbGUtNmVpZjMwXzVZa19FeWJYVFN4amt4S0dfNW92N294aDZwWG1mZ01pdndzS2Q1Nko5UjJZUzVSTGRPM1Y1UVZ3VGNOSHA1NTZXdDBOaU1HM2Z3OWk0emdsUFpMbHMyUVhtR3Z6ZzB5dG8tU1kwaGJOc2J6T1RZSE5DcE5ZMDd4eVJudkdKbUxDVGh0aHdLaG05TEtwMHM4TGVZNWJZWlRWTmY5SnBBMkZFSXUyajFkcWp6RkV4UmhWVjVhSUJHVDNPY1JNeEkxc0lOYUM3eVRTZkJYVm5EdUFOZU9RbXhZbkxFYnlMbmxMWmhsemYxX0tpZDdwOS1JSTV0enZMTVNpel9LRGMtcW83Q0dXMG9uaFFWamdzYkNfbXdGdjhrZU9qM0g5RWI5eGRmWFBiY0NUbWhzeGwyNnVfQmhQZXFoOTFuY2JuOHZyTFZHVFpTWTBfZTdGYTNjYmU5YmxRdEZ2Q19ZMmxfcnVaNk9FZmJmekZJLVk0dEVVNGFDb0JqVkc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-24 17:39:43"
+    },
+    {
+      "title": "雲林沿海文蛤災損嚴重 劉建國奔走現勘爭取救助獲中央允諾 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNeEE2bkVhbm54MU9jYlRDYWh3WjY2Q2l5T2tMSzZQVFQyZGNTMmdvWER4UFJQRFdZSVVIODR6UUxOTUhPRDczVFpIbmZjUU9XeXdqQ2s2ODhRWTRCT3BFWGZQMXIxOXZZSEEydXNSOXRRT1RiUVJ0MlZvc2JrS3FJYnY1NGM4eXFmUEh1ZEZBYVo5elpEb3N4NzhkTFQ4cE5rc1FKUmg5WkN1MEJoWTRtbXlyLVNqQTRyb0VLc0VPV0xKVEJfUUFJNlFmY1JFQ1lYNmVYcXV6ZDJyLXBmXzlFdHprdDQySTJYNW5HYW5OX0RjVlVLc1VFeDJLUktXSjN4UFh5YWRtUEM3UEtuRVduazNJanE5SHhOTlBqejMtb1QxelhxMHR3emt1OWVzOVkxS1pHVmplRVk4alRKRUN3V0NhWTlLWVd5NThBTDlPR1dpcERXTkZLSG9DTVRXdmoxOW9xZ1RveFZjTkxhRmJ3VHpnV3dabDhRdlF2OE1FUzdNMHpHU25aY0tWZmQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-24 17:19:39"
+    },
+    {
+      "title": "雲林文蛤大量暴斃災情慘重 劉建國促中央火速啟動救助 - 政府消息新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3dVcDlVWEFwWmlaSlplRFFJdU5xS0MxRHNTTkEteTFfX21NaTFfZ2dLZHFzcDh4Rl9OTlpqdWFLRXlnWGlVdGtWcHVlZVZMZEVWNDlvcVA0dnlLSDUzV2dFV0hDcFlVYV8xV2dqNlY2WTV4aE9fY1hRVHFzQ2dkRlE4ay1OT3Y4Z3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-24 15:56:13"
+    },
     {
       "title": "立委劉建國會勘雲林沿海四鄉鎮文蛤災損 漁業署允諾立即啟動救助程序 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQUpLMmtlYk9xYlhYZ1RLTGd4czdnVW54Mmc3Qi1JbWhXNHlFaVFZYXpOakt3dWt5d3lkbWJCemlZaEJzZ0NUQ245Mlk4c0tnT3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -415,21 +491,6 @@
       "title": "台西文蛤不耐「三溫暖」氣候暴斃 劉建國籲加速天災救助 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaOEVRRXZsSzFEVTFWM2NTa0NRdGNMZGpoYnRzc1BRaFpQUGFlYXdQZFE3QlhreE1QVzIxc3R3WF9vbVc5UGVySkFoendWZ3RuVlF6M2RMZlR2dVVpSHduWC16NmVnbHfSAWxBVV95cUxQMWZQUmR1SFFvaGstcDU2MlJyOXMzTTFkaXFnTzkxSkEtTUpmMkxyak1YVUVlNV9KcG5kd1BJOW41WmNmNFZJSnVhTFdEZVNOZm55bFFjdW5oVUdwRldXd0NlZ3hvd2RNMzRPaWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-22 15:15:55"
-    },
-    {
-      "title": "台西文蛤不耐「三溫暖」氣候暴斃 劉建國籲加速天災救助 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPa1g0b2NnS211QW5yWG9Jdml5OG9pWExGX29MWWJobExGNmpuTkVUcXlfQVJqdVY2bFFXYzZYcGh2YzJoc1RUSFNsVFlqZi1LeFhyNE5WRnY4Wk5ORVZnSVRFampjQTJhLWZ5RXpaTW5wR1hGempLc2h2eXUtRGZ0b0VHMFRDUURGRkV2NTNBVWdXcGtiQy0zSHlDNmg5bFF2Tzlod0VkNlpCMmRSeG9VdlBMU3dUaXNXVlZpT0NYQ3hlSjMycXZUUUdBRXk2QnFLcl9OOEwxb1JoRm1GMHpXWWdqWktJYllyaWdPN09VeDZmM2pjMVRmV3NpNTFpbzhuLUctYmpIaHE0RGZueWg3X1ozalpCSzFLaWhaajhuN2hrb0s5a2FZRjRseGFyaDVkd0ZwLUpTTENJVGw0RGdUQ2FneTBiQ1FBSkV0S1VoYnFyTUl3Mzdhc1VpRFotd0U5c19DU1BRSGhEZG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-22 15:15:55"
-    },
-    {
-      "title": "台西文蛤遇極端氣候大量暴斃 立委劉建國邀專家勘災籲速啟救助並研發抗逆境蛤苗 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1acXdYQktqOFN6em94R0xlWVNJVHBlMlZXcHliQkhxbmRTN3JiOUNMaGtIVHlaVk5vcFp2Z3hkQ1M4Z3RiUlpnMU1BRGdTQ0tnZHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-22 14:35:00"
-    },
-    {
-      "title": "老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQZFdNLU8yQzJIc3dYbkVVMklxU2JCT1AzU2tHWE5IZU9sTnV1TnZGWVJycFJTWmUxd2VTcVJEZ0RodTIzcmxEUnhiakxma09mVFV0R0pIZGRTYmJOcm9TNlZ0dTdCaTlsXzA3M2VSS1RaTmdnX1Qxa29UbW40Qm9pRnh5VjF6amoyV1VBOHhXNkJlcTdydFNkSnBqTDdZU3hEQi1CSmRMeklOakZCODVJU2JEZmlzSXRtTXpiSjJSWlBFZkNzc1VqYVVDT2ZBUXB1UWdyTzVEbXZ6WU5wV1VYQm1OZTBpeEt3Z05kbmg4Y29EUHBKMkNBcGEtOGY3QldoNVBLWGdlWThGUy1EN2Jqdm5mNHh1eDZ6SDZNdTduVHQ4LUJycWZZbHAzbGdxM25UbFNycmdGdEZ6a19QNFRsMk8yb1FVS0h3V0JSUTlFNjRkaUZXcC1jd3I1T3RZTS1NbDVKMnJBZ3llSUszMTEtM3RtUXZ5XzZJeVJrRm5VUksxaWF3dzZXN1c3d0VVY0daMmU4a0x5SlI4TzRHR3lKU0ViWHR3d29Kd3ljWm9mWXZFOVFkdnJfby1TZkdBaWxsczhTaWZ6ODJvWkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-22 05:10:39"
     }
   ],
   "latest_facebook_20": [
@@ -536,6 +597,21 @@
   ],
   "latest_news_20": [
     {
+      "title": "劉建國會勘沿海四鄉鎮文蛤災損 漁業署允諾立即啟動救助程序 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNbFdfZjJaTU1HVERMcmxSbGUtNmVpZjMwXzVZa19FeWJYVFN4amt4S0dfNW92N294aDZwWG1mZ01pdndzS2Q1Nko5UjJZUzVSTGRPM1Y1UVZ3VGNOSHA1NTZXdDBOaU1HM2Z3OWk0emdsUFpMbHMyUVhtR3Z6ZzB5dG8tU1kwaGJOc2J6T1RZSE5DcE5ZMDd4eVJudkdKbUxDVGh0aHdLaG05TEtwMHM4TGVZNWJZWlRWTmY5SnBBMkZFSXUyajFkcWp6RkV4UmhWVjVhSUJHVDNPY1JNeEkxc0lOYUM3eVRTZkJYVm5EdUFOZU9RbXhZbkxFYnlMbmxMWmhsemYxX0tpZDdwOS1JSTV0enZMTVNpel9LRGMtcW83Q0dXMG9uaFFWamdzYkNfbXdGdjhrZU9qM0g5RWI5eGRmWFBiY0NUbWhzeGwyNnVfQmhQZXFoOTFuY2JuOHZyTFZHVFpTWTBfZTdGYTNjYmU5YmxRdEZ2Q19ZMmxfcnVaNk9FZmJmekZJLVk0dEVVNGFDb0JqVkc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-24 17:39:43"
+    },
+    {
+      "title": "雲林沿海文蛤災損嚴重 劉建國奔走現勘爭取救助獲中央允諾 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNeEE2bkVhbm54MU9jYlRDYWh3WjY2Q2l5T2tMSzZQVFQyZGNTMmdvWER4UFJQRFdZSVVIODR6UUxOTUhPRDczVFpIbmZjUU9XeXdqQ2s2ODhRWTRCT3BFWGZQMXIxOXZZSEEydXNSOXRRT1RiUVJ0MlZvc2JrS3FJYnY1NGM4eXFmUEh1ZEZBYVo5elpEb3N4NzhkTFQ4cE5rc1FKUmg5WkN1MEJoWTRtbXlyLVNqQTRyb0VLc0VPV0xKVEJfUUFJNlFmY1JFQ1lYNmVYcXV6ZDJyLXBmXzlFdHprdDQySTJYNW5HYW5OX0RjVlVLc1VFeDJLUktXSjN4UFh5YWRtUEM3UEtuRVduazNJanE5SHhOTlBqejMtb1QxelhxMHR3emt1OWVzOVkxS1pHVmplRVk4alRKRUN3V0NhWTlLWVd5NThBTDlPR1dpcERXTkZLSG9DTVRXdmoxOW9xZ1RveFZjTkxhRmJ3VHpnV3dabDhRdlF2OE1FUzdNMHpHU25aY0tWZmQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-24 17:19:39"
+    },
+    {
+      "title": "雲林文蛤大量暴斃災情慘重 劉建國促中央火速啟動救助 - 政府消息新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3dVcDlVWEFwWmlaSlplRFFJdU5xS0MxRHNTTkEteTFfX21NaTFfZ2dLZHFzcDh4Rl9OTlpqdWFLRXlnWGlVdGtWcHVlZVZMZEVWNDlvcVA0dnlLSDUzV2dFV0hDcFlVYV8xV2dqNlY2WTV4aE9fY1hRVHFzQ2dkRlE4ay1OT3Y4Z3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-24 15:56:13"
+    },
+    {
       "title": "立委劉建國會勘雲林沿海四鄉鎮文蛤災損 漁業署允諾立即啟動救助程序 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQUpLMmtlYk9xYlhYZ1RLTGd4czdnVW54Mmc3Qi1JbWhXNHlFaVFZYXpOakt3dWt5d3lkbWJCemlZaEJzZ0NUQ245Mlk4c0tnT3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-24 14:38:00"
@@ -619,21 +695,6 @@
       "title": "台西文蛤不耐「三溫暖」氣候暴斃 劉建國籲加速天災救助 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaOEVRRXZsSzFEVTFWM2NTa0NRdGNMZGpoYnRzc1BRaFpQUGFlYXdQZFE3QlhreE1QVzIxc3R3WF9vbVc5UGVySkFoendWZ3RuVlF6M2RMZlR2dVVpSHduWC16NmVnbHfSAWxBVV95cUxQMWZQUmR1SFFvaGstcDU2MlJyOXMzTTFkaXFnTzkxSkEtTUpmMkxyak1YVUVlNV9KcG5kd1BJOW41WmNmNFZJSnVhTFdEZVNOZm55bFFjdW5oVUdwRldXd0NlZ3hvd2RNMzRPaWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-22 15:15:55"
-    },
-    {
-      "title": "台西文蛤不耐「三溫暖」氣候暴斃 劉建國籲加速天災救助 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPa1g0b2NnS211QW5yWG9Jdml5OG9pWExGX29MWWJobExGNmpuTkVUcXlfQVJqdVY2bFFXYzZYcGh2YzJoc1RUSFNsVFlqZi1LeFhyNE5WRnY4Wk5ORVZnSVRFampjQTJhLWZ5RXpaTW5wR1hGempLc2h2eXUtRGZ0b0VHMFRDUURGRkV2NTNBVWdXcGtiQy0zSHlDNmg5bFF2Tzlod0VkNlpCMmRSeG9VdlBMU3dUaXNXVlZpT0NYQ3hlSjMycXZUUUdBRXk2QnFLcl9OOEwxb1JoRm1GMHpXWWdqWktJYllyaWdPN09VeDZmM2pjMVRmV3NpNTFpbzhuLUctYmpIaHE0RGZueWg3X1ozalpCSzFLaWhaajhuN2hrb0s5a2FZRjRseGFyaDVkd0ZwLUpTTENJVGw0RGdUQ2FneTBiQ1FBSkV0S1VoYnFyTUl3Mzdhc1VpRFotd0U5c19DU1BRSGhEZG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-22 15:15:55"
-    },
-    {
-      "title": "台西文蛤遇極端氣候大量暴斃 立委劉建國邀專家勘災籲速啟救助並研發抗逆境蛤苗 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1acXdYQktqOFN6em94R0xlWVNJVHBlMlZXcHliQkhxbmRTN3JiOUNMaGtIVHlaVk5vcFp2Z3hkQ1M4Z3RiUlpnMU1BRGdTQ0tnZHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-22 14:35:00"
-    },
-    {
-      "title": "老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQZFdNLU8yQzJIc3dYbkVVMklxU2JCT1AzU2tHWE5IZU9sTnV1TnZGWVJycFJTWmUxd2VTcVJEZ0RodTIzcmxEUnhiakxma09mVFV0R0pIZGRTYmJOcm9TNlZ0dTdCaTlsXzA3M2VSS1RaTmdnX1Qxa29UbW40Qm9pRnh5VjF6amoyV1VBOHhXNkJlcTdydFNkSnBqTDdZU3hEQi1CSmRMeklOakZCODVJU2JEZmlzSXRtTXpiSjJSWlBFZkNzc1VqYVVDT2ZBUXB1UWdyTzVEbXZ6WU5wV1VYQm1OZTBpeEt3Z05kbmg4Y29EUHBKMkNBcGEtOGY3QldoNVBLWGdlWThGUy1EN2Jqdm5mNHh1eDZ6SDZNdTduVHQ4LUJycWZZbHAzbGdxM25UbFNycmdGdEZ6a19QNFRsMk8yb1FVS0h3V0JSUTlFNjRkaUZXcC1jd3I1T3RZTS1NbDVKMnJBZ3llSUszMTEtM3RtUXZ5XzZJeVJrRm5VUksxaWF3dzZXN1c3d0VVY0daMmU4a0x5SlI4TzRHR3lKU0ViWHR3d29Kd3ljWm9mWXZFOVFkdnJfby1TZkdBaWxsczhTaWZ6ODJvWkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-22 05:10:39"
     }
   ],
   "person_sections": {
@@ -948,6 +1009,21 @@
       ],
       "news": [
         {
+          "title": "劉建國會勘沿海四鄉鎮文蛤災損 漁業署允諾立即啟動救助程序 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNbFdfZjJaTU1HVERMcmxSbGUtNmVpZjMwXzVZa19FeWJYVFN4amt4S0dfNW92N294aDZwWG1mZ01pdndzS2Q1Nko5UjJZUzVSTGRPM1Y1UVZ3VGNOSHA1NTZXdDBOaU1HM2Z3OWk0emdsUFpMbHMyUVhtR3Z6ZzB5dG8tU1kwaGJOc2J6T1RZSE5DcE5ZMDd4eVJudkdKbUxDVGh0aHdLaG05TEtwMHM4TGVZNWJZWlRWTmY5SnBBMkZFSXUyajFkcWp6RkV4UmhWVjVhSUJHVDNPY1JNeEkxc0lOYUM3eVRTZkJYVm5EdUFOZU9RbXhZbkxFYnlMbmxMWmhsemYxX0tpZDdwOS1JSTV0enZMTVNpel9LRGMtcW83Q0dXMG9uaFFWamdzYkNfbXdGdjhrZU9qM0g5RWI5eGRmWFBiY0NUbWhzeGwyNnVfQmhQZXFoOTFuY2JuOHZyTFZHVFpTWTBfZTdGYTNjYmU5YmxRdEZ2Q19ZMmxfcnVaNk9FZmJmekZJLVk0dEVVNGFDb0JqVkc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-24 17:39:43"
+        },
+        {
+          "title": "雲林沿海文蛤災損嚴重 劉建國奔走現勘爭取救助獲中央允諾 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNeEE2bkVhbm54MU9jYlRDYWh3WjY2Q2l5T2tMSzZQVFQyZGNTMmdvWER4UFJQRFdZSVVIODR6UUxOTUhPRDczVFpIbmZjUU9XeXdqQ2s2ODhRWTRCT3BFWGZQMXIxOXZZSEEydXNSOXRRT1RiUVJ0MlZvc2JrS3FJYnY1NGM4eXFmUEh1ZEZBYVo5elpEb3N4NzhkTFQ4cE5rc1FKUmg5WkN1MEJoWTRtbXlyLVNqQTRyb0VLc0VPV0xKVEJfUUFJNlFmY1JFQ1lYNmVYcXV6ZDJyLXBmXzlFdHprdDQySTJYNW5HYW5OX0RjVlVLc1VFeDJLUktXSjN4UFh5YWRtUEM3UEtuRVduazNJanE5SHhOTlBqejMtb1QxelhxMHR3emt1OWVzOVkxS1pHVmplRVk4alRKRUN3V0NhWTlLWVd5NThBTDlPR1dpcERXTkZLSG9DTVRXdmoxOW9xZ1RveFZjTkxhRmJ3VHpnV3dabDhRdlF2OE1FUzdNMHpHU25aY0tWZmQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-24 17:19:39"
+        },
+        {
+          "title": "雲林文蛤大量暴斃災情慘重 劉建國促中央火速啟動救助 - 政府消息新聞 - PChome Online 新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3dVcDlVWEFwWmlaSlplRFFJdU5xS0MxRHNTTkEteTFfX21NaTFfZ2dLZHFzcDh4Rl9OTlpqdWFLRXlnWGlVdGtWcHVlZVZMZEVWNDlvcVA0dnlLSDUzV2dFV0hDcFlVYV8xV2dqNlY2WTV4aE9fY1hRVHFzQ2dkRlE4ay1OT3Y4Z3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-24 15:56:13"
+        },
+        {
           "title": "立委劉建國會勘雲林沿海四鄉鎮文蛤災損 漁業署允諾立即啟動救助程序 - 蕃新聞",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQUpLMmtlYk9xYlhYZ1RLTGd4czdnVW54Mmc3Qi1JbWhXNHlFaVFZYXpOakt3dWt5d3lkbWJCemlZaEJzZ0NUQ245Mlk4c0tnT3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-24 14:38:00"
@@ -1031,38 +1107,38 @@
           "title": "台西文蛤不耐「三溫暖」氣候暴斃 劉建國籲加速天災救助 - 自由時報",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaOEVRRXZsSzFEVTFWM2NTa0NRdGNMZGpoYnRzc1BRaFpQUGFlYXdQZFE3QlhreE1QVzIxc3R3WF9vbVc5UGVySkFoendWZ3RuVlF6M2RMZlR2dVVpSHduWC16NmVnbHfSAWxBVV95cUxQMWZQUmR1SFFvaGstcDU2MlJyOXMzTTFkaXFnTzkxSkEtTUpmMkxyak1YVUVlNV9KcG5kd1BJOW41WmNmNFZJSnVhTFdEZVNOZm55bFFjdW5oVUdwRldXd0NlZ3hvd2RNMzRPaWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-22 15:15:55"
-        },
-        {
-          "title": "台西文蛤不耐「三溫暖」氣候暴斃 劉建國籲加速天災救助 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPa1g0b2NnS211QW5yWG9Jdml5OG9pWExGX29MWWJobExGNmpuTkVUcXlfQVJqdVY2bFFXYzZYcGh2YzJoc1RUSFNsVFlqZi1LeFhyNE5WRnY4Wk5ORVZnSVRFampjQTJhLWZ5RXpaTW5wR1hGempLc2h2eXUtRGZ0b0VHMFRDUURGRkV2NTNBVWdXcGtiQy0zSHlDNmg5bFF2Tzlod0VkNlpCMmRSeG9VdlBMU3dUaXNXVlZpT0NYQ3hlSjMycXZUUUdBRXk2QnFLcl9OOEwxb1JoRm1GMHpXWWdqWktJYllyaWdPN09VeDZmM2pjMVRmV3NpNTFpbzhuLUctYmpIaHE0RGZueWg3X1ozalpCSzFLaWhaajhuN2hrb0s5a2FZRjRseGFyaDVkd0ZwLUpTTENJVGw0RGdUQ2FneTBiQ1FBSkV0S1VoYnFyTUl3Mzdhc1VpRFotd0U5c19DU1BRSGhEZG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-22 15:15:55"
-        },
-        {
-          "title": "台西文蛤遇極端氣候大量暴斃 立委劉建國邀專家勘災籲速啟救助並研發抗逆境蛤苗 - 蕃新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1acXdYQktqOFN6em94R0xlWVNJVHBlMlZXcHliQkhxbmRTN3JiOUNMaGtIVHlaVk5vcFp2Z3hkQ1M4Z3RiUlpnMU1BRGdTQ0tnZHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-22 14:35:00"
-        },
-        {
-          "title": "台灣中區綠領人才培育中心在雲科大揭牌 立委劉建國協助促成產官學攜手推動淨零轉型！ - 台灣華報",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Uem50ZTlPWXZ3b25OWTYxTW01dFJOdTk3OVpSYmM4d3JCSFdIc1VRbU9rejltS2U1bUUwZlBkUVNreHl1SWZpR3kxTER2am8zT0MzandlelE0UU4tRmlNQXNMVkRCNHdNX2lN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-20 23:04:45"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "劉建國會勘沿海四鄉鎮文蛤災損 漁業署允諾立即啟動救助程序 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNbFdfZjJaTU1HVERMcmxSbGUtNmVpZjMwXzVZa19FeWJYVFN4amt4S0dfNW92N294aDZwWG1mZ01pdndzS2Q1Nko5UjJZUzVSTGRPM1Y1UVZ3VGNOSHA1NTZXdDBOaU1HM2Z3OWk0emdsUFpMbHMyUVhtR3Z6ZzB5dG8tU1kwaGJOc2J6T1RZSE5DcE5ZMDd4eVJudkdKbUxDVGh0aHdLaG05TEtwMHM4TGVZNWJZWlRWTmY5SnBBMkZFSXUyajFkcWp6RkV4UmhWVjVhSUJHVDNPY1JNeEkxc0lOYUM3eVRTZkJYVm5EdUFOZU9RbXhZbkxFYnlMbmxMWmhsemYxX0tpZDdwOS1JSTV0enZMTVNpel9LRGMtcW83Q0dXMG9uaFFWamdzYkNfbXdGdjhrZU9qM0g5RWI5eGRmWFBiY0NUbWhzeGwyNnVfQmhQZXFoOTFuY2JuOHZyTFZHVFpTWTBfZTdGYTNjYmU5YmxRdEZ2Q19ZMmxfcnVaNk9FZmJmekZJLVk0dEVVNGFDb0JqVkc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-24 17:39:43"
+      },
+      {
+        "title": "雲林沿海文蛤災損嚴重 劉建國奔走現勘爭取救助獲中央允諾 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNeEE2bkVhbm54MU9jYlRDYWh3WjY2Q2l5T2tMSzZQVFQyZGNTMmdvWER4UFJQRFdZSVVIODR6UUxOTUhPRDczVFpIbmZjUU9XeXdqQ2s2ODhRWTRCT3BFWGZQMXIxOXZZSEEydXNSOXRRT1RiUVJ0MlZvc2JrS3FJYnY1NGM4eXFmUEh1ZEZBYVo5elpEb3N4NzhkTFQ4cE5rc1FKUmg5WkN1MEJoWTRtbXlyLVNqQTRyb0VLc0VPV0xKVEJfUUFJNlFmY1JFQ1lYNmVYcXV6ZDJyLXBmXzlFdHprdDQySTJYNW5HYW5OX0RjVlVLc1VFeDJLUktXSjN4UFh5YWRtUEM3UEtuRVduazNJanE5SHhOTlBqejMtb1QxelhxMHR3emt1OWVzOVkxS1pHVmplRVk4alRKRUN3V0NhWTlLWVd5NThBTDlPR1dpcERXTkZLSG9DTVRXdmoxOW9xZ1RveFZjTkxhRmJ3VHpnV3dabDhRdlF2OE1FUzdNMHpHU25aY0tWZmQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-24 17:19:39"
+      },
+      {
+        "title": "雲林文蛤大量暴斃災情慘重 劉建國促中央火速啟動救助 - 政府消息新聞 - PChome Online 新聞 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3dVcDlVWEFwWmlaSlplRFFJdU5xS0MxRHNTTkEteTFfX21NaTFfZ2dLZHFzcDh4Rl9OTlpqdWFLRXlnWGlVdGtWcHVlZVZMZEVWNDlvcVA0dnlLSDUzV2dFV0hDcFlVYV8xV2dqNlY2WTV4aE9fY1hRVHFzQ2dkRlE4ay1OT3Y4Z3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-24 15:56:13"
+      },
+      {
+        "title": "立委劉建國會勘雲林沿海四鄉鎮文蛤災損 漁業署允諾立即啟動救助程序 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQUpLMmtlYk9xYlhYZ1RLTGd4czdnVW54Mmc3Qi1JbWhXNHlFaVFZYXpOakt3dWt5d3lkbWJCemlZaEJzZ0NUQ245Mlk4c0tnT3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-24 14:38:00"
+      }
+    ],
     "facebook": [
       {
         "title": "【建國爭取有成！落花生災害莢補助正式啟動，保障農民與食安！】 各位鄉親，特別是我們雲林種植花生的農民朋友們，大家辛苦了！前陣子的豪雨，讓我們的落花生受損嚴重，建國知道大家的心血泡湯，心裡非常著急。 為此，建國特別於今年5月16日，邀請 #陳駿季 部長 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMisAhBVV95cUxQVzNCekpsZGhxcTl6VHpIaU5pdVAxanNELUc2dnlwOGx6NXFrQ3ZzNlFrYXFHMDZfYU9xOEtDaEtvUnlLMmI4ak5kOVdiYy1CWkRhX1dKeEQ3cmRvRi1Sdk9PVkUtQkNUbTRCSENvOHZib1hpVnRJdXY0UUxmVnc4NzNRb1NwWTM0QWEzTnNDWXVzdFJQdGxaYm1RbjNtc1FOaDhTelhBQVZEYjlHTE8zLVRIV0pGNzdNMVpEdXZ4Q2hBeDduU01GUDlGTGxXeHFCR0FESTU2Z2g1R3dkeFFKYTVseDBiT2N1NmNzOHVMNWRleFJ1ekkzWG9SN2ZNbXU5ejU0RVdFUzhfbndpNkF1Mk5XVjFzLXdOS08zbzVTUGhZQXAxaWgyWDV6NGtrOVFOMTF6YjJrQnZZdUhfQzZhZmFyejg0ZFp5N2k1YWoyZlJ3cDVmUGVWcmQ2bEdVcmtFcV9LaUVjTmVJY25tYnkwUkdCLUt4eDJyQ2RsZW9pOFBsSjJ0blJMRzd5U0o2YnlLVE41Q2lwMzNUM0lXZmRyZ2dSRlFlVWJvdnM2ZjJ5R19KOFBMN09PbTg5UVNmY1lNbTlOYnVFME5GREs0SW1ZYVBkS3ZlZnIxdi1kdzR2cXhwUXZrUHpqVFlBTnBfWmlyaTRfWW9vYnNDRUhNUWdzUVpLSmZiZnVSR3JfeVBWRE42eWxISHhFYUJLcllpbmhjWFVwcnpxNmg4Y3k1RlNwQlpfTFlRM3hXMlRUZ2VfVFJ4YXRMRlFFQkgyRnlwMjhRa1pTZ1dzNDY2SnR6MVRQWXRReGpMdjFWZGVYVWdJM1ItcWZ3ZjdWMERiYlo4Z281V0YtdldadkxHZF84TE13VmhjeWhSaDBIM0dYYV9UbGdwNlpPOWswTlBlQ1gwSFJWN2JwVzBnOGh3SWdvcXJOT0g0YlJreGV1NEVQeV82X25QMUx5MmtUd1QtazJIMWM5YmMxRTFFTHhTdTMyVDBrVEhNM3hRNDB4NVJNYURKd0xkeHVkTVZHWG4ySXhLZ1NZZHdOUzdPRUpiTlhQckhPSXdSaXhINXBua2Q4ZXZyelViU0VVVTgxNkQ5TlRIaGVuN29BWEQzdjZqOFJoMmRuVC1CMzFrbTk4cElobWVYbVlsZ2lvSnc4b2FGZXMzeHVpSnpkRmhhWC1BX0ZrMHlpbEMta2ctTkxOWVBsN0xBSkVVZUJtSFRWMmlGMVdrdF9yMVVNTUxBWkVJQ0gwS0hOLW9oLWFiVUZ1QjZ2UmxCUTcyVzhCNDVNREhyMDFYQkhqbjFZek9ZV1o5azBTQW5VN0VKQ3EzeDJYMlFMa3RUQnA2TWhfNTM5MW9VaDJnQ2ZJM2U2VmlwMFN4R21iOU5EeXVxMUdOcGdNeWFDVlZONmNxXzZrVTNWeXg2djRuUGlz",
         "time": "2026-06-24 16:01:57"
-      }
-    ],
-    "news": [
-      {
-        "title": "立委劉建國會勘雲林沿海四鄉鎮文蛤災損 漁業署允諾立即啟動救助程序 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQUpLMmtlYk9xYlhYZ1RLTGd4czdnVW54Mmc3Qi1JbWhXNHlFaVFZYXpOakt3dWt5d3lkbWJCemlZaEJzZ0NUQ245Mlk4c0tnT3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-24 14:38:00"
       }
     ],
     "youtube": [
@@ -1075,6 +1151,21 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "劉建國會勘沿海四鄉鎮文蛤災損 漁業署允諾立即啟動救助程序 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNbFdfZjJaTU1HVERMcmxSbGUtNmVpZjMwXzVZa19FeWJYVFN4amt4S0dfNW92N294aDZwWG1mZ01pdndzS2Q1Nko5UjJZUzVSTGRPM1Y1UVZ3VGNOSHA1NTZXdDBOaU1HM2Z3OWk0emdsUFpMbHMyUVhtR3Z6ZzB5dG8tU1kwaGJOc2J6T1RZSE5DcE5ZMDd4eVJudkdKbUxDVGh0aHdLaG05TEtwMHM4TGVZNWJZWlRWTmY5SnBBMkZFSXUyajFkcWp6RkV4UmhWVjVhSUJHVDNPY1JNeEkxc0lOYUM3eVRTZkJYVm5EdUFOZU9RbXhZbkxFYnlMbmxMWmhsemYxX0tpZDdwOS1JSTV0enZMTVNpel9LRGMtcW83Q0dXMG9uaFFWamdzYkNfbXdGdjhrZU9qM0g5RWI5eGRmWFBiY0NUbWhzeGwyNnVfQmhQZXFoOTFuY2JuOHZyTFZHVFpTWTBfZTdGYTNjYmU5YmxRdEZ2Q19ZMmxfcnVaNk9FZmJmekZJLVk0dEVVNGFDb0JqVkc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-24 17:39:43"
+      },
+      {
+        "title": "雲林沿海文蛤災損嚴重 劉建國奔走現勘爭取救助獲中央允諾 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNeEE2bkVhbm54MU9jYlRDYWh3WjY2Q2l5T2tMSzZQVFQyZGNTMmdvWER4UFJQRFdZSVVIODR6UUxOTUhPRDczVFpIbmZjUU9XeXdqQ2s2ODhRWTRCT3BFWGZQMXIxOXZZSEEydXNSOXRRT1RiUVJ0MlZvc2JrS3FJYnY1NGM4eXFmUEh1ZEZBYVo5elpEb3N4NzhkTFQ4cE5rc1FKUmg5WkN1MEJoWTRtbXlyLVNqQTRyb0VLc0VPV0xKVEJfUUFJNlFmY1JFQ1lYNmVYcXV6ZDJyLXBmXzlFdHprdDQySTJYNW5HYW5OX0RjVlVLc1VFeDJLUktXSjN4UFh5YWRtUEM3UEtuRVduazNJanE5SHhOTlBqejMtb1QxelhxMHR3emt1OWVzOVkxS1pHVmplRVk4alRKRUN3V0NhWTlLWVd5NThBTDlPR1dpcERXTkZLSG9DTVRXdmoxOW9xZ1RveFZjTkxhRmJ3VHpnV3dabDhRdlF2OE1FUzdNMHpHU25aY0tWZmQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-24 17:19:39"
+      },
+      {
+        "title": "雲林文蛤大量暴斃災情慘重 劉建國促中央火速啟動救助 - 政府消息新聞 - PChome Online 新聞 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3dVcDlVWEFwWmlaSlplRFFJdU5xS0MxRHNTTkEteTFfX21NaTFfZ2dLZHFzcDh4Rl9OTlpqdWFLRXlnWGlVdGtWcHVlZVZMZEVWNDlvcVA0dnlLSDUzV2dFV0hDcFlVYV8xV2dqNlY2WTV4aE9fY1hRVHFzQ2dkRlE4ay1OT3Y4Z3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-24 15:56:13"
+      },
       {
         "title": "立委劉建國會勘雲林沿海四鄉鎮文蛤災損 漁業署允諾立即啟動救助程序 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQUpLMmtlYk9xYlhYZ1RLTGd4czdnVW54Mmc3Qi1JbWhXNHlFaVFZYXpOakt3dWt5d3lkbWJCemlZaEJzZ0NUQ245Mlk4c0tnT3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1259,21 +1350,6 @@
         "title": "粽香傳愛送暖弱勢 民進黨雲林縣黨部攜手劉建國捐贈五千顆肉粽 - 臺灣導報",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zN0xvbDlPbjBqMWYzRFFTZ2hHMFBCSHp2d3UwdGE3Q0dDVTlBdGxVS1AyQkZ3d193eU5xNHNHeFJUaThmTDhUSTc0SzJhR3pnckJB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-19 17:35:42"
-      },
-      {
-        "title": "節慶溫暖與社會關懷 民進黨雲林縣黨部攜 x 立委劉建國服務處捐贈5000顆肉粽 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNTlBkU0hESWxsaUtDMWJYME8tVmVQR3Q5cnlVMUFNTllQSndKa1JJeTdERW13XzBFSVpsdzVyZHM0dHZlbmgzU0VQeXliZG1zck8ycHU3RHhvcVlfTm1pVjAyNjZvcDQyNmZDVVFZbDJ2TmtZWGZpRmJVbEI3d2ZYVGJkQzhTdmRvUWdXR0IwUU9abUFNdmF3WWFsc1VFMENiUzNrZW9OOWRzRkxWUFVzOXlvVXY0T3ZHaUdZek53VDFOU19Ma3lNa0FYaHVmdTFreGxmb0N1VUpScWhqR09IOThiSUlMSEtJb0g2dnNNbXNCU01haElBeE5fdU1TQlR6ZEJxT2p2Wmg0WGRtdXZtSXNCclBQYzJYb3pSd29NUXRxZ0dDWTlURDVpNnVJVi1rZmJvUEExX21kSTN2V2FLd1g4cTJIcE5VblVPN0dXYW1BeUFEMFMyeGs4SDhVUGxpQWFGc3ZTaDkzbFlfZm5oTWhQX0FncExxU0pUcnZiNlhJeDItSGd6dWo5YlZMZU5IV3hOTVdHeFJobTdnQ0RoQWlURG4tUHd3SlprMGlxbmVfc1BEaFQ5YVFfMGttb3VjSWFacG0xU3NPTjhmMGFPRFBR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-19 16:55:32"
-      },
-      {
-        "title": "民進黨雲林縣黨部攜手立委劉建國服務處捐近五千顆肉粽 傳遞節慶溫暖與社會關懷 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxNaGdVQjloOUN4ZFliczZNSmR0R2loN3ZlLVdOZ19WVEltUmdub2gzRE90ODN4NjhRYWVXWWJwSnZVU29yMk1ZWHhCM0xmdGI0ZkZtUzhZb282WGY0MTdhdlgxUVRONWhtb1RMbWRnMXNLSzRITHVHX2F2UmpKalcybGdFenBBd2VNem1tQWtXc3EtOGx1VlA1Mm5hdVJ5bi1JN0Q0eHUtSjd4Njlzd3lWTlYzNTlBUXBtTTJpc2pvSnEzVVA1bGJHQlJuc1VwVi1yM055bFhSaTV3alJyZFBrajYtTUVtZHJmajY0MnZNN05jdUZOZXAwLURtWWliWk4wXzlsckpTejNwbG42MTNfa1R6ZkVOSGdxUHBJUEtHYTRacWl1cWwwS2E4Z3F1S2EzMmNYbGZZbnZTY2dxM1o2OWwzTWg0Z0NYT0w3Vk5TeWhteXFBejhuYy1SOWYwN1FmOFZocmE3STBRWlRvOUYzMXdLVC16TGpsTElXbThHY1pseHVMSGtuUGZoNEZ2X2s3QXVlZ3g2YXI0UG9ScktaT21TQkdNWFlJaDVvNHVjU3VnaVZqR0laZFd1ZTZMVkxvN25VbEtyeV9ZbjZESkZFeFE2Tl96TTV6ajJGaGJuUU9xOGdjejZ2NzE5VTdhY3lFcmdYOEFleVl0bHEzTDBVUHNReVY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-19 16:48:32"
-      },
-      {
-        "title": "改善育兒環境 雲林立委張嘉郡主張公幼免費、私幼補助1.5萬元！ - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rSGJtWmVnblAyOWlRN19XS1g3cHVsVmhielFwbFg1eXV2WFpuUDFqdG00emZGS1k0ZWpzYUxKbXFMUF93OWlxUlBnRlIxYU5HV1k0WmtBdTBuY3JBSWdrb0N5RHFmVnFpeW9N?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-19 16:36:11"
       }
     ],
     "facebook": [
@@ -1416,10 +1492,31 @@
     "hour": [],
     "day": [
       {
+        "title": "劉建國會勘沿海四鄉鎮文蛤災損 漁業署允諾立即啟動救助程序 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNbFdfZjJaTU1HVERMcmxSbGUtNmVpZjMwXzVZa19FeWJYVFN4amt4S0dfNW92N294aDZwWG1mZ01pdndzS2Q1Nko5UjJZUzVSTGRPM1Y1UVZ3VGNOSHA1NTZXdDBOaU1HM2Z3OWk0emdsUFpMbHMyUVhtR3Z6ZzB5dG8tU1kwaGJOc2J6T1RZSE5DcE5ZMDd4eVJudkdKbUxDVGh0aHdLaG05TEtwMHM4TGVZNWJZWlRWTmY5SnBBMkZFSXUyajFkcWp6RkV4UmhWVjVhSUJHVDNPY1JNeEkxc0lOYUM3eVRTZkJYVm5EdUFOZU9RbXhZbkxFYnlMbmxMWmhsemYxX0tpZDdwOS1JSTV0enZMTVNpel9LRGMtcW83Q0dXMG9uaFFWamdzYkNfbXdGdjhrZU9qM0g5RWI5eGRmWFBiY0NUbWhzeGwyNnVfQmhQZXFoOTFuY2JuOHZyTFZHVFpTWTBfZTdGYTNjYmU5YmxRdEZ2Q19ZMmxfcnVaNk9FZmJmekZJLVk0dEVVNGFDb0JqVkc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-24 17:39:43",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "雲林沿海文蛤災損嚴重 劉建國奔走現勘爭取救助獲中央允諾 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNeEE2bkVhbm54MU9jYlRDYWh3WjY2Q2l5T2tMSzZQVFQyZGNTMmdvWER4UFJQRFdZSVVIODR6UUxOTUhPRDczVFpIbmZjUU9XeXdqQ2s2ODhRWTRCT3BFWGZQMXIxOXZZSEEydXNSOXRRT1RiUVJ0MlZvc2JrS3FJYnY1NGM4eXFmUEh1ZEZBYVo5elpEb3N4NzhkTFQ4cE5rc1FKUmg5WkN1MEJoWTRtbXlyLVNqQTRyb0VLc0VPV0xKVEJfUUFJNlFmY1JFQ1lYNmVYcXV6ZDJyLXBmXzlFdHprdDQySTJYNW5HYW5OX0RjVlVLc1VFeDJLUktXSjN4UFh5YWRtUEM3UEtuRVduazNJanE5SHhOTlBqejMtb1QxelhxMHR3emt1OWVzOVkxS1pHVmplRVk4alRKRUN3V0NhWTlLWVd5NThBTDlPR1dpcERXTkZLSG9DTVRXdmoxOW9xZ1RveFZjTkxhRmJ3VHpnV3dabDhRdlF2OE1FUzdNMHpHU25aY0tWZmQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-24 17:19:39",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "【建國爭取有成！落花生災害莢補助正式啟動，保障農民與食安！】 各位鄉親，特別是我們雲林種植花生的農民朋友們，大家辛苦了！前陣子的豪雨，讓我們的落花生受損嚴重，建國知道大家的心血泡湯，心裡非常著急。 為此，建國特別於今年5月16日，邀請 #陳駿季 部長 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMisAhBVV95cUxQVzNCekpsZGhxcTl6VHpIaU5pdVAxanNELUc2dnlwOGx6NXFrQ3ZzNlFrYXFHMDZfYU9xOEtDaEtvUnlLMmI4ak5kOVdiYy1CWkRhX1dKeEQ3cmRvRi1Sdk9PVkUtQkNUbTRCSENvOHZib1hpVnRJdXY0UUxmVnc4NzNRb1NwWTM0QWEzTnNDWXVzdFJQdGxaYm1RbjNtc1FOaDhTelhBQVZEYjlHTE8zLVRIV0pGNzdNMVpEdXZ4Q2hBeDduU01GUDlGTGxXeHFCR0FESTU2Z2g1R3dkeFFKYTVseDBiT2N1NmNzOHVMNWRleFJ1ekkzWG9SN2ZNbXU5ejU0RVdFUzhfbndpNkF1Mk5XVjFzLXdOS08zbzVTUGhZQXAxaWgyWDV6NGtrOVFOMTF6YjJrQnZZdUhfQzZhZmFyejg0ZFp5N2k1YWoyZlJ3cDVmUGVWcmQ2bEdVcmtFcV9LaUVjTmVJY25tYnkwUkdCLUt4eDJyQ2RsZW9pOFBsSjJ0blJMRzd5U0o2YnlLVE41Q2lwMzNUM0lXZmRyZ2dSRlFlVWJvdnM2ZjJ5R19KOFBMN09PbTg5UVNmY1lNbTlOYnVFME5GREs0SW1ZYVBkS3ZlZnIxdi1kdzR2cXhwUXZrUHpqVFlBTnBfWmlyaTRfWW9vYnNDRUhNUWdzUVpLSmZiZnVSR3JfeVBWRE42eWxISHhFYUJLcllpbmhjWFVwcnpxNmg4Y3k1RlNwQlpfTFlRM3hXMlRUZ2VfVFJ4YXRMRlFFQkgyRnlwMjhRa1pTZ1dzNDY2SnR6MVRQWXRReGpMdjFWZGVYVWdJM1ItcWZ3ZjdWMERiYlo4Z281V0YtdldadkxHZF84TE13VmhjeWhSaDBIM0dYYV9UbGdwNlpPOWswTlBlQ1gwSFJWN2JwVzBnOGh3SWdvcXJOT0g0YlJreGV1NEVQeV82X25QMUx5MmtUd1QtazJIMWM5YmMxRTFFTHhTdTMyVDBrVEhNM3hRNDB4NVJNYURKd0xkeHVkTVZHWG4ySXhLZ1NZZHdOUzdPRUpiTlhQckhPSXdSaXhINXBua2Q4ZXZyelViU0VVVTgxNkQ5TlRIaGVuN29BWEQzdjZqOFJoMmRuVC1CMzFrbTk4cElobWVYbVlsZ2lvSnc4b2FGZXMzeHVpSnpkRmhhWC1BX0ZrMHlpbEMta2ctTkxOWVBsN0xBSkVVZUJtSFRWMmlGMVdrdF9yMVVNTUxBWkVJQ0gwS0hOLW9oLWFiVUZ1QjZ2UmxCUTcyVzhCNDVNREhyMDFYQkhqbjFZek9ZV1o5azBTQW5VN0VKQ3EzeDJYMlFMa3RUQnA2TWhfNTM5MW9VaDJnQ2ZJM2U2VmlwMFN4R21iOU5EeXVxMUdOcGdNeWFDVlZONmNxXzZrVTNWeXg2djRuUGlz",
         "time": "2026-06-24 16:01:57",
         "platform": "facebook",
+        "risk": "綠"
+      },
+      {
+        "title": "雲林文蛤大量暴斃災情慘重 劉建國促中央火速啟動救助 - 政府消息新聞 - PChome Online 新聞 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3dVcDlVWEFwWmlaSlplRFFJdU5xS0MxRHNTTkEteTFfX21NaTFfZ2dLZHFzcDh4Rl9OTlpqdWFLRXlnWGlVdGtWcHVlZVZMZEVWNDlvcVA0dnlLSDUzV2dFV0hDcFlVYV8xV2dqNlY2WTV4aE9fY1hRVHFzQ2dkRlE4ay1OT3Y4Z3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-24 15:56:13",
+        "platform": "news",
         "risk": "綠"
       },
       {
@@ -1442,7 +1539,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 2
+        "count": 4
       },
       {
         "name": "虎尾",
@@ -1452,7 +1549,7 @@
     "groups": [
       {
         "name": "農業族群",
-        "count": 2
+        "count": 5
       }
     ]
   }
