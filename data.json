@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-06-27T07:05:41.450985+00:00",
+  "generated_at": "2026-06-27T07:21:25.768981+00:00",
   "metrics": {
-    "total_24h": 9,
-    "prev_24h": 19,
-    "growth_pct": -52.63,
-    "news_24h": 3,
+    "total_24h": 13,
+    "prev_24h": 18,
+    "growth_pct": -27.78,
+    "news_24h": 6,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 89,
+    "total": 93,
     "prev": 184,
-    "growth_pct": -51.63,
-    "news": 53,
+    "growth_pct": -49.46,
+    "news": 56,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -27,12 +27,12 @@
   },
   "by_platform": [
     {
-      "platform": "facebook",
-      "count": 4
+      "platform": "news",
+      "count": 6
     },
     {
-      "platform": "news",
-      "count": 3
+      "platform": "facebook",
+      "count": 5
     },
     {
       "platform": "youtube",
@@ -42,11 +42,11 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 53
+      "count": 56
     },
     {
       "platform": "facebook",
-      "count": 29
+      "count": 30
     },
     {
       "platform": "youtube",
@@ -72,11 +72,19 @@
     },
     {
       "hour": "2026-06-26 20:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-06-26 21:00",
       "count": 3
+    },
+    {
+      "hour": "2026-06-27 13:00",
+      "count": 2
+    },
+    {
+      "hour": "2026-06-27 15:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -250,21 +258,44 @@
     },
     {
       "hour": "2026-06-26 20:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-06-26 21:00",
       "count": 3
+    },
+    {
+      "hour": "2026-06-27 13:00",
+      "count": 2
+    },
+    {
+      "hour": "2026-06-27 15:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 3
+      "count": 6
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "雲林豪雨菜農成重災戶 張嘉郡：協助爭取補助、爭預算改善排水灌溉系統 - FTNN 新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIUXhnQzlyRWRmd0xZWHNWOEpkUlpMNmZlNjN4SWdjb3ZIWmtzUENvNU5leGM5VlZTWkY4eWszRklEY2x2N291bm1Cbw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-27 15:05:00"
+      },
+      {
+        "title": "豪雨重創雲林菜田！農民搶收仍損7、8成　張嘉郡：協助爭取補助 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56S0hUU3F6TnVoa3B0ZWpqSjZGV0VDd2J4WndTU2dyeXJTT0RLNVExeWk0QjktaW9SNGs1YjZFWG5FMFVEd0VzUnZiTGfSAVJBVV95cUxNYXhvRW1ncXp3cWFJWlU0OFI0ZjBsMkxZRGFWTERCc2psbVBKNWpGWmc2Q0VWcnlGbmZWWW1Yc0VMYm5NZnR0RHJxcnVQTVVWSnln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-27 13:55:01"
+      },
+      {
+        "title": "偕張麗善赴二崙勘災 張嘉郡助爭取農損補助、改善排水 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOQk52OTJGNVpTOHVYYU5oM09SQ3ZhTzhRMnkzYXBfRnlZMF9ENnlhYmNkSG5PNjFuQTdyZExya3hNRldWMmpPSFItQkNiMjhUZmZZNWRoOHFOX2JROVFpQWVDOEgxbHVZbGd4cFYzWFlZTGotdTlIT011R1F1SnN4eUkwYnBjdjJwaFJYeUhVVkxrVXJzRGhJeXVxVFNmNHRiUzVDOFlTMlg0cjMtRXhiNjh2cVZEN2w1bFNWTlRxMHduT0JVWTJBWkV2dks1MlNkVkl6UWVkOHZtOU9jMVdTV3Jzb2N2R2VjOS1hcG1OU2dybDhxcEZrTjNTaFpHWkNpSENvMEFWSEJiZGUtc1R0QmdicHdENHg2Z3RvVWszUDBKVXVnUWRNSE5vUk9WanZLNG1aV3JCT0NSdGlrWWVxc0dWd3hBZ3JWRk1Qa2JVak5vR2ZtZXJ1cFJERGNHOW9NQWRGOFlaUi03QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-27 13:53:16"
+      },
       {
         "title": "豪雨壓境取消接待張嘉郡 盧秀燕趕赴抽水站視察 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRC10VmNQNlJRQldtYXlSUFItd2VLMHYtRER6UERoeUpfRHE4LWtxb0N3Rng2TU9xY2VmbFlvcVV1OWpzdTlNYkVkb3pNdThzdU1KRlp1X2dwaXNlLWIwVUZqamt1ZXp3Y3fSAW9BVV95cUxOSUlGRThXUkZEakZnZ25fVnF4M21jVkNCRWUzOUowZlRNcUE3elN2YkhCdXp2VlhKVUtrQnlsb2RsNWNFWktkZWUzeWRPcE04TkZtRW9KQjJnTG1JSzVXT1FoWUUwZU0zU0JpMzBlWDg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -285,11 +316,26 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 3
+      "count": 6
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "雲林豪雨菜農成重災戶 張嘉郡：協助爭取補助、爭預算改善排水灌溉系統 - FTNN 新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIUXhnQzlyRWRmd0xZWHNWOEpkUlpMNmZlNjN4SWdjb3ZIWmtzUENvNU5leGM5VlZTWkY4eWszRklEY2x2N291bm1Cbw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-27 15:05:00"
+      },
+      {
+        "title": "豪雨重創雲林菜田！農民搶收仍損7、8成　張嘉郡：協助爭取補助 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56S0hUU3F6TnVoa3B0ZWpqSjZGV0VDd2J4WndTU2dyeXJTT0RLNVExeWk0QjktaW9SNGs1YjZFWG5FMFVEd0VzUnZiTGfSAVJBVV95cUxNYXhvRW1ncXp3cWFJWlU0OFI0ZjBsMkxZRGFWTERCc2psbVBKNWpGWmc2Q0VWcnlGbmZWWW1Yc0VMYm5NZnR0RHJxcnVQTVVWSnln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-27 13:55:01"
+      },
+      {
+        "title": "偕張麗善赴二崙勘災 張嘉郡助爭取農損補助、改善排水 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOQk52OTJGNVpTOHVYYU5oM09SQ3ZhTzhRMnkzYXBfRnlZMF9ENnlhYmNkSG5PNjFuQTdyZExya3hNRldWMmpPSFItQkNiMjhUZmZZNWRoOHFOX2JROVFpQWVDOEgxbHVZbGd4cFYzWFlZTGotdTlIT011R1F1SnN4eUkwYnBjdjJwaFJYeUhVVkxrVXJzRGhJeXVxVFNmNHRiUzVDOFlTMlg0cjMtRXhiNjh2cVZEN2w1bFNWTlRxMHduT0JVWTJBWkV2dks1MlNkVkl6UWVkOHZtOU9jMVdTV3Jzb2N2R2VjOS1hcG1OU2dybDhxcEZrTjNTaFpHWkNpSENvMEFWSEJiZGUtc1R0QmdicHdENHg2Z3RvVWszUDBKVXVnUWRNSE5vUk9WanZLNG1aV3JCT0NSdGlrWWVxc0dWd3hBZ3JWRk1Qa2JVak5vR2ZtZXJ1cFJERGNHOW9NQWRGOFlaUi03QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-27 13:53:16"
+      },
       {
         "title": "豪雨壓境取消接待張嘉郡 盧秀燕趕赴抽水站視察 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRC10VmNQNlJRQldtYXlSUFItd2VLMHYtRER6UERoeUpfRHE4LWtxb0N3Rng2TU9xY2VmbFlvcVV1OWpzdTlNYkVkb3pNdThzdU1KRlp1X2dwaXNlLWIwVUZqamt1ZXp3Y3fSAW9BVV95cUxOSUlGRThXUkZEakZnZ25fVnF4M21jVkNCRWUzOUowZlRNcUE3elN2YkhCdXp2VlhKVUtrQnlsb2RsNWNFWktkZWUzeWRPcE04TkZtRW9KQjJnTG1JSzVXT1FoWUUwZU0zU0JpMzBlWDg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -308,14 +354,29 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 1,
+    "張嘉郡": 4,
     "劉建國": 2
   },
   "mention_compare_7d": {
-    "張嘉郡": 20,
+    "張嘉郡": 23,
     "劉建國": 52
   },
   "top_news": [
+    {
+      "title": "雲林豪雨菜農成重災戶 張嘉郡：協助爭取補助、爭預算改善排水灌溉系統 - FTNN 新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIUXhnQzlyRWRmd0xZWHNWOEpkUlpMNmZlNjN4SWdjb3ZIWmtzUENvNU5leGM5VlZTWkY4eWszRklEY2x2N291bm1Cbw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-27 15:05:00"
+    },
+    {
+      "title": "豪雨重創雲林菜田！農民搶收仍損7、8成　張嘉郡：協助爭取補助 - NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56S0hUU3F6TnVoa3B0ZWpqSjZGV0VDd2J4WndTU2dyeXJTT0RLNVExeWk0QjktaW9SNGs1YjZFWG5FMFVEd0VzUnZiTGfSAVJBVV95cUxNYXhvRW1ncXp3cWFJWlU0OFI0ZjBsMkxZRGFWTERCc2psbVBKNWpGWmc2Q0VWcnlGbmZWWW1Yc0VMYm5NZnR0RHJxcnVQTVVWSnln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-27 13:55:01"
+    },
+    {
+      "title": "偕張麗善赴二崙勘災 張嘉郡助爭取農損補助、改善排水 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOQk52OTJGNVpTOHVYYU5oM09SQ3ZhTzhRMnkzYXBfRnlZMF9ENnlhYmNkSG5PNjFuQTdyZExya3hNRldWMmpPSFItQkNiMjhUZmZZNWRoOHFOX2JROVFpQWVDOEgxbHVZbGd4cFYzWFlZTGotdTlIT011R1F1SnN4eUkwYnBjdjJwaFJYeUhVVkxrVXJzRGhJeXVxVFNmNHRiUzVDOFlTMlg0cjMtRXhiNjh2cVZEN2w1bFNWTlRxMHduT0JVWTJBWkV2dks1MlNkVkl6UWVkOHZtOU9jMVdTV3Jzb2N2R2VjOS1hcG1OU2dybDhxcEZrTjNTaFpHWkNpSENvMEFWSEJiZGUtc1R0QmdicHdENHg2Z3RvVWszUDBKVXVnUWRNSE5vUk9WanZLNG1aV3JCT0NSdGlrWWVxc0dWd3hBZ3JWRk1Qa2JVak5vR2ZtZXJ1cFJERGNHOW9NQWRGOFlaUi03QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-27 13:53:16"
+    },
     {
       "title": "豪雨壓境取消接待張嘉郡 盧秀燕趕赴抽水站視察 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRC10VmNQNlJRQldtYXlSUFItd2VLMHYtRER6UERoeUpfRHE4LWtxb0N3Rng2TU9xY2VmbFlvcVV1OWpzdTlNYkVkb3pNdThzdU1KRlp1X2dwaXNlLWIwVUZqamt1ZXp3Y3fSAW9BVV95cUxOSUlGRThXUkZEakZnZ25fVnF4M21jVkNCRWUzOUowZlRNcUE3elN2YkhCdXp2VlhKVUtrQnlsb2RsNWNFWktkZWUzeWRPcE04TkZtRW9KQjJnTG1JSzVXT1FoWUUwZU0zU0JpMzBlWDg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -333,6 +394,21 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "雲林豪雨菜農成重災戶 張嘉郡：協助爭取補助、爭預算改善排水灌溉系統 - FTNN 新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIUXhnQzlyRWRmd0xZWHNWOEpkUlpMNmZlNjN4SWdjb3ZIWmtzUENvNU5leGM5VlZTWkY4eWszRklEY2x2N291bm1Cbw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-27 15:05:00"
+    },
+    {
+      "title": "豪雨重創雲林菜田！農民搶收仍損7、8成　張嘉郡：協助爭取補助 - NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56S0hUU3F6TnVoa3B0ZWpqSjZGV0VDd2J4WndTU2dyeXJTT0RLNVExeWk0QjktaW9SNGs1YjZFWG5FMFVEd0VzUnZiTGfSAVJBVV95cUxNYXhvRW1ncXp3cWFJWlU0OFI0ZjBsMkxZRGFWTERCc2psbVBKNWpGWmc2Q0VWcnlGbmZWWW1Yc0VMYm5NZnR0RHJxcnVQTVVWSnln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-27 13:55:01"
+    },
+    {
+      "title": "偕張麗善赴二崙勘災 張嘉郡助爭取農損補助、改善排水 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOQk52OTJGNVpTOHVYYU5oM09SQ3ZhTzhRMnkzYXBfRnlZMF9ENnlhYmNkSG5PNjFuQTdyZExya3hNRldWMmpPSFItQkNiMjhUZmZZNWRoOHFOX2JROVFpQWVDOEgxbHVZbGd4cFYzWFlZTGotdTlIT011R1F1SnN4eUkwYnBjdjJwaFJYeUhVVkxrVXJzRGhJeXVxVFNmNHRiUzVDOFlTMlg0cjMtRXhiNjh2cVZEN2w1bFNWTlRxMHduT0JVWTJBWkV2dks1MlNkVkl6UWVkOHZtOU9jMVdTV3Jzb2N2R2VjOS1hcG1OU2dybDhxcEZrTjNTaFpHWkNpSENvMEFWSEJiZGUtc1R0QmdicHdENHg2Z3RvVWszUDBKVXVnUWRNSE5vUk9WanZLNG1aV3JCT0NSdGlrWWVxc0dWd3hBZ3JWRk1Qa2JVak5vR2ZtZXJ1cFJERGNHOW9NQWRGOFlaUi03QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-27 13:53:16"
+    },
     {
       "title": "豪雨壓境取消接待張嘉郡 盧秀燕趕赴抽水站視察 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRC10VmNQNlJRQldtYXlSUFItd2VLMHYtRER6UERoeUpfRHE4LWtxb0N3Rng2TU9xY2VmbFlvcVV1OWpzdTlNYkVkb3pNdThzdU1KRlp1X2dwaXNlLWIwVUZqamt1ZXp3Y3fSAW9BVV95cUxOSUlGRThXUkZEakZnZ25fVnF4M21jVkNCRWUzOUowZlRNcUE3elN2YkhCdXp2VlhKVUtrQnlsb2RsNWNFWktkZWUzeWRPcE04TkZtRW9KQjJnTG1JSzVXT1FoWUUwZU0zU0JpMzBlWDg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -417,21 +493,6 @@
       "title": "劉建國會勘沿海四鄉鎮文蛤災損 漁業署允諾立即啟動救助程序 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNbFdfZjJaTU1HVERMcmxSbGUtNmVpZjMwXzVZa19FeWJYVFN4amt4S0dfNW92N294aDZwWG1mZ01pdndzS2Q1Nko5UjJZUzVSTGRPM1Y1UVZ3VGNOSHA1NTZXdDBOaU1HM2Z3OWk0emdsUFpMbHMyUVhtR3Z6ZzB5dG8tU1kwaGJOc2J6T1RZSE5DcE5ZMDd4eVJudkdKbUxDVGh0aHdLaG05TEtwMHM4TGVZNWJZWlRWTmY5SnBBMkZFSXUyajFkcWp6RkV4UmhWVjVhSUJHVDNPY1JNeEkxc0lOYUM3eVRTZkJYVm5EdUFOZU9RbXhZbkxFYnlMbmxMWmhsemYxX0tpZDdwOS1JSTV0enZMTVNpel9LRGMtcW83Q0dXMG9uaFFWamdzYkNfbXdGdjhrZU9qM0g5RWI5eGRmWFBiY0NUbWhzeGwyNnVfQmhQZXFoOTFuY2JuOHZyTFZHVFpTWTBfZTdGYTNjYmU5YmxRdEZ2Q19ZMmxfcnVaNk9FZmJmekZJLVk0dEVVNGFDb0JqVkc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-24 17:39:43"
-    },
-    {
-      "title": "雲林沿海文蛤災損嚴重 劉建國奔走現勘爭取救助獲中央允諾 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNeEE2bkVhbm54MU9jYlRDYWh3WjY2Q2l5T2tMSzZQVFQyZGNTMmdvWER4UFJQRFdZSVVIODR6UUxOTUhPRDczVFpIbmZjUU9XeXdqQ2s2ODhRWTRCT3BFWGZQMXIxOXZZSEEydXNSOXRRT1RiUVJ0MlZvc2JrS3FJYnY1NGM4eXFmUEh1ZEZBYVo5elpEb3N4NzhkTFQ4cE5rc1FKUmg5WkN1MEJoWTRtbXlyLVNqQTRyb0VLc0VPV0xKVEJfUUFJNlFmY1JFQ1lYNmVYcXV6ZDJyLXBmXzlFdHprdDQySTJYNW5HYW5OX0RjVlVLc1VFeDJLUktXSjN4UFh5YWRtUEM3UEtuRVduazNJanE5SHhOTlBqejMtb1QxelhxMHR3emt1OWVzOVkxS1pHVmplRVk4alRKRUN3V0NhWTlLWVd5NThBTDlPR1dpcERXTkZLSG9DTVRXdmoxOW9xZ1RveFZjTkxhRmJ3VHpnV3dabDhRdlF2OE1FUzdNMHpHU25aY0tWZmQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-24 17:19:39"
-    },
-    {
-      "title": "雲林沿海文蛤災損嚴重 劉建國奔走現勘爭取救助獲中央允諾 - 觀傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ONEtNQVc5NG9nbm8tN0s3aHBiUTZtcW5SMWxKekhLaXlYM0xOUXpGOVY0Q3hlN201aEtUU2dGNTRZTWtCcU5LMk5BeS1WellZMmZDSWN5RQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-24 17:02:21"
-    },
-    {
-      "title": "雲林文蛤大量暴斃災情慘重 劉建國促中央火速啟動救助 - 政府消息新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3dVcDlVWEFwWmlaSlplRFFJdU5xS0MxRHNTTkEteTFfX21NaTFfZ2dLZHFzcDh4Rl9OTlpqdWFLRXlnWGlVdGtWcHVlZVZMZEVWNDlvcVA0dnlLSDUzV2dFV0hDcFlVYV8xV2dqNlY2WTV4aE9fY1hRVHFzQ2dkRlE4ay1OT3Y4Z3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-24 15:56:13"
     }
   ],
   "latest_facebook_20": [
@@ -444,6 +505,11 @@
       "title": "榮耀海線 丁學忠 (@ding.ding0628) - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaVhIU2JhYkZuVVlPbGMxWDhyR0hCdF9vSjlScFp3cUxHUUlEazVLSVRYbWl3dWFHY1EyeHplNUlGd2VIak83NHItM3Z3UTBTZlFzQ3J0QW5OcFFLWF8zUFBtZTVLUTM1VUlPb0NRUEFaS05rWXJ6SkdwcllXSDlfZXU0M0s",
       "time": "2026-06-26 21:00:10"
+    },
+    {
+      "title": "榮耀海線 丁學忠 (@ding.ding0628) - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGVqV3NFTjVOeS1Kdjh4MXJXdHdaOUtTekpESGhPSjFMQmpoTWs5X21JcF9JcTNRZDhyQXdpdWRFQ2prSW5CcEdMUHBVMWVtMUFJSUFhbGtrOHJBMWpsTmFSV1lCNFpYMXhHNTdMdkJNTUx0SEJWckdrZDhnN1B3b0RvdW4",
+      "time": "2026-06-26 20:56:14"
     },
     {
       "title": "榮耀海線丁學忠(@ding.ding0628) - Mentions - facebook.com",
@@ -529,14 +595,24 @@
       "title": "#豪雨受損落花生補助啟動🥜 #農民朋友請注意📢 日前豪雨造成部分 #落花生 受損，在嘉郡與 榮耀海線 丁學忠 委員爭取下，農業部已啟動受損 #帶殼落花生災害莢補助作業，協助農民減輕損失。 📌補助對象 🔹豪雨造成受損之帶殼落花生 📌補助標準 🔹全批已無商品價值者 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi8AdBVV95cUxPdlp1cjhzTUMyM2lnYUY2MkJJR1JhbFBxcUFGVmJjaUdMYi0tZ3VnNm5jVVdraEZvRWc1cW9IcnNyalpmM1JQNkdVTWt5bVdMZHlrdzVSeThIVGpTSU5wTm5pd2ItZVh4REZTMDJPeGpEbUNlMnl4TXJrOTZ4UjNQVE5VZUZBbVRLaGplX2p6ZmtPZUhjSENJQ1d4TnpaZDVlakpqVWVVT0lBbVYycVRYR2JjY3NwaklWelkwYS1NSVJlUmFPWUF4ZG5GYkstakU1OWljTmhEQWFLSFdJWnVUTVFjdGFHUWYxUlhWTVRZZHVqUTM5bWtSQ051cXRxdW1yeEVfbGFWQ3N0YktzQ0RPdXJBWEFsVzZheEJSb1h3c2xySDRQRlVrVjVQOFBHZ1hlVEd3OGlWVGlxT1U4V1FqQTJjTjItd2gyaU1XVGdXSHNLLXJsaEs4QlhtVTZKOHNtSElkRlg3M3h5ODRGRUZvMVMtaG5ZVEJGQ3Bkb2tyaV8wNXJ4clBCWTJtczZIS2NsaGhGemRRcnpEYnBuM1QtOWhvaFYwenpHd3JIZVAwR3ZQMDFLR3FkaWUxSWItaEU4VkFxbVB5Uzlpek9qNXBhenk1WWFqbXpDNVcyeWdhNEdxN0VLV3d0THloOEtpb2hyaW9obmNwZHRfQV9aaWRXNmlXSU15RHBmY25QQUhkbDlFQ3YwUVhmNXZKbk81ZW8tX0VjdDdSNE81Z29rUWd2Tl9sdGFTUEdnb2VGTnE1WTczbEhxVnkxRE5MMnZHQ3JONUVwVVd0dnMtajBPejVObUQ3RU1uY1dfVHVZZGdQQkFuNjRYYWFVOWVudTRBdXpVci1qblhXeU1iaFZUMFgwMzQ3d0VRU3ZUR2NCVkI0SHprQVFSX19qa2ZsSkQ3dHNOdjNZWnRnYWtEQ0FYNjJRMmRpaHhWZ1lSMENLYmFsVHJ5LXdMRTB5N0NvMmU3bk1PRUZHeWxhVGs5NGZQY1dEcWcyalFDaDlXV0RhZnV2VDFmSGx5WG5ybVhGcnMyQ3UwaFVzY3VUNGhUMkIwOExkYlMwa3BqX2lWT01DZmNpREkwTFJuZndXMDZrUWliNk5nRVhLX2xlbi1wSE9Sa254UDFZYWNFS2ZZcWVJWC1wZjgxRGthTGU5VGs2QzljSTFmV2VBVlRRSldqRlg3eHYyV1pjRjdXMGQxbkJQVnRZSzRzT3lSQjZaR3ExZlZvenViUHBBLWFvWDhVSG11V1QxMW9Sc3k5R3Z5X3gtWTdpMGl5TTJlUGJFSDRmWUs2QnhwcmhzX1BwNVJfaXg3RGV6S2N4TFAxTUsxU3pTMXhqX3k",
       "time": "2026-06-24 18:43:51"
-    },
-    {
-      "title": "#豪雨受損落花生補助啟動🥜 #農民朋友請注意📢 日前豪雨造成部分 #落花生 受損，在嘉郡與 榮耀海線 丁學忠 委員爭取下，農業部已啟動受損 #帶殼落花生災害莢補助作業，協助農民減輕損失。 📌補助對象 🔹豪雨造成受損之帶殼落花生 📌補助標準 🔹全批已無商品價值者 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wdBVV95cUxNOEszeVlnZEs1X3RJdHctd21LdDV5LTgzRDFLNWUzWGpJbjE0YnF1NXpPWHFELTgwejFQNUsyNmFPbEFrdEFvUGRmaXI4THN3UGI3amo1RFJIWlhzMktPTkFiYmVPODNFT3dmbjlQNWVMaHhObU14VlR6RW82WGNfWjBzaThjNjE3elA3cTEwVTJTWGhpdE1JNFZacFdYYTZ6UE9lWm9ESjkzUzYxWl9OeEpXVGtqb0QwVlh2VnRlMlA3bmRCQTNWT3RTU0c5TWZiV0NGOTcyRU1PbzZ5OV9uS19lT3YwQVNhMnZpV2hIVXBYcHljVUs1eW5LMUNvcFJIN3NSSEplNkZDSEV5cTVQSWJUWVM1bVQtSHBqWndycXBTYVVfbGFyVDJfZDZKczcxZFJMY1pEc3BMLUpsUWsxNWowbVM1Z3NqSTlLZjBBMXdOMXlONm9aU1MxbTZmLWZlYWtHWHM1QU9VdE5JeEo1UVFZZjdZVHI1TFVYd1BwcW5INzlsWjNpdEtudFJEYkJHS0pFSEVGY0h1QXBYcFVza2NzVEhydkdYZ1pobUJiNUZrWE9OS2U3M1V5T29YOFBMZTNKQWpqUmRnZzhvRmRLS1RySEZxQ0hQZnhfZzFOVDBUdmF4emx1WXFlR05lb1BjMnhPa2QtNlBGblp3VUVhWHRNdjVDbEhmRlY2WnZwM0gzaTN0V1IxajRCaFUzQV9NUkhYWnBKdUpfZWpDWnpBdlpiQ3VaT2N5RW5NRWVIVFVkMWgtclQwNnlVT3J6WWVhUFdXZEtPdVc1S0xSZ1RDVDBaSmFxNktCQTNHTFJQSkZNbFZYZ05ubXNSa0JPTHphNi1URUx3QnhFVkxxM0pyckpXUTNuYS1ZcVhCSFc0T0tzOG16XzNxY084T2hXeFo1cldpbnRpc3VBQjhZMFpneHBUcUIxS3NqdXZEZllQeUdpYWtoM2xCMkN4MUVhMGVLR3YzZDZwbXdiNzhaY1NQamZMVmxsQWFXalVKTVJ4U00xRW9uSW5wS3dDU2psTnlSLWlqbFRPUGlFdUk1UVlfaWJDUk81WnZsZHZUc2lLZUJZVnFuclJvNlFqcVN4TzhZYUxxZi1ueVlrWmduZ0lIRldMWUVzT2l4UlR5YnpmbmdnT0hfbUJJMmJnc1Jzd1JXSTNkNTFuNHJNN3BTLV9xbkJSRlhYYV9SSFVPZ1ZuSkxJUVJEOUJyMXFkTGtkLTBmcTJIcnJXYmpzSThqZlFQemJTVEZKUERUYWNlT2lsS2Mtbnl6b2hZNHh0OW1vUjB3N1A4RlZuZUN3TlBULXZYa1U1OHJ4NmRQTGdHMGNZQQ",
-      "time": "2026-06-24 17:39:52"
     }
   ],
   "latest_news_20": [
+    {
+      "title": "雲林豪雨菜農成重災戶 張嘉郡：協助爭取補助、爭預算改善排水灌溉系統 - FTNN 新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIUXhnQzlyRWRmd0xZWHNWOEpkUlpMNmZlNjN4SWdjb3ZIWmtzUENvNU5leGM5VlZTWkY4eWszRklEY2x2N291bm1Cbw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-27 15:05:00"
+    },
+    {
+      "title": "豪雨重創雲林菜田！農民搶收仍損7、8成　張嘉郡：協助爭取補助 - NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56S0hUU3F6TnVoa3B0ZWpqSjZGV0VDd2J4WndTU2dyeXJTT0RLNVExeWk0QjktaW9SNGs1YjZFWG5FMFVEd0VzUnZiTGfSAVJBVV95cUxNYXhvRW1ncXp3cWFJWlU0OFI0ZjBsMkxZRGFWTERCc2psbVBKNWpGWmc2Q0VWcnlGbmZWWW1Yc0VMYm5NZnR0RHJxcnVQTVVWSnln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-27 13:55:01"
+    },
+    {
+      "title": "偕張麗善赴二崙勘災 張嘉郡助爭取農損補助、改善排水 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOQk52OTJGNVpTOHVYYU5oM09SQ3ZhTzhRMnkzYXBfRnlZMF9ENnlhYmNkSG5PNjFuQTdyZExya3hNRldWMmpPSFItQkNiMjhUZmZZNWRoOHFOX2JROVFpQWVDOEgxbHVZbGd4cFYzWFlZTGotdTlIT011R1F1SnN4eUkwYnBjdjJwaFJYeUhVVkxrVXJzRGhJeXVxVFNmNHRiUzVDOFlTMlg0cjMtRXhiNjh2cVZEN2w1bFNWTlRxMHduT0JVWTJBWkV2dks1MlNkVkl6UWVkOHZtOU9jMVdTV3Jzb2N2R2VjOS1hcG1OU2dybDhxcEZrTjNTaFpHWkNpSENvMEFWSEJiZGUtc1R0QmdicHdENHg2Z3RvVWszUDBKVXVnUWRNSE5vUk9WanZLNG1aV3JCT0NSdGlrWWVxc0dWd3hBZ3JWRk1Qa2JVak5vR2ZtZXJ1cFJERGNHOW9NQWRGOFlaUi03QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-27 13:53:16"
+    },
     {
       "title": "豪雨壓境取消接待張嘉郡 盧秀燕趕赴抽水站視察 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRC10VmNQNlJRQldtYXlSUFItd2VLMHYtRER6UERoeUpfRHE4LWtxb0N3Rng2TU9xY2VmbFlvcVV1OWpzdTlNYkVkb3pNdThzdU1KRlp1X2dwaXNlLWIwVUZqamt1ZXp3Y3fSAW9BVV95cUxOSUlGRThXUkZEakZnZ25fVnF4M21jVkNCRWUzOUowZlRNcUE3elN2YkhCdXp2VlhKVUtrQnlsb2RsNWNFWktkZWUzeWRPcE04TkZtRW9KQjJnTG1JSzVXT1FoWUUwZU0zU0JpMzBlWDg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -621,21 +697,6 @@
       "title": "劉建國會勘沿海四鄉鎮文蛤災損 漁業署允諾立即啟動救助程序 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNbFdfZjJaTU1HVERMcmxSbGUtNmVpZjMwXzVZa19FeWJYVFN4amt4S0dfNW92N294aDZwWG1mZ01pdndzS2Q1Nko5UjJZUzVSTGRPM1Y1UVZ3VGNOSHA1NTZXdDBOaU1HM2Z3OWk0emdsUFpMbHMyUVhtR3Z6ZzB5dG8tU1kwaGJOc2J6T1RZSE5DcE5ZMDd4eVJudkdKbUxDVGh0aHdLaG05TEtwMHM4TGVZNWJZWlRWTmY5SnBBMkZFSXUyajFkcWp6RkV4UmhWVjVhSUJHVDNPY1JNeEkxc0lOYUM3eVRTZkJYVm5EdUFOZU9RbXhZbkxFYnlMbmxMWmhsemYxX0tpZDdwOS1JSTV0enZMTVNpel9LRGMtcW83Q0dXMG9uaFFWamdzYkNfbXdGdjhrZU9qM0g5RWI5eGRmWFBiY0NUbWhzeGwyNnVfQmhQZXFoOTFuY2JuOHZyTFZHVFpTWTBfZTdGYTNjYmU5YmxRdEZ2Q19ZMmxfcnVaNk9FZmJmekZJLVk0dEVVNGFDb0JqVkc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-24 17:39:43"
-    },
-    {
-      "title": "雲林沿海文蛤災損嚴重 劉建國奔走現勘爭取救助獲中央允諾 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNeEE2bkVhbm54MU9jYlRDYWh3WjY2Q2l5T2tMSzZQVFQyZGNTMmdvWER4UFJQRFdZSVVIODR6UUxOTUhPRDczVFpIbmZjUU9XeXdqQ2s2ODhRWTRCT3BFWGZQMXIxOXZZSEEydXNSOXRRT1RiUVJ0MlZvc2JrS3FJYnY1NGM4eXFmUEh1ZEZBYVo5elpEb3N4NzhkTFQ4cE5rc1FKUmg5WkN1MEJoWTRtbXlyLVNqQTRyb0VLc0VPV0xKVEJfUUFJNlFmY1JFQ1lYNmVYcXV6ZDJyLXBmXzlFdHprdDQySTJYNW5HYW5OX0RjVlVLc1VFeDJLUktXSjN4UFh5YWRtUEM3UEtuRVduazNJanE5SHhOTlBqejMtb1QxelhxMHR3emt1OWVzOVkxS1pHVmplRVk4alRKRUN3V0NhWTlLWVd5NThBTDlPR1dpcERXTkZLSG9DTVRXdmoxOW9xZ1RveFZjTkxhRmJ3VHpnV3dabDhRdlF2OE1FUzdNMHpHU25aY0tWZmQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-24 17:19:39"
-    },
-    {
-      "title": "雲林沿海文蛤災損嚴重 劉建國奔走現勘爭取救助獲中央允諾 - 觀傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ONEtNQVc5NG9nbm8tN0s3aHBiUTZtcW5SMWxKekhLaXlYM0xOUXpGOVY0Q3hlN201aEtUU2dGNTRZTWtCcU5LMk5BeS1WellZMmZDSWN5RQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-24 17:02:21"
-    },
-    {
-      "title": "雲林文蛤大量暴斃災情慘重 劉建國促中央火速啟動救助 - 政府消息新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3dVcDlVWEFwWmlaSlplRFFJdU5xS0MxRHNTTkEteTFfX21NaTFfZ2dLZHFzcDh4Rl9OTlpqdWFLRXlnWGlVdGtWcHVlZVZMZEVWNDlvcVA0dnlLSDUzV2dFV0hDcFlVYV8xV2dqNlY2WTV4aE9fY1hRVHFzQ2dkRlE4ay1OT3Y4Z3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-24 15:56:13"
     }
   ],
   "person_sections": {
@@ -744,6 +805,21 @@
       ],
       "news": [
         {
+          "title": "雲林豪雨菜農成重災戶 張嘉郡：協助爭取補助、爭預算改善排水灌溉系統 - FTNN 新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIUXhnQzlyRWRmd0xZWHNWOEpkUlpMNmZlNjN4SWdjb3ZIWmtzUENvNU5leGM5VlZTWkY4eWszRklEY2x2N291bm1Cbw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-27 15:05:00"
+        },
+        {
+          "title": "豪雨重創雲林菜田！農民搶收仍損7、8成　張嘉郡：協助爭取補助 - NOWnews今日新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56S0hUU3F6TnVoa3B0ZWpqSjZGV0VDd2J4WndTU2dyeXJTT0RLNVExeWk0QjktaW9SNGs1YjZFWG5FMFVEd0VzUnZiTGfSAVJBVV95cUxNYXhvRW1ncXp3cWFJWlU0OFI0ZjBsMkxZRGFWTERCc2psbVBKNWpGWmc2Q0VWcnlGbmZWWW1Yc0VMYm5NZnR0RHJxcnVQTVVWSnln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-27 13:55:01"
+        },
+        {
+          "title": "偕張麗善赴二崙勘災 張嘉郡助爭取農損補助、改善排水 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOQk52OTJGNVpTOHVYYU5oM09SQ3ZhTzhRMnkzYXBfRnlZMF9ENnlhYmNkSG5PNjFuQTdyZExya3hNRldWMmpPSFItQkNiMjhUZmZZNWRoOHFOX2JROVFpQWVDOEgxbHVZbGd4cFYzWFlZTGotdTlIT011R1F1SnN4eUkwYnBjdjJwaFJYeUhVVkxrVXJzRGhJeXVxVFNmNHRiUzVDOFlTMlg0cjMtRXhiNjh2cVZEN2w1bFNWTlRxMHduT0JVWTJBWkV2dks1MlNkVkl6UWVkOHZtOU9jMVdTV3Jzb2N2R2VjOS1hcG1OU2dybDhxcEZrTjNTaFpHWkNpSENvMEFWSEJiZGUtc1R0QmdicHdENHg2Z3RvVWszUDBKVXVnUWRNSE5vUk9WanZLNG1aV3JCT0NSdGlrWWVxc0dWd3hBZ3JWRk1Qa2JVak5vR2ZtZXJ1cFJERGNHOW9NQWRGOFlaUi03QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-27 13:53:16"
+        },
+        {
           "title": "豪雨壓境取消接待張嘉郡 盧秀燕趕赴抽水站視察 - 自由時報",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRC10VmNQNlJRQldtYXlSUFItd2VLMHYtRER6UERoeUpfRHE4LWtxb0N3Rng2TU9xY2VmbFlvcVV1OWpzdTlNYkVkb3pNdThzdU1KRlp1X2dwaXNlLWIwVUZqamt1ZXp3Y3fSAW9BVV95cUxOSUlGRThXUkZEakZnZ25fVnF4M21jVkNCRWUzOUowZlRNcUE3elN2YkhCdXp2VlhKVUtrQnlsb2RsNWNFWktkZWUzeWRPcE04TkZtRW9KQjJnTG1JSzVXT1FoWUUwZU0zU0JpMzBlWDg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-26 21:24:19"
@@ -827,21 +903,6 @@
           "title": "台灣少子化危機！落實國家撫育責任，張嘉郡提案公幼全免、私幼月補1.5萬 | 夏和宣 | 地方新聞 - Storm.mg",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IV3p3YVJySUFHemNOck0yWGlOeFRYVFhYU2NwWXdjMG4zRVpUb25XbGgtNHNSYm1mT1NWZVp0TmhjU29MeDZwbDB3RjRfQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-18 23:37:36"
-        },
-        {
-          "title": "雲林強降雨玉米泡水腐爛 張嘉郡爭取從寬天災救助 | 夏和宣 | 地方新聞 - Storm.mg",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkejlBVF9DSmUxLTloTC1PTkNCSVk1QWkxc0hUSS1Ta05GZl9JRW8tX0hfc3kteElpb3ZKb1IxVDVLb3ZiWWZFMUowUmVUUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-18 21:37:52"
-        },
-        {
-          "title": "玉米飽滿肥美這原因釀災情 張嘉郡籲中央啟動救助 - UDN",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pUGVsR0U0LWhIbHg0aDY2ekxCQW9jLWJQV3ZneTRVU182QmwzYllnY3JLRW9adGM1aFJBeDBxS3NqZ0s1UExiVm4zZXVpcXpo0gFWQVVfeXFMTTk2VjgzOXFEMjhzZThxMk42TG11MzJZZTVSUktnZ1AxSGYyNkJHLWNnUWJmOWJkVFZkSzVjU3ZCNWtnVkJwX19ydnR2OF9JWGFWTWJzbWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-18 19:54:03"
-        },
-        {
-          "title": "玉米飽滿肥美這原因釀災情 張嘉郡籲中央啟動救助 - UDN",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05NlY4MzlxRDI4c2U4cTJONkxtdTMyWWU1UlJLZ2dQMUhmMjZCRy1jZ1FiZjliZFRWZEs1Y1N2QjVrZ1ZCcF9fcnZ0djhfSVhhVk1ic21n0gFWQVVfeXFMTTk2VjgzOXFEMjhzZThxMk42TG11MzJZZTVSUktnZ1AxSGYyNkJHLWNnUWJmOWJkVFZkSzVjU3ZCNWtnVkJwX19ydnR2OF9JWGFWTWJzbWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-18 19:54:03"
         }
       ]
     },
@@ -1053,29 +1114,22 @@
     }
   },
   "latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "榮耀海線 丁學忠 (@ding.ding0628) - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0lqM1FEYTU5UVBleDRkby1ldXRsOHBRbkFhODdMZVRZZ0xXdmtIdU5zbFpLYnRwX0JvS2NJc3lWNzVqbnFhWTM2WEU1ckpPeFlXRExndlh4UmxLeUN1UXQzT29kLTFTNXB3aVl0Slp0QXZ4c1ZzclFheHFKVmQtNDVKTDY",
-        "time": "2026-06-26 21:43:35"
-      },
-      {
-        "title": "榮耀海線 丁學忠 (@ding.ding0628) - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaVhIU2JhYkZuVVlPbGMxWDhyR0hCdF9vSjlScFp3cUxHUUlEazVLSVRYbWl3dWFHY1EyeHplNUlGd2VIak83NHItM3Z3UTBTZlFzQ3J0QW5OcFFLWF8zUFBtZTVLUTM1VUlPb0NRUEFaS05rWXJ6SkdwcllXSDlfZXU0M0s",
-        "time": "2026-06-26 21:00:10"
-      },
-      {
-        "title": "榮耀海線丁學忠(@ding.ding0628) - Mentions - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wT1pXTU1HYlo4Vm5UY09tZWUwVEYxMmlzRU9xRjZ1YnFkTjhjSzFuR0VrdGpMYTJ5cnRWYnlKTmFlM0VwSTM1UjIzZFJBelZRa0JjdXgyd0w1V3hG",
-        "time": "2026-06-26 20:55:04"
-      },
-      {
-        "title": "若不要戰只要擺譜 那關我什麼事 過去， 我只有打實戰 沒有在打「啞吧彈」 大家一定看不懂我在講什咪碗糕 不用透過AI翻譯 講白話些 張榮味有什麼好懼怕的 我不可能打「虛戰」 我向來就是對選民負責 打實戰 不發「啞吧彈」 政策落地傷害到雲林 就該批評 有點格調好不好 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMiiwhBVV95cUxPelRrQ2tWZ0FuZm4zYjliWEdjYkFRYUhjaEpXbkg2VkZfZFVqcnJUakpJeWp3d2NPWkNMbEV0NHlQeWJfVkR5WUFFMjM2TXBGR285MWF3bzNhVnZSam5NWHVHdExsdjFQZ3JjQ3JkYnlEZnQwSXRvVVFJYm95Zk1qcXAwM1Y1YU9Bd21HNUlqcnhfNktEMnk5VW9EX0tSdXRmZGt6aHJqMzk1UE1HRVRqMlB3ZjNRcHZZQ3NkNmg2THhHTHp3VjNCTjM5cDc0VGljRVVVRzJZS0VrMEhWcV9OalU4UGh2emI2SmhSeEx5QjhMb3YwMnlLUXlVYUQzUXpyQlEzS1N1Y1BCOXpKNEhDVFRZbXh4UEF4Y0VPTFV5WmZacEREVldJOVV4LUNSYko3XzRuRU1OUXJFbTRBay1fWVVSNVJoN2QzOERpcDlLUHBRSUV1VGg5djdKbFJWN2pNbzNDQ3JWaTU4T0hLcWJpRzZDRmEtTjFpZk95U01kM2V2WDVIVVBOYzV3VmhYcEFHVVBSTTYwVmh2S0RGNnBZM19fRV84SkRKZ04xZWFXaVlXOHd1bVpCeWdIT1lZWW51Tm11RG02TFN0UTZvcUVxbUR6NGN2cUZjR1dGZm1FQ0tNUmZoQWJjTWZQTlZPVGt0cG8xSGZnOExfUXBHbUd1ZHotZklhQi1EamFHUEtLLUt3OU81ajd4SG00R1o5VzdJZFdfVkwyOTJkU0ZvZlozVWpmQnAzZVV2WXFLbU9VM0czeVYtNUVlQmxRX2p5ZEk3WnlLRU1OTjhlSWc1bTNDdF9vckw0cWlDajcwY1lnUmcxaVpZTU9ZNENIbm9ESVVoSDVWTXhOQ3FXTFp1WHRKR2VVbG9lS19IQjdLYmg4cDlDMUNGOElmZlZBa0xjYVlUdjhtQlRqdkR5V3VHU0lFaFVnbXQ3dDdGQ0RWTG5YQ205NXAyWGlMZHhvVTUwQkNaX2RiYmI4eGIyNFU4ODRJV3FMVUNvZFpLbTBKeHd4QkIzd0dfSDhBSGVNZzVleTR5bG5QMC1ZaFZWc2RHN0NlUkd2eU9ESGVfcWEyMmNvUWNjTF9FVEV1VnRwVzloTmpIdmliaU9iTmdsRzFjZ09mUFdVR1V5YWdmUU1tMk1jcVotc0w0cGR0MHdSNTJ0bGk1bUdoNDgxSFRaQVNVT2lkUVNxaFdGbWVLb2pibWdYOFRNbTF1SDRMYkFUUTkyd3pmNHpSUGdySGE1RFRKSmJNc3RuOTJBNXlpSUxsTFprSGZVSGtaWDNKVDMyRlM0Ym9NdGg5MDdhbl9YengyWER1Z3N5alZkdnFrM2dNd0NyYnJqQXdSY2xSa1I2eGZ5c3c2SDh2bjE2a3VXZVU",
-        "time": "2026-06-26 18:41:46"
-      }
-    ],
     "news": [
+      {
+        "title": "雲林豪雨菜農成重災戶 張嘉郡：協助爭取補助、爭預算改善排水灌溉系統 - FTNN 新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIUXhnQzlyRWRmd0xZWHNWOEpkUlpMNmZlNjN4SWdjb3ZIWmtzUENvNU5leGM5VlZTWkY4eWszRklEY2x2N291bm1Cbw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-27 15:05:00"
+      },
+      {
+        "title": "豪雨重創雲林菜田！農民搶收仍損7、8成　張嘉郡：協助爭取補助 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56S0hUU3F6TnVoa3B0ZWpqSjZGV0VDd2J4WndTU2dyeXJTT0RLNVExeWk0QjktaW9SNGs1YjZFWG5FMFVEd0VzUnZiTGfSAVJBVV95cUxNYXhvRW1ncXp3cWFJWlU0OFI0ZjBsMkxZRGFWTERCc2psbVBKNWpGWmc2Q0VWcnlGbmZWWW1Yc0VMYm5NZnR0RHJxcnVQTVVWSnln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-27 13:55:01"
+      },
+      {
+        "title": "偕張麗善赴二崙勘災 張嘉郡助爭取農損補助、改善排水 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOQk52OTJGNVpTOHVYYU5oM09SQ3ZhTzhRMnkzYXBfRnlZMF9ENnlhYmNkSG5PNjFuQTdyZExya3hNRldWMmpPSFItQkNiMjhUZmZZNWRoOHFOX2JROVFpQWVDOEgxbHVZbGd4cFYzWFlZTGotdTlIT011R1F1SnN4eUkwYnBjdjJwaFJYeUhVVkxrVXJzRGhJeXVxVFNmNHRiUzVDOFlTMlg0cjMtRXhiNjh2cVZEN2w1bFNWTlRxMHduT0JVWTJBWkV2dks1MlNkVkl6UWVkOHZtOU9jMVdTV3Jzb2N2R2VjOS1hcG1OU2dybDhxcEZrTjNTaFpHWkNpSENvMEFWSEJiZGUtc1R0QmdicHdENHg2Z3RvVWszUDBKVXVnUWRNSE5vUk9WanZLNG1aV3JCT0NSdGlrWWVxc0dWd3hBZ3JWRk1Qa2JVak5vR2ZtZXJ1cFJERGNHOW9NQWRGOFlaUi03QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-27 13:53:16"
+      },
       {
         "title": "豪雨壓境取消接待張嘉郡 盧秀燕趕赴抽水站視察 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRC10VmNQNlJRQldtYXlSUFItd2VLMHYtRER6UERoeUpfRHE4LWtxb0N3Rng2TU9xY2VmbFlvcVV1OWpzdTlNYkVkb3pNdThzdU1KRlp1X2dwaXNlLWIwVUZqamt1ZXp3Y3fSAW9BVV95cUxOSUlGRThXUkZEakZnZ25fVnF4M21jVkNCRWUzOUowZlRNcUE3elN2YkhCdXp2VlhKVUtrQnlsb2RsNWNFWktkZWUzeWRPcE04TkZtRW9KQjJnTG1JSzVXT1FoWUUwZU0zU0JpMzBlWDg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1090,6 +1144,33 @@
         "title": "豪雨鋒面來襲 劉建國偕農水署雲林處長現勘二崙鄉農水路 強力要求清疏並爭取改善經費 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxOOEU1Si1XcW9uMms3Z0Y4SS1FVzBZdmVNeW1kYzMwMUFaMlNvTUZwdU9BeVFYMFdtQjlXYmdPZGpaeUJicVV4WFhOWVhjb0hWZGI1OTRuM3ZhU01YdGp5bEltdl8wbzV5QzNGdTBiOHVEbFE1SjkxTFdxUWIzcXkwSTJ1WVB4Qm9HdlJKZG84UWJtTzJ3X0o3SFZmRGc4RlFpY2RRRURqX3lCWENjLU93TFpKTlcxUXlwb2pDaHRrM3RFWUhURlBzTjZCZnM1VWdMOFJTQnB4a2ZnLVpMRkNYbWp5VXpib2drRHlZRTBPQ0lLYklJM3NtLVZfU09fU2NNNW1vc2RXSzBUd0xVWmtBTWxTMXVDZjQxMjNwdTBTNTZITXRWOVRNOXZKbkYtbU1YNUhvN0h4QVNjUmVoNHZ6cUtxWXBjd3N3UFJ5N0dMTzBqeXQzdzRheWViV05VZ2pkM2JES0tQSWs2bDZMNk5kSXJEc0hYTGRnNTJFQVJvNUpvdUdiazRXcXU0cmlybzNyRXYwVnp1eVo5SGRDUnp5X1RWZWdOVjhPT3V4UmN2cnFXX2ExTzdBNVBLVU1vRy1GS0sxbmtSUE01N1FpbHhHX1FCX2gzWGZJSWJKaGdueVJ4bmxMYXFxUm9CdFFkUzNRUFc0Z0pZV1MtNk5DY1haSk5QVmZucDBCelcwSm8zQmlpVVVNSHctUkFFbnVZQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-26 16:58:02"
+      }
+    ],
+    "facebook": [
+      {
+        "title": "榮耀海線 丁學忠 (@ding.ding0628) - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0lqM1FEYTU5UVBleDRkby1ldXRsOHBRbkFhODdMZVRZZ0xXdmtIdU5zbFpLYnRwX0JvS2NJc3lWNzVqbnFhWTM2WEU1ckpPeFlXRExndlh4UmxLeUN1UXQzT29kLTFTNXB3aVl0Slp0QXZ4c1ZzclFheHFKVmQtNDVKTDY",
+        "time": "2026-06-26 21:43:35"
+      },
+      {
+        "title": "榮耀海線 丁學忠 (@ding.ding0628) - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaVhIU2JhYkZuVVlPbGMxWDhyR0hCdF9vSjlScFp3cUxHUUlEazVLSVRYbWl3dWFHY1EyeHplNUlGd2VIak83NHItM3Z3UTBTZlFzQ3J0QW5OcFFLWF8zUFBtZTVLUTM1VUlPb0NRUEFaS05rWXJ6SkdwcllXSDlfZXU0M0s",
+        "time": "2026-06-26 21:00:10"
+      },
+      {
+        "title": "榮耀海線 丁學忠 (@ding.ding0628) - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGVqV3NFTjVOeS1Kdjh4MXJXdHdaOUtTekpESGhPSjFMQmpoTWs5X21JcF9JcTNRZDhyQXdpdWRFQ2prSW5CcEdMUHBVMWVtMUFJSUFhbGtrOHJBMWpsTmFSV1lCNFpYMXhHNTdMdkJNTUx0SEJWckdrZDhnN1B3b0RvdW4",
+        "time": "2026-06-26 20:56:14"
+      },
+      {
+        "title": "榮耀海線丁學忠(@ding.ding0628) - Mentions - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wT1pXTU1HYlo4Vm5UY09tZWUwVEYxMmlzRU9xRjZ1YnFkTjhjSzFuR0VrdGpMYTJ5cnRWYnlKTmFlM0VwSTM1UjIzZFJBelZRa0JjdXgyd0w1V3hG",
+        "time": "2026-06-26 20:55:04"
+      },
+      {
+        "title": "若不要戰只要擺譜 那關我什麼事 過去， 我只有打實戰 沒有在打「啞吧彈」 大家一定看不懂我在講什咪碗糕 不用透過AI翻譯 講白話些 張榮味有什麼好懼怕的 我不可能打「虛戰」 我向來就是對選民負責 打實戰 不發「啞吧彈」 政策落地傷害到雲林 就該批評 有點格調好不好 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwhBVV95cUxPelRrQ2tWZ0FuZm4zYjliWEdjYkFRYUhjaEpXbkg2VkZfZFVqcnJUakpJeWp3d2NPWkNMbEV0NHlQeWJfVkR5WUFFMjM2TXBGR285MWF3bzNhVnZSam5NWHVHdExsdjFQZ3JjQ3JkYnlEZnQwSXRvVVFJYm95Zk1qcXAwM1Y1YU9Bd21HNUlqcnhfNktEMnk5VW9EX0tSdXRmZGt6aHJqMzk1UE1HRVRqMlB3ZjNRcHZZQ3NkNmg2THhHTHp3VjNCTjM5cDc0VGljRVVVRzJZS0VrMEhWcV9OalU4UGh2emI2SmhSeEx5QjhMb3YwMnlLUXlVYUQzUXpyQlEzS1N1Y1BCOXpKNEhDVFRZbXh4UEF4Y0VPTFV5WmZacEREVldJOVV4LUNSYko3XzRuRU1OUXJFbTRBay1fWVVSNVJoN2QzOERpcDlLUHBRSUV1VGg5djdKbFJWN2pNbzNDQ3JWaTU4T0hLcWJpRzZDRmEtTjFpZk95U01kM2V2WDVIVVBOYzV3VmhYcEFHVVBSTTYwVmh2S0RGNnBZM19fRV84SkRKZ04xZWFXaVlXOHd1bVpCeWdIT1lZWW51Tm11RG02TFN0UTZvcUVxbUR6NGN2cUZjR1dGZm1FQ0tNUmZoQWJjTWZQTlZPVGt0cG8xSGZnOExfUXBHbUd1ZHotZklhQi1EamFHUEtLLUt3OU81ajd4SG00R1o5VzdJZFdfVkwyOTJkU0ZvZlozVWpmQnAzZVV2WXFLbU9VM0czeVYtNUVlQmxRX2p5ZEk3WnlLRU1OTjhlSWc1bTNDdF9vckw0cWlDajcwY1lnUmcxaVpZTU9ZNENIbm9ESVVoSDVWTXhOQ3FXTFp1WHRKR2VVbG9lS19IQjdLYmg4cDlDMUNGOElmZlZBa0xjYVlUdjhtQlRqdkR5V3VHU0lFaFVnbXQ3dDdGQ0RWTG5YQ205NXAyWGlMZHhvVTUwQkNaX2RiYmI4eGIyNFU4ODRJV3FMVUNvZFpLbTBKeHd4QkIzd0dfSDhBSGVNZzVleTR5bG5QMC1ZaFZWc2RHN0NlUkd2eU9ESGVfcWEyMmNvUWNjTF9FVEV1VnRwVzloTmpIdmliaU9iTmdsRzFjZ09mUFdVR1V5YWdmUU1tMk1jcVotc0w0cGR0MHdSNTJ0bGk1bUdoNDgxSFRaQVNVT2lkUVNxaFdGbWVLb2pibWdYOFRNbTF1SDRMYkFUUTkyd3pmNHpSUGdySGE1RFRKSmJNc3RuOTJBNXlpSUxsTFprSGZVSGtaWDNKVDMyRlM0Ym9NdGg5MDdhbl9YengyWER1Z3N5alZkdnFrM2dNd0NyYnJqQXdSY2xSa1I2eGZ5c3c2SDh2bjE2a3VXZVU",
+        "time": "2026-06-26 18:41:46"
       }
     ],
     "youtube": [
@@ -1107,6 +1188,21 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "雲林豪雨菜農成重災戶 張嘉郡：協助爭取補助、爭預算改善排水灌溉系統 - FTNN 新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIUXhnQzlyRWRmd0xZWHNWOEpkUlpMNmZlNjN4SWdjb3ZIWmtzUENvNU5leGM5VlZTWkY4eWszRklEY2x2N291bm1Cbw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-27 15:05:00"
+      },
+      {
+        "title": "豪雨重創雲林菜田！農民搶收仍損7、8成　張嘉郡：協助爭取補助 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56S0hUU3F6TnVoa3B0ZWpqSjZGV0VDd2J4WndTU2dyeXJTT0RLNVExeWk0QjktaW9SNGs1YjZFWG5FMFVEd0VzUnZiTGfSAVJBVV95cUxNYXhvRW1ncXp3cWFJWlU0OFI0ZjBsMkxZRGFWTERCc2psbVBKNWpGWmc2Q0VWcnlGbmZWWW1Yc0VMYm5NZnR0RHJxcnVQTVVWSnln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-27 13:55:01"
+      },
+      {
+        "title": "偕張麗善赴二崙勘災 張嘉郡助爭取農損補助、改善排水 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOQk52OTJGNVpTOHVYYU5oM09SQ3ZhTzhRMnkzYXBfRnlZMF9ENnlhYmNkSG5PNjFuQTdyZExya3hNRldWMmpPSFItQkNiMjhUZmZZNWRoOHFOX2JROVFpQWVDOEgxbHVZbGd4cFYzWFlZTGotdTlIT011R1F1SnN4eUkwYnBjdjJwaFJYeUhVVkxrVXJzRGhJeXVxVFNmNHRiUzVDOFlTMlg0cjMtRXhiNjh2cVZEN2w1bFNWTlRxMHduT0JVWTJBWkV2dks1MlNkVkl6UWVkOHZtOU9jMVdTV3Jzb2N2R2VjOS1hcG1OU2dybDhxcEZrTjNTaFpHWkNpSENvMEFWSEJiZGUtc1R0QmdicHdENHg2Z3RvVWszUDBKVXVnUWRNSE5vUk9WanZLNG1aV3JCT0NSdGlrWWVxc0dWd3hBZ3JWRk1Qa2JVak5vR2ZtZXJ1cFJERGNHOW9NQWRGOFlaUi03QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-27 13:53:16"
+      },
       {
         "title": "豪雨壓境取消接待張嘉郡 盧秀燕趕赴抽水站視察 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRC10VmNQNlJRQldtYXlSUFItd2VLMHYtRER6UERoeUpfRHE4LWtxb0N3Rng2TU9xY2VmbFlvcVV1OWpzdTlNYkVkb3pNdThzdU1KRlp1X2dwaXNlLWIwVUZqamt1ZXp3Y3fSAW9BVV95cUxOSUlGRThXUkZEakZnZ25fVnF4M21jVkNCRWUzOUowZlRNcUE3elN2YkhCdXp2VlhKVUtrQnlsb2RsNWNFWktkZWUzeWRPcE04TkZtRW9KQjJnTG1JSzVXT1FoWUUwZU0zU0JpMzBlWDg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1291,21 +1387,6 @@
         "title": "雲林台西文蛤遇「三溫暖」氣候大量暴斃 劉建國邀水試所專家勘查四養殖區爭取救助與育苗解方 - 觀傳媒",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XSks1aEJjY1FjUXVPUmNQSG00Q1ROVUs5cWVYUkZyN2pJY3R3dlp6Z0lfdXg1LUJYZ28xMW5SVk8yRHlrWTltZUg1YzJLTkdqcWFiOVBrZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-22 15:21:07"
-      },
-      {
-        "title": "台西文蛤不耐「三溫暖」氣候暴斃 劉建國籲加速天災救助 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaOEVRRXZsSzFEVTFWM2NTa0NRdGNMZGpoYnRzc1BRaFpQUGFlYXdQZFE3QlhreE1QVzIxc3R3WF9vbVc5UGVySkFoendWZ3RuVlF6M2RMZlR2dVVpSHduWC16NmVnbHfSAWxBVV95cUxQMWZQUmR1SFFvaGstcDU2MlJyOXMzTTFkaXFnTzkxSkEtTUpmMkxyak1YVUVlNV9KcG5kd1BJOW41WmNmNFZJSnVhTFdEZVNOZm55bFFjdW5oVUdwRldXd0NlZ3hvd2RNMzRPaWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-22 15:15:55"
-      },
-      {
-        "title": "台西文蛤不耐「三溫暖」氣候暴斃 劉建國籲加速天災救助 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPa1g0b2NnS211QW5yWG9Jdml5OG9pWExGX29MWWJobExGNmpuTkVUcXlfQVJqdVY2bFFXYzZYcGh2YzJoc1RUSFNsVFlqZi1LeFhyNE5WRnY4Wk5ORVZnSVRFampjQTJhLWZ5RXpaTW5wR1hGempLc2h2eXUtRGZ0b0VHMFRDUURGRkV2NTNBVWdXcGtiQy0zSHlDNmg5bFF2Tzlod0VkNlpCMmRSeG9VdlBMU3dUaXNXVlZpT0NYQ3hlSjMycXZUUUdBRXk2QnFLcl9OOEwxb1JoRm1GMHpXWWdqWktJYllyaWdPN09VeDZmM2pjMVRmV3NpNTFpbzhuLUctYmpIaHE0RGZueWg3X1ozalpCSzFLaWhaajhuN2hrb0s5a2FZRjRseGFyaDVkd0ZwLUpTTENJVGw0RGdUQ2FneTBiQ1FBSkV0S1VoYnFyTUl3Mzdhc1VpRFotd0U5c19DU1BRSGhEZG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-22 15:15:55"
-      },
-      {
-        "title": "台西文蛤遇極端氣候大量暴斃 立委劉建國邀專家勘災籲速啟救助並研發抗逆境蛤苗 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1acXdYQktqOFN6em94R0xlWVNJVHBlMlZXcHliQkhxbmRTN3JiOUNMaGtIVHlaVk5vcFp2Z3hkQ1M4Z3RiUlpnMU1BRGdTQ0tnZHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-22 14:35:00"
       }
     ],
     "facebook": [
@@ -1318,6 +1399,11 @@
         "title": "榮耀海線 丁學忠 (@ding.ding0628) - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaVhIU2JhYkZuVVlPbGMxWDhyR0hCdF9vSjlScFp3cUxHUUlEazVLSVRYbWl3dWFHY1EyeHplNUlGd2VIak83NHItM3Z3UTBTZlFzQ3J0QW5OcFFLWF8zUFBtZTVLUTM1VUlPb0NRUEFaS05rWXJ6SkdwcllXSDlfZXU0M0s",
         "time": "2026-06-26 21:00:10"
+      },
+      {
+        "title": "榮耀海線 丁學忠 (@ding.ding0628) - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGVqV3NFTjVOeS1Kdjh4MXJXdHdaOUtTekpESGhPSjFMQmpoTWs5X21JcF9JcTNRZDhyQXdpdWRFQ2prSW5CcEdMUHBVMWVtMUFJSUFhbGtrOHJBMWpsTmFSV1lCNFpYMXhHNTdMdkJNTUx0SEJWckdrZDhnN1B3b0RvdW4",
+        "time": "2026-06-26 20:56:14"
       },
       {
         "title": "榮耀海線丁學忠(@ding.ding0628) - Mentions - facebook.com",
@@ -1498,6 +1584,27 @@
     "hour": [],
     "day": [
       {
+        "title": "雲林豪雨菜農成重災戶 張嘉郡：協助爭取補助、爭預算改善排水灌溉系統 - FTNN 新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIUXhnQzlyRWRmd0xZWHNWOEpkUlpMNmZlNjN4SWdjb3ZIWmtzUENvNU5leGM5VlZTWkY4eWszRklEY2x2N291bm1Cbw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-27 15:05:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "豪雨重創雲林菜田！農民搶收仍損7、8成　張嘉郡：協助爭取補助 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56S0hUU3F6TnVoa3B0ZWpqSjZGV0VDd2J4WndTU2dyeXJTT0RLNVExeWk0QjktaW9SNGs1YjZFWG5FMFVEd0VzUnZiTGfSAVJBVV95cUxNYXhvRW1ncXp3cWFJWlU0OFI0ZjBsMkxZRGFWTERCc2psbVBKNWpGWmc2Q0VWcnlGbmZWWW1Yc0VMYm5NZnR0RHJxcnVQTVVWSnln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-27 13:55:01",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "偕張麗善赴二崙勘災 張嘉郡助爭取農損補助、改善排水 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOQk52OTJGNVpTOHVYYU5oM09SQ3ZhTzhRMnkzYXBfRnlZMF9ENnlhYmNkSG5PNjFuQTdyZExya3hNRldWMmpPSFItQkNiMjhUZmZZNWRoOHFOX2JROVFpQWVDOEgxbHVZbGd4cFYzWFlZTGotdTlIT011R1F1SnN4eUkwYnBjdjJwaFJYeUhVVkxrVXJzRGhJeXVxVFNmNHRiUzVDOFlTMlg0cjMtRXhiNjh2cVZEN2w1bFNWTlRxMHduT0JVWTJBWkV2dks1MlNkVkl6UWVkOHZtOU9jMVdTV3Jzb2N2R2VjOS1hcG1OU2dybDhxcEZrTjNTaFpHWkNpSENvMEFWSEJiZGUtc1R0QmdicHdENHg2Z3RvVWszUDBKVXVnUWRNSE5vUk9WanZLNG1aV3JCT0NSdGlrWWVxc0dWd3hBZ3JWRk1Qa2JVak5vR2ZtZXJ1cFJERGNHOW9NQWRGOFlaUi03QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-27 13:53:16",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "榮耀海線 丁學忠 (@ding.ding0628) - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0lqM1FEYTU5UVBleDRkby1ldXRsOHBRbkFhODdMZVRZZ0xXdmtIdU5zbFpLYnRwX0JvS2NJc3lWNzVqbnFhWTM2WEU1ckpPeFlXRExndlh4UmxLeUN1UXQzT29kLTFTNXB3aVl0Slp0QXZ4c1ZzclFheHFKVmQtNDVKTDY",
         "time": "2026-06-26 21:43:35",
@@ -1515,6 +1622,13 @@
         "title": "榮耀海線 丁學忠 (@ding.ding0628) - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaVhIU2JhYkZuVVlPbGMxWDhyR0hCdF9vSjlScFp3cUxHUUlEazVLSVRYbWl3dWFHY1EyeHplNUlGd2VIak83NHItM3Z3UTBTZlFzQ3J0QW5OcFFLWF8zUFBtZTVLUTM1VUlPb0NRUEFaS05rWXJ6SkdwcllXSDlfZXU0M0s",
         "time": "2026-06-26 21:00:10",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
+        "title": "榮耀海線 丁學忠 (@ding.ding0628) - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGVqV3NFTjVOeS1Kdjh4MXJXdHdaOUtTekpESGhPSjFMQmpoTWs5X21JcF9JcTNRZDhyQXdpdWRFQ2prSW5CcEdMUHBVMWVtMUFJSUFhbGtrOHJBMWpsTmFSV1lCNFpYMXhHNTdMdkJNTUx0SEJWckdrZDhnN1B3b0RvdW4",
+        "time": "2026-06-26 20:56:14",
         "platform": "facebook",
         "risk": "綠"
       },
@@ -1566,13 +1680,13 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 3
+        "count": 5
       }
     ],
     "groups": [
       {
         "name": "農業族群",
-        "count": 1
+        "count": 2
       }
     ]
   }
