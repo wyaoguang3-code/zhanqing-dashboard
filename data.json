@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-06-28T04:07:19.607665+00:00",
+  "generated_at": "2026-06-28T04:22:55.872061+00:00",
   "metrics": {
-    "total_24h": 35,
+    "total_24h": 38,
     "prev_24h": 12,
-    "growth_pct": 191.67,
-    "news_24h": 31,
+    "growth_pct": 216.67,
+    "news_24h": 33,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 122,
-    "prev": 170,
-    "growth_pct": -28.24,
-    "news": 82,
+    "total": 123,
+    "prev": 172,
+    "growth_pct": -28.49,
+    "news": 84,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,21 +28,21 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 31
+      "count": 33
     },
     {
       "platform": "facebook",
-      "count": 4
+      "count": 5
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 82
+      "count": 84
     },
     {
       "platform": "facebook",
-      "count": 33
+      "count": 32
     },
     {
       "platform": "youtube",
@@ -89,13 +89,13 @@
     {
       "hour": "2026-06-28 08:00",
       "count": 3
+    },
+    {
+      "hour": "2026-06-28 11:00",
+      "count": 3
     }
   ],
   "by_hour_7d": [
-    {
-      "hour": "2026-06-21 12:00",
-      "count": 2
-    },
     {
       "hour": "2026-06-21 15:00",
       "count": 1
@@ -287,12 +287,16 @@
     {
       "hour": "2026-06-28 08:00",
       "count": 3
+    },
+    {
+      "hour": "2026-06-28 11:00",
+      "count": 3
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 31
+      "count": 33
     },
     {
       "platform": "facebook",
@@ -301,6 +305,16 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "豪雨泡爛菜園瓜田！劉建國促中央從寬救助 爭取雲林蔬菜全品項補助 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPSENKTEhGc1VOM3M4eEdieW9TXzd4YzJxQ3owUHlMWGVJWnpncXdsbjgwVHhERmlqWGlwcWt6UzN5YTFXc2R1U2dNWWNIRGZ1b2pyT0dOSHlENmpQUDE0UkxoUHl6WUVGSmdGT1lhejVoYWlyYXFqQ0pOVjlwQ1VodzZwNjRzUm5aSUowLWxqdmNVOW80U3RQN2xJQzV5d2hjcGpPdVQ2RUQwakxTZ2NYZk1ESDhWSklSbWxMV1FTNk5DSG1yOEllSnZXb3BWNll5bG9QbUV0VXFZeTFLOEtkaC1XR1NhWXRwRzVQZFV2SE94cFZFc21FckZlZjY5bVdWbkdlcW9HeEFmVmIzYjgwUGpDTnVLTlJ1VTM0Q3RQUlRHREdHXzRHcmZwVDRLbDBlN05ydGk4U0RHNkgyamFwdkFUYi02S1g0QUJnQTRaeTlsRG9OSlVqTGdySGIxWno0WWpOWWVydFN5QmNUTUtDdUI2aFBMRmZVMGtSRFpjMmxqYUUwSUhPQy1CX0lNTnVTXy1YOUcxR1pMZ0VLWms3ajJ6TFdYblRzZHZqemJkZm41dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-28 11:33:45"
+      },
+      {
+        "title": "寓教於樂學防災！劉建國推毒化防災教育 打造更安全、更具韌性的家園 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQcFB3a3p0TVBVRE5YVzQySHZyNENvRGNZRGRxVlVTUFZlNFNYRExLbTRBX0NqbG50MDh4VTAwWHlKTC1WX1Z6eXB0NlFNeDN3UkVpRVl4TDBseDZLYi1CX1NKaUMwQ3ltY0h5REk2aHRJWC1DaHlubXFCcV9wOUdtel94dGJONkUyVDRaeFJ3U2d0dEpOZFpkdEFZS2ZLM3FHOFg1ZnJNcTN4NlNjamc0Q01HWXU5bHExVlkyR3VEem5GUFExS0Z0a01YVXBCOWVTZVU4czc2UmhPM09jNDMyYW43cW9RbWc2SXlCajkyQ1d3aXhRNXpqaVRseGlNMDZzTlV2aXpBVFpWN3RENlp4Z3RhZ1NoMFpENHFTUGdWTHBLamJCa3A2NkF2aG41NVc3M1p6eDBETE1veUY4NDNfRWNzN0otbmxDd1Rhek5hT212c1lCUi1lcXBRVXV3UHVqeVlYTWFYeXg0ZDhpdHNUU2pnc1Q0NUtBQXU5YTgzQ1BxQXMxZ1dBTFBwZHBMRXQ3OXdhdXNzbXhaOFhIMHJmejNVa0NvV2dzYjZhTWhEU0hNNFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-28 11:29:08"
+      },
       {
         "title": "米克拉豪雨重創雲林農業！劉建國急會勘 爭取蔬菜全品項災損救助 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRX0FWZ1U5c0NIUi0yMFBnY3J1QmVlSm45NjMycUZMei1OTTdySTY2Vkc3UUo3NzZWTEliRy0xbHBLYUh2eUp4LWZnZjRaU0xDQ0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -483,7 +497,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 31
+      "count": 33
     },
     {
       "platform": "facebook",
@@ -492,6 +506,16 @@
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "豪雨泡爛菜園瓜田！劉建國促中央從寬救助 爭取雲林蔬菜全品項補助 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPSENKTEhGc1VOM3M4eEdieW9TXzd4YzJxQ3owUHlMWGVJWnpncXdsbjgwVHhERmlqWGlwcWt6UzN5YTFXc2R1U2dNWWNIRGZ1b2pyT0dOSHlENmpQUDE0UkxoUHl6WUVGSmdGT1lhejVoYWlyYXFqQ0pOVjlwQ1VodzZwNjRzUm5aSUowLWxqdmNVOW80U3RQN2xJQzV5d2hjcGpPdVQ2RUQwakxTZ2NYZk1ESDhWSklSbWxMV1FTNk5DSG1yOEllSnZXb3BWNll5bG9QbUV0VXFZeTFLOEtkaC1XR1NhWXRwRzVQZFV2SE94cFZFc21FckZlZjY5bVdWbkdlcW9HeEFmVmIzYjgwUGpDTnVLTlJ1VTM0Q3RQUlRHREdHXzRHcmZwVDRLbDBlN05ydGk4U0RHNkgyamFwdkFUYi02S1g0QUJnQTRaeTlsRG9OSlVqTGdySGIxWno0WWpOWWVydFN5QmNUTUtDdUI2aFBMRmZVMGtSRFpjMmxqYUUwSUhPQy1CX0lNTnVTXy1YOUcxR1pMZ0VLWms3ajJ6TFdYblRzZHZqemJkZm41dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-28 11:33:45"
+      },
+      {
+        "title": "寓教於樂學防災！劉建國推毒化防災教育 打造更安全、更具韌性的家園 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQcFB3a3p0TVBVRE5YVzQySHZyNENvRGNZRGRxVlVTUFZlNFNYRExLbTRBX0NqbG50MDh4VTAwWHlKTC1WX1Z6eXB0NlFNeDN3UkVpRVl4TDBseDZLYi1CX1NKaUMwQ3ltY0h5REk2aHRJWC1DaHlubXFCcV9wOUdtel94dGJONkUyVDRaeFJ3U2d0dEpOZFpkdEFZS2ZLM3FHOFg1ZnJNcTN4NlNjamc0Q01HWXU5bHExVlkyR3VEem5GUFExS0Z0a01YVXBCOWVTZVU4czc2UmhPM09jNDMyYW43cW9RbWc2SXlCajkyQ1d3aXhRNXpqaVRseGlNMDZzTlV2aXpBVFpWN3RENlp4Z3RhZ1NoMFpENHFTUGdWTHBLamJCa3A2NkF2aG41NVc3M1p6eDBETE1veUY4NDNfRWNzN0otbmxDd1Rhek5hT212c1lCUi1lcXBRVXV3UHVqeVlYTWFYeXg0ZDhpdHNUU2pnc1Q0NUtBQXU5YTgzQ1BxQXMxZ1dBTFBwZHBMRXQ3OXdhdXNzbXhaOFhIMHJmejNVa0NvV2dzYjZhTWhEU0hNNFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-28 11:29:08"
+      },
       {
         "title": "米克拉豪雨重創雲林農業！劉建國急會勘 爭取蔬菜全品項災損救助 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRX0FWZ1U5c0NIUi0yMFBnY3J1QmVlSm45NjMycUZMei1OTTdySTY2Vkc3UUo3NzZWTEliRy0xbHBLYUh2eUp4LWZnZjRaU0xDQ0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -673,13 +697,23 @@
   },
   "mention_compare_24h": {
     "張嘉郡": 19,
-    "劉建國": 16
+    "劉建國": 18
   },
   "mention_compare_7d": {
     "張嘉郡": 40,
-    "劉建國": 65
+    "劉建國": 67
   },
   "top_news": [
+    {
+      "title": "豪雨泡爛菜園瓜田！劉建國促中央從寬救助 爭取雲林蔬菜全品項補助 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPSENKTEhGc1VOM3M4eEdieW9TXzd4YzJxQ3owUHlMWGVJWnpncXdsbjgwVHhERmlqWGlwcWt6UzN5YTFXc2R1U2dNWWNIRGZ1b2pyT0dOSHlENmpQUDE0UkxoUHl6WUVGSmdGT1lhejVoYWlyYXFqQ0pOVjlwQ1VodzZwNjRzUm5aSUowLWxqdmNVOW80U3RQN2xJQzV5d2hjcGpPdVQ2RUQwakxTZ2NYZk1ESDhWSklSbWxMV1FTNk5DSG1yOEllSnZXb3BWNll5bG9QbUV0VXFZeTFLOEtkaC1XR1NhWXRwRzVQZFV2SE94cFZFc21FckZlZjY5bVdWbkdlcW9HeEFmVmIzYjgwUGpDTnVLTlJ1VTM0Q3RQUlRHREdHXzRHcmZwVDRLbDBlN05ydGk4U0RHNkgyamFwdkFUYi02S1g0QUJnQTRaeTlsRG9OSlVqTGdySGIxWno0WWpOWWVydFN5QmNUTUtDdUI2aFBMRmZVMGtSRFpjMmxqYUUwSUhPQy1CX0lNTnVTXy1YOUcxR1pMZ0VLWms3ajJ6TFdYblRzZHZqemJkZm41dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-28 11:33:45"
+    },
+    {
+      "title": "寓教於樂學防災！劉建國推毒化防災教育 打造更安全、更具韌性的家園 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQcFB3a3p0TVBVRE5YVzQySHZyNENvRGNZRGRxVlVTUFZlNFNYRExLbTRBX0NqbG50MDh4VTAwWHlKTC1WX1Z6eXB0NlFNeDN3UkVpRVl4TDBseDZLYi1CX1NKaUMwQ3ltY0h5REk2aHRJWC1DaHlubXFCcV9wOUdtel94dGJONkUyVDRaeFJ3U2d0dEpOZFpkdEFZS2ZLM3FHOFg1ZnJNcTN4NlNjamc0Q01HWXU5bHExVlkyR3VEem5GUFExS0Z0a01YVXBCOWVTZVU4czc2UmhPM09jNDMyYW43cW9RbWc2SXlCajkyQ1d3aXhRNXpqaVRseGlNMDZzTlV2aXpBVFpWN3RENlp4Z3RhZ1NoMFpENHFTUGdWTHBLamJCa3A2NkF2aG41NVc3M1p6eDBETE1veUY4NDNfRWNzN0otbmxDd1Rhek5hT212c1lCUi1lcXBRVXV3UHVqeVlYTWFYeXg0ZDhpdHNUU2pnc1Q0NUtBQXU5YTgzQ1BxQXMxZ1dBTFBwZHBMRXQ3OXdhdXNzbXhaOFhIMHJmejNVa0NvV2dzYjZhTWhEU0hNNFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-28 11:29:08"
+    },
     {
       "title": "米克拉豪雨重創雲林農業！劉建國急會勘 爭取蔬菜全品項災損救助 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRX0FWZ1U5c0NIUi0yMFBnY3J1QmVlSm45NjMycUZMei1OTTdySTY2Vkc3UUo3NzZWTEliRy0xbHBLYUh2eUp4LWZnZjRaU0xDQ0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -729,19 +763,19 @@
       "title": "暴雨狂炸雲林葉菜受損達8成！張嘉郡爭取天然災害補助，呼籲農民先拍照保權益| 夏和宣| 地方新聞 - Storm.mg",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNaEtBQjBjNW1tbGxpbzQ2TzRVdXVTanhueTBGTFBad3hBQ216N3VBQjhfZ1VOekc1dVBQMG5LdGo3RFNJdEJ6VU92NlVWZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-27 18:33:37"
-    },
-    {
-      "title": "暴雨重創雲林 立委張嘉郡：儘速爭取天然災害補助 改善排水灌溉系統！ - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GZ1dLY0poWFB6Q2NLdmxPWldENGtXZFdDNW9jOHBKVlltN1B0c0duYUhoVkFOVFh1Zlp2WHRYaERUSHdrMlV6ajNLWkNONHNqVWdBU0FVTHlzbmJpX3RmdnlpbW0wSlhrM2Zn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-27 18:29:17"
-    },
-    {
-      "title": "劉建國爭取1900萬防汛 守護農民生計 - 臺灣導報",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SQkFYYkozR0owdDd1U0ZyTlBtOWVtcGd5MVF1QTcxd2ZfY3ZObkhaM0ZVcVcwWm52NGNGVWJ3SjVPQWRiY2RONTJ6dmVaRWxWZHJr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-27 18:15:15"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "豪雨泡爛菜園瓜田！劉建國促中央從寬救助 爭取雲林蔬菜全品項補助 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPSENKTEhGc1VOM3M4eEdieW9TXzd4YzJxQ3owUHlMWGVJWnpncXdsbjgwVHhERmlqWGlwcWt6UzN5YTFXc2R1U2dNWWNIRGZ1b2pyT0dOSHlENmpQUDE0UkxoUHl6WUVGSmdGT1lhejVoYWlyYXFqQ0pOVjlwQ1VodzZwNjRzUm5aSUowLWxqdmNVOW80U3RQN2xJQzV5d2hjcGpPdVQ2RUQwakxTZ2NYZk1ESDhWSklSbWxMV1FTNk5DSG1yOEllSnZXb3BWNll5bG9QbUV0VXFZeTFLOEtkaC1XR1NhWXRwRzVQZFV2SE94cFZFc21FckZlZjY5bVdWbkdlcW9HeEFmVmIzYjgwUGpDTnVLTlJ1VTM0Q3RQUlRHREdHXzRHcmZwVDRLbDBlN05ydGk4U0RHNkgyamFwdkFUYi02S1g0QUJnQTRaeTlsRG9OSlVqTGdySGIxWno0WWpOWWVydFN5QmNUTUtDdUI2aFBMRmZVMGtSRFpjMmxqYUUwSUhPQy1CX0lNTnVTXy1YOUcxR1pMZ0VLWms3ajJ6TFdYblRzZHZqemJkZm41dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-28 11:33:45"
+    },
+    {
+      "title": "寓教於樂學防災！劉建國推毒化防災教育 打造更安全、更具韌性的家園 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQcFB3a3p0TVBVRE5YVzQySHZyNENvRGNZRGRxVlVTUFZlNFNYRExLbTRBX0NqbG50MDh4VTAwWHlKTC1WX1Z6eXB0NlFNeDN3UkVpRVl4TDBseDZLYi1CX1NKaUMwQ3ltY0h5REk2aHRJWC1DaHlubXFCcV9wOUdtel94dGJONkUyVDRaeFJ3U2d0dEpOZFpkdEFZS2ZLM3FHOFg1ZnJNcTN4NlNjamc0Q01HWXU5bHExVlkyR3VEem5GUFExS0Z0a01YVXBCOWVTZVU4czc2UmhPM09jNDMyYW43cW9RbWc2SXlCajkyQ1d3aXhRNXpqaVRseGlNMDZzTlV2aXpBVFpWN3RENlp4Z3RhZ1NoMFpENHFTUGdWTHBLamJCa3A2NkF2aG41NVc3M1p6eDBETE1veUY4NDNfRWNzN0otbmxDd1Rhek5hT212c1lCUi1lcXBRVXV3UHVqeVlYTWFYeXg0ZDhpdHNUU2pnc1Q0NUtBQXU5YTgzQ1BxQXMxZ1dBTFBwZHBMRXQ3OXdhdXNzbXhaOFhIMHJmejNVa0NvV2dzYjZhTWhEU0hNNFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-28 11:29:08"
+    },
     {
       "title": "米克拉豪雨重創雲林農業！劉建國急會勘 爭取蔬菜全品項災損救助 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRX0FWZ1U5c0NIUi0yMFBnY3J1QmVlSm45NjMycUZMei1OTTdySTY2Vkc3UUo3NzZWTEliRy0xbHBLYUh2eUp4LWZnZjRaU0xDQ0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -831,19 +865,14 @@
       "title": "劉建國力邀部長下鄉座談奏效！農糧署花生災害莢補助每臺斤8元 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNWFBNcTdCMTE2YmNUZlQ3UzQtWnBEaU50Z2FTU1piSWh6NW9EYm5jc0JOMzFoR0ZnNDRWVU1pNTJmbmJqV2xHeUI0OXpvRWFHODdyMG5UYk5USVdLdjF2RmpGV21VcW5UMkJUWDRTcnAyd2lKbEVuYmNCMjZfMDIyWDZkNGp2S2VOeWFoWjR1MW9mS0JoZUlQMEZiYWRwQ2tucGlSUHprNXZSMEhxc3FzbkxBVGg3VjN0N1U5YVZYMmJlNFBrUzFaWnoxUVFScXVEVVFkWGdXazNJNUwzYmFrSE9GNjA0M2t3TnM4dFBSYTNxVFhqQU56TkZ2R0I0N2pQY09xcVFUUXBZV3ZRX0hyREJLX2o5eXhHVktvdWFoV1Uwb25EdWNEcTEwNzFxazNWYlEtZzRRLTZzeXFldmQ3dkhUQVctSmttS0ZnNnRETm03bVpPREFSbXFYTmJTTTZoZmp6SXpPTHJrWTY2MFBMcE5EQk5VR2gzdW9iZ3RlLWE1bW1sU0lSTU02NVVOU2sxcGNSaVBzcWdoQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-27 17:28:33"
-    },
-    {
-      "title": "劉建國力邀部長下鄉座談奏效！農糧署花生災害莢補助每臺斤8元 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZmJESjhUZVJ2MFgyd2JUOTRhR1RKRWc0c18zZHBxY0pNXzM3eFdrUTVFVTJaNEsxcGhkek4yVlhoOHVYbmpkWjRMRHVKdkpIdWdYd29LaEhDbUdBWmY5THJ1RlFTWmdDeE9PWnN3RnBXVDZJVUVLWG1hX0gtU3ZmanNTaWhpWERIY1FZZ0JCblBZVDBONEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-27 17:28:33"
-    },
-    {
-      "title": "防災教育向下扎根 立委劉建國：讓防災成為生活習慣 攜手打造安全永續家園 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2TElGa19WWUN3ZVdMTFduMkl0QlZRd0tIUWZaaGF0UmFXRVpTUVBLWmpMR0xqbzBtTXZSNFRkMkhHZEQ3SUNPR1NqUThaalQxQ1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-27 17:21:00"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "【從未雨綢繆到緊急救災，假日馬不停蹄！】 ​其實在豪雨來臨之前，建國就已陸續前往多處視察排水與疏濬工程。當時預見極端氣候的強降雨可能對農作造成衝擊，便未雨綢繆，第一時間先行通報農糧署。 ​面對農民的心血受損，我們再度踏上會勘的腳步，於假日緊急邀 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxPZGxZRGlsMGJ0cVRXREdjZXBkbThpUjlqc0M2Znc0NEYzVy1EWUc2b18zX082Uk0zU2ExSnJaSEhaU0RYdkUxaExUMGZTZTNENHh0dnE2TjBNWUNXdDZYZFVwOURFY3c1cmd0NjFpUXRQMm9jNTZEQV91d0o5UWdHNnpCNEdublRDZVVqcFlyZzJjRHU1SVhiZVY1RTJhTHBfbUt5al95S1BxWTRuVUhVWXFFUnh6RDJtYW9XdFpPamxlZi13UFBETXJTZzh3eXp0RHBrVWNJdHJuOVRTc0s5Q1ZrcXZ1XzZZbkxBeDRUTXFiMGlaVUQ5RllZNFltSmxSTzJlWWZMUWdwTzBLWlBlV2lYMG9PRGVKTVp0ZUNRdU1xWE5MMGNFX2pRenB0OU1DbUFWX2M3QjJzR1liM19DM2Z0Tk5HTGJ0TWUxSGQ1NW9MS3dYR3lNUFVCaVZ4NlZtYkVzbTVmc1lJclVSNFluY3NfbTRtWS1CMEZBUllEa19XWE1iVjNxbjhVeXZLaDlTc2htMVl3SDVZTjhDNzNhSzZXX25MbnM3UUZmSFVVX2JTYTRKN1ZEV3ZPLXZpcjBLMk5WVmVqb0toRHpXYWIzYXdhUVFjUFN3R1R0YVlJMWVGRzRibG4tOE1JdDFNeXR6V19FQVhWVHdUM2otb0o4T0dSSlc3MFN4MnJPR3ZHaFJLX3cydS1SelRMd3NqZ2dGeHJrR2tMTzNaV2xaVVJvc1MwR0l1eHNMb0QweFdLWUZHc0NPVFZackY4WWJCNy1ZbkIzTUtJdG9Pci1MZ1Raa1MxSk9GRG9IWE1Vc05hMmV2OGJYOHptcjR2aV9ySlRhWllKckV6RW5ka2tpa3lIMXZNU0xYdGpYS09yd2pXMlJlalhNdEZYZDRBNGRzaVVNWDhfRnBEd0tycWFLVlMwV1BhNUFQalBSVTM4bWFablFZYjVvaWp4dWVPMGZTWFl3b3VzUEMxeTZ4RUlOSUwxNHpYSWVEZDFqcURqakhFQ0NXN3ltX3FvU096TzFFRDhyNWpualJRWDQxRmVWQks0Z3hDTHI4aE9scUcwRUNaSk14QWN2NjBOOUl3Vk9RQ2FFUzhaVU4tNmRoUzZlTXV3Z0VHU2xYS2l6UmlGNy1OcE5Ua19PbmpyNjVyaDFXQ3JTRTBCU3BOcWptSks0YVNkSFJCM3FvZVJacUp1cnhZa2N2S1hjOF9ld29wV3lQMEVLclNDR3BtX1Fua3NtaEh3MGVZS29CYzNoTjZDM0NEVDdtSzFTRGU0R3ZGc21EZW1od3J4bENPSmhHTklZVlczQUlCSlZLdG5FOEhadU4xYmJQZHJ5eWtUdS1JOUt3N2dtMkxCVEVwRFJVS0JRTFp3Y0FLTW1QeHk0N1R2RVZlVlRaN1lGc1RiczBJbXZBRVk",
+      "time": "2026-06-28 11:05:29"
+    },
     {
       "title": "豪雨無情，造成農民嚴重損失，在縣府迅速彙整災情並由張嘉郡委員、丁學忠委員與 許宇甄委員等民代積極向中央爭取下，農業部已正式公告，雲林縣全縣列為115年6月下旬豪雨農業天然災害現金救助及低利貸款地區。 救助作物： 📍蔬菜（全品項）每公頃3萬到20萬元 📍 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi_gdBVV95cUxNLVl1bUhyVEhybC0zdkwxRXRYYVJseGZKaVRRa2FHbjA0bVhHM3M1UkZIajdDV3VzSHcxMjBfM0ZXaWhhWE1nN0gydG1LS3FwNVBOQ1JzM1IxNlYwbGE3eEFSUlNxaWxSRjlaeWRYenF0eHoyLS13ZC1JWDVYWFBLUVlFYno4UU1FUzd1eFpBaFBaQ0ozZHhTSkhWbnF1ckdaQm1RRDFEYVp2ck9fVDY3OElHUWs1Qks4YU5rNHBWSi1manJXbXJDYlBJYmFYcEpwekpCcnlHVE1ReVNBdmVvQ1pjMGdraXhrYWZ5RFkwSUZLaHVzQ05iMEdsUHZlMjNDeUNYOVVoOGJXQVQzYW9NQUlzaE52T0VSUmIyejdXTmpSOUdOS3R3SnVxN0NOc0xTUTV5djNxUk1fNENEMXFSbkFnX19wZlc5QlZxWExfVlJFZlRheVhFd2J6YXBmS2hjbDZ6N3FDMXphcjdtUEFydmFjX0U2c0pwUkcydGd3UDNTb1BadGhhQWEwbHhTWUNtOTZOeGROUklwbVlGU0RVbUtMaUlENDREd01HRUg5TTNWc0ttQnp6eHZWdEp0Y1lKN3oySFE2SWZhV19jMkVjaUwxQ1VlXzBRRkIzbGNuZ0NsZmZiS1IwcHBvUXNzNFpocmZXZUJlUWVneWNCTXY2U0NLRWh3bTFmRVZOYW1wdFdObTBEUW1aSTFucGFMR2Vha2NnV1hteFdXU0xNRTFUZmJmcHdCMlM3T2FRUnZyS1NXZlFycGZuZDBDRmpoWFp6RkZGZG9idXp1QkRWTlRtNTFMTHRQR3dDb0l2NFVzWFJKRUttYjJYbzIxVFlVNUZvckpfdzlGS1dEN1RvcS1jb0tSNmN4NUNpOW80d1lrRFV3NWRLcUtjaEZ5aS1NM1Zwa3A1eG1EWi1YOVExbGpXSTdPWkRYSmx2LTFSVGVVcE9yT0FnY0hDTUEwcHFpZ3lWTnBfMjdBSk9aWm10RFNoUTZnMDZmTC1Pbi02YnlOV1U2cnNUQkRvWkJIa1lrY01hLWRMOGllZ0w4Z3Y1UHJ3cTZsVndaSTlBQnlob1dVWkZ2Y1RzUlI0TEFLdmFWVHBfczRJelh5WVFIQVZhd3I0QTVkbkhqWnNpblhGYnhpd2xsRUdlWFQxNXV6Y3NkS2NNbzdoX1FGRTNEcU1aWUxtTjRUVDJCaTNScmJuNGlSd0pZcm02VEs4bGRHQUlONjk1R2w4ZXd4RWlCVUxpTkxmQVlyUlNvSWJyUkR5QzBlN21tNDk4T25MWGlfSFVrQ3hsWXhJNWk0VUdKaDFidldCOVFnMlZZNnpfeDZCd25MMG5xbWlJdFlJQlN3d3VNZw",
@@ -938,14 +967,19 @@
       "title": "5月， 賴清德 總統宣布「#台灣人口對策新戰略」18項措施，其中也納入建國強力爭取的政策，將育兒假適用年齡由現行未滿3歲，擴大至6歲以下，讓更多育兒家庭獲得支持。 為了落實賴總統的新政策方向，這兩天 #衛環委員會 如火如荼審查《#性別平等工作法》及《#就業保 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi5gdBVV95cUxNaE4xM2lMM1U5TzNhbnVSWWV4Rkk5cjgwSk5VTEJmLV9lV2l5aHlLUTJIWkgzZThKWVpmZ0NWTXJpd2FEZXBRcU1FLU9NSjd4bEdkZEFEQjFya3prTXg0bjktTE56dWoxb3pPSThQOThBbVpGaUR3QTZXeENqS0VLWmhEVHNuVnBXZFplejRVZ1BDLWZGVm03LTBrVTBJYWpUVDI2bFU0cEVqV3hEQVZ6YXpjZUF1N19YNWZ5c0h0cUdMSGRlUzNCWGFyQUEwRFdQczdtNjduN3hxLWhuYzhPdmt1bW5YTTd2VV9wM1g0aGxtbERNR08wN2I4MWp1eG1jbVdPN3A5V2Zub0dfWl8tM2RVc1BtcXhaUUVoTlQ0cy00YlcwRklXYzJYeWk1VXIxR241cHd6OE93Tm5OMTV5NDEzNFNtSy1idmh3aS1RbHgwVlg1aUZPSjFuNlJOQkJhMmN4TlJPWnI3MVRJVDByczlndVc4WlhWa3FMU2lJOUtTRnlXZEtpaXlvZFZBYlZzUVpWYkctYXBmZjQxMnV5U2RNek4tQUQzR1EzOElEUFVsQzFMQzR2MHZOelN6RzF1bzFxTEpyZVNvZEkzbU82X0psc1FyMkllSzRQSmpkcU1sd3VJUk9JMlAyZXctZVV3VjlIUVRqZlpXZ1hxUzlWZjFOLWM3UFdiZEU5a1M3RUhaX21mZ1FxTnlGN2JZRG1JQUNKV2MxR184ekRxTHRQRWhqQmx4ckdIa2twM19YcVA2NHVEbDdHUERseDh1bnY4a1JYbDR4NWJWekN2WE5CaTRFRlJXUDBOMklOVk5KdGxLSE1wZE5vMWFqV3hsbTZRTlg0QUYzWmtTWjFVSzFKNFhWcDZMNXRVZ2hHdF9GTHVJeFZxSmFWckRNdEdhSzE4SlVYalRxaUI1OXNIN2M2dXpNMzFfYTdJRE5lTGUtVnhjQThvdjN6aUdJazdDMVM3Uk1BR1VFc2RjMmVXektPZWNmRno5ZFNmampqQ0xmaVdiVVlQbDB0RzJrSlVhVUdoZkF6YXdHMFBLODFZZ1ZodmZRSTBiRXB2c1dXemYxYzVYUkxrSzVFY1FoYW5IM1ZpaU94bTFuRktrNE5YcHcxZWNjZzZ3SmczeWdyS3gxN1ZtSXVZdkJ5UkVVNnkwdzhkc1pONWt0X2RVZG9uQzRXODZ3N0tOWkJDVjZvbnpmd2sybmhlYW5kdVRub2hObkMzV0tSZ0lOY2JRVlRxV25lWW9qUWdoWG1FOGM0TUJpNVFEUXJ4Q1J3TTFUNzU5QWtvRUJVMnlzNTZva1VWZnlleDJidGp5UQ",
       "time": "2026-06-25 15:56:39"
-    },
-    {
-      "title": "#文蛤天然災害現金救助公告📢 日前豪雨造成沿海地區養殖文蛤受損，不少漁民朋友一整年的心血受到影響。 嘉郡與 榮耀海線 丁學忠 委員第一時間共同向中央反映、積極爭取，農業部已公告雲林部分鄉鎮辦理 #文蛤天然災害現金救助。 請符合資格的漁民朋友把握時間 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMikAhBVV95cUxOUXMzdU55UEtQaWZnV2hCMUZBUmJ4QWFuYW85X0RLOUZlYk9uTHc5Y0VqeWYyZ25oV3pVeDg3dmVqWnVWeTJ6SFJMVko5N2ZxbmlIdjlSV2hEdXFsMFdQTDlxVklTb1FxTmM1T3J3VWxkRGtVVG9uRU5xaUNaTHNXR1pHc2NNbE1NSzk4OVJoTXpDZ2VPbEtseEdhYThKQUFudERXLVNQZW83ZHRMaFJoWkFmaFYxNFBuNmVPY1VycVJPRU9uRk9HMXFvMEpEWHRWTlRlUUpSS2huS2dvb0dteGFzdXBHUTB4Y0RfeGVXUHFHR3V1RXdfX0tHQVpqdVNMVGcwc29wLUk2T0YzaVBIejlyOWZtU0M1aHB4T1ZQcjFWUG15dzQ0OUNiNDlJM1dBVlhwTUJDVUtvXzhaRFdaeWIzMDFuc3NkY2ZESFY5QTV5S2x3OXd2Tk0yUTlpSXp1dDlPUmY1VHNJd2NwMjFtRHZzamxOc0FTVFU2a00tdmI4bkFybGZ5YnJoaVZiNkNTLU5LMnYyRlFCRG1RczlkSjZ2SlU4QmFuWnJoRl93anJOOU5ZZWM4dXhGeldaLUdBWTYtTWNCR2RZQlNma2lQX2hJRDU0MXZpcUpKUlh0RFJaRVAzMXhScG1qamt4aURaZXcxWkJxdFdPTmdEM3BLTzVveVBoOFJLdWFIQkJYeUp4V25NYmE5eEs1ck5VOHk0bFF4NXo0dzFxSFFkUFFCLVFIaTdMNTYtZ1hzZzN6TG42eHp3Z2JGVVR5OU1CZUNGMXVtclVkM1lmQUxxUTdyVmtZNWhBZmtmYVBNSTBueF9STGY0SHRHY2RSTWx5RkM5T1BaZ3ptcWJpenpZNTZ2RGtJSnJZenl0QzlKamYxWGdjMGhRa1BLQTlfVEVrd1FCdDJRSUp0Vk9OcGZTYVdkOVpMUUt1Z21PSkRrdU9QR3Nsak9WUm1sRXByMTYxLVNnU2pOR2F1dWo3MTNCZkhHbnJRSGFfS2QwZTVDaWUxX1lPRXZzQWZvY003b0dtaWx2dUFVdjViNk1zUjNsT3Q1VEZLcHV1dW1WYXVTVUJ6N0ExQkFVekJLUU5ORUVRak1rRXFHX3pRUDNrUFdrOTlPY1k2ZFRVVmEwSGRma05UUXBWQTN6NFZfZ0g3R3YxOExzWWVZV2JsTzBQQ2JZR2RURzVjbHpzQ0RvN1Zuc1ZNZlVEcFczNnNjTVhhT1h5RkVLaWRMT3A1Xzc0bFVaUVRUOWFuSlVxajVESVdSdnNDRERmUy1DMHpQblhYU0Y2eW5YWS1UZjltT2RpakctOEVWRG0zSTlBTjRERGwwZEotc3VOQ1BvZ2Vyby1iclRreVhFejBqRWRMNGp1dUFOUjBaUg",
-      "time": "2026-06-25 15:50:44"
     }
   ],
   "latest_news_20": [
+    {
+      "title": "豪雨泡爛菜園瓜田！劉建國促中央從寬救助 爭取雲林蔬菜全品項補助 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPSENKTEhGc1VOM3M4eEdieW9TXzd4YzJxQ3owUHlMWGVJWnpncXdsbjgwVHhERmlqWGlwcWt6UzN5YTFXc2R1U2dNWWNIRGZ1b2pyT0dOSHlENmpQUDE0UkxoUHl6WUVGSmdGT1lhejVoYWlyYXFqQ0pOVjlwQ1VodzZwNjRzUm5aSUowLWxqdmNVOW80U3RQN2xJQzV5d2hjcGpPdVQ2RUQwakxTZ2NYZk1ESDhWSklSbWxMV1FTNk5DSG1yOEllSnZXb3BWNll5bG9QbUV0VXFZeTFLOEtkaC1XR1NhWXRwRzVQZFV2SE94cFZFc21FckZlZjY5bVdWbkdlcW9HeEFmVmIzYjgwUGpDTnVLTlJ1VTM0Q3RQUlRHREdHXzRHcmZwVDRLbDBlN05ydGk4U0RHNkgyamFwdkFUYi02S1g0QUJnQTRaeTlsRG9OSlVqTGdySGIxWno0WWpOWWVydFN5QmNUTUtDdUI2aFBMRmZVMGtSRFpjMmxqYUUwSUhPQy1CX0lNTnVTXy1YOUcxR1pMZ0VLWms3ajJ6TFdYblRzZHZqemJkZm41dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-28 11:33:45"
+    },
+    {
+      "title": "寓教於樂學防災！劉建國推毒化防災教育 打造更安全、更具韌性的家園 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQcFB3a3p0TVBVRE5YVzQySHZyNENvRGNZRGRxVlVTUFZlNFNYRExLbTRBX0NqbG50MDh4VTAwWHlKTC1WX1Z6eXB0NlFNeDN3UkVpRVl4TDBseDZLYi1CX1NKaUMwQ3ltY0h5REk2aHRJWC1DaHlubXFCcV9wOUdtel94dGJONkUyVDRaeFJ3U2d0dEpOZFpkdEFZS2ZLM3FHOFg1ZnJNcTN4NlNjamc0Q01HWXU5bHExVlkyR3VEem5GUFExS0Z0a01YVXBCOWVTZVU4czc2UmhPM09jNDMyYW43cW9RbWc2SXlCajkyQ1d3aXhRNXpqaVRseGlNMDZzTlV2aXpBVFpWN3RENlp4Z3RhZ1NoMFpENHFTUGdWTHBLamJCa3A2NkF2aG41NVc3M1p6eDBETE1veUY4NDNfRWNzN0otbmxDd1Rhek5hT212c1lCUi1lcXBRVXV3UHVqeVlYTWFYeXg0ZDhpdHNUU2pnc1Q0NUtBQXU5YTgzQ1BxQXMxZ1dBTFBwZHBMRXQ3OXdhdXNzbXhaOFhIMHJmejNVa0NvV2dzYjZhTWhEU0hNNFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-06-28 11:29:08"
+    },
     {
       "title": "米克拉豪雨重創雲林農業！劉建國急會勘 爭取蔬菜全品項災損救助 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRX0FWZ1U5c0NIUi0yMFBnY3J1QmVlSm45NjMycUZMei1OTTdySTY2Vkc3UUo3NzZWTEliRy0xbHBLYUh2eUp4LWZnZjRaU0xDQ0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1035,16 +1069,6 @@
       "title": "劉建國力邀部長下鄉座談奏效！農糧署花生災害莢補助每臺斤8元 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNWFBNcTdCMTE2YmNUZlQ3UzQtWnBEaU50Z2FTU1piSWh6NW9EYm5jc0JOMzFoR0ZnNDRWVU1pNTJmbmJqV2xHeUI0OXpvRWFHODdyMG5UYk5USVdLdjF2RmpGV21VcW5UMkJUWDRTcnAyd2lKbEVuYmNCMjZfMDIyWDZkNGp2S2VOeWFoWjR1MW9mS0JoZUlQMEZiYWRwQ2tucGlSUHprNXZSMEhxc3FzbkxBVGg3VjN0N1U5YVZYMmJlNFBrUzFaWnoxUVFScXVEVVFkWGdXazNJNUwzYmFrSE9GNjA0M2t3TnM4dFBSYTNxVFhqQU56TkZ2R0I0N2pQY09xcVFUUXBZV3ZRX0hyREJLX2o5eXhHVktvdWFoV1Uwb25EdWNEcTEwNzFxazNWYlEtZzRRLTZzeXFldmQ3dkhUQVctSmttS0ZnNnRETm03bVpPREFSbXFYTmJTTTZoZmp6SXpPTHJrWTY2MFBMcE5EQk5VR2gzdW9iZ3RlLWE1bW1sU0lSTU02NVVOU2sxcGNSaVBzcWdoQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-27 17:28:33"
-    },
-    {
-      "title": "劉建國力邀部長下鄉座談奏效！農糧署花生災害莢補助每臺斤8元 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZmJESjhUZVJ2MFgyd2JUOTRhR1RKRWc0c18zZHBxY0pNXzM3eFdrUTVFVTJaNEsxcGhkek4yVlhoOHVYbmpkWjRMRHVKdkpIdWdYd29LaEhDbUdBWmY5THJ1RlFTWmdDeE9PWnN3RnBXVDZJVUVLWG1hX0gtU3ZmanNTaWhpWERIY1FZZ0JCblBZVDBONEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-27 17:28:33"
-    },
-    {
-      "title": "防災教育向下扎根 立委劉建國：讓防災成為生活習慣 攜手打造安全永續家園 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2TElGa19WWUN3ZVdMTFduMkl0QlZRd0tIUWZaaGF0UmFXRVpTUVBLWmpMR0xqbzBtTXZSNFRkMkhHZEQ3SUNPR1NqUThaalQxQ1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-27 17:21:00"
     }
   ],
   "person_sections": {
@@ -1359,6 +1383,16 @@
       ],
       "news": [
         {
+          "title": "豪雨泡爛菜園瓜田！劉建國促中央從寬救助 爭取雲林蔬菜全品項補助 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPSENKTEhGc1VOM3M4eEdieW9TXzd4YzJxQ3owUHlMWGVJWnpncXdsbjgwVHhERmlqWGlwcWt6UzN5YTFXc2R1U2dNWWNIRGZ1b2pyT0dOSHlENmpQUDE0UkxoUHl6WUVGSmdGT1lhejVoYWlyYXFqQ0pOVjlwQ1VodzZwNjRzUm5aSUowLWxqdmNVOW80U3RQN2xJQzV5d2hjcGpPdVQ2RUQwakxTZ2NYZk1ESDhWSklSbWxMV1FTNk5DSG1yOEllSnZXb3BWNll5bG9QbUV0VXFZeTFLOEtkaC1XR1NhWXRwRzVQZFV2SE94cFZFc21FckZlZjY5bVdWbkdlcW9HeEFmVmIzYjgwUGpDTnVLTlJ1VTM0Q3RQUlRHREdHXzRHcmZwVDRLbDBlN05ydGk4U0RHNkgyamFwdkFUYi02S1g0QUJnQTRaeTlsRG9OSlVqTGdySGIxWno0WWpOWWVydFN5QmNUTUtDdUI2aFBMRmZVMGtSRFpjMmxqYUUwSUhPQy1CX0lNTnVTXy1YOUcxR1pMZ0VLWms3ajJ6TFdYblRzZHZqemJkZm41dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-28 11:33:45"
+        },
+        {
+          "title": "寓教於樂學防災！劉建國推毒化防災教育 打造更安全、更具韌性的家園 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQcFB3a3p0TVBVRE5YVzQySHZyNENvRGNZRGRxVlVTUFZlNFNYRExLbTRBX0NqbG50MDh4VTAwWHlKTC1WX1Z6eXB0NlFNeDN3UkVpRVl4TDBseDZLYi1CX1NKaUMwQ3ltY0h5REk2aHRJWC1DaHlubXFCcV9wOUdtel94dGJONkUyVDRaeFJ3U2d0dEpOZFpkdEFZS2ZLM3FHOFg1ZnJNcTN4NlNjamc0Q01HWXU5bHExVlkyR3VEem5GUFExS0Z0a01YVXBCOWVTZVU4czc2UmhPM09jNDMyYW43cW9RbWc2SXlCajkyQ1d3aXhRNXpqaVRseGlNMDZzTlV2aXpBVFpWN3RENlp4Z3RhZ1NoMFpENHFTUGdWTHBLamJCa3A2NkF2aG41NVc3M1p6eDBETE1veUY4NDNfRWNzN0otbmxDd1Rhek5hT212c1lCUi1lcXBRVXV3UHVqeVlYTWFYeXg0ZDhpdHNUU2pnc1Q0NUtBQXU5YTgzQ1BxQXMxZ1dBTFBwZHBMRXQ3OXdhdXNzbXhaOFhIMHJmejNVa0NvV2dzYjZhTWhEU0hNNFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-06-28 11:29:08"
+        },
+        {
           "title": "米克拉豪雨重創雲林農業！劉建國急會勘 爭取蔬菜全品項災損救助 - 蕃新聞",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRX0FWZ1U5c0NIUi0yMFBnY3J1QmVlSm45NjMycUZMei1OTTdySTY2Vkc3UUo3NzZWTEliRy0xbHBLYUh2eUp4LWZnZjRaU0xDQ0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-28 08:38:00"
@@ -1447,22 +1481,22 @@
           "title": "豪雨鋒面來襲 劉建國偕農水署雲林處長現勘二崙鄉農水路 強力要求清疏並爭取改善經費 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxOOEU1Si1XcW9uMms3Z0Y4SS1FVzBZdmVNeW1kYzMwMUFaMlNvTUZwdU9BeVFYMFdtQjlXYmdPZGpaeUJicVV4WFhOWVhjb0hWZGI1OTRuM3ZhU01YdGp5bEltdl8wbzV5QzNGdTBiOHVEbFE1SjkxTFdxUWIzcXkwSTJ1WVB4Qm9HdlJKZG84UWJtTzJ3X0o3SFZmRGc4RlFpY2RRRURqX3lCWENjLU93TFpKTlcxUXlwb2pDaHRrM3RFWUhURlBzTjZCZnM1VWdMOFJTQnB4a2ZnLVpMRkNYbWp5VXpib2drRHlZRTBPQ0lLYklJM3NtLVZfU09fU2NNNW1vc2RXSzBUd0xVWmtBTWxTMXVDZjQxMjNwdTBTNTZITXRWOVRNOXZKbkYtbU1YNUhvN0h4QVNjUmVoNHZ6cUtxWXBjd3N3UFJ5N0dMTzBqeXQzdzRheWViV05VZ2pkM2JES0tQSWs2bDZMNk5kSXJEc0hYTGRnNTJFQVJvNUpvdUdiazRXcXU0cmlybzNyRXYwVnp1eVo5SGRDUnp5X1RWZWdOVjhPT3V4UmN2cnFXX2ExTzdBNVBLVU1vRy1GS0sxbmtSUE01N1FpbHhHX1FCX2gzWGZJSWJKaGdueVJ4bmxMYXFxUm9CdFFkUzNRUFc0Z0pZV1MtNk5DY1haSk5QVmZucDBCelcwSm8zQmlpVVVNSHctUkFFbnVZQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-26 16:58:02"
-        },
-        {
-          "title": "立委劉建國爭取高粱、仙草、文蛤天然災害現金救助全數公告中央迅速核定助農漁民災後復耕復養 - 蕃新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kcXdHWHhodUlwd3NWZ09FZkZPalZPajYzT0s4MUt4UnppbVFBenlYVGJndW5STzhsYUV0R2ItcElyb1JyMkhKdW9jUWp5eVZiVnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-26 14:11:00"
-        },
-        {
-          "title": "雲林花生遭豪雨重創！劉建國出手補助方案曝光 | 民視新聞網 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VVnYxdmUxbk5KN3d6T1JFaGp3T0tSZ3ZwX25WNzh3c3dSbmFzWkIzdExNcGQyeXcyWlBfaFZRYmJDOWtTZUpFRVAyTnBNeVkyU1BXMzR3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-25 18:37:53"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "豪雨泡爛菜園瓜田！劉建國促中央從寬救助 爭取雲林蔬菜全品項補助 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPSENKTEhGc1VOM3M4eEdieW9TXzd4YzJxQ3owUHlMWGVJWnpncXdsbjgwVHhERmlqWGlwcWt6UzN5YTFXc2R1U2dNWWNIRGZ1b2pyT0dOSHlENmpQUDE0UkxoUHl6WUVGSmdGT1lhejVoYWlyYXFqQ0pOVjlwQ1VodzZwNjRzUm5aSUowLWxqdmNVOW80U3RQN2xJQzV5d2hjcGpPdVQ2RUQwakxTZ2NYZk1ESDhWSklSbWxMV1FTNk5DSG1yOEllSnZXb3BWNll5bG9QbUV0VXFZeTFLOEtkaC1XR1NhWXRwRzVQZFV2SE94cFZFc21FckZlZjY5bVdWbkdlcW9HeEFmVmIzYjgwUGpDTnVLTlJ1VTM0Q3RQUlRHREdHXzRHcmZwVDRLbDBlN05ydGk4U0RHNkgyamFwdkFUYi02S1g0QUJnQTRaeTlsRG9OSlVqTGdySGIxWno0WWpOWWVydFN5QmNUTUtDdUI2aFBMRmZVMGtSRFpjMmxqYUUwSUhPQy1CX0lNTnVTXy1YOUcxR1pMZ0VLWms3ajJ6TFdYblRzZHZqemJkZm41dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-28 11:33:45"
+      },
+      {
+        "title": "寓教於樂學防災！劉建國推毒化防災教育 打造更安全、更具韌性的家園 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQcFB3a3p0TVBVRE5YVzQySHZyNENvRGNZRGRxVlVTUFZlNFNYRExLbTRBX0NqbG50MDh4VTAwWHlKTC1WX1Z6eXB0NlFNeDN3UkVpRVl4TDBseDZLYi1CX1NKaUMwQ3ltY0h5REk2aHRJWC1DaHlubXFCcV9wOUdtel94dGJONkUyVDRaeFJ3U2d0dEpOZFpkdEFZS2ZLM3FHOFg1ZnJNcTN4NlNjamc0Q01HWXU5bHExVlkyR3VEem5GUFExS0Z0a01YVXBCOWVTZVU4czc2UmhPM09jNDMyYW43cW9RbWc2SXlCajkyQ1d3aXhRNXpqaVRseGlNMDZzTlV2aXpBVFpWN3RENlp4Z3RhZ1NoMFpENHFTUGdWTHBLamJCa3A2NkF2aG41NVc3M1p6eDBETE1veUY4NDNfRWNzN0otbmxDd1Rhek5hT212c1lCUi1lcXBRVXV3UHVqeVlYTWFYeXg0ZDhpdHNUU2pnc1Q0NUtBQXU5YTgzQ1BxQXMxZ1dBTFBwZHBMRXQ3OXdhdXNzbXhaOFhIMHJmejNVa0NvV2dzYjZhTWhEU0hNNFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-28 11:29:08"
+      },
       {
         "title": "米克拉豪雨重創雲林農業！劉建國急會勘 爭取蔬菜全品項災損救助 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRX0FWZ1U5c0NIUi0yMFBnY3J1QmVlSm45NjMycUZMei1OTTdySTY2Vkc3UUo3NzZWTEliRy0xbHBLYUh2eUp4LWZnZjRaU0xDQ0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1621,6 +1655,11 @@
     ],
     "facebook": [
       {
+        "title": "【從未雨綢繆到緊急救災，假日馬不停蹄！】 ​其實在豪雨來臨之前，建國就已陸續前往多處視察排水與疏濬工程。當時預見極端氣候的強降雨可能對農作造成衝擊，便未雨綢繆，第一時間先行通報農糧署。 ​面對農民的心血受損，我們再度踏上會勘的腳步，於假日緊急邀 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxPZGxZRGlsMGJ0cVRXREdjZXBkbThpUjlqc0M2Znc0NEYzVy1EWUc2b18zX082Uk0zU2ExSnJaSEhaU0RYdkUxaExUMGZTZTNENHh0dnE2TjBNWUNXdDZYZFVwOURFY3c1cmd0NjFpUXRQMm9jNTZEQV91d0o5UWdHNnpCNEdublRDZVVqcFlyZzJjRHU1SVhiZVY1RTJhTHBfbUt5al95S1BxWTRuVUhVWXFFUnh6RDJtYW9XdFpPamxlZi13UFBETXJTZzh3eXp0RHBrVWNJdHJuOVRTc0s5Q1ZrcXZ1XzZZbkxBeDRUTXFiMGlaVUQ5RllZNFltSmxSTzJlWWZMUWdwTzBLWlBlV2lYMG9PRGVKTVp0ZUNRdU1xWE5MMGNFX2pRenB0OU1DbUFWX2M3QjJzR1liM19DM2Z0Tk5HTGJ0TWUxSGQ1NW9MS3dYR3lNUFVCaVZ4NlZtYkVzbTVmc1lJclVSNFluY3NfbTRtWS1CMEZBUllEa19XWE1iVjNxbjhVeXZLaDlTc2htMVl3SDVZTjhDNzNhSzZXX25MbnM3UUZmSFVVX2JTYTRKN1ZEV3ZPLXZpcjBLMk5WVmVqb0toRHpXYWIzYXdhUVFjUFN3R1R0YVlJMWVGRzRibG4tOE1JdDFNeXR6V19FQVhWVHdUM2otb0o4T0dSSlc3MFN4MnJPR3ZHaFJLX3cydS1SelRMd3NqZ2dGeHJrR2tMTzNaV2xaVVJvc1MwR0l1eHNMb0QweFdLWUZHc0NPVFZackY4WWJCNy1ZbkIzTUtJdG9Pci1MZ1Raa1MxSk9GRG9IWE1Vc05hMmV2OGJYOHptcjR2aV9ySlRhWllKckV6RW5ka2tpa3lIMXZNU0xYdGpYS09yd2pXMlJlalhNdEZYZDRBNGRzaVVNWDhfRnBEd0tycWFLVlMwV1BhNUFQalBSVTM4bWFablFZYjVvaWp4dWVPMGZTWFl3b3VzUEMxeTZ4RUlOSUwxNHpYSWVEZDFqcURqakhFQ0NXN3ltX3FvU096TzFFRDhyNWpualJRWDQxRmVWQks0Z3hDTHI4aE9scUcwRUNaSk14QWN2NjBOOUl3Vk9RQ2FFUzhaVU4tNmRoUzZlTXV3Z0VHU2xYS2l6UmlGNy1OcE5Ua19PbmpyNjVyaDFXQ3JTRTBCU3BOcWptSks0YVNkSFJCM3FvZVJacUp1cnhZa2N2S1hjOF9ld29wV3lQMEVLclNDR3BtX1Fua3NtaEh3MGVZS29CYzNoTjZDM0NEVDdtSzFTRGU0R3ZGc21EZW1od3J4bENPSmhHTklZVlczQUlCSlZLdG5FOEhadU4xYmJQZHJ5eWtUdS1JOUt3N2dtMkxCVEVwRFJVS0JRTFp3Y0FLTW1QeHk0N1R2RVZlVlRaN1lGc1RiczBJbXZBRVk",
+        "time": "2026-06-28 11:05:29"
+      },
+      {
         "title": "豪雨無情，造成農民嚴重損失，在縣府迅速彙整災情並由張嘉郡委員、丁學忠委員與 許宇甄委員等民代積極向中央爭取下，農業部已正式公告，雲林縣全縣列為115年6月下旬豪雨農業天然災害現金救助及低利貸款地區。 救助作物： 📍蔬菜（全品項）每公頃3萬到20萬元 📍 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi_gdBVV95cUxNLVl1bUhyVEhybC0zdkwxRXRYYVJseGZKaVRRa2FHbjA0bVhHM3M1UkZIajdDV3VzSHcxMjBfM0ZXaWhhWE1nN0gydG1LS3FwNVBOQ1JzM1IxNlYwbGE3eEFSUlNxaWxSRjlaeWRYenF0eHoyLS13ZC1JWDVYWFBLUVlFYno4UU1FUzd1eFpBaFBaQ0ozZHhTSkhWbnF1ckdaQm1RRDFEYVp2ck9fVDY3OElHUWs1Qks4YU5rNHBWSi1manJXbXJDYlBJYmFYcEpwekpCcnlHVE1ReVNBdmVvQ1pjMGdraXhrYWZ5RFkwSUZLaHVzQ05iMEdsUHZlMjNDeUNYOVVoOGJXQVQzYW9NQUlzaE52T0VSUmIyejdXTmpSOUdOS3R3SnVxN0NOc0xTUTV5djNxUk1fNENEMXFSbkFnX19wZlc5QlZxWExfVlJFZlRheVhFd2J6YXBmS2hjbDZ6N3FDMXphcjdtUEFydmFjX0U2c0pwUkcydGd3UDNTb1BadGhhQWEwbHhTWUNtOTZOeGROUklwbVlGU0RVbUtMaUlENDREd01HRUg5TTNWc0ttQnp6eHZWdEp0Y1lKN3oySFE2SWZhV19jMkVjaUwxQ1VlXzBRRkIzbGNuZ0NsZmZiS1IwcHBvUXNzNFpocmZXZUJlUWVneWNCTXY2U0NLRWh3bTFmRVZOYW1wdFdObTBEUW1aSTFucGFMR2Vha2NnV1hteFdXU0xNRTFUZmJmcHdCMlM3T2FRUnZyS1NXZlFycGZuZDBDRmpoWFp6RkZGZG9idXp1QkRWTlRtNTFMTHRQR3dDb0l2NFVzWFJKRUttYjJYbzIxVFlVNUZvckpfdzlGS1dEN1RvcS1jb0tSNmN4NUNpOW80d1lrRFV3NWRLcUtjaEZ5aS1NM1Zwa3A1eG1EWi1YOVExbGpXSTdPWkRYSmx2LTFSVGVVcE9yT0FnY0hDTUEwcHFpZ3lWTnBfMjdBSk9aWm10RFNoUTZnMDZmTC1Pbi02YnlOV1U2cnNUQkRvWkJIa1lrY01hLWRMOGllZ0w4Z3Y1UHJ3cTZsVndaSTlBQnlob1dVWkZ2Y1RzUlI0TEFLdmFWVHBfczRJelh5WVFIQVZhd3I0QTVkbkhqWnNpblhGYnhpd2xsRUdlWFQxNXV6Y3NkS2NNbzdoX1FGRTNEcU1aWUxtTjRUVDJCaTNScmJuNGlSd0pZcm02VEs4bGRHQUlONjk1R2w4ZXd4RWlCVUxpTkxmQVlyUlNvSWJyUkR5QzBlN21tNDk4T25MWGlfSFVrQ3hsWXhJNWk0VUdKaDFidldCOVFnMlZZNnpfeDZCd25MMG5xbWlJdFlJQlN3d3VNZw",
         "time": "2026-06-27 22:50:54"
@@ -1644,6 +1683,16 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "豪雨泡爛菜園瓜田！劉建國促中央從寬救助 爭取雲林蔬菜全品項補助 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPSENKTEhGc1VOM3M4eEdieW9TXzd4YzJxQ3owUHlMWGVJWnpncXdsbjgwVHhERmlqWGlwcWt6UzN5YTFXc2R1U2dNWWNIRGZ1b2pyT0dOSHlENmpQUDE0UkxoUHl6WUVGSmdGT1lhejVoYWlyYXFqQ0pOVjlwQ1VodzZwNjRzUm5aSUowLWxqdmNVOW80U3RQN2xJQzV5d2hjcGpPdVQ2RUQwakxTZ2NYZk1ESDhWSklSbWxMV1FTNk5DSG1yOEllSnZXb3BWNll5bG9QbUV0VXFZeTFLOEtkaC1XR1NhWXRwRzVQZFV2SE94cFZFc21FckZlZjY5bVdWbkdlcW9HeEFmVmIzYjgwUGpDTnVLTlJ1VTM0Q3RQUlRHREdHXzRHcmZwVDRLbDBlN05ydGk4U0RHNkgyamFwdkFUYi02S1g0QUJnQTRaeTlsRG9OSlVqTGdySGIxWno0WWpOWWVydFN5QmNUTUtDdUI2aFBMRmZVMGtSRFpjMmxqYUUwSUhPQy1CX0lNTnVTXy1YOUcxR1pMZ0VLWms3ajJ6TFdYblRzZHZqemJkZm41dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-28 11:33:45"
+      },
+      {
+        "title": "寓教於樂學防災！劉建國推毒化防災教育 打造更安全、更具韌性的家園 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQcFB3a3p0TVBVRE5YVzQySHZyNENvRGNZRGRxVlVTUFZlNFNYRExLbTRBX0NqbG50MDh4VTAwWHlKTC1WX1Z6eXB0NlFNeDN3UkVpRVl4TDBseDZLYi1CX1NKaUMwQ3ltY0h5REk2aHRJWC1DaHlubXFCcV9wOUdtel94dGJONkUyVDRaeFJ3U2d0dEpOZFpkdEFZS2ZLM3FHOFg1ZnJNcTN4NlNjamc0Q01HWXU5bHExVlkyR3VEem5GUFExS0Z0a01YVXBCOWVTZVU4czc2UmhPM09jNDMyYW43cW9RbWc2SXlCajkyQ1d3aXhRNXpqaVRseGlNMDZzTlV2aXpBVFpWN3RENlp4Z3RhZ1NoMFpENHFTUGdWTHBLamJCa3A2NkF2aG41NVc3M1p6eDBETE1veUY4NDNfRWNzN0otbmxDd1Rhek5hT212c1lCUi1lcXBRVXV3UHVqeVlYTWFYeXg0ZDhpdHNUU2pnc1Q0NUtBQXU5YTgzQ1BxQXMxZ1dBTFBwZHBMRXQ3OXdhdXNzbXhaOFhIMHJmejNVa0NvV2dzYjZhTWhEU0hNNFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-28 11:29:08"
+      },
       {
         "title": "米克拉豪雨重創雲林農業！劉建國急會勘 爭取蔬菜全品項災損救助 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRX0FWZ1U5c0NIUi0yMFBnY3J1QmVlSm45NjMycUZMei1OTTdySTY2Vkc3UUo3NzZWTEliRy0xbHBLYUh2eUp4LWZnZjRaU0xDQ0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1833,19 +1882,14 @@
         "title": "雲林文蛤災損達救助標準 立委劉建國籲中央從速認定 | 台灣生活新聞 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hNkJrRXI0SHRlS1RzbE1qcWNoTVNyZFUybi1NRXhvdWVOeWZQWXZkOVQ4SEEyZUU3NUszcGxnQzgyNmVuZ3pKb1N6czVsRDlkNE0xdFVn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-25 18:26:30"
-      },
-      {
-        "title": "雲林文蛤災損達救助標準 立委劉建國籲中央從速認定 - TDN台灣生活新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oejhEZThubnlyMHF3UjFqSWZHc05GMmJGVkN6UkUtWEp6bEFrLTVwRTFKTTJ0RFNlUkZkeHJ1WTgzUEJFRk1RdUJBZzZCNTM5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-25 18:11:07"
-      },
-      {
-        "title": "雲林花生遭豪雨重創！劉建國出手補助方案曝光 - 民視新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wbm9KX2VidjR2S0FrZzRrdi1nb2stTFlaTHZQNGpfVVhaMnQ0MklmZHRoR0FMcVcxOTJfc3dJUm1xdzU2S0ZGS0VYakdYeUFZMi1sUG5FS3UyY1Axcmp1Sg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-25 17:56:23"
       }
     ],
     "facebook": [
+      {
+        "title": "【從未雨綢繆到緊急救災，假日馬不停蹄！】 ​其實在豪雨來臨之前，建國就已陸續前往多處視察排水與疏濬工程。當時預見極端氣候的強降雨可能對農作造成衝擊，便未雨綢繆，第一時間先行通報農糧署。 ​面對農民的心血受損，我們再度踏上會勘的腳步，於假日緊急邀 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxPZGxZRGlsMGJ0cVRXREdjZXBkbThpUjlqc0M2Znc0NEYzVy1EWUc2b18zX082Uk0zU2ExSnJaSEhaU0RYdkUxaExUMGZTZTNENHh0dnE2TjBNWUNXdDZYZFVwOURFY3c1cmd0NjFpUXRQMm9jNTZEQV91d0o5UWdHNnpCNEdublRDZVVqcFlyZzJjRHU1SVhiZVY1RTJhTHBfbUt5al95S1BxWTRuVUhVWXFFUnh6RDJtYW9XdFpPamxlZi13UFBETXJTZzh3eXp0RHBrVWNJdHJuOVRTc0s5Q1ZrcXZ1XzZZbkxBeDRUTXFiMGlaVUQ5RllZNFltSmxSTzJlWWZMUWdwTzBLWlBlV2lYMG9PRGVKTVp0ZUNRdU1xWE5MMGNFX2pRenB0OU1DbUFWX2M3QjJzR1liM19DM2Z0Tk5HTGJ0TWUxSGQ1NW9MS3dYR3lNUFVCaVZ4NlZtYkVzbTVmc1lJclVSNFluY3NfbTRtWS1CMEZBUllEa19XWE1iVjNxbjhVeXZLaDlTc2htMVl3SDVZTjhDNzNhSzZXX25MbnM3UUZmSFVVX2JTYTRKN1ZEV3ZPLXZpcjBLMk5WVmVqb0toRHpXYWIzYXdhUVFjUFN3R1R0YVlJMWVGRzRibG4tOE1JdDFNeXR6V19FQVhWVHdUM2otb0o4T0dSSlc3MFN4MnJPR3ZHaFJLX3cydS1SelRMd3NqZ2dGeHJrR2tMTzNaV2xaVVJvc1MwR0l1eHNMb0QweFdLWUZHc0NPVFZackY4WWJCNy1ZbkIzTUtJdG9Pci1MZ1Raa1MxSk9GRG9IWE1Vc05hMmV2OGJYOHptcjR2aV9ySlRhWllKckV6RW5ka2tpa3lIMXZNU0xYdGpYS09yd2pXMlJlalhNdEZYZDRBNGRzaVVNWDhfRnBEd0tycWFLVlMwV1BhNUFQalBSVTM4bWFablFZYjVvaWp4dWVPMGZTWFl3b3VzUEMxeTZ4RUlOSUwxNHpYSWVEZDFqcURqakhFQ0NXN3ltX3FvU096TzFFRDhyNWpualJRWDQxRmVWQks0Z3hDTHI4aE9scUcwRUNaSk14QWN2NjBOOUl3Vk9RQ2FFUzhaVU4tNmRoUzZlTXV3Z0VHU2xYS2l6UmlGNy1OcE5Ua19PbmpyNjVyaDFXQ3JTRTBCU3BOcWptSks0YVNkSFJCM3FvZVJacUp1cnhZa2N2S1hjOF9ld29wV3lQMEVLclNDR3BtX1Fua3NtaEh3MGVZS29CYzNoTjZDM0NEVDdtSzFTRGU0R3ZGc21EZW1od3J4bENPSmhHTklZVlczQUlCSlZLdG5FOEhadU4xYmJQZHJ5eWtUdS1JOUt3N2dtMkxCVEVwRFJVS0JRTFp3Y0FLTW1QeHk0N1R2RVZlVlRaN1lGc1RiczBJbXZBRVk",
+        "time": "2026-06-28 11:05:29"
+      },
       {
         "title": "豪雨無情，造成農民嚴重損失，在縣府迅速彙整災情並由張嘉郡委員、丁學忠委員與 許宇甄委員等民代積極向中央爭取下，農業部已正式公告，雲林縣全縣列為115年6月下旬豪雨農業天然災害現金救助及低利貸款地區。 救助作物： 📍蔬菜（全品項）每公頃3萬到20萬元 📍 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi_gdBVV95cUxNLVl1bUhyVEhybC0zdkwxRXRYYVJseGZKaVRRa2FHbjA0bVhHM3M1UkZIajdDV3VzSHcxMjBfM0ZXaWhhWE1nN0gydG1LS3FwNVBOQ1JzM1IxNlYwbGE3eEFSUlNxaWxSRjlaeWRYenF0eHoyLS13ZC1JWDVYWFBLUVlFYno4UU1FUzd1eFpBaFBaQ0ozZHhTSkhWbnF1ckdaQm1RRDFEYVp2ck9fVDY3OElHUWs1Qks4YU5rNHBWSi1manJXbXJDYlBJYmFYcEpwekpCcnlHVE1ReVNBdmVvQ1pjMGdraXhrYWZ5RFkwSUZLaHVzQ05iMEdsUHZlMjNDeUNYOVVoOGJXQVQzYW9NQUlzaE52T0VSUmIyejdXTmpSOUdOS3R3SnVxN0NOc0xTUTV5djNxUk1fNENEMXFSbkFnX19wZlc5QlZxWExfVlJFZlRheVhFd2J6YXBmS2hjbDZ6N3FDMXphcjdtUEFydmFjX0U2c0pwUkcydGd3UDNTb1BadGhhQWEwbHhTWUNtOTZOeGROUklwbVlGU0RVbUtMaUlENDREd01HRUg5TTNWc0ttQnp6eHZWdEp0Y1lKN3oySFE2SWZhV19jMkVjaUwxQ1VlXzBRRkIzbGNuZ0NsZmZiS1IwcHBvUXNzNFpocmZXZUJlUWVneWNCTXY2U0NLRWh3bTFmRVZOYW1wdFdObTBEUW1aSTFucGFMR2Vha2NnV1hteFdXU0xNRTFUZmJmcHdCMlM3T2FRUnZyS1NXZlFycGZuZDBDRmpoWFp6RkZGZG9idXp1QkRWTlRtNTFMTHRQR3dDb0l2NFVzWFJKRUttYjJYbzIxVFlVNUZvckpfdzlGS1dEN1RvcS1jb0tSNmN4NUNpOW80d1lrRFV3NWRLcUtjaEZ5aS1NM1Zwa3A1eG1EWi1YOVExbGpXSTdPWkRYSmx2LTFSVGVVcE9yT0FnY0hDTUEwcHFpZ3lWTnBfMjdBSk9aWm10RFNoUTZnMDZmTC1Pbi02YnlOV1U2cnNUQkRvWkJIa1lrY01hLWRMOGllZ0w4Z3Y1UHJ3cTZsVndaSTlBQnlob1dVWkZ2Y1RzUlI0TEFLdmFWVHBfczRJelh5WVFIQVZhd3I0QTVkbkhqWnNpblhGYnhpd2xsRUdlWFQxNXV6Y3NkS2NNbzdoX1FGRTNEcU1aWUxtTjRUVDJCaTNScmJuNGlSd0pZcm02VEs4bGRHQUlONjk1R2w4ZXd4RWlCVUxpTkxmQVlyUlNvSWJyUkR5QzBlN21tNDk4T25MWGlfSFVrQ3hsWXhJNWk0VUdKaDFidldCOVFnMlZZNnpfeDZCd25MMG5xbWlJdFlJQlN3d3VNZw",
@@ -2000,16 +2044,6 @@
         "title": "【老農津貼政院堅持1萬 張嘉郡盼傾聽在地聲音：調整幅度要能真正照顧老農】 朝野立委相繼提出《老年農民福利津貼暫行條例》修法版本，主張老農津貼調高至每人每月1萬至1萬5千元不等，行政院版本則是1萬元；行政院發言人李慧芝表示，行政院版本是最具可行性，籲 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxPQjhfcC1yNWlzYzhjUHpjY0VSOWRTQ1lCdWxyMGl6SnFkLU8zN2g5ejROeXhxWFljNlFlYUdlY2VTOUNlaUphSUxJeHUySEIyOFpWb2V5WjBsbFBVM2JqTEZTcWxOZENTRFVXUlROTmQ5OTk3SEM4ZThFRFYtQ2FUeV9fcXVJbXJvcnU4TzRxYTFrU2JyOTMxM1NtS3o5OXdaVmJWdmZMZUk4cE9QTnRJVDBCdWFiZFM5YUVPdVlWbXdMbEdZblhkcjZYUm1OMi1KWmNoWHMzWmhZSDNaU3p5ZG8wN2h2WEcySjZWZGtwUFFSbVJXMS1fa0Z6NHZ6a0xLSFk0emIydDRPVFFWcW1jQWFaRVZyQlFOQS1aN0lSVXlVVWZoRUpVNC12WFlyZ2V0d0F2UUo0TDQzT0hRenRlS3psUXBSMlpMX2plV2U5LXhrVkh4VXp5WTQ0Z1UwU0pkcGowcXlFdV9rS240Z1duSE1YS3dnc040ZHJjU0ZnOS1lcElhSjJCSHMydGNWV3JUS3EzWVQ4b3piZGFqeGlrY3NCSE5vZjBpdHZ6REVTVmZVdnRIbzBobUNwRmJJcTlzT3Atc1FGbW5EN3JLSzN0MEQxSkYyNFQ4UHdOMnhYY0phSEhleGZfRDRLZEJybDdzNjZBWkxSQnpyZHJnR0pCZzBWUkdSbWhuaS0xbEJucHdhQXZJeGRkWDNKeXlXRHo2ZG4zR3VTM0F2ZjJrRE1QMjZKY2xlMzE0WVplVXEyS09UU2w2RzgyV0szdEFwN1NvTE1hd3RDa2txZUczWWJoUklkaHJERmZuSnhTVjZzbTd3TEp1eXUzTlJPTXR5QkYybFFtYmhMakd4Z0RIaDBvUFJLRTJMOXVPdjRjYzI1YkpOM2NKUjV2TEJ3aUZkY3N4dm1xQWFZUGFscG9aMGFfSnAwcVV5U0pRSGl1NnFucTZVQmJIZEt6RjVPZFBsdEljMmlhTC1VMkM2M1IzdzB6NGZaNmNDMzMwYmhuRUx0RE1nSnNrakZrZjh3ZHQwb2RiWW52eXRfRGlVaHFkTkJKY0pNb09SNVcyRlVWQlBLSGF5eW1Nem5oQ2lsZHFaYjkyNzlwaWtOU0QyOVpVXzM2ZmlPaEo3V0pKWTVVYThMa0tsVFd5anJFZWV3d2JsNE1TQ09EdEIzTGJrNHgzMVdLSXVBdnoyOXpreEctT1YzcUxlNG1EY1paMnU3bGNzbXc1TUpiM3hETk9FWEJlYUtVc1ZrWG8xbWNlT2JoZUdXbEdwT0NhdmhfTlVDdmdoNG16X2pRazJ4M1h3M2dOcTJlMVUxT2tpZjAtLXNGSlFDak1iZw",
         "time": "2026-06-22 05:21:07"
-      },
-      {
-        "title": "雲林縣是濁水溪以南少數由國民黨執政的縣市，「張榮味家族」在地深耕數十年，形成堅固堡壘。直到民進黨籍的蘇治芬於2005年12月贏得縣長選舉、2009年連任成功，雖在2014年交棒給同黨同志李進勇，但李進勇於2018年落選，輸給現任縣長張麗善。如今張麗善已經 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMimAdBVV95cUxPVS1nSHJ3M0VybFQ1eklOMDd1OUVpcFVjajRRYV9VMkphYmlFWTdMbHlHRmZBdzNTUW1mbWZxSHhuX0FDYV9MbTFwTzJqY0ttcXZlcHkwckFSUG8yRHlldm1UaVFxYW9UdDNNNm1YT2czeGxuNDNiekU5UE9TQ2R5SWpsRlVoXzRnRlBnUVBHMUFwby04YzZMaFRmU2VRTDlHY2ZXWDRuajVZb1ZscDdfNExDQ2V5NWtxN1dCMDEyZlpNVGNmRV9xWGY0S0lqUXFMQklCVDRBVnVpNlFjd3BRRjcyTU0wRFZxYTcyZFNSczRGY3U2b1dNM2wtZE9pMlRtajdfbFdaaXE2Z2dUa2tVekN2UHFIUFF6alNzYmQ5aU1CRkJfd19ZVU5iVWZPNG5GaFBrdS1fazBmVzg0YjZmbndoUVhCdW5JU2xsdEJRMTVlSDlFeHpTOEt0ZFpoajk0dHNuYmp6TGpxQ0dxdG9WNll5VXE1UWhYZ0xQSW9qWUlTVnhFWE9CUWx1X3dmZGdIekNSY3h1cDdSdW9UMkJVNXpSVVdCaDV1UTdybWNmYml1cTlKMzJHblduQmpVejNnMEFKdURmZGZrZl9XeXN2Wkp1TFY5NnZHaFExR0R3YUpKVEM4ejJSbXV0QmFiclMtSzQtMGxyODJYbzJqSnJNcTVWeUlhUm1FVzVON0lYaEJCMFQ0ZzZjMHl3MmQ1QnQxTENEaXNVSEExNjBjaDNrZVZTM2J3MmNZbld3eUZkWlRxbzdkbVVLYWZlXzJ4b0NtY1RRTmNreC15VE5BWW5tY1FIWnJtOFNuNTBDUnMya25FbGJMUVNmYlR1bi1ZTG1JaW1nLWQxQXpsR2dlUnhxT2FGWEtITGR0cG5OVVZyRHRuUkN2NnJOeUR6cDhfQUNkaXVXRW5LZDlDMVN4TDdNUG1XMUNyckdrMjNaQXlMNUNXREVDcnNPeEswMTRrVlZyLUhWTm1vRDdmVkt1eVVPTEtlVk4yMy1GTUtJNDBHUkszMGZTT0hPa1lpazJJWm84eDJCaHpzUkg5UDNoLVBTYVhUWDNpc3hjak1TQnV2bGszQnNOWVVSRkZBck5RTjFzaWZkckNqQlVPc2JFeDVzb0N1emdaWHBTcGFDTUNDX2V4QjYzVE5sRGVhQ3lIMm9QOXNEbVpRelpBMnNTZXlCMElDRlBJV1pyN1N2NlYzcVlVaEc0Zzc1eA",
-        "time": "2026-06-21 12:17:51"
-      },
-      {
-        "title": "雲林縣是濁水溪以南少數由國民黨執政的縣市，「張榮味家族」在地深耕數十年，形成堅固堡壘。直到民進黨籍的蘇治芬於2005年12月贏得縣長選舉、2009年連任成功，雖在2014年交棒給同黨同志李進勇，但李進勇於2018年落選，輸給現任縣長張麗善。如今張麗善已經 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMilwdBVV95cUxQQXdxQ2V3OF9PRGUyZW9kUHlHLUJKQjA0Wk50YWROQjM5M2laTDFOX2NZRFlEbTNSOU9RUF9ZbnAzTEFmOGRMTTByd1VWMzl3MzVObnBFSEJOSktmUlFoRkdUVnR1bk9fenBTUV85Z2s1U24zRXBaOVNwb3NHdjhPQ0dfVVRnRVlCUWdPQ1dNcDlIUHlLZm10clNUYVJWb3REc29ZeDJNOFgtZDRXMERtOTQ1VTYyOGNiODl5TnVtUkpCdy1oR2gxNmtUeGFBTVl4b2dQZzdIbzJhMC04UFh1T1F1UGNTbVVzdERjTHlhcG0wWUxqeDRWSFc0QUhobHp6c0JFSk9YbVRPVXdXOVZCWVgwQWRsOEZueTZJb3N4Zmp0TkUtS3pRQXlJajcxaUdiTVcwOUVhSFpKSzJ6NHNsNWFySnlTd0NFZVh6WHViS2dWeS1Dak5RUjZEZWNMNGdGNEVoc2h3MzliMFkwTVE5Y0RWbkladnpBLXU1NGJmdEQ3ZjRWUVNtNlVrWURFT2JFSk5hNlBqVGpuSEhfTUlJUmxXNU1wYWJSd3dxaTYzOWZrckpUZlFBZHNLUmFrWk0zWVRGRmNhQmdqcXJOQ1pxWVhSLUpMWkVHSHZVaUZDbWVNVnBSNDA0YU5fZ3hrX1gxbHBkeGhzLU5zLUw4ZjJFLTNsbGhkZjJxcndSUDUzUUlKOGRGVlBBdmI1d3JfYWQwVnIzQmI1SWNic3hnWC00eFd5QWJ5bmhfS09rcjA3S0RnLVhVSGdWMkZ4VlR4dkt4d2RFZDlTVko3ZkJ4ZEN6aWRQZzZLOUhqYVd4WnZ5UGhDWVA0UWtjSnREZC16Sjl1OHdXOE5UT1Y3MVBtMUVOb0o3Y1otSFcyNl9SQm9xRGlhbWExQ0phVmxqSzJHWnpjWkF0RDhuT1M1dUlnUGllY0ZfR1V4WEdLd3ZxSmdnS1N6YWhJLUk1SFh5U0hfUXgtZ3h2U0VZbWVuQi1YRWU5MlhSUDhBWldESElxM0NaUjRLNVJmWWlsWWhkYk5Vc0ZPTVFYMlZvcUxObmVHdTNxaE1icDNucHo5OV9scE13WlFvaHRUbGxZNmF4aEEwMTUtb1FhOW84VHNmZVlTSTlRcEQ1VzNzZU1PYTJuNVdId25aNDJ2cEJISnVzU0FSZTRteWpydlNkTDFaRFNfelVWSGFFNVFKRzhMT25ZbEtSUThCcXltRlJv",
-        "time": "2026-06-21 12:17:51"
       }
     ],
     "youtube": [
@@ -2054,6 +2088,27 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "豪雨泡爛菜園瓜田！劉建國促中央從寬救助 爭取雲林蔬菜全品項補助 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPSENKTEhGc1VOM3M4eEdieW9TXzd4YzJxQ3owUHlMWGVJWnpncXdsbjgwVHhERmlqWGlwcWt6UzN5YTFXc2R1U2dNWWNIRGZ1b2pyT0dOSHlENmpQUDE0UkxoUHl6WUVGSmdGT1lhejVoYWlyYXFqQ0pOVjlwQ1VodzZwNjRzUm5aSUowLWxqdmNVOW80U3RQN2xJQzV5d2hjcGpPdVQ2RUQwakxTZ2NYZk1ESDhWSklSbWxMV1FTNk5DSG1yOEllSnZXb3BWNll5bG9QbUV0VXFZeTFLOEtkaC1XR1NhWXRwRzVQZFV2SE94cFZFc21FckZlZjY5bVdWbkdlcW9HeEFmVmIzYjgwUGpDTnVLTlJ1VTM0Q3RQUlRHREdHXzRHcmZwVDRLbDBlN05ydGk4U0RHNkgyamFwdkFUYi02S1g0QUJnQTRaeTlsRG9OSlVqTGdySGIxWno0WWpOWWVydFN5QmNUTUtDdUI2aFBMRmZVMGtSRFpjMmxqYUUwSUhPQy1CX0lNTnVTXy1YOUcxR1pMZ0VLWms3ajJ6TFdYblRzZHZqemJkZm41dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-28 11:33:45",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "寓教於樂學防災！劉建國推毒化防災教育 打造更安全、更具韌性的家園 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQcFB3a3p0TVBVRE5YVzQySHZyNENvRGNZRGRxVlVTUFZlNFNYRExLbTRBX0NqbG50MDh4VTAwWHlKTC1WX1Z6eXB0NlFNeDN3UkVpRVl4TDBseDZLYi1CX1NKaUMwQ3ltY0h5REk2aHRJWC1DaHlubXFCcV9wOUdtel94dGJONkUyVDRaeFJ3U2d0dEpOZFpkdEFZS2ZLM3FHOFg1ZnJNcTN4NlNjamc0Q01HWXU5bHExVlkyR3VEem5GUFExS0Z0a01YVXBCOWVTZVU4czc2UmhPM09jNDMyYW43cW9RbWc2SXlCajkyQ1d3aXhRNXpqaVRseGlNMDZzTlV2aXpBVFpWN3RENlp4Z3RhZ1NoMFpENHFTUGdWTHBLamJCa3A2NkF2aG41NVc3M1p6eDBETE1veUY4NDNfRWNzN0otbmxDd1Rhek5hT212c1lCUi1lcXBRVXV3UHVqeVlYTWFYeXg0ZDhpdHNUU2pnc1Q0NUtBQXU5YTgzQ1BxQXMxZ1dBTFBwZHBMRXQ3OXdhdXNzbXhaOFhIMHJmejNVa0NvV2dzYjZhTWhEU0hNNFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-06-28 11:29:08",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "【從未雨綢繆到緊急救災，假日馬不停蹄！】 ​其實在豪雨來臨之前，建國就已陸續前往多處視察排水與疏濬工程。當時預見極端氣候的強降雨可能對農作造成衝擊，便未雨綢繆，第一時間先行通報農糧署。 ​面對農民的心血受損，我們再度踏上會勘的腳步，於假日緊急邀 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxPZGxZRGlsMGJ0cVRXREdjZXBkbThpUjlqc0M2Znc0NEYzVy1EWUc2b18zX082Uk0zU2ExSnJaSEhaU0RYdkUxaExUMGZTZTNENHh0dnE2TjBNWUNXdDZYZFVwOURFY3c1cmd0NjFpUXRQMm9jNTZEQV91d0o5UWdHNnpCNEdublRDZVVqcFlyZzJjRHU1SVhiZVY1RTJhTHBfbUt5al95S1BxWTRuVUhVWXFFUnh6RDJtYW9XdFpPamxlZi13UFBETXJTZzh3eXp0RHBrVWNJdHJuOVRTc0s5Q1ZrcXZ1XzZZbkxBeDRUTXFiMGlaVUQ5RllZNFltSmxSTzJlWWZMUWdwTzBLWlBlV2lYMG9PRGVKTVp0ZUNRdU1xWE5MMGNFX2pRenB0OU1DbUFWX2M3QjJzR1liM19DM2Z0Tk5HTGJ0TWUxSGQ1NW9MS3dYR3lNUFVCaVZ4NlZtYkVzbTVmc1lJclVSNFluY3NfbTRtWS1CMEZBUllEa19XWE1iVjNxbjhVeXZLaDlTc2htMVl3SDVZTjhDNzNhSzZXX25MbnM3UUZmSFVVX2JTYTRKN1ZEV3ZPLXZpcjBLMk5WVmVqb0toRHpXYWIzYXdhUVFjUFN3R1R0YVlJMWVGRzRibG4tOE1JdDFNeXR6V19FQVhWVHdUM2otb0o4T0dSSlc3MFN4MnJPR3ZHaFJLX3cydS1SelRMd3NqZ2dGeHJrR2tMTzNaV2xaVVJvc1MwR0l1eHNMb0QweFdLWUZHc0NPVFZackY4WWJCNy1ZbkIzTUtJdG9Pci1MZ1Raa1MxSk9GRG9IWE1Vc05hMmV2OGJYOHptcjR2aV9ySlRhWllKckV6RW5ka2tpa3lIMXZNU0xYdGpYS09yd2pXMlJlalhNdEZYZDRBNGRzaVVNWDhfRnBEd0tycWFLVlMwV1BhNUFQalBSVTM4bWFablFZYjVvaWp4dWVPMGZTWFl3b3VzUEMxeTZ4RUlOSUwxNHpYSWVEZDFqcURqakhFQ0NXN3ltX3FvU096TzFFRDhyNWpualJRWDQxRmVWQks0Z3hDTHI4aE9scUcwRUNaSk14QWN2NjBOOUl3Vk9RQ2FFUzhaVU4tNmRoUzZlTXV3Z0VHU2xYS2l6UmlGNy1OcE5Ua19PbmpyNjVyaDFXQ3JTRTBCU3BOcWptSks0YVNkSFJCM3FvZVJacUp1cnhZa2N2S1hjOF9ld29wV3lQMEVLclNDR3BtX1Fua3NtaEh3MGVZS29CYzNoTjZDM0NEVDdtSzFTRGU0R3ZGc21EZW1od3J4bENPSmhHTklZVlczQUlCSlZLdG5FOEhadU4xYmJQZHJ5eWtUdS1JOUt3N2dtMkxCVEVwRFJVS0JRTFp3Y0FLTW1QeHk0N1R2RVZlVlRaN1lGc1RiczBJbXZBRVk",
+        "time": "2026-06-28 11:05:29",
+        "platform": "facebook",
+        "risk": "綠"
+      },
       {
         "title": "米克拉豪雨重創雲林農業！劉建國急會勘 爭取蔬菜全品項災損救助 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRX0FWZ1U5c0NIUi0yMFBnY3J1QmVlSm45NjMycUZMei1OTTdySTY2Vkc3UUo3NzZWTEliRy0xbHBLYUh2eUp4LWZnZjRaU0xDQ0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -2172,27 +2227,6 @@
         "time": "2026-06-27 17:41:00",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "劉建國偕農水署雲林處長豪雨現勘二崙鄉農水路 強力要求清疏爭取改善經費 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxNai1WcExHRGc4blV3QVNZV0VRa1gyQUFNWWtWNk5NSFhQOWd5aFhvb3FUcS1YT2RHSmJwZW9lVlAyZy05Q29OZ0dKR294NUhYZy0ybXpWQ2hnekhHMjExUUNhSEkyZG0yTFNDUWRVNVNLUGczSmV2RUc4WXNpS2diSjZZbUR5dXF4UFR4Y3RNSjVJWl82SXM2NTE0ZmdKTU5VUTNhZWY4alQ1VWF4aXdTRXE0aHFrOTNwcS1XSTNGOGkzQlUyWkhlQ2xNV1ppRUlKVklRRjNlclpQcTFFU0owWDhkVkxYRUEtSHIzZW55RXNfaUhKdGRiT2tEcGVRT2ZERHgtWHhTNjVUZUdxc1h4SEt2QjlGOE1nakRuUnRXTWw2SExyRjUxWFowY1d5WWFxNERITWdSZjVHUHpLVVlLX3R0U2N3UEU5S2YxeC1LZExlMVFLZzdJWWNROEljbnlra0lqaHJYRi1KaDk3SFVWQWFUR3pKYks5R1Z3ZmhCeS1tVTlZVkZaV0ZjNFQ2dmZpcnRHcnRPSlFHdHZkbktoZk5XaW9VdW1BY0JJUnl3OFV5Q2NRT2M3M3JUaHhfQ00zaVc4TGc1YWxiNzhlUEQ2bmJ2VjBveU5GbGw3NUlHNy0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-27 17:35:08",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "劉建國偕農水署雲林處長豪雨現勘二崙鄉農水路 強力要求清疏爭取改善經費 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU2RCS0ZjVFc4aVU2WWlUZ2pQa0FvREJnQ0pBYVFoby1xc0l0NUhEc1VzeUJZdnd3Q1RXVzIxWUIzUkJDVlp3ZVd2dnJNTEFvaThMdi1tbjZPWEQzTVVfWlBaV1dqby00d05CcnB2cXJPZkw5X0RVeVgzdEhyNVR3QXVIZG5Ecm81MVhJX1dNanREUUJrcHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-27 17:35:08",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "劉建國偕農水署雲林處長豪雨現勘二崙鄉農水路 強力要求清疏爭取改善經費 - 台灣好報",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NWlpZRTlnTy1uNU1Fa0lrN2RVbW5uV1pxaEhOM1VmbUVKamg2U0h2RTU0LW05bF9nMzhlR0V6dFUyTDBuYTluNWdhUWZvS3FCWkJz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-27 17:34:44",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2200,17 +2234,17 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 26
+        "count": 27
       }
     ],
     "groups": [
       {
         "name": "農業族群",
-        "count": 14
+        "count": 16
       },
       {
         "name": "教育家長",
-        "count": 1
+        "count": 2
       }
     ]
   }
