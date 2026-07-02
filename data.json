@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-07-02T01:55:12.940283+00:00",
+  "generated_at": "2026-07-02T02:10:38.195277+00:00",
   "metrics": {
     "total_24h": 6,
-    "prev_24h": 11,
-    "growth_pct": -45.45,
-    "news_24h": 3,
+    "prev_24h": 12,
+    "growth_pct": -50.0,
+    "news_24h": 4,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 162,
+    "total": 163,
     "prev": 126,
-    "growth_pct": 28.57,
-    "news": 110,
+    "growth_pct": 29.37,
+    "news": 111,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,11 +28,11 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 3
+      "count": 4
     },
     {
       "platform": "facebook",
-      "count": 2
+      "count": 1
     },
     {
       "platform": "youtube",
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 110
+      "count": 111
     },
     {
       "platform": "facebook",
@@ -54,10 +54,6 @@
     }
   ],
   "by_hour": [
-    {
-      "hour": "2026-07-01 10:00",
-      "count": 1
-    },
     {
       "hour": "2026-07-01 14:00",
       "count": 1
@@ -76,6 +72,10 @@
     },
     {
       "hour": "2026-07-02 06:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-07-02 08:00",
       "count": 1
     }
   ],
@@ -343,20 +343,29 @@
     {
       "hour": "2026-07-02 06:00",
       "count": 1
+    },
+    {
+      "hour": "2026-07-02 08:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 3
+      "count": 4
     },
     {
       "platform": "facebook",
-      "count": 2
+      "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "張嘉郡祭高額獎學金 鼓勵雲林學子在地升學獎勵人才雲漂 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPV0xnVUtCQUVoc3MwSzJZYnhfaXN6VkZZTmxPOThIeUVHZ0s4d0xoUEtqWDZuZEtPOGpkdlU4cHBqTFo5WU94bGprYUVoQmV2dk85dzhYcEVOb3Q5VDQtdm5mMGdSVXFQUldqQU96WVplZTJrTmhISmx1T0RmQUtkaGxZdG8zV0V6bkNOU0Q1anZfbU5TVnY2bjg5Yzh4NjdYWEx2U3REdHZKbnV4U3J4cXZIeDlPUHZNM0ZIejgyNTQ3dVdLbFN5WGlyM1FVbEpfckNNUDRLbk53cFZrWWxuaEtRYklfYW44N1lVRnM0UWx6S25rM0RLcmFrcXlSMlB1SENyTEFMOFVWTWtoQkZFWlc2WWp5VGJobm9JdVMxU01CNnFLV18wWm9pS1RzUG5FNjZmSG1rTzZWMi1sYThERm1OaDN2S0h4V1dWSmhDbWZDNkhaM2lPQlZJaE4tZ05rUjBmSWlhNklSY2w4clFxRk1mT1REUVJTOEYzRXhvOE4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-02 08:46:26"
+      },
       {
         "title": "米克拉颱風豪雨重創雲林農損逾50% 立委劉建國籲中央速啟天然災害救助 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOZkliZndoaEZtTmdRNzQ3TUxMajFtQ3BBTDJLQWloamhBOUpTWGNQTEltdVVaZTlPcFRPWkY1dWVkTlJxdUk0VmZraFp3LUdpTzE3X245QVM5dEtwcllUei0tbEdNOVpXOFpPN2ZOUFRQZ0YxY3VnMUFyOHhXVjkxLWFxVEpicklfVjVTZXMwWVJwYkpLbTNNanpJa0JSVVJodGVOc0paUzB5bV9aVHoxNjgwX0tPRDdTQU9LejAxVlBQWW5COEl2UEU2Vzg4MU8wVDlza0s0bnY5MzFpMjA5by1KcTRLaEQ2cXFSUldueE5wUHNwQi14TWstRmJxckhaWWtNamI0dGVSS3RVUWRsT0t0N0FxVXQ5cWotRXJmN0ExMmttT2hEN2MyVnRxOXdRR3RVUlZKRDNxQ3dRajl2Y1RjS25EQWRDa3VadlpzcHB0YTZ0WW5yY05VT2JCb3Q2MkhQUTJBZVNENGw3dmkycDh5VnphcDhDekQ5eXJDQU9aaUVBZzZ0UTAzaEEtNHF6QzF3dG9XSzFvRWpSLVFERk02WHRPdUNGSXF1LXlWZGI0V3pXNTYtS0lBWmNRLVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -378,26 +387,26 @@
         "title": "#關心銀髮族寶貝🧓 #雲林一站式更換駕照🚗 交通部已開始實施「#高齡駕照換照新制度」，為了避免雲林鄉親因延誤換照遭到罰款，嘉郡特地聯繫 #雲林監理站，接下來在雲林各鄉鎮將陸續提供「#一站式換照服務」，讓雲林長輩們可以就地換照更便利💁‍♀️ 讓我們一起關心 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxPVjA3c3RmdmpyQ3h4ekNlSzN1NnV5VE0zNkk1dThaM1lkTWZjZVpxN0xCSUFqdXo0dlZoOUZLMGNRN1NZVWNndzhpLWNvZy00LVdseFBsa295VDllc0drQlJoMUstNHpKVUlZeklZVURNUnN0cE9aSlEzcDE3X2NUb3hWbnM1RXg1eGowdllWOWpQMlpFZkg4WWw5djdUM2diR2hCM2VuYl9BRXNFdWlnSjUwVGFmOG9SSHJFTFVIcEhtZnFCSHlfWUdsTWZBY0ktV2RIZnVHRTNTNUhqVjFtZUhFcU05LUZseW45cmZHdUVwR3RZMVhyX3AyTGlPOXVTOHlNTjc4NExrWDRPQjhXcEMyWFZzTW15WDkySjNWekY1VzVQcDhrQkxtR0ltejN5R1JaR3p2M2x2SDN2S1daMlBsVFQ5TG9IU3ZaaHhJc1JQTGRZNlR4bjVTQmRFRkZFbkxKQVdDUEppcHVsNVptSEh4cjRocnlIVWt4TVhwaG1Gb1BjRWx1MUVJODRZYjdwai00RlAxQmFuSVN5RTJjMTdwZ2lObHZxd1FFOHBaZG8tLVk0cWhqY2xidjdzUm9VOHh0emtrbElCS1BGdjlyMy04Vy00OXVfaFk4X2xzMDhuMmlaZGVwMVNraEFpUmYyaWF4RmtfczlJWXJ0MHdnZFdTMXZxY3FpakRUSlNzb0VtRHFza2I2YlozcTJXQjNkZlBXYzBtVTNHNzlISEYtRmRJR3NHZjJrOVJOQ2h2SjlNY1dqVTlIWHRSeHVheVVBQk1BdkhobkVUSUlaUVhqMXg3T3ZaYWhBZUJIb0tDNUs4bUZMbDFlZWw3ejRkLUZDMzQ1eDFoUG4xNGEtakNkZUJPeWZjdGxTWGZka3NfOFM2ZUlkZmNrdHN6ZWF1a3R1Y0RMVnpvWFNfejczaVQxU1JCelBRVElHRFVBSUhHUzEtdlZsN2NvalRZaGNwNGFoWXIyV2F6STNKNmhibmpLU1doVUFYdmlFNW5fSkJLMzhvclFTcGZLQzAwaThLWmY2WU5hU2V1cmdKYUNjWkQ5djZneFlMbTk2cE14djZnXzZsX0c1dEJuRWkyVnc1Rkt4TUpHM0FTNHlycmdfT2FhX1VoMG9vdlpnaHpOdWxmYURzeHRqN3lFa2h3X1J4QUtFSklDdmpYcXdoaGZMTlBOYllYbzQxRGdZZTUxLUpNaTNacmF4QUtIMlEyclpHaW10eDd1dlctRGgzeXVDdXRSVGtyNHlsVUpQU0I5RWQtcmNfQ2ZCYUNJVmxpMURDdXpqeGNxanFIcUhjeDNXdy1oOG5MaGJOM3Zuc3l1dUJHal8td1d3NnZHS0hqRk1LUTZIcF91U2xfdWtYYzlpMUowMGhpTGJDTnJlUkRpeW83X3UwOWFp",
         "time": "2026-07-01 14:55:49"
-      },
-      {
-        "title": "#關心銀髮族寶貝🧓 #雲林一站式更換駕照🚗 交通部已開始實施「#高齡駕照換照新制度」，為了避免雲林鄉親因延誤換照遭到罰款，嘉郡特地聯繫 #雲林監理站，接下來在雲林各鄉鎮將陸續提供「#一站式換照服務」，讓雲林長輩們可以就地換照更便利💁‍♀️ 讓我們一起關心 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMipghBVV95cUxQbFZ3Zm4wZnlPWTJhcUk3UE9xaVZraGR3M0gxQnFpYWdwaDJsZGNmUmlfVUh2Zzk3NDNnTEM4SFNaY2JpNUxKZzNyNXBLNXBzTHI4THV5UHNDc0xLMl9vRURQWVpDR2V5U3NYY3JVMk9ES0xmQXRlYUJIdDhSRVB1T18ybXpPTkhsbUhqb3NCR01pVDFnVFVqVTUwTHB4VHk4WENQWkxyMVBOeVRIVkVYRHpNNnlBMTRBZXlpdnFCSVZkeVkyd2VuZFlIWjlDemxsMGVVRmxqQUZ1NkNTOGNvaE1hUjhnUGpIUGpyT2JUaXpCMXV2Z3g3b3V2eksxUDdHQlI0aW5GVGU3dDVqTndmNGFyZDZUNFY0bEdXTUZTWHFiYXQ4QVB5U0xLeW9rS1IzaTI0VUVzM3NIU3pxb04zdjZjOUhJdUk2Z3dhUjVnNEZvc19nV1FkcXBkNUtQeUxxaFRwRWU0WWZzVW5odkNFU1lGTjJodngzbVBja3M0UV9UQnU1cjhMZ0VJaFNTTWRERFBua3Z6YTY5RVFfU0lvcWFYRjhUTUFsZm02RkgyandyVlA5OTByY2NvSTB1Xzc1Z1g2Q24xWTVBS0x0ZFVCQWlEYmt1UVZPQ3ZsRHNRZ2FQd1pfbThFbXFtRVdEQy1qMWF2VTZRWTMtYzVqNlBMN285LWZpWUNSem5yLS1Gd0FqWWJBRjFucnVjaEhHNkEtTE5vOURnbnB3VHlQSGdueE83MmEyT0piYVpoOU81LUVOelFKNHJQTzRmalJ5ejhicmJTdXZVZl91S29xeXlmOHpNNUJtR0stSi1QYklOUzhTZE03MmwySUZUeWtTNVE4UXRqY2FBYzRBZ093U0c4OTNWcGNxR1ZtcFEzckREOHdpM1E0Q25QclZwV2JGOFViZXRRaTQtb1BiUmJoNkVzTXZrQTFGNHhvcXNlRUdaWmNuX0R5MU1GRWdWNXV0YmVMTW1mOFJTYzdJaTctWW1RTk02TmRzRWpJTnlNNzR3Uk1WUFl1blRYeFV3RV9sNnc5eEVRZ2pqSEFiRVVRLS1DMFNzMjRNS3RXNXJ4bjRYS0RnVWVud2Z5VkdVcTdUWnVndThzbVNxRzIxTGNpQ3FydFR3RkVjeG1WR1ZlblVMaVJaLUpnTzVjTi1HLUo3eDdDclE3QUQtWnQyT01LdE1MaVN1cE92bHVUczBCTzIwaU1nelp0UFA1TnlMMjU4anFQeDBrdXFFQ1ZtdW5oRUxUd0JQVWlncFZObHhJdEJqU1hpUDdUUTNBRXpLSkEtbXhUVlRvNEhRMUstRnNRMFdBU2tncHdLcGU2U3VlV3E4VElzSWFCNExqWjhUOE9jNXVOUTBMM1RBaGlWMFJqV1lrd0pvNXUwT3JUQ3ZMeFlfMzlCaDZTNFE",
-        "time": "2026-07-01 10:02:31"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 3
+      "count": 4
     },
     {
       "platform": "facebook",
-      "count": 2
+      "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "張嘉郡祭高額獎學金 鼓勵雲林學子在地升學獎勵人才雲漂 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPV0xnVUtCQUVoc3MwSzJZYnhfaXN6VkZZTmxPOThIeUVHZ0s4d0xoUEtqWDZuZEtPOGpkdlU4cHBqTFo5WU94bGprYUVoQmV2dk85dzhYcEVOb3Q5VDQtdm5mMGdSVXFQUldqQU96WVplZTJrTmhISmx1T0RmQUtkaGxZdG8zV0V6bkNOU0Q1anZfbU5TVnY2bjg5Yzh4NjdYWEx2U3REdHZKbnV4U3J4cXZIeDlPUHZNM0ZIejgyNTQ3dVdLbFN5WGlyM1FVbEpfckNNUDRLbk53cFZrWWxuaEtRYklfYW44N1lVRnM0UWx6S25rM0RLcmFrcXlSMlB1SENyTEFMOFVWTWtoQkZFWlc2WWp5VGJobm9JdVMxU01CNnFLV18wWm9pS1RzUG5FNjZmSG1rTzZWMi1sYThERm1OaDN2S0h4V1dWSmhDbWZDNkhaM2lPQlZJaE4tZ05rUjBmSWlhNklSY2w4clFxRk1mT1REUVJTOEYzRXhvOE4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-02 08:46:26"
+      },
       {
         "title": "米克拉颱風豪雨重創雲林農損逾50% 立委劉建國籲中央速啟天然災害救助 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOZkliZndoaEZtTmdRNzQ3TUxMajFtQ3BBTDJLQWloamhBOUpTWGNQTEltdVVaZTlPcFRPWkY1dWVkTlJxdUk0VmZraFp3LUdpTzE3X245QVM5dEtwcllUei0tbEdNOVpXOFpPN2ZOUFRQZ0YxY3VnMUFyOHhXVjkxLWFxVEpicklfVjVTZXMwWVJwYkpLbTNNanpJa0JSVVJodGVOc0paUzB5bV9aVHoxNjgwX0tPRDdTQU9LejAxVlBQWW5COEl2UEU2Vzg4MU8wVDlza0s0bnY5MzFpMjA5by1KcTRLaEQ2cXFSUldueE5wUHNwQi14TWstRmJxckhaWWtNamI0dGVSS3RVUWRsT0t0N0FxVXQ5cWotRXJmN0ExMmttT2hEN2MyVnRxOXdRR3RVUlZKRDNxQ3dRajl2Y1RjS25EQWRDa3VadlpzcHB0YTZ0WW5yY05VT2JCb3Q2MkhQUTJBZVNENGw3dmkycDh5VnphcDhDekQ5eXJDQU9aaUVBZzZ0UTAzaEEtNHF6QzF3dG9XSzFvRWpSLVFERk02WHRPdUNGSXF1LXlWZGI0V3pXNTYtS0lBWmNRLVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -419,11 +428,6 @@
         "title": "#關心銀髮族寶貝🧓 #雲林一站式更換駕照🚗 交通部已開始實施「#高齡駕照換照新制度」，為了避免雲林鄉親因延誤換照遭到罰款，嘉郡特地聯繫 #雲林監理站，接下來在雲林各鄉鎮將陸續提供「#一站式換照服務」，讓雲林長輩們可以就地換照更便利💁‍♀️ 讓我們一起關心 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxPVjA3c3RmdmpyQ3h4ekNlSzN1NnV5VE0zNkk1dThaM1lkTWZjZVpxN0xCSUFqdXo0dlZoOUZLMGNRN1NZVWNndzhpLWNvZy00LVdseFBsa295VDllc0drQlJoMUstNHpKVUlZeklZVURNUnN0cE9aSlEzcDE3X2NUb3hWbnM1RXg1eGowdllWOWpQMlpFZkg4WWw5djdUM2diR2hCM2VuYl9BRXNFdWlnSjUwVGFmOG9SSHJFTFVIcEhtZnFCSHlfWUdsTWZBY0ktV2RIZnVHRTNTNUhqVjFtZUhFcU05LUZseW45cmZHdUVwR3RZMVhyX3AyTGlPOXVTOHlNTjc4NExrWDRPQjhXcEMyWFZzTW15WDkySjNWekY1VzVQcDhrQkxtR0ltejN5R1JaR3p2M2x2SDN2S1daMlBsVFQ5TG9IU3ZaaHhJc1JQTGRZNlR4bjVTQmRFRkZFbkxKQVdDUEppcHVsNVptSEh4cjRocnlIVWt4TVhwaG1Gb1BjRWx1MUVJODRZYjdwai00RlAxQmFuSVN5RTJjMTdwZ2lObHZxd1FFOHBaZG8tLVk0cWhqY2xidjdzUm9VOHh0emtrbElCS1BGdjlyMy04Vy00OXVfaFk4X2xzMDhuMmlaZGVwMVNraEFpUmYyaWF4RmtfczlJWXJ0MHdnZFdTMXZxY3FpakRUSlNzb0VtRHFza2I2YlozcTJXQjNkZlBXYzBtVTNHNzlISEYtRmRJR3NHZjJrOVJOQ2h2SjlNY1dqVTlIWHRSeHVheVVBQk1BdkhobkVUSUlaUVhqMXg3T3ZaYWhBZUJIb0tDNUs4bUZMbDFlZWw3ejRkLUZDMzQ1eDFoUG4xNGEtakNkZUJPeWZjdGxTWGZka3NfOFM2ZUlkZmNrdHN6ZWF1a3R1Y0RMVnpvWFNfejczaVQxU1JCelBRVElHRFVBSUhHUzEtdlZsN2NvalRZaGNwNGFoWXIyV2F6STNKNmhibmpLU1doVUFYdmlFNW5fSkJLMzhvclFTcGZLQzAwaThLWmY2WU5hU2V1cmdKYUNjWkQ5djZneFlMbTk2cE14djZnXzZsX0c1dEJuRWkyVnc1Rkt4TUpHM0FTNHlycmdfT2FhX1VoMG9vdlpnaHpOdWxmYURzeHRqN3lFa2h3X1J4QUtFSklDdmpYcXdoaGZMTlBOYllYbzQxRGdZZTUxLUpNaTNacmF4QUtIMlEyclpHaW10eDd1dlctRGgzeXVDdXRSVGtyNHlsVUpQU0I5RWQtcmNfQ2ZCYUNJVmxpMURDdXpqeGNxanFIcUhjeDNXdy1oOG5MaGJOM3Zuc3l1dUJHal8td1d3NnZHS0hqRk1LUTZIcF91U2xfdWtYYzlpMUowMGhpTGJDTnJlUkRpeW83X3UwOWFp",
         "time": "2026-07-01 14:55:49"
-      },
-      {
-        "title": "#關心銀髮族寶貝🧓 #雲林一站式更換駕照🚗 交通部已開始實施「#高齡駕照換照新制度」，為了避免雲林鄉親因延誤換照遭到罰款，嘉郡特地聯繫 #雲林監理站，接下來在雲林各鄉鎮將陸續提供「#一站式換照服務」，讓雲林長輩們可以就地換照更便利💁‍♀️ 讓我們一起關心 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMipghBVV95cUxQbFZ3Zm4wZnlPWTJhcUk3UE9xaVZraGR3M0gxQnFpYWdwaDJsZGNmUmlfVUh2Zzk3NDNnTEM4SFNaY2JpNUxKZzNyNXBLNXBzTHI4THV5UHNDc0xLMl9vRURQWVpDR2V5U3NYY3JVMk9ES0xmQXRlYUJIdDhSRVB1T18ybXpPTkhsbUhqb3NCR01pVDFnVFVqVTUwTHB4VHk4WENQWkxyMVBOeVRIVkVYRHpNNnlBMTRBZXlpdnFCSVZkeVkyd2VuZFlIWjlDemxsMGVVRmxqQUZ1NkNTOGNvaE1hUjhnUGpIUGpyT2JUaXpCMXV2Z3g3b3V2eksxUDdHQlI0aW5GVGU3dDVqTndmNGFyZDZUNFY0bEdXTUZTWHFiYXQ4QVB5U0xLeW9rS1IzaTI0VUVzM3NIU3pxb04zdjZjOUhJdUk2Z3dhUjVnNEZvc19nV1FkcXBkNUtQeUxxaFRwRWU0WWZzVW5odkNFU1lGTjJodngzbVBja3M0UV9UQnU1cjhMZ0VJaFNTTWRERFBua3Z6YTY5RVFfU0lvcWFYRjhUTUFsZm02RkgyandyVlA5OTByY2NvSTB1Xzc1Z1g2Q24xWTVBS0x0ZFVCQWlEYmt1UVZPQ3ZsRHNRZ2FQd1pfbThFbXFtRVdEQy1qMWF2VTZRWTMtYzVqNlBMN285LWZpWUNSem5yLS1Gd0FqWWJBRjFucnVjaEhHNkEtTE5vOURnbnB3VHlQSGdueE83MmEyT0piYVpoOU81LUVOelFKNHJQTzRmalJ5ejhicmJTdXZVZl91S29xeXlmOHpNNUJtR0stSi1QYklOUzhTZE03MmwySUZUeWtTNVE4UXRqY2FBYzRBZ093U0c4OTNWcGNxR1ZtcFEzckREOHdpM1E0Q25QclZwV2JGOFViZXRRaTQtb1BiUmJoNkVzTXZrQTFGNHhvcXNlRUdaWmNuX0R5MU1GRWdWNXV0YmVMTW1mOFJTYzdJaTctWW1RTk02TmRzRWpJTnlNNzR3Uk1WUFl1blRYeFV3RV9sNnc5eEVRZ2pqSEFiRVVRLS1DMFNzMjRNS3RXNXJ4bjRYS0RnVWVud2Z5VkdVcTdUWnVndThzbVNxRzIxTGNpQ3FydFR3RkVjeG1WR1ZlblVMaVJaLUpnTzVjTi1HLUo3eDdDclE3QUQtWnQyT01LdE1MaVN1cE92bHVUczBCTzIwaU1nelp0UFA1TnlMMjU4anFQeDBrdXFFQ1ZtdW5oRUxUd0JQVWlncFZObHhJdEJqU1hpUDdUUTNBRXpLSkEtbXhUVlRvNEhRMUstRnNRMFdBU2tncHdLcGU2U3VlV3E4VElzSWFCNExqWjhUOE9jNXVOUTBMM1RBaGlWMFJqV1lrd0pvNXUwT3JUQ3ZMeFlfMzlCaDZTNFE",
-        "time": "2026-07-01 10:02:31"
       }
     ]
   },
@@ -432,10 +436,15 @@
     "劉建國": 2
   },
   "mention_compare_7d": {
-    "張嘉郡": 84,
+    "張嘉郡": 85,
     "劉建國": 65
   },
   "top_news": [
+    {
+      "title": "張嘉郡祭高額獎學金 鼓勵雲林學子在地升學獎勵人才雲漂 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPV0xnVUtCQUVoc3MwSzJZYnhfaXN6VkZZTmxPOThIeUVHZ0s4d0xoUEtqWDZuZEtPOGpkdlU4cHBqTFo5WU94bGprYUVoQmV2dk85dzhYcEVOb3Q5VDQtdm5mMGdSVXFQUldqQU96WVplZTJrTmhISmx1T0RmQUtkaGxZdG8zV0V6bkNOU0Q1anZfbU5TVnY2bjg5Yzh4NjdYWEx2U3REdHZKbnV4U3J4cXZIeDlPUHZNM0ZIejgyNTQ3dVdLbFN5WGlyM1FVbEpfckNNUDRLbk53cFZrWWxuaEtRYklfYW44N1lVRnM0UWx6S25rM0RLcmFrcXlSMlB1SENyTEFMOFVWTWtoQkZFWlc2WWp5VGJobm9JdVMxU01CNnFLV18wWm9pS1RzUG5FNjZmSG1rTzZWMi1sYThERm1OaDN2S0h4V1dWSmhDbWZDNkhaM2lPQlZJaE4tZ05rUjBmSWlhNklSY2w4clFxRk1mT1REUVJTOEYzRXhvOE4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-02 08:46:26"
+    },
     {
       "title": "米克拉颱風豪雨重創雲林農損逾50% 立委劉建國籲中央速啟天然災害救助 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOZkliZndoaEZtTmdRNzQ3TUxMajFtQ3BBTDJLQWloamhBOUpTWGNQTEltdVVaZTlPcFRPWkY1dWVkTlJxdUk0VmZraFp3LUdpTzE3X245QVM5dEtwcllUei0tbEdNOVpXOFpPN2ZOUFRQZ0YxY3VnMUFyOHhXVjkxLWFxVEpicklfVjVTZXMwWVJwYkpLbTNNanpJa0JSVVJodGVOc0paUzB5bV9aVHoxNjgwX0tPRDdTQU9LejAxVlBQWW5COEl2UEU2Vzg4MU8wVDlza0s0bnY5MzFpMjA5by1KcTRLaEQ2cXFSUldueE5wUHNwQi14TWstRmJxckhaWWtNamI0dGVSS3RVUWRsT0t0N0FxVXQ5cWotRXJmN0ExMmttT2hEN2MyVnRxOXdRR3RVUlZKRDNxQ3dRajl2Y1RjS25EQWRDa3VadlpzcHB0YTZ0WW5yY05VT2JCb3Q2MkhQUTJBZVNENGw3dmkycDh5VnphcDhDekQ5eXJDQU9aaUVBZzZ0UTAzaEEtNHF6QzF3dG9XSzFvRWpSLVFERk02WHRPdUNGSXF1LXlWZGI0V3pXNTYtS0lBWmNRLVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -453,6 +462,11 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "張嘉郡祭高額獎學金 鼓勵雲林學子在地升學獎勵人才雲漂 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPV0xnVUtCQUVoc3MwSzJZYnhfaXN6VkZZTmxPOThIeUVHZ0s4d0xoUEtqWDZuZEtPOGpkdlU4cHBqTFo5WU94bGprYUVoQmV2dk85dzhYcEVOb3Q5VDQtdm5mMGdSVXFQUldqQU96WVplZTJrTmhISmx1T0RmQUtkaGxZdG8zV0V6bkNOU0Q1anZfbU5TVnY2bjg5Yzh4NjdYWEx2U3REdHZKbnV4U3J4cXZIeDlPUHZNM0ZIejgyNTQ3dVdLbFN5WGlyM1FVbEpfckNNUDRLbk53cFZrWWxuaEtRYklfYW44N1lVRnM0UWx6S25rM0RLcmFrcXlSMlB1SENyTEFMOFVWTWtoQkZFWlc2WWp5VGJobm9JdVMxU01CNnFLV18wWm9pS1RzUG5FNjZmSG1rTzZWMi1sYThERm1OaDN2S0h4V1dWSmhDbWZDNkhaM2lPQlZJaE4tZ05rUjBmSWlhNklSY2w4clFxRk1mT1REUVJTOEYzRXhvOE4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-02 08:46:26"
+    },
     {
       "title": "米克拉颱風豪雨重創雲林農損逾50% 立委劉建國籲中央速啟天然災害救助 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOZkliZndoaEZtTmdRNzQ3TUxMajFtQ3BBTDJLQWloamhBOUpTWGNQTEltdVVaZTlPcFRPWkY1dWVkTlJxdUk0VmZraFp3LUdpTzE3X245QVM5dEtwcllUei0tbEdNOVpXOFpPN2ZOUFRQZ0YxY3VnMUFyOHhXVjkxLWFxVEpicklfVjVTZXMwWVJwYkpLbTNNanpJa0JSVVJodGVOc0paUzB5bV9aVHoxNjgwX0tPRDdTQU9LejAxVlBQWW5COEl2UEU2Vzg4MU8wVDlza0s0bnY5MzFpMjA5by1KcTRLaEQ2cXFSUldueE5wUHNwQi14TWstRmJxckhaWWtNamI0dGVSS3RVUWRsT0t0N0FxVXQ5cWotRXJmN0ExMmttT2hEN2MyVnRxOXdRR3RVUlZKRDNxQ3dRajl2Y1RjS25EQWRDa3VadlpzcHB0YTZ0WW5yY05VT2JCb3Q2MkhQUTJBZVNENGw3dmkycDh5VnphcDhDekQ5eXJDQU9aaUVBZzZ0UTAzaEEtNHF6QzF3dG9XSzFvRWpSLVFERk02WHRPdUNGSXF1LXlWZGI0V3pXNTYtS0lBWmNRLVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -547,11 +561,6 @@
       "title": "為雲林「彎道超車」培育人才張嘉郡拋「長期培育機制」高獎金拚學子留雲| 政治焦點 - 太報 TaiSounds",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvQm9Ga0l5YTZ6Q19LRzk5Tk1xbXNUcTVnemtERVNqbzJWRkQwLXRUYklDM2dVSGwwQTgwcFRVeEp1VE1NLXI1YjVMcTM5RGtldjR0OHA4amwtcHFP?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-29 23:39:57"
-    },
-    {
-      "title": "暴雨重創雲林！張嘉郡：爭取天然災害補助 改善排水灌溉系統 - TVBS新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZMWFpMUJvR3JGZS1ib2NIalhLSFk0UEN4MTR0VF9mUHlXVTZlY3JiYXBudHEyUzJib2ZoWE5HOWFTX1FNU3JhZExKb1JaUHU3S1VGVl8xWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-29 20:07:00"
     }
   ],
   "latest_facebook_20": [
@@ -658,6 +667,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "張嘉郡祭高額獎學金 鼓勵雲林學子在地升學獎勵人才雲漂 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPV0xnVUtCQUVoc3MwSzJZYnhfaXN6VkZZTmxPOThIeUVHZ0s4d0xoUEtqWDZuZEtPOGpkdlU4cHBqTFo5WU94bGprYUVoQmV2dk85dzhYcEVOb3Q5VDQtdm5mMGdSVXFQUldqQU96WVplZTJrTmhISmx1T0RmQUtkaGxZdG8zV0V6bkNOU0Q1anZfbU5TVnY2bjg5Yzh4NjdYWEx2U3REdHZKbnV4U3J4cXZIeDlPUHZNM0ZIejgyNTQ3dVdLbFN5WGlyM1FVbEpfckNNUDRLbk53cFZrWWxuaEtRYklfYW44N1lVRnM0UWx6S25rM0RLcmFrcXlSMlB1SENyTEFMOFVWTWtoQkZFWlc2WWp5VGJobm9JdVMxU01CNnFLV18wWm9pS1RzUG5FNjZmSG1rTzZWMi1sYThERm1OaDN2S0h4V1dWSmhDbWZDNkhaM2lPQlZJaE4tZ05rUjBmSWlhNklSY2w4clFxRk1mT1REUVJTOEYzRXhvOE4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-02 08:46:26"
+    },
+    {
       "title": "米克拉颱風豪雨重創雲林農損逾50% 立委劉建國籲中央速啟天然災害救助 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOZkliZndoaEZtTmdRNzQ3TUxMajFtQ3BBTDJLQWloamhBOUpTWGNQTEltdVVaZTlPcFRPWkY1dWVkTlJxdUk0VmZraFp3LUdpTzE3X245QVM5dEtwcllUei0tbEdNOVpXOFpPN2ZOUFRQZ0YxY3VnMUFyOHhXVjkxLWFxVEpicklfVjVTZXMwWVJwYkpLbTNNanpJa0JSVVJodGVOc0paUzB5bV9aVHoxNjgwX0tPRDdTQU9LejAxVlBQWW5COEl2UEU2Vzg4MU8wVDlza0s0bnY5MzFpMjA5by1KcTRLaEQ2cXFSUldueE5wUHNwQi14TWstRmJxckhaWWtNamI0dGVSS3RVUWRsT0t0N0FxVXQ5cWotRXJmN0ExMmttT2hEN2MyVnRxOXdRR3RVUlZKRDNxQ3dRajl2Y1RjS25EQWRDa3VadlpzcHB0YTZ0WW5yY05VT2JCb3Q2MkhQUTJBZVNENGw3dmkycDh5VnphcDhDekQ5eXJDQU9aaUVBZzZ0UTAzaEEtNHF6QzF3dG9XSzFvRWpSLVFERk02WHRPdUNGSXF1LXlWZGI0V3pXNTYtS0lBWmNRLVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-02 06:46:34"
@@ -751,11 +765,6 @@
       "title": "為雲林「彎道超車」培育人才張嘉郡拋「長期培育機制」高獎金拚學子留雲| 政治焦點 - 太報 TaiSounds",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvQm9Ga0l5YTZ6Q19LRzk5Tk1xbXNUcTVnemtERVNqbzJWRkQwLXRUYklDM2dVSGwwQTgwcFRVeEp1VE1NLXI1YjVMcTM5RGtldjR0OHA4amwtcHFP?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-06-29 23:39:57"
-    },
-    {
-      "title": "暴雨重創雲林！張嘉郡：爭取天然災害補助 改善排水灌溉系統 - TVBS新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZMWFpMUJvR3JGZS1ib2NIalhLSFk0UEN4MTR0VF9mUHlXVTZlY3JiYXBudHEyUzJib2ZoWE5HOWFTX1FNU3JhZExKb1JaUHU3S1VGVl8xWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-06-29 20:07:00"
     }
   ],
   "person_sections": {
@@ -864,6 +873,11 @@
       ],
       "news": [
         {
+          "title": "張嘉郡祭高額獎學金 鼓勵雲林學子在地升學獎勵人才雲漂 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPV0xnVUtCQUVoc3MwSzJZYnhfaXN6VkZZTmxPOThIeUVHZ0s4d0xoUEtqWDZuZEtPOGpkdlU4cHBqTFo5WU94bGprYUVoQmV2dk85dzhYcEVOb3Q5VDQtdm5mMGdSVXFQUldqQU96WVplZTJrTmhISmx1T0RmQUtkaGxZdG8zV0V6bkNOU0Q1anZfbU5TVnY2bjg5Yzh4NjdYWEx2U3REdHZKbnV4U3J4cXZIeDlPUHZNM0ZIejgyNTQ3dVdLbFN5WGlyM1FVbEpfckNNUDRLbk53cFZrWWxuaEtRYklfYW44N1lVRnM0UWx6S25rM0RLcmFrcXlSMlB1SENyTEFMOFVWTWtoQkZFWlc2WWp5VGJobm9JdVMxU01CNnFLV18wWm9pS1RzUG5FNjZmSG1rTzZWMi1sYThERm1OaDN2S0h4V1dWSmhDbWZDNkhaM2lPQlZJaE4tZ05rUjBmSWlhNklSY2w4clFxRk1mT1REUVJTOEYzRXhvOE4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-02 08:46:26"
+        },
+        {
           "title": "討論牆 | 雲林花生搶收仍腐爛！張嘉郡籲納入補助範圍 - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBYWNudUJOb3ZuMncyUVpzekxjVnBsbjAwNnlpcmpnMG95OEhPUFZDWFNlOTBtR3lUR29zSC1hdlVjcHNVd1hzRGF5X2doWjVzSFU3QkRTaHdqLXVBcnBzcXpLVmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-01 19:40:08"
@@ -957,11 +971,6 @@
           "title": "國民黨雲林縣長參選人張嘉郡發表二波教育政見 提三大政策方向 - TDN台灣生活新聞",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41cExOWTZ1SV9OYVF1WXF5dS1pVlpZWU9yR0RIMXhHMHRvX0daWHVqTjJrT2RFTEhacUZ2Vi1zNzU2dDB2U3VpcVJZaHR1cDdX?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-06-29 17:48:04"
-        },
-        {
-          "title": "張嘉郡端教育政策牛肉 學測滿分拿20萬獎勵金 - 壹蘋新聞網",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45akkyclVmM2s5VlJ4Ql9tNHNnVHZxOFRCcWwzUXAzMFJkM1hMQlpZRWhRT3VnekxjcWFnS0xQMkZpd2Q4TmpOa0pXcURZZ2tLUjVoRmE1VmZwTDlvOXJxTUhEd3VzMktQSkYzdDB4NTFlVHdWR09uZVlXaExUZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-06-29 16:40:00"
         }
       ]
     },
@@ -1175,6 +1184,11 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "張嘉郡祭高額獎學金 鼓勵雲林學子在地升學獎勵人才雲漂 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPV0xnVUtCQUVoc3MwSzJZYnhfaXN6VkZZTmxPOThIeUVHZ0s4d0xoUEtqWDZuZEtPOGpkdlU4cHBqTFo5WU94bGprYUVoQmV2dk85dzhYcEVOb3Q5VDQtdm5mMGdSVXFQUldqQU96WVplZTJrTmhISmx1T0RmQUtkaGxZdG8zV0V6bkNOU0Q1anZfbU5TVnY2bjg5Yzh4NjdYWEx2U3REdHZKbnV4U3J4cXZIeDlPUHZNM0ZIejgyNTQ3dVdLbFN5WGlyM1FVbEpfckNNUDRLbk53cFZrWWxuaEtRYklfYW44N1lVRnM0UWx6S25rM0RLcmFrcXlSMlB1SENyTEFMOFVWTWtoQkZFWlc2WWp5VGJobm9JdVMxU01CNnFLV18wWm9pS1RzUG5FNjZmSG1rTzZWMi1sYThERm1OaDN2S0h4V1dWSmhDbWZDNkhaM2lPQlZJaE4tZ05rUjBmSWlhNklSY2w4clFxRk1mT1REUVJTOEYzRXhvOE4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-02 08:46:26"
+      },
+      {
         "title": "米克拉颱風豪雨重創雲林農損逾50% 立委劉建國籲中央速啟天然災害救助 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOZkliZndoaEZtTmdRNzQ3TUxMajFtQ3BBTDJLQWloamhBOUpTWGNQTEltdVVaZTlPcFRPWkY1dWVkTlJxdUk0VmZraFp3LUdpTzE3X245QVM5dEtwcllUei0tbEdNOVpXOFpPN2ZOUFRQZ0YxY3VnMUFyOHhXVjkxLWFxVEpicklfVjVTZXMwWVJwYkpLbTNNanpJa0JSVVJodGVOc0paUzB5bV9aVHoxNjgwX0tPRDdTQU9LejAxVlBQWW5COEl2UEU2Vzg4MU8wVDlza0s0bnY5MzFpMjA5by1KcTRLaEQ2cXFSUldueE5wUHNwQi14TWstRmJxckhaWWtNamI0dGVSS3RVUWRsT0t0N0FxVXQ5cWotRXJmN0ExMmttT2hEN2MyVnRxOXdRR3RVUlZKRDNxQ3dRajl2Y1RjS25EQWRDa3VadlpzcHB0YTZ0WW5yY05VT2JCb3Q2MkhQUTJBZVNENGw3dmkycDh5VnphcDhDekQ5eXJDQU9aaUVBZzZ0UTAzaEEtNHF6QzF3dG9XSzFvRWpSLVFERk02WHRPdUNGSXF1LXlWZGI0V3pXNTYtS0lBWmNRLVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-02 06:46:34"
@@ -1195,11 +1209,6 @@
         "title": "#關心銀髮族寶貝🧓 #雲林一站式更換駕照🚗 交通部已開始實施「#高齡駕照換照新制度」，為了避免雲林鄉親因延誤換照遭到罰款，嘉郡特地聯繫 #雲林監理站，接下來在雲林各鄉鎮將陸續提供「#一站式換照服務」，讓雲林長輩們可以就地換照更便利💁‍♀️ 讓我們一起關心 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxPVjA3c3RmdmpyQ3h4ekNlSzN1NnV5VE0zNkk1dThaM1lkTWZjZVpxN0xCSUFqdXo0dlZoOUZLMGNRN1NZVWNndzhpLWNvZy00LVdseFBsa295VDllc0drQlJoMUstNHpKVUlZeklZVURNUnN0cE9aSlEzcDE3X2NUb3hWbnM1RXg1eGowdllWOWpQMlpFZkg4WWw5djdUM2diR2hCM2VuYl9BRXNFdWlnSjUwVGFmOG9SSHJFTFVIcEhtZnFCSHlfWUdsTWZBY0ktV2RIZnVHRTNTNUhqVjFtZUhFcU05LUZseW45cmZHdUVwR3RZMVhyX3AyTGlPOXVTOHlNTjc4NExrWDRPQjhXcEMyWFZzTW15WDkySjNWekY1VzVQcDhrQkxtR0ltejN5R1JaR3p2M2x2SDN2S1daMlBsVFQ5TG9IU3ZaaHhJc1JQTGRZNlR4bjVTQmRFRkZFbkxKQVdDUEppcHVsNVptSEh4cjRocnlIVWt4TVhwaG1Gb1BjRWx1MUVJODRZYjdwai00RlAxQmFuSVN5RTJjMTdwZ2lObHZxd1FFOHBaZG8tLVk0cWhqY2xidjdzUm9VOHh0emtrbElCS1BGdjlyMy04Vy00OXVfaFk4X2xzMDhuMmlaZGVwMVNraEFpUmYyaWF4RmtfczlJWXJ0MHdnZFdTMXZxY3FpakRUSlNzb0VtRHFza2I2YlozcTJXQjNkZlBXYzBtVTNHNzlISEYtRmRJR3NHZjJrOVJOQ2h2SjlNY1dqVTlIWHRSeHVheVVBQk1BdkhobkVUSUlaUVhqMXg3T3ZaYWhBZUJIb0tDNUs4bUZMbDFlZWw3ejRkLUZDMzQ1eDFoUG4xNGEtakNkZUJPeWZjdGxTWGZka3NfOFM2ZUlkZmNrdHN6ZWF1a3R1Y0RMVnpvWFNfejczaVQxU1JCelBRVElHRFVBSUhHUzEtdlZsN2NvalRZaGNwNGFoWXIyV2F6STNKNmhibmpLU1doVUFYdmlFNW5fSkJLMzhvclFTcGZLQzAwaThLWmY2WU5hU2V1cmdKYUNjWkQ5djZneFlMbTk2cE14djZnXzZsX0c1dEJuRWkyVnc1Rkt4TUpHM0FTNHlycmdfT2FhX1VoMG9vdlpnaHpOdWxmYURzeHRqN3lFa2h3X1J4QUtFSklDdmpYcXdoaGZMTlBOYllYbzQxRGdZZTUxLUpNaTNacmF4QUtIMlEyclpHaW10eDd1dlctRGgzeXVDdXRSVGtyNHlsVUpQU0I5RWQtcmNfQ2ZCYUNJVmxpMURDdXpqeGNxanFIcUhjeDNXdy1oOG5MaGJOM3Zuc3l1dUJHal8td1d3NnZHS0hqRk1LUTZIcF91U2xfdWtYYzlpMUowMGhpTGJDTnJlUkRpeW83X3UwOWFp",
         "time": "2026-07-01 14:55:49"
-      },
-      {
-        "title": "#關心銀髮族寶貝🧓 #雲林一站式更換駕照🚗 交通部已開始實施「#高齡駕照換照新制度」，為了避免雲林鄉親因延誤換照遭到罰款，嘉郡特地聯繫 #雲林監理站，接下來在雲林各鄉鎮將陸續提供「#一站式換照服務」，讓雲林長輩們可以就地換照更便利💁‍♀️ 讓我們一起關心 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMipghBVV95cUxQbFZ3Zm4wZnlPWTJhcUk3UE9xaVZraGR3M0gxQnFpYWdwaDJsZGNmUmlfVUh2Zzk3NDNnTEM4SFNaY2JpNUxKZzNyNXBLNXBzTHI4THV5UHNDc0xLMl9vRURQWVpDR2V5U3NYY3JVMk9ES0xmQXRlYUJIdDhSRVB1T18ybXpPTkhsbUhqb3NCR01pVDFnVFVqVTUwTHB4VHk4WENQWkxyMVBOeVRIVkVYRHpNNnlBMTRBZXlpdnFCSVZkeVkyd2VuZFlIWjlDemxsMGVVRmxqQUZ1NkNTOGNvaE1hUjhnUGpIUGpyT2JUaXpCMXV2Z3g3b3V2eksxUDdHQlI0aW5GVGU3dDVqTndmNGFyZDZUNFY0bEdXTUZTWHFiYXQ4QVB5U0xLeW9rS1IzaTI0VUVzM3NIU3pxb04zdjZjOUhJdUk2Z3dhUjVnNEZvc19nV1FkcXBkNUtQeUxxaFRwRWU0WWZzVW5odkNFU1lGTjJodngzbVBja3M0UV9UQnU1cjhMZ0VJaFNTTWRERFBua3Z6YTY5RVFfU0lvcWFYRjhUTUFsZm02RkgyandyVlA5OTByY2NvSTB1Xzc1Z1g2Q24xWTVBS0x0ZFVCQWlEYmt1UVZPQ3ZsRHNRZ2FQd1pfbThFbXFtRVdEQy1qMWF2VTZRWTMtYzVqNlBMN285LWZpWUNSem5yLS1Gd0FqWWJBRjFucnVjaEhHNkEtTE5vOURnbnB3VHlQSGdueE83MmEyT0piYVpoOU81LUVOelFKNHJQTzRmalJ5ejhicmJTdXZVZl91S29xeXlmOHpNNUJtR0stSi1QYklOUzhTZE03MmwySUZUeWtTNVE4UXRqY2FBYzRBZ093U0c4OTNWcGNxR1ZtcFEzckREOHdpM1E0Q25QclZwV2JGOFViZXRRaTQtb1BiUmJoNkVzTXZrQTFGNHhvcXNlRUdaWmNuX0R5MU1GRWdWNXV0YmVMTW1mOFJTYzdJaTctWW1RTk02TmRzRWpJTnlNNzR3Uk1WUFl1blRYeFV3RV9sNnc5eEVRZ2pqSEFiRVVRLS1DMFNzMjRNS3RXNXJ4bjRYS0RnVWVud2Z5VkdVcTdUWnVndThzbVNxRzIxTGNpQ3FydFR3RkVjeG1WR1ZlblVMaVJaLUpnTzVjTi1HLUo3eDdDclE3QUQtWnQyT01LdE1MaVN1cE92bHVUczBCTzIwaU1nelp0UFA1TnlMMjU4anFQeDBrdXFFQ1ZtdW5oRUxUd0JQVWlncFZObHhJdEJqU1hpUDdUUTNBRXpLSkEtbXhUVlRvNEhRMUstRnNRMFdBU2tncHdLcGU2U3VlV3E4VElzSWFCNExqWjhUOE9jNXVOUTBMM1RBaGlWMFJqV1lrd0pvNXUwT3JUQ3ZMeFlfMzlCaDZTNFE",
-        "time": "2026-07-01 10:02:31"
       }
     ],
     "youtube": [
@@ -1212,6 +1221,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "張嘉郡祭高額獎學金 鼓勵雲林學子在地升學獎勵人才雲漂 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPV0xnVUtCQUVoc3MwSzJZYnhfaXN6VkZZTmxPOThIeUVHZ0s4d0xoUEtqWDZuZEtPOGpkdlU4cHBqTFo5WU94bGprYUVoQmV2dk85dzhYcEVOb3Q5VDQtdm5mMGdSVXFQUldqQU96WVplZTJrTmhISmx1T0RmQUtkaGxZdG8zV0V6bkNOU0Q1anZfbU5TVnY2bjg5Yzh4NjdYWEx2U3REdHZKbnV4U3J4cXZIeDlPUHZNM0ZIejgyNTQ3dVdLbFN5WGlyM1FVbEpfckNNUDRLbk53cFZrWWxuaEtRYklfYW44N1lVRnM0UWx6S25rM0RLcmFrcXlSMlB1SENyTEFMOFVWTWtoQkZFWlc2WWp5VGJobm9JdVMxU01CNnFLV18wWm9pS1RzUG5FNjZmSG1rTzZWMi1sYThERm1OaDN2S0h4V1dWSmhDbWZDNkhaM2lPQlZJaE4tZ05rUjBmSWlhNklSY2w4clFxRk1mT1REUVJTOEYzRXhvOE4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-02 08:46:26"
+      },
       {
         "title": "米克拉颱風豪雨重創雲林農損逾50% 立委劉建國籲中央速啟天然災害救助 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOZkliZndoaEZtTmdRNzQ3TUxMajFtQ3BBTDJLQWloamhBOUpTWGNQTEltdVVaZTlPcFRPWkY1dWVkTlJxdUk0VmZraFp3LUdpTzE3X245QVM5dEtwcllUei0tbEdNOVpXOFpPN2ZOUFRQZ0YxY3VnMUFyOHhXVjkxLWFxVEpicklfVjVTZXMwWVJwYkpLbTNNanpJa0JSVVJodGVOc0paUzB5bV9aVHoxNjgwX0tPRDdTQU9LejAxVlBQWW5COEl2UEU2Vzg4MU8wVDlza0s0bnY5MzFpMjA5by1KcTRLaEQ2cXFSUldueE5wUHNwQi14TWstRmJxckhaWWtNamI0dGVSS3RVUWRsT0t0N0FxVXQ5cWotRXJmN0ExMmttT2hEN2MyVnRxOXdRR3RVUlZKRDNxQ3dRajl2Y1RjS25EQWRDa3VadlpzcHB0YTZ0WW5yY05VT2JCb3Q2MkhQUTJBZVNENGw3dmkycDh5VnphcDhDekQ5eXJDQU9aaUVBZzZ0UTAzaEEtNHF6QzF3dG9XSzFvRWpSLVFERk02WHRPdUNGSXF1LXlWZGI0V3pXNTYtS0lBWmNRLVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1406,11 +1420,6 @@
         "title": "張嘉郡推教育政見　最高12萬元獎學金 | 政治 | CTWANT - CTWANT",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6aXo0SU84dnJKM0lTVV81RmhiRURfZEJ1WmUzZ2M5SHFTdUVPOHowaHpYMnhPNVNpVkFIV0drUmw4NzNFWXk2YzVMbnVzNzjSAVRBVV95cUxQTnRlanE3RTc4akFTNHpwR3JBaG4ycXB4cWs1VHduTkpHaVNZWmlSdlRPanNUd2Y0c0htYzBzakZLdERTck1kU3BEUnU0TEM3aTlYTXI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-29 14:24:42"
-      },
-      {
-        "title": "張嘉郡推3大教育政策 祭高額獎學金留住人才 - 中時新聞網",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SajJyUFgxSGlsN1BZQWNScmN3NnMyMkJ3Tnd5Yk4zLWZYNUpYcHFvZkhBWWVsQ0N3dnJNdUZNT09sRHE0M2o4bGZtT0NhLTU1T0Vsd1Q2bGc1UWhGZzFNay1xMjBGLUR1QndZNlB3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-29 14:10:23"
       }
     ],
     "facebook": [
@@ -1648,6 +1657,13 @@
     "hour": [],
     "day": [
       {
+        "title": "張嘉郡祭高額獎學金 鼓勵雲林學子在地升學獎勵人才雲漂 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPV0xnVUtCQUVoc3MwSzJZYnhfaXN6VkZZTmxPOThIeUVHZ0s4d0xoUEtqWDZuZEtPOGpkdlU4cHBqTFo5WU94bGprYUVoQmV2dk85dzhYcEVOb3Q5VDQtdm5mMGdSVXFQUldqQU96WVplZTJrTmhISmx1T0RmQUtkaGxZdG8zV0V6bkNOU0Q1anZfbU5TVnY2bjg5Yzh4NjdYWEx2U3REdHZKbnV4U3J4cXZIeDlPUHZNM0ZIejgyNTQ3dVdLbFN5WGlyM1FVbEpfckNNUDRLbk53cFZrWWxuaEtRYklfYW44N1lVRnM0UWx6S25rM0RLcmFrcXlSMlB1SENyTEFMOFVWTWtoQkZFWlc2WWp5VGJobm9JdVMxU01CNnFLV18wWm9pS1RzUG5FNjZmSG1rTzZWMi1sYThERm1OaDN2S0h4V1dWSmhDbWZDNkhaM2lPQlZJaE4tZ05rUjBmSWlhNklSY2w4clFxRk1mT1REUVJTOEYzRXhvOE4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-02 08:46:26",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "米克拉颱風豪雨重創雲林農損逾50% 立委劉建國籲中央速啟天然災害救助 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOZkliZndoaEZtTmdRNzQ3TUxMajFtQ3BBTDJLQWloamhBOUpTWGNQTEltdVVaZTlPcFRPWkY1dWVkTlJxdUk0VmZraFp3LUdpTzE3X245QVM5dEtwcllUei0tbEdNOVpXOFpPN2ZOUFRQZ0YxY3VnMUFyOHhXVjkxLWFxVEpicklfVjVTZXMwWVJwYkpLbTNNanpJa0JSVVJodGVOc0paUzB5bV9aVHoxNjgwX0tPRDdTQU9LejAxVlBQWW5COEl2UEU2Vzg4MU8wVDlza0s0bnY5MzFpMjA5by1KcTRLaEQ2cXFSUldueE5wUHNwQi14TWstRmJxckhaWWtNamI0dGVSS3RVUWRsT0t0N0FxVXQ5cWotRXJmN0ExMmttT2hEN2MyVnRxOXdRR3RVUlZKRDNxQ3dRajl2Y1RjS25EQWRDa3VadlpzcHB0YTZ0WW5yY05VT2JCb3Q2MkhQUTJBZVNENGw3dmkycDh5VnphcDhDekQ5eXJDQU9aaUVBZzZ0UTAzaEEtNHF6QzF3dG9XSzFvRWpSLVFERk02WHRPdUNGSXF1LXlWZGI0V3pXNTYtS0lBWmNRLVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-02 06:46:34",
@@ -1681,13 +1697,6 @@
         "time": "2026-07-01 14:55:49",
         "platform": "facebook",
         "risk": "綠"
-      },
-      {
-        "title": "#關心銀髮族寶貝🧓 #雲林一站式更換駕照🚗 交通部已開始實施「#高齡駕照換照新制度」，為了避免雲林鄉親因延誤換照遭到罰款，嘉郡特地聯繫 #雲林監理站，接下來在雲林各鄉鎮將陸續提供「#一站式換照服務」，讓雲林長輩們可以就地換照更便利💁‍♀️ 讓我們一起關心 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMipghBVV95cUxQbFZ3Zm4wZnlPWTJhcUk3UE9xaVZraGR3M0gxQnFpYWdwaDJsZGNmUmlfVUh2Zzk3NDNnTEM4SFNaY2JpNUxKZzNyNXBLNXBzTHI4THV5UHNDc0xLMl9vRURQWVpDR2V5U3NYY3JVMk9ES0xmQXRlYUJIdDhSRVB1T18ybXpPTkhsbUhqb3NCR01pVDFnVFVqVTUwTHB4VHk4WENQWkxyMVBOeVRIVkVYRHpNNnlBMTRBZXlpdnFCSVZkeVkyd2VuZFlIWjlDemxsMGVVRmxqQUZ1NkNTOGNvaE1hUjhnUGpIUGpyT2JUaXpCMXV2Z3g3b3V2eksxUDdHQlI0aW5GVGU3dDVqTndmNGFyZDZUNFY0bEdXTUZTWHFiYXQ4QVB5U0xLeW9rS1IzaTI0VUVzM3NIU3pxb04zdjZjOUhJdUk2Z3dhUjVnNEZvc19nV1FkcXBkNUtQeUxxaFRwRWU0WWZzVW5odkNFU1lGTjJodngzbVBja3M0UV9UQnU1cjhMZ0VJaFNTTWRERFBua3Z6YTY5RVFfU0lvcWFYRjhUTUFsZm02RkgyandyVlA5OTByY2NvSTB1Xzc1Z1g2Q24xWTVBS0x0ZFVCQWlEYmt1UVZPQ3ZsRHNRZ2FQd1pfbThFbXFtRVdEQy1qMWF2VTZRWTMtYzVqNlBMN285LWZpWUNSem5yLS1Gd0FqWWJBRjFucnVjaEhHNkEtTE5vOURnbnB3VHlQSGdueE83MmEyT0piYVpoOU81LUVOelFKNHJQTzRmalJ5ejhicmJTdXZVZl91S29xeXlmOHpNNUJtR0stSi1QYklOUzhTZE03MmwySUZUeWtTNVE4UXRqY2FBYzRBZ093U0c4OTNWcGNxR1ZtcFEzckREOHdpM1E0Q25QclZwV2JGOFViZXRRaTQtb1BiUmJoNkVzTXZrQTFGNHhvcXNlRUdaWmNuX0R5MU1GRWdWNXV0YmVMTW1mOFJTYzdJaTctWW1RTk02TmRzRWpJTnlNNzR3Uk1WUFl1blRYeFV3RV9sNnc5eEVRZ2pqSEFiRVVRLS1DMFNzMjRNS3RXNXJ4bjRYS0RnVWVud2Z5VkdVcTdUWnVndThzbVNxRzIxTGNpQ3FydFR3RkVjeG1WR1ZlblVMaVJaLUpnTzVjTi1HLUo3eDdDclE3QUQtWnQyT01LdE1MaVN1cE92bHVUczBCTzIwaU1nelp0UFA1TnlMMjU4anFQeDBrdXFFQ1ZtdW5oRUxUd0JQVWlncFZObHhJdEJqU1hpUDdUUTNBRXpLSkEtbXhUVlRvNEhRMUstRnNRMFdBU2tncHdLcGU2U3VlV3E4VElzSWFCNExqWjhUOE9jNXVOUTBMM1RBaGlWMFJqV1lrd0pvNXUwT3JUQ3ZMeFlfMzlCaDZTNFE",
-        "time": "2026-07-01 10:02:31",
-        "platform": "facebook",
-        "risk": "綠"
       }
     ]
   },
@@ -1705,7 +1714,7 @@
       },
       {
         "name": "交通通勤",
-        "count": 2
+        "count": 1
       }
     ]
   }
