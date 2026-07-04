@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-07-04T11:21:36.161251+00:00",
+  "generated_at": "2026-07-04T11:37:00.217871+00:00",
   "metrics": {
-    "total_24h": 24,
+    "total_24h": 25,
     "prev_24h": 8,
-    "growth_pct": 200.0,
-    "news_24h": 22,
+    "growth_pct": 212.5,
+    "news_24h": 23,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 136,
+    "total": 138,
     "prev": 122,
-    "growth_pct": 11.48,
-    "news": 99,
+    "growth_pct": 13.11,
+    "news": 100,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,21 +28,25 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 22
+      "count": 23
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     },
     {
       "platform": "youtube",
-      "count": 2
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 99
+      "count": 100
     },
     {
       "platform": "facebook",
-      "count": 31
+      "count": 32
     },
     {
       "platform": "youtube",
@@ -50,10 +54,6 @@
     }
   ],
   "by_hour": [
-    {
-      "hour": "2026-07-03 19:00",
-      "count": 1
-    },
     {
       "hour": "2026-07-03 20:00",
       "count": 3
@@ -72,7 +72,7 @@
     },
     {
       "hour": "2026-07-04 13:00",
-      "count": 2
+      "count": 3
     },
     {
       "hour": "2026-07-04 14:00",
@@ -88,7 +88,7 @@
     },
     {
       "hour": "2026-07-04 17:00",
-      "count": 2
+      "count": 3
     },
     {
       "hour": "2026-07-04 18:00",
@@ -342,7 +342,7 @@
     },
     {
       "hour": "2026-07-04 13:00",
-      "count": 2
+      "count": 3
     },
     {
       "hour": "2026-07-04 14:00",
@@ -358,7 +358,7 @@
     },
     {
       "hour": "2026-07-04 17:00",
-      "count": 2
+      "count": 3
     },
     {
       "hour": "2026-07-04 18:00",
@@ -368,7 +368,11 @@
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 22
+      "count": 23
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
@@ -389,123 +393,8 @@
         "time": "2026-07-04 17:34:37"
       },
       {
-        "title": "沙拉油食安事件延燒！劉建國籲全面追查流向、加嚴抽驗制度 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPSUU3WWwwT2pia05SdzdRbXJ0Yk1IWFJ4SEpQVFpfSThDWF9xTkYtSzFXSFhEWFBTS2V6RG1oNlZteEs0YmlxUDRPSzB4SUZCV3lsa2RoVU12Y3BoMEY1QWUyTm9Zd250UU1kOHE4TnMzQUp2QWZUUjc4aFJ0VXROVlRyVHpmeEhmQU5EdWIzOW9ydk1LbmswV0J2dEEtUDJXc3FRNFJsWWdTRkdmanRwVDJNT19weU5WeWlOcy1JMTdlRUNvbWtTb1I2LWFaZjZjWjlJWjRDamNZeVFtVWVIYWpZYnBuRVBvTldnNExLdXBDMEtYOUZJY28zVnBaTnQ1U2VlbDFHbzV0MFNnWXZkd0lBLUZidmVQa1BUZ3BVNGFMRkRsbGEzNEdLV3NVTmM3cTdZSTFhbU50SW5jeE0tcFBQVHllT0lpMTZjNEhIT2V5NXc0R25BUDRRYkZNVHNQSFQzT2Q4UU54dk85UkhlUlF5YlJ3d1c1ajk5c2dKRTg3UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 17:04:00"
-      },
-      {
-        "title": "雲林長者嗨玩匹克球！ 劉建國盼打造高齡運動示範縣市 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQalhoSmRzTF9kX2R3VVU4X19lRHBzb01ZOUN5bFlYN0ZzMzRUbFFKejNxUHpUdGVHVXJPZkZZWkc1VVA2bnpabUtkNlV4TzJpVkd1UkVna1RIRG9sTEY5SjgxNE5CWmw4cUhKLXcxWFJ2Rm9SYWRTaFZYVldOanhrYU56ZTZBZ0ozVWg5WGJhWURqdVhvNHVOY210X1ltQ21rS21LM25mU2tlSDh0RVl5Q1BuNHBHN2RkdUZ2Z0ZfT3Z1eHZIcW9GUDVHaldqRkwtWGw0SHF1U2hOMXYtTFdLRjdZM3NKVjdiSjdlcFk1cTJQZjNCRDhrcE5vOFZSTTI4OG9KcTlsdFZfS1pCME9tM1JiLWF1SVU1MV9fZ205R0Q0R2U5bkJjTzdWeGl1dHlkVTNuMEVOaTJrSFlRcWtITzB0UXFoVUxVcDBUMHZxM1FEQ3RkLWRyTFZHN3RTcnJCUUJfLUQzSjA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 16:00:00"
-      },
-      {
-        "title": "中央核定雲林治水預算 張嘉郡「主動防禦治水、強力監督品質」 - 上報Up Media",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UcGJ3M3VoMUxrNGVIQ0hsY19ldXlJRWc4Y1ZLUFBEVEVNZk85SFpJMVViWVVZbzJtcUF1RjZvOTUyRkdxbXMwUDlvejFueEo2WkVOc0FtWDkzdkdLYVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 15:00:00"
-      },
-      {
-        "title": "不當淹水受災戶！張嘉郡、丁學忠爭取45.98億治水預算 首批3.21億防洪工程開跑 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPNVJkLUtLd1NWUG5MVGhyUzFMUGNWZXNHc1NzelNWZlhiZFZ3V2ZTblpWMDFFekVjNm9temRHY0xfZ0JtczdBMl9IbVh1NDg2a0M4NTdGanlhUkE2ei1ZYXJvVG1SS3NrdzJrY2hEeGFEODAtbWNsclIwOHNQR1lYbmNxdnlvdi1xY0dDNFFKeTJfLW10dVljNHh1TV9peEJmVURMV0xTMFYyM3NXdGFGa240bVpldW9SY1dwN3RvVjRkM3dXOXd1TXpmdGJUZk5GRV9iTTEtcENHbm02Q2VNUW8wWEJIMHp0Ukh0M3dGbHNXWHJJeVhhZF81dDd6SHlwOHVlamN4X2V1RHJQYk9XSmJublFCNUNTX0Q3UXhPSWU3anN2MzJfbUpDd0YwYjZBVjNpQ2k2cmhOQmhickd6bUFtTjRvNUhsNmRkdlBVSDg2WEdXRmo1RjMwc29mY2d0MWd6VjM3cw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 14:56:15"
-      },
-      {
-        "title": "食用油風暴延燒！張嘉郡轟食藥署蓋牌　籲公布完整流向 - NOWnews今日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1lamxEUlZCT2paakZaTl9DRkpyWUFMZXA1akVGdjE4dHJaZzJ2ejNqY2cxN2JiNXVhRWRqbGxJZlBQT0VvS2IySEE2Wm7SAVJBVV95cUxPWFpFbV9hOUNKc1dLVDRjdDJpQ3paS2dNbjd1LUcxWWdBampTZDJidmN3eThhR0pFdzJMR0I0Um9TOGFRa2RzRkFjNHRZcHVfTm5R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 14:28:11"
-      },
-      {
-        "title": "食用油風暴延燒！張嘉郡轟食藥署蓋牌 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHF1MkVtUFVsMVB2Q3lRbDFZS1AzZWNVXzN4QXNaVDNmdnJTV0lTY0F3RFZxVFNQS0NwQ3I2V0xHMXdqTXp1UmlCczJmOXZyM0pjY2w3WEIzNFNGQmtfYjRlSXpidEtlVVhyWWNMV3NWaTYzakFJN1V3bTRFMFJUY0FLc3ZxV1dPVFU0Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 14:28:11"
-      },
-      {
-        "title": "中聯致癌沙拉油流向下游 張嘉郡批食藥署隱匿籲全面檢討 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0WlFraHpHVVhDSWpiZTJHck1sMVBMSkFhUnNZYkNWbXNiSTFldnVhQUVZWWxBYWpqXzR2amxJWG9nQ2Y1cnJnUENYUWpxTWp6S2NUOTZQUzJjY2Nqb2IxdERYOU7SAWpBVV95cUxNRmJmMkliWDJtTG5NQU0zOGlqeVJPRDFWdnRNSzJnakk3eno4RmNMY3A3NDhHVFNyajRKMF9QeXJtN20zQVJ0c0pBN3BCVHUweldjZEVGUG8wbnBIeGFibW1QdTE5Q1NfUWtn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 14:02:40"
-      },
-      {
-        "title": "風暴延燒！食用油爆致癌危機！張嘉郡批食藥署蓋牌：第一時間就該說 - 壹蘋新聞網",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jMkVGdDcxNU1feTJyb2hwNllyZzEwWnJKYXRGb25KdzJnUEN4elF1TGJNOFdDeUlYOVpqdFdfMXFGeGh4N0Q5R2c3ZHFfOG1LcGRrOWdEY3JqeFl6MmNZVkZuMXg2cjJPU1YzNnA5SzlfTHI0a3VfenJmRXdUZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 14:01:00"
-      },
-      {
-        "title": "致癌油風暴燒！張嘉郡批食藥署蓋牌：公開透明才能重建人民對食安信任 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNazFJSXNqQy1NeFhRXzhBME5zeTQydUJfejBfcTQ5OVZCYWF6MmNwYWR6emtMZkhyYi1aaDFSMXhTSTNxM0pNeDBWZ05pdHlJYnFKNEh4a1pWTTNGNXBqSG5VSFNOMHU1ZmQxWDhhcnhpTFlRc0dOTkRJdElLQWFvUzVnbEJnaUNIYm11YUZvVFNrNnBoSEtrbV9QRWo3ZVlGMnh6VVNMOUFjcVVudC1GamVGbGxSQmJPek9lWTgwSy1vdDRMbzdoWVJxTXNFV1NGY21rR0tUMkUwbHoyOXU2VVJpZXhiWXJzTTB0RmtxdUpaSGYzejBpRFJoeTNHeDIzbFVTR3VNR3RNSGlXNGRkclB6WmIzaFNqY2ZWY3JhSmF6VU5SZWI0S3dZYWxjc1hMVWxyTElVUVg3SzNGejdjRmxhcE9RcFU4TEZXcGRPeHJtb2pXNDVDM2dwQWw1bldHWXpodkFrNXE1cVFuaUtpenlhR0JTTTBwWG9lZlhNSWxMcl8zaXRHOXhwLXQ0c1AxdWdPdWpvVkxpN0p3cVJoYVpZSVVWRDkzRXZlQlZKZ0RKZXQtdl9IZG1MeW9zdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 13:48:00"
-      },
-      {
-        "title": "食用油爭議延燒張嘉郡批食藥署「蓋牌」放任民眾恐慌| 政治焦點 - 太報 TaiSounds",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zeThQNEhEbHRHWGZPNGtrYlJ6aXd2aDNNLTBHWFBObHdpcHoyQzFoWTRTNmhUdFg3R2hKZXNNWkNiMTgyLUU2VGo4elVXQUpUZ0ljcm90R1ZXdFRK?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 13:40:20"
-      },
-      {
-        "title": "不當淹水受災戶！張嘉郡、丁學忠爭取45.98億治水預算 首批3.21億防洪工程開跑 | 陳逸群 | 新聞 - Storm.mg",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10Y2tRLWpJSWtTY3RQbkkxT3VMcVZDVTBPcG1LdkdpZlU4YW5UeVJuMlZzc1lsTzUtcTB2Qms1TGwwOTczTENmMkUxaHJxUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 12:45:15"
-      },
-      {
-        "title": "食用油含超標致癌物風暴擴大 張嘉郡點名食藥署全面檢討 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HcU5KeUZrd1RPM05pRXE0NmhjZHotQzl3UVJSS3NickpkRUxpNldoMWhlRFlDbzR6bEg1dk9XelhsR2lmUXhBZGNXZE9DeUxObG9j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 12:35:43"
-      },
-      {
-        "title": "食用油含超標致癌物風暴擴大 張嘉郡點名食藥署全面檢討 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kUmYwbWYyc0VWaGl3ekxNbHBVcGdIWE94eE1oWC00aVRId2c0blBqOWozR0NpQVVHWXZoMlNaSTYxcmdQdzZMYi1McnZWSHJwQUJqMFZzenPSAVhBVV95cUxPZFJmMG1mMnNFVmhpd3pMTWxwVXBnSFhPeHhNaFgtNGlUSHdnNG5QajlqM0dDaUFVR1l2aDJTWkk2MXJnUHc2TGItTHJ2VkhycEFCajBWc3pz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 12:35:43"
-      },
-      {
-        "title": "食用油爆食安危機！張嘉郡批食藥署「蓋牌隱匿」：無法接受 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQWEE5Nzg2S0hpSUVwQnRBT1hMUlZpRGl2dmNzb3o4RktyN3pPZFJybEs0UGl5VjdRblRqeFM0Yk92SWJoNDl5Uzh1cU5PLWRVZExWZXRGeVd2c1c1b2tVQ3AxVzFZQmlybDBLYkRGcmZCdFBrOWtjeWd5ZmhjVERlQ1JQemhZYmp4S2t4T0VvY2gzSDBaRWZ0b28yXzgwdWFXR3dMWUpUb3N6ZmNLcWpuakZaUUE4ZVlqZkw0VGNzd3l2cE5Gd29tMlJqamVwUlVOdmRhWTVHZTU2bk5RSXkxUzNRZDZ6V3RxWXdRY0M1RVBIUlBaTHI4bVBCT0FYUjQwMWpTeEtkU2cxSEVTZmZ5cVBZeW4ycFJXaEQ5RmJyZGZ3ZVVmYlQ4R0ROeUJLaFVYMFIyZmJGV3BwYThTVGcxOEcwU0R1cjRaMmhELXk2aU10V2UyVUhDR3prZ1F6Z2Roc1pmRjNHTWFXamc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 12:21:15"
-      },
-      {
-        "title": "批食藥署蓋牌 張嘉郡籲公開透明重建「食安信任」 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNUFhsV1c2a1AyZGE3NXR6eTYxMXg5YTAtYkh4UUNSNUE4bDducVhpdWVEMWhaWnR6Z0pkSFN1RnZXbmowekFwdFItdnNaelBqaDNNR1RQSVRFdlFLTTFRRG5ydzdKeWxvWTBJV01aZXJkQk5KRTQtTnZfNkFJS3lnR0l1d2pTRExvZDRnZkFtRnUxcmhNZHpJVWNOdXY0LTBudUhRMmRQQ0M5QUM2MFVPTDdpRHlnMF9YUnVoRmstMXY2eTNtN3B6UzN5dHUzUklOaHhZamFFeTA0dW1tcU1tcWhOVkVLS3dJaXl6NjZUdUtoanhMVVNTZlJOZWdiQzV3Y2x0bmphY1lTMjROdmdzZndnM3NXNmNyc2lJQU5PVVJVeXktRU9lLXJleVdkVC1vZUF1R0kzbFZFbS0tNFl2dnRMdHRrUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 12:07:30"
-      },
-      {
-        "title": "批食藥署蓋牌 張嘉郡籲公開透明重建「食安信任」 - 匯流新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IUXFrRGVfVmZFVkg4bWhzb0hyUjQtYVRtYjEyU1Y3ZEFwUUFVSGhZUDFSeU12YnIwTGZZR05KTWJLUl9nSGFESy1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 11:59:48"
-      },
-      {
-        "title": "「品味雲林 好事花生」 立法院長韓國瑜、雲林縣長張麗善、立委張嘉郡等人同台促銷雲林花生 - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IUkhNa1R3dEI4NU9sSVlrdFNzNlMwWmxNM0d6R1lObGRXWk1XRGxQS1RlOXN6Q0JSeGVnTEZ2UE5tc1RNVWR6MmNRa0ZIc2djTC05cHBjcU80VFZoM3Vjemk4SUhaZ0d2UG00b29aZV85ZkNTcHgxcGtMNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 02:17:28"
-      },
-      {
-        "title": "「品味雲林 好事花生」 立法院長韓國瑜、雲林縣長張麗善、立委張嘉郡等人同台促銷雲林花生 - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzTnlzNUxXbzVfUjBUWGtlVF9GeXNTTnlCa3lJUVMxOWJ1QTNiN3N5LXVqandZQVViemRsRk8ySjVNNjJOUFdqc0tKak80bk8wNl9FbG1USE5Ia3c1OXpqcko4OXN1REtVREFYZWVBUEFVWnYtbWFvb0twd2Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-03 20:45:33"
-      },
-      {
-        "title": "「品味雲林 好事花生」 立法院長韓國瑜、雲林縣長張麗善、立委張嘉郡等人同台促銷雲林花生 - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LcHNhZG0xVEphaVE1dXR4VG16N2hZVkdwMWQ4bFY2Z2dQRWJzTzl6dk9GSFl5V2pXTUNtRzlURmE0bjVOREVNQ09QSXIwZ2V5UjlWOHlZVTNyNTFzY0c1ZGE3cV92ZXZKVENR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-03 20:33:32"
-      }
-    ]
-  },
-  "alias_by_platform_24h": [
-    {
-      "platform": "news",
-      "count": 22
-    }
-  ],
-  "alias_latest_by_platform_24h": {
-    "news": [
-      {
-        "title": "致癌油延燒 劉建國：應採批次抽驗 及時發現問題 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sODZ4OHd2bVFfVnA4S1RiMmdvMUtmXzNRMnhKT0JuTWlhUTF1ei1kQkl0aWFRQTRiQ3U1cGIxclZXUjNqRVRZWXIxdzRXQkhPcC1WM1dLVXhnelVyVUtuNnpDQ0nSAWpBVV95cUxPT09tcWQ0S0lLV3FfTDlqU2RQa1NhaXBCcU5JOGtEMG1kaWJSR2NOaWN3elhOZUQzZndicmxXTzhmR2JTNHF1OUhYQ3ZBY1k3RmNCYVRvN0dzQ00tOFdRLTJUdGN3UkRuYnhR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 18:01:31"
-      },
-      {
-        "title": "問題油品不能只下架！劉建國開嗆：公開完整流向才能消疑慮 - 中時新聞網",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UN1pfTFpweFZOMHFGQ1QyQTVXM2k0WkV2SjlNcy1KNzhPNGpvMlZXS0ZhaEVYQmJHcWQ3LUZlMlNLbm5icVBQYVFhS2FNR003NHFDRmNCMnUyVkl4cTVuUWkySTIzdHY4THVDUXVB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 18:00:40"
-      },
-      {
-        "title": "經濟部核定河川、排水改善計畫 張嘉郡：治水要跟時間賽跑 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQMG1uV3dzcEV1d2VybU1yNlRNX0ZabUU0ZlM2Y0k3Z19ZY2xISklsNzRKR2JqMzhKWTlaVzhocDY0bGlTNXlWb3NrQi1wNnZ1NUtBWEdpZHZtZ0RpN29BWjRwcDA4OGxzTE1QQUh2RUQ3alU0Ull4WTdMeUVzSHFvb250dWxSVURlN3o5OVVodUF3cHg0Nm4za09pS2xkMG5PN2F6SHJzNWdJRk1xZHd2WkU4QVo2X0FtT0IzaUtrSURLVjlKS1BVQ1hRakFDX3QwZGNhTjM5aWJCMlNRM3lQMlpwNGRHOVRkelFCZ0dGZGRrVDMxX2ZCMnpKUS1wV2xsSWxpV04yTDZyTXEyclVLaHRGR3FtSjNINTJoY2dXU29CTDR4Y1FrQnBYQzQ2TGhnbUNfcmYxbWY0anBCREV5aVBrTUxHNmNacXd5NE5DMjFGclIzaDJZeXZXdy1tWm5kWFZsUGNJeUw2ZHJ2VTFFQWxJUWszdE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "title": "經濟部核定河川、排水改善計畫張嘉郡：治水要跟時間賽跑| 政治焦點 - 太報 TaiSounds",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qcWZyUDdNdTNHYUI1ZGxtNFhfX3haS0VxNlhrWXhoSXItbDRKcXAybUpOQ3BySTgtdjh5Vi0wMFVkMXVWSjJQTjhfYUI1cXdJTUpaSWJOajc1OU02?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-04 17:34:37"
       },
       {
@@ -603,14 +492,157 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LcHNhZG0xVEphaVE1dXR4VG16N2hZVkdwMWQ4bFY2Z2dQRWJzTzl6dk9GSFl5V2pXTUNtRzlURmE0bjVOREVNQ09QSXIwZ2V5UjlWOHlZVTNyNTFzY0c1ZGE3cV92ZXZKVENR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-03 20:33:32"
       }
+    ],
+    "facebook": [
+      {
+        "title": "張嘉郡 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBZU4xYTJaRklVMEJpS0VJekFOMnpkRm40Slprc2tsUUVGeDlOVk5zMkt6dFQ3MkR5ZktwX3o0cWdSZ2c1RTRNZ3Rmc3RkODdpT3R3eTZzZTVCWmpIb2NzOGpUYWQ0ck1ZQUZ0bmRiYw",
+        "time": "2026-07-04 13:17:11"
+      }
+    ]
+  },
+  "alias_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 23
+    },
+    {
+      "platform": "facebook",
+      "count": 1
+    }
+  ],
+  "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "致癌油延燒 劉建國：應採批次抽驗 及時發現問題 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sODZ4OHd2bVFfVnA4S1RiMmdvMUtmXzNRMnhKT0JuTWlhUTF1ei1kQkl0aWFRQTRiQ3U1cGIxclZXUjNqRVRZWXIxdzRXQkhPcC1WM1dLVXhnelVyVUtuNnpDQ0nSAWpBVV95cUxPT09tcWQ0S0lLV3FfTDlqU2RQa1NhaXBCcU5JOGtEMG1kaWJSR2NOaWN3elhOZUQzZndicmxXTzhmR2JTNHF1OUhYQ3ZBY1k3RmNCYVRvN0dzQ00tOFdRLTJUdGN3UkRuYnhR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 18:01:31"
+      },
+      {
+        "title": "問題油品不能只下架！劉建國開嗆：公開完整流向才能消疑慮 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UN1pfTFpweFZOMHFGQ1QyQTVXM2k0WkV2SjlNcy1KNzhPNGpvMlZXS0ZhaEVYQmJHcWQ3LUZlMlNLbm5icVBQYVFhS2FNR003NHFDRmNCMnUyVkl4cTVuUWkySTIzdHY4THVDUXVB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 18:00:40"
+      },
+      {
+        "title": "經濟部核定河川、排水改善計畫 張嘉郡：治水要跟時間賽跑 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQMG1uV3dzcEV1d2VybU1yNlRNX0ZabUU0ZlM2Y0k3Z19ZY2xISklsNzRKR2JqMzhKWTlaVzhocDY0bGlTNXlWb3NrQi1wNnZ1NUtBWEdpZHZtZ0RpN29BWjRwcDA4OGxzTE1QQUh2RUQ3alU0Ull4WTdMeUVzSHFvb250dWxSVURlN3o5OVVodUF3cHg0Nm4za09pS2xkMG5PN2F6SHJzNWdJRk1xZHd2WkU4QVo2X0FtT0IzaUtrSURLVjlKS1BVQ1hRakFDX3QwZGNhTjM5aWJCMlNRM3lQMlpwNGRHOVRkelFCZ0dGZGRrVDMxX2ZCMnpKUS1wV2xsSWxpV04yTDZyTXEyclVLaHRGR3FtSjNINTJoY2dXU29CTDR4Y1FrQnBYQzQ2TGhnbUNfcmYxbWY0anBCREV5aVBrTUxHNmNacXd5NE5DMjFGclIzaDJZeXZXdy1tWm5kWFZsUGNJeUw2ZHJ2VTFFQWxJUWszdE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 17:34:37"
+      },
+      {
+        "title": "經濟部核定河川、排水改善計畫張嘉郡：治水要跟時間賽跑| 政治焦點 - 太報 TaiSounds",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qcWZyUDdNdTNHYUI1ZGxtNFhfX3haS0VxNlhrWXhoSXItbDRKcXAybUpOQ3BySTgtdjh5Vi0wMFVkMXVWSjJQTjhfYUI1cXdJTUpaSWJOajc1OU02?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 17:34:37"
+      },
+      {
+        "title": "沙拉油食安事件延燒！劉建國籲全面追查流向、加嚴抽驗制度 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPSUU3WWwwT2pia05SdzdRbXJ0Yk1IWFJ4SEpQVFpfSThDWF9xTkYtSzFXSFhEWFBTS2V6RG1oNlZteEs0YmlxUDRPSzB4SUZCV3lsa2RoVU12Y3BoMEY1QWUyTm9Zd250UU1kOHE4TnMzQUp2QWZUUjc4aFJ0VXROVlRyVHpmeEhmQU5EdWIzOW9ydk1LbmswV0J2dEEtUDJXc3FRNFJsWWdTRkdmanRwVDJNT19weU5WeWlOcy1JMTdlRUNvbWtTb1I2LWFaZjZjWjlJWjRDamNZeVFtVWVIYWpZYnBuRVBvTldnNExLdXBDMEtYOUZJY28zVnBaTnQ1U2VlbDFHbzV0MFNnWXZkd0lBLUZidmVQa1BUZ3BVNGFMRkRsbGEzNEdLV3NVTmM3cTdZSTFhbU50SW5jeE0tcFBQVHllT0lpMTZjNEhIT2V5NXc0R25BUDRRYkZNVHNQSFQzT2Q4UU54dk85UkhlUlF5YlJ3d1c1ajk5c2dKRTg3UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 17:04:00"
+      },
+      {
+        "title": "雲林長者嗨玩匹克球！ 劉建國盼打造高齡運動示範縣市 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQalhoSmRzTF9kX2R3VVU4X19lRHBzb01ZOUN5bFlYN0ZzMzRUbFFKejNxUHpUdGVHVXJPZkZZWkc1VVA2bnpabUtkNlV4TzJpVkd1UkVna1RIRG9sTEY5SjgxNE5CWmw4cUhKLXcxWFJ2Rm9SYWRTaFZYVldOanhrYU56ZTZBZ0ozVWg5WGJhWURqdVhvNHVOY210X1ltQ21rS21LM25mU2tlSDh0RVl5Q1BuNHBHN2RkdUZ2Z0ZfT3Z1eHZIcW9GUDVHaldqRkwtWGw0SHF1U2hOMXYtTFdLRjdZM3NKVjdiSjdlcFk1cTJQZjNCRDhrcE5vOFZSTTI4OG9KcTlsdFZfS1pCME9tM1JiLWF1SVU1MV9fZ205R0Q0R2U5bkJjTzdWeGl1dHlkVTNuMEVOaTJrSFlRcWtITzB0UXFoVUxVcDBUMHZxM1FEQ3RkLWRyTFZHN3RTcnJCUUJfLUQzSjA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 16:00:00"
+      },
+      {
+        "title": "中央核定雲林治水預算 張嘉郡「主動防禦治水、強力監督品質」 - 上報Up Media",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UcGJ3M3VoMUxrNGVIQ0hsY19ldXlJRWc4Y1ZLUFBEVEVNZk85SFpJMVViWVVZbzJtcUF1RjZvOTUyRkdxbXMwUDlvejFueEo2WkVOc0FtWDkzdkdLYVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 15:00:00"
+      },
+      {
+        "title": "不當淹水受災戶！張嘉郡、丁學忠爭取45.98億治水預算 首批3.21億防洪工程開跑 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPNVJkLUtLd1NWUG5MVGhyUzFMUGNWZXNHc1NzelNWZlhiZFZ3V2ZTblpWMDFFekVjNm9temRHY0xfZ0JtczdBMl9IbVh1NDg2a0M4NTdGanlhUkE2ei1ZYXJvVG1SS3NrdzJrY2hEeGFEODAtbWNsclIwOHNQR1lYbmNxdnlvdi1xY0dDNFFKeTJfLW10dVljNHh1TV9peEJmVURMV0xTMFYyM3NXdGFGa240bVpldW9SY1dwN3RvVjRkM3dXOXd1TXpmdGJUZk5GRV9iTTEtcENHbm02Q2VNUW8wWEJIMHp0Ukh0M3dGbHNXWHJJeVhhZF81dDd6SHlwOHVlamN4X2V1RHJQYk9XSmJublFCNUNTX0Q3UXhPSWU3anN2MzJfbUpDd0YwYjZBVjNpQ2k2cmhOQmhickd6bUFtTjRvNUhsNmRkdlBVSDg2WEdXRmo1RjMwc29mY2d0MWd6VjM3cw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 14:56:15"
+      },
+      {
+        "title": "食用油風暴延燒！張嘉郡轟食藥署蓋牌　籲公布完整流向 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1lamxEUlZCT2paakZaTl9DRkpyWUFMZXA1akVGdjE4dHJaZzJ2ejNqY2cxN2JiNXVhRWRqbGxJZlBQT0VvS2IySEE2Wm7SAVJBVV95cUxPWFpFbV9hOUNKc1dLVDRjdDJpQ3paS2dNbjd1LUcxWWdBampTZDJidmN3eThhR0pFdzJMR0I0Um9TOGFRa2RzRkFjNHRZcHVfTm5R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 14:28:11"
+      },
+      {
+        "title": "食用油風暴延燒！張嘉郡轟食藥署蓋牌 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHF1MkVtUFVsMVB2Q3lRbDFZS1AzZWNVXzN4QXNaVDNmdnJTV0lTY0F3RFZxVFNQS0NwQ3I2V0xHMXdqTXp1UmlCczJmOXZyM0pjY2w3WEIzNFNGQmtfYjRlSXpidEtlVVhyWWNMV3NWaTYzakFJN1V3bTRFMFJUY0FLc3ZxV1dPVFU0Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 14:28:11"
+      },
+      {
+        "title": "中聯致癌沙拉油流向下游 張嘉郡批食藥署隱匿籲全面檢討 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0WlFraHpHVVhDSWpiZTJHck1sMVBMSkFhUnNZYkNWbXNiSTFldnVhQUVZWWxBYWpqXzR2amxJWG9nQ2Y1cnJnUENYUWpxTWp6S2NUOTZQUzJjY2Nqb2IxdERYOU7SAWpBVV95cUxNRmJmMkliWDJtTG5NQU0zOGlqeVJPRDFWdnRNSzJnakk3eno4RmNMY3A3NDhHVFNyajRKMF9QeXJtN20zQVJ0c0pBN3BCVHUweldjZEVGUG8wbnBIeGFibW1QdTE5Q1NfUWtn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 14:02:40"
+      },
+      {
+        "title": "風暴延燒！食用油爆致癌危機！張嘉郡批食藥署蓋牌：第一時間就該說 - 壹蘋新聞網",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jMkVGdDcxNU1feTJyb2hwNllyZzEwWnJKYXRGb25KdzJnUEN4elF1TGJNOFdDeUlYOVpqdFdfMXFGeGh4N0Q5R2c3ZHFfOG1LcGRrOWdEY3JqeFl6MmNZVkZuMXg2cjJPU1YzNnA5SzlfTHI0a3VfenJmRXdUZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 14:01:00"
+      },
+      {
+        "title": "致癌油風暴燒！張嘉郡批食藥署蓋牌：公開透明才能重建人民對食安信任 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNazFJSXNqQy1NeFhRXzhBME5zeTQydUJfejBfcTQ5OVZCYWF6MmNwYWR6emtMZkhyYi1aaDFSMXhTSTNxM0pNeDBWZ05pdHlJYnFKNEh4a1pWTTNGNXBqSG5VSFNOMHU1ZmQxWDhhcnhpTFlRc0dOTkRJdElLQWFvUzVnbEJnaUNIYm11YUZvVFNrNnBoSEtrbV9QRWo3ZVlGMnh6VVNMOUFjcVVudC1GamVGbGxSQmJPek9lWTgwSy1vdDRMbzdoWVJxTXNFV1NGY21rR0tUMkUwbHoyOXU2VVJpZXhiWXJzTTB0RmtxdUpaSGYzejBpRFJoeTNHeDIzbFVTR3VNR3RNSGlXNGRkclB6WmIzaFNqY2ZWY3JhSmF6VU5SZWI0S3dZYWxjc1hMVWxyTElVUVg3SzNGejdjRmxhcE9RcFU4TEZXcGRPeHJtb2pXNDVDM2dwQWw1bldHWXpodkFrNXE1cVFuaUtpenlhR0JTTTBwWG9lZlhNSWxMcl8zaXRHOXhwLXQ0c1AxdWdPdWpvVkxpN0p3cVJoYVpZSVVWRDkzRXZlQlZKZ0RKZXQtdl9IZG1MeW9zdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 13:48:00"
+      },
+      {
+        "title": "食用油爭議延燒張嘉郡批食藥署「蓋牌」放任民眾恐慌| 政治焦點 - 太報 TaiSounds",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zeThQNEhEbHRHWGZPNGtrYlJ6aXd2aDNNLTBHWFBObHdpcHoyQzFoWTRTNmhUdFg3R2hKZXNNWkNiMTgyLUU2VGo4elVXQUpUZ0ljcm90R1ZXdFRK?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 13:40:20"
+      },
+      {
+        "title": "不當淹水受災戶！張嘉郡、丁學忠爭取45.98億治水預算 首批3.21億防洪工程開跑 | 陳逸群 | 新聞 - Storm.mg",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10Y2tRLWpJSWtTY3RQbkkxT3VMcVZDVTBPcG1LdkdpZlU4YW5UeVJuMlZzc1lsTzUtcTB2Qms1TGwwOTczTENmMkUxaHJxUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 12:45:15"
+      },
+      {
+        "title": "食用油含超標致癌物風暴擴大 張嘉郡點名食藥署全面檢討 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HcU5KeUZrd1RPM05pRXE0NmhjZHotQzl3UVJSS3NickpkRUxpNldoMWhlRFlDbzR6bEg1dk9XelhsR2lmUXhBZGNXZE9DeUxObG9j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 12:35:43"
+      },
+      {
+        "title": "食用油含超標致癌物風暴擴大 張嘉郡點名食藥署全面檢討 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kUmYwbWYyc0VWaGl3ekxNbHBVcGdIWE94eE1oWC00aVRId2c0blBqOWozR0NpQVVHWXZoMlNaSTYxcmdQdzZMYi1McnZWSHJwQUJqMFZzenPSAVhBVV95cUxPZFJmMG1mMnNFVmhpd3pMTWxwVXBnSFhPeHhNaFgtNGlUSHdnNG5QajlqM0dDaUFVR1l2aDJTWkk2MXJnUHc2TGItTHJ2VkhycEFCajBWc3pz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 12:35:43"
+      },
+      {
+        "title": "食用油爆食安危機！張嘉郡批食藥署「蓋牌隱匿」：無法接受 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQWEE5Nzg2S0hpSUVwQnRBT1hMUlZpRGl2dmNzb3o4RktyN3pPZFJybEs0UGl5VjdRblRqeFM0Yk92SWJoNDl5Uzh1cU5PLWRVZExWZXRGeVd2c1c1b2tVQ3AxVzFZQmlybDBLYkRGcmZCdFBrOWtjeWd5ZmhjVERlQ1JQemhZYmp4S2t4T0VvY2gzSDBaRWZ0b28yXzgwdWFXR3dMWUpUb3N6ZmNLcWpuakZaUUE4ZVlqZkw0VGNzd3l2cE5Gd29tMlJqamVwUlVOdmRhWTVHZTU2bk5RSXkxUzNRZDZ6V3RxWXdRY0M1RVBIUlBaTHI4bVBCT0FYUjQwMWpTeEtkU2cxSEVTZmZ5cVBZeW4ycFJXaEQ5RmJyZGZ3ZVVmYlQ4R0ROeUJLaFVYMFIyZmJGV3BwYThTVGcxOEcwU0R1cjRaMmhELXk2aU10V2UyVUhDR3prZ1F6Z2Roc1pmRjNHTWFXamc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 12:21:15"
+      },
+      {
+        "title": "批食藥署蓋牌 張嘉郡籲公開透明重建「食安信任」 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNUFhsV1c2a1AyZGE3NXR6eTYxMXg5YTAtYkh4UUNSNUE4bDducVhpdWVEMWhaWnR6Z0pkSFN1RnZXbmowekFwdFItdnNaelBqaDNNR1RQSVRFdlFLTTFRRG5ydzdKeWxvWTBJV01aZXJkQk5KRTQtTnZfNkFJS3lnR0l1d2pTRExvZDRnZkFtRnUxcmhNZHpJVWNOdXY0LTBudUhRMmRQQ0M5QUM2MFVPTDdpRHlnMF9YUnVoRmstMXY2eTNtN3B6UzN5dHUzUklOaHhZamFFeTA0dW1tcU1tcWhOVkVLS3dJaXl6NjZUdUtoanhMVVNTZlJOZWdiQzV3Y2x0bmphY1lTMjROdmdzZndnM3NXNmNyc2lJQU5PVVJVeXktRU9lLXJleVdkVC1vZUF1R0kzbFZFbS0tNFl2dnRMdHRrUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 12:07:30"
+      },
+      {
+        "title": "批食藥署蓋牌 張嘉郡籲公開透明重建「食安信任」 - 匯流新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IUXFrRGVfVmZFVkg4bWhzb0hyUjQtYVRtYjEyU1Y3ZEFwUUFVSGhZUDFSeU12YnIwTGZZR05KTWJLUl9nSGFESy1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 11:59:48"
+      },
+      {
+        "title": "「品味雲林 好事花生」 立法院長韓國瑜、雲林縣長張麗善、立委張嘉郡等人同台促銷雲林花生 - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IUkhNa1R3dEI4NU9sSVlrdFNzNlMwWmxNM0d6R1lObGRXWk1XRGxQS1RlOXN6Q0JSeGVnTEZ2UE5tc1RNVWR6MmNRa0ZIc2djTC05cHBjcU80VFZoM3Vjemk4SUhaZ0d2UG00b29aZV85ZkNTcHgxcGtMNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 02:17:28"
+      },
+      {
+        "title": "「品味雲林 好事花生」 立法院長韓國瑜、雲林縣長張麗善、立委張嘉郡等人同台促銷雲林花生 - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzTnlzNUxXbzVfUjBUWGtlVF9GeXNTTnlCa3lJUVMxOWJ1QTNiN3N5LXVqandZQVViemRsRk8ySjVNNjJOUFdqc0tKak80bk8wNl9FbG1USE5Ia3c1OXpqcko4OXN1REtVREFYZWVBUEFVWnYtbWFvb0twd2Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-03 20:45:33"
+      },
+      {
+        "title": "「品味雲林 好事花生」 立法院長韓國瑜、雲林縣長張麗善、立委張嘉郡等人同台促銷雲林花生 - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LcHNhZG0xVEphaVE1dXR4VG16N2hZVkdwMWQ4bFY2Z2dQRWJzTzl6dk9GSFl5V2pXTUNtRzlURmE0bjVOREVNQ09QSXIwZ2V5UjlWOHlZVTNyNTFzY0c1ZGE3cV92ZXZKVENR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-03 20:33:32"
+      }
+    ],
+    "facebook": [
+      {
+        "title": "張嘉郡 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBZU4xYTJaRklVMEJpS0VJekFOMnpkRm40Slprc2tsUUVGeDlOVk5zMkt6dFQ3MkR5ZktwX3o0cWdSZ2c1RTRNZ3Rmc3RkODdpT3R3eTZzZTVCWmpIb2NzOGpUYWQ0ck1ZQUZ0bmRiYw",
+        "time": "2026-07-04 13:17:11"
+      }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 18,
+    "張嘉郡": 20,
     "劉建國": 4
   },
   "mention_compare_7d": {
-    "張嘉郡": 80,
+    "張嘉郡": 82,
     "劉建國": 48
   },
   "top_news": [
@@ -627,6 +659,11 @@
     {
       "title": "經濟部核定河川、排水改善計畫 張嘉郡：治水要跟時間賽跑 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQMG1uV3dzcEV1d2VybU1yNlRNX0ZabUU0ZlM2Y0k3Z19ZY2xISklsNzRKR2JqMzhKWTlaVzhocDY0bGlTNXlWb3NrQi1wNnZ1NUtBWEdpZHZtZ0RpN29BWjRwcDA4OGxzTE1QQUh2RUQ3alU0Ull4WTdMeUVzSHFvb250dWxSVURlN3o5OVVodUF3cHg0Nm4za09pS2xkMG5PN2F6SHJzNWdJRk1xZHd2WkU4QVo2X0FtT0IzaUtrSURLVjlKS1BVQ1hRakFDX3QwZGNhTjM5aWJCMlNRM3lQMlpwNGRHOVRkelFCZ0dGZGRrVDMxX2ZCMnpKUS1wV2xsSWxpV04yTDZyTXEyclVLaHRGR3FtSjNINTJoY2dXU29CTDR4Y1FrQnBYQzQ2TGhnbUNfcmYxbWY0anBCREV5aVBrTUxHNmNacXd5NE5DMjFGclIzaDJZeXZXdy1tWm5kWFZsUGNJeUw2ZHJ2VTFFQWxJUWszdE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-04 17:34:37"
+    },
+    {
+      "title": "經濟部核定河川、排水改善計畫張嘉郡：治水要跟時間賽跑| 政治焦點 - 太報 TaiSounds",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qcWZyUDdNdTNHYUI1ZGxtNFhfX3haS0VxNlhrWXhoSXItbDRKcXAybUpOQ3BySTgtdjh5Vi0wMFVkMXVWSjJQTjhfYUI1cXdJTUpaSWJOajc1OU02?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-04 17:34:37"
     },
     {
@@ -668,11 +705,6 @@
       "title": "風暴延燒！食用油爆致癌危機！張嘉郡批食藥署蓋牌：第一時間就該說 - 壹蘋新聞網",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jMkVGdDcxNU1feTJyb2hwNllyZzEwWnJKYXRGb25KdzJnUEN4elF1TGJNOFdDeUlYOVpqdFdfMXFGeGh4N0Q5R2c3ZHFfOG1LcGRrOWdEY3JqeFl6MmNZVkZuMXg2cjJPU1YzNnA5SzlfTHI0a3VfenJmRXdUZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-04 14:01:00"
-    },
-    {
-      "title": "致癌油風暴燒！張嘉郡批食藥署蓋牌：公開透明才能重建人民對食安信任 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNazFJSXNqQy1NeFhRXzhBME5zeTQydUJfejBfcTQ5OVZCYWF6MmNwYWR6emtMZkhyYi1aaDFSMXhTSTNxM0pNeDBWZ05pdHlJYnFKNEh4a1pWTTNGNXBqSG5VSFNOMHU1ZmQxWDhhcnhpTFlRc0dOTkRJdElLQWFvUzVnbEJnaUNIYm11YUZvVFNrNnBoSEtrbV9QRWo3ZVlGMnh6VVNMOUFjcVVudC1GamVGbGxSQmJPek9lWTgwSy1vdDRMbzdoWVJxTXNFV1NGY21rR0tUMkUwbHoyOXU2VVJpZXhiWXJzTTB0RmtxdUpaSGYzejBpRFJoeTNHeDIzbFVTR3VNR3RNSGlXNGRkclB6WmIzaFNqY2ZWY3JhSmF6VU5SZWI0S3dZYWxjc1hMVWxyTElVUVg3SzNGejdjRmxhcE9RcFU4TEZXcGRPeHJtb2pXNDVDM2dwQWw1bldHWXpodkFrNXE1cVFuaUtpenlhR0JTTTBwWG9lZlhNSWxMcl8zaXRHOXhwLXQ0c1AxdWdPdWpvVkxpN0p3cVJoYVpZSVVWRDkzRXZlQlZKZ0RKZXQtdl9IZG1MeW9zdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-04 13:48:00"
     }
   ],
   "top_news_7d": [
@@ -689,6 +721,11 @@
     {
       "title": "經濟部核定河川、排水改善計畫 張嘉郡：治水要跟時間賽跑 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQMG1uV3dzcEV1d2VybU1yNlRNX0ZabUU0ZlM2Y0k3Z19ZY2xISklsNzRKR2JqMzhKWTlaVzhocDY0bGlTNXlWb3NrQi1wNnZ1NUtBWEdpZHZtZ0RpN29BWjRwcDA4OGxzTE1QQUh2RUQ3alU0Ull4WTdMeUVzSHFvb250dWxSVURlN3o5OVVodUF3cHg0Nm4za09pS2xkMG5PN2F6SHJzNWdJRk1xZHd2WkU4QVo2X0FtT0IzaUtrSURLVjlKS1BVQ1hRakFDX3QwZGNhTjM5aWJCMlNRM3lQMlpwNGRHOVRkelFCZ0dGZGRrVDMxX2ZCMnpKUS1wV2xsSWxpV04yTDZyTXEyclVLaHRGR3FtSjNINTJoY2dXU29CTDR4Y1FrQnBYQzQ2TGhnbUNfcmYxbWY0anBCREV5aVBrTUxHNmNacXd5NE5DMjFGclIzaDJZeXZXdy1tWm5kWFZsUGNJeUw2ZHJ2VTFFQWxJUWszdE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-04 17:34:37"
+    },
+    {
+      "title": "經濟部核定河川、排水改善計畫張嘉郡：治水要跟時間賽跑| 政治焦點 - 太報 TaiSounds",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qcWZyUDdNdTNHYUI1ZGxtNFhfX3haS0VxNlhrWXhoSXItbDRKcXAybUpOQ3BySTgtdjh5Vi0wMFVkMXVWSjJQTjhfYUI1cXdJTUpaSWJOajc1OU02?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-04 17:34:37"
     },
     {
@@ -770,14 +807,14 @@
       "title": "批食藥署蓋牌 張嘉郡籲公開透明重建「食安信任」 - 匯流新聞網",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IUXFrRGVfVmZFVkg4bWhzb0hyUjQtYVRtYjEyU1Y3ZEFwUUFVSGhZUDFSeU12YnIwTGZZR05KTWJLUl9nSGFESy1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-04 11:59:48"
-    },
-    {
-      "title": "「品味雲林 好事花生」 立法院長韓國瑜、雲林縣長張麗善、立委張嘉郡等人同台促銷雲林花生 - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IUkhNa1R3dEI4NU9sSVlrdFNzNlMwWmxNM0d6R1lObGRXWk1XRGxQS1RlOXN6Q0JSeGVnTEZ2UE5tc1RNVWR6MmNRa0ZIc2djTC05cHBjcU80VFZoM3Vjemk4SUhaZ0d2UG00b29aZV85ZkNTcHgxcGtMNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-04 02:17:28"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "張嘉郡 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBZU4xYTJaRklVMEJpS0VJekFOMnpkRm40Slprc2tsUUVGeDlOVk5zMkt6dFQ3MkR5ZktwX3o0cWdSZ2c1RTRNZ3Rmc3RkODdpT3R3eTZzZTVCWmpIb2NzOGpUYWQ0ck1ZQUZ0bmRiYw",
+      "time": "2026-07-04 13:17:11"
+    },
     {
       "title": "【雲林好生活 治水顧家園】 中央核定補助雲林3.2億元 共27案治水工程 近年來，全球極端氣候加劇，短延時強降雨已成為常態，也讓治水工作更顯重要。 這次中央核定「#因應氣候變遷縣市管河川及排水整體改善計畫」，補助雲林縣3.2億元，共推動27案治水工程，透過縣市 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi8AdBVV95cUxObnpUV2RQV3A4bG54cnFLZW9VOFRKN0R0ZFhObmhpblo5QVNJQ1ZHdG5IcDVmRzFpLUNRS0JRal8yOVJPa1JoRU9KNTg2QXN3V0NSSjFBeUhlOGZaNUN3cktEeTdXUFBENG9uWXRsN1JLclhPYWs1WU9CNm81ZkdFX19waFY5VEhNaGZtTTgxVlYyUnlpWnFNTHFqQUZpSXFJOFJMN3lLc0oxd0hxN2FwY1g3ai1WbkpiNEt6NERoVkZiczR2bzdzWkMzNFBoRVVmMDlDLVBucTUxRF8tdEdudW5VUFF1aml2ODJLRThCM3hoUFZxU0ZyeUZkUmliTDVOaWR0Z0lHVk9qazdNaDZ6V25nbGlfQ3JBaWVJbnZDLTh2RHhybllYU2JjelNxRHNPUWdyV3EwU3Iyck5sVVVoZGRmNWV3WmdIX08zX3QzWE81YUQxV3VaRXlrQWZxdDNkRkRQODduaU11U3pQNXpSX3RYYWpCY3o5c2JMZ2NTV0tjYW9BS3RNQnFEQXltcXVZQ3R3eU9GTXBEejFLX19HUUxTdXpuVTFPdG9NN3E5Z2EwVXNnSThHUTZwLUoyUTRGbDZXM2Y3dUJ0aHhIMnBpdnAyT3A4YkQ2WGpTeVpPRjdremRuRHNiMFJHMzFYS2ltMVhNazk0R0JpbGNScTBLb1BMMmo0ckk5WnlDb29uT25hN1cyaHBfNUdYbThXdWs1dkVuOVJ1RmdsMkJsMEVKcmc2QTZiYXRxakphTlhqV0lFVjJQZ1RhdUxicjFuS1k3SnNBSXZnWWZaN0c2TUZEUDRxaEFBSXVrQ3R3TDFaMDBrSE5Pc28yR2dRMUhvLVdMb0tSb3RreFZialRVZXVMRWJiVXhaX2lqQUJVSGctbnJDWEliUW1pMWE3R2JKTG5rWlNnSDBMcUVvbm9VdE9hZHg2eVNkRXZsQTY2alZpeGt0UEt1TTUzNDlNcE9BaVhzaEZqV0Rwcnp0ajU0OUd0VE94NmtsTHNxdWFzQTRHcDJUSC1UZ2FpMHJkQWNXRzlfYVAwY0ZHUEt2STdmQ3BYc1ZHMkxUeGxEbWlBb3kwN2FobTNmcHVXTUIzY0hJMGRBaG85clczc3JVNWZGMl9xaHlNLWlQMU00ZHFrTzB3WjNVTEJUTFpGYS14MFlvVUtPV0cyUFB4UzVuRnhlSy1UU1k3eFRmdGlpeTdNaE9BZ0RyWnFQUjJLdmtaM3Q5RE5ZamZwdUdBMUZUZ2NSci02aTYzU1FmMUFDT1BCbVowRGpfWG12Uk9peGZmYUptSzNpTVBkbng5ODdYb0x3V3NMVHRVazNQS3l2X0ZiUHpVWnM",
@@ -872,11 +909,6 @@
       "title": "孩子的運動環境，需要大家一起努力！ 很高興成功向運動部爭取 約1,931萬元 經費，改善雲林多所學校的棒球、足球運動場地，讓孩子有更安全、更完善的運動空間。 ⚽ 崙背國中 足球場 500萬元 ⚽ 後埔國小 足球場 500萬元 ⚽ 橋頭國小（許厝分校）足球場 544萬元 ⚾ 二 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMixgdBVV95cUxOZjhPTGI0b1B6OXkwd0xwUUtIeUdyT1JESnhHbHc2RnVhZ3VMV2NWZG4xZHcxTUNVSE5rWnhqT2ZRTVNOWXk0NDExOTE5ZW9NNFI5amx1cUloZlJQbVRNU2RINV9FNWR1Si1oWHpvb2FvVDhZUERBTmtidVBzRGxEVzk5anpDQklDREVOQ2tGY2NtbHZINmRXdEMzMEgyY2FGLVJHc1dtSXlHeXBkTlJEMEJYYWU1dTBSNmpyYy01Y2xIZHJCcFRVQy1XalRack9aTm9ZSElvYlMtc3Y0RnRlVzlwb0FTTzgtTy1EdHJWUWc4Q0Z4VW54QVJ1TXE1SHZUVXF5UFRyRmUzVXRxQ3VTSDBqWjZ0M2tLZGhZRWdRaUsxOWlUZkxSRGYyS0ZxU0RoNGs4MjdOeXR6TVFkN1NVRlhrc0Q2T3VMYXNiaGVtT0JuekxBMVBBSG1idEszUXUtMXpKN01rWnRLSFczMlRwcHl1andRZlJxTE1HQ3llU2R2X0swUDBhbXdja0d6dF8zTmdxd2huLUs0OFlQemM1ZWRiZlA3bEU3OVR5ZDhLdHQ1Qi1kUDZJWUtqdURfZHkyVVR5MVN3a1AtRGlrU2w1ODljc2F2SnZWX0prM0FVNm05dGpDY2ZpWlZzZTQyQW5mNFc1aUNFelZQcHgwdFB2cDNBalplWUdVWFRXZURpcXZpNHNMd1p3VW1OS3dZdlN0YWt5M0xqUE1NYkktaUU3Q2JiVC1mRGZlNnJRSXZKUUh2bkhhVU1HRmJRdnBWYjBYa1hyaWtxX25WWW1oV1MzZGx1QUMzVzJHRmJsTUdiNEZ6OXgtVkliTmtUUHRWb1NsY3ItV2VpSmI1U1NUYldaRlI3RE9fak9Fc0M2NE5IZGI2emdkdVkyMmd5NFJWa25QdHdVX0NreUFNVzg4R1pGMWxsWklTdTRNZHVTaVNub24wN253THhMUC1Ld21ZdnlXRU44VnNwRm0wam5qZV9QNDR3eEp0a1FTVFRYcWRRSmFaSTNtb2ZIRHlUSDNXZ2V4YW5zQ0N3bVJUZEFJTzd6QXNjSnI5eG4yeERKRnJDQUpzN1lBLWlhZUlHeUx2VVZEelZOSjU5dEhQT3RscGxsaG9UWTdxaHgtS3NueTVKeWRtb0V3b2hlSWR5MXYzMXNyQVpSQmQwREl5aGsyb0FlTENUaE43UHY0dnNNeDdKWWhHTENfUDJrNzUyVWNGY0hwWTI1bTFHelhCV3RfZkdCV2lRNjlPcTVzam5OVUI5eDg2SElRcVE",
       "time": "2026-06-29 09:50:30"
-    },
-    {
-      "title": "孩子的運動環境，需要大家一起努力！ 很高興成功向運動部爭取 約1,931萬元 經費，改善雲林多所學校的棒球、足球運動場地，讓孩子有更安全、更完善的運動空間。 ⚽ 崙背國中 足球場 500萬元 ⚽ 後埔國小 足球場 500萬元 ⚽ 橋頭國小（許厝分校）足球場 544萬元 ⚾ 二 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMixAdBVV95cUxPU25mVFRyd0laQWlqWGNTRHVNS3hxakstbDBsc2pxUV9PXzg1OWhzWnFzRm9BdzhfTWZMMk9EeVNpWmNEUFRsYWoxY3d3WEUyQ0FyNnRKREZZZEdTOTlqQzJrYjdKWVZkTl9xZGdWOVVOWlhlNXBxOE9CY3NVS2pqUVI5MDJOWmVRSnMxQmRzQ2hMNWlabkNaRkRFdGZ5TlhObEhMMnV2OUZpT3JlWExVSDJpNDRfSlhCVURlUUM3YWxTb3FybHJSUTgxYnJuUFRRUWFsYkNUSWtrdWhlT19ELVRGMHlJdFV5STM0QXVWekNHS0F6ZzRXVG5vZE04U2NncFF2OWhETDktXzE3b0xMdHpJV3VyYndGNTN6NFNwbHVRbnlLTXNmTGpoVTVFbVJINmFCeVFYd0xhN0RGeGRWVlJJNW5vNi1Ed3hvWnZTU0ZBbnJiRTFMSFpya0o0ckNyMFpRdWVCS2FNWkplTWlHcEcwbmdpRTFEenF3X3BnZHJBWk15YVU4UmhRUDU1MDN4WG5YRGtNcnJsYU16Q25LWWhPVnBwcHZSdDZpZG0xUTJva2FRRWNpVjB6NTZmbmRsalFiajNMUnpCM3htbXc4WUl0X0NMY09OTTRPSTVDYjNTamV0RmpNZVUxUzNBamxyQUJLRHFXbDVQLW1QYk5ZSlNJaTdZTElYTkJOOWNLekFEVnBEbVJFVVZZTW50cS1HWVc3Qzc3THZwZkJKU1VUcFYwU1o2eXgwVTFlSnJ5dUN5Mm1GRDQ0M1E4YnF1bWh6X3lkcTNVZnBEMHlEUjBGN0JmcGJQNlIwZ19IbG81THRhRkNCSVA4dTZkRkpaTFN3NGZkY3k2VU51UVhEclZXWDVibzhCWE9KVkxld2x1M0tsUVlqck8xSFlNbFF3dmFXOUZjc3VCbDluRXNhVXlQai1ieFpKNjN2UVhIWWdmclFLRV90ZFU4MjlZamc3XzQtT29XeWJ2ejBTM1hKQnFCYm9HT0xINWVYanJwVGxiMmFwSzN6WEdvTExUTUxhMlZNMmVKNm9NdHprdy0zc3kySGZwV2huc1o0OHoycXVRcjJ6VDY2dkdwX0FSQXBXS21nZmJYR1BEczVQZnAtYWZPVGlRRGMwODBhZXJZUnhXSUwyRTF6ZDRTeHY2Yl9obVhHLWlzTDlHZjE4b3I3em1MSVhzVEdMVGNET1g1eTI4WEFzanFiTjVNWEdKZG4zamZuX1Y1cEhHb1o1YVhjUFh2cXp1SlNpRXQ0SUh2N2lVUjVkQmRs",
-      "time": "2026-06-29 09:48:32"
     }
   ],
   "latest_news_20": [
@@ -893,6 +925,11 @@
     {
       "title": "經濟部核定河川、排水改善計畫 張嘉郡：治水要跟時間賽跑 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQMG1uV3dzcEV1d2VybU1yNlRNX0ZabUU0ZlM2Y0k3Z19ZY2xISklsNzRKR2JqMzhKWTlaVzhocDY0bGlTNXlWb3NrQi1wNnZ1NUtBWEdpZHZtZ0RpN29BWjRwcDA4OGxzTE1QQUh2RUQ3alU0Ull4WTdMeUVzSHFvb250dWxSVURlN3o5OVVodUF3cHg0Nm4za09pS2xkMG5PN2F6SHJzNWdJRk1xZHd2WkU4QVo2X0FtT0IzaUtrSURLVjlKS1BVQ1hRakFDX3QwZGNhTjM5aWJCMlNRM3lQMlpwNGRHOVRkelFCZ0dGZGRrVDMxX2ZCMnpKUS1wV2xsSWxpV04yTDZyTXEyclVLaHRGR3FtSjNINTJoY2dXU29CTDR4Y1FrQnBYQzQ2TGhnbUNfcmYxbWY0anBCREV5aVBrTUxHNmNacXd5NE5DMjFGclIzaDJZeXZXdy1tWm5kWFZsUGNJeUw2ZHJ2VTFFQWxJUWszdE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-04 17:34:37"
+    },
+    {
+      "title": "經濟部核定河川、排水改善計畫張嘉郡：治水要跟時間賽跑| 政治焦點 - 太報 TaiSounds",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qcWZyUDdNdTNHYUI1ZGxtNFhfX3haS0VxNlhrWXhoSXItbDRKcXAybUpOQ3BySTgtdjh5Vi0wMFVkMXVWSjJQTjhfYUI1cXdJTUpaSWJOajc1OU02?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-04 17:34:37"
     },
     {
@@ -974,16 +1011,16 @@
       "title": "批食藥署蓋牌 張嘉郡籲公開透明重建「食安信任」 - 匯流新聞網",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IUXFrRGVfVmZFVkg4bWhzb0hyUjQtYVRtYjEyU1Y3ZEFwUUFVSGhZUDFSeU12YnIwTGZZR05KTWJLUl9nSGFESy1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-04 11:59:48"
-    },
-    {
-      "title": "「品味雲林 好事花生」 立法院長韓國瑜、雲林縣長張麗善、立委張嘉郡等人同台促銷雲林花生 - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IUkhNa1R3dEI4NU9sSVlrdFNzNlMwWmxNM0d6R1lObGRXWk1XRGxQS1RlOXN6Q0JSeGVnTEZ2UE5tc1RNVWR6MmNRa0ZIc2djTC05cHBjcU80VFZoM3Vjemk4SUhaZ0d2UG00b29aZV85ZkNTcHgxcGtMNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-04 02:17:28"
     }
   ],
   "person_sections": {
     "張嘉郡": {
       "facebook": [
+        {
+          "title": "張嘉郡 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBZU4xYTJaRklVMEJpS0VJekFOMnpkRm40Slprc2tsUUVGeDlOVk5zMkt6dFQ3MkR5ZktwX3o0cWdSZ2c1RTRNZ3Rmc3RkODdpT3R3eTZzZTVCWmpIb2NzOGpUYWQ0ck1ZQUZ0bmRiYw",
+          "time": "2026-07-04 13:17:11"
+        },
         {
           "title": "【品味雲林 #好事花生！瓊瓔在經濟委員會全力為國產花生把關 🥜✨】 今天立法院現場好事發生！雲林縣長張麗善親自率隊北上，與張嘉郡委員等好朋友共同舉辦 #品味雲林好事花生 推廣記者會。就連韓國瑜院長也親自到現場共襄盛舉，大讚粒粒飽滿的花生仁與香濃花 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMihwhBVV95cUxOWnd0TXlpT2ZPUDFwQm5CX0plWG9vQ1RLNWNNbHNWU1YwdllRdXJ0RFo5cHdUS0xJVUxHUVc1OVpDc0h4aGZFYWtQWWRCZFpBVGRNSmo0SFdJalR5RFNPTV8xcmUzb21VR0UyaV9VeTB6aHY1NTd6ZUNnXzV4NGlpaUF0MjM4cHkwU3lwdFJVYXhBbmhuRkZiNFFOSjVxYXA5RFgtUnVzZTFwc0dxMExTMmkyX0pnNC1pV2I2NENHdHFBRm1ycWhiRkRjSmR4WUdOWlJ1M1poT0hVOG9tU2ZieThNWkllMW00WUpDZHpaTFVBVTBYNkJQWHU5VkhKUDNZaGJrSERjb2Y5TE9ETXU4SEtKWnA3RDRudFMtUXJWM3QwOXNjcE1VZ1h3ZmlQRUtFMFFHZXZ4YThZcTJ6OWhBdlB6a1NHLUJ4UlF0UHIxcTFoTFZnZ1lWOTJKMDhvYXhnTEJqZGI5Ny1KV05vM0hkOE9sMlIzYktlV0tYc2cwLTJSUkVEVlBNY2ZEUlE4ZkFWRXd2Yl9Ob1RxXzFaSU5CdnBXaW1BblpGMEY3YXR3MTJOQ3MtV1FRLThIdWkwS0NPYTVuNDYtQ0lneDliV3NJa2xCem5TOTI2Y0YtSnpUVXNJZGYyRUpJcUlKWHUyOHdyZS1LNVdZbXZRYjBPcGFaRUd4QmpWUUxXM2U3ZFdPbDgwMDkwTHJ0cEFDS2hnamgwSzN6aVJsUnRkWnZ4ZXhFbk8xQU5HQWxHaVlSTWxnOEw4Nm5KemJpSXFhZ2FsVW94TWlJdmxwZl9oQURwWFlzOGhPQ3FSQU5VR3ZPdlhEanFpZDlvWEVicEh4UWt0ZkFTR0U1UENseUl5b1pzeWhLeG44cW80UFNtWXE1TUp0QWZvYVZwVVRlQkQwazBHeFZCbTVhN3ZneWVTZ2lDM3dwdjRGS2JXRXcxbll1UjMzcDkwYjBMWEdjdzJUaHgwMTc4ZTc2N2NXcmZoeGVtQ3RlcXdvdEtvcjBGbUluMGxLeFZKWUhYRmNmRGwxc3c0U19icEt6UkdLczlNSlBxTmVFTWdqRTZYZ0VXZm9LaWhZYldaZ0pzdGJaQUN2bkQ2Q1dqWDVldlhwNTVfWHhCb3BzajFHWm5FX21IeHRrSUhaa1lJaS1SdkhLTzd6WGNuSGttUDljT1N3SWFJMy12YWxtVmp3aHY3THYzUGpXM0hBUUI4dHhUbEZIdkVBMXVHVG5ySzRTMUFKM0RSUWtIRWxuMm44dlc4TjFCUjNLNlcxemdLbDBHMDdmdDJKMk1fbjVTOXRIc0Y5SXQzbVM5bkhBX0RkdTJDaXkwV0xIOVg1cTJvTzBWd0tLU2Z6dVdHdXhUdHNqY3pfOA",
@@ -1078,17 +1115,17 @@
           "title": "▌抗少子女化！張嘉郡提案「公幼費用全免」：私幼每月至少補助1.5萬 #后里書僮：張嘉郡提案對抗少子女化！ （圖／資料照，記者楊士誼攝影） - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMi1AVBVV95cUxOX0szemhFYlVudmIwYXBmdjByU0I3ellDN2tROFIzQ0pNR1R5M05qc1hNT1NlMzlCdEdTZmE0T3JBa1N3WEIyc0ZKSDlKTmQ4amlHRE9hU1VKS1ByYzUxNUVhRkJYZEJsTDR5RE9uVmc1RVJvSWJyVjliMHd3RFZMcEZxaGxEcUFxaElXa0NlMTh0Mnotb3NHR21HdDlkMlVEZmFRdG9pT2p6b0tVLXNiZ3RCTzBtWTlrdG8tX005NVhuVTRreVdkdXc0SkpaNDU4a2lrZlZIaTVyS1NWUXQ3MmdPd3p1SVpOVWluN0lIaGJwaXBSM1gtUzdFa29TMGkyb1RfYUQ3OTJFV0YzUTdndmduT05MeklFakgtZTFoa1Q1Wk1FdjRpQ2NrZGpSQUJNMEhaQ1hKWXprRnoyMUpyaVN0Rl9HT3Fabmg4SWRaT0oydDVieTF3QnJocVBmR3BVY2N1NWphTEFNbGpaMHppc3JPUUUtQUJheDJqY0JhemRIQi02OUMydFRzNnI2TTdmQWRMdlJ2c0lfNnY5bVRLNG9Fa2t5WW4zXzZqRTJVbzZYekpQLWxxd1g4YUtWc0tGTC04SXRIbl9jZHRUTlE5SG1sUWFYb1I3WHluaFM5RnQyRkkyV2VQTkk5T3VDZENVT2RrSmdHa19GM1VCZ3dDdExFZkpVZXVGWVp3ZnZEZ1hkYnM5c29yazhCZkdPaEZkampWN29vajNBTl8zYVdyQk5LWGpZREthNXYzN0RmTk03Z083bzZOVXFJcmdLMjRZWGppeXNINWdDdVdTaWs0YU9INTVTcjBXX2pvNjVWbUI2OS1iS0RhNkp5LXlHZkZyMFdhLTJFZ3ZFZXlRbG8zTG9CYUJnVkVNNzBOaVlYLTl5TDJGbGM5YW1VWmxhNllRWUdRWnFrS2lvV0NuMjZxNzk5YWVZTVhVaHFET0NmS0Q3aTht",
           "time": "2026-06-19 18:12:51"
-        },
-        {
-          "title": "改善育兒環境 藍委張嘉郡提案修法「公幼免費、私幼補助1.5萬元」 - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNZEJiaHFiaWtkOXpudUpQV084U21YbUYydlhaaUlrSWdpbGtLY0ZXdGxRUjlfa1ExWWFjRGstNWJ6RC1Db0t2bFBnN2FseHpMN1JyWG8yR1kzblR5ZzN6cmhGZjV1QjI2S2tZU25fWjZST3NHWFhkdzFuQWpHRkZlYXVZbDdBSGduRDMxVW5mZTEwN05Xdzh1OXMzeUdPaWhncWhybWJkZlB4d1ZSY2hZeU9OZlZxYlpiWHNuelZTbEo4a1BOT0pBNVdJTnlqLXJzM1NLM3JZbHhFaDBxRUcwT3pkYkFrR0VoQjJHYmZycE5ybjRYUXBxOHM2RFV5RUxsTEFUSWdOSTROQlhrV2xlWkNGSldmVm43SC11Tlo2MHBxbWQxbTRZVW9Oc3cwZlZaQzVieURUc2xMNENtQUtPTUdNQ2paVEpnaHhtWDBQVkprenJVZWY1Mi1saXJ5dHB6NGFqbFZZNGdKX1VWNlZLYUpBNUJqUUc0Tl9XLWRybFFVOVBpQnZ5a083aHhGaXRheUtkd0Vsd2VUOEczVHdUSw",
-          "time": "2026-06-18 18:08:03"
         }
       ],
       "news": [
         {
           "title": "經濟部核定河川、排水改善計畫 張嘉郡：治水要跟時間賽跑 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQMG1uV3dzcEV1d2VybU1yNlRNX0ZabUU0ZlM2Y0k3Z19ZY2xISklsNzRKR2JqMzhKWTlaVzhocDY0bGlTNXlWb3NrQi1wNnZ1NUtBWEdpZHZtZ0RpN29BWjRwcDA4OGxzTE1QQUh2RUQ3alU0Ull4WTdMeUVzSHFvb250dWxSVURlN3o5OVVodUF3cHg0Nm4za09pS2xkMG5PN2F6SHJzNWdJRk1xZHd2WkU4QVo2X0FtT0IzaUtrSURLVjlKS1BVQ1hRakFDX3QwZGNhTjM5aWJCMlNRM3lQMlpwNGRHOVRkelFCZ0dGZGRrVDMxX2ZCMnpKUS1wV2xsSWxpV04yTDZyTXEyclVLaHRGR3FtSjNINTJoY2dXU29CTDR4Y1FrQnBYQzQ2TGhnbUNfcmYxbWY0anBCREV5aVBrTUxHNmNacXd5NE5DMjFGclIzaDJZeXZXdy1tWm5kWFZsUGNJeUw2ZHJ2VTFFQWxJUWszdE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-04 17:34:37"
+        },
+        {
+          "title": "經濟部核定河川、排水改善計畫張嘉郡：治水要跟時間賽跑| 政治焦點 - 太報 TaiSounds",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qcWZyUDdNdTNHYUI1ZGxtNFhfX3haS0VxNlhrWXhoSXItbDRKcXAybUpOQ3BySTgtdjh5Vi0wMFVkMXVWSjJQTjhfYUI1cXdJTUpaSWJOajc1OU02?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-04 17:34:37"
         },
         {
@@ -1179,11 +1216,6 @@
         {
           "title": "雲林縣長選舉最新民調 張嘉郡、劉建國差距驚人 - 壹蘋新聞網",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcnlOTmg5YVoxUHJTQnBXRFNWTEJDRjZhU0RnRjVGcmFJRjFHNzZwVmM1SG9RZUpfY0NPb2NyOFJsdkltN0FCSm5KUks5VjF1TUpUV2xhci1fVzdzalNBejRzUW81SERyUU1lX3J1THQtQUNuWDdSdUpRbnFzQ0I0SVUtcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-02 18:15:00"
-        },
-        {
-          "title": "雲林縣長選舉最新民調 張嘉郡、劉建國差距驚人 - 壹蘋新聞網",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IcE1TOERJSVhqWFRucmtBVHV2ZUM2ME0zNjJmU1FheDJ5d3RiTFN0UnVlTzBfTzhsLWxwYm1NREpTUW5VdjhGQUFfa1EwSnpCZzhvbFZna2I1UkZDUzRjVjYtY1BlZFNaU2F2ekRzcm1PRVZaM1F1SDFnYURwdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-02 18:15:00"
         }
       ]
@@ -1413,6 +1445,11 @@
         "time": "2026-07-04 17:34:37"
       },
       {
+        "title": "經濟部核定河川、排水改善計畫張嘉郡：治水要跟時間賽跑| 政治焦點 - 太報 TaiSounds",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qcWZyUDdNdTNHYUI1ZGxtNFhfX3haS0VxNlhrWXhoSXItbDRKcXAybUpOQ3BySTgtdjh5Vi0wMFVkMXVWSjJQTjhfYUI1cXdJTUpaSWJOajc1OU02?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 17:34:37"
+      },
+      {
         "title": "沙拉油食安事件延燒！劉建國籲全面追查流向、加嚴抽驗制度 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPSUU3WWwwT2pia05SdzdRbXJ0Yk1IWFJ4SEpQVFpfSThDWF9xTkYtSzFXSFhEWFBTS2V6RG1oNlZteEs0YmlxUDRPSzB4SUZCV3lsa2RoVU12Y3BoMEY1QWUyTm9Zd250UU1kOHE4TnMzQUp2QWZUUjc4aFJ0VXROVlRyVHpmeEhmQU5EdWIzOW9ydk1LbmswV0J2dEEtUDJXc3FRNFJsWWdTRkdmanRwVDJNT19weU5WeWlOcy1JMTdlRUNvbWtTb1I2LWFaZjZjWjlJWjRDamNZeVFtVWVIYWpZYnBuRVBvTldnNExLdXBDMEtYOUZJY28zVnBaTnQ1U2VlbDFHbzV0MFNnWXZkd0lBLUZidmVQa1BUZ3BVNGFMRkRsbGEzNEdLV3NVTmM3cTdZSTFhbU50SW5jeE0tcFBQVHllT0lpMTZjNEhIT2V5NXc0R25BUDRRYkZNVHNQSFQzT2Q4UU54dk85UkhlUlF5YlJ3d1c1ajk5c2dKRTg3UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-04 17:04:00"
@@ -1508,16 +1545,18 @@
         "time": "2026-07-03 20:33:32"
       }
     ],
+    "facebook": [
+      {
+        "title": "張嘉郡 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBZU4xYTJaRklVMEJpS0VJekFOMnpkRm40Slprc2tsUUVGeDlOVk5zMkt6dFQ3MkR5ZktwX3o0cWdSZ2c1RTRNZ3Rmc3RkODdpT3R3eTZzZTVCWmpIb2NzOGpUYWQ0ck1ZQUZ0bmRiYw",
+        "time": "2026-07-04 13:17:11"
+      }
+    ],
     "youtube": [
       {
         "title": "支持行政院版無人機條例三大理由之三，藍白版本違反預算法，侵犯行政權！",
         "url": "https://www.youtube.com/shorts/ith_zK_CT7s",
         "time": "2026-07-03 20:30:01"
-      },
-      {
-        "title": "翁委員必須接的電話究竟是......📞",
-        "url": "https://www.youtube.com/watch?v=Q8bgvD8PY3M",
-        "time": "2026-07-03 19:33:27"
       }
     ]
   },
@@ -1536,6 +1575,11 @@
       {
         "title": "經濟部核定河川、排水改善計畫 張嘉郡：治水要跟時間賽跑 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQMG1uV3dzcEV1d2VybU1yNlRNX0ZabUU0ZlM2Y0k3Z19ZY2xISklsNzRKR2JqMzhKWTlaVzhocDY0bGlTNXlWb3NrQi1wNnZ1NUtBWEdpZHZtZ0RpN29BWjRwcDA4OGxzTE1QQUh2RUQ3alU0Ull4WTdMeUVzSHFvb250dWxSVURlN3o5OVVodUF3cHg0Nm4za09pS2xkMG5PN2F6SHJzNWdJRk1xZHd2WkU4QVo2X0FtT0IzaUtrSURLVjlKS1BVQ1hRakFDX3QwZGNhTjM5aWJCMlNRM3lQMlpwNGRHOVRkelFCZ0dGZGRrVDMxX2ZCMnpKUS1wV2xsSWxpV04yTDZyTXEyclVLaHRGR3FtSjNINTJoY2dXU29CTDR4Y1FrQnBYQzQ2TGhnbUNfcmYxbWY0anBCREV5aVBrTUxHNmNacXd5NE5DMjFGclIzaDJZeXZXdy1tWm5kWFZsUGNJeUw2ZHJ2VTFFQWxJUWszdE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 17:34:37"
+      },
+      {
+        "title": "經濟部核定河川、排水改善計畫張嘉郡：治水要跟時間賽跑| 政治焦點 - 太報 TaiSounds",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qcWZyUDdNdTNHYUI1ZGxtNFhfX3haS0VxNlhrWXhoSXItbDRKcXAybUpOQ3BySTgtdjh5Vi0wMFVkMXVWSjJQTjhfYUI1cXdJTUpaSWJOajc1OU02?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-04 17:34:37"
       },
       {
@@ -1717,14 +1761,14 @@
         "title": "經過多日馬拉松會勘 劉建國爭取有成 農業部正式公告雲縣「硬質玉米」列天然災害救助 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQTXByVXU0bklQdXNJdnZBTllLdG15c2pCNjNVWXMyOVBkdTdNYlE3UDd1RU1meklnU1J2VEFCeUo4NHdVSVdIQlJ4QjRsYkFNX0tqVExMVVNYcXlvaHc3TmQ2Wndoa21qbm91NEVIYlhNd2IzcjF5RkVyeGFrLUw0X0ZsWHdfTGZMTkIzM3pZQkVwVXVINEQwSGxEVzc5dFJJSmxQQ01lbk1FV2Rpc1JKS1JEdlpsWEFWY1hvdTVxLW1qQkdLUWhDQXpMdS1LaTJEaG5lS1lZRnl6dHJxQlJmc19PY3lHcVJPZmU2Y3M1anFYZ1VlMzNQcThxQlJmdGJFVHVTN1NGSVpmREhZQjBkM2JaY3JPNDgweVg5emtJaHRiYVhnMEhWUGljUEREOXJGc0loeTNyYjk5bkN6RGZFbkhTSEh3bVc4YVFLNVVudXBMMGxUZktKeW5rb0FOUGh4NTJnbGpsVVdyTUE1Q3hsaWU0RlFPc000RjN0VlZUVUtIdDdLV2gxVnhVTlkyd21rZWZTUWduQ3BfYkRLYnFaaEdydlB3RXYzY1NSM0kwXy04RVBFRjNqZHhQRzdFQVZGb05ocG1BVk4zWU5kNER3d0FXTFVxcEJhOFhvX182bG5aX0pPdlZaQWFnY1RoLTIwY0V5bFV1bnViNjJ6YkNadm54OUpIeFV0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-06-30 16:54:29"
-      },
-      {
-        "title": "張嘉郡拋「雲菁將才」計畫 祭高額獎學金留才雲漂 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOMDRtN3VaalRjREFLa25GTWhfQVBuamtyMEhoeloxVFBldEwxdzFSVEViemxvZEhNQ1VuSFVmeHY2WnZyeVZUVV8xRjBLdWw5SmRIU0l1aDZGbXhuVTJUOWZCcnZKMzVDa011M1FtSjJOUDNRdnRoTXVGaXZoNm1zRHE1M2pWVVFINXBmUGNrSlNRMlFmdHJXM1BPZXBmR0dlUklQeS0yUERpekhGTmg2TFFCZFVYNkp5VldTdlB3dG9wWndPTkZNRVFVc0tCNXp6YmxCUE5UM0thVUVGaHhOQTdpbHVZVGswOW92YkpyOHN6QnUydXcwQmJ6SXM5azdRdU1vWHZzcEUySWQxYnR4MkZrTlp0ZzVJYmVRS0hVeEIwMUUwY1pLOFVoWEpvRGlabFZmUl9iYXFBbFhTYnFlb3EyLUNpczA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-06-30 09:15:39"
       }
     ],
     "facebook": [
+      {
+        "title": "張嘉郡 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBZU4xYTJaRklVMEJpS0VJekFOMnpkRm40Slprc2tsUUVGeDlOVk5zMkt6dFQ3MkR5ZktwX3o0cWdSZ2c1RTRNZ3Rmc3RkODdpT3R3eTZzZTVCWmpIb2NzOGpUYWQ0ck1ZQUZ0bmRiYw",
+        "time": "2026-07-04 13:17:11"
+      },
       {
         "title": "【雲林好生活 治水顧家園】 中央核定補助雲林3.2億元 共27案治水工程 近年來，全球極端氣候加劇，短延時強降雨已成為常態，也讓治水工作更顯重要。 這次中央核定「#因應氣候變遷縣市管河川及排水整體改善計畫」，補助雲林縣3.2億元，共推動27案治水工程，透過縣市 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi8AdBVV95cUxObnpUV2RQV3A4bG54cnFLZW9VOFRKN0R0ZFhObmhpblo5QVNJQ1ZHdG5IcDVmRzFpLUNRS0JRal8yOVJPa1JoRU9KNTg2QXN3V0NSSjFBeUhlOGZaNUN3cktEeTdXUFBENG9uWXRsN1JLclhPYWs1WU9CNm81ZkdFX19waFY5VEhNaGZtTTgxVlYyUnlpWnFNTHFqQUZpSXFJOFJMN3lLc0oxd0hxN2FwY1g3ai1WbkpiNEt6NERoVkZiczR2bzdzWkMzNFBoRVVmMDlDLVBucTUxRF8tdEdudW5VUFF1aml2ODJLRThCM3hoUFZxU0ZyeUZkUmliTDVOaWR0Z0lHVk9qazdNaDZ6V25nbGlfQ3JBaWVJbnZDLTh2RHhybllYU2JjelNxRHNPUWdyV3EwU3Iyck5sVVVoZGRmNWV3WmdIX08zX3QzWE81YUQxV3VaRXlrQWZxdDNkRkRQODduaU11U3pQNXpSX3RYYWpCY3o5c2JMZ2NTV0tjYW9BS3RNQnFEQXltcXVZQ3R3eU9GTXBEejFLX19HUUxTdXpuVTFPdG9NN3E5Z2EwVXNnSThHUTZwLUoyUTRGbDZXM2Y3dUJ0aHhIMnBpdnAyT3A4YkQ2WGpTeVpPRjdremRuRHNiMFJHMzFYS2ltMVhNazk0R0JpbGNScTBLb1BMMmo0ckk5WnlDb29uT25hN1cyaHBfNUdYbThXdWs1dkVuOVJ1RmdsMkJsMEVKcmc2QTZiYXRxakphTlhqV0lFVjJQZ1RhdUxicjFuS1k3SnNBSXZnWWZaN0c2TUZEUDRxaEFBSXVrQ3R3TDFaMDBrSE5Pc28yR2dRMUhvLVdMb0tSb3RreFZialRVZXVMRWJiVXhaX2lqQUJVSGctbnJDWEliUW1pMWE3R2JKTG5rWlNnSDBMcUVvbm9VdE9hZHg2eVNkRXZsQTY2alZpeGt0UEt1TTUzNDlNcE9BaVhzaEZqV0Rwcnp0ajU0OUd0VE94NmtsTHNxdWFzQTRHcDJUSC1UZ2FpMHJkQWNXRzlfYVAwY0ZHUEt2STdmQ3BYc1ZHMkxUeGxEbWlBb3kwN2FobTNmcHVXTUIzY0hJMGRBaG85clczc3JVNWZGMl9xaHlNLWlQMU00ZHFrTzB3WjNVTEJUTFpGYS14MFlvVUtPV0cyUFB4UzVuRnhlSy1UU1k3eFRmdGlpeTdNaE9BZ0RyWnFQUjJLdmtaM3Q5RE5ZamZwdUdBMUZUZ2NSci02aTYzU1FmMUFDT1BCbVowRGpfWG12Uk9peGZmYUptSzNpTVBkbng5ODdYb0x3V3NMVHRVazNQS3l2X0ZiUHpVWnM",
@@ -1948,6 +1992,13 @@
         "risk": "綠"
       },
       {
+        "title": "經濟部核定河川、排水改善計畫張嘉郡：治水要跟時間賽跑| 政治焦點 - 太報 TaiSounds",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qcWZyUDdNdTNHYUI1ZGxtNFhfX3haS0VxNlhrWXhoSXItbDRKcXAybUpOQ3BySTgtdjh5Vi0wMFVkMXVWSjJQTjhfYUI1cXdJTUpaSWJOajc1OU02?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-04 17:34:37",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "沙拉油食安事件延燒！劉建國籲全面追查流向、加嚴抽驗制度 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPSUU3WWwwT2pia05SdzdRbXJ0Yk1IWFJ4SEpQVFpfSThDWF9xTkYtSzFXSFhEWFBTS2V6RG1oNlZteEs0YmlxUDRPSzB4SUZCV3lsa2RoVU12Y3BoMEY1QWUyTm9Zd250UU1kOHE4TnMzQUp2QWZUUjc4aFJ0VXROVlRyVHpmeEhmQU5EdWIzOW9ydk1LbmswV0J2dEEtUDJXc3FRNFJsWWdTRkdmanRwVDJNT19weU5WeWlOcy1JMTdlRUNvbWtTb1I2LWFaZjZjWjlJWjRDamNZeVFtVWVIYWpZYnBuRVBvTldnNExLdXBDMEtYOUZJY28zVnBaTnQ1U2VlbDFHbzV0MFNnWXZkd0lBLUZidmVQa1BUZ3BVNGFMRkRsbGEzNEdLV3NVTmM3cTdZSTFhbU50SW5jeE0tcFBQVHllT0lpMTZjNEhIT2V5NXc0R25BUDRRYkZNVHNQSFQzT2Q4UU54dk85UkhlUlF5YlJ3d1c1ajk5c2dKRTg3UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-04 17:04:00",
@@ -2011,6 +2062,13 @@
         "risk": "綠"
       },
       {
+        "title": "張嘉郡 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBZU4xYTJaRklVMEJpS0VJekFOMnpkRm40Slprc2tsUUVGeDlOVk5zMkt6dFQ3MkR5ZktwX3o0cWdSZ2c1RTRNZ3Rmc3RkODdpT3R3eTZzZTVCWmpIb2NzOGpUYWQ0ck1ZQUZ0bmRiYw",
+        "time": "2026-07-04 13:17:11",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
         "title": "不當淹水受災戶！張嘉郡、丁學忠爭取45.98億治水預算 首批3.21億防洪工程開跑 | 陳逸群 | 新聞 - Storm.mg",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10Y2tRLWpJSWtTY3RQbkkxT3VMcVZDVTBPcG1LdkdpZlU4YW5UeVJuMlZzc1lsTzUtcTB2Qms1TGwwOTczTENmMkUxaHJxUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-04 12:45:15",
@@ -2049,20 +2107,6 @@
         "title": "批食藥署蓋牌 張嘉郡籲公開透明重建「食安信任」 - 匯流新聞網",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IUXFrRGVfVmZFVkg4bWhzb0hyUjQtYVRtYjEyU1Y3ZEFwUUFVSGhZUDFSeU12YnIwTGZZR05KTWJLUl9nSGFESy1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-04 11:59:48",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "「品味雲林 好事花生」 立法院長韓國瑜、雲林縣長張麗善、立委張嘉郡等人同台促銷雲林花生 - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IUkhNa1R3dEI4NU9sSVlrdFNzNlMwWmxNM0d6R1lObGRXWk1XRGxQS1RlOXN6Q0JSeGVnTEZ2UE5tc1RNVWR6MmNRa0ZIc2djTC05cHBjcU80VFZoM3Vjemk4SUhaZ0d2UG00b29aZV85ZkNTcHgxcGtMNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 02:17:28",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "「品味雲林 好事花生」 立法院長韓國瑜、雲林縣長張麗善、立委張嘉郡等人同台促銷雲林花生 - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzTnlzNUxXbzVfUjBUWGtlVF9GeXNTTnlCa3lJUVMxOWJ1QTNiN3N5LXVqandZQVViemRsRk8ySjVNNjJOUFdqc0tKak80bk8wNl9FbG1USE5Ia3c1OXpqcko4OXN1REtVREFYZWVBUEFVWnYtbWFvb0twd2Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-03 20:45:33",
         "platform": "news",
         "risk": "綠"
       }
