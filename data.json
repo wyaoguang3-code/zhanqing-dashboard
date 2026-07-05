@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-07-05T12:53:03.388080+00:00",
+  "generated_at": "2026-07-05T13:08:29.502854+00:00",
   "metrics": {
-    "total_24h": 23,
-    "prev_24h": 32,
-    "growth_pct": -28.12,
-    "news_24h": 23,
+    "total_24h": 22,
+    "prev_24h": 34,
+    "growth_pct": -35.29,
+    "news_24h": 21,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,9 +14,9 @@
     }
   },
   "metrics_7d": {
-    "total": 142,
+    "total": 143,
     "prev": 144,
-    "growth_pct": -1.39,
+    "growth_pct": -0.69,
     "news": 113,
     "anomaly": {
       "level": "綠",
@@ -28,7 +28,11 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 23
+      "count": 21
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "by_platform_7d": [
@@ -38,7 +42,7 @@
     },
     {
       "platform": "facebook",
-      "count": 23
+      "count": 24
     },
     {
       "platform": "youtube",
@@ -47,12 +51,8 @@
   ],
   "by_hour": [
     {
-      "hour": "2026-07-04 20:00",
-      "count": 2
-    },
-    {
       "hour": "2026-07-04 21:00",
-      "count": 3
+      "count": 4
     },
     {
       "hour": "2026-07-04 22:00",
@@ -306,7 +306,7 @@
     },
     {
       "hour": "2026-07-04 21:00",
-      "count": 3
+      "count": 4
     },
     {
       "hour": "2026-07-04 22:00",
@@ -336,7 +336,11 @@
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 22
+      "count": 20
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
@@ -440,23 +444,24 @@
         "title": "查到底！致癌沙拉油爆食安危機 劉建國喊話中央追源頭：不能只下架 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOWlVlS0h4dmhUa2tyamxxTVZrN3EzT0tSbkRwX01QVVpaNnh1YXlwSnVKSkhQdE0yNlNmaUoybF9SZHZhbG12b0xMem55RGNXSUV4QVF5YlJGeDFOWHBjeXc2dTZXbWRxN21vQmx6V1VrNkt6czFhOXhsdC1MUFhrX3c0QmoxbGJINlhrVTAxbElUTlhZLURuak43ZDFtcW5SbmlkSFREVTlOTzl2VHhDeW9nMThhSkZ5R0k1ZHdvSU5QeGpCQ0JBM0xTcC04cFV0NVlBelJ6RF84NlAtcFU3ZDJsWlppYjgzd2NqXzdxRUtzU2FFUXlPdWE0czI3ZEhFN3RMbmpqR2pfejY0dnYyLTRFc0ZZSkVLSlI4QTRsRXM0NV95VXVwNmxtWEs3S3hCYTEycmkwNmswUk1VTlpYdG5KelRDSmw1U2RtN2VFVjNod0RsMlZuUFJRVldrS3c3NVBxQ2ZHSzFySDQ0bm04NEJyRUVwZmVrem9FR1RxTVhJMzI2UTJfSE5mTFJ3SjI0QUk2dkhPS1FMeG5zLXlCLVlaeU50VDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-04 21:33:59"
-      },
+      }
+    ],
+    "facebook": [
       {
-        "title": "民進黨雲林縣黨部主委交接 劉建國喊話「年底選舉缺一不可」 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oMGtCcFVwMVY4U01XWktya2NYUjhPZE9KdmxQMklrVHZqV0NGdVBpSVhOZnpVbEVSbVNkdkRhLTE1NDRaM01mRnVVSVZZZkNCWHgyR0FpUndFS3pBN25MbVNBbm1Dek16MmfSAW9BVV95cUxQSWV4OUVrcG1hLVQwVzlkeFJQTGZKRnNVRlZtWHVmQVR1ckRaZU1uV0YwQWhKcER4MTkwSEdVMzNGQ3FGNHdkWG5LYWx6UW9MLWJVSnB0QVZRVkJPTjdEVUNOMUpmVTZDVXZmSlNzVk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 20:55:21"
-      },
-      {
-        "title": "民進黨雲林縣黨部主委交接 劉建國喊話「年底選舉缺一不可」 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNMDBXYTVqMzc4TXcwZ0xzOTdVZDVYakdlV0g2MWFwV2VMUzE4dTh4SEJGWW5TZlA1bE1uWjRRM0pZdHBsQXludzdoWkljZk9iRExISWlFRjdsc2NiUGc4Vmo5SEJuS0ZVdzhKTUZKaEF6azRaOVZycjUwb2RSUExBQTBqZ0hMQlR5YzBWN0s2aHFwRUR2T0ZvM01mUlRXd3NicTFrck1LVGpwZDdlV0l4SGtyOF9fdjNVN2hvbXBvby1kaFhYb2hXR29pT2djZ3U1S1FSbkhmakRsdklzNi1QcW4tclgxOGplOXM0ek5Cd3B0aG1fclRtMUM1VTdyd3VUM3JaNWRPMElBd1ZDMkpxRmRzZTNuVllOYV9lRkN5czRLNWF5RXU2cHZ3SlBkUWVQTVlJanotLWNxMERfRTBSWHpLbjZwTGY5MU1TV0lNNmtiaC0tNm5TbE5LbDFDdWpTendjR3NUeFJrX0NpZ0d1ZEwyaDFIZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 20:55:21"
+        "title": "查到底！致癌沙拉油爆食安危機 劉建國喊話中央追源頭：不能只下架 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNVEVOWEZmOWV0dWJMWmZEb3hiR0lpdjlvbW5CVjRSbVMxa1hLX0NLSVJHUXpDaE5pMGxoQ3FiUHVzMkNBbEZyeWlnUHczYXhuaHEwRlpjV0NCaktnNkRvRWIzeDJnRV9oZHJ6akEzekoxWUp4ZUVZdE5LRjI3cTI4bzVTTTNueUFQcXRGZWdsOUlQMWFKdVNpVDM3M3ZZZElKSUg0bFBwVWlNUUN1R2FXc3dCNTlWZzR0Y1FkWlFfYWpVci1NZFhUME00V2Z0eUUyNVM4UEpmbHJuZ2RlSmVxU2x4OXRaeS14RjEzQ3ZQZzFjbG4ycU5aRktMNi1qX1dnVnJKLUVZRTlxR3ZMRzdleW4yZ1N3bzlxZjg5anpNUFVuZVRvQm5CdDl6Uks1cHVLUU1qSWI3bGpRQ1hGMjdoLW5yUDZnWHZGWDA2bmwxb2czbXZnLXc4RF9tMDU0d3F6WG5XcjBpVktoVnl3czkwQ0E0U09WbHRzRnhvTnREUEIwa3BuZlZaTV84blFjNjVha1dSWUlVcUd2VjhXUnNwaUQ1UWpBQU5NNlR2SExBbmFMUVRzSmRKQUdNRQ",
+        "time": "2026-07-04 21:42:10"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 22
+      "count": 20
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
@@ -560,26 +565,23 @@
         "title": "查到底！致癌沙拉油爆食安危機 劉建國喊話中央追源頭：不能只下架 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOWlVlS0h4dmhUa2tyamxxTVZrN3EzT0tSbkRwX01QVVpaNnh1YXlwSnVKSkhQdE0yNlNmaUoybF9SZHZhbG12b0xMem55RGNXSUV4QVF5YlJGeDFOWHBjeXc2dTZXbWRxN21vQmx6V1VrNkt6czFhOXhsdC1MUFhrX3c0QmoxbGJINlhrVTAxbElUTlhZLURuak43ZDFtcW5SbmlkSFREVTlOTzl2VHhDeW9nMThhSkZ5R0k1ZHdvSU5QeGpCQ0JBM0xTcC04cFV0NVlBelJ6RF84NlAtcFU3ZDJsWlppYjgzd2NqXzdxRUtzU2FFUXlPdWE0czI3ZEhFN3RMbmpqR2pfejY0dnYyLTRFc0ZZSkVLSlI4QTRsRXM0NV95VXVwNmxtWEs3S3hCYTEycmkwNmswUk1VTlpYdG5KelRDSmw1U2RtN2VFVjNod0RsMlZuUFJRVldrS3c3NVBxQ2ZHSzFySDQ0bm04NEJyRUVwZmVrem9FR1RxTVhJMzI2UTJfSE5mTFJ3SjI0QUk2dkhPS1FMeG5zLXlCLVlaeU50VDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-04 21:33:59"
-      },
+      }
+    ],
+    "facebook": [
       {
-        "title": "民進黨雲林縣黨部主委交接 劉建國喊話「年底選舉缺一不可」 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oMGtCcFVwMVY4U01XWktya2NYUjhPZE9KdmxQMklrVHZqV0NGdVBpSVhOZnpVbEVSbVNkdkRhLTE1NDRaM01mRnVVSVZZZkNCWHgyR0FpUndFS3pBN25MbVNBbm1Dek16MmfSAW9BVV95cUxQSWV4OUVrcG1hLVQwVzlkeFJQTGZKRnNVRlZtWHVmQVR1ckRaZU1uV0YwQWhKcER4MTkwSEdVMzNGQ3FGNHdkWG5LYWx6UW9MLWJVSnB0QVZRVkJPTjdEVUNOMUpmVTZDVXZmSlNzVk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 20:55:21"
-      },
-      {
-        "title": "民進黨雲林縣黨部主委交接 劉建國喊話「年底選舉缺一不可」 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNMDBXYTVqMzc4TXcwZ0xzOTdVZDVYakdlV0g2MWFwV2VMUzE4dTh4SEJGWW5TZlA1bE1uWjRRM0pZdHBsQXludzdoWkljZk9iRExISWlFRjdsc2NiUGc4Vmo5SEJuS0ZVdzhKTUZKaEF6azRaOVZycjUwb2RSUExBQTBqZ0hMQlR5YzBWN0s2aHFwRUR2T0ZvM01mUlRXd3NicTFrck1LVGpwZDdlV0l4SGtyOF9fdjNVN2hvbXBvby1kaFhYb2hXR29pT2djZ3U1S1FSbkhmakRsdklzNi1QcW4tclgxOGplOXM0ek5Cd3B0aG1fclRtMUM1VTdyd3VUM3JaNWRPMElBd1ZDMkpxRmRzZTNuVllOYV9lRkN5czRLNWF5RXU2cHZ3SlBkUWVQTVlJanotLWNxMERfRTBSWHpLbjZwTGY5MU1TV0lNNmtiaC0tNm5TbE5LbDFDdWpTendjR3NUeFJrX0NpZ0d1ZEwyaDFIZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 20:55:21"
+        "title": "查到底！致癌沙拉油爆食安危機 劉建國喊話中央追源頭：不能只下架 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNVEVOWEZmOWV0dWJMWmZEb3hiR0lpdjlvbW5CVjRSbVMxa1hLX0NLSVJHUXpDaE5pMGxoQ3FiUHVzMkNBbEZyeWlnUHczYXhuaHEwRlpjV0NCaktnNkRvRWIzeDJnRV9oZHJ6akEzekoxWUp4ZUVZdE5LRjI3cTI4bzVTTTNueUFQcXRGZWdsOUlQMWFKdVNpVDM3M3ZZZElKSUg0bFBwVWlNUUN1R2FXc3dCNTlWZzR0Y1FkWlFfYWpVci1NZFhUME00V2Z0eUUyNVM4UEpmbHJuZ2RlSmVxU2x4OXRaeS14RjEzQ3ZQZzFjbG4ycU5aRktMNi1qX1dnVnJKLUVZRTlxR3ZMRzdleW4yZ1N3bzlxZjg5anpNUFVuZVRvQm5CdDl6Uks1cHVLUU1qSWI3bGpRQ1hGMjdoLW5yUDZnWHZGWDA2bmwxb2czbXZnLXc4RF9tMDU0d3F6WG5XcjBpVktoVnl3czkwQ0E0U09WbHRzRnhvTnREUEIwa3BuZlZaTV84blFjNjVha1dSWUlVcUd2VjhXUnNwaUQ1UWpBQU5NNlR2SExBbmFMUVRzSmRKQUdNRQ",
+        "time": "2026-07-04 21:42:10"
       }
     ]
   },
   "mention_compare_24h": {
     "張嘉郡": 1,
-    "劉建國": 21
+    "劉建國": 20
   },
   "mention_compare_7d": {
     "張嘉郡": 82,
-    "劉建國": 52
+    "劉建國": 53
   },
   "top_news": [
     {
@@ -747,6 +749,11 @@
   ],
   "latest_facebook_20": [
     {
+      "title": "查到底！致癌沙拉油爆食安危機 劉建國喊話中央追源頭：不能只下架 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNVEVOWEZmOWV0dWJMWmZEb3hiR0lpdjlvbW5CVjRSbVMxa1hLX0NLSVJHUXpDaE5pMGxoQ3FiUHVzMkNBbEZyeWlnUHczYXhuaHEwRlpjV0NCaktnNkRvRWIzeDJnRV9oZHJ6akEzekoxWUp4ZUVZdE5LRjI3cTI4bzVTTTNueUFQcXRGZWdsOUlQMWFKdVNpVDM3M3ZZZElKSUg0bFBwVWlNUUN1R2FXc3dCNTlWZzR0Y1FkWlFfYWpVci1NZFhUME00V2Z0eUUyNVM4UEpmbHJuZ2RlSmVxU2x4OXRaeS14RjEzQ3ZQZzFjbG4ycU5aRktMNi1qX1dnVnJKLUVZRTlxR3ZMRzdleW4yZ1N3bzlxZjg5anpNUFVuZVRvQm5CdDl6Uks1cHVLUU1qSWI3bGpRQ1hGMjdoLW5yUDZnWHZGWDA2bmwxb2czbXZnLXc4RF9tMDU0d3F6WG5XcjBpVktoVnl3czkwQ0E0U09WbHRzRnhvTnREUEIwa3BuZlZaTV84blFjNjVha1dSWUlVcUd2VjhXUnNwaUQ1UWpBQU5NNlR2SExBbmFMUVRzSmRKQUdNRQ",
+      "time": "2026-07-04 21:42:10"
+    },
+    {
       "title": "張嘉郡 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBZU4xYTJaRklVMEJpS0VJekFOMnpkRm40Slprc2tsUUVGeDlOVk5zMkt6dFQ3MkR5ZktwX3o0cWdSZ2c1RTRNZ3Rmc3RkODdpT3R3eTZzZTVCWmpIb2NzOGpUYWQ0ck1ZQUZ0bmRiYw",
       "time": "2026-07-04 13:17:11"
@@ -840,11 +847,6 @@
       "title": "【快問快答】力拚2026雲林縣長 劉建國喊話競選對手：身體要顧好 記者黃仲裕、周淨惠／雲林報導 民進黨雲林縣長參選人劉建國挑戰快問快答，除了分享雲林美食和景點，也展現對雲林未來發展的期待，當記者問到想對競選對手說的一句話，劉建國表示「大家的身體都要 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxNSEJKRWRHc0lqOWJWOVgxbWVNYVBnbFhkN1ZrSnBTam9nQm44dzhManIxSGxFblFYNUpWWkhtcFYtZEhybUlNdkwzeUZTSFd2N3ZKVmpBTllsUE1yUVZlRGVCMTBRZlA2eFN2WWVsSzdIbE95eW9sLVBDZThvUjZDOF9xUjhmQ3NMZm81WmJldlZFM242YkZSTHZablJXSlptVFp5amVZUXJUUzh6b3pkQVN4SGdFNXUtdkU4MVlHalRRS1RENVlON2x0NWhWMEs1RW5DTHdJbzNfOFZrc3ZQOFV0dV9TU05yNWV4Ql91LTZlMTZtX3d5dkJkSHZNTXB6MldfMUQzR3ZmX1VuVVI1aVZzTVZMVC1ac3VrZlg3Qk9qTzZIUXZYeHpZYVlrcHVNWGRmaVBiSFhOckNZWnFMdXpTWE95dHgwTTVQb2EweGw1MnVkXzU2S0hXeVBXZEZSNFBaR2FpZDk5UEExLTJKZmZ3cmtqM3IxdG5wLWZHd01DaDVYYXBvLWFSSEx1UDFQbVM5ZnhTckdBSHc3ZGhsemQxZ0tzbHUwNmRZSkhBWkUyeEg2bU1KanZvUk9yWjdpdG10ZHc0YkdjMk41MVQ0c1RPdVNMZHE4RHYta2VXZnllQkl0b2NLcXdMSkpXVl80SnA0UlpnSERELU1wQ3VxX2pRVHBsWWZLS0RJeThNeXl2Mms4dlo3YTl0TjBidm5JYmxfZlpWV3lOcXRaYXIxLXpzQjl6XzlwTjUtanBQc09RQlR5ajhsSk9VdktZNmlSUFF0VDhPVUNFc21OQ05zcHdabDJvX3lRMndYcHZOV1pRS1poQk1xOHBTU2VEc3ZfMm16Njh0ZDZXVUdvcDB3UzRFMmRGOFpaTFlVa1pNT181TzJUZ01OdUkzYTFsbnczQWpyQ3FGWEZfejJOSWVTOWJzOGVPeWVRbEFUcE9jYzVkZWdUZ2ZLTXdBd043NTE1VzNqVzU5NmZHT2xKODhLMzFFYUJjZllWSjJEdFkyck8wMUJBNHhwX0dfcjRYb0FmSHhveGFRMFMwZFFTNEpHN0gtdVA1YjVNSUQ1WW5NN01xVTEyRDNyNlhMUjRqUFhRaWlfYXF2Ym5yWGJlendEbFB0NVNpMExscXI0N3hrWjVtZFRYZFhjQ1dPcGJhT2pBZTk3dmhLOUZZS05hME1uV1NpVlhtODZzYTN1a0c0UGcycDctMkVyekxwQWVxWVpwdWExTGh3T0IyOU5jeFpKOVRoQkZOWXR3TnV6cUJmMldseW9TQ01DQ2lBNlN0R0VXU0lrNnJ4elhnX3dKeHA5bDcyTW1DNDFXV0hpQWJVZ0R4Zw",
       "time": "2026-06-29 10:55:25"
-    },
-    {
-      "title": "孩子的運動環境，需要大家一起努力！ 很高興成功向運動部爭取 約1,931萬元 經費，改善雲林多所學校的棒球、足球運動場地，讓孩子有更安全、更完善的運動空間。 ⚽ 崙背國中 足球場 500萬元 ⚽ 後埔國小 足球場 500萬元 ⚽ 橋頭國小（許厝分校）足球場 544萬元 ⚾ 二 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMixgdBVV95cUxOZjhPTGI0b1B6OXkwd0xwUUtIeUdyT1JESnhHbHc2RnVhZ3VMV2NWZG4xZHcxTUNVSE5rWnhqT2ZRTVNOWXk0NDExOTE5ZW9NNFI5amx1cUloZlJQbVRNU2RINV9FNWR1Si1oWHpvb2FvVDhZUERBTmtidVBzRGxEVzk5anpDQklDREVOQ2tGY2NtbHZINmRXdEMzMEgyY2FGLVJHc1dtSXlHeXBkTlJEMEJYYWU1dTBSNmpyYy01Y2xIZHJCcFRVQy1XalRack9aTm9ZSElvYlMtc3Y0RnRlVzlwb0FTTzgtTy1EdHJWUWc4Q0Z4VW54QVJ1TXE1SHZUVXF5UFRyRmUzVXRxQ3VTSDBqWjZ0M2tLZGhZRWdRaUsxOWlUZkxSRGYyS0ZxU0RoNGs4MjdOeXR6TVFkN1NVRlhrc0Q2T3VMYXNiaGVtT0JuekxBMVBBSG1idEszUXUtMXpKN01rWnRLSFczMlRwcHl1andRZlJxTE1HQ3llU2R2X0swUDBhbXdja0d6dF8zTmdxd2huLUs0OFlQemM1ZWRiZlA3bEU3OVR5ZDhLdHQ1Qi1kUDZJWUtqdURfZHkyVVR5MVN3a1AtRGlrU2w1ODljc2F2SnZWX0prM0FVNm05dGpDY2ZpWlZzZTQyQW5mNFc1aUNFelZQcHgwdFB2cDNBalplWUdVWFRXZURpcXZpNHNMd1p3VW1OS3dZdlN0YWt5M0xqUE1NYkktaUU3Q2JiVC1mRGZlNnJRSXZKUUh2bkhhVU1HRmJRdnBWYjBYa1hyaWtxX25WWW1oV1MzZGx1QUMzVzJHRmJsTUdiNEZ6OXgtVkliTmtUUHRWb1NsY3ItV2VpSmI1U1NUYldaRlI3RE9fak9Fc0M2NE5IZGI2emdkdVkyMmd5NFJWa25QdHdVX0NreUFNVzg4R1pGMWxsWklTdTRNZHVTaVNub24wN253THhMUC1Ld21ZdnlXRU44VnNwRm0wam5qZV9QNDR3eEp0a1FTVFRYcWRRSmFaSTNtb2ZIRHlUSDNXZ2V4YW5zQ0N3bVJUZEFJTzd6QXNjSnI5eG4yeERKRnJDQUpzN1lBLWlhZUlHeUx2VVZEelZOSjU5dEhQT3RscGxsaG9UWTdxaHgtS3NueTVKeWRtb0V3b2hlSWR5MXYzMXNyQVpSQmQwREl5aGsyb0FlTENUaE43UHY0dnNNeDdKWWhHTENfUDJrNzUyVWNGY0hwWTI1bTFHelhCV3RfZkdCV2lRNjlPcTVzam5OVUI5eDg2SElRcVE",
-      "time": "2026-06-29 09:50:30"
     }
   ],
   "latest_news_20": [
@@ -1159,6 +1161,11 @@
     "劉建國": {
       "facebook": [
         {
+          "title": "查到底！致癌沙拉油爆食安危機 劉建國喊話中央追源頭：不能只下架 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNVEVOWEZmOWV0dWJMWmZEb3hiR0lpdjlvbW5CVjRSbVMxa1hLX0NLSVJHUXpDaE5pMGxoQ3FiUHVzMkNBbEZyeWlnUHczYXhuaHEwRlpjV0NCaktnNkRvRWIzeDJnRV9oZHJ6akEzekoxWUp4ZUVZdE5LRjI3cTI4bzVTTTNueUFQcXRGZWdsOUlQMWFKdVNpVDM3M3ZZZElKSUg0bFBwVWlNUUN1R2FXc3dCNTlWZzR0Y1FkWlFfYWpVci1NZFhUME00V2Z0eUUyNVM4UEpmbHJuZ2RlSmVxU2x4OXRaeS14RjEzQ3ZQZzFjbG4ycU5aRktMNi1qX1dnVnJKLUVZRTlxR3ZMRzdleW4yZ1N3bzlxZjg5anpNUFVuZVRvQm5CdDl6Uks1cHVLUU1qSWI3bGpRQ1hGMjdoLW5yUDZnWHZGWDA2bmwxb2czbXZnLXc4RF9tMDU0d3F6WG5XcjBpVktoVnl3czkwQ0E0U09WbHRzRnhvTnREUEIwa3BuZlZaTV84blFjNjVha1dSWUlVcUd2VjhXUnNwaUQ1UWpBQU5NNlR2SExBbmFMUVRzSmRKQUdNRQ",
+          "time": "2026-07-04 21:42:10"
+        },
+        {
           "title": "劉建國 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90WEtDWkt4SmNSWFlVeGRpUEpEaXdNUlduV3ZuWVRnWXRVemp3ZXFBYS1ZM21hMUFKUDhySVFuemluVTE4UG55SVhUMnpXaGs5NTdFQ09lZVA3QTV4ZFNUQVJIQUp3VEVTaWZFRHBCZw",
           "time": "2026-07-03 12:39:54"
@@ -1252,11 +1259,6 @@
           "title": "守護鄉親回家的路！ 劉建國向交通部爭取4768萬元 改善雲林人行環境 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOWXBQR242RlA4cElLQWlkYXoxd2VEbFE0Uks1STdaWGM3Rnk4Vm1YbWYtbFlZcXVlS0k4MDAxMnFqOEh2OHQ3MElJMVRXSkw1dGhRaFZiRmRnWW14VUJSR05HNm9fZVVQMGNMbGdfMElaSmtuZXk5UDNrUG5PSTdncmxVMDNzb1BNWFM0cTl2SXk4c2pnOGg0UWhZUGxyeGtiLUwwaTEyN2dSN1BJdzFmbVZVWE14YlFDNEFVZ1pCcmdSRU82YTNOUEpBZEY4RlBVcWViTFR2SFEwVzdVcFVtMXZ2Zm4wS3AxRVVzWG1qRHNsS3lVOGJWRUg0OV80T1FTdHd0MGMtdWp4cVg3ZTBPQzlHMkp0LUJZRVh5NVNvZFMtYmNuVTZEVVNvSTBwaUo3VTA5alVPU3hXNUZCZUJqYXVkSGdTUzFNVTJIRXdoaWFKb24xUDBRdU1DTFZjalRxYVRNVHVHM2VQU2NuZ3pNZks3dEM0NENRZkR6NkNjWUVFeWEtV0piS2c5b1hxLTYyZFUzaHdwQ0ZSdjNxSG5jQVdrVVhNSUdscm10cW4yQ204OXFG",
           "time": "2026-06-17 15:40:29"
-        },
-        {
-          "title": "今天與立院的同事林月琴 Yueh-Chin、劉建國、陳昭姿共同舉辦「打擊及防制活摘器官公聽會」。 活摘器官議題，不只是醫療問題，更是嚴重的人權問題。之前我曾包場電影《國有器官》，希望可以透過電影以及曾目睹活摘現場的鄭治醫師親臨分享，譴責中共的活摘暴行並 - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMiwAdBVV95cUxNeW5EdTQ2aXdYWWxwcEMzNGdMajRMc0VlMk5ubWNkV1JveVgwTnNSMzBjSFY4TVJtdXEwQ3dWa0kwVE9nMVA5VnV3UE9Rb0QxYjh4V1ptWER5S1NxdHM3bTRsUm4ta2ExcEM5ZnR4N2IyUkJZcnJrU25wMjhWZ0pJc01SYmtNbGJmc1JPeTh6MzhKanVhU1BSa2xEVkRhTEhQYlk0UGxqMkRKaHltQTdIYTZxLWlYZ0ZtRFhGaTA0S3pRVXVIOUIyaUhwMXplNjIxbHRxSHRqWkRQWVZfMml5T1cxSWdsaEcwRUFXWUZqaTVKdTBsU0RRcWpZMzBtbGx0MHR0OGJKWklTQlRrdHl1dThNUTJVSWtQV3hxTFp5YVpCM3oxZkZzdWNFTWZVbnpsbHVSNTN2MWx6TGsxamRYWm1PamlpM1JDb0VnWWdkUmk0NFpJbERDT044QWN4Q2M3Z0hpM2NqNnc3dTFWN1hkQW04TVVsRTlzT3RJN1hVb0RuaVE5UXIzTFgxRHFFZXE3S2lva0RvM252VnVnZ0ItR3E5eFJzaF9ZVnVfWWxfbVhtRUFmN1l3TGMyRU56c2wxOXJMZkRvbnZqU2hqdTVGT1lzdFZiRG5Pbm1xSkJNWEdVU0N1ekE4bDFZMktLQjYwTkJFRGxmSEcxR29yckVwbDI0Uk9hN2FDS2lnODc3cm9RZVRvVjVoOExBVFhJaUFuMk9yZGFJeEJ0S0tJNmdvTjZwOEZNbk00NFY3bHVZcmRGM0xfX3pTSkNMLVhUWlVDWnVxaUlEbUZwM1dqeFBJRXAyTmhQNm5xTHNvVm5LY0lyTVVPWGx3WHJrYTIyZnV4NGtCSkwzaHk4Z2VqbTM1YllRbGxreDhjVGEzTldDcHlDbDlKV2tCa1FBVnJFeXd0bXNpaEdJOEhHdmtabldHUVVmaGtuTGltLW96ZXJhTjdhWW83RGtBZV9JLVZJcVpQSFl4aC00UElRdTlac0toZTIyRENBWG52QmZrT3RoaEllRUZ6Y0RkWjZtVnhJaGFyQ2Nld3RaUUpNSDJVY1ZUUTJaaENsLTBlVmt0T2h5YmlpV3R4M1E4bFh4TjFMOHp5dV9rVTdsMnpULXVITlRDMnUzYmFsMmlybUFNR2xBX24wcXZra3V2T3l3Y1NCVGo1QXRMbVhTSlJjTjFXMkxpcW5tSHZKbVB2azBiUDdtYjdaNHRuZjJTUE42R2ZDZllMQ081SGo3Q2NTS2hHWjJDc0U0RGJ2c0dwV3pPcF9jQVU",
-          "time": "2026-06-17 12:00:39"
         }
       ],
       "news": [
@@ -1469,16 +1471,13 @@
         "title": "查到底！致癌沙拉油爆食安危機 劉建國喊話中央追源頭：不能只下架 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOWlVlS0h4dmhUa2tyamxxTVZrN3EzT0tSbkRwX01QVVpaNnh1YXlwSnVKSkhQdE0yNlNmaUoybF9SZHZhbG12b0xMem55RGNXSUV4QVF5YlJGeDFOWHBjeXc2dTZXbWRxN21vQmx6V1VrNkt6czFhOXhsdC1MUFhrX3c0QmoxbGJINlhrVTAxbElUTlhZLURuak43ZDFtcW5SbmlkSFREVTlOTzl2VHhDeW9nMThhSkZ5R0k1ZHdvSU5QeGpCQ0JBM0xTcC04cFV0NVlBelJ6RF84NlAtcFU3ZDJsWlppYjgzd2NqXzdxRUtzU2FFUXlPdWE0czI3ZEhFN3RMbmpqR2pfejY0dnYyLTRFc0ZZSkVLSlI4QTRsRXM0NV95VXVwNmxtWEs3S3hCYTEycmkwNmswUk1VTlpYdG5KelRDSmw1U2RtN2VFVjNod0RsMlZuUFJRVldrS3c3NVBxQ2ZHSzFySDQ0bm04NEJyRUVwZmVrem9FR1RxTVhJMzI2UTJfSE5mTFJ3SjI0QUk2dkhPS1FMeG5zLXlCLVlaeU50VDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-04 21:33:59"
-      },
+      }
+    ],
+    "facebook": [
       {
-        "title": "民進黨雲林縣黨部主委交接 劉建國喊話「年底選舉缺一不可」 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oMGtCcFVwMVY4U01XWktya2NYUjhPZE9KdmxQMklrVHZqV0NGdVBpSVhOZnpVbEVSbVNkdkRhLTE1NDRaM01mRnVVSVZZZkNCWHgyR0FpUndFS3pBN25MbVNBbm1Dek16MmfSAW9BVV95cUxQSWV4OUVrcG1hLVQwVzlkeFJQTGZKRnNVRlZtWHVmQVR1ckRaZU1uV0YwQWhKcER4MTkwSEdVMzNGQ3FGNHdkWG5LYWx6UW9MLWJVSnB0QVZRVkJPTjdEVUNOMUpmVTZDVXZmSlNzVk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 20:55:21"
-      },
-      {
-        "title": "民進黨雲林縣黨部主委交接 劉建國喊話「年底選舉缺一不可」 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNMDBXYTVqMzc4TXcwZ0xzOTdVZDVYakdlV0g2MWFwV2VMUzE4dTh4SEJGWW5TZlA1bE1uWjRRM0pZdHBsQXludzdoWkljZk9iRExISWlFRjdsc2NiUGc4Vmo5SEJuS0ZVdzhKTUZKaEF6azRaOVZycjUwb2RSUExBQTBqZ0hMQlR5YzBWN0s2aHFwRUR2T0ZvM01mUlRXd3NicTFrck1LVGpwZDdlV0l4SGtyOF9fdjNVN2hvbXBvby1kaFhYb2hXR29pT2djZ3U1S1FSbkhmakRsdklzNi1QcW4tclgxOGplOXM0ek5Cd3B0aG1fclRtMUM1VTdyd3VUM3JaNWRPMElBd1ZDMkpxRmRzZTNuVllOYV9lRkN5czRLNWF5RXU2cHZ3SlBkUWVQTVlJanotLWNxMERfRTBSWHpLbjZwTGY5MU1TV0lNNmtiaC0tNm5TbE5LbDFDdWpTendjR3NUeFJrX0NpZ0d1ZEwyaDFIZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 20:55:21"
+        "title": "查到底！致癌沙拉油爆食安危機 劉建國喊話中央追源頭：不能只下架 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNVEVOWEZmOWV0dWJMWmZEb3hiR0lpdjlvbW5CVjRSbVMxa1hLX0NLSVJHUXpDaE5pMGxoQ3FiUHVzMkNBbEZyeWlnUHczYXhuaHEwRlpjV0NCaktnNkRvRWIzeDJnRV9oZHJ6akEzekoxWUp4ZUVZdE5LRjI3cTI4bzVTTTNueUFQcXRGZWdsOUlQMWFKdVNpVDM3M3ZZZElKSUg0bFBwVWlNUUN1R2FXc3dCNTlWZzR0Y1FkWlFfYWpVci1NZFhUME00V2Z0eUUyNVM4UEpmbHJuZ2RlSmVxU2x4OXRaeS14RjEzQ3ZQZzFjbG4ycU5aRktMNi1qX1dnVnJKLUVZRTlxR3ZMRzdleW4yZ1N3bzlxZjg5anpNUFVuZVRvQm5CdDl6Uks1cHVLUU1qSWI3bGpRQ1hGMjdoLW5yUDZnWHZGWDA2bmwxb2czbXZnLXc4RF9tMDU0d3F6WG5XcjBpVktoVnl3czkwQ0E0U09WbHRzRnhvTnREUEIwa3BuZlZaTV84blFjNjVha1dSWUlVcUd2VjhXUnNwaUQ1UWpBQU5NNlR2SExBbmFMUVRzSmRKQUdNRQ",
+        "time": "2026-07-04 21:42:10"
       }
     ]
   },
@@ -1686,6 +1685,11 @@
       }
     ],
     "facebook": [
+      {
+        "title": "查到底！致癌沙拉油爆食安危機 劉建國喊話中央追源頭：不能只下架 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNVEVOWEZmOWV0dWJMWmZEb3hiR0lpdjlvbW5CVjRSbVMxa1hLX0NLSVJHUXpDaE5pMGxoQ3FiUHVzMkNBbEZyeWlnUHczYXhuaHEwRlpjV0NCaktnNkRvRWIzeDJnRV9oZHJ6akEzekoxWUp4ZUVZdE5LRjI3cTI4bzVTTTNueUFQcXRGZWdsOUlQMWFKdVNpVDM3M3ZZZElKSUg0bFBwVWlNUUN1R2FXc3dCNTlWZzR0Y1FkWlFfYWpVci1NZFhUME00V2Z0eUUyNVM4UEpmbHJuZ2RlSmVxU2x4OXRaeS14RjEzQ3ZQZzFjbG4ycU5aRktMNi1qX1dnVnJKLUVZRTlxR3ZMRzdleW4yZ1N3bzlxZjg5anpNUFVuZVRvQm5CdDl6Uks1cHVLUU1qSWI3bGpRQ1hGMjdoLW5yUDZnWHZGWDA2bmwxb2czbXZnLXc4RF9tMDU0d3F6WG5XcjBpVktoVnl3czkwQ0E0U09WbHRzRnhvTnREUEIwa3BuZlZaTV84blFjNjVha1dSWUlVcUd2VjhXUnNwaUQ1UWpBQU5NNlR2SExBbmFMUVRzSmRKQUdNRQ",
+        "time": "2026-07-04 21:42:10"
+      },
       {
         "title": "張嘉郡 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBZU4xYTJaRklVMEJpS0VJekFOMnpkRm40Slprc2tsUUVGeDlOVk5zMkt6dFQ3MkR5ZktwX3o0cWdSZ2c1RTRNZ3Rmc3RkODdpT3R3eTZzZTVCWmpIb2NzOGpUYWQ0ck1ZQUZ0bmRiYw",
@@ -1967,6 +1971,13 @@
         "risk": "綠"
       },
       {
+        "title": "查到底！致癌沙拉油爆食安危機 劉建國喊話中央追源頭：不能只下架 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNVEVOWEZmOWV0dWJMWmZEb3hiR0lpdjlvbW5CVjRSbVMxa1hLX0NLSVJHUXpDaE5pMGxoQ3FiUHVzMkNBbEZyeWlnUHczYXhuaHEwRlpjV0NCaktnNkRvRWIzeDJnRV9oZHJ6akEzekoxWUp4ZUVZdE5LRjI3cTI4bzVTTTNueUFQcXRGZWdsOUlQMWFKdVNpVDM3M3ZZZElKSUg0bFBwVWlNUUN1R2FXc3dCNTlWZzR0Y1FkWlFfYWpVci1NZFhUME00V2Z0eUUyNVM4UEpmbHJuZ2RlSmVxU2x4OXRaeS14RjEzQ3ZQZzFjbG4ycU5aRktMNi1qX1dnVnJKLUVZRTlxR3ZMRzdleW4yZ1N3bzlxZjg5anpNUFVuZVRvQm5CdDl6Uks1cHVLUU1qSWI3bGpRQ1hGMjdoLW5yUDZnWHZGWDA2bmwxb2czbXZnLXc4RF9tMDU0d3F6WG5XcjBpVktoVnl3czkwQ0E0U09WbHRzRnhvTnREUEIwa3BuZlZaTV84blFjNjVha1dSWUlVcUd2VjhXUnNwaUQ1UWpBQU5NNlR2SExBbmFMUVRzSmRKQUdNRQ",
+        "time": "2026-07-04 21:42:10",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
         "title": "查到底！致癌沙拉油爆食安危機 劉建國喊話中央追源頭：不能只下架 | 民視新聞網 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rdktRS0hPS1JaVmdub3FBSWZ2RmtHS0paX2ZVX1NhcEFCUWhET0JUbktDQ25lRU1XalFTZl9hUC1CQjRTWnRKOFptN2FkMU10VjRtOTN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-04 21:41:31",
@@ -1979,13 +1990,6 @@
         "time": "2026-07-04 21:33:59",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "查到底！致癌沙拉油爆食安危機 劉建國喊話中央追源頭：不能只下架 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOWlVlS0h4dmhUa2tyamxxTVZrN3EzT0tSbkRwX01QVVpaNnh1YXlwSnVKSkhQdE0yNlNmaUoybF9SZHZhbG12b0xMem55RGNXSUV4QVF5YlJGeDFOWHBjeXc2dTZXbWRxN21vQmx6V1VrNkt6czFhOXhsdC1MUFhrX3c0QmoxbGJINlhrVTAxbElUTlhZLURuak43ZDFtcW5SbmlkSFREVTlOTzl2VHhDeW9nMThhSkZ5R0k1ZHdvSU5QeGpCQ0JBM0xTcC04cFV0NVlBelJ6RF84NlAtcFU3ZDJsWlppYjgzd2NqXzdxRUtzU2FFUXlPdWE0czI3ZEhFN3RMbmpqR2pfejY0dnYyLTRFc0ZZSkVLSlI4QTRsRXM0NV95VXVwNmxtWEs3S3hCYTEycmkwNmswUk1VTlpYdG5KelRDSmw1U2RtN2VFVjNod0RsMlZuUFJRVldrS3c3NVBxQ2ZHSzFySDQ0bm04NEJyRUVwZmVrem9FR1RxTVhJMzI2UTJfSE5mTFJ3SjI0QUk2dkhPS1FMeG5zLXlCLVlaeU50VDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 21:33:59",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -1993,7 +1997,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 13
+        "count": 11
       },
       {
         "name": "虎尾",
