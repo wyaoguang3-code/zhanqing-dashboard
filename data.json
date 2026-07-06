@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-07-06T09:10:24.572698+00:00",
+  "generated_at": "2026-07-06T09:25:51.998020+00:00",
   "metrics": {
-    "total_24h": 6,
-    "prev_24h": 34,
-    "growth_pct": -82.35,
-    "news_24h": 3,
+    "total_24h": 7,
+    "prev_24h": 35,
+    "growth_pct": -80.0,
+    "news_24h": 4,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 124,
+    "total": 126,
     "prev": 155,
-    "growth_pct": -20.0,
-    "news": 96,
+    "growth_pct": -18.71,
+    "news": 98,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -27,18 +27,18 @@
   },
   "by_platform": [
     {
-      "platform": "facebook",
-      "count": 3
+      "platform": "news",
+      "count": 4
     },
     {
-      "platform": "news",
+      "platform": "facebook",
       "count": 3
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 96
+      "count": 98
     },
     {
       "platform": "facebook",
@@ -52,7 +52,7 @@
   "by_hour": [
     {
       "hour": "2026-07-05 17:00",
-      "count": 3
+      "count": 2
     },
     {
       "hour": "2026-07-05 22:00",
@@ -61,6 +61,14 @@
     {
       "hour": "2026-07-06 09:00",
       "count": 2
+    },
+    {
+      "hour": "2026-07-06 15:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-07-06 17:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -291,16 +299,34 @@
     {
       "hour": "2026-07-06 09:00",
       "count": 2
+    },
+    {
+      "hour": "2026-07-06 15:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-07-06 17:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 3
+      "count": 4
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "打造多元休閒運動場域 丁學忠張嘉郡邀運動部長視察雲林 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mdVJWY1NSYzRHVTI3TUVHX1NaMWZHVFNsSjlZYWx0M25xZzJwQnd0THVTcS02dEhCZzhtYzJlaDdxRm5hd3o2NQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-06 17:03:49"
+      },
+      {
+        "title": "雲林麥寮爭設遮蔭籃球場 丁學忠、張嘉郡邀李洋會勘推動運動升級 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52R0FxYk9haTJISGR3d05lMFZaMjlTR3pQVXFaempDTEF5clZSX24tS1lQdXJyMVNJNEo0bDg5NjRUSzBLWndvd0FFOTB5ZEdnc0RaSVdmTkxRMGhFS2VMZm5kYzQ0WTB0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-06 15:46:22"
+      },
       {
         "title": "溫馨巴士捐贈雲林虎尾身障協會 立委劉建國穿針引線媒合善心資源 助身障朋友安心走入社區〜 - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mNGhiTWJ1THF5LTd6SHV2cjByWl9jeEdUTU53NWhSSUFUSUJhNXNBaDRtVW9wY0x6cnFQYjdKb3lGbmNQTklTQWFqVWFseFhMbTJKZkljUVBQWDFrNUN4ODdic3lHQWtJekM0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -310,18 +336,13 @@
         "title": "立委劉建國媒合善心資源捐贈溫馨巴士 助虎尾身障協會提升接送服務 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56RmhBQXlBOVpQRjF3UWpJZ0dnalg4X2ZZVGZoeTBoYUpMQ200cF9wN0hqZ0VGLVczLUF1QVA2LTgxUWItaWptZVNJMS1DNHU1aEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-05 17:55:00"
-      },
-      {
-        "title": "劉建國卸下雲林縣黨部主委 新團隊備戰年底選戰 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQZzNNc2FLazJ5ZHAzMnNHSFNmMVVtWTZUMWZoTzNHMC1McDVmamNPTDVibUo4ZjAtOG13ZjBudGRCM1pZZ0JaSTdOWkppLXdiejRTOVlkME5CbGxMcVZibGVJS2QwU0plVVNFbmU4MmpuYkQ2R2VMTmFaRmNTQ1pBSmVpQ09SWFBtRmVVd01yQ0t5bEZ0LVZsd0tpaldvU2tGZnlhbFRmTVFibi1lNkNEMmswZjZTM2tPTnJDNnhDV3NHVE9yZVRFeHJXTXJlN210Z2RtYldQOUpvV2RRSzhKdWFNODRIdnpmRDFPa0F1MTlOQUNoX3lfaGtwdWdieExUQk1CSUhrTE5VclgtUmJXTG1mQWJzWktnRjQ3d3QtemdPeEJaLTZxb2NQMk9OYWMtc0pRNzdXRm1OOElscWNnRmI4SkdtdWY1UFF3YjNwWjU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-05 17:15:18"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 3
+      "count": 4
     },
     {
       "platform": "facebook",
@@ -329,14 +350,17 @@
     }
   ],
   "alias_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "嘉郡來到 #新虎尾壘球場 參加 #虎郡盃慢速壘球錦標賽 活動已經連續辦了14年！ 真的很不簡單～感動🥹 現場滿滿都是熱愛慢壘的朋友 大家一見面就像老戰友一樣 笑聲、加油聲、揮棒聲 整個超有活力✨️ 最讓我開心的是～ 我竟然得到了專屬的 粉紅色球衣＋粉紅球帽 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMihAhBVV95cUxPZURFdWNfeGkwM1BmbFVUWjF6SUgxaDYxb1hucXZLRUduYWYwbmFBTUJtZHJTeHhRUUVZT0s5Y1FRbUVpMl9zdEV2LWVqQ2UySUdjYjB1bF81V2hKdVhhOFoyYThsdGUxYVJqX0c4QS1UZzBNRE93VUhFRFBWOHpjNlhGZDFsZGtpZW1wMWNCOTJtYzQ4WWdPTnc3aUw0aVVTckZETXNObnFzWmtrTU1hNjBDUmxZTFE1U1ZCTlFNQ2syVGQyZ1JKYlNfZmFyQ192WlB2SXFPdEpSZ2c1X1U0eU1HcVotSVhpcWlLTVAzQXk4dllzYzRxTEJROFdoWXl1UHBtUm1KZWJyaDY4ZUh1RC0wTDMtS0g0ejBJcnZCSFBUbm96ektqSHVtNGVJVVFtcHNiRnQ5NlY2Xy1CYTY3Z2JpNUNPeHpuZGR3VzZJblNCbE5mOWJkT3NOYUx4aDFoWW9mYWVVUHR3aGFhdHM1THVQRWYtZ0NkZ0w5TE9aTVFDclNhbGp1dUJ1SWNpT1dkeHRoMEI4VVlqUnRBQTRpQkg5V3dQZmJ1dmlQRXJ3eHdVVl9PMnRVNVc4bjdzekhxT0txLXZYTkU4ODhRWVdLX2hqM0RYQ3dlVWlEZkNjdDRhQ3FrSkQ2LW5La1NTX2hpUlFXcHFOMmhNQzlqOVlXbkZRN2t1OVd5bkhITzM3ZHpxZUFvQ09famgxRHBoZ1lqeDFJLWpWTktQUDNzMGFRczR4ZWJYZ0FZZ2c4R0NqSnVlb001WW5jVERYOWJ2bGJBV3FIY2lCOUtwWEExZjU5OFpnaXZxRkQ4NExGdXl5eXJhSEljMmcwT1pMYW9mZktYT2o2NjNuS2FodVRsYlVXUDUyMlNZbDl4aExqMWlMRHBmVmJBUGVDYlpDdGdfWU4tMnFwVzJSX3VUOU90MjQxQWw2V0JMN0tMbC1SSlo0ZWtDVFdHT0RRaXVMV04xcGpPeE1YQnFCemFJa3ZMaUVYeWhDckhkNXdhOVlIeEx1MFhRMzQ3WXNLR0s5NjdMSE02cHZJYmJQVlQ5UXZqbmg4OTEwano5YktIVkwzRzNiUFZVc19DWW9DV2EtV2RGQ3RoVTlaNm5pUzlZLWZGUE0zbTVBR0lXbDhqekNyTHEyTnhDMXJReFhzbWViVWx3MUs1SkljdTdTUXBRWXhXWHYxdXRRRF9nQWYzOHotVzViODNKdWpUNzlKWkNtTUt6NzQzcVc3LVZYdTlUQTM4LTE5WjhZYnhMOVRvLUVLcUc5SGROQ0NoczVLV0MzNy1lanlSM1pBWWVXUTJseVdHOExoUU9vN0ZKaFBXelFmSU1SNlpUX3c2RnM1V2ZOM1RHYVF6ODQ1Vw",
-        "time": "2026-07-06 09:16:58"
-      }
-    ],
     "news": [
+      {
+        "title": "打造多元休閒運動場域 丁學忠張嘉郡邀運動部長視察雲林 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mdVJWY1NSYzRHVTI3TUVHX1NaMWZHVFNsSjlZYWx0M25xZzJwQnd0THVTcS02dEhCZzhtYzJlaDdxRm5hd3o2NQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-06 17:03:49"
+      },
+      {
+        "title": "雲林麥寮爭設遮蔭籃球場 丁學忠、張嘉郡邀李洋會勘推動運動升級 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52R0FxYk9haTJISGR3d05lMFZaMjlTR3pQVXFaempDTEF5clZSX24tS1lQdXJyMVNJNEo0bDg5NjRUSzBLWndvd0FFOTB5ZEdnc0RaSVdmTkxRMGhFS2VMZm5kYzQ0WTB0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-06 15:46:22"
+      },
       {
         "title": "溫馨巴士捐贈雲林虎尾身障協會 立委劉建國穿針引線媒合善心資源 助身障朋友安心走入社區〜 - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mNGhiTWJ1THF5LTd6SHV2cjByWl9jeEdUTU53NWhSSUFUSUJhNXNBaDRtVW9wY0x6cnFQYjdKb3lGbmNQTklTQWFqVWFseFhMbTJKZkljUVBQWDFrNUN4ODdic3lHQWtJekM0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -346,23 +370,35 @@
         "title": "立委劉建國媒合善心資源捐贈溫馨巴士 助虎尾身障協會提升接送服務 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56RmhBQXlBOVpQRjF3UWpJZ0dnalg4X2ZZVGZoeTBoYUpMQ200cF9wN0hqZ0VGLVczLUF1QVA2LTgxUWItaWptZVNJMS1DNHU1aEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-05 17:55:00"
-      },
+      }
+    ],
+    "facebook": [
       {
-        "title": "劉建國卸下雲林縣黨部主委 新團隊備戰年底選戰 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQZzNNc2FLazJ5ZHAzMnNHSFNmMVVtWTZUMWZoTzNHMC1McDVmamNPTDVibUo4ZjAtOG13ZjBudGRCM1pZZ0JaSTdOWkppLXdiejRTOVlkME5CbGxMcVZibGVJS2QwU0plVVNFbmU4MmpuYkQ2R2VMTmFaRmNTQ1pBSmVpQ09SWFBtRmVVd01yQ0t5bEZ0LVZsd0tpaldvU2tGZnlhbFRmTVFibi1lNkNEMmswZjZTM2tPTnJDNnhDV3NHVE9yZVRFeHJXTXJlN210Z2RtYldQOUpvV2RRSzhKdWFNODRIdnpmRDFPa0F1MTlOQUNoX3lfaGtwdWdieExUQk1CSUhrTE5VclgtUmJXTG1mQWJzWktnRjQ3d3QtemdPeEJaLTZxb2NQMk9OYWMtc0pRNzdXRm1OOElscWNnRmI4SkdtdWY1UFF3YjNwWjU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-05 17:15:18"
+        "title": "嘉郡來到 #新虎尾壘球場 參加 #虎郡盃慢速壘球錦標賽 活動已經連續辦了14年！ 真的很不簡單～感動🥹 現場滿滿都是熱愛慢壘的朋友 大家一見面就像老戰友一樣 笑聲、加油聲、揮棒聲 整個超有活力✨️ 最讓我開心的是～ 我竟然得到了專屬的 粉紅色球衣＋粉紅球帽 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMihAhBVV95cUxPZURFdWNfeGkwM1BmbFVUWjF6SUgxaDYxb1hucXZLRUduYWYwbmFBTUJtZHJTeHhRUUVZT0s5Y1FRbUVpMl9zdEV2LWVqQ2UySUdjYjB1bF81V2hKdVhhOFoyYThsdGUxYVJqX0c4QS1UZzBNRE93VUhFRFBWOHpjNlhGZDFsZGtpZW1wMWNCOTJtYzQ4WWdPTnc3aUw0aVVTckZETXNObnFzWmtrTU1hNjBDUmxZTFE1U1ZCTlFNQ2syVGQyZ1JKYlNfZmFyQ192WlB2SXFPdEpSZ2c1X1U0eU1HcVotSVhpcWlLTVAzQXk4dllzYzRxTEJROFdoWXl1UHBtUm1KZWJyaDY4ZUh1RC0wTDMtS0g0ejBJcnZCSFBUbm96ektqSHVtNGVJVVFtcHNiRnQ5NlY2Xy1CYTY3Z2JpNUNPeHpuZGR3VzZJblNCbE5mOWJkT3NOYUx4aDFoWW9mYWVVUHR3aGFhdHM1THVQRWYtZ0NkZ0w5TE9aTVFDclNhbGp1dUJ1SWNpT1dkeHRoMEI4VVlqUnRBQTRpQkg5V3dQZmJ1dmlQRXJ3eHdVVl9PMnRVNVc4bjdzekhxT0txLXZYTkU4ODhRWVdLX2hqM0RYQ3dlVWlEZkNjdDRhQ3FrSkQ2LW5La1NTX2hpUlFXcHFOMmhNQzlqOVlXbkZRN2t1OVd5bkhITzM3ZHpxZUFvQ09famgxRHBoZ1lqeDFJLWpWTktQUDNzMGFRczR4ZWJYZ0FZZ2c4R0NqSnVlb001WW5jVERYOWJ2bGJBV3FIY2lCOUtwWEExZjU5OFpnaXZxRkQ4NExGdXl5eXJhSEljMmcwT1pMYW9mZktYT2o2NjNuS2FodVRsYlVXUDUyMlNZbDl4aExqMWlMRHBmVmJBUGVDYlpDdGdfWU4tMnFwVzJSX3VUOU90MjQxQWw2V0JMN0tMbC1SSlo0ZWtDVFdHT0RRaXVMV04xcGpPeE1YQnFCemFJa3ZMaUVYeWhDckhkNXdhOVlIeEx1MFhRMzQ3WXNLR0s5NjdMSE02cHZJYmJQVlQ5UXZqbmg4OTEwano5YktIVkwzRzNiUFZVc19DWW9DV2EtV2RGQ3RoVTlaNm5pUzlZLWZGUE0zbTVBR0lXbDhqekNyTHEyTnhDMXJReFhzbWViVWx3MUs1SkljdTdTUXBRWXhXWHYxdXRRRF9nQWYzOHotVzViODNKdWpUNzlKWkNtTUt6NzQzcVc3LVZYdTlUQTM4LTE5WjhZYnhMOVRvLUVLcUc5SGROQ0NoczVLV0MzNy1lanlSM1pBWWVXUTJseVdHOExoUU9vN0ZKaFBXelFmSU1SNlpUX3c2RnM1V2ZOM1RHYVF6ODQ1Vw",
+        "time": "2026-07-06 09:16:58"
       }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 0,
-    "劉建國": 3
+    "張嘉郡": 2,
+    "劉建國": 2
   },
   "mention_compare_7d": {
-    "張嘉郡": 64,
+    "張嘉郡": 66,
     "劉建國": 49
   },
   "top_news": [
+    {
+      "title": "打造多元休閒運動場域 丁學忠張嘉郡邀運動部長視察雲林 - 台灣民眾電子報",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mdVJWY1NSYzRHVTI3TUVHX1NaMWZHVFNsSjlZYWx0M25xZzJwQnd0THVTcS02dEhCZzhtYzJlaDdxRm5hd3o2NQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-06 17:03:49"
+    },
+    {
+      "title": "雲林麥寮爭設遮蔭籃球場 丁學忠、張嘉郡邀李洋會勘推動運動升級 - 元丰傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52R0FxYk9haTJISGR3d05lMFZaMjlTR3pQVXFaempDTEF5clZSX24tS1lQdXJyMVNJNEo0bDg5NjRUSzBLWndvd0FFOTB5ZEdnc0RaSVdmTkxRMGhFS2VMZm5kYzQ0WTB0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-06 15:46:22"
+    },
     {
       "title": "溫馨巴士捐贈雲林虎尾身障協會 立委劉建國穿針引線媒合善心資源 助身障朋友安心走入社區〜 - 台灣華報",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mNGhiTWJ1THF5LTd6SHV2cjByWl9jeEdUTU53NWhSSUFUSUJhNXNBaDRtVW9wY0x6cnFQYjdKb3lGbmNQTklTQWFqVWFseFhMbTJKZkljUVBQWDFrNUN4ODdic3lHQWtJekM0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -372,14 +408,19 @@
       "title": "立委劉建國媒合善心資源捐贈溫馨巴士 助虎尾身障協會提升接送服務 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56RmhBQXlBOVpQRjF3UWpJZ0dnalg4X2ZZVGZoeTBoYUpMQ200cF9wN0hqZ0VGLVczLUF1QVA2LTgxUWItaWptZVNJMS1DNHU1aEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-05 17:55:00"
-    },
-    {
-      "title": "劉建國卸下雲林縣黨部主委 新團隊備戰年底選戰 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQZzNNc2FLazJ5ZHAzMnNHSFNmMVVtWTZUMWZoTzNHMC1McDVmamNPTDVibUo4ZjAtOG13ZjBudGRCM1pZZ0JaSTdOWkppLXdiejRTOVlkME5CbGxMcVZibGVJS2QwU0plVVNFbmU4MmpuYkQ2R2VMTmFaRmNTQ1pBSmVpQ09SWFBtRmVVd01yQ0t5bEZ0LVZsd0tpaldvU2tGZnlhbFRmTVFibi1lNkNEMmswZjZTM2tPTnJDNnhDV3NHVE9yZVRFeHJXTXJlN210Z2RtYldQOUpvV2RRSzhKdWFNODRIdnpmRDFPa0F1MTlOQUNoX3lfaGtwdWdieExUQk1CSUhrTE5VclgtUmJXTG1mQWJzWktnRjQ3d3QtemdPeEJaLTZxb2NQMk9OYWMtc0pRNzdXRm1OOElscWNnRmI4SkdtdWY1UFF3YjNwWjU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-05 17:15:18"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "打造多元休閒運動場域 丁學忠張嘉郡邀運動部長視察雲林 - 台灣民眾電子報",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mdVJWY1NSYzRHVTI3TUVHX1NaMWZHVFNsSjlZYWx0M25xZzJwQnd0THVTcS02dEhCZzhtYzJlaDdxRm5hd3o2NQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-06 17:03:49"
+    },
+    {
+      "title": "雲林麥寮爭設遮蔭籃球場 丁學忠、張嘉郡邀李洋會勘推動運動升級 - 元丰傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52R0FxYk9haTJISGR3d05lMFZaMjlTR3pQVXFaempDTEF5clZSX24tS1lQdXJyMVNJNEo0bDg5NjRUSzBLWndvd0FFOTB5ZEdnc0RaSVdmTkxRMGhFS2VMZm5kYzQ0WTB0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-06 15:46:22"
+    },
     {
       "title": "溫馨巴士捐贈雲林虎尾身障協會 立委劉建國穿針引線媒合善心資源 助身障朋友安心走入社區〜 - 台灣華報",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mNGhiTWJ1THF5LTd6SHV2cjByWl9jeEdUTU53NWhSSUFUSUJhNXNBaDRtVW9wY0x6cnFQYjdKb3lGbmNQTklTQWFqVWFseFhMbTJKZkljUVBQWDFrNUN4ODdic3lHQWtJekM0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -469,16 +510,6 @@
       "title": "沙拉油驗出致癌物超標劉建國提四大解方防堵問題油品流市面- 政府消息新聞- PChome Online 新聞 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRWx0Q09wcTEwSXpXdy1TOF9lUm5QQTNTU1BuOE43cklwRzFRNzlGdzBvcWhueEhBWDhQYmlHWVNWNmJxVlU1cHUxZy1zSndNZVNoTVhEVTlOaTNINVlxNlBUZVl3cGV5WkRqMnViYkE5MXFOY3h3dWhTNGxwQy1hei02dzhEbWg3R0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-05 09:25:50"
-    },
-    {
-      "title": "官員站台大罷免無法可管？黃國昌怒轟蘇治芬「一年領300萬」卻在搞大罷免： 因為她是英系大佬 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMivgVBVV95cUxOOGpJZEpGaVlyaG95eVhNNEVTVkdLNU4tbHFkZ092dUxFaXlCcE16dFlGTDlKZExkTXJEdHhPMHFqSGRsMExjX2E3XzY0TVhGdklvWmpXVFJYdktzUTVFMFVnS29rdkhqbmVsY2cwMWhPM1pTVWdqQ1dCSC1IVEZOcDM5VXQ5am1obnhBRno4Z2VINUFiTVBKcGEwQ2dUY0x0RFlhdldKR1I0YVZ1cmxMa3lxUVFaNVJNd0V3WElxSzJlZ2Z6SjlWSDRsYzlFNVlPVzZWbjhYblphaGF2ZVFIb09VQUI3Y2VVeDh2Qk9ES0dpV09fSWFuaHM2bGhvd05OUDZHcmdQNnhVbk5tZVBOVFV6S3RkLW9pWnJWdG15ZHpldlh1bklzdUhyX2V4ZHNLeVJfQ1RLZmdEb05DRmZkY21lX2wweFFuNmdGR0w0alBseVRLdHJlSG9BeW1KelhNUEc1REhkemdVREY2NnJYQ2pIT0phMlFBM3hUc0ZoWndJTnA2a2JyRzBhTi13X3d4RzBSbVNzb0doR1I0Y3RiU09jdjU4emh2aVZIQ1hhUGRzeXkzXzB3amY4NGJMSUJpYnVheHFvaHBES0t0OG1NYm50Z09FSG1aMUxBdEJzQWdhdllGYlJIaG1vQTBFSW5qQWszZm5ubU11eGNRaTZmTDRuZFZMcGFiMkpzY3FwUl9SRWxONzRXV0lGMXpZZHAxM0pzbElvSXNGU25SbzFJMFBHZTlael9lRVVoenlydFIwNFhVQWhNUGhEaTBfR1RTa3lPVkxXeG5oUi1Xb3ZybEswbFRTal9vR0Y2dUk2S2JRMll5WXZib2g2U3F5U3FqZUxXXzUtbllpd1JVenVGZzMtMDFpMlZkOUNOSlpwbC1QdUU0VEVxZUt3NU0zbmRwZU55TUlTdlRfWTZPQUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-05 02:15:05"
-    },
-    {
-      "title": "官員站台大罷免無法可管？黃國昌怒轟蘇治芬「一年領300萬」卻在搞大罷免： 因為她是英系大佬 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMivAVBVV95cUxORElpVVRtQ29zMW1iTExaOWFNWnRrRHhmSGY4RTZyb0ZRdlV4NC1MWUd6YXMxTl9SclBpRWNSVXRjcmNoM3FLMHk4WmM4RjJRQWdmSUZYdGZidmpSRnM5bXc1WWZkS3VOdWt3Qmd2Uk1meHJmV0laT2k1a2txcVNKa05fRV9ZSTU1RUlQaTVIQ3o1X0hVUDJsVGpPWHhZcFc3SjI2bk5nTjBkTmZEZ2pXTVhKWk1Jdjg1cnpfTmY5XzllRGdwNVhYSnhucjJ0djM2a2FXNnpiMnAxOWdYaEgzMFlHczNsdGoyS0hHbFQtdl96bFN2M3E3bzdoWTdIN2IzVXFaY0ZvYjlFYlhLRDFaaURFam1QanNfcFQxM3ZZTGhNVV91aS1zMmx0OHBhSS1ZejZhVGdrUUFaSU1QNVVvLWIxN3NidF8taGx3RUhzdF8zX1hMRkU5aU9BOS1yQ3pyOXNfTjV3VUdTdXgzRHVTUkN3SGx4bnNJMC1wVEZzZ1llVmpVTFBwNl9lN2FMTDRuR19DcWFNWmVGTE8yeFMtWDJCRnM5cUdfQ3ZGdWN0REU1ZGcwbklmS3g5bW54QTdXLVBCeWRjcGQzSEdPTk5tbEswNXl1U1FuWFZPem5IcE1veUV1Z1hrV1RSUklYcGFNaUZheWhXSDl2UnJPLU9OU04xSkx1am9ZbGRMU0NObWt5UXFrYUhTNFRXZXdqZjhjdjRkdm9ibzFmWkNuSnNka1JuMXdxbkdTQUJaYzJpUW5RUURMclhWTHYzTTVrdXJyMEVqbk9OeU41VlhVM0pVS1V2a2JheF9LVUFObVpJVURnMzVOUVAzYlFISzVqNVdMSjVUa0pTOXJvcEUtOUFOaXpBV2thZEFKZERMYy10a08tekxaRVFGaTZ4c3VuMlJHeG5RcVB2eEpMLWxp?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-05 02:15:05"
     }
   ],
   "latest_facebook_20": [
@@ -585,6 +616,16 @@
   ],
   "latest_news_20": [
     {
+      "title": "打造多元休閒運動場域 丁學忠張嘉郡邀運動部長視察雲林 - 台灣民眾電子報",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mdVJWY1NSYzRHVTI3TUVHX1NaMWZHVFNsSjlZYWx0M25xZzJwQnd0THVTcS02dEhCZzhtYzJlaDdxRm5hd3o2NQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-06 17:03:49"
+    },
+    {
+      "title": "雲林麥寮爭設遮蔭籃球場 丁學忠、張嘉郡邀李洋會勘推動運動升級 - 元丰傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52R0FxYk9haTJISGR3d05lMFZaMjlTR3pQVXFaempDTEF5clZSX24tS1lQdXJyMVNJNEo0bDg5NjRUSzBLWndvd0FFOTB5ZEdnc0RaSVdmTkxRMGhFS2VMZm5kYzQ0WTB0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-06 15:46:22"
+    },
+    {
       "title": "溫馨巴士捐贈雲林虎尾身障協會 立委劉建國穿針引線媒合善心資源 助身障朋友安心走入社區〜 - 台灣華報",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mNGhiTWJ1THF5LTd6SHV2cjByWl9jeEdUTU53NWhSSUFUSUJhNXNBaDRtVW9wY0x6cnFQYjdKb3lGbmNQTklTQWFqVWFseFhMbTJKZkljUVBQWDFrNUN4ODdic3lHQWtJekM0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-05 22:20:56"
@@ -673,16 +714,6 @@
       "title": "沙拉油驗出致癌物超標劉建國提四大解方防堵問題油品流市面- 政府消息新聞- PChome Online 新聞 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRWx0Q09wcTEwSXpXdy1TOF9lUm5QQTNTU1BuOE43cklwRzFRNzlGdzBvcWhueEhBWDhQYmlHWVNWNmJxVlU1cHUxZy1zSndNZVNoTVhEVTlOaTNINVlxNlBUZVl3cGV5WkRqMnViYkE5MXFOY3h3dWhTNGxwQy1hei02dzhEbWg3R0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-05 09:25:50"
-    },
-    {
-      "title": "官員站台大罷免無法可管？黃國昌怒轟蘇治芬「一年領300萬」卻在搞大罷免： 因為她是英系大佬 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMivgVBVV95cUxOOGpJZEpGaVlyaG95eVhNNEVTVkdLNU4tbHFkZ092dUxFaXlCcE16dFlGTDlKZExkTXJEdHhPMHFqSGRsMExjX2E3XzY0TVhGdklvWmpXVFJYdktzUTVFMFVnS29rdkhqbmVsY2cwMWhPM1pTVWdqQ1dCSC1IVEZOcDM5VXQ5am1obnhBRno4Z2VINUFiTVBKcGEwQ2dUY0x0RFlhdldKR1I0YVZ1cmxMa3lxUVFaNVJNd0V3WElxSzJlZ2Z6SjlWSDRsYzlFNVlPVzZWbjhYblphaGF2ZVFIb09VQUI3Y2VVeDh2Qk9ES0dpV09fSWFuaHM2bGhvd05OUDZHcmdQNnhVbk5tZVBOVFV6S3RkLW9pWnJWdG15ZHpldlh1bklzdUhyX2V4ZHNLeVJfQ1RLZmdEb05DRmZkY21lX2wweFFuNmdGR0w0alBseVRLdHJlSG9BeW1KelhNUEc1REhkemdVREY2NnJYQ2pIT0phMlFBM3hUc0ZoWndJTnA2a2JyRzBhTi13X3d4RzBSbVNzb0doR1I0Y3RiU09jdjU4emh2aVZIQ1hhUGRzeXkzXzB3amY4NGJMSUJpYnVheHFvaHBES0t0OG1NYm50Z09FSG1aMUxBdEJzQWdhdllGYlJIaG1vQTBFSW5qQWszZm5ubU11eGNRaTZmTDRuZFZMcGFiMkpzY3FwUl9SRWxONzRXV0lGMXpZZHAxM0pzbElvSXNGU25SbzFJMFBHZTlael9lRVVoenlydFIwNFhVQWhNUGhEaTBfR1RTa3lPVkxXeG5oUi1Xb3ZybEswbFRTal9vR0Y2dUk2S2JRMll5WXZib2g2U3F5U3FqZUxXXzUtbllpd1JVenVGZzMtMDFpMlZkOUNOSlpwbC1QdUU0VEVxZUt3NU0zbmRwZU55TUlTdlRfWTZPQUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-05 02:15:05"
-    },
-    {
-      "title": "官員站台大罷免無法可管？黃國昌怒轟蘇治芬「一年領300萬」卻在搞大罷免： 因為她是英系大佬 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMivAVBVV95cUxORElpVVRtQ29zMW1iTExaOWFNWnRrRHhmSGY4RTZyb0ZRdlV4NC1MWUd6YXMxTl9SclBpRWNSVXRjcmNoM3FLMHk4WmM4RjJRQWdmSUZYdGZidmpSRnM5bXc1WWZkS3VOdWt3Qmd2Uk1meHJmV0laT2k1a2txcVNKa05fRV9ZSTU1RUlQaTVIQ3o1X0hVUDJsVGpPWHhZcFc3SjI2bk5nTjBkTmZEZ2pXTVhKWk1Jdjg1cnpfTmY5XzllRGdwNVhYSnhucjJ0djM2a2FXNnpiMnAxOWdYaEgzMFlHczNsdGoyS0hHbFQtdl96bFN2M3E3bzdoWTdIN2IzVXFaY0ZvYjlFYlhLRDFaaURFam1QanNfcFQxM3ZZTGhNVV91aS1zMmx0OHBhSS1ZejZhVGdrUUFaSU1QNVVvLWIxN3NidF8taGx3RUhzdF8zX1hMRkU5aU9BOS1yQ3pyOXNfTjV3VUdTdXgzRHVTUkN3SGx4bnNJMC1wVEZzZ1llVmpVTFBwNl9lN2FMTDRuR19DcWFNWmVGTE8yeFMtWDJCRnM5cUdfQ3ZGdWN0REU1ZGcwbklmS3g5bW54QTdXLVBCeWRjcGQzSEdPTk5tbEswNXl1U1FuWFZPem5IcE1veUV1Z1hrV1RSUklYcGFNaUZheWhXSDl2UnJPLU9OU04xSkx1am9ZbGRMU0NObWt5UXFrYUhTNFRXZXdqZjhjdjRkdm9ibzFmWkNuSnNka1JuMXdxbkdTQUJaYzJpUW5RUURMclhWTHYzTTVrdXJyMEVqbk9OeU41VlhVM0pVS1V2a2JheF9LVUFObVpJVURnMzVOUVAzYlFISzVqNVdMSjVUa0pTOXJvcEUtOUFOaXpBV2thZEFKZERMYy10a08tekxaRVFGaTZ4c3VuMlJHeG5RcVB2eEpMLWxp?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-05 02:15:05"
     }
   ],
   "person_sections": {
@@ -791,6 +822,16 @@
       ],
       "news": [
         {
+          "title": "打造多元休閒運動場域 丁學忠張嘉郡邀運動部長視察雲林 - 台灣民眾電子報",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mdVJWY1NSYzRHVTI3TUVHX1NaMWZHVFNsSjlZYWx0M25xZzJwQnd0THVTcS02dEhCZzhtYzJlaDdxRm5hd3o2NQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-06 17:03:49"
+        },
+        {
+          "title": "雲林麥寮爭設遮蔭籃球場 丁學忠、張嘉郡邀李洋會勘推動運動升級 - 元丰傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52R0FxYk9haTJISGR3d05lMFZaMjlTR3pQVXFaempDTEF5clZSX24tS1lQdXJyMVNJNEo0bDg5NjRUSzBLWndvd0FFOTB5ZEdnc0RaSVdmTkxRMGhFS2VMZm5kYzQ0WTB0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-06 15:46:22"
+        },
+        {
           "title": "食用油食安問題延燒雲林立委張嘉郡：食安沒有藍綠只有人民的健康痛批衛福部食藥署選擇蓋牌引發民眾恐慌！ - 台灣華報",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1NVFjREVJN2FDVEFWb2NzUDFGSXVyalVRZHlPa0hzWUNYaDg2QmZGUnhEU2k4SmhtM1ZnNlk3RllLaEgxNUZhdjUzR2lqM3FpM2hRcUhLd0dJLUhwQzVGVGNYV05nUXlhWGtz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-04 22:34:56"
@@ -879,16 +920,6 @@
           "title": "致癌油風暴燒！張嘉郡批食藥署蓋牌：公開透明才能重建人民對食安信任 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNazFJSXNqQy1NeFhRXzhBME5zeTQydUJfejBfcTQ5OVZCYWF6MmNwYWR6emtMZkhyYi1aaDFSMXhTSTNxM0pNeDBWZ05pdHlJYnFKNEh4a1pWTTNGNXBqSG5VSFNOMHU1ZmQxWDhhcnhpTFlRc0dOTkRJdElLQWFvUzVnbEJnaUNIYm11YUZvVFNrNnBoSEtrbV9QRWo3ZVlGMnh6VVNMOUFjcVVudC1GamVGbGxSQmJPek9lWTgwSy1vdDRMbzdoWVJxTXNFV1NGY21rR0tUMkUwbHoyOXU2VVJpZXhiWXJzTTB0RmtxdUpaSGYzejBpRFJoeTNHeDIzbFVTR3VNR3RNSGlXNGRkclB6WmIzaFNqY2ZWY3JhSmF6VU5SZWI0S3dZYWxjc1hMVWxyTElVUVg3SzNGejdjRmxhcE9RcFU4TEZXcGRPeHJtb2pXNDVDM2dwQWw1bldHWXpodkFrNXE1cVFuaUtpenlhR0JTTTBwWG9lZlhNSWxMcl8zaXRHOXhwLXQ0c1AxdWdPdWpvVkxpN0p3cVJoYVpZSVVWRDkzRXZlQlZKZ0RKZXQtdl9IZG1MeW9zdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-04 13:48:00"
-        },
-        {
-          "title": "食用油爭議延燒張嘉郡批食藥署「蓋牌」放任民眾恐慌| 政治焦點 - 太報 TaiSounds",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zeThQNEhEbHRHWGZPNGtrYlJ6aXd2aDNNLTBHWFBObHdpcHoyQzFoWTRTNmhUdFg3R2hKZXNNWkNiMTgyLUU2VGo4elVXQUpUZ0ljcm90R1ZXdFRK?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-04 13:40:20"
-        },
-        {
-          "title": "不當淹水受災戶！張嘉郡、丁學忠爭取45.98億治水預算 首批3.21億防洪工程開跑 | 陳逸群 | 新聞 - Storm.mg",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10Y2tRLWpJSWtTY3RQbkkxT3VMcVZDVTBPcG1LdkdpZlU4YW5UeVJuMlZzc1lsTzUtcTB2Qms1TGwwOTczTENmMkUxaHJxUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-04 12:45:15"
         }
       ]
     },
@@ -1100,6 +1131,28 @@
     }
   },
   "latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "打造多元休閒運動場域 丁學忠張嘉郡邀運動部長視察雲林 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mdVJWY1NSYzRHVTI3TUVHX1NaMWZHVFNsSjlZYWx0M25xZzJwQnd0THVTcS02dEhCZzhtYzJlaDdxRm5hd3o2NQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-06 17:03:49"
+      },
+      {
+        "title": "雲林麥寮爭設遮蔭籃球場 丁學忠、張嘉郡邀李洋會勘推動運動升級 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52R0FxYk9haTJISGR3d05lMFZaMjlTR3pQVXFaempDTEF5clZSX24tS1lQdXJyMVNJNEo0bDg5NjRUSzBLWndvd0FFOTB5ZEdnc0RaSVdmTkxRMGhFS2VMZm5kYzQ0WTB0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-06 15:46:22"
+      },
+      {
+        "title": "溫馨巴士捐贈雲林虎尾身障協會 立委劉建國穿針引線媒合善心資源 助身障朋友安心走入社區〜 - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mNGhiTWJ1THF5LTd6SHV2cjByWl9jeEdUTU53NWhSSUFUSUJhNXNBaDRtVW9wY0x6cnFQYjdKb3lGbmNQTklTQWFqVWFseFhMbTJKZkljUVBQWDFrNUN4ODdic3lHQWtJekM0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-05 22:20:56"
+      },
+      {
+        "title": "立委劉建國媒合善心資源捐贈溫馨巴士 助虎尾身障協會提升接送服務 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56RmhBQXlBOVpQRjF3UWpJZ0dnalg4X2ZZVGZoeTBoYUpMQ200cF9wN0hqZ0VGLVczLUF1QVA2LTgxUWItaWptZVNJMS1DNHU1aEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-05 17:55:00"
+      }
+    ],
     "facebook": [
       {
         "title": "嘉郡來到 #新虎尾壘球場 參加 #虎郡盃慢速壘球錦標賽 活動已經連續辦了14年！ 真的很不簡單～感動🥹 現場滿滿都是熱愛慢壘的朋友 大家一見面就像老戰友一樣 笑聲、加油聲、揮棒聲 整個超有活力✨️ 最讓我開心的是～ 我竟然得到了專屬的 粉紅色球衣＋粉紅球帽 - facebook.com",
@@ -1116,27 +1169,20 @@
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CLXpXN1M5dWZzNEl5clNOUUIxbHJvRHdtNXlyQldsTjJKVjBscnlDeGNReTJjdFdlYUVhVGxINlV0aGRXaEdkb0FGXzYxRDlIRVoyTnlXaktsdTIyOXExdFNNRm1NV0YxT0RwQ3pyWDVsV3hhbXFaZWRDdzRvdw",
         "time": "2026-07-05 17:44:50"
       }
-    ],
-    "news": [
-      {
-        "title": "溫馨巴士捐贈雲林虎尾身障協會 立委劉建國穿針引線媒合善心資源 助身障朋友安心走入社區〜 - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mNGhiTWJ1THF5LTd6SHV2cjByWl9jeEdUTU53NWhSSUFUSUJhNXNBaDRtVW9wY0x6cnFQYjdKb3lGbmNQTklTQWFqVWFseFhMbTJKZkljUVBQWDFrNUN4ODdic3lHQWtJekM0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-05 22:20:56"
-      },
-      {
-        "title": "立委劉建國媒合善心資源捐贈溫馨巴士 助虎尾身障協會提升接送服務 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56RmhBQXlBOVpQRjF3UWpJZ0dnalg4X2ZZVGZoeTBoYUpMQ200cF9wN0hqZ0VGLVczLUF1QVA2LTgxUWItaWptZVNJMS1DNHU1aEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-05 17:55:00"
-      },
-      {
-        "title": "劉建國卸下雲林縣黨部主委 新團隊備戰年底選戰 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQZzNNc2FLazJ5ZHAzMnNHSFNmMVVtWTZUMWZoTzNHMC1McDVmamNPTDVibUo4ZjAtOG13ZjBudGRCM1pZZ0JaSTdOWkppLXdiejRTOVlkME5CbGxMcVZibGVJS2QwU0plVVNFbmU4MmpuYkQ2R2VMTmFaRmNTQ1pBSmVpQ09SWFBtRmVVd01yQ0t5bEZ0LVZsd0tpaldvU2tGZnlhbFRmTVFibi1lNkNEMmswZjZTM2tPTnJDNnhDV3NHVE9yZVRFeHJXTXJlN210Z2RtYldQOUpvV2RRSzhKdWFNODRIdnpmRDFPa0F1MTlOQUNoX3lfaGtwdWdieExUQk1CSUhrTE5VclgtUmJXTG1mQWJzWktnRjQ3d3QtemdPeEJaLTZxb2NQMk9OYWMtc0pRNzdXRm1OOElscWNnRmI4SkdtdWY1UFF3YjNwWjU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-05 17:15:18"
-      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "打造多元休閒運動場域 丁學忠張嘉郡邀運動部長視察雲林 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mdVJWY1NSYzRHVTI3TUVHX1NaMWZHVFNsSjlZYWx0M25xZzJwQnd0THVTcS02dEhCZzhtYzJlaDdxRm5hd3o2NQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-06 17:03:49"
+      },
+      {
+        "title": "雲林麥寮爭設遮蔭籃球場 丁學忠、張嘉郡邀李洋會勘推動運動升級 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52R0FxYk9haTJISGR3d05lMFZaMjlTR3pQVXFaempDTEF5clZSX24tS1lQdXJyMVNJNEo0bDg5NjRUSzBLWndvd0FFOTB5ZEdnc0RaSVdmTkxRMGhFS2VMZm5kYzQ0WTB0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-06 15:46:22"
+      },
       {
         "title": "溫馨巴士捐贈雲林虎尾身障協會 立委劉建國穿針引線媒合善心資源 助身障朋友安心走入社區〜 - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mNGhiTWJ1THF5LTd6SHV2cjByWl9jeEdUTU53NWhSSUFUSUJhNXNBaDRtVW9wY0x6cnFQYjdKb3lGbmNQTklTQWFqVWFseFhMbTJKZkljUVBQWDFrNUN4ODdic3lHQWtJekM0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1326,16 +1372,6 @@
         "title": "雲林長者嗨玩匹克球！ 劉建國盼打造高齡運動示範縣市 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQalhoSmRzTF9kX2R3VVU4X19lRHBzb01ZOUN5bFlYN0ZzMzRUbFFKejNxUHpUdGVHVXJPZkZZWkc1VVA2bnpabUtkNlV4TzJpVkd1UkVna1RIRG9sTEY5SjgxNE5CWmw4cUhKLXcxWFJ2Rm9SYWRTaFZYVldOanhrYU56ZTZBZ0ozVWg5WGJhWURqdVhvNHVOY210X1ltQ21rS21LM25mU2tlSDh0RVl5Q1BuNHBHN2RkdUZ2Z0ZfT3Z1eHZIcW9GUDVHaldqRkwtWGw0SHF1U2hOMXYtTFdLRjdZM3NKVjdiSjdlcFk1cTJQZjNCRDhrcE5vOFZSTTI4OG9KcTlsdFZfS1pCME9tM1JiLWF1SVU1MV9fZ205R0Q0R2U5bkJjTzdWeGl1dHlkVTNuMEVOaTJrSFlRcWtITzB0UXFoVUxVcDBUMHZxM1FEQ3RkLWRyTFZHN3RTcnJCUUJfLUQzSjA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-04 16:00:00"
-      },
-      {
-        "title": "雲林長者嗨玩匹克球！ 劉建國盼打造高齡運動示範縣市 - 上報Up Media",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRa2xJRXlidWp2VndHbkY2d0pyVDk2NWFpckVfVURnejJ0eVBzMjI0N1A4eEtOcWdPSUg2TlRCNC1jV1NKUlUzN0pGWnJXWFFpMUY3Y19vak01d2tuNlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 16:00:00"
-      },
-      {
-        "title": "中央核定雲林治水預算 張嘉郡「主動防禦治水、強力監督品質」 - 上報Up Media",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UcGJ3M3VoMUxrNGVIQ0hsY19ldXlJRWc4Y1ZLUFBEVEVNZk85SFpJMVViWVVZbzJtcUF1RjZvOTUyRkdxbXMwUDlvejFueEo2WkVOc0FtWDkzdkdLYVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-04 15:00:00"
       }
     ],
     "facebook": [
@@ -1488,6 +1524,20 @@
     "hour": [],
     "day": [
       {
+        "title": "打造多元休閒運動場域 丁學忠張嘉郡邀運動部長視察雲林 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mdVJWY1NSYzRHVTI3TUVHX1NaMWZHVFNsSjlZYWx0M25xZzJwQnd0THVTcS02dEhCZzhtYzJlaDdxRm5hd3o2NQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-06 17:03:49",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "雲林麥寮爭設遮蔭籃球場 丁學忠、張嘉郡邀李洋會勘推動運動升級 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52R0FxYk9haTJISGR3d05lMFZaMjlTR3pQVXFaempDTEF5clZSX24tS1lQdXJyMVNJNEo0bDg5NjRUSzBLWndvd0FFOTB5ZEdnc0RaSVdmTkxRMGhFS2VMZm5kYzQ0WTB0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-06 15:46:22",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "嘉郡來到 #新虎尾壘球場 參加 #虎郡盃慢速壘球錦標賽 活動已經連續辦了14年！ 真的很不簡單～感動🥹 現場滿滿都是熱愛慢壘的朋友 大家一見面就像老戰友一樣 笑聲、加油聲、揮棒聲 整個超有活力✨️ 最讓我開心的是～ 我竟然得到了專屬的 粉紅色球衣＋粉紅球帽 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMihAhBVV95cUxPZURFdWNfeGkwM1BmbFVUWjF6SUgxaDYxb1hucXZLRUduYWYwbmFBTUJtZHJTeHhRUUVZT0s5Y1FRbUVpMl9zdEV2LWVqQ2UySUdjYjB1bF81V2hKdVhhOFoyYThsdGUxYVJqX0c4QS1UZzBNRE93VUhFRFBWOHpjNlhGZDFsZGtpZW1wMWNCOTJtYzQ4WWdPTnc3aUw0aVVTckZETXNObnFzWmtrTU1hNjBDUmxZTFE1U1ZCTlFNQ2syVGQyZ1JKYlNfZmFyQ192WlB2SXFPdEpSZ2c1X1U0eU1HcVotSVhpcWlLTVAzQXk4dllzYzRxTEJROFdoWXl1UHBtUm1KZWJyaDY4ZUh1RC0wTDMtS0g0ejBJcnZCSFBUbm96ektqSHVtNGVJVVFtcHNiRnQ5NlY2Xy1CYTY3Z2JpNUNPeHpuZGR3VzZJblNCbE5mOWJkT3NOYUx4aDFoWW9mYWVVUHR3aGFhdHM1THVQRWYtZ0NkZ0w5TE9aTVFDclNhbGp1dUJ1SWNpT1dkeHRoMEI4VVlqUnRBQTRpQkg5V3dQZmJ1dmlQRXJ3eHdVVl9PMnRVNVc4bjdzekhxT0txLXZYTkU4ODhRWVdLX2hqM0RYQ3dlVWlEZkNjdDRhQ3FrSkQ2LW5La1NTX2hpUlFXcHFOMmhNQzlqOVlXbkZRN2t1OVd5bkhITzM3ZHpxZUFvQ09famgxRHBoZ1lqeDFJLWpWTktQUDNzMGFRczR4ZWJYZ0FZZ2c4R0NqSnVlb001WW5jVERYOWJ2bGJBV3FIY2lCOUtwWEExZjU5OFpnaXZxRkQ4NExGdXl5eXJhSEljMmcwT1pMYW9mZktYT2o2NjNuS2FodVRsYlVXUDUyMlNZbDl4aExqMWlMRHBmVmJBUGVDYlpDdGdfWU4tMnFwVzJSX3VUOU90MjQxQWw2V0JMN0tMbC1SSlo0ZWtDVFdHT0RRaXVMV04xcGpPeE1YQnFCemFJa3ZMaUVYeWhDckhkNXdhOVlIeEx1MFhRMzQ3WXNLR0s5NjdMSE02cHZJYmJQVlQ5UXZqbmg4OTEwano5YktIVkwzRzNiUFZVc19DWW9DV2EtV2RGQ3RoVTlaNm5pUzlZLWZGUE0zbTVBR0lXbDhqekNyTHEyTnhDMXJReFhzbWViVWx3MUs1SkljdTdTUXBRWXhXWHYxdXRRRF9nQWYzOHotVzViODNKdWpUNzlKWkNtTUt6NzQzcVc3LVZYdTlUQTM4LTE5WjhZYnhMOVRvLUVLcUc5SGROQ0NoczVLV0MzNy1lanlSM1pBWWVXUTJseVdHOExoUU9vN0ZKaFBXelFmSU1SNlpUX3c2RnM1V2ZOM1RHYVF6ODQ1Vw",
         "time": "2026-07-06 09:16:58",
@@ -1521,13 +1571,6 @@
         "time": "2026-07-05 17:44:50",
         "platform": "facebook",
         "risk": "綠"
-      },
-      {
-        "title": "劉建國卸下雲林縣黨部主委 新團隊備戰年底選戰 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQZzNNc2FLazJ5ZHAzMnNHSFNmMVVtWTZUMWZoTzNHMC1McDVmamNPTDVibUo4ZjAtOG13ZjBudGRCM1pZZ0JaSTdOWkppLXdiejRTOVlkME5CbGxMcVZibGVJS2QwU0plVVNFbmU4MmpuYkQ2R2VMTmFaRmNTQ1pBSmVpQ09SWFBtRmVVd01yQ0t5bEZ0LVZsd0tpaldvU2tGZnlhbFRmTVFibi1lNkNEMmswZjZTM2tPTnJDNnhDV3NHVE9yZVRFeHJXTXJlN210Z2RtYldQOUpvV2RRSzhKdWFNODRIdnpmRDFPa0F1MTlOQUNoX3lfaGtwdWdieExUQk1CSUhrTE5VclgtUmJXTG1mQWJzWktnRjQ3d3QtemdPeEJaLTZxb2NQMk9OYWMtc0pRNzdXRm1OOElscWNnRmI4SkdtdWY1UFF3YjNwWjU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-05 17:15:18",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -1539,7 +1582,11 @@
       },
       {
         "name": "雲林",
-        "count": 2
+        "count": 3
+      },
+      {
+        "name": "麥寮",
+        "count": 1
       },
       {
         "name": "台中",
