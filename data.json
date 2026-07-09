@@ -1,10 +1,10 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-07-09T10:24:50.539489+00:00",
+  "generated_at": "2026-07-09T10:40:18.078816+00:00",
   "metrics": {
     "total_24h": 46,
-    "prev_24h": 32,
-    "growth_pct": 43.75,
+    "prev_24h": 35,
+    "growth_pct": 31.43,
     "news_24h": 43,
     "anomaly": {
       "level": "綠",
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 210,
-    "prev": 154,
-    "growth_pct": 36.36,
-    "news": 184,
+    "total": 213,
+    "prev": 152,
+    "growth_pct": 40.13,
+    "news": 187,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -38,7 +38,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 184
+      "count": 187
     },
     {
       "platform": "facebook",
@@ -52,7 +52,7 @@
   "by_hour": [
     {
       "hour": "2026-07-08 18:00",
-      "count": 5
+      "count": 2
     },
     {
       "hour": "2026-07-08 19:00",
@@ -100,11 +100,15 @@
     },
     {
       "hour": "2026-07-09 15:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-07-09 16:00",
-      "count": 2
+      "count": 3
+    },
+    {
+      "hour": "2026-07-09 18:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -418,17 +422,21 @@
     },
     {
       "hour": "2026-07-09 15:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-07-09 16:00",
-      "count": 2
+      "count": 3
+    },
+    {
+      "hour": "2026-07-09 18:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 34
+      "count": 33
     },
     {
       "platform": "facebook",
@@ -437,6 +445,11 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國催生斗六長照教學大樓 臺大醫院斗六長照教學大樓經費缺口獲中央承諾補足 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxPTGl5RFhKVmpoQ3RNcDhkNkN1MElocTJPVWdpbXMxWHkzQ015YktvbmNVMm9YRzlJSWNXb1QyaEtMMVlpTEFrWEk5OURDTGlUbVN3MmJTN0FXU0s5cnUzbEk2X3NSTHU1U3hOZVBiclBpdHpjeXloYTlnU2FDSVdnTzFlamhORFVtSlNEODN3YVRNbDk1SXVHSktlQmpiTnI5WTYzZnNZYlJSdkhYcXNXZjVYcHlMVXVLd3dYZGVSd0xhWW1hczVZNmlGWTg4UmNYSGhSRWRjTXU4Zm0tTVF2UDJKRDc5X2Y4ajdnYzhqWXhvOTZzajRmMDRvMW01cnFhbHdCY0MzTkFDcncxQURxcldjSDU3Z1hqRmhkTkpYOVcyd1VaRTFDc3EzWjhROHl0WDA4YkRZenBMck5laS13enlnaC1pcHpsbnZsMGlJd0lqbmVmaDNWWWFSLVNBa0lUWlBxTG42MU5GNllNZmxYU2hlN2JYYzdiNHdZUlJOUWZNd1ZYV3l1VGpUWnd4RnJvdHFiaGtmMER1SmR4dG5qWFVzcWRkYTItUVVaYTRDYmNOamlSVkRiR2JfS3dEODltcGxvVTVuNDF6bnF6X3pPTDhLS1EwRjdIdDBFSVBLZGtSMzZjVWk3OVFSSHgyeWRvR3c0QW1RYm5KSFJHU2x6ckJjUFI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-09 18:11:28"
+      },
       {
         "title": "劉建國爭取斗六長照教學大樓經費缺口9.08億 打造教學、研究、醫療三位一體長照基地 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQZzJvS2laU3FHcWdaMmx5WFdYQTlaVmpRVVBFVy1mYWY3S1hUcDRabGU3SVk3MGYzTjdzZTF0TWNmR1htZmU5dzV0Q1Z2UGE0Mnp5RU5oWklmcF9qUFREMEtGVlNXNzZEODA5TjFOZ183XzJ4Vjd3bkZHUmpGdnZMTkFsQ0dva2ZkeEc0Z2t0ejZwbEE2NE1zLUxRM01STzlvSEZSTUNZZzFmY1RFblNSOEZnN3FkTmJMU1lkdGpyOThYblhNWUpuNFRVNTRXeU1LTG5yREdwY2Vlb3RIRkdNUFl0b1RCeXlYSlNWSURhQ2xNbE5va3QxcEd5NzAzd2plYTBFQ0RoaGdSWGltTVM5RDNWNWFpX1dlbk9yY0lLT1lhb2ttTExJOWhHckNUVDhpSXczN181SUVWZHJjRnh2ajI0ZkFVcEN3OEtwUkx5Z21ON2VfQ2dEaGtsdnI5b2t2Y2I3TTRRcE81MzFYREY5SzB5WFpDcGFIcW5EbWZ3TEFseTZRbzVSUjdyZjQ1NnpibC1kTnRVVW5odEpYTmJ4UTZaeks4dWYtMmVyOQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -450,6 +463,11 @@
       {
         "title": "雲林醫療長照資源再升級 劉建國成功爭取斗六長照教學大樓9億經費缺口 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQN3RHUk1SVEpYMkstam5LbkNtQ2xHeVFKM2h6S0xCREh0MVJJYVEtclQ5X3VQQS05VmE1TXI3Vjc0b0drRU5xYzZmV0tpV3Q4QTBkN0dKaWgyNzEyTUF5QzBzR2h3a01BRWtkUjliaEhlNFJ4TDZ4M280UC1yWll4VGFvOElqT1JRT0tnXzhQa1FJNEgyel9DMHJCMW5zaWpLdFRabmpvTy1PbXdxQ1hFMU4yOFQ3blJNUXVhS0FKVmlGRHJMTndtSm5PQzJsZ1g5Q0pHMDZUTHR4VnRmT1N2SEdER1dhaXhnVy1WUUJNWXBkY3JkeUV1Y2p0Z0NGMm9odXJQa0tNbVVyV1A5WW16M0VjdThySlh5VmlEQnhUbkZEVi04VV83SGw3alEtcjkwdmlORktXRlo3MUlBZFc0dDB2YURETmhGbDRpa240WG1LcnMybk1tLUJENlc3dWpMcmV4LS1yVVM2cE5IRTNxdkRRem1GVVhqRVZlcG01YnhJV2FWUVNGMndmTGhVWXpheEhmSFNPVFJPVFIzeVBNSlpIT3VvZTM2R2lCcVhRbEpBTVdKRzBxRmJ2bTFoRWVCTXVfZDRuSkVVZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-09 15:36:00"
+      },
+      {
+        "title": "雲林醫療長照資源再升級 劉建國成功爭取斗六長照教學大樓9億經費缺口 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wQWdmX3lMR2pHNWw0WHc2U3hDUG1vUXJ4alBBYTBLRGlCbmNIQWVrc25od2kyNHdFYjEycmduYUtMTXV2Nmdob2VGQzN3ZXFIWHdBZlcxMzFJNms1aVkwc0FybDYtUdIBa0FVX3lxTE4zQzFsUm1XbUNxWmt5VlRTd0xBVE5fQVh3RTNWZS1NTFpvX3Q3ck1XeEUtQmJsQjFYakNVV01jLWNGVGN4RTVPczJLNEFiSHZGSWktTHVVdlY2a1lfV3dWZ25sV3ZGc3E1VmZF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-09 15:36:00"
       },
       {
@@ -591,21 +609,6 @@
         "title": "立法院修正《食品衛生管理法》 雲林立委張嘉郡要求「商品揭示原產地」 挺民眾食安、護本土農民！ - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5S0hJMndza0pYZDdXbFVxeVdNT2FibEFEbmV5aExzbkV2a3NyNHQtNHpZV2d1UmdvdGRMSm1LRVpZd0ZIUC1SSDVEazZLaGtoMlZFUUFfV0Q4QkZZaHlzWUlBdGhGYlJDWHY4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-08 18:49:04"
-      },
-      {
-        "title": "中聯致癌油風暴綠委也開砲 林淑芬轟急找學者背書、劉建國：別爛戲拖棚 - 知新聞",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CNGEyVjhaVkxlRHY5eVlTbFBpNDFGc0kxd2hIcVdXQnRaN283T1UyM0taNTltdU5CaXQyVmpGamRUcUZmaXVxTk9JbXlrNlpnbGRydUplS3VSTC1vZVhyUGpHZTc4QUtiT2YzWGx3Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-08 18:37:00"
-      },
-      {
-        "title": "打造多元休閒運動場域 丁學忠張嘉郡邀運動部長視察雲林 - 臺灣導報",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXSE0tNjRSVFZDNUhPRndnZFV3N0h0ZGhDWl9feDEwS3FGTXNSbTliZXFYbm9fRE9ZSmpIdzBaS0JHOTJlcUg0R2d5U2ZJQWdBODgw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-08 18:31:53"
-      },
-      {
-        "title": "打造多元休閒運動場域 丁學忠張嘉郡邀運動部長視察雲林 - 臺灣導報",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXSE0tNjRSVFZDNUhPRndnZFV3N0h0ZGhDWl9feDEwS3FGTXNSbTliZXFYbm9fRE9ZSmpIdzBaS0JHOTJlcUg0R2d5U2ZJQWdBODgw?oc=5",
-        "time": "2026-07-08 18:31:53"
       }
     ],
     "facebook": [
@@ -629,7 +632,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 34
+      "count": 33
     },
     {
       "platform": "facebook",
@@ -638,6 +641,11 @@
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國催生斗六長照教學大樓 臺大醫院斗六長照教學大樓經費缺口獲中央承諾補足 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxPTGl5RFhKVmpoQ3RNcDhkNkN1MElocTJPVWdpbXMxWHkzQ015YktvbmNVMm9YRzlJSWNXb1QyaEtMMVlpTEFrWEk5OURDTGlUbVN3MmJTN0FXU0s5cnUzbEk2X3NSTHU1U3hOZVBiclBpdHpjeXloYTlnU2FDSVdnTzFlamhORFVtSlNEODN3YVRNbDk1SXVHSktlQmpiTnI5WTYzZnNZYlJSdkhYcXNXZjVYcHlMVXVLd3dYZGVSd0xhWW1hczVZNmlGWTg4UmNYSGhSRWRjTXU4Zm0tTVF2UDJKRDc5X2Y4ajdnYzhqWXhvOTZzajRmMDRvMW01cnFhbHdCY0MzTkFDcncxQURxcldjSDU3Z1hqRmhkTkpYOVcyd1VaRTFDc3EzWjhROHl0WDA4YkRZenBMck5laS13enlnaC1pcHpsbnZsMGlJd0lqbmVmaDNWWWFSLVNBa0lUWlBxTG42MU5GNllNZmxYU2hlN2JYYzdiNHdZUlJOUWZNd1ZYV3l1VGpUWnd4RnJvdHFiaGtmMER1SmR4dG5qWFVzcWRkYTItUVVaYTRDYmNOamlSVkRiR2JfS3dEODltcGxvVTVuNDF6bnF6X3pPTDhLS1EwRjdIdDBFSVBLZGtSMzZjVWk3OVFSSHgyeWRvR3c0QW1RYm5KSFJHU2x6ckJjUFI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-09 18:11:28"
+      },
       {
         "title": "劉建國爭取斗六長照教學大樓經費缺口9.08億 打造教學、研究、醫療三位一體長照基地 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQZzJvS2laU3FHcWdaMmx5WFdYQTlaVmpRVVBFVy1mYWY3S1hUcDRabGU3SVk3MGYzTjdzZTF0TWNmR1htZmU5dzV0Q1Z2UGE0Mnp5RU5oWklmcF9qUFREMEtGVlNXNzZEODA5TjFOZ183XzJ4Vjd3bkZHUmpGdnZMTkFsQ0dva2ZkeEc0Z2t0ejZwbEE2NE1zLUxRM01STzlvSEZSTUNZZzFmY1RFblNSOEZnN3FkTmJMU1lkdGpyOThYblhNWUpuNFRVNTRXeU1LTG5yREdwY2Vlb3RIRkdNUFl0b1RCeXlYSlNWSURhQ2xNbE5va3QxcEd5NzAzd2plYTBFQ0RoaGdSWGltTVM5RDNWNWFpX1dlbk9yY0lLT1lhb2ttTExJOWhHckNUVDhpSXczN181SUVWZHJjRnh2ajI0ZkFVcEN3OEtwUkx5Z21ON2VfQ2dEaGtsdnI5b2t2Y2I3TTRRcE81MzFYREY5SzB5WFpDcGFIcW5EbWZ3TEFseTZRbzVSUjdyZjQ1NnpibC1kTnRVVW5odEpYTmJ4UTZaeks4dWYtMmVyOQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -651,6 +659,11 @@
       {
         "title": "雲林醫療長照資源再升級 劉建國成功爭取斗六長照教學大樓9億經費缺口 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQN3RHUk1SVEpYMkstam5LbkNtQ2xHeVFKM2h6S0xCREh0MVJJYVEtclQ5X3VQQS05VmE1TXI3Vjc0b0drRU5xYzZmV0tpV3Q4QTBkN0dKaWgyNzEyTUF5QzBzR2h3a01BRWtkUjliaEhlNFJ4TDZ4M280UC1yWll4VGFvOElqT1JRT0tnXzhQa1FJNEgyel9DMHJCMW5zaWpLdFRabmpvTy1PbXdxQ1hFMU4yOFQ3blJNUXVhS0FKVmlGRHJMTndtSm5PQzJsZ1g5Q0pHMDZUTHR4VnRmT1N2SEdER1dhaXhnVy1WUUJNWXBkY3JkeUV1Y2p0Z0NGMm9odXJQa0tNbVVyV1A5WW16M0VjdThySlh5VmlEQnhUbkZEVi04VV83SGw3alEtcjkwdmlORktXRlo3MUlBZFc0dDB2YURETmhGbDRpa240WG1LcnMybk1tLUJENlc3dWpMcmV4LS1yVVM2cE5IRTNxdkRRem1GVVhqRVZlcG01YnhJV2FWUVNGMndmTGhVWXpheEhmSFNPVFJPVFIzeVBNSlpIT3VvZTM2R2lCcVhRbEpBTVdKRzBxRmJ2bTFoRWVCTXVfZDRuSkVVZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-09 15:36:00"
+      },
+      {
+        "title": "雲林醫療長照資源再升級 劉建國成功爭取斗六長照教學大樓9億經費缺口 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wQWdmX3lMR2pHNWw0WHc2U3hDUG1vUXJ4alBBYTBLRGlCbmNIQWVrc25od2kyNHdFYjEycmduYUtMTXV2Nmdob2VGQzN3ZXFIWHdBZlcxMzFJNms1aVkwc0FybDYtUdIBa0FVX3lxTE4zQzFsUm1XbUNxWmt5VlRTd0xBVE5fQVh3RTNWZS1NTFpvX3Q3ck1XeEUtQmJsQjFYakNVV01jLWNGVGN4RTVPczJLNEFiSHZGSWktTHVVdlY2a1lfV3dWZ25sV3ZGc3E1VmZF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-09 15:36:00"
       },
       {
@@ -792,21 +805,6 @@
         "title": "立法院修正《食品衛生管理法》 雲林立委張嘉郡要求「商品揭示原產地」 挺民眾食安、護本土農民！ - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5S0hJMndza0pYZDdXbFVxeVdNT2FibEFEbmV5aExzbkV2a3NyNHQtNHpZV2d1UmdvdGRMSm1LRVpZd0ZIUC1SSDVEazZLaGtoMlZFUUFfV0Q4QkZZaHlzWUlBdGhGYlJDWHY4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-08 18:49:04"
-      },
-      {
-        "title": "中聯致癌油風暴綠委也開砲 林淑芬轟急找學者背書、劉建國：別爛戲拖棚 - 知新聞",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CNGEyVjhaVkxlRHY5eVlTbFBpNDFGc0kxd2hIcVdXQnRaN283T1UyM0taNTltdU5CaXQyVmpGamRUcUZmaXVxTk9JbXlrNlpnbGRydUplS3VSTC1vZVhyUGpHZTc4QUtiT2YzWGx3Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-08 18:37:00"
-      },
-      {
-        "title": "打造多元休閒運動場域 丁學忠張嘉郡邀運動部長視察雲林 - 臺灣導報",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXSE0tNjRSVFZDNUhPRndnZFV3N0h0ZGhDWl9feDEwS3FGTXNSbTliZXFYbm9fRE9ZSmpIdzBaS0JHOTJlcUg0R2d5U2ZJQWdBODgw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-08 18:31:53"
-      },
-      {
-        "title": "打造多元休閒運動場域 丁學忠張嘉郡邀運動部長視察雲林 - 臺灣導報",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXSE0tNjRSVFZDNUhPRndnZFV3N0h0ZGhDWl9feDEwS3FGTXNSbTliZXFYbm9fRE9ZSmpIdzBaS0JHOTJlcUg0R2d5U2ZJQWdBODgw?oc=5",
-        "time": "2026-07-08 18:31:53"
       }
     ],
     "facebook": [
@@ -828,14 +826,19 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 12,
-    "劉建國": 25
+    "張嘉郡": 10,
+    "劉建國": 26
   },
   "mention_compare_7d": {
     "張嘉郡": 73,
-    "劉建國": 78
+    "劉建國": 80
   },
   "top_news": [
+    {
+      "title": "劉建國催生斗六長照教學大樓 臺大醫院斗六長照教學大樓經費缺口獲中央承諾補足 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxPTGl5RFhKVmpoQ3RNcDhkNkN1MElocTJPVWdpbXMxWHkzQ015YktvbmNVMm9YRzlJSWNXb1QyaEtMMVlpTEFrWEk5OURDTGlUbVN3MmJTN0FXU0s5cnUzbEk2X3NSTHU1U3hOZVBiclBpdHpjeXloYTlnU2FDSVdnTzFlamhORFVtSlNEODN3YVRNbDk1SXVHSktlQmpiTnI5WTYzZnNZYlJSdkhYcXNXZjVYcHlMVXVLd3dYZGVSd0xhWW1hczVZNmlGWTg4UmNYSGhSRWRjTXU4Zm0tTVF2UDJKRDc5X2Y4ajdnYzhqWXhvOTZzajRmMDRvMW01cnFhbHdCY0MzTkFDcncxQURxcldjSDU3Z1hqRmhkTkpYOVcyd1VaRTFDc3EzWjhROHl0WDA4YkRZenBMck5laS13enlnaC1pcHpsbnZsMGlJd0lqbmVmaDNWWWFSLVNBa0lUWlBxTG42MU5GNllNZmxYU2hlN2JYYzdiNHdZUlJOUWZNd1ZYV3l1VGpUWnd4RnJvdHFiaGtmMER1SmR4dG5qWFVzcWRkYTItUVVaYTRDYmNOamlSVkRiR2JfS3dEODltcGxvVTVuNDF6bnF6X3pPTDhLS1EwRjdIdDBFSVBLZGtSMzZjVWk3OVFSSHgyeWRvR3c0QW1RYm5KSFJHU2x6ckJjUFI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-09 18:11:28"
+    },
     {
       "title": "劉建國爭取斗六長照教學大樓經費缺口9.08億 打造教學、研究、醫療三位一體長照基地 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQZzJvS2laU3FHcWdaMmx5WFdYQTlaVmpRVVBFVy1mYWY3S1hUcDRabGU3SVk3MGYzTjdzZTF0TWNmR1htZmU5dzV0Q1Z2UGE0Mnp5RU5oWklmcF9qUFREMEtGVlNXNzZEODA5TjFOZ183XzJ4Vjd3bkZHUmpGdnZMTkFsQ0dva2ZkeEc0Z2t0ejZwbEE2NE1zLUxRM01STzlvSEZSTUNZZzFmY1RFblNSOEZnN3FkTmJMU1lkdGpyOThYblhNWUpuNFRVNTRXeU1LTG5yREdwY2Vlb3RIRkdNUFl0b1RCeXlYSlNWSURhQ2xNbE5va3QxcEd5NzAzd2plYTBFQ0RoaGdSWGltTVM5RDNWNWFpX1dlbk9yY0lLT1lhb2ttTExJOWhHckNUVDhpSXczN181SUVWZHJjRnh2ajI0ZkFVcEN3OEtwUkx5Z21ON2VfQ2dEaGtsdnI5b2t2Y2I3TTRRcE81MzFYREY5SzB5WFpDcGFIcW5EbWZ3TEFseTZRbzVSUjdyZjQ1NnpibC1kTnRVVW5odEpYTmJ4UTZaeks4dWYtMmVyOQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -847,8 +850,18 @@
       "time": "2026-07-09 16:31:00"
     },
     {
+      "title": "誰拿台塑198億？蘇治芬控對手抹黑 張鎔麒批「神經質」 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43b2k1eHlIQnRiZDdzcFZnazBudGlOTWpBM04zb05DbU0wSFhCa044TWRnSG1jakQ0OEQwTTVmbDRnRzh5Q3pJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-09 16:02:16"
+    },
+    {
       "title": "雲林醫療長照資源再升級 劉建國成功爭取斗六長照教學大樓9億經費缺口 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQN3RHUk1SVEpYMkstam5LbkNtQ2xHeVFKM2h6S0xCREh0MVJJYVEtclQ5X3VQQS05VmE1TXI3Vjc0b0drRU5xYzZmV0tpV3Q4QTBkN0dKaWgyNzEyTUF5QzBzR2h3a01BRWtkUjliaEhlNFJ4TDZ4M280UC1yWll4VGFvOElqT1JRT0tnXzhQa1FJNEgyel9DMHJCMW5zaWpLdFRabmpvTy1PbXdxQ1hFMU4yOFQ3blJNUXVhS0FKVmlGRHJMTndtSm5PQzJsZ1g5Q0pHMDZUTHR4VnRmT1N2SEdER1dhaXhnVy1WUUJNWXBkY3JkeUV1Y2p0Z0NGMm9odXJQa0tNbVVyV1A5WW16M0VjdThySlh5VmlEQnhUbkZEVi04VV83SGw3alEtcjkwdmlORktXRlo3MUlBZFc0dDB2YURETmhGbDRpa240WG1LcnMybk1tLUJENlc3dWpMcmV4LS1yVVM2cE5IRTNxdkRRem1GVVhqRVZlcG01YnhJV2FWUVNGMndmTGhVWXpheEhmSFNPVFJPVFIzeVBNSlpIT3VvZTM2R2lCcVhRbEpBTVdKRzBxRmJ2bTFoRWVCTXVfZDRuSkVVZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-09 15:36:00"
+    },
+    {
+      "title": "雲林醫療長照資源再升級 劉建國成功爭取斗六長照教學大樓9億經費缺口 - 鏡週刊Mirror Media",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wQWdmX3lMR2pHNWw0WHc2U3hDUG1vUXJ4alBBYTBLRGlCbmNIQWVrc25od2kyNHdFYjEycmduYUtMTXV2Nmdob2VGQzN3ZXFIWHdBZlcxMzFJNms1aVkwc0FybDYtUdIBa0FVX3lxTE4zQzFsUm1XbUNxWmt5VlRTd0xBVE5fQVh3RTNWZS1NTFpvX3Q3ck1XeEUtQmJsQjFYakNVV01jLWNGVGN4RTVPczJLNEFiSHZGSWktTHVVdlY2a1lfV3dWZ25sV3ZGc3E1VmZF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-09 15:36:00"
     },
     {
@@ -880,24 +893,14 @@
       "title": "劉建國牽線募愛心！4名善心人士合捐溫馨巴士 助身障朋友圓交通夢 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nOW93bVpfeEFwRmFuUjc3cjY5Ym51djd3T1BiTUZESlBXT3NPeEVORFlZMDlMZDRBLWQ5RkZRWU9pWlppS0dkbXVqSFM5UTVUeWF4TFAxTGF1NVdGZEJXNVE4MDV1elXSAWxBVV95cUxOODd4ajRQOWQ1WGFpaGtQbVltM3doNEFvTUZuQ3VNdVpySGVlVTYxcE5YOFVxYjlDM3N4U2NEX0t2bEJoc3NjXzZ3NDBNeW5jSnUxSlp3SUFYM0E0eTFnNk5qTkdvY0lWOENxNng?oc=5",
       "time": "2026-07-09 09:49:07"
-    },
-    {
-      "title": "劉建國牽線募愛心！4名善心人士合捐溫馨巴士 助身障朋友圓交通夢 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZbHdRNjJNZmxGbkhFY255dmotQmVOY014VXpuOXM0cHBJUXVZLVVXQkZscHozLUVBUGdTRXdpbG5lbDRCaTY5MTNsc3kwbWlacmkzRUdYRGR5QWh5NngwMkhUc1YxNzE1WXfSAWpBVV95cUxNWWx3UTYyTWZsRm5IRWNueXZqLUJlTmNNeFV6bjlzNHBwSVF1WS1VV0JGbHB6My1FQVBnU0V3aWxuZWw0Qmk2OTEzbHN5MG1pWnJpM0VHWERkeUFoeTZ4MDJIVHNWMTcxNVl3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-09 09:49:07"
-    },
-    {
-      "title": "中聯毒油處置慢半拍？ 劉建國轟食藥署拖近1週：徹查官員疏失 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQLVl2VDNKaUNHZU5VZkVjc3lhcTdvcHp5UnVISkUzYWJTSmZFajJ2RE1PdU1seTJLb292SEd6UFJoN0FWb3dKU1Y2UmJlLUQ2a1hqSW1IMDdIb0lSSlVsdkJhc0NROHV1WkZkempXaEgzS1BDQ0cwTktXNXM1Rm43b0lWWEp6WXpCc0VEVVRRd1lhUG04dDlLem1ETnRWMUFQcnQxZ01nMkY2dUFidl8wbDJXVmlxMVR6aEVISl9oallHbmViWkEtVmlVMmlYMmthU2xHTmpfMGNqT2NqM0g1OTlZa2xkWnNIMlJfbkdkcDJ0Z19POGVqcWF5bFVVejI1a1VXVWsyUnJYQzNRM3hvQVE3U1NtWmdFOUNtRzNYNFNtb3JHajF6Sm1BaC1KY2sxYzY1bzdnTE03TUxHaTdDWTlTcUdMQ3dKVUxnaGVrZ1pNN3dCQVMtMmhyd2w1RW1kUzVvWDIyTmw3OTRXcjA3VE5ab0lwVngwVUlYYWU1dmZsNkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-09 09:03:44"
-    },
-    {
-      "title": "中聯毒油處置慢半拍？ 劉建國轟食藥署拖近1週：徹查官員疏失 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQLVl2VDNKaUNHZU5VZkVjc3lhcTdvcHp5UnVISkUzYWJTSmZFajJ2RE1PdU1seTJLb292SEd6UFJoN0FWb3dKU1Y2UmJlLUQ2a1hqSW1IMDdIb0lSSlVsdkJhc0NROHV1WkZkempXaEgzS1BDQ0cwTktXNXM1Rm43b0lWWEp6WXpCc0VEVVRRd1lhUG04dDlLem1ETnRWMUFQcnQxZ01nMkY2dUFidl8wbDJXVmlxMVR6aEVISl9oallHbmViWkEtVmlVMmlYMmthU2xHTmpfMGNqT2NqM0g1OTlZa2xkWnNIMlJfbkdkcDJ0Z19POGVqcWF5bFVVejI1a1VXVWsyUnJYQzNRM3hvQVE3U1NtWmdFOUNtRzNYNFNtb3JHajF6Sm1BaC1KY2sxYzY1bzdnTE03TUxHaTdDWTlTcUdMQ3dKVUxnaGVrZ1pNN3dCQVMtMmhyd2w1RW1kUzVvWDIyTmw3OTRXcjA3VE5ab0lwVngwVUlYYWU1dmZsNkE?oc=5",
-      "time": "2026-07-09 09:03:44"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "劉建國催生斗六長照教學大樓 臺大醫院斗六長照教學大樓經費缺口獲中央承諾補足 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxPTGl5RFhKVmpoQ3RNcDhkNkN1MElocTJPVWdpbXMxWHkzQ015YktvbmNVMm9YRzlJSWNXb1QyaEtMMVlpTEFrWEk5OURDTGlUbVN3MmJTN0FXU0s5cnUzbEk2X3NSTHU1U3hOZVBiclBpdHpjeXloYTlnU2FDSVdnTzFlamhORFVtSlNEODN3YVRNbDk1SXVHSktlQmpiTnI5WTYzZnNZYlJSdkhYcXNXZjVYcHlMVXVLd3dYZGVSd0xhWW1hczVZNmlGWTg4UmNYSGhSRWRjTXU4Zm0tTVF2UDJKRDc5X2Y4ajdnYzhqWXhvOTZzajRmMDRvMW01cnFhbHdCY0MzTkFDcncxQURxcldjSDU3Z1hqRmhkTkpYOVcyd1VaRTFDc3EzWjhROHl0WDA4YkRZenBMck5laS13enlnaC1pcHpsbnZsMGlJd0lqbmVmaDNWWWFSLVNBa0lUWlBxTG42MU5GNllNZmxYU2hlN2JYYzdiNHdZUlJOUWZNd1ZYV3l1VGpUWnd4RnJvdHFiaGtmMER1SmR4dG5qWFVzcWRkYTItUVVaYTRDYmNOamlSVkRiR2JfS3dEODltcGxvVTVuNDF6bnF6X3pPTDhLS1EwRjdIdDBFSVBLZGtSMzZjVWk3OVFSSHgyeWRvR3c0QW1RYm5KSFJHU2x6ckJjUFI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-09 18:11:28"
+    },
     {
       "title": "劉建國爭取斗六長照教學大樓經費缺口9.08億 打造教學、研究、醫療三位一體長照基地 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQZzJvS2laU3FHcWdaMmx5WFdYQTlaVmpRVVBFVy1mYWY3S1hUcDRabGU3SVk3MGYzTjdzZTF0TWNmR1htZmU5dzV0Q1Z2UGE0Mnp5RU5oWklmcF9qUFREMEtGVlNXNzZEODA5TjFOZ183XzJ4Vjd3bkZHUmpGdnZMTkFsQ0dva2ZkeEc0Z2t0ejZwbEE2NE1zLUxRM01STzlvSEZSTUNZZzFmY1RFblNSOEZnN3FkTmJMU1lkdGpyOThYblhNWUpuNFRVNTRXeU1LTG5yREdwY2Vlb3RIRkdNUFl0b1RCeXlYSlNWSURhQ2xNbE5va3QxcEd5NzAzd2plYTBFQ0RoaGdSWGltTVM5RDNWNWFpX1dlbk9yY0lLT1lhb2ttTExJOWhHckNUVDhpSXczN181SUVWZHJjRnh2ajI0ZkFVcEN3OEtwUkx5Z21ON2VfQ2dEaGtsdnI5b2t2Y2I3TTRRcE81MzFYREY5SzB5WFpDcGFIcW5EbWZ3TEFseTZRbzVSUjdyZjQ1NnpibC1kTnRVVW5odEpYTmJ4UTZaeks4dWYtMmVyOQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -909,8 +912,18 @@
       "time": "2026-07-09 16:31:00"
     },
     {
+      "title": "誰拿台塑198億？蘇治芬控對手抹黑 張鎔麒批「神經質」 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43b2k1eHlIQnRiZDdzcFZnazBudGlOTWpBM04zb05DbU0wSFhCa044TWRnSG1jakQ0OEQwTTVmbDRnRzh5Q3pJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-09 16:02:16"
+    },
+    {
       "title": "雲林醫療長照資源再升級 劉建國成功爭取斗六長照教學大樓9億經費缺口 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQN3RHUk1SVEpYMkstam5LbkNtQ2xHeVFKM2h6S0xCREh0MVJJYVEtclQ5X3VQQS05VmE1TXI3Vjc0b0drRU5xYzZmV0tpV3Q4QTBkN0dKaWgyNzEyTUF5QzBzR2h3a01BRWtkUjliaEhlNFJ4TDZ4M280UC1yWll4VGFvOElqT1JRT0tnXzhQa1FJNEgyel9DMHJCMW5zaWpLdFRabmpvTy1PbXdxQ1hFMU4yOFQ3blJNUXVhS0FKVmlGRHJMTndtSm5PQzJsZ1g5Q0pHMDZUTHR4VnRmT1N2SEdER1dhaXhnVy1WUUJNWXBkY3JkeUV1Y2p0Z0NGMm9odXJQa0tNbVVyV1A5WW16M0VjdThySlh5VmlEQnhUbkZEVi04VV83SGw3alEtcjkwdmlORktXRlo3MUlBZFc0dDB2YURETmhGbDRpa240WG1LcnMybk1tLUJENlc3dWpMcmV4LS1yVVM2cE5IRTNxdkRRem1GVVhqRVZlcG01YnhJV2FWUVNGMndmTGhVWXpheEhmSFNPVFJPVFIzeVBNSlpIT3VvZTM2R2lCcVhRbEpBTVdKRzBxRmJ2bTFoRWVCTXVfZDRuSkVVZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-09 15:36:00"
+    },
+    {
+      "title": "雲林醫療長照資源再升級 劉建國成功爭取斗六長照教學大樓9億經費缺口 - 鏡週刊Mirror Media",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wQWdmX3lMR2pHNWw0WHc2U3hDUG1vUXJ4alBBYTBLRGlCbmNIQWVrc25od2kyNHdFYjEycmduYUtMTXV2Nmdob2VGQzN3ZXFIWHdBZlcxMzFJNms1aVkwc0FybDYtUdIBa0FVX3lxTE4zQzFsUm1XbUNxWmt5VlRTd0xBVE5fQVh3RTNWZS1NTFpvX3Q3ck1XeEUtQmJsQjFYakNVV01jLWNGVGN4RTVPczJLNEFiSHZGSWktTHVVdlY2a1lfV3dWZ25sV3ZGc3E1VmZF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-09 15:36:00"
     },
     {
@@ -982,21 +995,6 @@
       "title": "蘇治芬續推國有地放領　張嘉郡提豬隻防疫三箭 - 三立新聞",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4wVFJnczZjNE5Lay02aFJVcTU0Y0xrTGNVZ3REZDdUWUtTOC15cFhKQV84VkRURGN5MkRyZGxJMWFRRHpCWlpV0gFLQVVfeXFMTWl6ckw3V3gxY2NJQ0xhU2hqUEF6ZHNQenNCb19QcGt5cl9ZUUhqUFJRaWJNOGo1UlR4VzBpMk02X1AyLVVHbGIza0JV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-09 07:14:27"
-    },
-    {
-      "title": "韓國瑜雲林造勢　前縣長蘇治芬諷：市長坐嘸燒，越頭肖總統 - 三立新聞",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9NS011Nmw1dXhuWEVZcVFpcWt4enNsdGt0YzJEYjAtWlo4Q1UyRTMyRWJ6WHU0T0VEcTdwdldncm9KN09HOWxV0gFLQVVfeXFMTjRSb1h6MG9lZUFyMWdDSFVVZmRuYlNpemhTVkhxaWpoVnExcnVMZ3hLMi0xamowaEZ4SjBrNGhhUmVydGhxTUFGcEhR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-09 04:14:25"
-    },
-    {
-      "title": "台商撤離最大障礙　蘇治芬：草菅人命是中國優良傳統 - 三立新聞",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5SZGNnaHJabS1CaC1uZW1YeW1xY0tRYkctYjduYVd5dTVTN1NyVEFYVjlhNTlIUXc4X3ZtNjczMW1OX0lJSmZZ0gFLQVVfeXFMT1lkcU81V1YweVdaRDVHU0F4WXNYLTYwenVlX1g1THJveGo4UENPcDY0VndqVFhaYWtVTERQSVozd2Vmb2NOT1JNbDdJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-09 01:34:43"
-    },
-    {
-      "title": "兼任司機津貼遭批「不合時宜」 蘇治芬籲台電檢討| 政治 - 三立新聞",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE05MWh2TWcxN3VfYTZsVlpvS0NmNk5ZcUtRMi1WWi1qSVlnTXpHdFhVUHgwcmFLdmUtX3Z5cEtVa0xwQkd6bmZn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-09 01:29:40"
     }
   ],
   "latest_facebook_20": [
@@ -1103,6 +1101,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "劉建國催生斗六長照教學大樓 臺大醫院斗六長照教學大樓經費缺口獲中央承諾補足 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxPTGl5RFhKVmpoQ3RNcDhkNkN1MElocTJPVWdpbXMxWHkzQ015YktvbmNVMm9YRzlJSWNXb1QyaEtMMVlpTEFrWEk5OURDTGlUbVN3MmJTN0FXU0s5cnUzbEk2X3NSTHU1U3hOZVBiclBpdHpjeXloYTlnU2FDSVdnTzFlamhORFVtSlNEODN3YVRNbDk1SXVHSktlQmpiTnI5WTYzZnNZYlJSdkhYcXNXZjVYcHlMVXVLd3dYZGVSd0xhWW1hczVZNmlGWTg4UmNYSGhSRWRjTXU4Zm0tTVF2UDJKRDc5X2Y4ajdnYzhqWXhvOTZzajRmMDRvMW01cnFhbHdCY0MzTkFDcncxQURxcldjSDU3Z1hqRmhkTkpYOVcyd1VaRTFDc3EzWjhROHl0WDA4YkRZenBMck5laS13enlnaC1pcHpsbnZsMGlJd0lqbmVmaDNWWWFSLVNBa0lUWlBxTG42MU5GNllNZmxYU2hlN2JYYzdiNHdZUlJOUWZNd1ZYV3l1VGpUWnd4RnJvdHFiaGtmMER1SmR4dG5qWFVzcWRkYTItUVVaYTRDYmNOamlSVkRiR2JfS3dEODltcGxvVTVuNDF6bnF6X3pPTDhLS1EwRjdIdDBFSVBLZGtSMzZjVWk3OVFSSHgyeWRvR3c0QW1RYm5KSFJHU2x6ckJjUFI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-09 18:11:28"
+    },
+    {
       "title": "劉建國爭取斗六長照教學大樓經費缺口9.08億 打造教學、研究、醫療三位一體長照基地 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQZzJvS2laU3FHcWdaMmx5WFdYQTlaVmpRVVBFVy1mYWY3S1hUcDRabGU3SVk3MGYzTjdzZTF0TWNmR1htZmU5dzV0Q1Z2UGE0Mnp5RU5oWklmcF9qUFREMEtGVlNXNzZEODA5TjFOZ183XzJ4Vjd3bkZHUmpGdnZMTkFsQ0dva2ZkeEc0Z2t0ejZwbEE2NE1zLUxRM01STzlvSEZSTUNZZzFmY1RFblNSOEZnN3FkTmJMU1lkdGpyOThYblhNWUpuNFRVNTRXeU1LTG5yREdwY2Vlb3RIRkdNUFl0b1RCeXlYSlNWSURhQ2xNbE5va3QxcEd5NzAzd2plYTBFQ0RoaGdSWGltTVM5RDNWNWFpX1dlbk9yY0lLT1lhb2ttTExJOWhHckNUVDhpSXczN181SUVWZHJjRnh2ajI0ZkFVcEN3OEtwUkx5Z21ON2VfQ2dEaGtsdnI5b2t2Y2I3TTRRcE81MzFYREY5SzB5WFpDcGFIcW5EbWZ3TEFseTZRbzVSUjdyZjQ1NnpibC1kTnRVVW5odEpYTmJ4UTZaeks4dWYtMmVyOQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-09 16:38:46"
@@ -1113,8 +1116,18 @@
       "time": "2026-07-09 16:31:00"
     },
     {
+      "title": "誰拿台塑198億？蘇治芬控對手抹黑 張鎔麒批「神經質」 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43b2k1eHlIQnRiZDdzcFZnazBudGlOTWpBM04zb05DbU0wSFhCa044TWRnSG1jakQ0OEQwTTVmbDRnRzh5Q3pJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-09 16:02:16"
+    },
+    {
       "title": "雲林醫療長照資源再升級 劉建國成功爭取斗六長照教學大樓9億經費缺口 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQN3RHUk1SVEpYMkstam5LbkNtQ2xHeVFKM2h6S0xCREh0MVJJYVEtclQ5X3VQQS05VmE1TXI3Vjc0b0drRU5xYzZmV0tpV3Q4QTBkN0dKaWgyNzEyTUF5QzBzR2h3a01BRWtkUjliaEhlNFJ4TDZ4M280UC1yWll4VGFvOElqT1JRT0tnXzhQa1FJNEgyel9DMHJCMW5zaWpLdFRabmpvTy1PbXdxQ1hFMU4yOFQ3blJNUXVhS0FKVmlGRHJMTndtSm5PQzJsZ1g5Q0pHMDZUTHR4VnRmT1N2SEdER1dhaXhnVy1WUUJNWXBkY3JkeUV1Y2p0Z0NGMm9odXJQa0tNbVVyV1A5WW16M0VjdThySlh5VmlEQnhUbkZEVi04VV83SGw3alEtcjkwdmlORktXRlo3MUlBZFc0dDB2YURETmhGbDRpa240WG1LcnMybk1tLUJENlc3dWpMcmV4LS1yVVM2cE5IRTNxdkRRem1GVVhqRVZlcG01YnhJV2FWUVNGMndmTGhVWXpheEhmSFNPVFJPVFIzeVBNSlpIT3VvZTM2R2lCcVhRbEpBTVdKRzBxRmJ2bTFoRWVCTXVfZDRuSkVVZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-09 15:36:00"
+    },
+    {
+      "title": "雲林醫療長照資源再升級 劉建國成功爭取斗六長照教學大樓9億經費缺口 - 鏡週刊Mirror Media",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wQWdmX3lMR2pHNWw0WHc2U3hDUG1vUXJ4alBBYTBLRGlCbmNIQWVrc25od2kyNHdFYjEycmduYUtMTXV2Nmdob2VGQzN3ZXFIWHdBZlcxMzFJNms1aVkwc0FybDYtUdIBa0FVX3lxTE4zQzFsUm1XbUNxWmt5VlRTd0xBVE5fQVh3RTNWZS1NTFpvX3Q3ck1XeEUtQmJsQjFYakNVV01jLWNGVGN4RTVPczJLNEFiSHZGSWktTHVVdlY2a1lfV3dWZ25sV3ZGc3E1VmZF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-09 15:36:00"
     },
     {
@@ -1186,21 +1199,6 @@
       "title": "蘇治芬續推國有地放領　張嘉郡提豬隻防疫三箭 - 三立新聞",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4wVFJnczZjNE5Lay02aFJVcTU0Y0xrTGNVZ3REZDdUWUtTOC15cFhKQV84VkRURGN5MkRyZGxJMWFRRHpCWlpV0gFLQVVfeXFMTWl6ckw3V3gxY2NJQ0xhU2hqUEF6ZHNQenNCb19QcGt5cl9ZUUhqUFJRaWJNOGo1UlR4VzBpMk02X1AyLVVHbGIza0JV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-09 07:14:27"
-    },
-    {
-      "title": "韓國瑜雲林造勢　前縣長蘇治芬諷：市長坐嘸燒，越頭肖總統 - 三立新聞",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9NS011Nmw1dXhuWEVZcVFpcWt4enNsdGt0YzJEYjAtWlo4Q1UyRTMyRWJ6WHU0T0VEcTdwdldncm9KN09HOWxV0gFLQVVfeXFMTjRSb1h6MG9lZUFyMWdDSFVVZmRuYlNpemhTVkhxaWpoVnExcnVMZ3hLMi0xamowaEZ4SjBrNGhhUmVydGhxTUFGcEhR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-09 04:14:25"
-    },
-    {
-      "title": "台商撤離最大障礙　蘇治芬：草菅人命是中國優良傳統 - 三立新聞",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5SZGNnaHJabS1CaC1uZW1YeW1xY0tRYkctYjduYVd5dTVTN1NyVEFYVjlhNTlIUXc4X3ZtNjczMW1OX0lJSmZZ0gFLQVVfeXFMT1lkcU81V1YweVdaRDVHU0F4WXNYLTYwenVlX1g1THJveGo4UENPcDY0VndqVFhaYWtVTERQSVozd2Vmb2NOT1JNbDdJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-09 01:34:43"
-    },
-    {
-      "title": "兼任司機津貼遭批「不合時宜」 蘇治芬籲台電檢討| 政治 - 三立新聞",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE05MWh2TWcxN3VfYTZsVlpvS0NmNk5ZcUtRMi1WWi1qSVlnTXpHdFhVUHgwcmFLdmUtX3Z5cEtVa0xwQkd6bmZn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-09 01:29:40"
     }
   ],
   "person_sections": {
@@ -1515,6 +1513,11 @@
       ],
       "news": [
         {
+          "title": "劉建國催生斗六長照教學大樓 臺大醫院斗六長照教學大樓經費缺口獲中央承諾補足 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxPTGl5RFhKVmpoQ3RNcDhkNkN1MElocTJPVWdpbXMxWHkzQ015YktvbmNVMm9YRzlJSWNXb1QyaEtMMVlpTEFrWEk5OURDTGlUbVN3MmJTN0FXU0s5cnUzbEk2X3NSTHU1U3hOZVBiclBpdHpjeXloYTlnU2FDSVdnTzFlamhORFVtSlNEODN3YVRNbDk1SXVHSktlQmpiTnI5WTYzZnNZYlJSdkhYcXNXZjVYcHlMVXVLd3dYZGVSd0xhWW1hczVZNmlGWTg4UmNYSGhSRWRjTXU4Zm0tTVF2UDJKRDc5X2Y4ajdnYzhqWXhvOTZzajRmMDRvMW01cnFhbHdCY0MzTkFDcncxQURxcldjSDU3Z1hqRmhkTkpYOVcyd1VaRTFDc3EzWjhROHl0WDA4YkRZenBMck5laS13enlnaC1pcHpsbnZsMGlJd0lqbmVmaDNWWWFSLVNBa0lUWlBxTG42MU5GNllNZmxYU2hlN2JYYzdiNHdZUlJOUWZNd1ZYV3l1VGpUWnd4RnJvdHFiaGtmMER1SmR4dG5qWFVzcWRkYTItUVVaYTRDYmNOamlSVkRiR2JfS3dEODltcGxvVTVuNDF6bnF6X3pPTDhLS1EwRjdIdDBFSVBLZGtSMzZjVWk3OVFSSHgyeWRvR3c0QW1RYm5KSFJHU2x6ckJjUFI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-09 18:11:28"
+        },
+        {
           "title": "劉建國爭取斗六長照教學大樓經費缺口9.08億 打造教學、研究、醫療三位一體長照基地 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQZzJvS2laU3FHcWdaMmx5WFdYQTlaVmpRVVBFVy1mYWY3S1hUcDRabGU3SVk3MGYzTjdzZTF0TWNmR1htZmU5dzV0Q1Z2UGE0Mnp5RU5oWklmcF9qUFREMEtGVlNXNzZEODA5TjFOZ183XzJ4Vjd3bkZHUmpGdnZMTkFsQ0dva2ZkeEc0Z2t0ejZwbEE2NE1zLUxRM01STzlvSEZSTUNZZzFmY1RFblNSOEZnN3FkTmJMU1lkdGpyOThYblhNWUpuNFRVNTRXeU1LTG5yREdwY2Vlb3RIRkdNUFl0b1RCeXlYSlNWSURhQ2xNbE5va3QxcEd5NzAzd2plYTBFQ0RoaGdSWGltTVM5RDNWNWFpX1dlbk9yY0lLT1lhb2ttTExJOWhHckNUVDhpSXczN181SUVWZHJjRnh2ajI0ZkFVcEN3OEtwUkx5Z21ON2VfQ2dEaGtsdnI5b2t2Y2I3TTRRcE81MzFYREY5SzB5WFpDcGFIcW5EbWZ3TEFseTZRbzVSUjdyZjQ1NnpibC1kTnRVVW5odEpYTmJ4UTZaeks4dWYtMmVyOQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-09 16:38:46"
@@ -1527,6 +1530,11 @@
         {
           "title": "雲林醫療長照資源再升級 劉建國成功爭取斗六長照教學大樓9億經費缺口 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQN3RHUk1SVEpYMkstam5LbkNtQ2xHeVFKM2h6S0xCREh0MVJJYVEtclQ5X3VQQS05VmE1TXI3Vjc0b0drRU5xYzZmV0tpV3Q4QTBkN0dKaWgyNzEyTUF5QzBzR2h3a01BRWtkUjliaEhlNFJ4TDZ4M280UC1yWll4VGFvOElqT1JRT0tnXzhQa1FJNEgyel9DMHJCMW5zaWpLdFRabmpvTy1PbXdxQ1hFMU4yOFQ3blJNUXVhS0FKVmlGRHJMTndtSm5PQzJsZ1g5Q0pHMDZUTHR4VnRmT1N2SEdER1dhaXhnVy1WUUJNWXBkY3JkeUV1Y2p0Z0NGMm9odXJQa0tNbVVyV1A5WW16M0VjdThySlh5VmlEQnhUbkZEVi04VV83SGw3alEtcjkwdmlORktXRlo3MUlBZFc0dDB2YURETmhGbDRpa240WG1LcnMybk1tLUJENlc3dWpMcmV4LS1yVVM2cE5IRTNxdkRRem1GVVhqRVZlcG01YnhJV2FWUVNGMndmTGhVWXpheEhmSFNPVFJPVFIzeVBNSlpIT3VvZTM2R2lCcVhRbEpBTVdKRzBxRmJ2bTFoRWVCTXVfZDRuSkVVZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-09 15:36:00"
+        },
+        {
+          "title": "雲林醫療長照資源再升級 劉建國成功爭取斗六長照教學大樓9億經費缺口 - 鏡週刊Mirror Media",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wQWdmX3lMR2pHNWw0WHc2U3hDUG1vUXJ4alBBYTBLRGlCbmNIQWVrc25od2kyNHdFYjEycmduYUtMTXV2Nmdob2VGQzN3ZXFIWHdBZlcxMzFJNms1aVkwc0FybDYtUdIBa0FVX3lxTE4zQzFsUm1XbUNxWmt5VlRTd0xBVE5fQVh3RTNWZS1NTFpvX3Q3ck1XeEUtQmJsQjFYakNVV01jLWNGVGN4RTVPczJLNEFiSHZGSWktTHVVdlY2a1lfV3dWZ25sV3ZGc3E1VmZF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-09 15:36:00"
         },
         {
@@ -1603,22 +1611,17 @@
           "title": "批中聯毒油「政府應變過慢」 綠委劉建國：也要徹查官員疏失| 政治焦點 - 太報 TaiSounds",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51WndlTmtIM21QSENoMDBKMV82bGw0OWhIRTI1OVFMeHJKTF9KT3lFV3E3X1VRMEZYVnhmTTVnN2FHRTIyNjdDTWhhQm5Ycmg1R2dyRVRiZlF1WFkx?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-08 21:56:19"
-        },
-        {
-          "title": "批中聯毒油「政府應變過慢」 綠委劉建國：也要徹查官員疏失| 政治焦點 - 太報 TaiSounds",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51WndlTmtIM21QSENoMDBKMV82bGw0OWhIRTI1OVFMeHJKTF9KT3lFV3E3X1VRMEZYVnhmTTVnN2FHRTIyNjdDTWhhQm5Ycmg1R2dyRVRiZlF1WFkx?oc=5",
-          "time": "2026-07-08 21:56:19"
-        },
-        {
-          "title": "問題油「政府應變過慢」！綠委劉建國：應徹查官員與業者 - ETtoday新聞雲",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KR19DenJkMHE4dXpqLUgtRGw1SWtIaGNCSHJsRkR2NHV6c3RMaGQzUXlsdTk2Y1haVXkweDkxT2NZaFdQWWZVOWpiRUo5MVFHT1Q1S3FuY3h2WnJiR3fSAWhBVV95cUxNYk5TSzQybjFlZEVhTWNsbnJCUmVZZFhLZHNrendyZDVJNHlvbjQ4M3E4Ym9XUXdFNnlVWkYwX05JMUJBTHJ6M3hVSWU3REdmdWt1MG9BT2JJdHh4UFNRQk5ZNFZLSkpRag?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-08 21:02:00"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國催生斗六長照教學大樓 臺大醫院斗六長照教學大樓經費缺口獲中央承諾補足 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxPTGl5RFhKVmpoQ3RNcDhkNkN1MElocTJPVWdpbXMxWHkzQ015YktvbmNVMm9YRzlJSWNXb1QyaEtMMVlpTEFrWEk5OURDTGlUbVN3MmJTN0FXU0s5cnUzbEk2X3NSTHU1U3hOZVBiclBpdHpjeXloYTlnU2FDSVdnTzFlamhORFVtSlNEODN3YVRNbDk1SXVHSktlQmpiTnI5WTYzZnNZYlJSdkhYcXNXZjVYcHlMVXVLd3dYZGVSd0xhWW1hczVZNmlGWTg4UmNYSGhSRWRjTXU4Zm0tTVF2UDJKRDc5X2Y4ajdnYzhqWXhvOTZzajRmMDRvMW01cnFhbHdCY0MzTkFDcncxQURxcldjSDU3Z1hqRmhkTkpYOVcyd1VaRTFDc3EzWjhROHl0WDA4YkRZenBMck5laS13enlnaC1pcHpsbnZsMGlJd0lqbmVmaDNWWWFSLVNBa0lUWlBxTG42MU5GNllNZmxYU2hlN2JYYzdiNHdZUlJOUWZNd1ZYV3l1VGpUWnd4RnJvdHFiaGtmMER1SmR4dG5qWFVzcWRkYTItUVVaYTRDYmNOamlSVkRiR2JfS3dEODltcGxvVTVuNDF6bnF6X3pPTDhLS1EwRjdIdDBFSVBLZGtSMzZjVWk3OVFSSHgyeWRvR3c0QW1RYm5KSFJHU2x6ckJjUFI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-09 18:11:28"
+      },
       {
         "title": "劉建國爭取斗六長照教學大樓經費缺口9.08億 打造教學、研究、醫療三位一體長照基地 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQZzJvS2laU3FHcWdaMmx5WFdYQTlaVmpRVVBFVy1mYWY3S1hUcDRabGU3SVk3MGYzTjdzZTF0TWNmR1htZmU5dzV0Q1Z2UGE0Mnp5RU5oWklmcF9qUFREMEtGVlNXNzZEODA5TjFOZ183XzJ4Vjd3bkZHUmpGdnZMTkFsQ0dva2ZkeEc0Z2t0ejZwbEE2NE1zLUxRM01STzlvSEZSTUNZZzFmY1RFblNSOEZnN3FkTmJMU1lkdGpyOThYblhNWUpuNFRVNTRXeU1LTG5yREdwY2Vlb3RIRkdNUFl0b1RCeXlYSlNWSURhQ2xNbE5va3QxcEd5NzAzd2plYTBFQ0RoaGdSWGltTVM5RDNWNWFpX1dlbk9yY0lLT1lhb2ttTExJOWhHckNUVDhpSXczN181SUVWZHJjRnh2ajI0ZkFVcEN3OEtwUkx5Z21ON2VfQ2dEaGtsdnI5b2t2Y2I3TTRRcE81MzFYREY5SzB5WFpDcGFIcW5EbWZ3TEFseTZRbzVSUjdyZjQ1NnpibC1kTnRVVW5odEpYTmJ4UTZaeks4dWYtMmVyOQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1630,8 +1633,18 @@
         "time": "2026-07-09 16:31:00"
       },
       {
+        "title": "誰拿台塑198億？蘇治芬控對手抹黑 張鎔麒批「神經質」 - 三立新聞",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43b2k1eHlIQnRiZDdzcFZnazBudGlOTWpBM04zb05DbU0wSFhCa044TWRnSG1jakQ0OEQwTTVmbDRnRzh5Q3pJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-09 16:02:16"
+      },
+      {
         "title": "雲林醫療長照資源再升級 劉建國成功爭取斗六長照教學大樓9億經費缺口 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQN3RHUk1SVEpYMkstam5LbkNtQ2xHeVFKM2h6S0xCREh0MVJJYVEtclQ5X3VQQS05VmE1TXI3Vjc0b0drRU5xYzZmV0tpV3Q4QTBkN0dKaWgyNzEyTUF5QzBzR2h3a01BRWtkUjliaEhlNFJ4TDZ4M280UC1yWll4VGFvOElqT1JRT0tnXzhQa1FJNEgyel9DMHJCMW5zaWpLdFRabmpvTy1PbXdxQ1hFMU4yOFQ3blJNUXVhS0FKVmlGRHJMTndtSm5PQzJsZ1g5Q0pHMDZUTHR4VnRmT1N2SEdER1dhaXhnVy1WUUJNWXBkY3JkeUV1Y2p0Z0NGMm9odXJQa0tNbVVyV1A5WW16M0VjdThySlh5VmlEQnhUbkZEVi04VV83SGw3alEtcjkwdmlORktXRlo3MUlBZFc0dDB2YURETmhGbDRpa240WG1LcnMybk1tLUJENlc3dWpMcmV4LS1yVVM2cE5IRTNxdkRRem1GVVhqRVZlcG01YnhJV2FWUVNGMndmTGhVWXpheEhmSFNPVFJPVFIzeVBNSlpIT3VvZTM2R2lCcVhRbEpBTVdKRzBxRmJ2bTFoRWVCTXVfZDRuSkVVZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-09 15:36:00"
+      },
+      {
+        "title": "雲林醫療長照資源再升級 劉建國成功爭取斗六長照教學大樓9億經費缺口 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wQWdmX3lMR2pHNWw0WHc2U3hDUG1vUXJ4alBBYTBLRGlCbmNIQWVrc25od2kyNHdFYjEycmduYUtMTXV2Nmdob2VGQzN3ZXFIWHdBZlcxMzFJNms1aVkwc0FybDYtUdIBa0FVX3lxTE4zQzFsUm1XbUNxWmt5VlRTd0xBVE5fQVh3RTNWZS1NTFpvX3Q3ck1XeEUtQmJsQjFYakNVV01jLWNGVGN4RTVPczJLNEFiSHZGSWktTHVVdlY2a1lfV3dWZ25sV3ZGc3E1VmZF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-09 15:36:00"
       },
       {
@@ -1818,21 +1831,6 @@
         "title": "立法院修正《食品衛生管理法》 雲林立委張嘉郡要求「商品揭示原產地」 挺民眾食安、護本土農民！ - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5S0hJMndza0pYZDdXbFVxeVdNT2FibEFEbmV5aExzbkV2a3NyNHQtNHpZV2d1UmdvdGRMSm1LRVpZd0ZIUC1SSDVEazZLaGtoMlZFUUFfV0Q4QkZZaHlzWUlBdGhGYlJDWHY4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-08 18:49:04"
-      },
-      {
-        "title": "中聯致癌油風暴綠委也開砲 林淑芬轟急找學者背書、劉建國：別爛戲拖棚 - 知新聞",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CNGEyVjhaVkxlRHY5eVlTbFBpNDFGc0kxd2hIcVdXQnRaN283T1UyM0taNTltdU5CaXQyVmpGamRUcUZmaXVxTk9JbXlrNlpnbGRydUplS3VSTC1vZVhyUGpHZTc4QUtiT2YzWGx3Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-08 18:37:00"
-      },
-      {
-        "title": "打造多元休閒運動場域 丁學忠張嘉郡邀運動部長視察雲林 - 臺灣導報",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXSE0tNjRSVFZDNUhPRndnZFV3N0h0ZGhDWl9feDEwS3FGTXNSbTliZXFYbm9fRE9ZSmpIdzBaS0JHOTJlcUg0R2d5U2ZJQWdBODgw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-08 18:31:53"
-      },
-      {
-        "title": "打造多元休閒運動場域 丁學忠張嘉郡邀運動部長視察雲林 - 臺灣導報",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXSE0tNjRSVFZDNUhPRndnZFV3N0h0ZGhDWl9feDEwS3FGTXNSbTliZXFYbm9fRE9ZSmpIdzBaS0JHOTJlcUg0R2d5U2ZJQWdBODgw?oc=5",
-        "time": "2026-07-08 18:31:53"
       }
     ],
     "facebook": [
@@ -1856,6 +1854,11 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "劉建國催生斗六長照教學大樓 臺大醫院斗六長照教學大樓經費缺口獲中央承諾補足 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxPTGl5RFhKVmpoQ3RNcDhkNkN1MElocTJPVWdpbXMxWHkzQ015YktvbmNVMm9YRzlJSWNXb1QyaEtMMVlpTEFrWEk5OURDTGlUbVN3MmJTN0FXU0s5cnUzbEk2X3NSTHU1U3hOZVBiclBpdHpjeXloYTlnU2FDSVdnTzFlamhORFVtSlNEODN3YVRNbDk1SXVHSktlQmpiTnI5WTYzZnNZYlJSdkhYcXNXZjVYcHlMVXVLd3dYZGVSd0xhWW1hczVZNmlGWTg4UmNYSGhSRWRjTXU4Zm0tTVF2UDJKRDc5X2Y4ajdnYzhqWXhvOTZzajRmMDRvMW01cnFhbHdCY0MzTkFDcncxQURxcldjSDU3Z1hqRmhkTkpYOVcyd1VaRTFDc3EzWjhROHl0WDA4YkRZenBMck5laS13enlnaC1pcHpsbnZsMGlJd0lqbmVmaDNWWWFSLVNBa0lUWlBxTG42MU5GNllNZmxYU2hlN2JYYzdiNHdZUlJOUWZNd1ZYV3l1VGpUWnd4RnJvdHFiaGtmMER1SmR4dG5qWFVzcWRkYTItUVVaYTRDYmNOamlSVkRiR2JfS3dEODltcGxvVTVuNDF6bnF6X3pPTDhLS1EwRjdIdDBFSVBLZGtSMzZjVWk3OVFSSHgyeWRvR3c0QW1RYm5KSFJHU2x6ckJjUFI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-09 18:11:28"
+      },
+      {
         "title": "劉建國爭取斗六長照教學大樓經費缺口9.08億 打造教學、研究、醫療三位一體長照基地 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQZzJvS2laU3FHcWdaMmx5WFdYQTlaVmpRVVBFVy1mYWY3S1hUcDRabGU3SVk3MGYzTjdzZTF0TWNmR1htZmU5dzV0Q1Z2UGE0Mnp5RU5oWklmcF9qUFREMEtGVlNXNzZEODA5TjFOZ183XzJ4Vjd3bkZHUmpGdnZMTkFsQ0dva2ZkeEc0Z2t0ejZwbEE2NE1zLUxRM01STzlvSEZSTUNZZzFmY1RFblNSOEZnN3FkTmJMU1lkdGpyOThYblhNWUpuNFRVNTRXeU1LTG5yREdwY2Vlb3RIRkdNUFl0b1RCeXlYSlNWSURhQ2xNbE5va3QxcEd5NzAzd2plYTBFQ0RoaGdSWGltTVM5RDNWNWFpX1dlbk9yY0lLT1lhb2ttTExJOWhHckNUVDhpSXczN181SUVWZHJjRnh2ajI0ZkFVcEN3OEtwUkx5Z21ON2VfQ2dEaGtsdnI5b2t2Y2I3TTRRcE81MzFYREY5SzB5WFpDcGFIcW5EbWZ3TEFseTZRbzVSUjdyZjQ1NnpibC1kTnRVVW5odEpYTmJ4UTZaeks4dWYtMmVyOQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-09 16:38:46"
@@ -1866,8 +1869,18 @@
         "time": "2026-07-09 16:31:00"
       },
       {
+        "title": "誰拿台塑198億？蘇治芬控對手抹黑 張鎔麒批「神經質」 - 三立新聞",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43b2k1eHlIQnRiZDdzcFZnazBudGlOTWpBM04zb05DbU0wSFhCa044TWRnSG1jakQ0OEQwTTVmbDRnRzh5Q3pJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-09 16:02:16"
+      },
+      {
         "title": "雲林醫療長照資源再升級 劉建國成功爭取斗六長照教學大樓9億經費缺口 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQN3RHUk1SVEpYMkstam5LbkNtQ2xHeVFKM2h6S0xCREh0MVJJYVEtclQ5X3VQQS05VmE1TXI3Vjc0b0drRU5xYzZmV0tpV3Q4QTBkN0dKaWgyNzEyTUF5QzBzR2h3a01BRWtkUjliaEhlNFJ4TDZ4M280UC1yWll4VGFvOElqT1JRT0tnXzhQa1FJNEgyel9DMHJCMW5zaWpLdFRabmpvTy1PbXdxQ1hFMU4yOFQ3blJNUXVhS0FKVmlGRHJMTndtSm5PQzJsZ1g5Q0pHMDZUTHR4VnRmT1N2SEdER1dhaXhnVy1WUUJNWXBkY3JkeUV1Y2p0Z0NGMm9odXJQa0tNbVVyV1A5WW16M0VjdThySlh5VmlEQnhUbkZEVi04VV83SGw3alEtcjkwdmlORktXRlo3MUlBZFc0dDB2YURETmhGbDRpa240WG1LcnMybk1tLUJENlc3dWpMcmV4LS1yVVM2cE5IRTNxdkRRem1GVVhqRVZlcG01YnhJV2FWUVNGMndmTGhVWXpheEhmSFNPVFJPVFIzeVBNSlpIT3VvZTM2R2lCcVhRbEpBTVdKRzBxRmJ2bTFoRWVCTXVfZDRuSkVVZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-09 15:36:00"
+      },
+      {
+        "title": "雲林醫療長照資源再升級 劉建國成功爭取斗六長照教學大樓9億經費缺口 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wQWdmX3lMR2pHNWw0WHc2U3hDUG1vUXJ4alBBYTBLRGlCbmNIQWVrc25od2kyNHdFYjEycmduYUtMTXV2Nmdob2VGQzN3ZXFIWHdBZlcxMzFJNms1aVkwc0FybDYtUdIBa0FVX3lxTE4zQzFsUm1XbUNxWmt5VlRTd0xBVE5fQVh3RTNWZS1NTFpvX3Q3ck1XeEUtQmJsQjFYakNVV01jLWNGVGN4RTVPczJLNEFiSHZGSWktTHVVdlY2a1lfV3dWZ25sV3ZGc3E1VmZF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-09 15:36:00"
       },
       {
@@ -2039,21 +2052,6 @@
         "title": "雲林縣議員顏旭懋涉毒！蘇治芬痛斥「天理難容」：不容讓步 - 三立新聞",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IZEYwZW1TWW9lS24xYzRSNnFINnVibU01QWZEcmpwejlhMkFRQTR3MnZLYm10UVVIQjNwUG8zVlNQUTNSQTJoY9IBTEFVX3lxTE96Tk1JVGlocGRFZ0FtdmMyd2MwbS1sdjNhNmp3TEs3Z0VPaEdQd1ZRMDQ4eWw4Ty1HbmZURVlybUdqNzFITlphaGNzNUs?oc=5",
         "time": "2026-07-08 19:05:55"
-      },
-      {
-        "title": "震驚！張榮味夫婦驚傳離婚張嘉郡証實：兩人各有交往對象| 政治 - 三立新聞",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE15NDB1cUdWUHBrM0dpRGFSQVZVMkNTUkdyQ0JVRnFtWjRSZ2xvZ2Y4NXo0NHpWVlVHXzBfdlBnLUVLb0F0aG1r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-08 19:01:25"
-      },
-      {
-        "title": "民進黨一致投票失敗！劉建國棄權原因曝光：不是豬農給壓力 - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1iUFVyS1BKMVh3TFZzRkplUkVHb0I5M1M5MXRJQ2VMLV9NeHZucnNzc2RHTmhXblAycmhmVE9wb3ZNSm8ydWJF0gFLQVVfeXFMT1JTak5WakFPWTY4Y2s5Qll5ZzJLYVBaRVhhMzFNUVp3Ql9jRzNnZEtvTDBTcjNHcmN1QVRSY1hiOWVmMFRtWGJuQXZz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-08 18:55:20"
-      },
-      {
-        "title": "立法院修正《食品衛生管理法》 雲林立委張嘉郡要求「商品揭示原產地」 挺民眾食安、護本土農民！ - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5S0hJMndza0pYZDdXbFVxeVdNT2FibEFEbmV5aExzbkV2a3NyNHQtNHpZV2d1UmdvdGRMSm1LRVpZd0ZIUC1SSDVEazZLaGtoMlZFUUFfV0Q4QkZZaHlzWUlBdGhGYlJDWHY4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-08 18:49:04"
       }
     ],
     "facebook": [
@@ -2193,8 +2191,23 @@
   },
   "event_stream": {
     "minute": [],
-    "hour": [],
+    "hour": [
+      {
+        "title": "誰拿台塑198億？蘇治芬控對手抹黑 張鎔麒批「神經質」 - 三立新聞",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43b2k1eHlIQnRiZDdzcFZnazBudGlOTWpBM04zb05DbU0wSFhCa044TWRnSG1jakQ0OEQwTTVmbDRnRzh5Q3pJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-09 16:02:16",
+        "platform": "news",
+        "risk": "黃"
+      }
+    ],
     "day": [
+      {
+        "title": "劉建國催生斗六長照教學大樓 臺大醫院斗六長照教學大樓經費缺口獲中央承諾補足 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxPTGl5RFhKVmpoQ3RNcDhkNkN1MElocTJPVWdpbXMxWHkzQ015YktvbmNVMm9YRzlJSWNXb1QyaEtMMVlpTEFrWEk5OURDTGlUbVN3MmJTN0FXU0s5cnUzbEk2X3NSTHU1U3hOZVBiclBpdHpjeXloYTlnU2FDSVdnTzFlamhORFVtSlNEODN3YVRNbDk1SXVHSktlQmpiTnI5WTYzZnNZYlJSdkhYcXNXZjVYcHlMVXVLd3dYZGVSd0xhWW1hczVZNmlGWTg4UmNYSGhSRWRjTXU4Zm0tTVF2UDJKRDc5X2Y4ajdnYzhqWXhvOTZzajRmMDRvMW01cnFhbHdCY0MzTkFDcncxQURxcldjSDU3Z1hqRmhkTkpYOVcyd1VaRTFDc3EzWjhROHl0WDA4YkRZenBMck5laS13enlnaC1pcHpsbnZsMGlJd0lqbmVmaDNWWWFSLVNBa0lUWlBxTG42MU5GNllNZmxYU2hlN2JYYzdiNHdZUlJOUWZNd1ZYV3l1VGpUWnd4RnJvdHFiaGtmMER1SmR4dG5qWFVzcWRkYTItUVVaYTRDYmNOamlSVkRiR2JfS3dEODltcGxvVTVuNDF6bnF6X3pPTDhLS1EwRjdIdDBFSVBLZGtSMzZjVWk3OVFSSHgyeWRvR3c0QW1RYm5KSFJHU2x6ckJjUFI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-09 18:11:28",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "劉建國爭取斗六長照教學大樓經費缺口9.08億 打造教學、研究、醫療三位一體長照基地 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQZzJvS2laU3FHcWdaMmx5WFdYQTlaVmpRVVBFVy1mYWY3S1hUcDRabGU3SVk3MGYzTjdzZTF0TWNmR1htZmU5dzV0Q1Z2UGE0Mnp5RU5oWklmcF9qUFREMEtGVlNXNzZEODA5TjFOZ183XzJ4Vjd3bkZHUmpGdnZMTkFsQ0dva2ZkeEc0Z2t0ejZwbEE2NE1zLUxRM01STzlvSEZSTUNZZzFmY1RFblNSOEZnN3FkTmJMU1lkdGpyOThYblhNWUpuNFRVNTRXeU1LTG5yREdwY2Vlb3RIRkdNUFl0b1RCeXlYSlNWSURhQ2xNbE5va3QxcEd5NzAzd2plYTBFQ0RoaGdSWGltTVM5RDNWNWFpX1dlbk9yY0lLT1lhb2ttTExJOWhHckNUVDhpSXczN181SUVWZHJjRnh2ajI0ZkFVcEN3OEtwUkx5Z21ON2VfQ2dEaGtsdnI5b2t2Y2I3TTRRcE81MzFYREY5SzB5WFpDcGFIcW5EbWZ3TEFseTZRbzVSUjdyZjQ1NnpibC1kTnRVVW5odEpYTmJ4UTZaeks4dWYtMmVyOQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -2212,6 +2225,13 @@
       {
         "title": "雲林醫療長照資源再升級 劉建國成功爭取斗六長照教學大樓9億經費缺口 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQN3RHUk1SVEpYMkstam5LbkNtQ2xHeVFKM2h6S0xCREh0MVJJYVEtclQ5X3VQQS05VmE1TXI3Vjc0b0drRU5xYzZmV0tpV3Q4QTBkN0dKaWgyNzEyTUF5QzBzR2h3a01BRWtkUjliaEhlNFJ4TDZ4M280UC1yWll4VGFvOElqT1JRT0tnXzhQa1FJNEgyel9DMHJCMW5zaWpLdFRabmpvTy1PbXdxQ1hFMU4yOFQ3blJNUXVhS0FKVmlGRHJMTndtSm5PQzJsZ1g5Q0pHMDZUTHR4VnRmT1N2SEdER1dhaXhnVy1WUUJNWXBkY3JkeUV1Y2p0Z0NGMm9odXJQa0tNbVVyV1A5WW16M0VjdThySlh5VmlEQnhUbkZEVi04VV83SGw3alEtcjkwdmlORktXRlo3MUlBZFc0dDB2YURETmhGbDRpa240WG1LcnMybk1tLUJENlc3dWpMcmV4LS1yVVM2cE5IRTNxdkRRem1GVVhqRVZlcG01YnhJV2FWUVNGMndmTGhVWXpheEhmSFNPVFJPVFIzeVBNSlpIT3VvZTM2R2lCcVhRbEpBTVdKRzBxRmJ2bTFoRWVCTXVfZDRuSkVVZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-09 15:36:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "雲林醫療長照資源再升級 劉建國成功爭取斗六長照教學大樓9億經費缺口 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wQWdmX3lMR2pHNWw0WHc2U3hDUG1vUXJ4alBBYTBLRGlCbmNIQWVrc25od2kyNHdFYjEycmduYUtMTXV2Nmdob2VGQzN3ZXFIWHdBZlcxMzFJNms1aVkwc0FybDYtUdIBa0FVX3lxTE4zQzFsUm1XbUNxWmt5VlRTd0xBVE5fQVh3RTNWZS1NTFpvX3Q3ck1XeEUtQmJsQjFYakNVV01jLWNGVGN4RTVPczJLNEFiSHZGSWktTHVVdlY2a1lfV3dWZ25sV3ZGc3E1VmZF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-09 15:36:00",
         "platform": "news",
         "risk": "綠"
@@ -2320,20 +2340,6 @@
         "time": "2026-07-09 07:21:30",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "蘇治芬續推國有地放領　張嘉郡提豬隻防疫三箭 - 三立新聞",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4wVFJnczZjNE5Lay02aFJVcTU0Y0xrTGNVZ3REZDdUWUtTOC15cFhKQV84VkRURGN5MkRyZGxJMWFRRHpCWlpV0gFLQVVfeXFMTWl6ckw3V3gxY2NJQ0xhU2hqUEF6ZHNQenNCb19QcGt5cl9ZUUhqUFJRaWJNOGo1UlR4VzBpMk02X1AyLVVHbGIza0JV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-09 07:14:27",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "韓國瑜雲林造勢　前縣長蘇治芬諷：市長坐嘸燒，越頭肖總統 - 三立新聞",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9NS011Nmw1dXhuWEVZcVFpcWt4enNsdGt0YzJEYjAtWlo4Q1UyRTMyRWJ6WHU0T0VEcTdwdldncm9KN09HOWxV0gFLQVVfeXFMTjRSb1h6MG9lZUFyMWdDSFVVZmRuYlNpemhTVkhxaWpoVnExcnVMZ3hLMi0xamowaEZ4SjBrNGhhUmVydGhxTUFGcEhR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-09 04:14:25",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2341,11 +2347,11 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 14
+        "count": 13
       },
       {
         "name": "斗六",
-        "count": 3
+        "count": 5
       }
     ],
     "groups": [
