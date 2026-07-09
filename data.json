@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-07-09T22:25:56.082892+00:00",
+  "generated_at": "2026-07-09T22:42:38.723664+00:00",
   "metrics": {
-    "total_24h": 36,
+    "total_24h": 40,
     "prev_24h": 52,
-    "growth_pct": -30.77,
-    "news_24h": 34,
+    "growth_pct": -23.08,
+    "news_24h": 36,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 225,
+    "total": 229,
     "prev": 156,
-    "growth_pct": 44.23,
-    "news": 202,
+    "growth_pct": 46.79,
+    "news": 204,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,17 +28,21 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 34
+      "count": 36
     },
     {
       "platform": "facebook",
+      "count": 2
+    },
+    {
+      "platform": "youtube",
       "count": 2
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 202
+      "count": 204
     },
     {
       "platform": "facebook",
@@ -46,7 +50,7 @@
     },
     {
       "platform": "youtube",
-      "count": 2
+      "count": 4
     }
   ],
   "by_hour": [
@@ -92,6 +96,14 @@
     },
     {
       "hour": "2026-07-09 23:00",
+      "count": 3
+    },
+    {
+      "hour": "2026-07-10 05:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-07-10 06:00",
       "count": 2
     }
   ],
@@ -422,13 +434,25 @@
     },
     {
       "hour": "2026-07-09 23:00",
+      "count": 3
+    },
+    {
+      "hour": "2026-07-10 05:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-07-10 06:00",
       "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 30
+      "count": 32
+    },
+    {
+      "platform": "youtube",
+      "count": 2
     },
     {
       "platform": "facebook",
@@ -436,7 +460,24 @@
     }
   ],
   "mention_latest_by_platform_24h": {
+    "youtube": [
+      {
+        "title": "劉建國爭取興建斗六長照教學大樓！教育部允諾支持－民視新聞",
+        "url": "https://www.youtube.com/watch?v=s7AAUbVZzaM",
+        "time": "2026-07-10 06:26:51"
+      },
+      {
+        "title": "劉建國爭取興建斗六長照教學大樓！　教育部允諾支持－民視新聞",
+        "url": "https://www.youtube.com/shorts/ihN_jqVqvaA",
+        "time": "2026-07-10 06:24:23"
+      }
+    ],
     "news": [
+      {
+        "title": "劉建國牽線 虎尾身障據點獲捐車輛 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BMzBiMXh3M1JMT0lQRGRaTnVxRy16WHRwM203VDVscldoSWYyWGpXZmlWLTFwcnNfb2FWQ3p3WXdFMnpKWkgxMDVUeE5YZ3VMOGViMFM0M0twVUHSAWBBVV95cUxNMnJOSEFaQmhONGEtcjlXc0ZEekJOZ19WR2R4VHdNa05IclhXS3h0ajRRWlJCUDBWZnZ5TUstbmlvN0ZucFh0UTVZTTFWRTdWRkhMeFBhYVRWUkZrNnc1Mm0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-10 05:30:00"
+      },
       {
         "title": "不只張嘉郡！國民黨立院挫咧等明年恐失去這10立委| 政治 - 三立新聞",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJN2xPMmpoQTlDUVdWdlpXdVRIakhBelFBWDdsTkQwTWtVYmxvcUdvOHF3MlBGRTQtaWlvQ2NaeUpVU0R1Q2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -446,6 +487,11 @@
         "title": "劉建國爭取興建斗六長照教學大樓! 教育部允諾支持 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQaE1NSExodmplUmJjQ2VlR3FOTTBLenhLcVlsVWRuMjZFWW5SSm5paF9UeU13b2RPT01GQ2l0S1dQSXZKbGlrQlVCNWdkS0FKZDh5cXBNTlRRRFE3aTlKa0RhMm5kZ0Fra3BCMFFKWHRqZHZvQnBaR0M0Z3RNQ0VELUk4clFqTVlJSXhCUDJFVUJzM255TjRYTTZadG5zUkJWbGF4azQyUV93cFBPbTIxQ3ZBMEpLbVVSMFV6bmVDbVVBYXpXZFJEcHdYZjlmdVY1N1dwYWd0TXRYSlVTNDlmZENnWlhRVFhNU05QakR3LXpOVEdNN2kydUpQMG1fdHdxMVdXT3Jndi1maURZX3lPWHZRVmtXNERSaWFVU1BCMEdaVGFWbG50QlNBTTVnenZmdi1Fd1BtT3JTeVFsSWItQ0k0VE1acUZtX05mWmo5SnB6c1hoRF9ZQnB1dHE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-09 23:23:07"
+      },
+      {
+        "title": "討論牆 | 違行政中立？ 斗六車站掛張嘉郡競選廣告 台鐵：依法標租 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiV0RFQnYwT2JXdkdtNkstY2FlVUM1djZNaHNkQm8wZ0Q2STdTTXVuOUNDZ1U5N21xZDRFNFRHZEdRMEVIMlNkTVZzc24tdTRFd1p1T2FWZ1paZzFPcFR2ZTA5ME4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-09 23:03:48"
       },
       {
         "title": "劉建國力拚高齡照護升級！中央力挺斗六長照教學大樓 打造雲林長照新標竿 - Yahoo新聞",
@@ -604,7 +650,11 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 30
+      "count": 32
+    },
+    {
+      "platform": "youtube",
+      "count": 2
     },
     {
       "platform": "facebook",
@@ -612,7 +662,24 @@
     }
   ],
   "alias_latest_by_platform_24h": {
+    "youtube": [
+      {
+        "title": "劉建國爭取興建斗六長照教學大樓！教育部允諾支持－民視新聞",
+        "url": "https://www.youtube.com/watch?v=s7AAUbVZzaM",
+        "time": "2026-07-10 06:26:51"
+      },
+      {
+        "title": "劉建國爭取興建斗六長照教學大樓！　教育部允諾支持－民視新聞",
+        "url": "https://www.youtube.com/shorts/ihN_jqVqvaA",
+        "time": "2026-07-10 06:24:23"
+      }
+    ],
     "news": [
+      {
+        "title": "劉建國牽線 虎尾身障據點獲捐車輛 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BMzBiMXh3M1JMT0lQRGRaTnVxRy16WHRwM203VDVscldoSWYyWGpXZmlWLTFwcnNfb2FWQ3p3WXdFMnpKWkgxMDVUeE5YZ3VMOGViMFM0M0twVUHSAWBBVV95cUxNMnJOSEFaQmhONGEtcjlXc0ZEekJOZ19WR2R4VHdNa05IclhXS3h0ajRRWlJCUDBWZnZ5TUstbmlvN0ZucFh0UTVZTTFWRTdWRkhMeFBhYVRWUkZrNnc1Mm0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-10 05:30:00"
+      },
       {
         "title": "不只張嘉郡！國民黨立院挫咧等明年恐失去這10立委| 政治 - 三立新聞",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJN2xPMmpoQTlDUVdWdlpXdVRIakhBelFBWDdsTkQwTWtVYmxvcUdvOHF3MlBGRTQtaWlvQ2NaeUpVU0R1Q2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -622,6 +689,11 @@
         "title": "劉建國爭取興建斗六長照教學大樓! 教育部允諾支持 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQaE1NSExodmplUmJjQ2VlR3FOTTBLenhLcVlsVWRuMjZFWW5SSm5paF9UeU13b2RPT01GQ2l0S1dQSXZKbGlrQlVCNWdkS0FKZDh5cXBNTlRRRFE3aTlKa0RhMm5kZ0Fra3BCMFFKWHRqZHZvQnBaR0M0Z3RNQ0VELUk4clFqTVlJSXhCUDJFVUJzM255TjRYTTZadG5zUkJWbGF4azQyUV93cFBPbTIxQ3ZBMEpLbVVSMFV6bmVDbVVBYXpXZFJEcHdYZjlmdVY1N1dwYWd0TXRYSlVTNDlmZENnWlhRVFhNU05QakR3LXpOVEdNN2kydUpQMG1fdHdxMVdXT3Jndi1maURZX3lPWHZRVmtXNERSaWFVU1BCMEdaVGFWbG50QlNBTTVnenZmdi1Fd1BtT3JTeVFsSWItQ0k0VE1acUZtX05mWmo5SnB6c1hoRF9ZQnB1dHE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-09 23:23:07"
+      },
+      {
+        "title": "討論牆 | 違行政中立？ 斗六車站掛張嘉郡競選廣告 台鐵：依法標租 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiV0RFQnYwT2JXdkdtNkstY2FlVUM1djZNaHNkQm8wZ0Q2STdTTXVuOUNDZ1U5N21xZDRFNFRHZEdRMEVIMlNkTVZzc24tdTRFd1p1T2FWZ1paZzFPcFR2ZTA5ME4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-09 23:03:48"
       },
       {
         "title": "劉建國力拚高齡照護升級！中央力挺斗六長照教學大樓 打造雲林長照新標竿 - Yahoo新聞",
@@ -778,14 +850,19 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 7,
-    "劉建國": 25
+    "張嘉郡": 8,
+    "劉建國": 28
   },
   "mention_compare_7d": {
-    "張嘉郡": 77,
-    "劉建國": 88
+    "張嘉郡": 78,
+    "劉建國": 91
   },
   "top_news": [
+    {
+      "title": "劉建國牽線 虎尾身障據點獲捐車輛 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BMzBiMXh3M1JMT0lQRGRaTnVxRy16WHRwM203VDVscldoSWYyWGpXZmlWLTFwcnNfb2FWQ3p3WXdFMnpKWkgxMDVUeE5YZ3VMOGViMFM0M0twVUHSAWBBVV95cUxNMnJOSEFaQmhONGEtcjlXc0ZEekJOZ19WR2R4VHdNa05IclhXS3h0ajRRWlJCUDBWZnZ5TUstbmlvN0ZucFh0UTVZTTFWRTdWRkhMeFBhYVRWUkZrNnc1Mm0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-10 05:30:00"
+    },
     {
       "title": "不只張嘉郡！國民黨立院挫咧等明年恐失去這10立委| 政治 - 三立新聞",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJN2xPMmpoQTlDUVdWdlpXdVRIakhBelFBWDdsTkQwTWtVYmxvcUdvOHF3MlBGRTQtaWlvQ2NaeUpVU0R1Q2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -795,6 +872,11 @@
       "title": "劉建國爭取興建斗六長照教學大樓! 教育部允諾支持 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQaE1NSExodmplUmJjQ2VlR3FOTTBLenhLcVlsVWRuMjZFWW5SSm5paF9UeU13b2RPT01GQ2l0S1dQSXZKbGlrQlVCNWdkS0FKZDh5cXBNTlRRRFE3aTlKa0RhMm5kZ0Fra3BCMFFKWHRqZHZvQnBaR0M0Z3RNQ0VELUk4clFqTVlJSXhCUDJFVUJzM255TjRYTTZadG5zUkJWbGF4azQyUV93cFBPbTIxQ3ZBMEpLbVVSMFV6bmVDbVVBYXpXZFJEcHdYZjlmdVY1N1dwYWd0TXRYSlVTNDlmZENnWlhRVFhNU05QakR3LXpOVEdNN2kydUpQMG1fdHdxMVdXT3Jndi1maURZX3lPWHZRVmtXNERSaWFVU1BCMEdaVGFWbG50QlNBTTVnenZmdi1Fd1BtT3JTeVFsSWItQ0k0VE1acUZtX05mWmo5SnB6c1hoRF9ZQnB1dHE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-09 23:23:07"
+    },
+    {
+      "title": "討論牆 | 違行政中立？ 斗六車站掛張嘉郡競選廣告 台鐵：依法標租 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiV0RFQnYwT2JXdkdtNkstY2FlVUM1djZNaHNkQm8wZ0Q2STdTTXVuOUNDZ1U5N21xZDRFNFRHZEdRMEVIMlNkTVZzc24tdTRFd1p1T2FWZ1paZzFPcFR2ZTA5ME4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-09 23:03:48"
     },
     {
       "title": "劉建國力拚高齡照護升級！中央力挺斗六長照教學大樓 打造雲林長照新標竿 - Yahoo新聞",
@@ -835,19 +917,14 @@
       "title": "劉建國爭取斗六長照教學大樓經費缺口9.08億 打造教學、研究、醫療三位一體長照基地 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQZzJvS2laU3FHcWdaMmx5WFdYQTlaVmpRVVBFVy1mYWY3S1hUcDRabGU3SVk3MGYzTjdzZTF0TWNmR1htZmU5dzV0Q1Z2UGE0Mnp5RU5oWklmcF9qUFREMEtGVlNXNzZEODA5TjFOZ183XzJ4Vjd3bkZHUmpGdnZMTkFsQ0dva2ZkeEc0Z2t0ejZwbEE2NE1zLUxRM01STzlvSEZSTUNZZzFmY1RFblNSOEZnN3FkTmJMU1lkdGpyOThYblhNWUpuNFRVNTRXeU1LTG5yREdwY2Vlb3RIRkdNUFl0b1RCeXlYSlNWSURhQ2xNbE5va3QxcEd5NzAzd2plYTBFQ0RoaGdSWGltTVM5RDNWNWFpX1dlbk9yY0lLT1lhb2ttTExJOWhHckNUVDhpSXczN181SUVWZHJjRnh2ajI0ZkFVcEN3OEtwUkx5Z21ON2VfQ2dEaGtsdnI5b2t2Y2I3TTRRcE81MzFYREY5SzB5WFpDcGFIcW5EbWZ3TEFseTZRbzVSUjdyZjQ1NnpibC1kTnRVVW5odEpYTmJ4UTZaeks4dWYtMmVyOQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-09 16:38:46"
-    },
-    {
-      "title": "立委劉建國爭取斗六長照教學大樓9.08億元 打造雲林教學、研究、醫療三位一體長照基地 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWTU9BRG1JTXlMODFkUVc1Wm9GeTEtdE84RzlVdUlJZzY1TGZYUU9ZUFFSX1VuZm5WaFBHd2diZHVBc0JyX2pFNU1mOXREYk1VY3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-09 16:31:00"
-    },
-    {
-      "title": "誰拿台塑198億？蘇治芬控對手抹黑 張鎔麒批「神經質」 - 三立新聞",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43b2k1eHlIQnRiZDdzcFZnazBudGlOTWpBM04zb05DbU0wSFhCa044TWRnSG1jakQ0OEQwTTVmbDRnRzh5Q3pJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-09 16:02:16"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "劉建國牽線 虎尾身障據點獲捐車輛 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BMzBiMXh3M1JMT0lQRGRaTnVxRy16WHRwM203VDVscldoSWYyWGpXZmlWLTFwcnNfb2FWQ3p3WXdFMnpKWkgxMDVUeE5YZ3VMOGViMFM0M0twVUHSAWBBVV95cUxNMnJOSEFaQmhONGEtcjlXc0ZEekJOZ19WR2R4VHdNa05IclhXS3h0ajRRWlJCUDBWZnZ5TUstbmlvN0ZucFh0UTVZTTFWRTdWRkhMeFBhYVRWUkZrNnc1Mm0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-10 05:30:00"
+    },
     {
       "title": "不只張嘉郡！國民黨立院挫咧等明年恐失去這10立委| 政治 - 三立新聞",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJN2xPMmpoQTlDUVdWdlpXdVRIakhBelFBWDdsTkQwTWtVYmxvcUdvOHF3MlBGRTQtaWlvQ2NaeUpVU0R1Q2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -857,6 +934,11 @@
       "title": "劉建國爭取興建斗六長照教學大樓! 教育部允諾支持 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQaE1NSExodmplUmJjQ2VlR3FOTTBLenhLcVlsVWRuMjZFWW5SSm5paF9UeU13b2RPT01GQ2l0S1dQSXZKbGlrQlVCNWdkS0FKZDh5cXBNTlRRRFE3aTlKa0RhMm5kZ0Fra3BCMFFKWHRqZHZvQnBaR0M0Z3RNQ0VELUk4clFqTVlJSXhCUDJFVUJzM255TjRYTTZadG5zUkJWbGF4azQyUV93cFBPbTIxQ3ZBMEpLbVVSMFV6bmVDbVVBYXpXZFJEcHdYZjlmdVY1N1dwYWd0TXRYSlVTNDlmZENnWlhRVFhNU05QakR3LXpOVEdNN2kydUpQMG1fdHdxMVdXT3Jndi1maURZX3lPWHZRVmtXNERSaWFVU1BCMEdaVGFWbG50QlNBTTVnenZmdi1Fd1BtT3JTeVFsSWItQ0k0VE1acUZtX05mWmo5SnB6c1hoRF9ZQnB1dHE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-09 23:23:07"
+    },
+    {
+      "title": "討論牆 | 違行政中立？ 斗六車站掛張嘉郡競選廣告 台鐵：依法標租 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiV0RFQnYwT2JXdkdtNkstY2FlVUM1djZNaHNkQm8wZ0Q2STdTTXVuOUNDZ1U5N21xZDRFNFRHZEdRMEVIMlNkTVZzc24tdTRFd1p1T2FWZ1paZzFPcFR2ZTA5ME4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-09 23:03:48"
     },
     {
       "title": "劉建國力拚高齡照護升級！中央力挺斗六長照教學大樓 打造雲林長照新標竿 - Yahoo新聞",
@@ -937,16 +1019,6 @@
       "title": "【毒油風暴】綠委也不爽！劉建國批食藥署「慢半拍」 林淑芬怒指食安法遭架空 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1weUVpMlhudTYzZ1JjUHcyUnRObTFjdUhrQWtYRHdudmdkbVN1S3JobWY4ajhQTHVVcHpHMTZnNm1WSnYxT0Q3WkVieUVYY0xuc1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-09 10:10:00"
-    },
-    {
-      "title": "【毒油風暴】綠委也不爽！劉建國批食藥署「慢半拍」 林淑芬怒指食安法遭架空 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV29PSGRqWFRGa2JZUDJKa01IWFN4MFltb2RrakhjcVhKTFBnZFowUTMzWU83ZGVhUFk0eXAyR2tHSk00dlBVRWtnSTJxSllBVWRJam1nQTlaLXZ1Y3kzdy1NeW9ISzBtVkU5blFUZGdhWmVfNTVIVmNNNGtUZmpubW8wdGxyZkk3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-09 10:10:00"
-    },
-    {
-      "title": "劉建國牽線募愛心！4名善心人士合捐溫馨巴士 助身障朋友圓交通夢 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xelVXaEYyWlpEVGRSdVZiQUVPNUxIcERTR0dFQjgxTUVTdkFhME1oTjVvOC1pa202eWNTVzd6SXpXeUFIOFVoNDZFZlVmcnZWcHA5anNFM0NrVXRPNlRxLVI3LTPSAWpBVV95cUxNWWx3UTYyTWZsRm5IRWNueXZqLUJlTmNNeFV6bjlzNHBwSVF1WS1VV0JGbHB6My1FQVBnU0V3aWxuZWw0Qmk2OTEzbHN5MG1pWnJpM0VHWERkeUFoeTZ4MDJIVHNWMTcxNVl3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-09 09:49:07"
     }
   ],
   "latest_facebook_20": [
@@ -1053,6 +1125,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "劉建國牽線 虎尾身障據點獲捐車輛 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BMzBiMXh3M1JMT0lQRGRaTnVxRy16WHRwM203VDVscldoSWYyWGpXZmlWLTFwcnNfb2FWQ3p3WXdFMnpKWkgxMDVUeE5YZ3VMOGViMFM0M0twVUHSAWBBVV95cUxNMnJOSEFaQmhONGEtcjlXc0ZEekJOZ19WR2R4VHdNa05IclhXS3h0ajRRWlJCUDBWZnZ5TUstbmlvN0ZucFh0UTVZTTFWRTdWRkhMeFBhYVRWUkZrNnc1Mm0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-10 05:30:00"
+    },
+    {
       "title": "不只張嘉郡！國民黨立院挫咧等明年恐失去這10立委| 政治 - 三立新聞",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJN2xPMmpoQTlDUVdWdlpXdVRIakhBelFBWDdsTkQwTWtVYmxvcUdvOHF3MlBGRTQtaWlvQ2NaeUpVU0R1Q2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-09 23:25:50"
@@ -1061,6 +1138,11 @@
       "title": "劉建國爭取興建斗六長照教學大樓! 教育部允諾支持 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQaE1NSExodmplUmJjQ2VlR3FOTTBLenhLcVlsVWRuMjZFWW5SSm5paF9UeU13b2RPT01GQ2l0S1dQSXZKbGlrQlVCNWdkS0FKZDh5cXBNTlRRRFE3aTlKa0RhMm5kZ0Fra3BCMFFKWHRqZHZvQnBaR0M0Z3RNQ0VELUk4clFqTVlJSXhCUDJFVUJzM255TjRYTTZadG5zUkJWbGF4azQyUV93cFBPbTIxQ3ZBMEpLbVVSMFV6bmVDbVVBYXpXZFJEcHdYZjlmdVY1N1dwYWd0TXRYSlVTNDlmZENnWlhRVFhNU05QakR3LXpOVEdNN2kydUpQMG1fdHdxMVdXT3Jndi1maURZX3lPWHZRVmtXNERSaWFVU1BCMEdaVGFWbG50QlNBTTVnenZmdi1Fd1BtT3JTeVFsSWItQ0k0VE1acUZtX05mWmo5SnB6c1hoRF9ZQnB1dHE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-09 23:23:07"
+    },
+    {
+      "title": "討論牆 | 違行政中立？ 斗六車站掛張嘉郡競選廣告 台鐵：依法標租 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiV0RFQnYwT2JXdkdtNkstY2FlVUM1djZNaHNkQm8wZ0Q2STdTTXVuOUNDZ1U5N21xZDRFNFRHZEdRMEVIMlNkTVZzc24tdTRFd1p1T2FWZ1paZzFPcFR2ZTA5ME4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-09 23:03:48"
     },
     {
       "title": "劉建國力拚高齡照護升級！中央力挺斗六長照教學大樓 打造雲林長照新標竿 - Yahoo新聞",
@@ -1141,16 +1223,6 @@
       "title": "【毒油風暴】綠委也不爽！劉建國批食藥署「慢半拍」 林淑芬怒指食安法遭架空 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1weUVpMlhudTYzZ1JjUHcyUnRObTFjdUhrQWtYRHdudmdkbVN1S3JobWY4ajhQTHVVcHpHMTZnNm1WSnYxT0Q3WkVieUVYY0xuc1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-09 10:10:00"
-    },
-    {
-      "title": "【毒油風暴】綠委也不爽！劉建國批食藥署「慢半拍」 林淑芬怒指食安法遭架空 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV29PSGRqWFRGa2JZUDJKa01IWFN4MFltb2RrakhjcVhKTFBnZFowUTMzWU83ZGVhUFk0eXAyR2tHSk00dlBVRWtnSTJxSllBVWRJam1nQTlaLXZ1Y3kzdy1NeW9ISzBtVkU5blFUZGdhWmVfNTVIVmNNNGtUZmpubW8wdGxyZkk3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-09 10:10:00"
-    },
-    {
-      "title": "劉建國牽線募愛心！4名善心人士合捐溫馨巴士 助身障朋友圓交通夢 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xelVXaEYyWlpEVGRSdVZiQUVPNUxIcERTR0dFQjgxTUVTdkFhME1oTjVvOC1pa202eWNTVzd6SXpXeUFIOFVoNDZFZlVmcnZWcHA5anNFM0NrVXRPNlRxLVI3LTPSAWpBVV95cUxNWWx3UTYyTWZsRm5IRWNueXZqLUJlTmNNeFV6bjlzNHBwSVF1WS1VV0JGbHB6My1FQVBnU0V3aWxuZWw0Qmk2OTEzbHN5MG1pWnJpM0VHWERkeUFoeTZ4MDJIVHNWMTcxNVl3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-09 09:49:07"
     }
   ],
   "person_sections": {
@@ -1264,6 +1336,11 @@
           "time": "2026-07-09 23:25:50"
         },
         {
+          "title": "討論牆 | 違行政中立？ 斗六車站掛張嘉郡競選廣告 台鐵：依法標租 - LINE TODAY",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiV0RFQnYwT2JXdkdtNkstY2FlVUM1djZNaHNkQm8wZ0Q2STdTTXVuOUNDZ1U5N21xZDRFNFRHZEdRMEVIMlNkTVZzc24tdTRFd1p1T2FWZ1paZzFPcFR2ZTA5ME4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-09 23:03:48"
+        },
+        {
           "title": "違行政中立？ 斗六車站掛張嘉郡競選廣告台鐵：依法標租- 政治 - 華視新聞網",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VNHdtNjgxRzNkazZSRGJoeTB4WUh6aE13R1dWeEI1djNHREh6S0d4Mm9kMTBNWk5sRl8wQ2p3OGEwZThpQXFjRFdqbVFfZVBVVjRTd2Fwbl9wYndCdi1pc20yRGpsZ3BqRWxiOGFaUjlidw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-09 20:00:00"
@@ -1352,11 +1429,6 @@
           "title": "修法杜絕洗產地 張嘉郡：挺民眾食安、護本土農民 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQRDA3Ym1uRDhWZE83NjluM09BNHFwVEN5WEhCT2U3eTVDcmRYMVl1UFRXR1RDYW53NFozRXZVS3lfU2ZsZTRXd21oYkRCdmxMckVVMG5TVGtLR2xKWHd2V0EyYkhXRDVuTWVSSjBaRXQ1cDlrQ05HYmR4cWlPUVhnRHhsXzZIdEl0TEFrSlpweVhIWjh4NDhGY1hUOS1LQ1dhdkhIM3NjMFQ0eUpjcTBPMkQ2YWhlMHhaekowVEFfTGVkVzJIVFZqOHYySDZtRkdPQTJYRUlZLUVYd1FYQ3p3OXhjWkRadGlXSV9aZDVJV190WER4bE02UFg0a3h4ZTMyd3Foa0x3VllOcVRHWWhic3E0bVNJWndHUy1rYzA5RVdVbGVnZzA4em9pWU5BOXRKZ3VkT2h4QS1BNGVVRTRZUFlPaU5XRHM?oc=5",
           "time": "2026-07-08 16:49:12"
-        },
-        {
-          "title": "產地標台灣原料實為進口 張嘉郡轟「實質轉型」淪文字遊戲 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOc2UxTTBidEd6QXd2dnVBb2JWVlJHWHpjT3QyUE1SMUpYc1ktZTk5Qk9oSGJKZ1hPQTZuaHVERUFESVFWMW0zekZzc0hOdWhiSjdzeW56VEtJT0Ywak9FSlJqdlBIUm5CeEtOSFBIa0dqSlFJWmd6bFVza0xvLWlIUVFzVm9fUm1jSklITjdINV9KYXF5cWxKODk3UmQ1Q0dabFU2cy1ISFdwbEItS0RZWWpBYjRXaGhBODFlS2dNejNqOVA5TG0zcHB3UzVuYmhWdlcwMVc3cDB4cDdpWmlYY1NVeFcxVHFnOXA3TElQc05rUDdZV3dYYVdvdTJwT3Q2c1JTWGhDUG5mU2MtZjhlNkRzdGtBQmJqV1lwZ2t6WTYwSmw5b19XRzZpXzJRWkV5Q2ExVWNBYy1Kbk41eS1CdWlVTWZhTlJhUzNmb1haaklPUnpFZ3ZKVEdRQVlvNVZXaG9WYm5WR0pENXU4U3hmWFZmQTdSVHM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-08 14:59:30"
         }
       ]
     },
@@ -1465,6 +1537,11 @@
       ],
       "news": [
         {
+          "title": "劉建國牽線 虎尾身障據點獲捐車輛 - 自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BMzBiMXh3M1JMT0lQRGRaTnVxRy16WHRwM203VDVscldoSWYyWGpXZmlWLTFwcnNfb2FWQ3p3WXdFMnpKWkgxMDVUeE5YZ3VMOGViMFM0M0twVUHSAWBBVV95cUxNMnJOSEFaQmhONGEtcjlXc0ZEekJOZ19WR2R4VHdNa05IclhXS3h0ajRRWlJCUDBWZnZ5TUstbmlvN0ZucFh0UTVZTTFWRTdWRkhMeFBhYVRWUkZrNnc1Mm0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-10 05:30:00"
+        },
+        {
           "title": "劉建國爭取興建斗六長照教學大樓! 教育部允諾支持 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQaE1NSExodmplUmJjQ2VlR3FOTTBLenhLcVlsVWRuMjZFWW5SSm5paF9UeU13b2RPT01GQ2l0S1dQSXZKbGlrQlVCNWdkS0FKZDh5cXBNTlRRRFE3aTlKa0RhMm5kZ0Fra3BCMFFKWHRqZHZvQnBaR0M0Z3RNQ0VELUk4clFqTVlJSXhCUDJFVUJzM255TjRYTTZadG5zUkJWbGF4azQyUV93cFBPbTIxQ3ZBMEpLbVVSMFV6bmVDbVVBYXpXZFJEcHdYZjlmdVY1N1dwYWd0TXRYSlVTNDlmZENnWlhRVFhNU05QakR3LXpOVEdNN2kydUpQMG1fdHdxMVdXT3Jndi1maURZX3lPWHZRVmtXNERSaWFVU1BCMEdaVGFWbG50QlNBTTVnenZmdi1Fd1BtT3JTeVFsSWItQ0k0VE1acUZtX05mWmo5SnB6c1hoRF9ZQnB1dHE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-09 23:23:07"
@@ -1558,17 +1635,17 @@
           "title": "劉建國牽線募愛心！4名善心人士合捐溫馨巴士 助身障朋友圓交通夢 - 自由時報",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZbHdRNjJNZmxGbkhFY255dmotQmVOY014VXpuOXM0cHBJUXVZLVVXQkZscHozLUVBUGdTRXdpbG5lbDRCaTY5MTNsc3kwbWlacmkzRUdYRGR5QWh5NngwMkhUc1YxNzE1WXfSAWpBVV95cUxNWWx3UTYyTWZsRm5IRWNueXZqLUJlTmNNeFV6bjlzNHBwSVF1WS1VV0JGbHB6My1FQVBnU0V3aWxuZWw0Qmk2OTEzbHN5MG1pWnJpM0VHWERkeUFoeTZ4MDJIVHNWMTcxNVl3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-09 09:49:07"
-        },
-        {
-          "title": "中聯毒油處置慢半拍？ 劉建國轟食藥署拖近1週：徹查官員疏失 | CTWANT - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RTXVRSnpTYmR2bUF3Z2pMOUlGWTBkYktjWDFmVVNYcHZDRnQzNnIteDVGTEZRR1BhMUNVektFYkNPRnZpWF95bGQ5cWNESl9WMVdLQ2ZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-09 09:37:35"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國牽線 虎尾身障據點獲捐車輛 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BMzBiMXh3M1JMT0lQRGRaTnVxRy16WHRwM203VDVscldoSWYyWGpXZmlWLTFwcnNfb2FWQ3p3WXdFMnpKWkgxMDVUeE5YZ3VMOGViMFM0M0twVUHSAWBBVV95cUxNMnJOSEFaQmhONGEtcjlXc0ZEekJOZ19WR2R4VHdNa05IclhXS3h0ajRRWlJCUDBWZnZ5TUstbmlvN0ZucFh0UTVZTTFWRTdWRkhMeFBhYVRWUkZrNnc1Mm0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-10 05:30:00"
+      },
       {
         "title": "不只張嘉郡！國民黨立院挫咧等明年恐失去這10立委| 政治 - 三立新聞",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJN2xPMmpoQTlDUVdWdlpXdVRIakhBelFBWDdsTkQwTWtVYmxvcUdvOHF3MlBGRTQtaWlvQ2NaeUpVU0R1Q2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1578,6 +1655,11 @@
         "title": "劉建國爭取興建斗六長照教學大樓! 教育部允諾支持 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQaE1NSExodmplUmJjQ2VlR3FOTTBLenhLcVlsVWRuMjZFWW5SSm5paF9UeU13b2RPT01GQ2l0S1dQSXZKbGlrQlVCNWdkS0FKZDh5cXBNTlRRRFE3aTlKa0RhMm5kZ0Fra3BCMFFKWHRqZHZvQnBaR0M0Z3RNQ0VELUk4clFqTVlJSXhCUDJFVUJzM255TjRYTTZadG5zUkJWbGF4azQyUV93cFBPbTIxQ3ZBMEpLbVVSMFV6bmVDbVVBYXpXZFJEcHdYZjlmdVY1N1dwYWd0TXRYSlVTNDlmZENnWlhRVFhNU05QakR3LXpOVEdNN2kydUpQMG1fdHdxMVdXT3Jndi1maURZX3lPWHZRVmtXNERSaWFVU1BCMEdaVGFWbG50QlNBTTVnenZmdi1Fd1BtT3JTeVFsSWItQ0k0VE1acUZtX05mWmo5SnB6c1hoRF9ZQnB1dHE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-09 23:23:07"
+      },
+      {
+        "title": "討論牆 | 違行政中立？ 斗六車站掛張嘉郡競選廣告 台鐵：依法標租 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiV0RFQnYwT2JXdkdtNkstY2FlVUM1djZNaHNkQm8wZ0Q2STdTTXVuOUNDZ1U5N21xZDRFNFRHZEdRMEVIMlNkTVZzc24tdTRFd1p1T2FWZ1paZzFPcFR2ZTA5ME4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-09 23:03:48"
       },
       {
         "title": "劉建國力拚高齡照護升級！中央力挺斗六長照教學大樓 打造雲林長照新標竿 - Yahoo新聞",
@@ -1751,10 +1833,27 @@
         "url": "https://news.google.com/rss/articles/CBMi-gdBVV95cUxPQkdZRUZXbXBBWXQtVlBZQXB4UEg5bDZGMlFRVlloTjNnUlJzd21tcmRaSG56UFpQcHR1T0RuaVJFdk9zVjV6eHhpakc4VkVydGtMbFViTzBfOWl3Ynl0WUNQZ0pRVEh2cFh6NVEwODFEU3ZEa1lmYzFuakRyZVFMWEx5MTRxY2xsajJZOU5Zd3JBRlFZbWZqWlNOOUdwSlhFTmk0Ykk1RXkzTnl5VXNxX0pOaWpWMVY0Vi0zY1JaT2RvS3Jka1dMVXVxdHY4QjJEWW5ZazNGVXBMTXQ0d2VfWWxvb3hKTkhadUxaT2N0a0haQ1RRbURkSGlUWmJXRGpGZ09xT016OGdXb1I4LXJVOHUwTHpmT3NJNkZ0MXhnZk5HWkJtWkhtWnVuUXRoQnQwOHlQYzNlTl9OVFdva0x0NFpKYjVRU05wZ0NXTDRQNUowZmRYSEdJN3MzRWszaktQN3NSbVZ3U1JYcTdUWko2cFJmWjFGNEpwSE1DeEI2MFVZVFdHb1NUMDdza3lFcXNhalJRQ21aVE9JbE9GRmhxQzBKcU5QUkxfNDNmS2UtWXh3Q1F6cGdZWElJUU1fRVhyRmdsWTV2RXBJMEFlMVVtQUdyNExjVnhNanhoS3NwRXlwVVp0SEwyNXBsaUNIcEs3M0FwZk9LZ1Z2a1BTcHM2NGZ3aHllNUdvaXVqOVZxTGlQVGVVcjFLN01xbGhrX29uREVsby1KVmZmMll2bnpidkZrX2txMGdENHRMQUhPVVBuY2t4akFmMHhyWGduZm5ZLXl4UnRxaTdwRXhySC1rc3pCMHhjazJpSUllZVhLeUFIc2RreWgxRGt6RFJlYUVRelpEdnRrSTRpaEhXM2ZwZjhYazZGMk1rV0FoTVM5dXBKMWdUYUxHVmRVMzNMRmlsQUQ5d2tMUU4tbF9PVF94eFc4ckdzU0V6bnEzbUZkeVhiQW1Pa3RkQUpjSVluX2E0ZDhfcG90djBkdXA3Wmc2elNFRUpXbVQwcXA5WUtCc2l1MzlvSHdvYXdsMEVlVG01Mzg0WDRTNTNHamRmUHlKVE11cGdOMW5oVG5rYmQzVUcta25YVXhDY2JOUjRYYzREd1gwY0ticjY3LVR5azZsT2FaQVlDRTZiX2FYdmtmNmoySkRUekVaMThrOG8yOHluMnkwYzN0UFU5bF9TYnMyenptNk8wLVI1UVFIanRzLXNSQ0lob1BOMjREWkI0eXF3ZXdLRF8wQ3VLXzVmRUotei1Pc0hJLWlGQk1BSFBwQ3F3Z0NDUWNzTlN0bk1iRUxXRUNVUHd6Y1hrRlZQZDRtVm1TcjhuaXREbm5fZjhFXzBZcWVBanBHTEZR",
         "time": "2026-07-09 09:36:09"
       }
+    ],
+    "youtube": [
+      {
+        "title": "劉建國爭取興建斗六長照教學大樓！教育部允諾支持－民視新聞",
+        "url": "https://www.youtube.com/watch?v=s7AAUbVZzaM",
+        "time": "2026-07-10 06:26:51"
+      },
+      {
+        "title": "劉建國爭取興建斗六長照教學大樓！　教育部允諾支持－民視新聞",
+        "url": "https://www.youtube.com/shorts/ihN_jqVqvaA",
+        "time": "2026-07-10 06:24:23"
+      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "劉建國牽線 虎尾身障據點獲捐車輛 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BMzBiMXh3M1JMT0lQRGRaTnVxRy16WHRwM203VDVscldoSWYyWGpXZmlWLTFwcnNfb2FWQ3p3WXdFMnpKWkgxMDVUeE5YZ3VMOGViMFM0M0twVUHSAWBBVV95cUxNMnJOSEFaQmhONGEtcjlXc0ZEekJOZ19WR2R4VHdNa05IclhXS3h0ajRRWlJCUDBWZnZ5TUstbmlvN0ZucFh0UTVZTTFWRTdWRkhMeFBhYVRWUkZrNnc1Mm0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-10 05:30:00"
+      },
       {
         "title": "不只張嘉郡！國民黨立院挫咧等明年恐失去這10立委| 政治 - 三立新聞",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJN2xPMmpoQTlDUVdWdlpXdVRIakhBelFBWDdsTkQwTWtVYmxvcUdvOHF3MlBGRTQtaWlvQ2NaeUpVU0R1Q2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1764,6 +1863,11 @@
         "title": "劉建國爭取興建斗六長照教學大樓! 教育部允諾支持 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQaE1NSExodmplUmJjQ2VlR3FOTTBLenhLcVlsVWRuMjZFWW5SSm5paF9UeU13b2RPT01GQ2l0S1dQSXZKbGlrQlVCNWdkS0FKZDh5cXBNTlRRRFE3aTlKa0RhMm5kZ0Fra3BCMFFKWHRqZHZvQnBaR0M0Z3RNQ0VELUk4clFqTVlJSXhCUDJFVUJzM255TjRYTTZadG5zUkJWbGF4azQyUV93cFBPbTIxQ3ZBMEpLbVVSMFV6bmVDbVVBYXpXZFJEcHdYZjlmdVY1N1dwYWd0TXRYSlVTNDlmZENnWlhRVFhNU05QakR3LXpOVEdNN2kydUpQMG1fdHdxMVdXT3Jndi1maURZX3lPWHZRVmtXNERSaWFVU1BCMEdaVGFWbG50QlNBTTVnenZmdi1Fd1BtT3JTeVFsSWItQ0k0VE1acUZtX05mWmo5SnB6c1hoRF9ZQnB1dHE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-09 23:23:07"
+      },
+      {
+        "title": "討論牆 | 違行政中立？ 斗六車站掛張嘉郡競選廣告 台鐵：依法標租 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiV0RFQnYwT2JXdkdtNkstY2FlVUM1djZNaHNkQm8wZ0Q2STdTTXVuOUNDZ1U5N21xZDRFNFRHZEdRMEVIMlNkTVZzc24tdTRFd1p1T2FWZ1paZzFPcFR2ZTA5ME4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-09 23:03:48"
       },
       {
         "title": "劉建國力拚高齡照護升級！中央力挺斗六長照教學大樓 打造雲林長照新標竿 - Yahoo新聞",
@@ -1944,16 +2048,6 @@
         "title": "兼任司機津貼遭批「不合時宜」 蘇治芬籲台電檢討| 政治 - 三立新聞",
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE05MWh2TWcxN3VfYTZsVlpvS0NmNk5ZcUtRMi1WWi1qSVlnTXpHdFhVUHgwcmFLdmUtX3Z5cEtVa0xwQkd6bmZn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-09 01:29:40"
-      },
-      {
-        "title": "兼任司機津貼遭批「不合時宜」 蘇治芬籲台電檢討| 政治 - 三立新聞",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE05MWh2TWcxN3VfYTZsVlpvS0NmNk5ZcUtRMi1WWi1qSVlnTXpHdFhVUHgwcmFLdmUtX3Z5cEtVa0xwQkd6bmZn?oc=5",
-        "time": "2026-07-09 01:29:40"
-      },
-      {
-        "title": "隔空交戰？對手稱總統要來才改變車隊路線…蘇治芬：豪X話 - 三立新聞",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ob1RvZjhpbjhlMXF2YlU4XzN2YmJueXFhQzBVaV9nMFNhcDUtUlFYZUV6aXdNcE1ZV1Vsa29xVGZVdkwycHNr0gFLQVVfeXFMTVJ4TTRBOHBhaGpxQ0lROVZtZFNrZ3QxZVV1X2xTMlk1Z2ZGdTVxektVcGtsajBxRFJWMy12TjZpOFJxT2FVZEN5VVZr?oc=5",
-        "time": "2026-07-09 01:05:38"
       }
     ],
     "facebook": [
@@ -2065,6 +2159,16 @@
     ],
     "youtube": [
       {
+        "title": "劉建國爭取興建斗六長照教學大樓！教育部允諾支持－民視新聞",
+        "url": "https://www.youtube.com/watch?v=s7AAUbVZzaM",
+        "time": "2026-07-10 06:26:51"
+      },
+      {
+        "title": "劉建國爭取興建斗六長照教學大樓！　教育部允諾支持－民視新聞",
+        "url": "https://www.youtube.com/shorts/ihN_jqVqvaA",
+        "time": "2026-07-10 06:24:23"
+      },
+      {
         "title": "支持行政院版無人機條例三大理由之三，藍白版本違反預算法，侵犯行政權！",
         "url": "https://www.youtube.com/shorts/ith_zK_CT7s",
         "time": "2026-07-03 20:30:01"
@@ -2089,6 +2193,27 @@
     ],
     "day": [
       {
+        "title": "劉建國爭取興建斗六長照教學大樓！教育部允諾支持－民視新聞",
+        "url": "https://www.youtube.com/watch?v=s7AAUbVZzaM",
+        "time": "2026-07-10 06:26:51",
+        "platform": "youtube",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國爭取興建斗六長照教學大樓！　教育部允諾支持－民視新聞",
+        "url": "https://www.youtube.com/shorts/ihN_jqVqvaA",
+        "time": "2026-07-10 06:24:23",
+        "platform": "youtube",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國牽線 虎尾身障據點獲捐車輛 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BMzBiMXh3M1JMT0lQRGRaTnVxRy16WHRwM203VDVscldoSWYyWGpXZmlWLTFwcnNfb2FWQ3p3WXdFMnpKWkgxMDVUeE5YZ3VMOGViMFM0M0twVUHSAWBBVV95cUxNMnJOSEFaQmhONGEtcjlXc0ZEekJOZ19WR2R4VHdNa05IclhXS3h0ajRRWlJCUDBWZnZ5TUstbmlvN0ZucFh0UTVZTTFWRTdWRkhMeFBhYVRWUkZrNnc1Mm0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-10 05:30:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "不只張嘉郡！國民黨立院挫咧等明年恐失去這10立委| 政治 - 三立新聞",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJN2xPMmpoQTlDUVdWdlpXdVRIakhBelFBWDdsTkQwTWtVYmxvcUdvOHF3MlBGRTQtaWlvQ2NaeUpVU0R1Q2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-09 23:25:50",
@@ -2099,6 +2224,13 @@
         "title": "劉建國爭取興建斗六長照教學大樓! 教育部允諾支持 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQaE1NSExodmplUmJjQ2VlR3FOTTBLenhLcVlsVWRuMjZFWW5SSm5paF9UeU13b2RPT01GQ2l0S1dQSXZKbGlrQlVCNWdkS0FKZDh5cXBNTlRRRFE3aTlKa0RhMm5kZ0Fra3BCMFFKWHRqZHZvQnBaR0M0Z3RNQ0VELUk4clFqTVlJSXhCUDJFVUJzM255TjRYTTZadG5zUkJWbGF4azQyUV93cFBPbTIxQ3ZBMEpLbVVSMFV6bmVDbVVBYXpXZFJEcHdYZjlmdVY1N1dwYWd0TXRYSlVTNDlmZENnWlhRVFhNU05QakR3LXpOVEdNN2kydUpQMG1fdHdxMVdXT3Jndi1maURZX3lPWHZRVmtXNERSaWFVU1BCMEdaVGFWbG50QlNBTTVnenZmdi1Fd1BtT3JTeVFsSWItQ0k0VE1acUZtX05mWmo5SnB6c1hoRF9ZQnB1dHE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-09 23:23:07",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "討論牆 | 違行政中立？ 斗六車站掛張嘉郡競選廣告 台鐵：依法標租 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiV0RFQnYwT2JXdkdtNkstY2FlVUM1djZNaHNkQm8wZ0Q2STdTTXVuOUNDZ1U5N21xZDRFNFRHZEdRMEVIMlNkTVZzc24tdTRFd1p1T2FWZ1paZzFPcFR2ZTA5ME4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-09 23:03:48",
         "platform": "news",
         "risk": "綠"
       },
@@ -2199,34 +2331,6 @@
         "time": "2026-07-09 10:35:23",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "#李洋部長來了❤️ #一鄉鎮一匹克球場🏓 #打造全民樂活的運動雲林✨️ 嘉郡很開心和 #運動部 李洋/Lee Yang 部長一起體驗最近超夯的運動 #匹克球。 匹克球真的很有魅力😆 嘉郡也和李洋部長一起同場打匹克球，沒想到一玩就停不下來❗️ 現場吸睛的還有 榮耀海線 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMirwdBVV95cUxNQ1dtdENuT3llbDN0RmprblQtdkh2ZVAyci1BcDhrUklwMzJzamhHV0lMVE5RSkprUVhRbDNwX1g1a3ZzWUJSWmJBRjM0WFp4NTRiT05oXzZzRUpxTzFlaVN2QmdkU3BWTnlfTlJQZm51YVdCNDFUcm9LYW13T2hINmg1QVczTk1wOVNtTHFjcExHcE81V2hZSndHMmtibW5abjBybXlFTUJyUFdWTlNnMVMxWnBJcTNjYjRtLWllb1NvV0VubDJ6cDdfSm1jbTRFU3RFcXA4SWpaeGdmRHFuTGtHQ2FnYU5oUWQ2MlhiSGhueFlvYmpQSWhPVGZnalRHUXdKdEE2NE9kY2VzeHlKMjlYMjFBc1FrVnFrUGlzRHI0emdEdzEzSW1ObTNfb0F6MXl5M2trd0xxMmdUd21NaG1leVFyU2ExSjZZeHVUdUMxbFFQcWxBN0JnVURTMHpRVGxtRnFLekE5bEUyanZjN0hhdXJ3YThLSEVKUENjdXpVVlZmSFA0OWQ5ajhKdW9rMEM4eTdzemtzY05zcXphWE9ERHJ6RUVOSENYUGxSdjBzSlhLWnU5Q0FnTXN3a1NBSGNVTGc0V1gwWGxqNXRvamVEX3YxNGNaS1BYUnNUTF81cE1abWd1aXFUSFdkZGJzOVVaS3pvZmtZeXU1M1dxTjc3dFFVMDVEaDVxNjBPTV9hTUhBNlV2Y3ZyXzZmU3htNnJTSVo0WUFsb1lnRnVjbHN0NnI2ajdfR0VRdEFFZTdtR0tRMmlqQk1KV09vX0RqZ0RaamQ5NGdWZVU4SHI0d2FORUlyRzJDUU9EeGpXRUkteDNIMDB6Z1ZRSTFobEY1SlJBRHAzMDJiZDVCbEtlVHJUcC11RVRLX2J1bmxMWE9PMG1pSThLY1pERTFmVmR1RUZ5bmNFd19yMXlSVnBYZDdqejl3SG9uR3JxMVJ5ai1FMzRJYWs5ckxDSklyVnBYS0V5TkppSTl1WnBDTEc2S1lyZU8zTlpZUXU3VmpTaS1QSVFXZjRVajZ4WEk2bEJ6UnhtS0dOQ0RHUUdBclNJcEFUcXNmQXJ0cXRYdE9mdUtHVFd2ZmIyTGVhMXk5dFdIaXp3Mm1ES0VfV3gyU2Y1MnQ3R2FJTXpsX1I5OF9LVWQwb0xkR3Fya0xyUFVDWWdtSDZFWnN2dXFSaENPaXQ2bmZMZXB4YlRaTzNNc3ZsNmk3UUp6Zi1yQ1BVLTltTU1HdVNNOFYtTFowelV4cXlF",
-        "time": "2026-07-09 10:13:09",
-        "platform": "facebook",
-        "risk": "綠"
-      },
-      {
-        "title": "【毒油風暴】綠委也不爽！劉建國批食藥署「慢半拍」 林淑芬怒指食安法遭架空 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1weUVpMlhudTYzZ1JjUHcyUnRObTFjdUhrQWtYRHdudmdkbVN1S3JobWY4ajhQTHVVcHpHMTZnNm1WSnYxT0Q3WkVieUVYY0xuc1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-09 10:10:00",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "【毒油風暴】綠委也不爽！劉建國批食藥署「慢半拍」 林淑芬怒指食安法遭架空 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV29PSGRqWFRGa2JZUDJKa01IWFN4MFltb2RrakhjcVhKTFBnZFowUTMzWU83ZGVhUFk0eXAyR2tHSk00dlBVRWtnSTJxSllBVWRJam1nQTlaLXZ1Y3kzdy1NeW9ISzBtVkU5blFUZGdhWmVfNTVIVmNNNGtUZmpubW8wdGxyZkk3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-09 10:10:00",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "劉建國牽線募愛心！4名善心人士合捐溫馨巴士 助身障朋友圓交通夢 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xelVXaEYyWlpEVGRSdVZiQUVPNUxIcERTR0dFQjgxTUVTdkFhME1oTjVvOC1pa202eWNTVzd6SXpXeUFIOFVoNDZFZlVmcnZWcHA5anNFM0NrVXRPNlRxLVI3LTPSAWpBVV95cUxNWWx3UTYyTWZsRm5IRWNueXZqLUJlTmNNeFV6bjlzNHBwSVF1WS1VV0JGbHB6My1FQVBnU0V3aWxuZWw0Qmk2OTEzbHN5MG1pWnJpM0VHWERkeUFoeTZ4MDJIVHNWMTcxNVl3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-09 09:49:07",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2234,11 +2338,15 @@
     "regions": [
       {
         "name": "斗六",
-        "count": 13
+        "count": 16
       },
       {
         "name": "雲林",
         "count": 11
+      },
+      {
+        "name": "虎尾",
+        "count": 1
       }
     ],
     "groups": [
@@ -2248,7 +2356,7 @@
       },
       {
         "name": "教育家長",
-        "count": 1
+        "count": 3
       }
     ]
   }
