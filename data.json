@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-07-11T12:14:38.083712+00:00",
+  "generated_at": "2026-07-11T12:31:24.672633+00:00",
   "metrics": {
-    "total_24h": 6,
-    "prev_24h": 28,
-    "growth_pct": -78.57,
-    "news_24h": 6,
+    "total_24h": 8,
+    "prev_24h": 27,
+    "growth_pct": -70.37,
+    "news_24h": 7,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 220,
+    "total": 222,
     "prev": 148,
-    "growth_pct": 48.65,
-    "news": 196,
+    "growth_pct": 50.0,
+    "news": 197,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,17 +28,21 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 6
+      "count": 7
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 196
+      "count": 197
     },
     {
       "platform": "facebook",
-      "count": 22
+      "count": 23
     },
     {
       "platform": "youtube",
@@ -65,6 +69,10 @@
     {
       "hour": "2026-07-11 17:00",
       "count": 1
+    },
+    {
+      "hour": "2026-07-11 19:00",
+      "count": 2
     }
   ],
   "by_hour_7d": [
@@ -407,16 +415,36 @@
     {
       "hour": "2026-07-11 17:00",
       "count": 1
+    },
+    {
+      "hour": "2026-07-11 19:00",
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 6
+      "count": 7
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "明日（7/12）雲林縣正常上班上課。 ​依據中央氣象署預報資訊，縣府宣布，明天雲林縣正常上班、上課。 但建國仍然要提醒大家，#巴威颱風 外圍環流可能持續影響台灣，外出時務必要注意安全，慎防強風大雨。 希望風雨漸漸平息，大家都能平平安安出門、快快樂樂回家。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMihAhBVV95cUxPR3RfSTFNWl8wM3I0dmJ6RWZtUEUxVEg4dVdOejBfVC1WRjRIaVRFRE5yZ1N6aVlvN0xMc1E3cDh2TXdBVXNXY2RZdXBZcEt2anYyaDNOcHFIR0dSLWZESjNkTUtJNUpmUjhRNEg2TTR4WjdHRkU2eGhVMmhQc2NFVldxbmVFUlRieGhCUTY0aHNPTzRQRDhkdExRbzlja0R1U09MUEp3cHNsSGliTGpjUExKT25zZXZCa3V3UWF5aUJJNnIyVG9fclQ0LTR2NFFfMGxULW5uVFczN2RJcDRNVk55RmtSYm0xcWdqNE9UakpwX0VteXViVENic0FKY1AwZ2huQ2tOM3RXSVVxMzJIbU9DVF8tdUpSS1Q3YVZJNGxEZE54Ul9fSWZZaHlGcGNmNEFtckJkYmFDT0x0NHBZbWdkLVI0TlpSRXktMFZ2VnE0N3cyTmFoSjVVMjZsQVJaQ3NOYXY5a204NW54aVJqdTNYQXU3RXVRZDMydUlHbXVWRTY1MnB6YlVvdU9XandnTXpPTFZzWkZOdk1xTVk4QndDOFJDME81V1pFRXcwa2RUUjlKQzJYWFNpM3hyc0lEeF9HYmFMTEtNZHdyWFVjeERsclNvRFBodkVleHFlT2YzRmtNdHl5cnBqVHVyWlM0SHdna3dXNWw3RFc4amlmeUlnSzNURmtDOHlRNEtNN0xmRkFTNGprOGF6Sld1dm1wWkN3UkNBeEFRWVNzTk1iVW1aMW9Bc0FUSzNPQTE2MFQ3MWx1cXVSTWRPVDhfYzYxc0lrUUxWOTlBTjZzZHllQlp6VDdKeFFaSDRuTEVxaW1iaFRoSjhpYk9ZVDZKR0xuQ3o0Zy1ocjJGUXJkQm90eE1Cb1p1ZjJWOGEyMks5UHhEZ1czS0tNS2lGYWdBaTctUzVXYnF1NEg5VG9TakV1S05FVGZ5dl9JZTZhSjY3OTFTRkZOZHRQVkZkYjFsUVBjLWZ1elNaQ3ZETlhZNmVGalM3MHd4bGtFZUVWTnJ2b2tkQ2FhdVFPekU0TTR0TzJ1dVlGOG84WVpESVFzY09kX3lOQlpBc2hRMjdIa2x5YndDQ2xrZzRYbENJNEhKdTdJX3JJR1dpcFVEN2ZOSkEwR3BVUm01REtkVnlNQmpreDBXZnlWMUx5dlNjY1A0TEktYTRjS1JaMUlzVUpNZ3hHS0NSbmdpdkw0WVI1MDdnZ1BmbV8yMUtfRVVUWS0yUnY4d0IyVW81dU9NTEtuNTNCMXA5OUM3T2YxaGo4NEk4NUZsay1pb3phNzJSbWJoYlRLODdmd25nc2V4MFp4U3FhY3M1V3Z0Q19MeXd5U1pUYnlNX2lTYk1RWjZhdExYOWpsUDFzZA",
+        "time": "2026-07-11 19:26:45"
+      }
+    ],
     "news": [
+      {
+        "title": "張麗善與張嘉郡向中央爭取林內坪頂加勁護坡經費 - 臺灣導報",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04TVBFV0JTcVFZNF8zNFl2ODFmYlBMdzU1VG9kZVhLYWIwbTdRTzB0QVZnMnVwcnlHRjVrMW9rV3VsTTNkemhDMEM0Qmh2Q0xRY2hR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-11 19:12:21"
+      },
       {
         "title": "地質影響林內坪頂崩塌地整治工程 張麗善縣長與張嘉郡立委將持續向中央爭取加勁護坡經費 - 墨新聞-MORE News",
         "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NcFYzYWpocDVZZ1ZrcWdTSjJmS1NIUXJfZm9EMlQwSjY5ODlMWWFtTVdCdE5nSGpFTUlGTUFMcGprZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -452,11 +480,27 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 6
+      "count": 7
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "明日（7/12）雲林縣正常上班上課。 ​依據中央氣象署預報資訊，縣府宣布，明天雲林縣正常上班、上課。 但建國仍然要提醒大家，#巴威颱風 外圍環流可能持續影響台灣，外出時務必要注意安全，慎防強風大雨。 希望風雨漸漸平息，大家都能平平安安出門、快快樂樂回家。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMihAhBVV95cUxPR3RfSTFNWl8wM3I0dmJ6RWZtUEUxVEg4dVdOejBfVC1WRjRIaVRFRE5yZ1N6aVlvN0xMc1E3cDh2TXdBVXNXY2RZdXBZcEt2anYyaDNOcHFIR0dSLWZESjNkTUtJNUpmUjhRNEg2TTR4WjdHRkU2eGhVMmhQc2NFVldxbmVFUlRieGhCUTY0aHNPTzRQRDhkdExRbzlja0R1U09MUEp3cHNsSGliTGpjUExKT25zZXZCa3V3UWF5aUJJNnIyVG9fclQ0LTR2NFFfMGxULW5uVFczN2RJcDRNVk55RmtSYm0xcWdqNE9UakpwX0VteXViVENic0FKY1AwZ2huQ2tOM3RXSVVxMzJIbU9DVF8tdUpSS1Q3YVZJNGxEZE54Ul9fSWZZaHlGcGNmNEFtckJkYmFDT0x0NHBZbWdkLVI0TlpSRXktMFZ2VnE0N3cyTmFoSjVVMjZsQVJaQ3NOYXY5a204NW54aVJqdTNYQXU3RXVRZDMydUlHbXVWRTY1MnB6YlVvdU9XandnTXpPTFZzWkZOdk1xTVk4QndDOFJDME81V1pFRXcwa2RUUjlKQzJYWFNpM3hyc0lEeF9HYmFMTEtNZHdyWFVjeERsclNvRFBodkVleHFlT2YzRmtNdHl5cnBqVHVyWlM0SHdna3dXNWw3RFc4amlmeUlnSzNURmtDOHlRNEtNN0xmRkFTNGprOGF6Sld1dm1wWkN3UkNBeEFRWVNzTk1iVW1aMW9Bc0FUSzNPQTE2MFQ3MWx1cXVSTWRPVDhfYzYxc0lrUUxWOTlBTjZzZHllQlp6VDdKeFFaSDRuTEVxaW1iaFRoSjhpYk9ZVDZKR0xuQ3o0Zy1ocjJGUXJkQm90eE1Cb1p1ZjJWOGEyMks5UHhEZ1czS0tNS2lGYWdBaTctUzVXYnF1NEg5VG9TakV1S05FVGZ5dl9JZTZhSjY3OTFTRkZOZHRQVkZkYjFsUVBjLWZ1elNaQ3ZETlhZNmVGalM3MHd4bGtFZUVWTnJ2b2tkQ2FhdVFPekU0TTR0TzJ1dVlGOG84WVpESVFzY09kX3lOQlpBc2hRMjdIa2x5YndDQ2xrZzRYbENJNEhKdTdJX3JJR1dpcFVEN2ZOSkEwR3BVUm01REtkVnlNQmpreDBXZnlWMUx5dlNjY1A0TEktYTRjS1JaMUlzVUpNZ3hHS0NSbmdpdkw0WVI1MDdnZ1BmbV8yMUtfRVVUWS0yUnY4d0IyVW81dU9NTEtuNTNCMXA5OUM3T2YxaGo4NEk4NUZsay1pb3phNzJSbWJoYlRLODdmd25nc2V4MFp4U3FhY3M1V3Z0Q19MeXd5U1pUYnlNX2lTYk1RWjZhdExYOWpsUDFzZA",
+        "time": "2026-07-11 19:26:45"
+      }
+    ],
     "news": [
+      {
+        "title": "張麗善與張嘉郡向中央爭取林內坪頂加勁護坡經費 - 臺灣導報",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04TVBFV0JTcVFZNF8zNFl2ODFmYlBMdzU1VG9kZVhLYWIwbTdRTzB0QVZnMnVwcnlHRjVrMW9rV3VsTTNkemhDMEM0Qmh2Q0xRY2hR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-11 19:12:21"
+      },
       {
         "title": "地質影響林內坪頂崩塌地整治工程 張麗善縣長與張嘉郡立委將持續向中央爭取加勁護坡經費 - 墨新聞-MORE News",
         "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NcFYzYWpocDVZZ1ZrcWdTSjJmS1NIUXJfZm9EMlQwSjY5ODlMWWFtTVdCdE5nSGpFTUlGTUFMcGprZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -490,14 +534,19 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 1,
-    "劉建國": 5
+    "張嘉郡": 2,
+    "劉建國": 6
   },
   "mention_compare_7d": {
-    "張嘉郡": 51,
-    "劉建國": 104
+    "張嘉郡": 52,
+    "劉建國": 105
   },
   "top_news": [
+    {
+      "title": "張麗善與張嘉郡向中央爭取林內坪頂加勁護坡經費 - 臺灣導報",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04TVBFV0JTcVFZNF8zNFl2ODFmYlBMdzU1VG9kZVhLYWIwbTdRTzB0QVZnMnVwcnlHRjVrMW9rV3VsTTNkemhDMEM0Qmh2Q0xRY2hR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-11 19:12:21"
+    },
     {
       "title": "地質影響林內坪頂崩塌地整治工程 張麗善縣長與張嘉郡立委將持續向中央爭取加勁護坡經費 - 墨新聞-MORE News",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NcFYzYWpocDVZZ1ZrcWdTSjJmS1NIUXJfZm9EMlQwSjY5ODlMWWFtTVdCdE5nSGpFTUlGTUFMcGprZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -530,6 +579,11 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "張麗善與張嘉郡向中央爭取林內坪頂加勁護坡經費 - 臺灣導報",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04TVBFV0JTcVFZNF8zNFl2ODFmYlBMdzU1VG9kZVhLYWIwbTdRTzB0QVZnMnVwcnlHRjVrMW9rV3VsTTNkemhDMEM0Qmh2Q0xRY2hR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-11 19:12:21"
+    },
     {
       "title": "地質影響林內坪頂崩塌地整治工程 張麗善縣長與張嘉郡立委將持續向中央爭取加勁護坡經費 - 墨新聞-MORE News",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NcFYzYWpocDVZZ1ZrcWdTSjJmS1NIUXJfZm9EMlQwSjY5ODlMWWFtTVdCdE5nSGpFTUlGTUFMcGprZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -624,14 +678,14 @@
       "title": "《雲林觀察》不只是一棟長照教學大樓，而是一座城市的未來劉建國正在為雲林補上最重要的一塊拼圖 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jNTBXZzdNSTM0ZEk2dUdUdDl3dmFIQUlnM2VvQjJaUWxaU044WVltUFY3TVZZNFF4X1AxU3hob0FxSGUwMnVGZnU3U1BGWWVZSGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-10 07:50:00"
-    },
-    {
-      "title": "討論牆 | 違行政中立？ 斗六車站掛張嘉郡競選廣告 台鐵：依法標租 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NN0lEOUw2VkxaSmNuSzdIeE0yX0NXQi1UV0wzZ21aM3lucnRvQmVzSjFVLU1RaU51TjVXd2VRV3lCaVN1TURUbVd1UXotTHcyUU9XN3c5RzNqLUpidk1xQUUwQjc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-10 07:48:09"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "明日（7/12）雲林縣正常上班上課。 ​依據中央氣象署預報資訊，縣府宣布，明天雲林縣正常上班、上課。 但建國仍然要提醒大家，#巴威颱風 外圍環流可能持續影響台灣，外出時務必要注意安全，慎防強風大雨。 希望風雨漸漸平息，大家都能平平安安出門、快快樂樂回家。 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMihAhBVV95cUxPR3RfSTFNWl8wM3I0dmJ6RWZtUEUxVEg4dVdOejBfVC1WRjRIaVRFRE5yZ1N6aVlvN0xMc1E3cDh2TXdBVXNXY2RZdXBZcEt2anYyaDNOcHFIR0dSLWZESjNkTUtJNUpmUjhRNEg2TTR4WjdHRkU2eGhVMmhQc2NFVldxbmVFUlRieGhCUTY0aHNPTzRQRDhkdExRbzlja0R1U09MUEp3cHNsSGliTGpjUExKT25zZXZCa3V3UWF5aUJJNnIyVG9fclQ0LTR2NFFfMGxULW5uVFczN2RJcDRNVk55RmtSYm0xcWdqNE9UakpwX0VteXViVENic0FKY1AwZ2huQ2tOM3RXSVVxMzJIbU9DVF8tdUpSS1Q3YVZJNGxEZE54Ul9fSWZZaHlGcGNmNEFtckJkYmFDT0x0NHBZbWdkLVI0TlpSRXktMFZ2VnE0N3cyTmFoSjVVMjZsQVJaQ3NOYXY5a204NW54aVJqdTNYQXU3RXVRZDMydUlHbXVWRTY1MnB6YlVvdU9XandnTXpPTFZzWkZOdk1xTVk4QndDOFJDME81V1pFRXcwa2RUUjlKQzJYWFNpM3hyc0lEeF9HYmFMTEtNZHdyWFVjeERsclNvRFBodkVleHFlT2YzRmtNdHl5cnBqVHVyWlM0SHdna3dXNWw3RFc4amlmeUlnSzNURmtDOHlRNEtNN0xmRkFTNGprOGF6Sld1dm1wWkN3UkNBeEFRWVNzTk1iVW1aMW9Bc0FUSzNPQTE2MFQ3MWx1cXVSTWRPVDhfYzYxc0lrUUxWOTlBTjZzZHllQlp6VDdKeFFaSDRuTEVxaW1iaFRoSjhpYk9ZVDZKR0xuQ3o0Zy1ocjJGUXJkQm90eE1Cb1p1ZjJWOGEyMks5UHhEZ1czS0tNS2lGYWdBaTctUzVXYnF1NEg5VG9TakV1S05FVGZ5dl9JZTZhSjY3OTFTRkZOZHRQVkZkYjFsUVBjLWZ1elNaQ3ZETlhZNmVGalM3MHd4bGtFZUVWTnJ2b2tkQ2FhdVFPekU0TTR0TzJ1dVlGOG84WVpESVFzY09kX3lOQlpBc2hRMjdIa2x5YndDQ2xrZzRYbENJNEhKdTdJX3JJR1dpcFVEN2ZOSkEwR3BVUm01REtkVnlNQmpreDBXZnlWMUx5dlNjY1A0TEktYTRjS1JaMUlzVUpNZ3hHS0NSbmdpdkw0WVI1MDdnZ1BmbV8yMUtfRVVUWS0yUnY4d0IyVW81dU9NTEtuNTNCMXA5OUM3T2YxaGo4NEk4NUZsay1pb3phNzJSbWJoYlRLODdmd25nc2V4MFp4U3FhY3M1V3Z0Q19MeXd5U1pUYnlNX2lTYk1RWjZhdExYOWpsUDFzZA",
+      "time": "2026-07-11 19:26:45"
+    },
     {
       "title": "因應高齡照護需求，臺大醫院雲林分院規劃在斗六院區旁興建一座長照教學大樓，目前尚有約9億多元的經費缺口，為此立法委員劉建國日前邀集教育部等單位下鄉視察規劃進度。 . 教育部也於現場允諾補足經費缺口，希望讓地方長照環境、相關教學及人才培育越來越完 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMipghBVV95cUxOdXdPT0lKNUF5VHlWeUF1Rm9YbURFNTI2ZkJ5TWhyYUZlQlpPaG9hTXNiNWNjOXZjRlB4cWdHdkV0d3p0TlZHdnpqSTd0Sm9CdFEwa2EtVDFjMU11Q2YtUmk2QUtrOWFHUEZTemVFQ2ltMkFlaFBWYnJDU0NNckIycHN2cWNGWDRGWGc2OGVZLW1DSHVMTjVJSGxMeU9uR2l1aUxYYkhkanVhSGl0Wk1wLTMtVV9tXzVyM3lYMlJFazVyckZZNWlkWjQ2U2dhb0RLX0hTcEhoRHNNY1lPcTB4ZkF2RHROb3NNbFNzUTBncVdBVkIySzFwR2xNaWR3TXQyUUxha1F5MXA4djhPM19QRk1ha0g1UEtMR1JWdno5VkM4a2V3R2tjbWlXVmlwVGxfbDlrTURMYVFmQVJJX0JNbW1WenRQbW5pd2RqcEphSHE1akZjUFVwYlg1YndGZTBsajVBbHp6T1lDdWp1MkhURnlWbmxSd1dkY0ZRMnR0N29BQjNIb3hWb25QU1BWRTBWSmI3MURZUGFWZGZOVnlscDVMYXJ2TDR5b09NV0U4MVBrQ3pzWmQ0b0JpZlFrSjIzNnA1X2J5eG93US1OMWw3VkRTZHQ0ZS1CMW5BUHRoWGJpX2toSkdBQjhjYVU4b3RNVDZfU0EwNTVmQ1kyUDA3a1h0OEp1cTdIc0tZNjdHSHJIakExLUhpQWJLeUQwck5DSEhrbW0yc1o3YmdFai1PNUtHaFZxbk1kbU1RcHRUV2FnRkNISndhcFUydHJzcG9TN3dwZDB0QW9FM0JtMmQxLU4zY3VhVzNZMlVsSVpZTGhSMlZ6enAtRFBmMEhETFBmNUdjX01nMnpuWEMyVUdTQXVhTFNacUYyLWdFUFFyVE1KdW93MWU2VnV4N1IwdUdwUkI1bkN5eEJYY1ZPa2NobGhLVHRkVXFVdzcxZ25pWjdFdTMyLXhDREQxNmxZVVdzbzRrdGtPazNVYmRTa1drcEhwTXNfSUJ5S2t0OElPOFdqdjBZZW9fTGE2T0hOUHNkSEZ0U3VsRmJZQkl1MWljUng5bWlSTjQ2cEJ0UGJHMTlJYUx5ZDdLRGc5bktxT3Z6ejRPRHZkX1pIcS1MQV9wR2tfVDJiNHNJUm9tY25MWExTZFMyeUNZajIzUHpQVWR6dGRQby1ITlJ3dmI2V3ZpdThQX01Fd3I5WDlhQmZrZDlCbnFlcXVQNzA5RFJ4VVY4UENnNG5ydkJjOFAwTk5pMGhsYnl2UHRfTTVYWFJFcnZ1cjB6Q0lIelhiNThGY0szejVUWTJCZXVraEV1Y0NiNDI4YVNJbG9KTFhISkVQVzhET3FNbGhIUkFleXllOWZUOVpHQVNVbUVsWkN2d1IwZV9LU0p6UVI1cGVPVFo0UXlfT1ZjMkE",
@@ -726,14 +780,14 @@
       "title": "【全面防堵「喪屍菸彈」！要求衛福部從源頭阻絕，保護下一代！】 建國上周在立法院衛環委員會質詢電子菸與喪屍菸彈問題。 這起事件突顯出兩個極度危險的警訊——電子菸與喪屍菸彈早就已經綁定分不開；也有許多青少年依然誤以為「政府比較沒有在管正常的電子菸」 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxQc3ZVbXlPeHYxSU9jdHRsTjc1SDNaYzZROUtyVnkydXM1MWFUcHoyMFQ1dWNGQm1Kd1p4cTVsZUE5TnF1VXo2UFZNWWlGM1pfRmhISW5WbjM0RVBIWjhUOTRvOFNROGxZU1ozRE9CLVB2eWpmSHNFX1A3WXpxNkVrZTZxd3RTVzFyOVJrUlhUVGpKSGplUjZNQkZ1Vy1xY2R2VGZwREZ2WHFJckFrSmYtWnVtRERfak1yUnpMNjhjYlNtV0xubHZBN280aVV2RHVtajBVVWRoZHBDSlJlTl9zbEo4ZXEzb3ozaWZFNnlBUFU4eXZvb3JYUWJ3SlZXV1ZxU19CQ0JmdlJNQ0lkeG5qbEg4cDdEVktFUDlYaHJXVmFyU081czE4RmlRN2xEcm5kd1pDN3FXemo0QmhLSDRfb1dSbGhmUkd0Mm9oMkIycGhQRGhNZEZhUWx5eTVMUzFfdHRNdHcxZ0xPSngtaFZlWFU1TVJRd3p6MW5xQmRBazdyX2R3ekhyRi1XTzZSQ1hVV1NuNGJSeEF4ZHZQLW1ReVZleVREZE5kcTQtY240SHc0dmZQNzhMc2ZFeTIwdlNNbkFSRWlKNnFoOFUtZS12dy02YWgxZ29qN2tGOXJnVHlaVkZTQ0toRThDVm1aUjdVRVBKazJmemg2dUxiX2dlMVpuc1FoMEE2R2VUWXI0dTJOOTBFNVpZUFRzZFlUMktIVDZnaXljX1FhS2RZdzNnLXdHcThQMGhkSGxnYVl3MG5lRm9XaTFaQ2Q5ZXZrTmdSNEFQMTNmcXo4TXpWd0p2T0paR08wSnZ2dzFkZGRsaE9sNl9MYzdhRDh3MmNDa0dGUFFFVV9oQVZxTHU3N2oxemYtOWxjWUZYeUJvbUlKbkJ2T1ZXdlUtekJ5SmI0dkNHNkVsVDgzdThNajhRd0RVV0pJMVhWYmhhVTdiYmZTTGNVcEtpaHdabjdMdTMtY20yZFVPcjZEN2VnV25CRGpGcWdsTzVwYjR3Y2xQM01yR2tFbGtoU1VLUjVWMkdxTEtRUVhXMzZ5cGktWXBxbGY3aTRlT0dMcWs5anN6WGNhOEgweTNlaUhSVktqTmczLU9McGhZMW9jY0hseXhtdHNXNmdobTJmNXhSc1BWZm9QR3lrWW1fVVJnYlFEMWhSaVhiSFVibVdaTmpPUnFvRmVQZUpaRnl6b2pucFdPeDlOVzBjaXVVZy12ME9va1QzaGhQN2pFWWtJUjZxSGZmMXpDZ3ZfRktvQVgyM2V6OUpzUlRBSFpIQnNkNW1SeThxYmVIel8tRklhMGNtajQtWmZPYUd2V2dzNVJTZzh4RDRRNGxQc2tobXpYc093UExKUXgtSFpkdWItdjlVMFRFYVdoc2QxcTJiYVlhMmRkU3lPRDgxWHRDV3RwZTlqRUJuSE0",
       "time": "2026-07-06 09:02:19"
-    },
-    {
-      "title": "這幾天台中市政府檢驗台糖豬肉瘦肉精事件，在農曆年前發生這種事情，對於民眾以及養豬業者是非常大的衝擊，目前食藥署與農業部檢驗同批肉品，「均未檢出瘦肉精」，台糖也送畜產會檢驗也是未檢出，再送到民間SGS台北實驗室檢驗也是未檢出。 ⠀⠀⠀⠀ 過往也有類 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CLXpXN1M5dWZzNEl5clNOUUIxbHJvRHdtNXlyQldsTjJKVjBscnlDeGNReTJjdFdlYUVhVGxINlV0aGRXaEdkb0FGXzYxRDlIRVoyTnlXaktsdTIyOXExdFNNRm1NV0YxT0RwQ3pyWDVsV3hhbXFaZWRDdzRvdw",
-      "time": "2026-07-05 17:44:50"
     }
   ],
   "latest_news_20": [
+    {
+      "title": "張麗善與張嘉郡向中央爭取林內坪頂加勁護坡經費 - 臺灣導報",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04TVBFV0JTcVFZNF8zNFl2ODFmYlBMdzU1VG9kZVhLYWIwbTdRTzB0QVZnMnVwcnlHRjVrMW9rV3VsTTNkemhDMEM0Qmh2Q0xRY2hR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-11 19:12:21"
+    },
     {
       "title": "地質影響林內坪頂崩塌地整治工程 張麗善縣長與張嘉郡立委將持續向中央爭取加勁護坡經費 - 墨新聞-MORE News",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NcFYzYWpocDVZZ1ZrcWdTSjJmS1NIUXJfZm9EMlQwSjY5ODlMWWFtTVdCdE5nSGpFTUlGTUFMcGprZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -828,11 +882,6 @@
       "title": "《雲林觀察》不只是一棟長照教學大樓，而是一座城市的未來劉建國正在為雲林補上最重要的一塊拼圖 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jNTBXZzdNSTM0ZEk2dUdUdDl3dmFIQUlnM2VvQjJaUWxaU044WVltUFY3TVZZNFF4X1AxU3hob0FxSGUwMnVGZnU3U1BGWWVZSGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-10 07:50:00"
-    },
-    {
-      "title": "討論牆 | 違行政中立？ 斗六車站掛張嘉郡競選廣告 台鐵：依法標租 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NN0lEOUw2VkxaSmNuSzdIeE0yX0NXQi1UV0wzZ21aM3lucnRvQmVzSjFVLU1RaU51TjVXd2VRV3lCaVN1TURUbVd1UXotTHcyUU9XN3c5RzNqLUpidk1xQUUwQjc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-10 07:48:09"
     }
   ],
   "person_sections": {
@@ -941,6 +990,11 @@
       ],
       "news": [
         {
+          "title": "張麗善與張嘉郡向中央爭取林內坪頂加勁護坡經費 - 臺灣導報",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04TVBFV0JTcVFZNF8zNFl2ODFmYlBMdzU1VG9kZVhLYWIwbTdRTzB0QVZnMnVwcnlHRjVrMW9rV3VsTTNkemhDMEM0Qmh2Q0xRY2hR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-11 19:12:21"
+        },
+        {
           "title": "地質影響林內坪頂崩塌地整治工程 張麗善縣長與張嘉郡立委將持續向中央爭取加勁護坡經費 - 墨新聞-MORE News",
           "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NcFYzYWpocDVZZ1ZrcWdTSjJmS1NIUXJfZm9EMlQwSjY5ODlMWWFtTVdCdE5nSGpFTUlGTUFMcGprZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-11 17:47:32"
@@ -1034,11 +1088,6 @@
           "title": "打造多元休閒運動場域 丁學忠張嘉郡邀運動部長視察雲林 - 臺灣導報",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXSE0tNjRSVFZDNUhPRndnZFV3N0h0ZGhDWl9feDEwS3FGTXNSbTliZXFYbm9fRE9ZSmpIdzBaS0JHOTJlcUg0R2d5U2ZJQWdBODgw?oc=5",
           "time": "2026-07-08 18:31:53"
-        },
-        {
-          "title": "提高老農津貼、修排富門檻 張嘉郡：還農民權益正義！ - 三立新聞網SETN.com",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44SmVNV3ZMWVVpZm1KUlFIc3RQMElkRFNVeEYyTjhtMEVNVzJkNDdrWkp4dUxWUmRsd2JydnFSdkFDclpZbERZMNIBTEFVX3lxTE9DZFBQbi1WOGREOFRHanhwampDT09PUHhyQXR6bDhCb1llV3BBWXBPa2wzZGdmVUlyWkFXSWdiZHU3RGJkVkR6R3VDdlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-08 17:57:02"
         }
       ]
     },
@@ -1252,6 +1301,11 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "張麗善與張嘉郡向中央爭取林內坪頂加勁護坡經費 - 臺灣導報",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04TVBFV0JTcVFZNF8zNFl2ODFmYlBMdzU1VG9kZVhLYWIwbTdRTzB0QVZnMnVwcnlHRjVrMW9rV3VsTTNkemhDMEM0Qmh2Q0xRY2hR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-11 19:12:21"
+      },
+      {
         "title": "地質影響林內坪頂崩塌地整治工程 張麗善縣長與張嘉郡立委將持續向中央爭取加勁護坡經費 - 墨新聞-MORE News",
         "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NcFYzYWpocDVZZ1ZrcWdTSjJmS1NIUXJfZm9EMlQwSjY5ODlMWWFtTVdCdE5nSGpFTUlGTUFMcGprZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-11 17:47:32"
@@ -1281,10 +1335,22 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNXg4bWFWanczV2FtYmhMdFBZcmdyS0t1X25BdDRxRTA0dFdJbWxFcjR2aXA4R2p5VG93SEI1bHk3LVJ1MHF0UnBVV3dKSEpqT0JEVUVhWEY4dnM3VjBmSVV1R2dJNF9WeEE5U290NUhGSHFTaTJ6VmtsN3F6R3hnQVpWWFpLNGZRU2VCV20tVVZFUmV2cWo2bw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-11 05:04:51"
       }
+    ],
+    "facebook": [
+      {
+        "title": "明日（7/12）雲林縣正常上班上課。 ​依據中央氣象署預報資訊，縣府宣布，明天雲林縣正常上班、上課。 但建國仍然要提醒大家，#巴威颱風 外圍環流可能持續影響台灣，外出時務必要注意安全，慎防強風大雨。 希望風雨漸漸平息，大家都能平平安安出門、快快樂樂回家。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMihAhBVV95cUxPR3RfSTFNWl8wM3I0dmJ6RWZtUEUxVEg4dVdOejBfVC1WRjRIaVRFRE5yZ1N6aVlvN0xMc1E3cDh2TXdBVXNXY2RZdXBZcEt2anYyaDNOcHFIR0dSLWZESjNkTUtJNUpmUjhRNEg2TTR4WjdHRkU2eGhVMmhQc2NFVldxbmVFUlRieGhCUTY0aHNPTzRQRDhkdExRbzlja0R1U09MUEp3cHNsSGliTGpjUExKT25zZXZCa3V3UWF5aUJJNnIyVG9fclQ0LTR2NFFfMGxULW5uVFczN2RJcDRNVk55RmtSYm0xcWdqNE9UakpwX0VteXViVENic0FKY1AwZ2huQ2tOM3RXSVVxMzJIbU9DVF8tdUpSS1Q3YVZJNGxEZE54Ul9fSWZZaHlGcGNmNEFtckJkYmFDT0x0NHBZbWdkLVI0TlpSRXktMFZ2VnE0N3cyTmFoSjVVMjZsQVJaQ3NOYXY5a204NW54aVJqdTNYQXU3RXVRZDMydUlHbXVWRTY1MnB6YlVvdU9XandnTXpPTFZzWkZOdk1xTVk4QndDOFJDME81V1pFRXcwa2RUUjlKQzJYWFNpM3hyc0lEeF9HYmFMTEtNZHdyWFVjeERsclNvRFBodkVleHFlT2YzRmtNdHl5cnBqVHVyWlM0SHdna3dXNWw3RFc4amlmeUlnSzNURmtDOHlRNEtNN0xmRkFTNGprOGF6Sld1dm1wWkN3UkNBeEFRWVNzTk1iVW1aMW9Bc0FUSzNPQTE2MFQ3MWx1cXVSTWRPVDhfYzYxc0lrUUxWOTlBTjZzZHllQlp6VDdKeFFaSDRuTEVxaW1iaFRoSjhpYk9ZVDZKR0xuQ3o0Zy1ocjJGUXJkQm90eE1Cb1p1ZjJWOGEyMks5UHhEZ1czS0tNS2lGYWdBaTctUzVXYnF1NEg5VG9TakV1S05FVGZ5dl9JZTZhSjY3OTFTRkZOZHRQVkZkYjFsUVBjLWZ1elNaQ3ZETlhZNmVGalM3MHd4bGtFZUVWTnJ2b2tkQ2FhdVFPekU0TTR0TzJ1dVlGOG84WVpESVFzY09kX3lOQlpBc2hRMjdIa2x5YndDQ2xrZzRYbENJNEhKdTdJX3JJR1dpcFVEN2ZOSkEwR3BVUm01REtkVnlNQmpreDBXZnlWMUx5dlNjY1A0TEktYTRjS1JaMUlzVUpNZ3hHS0NSbmdpdkw0WVI1MDdnZ1BmbV8yMUtfRVVUWS0yUnY4d0IyVW81dU9NTEtuNTNCMXA5OUM3T2YxaGo4NEk4NUZsay1pb3phNzJSbWJoYlRLODdmd25nc2V4MFp4U3FhY3M1V3Z0Q19MeXd5U1pUYnlNX2lTYk1RWjZhdExYOWpsUDFzZA",
+        "time": "2026-07-11 19:26:45"
+      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "張麗善與張嘉郡向中央爭取林內坪頂加勁護坡經費 - 臺灣導報",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04TVBFV0JTcVFZNF8zNFl2ODFmYlBMdzU1VG9kZVhLYWIwbTdRTzB0QVZnMnVwcnlHRjVrMW9rV3VsTTNkemhDMEM0Qmh2Q0xRY2hR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-11 19:12:21"
+      },
       {
         "title": "地質影響林內坪頂崩塌地整治工程 張麗善縣長與張嘉郡立委將持續向中央爭取加勁護坡經費 - 墨新聞-MORE News",
         "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NcFYzYWpocDVZZ1ZrcWdTSjJmS1NIUXJfZm9EMlQwSjY5ODlMWWFtTVdCdE5nSGpFTUlGTUFMcGprZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1479,14 +1545,14 @@
         "title": "立委劉建國爭取斗六長照教學大樓9.08億元 打造雲林教學、研究、醫療三位一體長照基地 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWTU9BRG1JTXlMODFkUVc1Wm9GeTEtdE84RzlVdUlJZzY1TGZYUU9ZUFFSX1VuZm5WaFBHd2diZHVBc0JyX2pFNU1mOXREYk1VY3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-09 16:31:00"
-      },
-      {
-        "title": "蘇治芬越南考察卻受困機場 因越方判定「不符旅遊目的」 - 三立新聞",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9MMUptdEJLVWI3TUxWN2dJT0ZtVkxwcGlRREhHdkZiRnlKODlqZ1RtajN1ZjNncUUxWUFHODF6V0VYV3Vsd2xV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-09 16:30:36"
       }
     ],
     "facebook": [
+      {
+        "title": "明日（7/12）雲林縣正常上班上課。 ​依據中央氣象署預報資訊，縣府宣布，明天雲林縣正常上班、上課。 但建國仍然要提醒大家，#巴威颱風 外圍環流可能持續影響台灣，外出時務必要注意安全，慎防強風大雨。 希望風雨漸漸平息，大家都能平平安安出門、快快樂樂回家。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMihAhBVV95cUxPR3RfSTFNWl8wM3I0dmJ6RWZtUEUxVEg4dVdOejBfVC1WRjRIaVRFRE5yZ1N6aVlvN0xMc1E3cDh2TXdBVXNXY2RZdXBZcEt2anYyaDNOcHFIR0dSLWZESjNkTUtJNUpmUjhRNEg2TTR4WjdHRkU2eGhVMmhQc2NFVldxbmVFUlRieGhCUTY0aHNPTzRQRDhkdExRbzlja0R1U09MUEp3cHNsSGliTGpjUExKT25zZXZCa3V3UWF5aUJJNnIyVG9fclQ0LTR2NFFfMGxULW5uVFczN2RJcDRNVk55RmtSYm0xcWdqNE9UakpwX0VteXViVENic0FKY1AwZ2huQ2tOM3RXSVVxMzJIbU9DVF8tdUpSS1Q3YVZJNGxEZE54Ul9fSWZZaHlGcGNmNEFtckJkYmFDT0x0NHBZbWdkLVI0TlpSRXktMFZ2VnE0N3cyTmFoSjVVMjZsQVJaQ3NOYXY5a204NW54aVJqdTNYQXU3RXVRZDMydUlHbXVWRTY1MnB6YlVvdU9XandnTXpPTFZzWkZOdk1xTVk4QndDOFJDME81V1pFRXcwa2RUUjlKQzJYWFNpM3hyc0lEeF9HYmFMTEtNZHdyWFVjeERsclNvRFBodkVleHFlT2YzRmtNdHl5cnBqVHVyWlM0SHdna3dXNWw3RFc4amlmeUlnSzNURmtDOHlRNEtNN0xmRkFTNGprOGF6Sld1dm1wWkN3UkNBeEFRWVNzTk1iVW1aMW9Bc0FUSzNPQTE2MFQ3MWx1cXVSTWRPVDhfYzYxc0lrUUxWOTlBTjZzZHllQlp6VDdKeFFaSDRuTEVxaW1iaFRoSjhpYk9ZVDZKR0xuQ3o0Zy1ocjJGUXJkQm90eE1Cb1p1ZjJWOGEyMks5UHhEZ1czS0tNS2lGYWdBaTctUzVXYnF1NEg5VG9TakV1S05FVGZ5dl9JZTZhSjY3OTFTRkZOZHRQVkZkYjFsUVBjLWZ1elNaQ3ZETlhZNmVGalM3MHd4bGtFZUVWTnJ2b2tkQ2FhdVFPekU0TTR0TzJ1dVlGOG84WVpESVFzY09kX3lOQlpBc2hRMjdIa2x5YndDQ2xrZzRYbENJNEhKdTdJX3JJR1dpcFVEN2ZOSkEwR3BVUm01REtkVnlNQmpreDBXZnlWMUx5dlNjY1A0TEktYTRjS1JaMUlzVUpNZ3hHS0NSbmdpdkw0WVI1MDdnZ1BmbV8yMUtfRVVUWS0yUnY4d0IyVW81dU9NTEtuNTNCMXA5OUM3T2YxaGo4NEk4NUZsay1pb3phNzJSbWJoYlRLODdmd25nc2V4MFp4U3FhY3M1V3Z0Q19MeXd5U1pUYnlNX2lTYk1RWjZhdExYOWpsUDFzZA",
+        "time": "2026-07-11 19:26:45"
+      },
       {
         "title": "因應高齡照護需求，臺大醫院雲林分院規劃在斗六院區旁興建一座長照教學大樓，目前尚有約9億多元的經費缺口，為此立法委員劉建國日前邀集教育部等單位下鄉視察規劃進度。 . 教育部也於現場允諾補足經費缺口，希望讓地方長照環境、相關教學及人才培育越來越完 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMipghBVV95cUxOdXdPT0lKNUF5VHlWeUF1Rm9YbURFNTI2ZkJ5TWhyYUZlQlpPaG9hTXNiNWNjOXZjRlB4cWdHdkV0d3p0TlZHdnpqSTd0Sm9CdFEwa2EtVDFjMU11Q2YtUmk2QUtrOWFHUEZTemVFQ2ltMkFlaFBWYnJDU0NNckIycHN2cWNGWDRGWGc2OGVZLW1DSHVMTjVJSGxMeU9uR2l1aUxYYkhkanVhSGl0Wk1wLTMtVV9tXzVyM3lYMlJFazVyckZZNWlkWjQ2U2dhb0RLX0hTcEhoRHNNY1lPcTB4ZkF2RHROb3NNbFNzUTBncVdBVkIySzFwR2xNaWR3TXQyUUxha1F5MXA4djhPM19QRk1ha0g1UEtMR1JWdno5VkM4a2V3R2tjbWlXVmlwVGxfbDlrTURMYVFmQVJJX0JNbW1WenRQbW5pd2RqcEphSHE1akZjUFVwYlg1YndGZTBsajVBbHp6T1lDdWp1MkhURnlWbmxSd1dkY0ZRMnR0N29BQjNIb3hWb25QU1BWRTBWSmI3MURZUGFWZGZOVnlscDVMYXJ2TDR5b09NV0U4MVBrQ3pzWmQ0b0JpZlFrSjIzNnA1X2J5eG93US1OMWw3VkRTZHQ0ZS1CMW5BUHRoWGJpX2toSkdBQjhjYVU4b3RNVDZfU0EwNTVmQ1kyUDA3a1h0OEp1cTdIc0tZNjdHSHJIakExLUhpQWJLeUQwck5DSEhrbW0yc1o3YmdFai1PNUtHaFZxbk1kbU1RcHRUV2FnRkNISndhcFUydHJzcG9TN3dwZDB0QW9FM0JtMmQxLU4zY3VhVzNZMlVsSVpZTGhSMlZ6enAtRFBmMEhETFBmNUdjX01nMnpuWEMyVUdTQXVhTFNacUYyLWdFUFFyVE1KdW93MWU2VnV4N1IwdUdwUkI1bkN5eEJYY1ZPa2NobGhLVHRkVXFVdzcxZ25pWjdFdTMyLXhDREQxNmxZVVdzbzRrdGtPazNVYmRTa1drcEhwTXNfSUJ5S2t0OElPOFdqdjBZZW9fTGE2T0hOUHNkSEZ0U3VsRmJZQkl1MWljUng5bWlSTjQ2cEJ0UGJHMTlJYUx5ZDdLRGc5bktxT3Z6ejRPRHZkX1pIcS1MQV9wR2tfVDJiNHNJUm9tY25MWExTZFMyeUNZajIzUHpQVWR6dGRQby1ITlJ3dmI2V3ZpdThQX01Fd3I5WDlhQmZrZDlCbnFlcXVQNzA5RFJ4VVY4UENnNG5ydkJjOFAwTk5pMGhsYnl2UHRfTTVYWFJFcnZ1cjB6Q0lIelhiNThGY0szejVUWTJCZXVraEV1Y0NiNDI4YVNJbG9KTFhISkVQVzhET3FNbGhIUkFleXllOWZUOVpHQVNVbUVsWkN2d1IwZV9LU0p6UVI1cGVPVFo0UXlfT1ZjMkE",
@@ -1616,6 +1682,20 @@
     "hour": [],
     "day": [
       {
+        "title": "明日（7/12）雲林縣正常上班上課。 ​依據中央氣象署預報資訊，縣府宣布，明天雲林縣正常上班、上課。 但建國仍然要提醒大家，#巴威颱風 外圍環流可能持續影響台灣，外出時務必要注意安全，慎防強風大雨。 希望風雨漸漸平息，大家都能平平安安出門、快快樂樂回家。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMihAhBVV95cUxPR3RfSTFNWl8wM3I0dmJ6RWZtUEUxVEg4dVdOejBfVC1WRjRIaVRFRE5yZ1N6aVlvN0xMc1E3cDh2TXdBVXNXY2RZdXBZcEt2anYyaDNOcHFIR0dSLWZESjNkTUtJNUpmUjhRNEg2TTR4WjdHRkU2eGhVMmhQc2NFVldxbmVFUlRieGhCUTY0aHNPTzRQRDhkdExRbzlja0R1U09MUEp3cHNsSGliTGpjUExKT25zZXZCa3V3UWF5aUJJNnIyVG9fclQ0LTR2NFFfMGxULW5uVFczN2RJcDRNVk55RmtSYm0xcWdqNE9UakpwX0VteXViVENic0FKY1AwZ2huQ2tOM3RXSVVxMzJIbU9DVF8tdUpSS1Q3YVZJNGxEZE54Ul9fSWZZaHlGcGNmNEFtckJkYmFDT0x0NHBZbWdkLVI0TlpSRXktMFZ2VnE0N3cyTmFoSjVVMjZsQVJaQ3NOYXY5a204NW54aVJqdTNYQXU3RXVRZDMydUlHbXVWRTY1MnB6YlVvdU9XandnTXpPTFZzWkZOdk1xTVk4QndDOFJDME81V1pFRXcwa2RUUjlKQzJYWFNpM3hyc0lEeF9HYmFMTEtNZHdyWFVjeERsclNvRFBodkVleHFlT2YzRmtNdHl5cnBqVHVyWlM0SHdna3dXNWw3RFc4amlmeUlnSzNURmtDOHlRNEtNN0xmRkFTNGprOGF6Sld1dm1wWkN3UkNBeEFRWVNzTk1iVW1aMW9Bc0FUSzNPQTE2MFQ3MWx1cXVSTWRPVDhfYzYxc0lrUUxWOTlBTjZzZHllQlp6VDdKeFFaSDRuTEVxaW1iaFRoSjhpYk9ZVDZKR0xuQ3o0Zy1ocjJGUXJkQm90eE1Cb1p1ZjJWOGEyMks5UHhEZ1czS0tNS2lGYWdBaTctUzVXYnF1NEg5VG9TakV1S05FVGZ5dl9JZTZhSjY3OTFTRkZOZHRQVkZkYjFsUVBjLWZ1elNaQ3ZETlhZNmVGalM3MHd4bGtFZUVWTnJ2b2tkQ2FhdVFPekU0TTR0TzJ1dVlGOG84WVpESVFzY09kX3lOQlpBc2hRMjdIa2x5YndDQ2xrZzRYbENJNEhKdTdJX3JJR1dpcFVEN2ZOSkEwR3BVUm01REtkVnlNQmpreDBXZnlWMUx5dlNjY1A0TEktYTRjS1JaMUlzVUpNZ3hHS0NSbmdpdkw0WVI1MDdnZ1BmbV8yMUtfRVVUWS0yUnY4d0IyVW81dU9NTEtuNTNCMXA5OUM3T2YxaGo4NEk4NUZsay1pb3phNzJSbWJoYlRLODdmd25nc2V4MFp4U3FhY3M1V3Z0Q19MeXd5U1pUYnlNX2lTYk1RWjZhdExYOWpsUDFzZA",
+        "time": "2026-07-11 19:26:45",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
+        "title": "張麗善與張嘉郡向中央爭取林內坪頂加勁護坡經費 - 臺灣導報",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04TVBFV0JTcVFZNF8zNFl2ODFmYlBMdzU1VG9kZVhLYWIwbTdRTzB0QVZnMnVwcnlHRjVrMW9rV3VsTTNkemhDMEM0Qmh2Q0xRY2hR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-11 19:12:21",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "地質影響林內坪頂崩塌地整治工程 張麗善縣長與張嘉郡立委將持續向中央爭取加勁護坡經費 - 墨新聞-MORE News",
         "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NcFYzYWpocDVZZ1ZrcWdTSjJmS1NIUXJfZm9EMlQwSjY5ODlMWWFtTVdCdE5nSGpFTUlGTUFMcGprZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-11 17:47:32",
@@ -1667,7 +1747,7 @@
       },
       {
         "name": "雲林",
-        "count": 2
+        "count": 3
       }
     ],
     "groups": []
