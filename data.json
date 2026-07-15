@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-07-15T12:05:31.540309+00:00",
+  "generated_at": "2026-07-15T12:21:00.439384+00:00",
   "metrics": {
-    "total_24h": 10,
+    "total_24h": 14,
     "prev_24h": 4,
-    "growth_pct": 150.0,
-    "news_24h": 9,
+    "growth_pct": 250.0,
+    "news_24h": 12,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 144,
+    "total": 148,
     "prev": 182,
-    "growth_pct": -20.88,
-    "news": 127,
+    "growth_pct": -18.68,
+    "news": 130,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,17 +28,21 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 9
+      "count": 12
     },
     {
       "platform": "facebook",
+      "count": 1
+    },
+    {
+      "platform": "youtube",
       "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 127
+      "count": 130
     },
     {
       "platform": "facebook",
@@ -46,7 +50,7 @@
     },
     {
       "platform": "youtube",
-      "count": 2
+      "count": 3
     }
   ],
   "by_hour": [
@@ -68,10 +72,14 @@
     },
     {
       "hour": "2026-07-15 17:00",
-      "count": 3
+      "count": 4
     },
     {
       "hour": "2026-07-15 18:00",
+      "count": 3
+    },
+    {
+      "hour": "2026-07-15 19:00",
       "count": 2
     }
   ],
@@ -306,24 +314,38 @@
     },
     {
       "hour": "2026-07-15 17:00",
-      "count": 3
+      "count": 4
     },
     {
       "hour": "2026-07-15 18:00",
+      "count": 3
+    },
+    {
+      "hour": "2026-07-15 19:00",
       "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 8
+      "count": 11
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
       {
+        "title": "雲林立委張嘉郡合體新竹市長高虹安談育兒政策 期盼政府協助年輕家庭減壓！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GRktjQ21aUm1BU2ZLa1BfSjFCMERQVS1tNXJVMW9teU1Bc19WQlNyckkzYW1nWVJuVGhycjRXNjVsSndIWk1WU0ZUWVJRaGVIVTlSRlpQeDYzQ0VhWU5HMGdCWG9VTEp1U2dz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-15 19:58:30"
+      },
+      {
         "title": "與高虹安對談少子化話題 張嘉郡：竹市府「0-6歲市府養」值得借鏡| 政治焦點 - 太報 TaiSounds",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45TFpubEZFeDVWOEhLTkk4Szc2NlhRendmb3Z4UmZ3bDFYajYya01fRXU5S1UzZGhuak1raFcyT2txZGotRVBxcVFuUkJSUEJ2bG1IMXd0V0JTeFdo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-15 18:13:10"
+      },
+      {
+        "title": "與高虹安對談少子化話題 張嘉郡：竹市府「0-6歲市府養」值得借鏡 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPQXJ2NENaNTlUM2Y3Qk9YU2hBczZIMFVOTW9OMENvcnB3TnBmOEJ3YnN0U1JRM0VrQVdJWlZHY3hCSG5JMmZSamlsZ3loM3VnSlk4VDZoRDBuUFhYZ1RReXNOVDlZSXo1N0FsTklRWEFaakdJUTVVZHZiUUdvejZYUVE3Z05VSEhxRDNuVkl0aDhwUVBVU1dLSi1Wd2ZXOTNLZEdpb0hYd0o0Y2swaUJ4bThjaUI3bF9wb0N3UTBCYUZ3bDk0aGhId3pmT0hoWU5YVmpYaG1uWW9ySUxUN1gzOXFjU0VrR0F6UzVUUU1SM2pEQ3A1QWVQR0l2QWJhd3NsME9jeHIzSXFSZXVOTlZmcEppaldPX1NDWlhtSnJIV0xtTUZVeVNEZEpjT0l0REU0X1R6a3ZtVDUxTEZtOGlQZVFXbmlDNHJwUjQ4MlNGNFExaEwtQkxv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-15 18:13:10"
       },
       {
@@ -345,6 +367,11 @@
         "title": "喪屍菸彈危害國人 立委劉建國要求警政署查獲電子菸就應驗毒 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxOUno1VkdoenVXTXUtUHNLZ2ctaGYzak5FMS1TM29xMW43UWZJYXdVdkd4eEVBdHdtY2gwUl9NakNVV2dLQU1fMUNjVk8yb1M0RjNIOWNMZGtLNmllTEFOOVdDM1kydXJfM0praC04R2o4WkR6S1hmcmhNeHBfMWlEXzZTeWRnaG0zY25ReDFLanhwdGhxR2FmUkpRSzNZU1hfbTFjR2t2dGw0T056OVd2TkdiSmZHQUNfM0dPNWVuVG1jbnZjUk9TMEgxQUJUSHg2YUdKX0wxcUl6a2RfUHRwRGtzbWNsMzRiTGRtQm5NSG92WmFJbThuTTd0bjhNMTlyc2M1cmZxWU5OVG5SdDBwV282N3JZc0pMdS1uMzRwRDNiQy1WT0dVMUlzRzcwLVd2ZzdvNnVXTG02OFFzTFctb0x3bjRTN3hZdjdNakszcVA1NkQ0QUt3SGhvSUl2SFNzNGZhdGx4blM5TU8wdEtfWGcyWFp2cjEwNm5iWEZGWS0tOGh4d1RfeDlyR2lVbVFOSTdma3RXMDI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-15 17:07:46"
+      },
+      {
+        "title": "電子菸恐成新興毒品載具 立委劉建國籲查獲即驗毒、建立辨識SOP - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DVHZMOHRWQlNaQVhrZTNFZmVpbW1jVWFvZkpEcURteHA0ZFNFMHdESnU3dkdid0RlbzUzQVR3WjF5V3BjTVMyN1hJZ2N5MkNRdEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-15 17:00:00"
       },
       {
         "title": "喪屍菸彈流竄！劉建國要求警政署研議：「查獲電子菸當場驗毒」 - Newtalk新聞",
@@ -366,14 +393,24 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 8
+      "count": 11
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
       {
+        "title": "雲林立委張嘉郡合體新竹市長高虹安談育兒政策 期盼政府協助年輕家庭減壓！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GRktjQ21aUm1BU2ZLa1BfSjFCMERQVS1tNXJVMW9teU1Bc19WQlNyckkzYW1nWVJuVGhycjRXNjVsSndIWk1WU0ZUWVJRaGVIVTlSRlpQeDYzQ0VhWU5HMGdCWG9VTEp1U2dz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-15 19:58:30"
+      },
+      {
         "title": "與高虹安對談少子化話題 張嘉郡：竹市府「0-6歲市府養」值得借鏡| 政治焦點 - 太報 TaiSounds",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45TFpubEZFeDVWOEhLTkk4Szc2NlhRendmb3Z4UmZ3bDFYajYya01fRXU5S1UzZGhuak1raFcyT2txZGotRVBxcVFuUkJSUEJ2bG1IMXd0V0JTeFdo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-15 18:13:10"
+      },
+      {
+        "title": "與高虹安對談少子化話題 張嘉郡：竹市府「0-6歲市府養」值得借鏡 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPQXJ2NENaNTlUM2Y3Qk9YU2hBczZIMFVOTW9OMENvcnB3TnBmOEJ3YnN0U1JRM0VrQVdJWlZHY3hCSG5JMmZSamlsZ3loM3VnSlk4VDZoRDBuUFhYZ1RReXNOVDlZSXo1N0FsTklRWEFaakdJUTVVZHZiUUdvejZYUVE3Z05VSEhxRDNuVkl0aDhwUVBVU1dLSi1Wd2ZXOTNLZEdpb0hYd0o0Y2swaUJ4bThjaUI3bF9wb0N3UTBCYUZ3bDk0aGhId3pmT0hoWU5YVmpYaG1uWW9ySUxUN1gzOXFjU0VrR0F6UzVUUU1SM2pEQ3A1QWVQR0l2QWJhd3NsME9jeHIzSXFSZXVOTlZmcEppaldPX1NDWlhtSnJIV0xtTUZVeVNEZEpjT0l0REU0X1R6a3ZtVDUxTEZtOGlQZVFXbmlDNHJwUjQ4MlNGNFExaEwtQkxv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-15 18:13:10"
       },
       {
@@ -397,6 +434,11 @@
         "time": "2026-07-15 17:07:46"
       },
       {
+        "title": "電子菸恐成新興毒品載具 立委劉建國籲查獲即驗毒、建立辨識SOP - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DVHZMOHRWQlNaQVhrZTNFZmVpbW1jVWFvZkpEcURteHA0ZFNFMHdESnU3dkdid0RlbzUzQVR3WjF5V3BjTVMyN1hJZ2N5MkNRdEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-15 17:00:00"
+      },
+      {
         "title": "喪屍菸彈流竄！劉建國要求警政署研議：「查獲電子菸當場驗毒」 - Newtalk新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FVUpkRXE0akdUcElDdzNEU0NpTHN6dU5NZmtyUlBuMWpRQ3Y4SmJZN1Z3UFYxUWlHbFNCTTFqSmIzOURqdFNZbmN1NmRpamJ6S2VZdnRPWWl3cXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-15 15:57:45"
@@ -414,17 +456,27 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 4,
-    "劉建國": 4
+    "張嘉郡": 6,
+    "劉建國": 5
   },
   "mention_compare_7d": {
-    "張嘉郡": 46,
-    "劉建國": 71
+    "張嘉郡": 48,
+    "劉建國": 72
   },
   "top_news": [
     {
+      "title": "雲林立委張嘉郡合體新竹市長高虹安談育兒政策 期盼政府協助年輕家庭減壓！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GRktjQ21aUm1BU2ZLa1BfSjFCMERQVS1tNXJVMW9teU1Bc19WQlNyckkzYW1nWVJuVGhycjRXNjVsSndIWk1WU0ZUWVJRaGVIVTlSRlpQeDYzQ0VhWU5HMGdCWG9VTEp1U2dz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-15 19:58:30"
+    },
+    {
       "title": "與高虹安對談少子化話題 張嘉郡：竹市府「0-6歲市府養」值得借鏡| 政治焦點 - 太報 TaiSounds",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45TFpubEZFeDVWOEhLTkk4Szc2NlhRendmb3Z4UmZ3bDFYajYya01fRXU5S1UzZGhuak1raFcyT2txZGotRVBxcVFuUkJSUEJ2bG1IMXd0V0JTeFdo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-15 18:13:10"
+    },
+    {
+      "title": "與高虹安對談少子化話題 張嘉郡：竹市府「0-6歲市府養」值得借鏡 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPQXJ2NENaNTlUM2Y3Qk9YU2hBczZIMFVOTW9OMENvcnB3TnBmOEJ3YnN0U1JRM0VrQVdJWlZHY3hCSG5JMmZSamlsZ3loM3VnSlk4VDZoRDBuUFhYZ1RReXNOVDlZSXo1N0FsTklRWEFaakdJUTVVZHZiUUdvejZYUVE3Z05VSEhxRDNuVkl0aDhwUVBVU1dLSi1Wd2ZXOTNLZEdpb0hYd0o0Y2swaUJ4bThjaUI3bF9wb0N3UTBCYUZ3bDk0aGhId3pmT0hoWU5YVmpYaG1uWW9ySUxUN1gzOXFjU0VrR0F6UzVUUU1SM2pEQ3A1QWVQR0l2QWJhd3NsME9jeHIzSXFSZXVOTlZmcEppaldPX1NDWlhtSnJIV0xtTUZVeVNEZEpjT0l0REU0X1R6a3ZtVDUxTEZtOGlQZVFXbmlDNHJwUjQ4MlNGNFExaEwtQkxv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-15 18:13:10"
     },
     {
@@ -446,6 +498,11 @@
       "title": "喪屍菸彈危害國人 立委劉建國要求警政署查獲電子菸就應驗毒 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxOUno1VkdoenVXTXUtUHNLZ2ctaGYzak5FMS1TM29xMW43UWZJYXdVdkd4eEVBdHdtY2gwUl9NakNVV2dLQU1fMUNjVk8yb1M0RjNIOWNMZGtLNmllTEFOOVdDM1kydXJfM0praC04R2o4WkR6S1hmcmhNeHBfMWlEXzZTeWRnaG0zY25ReDFLanhwdGhxR2FmUkpRSzNZU1hfbTFjR2t2dGw0T056OVd2TkdiSmZHQUNfM0dPNWVuVG1jbnZjUk9TMEgxQUJUSHg2YUdKX0wxcUl6a2RfUHRwRGtzbWNsMzRiTGRtQm5NSG92WmFJbThuTTd0bjhNMTlyc2M1cmZxWU5OVG5SdDBwV282N3JZc0pMdS1uMzRwRDNiQy1WT0dVMUlzRzcwLVd2ZzdvNnVXTG02OFFzTFctb0x3bjRTN3hZdjdNakszcVA1NkQ0QUt3SGhvSUl2SFNzNGZhdGx4blM5TU8wdEtfWGcyWFp2cjEwNm5iWEZGWS0tOGh4d1RfeDlyR2lVbVFOSTdma3RXMDI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-15 17:07:46"
+    },
+    {
+      "title": "電子菸恐成新興毒品載具 立委劉建國籲查獲即驗毒、建立辨識SOP - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DVHZMOHRWQlNaQVhrZTNFZmVpbW1jVWFvZkpEcURteHA0ZFNFMHdESnU3dkdid0RlbzUzQVR3WjF5V3BjTVMyN1hJZ2N5MkNRdEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-15 17:00:00"
     },
     {
       "title": "喪屍菸彈流竄！劉建國要求警政署研議：「查獲電子菸當場驗毒」 - Newtalk新聞",
@@ -470,8 +527,18 @@
   ],
   "top_news_7d": [
     {
+      "title": "雲林立委張嘉郡合體新竹市長高虹安談育兒政策 期盼政府協助年輕家庭減壓！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GRktjQ21aUm1BU2ZLa1BfSjFCMERQVS1tNXJVMW9teU1Bc19WQlNyckkzYW1nWVJuVGhycjRXNjVsSndIWk1WU0ZUWVJRaGVIVTlSRlpQeDYzQ0VhWU5HMGdCWG9VTEp1U2dz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-15 19:58:30"
+    },
+    {
       "title": "與高虹安對談少子化話題 張嘉郡：竹市府「0-6歲市府養」值得借鏡| 政治焦點 - 太報 TaiSounds",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45TFpubEZFeDVWOEhLTkk4Szc2NlhRendmb3Z4UmZ3bDFYajYya01fRXU5S1UzZGhuak1raFcyT2txZGotRVBxcVFuUkJSUEJ2bG1IMXd0V0JTeFdo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-15 18:13:10"
+    },
+    {
+      "title": "與高虹安對談少子化話題 張嘉郡：竹市府「0-6歲市府養」值得借鏡 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPQXJ2NENaNTlUM2Y3Qk9YU2hBczZIMFVOTW9OMENvcnB3TnBmOEJ3YnN0U1JRM0VrQVdJWlZHY3hCSG5JMmZSamlsZ3loM3VnSlk4VDZoRDBuUFhYZ1RReXNOVDlZSXo1N0FsTklRWEFaakdJUTVVZHZiUUdvejZYUVE3Z05VSEhxRDNuVkl0aDhwUVBVU1dLSi1Wd2ZXOTNLZEdpb0hYd0o0Y2swaUJ4bThjaUI3bF9wb0N3UTBCYUZ3bDk0aGhId3pmT0hoWU5YVmpYaG1uWW9ySUxUN1gzOXFjU0VrR0F6UzVUUU1SM2pEQ3A1QWVQR0l2QWJhd3NsME9jeHIzSXFSZXVOTlZmcEppaldPX1NDWlhtSnJIV0xtTUZVeVNEZEpjT0l0REU0X1R6a3ZtVDUxTEZtOGlQZVFXbmlDNHJwUjQ4MlNGNFExaEwtQkxv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-15 18:13:10"
     },
     {
@@ -493,6 +560,11 @@
       "title": "喪屍菸彈危害國人 立委劉建國要求警政署查獲電子菸就應驗毒 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxOUno1VkdoenVXTXUtUHNLZ2ctaGYzak5FMS1TM29xMW43UWZJYXdVdkd4eEVBdHdtY2gwUl9NakNVV2dLQU1fMUNjVk8yb1M0RjNIOWNMZGtLNmllTEFOOVdDM1kydXJfM0praC04R2o4WkR6S1hmcmhNeHBfMWlEXzZTeWRnaG0zY25ReDFLanhwdGhxR2FmUkpRSzNZU1hfbTFjR2t2dGw0T056OVd2TkdiSmZHQUNfM0dPNWVuVG1jbnZjUk9TMEgxQUJUSHg2YUdKX0wxcUl6a2RfUHRwRGtzbWNsMzRiTGRtQm5NSG92WmFJbThuTTd0bjhNMTlyc2M1cmZxWU5OVG5SdDBwV282N3JZc0pMdS1uMzRwRDNiQy1WT0dVMUlzRzcwLVd2ZzdvNnVXTG02OFFzTFctb0x3bjRTN3hZdjdNakszcVA1NkQ0QUt3SGhvSUl2SFNzNGZhdGx4blM5TU8wdEtfWGcyWFp2cjEwNm5iWEZGWS0tOGh4d1RfeDlyR2lVbVFOSTdma3RXMDI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-15 17:07:46"
+    },
+    {
+      "title": "電子菸恐成新興毒品載具 立委劉建國籲查獲即驗毒、建立辨識SOP - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DVHZMOHRWQlNaQVhrZTNFZmVpbW1jVWFvZkpEcURteHA0ZFNFMHdESnU3dkdid0RlbzUzQVR3WjF5V3BjTVMyN1hJZ2N5MkNRdEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-15 17:00:00"
     },
     {
       "title": "喪屍菸彈流竄！劉建國要求警政署研議：「查獲電子菸當場驗毒」 - Newtalk新聞",
@@ -553,21 +625,6 @@
       "title": "只差最後一哩路！張嘉郡當面請託韓國瑜：協助爭取補助 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQYXBhWV9kNkd6MjI4RG9RektWdk0zbzdwdkxtdXNhV3AtWUVOOW1CNkQxLWozOVoxWk50ZHBiMWdOWVRna0FQbEl2Q2pwT0tZQjZfSkM0TWRKbkllS0g3ZXNxcUpyNkRMRl91TjNEMEFNZ3dCZmxCeGdLMk1rM2ZnUmt4V0FzZVVaTzJvX2RjclNiV3pxSGJDSVRGN29zeXJEWHdQdXZNVmk2dVg0NlBwNWdSU1JyaGRVVUpQcEEwdVVTc0lZQ3FDVlg4c0NXTEdudWt3bWdXQlpVQmRXZ3YwdlltRHlWNVV2alV2Z2VOUmdybkp6VE0xblJnUFlFTDlTRDB5QnlDeWlfN1UzT2RQc0dxU0dUTmpSQ2FneWlabGFtOVB6ZzFrRXQ4S1RHNWlTVzN3WmluVGdSSElSZXljQV9hVVkySEV3Q1JPanN2U21BRzlNd3UzV1Y1eVdZVFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-13 17:36:05"
-    },
-    {
-      "title": "張嘉郡、張麗善推動斗六長照教學大樓　盼韓國瑜助爭取9億經費 - 鏡週刊Mirror Media",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fYkZTTHRzekhidlhONDFBX01RendzU01PbHpqaUU2Y0ptWTVMLURhVXAwemhfd3duMGdJUFdkaEN6VkowZE9mMlB0TEx5NE1xUnRYMlhYaHV1M1BINE5sYnpScnBTd9IBa0FVX3lxTE9EN0V4UnkzcENaR0pQUmRvSVowWHlVeXNvNlExOTJPeDhsU3VTbllXVHJJeXJEanB5WmlzMW9kd2xDa05qOURRYWgtSlR1TkRkSzZKTjVpX01LUkNLTWFJVHVJV1YzMGtfdW1v?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-13 16:45:00"
-    },
-    {
-      "title": "張嘉郡、張麗善推動斗六長照教學大樓　盼韓國瑜助爭取9億經費 - 鏡週刊Mirror Media",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EN0V4UnkzcENaR0pQUmRvSVowWHlVeXNvNlExOTJPeDhsU3VTbllXVHJJeXJEanB5WmlzMW9kd2xDa05qOURRYWgtSlR1TkRkSzZKTjVpX01LUkNLTWFJVHVJV1YzMGtfdW1v0gFrQVVfeXFMT0Q3RXhSeTNwQ1pHSlBSZG9JWjBYeVV5c282UTE5Mk94OGxTdVNuWVdUckl5ckRqcHlaaXMxb2R3bENrTmo5RFFhaC1KVHVORGRLNkpONWlfTUtSQ0tNYUlUdUlXVjMwa191bW8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-13 16:45:00"
-    },
-    {
-      "title": "張嘉郡、張麗善推動斗六長照教學大樓 盼韓國瑜助爭取9億經費 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxONTluNzMtaHBmLWY5bk1hX21sc3NCcWFXcnd5N3BqTFUzbnNfaWpDUkRXeXZweUxNa28yYmowTmdHTW9VcENBTVVHRmx5TVFOR2NESng4Q0RNYWtOaGd2NEd2Zlk3SGFvcXZDS1lVSWlCaHBQakZ0SW5NajZvcVExalZSS1Q3S09sVDVLRFA5Y0RXblRmY1ppSnJ0RjRCRmJ6WjRrekE3Ym1CX1Q5U2MwM0t5N0RjMGFoS2VsV1VkRnV3ai13NERZZkg4Vl94eEtnSkVMOXgtTUZnTFZCdV9aUU9nWHV4cTBlZnI4ZnpwbjQ5aktiT1ctUU4zcWtxaEVuNHROdlM0Tk1aZTdaT2c2VkViYU9XVE5Bd2w1djFWa0JfRUZ2YmVDZ0hjWEF0TG1vQS1XcFpHNk1GQ0I4N3hncEVLWTU3SzVOUzdYTGtjdEFjQ1FZd3FxNVYwc201YnpkM0xMT2FPQkJQMGluVUJGOVFIVEVMU2gtbkxDYWJubDB2Zy1DZWtmem83SGJncGM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-13 16:45:00"
     }
   ],
   "latest_facebook_20": [
@@ -674,8 +731,18 @@
   ],
   "latest_news_20": [
     {
+      "title": "雲林立委張嘉郡合體新竹市長高虹安談育兒政策 期盼政府協助年輕家庭減壓！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GRktjQ21aUm1BU2ZLa1BfSjFCMERQVS1tNXJVMW9teU1Bc19WQlNyckkzYW1nWVJuVGhycjRXNjVsSndIWk1WU0ZUWVJRaGVIVTlSRlpQeDYzQ0VhWU5HMGdCWG9VTEp1U2dz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-15 19:58:30"
+    },
+    {
       "title": "與高虹安對談少子化話題 張嘉郡：竹市府「0-6歲市府養」值得借鏡| 政治焦點 - 太報 TaiSounds",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45TFpubEZFeDVWOEhLTkk4Szc2NlhRendmb3Z4UmZ3bDFYajYya01fRXU5S1UzZGhuak1raFcyT2txZGotRVBxcVFuUkJSUEJ2bG1IMXd0V0JTeFdo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-15 18:13:10"
+    },
+    {
+      "title": "與高虹安對談少子化話題 張嘉郡：竹市府「0-6歲市府養」值得借鏡 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPQXJ2NENaNTlUM2Y3Qk9YU2hBczZIMFVOTW9OMENvcnB3TnBmOEJ3YnN0U1JRM0VrQVdJWlZHY3hCSG5JMmZSamlsZ3loM3VnSlk4VDZoRDBuUFhYZ1RReXNOVDlZSXo1N0FsTklRWEFaakdJUTVVZHZiUUdvejZYUVE3Z05VSEhxRDNuVkl0aDhwUVBVU1dLSi1Wd2ZXOTNLZEdpb0hYd0o0Y2swaUJ4bThjaUI3bF9wb0N3UTBCYUZ3bDk0aGhId3pmT0hoWU5YVmpYaG1uWW9ySUxUN1gzOXFjU0VrR0F6UzVUUU1SM2pEQ3A1QWVQR0l2QWJhd3NsME9jeHIzSXFSZXVOTlZmcEppaldPX1NDWlhtSnJIV0xtTUZVeVNEZEpjT0l0REU0X1R6a3ZtVDUxTEZtOGlQZVFXbmlDNHJwUjQ4MlNGNFExaEwtQkxv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-15 18:13:10"
     },
     {
@@ -697,6 +764,11 @@
       "title": "喪屍菸彈危害國人 立委劉建國要求警政署查獲電子菸就應驗毒 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxOUno1VkdoenVXTXUtUHNLZ2ctaGYzak5FMS1TM29xMW43UWZJYXdVdkd4eEVBdHdtY2gwUl9NakNVV2dLQU1fMUNjVk8yb1M0RjNIOWNMZGtLNmllTEFOOVdDM1kydXJfM0praC04R2o4WkR6S1hmcmhNeHBfMWlEXzZTeWRnaG0zY25ReDFLanhwdGhxR2FmUkpRSzNZU1hfbTFjR2t2dGw0T056OVd2TkdiSmZHQUNfM0dPNWVuVG1jbnZjUk9TMEgxQUJUSHg2YUdKX0wxcUl6a2RfUHRwRGtzbWNsMzRiTGRtQm5NSG92WmFJbThuTTd0bjhNMTlyc2M1cmZxWU5OVG5SdDBwV282N3JZc0pMdS1uMzRwRDNiQy1WT0dVMUlzRzcwLVd2ZzdvNnVXTG02OFFzTFctb0x3bjRTN3hZdjdNakszcVA1NkQ0QUt3SGhvSUl2SFNzNGZhdGx4blM5TU8wdEtfWGcyWFp2cjEwNm5iWEZGWS0tOGh4d1RfeDlyR2lVbVFOSTdma3RXMDI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-15 17:07:46"
+    },
+    {
+      "title": "電子菸恐成新興毒品載具 立委劉建國籲查獲即驗毒、建立辨識SOP - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DVHZMOHRWQlNaQVhrZTNFZmVpbW1jVWFvZkpEcURteHA0ZFNFMHdESnU3dkdid0RlbzUzQVR3WjF5V3BjTVMyN1hJZ2N5MkNRdEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-15 17:00:00"
     },
     {
       "title": "喪屍菸彈流竄！劉建國要求警政署研議：「查獲電子菸當場驗毒」 - Newtalk新聞",
@@ -757,21 +829,6 @@
       "title": "只差最後一哩路！張嘉郡當面請託韓國瑜：協助爭取補助 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQYXBhWV9kNkd6MjI4RG9RektWdk0zbzdwdkxtdXNhV3AtWUVOOW1CNkQxLWozOVoxWk50ZHBiMWdOWVRna0FQbEl2Q2pwT0tZQjZfSkM0TWRKbkllS0g3ZXNxcUpyNkRMRl91TjNEMEFNZ3dCZmxCeGdLMk1rM2ZnUmt4V0FzZVVaTzJvX2RjclNiV3pxSGJDSVRGN29zeXJEWHdQdXZNVmk2dVg0NlBwNWdSU1JyaGRVVUpQcEEwdVVTc0lZQ3FDVlg4c0NXTEdudWt3bWdXQlpVQmRXZ3YwdlltRHlWNVV2alV2Z2VOUmdybkp6VE0xblJnUFlFTDlTRDB5QnlDeWlfN1UzT2RQc0dxU0dUTmpSQ2FneWlabGFtOVB6ZzFrRXQ4S1RHNWlTVzN3WmluVGdSSElSZXljQV9hVVkySEV3Q1JPanN2U21BRzlNd3UzV1Y1eVdZVFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-13 17:36:05"
-    },
-    {
-      "title": "張嘉郡、張麗善推動斗六長照教學大樓　盼韓國瑜助爭取9億經費 - 鏡週刊Mirror Media",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fYkZTTHRzekhidlhONDFBX01RendzU01PbHpqaUU2Y0ptWTVMLURhVXAwemhfd3duMGdJUFdkaEN6VkowZE9mMlB0TEx5NE1xUnRYMlhYaHV1M1BINE5sYnpScnBTd9IBa0FVX3lxTE9EN0V4UnkzcENaR0pQUmRvSVowWHlVeXNvNlExOTJPeDhsU3VTbllXVHJJeXJEanB5WmlzMW9kd2xDa05qOURRYWgtSlR1TkRkSzZKTjVpX01LUkNLTWFJVHVJV1YzMGtfdW1v?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-13 16:45:00"
-    },
-    {
-      "title": "張嘉郡、張麗善推動斗六長照教學大樓　盼韓國瑜助爭取9億經費 - 鏡週刊Mirror Media",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EN0V4UnkzcENaR0pQUmRvSVowWHlVeXNvNlExOTJPeDhsU3VTbllXVHJJeXJEanB5WmlzMW9kd2xDa05qOURRYWgtSlR1TkRkSzZKTjVpX01LUkNLTWFJVHVJV1YzMGtfdW1v0gFrQVVfeXFMT0Q3RXhSeTNwQ1pHSlBSZG9JWjBYeVV5c282UTE5Mk94OGxTdVNuWVdUckl5ckRqcHlaaXMxb2R3bENrTmo5RFFhaC1KVHVORGRLNkpONWlfTUtSQ0tNYUlUdUlXVjMwa191bW8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-13 16:45:00"
-    },
-    {
-      "title": "張嘉郡、張麗善推動斗六長照教學大樓 盼韓國瑜助爭取9億經費 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxONTluNzMtaHBmLWY5bk1hX21sc3NCcWFXcnd5N3BqTFUzbnNfaWpDUkRXeXZweUxNa28yYmowTmdHTW9VcENBTVVHRmx5TVFOR2NESng4Q0RNYWtOaGd2NEd2Zlk3SGFvcXZDS1lVSWlCaHBQakZ0SW5NajZvcVExalZSS1Q3S09sVDVLRFA5Y0RXblRmY1ppSnJ0RjRCRmJ6WjRrekE3Ym1CX1Q5U2MwM0t5N0RjMGFoS2VsV1VkRnV3ai13NERZZkg4Vl94eEtnSkVMOXgtTUZnTFZCdV9aUU9nWHV4cTBlZnI4ZnpwbjQ5aktiT1ctUU4zcWtxaEVuNHROdlM0Tk1aZTdaT2c2VkViYU9XVE5Bd2w1djFWa0JfRUZ2YmVDZ0hjWEF0TG1vQS1XcFpHNk1GQ0I4N3hncEVLWTU3SzVOUzdYTGtjdEFjQ1FZd3FxNVYwc201YnpkM0xMT2FPQkJQMGluVUJGOVFIVEVMU2gtbkxDYWJubDB2Zy1DZWtmem83SGJncGM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-13 16:45:00"
     }
   ],
   "person_sections": {
@@ -880,8 +937,18 @@
       ],
       "news": [
         {
+          "title": "雲林立委張嘉郡合體新竹市長高虹安談育兒政策 期盼政府協助年輕家庭減壓！ - 台灣華報",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GRktjQ21aUm1BU2ZLa1BfSjFCMERQVS1tNXJVMW9teU1Bc19WQlNyckkzYW1nWVJuVGhycjRXNjVsSndIWk1WU0ZUWVJRaGVIVTlSRlpQeDYzQ0VhWU5HMGdCWG9VTEp1U2dz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-15 19:58:30"
+        },
+        {
           "title": "與高虹安對談少子化話題 張嘉郡：竹市府「0-6歲市府養」值得借鏡| 政治焦點 - 太報 TaiSounds",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45TFpubEZFeDVWOEhLTkk4Szc2NlhRendmb3Z4UmZ3bDFYajYya01fRXU5S1UzZGhuak1raFcyT2txZGotRVBxcVFuUkJSUEJ2bG1IMXd0V0JTeFdo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-15 18:13:10"
+        },
+        {
+          "title": "與高虹安對談少子化話題 張嘉郡：竹市府「0-6歲市府養」值得借鏡 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPQXJ2NENaNTlUM2Y3Qk9YU2hBczZIMFVOTW9OMENvcnB3TnBmOEJ3YnN0U1JRM0VrQVdJWlZHY3hCSG5JMmZSamlsZ3loM3VnSlk4VDZoRDBuUFhYZ1RReXNOVDlZSXo1N0FsTklRWEFaakdJUTVVZHZiUUdvejZYUVE3Z05VSEhxRDNuVkl0aDhwUVBVU1dLSi1Wd2ZXOTNLZEdpb0hYd0o0Y2swaUJ4bThjaUI3bF9wb0N3UTBCYUZ3bDk0aGhId3pmT0hoWU5YVmpYaG1uWW9ySUxUN1gzOXFjU0VrR0F6UzVUUU1SM2pEQ3A1QWVQR0l2QWJhd3NsME9jeHIzSXFSZXVOTlZmcEppaldPX1NDWlhtSnJIV0xtTUZVeVNEZEpjT0l0REU0X1R6a3ZtVDUxTEZtOGlQZVFXbmlDNHJwUjQ4MlNGNFExaEwtQkxv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-15 18:13:10"
         },
         {
@@ -968,16 +1035,6 @@
           "title": "張嘉郡挺斗六電動車產業園區 盼打造中台灣產業廊帶 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPSTd2LWhpZk5OUFRmZ1ZOSXpFNzN4MjVEbG52QW54bTZJQ3RUbmdqdE1QQ1lVVUE4bUpuUTNFNUhlTVVCUlBybnF1N2o4Tm1relhvU0dVem9iaW10a0xwaU8zMG5kTGpyVHZ4bUs2T2N5SnV0N0lsNFh3UFF2aE9sZTNtZTFlRnU2Uk1pZ0xaS3Z0bE51YjlIN1Q5WTF3djV6bVNLUU8xU1pOVnVpeE56ZVE4UjlnZEMwbWpoVWJlbkpnR05OQ0RYY0swbjJCclpOV012Qi0yVndKd2lYczdfTEZsR1hWcWRzSzdXdHRQb1ZYUGl5TUstbjN1S1dDQ05zdGw1S1l2ZmZqbGYtb0FoQUdHQkhoN0cyTkJWYU1lOXdNY3A1cTYtdV82RFhfenZteF9NenV5b2lIN3d5Q1pkZWxocmJOcHdvTXVaOHJ2ZnNGbnBSQTI5RjFoYml3c3h2THR5RmZwNmg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-13 14:18:46"
-        },
-        {
-          "title": "長照園區還差9億元！台大分院長親向雲林女婿韓國瑜、張嘉郡請命 - NOWnews今日新聞",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVFNZYzBXXy1nUG9SZjhQNG1DSVRkdFJyTFhQNE1iTVA1Tko2XzRnTkZNakt5ZDI4Skh6eGtJQTFOcldBNW5QZmc2LXpZSXl3N2VveVpWX3VKWVRCZUNTcVNKNUVnTHlaY0J0MHp5TGJZM2toSEJaMjc0SHh3Nzl4VzdMMFJnangtcU13dmlPemZlQmhv0gFSQVVfeXFMTjdYdVUwLTBLU1I2b05sZDVhbDhETXlUTFd6bUk3QXhkeWlaUVRZTU5WT1k1NFNCMEJlaHF4RTZzNU5WZktmSHlBZ2hVRW10WnVYUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-13 14:00:41"
-        },
-        {
-          "title": "長照園區還差9億元！台大分院長親向雲林女婿韓國瑜、張嘉郡請命 - NOWnews今日新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43WHVVMC0wS1NSNm9ObGQ1YWw4RE15VExXem1JN0F4ZHlpWlFUWU1OVk9ZNTRTQjBCZWhxeEU2czVOVmZLZkh5QWdoVUVtdFp1WFHSAVJBVV95cUxON1h1VTAtMEtTUjZvTmxkNWFsOERNeVRMV3ptSTdBeGR5aVpRVFlNTlZPWTU0U0IwQmVocXhFNnM1TlZmS2ZIeUFnaFVFbXRadVhR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-13 14:00:41"
         }
       ]
     },
@@ -1091,6 +1148,11 @@
           "time": "2026-07-15 17:07:46"
         },
         {
+          "title": "電子菸恐成新興毒品載具 立委劉建國籲查獲即驗毒、建立辨識SOP - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DVHZMOHRWQlNaQVhrZTNFZmVpbW1jVWFvZkpEcURteHA0ZFNFMHdESnU3dkdid0RlbzUzQVR3WjF5V3BjTVMyN1hJZ2N5MkNRdEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-15 17:00:00"
+        },
+        {
           "title": "喪屍菸彈流竄！劉建國要求警政署研議：「查獲電子菸當場驗毒」 - Newtalk新聞",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FVUpkRXE0akdUcElDdzNEU0NpTHN6dU5NZmtyUlBuMWpRQ3Y4SmJZN1Z3UFYxUWlHbFNCTTFqSmIzOURqdFNZbmN1NmRpamJ6S2VZdnRPWWl3cXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-15 15:57:45"
@@ -1179,11 +1241,6 @@
           "title": "中聯致癌油責任在基層提供不實資訊？ 藍民代：劉建國棄車保帥 | 太報 - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MbnRwSHk1cXQxeEN3UEJmTHp6cXRUc0Y4a0RCc2R3UXJrWDJGUkc0d3JwM25OOG9ETFRZbE8xbVM1cjg1d2FkZUZELWxxZzk1MVM0SzBR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-10 15:28:38"
-        },
-        {
-          "title": "中聯致癌油責任在基層提供不實資訊？ 藍民代：劉建國棄車保帥| 政治焦點 - 太報 TaiSounds",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OTWQ0ZloyaXVTM0ZGUng3eko3bU1KVXhZaWc2TGFPUkFXWGpxdG5ybUI2cVpuRHM4RUMxdVZ4MHN4SDhlRld2eHRySDJldHBmcHNGNS1YT0NLcE9F?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-10 15:17:36"
         }
       ]
     }
@@ -1191,8 +1248,18 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "雲林立委張嘉郡合體新竹市長高虹安談育兒政策 期盼政府協助年輕家庭減壓！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GRktjQ21aUm1BU2ZLa1BfSjFCMERQVS1tNXJVMW9teU1Bc19WQlNyckkzYW1nWVJuVGhycjRXNjVsSndIWk1WU0ZUWVJRaGVIVTlSRlpQeDYzQ0VhWU5HMGdCWG9VTEp1U2dz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-15 19:58:30"
+      },
+      {
         "title": "與高虹安對談少子化話題 張嘉郡：竹市府「0-6歲市府養」值得借鏡| 政治焦點 - 太報 TaiSounds",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45TFpubEZFeDVWOEhLTkk4Szc2NlhRendmb3Z4UmZ3bDFYajYya01fRXU5S1UzZGhuak1raFcyT2txZGotRVBxcVFuUkJSUEJ2bG1IMXd0V0JTeFdo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-15 18:13:10"
+      },
+      {
+        "title": "與高虹安對談少子化話題 張嘉郡：竹市府「0-6歲市府養」值得借鏡 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPQXJ2NENaNTlUM2Y3Qk9YU2hBczZIMFVOTW9OMENvcnB3TnBmOEJ3YnN0U1JRM0VrQVdJWlZHY3hCSG5JMmZSamlsZ3loM3VnSlk4VDZoRDBuUFhYZ1RReXNOVDlZSXo1N0FsTklRWEFaakdJUTVVZHZiUUdvejZYUVE3Z05VSEhxRDNuVkl0aDhwUVBVU1dLSi1Wd2ZXOTNLZEdpb0hYd0o0Y2swaUJ4bThjaUI3bF9wb0N3UTBCYUZ3bDk0aGhId3pmT0hoWU5YVmpYaG1uWW9ySUxUN1gzOXFjU0VrR0F6UzVUUU1SM2pEQ3A1QWVQR0l2QWJhd3NsME9jeHIzSXFSZXVOTlZmcEppaldPX1NDWlhtSnJIV0xtTUZVeVNEZEpjT0l0REU0X1R6a3ZtVDUxTEZtOGlQZVFXbmlDNHJwUjQ4MlNGNFExaEwtQkxv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-15 18:13:10"
       },
       {
@@ -1214,6 +1281,11 @@
         "title": "喪屍菸彈危害國人 立委劉建國要求警政署查獲電子菸就應驗毒 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxOUno1VkdoenVXTXUtUHNLZ2ctaGYzak5FMS1TM29xMW43UWZJYXdVdkd4eEVBdHdtY2gwUl9NakNVV2dLQU1fMUNjVk8yb1M0RjNIOWNMZGtLNmllTEFOOVdDM1kydXJfM0praC04R2o4WkR6S1hmcmhNeHBfMWlEXzZTeWRnaG0zY25ReDFLanhwdGhxR2FmUkpRSzNZU1hfbTFjR2t2dGw0T056OVd2TkdiSmZHQUNfM0dPNWVuVG1jbnZjUk9TMEgxQUJUSHg2YUdKX0wxcUl6a2RfUHRwRGtzbWNsMzRiTGRtQm5NSG92WmFJbThuTTd0bjhNMTlyc2M1cmZxWU5OVG5SdDBwV282N3JZc0pMdS1uMzRwRDNiQy1WT0dVMUlzRzcwLVd2ZzdvNnVXTG02OFFzTFctb0x3bjRTN3hZdjdNakszcVA1NkQ0QUt3SGhvSUl2SFNzNGZhdGx4blM5TU8wdEtfWGcyWFp2cjEwNm5iWEZGWS0tOGh4d1RfeDlyR2lVbVFOSTdma3RXMDI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-15 17:07:46"
+      },
+      {
+        "title": "電子菸恐成新興毒品載具 立委劉建國籲查獲即驗毒、建立辨識SOP - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DVHZMOHRWQlNaQVhrZTNFZmVpbW1jVWFvZkpEcURteHA0ZFNFMHdESnU3dkdid0RlbzUzQVR3WjF5V3BjTVMyN1hJZ2N5MkNRdEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-15 17:00:00"
       },
       {
         "title": "喪屍菸彈流竄！劉建國要求警政署研議：「查獲電子菸當場驗毒」 - Newtalk新聞",
@@ -1242,13 +1314,30 @@
         "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxNUWd5VktXYU5tdzdpWGQtMzI5Z1dyMzNjY1MwUXZ4TXAwUUVCNFBNbDdXVkdlVWFTUGN0ZzRwaFk3MC04cm9ENVg4U1Fzb0psYmpGZGp5VURTcHBScDJBYzBUUTd1Z1p0OHlFN1V6WHhQYjVxQnVwUjk1eUpjYWFveXBMUk9hSVJRZEN5R050RGdVQkpwd282UjVVS011YnY0Y20xYW52VkhxWURBUEVHZklJR2tNemYyaEJjLUd3Umxjc0V5VzFNU2dMc201ZXFEQno3MllXaGFfZVlMbmdiTVdzalAzb1hqcEtlbHBMYzViaDN5aWxWbGw5cEZUY0UzcVVxcEdOVERYLS1WMVEydEQyWUtuSXB4cHBQQThEZm5mcUx2NnczVXZmLUJEb3pHWHYtbFN3UWpNVHNQdHVvZTlvdVVKWEQyc1o0Q1RNblBkU3d2bmN4QkxVclBJcmpZTUEteDFUdjg4WDRMZkQ2OUdWUGZ6blhrb3Jac3BtV2g1OEU2MEl6Q2FqTl9FVzdWZlJmUk15UmhYbkx3M2x5bHhnd00tVjg0M0pnZ3YxalMyZHN4WmZMcWdOdk1qRmNLZ04xMEs2Y0RDbWxzNnpyaUQ0MXlyNzlzQWhWS0V4X2w1RGdlZ1lSSXVWR1d2MUdDUUVISmhzZXE0S0RKMEpsQ2E5X1RyR3BucWtOalJEWWt2RnZ2T1ZHV25KVmZnTXIyQUU2MFlTWUZGM201S1pyR0lFQmluM0ZkUlNqM3hDS3NpYmZLYko3V1liY0tWUEpCbng3d1pCUllLTVAtMFZKSDNrVU5sZFN5UWdiYmFjQXRveGVnWlowRmxhbzJHR0RmNk05aDltSUNLMmdodHNIWm94QWdhUGhBYTI3a0xndElnZDRmcXpqUUZkXzJSVk5jMTUyTUtlckdUWS1Lc1VUTlc4cFpYUmN0dDN3S2MxSVNwdG1qR1QyQXhEY2ZEejdMZm5NSmxoTmxLSG9VaXpfZTA3VmZXanJQbmRYZXdzckRwdkZDM3c4bFFuZWFnYzYxWjFleGs2OVdUcHdMZ3NWMENacU8yc2pPRk83bnEzOEdCUzBZMmJsT2tOMkk3MkJoYXY5WUZoU2pybFY2UTRNUXJQWFhGUzFkN3RnR3Q4Z0FyYjRYUndGWnlRLUxVSTU1SlFMZ2RkQXJ5X0xnWEtjNnFUdzUtWU5EeFkwZ05GWnNXbFFYOUtlNEFac2RoZ1BTNWk0dE4wMkRIV1JNc1BiSGkwbnZyNVkxRDRPYnRXZ25IT2NtdktVcml3eEZULVRJWTRYem5mMF82VnZGZWVCM3I1cDgwQ012TUJKWmliNThILS1aV29lVnFhdlNRQXVtNzhsVnlMWG9mTEpVTExJeWtKM3Q2OHVENFBJV0hIM0xXR1pL",
         "time": "2026-07-15 14:24:39"
       }
+    ],
+    "youtube": [
+      {
+        "title": "中共威脅就在眼前，應不分黨派一同譴責！",
+        "url": "https://www.youtube.com/shorts/nSxDHlbLCcU",
+        "time": "2026-07-15 19:11:14"
+      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "雲林立委張嘉郡合體新竹市長高虹安談育兒政策 期盼政府協助年輕家庭減壓！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GRktjQ21aUm1BU2ZLa1BfSjFCMERQVS1tNXJVMW9teU1Bc19WQlNyckkzYW1nWVJuVGhycjRXNjVsSndIWk1WU0ZUWVJRaGVIVTlSRlpQeDYzQ0VhWU5HMGdCWG9VTEp1U2dz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-15 19:58:30"
+      },
+      {
         "title": "與高虹安對談少子化話題 張嘉郡：竹市府「0-6歲市府養」值得借鏡| 政治焦點 - 太報 TaiSounds",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45TFpubEZFeDVWOEhLTkk4Szc2NlhRendmb3Z4UmZ3bDFYajYya01fRXU5S1UzZGhuak1raFcyT2txZGotRVBxcVFuUkJSUEJ2bG1IMXd0V0JTeFdo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-15 18:13:10"
+      },
+      {
+        "title": "與高虹安對談少子化話題 張嘉郡：竹市府「0-6歲市府養」值得借鏡 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPQXJ2NENaNTlUM2Y3Qk9YU2hBczZIMFVOTW9OMENvcnB3TnBmOEJ3YnN0U1JRM0VrQVdJWlZHY3hCSG5JMmZSamlsZ3loM3VnSlk4VDZoRDBuUFhYZ1RReXNOVDlZSXo1N0FsTklRWEFaakdJUTVVZHZiUUdvejZYUVE3Z05VSEhxRDNuVkl0aDhwUVBVU1dLSi1Wd2ZXOTNLZEdpb0hYd0o0Y2swaUJ4bThjaUI3bF9wb0N3UTBCYUZ3bDk0aGhId3pmT0hoWU5YVmpYaG1uWW9ySUxUN1gzOXFjU0VrR0F6UzVUUU1SM2pEQ3A1QWVQR0l2QWJhd3NsME9jeHIzSXFSZXVOTlZmcEppaldPX1NDWlhtSnJIV0xtTUZVeVNEZEpjT0l0REU0X1R6a3ZtVDUxTEZtOGlQZVFXbmlDNHJwUjQ4MlNGNFExaEwtQkxv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-15 18:13:10"
       },
       {
@@ -1270,6 +1359,11 @@
         "title": "喪屍菸彈危害國人 立委劉建國要求警政署查獲電子菸就應驗毒 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxOUno1VkdoenVXTXUtUHNLZ2ctaGYzak5FMS1TM29xMW43UWZJYXdVdkd4eEVBdHdtY2gwUl9NakNVV2dLQU1fMUNjVk8yb1M0RjNIOWNMZGtLNmllTEFOOVdDM1kydXJfM0praC04R2o4WkR6S1hmcmhNeHBfMWlEXzZTeWRnaG0zY25ReDFLanhwdGhxR2FmUkpRSzNZU1hfbTFjR2t2dGw0T056OVd2TkdiSmZHQUNfM0dPNWVuVG1jbnZjUk9TMEgxQUJUSHg2YUdKX0wxcUl6a2RfUHRwRGtzbWNsMzRiTGRtQm5NSG92WmFJbThuTTd0bjhNMTlyc2M1cmZxWU5OVG5SdDBwV282N3JZc0pMdS1uMzRwRDNiQy1WT0dVMUlzRzcwLVd2ZzdvNnVXTG02OFFzTFctb0x3bjRTN3hZdjdNakszcVA1NkQ0QUt3SGhvSUl2SFNzNGZhdGx4blM5TU8wdEtfWGcyWFp2cjEwNm5iWEZGWS0tOGh4d1RfeDlyR2lVbVFOSTdma3RXMDI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-15 17:07:46"
+      },
+      {
+        "title": "電子菸恐成新興毒品載具 立委劉建國籲查獲即驗毒、建立辨識SOP - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DVHZMOHRWQlNaQVhrZTNFZmVpbW1jVWFvZkpEcURteHA0ZFNFMHdESnU3dkdid0RlbzUzQVR3WjF5V3BjTVMyN1hJZ2N5MkNRdEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-15 17:00:00"
       },
       {
         "title": "喪屍菸彈流竄！劉建國要求警政署研議：「查獲電子菸當場驗毒」 - Newtalk新聞",
@@ -1430,21 +1524,6 @@
         "title": "蘇治芬越南遭扣童振源：外交部了解中，不影響新南向政策| 政治 - 三立新聞",
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBJeEEzOHd2MkFCYzFKRUFWY29VdmJORThVc3VDNmxZRVk2dVo2WnRCQ2o4b19oS19NX3ZnWjJnVG9Xa0ZnQ2FN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-12 02:45:32"
-      },
-      {
-        "title": "否認接觸「反政府人士」 蘇治芬：仍不明白護照為何被扣| 政治 - 三立新聞",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ydWdTTDEyUmhmQzJVNkFnZGEzMFdqRE9aT3lrNHZMS1NCLXFIOHhOWDRZZ1F6RnFhRjNOSGRyM1VwZ0RaWWVz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-12 00:05:07"
-      },
-      {
-        "title": "遭扣護照滯留機場蘇治芬脫困搭車赴河靜| 政治 - 三立新聞",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ZTlBiUlpTYi10S21sS204eXJOZ1gta2k4Y0dKUHhwRmFIZklkLTBhUFFmaWViZDl2X2dtRHFtZ25pXzdkdEZz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-11 23:56:11"
-      },
-      {
-        "title": "地質影響雲林林內坪頂崩塌地整治工程縣長張麗善與立委張嘉郡將持續向中央爭取加勁護坡經費！ - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QRUVlU29XNWJoYkdxNXlFbEFOZmF2ZTZkcnpWb0p6MjZqeWZRSWZnSHZFMXVDQ2N5U3Brd0xHc1dsTnF4T20wclk1ZExBbWcxSnpQX3hWY3d3WDU4dmxDUFlwblRnUTJBNF9z?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-11 21:56:49"
       }
     ],
     "facebook": [
@@ -1526,6 +1605,11 @@
     ],
     "youtube": [
       {
+        "title": "中共威脅就在眼前，應不分黨派一同譴責！",
+        "url": "https://www.youtube.com/shorts/nSxDHlbLCcU",
+        "time": "2026-07-15 19:11:14"
+      },
+      {
         "title": "劉建國爭取興建斗六長照教學大樓！教育部允諾支持－民視新聞",
         "url": "https://www.youtube.com/watch?v=s7AAUbVZzaM",
         "time": "2026-07-10 06:26:51"
@@ -1542,8 +1626,29 @@
     "hour": [],
     "day": [
       {
+        "title": "雲林立委張嘉郡合體新竹市長高虹安談育兒政策 期盼政府協助年輕家庭減壓！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GRktjQ21aUm1BU2ZLa1BfSjFCMERQVS1tNXJVMW9teU1Bc19WQlNyckkzYW1nWVJuVGhycjRXNjVsSndIWk1WU0ZUWVJRaGVIVTlSRlpQeDYzQ0VhWU5HMGdCWG9VTEp1U2dz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-15 19:58:30",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "中共威脅就在眼前，應不分黨派一同譴責！",
+        "url": "https://www.youtube.com/shorts/nSxDHlbLCcU",
+        "time": "2026-07-15 19:11:14",
+        "platform": "youtube",
+        "risk": "綠"
+      },
+      {
         "title": "與高虹安對談少子化話題 張嘉郡：竹市府「0-6歲市府養」值得借鏡| 政治焦點 - 太報 TaiSounds",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45TFpubEZFeDVWOEhLTkk4Szc2NlhRendmb3Z4UmZ3bDFYajYya01fRXU5S1UzZGhuak1raFcyT2txZGotRVBxcVFuUkJSUEJ2bG1IMXd0V0JTeFdo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-15 18:13:10",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "與高虹安對談少子化話題 張嘉郡：竹市府「0-6歲市府養」值得借鏡 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPQXJ2NENaNTlUM2Y3Qk9YU2hBczZIMFVOTW9OMENvcnB3TnBmOEJ3YnN0U1JRM0VrQVdJWlZHY3hCSG5JMmZSamlsZ3loM3VnSlk4VDZoRDBuUFhYZ1RReXNOVDlZSXo1N0FsTklRWEFaakdJUTVVZHZiUUdvejZYUVE3Z05VSEhxRDNuVkl0aDhwUVBVU1dLSi1Wd2ZXOTNLZEdpb0hYd0o0Y2swaUJ4bThjaUI3bF9wb0N3UTBCYUZ3bDk0aGhId3pmT0hoWU5YVmpYaG1uWW9ySUxUN1gzOXFjU0VrR0F6UzVUUU1SM2pEQ3A1QWVQR0l2QWJhd3NsME9jeHIzSXFSZXVOTlZmcEppaldPX1NDWlhtSnJIV0xtTUZVeVNEZEpjT0l0REU0X1R6a3ZtVDUxTEZtOGlQZVFXbmlDNHJwUjQ4MlNGNFExaEwtQkxv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-15 18:13:10",
         "platform": "news",
         "risk": "綠"
@@ -1573,6 +1678,13 @@
         "title": "喪屍菸彈危害國人 立委劉建國要求警政署查獲電子菸就應驗毒 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxOUno1VkdoenVXTXUtUHNLZ2ctaGYzak5FMS1TM29xMW43UWZJYXdVdkd4eEVBdHdtY2gwUl9NakNVV2dLQU1fMUNjVk8yb1M0RjNIOWNMZGtLNmllTEFOOVdDM1kydXJfM0praC04R2o4WkR6S1hmcmhNeHBfMWlEXzZTeWRnaG0zY25ReDFLanhwdGhxR2FmUkpRSzNZU1hfbTFjR2t2dGw0T056OVd2TkdiSmZHQUNfM0dPNWVuVG1jbnZjUk9TMEgxQUJUSHg2YUdKX0wxcUl6a2RfUHRwRGtzbWNsMzRiTGRtQm5NSG92WmFJbThuTTd0bjhNMTlyc2M1cmZxWU5OVG5SdDBwV282N3JZc0pMdS1uMzRwRDNiQy1WT0dVMUlzRzcwLVd2ZzdvNnVXTG02OFFzTFctb0x3bjRTN3hZdjdNakszcVA1NkQ0QUt3SGhvSUl2SFNzNGZhdGx4blM5TU8wdEtfWGcyWFp2cjEwNm5iWEZGWS0tOGh4d1RfeDlyR2lVbVFOSTdma3RXMDI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-15 17:07:46",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "電子菸恐成新興毒品載具 立委劉建國籲查獲即驗毒、建立辨識SOP - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DVHZMOHRWQlNaQVhrZTNFZmVpbW1jVWFvZkpEcURteHA0ZFNFMHdESnU3dkdid0RlbzUzQVR3WjF5V3BjTVMyN1hJZ2N5MkNRdEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-15 17:00:00",
         "platform": "news",
         "risk": "綠"
       },
@@ -1614,7 +1726,12 @@
     ]
   },
   "regional_groups": {
-    "regions": [],
+    "regions": [
+      {
+        "name": "雲林",
+        "count": 1
+      }
+    ],
     "groups": [
       {
         "name": "農業族群",
