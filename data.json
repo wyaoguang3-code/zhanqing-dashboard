@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-07-15T07:31:38.653242+00:00",
+  "generated_at": "2026-07-15T07:50:13.405229+00:00",
   "metrics": {
-    "total_24h": 2,
+    "total_24h": 4,
     "prev_24h": 12,
-    "growth_pct": -83.33,
-    "news_24h": 2,
+    "growth_pct": -66.67,
+    "news_24h": 3,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 157,
+    "total": 159,
     "prev": 164,
-    "growth_pct": -4.27,
-    "news": 140,
+    "growth_pct": -3.05,
+    "news": 141,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,17 +28,21 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 2
+      "count": 3
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 140
+      "count": 141
     },
     {
       "platform": "facebook",
-      "count": 15
+      "count": 16
     },
     {
       "platform": "youtube",
@@ -53,6 +57,10 @@
     {
       "hour": "2026-07-15 10:00",
       "count": 1
+    },
+    {
+      "hour": "2026-07-15 14:00",
+      "count": 2
     }
   ],
   "by_hour_7d": [
@@ -295,16 +303,25 @@
     {
       "hour": "2026-07-15 10:00",
       "count": 1
+    },
+    {
+      "hour": "2026-07-15 14:00",
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 1
+      "count": 2
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "防喪屍菸彈出重手！劉建國倡「查獲電子菸當場驗毒」：未來連「這行為」也要罰 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPMWdSbXpEd2NDbnFSMGVueTZvbGJCazVzN01ZZER2Yy1oQzE1Z0xkMjRfbDdlenplOEdVQUpEVmJhMHdSYV9TLUduVW9GYTlNbnFZVVdYWnlsVGtRX3pJQlBmR3BJenA3TjFnczVyRnJVdHdIcnRJdDd5Ym9hUm1WTEJxSE1SU0h2X1pLaDVCUEJ0RXhteFBpc3ZkYWNNWFRITlNCYmxJSjNYR3Y1TkZBcTV1c09FOHdtNVk4dHA0SEdZVkFsckxIS3ZRSFdsRTZ5bmRJRm53SjhObldUWWluZzBZaUJPYTFfY1hTTVY0MldTSFhZMFNjSVlSeEVDbjJLV0ZSNG5tSnljOEtVMy1GX2N5aDZ4SnBRdnhrT2hiZ0txYkxPejRWMzM3T3ppZFQyTWxORWVmSEVUNmYxaU1WVjJsb2plQXgwYUtCU0VzcXZIY25saWdIQkQ5MWZYd2s4dlE0MWFVdGk1UFNBTVRkNFRfczFneU9tSE43MFJWNHNWazZDMHNGODVVaE5WNFVGMTdrLVZuaGF0U0Za?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-15 14:42:36"
+      },
       {
         "title": "劉建國推動農業三法完善農民保障 從耕作、職災到退休打造全方位安全網 - 台灣新聞雲",
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8wZDA5aU5BSmhQRW9qdVVHcDBGSnNLQkQ2bWhwZlA2VnFLS0lKVklwczJCYzhrUkszTFBaMEFzOXVuMFA0a1VB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -315,11 +332,16 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 1
+      "count": 2
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "防喪屍菸彈出重手！劉建國倡「查獲電子菸當場驗毒」：未來連「這行為」也要罰 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPMWdSbXpEd2NDbnFSMGVueTZvbGJCazVzN01ZZER2Yy1oQzE1Z0xkMjRfbDdlenplOEdVQUpEVmJhMHdSYV9TLUduVW9GYTlNbnFZVVdYWnlsVGtRX3pJQlBmR3BJenA3TjFnczVyRnJVdHdIcnRJdDd5Ym9hUm1WTEJxSE1SU0h2X1pLaDVCUEJ0RXhteFBpc3ZkYWNNWFRITlNCYmxJSjNYR3Y1TkZBcTV1c09FOHdtNVk4dHA0SEdZVkFsckxIS3ZRSFdsRTZ5bmRJRm53SjhObldUWWluZzBZaUJPYTFfY1hTTVY0MldTSFhZMFNjSVlSeEVDbjJLV0ZSNG5tSnljOEtVMy1GX2N5aDZ4SnBRdnhrT2hiZ0txYkxPejRWMzM3T3ppZFQyTWxORWVmSEVUNmYxaU1WVjJsb2plQXgwYUtCU0VzcXZIY25saWdIQkQ5MWZYd2s4dlE0MWFVdGk1UFNBTVRkNFRfczFneU9tSE43MFJWNHNWazZDMHNGODVVaE5WNFVGMTdrLVZuaGF0U0Za?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-15 14:42:36"
+      },
       {
         "title": "劉建國推動農業三法完善農民保障 從耕作、職災到退休打造全方位安全網 - 台灣新聞雲",
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8wZDA5aU5BSmhQRW9qdVVHcDBGSnNLQkQ2bWhwZlA2VnFLS0lKVklwczJCYzhrUkszTFBaMEFzOXVuMFA0a1VB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -329,13 +351,18 @@
   },
   "mention_compare_24h": {
     "張嘉郡": 0,
-    "劉建國": 1
+    "劉建國": 2
   },
   "mention_compare_7d": {
     "張嘉郡": 53,
-    "劉建國": 74
+    "劉建國": 75
   },
   "top_news": [
+    {
+      "title": "防喪屍菸彈出重手！劉建國倡「查獲電子菸當場驗毒」：未來連「這行為」也要罰 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPMWdSbXpEd2NDbnFSMGVueTZvbGJCazVzN01ZZER2Yy1oQzE1Z0xkMjRfbDdlenplOEdVQUpEVmJhMHdSYV9TLUduVW9GYTlNbnFZVVdYWnlsVGtRX3pJQlBmR3BJenA3TjFnczVyRnJVdHdIcnRJdDd5Ym9hUm1WTEJxSE1SU0h2X1pLaDVCUEJ0RXhteFBpc3ZkYWNNWFRITlNCYmxJSjNYR3Y1TkZBcTV1c09FOHdtNVk4dHA0SEdZVkFsckxIS3ZRSFdsRTZ5bmRJRm53SjhObldUWWluZzBZaUJPYTFfY1hTTVY0MldTSFhZMFNjSVlSeEVDbjJLV0ZSNG5tSnljOEtVMy1GX2N5aDZ4SnBRdnhrT2hiZ0txYkxPejRWMzM3T3ppZFQyTWxORWVmSEVUNmYxaU1WVjJsb2plQXgwYUtCU0VzcXZIY25saWdIQkQ5MWZYd2s4dlE0MWFVdGk1UFNBTVRkNFRfczFneU9tSE43MFJWNHNWazZDMHNGODVVaE5WNFVGMTdrLVZuaGF0U0Za?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-15 14:42:36"
+    },
     {
       "title": "劉建國推動農業三法完善農民保障 從耕作、職災到退休打造全方位安全網 - 台灣新聞雲",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8wZDA5aU5BSmhQRW9qdVVHcDBGSnNLQkQ2bWhwZlA2VnFLS0lKVklwczJCYzhrUkszTFBaMEFzOXVuMFA0a1VB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -348,6 +375,11 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "防喪屍菸彈出重手！劉建國倡「查獲電子菸當場驗毒」：未來連「這行為」也要罰 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPMWdSbXpEd2NDbnFSMGVueTZvbGJCazVzN01ZZER2Yy1oQzE1Z0xkMjRfbDdlenplOEdVQUpEVmJhMHdSYV9TLUduVW9GYTlNbnFZVVdYWnlsVGtRX3pJQlBmR3BJenA3TjFnczVyRnJVdHdIcnRJdDd5Ym9hUm1WTEJxSE1SU0h2X1pLaDVCUEJ0RXhteFBpc3ZkYWNNWFRITlNCYmxJSjNYR3Y1TkZBcTV1c09FOHdtNVk4dHA0SEdZVkFsckxIS3ZRSFdsRTZ5bmRJRm53SjhObldUWWluZzBZaUJPYTFfY1hTTVY0MldTSFhZMFNjSVlSeEVDbjJLV0ZSNG5tSnljOEtVMy1GX2N5aDZ4SnBRdnhrT2hiZ0txYkxPejRWMzM3T3ppZFQyTWxORWVmSEVUNmYxaU1WVjJsb2plQXgwYUtCU0VzcXZIY25saWdIQkQ5MWZYd2s4dlE0MWFVdGk1UFNBTVRkNFRfczFneU9tSE43MFJWNHNWazZDMHNGODVVaE5WNFVGMTdrLVZuaGF0U0Za?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-15 14:42:36"
+    },
     {
       "title": "劉建國推動農業三法完善農民保障 從耕作、職災到退休打造全方位安全網 - 台灣新聞雲",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8wZDA5aU5BSmhQRW9qdVVHcDBGSnNLQkQ2bWhwZlA2VnFLS0lKVklwczJCYzhrUkszTFBaMEFzOXVuMFA0a1VB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -442,14 +474,14 @@
       "title": "張嘉郡、張麗善推斗六長照教學大樓最後一哩路 台大醫院雲林分院長盼「他」 協助 - 匯流新聞網",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBibm9zQXcyTVc2SFpoN3RxTlZmQXZMaWdERkRqU3pVMDlTUEFBbXNlZWJyY0twaGtncktJWmZBZFU1SUZLdTdhTXh3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-13 14:41:29"
-    },
-    {
-      "title": "張嘉郡、張麗善推斗六長照教學大樓最後一哩路 台大醫院雲林分院長盼「他」協助 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdXlOVG5fYkNXMEx6cThZTEpCNVVWRDh6X1Y1UVpmV1o0MkVfMU5lQVgxTTZzVTdUWklBUVd4NTdCLWJfNFhGSGt2YjM2T1pvcFVIMVk4c2RGbGs4TlNOcXF4dnZpTjViZjg5dXJJTUZqOFNYOVVzOEp6bnRRS3FIXzRXOUg1UldPblE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-13 14:41:29"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "喪屍菸彈危害國人 建國要求警政署查獲電子菸就要驗毒！！ 今天衛環委員會正式逐條審查《#菸害防制法》修正草案，這次菸防法的修法不僅是單純的菸害，而是針對電子菸與「#依托咪酯」這類新興毒品，深度綁定。 為了防止 #喪屍菸彈 及 #毒駕 持續危害國人安全，這次 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxNUWd5VktXYU5tdzdpWGQtMzI5Z1dyMzNjY1MwUXZ4TXAwUUVCNFBNbDdXVkdlVWFTUGN0ZzRwaFk3MC04cm9ENVg4U1Fzb0psYmpGZGp5VURTcHBScDJBYzBUUTd1Z1p0OHlFN1V6WHhQYjVxQnVwUjk1eUpjYWFveXBMUk9hSVJRZEN5R050RGdVQkpwd282UjVVS011YnY0Y20xYW52VkhxWURBUEVHZklJR2tNemYyaEJjLUd3Umxjc0V5VzFNU2dMc201ZXFEQno3MllXaGFfZVlMbmdiTVdzalAzb1hqcEtlbHBMYzViaDN5aWxWbGw5cEZUY0UzcVVxcEdOVERYLS1WMVEydEQyWUtuSXB4cHBQQThEZm5mcUx2NnczVXZmLUJEb3pHWHYtbFN3UWpNVHNQdHVvZTlvdVVKWEQyc1o0Q1RNblBkU3d2bmN4QkxVclBJcmpZTUEteDFUdjg4WDRMZkQ2OUdWUGZ6blhrb3Jac3BtV2g1OEU2MEl6Q2FqTl9FVzdWZlJmUk15UmhYbkx3M2x5bHhnd00tVjg0M0pnZ3YxalMyZHN4WmZMcWdOdk1qRmNLZ04xMEs2Y0RDbWxzNnpyaUQ0MXlyNzlzQWhWS0V4X2w1RGdlZ1lSSXVWR1d2MUdDUUVISmhzZXE0S0RKMEpsQ2E5X1RyR3BucWtOalJEWWt2RnZ2T1ZHV25KVmZnTXIyQUU2MFlTWUZGM201S1pyR0lFQmluM0ZkUlNqM3hDS3NpYmZLYko3V1liY0tWUEpCbng3d1pCUllLTVAtMFZKSDNrVU5sZFN5UWdiYmFjQXRveGVnWlowRmxhbzJHR0RmNk05aDltSUNLMmdodHNIWm94QWdhUGhBYTI3a0xndElnZDRmcXpqUUZkXzJSVk5jMTUyTUtlckdUWS1Lc1VUTlc4cFpYUmN0dDN3S2MxSVNwdG1qR1QyQXhEY2ZEejdMZm5NSmxoTmxLSG9VaXpfZTA3VmZXanJQbmRYZXdzckRwdkZDM3c4bFFuZWFnYzYxWjFleGs2OVdUcHdMZ3NWMENacU8yc2pPRk83bnEzOEdCUzBZMmJsT2tOMkk3MkJoYXY5WUZoU2pybFY2UTRNUXJQWFhGUzFkN3RnR3Q4Z0FyYjRYUndGWnlRLUxVSTU1SlFMZ2RkQXJ5X0xnWEtjNnFUdzUtWU5EeFkwZ05GWnNXbFFYOUtlNEFac2RoZ1BTNWk0dE4wMkRIV1JNc1BiSGkwbnZyNVkxRDRPYnRXZ25IT2NtdktVcml3eEZULVRJWTRYem5mMF82VnZGZWVCM3I1cDgwQ012TUJKWmliNThILS1aV29lVnFhdlNRQXVtNzhsVnlMWG9mTEpVTExJeWtKM3Q2OHVENFBJV0hIM0xXR1pL",
+      "time": "2026-07-15 14:24:39"
+    },
     {
       "title": "智倫力挺優質農產，雲林花生最好吃！ 韓國瑜 張麗善 張嘉郡 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNYndSRHJ0Yl93UTRwdnhjQnVWX1pOVlRocmFRZzZfbUZNaTJDc0UzVS1xRGlDZzQ2MzJvTGh4T0NOUmRUWHAwTkxFNFcxSVRGSlY3WE5jS2JiRXpkS0ZoV1R5N2d6M0V4R2xGSy1lSUtLUVo1cG5iM1BGZVlxZHh6VzQzVmRMZWxJbE5IVlBJbENYQkxNZEpSZnFoY2ZTQjBaSmxTVldTU0tHYk4zak5salFmcE5EY2RHekY0YUo2QzlMZXM1T2ZzMUg1TTBNNl9ObVgtcW5HNHFoZmdyM2lEQWRYbUljc0s1NEhha29OTzl5dzJMM05BeFpaVHJTS0d4QUlFZ2Vya3hYN2Q2c0I2ZmEwWXBNRU5Id2E4aUJ4TG90N2ZGTjhKUUUxNlZsQWViWGxNMW1rV2hYNm41WWpyZi1wWnpVSS1NNFRjS3EtX1FVei16MUhndXFhV2ZmTXlibHg3MXNtZmxMWkRsUWR5cXBBeWhBejlaMzFlRlJSeEZ2QVF1eW9qWE12UkpEWUtnRHc",
@@ -544,14 +576,14 @@
       "title": "雲林新聞網. . 推廣新興匹克球運動，帶動地方運動風氣。土庫鎮是雲林縣較早發展匹克球運動的鄉鎮，也吸引大小朋友共同參與這項運動，為了讓鄉親能有更舒適的空間，立委張嘉郡、丁學忠邀請運動部長李洋來到土庫體驗匹克球，也希望透過中央跟地方的合作，打造更 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMisghBVV95cUxNbDVkeWNrcThmOENlekxIdG15T2p3M2prZ1U1cEVHOEZSNWhvRjV6akFEdEVhRTFhRVZoUTkxMWE1dVZCS09zWXBBdDNtNUZXNW5jWG5iX0o2OW1KVHFXU1N1aS0tYzlwZHJxZTFGSnRpaGx1WTBWZldyY3labWc5RGhTdDhRNFhqYUhBRjVJak1JeTZOTzdhNU5JbTlfUndkZWtWUW1iM2ZmdXhVQ0s3d1VzaFlWM241LVgwSFRrclB5OWFwZVR0c0xiY0xQSjBDSWRfX3Z2R0lkblFyTGNpN21HNG0yOHpic2ZFRUpQbGx3UTNQQmx4QlQ2WUNMb2dub2VHU0pxLXp6eC0xeUc2QXppSGdabmJ4YXpPYTJaTjFlOXFiekw2UTNXMElSY3VBa2ZSMlVzYjYwTEVNZi1sSGFaTGROdmRoa1g5RkZ6TnJsS3BUbVVoTVp3M183cHgxOHZlb2FiRnJPR1hpMklFRWZUb3c4Yzg0NWNfSkk1VnpfRHRPNkYwendKSXhtVi1YaGdsNXlsSzg1UkF5cTZMRS1oaE1Lb0Q4UnVMVG1mQ1FBRXRjNWhVME1kSUZ2SElBcTRyOWQyaW9jdlBULXh6MmI1bmVKemNqa1ZjRVBkcEduS2VfcU1pd1RjaHZHY3ExREdBbWNrTktsb2FRS0VKbVUzSVlZV3RrMzNpYmlaOFhBZWhLbjAzOHZNdlZlWE41Rkc2SGJNeTNOU2djTlZTS0lETzNOTG1NNE1wWEE3Z252VkUydmxZZDNwZUtkS1FjcE0xQ25jN0VScTNFc3huUW1Dd2VhN2h5WUw3TmQ4cFRSc0lMOEpTQTVpRHhwek1OWVY0VFF0TTFUd2pmYVdxTmhzZEdBLThfZHMyRWdLbWRzSEs0X2hKdzFfVnpITWJjNWlnc2pvYzV4REtDQ2ppaTZHZmZkd3pzcEE1cTVBdUh5V0MybE1RVExJTHZQeDl4eGQwMHdmODlTOG1sMXdZeWV2M3F2RE5TWmhsT3BPME52bFdxT25ObG5POGIwajd6SFFHQ0J5NVgwc0lJLU9LeFY2VThtaGhqdkE2cktrdUw0YklyTXgwcVc5NkdIZDNxam4yUDFPVHNCN3dMbk5yd01ucTlXWXdwZVEycHFqT0JhTlFrazZkaXVfZWN6RWo2VjVCTUxIN2pqRFV0alptUUtlTmRVbGhmMmFWajVQd2Vla1hYOFdKakdMRktzVDNqZThDUGFhaW9wUmFXMkRVdWotaVJrS1pKMWN0YmhLTlYwbEY5NnEwWG1CaG5PaGdBLXZ0ZmY2bktoZVRsRU9BcGx4X01pV0E5cmFjNEpfaUNMa2lKYjZaWkVpWnQxYXF1TWJ6dUt1cU5vaUpBMndoRUo5UXhRMW9oMjYxd1d1U1NBRWlKUVktSE9iekRNc3NvVkE",
       "time": "2026-07-06 20:01:09"
-    },
-    {
-      "title": "交通是身心障礙朋友參與社會的重要基礎，也是落實平等權利與社會共融的重要一環，立法委員劉建國得知虎尾身心障礙協會長期面臨交通接送需求後，主動協助尋找社會資源，並在5日，由善心人士蘇品家先生、陳美慧小姐、許哲明先生及黃暉雄先生共同捐贈一輛價值 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMipghBVV95cUxPM0VaRFpWeWlqLWtZN0dsNmRoTWlxVzc4VEJfdVowcVVNWlREUmtOOGZ0alpjZS1BMVlDNUZWaGZiUVBkaEN6cmcwMkVvNVdCM2M0NFVYMzdTSDJqOTdROHdrUE9DV2gzN0dMbFFRRlhVMEVXdXVDdG5sTVJXTlBidEM3Y3ZEUXNVOU1UNnlHM3ZxczdVWndqdHhsNU9DMWhJRHRBVHU4UTU3b0N2VG9PMkFKckdLeDZiSmVLNWh1bE41eWJUUFktanBLT0JYTWx2encxemIwNGFtMG1UcHcxNFd4RGdBZlpxS192MDhTTWREaUdXOGZabFNnSFYzU1lHOWVxWkFrSDltMjlCakszdFlxaE15ZXprMTFQd2lKTlgzczNhQ1ctVVZEMGtHTzFXRmlIWWVteVJMQkRZVm04MXViQ0lCeDdMSTFUdk45ZXlQQUc0SnRPRTR5LU1OSk9NRGo4WHZIam96ZGVSdTZ2X1Z4Zm9PRUdNU3kxWC1wM1oyTTgyNXdacUhqR2R3SjNRMDB1aXpIMWhFbkw0MDNwSWhLejg3WHRXUEJBZHlJRWM0cnhIN3pqVkM0a2R4Ylo2T29xZFhYeTEzWndocEF1Y245Y1A0VTVxaFp2blJJZmY2VEZZX2d0NDlFclFLNk5fZVNEelpIQzEzZkkxZGRkOS1OTlhpUHhQRlNqbzdxak9DY2JmOURYZml5UjFnMEdkZWlNcUEzTjNib1A0c0lYRGNqUDEwc0JmRzByT1U5OElNSXIzVlVsQ0lLQ0NmSXl4RHp6emR4U1YxdlFFbV9oTGJ0dGpKcUU3bzd5TjRpNGNNbjlfMEN1TnpDekFzSFdOaG1vbHJPQkNCYVVIVGcxMFdsazRYYzhnQzZ2SnF0TktqVEZqSUF1VDJPV09UYTFaZ3JfMnpYbWRqU1N6Yl9Bb0JNc2xqc3JBeURlQmhtZFYwRnU3V1k5N0RLQjNyeXFOX3VXR3NNQ1dabUROQy1icEFiRHlqclB6cXExOVJORnV5aVduZkhsSjhLd1E1THd0aDFKdzZtTzczZGpoY2NRQy12cDlYSUtxVDVXTkRza2R3QWVxd2lEN3pvWWhidTBZa3Vham9vcUtRVHpZMlZBUnc2Um9WYVdQTWhmZlJMMV9VcmVrVUdhM2JMTDNoWWVxdTJXcWJKQnY5VlFTaklNY2haaGk0WVVPTThQLVpnSjU4ZVFHOE9uSEQ3ZHRORE9NZ0FoamlEZktLbXRWc3dGM0dnVDI5Zm44VVlNYjlwY3U2VGJvNXVGSTRyQUtvcmdIVGF2ZjIyUHBzN0VGaDhXaTNDTkNNRU1WaGU3ZHNGdHFOTkFnWlRVU2RoTGpPSkVWQ3hNUk15TWxyQXZkc2RMeTVtOXJMNTlMUnVkOE83cFFENGNWb0E",
-      "time": "2026-07-06 20:01:09"
     }
   ],
   "latest_news_20": [
+    {
+      "title": "防喪屍菸彈出重手！劉建國倡「查獲電子菸當場驗毒」：未來連「這行為」也要罰 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPMWdSbXpEd2NDbnFSMGVueTZvbGJCazVzN01ZZER2Yy1oQzE1Z0xkMjRfbDdlenplOEdVQUpEVmJhMHdSYV9TLUduVW9GYTlNbnFZVVdYWnlsVGtRX3pJQlBmR3BJenA3TjFnczVyRnJVdHdIcnRJdDd5Ym9hUm1WTEJxSE1SU0h2X1pLaDVCUEJ0RXhteFBpc3ZkYWNNWFRITlNCYmxJSjNYR3Y1TkZBcTV1c09FOHdtNVk4dHA0SEdZVkFsckxIS3ZRSFdsRTZ5bmRJRm53SjhObldUWWluZzBZaUJPYTFfY1hTTVY0MldTSFhZMFNjSVlSeEVDbjJLV0ZSNG5tSnljOEtVMy1GX2N5aDZ4SnBRdnhrT2hiZ0txYkxPejRWMzM3T3ppZFQyTWxORWVmSEVUNmYxaU1WVjJsb2plQXgwYUtCU0VzcXZIY25saWdIQkQ5MWZYd2s4dlE0MWFVdGk1UFNBTVRkNFRfczFneU9tSE43MFJWNHNWazZDMHNGODVVaE5WNFVGMTdrLVZuaGF0U0Za?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-15 14:42:36"
+    },
     {
       "title": "劉建國推動農業三法完善農民保障 從耕作、職災到退休打造全方位安全網 - 台灣新聞雲",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8wZDA5aU5BSmhQRW9qdVVHcDBGSnNLQkQ2bWhwZlA2VnFLS0lKVklwczJCYzhrUkszTFBaMEFzOXVuMFA0a1VB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -645,11 +677,6 @@
     {
       "title": "張嘉郡、張麗善推斗六長照教學大樓最後一哩路 台大醫院雲林分院長盼「他」 協助 - 匯流新聞網",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBibm9zQXcyTVc2SFpoN3RxTlZmQXZMaWdERkRqU3pVMDlTUEFBbXNlZWJyY0twaGtncktJWmZBZFU1SUZLdTdhTXh3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-13 14:41:29"
-    },
-    {
-      "title": "張嘉郡、張麗善推斗六長照教學大樓最後一哩路 台大醫院雲林分院長盼「他」協助 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdXlOVG5fYkNXMEx6cThZTEpCNVVWRDh6X1Y1UVpmV1o0MkVfMU5lQVgxTTZzVTdUWklBUVd4NTdCLWJfNFhGSGt2YjM2T1pvcFVIMVk4c2RGbGs4TlNOcXF4dnZpTjViZjg5dXJJTUZqOFNYOVVzOEp6bnRRS3FIXzRXOUg1UldPblE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-13 14:41:29"
     }
   ],
@@ -965,6 +992,11 @@
       ],
       "news": [
         {
+          "title": "防喪屍菸彈出重手！劉建國倡「查獲電子菸當場驗毒」：未來連「這行為」也要罰 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPMWdSbXpEd2NDbnFSMGVueTZvbGJCazVzN01ZZER2Yy1oQzE1Z0xkMjRfbDdlenplOEdVQUpEVmJhMHdSYV9TLUduVW9GYTlNbnFZVVdYWnlsVGtRX3pJQlBmR3BJenA3TjFnczVyRnJVdHdIcnRJdDd5Ym9hUm1WTEJxSE1SU0h2X1pLaDVCUEJ0RXhteFBpc3ZkYWNNWFRITlNCYmxJSjNYR3Y1TkZBcTV1c09FOHdtNVk4dHA0SEdZVkFsckxIS3ZRSFdsRTZ5bmRJRm53SjhObldUWWluZzBZaUJPYTFfY1hTTVY0MldTSFhZMFNjSVlSeEVDbjJLV0ZSNG5tSnljOEtVMy1GX2N5aDZ4SnBRdnhrT2hiZ0txYkxPejRWMzM3T3ppZFQyTWxORWVmSEVUNmYxaU1WVjJsb2plQXgwYUtCU0VzcXZIY25saWdIQkQ5MWZYd2s4dlE0MWFVdGk1UFNBTVRkNFRfczFneU9tSE43MFJWNHNWazZDMHNGODVVaE5WNFVGMTdrLVZuaGF0U0Za?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-15 14:42:36"
+        },
+        {
           "title": "劉建國推動農業三法完善農民保障 從耕作、職災到退休打造全方位安全網 - 台灣新聞雲",
           "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8wZDA5aU5BSmhQRW9qdVVHcDBGSnNLQkQ2bWhwZlA2VnFLS0lKVklwczJCYzhrUkszTFBaMEFzOXVuMFA0a1VB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-15 10:12:30"
@@ -1058,17 +1090,17 @@
           "title": "藍指兩面手法護航致癌油 劉建國反擊：出張嘴無助食安 | 自由電子報 - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EODN0UU5fYl9vM3ViZC1kZE5sUEx3RUpzQUJCcW8xZ2V2WXBaZXlkNnBCSjAwRDRITXhNRHlzNTZDWG1JLVg2MFhVQ3BkV1hacUt2X3p3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-10 14:05:14"
-        },
-        {
-          "title": "藍指兩面手法護航致癌油 劉建國反擊：出張嘴無助食安 - 自由時報",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XYVdKMDc3WFdxTmRRczV5THlqeThXcV9NTkRUV2dWb2pWYjZRWEJzZ2trNlRtdHRNSjZYcFlzSVBlYTB4TU9rXzBCNENjNnJUZ2ZyYUFodXpTWExDLWtmdzZQNDV6aFpiZEHSAW9BVV95cUxQMXlCUFJyWEhtdTRnU2g5VE5tanI4UmlZd1RJcVJOQVNqMHo5X04tVng5MlVTdktFa1NQQ3Z0amEyZE50amNyQkxOX0VrMFlPMDI5aEJHVXB1S2FVZ0FqLVZFem01aXpMdFB2X3hPdjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-10 13:49:02"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "防喪屍菸彈出重手！劉建國倡「查獲電子菸當場驗毒」：未來連「這行為」也要罰 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPMWdSbXpEd2NDbnFSMGVueTZvbGJCazVzN01ZZER2Yy1oQzE1Z0xkMjRfbDdlenplOEdVQUpEVmJhMHdSYV9TLUduVW9GYTlNbnFZVVdYWnlsVGtRX3pJQlBmR3BJenA3TjFnczVyRnJVdHdIcnRJdDd5Ym9hUm1WTEJxSE1SU0h2X1pLaDVCUEJ0RXhteFBpc3ZkYWNNWFRITlNCYmxJSjNYR3Y1TkZBcTV1c09FOHdtNVk4dHA0SEdZVkFsckxIS3ZRSFdsRTZ5bmRJRm53SjhObldUWWluZzBZaUJPYTFfY1hTTVY0MldTSFhZMFNjSVlSeEVDbjJLV0ZSNG5tSnljOEtVMy1GX2N5aDZ4SnBRdnhrT2hiZ0txYkxPejRWMzM3T3ppZFQyTWxORWVmSEVUNmYxaU1WVjJsb2plQXgwYUtCU0VzcXZIY25saWdIQkQ5MWZYd2s4dlE0MWFVdGk1UFNBTVRkNFRfczFneU9tSE43MFJWNHNWazZDMHNGODVVaE5WNFVGMTdrLVZuaGF0U0Za?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-15 14:42:36"
+      },
       {
         "title": "劉建國推動農業三法完善農民保障 從耕作、職災到退休打造全方位安全網 - 台灣新聞雲",
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8wZDA5aU5BSmhQRW9qdVVHcDBGSnNLQkQ2bWhwZlA2VnFLS0lKVklwczJCYzhrUkszTFBaMEFzOXVuMFA0a1VB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1079,10 +1111,22 @@
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9EZDNoRG5mWEZEcUFULUIzUndnUkQ1NXFuWFBKZG9CMC1telZoLUZGNUFhOHpMcUhxT1hRWmRkQWtzeDZJS1dn0gFLQVVfeXFMTUlxWV85MVhxcGZFSUxhRFg4UE1SakNJZzFreEItNXN0c0g1Ymw1ZVdBak9CZkc2MjRLeE9lYzZLMDdjYmVRM0VHR1Q0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-14 20:26:13"
       }
+    ],
+    "facebook": [
+      {
+        "title": "喪屍菸彈危害國人 建國要求警政署查獲電子菸就要驗毒！！ 今天衛環委員會正式逐條審查《#菸害防制法》修正草案，這次菸防法的修法不僅是單純的菸害，而是針對電子菸與「#依托咪酯」這類新興毒品，深度綁定。 為了防止 #喪屍菸彈 及 #毒駕 持續危害國人安全，這次 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxNUWd5VktXYU5tdzdpWGQtMzI5Z1dyMzNjY1MwUXZ4TXAwUUVCNFBNbDdXVkdlVWFTUGN0ZzRwaFk3MC04cm9ENVg4U1Fzb0psYmpGZGp5VURTcHBScDJBYzBUUTd1Z1p0OHlFN1V6WHhQYjVxQnVwUjk1eUpjYWFveXBMUk9hSVJRZEN5R050RGdVQkpwd282UjVVS011YnY0Y20xYW52VkhxWURBUEVHZklJR2tNemYyaEJjLUd3Umxjc0V5VzFNU2dMc201ZXFEQno3MllXaGFfZVlMbmdiTVdzalAzb1hqcEtlbHBMYzViaDN5aWxWbGw5cEZUY0UzcVVxcEdOVERYLS1WMVEydEQyWUtuSXB4cHBQQThEZm5mcUx2NnczVXZmLUJEb3pHWHYtbFN3UWpNVHNQdHVvZTlvdVVKWEQyc1o0Q1RNblBkU3d2bmN4QkxVclBJcmpZTUEteDFUdjg4WDRMZkQ2OUdWUGZ6blhrb3Jac3BtV2g1OEU2MEl6Q2FqTl9FVzdWZlJmUk15UmhYbkx3M2x5bHhnd00tVjg0M0pnZ3YxalMyZHN4WmZMcWdOdk1qRmNLZ04xMEs2Y0RDbWxzNnpyaUQ0MXlyNzlzQWhWS0V4X2w1RGdlZ1lSSXVWR1d2MUdDUUVISmhzZXE0S0RKMEpsQ2E5X1RyR3BucWtOalJEWWt2RnZ2T1ZHV25KVmZnTXIyQUU2MFlTWUZGM201S1pyR0lFQmluM0ZkUlNqM3hDS3NpYmZLYko3V1liY0tWUEpCbng3d1pCUllLTVAtMFZKSDNrVU5sZFN5UWdiYmFjQXRveGVnWlowRmxhbzJHR0RmNk05aDltSUNLMmdodHNIWm94QWdhUGhBYTI3a0xndElnZDRmcXpqUUZkXzJSVk5jMTUyTUtlckdUWS1Lc1VUTlc4cFpYUmN0dDN3S2MxSVNwdG1qR1QyQXhEY2ZEejdMZm5NSmxoTmxLSG9VaXpfZTA3VmZXanJQbmRYZXdzckRwdkZDM3c4bFFuZWFnYzYxWjFleGs2OVdUcHdMZ3NWMENacU8yc2pPRk83bnEzOEdCUzBZMmJsT2tOMkk3MkJoYXY5WUZoU2pybFY2UTRNUXJQWFhGUzFkN3RnR3Q4Z0FyYjRYUndGWnlRLUxVSTU1SlFMZ2RkQXJ5X0xnWEtjNnFUdzUtWU5EeFkwZ05GWnNXbFFYOUtlNEFac2RoZ1BTNWk0dE4wMkRIV1JNc1BiSGkwbnZyNVkxRDRPYnRXZ25IT2NtdktVcml3eEZULVRJWTRYem5mMF82VnZGZWVCM3I1cDgwQ012TUJKWmliNThILS1aV29lVnFhdlNRQXVtNzhsVnlMWG9mTEpVTExJeWtKM3Q2OHVENFBJV0hIM0xXR1pL",
+        "time": "2026-07-15 14:24:39"
+      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "防喪屍菸彈出重手！劉建國倡「查獲電子菸當場驗毒」：未來連「這行為」也要罰 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPMWdSbXpEd2NDbnFSMGVueTZvbGJCazVzN01ZZER2Yy1oQzE1Z0xkMjRfbDdlenplOEdVQUpEVmJhMHdSYV9TLUduVW9GYTlNbnFZVVdYWnlsVGtRX3pJQlBmR3BJenA3TjFnczVyRnJVdHdIcnRJdDd5Ym9hUm1WTEJxSE1SU0h2X1pLaDVCUEJ0RXhteFBpc3ZkYWNNWFRITlNCYmxJSjNYR3Y1TkZBcTV1c09FOHdtNVk4dHA0SEdZVkFsckxIS3ZRSFdsRTZ5bmRJRm53SjhObldUWWluZzBZaUJPYTFfY1hTTVY0MldTSFhZMFNjSVlSeEVDbjJLV0ZSNG5tSnljOEtVMy1GX2N5aDZ4SnBRdnhrT2hiZ0txYkxPejRWMzM3T3ppZFQyTWxORWVmSEVUNmYxaU1WVjJsb2plQXgwYUtCU0VzcXZIY25saWdIQkQ5MWZYd2s4dlE0MWFVdGk1UFNBTVRkNFRfczFneU9tSE43MFJWNHNWazZDMHNGODVVaE5WNFVGMTdrLVZuaGF0U0Za?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-15 14:42:36"
+      },
       {
         "title": "劉建國推動農業三法完善農民保障 從耕作、職災到退休打造全方位安全網 - 台灣新聞雲",
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8wZDA5aU5BSmhQRW9qdVVHcDBGSnNLQkQ2bWhwZlA2VnFLS0lKVklwczJCYzhrUkszTFBaMEFzOXVuMFA0a1VB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1277,14 +1321,14 @@
         "title": "食安不該淪政治口水 江文登力挺劉建國：聚焦民眾權益才是重點 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS3VTeVBFcUZoVnJpQmFKT0gtOWoxVmRma3hsQ2wwcG50eDRwS28wMGNhbnRZbWhsd3FvYjViSU1QM1JaTV9rNjBGS3BKdG5YMHQtUmQ5TDkwakdRM0RfM0VUeGZRdy0yWGo1X19OTkRsVGFjMHdKN25CUk9pMnh5a2ZUSFlSb3VKTUwyc08xY3FYd0Q0YUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-11 09:29:08"
-      },
-      {
-        "title": "食安不該淪政治口水 江文登力挺劉建國：聚焦民眾權益才是重點 - PChome Online 股市",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQWhKTkNxbTRlcjF3RTV1QnJ6WmVoRlBwSVBJMlg5RzZETU1Cbk0zdlFHZ0JFdC01RTNQS0VfaFZfdHd2Yk14ZVduY1B1aG9TajFvNTF0dkZNcE1zWVR0MHp5c3pWZlF5MzVXQnFIYUdvYXEzZFJacWdubkpkNFdmSzM2MA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-11 09:29:08"
       }
     ],
     "facebook": [
+      {
+        "title": "喪屍菸彈危害國人 建國要求警政署查獲電子菸就要驗毒！！ 今天衛環委員會正式逐條審查《#菸害防制法》修正草案，這次菸防法的修法不僅是單純的菸害，而是針對電子菸與「#依托咪酯」這類新興毒品，深度綁定。 為了防止 #喪屍菸彈 及 #毒駕 持續危害國人安全，這次 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxNUWd5VktXYU5tdzdpWGQtMzI5Z1dyMzNjY1MwUXZ4TXAwUUVCNFBNbDdXVkdlVWFTUGN0ZzRwaFk3MC04cm9ENVg4U1Fzb0psYmpGZGp5VURTcHBScDJBYzBUUTd1Z1p0OHlFN1V6WHhQYjVxQnVwUjk1eUpjYWFveXBMUk9hSVJRZEN5R050RGdVQkpwd282UjVVS011YnY0Y20xYW52VkhxWURBUEVHZklJR2tNemYyaEJjLUd3Umxjc0V5VzFNU2dMc201ZXFEQno3MllXaGFfZVlMbmdiTVdzalAzb1hqcEtlbHBMYzViaDN5aWxWbGw5cEZUY0UzcVVxcEdOVERYLS1WMVEydEQyWUtuSXB4cHBQQThEZm5mcUx2NnczVXZmLUJEb3pHWHYtbFN3UWpNVHNQdHVvZTlvdVVKWEQyc1o0Q1RNblBkU3d2bmN4QkxVclBJcmpZTUEteDFUdjg4WDRMZkQ2OUdWUGZ6blhrb3Jac3BtV2g1OEU2MEl6Q2FqTl9FVzdWZlJmUk15UmhYbkx3M2x5bHhnd00tVjg0M0pnZ3YxalMyZHN4WmZMcWdOdk1qRmNLZ04xMEs2Y0RDbWxzNnpyaUQ0MXlyNzlzQWhWS0V4X2w1RGdlZ1lSSXVWR1d2MUdDUUVISmhzZXE0S0RKMEpsQ2E5X1RyR3BucWtOalJEWWt2RnZ2T1ZHV25KVmZnTXIyQUU2MFlTWUZGM201S1pyR0lFQmluM0ZkUlNqM3hDS3NpYmZLYko3V1liY0tWUEpCbng3d1pCUllLTVAtMFZKSDNrVU5sZFN5UWdiYmFjQXRveGVnWlowRmxhbzJHR0RmNk05aDltSUNLMmdodHNIWm94QWdhUGhBYTI3a0xndElnZDRmcXpqUUZkXzJSVk5jMTUyTUtlckdUWS1Lc1VUTlc4cFpYUmN0dDN3S2MxSVNwdG1qR1QyQXhEY2ZEejdMZm5NSmxoTmxLSG9VaXpfZTA3VmZXanJQbmRYZXdzckRwdkZDM3c4bFFuZWFnYzYxWjFleGs2OVdUcHdMZ3NWMENacU8yc2pPRk83bnEzOEdCUzBZMmJsT2tOMkk3MkJoYXY5WUZoU2pybFY2UTRNUXJQWFhGUzFkN3RnR3Q4Z0FyYjRYUndGWnlRLUxVSTU1SlFMZ2RkQXJ5X0xnWEtjNnFUdzUtWU5EeFkwZ05GWnNXbFFYOUtlNEFac2RoZ1BTNWk0dE4wMkRIV1JNc1BiSGkwbnZyNVkxRDRPYnRXZ25IT2NtdktVcml3eEZULVRJWTRYem5mMF82VnZGZWVCM3I1cDgwQ012TUJKWmliNThILS1aV29lVnFhdlNRQXVtNzhsVnlMWG9mTEpVTExJeWtKM3Q2OHVENFBJV0hIM0xXR1pL",
+        "time": "2026-07-15 14:24:39"
+      },
       {
         "title": "智倫力挺優質農產，雲林花生最好吃！ 韓國瑜 張麗善 張嘉郡 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNYndSRHJ0Yl93UTRwdnhjQnVWX1pOVlRocmFRZzZfbUZNaTJDc0UzVS1xRGlDZzQ2MzJvTGh4T0NOUmRUWHAwTkxFNFcxSVRGSlY3WE5jS2JiRXpkS0ZoV1R5N2d6M0V4R2xGSy1lSUtLUVo1cG5iM1BGZVlxZHh6VzQzVmRMZWxJbE5IVlBJbENYQkxNZEpSZnFoY2ZTQjBaSmxTVldTU0tHYk4zak5salFmcE5EY2RHekY0YUo2QzlMZXM1T2ZzMUg1TTBNNl9ObVgtcW5HNHFoZmdyM2lEQWRYbUljc0s1NEhha29OTzl5dzJMM05BeFpaVHJTS0d4QUlFZ2Vya3hYN2Q2c0I2ZmEwWXBNRU5Id2E4aUJ4TG90N2ZGTjhKUUUxNlZsQWViWGxNMW1rV2hYNm41WWpyZi1wWnpVSS1NNFRjS3EtX1FVei16MUhndXFhV2ZmTXlibHg3MXNtZmxMWkRsUWR5cXBBeWhBejlaMzFlRlJSeEZ2QVF1eW9qWE12UkpEWUtnRHc",
@@ -1378,6 +1422,20 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "防喪屍菸彈出重手！劉建國倡「查獲電子菸當場驗毒」：未來連「這行為」也要罰 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPMWdSbXpEd2NDbnFSMGVueTZvbGJCazVzN01ZZER2Yy1oQzE1Z0xkMjRfbDdlenplOEdVQUpEVmJhMHdSYV9TLUduVW9GYTlNbnFZVVdYWnlsVGtRX3pJQlBmR3BJenA3TjFnczVyRnJVdHdIcnRJdDd5Ym9hUm1WTEJxSE1SU0h2X1pLaDVCUEJ0RXhteFBpc3ZkYWNNWFRITlNCYmxJSjNYR3Y1TkZBcTV1c09FOHdtNVk4dHA0SEdZVkFsckxIS3ZRSFdsRTZ5bmRJRm53SjhObldUWWluZzBZaUJPYTFfY1hTTVY0MldTSFhZMFNjSVlSeEVDbjJLV0ZSNG5tSnljOEtVMy1GX2N5aDZ4SnBRdnhrT2hiZ0txYkxPejRWMzM3T3ppZFQyTWxORWVmSEVUNmYxaU1WVjJsb2plQXgwYUtCU0VzcXZIY25saWdIQkQ5MWZYd2s4dlE0MWFVdGk1UFNBTVRkNFRfczFneU9tSE43MFJWNHNWazZDMHNGODVVaE5WNFVGMTdrLVZuaGF0U0Za?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-15 14:42:36",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "喪屍菸彈危害國人 建國要求警政署查獲電子菸就要驗毒！！ 今天衛環委員會正式逐條審查《#菸害防制法》修正草案，這次菸防法的修法不僅是單純的菸害，而是針對電子菸與「#依托咪酯」這類新興毒品，深度綁定。 為了防止 #喪屍菸彈 及 #毒駕 持續危害國人安全，這次 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxNUWd5VktXYU5tdzdpWGQtMzI5Z1dyMzNjY1MwUXZ4TXAwUUVCNFBNbDdXVkdlVWFTUGN0ZzRwaFk3MC04cm9ENVg4U1Fzb0psYmpGZGp5VURTcHBScDJBYzBUUTd1Z1p0OHlFN1V6WHhQYjVxQnVwUjk1eUpjYWFveXBMUk9hSVJRZEN5R050RGdVQkpwd282UjVVS011YnY0Y20xYW52VkhxWURBUEVHZklJR2tNemYyaEJjLUd3Umxjc0V5VzFNU2dMc201ZXFEQno3MllXaGFfZVlMbmdiTVdzalAzb1hqcEtlbHBMYzViaDN5aWxWbGw5cEZUY0UzcVVxcEdOVERYLS1WMVEydEQyWUtuSXB4cHBQQThEZm5mcUx2NnczVXZmLUJEb3pHWHYtbFN3UWpNVHNQdHVvZTlvdVVKWEQyc1o0Q1RNblBkU3d2bmN4QkxVclBJcmpZTUEteDFUdjg4WDRMZkQ2OUdWUGZ6blhrb3Jac3BtV2g1OEU2MEl6Q2FqTl9FVzdWZlJmUk15UmhYbkx3M2x5bHhnd00tVjg0M0pnZ3YxalMyZHN4WmZMcWdOdk1qRmNLZ04xMEs2Y0RDbWxzNnpyaUQ0MXlyNzlzQWhWS0V4X2w1RGdlZ1lSSXVWR1d2MUdDUUVISmhzZXE0S0RKMEpsQ2E5X1RyR3BucWtOalJEWWt2RnZ2T1ZHV25KVmZnTXIyQUU2MFlTWUZGM201S1pyR0lFQmluM0ZkUlNqM3hDS3NpYmZLYko3V1liY0tWUEpCbng3d1pCUllLTVAtMFZKSDNrVU5sZFN5UWdiYmFjQXRveGVnWlowRmxhbzJHR0RmNk05aDltSUNLMmdodHNIWm94QWdhUGhBYTI3a0xndElnZDRmcXpqUUZkXzJSVk5jMTUyTUtlckdUWS1Lc1VUTlc4cFpYUmN0dDN3S2MxSVNwdG1qR1QyQXhEY2ZEejdMZm5NSmxoTmxLSG9VaXpfZTA3VmZXanJQbmRYZXdzckRwdkZDM3c4bFFuZWFnYzYxWjFleGs2OVdUcHdMZ3NWMENacU8yc2pPRk83bnEzOEdCUzBZMmJsT2tOMkk3MkJoYXY5WUZoU2pybFY2UTRNUXJQWFhGUzFkN3RnR3Q4Z0FyYjRYUndGWnlRLUxVSTU1SlFMZ2RkQXJ5X0xnWEtjNnFUdzUtWU5EeFkwZ05GWnNXbFFYOUtlNEFac2RoZ1BTNWk0dE4wMkRIV1JNc1BiSGkwbnZyNVkxRDRPYnRXZ25IT2NtdktVcml3eEZULVRJWTRYem5mMF82VnZGZWVCM3I1cDgwQ012TUJKWmliNThILS1aV29lVnFhdlNRQXVtNzhsVnlMWG9mTEpVTExJeWtKM3Q2OHVENFBJV0hIM0xXR1pL",
+        "time": "2026-07-15 14:24:39",
+        "platform": "facebook",
+        "risk": "綠"
+      },
       {
         "title": "劉建國推動農業三法完善農民保障 從耕作、職災到退休打造全方位安全網 - 台灣新聞雲",
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8wZDA5aU5BSmhQRW9qdVVHcDBGSnNLQkQ2bWhwZlA2VnFLS0lKVklwczJCYzhrUkszTFBaMEFzOXVuMFA0a1VB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
