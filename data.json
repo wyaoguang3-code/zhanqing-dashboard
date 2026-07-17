@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-07-17T16:53:09.125243+00:00",
+  "generated_at": "2026-07-17T17:08:39.190831+00:00",
   "metrics": {
-    "total_24h": 2,
+    "total_24h": 4,
     "prev_24h": 37,
-    "growth_pct": -94.59,
-    "news_24h": 2,
+    "growth_pct": -89.19,
+    "news_24h": 3,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 113,
+    "total": 115,
     "prev": 250,
-    "growth_pct": -54.8,
-    "news": 97,
+    "growth_pct": -54.0,
+    "news": 98,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,17 +28,21 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 2
+      "count": 3
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 97
+      "count": 98
     },
     {
       "platform": "facebook",
-      "count": 14
+      "count": 15
     },
     {
       "platform": "youtube",
@@ -52,6 +56,10 @@
     },
     {
       "hour": "2026-07-17 19:00",
+      "count": 2
+    },
+    {
+      "hour": "2026-07-18 00:00",
       "count": 1
     }
   ],
@@ -250,17 +258,30 @@
     },
     {
       "hour": "2026-07-17 19:00",
+      "count": 2
+    },
+    {
+      "hour": "2026-07-18 00:00",
       "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 2
+      "count": 3
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "守護雲林林內鄉親安全！ 立委劉建國爭取追加5300萬 促請水保署全力搶修坪頂崩塌地 - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxNjc2ZFVEUVgxQlU0eFdLUDNEZnBXMmZFdERZRG84OG9teXQ3SzlhZnlrUFd3amhhUmFSd25FRDhScGhlbnJvWVM1WmJyUzBxd0xRMUhRbTNaUlllb05ENDBqazBaQnNmR0tN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-18 00:19:20"
+      },
       {
         "title": "林內坪頂邊坡災害持續擴大 劉建國爭取追加5300萬元守護居民安全 - 臺灣導報",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GVEd1d0o2VS1pc3pmb0l2TWM4bHVmdWtmNUV3WExsVnc1V0o4cUotVVZGc19GZFYwYlNVcmpWWVpNblVfcjllOTdyUW5oWVdhUjdYeg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -270,17 +291,33 @@
         "title": "林內坪頂邊坡災害持續擴大 劉建國爭取追加5300萬元守護居民安全 - 台灣民眾電子報",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13ZHl0NFdaZHVOSmlBMWRaOFlMRGR0Z1VUZnZvbVZKLUc1OWhWXzVBZEZsMjIyLXZFVmV0NXFNNGs1ZWlmVFRnUA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-17 16:49:06"
+      }
+    ],
+    "facebook": [
+      {
+        "title": "雲林縣政府. . 連結大埤鄉西鎮村及元長鄉新吉村交通動脈的「N10 無名橋」，因113年7月凱米颱風沖刷有安全疑慮進行封橋至今，縣長張麗善、立法委員張嘉郡，特別會同大埤鄉長林森寶及多位代表、村長與鄉親陪同前往現地勘查，張縣長表示，為解決居民長期繞道的不 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi3wdBVV95cUxOcGM4d2NhUHgteWVENndBak1kYXpKX3hDc0pDcnBGTnlIX2Q4M1oxU3UtR2wxYjZuT0xtODBBLVJ0VElwN2RzcU5zWk1qeDJaZ0NUYjdTRVVsY2M3MWtyVXp5Q1lqM2RPMFh0bnBVdm8xbTdZSGhQRnVOZnppS2ZmYmppUkR0VnJCckVfenF3aTM3ejdxZ0x2dGZtRTlISy1YVTNjU0pEd2NKLW5KSEpseEdpRnZUNWRpcGhGNGd6QWhMOVZlMG9mY1lIa3ZjRnkwbWFuUXhRanZDQTBKN1dadjlxcmV6UERqN1Y4WUNObXlTbmkzdFRJVDljbzJHU3puYV95ZE52SEpRdUc4SDI5YnZleGp3NkQya3UwLWhZYk1lRjNGc3ZsRHJ2bFZSZFhZc1ZHbHZ5M3gxZkFNUU42MmlhOExMRk5fNk9mRU1WMXZaRk9NSldfT29jSzliZEx1OXZaQWFXSWtlSVBUT2YzY05HQ0RMMzlvUlNsa1BDdzRocW84WE9jUjgxUEZMY3FrbXBRa3Z0SVhpY2pHTUtYV1YxQ08ydV9YZW9SMkg1LUxRUGg2eFgyVHhiWDM2Q2VMcTBkOUFhSFVDd2VSdUx3RUhfeDdqNmhjTXR1QXk5eVhrY1pVS1BJeXRMb2hyS25MSWVpQ1M1WnNzWk5pc2tIM3h3RXVNVktiOUZ6dVROWUFXUjBwcU02QjhjSWc2WmlEWkZNanF6TkxrVGE3N3JSaWgyRHdMSUlSSHl3cWRxMEFVQXVGekNCdEp5MG5TaG5ZMDVieHVualpYUU1FYnRnbUFLRFJXdEdneTJqbVZvWnJuMVNTRU1FSnhHdGVYMEZpQ2Nuell3YmNPMXdST1BJb1lLajJUOVdWMXBaNTZZcEQ1dE04bTFyRnRxOGhwTENGRlFxNHhaU0FyNnRoWW9nRG5wbkZXblExOG4wdHpFSGZ1Y09CODJXU3BfX0RzY1VjNExTQk9ZMWtmaGV1MkFNSXI4Y0tSOHlEeTNzV216NGlhdUp4aE01TVptNVRtM28zX2tsRkhYdmNkXzZJUkkzMVFKYWpKSmpucmVpMmJFM1dxYTU1d2lOMS1DdUtwbl9PRWMzOU1HaWx6dVFzdUFaRFlackxvUnN0cDBrX3JZbktfNnJaWHA0TXZiRkdmb3V4dkwwQnFuMERaTnFxa0h5VVNTUU53RUZWem1FclNFa0J4UnlPTkFiRk5fNDNpSUZJOXhFR0V0Q0pHc2IxeGFYZHZpZC1UU3lINGFLelZSRExzdzdqWWpJYjF5TXZnaFBGaHRuM1pVZmlKWllmOWE0",
+        "time": "2026-07-17 19:54:52"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 2
+      "count": 3
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "守護雲林林內鄉親安全！ 立委劉建國爭取追加5300萬 促請水保署全力搶修坪頂崩塌地 - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxNjc2ZFVEUVgxQlU0eFdLUDNEZnBXMmZFdERZRG84OG9teXQ3SzlhZnlrUFd3amhhUmFSd25FRDhScGhlbnJvWVM1WmJyUzBxd0xRMUhRbTNaUlllb05ENDBqazBaQnNmR0tN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-18 00:19:20"
+      },
       {
         "title": "林內坪頂邊坡災害持續擴大 劉建國爭取追加5300萬元守護居民安全 - 臺灣導報",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GVEd1d0o2VS1pc3pmb0l2TWM4bHVmdWtmNUV3WExsVnc1V0o4cUotVVZGc19GZFYwYlNVcmpWWVpNblVfcjllOTdyUW5oWVdhUjdYeg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -291,17 +328,29 @@
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13ZHl0NFdaZHVOSmlBMWRaOFlMRGR0Z1VUZnZvbVZKLUc1OWhWXzVBZEZsMjIyLXZFVmV0NXFNNGs1ZWlmVFRnUA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-17 16:49:06"
       }
+    ],
+    "facebook": [
+      {
+        "title": "雲林縣政府. . 連結大埤鄉西鎮村及元長鄉新吉村交通動脈的「N10 無名橋」，因113年7月凱米颱風沖刷有安全疑慮進行封橋至今，縣長張麗善、立法委員張嘉郡，特別會同大埤鄉長林森寶及多位代表、村長與鄉親陪同前往現地勘查，張縣長表示，為解決居民長期繞道的不 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi3wdBVV95cUxOcGM4d2NhUHgteWVENndBak1kYXpKX3hDc0pDcnBGTnlIX2Q4M1oxU3UtR2wxYjZuT0xtODBBLVJ0VElwN2RzcU5zWk1qeDJaZ0NUYjdTRVVsY2M3MWtyVXp5Q1lqM2RPMFh0bnBVdm8xbTdZSGhQRnVOZnppS2ZmYmppUkR0VnJCckVfenF3aTM3ejdxZ0x2dGZtRTlISy1YVTNjU0pEd2NKLW5KSEpseEdpRnZUNWRpcGhGNGd6QWhMOVZlMG9mY1lIa3ZjRnkwbWFuUXhRanZDQTBKN1dadjlxcmV6UERqN1Y4WUNObXlTbmkzdFRJVDljbzJHU3puYV95ZE52SEpRdUc4SDI5YnZleGp3NkQya3UwLWhZYk1lRjNGc3ZsRHJ2bFZSZFhZc1ZHbHZ5M3gxZkFNUU42MmlhOExMRk5fNk9mRU1WMXZaRk9NSldfT29jSzliZEx1OXZaQWFXSWtlSVBUT2YzY05HQ0RMMzlvUlNsa1BDdzRocW84WE9jUjgxUEZMY3FrbXBRa3Z0SVhpY2pHTUtYV1YxQ08ydV9YZW9SMkg1LUxRUGg2eFgyVHhiWDM2Q2VMcTBkOUFhSFVDd2VSdUx3RUhfeDdqNmhjTXR1QXk5eVhrY1pVS1BJeXRMb2hyS25MSWVpQ1M1WnNzWk5pc2tIM3h3RXVNVktiOUZ6dVROWUFXUjBwcU02QjhjSWc2WmlEWkZNanF6TkxrVGE3N3JSaWgyRHdMSUlSSHl3cWRxMEFVQXVGekNCdEp5MG5TaG5ZMDVieHVualpYUU1FYnRnbUFLRFJXdEdneTJqbVZvWnJuMVNTRU1FSnhHdGVYMEZpQ2Nuell3YmNPMXdST1BJb1lLajJUOVdWMXBaNTZZcEQ1dE04bTFyRnRxOGhwTENGRlFxNHhaU0FyNnRoWW9nRG5wbkZXblExOG4wdHpFSGZ1Y09CODJXU3BfX0RzY1VjNExTQk9ZMWtmaGV1MkFNSXI4Y0tSOHlEeTNzV216NGlhdUp4aE01TVptNVRtM28zX2tsRkhYdmNkXzZJUkkzMVFKYWpKSmpucmVpMmJFM1dxYTU1d2lOMS1DdUtwbl9PRWMzOU1HaWx6dVFzdUFaRFlackxvUnN0cDBrX3JZbktfNnJaWHA0TXZiRkdmb3V4dkwwQnFuMERaTnFxa0h5VVNTUU53RUZWem1FclNFa0J4UnlPTkFiRk5fNDNpSUZJOXhFR0V0Q0pHc2IxeGFYZHZpZC1UU3lINGFLelZSRExzdzdqWWpJYjF5TXZnaFBGaHRuM1pVZmlKWllmOWE0",
+        "time": "2026-07-17 19:54:52"
+      }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 0,
-    "劉建國": 2
+    "張嘉郡": 1,
+    "劉建國": 3
   },
   "mention_compare_7d": {
-    "張嘉郡": 47,
-    "劉建國": 54
+    "張嘉郡": 48,
+    "劉建國": 55
   },
   "top_news": [
+    {
+      "title": "守護雲林林內鄉親安全！ 立委劉建國爭取追加5300萬 促請水保署全力搶修坪頂崩塌地 - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxNjc2ZFVEUVgxQlU0eFdLUDNEZnBXMmZFdERZRG84OG9teXQ3SzlhZnlrUFd3amhhUmFSd25FRDhScGhlbnJvWVM1WmJyUzBxd0xRMUhRbTNaUlllb05ENDBqazBaQnNmR0tN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-18 00:19:20"
+    },
     {
       "title": "林內坪頂邊坡災害持續擴大 劉建國爭取追加5300萬元守護居民安全 - 臺灣導報",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GVEd1d0o2VS1pc3pmb0l2TWM4bHVmdWtmNUV3WExsVnc1V0o4cUotVVZGc19GZFYwYlNVcmpWWVpNblVfcjllOTdyUW5oWVdhUjdYeg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -314,6 +363,11 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "守護雲林林內鄉親安全！ 立委劉建國爭取追加5300萬 促請水保署全力搶修坪頂崩塌地 - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxNjc2ZFVEUVgxQlU0eFdLUDNEZnBXMmZFdERZRG84OG9teXQ3SzlhZnlrUFd3amhhUmFSd25FRDhScGhlbnJvWVM1WmJyUzBxd0xRMUhRbTNaUlllb05ENDBqazBaQnNmR0tN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-18 00:19:20"
+    },
     {
       "title": "林內坪頂邊坡災害持續擴大 劉建國爭取追加5300萬元守護居民安全 - 臺灣導報",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GVEd1d0o2VS1pc3pmb0l2TWM4bHVmdWtmNUV3WExsVnc1V0o4cUotVVZGc19GZFYwYlNVcmpWWVpNblVfcjllOTdyUW5oWVdhUjdYeg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -408,14 +462,14 @@
       "title": "雲林出土台灣首批二戰日軍陶瓷手榴彈 明在建國眷村首度亮相 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45aVd3SmxLcERtNVZiN0RCVWxCeDBvR3o1RC1BQV9QWDNIY3BveHJxY3pTTWg4WDVfN3NiUlhXc1Zld3ZnTXVKWWFNWjNkbERWOUVieFd30gFWQVVfeXFMTjlpV3dKbEtwRG01VmI3REJVbEJ4MG9HejVELUFBX1BYM0hjcG94cnFjelNNaDhYNV83c2JSWFdzVmV3dmdNdUpZYU1aM2RsRFY5RWJ4V3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-16 11:24:43"
-    },
-    {
-      "title": "「持有」電子菸就開罰！劉建國提查獲就驗毒 防喪屍菸彈危害 - 上報Up Media",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyUjVMeWZ1OW1kcUxVU1JjOE1TSm1lMzFVVHhWVEUtZS1CM3FEREdzMnc3dkZLVndhaURSYzRaSVdrc3RBcWs2VmlsZVhQdjhYOGtoWTMwZGRqUms?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-16 11:13:00"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "雲林縣政府. . 連結大埤鄉西鎮村及元長鄉新吉村交通動脈的「N10 無名橋」，因113年7月凱米颱風沖刷有安全疑慮進行封橋至今，縣長張麗善、立法委員張嘉郡，特別會同大埤鄉長林森寶及多位代表、村長與鄉親陪同前往現地勘查，張縣長表示，為解決居民長期繞道的不 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wdBVV95cUxOcGM4d2NhUHgteWVENndBak1kYXpKX3hDc0pDcnBGTnlIX2Q4M1oxU3UtR2wxYjZuT0xtODBBLVJ0VElwN2RzcU5zWk1qeDJaZ0NUYjdTRVVsY2M3MWtyVXp5Q1lqM2RPMFh0bnBVdm8xbTdZSGhQRnVOZnppS2ZmYmppUkR0VnJCckVfenF3aTM3ejdxZ0x2dGZtRTlISy1YVTNjU0pEd2NKLW5KSEpseEdpRnZUNWRpcGhGNGd6QWhMOVZlMG9mY1lIa3ZjRnkwbWFuUXhRanZDQTBKN1dadjlxcmV6UERqN1Y4WUNObXlTbmkzdFRJVDljbzJHU3puYV95ZE52SEpRdUc4SDI5YnZleGp3NkQya3UwLWhZYk1lRjNGc3ZsRHJ2bFZSZFhZc1ZHbHZ5M3gxZkFNUU42MmlhOExMRk5fNk9mRU1WMXZaRk9NSldfT29jSzliZEx1OXZaQWFXSWtlSVBUT2YzY05HQ0RMMzlvUlNsa1BDdzRocW84WE9jUjgxUEZMY3FrbXBRa3Z0SVhpY2pHTUtYV1YxQ08ydV9YZW9SMkg1LUxRUGg2eFgyVHhiWDM2Q2VMcTBkOUFhSFVDd2VSdUx3RUhfeDdqNmhjTXR1QXk5eVhrY1pVS1BJeXRMb2hyS25MSWVpQ1M1WnNzWk5pc2tIM3h3RXVNVktiOUZ6dVROWUFXUjBwcU02QjhjSWc2WmlEWkZNanF6TkxrVGE3N3JSaWgyRHdMSUlSSHl3cWRxMEFVQXVGekNCdEp5MG5TaG5ZMDVieHVualpYUU1FYnRnbUFLRFJXdEdneTJqbVZvWnJuMVNTRU1FSnhHdGVYMEZpQ2Nuell3YmNPMXdST1BJb1lLajJUOVdWMXBaNTZZcEQ1dE04bTFyRnRxOGhwTENGRlFxNHhaU0FyNnRoWW9nRG5wbkZXblExOG4wdHpFSGZ1Y09CODJXU3BfX0RzY1VjNExTQk9ZMWtmaGV1MkFNSXI4Y0tSOHlEeTNzV216NGlhdUp4aE01TVptNVRtM28zX2tsRkhYdmNkXzZJUkkzMVFKYWpKSmpucmVpMmJFM1dxYTU1d2lOMS1DdUtwbl9PRWMzOU1HaWx6dVFzdUFaRFlackxvUnN0cDBrX3JZbktfNnJaWHA0TXZiRkdmb3V4dkwwQnFuMERaTnFxa0h5VVNTUU53RUZWem1FclNFa0J4UnlPTkFiRk5fNDNpSUZJOXhFR0V0Q0pHc2IxeGFYZHZpZC1UU3lINGFLelZSRExzdzdqWWpJYjF5TXZnaFBGaHRuM1pVZmlKWllmOWE0",
+      "time": "2026-07-17 19:54:52"
+    },
     {
       "title": "劉建國 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKRTlhWm1FdlpHTU10ZU9BRzJQSEhXcGItMFBscHgtOEFqYXNMREF0WlFQWUdfNUFOcmNQT0s0WFpfLVJ5aHd4LTBhemNPWTUyaXNlWlhpa1d1MkxxWDQxSWFpNXkxOUhaUU0xajNhWQ",
@@ -510,14 +564,14 @@
       "title": "下午1:00 找「回鄉」小吃店 在鄉下，算午餐的離峰時間 三三兩兩的就適合我們坐長桌 幾乎賣什麼就點什麼 六個人 六張嘴 #郭佩瑄吃最多 #要選舉選議員 不跟她計較 1000元有找 擺滿一整桌 全是我的最愛 （三層白切肉、鱿魚、腸子、豆腐豆干白蘿蔔⋯） - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMiywdBVV95cUxQOUZUSkdHZEtFY04wMmtFdTlIZ3dud0dyX3JnbFloYktzT0k5enhoMWJtcHd2cE4xWWdOZ3lYUzJYdVNrbGxiZjhrYTNwYzdvQ3VlSUFYbURQay1uRkQ3dWhqbTlvZGxnMFdzUVYtZElwM05GTWVla29XWkh1YnV4X1FKUDNBTjdxVkVzS0hwNlpveVZlaDNWbVV0elZGMld5dzdQdmxPN1VHODBQbmxMNUZscktnamxqYUJ1c0h5V2ZzQm1OMVFKaDNEYWJnQXQ1TFdYbW84T2ZvX1VKQ1dwWG1MYnhCNFhJRmREUVlvdTlWbzBDcnhnd1hKZ0VvZHJnbU9KMW1PTTlNOS1DdTBHUVViZjdKMEVHdlQ5eTZEeDYzRnlyUVdKUWhpeHhMRFpUQkFNd0d4V19ya1E3V2V2T3lkZ3MxZHFCaDVFU0Y0M1NXVndOajlRQlB2NkVlS21XMmhyV1VscG9wSTd0YnhFZ2QzZ0VfeGJnZ2l4TC0wU2FHQVIwYnh3a3NvMzhSYWxIYzFwdzNaeThZNUR5ZFl4bjl3ejNGYXlwRUNHclQ1a3NEQXFQeFBFaHVfVGVSM2lORllVdjdsZjN3UW1MSmNGWW1uUW1aeFY5ZEFjU3NqV0lvdnNOSlJzODhySG1vOW5VWmFTU19LbjI1SjVUUzlwRXBzUHNFVDV3d0V3M0ZydDJ2cjh1VWE0T0I5RHRvcVhLdlFmX3RnTnhOUUl1cFM0RWxDTUpVMFhUc3pOS2RuZmp1Z2hZS3J5ZHo3cG9xVm8tNzRNRDhsQmtLMmdoQjNfLWZmS0syMzgzVlJhRnlnbDdBTnFHeWR1MGZ2TEFkaFZ5TmVnQTBwQkFNYkxCY0V2em11YXU5YWRXVy1RZHRVX1RlNGxnM0pXcGR5RjZiWUY3VlgwaTlUQTBnQ3hNc3d6eno2blRUZ3ktZlN1TU92Rm82ZXJKLUxtM251SGJuMjZVYllibWc3YURqS0x0SGpxWkItdnpOOTFGQzNvS01xRHZDekgzSGZXSXdJeW0yTG4yb2NEYVVVRTlCQzVhMjd5X1hlYmtyS2k0SXdsNU9qaWg1cnZpaTZlWVpnYmVPdzlBblFZcTV4cDdJemo0bEZqNFBDOTh4STI1bFEtNlBWOVU5TVFOMHhmXzh6YzRPelpERW5oYndzbWRzMzdBeWRuc3RsY0g0aTFNbXNqeHRjRDh3TGxqVTZNSy1CM1JpVDVqR1IxSlpTM09pM0lXQmxnNGRnLXVPYnFxSGN0ZmlURURLOFBsVDFtc0VlVQ",
       "time": "2026-07-09 16:29:56"
-    },
-    {
-      "title": "#李洋部長來了❤️ #一鄉鎮一匹克球場🏓 #打造全民樂活的運動雲林✨️ 嘉郡很開心和 #運動部 李洋/Lee Yang 部長一起體驗最近超夯的運動 #匹克球。 匹克球真的很有魅力😆 嘉郡也和李洋部長一起同場打匹克球，沒想到一玩就停不下來❗️ 現場吸睛的還有 榮耀海線 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMirwdBVV95cUxNQ1dtdENuT3llbDN0RmprblQtdkh2ZVAyci1BcDhrUklwMzJzamhHV0lMVE5RSkprUVhRbDNwX1g1a3ZzWUJSWmJBRjM0WFp4NTRiT05oXzZzRUpxTzFlaVN2QmdkU3BWTnlfTlJQZm51YVdCNDFUcm9LYW13T2hINmg1QVczTk1wOVNtTHFjcExHcE81V2hZSndHMmtibW5abjBybXlFTUJyUFdWTlNnMVMxWnBJcTNjYjRtLWllb1NvV0VubDJ6cDdfSm1jbTRFU3RFcXA4SWpaeGdmRHFuTGtHQ2FnYU5oUWQ2MlhiSGhueFlvYmpQSWhPVGZnalRHUXdKdEE2NE9kY2VzeHlKMjlYMjFBc1FrVnFrUGlzRHI0emdEdzEzSW1ObTNfb0F6MXl5M2trd0xxMmdUd21NaG1leVFyU2ExSjZZeHVUdUMxbFFQcWxBN0JnVURTMHpRVGxtRnFLekE5bEUyanZjN0hhdXJ3YThLSEVKUENjdXpVVlZmSFA0OWQ5ajhKdW9rMEM4eTdzemtzY05zcXphWE9ERHJ6RUVOSENYUGxSdjBzSlhLWnU5Q0FnTXN3a1NBSGNVTGc0V1gwWGxqNXRvamVEX3YxNGNaS1BYUnNUTF81cE1abWd1aXFUSFdkZGJzOVVaS3pvZmtZeXU1M1dxTjc3dFFVMDVEaDVxNjBPTV9hTUhBNlV2Y3ZyXzZmU3htNnJTSVo0WUFsb1lnRnVjbHN0NnI2ajdfR0VRdEFFZTdtR0tRMmlqQk1KV09vX0RqZ0RaamQ5NGdWZVU4SHI0d2FORUlyRzJDUU9EeGpXRUkteDNIMDB6Z1ZRSTFobEY1SlJBRHAzMDJiZDVCbEtlVHJUcC11RVRLX2J1bmxMWE9PMG1pSThLY1pERTFmVmR1RUZ5bmNFd19yMXlSVnBYZDdqejl3SG9uR3JxMVJ5ai1FMzRJYWs5ckxDSklyVnBYS0V5TkppSTl1WnBDTEc2S1lyZU8zTlpZUXU3VmpTaS1QSVFXZjRVajZ4WEk2bEJ6UnhtS0dOQ0RHUUdBclNJcEFUcXNmQXJ0cXRYdE9mdUtHVFd2ZmIyTGVhMXk5dFdIaXp3Mm1ES0VfV3gyU2Y1MnQ3R2FJTXpsX1I5OF9LVWQwb0xkR3Fya0xyUFVDWWdtSDZFWnN2dXFSaENPaXQ2bmZMZXB4YlRaTzNNc3ZsNmk3UUp6Zi1yQ1BVLTltTU1HdVNNOFYtTFowelV4cXlF",
-      "time": "2026-07-09 10:13:09"
     }
   ],
   "latest_news_20": [
+    {
+      "title": "守護雲林林內鄉親安全！ 立委劉建國爭取追加5300萬 促請水保署全力搶修坪頂崩塌地 - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxNjc2ZFVEUVgxQlU0eFdLUDNEZnBXMmZFdERZRG84OG9teXQ3SzlhZnlrUFd3amhhUmFSd25FRDhScGhlbnJvWVM1WmJyUzBxd0xRMUhRbTNaUlllb05ENDBqazBaQnNmR0tN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-18 00:19:20"
+    },
     {
       "title": "林內坪頂邊坡災害持續擴大 劉建國爭取追加5300萬元守護居民安全 - 臺灣導報",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GVEd1d0o2VS1pc3pmb0l2TWM4bHVmdWtmNUV3WExsVnc1V0o4cUotVVZGc19GZFYwYlNVcmpWWVpNblVfcjllOTdyUW5oWVdhUjdYeg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -612,16 +666,16 @@
       "title": "雲林出土台灣首批二戰日軍陶瓷手榴彈 明在建國眷村首度亮相 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45aVd3SmxLcERtNVZiN0RCVWxCeDBvR3o1RC1BQV9QWDNIY3BveHJxY3pTTWg4WDVfN3NiUlhXc1Zld3ZnTXVKWWFNWjNkbERWOUVieFd30gFWQVVfeXFMTjlpV3dKbEtwRG01VmI3REJVbEJ4MG9HejVELUFBX1BYM0hjcG94cnFjelNNaDhYNV83c2JSWFdzVmV3dmdNdUpZYU1aM2RsRFY5RWJ4V3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-16 11:24:43"
-    },
-    {
-      "title": "「持有」電子菸就開罰！劉建國提查獲就驗毒 防喪屍菸彈危害 - 上報Up Media",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyUjVMeWZ1OW1kcUxVU1JjOE1TSm1lMzFVVHhWVEUtZS1CM3FEREdzMnc3dkZLVndhaURSYzRaSVdrc3RBcWs2VmlsZVhQdjhYOGtoWTMwZGRqUms?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-16 11:13:00"
     }
   ],
   "person_sections": {
     "張嘉郡": {
       "facebook": [
+        {
+          "title": "雲林縣政府. . 連結大埤鄉西鎮村及元長鄉新吉村交通動脈的「N10 無名橋」，因113年7月凱米颱風沖刷有安全疑慮進行封橋至今，縣長張麗善、立法委員張嘉郡，特別會同大埤鄉長林森寶及多位代表、村長與鄉親陪同前往現地勘查，張縣長表示，為解決居民長期繞道的不 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi3wdBVV95cUxOcGM4d2NhUHgteWVENndBak1kYXpKX3hDc0pDcnBGTnlIX2Q4M1oxU3UtR2wxYjZuT0xtODBBLVJ0VElwN2RzcU5zWk1qeDJaZ0NUYjdTRVVsY2M3MWtyVXp5Q1lqM2RPMFh0bnBVdm8xbTdZSGhQRnVOZnppS2ZmYmppUkR0VnJCckVfenF3aTM3ejdxZ0x2dGZtRTlISy1YVTNjU0pEd2NKLW5KSEpseEdpRnZUNWRpcGhGNGd6QWhMOVZlMG9mY1lIa3ZjRnkwbWFuUXhRanZDQTBKN1dadjlxcmV6UERqN1Y4WUNObXlTbmkzdFRJVDljbzJHU3puYV95ZE52SEpRdUc4SDI5YnZleGp3NkQya3UwLWhZYk1lRjNGc3ZsRHJ2bFZSZFhZc1ZHbHZ5M3gxZkFNUU42MmlhOExMRk5fNk9mRU1WMXZaRk9NSldfT29jSzliZEx1OXZaQWFXSWtlSVBUT2YzY05HQ0RMMzlvUlNsa1BDdzRocW84WE9jUjgxUEZMY3FrbXBRa3Z0SVhpY2pHTUtYV1YxQ08ydV9YZW9SMkg1LUxRUGg2eFgyVHhiWDM2Q2VMcTBkOUFhSFVDd2VSdUx3RUhfeDdqNmhjTXR1QXk5eVhrY1pVS1BJeXRMb2hyS25MSWVpQ1M1WnNzWk5pc2tIM3h3RXVNVktiOUZ6dVROWUFXUjBwcU02QjhjSWc2WmlEWkZNanF6TkxrVGE3N3JSaWgyRHdMSUlSSHl3cWRxMEFVQXVGekNCdEp5MG5TaG5ZMDVieHVualpYUU1FYnRnbUFLRFJXdEdneTJqbVZvWnJuMVNTRU1FSnhHdGVYMEZpQ2Nuell3YmNPMXdST1BJb1lLajJUOVdWMXBaNTZZcEQ1dE04bTFyRnRxOGhwTENGRlFxNHhaU0FyNnRoWW9nRG5wbkZXblExOG4wdHpFSGZ1Y09CODJXU3BfX0RzY1VjNExTQk9ZMWtmaGV1MkFNSXI4Y0tSOHlEeTNzV216NGlhdUp4aE01TVptNVRtM28zX2tsRkhYdmNkXzZJUkkzMVFKYWpKSmpucmVpMmJFM1dxYTU1d2lOMS1DdUtwbl9PRWMzOU1HaWx6dVFzdUFaRFlackxvUnN0cDBrX3JZbktfNnJaWHA0TXZiRkdmb3V4dkwwQnFuMERaTnFxa0h5VVNTUU53RUZWem1FclNFa0J4UnlPTkFiRk5fNDNpSUZJOXhFR0V0Q0pHc2IxeGFYZHZpZC1UU3lINGFLelZSRExzdzdqWWpJYjF5TXZnaFBGaHRuM1pVZmlKWllmOWE0",
+          "time": "2026-07-17 19:54:52"
+        },
         {
           "title": "智倫力挺優質農產，雲林花生最好吃！ 韓國瑜 張麗善 張嘉郡 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNYndSRHJ0Yl93UTRwdnhjQnVWX1pOVlRocmFRZzZfbUZNaTJDc0UzVS1xRGlDZzQ2MzJvTGh4T0NOUmRUWHAwTkxFNFcxSVRGSlY3WE5jS2JiRXpkS0ZoV1R5N2d6M0V4R2xGSy1lSUtLUVo1cG5iM1BGZVlxZHh6VzQzVmRMZWxJbE5IVlBJbENYQkxNZEpSZnFoY2ZTQjBaSmxTVldTU0tHYk4zak5salFmcE5EY2RHekY0YUo2QzlMZXM1T2ZzMUg1TTBNNl9ObVgtcW5HNHFoZmdyM2lEQWRYbUljc0s1NEhha29OTzl5dzJMM05BeFpaVHJTS0d4QUlFZ2Vya3hYN2Q2c0I2ZmEwWXBNRU5Id2E4aUJ4TG90N2ZGTjhKUUUxNlZsQWViWGxNMW1rV2hYNm41WWpyZi1wWnpVSS1NNFRjS3EtX1FVei16MUhndXFhV2ZmTXlibHg3MXNtZmxMWkRsUWR5cXBBeWhBejlaMzFlRlJSeEZ2QVF1eW9qWE12UkpEWUtnRHc",
@@ -716,11 +770,6 @@
           "title": "豪雨無情，造成農民嚴重損失，在縣府迅速彙整災情並由 張嘉郡 委員、榮耀海線 丁學忠 委員與 許宇甄 立法委員 委員等民代積極向中央爭取下，農業部已正式公告，雲林縣全縣列為115年6月下旬豪雨農業天然災害現金救助及低利貸款地區。 救助作物： 📍蔬菜（全品項） - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMi5wdBVV95cUxPLW5hRzdzVXQ5bzNZbEY0MmNaak5oWXVWdlFmVmV6aWhGQzRmMW9Kb0ozWlhkakpja0dtNEtXcHQ1aU5BdzE4M0JJeV96NTloWDdxYTdaOTJpckI4YlRGbWo3Y2ZVNXctR3hNNlZGazRKb1NOWkVsZ0xRcTFHdzVwSllaU09uU01rTWVNM0lweUNVUzdOTUIyekdqeHlqRzFURDlkaTZCekJhcnJQMVE3bjh0OHFteVQ2dnlRaDRNSWhUQ1Y1ZXZ4SC1hUjF0Nk9LMGQ2OTh2X3VLSDhuVW5xTk5kOEdkRVcyeHRDVWV5SEJnWHN5ci1DYnA1U0JWWEZWNzhCZ0hlakFHS05KRG1hdXJRNTBLaFdPV2I2bUxlZk9QQVhTblQ0VndwbWstQ0YyTUU2S0dHSTJ5YVphYTg1UnFLcnBSbmNLS180SEVILTI5ZUtqV1dOQ1BjRzB6MG5TWFRER2kzWXZmWWx4TUxZMXdvczUwNWxfZElENHNaZTdhaS13a283SDktdk04c1RYY19tcFh6dUJFeVRTZmx6TVQ4ZERZT1Axa0V5S2w3M2xtYmNKVEJfOFJpeW1BMy1PQzNodmpYUjhlQUp2aXcydjBtandrUkhXSHJwM1JySDdJZVROUE0yY0drX1hQakt0aHFJb3VpRW9IdV9Mc2NIMUhkT1Z0OGZwUFZvYkp1aDR5UWppSzJZTkdqbGx6RVRyTGpDQV9KRmRvSzFNUkN1SWs1UXNYcmtDdWJGWWR5REx1Vk5GdmM1RE1OZkNHM2tDRS1tY05QWUpHX3VpZ19mVG9MT21hSmZIMWo5ZUhzcW01V1JrOExRdVdRWk4wUll5bWRyNlc2NFBNQUVYU19LaGJlV1ZNdTUwdzhHTjFrTXR1U0VhcFI1blBPRGJjYVhlb1g4cU14aXpsZV90R21XUjU0elJGMkIwT2hSazRKeG1KWUZ6dWI0XzZCZjlfd0JiWUN6b1ZoTTNlbkd4RU5ZbUtzNTZHTUEyeTlQc3dEUmZfUHpOUnRVNGNmbXVGZ0lBZTc4Q3B4eFJjT1czMzBlQmpIZzYtakN3Nkt5RVdQWmlOZmJkcTNiQ19GUDRVYklUSXZnQllvQnAybjlKYVE1bFcxSDdaZkh2WFNRUW5PNlF2Q1hjUEtmUTJTODk5c3F1RzJkbkVsRy1FM1U3Vl9QdVVSN0sxY09TRjBFcm83dFN6Vjh2Tno5blJJbjBETW9wYzVKTFBodWRpMjljVmNrSEJjbzEtNUlBY3J0SG51eEtFRTZoTktLSlUweUYyT3VLR0lYdXQzOTdNQmVMV1VXWGl5S2JUYzQ",
           "time": "2026-06-27 22:50:05"
-        },
-        {
-          "title": "👉更多新聞👉 灌溉, 系統, 雲林 好報報導 (暴雨重創雲林 張嘉郡：爭取天然災害補助改善排水灌溉系統) 版權所有 台灣好報 【記者 劉峻文／雲林 報導】受到滯留鋒面與西南氣流影響，雲林地區豪雨成災，重創西螺、二崙等鄉鎮，短期葉菜類災情慘重。立法委員張嘉郡（27）日 - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi2wdBVV95cUxPeTNMeDdiTDZZQ2pMNF9xNEkxdHFYQWtRcHVJejJ2MjBrajBIS2NmYmgxREVIUHM1RFdKWF83Mm5MdUJrSkU4dDVGWXM3Q0o3MENtenowOGVBaTR5Q3dzZnZJWmk2S3lnOFRJOU82WGxwVmM3QkFLUjdROXFCVm9SOVRiNElfMTU5WjU5bUd4ZlRLMldlTlhvdTFneDZfc0ZlZmhxUWRka0p4emd1QmtxWmFISHliNTNEMFlBVWZPX25NNDhUSEJ2WndhMnc2XzFvRHlGWnF5SzZuZmdxOTN3dURYSjBHTEdjRGdvakJEUkVyV0MxQWpoNk9GZ0lPVE12OHdfNWs0ZmFURjRSaTdpcVVlS3RZTFBmb29Qbm82Ny1yWTJVWm14R2RPanlfcHY3bUVPLXFCQ0Z3cENDdWlaaUVJb0VEM3BNZi1vbWE0Vl9UOHljM3BLTkNGN3ptRktZbk5RMkFHSmE4RmdBNENpdDhxYzBRRWVKWmE4Q1FNZFBWOWVfd2Z4NHF1anFGRUF3MkdVVXJJaGpfT0tEMjFfRGdtd3hLeFBQX0xNRk1VMmVlVi16bkp3Q1lFSE1tQVpWYUV2dktYLUNOb0tiS25BZ3dCVlJKcU8wdFBJUlc4TklvdlgybjVHclhpazFwRVJUdGl4N3VqOGZTZmU4YUhTRmoxYlZPNmlZWVdHV0N1dzRBaGlIUkxOZElydjhtaDhLRWRud2EzZ0dacXNUYlYtSGpaZlBUMGdUNVpmZGlMR3VoRHVFMDNESXV3ZnRlSmdVMXE0ZVg0NFM1b1lUcnFwalY1cG5ERWQ2cUNKVVp6TXJrcFpzSWt1d05VQkp4MVpQNzI2WTJaZldsNG02Z1N6cjdjTUtBaW9QT2NOX0w3RHpEaFNyaTNQSWt0N05sQkQ1anRRejBLckRCMjBfWVBpTlZuTW5wdDc0UmxsWWRwZXh3bksyTGFyd00tTVFpQlpxUkZ0NURTOGRocUdFaGNWd3RrVnNUYXZDMFFsMU5fZS1EQURaZDBkQTBkUlIxZlg2NGVORXdHZ1FocGdHVjdRN1o4YUR4QzFXeGNha0hidS1NbkJ5NDlVQkRLS05DYWhvSnhVNzBUV3JUZjJIMjlLOWNucG9ZTWx2SHFqUHZwOGgzUmhWMVJLcjR5QW5lR25uTE9QMGx0bVczMjRZRWd5cFo2RXAzZjBHelREUURUczZzb0FhazVCRmhiOUlDXzZVTW5vM0lEQUpFekJkXzExNDZuVEEzUUlJRmRsRGVSc0NrMHRQamdyRGNrSnFZQjc4dGx0SktCWGZvOTQ",
-          "time": "2026-06-27 17:38:22"
         }
       ],
       "news": [
@@ -931,6 +980,11 @@
       ],
       "news": [
         {
+          "title": "守護雲林林內鄉親安全！ 立委劉建國爭取追加5300萬 促請水保署全力搶修坪頂崩塌地 - 台灣華報",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxNjc2ZFVEUVgxQlU0eFdLUDNEZnBXMmZFdERZRG84OG9teXQ3SzlhZnlrUFd3amhhUmFSd25FRDhScGhlbnJvWVM1WmJyUzBxd0xRMUhRbTNaUlllb05ENDBqazBaQnNmR0tN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-18 00:19:20"
+        },
+        {
           "title": "林內坪頂邊坡災害持續擴大 劉建國爭取追加5300萬元守護居民安全 - 臺灣導報",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GVEd1d0o2VS1pc3pmb0l2TWM4bHVmdWtmNUV3WExsVnc1V0o4cUotVVZGc19GZFYwYlNVcmpWWVpNblVfcjllOTdyUW5oWVdhUjdYeg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-17 19:05:02"
@@ -1024,17 +1078,17 @@
           "title": "「持有」電子菸即觸法！劉建國：應當場進行毒品檢驗 - 壹蘋新聞網",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWlIwWGdhQkxYRmtSV2poazU4NlJtTVZvNlFGem1NcFBUNktTN3VyOTl6Nmp3bHZoSkNMZlZOU01BMnNHeGxFUTVuMXZZcDQ3U3BQUXlBWjVqeHVzYTBPS19Lbl9lSVNUeTU2bjB0UUk1SUp2eUQ4QXhOUndPMjVrNWtERQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-16 00:00:00"
-        },
-        {
-          "title": "「喪屍菸彈」危害國人 雲林立委劉建國要求警政署查獲電子菸就應驗毒！ - 台灣華報",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wQmFHd3NKTGNLZ1dmUS0zLXYzeEtzdzdsYWozMUw4NU1CS21sekttQnl6amRTU2F3X1dCX3hrMlpXbzBtLVBMRC1xLXltMXdIcmdvN28zcm9WWXVEZkRoUXB4UHdGa2Y2cFVB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-15 22:50:33"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "守護雲林林內鄉親安全！ 立委劉建國爭取追加5300萬 促請水保署全力搶修坪頂崩塌地 - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxNjc2ZFVEUVgxQlU0eFdLUDNEZnBXMmZFdERZRG84OG9teXQ3SzlhZnlrUFd3amhhUmFSd25FRDhScGhlbnJvWVM1WmJyUzBxd0xRMUhRbTNaUlllb05ENDBqazBaQnNmR0tN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-18 00:19:20"
+      },
       {
         "title": "林內坪頂邊坡災害持續擴大 劉建國爭取追加5300萬元守護居民安全 - 臺灣導報",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GVEd1d0o2VS1pc3pmb0l2TWM4bHVmdWtmNUV3WExsVnc1V0o4cUotVVZGc19GZFYwYlNVcmpWWVpNblVfcjllOTdyUW5oWVdhUjdYeg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1045,10 +1099,22 @@
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13ZHl0NFdaZHVOSmlBMWRaOFlMRGR0Z1VUZnZvbVZKLUc1OWhWXzVBZEZsMjIyLXZFVmV0NXFNNGs1ZWlmVFRnUA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-17 16:49:06"
       }
+    ],
+    "facebook": [
+      {
+        "title": "雲林縣政府. . 連結大埤鄉西鎮村及元長鄉新吉村交通動脈的「N10 無名橋」，因113年7月凱米颱風沖刷有安全疑慮進行封橋至今，縣長張麗善、立法委員張嘉郡，特別會同大埤鄉長林森寶及多位代表、村長與鄉親陪同前往現地勘查，張縣長表示，為解決居民長期繞道的不 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi3wdBVV95cUxOcGM4d2NhUHgteWVENndBak1kYXpKX3hDc0pDcnBGTnlIX2Q4M1oxU3UtR2wxYjZuT0xtODBBLVJ0VElwN2RzcU5zWk1qeDJaZ0NUYjdTRVVsY2M3MWtyVXp5Q1lqM2RPMFh0bnBVdm8xbTdZSGhQRnVOZnppS2ZmYmppUkR0VnJCckVfenF3aTM3ejdxZ0x2dGZtRTlISy1YVTNjU0pEd2NKLW5KSEpseEdpRnZUNWRpcGhGNGd6QWhMOVZlMG9mY1lIa3ZjRnkwbWFuUXhRanZDQTBKN1dadjlxcmV6UERqN1Y4WUNObXlTbmkzdFRJVDljbzJHU3puYV95ZE52SEpRdUc4SDI5YnZleGp3NkQya3UwLWhZYk1lRjNGc3ZsRHJ2bFZSZFhZc1ZHbHZ5M3gxZkFNUU42MmlhOExMRk5fNk9mRU1WMXZaRk9NSldfT29jSzliZEx1OXZaQWFXSWtlSVBUT2YzY05HQ0RMMzlvUlNsa1BDdzRocW84WE9jUjgxUEZMY3FrbXBRa3Z0SVhpY2pHTUtYV1YxQ08ydV9YZW9SMkg1LUxRUGg2eFgyVHhiWDM2Q2VMcTBkOUFhSFVDd2VSdUx3RUhfeDdqNmhjTXR1QXk5eVhrY1pVS1BJeXRMb2hyS25MSWVpQ1M1WnNzWk5pc2tIM3h3RXVNVktiOUZ6dVROWUFXUjBwcU02QjhjSWc2WmlEWkZNanF6TkxrVGE3N3JSaWgyRHdMSUlSSHl3cWRxMEFVQXVGekNCdEp5MG5TaG5ZMDVieHVualpYUU1FYnRnbUFLRFJXdEdneTJqbVZvWnJuMVNTRU1FSnhHdGVYMEZpQ2Nuell3YmNPMXdST1BJb1lLajJUOVdWMXBaNTZZcEQ1dE04bTFyRnRxOGhwTENGRlFxNHhaU0FyNnRoWW9nRG5wbkZXblExOG4wdHpFSGZ1Y09CODJXU3BfX0RzY1VjNExTQk9ZMWtmaGV1MkFNSXI4Y0tSOHlEeTNzV216NGlhdUp4aE01TVptNVRtM28zX2tsRkhYdmNkXzZJUkkzMVFKYWpKSmpucmVpMmJFM1dxYTU1d2lOMS1DdUtwbl9PRWMzOU1HaWx6dVFzdUFaRFlackxvUnN0cDBrX3JZbktfNnJaWHA0TXZiRkdmb3V4dkwwQnFuMERaTnFxa0h5VVNTUU53RUZWem1FclNFa0J4UnlPTkFiRk5fNDNpSUZJOXhFR0V0Q0pHc2IxeGFYZHZpZC1UU3lINGFLelZSRExzdzdqWWpJYjF5TXZnaFBGaHRuM1pVZmlKWllmOWE0",
+        "time": "2026-07-17 19:54:52"
+      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "守護雲林林內鄉親安全！ 立委劉建國爭取追加5300萬 促請水保署全力搶修坪頂崩塌地 - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxNjc2ZFVEUVgxQlU0eFdLUDNEZnBXMmZFdERZRG84OG9teXQ3SzlhZnlrUFd3amhhUmFSd25FRDhScGhlbnJvWVM1WmJyUzBxd0xRMUhRbTNaUlllb05ENDBqazBaQnNmR0tN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-18 00:19:20"
+      },
       {
         "title": "林內坪頂邊坡災害持續擴大 劉建國爭取追加5300萬元守護居民安全 - 臺灣導報",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GVEd1d0o2VS1pc3pmb0l2TWM4bHVmdWtmNUV3WExsVnc1V0o4cUotVVZGc19GZFYwYlNVcmpWWVpNblVfcjllOTdyUW5oWVdhUjdYeg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1243,14 +1309,14 @@
         "title": "與高虹安對談少子化話題 張嘉郡：竹市府「0-6歲市府養」值得借鏡 | 太報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSMkNmVWFqOVJUbUxsdnNnVHl6djlsQjBmTG54blF2TlUwa294S2oxZDZuY0ZUbDBmQS1FT09qNnJEZHU1cjZKbGxDSjBjZ3JvN1UtQzNR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-15 18:43:15"
-      },
-      {
-        "title": "與高虹安對談少子化話題 張嘉郡：竹市府「0-6歲市府養」值得借鏡| 政治焦點 - 太報 TaiSounds",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45TFpubEZFeDVWOEhLTkk4Szc2NlhRendmb3Z4UmZ3bDFYajYya01fRXU5S1UzZGhuak1raFcyT2txZGotRVBxcVFuUkJSUEJ2bG1IMXd0V0JTeFdo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-15 18:13:10"
       }
     ],
     "facebook": [
+      {
+        "title": "雲林縣政府. . 連結大埤鄉西鎮村及元長鄉新吉村交通動脈的「N10 無名橋」，因113年7月凱米颱風沖刷有安全疑慮進行封橋至今，縣長張麗善、立法委員張嘉郡，特別會同大埤鄉長林森寶及多位代表、村長與鄉親陪同前往現地勘查，張縣長表示，為解決居民長期繞道的不 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi3wdBVV95cUxOcGM4d2NhUHgteWVENndBak1kYXpKX3hDc0pDcnBGTnlIX2Q4M1oxU3UtR2wxYjZuT0xtODBBLVJ0VElwN2RzcU5zWk1qeDJaZ0NUYjdTRVVsY2M3MWtyVXp5Q1lqM2RPMFh0bnBVdm8xbTdZSGhQRnVOZnppS2ZmYmppUkR0VnJCckVfenF3aTM3ejdxZ0x2dGZtRTlISy1YVTNjU0pEd2NKLW5KSEpseEdpRnZUNWRpcGhGNGd6QWhMOVZlMG9mY1lIa3ZjRnkwbWFuUXhRanZDQTBKN1dadjlxcmV6UERqN1Y4WUNObXlTbmkzdFRJVDljbzJHU3puYV95ZE52SEpRdUc4SDI5YnZleGp3NkQya3UwLWhZYk1lRjNGc3ZsRHJ2bFZSZFhZc1ZHbHZ5M3gxZkFNUU42MmlhOExMRk5fNk9mRU1WMXZaRk9NSldfT29jSzliZEx1OXZaQWFXSWtlSVBUT2YzY05HQ0RMMzlvUlNsa1BDdzRocW84WE9jUjgxUEZMY3FrbXBRa3Z0SVhpY2pHTUtYV1YxQ08ydV9YZW9SMkg1LUxRUGg2eFgyVHhiWDM2Q2VMcTBkOUFhSFVDd2VSdUx3RUhfeDdqNmhjTXR1QXk5eVhrY1pVS1BJeXRMb2hyS25MSWVpQ1M1WnNzWk5pc2tIM3h3RXVNVktiOUZ6dVROWUFXUjBwcU02QjhjSWc2WmlEWkZNanF6TkxrVGE3N3JSaWgyRHdMSUlSSHl3cWRxMEFVQXVGekNCdEp5MG5TaG5ZMDVieHVualpYUU1FYnRnbUFLRFJXdEdneTJqbVZvWnJuMVNTRU1FSnhHdGVYMEZpQ2Nuell3YmNPMXdST1BJb1lLajJUOVdWMXBaNTZZcEQ1dE04bTFyRnRxOGhwTENGRlFxNHhaU0FyNnRoWW9nRG5wbkZXblExOG4wdHpFSGZ1Y09CODJXU3BfX0RzY1VjNExTQk9ZMWtmaGV1MkFNSXI4Y0tSOHlEeTNzV216NGlhdUp4aE01TVptNVRtM28zX2tsRkhYdmNkXzZJUkkzMVFKYWpKSmpucmVpMmJFM1dxYTU1d2lOMS1DdUtwbl9PRWMzOU1HaWx6dVFzdUFaRFlackxvUnN0cDBrX3JZbktfNnJaWHA0TXZiRkdmb3V4dkwwQnFuMERaTnFxa0h5VVNTUU53RUZWem1FclNFa0J4UnlPTkFiRk5fNDNpSUZJOXhFR0V0Q0pHc2IxeGFYZHZpZC1UU3lINGFLelZSRExzdzdqWWpJYjF5TXZnaFBGaHRuM1pVZmlKWllmOWE0",
+        "time": "2026-07-17 19:54:52"
+      },
       {
         "title": "劉建國 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKRTlhWm1FdlpHTU10ZU9BRzJQSEhXcGItMFBscHgtOEFqYXNMREF0WlFQWUdfNUFOcmNQT0s0WFpfLVJ5aHd4LTBhemNPWTUyaXNlWlhpa1d1MkxxWDQxSWFpNXkxOUhaUU0xajNhWQ",
@@ -1340,6 +1406,20 @@
     "hour": [],
     "day": [
       {
+        "title": "守護雲林林內鄉親安全！ 立委劉建國爭取追加5300萬 促請水保署全力搶修坪頂崩塌地 - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxNjc2ZFVEUVgxQlU0eFdLUDNEZnBXMmZFdERZRG84OG9teXQ3SzlhZnlrUFd3amhhUmFSd25FRDhScGhlbnJvWVM1WmJyUzBxd0xRMUhRbTNaUlllb05ENDBqazBaQnNmR0tN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-18 00:19:20",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "雲林縣政府. . 連結大埤鄉西鎮村及元長鄉新吉村交通動脈的「N10 無名橋」，因113年7月凱米颱風沖刷有安全疑慮進行封橋至今，縣長張麗善、立法委員張嘉郡，特別會同大埤鄉長林森寶及多位代表、村長與鄉親陪同前往現地勘查，張縣長表示，為解決居民長期繞道的不 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi3wdBVV95cUxOcGM4d2NhUHgteWVENndBak1kYXpKX3hDc0pDcnBGTnlIX2Q4M1oxU3UtR2wxYjZuT0xtODBBLVJ0VElwN2RzcU5zWk1qeDJaZ0NUYjdTRVVsY2M3MWtyVXp5Q1lqM2RPMFh0bnBVdm8xbTdZSGhQRnVOZnppS2ZmYmppUkR0VnJCckVfenF3aTM3ejdxZ0x2dGZtRTlISy1YVTNjU0pEd2NKLW5KSEpseEdpRnZUNWRpcGhGNGd6QWhMOVZlMG9mY1lIa3ZjRnkwbWFuUXhRanZDQTBKN1dadjlxcmV6UERqN1Y4WUNObXlTbmkzdFRJVDljbzJHU3puYV95ZE52SEpRdUc4SDI5YnZleGp3NkQya3UwLWhZYk1lRjNGc3ZsRHJ2bFZSZFhZc1ZHbHZ5M3gxZkFNUU42MmlhOExMRk5fNk9mRU1WMXZaRk9NSldfT29jSzliZEx1OXZaQWFXSWtlSVBUT2YzY05HQ0RMMzlvUlNsa1BDdzRocW84WE9jUjgxUEZMY3FrbXBRa3Z0SVhpY2pHTUtYV1YxQ08ydV9YZW9SMkg1LUxRUGg2eFgyVHhiWDM2Q2VMcTBkOUFhSFVDd2VSdUx3RUhfeDdqNmhjTXR1QXk5eVhrY1pVS1BJeXRMb2hyS25MSWVpQ1M1WnNzWk5pc2tIM3h3RXVNVktiOUZ6dVROWUFXUjBwcU02QjhjSWc2WmlEWkZNanF6TkxrVGE3N3JSaWgyRHdMSUlSSHl3cWRxMEFVQXVGekNCdEp5MG5TaG5ZMDVieHVualpYUU1FYnRnbUFLRFJXdEdneTJqbVZvWnJuMVNTRU1FSnhHdGVYMEZpQ2Nuell3YmNPMXdST1BJb1lLajJUOVdWMXBaNTZZcEQ1dE04bTFyRnRxOGhwTENGRlFxNHhaU0FyNnRoWW9nRG5wbkZXblExOG4wdHpFSGZ1Y09CODJXU3BfX0RzY1VjNExTQk9ZMWtmaGV1MkFNSXI4Y0tSOHlEeTNzV216NGlhdUp4aE01TVptNVRtM28zX2tsRkhYdmNkXzZJUkkzMVFKYWpKSmpucmVpMmJFM1dxYTU1d2lOMS1DdUtwbl9PRWMzOU1HaWx6dVFzdUFaRFlackxvUnN0cDBrX3JZbktfNnJaWHA0TXZiRkdmb3V4dkwwQnFuMERaTnFxa0h5VVNTUU53RUZWem1FclNFa0J4UnlPTkFiRk5fNDNpSUZJOXhFR0V0Q0pHc2IxeGFYZHZpZC1UU3lINGFLelZSRExzdzdqWWpJYjF5TXZnaFBGaHRuM1pVZmlKWllmOWE0",
+        "time": "2026-07-17 19:54:52",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
         "title": "林內坪頂邊坡災害持續擴大 劉建國爭取追加5300萬元守護居民安全 - 臺灣導報",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GVEd1d0o2VS1pc3pmb0l2TWM4bHVmdWtmNUV3WExsVnc1V0o4cUotVVZGc19GZFYwYlNVcmpWWVpNblVfcjllOTdyUW5oWVdhUjdYeg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-17 19:05:02",
@@ -1356,7 +1436,17 @@
     ]
   },
   "regional_groups": {
-    "regions": [],
-    "groups": []
+    "regions": [
+      {
+        "name": "雲林",
+        "count": 2
+      }
+    ],
+    "groups": [
+      {
+        "name": "交通通勤",
+        "count": 1
+      }
+    ]
   }
 }
