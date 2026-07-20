@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-07-20T05:16:54.877068+00:00",
+  "generated_at": "2026-07-20T05:34:09.483398+00:00",
   "metrics": {
-    "total_24h": 4,
+    "total_24h": 5,
     "prev_24h": 18,
-    "growth_pct": -77.78,
-    "news_24h": 3,
+    "growth_pct": -72.22,
+    "news_24h": 4,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 121,
+    "total": 122,
     "prev": 197,
-    "growth_pct": -38.58,
-    "news": 102,
+    "growth_pct": -38.07,
+    "news": 103,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 3
+      "count": 4
     },
     {
       "platform": "facebook",
@@ -38,7 +38,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 102
+      "count": 103
     },
     {
       "platform": "facebook",
@@ -64,6 +64,10 @@
     },
     {
       "hour": "2026-07-20 10:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-07-20 13:00",
       "count": 1
     }
   ],
@@ -291,16 +295,25 @@
     {
       "hour": "2026-07-20 10:00",
       "count": 1
+    },
+    {
+      "hour": "2026-07-20 13:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 3
+      "count": 4
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國爭取復健病房試辦計畫落腳雲林 中風患者在地復健、安心返家 - 台灣新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9tSWZrZm8xRjhIUm9SakdvbEk4Uml5Rk5pVUVVeDNfMFF4dXdXajZScWVaelNWOTBzNlNiOTR3ZVBzVFdNNlNv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-20 13:09:06"
+      },
       {
         "title": "張嘉郡土庫與鄉親面對面 提出AI城市與教育福利願景 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOMUlxX09aRG1wVEp2RnRtLWJldWppSFpOMUlHYzdkYVlneDcyV0NzNzQtTTEweVFvcFM2cEJ4SURSSExWbldlQ0R5OUYwZXhBQi1wUEpnaDE2NWIyMkRNUTk4TG9LQU1lZEdCZE51b0dKM19ibFg2Nlk0QmlCLVY3ZVVhUHpuSDRCZHd1YjZReGROVEpJQlI3VGY0ZWVtQWp5eUNDWXp6NkUtX25naTFTTFVkcG9WbHBWMWd1NDRpelZUOGplMVdhMS0tZUE4MUFHNkhDZGFjekE3dzlXLTRmWlV4MndBZWtYR05Vd21wZllJaWdsMVczaC14eTMxREhPNFk2WU9JaGtpaF8zbjEySjJpRVRUV0Q3dldVMzVCQ29uWW9nTVM0Nk53OTlUUk42cURxTE9rd3ZvNEV0Vy02NXpDS2dhVWUtTVJTQ3dYdF9DS1lpem1mdDUxUWQ2YVk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -321,7 +334,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 3
+      "count": 4
     },
     {
       "platform": "facebook",
@@ -329,14 +342,12 @@
     }
   ],
   "alias_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "#強化斗南防洪韌性 #完善排水建設守護鄉親安全 面對極端氣候帶來的挑戰，完善水利建設、提升防災能力，是地方治理不可或缺的重要課題。 #斗南林子埤地區 長期面臨排水改善需求，嘉郡積極向中央爭取資源，推動「#大湖口溪支線林子埤大排興建工程」，如今工程經 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxPXzYzdUhiS09DN0g5aDRQTmVhQmZVRDhTcTd1akIzVmIwaXE3bHZ1ZEtfeHZYd3RwcFBSOXZVdlFES2RSYm1zMzZoWTh2N25OcUt4TklHT1FCOXVvRHUxT1JuaHNvdE5ZdFE4bnJqdzd0LXN3SEJHUDdmU3d0QURyVEp1Ml83UHF5X1RmMmx4VXpBVWsxalkzMVRyYVZWQXByN09VTWhUWTFDYldzQXBmNHlVNnJXWkotd05LcVJCcEdPME9fcE9ndm9Iejc0WTQwbV9lT1ZyNFVHd3pNS3JWNGtEMEtWZE1nUkZJWEtCdHhZQngxaWExYTBCUnd3U2hZR1hvWW9KQk4tYi13R21OU2duUUx1Q3l2d3ZCQmNhN1V3a0xaakpHUzJvV25BazQ3dndVVXlnM2tUOGZEQ3RSREJyX3ZHVFZDNkpTNTN0d0pkLTlCc0tTZWlJaTM3cHcwMW9rWnA4NktRT2RUbnhzbHdaQ3dLdVZSSWNvVkstclRMYV9iYktpbG5OT3c2Y053SUo2UlBIWVFIUmt3QkhzOEtIYTBnUkczVllqWkVXQWV2el9adnF3UVRucWFsX2VfdjNiSm42YlQwTHp0eHN2TnpnSEVlN1ZyMmN4VzRoMXVKdzc2Q1IwblZIRWI1bUJCSlRvNEhBMjJUN0tyNzAzZmRZUjNaRmRLMDhMNlVSOHNQajdVLUJwQWdIamRoN18wMHRpU3czU1cxeWFlYWY0YVRGbG8zLWVOaHF0WmtIeHFyUE5iQjVybThRZS1lWnBIS1JFWWJBRlAteWZQMVI2aFVMajVBdFp5Z2pRRWhNRGJrdWUwY1lOUHRpTVgwSGU3X2hJOF9iVG02YktVMy00cmVrbUlVVnpfUURZcnA5TFc5N2EtUjFPcEVEcVQ4U01Qc3EwYUFzd2cybjlYTzY0dm5jTWR0MnVNNGFhOU1fSTNzemw1Zmd2M2NrZUM2U2lxLUcyX29CVm5CLXBneXpvYVdzdGQyQXYtbjVBc0hxQV8tZXlRclMyMTc4cFhsWnVZVEhKeDFhbkpaSDQ5R256eTdTNU5IcGh4OXRnMkhEbVhGTnE2b250dU95T2lOMTlyT3VtbEVMVzRvSmNqekFoQUNuSl9VbWplVXhMLWxlSUlGRWJEWnR5ZG51WEpGNG9HNlVnRzNQeEdEZDY5LWpIYW9WUV9heUZIMHpaNzBxM25SY3Q0MDlYZm4yb1JpbzhmdGQ3UGhZSS1KT21qMGhPSDdyRmhtUnh2T3JaZ2w5eFJ2NHN5VnotZGlMMmYyV1FDV04wc19TOVdmLUJOb3gyay1kenFNVmpDQ3ZTbXdPcXlha3FMRzA5Ynd6bWtEcVNJN1o5RDZNdGlRM2VUMzNmUGVCTlJ6YW5YUzNYRTM5VkxLRXl2",
-        "time": "2026-07-20 10:00:06"
-      }
-    ],
     "news": [
+      {
+        "title": "劉建國爭取復健病房試辦計畫落腳雲林 中風患者在地復健、安心返家 - 台灣新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9tSWZrZm8xRjhIUm9SakdvbEk4Uml5Rk5pVUVVeDNfMFF4dXdXajZScWVaelNWOTBzNlNiOTR3ZVBzVFdNNlNv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-20 13:09:06"
+      },
       {
         "title": "張嘉郡土庫與鄉親面對面 提出AI城市與教育福利願景 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOMUlxX09aRG1wVEp2RnRtLWJldWppSFpOMUlHYzdkYVlneDcyV0NzNzQtTTEweVFvcFM2cEJ4SURSSExWbldlQ0R5OUYwZXhBQi1wUEpnaDE2NWIyMkRNUTk4TG9LQU1lZEdCZE51b0dKM19ibFg2Nlk0QmlCLVY3ZVVhUHpuSDRCZHd1YjZReGROVEpJQlI3VGY0ZWVtQWp5eUNDWXp6NkUtX25naTFTTFVkcG9WbHBWMWd1NDRpelZUOGplMVdhMS0tZUE4MUFHNkhDZGFjekE3dzlXLTRmWlV4MndBZWtYR05Vd21wZllJaWdsMVczaC14eTMxREhPNFk2WU9JaGtpaF8zbjEySjJpRVRUV0Q3dldVMzVCQ29uWW9nTVM0Nk53OTlUUk42cURxTE9rd3ZvNEV0Vy02NXpDS2dhVWUtTVJTQ3dYdF9DS1lpem1mdDUxUWQ2YVk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -352,17 +363,29 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lcEZZNV9uSndDTUNFc01seFBQX0llaEtNYjBveVA2UXo5cndCUzJvako2Y0xEb1V3X0xHRzlONEVHUDF3VTdwV05qejg2Q3pBM3l1ek5id2V0OUhjbjVDb1dHVEtzSVM4TTFV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-19 21:51:24"
       }
+    ],
+    "facebook": [
+      {
+        "title": "#強化斗南防洪韌性 #完善排水建設守護鄉親安全 面對極端氣候帶來的挑戰，完善水利建設、提升防災能力，是地方治理不可或缺的重要課題。 #斗南林子埤地區 長期面臨排水改善需求，嘉郡積極向中央爭取資源，推動「#大湖口溪支線林子埤大排興建工程」，如今工程經 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxPXzYzdUhiS09DN0g5aDRQTmVhQmZVRDhTcTd1akIzVmIwaXE3bHZ1ZEtfeHZYd3RwcFBSOXZVdlFES2RSYm1zMzZoWTh2N25OcUt4TklHT1FCOXVvRHUxT1JuaHNvdE5ZdFE4bnJqdzd0LXN3SEJHUDdmU3d0QURyVEp1Ml83UHF5X1RmMmx4VXpBVWsxalkzMVRyYVZWQXByN09VTWhUWTFDYldzQXBmNHlVNnJXWkotd05LcVJCcEdPME9fcE9ndm9Iejc0WTQwbV9lT1ZyNFVHd3pNS3JWNGtEMEtWZE1nUkZJWEtCdHhZQngxaWExYTBCUnd3U2hZR1hvWW9KQk4tYi13R21OU2duUUx1Q3l2d3ZCQmNhN1V3a0xaakpHUzJvV25BazQ3dndVVXlnM2tUOGZEQ3RSREJyX3ZHVFZDNkpTNTN0d0pkLTlCc0tTZWlJaTM3cHcwMW9rWnA4NktRT2RUbnhzbHdaQ3dLdVZSSWNvVkstclRMYV9iYktpbG5OT3c2Y053SUo2UlBIWVFIUmt3QkhzOEtIYTBnUkczVllqWkVXQWV2el9adnF3UVRucWFsX2VfdjNiSm42YlQwTHp0eHN2TnpnSEVlN1ZyMmN4VzRoMXVKdzc2Q1IwblZIRWI1bUJCSlRvNEhBMjJUN0tyNzAzZmRZUjNaRmRLMDhMNlVSOHNQajdVLUJwQWdIamRoN18wMHRpU3czU1cxeWFlYWY0YVRGbG8zLWVOaHF0WmtIeHFyUE5iQjVybThRZS1lWnBIS1JFWWJBRlAteWZQMVI2aFVMajVBdFp5Z2pRRWhNRGJrdWUwY1lOUHRpTVgwSGU3X2hJOF9iVG02YktVMy00cmVrbUlVVnpfUURZcnA5TFc5N2EtUjFPcEVEcVQ4U01Qc3EwYUFzd2cybjlYTzY0dm5jTWR0MnVNNGFhOU1fSTNzemw1Zmd2M2NrZUM2U2lxLUcyX29CVm5CLXBneXpvYVdzdGQyQXYtbjVBc0hxQV8tZXlRclMyMTc4cFhsWnVZVEhKeDFhbkpaSDQ5R256eTdTNU5IcGh4OXRnMkhEbVhGTnE2b250dU95T2lOMTlyT3VtbEVMVzRvSmNqekFoQUNuSl9VbWplVXhMLWxlSUlGRWJEWnR5ZG51WEpGNG9HNlVnRzNQeEdEZDY5LWpIYW9WUV9heUZIMHpaNzBxM25SY3Q0MDlYZm4yb1JpbzhmdGQ3UGhZSS1KT21qMGhPSDdyRmhtUnh2T3JaZ2w5eFJ2NHN5VnotZGlMMmYyV1FDV04wc19TOVdmLUJOb3gyay1kenFNVmpDQ3ZTbXdPcXlha3FMRzA5Ynd6bWtEcVNJN1o5RDZNdGlRM2VUMzNmUGVCTlJ6YW5YUzNYRTM5VkxLRXl2",
+        "time": "2026-07-20 10:00:06"
+      }
     ]
   },
   "mention_compare_24h": {
     "張嘉郡": 1,
-    "劉建國": 2
+    "劉建國": 3
   },
   "mention_compare_7d": {
     "張嘉郡": 42,
-    "劉建國": 66
+    "劉建國": 67
   },
   "top_news": [
+    {
+      "title": "劉建國爭取復健病房試辦計畫落腳雲林 中風患者在地復健、安心返家 - 台灣新聞雲",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9tSWZrZm8xRjhIUm9SakdvbEk4Uml5Rk5pVUVVeDNfMFF4dXdXajZScWVaelNWOTBzNlNiOTR3ZVBzVFdNNlNv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-20 13:09:06"
+    },
     {
       "title": "張嘉郡土庫與鄉親面對面 提出AI城市與教育福利願景 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOMUlxX09aRG1wVEp2RnRtLWJldWppSFpOMUlHYzdkYVlneDcyV0NzNzQtTTEweVFvcFM2cEJ4SURSSExWbldlQ0R5OUYwZXhBQi1wUEpnaDE2NWIyMkRNUTk4TG9LQU1lZEdCZE51b0dKM19ibFg2Nlk0QmlCLVY3ZVVhUHpuSDRCZHd1YjZReGROVEpJQlI3VGY0ZWVtQWp5eUNDWXp6NkUtX25naTFTTFVkcG9WbHBWMWd1NDRpelZUOGplMVdhMS0tZUE4MUFHNkhDZGFjekE3dzlXLTRmWlV4MndBZWtYR05Vd21wZllJaWdsMVczaC14eTMxREhPNFk2WU9JaGtpaF8zbjEySjJpRVRUV0Q3dldVMzVCQ29uWW9nTVM0Nk53OTlUUk42cURxTE9rd3ZvNEV0Vy02NXpDS2dhVWUtTVJTQ3dYdF9DS1lpem1mdDUxUWQ2YVk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -380,6 +403,11 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "劉建國爭取復健病房試辦計畫落腳雲林 中風患者在地復健、安心返家 - 台灣新聞雲",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9tSWZrZm8xRjhIUm9SakdvbEk4Uml5Rk5pVUVVeDNfMFF4dXdXajZScWVaelNWOTBzNlNiOTR3ZVBzVFdNNlNv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-20 13:09:06"
+    },
     {
       "title": "張嘉郡土庫與鄉親面對面 提出AI城市與教育福利願景 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOMUlxX09aRG1wVEp2RnRtLWJldWppSFpOMUlHYzdkYVlneDcyV0NzNzQtTTEweVFvcFM2cEJ4SURSSExWbldlQ0R5OUYwZXhBQi1wUEpnaDE2NWIyMkRNUTk4TG9LQU1lZEdCZE51b0dKM19ibFg2Nlk0QmlCLVY3ZVVhUHpuSDRCZHd1YjZReGROVEpJQlI3VGY0ZWVtQWp5eUNDWXp6NkUtX25naTFTTFVkcG9WbHBWMWd1NDRpelZUOGplMVdhMS0tZUE4MUFHNkhDZGFjekE3dzlXLTRmWlV4MndBZWtYR05Vd21wZllJaWdsMVczaC14eTMxREhPNFk2WU9JaGtpaF8zbjEySjJpRVRUV0Q3dldVMzVCQ29uWW9nTVM0Nk53OTlUUk42cURxTE9rd3ZvNEV0Vy02NXpDS2dhVWUtTVJTQ3dYdF9DS1lpem1mdDUxUWQ2YVk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -474,11 +502,6 @@
       "title": "守護雲林林內鄉親安全！ 立委劉建國爭取追加5300萬 促請水保署全力搶修坪頂崩塌地 - 台灣華報",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YcEFrWDgzVGR4OHpyTngyYTBERFlHMlY1SGZoSGd3MDdpeVVrVGVDbGJ1bmJRSmdQZTU2aGpVUWlLUHNSTjRyVnNaV2xlNktrNjJ0U0J0bUxSR1pSbUR3SDFoMzRxenI3N2xn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-18 13:37:53"
-    },
-    {
-      "title": "守護林內鄉親安全！劉建國爭取追加5300萬 促水保署全力搶修坪頂崩塌地 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNaEY4VXdCZGtMcmIwNHFYTFI4Zjc1cXhXWU9PcU5vblEwRklDU0xUbDg0U3ZGeWhwV3pUeGlCWFZsRFpIbFBMbGlaSG5qaUhuaW8wRFlCN3EyRV9DWTdHQlFtNk56VDhublRCNWxoYWI1Nks0dWh0d3JwUVIxUi1DVElGNUZCY015MGNNbzUxTExmNHlQT2gyWjZxdDV0OF8zRnZBQ200aFBuLVJHNGxxU2RJTGZUYlN6cjVIWEw2SHpkTkJaQUphNWl4QkJmaUdXWHU1dldWX2djZ2hfWnVtSjF2TVRQVU1BR1JaTW1udU1CT1R4bHBaQ0NuMVdoX3E3SUVhZ2tOdzI1QXppNXVXTmdzQUZDeFhuTXBYS3hQZ2cyTVpLMU9MS0lpSllvbjFQVXNNSThiRVRwV3JvTnFVMUdOLW5IdXBuZ0FRTnVMY0pBRDV4eGkzc0g1QlU2ZE5PSkpnOEs3R0o5OUJjS3ZYSC1sNXExa0tPY3dhVHdRV0k0UDJiN1hGNlR5NmZjR2ZHMVFQT1pXeEZjakxVaWJhTWZZbGd2WGkzOS1vd0xQb2lJRTBfU3JR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-18 12:16:11"
     }
   ],
   "latest_facebook_20": [
@@ -585,6 +608,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "劉建國爭取復健病房試辦計畫落腳雲林 中風患者在地復健、安心返家 - 台灣新聞雲",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9tSWZrZm8xRjhIUm9SakdvbEk4Uml5Rk5pVUVVeDNfMFF4dXdXajZScWVaelNWOTBzNlNiOTR3ZVBzVFdNNlNv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-20 13:09:06"
+    },
+    {
       "title": "張嘉郡土庫與鄉親面對面 提出AI城市與教育福利願景 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOMUlxX09aRG1wVEp2RnRtLWJldWppSFpOMUlHYzdkYVlneDcyV0NzNzQtTTEweVFvcFM2cEJ4SURSSExWbldlQ0R5OUYwZXhBQi1wUEpnaDE2NWIyMkRNUTk4TG9LQU1lZEdCZE51b0dKM19ibFg2Nlk0QmlCLVY3ZVVhUHpuSDRCZHd1YjZReGROVEpJQlI3VGY0ZWVtQWp5eUNDWXp6NkUtX25naTFTTFVkcG9WbHBWMWd1NDRpelZUOGplMVdhMS0tZUE4MUFHNkhDZGFjekE3dzlXLTRmWlV4MndBZWtYR05Vd21wZllJaWdsMVczaC14eTMxREhPNFk2WU9JaGtpaF8zbjEySjJpRVRUV0Q3dldVMzVCQ29uWW9nTVM0Nk53OTlUUk42cURxTE9rd3ZvNEV0Vy02NXpDS2dhVWUtTVJTQ3dYdF9DS1lpem1mdDUxUWQ2YVk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-20 08:25:56"
@@ -678,11 +706,6 @@
       "title": "守護雲林林內鄉親安全！ 立委劉建國爭取追加5300萬 促請水保署全力搶修坪頂崩塌地 - 台灣華報",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YcEFrWDgzVGR4OHpyTngyYTBERFlHMlY1SGZoSGd3MDdpeVVrVGVDbGJ1bmJRSmdQZTU2aGpVUWlLUHNSTjRyVnNaV2xlNktrNjJ0U0J0bUxSR1pSbUR3SDFoMzRxenI3N2xn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-18 13:37:53"
-    },
-    {
-      "title": "守護林內鄉親安全！劉建國爭取追加5300萬 促水保署全力搶修坪頂崩塌地 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNaEY4VXdCZGtMcmIwNHFYTFI4Zjc1cXhXWU9PcU5vblEwRklDU0xUbDg0U3ZGeWhwV3pUeGlCWFZsRFpIbFBMbGlaSG5qaUhuaW8wRFlCN3EyRV9DWTdHQlFtNk56VDhublRCNWxoYWI1Nks0dWh0d3JwUVIxUi1DVElGNUZCY015MGNNbzUxTExmNHlQT2gyWjZxdDV0OF8zRnZBQ200aFBuLVJHNGxxU2RJTGZUYlN6cjVIWEw2SHpkTkJaQUphNWl4QkJmaUdXWHU1dldWX2djZ2hfWnVtSjF2TVRQVU1BR1JaTW1udU1CT1R4bHBaQ0NuMVdoX3E3SUVhZ2tOdzI1QXppNXVXTmdzQUZDeFhuTXBYS3hQZ2cyTVpLMU9MS0lpSllvbjFQVXNNSThiRVRwV3JvTnFVMUdOLW5IdXBuZ0FRTnVMY0pBRDV4eGkzc0g1QlU2ZE5PSkpnOEs3R0o5OUJjS3ZYSC1sNXExa0tPY3dhVHdRV0k0UDJiN1hGNlR5NmZjR2ZHMVFQT1pXeEZjakxVaWJhTWZZbGd2WGkzOS1vd0xQb2lJRTBfU3JR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-18 12:16:11"
     }
   ],
   "person_sections": {
@@ -997,6 +1020,11 @@
       ],
       "news": [
         {
+          "title": "劉建國爭取復健病房試辦計畫落腳雲林 中風患者在地復健、安心返家 - 台灣新聞雲",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9tSWZrZm8xRjhIUm9SakdvbEk4Uml5Rk5pVUVVeDNfMFF4dXdXajZScWVaelNWOTBzNlNiOTR3ZVBzVFdNNlNv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-20 13:09:06"
+        },
+        {
           "title": "「玩心不老，慢遊剛好」〜雲林立委劉建國：打造健康老化新典範 讓長輩玩得開心、老得精彩！ - 台灣華報",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ic2NIcUY0a0VWemVaS0g5cXhDS0Nkb1RKM0FjeE9VT1E3LXhITm1vWGRwQm1QbXIwTjFMZFdYcFRvNzBwczVRLWxLdkRPNjRlN0RXckE5VV9vREJjMVBHXy1CeGJtYkxBWXFCdE0wdUI5UTdCR1M2aWs1SQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-20 01:37:50"
@@ -1090,17 +1118,17 @@
           "title": "守護雲林林內鄉親安全！ 立委劉建國爭取追加5300萬 促請水保署全力搶修坪頂崩塌地 - 台灣華報",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXbnVXTkI0SlFZNUlBS0lva19RalpuT2NmcEx0NU43Zi03LW1pel92QjU4WHdXN0xldy1TcmlhQkFMS3hBYkp5aGlqOG1mYmJhLXBWakI0LVAtWFhrb1plWU5rX0ZZSy1pcWVqQ01xTFphWlc3SmUtZkJSSWg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-18 03:36:15"
-        },
-        {
-          "title": "守護雲林林內鄉親安全！ 立委劉建國爭取追加5300萬 促請水保署全力搶修坪頂崩塌地 - 台灣華報",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1dWRwTUhaX01CUHBqVk1udVJ6V0JxXzFKTmFCV3VLTXdMZEs2VXRjUkZXZ2pTdE1ibEZNVEhHckxxVTVpSVlSb1BocHVwbndzeWlNMGFWUGFISjJZX3U4b3NXeDh5d0JGU3BXdTdTVXlXNzJPOXFQRHZMMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-18 01:40:04"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國爭取復健病房試辦計畫落腳雲林 中風患者在地復健、安心返家 - 台灣新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9tSWZrZm8xRjhIUm9SakdvbEk4Uml5Rk5pVUVVeDNfMFF4dXdXajZScWVaelNWOTBzNlNiOTR3ZVBzVFdNNlNv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-20 13:09:06"
+      },
       {
         "title": "張嘉郡土庫與鄉親面對面 提出AI城市與教育福利願景 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOMUlxX09aRG1wVEp2RnRtLWJldWppSFpOMUlHYzdkYVlneDcyV0NzNzQtTTEweVFvcFM2cEJ4SURSSExWbldlQ0R5OUYwZXhBQi1wUEpnaDE2NWIyMkRNUTk4TG9LQU1lZEdCZE51b0dKM19ibFg2Nlk0QmlCLVY3ZVVhUHpuSDRCZHd1YjZReGROVEpJQlI3VGY0ZWVtQWp5eUNDWXp6NkUtX25naTFTTFVkcG9WbHBWMWd1NDRpelZUOGplMVdhMS0tZUE4MUFHNkhDZGFjekE3dzlXLTRmWlV4MndBZWtYR05Vd21wZllJaWdsMVczaC14eTMxREhPNFk2WU9JaGtpaF8zbjEySjJpRVRUV0Q3dldVMzVCQ29uWW9nTVM0Nk53OTlUUk42cURxTE9rd3ZvNEV0Vy02NXpDS2dhVWUtTVJTQ3dYdF9DS1lpem1mdDUxUWQ2YVk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1127,6 +1155,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "劉建國爭取復健病房試辦計畫落腳雲林 中風患者在地復健、安心返家 - 台灣新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9tSWZrZm8xRjhIUm9SakdvbEk4Uml5Rk5pVUVVeDNfMFF4dXdXajZScWVaelNWOTBzNlNiOTR3ZVBzVFdNNlNv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-20 13:09:06"
+      },
       {
         "title": "張嘉郡土庫與鄉親面對面 提出AI城市與教育福利願景 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOMUlxX09aRG1wVEp2RnRtLWJldWppSFpOMUlHYzdkYVlneDcyV0NzNzQtTTEweVFvcFM2cEJ4SURSSExWbldlQ0R5OUYwZXhBQi1wUEpnaDE2NWIyMkRNUTk4TG9LQU1lZEdCZE51b0dKM19ibFg2Nlk0QmlCLVY3ZVVhUHpuSDRCZHd1YjZReGROVEpJQlI3VGY0ZWVtQWp5eUNDWXp6NkUtX25naTFTTFVkcG9WbHBWMWd1NDRpelZUOGplMVdhMS0tZUE4MUFHNkhDZGFjekE3dzlXLTRmWlV4MndBZWtYR05Vd21wZllJaWdsMVczaC14eTMxREhPNFk2WU9JaGtpaF8zbjEySjJpRVRUV0Q3dldVMzVCQ29uWW9nTVM0Nk53OTlUUk42cURxTE9rd3ZvNEV0Vy02NXpDS2dhVWUtTVJTQ3dYdF9DS1lpem1mdDUxUWQ2YVk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1321,11 +1354,6 @@
         "title": "張嘉郡、高虹安同台談育兒政策 盼打造友善生養環境 - 民視新聞網",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tREQ4SWhwbm92RlBCLVZxNHBMUXltZVZ6Yk1xaDRrRzhQTVdOWlVoYW50M0tndS0yM3JCV0RFbm9nQ3QyTTFBeTRwSlU1ZUpkejF1Y3pBYzBIa1Buc0JoMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-16 12:51:26"
-      },
-      {
-        "title": "張嘉郡提生育政策 雲林讓年輕人敢生 - 鉅聞天下",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuQjNOM2x0NWlWX3E1cWI3N1JqWXZvUVRmTUFUcV9IaVFVM3c1NUNHUHl1MDlXci1uTW9ZUjlwV21oVWRuQ2w5NDhZVVBpdVFyN0hLUXdDRE1icjVIMlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-16 12:47:00"
       }
     ],
     "facebook": [
@@ -1433,6 +1461,13 @@
     "hour": [],
     "day": [
       {
+        "title": "劉建國爭取復健病房試辦計畫落腳雲林 中風患者在地復健、安心返家 - 台灣新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9tSWZrZm8xRjhIUm9SakdvbEk4Uml5Rk5pVUVVeDNfMFF4dXdXajZScWVaelNWOTBzNlNiOTR3ZVBzVFdNNlNv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-20 13:09:06",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "#強化斗南防洪韌性 #完善排水建設守護鄉親安全 面對極端氣候帶來的挑戰，完善水利建設、提升防災能力，是地方治理不可或缺的重要課題。 #斗南林子埤地區 長期面臨排水改善需求，嘉郡積極向中央爭取資源，推動「#大湖口溪支線林子埤大排興建工程」，如今工程經 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxPXzYzdUhiS09DN0g5aDRQTmVhQmZVRDhTcTd1akIzVmIwaXE3bHZ1ZEtfeHZYd3RwcFBSOXZVdlFES2RSYm1zMzZoWTh2N25OcUt4TklHT1FCOXVvRHUxT1JuaHNvdE5ZdFE4bnJqdzd0LXN3SEJHUDdmU3d0QURyVEp1Ml83UHF5X1RmMmx4VXpBVWsxalkzMVRyYVZWQXByN09VTWhUWTFDYldzQXBmNHlVNnJXWkotd05LcVJCcEdPME9fcE9ndm9Iejc0WTQwbV9lT1ZyNFVHd3pNS3JWNGtEMEtWZE1nUkZJWEtCdHhZQngxaWExYTBCUnd3U2hZR1hvWW9KQk4tYi13R21OU2duUUx1Q3l2d3ZCQmNhN1V3a0xaakpHUzJvV25BazQ3dndVVXlnM2tUOGZEQ3RSREJyX3ZHVFZDNkpTNTN0d0pkLTlCc0tTZWlJaTM3cHcwMW9rWnA4NktRT2RUbnhzbHdaQ3dLdVZSSWNvVkstclRMYV9iYktpbG5OT3c2Y053SUo2UlBIWVFIUmt3QkhzOEtIYTBnUkczVllqWkVXQWV2el9adnF3UVRucWFsX2VfdjNiSm42YlQwTHp0eHN2TnpnSEVlN1ZyMmN4VzRoMXVKdzc2Q1IwblZIRWI1bUJCSlRvNEhBMjJUN0tyNzAzZmRZUjNaRmRLMDhMNlVSOHNQajdVLUJwQWdIamRoN18wMHRpU3czU1cxeWFlYWY0YVRGbG8zLWVOaHF0WmtIeHFyUE5iQjVybThRZS1lWnBIS1JFWWJBRlAteWZQMVI2aFVMajVBdFp5Z2pRRWhNRGJrdWUwY1lOUHRpTVgwSGU3X2hJOF9iVG02YktVMy00cmVrbUlVVnpfUURZcnA5TFc5N2EtUjFPcEVEcVQ4U01Qc3EwYUFzd2cybjlYTzY0dm5jTWR0MnVNNGFhOU1fSTNzemw1Zmd2M2NrZUM2U2lxLUcyX29CVm5CLXBneXpvYVdzdGQyQXYtbjVBc0hxQV8tZXlRclMyMTc4cFhsWnVZVEhKeDFhbkpaSDQ5R256eTdTNU5IcGh4OXRnMkhEbVhGTnE2b250dU95T2lOMTlyT3VtbEVMVzRvSmNqekFoQUNuSl9VbWplVXhMLWxlSUlGRWJEWnR5ZG51WEpGNG9HNlVnRzNQeEdEZDY5LWpIYW9WUV9heUZIMHpaNzBxM25SY3Q0MDlYZm4yb1JpbzhmdGQ3UGhZSS1KT21qMGhPSDdyRmhtUnh2T3JaZ2w5eFJ2NHN5VnotZGlMMmYyV1FDV04wc19TOVdmLUJOb3gyay1kenFNVmpDQ3ZTbXdPcXlha3FMRzA5Ynd6bWtEcVNJN1o5RDZNdGlRM2VUMzNmUGVCTlJ6YW5YUzNYRTM5VkxLRXl2",
         "time": "2026-07-20 10:00:06",
@@ -1466,7 +1501,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 2
+        "count": 3
       }
     ],
     "groups": [
