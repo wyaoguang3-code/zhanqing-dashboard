@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-07-21T02:35:07.245443+00:00",
+  "generated_at": "2026-07-21T02:52:23.780788+00:00",
   "metrics": {
-    "total_24h": 7,
+    "total_24h": 9,
     "prev_24h": 8,
-    "growth_pct": -12.5,
-    "news_24h": 3,
+    "growth_pct": 12.5,
+    "news_24h": 4,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 108,
+    "total": 110,
     "prev": 184,
-    "growth_pct": -41.3,
-    "news": 86,
+    "growth_pct": -40.22,
+    "news": 87,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -27,22 +27,26 @@
   },
   "by_platform": [
     {
+      "platform": "news",
+      "count": 4
+    },
+    {
       "platform": "youtube",
       "count": 4
     },
     {
-      "platform": "news",
-      "count": 3
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 86
+      "count": 87
     },
     {
       "platform": "facebook",
-      "count": 16
+      "count": 17
     },
     {
       "platform": "youtube",
@@ -73,6 +77,10 @@
     {
       "hour": "2026-07-20 22:00",
       "count": 1
+    },
+    {
+      "hour": "2026-07-21 09:00",
+      "count": 2
     }
   ],
   "by_hour_7d": [
@@ -299,16 +307,36 @@
     {
       "hour": "2026-07-20 22:00",
       "count": 1
+    },
+    {
+      "hour": "2026-07-21 09:00",
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 3
+      "count": 4
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "#支持身心障礙者就業發展👨‍🦽 #雲林庇護工場非六都第一👍 看到雲林第十家「#鈞品農產庇護工場」正式成立，嘉郡心中有許多感動。 因為嘉郡知道，對許多人而言，一份工作不只是收入來源，更代表著自信、尊嚴，以及「我也能為社會貢獻力量」的肯定。 #身心障礙朋友 需 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxOM0dSeFJCbzdzOGxMOGpEcHRaSGF4UHJnTFhLUlZ1MkRpbXNPVk52c0JqbExZcDdmaDBPcm95LXNNQlJGalJmcUFsc055R0taSVZxTUZUNnZfd2NtS0M4c3UxSURNZjdYZDF2WjlDUVNFZElkQmxrOG91TmNuNlR0TXh2UHRERzZSNXpVN01yTU1yZXhsUjlnalBxWmRYT3lad3FPYlBYQmxlMmF5dXFNUXBwM3hZQmxDX0JLTHZzUlB2bFZDNUtVOGh3dl80Z25iUUV0MVJKanJKeFZFTHBzaUZLYXo2d3J0UDFsT0JrdFJmcTNHaVBZOHp5WGxIMWo3RXFWVmdfNWxsMmdGR3ZMSDJ5Y2FqNDBNV0czdU9mNFNhZUdibTl4OFJlSnlxeVZNZEE3SVktdVU4aWxOTmFmaDdJREF6Y3RqQTdZa2RwemR0N095S3pjZlFPMGg5YVRaSWI4anY0SW5jVWZrVnZGM1NlOFgyVEc5T0UtMjdzejE2cElrSjFKcXpTWkwwaWxJclA2U0VGcXZJV0VDbDJrc0FyQlVpb1FfQUlzTllHTlg1T0hkWTZXNlF1S2Y1cWtYZ0tiVDBkMHhXYnBUekNuM1VUU0JKUmN0SmJrb3RmbC1TN3Y4R2lFVWtXSERqNFFVV1hkVm5QMzZINWxxeEJTNHhnYnpHVEtjSkNCQVU2eDNLRXJqdlhTRWJXUzFYb01xQ09fdHlEb3RIR2VvLThwV3hPMldXQXpZRUs2QjY3SkM3MTY0VXJpMS0zTjJBTEdFQXV0cU5aMlBFZXBSa2lBMjdMVWNRdmpWRFJzYllJUVZCVERGSHkxX0o2NC1YU2t5NmFWVklfdGV1bHlHT2hNanJ2ZTlHcFBzRXVrZml4TkNDQ3g1SkZfNmpSTTRVcTdZaWxTbGRMSkt6YXBub2packNCWVRnTWZuRmNDQ0Q3VmVWTXdzb2NKZk5JbzJhT2R0Q0ZUWllHTFF3TFRjZm9rVmpBRUZPMmFFcWxpektNMUEtZU5mTlgxMnp3VWRPVUExY0dxNWc2Yl9rVjV1SG8xX1RKV3AyOHBMZ0NPQXNQMzNLdnpQUk9LaFV0T19vT0pJbzlmYi1SWkQtV1BTZHlPV0lqaFlyaGdrTVl3c0VnT3pjQzJyYWthSTR4bXpBZGZrcE5BM2ZJc0NUMmNxMFZRZ3ZuMk1ncnJKSHRqa3FzMDY4a0xJN3N3TnpFa1ZPeURtTWVDTDFyZTZnRVA3TEZCMGFRV2c5MmJBQVNBRTU5LXVEZ3ZZU0dxdURENklTRzRVOTM3NW8xQ1R1X1ZEYk9FdGtzQUVoaHlYeWdFSG5GNFhxcWJqVUNsZXNzenhDcXR0SXd3Yk00b3dzRFFMX3dZLXg5Ql9QRDFEVG9heV9qdGs3NUZ6c1RTMXcyd3ZTQXM",
+        "time": "2026-07-21 09:49:27"
+      }
+    ],
     "news": [
+      {
+        "title": "劉建國建議嚴查沙拉油流向及加強檢驗制度 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UVQzSVpsZnk1dGNBMGJKUFpQYjB0VUFmcWN1MDdpajFOTUJYTExhcDZ6LS0wdGZiOEl0YWdVSGlhSlNDVDRzX180TUhsb0g5U3Z1ZE9PSmRMRHYtQlQzbTlmcm5fNndU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-21 09:33:43"
+      },
       {
         "title": "張嘉郡拋政見! 喊公幼免費、私幼補助1.5萬 - MSN",
         "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNEpjZzR4V1laQnZxVHdOU2lJc2Jmd0Uyck5TRm9FZ2RMNUpDbkthbEptc2hVX3g3OTlmaXN1bzBvMXhVTllUR0NXWmtEY3lxNTNIcjRZNGJaYTFCTnY4cm1scVlWa1dPcFBseHhGZXJYYVRWd09MMW56VkNSb1RCLUY3UE1KOGdfUnFJbTlKUHlPSWtaay0weF9HODRiUFhMUnNxd2RWTmdxMnN4N3gtTlZMdmVEMEZhYXV2RXZCOTk4WGhUTENpT0tHRklKWDdiTEdyRVQ3MVV0VjF6ejREeExQbXk1c0EyVUZGdlFKMVBrb1ZwZnRicFpRWko3M3F0cDVMbWl2ekpfdjZQbHlEQ3dRODJxTWMydDV0QWR2S2NwcDho?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -329,11 +357,27 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 3
+      "count": 4
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "#支持身心障礙者就業發展👨‍🦽 #雲林庇護工場非六都第一👍 看到雲林第十家「#鈞品農產庇護工場」正式成立，嘉郡心中有許多感動。 因為嘉郡知道，對許多人而言，一份工作不只是收入來源，更代表著自信、尊嚴，以及「我也能為社會貢獻力量」的肯定。 #身心障礙朋友 需 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxOM0dSeFJCbzdzOGxMOGpEcHRaSGF4UHJnTFhLUlZ1MkRpbXNPVk52c0JqbExZcDdmaDBPcm95LXNNQlJGalJmcUFsc055R0taSVZxTUZUNnZfd2NtS0M4c3UxSURNZjdYZDF2WjlDUVNFZElkQmxrOG91TmNuNlR0TXh2UHRERzZSNXpVN01yTU1yZXhsUjlnalBxWmRYT3lad3FPYlBYQmxlMmF5dXFNUXBwM3hZQmxDX0JLTHZzUlB2bFZDNUtVOGh3dl80Z25iUUV0MVJKanJKeFZFTHBzaUZLYXo2d3J0UDFsT0JrdFJmcTNHaVBZOHp5WGxIMWo3RXFWVmdfNWxsMmdGR3ZMSDJ5Y2FqNDBNV0czdU9mNFNhZUdibTl4OFJlSnlxeVZNZEE3SVktdVU4aWxOTmFmaDdJREF6Y3RqQTdZa2RwemR0N095S3pjZlFPMGg5YVRaSWI4anY0SW5jVWZrVnZGM1NlOFgyVEc5T0UtMjdzejE2cElrSjFKcXpTWkwwaWxJclA2U0VGcXZJV0VDbDJrc0FyQlVpb1FfQUlzTllHTlg1T0hkWTZXNlF1S2Y1cWtYZ0tiVDBkMHhXYnBUekNuM1VUU0JKUmN0SmJrb3RmbC1TN3Y4R2lFVWtXSERqNFFVV1hkVm5QMzZINWxxeEJTNHhnYnpHVEtjSkNCQVU2eDNLRXJqdlhTRWJXUzFYb01xQ09fdHlEb3RIR2VvLThwV3hPMldXQXpZRUs2QjY3SkM3MTY0VXJpMS0zTjJBTEdFQXV0cU5aMlBFZXBSa2lBMjdMVWNRdmpWRFJzYllJUVZCVERGSHkxX0o2NC1YU2t5NmFWVklfdGV1bHlHT2hNanJ2ZTlHcFBzRXVrZml4TkNDQ3g1SkZfNmpSTTRVcTdZaWxTbGRMSkt6YXBub2packNCWVRnTWZuRmNDQ0Q3VmVWTXdzb2NKZk5JbzJhT2R0Q0ZUWllHTFF3TFRjZm9rVmpBRUZPMmFFcWxpektNMUEtZU5mTlgxMnp3VWRPVUExY0dxNWc2Yl9rVjV1SG8xX1RKV3AyOHBMZ0NPQXNQMzNLdnpQUk9LaFV0T19vT0pJbzlmYi1SWkQtV1BTZHlPV0lqaFlyaGdrTVl3c0VnT3pjQzJyYWthSTR4bXpBZGZrcE5BM2ZJc0NUMmNxMFZRZ3ZuMk1ncnJKSHRqa3FzMDY4a0xJN3N3TnpFa1ZPeURtTWVDTDFyZTZnRVA3TEZCMGFRV2c5MmJBQVNBRTU5LXVEZ3ZZU0dxdURENklTRzRVOTM3NW8xQ1R1X1ZEYk9FdGtzQUVoaHlYeWdFSG5GNFhxcWJqVUNsZXNzenhDcXR0SXd3Yk00b3dzRFFMX3dZLXg5Ql9QRDFEVG9heV9qdGs3NUZ6c1RTMXcyd3ZTQXM",
+        "time": "2026-07-21 09:49:27"
+      }
+    ],
     "news": [
+      {
+        "title": "劉建國建議嚴查沙拉油流向及加強檢驗制度 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UVQzSVpsZnk1dGNBMGJKUFpQYjB0VUFmcWN1MDdpajFOTUJYTExhcDZ6LS0wdGZiOEl0YWdVSGlhSlNDVDRzX180TUhsb0g5U3Z1ZE9PSmRMRHYtQlQzbTlmcm5fNndU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-21 09:33:43"
+      },
       {
         "title": "張嘉郡拋政見! 喊公幼免費、私幼補助1.5萬 - MSN",
         "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNEpjZzR4V1laQnZxVHdOU2lJc2Jmd0Uyck5TRm9FZ2RMNUpDbkthbEptc2hVX3g3OTlmaXN1bzBvMXhVTllUR0NXWmtEY3lxNTNIcjRZNGJaYTFCTnY4cm1scVlWa1dPcFBseHhGZXJYYVRWd09MMW56VkNSb1RCLUY3UE1KOGdfUnFJbTlKUHlPSWtaay0weF9HODRiUFhMUnNxd2RWTmdxMnN4N3gtTlZMdmVEMEZhYXV2RXZCOTk4WGhUTENpT0tHRklKWDdiTEdyRVQ3MVV0VjF6ejREeExQbXk1c0EyVUZGdlFKMVBrb1ZwZnRicFpRWko3M3F0cDVMbWl2ekpfdjZQbHlEQ3dRODJxTWMydDV0QWR2S2NwcDho?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -352,14 +396,19 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 2,
-    "劉建國": 1
+    "張嘉郡": 3,
+    "劉建國": 2
   },
   "mention_compare_7d": {
-    "張嘉郡": 24,
-    "劉建國": 67
+    "張嘉郡": 25,
+    "劉建國": 68
   },
   "top_news": [
+    {
+      "title": "劉建國建議嚴查沙拉油流向及加強檢驗制度 - 元丰傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UVQzSVpsZnk1dGNBMGJKUFpQYjB0VUFmcWN1MDdpajFOTUJYTExhcDZ6LS0wdGZiOEl0YWdVSGlhSlNDVDRzX180TUhsb0g5U3Z1ZE9PSmRMRHYtQlQzbTlmcm5fNndU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-21 09:33:43"
+    },
     {
       "title": "張嘉郡拋政見! 喊公幼免費、私幼補助1.5萬 - MSN",
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNEpjZzR4V1laQnZxVHdOU2lJc2Jmd0Uyck5TRm9FZ2RMNUpDbkthbEptc2hVX3g3OTlmaXN1bzBvMXhVTllUR0NXWmtEY3lxNTNIcjRZNGJaYTFCTnY4cm1scVlWa1dPcFBseHhGZXJYYVRWd09MMW56VkNSb1RCLUY3UE1KOGdfUnFJbTlKUHlPSWtaay0weF9HODRiUFhMUnNxd2RWTmdxMnN4N3gtTlZMdmVEMEZhYXV2RXZCOTk4WGhUTENpT0tHRklKWDdiTEdyRVQ3MVV0VjF6ejREeExQbXk1c0EyVUZGdlFKMVBrb1ZwZnRicFpRWko3M3F0cDVMbWl2ekpfdjZQbHlEQ3dRODJxTWMydDV0QWR2S2NwcDho?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -377,6 +426,11 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "劉建國建議嚴查沙拉油流向及加強檢驗制度 - 元丰傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UVQzSVpsZnk1dGNBMGJKUFpQYjB0VUFmcWN1MDdpajFOTUJYTExhcDZ6LS0wdGZiOEl0YWdVSGlhSlNDVDRzX180TUhsb0g5U3Z1ZE9PSmRMRHYtQlQzbTlmcm5fNndU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-21 09:33:43"
+    },
     {
       "title": "張嘉郡拋政見! 喊公幼免費、私幼補助1.5萬 - MSN",
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNEpjZzR4V1laQnZxVHdOU2lJc2Jmd0Uyck5TRm9FZ2RMNUpDbkthbEptc2hVX3g3OTlmaXN1bzBvMXhVTllUR0NXWmtEY3lxNTNIcjRZNGJaYTFCTnY4cm1scVlWa1dPcFBseHhGZXJYYVRWd09MMW56VkNSb1RCLUY3UE1KOGdfUnFJbTlKUHlPSWtaay0weF9HODRiUFhMUnNxd2RWTmdxMnN4N3gtTlZMdmVEMEZhYXV2RXZCOTk4WGhUTENpT0tHRklKWDdiTEdyRVQ3MVV0VjF6ejREeExQbXk1c0EyVUZGdlFKMVBrb1ZwZnRicFpRWko3M3F0cDVMbWl2ekpfdjZQbHlEQ3dRODJxTWMydDV0QWR2S2NwcDho?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -471,14 +525,14 @@
       "title": "玩心不老科普研討會 劉建國：鼓勵長輩健康老化 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQU2tQQk44azRKcnNaSnMtN25ORl9fdHQxODV6SjFFOUpFYmg4LXVvc2F1RW9PaWxRREhhNjlFQ0dydFAteEIzTHpTUzVxWTJCekxXRkNYNVhDU253Wm9yNUZSMU9fNzVLeXhEa2pteHZvbzBGajVJN1ZDOHMwMTRLYmRreG0ybV8zeDNnS2NiNHJ4Y0stdHg1NmVrd1dxM1VJaGZ0OEFjbTBFQU1fRzFBVkhnZlE5S1JlN2NkR2JjOXFRZ1k0UGV0ZGhZakZyVWNIRGdKblk2cThOSGRVSktfZ3Zhc1JSWWZHb2czanVQLTU1NllYRUNvdUpZUWF6Vko2MU9hVVVUdE1VcUl2bTJCSzJNcHhUNF8zdjJ5T2Vqc0tiSEQ0ZFF0bEVmckJBVHlmUmNMRHB0SVpjLWhYWVJOb251LTBNUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-18 17:26:37"
-    },
-    {
-      "title": "「玩心不老，慢遊剛好」高齡生活劉建國打造健康老化新典範讓長輩玩得開心、老得精彩| 中華日報 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PYnZ1WnlmcTl1aXMtbTBFclpyVjY0a28wU0loelFpZFpNdlZuU2k0ZEdDUG9iNURRbVJjN0VFQjJSUG56N20xZ2RPQ2JQQzJmNFBDMlVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-18 15:48:21"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "#支持身心障礙者就業發展👨‍🦽 #雲林庇護工場非六都第一👍 看到雲林第十家「#鈞品農產庇護工場」正式成立，嘉郡心中有許多感動。 因為嘉郡知道，對許多人而言，一份工作不只是收入來源，更代表著自信、尊嚴，以及「我也能為社會貢獻力量」的肯定。 #身心障礙朋友 需 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxOM0dSeFJCbzdzOGxMOGpEcHRaSGF4UHJnTFhLUlZ1MkRpbXNPVk52c0JqbExZcDdmaDBPcm95LXNNQlJGalJmcUFsc055R0taSVZxTUZUNnZfd2NtS0M4c3UxSURNZjdYZDF2WjlDUVNFZElkQmxrOG91TmNuNlR0TXh2UHRERzZSNXpVN01yTU1yZXhsUjlnalBxWmRYT3lad3FPYlBYQmxlMmF5dXFNUXBwM3hZQmxDX0JLTHZzUlB2bFZDNUtVOGh3dl80Z25iUUV0MVJKanJKeFZFTHBzaUZLYXo2d3J0UDFsT0JrdFJmcTNHaVBZOHp5WGxIMWo3RXFWVmdfNWxsMmdGR3ZMSDJ5Y2FqNDBNV0czdU9mNFNhZUdibTl4OFJlSnlxeVZNZEE3SVktdVU4aWxOTmFmaDdJREF6Y3RqQTdZa2RwemR0N095S3pjZlFPMGg5YVRaSWI4anY0SW5jVWZrVnZGM1NlOFgyVEc5T0UtMjdzejE2cElrSjFKcXpTWkwwaWxJclA2U0VGcXZJV0VDbDJrc0FyQlVpb1FfQUlzTllHTlg1T0hkWTZXNlF1S2Y1cWtYZ0tiVDBkMHhXYnBUekNuM1VUU0JKUmN0SmJrb3RmbC1TN3Y4R2lFVWtXSERqNFFVV1hkVm5QMzZINWxxeEJTNHhnYnpHVEtjSkNCQVU2eDNLRXJqdlhTRWJXUzFYb01xQ09fdHlEb3RIR2VvLThwV3hPMldXQXpZRUs2QjY3SkM3MTY0VXJpMS0zTjJBTEdFQXV0cU5aMlBFZXBSa2lBMjdMVWNRdmpWRFJzYllJUVZCVERGSHkxX0o2NC1YU2t5NmFWVklfdGV1bHlHT2hNanJ2ZTlHcFBzRXVrZml4TkNDQ3g1SkZfNmpSTTRVcTdZaWxTbGRMSkt6YXBub2packNCWVRnTWZuRmNDQ0Q3VmVWTXdzb2NKZk5JbzJhT2R0Q0ZUWllHTFF3TFRjZm9rVmpBRUZPMmFFcWxpektNMUEtZU5mTlgxMnp3VWRPVUExY0dxNWc2Yl9rVjV1SG8xX1RKV3AyOHBMZ0NPQXNQMzNLdnpQUk9LaFV0T19vT0pJbzlmYi1SWkQtV1BTZHlPV0lqaFlyaGdrTVl3c0VnT3pjQzJyYWthSTR4bXpBZGZrcE5BM2ZJc0NUMmNxMFZRZ3ZuMk1ncnJKSHRqa3FzMDY4a0xJN3N3TnpFa1ZPeURtTWVDTDFyZTZnRVA3TEZCMGFRV2c5MmJBQVNBRTU5LXVEZ3ZZU0dxdURENklTRzRVOTM3NW8xQ1R1X1ZEYk9FdGtzQUVoaHlYeWdFSG5GNFhxcWJqVUNsZXNzenhDcXR0SXd3Yk00b3dzRFFMX3dZLXg5Ql9QRDFEVG9heV9qdGs3NUZ6c1RTMXcyd3ZTQXM",
+      "time": "2026-07-21 09:49:27"
+    },
     {
       "title": "#強化斗南防洪韌性 #完善排水建設守護鄉親安全 面對極端氣候帶來的挑戰，完善水利建設、提升防災能力，是地方治理不可或缺的重要課題。 #斗南林子埤地區 長期面臨排水改善需求，嘉郡積極向中央爭取資源，推動「#大湖口溪支線林子埤大排興建工程」，如今工程經 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxPXzYzdUhiS09DN0g5aDRQTmVhQmZVRDhTcTd1akIzVmIwaXE3bHZ1ZEtfeHZYd3RwcFBSOXZVdlFES2RSYm1zMzZoWTh2N25OcUt4TklHT1FCOXVvRHUxT1JuaHNvdE5ZdFE4bnJqdzd0LXN3SEJHUDdmU3d0QURyVEp1Ml83UHF5X1RmMmx4VXpBVWsxalkzMVRyYVZWQXByN09VTWhUWTFDYldzQXBmNHlVNnJXWkotd05LcVJCcEdPME9fcE9ndm9Iejc0WTQwbV9lT1ZyNFVHd3pNS3JWNGtEMEtWZE1nUkZJWEtCdHhZQngxaWExYTBCUnd3U2hZR1hvWW9KQk4tYi13R21OU2duUUx1Q3l2d3ZCQmNhN1V3a0xaakpHUzJvV25BazQ3dndVVXlnM2tUOGZEQ3RSREJyX3ZHVFZDNkpTNTN0d0pkLTlCc0tTZWlJaTM3cHcwMW9rWnA4NktRT2RUbnhzbHdaQ3dLdVZSSWNvVkstclRMYV9iYktpbG5OT3c2Y053SUo2UlBIWVFIUmt3QkhzOEtIYTBnUkczVllqWkVXQWV2el9adnF3UVRucWFsX2VfdjNiSm42YlQwTHp0eHN2TnpnSEVlN1ZyMmN4VzRoMXVKdzc2Q1IwblZIRWI1bUJCSlRvNEhBMjJUN0tyNzAzZmRZUjNaRmRLMDhMNlVSOHNQajdVLUJwQWdIamRoN18wMHRpU3czU1cxeWFlYWY0YVRGbG8zLWVOaHF0WmtIeHFyUE5iQjVybThRZS1lWnBIS1JFWWJBRlAteWZQMVI2aFVMajVBdFp5Z2pRRWhNRGJrdWUwY1lOUHRpTVgwSGU3X2hJOF9iVG02YktVMy00cmVrbUlVVnpfUURZcnA5TFc5N2EtUjFPcEVEcVQ4U01Qc3EwYUFzd2cybjlYTzY0dm5jTWR0MnVNNGFhOU1fSTNzemw1Zmd2M2NrZUM2U2lxLUcyX29CVm5CLXBneXpvYVdzdGQyQXYtbjVBc0hxQV8tZXlRclMyMTc4cFhsWnVZVEhKeDFhbkpaSDQ5R256eTdTNU5IcGh4OXRnMkhEbVhGTnE2b250dU95T2lOMTlyT3VtbEVMVzRvSmNqekFoQUNuSl9VbWplVXhMLWxlSUlGRWJEWnR5ZG51WEpGNG9HNlVnRzNQeEdEZDY5LWpIYW9WUV9heUZIMHpaNzBxM25SY3Q0MDlYZm4yb1JpbzhmdGQ3UGhZSS1KT21qMGhPSDdyRmhtUnh2T3JaZ2w5eFJ2NHN5VnotZGlMMmYyV1FDV04wc19TOVdmLUJOb3gyay1kenFNVmpDQ3ZTbXdPcXlha3FMRzA5Ynd6bWtEcVNJN1o5RDZNdGlRM2VUMzNmUGVCTlJ6YW5YUzNYRTM5VkxLRXl2",
@@ -573,14 +627,14 @@
       "title": "#守護每一個家的安全 #打造安全有韌性的雲林 面對極端氣候帶來的挑戰，防災工作不能只在災害發生後補救，更要提前部署、建立更完整的治理韌性。 因應汛期到來及巴威颱風影響，嘉郡與 張麗善 縣長前往 #林內鄉坪頂村 崩塌地了解工程整治進度與防汛整備情形，關 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxNeEs0Y3lZSVJ4Rjhwb29PemhVX1JqRUtvSGRYeHJnZW9FZE1VX0g5YzRReVZNeFlFaXpYQWxwNHNkVVZyNWpSZDJiYmtTV2dxdEl6ZXJ4S0hnM0FqZWJSZmxOVlFXMU4xSFRlbGIwRUNBTVlGTFFrRFp1Mk8xMjY1M2Rlb0hraGZXOXh0ZS1jc3Z4NlBzeWZqb1ZtaFk0bW5JYXhmX1hZTm9jTEJGTzNtUld3c28xQnZHeEhZdFBnRGZXZ3lMcGJYSWZiNEZaNW8yZFkxMUZqcnZDbG0xbGJkLTJQdEtsT25NM29WRGFMaDFLUk9DZ0RpWHRRUDhKOUltb2ZWelRreVNFd1phWHc5d1h1OUY5UFFvOXZLdWp6ZG9zQ1YtLWg5UjNuUUNSREtjNnk1a0pxT3NtQ3EtN3QtWWJsS0pvZlhaU1lTUExoQnRCMENUa2xzTk56WU81R1RKckluVG9XM2NKbTNtdlVWeUlmTUVDWkVpTFlzWTNkbGJKSVMwOWJnbmdWdllqT1dXM0xpem41S21IQUxYcTI5d0dIME9wMlVKeTliU2N5Q2VQMk92eXhPU0UwUHc0amxOa09iUGZfSnlhWXdEQTJnYjNSbW85M1dKdVNVMkFxUzJXaC1USGl4YWxlendBSlEzSnV6X25aSWJybmtLMDZ1WF9jd1lXQXZiSEdzOTJiVll0Mnp6T3MwQlprOUo4MmdYZ2c4aTVpN1ZzZVVKaENQNUxjQURhZ2tiRzl5ekpYdGdMYkZjQ3lUdWZSZ2ExTGk0anpoeW12RFQ0UzU2cmx6VVByTUhDTmZHcTRvRndaMmUtZzlGNWxEODhKa2YwOTFDZ3llMkUyS1V1WGdqQUNZblhDN1VnUDJnSzBYeDdaMW1yUnlwWkhidmYxd3VNTkgzWnM4aWVTVjVLaEdJcDdXSTk3ZE5sZzZsVnpydkttZDlnaHh6ak4yeGcyVTUxSElmbDh4MTItaXluOHRneHM4SEZaN0VMbVpWQTZfamc0UnQ4RnJuY2dRTmd1NWtVR1RRM0V5Q1RTejRNR3FyNWM1aXVNMk5XZDI3TlNoVWlVWERJWFBNeFh5c2I1Xzc5UWtRUWdWWWtZVlBzdkxMdlp1WlRtbUVtbTJPWk5mdzVZM2syT3B1b1J5SF9ucEhRc3VnRXhER1lxRXNETFdVY3VvTHcwNUZkb09WLWxCaGhMc05pbUdZYU5IQTVQZV83RDEyQ0tGTFFTRWY5VFNzN3UyeU9ES3ZQVXVNTFVGZ2Y4LVhGaWVaMlZMcHNZRHhCQUNxNG5GbFY3cWRGVENMVF9nMTBkbmpCMXc2Y0JlenlMT0hpcEJqOHQ3UUEzRTlIRU5fck1OSkxsaGkwemRLdnV0ZGQ1YUI1VkFfMFlNa2Z3MGxfSHN4",
       "time": "2026-07-12 15:41:03"
-    },
-    {
-      "title": "明日（7/12）雲林縣正常上班上課。 ​依據中央氣象署預報資訊，縣府宣布，明天雲林縣正常上班、上課。 但建國仍然要提醒大家，#巴威颱風 外圍環流可能持續影響台灣，外出時務必要注意安全，慎防強風大雨。 希望風雨漸漸平息，大家都能平平安安出門、快快樂樂回家。 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMihAhBVV95cUxPR3RfSTFNWl8wM3I0dmJ6RWZtUEUxVEg4dVdOejBfVC1WRjRIaVRFRE5yZ1N6aVlvN0xMc1E3cDh2TXdBVXNXY2RZdXBZcEt2anYyaDNOcHFIR0dSLWZESjNkTUtJNUpmUjhRNEg2TTR4WjdHRkU2eGhVMmhQc2NFVldxbmVFUlRieGhCUTY0aHNPTzRQRDhkdExRbzlja0R1U09MUEp3cHNsSGliTGpjUExKT25zZXZCa3V3UWF5aUJJNnIyVG9fclQ0LTR2NFFfMGxULW5uVFczN2RJcDRNVk55RmtSYm0xcWdqNE9UakpwX0VteXViVENic0FKY1AwZ2huQ2tOM3RXSVVxMzJIbU9DVF8tdUpSS1Q3YVZJNGxEZE54Ul9fSWZZaHlGcGNmNEFtckJkYmFDT0x0NHBZbWdkLVI0TlpSRXktMFZ2VnE0N3cyTmFoSjVVMjZsQVJaQ3NOYXY5a204NW54aVJqdTNYQXU3RXVRZDMydUlHbXVWRTY1MnB6YlVvdU9XandnTXpPTFZzWkZOdk1xTVk4QndDOFJDME81V1pFRXcwa2RUUjlKQzJYWFNpM3hyc0lEeF9HYmFMTEtNZHdyWFVjeERsclNvRFBodkVleHFlT2YzRmtNdHl5cnBqVHVyWlM0SHdna3dXNWw3RFc4amlmeUlnSzNURmtDOHlRNEtNN0xmRkFTNGprOGF6Sld1dm1wWkN3UkNBeEFRWVNzTk1iVW1aMW9Bc0FUSzNPQTE2MFQ3MWx1cXVSTWRPVDhfYzYxc0lrUUxWOTlBTjZzZHllQlp6VDdKeFFaSDRuTEVxaW1iaFRoSjhpYk9ZVDZKR0xuQ3o0Zy1ocjJGUXJkQm90eE1Cb1p1ZjJWOGEyMks5UHhEZ1czS0tNS2lGYWdBaTctUzVXYnF1NEg5VG9TakV1S05FVGZ5dl9JZTZhSjY3OTFTRkZOZHRQVkZkYjFsUVBjLWZ1elNaQ3ZETlhZNmVGalM3MHd4bGtFZUVWTnJ2b2tkQ2FhdVFPekU0TTR0TzJ1dVlGOG84WVpESVFzY09kX3lOQlpBc2hRMjdIa2x5YndDQ2xrZzRYbENJNEhKdTdJX3JJR1dpcFVEN2ZOSkEwR3BVUm01REtkVnlNQmpreDBXZnlWMUx5dlNjY1A0TEktYTRjS1JaMUlzVUpNZ3hHS0NSbmdpdkw0WVI1MDdnZ1BmbV8yMUtfRVVUWS0yUnY4d0IyVW81dU9NTEtuNTNCMXA5OUM3T2YxaGo4NEk4NUZsay1pb3phNzJSbWJoYlRLODdmd25nc2V4MFp4U3FhY3M1V3Z0Q19MeXd5U1pUYnlNX2lTYk1RWjZhdExYOWpsUDFzZA",
-      "time": "2026-07-11 19:26:45"
     }
   ],
   "latest_news_20": [
+    {
+      "title": "劉建國建議嚴查沙拉油流向及加強檢驗制度 - 元丰傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UVQzSVpsZnk1dGNBMGJKUFpQYjB0VUFmcWN1MDdpajFOTUJYTExhcDZ6LS0wdGZiOEl0YWdVSGlhSlNDVDRzX180TUhsb0g5U3Z1ZE9PSmRMRHYtQlQzbTlmcm5fNndU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-21 09:33:43"
+    },
     {
       "title": "張嘉郡拋政見! 喊公幼免費、私幼補助1.5萬 - MSN",
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNEpjZzR4V1laQnZxVHdOU2lJc2Jmd0Uyck5TRm9FZ2RMNUpDbkthbEptc2hVX3g3OTlmaXN1bzBvMXhVTllUR0NXWmtEY3lxNTNIcjRZNGJaYTFCTnY4cm1scVlWa1dPcFBseHhGZXJYYVRWd09MMW56VkNSb1RCLUY3UE1KOGdfUnFJbTlKUHlPSWtaay0weF9HODRiUFhMUnNxd2RWTmdxMnN4N3gtTlZMdmVEMEZhYXV2RXZCOTk4WGhUTENpT0tHRklKWDdiTEdyRVQ3MVV0VjF6ejREeExQbXk1c0EyVUZGdlFKMVBrb1ZwZnRicFpRWko3M3F0cDVMbWl2ekpfdjZQbHlEQ3dRODJxTWMydDV0QWR2S2NwcDho?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -675,11 +729,6 @@
       "title": "玩心不老科普研討會 劉建國：鼓勵長輩健康老化 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQU2tQQk44azRKcnNaSnMtN25ORl9fdHQxODV6SjFFOUpFYmg4LXVvc2F1RW9PaWxRREhhNjlFQ0dydFAteEIzTHpTUzVxWTJCekxXRkNYNVhDU253Wm9yNUZSMU9fNzVLeXhEa2pteHZvbzBGajVJN1ZDOHMwMTRLYmRreG0ybV8zeDNnS2NiNHJ4Y0stdHg1NmVrd1dxM1VJaGZ0OEFjbTBFQU1fRzFBVkhnZlE5S1JlN2NkR2JjOXFRZ1k0UGV0ZGhZakZyVWNIRGdKblk2cThOSGRVSktfZ3Zhc1JSWWZHb2czanVQLTU1NllYRUNvdUpZUWF6Vko2MU9hVVVUdE1VcUl2bTJCSzJNcHhUNF8zdjJ5T2Vqc0tiSEQ0ZFF0bEVmckJBVHlmUmNMRHB0SVpjLWhYWVJOb251LTBNUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-18 17:26:37"
-    },
-    {
-      "title": "「玩心不老，慢遊剛好」高齡生活劉建國打造健康老化新典範讓長輩玩得開心、老得精彩| 中華日報 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PYnZ1WnlmcTl1aXMtbTBFclpyVjY0a28wU0loelFpZFpNdlZuU2k0ZEdDUG9iNURRbVJjN0VFQjJSUG56N20xZ2RPQ2JQQzJmNFBDMlVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-18 15:48:21"
     }
   ],
   "person_sections": {
@@ -994,6 +1043,11 @@
       ],
       "news": [
         {
+          "title": "劉建國建議嚴查沙拉油流向及加強檢驗制度 - 元丰傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UVQzSVpsZnk1dGNBMGJKUFpQYjB0VUFmcWN1MDdpajFOTUJYTExhcDZ6LS0wdGZiOEl0YWdVSGlhSlNDVDRzX180TUhsb0g5U3Z1ZE9PSmRMRHYtQlQzbTlmcm5fNndU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-21 09:33:43"
+        },
+        {
           "title": "劉建國爭取復健病房試辦計畫落腳雲林 中風患者在地復健、安心返家 - 台灣新聞雲",
           "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9tSWZrZm8xRjhIUm9SakdvbEk4Uml5Rk5pVUVVeDNfMFF4dXdXajZScWVaelNWOTBzNlNiOTR3ZVBzVFdNNlNv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-20 13:09:06"
@@ -1087,16 +1141,33 @@
           "title": "守護林內鄉親安全！劉建國爭取追加5300萬 促水保署全力搶修坪頂崩塌地 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNaEY4VXdCZGtMcmIwNHFYTFI4Zjc1cXhXWU9PcU5vblEwRklDU0xUbDg0U3ZGeWhwV3pUeGlCWFZsRFpIbFBMbGlaSG5qaUhuaW8wRFlCN3EyRV9DWTdHQlFtNk56VDhublRCNWxoYWI1Nks0dWh0d3JwUVIxUi1DVElGNUZCY015MGNNbzUxTExmNHlQT2gyWjZxdDV0OF8zRnZBQ200aFBuLVJHNGxxU2RJTGZUYlN6cjVIWEw2SHpkTkJaQUphNWl4QkJmaUdXWHU1dldWX2djZ2hfWnVtSjF2TVRQVU1BR1JaTW1udU1CT1R4bHBaQ0NuMVdoX3E3SUVhZ2tOdzI1QXppNXVXTmdzQUZDeFhuTXBYS3hQZ2cyTVpLMU9MS0lpSllvbjFQVXNNSThiRVRwV3JvTnFVMUdOLW5IdXBuZ0FRTnVMY0pBRDV4eGkzc0g1QlU2ZE5PSkpnOEs3R0o5OUJjS3ZYSC1sNXExa0tPY3dhVHdRV0k0UDJiN1hGNlR5NmZjR2ZHMVFQT1pXeEZjakxVaWJhTWZZbGd2WGkzOS1vd0xQb2lJRTBfU3JR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-18 12:16:11"
-        },
-        {
-          "title": "守護林內鄉親安全！劉建國爭取追加5300萬 促水保署全力搶修坪頂崩塌地 - PChome Online 股市",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWC1SQWMwRHZPcmhial9DMVFmRXpkMGxBSWpWY1JZODRubTBvZ2xBem5raHl5R25YRW9IZ1ljTGZJVkhGTEk3ZkVhMzJGRTRzMFpJQTVNem5BajBpMUtQZmdFbTZfck5GRzR0MWJsWmY3Q2VxWEVmSDEwazBmdGtkdg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-18 12:02:27"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "劉建國建議嚴查沙拉油流向及加強檢驗制度 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UVQzSVpsZnk1dGNBMGJKUFpQYjB0VUFmcWN1MDdpajFOTUJYTExhcDZ6LS0wdGZiOEl0YWdVSGlhSlNDVDRzX180TUhsb0g5U3Z1ZE9PSmRMRHYtQlQzbTlmcm5fNndU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-21 09:33:43"
+      },
+      {
+        "title": "張嘉郡拋政見! 喊公幼免費、私幼補助1.5萬 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNEpjZzR4V1laQnZxVHdOU2lJc2Jmd0Uyck5TRm9FZ2RMNUpDbkthbEptc2hVX3g3OTlmaXN1bzBvMXhVTllUR0NXWmtEY3lxNTNIcjRZNGJaYTFCTnY4cm1scVlWa1dPcFBseHhGZXJYYVRWd09MMW56VkNSb1RCLUY3UE1KOGdfUnFJbTlKUHlPSWtaay0weF9HODRiUFhMUnNxd2RWTmdxMnN4N3gtTlZMdmVEMEZhYXV2RXZCOTk4WGhUTENpT0tHRklKWDdiTEdyRVQ3MVV0VjF6ejREeExQbXk1c0EyVUZGdlFKMVBrb1ZwZnRicFpRWko3M3F0cDVMbWl2ekpfdjZQbHlEQ3dRODJxTWMydDV0QWR2S2NwcDho?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-20 22:41:14"
+      },
+      {
+        "title": "討論牆 | 為雲林「彎道超車」培育人才 張嘉郡拋「長期培育機制」高獎金拚學子留雲 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tY0hrQWJKT2l6X0lMUHJyZE1sSVFoSXNuQXd4S3o2dGRrME1XeVRNbGNtQWFDaW13RXVVMUZrZjVPcjB1SmlPZks5TnVQcG1sNl9tVGtqbHhwZDVjeklZOE1Obng?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-20 16:14:06"
+      },
+      {
+        "title": "劉建國爭取復健病房試辦計畫落腳雲林 中風患者在地復健、安心返家 - 台灣新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9tSWZrZm8xRjhIUm9SakdvbEk4Uml5Rk5pVUVVeDNfMFF4dXdXajZScWVaelNWOTBzNlNiOTR3ZVBzVFdNNlNv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-20 13:09:06"
+      }
+    ],
     "youtube": [
       {
         "title": "第一線聽海巡署分享「海上人盯人」驚人戰術",
@@ -1119,26 +1190,21 @@
         "time": "2026-07-20 18:40:28"
       }
     ],
-    "news": [
+    "facebook": [
       {
-        "title": "張嘉郡拋政見! 喊公幼免費、私幼補助1.5萬 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNEpjZzR4V1laQnZxVHdOU2lJc2Jmd0Uyck5TRm9FZ2RMNUpDbkthbEptc2hVX3g3OTlmaXN1bzBvMXhVTllUR0NXWmtEY3lxNTNIcjRZNGJaYTFCTnY4cm1scVlWa1dPcFBseHhGZXJYYVRWd09MMW56VkNSb1RCLUY3UE1KOGdfUnFJbTlKUHlPSWtaay0weF9HODRiUFhMUnNxd2RWTmdxMnN4N3gtTlZMdmVEMEZhYXV2RXZCOTk4WGhUTENpT0tHRklKWDdiTEdyRVQ3MVV0VjF6ejREeExQbXk1c0EyVUZGdlFKMVBrb1ZwZnRicFpRWko3M3F0cDVMbWl2ekpfdjZQbHlEQ3dRODJxTWMydDV0QWR2S2NwcDho?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-20 22:41:14"
-      },
-      {
-        "title": "討論牆 | 為雲林「彎道超車」培育人才 張嘉郡拋「長期培育機制」高獎金拚學子留雲 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tY0hrQWJKT2l6X0lMUHJyZE1sSVFoSXNuQXd4S3o2dGRrME1XeVRNbGNtQWFDaW13RXVVMUZrZjVPcjB1SmlPZks5TnVQcG1sNl9tVGtqbHhwZDVjeklZOE1Obng?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-20 16:14:06"
-      },
-      {
-        "title": "劉建國爭取復健病房試辦計畫落腳雲林 中風患者在地復健、安心返家 - 台灣新聞雲",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9tSWZrZm8xRjhIUm9SakdvbEk4Uml5Rk5pVUVVeDNfMFF4dXdXajZScWVaelNWOTBzNlNiOTR3ZVBzVFdNNlNv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-20 13:09:06"
+        "title": "#支持身心障礙者就業發展👨‍🦽 #雲林庇護工場非六都第一👍 看到雲林第十家「#鈞品農產庇護工場」正式成立，嘉郡心中有許多感動。 因為嘉郡知道，對許多人而言，一份工作不只是收入來源，更代表著自信、尊嚴，以及「我也能為社會貢獻力量」的肯定。 #身心障礙朋友 需 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxOM0dSeFJCbzdzOGxMOGpEcHRaSGF4UHJnTFhLUlZ1MkRpbXNPVk52c0JqbExZcDdmaDBPcm95LXNNQlJGalJmcUFsc055R0taSVZxTUZUNnZfd2NtS0M4c3UxSURNZjdYZDF2WjlDUVNFZElkQmxrOG91TmNuNlR0TXh2UHRERzZSNXpVN01yTU1yZXhsUjlnalBxWmRYT3lad3FPYlBYQmxlMmF5dXFNUXBwM3hZQmxDX0JLTHZzUlB2bFZDNUtVOGh3dl80Z25iUUV0MVJKanJKeFZFTHBzaUZLYXo2d3J0UDFsT0JrdFJmcTNHaVBZOHp5WGxIMWo3RXFWVmdfNWxsMmdGR3ZMSDJ5Y2FqNDBNV0czdU9mNFNhZUdibTl4OFJlSnlxeVZNZEE3SVktdVU4aWxOTmFmaDdJREF6Y3RqQTdZa2RwemR0N095S3pjZlFPMGg5YVRaSWI4anY0SW5jVWZrVnZGM1NlOFgyVEc5T0UtMjdzejE2cElrSjFKcXpTWkwwaWxJclA2U0VGcXZJV0VDbDJrc0FyQlVpb1FfQUlzTllHTlg1T0hkWTZXNlF1S2Y1cWtYZ0tiVDBkMHhXYnBUekNuM1VUU0JKUmN0SmJrb3RmbC1TN3Y4R2lFVWtXSERqNFFVV1hkVm5QMzZINWxxeEJTNHhnYnpHVEtjSkNCQVU2eDNLRXJqdlhTRWJXUzFYb01xQ09fdHlEb3RIR2VvLThwV3hPMldXQXpZRUs2QjY3SkM3MTY0VXJpMS0zTjJBTEdFQXV0cU5aMlBFZXBSa2lBMjdMVWNRdmpWRFJzYllJUVZCVERGSHkxX0o2NC1YU2t5NmFWVklfdGV1bHlHT2hNanJ2ZTlHcFBzRXVrZml4TkNDQ3g1SkZfNmpSTTRVcTdZaWxTbGRMSkt6YXBub2packNCWVRnTWZuRmNDQ0Q3VmVWTXdzb2NKZk5JbzJhT2R0Q0ZUWllHTFF3TFRjZm9rVmpBRUZPMmFFcWxpektNMUEtZU5mTlgxMnp3VWRPVUExY0dxNWc2Yl9rVjV1SG8xX1RKV3AyOHBMZ0NPQXNQMzNLdnpQUk9LaFV0T19vT0pJbzlmYi1SWkQtV1BTZHlPV0lqaFlyaGdrTVl3c0VnT3pjQzJyYWthSTR4bXpBZGZrcE5BM2ZJc0NUMmNxMFZRZ3ZuMk1ncnJKSHRqa3FzMDY4a0xJN3N3TnpFa1ZPeURtTWVDTDFyZTZnRVA3TEZCMGFRV2c5MmJBQVNBRTU5LXVEZ3ZZU0dxdURENklTRzRVOTM3NW8xQ1R1X1ZEYk9FdGtzQUVoaHlYeWdFSG5GNFhxcWJqVUNsZXNzenhDcXR0SXd3Yk00b3dzRFFMX3dZLXg5Ql9QRDFEVG9heV9qdGs3NUZ6c1RTMXcyd3ZTQXM",
+        "time": "2026-07-21 09:49:27"
       }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "劉建國建議嚴查沙拉油流向及加強檢驗制度 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UVQzSVpsZnk1dGNBMGJKUFpQYjB0VUFmcWN1MDdpajFOTUJYTExhcDZ6LS0wdGZiOEl0YWdVSGlhSlNDVDRzX180TUhsb0g5U3Z1ZE9PSmRMRHYtQlQzbTlmcm5fNndU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-21 09:33:43"
+      },
       {
         "title": "張嘉郡拋政見! 喊公幼免費、私幼補助1.5萬 - MSN",
         "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNEpjZzR4V1laQnZxVHdOU2lJc2Jmd0Uyck5TRm9FZ2RMNUpDbkthbEptc2hVX3g3OTlmaXN1bzBvMXhVTllUR0NXWmtEY3lxNTNIcjRZNGJaYTFCTnY4cm1scVlWa1dPcFBseHhGZXJYYVRWd09MMW56VkNSb1RCLUY3UE1KOGdfUnFJbTlKUHlPSWtaay0weF9HODRiUFhMUnNxd2RWTmdxMnN4N3gtTlZMdmVEMEZhYXV2RXZCOTk4WGhUTENpT0tHRklKWDdiTEdyRVQ3MVV0VjF6ejREeExQbXk1c0EyVUZGdlFKMVBrb1ZwZnRicFpRWko3M3F0cDVMbWl2ekpfdjZQbHlEQ3dRODJxTWMydDV0QWR2S2NwcDho?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1333,14 +1399,14 @@
         "title": "苗縣長為頭份建國社區照顧關懷據點揭牌啟用 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOaWFHb01TeGIzVGVHTTJOLWViajh6SGxKUnNOek91WnVWaUREVFNYRnlSczhHdFFTbVNqaF9ZcDZWRlNxSTJ4QXFyb2M1WUFUWXBQdHd5MnBTcjJsaGUwcUN3bjByUEp4aFVwWVIzeG1xZ2cxT0xWNDhJZ0xTalI1WFJXMXJxcnVXcFVybkVweXlWQmdfemE5aERXNUhDeHFvMHU2QXRFNFNDX1B5SURSVlhJeGFHWERMYTllVVcxV3VoaWhfd1BzMDNKeE15ZVoxdElnd3RzYVJVcjBTTWlYcDFKR2lXRnB0eWQ2VF9INVpVbUFyc1cyNnQ1am5pRkdmRWVtV1RVZXpScndPendSUGFZVHh6VThoVEdXbmlsMmJ4ZGZBbnhXT2RQQUVDSDZDYS1iQjNkWWptMS1ENHp1SGNONA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-16 15:56:46"
-      },
-      {
-        "title": "分享42歲才生第2胎的心情 張嘉郡提雲林安心育兒計畫 - 中時新聞網",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLQ3FDNEJ0N05UYnNwVGFWR2dsNXk0WEthMnVpWGJ3VTk4NTNmclJHa3V3ZU5mb1JhWHJGOUpfRkpmMWFJcXpCclBtWV9Bb3o2RmNadEg1azg5TXFIcHBHbDJadHNsWmwyTmV1cUNn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-16 15:39:32"
       }
     ],
     "facebook": [
+      {
+        "title": "#支持身心障礙者就業發展👨‍🦽 #雲林庇護工場非六都第一👍 看到雲林第十家「#鈞品農產庇護工場」正式成立，嘉郡心中有許多感動。 因為嘉郡知道，對許多人而言，一份工作不只是收入來源，更代表著自信、尊嚴，以及「我也能為社會貢獻力量」的肯定。 #身心障礙朋友 需 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxOM0dSeFJCbzdzOGxMOGpEcHRaSGF4UHJnTFhLUlZ1MkRpbXNPVk52c0JqbExZcDdmaDBPcm95LXNNQlJGalJmcUFsc055R0taSVZxTUZUNnZfd2NtS0M4c3UxSURNZjdYZDF2WjlDUVNFZElkQmxrOG91TmNuNlR0TXh2UHRERzZSNXpVN01yTU1yZXhsUjlnalBxWmRYT3lad3FPYlBYQmxlMmF5dXFNUXBwM3hZQmxDX0JLTHZzUlB2bFZDNUtVOGh3dl80Z25iUUV0MVJKanJKeFZFTHBzaUZLYXo2d3J0UDFsT0JrdFJmcTNHaVBZOHp5WGxIMWo3RXFWVmdfNWxsMmdGR3ZMSDJ5Y2FqNDBNV0czdU9mNFNhZUdibTl4OFJlSnlxeVZNZEE3SVktdVU4aWxOTmFmaDdJREF6Y3RqQTdZa2RwemR0N095S3pjZlFPMGg5YVRaSWI4anY0SW5jVWZrVnZGM1NlOFgyVEc5T0UtMjdzejE2cElrSjFKcXpTWkwwaWxJclA2U0VGcXZJV0VDbDJrc0FyQlVpb1FfQUlzTllHTlg1T0hkWTZXNlF1S2Y1cWtYZ0tiVDBkMHhXYnBUekNuM1VUU0JKUmN0SmJrb3RmbC1TN3Y4R2lFVWtXSERqNFFVV1hkVm5QMzZINWxxeEJTNHhnYnpHVEtjSkNCQVU2eDNLRXJqdlhTRWJXUzFYb01xQ09fdHlEb3RIR2VvLThwV3hPMldXQXpZRUs2QjY3SkM3MTY0VXJpMS0zTjJBTEdFQXV0cU5aMlBFZXBSa2lBMjdMVWNRdmpWRFJzYllJUVZCVERGSHkxX0o2NC1YU2t5NmFWVklfdGV1bHlHT2hNanJ2ZTlHcFBzRXVrZml4TkNDQ3g1SkZfNmpSTTRVcTdZaWxTbGRMSkt6YXBub2packNCWVRnTWZuRmNDQ0Q3VmVWTXdzb2NKZk5JbzJhT2R0Q0ZUWllHTFF3TFRjZm9rVmpBRUZPMmFFcWxpektNMUEtZU5mTlgxMnp3VWRPVUExY0dxNWc2Yl9rVjV1SG8xX1RKV3AyOHBMZ0NPQXNQMzNLdnpQUk9LaFV0T19vT0pJbzlmYi1SWkQtV1BTZHlPV0lqaFlyaGdrTVl3c0VnT3pjQzJyYWthSTR4bXpBZGZrcE5BM2ZJc0NUMmNxMFZRZ3ZuMk1ncnJKSHRqa3FzMDY4a0xJN3N3TnpFa1ZPeURtTWVDTDFyZTZnRVA3TEZCMGFRV2c5MmJBQVNBRTU5LXVEZ3ZZU0dxdURENklTRzRVOTM3NW8xQ1R1X1ZEYk9FdGtzQUVoaHlYeWdFSG5GNFhxcWJqVUNsZXNzenhDcXR0SXd3Yk00b3dzRFFMX3dZLXg5Ql9QRDFEVG9heV9qdGs3NUZ6c1RTMXcyd3ZTQXM",
+        "time": "2026-07-21 09:49:27"
+      },
       {
         "title": "#強化斗南防洪韌性 #完善排水建設守護鄉親安全 面對極端氣候帶來的挑戰，完善水利建設、提升防災能力，是地方治理不可或缺的重要課題。 #斗南林子埤地區 長期面臨排水改善需求，嘉郡積極向中央爭取資源，推動「#大湖口溪支線林子埤大排興建工程」，如今工程經 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxPXzYzdUhiS09DN0g5aDRQTmVhQmZVRDhTcTd1akIzVmIwaXE3bHZ1ZEtfeHZYd3RwcFBSOXZVdlFES2RSYm1zMzZoWTh2N25OcUt4TklHT1FCOXVvRHUxT1JuaHNvdE5ZdFE4bnJqdzd0LXN3SEJHUDdmU3d0QURyVEp1Ml83UHF5X1RmMmx4VXpBVWsxalkzMVRyYVZWQXByN09VTWhUWTFDYldzQXBmNHlVNnJXWkotd05LcVJCcEdPME9fcE9ndm9Iejc0WTQwbV9lT1ZyNFVHd3pNS3JWNGtEMEtWZE1nUkZJWEtCdHhZQngxaWExYTBCUnd3U2hZR1hvWW9KQk4tYi13R21OU2duUUx1Q3l2d3ZCQmNhN1V3a0xaakpHUzJvV25BazQ3dndVVXlnM2tUOGZEQ3RSREJyX3ZHVFZDNkpTNTN0d0pkLTlCc0tTZWlJaTM3cHcwMW9rWnA4NktRT2RUbnhzbHdaQ3dLdVZSSWNvVkstclRMYV9iYktpbG5OT3c2Y053SUo2UlBIWVFIUmt3QkhzOEtIYTBnUkczVllqWkVXQWV2el9adnF3UVRucWFsX2VfdjNiSm42YlQwTHp0eHN2TnpnSEVlN1ZyMmN4VzRoMXVKdzc2Q1IwblZIRWI1bUJCSlRvNEhBMjJUN0tyNzAzZmRZUjNaRmRLMDhMNlVSOHNQajdVLUJwQWdIamRoN18wMHRpU3czU1cxeWFlYWY0YVRGbG8zLWVOaHF0WmtIeHFyUE5iQjVybThRZS1lWnBIS1JFWWJBRlAteWZQMVI2aFVMajVBdFp5Z2pRRWhNRGJrdWUwY1lOUHRpTVgwSGU3X2hJOF9iVG02YktVMy00cmVrbUlVVnpfUURZcnA5TFc5N2EtUjFPcEVEcVQ4U01Qc3EwYUFzd2cybjlYTzY0dm5jTWR0MnVNNGFhOU1fSTNzemw1Zmd2M2NrZUM2U2lxLUcyX29CVm5CLXBneXpvYVdzdGQyQXYtbjVBc0hxQV8tZXlRclMyMTc4cFhsWnVZVEhKeDFhbkpaSDQ5R256eTdTNU5IcGh4OXRnMkhEbVhGTnE2b250dU95T2lOMTlyT3VtbEVMVzRvSmNqekFoQUNuSl9VbWplVXhMLWxlSUlGRWJEWnR5ZG51WEpGNG9HNlVnRzNQeEdEZDY5LWpIYW9WUV9heUZIMHpaNzBxM25SY3Q0MDlYZm4yb1JpbzhmdGQ3UGhZSS1KT21qMGhPSDdyRmhtUnh2T3JaZ2w5eFJ2NHN5VnotZGlMMmYyV1FDV04wc19TOVdmLUJOb3gyay1kenFNVmpDQ3ZTbXdPcXlha3FMRzA5Ynd6bWtEcVNJN1o5RDZNdGlRM2VUMzNmUGVCTlJ6YW5YUzNYRTM5VkxLRXl2",
@@ -1460,6 +1526,20 @@
     "hour": [],
     "day": [
       {
+        "title": "#支持身心障礙者就業發展👨‍🦽 #雲林庇護工場非六都第一👍 看到雲林第十家「#鈞品農產庇護工場」正式成立，嘉郡心中有許多感動。 因為嘉郡知道，對許多人而言，一份工作不只是收入來源，更代表著自信、尊嚴，以及「我也能為社會貢獻力量」的肯定。 #身心障礙朋友 需 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxOM0dSeFJCbzdzOGxMOGpEcHRaSGF4UHJnTFhLUlZ1MkRpbXNPVk52c0JqbExZcDdmaDBPcm95LXNNQlJGalJmcUFsc055R0taSVZxTUZUNnZfd2NtS0M4c3UxSURNZjdYZDF2WjlDUVNFZElkQmxrOG91TmNuNlR0TXh2UHRERzZSNXpVN01yTU1yZXhsUjlnalBxWmRYT3lad3FPYlBYQmxlMmF5dXFNUXBwM3hZQmxDX0JLTHZzUlB2bFZDNUtVOGh3dl80Z25iUUV0MVJKanJKeFZFTHBzaUZLYXo2d3J0UDFsT0JrdFJmcTNHaVBZOHp5WGxIMWo3RXFWVmdfNWxsMmdGR3ZMSDJ5Y2FqNDBNV0czdU9mNFNhZUdibTl4OFJlSnlxeVZNZEE3SVktdVU4aWxOTmFmaDdJREF6Y3RqQTdZa2RwemR0N095S3pjZlFPMGg5YVRaSWI4anY0SW5jVWZrVnZGM1NlOFgyVEc5T0UtMjdzejE2cElrSjFKcXpTWkwwaWxJclA2U0VGcXZJV0VDbDJrc0FyQlVpb1FfQUlzTllHTlg1T0hkWTZXNlF1S2Y1cWtYZ0tiVDBkMHhXYnBUekNuM1VUU0JKUmN0SmJrb3RmbC1TN3Y4R2lFVWtXSERqNFFVV1hkVm5QMzZINWxxeEJTNHhnYnpHVEtjSkNCQVU2eDNLRXJqdlhTRWJXUzFYb01xQ09fdHlEb3RIR2VvLThwV3hPMldXQXpZRUs2QjY3SkM3MTY0VXJpMS0zTjJBTEdFQXV0cU5aMlBFZXBSa2lBMjdMVWNRdmpWRFJzYllJUVZCVERGSHkxX0o2NC1YU2t5NmFWVklfdGV1bHlHT2hNanJ2ZTlHcFBzRXVrZml4TkNDQ3g1SkZfNmpSTTRVcTdZaWxTbGRMSkt6YXBub2packNCWVRnTWZuRmNDQ0Q3VmVWTXdzb2NKZk5JbzJhT2R0Q0ZUWllHTFF3TFRjZm9rVmpBRUZPMmFFcWxpektNMUEtZU5mTlgxMnp3VWRPVUExY0dxNWc2Yl9rVjV1SG8xX1RKV3AyOHBMZ0NPQXNQMzNLdnpQUk9LaFV0T19vT0pJbzlmYi1SWkQtV1BTZHlPV0lqaFlyaGdrTVl3c0VnT3pjQzJyYWthSTR4bXpBZGZrcE5BM2ZJc0NUMmNxMFZRZ3ZuMk1ncnJKSHRqa3FzMDY4a0xJN3N3TnpFa1ZPeURtTWVDTDFyZTZnRVA3TEZCMGFRV2c5MmJBQVNBRTU5LXVEZ3ZZU0dxdURENklTRzRVOTM3NW8xQ1R1X1ZEYk9FdGtzQUVoaHlYeWdFSG5GNFhxcWJqVUNsZXNzenhDcXR0SXd3Yk00b3dzRFFMX3dZLXg5Ql9QRDFEVG9heV9qdGs3NUZ6c1RTMXcyd3ZTQXM",
+        "time": "2026-07-21 09:49:27",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國建議嚴查沙拉油流向及加強檢驗制度 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UVQzSVpsZnk1dGNBMGJKUFpQYjB0VUFmcWN1MDdpajFOTUJYTExhcDZ6LS0wdGZiOEl0YWdVSGlhSlNDVDRzX180TUhsb0g5U3Z1ZE9PSmRMRHYtQlQzbTlmcm5fNndU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-21 09:33:43",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "張嘉郡拋政見! 喊公幼免費、私幼補助1.5萬 - MSN",
         "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNEpjZzR4V1laQnZxVHdOU2lJc2Jmd0Uyck5TRm9FZ2RMNUpDbkthbEptc2hVX3g3OTlmaXN1bzBvMXhVTllUR0NXWmtEY3lxNTNIcjRZNGJaYTFCTnY4cm1scVlWa1dPcFBseHhGZXJYYVRWd09MMW56VkNSb1RCLUY3UE1KOGdfUnFJbTlKUHlPSWtaay0weF9HODRiUFhMUnNxd2RWTmdxMnN4N3gtTlZMdmVEMEZhYXV2RXZCOTk4WGhUTENpT0tHRklKWDdiTEdyRVQ3MVV0VjF6ejREeExQbXk1c0EyVUZGdlFKMVBrb1ZwZnRicFpRWko3M3F0cDVMbWl2ekpfdjZQbHlEQ3dRODJxTWMydDV0QWR2S2NwcDho?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-20 22:41:14",
@@ -1514,7 +1594,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 2
+        "count": 3
       }
     ],
     "groups": []
