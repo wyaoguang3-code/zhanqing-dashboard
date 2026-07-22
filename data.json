@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-07-22T10:48:29.079645+00:00",
+  "generated_at": "2026-07-22T11:04:03.646053+00:00",
   "metrics": {
-    "total_24h": 4,
-    "prev_24h": 9,
-    "growth_pct": -55.56,
-    "news_24h": 2,
+    "total_24h": 7,
+    "prev_24h": 8,
+    "growth_pct": -12.5,
+    "news_24h": 3,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 97,
-    "prev": 160,
-    "growth_pct": -39.38,
-    "news": 73,
+    "total": 100,
+    "prev": 157,
+    "growth_pct": -36.31,
+    "news": 74,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -27,18 +27,22 @@
   },
   "by_platform": [
     {
+      "platform": "news",
+      "count": 3
+    },
+    {
       "platform": "facebook",
       "count": 2
     },
     {
-      "platform": "news",
+      "platform": "youtube",
       "count": 2
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 73
+      "count": 74
     },
     {
       "platform": "facebook",
@@ -46,7 +50,7 @@
     },
     {
       "platform": "youtube",
-      "count": 7
+      "count": 9
     }
   ],
   "by_hour": [
@@ -61,6 +65,10 @@
     {
       "hour": "2026-07-22 12:00",
       "count": 1
+    },
+    {
+      "hour": "2026-07-22 18:00",
+      "count": 3
     }
   ],
   "by_hour_7d": [
@@ -283,19 +291,40 @@
     {
       "hour": "2026-07-22 12:00",
       "count": 1
+    },
+    {
+      "hour": "2026-07-22 18:00",
+      "count": 3
     }
   ],
   "mention_by_platform_24h": [
     {
-      "platform": "facebook",
-      "count": 2
+      "platform": "news",
+      "count": 3
     },
     {
-      "platform": "news",
+      "platform": "facebook",
       "count": 2
     }
   ],
   "mention_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "立委劉建國倡食安事件分級成立指揮中心 促全面檢討下架原則、中央全程督導問題油銷毀 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sck1JQkJHU2NUZ0JyaWRIOHZmeFlBVWtuRlBhREJKMGl3NkJlQU1jSFhHbTdVY2NvM0dkOUprdGo2b2lMVkhNMnJYN2ZybG1McXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-22 18:37:00"
+      },
+      {
+        "title": "劉建國建議嚴查沙拉油流向及加強檢驗制度 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrQUVNQ0pxdGtfTHU3RmtVMlMwQXZ0bjZlQzdBUnF0UUgzeURuY1V0Wko2VlU2QndRcmtWWEVkQkN2VVF0N2J5T0ZrdGhwOFQtZ0RzYXZfZnFXSUJhUUVyQkRNNHc2Zm9K?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-22 03:45:15"
+      },
+      {
+        "title": "劉建國邀農村水保署實地會勘 爭取農村建設帶動雲林社區發展 - 三星傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0bFJCN3BQckNibWZPQkJJaXZYYkZHc1BUREdWWkxJQ2RCZG5QY0ZMRzNtNXRoams3NjdsUlB6cFREZm5BQ0prM0VMRDFHSTAtdmdNaENFYjBrVHZzUGZOX1Vn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-21 21:01:57"
+      }
+    ],
     "facebook": [
       {
         "title": "#傳承雲林精神 #讓台灣民俗代代相傳 延續181年的國家重要民俗「#口湖牽水狀 （𰹬）」，不僅是祭祀在1845年水患中罹難的數千名雲林先民，更是提醒著我們後人，心存善念、敬畏天地🙏 嘉郡去年跟丁學忠委員也一起體驗 #挑飯擔，感受在地鄉親的活潑熱情，這就是我們可 - facebook.com",
@@ -306,32 +335,37 @@
         "title": "雲林縣政府. . 7/21下午褒忠鄉太湖社區活動中心舉辦啟用典禮，由縣長張麗善、立委張嘉郡、社會處長林文志、議員王鈺齊、黃美瑤、褒忠鄉長陳建名與太湖社區發展協會理事長曾朝和等共同揭牌、巡禮，並歡欣進行青銀共創-手做搓湯圓活動，社區老老少少一同歡慶「入 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMilAhBVV95cUxQWW5EQ1lsejgwUHZ5VXZYSS0tR2x6ZFZ0OVMydllyOEVIZ19pT1dhYW9uNXRHbG84MWRKY2Ixa242ZjJrU0VXY1d0ZjlGVVFsQ1pjQVdLUXRJc243eENZdURGdTY5bGpWc2N5ZDg5dnNJVGtnaFJIVlVFUUE2TC04SjVxNFJLcHotTEVyUTFyaHNKR1hwck42R0tMblVqV3ZXcGdaQ1FhamNwanBHT3NYSlBMTENBLWxhWmpTQm84a2UzRlN0ZlJiY1VxRUs3U3FuWGhtYXo5dWZLSzJDOTdyZ1Ixamx6TWVZWHc2QnY1a2JhaW1meFhWT2hqSUo4ZzBTa0laaGZzeDlQY3oybmF5cGRjQlM1dndpOFJrUXA1RHgtLW90RU9KYzVzNHpPdU5tY3BwcWJSSjAyYmltamZ5UXU5ZXJsUG9pZ01vMHdzbmdkdjh6MnBocFdISHhhX0pCZ1FmVEoxaFFOLTNvNlJCb09wX2NMYVZubDRwOGd6cmVqYW5Ha19RRnV2VFhHa2NPZERtajM1bVF3WVZKLXF4R0tPa1dwaGxTM1Z3eTMyeEpoNlpwSldxR052UDc3MHdMaVJsQUtKRGlYaGdvdDFNMTlySzBWV2xaMHhRY3ZvTFk3S2FRN1FKV1prOUFlZDVFNXFyRmZVclhNazNyYzdEYVlTdXM5QTFCZjJfLXFkelIxTEdodEd2NE1FclFRVnBtM2h3Z0V5X2FhRmp1TDlVbmxtczZXUklmOTh4UG5jMGZnV3ZZSWVHQVFjYlVkQ0o3cDNSdzhzcFc0bTV3U0w0cWpQc05HQ0w0V25rZlpwcjFHeWw5SEpKUlA3VHRJejNfVXdqbWJhcTVQY1RoRG85WHFiTjhMZDVFQTM1eDZXWVBwaVNtNGxhTFlGakRONFppcFBlYnI4S1M0R2hJekNEQUt3ZjdKODlZYU92djFrdTFNVGdrczdKVW9CajBPUHp5aHhsUWtyOWd2MnJabHNwT21LN0h2Z1NIblFNRkVZaTJZLS1faklaTmVaZjhMa3ljTzYtZ2VJcWZObDl6aVhjLUYyUXYzcERtQV9QS2F0SHhJMGU5SVAzaDh3c2R3cHFtcWNhQlJ1Y0t5V2VoMTVDOUpObUljbDVBbDZXMmNXNUJBNGl0c1VIY2tLcmhCN1lFX29kWVMzN3BMaUl6VGQ0ME5BT25KSEZfU2k1dW1taEF6eVh6dF9sbFgwTjN3QThmU0xqbFVXR29LRkREV0JYMUd3eFlGZVFGZG5ZQ1lQd0tJdWpqa2hDd1hsZDkxNTZSNFNkRDNjSzlJTHZqNlpWZXA0STM4emIwT1diWnJVaFdTeGhTdlloU2NuWXZxRzBYeFdaUkdKazJ6QzN3TkVMYmpWdDI",
         "time": "2026-07-21 21:00:24"
-      }
-    ],
-    "news": [
-      {
-        "title": "劉建國建議嚴查沙拉油流向及加強檢驗制度 - 元丰傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrQUVNQ0pxdGtfTHU3RmtVMlMwQXZ0bjZlQzdBUnF0UUgzeURuY1V0Wko2VlU2QndRcmtWWEVkQkN2VVF0N2J5T0ZrdGhwOFQtZ0RzYXZfZnFXSUJhUUVyQkRNNHc2Zm9K?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-22 03:45:15"
-      },
-      {
-        "title": "劉建國邀農村水保署實地會勘 爭取農村建設帶動雲林社區發展 - 三星傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0bFJCN3BQckNibWZPQkJJaXZYYkZHc1BUREdWWkxJQ2RCZG5QY0ZMRzNtNXRoams3NjdsUlB6cFREZm5BQ0prM0VMRDFHSTAtdmdNaENFYjBrVHZzUGZOX1Vn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-21 21:01:57"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
-      "platform": "facebook",
-      "count": 2
+      "platform": "news",
+      "count": 3
     },
     {
-      "platform": "news",
+      "platform": "facebook",
       "count": 2
     }
   ],
   "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "立委劉建國倡食安事件分級成立指揮中心 促全面檢討下架原則、中央全程督導問題油銷毀 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sck1JQkJHU2NUZ0JyaWRIOHZmeFlBVWtuRlBhREJKMGl3NkJlQU1jSFhHbTdVY2NvM0dkOUprdGo2b2lMVkhNMnJYN2ZybG1McXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-22 18:37:00"
+      },
+      {
+        "title": "劉建國建議嚴查沙拉油流向及加強檢驗制度 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrQUVNQ0pxdGtfTHU3RmtVMlMwQXZ0bjZlQzdBUnF0UUgzeURuY1V0Wko2VlU2QndRcmtWWEVkQkN2VVF0N2J5T0ZrdGhwOFQtZ0RzYXZfZnFXSUJhUUVyQkRNNHc2Zm9K?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-22 03:45:15"
+      },
+      {
+        "title": "劉建國邀農村水保署實地會勘 爭取農村建設帶動雲林社區發展 - 三星傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0bFJCN3BQckNibWZPQkJJaXZYYkZHc1BUREdWWkxJQ2RCZG5QY0ZMRzNtNXRoams3NjdsUlB6cFREZm5BQ0prM0VMRDFHSTAtdmdNaENFYjBrVHZzUGZOX1Vn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-21 21:01:57"
+      }
+    ],
     "facebook": [
       {
         "title": "#傳承雲林精神 #讓台灣民俗代代相傳 延續181年的國家重要民俗「#口湖牽水狀 （𰹬）」，不僅是祭祀在1845年水患中罹難的數千名雲林先民，更是提醒著我們後人，心存善念、敬畏天地🙏 嘉郡去年跟丁學忠委員也一起體驗 #挑飯擔，感受在地鄉親的活潑熱情，這就是我們可 - facebook.com",
@@ -343,29 +377,22 @@
         "url": "https://news.google.com/rss/articles/CBMilAhBVV95cUxQWW5EQ1lsejgwUHZ5VXZYSS0tR2x6ZFZ0OVMydllyOEVIZ19pT1dhYW9uNXRHbG84MWRKY2Ixa242ZjJrU0VXY1d0ZjlGVVFsQ1pjQVdLUXRJc243eENZdURGdTY5bGpWc2N5ZDg5dnNJVGtnaFJIVlVFUUE2TC04SjVxNFJLcHotTEVyUTFyaHNKR1hwck42R0tMblVqV3ZXcGdaQ1FhamNwanBHT3NYSlBMTENBLWxhWmpTQm84a2UzRlN0ZlJiY1VxRUs3U3FuWGhtYXo5dWZLSzJDOTdyZ1Ixamx6TWVZWHc2QnY1a2JhaW1meFhWT2hqSUo4ZzBTa0laaGZzeDlQY3oybmF5cGRjQlM1dndpOFJrUXA1RHgtLW90RU9KYzVzNHpPdU5tY3BwcWJSSjAyYmltamZ5UXU5ZXJsUG9pZ01vMHdzbmdkdjh6MnBocFdISHhhX0pCZ1FmVEoxaFFOLTNvNlJCb09wX2NMYVZubDRwOGd6cmVqYW5Ha19RRnV2VFhHa2NPZERtajM1bVF3WVZKLXF4R0tPa1dwaGxTM1Z3eTMyeEpoNlpwSldxR052UDc3MHdMaVJsQUtKRGlYaGdvdDFNMTlySzBWV2xaMHhRY3ZvTFk3S2FRN1FKV1prOUFlZDVFNXFyRmZVclhNazNyYzdEYVlTdXM5QTFCZjJfLXFkelIxTEdodEd2NE1FclFRVnBtM2h3Z0V5X2FhRmp1TDlVbmxtczZXUklmOTh4UG5jMGZnV3ZZSWVHQVFjYlVkQ0o3cDNSdzhzcFc0bTV3U0w0cWpQc05HQ0w0V25rZlpwcjFHeWw5SEpKUlA3VHRJejNfVXdqbWJhcTVQY1RoRG85WHFiTjhMZDVFQTM1eDZXWVBwaVNtNGxhTFlGakRONFppcFBlYnI4S1M0R2hJekNEQUt3ZjdKODlZYU92djFrdTFNVGdrczdKVW9CajBPUHp5aHhsUWtyOWd2MnJabHNwT21LN0h2Z1NIblFNRkVZaTJZLS1faklaTmVaZjhMa3ljTzYtZ2VJcWZObDl6aVhjLUYyUXYzcERtQV9QS2F0SHhJMGU5SVAzaDh3c2R3cHFtcWNhQlJ1Y0t5V2VoMTVDOUpObUljbDVBbDZXMmNXNUJBNGl0c1VIY2tLcmhCN1lFX29kWVMzN3BMaUl6VGQ0ME5BT25KSEZfU2k1dW1taEF6eVh6dF9sbFgwTjN3QThmU0xqbFVXR29LRkREV0JYMUd3eFlGZVFGZG5ZQ1lQd0tJdWpqa2hDd1hsZDkxNTZSNFNkRDNjSzlJTHZqNlpWZXA0STM4emIwT1diWnJVaFdTeGhTdlloU2NuWXZxRzBYeFdaUkdKazJ6QzN3TkVMYmpWdDI",
         "time": "2026-07-21 21:00:24"
       }
-    ],
-    "news": [
-      {
-        "title": "劉建國建議嚴查沙拉油流向及加強檢驗制度 - 元丰傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrQUVNQ0pxdGtfTHU3RmtVMlMwQXZ0bjZlQzdBUnF0UUgzeURuY1V0Wko2VlU2QndRcmtWWEVkQkN2VVF0N2J5T0ZrdGhwOFQtZ0RzYXZfZnFXSUJhUUVyQkRNNHc2Zm9K?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-22 03:45:15"
-      },
-      {
-        "title": "劉建國邀農村水保署實地會勘 爭取農村建設帶動雲林社區發展 - 三星傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0bFJCN3BQckNibWZPQkJJaXZYYkZHc1BUREdWWkxJQ2RCZG5QY0ZMRzNtNXRoams3NjdsUlB6cFREZm5BQ0prM0VMRDFHSTAtdmdNaENFYjBrVHZzUGZOX1Vn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-21 21:01:57"
-      }
     ]
   },
   "mention_compare_24h": {
     "張嘉郡": 2,
-    "劉建國": 2
+    "劉建國": 3
   },
   "mention_compare_7d": {
     "張嘉郡": 20,
-    "劉建國": 61
+    "劉建國": 62
   },
   "top_news": [
+    {
+      "title": "立委劉建國倡食安事件分級成立指揮中心 促全面檢討下架原則、中央全程督導問題油銷毀 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sck1JQkJHU2NUZ0JyaWRIOHZmeFlBVWtuRlBhREJKMGl3NkJlQU1jSFhHbTdVY2NvM0dkOUprdGo2b2lMVkhNMnJYN2ZybG1McXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-22 18:37:00"
+    },
     {
       "title": "劉建國建議嚴查沙拉油流向及加強檢驗制度 - 元丰傳媒",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrQUVNQ0pxdGtfTHU3RmtVMlMwQXZ0bjZlQzdBUnF0UUgzeURuY1V0Wko2VlU2QndRcmtWWEVkQkN2VVF0N2J5T0ZrdGhwOFQtZ0RzYXZfZnFXSUJhUUVyQkRNNHc2Zm9K?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -378,6 +405,11 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "立委劉建國倡食安事件分級成立指揮中心 促全面檢討下架原則、中央全程督導問題油銷毀 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sck1JQkJHU2NUZ0JyaWRIOHZmeFlBVWtuRlBhREJKMGl3NkJlQU1jSFhHbTdVY2NvM0dkOUprdGo2b2lMVkhNMnJYN2ZybG1McXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-22 18:37:00"
+    },
     {
       "title": "劉建國建議嚴查沙拉油流向及加強檢驗制度 - 元丰傳媒",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrQUVNQ0pxdGtfTHU3RmtVMlMwQXZ0bjZlQzdBUnF0UUgzeURuY1V0Wko2VlU2QndRcmtWWEVkQkN2VVF0N2J5T0ZrdGhwOFQtZ0RzYXZfZnFXSUJhUUVyQkRNNHc2Zm9K?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -472,11 +504,6 @@
       "title": "玩心不老慢遊剛好 劉建國推動高齡健康生活打造幸福晚年 | 觀傳媒 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1NVdMN0ZlenQ4LVZubWpwTG1hWnVLOU1obzZLck03Q2w0Ny14d1FLdEVWNk9fSENoOVhGRWNiYWN4QUNNdk1JdjBVSmhMYnp1T0JLY1dn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-18 19:20:56"
-    },
-    {
-      "title": "玩心不老慢遊剛好 劉建國推動高齡健康生活打造幸福晚年 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPNEhHWnByUzFoYjV2eEZtSDRTeFhiLVRUVE8tcWZSQjJhSW5PWFA2MGxjZ19UbzZUN011dGZBRnQ1Ym16VzNrNURoQ3FEUlBEeUdZUkt3eU45c2RBNXNpWktrZzFEQ2pldVZnSGNKSXVIb2MwLU5MdnpZcW5yeV9MS2Nxd196anVfOEM2ZXF4TkdpU1F5bkwxbF9TQzFodU1Pc0M3emtoVnlIUlQ0MXhKbWpwVjE1Q3FyM1BieHBsRDY1VjlobnpyM2tRSUMxcDhpcEVSX1JyREVNMmJXcllDa2JHc0RDNG1TZGdzcVoyZ0FXNWtQVGdiczVPS3c2V3gwTGNuOFpRaWtiLWNNZmgxOTZBU2Rfa1FOZE9qVTVnU2ZuYXI5UFozdGVJQ3BLX2VGWm1PeVA3WVNDN2tLeGR6TEpnTm81XzRNSktZWWI3VFBhY2VoZTNWTlFTTEZpYVVhNHZWQkN0b2VsWV9BdDdVNFVGelFFczl6OEdDellDM0g?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-18 18:24:04"
     }
   ],
   "latest_facebook_20": [
@@ -583,6 +610,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "立委劉建國倡食安事件分級成立指揮中心 促全面檢討下架原則、中央全程督導問題油銷毀 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sck1JQkJHU2NUZ0JyaWRIOHZmeFlBVWtuRlBhREJKMGl3NkJlQU1jSFhHbTdVY2NvM0dkOUprdGo2b2lMVkhNMnJYN2ZybG1McXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-22 18:37:00"
+    },
+    {
       "title": "劉建國建議嚴查沙拉油流向及加強檢驗制度 - 元丰傳媒",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrQUVNQ0pxdGtfTHU3RmtVMlMwQXZ0bjZlQzdBUnF0UUgzeURuY1V0Wko2VlU2QndRcmtWWEVkQkN2VVF0N2J5T0ZrdGhwOFQtZ0RzYXZfZnFXSUJhUUVyQkRNNHc2Zm9K?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-22 03:45:15"
@@ -676,11 +708,6 @@
       "title": "玩心不老慢遊剛好 劉建國推動高齡健康生活打造幸福晚年 | 觀傳媒 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1NVdMN0ZlenQ4LVZubWpwTG1hWnVLOU1obzZLck03Q2w0Ny14d1FLdEVWNk9fSENoOVhGRWNiYWN4QUNNdk1JdjBVSmhMYnp1T0JLY1dn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-18 19:20:56"
-    },
-    {
-      "title": "玩心不老慢遊剛好 劉建國推動高齡健康生活打造幸福晚年 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPNEhHWnByUzFoYjV2eEZtSDRTeFhiLVRUVE8tcWZSQjJhSW5PWFA2MGxjZ19UbzZUN011dGZBRnQ1Ym16VzNrNURoQ3FEUlBEeUdZUkt3eU45c2RBNXNpWktrZzFEQ2pldVZnSGNKSXVIb2MwLU5MdnpZcW5yeV9MS2Nxd196anVfOEM2ZXF4TkdpU1F5bkwxbF9TQzFodU1Pc0M3emtoVnlIUlQ0MXhKbWpwVjE1Q3FyM1BieHBsRDY1VjlobnpyM2tRSUMxcDhpcEVSX1JyREVNMmJXcllDa2JHc0RDNG1TZGdzcVoyZ0FXNWtQVGdiczVPS3c2V3gwTGNuOFpRaWtiLWNNZmgxOTZBU2Rfa1FOZE9qVTVnU2ZuYXI5UFozdGVJQ3BLX2VGWm1PeVA3WVNDN2tLeGR6TEpnTm81XzRNSktZWWI3VFBhY2VoZTNWTlFTTEZpYVVhNHZWQkN0b2VsWV9BdDdVNFVGelFFczl6OEdDellDM0g?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-18 18:24:04"
     }
   ],
   "person_sections": {
@@ -995,6 +1022,11 @@
       ],
       "news": [
         {
+          "title": "立委劉建國倡食安事件分級成立指揮中心 促全面檢討下架原則、中央全程督導問題油銷毀 - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sck1JQkJHU2NUZ0JyaWRIOHZmeFlBVWtuRlBhREJKMGl3NkJlQU1jSFhHbTdVY2NvM0dkOUprdGo2b2lMVkhNMnJYN2ZybG1McXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-22 18:37:00"
+        },
+        {
           "title": "劉建國建議嚴查沙拉油流向及加強檢驗制度 - 元丰傳媒",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrQUVNQ0pxdGtfTHU3RmtVMlMwQXZ0bjZlQzdBUnF0UUgzeURuY1V0Wko2VlU2QndRcmtWWEVkQkN2VVF0N2J5T0ZrdGhwOFQtZ0RzYXZfZnFXSUJhUUVyQkRNNHc2Zm9K?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-22 03:45:15"
@@ -1088,16 +1120,28 @@
           "title": "玩心不老科普研討會 劉建國：鼓勵長輩健康老化 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQU2tQQk44azRKcnNaSnMtN25ORl9fdHQxODV6SjFFOUpFYmg4LXVvc2F1RW9PaWxRREhhNjlFQ0dydFAteEIzTHpTUzVxWTJCekxXRkNYNVhDU253Wm9yNUZSMU9fNzVLeXhEa2pteHZvbzBGajVJN1ZDOHMwMTRLYmRreG0ybV8zeDNnS2NiNHJ4Y0stdHg1NmVrd1dxM1VJaGZ0OEFjbTBFQU1fRzFBVkhnZlE5S1JlN2NkR2JjOXFRZ1k0UGV0ZGhZakZyVWNIRGdKblk2cThOSGRVSktfZ3Zhc1JSWWZHb2czanVQLTU1NllYRUNvdUpZUWF6Vko2MU9hVVVUdE1VcUl2bTJCSzJNcHhUNF8zdjJ5T2Vqc0tiSEQ0ZFF0bEVmckJBVHlmUmNMRHB0SVpjLWhYWVJOb251LTBNUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-18 17:26:37"
-        },
-        {
-          "title": "「玩心不老，慢遊剛好」高齡生活劉建國打造健康老化新典範讓長輩玩得開心、老得精彩| 中華日報 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PYnZ1WnlmcTl1aXMtbTBFclpyVjY0a28wU0loelFpZFpNdlZuU2k0ZEdDUG9iNURRbVJjN0VFQjJSUG56N20xZ2RPQ2JQQzJmNFBDMlVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-18 15:48:21"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "立委劉建國倡食安事件分級成立指揮中心 促全面檢討下架原則、中央全程督導問題油銷毀 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sck1JQkJHU2NUZ0JyaWRIOHZmeFlBVWtuRlBhREJKMGl3NkJlQU1jSFhHbTdVY2NvM0dkOUprdGo2b2lMVkhNMnJYN2ZybG1McXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-22 18:37:00"
+      },
+      {
+        "title": "劉建國建議嚴查沙拉油流向及加強檢驗制度 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrQUVNQ0pxdGtfTHU3RmtVMlMwQXZ0bjZlQzdBUnF0UUgzeURuY1V0Wko2VlU2QndRcmtWWEVkQkN2VVF0N2J5T0ZrdGhwOFQtZ0RzYXZfZnFXSUJhUUVyQkRNNHc2Zm9K?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-22 03:45:15"
+      },
+      {
+        "title": "劉建國邀農村水保署實地會勘 爭取農村建設帶動雲林社區發展 - 三星傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0bFJCN3BQckNibWZPQkJJaXZYYkZHc1BUREdWWkxJQ2RCZG5QY0ZMRzNtNXRoams3NjdsUlB6cFREZm5BQ0prM0VMRDFHSTAtdmdNaENFYjBrVHZzUGZOX1Vn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-21 21:01:57"
+      }
+    ],
     "facebook": [
       {
         "title": "#傳承雲林精神 #讓台灣民俗代代相傳 延續181年的國家重要民俗「#口湖牽水狀 （𰹬）」，不僅是祭祀在1845年水患中罹難的數千名雲林先民，更是提醒著我們後人，心存善念、敬畏天地🙏 嘉郡去年跟丁學忠委員也一起體驗 #挑飯擔，感受在地鄉親的活潑熱情，這就是我們可 - facebook.com",
@@ -1110,21 +1154,26 @@
         "time": "2026-07-21 21:00:24"
       }
     ],
-    "news": [
+    "youtube": [
       {
-        "title": "劉建國建議嚴查沙拉油流向及加強檢驗制度 - 元丰傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrQUVNQ0pxdGtfTHU3RmtVMlMwQXZ0bjZlQzdBUnF0UUgzeURuY1V0Wko2VlU2QndRcmtWWEVkQkN2VVF0N2J5T0ZrdGhwOFQtZ0RzYXZfZnFXSUJhUUVyQkRNNHc2Zm9K?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-22 03:45:15"
+        "title": "操弄訊息救不了食安！人民要的是合作 ，不是對抗！",
+        "url": "https://www.youtube.com/shorts/iazCRZRL5uY",
+        "time": "2026-07-22 18:43:28"
       },
       {
-        "title": "劉建國邀農村水保署實地會勘 爭取農村建設帶動雲林社區發展 - 三星傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0bFJCN3BQckNibWZPQkJJaXZYYkZHc1BUREdWWkxJQ2RCZG5QY0ZMRzNtNXRoams3NjdsUlB6cFREZm5BQ0prM0VMRDFHSTAtdmdNaENFYjBrVHZzUGZOX1Vn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-21 21:01:57"
+        "title": "藍白想讓所有監察院的公務員「有薪水但沒工作」？！",
+        "url": "https://www.youtube.com/shorts/ptxRMokg_OI",
+        "time": "2026-07-22 18:41:49"
       }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "立委劉建國倡食安事件分級成立指揮中心 促全面檢討下架原則、中央全程督導問題油銷毀 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sck1JQkJHU2NUZ0JyaWRIOHZmeFlBVWtuRlBhREJKMGl3NkJlQU1jSFhHbTdVY2NvM0dkOUprdGo2b2lMVkhNMnJYN2ZybG1McXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-22 18:37:00"
+      },
       {
         "title": "劉建國建議嚴查沙拉油流向及加強檢驗制度 - 元丰傳媒",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrQUVNQ0pxdGtfTHU3RmtVMlMwQXZ0bjZlQzdBUnF0UUgzeURuY1V0Wko2VlU2QndRcmtWWEVkQkN2VVF0N2J5T0ZrdGhwOFQtZ0RzYXZfZnFXSUJhUUVyQkRNNHc2Zm9K?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1319,11 +1368,6 @@
         "title": "廣角鏡／雲林虎尾建國眷村 首次挖到二戰陶手榴彈 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HaW1XbnJHTFRFaEJaSGRsVUk3eFdDZWlyT0dsTmdaT3pmQl9wdEFtT0F5QUR4ekVGWC03QVhRWUlPRHJxMmprWUxuSkJhWEZHQWtab1lB0gFWQVVfeXFMTkdpbVduckdMVEVoQlpIZGxVSTd4V0NlaXJPR2xOZ1pPemZCX3B0QW1PQXlBRHh6RUZYLTdBWFFZSU9EcnEyamtZTG5KQmFYRkdBa1pvWUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-17 00:00:00"
-      },
-      {
-        "title": "廣角鏡／雲林虎尾建國眷村首次挖到二戰陶手榴彈| 雲嘉南| 地方 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EeHdPME9Bc2NRR25rd3FCcnMyV09aN05GazZ2S1ZrNDFrTnBHQk0tTm1hSGRNNkZ6UWhUaDNjSzNvX3k1WG5tbVhiRWNjYlFKLVVjUUJKUm16UHo3bldscWZ4QWYzbldyUnNqNUU4QTVKU0k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-17 00:00:00"
       }
     ],
     "facebook": [
@@ -1415,6 +1459,16 @@
     ],
     "youtube": [
       {
+        "title": "操弄訊息救不了食安！人民要的是合作 ，不是對抗！",
+        "url": "https://www.youtube.com/shorts/iazCRZRL5uY",
+        "time": "2026-07-22 18:43:28"
+      },
+      {
+        "title": "藍白想讓所有監察院的公務員「有薪水但沒工作」？！",
+        "url": "https://www.youtube.com/shorts/ptxRMokg_OI",
+        "time": "2026-07-22 18:41:49"
+      },
+      {
         "title": "史板明夫、蕭美琴和IPAC國會議員都遇到過的同一種威脅",
         "url": "https://www.youtube.com/shorts/0SHDhKYO2EM",
         "time": "2026-07-21 18:40:59"
@@ -1455,6 +1509,27 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "操弄訊息救不了食安！人民要的是合作 ，不是對抗！",
+        "url": "https://www.youtube.com/shorts/iazCRZRL5uY",
+        "time": "2026-07-22 18:43:28",
+        "platform": "youtube",
+        "risk": "綠"
+      },
+      {
+        "title": "藍白想讓所有監察院的公務員「有薪水但沒工作」？！",
+        "url": "https://www.youtube.com/shorts/ptxRMokg_OI",
+        "time": "2026-07-22 18:41:49",
+        "platform": "youtube",
+        "risk": "綠"
+      },
+      {
+        "title": "立委劉建國倡食安事件分級成立指揮中心 促全面檢討下架原則、中央全程督導問題油銷毀 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sck1JQkJHU2NUZ0JyaWRIOHZmeFlBVWtuRlBhREJKMGl3NkJlQU1jSFhHbTdVY2NvM0dkOUprdGo2b2lMVkhNMnJYN2ZybG1McXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-22 18:37:00",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "#傳承雲林精神 #讓台灣民俗代代相傳 延續181年的國家重要民俗「#口湖牽水狀 （𰹬）」，不僅是祭祀在1845年水患中罹難的數千名雲林先民，更是提醒著我們後人，心存善念、敬畏天地🙏 嘉郡去年跟丁學忠委員也一起體驗 #挑飯擔，感受在地鄉親的活潑熱情，這就是我們可 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxNU0FKM1VKdk1jWlFCN1p6azBvdmw4b2pTcjIwN2h2YWkxa1V5Rk0zMGplQm03ZkdnODZlcGxEQWxzd1FLSkRDNVA4cm1HbHV3Z3FlWU9RZFEwY2JhbndGTVgzRDhOdUs4ZlE1a2VVdTBUdzlWYzFNMjZkWlVQel8zeTNvc3JnV2NmS19DZ2M3cmhwdjVJWlZkZjZ6Z1VYb0RsemxrMFhVZlV4RlFkTzUzbU5aSmE5LXR2Z19KaTY0MTRSTml4ZFNXQVktb2JPeDFwZXpzR1RUWEJYYk1FOUZobGpkekNMa2IzcVRkTDlROFB6Y21GMHRRSjNhSzZrMWxCY1J5b2dCcGJBR1BHekM5a3g3eGgzTktibUpSSGExRU0wX3VDZ0hodUJQQzNqb3RBUy1uaDA2NFZHQnhXd3g1S3ZjbGFvVGxvV2tRX2o0OUxkd1NSbHVJYlpsQjdyUm1ranNDSGdfd3ZXLVJQWEZjVml5QnpPMlhVdDg3OEo1Rl9HenY4bzlHdVFCekJDVzB2eENxVmFxaF9RVVFYdGUxdi1TZU5FZnFCNzJld3Jyc3ZHT1MwRFpzQWtZU0RXdWIzQVZUZXRlUWFZNC1fcTRLeHVBakVhRG96YmZZTG84TEowaG1aMFlPRkNiUlh2ZUFfNUpTOGtHbm1FWnpELTg2RkIwQjJaa3ZITnhKQkV0SDd6SE03ZnlPV1pYRWZmTlA2c3lyc2xjNmVrODl2Y3hBdjFqR2V6bl9OTWFaTzUtVUlpSk0zV2RPV21QWF9JY285T3Z6VVJOX3NQa2NxQlE2Ri0waGhoeW1HS3phMWRTOVhiVElYbWxpbHI2ZFA1MnlOdjVBOHVaWEFZY3VYM0hPVkJvR0d3MUNLZmZac1RBdEw4WDdlbFV4ODFGMWJZRnUxeG0zSURQTDRaVWlZd0NrTGxtVWM2Z2d4ZXRIYWRLUE5nUk9pVTFCQ3pGMUJxUWRncXdNZHB5bFl5U19pbWpNc1RXb0s1Y2l5M0NzaXlkQlNPRFFELXczRXY5cFRvUDNFdURUb04ybzI4RlYtaEFaQTF4VEVqT3NXRERWTlFWUElxYTJUSnlFS0ZRd2ZNeEVFbXlCZ09WRVNxNlIzbnF3czA1ZTBOa3hmaWRIcXFCRzF3aVZfNkhta2VSdnJLdWpOUnVscERrQzhxS2Jvd2YwRGZqWE1wYXljMTFuVGFCSkd2OFNtMW9MRFBidUhISmNhSXQ4V0p1NzhydVQyZVlfU3RGR2dvd0U1YU9CWTZpWnItOHJYSW1WSHB1Z3VibERhdUloSDVqSm4xdw",
