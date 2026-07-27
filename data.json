@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-07-27T05:38:11.161945+00:00",
+  "generated_at": "2026-07-27T05:54:10.741965+00:00",
   "metrics": {
-    "total_24h": 1,
+    "total_24h": 3,
     "prev_24h": 5,
-    "growth_pct": -80.0,
-    "news_24h": 0,
+    "growth_pct": -40.0,
+    "news_24h": 2,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 113,
-    "prev": 125,
-    "growth_pct": -9.6,
-    "news": 79,
+    "total": 115,
+    "prev": 124,
+    "growth_pct": -7.26,
+    "news": 81,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -27,6 +27,10 @@
   },
   "by_platform": [
     {
+      "platform": "news",
+      "count": 2
+    },
+    {
       "platform": "facebook",
       "count": 1
     }
@@ -34,7 +38,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 79
+      "count": 81
     },
     {
       "platform": "facebook",
@@ -49,6 +53,10 @@
     {
       "hour": "2026-07-27 09:00",
       "count": 1
+    },
+    {
+      "hour": "2026-07-27 12:00",
+      "count": 2
     }
   ],
   "by_hour_7d": [
@@ -251,15 +259,35 @@
     {
       "hour": "2026-07-27 09:00",
       "count": 1
+    },
+    {
+      "hour": "2026-07-27 12:00",
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 2
+    },
     {
       "platform": "facebook",
       "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "請益陳其邁活化港區經驗！ 劉建國喊話：翻轉雲林幸福城市吊車尾 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPOWRWaUhMQUU1azNSZnN6X0tIV2FMS1UxZkpFVnJCQnBpOFRsemdiV01yU0czUnNQOUNQeTNISnNRVFJPX2hucHJ0QlFHU1J4azBFY2YtUTg1ZWFsYlhMUTl1RHdXQXdvWkxtWlVCOG44R2Y4UTNER1dQUnh6SFowSndqd1VpYWpGdFZnYWZDSTZFNXVpdG00YUxVOW1pUGc4eDlQY0FHMzF3dW1OT2dvVi1xNFNNVE1LV3V3c0pmdkpRYjc1di1iVnN0Z3F5X0M1d0RQQ1FPS096aHZXbkdUX2M2NGs1TFpKV056WURmcjY5SG5zUDc5VkRQUW1YSU5acWhxVWlzM3FhdWFTVzhYLXVpUFJ5dXpJSjJXVmFQdDl4WFZJV05VY1BFYkUtNDctenRlWXRxZm9pajRoODRWX2FTZlhVVndmLXFFUk0xaHlWVldHYVZTOVBHMGVPT1FMYlVCR0VjWHhOakpZeTN6cjNqWGlTWmhXTlNDQWIzb1BKdzVXa1NESGNuQ0FRWUFKNG1XeDFubDdKUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-27 12:34:52"
+      },
+      {
+        "title": "請益陳其邁活化港區經驗！ 劉建國喊話：翻轉雲林幸福城市吊車尾 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhV0hmdWxnX0lYUDFUZHlfNlRSMDE3ZUpmem5aWTZDNTdiRzV5LU5MSUV6Zl92bS1idkV6Z2tKb0dPUnExTUNtdGlfNmJtVWk0TFJqejZUNzRkLTUyX1JoaTg2VXlNcG1ubEZkQ1Jn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-27 12:00:42"
+      }
+    ],
     "facebook": [
       {
         "title": "承擔！努力！為雲林爭一口氣！ 今年民進黨全代會，建國從 賴清德 主席手中，接下代表參選2026雲林縣長的戰旗。 這是一份沉甸甸的責任，也是鄉親一路支持與栽培所託付的使命。 建國從政的初衷，就是為了改變家鄉，打造一個青年放心打拚、長輩安心生活、孩子看得 - facebook.com",
@@ -270,11 +298,27 @@
   },
   "alias_by_platform_24h": [
     {
+      "platform": "news",
+      "count": 2
+    },
+    {
       "platform": "facebook",
       "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "請益陳其邁活化港區經驗！ 劉建國喊話：翻轉雲林幸福城市吊車尾 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPOWRWaUhMQUU1azNSZnN6X0tIV2FMS1UxZkpFVnJCQnBpOFRsemdiV01yU0czUnNQOUNQeTNISnNRVFJPX2hucHJ0QlFHU1J4azBFY2YtUTg1ZWFsYlhMUTl1RHdXQXdvWkxtWlVCOG44R2Y4UTNER1dQUnh6SFowSndqd1VpYWpGdFZnYWZDSTZFNXVpdG00YUxVOW1pUGc4eDlQY0FHMzF3dW1OT2dvVi1xNFNNVE1LV3V3c0pmdkpRYjc1di1iVnN0Z3F5X0M1d0RQQ1FPS096aHZXbkdUX2M2NGs1TFpKV056WURmcjY5SG5zUDc5VkRQUW1YSU5acWhxVWlzM3FhdWFTVzhYLXVpUFJ5dXpJSjJXVmFQdDl4WFZJV05VY1BFYkUtNDctenRlWXRxZm9pajRoODRWX2FTZlhVVndmLXFFUk0xaHlWVldHYVZTOVBHMGVPT1FMYlVCR0VjWHhOakpZeTN6cjNqWGlTWmhXTlNDQWIzb1BKdzVXa1NESGNuQ0FRWUFKNG1XeDFubDdKUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-27 12:34:52"
+      },
+      {
+        "title": "請益陳其邁活化港區經驗！ 劉建國喊話：翻轉雲林幸福城市吊車尾 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhV0hmdWxnX0lYUDFUZHlfNlRSMDE3ZUpmem5aWTZDNTdiRzV5LU5MSUV6Zl92bS1idkV6Z2tKb0dPUnExTUNtdGlfNmJtVWk0TFJqejZUNzRkLTUyX1JoaTg2VXlNcG1ubEZkQ1Jn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-27 12:00:42"
+      }
+    ],
     "facebook": [
       {
         "title": "承擔！努力！為雲林爭一口氣！ 今年民進黨全代會，建國從 賴清德 主席手中，接下代表參選2026雲林縣長的戰旗。 這是一份沉甸甸的責任，也是鄉親一路支持與栽培所託付的使命。 建國從政的初衷，就是為了改變家鄉，打造一個青年放心打拚、長輩安心生活、孩子看得 - facebook.com",
@@ -285,14 +329,35 @@
   },
   "mention_compare_24h": {
     "張嘉郡": 0,
-    "劉建國": 1
+    "劉建國": 3
   },
   "mention_compare_7d": {
     "張嘉郡": 50,
-    "劉建國": 51
+    "劉建國": 53
   },
-  "top_news": [],
+  "top_news": [
+    {
+      "title": "請益陳其邁活化港區經驗！ 劉建國喊話：翻轉雲林幸福城市吊車尾 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPOWRWaUhMQUU1azNSZnN6X0tIV2FMS1UxZkpFVnJCQnBpOFRsemdiV01yU0czUnNQOUNQeTNISnNRVFJPX2hucHJ0QlFHU1J4azBFY2YtUTg1ZWFsYlhMUTl1RHdXQXdvWkxtWlVCOG44R2Y4UTNER1dQUnh6SFowSndqd1VpYWpGdFZnYWZDSTZFNXVpdG00YUxVOW1pUGc4eDlQY0FHMzF3dW1OT2dvVi1xNFNNVE1LV3V3c0pmdkpRYjc1di1iVnN0Z3F5X0M1d0RQQ1FPS096aHZXbkdUX2M2NGs1TFpKV056WURmcjY5SG5zUDc5VkRQUW1YSU5acWhxVWlzM3FhdWFTVzhYLXVpUFJ5dXpJSjJXVmFQdDl4WFZJV05VY1BFYkUtNDctenRlWXRxZm9pajRoODRWX2FTZlhVVndmLXFFUk0xaHlWVldHYVZTOVBHMGVPT1FMYlVCR0VjWHhOakpZeTN6cjNqWGlTWmhXTlNDQWIzb1BKdzVXa1NESGNuQ0FRWUFKNG1XeDFubDdKUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-27 12:34:52"
+    },
+    {
+      "title": "請益陳其邁活化港區經驗！ 劉建國喊話：翻轉雲林幸福城市吊車尾 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhV0hmdWxnX0lYUDFUZHlfNlRSMDE3ZUpmem5aWTZDNTdiRzV5LU5MSUV6Zl92bS1idkV6Z2tKb0dPUnExTUNtdGlfNmJtVWk0TFJqejZUNzRkLTUyX1JoaTg2VXlNcG1ubEZkQ1Jn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-27 12:00:42"
+    }
+  ],
   "top_news_7d": [
+    {
+      "title": "請益陳其邁活化港區經驗！ 劉建國喊話：翻轉雲林幸福城市吊車尾 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPOWRWaUhMQUU1azNSZnN6X0tIV2FMS1UxZkpFVnJCQnBpOFRsemdiV01yU0czUnNQOUNQeTNISnNRVFJPX2hucHJ0QlFHU1J4azBFY2YtUTg1ZWFsYlhMUTl1RHdXQXdvWkxtWlVCOG44R2Y4UTNER1dQUnh6SFowSndqd1VpYWpGdFZnYWZDSTZFNXVpdG00YUxVOW1pUGc4eDlQY0FHMzF3dW1OT2dvVi1xNFNNVE1LV3V3c0pmdkpRYjc1di1iVnN0Z3F5X0M1d0RQQ1FPS096aHZXbkdUX2M2NGs1TFpKV056WURmcjY5SG5zUDc5VkRQUW1YSU5acWhxVWlzM3FhdWFTVzhYLXVpUFJ5dXpJSjJXVmFQdDl4WFZJV05VY1BFYkUtNDctenRlWXRxZm9pajRoODRWX2FTZlhVVndmLXFFUk0xaHlWVldHYVZTOVBHMGVPT1FMYlVCR0VjWHhOakpZeTN6cjNqWGlTWmhXTlNDQWIzb1BKdzVXa1NESGNuQ0FRWUFKNG1XeDFubDdKUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-27 12:34:52"
+    },
+    {
+      "title": "請益陳其邁活化港區經驗！ 劉建國喊話：翻轉雲林幸福城市吊車尾 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhV0hmdWxnX0lYUDFUZHlfNlRSMDE3ZUpmem5aWTZDNTdiRzV5LU5MSUV6Zl92bS1idkV6Z2tKb0dPUnExTUNtdGlfNmJtVWk0TFJqejZUNzRkLTUyX1JoaTg2VXlNcG1ubEZkQ1Jn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-27 12:00:42"
+    },
     {
       "title": "雲林小小消防營隊開訓科技教學佳 張嘉郡高空逃生從天而降 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lNmZxTzUzNnB4WE1mM3pIeHl0TmVJUVhndVdiV3l1LTFISHFvUzB2SHZlUEs1eGpERnptdkJQejI3aWVTMzdCMkw2MkpoU1ZQ0gFWQVVfeXFMT2NWTFdJVlBNeEpnaWpVcGQ3MUVmNmdTZVdLNWJmQnRia1ZJaGJmbGhEeWZWcTBGcjJUcGZQS0N6N25YYTJlSjdEQU9YWVBfTHhid2tGa3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -382,16 +447,6 @@
       "title": "改善室內空品！劉建國與室內環品協會提出四大修法訴求 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOWlZdThrVDNYTEFSU2ZSOGFYQkJiR1B0cFpJTnhWWHNLUmgwbUZpZkxVa2ItN2duanNHOWMwUGpJMzRBMGl2cE5UWWRaclRna3dzb2cxYVVzUnZ0SmJka2lVSWliaVNkbHVuWVRYWmtjMkEtUUh1RWZqWXBXczN4V3NiX01pNC1aQkdEdUxHcVRFdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-24 18:35:32"
-    },
-    {
-      "title": "立委劉建國邀水保署 會勘雲林六鄉鎮農路.社區營造 | 台灣生活新聞 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kT2J5TmFSLWhvZ2hhY1F5RklLcVBDejZqRXFCVUxoVV9jVFVTaWVRekd6MFY2bXg1TzY4cldrMUVBY0piRS1pd19vVHp2WTRpVEZiY1BB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-24 18:25:15"
-    },
-    {
-      "title": "立委劉建國邀水保署 會勘雲林六鄉鎮農路.社區營造 - TDN台灣生活新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmaDRXTjZ3ajJacmRHMHJWeEptbmR4Y1ctc2dad0d1OXJCQnNrVEpiWjlNNGtqVGN6TTZBeXVKaS1rYU93RHpVbEM0T3BoRzhP?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-24 17:55:37"
     }
   ],
   "latest_facebook_20": [
@@ -498,6 +553,16 @@
   ],
   "latest_news_20": [
     {
+      "title": "請益陳其邁活化港區經驗！ 劉建國喊話：翻轉雲林幸福城市吊車尾 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPOWRWaUhMQUU1azNSZnN6X0tIV2FMS1UxZkpFVnJCQnBpOFRsemdiV01yU0czUnNQOUNQeTNISnNRVFJPX2hucHJ0QlFHU1J4azBFY2YtUTg1ZWFsYlhMUTl1RHdXQXdvWkxtWlVCOG44R2Y4UTNER1dQUnh6SFowSndqd1VpYWpGdFZnYWZDSTZFNXVpdG00YUxVOW1pUGc4eDlQY0FHMzF3dW1OT2dvVi1xNFNNVE1LV3V3c0pmdkpRYjc1di1iVnN0Z3F5X0M1d0RQQ1FPS096aHZXbkdUX2M2NGs1TFpKV056WURmcjY5SG5zUDc5VkRQUW1YSU5acWhxVWlzM3FhdWFTVzhYLXVpUFJ5dXpJSjJXVmFQdDl4WFZJV05VY1BFYkUtNDctenRlWXRxZm9pajRoODRWX2FTZlhVVndmLXFFUk0xaHlWVldHYVZTOVBHMGVPT1FMYlVCR0VjWHhOakpZeTN6cjNqWGlTWmhXTlNDQWIzb1BKdzVXa1NESGNuQ0FRWUFKNG1XeDFubDdKUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-27 12:34:52"
+    },
+    {
+      "title": "請益陳其邁活化港區經驗！ 劉建國喊話：翻轉雲林幸福城市吊車尾 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhV0hmdWxnX0lYUDFUZHlfNlRSMDE3ZUpmem5aWTZDNTdiRzV5LU5MSUV6Zl92bS1idkV6Z2tKb0dPUnExTUNtdGlfNmJtVWk0TFJqejZUNzRkLTUyX1JoaTg2VXlNcG1ubEZkQ1Jn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-27 12:00:42"
+    },
+    {
       "title": "雲林小小消防營隊開訓科技教學佳 張嘉郡高空逃生從天而降 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lNmZxTzUzNnB4WE1mM3pIeHl0TmVJUVhndVdiV3l1LTFISHFvUzB2SHZlUEs1eGpERnptdkJQejI3aWVTMzdCMkw2MkpoU1ZQ0gFWQVVfeXFMT2NWTFdJVlBNeEpnaWpVcGQ3MUVmNmdTZVdLNWJmQnRia1ZJaGJmbGhEeWZWcTBGcjJUcGZQS0N6N25YYTJlSjdEQU9YWVBfTHhid2tGa3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-26 12:50:09"
@@ -586,16 +651,6 @@
       "title": "改善室內空品！劉建國與室內環品協會提出四大修法訴求 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOWlZdThrVDNYTEFSU2ZSOGFYQkJiR1B0cFpJTnhWWHNLUmgwbUZpZkxVa2ItN2duanNHOWMwUGpJMzRBMGl2cE5UWWRaclRna3dzb2cxYVVzUnZ0SmJka2lVSWliaVNkbHVuWVRYWmtjMkEtUUh1RWZqWXBXczN4V3NiX01pNC1aQkdEdUxHcVRFdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-24 18:35:32"
-    },
-    {
-      "title": "立委劉建國邀水保署 會勘雲林六鄉鎮農路.社區營造 | 台灣生活新聞 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kT2J5TmFSLWhvZ2hhY1F5RklLcVBDejZqRXFCVUxoVV9jVFVTaWVRekd6MFY2bXg1TzY4cldrMUVBY0piRS1pd19vVHp2WTRpVEZiY1BB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-24 18:25:15"
-    },
-    {
-      "title": "立委劉建國邀水保署 會勘雲林六鄉鎮農路.社區營造 - TDN台灣生活新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmaDRXTjZ3ajJacmRHMHJWeEptbmR4Y1ctc2dad0d1OXJCQnNrVEpiWjlNNGtqVGN6TTZBeXVKaS1rYU93RHpVbEM0T3BoRzhP?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-24 17:55:37"
     }
   ],
   "person_sections": {
@@ -910,6 +965,16 @@
       ],
       "news": [
         {
+          "title": "請益陳其邁活化港區經驗！ 劉建國喊話：翻轉雲林幸福城市吊車尾 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPOWRWaUhMQUU1azNSZnN6X0tIV2FMS1UxZkpFVnJCQnBpOFRsemdiV01yU0czUnNQOUNQeTNISnNRVFJPX2hucHJ0QlFHU1J4azBFY2YtUTg1ZWFsYlhMUTl1RHdXQXdvWkxtWlVCOG44R2Y4UTNER1dQUnh6SFowSndqd1VpYWpGdFZnYWZDSTZFNXVpdG00YUxVOW1pUGc4eDlQY0FHMzF3dW1OT2dvVi1xNFNNVE1LV3V3c0pmdkpRYjc1di1iVnN0Z3F5X0M1d0RQQ1FPS096aHZXbkdUX2M2NGs1TFpKV056WURmcjY5SG5zUDc5VkRQUW1YSU5acWhxVWlzM3FhdWFTVzhYLXVpUFJ5dXpJSjJXVmFQdDl4WFZJV05VY1BFYkUtNDctenRlWXRxZm9pajRoODRWX2FTZlhVVndmLXFFUk0xaHlWVldHYVZTOVBHMGVPT1FMYlVCR0VjWHhOakpZeTN6cjNqWGlTWmhXTlNDQWIzb1BKdzVXa1NESGNuQ0FRWUFKNG1XeDFubDdKUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-27 12:34:52"
+        },
+        {
+          "title": "請益陳其邁活化港區經驗！ 劉建國喊話：翻轉雲林幸福城市吊車尾 - 中時新聞網",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhV0hmdWxnX0lYUDFUZHlfNlRSMDE3ZUpmem5aWTZDNTdiRzV5LU5MSUV6Zl92bS1idkV6Z2tKb0dPUnExTUNtdGlfNmJtVWk0TFJqejZUNzRkLTUyX1JoaTg2VXlNcG1ubEZkQ1Jn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-27 12:00:42"
+        },
+        {
           "title": "中央地方攜手改善農村環境 劉建國會勘雲林六鄉鎮 爭取農路與社區建設加速推動 - 台灣新聞雲",
           "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1tSFhkbUZHWlEydEh6eWxOSno0SGx4bGlIVGN3X2sxS2ZQSXlxenNGTlNxeTNIQzlKT0x5TzlJVExaWFVaRGtN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-26 09:57:14"
@@ -998,21 +1063,23 @@
           "title": "呼吸乾淨空氣是「基本人權！ 雲林立委劉建國與台灣室內環品協會提出四大修法訴求 - 台灣華報",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4d0swdUp6eWNiY1lDeTF0OTllM0pTcnk2ekNTZFNjXzBMcTJqNDR1eDNsLUxCaGJKYnc2NlNJZU05elQxdGFON1hCMGR4ZjZyNVFVRlVKOEN4STlsV3gydm9BNFVnNndUVFc4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-24 16:53:57"
-        },
-        {
-          "title": "呼吸乾淨空氣是基本人權！劉建國與台灣室內環品協會提出四大修法訴求 - 蕃新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXMFY0SnkwdFRIa01qMV9xRGtQa082QXoxQ3ZqWktQUkIzUjZkQmRjaTZpZHFrRGl0NFVyZC1wdTRUczQtc21RRG9PX1luc1hvN1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-24 16:34:21"
-        },
-        {
-          "title": "健康室內空氣是基本人權！劉建國攜TIEQM 籲啟動「室內空氣品質管理法」2.0 - 工商時報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkd1VYeVBNcFlXUmhsd1E2dUNnN2hkVG5kZlZGemN0MHNMQ1pnV0R0RkZhM1Bleko0ZzNXcTExR3JiWEJKU1NNYV9OcHBueU9wb1JDcEVKZlBucEpCOUsw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-24 16:07:00"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "請益陳其邁活化港區經驗！ 劉建國喊話：翻轉雲林幸福城市吊車尾 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPOWRWaUhMQUU1azNSZnN6X0tIV2FMS1UxZkpFVnJCQnBpOFRsemdiV01yU0czUnNQOUNQeTNISnNRVFJPX2hucHJ0QlFHU1J4azBFY2YtUTg1ZWFsYlhMUTl1RHdXQXdvWkxtWlVCOG44R2Y4UTNER1dQUnh6SFowSndqd1VpYWpGdFZnYWZDSTZFNXVpdG00YUxVOW1pUGc4eDlQY0FHMzF3dW1OT2dvVi1xNFNNVE1LV3V3c0pmdkpRYjc1di1iVnN0Z3F5X0M1d0RQQ1FPS096aHZXbkdUX2M2NGs1TFpKV056WURmcjY5SG5zUDc5VkRQUW1YSU5acWhxVWlzM3FhdWFTVzhYLXVpUFJ5dXpJSjJXVmFQdDl4WFZJV05VY1BFYkUtNDctenRlWXRxZm9pajRoODRWX2FTZlhVVndmLXFFUk0xaHlWVldHYVZTOVBHMGVPT1FMYlVCR0VjWHhOakpZeTN6cjNqWGlTWmhXTlNDQWIzb1BKdzVXa1NESGNuQ0FRWUFKNG1XeDFubDdKUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-27 12:34:52"
+      },
+      {
+        "title": "請益陳其邁活化港區經驗！ 劉建國喊話：翻轉雲林幸福城市吊車尾 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhV0hmdWxnX0lYUDFUZHlfNlRSMDE3ZUpmem5aWTZDNTdiRzV5LU5MSUV6Zl92bS1idkV6Z2tKb0dPUnExTUNtdGlfNmJtVWk0TFJqejZUNzRkLTUyX1JoaTg2VXlNcG1ubEZkQ1Jn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-27 12:00:42"
+      }
+    ],
     "facebook": [
       {
         "title": "承擔！努力！為雲林爭一口氣！ 今年民進黨全代會，建國從 賴清德 主席手中，接下代表參選2026雲林縣長的戰旗。 這是一份沉甸甸的責任，也是鄉親一路支持與栽培所託付的使命。 建國從政的初衷，就是為了改變家鄉，打造一個青年放心打拚、長輩安心生活、孩子看得 - facebook.com",
@@ -1023,6 +1090,16 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "請益陳其邁活化港區經驗！ 劉建國喊話：翻轉雲林幸福城市吊車尾 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPOWRWaUhMQUU1azNSZnN6X0tIV2FMS1UxZkpFVnJCQnBpOFRsemdiV01yU0czUnNQOUNQeTNISnNRVFJPX2hucHJ0QlFHU1J4azBFY2YtUTg1ZWFsYlhMUTl1RHdXQXdvWkxtWlVCOG44R2Y4UTNER1dQUnh6SFowSndqd1VpYWpGdFZnYWZDSTZFNXVpdG00YUxVOW1pUGc4eDlQY0FHMzF3dW1OT2dvVi1xNFNNVE1LV3V3c0pmdkpRYjc1di1iVnN0Z3F5X0M1d0RQQ1FPS096aHZXbkdUX2M2NGs1TFpKV056WURmcjY5SG5zUDc5VkRQUW1YSU5acWhxVWlzM3FhdWFTVzhYLXVpUFJ5dXpJSjJXVmFQdDl4WFZJV05VY1BFYkUtNDctenRlWXRxZm9pajRoODRWX2FTZlhVVndmLXFFUk0xaHlWVldHYVZTOVBHMGVPT1FMYlVCR0VjWHhOakpZeTN6cjNqWGlTWmhXTlNDQWIzb1BKdzVXa1NESGNuQ0FRWUFKNG1XeDFubDdKUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-27 12:34:52"
+      },
+      {
+        "title": "請益陳其邁活化港區經驗！ 劉建國喊話：翻轉雲林幸福城市吊車尾 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhV0hmdWxnX0lYUDFUZHlfNlRSMDE3ZUpmem5aWTZDNTdiRzV5LU5MSUV6Zl92bS1idkV6Z2tKb0dPUnExTUNtdGlfNmJtVWk0TFJqejZUNzRkLTUyX1JoaTg2VXlNcG1ubEZkQ1Jn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-27 12:00:42"
+      },
       {
         "title": "雲林小小消防營隊開訓科技教學佳 張嘉郡高空逃生從天而降 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lNmZxTzUzNnB4WE1mM3pIeHl0TmVJUVhndVdiV3l1LTFISHFvUzB2SHZlUEs1eGpERnptdkJQejI3aWVTMzdCMkw2MkpoU1ZQ0gFWQVVfeXFMT2NWTFdJVlBNeEpnaWpVcGQ3MUVmNmdTZVdLNWJmQnRia1ZJaGJmbGhEeWZWcTBGcjJUcGZQS0N6N25YYTJlSjdEQU9YWVBfTHhid2tGa3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1212,16 +1289,6 @@
         "title": "張嘉郡推65歲以上長者免健保費獲議會力挺張麗善允諾明年上路- 生活新聞- PChome Online 新聞 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGtoNHVfSHctaUZ5ZEw3eHBvY19SYTdEeXM0cjZBMVhXN3FaNWhoZnA3dTFLVmZxVFFTVlpFUW5CRUNJZGRVMVZUWnkwV2syb2xNUmJ0cmQwTDRiWTJzVW1UeGpBRTVYZ09JTlB1R3NxVXZzNVE3b2RUUDkyZGRXaWJLd1JiRnZfWTlZY0swY2NVeWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-23 22:09:52"
-      },
-      {
-        "title": "（影音）／張麗善宣布65歲免健保費納明年預算 感謝立委張嘉郡推動健保平權 - 元丰傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXpyZFNkUnBIaXlFTnhQYy0wNTBMWlZuWV9POVRHcFltMnJpcmdWVlB2S1M1S25lU0dnOGthekpYbUU2bi1XYUUwOWxiNUszTVpQQkw5anhNMXFFdFVFZTZWMXktZ2lV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-23 21:53:06"
-      },
-      {
-        "title": "（影音）／張麗善宣布65歲免健保費納明年預算 感謝立委張嘉郡推動健保平權 - 元丰傳媒",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwZXRtaG9Xelg2QXdsM3I0bnZ1WDE4QVo3bDVuUnpUMHh2V3Fyb2FjQ05VVGQ4UTRVVU5aZVF0a2IycnRYc0xIVXVzNWZhV19MaVJqckVpQnpsb2ZPUmFVU2liTW1MalZUcS00TjNn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-23 21:53:06"
       }
     ],
     "facebook": [
@@ -1404,6 +1471,20 @@
     "hour": [],
     "day": [
       {
+        "title": "請益陳其邁活化港區經驗！ 劉建國喊話：翻轉雲林幸福城市吊車尾 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPOWRWaUhMQUU1azNSZnN6X0tIV2FMS1UxZkpFVnJCQnBpOFRsemdiV01yU0czUnNQOUNQeTNISnNRVFJPX2hucHJ0QlFHU1J4azBFY2YtUTg1ZWFsYlhMUTl1RHdXQXdvWkxtWlVCOG44R2Y4UTNER1dQUnh6SFowSndqd1VpYWpGdFZnYWZDSTZFNXVpdG00YUxVOW1pUGc4eDlQY0FHMzF3dW1OT2dvVi1xNFNNVE1LV3V3c0pmdkpRYjc1di1iVnN0Z3F5X0M1d0RQQ1FPS096aHZXbkdUX2M2NGs1TFpKV056WURmcjY5SG5zUDc5VkRQUW1YSU5acWhxVWlzM3FhdWFTVzhYLXVpUFJ5dXpJSjJXVmFQdDl4WFZJV05VY1BFYkUtNDctenRlWXRxZm9pajRoODRWX2FTZlhVVndmLXFFUk0xaHlWVldHYVZTOVBHMGVPT1FMYlVCR0VjWHhOakpZeTN6cjNqWGlTWmhXTlNDQWIzb1BKdzVXa1NESGNuQ0FRWUFKNG1XeDFubDdKUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-27 12:34:52",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "請益陳其邁活化港區經驗！ 劉建國喊話：翻轉雲林幸福城市吊車尾 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhV0hmdWxnX0lYUDFUZHlfNlRSMDE3ZUpmem5aWTZDNTdiRzV5LU5MSUV6Zl92bS1idkV6Z2tKb0dPUnExTUNtdGlfNmJtVWk0TFJqejZUNzRkLTUyX1JoaTg2VXlNcG1ubEZkQ1Jn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-27 12:00:42",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "承擔！努力！為雲林爭一口氣！ 今年民進黨全代會，建國從 賴清德 主席手中，接下代表參選2026雲林縣長的戰旗。 這是一份沉甸甸的責任，也是鄉親一路支持與栽培所託付的使命。 建國從政的初衷，就是為了改變家鄉，打造一個青年放心打拚、長輩安心生活、孩子看得 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi7wdBVV95cUxOOGdKNDlEZE5CV3lwY2VGZ2U3Q2lKbzZta0ZsZkliclB3YzBxWGRKZDBsQVYxQUlNRE5IeE1IVXEzTjNOM3pqU3hzcm1RYzhjMmpVaE9yWXdiSUFDOTg3b00ydlFwdlNNQ2tUdWNEamwtVk95NC1wVkFscTZiYWR0VlEydHpOeURPaWRfaEJfZUhhcUJrRXBWTU9KdHZDRzlNR0tmb1U2TXhOUk0tM3Rlc1JlcmUxeW5HakVBaVVSRHE4dm1VU2E0eDZRVlFra1hkcTJFTmhwTTR6cXp2NHhxN2NMU2N1X192V2kyM2JLNFFqMGdHVTVzcnVUT09NRFpkNklqMGJrZXNoZGRlQTJmbWU1T19LWi1hN05IcDQxZHp2UDNCcGk5dlA5YVoybUFSeEE2VnVhbnF1QVNHTnJ5NXNLRHdEZVNLbUh5cm1OUE4wLUVLaFFMTmd3Vmdoak05Nzdrc09UWTJKcm5RU2wwRC1TZkJCVjZ0SHFvc01sS1FRVjlnaXJxYktVTzlMN2Q1QlNZa0tESlpWUmU5RGlsSE5QYndNcVA1aUJpeUFOUldzVEZNb0xtMFczLW9sQno4SXRGTnV1T2gwakpTVmZvdDFyWFlmXzBHem8tQkx3TzEzVWxFdFJPS19fX3R4Y29tLU5ITUdtZ1o5UW1ncFRMYUMzR2s3Q1BDRWxIZVV2X0Q4eGZLWXdzU3FDaTNtNUdYYW9pQVMxZkVieWdZTnVFeDdXWVhLSUcxU3VyRnQtc0FDTWtCanRXU3d3blpvdlpadW5wYUFGTW5FQ3I2S3V0OVJRay1GQXE2VERLTGVpN3FaYzV6QjJWakYtNzFzdWpKLWVIWVFrcVVxZzRjSUdYWVU5UW54MVhRWlRIMFVMdDlucU01d3BXNUJvX3d5azgzMzVRUmFGS2IwU3JsUTVTbGdCTlQ3U2tyaC05T1VVN2I1RDBzMzZrcGVPbXlvTGFoYUtFbWJNc3loQUE3REl4emlYa2hQbTZMZTh6VXVLWDhGeWFSQk5vQXZEekxzU0IzMUpvUHQ1aXVITTBnUFlUNDFOaW9YTFQxUXZ2RFR6eGtGNEVfRHJuUUJDTGs2ci1ONWVlQnBsSTUtZHhpMUJ2UUxSZFdCdjlJZmwySXE0amIxbUZScFJNOW0tRWpoY2ZUZHVPTnJrd1VtSkN6S0V0azVPTFkxRWxHeU00RC0xcFlIcHk3RVQ4OHQ4RjVmTGhCMkJnalRWdjhkUHhsZGVJQzh4MUMtLWlSQlpXSzFuZW1QWUZERU1RcndidUo0Wjg2aEZMTnZpbmZoMXZIbkEyTVNiZmlvZUZuTGpVN1l6bw",
         "time": "2026-07-27 09:59:21",
@@ -1416,7 +1497,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 1
+        "count": 3
       }
     ],
     "groups": []
