@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-07-29T09:25:43.558306+00:00",
+  "generated_at": "2026-07-29T09:43:27.605065+00:00",
   "metrics": {
-    "total_24h": 12,
+    "total_24h": 13,
     "prev_24h": 21,
-    "growth_pct": -42.86,
-    "news_24h": 10,
+    "growth_pct": -38.1,
+    "news_24h": 11,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 140,
+    "total": 142,
     "prev": 106,
-    "growth_pct": 32.08,
-    "news": 108,
+    "growth_pct": 33.96,
+    "news": 110,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 10
+      "count": 11
     },
     {
       "platform": "facebook",
@@ -38,7 +38,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 108
+      "count": 110
     },
     {
       "platform": "facebook",
@@ -50,10 +50,6 @@
     }
   ],
   "by_hour": [
-    {
-      "hour": "2026-07-28 17:00",
-      "count": 1
-    },
     {
       "hour": "2026-07-28 18:00",
       "count": 5
@@ -72,6 +68,10 @@
     },
     {
       "hour": "2026-07-29 15:00",
+      "count": 2
+    },
+    {
+      "hour": "2026-07-29 17:00",
       "count": 1
     }
   ],
@@ -310,17 +310,31 @@
     },
     {
       "hour": "2026-07-29 15:00",
+      "count": 2
+    },
+    {
+      "hour": "2026-07-29 17:00",
       "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 10
+      "count": 11
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國成功爭取農業用電補貼 行政院核定每年投入1億元 減輕16.8萬農民負擔 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xbWFTVTBsMWs5MG8weHh5VXVuSHVfeFhDSlN4VlU3RWJ5N2kxRlQ1dEd4ekpDV3dzRTVWa0ZqRHRSMWVVLTc0WHhlVTlod2JjY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-29 17:21:00"
+      },
+      {
+        "title": "立委劉建國成功爭取農業用電補貼 行政院核定每年投入1億元 16.8萬農民受惠 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLNndsMWU2S1I1OFotbXJVZFZzS1ZmSG5TcnRZVFZlUlZtS3JBMEF3bmlzYkZJTFBlWlJLR2FkOFk3N2NlTW9uTHNiOGtuTlh4Unc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-29 15:39:00"
+      },
       {
         "title": "劉建國爭取農業用電補貼！政院核定每年投入1億元 減輕16.8萬農民負擔 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNQkNWX25leEprYXJUR3JhUFhEY09sOHNDY18zY3MxUHB0MGdkVWdtY3NRWHM5UFU1bGg2SER4OFB2NTRtaFNMQWFfY1c4OWpHV1dweFA5TDdrT050UHdfeXZvczBKVUtvX0puOTY2UVg5b2ZabG9vT3pvMEdOQmpnRk1nQWktM3ROLTYwRENMTUJubnhNbmRQWG1IRnNxV0pIY2Q5clVlM2lnTGMyamRrVE5OWnIzV3pQZHRTaDZoZkFRSEEtamtQdXBaMk55RWVBRUNrVHhOemNvX2FSSVNaSmdhT1hVS1pVOEpOeXlUMm9TNnF6YVk4VVBYT2tLY2pWTzNLU19iczN4cnozVTBzcnlFaEh0TmU3SlZqUWlMbE5QbXlFM1laanNwUVVVWjlCcFE1R1pEQVpULXB6VzlPejB6T3NiaW0zQXF6SXZsWm1WRGNHbnU2dlVKN1Vkb1F3UkVFdExwSkVCYUMxZENwYUhKaF9GTnJDd0lsSGZ6T2ZXR0tQaVZnRTRYSGZYY0p4MXo2Sks4ZWg3bWtXTk92TWJUTEo4S3R5LWE1RA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -365,18 +379,13 @@
         "title": "蔡英文視察雲林兩大醫療建設 劉建國拋產業園區願景 | 中華日報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JUGVRS0NYWm9OZHQzRWZXZ21zQWtSQXkySnRNSnBqZXF5a3FvNTBzbGRvcVdHRXEwamFwVXJMd0NEZkp3MmUxb180b2FYRzhxVGdmbmFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-28 18:08:42"
-      },
-      {
-        "title": "討論牆 | 蔣萬安喊倒閣 張嘉郡：尊重黨內討論決定 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wSnZ6cm9uOVNiZzJnQ1M5azVBOTJ2a1JBYTljdnV4N1V0TmVvNmc4a2ROb0dEa201SWd5dEV1YW9tOFdYcjhuVlJKWm5JN1JIRDBaOENzRjRraTgxeVNyWWJQaEw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-28 17:36:56"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 10
+      "count": 11
     },
     {
       "platform": "facebook",
@@ -386,6 +395,16 @@
   "alias_latest_by_platform_24h": {
     "news": [
       {
+        "title": "劉建國成功爭取農業用電補貼 行政院核定每年投入1億元 減輕16.8萬農民負擔 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xbWFTVTBsMWs5MG8weHh5VXVuSHVfeFhDSlN4VlU3RWJ5N2kxRlQ1dEd4ekpDV3dzRTVWa0ZqRHRSMWVVLTc0WHhlVTlod2JjY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-29 17:21:00"
+      },
+      {
+        "title": "立委劉建國成功爭取農業用電補貼 行政院核定每年投入1億元 16.8萬農民受惠 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLNndsMWU2S1I1OFotbXJVZFZzS1ZmSG5TcnRZVFZlUlZtS3JBMEF3bmlzYkZJTFBlWlJLR2FkOFk3N2NlTW9uTHNiOGtuTlh4Unc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-29 15:39:00"
+      },
+      {
         "title": "劉建國爭取農業用電補貼！政院核定每年投入1億元 減輕16.8萬農民負擔 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNQkNWX25leEprYXJUR3JhUFhEY09sOHNDY18zY3MxUHB0MGdkVWdtY3NRWHM5UFU1bGg2SER4OFB2NTRtaFNMQWFfY1c4OWpHV1dweFA5TDdrT050UHdfeXZvczBKVUtvX0puOTY2UVg5b2ZabG9vT3pvMEdOQmpnRk1nQWktM3ROLTYwRENMTUJubnhNbmRQWG1IRnNxV0pIY2Q5clVlM2lnTGMyamRrVE5OWnIzV3pQZHRTaDZoZkFRSEEtamtQdXBaMk55RWVBRUNrVHhOemNvX2FSSVNaSmdhT1hVS1pVOEpOeXlUMm9TNnF6YVk4VVBYT2tLY2pWTzNLU19iczN4cnozVTBzcnlFaEh0TmU3SlZqUWlMbE5QbXlFM1laanNwUVVVWjlCcFE1R1pEQVpULXB6VzlPejB6T3NiaW0zQXF6SXZsWm1WRGNHbnU2dlVKN1Vkb1F3UkVFdExwSkVCYUMxZENwYUhKaF9GTnJDd0lsSGZ6T2ZXR0tQaVZnRTRYSGZYY0p4MXo2Sks4ZWg3bWtXTk92TWJUTEo4S3R5LWE1RA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-29 15:14:33"
@@ -429,11 +448,6 @@
         "title": "蔡英文視察雲林兩大醫療建設 劉建國拋產業園區願景 | 中華日報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JUGVRS0NYWm9OZHQzRWZXZ21zQWtSQXkySnRNSnBqZXF5a3FvNTBzbGRvcVdHRXEwamFwVXJMd0NEZkp3MmUxb180b2FYRzhxVGdmbmFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-28 18:08:42"
-      },
-      {
-        "title": "討論牆 | 蔣萬安喊倒閣 張嘉郡：尊重黨內討論決定 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wSnZ6cm9uOVNiZzJnQ1M5azVBOTJ2a1JBYTljdnV4N1V0TmVvNmc4a2ROb0dEa201SWd5dEV1YW9tOFdYcjhuVlJKWm5JN1JIRDBaOENzRjRraTgxeVNyWWJQaEw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-28 17:36:56"
       }
     ],
     "facebook": [
@@ -450,14 +464,24 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 2,
-    "劉建國": 8
+    "張嘉郡": 1,
+    "劉建國": 10
   },
   "mention_compare_7d": {
     "張嘉郡": 52,
-    "劉建國": 78
+    "劉建國": 80
   },
   "top_news": [
+    {
+      "title": "劉建國成功爭取農業用電補貼 行政院核定每年投入1億元 減輕16.8萬農民負擔 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xbWFTVTBsMWs5MG8weHh5VXVuSHVfeFhDSlN4VlU3RWJ5N2kxRlQ1dEd4ekpDV3dzRTVWa0ZqRHRSMWVVLTc0WHhlVTlod2JjY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-29 17:21:00"
+    },
+    {
+      "title": "立委劉建國成功爭取農業用電補貼 行政院核定每年投入1億元 16.8萬農民受惠 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLNndsMWU2S1I1OFotbXJVZFZzS1ZmSG5TcnRZVFZlUlZtS3JBMEF3bmlzYkZJTFBlWlJLR2FkOFk3N2NlTW9uTHNiOGtuTlh4Unc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-29 15:39:00"
+    },
     {
       "title": "劉建國爭取農業用電補貼！政院核定每年投入1億元 減輕16.8萬農民負擔 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNQkNWX25leEprYXJUR3JhUFhEY09sOHNDY18zY3MxUHB0MGdkVWdtY3NRWHM5UFU1bGg2SER4OFB2NTRtaFNMQWFfY1c4OWpHV1dweFA5TDdrT050UHdfeXZvczBKVUtvX0puOTY2UVg5b2ZabG9vT3pvMEdOQmpnRk1nQWktM3ROLTYwRENMTUJubnhNbmRQWG1IRnNxV0pIY2Q5clVlM2lnTGMyamRrVE5OWnIzV3pQZHRTaDZoZkFRSEEtamtQdXBaMk55RWVBRUNrVHhOemNvX2FSSVNaSmdhT1hVS1pVOEpOeXlUMm9TNnF6YVk4VVBYT2tLY2pWTzNLU19iczN4cnozVTBzcnlFaEh0TmU3SlZqUWlMbE5QbXlFM1laanNwUVVVWjlCcFE1R1pEQVpULXB6VzlPejB6T3NiaW0zQXF6SXZsWm1WRGNHbnU2dlVKN1Vkb1F3UkVFdExwSkVCYUMxZENwYUhKaF9GTnJDd0lsSGZ6T2ZXR0tQaVZnRTRYSGZYY0p4MXo2Sks4ZWg3bWtXTk92TWJUTEo4S3R5LWE1RA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -502,14 +526,19 @@
       "title": "蔡英文視察雲林兩大醫療建設 劉建國拋產業園區願景 | 中華日報 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JUGVRS0NYWm9OZHQzRWZXZ21zQWtSQXkySnRNSnBqZXF5a3FvNTBzbGRvcVdHRXEwamFwVXJMd0NEZkp3MmUxb180b2FYRzhxVGdmbmFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-28 18:08:42"
-    },
-    {
-      "title": "討論牆 | 蔣萬安喊倒閣 張嘉郡：尊重黨內討論決定 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wSnZ6cm9uOVNiZzJnQ1M5azVBOTJ2a1JBYTljdnV4N1V0TmVvNmc4a2ROb0dEa201SWd5dEV1YW9tOFdYcjhuVlJKWm5JN1JIRDBaOENzRjRraTgxeVNyWWJQaEw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-28 17:36:56"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "劉建國成功爭取農業用電補貼 行政院核定每年投入1億元 減輕16.8萬農民負擔 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xbWFTVTBsMWs5MG8weHh5VXVuSHVfeFhDSlN4VlU3RWJ5N2kxRlQ1dEd4ekpDV3dzRTVWa0ZqRHRSMWVVLTc0WHhlVTlod2JjY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-29 17:21:00"
+    },
+    {
+      "title": "立委劉建國成功爭取農業用電補貼 行政院核定每年投入1億元 16.8萬農民受惠 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLNndsMWU2S1I1OFotbXJVZFZzS1ZmSG5TcnRZVFZlUlZtS3JBMEF3bmlzYkZJTFBlWlJLR2FkOFk3N2NlTW9uTHNiOGtuTlh4Unc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-29 15:39:00"
+    },
     {
       "title": "劉建國爭取農業用電補貼！政院核定每年投入1億元 減輕16.8萬農民負擔 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNQkNWX25leEprYXJUR3JhUFhEY09sOHNDY18zY3MxUHB0MGdkVWdtY3NRWHM5UFU1bGg2SER4OFB2NTRtaFNMQWFfY1c4OWpHV1dweFA5TDdrT050UHdfeXZvczBKVUtvX0puOTY2UVg5b2ZabG9vT3pvMEdOQmpnRk1nQWktM3ROLTYwRENMTUJubnhNbmRQWG1IRnNxV0pIY2Q5clVlM2lnTGMyamRrVE5OWnIzV3pQZHRTaDZoZkFRSEEtamtQdXBaMk55RWVBRUNrVHhOemNvX2FSSVNaSmdhT1hVS1pVOEpOeXlUMm9TNnF6YVk4VVBYT2tLY2pWTzNLU19iczN4cnozVTBzcnlFaEh0TmU3SlZqUWlMbE5QbXlFM1laanNwUVVVWjlCcFE1R1pEQVpULXB6VzlPejB6T3NiaW0zQXF6SXZsWm1WRGNHbnU2dlVKN1Vkb1F3UkVFdExwSkVCYUMxZENwYUhKaF9GTnJDd0lsSGZ6T2ZXR0tQaVZnRTRYSGZYY0p4MXo2Sks4ZWg3bWtXTk92TWJUTEo4S3R5LWE1RA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -599,16 +628,6 @@
       "title": "選戰倒數劉建國拜會陳其邁取經 拋4大政策拚翻轉雲林 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxTUJmSmQxRXZyX0xZLXZIQVJNbllxcS1SMWtTZG81Y2FDMGllQnhPVkFkWV8wQjJWRTRhMFR0aXc2bUdlb2NoOWdtVDVfdmlIM2VkVWZhZTdTR1Z6b1RjRHhwcU5nRUZXakHSAW9BVV95cUxPTUtQMk1UNWx5VXNQM25yU2dwTXhrZW5PSXBsSzZTZTZoSGNXRmtBbFNLX3BqaVRwVi1yXzRmaDM5Rzc1UXZHR1M3WmpNaVdqNXNvQy1nMU15MGswT3pWOG1FQXlqb3FUN05EeXhWZFk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-28 08:22:19"
-    },
-    {
-      "title": "雲林立委劉建國拜會高雄市長陳其邁 借鏡高雄打造新雲林 推動產業轉型幸福城市！ - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDNWZISi15ZVF6blhQaGRIcUFtT2NwMGdJSndXT3dtVk82WXNqZkZ4R1JsOERCdW5jNi1tTC1qNDNkbEZqb2ZDT2RkT212aXZoYkEtb1M1RkYxOVRxZGdacnBkSnQyamtZR3hHdmlmVE82bFN1RERHTU8tcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-28 01:18:02"
-    },
-    {
-      "title": "向高雄取經拚翻轉雲林！劉建國提AI聚落、幸福城市藍圖引關注 - 元丰傳媒",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01c2NyZmpiYnhTUjkxeFBfMUx2bndNUTBlT0lfdVdRQi1OMWR3T3N6ZU12dncxTGZuUGRGQUxwdjVKZUJFQWgyZkd3OFliTHhLdXRieWs1V0EzVF9scE16UllNZHBQNXNnSlFvMk93?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-28 00:08:08"
     }
   ],
   "latest_facebook_20": [
@@ -715,6 +734,16 @@
   ],
   "latest_news_20": [
     {
+      "title": "劉建國成功爭取農業用電補貼 行政院核定每年投入1億元 減輕16.8萬農民負擔 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xbWFTVTBsMWs5MG8weHh5VXVuSHVfeFhDSlN4VlU3RWJ5N2kxRlQ1dEd4ekpDV3dzRTVWa0ZqRHRSMWVVLTc0WHhlVTlod2JjY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-29 17:21:00"
+    },
+    {
+      "title": "立委劉建國成功爭取農業用電補貼 行政院核定每年投入1億元 16.8萬農民受惠 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLNndsMWU2S1I1OFotbXJVZFZzS1ZmSG5TcnRZVFZlUlZtS3JBMEF3bmlzYkZJTFBlWlJLR2FkOFk3N2NlTW9uTHNiOGtuTlh4Unc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-29 15:39:00"
+    },
+    {
       "title": "劉建國爭取農業用電補貼！政院核定每年投入1億元 減輕16.8萬農民負擔 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNQkNWX25leEprYXJUR3JhUFhEY09sOHNDY18zY3MxUHB0MGdkVWdtY3NRWHM5UFU1bGg2SER4OFB2NTRtaFNMQWFfY1c4OWpHV1dweFA5TDdrT050UHdfeXZvczBKVUtvX0puOTY2UVg5b2ZabG9vT3pvMEdOQmpnRk1nQWktM3ROLTYwRENMTUJubnhNbmRQWG1IRnNxV0pIY2Q5clVlM2lnTGMyamRrVE5OWnIzV3pQZHRTaDZoZkFRSEEtamtQdXBaMk55RWVBRUNrVHhOemNvX2FSSVNaSmdhT1hVS1pVOEpOeXlUMm9TNnF6YVk4VVBYT2tLY2pWTzNLU19iczN4cnozVTBzcnlFaEh0TmU3SlZqUWlMbE5QbXlFM1laanNwUVVVWjlCcFE1R1pEQVpULXB6VzlPejB6T3NiaW0zQXF6SXZsWm1WRGNHbnU2dlVKN1Vkb1F3UkVFdExwSkVCYUMxZENwYUhKaF9GTnJDd0lsSGZ6T2ZXR0tQaVZnRTRYSGZYY0p4MXo2Sks4ZWg3bWtXTk92TWJUTEo4S3R5LWE1RA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-29 15:14:33"
@@ -803,16 +832,6 @@
       "title": "選戰倒數劉建國拜會陳其邁取經 拋4大政策拚翻轉雲林 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxTUJmSmQxRXZyX0xZLXZIQVJNbllxcS1SMWtTZG81Y2FDMGllQnhPVkFkWV8wQjJWRTRhMFR0aXc2bUdlb2NoOWdtVDVfdmlIM2VkVWZhZTdTR1Z6b1RjRHhwcU5nRUZXakHSAW9BVV95cUxPTUtQMk1UNWx5VXNQM25yU2dwTXhrZW5PSXBsSzZTZTZoSGNXRmtBbFNLX3BqaVRwVi1yXzRmaDM5Rzc1UXZHR1M3WmpNaVdqNXNvQy1nMU15MGswT3pWOG1FQXlqb3FUN05EeXhWZFk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-28 08:22:19"
-    },
-    {
-      "title": "雲林立委劉建國拜會高雄市長陳其邁 借鏡高雄打造新雲林 推動產業轉型幸福城市！ - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDNWZISi15ZVF6blhQaGRIcUFtT2NwMGdJSndXT3dtVk82WXNqZkZ4R1JsOERCdW5jNi1tTC1qNDNkbEZqb2ZDT2RkT212aXZoYkEtb1M1RkYxOVRxZGdacnBkSnQyamtZR3hHdmlmVE82bFN1RERHTU8tcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-28 01:18:02"
-    },
-    {
-      "title": "向高雄取經拚翻轉雲林！劉建國提AI聚落、幸福城市藍圖引關注 - 元丰傳媒",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01c2NyZmpiYnhTUjkxeFBfMUx2bndNUTBlT0lfdVdRQi1OMWR3T3N6ZU12dncxTGZuUGRGQUxwdjVKZUJFQWgyZkd3OFliTHhLdXRieWs1V0EzVF9scE16UllNZHBQNXNnSlFvMk93?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-28 00:08:08"
     }
   ],
   "person_sections": {
@@ -1127,6 +1146,16 @@
       ],
       "news": [
         {
+          "title": "劉建國成功爭取農業用電補貼 行政院核定每年投入1億元 減輕16.8萬農民負擔 - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xbWFTVTBsMWs5MG8weHh5VXVuSHVfeFhDSlN4VlU3RWJ5N2kxRlQ1dEd4ekpDV3dzRTVWa0ZqRHRSMWVVLTc0WHhlVTlod2JjY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-29 17:21:00"
+        },
+        {
+          "title": "立委劉建國成功爭取農業用電補貼 行政院核定每年投入1億元 16.8萬農民受惠 - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLNndsMWU2S1I1OFotbXJVZFZzS1ZmSG5TcnRZVFZlUlZtS3JBMEF3bmlzYkZJTFBlWlJLR2FkOFk3N2NlTW9uTHNiOGtuTlh4Unc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-29 15:39:00"
+        },
+        {
           "title": "劉建國爭取農業用電補貼！政院核定每年投入1億元 減輕16.8萬農民負擔 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNQkNWX25leEprYXJUR3JhUFhEY09sOHNDY18zY3MxUHB0MGdkVWdtY3NRWHM5UFU1bGg2SER4OFB2NTRtaFNMQWFfY1c4OWpHV1dweFA5TDdrT050UHdfeXZvczBKVUtvX0puOTY2UVg5b2ZabG9vT3pvMEdOQmpnRk1nQWktM3ROLTYwRENMTUJubnhNbmRQWG1IRnNxV0pIY2Q5clVlM2lnTGMyamRrVE5OWnIzV3pQZHRTaDZoZkFRSEEtamtQdXBaMk55RWVBRUNrVHhOemNvX2FSSVNaSmdhT1hVS1pVOEpOeXlUMm9TNnF6YVk4VVBYT2tLY2pWTzNLU19iczN4cnozVTBzcnlFaEh0TmU3SlZqUWlMbE5QbXlFM1laanNwUVVVWjlCcFE1R1pEQVpULXB6VzlPejB6T3NiaW0zQXF6SXZsWm1WRGNHbnU2dlVKN1Vkb1F3UkVFdExwSkVCYUMxZENwYUhKaF9GTnJDd0lsSGZ6T2ZXR0tQaVZnRTRYSGZYY0p4MXo2Sks4ZWg3bWtXTk92TWJUTEo4S3R5LWE1RA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-29 15:14:33"
@@ -1215,22 +1244,22 @@
           "title": "農業部公告麻竹筍天然災害現金救助 劉建國提醒農友把握8月10日前申請期限 - 台灣新聞雲",
           "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5TWnVJTmhCTjBJbWNkNnNxWks4VkowVWdJNEJ1NldUZmN1cGZJSGhwWUgzNEtrS3NMdndxdndreGdRQjlHUVJJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-27 19:52:15"
-        },
-        {
-          "title": "劉建國率團赴高雄請益市政經驗 借鏡高雄打造「勇敢轉型・新雲林」 - 台灣新聞雲",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1VYUc4SFhfYkktU3BwNFRBb2NvS2Q4MHBfMjNVSUg0blZVQTFQYjJma3haLWpUMDFQYkFBVXRBQWJ5Nm1RTzZN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-27 19:50:02"
-        },
-        {
-          "title": "雲林立委劉建國拜會高雄市長陳其邁 借鏡高雄打造新雲林 推動產業轉型幸福城市！ - 台灣華報",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKVWdFZDJ1bmdBS21UQ2dCQkxjYUhHOGVUeDZUdEQ1YjBqZE9wMDJSOEdmWHQ4ZEh5QmU5NzRyMzZ3anJ6MmstLU9lQXNJQWRBWDMxM09HdVlhN3R6SGlQMUNPTExuWC05NUhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-27 19:01:50"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國成功爭取農業用電補貼 行政院核定每年投入1億元 減輕16.8萬農民負擔 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xbWFTVTBsMWs5MG8weHh5VXVuSHVfeFhDSlN4VlU3RWJ5N2kxRlQ1dEd4ekpDV3dzRTVWa0ZqRHRSMWVVLTc0WHhlVTlod2JjY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-29 17:21:00"
+      },
+      {
+        "title": "立委劉建國成功爭取農業用電補貼 行政院核定每年投入1億元 16.8萬農民受惠 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLNndsMWU2S1I1OFotbXJVZFZzS1ZmSG5TcnRZVFZlUlZtS3JBMEF3bmlzYkZJTFBlWlJLR2FkOFk3N2NlTW9uTHNiOGtuTlh4Unc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-29 15:39:00"
+      },
       {
         "title": "劉建國爭取農業用電補貼！政院核定每年投入1億元 減輕16.8萬農民負擔 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNQkNWX25leEprYXJUR3JhUFhEY09sOHNDY18zY3MxUHB0MGdkVWdtY3NRWHM5UFU1bGg2SER4OFB2NTRtaFNMQWFfY1c4OWpHV1dweFA5TDdrT050UHdfeXZvczBKVUtvX0puOTY2UVg5b2ZabG9vT3pvMEdOQmpnRk1nQWktM3ROLTYwRENMTUJubnhNbmRQWG1IRnNxV0pIY2Q5clVlM2lnTGMyamRrVE5OWnIzV3pQZHRTaDZoZkFRSEEtamtQdXBaMk55RWVBRUNrVHhOemNvX2FSSVNaSmdhT1hVS1pVOEpOeXlUMm9TNnF6YVk4VVBYT2tLY2pWTzNLU19iczN4cnozVTBzcnlFaEh0TmU3SlZqUWlMbE5QbXlFM1laanNwUVVVWjlCcFE1R1pEQVpULXB6VzlPejB6T3NiaW0zQXF6SXZsWm1WRGNHbnU2dlVKN1Vkb1F3UkVFdExwSkVCYUMxZENwYUhKaF9GTnJDd0lsSGZ6T2ZXR0tQaVZnRTRYSGZYY0p4MXo2Sks4ZWg3bWtXTk92TWJUTEo4S3R5LWE1RA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1275,11 +1304,6 @@
         "title": "蔡英文視察雲林兩大醫療建設 劉建國拋產業園區願景 | 中華日報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JUGVRS0NYWm9OZHQzRWZXZ21zQWtSQXkySnRNSnBqZXF5a3FvNTBzbGRvcVdHRXEwamFwVXJMd0NEZkp3MmUxb180b2FYRzhxVGdmbmFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-28 18:08:42"
-      },
-      {
-        "title": "討論牆 | 蔣萬安喊倒閣 張嘉郡：尊重黨內討論決定 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wSnZ6cm9uOVNiZzJnQ1M5azVBOTJ2a1JBYTljdnV4N1V0TmVvNmc4a2ROb0dEa201SWd5dEV1YW9tOFdYcjhuVlJKWm5JN1JIRDBaOENzRjRraTgxeVNyWWJQaEw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-28 17:36:56"
       }
     ],
     "facebook": [
@@ -1297,6 +1321,16 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "劉建國成功爭取農業用電補貼 行政院核定每年投入1億元 減輕16.8萬農民負擔 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xbWFTVTBsMWs5MG8weHh5VXVuSHVfeFhDSlN4VlU3RWJ5N2kxRlQ1dEd4ekpDV3dzRTVWa0ZqRHRSMWVVLTc0WHhlVTlod2JjY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-29 17:21:00"
+      },
+      {
+        "title": "立委劉建國成功爭取農業用電補貼 行政院核定每年投入1億元 16.8萬農民受惠 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLNndsMWU2S1I1OFotbXJVZFZzS1ZmSG5TcnRZVFZlUlZtS3JBMEF3bmlzYkZJTFBlWlJLR2FkOFk3N2NlTW9uTHNiOGtuTlh4Unc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-29 15:39:00"
+      },
       {
         "title": "劉建國爭取農業用電補貼！政院核定每年投入1億元 減輕16.8萬農民負擔 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNQkNWX25leEprYXJUR3JhUFhEY09sOHNDY18zY3MxUHB0MGdkVWdtY3NRWHM5UFU1bGg2SER4OFB2NTRtaFNMQWFfY1c4OWpHV1dweFA5TDdrT050UHdfeXZvczBKVUtvX0puOTY2UVg5b2ZabG9vT3pvMEdOQmpnRk1nQWktM3ROLTYwRENMTUJubnhNbmRQWG1IRnNxV0pIY2Q5clVlM2lnTGMyamRrVE5OWnIzV3pQZHRTaDZoZkFRSEEtamtQdXBaMk55RWVBRUNrVHhOemNvX2FSSVNaSmdhT1hVS1pVOEpOeXlUMm9TNnF6YVk4VVBYT2tLY2pWTzNLU19iczN4cnozVTBzcnlFaEh0TmU3SlZqUWlMbE5QbXlFM1laanNwUVVVWjlCcFE1R1pEQVpULXB6VzlPejB6T3NiaW0zQXF6SXZsWm1WRGNHbnU2dlVKN1Vkb1F3UkVFdExwSkVCYUMxZENwYUhKaF9GTnJDd0lsSGZ6T2ZXR0tQaVZnRTRYSGZYY0p4MXo2Sks4ZWg3bWtXTk92TWJUTEo4S3R5LWE1RA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1486,16 +1520,6 @@
         "title": "請益陳其邁活化港區經驗！ 劉建國喊話：翻轉雲林幸福城市吊車尾 - 中時新聞網",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhV0hmdWxnX0lYUDFUZHlfNlRSMDE3ZUpmem5aWTZDNTdiRzV5LU5MSUV6Zl92bS1idkV6Z2tKb0dPUnExTUNtdGlfNmJtVWk0TFJqejZUNzRkLTUyX1JoaTg2VXlNcG1ubEZkQ1Jn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-27 12:00:42"
-      },
-      {
-        "title": "立委劉建國率團向高雄市長陳其邁請益城市轉型經驗 提四大政策打造「勇敢轉型・新雲林」 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OWWN2bTk0YzZLVGhNMlNCVEt5T3JJQXVtQjhFVmIxc0ktLVRuQTBvV0UyWmMtR2RVSGFuNmwtMUkxVnE2cGhRcGt1NE1kZ2tmclE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-27 00:00:00"
-      },
-      {
-        "title": "雲林小小消防營隊開訓科技教學佳 張嘉郡高空逃生從天而降 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lNmZxTzUzNnB4WE1mM3pIeHl0TmVJUVhndVdiV3l1LTFISHFvUzB2SHZlUEs1eGpERnptdkJQejI3aWVTMzdCMkw2MkpoU1ZQ0gFWQVVfeXFMT2NWTFdJVlBNeEpnaWpVcGQ3MUVmNmdTZVdLNWJmQnRia1ZJaGJmbGhEeWZWcTBGcjJUcGZQS0N6N25YYTJlSjdEQU9YWVBfTHhid2tGa3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-26 12:50:09"
       }
     ],
     "facebook": [
@@ -1668,6 +1692,20 @@
     "hour": [],
     "day": [
       {
+        "title": "劉建國成功爭取農業用電補貼 行政院核定每年投入1億元 減輕16.8萬農民負擔 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xbWFTVTBsMWs5MG8weHh5VXVuSHVfeFhDSlN4VlU3RWJ5N2kxRlQ1dEd4ekpDV3dzRTVWa0ZqRHRSMWVVLTc0WHhlVTlod2JjY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-29 17:21:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "立委劉建國成功爭取農業用電補貼 行政院核定每年投入1億元 16.8萬農民受惠 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLNndsMWU2S1I1OFotbXJVZFZzS1ZmSG5TcnRZVFZlUlZtS3JBMEF3bmlzYkZJTFBlWlJLR2FkOFk3N2NlTW9uTHNiOGtuTlh4Unc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-29 15:39:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "劉建國爭取農業用電補貼！政院核定每年投入1億元 減輕16.8萬農民負擔 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNQkNWX25leEprYXJUR3JhUFhEY09sOHNDY18zY3MxUHB0MGdkVWdtY3NRWHM5UFU1bGg2SER4OFB2NTRtaFNMQWFfY1c4OWpHV1dweFA5TDdrT050UHdfeXZvczBKVUtvX0puOTY2UVg5b2ZabG9vT3pvMEdOQmpnRk1nQWktM3ROLTYwRENMTUJubnhNbmRQWG1IRnNxV0pIY2Q5clVlM2lnTGMyamRrVE5OWnIzV3pQZHRTaDZoZkFRSEEtamtQdXBaMk55RWVBRUNrVHhOemNvX2FSSVNaSmdhT1hVS1pVOEpOeXlUMm9TNnF6YVk4VVBYT2tLY2pWTzNLU19iczN4cnozVTBzcnlFaEh0TmU3SlZqUWlMbE5QbXlFM1laanNwUVVVWjlCcFE1R1pEQVpULXB6VzlPejB6T3NiaW0zQXF6SXZsWm1WRGNHbnU2dlVKN1Vkb1F3UkVFdExwSkVCYUMxZENwYUhKaF9GTnJDd0lsSGZ6T2ZXR0tQaVZnRTRYSGZYY0p4MXo2Sks4ZWg3bWtXTk92TWJUTEo4S3R5LWE1RA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-29 15:14:33",
@@ -1743,13 +1781,6 @@
         "time": "2026-07-28 18:08:42",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "討論牆 | 蔣萬安喊倒閣 張嘉郡：尊重黨內討論決定 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wSnZ6cm9uOVNiZzJnQ1M5azVBOTJ2a1JBYTljdnV4N1V0TmVvNmc4a2ROb0dEa201SWd5dEV1YW9tOFdYcjhuVlJKWm5JN1JIRDBaOENzRjRraTgxeVNyWWJQaEw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-28 17:36:56",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -1763,7 +1794,7 @@
     "groups": [
       {
         "name": "農業族群",
-        "count": 3
+        "count": 5
       },
       {
         "name": "工地/營造",
