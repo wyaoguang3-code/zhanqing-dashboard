@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-07-30T12:06:05.169468+00:00",
+  "generated_at": "2026-07-30T12:23:53.253859+00:00",
   "metrics": {
-    "total_24h": 15,
+    "total_24h": 17,
     "prev_24h": 22,
-    "growth_pct": -31.82,
-    "news_24h": 11,
+    "growth_pct": -22.73,
+    "news_24h": 13,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 138,
-    "prev": 98,
-    "growth_pct": 40.82,
-    "news": 103,
+    "total": 139,
+    "prev": 99,
+    "growth_pct": 40.4,
+    "news": 104,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 11
+      "count": 13
     },
     {
       "platform": "youtube",
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 103
+      "count": 104
     },
     {
       "platform": "facebook",
@@ -72,18 +72,14 @@
     },
     {
       "hour": "2026-07-30 17:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-07-30 18:00",
-      "count": 4
+      "count": 5
     }
   ],
   "by_hour_7d": [
-    {
-      "hour": "2026-07-23 20:00",
-      "count": 1
-    },
     {
       "hour": "2026-07-23 21:00",
       "count": 3
@@ -306,17 +302,17 @@
     },
     {
       "hour": "2026-07-30 17:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-07-30 18:00",
-      "count": 4
+      "count": 5
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 11
+      "count": 13
     },
     {
       "platform": "facebook",
@@ -326,9 +322,19 @@
   "mention_latest_by_platform_24h": {
     "news": [
       {
+        "title": "接棒張麗善 張嘉郡誓言：讓雲林升級轉型、彎道超車 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNNDdOTDBJanoxNzJOYkJXaUNBeWtfcl9RQjlHTkZvZkZwamJYb2E0MGlvMmUzSnJpSy15RGh0NUxIa1ZJajR3WEdEZkhQY1JDUFh0bkM1THE1RnZDbElxOU1DY01acHN2OU5YTEFNODJaMEpLd2RTU05iWGNhQWNnbXl2bmMxY051eVVqWlhGZTZfQlpuSUgzRV9aZmZKUFVXcDRSUU0xWlFoU25JWDZ4S3U1bEVhekhCYmU2X2J0QkxZZ3J5ei1UWnY1Qk5VUGlQeEpUeFVXSHMtNGs3RTdGemRUYi1qTlpzU3pISlJBMHlDUWg4eGN6RVgtUGJUQ29nZ1NCckF6RVpYaVo2bVZJT1YteEY5RFc1c0VFdjcteTBvTHBwWU1HeDZUQ1RIQ0cxQmtCQnR0VjRXY3JPVDc5SE1sOFdlS2Ixc0tlWWtkdWcxR1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-30 18:31:01"
+      },
+      {
         "title": "接棒張麗善 張嘉郡誓言：讓雲林升級轉型、彎道超車 - 中時新聞網",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGMDlDT2hRVncwbGdkb3Y4WmtNckpkSFR2WjhydVhaaWVVQXpFYTIySmNSMklrRGk1YnMwbmtzZlYxb0pTUlVTTkhoeW85RS02NjRwc3F5VEZJcjZ0RGQtbjMtS2pQY0RmX3phVzdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-30 18:26:01"
+      },
+      {
+        "title": "鄭麗文赴雲林授證挺張嘉郡 籲黨內團結拚選戰 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOaGVldkJ2TXBISVFpX0lmQmpHam5WYnNnMGxzb1B4b0RyanUyYXhsazJfZnpFdzZjYU9jU2dLN3Y1azVmU1NmbUo0RF9lWGg0SkMyTU9pZmNxTkhYUVBnby1JTTYtSHZmTWJmbFFCb21GTHp5cXh1YmdFb3Vmd2s4RXRaMW9xRXRuTVdhWnc5MElOa3hfSnN3V19KRmtnMTZrMl9JbzVDWWhHYnAybWpKQ3EwdEdQaXdXUXUyUFRXVm9fN092cENxcjVsRkRJU1NWTlF2bzB4WUU3QlI2Y0lUbkdNSmprNEg3WFJSWjNEWGZ0QjNsMTktYzlNMUxYbVgyWUt2T1N4UHkzTWFVbG9tV2o4ZkxGNHlhcEk4c3pULWFpWXdIU21fMVV1c3MzSXdtb25mQXN1bWRwOVZZdVBRcGdkS00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-30 17:33:54"
       },
       {
         "title": "出席雲林小組長授證 鄭麗文主席：呼籲鄉親讓張嘉郡接棒 延續執政好成績 守住雲林、攻向南臺灣 - kmt.org.tw",
@@ -392,7 +398,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 11
+      "count": 13
     },
     {
       "platform": "facebook",
@@ -402,9 +408,19 @@
   "alias_latest_by_platform_24h": {
     "news": [
       {
+        "title": "接棒張麗善 張嘉郡誓言：讓雲林升級轉型、彎道超車 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNNDdOTDBJanoxNzJOYkJXaUNBeWtfcl9RQjlHTkZvZkZwamJYb2E0MGlvMmUzSnJpSy15RGh0NUxIa1ZJajR3WEdEZkhQY1JDUFh0bkM1THE1RnZDbElxOU1DY01acHN2OU5YTEFNODJaMEpLd2RTU05iWGNhQWNnbXl2bmMxY051eVVqWlhGZTZfQlpuSUgzRV9aZmZKUFVXcDRSUU0xWlFoU25JWDZ4S3U1bEVhekhCYmU2X2J0QkxZZ3J5ei1UWnY1Qk5VUGlQeEpUeFVXSHMtNGs3RTdGemRUYi1qTlpzU3pISlJBMHlDUWg4eGN6RVgtUGJUQ29nZ1NCckF6RVpYaVo2bVZJT1YteEY5RFc1c0VFdjcteTBvTHBwWU1HeDZUQ1RIQ0cxQmtCQnR0VjRXY3JPVDc5SE1sOFdlS2Ixc0tlWWtkdWcxR1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-30 18:31:01"
+      },
+      {
         "title": "接棒張麗善 張嘉郡誓言：讓雲林升級轉型、彎道超車 - 中時新聞網",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGMDlDT2hRVncwbGdkb3Y4WmtNckpkSFR2WjhydVhaaWVVQXpFYTIySmNSMklrRGk1YnMwbmtzZlYxb0pTUlVTTkhoeW85RS02NjRwc3F5VEZJcjZ0RGQtbjMtS2pQY0RmX3phVzdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-30 18:26:01"
+      },
+      {
+        "title": "鄭麗文赴雲林授證挺張嘉郡 籲黨內團結拚選戰 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOaGVldkJ2TXBISVFpX0lmQmpHam5WYnNnMGxzb1B4b0RyanUyYXhsazJfZnpFdzZjYU9jU2dLN3Y1azVmU1NmbUo0RF9lWGg0SkMyTU9pZmNxTkhYUVBnby1JTTYtSHZmTWJmbFFCb21GTHp5cXh1YmdFb3Vmd2s4RXRaMW9xRXRuTVdhWnc5MElOa3hfSnN3V19KRmtnMTZrMl9JbzVDWWhHYnAybWpKQ3EwdEdQaXdXUXUyUFRXVm9fN092cENxcjVsRkRJU1NWTlF2bzB4WUU3QlI2Y0lUbkdNSmprNEg3WFJSWjNEWGZ0QjNsMTktYzlNMUxYbVgyWUt2T1N4UHkzTWFVbG9tV2o4ZkxGNHlhcEk4c3pULWFpWXdIU21fMVV1c3MzSXdtb25mQXN1bWRwOVZZdVBRcGdkS00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-30 17:33:54"
       },
       {
         "title": "出席雲林小組長授證 鄭麗文主席：呼籲鄉親讓張嘉郡接棒 延續執政好成績 守住雲林、攻向南臺灣 - kmt.org.tw",
@@ -466,18 +482,28 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 7,
+    "張嘉郡": 9,
     "劉建國": 5
   },
   "mention_compare_7d": {
-    "張嘉郡": 36,
+    "張嘉郡": 37,
     "劉建國": 84
   },
   "top_news": [
     {
+      "title": "接棒張麗善 張嘉郡誓言：讓雲林升級轉型、彎道超車 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNNDdOTDBJanoxNzJOYkJXaUNBeWtfcl9RQjlHTkZvZkZwamJYb2E0MGlvMmUzSnJpSy15RGh0NUxIa1ZJajR3WEdEZkhQY1JDUFh0bkM1THE1RnZDbElxOU1DY01acHN2OU5YTEFNODJaMEpLd2RTU05iWGNhQWNnbXl2bmMxY051eVVqWlhGZTZfQlpuSUgzRV9aZmZKUFVXcDRSUU0xWlFoU25JWDZ4S3U1bEVhekhCYmU2X2J0QkxZZ3J5ei1UWnY1Qk5VUGlQeEpUeFVXSHMtNGs3RTdGemRUYi1qTlpzU3pISlJBMHlDUWg4eGN6RVgtUGJUQ29nZ1NCckF6RVpYaVo2bVZJT1YteEY5RFc1c0VFdjcteTBvTHBwWU1HeDZUQ1RIQ0cxQmtCQnR0VjRXY3JPVDc5SE1sOFdlS2Ixc0tlWWtkdWcxR1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-30 18:31:01"
+    },
+    {
       "title": "接棒張麗善 張嘉郡誓言：讓雲林升級轉型、彎道超車 - 中時新聞網",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGMDlDT2hRVncwbGdkb3Y4WmtNckpkSFR2WjhydVhaaWVVQXpFYTIySmNSMklrRGk1YnMwbmtzZlYxb0pTUlVTTkhoeW85RS02NjRwc3F5VEZJcjZ0RGQtbjMtS2pQY0RmX3phVzdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-30 18:26:01"
+    },
+    {
+      "title": "鄭麗文赴雲林授證挺張嘉郡 籲黨內團結拚選戰 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOaGVldkJ2TXBISVFpX0lmQmpHam5WYnNnMGxzb1B4b0RyanUyYXhsazJfZnpFdzZjYU9jU2dLN3Y1azVmU1NmbUo0RF9lWGg0SkMyTU9pZmNxTkhYUVBnby1JTTYtSHZmTWJmbFFCb21GTHp5cXh1YmdFb3Vmd2s4RXRaMW9xRXRuTVdhWnc5MElOa3hfSnN3V19KRmtnMTZrMl9JbzVDWWhHYnAybWpKQ3EwdEdQaXdXUXUyUFRXVm9fN092cENxcjVsRkRJU1NWTlF2bzB4WUU3QlI2Y0lUbkdNSmprNEg3WFJSWjNEWGZ0QjNsMTktYzlNMUxYbVgyWUt2T1N4UHkzTWFVbG9tV2o4ZkxGNHlhcEk4c3pULWFpWXdIU21fMVV1c3MzSXdtb25mQXN1bWRwOVZZdVBRcGdkS00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-30 17:33:54"
     },
     {
       "title": "出席雲林小組長授證 鄭麗文主席：呼籲鄉親讓張嘉郡接棒 延續執政好成績 守住雲林、攻向南臺灣 - kmt.org.tw",
@@ -523,18 +549,23 @@
       "title": "劉建國成功爭取農業用電補貼 行政院核定每年投入1億元減輕農民負擔 - PChome Online新聞",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUnNkWkpBZE5UWWt2Skdjakg4WWtFZDk3eUdFX1JFQ1VLUGxLcGtBQTd3aTE3LVlKdC11NXN0ejRwcTBwLUtvZlBBZGdhSElIS2hwN1JZZTRGQW14cXRLaEpVRnIycWNwS2JGUzZGY0pqYWxScjZPU05VSG9BNG4wcUc0MzZwM3VEdFBDNVFrbXZHR1U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-30 06:10:58"
-    },
-    {
-      "title": "劉建國成功爭取農業用電補貼 行政院核定每年投入1億元減輕農民負擔 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNbXE0QWhNWWNBdUwxc1FGR1dYblkxdHM4ZzZ0THZNcFpmRWFDd25CaTliVlhSLUtESjhWeEpWcDdEbVZsTmpqaXFFVVl6dXA4T2pIQXp5dU1FT0Z4SzdnOFg1VkJ2czkzdmJ0MG82cXdJcTRlRzNDR0hSLVZzVXdqREg5T2ZTUmJfamNkYm8wN0V6eE0tVkFvZ3lXU0xZVXFPS3F0LTRjYU42cmxLOXA2aFJmVTRvaFRnak5xSVE1RjFCeUJuRmR6T0U3RHlhWTExSW1NNnJMejdCd3VtaHZRMGsxU01UMjFnenVHWlBCVTlVX1RCejhJZmtrajFWemRPcDgza1BNUW8yS2RuaUNTT180aUFKVmE5Q1diOHhScUs3bVBYbF90d0dqQjk3TGJqS185bUtqb3FuLUwtcVFVRUpPc2xQYU9ENFlOaUgwcklrclBWaFJON0FIRmZLd0JoQW1lSm9BOW9ncGg4SHJTdC1KcUhYNDhVSmhjdHFyZTZTTGtsTnB2UThzZ3dhelZaSWpYaDBFdWJyWlFCOGRCbjd1RDFpclpVcTRCeHprWlVWaHN5R0lsTmJGakNMUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-30 06:10:58"
     }
   ],
   "top_news_7d": [
     {
+      "title": "接棒張麗善 張嘉郡誓言：讓雲林升級轉型、彎道超車 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNNDdOTDBJanoxNzJOYkJXaUNBeWtfcl9RQjlHTkZvZkZwamJYb2E0MGlvMmUzSnJpSy15RGh0NUxIa1ZJajR3WEdEZkhQY1JDUFh0bkM1THE1RnZDbElxOU1DY01acHN2OU5YTEFNODJaMEpLd2RTU05iWGNhQWNnbXl2bmMxY051eVVqWlhGZTZfQlpuSUgzRV9aZmZKUFVXcDRSUU0xWlFoU25JWDZ4S3U1bEVhekhCYmU2X2J0QkxZZ3J5ei1UWnY1Qk5VUGlQeEpUeFVXSHMtNGs3RTdGemRUYi1qTlpzU3pISlJBMHlDUWg4eGN6RVgtUGJUQ29nZ1NCckF6RVpYaVo2bVZJT1YteEY5RFc1c0VFdjcteTBvTHBwWU1HeDZUQ1RIQ0cxQmtCQnR0VjRXY3JPVDc5SE1sOFdlS2Ixc0tlWWtkdWcxR1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-30 18:31:01"
+    },
+    {
       "title": "接棒張麗善 張嘉郡誓言：讓雲林升級轉型、彎道超車 - 中時新聞網",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGMDlDT2hRVncwbGdkb3Y4WmtNckpkSFR2WjhydVhaaWVVQXpFYTIySmNSMklrRGk1YnMwbmtzZlYxb0pTUlVTTkhoeW85RS02NjRwc3F5VEZJcjZ0RGQtbjMtS2pQY0RmX3phVzdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-30 18:26:01"
+    },
+    {
+      "title": "鄭麗文赴雲林授證挺張嘉郡 籲黨內團結拚選戰 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOaGVldkJ2TXBISVFpX0lmQmpHam5WYnNnMGxzb1B4b0RyanUyYXhsazJfZnpFdzZjYU9jU2dLN3Y1azVmU1NmbUo0RF9lWGg0SkMyTU9pZmNxTkhYUVBnby1JTTYtSHZmTWJmbFFCb21GTHp5cXh1YmdFb3Vmd2s4RXRaMW9xRXRuTVdhWnc5MElOa3hfSnN3V19KRmtnMTZrMl9JbzVDWWhHYnAybWpKQ3EwdEdQaXdXUXUyUFRXVm9fN092cENxcjVsRkRJU1NWTlF2bzB4WUU3QlI2Y0lUbkdNSmprNEg3WFJSWjNEWGZ0QjNsMTktYzlNMUxYbVgyWUt2T1N4UHkzTWFVbG9tV2o4ZkxGNHlhcEk4c3pULWFpWXdIU21fMVV1c3MzSXdtb25mQXN1bWRwOVZZdVBRcGdkS00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-30 17:33:54"
     },
     {
       "title": "出席雲林小組長授證 鄭麗文主席：呼籲鄉親讓張嘉郡接棒 延續執政好成績 守住雲林、攻向南臺灣 - kmt.org.tw",
@@ -620,16 +651,6 @@
       "title": "立委劉建國成功爭取農業用電補貼 行政院核定每年投入1億元 16.8萬農民受惠 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLNndsMWU2S1I1OFotbXJVZFZzS1ZmSG5TcnRZVFZlUlZtS3JBMEF3bmlzYkZJTFBlWlJLR2FkOFk3N2NlTW9uTHNiOGtuTlh4Unc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-29 15:39:00"
-    },
-    {
-      "title": "劉建國爭取農業用電補貼！政院核定每年投入1億元 減輕16.8萬農民負擔 | 民視新聞網 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TRkJOT3R1UjNFSEp0ZVBXakZRZDh3NlFQRDJ5Q2RRTmw5THlRdnFJaEFSaWdSbXR2N2hnQTU3NllmVVk1QlR5ektrcDBWVndOZTFERzl3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-29 15:23:59"
-    },
-    {
-      "title": "劉建國爭取農業用電補貼！政院核定每年投入1億元 減輕16.8萬農民負擔 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNQkNWX25leEprYXJUR3JhUFhEY09sOHNDY18zY3MxUHB0MGdkVWdtY3NRWHM5UFU1bGg2SER4OFB2NTRtaFNMQWFfY1c4OWpHV1dweFA5TDdrT050UHdfeXZvczBKVUtvX0puOTY2UVg5b2ZabG9vT3pvMEdOQmpnRk1nQWktM3ROLTYwRENMTUJubnhNbmRQWG1IRnNxV0pIY2Q5clVlM2lnTGMyamRrVE5OWnIzV3pQZHRTaDZoZkFRSEEtamtQdXBaMk55RWVBRUNrVHhOemNvX2FSSVNaSmdhT1hVS1pVOEpOeXlUMm9TNnF6YVk4VVBYT2tLY2pWTzNLU19iczN4cnozVTBzcnlFaEh0TmU3SlZqUWlMbE5QbXlFM1laanNwUVVVWjlCcFE1R1pEQVpULXB6VzlPejB6T3NiaW0zQXF6SXZsWm1WRGNHbnU2dlVKN1Vkb1F3UkVFdExwSkVCYUMxZENwYUhKaF9GTnJDd0lsSGZ6T2ZXR0tQaVZnRTRYSGZYY0p4MXo2Sks4ZWg3bWtXTk92TWJUTEo4S3R5LWE1RA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-29 15:14:33"
     }
   ],
   "latest_facebook_20": [
@@ -736,9 +757,19 @@
   ],
   "latest_news_20": [
     {
+      "title": "接棒張麗善 張嘉郡誓言：讓雲林升級轉型、彎道超車 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNNDdOTDBJanoxNzJOYkJXaUNBeWtfcl9RQjlHTkZvZkZwamJYb2E0MGlvMmUzSnJpSy15RGh0NUxIa1ZJajR3WEdEZkhQY1JDUFh0bkM1THE1RnZDbElxOU1DY01acHN2OU5YTEFNODJaMEpLd2RTU05iWGNhQWNnbXl2bmMxY051eVVqWlhGZTZfQlpuSUgzRV9aZmZKUFVXcDRSUU0xWlFoU25JWDZ4S3U1bEVhekhCYmU2X2J0QkxZZ3J5ei1UWnY1Qk5VUGlQeEpUeFVXSHMtNGs3RTdGemRUYi1qTlpzU3pISlJBMHlDUWg4eGN6RVgtUGJUQ29nZ1NCckF6RVpYaVo2bVZJT1YteEY5RFc1c0VFdjcteTBvTHBwWU1HeDZUQ1RIQ0cxQmtCQnR0VjRXY3JPVDc5SE1sOFdlS2Ixc0tlWWtkdWcxR1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-30 18:31:01"
+    },
+    {
       "title": "接棒張麗善 張嘉郡誓言：讓雲林升級轉型、彎道超車 - 中時新聞網",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGMDlDT2hRVncwbGdkb3Y4WmtNckpkSFR2WjhydVhaaWVVQXpFYTIySmNSMklrRGk1YnMwbmtzZlYxb0pTUlVTTkhoeW85RS02NjRwc3F5VEZJcjZ0RGQtbjMtS2pQY0RmX3phVzdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-30 18:26:01"
+    },
+    {
+      "title": "鄭麗文赴雲林授證挺張嘉郡 籲黨內團結拚選戰 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOaGVldkJ2TXBISVFpX0lmQmpHam5WYnNnMGxzb1B4b0RyanUyYXhsazJfZnpFdzZjYU9jU2dLN3Y1azVmU1NmbUo0RF9lWGg0SkMyTU9pZmNxTkhYUVBnby1JTTYtSHZmTWJmbFFCb21GTHp5cXh1YmdFb3Vmd2s4RXRaMW9xRXRuTVdhWnc5MElOa3hfSnN3V19KRmtnMTZrMl9JbzVDWWhHYnAybWpKQ3EwdEdQaXdXUXUyUFRXVm9fN092cENxcjVsRkRJU1NWTlF2bzB4WUU3QlI2Y0lUbkdNSmprNEg3WFJSWjNEWGZ0QjNsMTktYzlNMUxYbVgyWUt2T1N4UHkzTWFVbG9tV2o4ZkxGNHlhcEk4c3pULWFpWXdIU21fMVV1c3MzSXdtb25mQXN1bWRwOVZZdVBRcGdkS00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-30 17:33:54"
     },
     {
       "title": "出席雲林小組長授證 鄭麗文主席：呼籲鄉親讓張嘉郡接棒 延續執政好成績 守住雲林、攻向南臺灣 - kmt.org.tw",
@@ -824,16 +855,6 @@
       "title": "立委劉建國成功爭取農業用電補貼 行政院核定每年投入1億元 16.8萬農民受惠 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLNndsMWU2S1I1OFotbXJVZFZzS1ZmSG5TcnRZVFZlUlZtS3JBMEF3bmlzYkZJTFBlWlJLR2FkOFk3N2NlTW9uTHNiOGtuTlh4Unc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-29 15:39:00"
-    },
-    {
-      "title": "劉建國爭取農業用電補貼！政院核定每年投入1億元 減輕16.8萬農民負擔 | 民視新聞網 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TRkJOT3R1UjNFSEp0ZVBXakZRZDh3NlFQRDJ5Q2RRTmw5THlRdnFJaEFSaWdSbXR2N2hnQTU3NllmVVk1QlR5ektrcDBWVndOZTFERzl3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-29 15:23:59"
-    },
-    {
-      "title": "劉建國爭取農業用電補貼！政院核定每年投入1億元 減輕16.8萬農民負擔 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNQkNWX25leEprYXJUR3JhUFhEY09sOHNDY18zY3MxUHB0MGdkVWdtY3NRWHM5UFU1bGg2SER4OFB2NTRtaFNMQWFfY1c4OWpHV1dweFA5TDdrT050UHdfeXZvczBKVUtvX0puOTY2UVg5b2ZabG9vT3pvMEdOQmpnRk1nQWktM3ROLTYwRENMTUJubnhNbmRQWG1IRnNxV0pIY2Q5clVlM2lnTGMyamRrVE5OWnIzV3pQZHRTaDZoZkFRSEEtamtQdXBaMk55RWVBRUNrVHhOemNvX2FSSVNaSmdhT1hVS1pVOEpOeXlUMm9TNnF6YVk4VVBYT2tLY2pWTzNLU19iczN4cnozVTBzcnlFaEh0TmU3SlZqUWlMbE5QbXlFM1laanNwUVVVWjlCcFE1R1pEQVpULXB6VzlPejB6T3NiaW0zQXF6SXZsWm1WRGNHbnU2dlVKN1Vkb1F3UkVFdExwSkVCYUMxZENwYUhKaF9GTnJDd0lsSGZ6T2ZXR0tQaVZnRTRYSGZYY0p4MXo2Sks4ZWg3bWtXTk92TWJUTEo4S3R5LWE1RA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-29 15:14:33"
     }
   ],
   "person_sections": {
@@ -942,9 +963,19 @@
       ],
       "news": [
         {
+          "title": "接棒張麗善 張嘉郡誓言：讓雲林升級轉型、彎道超車 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNNDdOTDBJanoxNzJOYkJXaUNBeWtfcl9RQjlHTkZvZkZwamJYb2E0MGlvMmUzSnJpSy15RGh0NUxIa1ZJajR3WEdEZkhQY1JDUFh0bkM1THE1RnZDbElxOU1DY01acHN2OU5YTEFNODJaMEpLd2RTU05iWGNhQWNnbXl2bmMxY051eVVqWlhGZTZfQlpuSUgzRV9aZmZKUFVXcDRSUU0xWlFoU25JWDZ4S3U1bEVhekhCYmU2X2J0QkxZZ3J5ei1UWnY1Qk5VUGlQeEpUeFVXSHMtNGs3RTdGemRUYi1qTlpzU3pISlJBMHlDUWg4eGN6RVgtUGJUQ29nZ1NCckF6RVpYaVo2bVZJT1YteEY5RFc1c0VFdjcteTBvTHBwWU1HeDZUQ1RIQ0cxQmtCQnR0VjRXY3JPVDc5SE1sOFdlS2Ixc0tlWWtkdWcxR1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-30 18:31:01"
+        },
+        {
           "title": "接棒張麗善 張嘉郡誓言：讓雲林升級轉型、彎道超車 - 中時新聞網",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGMDlDT2hRVncwbGdkb3Y4WmtNckpkSFR2WjhydVhaaWVVQXpFYTIySmNSMklrRGk1YnMwbmtzZlYxb0pTUlVTTkhoeW85RS02NjRwc3F5VEZJcjZ0RGQtbjMtS2pQY0RmX3phVzdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-30 18:26:01"
+        },
+        {
+          "title": "鄭麗文赴雲林授證挺張嘉郡 籲黨內團結拚選戰 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOaGVldkJ2TXBISVFpX0lmQmpHam5WYnNnMGxzb1B4b0RyanUyYXhsazJfZnpFdzZjYU9jU2dLN3Y1azVmU1NmbUo0RF9lWGg0SkMyTU9pZmNxTkhYUVBnby1JTTYtSHZmTWJmbFFCb21GTHp5cXh1YmdFb3Vmd2s4RXRaMW9xRXRuTVdhWnc5MElOa3hfSnN3V19KRmtnMTZrMl9JbzVDWWhHYnAybWpKQ3EwdEdQaXdXUXUyUFRXVm9fN092cENxcjVsRkRJU1NWTlF2bzB4WUU3QlI2Y0lUbkdNSmprNEg3WFJSWjNEWGZ0QjNsMTktYzlNMUxYbVgyWUt2T1N4UHkzTWFVbG9tV2o4ZkxGNHlhcEk4c3pULWFpWXdIU21fMVV1c3MzSXdtb25mQXN1bWRwOVZZdVBRcGdkS00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-30 17:33:54"
         },
         {
           "title": "出席雲林小組長授證 鄭麗文主席：呼籲鄉親讓張嘉郡接棒 延續執政好成績 守住雲林、攻向南臺灣 - kmt.org.tw",
@@ -1030,16 +1061,6 @@
           "title": "張嘉郡推「65歲以上免健保費」獲議會力挺 張麗善允諾明年上路 - 蕃新聞",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zMkZJLXZkLVBKSS1yeWNhVWtDcFc5TjE3M2JQa0Zaa1MyazhXQklNT0c1emRqS3dBTWdBUktreWlqbHkzNW1ud25pYWdKMF8tWHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-25 05:11:28"
-        },
-        {
-          "title": "張嘉郡控破壞競選布條　元長鄉長：未署名當廢棄物 - 三立新聞",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSC1JR2dxRVBBOVBkajdmUUJPa3o4Z2VnSE94MmZZWVBZYjAwLVN3enl5Q2N5VHEzWmVobC1iTmt6bkxIUm5BOHhnbXloaXBnRTZVaHR0UUFaWmF5NzUzdG0ySGpQSG04dzRpbzFfeUcwc3VLcHJZejdZb2tDTzhjcXV4Mi1NM1nSAUtBVV95cUxPcF9lQXI0NHdVR1BMaC1vdzNkZ215b2RmQ01VNllabms0dDVjb1NUZjA4Y1dfaC1lUFJTY3lJaVJpQ3pTYTJhb3VRVFk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-24 19:50:32"
-        },
-        {
-          "title": "雲林縣長戰！張嘉郡對決劉建國 霸氣嗆\"領先幅度持續擴大\" feat.張嘉郡 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOU2VUdjNYc19IYmd0Xy1YWEZNQmFfajVEalAyRkx3S2tIZHpxYm5MbXlVNE9YcnZEMEJQX2hOYWNHUmo1S1FpVVc3RXd5UWhtNkVhRkE0MXExeHZJWDVYNjFXRjFmbGlLY3ZCby15bElRdm5XNTJYME1LeGFzVkNTSzNQOGFzNjFwc25SSGU0d3RrQWM0UnU4dUhSaGotSWxsUGlvclk2am92dzc3Zl9teE9SRncwSm1oNS0wVXdySkQ0aklpT3EwNVRmSW92SExJRkdzZ191WExFMzdYbURoOE93czJNNFFFZzA2NDY5d2N6aUY4NDlKRW9pTEV3N3FPM3ZwaUpHdkJlQWRTMXZpMW5KV0E5WTJmRU5DNi01emNnZXJqaGNhdm9MQmd3WUpaSzc3Mjk1akQ0RzdtNFlQekExbjZIWjhJQVhKUUFWSDl5cUNZMU9nNTJqVHYzNEdIZS1PQ1Vn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-24 11:56:15"
         }
       ]
     },
@@ -1253,9 +1274,19 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "接棒張麗善 張嘉郡誓言：讓雲林升級轉型、彎道超車 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNNDdOTDBJanoxNzJOYkJXaUNBeWtfcl9RQjlHTkZvZkZwamJYb2E0MGlvMmUzSnJpSy15RGh0NUxIa1ZJajR3WEdEZkhQY1JDUFh0bkM1THE1RnZDbElxOU1DY01acHN2OU5YTEFNODJaMEpLd2RTU05iWGNhQWNnbXl2bmMxY051eVVqWlhGZTZfQlpuSUgzRV9aZmZKUFVXcDRSUU0xWlFoU25JWDZ4S3U1bEVhekhCYmU2X2J0QkxZZ3J5ei1UWnY1Qk5VUGlQeEpUeFVXSHMtNGs3RTdGemRUYi1qTlpzU3pISlJBMHlDUWg4eGN6RVgtUGJUQ29nZ1NCckF6RVpYaVo2bVZJT1YteEY5RFc1c0VFdjcteTBvTHBwWU1HeDZUQ1RIQ0cxQmtCQnR0VjRXY3JPVDc5SE1sOFdlS2Ixc0tlWWtkdWcxR1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-30 18:31:01"
+      },
+      {
         "title": "接棒張麗善 張嘉郡誓言：讓雲林升級轉型、彎道超車 - 中時新聞網",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGMDlDT2hRVncwbGdkb3Y4WmtNckpkSFR2WjhydVhaaWVVQXpFYTIySmNSMklrRGk1YnMwbmtzZlYxb0pTUlVTTkhoeW85RS02NjRwc3F5VEZJcjZ0RGQtbjMtS2pQY0RmX3phVzdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-30 18:26:01"
+      },
+      {
+        "title": "鄭麗文赴雲林授證挺張嘉郡 籲黨內團結拚選戰 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOaGVldkJ2TXBISVFpX0lmQmpHam5WYnNnMGxzb1B4b0RyanUyYXhsazJfZnpFdzZjYU9jU2dLN3Y1azVmU1NmbUo0RF9lWGg0SkMyTU9pZmNxTkhYUVBnby1JTTYtSHZmTWJmbFFCb21GTHp5cXh1YmdFb3Vmd2s4RXRaMW9xRXRuTVdhWnc5MElOa3hfSnN3V19KRmtnMTZrMl9JbzVDWWhHYnAybWpKQ3EwdEdQaXdXUXUyUFRXVm9fN092cENxcjVsRkRJU1NWTlF2bzB4WUU3QlI2Y0lUbkdNSmprNEg3WFJSWjNEWGZ0QjNsMTktYzlNMUxYbVgyWUt2T1N4UHkzTWFVbG9tV2o4ZkxGNHlhcEk4c3pULWFpWXdIU21fMVV1c3MzSXdtb25mQXN1bWRwOVZZdVBRcGdkS00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-30 17:33:54"
       },
       {
         "title": "出席雲林小組長授證 鄭麗文主席：呼籲鄉親讓張嘉郡接棒 延續執政好成績 守住雲林、攻向南臺灣 - kmt.org.tw",
@@ -1336,9 +1367,19 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "接棒張麗善 張嘉郡誓言：讓雲林升級轉型、彎道超車 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNNDdOTDBJanoxNzJOYkJXaUNBeWtfcl9RQjlHTkZvZkZwamJYb2E0MGlvMmUzSnJpSy15RGh0NUxIa1ZJajR3WEdEZkhQY1JDUFh0bkM1THE1RnZDbElxOU1DY01acHN2OU5YTEFNODJaMEpLd2RTU05iWGNhQWNnbXl2bmMxY051eVVqWlhGZTZfQlpuSUgzRV9aZmZKUFVXcDRSUU0xWlFoU25JWDZ4S3U1bEVhekhCYmU2X2J0QkxZZ3J5ei1UWnY1Qk5VUGlQeEpUeFVXSHMtNGs3RTdGemRUYi1qTlpzU3pISlJBMHlDUWg4eGN6RVgtUGJUQ29nZ1NCckF6RVpYaVo2bVZJT1YteEY5RFc1c0VFdjcteTBvTHBwWU1HeDZUQ1RIQ0cxQmtCQnR0VjRXY3JPVDc5SE1sOFdlS2Ixc0tlWWtkdWcxR1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-30 18:31:01"
+      },
+      {
         "title": "接棒張麗善 張嘉郡誓言：讓雲林升級轉型、彎道超車 - 中時新聞網",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGMDlDT2hRVncwbGdkb3Y4WmtNckpkSFR2WjhydVhaaWVVQXpFYTIySmNSMklrRGk1YnMwbmtzZlYxb0pTUlVTTkhoeW85RS02NjRwc3F5VEZJcjZ0RGQtbjMtS2pQY0RmX3phVzdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-30 18:26:01"
+      },
+      {
+        "title": "鄭麗文赴雲林授證挺張嘉郡 籲黨內團結拚選戰 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOaGVldkJ2TXBISVFpX0lmQmpHam5WYnNnMGxzb1B4b0RyanUyYXhsazJfZnpFdzZjYU9jU2dLN3Y1azVmU1NmbUo0RF9lWGg0SkMyTU9pZmNxTkhYUVBnby1JTTYtSHZmTWJmbFFCb21GTHp5cXh1YmdFb3Vmd2s4RXRaMW9xRXRuTVdhWnc5MElOa3hfSnN3V19KRmtnMTZrMl9JbzVDWWhHYnAybWpKQ3EwdEdQaXdXUXUyUFRXVm9fN092cENxcjVsRkRJU1NWTlF2bzB4WUU3QlI2Y0lUbkdNSmprNEg3WFJSWjNEWGZ0QjNsMTktYzlNMUxYbVgyWUt2T1N4UHkzTWFVbG9tV2o4ZkxGNHlhcEk4c3pULWFpWXdIU21fMVV1c3MzSXdtb25mQXN1bWRwOVZZdVBRcGdkS00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-30 17:33:54"
       },
       {
         "title": "出席雲林小組長授證 鄭麗文主席：呼籲鄉親讓張嘉郡接棒 延續執政好成績 守住雲林、攻向南臺灣 - kmt.org.tw",
@@ -1524,16 +1565,6 @@
         "title": "劉建國拜會陳其邁 喊推學童、長輩每周2天鮮奶、豆奶支持產業 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kQTl2TkN5Q0FsRm5YR1JQcnoxOENtQjFDYjdZakhaYVhwUTA1X0s4U3VtVVVyS1gyWEdIdmR4dTlnY3V0Sk9IZ0JFMW9CS1RhRVB2Q0xWYVnSAVhBVV95cUxOZEE5dk5DeUNBbEZuWEdSUHJ6MThDbUIxQ2I3WWpIWmFYcFEwNV9LOFN1bVVVcktYMlhHSHZkeHU5Z2N1dEpPSGdCRTFvQktUYUVQdkNMVmFZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-28 08:48:54"
-      },
-      {
-        "title": "劉建國拜會陳其邁 喊推學童、長輩每周2天鮮奶、豆奶支持產業 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6a2p1ZnRCWUE3VFdWdXd3NDk0dGxIaEkzSnhuLWtzN1RZc3ZPV2RCWHNjVjB5SEtnVUx4NXpFNFpkTDBuaXd2OUpnQ2FyUGNFblFZ0gFYQVVfeXFMTmRBOXZOQ3lDQWxGblhHUlByejE4Q21CMUNiN1lqSFphWHBRMDVfSzhTdW1VVXJLWDJYR0h2ZHh1OWdjdXRKT0hnQkUxb0JLVGFFUHZDTFZhWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-28 08:48:54"
-      },
-      {
-        "title": "選戰倒數劉建國拜會陳其邁取經 拋4大政策拚翻轉雲林 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxTUJmSmQxRXZyX0xZLXZIQVJNbllxcS1SMWtTZG81Y2FDMGllQnhPVkFkWV8wQjJWRTRhMFR0aXc2bUdlb2NoOWdtVDVfdmlIM2VkVWZhZTdTR1Z6b1RjRHhwcU5nRUZXakHSAW9BVV95cUxPTUtQMk1UNWx5VXNQM25yU2dwTXhrZW5PSXBsSzZTZTZoSGNXRmtBbFNLX3BqaVRwVi1yXzRmaDM5Rzc1UXZHR1M3WmpNaVdqNXNvQy1nMU15MGswT3pWOG1FQXlqb3FUN05EeXhWZFk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-28 08:22:19"
       }
     ],
     "facebook": [
@@ -1721,6 +1752,13 @@
     "hour": [],
     "day": [
       {
+        "title": "接棒張麗善 張嘉郡誓言：讓雲林升級轉型、彎道超車 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNNDdOTDBJanoxNzJOYkJXaUNBeWtfcl9RQjlHTkZvZkZwamJYb2E0MGlvMmUzSnJpSy15RGh0NUxIa1ZJajR3WEdEZkhQY1JDUFh0bkM1THE1RnZDbElxOU1DY01acHN2OU5YTEFNODJaMEpLd2RTU05iWGNhQWNnbXl2bmMxY051eVVqWlhGZTZfQlpuSUgzRV9aZmZKUFVXcDRSUU0xWlFoU25JWDZ4S3U1bEVhekhCYmU2X2J0QkxZZ3J5ei1UWnY1Qk5VUGlQeEpUeFVXSHMtNGs3RTdGemRUYi1qTlpzU3pISlJBMHlDUWg4eGN6RVgtUGJUQ29nZ1NCckF6RVpYaVo2bVZJT1YteEY5RFc1c0VFdjcteTBvTHBwWU1HeDZUQ1RIQ0cxQmtCQnR0VjRXY3JPVDc5SE1sOFdlS2Ixc0tlWWtkdWcxR1k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-30 18:31:01",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "范雲還原傅崐萁突然暴怒的原因",
         "url": "https://www.youtube.com/shorts/-JKsdOJcXC0",
         "time": "2026-07-30 18:30:00",
@@ -1746,6 +1784,13 @@
         "url": "https://www.youtube.com/watch?v=7g5m8cZgBQQ",
         "time": "2026-07-30 18:00:46",
         "platform": "youtube",
+        "risk": "綠"
+      },
+      {
+        "title": "鄭麗文赴雲林授證挺張嘉郡 籲黨內團結拚選戰 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOaGVldkJ2TXBISVFpX0lmQmpHam5WYnNnMGxzb1B4b0RyanUyYXhsazJfZnpFdzZjYU9jU2dLN3Y1azVmU1NmbUo0RF9lWGg0SkMyTU9pZmNxTkhYUVBnby1JTTYtSHZmTWJmbFFCb21GTHp5cXh1YmdFb3Vmd2s4RXRaMW9xRXRuTVdhWnc5MElOa3hfSnN3V19KRmtnMTZrMl9JbzVDWWhHYnAybWpKQ3EwdEdQaXdXUXUyUFRXVm9fN092cENxcjVsRkRJU1NWTlF2bzB4WUU3QlI2Y0lUbkdNSmprNEg3WFJSWjNEWGZ0QjNsMTktYzlNMUxYbVgyWUt2T1N4UHkzTWFVbG9tV2o4ZkxGNHlhcEk4c3pULWFpWXdIU21fMVV1c3MzSXdtb25mQXN1bWRwOVZZdVBRcGdkS00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-30 17:33:54",
+        "platform": "news",
         "risk": "綠"
       },
       {
@@ -1831,7 +1876,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 8
+        "count": 10
       },
       {
         "name": "虎尾",
