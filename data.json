@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-07-30T10:26:41.981440+00:00",
+  "generated_at": "2026-07-30T10:42:36.938189+00:00",
   "metrics": {
-    "total_24h": 17,
+    "total_24h": 16,
     "prev_24h": 18,
-    "growth_pct": -5.56,
-    "news_24h": 10,
+    "growth_pct": -11.11,
+    "news_24h": 9,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -15,8 +15,8 @@
   },
   "metrics_7d": {
     "total": 139,
-    "prev": 93,
-    "growth_pct": 49.46,
+    "prev": 94,
+    "growth_pct": 47.87,
     "news": 104,
     "anomaly": {
       "level": "綠",
@@ -28,15 +28,15 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 10
+      "count": 9
     },
     {
       "platform": "youtube",
-      "count": 6
+      "count": 5
     },
     {
       "platform": "facebook",
-      "count": 1
+      "count": 2
     }
   ],
   "by_platform_7d": [
@@ -56,7 +56,7 @@
   "by_hour": [
     {
       "hour": "2026-07-29 18:00",
-      "count": 7
+      "count": 5
     },
     {
       "hour": "2026-07-29 19:00",
@@ -77,12 +77,16 @@
     {
       "hour": "2026-07-30 16:00",
       "count": 2
+    },
+    {
+      "hour": "2026-07-30 17:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
     {
       "hour": "2026-07-23 18:00",
-      "count": 2
+      "count": 1
     },
     {
       "hour": "2026-07-23 19:00",
@@ -311,19 +315,35 @@
     {
       "hour": "2026-07-30 16:00",
       "count": 2
+    },
+    {
+      "hour": "2026-07-30 17:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 10
+      "count": 9
     },
     {
       "platform": "facebook",
-      "count": 1
+      "count": 2
     }
   ],
   "mention_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "台視新聞台. . 【#TTV最新快訊】蔡英文參訪雲林2醫療建設 劉建國盼四位一體升級 －－－ 雲林縣長參選人劉建國，27號邀請前總統蔡英文前往雲林，實地了解「臺大醫院雲林分院虎尾院區二期擴建」及「國家高齡醫學暨健康福祉研究中心」兩項重大建設最新進度，並向蔡 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNMnBZZDdfdjFPYUZCcW15Q2kzeUpBYUdUM0JTbVZFMlVQZ2JJekZtOHVDVzdraDdBYVJqLTlWbG9Sc21RMlh3NEEzX1E2OVVrQXdRSU9oVUpNZjNNeGt6d0JPLW50VjRrNkxpdXJ5VS1icVBuZXlXeDZ3dkdjTDdZVWNwTmkweXktUG81WHdGdjJBTVdFR1Z2OEhHQVFCQmd1dk9VYnNiZlZFTXMzZXItbXkwWVZPMW9saDAzTEhyRm1uV29haXpPUXl3bTd0NjQ1OWU0N1J3UlJCYmRaSEVuN21SZXhlVFVpci1IMjBQd09WakFnTTdEN2c1b0trRnVhbTltcXpZNENEM2FPTHF1bXBISTNxVXdpaGd0Ym1OZENQWThwZm10NGN4SFo5THJSUE84VDlvWEJtRnVIWmNHSEpTaGRYOXVzeEZZTDc2cFFqTDJqd0hBOUZiYW5SRGlLZGR5MXhkUEdSM3JQaXhXaGVmMGxodkN5OXl6Zkc4cWp1WXJFcS1SeEVKMG82U0ZuYUZpTTZuY3c2eWhl",
+        "time": "2026-07-30 17:18:10"
+      },
+      {
+        "title": "「張家班」成包袱？張嘉郡：往前看不要貼標籤 ▌姸選現場EP15精華 shorts 每週五 12:30–13:00 鎖定《民視新聞網》 【姸選現場】 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxPM2doTzA4M0c5UlBXNEJkWUk3bThzMlVWZXlGYVlUYXVSa0lfWnVwWm4xZDkzZm44SGdxU2FYdDNtWTZ5SnZhUk4xUGtZOW9iUWlNVm5qY3VzUzJMSDJoNUdVWFdCdmpTUHo0TnR6M29ad0IyY3VfdGNOSHRiWGNEYnlDNHNVZlNSSnJ0dnZaSWRCNjlfWjJHdW9nZzNpV3NkUGp5Wk4tTWJMVTBFS1JNWTlmWWJKUUJGdlBJOWlRM21OQ2xDN0ZxUENwWGpnXzRfcmZFclBQeGJuXzBvRjdrUEdsdWJidFlyMmdqSkswTjQyY2gzOXhzYWVUVnZwTFBNWE9NZkYwcWZ6NzJERWM1cnJSY0IzMmZuZWVjQXdYRWRYS1VWeEhSTlZLbGo3QVRJTm9CaVA3bzR0eC1KUFFpeG9BQ0thZk1fLTBYSkQza2dXNHQ0QW5DdURFY2pNWFNwSWpoeWhZR2R3UUZBdFNhTGlpOURyd3loeUlPdU1LbFhCSGtWOHlqb29ReV9JTFRDTk4xRVZVb0pRQXhSTWxhYXJmd3c3b0dhTHkzV0tXZkhXZ01lemJnNFROay13ZmY2MFUzN0xXdmVPTUZLS0g4dXYyT0pYUS1fTjdqd1pET0hGdWFtN2hmeTNDQzVPYU56Wlk5RDloSTM3RWRRcmlVYmE4WVN1YnkxbnBtNEdDQzBOQXRwekd3aVBjZUtYdFUwUkhLSEVVQml4bVZRbXg5Vll6dTlIU01nSWh4SnN4NElvb0Iz",
+        "time": "2026-07-29 19:20:50"
+      }
+    ],
     "news": [
       {
         "title": "出席雲林小組長授證 鄭麗文主席：呼籲鄉親讓張嘉郡接棒 延續執政好成績 守住雲林、攻向南臺灣 - kmt.org.tw",
@@ -369,32 +389,32 @@
         "title": "劉建國成功爭取農業用電補貼 行政院核定每年投入1億元減輕農民負擔 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNbXE0QWhNWWNBdUwxc1FGR1dYblkxdHM4ZzZ0THZNcFpmRWFDd25CaTliVlhSLUtESjhWeEpWcDdEbVZsTmpqaXFFVVl6dXA4T2pIQXp5dU1FT0Z4SzdnOFg1VkJ2czkzdmJ0MG82cXdJcTRlRzNDR0hSLVZzVXdqREg5T2ZTUmJfamNkYm8wN0V6eE0tVkFvZ3lXU0xZVXFPS3F0LTRjYU42cmxLOXA2aFJmVTRvaFRnak5xSVE1RjFCeUJuRmR6T0U3RHlhWTExSW1NNnJMejdCd3VtaHZRMGsxU01UMjFnenVHWlBCVTlVX1RCejhJZmtrajFWemRPcDgza1BNUW8yS2RuaUNTT180aUFKVmE5Q1diOHhScUs3bVBYbF90d0dqQjk3TGJqS185bUtqb3FuLUwtcVFVRUpPc2xQYU9ENFlOaUgwcklrclBWaFJON0FIRmZLd0JoQW1lSm9BOW9ncGg4SHJTdC1KcUhYNDhVSmhjdHFyZTZTTGtsTnB2UThzZ3dhelZaSWpYaDBFdWJyWlFCOGRCbjd1RDFpclpVcTRCeHprWlVWaHN5R0lsTmJGakNMUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-30 06:10:58"
-      },
-      {
-        "title": "劉建國成功爭取農業用電補貼 政院核定每年1億元嘉惠16.8萬農民 - 三星傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VeWhfYng5T1NhcXpEWFc4a3BWNHpweEJTbWw0NzhRMkVZNDhPcTl6aUxpTTlHOGJjOW5MYmx4RkVoVk9SVnpjYTVrOS1ib3YteVNDRzgxaUNHTnFqS19yeWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-29 18:37:03"
-      }
-    ],
-    "facebook": [
-      {
-        "title": "「張家班」成包袱？張嘉郡：往前看不要貼標籤 ▌姸選現場EP15精華 shorts 每週五 12:30–13:00 鎖定《民視新聞網》 【姸選現場】 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxPM2doTzA4M0c5UlBXNEJkWUk3bThzMlVWZXlGYVlUYXVSa0lfWnVwWm4xZDkzZm44SGdxU2FYdDNtWTZ5SnZhUk4xUGtZOW9iUWlNVm5qY3VzUzJMSDJoNUdVWFdCdmpTUHo0TnR6M29ad0IyY3VfdGNOSHRiWGNEYnlDNHNVZlNSSnJ0dnZaSWRCNjlfWjJHdW9nZzNpV3NkUGp5Wk4tTWJMVTBFS1JNWTlmWWJKUUJGdlBJOWlRM21OQ2xDN0ZxUENwWGpnXzRfcmZFclBQeGJuXzBvRjdrUEdsdWJidFlyMmdqSkswTjQyY2gzOXhzYWVUVnZwTFBNWE9NZkYwcWZ6NzJERWM1cnJSY0IzMmZuZWVjQXdYRWRYS1VWeEhSTlZLbGo3QVRJTm9CaVA3bzR0eC1KUFFpeG9BQ0thZk1fLTBYSkQza2dXNHQ0QW5DdURFY2pNWFNwSWpoeWhZR2R3UUZBdFNhTGlpOURyd3loeUlPdU1LbFhCSGtWOHlqb29ReV9JTFRDTk4xRVZVb0pRQXhSTWxhYXJmd3c3b0dhTHkzV0tXZkhXZ01lemJnNFROay13ZmY2MFUzN0xXdmVPTUZLS0g4dXYyT0pYUS1fTjdqd1pET0hGdWFtN2hmeTNDQzVPYU56Wlk5RDloSTM3RWRRcmlVYmE4WVN1YnkxbnBtNEdDQzBOQXRwekd3aVBjZUtYdFUwUkhLSEVVQml4bVZRbXg5Vll6dTlIU01nSWh4SnN4NElvb0Iz",
-        "time": "2026-07-29 19:20:50"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 10
+      "count": 9
     },
     {
       "platform": "facebook",
-      "count": 1
+      "count": 2
     }
   ],
   "alias_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "台視新聞台. . 【#TTV最新快訊】蔡英文參訪雲林2醫療建設 劉建國盼四位一體升級 －－－ 雲林縣長參選人劉建國，27號邀請前總統蔡英文前往雲林，實地了解「臺大醫院雲林分院虎尾院區二期擴建」及「國家高齡醫學暨健康福祉研究中心」兩項重大建設最新進度，並向蔡 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNMnBZZDdfdjFPYUZCcW15Q2kzeUpBYUdUM0JTbVZFMlVQZ2JJekZtOHVDVzdraDdBYVJqLTlWbG9Sc21RMlh3NEEzX1E2OVVrQXdRSU9oVUpNZjNNeGt6d0JPLW50VjRrNkxpdXJ5VS1icVBuZXlXeDZ3dkdjTDdZVWNwTmkweXktUG81WHdGdjJBTVdFR1Z2OEhHQVFCQmd1dk9VYnNiZlZFTXMzZXItbXkwWVZPMW9saDAzTEhyRm1uV29haXpPUXl3bTd0NjQ1OWU0N1J3UlJCYmRaSEVuN21SZXhlVFVpci1IMjBQd09WakFnTTdEN2c1b0trRnVhbTltcXpZNENEM2FPTHF1bXBISTNxVXdpaGd0Ym1OZENQWThwZm10NGN4SFo5THJSUE84VDlvWEJtRnVIWmNHSEpTaGRYOXVzeEZZTDc2cFFqTDJqd0hBOUZiYW5SRGlLZGR5MXhkUEdSM3JQaXhXaGVmMGxodkN5OXl6Zkc4cWp1WXJFcS1SeEVKMG82U0ZuYUZpTTZuY3c2eWhl",
+        "time": "2026-07-30 17:18:10"
+      },
+      {
+        "title": "「張家班」成包袱？張嘉郡：往前看不要貼標籤 ▌姸選現場EP15精華 shorts 每週五 12:30–13:00 鎖定《民視新聞網》 【姸選現場】 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxPM2doTzA4M0c5UlBXNEJkWUk3bThzMlVWZXlGYVlUYXVSa0lfWnVwWm4xZDkzZm44SGdxU2FYdDNtWTZ5SnZhUk4xUGtZOW9iUWlNVm5qY3VzUzJMSDJoNUdVWFdCdmpTUHo0TnR6M29ad0IyY3VfdGNOSHRiWGNEYnlDNHNVZlNSSnJ0dnZaSWRCNjlfWjJHdW9nZzNpV3NkUGp5Wk4tTWJMVTBFS1JNWTlmWWJKUUJGdlBJOWlRM21OQ2xDN0ZxUENwWGpnXzRfcmZFclBQeGJuXzBvRjdrUEdsdWJidFlyMmdqSkswTjQyY2gzOXhzYWVUVnZwTFBNWE9NZkYwcWZ6NzJERWM1cnJSY0IzMmZuZWVjQXdYRWRYS1VWeEhSTlZLbGo3QVRJTm9CaVA3bzR0eC1KUFFpeG9BQ0thZk1fLTBYSkQza2dXNHQ0QW5DdURFY2pNWFNwSWpoeWhZR2R3UUZBdFNhTGlpOURyd3loeUlPdU1LbFhCSGtWOHlqb29ReV9JTFRDTk4xRVZVb0pRQXhSTWxhYXJmd3c3b0dhTHkzV0tXZkhXZ01lemJnNFROay13ZmY2MFUzN0xXdmVPTUZLS0g4dXYyT0pYUS1fTjdqd1pET0hGdWFtN2hmeTNDQzVPYU56Wlk5RDloSTM3RWRRcmlVYmE4WVN1YnkxbnBtNEdDQzBOQXRwekd3aVBjZUtYdFUwUkhLSEVVQml4bVZRbXg5Vll6dTlIU01nSWh4SnN4NElvb0Iz",
+        "time": "2026-07-29 19:20:50"
+      }
+    ],
     "news": [
       {
         "title": "出席雲林小組長授證 鄭麗文主席：呼籲鄉親讓張嘉郡接棒 延續執政好成績 守住雲林、攻向南臺灣 - kmt.org.tw",
@@ -440,18 +460,6 @@
         "title": "劉建國成功爭取農業用電補貼 行政院核定每年投入1億元減輕農民負擔 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNbXE0QWhNWWNBdUwxc1FGR1dYblkxdHM4ZzZ0THZNcFpmRWFDd25CaTliVlhSLUtESjhWeEpWcDdEbVZsTmpqaXFFVVl6dXA4T2pIQXp5dU1FT0Z4SzdnOFg1VkJ2czkzdmJ0MG82cXdJcTRlRzNDR0hSLVZzVXdqREg5T2ZTUmJfamNkYm8wN0V6eE0tVkFvZ3lXU0xZVXFPS3F0LTRjYU42cmxLOXA2aFJmVTRvaFRnak5xSVE1RjFCeUJuRmR6T0U3RHlhWTExSW1NNnJMejdCd3VtaHZRMGsxU01UMjFnenVHWlBCVTlVX1RCejhJZmtrajFWemRPcDgza1BNUW8yS2RuaUNTT180aUFKVmE5Q1diOHhScUs3bVBYbF90d0dqQjk3TGJqS185bUtqb3FuLUwtcVFVRUpPc2xQYU9ENFlOaUgwcklrclBWaFJON0FIRmZLd0JoQW1lSm9BOW9ncGg4SHJTdC1KcUhYNDhVSmhjdHFyZTZTTGtsTnB2UThzZ3dhelZaSWpYaDBFdWJyWlFCOGRCbjd1RDFpclpVcTRCeHprWlVWaHN5R0lsTmJGakNMUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-30 06:10:58"
-      },
-      {
-        "title": "劉建國成功爭取農業用電補貼 政院核定每年1億元嘉惠16.8萬農民 - 三星傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VeWhfYng5T1NhcXpEWFc4a3BWNHpweEJTbWw0NzhRMkVZNDhPcTl6aUxpTTlHOGJjOW5MYmx4RkVoVk9SVnpjYTVrOS1ib3YteVNDRzgxaUNHTnFqS19yeWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-29 18:37:03"
-      }
-    ],
-    "facebook": [
-      {
-        "title": "「張家班」成包袱？張嘉郡：往前看不要貼標籤 ▌姸選現場EP15精華 shorts 每週五 12:30–13:00 鎖定《民視新聞網》 【姸選現場】 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxPM2doTzA4M0c5UlBXNEJkWUk3bThzMlVWZXlGYVlUYXVSa0lfWnVwWm4xZDkzZm44SGdxU2FYdDNtWTZ5SnZhUk4xUGtZOW9iUWlNVm5qY3VzUzJMSDJoNUdVWFdCdmpTUHo0TnR6M29ad0IyY3VfdGNOSHRiWGNEYnlDNHNVZlNSSnJ0dnZaSWRCNjlfWjJHdW9nZzNpV3NkUGp5Wk4tTWJMVTBFS1JNWTlmWWJKUUJGdlBJOWlRM21OQ2xDN0ZxUENwWGpnXzRfcmZFclBQeGJuXzBvRjdrUEdsdWJidFlyMmdqSkswTjQyY2gzOXhzYWVUVnZwTFBNWE9NZkYwcWZ6NzJERWM1cnJSY0IzMmZuZWVjQXdYRWRYS1VWeEhSTlZLbGo3QVRJTm9CaVA3bzR0eC1KUFFpeG9BQ0thZk1fLTBYSkQza2dXNHQ0QW5DdURFY2pNWFNwSWpoeWhZR2R3UUZBdFNhTGlpOURyd3loeUlPdU1LbFhCSGtWOHlqb29ReV9JTFRDTk4xRVZVb0pRQXhSTWxhYXJmd3c3b0dhTHkzV0tXZkhXZ01lemJnNFROay13ZmY2MFUzN0xXdmVPTUZLS0g4dXYyT0pYUS1fTjdqd1pET0hGdWFtN2hmeTNDQzVPYU56Wlk5RDloSTM3RWRRcmlVYmE4WVN1YnkxbnBtNEdDQzBOQXRwekd3aVBjZUtYdFUwUkhLSEVVQml4bVZRbXg5Vll6dTlIU01nSWh4SnN4NElvb0Iz",
-        "time": "2026-07-29 19:20:50"
       }
     ]
   },
@@ -460,8 +468,8 @@
     "劉建國": 5
   },
   "mention_compare_7d": {
-    "張嘉郡": 41,
-    "劉建國": 84
+    "張嘉郡": 40,
+    "劉建國": 85
   },
   "top_news": [
     {
@@ -508,11 +516,6 @@
       "title": "劉建國成功爭取農業用電補貼 行政院核定每年投入1億元減輕農民負擔 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNbXE0QWhNWWNBdUwxc1FGR1dYblkxdHM4ZzZ0THZNcFpmRWFDd25CaTliVlhSLUtESjhWeEpWcDdEbVZsTmpqaXFFVVl6dXA4T2pIQXp5dU1FT0Z4SzdnOFg1VkJ2czkzdmJ0MG82cXdJcTRlRzNDR0hSLVZzVXdqREg5T2ZTUmJfamNkYm8wN0V6eE0tVkFvZ3lXU0xZVXFPS3F0LTRjYU42cmxLOXA2aFJmVTRvaFRnak5xSVE1RjFCeUJuRmR6T0U3RHlhWTExSW1NNnJMejdCd3VtaHZRMGsxU01UMjFnenVHWlBCVTlVX1RCejhJZmtrajFWemRPcDgza1BNUW8yS2RuaUNTT180aUFKVmE5Q1diOHhScUs3bVBYbF90d0dqQjk3TGJqS185bUtqb3FuLUwtcVFVRUpPc2xQYU9ENFlOaUgwcklrclBWaFJON0FIRmZLd0JoQW1lSm9BOW9ncGg4SHJTdC1KcUhYNDhVSmhjdHFyZTZTTGtsTnB2UThzZ3dhelZaSWpYaDBFdWJyWlFCOGRCbjd1RDFpclpVcTRCeHprWlVWaHN5R0lsTmJGakNMUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-30 06:10:58"
-    },
-    {
-      "title": "劉建國成功爭取農業用電補貼 政院核定每年1億元嘉惠16.8萬農民 - 三星傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VeWhfYng5T1NhcXpEWFc4a3BWNHpweEJTbWw0NzhRMkVZNDhPcTl6aUxpTTlHOGJjOW5MYmx4RkVoVk9SVnpjYTVrOS1ib3YteVNDRzgxaUNHTnFqS19yeWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-29 18:37:03"
     }
   ],
   "top_news_7d": [
@@ -619,6 +622,11 @@
   ],
   "latest_facebook_20": [
     {
+      "title": "台視新聞台. . 【#TTV最新快訊】蔡英文參訪雲林2醫療建設 劉建國盼四位一體升級 －－－ 雲林縣長參選人劉建國，27號邀請前總統蔡英文前往雲林，實地了解「臺大醫院雲林分院虎尾院區二期擴建」及「國家高齡醫學暨健康福祉研究中心」兩項重大建設最新進度，並向蔡 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNMnBZZDdfdjFPYUZCcW15Q2kzeUpBYUdUM0JTbVZFMlVQZ2JJekZtOHVDVzdraDdBYVJqLTlWbG9Sc21RMlh3NEEzX1E2OVVrQXdRSU9oVUpNZjNNeGt6d0JPLW50VjRrNkxpdXJ5VS1icVBuZXlXeDZ3dkdjTDdZVWNwTmkweXktUG81WHdGdjJBTVdFR1Z2OEhHQVFCQmd1dk9VYnNiZlZFTXMzZXItbXkwWVZPMW9saDAzTEhyRm1uV29haXpPUXl3bTd0NjQ1OWU0N1J3UlJCYmRaSEVuN21SZXhlVFVpci1IMjBQd09WakFnTTdEN2c1b0trRnVhbTltcXpZNENEM2FPTHF1bXBISTNxVXdpaGd0Ym1OZENQWThwZm10NGN4SFo5THJSUE84VDlvWEJtRnVIWmNHSEpTaGRYOXVzeEZZTDc2cFFqTDJqd0hBOUZiYW5SRGlLZGR5MXhkUEdSM3JQaXhXaGVmMGxodkN5OXl6Zkc4cWp1WXJFcS1SeEVKMG82U0ZuYUZpTTZuY3c2eWhl",
+      "time": "2026-07-30 17:18:10"
+    },
+    {
       "title": "「張家班」成包袱？張嘉郡：往前看不要貼標籤 ▌姸選現場EP15精華 shorts 每週五 12:30–13:00 鎖定《民視新聞網》 【姸選現場】 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxPM2doTzA4M0c5UlBXNEJkWUk3bThzMlVWZXlGYVlUYXVSa0lfWnVwWm4xZDkzZm44SGdxU2FYdDNtWTZ5SnZhUk4xUGtZOW9iUWlNVm5qY3VzUzJMSDJoNUdVWFdCdmpTUHo0TnR6M29ad0IyY3VfdGNOSHRiWGNEYnlDNHNVZlNSSnJ0dnZaSWRCNjlfWjJHdW9nZzNpV3NkUGp5Wk4tTWJMVTBFS1JNWTlmWWJKUUJGdlBJOWlRM21OQ2xDN0ZxUENwWGpnXzRfcmZFclBQeGJuXzBvRjdrUEdsdWJidFlyMmdqSkswTjQyY2gzOXhzYWVUVnZwTFBNWE9NZkYwcWZ6NzJERWM1cnJSY0IzMmZuZWVjQXdYRWRYS1VWeEhSTlZLbGo3QVRJTm9CaVA3bzR0eC1KUFFpeG9BQ0thZk1fLTBYSkQza2dXNHQ0QW5DdURFY2pNWFNwSWpoeWhZR2R3UUZBdFNhTGlpOURyd3loeUlPdU1LbFhCSGtWOHlqb29ReV9JTFRDTk4xRVZVb0pRQXhSTWxhYXJmd3c3b0dhTHkzV0tXZkhXZ01lemJnNFROay13ZmY2MFUzN0xXdmVPTUZLS0g4dXYyT0pYUS1fTjdqd1pET0hGdWFtN2hmeTNDQzVPYU56Wlk5RDloSTM3RWRRcmlVYmE4WVN1YnkxbnBtNEdDQzBOQXRwekd3aVBjZUtYdFUwUkhLSEVVQml4bVZRbXg5Vll6dTlIU01nSWh4SnN4NElvb0Iz",
       "time": "2026-07-29 19:20:50"
@@ -712,11 +720,6 @@
       "title": "📣呼吸乾淨空氣是基本人權！劉建國與台灣室內環品協會提出四大修法訴求：https://hoomedia.com.tw/2026/07/24/155904/ 🌎延伸閱讀： https://hoomedia.com.tw/2026/07/24/155904/ 🏘️互傳媒新聞網： https://hoomedia.com.tw - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxNeWktR2F6ejFMNFhENDlCVUFxZTVwbDdLZjRRU3JadEpRbVhnOVpFNTBpNmg4aERFOC1JWlNLdjFlVlBzRHFXM3d5aEdFVzExOXRVLVliV3liMVZSR0FHVlZ1RWpVQnpJeWNiQWR6TFVFYWlQbkp5NE9ac21uUmV0UGVfdmFOSlZ4U0l1cmhPLTZGd2NBdVJja3pjOVg5dDJTekJfcEZKZkp3TEx3OWh5OWNfd0JVYUJhSGhUNGJuNG5yLUNWdmltSDZYdEc0M1NxZzhIRFVoSncxWmUzRFdaVllWLVFvc096cFRpX0FEeVlBYmNTa0xIcXA5cUd5TkFDa0VsNVBIb3lCdDhpcmhGSEhKMWYxa3RZYXN2SDBtUXRHcEtteUZQUTktYU5tTzJ3VWkweFY5OVNzNEJ1LTJOV3NrNnRPV2o4aEZJenlONk5iWm5KbVJVOVo4NGVZSFc3MndCelNkMUN6SmV3RG9pRUhzQXU4SUJDR0ZvdXJQaG1hZ0w4NE1SSl9UNzFBd0xzQmU2dF9pVWtzU2NMTkNmd2RKbUluaGZaalNpQTJGSjR4WS1ScldEWmdfYXRCdWFxaFRqc1p0VnpZTUNBd180STVXUlFLa3FIcnBfdnJiU1QweGJ4TXc5VjQ1aGJrdXN2UDhEUjgtZ09WdVdMWVFrTEZkMk5RbVZNYk1rRXRNUVpjX1pkSUdFZFNjZVZBV0NlQnZKM1Y4MjVSUFhQWWhJbUNXYnZyc284ZFNvTWNRQUxNalF3aDY0bGYwNFZ1TW14U0FidHplbzJQMVYwME5jLW1pa0RlcS02S1E",
       "time": "2026-07-24 16:17:42"
-    },
-    {
-      "title": "0-18歲，每個孩子都值得更好的成長照顧。❤️ 亭妃和 立法委員 王美惠、蔡易餘 家己人、劉建國 一起站出來，強力主張 0-18歲月領5000元「成長津貼」，不立法直接發，讓政府成為每個家庭最堅強的後盾。 ✅ 直接做 （明年開始做） ✅ 直接領 （不立法就能領） ✅ 免繳稅 （實 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi6gZBVV95cUxPRk1hMDJNV2t6V0RxaE1tN1RCUkp2VUtXeEJVRHQ5UFVxajFNUjZ0ZmgzNVhWaUxlQkRwdVA3T0hoeV9qaFhfMl9Qb2pLU2tIeVMteVAzMlFISVA4b1ZHTmdFN2cyMEhlNW1JWDNhMVRQdEw0M0FueGFsWERvYms0ejAwQmJrNDZfckwxZ2lkTzFPcmJ5SUVMd0xmTWVkcmhBUnp0c09HSW04UFdzMDBiVzNFbGtOeXRucWk4cm8xN0lfSWRST3FkMmp4TXZaVmh2WWJ4MUFYZHRNbXd5X3BBWUFUV1ROSDU0YnhGQ3d3d05uMzc5bHBKQk10c0lSRTl3c25TWmJkVXZOZ0RyUHZLajFIX3hzeTA2Rm1pWGlBbWZjU2pBQmtlTVRoNjFnVUdwR1ZlQWlTMzg2dEJLSnFrUEVBUFdqVHhKMGtHeU9rWnMzU0tuSTQ0TTRpc00xWXV3RDYxbTFsTEVNVllwOGJycXdrVVBjRXJJOXI1ZE5hTFNuRnZOdVFzNlJWQ3p0VldZMk9WTEw3QUprODlkTmFtT1h3aXc4ZURhTktjZ1ZWR1otak1FWGlXWllsajJGdG5LS2VfSHRWTHl0VnhiVURwX2pYcjA3ZzJZUVA4S1NnV0VyZVM3UllJMlhkZVl3c2xjMkdoYTBDcnk2cEFJVGxZS2RRRlFLYmVRWFBuR2xkaG1ZdE5wQXNCWHRtVms1SlNSbDRjV0JCRWFtVWxxdkVZNEJKaVlxakFCUlpxT3NxZFRFaHY2QndST2pWT1JST2hSQktoaFNKRkprN0cwbEVSbnFtcThtLVh4MUtDNGNyb1c5WmhEcWMwQVk3TWFuMThQN1Ftc1Z6QWVpc0JHVzg4U3hqc3MzTF9JU1FZMlFMWHVvd0JPalR2U194clkzNTI1VDlUYlB3Nk9tVHBDUTZsc2Y3M1pkZTVtbTJrUDJHeC0yZWNhSEtycEZCeWpZem1DMkZLTnJlN3dpMk16dDZWWHBWcm5VUUVRUVdMVkRnczFSMWJMY0ZsOHJxdnlNSEF4TnNaWGpkODVsaGp2RnVzTVlBLWFjVEgwOHZCOFEzVXY2ZTFnaWVsWGhiWldHcEpBM1BfMDhhakIzVmF1QkpKU0IyQ2lVSHZMMnlIaVBzc2xHdk1jRXRzcUpB",
-      "time": "2026-07-24 14:41:13"
     }
   ],
   "latest_news_20": [
@@ -1031,6 +1034,11 @@
     "劉建國": {
       "facebook": [
         {
+          "title": "台視新聞台. . 【#TTV最新快訊】蔡英文參訪雲林2醫療建設 劉建國盼四位一體升級 －－－ 雲林縣長參選人劉建國，27號邀請前總統蔡英文前往雲林，實地了解「臺大醫院雲林分院虎尾院區二期擴建」及「國家高齡醫學暨健康福祉研究中心」兩項重大建設最新進度，並向蔡 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNMnBZZDdfdjFPYUZCcW15Q2kzeUpBYUdUM0JTbVZFMlVQZ2JJekZtOHVDVzdraDdBYVJqLTlWbG9Sc21RMlh3NEEzX1E2OVVrQXdRSU9oVUpNZjNNeGt6d0JPLW50VjRrNkxpdXJ5VS1icVBuZXlXeDZ3dkdjTDdZVWNwTmkweXktUG81WHdGdjJBTVdFR1Z2OEhHQVFCQmd1dk9VYnNiZlZFTXMzZXItbXkwWVZPMW9saDAzTEhyRm1uV29haXpPUXl3bTd0NjQ1OWU0N1J3UlJCYmRaSEVuN21SZXhlVFVpci1IMjBQd09WakFnTTdEN2c1b0trRnVhbTltcXpZNENEM2FPTHF1bXBISTNxVXdpaGd0Ym1OZENQWThwZm10NGN4SFo5THJSUE84VDlvWEJtRnVIWmNHSEpTaGRYOXVzeEZZTDc2cFFqTDJqd0hBOUZiYW5SRGlLZGR5MXhkUEdSM3JQaXhXaGVmMGxodkN5OXl6Zkc4cWp1WXJFcS1SeEVKMG82U0ZuYUZpTTZuY3c2eWhl",
+          "time": "2026-07-30 17:18:10"
+        },
+        {
           "title": "王美惠攜手蔡易餘、劉建國、陳亭妃倡議推動0至18歲成長津貼 每月5,000元減輕家庭負擔 王美惠攜手蔡易餘、劉建國、陳亭妃倡議推動0至18歲成長津貼 每月5,000元減輕家庭負擔 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMi_gZBVV95cUxQVktBUWU3UEEyWkg0RGphN0xsZmdiWC1WOU5oNi0tbG9EU25EZHBOWkhfT1BYWFlZZ0Y5ZlYyYnVFREw1TnF1VUpwY2lRRVA0OGprZWZEVXR3TlU2T0E4RUhSMU1SYUpadERQRjBBSG9ndm5wdlMxNVJCUkZQbklMaVgzakEzRDJOZVlJZkc5MGJIeFk1cE9TR1NFYTI0TkhIYkJHcEI2NEpRQUFTVW5GckJsRkR5dzlRbjJadVVsODNVRjB2bWJDQV95andYdUJ2ZjFKa1BPd3A5SVJYbHVXbENDaXRIY21EUm41al9aTWtmLTNnUVBDdXdVcE02RVF0VXotdS0xRWU1ZTZobVNRWXkzQzBpOXp5X3c4Mmt0MVQybmFoekdLVk1iVUw5bFVWVzA1YkpYRjlJUE9wNmt1X1pxek9XTWpNbGZVcmpRREhyZUZiNjZISk5lMkd6R0FoUTFBQVFzTE0wenlTdk9uLWpZbUtQNTNhd3Z6RzVzZmlsQmtnX1NKbU9qN3ZEaXJqemVEOTJMX1hYbTdxaDNEa1ZOV0hIdEFrZVdoSEx5Zzl1NjB0MTNBZ3AyUGhYQ1czTzZpZVZoZXpEWThBR21oRE5STHhvR0VwUG9LMXZwcGJiMXpfdkRJX0Y0Tm5TVUo3blhBQ3JFWVRYRkVwbGp2cFB2YmFtQXFJRmFuM2pINFp6Qm9jcy12WURiVTdwRVdZUm9RMUdIcVNLUnNUMllpUFdURnBEVmJXbUQ4c0ZBRmRPWThDQ0d6dWh1VC1BMjlMOTQ3RDQ5Q2RzVElMYnRjR0FhQnR6Q3Q2SGU3ay1SbVgxZ2xRVkh6T1BDejllazUya0xiM0xkajJuOTZDTzl3Qy12QkpvbVJjMFpvc2I0dkpqdVF6SkJhUVJraER5SUJNallpd1ExbVM0RDMzN0txQUFKcFVPY0FLWVRjbzJJUC14dF9ZQTNOeWotQkpJNEJCakFYRkkwQzlNNng4WTVWNkF5TmhzRzJhMTFVSXdOZERxQlRKd2NNbG5tWjBXQkVHd0dLZE4yazE2cTFxc3dXcnJRal9UZjh0TExoLVB0eVN3YThCWHJ4cXYwZEdadkVzVi11LUg4RWRjSldkdzYwUGFuRmd2enZ3VGt4SnVKWUpNbldmNDE5OXBneGxuVUVmeGltbzNldzV1WHdBd0E",
           "time": "2026-07-25 11:08:24"
@@ -1124,11 +1132,6 @@
           "title": "雲林新聞網. . 交通是身心障礙朋友參與社會的重要基礎，也是落實平等權利與社會共融的重要一環，立法委員劉建國得知虎尾身心障礙協會長期面臨交通接送需求後，主動協助尋找社會資源，並在5日，由善心人士蘇品家先生、陳美慧小姐、許哲明先生及黃暉雄先生共同 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMiuAhBVV95cUxNTVFWODFwNVJ0ZnNnTmxsQkRxaUt0QkpYbVRRNVZtdTNZVFNXZnFpMG92bnBjU1Q3OGpvNDVpMF9CbVBtN1JFUWk1cE1Mb0t6b0l5b2xJTzVQaVJILWQ0aHptVHJ5OEpMdkxpRW1sOTNtai10ZDlEUjdNTWxpZGRkT3Q0NEZzUWZsQ1Aya1dZYmZURHJVY1pNN0hEWDU4UVVmY2o0ZWZQdVkxSmNKT0FaQTlQMTNST0dCWllRRG41cVpQd2V2NXRmVkxJc25HMEtadWJ6VmpNaHU3TkVxOVlXek1JRHR1OVFqS3dSWHhncUhpNlVNRE5ZeXJINVM1cDFiMkllZWxFWkM2UjZjM0dGcDhTcFItTlVObV9rSDJqN3B0Y083RVlKS3R0TVFxSVJERVRLb0o4N0Rpc1hBWTBnWWFxU0hNT0xMR3FPdlgzUE1GcTNoUm9Gei1BcEZoT0NPNS1Xbm5mNTh2bERUTWpuUnh6dnRpYlRNX2czX0tCU1pSQzRLQ3RzbDlKc2J6QkdtWmxXdTdjYlVuOS1pSlpRN0s0TGZCX3hZeDV3Ujc3d0hZZTZ2YW9HQkFhN0NLM2VHWG9NLWI4V0oxRjVoY3cwNkszakNSLXJxMHlUVlUtT0pOajZ6cWo0NG9DZGE5RnJPZkNweHV3SEE2NGJtRUJodW1sN19uX1RHRjBNNEVnN2RKZ05RUkl1eDZWUlRMXzEtb3dJbDVGdEJERFVlRTFWZWI1WEk2dzBFT0xtLVNqaThuNHllTkhKMXUzTnh6Wm9WNTZDZWJISUtZRlZCd0dQaGR1M3B3VnhqY0JnVzY2Tjh1V3dqMEI1dG1mMnlxMFRqX3lpUFJyVUtEazFuU3l3YkE4cU5mVEpKNUFKbUxHWDY2NnR4ei1haWZVaEdBSGhOREFBWm4wd2pJdTNYOFU3TWJUZWFFLWdHR0EzYkI4YWdtSC1Jd3RtbVBWZDBDMEt1YzNWMDlQNENLczY0Y3NRZm44S2lxT3JPTW5ZcFd4RVZ4Ul9adGJ6Q3RRQllSSWFTOUZjc1ZvQlR0TFVEbHJ2cGEzUmEzYXRaRjRILW5yVFJvZkIxbUE1OWRoX1NzdzVxa18tN2JGRWh6WG5DZkNuMDN2ZWtGX2JpOFFFdVZUZmZHX05wTDdPU1N5eXhCVUNsNTloYWc0QnpFemZfWW9qYkxxZWprdlRGcXNucHhKN3kwa1dYcVk3QUVtSmpHSGdTNWRqME0yN1owdk1KdG90bjlyRm9xTHdBOXhWRHNaenRqLXVjMTF3em5IWThZeVQ1Rng1T3JwYXBFTG9WSEFhS3pRVmd2WE9BSWNCTkstWHczVU9ELVotRlhTUTEtWUw4VF90SmlUdTNSNVdobWFWTHlnajJzUkVHTlZTZDUzdk54VTBCdGRZZXZDcGZiRUhxWDN2RFpkZ2Y",
           "time": "2026-07-06 20:00:57"
-        },
-        {
-          "title": "立委劉建國媒合善心資源 溫馨巴士贈捐虎尾身心障礙協會 . 交通是身心障礙朋友參與社會的重要基礎，也是落實平等權利與社會共融的重要一環，立法委員劉建國得知虎尾身心障礙協會長期面臨交通接送需求後，主動協助尋找社會資源。 . 5日上午，善心人士蘇品家先生 - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMipghBVV95cUxOdVNlZ0NUcVFkeWlYSDl4SWVnYVh0cGFFMWNQTV9jMmVxbXlsekxPWGlRSHVHcWpxYVFuVmJlLXllUU4xM0Q4dmtVdGFpd1dOZmp5NkxCTHVHSFVBVWMzQVlvZUZxQWc4aFRVQUpZNGYydmV3UXY3cnVEMlQyRFVhb3U0MGtPRHdwbUlkY3djR21CY1NQVzBGbkRKaVFHNTRnd093NXg0UXJHeURZSlBrQ2lGR3VfTjBueEZSX2VpZktUT3FhaWptOFJQdnozekdqXzl5TF9LaHhVT1Y0QVZMQUNYQnZ1cHY0dk1tVFpIdGZSS0N0QVZWRDdhem4tQjI0RHFwSTdMeEtGYkpsWU5jZVpPZW5RNC1iai1HMlFhc2xDckNDLXk3QURHQU5ReWhyOFlSQnJGV0o3Nll6S3UyVkJsRVRvcmRZUERETVJmUVNuQl9TMHhTLVZiQzRFaldtMl8tQ25MUFhNZzQ5elJqanlPd05fbmtKcVNKUm5WMzZJOTJIcTFoMzhHUVVoV0V2cEc5SG5EVF9NVDVibUhTZ3BrdGFUTi16X3pRYlVxaDFvTDZmWnBZUHlNRDdkQ3pHRDJjMTFQM2pia0lnOWNmbkc5Z1oyZkMtcjlfVUY0T2lBczFjRE96WjFwaEFwVHV6d3dpUF8xZVRraUIxdzhuOGJJeG9TQm9FTFF0STU3UDM5ZFNNUmRkUEJRcjN1T3BvbC1kaWVnUDBEcklDZ3JXS05yNGE3ellieTNocjZHLUdCck1FekRYTUJnSGhFeWhhS2RmbXZRQ3lBcnpBRXFMQlZqYV96Qjg5NzRIODFmZWZXMEdxcDNIYVpwUTRGbXZDS0loUUVMY1FOZmItWlh0bGdOX2c2aHJTZ1VPUUpJOXFteU5BM1JpTDBJR2xOeEI0TDRaU0gyVmlRUU9pcUIxU3BWMzlvSkI3TERrb1RmUEZhSzZ0c0ZfX3NyMUZoUlJDRllrWEZHWjlXSEFVb2VLVHdpNTYyM0RXUm9IZVFaQ3RUT2c5TC0xMk5ibmE2UjVYVHpXSXFwcW5ZU0U5enpDdTlDbE92UEZqeVhNMWV4SFBGNWphSlNnNGRCTG5VOHhaR0dxNHo4NUxOdDNPUzFEWDN1WEZXTEhJNUo2T0JpWWY4UmczNW50WlRxMGNvVXozQkR6OVdHbXAwU1VMY1JYUlZKekdxOGw5a1UtZHB6dnhYazhUWFh0THU2UVRlY0FUMzI5S0RsYVhQWklPaTJoRkxVa3VadjNQRU1RNmxYeWFRcnlRWEFud2hYTGRNTDdqTDNrS3hpYUZVQzBmeGFUUGt5dWhDcEl5VWlJMV9BS0JwTTlCUFpBSFUwWVFTOHd1T3g5cDRrZm5ESGNVTERUTE1ial9XQzVSbXpJY19SeWtQaVBCVlE",
-          "time": "2026-07-06 18:21:39"
         }
       ],
       "news": [
@@ -1281,11 +1284,6 @@
         "title": "劉建國成功爭取農業用電補貼 行政院核定每年投入1億元減輕農民負擔 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNbXE0QWhNWWNBdUwxc1FGR1dYblkxdHM4ZzZ0THZNcFpmRWFDd25CaTliVlhSLUtESjhWeEpWcDdEbVZsTmpqaXFFVVl6dXA4T2pIQXp5dU1FT0Z4SzdnOFg1VkJ2czkzdmJ0MG82cXdJcTRlRzNDR0hSLVZzVXdqREg5T2ZTUmJfamNkYm8wN0V6eE0tVkFvZ3lXU0xZVXFPS3F0LTRjYU42cmxLOXA2aFJmVTRvaFRnak5xSVE1RjFCeUJuRmR6T0U3RHlhWTExSW1NNnJMejdCd3VtaHZRMGsxU01UMjFnenVHWlBCVTlVX1RCejhJZmtrajFWemRPcDgza1BNUW8yS2RuaUNTT180aUFKVmE5Q1diOHhScUs3bVBYbF90d0dqQjk3TGJqS185bUtqb3FuLUwtcVFVRUpPc2xQYU9ENFlOaUgwcklrclBWaFJON0FIRmZLd0JoQW1lSm9BOW9ncGg4SHJTdC1KcUhYNDhVSmhjdHFyZTZTTGtsTnB2UThzZ3dhelZaSWpYaDBFdWJyWlFCOGRCbjd1RDFpclpVcTRCeHprWlVWaHN5R0lsTmJGakNMUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-30 06:10:58"
-      },
-      {
-        "title": "劉建國成功爭取農業用電補貼 政院核定每年1億元嘉惠16.8萬農民 - 三星傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VeWhfYng5T1NhcXpEWFc4a3BWNHpweEJTbWw0NzhRMkVZNDhPcTl6aUxpTTlHOGJjOW5MYmx4RkVoVk9SVnpjYTVrOS1ib3YteVNDRzgxaUNHTnFqS19yeWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-29 18:37:03"
       }
     ],
     "youtube": [
@@ -1313,14 +1311,14 @@
         "title": "藍白強行通過的未來帳戶違反預算法、侵犯行政權，還可能導致兒少貧者越貧，富者越富！",
         "url": "https://www.youtube.com/shorts/QTQqHdtAEfQ",
         "time": "2026-07-29 18:42:37"
-      },
-      {
-        "title": "藍白多數強行表決通過的「未來帳戶條例」，是個一變再變、問題重重的立法",
-        "url": "https://www.youtube.com/shorts/HDFu-xT2dtA",
-        "time": "2026-07-29 18:40:35"
       }
     ],
     "facebook": [
+      {
+        "title": "台視新聞台. . 【#TTV最新快訊】蔡英文參訪雲林2醫療建設 劉建國盼四位一體升級 －－－ 雲林縣長參選人劉建國，27號邀請前總統蔡英文前往雲林，實地了解「臺大醫院雲林分院虎尾院區二期擴建」及「國家高齡醫學暨健康福祉研究中心」兩項重大建設最新進度，並向蔡 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNMnBZZDdfdjFPYUZCcW15Q2kzeUpBYUdUM0JTbVZFMlVQZ2JJekZtOHVDVzdraDdBYVJqLTlWbG9Sc21RMlh3NEEzX1E2OVVrQXdRSU9oVUpNZjNNeGt6d0JPLW50VjRrNkxpdXJ5VS1icVBuZXlXeDZ3dkdjTDdZVWNwTmkweXktUG81WHdGdjJBTVdFR1Z2OEhHQVFCQmd1dk9VYnNiZlZFTXMzZXItbXkwWVZPMW9saDAzTEhyRm1uV29haXpPUXl3bTd0NjQ1OWU0N1J3UlJCYmRaSEVuN21SZXhlVFVpci1IMjBQd09WakFnTTdEN2c1b0trRnVhbTltcXpZNENEM2FPTHF1bXBISTNxVXdpaGd0Ym1OZENQWThwZm10NGN4SFo5THJSUE84VDlvWEJtRnVIWmNHSEpTaGRYOXVzeEZZTDc2cFFqTDJqd0hBOUZiYW5SRGlLZGR5MXhkUEdSM3JQaXhXaGVmMGxodkN5OXl6Zkc4cWp1WXJFcS1SeEVKMG82U0ZuYUZpTTZuY3c2eWhl",
+        "time": "2026-07-30 17:18:10"
+      },
       {
         "title": "「張家班」成包袱？張嘉郡：往前看不要貼標籤 ▌姸選現場EP15精華 shorts 每週五 12:30–13:00 鎖定《民視新聞網》 【姸選現場】 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxPM2doTzA4M0c5UlBXNEJkWUk3bThzMlVWZXlGYVlUYXVSa0lfWnVwWm4xZDkzZm44SGdxU2FYdDNtWTZ5SnZhUk4xUGtZOW9iUWlNVm5qY3VzUzJMSDJoNUdVWFdCdmpTUHo0TnR6M29ad0IyY3VfdGNOSHRiWGNEYnlDNHNVZlNSSnJ0dnZaSWRCNjlfWjJHdW9nZzNpV3NkUGp5Wk4tTWJMVTBFS1JNWTlmWWJKUUJGdlBJOWlRM21OQ2xDN0ZxUENwWGpnXzRfcmZFclBQeGJuXzBvRjdrUEdsdWJidFlyMmdqSkswTjQyY2gzOXhzYWVUVnZwTFBNWE9NZkYwcWZ6NzJERWM1cnJSY0IzMmZuZWVjQXdYRWRYS1VWeEhSTlZLbGo3QVRJTm9CaVA3bzR0eC1KUFFpeG9BQ0thZk1fLTBYSkQza2dXNHQ0QW5DdURFY2pNWFNwSWpoeWhZR2R3UUZBdFNhTGlpOURyd3loeUlPdU1LbFhCSGtWOHlqb29ReV9JTFRDTk4xRVZVb0pRQXhSTWxhYXJmd3c3b0dhTHkzV0tXZkhXZ01lemJnNFROay13ZmY2MFUzN0xXdmVPTUZLS0g4dXYyT0pYUS1fTjdqd1pET0hGdWFtN2hmeTNDQzVPYU56Wlk5RDloSTM3RWRRcmlVYmE4WVN1YnkxbnBtNEdDQzBOQXRwekd3aVBjZUtYdFUwUkhLSEVVQml4bVZRbXg5Vll6dTlIU01nSWh4SnN4NElvb0Iz",
@@ -1533,6 +1531,11 @@
     ],
     "facebook": [
       {
+        "title": "台視新聞台. . 【#TTV最新快訊】蔡英文參訪雲林2醫療建設 劉建國盼四位一體升級 －－－ 雲林縣長參選人劉建國，27號邀請前總統蔡英文前往雲林，實地了解「臺大醫院雲林分院虎尾院區二期擴建」及「國家高齡醫學暨健康福祉研究中心」兩項重大建設最新進度，並向蔡 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNMnBZZDdfdjFPYUZCcW15Q2kzeUpBYUdUM0JTbVZFMlVQZ2JJekZtOHVDVzdraDdBYVJqLTlWbG9Sc21RMlh3NEEzX1E2OVVrQXdRSU9oVUpNZjNNeGt6d0JPLW50VjRrNkxpdXJ5VS1icVBuZXlXeDZ3dkdjTDdZVWNwTmkweXktUG81WHdGdjJBTVdFR1Z2OEhHQVFCQmd1dk9VYnNiZlZFTXMzZXItbXkwWVZPMW9saDAzTEhyRm1uV29haXpPUXl3bTd0NjQ1OWU0N1J3UlJCYmRaSEVuN21SZXhlVFVpci1IMjBQd09WakFnTTdEN2c1b0trRnVhbTltcXpZNENEM2FPTHF1bXBISTNxVXdpaGd0Ym1OZENQWThwZm10NGN4SFo5THJSUE84VDlvWEJtRnVIWmNHSEpTaGRYOXVzeEZZTDc2cFFqTDJqd0hBOUZiYW5SRGlLZGR5MXhkUEdSM3JQaXhXaGVmMGxodkN5OXl6Zkc4cWp1WXJFcS1SeEVKMG82U0ZuYUZpTTZuY3c2eWhl",
+        "time": "2026-07-30 17:18:10"
+      },
+      {
         "title": "「張家班」成包袱？張嘉郡：往前看不要貼標籤 ▌姸選現場EP15精華 shorts 每週五 12:30–13:00 鎖定《民視新聞網》 【姸選現場】 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxPM2doTzA4M0c5UlBXNEJkWUk3bThzMlVWZXlGYVlUYXVSa0lfWnVwWm4xZDkzZm44SGdxU2FYdDNtWTZ5SnZhUk4xUGtZOW9iUWlNVm5qY3VzUzJMSDJoNUdVWFdCdmpTUHo0TnR6M29ad0IyY3VfdGNOSHRiWGNEYnlDNHNVZlNSSnJ0dnZaSWRCNjlfWjJHdW9nZzNpV3NkUGp5Wk4tTWJMVTBFS1JNWTlmWWJKUUJGdlBJOWlRM21OQ2xDN0ZxUENwWGpnXzRfcmZFclBQeGJuXzBvRjdrUEdsdWJidFlyMmdqSkswTjQyY2gzOXhzYWVUVnZwTFBNWE9NZkYwcWZ6NzJERWM1cnJSY0IzMmZuZWVjQXdYRWRYS1VWeEhSTlZLbGo3QVRJTm9CaVA3bzR0eC1KUFFpeG9BQ0thZk1fLTBYSkQza2dXNHQ0QW5DdURFY2pNWFNwSWpoeWhZR2R3UUZBdFNhTGlpOURyd3loeUlPdU1LbFhCSGtWOHlqb29ReV9JTFRDTk4xRVZVb0pRQXhSTWxhYXJmd3c3b0dhTHkzV0tXZkhXZ01lemJnNFROay13ZmY2MFUzN0xXdmVPTUZLS0g4dXYyT0pYUS1fTjdqd1pET0hGdWFtN2hmeTNDQzVPYU56Wlk5RDloSTM3RWRRcmlVYmE4WVN1YnkxbnBtNEdDQzBOQXRwekd3aVBjZUtYdFUwUkhLSEVVQml4bVZRbXg5Vll6dTlIU01nSWh4SnN4NElvb0Iz",
         "time": "2026-07-29 19:20:50"
@@ -1651,11 +1654,6 @@
         "title": "雲林新聞網. . 雲林縣長張麗善於23日與立委張嘉郡、雲林縣議長黃凱及跨黨派議員共同宣布，將於明年度總預算編列經費，推動65歲以上長者全額免健保費，預計嘉惠全縣逾14萬3千名長者、年經費約9億元。張麗善表示，雖中央未採納地方修法建議，但縣府在這幾年減 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi5wdBVV95cUxQQmdLa3BQbWFtVFM0cUpiLXlnNkJQLXFZeUZtdmtsZUJMdVRFejFJNUg4aDRaaXI5anBuQVdrS2VjVmxpLWt3SVVpS0FqOW84bFZtUWd5U3RVUTFVOEZrcmVwcjF6d3Bya3pkRUlvUjBJYnpTZlVMU3lvX29sWXIzb1QtUWlfX1hnZUxYNUdINERhOGpsSUJvby0tS2RBNkdPV1dRSlJPVTdGM1owVllOZl9ORlZlRy12VjgwazJnYVVkNXByMGoxYU14cjVyTlJfM3RiWkxRSUg5dHE1ZXVZZmgxeDFwSXRoblhFU1dVY2hOcXVUUmluZWZweVk4MVZ1Z3J5TFJrZzhoUUNhSTg4LXBLdjM3TzZ6S2h5dzZFeWpFTnZjWlBscllrNmFCYlpfQ2VEVExEcklMb0xLaEowVGxTM2FmSkxWY3c2eG9jbEVpQ3JxcERCV2FXVVU5Z1k4SzMzSmZNR1d2cllQQ0M5Z1d0cllxU05nTjVyYjNpcjdWZUJnLVp6RTg1UUdValAzaXhNUnk3NlFSZjNIbFg1c2ZLRm0xUVlsTDlUVWpMaE5lQ2hSeHBsTXdwVmJtMXIyQmQ2YUk4MExXbGM5cGE4Y0lDVjRhbmhCbXRQUGJKTTg2ZnRkb28zYTlSYVRwdFpOU0dfcUVLN0dSZGIzaFZyQkxKYWdIb3VsbEtCTjJqSmJPZmptNUVhdHB2RE1DTDNwREl2NzhfUVFQcUFDMU5OblUxUlNDdTZvR1l1cjF1MGMyNG1nWGItU29zUWFGMTVrWW9SNFlNUXNVaWpzRkdOcWlqbG1VNnB5LXBNVWRfMk9WSEp2NjIyRFA2cEJnTmRKOXYtZmxPcWVWSDBnT3F1eTREbk84aS14cmI5NGlfX01GQWd4WFgtOUM5WEQ4T3FZdUg0YVpXcTFSOWdlQ0hMM0oyYzB5WDRjaHNqSzBYZ2k3VnZxeEpaZlpEN3NyYkZCeUtwVjdkYlpiUzMzODlla0diaGNOSjNybGRpb01jTFhHRm9jZ243bUNXNldReFZiLUhSd2xpcjdkZDhOR2txTU9QQVpfWWZwcDhVQVhZQlk3Q2JKQ1FOSmtWNTVjQngyOFl6VWx2aWFMdVREX082R0JuN3BvT2N5eUd2eUdfWUs3WW5DazBtQml4Y0ZnNlkwUlN2NUZCNmNhcm14YWtieXVRQjFQdkRiQm0xTDJjZlpuWElRMUhSMDBUR0JkejEwR0thWG9nQWJvMFRNOFNHVHNnX21ydnNGSjdKcHlISW1HMF9xUVZNcmlyRUpGWnliQnpTTnN2N0IzcTJrMVEzYkY5b0txWFk",
         "time": "2026-07-23 19:00:44"
-      },
-      {
-        "title": "雲林縣長張麗善與立委張嘉郡、雲林縣議長黃凱及跨黨派議員共同宣布，將於明年度總預算編列經費，推動65歲以上長者全額免健保費，預計嘉惠全縣逾14萬3千名長者。 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMirAdBVV95cUxPTGtPUkVldWdpdURIWDRFRjJMT1JDRmh1NV8wNHFvU2VQX1NnTEs0T3hYNEZPZzN1dXFDMFMzQlJwT3pwT1Y1RHp6TFJLSFVVcFQ1Zy0ya0hRNGE4b0taVmZCR1lUbHI5ZGdtdVFjcWo4ZmdueVNfSUl2c20zdkJnNFlWUVZvSlpBdXlmXzUtLTNXYl9wX2pQMHRqTFdhQzctYnMtc3pPcjA4cEo2TWdMR2hGeUtWZG4yQk01RmVqM092LVVOOUFSX3J1c284eXY2NkdRbjlKTTBRQzZvaFE3TlJKTG1Rbk9DR1lwWkdTLTdXTEJEZFV6TmNtS3gzNEdBdVBUTWxtTDVKRHpvSDV0a3BmVWFFNWpIbFBqNUd6MXNfakZvLWExdnRCUGpNUExKT2JKZVNlVHpUcHRZSk5QMU1fNTBUT0NLN2gwTUVQNENxdTJzUkM5aGltV3FsUDhuMElLY196dXZpTUQ1QjZieVhSeGJ1RzRvVEhjMS1QdW5KMHQxQ2JlbnRNTlVyRjlpTGp1YXlRd3ppdUdmOUxQd3JicFRrVTV6M0NLWFpNNVhpeFpGSWNYQXo4NWtWQmRZaWxsMjF5RDFzZ2IyTVp3WHdlaFRxYTUwZnNJcktQUG53SjBTNmFOTjRIYVVxRjZ6R25seDN3VzB2SFY2amdNWUVQT0JaLUNRSll0eHZEZks2MzlkMnN2alNDV0xpVllVMTgzS3F2MDBCeFluNHJmX25GWEkxMko4NGlzQnpiUllBOWlOcE02MDRkbzdBZHJCdDZMWjE5UFVBdFhVa3BFcXRLUGNSVHJaRFItRGlwenhfZGpsRDZQdURFMm9kYy1sY1Rtc0x2cHRvVkxGSFppaWhOdjMyU09zN1Q2REJRZmV0SDAyRkE3QzYxenhIVVY4UHZpbXlqMDAzSFdHZEw1NVBHSEdMTlVOdm0wbmVmRnoxS0w0T2RxS2NiNUFrNkhRUEhOWUl5YXBoV1Y1dGY3T19SV0l0dU1YUk5wUjhVU29hZVo1OWFxUnV2UXFYejhEQmswUVFqSVhSV2xVYWN5WWp1bGZJc3pIdHdnOGtPQzRDdktwR1hGWVE3dkhlX01scm5FQTdycmpqVHZvd3lVOUQ0RGxZNk9wVjBlbWt0TnpRNkpmbURYcXZqb2FkNzcwSmdZODM2Szk5bnV1V3ZqVVJKelZxdlhma2hhYWpBYVg1T2VUZHZJYzRPVlA4NHFOWlR1QjFoSHMxVmdv",
-        "time": "2026-07-23 18:34:03"
       }
     ],
     "youtube": [
@@ -1715,6 +1713,13 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "台視新聞台. . 【#TTV最新快訊】蔡英文參訪雲林2醫療建設 劉建國盼四位一體升級 －－－ 雲林縣長參選人劉建國，27號邀請前總統蔡英文前往雲林，實地了解「臺大醫院雲林分院虎尾院區二期擴建」及「國家高齡醫學暨健康福祉研究中心」兩項重大建設最新進度，並向蔡 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNMnBZZDdfdjFPYUZCcW15Q2kzeUpBYUdUM0JTbVZFMlVQZ2JJekZtOHVDVzdraDdBYVJqLTlWbG9Sc21RMlh3NEEzX1E2OVVrQXdRSU9oVUpNZjNNeGt6d0JPLW50VjRrNkxpdXJ5VS1icVBuZXlXeDZ3dkdjTDdZVWNwTmkweXktUG81WHdGdjJBTVdFR1Z2OEhHQVFCQmd1dk9VYnNiZlZFTXMzZXItbXkwWVZPMW9saDAzTEhyRm1uV29haXpPUXl3bTd0NjQ1OWU0N1J3UlJCYmRaSEVuN21SZXhlVFVpci1IMjBQd09WakFnTTdEN2c1b0trRnVhbTltcXpZNENEM2FPTHF1bXBISTNxVXdpaGd0Ym1OZENQWThwZm10NGN4SFo5THJSUE84VDlvWEJtRnVIWmNHSEpTaGRYOXVzeEZZTDc2cFFqTDJqd0hBOUZiYW5SRGlLZGR5MXhkUEdSM3JQaXhXaGVmMGxodkN5OXl6Zkc4cWp1WXJFcS1SeEVKMG82U0ZuYUZpTTZuY3c2eWhl",
+        "time": "2026-07-30 17:18:10",
+        "platform": "facebook",
+        "risk": "綠"
+      },
       {
         "title": "出席雲林小組長授證 鄭麗文主席：呼籲鄉親讓張嘉郡接棒 延續執政好成績 守住雲林、攻向南臺灣 - kmt.org.tw",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNbGwtT25FSTN4M2FxZUI4NVd1cnRjU2lfaUczdnZ4ZTdpbkJFT1JWaEpNSk84RmpYeHVGelhkN3BpUnhRUFdXMzhicGMxNDFVbkxDd2prQ3RMZjBEV2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1819,20 +1824,6 @@
         "time": "2026-07-29 18:42:37",
         "platform": "youtube",
         "risk": "綠"
-      },
-      {
-        "title": "藍白多數強行表決通過的「未來帳戶條例」，是個一變再變、問題重重的立法",
-        "url": "https://www.youtube.com/shorts/HDFu-xT2dtA",
-        "time": "2026-07-29 18:40:35",
-        "platform": "youtube",
-        "risk": "綠"
-      },
-      {
-        "title": "劉建國成功爭取農業用電補貼 政院核定每年1億元嘉惠16.8萬農民 - 三星傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VeWhfYng5T1NhcXpEWFc4a3BWNHpweEJTbWw0NzhRMkVZNDhPcTl6aUxpTTlHOGJjOW5MYmx4RkVoVk9SVnpjYTVrOS1ib3YteVNDRzgxaUNHTnFqS19yeWZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-29 18:37:03",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -1840,13 +1831,21 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 5
+        "count": 6
+      },
+      {
+        "name": "虎尾",
+        "count": 1
       }
     ],
     "groups": [
       {
         "name": "農業族群",
-        "count": 4
+        "count": 3
+      },
+      {
+        "name": "工地/營造",
+        "count": 1
       }
     ]
   }
