@@ -1,10 +1,10 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-07-31T00:47:22.304157+00:00",
+  "generated_at": "2026-07-31T01:03:03.487267+00:00",
   "metrics": {
-    "total_24h": 22,
-    "prev_24h": 20,
-    "growth_pct": 10.0,
+    "total_24h": 23,
+    "prev_24h": 21,
+    "growth_pct": 9.52,
     "news_24h": 17,
     "anomaly": {
       "level": "綠",
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 139,
+    "total": 141,
     "prev": 101,
-    "growth_pct": 37.62,
-    "news": 103,
+    "growth_pct": 39.6,
+    "news": 104,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -32,7 +32,7 @@
     },
     {
       "platform": "youtube",
-      "count": 3
+      "count": 4
     },
     {
       "platform": "facebook",
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 103
+      "count": 104
     },
     {
       "platform": "facebook",
@@ -50,7 +50,7 @@
     },
     {
       "platform": "youtube",
-      "count": 12
+      "count": 13
     }
   ],
   "by_hour": [
@@ -97,6 +97,10 @@
     {
       "hour": "2026-07-31 04:00",
       "count": 2
+    },
+    {
+      "hour": "2026-07-31 08:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -290,7 +294,7 @@
     },
     {
       "hour": "2026-07-30 06:00",
-      "count": 4
+      "count": 5
     },
     {
       "hour": "2026-07-30 13:00",
@@ -335,6 +339,10 @@
     {
       "hour": "2026-07-31 04:00",
       "count": 2
+    },
+    {
+      "hour": "2026-07-31 08:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
@@ -345,9 +353,20 @@
     {
       "platform": "facebook",
       "count": 2
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
+    "youtube": [
+      {
+        "title": "雲林醫療照護升級! 蔡英文.劉建國實地了解\"台大虎尾院區\"擴建－民視新聞",
+        "url": "https://www.youtube.com/watch?v=hvz-zrLzbbU",
+        "time": "2026-07-31 08:32:08"
+      }
+    ],
     "news": [
       {
         "title": "讚穩健認真 鄭麗文力挺張嘉郡 - tw.news.yahoo.com",
@@ -456,9 +475,20 @@
     {
       "platform": "facebook",
       "count": 2
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
+    "youtube": [
+      {
+        "title": "雲林醫療照護升級! 蔡英文.劉建國實地了解\"台大虎尾院區\"擴建－民視新聞",
+        "url": "https://www.youtube.com/watch?v=hvz-zrLzbbU",
+        "time": "2026-07-31 08:32:08"
+      }
+    ],
     "news": [
       {
         "title": "讚穩健認真 鄭麗文力挺張嘉郡 - tw.news.yahoo.com",
@@ -561,11 +591,11 @@
   },
   "mention_compare_24h": {
     "張嘉郡": 16,
-    "劉建國": 3
+    "劉建國": 4
   },
   "mention_compare_7d": {
     "張嘉郡": 35,
-    "劉建國": 86
+    "劉建國": 88
   },
   "top_news": [
     {
@@ -721,14 +751,14 @@
       "time": "2026-07-30 06:21:03"
     },
     {
+      "title": "蔡英文挺雲林醫療照護升級 劉建國倡設醫療照護產業園區促地方轉型 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPS05wTW1nUm4wdjVZNVZvbzZiMDl4aExsUWlsU2lZclZqQ3B2dTNWbDRNREFKTVFsbHlOemVXbXZiUnpJdlVuWG00MGZLS3JpNEMybFZPb0pSenlibklXRjM4cGkySTdUM2p2WGt6Rkd0emhlQXgyeUJ4eGJta3ZJNTZJNTI5ZXVIOG9KVWlfYVZzRTlHYkpjZlZaNE15ZzR0OU5VdExJdjNUdTA5UlNMMWR6djRzSlVWS015MUNvTUZtdXg2M0JUQ2wtTmlGMmhpbmYwdl8zdklSdFd0MVVudDZQNnNnZlZYZjk5T0JIbXlUaHNTUWxiUkp6dVAwZ2dULXdvVW1hb1l3Zm9oSUZ1Yk45bjJuTmwzWUJRN0lFS0NfZzEzUVRGeVpyTnpJWGN6YTc3R3Z0b0dNa1lxZFVwZG95ZUMxTGRQcHRYZVcxejVtQ0RIUGJuVFNLb0hNWjRFQ0lZRTBHMTJJLWN4dHo4XzFDSElJeXJ1UW9RMHB4Q3hjb0kwN3dteElxOUZYLTJndE8tdFdOdVF4NFNlRUZrcWZIaXdYQTBGb1cxcGV1blgzUzVUem9pMGtVQWk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-30 06:21:03"
+    },
+    {
       "title": "劉建國成功爭取農業用電補貼 行政院核定每年投入1億元減輕農民負擔 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KaDI5UlhVN3JEaFFvZ0E3S2x6U2tEcktFYkhNWVBpQTA5akpJWU9aeHpFYmJBUGFLSk5yNHRXQ21tQktkTTZQQ1gtOUlSNllQLVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-30 06:14:00"
-    },
-    {
-      "title": "劉建國成功爭取農業用電補貼 行政院核定每年投入1億元減輕農民負擔 - PChome Online新聞",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUnNkWkpBZE5UWWt2Skdjakg4WWtFZDk3eUdFX1JFQ1VLUGxLcGtBQTd3aTE3LVlKdC11NXN0ejRwcTBwLUtvZlBBZGdhSElIS2hwN1JZZTRGQW14cXRLaEpVRnIycWNwS2JGUzZGY0pqYWxScjZPU05VSG9BNG4wcUc0MzZwM3VEdFBDNVFrbXZHR1U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-30 06:10:58"
     }
   ],
   "latest_facebook_20": [
@@ -925,14 +955,14 @@
       "time": "2026-07-30 06:21:03"
     },
     {
+      "title": "蔡英文挺雲林醫療照護升級 劉建國倡設醫療照護產業園區促地方轉型 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPS05wTW1nUm4wdjVZNVZvbzZiMDl4aExsUWlsU2lZclZqQ3B2dTNWbDRNREFKTVFsbHlOemVXbXZiUnpJdlVuWG00MGZLS3JpNEMybFZPb0pSenlibklXRjM4cGkySTdUM2p2WGt6Rkd0emhlQXgyeUJ4eGJta3ZJNTZJNTI5ZXVIOG9KVWlfYVZzRTlHYkpjZlZaNE15ZzR0OU5VdExJdjNUdTA5UlNMMWR6djRzSlVWS015MUNvTUZtdXg2M0JUQ2wtTmlGMmhpbmYwdl8zdklSdFd0MVVudDZQNnNnZlZYZjk5T0JIbXlUaHNTUWxiUkp6dVAwZ2dULXdvVW1hb1l3Zm9oSUZ1Yk45bjJuTmwzWUJRN0lFS0NfZzEzUVRGeVpyTnpJWGN6YTc3R3Z0b0dNa1lxZFVwZG95ZUMxTGRQcHRYZVcxejVtQ0RIUGJuVFNLb0hNWjRFQ0lZRTBHMTJJLWN4dHo4XzFDSElJeXJ1UW9RMHB4Q3hjb0kwN3dteElxOUZYLTJndE8tdFdOdVF4NFNlRUZrcWZIaXdYQTBGb1cxcGV1blgzUzVUem9pMGtVQWk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-07-30 06:21:03"
+    },
+    {
       "title": "劉建國成功爭取農業用電補貼 行政院核定每年投入1億元減輕農民負擔 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KaDI5UlhVN3JEaFFvZ0E3S2x6U2tEcktFYkhNWVBpQTA5akpJWU9aeHpFYmJBUGFLSk5yNHRXQ21tQktkTTZQQ1gtOUlSNllQLVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-30 06:14:00"
-    },
-    {
-      "title": "劉建國成功爭取農業用電補貼 行政院核定每年投入1億元減輕農民負擔 - PChome Online新聞",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUnNkWkpBZE5UWWt2Skdjakg4WWtFZDk3eUdFX1JFQ1VLUGxLcGtBQTd3aTE3LVlKdC11NXN0ejRwcTBwLUtvZlBBZGdhSElIS2hwN1JZZTRGQW14cXRLaEpVRnIycWNwS2JGUzZGY0pqYWxScjZPU05VSG9BNG4wcUc0MzZwM3VEdFBDNVFrbXZHR1U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-30 06:10:58"
     }
   ],
   "person_sections": {
@@ -1257,6 +1287,11 @@
           "time": "2026-07-30 06:21:03"
         },
         {
+          "title": "蔡英文挺雲林醫療照護升級 劉建國倡設醫療照護產業園區促地方轉型 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPS05wTW1nUm4wdjVZNVZvbzZiMDl4aExsUWlsU2lZclZqQ3B2dTNWbDRNREFKTVFsbHlOemVXbXZiUnpJdlVuWG00MGZLS3JpNEMybFZPb0pSenlibklXRjM4cGkySTdUM2p2WGt6Rkd0emhlQXgyeUJ4eGJta3ZJNTZJNTI5ZXVIOG9KVWlfYVZzRTlHYkpjZlZaNE15ZzR0OU5VdExJdjNUdTA5UlNMMWR6djRzSlVWS015MUNvTUZtdXg2M0JUQ2wtTmlGMmhpbmYwdl8zdklSdFd0MVVudDZQNnNnZlZYZjk5T0JIbXlUaHNTUWxiUkp6dVAwZ2dULXdvVW1hb1l3Zm9oSUZ1Yk45bjJuTmwzWUJRN0lFS0NfZzEzUVRGeVpyTnpJWGN6YTc3R3Z0b0dNa1lxZFVwZG95ZUMxTGRQcHRYZVcxejVtQ0RIUGJuVFNLb0hNWjRFQ0lZRTBHMTJJLWN4dHo4XzFDSElJeXJ1UW9RMHB4Q3hjb0kwN3dteElxOUZYLTJndE8tdFdOdVF4NFNlRUZrcWZIaXdYQTBGb1cxcGV1blgzUzVUem9pMGtVQWk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-07-30 06:21:03"
+        },
+        {
           "title": "劉建國成功爭取農業用電補貼 行政院核定每年投入1億元減輕農民負擔 - 蕃新聞",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KaDI5UlhVN3JEaFFvZ0E3S2x6U2tEcktFYkhNWVBpQTA5akpJWU9aeHpFYmJBUGFLSk5yNHRXQ21tQktkTTZQQ1gtOUlSNllQLVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-30 06:14:00"
@@ -1339,11 +1374,6 @@
         {
           "title": "杜絕校園毒品不能等 劉建國：新興毒品不能用舊思維應對 - UDN",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBESDg2c3cwMVhlaEp4QVVsb3pLa21BT19TV09BVjM5RGZVcmw5OER2N2tyRGl0TG5xckc2a2RWaEUycXFhWjQ1UG1KOUFUemhF0gFWQVVfeXFMTjhQVlJZZG03eE9jUE1ZdXNlbXNZbHNFYlVMWUhuOHpFSWJma01uRTdQTDRrZVgxNWV5YWZfU0N5SUYxRHB1R2hMZkdyY1E2elBCLWV2R1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-28 18:52:21"
-        },
-        {
-          "title": "杜絕校園毒品不能等 劉建國：新興毒品不能用舊思維應對 - UDN",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wS29nbEtoV2p1M3N6Tk90TDZRaDBvdEZFc2NVRURfY3JqSXRZTHZYXzJOLU5UMzVWeW5uUXZERGxJWUtFMk9IRUV0RnZzZTJIdm440gFYQVVfeXFMTmdlZHRzMDBCN2JZVldVelZGMW1MckdUc0J1U1JhbDluMXRHYWM1cGh3aThSWk5kcy1ueks0MFZqNXJIT1ZrT01EUHhrNy15b25VZnJsQUhodg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-28 18:52:21"
         }
       ]
@@ -1438,6 +1468,11 @@
       }
     ],
     "youtube": [
+      {
+        "title": "雲林醫療照護升級! 蔡英文.劉建國實地了解\"台大虎尾院區\"擴建－民視新聞",
+        "url": "https://www.youtube.com/watch?v=hvz-zrLzbbU",
+        "time": "2026-07-31 08:32:08"
+      },
       {
         "title": "范雲還原傅崐萁突然暴怒的原因",
         "url": "https://www.youtube.com/shorts/-JKsdOJcXC0",
@@ -1560,6 +1595,11 @@
         "time": "2026-07-30 06:21:03"
       },
       {
+        "title": "蔡英文挺雲林醫療照護升級 劉建國倡設醫療照護產業園區促地方轉型 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPS05wTW1nUm4wdjVZNVZvbzZiMDl4aExsUWlsU2lZclZqQ3B2dTNWbDRNREFKTVFsbHlOemVXbXZiUnpJdlVuWG00MGZLS3JpNEMybFZPb0pSenlibklXRjM4cGkySTdUM2p2WGt6Rkd0emhlQXgyeUJ4eGJta3ZJNTZJNTI5ZXVIOG9KVWlfYVZzRTlHYkpjZlZaNE15ZzR0OU5VdExJdjNUdTA5UlNMMWR6djRzSlVWS015MUNvTUZtdXg2M0JUQ2wtTmlGMmhpbmYwdl8zdklSdFd0MVVudDZQNnNnZlZYZjk5T0JIbXlUaHNTUWxiUkp6dVAwZ2dULXdvVW1hb1l3Zm9oSUZ1Yk45bjJuTmwzWUJRN0lFS0NfZzEzUVRGeVpyTnpJWGN6YTc3R3Z0b0dNa1lxZFVwZG95ZUMxTGRQcHRYZVcxejVtQ0RIUGJuVFNLb0hNWjRFQ0lZRTBHMTJJLWN4dHo4XzFDSElJeXJ1UW9RMHB4Q3hjb0kwN3dteElxOUZYLTJndE8tdFdOdVF4NFNlRUZrcWZIaXdYQTBGb1cxcGV1blgzUzVUem9pMGtVQWk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-07-30 06:21:03"
+      },
+      {
         "title": "劉建國成功爭取農業用電補貼 行政院核定每年投入1億元減輕農民負擔 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KaDI5UlhVN3JEaFFvZ0E3S2x6U2tEcktFYkhNWVBpQTA5akpJWU9aeHpFYmJBUGFLSk5yNHRXQ21tQktkTTZQQ1gtOUlSNllQLVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-30 06:14:00"
@@ -1663,11 +1703,6 @@
         "title": "蔡英文挺雲林醫療照護升級 立委劉建國提醫療照護產業園區願景 - 匯流新聞網",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0yWkRocUp2emxEbE1ESkR3dVk3V0g1YjZTRTNXdFptRlFwN055MWFiYy1nSlN4ZmxRQVM0c05tTXZPazVPc3lZUkFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-28 18:41:32"
-      },
-      {
-        "title": "蔡英文視察雲林兩大醫療建設 劉建國拋產業園區願景 | 中華日報 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JUGVRS0NYWm9OZHQzRWZXZ21zQWtSQXkySnRNSnBqZXF5a3FvNTBzbGRvcVdHRXEwamFwVXJMd0NEZkp3MmUxb180b2FYRzhxVGdmbmFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-28 18:08:42"
       }
     ],
     "facebook": [
@@ -1794,6 +1829,11 @@
     ],
     "youtube": [
       {
+        "title": "雲林醫療照護升級! 蔡英文.劉建國實地了解\"台大虎尾院區\"擴建－民視新聞",
+        "url": "https://www.youtube.com/watch?v=hvz-zrLzbbU",
+        "time": "2026-07-31 08:32:08"
+      },
+      {
         "title": "范雲還原傅崐萁突然暴怒的原因",
         "url": "https://www.youtube.com/shorts/-JKsdOJcXC0",
         "time": "2026-07-30 18:30:00"
@@ -1859,6 +1899,13 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "雲林醫療照護升級! 蔡英文.劉建國實地了解\"台大虎尾院區\"擴建－民視新聞",
+        "url": "https://www.youtube.com/watch?v=hvz-zrLzbbU",
+        "time": "2026-07-31 08:32:08",
+        "platform": "youtube",
+        "risk": "綠"
+      },
       {
         "title": "讚穩健認真 鄭麗文力挺張嘉郡 - tw.news.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUHZ2UDNRVDFsaUdZWVpNYmNzQ0M3OEdyNmZNNGkxR21jdzNFWTBnQXdaY0hYVVZlRWVxdXV2SXBhZ1NzQkQyWWxhYmxBVFlPWEtPamJkLUY3M1hPSm8yVVl0UlFsaU9qMXppUXR1cWZaV0FFaFJfbmdPZzJ2RDRLem9CX3VncmR6WW5PWUd6a0pCaTAxRFYwY01hMmNEYklCTHNuUU1QQWRIdVB1RVRVOVVTX205UTdYc29KT1JaRHVhSUx0NHZNNXRtNzdoYk5Nb1k2dzlCQW5EeC1aVUVSYUtTWHRVNDVQdmo0al81OEs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1991,13 +2038,6 @@
         "time": "2026-07-30 15:21:56",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "雲林輔選張嘉郡 鄭麗文：主席的故鄉不能漏氣| 政治焦點 - 太報 TaiSounds",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2OFNGMEw5SEtPX3hDODdpT1NPQ1VqODJjSVcxTHJJU3RkRlRSTHc0VE1IQTZBSFFUZ3FoSDlJQXNIUUJQak1PY3RFRHRJRGlBQ1o2Wkp3VFA5ZVFl?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-30 15:21:56",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2005,11 +2045,11 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 12
+        "count": 13
       },
       {
         "name": "虎尾",
-        "count": 1
+        "count": 2
       }
     ],
     "groups": [
