@@ -1,10 +1,10 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-08-02T16:04:32.544962+00:00",
+  "generated_at": "2026-08-02T16:20:18.556829+00:00",
   "metrics": {
-    "total_24h": 0,
+    "total_24h": 1,
     "prev_24h": 8,
-    "growth_pct": -100.0,
+    "growth_pct": -87.5,
     "news_24h": 0,
     "anomaly": {
       "level": "綠",
@@ -14,9 +14,9 @@
     }
   },
   "metrics_7d": {
-    "total": 145,
+    "total": 146,
     "prev": 120,
-    "growth_pct": 20.83,
+    "growth_pct": 21.67,
     "news": 115,
     "anomaly": {
       "level": "綠",
@@ -25,7 +25,12 @@
       "reasons": []
     }
   },
-  "by_platform": [],
+  "by_platform": [
+    {
+      "platform": "facebook",
+      "count": 1
+    }
+  ],
   "by_platform_7d": [
     {
       "platform": "news",
@@ -33,14 +38,19 @@
     },
     {
       "platform": "facebook",
-      "count": 19
+      "count": 20
     },
     {
       "platform": "youtube",
       "count": 11
     }
   ],
-  "by_hour": [],
+  "by_hour": [
+    {
+      "hour": "2026-08-02 20:00",
+      "count": 1
+    }
+  ],
   "by_hour_7d": [
     {
       "hour": "2026-07-27 05:00",
@@ -261,19 +271,49 @@
     {
       "hour": "2026-08-01 22:00",
       "count": 1
+    },
+    {
+      "hour": "2026-08-02 20:00",
+      "count": 1
     }
   ],
-  "mention_by_platform_24h": [],
-  "mention_latest_by_platform_24h": {},
-  "alias_by_platform_24h": [],
-  "alias_latest_by_platform_24h": {},
+  "mention_by_platform_24h": [
+    {
+      "platform": "facebook",
+      "count": 1
+    }
+  ],
+  "mention_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "【好消息！大埤國中校園安全再升級】 今年4月21日，建國與 #教育部 #國教署 #彭富源 署長前往雲林縣立 #大埤國中 會勘，實地了解校門及周邊環境改善需求，並向教育部積極爭取經費。 今日傳來好消息！教育部正式核定補助160萬元，連同地方配合款共投入200萬元， - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi0AdBVV95cUxQdGpCSHh5NnIycnd1bDJjRWtGWWZXaDZlU3p4UFdoaVhSNlU3OTFpMThIbkFxeWd4S1BIcUZMbXdvUGEwa2tTNU1OU2xBdDQ3SF80UVo5cF9WNXREaTNFZTk3NmlWNlN6cVZFNXc5azhBV18xNEJjRGNueWZ5UzFuOENyRzIwNWIzeWJWX05aNG01S0JXdmZqSnMzb09uNDBOZEpnVVBCcVNuRUVxeUZLMGlKcW01ckM5cXVndHJnQjhseVNmT0NxRl9ocWJyWE03Y01NenBuYy1DZER3aGEzVlNDNEdMTnA0dkd5SGo5QXk3R0tUV0Q1OG4yXzczZzlLSHZoM0J2VEVfcGFhT01qN1ZaRDhZb3phV0hiWlRxVkxRM3pKQ3h1WWk5bzhIRlR1SG83RGxsM2gtaGVrZjFveVR1dy1EODhzTXVCVEY3cTB4M2R5dEZOUkcyeDVTakVXOG1DaEpHaFZCLURCcW11MWRRc19TVW5ZNUxtN3puNFFNTVRLaW1MY2NLWFdyd0lpT3Uwc0YzS3doNXVBRUdLMVE4SFhhdFlOSDh3aDFNeVVCd2ZPSURtdU5QQUNzc21MTW9hVkRqeVFEa3VMVUpGeHkyX0RvYVV6ZS0yS0lNWlQzdUZrWkl2aElrTURUVDdJd3pPYXg5MllDU0NMeTMxUzNDeDNWbmxpVzJiWXhhb3Jqc3lLVHVXeFFXSzhiTDZ6eVJjS1p1WGt6WXJ4Y0dYLTFyUjlGYTBVMm9VdU5IMjFxY05qNjRESWNWZl9GRWtkVzZMXy1fRHNjTU9taEdjZ1NWX2JLYlAybU0wNnQycGM0UzhyaGtvdGpQWWNpQS1QalZFWjV6VHpQbGlVS1luVHpBclY1cmdldk9YTlFSRUdTRVExWHA4QnJsR2VVdDd0RUtPMjJjcUM0Y3VoQVBOYkJlRmZYVGtTYkR3dVFBd2FhUVJ6VjN0SGh5NVdsNGFzbF9ud0w3SlBEV0JLLXVSZDZMblJMVi1HNG5Ya3dmbFE2ZHJYNjFHaUgzQldXbDNmbmdUTlE3ZHdsM0gtbV96dlFsc3BoNnlDWGRMNnJnLWhlUjRhVGRsemlKWDhXUkFXUk94Rkc4RXdIaHY4QkR4WHFTRnY4MlVZZG8wcW5mVG5iYzgtbWhybnpZdmZSbEJCbmU1cjk2N25GaUFWZEwya2prcUxtWXdLZlJKdE1ld016alF2ZUJ1anBhbWhMb3UzT2s3Z1U3U1NZWTg2Y0JTMEtoa1JlaS1WY2gxR1hrcXd2M3c2TXJWSHdYdXdOXzVE",
+        "time": "2026-08-02 20:53:40"
+      }
+    ]
+  },
+  "alias_by_platform_24h": [
+    {
+      "platform": "facebook",
+      "count": 1
+    }
+  ],
+  "alias_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "【好消息！大埤國中校園安全再升級】 今年4月21日，建國與 #教育部 #國教署 #彭富源 署長前往雲林縣立 #大埤國中 會勘，實地了解校門及周邊環境改善需求，並向教育部積極爭取經費。 今日傳來好消息！教育部正式核定補助160萬元，連同地方配合款共投入200萬元， - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi0AdBVV95cUxQdGpCSHh5NnIycnd1bDJjRWtGWWZXaDZlU3p4UFdoaVhSNlU3OTFpMThIbkFxeWd4S1BIcUZMbXdvUGEwa2tTNU1OU2xBdDQ3SF80UVo5cF9WNXREaTNFZTk3NmlWNlN6cVZFNXc5azhBV18xNEJjRGNueWZ5UzFuOENyRzIwNWIzeWJWX05aNG01S0JXdmZqSnMzb09uNDBOZEpnVVBCcVNuRUVxeUZLMGlKcW01ckM5cXVndHJnQjhseVNmT0NxRl9ocWJyWE03Y01NenBuYy1DZER3aGEzVlNDNEdMTnA0dkd5SGo5QXk3R0tUV0Q1OG4yXzczZzlLSHZoM0J2VEVfcGFhT01qN1ZaRDhZb3phV0hiWlRxVkxRM3pKQ3h1WWk5bzhIRlR1SG83RGxsM2gtaGVrZjFveVR1dy1EODhzTXVCVEY3cTB4M2R5dEZOUkcyeDVTakVXOG1DaEpHaFZCLURCcW11MWRRc19TVW5ZNUxtN3puNFFNTVRLaW1MY2NLWFdyd0lpT3Uwc0YzS3doNXVBRUdLMVE4SFhhdFlOSDh3aDFNeVVCd2ZPSURtdU5QQUNzc21MTW9hVkRqeVFEa3VMVUpGeHkyX0RvYVV6ZS0yS0lNWlQzdUZrWkl2aElrTURUVDdJd3pPYXg5MllDU0NMeTMxUzNDeDNWbmxpVzJiWXhhb3Jqc3lLVHVXeFFXSzhiTDZ6eVJjS1p1WGt6WXJ4Y0dYLTFyUjlGYTBVMm9VdU5IMjFxY05qNjRESWNWZl9GRWtkVzZMXy1fRHNjTU9taEdjZ1NWX2JLYlAybU0wNnQycGM0UzhyaGtvdGpQWWNpQS1QalZFWjV6VHpQbGlVS1luVHpBclY1cmdldk9YTlFSRUdTRVExWHA4QnJsR2VVdDd0RUtPMjJjcUM0Y3VoQVBOYkJlRmZYVGtTYkR3dVFBd2FhUVJ6VjN0SGh5NVdsNGFzbF9ud0w3SlBEV0JLLXVSZDZMblJMVi1HNG5Ya3dmbFE2ZHJYNjFHaUgzQldXbDNmbmdUTlE3ZHdsM0gtbV96dlFsc3BoNnlDWGRMNnJnLWhlUjRhVGRsemlKWDhXUkFXUk94Rkc4RXdIaHY4QkR4WHFTRnY4MlVZZG8wcW5mVG5iYzgtbWhybnpZdmZSbEJCbmU1cjk2N25GaUFWZEwya2prcUxtWXdLZlJKdE1ld016alF2ZUJ1anBhbWhMb3UzT2s3Z1U3U1NZWTg2Y0JTMEtoa1JlaS1WY2gxR1hrcXd2M3c2TXJWSHdYdXdOXzVE",
+        "time": "2026-08-02 20:53:40"
+      }
+    ]
+  },
   "mention_compare_24h": {
     "張嘉郡": 0,
-    "劉建國": 0
+    "劉建國": 1
   },
   "mention_compare_7d": {
     "張嘉郡": 48,
-    "劉建國": 81
+    "劉建國": 82
   },
   "top_news": [],
   "top_news_7d": [
@@ -380,6 +420,11 @@
   ],
   "latest_facebook_20": [
     {
+      "title": "【好消息！大埤國中校園安全再升級】 今年4月21日，建國與 #教育部 #國教署 #彭富源 署長前往雲林縣立 #大埤國中 會勘，實地了解校門及周邊環境改善需求，並向教育部積極爭取經費。 今日傳來好消息！教育部正式核定補助160萬元，連同地方配合款共投入200萬元， - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AdBVV95cUxQdGpCSHh5NnIycnd1bDJjRWtGWWZXaDZlU3p4UFdoaVhSNlU3OTFpMThIbkFxeWd4S1BIcUZMbXdvUGEwa2tTNU1OU2xBdDQ3SF80UVo5cF9WNXREaTNFZTk3NmlWNlN6cVZFNXc5azhBV18xNEJjRGNueWZ5UzFuOENyRzIwNWIzeWJWX05aNG01S0JXdmZqSnMzb09uNDBOZEpnVVBCcVNuRUVxeUZLMGlKcW01ckM5cXVndHJnQjhseVNmT0NxRl9ocWJyWE03Y01NenBuYy1DZER3aGEzVlNDNEdMTnA0dkd5SGo5QXk3R0tUV0Q1OG4yXzczZzlLSHZoM0J2VEVfcGFhT01qN1ZaRDhZb3phV0hiWlRxVkxRM3pKQ3h1WWk5bzhIRlR1SG83RGxsM2gtaGVrZjFveVR1dy1EODhzTXVCVEY3cTB4M2R5dEZOUkcyeDVTakVXOG1DaEpHaFZCLURCcW11MWRRc19TVW5ZNUxtN3puNFFNTVRLaW1MY2NLWFdyd0lpT3Uwc0YzS3doNXVBRUdLMVE4SFhhdFlOSDh3aDFNeVVCd2ZPSURtdU5QQUNzc21MTW9hVkRqeVFEa3VMVUpGeHkyX0RvYVV6ZS0yS0lNWlQzdUZrWkl2aElrTURUVDdJd3pPYXg5MllDU0NMeTMxUzNDeDNWbmxpVzJiWXhhb3Jqc3lLVHVXeFFXSzhiTDZ6eVJjS1p1WGt6WXJ4Y0dYLTFyUjlGYTBVMm9VdU5IMjFxY05qNjRESWNWZl9GRWtkVzZMXy1fRHNjTU9taEdjZ1NWX2JLYlAybU0wNnQycGM0UzhyaGtvdGpQWWNpQS1QalZFWjV6VHpQbGlVS1luVHpBclY1cmdldk9YTlFSRUdTRVExWHA4QnJsR2VVdDd0RUtPMjJjcUM0Y3VoQVBOYkJlRmZYVGtTYkR3dVFBd2FhUVJ6VjN0SGh5NVdsNGFzbF9ud0w3SlBEV0JLLXVSZDZMblJMVi1HNG5Ya3dmbFE2ZHJYNjFHaUgzQldXbDNmbmdUTlE3ZHdsM0gtbV96dlFsc3BoNnlDWGRMNnJnLWhlUjRhVGRsemlKWDhXUkFXUk94Rkc4RXdIaHY4QkR4WHFTRnY4MlVZZG8wcW5mVG5iYzgtbWhybnpZdmZSbEJCbmU1cjk2N25GaUFWZEwya2prcUxtWXdLZlJKdE1ld016alF2ZUJ1anBhbWhMb3UzT2s3Z1U3U1NZWTg2Y0JTMEtoa1JlaS1WY2gxR1hrcXd2M3c2TXJWSHdYdXdOXzVE",
+      "time": "2026-08-02 20:53:40"
+    },
+    {
       "title": "👉更多新聞👉 典禮, 學員, 張嘉郡 好報報導 (雲林首辦在宅醫療體驗教育營登場 扎根高齡照護人才培育) 版權所有 台灣好報 【記者 劉峻文／雲林 報導】雲林縣政府推動「在宅急症照護雲林加值方案」已邁入第三年，今年將人才培育納入政策推動重點，由雲林縣衛生局攜手 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi2wdBVV95cUxPcl9yM0o3TndLSmZfZ1pSVFNmNlh5aTJnaUhGdWFqUFBXUi1HZUJTVmRzdkc1NWZneTZ0c1VzQkhWdXEyVl96TnMtOXpaWWpseTNCX1NDbk1jSnM1ZnM3cEw1Wi1VUWVkYktCemo5WWFRc0lkcWNISEZvSnZwenh4cjYtUU5uRDNOaDRUWDF6a0JSbWRGZjVzZTRaRFFNeGN4a3pyWlhpMjZ5cnNHTmdPRk1IZWVvZ095dG9aTHh2ZHU2eWRVRmRIRkZXR1pSYXhZaUhnNGhTeFBOX1hWd05nSEVVZzFpSGRsbmE3el9CdWU0U0xsUW1fMTMyd0t1Y2dGM1U3NDBhbzJIZlJ4MktCeEVJVXlrdjF6dUtBZ2wwaGk0dEFzemx6MkloZndjM2E1MXNPMER1MjBtUm8ybVBra1ZFWDZBUDlvOERTWjctNF9LSVR3dEc5RmlJR196amN6N2hBMHZHeHp0dkFwYldXR2I0d1BKaDdtcWoySmQ2bWVPZVdZR1pnTWV2REFCc3cwM1VFdUM4Z0JJOHR1enAtWk9IN3lTb01NWUIwVWZlVnF0QXlQZHJjeEtfZkl3UmZlVVRSeTI3Z3c1LUtvREZLSlJvdUg3aldYMDc0VTFsSVpUckc0N1J0LWVMa3VZU05ta0JRelJuNWtFYjh5Zm52b3Etd1hDeFp2cFhBWGZQUVFuWElSY2lwMUtyOTdidGNwV2RwZXJpbl9ONFlfdFN4RXBJdC14dWhBaUVjTWFfcjVjQW1BMk9oa21YbGFBWVdRT2lWRDZFdnU4SE9RT3FaUk83djBrQ2NRMVJ6NUpwVzU3aUZEcXF1NGsxY1dVcDdfUGVEZUNJTnFtN1JFQnVmOEk1WmNfb1hyX1VjVUxrNU9UMHFwTnFQVVVWNkhLdktHVEdNVDBrS3BDWTlBWU5RVTNKZXNQeW5GZ1hiSVpMWTdFYUt6aHc2cF9pckgzT1hLZ0lSZUlQUFJKXzJyTVNFb0FVc2JLUHd6bGRwNmhHSktpMTdFSVFrWXN0LWN2eW0za2JWMDI4bUYwdjlkRUpHMDhRY2pHS28xaTQwT0NJbWIyRDJrNTN1VkhYTklsVllVMWNCMjZ5UWxveGNKc2lPMVd6RENOeWlpMk0xVmR1VTdMSDJuUm5nYUlORE5yQmtUbldhclRPOGZZZ2dPQlk1M2V6MGNBWXVwWGlXMjF4RlNvWFJLejFsMUl6VzRfdmIyUlMzcmhTc3BBNWd5TDJWVDhOYS1iYWlVZDc3c0VYYm5aMXdXZXpOY1Jia204YlV5VHpXOFFBb0NfWFU",
       "time": "2026-08-01 22:36:36"
@@ -473,11 +518,6 @@
       "title": "榮耀海線 丁學忠 (@ding.ding0628) - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTR1VsRmZfaDZsNWJCb1JFLUd1Z3N6alZoY2ZCemNJT0FzZ3RkQ1BLeGduWjdobHdkcGl6dm1Yby1ZSFQ4TjU4NlFSeFlicjJDWjhvWmMtOGotX1dDYXhlVg",
       "time": "2026-07-27 05:55:02"
-    },
-    {
-      "title": "林德福 葉元之．板橋 榮耀海線 丁學忠 立法委員 馬文君 邱鎮軍 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQMlhIRlE3cGtkSEEtWmkwOC0tM3VvNW9PdTMxZ3FyNXhXbDhXQkVaNVdiZjVNRGJySTZ4a2EtY0MwUkE5XzdXekI5Y0lrWGlkVzVpbURJZk5zOE81c0YzbmFhbmk2Nmg4cnJ1ZmlVMmFCRlNqZUcwcm5abTVQdVFuMnFsM1NWdTEteEd0b0RwaTlKWmFGVWw3N09PRlNxanFEa1lFX25jbERJWUY2VmtUQzBkUVRwQTJXTVNCYXFHa09DbUZENVpXTUNpT0RpQUpCcVZKa3dTWFR3WWJMNXBRZVI2VnBzSHFGdnVJLW40dG9yVFp3ZHlDdVJRc1RRNmpzQUx1N3MyZ1p0N1otVHN3Y19mNmN1MWdnbWFiR0xrWDdodjhLdDJQaUVSOG9Gc3BWT21DYWZrblZKOFItanNnZE9aa3lwak80enp4N1dkaWwzVHJ2TVdUYTN1eEUyM0RhNS10T20yQVFiekVCRXFOMFdsX1UtS21VT3dxcmttR1JQSkd3ck1pVHFhSmRONXNUYmIwS3ZXOS0wYXVfWFM1Z3dR",
-      "time": "2026-07-25 22:17:10"
     }
   ],
   "latest_news_20": [
@@ -996,7 +1036,15 @@
       ]
     }
   },
-  "latest_by_platform_24h": {},
+  "latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "【好消息！大埤國中校園安全再升級】 今年4月21日，建國與 #教育部 #國教署 #彭富源 署長前往雲林縣立 #大埤國中 會勘，實地了解校門及周邊環境改善需求，並向教育部積極爭取經費。 今日傳來好消息！教育部正式核定補助160萬元，連同地方配合款共投入200萬元， - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi0AdBVV95cUxQdGpCSHh5NnIycnd1bDJjRWtGWWZXaDZlU3p4UFdoaVhSNlU3OTFpMThIbkFxeWd4S1BIcUZMbXdvUGEwa2tTNU1OU2xBdDQ3SF80UVo5cF9WNXREaTNFZTk3NmlWNlN6cVZFNXc5azhBV18xNEJjRGNueWZ5UzFuOENyRzIwNWIzeWJWX05aNG01S0JXdmZqSnMzb09uNDBOZEpnVVBCcVNuRUVxeUZLMGlKcW01ckM5cXVndHJnQjhseVNmT0NxRl9ocWJyWE03Y01NenBuYy1DZER3aGEzVlNDNEdMTnA0dkd5SGo5QXk3R0tUV0Q1OG4yXzczZzlLSHZoM0J2VEVfcGFhT01qN1ZaRDhZb3phV0hiWlRxVkxRM3pKQ3h1WWk5bzhIRlR1SG83RGxsM2gtaGVrZjFveVR1dy1EODhzTXVCVEY3cTB4M2R5dEZOUkcyeDVTakVXOG1DaEpHaFZCLURCcW11MWRRc19TVW5ZNUxtN3puNFFNTVRLaW1MY2NLWFdyd0lpT3Uwc0YzS3doNXVBRUdLMVE4SFhhdFlOSDh3aDFNeVVCd2ZPSURtdU5QQUNzc21MTW9hVkRqeVFEa3VMVUpGeHkyX0RvYVV6ZS0yS0lNWlQzdUZrWkl2aElrTURUVDdJd3pPYXg5MllDU0NMeTMxUzNDeDNWbmxpVzJiWXhhb3Jqc3lLVHVXeFFXSzhiTDZ6eVJjS1p1WGt6WXJ4Y0dYLTFyUjlGYTBVMm9VdU5IMjFxY05qNjRESWNWZl9GRWtkVzZMXy1fRHNjTU9taEdjZ1NWX2JLYlAybU0wNnQycGM0UzhyaGtvdGpQWWNpQS1QalZFWjV6VHpQbGlVS1luVHpBclY1cmdldk9YTlFSRUdTRVExWHA4QnJsR2VVdDd0RUtPMjJjcUM0Y3VoQVBOYkJlRmZYVGtTYkR3dVFBd2FhUVJ6VjN0SGh5NVdsNGFzbF9ud0w3SlBEV0JLLXVSZDZMblJMVi1HNG5Ya3dmbFE2ZHJYNjFHaUgzQldXbDNmbmdUTlE3ZHdsM0gtbV96dlFsc3BoNnlDWGRMNnJnLWhlUjRhVGRsemlKWDhXUkFXUk94Rkc4RXdIaHY4QkR4WHFTRnY4MlVZZG8wcW5mVG5iYzgtbWhybnpZdmZSbEJCbmU1cjk2N25GaUFWZEwya2prcUxtWXdLZlJKdE1ld016alF2ZUJ1anBhbWhMb3UzT2s3Z1U3U1NZWTg2Y0JTMEtoa1JlaS1WY2gxR1hrcXd2M3c2TXJWSHdYdXdOXzVE",
+        "time": "2026-08-02 20:53:40"
+      }
+    ]
+  },
   "latest_by_platform_7d": {
     "news": [
       {
@@ -1202,6 +1250,11 @@
     ],
     "facebook": [
       {
+        "title": "【好消息！大埤國中校園安全再升級】 今年4月21日，建國與 #教育部 #國教署 #彭富源 署長前往雲林縣立 #大埤國中 會勘，實地了解校門及周邊環境改善需求，並向教育部積極爭取經費。 今日傳來好消息！教育部正式核定補助160萬元，連同地方配合款共投入200萬元， - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi0AdBVV95cUxQdGpCSHh5NnIycnd1bDJjRWtGWWZXaDZlU3p4UFdoaVhSNlU3OTFpMThIbkFxeWd4S1BIcUZMbXdvUGEwa2tTNU1OU2xBdDQ3SF80UVo5cF9WNXREaTNFZTk3NmlWNlN6cVZFNXc5azhBV18xNEJjRGNueWZ5UzFuOENyRzIwNWIzeWJWX05aNG01S0JXdmZqSnMzb09uNDBOZEpnVVBCcVNuRUVxeUZLMGlKcW01ckM5cXVndHJnQjhseVNmT0NxRl9ocWJyWE03Y01NenBuYy1DZER3aGEzVlNDNEdMTnA0dkd5SGo5QXk3R0tUV0Q1OG4yXzczZzlLSHZoM0J2VEVfcGFhT01qN1ZaRDhZb3phV0hiWlRxVkxRM3pKQ3h1WWk5bzhIRlR1SG83RGxsM2gtaGVrZjFveVR1dy1EODhzTXVCVEY3cTB4M2R5dEZOUkcyeDVTakVXOG1DaEpHaFZCLURCcW11MWRRc19TVW5ZNUxtN3puNFFNTVRLaW1MY2NLWFdyd0lpT3Uwc0YzS3doNXVBRUdLMVE4SFhhdFlOSDh3aDFNeVVCd2ZPSURtdU5QQUNzc21MTW9hVkRqeVFEa3VMVUpGeHkyX0RvYVV6ZS0yS0lNWlQzdUZrWkl2aElrTURUVDdJd3pPYXg5MllDU0NMeTMxUzNDeDNWbmxpVzJiWXhhb3Jqc3lLVHVXeFFXSzhiTDZ6eVJjS1p1WGt6WXJ4Y0dYLTFyUjlGYTBVMm9VdU5IMjFxY05qNjRESWNWZl9GRWtkVzZMXy1fRHNjTU9taEdjZ1NWX2JLYlAybU0wNnQycGM0UzhyaGtvdGpQWWNpQS1QalZFWjV6VHpQbGlVS1luVHpBclY1cmdldk9YTlFSRUdTRVExWHA4QnJsR2VVdDd0RUtPMjJjcUM0Y3VoQVBOYkJlRmZYVGtTYkR3dVFBd2FhUVJ6VjN0SGh5NVdsNGFzbF9ud0w3SlBEV0JLLXVSZDZMblJMVi1HNG5Ya3dmbFE2ZHJYNjFHaUgzQldXbDNmbmdUTlE3ZHdsM0gtbV96dlFsc3BoNnlDWGRMNnJnLWhlUjRhVGRsemlKWDhXUkFXUk94Rkc4RXdIaHY4QkR4WHFTRnY4MlVZZG8wcW5mVG5iYzgtbWhybnpZdmZSbEJCbmU1cjk2N25GaUFWZEwya2prcUxtWXdLZlJKdE1ld016alF2ZUJ1anBhbWhMb3UzT2s3Z1U3U1NZWTg2Y0JTMEtoa1JlaS1WY2gxR1hrcXd2M3c2TXJWSHdYdXdOXzVE",
+        "time": "2026-08-02 20:53:40"
+      },
+      {
         "title": "👉更多新聞👉 典禮, 學員, 張嘉郡 好報報導 (雲林首辦在宅醫療體驗教育營登場 扎根高齡照護人才培育) 版權所有 台灣好報 【記者 劉峻文／雲林 報導】雲林縣政府推動「在宅急症照護雲林加值方案」已邁入第三年，今年將人才培育納入政策推動重點，由雲林縣衛生局攜手 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi2wdBVV95cUxPcl9yM0o3TndLSmZfZ1pSVFNmNlh5aTJnaUhGdWFqUFBXUi1HZUJTVmRzdkc1NWZneTZ0c1VzQkhWdXEyVl96TnMtOXpaWWpseTNCX1NDbk1jSnM1ZnM3cEw1Wi1VUWVkYktCemo5WWFRc0lkcWNISEZvSnZwenh4cjYtUU5uRDNOaDRUWDF6a0JSbWRGZjVzZTRaRFFNeGN4a3pyWlhpMjZ5cnNHTmdPRk1IZWVvZ095dG9aTHh2ZHU2eWRVRmRIRkZXR1pSYXhZaUhnNGhTeFBOX1hWd05nSEVVZzFpSGRsbmE3el9CdWU0U0xsUW1fMTMyd0t1Y2dGM1U3NDBhbzJIZlJ4MktCeEVJVXlrdjF6dUtBZ2wwaGk0dEFzemx6MkloZndjM2E1MXNPMER1MjBtUm8ybVBra1ZFWDZBUDlvOERTWjctNF9LSVR3dEc5RmlJR196amN6N2hBMHZHeHp0dkFwYldXR2I0d1BKaDdtcWoySmQ2bWVPZVdZR1pnTWV2REFCc3cwM1VFdUM4Z0JJOHR1enAtWk9IN3lTb01NWUIwVWZlVnF0QXlQZHJjeEtfZkl3UmZlVVRSeTI3Z3c1LUtvREZLSlJvdUg3aldYMDc0VTFsSVpUckc0N1J0LWVMa3VZU05ta0JRelJuNWtFYjh5Zm52b3Etd1hDeFp2cFhBWGZQUVFuWElSY2lwMUtyOTdidGNwV2RwZXJpbl9ONFlfdFN4RXBJdC14dWhBaUVjTWFfcjVjQW1BMk9oa21YbGFBWVdRT2lWRDZFdnU4SE9RT3FaUk83djBrQ2NRMVJ6NUpwVzU3aUZEcXF1NGsxY1dVcDdfUGVEZUNJTnFtN1JFQnVmOEk1WmNfb1hyX1VjVUxrNU9UMHFwTnFQVVVWNkhLdktHVEdNVDBrS3BDWTlBWU5RVTNKZXNQeW5GZ1hiSVpMWTdFYUt6aHc2cF9pckgzT1hLZ0lSZUlQUFJKXzJyTVNFb0FVc2JLUHd6bGRwNmhHSktpMTdFSVFrWXN0LWN2eW0za2JWMDI4bUYwdjlkRUpHMDhRY2pHS28xaTQwT0NJbWIyRDJrNTN1VkhYTklsVllVMWNCMjZ5UWxveGNKc2lPMVd6RENOeWlpMk0xVmR1VTdMSDJuUm5nYUlORE5yQmtUbldhclRPOGZZZ2dPQlk1M2V6MGNBWXVwWGlXMjF4RlNvWFJLejFsMUl6VzRfdmIyUlMzcmhTc3BBNWd5TDJWVDhOYS1iYWlVZDc3c0VYYm5aMXdXZXpOY1Jia204YlV5VHpXOFFBb0NfWFU",
         "time": "2026-08-01 22:36:36"
@@ -1358,10 +1411,28 @@
   "event_stream": {
     "minute": [],
     "hour": [],
-    "day": []
+    "day": [
+      {
+        "title": "【好消息！大埤國中校園安全再升級】 今年4月21日，建國與 #教育部 #國教署 #彭富源 署長前往雲林縣立 #大埤國中 會勘，實地了解校門及周邊環境改善需求，並向教育部積極爭取經費。 今日傳來好消息！教育部正式核定補助160萬元，連同地方配合款共投入200萬元， - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi0AdBVV95cUxQdGpCSHh5NnIycnd1bDJjRWtGWWZXaDZlU3p4UFdoaVhSNlU3OTFpMThIbkFxeWd4S1BIcUZMbXdvUGEwa2tTNU1OU2xBdDQ3SF80UVo5cF9WNXREaTNFZTk3NmlWNlN6cVZFNXc5azhBV18xNEJjRGNueWZ5UzFuOENyRzIwNWIzeWJWX05aNG01S0JXdmZqSnMzb09uNDBOZEpnVVBCcVNuRUVxeUZLMGlKcW01ckM5cXVndHJnQjhseVNmT0NxRl9ocWJyWE03Y01NenBuYy1DZER3aGEzVlNDNEdMTnA0dkd5SGo5QXk3R0tUV0Q1OG4yXzczZzlLSHZoM0J2VEVfcGFhT01qN1ZaRDhZb3phV0hiWlRxVkxRM3pKQ3h1WWk5bzhIRlR1SG83RGxsM2gtaGVrZjFveVR1dy1EODhzTXVCVEY3cTB4M2R5dEZOUkcyeDVTakVXOG1DaEpHaFZCLURCcW11MWRRc19TVW5ZNUxtN3puNFFNTVRLaW1MY2NLWFdyd0lpT3Uwc0YzS3doNXVBRUdLMVE4SFhhdFlOSDh3aDFNeVVCd2ZPSURtdU5QQUNzc21MTW9hVkRqeVFEa3VMVUpGeHkyX0RvYVV6ZS0yS0lNWlQzdUZrWkl2aElrTURUVDdJd3pPYXg5MllDU0NMeTMxUzNDeDNWbmxpVzJiWXhhb3Jqc3lLVHVXeFFXSzhiTDZ6eVJjS1p1WGt6WXJ4Y0dYLTFyUjlGYTBVMm9VdU5IMjFxY05qNjRESWNWZl9GRWtkVzZMXy1fRHNjTU9taEdjZ1NWX2JLYlAybU0wNnQycGM0UzhyaGtvdGpQWWNpQS1QalZFWjV6VHpQbGlVS1luVHpBclY1cmdldk9YTlFSRUdTRVExWHA4QnJsR2VVdDd0RUtPMjJjcUM0Y3VoQVBOYkJlRmZYVGtTYkR3dVFBd2FhUVJ6VjN0SGh5NVdsNGFzbF9ud0w3SlBEV0JLLXVSZDZMblJMVi1HNG5Ya3dmbFE2ZHJYNjFHaUgzQldXbDNmbmdUTlE3ZHdsM0gtbV96dlFsc3BoNnlDWGRMNnJnLWhlUjRhVGRsemlKWDhXUkFXUk94Rkc4RXdIaHY4QkR4WHFTRnY4MlVZZG8wcW5mVG5iYzgtbWhybnpZdmZSbEJCbmU1cjk2N25GaUFWZEwya2prcUxtWXdLZlJKdE1ld016alF2ZUJ1anBhbWhMb3UzT2s3Z1U3U1NZWTg2Y0JTMEtoa1JlaS1WY2gxR1hrcXd2M3c2TXJWSHdYdXdOXzVE",
+        "time": "2026-08-02 20:53:40",
+        "platform": "facebook",
+        "risk": "綠"
+      }
+    ]
   },
   "regional_groups": {
-    "regions": [],
-    "groups": []
+    "regions": [
+      {
+        "name": "雲林",
+        "count": 1
+      }
+    ],
+    "groups": [
+      {
+        "name": "教育家長",
+        "count": 1
+      }
+    ]
   }
 }
