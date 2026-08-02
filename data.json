@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-08-02T17:40:19.366854+00:00",
+  "generated_at": "2026-08-02T17:56:08.068654+00:00",
   "metrics": {
-    "total_24h": 1,
+    "total_24h": 2,
     "prev_24h": 8,
-    "growth_pct": -87.5,
-    "news_24h": 0,
+    "growth_pct": -75.0,
+    "news_24h": 1,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 146,
+    "total": 147,
     "prev": 119,
-    "growth_pct": 22.69,
-    "news": 115,
+    "growth_pct": 23.53,
+    "news": 116,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -29,12 +29,16 @@
     {
       "platform": "facebook",
       "count": 1
+    },
+    {
+      "platform": "news",
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 115
+      "count": 116
     },
     {
       "platform": "facebook",
@@ -48,6 +52,10 @@
   "by_hour": [
     {
       "hour": "2026-08-02 20:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-08-03 00:00",
       "count": 1
     }
   ],
@@ -275,15 +283,30 @@
     {
       "hour": "2026-08-02 20:00",
       "count": 1
+    },
+    {
+      "hour": "2026-08-03 00:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 1
+    },
     {
       "platform": "facebook",
       "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "參選雲林首屆平地原住民議員呂佶娜於麥寮成立競選服務處縣長張麗善、議長黃凱及立委張嘉郡等人到場力挺氣氛熱絡！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjdkNRakZaZXN0NEE5YUl5aHhGa2RIa25CbzV0YUFlRWp2VjE0MmxPa25CcGx5VXRMZ3k5WUFJQXBUaWU1eTZ0dFM3eUhIdkNJRFhOcW5pUUw4ZGRGY1dIZzRLRnN0TUdCM0tj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-03 00:30:28"
+      }
+    ],
     "facebook": [
       {
         "title": "【好消息！大埤國中校園安全再升級】 今年4月21日，建國與 #教育部 #國教署 #彭富源 署長前往雲林縣立 #大埤國中 會勘，實地了解校門及周邊環境改善需求，並向教育部積極爭取經費。 今日傳來好消息！教育部正式核定補助160萬元，連同地方配合款共投入200萬元， - facebook.com",
@@ -294,11 +317,22 @@
   },
   "alias_by_platform_24h": [
     {
+      "platform": "news",
+      "count": 1
+    },
+    {
       "platform": "facebook",
       "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "參選雲林首屆平地原住民議員呂佶娜於麥寮成立競選服務處縣長張麗善、議長黃凱及立委張嘉郡等人到場力挺氣氛熱絡！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjdkNRakZaZXN0NEE5YUl5aHhGa2RIa25CbzV0YUFlRWp2VjE0MmxPa25CcGx5VXRMZ3k5WUFJQXBUaWU1eTZ0dFM3eUhIdkNJRFhOcW5pUUw4ZGRGY1dIZzRLRnN0TUdCM0tj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-03 00:30:28"
+      }
+    ],
     "facebook": [
       {
         "title": "【好消息！大埤國中校園安全再升級】 今年4月21日，建國與 #教育部 #國教署 #彭富源 署長前往雲林縣立 #大埤國中 會勘，實地了解校門及周邊環境改善需求，並向教育部積極爭取經費。 今日傳來好消息！教育部正式核定補助160萬元，連同地方配合款共投入200萬元， - facebook.com",
@@ -308,15 +342,26 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 0,
+    "張嘉郡": 1,
     "劉建國": 1
   },
   "mention_compare_7d": {
-    "張嘉郡": 48,
+    "張嘉郡": 49,
     "劉建國": 82
   },
-  "top_news": [],
+  "top_news": [
+    {
+      "title": "參選雲林首屆平地原住民議員呂佶娜於麥寮成立競選服務處縣長張麗善、議長黃凱及立委張嘉郡等人到場力挺氣氛熱絡！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjdkNRakZaZXN0NEE5YUl5aHhGa2RIa25CbzV0YUFlRWp2VjE0MmxPa25CcGx5VXRMZ3k5WUFJQXBUaWU1eTZ0dFM3eUhIdkNJRFhOcW5pUUw4ZGRGY1dIZzRLRnN0TUdCM0tj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-03 00:30:28"
+    }
+  ],
   "top_news_7d": [
+    {
+      "title": "參選雲林首屆平地原住民議員呂佶娜於麥寮成立競選服務處縣長張麗善、議長黃凱及立委張嘉郡等人到場力挺氣氛熱絡！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjdkNRakZaZXN0NEE5YUl5aHhGa2RIa25CbzV0YUFlRWp2VjE0MmxPa25CcGx5VXRMZ3k5WUFJQXBUaWU1eTZ0dFM3eUhIdkNJRFhOcW5pUUw4ZGRGY1dIZzRLRnN0TUdCM0tj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-03 00:30:28"
+    },
     {
       "title": "全台約 16.8 萬戶受惠 每戶每年最高可省 774 元 張嘉郡爭取農業用電底度費補貼 | 台灣生活新聞 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MRy1lczItSGRXdTl6MXpSd0JiNHlpc0N6WDYzal9DbkpaZVE3S3piODBpX01tYm1sbGFXdzdiS1FDS3NYbUNnNlBYSFZiZjJnNWdLQWV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -411,11 +456,6 @@
       "title": "稱1人打7人空戰輸對手還被蔡英文吐槽劉建國：該向中央說的都已說了| 2026九合一選舉 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtSkwtNEtHMm82ODJqMDBvaEFzZ2VpNlg4eHJIelMxaGRoVUlyQUVfSVJZbWFnNUtNejFyUTVWVTlQLTZGM0NLQXppWjRLVk9BTGNjXzdhZW4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-31 13:32:37"
-    },
-    {
-      "title": "129億台大雲林虎尾院區拚醫學中心 劉建國：縮短急重症黃金救治時間 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQTHF2MXdkRmppYUZMOXdOZWU4YjVfSk5jdGluWVZxQmJSc0RKV3RzY0JtcU9hMWdENGlLdVctUjNrUzY0OUpGNGNISGcyRlloZWN0R0FWR3loM1U5UDRVelp5ampLYktSejFoX09VZEEtcndPc2RJZUxhYkU2Y2Z4SDdhY01mVUw0cEFtc2VRU2pVWnAwdmxCQ01meFJEVFgyeC1Na3E4Y3BsT05HckNXUlo2dllxQ3hlXzZOYmI1QzhjNFdRaEJDT3BIS0xRSFowVk5uWXRVdW5KT0NYMzZqQUVrbklBaG1kTExLOE5uMTVsMnR1bG5lUWhvcDJ1b25VakxvOGh0a3BxN1VDUEQwd0hXSGdPQnJBWEtfLUZBVnB5a1FTa3VuWFViWVk2TlU1QzQ0UFVmbzhxUDNZY1doSVQxWVdxZ3dTSkVOb1hYb0Z4eW9IeElka25IWEpMSEttMlQwSGUwRkJSM1dzWDg5NEpxNExuOXJUXzBCTDlTdEdqTHVyeGdwNVFCRHVKTC1lZTctVk1DRnVHUTNhd0F4UEN5WnB5SDFDREE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-31 13:10:29"
     }
   ],
   "latest_facebook_20": [
@@ -522,6 +562,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "參選雲林首屆平地原住民議員呂佶娜於麥寮成立競選服務處縣長張麗善、議長黃凱及立委張嘉郡等人到場力挺氣氛熱絡！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjdkNRakZaZXN0NEE5YUl5aHhGa2RIa25CbzV0YUFlRWp2VjE0MmxPa25CcGx5VXRMZ3k5WUFJQXBUaWU1eTZ0dFM3eUhIdkNJRFhOcW5pUUw4ZGRGY1dIZzRLRnN0TUdCM0tj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-03 00:30:28"
+    },
+    {
       "title": "全台約 16.8 萬戶受惠 每戶每年最高可省 774 元 張嘉郡爭取農業用電底度費補貼 | 台灣生活新聞 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MRy1lczItSGRXdTl6MXpSd0JiNHlpc0N6WDYzal9DbkpaZVE3S3piODBpX01tYm1sbGFXdzdiS1FDS3NYbUNnNlBYSFZiZjJnNWdLQWV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-01 12:01:47"
@@ -615,11 +660,6 @@
       "title": "稱1人打7人空戰輸對手還被蔡英文吐槽劉建國：該向中央說的都已說了| 2026九合一選舉 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtSkwtNEtHMm82ODJqMDBvaEFzZ2VpNlg4eHJIelMxaGRoVUlyQUVfSVJZbWFnNUtNejFyUTVWVTlQLTZGM0NLQXppWjRLVk9BTGNjXzdhZW4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-31 13:32:37"
-    },
-    {
-      "title": "129億台大雲林虎尾院區拚醫學中心 劉建國：縮短急重症黃金救治時間 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQTHF2MXdkRmppYUZMOXdOZWU4YjVfSk5jdGluWVZxQmJSc0RKV3RzY0JtcU9hMWdENGlLdVctUjNrUzY0OUpGNGNISGcyRlloZWN0R0FWR3loM1U5UDRVelp5ampLYktSejFoX09VZEEtcndPc2RJZUxhYkU2Y2Z4SDdhY01mVUw0cEFtc2VRU2pVWnAwdmxCQ01meFJEVFgyeC1Na3E4Y3BsT05HckNXUlo2dllxQ3hlXzZOYmI1QzhjNFdRaEJDT3BIS0xRSFowVk5uWXRVdW5KT0NYMzZqQUVrbklBaG1kTExLOE5uMTVsMnR1bG5lUWhvcDJ1b25VakxvOGh0a3BxN1VDUEQwd0hXSGdPQnJBWEtfLUZBVnB5a1FTa3VuWFViWVk2TlU1QzQ0UFVmbzhxUDNZY1doSVQxWVdxZ3dTSkVOb1hYb0Z4eW9IeElka25IWEpMSEttMlQwSGUwRkJSM1dzWDg5NEpxNExuOXJUXzBCTDlTdEdqTHVyeGdwNVFCRHVKTC1lZTctVk1DRnVHUTNhd0F4UEN5WnB5SDFDREE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-31 13:10:29"
     }
   ],
   "person_sections": {
@@ -728,6 +768,11 @@
       ],
       "news": [
         {
+          "title": "參選雲林首屆平地原住民議員呂佶娜於麥寮成立競選服務處縣長張麗善、議長黃凱及立委張嘉郡等人到場力挺氣氛熱絡！ - 台灣華報",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjdkNRakZaZXN0NEE5YUl5aHhGa2RIa25CbzV0YUFlRWp2VjE0MmxPa25CcGx5VXRMZ3k5WUFJQXBUaWU1eTZ0dFM3eUhIdkNJRFhOcW5pUUw4ZGRGY1dIZzRLRnN0TUdCM0tj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-03 00:30:28"
+        },
+        {
           "title": "全台約 16.8 萬戶受惠 每戶每年最高可省 774 元 張嘉郡爭取農業用電底度費補貼 | 台灣生活新聞 - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MRy1lczItSGRXdTl6MXpSd0JiNHlpc0N6WDYzal9DbkpaZVE3S3piODBpX01tYm1sbGFXdzdiS1FDS3NYbUNnNlBYSFZiZjJnNWdLQWV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-01 12:01:47"
@@ -821,11 +866,6 @@
           "title": "聚焦AI智慧治理 張嘉郡公布雲林智慧城市政策白皮書 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNLUN5R2d4VEFZTlgxclNUanM5b0pzOE12VnBKNkw1dC1IdHF1eWhmbTh3S1NsMkVFTmZibEJvZ1dYZE9GZlZucTg4U0lsWTYydFNsR21FaklONXZ6di1SUFhzdEpFR3d2OUFORDY2TW1zQ2ljRWpCN3M0UDlYZnlZWUF2cTM3THc1WkgtU2REZnVqWldYSkJqaGp5TkNpWU5WTmVsV3JKT3oyRlRraGpCNmZQcGJiNjc3Z2g0aFpRdnZuTW1IRTBUWUtoay1XTkdnSHluYTJSWjlLSWF2NmdQanZOcnVoYmhlN1RUajhmZkNqSDBMU2VhdHZMcnVvcHlBR0N0VEJuUWV0cWN6YWEzVU9pYi1WVWJuQjFkQXdRODZZQVBiR0NKYjV5SU9iSjlhRXRGbWdpbnk5U0h5WjIyUzMwejZRNDZlMWNDZ3NJeWc3M01zZGIzeEM5VFV4Skk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-31 12:18:55"
-        },
-        {
-          "title": "攜手葛如鈞、廖偉翔發表白皮書 張嘉郡推AI智慧雲林10大旗艦計畫 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQbmlGQzcwS00xV0ZGM2YzOXpCaE56YWhrajBSTEgxdE5nWTVPSVB3bm83UFZLV1RlczhOMDZ1TXBPSE9ubGU0WUJrRUoteFZUWHdCaFhsTmlUajJyQjlJSW93OHVSNkRYWDhIRkFPMjZDX25OeEdIT05RYllWQjJqX1huaC1XeXJxN0xaYnlTUl9SQkk4N1VUbXI0ei16WURYV2dLS0F0WTdPajIxYURZYkowd01rZXNHcmo1SUFCRm5GTTlPaE1TY0NlNC0xbDFDXzBzaUJadF9rbkJqTXEyQVNYNUtZMnA4aDJxdmRnUllEcjR0UlBMRmltUWUtc2tFZW9HWmFaZGE1d1NPeGZxUEtoZzQwekVmcUNWMEhHaFlLN0ZpSWlkak9GT1BLMjdCdFNPcmZ2eF9DZ1pFcGpvRjRZUWtkNlItMUhVVko4LUwxUUJNOGNVMkFQM1JyTksxYl9tZHhsZGRIOGVSNXgxNk81MnZhd29WNnlLZzlmTWVlX05NWDJ2R3pIdFUtUVo0dERJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-31 11:51:51"
         }
       ]
     },
@@ -1043,10 +1083,22 @@
         "url": "https://news.google.com/rss/articles/CBMi0AdBVV95cUxQdGpCSHh5NnIycnd1bDJjRWtGWWZXaDZlU3p4UFdoaVhSNlU3OTFpMThIbkFxeWd4S1BIcUZMbXdvUGEwa2tTNU1OU2xBdDQ3SF80UVo5cF9WNXREaTNFZTk3NmlWNlN6cVZFNXc5azhBV18xNEJjRGNueWZ5UzFuOENyRzIwNWIzeWJWX05aNG01S0JXdmZqSnMzb09uNDBOZEpnVVBCcVNuRUVxeUZLMGlKcW01ckM5cXVndHJnQjhseVNmT0NxRl9ocWJyWE03Y01NenBuYy1DZER3aGEzVlNDNEdMTnA0dkd5SGo5QXk3R0tUV0Q1OG4yXzczZzlLSHZoM0J2VEVfcGFhT01qN1ZaRDhZb3phV0hiWlRxVkxRM3pKQ3h1WWk5bzhIRlR1SG83RGxsM2gtaGVrZjFveVR1dy1EODhzTXVCVEY3cTB4M2R5dEZOUkcyeDVTakVXOG1DaEpHaFZCLURCcW11MWRRc19TVW5ZNUxtN3puNFFNTVRLaW1MY2NLWFdyd0lpT3Uwc0YzS3doNXVBRUdLMVE4SFhhdFlOSDh3aDFNeVVCd2ZPSURtdU5QQUNzc21MTW9hVkRqeVFEa3VMVUpGeHkyX0RvYVV6ZS0yS0lNWlQzdUZrWkl2aElrTURUVDdJd3pPYXg5MllDU0NMeTMxUzNDeDNWbmxpVzJiWXhhb3Jqc3lLVHVXeFFXSzhiTDZ6eVJjS1p1WGt6WXJ4Y0dYLTFyUjlGYTBVMm9VdU5IMjFxY05qNjRESWNWZl9GRWtkVzZMXy1fRHNjTU9taEdjZ1NWX2JLYlAybU0wNnQycGM0UzhyaGtvdGpQWWNpQS1QalZFWjV6VHpQbGlVS1luVHpBclY1cmdldk9YTlFSRUdTRVExWHA4QnJsR2VVdDd0RUtPMjJjcUM0Y3VoQVBOYkJlRmZYVGtTYkR3dVFBd2FhUVJ6VjN0SGh5NVdsNGFzbF9ud0w3SlBEV0JLLXVSZDZMblJMVi1HNG5Ya3dmbFE2ZHJYNjFHaUgzQldXbDNmbmdUTlE3ZHdsM0gtbV96dlFsc3BoNnlDWGRMNnJnLWhlUjRhVGRsemlKWDhXUkFXUk94Rkc4RXdIaHY4QkR4WHFTRnY4MlVZZG8wcW5mVG5iYzgtbWhybnpZdmZSbEJCbmU1cjk2N25GaUFWZEwya2prcUxtWXdLZlJKdE1ld016alF2ZUJ1anBhbWhMb3UzT2s3Z1U3U1NZWTg2Y0JTMEtoa1JlaS1WY2gxR1hrcXd2M3c2TXJWSHdYdXdOXzVE",
         "time": "2026-08-02 20:53:40"
       }
+    ],
+    "news": [
+      {
+        "title": "參選雲林首屆平地原住民議員呂佶娜於麥寮成立競選服務處縣長張麗善、議長黃凱及立委張嘉郡等人到場力挺氣氛熱絡！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjdkNRakZaZXN0NEE5YUl5aHhGa2RIa25CbzV0YUFlRWp2VjE0MmxPa25CcGx5VXRMZ3k5WUFJQXBUaWU1eTZ0dFM3eUhIdkNJRFhOcW5pUUw4ZGRGY1dIZzRLRnN0TUdCM0tj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-03 00:30:28"
+      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "參選雲林首屆平地原住民議員呂佶娜於麥寮成立競選服務處縣長張麗善、議長黃凱及立委張嘉郡等人到場力挺氣氛熱絡！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjdkNRakZaZXN0NEE5YUl5aHhGa2RIa25CbzV0YUFlRWp2VjE0MmxPa25CcGx5VXRMZ3k5WUFJQXBUaWU1eTZ0dFM3eUhIdkNJRFhOcW5pUUw4ZGRGY1dIZzRLRnN0TUdCM0tj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-03 00:30:28"
+      },
       {
         "title": "全台約 16.8 萬戶受惠 每戶每年最高可省 774 元 張嘉郡爭取農業用電底度費補貼 | 台灣生活新聞 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MRy1lczItSGRXdTl6MXpSd0JiNHlpc0N6WDYzal9DbkpaZVE3S3piODBpX01tYm1sbGFXdzdiS1FDS3NYbUNnNlBYSFZiZjJnNWdLQWV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1241,11 +1293,6 @@
         "title": "稱1人打7人空戰輸對手還被蔡英文吐槽 劉建國：該向中央說的都已說了 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01a1RfSkhvNnBvNVZ3SVRneTM1bEhqeHRtMzExWGg0ZXVCbjZMdVowY0lsYTNQV1ZVWHlndU1JUzJVdVNTVlIyOGFHR1ZWc2o1LXNJ0gFYQVVfeXFMTkt4THRXMmhaM1U0YWlrNm8zRWxPN0V6VXBJSkRKMGJ4Z3o5U1N0NTZWU21wci0zOHBRMy1OcFRkejUtSmdPMHpNNV9LSnJBZlY2eU0zeDlzWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-31 12:08:00"
-      },
-      {
-        "title": "【政治觀察】體會農民的艱苦到中央一年1億元補貼 劉建國展現未來縣長該有的解決問題能力 - n.yam.com",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53NzFhV3U5Y19Db1NORG1sMjd5bkQxQjE5enNhSGNrNzB4STBIWkN5aTRRY1lkb3kxWC0wRFNpU0lWZGQzSEhpOUZVSzVsY1JwNHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-31 11:56:00"
       }
     ],
     "facebook": [
@@ -1413,6 +1460,13 @@
     "hour": [],
     "day": [
       {
+        "title": "參選雲林首屆平地原住民議員呂佶娜於麥寮成立競選服務處縣長張麗善、議長黃凱及立委張嘉郡等人到場力挺氣氛熱絡！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjdkNRakZaZXN0NEE5YUl5aHhGa2RIa25CbzV0YUFlRWp2VjE0MmxPa25CcGx5VXRMZ3k5WUFJQXBUaWU1eTZ0dFM3eUhIdkNJRFhOcW5pUUw4ZGRGY1dIZzRLRnN0TUdCM0tj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-03 00:30:28",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "【好消息！大埤國中校園安全再升級】 今年4月21日，建國與 #教育部 #國教署 #彭富源 署長前往雲林縣立 #大埤國中 會勘，實地了解校門及周邊環境改善需求，並向教育部積極爭取經費。 今日傳來好消息！教育部正式核定補助160萬元，連同地方配合款共投入200萬元， - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi0AdBVV95cUxQdGpCSHh5NnIycnd1bDJjRWtGWWZXaDZlU3p4UFdoaVhSNlU3OTFpMThIbkFxeWd4S1BIcUZMbXdvUGEwa2tTNU1OU2xBdDQ3SF80UVo5cF9WNXREaTNFZTk3NmlWNlN6cVZFNXc5azhBV18xNEJjRGNueWZ5UzFuOENyRzIwNWIzeWJWX05aNG01S0JXdmZqSnMzb09uNDBOZEpnVVBCcVNuRUVxeUZLMGlKcW01ckM5cXVndHJnQjhseVNmT0NxRl9ocWJyWE03Y01NenBuYy1DZER3aGEzVlNDNEdMTnA0dkd5SGo5QXk3R0tUV0Q1OG4yXzczZzlLSHZoM0J2VEVfcGFhT01qN1ZaRDhZb3phV0hiWlRxVkxRM3pKQ3h1WWk5bzhIRlR1SG83RGxsM2gtaGVrZjFveVR1dy1EODhzTXVCVEY3cTB4M2R5dEZOUkcyeDVTakVXOG1DaEpHaFZCLURCcW11MWRRc19TVW5ZNUxtN3puNFFNTVRLaW1MY2NLWFdyd0lpT3Uwc0YzS3doNXVBRUdLMVE4SFhhdFlOSDh3aDFNeVVCd2ZPSURtdU5QQUNzc21MTW9hVkRqeVFEa3VMVUpGeHkyX0RvYVV6ZS0yS0lNWlQzdUZrWkl2aElrTURUVDdJd3pPYXg5MllDU0NMeTMxUzNDeDNWbmxpVzJiWXhhb3Jqc3lLVHVXeFFXSzhiTDZ6eVJjS1p1WGt6WXJ4Y0dYLTFyUjlGYTBVMm9VdU5IMjFxY05qNjRESWNWZl9GRWtkVzZMXy1fRHNjTU9taEdjZ1NWX2JLYlAybU0wNnQycGM0UzhyaGtvdGpQWWNpQS1QalZFWjV6VHpQbGlVS1luVHpBclY1cmdldk9YTlFSRUdTRVExWHA4QnJsR2VVdDd0RUtPMjJjcUM0Y3VoQVBOYkJlRmZYVGtTYkR3dVFBd2FhUVJ6VjN0SGh5NVdsNGFzbF9ud0w3SlBEV0JLLXVSZDZMblJMVi1HNG5Ya3dmbFE2ZHJYNjFHaUgzQldXbDNmbmdUTlE3ZHdsM0gtbV96dlFsc3BoNnlDWGRMNnJnLWhlUjRhVGRsemlKWDhXUkFXUk94Rkc4RXdIaHY4QkR4WHFTRnY4MlVZZG8wcW5mVG5iYzgtbWhybnpZdmZSbEJCbmU1cjk2N25GaUFWZEwya2prcUxtWXdLZlJKdE1ld016alF2ZUJ1anBhbWhMb3UzT2s3Z1U3U1NZWTg2Y0JTMEtoa1JlaS1WY2gxR1hrcXd2M3c2TXJWSHdYdXdOXzVE",
         "time": "2026-08-02 20:53:40",
@@ -1425,6 +1479,10 @@
     "regions": [
       {
         "name": "雲林",
+        "count": 2
+      },
+      {
+        "name": "麥寮",
         "count": 1
       }
     ],
