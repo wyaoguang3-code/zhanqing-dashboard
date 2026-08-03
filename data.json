@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-08-03T09:38:59.191224+00:00",
+  "generated_at": "2026-08-03T09:56:04.326476+00:00",
   "metrics": {
-    "total_24h": 8,
+    "total_24h": 9,
     "prev_24h": 1,
-    "growth_pct": 700.0,
-    "news_24h": 7,
+    "growth_pct": 800.0,
+    "news_24h": 8,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 140,
+    "total": 141,
     "prev": 125,
-    "growth_pct": 12.0,
-    "news": 111,
+    "growth_pct": 12.8,
+    "news": 112,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 7
+      "count": 8
     },
     {
       "platform": "facebook",
@@ -38,7 +38,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 111
+      "count": 112
     },
     {
       "platform": "facebook",
@@ -76,6 +76,10 @@
     },
     {
       "hour": "2026-08-03 15:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-08-03 17:00",
       "count": 1
     }
   ],
@@ -295,12 +299,16 @@
     {
       "hour": "2026-08-03 15:00",
       "count": 1
+    },
+    {
+      "hour": "2026-08-03 17:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 7
+      "count": 8
     },
     {
       "platform": "facebook",
@@ -309,6 +317,11 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "虎科大AI新秀計畫開訓 劉建國提出打造無人機產業新創園區 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOWHBqNy05Y3ZIOXNER3loZWlGOFkzRTgxb1JVNkFLQlRVVjE0UXJVOTZjZi1fMzkyVWRPSWl2YmNYOUdORjR2Ung2Y2J2ME00SmhCRnRKaFVFUjN3WEM0b1NZNV9leWgxdzJtUkhjck95V0pDRHBudHBhdnkzejA0NW9mdFB6SW9sdXo5b2JnX2F3emtpX3JsRzVPbnlxVEF5c3k0MzdmRU1KS25PUVhoVnhNZjNBVndBdkdMaUVYOXM4QzRhbjlqOWRrdU1EVmYtRTZKOGNqdkJDUlhNeGVnQ2FPMF9rWEpZZHJzTGY5YklHYVIybFFPclJJNGFxOERfbmo0S2xBMXJZN2pEdGNVaUJjcGtHZ3duelFnTGFncG8tS1dIYTlEYUNWMXlVTDZXZF9sbGprVjN0SlNjMHJkaFh4TU9URFZ3blJPYVpkY1N6ZmtndEM3cXdCazRHY3VZU2pzQUt3TUNmRDFudUZyMzhMcE1uSnRjRTJKd3JqVEVkQWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-03 17:23:56"
+      },
       {
         "title": "虎科大AI新秀計畫開訓劉建國爭取無人機產業新創園區轉型雲林| 鏡週刊 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yN0dtbnlXc1JEU2VIeTFPNHU5cXpKcmNTRmVkdjRGSHRscF9GazNFYzh3ODZsWmtYbVRPTy1iUE9UR09mZkVxWEVkaGd4ZmJEMGN4RXZtNmNqSFFSNlZJb0hKeGVUWk94T0t2dkYtYWNRaHM0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -356,7 +369,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 7
+      "count": 8
     },
     {
       "platform": "facebook",
@@ -365,6 +378,11 @@
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "虎科大AI新秀計畫開訓 劉建國提出打造無人機產業新創園區 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOWHBqNy05Y3ZIOXNER3loZWlGOFkzRTgxb1JVNkFLQlRVVjE0UXJVOTZjZi1fMzkyVWRPSWl2YmNYOUdORjR2Ung2Y2J2ME00SmhCRnRKaFVFUjN3WEM0b1NZNV9leWgxdzJtUkhjck95V0pDRHBudHBhdnkzejA0NW9mdFB6SW9sdXo5b2JnX2F3emtpX3JsRzVPbnlxVEF5c3k0MzdmRU1KS25PUVhoVnhNZjNBVndBdkdMaUVYOXM4QzRhbjlqOWRrdU1EVmYtRTZKOGNqdkJDUlhNeGVnQ2FPMF9rWEpZZHJzTGY5YklHYVIybFFPclJJNGFxOERfbmo0S2xBMXJZN2pEdGNVaUJjcGtHZ3duelFnTGFncG8tS1dIYTlEYUNWMXlVTDZXZF9sbGprVjN0SlNjMHJkaFh4TU9URFZ3blJPYVpkY1N6ZmtndEM3cXdCazRHY3VZU2pzQUt3TUNmRDFudUZyMzhMcE1uSnRjRTJKd3JqVEVkQWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-03 17:23:56"
+      },
       {
         "title": "虎科大AI新秀計畫開訓劉建國爭取無人機產業新創園區轉型雲林| 鏡週刊 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yN0dtbnlXc1JEU2VIeTFPNHU5cXpKcmNTRmVkdjRGSHRscF9GazNFYzh3ODZsWmtYbVRPTy1iUE9UR09mZkVxWEVkaGd4ZmJEMGN4RXZtNmNqSFFSNlZJb0hKeGVUWk94T0t2dkYtYWNRaHM0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -411,13 +429,18 @@
   },
   "mention_compare_24h": {
     "張嘉郡": 3,
-    "劉建國": 5
+    "劉建國": 6
   },
   "mention_compare_7d": {
     "張嘉郡": 51,
-    "劉建國": 74
+    "劉建國": 75
   },
   "top_news": [
+    {
+      "title": "虎科大AI新秀計畫開訓 劉建國提出打造無人機產業新創園區 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOWHBqNy05Y3ZIOXNER3loZWlGOFkzRTgxb1JVNkFLQlRVVjE0UXJVOTZjZi1fMzkyVWRPSWl2YmNYOUdORjR2Ung2Y2J2ME00SmhCRnRKaFVFUjN3WEM0b1NZNV9leWgxdzJtUkhjck95V0pDRHBudHBhdnkzejA0NW9mdFB6SW9sdXo5b2JnX2F3emtpX3JsRzVPbnlxVEF5c3k0MzdmRU1KS25PUVhoVnhNZjNBVndBdkdMaUVYOXM4QzRhbjlqOWRrdU1EVmYtRTZKOGNqdkJDUlhNeGVnQ2FPMF9rWEpZZHJzTGY5YklHYVIybFFPclJJNGFxOERfbmo0S2xBMXJZN2pEdGNVaUJjcGtHZ3duelFnTGFncG8tS1dIYTlEYUNWMXlVTDZXZF9sbGprVjN0SlNjMHJkaFh4TU9URFZ3blJPYVpkY1N6ZmtndEM3cXdCazRHY3VZU2pzQUt3TUNmRDFudUZyMzhMcE1uSnRjRTJKd3JqVEVkQWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-03 17:23:56"
+    },
     {
       "title": "虎科大AI新秀計畫開訓劉建國爭取無人機產業新創園區轉型雲林| 鏡週刊 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yN0dtbnlXc1JEU2VIeTFPNHU5cXpKcmNTRmVkdjRGSHRscF9GazNFYzh3ODZsWmtYbVRPTy1iUE9UR09mZkVxWEVkaGd4ZmJEMGN4RXZtNmNqSFFSNlZJb0hKeGVUWk94T0t2dkYtYWNRaHM0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -455,6 +478,11 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "虎科大AI新秀計畫開訓 劉建國提出打造無人機產業新創園區 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOWHBqNy05Y3ZIOXNER3loZWlGOFkzRTgxb1JVNkFLQlRVVjE0UXJVOTZjZi1fMzkyVWRPSWl2YmNYOUdORjR2Ung2Y2J2ME00SmhCRnRKaFVFUjN3WEM0b1NZNV9leWgxdzJtUkhjck95V0pDRHBudHBhdnkzejA0NW9mdFB6SW9sdXo5b2JnX2F3emtpX3JsRzVPbnlxVEF5c3k0MzdmRU1KS25PUVhoVnhNZjNBVndBdkdMaUVYOXM4QzRhbjlqOWRrdU1EVmYtRTZKOGNqdkJDUlhNeGVnQ2FPMF9rWEpZZHJzTGY5YklHYVIybFFPclJJNGFxOERfbmo0S2xBMXJZN2pEdGNVaUJjcGtHZ3duelFnTGFncG8tS1dIYTlEYUNWMXlVTDZXZF9sbGprVjN0SlNjMHJkaFh4TU9URFZ3blJPYVpkY1N6ZmtndEM3cXdCazRHY3VZU2pzQUt3TUNmRDFudUZyMzhMcE1uSnRjRTJKd3JqVEVkQWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-03 17:23:56"
+    },
     {
       "title": "虎科大AI新秀計畫開訓劉建國爭取無人機產業新創園區轉型雲林| 鏡週刊 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yN0dtbnlXc1JEU2VIeTFPNHU5cXpKcmNTRmVkdjRGSHRscF9GazNFYzh3ODZsWmtYbVRPTy1iUE9UR09mZkVxWEVkaGd4ZmJEMGN4RXZtNmNqSFFSNlZJb0hKeGVUWk94T0t2dkYtYWNRaHM0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -549,11 +577,6 @@
       "title": "雲林縣長參選人張嘉郡強調：以人民需求為核心推動AI智慧雲林十大旗艦計畫實現「精準治理、服務有感」目標！ - kingtop.com.tw",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QYlVZNDNBVTVVZ1F1Z2FfR2F1SUUwckFEZ0RzX1RiY3B2WlJDVGRFSFJTMGFYVGhJNmNjekktZUV0Y09yWV80dW1QaG10dGVma0VDcGpweUYzWmJLYTdmLUpGaDdBSkdKQnhB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-31 21:03:56"
-    },
-    {
-      "title": "雲林縣長參選人張嘉郡強調：以人民需求為核心推動AI智慧雲林十大旗艦計畫實現「精準治理、服務有感」目標！ - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtQ2JqZlphSV9LcmlMcGxLRDVHcWF3YmZyZG5RRkdnSVAyLWs4cFB0RGR1ZzZlRk9Td1JES0RaNTRfMmtmUEdIeEZIVVBPemg2ekZLUWFWQ19tRTl3NWNPSlcyZWxqOU1lSWU3TFlyb3hESDZJWXRDeDcxamQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-31 19:21:07"
     }
   ],
   "latest_facebook_20": [
@@ -660,6 +683,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "虎科大AI新秀計畫開訓 劉建國提出打造無人機產業新創園區 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOWHBqNy05Y3ZIOXNER3loZWlGOFkzRTgxb1JVNkFLQlRVVjE0UXJVOTZjZi1fMzkyVWRPSWl2YmNYOUdORjR2Ung2Y2J2ME00SmhCRnRKaFVFUjN3WEM0b1NZNV9leWgxdzJtUkhjck95V0pDRHBudHBhdnkzejA0NW9mdFB6SW9sdXo5b2JnX2F3emtpX3JsRzVPbnlxVEF5c3k0MzdmRU1KS25PUVhoVnhNZjNBVndBdkdMaUVYOXM4QzRhbjlqOWRrdU1EVmYtRTZKOGNqdkJDUlhNeGVnQ2FPMF9rWEpZZHJzTGY5YklHYVIybFFPclJJNGFxOERfbmo0S2xBMXJZN2pEdGNVaUJjcGtHZ3duelFnTGFncG8tS1dIYTlEYUNWMXlVTDZXZF9sbGprVjN0SlNjMHJkaFh4TU9URFZ3blJPYVpkY1N6ZmtndEM3cXdCazRHY3VZU2pzQUt3TUNmRDFudUZyMzhMcE1uSnRjRTJKd3JqVEVkQWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-03 17:23:56"
+    },
+    {
       "title": "虎科大AI新秀計畫開訓劉建國爭取無人機產業新創園區轉型雲林| 鏡週刊 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yN0dtbnlXc1JEU2VIeTFPNHU5cXpKcmNTRmVkdjRGSHRscF9GazNFYzh3ODZsWmtYbVRPTy1iUE9UR09mZkVxWEVkaGd4ZmJEMGN4RXZtNmNqSFFSNlZJb0hKeGVUWk94T0t2dkYtYWNRaHM0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-03 15:48:37"
@@ -753,11 +781,6 @@
       "title": "雲林縣長參選人張嘉郡強調：以人民需求為核心推動AI智慧雲林十大旗艦計畫實現「精準治理、服務有感」目標！ - kingtop.com.tw",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QYlVZNDNBVTVVZ1F1Z2FfR2F1SUUwckFEZ0RzX1RiY3B2WlJDVGRFSFJTMGFYVGhJNmNjekktZUV0Y09yWV80dW1QaG10dGVma0VDcGpweUYzWmJLYTdmLUpGaDdBSkdKQnhB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-07-31 21:03:56"
-    },
-    {
-      "title": "雲林縣長參選人張嘉郡強調：以人民需求為核心推動AI智慧雲林十大旗艦計畫實現「精準治理、服務有感」目標！ - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtQ2JqZlphSV9LcmlMcGxLRDVHcWF3YmZyZG5RRkdnSVAyLWs4cFB0RGR1ZzZlRk9Td1JES0RaNTRfMmtmUEdIeEZIVVBPemg2ekZLUWFWQ19tRTl3NWNPSlcyZWxqOU1lSWU3TFlyb3hESDZJWXRDeDcxamQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-07-31 19:21:07"
     }
   ],
   "person_sections": {
@@ -1072,6 +1095,11 @@
       ],
       "news": [
         {
+          "title": "虎科大AI新秀計畫開訓 劉建國提出打造無人機產業新創園區 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOWHBqNy05Y3ZIOXNER3loZWlGOFkzRTgxb1JVNkFLQlRVVjE0UXJVOTZjZi1fMzkyVWRPSWl2YmNYOUdORjR2Ung2Y2J2ME00SmhCRnRKaFVFUjN3WEM0b1NZNV9leWgxdzJtUkhjck95V0pDRHBudHBhdnkzejA0NW9mdFB6SW9sdXo5b2JnX2F3emtpX3JsRzVPbnlxVEF5c3k0MzdmRU1KS25PUVhoVnhNZjNBVndBdkdMaUVYOXM4QzRhbjlqOWRrdU1EVmYtRTZKOGNqdkJDUlhNeGVnQ2FPMF9rWEpZZHJzTGY5YklHYVIybFFPclJJNGFxOERfbmo0S2xBMXJZN2pEdGNVaUJjcGtHZ3duelFnTGFncG8tS1dIYTlEYUNWMXlVTDZXZF9sbGprVjN0SlNjMHJkaFh4TU9URFZ3blJPYVpkY1N6ZmtndEM3cXdCazRHY3VZU2pzQUt3TUNmRDFudUZyMzhMcE1uSnRjRTJKd3JqVEVkQWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-03 17:23:56"
+        },
+        {
           "title": "虎科大AI新秀計畫開訓劉建國爭取無人機產業新創園區轉型雲林| 鏡週刊 - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yN0dtbnlXc1JEU2VIeTFPNHU5cXpKcmNTRmVkdjRGSHRscF9GazNFYzh3ODZsWmtYbVRPTy1iUE9UR09mZkVxWEVkaGd4ZmJEMGN4RXZtNmNqSFFSNlZJb0hKeGVUWk94T0t2dkYtYWNRaHM0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-03 15:48:37"
@@ -1165,17 +1193,17 @@
           "title": "劉建國拋「縣民政治對決家族政治」 直攻張家接班布局 - 放言Fount Media",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEMGZ2OEozSkREWkhPNEhjLVVYZ0FaSUN1Z3E2eVh0aUlnQW9OXzVpNlBYcGxKOTFHczg3enRHNWlUNThzbjB1bDJ0UW1XbVpmc1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-31 12:30:06"
-        },
-        {
-          "title": "雲林人口跌破65萬、幸福城市評比吊車尾 劉建國批張麗善執政8年失速 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOenVvSG8tdUNzaXU4b19CcG43VjI4TDF2N0V0TmtKdHlCUHYtMjJGYTh1MDhSa0x6Y21EV1ROY01sWmJ1eW95UUpIUHd6cVpDTzAxTGQ0UEo1QmRDMkxfdmhpenVSOUp5T1lSVmh0T2JDWU9oZ0h0TVkxSVB6UDhLeFhaTS1uT3plZGVIM0c3TkNKRnJkdjJqRnQ1dHViWVhBVmZWUDZsS0N0SXhWeEtiQWRLQ3BBT01TSmJGNTI1WXlqSDhScUx3QW1fUG14elIzbjFqRl92LXRieU9tUU9COGx3WHl0aFRlNzYteVgtbkFTM0pjR1FBOWptam1lNmJSeHpwZlYtSkxWZmt5TnItZGlLODlfWnVGQm9Ma1laR3gwaUFxVndFT3VGUFB6QnFPWWNmYTBBWUhQb1NELUVyY0ZoVW1xWno3dzZkRGlWRFBIODZ5RXBEcFAyQ0dxcVc5VjRpS3diVGRzd2NkSDZzek5qQ2ZKX2lnMGswSW4tdnBHUGhsU0Q4ck1Kc0NtM1gwVzEweEI0ODM2QldjeTBtcjY3UFh0X1Z0M0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-31 12:27:52"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "虎科大AI新秀計畫開訓 劉建國提出打造無人機產業新創園區 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOWHBqNy05Y3ZIOXNER3loZWlGOFkzRTgxb1JVNkFLQlRVVjE0UXJVOTZjZi1fMzkyVWRPSWl2YmNYOUdORjR2Ung2Y2J2ME00SmhCRnRKaFVFUjN3WEM0b1NZNV9leWgxdzJtUkhjck95V0pDRHBudHBhdnkzejA0NW9mdFB6SW9sdXo5b2JnX2F3emtpX3JsRzVPbnlxVEF5c3k0MzdmRU1KS25PUVhoVnhNZjNBVndBdkdMaUVYOXM4QzRhbjlqOWRrdU1EVmYtRTZKOGNqdkJDUlhNeGVnQ2FPMF9rWEpZZHJzTGY5YklHYVIybFFPclJJNGFxOERfbmo0S2xBMXJZN2pEdGNVaUJjcGtHZ3duelFnTGFncG8tS1dIYTlEYUNWMXlVTDZXZF9sbGprVjN0SlNjMHJkaFh4TU9URFZ3blJPYVpkY1N6ZmtndEM3cXdCazRHY3VZU2pzQUt3TUNmRDFudUZyMzhMcE1uSnRjRTJKd3JqVEVkQWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-03 17:23:56"
+      },
       {
         "title": "虎科大AI新秀計畫開訓劉建國爭取無人機產業新創園區轉型雲林| 鏡週刊 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yN0dtbnlXc1JEU2VIeTFPNHU5cXpKcmNTRmVkdjRGSHRscF9GazNFYzh3ODZsWmtYbVRPTy1iUE9UR09mZkVxWEVkaGd4ZmJEMGN4RXZtNmNqSFFSNlZJb0hKeGVUWk94T0t2dkYtYWNRaHM0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1222,6 +1250,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "虎科大AI新秀計畫開訓 劉建國提出打造無人機產業新創園區 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOWHBqNy05Y3ZIOXNER3loZWlGOFkzRTgxb1JVNkFLQlRVVjE0UXJVOTZjZi1fMzkyVWRPSWl2YmNYOUdORjR2Ung2Y2J2ME00SmhCRnRKaFVFUjN3WEM0b1NZNV9leWgxdzJtUkhjck95V0pDRHBudHBhdnkzejA0NW9mdFB6SW9sdXo5b2JnX2F3emtpX3JsRzVPbnlxVEF5c3k0MzdmRU1KS25PUVhoVnhNZjNBVndBdkdMaUVYOXM4QzRhbjlqOWRrdU1EVmYtRTZKOGNqdkJDUlhNeGVnQ2FPMF9rWEpZZHJzTGY5YklHYVIybFFPclJJNGFxOERfbmo0S2xBMXJZN2pEdGNVaUJjcGtHZ3duelFnTGFncG8tS1dIYTlEYUNWMXlVTDZXZF9sbGprVjN0SlNjMHJkaFh4TU9URFZ3blJPYVpkY1N6ZmtndEM3cXdCazRHY3VZU2pzQUt3TUNmRDFudUZyMzhMcE1uSnRjRTJKd3JqVEVkQWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-03 17:23:56"
+      },
       {
         "title": "虎科大AI新秀計畫開訓劉建國爭取無人機產業新創園區轉型雲林| 鏡週刊 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yN0dtbnlXc1JEU2VIeTFPNHU5cXpKcmNTRmVkdjRGSHRscF9GazNFYzh3ODZsWmtYbVRPTy1iUE9UR09mZkVxWEVkaGd4ZmJEMGN4RXZtNmNqSFFSNlZJb0hKeGVUWk94T0t2dkYtYWNRaHM0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1416,11 +1449,6 @@
         "title": "129億台大雲林虎尾院區拚醫學中心 劉建國：縮短急重症黃金救治時間 - fountmedia.io",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Vd3NaU1lTeVNTRTZOTTl2aE9seG9ranlIUFF4NWVvMGNZM19TUnRER2NCZG9TallCVUNDWmpxbmZKV1l2OE5iSHoxY21XTDJRaVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-31 12:35:07"
-      },
-      {
-        "title": "劉建國拋「縣民政治對決家族政治」 直攻張家接班布局 - 放言Fount Media",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEMGZ2OEozSkREWkhPNEhjLVVYZ0FaSUN1Z3E2eVh0aUlnQW9OXzVpNlBYcGxKOTFHczg3enRHNWlUNThzbjB1bDJ0UW1XbVpmc1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-31 12:30:06"
       }
     ],
     "facebook": [
@@ -1577,6 +1605,13 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "虎科大AI新秀計畫開訓 劉建國提出打造無人機產業新創園區 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOWHBqNy05Y3ZIOXNER3loZWlGOFkzRTgxb1JVNkFLQlRVVjE0UXJVOTZjZi1fMzkyVWRPSWl2YmNYOUdORjR2Ung2Y2J2ME00SmhCRnRKaFVFUjN3WEM0b1NZNV9leWgxdzJtUkhjck95V0pDRHBudHBhdnkzejA0NW9mdFB6SW9sdXo5b2JnX2F3emtpX3JsRzVPbnlxVEF5c3k0MzdmRU1KS25PUVhoVnhNZjNBVndBdkdMaUVYOXM4QzRhbjlqOWRrdU1EVmYtRTZKOGNqdkJDUlhNeGVnQ2FPMF9rWEpZZHJzTGY5YklHYVIybFFPclJJNGFxOERfbmo0S2xBMXJZN2pEdGNVaUJjcGtHZ3duelFnTGFncG8tS1dIYTlEYUNWMXlVTDZXZF9sbGprVjN0SlNjMHJkaFh4TU9URFZ3blJPYVpkY1N6ZmtndEM3cXdCazRHY3VZU2pzQUt3TUNmRDFudUZyMzhMcE1uSnRjRTJKd3JqVEVkQWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-03 17:23:56",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "虎科大AI新秀計畫開訓劉建國爭取無人機產業新創園區轉型雲林| 鏡週刊 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yN0dtbnlXc1JEU2VIeTFPNHU5cXpKcmNTRmVkdjRGSHRscF9GazNFYzh3ODZsWmtYbVRPTy1iUE9UR09mZkVxWEVkaGd4ZmJEMGN4RXZtNmNqSFFSNlZJb0hKeGVUWk94T0t2dkYtYWNRaHM0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
