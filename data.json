@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-08-05T15:29:29.172067+00:00",
+  "generated_at": "2026-08-05T15:45:25.712519+00:00",
   "metrics": {
-    "total_24h": 12,
+    "total_24h": 14,
     "prev_24h": 4,
-    "growth_pct": 200.0,
-    "news_24h": 9,
+    "growth_pct": 250.0,
+    "news_24h": 11,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 118,
+    "total": 120,
     "prev": 153,
-    "growth_pct": -22.88,
-    "news": 94,
+    "growth_pct": -21.57,
+    "news": 96,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 9
+      "count": 11
     },
     {
       "platform": "facebook",
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 94
+      "count": 96
     },
     {
       "platform": "facebook",
@@ -68,11 +68,15 @@
     },
     {
       "hour": "2026-08-05 18:00",
-      "count": 4
+      "count": 5
     },
     {
       "hour": "2026-08-05 19:00",
       "count": 3
+    },
+    {
+      "hour": "2026-08-05 22:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -262,17 +266,21 @@
     },
     {
       "hour": "2026-08-05 18:00",
-      "count": 4
+      "count": 5
     },
     {
       "hour": "2026-08-05 19:00",
       "count": 3
+    },
+    {
+      "hour": "2026-08-05 22:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 9
+      "count": 11
     },
     {
       "platform": "facebook",
@@ -281,6 +289,11 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "杜絕洗產地疑慮　張嘉郡堅持農產原料「標示原產國」入法 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00a2pVaW1jalcwZW9oeWpXNmNjbTBocE5WV054MkVTa2VvbXp6LTJvd1JHWm84N3UyUVFZYjNBXzhKOHlVU281SEwtMDkwaGtFTlhhc09rNE5JejdtMkp4dlYtaFVPd9IBa0FVX3lxTFAyclZuV3RMZjhNLUViMndPNnBJOTdDVUlIQjFON2tseU5UZ25pOHhKLTNpMXhCdkpXbXYwSXRFMDRrbU1pSG1ELVh6TjdTc05KaFk0OTBHV25RdHJRcGdteUZXNlR0NVNTMk53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-05 22:45:00"
+      },
       {
         "title": "避免洗產地疑慮 張嘉郡提案修食安法：農產原料標示原產國需入法 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1azMyYTdfSThubnYwRTRLTXlEa2RRREtwUnM1ZTRFd3J3MjVTR05WZllfWVpqMWZhaVo5QmhiR2o2UzA3LUs4V3ZjeWh4Q2ow0gFWQVVfeXFMT1NYZ0lfUERLdGFQa3cyc2xvRUlSekxMalZ6ZVVueVNrbDVuc19UNzUyb0ltS2ZxMmI0MmNsbklvUndSMUZlTzRkY0RaRHBRRERWa1BfUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -312,6 +325,11 @@
         "time": "2026-08-05 18:02:14"
       },
       {
+        "title": "嚴防進口農產品洗產地 張嘉郡堅持「標示原產國」入《食安法》 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQdEN1M3pfbTh3cER5TVpnQjctcWw0ZEFvOURNNUhWTVd2Z2JKMDNFdUs2blFueHNQT2NQTG5YV1Y4d05VenA0TjJ1N1VmQkxJc3JnaE9ZZzZZbkpuRGExSFYzZkpObVdCdFU0dFoxV283WFVQZUVFVDZUc3pWRVM3RDkwd3hPTnUxTWk2dC1mNXZlS25YbDNBYXhubUkwSWM4Y2VncGNhMzdjbUhTWk5IRlRqcGppa0p3TTV2X0NJMG1SVFRac2pTVTFYMmtMZnBpRkFhNXJaTzJ5NDVsdk1IZF81bFJ0Ry1tVHVJcndJS1JfSGhOQ09xb1k1LTBlaDBNb2VuWFJIMHVaMnN0NjZtWXlGM1BhSWZQYURkbHNUaWdIYUw2a1NyUXBKcWRtLUhva29sdkdyNWV4anQ0ZFI0RDZyaVVrMWc2ZkQyZ0dDcXJKTU9VWlQ4dEtMa2JhdEZDQ3lfV1YyVGtBREZMaEVEMXpQcVl3ajd5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-05 18:02:14"
+      },
+      {
         "title": "避免洗產地疑慮 張嘉郡堅持農產原料標示原產國需入法 | 夏和宣 | 地方新聞 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4VVZ5MFRWU2pWT18xVGFQOWNxZ1N4WVJhME5tTGt1QXpGbzRWWnZYY09reklkOThnbkVweEM0U0RoR0VYMl9LenFsOHotQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-05 18:01:41"
@@ -338,7 +356,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 9
+      "count": 11
     },
     {
       "platform": "facebook",
@@ -347,6 +365,11 @@
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "杜絕洗產地疑慮　張嘉郡堅持農產原料「標示原產國」入法 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00a2pVaW1jalcwZW9oeWpXNmNjbTBocE5WV054MkVTa2VvbXp6LTJvd1JHWm84N3UyUVFZYjNBXzhKOHlVU281SEwtMDkwaGtFTlhhc09rNE5JejdtMkp4dlYtaFVPd9IBa0FVX3lxTFAyclZuV3RMZjhNLUViMndPNnBJOTdDVUlIQjFON2tseU5UZ25pOHhKLTNpMXhCdkpXbXYwSXRFMDRrbU1pSG1ELVh6TjdTc05KaFk0OTBHV25RdHJRcGdteUZXNlR0NVNTMk53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-05 22:45:00"
+      },
       {
         "title": "避免洗產地疑慮 張嘉郡提案修食安法：農產原料標示原產國需入法 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1azMyYTdfSThubnYwRTRLTXlEa2RRREtwUnM1ZTRFd3J3MjVTR05WZllfWVpqMWZhaVo5QmhiR2o2UzA3LUs4V3ZjeWh4Q2ow0gFWQVVfeXFMT1NYZ0lfUERLdGFQa3cyc2xvRUlSekxMalZ6ZVVueVNrbDVuc19UNzUyb0ltS2ZxMmI0MmNsbklvUndSMUZlTzRkY0RaRHBRRERWa1BfUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -375,6 +398,11 @@
       {
         "title": "嚴防進口農產品洗產地 張嘉郡堅持「標示原產國」入《食安法》 - 匯流新聞網",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqeVVUc2NBaU1DU0xhT05uYjJIU25GQTBSVUNSc2ZidnNQTVBLUXVOM1ZYMnloRUpVMTAtbk9LMWNwRjhzV2I3WDB3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-05 18:02:14"
+      },
+      {
+        "title": "嚴防進口農產品洗產地 張嘉郡堅持「標示原產國」入《食安法》 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQdEN1M3pfbTh3cER5TVpnQjctcWw0ZEFvOURNNUhWTVd2Z2JKMDNFdUs2blFueHNQT2NQTG5YV1Y4d05VenA0TjJ1N1VmQkxJc3JnaE9ZZzZZbkpuRGExSFYzZkpObVdCdFU0dFoxV283WFVQZUVFVDZUc3pWRVM3RDkwd3hPTnUxTWk2dC1mNXZlS25YbDNBYXhubUkwSWM4Y2VncGNhMzdjbUhTWk5IRlRqcGppa0p3TTV2X0NJMG1SVFRac2pTVTFYMmtMZnBpRkFhNXJaTzJ5NDVsdk1IZF81bFJ0Ry1tVHVJcndJS1JfSGhOQ09xb1k1LTBlaDBNb2VuWFJIMHVaMnN0NjZtWXlGM1BhSWZQYURkbHNUaWdIYUw2a1NyUXBKcWRtLUhva29sdkdyNWV4anQ0ZFI0RDZyaVVrMWc2ZkQyZ0dDcXJKTU9VWlQ4dEtMa2JhdEZDQ3lfV1YyVGtBREZMaEVEMXpQcVl3ajd5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-05 18:02:14"
       },
       {
@@ -407,14 +435,19 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 10,
+    "張嘉郡": 12,
     "劉建國": 0
   },
   "mention_compare_7d": {
-    "張嘉郡": 53,
+    "張嘉郡": 55,
     "劉建國": 55
   },
   "top_news": [
+    {
+      "title": "杜絕洗產地疑慮　張嘉郡堅持農產原料「標示原產國」入法 - 鏡週刊Mirror Media",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00a2pVaW1jalcwZW9oeWpXNmNjbTBocE5WV054MkVTa2VvbXp6LTJvd1JHWm84N3UyUVFZYjNBXzhKOHlVU281SEwtMDkwaGtFTlhhc09rNE5JejdtMkp4dlYtaFVPd9IBa0FVX3lxTFAyclZuV3RMZjhNLUViMndPNnBJOTdDVUlIQjFON2tseU5UZ25pOHhKLTNpMXhCdkpXbXYwSXRFMDRrbU1pSG1ELVh6TjdTc05KaFk0OTBHV25RdHJRcGdteUZXNlR0NVNTMk53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-05 22:45:00"
+    },
     {
       "title": "避免洗產地疑慮 張嘉郡提案修食安法：農產原料標示原產國需入法 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1azMyYTdfSThubnYwRTRLTXlEa2RRREtwUnM1ZTRFd3J3MjVTR05WZllfWVpqMWZhaVo5QmhiR2o2UzA3LUs4V3ZjeWh4Q2ow0gFWQVVfeXFMT1NYZ0lfUERLdGFQa3cyc2xvRUlSekxMalZ6ZVVueVNrbDVuc19UNzUyb0ltS2ZxMmI0MmNsbklvUndSMUZlTzRkY0RaRHBRRERWa1BfUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -446,6 +479,11 @@
       "time": "2026-08-05 18:02:14"
     },
     {
+      "title": "嚴防進口農產品洗產地 張嘉郡堅持「標示原產國」入《食安法》 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQdEN1M3pfbTh3cER5TVpnQjctcWw0ZEFvOURNNUhWTVd2Z2JKMDNFdUs2blFueHNQT2NQTG5YV1Y4d05VenA0TjJ1N1VmQkxJc3JnaE9ZZzZZbkpuRGExSFYzZkpObVdCdFU0dFoxV283WFVQZUVFVDZUc3pWRVM3RDkwd3hPTnUxTWk2dC1mNXZlS25YbDNBYXhubUkwSWM4Y2VncGNhMzdjbUhTWk5IRlRqcGppa0p3TTV2X0NJMG1SVFRac2pTVTFYMmtMZnBpRkFhNXJaTzJ5NDVsdk1IZF81bFJ0Ry1tVHVJcndJS1JfSGhOQ09xb1k1LTBlaDBNb2VuWFJIMHVaMnN0NjZtWXlGM1BhSWZQYURkbHNUaWdIYUw2a1NyUXBKcWRtLUhva29sdkdyNWV4anQ0ZFI0RDZyaVVrMWc2ZkQyZ0dDcXJKTU9VWlQ4dEtMa2JhdEZDQ3lfV1YyVGtBREZMaEVEMXpQcVl3ajd5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-05 18:02:14"
+    },
+    {
       "title": "避免洗產地疑慮 張嘉郡堅持農產原料標示原產國需入法 | 夏和宣 | 地方新聞 - 風傳媒",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4VVZ5MFRWU2pWT18xVGFQOWNxZ1N4WVJhME5tTGt1QXpGbzRWWnZYY09reklkOThnbkVweEM0U0RoR0VYMl9LenFsOHotQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-05 18:01:41"
@@ -462,6 +500,11 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "杜絕洗產地疑慮　張嘉郡堅持農產原料「標示原產國」入法 - 鏡週刊Mirror Media",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00a2pVaW1jalcwZW9oeWpXNmNjbTBocE5WV054MkVTa2VvbXp6LTJvd1JHWm84N3UyUVFZYjNBXzhKOHlVU281SEwtMDkwaGtFTlhhc09rNE5JejdtMkp4dlYtaFVPd9IBa0FVX3lxTFAyclZuV3RMZjhNLUViMndPNnBJOTdDVUlIQjFON2tseU5UZ25pOHhKLTNpMXhCdkpXbXYwSXRFMDRrbU1pSG1ELVh6TjdTc05KaFk0OTBHV25RdHJRcGdteUZXNlR0NVNTMk53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-05 22:45:00"
+    },
     {
       "title": "避免洗產地疑慮 張嘉郡提案修食安法：農產原料標示原產國需入法 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1azMyYTdfSThubnYwRTRLTXlEa2RRREtwUnM1ZTRFd3J3MjVTR05WZllfWVpqMWZhaVo5QmhiR2o2UzA3LUs4V3ZjeWh4Q2ow0gFWQVVfeXFMT1NYZ0lfUERLdGFQa3cyc2xvRUlSekxMalZ6ZVVueVNrbDVuc19UNzUyb0ltS2ZxMmI0MmNsbklvUndSMUZlTzRkY0RaRHBRRERWa1BfUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -490,6 +533,11 @@
     {
       "title": "嚴防進口農產品洗產地 張嘉郡堅持「標示原產國」入《食安法》 - 匯流新聞網",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqeVVUc2NBaU1DU0xhT05uYjJIU25GQTBSVUNSc2ZidnNQTVBLUXVOM1ZYMnloRUpVMTAtbk9LMWNwRjhzV2I3WDB3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-05 18:02:14"
+    },
+    {
+      "title": "嚴防進口農產品洗產地 張嘉郡堅持「標示原產國」入《食安法》 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQdEN1M3pfbTh3cER5TVpnQjctcWw0ZEFvOURNNUhWTVd2Z2JKMDNFdUs2blFueHNQT2NQTG5YV1Y4d05VenA0TjJ1N1VmQkxJc3JnaE9ZZzZZbkpuRGExSFYzZkpObVdCdFU0dFoxV283WFVQZUVFVDZUc3pWRVM3RDkwd3hPTnUxTWk2dC1mNXZlS25YbDNBYXhubUkwSWM4Y2VncGNhMzdjbUhTWk5IRlRqcGppa0p3TTV2X0NJMG1SVFRac2pTVTFYMmtMZnBpRkFhNXJaTzJ5NDVsdk1IZF81bFJ0Ry1tVHVJcndJS1JfSGhOQ09xb1k1LTBlaDBNb2VuWFJIMHVaMnN0NjZtWXlGM1BhSWZQYURkbHNUaWdIYUw2a1NyUXBKcWRtLUhva29sdkdyNWV4anQ0ZFI0RDZyaVVrMWc2ZkQyZ0dDcXJKTU9VWlQ4dEtMa2JhdEZDQ3lfV1YyVGtBREZMaEVEMXpQcVl3ajd5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-05 18:02:14"
     },
     {
@@ -551,16 +599,6 @@
       "title": "虎科大AI新秀計畫開訓 劉建國提出打造無人機產業新創園區 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOWHBqNy05Y3ZIOXNER3loZWlGOFkzRTgxb1JVNkFLQlRVVjE0UXJVOTZjZi1fMzkyVWRPSWl2YmNYOUdORjR2Ung2Y2J2ME00SmhCRnRKaFVFUjN3WEM0b1NZNV9leWgxdzJtUkhjck95V0pDRHBudHBhdnkzejA0NW9mdFB6SW9sdXo5b2JnX2F3emtpX3JsRzVPbnlxVEF5c3k0MzdmRU1KS25PUVhoVnhNZjNBVndBdkdMaUVYOXM4QzRhbjlqOWRrdU1EVmYtRTZKOGNqdkJDUlhNeGVnQ2FPMF9rWEpZZHJzTGY5YklHYVIybFFPclJJNGFxOERfbmo0S2xBMXJZN2pEdGNVaUJjcGtHZ3duelFnTGFncG8tS1dIYTlEYUNWMXlVTDZXZF9sbGprVjN0SlNjMHJkaFh4TU9URFZ3blJPYVpkY1N6ZmtndEM3cXdCazRHY3VZU2pzQUt3TUNmRDFudUZyMzhMcE1uSnRjRTJKd3JqVEVkQWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-03 17:23:56"
-    },
-    {
-      "title": "虎科大AI新秀計畫開訓 劉建國提出打造無人機產業新創園區 - PChome Online 股市",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcnU3ZjBqNGZtQVZQcF9XLTF6YlQ0RUpkdEh1S2pHZjZVejlnQXV4S1lONktSNU9GYXdERVlSSWpaZ0tnVEx5Z3NWTWt1cG9zem1hY1Jxcm94bU9VM1ZMR05wVkFKSWxCWUdEeFRqUkk1bFNnSnNpN1lwOFdvZWQxWGE5cw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-03 17:23:56"
-    },
-    {
-      "title": "虎科大AI新秀計畫開訓劉建國爭取無人機產業新創園區轉型雲林| 鏡週刊 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yN0dtbnlXc1JEU2VIeTFPNHU5cXpKcmNTRmVkdjRGSHRscF9GazNFYzh3ODZsWmtYbVRPTy1iUE9UR09mZkVxWEVkaGd4ZmJEMGN4RXZtNmNqSFFSNlZJb0hKeGVUWk94T0t2dkYtYWNRaHM0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-03 15:48:37"
     }
   ],
   "latest_facebook_20": [
@@ -667,6 +705,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "杜絕洗產地疑慮　張嘉郡堅持農產原料「標示原產國」入法 - 鏡週刊Mirror Media",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00a2pVaW1jalcwZW9oeWpXNmNjbTBocE5WV054MkVTa2VvbXp6LTJvd1JHWm84N3UyUVFZYjNBXzhKOHlVU281SEwtMDkwaGtFTlhhc09rNE5JejdtMkp4dlYtaFVPd9IBa0FVX3lxTFAyclZuV3RMZjhNLUViMndPNnBJOTdDVUlIQjFON2tseU5UZ25pOHhKLTNpMXhCdkpXbXYwSXRFMDRrbU1pSG1ELVh6TjdTc05KaFk0OTBHV25RdHJRcGdteUZXNlR0NVNTMk53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-05 22:45:00"
+    },
+    {
       "title": "避免洗產地疑慮 張嘉郡提案修食安法：農產原料標示原產國需入法 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1azMyYTdfSThubnYwRTRLTXlEa2RRREtwUnM1ZTRFd3J3MjVTR05WZllfWVpqMWZhaVo5QmhiR2o2UzA3LUs4V3ZjeWh4Q2ow0gFWQVVfeXFMT1NYZ0lfUERLdGFQa3cyc2xvRUlSekxMalZ6ZVVueVNrbDVuc19UNzUyb0ltS2ZxMmI0MmNsbklvUndSMUZlTzRkY0RaRHBRRERWa1BfUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-05 19:34:54"
@@ -694,6 +737,11 @@
     {
       "title": "嚴防進口農產品洗產地 張嘉郡堅持「標示原產國」入《食安法》 - 匯流新聞網",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqeVVUc2NBaU1DU0xhT05uYjJIU25GQTBSVUNSc2ZidnNQTVBLUXVOM1ZYMnloRUpVMTAtbk9LMWNwRjhzV2I3WDB3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-05 18:02:14"
+    },
+    {
+      "title": "嚴防進口農產品洗產地 張嘉郡堅持「標示原產國」入《食安法》 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQdEN1M3pfbTh3cER5TVpnQjctcWw0ZEFvOURNNUhWTVd2Z2JKMDNFdUs2blFueHNQT2NQTG5YV1Y4d05VenA0TjJ1N1VmQkxJc3JnaE9ZZzZZbkpuRGExSFYzZkpObVdCdFU0dFoxV283WFVQZUVFVDZUc3pWRVM3RDkwd3hPTnUxTWk2dC1mNXZlS25YbDNBYXhubUkwSWM4Y2VncGNhMzdjbUhTWk5IRlRqcGppa0p3TTV2X0NJMG1SVFRac2pTVTFYMmtMZnBpRkFhNXJaTzJ5NDVsdk1IZF81bFJ0Ry1tVHVJcndJS1JfSGhOQ09xb1k1LTBlaDBNb2VuWFJIMHVaMnN0NjZtWXlGM1BhSWZQYURkbHNUaWdIYUw2a1NyUXBKcWRtLUhva29sdkdyNWV4anQ0ZFI0RDZyaVVrMWc2ZkQyZ0dDcXJKTU9VWlQ4dEtMa2JhdEZDQ3lfV1YyVGtBREZMaEVEMXpQcVl3ajd5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-05 18:02:14"
     },
     {
@@ -755,16 +803,6 @@
       "title": "虎科大AI新秀計畫開訓 劉建國提出打造無人機產業新創園區 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOWHBqNy05Y3ZIOXNER3loZWlGOFkzRTgxb1JVNkFLQlRVVjE0UXJVOTZjZi1fMzkyVWRPSWl2YmNYOUdORjR2Ung2Y2J2ME00SmhCRnRKaFVFUjN3WEM0b1NZNV9leWgxdzJtUkhjck95V0pDRHBudHBhdnkzejA0NW9mdFB6SW9sdXo5b2JnX2F3emtpX3JsRzVPbnlxVEF5c3k0MzdmRU1KS25PUVhoVnhNZjNBVndBdkdMaUVYOXM4QzRhbjlqOWRrdU1EVmYtRTZKOGNqdkJDUlhNeGVnQ2FPMF9rWEpZZHJzTGY5YklHYVIybFFPclJJNGFxOERfbmo0S2xBMXJZN2pEdGNVaUJjcGtHZ3duelFnTGFncG8tS1dIYTlEYUNWMXlVTDZXZF9sbGprVjN0SlNjMHJkaFh4TU9URFZ3blJPYVpkY1N6ZmtndEM3cXdCazRHY3VZU2pzQUt3TUNmRDFudUZyMzhMcE1uSnRjRTJKd3JqVEVkQWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-03 17:23:56"
-    },
-    {
-      "title": "虎科大AI新秀計畫開訓 劉建國提出打造無人機產業新創園區 - PChome Online 股市",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcnU3ZjBqNGZtQVZQcF9XLTF6YlQ0RUpkdEh1S2pHZjZVejlnQXV4S1lONktSNU9GYXdERVlSSWpaZ0tnVEx5Z3NWTWt1cG9zem1hY1Jxcm94bU9VM1ZMR05wVkFKSWxCWUdEeFRqUkk1bFNnSnNpN1lwOFdvZWQxWGE5cw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-03 17:23:56"
-    },
-    {
-      "title": "虎科大AI新秀計畫開訓劉建國爭取無人機產業新創園區轉型雲林| 鏡週刊 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yN0dtbnlXc1JEU2VIeTFPNHU5cXpKcmNTRmVkdjRGSHRscF9GazNFYzh3ODZsWmtYbVRPTy1iUE9UR09mZkVxWEVkaGd4ZmJEMGN4RXZtNmNqSFFSNlZJb0hKeGVUWk94T0t2dkYtYWNRaHM0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-03 15:48:37"
     }
   ],
   "person_sections": {
@@ -873,6 +911,11 @@
       ],
       "news": [
         {
+          "title": "杜絕洗產地疑慮　張嘉郡堅持農產原料「標示原產國」入法 - 鏡週刊Mirror Media",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00a2pVaW1jalcwZW9oeWpXNmNjbTBocE5WV054MkVTa2VvbXp6LTJvd1JHWm84N3UyUVFZYjNBXzhKOHlVU281SEwtMDkwaGtFTlhhc09rNE5JejdtMkp4dlYtaFVPd9IBa0FVX3lxTFAyclZuV3RMZjhNLUViMndPNnBJOTdDVUlIQjFON2tseU5UZ25pOHhKLTNpMXhCdkpXbXYwSXRFMDRrbU1pSG1ELVh6TjdTc05KaFk0OTBHV25RdHJRcGdteUZXNlR0NVNTMk53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-05 22:45:00"
+        },
+        {
           "title": "避免洗產地疑慮 張嘉郡提案修食安法：農產原料標示原產國需入法 - UDN",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1azMyYTdfSThubnYwRTRLTXlEa2RRREtwUnM1ZTRFd3J3MjVTR05WZllfWVpqMWZhaVo5QmhiR2o2UzA3LUs4V3ZjeWh4Q2ow0gFWQVVfeXFMT1NYZ0lfUERLdGFQa3cyc2xvRUlSekxMalZ6ZVVueVNrbDVuc19UNzUyb0ltS2ZxMmI0MmNsbklvUndSMUZlTzRkY0RaRHBRRERWa1BfUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-05 19:34:54"
@@ -900,6 +943,11 @@
         {
           "title": "嚴防進口農產品洗產地 張嘉郡堅持「標示原產國」入《食安法》 - 匯流新聞網",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqeVVUc2NBaU1DU0xhT05uYjJIU25GQTBSVUNSc2ZidnNQTVBLUXVOM1ZYMnloRUpVMTAtbk9LMWNwRjhzV2I3WDB3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-05 18:02:14"
+        },
+        {
+          "title": "嚴防進口農產品洗產地 張嘉郡堅持「標示原產國」入《食安法》 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQdEN1M3pfbTh3cER5TVpnQjctcWw0ZEFvOURNNUhWTVd2Z2JKMDNFdUs2blFueHNQT2NQTG5YV1Y4d05VenA0TjJ1N1VmQkxJc3JnaE9ZZzZZbkpuRGExSFYzZkpObVdCdFU0dFoxV283WFVQZUVFVDZUc3pWRVM3RDkwd3hPTnUxTWk2dC1mNXZlS25YbDNBYXhubUkwSWM4Y2VncGNhMzdjbUhTWk5IRlRqcGppa0p3TTV2X0NJMG1SVFRac2pTVTFYMmtMZnBpRkFhNXJaTzJ5NDVsdk1IZF81bFJ0Ry1tVHVJcndJS1JfSGhOQ09xb1k1LTBlaDBNb2VuWFJIMHVaMnN0NjZtWXlGM1BhSWZQYURkbHNUaWdIYUw2a1NyUXBKcWRtLUhva29sdkdyNWV4anQ0ZFI0RDZyaVVrMWc2ZkQyZ0dDcXJKTU9VWlQ4dEtMa2JhdEZDQ3lfV1YyVGtBREZMaEVEMXpQcVl3ajd5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-05 18:02:14"
         },
         {
@@ -960,16 +1008,6 @@
         {
           "title": "拋智慧城市白皮書 張嘉郡：讓雲林成全台AI智慧城市新典範| 政治焦點 - 太報 TaiSounds",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiVFRlZndkX0lJZlVQTlNBMkZPbFZDaWhsRzBXRG96ZWlMMUpNMjdkbXNhMy1FMWxGdEJ6czZhS3lkbnoyemlvSlVTV3dBTEctSkRYVkIycmZZdk1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-31 22:40:56"
-        },
-        {
-          "title": "拋智慧城市白皮書 張嘉郡：讓雲林成全台AI智慧城市新典範| 政治 - 太報 TaiSounds",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGZ2ZmTDY3NGljaloyT2RzM2xqN21Qb1g1cWxkMUlYZUEwWklpUV9QUFJkQmZBcmdfZ1RMTS0wMDJJTTlpaGd2TnBoc1lkOTVUOWJONVplTm1EM2N0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-31 22:40:56"
-        },
-        {
-          "title": "拋智慧城市白皮書 張嘉郡：讓雲林成全台AI智慧城市新典範 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPOURwc2UxLVBqaTg1dXREN212cTZvQWI5VEVGNlR5dWNxV2ZNNXBvMXR2ckZ6RWZtSXBxQXhCbVJDUldvbFFCalVyV0tXVXBvOHBMbW1vV0E5eF9ZUDU3RktmSWhtUHBnYmh1OWNJUkZIZmJlWWRNNmxadlFOeThIUnQ1T1NqQUh3UE1qODBCdDFEY1Npc1dJcXFWRktaZmZuX1ppMk9FOHJHWFFBRkVWeEpOblQwTFNvTmg3S01uS1lRRWZKNEs0TEhyUVpwUG12NkRnNGszUjdvSk0tVWdqQ1lKY3ZXRkw2TjhIMWg3cDZyWS14YU1EV1NXeVYxNzdHUTBMSHFCdXE4cEs3RnJvcHpYRHV4dzJWc3BCNlR1ZGhRQVh3NTVpVVhKM094U2pWWUtrVjZxREJQNE5Dc0hxTHJsODlGdkFxdnF0WlhCYlJ5QjNJWU5tWjVLbkMyWVJTWElHX0hTbzdqbUVQZWlfQzZSVkRpRS1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-31 22:40:56"
         }
       ]
@@ -1184,6 +1222,11 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "杜絕洗產地疑慮　張嘉郡堅持農產原料「標示原產國」入法 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00a2pVaW1jalcwZW9oeWpXNmNjbTBocE5WV054MkVTa2VvbXp6LTJvd1JHWm84N3UyUVFZYjNBXzhKOHlVU281SEwtMDkwaGtFTlhhc09rNE5JejdtMkp4dlYtaFVPd9IBa0FVX3lxTFAyclZuV3RMZjhNLUViMndPNnBJOTdDVUlIQjFON2tseU5UZ25pOHhKLTNpMXhCdkpXbXYwSXRFMDRrbU1pSG1ELVh6TjdTc05KaFk0OTBHV25RdHJRcGdteUZXNlR0NVNTMk53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-05 22:45:00"
+      },
+      {
         "title": "避免洗產地疑慮 張嘉郡提案修食安法：農產原料標示原產國需入法 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1azMyYTdfSThubnYwRTRLTXlEa2RRREtwUnM1ZTRFd3J3MjVTR05WZllfWVpqMWZhaVo5QmhiR2o2UzA3LUs4V3ZjeWh4Q2ow0gFWQVVfeXFMT1NYZ0lfUERLdGFQa3cyc2xvRUlSekxMalZ6ZVVueVNrbDVuc19UNzUyb0ltS2ZxMmI0MmNsbklvUndSMUZlTzRkY0RaRHBRRERWa1BfUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-05 19:34:54"
@@ -1211,6 +1254,11 @@
       {
         "title": "嚴防進口農產品洗產地 張嘉郡堅持「標示原產國」入《食安法》 - 匯流新聞網",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqeVVUc2NBaU1DU0xhT05uYjJIU25GQTBSVUNSc2ZidnNQTVBLUXVOM1ZYMnloRUpVMTAtbk9LMWNwRjhzV2I3WDB3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-05 18:02:14"
+      },
+      {
+        "title": "嚴防進口農產品洗產地 張嘉郡堅持「標示原產國」入《食安法》 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQdEN1M3pfbTh3cER5TVpnQjctcWw0ZEFvOURNNUhWTVd2Z2JKMDNFdUs2blFueHNQT2NQTG5YV1Y4d05VenA0TjJ1N1VmQkxJc3JnaE9ZZzZZbkpuRGExSFYzZkpObVdCdFU0dFoxV283WFVQZUVFVDZUc3pWRVM3RDkwd3hPTnUxTWk2dC1mNXZlS25YbDNBYXhubUkwSWM4Y2VncGNhMzdjbUhTWk5IRlRqcGppa0p3TTV2X0NJMG1SVFRac2pTVTFYMmtMZnBpRkFhNXJaTzJ5NDVsdk1IZF81bFJ0Ry1tVHVJcndJS1JfSGhOQ09xb1k1LTBlaDBNb2VuWFJIMHVaMnN0NjZtWXlGM1BhSWZQYURkbHNUaWdIYUw2a1NyUXBKcWRtLUhva29sdkdyNWV4anQ0ZFI0RDZyaVVrMWc2ZkQyZ0dDcXJKTU9VWlQ4dEtMa2JhdEZDQ3lfV1YyVGtBREZMaEVEMXpQcVl3ajd5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-05 18:02:14"
       },
       {
@@ -1252,6 +1300,11 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "杜絕洗產地疑慮　張嘉郡堅持農產原料「標示原產國」入法 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00a2pVaW1jalcwZW9oeWpXNmNjbTBocE5WV054MkVTa2VvbXp6LTJvd1JHWm84N3UyUVFZYjNBXzhKOHlVU281SEwtMDkwaGtFTlhhc09rNE5JejdtMkp4dlYtaFVPd9IBa0FVX3lxTFAyclZuV3RMZjhNLUViMndPNnBJOTdDVUlIQjFON2tseU5UZ25pOHhKLTNpMXhCdkpXbXYwSXRFMDRrbU1pSG1ELVh6TjdTc05KaFk0OTBHV25RdHJRcGdteUZXNlR0NVNTMk53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-05 22:45:00"
+      },
+      {
         "title": "避免洗產地疑慮 張嘉郡提案修食安法：農產原料標示原產國需入法 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1azMyYTdfSThubnYwRTRLTXlEa2RRREtwUnM1ZTRFd3J3MjVTR05WZllfWVpqMWZhaVo5QmhiR2o2UzA3LUs4V3ZjeWh4Q2ow0gFWQVVfeXFMT1NYZ0lfUERLdGFQa3cyc2xvRUlSekxMalZ6ZVVueVNrbDVuc19UNzUyb0ltS2ZxMmI0MmNsbklvUndSMUZlTzRkY0RaRHBRRERWa1BfUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-05 19:34:54"
@@ -1279,6 +1332,11 @@
       {
         "title": "嚴防進口農產品洗產地 張嘉郡堅持「標示原產國」入《食安法》 - 匯流新聞網",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqeVVUc2NBaU1DU0xhT05uYjJIU25GQTBSVUNSc2ZidnNQTVBLUXVOM1ZYMnloRUpVMTAtbk9LMWNwRjhzV2I3WDB3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-05 18:02:14"
+      },
+      {
+        "title": "嚴防進口農產品洗產地 張嘉郡堅持「標示原產國」入《食安法》 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQdEN1M3pfbTh3cER5TVpnQjctcWw0ZEFvOURNNUhWTVd2Z2JKMDNFdUs2blFueHNQT2NQTG5YV1Y4d05VenA0TjJ1N1VmQkxJc3JnaE9ZZzZZbkpuRGExSFYzZkpObVdCdFU0dFoxV283WFVQZUVFVDZUc3pWRVM3RDkwd3hPTnUxTWk2dC1mNXZlS25YbDNBYXhubUkwSWM4Y2VncGNhMzdjbUhTWk5IRlRqcGppa0p3TTV2X0NJMG1SVFRac2pTVTFYMmtMZnBpRkFhNXJaTzJ5NDVsdk1IZF81bFJ0Ry1tVHVJcndJS1JfSGhOQ09xb1k1LTBlaDBNb2VuWFJIMHVaMnN0NjZtWXlGM1BhSWZQYURkbHNUaWdIYUw2a1NyUXBKcWRtLUhva29sdkdyNWV4anQ0ZFI0RDZyaVVrMWc2ZkQyZ0dDcXJKTU9VWlQ4dEtMa2JhdEZDQ3lfV1YyVGtBREZMaEVEMXpQcVl3ajd5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-05 18:02:14"
       },
       {
@@ -1440,16 +1498,6 @@
         "title": "拋智慧城市白皮書 張嘉郡：讓雲林成全台AI智慧城市新典範 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPOURwc2UxLVBqaTg1dXREN212cTZvQWI5VEVGNlR5dWNxV2ZNNXBvMXR2ckZ6RWZtSXBxQXhCbVJDUldvbFFCalVyV0tXVXBvOHBMbW1vV0E5eF9ZUDU3RktmSWhtUHBnYmh1OWNJUkZIZmJlWWRNNmxadlFOeThIUnQ1T1NqQUh3UE1qODBCdDFEY1Npc1dJcXFWRktaZmZuX1ppMk9FOHJHWFFBRkVWeEpOblQwTFNvTmg3S01uS1lRRWZKNEs0TEhyUVpwUG12NkRnNGszUjdvSk0tVWdqQ1lKY3ZXRkw2TjhIMWg3cDZyWS14YU1EV1NXeVYxNzdHUTBMSHFCdXE4cEs3RnJvcHpYRHV4dzJWc3BCNlR1ZGhRQVh3NTVpVVhKM094U2pWWUtrVjZxREJQNE5Dc0hxTHJsODlGdkFxdnF0WlhCYlJ5QjNJWU5tWjVLbkMyWVJTWElHX0hTbzdqbUVQZWlfQzZSVkRpRS1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-31 22:40:56"
-      },
-      {
-        "title": "建設從治水到醫療　蔡英文同框劉建國：讓雲林不只適合打拚，也適合生活 - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zQnYxWll2LXcweERJaWRPbkhJME9DM0VUZlJ4MnR5NmN3N3A5N3VqTHJLR21ZV3ZLQmMzQmtNUkVBNUtDRGhnZNIBTEFVX3lxTFBjZlZtMThJTGVQZWJ0cVVDdC1nQ1p5SkxJTm1LODBCaVJYeGVlaS1zRDNydFJRUUlpcWpUWmdmamFEdVBIRWNpaTRXNGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-31 22:39:00"
-      },
-      {
-        "title": "建設從治水到醫療　蔡英文同框劉建國：讓雲林不只適合打拚，也適合生活 - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjZlZtMThJTGVQZWJ0cVVDdC1nQ1p5SkxJTm1LODBCaVJYeGVlaS1zRDNydFJRUUlpcWpUWmdmamFEdVBIRWNpaTRXNGfSAUxBVV95cUxQY2ZWbTE4SUxlUGVidHFVQ3QtZ0NaeUpMSU5tSzgwQmlSWHhlZWktc0QzcnRSUVFJaXFqVFpnZmphRHVQSEVjaWk0VzRn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-31 22:39:00"
       }
     ],
     "facebook": [
@@ -1582,6 +1630,13 @@
     "hour": [],
     "day": [
       {
+        "title": "杜絕洗產地疑慮　張嘉郡堅持農產原料「標示原產國」入法 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00a2pVaW1jalcwZW9oeWpXNmNjbTBocE5WV054MkVTa2VvbXp6LTJvd1JHWm84N3UyUVFZYjNBXzhKOHlVU281SEwtMDkwaGtFTlhhc09rNE5JejdtMkp4dlYtaFVPd9IBa0FVX3lxTFAyclZuV3RMZjhNLUViMndPNnBJOTdDVUlIQjFON2tseU5UZ25pOHhKLTNpMXhCdkpXbXYwSXRFMDRrbU1pSG1ELVh6TjdTc05KaFk0OTBHV25RdHJRcGdteUZXNlR0NVNTMk53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-05 22:45:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "避免洗產地疑慮 張嘉郡提案修食安法：農產原料標示原產國需入法 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1azMyYTdfSThubnYwRTRLTXlEa2RRREtwUnM1ZTRFd3J3MjVTR05WZllfWVpqMWZhaVo5QmhiR2o2UzA3LUs4V3ZjeWh4Q2ow0gFWQVVfeXFMT1NYZ0lfUERLdGFQa3cyc2xvRUlSekxMalZ6ZVVueVNrbDVuc19UNzUyb0ltS2ZxMmI0MmNsbklvUndSMUZlTzRkY0RaRHBRRERWa1BfUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-05 19:34:54",
@@ -1619,6 +1674,13 @@
       {
         "title": "嚴防進口農產品洗產地 張嘉郡堅持「標示原產國」入《食安法》 - 匯流新聞網",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqeVVUc2NBaU1DU0xhT05uYjJIU25GQTBSVUNSc2ZidnNQTVBLUXVOM1ZYMnloRUpVMTAtbk9LMWNwRjhzV2I3WDB3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-05 18:02:14",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "嚴防進口農產品洗產地 張嘉郡堅持「標示原產國」入《食安法》 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQdEN1M3pfbTh3cER5TVpnQjctcWw0ZEFvOURNNUhWTVd2Z2JKMDNFdUs2blFueHNQT2NQTG5YV1Y4d05VenA0TjJ1N1VmQkxJc3JnaE9ZZzZZbkpuRGExSFYzZkpObVdCdFU0dFoxV283WFVQZUVFVDZUc3pWRVM3RDkwd3hPTnUxTWk2dC1mNXZlS25YbDNBYXhubUkwSWM4Y2VncGNhMzdjbUhTWk5IRlRqcGppa0p3TTV2X0NJMG1SVFRac2pTVTFYMmtMZnBpRkFhNXJaTzJ5NDVsdk1IZF81bFJ0Ry1tVHVJcndJS1JfSGhOQ09xb1k1LTBlaDBNb2VuWFJIMHVaMnN0NjZtWXlGM1BhSWZQYURkbHNUaWdIYUw2a1NyUXBKcWRtLUhva29sdkdyNWV4anQ0ZFI0RDZyaVVrMWc2ZkQyZ0dDcXJKTU9VWlQ4dEtMa2JhdEZDQ3lfV1YyVGtBREZMaEVEMXpQcVl3ajd5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-05 18:02:14",
         "platform": "news",
         "risk": "綠"
