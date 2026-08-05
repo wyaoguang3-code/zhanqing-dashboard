@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-08-05T09:59:14.671102+00:00",
+  "generated_at": "2026-08-05T10:15:01.328009+00:00",
   "metrics": {
-    "total_24h": 4,
+    "total_24h": 5,
     "prev_24h": 7,
-    "growth_pct": -42.86,
-    "news_24h": 1,
+    "growth_pct": -28.57,
+    "news_24h": 2,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -15,9 +15,9 @@
   },
   "metrics_7d": {
     "total": 117,
-    "prev": 151,
-    "growth_pct": -22.52,
-    "news": 86,
+    "prev": 152,
+    "growth_pct": -23.03,
+    "news": 87,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -32,17 +32,17 @@
     },
     {
       "platform": "news",
-      "count": 1
+      "count": 2
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 86
+      "count": 87
     },
     {
       "platform": "facebook",
-      "count": 20
+      "count": 19
     },
     {
       "platform": "youtube",
@@ -61,12 +61,16 @@
     {
       "hour": "2026-08-05 08:00",
       "count": 2
+    },
+    {
+      "hour": "2026-08-05 17:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
     {
       "hour": "2026-07-29 18:00",
-      "count": 8
+      "count": 7
     },
     {
       "hour": "2026-07-29 19:00",
@@ -247,19 +251,35 @@
     {
       "hour": "2026-08-05 08:00",
       "count": 2
+    },
+    {
+      "hour": "2026-08-05 17:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
-      "platform": "facebook",
+      "platform": "news",
       "count": 2
     },
     {
-      "platform": "news",
-      "count": 1
+      "platform": "facebook",
+      "count": 2
     }
   ],
   "mention_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "《食品衛生管理法》修法雲林立委張嘉郡主張避免洗產地疑慮堅持「投料重量」前三名農產原料「標示原產國」需入法！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xckRZS2xRMnJYNGYtVHcyMVotb3ZnMVZ5M0E3VFJ5a3V2dTI0VDJiZnhSLUVjb3NVUDNPVk9hQlFlRTkxbndaMHJrcGhtaHJMU3NvU0JLbTdHYm1VT1Jwclk2UDE4QUZabzNZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-05 17:59:18"
+      },
+      {
+        "title": "從一座醫院，到一座照顧人的城市 劉建國為雲林布局「健康治理」新路線 - 波新聞",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KVWVxaUtjSkZoMVF5N3pLRFVmWTlkaGkwUEZOVmZSWGN5Y19uelpjNHRRRGl2MkpkTVhLS194ZWZ1c1g5eFZmY0RNSmhsLTQ5djhUc0lJWjFTV2hWTDBZZHhLNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-04 21:55:00"
+      }
+    ],
     "facebook": [
       {
         "title": "張嘉郡 - facebook.com",
@@ -271,13 +291,6 @@
         "url": "https://news.google.com/rss/articles/CBMimghBVV95cUxPcXFXSmpvbUNuRTlLb0dDb2xiV2h2TzR5bWprajVRSmJKNDRhU1J0NDRzTGxEN0hTM1dyTXA1bjdhM1NUNlA3b1RRRFlVOVpvVGVMMW5hM2docTAySDRPT2Nnd0hiU2xlY0p2cTFJZGtiQjY2cUItVnpaMGl6MzZYSFc5RXFsY3pZUHU0eVQzOWtaSVllYXJGQXlfMFJ5R0ZrMTBiRmZVZjIteGZvZ2l1TnJQbU5TUXpGX0c3eTMwVTRqOEdzbzFLTVBlQ3lvekhSUEk1S3JIZm0zclhiemhLSlBmSG5XckRCM2NHaDlMTTVValdWOTJKUVBqN045N25HeEVDNlBTUEExQ2VNSkRPazE0WVRWYkhRUDZubnU1dlh1cFR4QU1FNWJBem5OcFlPR0VIZW82enFiaDFsMEpSSG9fNDAtVE9lVFV0R2Jodk1BRnJVV2p2SmpWUjdaWEZBSC11T0dRUDU4LXQwZ3FqOUJTTWhid1BINjd3V0pEUExpQnVoYlBtVlc2M0dTSkdLUUVvOHl5OWd3TWZya0tsbld1QXZhcTF1UWZsWDRWSlpodlpCNXNBcWRwVHV0Zm42czViek03VF9CaDg2RTBPdGJUN3ZSTlNVOGswcnFCM1VwSXp6NjE4MEhSd3ZCdVNaZlVXeVFtQUxKNDEtYUl4R3ZHdnBsVFUxZkQ1dy1aWTVRclNZYUxnVVZPeTVNeXhlZDdsOHoyYXFTNFRzdFFoVDJHZ1RFeGRuQVJOVmRBV3NkREVNdnVoM3ZmSUd4WWhvc2dXWHJDbEZJbFR2T3o2dkZ5SU56d2h3ZXU0OE5jX2MyWUNyTE9IaTEyVDJLYjRRM2RCNDFfMl9YSVRwRXloZTdfUldPRU1GNmxkbzMtTDNfNEI2ZkxRMmxDNlRhbkN3Zm1pSWJSZGxnR1JQYVJiemR2R2NWcXVtUUtEaTRVZ1ItUU5DdmhhSnl1VTRCVE1QZjNTWVcwc3ZqVmUwTm5ha3ZNbkJjejl2bnBzOHZ4ajBzZHNEcFBwQnJrc3J4VTBmRThqYWZxRXl1dXdSOGlLSGRuaVI1a1drMmp1WEloZjhBQXp4TTBIb0hmOWpiR1BvTEhjRnlfRjNzT2M3OHQyajVRZlBaTy1LZDZ6eGN1bmFwb2JsLXd0M05MUWZGZlpqZGZuTjk1VTBfUHk4YWNETV93OGQwemhpdE4yeGVON3Y2dzhoVEt4bVYtaFZXQzk2a0kwSG85SmhTeEp3d1BNMmRkd19kYUlVaXZZUzdrOXg1anJwN0hkR3N2dTZpNjVsOTNERVlMYXo0Z090SmR3dGUtcXVIclhhTWFvWjBxZHJmLU82Mk9yTG8zeENaZ2J3eE9vbk14UXpDZjBEeUl2MnpQVldQOUdfQVE",
         "time": "2026-08-04 20:35:47"
       }
-    ],
-    "news": [
-      {
-        "title": "從一座醫院，到一座照顧人的城市 劉建國為雲林布局「健康治理」新路線 - 波新聞",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KVWVxaUtjSkZoMVF5N3pLRFVmWTlkaGkwUEZOVmZSWGN5Y19uelpjNHRRRGl2MkpkTVhLS194ZWZ1c1g5eFZmY0RNSmhsLTQ5djhUc0lJWjFTV2hWTDBZZHhLNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-04 21:55:00"
-      }
     ]
   },
   "alias_by_platform_24h": [
@@ -287,10 +300,22 @@
     },
     {
       "platform": "news",
-      "count": 1
+      "count": 2
     }
   ],
   "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "《食品衛生管理法》修法雲林立委張嘉郡主張避免洗產地疑慮堅持「投料重量」前三名農產原料「標示原產國」需入法！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xckRZS2xRMnJYNGYtVHcyMVotb3ZnMVZ5M0E3VFJ5a3V2dTI0VDJiZnhSLUVjb3NVUDNPVk9hQlFlRTkxbndaMHJrcGhtaHJMU3NvU0JLbTdHYm1VT1Jwclk2UDE4QUZabzNZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-05 17:59:18"
+      },
+      {
+        "title": "從一座醫院，到一座照顧人的城市 劉建國為雲林布局「健康治理」新路線 - 波新聞",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KVWVxaUtjSkZoMVF5N3pLRFVmWTlkaGkwUEZOVmZSWGN5Y19uelpjNHRRRGl2MkpkTVhLS194ZWZ1c1g5eFZmY0RNSmhsLTQ5djhUc0lJWjFTV2hWTDBZZHhLNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-04 21:55:00"
+      }
+    ],
     "facebook": [
       {
         "title": "#陪孩子一起勇敢成長🐰✨ #海波劇場帶來親子歡樂時光🎭 走進 #海波劇場《#勇兔茹比與黃金蘿蔔》，看到許多爸爸媽媽帶著孩子一起欣賞兒童劇，在故事與歡笑中享受親子共度的美好時光。 嘉郡也特別變身成可愛兔子，和現場的小朋友互動，看見孩子們開心的笑容，也讓 - facebook.com",
@@ -307,24 +332,22 @@
         "url": "https://news.google.com/rss/articles/CBMimghBVV95cUxPcXFXSmpvbUNuRTlLb0dDb2xiV2h2TzR5bWprajVRSmJKNDRhU1J0NDRzTGxEN0hTM1dyTXA1bjdhM1NUNlA3b1RRRFlVOVpvVGVMMW5hM2docTAySDRPT2Nnd0hiU2xlY0p2cTFJZGtiQjY2cUItVnpaMGl6MzZYSFc5RXFsY3pZUHU0eVQzOWtaSVllYXJGQXlfMFJ5R0ZrMTBiRmZVZjIteGZvZ2l1TnJQbU5TUXpGX0c3eTMwVTRqOEdzbzFLTVBlQ3lvekhSUEk1S3JIZm0zclhiemhLSlBmSG5XckRCM2NHaDlMTTVValdWOTJKUVBqN045N25HeEVDNlBTUEExQ2VNSkRPazE0WVRWYkhRUDZubnU1dlh1cFR4QU1FNWJBem5OcFlPR0VIZW82enFiaDFsMEpSSG9fNDAtVE9lVFV0R2Jodk1BRnJVV2p2SmpWUjdaWEZBSC11T0dRUDU4LXQwZ3FqOUJTTWhid1BINjd3V0pEUExpQnVoYlBtVlc2M0dTSkdLUUVvOHl5OWd3TWZya0tsbld1QXZhcTF1UWZsWDRWSlpodlpCNXNBcWRwVHV0Zm42czViek03VF9CaDg2RTBPdGJUN3ZSTlNVOGswcnFCM1VwSXp6NjE4MEhSd3ZCdVNaZlVXeVFtQUxKNDEtYUl4R3ZHdnBsVFUxZkQ1dy1aWTVRclNZYUxnVVZPeTVNeXhlZDdsOHoyYXFTNFRzdFFoVDJHZ1RFeGRuQVJOVmRBV3NkREVNdnVoM3ZmSUd4WWhvc2dXWHJDbEZJbFR2T3o2dkZ5SU56d2h3ZXU0OE5jX2MyWUNyTE9IaTEyVDJLYjRRM2RCNDFfMl9YSVRwRXloZTdfUldPRU1GNmxkbzMtTDNfNEI2ZkxRMmxDNlRhbkN3Zm1pSWJSZGxnR1JQYVJiemR2R2NWcXVtUUtEaTRVZ1ItUU5DdmhhSnl1VTRCVE1QZjNTWVcwc3ZqVmUwTm5ha3ZNbkJjejl2bnBzOHZ4ajBzZHNEcFBwQnJrc3J4VTBmRThqYWZxRXl1dXdSOGlLSGRuaVI1a1drMmp1WEloZjhBQXp4TTBIb0hmOWpiR1BvTEhjRnlfRjNzT2M3OHQyajVRZlBaTy1LZDZ6eGN1bmFwb2JsLXd0M05MUWZGZlpqZGZuTjk1VTBfUHk4YWNETV93OGQwemhpdE4yeGVON3Y2dzhoVEt4bVYtaFZXQzk2a0kwSG85SmhTeEp3d1BNMmRkd19kYUlVaXZZUzdrOXg1anJwN0hkR3N2dTZpNjVsOTNERVlMYXo0Z090SmR3dGUtcXVIclhhTWFvWjBxZHJmLU82Mk9yTG8zeENaZ2J3eE9vbk14UXpDZjBEeUl2MnpQVldQOUdfQVE",
         "time": "2026-08-04 20:35:47"
       }
-    ],
-    "news": [
-      {
-        "title": "從一座醫院，到一座照顧人的城市 劉建國為雲林布局「健康治理」新路線 - 波新聞",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KVWVxaUtjSkZoMVF5N3pLRFVmWTlkaGkwUEZOVmZSWGN5Y19uelpjNHRRRGl2MkpkTVhLS194ZWZ1c1g5eFZmY0RNSmhsLTQ5djhUc0lJWjFTV2hWTDBZZHhLNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-04 21:55:00"
-      }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 1,
+    "張嘉郡": 2,
     "劉建國": 2
   },
   "mention_compare_7d": {
-    "張嘉郡": 45,
-    "劉建國": 57
+    "張嘉郡": 46,
+    "劉建國": 56
   },
   "top_news": [
+    {
+      "title": "《食品衛生管理法》修法雲林立委張嘉郡主張避免洗產地疑慮堅持「投料重量」前三名農產原料「標示原產國」需入法！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xckRZS2xRMnJYNGYtVHcyMVotb3ZnMVZ5M0E3VFJ5a3V2dTI0VDJiZnhSLUVjb3NVUDNPVk9hQlFlRTkxbndaMHJrcGhtaHJMU3NvU0JLbTdHYm1VT1Jwclk2UDE4QUZabzNZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-05 17:59:18"
+    },
     {
       "title": "從一座醫院，到一座照顧人的城市 劉建國為雲林布局「健康治理」新路線 - 波新聞",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KVWVxaUtjSkZoMVF5N3pLRFVmWTlkaGkwUEZOVmZSWGN5Y19uelpjNHRRRGl2MkpkTVhLS194ZWZ1c1g5eFZmY0RNSmhsLTQ5djhUc0lJWjFTV2hWTDBZZHhLNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -332,6 +355,11 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "《食品衛生管理法》修法雲林立委張嘉郡主張避免洗產地疑慮堅持「投料重量」前三名農產原料「標示原產國」需入法！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xckRZS2xRMnJYNGYtVHcyMVotb3ZnMVZ5M0E3VFJ5a3V2dTI0VDJiZnhSLUVjb3NVUDNPVk9hQlFlRTkxbndaMHJrcGhtaHJMU3NvU0JLbTdHYm1VT1Jwclk2UDE4QUZabzNZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-05 17:59:18"
+    },
     {
       "title": "從一座醫院，到一座照顧人的城市 劉建國為雲林布局「健康治理」新路線 - 波新聞",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KVWVxaUtjSkZoMVF5N3pLRFVmWTlkaGkwUEZOVmZSWGN5Y19uelpjNHRRRGl2MkpkTVhLS194ZWZ1c1g5eFZmY0RNSmhsLTQ5djhUc0lJWjFTV2hWTDBZZHhLNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -426,11 +454,6 @@
       "title": "討論牆 | 張嘉郡提AI智慧雲林白皮書 10大計畫主打科技治理 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16TjZXYmY1c2pnUzhiNVMxUmJsWUM0ZF92QmhXN3Q2bzFzZjVveENrWmNmTkdadUEtaWppZHplTk5IQmZNSFFaVVpEai1KT3ZPYklVQUd2M2ZFNmFVTklXUDVHRFM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-03 03:06:00"
-    },
-    {
-      "title": "參選雲林首屆平地原住民議員呂佶娜於麥寮成立競選服務處縣長張麗善、議長黃凱及立委張嘉郡等人到場力挺氣氛熱絡！ - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjdkNRakZaZXN0NEE5YUl5aHhGa2RIa25CbzV0YUFlRWp2VjE0MmxPa25CcGx5VXRMZ3k5WUFJQXBUaWU1eTZ0dFM3eUhIdkNJRFhOcW5pUUw4ZGRGY1dIZzRLRnN0TUdCM0tj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-03 00:30:28"
     }
   ],
   "latest_facebook_20": [
@@ -537,6 +560,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "《食品衛生管理法》修法雲林立委張嘉郡主張避免洗產地疑慮堅持「投料重量」前三名農產原料「標示原產國」需入法！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xckRZS2xRMnJYNGYtVHcyMVotb3ZnMVZ5M0E3VFJ5a3V2dTI0VDJiZnhSLUVjb3NVUDNPVk9hQlFlRTkxbndaMHJrcGhtaHJMU3NvU0JLbTdHYm1VT1Jwclk2UDE4QUZabzNZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-05 17:59:18"
+    },
+    {
       "title": "從一座醫院，到一座照顧人的城市 劉建國為雲林布局「健康治理」新路線 - 波新聞",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KVWVxaUtjSkZoMVF5N3pLRFVmWTlkaGkwUEZOVmZSWGN5Y19uelpjNHRRRGl2MkpkTVhLS194ZWZ1c1g5eFZmY0RNSmhsLTQ5djhUc0lJWjFTV2hWTDBZZHhLNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-04 21:55:00"
@@ -630,11 +658,6 @@
       "title": "討論牆 | 張嘉郡提AI智慧雲林白皮書 10大計畫主打科技治理 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16TjZXYmY1c2pnUzhiNVMxUmJsWUM0ZF92QmhXN3Q2bzFzZjVveENrWmNmTkdadUEtaWppZHplTk5IQmZNSFFaVVpEai1KT3ZPYklVQUd2M2ZFNmFVTklXUDVHRFM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-03 03:06:00"
-    },
-    {
-      "title": "參選雲林首屆平地原住民議員呂佶娜於麥寮成立競選服務處縣長張麗善、議長黃凱及立委張嘉郡等人到場力挺氣氛熱絡！ - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjdkNRakZaZXN0NEE5YUl5aHhGa2RIa25CbzV0YUFlRWp2VjE0MmxPa25CcGx5VXRMZ3k5WUFJQXBUaWU1eTZ0dFM3eUhIdkNJRFhOcW5pUUw4ZGRGY1dIZzRLRnN0TUdCM0tj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-03 00:30:28"
     }
   ],
   "person_sections": {
@@ -743,6 +766,11 @@
       ],
       "news": [
         {
+          "title": "《食品衛生管理法》修法雲林立委張嘉郡主張避免洗產地疑慮堅持「投料重量」前三名農產原料「標示原產國」需入法！ - 台灣華報",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xckRZS2xRMnJYNGYtVHcyMVotb3ZnMVZ5M0E3VFJ5a3V2dTI0VDJiZnhSLUVjb3NVUDNPVk9hQlFlRTkxbndaMHJrcGhtaHJMU3NvU0JLbTdHYm1VT1Jwclk2UDE4QUZabzNZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-05 17:59:18"
+        },
+        {
           "title": "拚曝光再過招！蘇治芬、張嘉郡對決　雙姝「選戰布條」互槓 - 三立新聞",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYLXh1Q2VLLWVpeG5paDAwdXZwdFVRZmpzMVQwQkdaa2ZwTFhJaGtwRTJ0NXVVR1RhNXBGVkVSWXBCTDFZdmxTRHVSeTh1cFh3cmtyanNEY9IBS0FVX3lxTE9Na2k1YmZvNURELXRWYldJMjhCSUJ0VGtkNmtVLVFuT2t3VWZwODZiSjYtUV9ORC14ampnODBHTk1iOGNOR2dycm1TNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-03 05:18:31"
@@ -835,11 +863,6 @@
         {
           "title": "國民黨雲林縣長參選人張嘉郡拋AI智慧藍圖 單一平台可查詢資訊及服務 - UDN",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wT0VKYnhrWGwtWlNGVC10a21NU3E5bjViZ2tTc2VyS1dZNmoyUDhaYXBKbWQzZklENl90T3RPc0NkTzlhRGtYei1GV1ZvWTg1QXFJ0gFYQVVfeXFMT2o2RXUzQ3pESVAyQTkwY2NxS1ZoVXF4UWFHQkx6UklvSUdCT2thYUh6cWd2UFhULXV5ZGc5ZFh2SVNULXZYRkJnbWVtRWRGMnJlS2tjRVdqMQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-07-31 12:59:37"
-        },
-        {
-          "title": "國民黨雲林縣長參選人張嘉郡拋AI智慧藍圖單一平台可查詢資訊及服務| 2026九合一選舉 - UDN",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NTHFxOGF1NDBiZ0MwOVFFa0RLR0xscUxtaHFBb1FNZlM2T2xNc2pKTmdPLWFkNzR0VURVSDFCTE5wQmN6cHNrN1RORzRxTkJCMFkxY3czSGg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-07-31 12:59:37"
         }
       ]
@@ -1071,6 +1094,11 @@
     ],
     "news": [
       {
+        "title": "《食品衛生管理法》修法雲林立委張嘉郡主張避免洗產地疑慮堅持「投料重量」前三名農產原料「標示原產國」需入法！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xckRZS2xRMnJYNGYtVHcyMVotb3ZnMVZ5M0E3VFJ5a3V2dTI0VDJiZnhSLUVjb3NVUDNPVk9hQlFlRTkxbndaMHJrcGhtaHJMU3NvU0JLbTdHYm1VT1Jwclk2UDE4QUZabzNZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-05 17:59:18"
+      },
+      {
         "title": "從一座醫院，到一座照顧人的城市 劉建國為雲林布局「健康治理」新路線 - 波新聞",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KVWVxaUtjSkZoMVF5N3pLRFVmWTlkaGkwUEZOVmZSWGN5Y19uelpjNHRRRGl2MkpkTVhLS194ZWZ1c1g5eFZmY0RNSmhsLTQ5djhUc0lJWjFTV2hWTDBZZHhLNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-04 21:55:00"
@@ -1079,6 +1107,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "《食品衛生管理法》修法雲林立委張嘉郡主張避免洗產地疑慮堅持「投料重量」前三名農產原料「標示原產國」需入法！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xckRZS2xRMnJYNGYtVHcyMVotb3ZnMVZ5M0E3VFJ5a3V2dTI0VDJiZnhSLUVjb3NVUDNPVk9hQlFlRTkxbndaMHJrcGhtaHJMU3NvU0JLbTdHYm1VT1Jwclk2UDE4QUZabzNZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-05 17:59:18"
+      },
       {
         "title": "從一座醫院，到一座照顧人的城市 劉建國為雲林布局「健康治理」新路線 - 波新聞",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KVWVxaUtjSkZoMVF5N3pLRFVmWTlkaGkwUEZOVmZSWGN5Y19uelpjNHRRRGl2MkpkTVhLS194ZWZ1c1g5eFZmY0RNSmhsLTQ5djhUc0lJWjFTV2hWTDBZZHhLNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1273,11 +1306,6 @@
         "title": "稱1人打7人空戰輸對手還被蔡英文吐槽劉建國：該向中央說的都已說了| 2026九合一選舉 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtSkwtNEtHMm82ODJqMDBvaEFzZ2VpNlg4eHJIelMxaGRoVUlyQUVfSVJZbWFnNUtNejFyUTVWVTlQLTZGM0NLQXppWjRLVk9BTGNjXzdhZW4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-07-31 13:32:37"
-      },
-      {
-        "title": "129億台大雲林虎尾院區拚醫學中心 劉建國：縮短急重症黃金救治時間 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQTHF2MXdkRmppYUZMOXdOZWU4YjVfSk5jdGluWVZxQmJSc0RKV3RzY0JtcU9hMWdENGlLdVctUjNrUzY0OUpGNGNISGcyRlloZWN0R0FWR3loM1U5UDRVelp5ampLYktSejFoX09VZEEtcndPc2RJZUxhYkU2Y2Z4SDdhY01mVUw0cEFtc2VRU2pVWnAwdmxCQ01meFJEVFgyeC1Na3E4Y3BsT05HckNXUlo2dllxQ3hlXzZOYmI1QzhjNFdRaEJDT3BIS0xRSFowVk5uWXRVdW5KT0NYMzZqQUVrbklBaG1kTExLOE5uMTVsMnR1bG5lUWhvcDJ1b25VakxvOGh0a3BxN1VDUEQwd0hXSGdPQnJBWEtfLUZBVnB5a1FTa3VuWFViWVk2TlU1QzQ0UFVmbzhxUDNZY1doSVQxWVdxZ3dTSkVOb1hYb0Z4eW9IeElka25IWEpMSEttMlQwSGUwRkJSM1dzWDg5NEpxNExuOXJUXzBCTDlTdEdqTHVyeGdwNVFCRHVKTC1lZTctVk1DRnVHUTNhd0F4UEN5WnB5SDFDREE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-07-31 13:10:29"
       }
     ],
     "facebook": [
@@ -1375,11 +1403,6 @@
         "title": "「張家班」成包袱？張嘉郡：往前看不要貼標籤 ▌姸選現場EP15精華 shorts 每週五 12:30–13:00 鎖定《民視新聞網》 【姸選現場】 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxPM2doTzA4M0c5UlBXNEJkWUk3bThzMlVWZXlGYVlUYXVSa0lfWnVwWm4xZDkzZm44SGdxU2FYdDNtWTZ5SnZhUk4xUGtZOW9iUWlNVm5qY3VzUzJMSDJoNUdVWFdCdmpTUHo0TnR6M29ad0IyY3VfdGNOSHRiWGNEYnlDNHNVZlNSSnJ0dnZaSWRCNjlfWjJHdW9nZzNpV3NkUGp5Wk4tTWJMVTBFS1JNWTlmWWJKUUJGdlBJOWlRM21OQ2xDN0ZxUENwWGpnXzRfcmZFclBQeGJuXzBvRjdrUEdsdWJidFlyMmdqSkswTjQyY2gzOXhzYWVUVnZwTFBNWE9NZkYwcWZ6NzJERWM1cnJSY0IzMmZuZWVjQXdYRWRYS1VWeEhSTlZLbGo3QVRJTm9CaVA3bzR0eC1KUFFpeG9BQ0thZk1fLTBYSkQza2dXNHQ0QW5DdURFY2pNWFNwSWpoeWhZR2R3UUZBdFNhTGlpOURyd3loeUlPdU1LbFhCSGtWOHlqb29ReV9JTFRDTk4xRVZVb0pRQXhSTWxhYXJmd3c3b0dhTHkzV0tXZkhXZ01lemJnNFROay13ZmY2MFUzN0xXdmVPTUZLS0g4dXYyT0pYUS1fTjdqd1pET0hGdWFtN2hmeTNDQzVPYU56Wlk5RDloSTM3RWRRcmlVYmE4WVN1YnkxbnBtNEdDQzBOQXRwekd3aVBjZUtYdFUwUkhLSEVVQml4bVZRbXg5Vll6dTlIU01nSWh4SnN4NElvb0Iz",
         "time": "2026-07-29 19:20:50"
-      },
-      {
-        "title": "一個地方的發展，除了建設，更重要的是能不能讓人安心留下來。留下來工作，也留下來生活；年輕人有發展的機會，長輩也能得到完整的醫療和照顧。 這次來到雲林，和 劉建國委員一起看幾項過去推動、現在逐漸實現的建設。它們分別和醫療、高齡照顧及治水有關，看起 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMioghBVV95cUxPYkE4dmFid1FQRV9ndnhLc0s2N29aNG4xNnA2a01lNlBwRzhfRnRVQzhHVm5RTGpNZU5fYUZYZ2M0Z0RzYldPbExpTVFTWEtSa2diWUREUGMtVks0TmMwUk1ZZTVtRHNaQmFGcjZhbUtnS0RlakFfYUg1WVdkMVVVMHlLa3hucWJ0NVFOQnlUN1ZxMkFWTzBueFFmVTRDa3hXQ0RGalpuWmEzZWN6elRRaU1ZcHV0ei1jYVB2ZDZTcnhCRGM4OGdpVW1xeUJCYWg5dVVEVGdHRnRyYWRvc1N6MmdBNHdaRVRDaXNLNllsOWxRWGxNVEJDVEU0OEduLUlhdlZvSlJYVWhJampwazdfc2hlMUJjMzdlbnZXNU9rRnJ1cDJzdlFKcDNWLWI0YWprM0NIWW5FYlVZSVNOUmI4TV9fSlc5dV9ZSEdTTkJHRHpJc015NUY0aGx1dHVBLWduc0lkZnhza0pCRXV4d0o4UlNGMmhwNDBJMi1qN1prdFZnUXo0S2REaVV6eUFpV2FJTnlEZjRya0otZFdkbzQybm5pd21ELWwtTTNodzEtb0dpRzhjVEFzdjVkcjlQc2ZrV3l3SWZseUFWNlRaTUpBV2U1ajFnQ2pldVBaNnNVSGZTLXlYQ3JPTXlZeHJ1Zlpaek9HYTZ6RE04clNsOU8xNHZzbnJ2eV9XOFhxUGNBTC1GbUptWUZhUi1YMzVidFlwZjQyaHcxd2dqWjd6Zlc1elRsTWZGTndOb2JqaTBUTVMyNGNFa3ZKQ0EyQnEtSzc0aXRTU3l2MXFtWkh5V2laWExNdDJtU2lkR2NVTW9NMXF1YTE0Mzd5OU4yb3h1LTB1X3NxekpoZnVtbE10N3AyUW5vV3ZTWjFXV2k4NURqVEdGZThOaThzdFM3SmVrN0MwckxmVi0tUDk4QVBlWmgtV0E4dll0UFQwRFNGMTA2dzNZRk9DU3h4bkloeE9GWUVwZTY2YndOLVoxeVZoUjVuUksxOEJBbVdsZGduVUU1UVh2LTkzWnFZSHdxQVFtZzYxaDRoN2Z5ZXNzTE45NHVPeDExamJEY09EZzZCWFYtWEtYS2trTWtjNlJUYVcxemFEQ2tjUm92WUV2cjZRanRod0hIZXJfUEFBdTdGTDNONmxaNEl5dzlDbURUdEFGd012cGd5el94QlVXNnMxaS13X2RXa1ZER2FvZEFLOFc1UEdnTkoweUZsUmdSaElCVk9ydTdaN1IwQ1NmckYtbjJUR0xFSnJORGFWLVozRVc3ekE5QUd0QXVFRzhzbkN0TnJWaVZEYnJ4dFVLdW42QjExOXFkUmFfamhlVzZIM3R6Y1VqdkFkZTlSZ0RhS0VOQURNNHA1M0NpbXdITVV3Z3ZycW52VFVnZXFYTTJfc092U3V6QQ",
-        "time": "2026-07-29 18:02:38"
       }
     ],
     "youtube": [
@@ -1445,6 +1468,13 @@
     "hour": [],
     "day": [
       {
+        "title": "《食品衛生管理法》修法雲林立委張嘉郡主張避免洗產地疑慮堅持「投料重量」前三名農產原料「標示原產國」需入法！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xckRZS2xRMnJYNGYtVHcyMVotb3ZnMVZ5M0E3VFJ5a3V2dTI0VDJiZnhSLUVjb3NVUDNPVk9hQlFlRTkxbndaMHJrcGhtaHJMU3NvU0JLbTdHYm1VT1Jwclk2UDE4QUZabzNZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-05 17:59:18",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "#陪孩子一起勇敢成長🐰✨ #海波劇場帶來親子歡樂時光🎭 走進 #海波劇場《#勇兔茹比與黃金蘿蔔》，看到許多爸爸媽媽帶著孩子一起欣賞兒童劇，在故事與歡笑中享受親子共度的美好時光。 嘉郡也特別變身成可愛兔子，和現場的小朋友互動，看見孩子們開心的笑容，也讓 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxQVlpjNVhqZENXelVwRmJkXzR2dlAwazVpbVhHWFZvWWVTNVRKc0ZfX0RoZC1JUmpqUU9hcHZNUXZENFhiVWN0aHV4UjNZMV9uMGI5ZEczVE9iOGlsSXNQTlNMZnFXMFoyejQyZVVVWGNTSC1WSldxNHZsMGZ2TzZfTUxiSTNiRmhrYVZMbDA5UHJ4RmlMb2kyMVJzTkpQdV9mMGhhbC1rMlZsOEdVVjlvdGxKZmg4VF9aLWtMN1hYSzhOa2xWU0U3OGxiZnkyMW5zdGVYVnFxNTZPSmYtNkVUU0ptOXFRdGtaUUVTVklKbWhJMzR5Y2xvZnFMcnhXQ0JPMDlxTXVLeU1LdFpNeGhfaVpYdkhQZXFnUGVvclVra082MnZ4enJZdmtFSGhMSlNiMlBQMF9JNFR5c3BhQkRLZVVaOWRwck5hdGZVc3hvck81UTMzdEV5T3pMWm1UaXJJU1M1VmJlRUhtN3FfaFgxMmNBOWowSFNjRGVRWThFSWoyLVhCNUlyUVFhbHZiUGNOYUtCTWhKVGhkUFhGWG9IU0M4NVA0MjdGTkJXVmJralR1NTV6aGVWd0VObWJVV0s4WmJPZXZxd0NabDBxeUoyeG1Nb2hhaEM4ZGdOUWJZbktYSHA2bzdocWhUWEV3RG9PT2U3V3BFNGM4bEdORzB4SG40bkpPaUpKWkgxVmM3cWpMS004Ym1GTmEzSjcxV0tIOTJqcWwxQmlTZ0xqdXgxcHNYYzVDZldNbmE3cC1lanl4SW5kWWpLeE9kUlkybnhhSlJuek1yaHM5WjFTb2tyRmJuMUJMRzM3eXl5UU4tbkFsUVAwUmNnYTE2UFYzX0NvcWZRdXZWeWJ1TnVua1RuMjlFcDdDX1BPamUzcUxRSVBySHpCd213WThlVFk3MlhhY1c5U0F4VVdpYjh0RFJ3TWttSHhkSko5OXdvdUhZZkVIcW0wSkJNaGlwMEZLV1hFREVvR1NIM3MtUTFJZl80UktWc1hDcGRhTUt2ZmhkRmxJa0ZkUVl1eWRING1odTBVVmdNN2RFWDhCOFZSOE1oYlh3dHI3M2prRFA2dFVHdWxvdlhzZmZpcVJ0cEVhZmsxdDB5SXp0aXJ2STk4S2VJeGdwbVpKLVhNN0paMVF4bUtxYk1OYTFYLW1DSi12U0J6dmFNdGJnRXVpbUJtMjJKbDRsaXM0anI4N1V1YzZGTmxQR3Q4OVQxY2lmaThseE9iRDAxUVFjU0NNd2UzY2dFS25RZTFQblZFdHU3dllyU0htOWJhdW1UQkh0ekhwRzhaaC1oaUJscHlkbGR5NFlBdTFpTXFnakxwRUY0UTV6NjQxTURSZGJVTVRkWk96ZWJKLThGbzBHV0FueFVFN3oybFVZWm1IZzlfOXluYjllSGduNmpH",
         "time": "2026-08-05 08:56:27",
@@ -1478,7 +1508,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 2
+        "count": 3
       }
     ],
     "groups": []
