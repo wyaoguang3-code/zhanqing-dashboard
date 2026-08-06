@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-08-06T12:08:00.337063+00:00",
+  "generated_at": "2026-08-06T12:23:35.219685+00:00",
   "metrics": {
-    "total_24h": 25,
+    "total_24h": 28,
     "prev_24h": 19,
-    "growth_pct": 31.58,
-    "news_24h": 21,
+    "growth_pct": 47.37,
+    "news_24h": 23,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 128,
-    "prev": 145,
-    "growth_pct": -11.72,
-    "news": 102,
+    "total": 131,
+    "prev": 144,
+    "growth_pct": -9.03,
+    "news": 104,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,17 +28,21 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 21
+      "count": 23
     },
     {
       "platform": "facebook",
       "count": 4
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 102
+      "count": 104
     },
     {
       "platform": "facebook",
@@ -46,7 +50,7 @@
     },
     {
       "platform": "youtube",
-      "count": 3
+      "count": 4
     }
   ],
   "by_hour": [
@@ -92,7 +96,11 @@
     },
     {
       "hour": "2026-08-06 17:00",
-      "count": 1
+      "count": 2
+    },
+    {
+      "hour": "2026-08-06 19:00",
+      "count": 2
     }
   ],
   "by_hour_7d": [
@@ -310,13 +318,17 @@
     },
     {
       "hour": "2026-08-06 17:00",
-      "count": 1
+      "count": 2
+    },
+    {
+      "hour": "2026-08-06 19:00",
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 21
+      "count": 23
     },
     {
       "platform": "facebook",
@@ -325,6 +337,16 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "請益嘉義成功經驗 劉建國端三大政見打造「新雲林」 - 三星傳媒",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQeXU2ZV8yRVZQQUZjSXByVGJjQjIwNDZMVXhZWVVzOTFXaXd6QVhhYVVtVUJTcDEteEltTllRQkxSazAxTzdwdTVKRkFTc0hsTEdabXhZWDZiSWZCcjYzUk9kN21KRnJkOVpGMF9Nd0F0OWZnMmlKNERuSjJNdEV5azMwczdsZ3Q4a0hCZnJzMlJFVkV2dTJNSlliNkpmOGt6ck9SaEJZc2JDZmhGOU9XcGhYUEw3eVJ1ejdkRGJKNHBwVjBfU3poX1VDbWxSMnBHRHlBZ2ZmcXpuMFRJa0NOTFVjVXhYN1NULTFVZHZUcG1SUE9hV2MxY0xoMExRVnhsTEYzS0l3OGducjJsM2dybkM1anpCakVMZDZSQkpvU3RITHFBc05NNzZFNzhUNDZQRlE1Y0FEU2JUMDhoNjJhMVg3NXlvel8tTFhUNzFiemRRdC15VU9XUTZScUtTUE9kUmw0ajY2amd5emU4bWpaalBqVHlmVEptTnk2MllXckU0aTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-06 19:55:41"
+      },
+      {
+        "title": "劉建國嘉義請益 借鏡嘉義縣經驗提智慧農業及無人機等政見 | 中華日報 - today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3WkphNWcySXdnZVp4Y1ZyQmdOLU4tOWh6X1AxMlFRaHZnWWhaa3QwMGlqWm5ERmpkb09VQVgtc19WeXZUbWlsSFFyVFNuVjluWkluSXVB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-06 17:49:16"
+      },
       {
         "title": "劉建國嘉義請益 借鏡嘉義縣經驗提智慧農業及無人機等政見 - tw.news.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQY0NnTktjV08ta24taklZRGNYYXRqQndpU3VGazlRSHRPc3hFcTkxRlJGODI4Q2xEOE5fMC1KUkY2TlVrSE1WRWxGNEhhb1FUU1o5ZDc0RGNKRG01N19NWkxITE8xZlpjU2Z1Rm1XemoxcGxvYnZhMklaVDBrZTM5eGpyWmQzRjY2ZXlnSE1rODZVVjNtVUFrOUtrTE5MZHFsMHNzalJtX2FJeWpxTTIxZHUwbWhlSC1XLUZpcTN2Zms1cFZjUkkwb1NFYVlsOVdObWd0a3NPM2JPX0xSNDMxWWdBSndQV3BjZ3ExMWNSeV9vbzFLcVI0T3ZCTzg5VkR4dDNXUTZkbVI3bnpZUjhYWTBmVzRMZUVFZlRZR2h6SGtfbm1lVEI3Q3dFSVdzUExaWWdxbGx3YURIODVuMFlaSEkzSnRIeEQxcjlzNUU4MnRnRDBmZWNOc2tncGJwMElYZC1xQkpUZXRUc0tzTGhCZTJ1bW1QNXN2Ym1aNUIza1MzMHNEVmVQNjZIZjk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -447,7 +469,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 21
+      "count": 23
     },
     {
       "platform": "facebook",
@@ -456,6 +478,16 @@
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "請益嘉義成功經驗 劉建國端三大政見打造「新雲林」 - 三星傳媒",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQeXU2ZV8yRVZQQUZjSXByVGJjQjIwNDZMVXhZWVVzOTFXaXd6QVhhYVVtVUJTcDEteEltTllRQkxSazAxTzdwdTVKRkFTc0hsTEdabXhZWDZiSWZCcjYzUk9kN21KRnJkOVpGMF9Nd0F0OWZnMmlKNERuSjJNdEV5azMwczdsZ3Q4a0hCZnJzMlJFVkV2dTJNSlliNkpmOGt6ck9SaEJZc2JDZmhGOU9XcGhYUEw3eVJ1ejdkRGJKNHBwVjBfU3poX1VDbWxSMnBHRHlBZ2ZmcXpuMFRJa0NOTFVjVXhYN1NULTFVZHZUcG1SUE9hV2MxY0xoMExRVnhsTEYzS0l3OGducjJsM2dybkM1anpCakVMZDZSQkpvU3RITHFBc05NNzZFNzhUNDZQRlE1Y0FEU2JUMDhoNjJhMVg3NXlvel8tTFhUNzFiemRRdC15VU9XUTZScUtTUE9kUmw0ajY2amd5emU4bWpaalBqVHlmVEptTnk2MllXckU0aTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-06 19:55:41"
+      },
+      {
+        "title": "劉建國嘉義請益 借鏡嘉義縣經驗提智慧農業及無人機等政見 | 中華日報 - today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3WkphNWcySXdnZVp4Y1ZyQmdOLU4tOWh6X1AxMlFRaHZnWWhaa3QwMGlqWm5ERmpkb09VQVgtc19WeXZUbWlsSFFyVFNuVjluWkluSXVB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-06 17:49:16"
+      },
       {
         "title": "劉建國嘉義請益 借鏡嘉義縣經驗提智慧農業及無人機等政見 - tw.news.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQY0NnTktjV08ta24taklZRGNYYXRqQndpU3VGazlRSHRPc3hFcTkxRlJGODI4Q2xEOE5fMC1KUkY2TlVrSE1WRWxGNEhhb1FUU1o5ZDc0RGNKRG01N19NWkxITE8xZlpjU2Z1Rm1XemoxcGxvYnZhMklaVDBrZTM5eGpyWmQzRjY2ZXlnSE1rODZVVjNtVUFrOUtrTE5MZHFsMHNzalJtX2FJeWpxTTIxZHUwbWhlSC1XLUZpcTN2Zms1cFZjUkkwb1NFYVlsOVdObWd0a3NPM2JPX0xSNDMxWWdBSndQV3BjZ3ExMWNSeV9vbzFLcVI0T3ZCTzg5VkR4dDNXUTZkbVI3bnpZUjhYWTBmVzRMZUVFZlRZR2h6SGtfbm1lVEI3Q3dFSVdzUExaWWdxbGx3YURIODVuMFlaSEkzSnRIeEQxcjlzNUU4MnRnRDBmZWNOc2tncGJwMElYZC1xQkpUZXRUc0tzTGhCZTJ1bW1QNXN2Ym1aNUIza1MzMHNEVmVQNjZIZjk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -582,13 +614,23 @@
   },
   "mention_compare_24h": {
     "張嘉郡": 8,
-    "劉建國": 15
+    "劉建國": 17
   },
   "mention_compare_7d": {
     "張嘉郡": 54,
-    "劉建國": 64
+    "劉建國": 66
   },
   "top_news": [
+    {
+      "title": "請益嘉義成功經驗 劉建國端三大政見打造「新雲林」 - 三星傳媒",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQeXU2ZV8yRVZQQUZjSXByVGJjQjIwNDZMVXhZWVVzOTFXaXd6QVhhYVVtVUJTcDEteEltTllRQkxSazAxTzdwdTVKRkFTc0hsTEdabXhZWDZiSWZCcjYzUk9kN21KRnJkOVpGMF9Nd0F0OWZnMmlKNERuSjJNdEV5azMwczdsZ3Q4a0hCZnJzMlJFVkV2dTJNSlliNkpmOGt6ck9SaEJZc2JDZmhGOU9XcGhYUEw3eVJ1ejdkRGJKNHBwVjBfU3poX1VDbWxSMnBHRHlBZ2ZmcXpuMFRJa0NOTFVjVXhYN1NULTFVZHZUcG1SUE9hV2MxY0xoMExRVnhsTEYzS0l3OGducjJsM2dybkM1anpCakVMZDZSQkpvU3RITHFBc05NNzZFNzhUNDZQRlE1Y0FEU2JUMDhoNjJhMVg3NXlvel8tTFhUNzFiemRRdC15VU9XUTZScUtTUE9kUmw0ajY2amd5emU4bWpaalBqVHlmVEptTnk2MllXckU0aTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-06 19:55:41"
+    },
+    {
+      "title": "劉建國嘉義請益 借鏡嘉義縣經驗提智慧農業及無人機等政見 | 中華日報 - today.line.me",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3WkphNWcySXdnZVp4Y1ZyQmdOLU4tOWh6X1AxMlFRaHZnWWhaa3QwMGlqWm5ERmpkb09VQVgtc19WeXZUbWlsSFFyVFNuVjluWkluSXVB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-06 17:49:16"
+    },
     {
       "title": "劉建國嘉義請益 借鏡嘉義縣經驗提智慧農業及無人機等政見 - tw.news.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQY0NnTktjV08ta24taklZRGNYYXRqQndpU3VGazlRSHRPc3hFcTkxRlJGODI4Q2xEOE5fMC1KUkY2TlVrSE1WRWxGNEhhb1FUU1o5ZDc0RGNKRG01N19NWkxITE8xZlpjU2Z1Rm1XemoxcGxvYnZhMklaVDBrZTM5eGpyWmQzRjY2ZXlnSE1rODZVVjNtVUFrOUtrTE5MZHFsMHNzalJtX2FJeWpxTTIxZHUwbWhlSC1XLUZpcTN2Zms1cFZjUkkwb1NFYVlsOVdObWd0a3NPM2JPX0xSNDMxWWdBSndQV3BjZ3ExMWNSeV9vbzFLcVI0T3ZCTzg5VkR4dDNXUTZkbVI3bnpZUjhYWTBmVzRMZUVFZlRZR2h6SGtfbm1lVEI3Q3dFSVdzUExaWWdxbGx3YURIODVuMFlaSEkzSnRIeEQxcjlzNUU4MnRnRDBmZWNOc2tncGJwMElYZC1xQkpUZXRUc0tzTGhCZTJ1bW1QNXN2Ym1aNUIza1MzMHNEVmVQNjZIZjk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -638,19 +680,19 @@
       "title": "參訪亞創中心 劉建國：雲嘉共創無人機產業廊帶 - 經濟日報",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZUlCeHFEanhRMElsT3c1YmdWc25jekVjT2NsVzBEalF6Rjk0dldzY0RlMEhmQlRCcEh3UklaNG54MW9WMkRqcnlvT0FBZWI1a0FYb2VWeERua2lQTzZUSTVVd0FmSC1QTUdEX0tHaDNzN1dFWTR4aFlTYWZ5bWhkbdIBX0FVX3lxTE5rcVJfZ05nV0VJcGhCMGpYamlzUktkcjdiN1NYcVg2SC10YWdnZUVGcEQ0UTlLVWNHbEtlZVNVdE0yYTlrWU8tRUZBcjYyaGV2eW8xbV8tMUJ6bVhGRXVZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-06 14:55:36"
-    },
-    {
-      "title": "訪嘉義縣成功經驗 劉建國提雲林推無人機、青創基地及AI農業園區 | 自由電子報 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0V21KMnk3WE5jdkxKN3l3bXc2MkpEZ3dYTnpqcmlUbU52MmtiMWpYd0Q4a3VSTlhJMnpvUUpnMEFaTmRRMjRRX05jVkJZMkJqR3FkVnJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-06 14:51:10"
-    },
-    {
-      "title": "參訪亞創中心劉建國：雲嘉共創無人機產業廊帶| 地方 - 中央社 CNA",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41aTNMMGE2R1YzSFhUaUZLT2hYWEJCbUNXVUpMV2MwV0x3TU91enluWGNNSXRuSFNEdU1CdWtuM0RDeFBiVjJRMUhHRkMta0RQeEFYc2RPWFNuUDRxNkU4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-06 14:46:00"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "請益嘉義成功經驗 劉建國端三大政見打造「新雲林」 - 三星傳媒",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQeXU2ZV8yRVZQQUZjSXByVGJjQjIwNDZMVXhZWVVzOTFXaXd6QVhhYVVtVUJTcDEteEltTllRQkxSazAxTzdwdTVKRkFTc0hsTEdabXhZWDZiSWZCcjYzUk9kN21KRnJkOVpGMF9Nd0F0OWZnMmlKNERuSjJNdEV5azMwczdsZ3Q4a0hCZnJzMlJFVkV2dTJNSlliNkpmOGt6ck9SaEJZc2JDZmhGOU9XcGhYUEw3eVJ1ejdkRGJKNHBwVjBfU3poX1VDbWxSMnBHRHlBZ2ZmcXpuMFRJa0NOTFVjVXhYN1NULTFVZHZUcG1SUE9hV2MxY0xoMExRVnhsTEYzS0l3OGducjJsM2dybkM1anpCakVMZDZSQkpvU3RITHFBc05NNzZFNzhUNDZQRlE1Y0FEU2JUMDhoNjJhMVg3NXlvel8tTFhUNzFiemRRdC15VU9XUTZScUtTUE9kUmw0ajY2amd5emU4bWpaalBqVHlmVEptTnk2MllXckU0aTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-06 19:55:41"
+    },
+    {
+      "title": "劉建國嘉義請益 借鏡嘉義縣經驗提智慧農業及無人機等政見 | 中華日報 - today.line.me",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3WkphNWcySXdnZVp4Y1ZyQmdOLU4tOWh6X1AxMlFRaHZnWWhaa3QwMGlqWm5ERmpkb09VQVgtc19WeXZUbWlsSFFyVFNuVjluWkluSXVB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-06 17:49:16"
+    },
     {
       "title": "劉建國嘉義請益 借鏡嘉義縣經驗提智慧農業及無人機等政見 - tw.news.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQY0NnTktjV08ta24taklZRGNYYXRqQndpU3VGazlRSHRPc3hFcTkxRlJGODI4Q2xEOE5fMC1KUkY2TlVrSE1WRWxGNEhhb1FUU1o5ZDc0RGNKRG01N19NWkxITE8xZlpjU2Z1Rm1XemoxcGxvYnZhMklaVDBrZTM5eGpyWmQzRjY2ZXlnSE1rODZVVjNtVUFrOUtrTE5MZHFsMHNzalJtX2FJeWpxTTIxZHUwbWhlSC1XLUZpcTN2Zms1cFZjUkkwb1NFYVlsOVdObWd0a3NPM2JPX0xSNDMxWWdBSndQV3BjZ3ExMWNSeV9vbzFLcVI0T3ZCTzg5VkR4dDNXUTZkbVI3bnpZUjhYWTBmVzRMZUVFZlRZR2h6SGtfbm1lVEI3Q3dFSVdzUExaWWdxbGx3YURIODVuMFlaSEkzSnRIeEQxcjlzNUU4MnRnRDBmZWNOc2tncGJwMElYZC1xQkpUZXRUc0tzTGhCZTJ1bW1QNXN2Ym1aNUIza1MzMHNEVmVQNjZIZjk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -740,16 +782,6 @@
       "title": "中國苦茶籽變台灣100%！張嘉郡喊修法：別再讓「洗產地」騙過全民 - NOWnews今日新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1d1haQUdRd005dy16eHlEWEZvam5SNDlXOHljelZGdklUVnEwcHQ1ZXFST05xUXlSMnVpYml3R2V0emRjbVJNQzZhcWFEV09xOHfSAVJBVV95cUxQdXdYWkFHUXdNOXctenh5RFhGb2puUjQ5Vzh5Y3pWRnZJVFZxMHB0NWVxUk9OcVF5UjJ1aWJpd0dldHpkY21STUM2YXFhRFdPcTh3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-06 10:49:13"
-    },
-    {
-      "title": "討論牆 | 杜絕洗產地疑慮 張嘉郡堅持農產原料「標示原產國」入法 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JdUtoLVJOdVJ0R1FVMGFjXzY3SnNnM1lTVjJHVWEzMWNxVV94NjVtNmVwSkpDNVhPWXFyWDFQSkpEc1lybk10RzY1SlJHYkZmaF9Sc2UwWjJweDNTeW5TRlB3QTE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-05 23:54:34"
-    },
-    {
-      "title": "杜絕洗產地疑慮　張嘉郡堅持農產原料「標示原產國」入法 - 鏡週刊Mirror Media",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00a2pVaW1jalcwZW9oeWpXNmNjbTBocE5WV054MkVTa2VvbXp6LTJvd1JHWm84N3UyUVFZYjNBXzhKOHlVU281SEwtMDkwaGtFTlhhc09rNE5JejdtMkp4dlYtaFVPd9IBa0FVX3lxTFAyclZuV3RMZjhNLUViMndPNnBJOTdDVUlIQjFON2tseU5UZ25pOHhKLTNpMXhCdkpXbXYwSXRFMDRrbU1pSG1ELVh6TjdTc05KaFk0OTBHV25RdHJRcGdteUZXNlR0NVNTMk53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-05 22:45:00"
     }
   ],
   "latest_facebook_20": [
@@ -856,6 +888,16 @@
   ],
   "latest_news_20": [
     {
+      "title": "請益嘉義成功經驗 劉建國端三大政見打造「新雲林」 - 三星傳媒",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQeXU2ZV8yRVZQQUZjSXByVGJjQjIwNDZMVXhZWVVzOTFXaXd6QVhhYVVtVUJTcDEteEltTllRQkxSazAxTzdwdTVKRkFTc0hsTEdabXhZWDZiSWZCcjYzUk9kN21KRnJkOVpGMF9Nd0F0OWZnMmlKNERuSjJNdEV5azMwczdsZ3Q4a0hCZnJzMlJFVkV2dTJNSlliNkpmOGt6ck9SaEJZc2JDZmhGOU9XcGhYUEw3eVJ1ejdkRGJKNHBwVjBfU3poX1VDbWxSMnBHRHlBZ2ZmcXpuMFRJa0NOTFVjVXhYN1NULTFVZHZUcG1SUE9hV2MxY0xoMExRVnhsTEYzS0l3OGducjJsM2dybkM1anpCakVMZDZSQkpvU3RITHFBc05NNzZFNzhUNDZQRlE1Y0FEU2JUMDhoNjJhMVg3NXlvel8tTFhUNzFiemRRdC15VU9XUTZScUtTUE9kUmw0ajY2amd5emU4bWpaalBqVHlmVEptTnk2MllXckU0aTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-06 19:55:41"
+    },
+    {
+      "title": "劉建國嘉義請益 借鏡嘉義縣經驗提智慧農業及無人機等政見 | 中華日報 - today.line.me",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3WkphNWcySXdnZVp4Y1ZyQmdOLU4tOWh6X1AxMlFRaHZnWWhaa3QwMGlqWm5ERmpkb09VQVgtc19WeXZUbWlsSFFyVFNuVjluWkluSXVB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-06 17:49:16"
+    },
+    {
       "title": "劉建國嘉義請益 借鏡嘉義縣經驗提智慧農業及無人機等政見 - tw.news.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQY0NnTktjV08ta24taklZRGNYYXRqQndpU3VGazlRSHRPc3hFcTkxRlJGODI4Q2xEOE5fMC1KUkY2TlVrSE1WRWxGNEhhb1FUU1o5ZDc0RGNKRG01N19NWkxITE8xZlpjU2Z1Rm1XemoxcGxvYnZhMklaVDBrZTM5eGpyWmQzRjY2ZXlnSE1rODZVVjNtVUFrOUtrTE5MZHFsMHNzalJtX2FJeWpxTTIxZHUwbWhlSC1XLUZpcTN2Zms1cFZjUkkwb1NFYVlsOVdObWd0a3NPM2JPX0xSNDMxWWdBSndQV3BjZ3ExMWNSeV9vbzFLcVI0T3ZCTzg5VkR4dDNXUTZkbVI3bnpZUjhYWTBmVzRMZUVFZlRZR2h6SGtfbm1lVEI3Q3dFSVdzUExaWWdxbGx3YURIODVuMFlaSEkzSnRIeEQxcjlzNUU4MnRnRDBmZWNOc2tncGJwMElYZC1xQkpUZXRUc0tzTGhCZTJ1bW1QNXN2Ym1aNUIza1MzMHNEVmVQNjZIZjk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-06 17:35:50"
@@ -944,16 +986,6 @@
       "title": "中國苦茶籽變台灣100%！張嘉郡喊修法：別再讓「洗產地」騙過全民 - NOWnews今日新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1d1haQUdRd005dy16eHlEWEZvam5SNDlXOHljelZGdklUVnEwcHQ1ZXFST05xUXlSMnVpYml3R2V0emRjbVJNQzZhcWFEV09xOHfSAVJBVV95cUxQdXdYWkFHUXdNOXctenh5RFhGb2puUjQ5Vzh5Y3pWRnZJVFZxMHB0NWVxUk9OcVF5UjJ1aWJpd0dldHpkY21STUM2YXFhRFdPcTh3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-06 10:49:13"
-    },
-    {
-      "title": "討論牆 | 杜絕洗產地疑慮 張嘉郡堅持農產原料「標示原產國」入法 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JdUtoLVJOdVJ0R1FVMGFjXzY3SnNnM1lTVjJHVWEzMWNxVV94NjVtNmVwSkpDNVhPWXFyWDFQSkpEc1lybk10RzY1SlJHYkZmaF9Sc2UwWjJweDNTeW5TRlB3QTE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-05 23:54:34"
-    },
-    {
-      "title": "杜絕洗產地疑慮　張嘉郡堅持農產原料「標示原產國」入法 - 鏡週刊Mirror Media",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00a2pVaW1jalcwZW9oeWpXNmNjbTBocE5WV054MkVTa2VvbXp6LTJvd1JHWm84N3UyUVFZYjNBXzhKOHlVU281SEwtMDkwaGtFTlhhc09rNE5JejdtMkp4dlYtaFVPd9IBa0FVX3lxTFAyclZuV3RMZjhNLUViMndPNnBJOTdDVUlIQjFON2tseU5UZ25pOHhKLTNpMXhCdkpXbXYwSXRFMDRrbU1pSG1ELVh6TjdTc05KaFk0OTBHV25RdHJRcGdteUZXNlR0NVNTMk53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-05 22:45:00"
     }
   ],
   "person_sections": {
@@ -1268,6 +1300,16 @@
       ],
       "news": [
         {
+          "title": "請益嘉義成功經驗 劉建國端三大政見打造「新雲林」 - 三星傳媒",
+          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQeXU2ZV8yRVZQQUZjSXByVGJjQjIwNDZMVXhZWVVzOTFXaXd6QVhhYVVtVUJTcDEteEltTllRQkxSazAxTzdwdTVKRkFTc0hsTEdabXhZWDZiSWZCcjYzUk9kN21KRnJkOVpGMF9Nd0F0OWZnMmlKNERuSjJNdEV5azMwczdsZ3Q4a0hCZnJzMlJFVkV2dTJNSlliNkpmOGt6ck9SaEJZc2JDZmhGOU9XcGhYUEw3eVJ1ejdkRGJKNHBwVjBfU3poX1VDbWxSMnBHRHlBZ2ZmcXpuMFRJa0NOTFVjVXhYN1NULTFVZHZUcG1SUE9hV2MxY0xoMExRVnhsTEYzS0l3OGducjJsM2dybkM1anpCakVMZDZSQkpvU3RITHFBc05NNzZFNzhUNDZQRlE1Y0FEU2JUMDhoNjJhMVg3NXlvel8tTFhUNzFiemRRdC15VU9XUTZScUtTUE9kUmw0ajY2amd5emU4bWpaalBqVHlmVEptTnk2MllXckU0aTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-06 19:55:41"
+        },
+        {
+          "title": "劉建國嘉義請益 借鏡嘉義縣經驗提智慧農業及無人機等政見 | 中華日報 - today.line.me",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3WkphNWcySXdnZVp4Y1ZyQmdOLU4tOWh6X1AxMlFRaHZnWWhaa3QwMGlqWm5ERmpkb09VQVgtc19WeXZUbWlsSFFyVFNuVjluWkluSXVB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-06 17:49:16"
+        },
+        {
           "title": "劉建國嘉義請益 借鏡嘉義縣經驗提智慧農業及無人機等政見 - tw.news.yahoo.com",
           "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQY0NnTktjV08ta24taklZRGNYYXRqQndpU3VGazlRSHRPc3hFcTkxRlJGODI4Q2xEOE5fMC1KUkY2TlVrSE1WRWxGNEhhb1FUU1o5ZDc0RGNKRG01N19NWkxITE8xZlpjU2Z1Rm1XemoxcGxvYnZhMklaVDBrZTM5eGpyWmQzRjY2ZXlnSE1rODZVVjNtVUFrOUtrTE5MZHFsMHNzalJtX2FJeWpxTTIxZHUwbWhlSC1XLUZpcTN2Zms1cFZjUkkwb1NFYVlsOVdObWd0a3NPM2JPX0xSNDMxWWdBSndQV3BjZ3ExMWNSeV9vbzFLcVI0T3ZCTzg5VkR4dDNXUTZkbVI3bnpZUjhYWTBmVzRMZUVFZlRZR2h6SGtfbm1lVEI3Q3dFSVdzUExaWWdxbGx3YURIODVuMFlaSEkzSnRIeEQxcjlzNUU4MnRnRDBmZWNOc2tncGJwMElYZC1xQkpUZXRUc0tzTGhCZTJ1bW1QNXN2Ym1aNUIza1MzMHNEVmVQNjZIZjk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-06 17:35:50"
@@ -1356,22 +1398,22 @@
           "title": "蔡英文卸任後再度重返雲林 不是回憶政績，而是為劉建國為雲林打拚留下最好註腳 - 波新聞",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94dzEtaWVKRkdsUE01NFpSNE5jY2pfQnNHNDBFNGdSYnAxOUFKb0tGQVBJV2M1aGgtVHRvREdWOWU5dW9odW5YZVp1NjVGLTB0VUxvWGpGczE4Z2VtaF9JN2Jfbw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-03 19:20:00"
-        },
-        {
-          "title": "蔡英文卸任後重返雲林 不是回憶政績，而是為劉建國的打拚留下最好註腳 - 波新聞",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByZUt6eWNlb0VYdEdWcDNhZC1YeXY0OEZhUWRrUVZBQ3pjcVpqR1hxLXVpM0pIeGRrN3NEd0JBeXp4VlFRVHNCc2Ewak5hVkZWT08tUzJLRERPaUVkWWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-03 19:20:00"
-        },
-        {
-          "title": "藍委再刪無人機預算 劉建國：在野黨好像只要見這三字就杯葛 - UDN",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5taUhUTGNDX1BIMkJoSlZfTnpGcmpYNUZTUGR4QzkxRDVIY1d2NTVaeEZEaS1RTVk3SW95MEtDc1hTYWhMbkNmN3BvdUlSa0FndWZXb2Rn0gFWQVVfeXFMTm1pSFRMY0NfUEgyQmhKVl9OekZyalg1RlNQZHhDOTFENUhjV3Y1NVp4RkRpLVFNWTdJb3kwS0NzWFNhaExuQ2Y3cG91SVJrQWd1ZldvZGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-03 17:50:43"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "請益嘉義成功經驗 劉建國端三大政見打造「新雲林」 - 三星傳媒",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQeXU2ZV8yRVZQQUZjSXByVGJjQjIwNDZMVXhZWVVzOTFXaXd6QVhhYVVtVUJTcDEteEltTllRQkxSazAxTzdwdTVKRkFTc0hsTEdabXhZWDZiSWZCcjYzUk9kN21KRnJkOVpGMF9Nd0F0OWZnMmlKNERuSjJNdEV5azMwczdsZ3Q4a0hCZnJzMlJFVkV2dTJNSlliNkpmOGt6ck9SaEJZc2JDZmhGOU9XcGhYUEw3eVJ1ejdkRGJKNHBwVjBfU3poX1VDbWxSMnBHRHlBZ2ZmcXpuMFRJa0NOTFVjVXhYN1NULTFVZHZUcG1SUE9hV2MxY0xoMExRVnhsTEYzS0l3OGducjJsM2dybkM1anpCakVMZDZSQkpvU3RITHFBc05NNzZFNzhUNDZQRlE1Y0FEU2JUMDhoNjJhMVg3NXlvel8tTFhUNzFiemRRdC15VU9XUTZScUtTUE9kUmw0ajY2amd5emU4bWpaalBqVHlmVEptTnk2MllXckU0aTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-06 19:55:41"
+      },
+      {
+        "title": "劉建國嘉義請益 借鏡嘉義縣經驗提智慧農業及無人機等政見 | 中華日報 - today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3WkphNWcySXdnZVp4Y1ZyQmdOLU4tOWh6X1AxMlFRaHZnWWhaa3QwMGlqWm5ERmpkb09VQVgtc19WeXZUbWlsSFFyVFNuVjluWkluSXVB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-06 17:49:16"
+      },
       {
         "title": "劉建國嘉義請益 借鏡嘉義縣經驗提智慧農業及無人機等政見 - tw.news.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQY0NnTktjV08ta24taklZRGNYYXRqQndpU3VGazlRSHRPc3hFcTkxRlJGODI4Q2xEOE5fMC1KUkY2TlVrSE1WRWxGNEhhb1FUU1o5ZDc0RGNKRG01N19NWkxITE8xZlpjU2Z1Rm1XemoxcGxvYnZhMklaVDBrZTM5eGpyWmQzRjY2ZXlnSE1rODZVVjNtVUFrOUtrTE5MZHFsMHNzalJtX2FJeWpxTTIxZHUwbWhlSC1XLUZpcTN2Zms1cFZjUkkwb1NFYVlsOVdObWd0a3NPM2JPX0xSNDMxWWdBSndQV3BjZ3ExMWNSeV9vbzFLcVI0T3ZCTzg5VkR4dDNXUTZkbVI3bnpZUjhYWTBmVzRMZUVFZlRZR2h6SGtfbm1lVEI3Q3dFSVdzUExaWWdxbGx3YURIODVuMFlaSEkzSnRIeEQxcjlzNUU4MnRnRDBmZWNOc2tncGJwMElYZC1xQkpUZXRUc0tzTGhCZTJ1bW1QNXN2Ym1aNUIza1MzMHNEVmVQNjZIZjk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1499,10 +1541,27 @@
         "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxNMFh0QmFRQTdiRUlDdGhta1FFamhqR0hBU0N4cmZBUEFBLXVEUFNCclY1LUphX0gxR252LUZSS2h1Uno2a1J1SEF2a3YycjhERWZISnNmWENUZGZTTVE0ZGZiX01uSV9PcHhNajVBUlluUDJ4QUFiRGlkT1cyY0tPRlBOMGllUVNVUnhWUEJvaDBRVDRza29ScVhLZURBY3Bpb1ZNVEExc3licC13cjN2cFBseEJfc00zdHFmbjhUanE1bE9WWWpBcWtmdXhQdDFrdkZSSEdkT3VyRTFBZzZqQ2h3cW5BMlFtN2JUbUxkVEpmQU9faEw5U3E2bTdNRFBLblNuS3dpbV9zLWFvRWxLcnBOeDdEQ2tZLU1WOWZmVEluSFFwUlh3WWdFc3hoS01Ed3ZKNjVacUpyNWw1a0djZ0ZkN19zZjI4dm9sYktYSEg2VEZxTkxGdnFfbnNyb0pROUpiemp2TkhXR0hlLTZTakFrd0pHdzJUUWJNbG1iZjVWbEJRczhxMGpodXl1YVE3THNHTjNtdzZzM0huOW44cUhkOEg2NDdmcVc0Y2p1c093b2loUTNWOHpZQVFhSGJXbFJvVWdac1RWTHBBUlp5TVo2ZkJvaS1oLXB1Y21UaTJ3N2I2cWFWeU9YOWNNTWFNYnBaTzJCLU9KVlN3U0NJZkZYYWZjakxka0N0aWo3YUVfVDAyOWVrV2hjcndtWnpJc0tkZWM4QUFqVjlRbHZB",
         "time": "2026-08-05 21:50:24"
       }
+    ],
+    "youtube": [
+      {
+        "title": "#公視是全體國民的公視！呼籲勿刪凍公視預算的文化人發起連署，64小時內就有10萬人響應。公視預算約二十億，藍白提案加起來刪凍近十億，會讓公視無法好好運作。希望藍白能聽到這些對台灣文化的呼聲，手下留情！",
+        "url": "https://www.youtube.com/shorts/oQ0aXMDX8yk",
+        "time": "2026-08-06 19:39:47"
+      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "請益嘉義成功經驗 劉建國端三大政見打造「新雲林」 - 三星傳媒",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQeXU2ZV8yRVZQQUZjSXByVGJjQjIwNDZMVXhZWVVzOTFXaXd6QVhhYVVtVUJTcDEteEltTllRQkxSazAxTzdwdTVKRkFTc0hsTEdabXhZWDZiSWZCcjYzUk9kN21KRnJkOVpGMF9Nd0F0OWZnMmlKNERuSjJNdEV5azMwczdsZ3Q4a0hCZnJzMlJFVkV2dTJNSlliNkpmOGt6ck9SaEJZc2JDZmhGOU9XcGhYUEw3eVJ1ejdkRGJKNHBwVjBfU3poX1VDbWxSMnBHRHlBZ2ZmcXpuMFRJa0NOTFVjVXhYN1NULTFVZHZUcG1SUE9hV2MxY0xoMExRVnhsTEYzS0l3OGducjJsM2dybkM1anpCakVMZDZSQkpvU3RITHFBc05NNzZFNzhUNDZQRlE1Y0FEU2JUMDhoNjJhMVg3NXlvel8tTFhUNzFiemRRdC15VU9XUTZScUtTUE9kUmw0ajY2amd5emU4bWpaalBqVHlmVEptTnk2MllXckU0aTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-06 19:55:41"
+      },
+      {
+        "title": "劉建國嘉義請益 借鏡嘉義縣經驗提智慧農業及無人機等政見 | 中華日報 - today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3WkphNWcySXdnZVp4Y1ZyQmdOLU4tOWh6X1AxMlFRaHZnWWhaa3QwMGlqWm5ERmpkb09VQVgtc19WeXZUbWlsSFFyVFNuVjluWkluSXVB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-06 17:49:16"
+      },
       {
         "title": "劉建國嘉義請益 借鏡嘉義縣經驗提智慧農業及無人機等政見 - tw.news.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQY0NnTktjV08ta24taklZRGNYYXRqQndpU3VGazlRSHRPc3hFcTkxRlJGODI4Q2xEOE5fMC1KUkY2TlVrSE1WRWxGNEhhb1FUU1o5ZDc0RGNKRG01N19NWkxITE8xZlpjU2Z1Rm1XemoxcGxvYnZhMklaVDBrZTM5eGpyWmQzRjY2ZXlnSE1rODZVVjNtVUFrOUtrTE5MZHFsMHNzalJtX2FJeWpxTTIxZHUwbWhlSC1XLUZpcTN2Zms1cFZjUkkwb1NFYVlsOVdObWd0a3NPM2JPX0xSNDMxWWdBSndQV3BjZ3ExMWNSeV9vbzFLcVI0T3ZCTzg5VkR4dDNXUTZkbVI3bnpZUjhYWTBmVzRMZUVFZlRZR2h6SGtfbm1lVEI3Q3dFSVdzUExaWWdxbGx3YURIODVuMFlaSEkzSnRIeEQxcjlzNUU4MnRnRDBmZWNOc2tncGJwMElYZC1xQkpUZXRUc0tzTGhCZTJ1bW1QNXN2Ym1aNUIza1MzMHNEVmVQNjZIZjk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1692,16 +1751,6 @@
         "title": "蔡英文卸任後重返雲林 不是回憶政績，而是為劉建國的打拚留下最好註腳 - 波新聞",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByZUt6eWNlb0VYdEdWcDNhZC1YeXY0OEZhUWRrUVZBQ3pjcVpqR1hxLXVpM0pIeGRrN3NEd0JBeXp4VlFRVHNCc2Ewak5hVkZWT08tUzJLRERPaUVkWWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-03 19:20:00"
-      },
-      {
-        "title": "藍委再刪無人機預算 劉建國：在野黨好像只要見這三字就杯葛 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5taUhUTGNDX1BIMkJoSlZfTnpGcmpYNUZTUGR4QzkxRDVIY1d2NTVaeEZEaS1RTVk3SW95MEtDc1hTYWhMbkNmN3BvdUlSa0FndWZXb2Rn0gFWQVVfeXFMTm1pSFRMY0NfUEgyQmhKVl9OekZyalg1RlNQZHhDOTFENUhjV3Y1NVp4RkRpLVFNWTdJb3kwS0NzWFNhaExuQ2Y3cG91SVJrQWd1ZldvZGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-03 17:50:43"
-      },
-      {
-        "title": "藍委再刪無人機預算劉建國：在野黨好像只要見這三字就杯葛| 2026九合一選舉 - udn.com",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04SE5qajYtNXAybDBLc0VqTU1VNDI4d3NqTU9VNzlscWZ1ZTcxQkFDakhLaWFJR2p3Ti1MalZ2dzB4NDduclQ0WmZQNzNVZ2x5R1BjaW13?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-03 17:50:43"
       }
     ],
     "facebook": [
@@ -1823,6 +1872,11 @@
     ],
     "youtube": [
       {
+        "title": "#公視是全體國民的公視！呼籲勿刪凍公視預算的文化人發起連署，64小時內就有10萬人響應。公視預算約二十億，藍白提案加起來刪凍近十億，會讓公視無法好好運作。希望藍白能聽到這些對台灣文化的呼聲，手下留情！",
+        "url": "https://www.youtube.com/shorts/oQ0aXMDX8yk",
+        "time": "2026-08-06 19:39:47"
+      },
+      {
         "title": "台北順起來🧡 Future, soon. ❤️  沈伯洋競選主視覺公開全記錄——",
         "url": "https://www.youtube.com/shorts/qN4kk5dPLf4",
         "time": "2026-08-05 16:39:08"
@@ -1843,6 +1897,27 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "請益嘉義成功經驗 劉建國端三大政見打造「新雲林」 - 三星傳媒",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQeXU2ZV8yRVZQQUZjSXByVGJjQjIwNDZMVXhZWVVzOTFXaXd6QVhhYVVtVUJTcDEteEltTllRQkxSazAxTzdwdTVKRkFTc0hsTEdabXhZWDZiSWZCcjYzUk9kN21KRnJkOVpGMF9Nd0F0OWZnMmlKNERuSjJNdEV5azMwczdsZ3Q4a0hCZnJzMlJFVkV2dTJNSlliNkpmOGt6ck9SaEJZc2JDZmhGOU9XcGhYUEw3eVJ1ejdkRGJKNHBwVjBfU3poX1VDbWxSMnBHRHlBZ2ZmcXpuMFRJa0NOTFVjVXhYN1NULTFVZHZUcG1SUE9hV2MxY0xoMExRVnhsTEYzS0l3OGducjJsM2dybkM1anpCakVMZDZSQkpvU3RITHFBc05NNzZFNzhUNDZQRlE1Y0FEU2JUMDhoNjJhMVg3NXlvel8tTFhUNzFiemRRdC15VU9XUTZScUtTUE9kUmw0ajY2amd5emU4bWpaalBqVHlmVEptTnk2MllXckU0aTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-06 19:55:41",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "#公視是全體國民的公視！呼籲勿刪凍公視預算的文化人發起連署，64小時內就有10萬人響應。公視預算約二十億，藍白提案加起來刪凍近十億，會讓公視無法好好運作。希望藍白能聽到這些對台灣文化的呼聲，手下留情！",
+        "url": "https://www.youtube.com/shorts/oQ0aXMDX8yk",
+        "time": "2026-08-06 19:39:47",
+        "platform": "youtube",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國嘉義請益 借鏡嘉義縣經驗提智慧農業及無人機等政見 | 中華日報 - today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3WkphNWcySXdnZVp4Y1ZyQmdOLU4tOWh6X1AxMlFRaHZnWWhaa3QwMGlqWm5ERmpkb09VQVgtc19WeXZUbWlsSFFyVFNuVjluWkluSXVB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-06 17:49:16",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "劉建國嘉義請益 借鏡嘉義縣經驗提智慧農業及無人機等政見 - tw.news.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQY0NnTktjV08ta24taklZRGNYYXRqQndpU3VGazlRSHRPc3hFcTkxRlJGODI4Q2xEOE5fMC1KUkY2TlVrSE1WRWxGNEhhb1FUU1o5ZDc0RGNKRG01N19NWkxITE8xZlpjU2Z1Rm1XemoxcGxvYnZhMklaVDBrZTM5eGpyWmQzRjY2ZXlnSE1rODZVVjNtVUFrOUtrTE5MZHFsMHNzalJtX2FJeWpxTTIxZHUwbWhlSC1XLUZpcTN2Zms1cFZjUkkwb1NFYVlsOVdObWd0a3NPM2JPX0xSNDMxWWdBSndQV3BjZ3ExMWNSeV9vbzFLcVI0T3ZCTzg5VkR4dDNXUTZkbVI3bnpZUjhYWTBmVzRMZUVFZlRZR2h6SGtfbm1lVEI3Q3dFSVdzUExaWWdxbGx3YURIODVuMFlaSEkzSnRIeEQxcjlzNUU4MnRnRDBmZWNOc2tncGJwMElYZC1xQkpUZXRUc0tzTGhCZTJ1bW1QNXN2Ym1aNUIza1MzMHNEVmVQNjZIZjk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1961,27 +2036,6 @@
         "time": "2026-08-06 12:00:00",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "中國苦茶籽變台灣100%！張嘉郡喊杜絕洗產地 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQOU9xV1JfTF8yQnU5ZGh0SzhXZGU2NFMyOXNCdnFDSlZURFJ0dFhlanM2eUhoQ05VdWZmT2Q1YkNrbnBrTE5kZlh1b3diRDRhYVpZeThIVjdMRm1kSkpCek95YnFMSkVvSHRNa3MzMmlHajFqMHRiQlhkWGl3OFlUVkE2UFBHMkZwRUlGSXFab1hfTWxpNnc3a3pacEJ3U2pKcExKMkpXX3NjSGdsNDdsQzF1U2treXdmQy10Y3dQVHFlc01jTGhNdWRmYU5IUEotS3AtZDI1VTNUTTkzWVBva1diaWhKTzE4bnFkMlYzSmVseDJNWGhwQVFFU2lrN0RQQ09EaEMxbXcwaU1GZERFd2tMV2tOeHVEeEl3UUVYQjItZW1j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-06 11:04:37",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "中國苦茶籽變台灣100%！張嘉郡喊修法：別再讓「洗產地」騙過全民 - NOWnews今日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1d1haQUdRd005dy16eHlEWEZvam5SNDlXOHljelZGdklUVnEwcHQ1ZXFST05xUXlSMnVpYml3R2V0emRjbVJNQzZhcWFEV09xOHfSAVJBVV95cUxQdXdYWkFHUXdNOXctenh5RFhGb2puUjQ5Vzh5Y3pWRnZJVFZxMHB0NWVxUk9OcVF5UjJ1aWJpd0dldHpkY21STUM2YXFhRFdPcTh3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-06 10:49:13",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "在目前食安法下，國外原料在台灣加工後就可標示為 #台灣製造。 因此，#上下游文化基金會 與眾多的公民團體推動「透明餐桌」運動，希望透過修法，讓民眾能清楚知道，每一項加工食品的原料到底是從哪來的。 建國也響應團體的呼籲，正式提案修法《食品安全衛生管理 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMimwhBVV95cUxQcHNLYVA2WlJNOXUyWF9hOXctM0UtbW5KVGNYXy1QQk9hbVhYSVRXWVoza1BQS3c4NndkTGFMYjhvbWNUUk11U3pGODhtOGpNS2w4aFc4ZXJZN0Fqb05QM1JnbnVtRll5SV9Zd2pIZnBGZVRYSnlfQ2tRRU1nYld4VGJPMkRIdC1wSGhZTnBHXzNvWWZoRG5zRUUzakhBX1daZjlQMndsUHB2TVI4ZUxzTmE2VFhQTm5EQk4xamw1YTlrU2YtWERKOUdVUHF4TmhxZWRKYktBZ2o1RERLOUp6dXhBbjNMcWNJSFYxQXE5RlJDMkZjMmRPd1k3ZjlLNkljcnBObUFDYkk4eHdjQjIxRGxxNjlRR24wb240VkJLMnZOUVZpZ3dod2s3TC1QbFpZYi0yNmhvTnhmbFR6M09uQkJJaUUtSUlEbGF1UWZEN3ZpU0xPVjMwOXJsR0h0TmlGc1djOWtLRTNEak1JNmhLVnNQek5yQmRHQlZDSFNsTWFOcE1KeEFHT1pVckRrRzJ1WXBRdDlIX3B6RnZOSFFhR0ZOaU1kQ1lRUFNCRTR3ci1IQ3o3dlZEYlZuVVMzQnUyMkxXc1FsTXFiNXFwZXloUUdhMkZNXzVybFo1V3hxMXgzRWhiN0FYeWx0QXMtM0ItNy0tUkhEa1V3dElCaElKdmZxRHVkWXE2N1dpeUVHdS04czZvRHk4VzFpeHpuMllQbERRa3dVTVByQnJFcWFNNWpQaEt0c0dGMjdoSGZwVzl2T0lITXoxc3UzT05Cai04UmtqNVdENTlzVFpYdmdyVDU5eGRxLWVBcG1fTHV0YVJMbDV1Zm5RWkpkVzlobXlOWFBRWXZ1Q2xMOXVRNzA0UTgwMEdCcWVyYVpETFk2SzJzUjREV2hwck16OWlTLUhHUEg5b1RUQVhZdFFRVWt3NVVkN0Q4ekxfWUJiZkFVcy1Rak0wZ2RGdm9ySkxROEhPUFVhUnJKVGxGUlZDM3JTNzlJaEZmRmNDUUlCa25qT1VndmdTZ2V4ckNMTHhGQm82ZE5SZ3Qtd1UxZFBPTDVCUDFGMHdUUzVyaFJUZU5RUHV0OC00NWNqQjYyTGI1LVZ2SzNTd01oYi11clVNZ2FYNFNKaXhWVlBIeW5VVTktNk9EUVFpRTdhM3FnRDVVUWZTZWVieHg5MWt0WE1QdUt4WWs5ank3SzVXR2FadHFveUFaR1NrZ1JoQzkzQlB0c0FSdmRZcU8xUFpYWmV1WVhFS3gtWlAxMy1mN0xnbDVkOWh1cHhuVE0yZW1BLTl1Z3p3UVdqTzdQM3doSDlWampQZm1VY0NOVlRmdlV4TjlCNl9vcHdWTl9tOThxRDlrUkxQVi1LXzJ4b3paMkZQLUg4ZmhjUXBHZUFxVFQ0",
-        "time": "2026-08-06 10:30:21",
-        "platform": "facebook",
-        "risk": "綠"
       }
     ]
   },
@@ -1989,13 +2043,13 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 8
+        "count": 9
       }
     ],
     "groups": [
       {
         "name": "農業族群",
-        "count": 4
+        "count": 5
       },
       {
         "name": "工地/營造",
