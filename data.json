@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-08-06T21:43:07.146048+00:00",
+  "generated_at": "2026-08-06T21:58:40.271756+00:00",
   "metrics": {
-    "total_24h": 32,
+    "total_24h": 33,
     "prev_24h": 20,
-    "growth_pct": 60.0,
-    "news_24h": 28,
+    "growth_pct": 65.0,
+    "news_24h": 29,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 132,
+    "total": 133,
     "prev": 143,
-    "growth_pct": -7.69,
-    "news": 106,
+    "growth_pct": -6.99,
+    "news": 107,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 28
+      "count": 29
     },
     {
       "platform": "facebook",
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 106
+      "count": 107
     },
     {
       "platform": "facebook",
@@ -96,6 +96,10 @@
     },
     {
       "hour": "2026-08-06 22:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-08-07 03:00",
       "count": 1
     }
   ],
@@ -311,12 +315,16 @@
     {
       "hour": "2026-08-06 22:00",
       "count": 1
+    },
+    {
+      "hour": "2026-08-07 03:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 28
+      "count": 29
     },
     {
       "platform": "facebook",
@@ -325,6 +333,11 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "雲林縣長參選人劉建國請益之旅到嘉義借鏡嘉義縣經驗提三大政見劉建國：嘉義做得到雲林一定做得到！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83NEpoVUxoUEk2TXlQZVRmbFUzQmg2UXd0R21BOEExWjQ1LVJaOFAtOWJrc3FuNW9Id3FFMHk5N2N0dUNYSk5IblhvQll5QjVkaHhDM0NqNThBM1NMUUdGSDNjYWk2N3R0TmJUVHd0M09Vd204Vk51b1dZS3k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-07 03:00:16"
+      },
       {
         "title": "戳破張家民調神話！五連霸立委劉建國秀「兩大王牌」！拚四位一體打造新雲林【政面交鋒】 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc2tkMjE5UlVWVExjZDRoSFR4QVRwd3czN3VRQmJnc3puTkVsVnlWQVN4c2RGRFlaLWp4b0NUeUozQ1FBSmV2TFZiNWN4d05EMjRvNFhfcjdFX0JxcGpOaWhoN0V5MC0yMUZBQW1POGFXUEdLcTd0LUhaUF9DUHIxZ0dlbjVndw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -477,7 +490,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 28
+      "count": 29
     },
     {
       "platform": "facebook",
@@ -486,6 +499,11 @@
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "雲林縣長參選人劉建國請益之旅到嘉義借鏡嘉義縣經驗提三大政見劉建國：嘉義做得到雲林一定做得到！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83NEpoVUxoUEk2TXlQZVRmbFUzQmg2UXd0R21BOEExWjQ1LVJaOFAtOWJrc3FuNW9Id3FFMHk5N2N0dUNYSk5IblhvQll5QjVkaHhDM0NqNThBM1NMUUdGSDNjYWk2N3R0TmJUVHd0M09Vd204Vk51b1dZS3k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-07 03:00:16"
+      },
       {
         "title": "戳破張家民調神話！五連霸立委劉建國秀「兩大王牌」！拚四位一體打造新雲林【政面交鋒】 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc2tkMjE5UlVWVExjZDRoSFR4QVRwd3czN3VRQmJnc3puTkVsVnlWQVN4c2RGRFlaLWp4b0NUeUozQ1FBSmV2TFZiNWN4d05EMjRvNFhfcjdFX0JxcGpOaWhoN0V5MC0yMUZBQW1POGFXUEdLcTd0LUhaUF9DUHIxZ0dlbjVndw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -642,13 +660,18 @@
   },
   "mention_compare_24h": {
     "張嘉郡": 6,
-    "劉建國": 23
+    "劉建國": 24
   },
   "mention_compare_7d": {
     "張嘉郡": 50,
-    "劉建國": 71
+    "劉建國": 72
   },
   "top_news": [
+    {
+      "title": "雲林縣長參選人劉建國請益之旅到嘉義借鏡嘉義縣經驗提三大政見劉建國：嘉義做得到雲林一定做得到！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83NEpoVUxoUEk2TXlQZVRmbFUzQmg2UXd0R21BOEExWjQ1LVJaOFAtOWJrc3FuNW9Id3FFMHk5N2N0dUNYSk5IblhvQll5QjVkaHhDM0NqNThBM1NMUUdGSDNjYWk2N3R0TmJUVHd0M09Vd204Vk51b1dZS3k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-07 03:00:16"
+    },
     {
       "title": "戳破張家民調神話！五連霸立委劉建國秀「兩大王牌」！拚四位一體打造新雲林【政面交鋒】 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc2tkMjE5UlVWVExjZDRoSFR4QVRwd3czN3VRQmJnc3puTkVsVnlWQVN4c2RGRFlaLWp4b0NUeUozQ1FBSmV2TFZiNWN4d05EMjRvNFhfcjdFX0JxcGpOaWhoN0V5MC0yMUZBQW1POGFXUEdLcTd0LUhaUF9DUHIxZ0dlbjVndw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -703,14 +726,14 @@
       "title": "劉建國拚雲林縣長「請益之旅」 訪翁章梁談雲嘉整合 - 民視新聞網",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11aE9lZ3o4YmJLRlltY1hma1QwU0xTYmdWeWd4elNVZTBXeXo1SXVydjZkQlZxZ0pLRGdUUWVhSnJmV2hULXQ5WnB2U1V6d1NhZVZUbUdTZDBQTEpHa05ycw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-06 16:56:33"
-    },
-    {
-      "title": "雲林縣長參選人劉建國請益之旅到嘉義 提三大政見嘉義做得到，雲林一定做得到 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOclpfWEM5RVFPNkl1ckNSMWJwV0NtdFhmN241N3NiTl9tUzBTQy04bS1VLUN4ZkZ3WGNKTEFiMWNEYksyT0NVUzk3d1hrdmtwd0d6Vld2QndfVlhYRmpCMV9iMWQzZDJNS3E5c1hVNXd4OVlvRlk4UzJnbldUWV9nR2ZGb1VwY0JFMm1fR0hLNHN3MVNOM05zbHd6QTVyZ1VmX1BvWkxaYlpjWEYyR1ZvOWdMcjVkLU9RWERJV1oxQjhQN1ZsQ0lzb0tuYzgtWng0TjZ2S2luUjg0YXpNSXBJMlhFRnJ2SXhabHJkQlczVTBWV0hBOFRJdGFXZjZtYi1YMk5CMWhFZWhwaGNxU2g3dkxKWERWRmNKT29rUTVfOHNCbXZXU3Ewb01jSGxDVlVhd1J4TDB6ZEJOaWNxdGsxNmRaRERsR216MGpSd1dPaUUxNlkwQWZCV2FZM3NGU1o4c0hMb1JabUF5UmtvZWZmeVhtX2tnbF9xSjhpalZhQ002UWJhLVRfbi05YzV6UXBzMXFpUWplV0c5Z3FfdG5QbExaSmN0b3YzcUpjbHQ5d19JcFhWZFFyR1JlYjhIVXpkTkZ1dVdkb0lrSUJleDZrUU5hbEQ4Q0dlcTNaSkhPQnU0azg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-06 16:49:57"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "雲林縣長參選人劉建國請益之旅到嘉義借鏡嘉義縣經驗提三大政見劉建國：嘉義做得到雲林一定做得到！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83NEpoVUxoUEk2TXlQZVRmbFUzQmg2UXd0R21BOEExWjQ1LVJaOFAtOWJrc3FuNW9Id3FFMHk5N2N0dUNYSk5IblhvQll5QjVkaHhDM0NqNThBM1NMUUdGSDNjYWk2N3R0TmJUVHd0M09Vd204Vk51b1dZS3k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-07 03:00:16"
+    },
     {
       "title": "戳破張家民調神話！五連霸立委劉建國秀「兩大王牌」！拚四位一體打造新雲林【政面交鋒】 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc2tkMjE5UlVWVExjZDRoSFR4QVRwd3czN3VRQmJnc3puTkVsVnlWQVN4c2RGRFlaLWp4b0NUeUozQ1FBSmV2TFZiNWN4d05EMjRvNFhfcjdFX0JxcGpOaWhoN0V5MC0yMUZBQW1POGFXUEdLcTd0LUhaUF9DUHIxZ0dlbjVndw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -805,11 +828,6 @@
       "title": "參訪亞創中心 劉建國：雲嘉共創無人機產業廊帶 - 經濟日報",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZUlCeHFEanhRMElsT3c1YmdWc25jekVjT2NsVzBEalF6Rjk0dldzY0RlMEhmQlRCcEh3UklaNG54MW9WMkRqcnlvT0FBZWI1a0FYb2VWeERua2lQTzZUSTVVd0FmSC1QTUdEX0tHaDNzN1dFWTR4aFlTYWZ5bWhkbdIBX0FVX3lxTE5rcVJfZ05nV0VJcGhCMGpYamlzUktkcjdiN1NYcVg2SC10YWdnZUVGcEQ0UTlLVWNHbEtlZVNVdE0yYTlrWU8tRUZBcjYyaGV2eW8xbV8tMUJ6bVhGRXVZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-06 14:55:36"
-    },
-    {
-      "title": "訪嘉義縣成功經驗 劉建國提雲林推無人機、青創基地及AI農業園區 | 自由電子報 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0V21KMnk3WE5jdkxKN3l3bXc2MkpEZ3dYTnpqcmlUbU52MmtiMWpYd0Q4a3VSTlhJMnpvUUpnMEFaTmRRMjRRX05jVkJZMkJqR3FkVnJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-06 14:51:10"
     }
   ],
   "latest_facebook_20": [
@@ -916,6 +934,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "雲林縣長參選人劉建國請益之旅到嘉義借鏡嘉義縣經驗提三大政見劉建國：嘉義做得到雲林一定做得到！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83NEpoVUxoUEk2TXlQZVRmbFUzQmg2UXd0R21BOEExWjQ1LVJaOFAtOWJrc3FuNW9Id3FFMHk5N2N0dUNYSk5IblhvQll5QjVkaHhDM0NqNThBM1NMUUdGSDNjYWk2N3R0TmJUVHd0M09Vd204Vk51b1dZS3k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-07 03:00:16"
+    },
+    {
       "title": "戳破張家民調神話！五連霸立委劉建國秀「兩大王牌」！拚四位一體打造新雲林【政面交鋒】 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc2tkMjE5UlVWVExjZDRoSFR4QVRwd3czN3VRQmJnc3puTkVsVnlWQVN4c2RGRFlaLWp4b0NUeUozQ1FBSmV2TFZiNWN4d05EMjRvNFhfcjdFX0JxcGpOaWhoN0V5MC0yMUZBQW1POGFXUEdLcTd0LUhaUF9DUHIxZ0dlbjVndw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-06 22:44:00"
@@ -1009,11 +1032,6 @@
       "title": "參訪亞創中心 劉建國：雲嘉共創無人機產業廊帶 - 經濟日報",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZUlCeHFEanhRMElsT3c1YmdWc25jekVjT2NsVzBEalF6Rjk0dldzY0RlMEhmQlRCcEh3UklaNG54MW9WMkRqcnlvT0FBZWI1a0FYb2VWeERua2lQTzZUSTVVd0FmSC1QTUdEX0tHaDNzN1dFWTR4aFlTYWZ5bWhkbdIBX0FVX3lxTE5rcVJfZ05nV0VJcGhCMGpYamlzUktkcjdiN1NYcVg2SC10YWdnZUVGcEQ0UTlLVWNHbEtlZVNVdE0yYTlrWU8tRUZBcjYyaGV2eW8xbV8tMUJ6bVhGRXVZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-06 14:55:36"
-    },
-    {
-      "title": "訪嘉義縣成功經驗 劉建國提雲林推無人機、青創基地及AI農業園區 | 自由電子報 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0V21KMnk3WE5jdkxKN3l3bXc2MkpEZ3dYTnpqcmlUbU52MmtiMWpYd0Q4a3VSTlhJMnpvUUpnMEFaTmRRMjRRX05jVkJZMkJqR3FkVnJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-06 14:51:10"
     }
   ],
   "person_sections": {
@@ -1328,6 +1346,11 @@
       ],
       "news": [
         {
+          "title": "雲林縣長參選人劉建國請益之旅到嘉義借鏡嘉義縣經驗提三大政見劉建國：嘉義做得到雲林一定做得到！ - 台灣華報",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83NEpoVUxoUEk2TXlQZVRmbFUzQmg2UXd0R21BOEExWjQ1LVJaOFAtOWJrc3FuNW9Id3FFMHk5N2N0dUNYSk5IblhvQll5QjVkaHhDM0NqNThBM1NMUUdGSDNjYWk2N3R0TmJUVHd0M09Vd204Vk51b1dZS3k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-07 03:00:16"
+        },
+        {
           "title": "戳破張家民調神話！五連霸立委劉建國秀「兩大王牌」！拚四位一體打造新雲林【政面交鋒】 - 自由時報",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc2tkMjE5UlVWVExjZDRoSFR4QVRwd3czN3VRQmJnc3puTkVsVnlWQVN4c2RGRFlaLWp4b0NUeUozQ1FBSmV2TFZiNWN4d05EMjRvNFhfcjdFX0JxcGpOaWhoN0V5MC0yMUZBQW1POGFXUEdLcTd0LUhaUF9DUHIxZ0dlbjVndw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-06 22:44:00"
@@ -1421,17 +1444,17 @@
           "title": "參訪亞創中心 劉建國：雲嘉共創無人機產業廊帶 - 經濟日報",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZUlCeHFEanhRMElsT3c1YmdWc25jekVjT2NsVzBEalF6Rjk0dldzY0RlMEhmQlRCcEh3UklaNG54MW9WMkRqcnlvT0FBZWI1a0FYb2VWeERua2lQTzZUSTVVd0FmSC1QTUdEX0tHaDNzN1dFWTR4aFlTYWZ5bWhkbdIBX0FVX3lxTE5rcVJfZ05nV0VJcGhCMGpYamlzUktkcjdiN1NYcVg2SC10YWdnZUVGcEQ0UTlLVWNHbEtlZVNVdE0yYTlrWU8tRUZBcjYyaGV2eW8xbV8tMUJ6bVhGRXVZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-06 14:55:36"
-        },
-        {
-          "title": "訪嘉義縣成功經驗 劉建國提雲林推無人機、青創基地及AI農業園區 | 自由電子報 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0V21KMnk3WE5jdkxKN3l3bXc2MkpEZ3dYTnpqcmlUbU52MmtiMWpYd0Q4a3VSTlhJMnpvUUpnMEFaTmRRMjRRX05jVkJZMkJqR3FkVnJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-06 14:51:10"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "雲林縣長參選人劉建國請益之旅到嘉義借鏡嘉義縣經驗提三大政見劉建國：嘉義做得到雲林一定做得到！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83NEpoVUxoUEk2TXlQZVRmbFUzQmg2UXd0R21BOEExWjQ1LVJaOFAtOWJrc3FuNW9Id3FFMHk5N2N0dUNYSk5IblhvQll5QjVkaHhDM0NqNThBM1NMUUdGSDNjYWk2N3R0TmJUVHd0M09Vd204Vk51b1dZS3k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-07 03:00:16"
+      },
       {
         "title": "戳破張家民調神話！五連霸立委劉建國秀「兩大王牌」！拚四位一體打造新雲林【政面交鋒】 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc2tkMjE5UlVWVExjZDRoSFR4QVRwd3czN3VRQmJnc3puTkVsVnlWQVN4c2RGRFlaLWp4b0NUeUozQ1FBSmV2TFZiNWN4d05EMjRvNFhfcjdFX0JxcGpOaWhoN0V5MC0yMUZBQW1POGFXUEdLcTd0LUhaUF9DUHIxZ0dlbjVndw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1600,6 +1623,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "雲林縣長參選人劉建國請益之旅到嘉義借鏡嘉義縣經驗提三大政見劉建國：嘉義做得到雲林一定做得到！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83NEpoVUxoUEk2TXlQZVRmbFUzQmg2UXd0R21BOEExWjQ1LVJaOFAtOWJrc3FuNW9Id3FFMHk5N2N0dUNYSk5IblhvQll5QjVkaHhDM0NqNThBM1NMUUdGSDNjYWk2N3R0TmJUVHd0M09Vd204Vk51b1dZS3k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-07 03:00:16"
+      },
       {
         "title": "戳破張家民調神話！五連霸立委劉建國秀「兩大王牌」！拚四位一體打造新雲林【政面交鋒】 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc2tkMjE5UlVWVExjZDRoSFR4QVRwd3czN3VRQmJnc3puTkVsVnlWQVN4c2RGRFlaLWp4b0NUeUozQ1FBSmV2TFZiNWN4d05EMjRvNFhfcjdFX0JxcGpOaWhoN0V5MC0yMUZBQW1POGFXUEdLcTd0LUhaUF9DUHIxZ0dlbjVndw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1794,11 +1822,6 @@
         "title": "嚴防進口農產品洗產地 張嘉郡堅持「標示原產國」入《食安法》 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQdEN1M3pfbTh3cER5TVpnQjctcWw0ZEFvOURNNUhWTVd2Z2JKMDNFdUs2blFueHNQT2NQTG5YV1Y4d05VenA0TjJ1N1VmQkxJc3JnaE9ZZzZZbkpuRGExSFYzZkpObVdCdFU0dFoxV283WFVQZUVFVDZUc3pWRVM3RDkwd3hPTnUxTWk2dC1mNXZlS25YbDNBYXhubUkwSWM4Y2VncGNhMzdjbUhTWk5IRlRqcGppa0p3TTV2X0NJMG1SVFRac2pTVTFYMmtMZnBpRkFhNXJaTzJ5NDVsdk1IZF81bFJ0Ry1tVHVJcndJS1JfSGhOQ09xb1k1LTBlaDBNb2VuWFJIMHVaMnN0NjZtWXlGM1BhSWZQYURkbHNUaWdIYUw2a1NyUXBKcWRtLUhva29sdkdyNWV4anQ0ZFI0RDZyaVVrMWc2ZkQyZ0dDcXJKTU9VWlQ4dEtMa2JhdEZDQ3lfV1YyVGtBREZMaEVEMXpQcVl3ajd5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-05 18:02:14"
-      },
-      {
-        "title": "避免洗產地疑慮 張嘉郡堅持農產原料標示原產國需入法 | 夏和宣 | 地方新聞 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4VVZ5MFRWU2pWT18xVGFQOWNxZ1N4WVJhME5tTGt1QXpGbzRWWnZYY09reklkOThnbkVweEM0U0RoR0VYMl9LenFsOHotQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-05 18:01:41"
       }
     ],
     "facebook": [
@@ -1941,6 +1964,13 @@
     "hour": [],
     "day": [
       {
+        "title": "雲林縣長參選人劉建國請益之旅到嘉義借鏡嘉義縣經驗提三大政見劉建國：嘉義做得到雲林一定做得到！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83NEpoVUxoUEk2TXlQZVRmbFUzQmg2UXd0R21BOEExWjQ1LVJaOFAtOWJrc3FuNW9Id3FFMHk5N2N0dUNYSk5IblhvQll5QjVkaHhDM0NqNThBM1NMUUdGSDNjYWk2N3R0TmJUVHd0M09Vd204Vk51b1dZS3k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-07 03:00:16",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "戳破張家民調神話！五連霸立委劉建國秀「兩大王牌」！拚四位一體打造新雲林【政面交鋒】 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc2tkMjE5UlVWVExjZDRoSFR4QVRwd3czN3VRQmJnc3puTkVsVnlWQVN4c2RGRFlaLWp4b0NUeUozQ1FBSmV2TFZiNWN4d05EMjRvNFhfcjdFX0JxcGpOaWhoN0V5MC0yMUZBQW1POGFXUEdLcTd0LUhaUF9DUHIxZ0dlbjVndw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-06 22:44:00",
@@ -2072,13 +2102,6 @@
         "time": "2026-08-06 14:55:36",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "參訪亞創中心 劉建國：雲嘉共創無人機產業廊帶 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZUlCeHFEanhRMElsT3c1YmdWc25jekVjT2NsVzBEalF6Rjk0dldzY0RlMEhmQlRCcEh3UklaNG54MW9WMkRqcnlvT0FBZWI1a0FYb2VWeERua2lQTzZUSTVVd0FmSC1QTUdEX0tHaDNzN1dFWTR4aFlTYWZ5bWhkbdIBX0FVX3lxTE5rcVJfZ05nV0VJcGhCMGpYamlzUktkcjdiN1NYcVg2SC10YWdnZUVGcEQ0UTlLVWNHbEtlZVNVdE0yYTlrWU8tRUZBcjYyaGV2eW8xbV8tMUJ6bVhGRXVZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-06 14:55:36",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2086,7 +2109,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 15
+        "count": 16
       }
     ],
     "groups": [
