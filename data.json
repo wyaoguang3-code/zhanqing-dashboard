@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-08-11T06:12:39.548941+00:00",
+  "generated_at": "2026-08-11T06:30:39.247079+00:00",
   "metrics": {
-    "total_24h": 8,
+    "total_24h": 9,
     "prev_24h": 16,
-    "growth_pct": -50.0,
-    "news_24h": 7,
+    "growth_pct": -43.75,
+    "news_24h": 8,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 113,
+    "total": 114,
     "prev": 141,
-    "growth_pct": -19.86,
-    "news": 88,
+    "growth_pct": -19.15,
+    "news": 89,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 7
+      "count": 8
     },
     {
       "platform": "facebook",
@@ -38,7 +38,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 88
+      "count": 89
     },
     {
       "platform": "facebook",
@@ -68,6 +68,10 @@
     },
     {
       "hour": "2026-08-11 05:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-08-11 14:00",
       "count": 1
     }
   ],
@@ -303,16 +307,25 @@
     {
       "hour": "2026-08-11 05:00",
       "count": 1
+    },
+    {
+      "hour": "2026-08-11 14:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 7
+      "count": 8
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "矽品斗六擴廠動工 張嘉郡持續爭取科技廠進駐 讓雲林彎道超車 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPNFBwdy16VlVncEV3SjVzQ0pXTjVkbExUYVRhZW93bHc4czRzY1RPb1I2WDVnR0pUeER0S3BvdW0wVFBwSWtxeGZDRGdDLTI3OVJiS3hKYkJZTXpoM08tYi1tSmM2LW5jYmZydG5XNDhOc1g2RDBVY053Q2M2SHo5MU1uYTB1MXlKeEhOWFpJNEtYWm5mOW1hZjd0Wm5ob25ZYjFmZTM0VklxYXhRY0d6NDBqQ28yYTcxV0ItMjlyY1MzSkJfdlpWMkpFbmdibnBQdGVkRjlYMERIcTBJaHZiTjgzdmFIUkNGWk8zWmpuWXFOT2JsR3liVjVsQTVlM18xTnhfVS1rR3NwY1hSRDRHZ3hpOWVkR2F1U0plMUJBcC1fUUVyaXZuWjJmSWVZZE9YTFZGemVOcDByUnl3V3ZoWmtVWTFvM3VKS2J1clJ0eUROZ25jWXg1OEU1b0ZTNTg3UHNyTG5od2lYNnEtUThXcUxIM0lvbFFpdVZOTWxIQVQ4RGN2Q3I5VnpoSHJYZ2xfQXM0UXBvdWd2Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-11 14:13:15"
+      },
       {
         "title": "雲林跌破65萬人劉建國「四位一體」拚扭轉- 生活 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KUTdadUcyMWt2RHVVTndXU290eXBtWGZydEhEXzBrZ1RxT1VCbDhScmRONVJ4a3g3dDRPM19YLTRtYk9DTXFhMDZEdjI2OHVrMTVBWEtfUzNEYkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -353,11 +366,16 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 7
+      "count": 8
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "矽品斗六擴廠動工 張嘉郡持續爭取科技廠進駐 讓雲林彎道超車 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPNFBwdy16VlVncEV3SjVzQ0pXTjVkbExUYVRhZW93bHc4czRzY1RPb1I2WDVnR0pUeER0S3BvdW0wVFBwSWtxeGZDRGdDLTI3OVJiS3hKYkJZTXpoM08tYi1tSmM2LW5jYmZydG5XNDhOc1g2RDBVY053Q2M2SHo5MU1uYTB1MXlKeEhOWFpJNEtYWm5mOW1hZjd0Wm5ob25ZYjFmZTM0VklxYXhRY0d6NDBqQ28yYTcxV0ItMjlyY1MzSkJfdlpWMkpFbmdibnBQdGVkRjlYMERIcTBJaHZiTjgzdmFIUkNGWk8zWmpuWXFOT2JsR3liVjVsQTVlM18xTnhfVS1rR3NwY1hSRDRHZ3hpOWVkR2F1U0plMUJBcC1fUUVyaXZuWjJmSWVZZE9YTFZGemVOcDByUnl3V3ZoWmtVWTFvM3VKS2J1clJ0eUROZ25jWXg1OEU1b0ZTNTg3UHNyTG5od2lYNnEtUThXcUxIM0lvbFFpdVZOTWxIQVQ4RGN2Q3I5VnpoSHJYZ2xfQXM0UXBvdWd2Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-11 14:13:15"
+      },
       {
         "title": "雲林跌破65萬人劉建國「四位一體」拚扭轉- 生活 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KUTdadUcyMWt2RHVVTndXU290eXBtWGZydEhEXzBrZ1RxT1VCbDhScmRONVJ4a3g3dDRPM19YLTRtYk9DTXFhMDZEdjI2OHVrMTVBWEtfUzNEYkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -396,14 +414,19 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 0,
+    "張嘉郡": 1,
     "劉建國": 7
   },
   "mention_compare_7d": {
-    "張嘉郡": 27,
+    "張嘉郡": 28,
     "劉建國": 73
   },
   "top_news": [
+    {
+      "title": "矽品斗六擴廠動工 張嘉郡持續爭取科技廠進駐 讓雲林彎道超車 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPNFBwdy16VlVncEV3SjVzQ0pXTjVkbExUYVRhZW93bHc4czRzY1RPb1I2WDVnR0pUeER0S3BvdW0wVFBwSWtxeGZDRGdDLTI3OVJiS3hKYkJZTXpoM08tYi1tSmM2LW5jYmZydG5XNDhOc1g2RDBVY053Q2M2SHo5MU1uYTB1MXlKeEhOWFpJNEtYWm5mOW1hZjd0Wm5ob25ZYjFmZTM0VklxYXhRY0d6NDBqQ28yYTcxV0ItMjlyY1MzSkJfdlpWMkpFbmdibnBQdGVkRjlYMERIcTBJaHZiTjgzdmFIUkNGWk8zWmpuWXFOT2JsR3liVjVsQTVlM18xTnhfVS1rR3NwY1hSRDRHZ3hpOWVkR2F1U0plMUJBcC1fUUVyaXZuWjJmSWVZZE9YTFZGemVOcDByUnl3V3ZoWmtVWTFvM3VKS2J1clJ0eUROZ25jWXg1OEU1b0ZTNTg3UHNyTG5od2lYNnEtUThXcUxIM0lvbFFpdVZOTWxIQVQ4RGN2Q3I5VnpoSHJYZ2xfQXM0UXBvdWd2Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-11 14:13:15"
+    },
     {
       "title": "雲林跌破65萬人劉建國「四位一體」拚扭轉- 生活 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KUTdadUcyMWt2RHVVTndXU290eXBtWGZydEhEXzBrZ1RxT1VCbDhScmRONVJ4a3g3dDRPM19YLTRtYk9DTXFhMDZEdjI2OHVrMTVBWEtfUzNEYkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -441,6 +464,11 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "矽品斗六擴廠動工 張嘉郡持續爭取科技廠進駐 讓雲林彎道超車 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPNFBwdy16VlVncEV3SjVzQ0pXTjVkbExUYVRhZW93bHc4czRzY1RPb1I2WDVnR0pUeER0S3BvdW0wVFBwSWtxeGZDRGdDLTI3OVJiS3hKYkJZTXpoM08tYi1tSmM2LW5jYmZydG5XNDhOc1g2RDBVY053Q2M2SHo5MU1uYTB1MXlKeEhOWFpJNEtYWm5mOW1hZjd0Wm5ob25ZYjFmZTM0VklxYXhRY0d6NDBqQ28yYTcxV0ItMjlyY1MzSkJfdlpWMkpFbmdibnBQdGVkRjlYMERIcTBJaHZiTjgzdmFIUkNGWk8zWmpuWXFOT2JsR3liVjVsQTVlM18xTnhfVS1rR3NwY1hSRDRHZ3hpOWVkR2F1U0plMUJBcC1fUUVyaXZuWjJmSWVZZE9YTFZGemVOcDByUnl3V3ZoWmtVWTFvM3VKS2J1clJ0eUROZ25jWXg1OEU1b0ZTNTg3UHNyTG5od2lYNnEtUThXcUxIM0lvbFFpdVZOTWxIQVQ4RGN2Q3I5VnpoSHJYZ2xfQXM0UXBvdWd2Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-11 14:13:15"
+    },
     {
       "title": "雲林跌破65萬人劉建國「四位一體」拚扭轉- 生活 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KUTdadUcyMWt2RHVVTndXU290eXBtWGZydEhEXzBrZ1RxT1VCbDhScmRONVJ4a3g3dDRPM19YLTRtYk9DTXFhMDZEdjI2OHVrMTVBWEtfUzNEYkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -535,11 +563,6 @@
       "title": "教育文化盃全國圍棋公開賽首度移師林內 劉建國：讓圍棋文化向下扎根、走進地方 - PChome Online 股市",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTjNuM0VrUXZMRjJaMVg1ajFabk1qRUU4OVFuSDJ3S1diZ2g3V1pQV1VZTFU0T1dIck9lNHBVaUdlbjgtS21YREZLcVZ1cWRhSGJHOXhXcHljR192UmU3QkJybnFwclc0eE5JMW01cWlUbkhPMzRuRkRqRXY5cGdoeQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-09 15:40:37"
-    },
-    {
-      "title": "劉建國走訪麥寮海豐社區 參加「海味共饗千歲慶市集」與民眾同樂親手做文蛤焗烤飯 - 台灣新聞雲",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9jejh5ckxjWEZnTEU0RGYtYm1rVzZRVHpyV3pyVENlLUFMbFgyWkxzNnlEcUI0QUZObkhLdzlMSTM5WGkxVnNV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-09 09:28:26"
     }
   ],
   "latest_facebook_20": [
@@ -646,6 +669,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "矽品斗六擴廠動工 張嘉郡持續爭取科技廠進駐 讓雲林彎道超車 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPNFBwdy16VlVncEV3SjVzQ0pXTjVkbExUYVRhZW93bHc4czRzY1RPb1I2WDVnR0pUeER0S3BvdW0wVFBwSWtxeGZDRGdDLTI3OVJiS3hKYkJZTXpoM08tYi1tSmM2LW5jYmZydG5XNDhOc1g2RDBVY053Q2M2SHo5MU1uYTB1MXlKeEhOWFpJNEtYWm5mOW1hZjd0Wm5ob25ZYjFmZTM0VklxYXhRY0d6NDBqQ28yYTcxV0ItMjlyY1MzSkJfdlpWMkpFbmdibnBQdGVkRjlYMERIcTBJaHZiTjgzdmFIUkNGWk8zWmpuWXFOT2JsR3liVjVsQTVlM18xTnhfVS1rR3NwY1hSRDRHZ3hpOWVkR2F1U0plMUJBcC1fUUVyaXZuWjJmSWVZZE9YTFZGemVOcDByUnl3V3ZoWmtVWTFvM3VKS2J1clJ0eUROZ25jWXg1OEU1b0ZTNTg3UHNyTG5od2lYNnEtUThXcUxIM0lvbFFpdVZOTWxIQVQ4RGN2Q3I5VnpoSHJYZ2xfQXM0UXBvdWd2Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-11 14:13:15"
+    },
+    {
       "title": "雲林跌破65萬人劉建國「四位一體」拚扭轉- 生活 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KUTdadUcyMWt2RHVVTndXU290eXBtWGZydEhEXzBrZ1RxT1VCbDhScmRONVJ4a3g3dDRPM19YLTRtYk9DTXFhMDZEdjI2OHVrMTVBWEtfUzNEYkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-11 05:30:00"
@@ -739,11 +767,6 @@
       "title": "教育文化盃全國圍棋公開賽首度移師林內 劉建國：讓圍棋文化向下扎根、走進地方 - PChome Online 股市",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTjNuM0VrUXZMRjJaMVg1ajFabk1qRUU4OVFuSDJ3S1diZ2g3V1pQV1VZTFU0T1dIck9lNHBVaUdlbjgtS21YREZLcVZ1cWRhSGJHOXhXcHljR192UmU3QkJybnFwclc0eE5JMW01cWlUbkhPMzRuRkRqRXY5cGdoeQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-09 15:40:37"
-    },
-    {
-      "title": "劉建國走訪麥寮海豐社區 參加「海味共饗千歲慶市集」與民眾同樂親手做文蛤焗烤飯 - 台灣新聞雲",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9jejh5ckxjWEZnTEU0RGYtYm1rVzZRVHpyV3pyVENlLUFMbFgyWkxzNnlEcUI0QUZObkhLdzlMSTM5WGkxVnNV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-09 09:28:26"
     }
   ],
   "person_sections": {
@@ -852,6 +875,11 @@
       ],
       "news": [
         {
+          "title": "矽品斗六擴廠動工 張嘉郡持續爭取科技廠進駐 讓雲林彎道超車 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPNFBwdy16VlVncEV3SjVzQ0pXTjVkbExUYVRhZW93bHc4czRzY1RPb1I2WDVnR0pUeER0S3BvdW0wVFBwSWtxeGZDRGdDLTI3OVJiS3hKYkJZTXpoM08tYi1tSmM2LW5jYmZydG5XNDhOc1g2RDBVY053Q2M2SHo5MU1uYTB1MXlKeEhOWFpJNEtYWm5mOW1hZjd0Wm5ob25ZYjFmZTM0VklxYXhRY0d6NDBqQ28yYTcxV0ItMjlyY1MzSkJfdlpWMkpFbmdibnBQdGVkRjlYMERIcTBJaHZiTjgzdmFIUkNGWk8zWmpuWXFOT2JsR3liVjVsQTVlM18xTnhfVS1rR3NwY1hSRDRHZ3hpOWVkR2F1U0plMUJBcC1fUUVyaXZuWjJmSWVZZE9YTFZGemVOcDByUnl3V3ZoWmtVWTFvM3VKS2J1clJ0eUROZ25jWXg1OEU1b0ZTNTg3UHNyTG5od2lYNnEtUThXcUxIM0lvbFFpdVZOTWxIQVQ4RGN2Q3I5VnpoSHJYZ2xfQXM0UXBvdWd2Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-11 14:13:15"
+        },
+        {
           "title": "雲林縣西螺鎮農會舉辦親子下田趣活動200名親子與立委張嘉郡等人體驗水稻一生珍惜並感恩每粒米背後農民的辛勞！ - 台灣華報",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMQTlMbU9HZlo5eHA1NWR3NllqcVd5NVdSeEtyU0lSejhWRnhsYnE1NlJoWTJYZElDVjl4dkJELWY2cVZXVnFSZ1BMR2FaS2JkU09MblhLaE0yam5aVXNsdHY5eldxQXZscEs4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-08 23:02:23"
@@ -945,11 +973,6 @@
           "title": "避免洗產地疑慮 張嘉郡堅持農產原料標示原產國需入法 | 夏和宣 | 地方新聞 - 風傳媒",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4VVZ5MFRWU2pWT18xVGFQOWNxZ1N4WVJhME5tTGt1QXpGbzRWWnZYY09reklkOThnbkVweEM0U0RoR0VYMl9LenFsOHotQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-05 18:01:41"
-        },
-        {
-          "title": "《食品衛生管理法》修法雲林立委張嘉郡主張避免洗產地疑慮堅持「投料重量」前三名農產原料「標示原產國」需入法！ - 台灣華報",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xckRZS2xRMnJYNGYtVHcyMVotb3ZnMVZ5M0E3VFJ5a3V2dTI0VDJiZnhSLUVjb3NVUDNPVk9hQlFlRTkxbndaMHJrcGhtaHJMU3NvU0JLbTdHYm1VT1Jwclk2UDE4QUZabzNZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-05 17:59:18"
         }
       ]
     },
@@ -1163,6 +1186,11 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "矽品斗六擴廠動工 張嘉郡持續爭取科技廠進駐 讓雲林彎道超車 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPNFBwdy16VlVncEV3SjVzQ0pXTjVkbExUYVRhZW93bHc4czRzY1RPb1I2WDVnR0pUeER0S3BvdW0wVFBwSWtxeGZDRGdDLTI3OVJiS3hKYkJZTXpoM08tYi1tSmM2LW5jYmZydG5XNDhOc1g2RDBVY053Q2M2SHo5MU1uYTB1MXlKeEhOWFpJNEtYWm5mOW1hZjd0Wm5ob25ZYjFmZTM0VklxYXhRY0d6NDBqQ28yYTcxV0ItMjlyY1MzSkJfdlpWMkpFbmdibnBQdGVkRjlYMERIcTBJaHZiTjgzdmFIUkNGWk8zWmpuWXFOT2JsR3liVjVsQTVlM18xTnhfVS1rR3NwY1hSRDRHZ3hpOWVkR2F1U0plMUJBcC1fUUVyaXZuWjJmSWVZZE9YTFZGemVOcDByUnl3V3ZoWmtVWTFvM3VKS2J1clJ0eUROZ25jWXg1OEU1b0ZTNTg3UHNyTG5od2lYNnEtUThXcUxIM0lvbFFpdVZOTWxIQVQ4RGN2Q3I5VnpoSHJYZ2xfQXM0UXBvdWd2Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-11 14:13:15"
+      },
+      {
         "title": "雲林跌破65萬人劉建國「四位一體」拚扭轉- 生活 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KUTdadUcyMWt2RHVVTndXU290eXBtWGZydEhEXzBrZ1RxT1VCbDhScmRONVJ4a3g3dDRPM19YLTRtYk9DTXFhMDZEdjI2OHVrMTVBWEtfUzNEYkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-11 05:30:00"
@@ -1208,6 +1236,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "矽品斗六擴廠動工 張嘉郡持續爭取科技廠進駐 讓雲林彎道超車 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPNFBwdy16VlVncEV3SjVzQ0pXTjVkbExUYVRhZW93bHc4czRzY1RPb1I2WDVnR0pUeER0S3BvdW0wVFBwSWtxeGZDRGdDLTI3OVJiS3hKYkJZTXpoM08tYi1tSmM2LW5jYmZydG5XNDhOc1g2RDBVY053Q2M2SHo5MU1uYTB1MXlKeEhOWFpJNEtYWm5mOW1hZjd0Wm5ob25ZYjFmZTM0VklxYXhRY0d6NDBqQ28yYTcxV0ItMjlyY1MzSkJfdlpWMkpFbmdibnBQdGVkRjlYMERIcTBJaHZiTjgzdmFIUkNGWk8zWmpuWXFOT2JsR3liVjVsQTVlM18xTnhfVS1rR3NwY1hSRDRHZ3hpOWVkR2F1U0plMUJBcC1fUUVyaXZuWjJmSWVZZE9YTFZGemVOcDByUnl3V3ZoWmtVWTFvM3VKS2J1clJ0eUROZ25jWXg1OEU1b0ZTNTg3UHNyTG5od2lYNnEtUThXcUxIM0lvbFFpdVZOTWxIQVQ4RGN2Q3I5VnpoSHJYZ2xfQXM0UXBvdWd2Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-11 14:13:15"
+      },
       {
         "title": "雲林跌破65萬人劉建國「四位一體」拚扭轉- 生活 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KUTdadUcyMWt2RHVVTndXU290eXBtWGZydEhEXzBrZ1RxT1VCbDhScmRONVJ4a3g3dDRPM19YLTRtYk9DTXFhMDZEdjI2OHVrMTVBWEtfUzNEYkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1402,11 +1435,6 @@
         "title": "雲嘉攜手劉建國提建構無人機產業廊帶- 生活 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qRWZhV2pCc1k0WmExeVRfMWZ3VjlJbnRXWll4c3lEbWthVDZJZ1NTaVl4ekpVZW9CUjJGcHl5a3RVaVBpQ24yU3FyU2JuaFRWbmpxVzFoUkUtaEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-07 05:30:00"
-      },
-      {
-        "title": "雲林縣長參選人劉建國請益之旅到嘉義借鏡嘉義縣經驗提三大政見劉建國：嘉義做得到雲林一定做得到！ - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83NEpoVUxoUEk2TXlQZVRmbFUzQmg2UXd0R21BOEExWjQ1LVJaOFAtOWJrc3FuNW9Id3FFMHk5N2N0dUNYSk5IblhvQll5QjVkaHhDM0NqNThBM1NMUUdGSDNjYWk2N3R0TmJUVHd0M09Vd204Vk51b1dZS3k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-07 03:00:16"
       }
     ],
     "facebook": [
@@ -1544,6 +1572,13 @@
     "hour": [],
     "day": [
       {
+        "title": "矽品斗六擴廠動工 張嘉郡持續爭取科技廠進駐 讓雲林彎道超車 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPNFBwdy16VlVncEV3SjVzQ0pXTjVkbExUYVRhZW93bHc4czRzY1RPb1I2WDVnR0pUeER0S3BvdW0wVFBwSWtxeGZDRGdDLTI3OVJiS3hKYkJZTXpoM08tYi1tSmM2LW5jYmZydG5XNDhOc1g2RDBVY053Q2M2SHo5MU1uYTB1MXlKeEhOWFpJNEtYWm5mOW1hZjd0Wm5ob25ZYjFmZTM0VklxYXhRY0d6NDBqQ28yYTcxV0ItMjlyY1MzSkJfdlpWMkpFbmdibnBQdGVkRjlYMERIcTBJaHZiTjgzdmFIUkNGWk8zWmpuWXFOT2JsR3liVjVsQTVlM18xTnhfVS1rR3NwY1hSRDRHZ3hpOWVkR2F1U0plMUJBcC1fUUVyaXZuWjJmSWVZZE9YTFZGemVOcDByUnl3V3ZoWmtVWTFvM3VKS2J1clJ0eUROZ25jWXg1OEU1b0ZTNTg3UHNyTG5od2lYNnEtUThXcUxIM0lvbFFpdVZOTWxIQVQ4RGN2Q3I5VnpoSHJYZ2xfQXM0UXBvdWd2Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-11 14:13:15",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "雲林跌破65萬人劉建國「四位一體」拚扭轉- 生活 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KUTdadUcyMWt2RHVVTndXU290eXBtWGZydEhEXzBrZ1RxT1VCbDhScmRONVJ4a3g3dDRPM19YLTRtYk9DTXFhMDZEdjI2OHVrMTVBWEtfUzNEYkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-11 05:30:00",
@@ -1605,7 +1640,11 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 2
+        "count": 3
+      },
+      {
+        "name": "斗六",
+        "count": 1
       }
     ],
     "groups": []
