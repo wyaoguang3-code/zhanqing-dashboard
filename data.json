@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-08-11T13:51:49.417336+00:00",
+  "generated_at": "2026-08-11T14:07:28.325493+00:00",
   "metrics": {
-    "total_24h": 14,
-    "prev_24h": 20,
-    "growth_pct": -30.0,
-    "news_24h": 12,
+    "total_24h": 16,
+    "prev_24h": 21,
+    "growth_pct": -23.81,
+    "news_24h": 13,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 125,
-    "prev": 129,
-    "growth_pct": -3.1,
-    "news": 100,
+    "total": 127,
+    "prev": 130,
+    "growth_pct": -2.31,
+    "news": 101,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,11 +28,11 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 12
+      "count": 13
     },
     {
       "platform": "facebook",
-      "count": 1
+      "count": 2
     },
     {
       "platform": "youtube",
@@ -42,11 +42,11 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 100
+      "count": 101
     },
     {
       "platform": "facebook",
-      "count": 21
+      "count": 22
     },
     {
       "platform": "youtube",
@@ -68,18 +68,18 @@
     },
     {
       "hour": "2026-08-11 16:00",
-      "count": 5
+      "count": 6
     },
     {
       "hour": "2026-08-11 18:00",
       "count": 5
+    },
+    {
+      "hour": "2026-08-11 20:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
-    {
-      "hour": "2026-08-04 21:00",
-      "count": 1
-    },
     {
       "hour": "2026-08-05 00:00",
       "count": 1
@@ -298,7 +298,7 @@
     },
     {
       "hour": "2026-08-10 21:00",
-      "count": 3
+      "count": 4
     },
     {
       "hour": "2026-08-11 05:00",
@@ -314,17 +314,25 @@
     },
     {
       "hour": "2026-08-11 16:00",
-      "count": 5
+      "count": 6
     },
     {
       "hour": "2026-08-11 18:00",
       "count": 5
+    },
+    {
+      "hour": "2026-08-11 20:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 12
+      "count": 13
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     },
     {
       "platform": "youtube",
@@ -332,6 +340,13 @@
     }
   ],
   "mention_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "國際封測大廠矽品精密今（11）日在雲林斗六舉行擴廠動工典禮，立委張嘉郡出席表示，矽品持續加碼投資雲林，不僅代表企業對雲林投資環境的肯定，更是雲林產業轉型的重要里程碑，尤其是矽品這次投資規模達1000億元，創造2200個就業機會，其中有8成要進用在地 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMikwhBVV95cUxOemtiSDRxN2ZEanl6eGd2cTlWOURnZUQ3c0Vmb1Q2RzljU1UwSFhXandteFV4UVhISGVhLVAxRHFnUzI5NzliN19XODR5dVZGN1ZKNEQ0alNEdHR0SUZxdTh0dm9qZDZzVmtySTRJMXkydkRPekxMRnNNbUFjZVN4cHpMTkZ2UEFBVFlMWlhDZGh3dzl3TklvTGg1Q2Q4bWhlUFVuZzlsNmpMM1lLVkFadzZVWVVBbExwbzZUempxRVMxcGJ1ZWUtc09nZmhHU2xUM0xBRmJkQ1RoclNEb0JUN3gtRlpSUXJ1OXVXRG1TcFZIbzZNaUx5eXpkbFlFMEpwemJjV3hYbmR2S0hXN2RqeDhPRUlWcTdpY0ZpTXZ2bG9ndjItcm1xd19MckZMMUZHY2ZaSEIzb0ZIMWF2c3JTRDcyd2tsNUhHQzhnd216WFNEMDdZdVlKZFNyVVlxT1pUUzk2SnpFemoycDZCbHpGVnhpbXZIWFBFaGtyXzlaRDFuaGNqYVk5OFlEYkZVUW1TeGQ5TjdrMzFsTGszWVRFUy11b0RZbUo5OHU1dWhaQ0xxb1VBd0pfRFR0dUNGTnNwTGVuZzlzY001MHVKaWZFWnpraHdmTjlXWl9LaHhaUFRua2d2Y3piOVpsdnQ3SHJob25DeVF0Q1h3SGpQa0kzc2lOVkZPQWVKY2x5VHdjMzhmSHFXX0RnU0lESEZ2RXVmdk9JRWtlSnB3b0E3VExROF9UamtCNjJrNVhvNkUzR2lPWFBXNlVOQUdSNEpCZF9FNW4yb1FoMjF2SmVKR1pRQ1JCZ213MWJqVXNEMElZbC1XTHE3Mk5fY1ptUURQbTlyZnBfOEpTLVpkbzUtN2JzVTd5ZmR1bkxpTW9CVndGRTd1dF9oX01Uc3lSM3Z4bHo2bGtlZkdJNjgzeE0wNU1weFJZME13OXU0a1haNDFGS3d2SExHWWtQV2ZzTTBUY2t1elV1VEc5Um16VGw3bFBrNTl4WG9OME5oNG1Hcm5PemZXSkdDWHJ4Mk9kZDIyR1lhTG5SUzh6RldwaGlpbzVkSWlXZXBPRGxiY2FELUdJZzgyVVRnSkREdk01QXl4ZFBya1hFeC15VFlxbkY1aE96THZ3bF8xRmtWTXVTSWxabVdrbE9uajNDeWZfUC1odlRxZlNVaksyTkFFeTNUYVdRbmFEM1lyRWpCMzFqMFNBUm8xTlNYTlpkVHZIb0VmVHVmTnZEdkdBc0VHUVc4TlFEWWJ3bU0wcU1CV29vRmNxRzdYTnRwaFpMT01uSG1hUXM5NXFCaGVLLVNVVDZpc2hHOVBlOHRBV2gtemlyZERzWUJrVl9naGttZmVWcWE0aHMzTjVhdXdta0R1MHQ5Z21Fdnc1SQ",
+        "time": "2026-08-11 20:55:02"
+      }
+    ],
     "news": [
       {
         "title": "矽品從虎尾擴廠至斗六 張嘉郡：雲林產業轉型重要里程碑| 政治焦點 - 太報 TaiSounds",
@@ -356,6 +371,11 @@
       {
         "title": "矽品斗六廠動土 劉建國盼產業、人才與土地同步布局 - tw.news.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPdFBtc2lOOUxpQllYZUJlSjdIVEZlb0JJWTdsOHRNalZpc2NQdjVVQUVUeEhqYU10NlpnSGNRaVk4dl9YVHZIWDNvX0JfUExEV3hEVlBkTFpzaHV6a1hQNENWMloweHJZYmMtbWtTamwxd0gzQ0NDUWZ6YkVpY2pnVFpRRnUtUkZpaTdxUjhXUUEtR09tamtRajZVUzZVX0NiVkM3cmJMSTFxdF9iRTVpSkpDbEtoSlprU2U3R3dUZWJ6aURjaHhLOEpiclh4Vm1jWVY1UW13YzFZeGJqSy1lN3ByLXdMSTRQSy0wSWlpQTNqandDMlp1NzB6cER1aHdZYXB5a1NYbzE0bldybjFPbWFwaWZZZERUbEFpOWE4LVF1YkY0am1Ob05XZ3VlUkVsRjJvYm1XUTZSR2d3TU9vTnBBRHFFY042MTl6SUNJSERsd2tFUXRlWFd0N0xtQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-11 16:43:00"
+      },
+      {
+        "title": "矽品斗六廠動土 劉建國盼產業、人才與土地同步布局 - 上報Up Media",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TS0o2RXZRSWxxSy1aZ3E5VzNxMEQ5eGFqZGE4TzVMVFdwVjBlNlVtSDYwcEYtNmVvRGZQV1l6T0JLREhhekdVOUdpSW54UDhmZGE3eHg0aTR1UC1ETFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-11 16:43:00"
       },
       {
@@ -405,7 +425,11 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 12
+      "count": 13
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     },
     {
       "platform": "youtube",
@@ -413,6 +437,13 @@
     }
   ],
   "alias_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "國際封測大廠矽品精密今（11）日在雲林斗六舉行擴廠動工典禮，立委張嘉郡出席表示，矽品持續加碼投資雲林，不僅代表企業對雲林投資環境的肯定，更是雲林產業轉型的重要里程碑，尤其是矽品這次投資規模達1000億元，創造2200個就業機會，其中有8成要進用在地 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMikwhBVV95cUxOemtiSDRxN2ZEanl6eGd2cTlWOURnZUQ3c0Vmb1Q2RzljU1UwSFhXandteFV4UVhISGVhLVAxRHFnUzI5NzliN19XODR5dVZGN1ZKNEQ0alNEdHR0SUZxdTh0dm9qZDZzVmtySTRJMXkydkRPekxMRnNNbUFjZVN4cHpMTkZ2UEFBVFlMWlhDZGh3dzl3TklvTGg1Q2Q4bWhlUFVuZzlsNmpMM1lLVkFadzZVWVVBbExwbzZUempxRVMxcGJ1ZWUtc09nZmhHU2xUM0xBRmJkQ1RoclNEb0JUN3gtRlpSUXJ1OXVXRG1TcFZIbzZNaUx5eXpkbFlFMEpwemJjV3hYbmR2S0hXN2RqeDhPRUlWcTdpY0ZpTXZ2bG9ndjItcm1xd19MckZMMUZHY2ZaSEIzb0ZIMWF2c3JTRDcyd2tsNUhHQzhnd216WFNEMDdZdVlKZFNyVVlxT1pUUzk2SnpFemoycDZCbHpGVnhpbXZIWFBFaGtyXzlaRDFuaGNqYVk5OFlEYkZVUW1TeGQ5TjdrMzFsTGszWVRFUy11b0RZbUo5OHU1dWhaQ0xxb1VBd0pfRFR0dUNGTnNwTGVuZzlzY001MHVKaWZFWnpraHdmTjlXWl9LaHhaUFRua2d2Y3piOVpsdnQ3SHJob25DeVF0Q1h3SGpQa0kzc2lOVkZPQWVKY2x5VHdjMzhmSHFXX0RnU0lESEZ2RXVmdk9JRWtlSnB3b0E3VExROF9UamtCNjJrNVhvNkUzR2lPWFBXNlVOQUdSNEpCZF9FNW4yb1FoMjF2SmVKR1pRQ1JCZ213MWJqVXNEMElZbC1XTHE3Mk5fY1ptUURQbTlyZnBfOEpTLVpkbzUtN2JzVTd5ZmR1bkxpTW9CVndGRTd1dF9oX01Uc3lSM3Z4bHo2bGtlZkdJNjgzeE0wNU1weFJZME13OXU0a1haNDFGS3d2SExHWWtQV2ZzTTBUY2t1elV1VEc5Um16VGw3bFBrNTl4WG9OME5oNG1Hcm5PemZXSkdDWHJ4Mk9kZDIyR1lhTG5SUzh6RldwaGlpbzVkSWlXZXBPRGxiY2FELUdJZzgyVVRnSkREdk01QXl4ZFBya1hFeC15VFlxbkY1aE96THZ3bF8xRmtWTXVTSWxabVdrbE9uajNDeWZfUC1odlRxZlNVaksyTkFFeTNUYVdRbmFEM1lyRWpCMzFqMFNBUm8xTlNYTlpkVHZIb0VmVHVmTnZEdkdBc0VHUVc4TlFEWWJ3bU0wcU1CV29vRmNxRzdYTnRwaFpMT01uSG1hUXM5NXFCaGVLLVNVVDZpc2hHOVBlOHRBV2gtemlyZERzWUJrVl9naGttZmVWcWE0aHMzTjVhdXdta0R1MHQ5Z21Fdnc1SQ",
+        "time": "2026-08-11 20:55:02"
+      }
+    ],
     "news": [
       {
         "title": "矽品從虎尾擴廠至斗六 張嘉郡：雲林產業轉型重要里程碑| 政治焦點 - 太報 TaiSounds",
@@ -437,6 +468,11 @@
       {
         "title": "矽品斗六廠動土 劉建國盼產業、人才與土地同步布局 - tw.news.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPdFBtc2lOOUxpQllYZUJlSjdIVEZlb0JJWTdsOHRNalZpc2NQdjVVQUVUeEhqYU10NlpnSGNRaVk4dl9YVHZIWDNvX0JfUExEV3hEVlBkTFpzaHV6a1hQNENWMloweHJZYmMtbWtTamwxd0gzQ0NDUWZ6YkVpY2pnVFpRRnUtUkZpaTdxUjhXUUEtR09tamtRajZVUzZVX0NiVkM3cmJMSTFxdF9iRTVpSkpDbEtoSlprU2U3R3dUZWJ6aURjaHhLOEpiclh4Vm1jWVY1UW13YzFZeGJqSy1lN3ByLXdMSTRQSy0wSWlpQTNqandDMlp1NzB6cER1aHdZYXB5a1NYbzE0bldybjFPbWFwaWZZZERUbEFpOWE4LVF1YkY0am1Ob05XZ3VlUkVsRjJvYm1XUTZSR2d3TU9vTnBBRHFFY042MTl6SUNJSERsd2tFUXRlWFd0N0xtQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-11 16:43:00"
+      },
+      {
+        "title": "矽品斗六廠動土 劉建國盼產業、人才與土地同步布局 - 上報Up Media",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TS0o2RXZRSWxxSy1aZ3E5VzNxMEQ5eGFqZGE4TzVMVFdwVjBlNlVtSDYwcEYtNmVvRGZQV1l6T0JLREhhekdVOUdpSW54UDhmZGE3eHg0aTR1UC1ETFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-11 16:43:00"
       },
       {
@@ -484,12 +520,12 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 8,
-    "劉建國": 5
+    "張嘉郡": 9,
+    "劉建國": 6
   },
   "mention_compare_7d": {
-    "張嘉郡": 35,
-    "劉建國": 76
+    "張嘉郡": 36,
+    "劉建國": 77
   },
   "top_news": [
     {
@@ -515,6 +551,11 @@
     {
       "title": "矽品斗六廠動土 劉建國盼產業、人才與土地同步布局 - tw.news.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPdFBtc2lOOUxpQllYZUJlSjdIVEZlb0JJWTdsOHRNalZpc2NQdjVVQUVUeEhqYU10NlpnSGNRaVk4dl9YVHZIWDNvX0JfUExEV3hEVlBkTFpzaHV6a1hQNENWMloweHJZYmMtbWtTamwxd0gzQ0NDUWZ6YkVpY2pnVFpRRnUtUkZpaTdxUjhXUUEtR09tamtRajZVUzZVX0NiVkM3cmJMSTFxdF9iRTVpSkpDbEtoSlprU2U3R3dUZWJ6aURjaHhLOEpiclh4Vm1jWVY1UW13YzFZeGJqSy1lN3ByLXdMSTRQSy0wSWlpQTNqandDMlp1NzB6cER1aHdZYXB5a1NYbzE0bldybjFPbWFwaWZZZERUbEFpOWE4LVF1YkY0am1Ob05XZ3VlUkVsRjJvYm1XUTZSR2d3TU9vTnBBRHFFY042MTl6SUNJSERsd2tFUXRlWFd0N0xtQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-11 16:43:00"
+    },
+    {
+      "title": "矽品斗六廠動土 劉建國盼產業、人才與土地同步布局 - 上報Up Media",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TS0o2RXZRSWxxSy1aZ3E5VzNxMEQ5eGFqZGE4TzVMVFdwVjBlNlVtSDYwcEYtNmVvRGZQV1l6T0JLREhhekdVOUdpSW54UDhmZGE3eHg0aTR1UC1ETFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-11 16:43:00"
     },
     {
@@ -546,11 +587,6 @@
       "title": "矽品斗六擴廠動工 張嘉郡持續爭取科技廠進駐 讓雲林彎道超車 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPNFBwdy16VlVncEV3SjVzQ0pXTjVkbExUYVRhZW93bHc4czRzY1RPb1I2WDVnR0pUeER0S3BvdW0wVFBwSWtxeGZDRGdDLTI3OVJiS3hKYkJZTXpoM08tYi1tSmM2LW5jYmZydG5XNDhOc1g2RDBVY053Q2M2SHo5MU1uYTB1MXlKeEhOWFpJNEtYWm5mOW1hZjd0Wm5ob25ZYjFmZTM0VklxYXhRY0d6NDBqQ28yYTcxV0ItMjlyY1MzSkJfdlpWMkpFbmdibnBQdGVkRjlYMERIcTBJaHZiTjgzdmFIUkNGWk8zWmpuWXFOT2JsR3liVjVsQTVlM18xTnhfVS1rR3NwY1hSRDRHZ3hpOWVkR2F1U0plMUJBcC1fUUVyaXZuWjJmSWVZZE9YTFZGemVOcDByUnl3V3ZoWmtVWTFvM3VKS2J1clJ0eUROZ25jWXg1OEU1b0ZTNTg3UHNyTG5od2lYNnEtUThXcUxIM0lvbFFpdVZOTWxIQVQ4RGN2Q3I5VnpoSHJYZ2xfQXM0UXBvdWd2Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-11 14:13:15"
-    },
-    {
-      "title": "雲林跌破65萬人劉建國「四位一體」拚扭轉- 生活 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KUTdadUcyMWt2RHVVTndXU290eXBtWGZydEhEXzBrZ1RxT1VCbDhScmRONVJ4a3g3dDRPM19YLTRtYk9DTXFhMDZEdjI2OHVrMTVBWEtfUzNEYkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-11 05:30:00"
     }
   ],
   "top_news_7d": [
@@ -577,6 +613,11 @@
     {
       "title": "矽品斗六廠動土 劉建國盼產業、人才與土地同步布局 - tw.news.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPdFBtc2lOOUxpQllYZUJlSjdIVEZlb0JJWTdsOHRNalZpc2NQdjVVQUVUeEhqYU10NlpnSGNRaVk4dl9YVHZIWDNvX0JfUExEV3hEVlBkTFpzaHV6a1hQNENWMloweHJZYmMtbWtTamwxd0gzQ0NDUWZ6YkVpY2pnVFpRRnUtUkZpaTdxUjhXUUEtR09tamtRajZVUzZVX0NiVkM3cmJMSTFxdF9iRTVpSkpDbEtoSlprU2U3R3dUZWJ6aURjaHhLOEpiclh4Vm1jWVY1UW13YzFZeGJqSy1lN3ByLXdMSTRQSy0wSWlpQTNqandDMlp1NzB6cER1aHdZYXB5a1NYbzE0bldybjFPbWFwaWZZZERUbEFpOWE4LVF1YkY0am1Ob05XZ3VlUkVsRjJvYm1XUTZSR2d3TU9vTnBBRHFFY042MTl6SUNJSERsd2tFUXRlWFd0N0xtQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-11 16:43:00"
+    },
+    {
+      "title": "矽品斗六廠動土 劉建國盼產業、人才與土地同步布局 - 上報Up Media",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TS0o2RXZRSWxxSy1aZ3E5VzNxMEQ5eGFqZGE4TzVMVFdwVjBlNlVtSDYwcEYtNmVvRGZQV1l6T0JLREhhekdVOUdpSW54UDhmZGE3eHg0aTR1UC1ETFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-11 16:43:00"
     },
     {
@@ -630,6 +671,11 @@
       "time": "2026-08-10 21:12:51"
     },
     {
+      "title": "甘厝老活動中心重建動工 劉建國爭取2854萬中央全額補助 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ucWV3U0NkMTFKdC1pOVlBOWF6TWNDMF9PNmJpb1dGc1kwZEpmRHVKeGt5VUFielV4LXZzRFhyQk1YdnZJSlJKUDc1bU5MdzZqaEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-10 21:12:00"
+    },
+    {
       "title": "甘厝村活動中心動工 劉建國爭取2,854萬元打造世代共融新據點 - 台灣民眾電子報",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jVWlsTXYyZmd4RnRCZktsYjV2TkttQTg4VklIUUVSY3lkaktvNVNJOXR5eDQ1c0kzZUE0LTE1cU9xZ09BUGJWeA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-10 17:05:01"
@@ -643,19 +689,14 @@
       "title": "甘厝要蓋新厝了！ 村集會活動中心動工 劉建國爭取中央全額補助2854萬元 打造世代共融新據點 - tw.news.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxPWVhBUU0yNDlEMEQtSkFYc1BFY00tMjJnR0FWQ2ZhdFlWNXg3YlRucEJZZGd6UzlEVVBVSWlhZTdmWkRwUVhwYU90TW9fUV9TU0lRdXhwbVJXY05xdlJqU2pSUzF3ZV9UTWRsSTNvWkFJbmduaFIycl9DMF9jMjMwWDd6RXp5MEJqR3ZNSlpCYk0yOE1vRjFLTFhlWTE2eDBxbW1FUEEtaHFfTFRGbFlRdjl5M0o4ckFybVpoREJtcFVUYmthckNUcVd6WHliTlVKRnpQc2NBdnhUcVZkeE1yTmdJdU5TeFdNTnJFNEJMWHVKanhmQ2pwTWV2X1ZvWUFZZjhrTWVLdGdpLTJqaEJYWGdoMG1DeXA0Y1hzQ3ZQNXJ0Z2cyd1drUFRVS0FnY2h3VlQ1Y0pUc05kdkYzMGpLc0ZVd19KTW1FaDlMX0FOZUNvX1ZKU2hqeElDbGtYREJzdDN4VXZreXNrWGRMdjNrRkZLaklEYjdram5WWFhJWjR2QUJ0YzhLc1NQZ19XOFJrSV9zMlNZQVFwSktwTXMzLUpBZklqLThvb01mdU5ESm0yMnV3ajhSOVFINjkyQzd3OVRBelFsX1dFYlcxd0JPSXVTd2c1R08xelU1S1lxUVRNYzdhVFplUk1oZjY3c3YyV1pLQUtfbk1BaUd2OFF5NnV1RGxocmg0bDZXQ0pRVDdPNDl2RDY3V0V1NU42SjZ1T2FlaQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-10 16:38:18"
-    },
-    {
-      "title": "甘厝要蓋新厝了！ 村集會活動中心動工 劉建國爭取中央全額補助2854萬元 打造世代共融新據點 - PChome Online新聞",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVlCcC1ua3NiRzlOOFIxTHBCZWgtanV3cjh6N2UtVm9mRjlfUHdCTlFocHd6bWFIZFRfczROTzhHOGdZZF9BU3RyZEtnZ2tYZl83VkhNOVM4UTFFeU9TNDZUOXQzaGd6OWEtUjU0UXA3dE1uT3p2VzhXaGVoekphd2QwaHpHR01kQWJuMg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-10 16:38:18"
-    },
-    {
-      "title": "控劉建國幹部攻擊失明議員車禍拿賠償金 楊植斗轟踐踏傷者痛苦 | Newtalk - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iUWhLU0swd2xVNFhhNHF2U1o4RWJSeWdkZ0RMRU9fN2FIcEtfTXhIdHd5NFpUZlJnT3dqR0FSVkpMdnRRNXQtTmdIWWszR0dnQUNmVEhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-10 13:30:27"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "國際封測大廠矽品精密今（11）日在雲林斗六舉行擴廠動工典禮，立委張嘉郡出席表示，矽品持續加碼投資雲林，不僅代表企業對雲林投資環境的肯定，更是雲林產業轉型的重要里程碑，尤其是矽品這次投資規模達1000億元，創造2200個就業機會，其中有8成要進用在地 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMikwhBVV95cUxOemtiSDRxN2ZEanl6eGd2cTlWOURnZUQ3c0Vmb1Q2RzljU1UwSFhXandteFV4UVhISGVhLVAxRHFnUzI5NzliN19XODR5dVZGN1ZKNEQ0alNEdHR0SUZxdTh0dm9qZDZzVmtySTRJMXkydkRPekxMRnNNbUFjZVN4cHpMTkZ2UEFBVFlMWlhDZGh3dzl3TklvTGg1Q2Q4bWhlUFVuZzlsNmpMM1lLVkFadzZVWVVBbExwbzZUempxRVMxcGJ1ZWUtc09nZmhHU2xUM0xBRmJkQ1RoclNEb0JUN3gtRlpSUXJ1OXVXRG1TcFZIbzZNaUx5eXpkbFlFMEpwemJjV3hYbmR2S0hXN2RqeDhPRUlWcTdpY0ZpTXZ2bG9ndjItcm1xd19MckZMMUZHY2ZaSEIzb0ZIMWF2c3JTRDcyd2tsNUhHQzhnd216WFNEMDdZdVlKZFNyVVlxT1pUUzk2SnpFemoycDZCbHpGVnhpbXZIWFBFaGtyXzlaRDFuaGNqYVk5OFlEYkZVUW1TeGQ5TjdrMzFsTGszWVRFUy11b0RZbUo5OHU1dWhaQ0xxb1VBd0pfRFR0dUNGTnNwTGVuZzlzY001MHVKaWZFWnpraHdmTjlXWl9LaHhaUFRua2d2Y3piOVpsdnQ3SHJob25DeVF0Q1h3SGpQa0kzc2lOVkZPQWVKY2x5VHdjMzhmSHFXX0RnU0lESEZ2RXVmdk9JRWtlSnB3b0E3VExROF9UamtCNjJrNVhvNkUzR2lPWFBXNlVOQUdSNEpCZF9FNW4yb1FoMjF2SmVKR1pRQ1JCZ213MWJqVXNEMElZbC1XTHE3Mk5fY1ptUURQbTlyZnBfOEpTLVpkbzUtN2JzVTd5ZmR1bkxpTW9CVndGRTd1dF9oX01Uc3lSM3Z4bHo2bGtlZkdJNjgzeE0wNU1weFJZME13OXU0a1haNDFGS3d2SExHWWtQV2ZzTTBUY2t1elV1VEc5Um16VGw3bFBrNTl4WG9OME5oNG1Hcm5PemZXSkdDWHJ4Mk9kZDIyR1lhTG5SUzh6RldwaGlpbzVkSWlXZXBPRGxiY2FELUdJZzgyVVRnSkREdk01QXl4ZFBya1hFeC15VFlxbkY1aE96THZ3bF8xRmtWTXVTSWxabVdrbE9uajNDeWZfUC1odlRxZlNVaksyTkFFeTNUYVdRbmFEM1lyRWpCMzFqMFNBUm8xTlNYTlpkVHZIb0VmVHVmTnZEdkdBc0VHUVc4TlFEWWJ3bU0wcU1CV29vRmNxRzdYTnRwaFpMT01uSG1hUXM5NXFCaGVLLVNVVDZpc2hHOVBlOHRBV2gtemlyZERzWUJrVl9naGttZmVWcWE0aHMzTjVhdXdta0R1MHQ5Z21Fdnc1SQ",
+      "time": "2026-08-11 20:55:02"
+    },
     {
       "title": "「吃飯配沙」➡️「一年剩2天」｜濁水溪9年治理大翻轉 ​過去東北季風一來，風沙一吹就是兩個月；經過 9年努力、中央近30億投入，如今最優紀錄一年揚塵日只剩 2 天！✨️ ​甚至連極罕見的「東方白鸛」和超過 250 種野生鳥類都回到濁水溪，這代表生態真的恢復了！🪶 ​ - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMixAdBVV95cUxQSzRzeXRIS0pDY2QzQmtHXzV6dmhZbUhQaGxhcmJwSVhGVDZ6cnJ0cE9faUswZ2pwSmo1QkR2bmxtZ1lfc0Z1bElIOWhWZjR4ZDdhOFA5WHBXR1J6S0RJSW04ZjVSODEzeDVFNmJwWUVOWTA1LXVPRGt1VEtRVmNFSUF0bFFOMkhZYWsweXlfbE1iMG1FdzE1Ums1T0NtaGxtLW9VQVdCQ1pJaF9ONExXLU5mWmtrOTZmcE5Vb3pxM2k1YmV3ZmlwVHdzdVZnSVk1dWN4X1VTNWtLbThQaENfSXpHazk3ZWR1OE54aGN5cTRTdG1xUjNYVXRzQlR3SWFteU1MbVg0NGdBaDNHRzMyQjIyei02TlNseDFlQ3VvSTJwdDBCRkRxY2RHZTZZc002NDVPRDRLOGZFTXBZVnBkLWViT2FwMHRXMmJsNDVDeGVhTW54cEpKby1GTXNfZDBkMnJmYzFuS2xWXzQ4X3cwb0tRUVh5RTlidjctVmlMV3g3ZmQzVDNDLU9BMC1feTR6TldoUVQ5ZkZ0VHZacWlfUkVabHFzNC1TQXQxcm1ySVlZMmQ1MWtrR0FmRUhUblFZRkRUY1JGcUh5VXB3MnVTSjRqS3lnV1A5cXNLWlNuYXdMOENxczM0R3o1M0FKYklWNHdGenFIczRmOFpkSE5uQ1MtcFZhT3NDZnRLV3lhN3hOWTlRY3FFdFBubTRmWm44RXZRLUhoSm9zZW9keFQ1ZUxkeU1iWWJrOFZRa1BTN1gwdHY5Q2swMDQySnpDV1kwSjNNZDRZLWI2bWI3SE9SUXRPMDBVWVpwME5fVWo3R2tFVS01NW1zU1ZPQUNva0dGekU2Tk54U1VpWjlnbThkTWxHUVdWb01KOUx1MVc3OHFrNHBpbEMzU28zb3VOaEFmbGNpclZhMk9LTjVvcG1wZl9ackgzOVRfb0haX2taTGNFcFVrcXdlQ21FZnFWeVFJSXRCN2xJZ0pxUGZ6MGVHNFRBUHpEbDFERzNGTFNxX1dYNkYtRllLLTZVcWxxOGxmOXBwTTE0XzZhYkdlNmNQQ1F1eDlaOTNhcVpHM05iOENCd2p1YnQtSF9XSm83S19aYmJKeElkcUxhdFpuOVZIT2luUm5WNEQ4YzYtTGtMWFp2SWpyQjBETEZPdUxxZDB6bVZEVG5iTHhEck5VNHVOYWZ6aEJla29jX09SY3BoaDZvcnpYelFBX3dwNzByMXhFd0JnZE5GVVJWMFMtZWdMTmlwbld1LUxsblJVenVLMjVfVmhj",
@@ -750,11 +791,6 @@
       "title": "西螺鎮「#生廚餘處理廠」在今天正式啟用囉！ 🎉✨ 現代人外食多，家戶、甚至未來的果菜市場，產生的生廚餘量不斷增加，如何妥善處理是非常重要的課題。🤔🥬 過去 #鄭玲惠 前鎮長、 #廖秋萍 鎮長還在擔任議員時，就與建國共同向中央 #環境部 環境管理署爭取，最終獲 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi-gdBVV95cUxNazBuQVJla0ZyMVZpRklMSHlKdjNlV2NEYzdfdndYNVN5Y2NaSTFaa3VEcEt4MXRLUXM4c3FXb1lXS1dQRVlQdklkZFl0NnVIVC1tWW1tLTNENVhfdG8xdm9iSFA5VmY1ZnNkaVBSa2wyc1VELUlocmRfY2hLTFB5MFRnN2NNY0l4akF1TU5ObGlQN1Q2anZnYlNvdTVZR2tkeHpOcFNHdXFkUUl2SGhma3VEdnVqWEctWjFHZzRUUDJCR0JZLUw0Q1NidzZyeTJkOFA3Uk9RU0hhUmkyZWRyT1A1M2VFdEt5bFozalBZamVwLWYtVEpjWWFyb2N4Q2VOSkRFSDhZLWJueDVZbUN5VHB4VFFoSkw2MjhyQVBBZ0Q5bndscXJmU05LUl96aEh5TGFiZlBWYnozN0ZOVnk0SFZmdWNKeW53WXhJOVdtNXlCTlpxd1pQbVplSUlmME9ZTTlpbnZaWGU0aFpPODBKMlV3Qks0M2tYYWJGUEZyU1VRbFhEdnBqNi00NHVDbTFZNWFUaTZnRnVxWFhTamN6elZ3VlVXeGhhN2NCYkxWNExfMTdFNWFaQjV4aWdONEFRMGtiYnMtZUNQZXRmbl8zc0hNVzV5MUJzTThLT3pnc1Z6TklaX21MUUFOTVNJS2FZQnBhTWtuN05Qcm5zcVhyUWhaZjhENEZBbFFlVm9HS2Y0elh1dGFDQUppVTl4d3Z5OE82Uzlma3BFaTZQVl8weU1sMkdfSEFXaGlnRldPcFZPVDNFMXlBZFFyMlNyTE5PR3d6WEdvQy0tRmU2VjBuMXQ1amR4WWFidGpLXzNnbUY1SGNGUXZndWZscnI4Y2txd2pjTm1rTzlKWFFVY05jbkhqUHJSMHpnVXhzVG1namtwenZTT0psYUx5T0FSSF9aVW5nMXgxT2M5WTZVbnNsdFpNNDRrYVRaUGJWcFFfQlc2RkZXSHB5VG5WX1BHMzJ1YUJsM0ZjbkFjWVJsOU5sRWRWRGdRNEFWTnQ4UmR5U0tGVHBhMEVGbE5hS3FfS29peVg0SnFfOHdIMzJxVzZlQ1M3ODYtemVGeVk0dHNTenlmalBGWDAzNlBFNUd0OEpiM1BOdFFURzVhMXhHaEJoWmZKRU82NWJlRGxrdzlJbU1pcGNReXpYMFpYNGljOTVPNUVacGJ0T211c2Y5QUY2TFBOTVRYaVZLMm1uQWY3TFMyVXNyWWJzVmY5d2ZrNlJRNlBFbi1CRnBrX0w4cEdDLWhILVZjS2FHTnRHS29HbERERnZLQTRIZWxKYlVocjl1eEVjY1pqYkFCazVyWTBtRHFmZm8tdGVJbnJUaktCalVuR2IzbFJqY2Rn",
       "time": "2026-08-05 13:01:29"
-    },
-    {
-      "title": "#陪孩子一起勇敢成長🐰✨ #海波劇場帶來親子歡樂時光🎭 走進 #海波劇場《#勇兔茹比與黃金蘿蔔》，看到許多爸爸媽媽帶著孩子一起欣賞兒童劇，在故事與歡笑中享受親子共度的美好時光。 嘉郡也特別變身成可愛兔子，和現場的小朋友互動，看見孩子們開心的笑容，也讓 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxQVlpjNVhqZENXelVwRmJkXzR2dlAwazVpbVhHWFZvWWVTNVRKc0ZfX0RoZC1JUmpqUU9hcHZNUXZENFhiVWN0aHV4UjNZMV9uMGI5ZEczVE9iOGlsSXNQTlNMZnFXMFoyejQyZVVVWGNTSC1WSldxNHZsMGZ2TzZfTUxiSTNiRmhrYVZMbDA5UHJ4RmlMb2kyMVJzTkpQdV9mMGhhbC1rMlZsOEdVVjlvdGxKZmg4VF9aLWtMN1hYSzhOa2xWU0U3OGxiZnkyMW5zdGVYVnFxNTZPSmYtNkVUU0ptOXFRdGtaUUVTVklKbWhJMzR5Y2xvZnFMcnhXQ0JPMDlxTXVLeU1LdFpNeGhfaVpYdkhQZXFnUGVvclVra082MnZ4enJZdmtFSGhMSlNiMlBQMF9JNFR5c3BhQkRLZVVaOWRwck5hdGZVc3hvck81UTMzdEV5T3pMWm1UaXJJU1M1VmJlRUhtN3FfaFgxMmNBOWowSFNjRGVRWThFSWoyLVhCNUlyUVFhbHZiUGNOYUtCTWhKVGhkUFhGWG9IU0M4NVA0MjdGTkJXVmJralR1NTV6aGVWd0VObWJVV0s4WmJPZXZxd0NabDBxeUoyeG1Nb2hhaEM4ZGdOUWJZbktYSHA2bzdocWhUWEV3RG9PT2U3V3BFNGM4bEdORzB4SG40bkpPaUpKWkgxVmM3cWpMS004Ym1GTmEzSjcxV0tIOTJqcWwxQmlTZ0xqdXgxcHNYYzVDZldNbmE3cC1lanl4SW5kWWpLeE9kUlkybnhhSlJuek1yaHM5WjFTb2tyRmJuMUJMRzM3eXl5UU4tbkFsUVAwUmNnYTE2UFYzX0NvcWZRdXZWeWJ1TnVua1RuMjlFcDdDX1BPamUzcUxRSVBySHpCd213WThlVFk3MlhhY1c5U0F4VVdpYjh0RFJ3TWttSHhkSko5OXdvdUhZZkVIcW0wSkJNaGlwMEZLV1hFREVvR1NIM3MtUTFJZl80UktWc1hDcGRhTUt2ZmhkRmxJa0ZkUVl1eWRING1odTBVVmdNN2RFWDhCOFZSOE1oYlh3dHI3M2prRFA2dFVHdWxvdlhzZmZpcVJ0cEVhZmsxdDB5SXp0aXJ2STk4S2VJeGdwbVpKLVhNN0paMVF4bUtxYk1OYTFYLW1DSi12U0J6dmFNdGJnRXVpbUJtMjJKbDRsaXM0anI4N1V1YzZGTmxQR3Q4OVQxY2lmaThseE9iRDAxUVFjU0NNd2UzY2dFS25RZTFQblZFdHU3dllyU0htOWJhdW1UQkh0ekhwRzhaaC1oaUJscHlkbGR5NFlBdTFpTXFnakxwRUY0UTV6NjQxTURSZGJVTVRkWk96ZWJKLThGbzBHV0FueFVFN3oybFVZWm1IZzlfOXluYjllSGduNmpH",
-      "time": "2026-08-05 08:56:27"
     }
   ],
   "latest_news_20": [
@@ -781,6 +817,11 @@
     {
       "title": "矽品斗六廠動土 劉建國盼產業、人才與土地同步布局 - tw.news.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPdFBtc2lOOUxpQllYZUJlSjdIVEZlb0JJWTdsOHRNalZpc2NQdjVVQUVUeEhqYU10NlpnSGNRaVk4dl9YVHZIWDNvX0JfUExEV3hEVlBkTFpzaHV6a1hQNENWMloweHJZYmMtbWtTamwxd0gzQ0NDUWZ6YkVpY2pnVFpRRnUtUkZpaTdxUjhXUUEtR09tamtRajZVUzZVX0NiVkM3cmJMSTFxdF9iRTVpSkpDbEtoSlprU2U3R3dUZWJ6aURjaHhLOEpiclh4Vm1jWVY1UW13YzFZeGJqSy1lN3ByLXdMSTRQSy0wSWlpQTNqandDMlp1NzB6cER1aHdZYXB5a1NYbzE0bldybjFPbWFwaWZZZERUbEFpOWE4LVF1YkY0am1Ob05XZ3VlUkVsRjJvYm1XUTZSR2d3TU9vTnBBRHFFY042MTl6SUNJSERsd2tFUXRlWFd0N0xtQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-11 16:43:00"
+    },
+    {
+      "title": "矽品斗六廠動土 劉建國盼產業、人才與土地同步布局 - 上報Up Media",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TS0o2RXZRSWxxSy1aZ3E5VzNxMEQ5eGFqZGE4TzVMVFdwVjBlNlVtSDYwcEYtNmVvRGZQV1l6T0JLREhhekdVOUdpSW54UDhmZGE3eHg0aTR1UC1ETFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-11 16:43:00"
     },
     {
@@ -834,6 +875,11 @@
       "time": "2026-08-10 21:12:51"
     },
     {
+      "title": "甘厝老活動中心重建動工 劉建國爭取2854萬中央全額補助 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ucWV3U0NkMTFKdC1pOVlBOWF6TWNDMF9PNmJpb1dGc1kwZEpmRHVKeGt5VUFielV4LXZzRFhyQk1YdnZJSlJKUDc1bU5MdzZqaEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-10 21:12:00"
+    },
+    {
       "title": "甘厝村活動中心動工 劉建國爭取2,854萬元打造世代共融新據點 - 台灣民眾電子報",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jVWlsTXYyZmd4RnRCZktsYjV2TkttQTg4VklIUUVSY3lkaktvNVNJOXR5eDQ1c0kzZUE0LTE1cU9xZ09BUGJWeA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-10 17:05:01"
@@ -847,21 +893,16 @@
       "title": "甘厝要蓋新厝了！ 村集會活動中心動工 劉建國爭取中央全額補助2854萬元 打造世代共融新據點 - tw.news.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxPWVhBUU0yNDlEMEQtSkFYc1BFY00tMjJnR0FWQ2ZhdFlWNXg3YlRucEJZZGd6UzlEVVBVSWlhZTdmWkRwUVhwYU90TW9fUV9TU0lRdXhwbVJXY05xdlJqU2pSUzF3ZV9UTWRsSTNvWkFJbmduaFIycl9DMF9jMjMwWDd6RXp5MEJqR3ZNSlpCYk0yOE1vRjFLTFhlWTE2eDBxbW1FUEEtaHFfTFRGbFlRdjl5M0o4ckFybVpoREJtcFVUYmthckNUcVd6WHliTlVKRnpQc2NBdnhUcVZkeE1yTmdJdU5TeFdNTnJFNEJMWHVKanhmQ2pwTWV2X1ZvWUFZZjhrTWVLdGdpLTJqaEJYWGdoMG1DeXA0Y1hzQ3ZQNXJ0Z2cyd1drUFRVS0FnY2h3VlQ1Y0pUc05kdkYzMGpLc0ZVd19KTW1FaDlMX0FOZUNvX1ZKU2hqeElDbGtYREJzdDN4VXZreXNrWGRMdjNrRkZLaklEYjdram5WWFhJWjR2QUJ0YzhLc1NQZ19XOFJrSV9zMlNZQVFwSktwTXMzLUpBZklqLThvb01mdU5ESm0yMnV3ajhSOVFINjkyQzd3OVRBelFsX1dFYlcxd0JPSXVTd2c1R08xelU1S1lxUVRNYzdhVFplUk1oZjY3c3YyV1pLQUtfbk1BaUd2OFF5NnV1RGxocmg0bDZXQ0pRVDdPNDl2RDY3V0V1NU42SjZ1T2FlaQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-10 16:38:18"
-    },
-    {
-      "title": "甘厝要蓋新厝了！ 村集會活動中心動工 劉建國爭取中央全額補助2854萬元 打造世代共融新據點 - PChome Online新聞",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVlCcC1ua3NiRzlOOFIxTHBCZWgtanV3cjh6N2UtVm9mRjlfUHdCTlFocHd6bWFIZFRfczROTzhHOGdZZF9BU3RyZEtnZ2tYZl83VkhNOVM4UTFFeU9TNDZUOXQzaGd6OWEtUjU0UXA3dE1uT3p2VzhXaGVoekphd2QwaHpHR01kQWJuMg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-10 16:38:18"
-    },
-    {
-      "title": "控劉建國幹部攻擊失明議員車禍拿賠償金 楊植斗轟踐踏傷者痛苦 | Newtalk - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iUWhLU0swd2xVNFhhNHF2U1o4RWJSeWdkZ0RMRU9fN2FIcEtfTXhIdHd5NFpUZlJnT3dqR0FSVkpMdnRRNXQtTmdIWWszR0dnQUNmVEhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-10 13:30:27"
     }
   ],
   "person_sections": {
     "張嘉郡": {
       "facebook": [
+        {
+          "title": "國際封測大廠矽品精密今（11）日在雲林斗六舉行擴廠動工典禮，立委張嘉郡出席表示，矽品持續加碼投資雲林，不僅代表企業對雲林投資環境的肯定，更是雲林產業轉型的重要里程碑，尤其是矽品這次投資規模達1000億元，創造2200個就業機會，其中有8成要進用在地 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMikwhBVV95cUxOemtiSDRxN2ZEanl6eGd2cTlWOURnZUQ3c0Vmb1Q2RzljU1UwSFhXandteFV4UVhISGVhLVAxRHFnUzI5NzliN19XODR5dVZGN1ZKNEQ0alNEdHR0SUZxdTh0dm9qZDZzVmtySTRJMXkydkRPekxMRnNNbUFjZVN4cHpMTkZ2UEFBVFlMWlhDZGh3dzl3TklvTGg1Q2Q4bWhlUFVuZzlsNmpMM1lLVkFadzZVWVVBbExwbzZUempxRVMxcGJ1ZWUtc09nZmhHU2xUM0xBRmJkQ1RoclNEb0JUN3gtRlpSUXJ1OXVXRG1TcFZIbzZNaUx5eXpkbFlFMEpwemJjV3hYbmR2S0hXN2RqeDhPRUlWcTdpY0ZpTXZ2bG9ndjItcm1xd19MckZMMUZHY2ZaSEIzb0ZIMWF2c3JTRDcyd2tsNUhHQzhnd216WFNEMDdZdVlKZFNyVVlxT1pUUzk2SnpFemoycDZCbHpGVnhpbXZIWFBFaGtyXzlaRDFuaGNqYVk5OFlEYkZVUW1TeGQ5TjdrMzFsTGszWVRFUy11b0RZbUo5OHU1dWhaQ0xxb1VBd0pfRFR0dUNGTnNwTGVuZzlzY001MHVKaWZFWnpraHdmTjlXWl9LaHhaUFRua2d2Y3piOVpsdnQ3SHJob25DeVF0Q1h3SGpQa0kzc2lOVkZPQWVKY2x5VHdjMzhmSHFXX0RnU0lESEZ2RXVmdk9JRWtlSnB3b0E3VExROF9UamtCNjJrNVhvNkUzR2lPWFBXNlVOQUdSNEpCZF9FNW4yb1FoMjF2SmVKR1pRQ1JCZ213MWJqVXNEMElZbC1XTHE3Mk5fY1ptUURQbTlyZnBfOEpTLVpkbzUtN2JzVTd5ZmR1bkxpTW9CVndGRTd1dF9oX01Uc3lSM3Z4bHo2bGtlZkdJNjgzeE0wNU1weFJZME13OXU0a1haNDFGS3d2SExHWWtQV2ZzTTBUY2t1elV1VEc5Um16VGw3bFBrNTl4WG9OME5oNG1Hcm5PemZXSkdDWHJ4Mk9kZDIyR1lhTG5SUzh6RldwaGlpbzVkSWlXZXBPRGxiY2FELUdJZzgyVVRnSkREdk01QXl4ZFBya1hFeC15VFlxbkY1aE96THZ3bF8xRmtWTXVTSWxabVdrbE9uajNDeWZfUC1odlRxZlNVaksyTkFFeTNUYVdRbmFEM1lyRWpCMzFqMFNBUm8xTlNYTlpkVHZIb0VmVHVmTnZEdkdBc0VHUVc4TlFEWWJ3bU0wcU1CV29vRmNxRzdYTnRwaFpMT01uSG1hUXM5NXFCaGVLLVNVVDZpc2hHOVBlOHRBV2gtemlyZERzWUJrVl9naGttZmVWcWE0aHMzTjVhdXdta0R1MHQ5Z21Fdnc1SQ",
+          "time": "2026-08-11 20:55:02"
+        },
         {
           "title": "張嘉郡 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xaEREQ094TmJZS3N5QjJsYl9xX0c4NG1uU2o0b25VVnQ4LWE2RlhCby1MYTNBVzVtUXhEaDY1dW93bEQ3djQ2Uk9uaUhyM3YzMFFhdmpqRG1VUUlsaHMxZXpFTjZYWWQxcFo0NEZjdw",
@@ -956,11 +997,6 @@
           "title": "#斗六 長照教學大樓最後一哩路張嘉郡力爭補助9億元 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOSGJwMV94b3JlSmw3SThxRnhPT0ZHVXN4cWJqVksxTThpb1hNazhrMHByTDA2cloyZ2RfNFBsUnNOUzRvYTNmSGNiVTdud0V2TWhXTXVQNVdHV045Ui1XWjA4Zlk0N3RsQ2pEMlFfVG5lcC10LXhhVUNURzhfYWlPNHNkblhMVEJRTFZZblJzT0JRNGNpODFIR29wT1FqLUNxWDVMUGZGNUVRSUZUWjV3akcwekIyZ0EyVnc5clhHRDZ4REpZWWNzVVd0cUEyZkVjU0laamlIcWN2N0l6aHVtSU1hZWFONVlhQ1o2TjVMWGdzR2w0RWZoZDBPRzlUQnNhdm0xanlocFdpZ1lTbG5WVW9lNl9RMzB6Z3JLblRLM3cxak9VRXk0TE9fbjFORTBDT09xOUhXSUh3dFFienN0VS1ydjFvdk1jMUJRZTh2Tnc0T3NLQXljSnlDaXI4WjRMOUtQTVN6SkNZbjdTXzVxbjYyVnBJa0gyWXRjUA",
           "time": "2026-07-13 15:16:29"
-        },
-        {
-          "title": "雲林縣政府. . 雲林縣長張麗善率領縣府團隊，與立委張嘉郡及林內公所，視察「林內鄉坪頂崩塌地整治工程」施工與各項防汛整備工作，水利處表示，近期於施工期間，因受地質條件及天候影響，監測發現坡面仍有持續滑動之現象，改變工法還需要8500萬左右的經費，張縣 - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMitAhBVV95cUxOSzBVcTJXbW1fbkdqTldnamdXNTF2TU1PNUpvNVRyNVhLdG1qdU5TUW5sM2lBVDJRNExiRHlKTTAxYVhvQXMxaE9oUGJ6amYxbUpJRl9mc3dVdkhyT095Qm9kSnAwZExZb2dtTklnblE2ZWpfVUdZdzNqQ1JBdFhORVE3eExWR0hHUmY0MUdfOC0zekE5dlFLM2pBbkJtNkM4NVJMNm9SZUhqSEotN3hMSEhIMnZYaERwQ2U4bEl0RDhFMTBSc0RNcGZOUjJjdHZUY3BtRjJ0UjJBRkdZOFVfX1JhRmg1bTJKUWxvM01WazdVbF83M0dLYm1LajNuc21VMUZtSVk5eTR0b0xiNGRUNUluV2FEQnRXOVlFS0NjVmNaY2V4M0FJWVFjTDZHTUUxSmhKQ2VUMFhJcDVuc1hTVWZEM3N4RGo2UU9YX0FMdEVxZzlwMGNrWlhHV2diM3RwLUVVdkluQ2ZrWUp2eXg5QWF6dkVPYm1NZ0RmVzVMUXNVOVhxYS1VWFlHeVNSRUVYR042Zk1WRzJ0dkluX0xwemZXdFlrTFZpQ25XLWw1MUM2SUNsRXBNSFU2cTRya1JOaHJob2RaSWZjX2t3UmRiOTVlcjNDV0VHcHJnR29IY0VoRXRHS2E0MUlKM1NHQnB6YURfWHR5Z3pTc1lMLUJqMnYtcVZrdFVkdFFUdkVldjVLM01PT0NZQWx2WkFEdWszd0p4WFJSVE04Vmk1S1FyY1RRWUQ0VzJoV05OZ0F6ekt1d1ZEREg3RmdXVDBvNUc0TkdmRFV5TGM4bXBvY3Z5M0QwNHp4QWEzcW9sTXZnenlHNlljaUtKOWtLemdmdE05VS1hd0haRllLeUxPR09NeFhHbndlOEluM2tpdGV3RTFPZ242bEZjdDhFQks3OGptU19CdU5KWHRLUWJNcmdiMkdXSm5BVC1VdW1TbzdXWHNPRm5PZE5HN2dOaWlWTFVCVk42WW9rNmw3NW55SVNNT0lZVUtnMHJCSlJKT2psaGZFQS11VHRWVlBHQTN4VVBmTWRTWmJyQnJfSkRSV2Fvb3hzU0dTZVR3MU1rQmZqVVFmOEplZThvSW5xM3k0MU9UbEZmS1pEMHFuSVJuckwtSlFmYkY0RENkSnBYdmh0S2xuc1N1a3QtSmVQWUlTNkxpc0xfT3A4V2NhcTRaYlI4endQd05QZFBodDFpWVAyYXF6OWtVV3RuR3B0X2l0YWMtbzM1Z1A1M3NzbnZldTA4azl4LWFDWTZhdnVVdU40TV9YNjd3a0xMUnpiYXg2cWRGS2wwal9Lb25LQ29KUHdWUlpMT0NVandjQU9SR1JVTzNYcUoyU19nRDVGZF80d3NycmxiY3QtZ3dybnVkTURvTHE4VjFPUWRuN1NodXdZZXdHc0hVeFEtMjZXY3ZQTFpaLWtZRw",
-          "time": "2026-07-11 19:18:52"
         }
       ],
       "news": [
@@ -1181,6 +1217,11 @@
           "time": "2026-08-11 16:43:00"
         },
         {
+          "title": "矽品斗六廠動土 劉建國盼產業、人才與土地同步布局 - 上報Up Media",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TS0o2RXZRSWxxSy1aZ3E5VzNxMEQ5eGFqZGE4TzVMVFdwVjBlNlVtSDYwcEYtNmVvRGZQV1l6T0JLREhhekdVOUdpSW54UDhmZGE3eHg0aTR1UC1ETFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-11 16:43:00"
+        },
+        {
           "title": "矽品斗六廠投資千億動土 劉建國：勇敢轉型前進科技新雲林 - 台灣民眾電子報",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xeDZNbW1pcnJqOXF4SFJlam9kSjVXSTZnczM2YWthSHVfZmdzYVJvZWNBMUd6VVBCTFdxdjh0Vi1wQ0hyS0Myag?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-11 16:31:12"
@@ -1204,6 +1245,11 @@
           "title": "甘厝老活動中心重建動工 劉建國爭取2854萬中央全額補助 - 觀傳媒",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94OVN5aTlUMmtYaHpjbFBLWkNfS2NHLWIzS29ESkhwWFZtTkhBRzk4MGQ4NUNxZkE3Mmw2SFIzS0hyQnUzZmk5VThlbTdqRGxhaGE4U2NQOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-10 21:12:51"
+        },
+        {
+          "title": "甘厝老活動中心重建動工 劉建國爭取2854萬中央全額補助 - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ucWV3U0NkMTFKdC1pOVlBOWF6TWNDMF9PNmJpb1dGc1kwZEpmRHVKeGt5VUFielV4LXZzRFhyQk1YdnZJSlJKUDc1bU5MdzZqaEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-10 21:12:00"
         },
         {
           "title": "甘厝村活動中心動工 劉建國爭取2,854萬元打造世代共融新據點 - 台灣民眾電子報",
@@ -1259,16 +1305,6 @@
           "title": "雲林人口跌破65萬劉建國開出「4帖藥方」拚止跌留才- 政治 - 自由時報",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NLWt2dVFHS252ZV9vbm40SFVkNEZYcGdjTEFEZ0F1RE9QZ2JUVV8tZEpSTEh2blhjYi1uOU5KMlMtQTRQTE1jOFU1T0dlc3hSSkRTTHZaeHB3MEQzeWR2WVozeUpSWFItdlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-10 09:15:50"
-        },
-        {
-          "title": "教育文化盃全國圍棋公開賽首度移師林內 劉建國：讓圍棋文化向下扎根、走進地方 - 蕃新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sQXQySnZjcDVua184Z0tLS1BLTnNpRlNxc2g0UWpuTkRwS0J3dGFuT0tNaV9zbWRQOEZidXZWNkdNYXZaaElKam9TRVd0anctUWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-10 03:49:40"
-        },
-        {
-          "title": "不只拚輸贏！全國300棋友雲林對弈　劉建國：培養孩子思考力 - ETtoday新聞雲",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hWlJ3NE9ZOFZ0QkxvOXZDaWtPZkdqQjN6NG1PTUU1TzZZSW91YVllSXJtWnp1cEtoWERNYTlQYWpjZ3ZNbHZVVml2R1pGSkI3ajRRd283c1ZteWZUSnfSAUtBVV95cUxQOTVtQ2dvWl9uZTFyR3gwaW5wb0g5Ym9tQWFCNHUzOHVzWTVKd2JJUENCV0F2OGk1Z0tySUtHZVNiMXQ3b25GcXNRZDg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-09 16:59:00"
         }
       ]
     }
@@ -1298,6 +1334,11 @@
       {
         "title": "矽品斗六廠動土 劉建國盼產業、人才與土地同步布局 - tw.news.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPdFBtc2lOOUxpQllYZUJlSjdIVEZlb0JJWTdsOHRNalZpc2NQdjVVQUVUeEhqYU10NlpnSGNRaVk4dl9YVHZIWDNvX0JfUExEV3hEVlBkTFpzaHV6a1hQNENWMloweHJZYmMtbWtTamwxd0gzQ0NDUWZ6YkVpY2pnVFpRRnUtUkZpaTdxUjhXUUEtR09tamtRajZVUzZVX0NiVkM3cmJMSTFxdF9iRTVpSkpDbEtoSlprU2U3R3dUZWJ6aURjaHhLOEpiclh4Vm1jWVY1UW13YzFZeGJqSy1lN3ByLXdMSTRQSy0wSWlpQTNqandDMlp1NzB6cER1aHdZYXB5a1NYbzE0bldybjFPbWFwaWZZZERUbEFpOWE4LVF1YkY0am1Ob05XZ3VlUkVsRjJvYm1XUTZSR2d3TU9vTnBBRHFFY042MTl6SUNJSERsd2tFUXRlWFd0N0xtQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-11 16:43:00"
+      },
+      {
+        "title": "矽品斗六廠動土 劉建國盼產業、人才與土地同步布局 - 上報Up Media",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TS0o2RXZRSWxxSy1aZ3E5VzNxMEQ5eGFqZGE4TzVMVFdwVjBlNlVtSDYwcEYtNmVvRGZQV1l6T0JLREhhekdVOUdpSW54UDhmZGE3eHg0aTR1UC1ETFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-11 16:43:00"
       },
       {
@@ -1338,6 +1379,11 @@
     ],
     "facebook": [
       {
+        "title": "國際封測大廠矽品精密今（11）日在雲林斗六舉行擴廠動工典禮，立委張嘉郡出席表示，矽品持續加碼投資雲林，不僅代表企業對雲林投資環境的肯定，更是雲林產業轉型的重要里程碑，尤其是矽品這次投資規模達1000億元，創造2200個就業機會，其中有8成要進用在地 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMikwhBVV95cUxOemtiSDRxN2ZEanl6eGd2cTlWOURnZUQ3c0Vmb1Q2RzljU1UwSFhXandteFV4UVhISGVhLVAxRHFnUzI5NzliN19XODR5dVZGN1ZKNEQ0alNEdHR0SUZxdTh0dm9qZDZzVmtySTRJMXkydkRPekxMRnNNbUFjZVN4cHpMTkZ2UEFBVFlMWlhDZGh3dzl3TklvTGg1Q2Q4bWhlUFVuZzlsNmpMM1lLVkFadzZVWVVBbExwbzZUempxRVMxcGJ1ZWUtc09nZmhHU2xUM0xBRmJkQ1RoclNEb0JUN3gtRlpSUXJ1OXVXRG1TcFZIbzZNaUx5eXpkbFlFMEpwemJjV3hYbmR2S0hXN2RqeDhPRUlWcTdpY0ZpTXZ2bG9ndjItcm1xd19MckZMMUZHY2ZaSEIzb0ZIMWF2c3JTRDcyd2tsNUhHQzhnd216WFNEMDdZdVlKZFNyVVlxT1pUUzk2SnpFemoycDZCbHpGVnhpbXZIWFBFaGtyXzlaRDFuaGNqYVk5OFlEYkZVUW1TeGQ5TjdrMzFsTGszWVRFUy11b0RZbUo5OHU1dWhaQ0xxb1VBd0pfRFR0dUNGTnNwTGVuZzlzY001MHVKaWZFWnpraHdmTjlXWl9LaHhaUFRua2d2Y3piOVpsdnQ3SHJob25DeVF0Q1h3SGpQa0kzc2lOVkZPQWVKY2x5VHdjMzhmSHFXX0RnU0lESEZ2RXVmdk9JRWtlSnB3b0E3VExROF9UamtCNjJrNVhvNkUzR2lPWFBXNlVOQUdSNEpCZF9FNW4yb1FoMjF2SmVKR1pRQ1JCZ213MWJqVXNEMElZbC1XTHE3Mk5fY1ptUURQbTlyZnBfOEpTLVpkbzUtN2JzVTd5ZmR1bkxpTW9CVndGRTd1dF9oX01Uc3lSM3Z4bHo2bGtlZkdJNjgzeE0wNU1weFJZME13OXU0a1haNDFGS3d2SExHWWtQV2ZzTTBUY2t1elV1VEc5Um16VGw3bFBrNTl4WG9OME5oNG1Hcm5PemZXSkdDWHJ4Mk9kZDIyR1lhTG5SUzh6RldwaGlpbzVkSWlXZXBPRGxiY2FELUdJZzgyVVRnSkREdk01QXl4ZFBya1hFeC15VFlxbkY1aE96THZ3bF8xRmtWTXVTSWxabVdrbE9uajNDeWZfUC1odlRxZlNVaksyTkFFeTNUYVdRbmFEM1lyRWpCMzFqMFNBUm8xTlNYTlpkVHZIb0VmVHVmTnZEdkdBc0VHUVc4TlFEWWJ3bU0wcU1CV29vRmNxRzdYTnRwaFpMT01uSG1hUXM5NXFCaGVLLVNVVDZpc2hHOVBlOHRBV2gtemlyZERzWUJrVl9naGttZmVWcWE0aHMzTjVhdXdta0R1MHQ5Z21Fdnc1SQ",
+        "time": "2026-08-11 20:55:02"
+      },
+      {
         "title": "「吃飯配沙」➡️「一年剩2天」｜濁水溪9年治理大翻轉 ​過去東北季風一來，風沙一吹就是兩個月；經過 9年努力、中央近30億投入，如今最優紀錄一年揚塵日只剩 2 天！✨️ ​甚至連極罕見的「東方白鸛」和超過 250 種野生鳥類都回到濁水溪，這代表生態真的恢復了！🪶 ​ - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMixAdBVV95cUxQSzRzeXRIS0pDY2QzQmtHXzV6dmhZbUhQaGxhcmJwSVhGVDZ6cnJ0cE9faUswZ2pwSmo1QkR2bmxtZ1lfc0Z1bElIOWhWZjR4ZDdhOFA5WHBXR1J6S0RJSW04ZjVSODEzeDVFNmJwWUVOWTA1LXVPRGt1VEtRVmNFSUF0bFFOMkhZYWsweXlfbE1iMG1FdzE1Ums1T0NtaGxtLW9VQVdCQ1pJaF9ONExXLU5mWmtrOTZmcE5Vb3pxM2k1YmV3ZmlwVHdzdVZnSVk1dWN4X1VTNWtLbThQaENfSXpHazk3ZWR1OE54aGN5cTRTdG1xUjNYVXRzQlR3SWFteU1MbVg0NGdBaDNHRzMyQjIyei02TlNseDFlQ3VvSTJwdDBCRkRxY2RHZTZZc002NDVPRDRLOGZFTXBZVnBkLWViT2FwMHRXMmJsNDVDeGVhTW54cEpKby1GTXNfZDBkMnJmYzFuS2xWXzQ4X3cwb0tRUVh5RTlidjctVmlMV3g3ZmQzVDNDLU9BMC1feTR6TldoUVQ5ZkZ0VHZacWlfUkVabHFzNC1TQXQxcm1ySVlZMmQ1MWtrR0FmRUhUblFZRkRUY1JGcUh5VXB3MnVTSjRqS3lnV1A5cXNLWlNuYXdMOENxczM0R3o1M0FKYklWNHdGenFIczRmOFpkSE5uQ1MtcFZhT3NDZnRLV3lhN3hOWTlRY3FFdFBubTRmWm44RXZRLUhoSm9zZW9keFQ1ZUxkeU1iWWJrOFZRa1BTN1gwdHY5Q2swMDQySnpDV1kwSjNNZDRZLWI2bWI3SE9SUXRPMDBVWVpwME5fVWo3R2tFVS01NW1zU1ZPQUNva0dGekU2Tk54U1VpWjlnbThkTWxHUVdWb01KOUx1MVc3OHFrNHBpbEMzU28zb3VOaEFmbGNpclZhMk9LTjVvcG1wZl9ackgzOVRfb0haX2taTGNFcFVrcXdlQ21FZnFWeVFJSXRCN2xJZ0pxUGZ6MGVHNFRBUHpEbDFERzNGTFNxX1dYNkYtRllLLTZVcWxxOGxmOXBwTTE0XzZhYkdlNmNQQ1F1eDlaOTNhcVpHM05iOENCd2p1YnQtSF9XSm83S19aYmJKeElkcUxhdFpuOVZIT2luUm5WNEQ4YzYtTGtMWFp2SWpyQjBETEZPdUxxZDB6bVZEVG5iTHhEck5VNHVOYWZ6aEJla29jX09SY3BoaDZvcnpYelFBX3dwNzByMXhFd0JnZE5GVVJWMFMtZWdMTmlwbld1LUxsblJVenVLMjVfVmhj",
         "time": "2026-08-11 18:49:03"
@@ -1376,6 +1422,11 @@
       {
         "title": "矽品斗六廠動土 劉建國盼產業、人才與土地同步布局 - tw.news.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPdFBtc2lOOUxpQllYZUJlSjdIVEZlb0JJWTdsOHRNalZpc2NQdjVVQUVUeEhqYU10NlpnSGNRaVk4dl9YVHZIWDNvX0JfUExEV3hEVlBkTFpzaHV6a1hQNENWMloweHJZYmMtbWtTamwxd0gzQ0NDUWZ6YkVpY2pnVFpRRnUtUkZpaTdxUjhXUUEtR09tamtRajZVUzZVX0NiVkM3cmJMSTFxdF9iRTVpSkpDbEtoSlprU2U3R3dUZWJ6aURjaHhLOEpiclh4Vm1jWVY1UW13YzFZeGJqSy1lN3ByLXdMSTRQSy0wSWlpQTNqandDMlp1NzB6cER1aHdZYXB5a1NYbzE0bldybjFPbWFwaWZZZERUbEFpOWE4LVF1YkY0am1Ob05XZ3VlUkVsRjJvYm1XUTZSR2d3TU9vTnBBRHFFY042MTl6SUNJSERsd2tFUXRlWFd0N0xtQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-11 16:43:00"
+      },
+      {
+        "title": "矽品斗六廠動土 劉建國盼產業、人才與土地同步布局 - 上報Up Media",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TS0o2RXZRSWxxSy1aZ3E5VzNxMEQ5eGFqZGE4TzVMVFdwVjBlNlVtSDYwcEYtNmVvRGZQV1l6T0JLREhhekdVOUdpSW54UDhmZGE3eHg0aTR1UC1ETFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-11 16:43:00"
       },
       {
@@ -1427,6 +1478,11 @@
         "title": "甘厝老活動中心重建動工 劉建國爭取2854萬中央全額補助 - 觀傳媒",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94OVN5aTlUMmtYaHpjbFBLWkNfS2NHLWIzS29ESkhwWFZtTkhBRzk4MGQ4NUNxZkE3Mmw2SFIzS0hyQnUzZmk5VThlbTdqRGxhaGE4U2NQOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-10 21:12:51"
+      },
+      {
+        "title": "甘厝老活動中心重建動工 劉建國爭取2854萬中央全額補助 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ucWV3U0NkMTFKdC1pOVlBOWF6TWNDMF9PNmJpb1dGc1kwZEpmRHVKeGt5VUFielV4LXZzRFhyQk1YdnZJSlJKUDc1bU5MdzZqaEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-10 21:12:00"
       },
       {
         "title": "甘厝村活動中心動工 劉建國爭取2,854萬元打造世代共融新據點 - 台灣民眾電子報",
@@ -1542,19 +1598,14 @@
         "title": "本報《政面交鋒》專訪 再戰雲林張家 劉建國：打破家族政治 | 自由電子報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FcFYxNTFKZnB5WENKNG9lV1AxWDZTdnl5Mm5HSzBsOW5IMDFzQ0QzdFRFQ1BNemZtclFoMDViWDRGUVJNYlVNanRTc1RsaDFIMWNHT0Rn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-08 06:02:45"
-      },
-      {
-        "title": "本報《政面交鋒》專訪再戰雲林張家劉建國：打破家族政治- 政治 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oOHBpOXlWZ3J6cUxOUnh2blhYcl94NzVYc1k5UlRRbU1OTkdHYVV2NXdBb1NrRG9mdmoxN0tqQ3l6LVhmX0RZTWpqQnB1YWRCYWVwa0RCRmpPT0ZkZHRLUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-08 05:30:00"
-      },
-      {
-        "title": "本報《政面交鋒》專訪劉建國：打造雙技園區讓青年留在雲林- 政治 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwZ1VHX19UX01hV1pPcG1ZNE1PQTIwTWdiZHRscFFMdjdzYmNJY2t4OENTOTdhMHUxSTVlX1RKalU5bVU5SmtUWHBVdk92TTBEeXFUQnlYa2FuT3I5Q19lZA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-08 05:30:00"
       }
     ],
     "facebook": [
+      {
+        "title": "國際封測大廠矽品精密今（11）日在雲林斗六舉行擴廠動工典禮，立委張嘉郡出席表示，矽品持續加碼投資雲林，不僅代表企業對雲林投資環境的肯定，更是雲林產業轉型的重要里程碑，尤其是矽品這次投資規模達1000億元，創造2200個就業機會，其中有8成要進用在地 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMikwhBVV95cUxOemtiSDRxN2ZEanl6eGd2cTlWOURnZUQ3c0Vmb1Q2RzljU1UwSFhXandteFV4UVhISGVhLVAxRHFnUzI5NzliN19XODR5dVZGN1ZKNEQ0alNEdHR0SUZxdTh0dm9qZDZzVmtySTRJMXkydkRPekxMRnNNbUFjZVN4cHpMTkZ2UEFBVFlMWlhDZGh3dzl3TklvTGg1Q2Q4bWhlUFVuZzlsNmpMM1lLVkFadzZVWVVBbExwbzZUempxRVMxcGJ1ZWUtc09nZmhHU2xUM0xBRmJkQ1RoclNEb0JUN3gtRlpSUXJ1OXVXRG1TcFZIbzZNaUx5eXpkbFlFMEpwemJjV3hYbmR2S0hXN2RqeDhPRUlWcTdpY0ZpTXZ2bG9ndjItcm1xd19MckZMMUZHY2ZaSEIzb0ZIMWF2c3JTRDcyd2tsNUhHQzhnd216WFNEMDdZdVlKZFNyVVlxT1pUUzk2SnpFemoycDZCbHpGVnhpbXZIWFBFaGtyXzlaRDFuaGNqYVk5OFlEYkZVUW1TeGQ5TjdrMzFsTGszWVRFUy11b0RZbUo5OHU1dWhaQ0xxb1VBd0pfRFR0dUNGTnNwTGVuZzlzY001MHVKaWZFWnpraHdmTjlXWl9LaHhaUFRua2d2Y3piOVpsdnQ3SHJob25DeVF0Q1h3SGpQa0kzc2lOVkZPQWVKY2x5VHdjMzhmSHFXX0RnU0lESEZ2RXVmdk9JRWtlSnB3b0E3VExROF9UamtCNjJrNVhvNkUzR2lPWFBXNlVOQUdSNEpCZF9FNW4yb1FoMjF2SmVKR1pRQ1JCZ213MWJqVXNEMElZbC1XTHE3Mk5fY1ptUURQbTlyZnBfOEpTLVpkbzUtN2JzVTd5ZmR1bkxpTW9CVndGRTd1dF9oX01Uc3lSM3Z4bHo2bGtlZkdJNjgzeE0wNU1weFJZME13OXU0a1haNDFGS3d2SExHWWtQV2ZzTTBUY2t1elV1VEc5Um16VGw3bFBrNTl4WG9OME5oNG1Hcm5PemZXSkdDWHJ4Mk9kZDIyR1lhTG5SUzh6RldwaGlpbzVkSWlXZXBPRGxiY2FELUdJZzgyVVRnSkREdk01QXl4ZFBya1hFeC15VFlxbkY1aE96THZ3bF8xRmtWTXVTSWxabVdrbE9uajNDeWZfUC1odlRxZlNVaksyTkFFeTNUYVdRbmFEM1lyRWpCMzFqMFNBUm8xTlNYTlpkVHZIb0VmVHVmTnZEdkdBc0VHUVc4TlFEWWJ3bU0wcU1CV29vRmNxRzdYTnRwaFpMT01uSG1hUXM5NXFCaGVLLVNVVDZpc2hHOVBlOHRBV2gtemlyZERzWUJrVl9naGttZmVWcWE0aHMzTjVhdXdta0R1MHQ5Z21Fdnc1SQ",
+        "time": "2026-08-11 20:55:02"
+      },
       {
         "title": "「吃飯配沙」➡️「一年剩2天」｜濁水溪9年治理大翻轉 ​過去東北季風一來，風沙一吹就是兩個月；經過 9年努力、中央近30億投入，如今最優紀錄一年揚塵日只剩 2 天！✨️ ​甚至連極罕見的「東方白鸛」和超過 250 種野生鳥類都回到濁水溪，這代表生態真的恢復了！🪶 ​ - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMixAdBVV95cUxQSzRzeXRIS0pDY2QzQmtHXzV6dmhZbUhQaGxhcmJwSVhGVDZ6cnJ0cE9faUswZ2pwSmo1QkR2bmxtZ1lfc0Z1bElIOWhWZjR4ZDdhOFA5WHBXR1J6S0RJSW04ZjVSODEzeDVFNmJwWUVOWTA1LXVPRGt1VEtRVmNFSUF0bFFOMkhZYWsweXlfbE1iMG1FdzE1Ums1T0NtaGxtLW9VQVdCQ1pJaF9ONExXLU5mWmtrOTZmcE5Vb3pxM2k1YmV3ZmlwVHdzdVZnSVk1dWN4X1VTNWtLbThQaENfSXpHazk3ZWR1OE54aGN5cTRTdG1xUjNYVXRzQlR3SWFteU1MbVg0NGdBaDNHRzMyQjIyei02TlNseDFlQ3VvSTJwdDBCRkRxY2RHZTZZc002NDVPRDRLOGZFTXBZVnBkLWViT2FwMHRXMmJsNDVDeGVhTW54cEpKby1GTXNfZDBkMnJmYzFuS2xWXzQ4X3cwb0tRUVh5RTlidjctVmlMV3g3ZmQzVDNDLU9BMC1feTR6TldoUVQ5ZkZ0VHZacWlfUkVabHFzNC1TQXQxcm1ySVlZMmQ1MWtrR0FmRUhUblFZRkRUY1JGcUh5VXB3MnVTSjRqS3lnV1A5cXNLWlNuYXdMOENxczM0R3o1M0FKYklWNHdGenFIczRmOFpkSE5uQ1MtcFZhT3NDZnRLV3lhN3hOWTlRY3FFdFBubTRmWm44RXZRLUhoSm9zZW9keFQ1ZUxkeU1iWWJrOFZRa1BTN1gwdHY5Q2swMDQySnpDV1kwSjNNZDRZLWI2bWI3SE9SUXRPMDBVWVpwME5fVWo3R2tFVS01NW1zU1ZPQUNva0dGekU2Tk54U1VpWjlnbThkTWxHUVdWb01KOUx1MVc3OHFrNHBpbEMzU28zb3VOaEFmbGNpclZhMk9LTjVvcG1wZl9ackgzOVRfb0haX2taTGNFcFVrcXdlQ21FZnFWeVFJSXRCN2xJZ0pxUGZ6MGVHNFRBUHpEbDFERzNGTFNxX1dYNkYtRllLLTZVcWxxOGxmOXBwTTE0XzZhYkdlNmNQQ1F1eDlaOTNhcVpHM05iOENCd2p1YnQtSF9XSm83S19aYmJKeElkcUxhdFpuOVZIT2luUm5WNEQ4YzYtTGtMWFp2SWpyQjBETEZPdUxxZDB6bVZEVG5iTHhEck5VNHVOYWZ6aEJla29jX09SY3BoaDZvcnpYelFBX3dwNzByMXhFd0JnZE5GVVJWMFMtZWdMTmlwbld1LUxsblJVenVLMjVfVmhj",
@@ -1689,6 +1740,13 @@
     "hour": [],
     "day": [
       {
+        "title": "國際封測大廠矽品精密今（11）日在雲林斗六舉行擴廠動工典禮，立委張嘉郡出席表示，矽品持續加碼投資雲林，不僅代表企業對雲林投資環境的肯定，更是雲林產業轉型的重要里程碑，尤其是矽品這次投資規模達1000億元，創造2200個就業機會，其中有8成要進用在地 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMikwhBVV95cUxOemtiSDRxN2ZEanl6eGd2cTlWOURnZUQ3c0Vmb1Q2RzljU1UwSFhXandteFV4UVhISGVhLVAxRHFnUzI5NzliN19XODR5dVZGN1ZKNEQ0alNEdHR0SUZxdTh0dm9qZDZzVmtySTRJMXkydkRPekxMRnNNbUFjZVN4cHpMTkZ2UEFBVFlMWlhDZGh3dzl3TklvTGg1Q2Q4bWhlUFVuZzlsNmpMM1lLVkFadzZVWVVBbExwbzZUempxRVMxcGJ1ZWUtc09nZmhHU2xUM0xBRmJkQ1RoclNEb0JUN3gtRlpSUXJ1OXVXRG1TcFZIbzZNaUx5eXpkbFlFMEpwemJjV3hYbmR2S0hXN2RqeDhPRUlWcTdpY0ZpTXZ2bG9ndjItcm1xd19MckZMMUZHY2ZaSEIzb0ZIMWF2c3JTRDcyd2tsNUhHQzhnd216WFNEMDdZdVlKZFNyVVlxT1pUUzk2SnpFemoycDZCbHpGVnhpbXZIWFBFaGtyXzlaRDFuaGNqYVk5OFlEYkZVUW1TeGQ5TjdrMzFsTGszWVRFUy11b0RZbUo5OHU1dWhaQ0xxb1VBd0pfRFR0dUNGTnNwTGVuZzlzY001MHVKaWZFWnpraHdmTjlXWl9LaHhaUFRua2d2Y3piOVpsdnQ3SHJob25DeVF0Q1h3SGpQa0kzc2lOVkZPQWVKY2x5VHdjMzhmSHFXX0RnU0lESEZ2RXVmdk9JRWtlSnB3b0E3VExROF9UamtCNjJrNVhvNkUzR2lPWFBXNlVOQUdSNEpCZF9FNW4yb1FoMjF2SmVKR1pRQ1JCZ213MWJqVXNEMElZbC1XTHE3Mk5fY1ptUURQbTlyZnBfOEpTLVpkbzUtN2JzVTd5ZmR1bkxpTW9CVndGRTd1dF9oX01Uc3lSM3Z4bHo2bGtlZkdJNjgzeE0wNU1weFJZME13OXU0a1haNDFGS3d2SExHWWtQV2ZzTTBUY2t1elV1VEc5Um16VGw3bFBrNTl4WG9OME5oNG1Hcm5PemZXSkdDWHJ4Mk9kZDIyR1lhTG5SUzh6RldwaGlpbzVkSWlXZXBPRGxiY2FELUdJZzgyVVRnSkREdk01QXl4ZFBya1hFeC15VFlxbkY1aE96THZ3bF8xRmtWTXVTSWxabVdrbE9uajNDeWZfUC1odlRxZlNVaksyTkFFeTNUYVdRbmFEM1lyRWpCMzFqMFNBUm8xTlNYTlpkVHZIb0VmVHVmTnZEdkdBc0VHUVc4TlFEWWJ3bU0wcU1CV29vRmNxRzdYTnRwaFpMT01uSG1hUXM5NXFCaGVLLVNVVDZpc2hHOVBlOHRBV2gtemlyZERzWUJrVl9naGttZmVWcWE0aHMzTjVhdXdta0R1MHQ5Z21Fdnc1SQ",
+        "time": "2026-08-11 20:55:02",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
         "title": "「吃飯配沙」➡️「一年剩2天」｜濁水溪9年治理大翻轉 ​過去東北季風一來，風沙一吹就是兩個月；經過 9年努力、中央近30億投入，如今最優紀錄一年揚塵日只剩 2 天！✨️ ​甚至連極罕見的「東方白鸛」和超過 250 種野生鳥類都回到濁水溪，這代表生態真的恢復了！🪶 ​ - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMixAdBVV95cUxQSzRzeXRIS0pDY2QzQmtHXzV6dmhZbUhQaGxhcmJwSVhGVDZ6cnJ0cE9faUswZ2pwSmo1QkR2bmxtZ1lfc0Z1bElIOWhWZjR4ZDdhOFA5WHBXR1J6S0RJSW04ZjVSODEzeDVFNmJwWUVOWTA1LXVPRGt1VEtRVmNFSUF0bFFOMkhZYWsweXlfbE1iMG1FdzE1Ums1T0NtaGxtLW9VQVdCQ1pJaF9ONExXLU5mWmtrOTZmcE5Vb3pxM2k1YmV3ZmlwVHdzdVZnSVk1dWN4X1VTNWtLbThQaENfSXpHazk3ZWR1OE54aGN5cTRTdG1xUjNYVXRzQlR3SWFteU1MbVg0NGdBaDNHRzMyQjIyei02TlNseDFlQ3VvSTJwdDBCRkRxY2RHZTZZc002NDVPRDRLOGZFTXBZVnBkLWViT2FwMHRXMmJsNDVDeGVhTW54cEpKby1GTXNfZDBkMnJmYzFuS2xWXzQ4X3cwb0tRUVh5RTlidjctVmlMV3g3ZmQzVDNDLU9BMC1feTR6TldoUVQ5ZkZ0VHZacWlfUkVabHFzNC1TQXQxcm1ySVlZMmQ1MWtrR0FmRUhUblFZRkRUY1JGcUh5VXB3MnVTSjRqS3lnV1A5cXNLWlNuYXdMOENxczM0R3o1M0FKYklWNHdGenFIczRmOFpkSE5uQ1MtcFZhT3NDZnRLV3lhN3hOWTlRY3FFdFBubTRmWm44RXZRLUhoSm9zZW9keFQ1ZUxkeU1iWWJrOFZRa1BTN1gwdHY5Q2swMDQySnpDV1kwSjNNZDRZLWI2bWI3SE9SUXRPMDBVWVpwME5fVWo3R2tFVS01NW1zU1ZPQUNva0dGekU2Tk54U1VpWjlnbThkTWxHUVdWb01KOUx1MVc3OHFrNHBpbEMzU28zb3VOaEFmbGNpclZhMk9LTjVvcG1wZl9ackgzOVRfb0haX2taTGNFcFVrcXdlQ21FZnFWeVFJSXRCN2xJZ0pxUGZ6MGVHNFRBUHpEbDFERzNGTFNxX1dYNkYtRllLLTZVcWxxOGxmOXBwTTE0XzZhYkdlNmNQQ1F1eDlaOTNhcVpHM05iOENCd2p1YnQtSF9XSm83S19aYmJKeElkcUxhdFpuOVZIT2luUm5WNEQ4YzYtTGtMWFp2SWpyQjBETEZPdUxxZDB6bVZEVG5iTHhEck5VNHVOYWZ6aEJla29jX09SY3BoaDZvcnpYelFBX3dwNzByMXhFd0JnZE5GVVJWMFMtZWdMTmlwbld1LUxsblJVenVLMjVfVmhj",
         "time": "2026-08-11 18:49:03",
@@ -1733,6 +1791,13 @@
       {
         "title": "矽品斗六廠動土 劉建國盼產業、人才與土地同步布局 - tw.news.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPdFBtc2lOOUxpQllYZUJlSjdIVEZlb0JJWTdsOHRNalZpc2NQdjVVQUVUeEhqYU10NlpnSGNRaVk4dl9YVHZIWDNvX0JfUExEV3hEVlBkTFpzaHV6a1hQNENWMloweHJZYmMtbWtTamwxd0gzQ0NDUWZ6YkVpY2pnVFpRRnUtUkZpaTdxUjhXUUEtR09tamtRajZVUzZVX0NiVkM3cmJMSTFxdF9iRTVpSkpDbEtoSlprU2U3R3dUZWJ6aURjaHhLOEpiclh4Vm1jWVY1UW13YzFZeGJqSy1lN3ByLXdMSTRQSy0wSWlpQTNqandDMlp1NzB6cER1aHdZYXB5a1NYbzE0bldybjFPbWFwaWZZZERUbEFpOWE4LVF1YkY0am1Ob05XZ3VlUkVsRjJvYm1XUTZSR2d3TU9vTnBBRHFFY042MTl6SUNJSERsd2tFUXRlWFd0N0xtQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-11 16:43:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "矽品斗六廠動土 劉建國盼產業、人才與土地同步布局 - 上報Up Media",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TS0o2RXZRSWxxSy1aZ3E5VzNxMEQ5eGFqZGE4TzVMVFdwVjBlNlVtSDYwcEYtNmVvRGZQV1l6T0JLREhhekdVOUdpSW54UDhmZGE3eHg0aTR1UC1ETFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-11 16:43:00",
         "platform": "news",
         "risk": "綠"
@@ -1792,11 +1857,11 @@
     "regions": [
       {
         "name": "斗六",
-        "count": 11
+        "count": 13
       },
       {
         "name": "雲林",
-        "count": 11
+        "count": 12
       },
       {
         "name": "虎尾",
