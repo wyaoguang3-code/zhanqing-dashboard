@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-08-12T10:49:45.490509+00:00",
+  "generated_at": "2026-08-12T11:05:20.065226+00:00",
   "metrics": {
-    "total_24h": 5,
-    "prev_24h": 21,
-    "growth_pct": -76.19,
-    "news_24h": 2,
+    "total_24h": 6,
+    "prev_24h": 23,
+    "growth_pct": -73.91,
+    "news_24h": 3,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -15,8 +15,8 @@
   },
   "metrics_7d": {
     "total": 122,
-    "prev": 120,
-    "growth_pct": 1.67,
+    "prev": 123,
+    "growth_pct": -0.81,
     "news": 95,
     "anomaly": {
       "level": "綠",
@@ -32,7 +32,7 @@
     },
     {
       "platform": "news",
-      "count": 2
+      "count": 3
     }
   ],
   "by_platform_7d": [
@@ -55,10 +55,6 @@
   ],
   "by_hour": [
     {
-      "hour": "2026-08-11 18:00",
-      "count": 1
-    },
-    {
       "hour": "2026-08-11 19:00",
       "count": 1
     },
@@ -73,16 +69,16 @@
     {
       "hour": "2026-08-12 09:00",
       "count": 1
+    },
+    {
+      "hour": "2026-08-12 18:00",
+      "count": 2
     }
   ],
   "by_hour_7d": [
     {
-      "hour": "2026-08-05 18:00",
-      "count": 2
-    },
-    {
       "hour": "2026-08-05 19:00",
-      "count": 3
+      "count": 2
     },
     {
       "hour": "2026-08-05 21:00",
@@ -298,7 +294,7 @@
     },
     {
       "hour": "2026-08-11 18:00",
-      "count": 6
+      "count": 7
     },
     {
       "hour": "2026-08-11 19:00",
@@ -315,19 +311,40 @@
     {
       "hour": "2026-08-12 09:00",
       "count": 1
+    },
+    {
+      "hour": "2026-08-12 18:00",
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
-      "platform": "facebook",
-      "count": 2
+      "platform": "news",
+      "count": 3
     },
     {
-      "platform": "news",
+      "platform": "facebook",
       "count": 2
     }
   ],
   "mention_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "矽品斥資千億落腳雲林拚2200職缺 劉建國:能吸引更多企業 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOZnRvdFppdUxNXzk5ZnpQOXVVNV9Jd2o4QTY4VDBwZ2hrWm9OYjJoUUIwZGI3T2ZqTVBzanQ5bnlrRGgxOWdWd2tFeTlDR1UxVHBFenNTRHFWSDJ0TlMxUTB5S214ZmlHVlFtZHZnb3otVjYtM3Jxd21xM1FtN0ZmR0Vyc1ExN3h0cjZMWHhIeUlLbDZkWm9NdlhHUmFWd3RuVDZkQkM5TWxRWnpvLVJMa1RBYTdlN0FhWWRES3dMalFDQ1RoVm5hRTh4TGFRUHlrUGFXbXh4SE9FbXZkNVBJanVyNTdqbW1YT196a0NvTF82V1VmNndDbV9WeWZGaWlxdGxHOXI4YkFNVThzeXdSUkNBbExvLU53cEstUHp6c3M4Y1BnQnV2Vkp2amQ3N0RRZzBYZXdROU1mYnB3bklWMF85TmZicXY3RHhrOWZRdzZuMmtHcGtJbFFTbVlPM2oyU2JWbTcwX253cjBtZVBZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-12 18:37:44"
+      },
+      {
+        "title": "矽品斥資千億落腳雲林拚2200職缺 劉建國:能吸引更多企業 - Yahoo股市",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNUnpNTVJfcmQ2YkJoeUJfaFBoRzlSWmhrdVVaeVFNZU9tUUd2SWlYZXVrQlpZcnFZS0xXMVpINXJEWU9CTkNxOUk0b3lielVHZ1NyWVlzbWVaUGh5aDhONWJKYzNSenNBVDdZVk4tTXQ3Wng2Z1VuT2dxazZDbDloR2tEd2otYWppQTRyREJTbFlDTXNTUWRaNm5UN2tXYnJ4ZnpqaVVFSVMwOWJyZEhsVWVIVmluWGxwbUNvY3N0RERRQ25uSF90R04wd2RjVlBUTlVWNTI5cm0xbHdQRi1GS0UtN2JpM0VWTFFQak00T25EdTNVeEgwQ0RIZ1BmNWV5N3A0TzFvVURqVldsdFpCZGE3VktSWlJOcXg2RlRJNnZMV0tpLVpfMVJCYTFvVWJ6VElyWF93MkNnTHN2bG9aY0xzcTFSNi0zMmRtTHV3Y1dON1F1Ny1JVFdlQ18tZnFqWE5iUDZ6ZkNZbnk1bVlvX0VQOV9udmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-12 18:37:44"
+      },
+      {
+        "title": "矽品斗六廠動土 劉建國：勇敢、轉型、科技新雲林 又邁向一大步 - 886.news",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kZkFPTXRFS3pTR3A4VVM2RXUtWlJSM0RNMFlsZjl1bWo5Xzc3S0xySDZ5WUY3NFJ1VVAtM0RGb1FETENiblUw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-11 19:58:35"
+      }
+    ],
     "facebook": [
       {
         "title": "矽品斗六擴廠砸千億動土 張嘉郡：爭取科技廠進駐 https://cnews.com.tw/247260811a03/ #張嘉郡 #擴廠 #斗六 - facebook.com",
@@ -338,32 +355,37 @@
         "title": "國際封測大廠矽品精密今（11）日在雲林斗六舉行擴廠動工典禮，立委張嘉郡出席表示，矽品持續加碼投資雲林，不僅代表企業對雲林投資環境的肯定，更是雲林產業轉型的重要里程碑，尤其是矽品這次投資規模達1000億元，創造2200個就業機會，其中有8成要進用在地 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMikwhBVV95cUxOemtiSDRxN2ZEanl6eGd2cTlWOURnZUQ3c0Vmb1Q2RzljU1UwSFhXandteFV4UVhISGVhLVAxRHFnUzI5NzliN19XODR5dVZGN1ZKNEQ0alNEdHR0SUZxdTh0dm9qZDZzVmtySTRJMXkydkRPekxMRnNNbUFjZVN4cHpMTkZ2UEFBVFlMWlhDZGh3dzl3TklvTGg1Q2Q4bWhlUFVuZzlsNmpMM1lLVkFadzZVWVVBbExwbzZUempxRVMxcGJ1ZWUtc09nZmhHU2xUM0xBRmJkQ1RoclNEb0JUN3gtRlpSUXJ1OXVXRG1TcFZIbzZNaUx5eXpkbFlFMEpwemJjV3hYbmR2S0hXN2RqeDhPRUlWcTdpY0ZpTXZ2bG9ndjItcm1xd19MckZMMUZHY2ZaSEIzb0ZIMWF2c3JTRDcyd2tsNUhHQzhnd216WFNEMDdZdVlKZFNyVVlxT1pUUzk2SnpFemoycDZCbHpGVnhpbXZIWFBFaGtyXzlaRDFuaGNqYVk5OFlEYkZVUW1TeGQ5TjdrMzFsTGszWVRFUy11b0RZbUo5OHU1dWhaQ0xxb1VBd0pfRFR0dUNGTnNwTGVuZzlzY001MHVKaWZFWnpraHdmTjlXWl9LaHhaUFRua2d2Y3piOVpsdnQ3SHJob25DeVF0Q1h3SGpQa0kzc2lOVkZPQWVKY2x5VHdjMzhmSHFXX0RnU0lESEZ2RXVmdk9JRWtlSnB3b0E3VExROF9UamtCNjJrNVhvNkUzR2lPWFBXNlVOQUdSNEpCZF9FNW4yb1FoMjF2SmVKR1pRQ1JCZ213MWJqVXNEMElZbC1XTHE3Mk5fY1ptUURQbTlyZnBfOEpTLVpkbzUtN2JzVTd5ZmR1bkxpTW9CVndGRTd1dF9oX01Uc3lSM3Z4bHo2bGtlZkdJNjgzeE0wNU1weFJZME13OXU0a1haNDFGS3d2SExHWWtQV2ZzTTBUY2t1elV1VEc5Um16VGw3bFBrNTl4WG9OME5oNG1Hcm5PemZXSkdDWHJ4Mk9kZDIyR1lhTG5SUzh6RldwaGlpbzVkSWlXZXBPRGxiY2FELUdJZzgyVVRnSkREdk01QXl4ZFBya1hFeC15VFlxbkY1aE96THZ3bF8xRmtWTXVTSWxabVdrbE9uajNDeWZfUC1odlRxZlNVaksyTkFFeTNUYVdRbmFEM1lyRWpCMzFqMFNBUm8xTlNYTlpkVHZIb0VmVHVmTnZEdkdBc0VHUVc4TlFEWWJ3bU0wcU1CV29vRmNxRzdYTnRwaFpMT01uSG1hUXM5NXFCaGVLLVNVVDZpc2hHOVBlOHRBV2gtemlyZERzWUJrVl9naGttZmVWcWE0aHMzTjVhdXdta0R1MHQ5Z21Fdnc1SQ",
         "time": "2026-08-11 20:55:02"
-      }
-    ],
-    "news": [
-      {
-        "title": "矽品斗六廠動土 劉建國：勇敢、轉型、科技新雲林 又邁向一大步 - 886.news",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kZkFPTXRFS3pTR3A4VVM2RXUtWlJSM0RNMFlsZjl1bWo5Xzc3S0xySDZ5WUY3NFJ1VVAtM0RGb1FETENiblUw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-11 19:58:35"
-      },
-      {
-        "title": "討論牆 | 矽品斗六擴廠動工 張嘉郡持續爭取科技廠進駐 讓雲林彎道超車 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByV3haYi1nVXFOUkxraThvYlV6Q19TTjRTT0R2OFdRdXg1N3VxNnlVOHh1WF9uT2ZtRS1wMF9iSVRLLXlEMXBiV3dmeHk2N24xY2lHNG01a3hUWHRvaVZlVEt6UG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-11 18:58:20"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
-      "platform": "facebook",
-      "count": 2
+      "platform": "news",
+      "count": 3
     },
     {
-      "platform": "news",
+      "platform": "facebook",
       "count": 2
     }
   ],
   "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "矽品斥資千億落腳雲林拚2200職缺 劉建國:能吸引更多企業 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOZnRvdFppdUxNXzk5ZnpQOXVVNV9Jd2o4QTY4VDBwZ2hrWm9OYjJoUUIwZGI3T2ZqTVBzanQ5bnlrRGgxOWdWd2tFeTlDR1UxVHBFenNTRHFWSDJ0TlMxUTB5S214ZmlHVlFtZHZnb3otVjYtM3Jxd21xM1FtN0ZmR0Vyc1ExN3h0cjZMWHhIeUlLbDZkWm9NdlhHUmFWd3RuVDZkQkM5TWxRWnpvLVJMa1RBYTdlN0FhWWRES3dMalFDQ1RoVm5hRTh4TGFRUHlrUGFXbXh4SE9FbXZkNVBJanVyNTdqbW1YT196a0NvTF82V1VmNndDbV9WeWZGaWlxdGxHOXI4YkFNVThzeXdSUkNBbExvLU53cEstUHp6c3M4Y1BnQnV2Vkp2amQ3N0RRZzBYZXdROU1mYnB3bklWMF85TmZicXY3RHhrOWZRdzZuMmtHcGtJbFFTbVlPM2oyU2JWbTcwX253cjBtZVBZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-12 18:37:44"
+      },
+      {
+        "title": "矽品斥資千億落腳雲林拚2200職缺 劉建國:能吸引更多企業 - Yahoo股市",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNUnpNTVJfcmQ2YkJoeUJfaFBoRzlSWmhrdVVaeVFNZU9tUUd2SWlYZXVrQlpZcnFZS0xXMVpINXJEWU9CTkNxOUk0b3lielVHZ1NyWVlzbWVaUGh5aDhONWJKYzNSenNBVDdZVk4tTXQ3Wng2Z1VuT2dxazZDbDloR2tEd2otYWppQTRyREJTbFlDTXNTUWRaNm5UN2tXYnJ4ZnpqaVVFSVMwOWJyZEhsVWVIVmluWGxwbUNvY3N0RERRQ25uSF90R04wd2RjVlBUTlVWNTI5cm0xbHdQRi1GS0UtN2JpM0VWTFFQak00T25EdTNVeEgwQ0RIZ1BmNWV5N3A0TzFvVURqVldsdFpCZGE3VktSWlJOcXg2RlRJNnZMV0tpLVpfMVJCYTFvVWJ6VElyWF93MkNnTHN2bG9aY0xzcTFSNi0zMmRtTHV3Y1dON1F1Ny1JVFdlQ18tZnFqWE5iUDZ6ZkNZbnk1bVlvX0VQOV9udmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-12 18:37:44"
+      },
+      {
+        "title": "矽品斗六廠動土 劉建國：勇敢、轉型、科技新雲林 又邁向一大步 - 886.news",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kZkFPTXRFS3pTR3A4VVM2RXUtWlJSM0RNMFlsZjl1bWo5Xzc3S0xySDZ5WUY3NFJ1VVAtM0RGb1FETENiblUw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-11 19:58:35"
+      }
+    ],
     "facebook": [
       {
         "title": "矽品斗六擴廠砸千億動土 張嘉郡：爭取科技廠進駐 https://cnews.com.tw/247260811a03/ #張嘉郡 #擴廠 #斗六 - facebook.com",
@@ -375,42 +397,45 @@
         "url": "https://news.google.com/rss/articles/CBMikwhBVV95cUxOemtiSDRxN2ZEanl6eGd2cTlWOURnZUQ3c0Vmb1Q2RzljU1UwSFhXandteFV4UVhISGVhLVAxRHFnUzI5NzliN19XODR5dVZGN1ZKNEQ0alNEdHR0SUZxdTh0dm9qZDZzVmtySTRJMXkydkRPekxMRnNNbUFjZVN4cHpMTkZ2UEFBVFlMWlhDZGh3dzl3TklvTGg1Q2Q4bWhlUFVuZzlsNmpMM1lLVkFadzZVWVVBbExwbzZUempxRVMxcGJ1ZWUtc09nZmhHU2xUM0xBRmJkQ1RoclNEb0JUN3gtRlpSUXJ1OXVXRG1TcFZIbzZNaUx5eXpkbFlFMEpwemJjV3hYbmR2S0hXN2RqeDhPRUlWcTdpY0ZpTXZ2bG9ndjItcm1xd19MckZMMUZHY2ZaSEIzb0ZIMWF2c3JTRDcyd2tsNUhHQzhnd216WFNEMDdZdVlKZFNyVVlxT1pUUzk2SnpFemoycDZCbHpGVnhpbXZIWFBFaGtyXzlaRDFuaGNqYVk5OFlEYkZVUW1TeGQ5TjdrMzFsTGszWVRFUy11b0RZbUo5OHU1dWhaQ0xxb1VBd0pfRFR0dUNGTnNwTGVuZzlzY001MHVKaWZFWnpraHdmTjlXWl9LaHhaUFRua2d2Y3piOVpsdnQ3SHJob25DeVF0Q1h3SGpQa0kzc2lOVkZPQWVKY2x5VHdjMzhmSHFXX0RnU0lESEZ2RXVmdk9JRWtlSnB3b0E3VExROF9UamtCNjJrNVhvNkUzR2lPWFBXNlVOQUdSNEpCZF9FNW4yb1FoMjF2SmVKR1pRQ1JCZ213MWJqVXNEMElZbC1XTHE3Mk5fY1ptUURQbTlyZnBfOEpTLVpkbzUtN2JzVTd5ZmR1bkxpTW9CVndGRTd1dF9oX01Uc3lSM3Z4bHo2bGtlZkdJNjgzeE0wNU1weFJZME13OXU0a1haNDFGS3d2SExHWWtQV2ZzTTBUY2t1elV1VEc5Um16VGw3bFBrNTl4WG9OME5oNG1Hcm5PemZXSkdDWHJ4Mk9kZDIyR1lhTG5SUzh6RldwaGlpbzVkSWlXZXBPRGxiY2FELUdJZzgyVVRnSkREdk01QXl4ZFBya1hFeC15VFlxbkY1aE96THZ3bF8xRmtWTXVTSWxabVdrbE9uajNDeWZfUC1odlRxZlNVaksyTkFFeTNUYVdRbmFEM1lyRWpCMzFqMFNBUm8xTlNYTlpkVHZIb0VmVHVmTnZEdkdBc0VHUVc4TlFEWWJ3bU0wcU1CV29vRmNxRzdYTnRwaFpMT01uSG1hUXM5NXFCaGVLLVNVVDZpc2hHOVBlOHRBV2gtemlyZERzWUJrVl9naGttZmVWcWE0aHMzTjVhdXdta0R1MHQ5Z21Fdnc1SQ",
         "time": "2026-08-11 20:55:02"
       }
-    ],
-    "news": [
-      {
-        "title": "矽品斗六廠動土 劉建國：勇敢、轉型、科技新雲林 又邁向一大步 - 886.news",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kZkFPTXRFS3pTR3A4VVM2RXUtWlJSM0RNMFlsZjl1bWo5Xzc3S0xySDZ5WUY3NFJ1VVAtM0RGb1FETENiblUw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-11 19:58:35"
-      },
-      {
-        "title": "討論牆 | 矽品斗六擴廠動工 張嘉郡持續爭取科技廠進駐 讓雲林彎道超車 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByV3haYi1nVXFOUkxraThvYlV6Q19TTjRTT0R2OFdRdXg1N3VxNnlVOHh1WF9uT2ZtRS1wMF9iSVRLLXlEMXBiV3dmeHk2N24xY2lHNG01a3hUWHRvaVZlVEt6UG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-11 18:58:20"
-      }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 3,
-    "劉建國": 1
+    "張嘉郡": 2,
+    "劉建國": 3
   },
   "mention_compare_7d": {
-    "張嘉郡": 30,
-    "劉建國": 78
+    "張嘉郡": 27,
+    "劉建國": 81
   },
   "top_news": [
+    {
+      "title": "矽品斥資千億落腳雲林拚2200職缺 劉建國:能吸引更多企業 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOZnRvdFppdUxNXzk5ZnpQOXVVNV9Jd2o4QTY4VDBwZ2hrWm9OYjJoUUIwZGI3T2ZqTVBzanQ5bnlrRGgxOWdWd2tFeTlDR1UxVHBFenNTRHFWSDJ0TlMxUTB5S214ZmlHVlFtZHZnb3otVjYtM3Jxd21xM1FtN0ZmR0Vyc1ExN3h0cjZMWHhIeUlLbDZkWm9NdlhHUmFWd3RuVDZkQkM5TWxRWnpvLVJMa1RBYTdlN0FhWWRES3dMalFDQ1RoVm5hRTh4TGFRUHlrUGFXbXh4SE9FbXZkNVBJanVyNTdqbW1YT196a0NvTF82V1VmNndDbV9WeWZGaWlxdGxHOXI4YkFNVThzeXdSUkNBbExvLU53cEstUHp6c3M4Y1BnQnV2Vkp2amQ3N0RRZzBYZXdROU1mYnB3bklWMF85TmZicXY3RHhrOWZRdzZuMmtHcGtJbFFTbVlPM2oyU2JWbTcwX253cjBtZVBZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-12 18:37:44"
+    },
+    {
+      "title": "矽品斥資千億落腳雲林拚2200職缺 劉建國:能吸引更多企業 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNUnpNTVJfcmQ2YkJoeUJfaFBoRzlSWmhrdVVaeVFNZU9tUUd2SWlYZXVrQlpZcnFZS0xXMVpINXJEWU9CTkNxOUk0b3lielVHZ1NyWVlzbWVaUGh5aDhONWJKYzNSenNBVDdZVk4tTXQ3Wng2Z1VuT2dxazZDbDloR2tEd2otYWppQTRyREJTbFlDTXNTUWRaNm5UN2tXYnJ4ZnpqaVVFSVMwOWJyZEhsVWVIVmluWGxwbUNvY3N0RERRQ25uSF90R04wd2RjVlBUTlVWNTI5cm0xbHdQRi1GS0UtN2JpM0VWTFFQak00T25EdTNVeEgwQ0RIZ1BmNWV5N3A0TzFvVURqVldsdFpCZGE3VktSWlJOcXg2RlRJNnZMV0tpLVpfMVJCYTFvVWJ6VElyWF93MkNnTHN2bG9aY0xzcTFSNi0zMmRtTHV3Y1dON1F1Ny1JVFdlQ18tZnFqWE5iUDZ6ZkNZbnk1bVlvX0VQOV9udmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-12 18:37:44"
+    },
     {
       "title": "矽品斗六廠動土 劉建國：勇敢、轉型、科技新雲林 又邁向一大步 - 886.news",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kZkFPTXRFS3pTR3A4VVM2RXUtWlJSM0RNMFlsZjl1bWo5Xzc3S0xySDZ5WUY3NFJ1VVAtM0RGb1FETENiblUw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-11 19:58:35"
-    },
-    {
-      "title": "討論牆 | 矽品斗六擴廠動工 張嘉郡持續爭取科技廠進駐 讓雲林彎道超車 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByV3haYi1nVXFOUkxraThvYlV6Q19TTjRTT0R2OFdRdXg1N3VxNnlVOHh1WF9uT2ZtRS1wMF9iSVRLLXlEMXBiV3dmeHk2N24xY2lHNG01a3hUWHRvaVZlVEt6UG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-11 18:58:20"
     }
   ],
   "top_news_7d": [
     {
+      "title": "矽品斥資千億落腳雲林拚2200職缺 劉建國:能吸引更多企業 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOZnRvdFppdUxNXzk5ZnpQOXVVNV9Jd2o4QTY4VDBwZ2hrWm9OYjJoUUIwZGI3T2ZqTVBzanQ5bnlrRGgxOWdWd2tFeTlDR1UxVHBFenNTRHFWSDJ0TlMxUTB5S214ZmlHVlFtZHZnb3otVjYtM3Jxd21xM1FtN0ZmR0Vyc1ExN3h0cjZMWHhIeUlLbDZkWm9NdlhHUmFWd3RuVDZkQkM5TWxRWnpvLVJMa1RBYTdlN0FhWWRES3dMalFDQ1RoVm5hRTh4TGFRUHlrUGFXbXh4SE9FbXZkNVBJanVyNTdqbW1YT196a0NvTF82V1VmNndDbV9WeWZGaWlxdGxHOXI4YkFNVThzeXdSUkNBbExvLU53cEstUHp6c3M4Y1BnQnV2Vkp2amQ3N0RRZzBYZXdROU1mYnB3bklWMF85TmZicXY3RHhrOWZRdzZuMmtHcGtJbFFTbVlPM2oyU2JWbTcwX253cjBtZVBZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-12 18:37:44"
+    },
+    {
+      "title": "矽品斥資千億落腳雲林拚2200職缺 劉建國:能吸引更多企業 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNUnpNTVJfcmQ2YkJoeUJfaFBoRzlSWmhrdVVaeVFNZU9tUUd2SWlYZXVrQlpZcnFZS0xXMVpINXJEWU9CTkNxOUk0b3lielVHZ1NyWVlzbWVaUGh5aDhONWJKYzNSenNBVDdZVk4tTXQ3Wng2Z1VuT2dxazZDbDloR2tEd2otYWppQTRyREJTbFlDTXNTUWRaNm5UN2tXYnJ4ZnpqaVVFSVMwOWJyZEhsVWVIVmluWGxwbUNvY3N0RERRQ25uSF90R04wd2RjVlBUTlVWNTI5cm0xbHdQRi1GS0UtN2JpM0VWTFFQak00T25EdTNVeEgwQ0RIZ1BmNWV5N3A0TzFvVURqVldsdFpCZGE3VktSWlJOcXg2RlRJNnZMV0tpLVpfMVJCYTFvVWJ6VElyWF93MkNnTHN2bG9aY0xzcTFSNi0zMmRtTHV3Y1dON1F1Ny1JVFdlQ18tZnFqWE5iUDZ6ZkNZbnk1bVlvX0VQOV9udmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-12 18:37:44"
+    },
+    {
       "title": "矽品斗六廠動土 劉建國：勇敢、轉型、科技新雲林 又邁向一大步 - 886.news",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kZkFPTXRFS3pTR3A4VVM2RXUtWlJSM0RNMFlsZjl1bWo5Xzc3S0xySDZ5WUY3NFJ1VVAtM0RGb1FETENiblUw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-11 19:58:35"
@@ -419,6 +444,11 @@
       "title": "討論牆 | 矽品斗六擴廠動工 張嘉郡持續爭取科技廠進駐 讓雲林彎道超車 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByV3haYi1nVXFOUkxraThvYlV6Q19TTjRTT0R2OFdRdXg1N3VxNnlVOHh1WF9uT2ZtRS1wMF9iSVRLLXlEMXBiV3dmeHk2N24xY2lHNG01a3hUWHRvaVZlVEt6UG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-11 18:58:20"
+    },
+    {
+      "title": "矽品砸千億建斗六廠「徵2200人」 劉建國急喊土地、園區快跟上 | 民視新聞網 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3Z2RvOWhQcnZXdkVkakRSckZFWHZiUkx6QlIzV2pOeWlqVFJEdHlxMmczaWhxanZuTHZKWG9lT2ZMSEJaZm43amstNzBqZ2szcVBvY1pR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-11 18:42:16"
     },
     {
       "title": "矽品從虎尾擴廠至斗六 張嘉郡：雲林產業轉型重要里程碑| 政治焦點 - 太報 TaiSounds",
@@ -494,21 +524,6 @@
       "title": "甘厝老活動中心重建動工 劉建國爭取2854萬中央全額補助 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPYVdqQkVIcUxjVUMtRHJERl81c3Fxbm92S1Y3OVhaSm03eWlfOXl4M09zcTJEMGhWQ19WWlJ2bVd4bEx1aGpBSVVTX05td1FsaWhwN0kzZGhtdlhGTFhxbGNySmxTTWpTaThrbVgzTHFTMlhTcEsyS3VvV0FlZGpqTU1kY2JQT3E5WUVQWV9Db3ZmMjhwa3FjZVMxLVNWYUdXNEJXT2xHZThyME5OTkpWLTRsMWRwUTRCV21nUVVCM2JZNzE1cEZYZUpXQkh5LUhfaTZuX1ZnNVNfNm1uLTdDbkhYUnVtd3E3aDNDS1NtSnJNZ2duaklIZUZrSVA4cE5FUkRBYnROQ1gwNjNMUGtteEg1azR5WDV3RVR6Vk8yMWtxMndHS2hWUl9aS2ItVUlXaFJTajdPdVYyT25uYllGNE5rY1lYelU0T2JSa1gtZ3pfdzdHdEZjWWphRmdDRnRMQ1JtdUlKSDUzWGpQc0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-10 21:12:51"
-    },
-    {
-      "title": "甘厝老活動中心重建動工 劉建國爭取2854萬中央全額補助 - 觀傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94OVN5aTlUMmtYaHpjbFBLWkNfS2NHLWIzS29ESkhwWFZtTkhBRzk4MGQ4NUNxZkE3Mmw2SFIzS0hyQnUzZmk5VThlbTdqRGxhaGE4U2NQOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-10 21:12:51"
-    },
-    {
-      "title": "甘厝老活動中心重建動工 劉建國爭取2854萬中央全額補助 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ucWV3U0NkMTFKdC1pOVlBOWF6TWNDMF9PNmJpb1dGc1kwZEpmRHVKeGt5VUFielV4LXZzRFhyQk1YdnZJSlJKUDc1bU5MdzZqaEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-10 21:12:00"
-    },
-    {
-      "title": "甘厝村活動中心動工 劉建國爭取2,854萬元打造世代共融新據點 - 台灣民眾電子報",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jVWlsTXYyZmd4RnRCZktsYjV2TkttQTg4VklIUUVSY3lkaktvNVNJOXR5eDQ1c0kzZUE0LTE1cU9xZ09BUGJWeA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-10 17:05:01"
     }
   ],
   "latest_facebook_20": [
@@ -615,6 +630,16 @@
   ],
   "latest_news_20": [
     {
+      "title": "矽品斥資千億落腳雲林拚2200職缺 劉建國:能吸引更多企業 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOZnRvdFppdUxNXzk5ZnpQOXVVNV9Jd2o4QTY4VDBwZ2hrWm9OYjJoUUIwZGI3T2ZqTVBzanQ5bnlrRGgxOWdWd2tFeTlDR1UxVHBFenNTRHFWSDJ0TlMxUTB5S214ZmlHVlFtZHZnb3otVjYtM3Jxd21xM1FtN0ZmR0Vyc1ExN3h0cjZMWHhIeUlLbDZkWm9NdlhHUmFWd3RuVDZkQkM5TWxRWnpvLVJMa1RBYTdlN0FhWWRES3dMalFDQ1RoVm5hRTh4TGFRUHlrUGFXbXh4SE9FbXZkNVBJanVyNTdqbW1YT196a0NvTF82V1VmNndDbV9WeWZGaWlxdGxHOXI4YkFNVThzeXdSUkNBbExvLU53cEstUHp6c3M4Y1BnQnV2Vkp2amQ3N0RRZzBYZXdROU1mYnB3bklWMF85TmZicXY3RHhrOWZRdzZuMmtHcGtJbFFTbVlPM2oyU2JWbTcwX253cjBtZVBZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-12 18:37:44"
+    },
+    {
+      "title": "矽品斥資千億落腳雲林拚2200職缺 劉建國:能吸引更多企業 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNUnpNTVJfcmQ2YkJoeUJfaFBoRzlSWmhrdVVaeVFNZU9tUUd2SWlYZXVrQlpZcnFZS0xXMVpINXJEWU9CTkNxOUk0b3lielVHZ1NyWVlzbWVaUGh5aDhONWJKYzNSenNBVDdZVk4tTXQ3Wng2Z1VuT2dxazZDbDloR2tEd2otYWppQTRyREJTbFlDTXNTUWRaNm5UN2tXYnJ4ZnpqaVVFSVMwOWJyZEhsVWVIVmluWGxwbUNvY3N0RERRQ25uSF90R04wd2RjVlBUTlVWNTI5cm0xbHdQRi1GS0UtN2JpM0VWTFFQak00T25EdTNVeEgwQ0RIZ1BmNWV5N3A0TzFvVURqVldsdFpCZGE3VktSWlJOcXg2RlRJNnZMV0tpLVpfMVJCYTFvVWJ6VElyWF93MkNnTHN2bG9aY0xzcTFSNi0zMmRtTHV3Y1dON1F1Ny1JVFdlQ18tZnFqWE5iUDZ6ZkNZbnk1bVlvX0VQOV9udmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-12 18:37:44"
+    },
+    {
       "title": "矽品斗六廠動土 劉建國：勇敢、轉型、科技新雲林 又邁向一大步 - 886.news",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kZkFPTXRFS3pTR3A4VVM2RXUtWlJSM0RNMFlsZjl1bWo5Xzc3S0xySDZ5WUY3NFJ1VVAtM0RGb1FETENiblUw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-11 19:58:35"
@@ -623,6 +648,11 @@
       "title": "討論牆 | 矽品斗六擴廠動工 張嘉郡持續爭取科技廠進駐 讓雲林彎道超車 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByV3haYi1nVXFOUkxraThvYlV6Q19TTjRTT0R2OFdRdXg1N3VxNnlVOHh1WF9uT2ZtRS1wMF9iSVRLLXlEMXBiV3dmeHk2N24xY2lHNG01a3hUWHRvaVZlVEt6UG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-11 18:58:20"
+    },
+    {
+      "title": "矽品砸千億建斗六廠「徵2200人」 劉建國急喊土地、園區快跟上 | 民視新聞網 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3Z2RvOWhQcnZXdkVkakRSckZFWHZiUkx6QlIzV2pOeWlqVFJEdHlxMmczaWhxanZuTHZKWG9lT2ZMSEJaZm43amstNzBqZ2szcVBvY1pR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-11 18:42:16"
     },
     {
       "title": "矽品從虎尾擴廠至斗六 張嘉郡：雲林產業轉型重要里程碑| 政治焦點 - 太報 TaiSounds",
@@ -698,21 +728,6 @@
       "title": "甘厝老活動中心重建動工 劉建國爭取2854萬中央全額補助 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPYVdqQkVIcUxjVUMtRHJERl81c3Fxbm92S1Y3OVhaSm03eWlfOXl4M09zcTJEMGhWQ19WWlJ2bVd4bEx1aGpBSVVTX05td1FsaWhwN0kzZGhtdlhGTFhxbGNySmxTTWpTaThrbVgzTHFTMlhTcEsyS3VvV0FlZGpqTU1kY2JQT3E5WUVQWV9Db3ZmMjhwa3FjZVMxLVNWYUdXNEJXT2xHZThyME5OTkpWLTRsMWRwUTRCV21nUVVCM2JZNzE1cEZYZUpXQkh5LUhfaTZuX1ZnNVNfNm1uLTdDbkhYUnVtd3E3aDNDS1NtSnJNZ2duaklIZUZrSVA4cE5FUkRBYnROQ1gwNjNMUGtteEg1azR5WDV3RVR6Vk8yMWtxMndHS2hWUl9aS2ItVUlXaFJTajdPdVYyT25uYllGNE5rY1lYelU0T2JSa1gtZ3pfdzdHdEZjWWphRmdDRnRMQ1JtdUlKSDUzWGpQc0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-10 21:12:51"
-    },
-    {
-      "title": "甘厝老活動中心重建動工 劉建國爭取2854萬中央全額補助 - 觀傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94OVN5aTlUMmtYaHpjbFBLWkNfS2NHLWIzS29ESkhwWFZtTkhBRzk4MGQ4NUNxZkE3Mmw2SFIzS0hyQnUzZmk5VThlbTdqRGxhaGE4U2NQOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-10 21:12:51"
-    },
-    {
-      "title": "甘厝老活動中心重建動工 劉建國爭取2854萬中央全額補助 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ucWV3U0NkMTFKdC1pOVlBOWF6TWNDMF9PNmJpb1dGc1kwZEpmRHVKeGt5VUFielV4LXZzRFhyQk1YdnZJSlJKUDc1bU5MdzZqaEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-10 21:12:00"
-    },
-    {
-      "title": "甘厝村活動中心動工 劉建國爭取2,854萬元打造世代共融新據點 - 台灣民眾電子報",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jVWlsTXYyZmd4RnRCZktsYjV2TkttQTg4VklIUUVSY3lkaktvNVNJOXR5eDQ1c0kzZUE0LTE1cU9xZ09BUGJWeA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-10 17:05:01"
     }
   ],
   "person_sections": {
@@ -1027,9 +1042,24 @@
       ],
       "news": [
         {
+          "title": "矽品斥資千億落腳雲林拚2200職缺 劉建國:能吸引更多企業 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOZnRvdFppdUxNXzk5ZnpQOXVVNV9Jd2o4QTY4VDBwZ2hrWm9OYjJoUUIwZGI3T2ZqTVBzanQ5bnlrRGgxOWdWd2tFeTlDR1UxVHBFenNTRHFWSDJ0TlMxUTB5S214ZmlHVlFtZHZnb3otVjYtM3Jxd21xM1FtN0ZmR0Vyc1ExN3h0cjZMWHhIeUlLbDZkWm9NdlhHUmFWd3RuVDZkQkM5TWxRWnpvLVJMa1RBYTdlN0FhWWRES3dMalFDQ1RoVm5hRTh4TGFRUHlrUGFXbXh4SE9FbXZkNVBJanVyNTdqbW1YT196a0NvTF82V1VmNndDbV9WeWZGaWlxdGxHOXI4YkFNVThzeXdSUkNBbExvLU53cEstUHp6c3M4Y1BnQnV2Vkp2amQ3N0RRZzBYZXdROU1mYnB3bklWMF85TmZicXY3RHhrOWZRdzZuMmtHcGtJbFFTbVlPM2oyU2JWbTcwX253cjBtZVBZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-12 18:37:44"
+        },
+        {
+          "title": "矽品斥資千億落腳雲林拚2200職缺 劉建國:能吸引更多企業 - Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNUnpNTVJfcmQ2YkJoeUJfaFBoRzlSWmhrdVVaeVFNZU9tUUd2SWlYZXVrQlpZcnFZS0xXMVpINXJEWU9CTkNxOUk0b3lielVHZ1NyWVlzbWVaUGh5aDhONWJKYzNSenNBVDdZVk4tTXQ3Wng2Z1VuT2dxazZDbDloR2tEd2otYWppQTRyREJTbFlDTXNTUWRaNm5UN2tXYnJ4ZnpqaVVFSVMwOWJyZEhsVWVIVmluWGxwbUNvY3N0RERRQ25uSF90R04wd2RjVlBUTlVWNTI5cm0xbHdQRi1GS0UtN2JpM0VWTFFQak00T25EdTNVeEgwQ0RIZ1BmNWV5N3A0TzFvVURqVldsdFpCZGE3VktSWlJOcXg2RlRJNnZMV0tpLVpfMVJCYTFvVWJ6VElyWF93MkNnTHN2bG9aY0xzcTFSNi0zMmRtTHV3Y1dON1F1Ny1JVFdlQ18tZnFqWE5iUDZ6ZkNZbnk1bVlvX0VQOV9udmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-12 18:37:44"
+        },
+        {
           "title": "矽品斗六廠動土 劉建國：勇敢、轉型、科技新雲林 又邁向一大步 - 886.news",
           "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kZkFPTXRFS3pTR3A4VVM2RXUtWlJSM0RNMFlsZjl1bWo5Xzc3S0xySDZ5WUY3NFJ1VVAtM0RGb1FETENiblUw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-11 19:58:35"
+        },
+        {
+          "title": "矽品砸千億建斗六廠「徵2200人」 劉建國急喊土地、園區快跟上 | 民視新聞網 - LINE TODAY",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3Z2RvOWhQcnZXdkVkakRSckZFWHZiUkx6QlIzV2pOeWlqVFJEdHlxMmczaWhxanZuTHZKWG9lT2ZMSEJaZm43amstNzBqZ2szcVBvY1pR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-11 18:42:16"
         },
         {
           "title": "矽品砸千億建斗六廠「徵2200人」 劉建國急喊土地、園區快跟上 - tw.news.yahoo.com",
@@ -1110,21 +1140,6 @@
           "title": "控劉建國幹部攻擊失明議員車禍拿賠償金 楊植斗轟踐踏傷者痛苦 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxOcENYMjM3ZWZlb3FnVkxsc2pvR21XUjM1NFBtX19CVWFBWVg5cGw5UTRaUjhwcFlPbXR0djhVR19Eenl0WDRGcEQyTk05WUYxZHd6T1ctMmZtemd5cXRocThMdlkyd0lTTTlDUFZoU09BRWxJZl8yVXNVVF9UZGp1WWtkU3UzelZNOGlCTHdkRVBCZzByR29YQ0lTZGxBLVFvNUhITkYxTzM5TmlkVTJWbTlhOE9lY05pMEZiclNlRTBORlAzbW9iTm9yUXd2dWVOOFlaeDdaXzNrUWgwSG5uYTFqNW90WlVWOGxhMXlCY2JOb1hVWW4wbHE1eXV0a3RqSUJ5bWFkYllLbS1BV0VxU21IT2hhZ1J4MF9YcW1RSlA3N2FyLTlCVUZBMDdXM09ubVo5bFNsS2dJbldOZXJMRi1ZeWtJUlZua3JoVG9uc0VZTWNnUFdGTXBTcFB6dEI0Yy1DZzJVN3hPVWNoVkpveVlLakU3d3A5ZEVYSFJfRWVPLTFyRFNNUDVEWnBDbERnMG5ubWl2VDM3QXkzbFBxVXBuTlA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-10 13:03:45"
-        },
-        {
-          "title": "控劉建國幹部拿理賠金攻擊失明女議員楊植斗怒轟：踐踏傷者痛苦- 政治 - 中時新聞網",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrX1NpRFNPTEUwQ2FGUFFNVFgxWUJ1dXpIN1BXTzhPY042a0tpTFVST2VkbGJfOXo0dHhPNmpmM3VZd3FfRWh0aTZMWmV5eVdOYlNZdkdRWEhLWkFadi1mQ0xicUxBa25vUm1XVWNB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-10 11:34:14"
-        },
-        {
-          "title": "雲林人口跌破65萬 劉建國開出「4帖藥方」拚止跌留才 | 自由電子報 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yOF9MZm5WbXRTS25FSl9pOF9HNnhrN3dTb1NaYjJDX2djZzMtWTAwTzZWNGQ4MlFSa01TQkhMRkhLT3BaRmNsSTk2NnpWS1c4bll1YUN3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-10 10:52:10"
-        },
-        {
-          "title": "雲林人口跌破65萬 劉建國開出「4帖藥方」拚止跌留才 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQTjNYbXZLSEx6VG16N0JMLWtDOUh3Q0hsSkNtdGFMSEZWMUpvQ0E3UjNaalJRczNlMGRuZndtN2YteGlBRHZ4VF9FQmd1QzRYZGY1S0JGYlhWaEFud3hGdmdjR3J2OTA5VklycGlzQ3lvS29UYlNDR3V0SG1jZ1Yzd3NjNVpyV1M5Q1RoMzB3Ql9fSEZseVF0dFNXVEdYQmJkYldpem1mbzh6VWtRX0NXWEUydmpXTUtXTnNfRjA5cDY0QUtwakZIdEZnQUJuRDU3VWR6TGswMkxwNG1wSmp3aEc5a2loUnl1R1prNTdvZG1YY2JLSVVFMllfV2duOVFqTnU3UXlVV3RmMllYdEI1SnNRT21PT1JCdldXd1AxQ2ZLbHBXRldzRk1GSjhKS05Ud2tfbGptcTkwRFgwOFV3dlpldGtBYzM2V2Vn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-10 09:27:17"
         }
       ]
     }
@@ -1149,20 +1164,35 @@
     ],
     "news": [
       {
+        "title": "矽品斥資千億落腳雲林拚2200職缺 劉建國:能吸引更多企業 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOZnRvdFppdUxNXzk5ZnpQOXVVNV9Jd2o4QTY4VDBwZ2hrWm9OYjJoUUIwZGI3T2ZqTVBzanQ5bnlrRGgxOWdWd2tFeTlDR1UxVHBFenNTRHFWSDJ0TlMxUTB5S214ZmlHVlFtZHZnb3otVjYtM3Jxd21xM1FtN0ZmR0Vyc1ExN3h0cjZMWHhIeUlLbDZkWm9NdlhHUmFWd3RuVDZkQkM5TWxRWnpvLVJMa1RBYTdlN0FhWWRES3dMalFDQ1RoVm5hRTh4TGFRUHlrUGFXbXh4SE9FbXZkNVBJanVyNTdqbW1YT196a0NvTF82V1VmNndDbV9WeWZGaWlxdGxHOXI4YkFNVThzeXdSUkNBbExvLU53cEstUHp6c3M4Y1BnQnV2Vkp2amQ3N0RRZzBYZXdROU1mYnB3bklWMF85TmZicXY3RHhrOWZRdzZuMmtHcGtJbFFTbVlPM2oyU2JWbTcwX253cjBtZVBZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-12 18:37:44"
+      },
+      {
+        "title": "矽品斥資千億落腳雲林拚2200職缺 劉建國:能吸引更多企業 - Yahoo股市",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNUnpNTVJfcmQ2YkJoeUJfaFBoRzlSWmhrdVVaeVFNZU9tUUd2SWlYZXVrQlpZcnFZS0xXMVpINXJEWU9CTkNxOUk0b3lielVHZ1NyWVlzbWVaUGh5aDhONWJKYzNSenNBVDdZVk4tTXQ3Wng2Z1VuT2dxazZDbDloR2tEd2otYWppQTRyREJTbFlDTXNTUWRaNm5UN2tXYnJ4ZnpqaVVFSVMwOWJyZEhsVWVIVmluWGxwbUNvY3N0RERRQ25uSF90R04wd2RjVlBUTlVWNTI5cm0xbHdQRi1GS0UtN2JpM0VWTFFQak00T25EdTNVeEgwQ0RIZ1BmNWV5N3A0TzFvVURqVldsdFpCZGE3VktSWlJOcXg2RlRJNnZMV0tpLVpfMVJCYTFvVWJ6VElyWF93MkNnTHN2bG9aY0xzcTFSNi0zMmRtTHV3Y1dON1F1Ny1JVFdlQ18tZnFqWE5iUDZ6ZkNZbnk1bVlvX0VQOV9udmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-12 18:37:44"
+      },
+      {
         "title": "矽品斗六廠動土 劉建國：勇敢、轉型、科技新雲林 又邁向一大步 - 886.news",
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kZkFPTXRFS3pTR3A4VVM2RXUtWlJSM0RNMFlsZjl1bWo5Xzc3S0xySDZ5WUY3NFJ1VVAtM0RGb1FETENiblUw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-11 19:58:35"
-      },
-      {
-        "title": "討論牆 | 矽品斗六擴廠動工 張嘉郡持續爭取科技廠進駐 讓雲林彎道超車 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByV3haYi1nVXFOUkxraThvYlV6Q19TTjRTT0R2OFdRdXg1N3VxNnlVOHh1WF9uT2ZtRS1wMF9iSVRLLXlEMXBiV3dmeHk2N24xY2lHNG01a3hUWHRvaVZlVEt6UG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-11 18:58:20"
       }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "矽品斥資千億落腳雲林拚2200職缺 劉建國:能吸引更多企業 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOZnRvdFppdUxNXzk5ZnpQOXVVNV9Jd2o4QTY4VDBwZ2hrWm9OYjJoUUIwZGI3T2ZqTVBzanQ5bnlrRGgxOWdWd2tFeTlDR1UxVHBFenNTRHFWSDJ0TlMxUTB5S214ZmlHVlFtZHZnb3otVjYtM3Jxd21xM1FtN0ZmR0Vyc1ExN3h0cjZMWHhIeUlLbDZkWm9NdlhHUmFWd3RuVDZkQkM5TWxRWnpvLVJMa1RBYTdlN0FhWWRES3dMalFDQ1RoVm5hRTh4TGFRUHlrUGFXbXh4SE9FbXZkNVBJanVyNTdqbW1YT196a0NvTF82V1VmNndDbV9WeWZGaWlxdGxHOXI4YkFNVThzeXdSUkNBbExvLU53cEstUHp6c3M4Y1BnQnV2Vkp2amQ3N0RRZzBYZXdROU1mYnB3bklWMF85TmZicXY3RHhrOWZRdzZuMmtHcGtJbFFTbVlPM2oyU2JWbTcwX253cjBtZVBZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-12 18:37:44"
+      },
+      {
+        "title": "矽品斥資千億落腳雲林拚2200職缺 劉建國:能吸引更多企業 - Yahoo股市",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNUnpNTVJfcmQ2YkJoeUJfaFBoRzlSWmhrdVVaeVFNZU9tUUd2SWlYZXVrQlpZcnFZS0xXMVpINXJEWU9CTkNxOUk0b3lielVHZ1NyWVlzbWVaUGh5aDhONWJKYzNSenNBVDdZVk4tTXQ3Wng2Z1VuT2dxazZDbDloR2tEd2otYWppQTRyREJTbFlDTXNTUWRaNm5UN2tXYnJ4ZnpqaVVFSVMwOWJyZEhsVWVIVmluWGxwbUNvY3N0RERRQ25uSF90R04wd2RjVlBUTlVWNTI5cm0xbHdQRi1GS0UtN2JpM0VWTFFQak00T25EdTNVeEgwQ0RIZ1BmNWV5N3A0TzFvVURqVldsdFpCZGE3VktSWlJOcXg2RlRJNnZMV0tpLVpfMVJCYTFvVWJ6VElyWF93MkNnTHN2bG9aY0xzcTFSNi0zMmRtTHV3Y1dON1F1Ny1JVFdlQ18tZnFqWE5iUDZ6ZkNZbnk1bVlvX0VQOV9udmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-12 18:37:44"
+      },
+      {
         "title": "矽品斗六廠動土 劉建國：勇敢、轉型、科技新雲林 又邁向一大步 - 886.news",
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kZkFPTXRFS3pTR3A4VVM2RXUtWlJSM0RNMFlsZjl1bWo5Xzc3S0xySDZ5WUY3NFJ1VVAtM0RGb1FETENiblUw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-11 19:58:35"
@@ -1171,6 +1201,11 @@
         "title": "討論牆 | 矽品斗六擴廠動工 張嘉郡持續爭取科技廠進駐 讓雲林彎道超車 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByV3haYi1nVXFOUkxraThvYlV6Q19TTjRTT0R2OFdRdXg1N3VxNnlVOHh1WF9uT2ZtRS1wMF9iSVRLLXlEMXBiV3dmeHk2N24xY2lHNG01a3hUWHRvaVZlVEt6UG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-11 18:58:20"
+      },
+      {
+        "title": "矽品砸千億建斗六廠「徵2200人」 劉建國急喊土地、園區快跟上 | 民視新聞網 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3Z2RvOWhQcnZXdkVkakRSckZFWHZiUkx6QlIzV2pOeWlqVFJEdHlxMmczaWhxanZuTHZKWG9lT2ZMSEJaZm43amstNzBqZ2szcVBvY1pR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-11 18:42:16"
       },
       {
         "title": "矽品從虎尾擴廠至斗六 張嘉郡：雲林產業轉型重要里程碑| 政治焦點 - 太報 TaiSounds",
@@ -1346,21 +1381,6 @@
         "title": "劉建國赴嘉義請益取經 借鏡嘉義經驗提出三大雲林政見 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQaGZKYW9OdnowTGFOWlJhYlhnY2ZZSS1Zc2JSU042elBuaWlqNm5TeVh6dDk1ME53cUczMEhodS1YQ1UwVkotdXd5dWlCTWdMQ3pLR2xaREFVWlhGWEVqZjFObkdPZ1c0cnhJLXZUdFhuNUVzeWRUNDZadUxFMC1tOERzTjdpeGRrQWJpOXE1cV8wME1SZXNpaVFraHpfZUJqZUEtZ2J0QTR1cmIxeHpWeDVEZDhHakFzSlh1VGp3RkNVLXFlRkYzeldjTVdYdVVRTWtZR3RRUnRrOVc4WkNEMnJPYnVTM1ZZVXZyY2I0ZTQ4U0E5WXdHWlpaV05NWUpKRUczRXNFNS1IZHQ5VnN2V3ktdFlvQzdjNUZwY3dXdTAyd1k2SGVWYnBpZkNJUVJORDA0Q3E2TG1KbXJSeEUxSTM2aG52Y3p3eEwzU0t3WVdBdXIzNXRJbVRfcm9QLTl4czFhNk4yRHZCMFl2TmE5UFZ6VHE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-09 04:52:28"
-      },
-      {
-        "title": "劉建國赴嘉義請益取經 借鏡嘉義經驗提出三大雲林政見 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb3NFT2wtOE9nakhkTGxRNjBYUmg1azNIWm9abXdsa2ZBQU5xSm54S2U1V3h1M0NsQ2hPZzQxM2I0WHdrc3dYUlZQN0cyQmVRdnBIMDIxT3h3Nm9KVm92SjJlNVNrbXpacTRyeGV2TDJWNFZPTEJ2UVNlRXVOS09YUS1CN1ZSem83UERyN1BIVE05Vms?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-09 04:52:28"
-      },
-      {
-        "title": "劉建國赴嘉義請益取經 借鏡嘉義經驗提出三大雲林政見 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeV9DQ1JsNEd6N0dXd1dtR2ZiNHFJZDdFNVIzWXhaR3RqdjkwcHhNTG14TFhGWHo1UTNyWGhnendvWHk4VjJyRGtxbHA5OHVXc3BCVEdpTXJvR2ZLNmR2YnFXbE1RVEZubWFFX19JOTFRdU1IMmVFRmFHNkJCVEs3M093WmxnQm9iSWhlcDRhNUNwVW94d2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-09 04:52:28"
-      },
-      {
-        "title": "雲林縣西螺鎮農會舉辦親子下田趣活動200名親子與立委張嘉郡等人體驗水稻一生珍惜並感恩每粒米背後農民的辛勞！ - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMQTlMbU9HZlo5eHA1NWR3NllqcVd5NVdSeEtyU0lSejhWRnhsYnE1NlJoWTJYZElDVjl4dkJELWY2cVZXVnFSZ1BMR2FaS2JkU09MblhLaE0yam5aVXNsdHY5eldxQXZscEs4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-08 23:02:23"
       }
     ],
     "facebook": [
@@ -1510,6 +1530,20 @@
     "hour": [],
     "day": [
       {
+        "title": "矽品斥資千億落腳雲林拚2200職缺 劉建國:能吸引更多企業 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOZnRvdFppdUxNXzk5ZnpQOXVVNV9Jd2o4QTY4VDBwZ2hrWm9OYjJoUUIwZGI3T2ZqTVBzanQ5bnlrRGgxOWdWd2tFeTlDR1UxVHBFenNTRHFWSDJ0TlMxUTB5S214ZmlHVlFtZHZnb3otVjYtM3Jxd21xM1FtN0ZmR0Vyc1ExN3h0cjZMWHhIeUlLbDZkWm9NdlhHUmFWd3RuVDZkQkM5TWxRWnpvLVJMa1RBYTdlN0FhWWRES3dMalFDQ1RoVm5hRTh4TGFRUHlrUGFXbXh4SE9FbXZkNVBJanVyNTdqbW1YT196a0NvTF82V1VmNndDbV9WeWZGaWlxdGxHOXI4YkFNVThzeXdSUkNBbExvLU53cEstUHp6c3M4Y1BnQnV2Vkp2amQ3N0RRZzBYZXdROU1mYnB3bklWMF85TmZicXY3RHhrOWZRdzZuMmtHcGtJbFFTbVlPM2oyU2JWbTcwX253cjBtZVBZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-12 18:37:44",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "矽品斥資千億落腳雲林拚2200職缺 劉建國:能吸引更多企業 - Yahoo股市",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNUnpNTVJfcmQ2YkJoeUJfaFBoRzlSWmhrdVVaeVFNZU9tUUd2SWlYZXVrQlpZcnFZS0xXMVpINXJEWU9CTkNxOUk0b3lielVHZ1NyWVlzbWVaUGh5aDhONWJKYzNSenNBVDdZVk4tTXQ3Wng2Z1VuT2dxazZDbDloR2tEd2otYWppQTRyREJTbFlDTXNTUWRaNm5UN2tXYnJ4ZnpqaVVFSVMwOWJyZEhsVWVIVmluWGxwbUNvY3N0RERRQ25uSF90R04wd2RjVlBUTlVWNTI5cm0xbHdQRi1GS0UtN2JpM0VWTFFQak00T25EdTNVeEgwQ0RIZ1BmNWV5N3A0TzFvVURqVldsdFpCZGE3VktSWlJOcXg2RlRJNnZMV0tpLVpfMVJCYTFvVWJ6VElyWF93MkNnTHN2bG9aY0xzcTFSNi0zMmRtTHV3Y1dON1F1Ny1JVFdlQ18tZnFqWE5iUDZ6ZkNZbnk1bVlvX0VQOV9udmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-12 18:37:44",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "#矽品落腳斗六✨ #雲林邁向智慧產業新時代🚀 一座城市的改變，往往從一次相信未來的選擇開始。 #矽品精密 斗六新廠動土，代表的不只是企業發展的重要里程碑，更是雲林產業轉型過程中的重要一步。 矽品精密是 #全球半導體封裝測試 的重要企業，繼 #虎尾園區 布局 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxNZWt0M1Jha0ZYSmJBX09zcTFjZllRYlRpTWRienRZOEhTVWVtb2k0Ny1DbEpfbzJMQnQwaGo2dmFCUGdlckd4ZHl1UHhLa0VfZGFfZXN6YkFWU05qU21SZkk2eHhPd0FQSXc1NE15dmN1a2lYNlVPelU3Y3ozeklDT1pwRXR6eENlenI3Z1RVYUZlVXFWUUo1M1JrYWdlbFBkSFdXeFFmZm16ZmdBRUZDdVVzNWdSczNJMjVmb1dWSXEtc0xQU3V4TW9kSkNHanR4dFpsTzRFWHdXTDZxR09pUVNzQnp5R2dpYjBEWjhpcWxQWlNHdTI5LWN5RFNqQVUtc2o4RERTS1dDZ05iQmJCQ0lQLUxaU3B3Sm5DamdBV1I5LXJDZlpFV2lZb1RUbG15TnhreHd4ZG5ndzdvS0lqU2dPWkgwZ29aZzhpcGJ0MWhBeUVReXRsTFYxbXFOZDVnT180RFFaVWYtMTlzeElWSEc3R1BTQ2tIRnpBQkxscVREV1lDOEJicTV4UFNqRHdTRWx0MHF0eUFrWE0yVV9hMF90bENIdXgyVXFlTUstbTJIOUhHT3ZPVXNRTWpnMlc5UFZQNmxDY3U5SlB5SmhJajQxbmE5WW9iQmFVc2x5aDlzdzF4Q2FnVHZPY1Znc2R4SGNHXy04MkxMOC14dWRnaTRnT1R1c3JSUi1ROEZRZkxRWHcyUDByZTNKbTRPbW9ubW1uaUxwYUFwMzZxRmxVUW9wS1RQWmZydEZHQU1RcnZkNmhJZjE3SlI0M2RlMHlRWldvZjJFMDU0MEQxY3lZZ1U2eG1aeWphUEstOHlfcTUta0M2QmNpY0tHRnlBbHBWT3ozeUVjR0RZZTg0OXVvbmVQRHJfRHZFSFBiVUNMa3pHNVFDVlVYbTVCaGFoYS1XajFYbVhVb2ZZa2s3VEZtZDJFMmNUN2hReXhYSFlGejlxa1h1bWRObEY0d1gxNC1mdFByRWZrdlJHMkdidUdNQTMzNnV2clFoVnVDZUJBNXEyX1JOTTRwYUw1WXQ1dkxiN1drZXEwc0J5dXc3N1RJQkZqeXg2amZCRzBaNkxNSDh2NWI0UkhmZl9jUjB0SU9CY3JiRFE2SW4tcnRwTjN1OVM2bVRiNVdVUkI4bmNKRGFwWWxabnF5V1R1VlpmV3RnWE42di1wNFBGM0ZwbVgxQ054RzBxZnNqS2o2ZjRpU1FlNUhDSDFTZTc1TXpDM2dTRE9yekFfcm53cE53YVdIVExvZlZ3N0FrbG5LdHpLU3hYSkdJVVNldEJrM1RTMnJEak1MSmR6TkIybjhIdEc3SXJya0lPVGpSc1BJR0tsN196ZlEyd3NaSEU3WEJYeERGeWF5UUx3bnNXeUYxXzZIQ0hmaXd2dWZ3OTNQT2J3UXZPQkQy",
         "time": "2026-08-12 09:08:44",
@@ -1536,24 +1570,17 @@
         "time": "2026-08-11 19:58:35",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "討論牆 | 矽品斗六擴廠動工 張嘉郡持續爭取科技廠進駐 讓雲林彎道超車 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByV3haYi1nVXFOUkxraThvYlV6Q19TTjRTT0R2OFdRdXg1N3VxNnlVOHh1WF9uT2ZtRS1wMF9iSVRLLXlEMXBiV3dmeHk2N24xY2lHNG01a3hUWHRvaVZlVEt6UG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-11 18:58:20",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
   "regional_groups": {
     "regions": [
       {
-        "name": "斗六",
+        "name": "雲林",
         "count": 5
       },
       {
-        "name": "雲林",
+        "name": "斗六",
         "count": 4
       },
       {
