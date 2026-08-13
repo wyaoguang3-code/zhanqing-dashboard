@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-08-13T11:41:35.092282+00:00",
+  "generated_at": "2026-08-13T11:57:09.093399+00:00",
   "metrics": {
-    "total_24h": 22,
+    "total_24h": 28,
     "prev_24h": 8,
-    "growth_pct": 175.0,
-    "news_24h": 20,
+    "growth_pct": 250.0,
+    "news_24h": 22,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,9 +14,9 @@
     }
   },
   "metrics_7d": {
-    "total": 114,
-    "prev": 139,
-    "growth_pct": -17.99,
+    "total": 118,
+    "prev": 140,
+    "growth_pct": -15.71,
     "news": 90,
     "anomaly": {
       "level": "綠",
@@ -28,11 +28,15 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 20
+      "count": 22
     },
     {
       "platform": "facebook",
-      "count": 2
+      "count": 5
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "by_platform_7d": [
@@ -42,11 +46,11 @@
     },
     {
       "platform": "facebook",
-      "count": 21
+      "count": 24
     },
     {
       "platform": "youtube",
-      "count": 2
+      "count": 3
     },
     {
       "platform": "mobile01",
@@ -72,7 +76,7 @@
     },
     {
       "hour": "2026-08-13 15:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-08-13 16:00",
@@ -81,13 +85,13 @@
     {
       "hour": "2026-08-13 17:00",
       "count": 2
+    },
+    {
+      "hour": "2026-08-13 18:00",
+      "count": 5
     }
   ],
   "by_hour_7d": [
-    {
-      "hour": "2026-08-06 19:00",
-      "count": 2
-    },
     {
       "hour": "2026-08-06 20:00",
       "count": 2
@@ -294,7 +298,7 @@
     },
     {
       "hour": "2026-08-13 15:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-08-13 16:00",
@@ -303,27 +307,33 @@
     {
       "hour": "2026-08-13 17:00",
       "count": 2
+    },
+    {
+      "hour": "2026-08-13 18:00",
+      "count": 5
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 20
+      "count": 22
     },
     {
       "platform": "facebook",
+      "count": 4
+    },
+    {
+      "platform": "youtube",
       "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "為雲林子弟的立委劉建國表示，矽品在雲林投資將產生磁吸效應，吸引更多企業進駐，呼籲中央加快產業用地和園區設置的腳步。 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi5wVBVV95cUxObWNVRWxubk5oVm9JVkJUaFBWTUk2LWJGRm9pdlhNSTRtSkNDcEFIbnNwbVY1VTZZSVdnTmp5cmJRSXZ3TVMyMWJsYXdYMXcyOGxpb1lZV2cxQ3VlS0NRekhZN0NWZFRSQXlQLTBUOHhCcFBuRGliQkNieGlmR2IyUnM1M1JTSzNlMTJCaEdZbmp0SC1iUW1zV1k3enhqRXJVMGNqTmpyZ3B6bzJZY1FtTDVDbW14VHUzcl9UMGNqQWl3bkFMTDZDOF9BVXEzNHZnOVdhdUFYcEdSRkJKUkIzZzdFMUlkVTlOWEhLclJ5YXBDUW9GaVJJR0hhVHBUMDY4U0JNT3JLYjc5aUpCTF91R2FIdnVacUxrd0xvYV9BSW5GRFp0VVB0dzBxQ3JfTDNjUEtHZ05VcVRpY0JDQmlvaXVXcGJ6aTBkUTRDaHpuRnNqeUU3QTRkVlRZVmp2Y0dwZzdKWFYwMnlPS2M3LWs4a1g5SFZXZk9pZm9aOFQ3TTh3N1RraklGdTdPb0xmY2xNQURsdDhzYW9mWlVDYzlQR1lERmJXczRCZlRkazE5dXY2d2VxbVFIV2J2RkdhUWpQa2pCREljWVc2d3ZoaE80WHhFLU84NVcwN192b05ONE1mZEotMzRKQk02RHgwOGdEWDhYd25XYUR5S2lhSHdtZlJNc2ViS1F6d05qR1YyUjRvYzNiZVMwWER5N25qZ0M4YmdCT0sxa0NxdnBEQ0ZZZkl5RmF6eHo4dEhyODEwZHk1NWUwdDhPSEFRSTBHSGdUcUViOEtUUFZCMkdCTjhFMk8ya0dvanMtU3RSRWZrdURsaW9TajAzUThlUG40S0owVGZzRjd3T05qOVJDRkNTM0NVS0RNQWtPUEJoTzRhMk9rZmNRU3hxVC1HYTF2c3ZBaTJyNEZLYXFRaWZ5RktkZnhnU1hJS0J2TFQyRDdDRHJNcVR5SERHMmRQenBGSFdtb1dGdUN5Zw",
-        "time": "2026-08-13 17:59:04"
-      }
-    ],
     "news": [
+      {
+        "title": "雲林毛小孩數量超8.3萬隻 張嘉郡發表寵物經濟四大藍圖 - TDN台灣生活新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VWUlTN0dtUDdKdEpxSkotSlBlYzAyekUwNjZzOWdwdElxeXRVTTFuYnlXY3VCTjJrM25PTkY0Wi1kNlRVTVpONUJEeEQtWUxG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-13 18:54:37"
+      },
       {
         "title": "張嘉郡推四大寵物經濟政策 打造人寵共融、產業共好新雲林 - 台灣民眾電子報",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wMGtwb2p6YUJyRmtQT2VrWDlJckVYbEQ5Nl96T3owSXFYYmYyNWw0Y3NCd3lSRlJPWmJvVzZuZ1lpbkJtdG42cg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -358,6 +368,11 @@
         "title": "張嘉郡推寵物經濟政策走向人寵共融與產業發展| 地方 - cna.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03XzJTbi1hMllQczZSTlQxdGpqbnpIRFhXY2s0MWg1T3JlV2g2NlZZTXpEaHRvRV92eW9lV185S3Bjc3NCdEhEa2pGVHo5UWJELU90bFoycDRkeFlkRnhr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-13 16:08:00"
+      },
+      {
+        "title": "從動保到產業發展！張嘉郡四大政策盼毛孩成為經濟新動能 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOSG03c3FZS29XSXlyc1JFa2YwRDV3SjlzcnByZXRpWTRzUTFPcHVBY25ySEFJRGh2ckRZQzNVSXFjRXJ4QnlYMHdKWW1aMTlqekVncFJ0bFBwbWp0cXZMZUxnYXNLX3gwWlRkaTNRMGhxUHRQaDY5Zzd1TW1fLUZRalpCdHJaY2lKQjlPNi10UEVLX2Yyay1OZW5pMW1XTFJLMXVHb19yWkRSamFaWEVGXy04b0RsN2JFRmZFTUtIeGM4dEdkV24xLTVkbkJvdXRMUGJaVUZ1TkZXRW03TGV4VlIwUzNDOXFjb1NKQ3JCNHRNVkxRb1NqcWQzeEJQNVhLTWxEUk5pQnFpaHRrZGxKTzI5VlRIaUFOMkFBQjdDbjVYbENEYjczQnJPeXVpQ1FDWDgtTWtuaWo2T0wyRmpYQXY1N3lnMGxmQm55NmpaMXdJRHNUbEN3RWRkNmJjNEplc1Z3OUFJNHc1eWdMU2dNbUs4Ykp4ak1CQUluRzFRY3k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-13 15:38:53"
       },
       {
         "title": "毛小孩商機大！ 張嘉郡4政策搶進寵物產業創造就業機會及地方發展- 雲林縣 - 自由時報",
@@ -423,28 +438,59 @@
         "title": "矽品斥資千億落腳雲林斗六劉建國：吸引更多企業進駐－民視新聞- 民視新聞網 - 民視新聞網",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zRUM2bkxiSTBTQm9Rd1lCbnBZcFdCcEJmSzBJV1JUSG40TXhrTzZma1ZnNFFIRUw1TjNqNTUteDQwRTduVUJKNXlrS1dlRmUyMEdDUDExdnotUzY5NHBSVU5EaWUzU2s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-13 11:13:58"
+      }
+    ],
+    "youtube": [
+      {
+        "title": "雲林毛小孩數量超8.3萬隻 張嘉郡發表寵物經濟四大藍圖-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=MX6-Bu-t76U",
+        "time": "2026-08-13 18:45:07"
+      }
+    ],
+    "facebook": [
+      {
+        "title": "#幸福雲林寵愛共好❤️ #打造人寵共融新生活🐶🐱 一隻汪星人、一隻喵星人，對許多家庭而言，早已不只是寵物，而是一起生活、一起成長的重要家人。 嘉郡看見，隨著養寵家庭增加，鄉親對毛孩的需求也從基本照顧，延伸到食品、醫療、保健、照護與生活服務等更多面向。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxQcmNpNTJvbDRjMFZLam5xT3hfUWtDODZyOGNmOTJ1cE0wdGx5bFh6eUhIbXc1bzloaEtHbDExclZ6TGRYS1hnMDBYSDVXdE9UOVFmT0oyczZJdlZGUVRJTGRWaWtTRTR2SnA2TTM5QXFGdU0zQnVtX1pxN09UcFFQMlVSWGdINU5pNmJ0LXAzdC1PM2FfRW55VDVSei04ZW1CRVB0QnNMd01DME9HbVRPSUhETnlFVlRvYlBfODhEZ0F3Ujl5SVFYTFNITVBVZUhNR0dRZ1cwOGs5dnRPZkNtZ0J0Q2x2R2h3Ym55X19qYXYwQ21Gai1VTEpFYjdzVGJNRXpBVEQ5SDFwOFZZQXFvLXBiTVNFMFRzVUR5YlBKUG4wN1NJb2xHX1U3NUNHSmJUWnVIR2IwLThDcXBwR1NjSFdYbHpPTjhGUXFyTHhBazR3UnVULVU2WnNlRkNuQU5OSklTWmx1RnRpUG9WUXVpM2wzUlNVckpBWk10RWZIUzBOS01qUTh6ZTNoVFJDLTk1bEZTckVsVDJneXZTbVlYR3RjbnctWEZ6RVFjZEpWOUM5NlN3UHAxbnZPem5VZXF6YmNlc3diT255b21ITGJuREtnQmhPMllSdUVOS3NWbjJpVERhMzlFaF9NQWpMbGJMdzVySXo4WWl2WTQtOXBhRzlzZF8xc05FUGEza0JFSkoyWXJTRTF5Q1hOOE1XQUVLT3JkVFRqQjNaamU0dEhtbTJxWm9hQnVKUDI3cjg3UDFwQkNncnBoZWk2S00zR001WEtTRk1jMDVocURoamdzUHRQUUVsUUlacjZ2Q24zVjRiV05jdFpQQURRbFBkWFVPRk9lbmg3VnN4V0toeUZldXZ4X1M1THVXcFJ2RzFfYm9VVi14dW1WdXB6WnQ5bGRQMFluU0xmVjJfMk5hb0ViejNOZ25LZXBUWTc5cy1ndFVsQ0ZsNWNBRDgtWkh0N3d4RTE1cDR2Q3VoYjVzYW42bHVGRF9mRHQ3cUtnSW1DTTczVzVfa3NmYTByWnhzV0EwYUpBaXVsUjkwdV9MWV90NkZTZ1J0QnZiVGRscDRhc2xjWjM5TlJ4eEhqa1lOZURiR190bUZzcHFVUklqZDZPOVV5dGJiOGhWNjdFQWUtdFpucFNxMndibXdKdElXREp0R2RiZ0FfclkyS21BVV85clI1NkVTbGRjbVVyM2puUi1adl91ZjhJeWNTdm9fSmw5MzBqNEcyOTdkVUlaQVZxYjdDN3NrX096eXFxUWNJWnUxU093N2hWTFl4a1NnNklBMzljZ19KWGktNUdUR0lUMi1uZ0NrTVdoMzVnNG1uRlhTMlRBU0ZsZEFqWVVta3ZQTVJycE5sLWUzelJSeElzZ25wc0VjYkhTMHB0R2JJTnc3WlQzRUNxeEVTRjU1bkE",
+        "time": "2026-08-13 18:23:07"
+      },
+      {
+        "title": "#張嘉郡 推 #寵物 經濟政策 從動保走向人寵共融與產業發展 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPUmJ5d1locGc1VGdSQXVIdDduUGFYeFptb1Z0TlJIdjM4X2J1VWV3UnNrUlczWGFEQWpMWXpYQmVsZzBkamRENGpIVXdVTFFMdEJPeGJuU1EzVWE3ZHJFbmI4a01QVjVNSzZPbFkzX2pGd05qc29FaW51bGlUZDRHUXdIdVdOSk1vbUtiUk1KMVAzQjJmUUJsT0ZSRzNzS1hqNUxNeEtqSE1DZEdBVDJfdWw4cllKd2t1U0VwUnlYSXVYeU13a0lZdjFvU0lsdkx0V3N4ckxsTkJPV2l4Nk5XajdwVXQ3UC1IeFFoNlhxektBQnNWSGlMbzBDZDlsUWFnUEI0RHg1R004Y1pibXNrZ1dDS0w2azJRMWR3WkxrQ0xlTldNY18zUnpNV3U0SXJOcFI0Ni16cFB3Q2Vac0tUek1tYzA3clZ6Mjk5djVkYXdYc0RaUjVycmxZQmpuR1NuaFlLRGh3ZS0zRzN3ZVBEZ2NFNjNSdGZyNmlLRTJ1V3pRZXQ0Q2YwbG91Z0VJbkxEbFVv",
+        "time": "2026-08-13 18:15:04"
+      },
+      {
+        "title": "#張嘉郡 推 #寵物 經濟政策 從動保走向人寵共融與產業發展 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQZ3RIRXh3UzlIbEhUZzRGMTFHdXBHbGlObVEtUkJHcW5CSVZqZ2plVVIzTEwyQ3p4aVp6V05SR0ZKRnpiSEtOQU91NENiOVF4R0dFOTNTZ0FpNzd1WTJma2dWUEh1dVhobmYwWlBLcVV1dkFkMzFQN0l4aGZFdS03NERIdVZpNm5tV0pKek1yNmtEakdWeHh1RVZmbTl0WVdLbmhhRWx4bERYUjA1Slk4TmhfQnpITWk2NW9pSlhrNVVabUVROHBHN2ZJZWhzRjVpQTgtVUhSOHBwekhKUlloTzlVZnVCaUljODNuOUJHVk5xdWNNS3lBU3ZTbVY3VHFaTTAzRlc3TjBJRGtzZ25CN0hxWnBHLUN5SnFmcy1kQzFtSGJUNmhmRFg0Y1hoRGQycHlUVDVxMHBpcnBMMWc2WnE2aHNuZ0NSMTdObVZvN2xiOXU1NjByelBQV2IxaXFCclpoY0pLWHN6U0ZGYklJcFVJUXl2WUdUbjczNUJ5bXZYTTlWeDY1eUlCNnZaejQ4YjZNag",
+        "time": "2026-08-13 18:15:02"
+      },
+      {
+        "title": "為雲林子弟的立委劉建國表示，矽品在雲林投資將產生磁吸效應，吸引更多企業進駐，呼籲中央加快產業用地和園區設置的腳步。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi5wVBVV95cUxObWNVRWxubk5oVm9JVkJUaFBWTUk2LWJGRm9pdlhNSTRtSkNDcEFIbnNwbVY1VTZZSVdnTmp5cmJRSXZ3TVMyMWJsYXdYMXcyOGxpb1lZV2cxQ3VlS0NRekhZN0NWZFRSQXlQLTBUOHhCcFBuRGliQkNieGlmR2IyUnM1M1JTSzNlMTJCaEdZbmp0SC1iUW1zV1k3enhqRXJVMGNqTmpyZ3B6bzJZY1FtTDVDbW14VHUzcl9UMGNqQWl3bkFMTDZDOF9BVXEzNHZnOVdhdUFYcEdSRkJKUkIzZzdFMUlkVTlOWEhLclJ5YXBDUW9GaVJJR0hhVHBUMDY4U0JNT3JLYjc5aUpCTF91R2FIdnVacUxrd0xvYV9BSW5GRFp0VVB0dzBxQ3JfTDNjUEtHZ05VcVRpY0JDQmlvaXVXcGJ6aTBkUTRDaHpuRnNqeUU3QTRkVlRZVmp2Y0dwZzdKWFYwMnlPS2M3LWs4a1g5SFZXZk9pZm9aOFQ3TTh3N1RraklGdTdPb0xmY2xNQURsdDhzYW9mWlVDYzlQR1lERmJXczRCZlRkazE5dXY2d2VxbVFIV2J2RkdhUWpQa2pCREljWVc2d3ZoaE80WHhFLU84NVcwN192b05ONE1mZEotMzRKQk02RHgwOGdEWDhYd25XYUR5S2lhSHdtZlJNc2ViS1F6d05qR1YyUjRvYzNiZVMwWER5N25qZ0M4YmdCT0sxa0NxdnBEQ0ZZZkl5RmF6eHo4dEhyODEwZHk1NWUwdDhPSEFRSTBHSGdUcUViOEtUUFZCMkdCTjhFMk8ya0dvanMtU3RSRWZrdURsaW9TajAzUThlUG40S0owVGZzRjd3T05qOVJDRkNTM0NVS0RNQWtPUEJoTzRhMk9rZmNRU3hxVC1HYTF2c3ZBaTJyNEZLYXFRaWZ5RktkZnhnU1hJS0J2TFQyRDdDRHJNcVR5SERHMmRQenBGSFdtb1dGdUN5Zw",
+        "time": "2026-08-13 17:59:04"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 20
+      "count": 22
     },
     {
       "platform": "facebook",
+      "count": 4
+    },
+    {
+      "platform": "youtube",
       "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "為雲林子弟的立委劉建國表示，矽品在雲林投資將產生磁吸效應，吸引更多企業進駐，呼籲中央加快產業用地和園區設置的腳步。 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi5wVBVV95cUxObWNVRWxubk5oVm9JVkJUaFBWTUk2LWJGRm9pdlhNSTRtSkNDcEFIbnNwbVY1VTZZSVdnTmp5cmJRSXZ3TVMyMWJsYXdYMXcyOGxpb1lZV2cxQ3VlS0NRekhZN0NWZFRSQXlQLTBUOHhCcFBuRGliQkNieGlmR2IyUnM1M1JTSzNlMTJCaEdZbmp0SC1iUW1zV1k3enhqRXJVMGNqTmpyZ3B6bzJZY1FtTDVDbW14VHUzcl9UMGNqQWl3bkFMTDZDOF9BVXEzNHZnOVdhdUFYcEdSRkJKUkIzZzdFMUlkVTlOWEhLclJ5YXBDUW9GaVJJR0hhVHBUMDY4U0JNT3JLYjc5aUpCTF91R2FIdnVacUxrd0xvYV9BSW5GRFp0VVB0dzBxQ3JfTDNjUEtHZ05VcVRpY0JDQmlvaXVXcGJ6aTBkUTRDaHpuRnNqeUU3QTRkVlRZVmp2Y0dwZzdKWFYwMnlPS2M3LWs4a1g5SFZXZk9pZm9aOFQ3TTh3N1RraklGdTdPb0xmY2xNQURsdDhzYW9mWlVDYzlQR1lERmJXczRCZlRkazE5dXY2d2VxbVFIV2J2RkdhUWpQa2pCREljWVc2d3ZoaE80WHhFLU84NVcwN192b05ONE1mZEotMzRKQk02RHgwOGdEWDhYd25XYUR5S2lhSHdtZlJNc2ViS1F6d05qR1YyUjRvYzNiZVMwWER5N25qZ0M4YmdCT0sxa0NxdnBEQ0ZZZkl5RmF6eHo4dEhyODEwZHk1NWUwdDhPSEFRSTBHSGdUcUViOEtUUFZCMkdCTjhFMk8ya0dvanMtU3RSRWZrdURsaW9TajAzUThlUG40S0owVGZzRjd3T05qOVJDRkNTM0NVS0RNQWtPUEJoTzRhMk9rZmNRU3hxVC1HYTF2c3ZBaTJyNEZLYXFRaWZ5RktkZnhnU1hJS0J2TFQyRDdDRHJNcVR5SERHMmRQenBGSFdtb1dGdUN5Zw",
-        "time": "2026-08-13 17:59:04"
-      }
-    ],
     "news": [
+      {
+        "title": "雲林毛小孩數量超8.3萬隻 張嘉郡發表寵物經濟四大藍圖 - TDN台灣生活新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VWUlTN0dtUDdKdEpxSkotSlBlYzAyekUwNjZzOWdwdElxeXRVTTFuYnlXY3VCTjJrM25PTkY0Wi1kNlRVTVpONUJEeEQtWUxG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-13 18:54:37"
+      },
       {
         "title": "張嘉郡推四大寵物經濟政策 打造人寵共融、產業共好新雲林 - 台灣民眾電子報",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wMGtwb2p6YUJyRmtQT2VrWDlJckVYbEQ5Nl96T3owSXFYYmYyNWw0Y3NCd3lSRlJPWmJvVzZuZ1lpbkJtdG42cg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -479,6 +525,11 @@
         "title": "張嘉郡推寵物經濟政策走向人寵共融與產業發展| 地方 - cna.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03XzJTbi1hMllQczZSTlQxdGpqbnpIRFhXY2s0MWg1T3JlV2g2NlZZTXpEaHRvRV92eW9lV185S3Bjc3NCdEhEa2pGVHo5UWJELU90bFoycDRkeFlkRnhr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-13 16:08:00"
+      },
+      {
+        "title": "從動保到產業發展！張嘉郡四大政策盼毛孩成為經濟新動能 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOSG03c3FZS29XSXlyc1JFa2YwRDV3SjlzcnByZXRpWTRzUTFPcHVBY25ySEFJRGh2ckRZQzNVSXFjRXJ4QnlYMHdKWW1aMTlqekVncFJ0bFBwbWp0cXZMZUxnYXNLX3gwWlRkaTNRMGhxUHRQaDY5Zzd1TW1fLUZRalpCdHJaY2lKQjlPNi10UEVLX2Yyay1OZW5pMW1XTFJLMXVHb19yWkRSamFaWEVGXy04b0RsN2JFRmZFTUtIeGM4dEdkV24xLTVkbkJvdXRMUGJaVUZ1TkZXRW03TGV4VlIwUzNDOXFjb1NKQ3JCNHRNVkxRb1NqcWQzeEJQNVhLTWxEUk5pQnFpaHRrZGxKTzI5VlRIaUFOMkFBQjdDbjVYbENEYjczQnJPeXVpQ1FDWDgtTWtuaWo2T0wyRmpYQXY1N3lnMGxmQm55NmpaMXdJRHNUbEN3RWRkNmJjNEplc1Z3OUFJNHc1eWdMU2dNbUs4Ykp4ak1CQUluRzFRY3k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-13 15:38:53"
       },
       {
         "title": "毛小孩商機大！ 張嘉郡4政策搶進寵物產業創造就業機會及地方發展- 雲林縣 - 自由時報",
@@ -545,17 +596,51 @@
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zRUM2bkxiSTBTQm9Rd1lCbnBZcFdCcEJmSzBJV1JUSG40TXhrTzZma1ZnNFFIRUw1TjNqNTUteDQwRTduVUJKNXlrS1dlRmUyMEdDUDExdnotUzY5NHBSVU5EaWUzU2s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-13 11:13:58"
       }
+    ],
+    "youtube": [
+      {
+        "title": "雲林毛小孩數量超8.3萬隻 張嘉郡發表寵物經濟四大藍圖-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=MX6-Bu-t76U",
+        "time": "2026-08-13 18:45:07"
+      }
+    ],
+    "facebook": [
+      {
+        "title": "#幸福雲林寵愛共好❤️ #打造人寵共融新生活🐶🐱 一隻汪星人、一隻喵星人，對許多家庭而言，早已不只是寵物，而是一起生活、一起成長的重要家人。 嘉郡看見，隨著養寵家庭增加，鄉親對毛孩的需求也從基本照顧，延伸到食品、醫療、保健、照護與生活服務等更多面向。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxQcmNpNTJvbDRjMFZLam5xT3hfUWtDODZyOGNmOTJ1cE0wdGx5bFh6eUhIbXc1bzloaEtHbDExclZ6TGRYS1hnMDBYSDVXdE9UOVFmT0oyczZJdlZGUVRJTGRWaWtTRTR2SnA2TTM5QXFGdU0zQnVtX1pxN09UcFFQMlVSWGdINU5pNmJ0LXAzdC1PM2FfRW55VDVSei04ZW1CRVB0QnNMd01DME9HbVRPSUhETnlFVlRvYlBfODhEZ0F3Ujl5SVFYTFNITVBVZUhNR0dRZ1cwOGs5dnRPZkNtZ0J0Q2x2R2h3Ym55X19qYXYwQ21Gai1VTEpFYjdzVGJNRXpBVEQ5SDFwOFZZQXFvLXBiTVNFMFRzVUR5YlBKUG4wN1NJb2xHX1U3NUNHSmJUWnVIR2IwLThDcXBwR1NjSFdYbHpPTjhGUXFyTHhBazR3UnVULVU2WnNlRkNuQU5OSklTWmx1RnRpUG9WUXVpM2wzUlNVckpBWk10RWZIUzBOS01qUTh6ZTNoVFJDLTk1bEZTckVsVDJneXZTbVlYR3RjbnctWEZ6RVFjZEpWOUM5NlN3UHAxbnZPem5VZXF6YmNlc3diT255b21ITGJuREtnQmhPMllSdUVOS3NWbjJpVERhMzlFaF9NQWpMbGJMdzVySXo4WWl2WTQtOXBhRzlzZF8xc05FUGEza0JFSkoyWXJTRTF5Q1hOOE1XQUVLT3JkVFRqQjNaamU0dEhtbTJxWm9hQnVKUDI3cjg3UDFwQkNncnBoZWk2S00zR001WEtTRk1jMDVocURoamdzUHRQUUVsUUlacjZ2Q24zVjRiV05jdFpQQURRbFBkWFVPRk9lbmg3VnN4V0toeUZldXZ4X1M1THVXcFJ2RzFfYm9VVi14dW1WdXB6WnQ5bGRQMFluU0xmVjJfMk5hb0ViejNOZ25LZXBUWTc5cy1ndFVsQ0ZsNWNBRDgtWkh0N3d4RTE1cDR2Q3VoYjVzYW42bHVGRF9mRHQ3cUtnSW1DTTczVzVfa3NmYTByWnhzV0EwYUpBaXVsUjkwdV9MWV90NkZTZ1J0QnZiVGRscDRhc2xjWjM5TlJ4eEhqa1lOZURiR190bUZzcHFVUklqZDZPOVV5dGJiOGhWNjdFQWUtdFpucFNxMndibXdKdElXREp0R2RiZ0FfclkyS21BVV85clI1NkVTbGRjbVVyM2puUi1adl91ZjhJeWNTdm9fSmw5MzBqNEcyOTdkVUlaQVZxYjdDN3NrX096eXFxUWNJWnUxU093N2hWTFl4a1NnNklBMzljZ19KWGktNUdUR0lUMi1uZ0NrTVdoMzVnNG1uRlhTMlRBU0ZsZEFqWVVta3ZQTVJycE5sLWUzelJSeElzZ25wc0VjYkhTMHB0R2JJTnc3WlQzRUNxeEVTRjU1bkE",
+        "time": "2026-08-13 18:23:07"
+      },
+      {
+        "title": "#張嘉郡 推 #寵物 經濟政策 從動保走向人寵共融與產業發展 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPUmJ5d1locGc1VGdSQXVIdDduUGFYeFptb1Z0TlJIdjM4X2J1VWV3UnNrUlczWGFEQWpMWXpYQmVsZzBkamRENGpIVXdVTFFMdEJPeGJuU1EzVWE3ZHJFbmI4a01QVjVNSzZPbFkzX2pGd05qc29FaW51bGlUZDRHUXdIdVdOSk1vbUtiUk1KMVAzQjJmUUJsT0ZSRzNzS1hqNUxNeEtqSE1DZEdBVDJfdWw4cllKd2t1U0VwUnlYSXVYeU13a0lZdjFvU0lsdkx0V3N4ckxsTkJPV2l4Nk5XajdwVXQ3UC1IeFFoNlhxektBQnNWSGlMbzBDZDlsUWFnUEI0RHg1R004Y1pibXNrZ1dDS0w2azJRMWR3WkxrQ0xlTldNY18zUnpNV3U0SXJOcFI0Ni16cFB3Q2Vac0tUek1tYzA3clZ6Mjk5djVkYXdYc0RaUjVycmxZQmpuR1NuaFlLRGh3ZS0zRzN3ZVBEZ2NFNjNSdGZyNmlLRTJ1V3pRZXQ0Q2YwbG91Z0VJbkxEbFVv",
+        "time": "2026-08-13 18:15:04"
+      },
+      {
+        "title": "#張嘉郡 推 #寵物 經濟政策 從動保走向人寵共融與產業發展 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQZ3RIRXh3UzlIbEhUZzRGMTFHdXBHbGlObVEtUkJHcW5CSVZqZ2plVVIzTEwyQ3p4aVp6V05SR0ZKRnpiSEtOQU91NENiOVF4R0dFOTNTZ0FpNzd1WTJma2dWUEh1dVhobmYwWlBLcVV1dkFkMzFQN0l4aGZFdS03NERIdVZpNm5tV0pKek1yNmtEakdWeHh1RVZmbTl0WVdLbmhhRWx4bERYUjA1Slk4TmhfQnpITWk2NW9pSlhrNVVabUVROHBHN2ZJZWhzRjVpQTgtVUhSOHBwekhKUlloTzlVZnVCaUljODNuOUJHVk5xdWNNS3lBU3ZTbVY3VHFaTTAzRlc3TjBJRGtzZ25CN0hxWnBHLUN5SnFmcy1kQzFtSGJUNmhmRFg0Y1hoRGQycHlUVDVxMHBpcnBMMWc2WnE2aHNuZ0NSMTdObVZvN2xiOXU1NjByelBQV2IxaXFCclpoY0pLWHN6U0ZGYklJcFVJUXl2WUdUbjczNUJ5bXZYTTlWeDY1eUlCNnZaejQ4YjZNag",
+        "time": "2026-08-13 18:15:02"
+      },
+      {
+        "title": "為雲林子弟的立委劉建國表示，矽品在雲林投資將產生磁吸效應，吸引更多企業進駐，呼籲中央加快產業用地和園區設置的腳步。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi5wVBVV95cUxObWNVRWxubk5oVm9JVkJUaFBWTUk2LWJGRm9pdlhNSTRtSkNDcEFIbnNwbVY1VTZZSVdnTmp5cmJRSXZ3TVMyMWJsYXdYMXcyOGxpb1lZV2cxQ3VlS0NRekhZN0NWZFRSQXlQLTBUOHhCcFBuRGliQkNieGlmR2IyUnM1M1JTSzNlMTJCaEdZbmp0SC1iUW1zV1k3enhqRXJVMGNqTmpyZ3B6bzJZY1FtTDVDbW14VHUzcl9UMGNqQWl3bkFMTDZDOF9BVXEzNHZnOVdhdUFYcEdSRkJKUkIzZzdFMUlkVTlOWEhLclJ5YXBDUW9GaVJJR0hhVHBUMDY4U0JNT3JLYjc5aUpCTF91R2FIdnVacUxrd0xvYV9BSW5GRFp0VVB0dzBxQ3JfTDNjUEtHZ05VcVRpY0JDQmlvaXVXcGJ6aTBkUTRDaHpuRnNqeUU3QTRkVlRZVmp2Y0dwZzdKWFYwMnlPS2M3LWs4a1g5SFZXZk9pZm9aOFQ3TTh3N1RraklGdTdPb0xmY2xNQURsdDhzYW9mWlVDYzlQR1lERmJXczRCZlRkazE5dXY2d2VxbVFIV2J2RkdhUWpQa2pCREljWVc2d3ZoaE80WHhFLU84NVcwN192b05ONE1mZEotMzRKQk02RHgwOGdEWDhYd25XYUR5S2lhSHdtZlJNc2ViS1F6d05qR1YyUjRvYzNiZVMwWER5N25qZ0M4YmdCT0sxa0NxdnBEQ0ZZZkl5RmF6eHo4dEhyODEwZHk1NWUwdDhPSEFRSTBHSGdUcUViOEtUUFZCMkdCTjhFMk8ya0dvanMtU3RSRWZrdURsaW9TajAzUThlUG40S0owVGZzRjd3T05qOVJDRkNTM0NVS0RNQWtPUEJoTzRhMk9rZmNRU3hxVC1HYTF2c3ZBaTJyNEZLYXFRaWZ5RktkZnhnU1hJS0J2TFQyRDdDRHJNcVR5SERHMmRQenBGSFdtb1dGdUN5Zw",
+        "time": "2026-08-13 17:59:04"
+      }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 19,
+    "張嘉郡": 25,
     "劉建國": 2
   },
   "mention_compare_7d": {
-    "張嘉郡": 39,
-    "劉建國": 63
+    "張嘉郡": 45,
+    "劉建國": 61
   },
   "top_news": [
+    {
+      "title": "雲林毛小孩數量超8.3萬隻 張嘉郡發表寵物經濟四大藍圖 - TDN台灣生活新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VWUlTN0dtUDdKdEpxSkotSlBlYzAyekUwNjZzOWdwdElxeXRVTTFuYnlXY3VCTjJrM25PTkY0Wi1kNlRVTVpONUJEeEQtWUxG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-13 18:54:37"
+    },
     {
       "title": "張嘉郡推四大寵物經濟政策 打造人寵共融、產業共好新雲林 - 台灣民眾電子報",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wMGtwb2p6YUJyRmtQT2VrWDlJckVYbEQ5Nl96T3owSXFYYmYyNWw0Y3NCd3lSRlJPWmJvVzZuZ1lpbkJtdG42cg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -590,6 +675,11 @@
       "title": "張嘉郡推寵物經濟政策走向人寵共融與產業發展| 地方 - cna.com.tw",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03XzJTbi1hMllQczZSTlQxdGpqbnpIRFhXY2s0MWg1T3JlV2g2NlZZTXpEaHRvRV92eW9lV185S3Bjc3NCdEhEa2pGVHo5UWJELU90bFoycDRkeFlkRnhr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-13 16:08:00"
+    },
+    {
+      "title": "從動保到產業發展！張嘉郡四大政策盼毛孩成為經濟新動能 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOSG03c3FZS29XSXlyc1JFa2YwRDV3SjlzcnByZXRpWTRzUTFPcHVBY25ySEFJRGh2ckRZQzNVSXFjRXJ4QnlYMHdKWW1aMTlqekVncFJ0bFBwbWp0cXZMZUxnYXNLX3gwWlRkaTNRMGhxUHRQaDY5Zzd1TW1fLUZRalpCdHJaY2lKQjlPNi10UEVLX2Yyay1OZW5pMW1XTFJLMXVHb19yWkRSamFaWEVGXy04b0RsN2JFRmZFTUtIeGM4dEdkV24xLTVkbkJvdXRMUGJaVUZ1TkZXRW03TGV4VlIwUzNDOXFjb1NKQ3JCNHRNVkxRb1NqcWQzeEJQNVhLTWxEUk5pQnFpaHRrZGxKTzI5VlRIaUFOMkFBQjdDbjVYbENEYjczQnJPeXVpQ1FDWDgtTWtuaWo2T0wyRmpYQXY1N3lnMGxmQm55NmpaMXdJRHNUbEN3RWRkNmJjNEplc1Z3OUFJNHc1eWdMU2dNbUs4Ykp4ak1CQUluRzFRY3k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-13 15:38:53"
     },
     {
       "title": "毛小孩商機大！ 張嘉郡4政策搶進寵物產業創造就業機會及地方發展- 雲林縣 - 自由時報",
@@ -605,19 +695,14 @@
       "title": "雲林毛孩逾8萬隻 張嘉郡拋4大寵物經濟政策 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOSi1WaTZhX1R0cUJvRmh3RW1zc2d0Y1hLZTBIQ28tTXZRX1g5VjVwdmtHckxuenhwYjVjcVdvT2lkN3R1ckVsMDJ0d1Itb1BpYm1DNlFKcDZ0M01KUUd5TGVmSEl4WTktbWRodDVOaGpGQ1VlbkZLVUVyblhjUkpqc0hXOXo0aDBFZzVMaTNxbzlod3pfUUdTeDk5dHlMclY0UXBvMkhfWFF4SUI1WHFrNVVIUDJTWGxMeEtNaHY3YXViQnIxSEdJTnR3a2FXekVRcDdsRlc2TkZSXzZ5bHpSRnhnTVdRRnltU1lyTlE5Yko5RGw2cy1WRTh2STZxZ3dEOFJ2RmFYdEhYTldGWjZ1VmFMOFFodTV0Y291RUpSdHFheHctLTRjTlZfYlV2V0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-13 14:30:23"
-    },
-    {
-      "title": "雲林毛孩數量3年增7千隻！張嘉郡推「寵物代幣」：走路換獎勵 - NOWnews今日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pZnloQWV4aVcyQnl2Rl9zc2JkM1FBRlFTUnJVUmhpS3BNTUoyRTJpcm1GSGFkSHpuaXhMYzJqUWlUaFdpS0FMdXhTaVTSAVJBVV95cUxPVTM2djhqREhtUGhKVi1oV01NQTlHVjBrdmRpQzFCNlhjZlE4MHJJR1hMeDRTTUYtRUpXa19RQ05RUUNBZlBxY2JiUXpMUHBYQlZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-13 14:21:32"
-    },
-    {
-      "title": "拋寵物經濟政見 張嘉郡：打造人寵共融、「雲林寵物良品」特色供應鏈 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPV2o5cHBHbUxtTnpLNVRxckJZYVVVSG9KX1lxNkprWS15NU9HcTlPSGg2Z1ZlbUhQZ253bTczNVE1WnA5djQ2VWNua29sX3dnZGxpbDZWeWlmN2NDZGJzTzdmOUFOekE1SUxCeG9ab1hoNDF5WkZzdkxEVkgwUTRmbF9KZmw4Q0d2UW51N2xlaVpGV0RJd25sUTd6NU1NZTNOd2h5T1ZzRWk0R0l0X0NiSUtBWG8taE9YaG5QOWtQcWdrb2xDLXZwbC03QUlkaFZqazd5emJHWGNzNGVkei1SMUtjX3BEd2FCZzJlSlVyVmR0Yzh0N0NwYmNWb0c3SThobGxyS2g0V05zNlU4Tlo4NEIwX0YyeGtZV3FhMXg5V0ZyZ0EyV0dRRXZLUHBScXg2RTd2T0NXbERIX1NDZndGYnVodlFKVGFjVlBWNFpOVHJ2TDhoSE9TcXpXQ1J6X0VDR1d4bl9kU1FlQmxXVG1TMlhDbU02enlIUk5OM0luaTFHSzNlaHhUOG52SUtkTHVRTFRYU0lHc2ZFUmtj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-13 14:02:03"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "雲林毛小孩數量超8.3萬隻 張嘉郡發表寵物經濟四大藍圖 - TDN台灣生活新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VWUlTN0dtUDdKdEpxSkotSlBlYzAyekUwNjZzOWdwdElxeXRVTTFuYnlXY3VCTjJrM25PTkY0Wi1kNlRVTVpONUJEeEQtWUxG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-13 18:54:37"
+    },
     {
       "title": "張嘉郡推四大寵物經濟政策 打造人寵共融、產業共好新雲林 - 台灣民眾電子報",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wMGtwb2p6YUJyRmtQT2VrWDlJckVYbEQ5Nl96T3owSXFYYmYyNWw0Y3NCd3lSRlJPWmJvVzZuZ1lpbkJtdG42cg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -652,6 +737,11 @@
       "title": "張嘉郡推寵物經濟政策走向人寵共融與產業發展| 地方 - cna.com.tw",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03XzJTbi1hMllQczZSTlQxdGpqbnpIRFhXY2s0MWg1T3JlV2g2NlZZTXpEaHRvRV92eW9lV185S3Bjc3NCdEhEa2pGVHo5UWJELU90bFoycDRkeFlkRnhr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-13 16:08:00"
+    },
+    {
+      "title": "從動保到產業發展！張嘉郡四大政策盼毛孩成為經濟新動能 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOSG03c3FZS29XSXlyc1JFa2YwRDV3SjlzcnByZXRpWTRzUTFPcHVBY25ySEFJRGh2ckRZQzNVSXFjRXJ4QnlYMHdKWW1aMTlqekVncFJ0bFBwbWp0cXZMZUxnYXNLX3gwWlRkaTNRMGhxUHRQaDY5Zzd1TW1fLUZRalpCdHJaY2lKQjlPNi10UEVLX2Yyay1OZW5pMW1XTFJLMXVHb19yWkRSamFaWEVGXy04b0RsN2JFRmZFTUtIeGM4dEdkV24xLTVkbkJvdXRMUGJaVUZ1TkZXRW03TGV4VlIwUzNDOXFjb1NKQ3JCNHRNVkxRb1NqcWQzeEJQNVhLTWxEUk5pQnFpaHRrZGxKTzI5VlRIaUFOMkFBQjdDbjVYbENEYjczQnJPeXVpQ1FDWDgtTWtuaWo2T0wyRmpYQXY1N3lnMGxmQm55NmpaMXdJRHNUbEN3RWRkNmJjNEplc1Z3OUFJNHc1eWdMU2dNbUs4Ykp4ak1CQUluRzFRY3k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-13 15:38:53"
     },
     {
       "title": "毛小孩商機大！ 張嘉郡4政策搶進寵物產業創造就業機會及地方發展- 雲林縣 - 自由時報",
@@ -707,19 +797,24 @@
       "title": "張嘉郡推4大寵物經濟政策 推雲林專屬「代幣」 超吸睛 - 匯流新聞網",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOS2dIWE40eDdZbm9pWDhLNmxjN2p5azRvMWthNGw2NDd1UFJ1NTNuQ295blZEQXVDVlo4NDZSTUs3UXRQX080Uzdn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-13 13:03:02"
-    },
-    {
-      "title": "張嘉郡推四大寵物經濟政策 從動保走向人寵共融與產業發展 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fR2s0OXgteEtpeHBSUXZLcmxqN2JETjhFT3lScTBqaFdpUDByeTNKMUxETjRCczdKeVRTeFA3eDNSdEQtbWRIS1NpSVk4TEsyMUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-13 12:30:00"
-    },
-    {
-      "title": "矽品斥資千億落腳雲林斗六劉建國：吸引更多企業進駐－民視新聞- 民視新聞網 - 民視新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zRUM2bkxiSTBTQm9Rd1lCbnBZcFdCcEJmSzBJV1JUSG40TXhrTzZma1ZnNFFIRUw1TjNqNTUteDQwRTduVUJKNXlrS1dlRmUyMEdDUDExdnotUzY5NHBSVU5EaWUzU2s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-13 11:13:58"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "#幸福雲林寵愛共好❤️ #打造人寵共融新生活🐶🐱 一隻汪星人、一隻喵星人，對許多家庭而言，早已不只是寵物，而是一起生活、一起成長的重要家人。 嘉郡看見，隨著養寵家庭增加，鄉親對毛孩的需求也從基本照顧，延伸到食品、醫療、保健、照護與生活服務等更多面向。 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxQcmNpNTJvbDRjMFZLam5xT3hfUWtDODZyOGNmOTJ1cE0wdGx5bFh6eUhIbXc1bzloaEtHbDExclZ6TGRYS1hnMDBYSDVXdE9UOVFmT0oyczZJdlZGUVRJTGRWaWtTRTR2SnA2TTM5QXFGdU0zQnVtX1pxN09UcFFQMlVSWGdINU5pNmJ0LXAzdC1PM2FfRW55VDVSei04ZW1CRVB0QnNMd01DME9HbVRPSUhETnlFVlRvYlBfODhEZ0F3Ujl5SVFYTFNITVBVZUhNR0dRZ1cwOGs5dnRPZkNtZ0J0Q2x2R2h3Ym55X19qYXYwQ21Gai1VTEpFYjdzVGJNRXpBVEQ5SDFwOFZZQXFvLXBiTVNFMFRzVUR5YlBKUG4wN1NJb2xHX1U3NUNHSmJUWnVIR2IwLThDcXBwR1NjSFdYbHpPTjhGUXFyTHhBazR3UnVULVU2WnNlRkNuQU5OSklTWmx1RnRpUG9WUXVpM2wzUlNVckpBWk10RWZIUzBOS01qUTh6ZTNoVFJDLTk1bEZTckVsVDJneXZTbVlYR3RjbnctWEZ6RVFjZEpWOUM5NlN3UHAxbnZPem5VZXF6YmNlc3diT255b21ITGJuREtnQmhPMllSdUVOS3NWbjJpVERhMzlFaF9NQWpMbGJMdzVySXo4WWl2WTQtOXBhRzlzZF8xc05FUGEza0JFSkoyWXJTRTF5Q1hOOE1XQUVLT3JkVFRqQjNaamU0dEhtbTJxWm9hQnVKUDI3cjg3UDFwQkNncnBoZWk2S00zR001WEtTRk1jMDVocURoamdzUHRQUUVsUUlacjZ2Q24zVjRiV05jdFpQQURRbFBkWFVPRk9lbmg3VnN4V0toeUZldXZ4X1M1THVXcFJ2RzFfYm9VVi14dW1WdXB6WnQ5bGRQMFluU0xmVjJfMk5hb0ViejNOZ25LZXBUWTc5cy1ndFVsQ0ZsNWNBRDgtWkh0N3d4RTE1cDR2Q3VoYjVzYW42bHVGRF9mRHQ3cUtnSW1DTTczVzVfa3NmYTByWnhzV0EwYUpBaXVsUjkwdV9MWV90NkZTZ1J0QnZiVGRscDRhc2xjWjM5TlJ4eEhqa1lOZURiR190bUZzcHFVUklqZDZPOVV5dGJiOGhWNjdFQWUtdFpucFNxMndibXdKdElXREp0R2RiZ0FfclkyS21BVV85clI1NkVTbGRjbVVyM2puUi1adl91ZjhJeWNTdm9fSmw5MzBqNEcyOTdkVUlaQVZxYjdDN3NrX096eXFxUWNJWnUxU093N2hWTFl4a1NnNklBMzljZ19KWGktNUdUR0lUMi1uZ0NrTVdoMzVnNG1uRlhTMlRBU0ZsZEFqWVVta3ZQTVJycE5sLWUzelJSeElzZ25wc0VjYkhTMHB0R2JJTnc3WlQzRUNxeEVTRjU1bkE",
+      "time": "2026-08-13 18:23:07"
+    },
+    {
+      "title": "#張嘉郡 推 #寵物 經濟政策 從動保走向人寵共融與產業發展 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPUmJ5d1locGc1VGdSQXVIdDduUGFYeFptb1Z0TlJIdjM4X2J1VWV3UnNrUlczWGFEQWpMWXpYQmVsZzBkamRENGpIVXdVTFFMdEJPeGJuU1EzVWE3ZHJFbmI4a01QVjVNSzZPbFkzX2pGd05qc29FaW51bGlUZDRHUXdIdVdOSk1vbUtiUk1KMVAzQjJmUUJsT0ZSRzNzS1hqNUxNeEtqSE1DZEdBVDJfdWw4cllKd2t1U0VwUnlYSXVYeU13a0lZdjFvU0lsdkx0V3N4ckxsTkJPV2l4Nk5XajdwVXQ3UC1IeFFoNlhxektBQnNWSGlMbzBDZDlsUWFnUEI0RHg1R004Y1pibXNrZ1dDS0w2azJRMWR3WkxrQ0xlTldNY18zUnpNV3U0SXJOcFI0Ni16cFB3Q2Vac0tUek1tYzA3clZ6Mjk5djVkYXdYc0RaUjVycmxZQmpuR1NuaFlLRGh3ZS0zRzN3ZVBEZ2NFNjNSdGZyNmlLRTJ1V3pRZXQ0Q2YwbG91Z0VJbkxEbFVv",
+      "time": "2026-08-13 18:15:04"
+    },
+    {
+      "title": "#張嘉郡 推 #寵物 經濟政策 從動保走向人寵共融與產業發展 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQZ3RIRXh3UzlIbEhUZzRGMTFHdXBHbGlObVEtUkJHcW5CSVZqZ2plVVIzTEwyQ3p4aVp6V05SR0ZKRnpiSEtOQU91NENiOVF4R0dFOTNTZ0FpNzd1WTJma2dWUEh1dVhobmYwWlBLcVV1dkFkMzFQN0l4aGZFdS03NERIdVZpNm5tV0pKek1yNmtEakdWeHh1RVZmbTl0WVdLbmhhRWx4bERYUjA1Slk4TmhfQnpITWk2NW9pSlhrNVVabUVROHBHN2ZJZWhzRjVpQTgtVUhSOHBwekhKUlloTzlVZnVCaUljODNuOUJHVk5xdWNNS3lBU3ZTbVY3VHFaTTAzRlc3TjBJRGtzZ25CN0hxWnBHLUN5SnFmcy1kQzFtSGJUNmhmRFg0Y1hoRGQycHlUVDVxMHBpcnBMMWc2WnE2aHNuZ0NSMTdObVZvN2xiOXU1NjByelBQV2IxaXFCclpoY0pLWHN6U0ZGYklJcFVJUXl2WUdUbjczNUJ5bXZYTTlWeDY1eUlCNnZaejQ4YjZNag",
+      "time": "2026-08-13 18:15:02"
+    },
     {
       "title": "為雲林子弟的立委劉建國表示，矽品在雲林投資將產生磁吸效應，吸引更多企業進駐，呼籲中央加快產業用地和園區設置的腳步。 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi5wVBVV95cUxObWNVRWxubk5oVm9JVkJUaFBWTUk2LWJGRm9pdlhNSTRtSkNDcEFIbnNwbVY1VTZZSVdnTmp5cmJRSXZ3TVMyMWJsYXdYMXcyOGxpb1lZV2cxQ3VlS0NRekhZN0NWZFRSQXlQLTBUOHhCcFBuRGliQkNieGlmR2IyUnM1M1JTSzNlMTJCaEdZbmp0SC1iUW1zV1k3enhqRXJVMGNqTmpyZ3B6bzJZY1FtTDVDbW14VHUzcl9UMGNqQWl3bkFMTDZDOF9BVXEzNHZnOVdhdUFYcEdSRkJKUkIzZzdFMUlkVTlOWEhLclJ5YXBDUW9GaVJJR0hhVHBUMDY4U0JNT3JLYjc5aUpCTF91R2FIdnVacUxrd0xvYV9BSW5GRFp0VVB0dzBxQ3JfTDNjUEtHZ05VcVRpY0JDQmlvaXVXcGJ6aTBkUTRDaHpuRnNqeUU3QTRkVlRZVmp2Y0dwZzdKWFYwMnlPS2M3LWs4a1g5SFZXZk9pZm9aOFQ3TTh3N1RraklGdTdPb0xmY2xNQURsdDhzYW9mWlVDYzlQR1lERmJXczRCZlRkazE5dXY2d2VxbVFIV2J2RkdhUWpQa2pCREljWVc2d3ZoaE80WHhFLU84NVcwN192b05ONE1mZEotMzRKQk02RHgwOGdEWDhYd25XYUR5S2lhSHdtZlJNc2ViS1F6d05qR1YyUjRvYzNiZVMwWER5N25qZ0M4YmdCT0sxa0NxdnBEQ0ZZZkl5RmF6eHo4dEhyODEwZHk1NWUwdDhPSEFRSTBHSGdUcUViOEtUUFZCMkdCTjhFMk8ya0dvanMtU3RSRWZrdURsaW9TajAzUThlUG40S0owVGZzRjd3T05qOVJDRkNTM0NVS0RNQWtPUEJoTzRhMk9rZmNRU3hxVC1HYTF2c3ZBaTJyNEZLYXFRaWZ5RktkZnhnU1hJS0J2TFQyRDdDRHJNcVR5SERHMmRQenBGSFdtb1dGdUN5Zw",
@@ -804,24 +899,14 @@
       "title": "一年一度的父親節又到了 在這感恩的節日裡❤️ ​建國祝所有 #爸爸、#爺爺 或是 #母代父職的媽媽、#父代母職的爸爸 佳節愉快～ ​大家回家別忘了跟爸爸媽媽說一聲，您辛苦了！ - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMipAdBVV95cUxPamRMQnhSc0pTMS1HejBDcHQxUUJnWVpadm1Tbk9ORWxGb3pXOVdlbmZfQmNZeVBZTXpXWFZLcm8xZUI3RkJ5bUlwN3U1RHRtaHpZSHFjVDNwUFlrb3VVcW81VnFhcmVZM0kyX21DRTk0T09SZVBZUU8wd0lqb2lvdFN0NzZZNnFhLWhFS3FmOEJXVWZ1elZqREI1MHpVdDhGcl9zM3N0QzRyWHYxM2VWM1l4V1lMemZwUjZPTF9Mdi15ajNIenNzcjEtOElibTloRUVobXEzM2NCYXduSWd2Q0s5OWFWM2k3MzEyS0ZZaWFGUVVLVjltWkFPQS1CYmM5VHMwaXpfQTN1dkZSMXI4VTZWUlR4ZjhXMXlMVlVOcDRLSkpqUk9jZGNIU0FnMGRBQ1N4d0tUOHU0bldtcllGaUlVNWdkTUtrQ3p6bVpyVkJpS25VZkR5V1kwUy1qcjZFcFBfa3Z3R1RsNHhFQ3cyYktRUGdRZHlsb05wbmViN3JJOWZrSXhCWUljcm5CSWxRa1VNbGFJbUt5LWd0V0dnX3V0TzdPME1qbXNCbEFfeVJtV1NIOHFjRk9JOEtlWmpabGp3WndINXNSNm0taEhaV0Y0MHBtZXI5RFhBS1dMMExncm5tQWk3ZG5JNWJZVFpQQVpJOEd0NDNaVjZxTDkwYWU3T3M2T1hFTUUydU4tN3RKREs1aDdGSXRZMUhJYW80SUM4SWM4dGVNcHFEZWI5a1VJZ1J1Yk5uQVFXa1A2X3BIbGZuRVFZVThSWHptUDYxS09TWUNuSlFzZk1kc1dMMS1sNWJuQ2w1b0NuSmFscWQ3VnFsU3BCOTNQMHhCLWRYVmhRaUlDbXJpVXVPS3BGRWpmVnJyOG1vZ1ZWQlc0X0lYWTlJdl96X3E4dFpCTTdqLS1sNDNqQUxJd2tkUnI2SU50akdLMnhEbWRBZmdSNG5tNTd6dDc2c25MbFZRbV9DcFJ4ODJDRnM1V3Q2UG9naGNXTXJMLTFYOUZSTnUwVzh6U1VWVWc0eVpuY2tGcWlYYkR2SUpIY2U0ZVpsdFhzS1hmVWRRVm9Dc3gzNmE3R21BVTY5MnRHamNRY0JmOXRDOG81NlYwOExSR1VNX1NHZWItTk5UeUhqOGpZcUh4bHVVMHZrdGV4dFJ1S2o1TlVrWkxxUUl4YUoxbHZZQldtQ1lsZFljbUpEaEQtRWh2b2lXYmVLYy0zN25aRGpQdXlNa0RVYg",
       "time": "2026-08-08 10:45:32"
-    },
-    {
-      "title": "歡迎大來賓張嘉郡來到美鳳有約，和大家分享雲林令人驚艷的農業黑科技！ 大家熟悉的西螺純釀醬油，又黑、又香、又醇，但原來雲林的農業創新不只這樣！ 竟然能把醃酸菜的汁拿來養蛤蠣，再將牡蠣殼磨成粉，變成柑橘的天然防曬保護層，讓原本的農業廢棄物搖身一 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwhBVV95cUxPYU5QVVRtV3l2QUw1Z29nS2xnMVJmd0dBamxHVnczVmI0TUljMFkzRjdZZzVNMjhidk5xYzI0cUNicFJNNUV1MVp6dTgxeTFFZl9ZYXNhRU1aUDF4SVR6NjdPSkQ1UWZadUtrOTd5cEU1eVA4cDZNZXdmVmtCeVhXU0dqREozLXZpaE5xb0tHM1dCQVlwc0Z5bkZtSkd1YmpTN2F6LTgwVXgzU2dyVlhJbjdXU0Z4VG1ELUZsZ29SOHlLenJ0WTZtV3lfdlFVWTJicm1qVlRKYUMtc3lMSHRtQm5LQTZ5SDdZTTNtQVBrS3JtLTJFRnA0LTlRTmJ2aWt0ZTdNUkZSRkZhTVNjS3g0VkxiYU1vRWxQUjZpYmdTUl9LQ0ZZV2Vxc1JfajA1Q09wdXRHeDBmb2ZkOUZaUlY3b2syUk42UHdYckh1NFlnSHVPMGdMTzBlNE5XZGt3VXc0NXZaTHNSb1ZyZzFDVldXbHFhOXIyd1lWVEFXdkluMWU3VUN5cWxENS01VUV6SnpvdXNlWlpKMVFqbVVINXpFZVJkSUVTQXhhZElzU1ZZRS00SjJ6REE2VzZZUmpOU0VOSjRUd3NnTGVOV0FFbmVQbkgyQkZUYXJqcnpNQXVMUmF1Nkw3Mk0zdFpIM1hsWW1NRHZ1ZEh3QVg2Yk0wZzJzOUZncENmMjlRVFpZUXgwNkFNdjRlNVJjRGY5Vi16OW9udFFFd05WbVcwRVVXWjdJbnpERXlZTGcyTk5MNzdsSm1qR28xdHhrQXNTNXZtUUpVbEEwcnlKMlNaQnBSbWctV0JNQ1JJdUx4Wk1sWXh0UFJQNTRaa1VsbWNsVUV1ckc1WVgxa2RCeHllRmZHQUV6eXZKa3UyUzd4QjVsand3ODRzT0steFNLSjZLWklWeEtOU3lkNWdfNzhNSFEyXzhMWWlMWXpPbnBkMHdOeFpQSUlhTTBlY1JxQ1NLaWNEaGlxQ0xoVUhoVGhZZ2xWT1VsM0hKMDd3NUFoS2ZsY3FKdGdhTkRqZWFiNTRSeGZKLWh1R3Q1TzZ4aDM0WUlDWVpmam9xbkQ3SXAtWW16S2NodFVuSHhkOWc2RDd2Qlp1MExXbVU5YktxUG4zSTRaN09WNXc5SEVGOTJzRDNwOUJHWFBvWjBkazFyT3hteG1Ja2Q0UFhBOXY0allwTGlrcUpKSGhXT1NPRkJmWDc5YzRpOUlXd0dmMTdiaWVoXzluS0wzWkFxaTBZVk1hdFJrUXFpb3F6TU53dUlULTEySTFPSy1PVmZ0ZWM4QVNUWVZYaEZYeTFrNEpwTHhsWWRSNEFVdjZHSTI1a2ZaaEJldG9QcHBBUjJiU21NWEI0alhMemlHam0zcEtxQ0pCN3RYVDJhSnB6RERBR3hJX2xXbVkwX3NCQTlPdjBmZmVtNA",
-      "time": "2026-08-07 20:01:54"
-    },
-    {
-      "title": "#政面交鋒》12年磨一劍！五連霸立委劉建國戳破張家神話！端「兩大王牌」拚四位一體升級雲林 馬上訂閱 #自由追新聞 看更多：https://bit.ly/36ansCh - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMirwVBVV95cUxQMHhmemEteW1ON1EyaG5EbWZBRXREbjNnV29KY2Z6ZmRWQVlPYWREbEpYT2ZtMUZ6NDFVemZfQ09SbGlqVEU5YUMyZnUzb1RvRmpFOWFCbEZjejNqWXk2MnE1THNiYTlfYmdYNTRnSmhDZS01TjJubTJ0eWI3aFpnM25jX0RSUlY0em9Tc1VjUlhYOEFQamVuMmVzYlpRNzdJYVB3bDBuR1p6eWxOY2JPdkd4c1FLajQ1TFd5aGd1dF9OQVRpUXVwSjBsREZrcEczQjBZODJEMEM0bnZtRnZpaEF5MGJBQzRsWW5HMW5TdnhhNjdOY3R5bU92WnZHTWlBR282NGNiNWFaaXYtTGZFdFpwTC1Kb0I3NHZWVUFiMWk1NlFFZzdWdTY2NllpMUpwSVJGZUVUdzdsckxlbHZtMVpQazF2NU52RDZSNmVyR3VJU19sVW1ZZEpTYk1keUgtOHNsQ3JzNTBzTTN1WEpJdmRMaXlCRTVLOUxZUmNOYnVMcGwyM21KTkxPSGI1aGxIbXdvTVkxNUcxcDkzeG1SeXRVc0ZSSXN5SWwtX3hrNFZmWjVuS3ZuTGxHS3QtV044Wm1ObUQyem1qOVFKcEZ6aklBR0dwbF9LTjEybk56T09pamxMU0JVUExmN1JVS05Pd0VUOHltMmVrQW9MWEJJdlJyZll3b0ZrRmlfbFEyRjd0VDNxRUVCUEpXMnc4OG1POUJRMWZCbDFTa1hNQVN4dkV0eE9kTW1tY3Nyb18weUtzZlRsS01sRFlobVJrNDZCZWlRVFRtVWViREJCaEcxemw5dWRVMm1MbmthcTJ2cnI1c0xMYXBCRktac0pPNHpFaUhqMGtpWkZWaVVxQm56QzAxTHg4WXBfUkRiZ19MekV0cFZNRWpHXzQtQjZ6ams",
-      "time": "2026-08-07 12:15:12"
-    },
-    {
-      "title": "自由時報. . #政面交鋒》12年磨一劍！五連霸立委劉建國戳破張家神話！端「兩大王牌」拚四位一體升級雲林 馬上訂閱 #自由追新聞 看更多：https://bit.ly/36ansCh - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMixwVBVV95cUxNUWl3UG1ia0J2WWFKd2pQcEx5MDRaUkNVSi1JaGtpMEZMNXJMZnpJay1QQnJmQ0dHSVlmX1BOdHd0X1VRb1dzelA3RzlfNExSM1IxbzFVLV9YMVdtbTFKM0pfbnRWMGhNS1oxMTlhQjlnU3RMaXRSYVhhN1hsWU1XVVZWTUdoaHJfbHoyUnBteFdZM0x2cTJ4RnBMb1FNNlAzMm5zSmxhOHBCNVpOZUlLNjJKN25pZUxraDlmV0gyN1RaRVdSaGdGaWhfTEZndl9LNC14SldGNnVaM29zRXlVZUt4OVEza29iYk0xXzBLaEpyR3Y3cVdfZ1FmLUVhX1p3ZWl5SXJPWHhPSFM1WUpYbklmZEJzTkt1NGQ3X2VpU19GajFFMnY5eGVlSEU2RWY2WEJvcTVIRXNScWRsZlcxSzhieTAyQTcyM0Z5VWJKVW9EamFwZC1kQWZGQ1FhdHNTaUpEUUNWMlJnMm5udjIwQnJqSU9DTFNzUEt6Mm40N1hONkpqY0ZucVE3aEt3bXZGLVlON0dCRlZQTzZRVzF3ZUNTV1FyYnNxM0xxWHg5dTNMZ1BQejE3ZzJ0U1R6OVZkRXpPUXg0cERsQXlTSWdnVkFjUDM1VG15U2MtWW1TbW5sQkpnYTJGYVlzZDV4Tk9LMU1zQnVyS25xajltUE0yRlNKMmFzRzZMa3YxZjY1QlRwLUNzdldxWTBGWE5uanBzRE1waVhiNzBpTmRuVHpGdUVIVlFKOUZoQ2xlSTRwRVRyNHU5OThkU2U0cjBCNzBjZ3hPWUdIRnZLLXhZWFhidndpdUdvSGtJT1FOcmpIZGJzakd4dHdIcUlldFlMLWZRWHFLUlc5aXh6ODlkUHZXWU5tWFRBVlBwMGRCTWJzYUI1R3l3RGQtTGdENHA0VnVvTU9GX21jdE50eGhaNGU2V3R3QXhtNGc",
-      "time": "2026-08-07 11:41:56"
     }
   ],
   "latest_news_20": [
+    {
+      "title": "雲林毛小孩數量超8.3萬隻 張嘉郡發表寵物經濟四大藍圖 - TDN台灣生活新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VWUlTN0dtUDdKdEpxSkotSlBlYzAyekUwNjZzOWdwdElxeXRVTTFuYnlXY3VCTjJrM25PTkY0Wi1kNlRVTVpONUJEeEQtWUxG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-13 18:54:37"
+    },
     {
       "title": "張嘉郡推四大寵物經濟政策 打造人寵共融、產業共好新雲林 - 台灣民眾電子報",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wMGtwb2p6YUJyRmtQT2VrWDlJckVYbEQ5Nl96T3owSXFYYmYyNWw0Y3NCd3lSRlJPWmJvVzZuZ1lpbkJtdG42cg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -856,6 +941,11 @@
       "title": "張嘉郡推寵物經濟政策走向人寵共融與產業發展| 地方 - cna.com.tw",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03XzJTbi1hMllQczZSTlQxdGpqbnpIRFhXY2s0MWg1T3JlV2g2NlZZTXpEaHRvRV92eW9lV185S3Bjc3NCdEhEa2pGVHo5UWJELU90bFoycDRkeFlkRnhr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-13 16:08:00"
+    },
+    {
+      "title": "從動保到產業發展！張嘉郡四大政策盼毛孩成為經濟新動能 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOSG03c3FZS29XSXlyc1JFa2YwRDV3SjlzcnByZXRpWTRzUTFPcHVBY25ySEFJRGh2ckRZQzNVSXFjRXJ4QnlYMHdKWW1aMTlqekVncFJ0bFBwbWp0cXZMZUxnYXNLX3gwWlRkaTNRMGhxUHRQaDY5Zzd1TW1fLUZRalpCdHJaY2lKQjlPNi10UEVLX2Yyay1OZW5pMW1XTFJLMXVHb19yWkRSamFaWEVGXy04b0RsN2JFRmZFTUtIeGM4dEdkV24xLTVkbkJvdXRMUGJaVUZ1TkZXRW03TGV4VlIwUzNDOXFjb1NKQ3JCNHRNVkxRb1NqcWQzeEJQNVhLTWxEUk5pQnFpaHRrZGxKTzI5VlRIaUFOMkFBQjdDbjVYbENEYjczQnJPeXVpQ1FDWDgtTWtuaWo2T0wyRmpYQXY1N3lnMGxmQm55NmpaMXdJRHNUbEN3RWRkNmJjNEplc1Z3OUFJNHc1eWdMU2dNbUs4Ykp4ak1CQUluRzFRY3k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-13 15:38:53"
     },
     {
       "title": "毛小孩商機大！ 張嘉郡4政策搶進寵物產業創造就業機會及地方發展- 雲林縣 - 自由時報",
@@ -911,21 +1001,21 @@
       "title": "張嘉郡推4大寵物經濟政策 推雲林專屬「代幣」 超吸睛 - 匯流新聞網",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOS2dIWE40eDdZbm9pWDhLNmxjN2p5azRvMWthNGw2NDd1UFJ1NTNuQ295blZEQXVDVlo4NDZSTUs3UXRQX080Uzdn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-13 13:03:02"
-    },
-    {
-      "title": "張嘉郡推四大寵物經濟政策 從動保走向人寵共融與產業發展 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fR2s0OXgteEtpeHBSUXZLcmxqN2JETjhFT3lScTBqaFdpUDByeTNKMUxETjRCczdKeVRTeFA3eDNSdEQtbWRIS1NpSVk4TEsyMUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-13 12:30:00"
-    },
-    {
-      "title": "矽品斥資千億落腳雲林斗六劉建國：吸引更多企業進駐－民視新聞- 民視新聞網 - 民視新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zRUM2bkxiSTBTQm9Rd1lCbnBZcFdCcEJmSzBJV1JUSG40TXhrTzZma1ZnNFFIRUw1TjNqNTUteDQwRTduVUJKNXlrS1dlRmUyMEdDUDExdnotUzY5NHBSVU5EaWUzU2s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-13 11:13:58"
     }
   ],
   "person_sections": {
     "張嘉郡": {
       "facebook": [
+        {
+          "title": "#張嘉郡 推 #寵物 經濟政策 從動保走向人寵共融與產業發展 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPUmJ5d1locGc1VGdSQXVIdDduUGFYeFptb1Z0TlJIdjM4X2J1VWV3UnNrUlczWGFEQWpMWXpYQmVsZzBkamRENGpIVXdVTFFMdEJPeGJuU1EzVWE3ZHJFbmI4a01QVjVNSzZPbFkzX2pGd05qc29FaW51bGlUZDRHUXdIdVdOSk1vbUtiUk1KMVAzQjJmUUJsT0ZSRzNzS1hqNUxNeEtqSE1DZEdBVDJfdWw4cllKd2t1U0VwUnlYSXVYeU13a0lZdjFvU0lsdkx0V3N4ckxsTkJPV2l4Nk5XajdwVXQ3UC1IeFFoNlhxektBQnNWSGlMbzBDZDlsUWFnUEI0RHg1R004Y1pibXNrZ1dDS0w2azJRMWR3WkxrQ0xlTldNY18zUnpNV3U0SXJOcFI0Ni16cFB3Q2Vac0tUek1tYzA3clZ6Mjk5djVkYXdYc0RaUjVycmxZQmpuR1NuaFlLRGh3ZS0zRzN3ZVBEZ2NFNjNSdGZyNmlLRTJ1V3pRZXQ0Q2YwbG91Z0VJbkxEbFVv",
+          "time": "2026-08-13 18:15:04"
+        },
+        {
+          "title": "#張嘉郡 推 #寵物 經濟政策 從動保走向人寵共融與產業發展 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQZ3RIRXh3UzlIbEhUZzRGMTFHdXBHbGlObVEtUkJHcW5CSVZqZ2plVVIzTEwyQ3p4aVp6V05SR0ZKRnpiSEtOQU91NENiOVF4R0dFOTNTZ0FpNzd1WTJma2dWUEh1dVhobmYwWlBLcVV1dkFkMzFQN0l4aGZFdS03NERIdVZpNm5tV0pKek1yNmtEakdWeHh1RVZmbTl0WVdLbmhhRWx4bERYUjA1Slk4TmhfQnpITWk2NW9pSlhrNVVabUVROHBHN2ZJZWhzRjVpQTgtVUhSOHBwekhKUlloTzlVZnVCaUljODNuOUJHVk5xdWNNS3lBU3ZTbVY3VHFaTTAzRlc3TjBJRGtzZ25CN0hxWnBHLUN5SnFmcy1kQzFtSGJUNmhmRFg0Y1hoRGQycHlUVDVxMHBpcnBMMWc2WnE2aHNuZ0NSMTdObVZvN2xiOXU1NjByelBQV2IxaXFCclpoY0pLWHN6U0ZGYklJcFVJUXl2WUdUbjczNUJ5bXZYTTlWeDY1eUlCNnZaejQ4YjZNag",
+          "time": "2026-08-13 18:15:02"
+        },
         {
           "title": "矽品斗六擴廠砸千億動土 張嘉郡：爭取科技廠進駐 https://cnews.com.tw/247260811a03/ #張嘉郡 #擴廠 #斗六 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOVTcwZldJSUs2VjBxbEN2dEVHc3NZZUZPZVlZcWhzWW12ak9kcVBQV2hPZWxSVFg0aXJRc1lDRFBpY1MtcFJjTXktS1BIbmhHLS13Qi1fZ3kwaVFpcE13bEx3STZOekdvZlB4RU90S045RlViX2NCRXdoMS1Nc05raWFYZ3BoZ1QwVi01WTVZZjJUVHhWZ0ROMzUwMmtmRWJtaks4ZHRMQjE5OXZYdHNna3M2OGFCX1RLNUpydTRpb3RNeGhLMk1EbzBOS195VURLenJ3YmgtWjNrWFdHQ0NQREltS1hyUl9iOWlkT2ZwdUJtVzBPWXBUVFlQSjNVS3RnTkNDcE1GN2Mwck5FckxzZ2U5eWo2QzV3OGJJbkJ6UDgzYVpOUU5vejlwczNqQklsc05QSXJCN21DcUw5OXlBaHVHREpSUjFTSzRnM1pMeXZuSUlvUWpPZEFVV2VfQXFveV9LMHJFaTZOUFZRX3NvVzZwQjJsM296S0E5SVl3N29DUkliMGdKWmVjN3Bldm5MQXROUlpZUXJoR1IteEYzaTljZ0JVal9jM1hrcGZVN1Y3OUo0NTgyOHU3VGxPUQ",
@@ -1015,19 +1105,14 @@
           "title": "👉更多新聞👉 健康, 精神, 美食 好報報導 (張嘉郡土庫與鄉親面對面 提出AI城市與教育福利願景) 版權所有 台灣好報 【記者 劉峻文／雲林 報導】國民黨中央委員林郡郁與土庫鎮黨部主委黃伯文，為輔選立委張嘉郡榮獲國民黨提名雲林縣縣長參選人，在她的家鄉土庫與馬光 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMixgdBVV95cUxPSDYxMjFTblRYNWpSRTVSMDY3NFFkLXBSdWpDTDBTT0JZWEh3RWdGQTlxWXdUYThnZ3RNdE11cTVIcXZxd2o2SHVvUm5yai1MOWZweU5QaDlWSUhEd1E1M2dtX25WaDZkTUtCajhlOUZYb3NPdXVPSkxvVDRDa1c2NXFzcW9kNFE2T1E4aWxzakN5WldOSFc2WFhfaV9NVUNpOWF1dmNJNVAzWUt2TVFmbE1aOUJFMklEb0FDdlIxeFVGTmtoREtXSnJ5Tk9oY3VxNk1qd05KZS1BN3dGLXE5c2pxemZyOVRRci1ORlRJTHhSUUo1dXZ3R3BNZ2lQZWc5RkRXVVl0cVRYVG5CQTU2VllLNk5EVkdyLVZDRDZtM05LeDZOSVJqTTF5d0FFejdTa0tHTHlrZkZSbTZMTENXd3ByTjZ2YjBDMXNpcUltMWE2V2lZQ1ROYlpYVUpSS21ENXlPanNxRTZ2U05SSEg1eHBHc21keEVmWmVjYWxYZF9MTFA4eVNJU0tWTjl1dmprS1ZVVUdxMmQ2RmQxcjd5MGoycnd2d3dqSWc5RGNwS1dYTjVRckM1RkVoRDMyX044N09Xbi1lUzRuWUxaTl9hcG9ZMUJhRDNZVjF3WFNXNDlXRE94b1I1U2lxREZkZDEyckhPZ2lDMGtzNldjMGhwc0NpSTFKWE95RC12T2h5SERpVl8tSWMyZ1NZSXk2cFg2TE1EM0Y1YWVUUlRGN291RHNrdDc1TU5rOGFPQmp5NTRMMHJvRTlqUjNoRTEzWTlkS1dMZ1pwUUp6dnVDaHBXRDVweVdfaDdJZ3lLbVJPTnhBSjVrYWdkcU4ySkZSX3BNM1Zld2xaVGdleFc2VEtObVJQS1pPb0dOWjI5MzBHcEQ5SFloY3lRUjF4UkZHYVJCUVVQTVFxOF8yRGFUZU80cEpuT2JyX0hPYzFzTG1UeGFZZVBfMFdDeXFPOU9FSTc4bkRNQWZtS1pkdEdWTzJFV2o3dW90QnlmU3pCLVpIdm9fVm8xNkRFQTBNUm5PVDY3LXB4V0dNei1tbUtfRUEtOE5kSnZDbl94ZUhocVBDRlZaOE1hZ0xndVB0U2dqR1VDcmpoVDVPcXRfOHFIeFFpSHlOSUc0QUJVZV9TM09sTkVQSXE0WEx3RDVoX1pPaXZxNzJkSThVeEdHMkZ6MHBXYU5YVl9qb3NHVWQwaUFzbVZ1SFNFVndlcTVKYURVVnIxSWVQZ0RwTEsxZDhKY0dkTzNCdEQ2LTZwZXdyR29haVpCcXdHQVE",
           "time": "2026-07-20 08:16:19"
-        },
-        {
-          "title": "雲林縣政府. . 連結大埤鄉西鎮村及元長鄉新吉村交通動脈的「N10 無名橋」，因113年7月凱米颱風沖刷有安全疑慮進行封橋至今，縣長張麗善、立法委員張嘉郡，特別會同大埤鄉長林森寶及多位代表、村長與鄉親陪同前往現地勘查，張縣長表示，為解決居民長期繞道的不 - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi3wdBVV95cUxOcGM4d2NhUHgteWVENndBak1kYXpKX3hDc0pDcnBGTnlIX2Q4M1oxU3UtR2wxYjZuT0xtODBBLVJ0VElwN2RzcU5zWk1qeDJaZ0NUYjdTRVVsY2M3MWtyVXp5Q1lqM2RPMFh0bnBVdm8xbTdZSGhQRnVOZnppS2ZmYmppUkR0VnJCckVfenF3aTM3ejdxZ0x2dGZtRTlISy1YVTNjU0pEd2NKLW5KSEpseEdpRnZUNWRpcGhGNGd6QWhMOVZlMG9mY1lIa3ZjRnkwbWFuUXhRanZDQTBKN1dadjlxcmV6UERqN1Y4WUNObXlTbmkzdFRJVDljbzJHU3puYV95ZE52SEpRdUc4SDI5YnZleGp3NkQya3UwLWhZYk1lRjNGc3ZsRHJ2bFZSZFhZc1ZHbHZ5M3gxZkFNUU42MmlhOExMRk5fNk9mRU1WMXZaRk9NSldfT29jSzliZEx1OXZaQWFXSWtlSVBUT2YzY05HQ0RMMzlvUlNsa1BDdzRocW84WE9jUjgxUEZMY3FrbXBRa3Z0SVhpY2pHTUtYV1YxQ08ydV9YZW9SMkg1LUxRUGg2eFgyVHhiWDM2Q2VMcTBkOUFhSFVDd2VSdUx3RUhfeDdqNmhjTXR1QXk5eVhrY1pVS1BJeXRMb2hyS25MSWVpQ1M1WnNzWk5pc2tIM3h3RXVNVktiOUZ6dVROWUFXUjBwcU02QjhjSWc2WmlEWkZNanF6TkxrVGE3N3JSaWgyRHdMSUlSSHl3cWRxMEFVQXVGekNCdEp5MG5TaG5ZMDVieHVualpYUU1FYnRnbUFLRFJXdEdneTJqbVZvWnJuMVNTRU1FSnhHdGVYMEZpQ2Nuell3YmNPMXdST1BJb1lLajJUOVdWMXBaNTZZcEQ1dE04bTFyRnRxOGhwTENGRlFxNHhaU0FyNnRoWW9nRG5wbkZXblExOG4wdHpFSGZ1Y09CODJXU3BfX0RzY1VjNExTQk9ZMWtmaGV1MkFNSXI4Y0tSOHlEeTNzV216NGlhdUp4aE01TVptNVRtM28zX2tsRkhYdmNkXzZJUkkzMVFKYWpKSmpucmVpMmJFM1dxYTU1d2lOMS1DdUtwbl9PRWMzOU1HaWx6dVFzdUFaRFlackxvUnN0cDBrX3JZbktfNnJaWHA0TXZiRkdmb3V4dkwwQnFuMERaTnFxa0h5VVNTUU53RUZWem1FclNFa0J4UnlPTkFiRk5fNDNpSUZJOXhFR0V0Q0pHc2IxeGFYZHZpZC1UU3lINGFLelZSRExzdzdqWWpJYjF5TXZnaFBGaHRuM1pVZmlKWllmOWE0",
-          "time": "2026-07-17 19:54:52"
-        },
-        {
-          "title": "智倫力挺優質農產，雲林花生最好吃！ 韓國瑜 張麗善 張嘉郡 - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNYndSRHJ0Yl93UTRwdnhjQnVWX1pOVlRocmFRZzZfbUZNaTJDc0UzVS1xRGlDZzQ2MzJvTGh4T0NOUmRUWHAwTkxFNFcxSVRGSlY3WE5jS2JiRXpkS0ZoV1R5N2d6M0V4R2xGSy1lSUtLUVo1cG5iM1BGZVlxZHh6VzQzVmRMZWxJbE5IVlBJbENYQkxNZEpSZnFoY2ZTQjBaSmxTVldTU0tHYk4zak5salFmcE5EY2RHekY0YUo2QzlMZXM1T2ZzMUg1TTBNNl9ObVgtcW5HNHFoZmdyM2lEQWRYbUljc0s1NEhha29OTzl5dzJMM05BeFpaVHJTS0d4QUlFZ2Vya3hYN2Q2c0I2ZmEwWXBNRU5Id2E4aUJ4TG90N2ZGTjhKUUUxNlZsQWViWGxNMW1rV2hYNm41WWpyZi1wWnpVSS1NNFRjS3EtX1FVei16MUhndXFhV2ZmTXlibHg3MXNtZmxMWkRsUWR5cXBBeWhBejlaMzFlRlJSeEZ2QVF1eW9qWE12UkpEWUtnRHc",
-          "time": "2026-07-13 16:00:39"
         }
       ],
       "news": [
+        {
+          "title": "雲林毛小孩數量超8.3萬隻 張嘉郡發表寵物經濟四大藍圖 - TDN台灣生活新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VWUlTN0dtUDdKdEpxSkotSlBlYzAyekUwNjZzOWdwdElxeXRVTTFuYnlXY3VCTjJrM25PTkY0Wi1kNlRVTVpONUJEeEQtWUxG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-13 18:54:37"
+        },
         {
           "title": "張嘉郡推四大寵物經濟政策 打造人寵共融、產業共好新雲林 - 台灣民眾電子報",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wMGtwb2p6YUJyRmtQT2VrWDlJckVYbEQ5Nl96T3owSXFYYmYyNWw0Y3NCd3lSRlJPWmJvVzZuZ1lpbkJtdG42cg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1062,6 +1147,11 @@
           "title": "張嘉郡推寵物經濟政策走向人寵共融與產業發展| 地方 - cna.com.tw",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03XzJTbi1hMllQczZSTlQxdGpqbnpIRFhXY2s0MWg1T3JlV2g2NlZZTXpEaHRvRV92eW9lV185S3Bjc3NCdEhEa2pGVHo5UWJELU90bFoycDRkeFlkRnhr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-13 16:08:00"
+        },
+        {
+          "title": "從動保到產業發展！張嘉郡四大政策盼毛孩成為經濟新動能 - tw.news.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOSG03c3FZS29XSXlyc1JFa2YwRDV3SjlzcnByZXRpWTRzUTFPcHVBY25ySEFJRGh2ckRZQzNVSXFjRXJ4QnlYMHdKWW1aMTlqekVncFJ0bFBwbWp0cXZMZUxnYXNLX3gwWlRkaTNRMGhxUHRQaDY5Zzd1TW1fLUZRalpCdHJaY2lKQjlPNi10UEVLX2Yyay1OZW5pMW1XTFJLMXVHb19yWkRSamFaWEVGXy04b0RsN2JFRmZFTUtIeGM4dEdkV24xLTVkbkJvdXRMUGJaVUZ1TkZXRW03TGV4VlIwUzNDOXFjb1NKQ3JCNHRNVkxRb1NqcWQzeEJQNVhLTWxEUk5pQnFpaHRrZGxKTzI5VlRIaUFOMkFBQjdDbjVYbENEYjczQnJPeXVpQ1FDWDgtTWtuaWo2T0wyRmpYQXY1N3lnMGxmQm55NmpaMXdJRHNUbEN3RWRkNmJjNEplc1Z3OUFJNHc1eWdMU2dNbUs4Ykp4ak1CQUluRzFRY3k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-13 15:38:53"
         },
         {
           "title": "毛小孩商機大！ 張嘉郡4政策搶進寵物產業創造就業機會及地方發展- 雲林縣 - 自由時報",
@@ -1117,16 +1207,6 @@
           "title": "張嘉郡推4大寵物經濟政策 推雲林專屬「代幣」 超吸睛 - 匯流新聞網",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOS2dIWE40eDdZbm9pWDhLNmxjN2p5azRvMWthNGw2NDd1UFJ1NTNuQ295blZEQXVDVlo4NDZSTUs3UXRQX080Uzdn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-13 13:03:02"
-        },
-        {
-          "title": "張嘉郡推四大寵物經濟政策 從動保走向人寵共融與產業發展 - 蕃新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fR2s0OXgteEtpeHBSUXZLcmxqN2JETjhFT3lScTBqaFdpUDByeTNKMUxETjRCczdKeVRTeFA3eDNSdEQtbWRIS1NpSVk4TEsyMUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-13 12:30:00"
-        },
-        {
-          "title": "討論牆 | 矽品斗六擴廠動工 張嘉郡持續爭取科技廠進駐 讓雲林彎道超車 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByV3haYi1nVXFOUkxraThvYlV6Q19TTjRTT0R2OFdRdXg1N3VxNnlVOHh1WF9uT2ZtRS1wMF9iSVRLLXlEMXBiV3dmeHk2N24xY2lHNG01a3hUWHRvaVZlVEt6UG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-11 18:58:20"
         }
       ]
     },
@@ -1340,6 +1420,11 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "雲林毛小孩數量超8.3萬隻 張嘉郡發表寵物經濟四大藍圖 - TDN台灣生活新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VWUlTN0dtUDdKdEpxSkotSlBlYzAyekUwNjZzOWdwdElxeXRVTTFuYnlXY3VCTjJrM25PTkY0Wi1kNlRVTVpONUJEeEQtWUxG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-13 18:54:37"
+      },
+      {
         "title": "張嘉郡推四大寵物經濟政策 打造人寵共融、產業共好新雲林 - 台灣民眾電子報",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wMGtwb2p6YUJyRmtQT2VrWDlJckVYbEQ5Nl96T3owSXFYYmYyNWw0Y3NCd3lSRlJPWmJvVzZuZ1lpbkJtdG42cg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-13 17:12:24"
@@ -1373,6 +1458,11 @@
         "title": "張嘉郡推寵物經濟政策走向人寵共融與產業發展| 地方 - cna.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03XzJTbi1hMllQczZSTlQxdGpqbnpIRFhXY2s0MWg1T3JlV2g2NlZZTXpEaHRvRV92eW9lV185S3Bjc3NCdEhEa2pGVHo5UWJELU90bFoycDRkeFlkRnhr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-13 16:08:00"
+      },
+      {
+        "title": "從動保到產業發展！張嘉郡四大政策盼毛孩成為經濟新動能 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOSG03c3FZS29XSXlyc1JFa2YwRDV3SjlzcnByZXRpWTRzUTFPcHVBY25ySEFJRGh2ckRZQzNVSXFjRXJ4QnlYMHdKWW1aMTlqekVncFJ0bFBwbWp0cXZMZUxnYXNLX3gwWlRkaTNRMGhxUHRQaDY5Zzd1TW1fLUZRalpCdHJaY2lKQjlPNi10UEVLX2Yyay1OZW5pMW1XTFJLMXVHb19yWkRSamFaWEVGXy04b0RsN2JFRmZFTUtIeGM4dEdkV24xLTVkbkJvdXRMUGJaVUZ1TkZXRW03TGV4VlIwUzNDOXFjb1NKQ3JCNHRNVkxRb1NqcWQzeEJQNVhLTWxEUk5pQnFpaHRrZGxKTzI5VlRIaUFOMkFBQjdDbjVYbENEYjczQnJPeXVpQ1FDWDgtTWtuaWo2T0wyRmpYQXY1N3lnMGxmQm55NmpaMXdJRHNUbEN3RWRkNmJjNEplc1Z3OUFJNHc1eWdMU2dNbUs4Ykp4ak1CQUluRzFRY3k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-13 15:38:53"
       },
       {
         "title": "毛小孩商機大！ 張嘉郡4政策搶進寵物產業創造就業機會及地方發展- 雲林縣 - 自由時報",
@@ -1442,6 +1532,21 @@
     ],
     "facebook": [
       {
+        "title": "#幸福雲林寵愛共好❤️ #打造人寵共融新生活🐶🐱 一隻汪星人、一隻喵星人，對許多家庭而言，早已不只是寵物，而是一起生活、一起成長的重要家人。 嘉郡看見，隨著養寵家庭增加，鄉親對毛孩的需求也從基本照顧，延伸到食品、醫療、保健、照護與生活服務等更多面向。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxQcmNpNTJvbDRjMFZLam5xT3hfUWtDODZyOGNmOTJ1cE0wdGx5bFh6eUhIbXc1bzloaEtHbDExclZ6TGRYS1hnMDBYSDVXdE9UOVFmT0oyczZJdlZGUVRJTGRWaWtTRTR2SnA2TTM5QXFGdU0zQnVtX1pxN09UcFFQMlVSWGdINU5pNmJ0LXAzdC1PM2FfRW55VDVSei04ZW1CRVB0QnNMd01DME9HbVRPSUhETnlFVlRvYlBfODhEZ0F3Ujl5SVFYTFNITVBVZUhNR0dRZ1cwOGs5dnRPZkNtZ0J0Q2x2R2h3Ym55X19qYXYwQ21Gai1VTEpFYjdzVGJNRXpBVEQ5SDFwOFZZQXFvLXBiTVNFMFRzVUR5YlBKUG4wN1NJb2xHX1U3NUNHSmJUWnVIR2IwLThDcXBwR1NjSFdYbHpPTjhGUXFyTHhBazR3UnVULVU2WnNlRkNuQU5OSklTWmx1RnRpUG9WUXVpM2wzUlNVckpBWk10RWZIUzBOS01qUTh6ZTNoVFJDLTk1bEZTckVsVDJneXZTbVlYR3RjbnctWEZ6RVFjZEpWOUM5NlN3UHAxbnZPem5VZXF6YmNlc3diT255b21ITGJuREtnQmhPMllSdUVOS3NWbjJpVERhMzlFaF9NQWpMbGJMdzVySXo4WWl2WTQtOXBhRzlzZF8xc05FUGEza0JFSkoyWXJTRTF5Q1hOOE1XQUVLT3JkVFRqQjNaamU0dEhtbTJxWm9hQnVKUDI3cjg3UDFwQkNncnBoZWk2S00zR001WEtTRk1jMDVocURoamdzUHRQUUVsUUlacjZ2Q24zVjRiV05jdFpQQURRbFBkWFVPRk9lbmg3VnN4V0toeUZldXZ4X1M1THVXcFJ2RzFfYm9VVi14dW1WdXB6WnQ5bGRQMFluU0xmVjJfMk5hb0ViejNOZ25LZXBUWTc5cy1ndFVsQ0ZsNWNBRDgtWkh0N3d4RTE1cDR2Q3VoYjVzYW42bHVGRF9mRHQ3cUtnSW1DTTczVzVfa3NmYTByWnhzV0EwYUpBaXVsUjkwdV9MWV90NkZTZ1J0QnZiVGRscDRhc2xjWjM5TlJ4eEhqa1lOZURiR190bUZzcHFVUklqZDZPOVV5dGJiOGhWNjdFQWUtdFpucFNxMndibXdKdElXREp0R2RiZ0FfclkyS21BVV85clI1NkVTbGRjbVVyM2puUi1adl91ZjhJeWNTdm9fSmw5MzBqNEcyOTdkVUlaQVZxYjdDN3NrX096eXFxUWNJWnUxU093N2hWTFl4a1NnNklBMzljZ19KWGktNUdUR0lUMi1uZ0NrTVdoMzVnNG1uRlhTMlRBU0ZsZEFqWVVta3ZQTVJycE5sLWUzelJSeElzZ25wc0VjYkhTMHB0R2JJTnc3WlQzRUNxeEVTRjU1bkE",
+        "time": "2026-08-13 18:23:07"
+      },
+      {
+        "title": "#張嘉郡 推 #寵物 經濟政策 從動保走向人寵共融與產業發展 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPUmJ5d1locGc1VGdSQXVIdDduUGFYeFptb1Z0TlJIdjM4X2J1VWV3UnNrUlczWGFEQWpMWXpYQmVsZzBkamRENGpIVXdVTFFMdEJPeGJuU1EzVWE3ZHJFbmI4a01QVjVNSzZPbFkzX2pGd05qc29FaW51bGlUZDRHUXdIdVdOSk1vbUtiUk1KMVAzQjJmUUJsT0ZSRzNzS1hqNUxNeEtqSE1DZEdBVDJfdWw4cllKd2t1U0VwUnlYSXVYeU13a0lZdjFvU0lsdkx0V3N4ckxsTkJPV2l4Nk5XajdwVXQ3UC1IeFFoNlhxektBQnNWSGlMbzBDZDlsUWFnUEI0RHg1R004Y1pibXNrZ1dDS0w2azJRMWR3WkxrQ0xlTldNY18zUnpNV3U0SXJOcFI0Ni16cFB3Q2Vac0tUek1tYzA3clZ6Mjk5djVkYXdYc0RaUjVycmxZQmpuR1NuaFlLRGh3ZS0zRzN3ZVBEZ2NFNjNSdGZyNmlLRTJ1V3pRZXQ0Q2YwbG91Z0VJbkxEbFVv",
+        "time": "2026-08-13 18:15:04"
+      },
+      {
+        "title": "#張嘉郡 推 #寵物 經濟政策 從動保走向人寵共融與產業發展 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQZ3RIRXh3UzlIbEhUZzRGMTFHdXBHbGlObVEtUkJHcW5CSVZqZ2plVVIzTEwyQ3p4aVp6V05SR0ZKRnpiSEtOQU91NENiOVF4R0dFOTNTZ0FpNzd1WTJma2dWUEh1dVhobmYwWlBLcVV1dkFkMzFQN0l4aGZFdS03NERIdVZpNm5tV0pKek1yNmtEakdWeHh1RVZmbTl0WVdLbmhhRWx4bERYUjA1Slk4TmhfQnpITWk2NW9pSlhrNVVabUVROHBHN2ZJZWhzRjVpQTgtVUhSOHBwekhKUlloTzlVZnVCaUljODNuOUJHVk5xdWNNS3lBU3ZTbVY3VHFaTTAzRlc3TjBJRGtzZ25CN0hxWnBHLUN5SnFmcy1kQzFtSGJUNmhmRFg0Y1hoRGQycHlUVDVxMHBpcnBMMWc2WnE2aHNuZ0NSMTdObVZvN2xiOXU1NjByelBQV2IxaXFCclpoY0pLWHN6U0ZGYklJcFVJUXl2WUdUbjczNUJ5bXZYTTlWeDY1eUlCNnZaejQ4YjZNag",
+        "time": "2026-08-13 18:15:02"
+      },
+      {
         "title": "為雲林子弟的立委劉建國表示，矽品在雲林投資將產生磁吸效應，吸引更多企業進駐，呼籲中央加快產業用地和園區設置的腳步。 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi5wVBVV95cUxObWNVRWxubk5oVm9JVkJUaFBWTUk2LWJGRm9pdlhNSTRtSkNDcEFIbnNwbVY1VTZZSVdnTmp5cmJRSXZ3TVMyMWJsYXdYMXcyOGxpb1lZV2cxQ3VlS0NRekhZN0NWZFRSQXlQLTBUOHhCcFBuRGliQkNieGlmR2IyUnM1M1JTSzNlMTJCaEdZbmp0SC1iUW1zV1k3enhqRXJVMGNqTmpyZ3B6bzJZY1FtTDVDbW14VHUzcl9UMGNqQWl3bkFMTDZDOF9BVXEzNHZnOVdhdUFYcEdSRkJKUkIzZzdFMUlkVTlOWEhLclJ5YXBDUW9GaVJJR0hhVHBUMDY4U0JNT3JLYjc5aUpCTF91R2FIdnVacUxrd0xvYV9BSW5GRFp0VVB0dzBxQ3JfTDNjUEtHZ05VcVRpY0JDQmlvaXVXcGJ6aTBkUTRDaHpuRnNqeUU3QTRkVlRZVmp2Y0dwZzdKWFYwMnlPS2M3LWs4a1g5SFZXZk9pZm9aOFQ3TTh3N1RraklGdTdPb0xmY2xNQURsdDhzYW9mWlVDYzlQR1lERmJXczRCZlRkazE5dXY2d2VxbVFIV2J2RkdhUWpQa2pCREljWVc2d3ZoaE80WHhFLU84NVcwN192b05ONE1mZEotMzRKQk02RHgwOGdEWDhYd25XYUR5S2lhSHdtZlJNc2ViS1F6d05qR1YyUjRvYzNiZVMwWER5N25qZ0M4YmdCT0sxa0NxdnBEQ0ZZZkl5RmF6eHo4dEhyODEwZHk1NWUwdDhPSEFRSTBHSGdUcUViOEtUUFZCMkdCTjhFMk8ya0dvanMtU3RSRWZrdURsaW9TajAzUThlUG40S0owVGZzRjd3T05qOVJDRkNTM0NVS0RNQWtPUEJoTzRhMk9rZmNRU3hxVC1HYTF2c3ZBaTJyNEZLYXFRaWZ5RktkZnhnU1hJS0J2TFQyRDdDRHJNcVR5SERHMmRQenBGSFdtb1dGdUN5Zw",
         "time": "2026-08-13 17:59:04"
@@ -1451,10 +1556,22 @@
         "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxPaGYtcjVPc2tpV09SWS10UTBHNTJueTNDX3ZKcU41elE3ZWs0M1VGZ05ONXlxSHhGN3RsazJ5T0ZuWHhJdjdBeG5Lb2dzUWV2UU43R29faXBhNkxfMTk1QkdKWmpKaGVzcmluUmM0Sm8taERxMGtrUV9pckJfS0UzbFlKTFNNdHBVYk5PV0d3cVQ2dlBIRWp3bld0aEhlTFI4N0xLU3VPUkp3Y2FTYkhPVjV5Y0VMX2Z4SXpvLWx0bExKOGdFNm5qcW1ncHdVLTltdHZ3ckxETDkwS1dQNE9rMGkyVDBoXzVpTnNjV2JySXJramVYN1lXZ3VxUERNUzBqYW1BMmNleVY2MzhEbmcwbXZESzNNMmFvRWdKNTJQRVV3ejlvS29iRmQ4ZHRNM3pRSnB2VnlfM1dKbFRmVDVPNjVGTi1kY21oS2tIdTRVZkVyNTc5c0hucUZQOFVTaHEyUGNfNTYxZmZRV1p4RkVFbFJmUkFPMEwxOWgzbThNTkw4M3hyMlFDU2wxXzFmcU8zYV9BMnQ4M2JvbV84bEl5M1lYRnFsREd4TXN6NTZpcTBabWIxMlpjU0FZYlRDSDlPMEdlWjBXUEtMRTJLMUlEekZIdGdSY003V1hSREd2UmV0SEtoRUtHZzlBTGZRTGJyRTNLaVExc3RlQ1o1UzBlZS1xdHBzTXAwRHdqcjU4QnZUN2cwRGhBU0cxd184OFVRUmkyNFhVM0ktZ3RLb1pFR3BCOUVwdE1OSkpwNGticzZYVE5mUlp3TEhtNFhZNnBUU0J1YXNpR1NxVjJncjl1WS1aVnFFTkVGdmRJZm82aTVHYWZKWTRLVHI3SFZmZFNWMklrSmpiTjNwQTRmWmdwek1lbGFkWFpURHRkMlJVNFlpM0p6d3hzSWVuT0p4NnNrY3VBb3ZvZldjNDNnRnBKTWRKdlltU3pJNURFUGpfU2RwbVRWcnAxWnpTTTNfVEpfRnZuYmtkRDIzTkhCbmxsc09nT3pEdWg4VkwzR1ZYMUtRMWdIZjhCXzYtbkdYcEpUd29LdFZDXzVxeVU4dTJ2TlFKNENZa1czUFJKT1RiMUI4RzFjeDQxcnhFdTBPQ0xzN25xS3V2dlZQbnVKWmtMXzNRYnlhWWtIM2ZPVTlFdVoycWVFd1JGSnVqMC1ZaWZVMUtyUW5pTUo2cE5OUlR6cFE2OHFlWndqYW9wSVkzNlRFaEJYMU5LVlMxenZiU2FrVDhuWG9IX1dKVU81RU1uYy1JYzVKR3JaNzlXSjZwQnBjTE1GQnhXdmMxLWdoWEFlbmYxQkJ6WmdVQQ",
         "time": "2026-08-13 14:46:45"
       }
+    ],
+    "youtube": [
+      {
+        "title": "雲林毛小孩數量超8.3萬隻 張嘉郡發表寵物經濟四大藍圖-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=MX6-Bu-t76U",
+        "time": "2026-08-13 18:45:07"
+      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "雲林毛小孩數量超8.3萬隻 張嘉郡發表寵物經濟四大藍圖 - TDN台灣生活新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VWUlTN0dtUDdKdEpxSkotSlBlYzAyekUwNjZzOWdwdElxeXRVTTFuYnlXY3VCTjJrM25PTkY0Wi1kNlRVTVpONUJEeEQtWUxG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-13 18:54:37"
+      },
       {
         "title": "張嘉郡推四大寵物經濟政策 打造人寵共融、產業共好新雲林 - 台灣民眾電子報",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wMGtwb2p6YUJyRmtQT2VrWDlJckVYbEQ5Nl96T3owSXFYYmYyNWw0Y3NCd3lSRlJPWmJvVzZuZ1lpbkJtdG42cg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1489,6 +1606,11 @@
         "title": "張嘉郡推寵物經濟政策走向人寵共融與產業發展| 地方 - cna.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03XzJTbi1hMllQczZSTlQxdGpqbnpIRFhXY2s0MWg1T3JlV2g2NlZZTXpEaHRvRV92eW9lV185S3Bjc3NCdEhEa2pGVHo5UWJELU90bFoycDRkeFlkRnhr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-13 16:08:00"
+      },
+      {
+        "title": "從動保到產業發展！張嘉郡四大政策盼毛孩成為經濟新動能 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOSG03c3FZS29XSXlyc1JFa2YwRDV3SjlzcnByZXRpWTRzUTFPcHVBY25ySEFJRGh2ckRZQzNVSXFjRXJ4QnlYMHdKWW1aMTlqekVncFJ0bFBwbWp0cXZMZUxnYXNLX3gwWlRkaTNRMGhxUHRQaDY5Zzd1TW1fLUZRalpCdHJaY2lKQjlPNi10UEVLX2Yyay1OZW5pMW1XTFJLMXVHb19yWkRSamFaWEVGXy04b0RsN2JFRmZFTUtIeGM4dEdkV24xLTVkbkJvdXRMUGJaVUZ1TkZXRW03TGV4VlIwUzNDOXFjb1NKQ3JCNHRNVkxRb1NqcWQzeEJQNVhLTWxEUk5pQnFpaHRrZGxKTzI5VlRIaUFOMkFBQjdDbjVYbENEYjczQnJPeXVpQ1FDWDgtTWtuaWo2T0wyRmpYQXY1N3lnMGxmQm55NmpaMXdJRHNUbEN3RWRkNmJjNEplc1Z3OUFJNHc1eWdMU2dNbUs4Ykp4ak1CQUluRzFRY3k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-13 15:38:53"
       },
       {
         "title": "毛小孩商機大！ 張嘉郡4政策搶進寵物產業創造就業機會及地方發展- 雲林縣 - 自由時報",
@@ -1644,19 +1766,24 @@
         "title": "矽品斗六廠投資千億動土 劉建國：勇敢轉型前進科技新雲林 - 台灣民眾電子報",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xeDZNbW1pcnJqOXF4SFJlam9kSjVXSTZnczM2YWthSHVfZmdzYVJvZWNBMUd6VVBCTFdxdjh0Vi1wQ0hyS0Myag?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-11 16:31:12"
-      },
-      {
-        "title": "矽品斗六擴廠投資千億 張嘉郡領軍、助雲林成為「農工商科技大城」 - tw.news.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOZm1kS2RjbGU4VmlKNzRMNk9Vbmt5ZmxIaFd0Qjk2M0hCYnJ1Z25qR2Y2VjBqN2k1Yl9oRzBWSzNRUFlXVXFyT0pnS1FlWTVQYTByUFNDZmVpQXk3cVM2d09TVHl3Q2MxVWNzVFdFTTNoTDhOUTdJMWxvVWdHV2QxcU5fekVISU95b0FlME8ybW9CeFhrVmZST1FiLTdpVHF4VWFCc1NMVFVOc0c0cTJHc21FZ3JGUC1WUXN4WmRRTmFyS2F1ZzVnTWV6cGNnS19ZR21FcTRyeGVmbldMN1NIdWMyZ0NabklVQUxMWkhsU2RXUUpsSkk0dk1WNWVYUEJUeGFHSF9CdXRWS0ZKT0tiUFVvYm1lSV9Ga3VnSVFTZzRiQlhkWWg2QXE5UUZGRHhBMnFJUWlzUjVVcGtfQjlHSXZDelljcDhsUGxERzNkTnNQd2dBVHQyMEhBUHdBeHZOU0tvYllYWXZ0TTlXT0lRdl9sRGFXR3VteTBWS2lScG5rZlFqcVJYTnBER2d4a3pxcnhRdFNZcl8tRmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-11 16:30:00"
-      },
-      {
-        "title": "矽品斗六擴廠投資千億 張嘉郡領軍、助雲林成為「農工商科技大城」 - upmedia.mg",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13YnZNZUVnNm0yU3dSYV9lMTUyRGliaXgwYlExU09sVGNnRHRzb2ptZjhjQ0R1RzVlNlpRc0plY2NrZDZ4b200SXZfbmkwWkR5QWtndWhLZS0xclNSR0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-11 16:30:00"
       }
     ],
     "facebook": [
+      {
+        "title": "#幸福雲林寵愛共好❤️ #打造人寵共融新生活🐶🐱 一隻汪星人、一隻喵星人，對許多家庭而言，早已不只是寵物，而是一起生活、一起成長的重要家人。 嘉郡看見，隨著養寵家庭增加，鄉親對毛孩的需求也從基本照顧，延伸到食品、醫療、保健、照護與生活服務等更多面向。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxQcmNpNTJvbDRjMFZLam5xT3hfUWtDODZyOGNmOTJ1cE0wdGx5bFh6eUhIbXc1bzloaEtHbDExclZ6TGRYS1hnMDBYSDVXdE9UOVFmT0oyczZJdlZGUVRJTGRWaWtTRTR2SnA2TTM5QXFGdU0zQnVtX1pxN09UcFFQMlVSWGdINU5pNmJ0LXAzdC1PM2FfRW55VDVSei04ZW1CRVB0QnNMd01DME9HbVRPSUhETnlFVlRvYlBfODhEZ0F3Ujl5SVFYTFNITVBVZUhNR0dRZ1cwOGs5dnRPZkNtZ0J0Q2x2R2h3Ym55X19qYXYwQ21Gai1VTEpFYjdzVGJNRXpBVEQ5SDFwOFZZQXFvLXBiTVNFMFRzVUR5YlBKUG4wN1NJb2xHX1U3NUNHSmJUWnVIR2IwLThDcXBwR1NjSFdYbHpPTjhGUXFyTHhBazR3UnVULVU2WnNlRkNuQU5OSklTWmx1RnRpUG9WUXVpM2wzUlNVckpBWk10RWZIUzBOS01qUTh6ZTNoVFJDLTk1bEZTckVsVDJneXZTbVlYR3RjbnctWEZ6RVFjZEpWOUM5NlN3UHAxbnZPem5VZXF6YmNlc3diT255b21ITGJuREtnQmhPMllSdUVOS3NWbjJpVERhMzlFaF9NQWpMbGJMdzVySXo4WWl2WTQtOXBhRzlzZF8xc05FUGEza0JFSkoyWXJTRTF5Q1hOOE1XQUVLT3JkVFRqQjNaamU0dEhtbTJxWm9hQnVKUDI3cjg3UDFwQkNncnBoZWk2S00zR001WEtTRk1jMDVocURoamdzUHRQUUVsUUlacjZ2Q24zVjRiV05jdFpQQURRbFBkWFVPRk9lbmg3VnN4V0toeUZldXZ4X1M1THVXcFJ2RzFfYm9VVi14dW1WdXB6WnQ5bGRQMFluU0xmVjJfMk5hb0ViejNOZ25LZXBUWTc5cy1ndFVsQ0ZsNWNBRDgtWkh0N3d4RTE1cDR2Q3VoYjVzYW42bHVGRF9mRHQ3cUtnSW1DTTczVzVfa3NmYTByWnhzV0EwYUpBaXVsUjkwdV9MWV90NkZTZ1J0QnZiVGRscDRhc2xjWjM5TlJ4eEhqa1lOZURiR190bUZzcHFVUklqZDZPOVV5dGJiOGhWNjdFQWUtdFpucFNxMndibXdKdElXREp0R2RiZ0FfclkyS21BVV85clI1NkVTbGRjbVVyM2puUi1adl91ZjhJeWNTdm9fSmw5MzBqNEcyOTdkVUlaQVZxYjdDN3NrX096eXFxUWNJWnUxU093N2hWTFl4a1NnNklBMzljZ19KWGktNUdUR0lUMi1uZ0NrTVdoMzVnNG1uRlhTMlRBU0ZsZEFqWVVta3ZQTVJycE5sLWUzelJSeElzZ25wc0VjYkhTMHB0R2JJTnc3WlQzRUNxeEVTRjU1bkE",
+        "time": "2026-08-13 18:23:07"
+      },
+      {
+        "title": "#張嘉郡 推 #寵物 經濟政策 從動保走向人寵共融與產業發展 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPUmJ5d1locGc1VGdSQXVIdDduUGFYeFptb1Z0TlJIdjM4X2J1VWV3UnNrUlczWGFEQWpMWXpYQmVsZzBkamRENGpIVXdVTFFMdEJPeGJuU1EzVWE3ZHJFbmI4a01QVjVNSzZPbFkzX2pGd05qc29FaW51bGlUZDRHUXdIdVdOSk1vbUtiUk1KMVAzQjJmUUJsT0ZSRzNzS1hqNUxNeEtqSE1DZEdBVDJfdWw4cllKd2t1U0VwUnlYSXVYeU13a0lZdjFvU0lsdkx0V3N4ckxsTkJPV2l4Nk5XajdwVXQ3UC1IeFFoNlhxektBQnNWSGlMbzBDZDlsUWFnUEI0RHg1R004Y1pibXNrZ1dDS0w2azJRMWR3WkxrQ0xlTldNY18zUnpNV3U0SXJOcFI0Ni16cFB3Q2Vac0tUek1tYzA3clZ6Mjk5djVkYXdYc0RaUjVycmxZQmpuR1NuaFlLRGh3ZS0zRzN3ZVBEZ2NFNjNSdGZyNmlLRTJ1V3pRZXQ0Q2YwbG91Z0VJbkxEbFVv",
+        "time": "2026-08-13 18:15:04"
+      },
+      {
+        "title": "#張嘉郡 推 #寵物 經濟政策 從動保走向人寵共融與產業發展 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQZ3RIRXh3UzlIbEhUZzRGMTFHdXBHbGlObVEtUkJHcW5CSVZqZ2plVVIzTEwyQ3p4aVp6V05SR0ZKRnpiSEtOQU91NENiOVF4R0dFOTNTZ0FpNzd1WTJma2dWUEh1dVhobmYwWlBLcVV1dkFkMzFQN0l4aGZFdS03NERIdVZpNm5tV0pKek1yNmtEakdWeHh1RVZmbTl0WVdLbmhhRWx4bERYUjA1Slk4TmhfQnpITWk2NW9pSlhrNVVabUVROHBHN2ZJZWhzRjVpQTgtVUhSOHBwekhKUlloTzlVZnVCaUljODNuOUJHVk5xdWNNS3lBU3ZTbVY3VHFaTTAzRlc3TjBJRGtzZ25CN0hxWnBHLUN5SnFmcy1kQzFtSGJUNmhmRFg0Y1hoRGQycHlUVDVxMHBpcnBMMWc2WnE2aHNuZ0NSMTdObVZvN2xiOXU1NjByelBQV2IxaXFCclpoY0pLWHN6U0ZGYklJcFVJUXl2WUdUbjczNUJ5bXZYTTlWeDY1eUlCNnZaejQ4YjZNag",
+        "time": "2026-08-13 18:15:02"
+      },
       {
         "title": "為雲林子弟的立委劉建國表示，矽品在雲林投資將產生磁吸效應，吸引更多企業進駐，呼籲中央加快產業用地和園區設置的腳步。 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi5wVBVV95cUxObWNVRWxubk5oVm9JVkJUaFBWTUk2LWJGRm9pdlhNSTRtSkNDcEFIbnNwbVY1VTZZSVdnTmp5cmJRSXZ3TVMyMWJsYXdYMXcyOGxpb1lZV2cxQ3VlS0NRekhZN0NWZFRSQXlQLTBUOHhCcFBuRGliQkNieGlmR2IyUnM1M1JTSzNlMTJCaEdZbmp0SC1iUW1zV1k3enhqRXJVMGNqTmpyZ3B6bzJZY1FtTDVDbW14VHUzcl9UMGNqQWl3bkFMTDZDOF9BVXEzNHZnOVdhdUFYcEdSRkJKUkIzZzdFMUlkVTlOWEhLclJ5YXBDUW9GaVJJR0hhVHBUMDY4U0JNT3JLYjc5aUpCTF91R2FIdnVacUxrd0xvYV9BSW5GRFp0VVB0dzBxQ3JfTDNjUEtHZ05VcVRpY0JDQmlvaXVXcGJ6aTBkUTRDaHpuRnNqeUU3QTRkVlRZVmp2Y0dwZzdKWFYwMnlPS2M3LWs4a1g5SFZXZk9pZm9aOFQ3TTh3N1RraklGdTdPb0xmY2xNQURsdDhzYW9mWlVDYzlQR1lERmJXczRCZlRkazE5dXY2d2VxbVFIV2J2RkdhUWpQa2pCREljWVc2d3ZoaE80WHhFLU84NVcwN192b05ONE1mZEotMzRKQk02RHgwOGdEWDhYd25XYUR5S2lhSHdtZlJNc2ViS1F6d05qR1YyUjRvYzNiZVMwWER5N25qZ0M4YmdCT0sxa0NxdnBEQ0ZZZkl5RmF6eHo4dEhyODEwZHk1NWUwdDhPSEFRSTBHSGdUcUViOEtUUFZCMkdCTjhFMk8ya0dvanMtU3RSRWZrdURsaW9TajAzUThlUG40S0owVGZzRjd3T05qOVJDRkNTM0NVS0RNQWtPUEJoTzRhMk9rZmNRU3hxVC1HYTF2c3ZBaTJyNEZLYXFRaWZ5RktkZnhnU1hJS0J2TFQyRDdDRHJNcVR5SERHMmRQenBGSFdtb1dGdUN5Zw",
@@ -1765,6 +1892,11 @@
     ],
     "youtube": [
       {
+        "title": "雲林毛小孩數量超8.3萬隻 張嘉郡發表寵物經濟四大藍圖-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=MX6-Bu-t76U",
+        "time": "2026-08-13 18:45:07"
+      },
+      {
         "title": "虎尾建國眷村工作假期 親手修繕留下青春作品 雲林新聞網",
         "url": "https://www.youtube.com/watch?v=HyFTWnsMoEE",
         "time": "2026-08-11 18:10:27"
@@ -1787,6 +1919,41 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "雲林毛小孩數量超8.3萬隻 張嘉郡發表寵物經濟四大藍圖 - TDN台灣生活新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VWUlTN0dtUDdKdEpxSkotSlBlYzAyekUwNjZzOWdwdElxeXRVTTFuYnlXY3VCTjJrM25PTkY0Wi1kNlRVTVpONUJEeEQtWUxG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-13 18:54:37",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "雲林毛小孩數量超8.3萬隻 張嘉郡發表寵物經濟四大藍圖-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=MX6-Bu-t76U",
+        "time": "2026-08-13 18:45:07",
+        "platform": "youtube",
+        "risk": "綠"
+      },
+      {
+        "title": "#幸福雲林寵愛共好❤️ #打造人寵共融新生活🐶🐱 一隻汪星人、一隻喵星人，對許多家庭而言，早已不只是寵物，而是一起生活、一起成長的重要家人。 嘉郡看見，隨著養寵家庭增加，鄉親對毛孩的需求也從基本照顧，延伸到食品、醫療、保健、照護與生活服務等更多面向。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxQcmNpNTJvbDRjMFZLam5xT3hfUWtDODZyOGNmOTJ1cE0wdGx5bFh6eUhIbXc1bzloaEtHbDExclZ6TGRYS1hnMDBYSDVXdE9UOVFmT0oyczZJdlZGUVRJTGRWaWtTRTR2SnA2TTM5QXFGdU0zQnVtX1pxN09UcFFQMlVSWGdINU5pNmJ0LXAzdC1PM2FfRW55VDVSei04ZW1CRVB0QnNMd01DME9HbVRPSUhETnlFVlRvYlBfODhEZ0F3Ujl5SVFYTFNITVBVZUhNR0dRZ1cwOGs5dnRPZkNtZ0J0Q2x2R2h3Ym55X19qYXYwQ21Gai1VTEpFYjdzVGJNRXpBVEQ5SDFwOFZZQXFvLXBiTVNFMFRzVUR5YlBKUG4wN1NJb2xHX1U3NUNHSmJUWnVIR2IwLThDcXBwR1NjSFdYbHpPTjhGUXFyTHhBazR3UnVULVU2WnNlRkNuQU5OSklTWmx1RnRpUG9WUXVpM2wzUlNVckpBWk10RWZIUzBOS01qUTh6ZTNoVFJDLTk1bEZTckVsVDJneXZTbVlYR3RjbnctWEZ6RVFjZEpWOUM5NlN3UHAxbnZPem5VZXF6YmNlc3diT255b21ITGJuREtnQmhPMllSdUVOS3NWbjJpVERhMzlFaF9NQWpMbGJMdzVySXo4WWl2WTQtOXBhRzlzZF8xc05FUGEza0JFSkoyWXJTRTF5Q1hOOE1XQUVLT3JkVFRqQjNaamU0dEhtbTJxWm9hQnVKUDI3cjg3UDFwQkNncnBoZWk2S00zR001WEtTRk1jMDVocURoamdzUHRQUUVsUUlacjZ2Q24zVjRiV05jdFpQQURRbFBkWFVPRk9lbmg3VnN4V0toeUZldXZ4X1M1THVXcFJ2RzFfYm9VVi14dW1WdXB6WnQ5bGRQMFluU0xmVjJfMk5hb0ViejNOZ25LZXBUWTc5cy1ndFVsQ0ZsNWNBRDgtWkh0N3d4RTE1cDR2Q3VoYjVzYW42bHVGRF9mRHQ3cUtnSW1DTTczVzVfa3NmYTByWnhzV0EwYUpBaXVsUjkwdV9MWV90NkZTZ1J0QnZiVGRscDRhc2xjWjM5TlJ4eEhqa1lOZURiR190bUZzcHFVUklqZDZPOVV5dGJiOGhWNjdFQWUtdFpucFNxMndibXdKdElXREp0R2RiZ0FfclkyS21BVV85clI1NkVTbGRjbVVyM2puUi1adl91ZjhJeWNTdm9fSmw5MzBqNEcyOTdkVUlaQVZxYjdDN3NrX096eXFxUWNJWnUxU093N2hWTFl4a1NnNklBMzljZ19KWGktNUdUR0lUMi1uZ0NrTVdoMzVnNG1uRlhTMlRBU0ZsZEFqWVVta3ZQTVJycE5sLWUzelJSeElzZ25wc0VjYkhTMHB0R2JJTnc3WlQzRUNxeEVTRjU1bkE",
+        "time": "2026-08-13 18:23:07",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
+        "title": "#張嘉郡 推 #寵物 經濟政策 從動保走向人寵共融與產業發展 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPUmJ5d1locGc1VGdSQXVIdDduUGFYeFptb1Z0TlJIdjM4X2J1VWV3UnNrUlczWGFEQWpMWXpYQmVsZzBkamRENGpIVXdVTFFMdEJPeGJuU1EzVWE3ZHJFbmI4a01QVjVNSzZPbFkzX2pGd05qc29FaW51bGlUZDRHUXdIdVdOSk1vbUtiUk1KMVAzQjJmUUJsT0ZSRzNzS1hqNUxNeEtqSE1DZEdBVDJfdWw4cllKd2t1U0VwUnlYSXVYeU13a0lZdjFvU0lsdkx0V3N4ckxsTkJPV2l4Nk5XajdwVXQ3UC1IeFFoNlhxektBQnNWSGlMbzBDZDlsUWFnUEI0RHg1R004Y1pibXNrZ1dDS0w2azJRMWR3WkxrQ0xlTldNY18zUnpNV3U0SXJOcFI0Ni16cFB3Q2Vac0tUek1tYzA3clZ6Mjk5djVkYXdYc0RaUjVycmxZQmpuR1NuaFlLRGh3ZS0zRzN3ZVBEZ2NFNjNSdGZyNmlLRTJ1V3pRZXQ0Q2YwbG91Z0VJbkxEbFVv",
+        "time": "2026-08-13 18:15:04",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
+        "title": "#張嘉郡 推 #寵物 經濟政策 從動保走向人寵共融與產業發展 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQZ3RIRXh3UzlIbEhUZzRGMTFHdXBHbGlObVEtUkJHcW5CSVZqZ2plVVIzTEwyQ3p4aVp6V05SR0ZKRnpiSEtOQU91NENiOVF4R0dFOTNTZ0FpNzd1WTJma2dWUEh1dVhobmYwWlBLcVV1dkFkMzFQN0l4aGZFdS03NERIdVZpNm5tV0pKek1yNmtEakdWeHh1RVZmbTl0WVdLbmhhRWx4bERYUjA1Slk4TmhfQnpITWk2NW9pSlhrNVVabUVROHBHN2ZJZWhzRjVpQTgtVUhSOHBwekhKUlloTzlVZnVCaUljODNuOUJHVk5xdWNNS3lBU3ZTbVY3VHFaTTAzRlc3TjBJRGtzZ25CN0hxWnBHLUN5SnFmcy1kQzFtSGJUNmhmRFg0Y1hoRGQycHlUVDVxMHBpcnBMMWc2WnE2aHNuZ0NSMTdObVZvN2xiOXU1NjByelBQV2IxaXFCclpoY0pLWHN6U0ZGYklJcFVJUXl2WUdUbjczNUJ5bXZYTTlWeDY1eUlCNnZaejQ4YjZNag",
+        "time": "2026-08-13 18:15:02",
+        "platform": "facebook",
+        "risk": "綠"
+      },
       {
         "title": "為雲林子弟的立委劉建國表示，矽品在雲林投資將產生磁吸效應，吸引更多企業進駐，呼籲中央加快產業用地和園區設置的腳步。 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi5wVBVV95cUxObWNVRWxubk5oVm9JVkJUaFBWTUk2LWJGRm9pdlhNSTRtSkNDcEFIbnNwbVY1VTZZSVdnTmp5cmJRSXZ3TVMyMWJsYXdYMXcyOGxpb1lZV2cxQ3VlS0NRekhZN0NWZFRSQXlQLTBUOHhCcFBuRGliQkNieGlmR2IyUnM1M1JTSzNlMTJCaEdZbmp0SC1iUW1zV1k3enhqRXJVMGNqTmpyZ3B6bzJZY1FtTDVDbW14VHUzcl9UMGNqQWl3bkFMTDZDOF9BVXEzNHZnOVdhdUFYcEdSRkJKUkIzZzdFMUlkVTlOWEhLclJ5YXBDUW9GaVJJR0hhVHBUMDY4U0JNT3JLYjc5aUpCTF91R2FIdnVacUxrd0xvYV9BSW5GRFp0VVB0dzBxQ3JfTDNjUEtHZ05VcVRpY0JDQmlvaXVXcGJ6aTBkUTRDaHpuRnNqeUU3QTRkVlRZVmp2Y0dwZzdKWFYwMnlPS2M3LWs4a1g5SFZXZk9pZm9aOFQ3TTh3N1RraklGdTdPb0xmY2xNQURsdDhzYW9mWlVDYzlQR1lERmJXczRCZlRkazE5dXY2d2VxbVFIV2J2RkdhUWpQa2pCREljWVc2d3ZoaE80WHhFLU84NVcwN192b05ONE1mZEotMzRKQk02RHgwOGdEWDhYd25XYUR5S2lhSHdtZlJNc2ViS1F6d05qR1YyUjRvYzNiZVMwWER5N25qZ0M4YmdCT0sxa0NxdnBEQ0ZZZkl5RmF6eHo4dEhyODEwZHk1NWUwdDhPSEFRSTBHSGdUcUViOEtUUFZCMkdCTjhFMk8ya0dvanMtU3RSRWZrdURsaW9TajAzUThlUG40S0owVGZzRjd3T05qOVJDRkNTM0NVS0RNQWtPUEJoTzRhMk9rZmNRU3hxVC1HYTF2c3ZBaTJyNEZLYXFRaWZ5RktkZnhnU1hJS0J2TFQyRDdDRHJNcVR5SERHMmRQenBGSFdtb1dGdUN5Zw",
@@ -1844,6 +2011,13 @@
         "risk": "綠"
       },
       {
+        "title": "從動保到產業發展！張嘉郡四大政策盼毛孩成為經濟新動能 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOSG03c3FZS29XSXlyc1JFa2YwRDV3SjlzcnByZXRpWTRzUTFPcHVBY25ySEFJRGh2ckRZQzNVSXFjRXJ4QnlYMHdKWW1aMTlqekVncFJ0bFBwbWp0cXZMZUxnYXNLX3gwWlRkaTNRMGhxUHRQaDY5Zzd1TW1fLUZRalpCdHJaY2lKQjlPNi10UEVLX2Yyay1OZW5pMW1XTFJLMXVHb19yWkRSamFaWEVGXy04b0RsN2JFRmZFTUtIeGM4dEdkV24xLTVkbkJvdXRMUGJaVUZ1TkZXRW03TGV4VlIwUzNDOXFjb1NKQ3JCNHRNVkxRb1NqcWQzeEJQNVhLTWxEUk5pQnFpaHRrZGxKTzI5VlRIaUFOMkFBQjdDbjVYbENEYjczQnJPeXVpQ1FDWDgtTWtuaWo2T0wyRmpYQXY1N3lnMGxmQm55NmpaMXdJRHNUbEN3RWRkNmJjNEplc1Z3OUFJNHc1eWdMU2dNbUs4Ykp4ak1CQUluRzFRY3k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-13 15:38:53",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "毛小孩商機大！ 張嘉郡4政策搶進寵物產業創造就業機會及地方發展- 雲林縣 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BaFQtc2hCUzlZS1FfUXN3a0JPZlhueW5YbXRUVy1pS1E0eTRkOEh4ZG9EWnBhMldoVC1lVlZHSFNJZ2xxaTFmeTYzYnIyUGgzOUhOUGFsVDIzd2ZGSDRtTVJLbWs0a19HUENuOQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-13 15:35:52",
@@ -1884,48 +2058,6 @@
         "time": "2026-08-13 14:02:03",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "張嘉郡推四大寵物經濟政策 打造「雲林寵物良品」搶攻800億市場 - 上報Up Media",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LX0R3TDYwVEtvaWd4elZrTG83VmxOS0E3UkZQbDdadnNvaWtfLUVHc2FVQk5tSjVuYzZ4Tk16Q3RSanRHc2dGbzRYbWxMek5zd2FZRmVUeHlzSDluZ1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-13 14:00:00",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "拋寵物經濟政見 張嘉郡：打造人寵共融、「雲林寵物良品」特色供應鏈| 縣市長選舉 - 太報 TaiSounds",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CNmJocmRMdDNVSUFWTS1mLU14U0VESlA3UDk0TktmLWwxSUpua0t5cEExOFVzZmZCZUdDRjJTUGRaeHFvdTM5WXViVHNFU0s0N1lOd0NnR1Vyb0I0MEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-13 13:45:19",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "張嘉郡推四大寵物經濟政策 從動保走向人寵共融與產業發展 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNMnRPX1o1MFVGWlF0bHNMOVJFWXFPR1dJY1F6NmhJYlczTEJaMkZ0ZUdydldqTnNuSTBXeml0NHdCbnR4cTJvbEVVM3FrNm1jcHhETDFVdGE1X0pZa2ZtTktsemNoZndYV3dmd1Z0M3lIMm5JSjBfZnNjRGI1UVpiem1ja0M4VnF5eU14di1oc3U0ZFlOY1ZUY3BEeXRIT3FMTURGazM0N3RmaFlWdWtWS0pVVjdnVjRHSTR5Mjd4eWdaaWxsQnBnczhvOHh0VkRSQlBsQ1pwamo5V0JBaUhnMll2d0puRkV4aEdLeUw0bzlkVUE2WHVPSXJlUDdxc0dKOXlqeFEycmNEZ0VzVXVyV1ppb2g2WGZLNVNwQ19OSHZEell2UE1tNnY2Z2RKVERwN1dodmVwZWtzNTh1VWxwZ29HRnMwSHYxX2ZoLWNLWnJUM2JfVVZpcjNBZmJqRmFldzBIb3VSSDJlaVlCTkZBTDlyYVQ2eU1NZlBGYms3UTF2RF9kYnZ2ZFV0R2s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-13 13:39:38",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "張嘉郡推四大寵物經濟政策 打造人寵共融友善雲林 - tristarnews.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNLTdMbFZtSGY3dnl4TGZTU0NiNzJYNDdsRHR0Z3R6cHdhOUZWQlJySWNnek16ZVBqYnM0ZVExQXM2dmx6ZEE0bENDcWtwZDVpXzNqSTh2U19MbGMzT25wNEsyVEdURExocXpNdVZyVEhBZ3RyM1JYNVJGa1VKMTUydEdjREdITGtJNHVjUXBKSVVROFdvOGlqbDkyNnI3NmJ5REdLVEQyVFZ4RF9wZWVCUnA3dV9FSGh0NXpWZ09qRDBMeV9oMERmNm1abEEwMXRWWEtVSWJfbl8yLWdvM1hyT0hFRTJaWVpFQlp4bVR2amFUWG9QN2xLaFZjUmtnSVloYVRZMFZYUG5NbDRURW95aXM3Nm1VVEwxbkk1LTU0X0U1R0pJYnFqS2l1OEZTUXRaSVU3QnVvN3N1LXM5TGJvc0VJdXZDNFI5LVZOQmFKc2tmLWNLLW9RQ1kza2ZYQ0FpdXJMM2hEVUs4cG5iSnFjMHZXUkhSOTA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-13 13:21:11",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "張嘉郡推四大寵物經濟政策 打造人寵共融友善雲林 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95a2R4MFplNEFrSlp0LXBpMGZ6djlja24tZHpyWDBMY2FmaTVIRmFZdzBucVJQWGhlMkxJMUVGNXdqc29Pa0l0YWpuTkFOMHpZWmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-13 13:20:00",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "張嘉郡推4大寵物經濟政策 推雲林專屬「代幣」 超吸睛 - 匯流新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOS2dIWE40eDdZbm9pWDhLNmxjN2p5azRvMWthNGw2NDd1UFJ1NTNuQ295blZEQXVDVlo4NDZSTUs3UXRQX080Uzdn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-13 13:03:02",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -1933,7 +2065,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 17
+        "count": 20
       },
       {
         "name": "斗六",
