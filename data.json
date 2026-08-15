@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-08-15T02:28:57.171795+00:00",
+  "generated_at": "2026-08-15T02:44:39.013402+00:00",
   "metrics": {
-    "total_24h": 7,
+    "total_24h": 9,
     "prev_24h": 52,
-    "growth_pct": -86.54,
-    "news_24h": 6,
+    "growth_pct": -82.69,
+    "news_24h": 7,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 127,
+    "total": 129,
     "prev": 107,
-    "growth_pct": 18.69,
-    "news": 94,
+    "growth_pct": 20.56,
+    "news": 95,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,17 +28,21 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 6
+      "count": 7
     },
     {
       "platform": "facebook",
+      "count": 1
+    },
+    {
+      "platform": "youtube",
       "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 94
+      "count": 95
     },
     {
       "platform": "facebook",
@@ -46,7 +50,7 @@
     },
     {
       "platform": "youtube",
-      "count": 2
+      "count": 3
     },
     {
       "platform": "mobile01",
@@ -73,6 +77,10 @@
     {
       "hour": "2026-08-14 23:00",
       "count": 1
+    },
+    {
+      "hour": "2026-08-15 10:00",
+      "count": 2
     }
   ],
   "by_hour_7d": [
@@ -279,12 +287,20 @@
     {
       "hour": "2026-08-14 23:00",
       "count": 1
+    },
+    {
+      "hour": "2026-08-15 10:00",
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 6
+      "count": 7
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     },
     {
       "platform": "facebook",
@@ -292,7 +308,19 @@
     }
   ],
   "mention_latest_by_platform_24h": {
+    "youtube": [
+      {
+        "title": "【直播完整版】0815 新雲林新幸福！ 賴清德合體劉建國靈台山建德寺地母廟參香祈福｜民視快新聞｜",
+        "url": "https://www.youtube.com/watch?v=OPMxXzoM1rs",
+        "time": "2026-08-15 10:16:43"
+      }
+    ],
     "news": [
+      {
+        "title": "守住雲林，也打開雲林的未來 劉建國從農業、醫療一路布局AI產業新願景 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12UUJTVTZvNm9KSnRaQW9FdkQ1Zk1hSlBDUXlCMVkxN1Y2QjVMS2dvOFo4QklqM3pSU0dzN0pLY3RFQUh6SjRpS0FGbEV0TFZLbkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 10:07:00"
+      },
       {
         "title": "從活動中心到農水路 劉建國把中央資源帶回雲林，更把建設做到鄉親需要的地方 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zWWJONHh1bFBRSk5tYTJlU2hpcHZFT2dKWkZPWjZjVi1yMExYOXVJLXczcTNSd0RzUlVyVjQtd1gwV3lNYkFhZHYyR1dXMDVuMVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -335,7 +363,11 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 6
+      "count": 7
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     },
     {
       "platform": "facebook",
@@ -343,7 +375,19 @@
     }
   ],
   "alias_latest_by_platform_24h": {
+    "youtube": [
+      {
+        "title": "【直播完整版】0815 新雲林新幸福！ 賴清德合體劉建國靈台山建德寺地母廟參香祈福｜民視快新聞｜",
+        "url": "https://www.youtube.com/watch?v=OPMxXzoM1rs",
+        "time": "2026-08-15 10:16:43"
+      }
+    ],
     "news": [
+      {
+        "title": "守住雲林，也打開雲林的未來 劉建國從農業、醫療一路布局AI產業新願景 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12UUJTVTZvNm9KSnRaQW9FdkQ1Zk1hSlBDUXlCMVkxN1Y2QjVMS2dvOFo4QklqM3pSU0dzN0pLY3RFQUh6SjRpS0FGbEV0TFZLbkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 10:07:00"
+      },
       {
         "title": "從活動中心到農水路 劉建國把中央資源帶回雲林，更把建設做到鄉親需要的地方 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zWWJONHh1bFBRSk5tYTJlU2hpcHZFT2dKWkZPWjZjVi1yMExYOXVJLXczcTNSd0RzUlVyVjQtd1gwV3lNYkFhZHYyR1dXMDVuMVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -385,13 +429,18 @@
   },
   "mention_compare_24h": {
     "張嘉郡": 3,
-    "劉建國": 4
+    "劉建國": 6
   },
   "mention_compare_7d": {
     "張嘉郡": 63,
-    "劉建國": 51
+    "劉建國": 53
   },
   "top_news": [
+    {
+      "title": "守住雲林，也打開雲林的未來 劉建國從農業、醫療一路布局AI產業新願景 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12UUJTVTZvNm9KSnRaQW9FdkQ1Zk1hSlBDUXlCMVkxN1Y2QjVMS2dvOFo4QklqM3pSU0dzN0pLY3RFQUh6SjRpS0FGbEV0TFZLbkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-15 10:07:00"
+    },
     {
       "title": "從活動中心到農水路 劉建國把中央資源帶回雲林，更把建設做到鄉親需要的地方 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zWWJONHh1bFBRSk5tYTJlU2hpcHZFT2dKWkZPWjZjVi1yMExYOXVJLXczcTNSd0RzUlVyVjQtd1gwV3lNYkFhZHYyR1dXMDVuMVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -424,6 +473,11 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "守住雲林，也打開雲林的未來 劉建國從農業、醫療一路布局AI產業新願景 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12UUJTVTZvNm9KSnRaQW9FdkQ1Zk1hSlBDUXlCMVkxN1Y2QjVMS2dvOFo4QklqM3pSU0dzN0pLY3RFQUh6SjRpS0FGbEV0TFZLbkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-15 10:07:00"
+    },
     {
       "title": "從活動中心到農水路 劉建國把中央資源帶回雲林，更把建設做到鄉親需要的地方 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zWWJONHh1bFBRSk5tYTJlU2hpcHZFT2dKWkZPWjZjVi1yMExYOXVJLXczcTNSd0RzUlVyVjQtd1gwV3lNYkFhZHYyR1dXMDVuMVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -517,11 +571,6 @@
     {
       "title": "雲林縣長參選人張嘉郡提寵物政見 打造人寵共融讓毛孩家族超有感 - UDN",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1veVZxQkFaLVRFZkpDTHAzakY4cnBfbkUwM3h0ZjFDb2hzQWZUcU5KQlRzTEJjV2FmUDdFLThjS243ajNPWUR6S2psZ1laaXoxdE40c1M1WmN2N1pxYWEwdFM1WjE5VkJfT3FRaGZkWGREcDB6OFBqRHVBSdIBVkFVX3lxTFBYdG1MLW53b3ZrQ1BHZVRnRExsV0tDWENhTko0czBQT1RpejZZNGxmNTlDSkoyblBiWDZCZlRzUnhSYUxuU1FCU0dWaUE2OTFlVzZaWVNn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-13 16:44:22"
-    },
-    {
-      "title": "雲林縣長參選人張嘉郡提寵物政見 打造人寵共融讓毛孩家族超有感 - udn.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jeWItWXJ5aVFzbVVvNWE5MEZXWlR0SHk3dmd2WThhMUtLWUw3LUl3YkFBdzJhN05xTTdZdk1qamNhS2VOTmFBeEdjLU92NEVtaFhtazNNb3JlWXJQWTl5NlJtSDRQNk9fVHU4QWVFLXF0QdIBWEFVX3lxTFBFTlZsRWZsREdTNW5NazBoS0haYVpqaDBPZXpuYXdaYVVhRjY2OVlEVTduQlhTRVozb2pDVG1QWURvdmd4TWN4V0gxTzBWVEswcXVJaWpKVWY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-13 16:44:22"
     }
   ],
@@ -629,6 +678,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "守住雲林，也打開雲林的未來 劉建國從農業、醫療一路布局AI產業新願景 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12UUJTVTZvNm9KSnRaQW9FdkQ1Zk1hSlBDUXlCMVkxN1Y2QjVMS2dvOFo4QklqM3pSU0dzN0pLY3RFQUh6SjRpS0FGbEV0TFZLbkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-15 10:07:00"
+    },
+    {
       "title": "從活動中心到農水路 劉建國把中央資源帶回雲林，更把建設做到鄉親需要的地方 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zWWJONHh1bFBRSk5tYTJlU2hpcHZFT2dKWkZPWjZjVi1yMExYOXVJLXczcTNSd0RzUlVyVjQtd1gwV3lNYkFhZHYyR1dXMDVuMVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-14 23:50:00"
@@ -721,11 +775,6 @@
     {
       "title": "雲林縣長參選人張嘉郡提寵物政見 打造人寵共融讓毛孩家族超有感 - UDN",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1veVZxQkFaLVRFZkpDTHAzakY4cnBfbkUwM3h0ZjFDb2hzQWZUcU5KQlRzTEJjV2FmUDdFLThjS243ajNPWUR6S2psZ1laaXoxdE40c1M1WmN2N1pxYWEwdFM1WjE5VkJfT3FRaGZkWGREcDB6OFBqRHVBSdIBVkFVX3lxTFBYdG1MLW53b3ZrQ1BHZVRnRExsV0tDWENhTko0czBQT1RpejZZNGxmNTlDSkoyblBiWDZCZlRzUnhSYUxuU1FCU0dWaUE2OTFlVzZaWVNn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-13 16:44:22"
-    },
-    {
-      "title": "雲林縣長參選人張嘉郡提寵物政見 打造人寵共融讓毛孩家族超有感 - udn.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jeWItWXJ5aVFzbVVvNWE5MEZXWlR0SHk3dmd2WThhMUtLWUw3LUl3YkFBdzJhN05xTTdZdk1qamNhS2VOTmFBeEdjLU92NEVtaFhtazNNb3JlWXJQWTl5NlJtSDRQNk9fVHU4QWVFLXF0QdIBWEFVX3lxTFBFTlZsRWZsREdTNW5NazBoS0haYVpqaDBPZXpuYXdaYVVhRjY2OVlEVTduQlhTRVozb2pDVG1QWURvdmd4TWN4V0gxTzBWVEswcXVJaWpKVWY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-13 16:44:22"
     }
   ],
@@ -1041,6 +1090,11 @@
       ],
       "news": [
         {
+          "title": "守住雲林，也打開雲林的未來 劉建國從農業、醫療一路布局AI產業新願景 - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12UUJTVTZvNm9KSnRaQW9FdkQ1Zk1hSlBDUXlCMVkxN1Y2QjVMS2dvOFo4QklqM3pSU0dzN0pLY3RFQUh6SjRpS0FGbEV0TFZLbkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-15 10:07:00"
+        },
+        {
           "title": "從活動中心到農水路 劉建國把中央資源帶回雲林，更把建設做到鄉親需要的地方 - 蕃新聞",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zWWJONHh1bFBRSk5tYTJlU2hpcHZFT2dKWkZPWjZjVi1yMExYOXVJLXczcTNSd0RzUlVyVjQtd1gwV3lNYkFhZHYyR1dXMDVuMVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-14 23:50:00"
@@ -1134,17 +1188,17 @@
           "title": "甘厝老活動中心重建動工 劉建國爭取2854萬中央全額補助 - 觀傳媒",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94OVN5aTlUMmtYaHpjbFBLWkNfS2NHLWIzS29ESkhwWFZtTkhBRzk4MGQ4NUNxZkE3Mmw2SFIzS0hyQnUzZmk5VThlbTdqRGxhaGE4U2NQOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-10 21:12:51"
-        },
-        {
-          "title": "甘厝老活動中心重建動工 劉建國爭取2854萬中央全額補助 - 蕃新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ucWV3U0NkMTFKdC1pOVlBOWF6TWNDMF9PNmJpb1dGc1kwZEpmRHVKeGt5VUFielV4LXZzRFhyQk1YdnZJSlJKUDc1bU5MdzZqaEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-10 21:12:00"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "守住雲林，也打開雲林的未來 劉建國從農業、醫療一路布局AI產業新願景 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12UUJTVTZvNm9KSnRaQW9FdkQ1Zk1hSlBDUXlCMVkxN1Y2QjVMS2dvOFo4QklqM3pSU0dzN0pLY3RFQUh6SjRpS0FGbEV0TFZLbkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 10:07:00"
+      },
       {
         "title": "從活動中心到農水路 劉建國把中央資源帶回雲林，更把建設做到鄉親需要的地方 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zWWJONHh1bFBRSk5tYTJlU2hpcHZFT2dKWkZPWjZjVi1yMExYOXVJLXczcTNSd0RzUlVyVjQtd1gwV3lNYkFhZHYyR1dXMDVuMVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1182,10 +1236,22 @@
         "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQbUFBeHVPTHhTRC1pbUFFOWd5WGplc25ndTZUQUQ1VklPODFoMFAwTWpRU04wZFV1cWtQem9zeENYZGI2MDZIOU5MLXlTV2hmVmNsMXV5Q183VlJGQS1DNmVHdmZjWm1FRUZDRWQxR3NYQ21HMFlmYlVfRm41Nk0yTGZieUctdWFrVDZOclQ5ODZaUHpNWnhlc0swdUtqSGl1OUhzSXZ3SzZ3SUcxSzliQlZzN3c4NEFqYlhZTU9nMy1DanRtdklFdEFrWl93WWltd0hUSVFEOUx1R3ZMLTlGa3l5MTRLRE5SVXpYaXIzY1JaNlJwNnJQZXBIVlp6LV9aUnhxWjFaaFV4MElYbS1TeFZYQzVEeDY0WDROOHBiUkpLTDBkSXVPN3JlZ0lVdkoxeGhvQWJkTFU2bnNMWHlLdG9RWUNLNGF0OHZ1b0psZ3RCZkhTNmVLNDRlRWFyVV90RGI3RjFRVVU4ajBTWklhTWt5Qng4a2toTVVCLXMtd3RLU1BpUEx6WA",
         "time": "2026-08-14 12:09:08"
       }
+    ],
+    "youtube": [
+      {
+        "title": "【直播完整版】0815 新雲林新幸福！ 賴清德合體劉建國靈台山建德寺地母廟參香祈福｜民視快新聞｜",
+        "url": "https://www.youtube.com/watch?v=OPMxXzoM1rs",
+        "time": "2026-08-15 10:16:43"
+      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "守住雲林，也打開雲林的未來 劉建國從農業、醫療一路布局AI產業新願景 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12UUJTVTZvNm9KSnRaQW9FdkQ1Zk1hSlBDUXlCMVkxN1Y2QjVMS2dvOFo4QklqM3pSU0dzN0pLY3RFQUh6SjRpS0FGbEV0TFZLbkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 10:07:00"
+      },
       {
         "title": "從活動中心到農水路 劉建國把中央資源帶回雲林，更把建設做到鄉親需要的地方 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zWWJONHh1bFBRSk5tYTJlU2hpcHZFT2dKWkZPWjZjVi1yMExYOXVJLXczcTNSd0RzUlVyVjQtd1gwV3lNYkFhZHYyR1dXMDVuMVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1380,11 +1446,6 @@
         "title": "張嘉郡推四大寵物經濟政策 打造人寵共融友善雲林 - 三星傳媒",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEdDZrV0xpekw0NXlkbXVFcVJEUFRFSHFtclBzc0FJX3FfaG15Tkl6N2xZLXFrbVZCbXA3STRJQXVDQ1V5Q3hOY0Rvc2Jwb2I5OU41UTRHVXR6ZVJFTmNPME9B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-13 13:21:11"
-      },
-      {
-        "title": "張嘉郡推四大寵物經濟政策 打造人寵共融友善雲林 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95a2R4MFplNEFrSlp0LXBpMGZ6djlja24tZHpyWDBMY2FmaTVIRmFZdzBucVJQWGhlMkxJMUVGNXdqc29Pa0l0YWpuTkFOMHpZWmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-13 13:20:00"
       }
     ],
     "facebook": [
@@ -1541,6 +1602,11 @@
     ],
     "youtube": [
       {
+        "title": "【直播完整版】0815 新雲林新幸福！ 賴清德合體劉建國靈台山建德寺地母廟參香祈福｜民視快新聞｜",
+        "url": "https://www.youtube.com/watch?v=OPMxXzoM1rs",
+        "time": "2026-08-15 10:16:43"
+      },
+      {
         "title": "雲林毛小孩數量超8.3萬隻 張嘉郡發表寵物經濟四大藍圖-雲林新聞網",
         "url": "https://www.youtube.com/watch?v=MX6-Bu-t76U",
         "time": "2026-08-13 18:45:07"
@@ -1563,6 +1629,20 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "【直播完整版】0815 新雲林新幸福！ 賴清德合體劉建國靈台山建德寺地母廟參香祈福｜民視快新聞｜",
+        "url": "https://www.youtube.com/watch?v=OPMxXzoM1rs",
+        "time": "2026-08-15 10:16:43",
+        "platform": "youtube",
+        "risk": "綠"
+      },
+      {
+        "title": "守住雲林，也打開雲林的未來 劉建國從農業、醫療一路布局AI產業新願景 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12UUJTVTZvNm9KSnRaQW9FdkQ1Zk1hSlBDUXlCMVkxN1Y2QjVMS2dvOFo4QklqM3pSU0dzN0pLY3RFQUh6SjRpS0FGbEV0TFZLbkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 10:07:00",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "從活動中心到農水路 劉建國把中央資源帶回雲林，更把建設做到鄉親需要的地方 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zWWJONHh1bFBRSk5tYTJlU2hpcHZFT2dKWkZPWjZjVi1yMExYOXVJLXczcTNSd0RzUlVyVjQtd1gwV3lNYkFhZHYyR1dXMDVuMVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1618,13 +1698,13 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 3
+        "count": 5
       }
     ],
     "groups": [
       {
         "name": "農業族群",
-        "count": 3
+        "count": 4
       },
       {
         "name": "工地/營造",
