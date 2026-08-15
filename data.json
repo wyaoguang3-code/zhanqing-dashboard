@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-08-15T08:58:55.479013+00:00",
+  "generated_at": "2026-08-15T09:16:43.000870+00:00",
   "metrics": {
-    "total_24h": 23,
+    "total_24h": 29,
     "prev_24h": 24,
-    "growth_pct": -4.17,
-    "news_24h": 22,
+    "growth_pct": 20.83,
+    "news_24h": 25,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 143,
-    "prev": 106,
-    "growth_pct": 34.91,
-    "news": 111,
+    "total": 149,
+    "prev": 107,
+    "growth_pct": 39.25,
+    "news": 114,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,11 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 22
+      "count": 25
+    },
+    {
+      "platform": "facebook",
+      "count": 3
     },
     {
       "platform": "youtube",
@@ -38,11 +42,11 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 111
+      "count": 114
     },
     {
       "platform": "facebook",
-      "count": 28
+      "count": 31
     },
     {
       "platform": "youtube",
@@ -54,10 +58,6 @@
     }
   ],
   "by_hour": [
-    {
-      "hour": "2026-08-14 17:00",
-      "count": 1
-    },
     {
       "hour": "2026-08-14 19:00",
       "count": 2
@@ -84,18 +84,18 @@
     },
     {
       "hour": "2026-08-15 14:00",
-      "count": 7
+      "count": 9
     },
     {
       "hour": "2026-08-15 15:00",
-      "count": 2
+      "count": 4
+    },
+    {
+      "hour": "2026-08-15 16:00",
+      "count": 3
     }
   ],
   "by_hour_7d": [
-    {
-      "hour": "2026-08-08 17:00",
-      "count": 1
-    },
     {
       "hour": "2026-08-08 23:00",
       "count": 1
@@ -306,17 +306,25 @@
     },
     {
       "hour": "2026-08-15 14:00",
-      "count": 7
+      "count": 9
     },
     {
       "hour": "2026-08-15 15:00",
-      "count": 2
+      "count": 4
+    },
+    {
+      "hour": "2026-08-15 16:00",
+      "count": 3
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 22
+      "count": 25
+    },
+    {
+      "platform": "facebook",
+      "count": 3
     },
     {
       "platform": "youtube",
@@ -325,6 +333,16 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "賴總統南下雲林輔選劉建國，力挺拚雲林縣長打造新氣象 - 中華新聞雲／中華日報",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QWmZnVmxOaXM1eU12NmQzNi1KWU9tRWVVUFpFM0dQSDlOVEZ0dFljaVBVTm90M2lyQnlDT2lUajRCWXF5OG1KT1JPVVlIZDdSekE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 16:52:26"
+      },
+      {
+        "title": "賴清德赴靈台山建德寺地母廟祈福肯定劉建國長期爭取雲林建設發展| 政治 - Newtalk新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83aUpzWGZneEx1SXJ4QTlJS0tneEhhRFhudGtFX2JfOTBzWDhxcnR6M1U1WXZoTUZaQS1YNHRvN1BNbXpxbmJMdTVOWDBuWXZjMWZtb3R3NHk4Nlk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 16:29:50"
+      },
       {
         "title": "盧秀燕送蒜頭助攻雲林！力推張嘉郡免健保費、小巨蛋好政策 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLVFlwYXJOUmVWTHFfdm5yS0NMNXNQY09rYnB4aGRVRWhQaG5PcUxsbUdLWDRFa3pOVTIxNDRTeV91N1pZRnpIMGc4OGx6ZFQ3cVcw0gFYQVVfeXFMTzh6N2pqVFFUaVVyWlhhLVExQTVuVEpSdTZNbGNMdk9FNlhvVWdDallyVnZCWnpFQ1A2dVFsV0dzVWRTRzhPcFR5TVAyRDlpbjZ3VlhzNmhBWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -336,6 +354,11 @@
         "time": "2026-08-15 15:20:37"
       },
       {
+        "title": "盧秀燕送蒜頭助攻雲林！力推張嘉郡免健保費、小巨蛋好政策| 縣市長議員選戰| 要聞 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLVFlwYXJOUmVWTHFfdm5yS0NMNXNQY09rYnB4aGRVRWhQaG5PcUxsbUdLWDRFa3pOVTIxNDRTeV91N1pZRnpIMGc4OGx6ZFQ3cVcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 15:20:37"
+      },
+      {
         "title": "賴清德爆中國將年底選戰視為對台政策指標 喊話鄉親：守護民主支持劉建國| 政治焦點 - 太報 TaiSounds",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvLWJTalhFOTZPUEJTX0RSbjloaVhtUE1yaE1zTkZpaW5xVnN1ZTR2Wk5DMHBGYTlUdjU0aHZMRFV4TWRvbG9wT1NTRDEyN0M1UjRleWc5SERHaFlf?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-15 14:53:17"
@@ -344,6 +367,11 @@
         "title": "中國把年底選舉當對台政策指標 賴清德籲雲林人挺劉建國 | 自由電子報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mYnQtc3dyQWRfdWczdXVUUFM3ZnFVT2RMSWdmWHNmdDlCQkJUSlRNYkxnZ2lmU1laUU5mMV90WjFuSk5VaDAteDRqVV9hdTlMZmd5aHZn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-15 14:14:33"
+      },
+      {
+        "title": "總統籲雲林鄉親支持堅守民主劉建國　對抗中國打壓 - money.udn.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yMmZjU01kcHltNm5TcFpLRElxaW5iVmFNbDZ4Zmx4UHNLTG5mTnNoaVM5eWNUeGRjRTFfVmQzV0NwbXA4UXNkOWJOd0RRRDFBcjFPMlRGdmhTaW5iWEthSzBGRTgxcmdyOHdEMFBZU3FmdFVHZ1FB0gFfQVVfeXFMUGNWZXV3OXhSUzR5cnQ0SWxsVkRjU1VKU1NEbzJsYUo2YzVTdDJ3WEQyTEp4dkEzNjYwTDV2VEpQTzJGRU1MeHp1NjR6anFBWWpnWlgxSmNyVVN6bEg1RDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 14:14:21"
       },
       {
         "title": "賴清德雲林喊「縣長換人做」 大讚劉建國守護台灣主權 - Yahoo新聞",
@@ -429,11 +457,23 @@
         "title": "張嘉郡推四大寵物經濟政策 - taiwanreports.com",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pdGVLTkduV0FpTXBEVHcyX2FOUm4xSS1QQU1WWVJoUjNtdUdSMzNvUURpSExjTnNQcjhEY01HcVVwXzBRT3p5dDhLT1VNLXh6MGxoVw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-14 19:44:51"
+      }
+    ],
+    "facebook": [
+      {
+        "title": "#盧秀燕市長來雲林相挺嘉郡❤️ #一棒接一棒讓雲林幸福升級✨ 嘉郡很開心陪同 盧秀燕 市長前往 西螺廣福宮老大媽 、西螺福興宮 參香祈福，和 張麗善 縣長、許宇甄 委員及地方鄉親一起祈求風調雨順、四境平安，也感受到西螺鄉親滿滿的熱情與人情味🙏 這次盧市長來 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxOcUtseV9jRUJJa1pXR2NxTEpveW5OQkpLUHVyUmh0LUdYSDZyZ2J1d0ZRVlVvYkc0TFVfRnY4TW5IYkRXSEhTSFpBTERMVlZrUUZLcGs1OUVLOWxUR2E5S2VQbXpmbHRVbmQ1RlZhMzc2YXpRTUZRWG5rN1J1bUFFYWRUb2JBTE51eVdTMHh4YWJYUmd4RUtnejFPVVFxUFlWaU1rSi1IRDVfR1FQdmdPa1JDZ2pWc1JIM2FKeXpMeGdJVWo5Q2NyblV2blNlSFZWcV9lWXdVZ3BKbHdSdmV5VmstNTVGSG9lYlpqRFpzRVVmUlFoU2ZZUjdXTHRMamhQRzVoWDRTTnpYdWxBNGQ5SGhuTDNFcXhfMjRaT1FxelRLOXNHNmJxd1JuNEdTbEZ6NTlZTFU2Q2tlNHhDQ1VlQ24tdEk1Z0hUOURIME9iNDVPQ3hxNEFZN2hRekZPcVY2N2t4cjdQa1RsUVZKYndiZWVJd2tDb2g1Umg3bWtwdnhERzZ5RWRrZUtYdTlOZnYtMlRmbDJmZ1FCUTNvUDU0cjZ0aGVUTVlaWTFJRVhvRzdHNnJJSkY5YXcwQWd2YVdZNlhlYVZlLUxpdnRmTFRKN0dXS1c3R3hNZjhFOEpRX1dBbzhrUmZQdE5HNGdVREZMWFExOFVJT080ZVB3a2FmendIQVg5U2xXcFMyR21iYnpaVHRzdHE3c01LNDN4Yi1MUjQxYV9EMkdIZ253dTFJX0s5WjRvX1VjMkpBd3JWaXBpTTFRR2lNTVpwb0RRZnNJOFVTcFVDWnM4VmhBZnk3ejhYRFRqdlpPNHZfcnV6enl5RDRydURfZWFMb0JaeWJ5Rk9BalBYakpueFl4R2JzdlRQcG9pOFpMZWRaSUNiN2NyZ3E1bF9kUVplSzVqZGw3cUM2cktaX3AyU1BGUVRxUk4zc3FRNmRwWGE4ODRGTktoM1JyQVhqNGx1YXFkeDRsbHN6d0lRNkpFVmRoVFhpZzR5U0pUR29pYkt6eFlJdEw5WmVmdkZVRERRSkYtanF4YVY3NlFTOHBEUjFoYkpSYkF6cW5pa3hHVlo0d2FBb3Z0V0JRU05uakNRVzBnZFpheUVndXBiZzZuUUwzVlFURFRWVmRhOEkwaFVXWC1Kb1B2Rm5aWGVhQkdXYmZwaGRUN2ZOOWlCb1pfdHM1V0RtcGJLckU3bEZSaFJkUmFMVVVRRjc3YTZ2N25JZWkyWFBlQkFhN25YSkdVT1JhTTVxWHpNQUhyRXdNb0duRkpGSkR4ajFYVG1wWTViRkdUQ1VuUHZJSlRHNU4tQQ",
+        "time": "2026-08-15 16:27:00"
       },
       {
-        "title": "抽水電費免負擔、農水路砸800萬改善 立委劉建國：讓農民「田要顧、水要有、路要通」 - n.yam.com",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xV2dycHVKY1JBT0RnR3JPX0FJbE5fMW1JSWNFazJLRnNlbEFlb2kxUHRJcC01TmdBMjNfV3FSQlRFTW5BczFfSlBnNlZzSlJJSVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-14 17:15:00"
+        "title": "#中共 介入年底選戰？#賴清德 雲林喊話：支持守護主權的劉建國對抗中國威脅 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxOcFFlMjVHQ2F6Sk5lRGNFOTd5MzJTMnBhR3RDMGV3b2xueW13Tm9TajhXZE5fbXM4X3FaV2lCRDBDbm9rVzJuY0NiSHZndnJELVhGR01wR1ZlV0dNTV9FZ1Z2Wm1razFvd2NIMnkxVW1xVy1rTVEwei1vUmgzeTE2M2M0MlU0US01UGJrRHh2RWFHWjRrSU1RRm1qQW84Z2pPNTZWWnhGRE4xSk41SG4tc3ZqMkVnVDczbEMtYlh4eG4zckNEYmJqUG8xbFNsNXgzMVhVLTJxNlcteHFRRkxCNWltd19zSGVHYVg3Sy02dUJ6TV92VzJ4WTZIbUwyeGk3M1Y4VXRqaURONTZfRmt3RnlnN3NHdUtRM3lUQmRkbC1DNDRoRUxNU09hcVFSNnBnMGhmb0NxV3pXSFVBQWRaelotcVhvQjBSbFlwMUY2SDViY3YtTFpkb3ZMODBLWC11c3k0cjFmXzZGd3o4djR1LVB0X1RaTjNUd2JGLWtwakFwVGRQRnJCcURRbzIyUHc1aHJBelF0ZzU4aU9zSWJsR0c5RlNEdUpCamF3VXl6Uk9JNEJHNHYtWlk0cHVHRTJMUVM0OUNNd0pWMmFaRnVSZlFsQjZidDR5XzdRenN6cjlHTW5UY2c",
+        "time": "2026-08-15 15:32:34"
+      },
+      {
+        "title": "台視新聞台. . 【#TTV最新快訊】賴總統赴雲林廟宇參香祈福 出席古坑竹筍節活動 －－－ 假日拚輔選，總統賴清德今天(15日)前往雲林，跟縣長參選人、立委劉建國同台，除了公宮廟參香祈福，也一同出席古坑竹筍節活動。 #賴清德 #劉建國 #古坑 －－－ 【訂閱 #台視新聞 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi6gdBVV95cUxNNjZzMkU4SDlOb2lRSzNlMjRPaGZ1S2xXM2UzR3YzVWhSRVpVckZ6MU8ydkJlUUpxUkhMVUhQeDJ4WXlDZWJkeDJFdHVVYllaZWJGVUNEelVRQWZsaXI4VWhlTVV4M2hYQ3FJQnhkY1BWZE9hTGhnSTE0eUNacXl5RW1QQ0JJOUtVeTZuT2RBNVlaR01maUZxQ2h5Mmpucm1HbHR4UDFjdEZHT1U5VTFpVms1S3RVMWUtdWhJLUpqUWJud1p2MFE5UldfeEJ4dm1aZ25aYjE2MXBmOUxpc2hTZ0s1X3dkQkRydGI1YkNXcDlZVWJnbVhldkZKRlAxSEEwRDd0d3ZGWnN6TnNNd3p6ZDNXMkFtLWJzMEh2VUMyTGpYUlZRYUx0TWIzUU1sMDBPOXBqQXpWLUtoaXQxbjZyOFZXOVQtbTN3U3RscXFzWVhTYlY2Vk44aEhHMXdTSXN5eFNIbmNBYXhqN0pLUzU5QkJYMEVKOVV4eFZRWkNrelAtOFBOZmo3WjJhR2dBMGtzZVRBRDFVYVZFX2ozZjNSd3pHaGI1YmhKQ25sVzN0OUFDajhpbXpsNGIwRmRKZnFFbFhBYUZsMkdWNzZfcVNaaTYtUzBZYy1LdmVyaWRxOVA1cXluYnpJWEdiQ2t1eFpJTm1idWVYQ2xweUtWUklNUDYzM2JxZ2dQWUpuRC1sS3p6M3plYjVZanJUSXA5a29uSWlGVjJXMWYxckpQTElQQS16YmNiR2E0Vm1uT1lIZEx0ZEk4dTk0XzhwLVpheUc2c0xLSGpMRkd5YTZrbUY5SzQ2V2JqekMwY1B2cy1sZlJ4dzFCbUx3aGpRYW1xSVdwcnVtaGFILWU0U0NRci1yZWR0N2pkSkw1NTZNb2hITTR0S2NUN1BUODI1X2dpR29zdmtyYno1bEN6RlZyVWZzQ2FBYTVNTmRnbmJrNDBEUUdmV2pXYUc5Y2tnRnJ5NjZyNkxSR2lHTEpvZ3VGWkZGekl0Q2tFcXNMVTRPZzI4Q0ZSZnprQmJncE52cVF1azh4NlBRMV9OTHJ5S0J3Mlc5QU5lSG5UNkNjSkZrVnhNYkdpWWdMNm5VZ0dsSmZEZzVxbF81UnlrUGNiVG5hNlZIRnluVm9IbG9OVllSMmFvSkxNS21zNWhnWmdoVUZCdk1iRjJzR2FON3Z1LWxnQUZWRFk4ZTdSdHV1QndCbjU4RFRyWDJuMnRQQm4yeXpsQVFzdTZpSG1ueU1vdm9hQ2RvR04yckFTdmU5dnhyRkZmYUs3U01TSldfVEhwT3VtcnRHWnR4RkxzdUNtWGpLeW44U3B0NEZlRm9RSGc",
+        "time": "2026-08-15 14:43:27"
       }
     ],
     "youtube": [
@@ -447,7 +487,11 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 22
+      "count": 25
+    },
+    {
+      "platform": "facebook",
+      "count": 3
     },
     {
       "platform": "youtube",
@@ -456,6 +500,16 @@
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "賴總統南下雲林輔選劉建國，力挺拚雲林縣長打造新氣象 - 中華新聞雲／中華日報",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QWmZnVmxOaXM1eU12NmQzNi1KWU9tRWVVUFpFM0dQSDlOVEZ0dFljaVBVTm90M2lyQnlDT2lUajRCWXF5OG1KT1JPVVlIZDdSekE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 16:52:26"
+      },
+      {
+        "title": "賴清德赴靈台山建德寺地母廟祈福肯定劉建國長期爭取雲林建設發展| 政治 - Newtalk新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83aUpzWGZneEx1SXJ4QTlJS0tneEhhRFhudGtFX2JfOTBzWDhxcnR6M1U1WXZoTUZaQS1YNHRvN1BNbXpxbmJMdTVOWDBuWXZjMWZtb3R3NHk4Nlk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 16:29:50"
+      },
       {
         "title": "盧秀燕送蒜頭助攻雲林！力推張嘉郡免健保費、小巨蛋好政策 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLVFlwYXJOUmVWTHFfdm5yS0NMNXNQY09rYnB4aGRVRWhQaG5PcUxsbUdLWDRFa3pOVTIxNDRTeV91N1pZRnpIMGc4OGx6ZFQ3cVcw0gFYQVVfeXFMTzh6N2pqVFFUaVVyWlhhLVExQTVuVEpSdTZNbGNMdk9FNlhvVWdDallyVnZCWnpFQ1A2dVFsV0dzVWRTRzhPcFR5TVAyRDlpbjZ3VlhzNmhBWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -467,6 +521,11 @@
         "time": "2026-08-15 15:20:37"
       },
       {
+        "title": "盧秀燕送蒜頭助攻雲林！力推張嘉郡免健保費、小巨蛋好政策| 縣市長議員選戰| 要聞 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLVFlwYXJOUmVWTHFfdm5yS0NMNXNQY09rYnB4aGRVRWhQaG5PcUxsbUdLWDRFa3pOVTIxNDRTeV91N1pZRnpIMGc4OGx6ZFQ3cVcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 15:20:37"
+      },
+      {
         "title": "賴清德爆中國將年底選戰視為對台政策指標 喊話鄉親：守護民主支持劉建國| 政治焦點 - 太報 TaiSounds",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvLWJTalhFOTZPUEJTX0RSbjloaVhtUE1yaE1zTkZpaW5xVnN1ZTR2Wk5DMHBGYTlUdjU0aHZMRFV4TWRvbG9wT1NTRDEyN0M1UjRleWc5SERHaFlf?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-15 14:53:17"
@@ -475,6 +534,11 @@
         "title": "中國把年底選舉當對台政策指標 賴清德籲雲林人挺劉建國 | 自由電子報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mYnQtc3dyQWRfdWczdXVUUFM3ZnFVT2RMSWdmWHNmdDlCQkJUSlRNYkxnZ2lmU1laUU5mMV90WjFuSk5VaDAteDRqVV9hdTlMZmd5aHZn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-15 14:14:33"
+      },
+      {
+        "title": "總統籲雲林鄉親支持堅守民主劉建國　對抗中國打壓 - money.udn.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yMmZjU01kcHltNm5TcFpLRElxaW5iVmFNbDZ4Zmx4UHNLTG5mTnNoaVM5eWNUeGRjRTFfVmQzV0NwbXA4UXNkOWJOd0RRRDFBcjFPMlRGdmhTaW5iWEthSzBGRTgxcmdyOHdEMFBZU3FmdFVHZ1FB0gFfQVVfeXFMUGNWZXV3OXhSUzR5cnQ0SWxsVkRjU1VKU1NEbzJsYUo2YzVTdDJ3WEQyTEp4dkEzNjYwTDV2VEpQTzJGRU1MeHp1NjR6anFBWWpnWlgxSmNyVVN6bEg1RDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 14:14:21"
       },
       {
         "title": "賴清德雲林喊「縣長換人做」 大讚劉建國守護台灣主權 - Yahoo新聞",
@@ -560,11 +624,23 @@
         "title": "張嘉郡推四大寵物經濟政策 - taiwanreports.com",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pdGVLTkduV0FpTXBEVHcyX2FOUm4xSS1QQU1WWVJoUjNtdUdSMzNvUURpSExjTnNQcjhEY01HcVVwXzBRT3p5dDhLT1VNLXh6MGxoVw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-14 19:44:51"
+      }
+    ],
+    "facebook": [
+      {
+        "title": "#盧秀燕市長來雲林相挺嘉郡❤️ #一棒接一棒讓雲林幸福升級✨ 嘉郡很開心陪同 盧秀燕 市長前往 西螺廣福宮老大媽 、西螺福興宮 參香祈福，和 張麗善 縣長、許宇甄 委員及地方鄉親一起祈求風調雨順、四境平安，也感受到西螺鄉親滿滿的熱情與人情味🙏 這次盧市長來 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxOcUtseV9jRUJJa1pXR2NxTEpveW5OQkpLUHVyUmh0LUdYSDZyZ2J1d0ZRVlVvYkc0TFVfRnY4TW5IYkRXSEhTSFpBTERMVlZrUUZLcGs1OUVLOWxUR2E5S2VQbXpmbHRVbmQ1RlZhMzc2YXpRTUZRWG5rN1J1bUFFYWRUb2JBTE51eVdTMHh4YWJYUmd4RUtnejFPVVFxUFlWaU1rSi1IRDVfR1FQdmdPa1JDZ2pWc1JIM2FKeXpMeGdJVWo5Q2NyblV2blNlSFZWcV9lWXdVZ3BKbHdSdmV5VmstNTVGSG9lYlpqRFpzRVVmUlFoU2ZZUjdXTHRMamhQRzVoWDRTTnpYdWxBNGQ5SGhuTDNFcXhfMjRaT1FxelRLOXNHNmJxd1JuNEdTbEZ6NTlZTFU2Q2tlNHhDQ1VlQ24tdEk1Z0hUOURIME9iNDVPQ3hxNEFZN2hRekZPcVY2N2t4cjdQa1RsUVZKYndiZWVJd2tDb2g1Umg3bWtwdnhERzZ5RWRrZUtYdTlOZnYtMlRmbDJmZ1FCUTNvUDU0cjZ0aGVUTVlaWTFJRVhvRzdHNnJJSkY5YXcwQWd2YVdZNlhlYVZlLUxpdnRmTFRKN0dXS1c3R3hNZjhFOEpRX1dBbzhrUmZQdE5HNGdVREZMWFExOFVJT080ZVB3a2FmendIQVg5U2xXcFMyR21iYnpaVHRzdHE3c01LNDN4Yi1MUjQxYV9EMkdIZ253dTFJX0s5WjRvX1VjMkpBd3JWaXBpTTFRR2lNTVpwb0RRZnNJOFVTcFVDWnM4VmhBZnk3ejhYRFRqdlpPNHZfcnV6enl5RDRydURfZWFMb0JaeWJ5Rk9BalBYakpueFl4R2JzdlRQcG9pOFpMZWRaSUNiN2NyZ3E1bF9kUVplSzVqZGw3cUM2cktaX3AyU1BGUVRxUk4zc3FRNmRwWGE4ODRGTktoM1JyQVhqNGx1YXFkeDRsbHN6d0lRNkpFVmRoVFhpZzR5U0pUR29pYkt6eFlJdEw5WmVmdkZVRERRSkYtanF4YVY3NlFTOHBEUjFoYkpSYkF6cW5pa3hHVlo0d2FBb3Z0V0JRU05uakNRVzBnZFpheUVndXBiZzZuUUwzVlFURFRWVmRhOEkwaFVXWC1Kb1B2Rm5aWGVhQkdXYmZwaGRUN2ZOOWlCb1pfdHM1V0RtcGJLckU3bEZSaFJkUmFMVVVRRjc3YTZ2N25JZWkyWFBlQkFhN25YSkdVT1JhTTVxWHpNQUhyRXdNb0duRkpGSkR4ajFYVG1wWTViRkdUQ1VuUHZJSlRHNU4tQQ",
+        "time": "2026-08-15 16:27:00"
       },
       {
-        "title": "抽水電費免負擔、農水路砸800萬改善 立委劉建國：讓農民「田要顧、水要有、路要通」 - n.yam.com",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xV2dycHVKY1JBT0RnR3JPX0FJbE5fMW1JSWNFazJLRnNlbEFlb2kxUHRJcC01TmdBMjNfV3FSQlRFTW5BczFfSlBnNlZzSlJJSVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-14 17:15:00"
+        "title": "#中共 介入年底選戰？#賴清德 雲林喊話：支持守護主權的劉建國對抗中國威脅 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxOcFFlMjVHQ2F6Sk5lRGNFOTd5MzJTMnBhR3RDMGV3b2xueW13Tm9TajhXZE5fbXM4X3FaV2lCRDBDbm9rVzJuY0NiSHZndnJELVhGR01wR1ZlV0dNTV9FZ1Z2Wm1razFvd2NIMnkxVW1xVy1rTVEwei1vUmgzeTE2M2M0MlU0US01UGJrRHh2RWFHWjRrSU1RRm1qQW84Z2pPNTZWWnhGRE4xSk41SG4tc3ZqMkVnVDczbEMtYlh4eG4zckNEYmJqUG8xbFNsNXgzMVhVLTJxNlcteHFRRkxCNWltd19zSGVHYVg3Sy02dUJ6TV92VzJ4WTZIbUwyeGk3M1Y4VXRqaURONTZfRmt3RnlnN3NHdUtRM3lUQmRkbC1DNDRoRUxNU09hcVFSNnBnMGhmb0NxV3pXSFVBQWRaelotcVhvQjBSbFlwMUY2SDViY3YtTFpkb3ZMODBLWC11c3k0cjFmXzZGd3o4djR1LVB0X1RaTjNUd2JGLWtwakFwVGRQRnJCcURRbzIyUHc1aHJBelF0ZzU4aU9zSWJsR0c5RlNEdUpCamF3VXl6Uk9JNEJHNHYtWlk0cHVHRTJMUVM0OUNNd0pWMmFaRnVSZlFsQjZidDR5XzdRenN6cjlHTW5UY2c",
+        "time": "2026-08-15 15:32:34"
+      },
+      {
+        "title": "台視新聞台. . 【#TTV最新快訊】賴總統赴雲林廟宇參香祈福 出席古坑竹筍節活動 －－－ 假日拚輔選，總統賴清德今天(15日)前往雲林，跟縣長參選人、立委劉建國同台，除了公宮廟參香祈福，也一同出席古坑竹筍節活動。 #賴清德 #劉建國 #古坑 －－－ 【訂閱 #台視新聞 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi6gdBVV95cUxNNjZzMkU4SDlOb2lRSzNlMjRPaGZ1S2xXM2UzR3YzVWhSRVpVckZ6MU8ydkJlUUpxUkhMVUhQeDJ4WXlDZWJkeDJFdHVVYllaZWJGVUNEelVRQWZsaXI4VWhlTVV4M2hYQ3FJQnhkY1BWZE9hTGhnSTE0eUNacXl5RW1QQ0JJOUtVeTZuT2RBNVlaR01maUZxQ2h5Mmpucm1HbHR4UDFjdEZHT1U5VTFpVms1S3RVMWUtdWhJLUpqUWJud1p2MFE5UldfeEJ4dm1aZ25aYjE2MXBmOUxpc2hTZ0s1X3dkQkRydGI1YkNXcDlZVWJnbVhldkZKRlAxSEEwRDd0d3ZGWnN6TnNNd3p6ZDNXMkFtLWJzMEh2VUMyTGpYUlZRYUx0TWIzUU1sMDBPOXBqQXpWLUtoaXQxbjZyOFZXOVQtbTN3U3RscXFzWVhTYlY2Vk44aEhHMXdTSXN5eFNIbmNBYXhqN0pLUzU5QkJYMEVKOVV4eFZRWkNrelAtOFBOZmo3WjJhR2dBMGtzZVRBRDFVYVZFX2ozZjNSd3pHaGI1YmhKQ25sVzN0OUFDajhpbXpsNGIwRmRKZnFFbFhBYUZsMkdWNzZfcVNaaTYtUzBZYy1LdmVyaWRxOVA1cXluYnpJWEdiQ2t1eFpJTm1idWVYQ2xweUtWUklNUDYzM2JxZ2dQWUpuRC1sS3p6M3plYjVZanJUSXA5a29uSWlGVjJXMWYxckpQTElQQS16YmNiR2E0Vm1uT1lIZEx0ZEk4dTk0XzhwLVpheUc2c0xLSGpMRkd5YTZrbUY5SzQ2V2JqekMwY1B2cy1sZlJ4dzFCbUx3aGpRYW1xSVdwcnVtaGFILWU0U0NRci1yZWR0N2pkSkw1NTZNb2hITTR0S2NUN1BUODI1X2dpR29zdmtyYno1bEN6RlZyVWZzQ2FBYTVNTmRnbmJrNDBEUUdmV2pXYUc5Y2tnRnJ5NjZyNkxSR2lHTEpvZ3VGWkZGekl0Q2tFcXNMVTRPZzI4Q0ZSZnprQmJncE52cVF1azh4NlBRMV9OTHJ5S0J3Mlc5QU5lSG5UNkNjSkZrVnhNYkdpWWdMNm5VZ0dsSmZEZzVxbF81UnlrUGNiVG5hNlZIRnluVm9IbG9OVllSMmFvSkxNS21zNWhnWmdoVUZCdk1iRjJzR2FON3Z1LWxnQUZWRFk4ZTdSdHV1QndCbjU4RFRyWDJuMnRQQm4yeXpsQVFzdTZpSG1ueU1vdm9hQ2RvR04yckFTdmU5dnhyRkZmYUs3U01TSldfVEhwT3VtcnRHWnR4RkxzdUNtWGpLeW44U3B0NEZlRm9RSGc",
+        "time": "2026-08-15 14:43:27"
       }
     ],
     "youtube": [
@@ -576,14 +652,24 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 8,
-    "劉建國": 15
+    "張嘉郡": 10,
+    "劉建國": 19
   },
   "mention_compare_7d": {
-    "張嘉郡": 70,
-    "劉建國": 62
+    "張嘉郡": 72,
+    "劉建國": 66
   },
   "top_news": [
+    {
+      "title": "賴總統南下雲林輔選劉建國，力挺拚雲林縣長打造新氣象 - 中華新聞雲／中華日報",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QWmZnVmxOaXM1eU12NmQzNi1KWU9tRWVVUFpFM0dQSDlOVEZ0dFljaVBVTm90M2lyQnlDT2lUajRCWXF5OG1KT1JPVVlIZDdSekE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-15 16:52:26"
+    },
+    {
+      "title": "賴清德赴靈台山建德寺地母廟祈福肯定劉建國長期爭取雲林建設發展| 政治 - Newtalk新聞",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83aUpzWGZneEx1SXJ4QTlJS0tneEhhRFhudGtFX2JfOTBzWDhxcnR6M1U1WXZoTUZaQS1YNHRvN1BNbXpxbmJMdTVOWDBuWXZjMWZtb3R3NHk4Nlk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-15 16:29:50"
+    },
     {
       "title": "盧秀燕送蒜頭助攻雲林！力推張嘉郡免健保費、小巨蛋好政策 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLVFlwYXJOUmVWTHFfdm5yS0NMNXNQY09rYnB4aGRVRWhQaG5PcUxsbUdLWDRFa3pOVTIxNDRTeV91N1pZRnpIMGc4OGx6ZFQ3cVcw0gFYQVVfeXFMTzh6N2pqVFFUaVVyWlhhLVExQTVuVEpSdTZNbGNMdk9FNlhvVWdDallyVnZCWnpFQ1A2dVFsV0dzVWRTRzhPcFR5TVAyRDlpbjZ3VlhzNmhBWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -595,6 +681,11 @@
       "time": "2026-08-15 15:20:37"
     },
     {
+      "title": "盧秀燕送蒜頭助攻雲林！力推張嘉郡免健保費、小巨蛋好政策| 縣市長議員選戰| 要聞 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLVFlwYXJOUmVWTHFfdm5yS0NMNXNQY09rYnB4aGRVRWhQaG5PcUxsbUdLWDRFa3pOVTIxNDRTeV91N1pZRnpIMGc4OGx6ZFQ3cVcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-15 15:20:37"
+    },
+    {
       "title": "賴清德爆中國將年底選戰視為對台政策指標 喊話鄉親：守護民主支持劉建國| 政治焦點 - 太報 TaiSounds",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvLWJTalhFOTZPUEJTX0RSbjloaVhtUE1yaE1zTkZpaW5xVnN1ZTR2Wk5DMHBGYTlUdjU0aHZMRFV4TWRvbG9wT1NTRDEyN0M1UjRleWc5SERHaFlf?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-15 14:53:17"
@@ -603,6 +694,11 @@
       "title": "中國把年底選舉當對台政策指標 賴清德籲雲林人挺劉建國 | 自由電子報 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mYnQtc3dyQWRfdWczdXVUUFM3ZnFVT2RMSWdmWHNmdDlCQkJUSlRNYkxnZ2lmU1laUU5mMV90WjFuSk5VaDAteDRqVV9hdTlMZmd5aHZn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-15 14:14:33"
+    },
+    {
+      "title": "總統籲雲林鄉親支持堅守民主劉建國　對抗中國打壓 - money.udn.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yMmZjU01kcHltNm5TcFpLRElxaW5iVmFNbDZ4Zmx4UHNLTG5mTnNoaVM5eWNUeGRjRTFfVmQzV0NwbXA4UXNkOWJOd0RRRDFBcjFPMlRGdmhTaW5iWEthSzBGRTgxcmdyOHdEMFBZU3FmdFVHZ1FB0gFfQVVfeXFMUGNWZXV3OXhSUzR5cnQ0SWxsVkRjU1VKU1NEbzJsYUo2YzVTdDJ3WEQyTEp4dkEzNjYwTDV2VEpQTzJGRU1MeHp1NjR6anFBWWpnWlgxSmNyVVN6bEg1RDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-15 14:14:21"
     },
     {
       "title": "賴清德雲林喊「縣長換人做」 大讚劉建國守護台灣主權 - Yahoo新聞",
@@ -623,29 +719,19 @@
       "title": "盧秀燕訪西螺參拜啖美食 讚張嘉郡長者免健保、雙語政見「讓雲林更進步」 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNSGN3WEtFekIzLWZ5XzNOMnRpOXRfM2huUlJUMXZPWVlMekwwVlRScXp4MU9HQ3RkVjlzbVNkMnR0Q3ZZOFBxTjVfWmdTbnBPa1lPSzJpVUZIRV9nZ01Zb2FuLTJPOUJpbTZaZXhZOUMza1BLNmRWbU1KRmVFNHdmN3gzSm1UMmJtcFhDcGl1b1FZanpXWTUtWnFLanlYODNOYWtYSkRIQVBKZG5nbUFDa2h6VWVBOUU1SWVleElYTC1OWjFiQlg4bTJnbk9vZTFCbTQ0R0pTWHBpT2htckF6TnloNjJZYWJZTzRGMnM3eURTdTgyWHliMmRURWJCSTJXdUxYZV9qOUFtMFhKWGU3b3c2Z1Z0OXhzQWpaUjlWQmlGQjRXUk1Vb2h3VlBHVFo2N1NkMmFPNlhsVjVpR1diMmlFVnd4bS1hVGtXbHRnLWRRRHJCcEFOZGc2X25oVFlselRUSFZJZ244M0Z3M0diWGVseGlVeERsN0QyTDExNUZRcjFGX0V4TS1tNVJPUl81YjctcnphRmxRYi1XSXQ5cmlfZHZvV1dpWWtwTDFFWTBmZWMxdmswaHczOUlLZ0U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-15 14:08:48"
-    },
-    {
-      "title": "總統籲雲林鄉親支持堅守民主劉建國對抗中國打壓| 政治 - cna.com.tw",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QMUVmcjduNUVmaVJQd2pCLUJnZklSTG1CNlhPNVNNUTFTVDNBQ1RsaUtSZ1hRV0J4cmYwLUlqS1NkM1VRM1E0YjBvNWh2aWJDQkRTYUg2R3dlUUk1T2ZV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-15 14:06:00"
-    },
-    {
-      "title": "劉建國二度對決「雲林張家」　總統赴雲林全力輔選 - 鏡新聞",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12MkxFWmlfaktIMjNMQ2Q5VlRzaXBEVkJ0aUtDa3FFalBwT3RweW1GU2RXY3pMSXRsaDNmTE9YYVBISWpiRHBxbGZPSHM1WlJwckh5QnpZa1jSAV5BVV95cUxQbE9CWFFDejYxS0xrNXF2YV92NWMwWGp3bS1YSGhwdndkRkw2R01xVThkU2VrajhST3hzQ2FRdGtJbmhJNTg3eDhaZUdzOHNiMmFydkVvVnA4V2IzSnZn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-15 13:35:00"
-    },
-    {
-      "title": "盧秀燕訪西螺參拜啖美食 盛讚張嘉郡拋政見讓雲林更進步 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNQzNMZWw2d1lZMGxqaXNyQ1VZMjJKamw0MnF6dTBYa1ItQnhFeVdPdmZHN0ZibVJ1V2tJbllQS1d6Ym9qUlJJVGljX1R1ZDZIRC05UENxVVhfZXlKZ0MzUmgtRnhVY1JqT0hfdV9jYmpIVVZjOENEM0lPNFNYX1g2OGZyZHZYVi1VWFNWZXdUejFSRUdVVVcxZmlTYl9pb0Q0eXZHX2kxRmswWFBTOEU2d25xMjk0V19ZRUxLZUpQNmRLYjJVd2FXM3dDR1dMcjJ4V09oTlg1b2Y0UWNQZUpYcHhrbEVUT0NERlFtZndKU2ktQm9XV2RqNUxZY0E5T2g3YWxlWDVNb3N4OEx5U1lkTWNOdWg0UnpDeXZLUjhQVGotREdQTk1uaUROMzFPdkFWT2xTLVVCUUJiaEhzS2lNSXBmTWZvaHZ5VHJhelYzeGY4Mm9OTjdzTlhlYV8xVmgxVkdJT29RdVh5ZjFUX0ZZRHR4emxrV25zSEZlcUhlRHQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-15 13:33:37"
-    },
-    {
-      "title": "盧秀燕南下雲林為張嘉郡造勢 與賴清德同日拚場 - 中時新聞網",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ib0s3cGoyZ005SlRuVl9VY1VBSGZKNGtkSnlQaFJwVmhVWlY5NlpxeWxTNG9iUGlUNWh6Uk5lT0R3MWVRbGRSaWZ6R25fcUFUVXBUOGkyMjFERTVNUS10YUR2SnVHRnlYeGE4VjR3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-15 13:22:57"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "賴總統南下雲林輔選劉建國，力挺拚雲林縣長打造新氣象 - 中華新聞雲／中華日報",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QWmZnVmxOaXM1eU12NmQzNi1KWU9tRWVVUFpFM0dQSDlOVEZ0dFljaVBVTm90M2lyQnlDT2lUajRCWXF5OG1KT1JPVVlIZDdSekE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-15 16:52:26"
+    },
+    {
+      "title": "賴清德赴靈台山建德寺地母廟祈福肯定劉建國長期爭取雲林建設發展| 政治 - Newtalk新聞",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83aUpzWGZneEx1SXJ4QTlJS0tneEhhRFhudGtFX2JfOTBzWDhxcnR6M1U1WXZoTUZaQS1YNHRvN1BNbXpxbmJMdTVOWDBuWXZjMWZtb3R3NHk4Nlk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-15 16:29:50"
+    },
     {
       "title": "盧秀燕送蒜頭助攻雲林！力推張嘉郡免健保費、小巨蛋好政策 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLVFlwYXJOUmVWTHFfdm5yS0NMNXNQY09rYnB4aGRVRWhQaG5PcUxsbUdLWDRFa3pOVTIxNDRTeV91N1pZRnpIMGc4OGx6ZFQ3cVcw0gFYQVVfeXFMTzh6N2pqVFFUaVVyWlhhLVExQTVuVEpSdTZNbGNMdk9FNlhvVWdDallyVnZCWnpFQ1A2dVFsV0dzVWRTRzhPcFR5TVAyRDlpbjZ3VlhzNmhBWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -657,6 +743,11 @@
       "time": "2026-08-15 15:20:37"
     },
     {
+      "title": "盧秀燕送蒜頭助攻雲林！力推張嘉郡免健保費、小巨蛋好政策| 縣市長議員選戰| 要聞 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLVFlwYXJOUmVWTHFfdm5yS0NMNXNQY09rYnB4aGRVRWhQaG5PcUxsbUdLWDRFa3pOVTIxNDRTeV91N1pZRnpIMGc4OGx6ZFQ3cVcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-15 15:20:37"
+    },
+    {
       "title": "賴清德爆中國將年底選戰視為對台政策指標 喊話鄉親：守護民主支持劉建國| 政治焦點 - 太報 TaiSounds",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvLWJTalhFOTZPUEJTX0RSbjloaVhtUE1yaE1zTkZpaW5xVnN1ZTR2Wk5DMHBGYTlUdjU0aHZMRFV4TWRvbG9wT1NTRDEyN0M1UjRleWc5SERHaFlf?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-15 14:53:17"
@@ -665,6 +756,11 @@
       "title": "中國把年底選舉當對台政策指標 賴清德籲雲林人挺劉建國 | 自由電子報 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mYnQtc3dyQWRfdWczdXVUUFM3ZnFVT2RMSWdmWHNmdDlCQkJUSlRNYkxnZ2lmU1laUU5mMV90WjFuSk5VaDAteDRqVV9hdTlMZmd5aHZn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-15 14:14:33"
+    },
+    {
+      "title": "總統籲雲林鄉親支持堅守民主劉建國　對抗中國打壓 - money.udn.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yMmZjU01kcHltNm5TcFpLRElxaW5iVmFNbDZ4Zmx4UHNLTG5mTnNoaVM5eWNUeGRjRTFfVmQzV0NwbXA4UXNkOWJOd0RRRDFBcjFPMlRGdmhTaW5iWEthSzBGRTgxcmdyOHdEMFBZU3FmdFVHZ1FB0gFfQVVfeXFMUGNWZXV3OXhSUzR5cnQ0SWxsVkRjU1VKU1NEbzJsYUo2YzVTdDJ3WEQyTEp4dkEzNjYwTDV2VEpQTzJGRU1MeHp1NjR6anFBWWpnWlgxSmNyVVN6bEg1RDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-15 14:14:21"
     },
     {
       "title": "賴清德雲林喊「縣長換人做」 大讚劉建國守護台灣主權 - Yahoo新聞",
@@ -725,29 +821,24 @@
       "title": "從活動中心到農水路 劉建國把中央資源帶回雲林，更把建設做到鄉親需要的地方 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zWWJONHh1bFBRSk5tYTJlU2hpcHZFT2dKWkZPWjZjVi1yMExYOXVJLXczcTNSd0RzUlVyVjQtd1gwV3lNYkFhZHYyR1dXMDVuMVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-14 23:50:00"
-    },
-    {
-      "title": "劉建國拚農民福利！地下水抽水電費免自掏腰包再砸800萬修水路 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iclRKSEdBLWEzSmVhN1prLVI1WV9Qa3VDREpTOXJiMWxHTG1VNWVsQ3Vhd211b1RlTGJ6bmpyZ0RfTkM0NkstaDJsekZSdEtJOVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-14 21:14:00"
-    },
-    {
-      "title": "劉建國拚農民福利！地下水抽水電費免自掏腰包再砸800萬修水路– 地方 - 創新聞",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwR2dGSkJMRFVyWlNSdjNvT3o3X1BKRTNlR0dEZTRXdGh6OVE1MGxHc1dUdS1hRlVJMjUzTWpqZUJJMmdpaXFrQ21EZ0Fvdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-14 21:11:47"
-    },
-    {
-      "title": "劉建國拚農民福利！地下水抽水電費免自掏腰包再砸800萬修水路- 政府消息新聞- PChome Online 新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUjJXN2FxQWpsSUlOdVRZamt5OTZFd2FLaGlLY1dmMHRFRXI2V0czV3NkWkFJVkJjUFg4ZExObTRGSTN2MkxFejM4TzJXUnVjZ21nZW5NSDF0UnB2NFF3Ul94cHljSG9jU2s0UGllZXcxYU9Fd2wwNjhTbmZHSkFhdUx6UlJvQmc4RGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-14 21:11:47"
-    },
-    {
-      "title": "討論牆 | （有影片）／雲縣長參選人張嘉郡拋四大寵物政策 打造「雲林寵物良品」搶攻800億市場 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zbjA0dmd2MjVCdFI1anZWMEloRkdURHBUOVJ1SDdTUWdwN01BYkd1US1QOHM3R0dWckgyT190QUc0eGx1N256R2FsQ0V0MnlKLTdTaTRBU0xCT2stZ3pJcG1yYlk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-14 19:50:25"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "#盧秀燕市長來雲林相挺嘉郡❤️ #一棒接一棒讓雲林幸福升級✨ 嘉郡很開心陪同 盧秀燕 市長前往 西螺廣福宮老大媽 、西螺福興宮 參香祈福，和 張麗善 縣長、許宇甄 委員及地方鄉親一起祈求風調雨順、四境平安，也感受到西螺鄉親滿滿的熱情與人情味🙏 這次盧市長來 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxOcUtseV9jRUJJa1pXR2NxTEpveW5OQkpLUHVyUmh0LUdYSDZyZ2J1d0ZRVlVvYkc0TFVfRnY4TW5IYkRXSEhTSFpBTERMVlZrUUZLcGs1OUVLOWxUR2E5S2VQbXpmbHRVbmQ1RlZhMzc2YXpRTUZRWG5rN1J1bUFFYWRUb2JBTE51eVdTMHh4YWJYUmd4RUtnejFPVVFxUFlWaU1rSi1IRDVfR1FQdmdPa1JDZ2pWc1JIM2FKeXpMeGdJVWo5Q2NyblV2blNlSFZWcV9lWXdVZ3BKbHdSdmV5VmstNTVGSG9lYlpqRFpzRVVmUlFoU2ZZUjdXTHRMamhQRzVoWDRTTnpYdWxBNGQ5SGhuTDNFcXhfMjRaT1FxelRLOXNHNmJxd1JuNEdTbEZ6NTlZTFU2Q2tlNHhDQ1VlQ24tdEk1Z0hUOURIME9iNDVPQ3hxNEFZN2hRekZPcVY2N2t4cjdQa1RsUVZKYndiZWVJd2tDb2g1Umg3bWtwdnhERzZ5RWRrZUtYdTlOZnYtMlRmbDJmZ1FCUTNvUDU0cjZ0aGVUTVlaWTFJRVhvRzdHNnJJSkY5YXcwQWd2YVdZNlhlYVZlLUxpdnRmTFRKN0dXS1c3R3hNZjhFOEpRX1dBbzhrUmZQdE5HNGdVREZMWFExOFVJT080ZVB3a2FmendIQVg5U2xXcFMyR21iYnpaVHRzdHE3c01LNDN4Yi1MUjQxYV9EMkdIZ253dTFJX0s5WjRvX1VjMkpBd3JWaXBpTTFRR2lNTVpwb0RRZnNJOFVTcFVDWnM4VmhBZnk3ejhYRFRqdlpPNHZfcnV6enl5RDRydURfZWFMb0JaeWJ5Rk9BalBYakpueFl4R2JzdlRQcG9pOFpMZWRaSUNiN2NyZ3E1bF9kUVplSzVqZGw3cUM2cktaX3AyU1BGUVRxUk4zc3FRNmRwWGE4ODRGTktoM1JyQVhqNGx1YXFkeDRsbHN6d0lRNkpFVmRoVFhpZzR5U0pUR29pYkt6eFlJdEw5WmVmdkZVRERRSkYtanF4YVY3NlFTOHBEUjFoYkpSYkF6cW5pa3hHVlo0d2FBb3Z0V0JRU05uakNRVzBnZFpheUVndXBiZzZuUUwzVlFURFRWVmRhOEkwaFVXWC1Kb1B2Rm5aWGVhQkdXYmZwaGRUN2ZOOWlCb1pfdHM1V0RtcGJLckU3bEZSaFJkUmFMVVVRRjc3YTZ2N25JZWkyWFBlQkFhN25YSkdVT1JhTTVxWHpNQUhyRXdNb0duRkpGSkR4ajFYVG1wWTViRkdUQ1VuUHZJSlRHNU4tQQ",
+      "time": "2026-08-15 16:27:00"
+    },
+    {
+      "title": "#中共 介入年底選戰？#賴清德 雲林喊話：支持守護主權的劉建國對抗中國威脅 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxOcFFlMjVHQ2F6Sk5lRGNFOTd5MzJTMnBhR3RDMGV3b2xueW13Tm9TajhXZE5fbXM4X3FaV2lCRDBDbm9rVzJuY0NiSHZndnJELVhGR01wR1ZlV0dNTV9FZ1Z2Wm1razFvd2NIMnkxVW1xVy1rTVEwei1vUmgzeTE2M2M0MlU0US01UGJrRHh2RWFHWjRrSU1RRm1qQW84Z2pPNTZWWnhGRE4xSk41SG4tc3ZqMkVnVDczbEMtYlh4eG4zckNEYmJqUG8xbFNsNXgzMVhVLTJxNlcteHFRRkxCNWltd19zSGVHYVg3Sy02dUJ6TV92VzJ4WTZIbUwyeGk3M1Y4VXRqaURONTZfRmt3RnlnN3NHdUtRM3lUQmRkbC1DNDRoRUxNU09hcVFSNnBnMGhmb0NxV3pXSFVBQWRaelotcVhvQjBSbFlwMUY2SDViY3YtTFpkb3ZMODBLWC11c3k0cjFmXzZGd3o4djR1LVB0X1RaTjNUd2JGLWtwakFwVGRQRnJCcURRbzIyUHc1aHJBelF0ZzU4aU9zSWJsR0c5RlNEdUpCamF3VXl6Uk9JNEJHNHYtWlk0cHVHRTJMUVM0OUNNd0pWMmFaRnVSZlFsQjZidDR5XzdRenN6cjlHTW5UY2c",
+      "time": "2026-08-15 15:32:34"
+    },
+    {
+      "title": "台視新聞台. . 【#TTV最新快訊】賴總統赴雲林廟宇參香祈福 出席古坑竹筍節活動 －－－ 假日拚輔選，總統賴清德今天(15日)前往雲林，跟縣長參選人、立委劉建國同台，除了公宮廟參香祈福，也一同出席古坑竹筍節活動。 #賴清德 #劉建國 #古坑 －－－ 【訂閱 #台視新聞 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gdBVV95cUxNNjZzMkU4SDlOb2lRSzNlMjRPaGZ1S2xXM2UzR3YzVWhSRVpVckZ6MU8ydkJlUUpxUkhMVUhQeDJ4WXlDZWJkeDJFdHVVYllaZWJGVUNEelVRQWZsaXI4VWhlTVV4M2hYQ3FJQnhkY1BWZE9hTGhnSTE0eUNacXl5RW1QQ0JJOUtVeTZuT2RBNVlaR01maUZxQ2h5Mmpucm1HbHR4UDFjdEZHT1U5VTFpVms1S3RVMWUtdWhJLUpqUWJud1p2MFE5UldfeEJ4dm1aZ25aYjE2MXBmOUxpc2hTZ0s1X3dkQkRydGI1YkNXcDlZVWJnbVhldkZKRlAxSEEwRDd0d3ZGWnN6TnNNd3p6ZDNXMkFtLWJzMEh2VUMyTGpYUlZRYUx0TWIzUU1sMDBPOXBqQXpWLUtoaXQxbjZyOFZXOVQtbTN3U3RscXFzWVhTYlY2Vk44aEhHMXdTSXN5eFNIbmNBYXhqN0pLUzU5QkJYMEVKOVV4eFZRWkNrelAtOFBOZmo3WjJhR2dBMGtzZVRBRDFVYVZFX2ozZjNSd3pHaGI1YmhKQ25sVzN0OUFDajhpbXpsNGIwRmRKZnFFbFhBYUZsMkdWNzZfcVNaaTYtUzBZYy1LdmVyaWRxOVA1cXluYnpJWEdiQ2t1eFpJTm1idWVYQ2xweUtWUklNUDYzM2JxZ2dQWUpuRC1sS3p6M3plYjVZanJUSXA5a29uSWlGVjJXMWYxckpQTElQQS16YmNiR2E0Vm1uT1lIZEx0ZEk4dTk0XzhwLVpheUc2c0xLSGpMRkd5YTZrbUY5SzQ2V2JqekMwY1B2cy1sZlJ4dzFCbUx3aGpRYW1xSVdwcnVtaGFILWU0U0NRci1yZWR0N2pkSkw1NTZNb2hITTR0S2NUN1BUODI1X2dpR29zdmtyYno1bEN6RlZyVWZzQ2FBYTVNTmRnbmJrNDBEUUdmV2pXYUc5Y2tnRnJ5NjZyNkxSR2lHTEpvZ3VGWkZGekl0Q2tFcXNMVTRPZzI4Q0ZSZnprQmJncE52cVF1azh4NlBRMV9OTHJ5S0J3Mlc5QU5lSG5UNkNjSkZrVnhNYkdpWWdMNm5VZ0dsSmZEZzVxbF81UnlrUGNiVG5hNlZIRnluVm9IbG9OVllSMmFvSkxNS21zNWhnWmdoVUZCdk1iRjJzR2FON3Z1LWxnQUZWRFk4ZTdSdHV1QndCbjU4RFRyWDJuMnRQQm4yeXpsQVFzdTZpSG1ueU1vdm9hQ2RvR04yckFTdmU5dnhyRkZmYUs3U01TSldfVEhwT3VtcnRHWnR4RkxzdUNtWGpLeW44U3B0NEZlRm9RSGc",
+      "time": "2026-08-15 14:43:27"
+    },
     {
       "title": "中天新聞. . 【每日必看】張嘉郡搶攻毛孩經濟 拋四大政策打造人寵共融 對許多家庭而言，毛小孩已經是重要家人，國民黨雲林縣長參選人，張嘉郡今天(13)，發表四大寵物政策，除了將\"\"雲林幣\"\"加碼為\"\"寵物幣\"\"，更結合在地農產打造寵物糧，並成立數位平台，整合醫療與 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQbUFBeHVPTHhTRC1pbUFFOWd5WGplc25ndTZUQUQ1VklPODFoMFAwTWpRU04wZFV1cWtQem9zeENYZGI2MDZIOU5MLXlTV2hmVmNsMXV5Q183VlJGQS1DNmVHdmZjWm1FRUZDRWQxR3NYQ21HMFlmYlVfRm41Nk0yTGZieUctdWFrVDZOclQ5ODZaUHpNWnhlc0swdUtqSGl1OUhzSXZ3SzZ3SUcxSzliQlZzN3c4NEFqYlhZTU9nMy1DanRtdklFdEFrWl93WWltd0hUSVFEOUx1R3ZMLTlGa3l5MTRLRE5SVXpYaXIzY1JaNlJwNnJQZXBIVlp6LV9aUnhxWjFaaFV4MElYbS1TeFZYQzVEeDY0WDROOHBiUkpLTDBkSXVPN3JlZ0lVdkoxeGhvQWJkTFU2bnNMWHlLdG9RWUNLNGF0OHZ1b0psZ3RCZkhTNmVLNDRlRWFyVV90RGI3RjFRVVU4ajBTWklhTWt5Qng4a2toTVVCLXMtd3RLU1BpUEx6WA",
@@ -832,24 +923,19 @@
       "title": "矽品斗六擴廠砸千億動土 張嘉郡：爭取科技廠進駐 https://cnews.com.tw/247260811a03/ #張嘉郡 #擴廠 #斗六 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOVTcwZldJSUs2VjBxbEN2dEVHc3NZZUZPZVlZcWhzWW12ak9kcVBQV2hPZWxSVFg0aXJRc1lDRFBpY1MtcFJjTXktS1BIbmhHLS13Qi1fZ3kwaVFpcE13bEx3STZOekdvZlB4RU90S045RlViX2NCRXdoMS1Nc05raWFYZ3BoZ1QwVi01WTVZZjJUVHhWZ0ROMzUwMmtmRWJtaks4ZHRMQjE5OXZYdHNna3M2OGFCX1RLNUpydTRpb3RNeGhLMk1EbzBOS195VURLenJ3YmgtWjNrWFdHQ0NQREltS1hyUl9iOWlkT2ZwdUJtVzBPWXBUVFlQSjNVS3RnTkNDcE1GN2Mwck5FckxzZ2U5eWo2QzV3OGJJbkJ6UDgzYVpOUU5vejlwczNqQklsc05QSXJCN21DcUw5OXlBaHVHREpSUjFTSzRnM1pMeXZuSUlvUWpPZEFVV2VfQXFveV9LMHJFaTZOUFZRX3NvVzZwQjJsM296S0E5SVl3N29DUkliMGdKWmVjN3Bldm5MQXROUlpZUXJoR1IteEYzaTljZ0JVal9jM1hrcGZVN1Y3OUo0NTgyOHU3VGxPUQ",
       "time": "2026-08-12 01:00:25"
-    },
-    {
-      "title": "國際封測大廠矽品精密今（11）日在雲林斗六舉行擴廠動工典禮，立委張嘉郡出席表示，矽品持續加碼投資雲林，不僅代表企業對雲林投資環境的肯定，更是雲林產業轉型的重要里程碑，尤其是矽品這次投資規模達1000億元，創造2200個就業機會，其中有8成要進用在地 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMikwhBVV95cUxOemtiSDRxN2ZEanl6eGd2cTlWOURnZUQ3c0Vmb1Q2RzljU1UwSFhXandteFV4UVhISGVhLVAxRHFnUzI5NzliN19XODR5dVZGN1ZKNEQ0alNEdHR0SUZxdTh0dm9qZDZzVmtySTRJMXkydkRPekxMRnNNbUFjZVN4cHpMTkZ2UEFBVFlMWlhDZGh3dzl3TklvTGg1Q2Q4bWhlUFVuZzlsNmpMM1lLVkFadzZVWVVBbExwbzZUempxRVMxcGJ1ZWUtc09nZmhHU2xUM0xBRmJkQ1RoclNEb0JUN3gtRlpSUXJ1OXVXRG1TcFZIbzZNaUx5eXpkbFlFMEpwemJjV3hYbmR2S0hXN2RqeDhPRUlWcTdpY0ZpTXZ2bG9ndjItcm1xd19MckZMMUZHY2ZaSEIzb0ZIMWF2c3JTRDcyd2tsNUhHQzhnd216WFNEMDdZdVlKZFNyVVlxT1pUUzk2SnpFemoycDZCbHpGVnhpbXZIWFBFaGtyXzlaRDFuaGNqYVk5OFlEYkZVUW1TeGQ5TjdrMzFsTGszWVRFUy11b0RZbUo5OHU1dWhaQ0xxb1VBd0pfRFR0dUNGTnNwTGVuZzlzY001MHVKaWZFWnpraHdmTjlXWl9LaHhaUFRua2d2Y3piOVpsdnQ3SHJob25DeVF0Q1h3SGpQa0kzc2lOVkZPQWVKY2x5VHdjMzhmSHFXX0RnU0lESEZ2RXVmdk9JRWtlSnB3b0E3VExROF9UamtCNjJrNVhvNkUzR2lPWFBXNlVOQUdSNEpCZF9FNW4yb1FoMjF2SmVKR1pRQ1JCZ213MWJqVXNEMElZbC1XTHE3Mk5fY1ptUURQbTlyZnBfOEpTLVpkbzUtN2JzVTd5ZmR1bkxpTW9CVndGRTd1dF9oX01Uc3lSM3Z4bHo2bGtlZkdJNjgzeE0wNU1weFJZME13OXU0a1haNDFGS3d2SExHWWtQV2ZzTTBUY2t1elV1VEc5Um16VGw3bFBrNTl4WG9OME5oNG1Hcm5PemZXSkdDWHJ4Mk9kZDIyR1lhTG5SUzh6RldwaGlpbzVkSWlXZXBPRGxiY2FELUdJZzgyVVRnSkREdk01QXl4ZFBya1hFeC15VFlxbkY1aE96THZ3bF8xRmtWTXVTSWxabVdrbE9uajNDeWZfUC1odlRxZlNVaksyTkFFeTNUYVdRbmFEM1lyRWpCMzFqMFNBUm8xTlNYTlpkVHZIb0VmVHVmTnZEdkdBc0VHUVc4TlFEWWJ3bU0wcU1CV29vRmNxRzdYTnRwaFpMT01uSG1hUXM5NXFCaGVLLVNVVDZpc2hHOVBlOHRBV2gtemlyZERzWUJrVl9naGttZmVWcWE0aHMzTjVhdXdta0R1MHQ5Z21Fdnc1SQ",
-      "time": "2026-08-11 20:55:02"
-    },
-    {
-      "title": "「吃飯配沙」➡️「一年剩2天」｜濁水溪9年治理大翻轉 ​過去東北季風一來，風沙一吹就是兩個月；經過 9年努力、中央近30億投入，如今最優紀錄一年揚塵日只剩 2 天！✨️ ​甚至連極罕見的「東方白鸛」和超過 250 種野生鳥類都回到濁水溪，這代表生態真的恢復了！🪶 ​ - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMixAdBVV95cUxQSzRzeXRIS0pDY2QzQmtHXzV6dmhZbUhQaGxhcmJwSVhGVDZ6cnJ0cE9faUswZ2pwSmo1QkR2bmxtZ1lfc0Z1bElIOWhWZjR4ZDdhOFA5WHBXR1J6S0RJSW04ZjVSODEzeDVFNmJwWUVOWTA1LXVPRGt1VEtRVmNFSUF0bFFOMkhZYWsweXlfbE1iMG1FdzE1Ums1T0NtaGxtLW9VQVdCQ1pJaF9ONExXLU5mWmtrOTZmcE5Vb3pxM2k1YmV3ZmlwVHdzdVZnSVk1dWN4X1VTNWtLbThQaENfSXpHazk3ZWR1OE54aGN5cTRTdG1xUjNYVXRzQlR3SWFteU1MbVg0NGdBaDNHRzMyQjIyei02TlNseDFlQ3VvSTJwdDBCRkRxY2RHZTZZc002NDVPRDRLOGZFTXBZVnBkLWViT2FwMHRXMmJsNDVDeGVhTW54cEpKby1GTXNfZDBkMnJmYzFuS2xWXzQ4X3cwb0tRUVh5RTlidjctVmlMV3g3ZmQzVDNDLU9BMC1feTR6TldoUVQ5ZkZ0VHZacWlfUkVabHFzNC1TQXQxcm1ySVlZMmQ1MWtrR0FmRUhUblFZRkRUY1JGcUh5VXB3MnVTSjRqS3lnV1A5cXNLWlNuYXdMOENxczM0R3o1M0FKYklWNHdGenFIczRmOFpkSE5uQ1MtcFZhT3NDZnRLV3lhN3hOWTlRY3FFdFBubTRmWm44RXZRLUhoSm9zZW9keFQ1ZUxkeU1iWWJrOFZRa1BTN1gwdHY5Q2swMDQySnpDV1kwSjNNZDRZLWI2bWI3SE9SUXRPMDBVWVpwME5fVWo3R2tFVS01NW1zU1ZPQUNva0dGekU2Tk54U1VpWjlnbThkTWxHUVdWb01KOUx1MVc3OHFrNHBpbEMzU28zb3VOaEFmbGNpclZhMk9LTjVvcG1wZl9ackgzOVRfb0haX2taTGNFcFVrcXdlQ21FZnFWeVFJSXRCN2xJZ0pxUGZ6MGVHNFRBUHpEbDFERzNGTFNxX1dYNkYtRllLLTZVcWxxOGxmOXBwTTE0XzZhYkdlNmNQQ1F1eDlaOTNhcVpHM05iOENCd2p1YnQtSF9XSm83S19aYmJKeElkcUxhdFpuOVZIT2luUm5WNEQ4YzYtTGtMWFp2SWpyQjBETEZPdUxxZDB6bVZEVG5iTHhEck5VNHVOYWZ6aEJla29jX09SY3BoaDZvcnpYelFBX3dwNzByMXhFd0JnZE5GVVJWMFMtZWdMTmlwbld1LUxsblJVenVLMjVfVmhj",
-      "time": "2026-08-11 18:49:03"
-    },
-    {
-      "title": "#六房媽紅壇動土啟建🙏 #百年信仰凝聚雲林人的心❤️ 對許多雲林人來說，#六房媽 不只是一份信仰，更是一份從小到大的陪伴。 從長輩牽著孩子參拜，到一家人一起迎接過爐盛事，六房媽陪伴一代又一代的雲林囝仔成長，也承載著大家對平安、順遂的期盼。 「#有神無廟 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxNVllNQ2xoT1NXaVRLcVlINjdGU253QnctMTJEZkM1MkZOaXYweXE1TUNkbTdSdkhCc2VVT2J0RDNRYUFtQ0tDNXVXakkydUR6OW9yd2szaGJzZjVYdjNiT3lZZlVHdENMLXFSRDlhRDE1UHRaTnVEQlJySnNfaFBFOFc2RUZpVDRSYi0weGpDeWpieEs0SGRBWnYzRHJPc3lLMk5DRDZZVG0zRFpwNjFvQmFaTWpWRXlGMmtHUnBUR1UwRU1rdkx1RUttS3c3WmRweFhDa2hQcDEyb0pjZklmLXR4VkxablhnUVRGVXVTd2VsSTNnOVBld05RUWREVXdLcFNKM2VqeFZVTC1kYnI5akxoWmZ2cEttVDNxQXJQNVJ5b3ViR2FCcThXQUhKZzgtOTFXOHhVWms4WGFBWFh4WGZrX1A4LTBPeE5GMklFSnBTb1BwVzljbnJnWmQ3bTM5aVV5b0t4YkNKblRlenpJSVpKWkNldXI4MndXT2dzSWlMYjdCbjhNSjVGREtYcmNIS2pZWEMzR3FtWFc0cmwzamZLaHZPNGNLajBMb3BzOVFMaWpsbENMQjlISi13OVM5WUhaYmVOWDl4bTF2RnJNYUZ4MVNqWTNJWkhoTF9jNFRrZGt2a0VDa1l4RWY4cWl2c3NTLVdTall2ZDkxQUhjQnVVVHhvSXJPTmtmYVdxSWtraVhFVjVfVEttcnVpUkhubjBDVkl3QXZ5VlpENEtYazVmLUNxSUFnbjBpdk5CcDhUS1FTemt2R1RPZVhYTWx6dC1xdnBzb2E1ejVxVGlJSWRyX0JrbHhzWlN6RHBKNl9SX0lwRHlQUkU5eDI4UzNvOVE1czk5TXpuX3RFaXRFSzIwQ0JVTHBLWVdjMl8zcV9INmE5WWNSeVN1RUQteDlUdW5IWWpuRnVMUEVFRnVyNkpDMWZPRlJwdlNxNnVPZmtjLS1rSXJBaEptNlctRFMwOURSTElQVTJGMmlyWDJMckdGXzZEczNrNTY1TkRseFlEM0xKLXpoNGk1S2ZNTE1MY2cza3g3Y1Fmd0lZaVBBODBpUDlxaXgzdXpLQXA4LUpuN1BhaEZubUhudG9hTXduOF9FbERVNzVuQXFhanFnNDJNeGNicmk5dmo1cGloUkNUdEtnb3NmMmxlSVQ0Y3pSTGtwOTRmeVd3WWRSSnJ2cjBrNk01M0dsZFM2UVB4cnVFNkRJY3VVMER2Z04zNVBqSmVGeFFfNy0xWmpNTjhyUlJ4Y0ZEUjhUMk92S0wtdHhCeEEyVV9HWE5aNjJsSTE4OGl1cVUyVEM2djFMUFBBZXFwUXBvUHBsUEh6NS1RUWZIQ3BhYnh0RWJSSGtRRVkwYWR3dE8weGZfcVprbGJEZnBlcGxSRnRkNHRDeWQ2eHhHb1BS",
-      "time": "2026-08-11 13:25:49"
     }
   ],
   "latest_news_20": [
+    {
+      "title": "賴總統南下雲林輔選劉建國，力挺拚雲林縣長打造新氣象 - 中華新聞雲／中華日報",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QWmZnVmxOaXM1eU12NmQzNi1KWU9tRWVVUFpFM0dQSDlOVEZ0dFljaVBVTm90M2lyQnlDT2lUajRCWXF5OG1KT1JPVVlIZDdSekE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-15 16:52:26"
+    },
+    {
+      "title": "賴清德赴靈台山建德寺地母廟祈福肯定劉建國長期爭取雲林建設發展| 政治 - Newtalk新聞",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83aUpzWGZneEx1SXJ4QTlJS0tneEhhRFhudGtFX2JfOTBzWDhxcnR6M1U1WXZoTUZaQS1YNHRvN1BNbXpxbmJMdTVOWDBuWXZjMWZtb3R3NHk4Nlk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-15 16:29:50"
+    },
     {
       "title": "盧秀燕送蒜頭助攻雲林！力推張嘉郡免健保費、小巨蛋好政策 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLVFlwYXJOUmVWTHFfdm5yS0NMNXNQY09rYnB4aGRVRWhQaG5PcUxsbUdLWDRFa3pOVTIxNDRTeV91N1pZRnpIMGc4OGx6ZFQ3cVcw0gFYQVVfeXFMTzh6N2pqVFFUaVVyWlhhLVExQTVuVEpSdTZNbGNMdk9FNlhvVWdDallyVnZCWnpFQ1A2dVFsV0dzVWRTRzhPcFR5TVAyRDlpbjZ3VlhzNmhBWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -861,6 +947,11 @@
       "time": "2026-08-15 15:20:37"
     },
     {
+      "title": "盧秀燕送蒜頭助攻雲林！力推張嘉郡免健保費、小巨蛋好政策| 縣市長議員選戰| 要聞 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLVFlwYXJOUmVWTHFfdm5yS0NMNXNQY09rYnB4aGRVRWhQaG5PcUxsbUdLWDRFa3pOVTIxNDRTeV91N1pZRnpIMGc4OGx6ZFQ3cVcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-15 15:20:37"
+    },
+    {
       "title": "賴清德爆中國將年底選戰視為對台政策指標 喊話鄉親：守護民主支持劉建國| 政治焦點 - 太報 TaiSounds",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvLWJTalhFOTZPUEJTX0RSbjloaVhtUE1yaE1zTkZpaW5xVnN1ZTR2Wk5DMHBGYTlUdjU0aHZMRFV4TWRvbG9wT1NTRDEyN0M1UjRleWc5SERHaFlf?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-15 14:53:17"
@@ -869,6 +960,11 @@
       "title": "中國把年底選舉當對台政策指標 賴清德籲雲林人挺劉建國 | 自由電子報 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mYnQtc3dyQWRfdWczdXVUUFM3ZnFVT2RMSWdmWHNmdDlCQkJUSlRNYkxnZ2lmU1laUU5mMV90WjFuSk5VaDAteDRqVV9hdTlMZmd5aHZn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-15 14:14:33"
+    },
+    {
+      "title": "總統籲雲林鄉親支持堅守民主劉建國　對抗中國打壓 - money.udn.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yMmZjU01kcHltNm5TcFpLRElxaW5iVmFNbDZ4Zmx4UHNLTG5mTnNoaVM5eWNUeGRjRTFfVmQzV0NwbXA4UXNkOWJOd0RRRDFBcjFPMlRGdmhTaW5iWEthSzBGRTgxcmdyOHdEMFBZU3FmdFVHZ1FB0gFfQVVfeXFMUGNWZXV3OXhSUzR5cnQ0SWxsVkRjU1VKU1NEbzJsYUo2YzVTdDJ3WEQyTEp4dkEzNjYwTDV2VEpQTzJGRU1MeHp1NjR6anFBWWpnWlgxSmNyVVN6bEg1RDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-15 14:14:21"
     },
     {
       "title": "賴清德雲林喊「縣長換人做」 大讚劉建國守護台灣主權 - Yahoo新聞",
@@ -929,26 +1025,6 @@
       "title": "從活動中心到農水路 劉建國把中央資源帶回雲林，更把建設做到鄉親需要的地方 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zWWJONHh1bFBRSk5tYTJlU2hpcHZFT2dKWkZPWjZjVi1yMExYOXVJLXczcTNSd0RzUlVyVjQtd1gwV3lNYkFhZHYyR1dXMDVuMVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-14 23:50:00"
-    },
-    {
-      "title": "劉建國拚農民福利！地下水抽水電費免自掏腰包再砸800萬修水路 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iclRKSEdBLWEzSmVhN1prLVI1WV9Qa3VDREpTOXJiMWxHTG1VNWVsQ3Vhd211b1RlTGJ6bmpyZ0RfTkM0NkstaDJsekZSdEtJOVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-14 21:14:00"
-    },
-    {
-      "title": "劉建國拚農民福利！地下水抽水電費免自掏腰包再砸800萬修水路– 地方 - 創新聞",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwR2dGSkJMRFVyWlNSdjNvT3o3X1BKRTNlR0dEZTRXdGh6OVE1MGxHc1dUdS1hRlVJMjUzTWpqZUJJMmdpaXFrQ21EZ0Fvdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-14 21:11:47"
-    },
-    {
-      "title": "劉建國拚農民福利！地下水抽水電費免自掏腰包再砸800萬修水路- 政府消息新聞- PChome Online 新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUjJXN2FxQWpsSUlOdVRZamt5OTZFd2FLaGlLY1dmMHRFRXI2V0czV3NkWkFJVkJjUFg4ZExObTRGSTN2MkxFejM4TzJXUnVjZ21nZW5NSDF0UnB2NFF3Ul94cHljSG9jU2s0UGllZXcxYU9Fd2wwNjhTbmZHSkFhdUx6UlJvQmc4RGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-14 21:11:47"
-    },
-    {
-      "title": "討論牆 | （有影片）／雲縣長參選人張嘉郡拋四大寵物政策 打造「雲林寵物良品」搶攻800億市場 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zbjA0dmd2MjVCdFI1anZWMEloRkdURHBUOVJ1SDdTUWdwN01BYkd1US1QOHM3R0dWckgyT190QUc0eGx1N256R2FsQ0V0MnlKLTdTaTRBU0xCT2stZ3pJcG1yYlk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-14 19:50:25"
     }
   ],
   "person_sections": {
@@ -1067,6 +1143,11 @@
           "time": "2026-08-15 15:20:37"
         },
         {
+          "title": "盧秀燕送蒜頭助攻雲林！力推張嘉郡免健保費、小巨蛋好政策| 縣市長議員選戰| 要聞 - UDN",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLVFlwYXJOUmVWTHFfdm5yS0NMNXNQY09rYnB4aGRVRWhQaG5PcUxsbUdLWDRFa3pOVTIxNDRTeV91N1pZRnpIMGc4OGx6ZFQ3cVcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-15 15:20:37"
+        },
+        {
           "title": "盧秀燕訪西螺參拜啖美食 讚張嘉郡長者免健保、雙語政見「讓雲林更進步」 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNSGN3WEtFekIzLWZ5XzNOMnRpOXRfM2huUlJUMXZPWVlMekwwVlRScXp4MU9HQ3RkVjlzbVNkMnR0Q3ZZOFBxTjVfWmdTbnBPa1lPSzJpVUZIRV9nZ01Zb2FuLTJPOUJpbTZaZXhZOUMza1BLNmRWbU1KRmVFNHdmN3gzSm1UMmJtcFhDcGl1b1FZanpXWTUtWnFLanlYODNOYWtYSkRIQVBKZG5nbUFDa2h6VWVBOUU1SWVleElYTC1OWjFiQlg4bTJnbk9vZTFCbTQ0R0pTWHBpT2htckF6TnloNjJZYWJZTzRGMnM3eURTdTgyWHliMmRURWJCSTJXdUxYZV9qOUFtMFhKWGU3b3c2Z1Z0OXhzQWpaUjlWQmlGQjRXUk1Vb2h3VlBHVFo2N1NkMmFPNlhsVjVpR1diMmlFVnd4bS1hVGtXbHRnLWRRRHJCcEFOZGc2X25oVFlselRUSFZJZ244M0Z3M0diWGVseGlVeERsN0QyTDExNUZRcjFGX0V4TS1tNVJPUl81YjctcnphRmxRYi1XSXQ5cmlfZHZvV1dpWWtwTDFFWTBmZWMxdmswaHczOUlLZ0U?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-15 14:08:48"
@@ -1150,16 +1231,21 @@
           "title": "雲林縣長參選人張嘉郡提寵物政見 打造人寵共融讓毛孩家族超有感 - UDN",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LU0pRVVhvQ2owU3hGM1F3S25mYkZ4ZnNrMUxDZnlKVEFtSkFlTEEwN2xKR0xYN0o3OWRaVDFvNUtXRTdqVDFBamhyc2hCOUlx0gFWQVVfeXFMUFh0bUwtbndvdmtDUEdlVGdETGxXS0NYQ2FOSjRzMFBPVGl6Nlk0bGY1OUNKSjJuUGJYNkJmVHNSeFJhTG5TUUJTR1ZpQTY5MWVXNlpZU2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-13 16:44:22"
-        },
-        {
-          "title": "雲林縣長參選人張嘉郡提寵物政見 打造人寵共融讓毛孩家族超有感 - UDN",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TVHV5bFZuOTBXY3NObnQtTGEtNVY1YW9kcWl0MHEyb1pFeFJWMFByTmYyaURiZlZrYzAyVUIxVzJaeUtuQ2pBX0NEZjNRQTd3WlhnYUQ4akhqUExsSXdsNzNtLWkwcFN0N1ctSnFoSnVRVjdOQ2R5OVZkZlHSAVhBVV95cUxQRU5WbEVmbERHUzVuTWswaEtIWmFaamgwT2V6bmF3WmFVYUY2NjlZRFU3bkJYU0VaM29qQ1RtUFlEb3ZneE1jeFdIMU8wVlRLMHF1SWlqSlVm?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-13 16:44:22"
         }
       ]
     },
     "劉建國": {
       "facebook": [
+        {
+          "title": "#中共 介入年底選戰？#賴清德 雲林喊話：支持守護主權的劉建國對抗中國威脅 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxOcFFlMjVHQ2F6Sk5lRGNFOTd5MzJTMnBhR3RDMGV3b2xueW13Tm9TajhXZE5fbXM4X3FaV2lCRDBDbm9rVzJuY0NiSHZndnJELVhGR01wR1ZlV0dNTV9FZ1Z2Wm1razFvd2NIMnkxVW1xVy1rTVEwei1vUmgzeTE2M2M0MlU0US01UGJrRHh2RWFHWjRrSU1RRm1qQW84Z2pPNTZWWnhGRE4xSk41SG4tc3ZqMkVnVDczbEMtYlh4eG4zckNEYmJqUG8xbFNsNXgzMVhVLTJxNlcteHFRRkxCNWltd19zSGVHYVg3Sy02dUJ6TV92VzJ4WTZIbUwyeGk3M1Y4VXRqaURONTZfRmt3RnlnN3NHdUtRM3lUQmRkbC1DNDRoRUxNU09hcVFSNnBnMGhmb0NxV3pXSFVBQWRaelotcVhvQjBSbFlwMUY2SDViY3YtTFpkb3ZMODBLWC11c3k0cjFmXzZGd3o4djR1LVB0X1RaTjNUd2JGLWtwakFwVGRQRnJCcURRbzIyUHc1aHJBelF0ZzU4aU9zSWJsR0c5RlNEdUpCamF3VXl6Uk9JNEJHNHYtWlk0cHVHRTJMUVM0OUNNd0pWMmFaRnVSZlFsQjZidDR5XzdRenN6cjlHTW5UY2c",
+          "time": "2026-08-15 15:32:34"
+        },
+        {
+          "title": "台視新聞台. . 【#TTV最新快訊】賴總統赴雲林廟宇參香祈福 出席古坑竹筍節活動 －－－ 假日拚輔選，總統賴清德今天(15日)前往雲林，跟縣長參選人、立委劉建國同台，除了公宮廟參香祈福，也一同出席古坑竹筍節活動。 #賴清德 #劉建國 #古坑 －－－ 【訂閱 #台視新聞 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi6gdBVV95cUxNNjZzMkU4SDlOb2lRSzNlMjRPaGZ1S2xXM2UzR3YzVWhSRVpVckZ6MU8ydkJlUUpxUkhMVUhQeDJ4WXlDZWJkeDJFdHVVYllaZWJGVUNEelVRQWZsaXI4VWhlTVV4M2hYQ3FJQnhkY1BWZE9hTGhnSTE0eUNacXl5RW1QQ0JJOUtVeTZuT2RBNVlaR01maUZxQ2h5Mmpucm1HbHR4UDFjdEZHT1U5VTFpVms1S3RVMWUtdWhJLUpqUWJud1p2MFE5UldfeEJ4dm1aZ25aYjE2MXBmOUxpc2hTZ0s1X3dkQkRydGI1YkNXcDlZVWJnbVhldkZKRlAxSEEwRDd0d3ZGWnN6TnNNd3p6ZDNXMkFtLWJzMEh2VUMyTGpYUlZRYUx0TWIzUU1sMDBPOXBqQXpWLUtoaXQxbjZyOFZXOVQtbTN3U3RscXFzWVhTYlY2Vk44aEhHMXdTSXN5eFNIbmNBYXhqN0pLUzU5QkJYMEVKOVV4eFZRWkNrelAtOFBOZmo3WjJhR2dBMGtzZVRBRDFVYVZFX2ozZjNSd3pHaGI1YmhKQ25sVzN0OUFDajhpbXpsNGIwRmRKZnFFbFhBYUZsMkdWNzZfcVNaaTYtUzBZYy1LdmVyaWRxOVA1cXluYnpJWEdiQ2t1eFpJTm1idWVYQ2xweUtWUklNUDYzM2JxZ2dQWUpuRC1sS3p6M3plYjVZanJUSXA5a29uSWlGVjJXMWYxckpQTElQQS16YmNiR2E0Vm1uT1lIZEx0ZEk4dTk0XzhwLVpheUc2c0xLSGpMRkd5YTZrbUY5SzQ2V2JqekMwY1B2cy1sZlJ4dzFCbUx3aGpRYW1xSVdwcnVtaGFILWU0U0NRci1yZWR0N2pkSkw1NTZNb2hITTR0S2NUN1BUODI1X2dpR29zdmtyYno1bEN6RlZyVWZzQ2FBYTVNTmRnbmJrNDBEUUdmV2pXYUc5Y2tnRnJ5NjZyNkxSR2lHTEpvZ3VGWkZGekl0Q2tFcXNMVTRPZzI4Q0ZSZnprQmJncE52cVF1azh4NlBRMV9OTHJ5S0J3Mlc5QU5lSG5UNkNjSkZrVnhNYkdpWWdMNm5VZ0dsSmZEZzVxbF81UnlrUGNiVG5hNlZIRnluVm9IbG9OVllSMmFvSkxNS21zNWhnWmdoVUZCdk1iRjJzR2FON3Z1LWxnQUZWRFk4ZTdSdHV1QndCbjU4RFRyWDJuMnRQQm4yeXpsQVFzdTZpSG1ueU1vdm9hQ2RvR04yckFTdmU5dnhyRkZmYUs3U01TSldfVEhwT3VtcnRHWnR4RkxzdUNtWGpLeW44U3B0NEZlRm9RSGc",
+          "time": "2026-08-15 14:43:27"
+        },
         {
           "title": "劉建國 (@liucnko) - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mMXlndWVvcFVBMnFtUGJLbnB0TmRUenc4bThEMnlLQ2JSU25Xa3NESHZ3eE1jcGhvd3FwMnRIaUhmaGF0aUM5VUJRdWpIM1owUmNHTDdKMmVlSHFQMWZPdUl3OElzX212eGoyazFsR1hVZUVmY05sN2c5MDd1UQ",
@@ -1249,19 +1335,19 @@
           "title": "台視新聞台. . 【#TTV最新快訊】蔡英文參訪雲林2醫療建設 劉建國盼四位一體升級 －－－ 雲林縣長參選人劉建國，27號邀請前總統蔡英文前往雲林，實地了解「臺大醫院雲林分院虎尾院區二期擴建」及「國家高齡醫學暨健康福祉研究中心」兩項重大建設最新進度，並向蔡 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNMnBZZDdfdjFPYUZCcW15Q2kzeUpBYUdUM0JTbVZFMlVQZ2JJekZtOHVDVzdraDdBYVJqLTlWbG9Sc21RMlh3NEEzX1E2OVVrQXdRSU9oVUpNZjNNeGt6d0JPLW50VjRrNkxpdXJ5VS1icVBuZXlXeDZ3dkdjTDdZVWNwTmkweXktUG81WHdGdjJBTVdFR1Z2OEhHQVFCQmd1dk9VYnNiZlZFTXMzZXItbXkwWVZPMW9saDAzTEhyRm1uV29haXpPUXl3bTd0NjQ1OWU0N1J3UlJCYmRaSEVuN21SZXhlVFVpci1IMjBQd09WakFnTTdEN2c1b0trRnVhbTltcXpZNENEM2FPTHF1bXBISTNxVXdpaGd0Ym1OZENQWThwZm10NGN4SFo5THJSUE84VDlvWEJtRnVIWmNHSEpTaGRYOXVzeEZZTDc2cFFqTDJqd0hBOUZiYW5SRGlLZGR5MXhkUEdSM3JQaXhXaGVmMGxodkN5OXl6Zkc4cWp1WXJFcS1SeEVKMG82U0ZuYUZpTTZuY3c2eWhl",
           "time": "2026-07-30 17:18:10"
-        },
-        {
-          "title": "一個地方的發展，除了建設，更重要的是能不能讓人安心留下來。留下來工作，也留下來生活；年輕人有發展的機會，長輩也能得到完整的醫療和照顧。 這次來到雲林，和 劉建國委員一起看幾項過去推動、現在逐漸實現的建設。它們分別和醫療、高齡照顧及治水有關，看起 - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMioghBVV95cUxPYkE4dmFid1FQRV9ndnhLc0s2N29aNG4xNnA2a01lNlBwRzhfRnRVQzhHVm5RTGpNZU5fYUZYZ2M0Z0RzYldPbExpTVFTWEtSa2diWUREUGMtVks0TmMwUk1ZZTVtRHNaQmFGcjZhbUtnS0RlakFfYUg1WVdkMVVVMHlLa3hucWJ0NVFOQnlUN1ZxMkFWTzBueFFmVTRDa3hXQ0RGalpuWmEzZWN6elRRaU1ZcHV0ei1jYVB2ZDZTcnhCRGM4OGdpVW1xeUJCYWg5dVVEVGdHRnRyYWRvc1N6MmdBNHdaRVRDaXNLNllsOWxRWGxNVEJDVEU0OEduLUlhdlZvSlJYVWhJampwazdfc2hlMUJjMzdlbnZXNU9rRnJ1cDJzdlFKcDNWLWI0YWprM0NIWW5FYlVZSVNOUmI4TV9fSlc5dV9ZSEdTTkJHRHpJc015NUY0aGx1dHVBLWduc0lkZnhza0pCRXV4d0o4UlNGMmhwNDBJMi1qN1prdFZnUXo0S2REaVV6eUFpV2FJTnlEZjRya0otZFdkbzQybm5pd21ELWwtTTNodzEtb0dpRzhjVEFzdjVkcjlQc2ZrV3l3SWZseUFWNlRaTUpBV2U1ajFnQ2pldVBaNnNVSGZTLXlYQ3JPTXlZeHJ1Zlpaek9HYTZ6RE04clNsOU8xNHZzbnJ2eV9XOFhxUGNBTC1GbUptWUZhUi1YMzVidFlwZjQyaHcxd2dqWjd6Zlc1elRsTWZGTndOb2JqaTBUTVMyNGNFa3ZKQ0EyQnEtSzc0aXRTU3l2MXFtWkh5V2laWExNdDJtU2lkR2NVTW9NMXF1YTE0Mzd5OU4yb3h1LTB1X3NxekpoZnVtbE10N3AyUW5vV3ZTWjFXV2k4NURqVEdGZThOaThzdFM3SmVrN0MwckxmVi0tUDk4QVBlWmgtV0E4dll0UFQwRFNGMTA2dzNZRk9DU3h4bkloeE9GWUVwZTY2YndOLVoxeVZoUjVuUksxOEJBbVdsZGduVUU1UVh2LTkzWnFZSHdxQVFtZzYxaDRoN2Z5ZXNzTE45NHVPeDExamJEY09EZzZCWFYtWEtYS2trTWtjNlJUYVcxemFEQ2tjUm92WUV2cjZRanRod0hIZXJfUEFBdTdGTDNONmxaNEl5dzlDbURUdEFGd012cGd5el94QlVXNnMxaS13X2RXa1ZER2FvZEFLOFc1UEdnTkoweUZsUmdSaElCVk9ydTdaN1IwQ1NmckYtbjJUR0xFSnJORGFWLVozRVc3ekE5QUd0QXVFRzhzbkN0TnJWaVZEYnJ4dFVLdW42QjExOXFkUmFfamhlVzZIM3R6Y1VqdkFkZTlSZ0RhS0VOQURNNHA1M0NpbXdITVV3Z3ZycW52VFVnZXFYTTJfc092U3V6QQ",
-          "time": "2026-07-29 18:02:38"
-        },
-        {
-          "title": "王美惠攜手蔡易餘、劉建國、陳亭妃倡議推動0至18歲成長津貼 每月5,000元減輕家庭負擔 王美惠攜手蔡易餘、劉建國、陳亭妃倡議推動0至18歲成長津貼 每月5,000元減輕家庭負擔 - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi_gZBVV95cUxQVktBUWU3UEEyWkg0RGphN0xsZmdiWC1WOU5oNi0tbG9EU25EZHBOWkhfT1BYWFlZZ0Y5ZlYyYnVFREw1TnF1VUpwY2lRRVA0OGprZWZEVXR3TlU2T0E4RUhSMU1SYUpadERQRjBBSG9ndm5wdlMxNVJCUkZQbklMaVgzakEzRDJOZVlJZkc5MGJIeFk1cE9TR1NFYTI0TkhIYkJHcEI2NEpRQUFTVW5GckJsRkR5dzlRbjJadVVsODNVRjB2bWJDQV95andYdUJ2ZjFKa1BPd3A5SVJYbHVXbENDaXRIY21EUm41al9aTWtmLTNnUVBDdXdVcE02RVF0VXotdS0xRWU1ZTZobVNRWXkzQzBpOXp5X3c4Mmt0MVQybmFoekdLVk1iVUw5bFVWVzA1YkpYRjlJUE9wNmt1X1pxek9XTWpNbGZVcmpRREhyZUZiNjZISk5lMkd6R0FoUTFBQVFzTE0wenlTdk9uLWpZbUtQNTNhd3Z6RzVzZmlsQmtnX1NKbU9qN3ZEaXJqemVEOTJMX1hYbTdxaDNEa1ZOV0hIdEFrZVdoSEx5Zzl1NjB0MTNBZ3AyUGhYQ1czTzZpZVZoZXpEWThBR21oRE5STHhvR0VwUG9LMXZwcGJiMXpfdkRJX0Y0Tm5TVUo3blhBQ3JFWVRYRkVwbGp2cFB2YmFtQXFJRmFuM2pINFp6Qm9jcy12WURiVTdwRVdZUm9RMUdIcVNLUnNUMllpUFdURnBEVmJXbUQ4c0ZBRmRPWThDQ0d6dWh1VC1BMjlMOTQ3RDQ5Q2RzVElMYnRjR0FhQnR6Q3Q2SGU3ay1SbVgxZ2xRVkh6T1BDejllazUya0xiM0xkajJuOTZDTzl3Qy12QkpvbVJjMFpvc2I0dkpqdVF6SkJhUVJraER5SUJNallpd1ExbVM0RDMzN0txQUFKcFVPY0FLWVRjbzJJUC14dF9ZQTNOeWotQkpJNEJCakFYRkkwQzlNNng4WTVWNkF5TmhzRzJhMTFVSXdOZERxQlRKd2NNbG5tWjBXQkVHd0dLZE4yazE2cTFxc3dXcnJRal9UZjh0TExoLVB0eVN3YThCWHJ4cXYwZEdadkVzVi11LUg4RWRjSldkdzYwUGFuRmd2enZ3VGt4SnVKWUpNbldmNDE5OXBneGxuVUVmeGltbzNldzV1WHdBd0E",
-          "time": "2026-07-25 11:08:24"
         }
       ],
       "news": [
+        {
+          "title": "賴總統南下雲林輔選劉建國，力挺拚雲林縣長打造新氣象 - 中華新聞雲／中華日報",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QWmZnVmxOaXM1eU12NmQzNi1KWU9tRWVVUFpFM0dQSDlOVEZ0dFljaVBVTm90M2lyQnlDT2lUajRCWXF5OG1KT1JPVVlIZDdSekE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-15 16:52:26"
+        },
+        {
+          "title": "賴清德赴靈台山建德寺地母廟祈福肯定劉建國長期爭取雲林建設發展| 政治 - Newtalk新聞",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83aUpzWGZneEx1SXJ4QTlJS0tneEhhRFhudGtFX2JfOTBzWDhxcnR6M1U1WXZoTUZaQS1YNHRvN1BNbXpxbmJMdTVOWDBuWXZjMWZtb3R3NHk4Nlk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-15 16:29:50"
+        },
         {
           "title": "賴清德爆中國將年底選戰視為對台政策指標 喊話鄉親：守護民主支持劉建國| 政治焦點 - 太報 TaiSounds",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvLWJTalhFOTZPUEJTX0RSbjloaVhtUE1yaE1zTkZpaW5xVnN1ZTR2Wk5DMHBGYTlUdjU0aHZMRFV4TWRvbG9wT1NTRDEyN0M1UjRleWc5SERHaFlf?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1271,6 +1357,11 @@
           "title": "中國把年底選舉當對台政策指標 賴清德籲雲林人挺劉建國 | 自由電子報 - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mYnQtc3dyQWRfdWczdXVUUFM3ZnFVT2RMSWdmWHNmdDlCQkJUSlRNYkxnZ2lmU1laUU5mMV90WjFuSk5VaDAteDRqVV9hdTlMZmd5aHZn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-15 14:14:33"
+        },
+        {
+          "title": "總統籲雲林鄉親支持堅守民主劉建國　對抗中國打壓 - money.udn.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yMmZjU01kcHltNm5TcFpLRElxaW5iVmFNbDZ4Zmx4UHNLTG5mTnNoaVM5eWNUeGRjRTFfVmQzV0NwbXA4UXNkOWJOd0RRRDFBcjFPMlRGdmhTaW5iWEthSzBGRTgxcmdyOHdEMFBZU3FmdFVHZ1FB0gFfQVVfeXFMUGNWZXV3OXhSUzR5cnQ0SWxsVkRjU1VKU1NEbzJsYUo2YzVTdDJ3WEQyTEp4dkEzNjYwTDV2VEpQTzJGRU1MeHp1NjR6anFBWWpnWlgxSmNyVVN6bEg1RDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-15 14:14:21"
         },
         {
           "title": "賴清德雲林喊「縣長換人做」 大讚劉建國守護台灣主權 - Yahoo新聞",
@@ -1346,27 +1437,22 @@
           "title": "矽品斥資千億落腳雲林拚2200職缺 劉建國:能吸引更多企業 - Yahoo股市",
           "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNUnpNTVJfcmQ2YkJoeUJfaFBoRzlSWmhrdVVaeVFNZU9tUUd2SWlYZXVrQlpZcnFZS0xXMVpINXJEWU9CTkNxOUk0b3lielVHZ1NyWVlzbWVaUGh5aDhONWJKYzNSenNBVDdZVk4tTXQ3Wng2Z1VuT2dxazZDbDloR2tEd2otYWppQTRyREJTbFlDTXNTUWRaNm5UN2tXYnJ4ZnpqaVVFSVMwOWJyZEhsVWVIVmluWGxwbUNvY3N0RERRQ25uSF90R04wd2RjVlBUTlVWNTI5cm0xbHdQRi1GS0UtN2JpM0VWTFFQak00T25EdTNVeEgwQ0RIZ1BmNWV5N3A0TzFvVURqVldsdFpCZGE3VktSWlJOcXg2RlRJNnZMV0tpLVpfMVJCYTFvVWJ6VElyWF93MkNnTHN2bG9aY0xzcTFSNi0zMmRtTHV3Y1dON1F1Ny1JVFdlQ18tZnFqWE5iUDZ6ZkNZbnk1bVlvX0VQOV9udmM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-12 18:37:44"
-        },
-        {
-          "title": "矽品斥資千億落腳雲林拚2200職缺 劉建國：產生磁吸效應吸更多企業進駐 - ftvnews.com.tw",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sN1NwSGtoT09feVB2RkZseldlc0kxT0o3clBhRmwxak9zd2VkTVNMUFVKOTdPX1VVc1BTb0pkZVZwSTh2aUhyYVpHY0hDdjAybGRtWHl5d29FdUxKa3pZLQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-12 18:37:44"
-        },
-        {
-          "title": "矽品斗六廠動土 劉建國:雲林勇敢轉型 - 臺灣導報",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2NHNVdGEzMUN2ajhXaFJaMUpLQ1dQcnFReGpwTjFhWDNmUkhJN0lUUTBONXA5V3hDYlh0aG9kb3BtdFVaa2haZDdnUDdZX3M3bkJoaQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-12 17:47:08"
-        },
-        {
-          "title": "矽品斗六廠動土 劉建國：勇敢、轉型、科技新雲林 又邁向一大步 - 886.news",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kZkFPTXRFS3pTR3A4VVM2RXUtWlJSM0RNMFlsZjl1bWo5Xzc3S0xySDZ5WUY3NFJ1VVAtM0RGb1FETENiblUw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-11 19:58:35"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "賴總統南下雲林輔選劉建國，力挺拚雲林縣長打造新氣象 - 中華新聞雲／中華日報",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QWmZnVmxOaXM1eU12NmQzNi1KWU9tRWVVUFpFM0dQSDlOVEZ0dFljaVBVTm90M2lyQnlDT2lUajRCWXF5OG1KT1JPVVlIZDdSekE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 16:52:26"
+      },
+      {
+        "title": "賴清德赴靈台山建德寺地母廟祈福肯定劉建國長期爭取雲林建設發展| 政治 - Newtalk新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83aUpzWGZneEx1SXJ4QTlJS0tneEhhRFhudGtFX2JfOTBzWDhxcnR6M1U1WXZoTUZaQS1YNHRvN1BNbXpxbmJMdTVOWDBuWXZjMWZtb3R3NHk4Nlk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 16:29:50"
+      },
       {
         "title": "盧秀燕送蒜頭助攻雲林！力推張嘉郡免健保費、小巨蛋好政策 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLVFlwYXJOUmVWTHFfdm5yS0NMNXNQY09rYnB4aGRVRWhQaG5PcUxsbUdLWDRFa3pOVTIxNDRTeV91N1pZRnpIMGc4OGx6ZFQ3cVcw0gFYQVVfeXFMTzh6N2pqVFFUaVVyWlhhLVExQTVuVEpSdTZNbGNMdk9FNlhvVWdDallyVnZCWnpFQ1A2dVFsV0dzVWRTRzhPcFR5TVAyRDlpbjZ3VlhzNmhBWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1378,6 +1464,11 @@
         "time": "2026-08-15 15:20:37"
       },
       {
+        "title": "盧秀燕送蒜頭助攻雲林！力推張嘉郡免健保費、小巨蛋好政策| 縣市長議員選戰| 要聞 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLVFlwYXJOUmVWTHFfdm5yS0NMNXNQY09rYnB4aGRVRWhQaG5PcUxsbUdLWDRFa3pOVTIxNDRTeV91N1pZRnpIMGc4OGx6ZFQ3cVcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 15:20:37"
+      },
+      {
         "title": "賴清德爆中國將年底選戰視為對台政策指標 喊話鄉親：守護民主支持劉建國| 政治焦點 - 太報 TaiSounds",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvLWJTalhFOTZPUEJTX0RSbjloaVhtUE1yaE1zTkZpaW5xVnN1ZTR2Wk5DMHBGYTlUdjU0aHZMRFV4TWRvbG9wT1NTRDEyN0M1UjRleWc5SERHaFlf?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-15 14:53:17"
@@ -1386,6 +1477,11 @@
         "title": "中國把年底選舉當對台政策指標 賴清德籲雲林人挺劉建國 | 自由電子報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mYnQtc3dyQWRfdWczdXVUUFM3ZnFVT2RMSWdmWHNmdDlCQkJUSlRNYkxnZ2lmU1laUU5mMV90WjFuSk5VaDAteDRqVV9hdTlMZmd5aHZn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-15 14:14:33"
+      },
+      {
+        "title": "總統籲雲林鄉親支持堅守民主劉建國　對抗中國打壓 - money.udn.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yMmZjU01kcHltNm5TcFpLRElxaW5iVmFNbDZ4Zmx4UHNLTG5mTnNoaVM5eWNUeGRjRTFfVmQzV0NwbXA4UXNkOWJOd0RRRDFBcjFPMlRGdmhTaW5iWEthSzBGRTgxcmdyOHdEMFBZU3FmdFVHZ1FB0gFfQVVfeXFMUGNWZXV3OXhSUzR5cnQ0SWxsVkRjU1VKU1NEbzJsYUo2YzVTdDJ3WEQyTEp4dkEzNjYwTDV2VEpQTzJGRU1MeHp1NjR6anFBWWpnWlgxSmNyVVN6bEg1RDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 14:14:21"
       },
       {
         "title": "賴清德雲林喊「縣長換人做」 大讚劉建國守護台灣主權 - Yahoo新聞",
@@ -1471,11 +1567,23 @@
         "title": "張嘉郡推四大寵物經濟政策 - taiwanreports.com",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pdGVLTkduV0FpTXBEVHcyX2FOUm4xSS1QQU1WWVJoUjNtdUdSMzNvUURpSExjTnNQcjhEY01HcVVwXzBRT3p5dDhLT1VNLXh6MGxoVw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-14 19:44:51"
+      }
+    ],
+    "facebook": [
+      {
+        "title": "#盧秀燕市長來雲林相挺嘉郡❤️ #一棒接一棒讓雲林幸福升級✨ 嘉郡很開心陪同 盧秀燕 市長前往 西螺廣福宮老大媽 、西螺福興宮 參香祈福，和 張麗善 縣長、許宇甄 委員及地方鄉親一起祈求風調雨順、四境平安，也感受到西螺鄉親滿滿的熱情與人情味🙏 這次盧市長來 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxOcUtseV9jRUJJa1pXR2NxTEpveW5OQkpLUHVyUmh0LUdYSDZyZ2J1d0ZRVlVvYkc0TFVfRnY4TW5IYkRXSEhTSFpBTERMVlZrUUZLcGs1OUVLOWxUR2E5S2VQbXpmbHRVbmQ1RlZhMzc2YXpRTUZRWG5rN1J1bUFFYWRUb2JBTE51eVdTMHh4YWJYUmd4RUtnejFPVVFxUFlWaU1rSi1IRDVfR1FQdmdPa1JDZ2pWc1JIM2FKeXpMeGdJVWo5Q2NyblV2blNlSFZWcV9lWXdVZ3BKbHdSdmV5VmstNTVGSG9lYlpqRFpzRVVmUlFoU2ZZUjdXTHRMamhQRzVoWDRTTnpYdWxBNGQ5SGhuTDNFcXhfMjRaT1FxelRLOXNHNmJxd1JuNEdTbEZ6NTlZTFU2Q2tlNHhDQ1VlQ24tdEk1Z0hUOURIME9iNDVPQ3hxNEFZN2hRekZPcVY2N2t4cjdQa1RsUVZKYndiZWVJd2tDb2g1Umg3bWtwdnhERzZ5RWRrZUtYdTlOZnYtMlRmbDJmZ1FCUTNvUDU0cjZ0aGVUTVlaWTFJRVhvRzdHNnJJSkY5YXcwQWd2YVdZNlhlYVZlLUxpdnRmTFRKN0dXS1c3R3hNZjhFOEpRX1dBbzhrUmZQdE5HNGdVREZMWFExOFVJT080ZVB3a2FmendIQVg5U2xXcFMyR21iYnpaVHRzdHE3c01LNDN4Yi1MUjQxYV9EMkdIZ253dTFJX0s5WjRvX1VjMkpBd3JWaXBpTTFRR2lNTVpwb0RRZnNJOFVTcFVDWnM4VmhBZnk3ejhYRFRqdlpPNHZfcnV6enl5RDRydURfZWFMb0JaeWJ5Rk9BalBYakpueFl4R2JzdlRQcG9pOFpMZWRaSUNiN2NyZ3E1bF9kUVplSzVqZGw3cUM2cktaX3AyU1BGUVRxUk4zc3FRNmRwWGE4ODRGTktoM1JyQVhqNGx1YXFkeDRsbHN6d0lRNkpFVmRoVFhpZzR5U0pUR29pYkt6eFlJdEw5WmVmdkZVRERRSkYtanF4YVY3NlFTOHBEUjFoYkpSYkF6cW5pa3hHVlo0d2FBb3Z0V0JRU05uakNRVzBnZFpheUVndXBiZzZuUUwzVlFURFRWVmRhOEkwaFVXWC1Kb1B2Rm5aWGVhQkdXYmZwaGRUN2ZOOWlCb1pfdHM1V0RtcGJLckU3bEZSaFJkUmFMVVVRRjc3YTZ2N25JZWkyWFBlQkFhN25YSkdVT1JhTTVxWHpNQUhyRXdNb0duRkpGSkR4ajFYVG1wWTViRkdUQ1VuUHZJSlRHNU4tQQ",
+        "time": "2026-08-15 16:27:00"
       },
       {
-        "title": "抽水電費免負擔、農水路砸800萬改善 立委劉建國：讓農民「田要顧、水要有、路要通」 - n.yam.com",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xV2dycHVKY1JBT0RnR3JPX0FJbE5fMW1JSWNFazJLRnNlbEFlb2kxUHRJcC01TmdBMjNfV3FSQlRFTW5BczFfSlBnNlZzSlJJSVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-14 17:15:00"
+        "title": "#中共 介入年底選戰？#賴清德 雲林喊話：支持守護主權的劉建國對抗中國威脅 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxOcFFlMjVHQ2F6Sk5lRGNFOTd5MzJTMnBhR3RDMGV3b2xueW13Tm9TajhXZE5fbXM4X3FaV2lCRDBDbm9rVzJuY0NiSHZndnJELVhGR01wR1ZlV0dNTV9FZ1Z2Wm1razFvd2NIMnkxVW1xVy1rTVEwei1vUmgzeTE2M2M0MlU0US01UGJrRHh2RWFHWjRrSU1RRm1qQW84Z2pPNTZWWnhGRE4xSk41SG4tc3ZqMkVnVDczbEMtYlh4eG4zckNEYmJqUG8xbFNsNXgzMVhVLTJxNlcteHFRRkxCNWltd19zSGVHYVg3Sy02dUJ6TV92VzJ4WTZIbUwyeGk3M1Y4VXRqaURONTZfRmt3RnlnN3NHdUtRM3lUQmRkbC1DNDRoRUxNU09hcVFSNnBnMGhmb0NxV3pXSFVBQWRaelotcVhvQjBSbFlwMUY2SDViY3YtTFpkb3ZMODBLWC11c3k0cjFmXzZGd3o4djR1LVB0X1RaTjNUd2JGLWtwakFwVGRQRnJCcURRbzIyUHc1aHJBelF0ZzU4aU9zSWJsR0c5RlNEdUpCamF3VXl6Uk9JNEJHNHYtWlk0cHVHRTJMUVM0OUNNd0pWMmFaRnVSZlFsQjZidDR5XzdRenN6cjlHTW5UY2c",
+        "time": "2026-08-15 15:32:34"
+      },
+      {
+        "title": "台視新聞台. . 【#TTV最新快訊】賴總統赴雲林廟宇參香祈福 出席古坑竹筍節活動 －－－ 假日拚輔選，總統賴清德今天(15日)前往雲林，跟縣長參選人、立委劉建國同台，除了公宮廟參香祈福，也一同出席古坑竹筍節活動。 #賴清德 #劉建國 #古坑 －－－ 【訂閱 #台視新聞 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi6gdBVV95cUxNNjZzMkU4SDlOb2lRSzNlMjRPaGZ1S2xXM2UzR3YzVWhSRVpVckZ6MU8ydkJlUUpxUkhMVUhQeDJ4WXlDZWJkeDJFdHVVYllaZWJGVUNEelVRQWZsaXI4VWhlTVV4M2hYQ3FJQnhkY1BWZE9hTGhnSTE0eUNacXl5RW1QQ0JJOUtVeTZuT2RBNVlaR01maUZxQ2h5Mmpucm1HbHR4UDFjdEZHT1U5VTFpVms1S3RVMWUtdWhJLUpqUWJud1p2MFE5UldfeEJ4dm1aZ25aYjE2MXBmOUxpc2hTZ0s1X3dkQkRydGI1YkNXcDlZVWJnbVhldkZKRlAxSEEwRDd0d3ZGWnN6TnNNd3p6ZDNXMkFtLWJzMEh2VUMyTGpYUlZRYUx0TWIzUU1sMDBPOXBqQXpWLUtoaXQxbjZyOFZXOVQtbTN3U3RscXFzWVhTYlY2Vk44aEhHMXdTSXN5eFNIbmNBYXhqN0pLUzU5QkJYMEVKOVV4eFZRWkNrelAtOFBOZmo3WjJhR2dBMGtzZVRBRDFVYVZFX2ozZjNSd3pHaGI1YmhKQ25sVzN0OUFDajhpbXpsNGIwRmRKZnFFbFhBYUZsMkdWNzZfcVNaaTYtUzBZYy1LdmVyaWRxOVA1cXluYnpJWEdiQ2t1eFpJTm1idWVYQ2xweUtWUklNUDYzM2JxZ2dQWUpuRC1sS3p6M3plYjVZanJUSXA5a29uSWlGVjJXMWYxckpQTElQQS16YmNiR2E0Vm1uT1lIZEx0ZEk4dTk0XzhwLVpheUc2c0xLSGpMRkd5YTZrbUY5SzQ2V2JqekMwY1B2cy1sZlJ4dzFCbUx3aGpRYW1xSVdwcnVtaGFILWU0U0NRci1yZWR0N2pkSkw1NTZNb2hITTR0S2NUN1BUODI1X2dpR29zdmtyYno1bEN6RlZyVWZzQ2FBYTVNTmRnbmJrNDBEUUdmV2pXYUc5Y2tnRnJ5NjZyNkxSR2lHTEpvZ3VGWkZGekl0Q2tFcXNMVTRPZzI4Q0ZSZnprQmJncE52cVF1azh4NlBRMV9OTHJ5S0J3Mlc5QU5lSG5UNkNjSkZrVnhNYkdpWWdMNm5VZ0dsSmZEZzVxbF81UnlrUGNiVG5hNlZIRnluVm9IbG9OVllSMmFvSkxNS21zNWhnWmdoVUZCdk1iRjJzR2FON3Z1LWxnQUZWRFk4ZTdSdHV1QndCbjU4RFRyWDJuMnRQQm4yeXpsQVFzdTZpSG1ueU1vdm9hQ2RvR04yckFTdmU5dnhyRkZmYUs3U01TSldfVEhwT3VtcnRHWnR4RkxzdUNtWGpLeW44U3B0NEZlRm9RSGc",
+        "time": "2026-08-15 14:43:27"
       }
     ],
     "youtube": [
@@ -1489,6 +1597,16 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "賴總統南下雲林輔選劉建國，力挺拚雲林縣長打造新氣象 - 中華新聞雲／中華日報",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QWmZnVmxOaXM1eU12NmQzNi1KWU9tRWVVUFpFM0dQSDlOVEZ0dFljaVBVTm90M2lyQnlDT2lUajRCWXF5OG1KT1JPVVlIZDdSekE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 16:52:26"
+      },
+      {
+        "title": "賴清德赴靈台山建德寺地母廟祈福肯定劉建國長期爭取雲林建設發展| 政治 - Newtalk新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83aUpzWGZneEx1SXJ4QTlJS0tneEhhRFhudGtFX2JfOTBzWDhxcnR6M1U1WXZoTUZaQS1YNHRvN1BNbXpxbmJMdTVOWDBuWXZjMWZtb3R3NHk4Nlk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 16:29:50"
+      },
+      {
         "title": "盧秀燕送蒜頭助攻雲林！力推張嘉郡免健保費、小巨蛋好政策 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLVFlwYXJOUmVWTHFfdm5yS0NMNXNQY09rYnB4aGRVRWhQaG5PcUxsbUdLWDRFa3pOVTIxNDRTeV91N1pZRnpIMGc4OGx6ZFQ3cVcw0gFYQVVfeXFMTzh6N2pqVFFUaVVyWlhhLVExQTVuVEpSdTZNbGNMdk9FNlhvVWdDallyVnZCWnpFQ1A2dVFsV0dzVWRTRzhPcFR5TVAyRDlpbjZ3VlhzNmhBWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-15 15:20:37"
@@ -1496,6 +1614,11 @@
       {
         "title": "盧秀燕送蒜頭助攻雲林！力推張嘉郡免健保費、小巨蛋好政策| 2026九合一選舉 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YbU5nOHZGRGNfVjRVNDN4SHkxS1k1UmJvTVNwUVhtSnludWtUMVlaSmZNb1FUVnplU2UyX3cxVHdIU3VmMEVqUVY1emtEOGJkSkNxcDVGSmw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 15:20:37"
+      },
+      {
+        "title": "盧秀燕送蒜頭助攻雲林！力推張嘉郡免健保費、小巨蛋好政策| 縣市長議員選戰| 要聞 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLVFlwYXJOUmVWTHFfdm5yS0NMNXNQY09rYnB4aGRVRWhQaG5PcUxsbUdLWDRFa3pOVTIxNDRTeV91N1pZRnpIMGc4OGx6ZFQ3cVcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-15 15:20:37"
       },
       {
@@ -1507,6 +1630,11 @@
         "title": "中國把年底選舉當對台政策指標 賴清德籲雲林人挺劉建國 | 自由電子報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mYnQtc3dyQWRfdWczdXVUUFM3ZnFVT2RMSWdmWHNmdDlCQkJUSlRNYkxnZ2lmU1laUU5mMV90WjFuSk5VaDAteDRqVV9hdTlMZmd5aHZn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-15 14:14:33"
+      },
+      {
+        "title": "總統籲雲林鄉親支持堅守民主劉建國　對抗中國打壓 - money.udn.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yMmZjU01kcHltNm5TcFpLRElxaW5iVmFNbDZ4Zmx4UHNLTG5mTnNoaVM5eWNUeGRjRTFfVmQzV0NwbXA4UXNkOWJOd0RRRDFBcjFPMlRGdmhTaW5iWEthSzBGRTgxcmdyOHdEMFBZU3FmdFVHZ1FB0gFfQVVfeXFMUGNWZXV3OXhSUzR5cnQ0SWxsVkRjU1VKU1NEbzJsYUo2YzVTdDJ3WEQyTEp4dkEzNjYwTDV2VEpQTzJGRU1MeHp1NjR6anFBWWpnWlgxSmNyVVN6bEg1RDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 14:14:21"
       },
       {
         "title": "賴清德雲林喊「縣長換人做」 大讚劉建國守護台灣主權 - Yahoo新聞",
@@ -1667,29 +1795,24 @@
         "title": "雲林縣長參選人張嘉郡提寵物政見 打造人寵共融讓毛孩家族超有感 - UDN",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1veVZxQkFaLVRFZkpDTHAzakY4cnBfbkUwM3h0ZjFDb2hzQWZUcU5KQlRzTEJjV2FmUDdFLThjS243ajNPWUR6S2psZ1laaXoxdE40c1M1WmN2N1pxYWEwdFM1WjE5VkJfT3FRaGZkWGREcDB6OFBqRHVBSdIBVkFVX3lxTFBYdG1MLW53b3ZrQ1BHZVRnRExsV0tDWENhTko0czBQT1RpejZZNGxmNTlDSkoyblBiWDZCZlRzUnhSYUxuU1FCU0dWaUE2OTFlVzZaWVNn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-13 16:44:22"
-      },
-      {
-        "title": "雲林縣長參選人張嘉郡提寵物政見 打造人寵共融讓毛孩家族超有感 - udn.com",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jeWItWXJ5aVFzbVVvNWE5MEZXWlR0SHk3dmd2WThhMUtLWUw3LUl3YkFBdzJhN05xTTdZdk1qamNhS2VOTmFBeEdjLU92NEVtaFhtazNNb3JlWXJQWTl5NlJtSDRQNk9fVHU4QWVFLXF0QdIBWEFVX3lxTFBFTlZsRWZsREdTNW5NazBoS0haYVpqaDBPZXpuYXdaYVVhRjY2OVlEVTduQlhTRVozb2pDVG1QWURvdmd4TWN4V0gxTzBWVEswcXVJaWpKVWY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-13 16:44:22"
-      },
-      {
-        "title": "雲林縣長參選人張嘉郡提寵物政見 打造人寵共融讓毛孩家族超有感 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1waXFlRXJxam1ZMWpSUFNpRDJnWjF0QXA4SjQ5OE02OWZrNGVFVlFzMTBpcVdua01IVm5vdEhsalItenA0S2l1dmNoblVjd0VOcHpZ0gFYQVVfeXFMUEVOVmxFZmxER1M1bk1rMGhLSFphWmpoME9lem5hd1phVWFGNjY5WURVN25CWFNFWjNvakNUbVBZRG92Z3hNY3hXSDFPMFZUSzBxdUlpakpVZg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-13 16:44:22"
-      },
-      {
-        "title": "雲林家犬貓逾8萬隻 張嘉郡提「幸福雲林寵愛共好」四大寵物政策 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPZ3BCbE1UdVZYcUxaaldLQS01UjZQejd6WWxmVVlSTnlOMmFBdERCc3FncjRBQkt0cFJTSkh4ak81SlVTSXZ3aExuNnBPWFFLNmN1WFN6RjdHODZMa0Z5VjJfSmR0QUZrejdnMlgydzV4MVRyX1c0QTVfSDh5a3FvLTJfVVZMblppb1RadkhXNDFqQ3k3Nl9ON3k4WjJtLWV4OXFxdTlqMG40RDhmNjcyZFNuUXZtZUV2Z1ZITUF5eElJQUJ4MVo3N1JuYi1lQVpGeVBpdy0wdkx2NFpueXY5QlY1MFNrOVFsN0tJejFNTXEwX3Zwam5lMVg4Ykd5YzB0U3ZsdlFNUENRX1pkODVCWV91X3FHU0FpcDBaSDItc0piUmdDdVpFRGxmdUJaNWlNZ3gySVdWNG5wOHJKQ25zMUllUGt2MlIySXJKRGlwanNweGJHaEhwN3dNSEFuYUxpVktQb19mYlFucGhXMmxGMnFiNlN1bThDSnJNdDBfU1RRVmhQSEg5dmJHWjB0M1ot?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-13 16:36:11"
-      },
-      {
-        "title": "雲林縣長參選人張嘉郡推出4大寵物經濟政策 從動保走向人寵共融與產業發展！ - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rUjBYVlpvZU01X0RfN3FwVWpNU3lFcC0ycEdYcGs3bFl6a2g5NmZKaEtNMGlMYTVDeWtwQnRnVDNhZTN1NGlTenJzM2ZqX0JvcUVIazA1SFdYWXFlMDNuQlRCejRFSlA5ODgw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-13 16:33:12"
       }
     ],
     "facebook": [
+      {
+        "title": "#盧秀燕市長來雲林相挺嘉郡❤️ #一棒接一棒讓雲林幸福升級✨ 嘉郡很開心陪同 盧秀燕 市長前往 西螺廣福宮老大媽 、西螺福興宮 參香祈福，和 張麗善 縣長、許宇甄 委員及地方鄉親一起祈求風調雨順、四境平安，也感受到西螺鄉親滿滿的熱情與人情味🙏 這次盧市長來 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxOcUtseV9jRUJJa1pXR2NxTEpveW5OQkpLUHVyUmh0LUdYSDZyZ2J1d0ZRVlVvYkc0TFVfRnY4TW5IYkRXSEhTSFpBTERMVlZrUUZLcGs1OUVLOWxUR2E5S2VQbXpmbHRVbmQ1RlZhMzc2YXpRTUZRWG5rN1J1bUFFYWRUb2JBTE51eVdTMHh4YWJYUmd4RUtnejFPVVFxUFlWaU1rSi1IRDVfR1FQdmdPa1JDZ2pWc1JIM2FKeXpMeGdJVWo5Q2NyblV2blNlSFZWcV9lWXdVZ3BKbHdSdmV5VmstNTVGSG9lYlpqRFpzRVVmUlFoU2ZZUjdXTHRMamhQRzVoWDRTTnpYdWxBNGQ5SGhuTDNFcXhfMjRaT1FxelRLOXNHNmJxd1JuNEdTbEZ6NTlZTFU2Q2tlNHhDQ1VlQ24tdEk1Z0hUOURIME9iNDVPQ3hxNEFZN2hRekZPcVY2N2t4cjdQa1RsUVZKYndiZWVJd2tDb2g1Umg3bWtwdnhERzZ5RWRrZUtYdTlOZnYtMlRmbDJmZ1FCUTNvUDU0cjZ0aGVUTVlaWTFJRVhvRzdHNnJJSkY5YXcwQWd2YVdZNlhlYVZlLUxpdnRmTFRKN0dXS1c3R3hNZjhFOEpRX1dBbzhrUmZQdE5HNGdVREZMWFExOFVJT080ZVB3a2FmendIQVg5U2xXcFMyR21iYnpaVHRzdHE3c01LNDN4Yi1MUjQxYV9EMkdIZ253dTFJX0s5WjRvX1VjMkpBd3JWaXBpTTFRR2lNTVpwb0RRZnNJOFVTcFVDWnM4VmhBZnk3ejhYRFRqdlpPNHZfcnV6enl5RDRydURfZWFMb0JaeWJ5Rk9BalBYakpueFl4R2JzdlRQcG9pOFpMZWRaSUNiN2NyZ3E1bF9kUVplSzVqZGw3cUM2cktaX3AyU1BGUVRxUk4zc3FRNmRwWGE4ODRGTktoM1JyQVhqNGx1YXFkeDRsbHN6d0lRNkpFVmRoVFhpZzR5U0pUR29pYkt6eFlJdEw5WmVmdkZVRERRSkYtanF4YVY3NlFTOHBEUjFoYkpSYkF6cW5pa3hHVlo0d2FBb3Z0V0JRU05uakNRVzBnZFpheUVndXBiZzZuUUwzVlFURFRWVmRhOEkwaFVXWC1Kb1B2Rm5aWGVhQkdXYmZwaGRUN2ZOOWlCb1pfdHM1V0RtcGJLckU3bEZSaFJkUmFMVVVRRjc3YTZ2N25JZWkyWFBlQkFhN25YSkdVT1JhTTVxWHpNQUhyRXdNb0duRkpGSkR4ajFYVG1wWTViRkdUQ1VuUHZJSlRHNU4tQQ",
+        "time": "2026-08-15 16:27:00"
+      },
+      {
+        "title": "#中共 介入年底選戰？#賴清德 雲林喊話：支持守護主權的劉建國對抗中國威脅 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxOcFFlMjVHQ2F6Sk5lRGNFOTd5MzJTMnBhR3RDMGV3b2xueW13Tm9TajhXZE5fbXM4X3FaV2lCRDBDbm9rVzJuY0NiSHZndnJELVhGR01wR1ZlV0dNTV9FZ1Z2Wm1razFvd2NIMnkxVW1xVy1rTVEwei1vUmgzeTE2M2M0MlU0US01UGJrRHh2RWFHWjRrSU1RRm1qQW84Z2pPNTZWWnhGRE4xSk41SG4tc3ZqMkVnVDczbEMtYlh4eG4zckNEYmJqUG8xbFNsNXgzMVhVLTJxNlcteHFRRkxCNWltd19zSGVHYVg3Sy02dUJ6TV92VzJ4WTZIbUwyeGk3M1Y4VXRqaURONTZfRmt3RnlnN3NHdUtRM3lUQmRkbC1DNDRoRUxNU09hcVFSNnBnMGhmb0NxV3pXSFVBQWRaelotcVhvQjBSbFlwMUY2SDViY3YtTFpkb3ZMODBLWC11c3k0cjFmXzZGd3o4djR1LVB0X1RaTjNUd2JGLWtwakFwVGRQRnJCcURRbzIyUHc1aHJBelF0ZzU4aU9zSWJsR0c5RlNEdUpCamF3VXl6Uk9JNEJHNHYtWlk0cHVHRTJMUVM0OUNNd0pWMmFaRnVSZlFsQjZidDR5XzdRenN6cjlHTW5UY2c",
+        "time": "2026-08-15 15:32:34"
+      },
+      {
+        "title": "台視新聞台. . 【#TTV最新快訊】賴總統赴雲林廟宇參香祈福 出席古坑竹筍節活動 －－－ 假日拚輔選，總統賴清德今天(15日)前往雲林，跟縣長參選人、立委劉建國同台，除了公宮廟參香祈福，也一同出席古坑竹筍節活動。 #賴清德 #劉建國 #古坑 －－－ 【訂閱 #台視新聞 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi6gdBVV95cUxNNjZzMkU4SDlOb2lRSzNlMjRPaGZ1S2xXM2UzR3YzVWhSRVpVckZ6MU8ydkJlUUpxUkhMVUhQeDJ4WXlDZWJkeDJFdHVVYllaZWJGVUNEelVRQWZsaXI4VWhlTVV4M2hYQ3FJQnhkY1BWZE9hTGhnSTE0eUNacXl5RW1QQ0JJOUtVeTZuT2RBNVlaR01maUZxQ2h5Mmpucm1HbHR4UDFjdEZHT1U5VTFpVms1S3RVMWUtdWhJLUpqUWJud1p2MFE5UldfeEJ4dm1aZ25aYjE2MXBmOUxpc2hTZ0s1X3dkQkRydGI1YkNXcDlZVWJnbVhldkZKRlAxSEEwRDd0d3ZGWnN6TnNNd3p6ZDNXMkFtLWJzMEh2VUMyTGpYUlZRYUx0TWIzUU1sMDBPOXBqQXpWLUtoaXQxbjZyOFZXOVQtbTN3U3RscXFzWVhTYlY2Vk44aEhHMXdTSXN5eFNIbmNBYXhqN0pLUzU5QkJYMEVKOVV4eFZRWkNrelAtOFBOZmo3WjJhR2dBMGtzZVRBRDFVYVZFX2ozZjNSd3pHaGI1YmhKQ25sVzN0OUFDajhpbXpsNGIwRmRKZnFFbFhBYUZsMkdWNzZfcVNaaTYtUzBZYy1LdmVyaWRxOVA1cXluYnpJWEdiQ2t1eFpJTm1idWVYQ2xweUtWUklNUDYzM2JxZ2dQWUpuRC1sS3p6M3plYjVZanJUSXA5a29uSWlGVjJXMWYxckpQTElQQS16YmNiR2E0Vm1uT1lIZEx0ZEk4dTk0XzhwLVpheUc2c0xLSGpMRkd5YTZrbUY5SzQ2V2JqekMwY1B2cy1sZlJ4dzFCbUx3aGpRYW1xSVdwcnVtaGFILWU0U0NRci1yZWR0N2pkSkw1NTZNb2hITTR0S2NUN1BUODI1X2dpR29zdmtyYno1bEN6RlZyVWZzQ2FBYTVNTmRnbmJrNDBEUUdmV2pXYUc5Y2tnRnJ5NjZyNkxSR2lHTEpvZ3VGWkZGekl0Q2tFcXNMVTRPZzI4Q0ZSZnprQmJncE52cVF1azh4NlBRMV9OTHJ5S0J3Mlc5QU5lSG5UNkNjSkZrVnhNYkdpWWdMNm5VZ0dsSmZEZzVxbF81UnlrUGNiVG5hNlZIRnluVm9IbG9OVllSMmFvSkxNS21zNWhnWmdoVUZCdk1iRjJzR2FON3Z1LWxnQUZWRFk4ZTdSdHV1QndCbjU4RFRyWDJuMnRQQm4yeXpsQVFzdTZpSG1ueU1vdm9hQ2RvR04yckFTdmU5dnhyRkZmYUs3U01TSldfVEhwT3VtcnRHWnR4RkxzdUNtWGpLeW44U3B0NEZlRm9RSGc",
+        "time": "2026-08-15 14:43:27"
+      },
       {
         "title": "中天新聞. . 【每日必看】張嘉郡搶攻毛孩經濟 拋四大政策打造人寵共融 對許多家庭而言，毛小孩已經是重要家人，國民黨雲林縣長參選人，張嘉郡今天(13)，發表四大寵物政策，除了將\"\"雲林幣\"\"加碼為\"\"寵物幣\"\"，更結合在地農產打造寵物糧，並成立數位平台，整合醫療與 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQbUFBeHVPTHhTRC1pbUFFOWd5WGplc25ndTZUQUQ1VklPODFoMFAwTWpRU04wZFV1cWtQem9zeENYZGI2MDZIOU5MLXlTV2hmVmNsMXV5Q183VlJGQS1DNmVHdmZjWm1FRUZDRWQxR3NYQ21HMFlmYlVfRm41Nk0yTGZieUctdWFrVDZOclQ5ODZaUHpNWnhlc0swdUtqSGl1OUhzSXZ3SzZ3SUcxSzliQlZzN3c4NEFqYlhZTU9nMy1DanRtdklFdEFrWl93WWltd0hUSVFEOUx1R3ZMLTlGa3l5MTRLRE5SVXpYaXIzY1JaNlJwNnJQZXBIVlp6LV9aUnhxWjFaaFV4MElYbS1TeFZYQzVEeDY0WDROOHBiUkpLTDBkSXVPN3JlZ0lVdkoxeGhvQWJkTFU2bnNMWHlLdG9RWUNLNGF0OHZ1b0psZ3RCZkhTNmVLNDRlRWFyVV90RGI3RjFRVVU4ajBTWklhTWt5Qng4a2toTVVCLXMtd3RLU1BpUEx6WA",
@@ -1861,6 +1984,34 @@
     "hour": [],
     "day": [
       {
+        "title": "賴總統南下雲林輔選劉建國，力挺拚雲林縣長打造新氣象 - 中華新聞雲／中華日報",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QWmZnVmxOaXM1eU12NmQzNi1KWU9tRWVVUFpFM0dQSDlOVEZ0dFljaVBVTm90M2lyQnlDT2lUajRCWXF5OG1KT1JPVVlIZDdSekE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 16:52:26",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "賴清德赴靈台山建德寺地母廟祈福肯定劉建國長期爭取雲林建設發展| 政治 - Newtalk新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83aUpzWGZneEx1SXJ4QTlJS0tneEhhRFhudGtFX2JfOTBzWDhxcnR6M1U1WXZoTUZaQS1YNHRvN1BNbXpxbmJMdTVOWDBuWXZjMWZtb3R3NHk4Nlk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 16:29:50",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "#盧秀燕市長來雲林相挺嘉郡❤️ #一棒接一棒讓雲林幸福升級✨ 嘉郡很開心陪同 盧秀燕 市長前往 西螺廣福宮老大媽 、西螺福興宮 參香祈福，和 張麗善 縣長、許宇甄 委員及地方鄉親一起祈求風調雨順、四境平安，也感受到西螺鄉親滿滿的熱情與人情味🙏 這次盧市長來 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxOcUtseV9jRUJJa1pXR2NxTEpveW5OQkpLUHVyUmh0LUdYSDZyZ2J1d0ZRVlVvYkc0TFVfRnY4TW5IYkRXSEhTSFpBTERMVlZrUUZLcGs1OUVLOWxUR2E5S2VQbXpmbHRVbmQ1RlZhMzc2YXpRTUZRWG5rN1J1bUFFYWRUb2JBTE51eVdTMHh4YWJYUmd4RUtnejFPVVFxUFlWaU1rSi1IRDVfR1FQdmdPa1JDZ2pWc1JIM2FKeXpMeGdJVWo5Q2NyblV2blNlSFZWcV9lWXdVZ3BKbHdSdmV5VmstNTVGSG9lYlpqRFpzRVVmUlFoU2ZZUjdXTHRMamhQRzVoWDRTTnpYdWxBNGQ5SGhuTDNFcXhfMjRaT1FxelRLOXNHNmJxd1JuNEdTbEZ6NTlZTFU2Q2tlNHhDQ1VlQ24tdEk1Z0hUOURIME9iNDVPQ3hxNEFZN2hRekZPcVY2N2t4cjdQa1RsUVZKYndiZWVJd2tDb2g1Umg3bWtwdnhERzZ5RWRrZUtYdTlOZnYtMlRmbDJmZ1FCUTNvUDU0cjZ0aGVUTVlaWTFJRVhvRzdHNnJJSkY5YXcwQWd2YVdZNlhlYVZlLUxpdnRmTFRKN0dXS1c3R3hNZjhFOEpRX1dBbzhrUmZQdE5HNGdVREZMWFExOFVJT080ZVB3a2FmendIQVg5U2xXcFMyR21iYnpaVHRzdHE3c01LNDN4Yi1MUjQxYV9EMkdIZ253dTFJX0s5WjRvX1VjMkpBd3JWaXBpTTFRR2lNTVpwb0RRZnNJOFVTcFVDWnM4VmhBZnk3ejhYRFRqdlpPNHZfcnV6enl5RDRydURfZWFMb0JaeWJ5Rk9BalBYakpueFl4R2JzdlRQcG9pOFpMZWRaSUNiN2NyZ3E1bF9kUVplSzVqZGw3cUM2cktaX3AyU1BGUVRxUk4zc3FRNmRwWGE4ODRGTktoM1JyQVhqNGx1YXFkeDRsbHN6d0lRNkpFVmRoVFhpZzR5U0pUR29pYkt6eFlJdEw5WmVmdkZVRERRSkYtanF4YVY3NlFTOHBEUjFoYkpSYkF6cW5pa3hHVlo0d2FBb3Z0V0JRU05uakNRVzBnZFpheUVndXBiZzZuUUwzVlFURFRWVmRhOEkwaFVXWC1Kb1B2Rm5aWGVhQkdXYmZwaGRUN2ZOOWlCb1pfdHM1V0RtcGJLckU3bEZSaFJkUmFMVVVRRjc3YTZ2N25JZWkyWFBlQkFhN25YSkdVT1JhTTVxWHpNQUhyRXdNb0duRkpGSkR4ajFYVG1wWTViRkdUQ1VuUHZJSlRHNU4tQQ",
+        "time": "2026-08-15 16:27:00",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
+        "title": "#中共 介入年底選戰？#賴清德 雲林喊話：支持守護主權的劉建國對抗中國威脅 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxOcFFlMjVHQ2F6Sk5lRGNFOTd5MzJTMnBhR3RDMGV3b2xueW13Tm9TajhXZE5fbXM4X3FaV2lCRDBDbm9rVzJuY0NiSHZndnJELVhGR01wR1ZlV0dNTV9FZ1Z2Wm1razFvd2NIMnkxVW1xVy1rTVEwei1vUmgzeTE2M2M0MlU0US01UGJrRHh2RWFHWjRrSU1RRm1qQW84Z2pPNTZWWnhGRE4xSk41SG4tc3ZqMkVnVDczbEMtYlh4eG4zckNEYmJqUG8xbFNsNXgzMVhVLTJxNlcteHFRRkxCNWltd19zSGVHYVg3Sy02dUJ6TV92VzJ4WTZIbUwyeGk3M1Y4VXRqaURONTZfRmt3RnlnN3NHdUtRM3lUQmRkbC1DNDRoRUxNU09hcVFSNnBnMGhmb0NxV3pXSFVBQWRaelotcVhvQjBSbFlwMUY2SDViY3YtTFpkb3ZMODBLWC11c3k0cjFmXzZGd3o4djR1LVB0X1RaTjNUd2JGLWtwakFwVGRQRnJCcURRbzIyUHc1aHJBelF0ZzU4aU9zSWJsR0c5RlNEdUpCamF3VXl6Uk9JNEJHNHYtWlk0cHVHRTJMUVM0OUNNd0pWMmFaRnVSZlFsQjZidDR5XzdRenN6cjlHTW5UY2c",
+        "time": "2026-08-15 15:32:34",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
         "title": "盧秀燕送蒜頭助攻雲林！力推張嘉郡免健保費、小巨蛋好政策 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLVFlwYXJOUmVWTHFfdm5yS0NMNXNQY09rYnB4aGRVRWhQaG5PcUxsbUdLWDRFa3pOVTIxNDRTeV91N1pZRnpIMGc4OGx6ZFQ3cVcw0gFYQVVfeXFMTzh6N2pqVFFUaVVyWlhhLVExQTVuVEpSdTZNbGNMdk9FNlhvVWdDallyVnZCWnpFQ1A2dVFsV0dzVWRTRzhPcFR5TVAyRDlpbjZ3VlhzNmhBWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-15 15:20:37",
@@ -1875,6 +2026,13 @@
         "risk": "綠"
       },
       {
+        "title": "盧秀燕送蒜頭助攻雲林！力推張嘉郡免健保費、小巨蛋好政策| 縣市長議員選戰| 要聞 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLVFlwYXJOUmVWTHFfdm5yS0NMNXNQY09rYnB4aGRVRWhQaG5PcUxsbUdLWDRFa3pOVTIxNDRTeV91N1pZRnpIMGc4OGx6ZFQ3cVcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 15:20:37",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "賴清德爆中國將年底選戰視為對台政策指標 喊話鄉親：守護民主支持劉建國| 政治焦點 - 太報 TaiSounds",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvLWJTalhFOTZPUEJTX0RSbjloaVhtUE1yaE1zTkZpaW5xVnN1ZTR2Wk5DMHBGYTlUdjU0aHZMRFV4TWRvbG9wT1NTRDEyN0M1UjRleWc5SERHaFlf?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-15 14:53:17",
@@ -1882,9 +2040,23 @@
         "risk": "綠"
       },
       {
+        "title": "台視新聞台. . 【#TTV最新快訊】賴總統赴雲林廟宇參香祈福 出席古坑竹筍節活動 －－－ 假日拚輔選，總統賴清德今天(15日)前往雲林，跟縣長參選人、立委劉建國同台，除了公宮廟參香祈福，也一同出席古坑竹筍節活動。 #賴清德 #劉建國 #古坑 －－－ 【訂閱 #台視新聞 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi6gdBVV95cUxNNjZzMkU4SDlOb2lRSzNlMjRPaGZ1S2xXM2UzR3YzVWhSRVpVckZ6MU8ydkJlUUpxUkhMVUhQeDJ4WXlDZWJkeDJFdHVVYllaZWJGVUNEelVRQWZsaXI4VWhlTVV4M2hYQ3FJQnhkY1BWZE9hTGhnSTE0eUNacXl5RW1QQ0JJOUtVeTZuT2RBNVlaR01maUZxQ2h5Mmpucm1HbHR4UDFjdEZHT1U5VTFpVms1S3RVMWUtdWhJLUpqUWJud1p2MFE5UldfeEJ4dm1aZ25aYjE2MXBmOUxpc2hTZ0s1X3dkQkRydGI1YkNXcDlZVWJnbVhldkZKRlAxSEEwRDd0d3ZGWnN6TnNNd3p6ZDNXMkFtLWJzMEh2VUMyTGpYUlZRYUx0TWIzUU1sMDBPOXBqQXpWLUtoaXQxbjZyOFZXOVQtbTN3U3RscXFzWVhTYlY2Vk44aEhHMXdTSXN5eFNIbmNBYXhqN0pLUzU5QkJYMEVKOVV4eFZRWkNrelAtOFBOZmo3WjJhR2dBMGtzZVRBRDFVYVZFX2ozZjNSd3pHaGI1YmhKQ25sVzN0OUFDajhpbXpsNGIwRmRKZnFFbFhBYUZsMkdWNzZfcVNaaTYtUzBZYy1LdmVyaWRxOVA1cXluYnpJWEdiQ2t1eFpJTm1idWVYQ2xweUtWUklNUDYzM2JxZ2dQWUpuRC1sS3p6M3plYjVZanJUSXA5a29uSWlGVjJXMWYxckpQTElQQS16YmNiR2E0Vm1uT1lIZEx0ZEk4dTk0XzhwLVpheUc2c0xLSGpMRkd5YTZrbUY5SzQ2V2JqekMwY1B2cy1sZlJ4dzFCbUx3aGpRYW1xSVdwcnVtaGFILWU0U0NRci1yZWR0N2pkSkw1NTZNb2hITTR0S2NUN1BUODI1X2dpR29zdmtyYno1bEN6RlZyVWZzQ2FBYTVNTmRnbmJrNDBEUUdmV2pXYUc5Y2tnRnJ5NjZyNkxSR2lHTEpvZ3VGWkZGekl0Q2tFcXNMVTRPZzI4Q0ZSZnprQmJncE52cVF1azh4NlBRMV9OTHJ5S0J3Mlc5QU5lSG5UNkNjSkZrVnhNYkdpWWdMNm5VZ0dsSmZEZzVxbF81UnlrUGNiVG5hNlZIRnluVm9IbG9OVllSMmFvSkxNS21zNWhnWmdoVUZCdk1iRjJzR2FON3Z1LWxnQUZWRFk4ZTdSdHV1QndCbjU4RFRyWDJuMnRQQm4yeXpsQVFzdTZpSG1ueU1vdm9hQ2RvR04yckFTdmU5dnhyRkZmYUs3U01TSldfVEhwT3VtcnRHWnR4RkxzdUNtWGpLeW44U3B0NEZlRm9RSGc",
+        "time": "2026-08-15 14:43:27",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
         "title": "中國把年底選舉當對台政策指標 賴清德籲雲林人挺劉建國 | 自由電子報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mYnQtc3dyQWRfdWczdXVUUFM3ZnFVT2RMSWdmWHNmdDlCQkJUSlRNYkxnZ2lmU1laUU5mMV90WjFuSk5VaDAteDRqVV9hdTlMZmd5aHZn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-15 14:14:33",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "總統籲雲林鄉親支持堅守民主劉建國　對抗中國打壓 - money.udn.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yMmZjU01kcHltNm5TcFpLRElxaW5iVmFNbDZ4Zmx4UHNLTG5mTnNoaVM5eWNUeGRjRTFfVmQzV0NwbXA4UXNkOWJOd0RRRDFBcjFPMlRGdmhTaW5iWEthSzBGRTgxcmdyOHdEMFBZU3FmdFVHZ1FB0gFfQVVfeXFMUGNWZXV3OXhSUzR5cnQ0SWxsVkRjU1VKU1NEbzJsYUo2YzVTdDJ3WEQyTEp4dkEzNjYwTDV2VEpQTzJGRU1MeHp1NjR6anFBWWpnWlgxSmNyVVN6bEg1RDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-15 14:14:21",
         "platform": "news",
         "risk": "綠"
       },
@@ -1950,55 +2122,6 @@
         "time": "2026-08-15 13:13:04",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "「三大理由」力薦劉建國帶雲林進步　賴清德笑虧：他做縣長行政院會很忙 - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5RkVESE1seWgxNUNJQk0yLVBxNWJUQTJtRElHZVNiV2NiR3BncVBoa1VXcEY0M1A2Um9NV2J1V1pzOE40ajVJVdIBTEFVX3lxTE9VejRidWdIQXgtbGNSSmVBVDZWb2tUOTk2aU1Hb2VYd2x4M3J3YjNnNjA2REd5NUVoLUp1YnI5MF9kaDBCLUgzZHVETEM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-15 12:27:00",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "【直播完整版】0815 新雲林新幸福！ 賴清德合體劉建國靈台山建德寺地母廟參香祈福｜民視快新聞｜",
-        "url": "https://www.youtube.com/watch?v=OPMxXzoM1rs",
-        "time": "2026-08-15 10:16:43",
-        "platform": "youtube",
-        "risk": "綠"
-      },
-      {
-        "title": "守住雲林，也打開雲林的未來 劉建國從農業、醫療一路布局AI產業新願景 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12UUJTVTZvNm9KSnRaQW9FdkQ1Zk1hSlBDUXlCMVkxN1Y2QjVMS2dvOFo4QklqM3pSU0dzN0pLY3RFQUh6SjRpS0FGbEV0TFZLbkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-15 10:07:00",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "從活動中心到農水路 劉建國把中央資源帶回雲林，更把建設做到鄉親需要的地方 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zWWJONHh1bFBRSk5tYTJlU2hpcHZFT2dKWkZPWjZjVi1yMExYOXVJLXczcTNSd0RzUlVyVjQtd1gwV3lNYkFhZHYyR1dXMDVuMVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-14 23:50:00",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "劉建國拚農民福利！地下水抽水電費免自掏腰包再砸800萬修水路 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iclRKSEdBLWEzSmVhN1prLVI1WV9Qa3VDREpTOXJiMWxHTG1VNWVsQ3Vhd211b1RlTGJ6bmpyZ0RfTkM0NkstaDJsekZSdEtJOVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-14 21:14:00",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "劉建國拚農民福利！地下水抽水電費免自掏腰包再砸800萬修水路– 地方 - 創新聞",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwR2dGSkJMRFVyWlNSdjNvT3o3X1BKRTNlR0dEZTRXdGh6OVE1MGxHc1dUdS1hRlVJMjUzTWpqZUJJMmdpaXFrQ21EZ0Fvdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-14 21:11:47",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "劉建國拚農民福利！地下水抽水電費免自掏腰包再砸800萬修水路- 政府消息新聞- PChome Online 新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUjJXN2FxQWpsSUlOdVRZamt5OTZFd2FLaGlLY1dmMHRFRXI2V0czV3NkWkFJVkJjUFg4ZExObTRGSTN2MkxFejM4TzJXUnVjZ21nZW5NSDF0UnB2NFF3Ul94cHljSG9jU2s0UGllZXcxYU9Fd2wwNjhTbmZHSkFhdUx6UlJvQmc4RGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-14 21:11:47",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2006,7 +2129,11 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 16
+        "count": 23
+      },
+      {
+        "name": "古坑",
+        "count": 1
       }
     ],
     "groups": [
@@ -2016,7 +2143,7 @@
       },
       {
         "name": "工地/營造",
-        "count": 1
+        "count": 2
       },
       {
         "name": "教育家長",
