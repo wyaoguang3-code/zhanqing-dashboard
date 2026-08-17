@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-08-17T07:04:50.477019+00:00",
+  "generated_at": "2026-08-17T07:21:57.009052+00:00",
   "metrics": {
     "total_24h": 6,
-    "prev_24h": 68,
-    "growth_pct": -91.18,
-    "news_24h": 4,
+    "prev_24h": 63,
+    "growth_pct": -90.48,
+    "news_24h": 5,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 204,
-    "prev": 124,
-    "growth_pct": 64.52,
-    "news": 153,
+    "total": 205,
+    "prev": 122,
+    "growth_pct": 68.03,
+    "news": 154,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,17 +28,17 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 4
+      "count": 5
     },
     {
       "platform": "facebook",
-      "count": 2
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 153
+      "count": 154
     },
     {
       "platform": "facebook",
@@ -51,16 +51,16 @@
   ],
   "by_hour": [
     {
-      "hour": "2026-08-16 15:00",
-      "count": 1
-    },
-    {
       "hour": "2026-08-16 17:00",
       "count": 3
     },
     {
       "hour": "2026-08-17 08:00",
       "count": 2
+    },
+    {
+      "hour": "2026-08-17 13:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -299,20 +299,25 @@
     {
       "hour": "2026-08-17 08:00",
       "count": 2
+    },
+    {
+      "hour": "2026-08-17 13:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 4
-    },
-    {
-      "platform": "facebook",
-      "count": 1
+      "count": 5
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "斗六人文公園開發進度逾8成 劉建國服務處17年老家因這原因確定搬家 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ySURCMEI5V1NTWWIwMVZhaDFtdVdNZjZCNDFDTHVSY0NPbEVPaFNOcHUtR0lSelhFN0N4YzVXdUdUSFdhWGhuWlk3RW5LVzhU0gFWQVVfeXFMTS0xbWd6V0VkZFY5Ni01bE1YS2ZKdEpVNnFCazlDcGRRbUk0Rm53TVNCeE1oN0pMUElXR3MySTVGQjE4NDBua1NmWDI1R1Z1RzAxamQxY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-17 13:42:56"
+      },
       {
         "title": "賴清德古坑品筍力挺劉建國 三大理由盼雲林迎來大發展 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNOV9yTFgtT1M3ZVFXYWQyNTM5bUI1WU5vT041cGF2aFZZcHRnT2tpbldJaEZFSjl1bHlJS2FaOWhBOGk4RXlPNGVmZ2tWWVNrMk1VN29xa0FyR0ZCN2ZUaHZvdkVGM2xocDJtU0NiOExsaDk0VGNiWVlFZW1wOXI4c0s1NmdfRktzSzgtcTN0emZUQWJ4TGxVY3ZSel9nQk9weHc2OG9aM0hMUU8xWVpySmNaWUF5bW1jOG9GY2FPNWRoSzBiMFFCaTJzbV9WZnNoSHh2LUxwdDNvUjc2XzE4YWxycXdhVlBQTi1iZi1Ya3Ayck56Q0g1dllMUHB6bmRrdTBMZXBxRUNqbThWeWJrMG5RMkkyVmptOXgxS2U0TWhuSExNS1lQWVhBS3dLWmg1a1FJNXg5SUpYNmp3NS1Nd1FSRUxxNzZlWEdmb1J3bTlXWnE1WXlMUV9FbVNWMmF1UXVUc2FfV0FFdDl1Nk5hUFlOcmo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -332,28 +337,22 @@
         "title": "賴清德古坑品筍力挺劉建國 細數三大理由：當縣長雲林一定大大發展 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQNnNyY3RTLVZMcDZjWUFKYmF5VzM4OExiNlNWVFkxNldQVUN1NkFaMVFMUWlwcDhpSUU0bldSYkx4M3dfVE5wYjNoejM5Nlh6RHRhQkN2aXJZX2h0cDBxNFg5RlJtTFROYVp0WUc4ZmpPbFpSc08zZTMyU0diUkEwQnp2LW9NNnV1cU43b0Y0ckJQZGhnNjdCU2VEc1Z3b1VrbU1SQTZFa0V2aXptRHNRVnRpeUJuZG1EVm5MNDB0SUJHLXhoaDdFd21QWGVoU1M1aUlHRjBrUlFxamFBNjYxa1haOXBvY29ObEN5X1V6UTlZS1RTaTVTVG1xTVNENnRGcTRqbkNab2szM183dTJOd0lRcVcyZ3FYOHY3MXlwZkktbHBMa0RtNHJZcS0yUkxfOFpCU3BDVS1uMldfaTg2WlJBb1gtNUNTYlJHUFl1QkpueEhCQllrdmxNRzZRb0hHcGh5QmRtdHZFTDc3eXBmaXVNTzBnWGpRTE1wSkV2UXFxTXZQZ2V3YUlZUEpGLUxwRW1ES0lGVFJzNUF5QlA4WGVWalFkSE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-16 17:04:52"
-      }
-    ],
-    "facebook": [
-      {
-        "title": "張嘉郡 (@Sweet.Yunlin) - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWjh5LTZCRkVuYmxXb2RsXzBxajhObGpMTV9PZFNoOG1reXJUbGlBNG14M09zcUJNWmhPRE9hUlRHeXhQTnExSExJam5YN1N4cU44TXA4S3NEV2c1bDNlYjJGODRIQzh0MGU0WllsZ2pqLU5qQnVmQ0RUNDNNOGUxamJubHd3UQ",
-        "time": "2026-08-16 15:19:19"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 4
-    },
-    {
-      "platform": "facebook",
-      "count": 1
+      "count": 5
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "斗六人文公園開發進度逾8成 劉建國服務處17年老家因這原因確定搬家 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ySURCMEI5V1NTWWIwMVZhaDFtdVdNZjZCNDFDTHVSY0NPbEVPaFNOcHUtR0lSelhFN0N4YzVXdUdUSFdhWGhuWlk3RW5LVzhU0gFWQVVfeXFMTS0xbWd6V0VkZFY5Ni01bE1YS2ZKdEpVNnFCazlDcGRRbUk0Rm53TVNCeE1oN0pMUElXR3MySTVGQjE4NDBua1NmWDI1R1Z1RzAxamQxY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-17 13:42:56"
+      },
       {
         "title": "賴清德古坑品筍力挺劉建國 三大理由盼雲林迎來大發展 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNOV9yTFgtT1M3ZVFXYWQyNTM5bUI1WU5vT041cGF2aFZZcHRnT2tpbldJaEZFSjl1bHlJS2FaOWhBOGk4RXlPNGVmZ2tWWVNrMk1VN29xa0FyR0ZCN2ZUaHZvdkVGM2xocDJtU0NiOExsaDk0VGNiWVlFZW1wOXI4c0s1NmdfRktzSzgtcTN0emZUQWJ4TGxVY3ZSel9nQk9weHc2OG9aM0hMUU8xWVpySmNaWUF5bW1jOG9GY2FPNWRoSzBiMFFCaTJzbV9WZnNoSHh2LUxwdDNvUjc2XzE4YWxycXdhVlBQTi1iZi1Ya3Ayck56Q0g1dllMUHB6bmRrdTBMZXBxRUNqbThWeWJrMG5RMkkyVmptOXgxS2U0TWhuSExNS1lQWVhBS3dLWmg1a1FJNXg5SUpYNmp3NS1Nd1FSRUxxNzZlWEdmb1J3bTlXWnE1WXlMUV9FbVNWMmF1UXVUc2FfV0FFdDl1Nk5hUFlOcmo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -374,24 +373,22 @@
         "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQNnNyY3RTLVZMcDZjWUFKYmF5VzM4OExiNlNWVFkxNldQVUN1NkFaMVFMUWlwcDhpSUU0bldSYkx4M3dfVE5wYjNoejM5Nlh6RHRhQkN2aXJZX2h0cDBxNFg5RlJtTFROYVp0WUc4ZmpPbFpSc08zZTMyU0diUkEwQnp2LW9NNnV1cU43b0Y0ckJQZGhnNjdCU2VEc1Z3b1VrbU1SQTZFa0V2aXptRHNRVnRpeUJuZG1EVm5MNDB0SUJHLXhoaDdFd21QWGVoU1M1aUlHRjBrUlFxamFBNjYxa1haOXBvY29ObEN5X1V6UTlZS1RTaTVTVG1xTVNENnRGcTRqbkNab2szM183dTJOd0lRcVcyZ3FYOHY3MXlwZkktbHBMa0RtNHJZcS0yUkxfOFpCU3BDVS1uMldfaTg2WlJBb1gtNUNTYlJHUFl1QkpueEhCQllrdmxNRzZRb0hHcGh5QmRtdHZFTDc3eXBmaXVNTzBnWGpRTE1wSkV2UXFxTXZQZ2V3YUlZUEpGLUxwRW1ES0lGVFJzNUF5QlA4WGVWalFkSE0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-16 17:04:52"
       }
-    ],
-    "facebook": [
-      {
-        "title": "張嘉郡 (@Sweet.Yunlin) - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWjh5LTZCRkVuYmxXb2RsXzBxajhObGpMTV9PZFNoOG1reXJUbGlBNG14M09zcUJNWmhPRE9hUlRHeXhQTnExSExJam5YN1N4cU44TXA4S3NEV2c1bDNlYjJGODRIQzh0MGU0WllsZ2pqLU5qQnVmQ0RUNDNNOGUxamJubHd3UQ",
-        "time": "2026-08-16 15:19:19"
-      }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 3,
-    "劉建國": 2
+    "張嘉郡": 2,
+    "劉建國": 3
   },
   "mention_compare_7d": {
     "張嘉郡": 108,
-    "劉建國": 88
+    "劉建國": 89
   },
   "top_news": [
+    {
+      "title": "斗六人文公園開發進度逾8成 劉建國服務處17年老家因這原因確定搬家 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ySURCMEI5V1NTWWIwMVZhaDFtdVdNZjZCNDFDTHVSY0NPbEVPaFNOcHUtR0lSelhFN0N4YzVXdUdUSFdhWGhuWlk3RW5LVzhU0gFWQVVfeXFMTS0xbWd6V0VkZFY5Ni01bE1YS2ZKdEpVNnFCazlDcGRRbUk0Rm53TVNCeE1oN0pMUElXR3MySTVGQjE4NDBua1NmWDI1R1Z1RzAxamQxY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-17 13:42:56"
+    },
     {
       "title": "賴清德古坑品筍力挺劉建國 三大理由盼雲林迎來大發展 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNOV9yTFgtT1M3ZVFXYWQyNTM5bUI1WU5vT041cGF2aFZZcHRnT2tpbldJaEZFSjl1bHlJS2FaOWhBOGk4RXlPNGVmZ2tWWVNrMk1VN29xa0FyR0ZCN2ZUaHZvdkVGM2xocDJtU0NiOExsaDk0VGNiWVlFZW1wOXI4c0s1NmdfRktzSzgtcTN0emZUQWJ4TGxVY3ZSel9nQk9weHc2OG9aM0hMUU8xWVpySmNaWUF5bW1jOG9GY2FPNWRoSzBiMFFCaTJzbV9WZnNoSHh2LUxwdDNvUjc2XzE4YWxycXdhVlBQTi1iZi1Ya3Ayck56Q0g1dllMUHB6bmRrdTBMZXBxRUNqbThWeWJrMG5RMkkyVmptOXgxS2U0TWhuSExNS1lQWVhBS3dLWmg1a1FJNXg5SUpYNmp3NS1Nd1FSRUxxNzZlWEdmb1J3bTlXWnE1WXlMUV9FbVNWMmF1UXVUc2FfV0FFdDl1Nk5hUFlOcmo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -414,6 +411,11 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "斗六人文公園開發進度逾8成 劉建國服務處17年老家因這原因確定搬家 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ySURCMEI5V1NTWWIwMVZhaDFtdVdNZjZCNDFDTHVSY0NPbEVPaFNOcHUtR0lSelhFN0N4YzVXdUdUSFdhWGhuWlk3RW5LVzhU0gFWQVVfeXFMTS0xbWd6V0VkZFY5Ni01bE1YS2ZKdEpVNnFCazlDcGRRbUk0Rm53TVNCeE1oN0pMUElXR3MySTVGQjE4NDBua1NmWDI1R1Z1RzAxamQxY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-17 13:42:56"
+    },
     {
       "title": "賴清德古坑品筍力挺劉建國 三大理由盼雲林迎來大發展 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNOV9yTFgtT1M3ZVFXYWQyNTM5bUI1WU5vT041cGF2aFZZcHRnT2tpbldJaEZFSjl1bHlJS2FaOWhBOGk4RXlPNGVmZ2tWWVNrMk1VN29xa0FyR0ZCN2ZUaHZvdkVGM2xocDJtU0NiOExsaDk0VGNiWVlFZW1wOXI4c0s1NmdfRktzSzgtcTN0emZUQWJ4TGxVY3ZSel9nQk9weHc2OG9aM0hMUU8xWVpySmNaWUF5bW1jOG9GY2FPNWRoSzBiMFFCaTJzbV9WZnNoSHh2LUxwdDNvUjc2XzE4YWxycXdhVlBQTi1iZi1Ya3Ayck56Q0g1dllMUHB6bmRrdTBMZXBxRUNqbThWeWJrMG5RMkkyVmptOXgxS2U0TWhuSExNS1lQWVhBS3dLWmg1a1FJNXg5SUpYNmp3NS1Nd1FSRUxxNzZlWEdmb1J3bTlXWnE1WXlMUV9FbVNWMmF1UXVUc2FfV0FFdDl1Nk5hUFlOcmo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -508,11 +510,6 @@
       "title": "張嘉郡攜手盧秀燕談區域治理 盼串聯中台灣共創發展新格局 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SWTJNTkhhTTl6S0lrREh3REI0S1IzTGVITWJpNWduRUFjMW0zMHRGNjlTOFNVOV9MVUtQcGVpUWdPcFIzb0VFNW4yRHhFenVHN0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-15 21:02:00"
-    },
-    {
-      "title": "盧秀燕訪雲林大啖九層粿 公開盛讚張嘉郡政見有國際觀 - 元丰傳媒",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16V1IzdFUwSVhYMnVmcWU0bHFHUmIyZnJNRWFDTzdOdDNRV0w0TGR6NVdpYTZPajZ4aUlmX1VUYlNUcmNvQktDZi0tSEJ4TDBTTHNDT18tWGRROVA5NFhWam9ycmg0Z1pxWFhvbUpB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-15 19:11:51"
     }
   ],
   "latest_facebook_20": [
@@ -619,6 +616,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "斗六人文公園開發進度逾8成 劉建國服務處17年老家因這原因確定搬家 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ySURCMEI5V1NTWWIwMVZhaDFtdVdNZjZCNDFDTHVSY0NPbEVPaFNOcHUtR0lSelhFN0N4YzVXdUdUSFdhWGhuWlk3RW5LVzhU0gFWQVVfeXFMTS0xbWd6V0VkZFY5Ni01bE1YS2ZKdEpVNnFCazlDcGRRbUk0Rm53TVNCeE1oN0pMUElXR3MySTVGQjE4NDBua1NmWDI1R1Z1RzAxamQxY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-17 13:42:56"
+    },
+    {
       "title": "賴清德古坑品筍力挺劉建國 三大理由盼雲林迎來大發展 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNOV9yTFgtT1M3ZVFXYWQyNTM5bUI1WU5vT041cGF2aFZZcHRnT2tpbldJaEZFSjl1bHlJS2FaOWhBOGk4RXlPNGVmZ2tWWVNrMk1VN29xa0FyR0ZCN2ZUaHZvdkVGM2xocDJtU0NiOExsaDk0VGNiWVlFZW1wOXI4c0s1NmdfRktzSzgtcTN0emZUQWJ4TGxVY3ZSel9nQk9weHc2OG9aM0hMUU8xWVpySmNaWUF5bW1jOG9GY2FPNWRoSzBiMFFCaTJzbV9WZnNoSHh2LUxwdDNvUjc2XzE4YWxycXdhVlBQTi1iZi1Ya3Ayck56Q0g1dllMUHB6bmRrdTBMZXBxRUNqbThWeWJrMG5RMkkyVmptOXgxS2U0TWhuSExNS1lQWVhBS3dLWmg1a1FJNXg5SUpYNmp3NS1Nd1FSRUxxNzZlWEdmb1J3bTlXWnE1WXlMUV9FbVNWMmF1UXVUc2FfV0FFdDl1Nk5hUFlOcmo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-17 08:22:30"
@@ -712,11 +714,6 @@
       "title": "張嘉郡攜手盧秀燕談區域治理 盼串聯中台灣共創發展新格局 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SWTJNTkhhTTl6S0lrREh3REI0S1IzTGVITWJpNWduRUFjMW0zMHRGNjlTOFNVOV9MVUtQcGVpUWdPcFIzb0VFNW4yRHhFenVHN0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-15 21:02:00"
-    },
-    {
-      "title": "盧秀燕訪雲林大啖九層粿 公開盛讚張嘉郡政見有國際觀 - 元丰傳媒",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16V1IzdFUwSVhYMnVmcWU0bHFHUmIyZnJNRWFDTzdOdDNRV0w0TGR6NVdpYTZPajZ4aUlmX1VUYlNUcmNvQktDZi0tSEJ4TDBTTHNDT18tWGRROVA5NFhWam9ycmg0Z1pxWFhvbUpB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-15 19:11:51"
     }
   ],
   "person_sections": {
@@ -1031,6 +1028,11 @@
       ],
       "news": [
         {
+          "title": "斗六人文公園開發進度逾8成 劉建國服務處17年老家因這原因確定搬家 - UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ySURCMEI5V1NTWWIwMVZhaDFtdVdNZjZCNDFDTHVSY0NPbEVPaFNOcHUtR0lSelhFN0N4YzVXdUdUSFdhWGhuWlk3RW5LVzhU0gFWQVVfeXFMTS0xbWd6V0VkZFY5Ni01bE1YS2ZKdEpVNnFCazlDcGRRbUk0Rm53TVNCeE1oN0pMUElXR3MySTVGQjE4NDBua1NmWDI1R1Z1RzAxamQxY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-17 13:42:56"
+        },
+        {
           "title": "賴清德古坑品筍力挺劉建國 三大理由盼雲林迎來大發展 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNOV9yTFgtT1M3ZVFXYWQyNTM5bUI1WU5vT041cGF2aFZZcHRnT2tpbldJaEZFSjl1bHlJS2FaOWhBOGk4RXlPNGVmZ2tWWVNrMk1VN29xa0FyR0ZCN2ZUaHZvdkVGM2xocDJtU0NiOExsaDk0VGNiWVlFZW1wOXI4c0s1NmdfRktzSzgtcTN0emZUQWJ4TGxVY3ZSel9nQk9weHc2OG9aM0hMUU8xWVpySmNaWUF5bW1jOG9GY2FPNWRoSzBiMFFCaTJzbV9WZnNoSHh2LUxwdDNvUjc2XzE4YWxycXdhVlBQTi1iZi1Ya3Ayck56Q0g1dllMUHB6bmRrdTBMZXBxRUNqbThWeWJrMG5RMkkyVmptOXgxS2U0TWhuSExNS1lQWVhBS3dLWmg1a1FJNXg5SUpYNmp3NS1Nd1FSRUxxNzZlWEdmb1J3bTlXWnE1WXlMUV9FbVNWMmF1UXVUc2FfV0FFdDl1Nk5hUFlOcmo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-17 08:22:30"
@@ -1124,17 +1126,17 @@
           "title": "劉建國爭取農民福祉 抽水電費免負擔、八百萬元改善農水路 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNa2R1M0U3eERraFBPWkdYWHA4dEJGUDlHZEhfOHY4ZW1FVHBxQ3BMY01RZmU1bXNnNnNvSm5zZDBiVnc1YWswNThkbW5kLXNoZWxwN0VVRHI3Y1pjbGwyOE9nXzhIYVdPTU95dk9WaWxsVENfd29sRXlaX3p1S0NiQVpYWUxieFZ2dzBQV3BmZkEtci1TWXl6NG1SX3YtbzhpclYybG9oc3NUdThzMHBrZHF4c0JuWEJDbC1rQ3lOSVRRaTB4ZEhOZHpXY0x2WndSRFZ2bExpbklCOGlvcml6N2x4WHVPV044TXRFUWxGd2U2T2FFX1JrNXZieHl1X2h3Z2R0Z3RnWklRdGgxRDJ2MzBUcHNocEU5Vy1hdmw4OEZhT0NzMFk2dmFTYzY4eFBIREhWdWc3am4yVW9zYlIwdTFjcHRUVXM3ek1wbmZsQmdZeFNyN2ZXRTViaW8taV9LaXhLUU9zTGU2Z0pyZUJfVWxiTE4zX2xkVmN0dVMyUjk5Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-15 17:42:37"
-        },
-        {
-          "title": "總统賴清德出席古坑品筍饗宴活動 力挺劉建國細數三大理由 - 三星傳媒",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NbEdzc0ZIM0ItQ0dhUTNaR1BweUx0OE5GWXM0MWItc2dFX1V3eUhfdC1TazlZcFh3MW9YcndfeDJJYks2VVdhWmxNcWkzcUNnVWtRT3BKUWJqTUtwZDlzdmdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-15 17:28:17"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "斗六人文公園開發進度逾8成 劉建國服務處17年老家因這原因確定搬家 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ySURCMEI5V1NTWWIwMVZhaDFtdVdNZjZCNDFDTHVSY0NPbEVPaFNOcHUtR0lSelhFN0N4YzVXdUdUSFdhWGhuWlk3RW5LVzhU0gFWQVVfeXFMTS0xbWd6V0VkZFY5Ni01bE1YS2ZKdEpVNnFCazlDcGRRbUk0Rm53TVNCeE1oN0pMUElXR3MySTVGQjE4NDBua1NmWDI1R1Z1RzAxamQxY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-17 13:42:56"
+      },
       {
         "title": "賴清德古坑品筍力挺劉建國 三大理由盼雲林迎來大發展 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNOV9yTFgtT1M3ZVFXYWQyNTM5bUI1WU5vT041cGF2aFZZcHRnT2tpbldJaEZFSjl1bHlJS2FaOWhBOGk4RXlPNGVmZ2tWWVNrMk1VN29xa0FyR0ZCN2ZUaHZvdkVGM2xocDJtU0NiOExsaDk0VGNiWVlFZW1wOXI4c0s1NmdfRktzSzgtcTN0emZUQWJ4TGxVY3ZSel9nQk9weHc2OG9aM0hMUU8xWVpySmNaWUF5bW1jOG9GY2FPNWRoSzBiMFFCaTJzbV9WZnNoSHh2LUxwdDNvUjc2XzE4YWxycXdhVlBQTi1iZi1Ya3Ayck56Q0g1dllMUHB6bmRrdTBMZXBxRUNqbThWeWJrMG5RMkkyVmptOXgxS2U0TWhuSExNS1lQWVhBS3dLWmg1a1FJNXg5SUpYNmp3NS1Nd1FSRUxxNzZlWEdmb1J3bTlXWnE1WXlMUV9FbVNWMmF1UXVUc2FfV0FFdDl1Nk5hUFlOcmo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1161,16 +1163,16 @@
         "title": "🌾 總統來了！賴清德總統蒞臨古坑，感謝中央挺雲林！ 今天， 賴清德 總統親自來到古坑，參拜建德寺地母廟，也和鄉親一起品嚐古坑饗筍宴！ 其實總統早就想來了。2023年原訂的行程，因配合登革熱防疫而延期，這一等，就等到了今天。當年農民田間消毒清園受到影響 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi5AdBVV95cUxNaG4wSzdabnU0UlVYbHN3ZFVwamR0enVxQThhczYtaGVvVVlaY3BuN0NEOG5Pa3pJQ0xlUGZWcmpJM0dNUmk4SWo1dHFDZE55VzNIbGFPTFJjeHF6MWNla0RMQjlJcV9pS05tNVhBSTctS0h0cXNKaW1ZLWpzSUNYZ3JYeHZlSG1sRE9KXzJzb3BEMkN5eTdia0M0SE1mME9JbFlaNUNZSlJXbVNJdFEtNml4X2pkYWp3a1ZiMmFWWkdxMTZuRzFZM2k5djZIcFFINF9admI3blozcGJhN1J5a2c2WnBZYTdMLVd6aGpEMHo0SndKb2NLTDFnZTVlT1p4Nm5EUHVkem1YN0NMaERaMnd4NGZTcHVwOEZvWDYtRFhsWUx1MEZWbWtEbDdJWTZZZG9HZHBHeTlsSHY5Tmp0U05RRUxmZlEtMHNzeUhXSzBkSU9Sd3BIYW92Mkt1QklPU0g5eXF3QW9vSFBndkI3bTM4aVZ1cDBIa3RuZW5HVzhBZ2xJSWtRckUzZ3FSZ0VOUGlTVFl4bkotUnVxaFRIOXM3ZjFfQ0tRVVBrTkYtWFM2SFgtZ1ZUUHUwendRUE04UmJ6dWlLaVNMWnVfS1R6T2l6aFZkQnRUZU1DenZkbDhuMngxb0ZqV2ptNERSd054djY1TXJiVEZHenE1TW5PS05UVC1vNDQ1ckxLb2ZOMm9zcEJIZU9yUkQtYWpzX3BkekNKbFJCVWRkSUVXcFptS0s1cTRvT1Z6dXBBaVZnSzVvcGVUQllRLWtJbEVaQ3g0dTEtR2lFZDJuZGZOeVQwR0ZUSGRnVnctaWwzZWVqZHIwclBQUkFfOGNRRVVUcElKcHRFc3Q2cjRWLUZDaWN1UFpPM0Nod0ZsZ1Z3d3lISGVsUXJBNVgybUVEZzdpV3RWSFJfakNleU9ZMHlqdXlfeTJwbllyRG8zTTBKOWNTc3RiS2hWTFRXNERtUkVLOS1FZFQ1dGhIUVNYeU96Z3IwZHBIZFlaNk53cExBTUw5Wlk1OE11eHJjN0RmZy1vR3JITmU2dHlSLUgtcjlzUVl0QW8xN1VlZG1wR1RKZ3FTTDNqdTkyR0Q1ZVU1Y1dvYTVsSmJVQlF4V3lna28zak1abDBfS0dLTjZLZkZWajQ2SlJiMzRfODFyN1pDQlBXMG9XWVVGajhxbGl1emZMdnJIbjNnN0ZDNGRsUXhsRGI2VjloMXBicS1HZVpPdmdPRUd4S3JVcnBxYl9XREllYWVKOWlJSGZNZkhTT2E3OXNjUlExRG04S3lRSEQ2QnhvSF9BWWlUbWtmbE1ZTkdJWVVvdHFtQ1c",
         "time": "2026-08-16 17:37:05"
-      },
-      {
-        "title": "張嘉郡 (@Sweet.Yunlin) - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWjh5LTZCRkVuYmxXb2RsXzBxajhObGpMTV9PZFNoOG1reXJUbGlBNG14M09zcUJNWmhPRE9hUlRHeXhQTnExSExJam5YN1N4cU44TXA4S3NEV2c1bDNlYjJGODRIQzh0MGU0WllsZ2pqLU5qQnVmQ0RUNDNNOGUxamJubHd3UQ",
-        "time": "2026-08-16 15:19:19"
       }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "斗六人文公園開發進度逾8成 劉建國服務處17年老家因這原因確定搬家 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ySURCMEI5V1NTWWIwMVZhaDFtdVdNZjZCNDFDTHVSY0NPbEVPaFNOcHUtR0lSelhFN0N4YzVXdUdUSFdhWGhuWlk3RW5LVzhU0gFWQVVfeXFMTS0xbWd6V0VkZFY5Ni01bE1YS2ZKdEpVNnFCazlDcGRRbUk0Rm53TVNCeE1oN0pMUElXR3MySTVGQjE4NDBua1NmWDI1R1Z1RzAxamQxY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-17 13:42:56"
+      },
       {
         "title": "賴清德古坑品筍力挺劉建國 三大理由盼雲林迎來大發展 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNOV9yTFgtT1M3ZVFXYWQyNTM5bUI1WU5vT041cGF2aFZZcHRnT2tpbldJaEZFSjl1bHlJS2FaOWhBOGk4RXlPNGVmZ2tWWVNrMk1VN29xa0FyR0ZCN2ZUaHZvdkVGM2xocDJtU0NiOExsaDk0VGNiWVlFZW1wOXI4c0s1NmdfRktzSzgtcTN0emZUQWJ4TGxVY3ZSel9nQk9weHc2OG9aM0hMUU8xWVpySmNaWUF5bW1jOG9GY2FPNWRoSzBiMFFCaTJzbV9WZnNoSHh2LUxwdDNvUjc2XzE4YWxycXdhVlBQTi1iZi1Ya3Ayck56Q0g1dllMUHB6bmRrdTBMZXBxRUNqbThWeWJrMG5RMkkyVmptOXgxS2U0TWhuSExNS1lQWVhBS3dLWmg1a1FJNXg5SUpYNmp3NS1Nd1FSRUxxNzZlWEdmb1J3bTlXWnE1WXlMUV9FbVNWMmF1UXVUc2FfV0FFdDl1Nk5hUFlOcmo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1365,11 +1367,6 @@
         "title": "總统賴清德出席古坑品筍饗宴活動 力挺劉建國細數三大理由 - 三星傳媒",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NbEdzc0ZIM0ItQ0dhUTNaR1BweUx0OE5GWXM0MWItc2dFX1V3eUhfdC1TazlZcFh3MW9YcndfeDJJYks2VVdhWmxNcWkzcUNnVWtRT3BKUWJqTUtwZDlzdmdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-15 17:28:17"
-      },
-      {
-        "title": "盧秀燕南下雲林西螺拜媽祖 輔選張嘉郡贈蒜頭代表「凍蒜」 - 中華新聞雲／中華日報",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xbWVqendiSVhIUUh1SXBTSlluQnRab09mZHhCdEt0QS05c3U0a2VqRVE4c3BzQUZpdWFCeGFwRHY5d090TVlHRnRhU3YycWppdXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-15 17:16:43"
       }
     ],
     "facebook": [
@@ -1602,6 +1599,13 @@
     "hour": [],
     "day": [
       {
+        "title": "斗六人文公園開發進度逾8成 劉建國服務處17年老家因這原因確定搬家 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ySURCMEI5V1NTWWIwMVZhaDFtdVdNZjZCNDFDTHVSY0NPbEVPaFNOcHUtR0lSelhFN0N4YzVXdUdUSFdhWGhuWlk3RW5LVzhU0gFWQVVfeXFMTS0xbWd6V0VkZFY5Ni01bE1YS2ZKdEpVNnFCazlDcGRRbUk0Rm53TVNCeE1oN0pMUElXR3MySTVGQjE4NDBua1NmWDI1R1Z1RzAxamQxY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-17 13:42:56",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "賴清德古坑品筍力挺劉建國 三大理由盼雲林迎來大發展 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNOV9yTFgtT1M3ZVFXYWQyNTM5bUI1WU5vT041cGF2aFZZcHRnT2tpbldJaEZFSjl1bHlJS2FaOWhBOGk4RXlPNGVmZ2tWWVNrMk1VN29xa0FyR0ZCN2ZUaHZvdkVGM2xocDJtU0NiOExsaDk0VGNiWVlFZW1wOXI4c0s1NmdfRktzSzgtcTN0emZUQWJ4TGxVY3ZSel9nQk9weHc2OG9aM0hMUU8xWVpySmNaWUF5bW1jOG9GY2FPNWRoSzBiMFFCaTJzbV9WZnNoSHh2LUxwdDNvUjc2XzE4YWxycXdhVlBQTi1iZi1Ya3Ayck56Q0g1dllMUHB6bmRrdTBMZXBxRUNqbThWeWJrMG5RMkkyVmptOXgxS2U0TWhuSExNS1lQWVhBS3dLWmg1a1FJNXg5SUpYNmp3NS1Nd1FSRUxxNzZlWEdmb1J3bTlXWnE1WXlMUV9FbVNWMmF1UXVUc2FfV0FFdDl1Nk5hUFlOcmo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-17 08:22:30",
@@ -1635,13 +1639,6 @@
         "time": "2026-08-16 17:04:52",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "張嘉郡 (@Sweet.Yunlin) - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWjh5LTZCRkVuYmxXb2RsXzBxajhObGpMTV9PZFNoOG1reXJUbGlBNG14M09zcUJNWmhPRE9hUlRHeXhQTnExSExJam5YN1N4cU44TXA4S3NEV2c1bDNlYjJGODRIQzh0MGU0WllsZ2pqLU5qQnVmQ0RUNDNNOGUxamJubHd3UQ",
-        "time": "2026-08-16 15:19:19",
-        "platform": "facebook",
-        "risk": "綠"
       }
     ]
   },
@@ -1654,6 +1651,10 @@
       {
         "name": "古坑",
         "count": 3
+      },
+      {
+        "name": "斗六",
+        "count": 1
       }
     ],
     "groups": [
