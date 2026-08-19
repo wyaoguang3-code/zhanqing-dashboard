@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-08-19T16:11:28.686320+00:00",
+  "generated_at": "2026-08-19T16:27:08.461891+00:00",
   "metrics": {
-    "total_24h": 6,
+    "total_24h": 7,
     "prev_24h": 12,
-    "growth_pct": -50.0,
-    "news_24h": 0,
+    "growth_pct": -41.67,
+    "news_24h": 1,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 202,
+    "total": 203,
     "prev": 122,
-    "growth_pct": 65.57,
-    "news": 140,
+    "growth_pct": 66.39,
+    "news": 141,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -29,12 +29,16 @@
     {
       "platform": "youtube",
       "count": 6
+    },
+    {
+      "platform": "news",
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 140
+      "count": 141
     },
     {
       "platform": "facebook",
@@ -49,6 +53,10 @@
     {
       "hour": "2026-08-19 20:00",
       "count": 6
+    },
+    {
+      "hour": "2026-08-19 23:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -291,22 +299,63 @@
     {
       "hour": "2026-08-19 20:00",
       "count": 6
+    },
+    {
+      "hour": "2026-08-19 23:00",
+      "count": 1
     }
   ],
-  "mention_by_platform_24h": [],
-  "mention_latest_by_platform_24h": {},
-  "alias_by_platform_24h": [],
-  "alias_latest_by_platform_24h": {},
+  "mention_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 1
+    }
+  ],
+  "mention_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "筱君 台灣 PLUS-雲林幸福指數全國墊底 劉建國誓言翻轉壞印象 0819 - 美洲台灣日報",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBla3JwSFVlNFJ2ek9TZUJoLUVLcjl5RjZtV0QxaFo3X2FnOWsxSTdNZ3lwbGxiRlV4VjZMelZoc0JILXIyRWVvWTJCdmExQ3QxVzhsZmRacFpicWtOUTVva3k0SWo2ZnppMlNaWmlPZ2RfTWJzR2Fz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-19 23:35:37"
+      }
+    ]
+  },
+  "alias_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 1
+    }
+  ],
+  "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "筱君 台灣 PLUS-雲林幸福指數全國墊底 劉建國誓言翻轉壞印象 0819 - 美洲台灣日報",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBla3JwSFVlNFJ2ek9TZUJoLUVLcjl5RjZtV0QxaFo3X2FnOWsxSTdNZ3lwbGxiRlV4VjZMelZoc0JILXIyRWVvWTJCdmExQ3QxVzhsZmRacFpicWtOUTVva3k0SWo2ZnppMlNaWmlPZ2RfTWJzR2Fz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-19 23:35:37"
+      }
+    ]
+  },
   "mention_compare_24h": {
     "張嘉郡": 0,
-    "劉建國": 0
+    "劉建國": 1
   },
   "mention_compare_7d": {
     "張嘉郡": 96,
-    "劉建國": 89
+    "劉建國": 90
   },
-  "top_news": [],
+  "top_news": [
+    {
+      "title": "筱君 台灣 PLUS-雲林幸福指數全國墊底 劉建國誓言翻轉壞印象 0819 - 美洲台灣日報",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBla3JwSFVlNFJ2ek9TZUJoLUVLcjl5RjZtV0QxaFo3X2FnOWsxSTdNZ3lwbGxiRlV4VjZMelZoc0JILXIyRWVvWTJCdmExQ3QxVzhsZmRacFpicWtOUTVva3k0SWo2ZnppMlNaWmlPZ2RfTWJzR2Fz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-19 23:35:37"
+    }
+  ],
   "top_news_7d": [
+    {
+      "title": "筱君 台灣 PLUS-雲林幸福指數全國墊底 劉建國誓言翻轉壞印象 0819 - 美洲台灣日報",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBla3JwSFVlNFJ2ek9TZUJoLUVLcjl5RjZtV0QxaFo3X2FnOWsxSTdNZ3lwbGxiRlV4VjZMelZoc0JILXIyRWVvWTJCdmExQ3QxVzhsZmRacFpicWtOUTVva3k0SWo2ZnppMlNaWmlPZ2RfTWJzR2Fz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-19 23:35:37"
+    },
     {
       "title": "廢清、資循雙法說明會前進雲科大 立委劉建國力爭咖啡全株利用、倡議植樹打造韌性宜居城市 - kingtop.com.tw",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01dnVQbEFEZHNCTzZRS1M3UFVpaE45a0xHQXRSLXJCVmlNbjVFRDhMZE5pU0VzZ1Y4UmZRYllncDY5aEFmVVpQZmNpN0xhaWRWTlVqWlRVblFOQ3ZXVE1vcTZBc2VlQ1FQU3dv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -401,11 +450,6 @@
       "title": "盧秀燕訪西螺參拜啖美食 盛讚張嘉郡拋政見讓雲林更進步 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOVVFyWGpoLXZjbm42bF9HSTJXRzNGUFpYaVRuaVVCaFBCdndMMG5kTS1OLVlBS2ZOcjIxQXdJeTNzQ0JWcVlkdlBiU0xOLVo3cGtKV2laeDFHam1KRWdOOEllQjA2XzJzc2ZSZ2Q2ajhHREFid2FWS1FseHlzdnBXWlhJcUNvUm81Tm9HVmtwNFlONXlueWh0TFF4ek1nUmFodV9sV01QVE1UYlhoTDRrZ2ZjaTlRVnJQYkJHNDV1NGc3My1IMklYdkYwSVR0NG1qX0FiWmRwSWVxV1BoeHZIX0FxdjdRRWVieVNZWW9mUy1WZHQtQzd2emJIU0VybzdNczdhQjd1Y1FnYzlTZFVtOFZWclJCUF85cGJob3EyS2x4WlhndC1YcXAtQlFpUHBwUHpGdDNVRkc4X2VMNFhVUnJzdFphLXlDM21QUnBYNC1xamt3bjVmYU54VzlSM2M2eExGLS1iQjBfd3NrSGNyampNM21RS1c5bjB4VDN4TlQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-17 08:12:29"
-    },
-    {
-      "title": "賴清德古坑品筍力挺劉建國 三大理由盼雲林迎來大發展 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlliNjFYM29Ubmh1SmZwdXA2eE1pMkNfanpDU1VmMXh3ajRRT09KV3VwMndKQnV4SWtYeDgtUkw3ZHc4aE04VGtsWFN0REdKdUFrZTY1dkROaTRmWng5QmtiT085bkQ2OWdDRmQzajdYODI2MlQ3eFFXTFk1Z3VrLTI0bGRuTzRWQ0tabGxtb0M3dUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-17 08:11:21"
     }
   ],
   "latest_facebook_20": [
@@ -512,6 +556,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "筱君 台灣 PLUS-雲林幸福指數全國墊底 劉建國誓言翻轉壞印象 0819 - 美洲台灣日報",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBla3JwSFVlNFJ2ek9TZUJoLUVLcjl5RjZtV0QxaFo3X2FnOWsxSTdNZ3lwbGxiRlV4VjZMelZoc0JILXIyRWVvWTJCdmExQ3QxVzhsZmRacFpicWtOUTVva3k0SWo2ZnppMlNaWmlPZ2RfTWJzR2Fz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-19 23:35:37"
+    },
+    {
       "title": "廢清、資循雙法說明會前進雲科大 立委劉建國力爭咖啡全株利用、倡議植樹打造韌性宜居城市 - kingtop.com.tw",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01dnVQbEFEZHNCTzZRS1M3UFVpaE45a0xHQXRSLXJCVmlNbjVFRDhMZE5pU0VzZ1Y4UmZRYllncDY5aEFmVVpQZmNpN0xhaWRWTlVqWlRVblFOQ3ZXVE1vcTZBc2VlQ1FQU3dv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-18 22:41:38"
@@ -605,11 +654,6 @@
       "title": "盧秀燕訪西螺參拜啖美食 盛讚張嘉郡拋政見讓雲林更進步 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOVVFyWGpoLXZjbm42bF9HSTJXRzNGUFpYaVRuaVVCaFBCdndMMG5kTS1OLVlBS2ZOcjIxQXdJeTNzQ0JWcVlkdlBiU0xOLVo3cGtKV2laeDFHam1KRWdOOEllQjA2XzJzc2ZSZ2Q2ajhHREFid2FWS1FseHlzdnBXWlhJcUNvUm81Tm9HVmtwNFlONXlueWh0TFF4ek1nUmFodV9sV01QVE1UYlhoTDRrZ2ZjaTlRVnJQYkJHNDV1NGc3My1IMklYdkYwSVR0NG1qX0FiWmRwSWVxV1BoeHZIX0FxdjdRRWVieVNZWW9mUy1WZHQtQzd2emJIU0VybzdNczdhQjd1Y1FnYzlTZFVtOFZWclJCUF85cGJob3EyS2x4WlhndC1YcXAtQlFpUHBwUHpGdDNVRkc4X2VMNFhVUnJzdFphLXlDM21QUnBYNC1xamt3bjVmYU54VzlSM2M2eExGLS1iQjBfd3NrSGNyampNM21RS1c5bjB4VDN4TlQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-17 08:12:29"
-    },
-    {
-      "title": "賴清德古坑品筍力挺劉建國 三大理由盼雲林迎來大發展 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlliNjFYM29Ubmh1SmZwdXA2eE1pMkNfanpDU1VmMXh3ajRRT09KV3VwMndKQnV4SWtYeDgtUkw3ZHc4aE04VGtsWFN0REdKdUFrZTY1dkROaTRmWng5QmtiT085bkQ2OWdDRmQzajdYODI2MlQ3eFFXTFk1Z3VrLTI0bGRuTzRWQ0tabGxtb0M3dUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-17 08:11:21"
     }
   ],
   "person_sections": {
@@ -924,6 +968,11 @@
       ],
       "news": [
         {
+          "title": "筱君 台灣 PLUS-雲林幸福指數全國墊底 劉建國誓言翻轉壞印象 0819 - 美洲台灣日報",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBla3JwSFVlNFJ2ek9TZUJoLUVLcjl5RjZtV0QxaFo3X2FnOWsxSTdNZ3lwbGxiRlV4VjZMelZoc0JILXIyRWVvWTJCdmExQ3QxVzhsZmRacFpicWtOUTVva3k0SWo2ZnppMlNaWmlPZ2RfTWJzR2Fz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-19 23:35:37"
+        },
+        {
           "title": "廢清、資循雙法說明會前進雲科大 立委劉建國力爭咖啡全株利用、倡議植樹打造韌性宜居城市 - kingtop.com.tw",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01dnVQbEFEZHNCTzZRS1M3UFVpaE45a0xHQXRSLXJCVmlNbjVFRDhMZE5pU0VzZ1Y4UmZRYllncDY5aEFmVVpQZmNpN0xhaWRWTlVqWlRVblFOQ3ZXVE1vcTZBc2VlQ1FQU3dv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-18 22:41:38"
@@ -1017,11 +1066,6 @@
           "title": "賴清德古坑品筍力挺劉建國 三大理由盼雲林迎來大發展 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlliNjFYM29Ubmh1SmZwdXA2eE1pMkNfanpDU1VmMXh3ajRRT09KV3VwMndKQnV4SWtYeDgtUkw3ZHc4aE04VGtsWFN0REdKdUFrZTY1dkROaTRmWng5QmtiT085bkQ2OWdDRmQzajdYODI2MlQ3eFFXTFk1Z3VrLTI0bGRuTzRWQ0tabGxtb0M3dUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-17 08:11:21"
-        },
-        {
-          "title": "總統賴清德古坑品筍力挺劉建國 細數政績籲鄉親拚雲林未來 - n.yam.com",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NczJPaVBXZTJhSTdYZDVXRXA5S29VeE5kRXdtdXdwM1JRaUp6UXNGS2xGSDFST0ZkR0ZWNlk1dFRBVGJuQkM0V01CSFZZLUtlQWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-17 07:29:03"
         }
       ]
     }
@@ -1058,10 +1102,22 @@
         "url": "https://www.youtube.com/shorts/qhc_JRfS1No",
         "time": "2026-08-19 20:25:46"
       }
+    ],
+    "news": [
+      {
+        "title": "筱君 台灣 PLUS-雲林幸福指數全國墊底 劉建國誓言翻轉壞印象 0819 - 美洲台灣日報",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBla3JwSFVlNFJ2ek9TZUJoLUVLcjl5RjZtV0QxaFo3X2FnOWsxSTdNZ3lwbGxiRlV4VjZMelZoc0JILXIyRWVvWTJCdmExQ3QxVzhsZmRacFpicWtOUTVva3k0SWo2ZnppMlNaWmlPZ2RfTWJzR2Fz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-19 23:35:37"
+      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "筱君 台灣 PLUS-雲林幸福指數全國墊底 劉建國誓言翻轉壞印象 0819 - 美洲台灣日報",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBla3JwSFVlNFJ2ek9TZUJoLUVLcjl5RjZtV0QxaFo3X2FnOWsxSTdNZ3lwbGxiRlV4VjZMelZoc0JILXIyRWVvWTJCdmExQ3QxVzhsZmRacFpicWtOUTVva3k0SWo2ZnppMlNaWmlPZ2RfTWJzR2Fz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-19 23:35:37"
+      },
       {
         "title": "廢清、資循雙法說明會前進雲科大 立委劉建國力爭咖啡全株利用、倡議植樹打造韌性宜居城市 - kingtop.com.tw",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01dnVQbEFEZHNCTzZRS1M3UFVpaE45a0xHQXRSLXJCVmlNbjVFRDhMZE5pU0VzZ1Y4UmZRYllncDY5aEFmVVpQZmNpN0xhaWRWTlVqWlRVblFOQ3ZXVE1vcTZBc2VlQ1FQU3dv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1256,11 +1312,6 @@
         "title": "盧秀燕訪雲林大啖九層粿 公開盛讚張嘉郡政見有國際觀 - 元丰傳媒",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16V1IzdFUwSVhYMnVmcWU0bHFHUmIyZnJNRWFDTzdOdDNRV0w0TGR6NVdpYTZPajZ4aUlmX1VUYlNUcmNvQktDZi0tSEJ4TDBTTHNDT18tWGRROVA5NFhWam9ycmg0Z1pxWFhvbUpB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-15 19:11:51"
-      },
-      {
-        "title": "賴清德現身古坑「饗筍宴」力挺劉建國 喊打造AI新雲林 - tw.news.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOSFUzelJBM2NTLTgxM1ZEMUMyellFZV9Vck9SQlpCSUlsM1plbEZZelV4QWJIb29GQTZkeC0tdWR5cUlVamhtZ1ZvVTQySVkzSXh3QnhScTVXeEYzb3ZyNE1wODFIclV4X0dQWi13SkpkVkRrSGhnczhxajZSci14M200S0tnbU5jd01PZC1oLVh0b0VrMGVibTQ5WGtEbk4ySjUyRUhrRTJvaVlTR2hBMkJPb2tWbXJ3VnY4aHdQZklPd0RvWUl1QzhXQlNwNUdkWlFoYWg2TEg1eEpxUjV5QXRfS1o3RUxicGQ0QU1RczY0Szh4bHFDY3hQTmFzU2x4TVNXX2dtYkVmMkpiNFZOY1ppaV9sQS1QYURyYzhNVEN0OG55QVRkYkdHVzM3bDVmODFVYVA4TWRjaTJLN0hlQ2pVN3Y4UkVtSUZyM2ZVWGNqb2FueFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-15 19:10:53"
       }
     ],
     "facebook": [
@@ -1523,6 +1574,13 @@
     "hour": [],
     "day": [
       {
+        "title": "筱君 台灣 PLUS-雲林幸福指數全國墊底 劉建國誓言翻轉壞印象 0819 - 美洲台灣日報",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBla3JwSFVlNFJ2ek9TZUJoLUVLcjl5RjZtV0QxaFo3X2FnOWsxSTdNZ3lwbGxiRlV4VjZMelZoc0JILXIyRWVvWTJCdmExQ3QxVzhsZmRacFpicWtOUTVva3k0SWo2ZnppMlNaWmlPZ2RfTWJzR2Fz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-19 23:35:37",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "政院普發現金有三前提，在野黨別再漫天喊價！",
         "url": "https://www.youtube.com/shorts/XAWNqEiJEz4",
         "time": "2026-08-19 20:44:02",
@@ -1567,7 +1625,12 @@
     ]
   },
   "regional_groups": {
-    "regions": [],
+    "regions": [
+      {
+        "name": "雲林",
+        "count": 1
+      }
+    ],
     "groups": []
   }
 }
