@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-08-20T07:33:27.198554+00:00",
+  "generated_at": "2026-08-20T07:49:07.679607+00:00",
   "metrics": {
-    "total_24h": 11,
-    "prev_24h": 3,
-    "growth_pct": 266.67,
-    "news_24h": 5,
+    "total_24h": 20,
+    "prev_24h": 4,
+    "growth_pct": 400.0,
+    "news_24h": 14,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 190,
-    "prev": 124,
-    "growth_pct": 53.23,
-    "news": 129,
+    "total": 197,
+    "prev": 126,
+    "growth_pct": 56.35,
+    "news": 135,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -27,22 +27,22 @@
   },
   "by_platform": [
     {
-      "platform": "youtube",
-      "count": 6
+      "platform": "news",
+      "count": 14
     },
     {
-      "platform": "news",
-      "count": 5
+      "platform": "youtube",
+      "count": 6
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 129
+      "count": 135
     },
     {
       "platform": "facebook",
-      "count": 51
+      "count": 52
     },
     {
       "platform": "youtube",
@@ -68,14 +68,14 @@
     },
     {
       "hour": "2026-08-20 14:00",
-      "count": 2
+      "count": 3
+    },
+    {
+      "hour": "2026-08-20 15:00",
+      "count": 8
     }
   ],
   "by_hour_7d": [
-    {
-      "hour": "2026-08-13 15:00",
-      "count": 3
-    },
     {
       "hour": "2026-08-13 16:00",
       "count": 10
@@ -289,6 +289,10 @@
       "count": 1
     },
     {
+      "hour": "2026-08-19 10:00",
+      "count": 1
+    },
+    {
       "hour": "2026-08-19 20:00",
       "count": 6
     },
@@ -306,17 +310,66 @@
     },
     {
       "hour": "2026-08-20 14:00",
-      "count": 2
+      "count": 3
+    },
+    {
+      "hour": "2026-08-20 15:00",
+      "count": 8
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 5
+      "count": 14
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "張麗善親遞接力棒！張嘉郡喊「8年不能歸零」、拚30項建設 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BNkF5WlN4U0JKaGpleTRDd0lpTTNnRW52ZTEtV3ZBMTRNaHd5UzN6aTFkajlBNWg3WWw5UExBWjh3Qzg1V2F4ek5zYk_SAVJBVV95cUxPYmk0aHQ2MklJYmx1T1JWUGpHZFJNQndNRFp5S1hNWGd3bVNQUnlwVkR0Z1pOUVgzUllUeUhZS3FiR0dFaGlkN1RWNVJSSjNBWXp3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:33:28"
+      },
+      {
+        "title": "選戰倒數百天 張嘉郡接下張麗善棒子 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjSmRpa2hIT1dPdG9CRWgxX2hta1RNWm5YZXowT2tjUkE2LWhCY09ZTHlRMzBTUmxLZXd0c3hMeDBuY29OOVpTaEFSQ0FadVFUTkJTLTlzYnJRbnlQOE9nOUFqNEg2ZG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:25:21"
+      },
+      {
+        "title": "選戰倒數百天 張嘉郡接下張麗善棒子 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXeEttS2JkY1FyWk5pUnZMTGhfNC1jOHpsaGNPOHZzQWp2MzFaTXBFMmFkSG5URTNNdDRNYVZmR3FLZEFRX1hYRjdzX25IMHRjRkRvenFwVzBSLTZfWlN2ak5PMHBjV1c4cjE3TUd2Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:25:21"
+      },
+      {
+        "title": "選戰倒數百日 劉建國拋「一園區、七顆心」幼到老通通照顧 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOQ2VtcFZXM1Z0QTR2X0lBZm5KVXpIQlBtMzgyRjRSWVFvc2xxa08zZTdCUF9VV29RWk81bEhLRFY4NjQtM29henNnaFJiQktGc2pjQmFGbUY2UXo4bjRQRENOUi14dG52dWVfQzdFRkVOUVllQ1ZrUGVBbkE5dFlDcDZrU19nbTlfSVk3Q1ExY1hJRzdxRE0yWW1KbG0tcTFqY0paRzVZNHpsYUlBR0RTajEyX1REd2RsZm5WWnJaeC1qZmlDcndNZkJ1ZWJ5c3pEMzRYcjhPdXphZWJ5T09mNEVaZjR6a2ZmcjZkQ3FpY3NnYWtQb1ZsaE5fbkZwRjFBS3BfY3dxTkFrZDFkcnlrb1R2emxIVWdKUTVtSzlRLU5OSm1zc2VQTWZkX1pISEZ4WERqY1VIbmVpVkg3Ymg2MUxmOWY4MGIwVVlyWW55ZzExcjNuVlpUUmw2OFY4NTI5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:20:29"
+      },
+      {
+        "title": "選戰倒數百日劉建國拋「一園區、七顆心」幼到老通通照顧- 政治 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KdUg2dmJCMUl2ZVNvTlhSelNZazFPMVFvZi1RTnB1ajBab2pnd0ZNM1E3aWpfUUJvcVFZVVJlOWtlcnJjYVFEa2hTSEhITnZuTUZ3R2VlNEZCejRzRnotNEFDNWxJWUhvdWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:20:29"
+      },
+      {
+        "title": "立委劉建國拋「一園區、七顆心」政見 從醫療產業到老幼照護打造新雲林 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1MmJRMU16RkJCZFpDM28zLVB6S1FoR29NaGxoTGZlbzlEa1dFb0tUSzRYMHpKelM3ZWxneV85blVESnR6ZEtxSlJSR2xfVzNoM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:18:00"
+      },
+      {
+        "title": "接棒傳承！張嘉郡在距選舉百日接下張麗善棒子續航雲林建設願景| 縣市長議員選戰| 要聞 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4bFJJRGJ2Rnk1dHNmMlVFLWZZQlFPcGdMVG5POXc4azBRcWJrbEdjRlVuQUdtdmZJYm5LMEV2dmpVN1JKM2VqSDgzZ21ZNlVVdUlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:10:56"
+      },
+      {
+        "title": "張嘉郡拚勝選！接棒張麗善續推30項建設盼「讓下一代擁有更好的雲林」 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQTWVxemQ5ZXdCSGpaa3FSVHJqNzFlNXdlTmx6XzItUWJEcEppVjVhZXFYQ2dhTERvNVJXQXFNUzBNVEZwVVdRNHBROTZCUDV5bVQyT2xYZXhuZmx5am1GRlU4SHVkUmp6MFhBM1hBZzZ0QXRDLUFtbWtvMmloWDBwM2VuUjVvclI5aWY2UlZkNFkwYzY0eHR1bDhtcWQ3U2xrWnZSWTNyaEJRSGxYQk5ZUDkyWmRmLWRDeDZSbGRXQkZ4SUx4X3dMOXVRdVc4QV9DY1FsSF91SFpLc0hOZWRJQnFpMFBsUTFRNnlQUDRHelVuNVB5b202OW5GZTM2T3ZkMkt4SEluQVpyOVgzZjBFNWl3ZjlTblBDVzNZcTV3WFVPb1hVZzgwRXVpUGpiNkxiY1BCaHN5QlhHNlRnSDQ2ZlEtWHhONFJ1LUJXRDl0UnlrNWZYZG9uN292eGlvaVZibjNDZ19kWmxFZi1CNUdIN0k0X3ZwTTNiaFdjR0tuWVNZdF9qd25zMkNpTl9ONTlkX1Y0Uy1oMmJJMDRnZmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:08:03"
+      },
+      {
+        "title": "縣市長選舉倒數百日 張嘉郡宣布雲林美術館落腳斗六 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQbDlCQl9yd25WY2FOZnNCMDlweVhuMTJEb0t6aUNBNWpFSFVWdTlGaC1ONGlHblVHS2VIOWlEX2NoVzBSQ1FuVXFoaG5NQ1VjbG1OLVE0eVl2R2Zwb24xLTFTV3Y3djB6SDFqTVBVRk5JZmNWUHFpcEtQR2FTbjM4ZVgxU3dSOFBnM2hOVks2TTFoMW9RakxVY1JqS3ZXbjZzaEMxSThxWjIwZ1hUXzFtZFlMTVhZaWIzTkR4ODEteDZGSF90WkF1UmlXSE5EOHhUTkdFbkJIaGZOTkM3REVqa1dHdlJLbENfQ0FNZ1piWFFadU1Rd1dtWExQcG5zY2ZGYWs4dWxHNUR3aWFSNzRMVU5jM0Vha0tTWl92dnBwQXpKNkJGZUlTWHo5cjkzYVp5aTRESm5lWVNfcVRrcTUtUkZOaEVlUXBwbV9RR05jbkVMdVhIZEx2UDBhRTZXM0VpWUhZenFCdXE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 14:37:42"
+      },
       {
         "title": "接棒張麗善繼續拼！張嘉郡提《雲林美術館白皮書》， 擘劃雲林斗六美術館新願景| 夏和宣| 地方新聞 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XcTNHaDBkZVNXRHdPeWZMZmx4c2FhSGhYNkpidk1ZbFl0MjdNVzBtYkJqZEZVSllLZkdaVm1DamhSS3d4ME5fRVplbUJqUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -347,11 +400,56 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 5
+      "count": 14
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "張麗善親遞接力棒！張嘉郡喊「8年不能歸零」、拚30項建設 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BNkF5WlN4U0JKaGpleTRDd0lpTTNnRW52ZTEtV3ZBMTRNaHd5UzN6aTFkajlBNWg3WWw5UExBWjh3Qzg1V2F4ek5zYk_SAVJBVV95cUxPYmk0aHQ2MklJYmx1T1JWUGpHZFJNQndNRFp5S1hNWGd3bVNQUnlwVkR0Z1pOUVgzUllUeUhZS3FiR0dFaGlkN1RWNVJSSjNBWXp3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:33:28"
+      },
+      {
+        "title": "選戰倒數百天 張嘉郡接下張麗善棒子 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjSmRpa2hIT1dPdG9CRWgxX2hta1RNWm5YZXowT2tjUkE2LWhCY09ZTHlRMzBTUmxLZXd0c3hMeDBuY29OOVpTaEFSQ0FadVFUTkJTLTlzYnJRbnlQOE9nOUFqNEg2ZG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:25:21"
+      },
+      {
+        "title": "選戰倒數百天 張嘉郡接下張麗善棒子 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXeEttS2JkY1FyWk5pUnZMTGhfNC1jOHpsaGNPOHZzQWp2MzFaTXBFMmFkSG5URTNNdDRNYVZmR3FLZEFRX1hYRjdzX25IMHRjRkRvenFwVzBSLTZfWlN2ak5PMHBjV1c4cjE3TUd2Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:25:21"
+      },
+      {
+        "title": "選戰倒數百日 劉建國拋「一園區、七顆心」幼到老通通照顧 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOQ2VtcFZXM1Z0QTR2X0lBZm5KVXpIQlBtMzgyRjRSWVFvc2xxa08zZTdCUF9VV29RWk81bEhLRFY4NjQtM29henNnaFJiQktGc2pjQmFGbUY2UXo4bjRQRENOUi14dG52dWVfQzdFRkVOUVllQ1ZrUGVBbkE5dFlDcDZrU19nbTlfSVk3Q1ExY1hJRzdxRE0yWW1KbG0tcTFqY0paRzVZNHpsYUlBR0RTajEyX1REd2RsZm5WWnJaeC1qZmlDcndNZkJ1ZWJ5c3pEMzRYcjhPdXphZWJ5T09mNEVaZjR6a2ZmcjZkQ3FpY3NnYWtQb1ZsaE5fbkZwRjFBS3BfY3dxTkFrZDFkcnlrb1R2emxIVWdKUTVtSzlRLU5OSm1zc2VQTWZkX1pISEZ4WERqY1VIbmVpVkg3Ymg2MUxmOWY4MGIwVVlyWW55ZzExcjNuVlpUUmw2OFY4NTI5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:20:29"
+      },
+      {
+        "title": "選戰倒數百日劉建國拋「一園區、七顆心」幼到老通通照顧- 政治 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KdUg2dmJCMUl2ZVNvTlhSelNZazFPMVFvZi1RTnB1ajBab2pnd0ZNM1E3aWpfUUJvcVFZVVJlOWtlcnJjYVFEa2hTSEhITnZuTUZ3R2VlNEZCejRzRnotNEFDNWxJWUhvdWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:20:29"
+      },
+      {
+        "title": "立委劉建國拋「一園區、七顆心」政見 從醫療產業到老幼照護打造新雲林 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1MmJRMU16RkJCZFpDM28zLVB6S1FoR29NaGxoTGZlbzlEa1dFb0tUSzRYMHpKelM3ZWxneV85blVESnR6ZEtxSlJSR2xfVzNoM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:18:00"
+      },
+      {
+        "title": "接棒傳承！張嘉郡在距選舉百日接下張麗善棒子續航雲林建設願景| 縣市長議員選戰| 要聞 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4bFJJRGJ2Rnk1dHNmMlVFLWZZQlFPcGdMVG5POXc4azBRcWJrbEdjRlVuQUdtdmZJYm5LMEV2dmpVN1JKM2VqSDgzZ21ZNlVVdUlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:10:56"
+      },
+      {
+        "title": "張嘉郡拚勝選！接棒張麗善續推30項建設盼「讓下一代擁有更好的雲林」 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQTWVxemQ5ZXdCSGpaa3FSVHJqNzFlNXdlTmx6XzItUWJEcEppVjVhZXFYQ2dhTERvNVJXQXFNUzBNVEZwVVdRNHBROTZCUDV5bVQyT2xYZXhuZmx5am1GRlU4SHVkUmp6MFhBM1hBZzZ0QXRDLUFtbWtvMmloWDBwM2VuUjVvclI5aWY2UlZkNFkwYzY0eHR1bDhtcWQ3U2xrWnZSWTNyaEJRSGxYQk5ZUDkyWmRmLWRDeDZSbGRXQkZ4SUx4X3dMOXVRdVc4QV9DY1FsSF91SFpLc0hOZWRJQnFpMFBsUTFRNnlQUDRHelVuNVB5b202OW5GZTM2T3ZkMkt4SEluQVpyOVgzZjBFNWl3ZjlTblBDVzNZcTV3WFVPb1hVZzgwRXVpUGpiNkxiY1BCaHN5QlhHNlRnSDQ2ZlEtWHhONFJ1LUJXRDl0UnlrNWZYZG9uN292eGlvaVZibjNDZ19kWmxFZi1CNUdIN0k0X3ZwTTNiaFdjR0tuWVNZdF9qd25zMkNpTl9ONTlkX1Y0Uy1oMmJJMDRnZmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:08:03"
+      },
+      {
+        "title": "縣市長選舉倒數百日 張嘉郡宣布雲林美術館落腳斗六 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQbDlCQl9yd25WY2FOZnNCMDlweVhuMTJEb0t6aUNBNWpFSFVWdTlGaC1ONGlHblVHS2VIOWlEX2NoVzBSQ1FuVXFoaG5NQ1VjbG1OLVE0eVl2R2Zwb24xLTFTV3Y3djB6SDFqTVBVRk5JZmNWUHFpcEtQR2FTbjM4ZVgxU3dSOFBnM2hOVks2TTFoMW9RakxVY1JqS3ZXbjZzaEMxSThxWjIwZ1hUXzFtZFlMTVhZaWIzTkR4ODEteDZGSF90WkF1UmlXSE5EOHhUTkdFbkJIaGZOTkM3REVqa1dHdlJLbENfQ0FNZ1piWFFadU1Rd1dtWExQcG5zY2ZGYWs4dWxHNUR3aWFSNzRMVU5jM0Vha0tTWl92dnBwQXpKNkJGZUlTWHo5cjkzYVp5aTRESm5lWVNfcVRrcTUtUkZOaEVlUXBwbV9RR05jbkVMdVhIZEx2UDBhRTZXM0VpWUhZenFCdXE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 14:37:42"
+      },
       {
         "title": "接棒張麗善繼續拼！張嘉郡提《雲林美術館白皮書》， 擘劃雲林斗六美術館新願景| 夏和宣| 地方新聞 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XcTNHaDBkZVNXRHdPeWZMZmx4c2FhSGhYNkpidk1ZbFl0MjdNVzBtYkJqZEZVSllLZkdaVm1DamhSS3d4ME5fRVplbUJqUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -380,14 +478,59 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 2,
-    "劉建國": 3
+    "張嘉郡": 8,
+    "劉建國": 6
   },
   "mention_compare_7d": {
-    "張嘉郡": 82,
-    "劉建國": 92
+    "張嘉郡": 85,
+    "劉建國": 95
   },
   "top_news": [
+    {
+      "title": "張麗善親遞接力棒！張嘉郡喊「8年不能歸零」、拚30項建設 - NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BNkF5WlN4U0JKaGpleTRDd0lpTTNnRW52ZTEtV3ZBMTRNaHd5UzN6aTFkajlBNWg3WWw5UExBWjh3Qzg1V2F4ek5zYk_SAVJBVV95cUxPYmk0aHQ2MklJYmx1T1JWUGpHZFJNQndNRFp5S1hNWGd3bVNQUnlwVkR0Z1pOUVgzUllUeUhZS3FiR0dFaGlkN1RWNVJSSjNBWXp3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:33:28"
+    },
+    {
+      "title": "選戰倒數百天 張嘉郡接下張麗善棒子 - 中國評論新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjSmRpa2hIT1dPdG9CRWgxX2hta1RNWm5YZXowT2tjUkE2LWhCY09ZTHlRMzBTUmxLZXd0c3hMeDBuY29OOVpTaEFSQ0FadVFUTkJTLTlzYnJRbnlQOE9nOUFqNEg2ZG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:25:21"
+    },
+    {
+      "title": "選戰倒數百天 張嘉郡接下張麗善棒子 - 中國評論新聞",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXeEttS2JkY1FyWk5pUnZMTGhfNC1jOHpsaGNPOHZzQWp2MzFaTXBFMmFkSG5URTNNdDRNYVZmR3FLZEFRX1hYRjdzX25IMHRjRkRvenFwVzBSLTZfWlN2ak5PMHBjV1c4cjE3TUd2Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:25:21"
+    },
+    {
+      "title": "選戰倒數百日 劉建國拋「一園區、七顆心」幼到老通通照顧 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOQ2VtcFZXM1Z0QTR2X0lBZm5KVXpIQlBtMzgyRjRSWVFvc2xxa08zZTdCUF9VV29RWk81bEhLRFY4NjQtM29henNnaFJiQktGc2pjQmFGbUY2UXo4bjRQRENOUi14dG52dWVfQzdFRkVOUVllQ1ZrUGVBbkE5dFlDcDZrU19nbTlfSVk3Q1ExY1hJRzdxRE0yWW1KbG0tcTFqY0paRzVZNHpsYUlBR0RTajEyX1REd2RsZm5WWnJaeC1qZmlDcndNZkJ1ZWJ5c3pEMzRYcjhPdXphZWJ5T09mNEVaZjR6a2ZmcjZkQ3FpY3NnYWtQb1ZsaE5fbkZwRjFBS3BfY3dxTkFrZDFkcnlrb1R2emxIVWdKUTVtSzlRLU5OSm1zc2VQTWZkX1pISEZ4WERqY1VIbmVpVkg3Ymg2MUxmOWY4MGIwVVlyWW55ZzExcjNuVlpUUmw2OFY4NTI5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:20:29"
+    },
+    {
+      "title": "選戰倒數百日劉建國拋「一園區、七顆心」幼到老通通照顧- 政治 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KdUg2dmJCMUl2ZVNvTlhSelNZazFPMVFvZi1RTnB1ajBab2pnd0ZNM1E3aWpfUUJvcVFZVVJlOWtlcnJjYVFEa2hTSEhITnZuTUZ3R2VlNEZCejRzRnotNEFDNWxJWUhvdWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:20:29"
+    },
+    {
+      "title": "立委劉建國拋「一園區、七顆心」政見 從醫療產業到老幼照護打造新雲林 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1MmJRMU16RkJCZFpDM28zLVB6S1FoR29NaGxoTGZlbzlEa1dFb0tUSzRYMHpKelM3ZWxneV85blVESnR6ZEtxSlJSR2xfVzNoM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:18:00"
+    },
+    {
+      "title": "接棒傳承！張嘉郡在距選舉百日接下張麗善棒子續航雲林建設願景| 縣市長議員選戰| 要聞 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4bFJJRGJ2Rnk1dHNmMlVFLWZZQlFPcGdMVG5POXc4azBRcWJrbEdjRlVuQUdtdmZJYm5LMEV2dmpVN1JKM2VqSDgzZ21ZNlVVdUlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:10:56"
+    },
+    {
+      "title": "張嘉郡拚勝選！接棒張麗善續推30項建設盼「讓下一代擁有更好的雲林」 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQTWVxemQ5ZXdCSGpaa3FSVHJqNzFlNXdlTmx6XzItUWJEcEppVjVhZXFYQ2dhTERvNVJXQXFNUzBNVEZwVVdRNHBROTZCUDV5bVQyT2xYZXhuZmx5am1GRlU4SHVkUmp6MFhBM1hBZzZ0QXRDLUFtbWtvMmloWDBwM2VuUjVvclI5aWY2UlZkNFkwYzY0eHR1bDhtcWQ3U2xrWnZSWTNyaEJRSGxYQk5ZUDkyWmRmLWRDeDZSbGRXQkZ4SUx4X3dMOXVRdVc4QV9DY1FsSF91SFpLc0hOZWRJQnFpMFBsUTFRNnlQUDRHelVuNVB5b202OW5GZTM2T3ZkMkt4SEluQVpyOVgzZjBFNWl3ZjlTblBDVzNZcTV3WFVPb1hVZzgwRXVpUGpiNkxiY1BCaHN5QlhHNlRnSDQ2ZlEtWHhONFJ1LUJXRDl0UnlrNWZYZG9uN292eGlvaVZibjNDZ19kWmxFZi1CNUdIN0k0X3ZwTTNiaFdjR0tuWVNZdF9qd25zMkNpTl9ONTlkX1Y0Uy1oMmJJMDRnZmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:08:03"
+    },
+    {
+      "title": "縣市長選舉倒數百日 張嘉郡宣布雲林美術館落腳斗六 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQbDlCQl9yd25WY2FOZnNCMDlweVhuMTJEb0t6aUNBNWpFSFVWdTlGaC1ONGlHblVHS2VIOWlEX2NoVzBSQ1FuVXFoaG5NQ1VjbG1OLVE0eVl2R2Zwb24xLTFTV3Y3djB6SDFqTVBVRk5JZmNWUHFpcEtQR2FTbjM4ZVgxU3dSOFBnM2hOVks2TTFoMW9RakxVY1JqS3ZXbjZzaEMxSThxWjIwZ1hUXzFtZFlMTVhZaWIzTkR4ODEteDZGSF90WkF1UmlXSE5EOHhUTkdFbkJIaGZOTkM3REVqa1dHdlJLbENfQ0FNZ1piWFFadU1Rd1dtWExQcG5zY2ZGYWs4dWxHNUR3aWFSNzRMVU5jM0Vha0tTWl92dnBwQXpKNkJGZUlTWHo5cjkzYVp5aTRESm5lWVNfcVRrcTUtUkZOaEVlUXBwbV9RR05jbkVMdVhIZEx2UDBhRTZXM0VpWUhZenFCdXE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 14:37:42"
+    },
     {
       "title": "接棒張麗善繼續拼！張嘉郡提《雲林美術館白皮書》， 擘劃雲林斗六美術館新願景| 夏和宣| 地方新聞 - 風傳媒",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XcTNHaDBkZVNXRHdPeWZMZmx4c2FhSGhYNkpidk1ZbFl0MjdNVzBtYkJqZEZVSllLZkdaVm1DamhSS3d4ME5fRVplbUJqUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -402,19 +545,54 @@
       "title": "劉建國點名張家開戰！提「兩大關鍵」打造新雲林！20260807 自由短影音｜#shorts - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeUw5YlBhcEtGOXVJVlhLVzFpZmNLOG9idFJzZVlTS3ZlNk1mc08yQUNHWDFUN2dHU3hweExKM2JuUm9BWTI5N01GOTlvUTFvdWpMazc2NUtHZmM4cXhZNzlZNnFMTUJFUU9yVEJieUdhS3RtNklMUkJoV0JISks3N3VhVjFQQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-20 11:21:00"
-    },
-    {
-      "title": "馬偕小小醫學營十多年不間斷 劉建國：把醫學種子種進雲林囝仔心裡 - 台灣新聞雲",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE44NHdta1BHdHVJVGpmTV9vMDNkdlBSNUkxVlZNQnZvZHNqeEJCbDNjZjBVaXZ0SVZUbEtNWGE4N1Ytbl92MHNv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-20 10:43:11"
-    },
-    {
-      "title": "筱君 台灣 PLUS-雲林幸福指數全國墊底 劉建國誓言翻轉壞印象 0819 - 美洲台灣日報",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBla3JwSFVlNFJ2ek9TZUJoLUVLcjl5RjZtV0QxaFo3X2FnOWsxSTdNZ3lwbGxiRlV4VjZMelZoc0JILXIyRWVvWTJCdmExQ3QxVzhsZmRacFpicWtOUTVva3k0SWo2ZnppMlNaWmlPZ2RfTWJzR2Fz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-19 23:35:37"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "張麗善親遞接力棒！張嘉郡喊「8年不能歸零」、拚30項建設 - NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BNkF5WlN4U0JKaGpleTRDd0lpTTNnRW52ZTEtV3ZBMTRNaHd5UzN6aTFkajlBNWg3WWw5UExBWjh3Qzg1V2F4ek5zYk_SAVJBVV95cUxPYmk0aHQ2MklJYmx1T1JWUGpHZFJNQndNRFp5S1hNWGd3bVNQUnlwVkR0Z1pOUVgzUllUeUhZS3FiR0dFaGlkN1RWNVJSSjNBWXp3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:33:28"
+    },
+    {
+      "title": "選戰倒數百天 張嘉郡接下張麗善棒子 - 中國評論新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjSmRpa2hIT1dPdG9CRWgxX2hta1RNWm5YZXowT2tjUkE2LWhCY09ZTHlRMzBTUmxLZXd0c3hMeDBuY29OOVpTaEFSQ0FadVFUTkJTLTlzYnJRbnlQOE9nOUFqNEg2ZG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:25:21"
+    },
+    {
+      "title": "選戰倒數百天 張嘉郡接下張麗善棒子 - 中國評論新聞",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXeEttS2JkY1FyWk5pUnZMTGhfNC1jOHpsaGNPOHZzQWp2MzFaTXBFMmFkSG5URTNNdDRNYVZmR3FLZEFRX1hYRjdzX25IMHRjRkRvenFwVzBSLTZfWlN2ak5PMHBjV1c4cjE3TUd2Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:25:21"
+    },
+    {
+      "title": "選戰倒數百日 劉建國拋「一園區、七顆心」幼到老通通照顧 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOQ2VtcFZXM1Z0QTR2X0lBZm5KVXpIQlBtMzgyRjRSWVFvc2xxa08zZTdCUF9VV29RWk81bEhLRFY4NjQtM29henNnaFJiQktGc2pjQmFGbUY2UXo4bjRQRENOUi14dG52dWVfQzdFRkVOUVllQ1ZrUGVBbkE5dFlDcDZrU19nbTlfSVk3Q1ExY1hJRzdxRE0yWW1KbG0tcTFqY0paRzVZNHpsYUlBR0RTajEyX1REd2RsZm5WWnJaeC1qZmlDcndNZkJ1ZWJ5c3pEMzRYcjhPdXphZWJ5T09mNEVaZjR6a2ZmcjZkQ3FpY3NnYWtQb1ZsaE5fbkZwRjFBS3BfY3dxTkFrZDFkcnlrb1R2emxIVWdKUTVtSzlRLU5OSm1zc2VQTWZkX1pISEZ4WERqY1VIbmVpVkg3Ymg2MUxmOWY4MGIwVVlyWW55ZzExcjNuVlpUUmw2OFY4NTI5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:20:29"
+    },
+    {
+      "title": "選戰倒數百日劉建國拋「一園區、七顆心」幼到老通通照顧- 政治 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KdUg2dmJCMUl2ZVNvTlhSelNZazFPMVFvZi1RTnB1ajBab2pnd0ZNM1E3aWpfUUJvcVFZVVJlOWtlcnJjYVFEa2hTSEhITnZuTUZ3R2VlNEZCejRzRnotNEFDNWxJWUhvdWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:20:29"
+    },
+    {
+      "title": "立委劉建國拋「一園區、七顆心」政見 從醫療產業到老幼照護打造新雲林 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1MmJRMU16RkJCZFpDM28zLVB6S1FoR29NaGxoTGZlbzlEa1dFb0tUSzRYMHpKelM3ZWxneV85blVESnR6ZEtxSlJSR2xfVzNoM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:18:00"
+    },
+    {
+      "title": "接棒傳承！張嘉郡在距選舉百日接下張麗善棒子續航雲林建設願景| 縣市長議員選戰| 要聞 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4bFJJRGJ2Rnk1dHNmMlVFLWZZQlFPcGdMVG5POXc4azBRcWJrbEdjRlVuQUdtdmZJYm5LMEV2dmpVN1JKM2VqSDgzZ21ZNlVVdUlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:10:56"
+    },
+    {
+      "title": "張嘉郡拚勝選！接棒張麗善續推30項建設盼「讓下一代擁有更好的雲林」 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQTWVxemQ5ZXdCSGpaa3FSVHJqNzFlNXdlTmx6XzItUWJEcEppVjVhZXFYQ2dhTERvNVJXQXFNUzBNVEZwVVdRNHBROTZCUDV5bVQyT2xYZXhuZmx5am1GRlU4SHVkUmp6MFhBM1hBZzZ0QXRDLUFtbWtvMmloWDBwM2VuUjVvclI5aWY2UlZkNFkwYzY0eHR1bDhtcWQ3U2xrWnZSWTNyaEJRSGxYQk5ZUDkyWmRmLWRDeDZSbGRXQkZ4SUx4X3dMOXVRdVc4QV9DY1FsSF91SFpLc0hOZWRJQnFpMFBsUTFRNnlQUDRHelVuNVB5b202OW5GZTM2T3ZkMkt4SEluQVpyOVgzZjBFNWl3ZjlTblBDVzNZcTV3WFVPb1hVZzgwRXVpUGpiNkxiY1BCaHN5QlhHNlRnSDQ2ZlEtWHhONFJ1LUJXRDl0UnlrNWZYZG9uN292eGlvaVZibjNDZ19kWmxFZi1CNUdIN0k0X3ZwTTNiaFdjR0tuWVNZdF9qd25zMkNpTl9ONTlkX1Y0Uy1oMmJJMDRnZmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:08:03"
+    },
+    {
+      "title": "縣市長選舉倒數百日 張嘉郡宣布雲林美術館落腳斗六 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQbDlCQl9yd25WY2FOZnNCMDlweVhuMTJEb0t6aUNBNWpFSFVWdTlGaC1ONGlHblVHS2VIOWlEX2NoVzBSQ1FuVXFoaG5NQ1VjbG1OLVE0eVl2R2Zwb24xLTFTV3Y3djB6SDFqTVBVRk5JZmNWUHFpcEtQR2FTbjM4ZVgxU3dSOFBnM2hOVks2TTFoMW9RakxVY1JqS3ZXbjZzaEMxSThxWjIwZ1hUXzFtZFlMTVhZaWIzTkR4ODEteDZGSF90WkF1UmlXSE5EOHhUTkdFbkJIaGZOTkM3REVqa1dHdlJLbENfQ0FNZ1piWFFadU1Rd1dtWExQcG5zY2ZGYWs4dWxHNUR3aWFSNzRMVU5jM0Vha0tTWl92dnBwQXpKNkJGZUlTWHo5cjkzYVp5aTRESm5lWVNfcVRrcTUtUkZOaEVlUXBwbV9RR05jbkVMdVhIZEx2UDBhRTZXM0VpWUhZenFCdXE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 14:37:42"
+    },
     {
       "title": "接棒張麗善繼續拼！張嘉郡提《雲林美術館白皮書》， 擘劃雲林斗六美術館新願景| 夏和宣| 地方新聞 - 風傳媒",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XcTNHaDBkZVNXRHdPeWZMZmx4c2FhSGhYNkpidk1ZbFl0MjdNVzBtYkJqZEZVSllLZkdaVm1DamhSS3d4ME5fRVplbUJqUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -469,54 +647,14 @@
       "title": "普發1萬在野批雙標 劉建國反擊「自相矛盾」喊話明年度預算勿再卡 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNTTVVVVBnSC1Qd0J6alBlVXZfMkhER3VjVUh0S2VSZWlkNW1zaVB6cHdRcFJUSEpLMWk3cVZkdlFFTHp2RWxQNm9zaU5uVV9paFhOZTFnUkwtVEFIbnRMblRqTHk5a2g0bnFiX0phaWstRWprWGtsWC1BUG5wU1l5cUEySVhPYUduWS1ZUGVJSUlySDdtb3J0Z1BteXpnS2V4ckJ1UFQ0U0dYZ1ozbmN2dExKYWZhckNEUzVXbTFOYWd0REpwWmtjMjFxendBTElwdGZfcG5KeEZ2WkREc3RIMHNfS2hoVVRScGZLSjlBMnZlcWtLV2V5Y2RCU1JoSGtObXlpR1VKY19TZWJMdlFod0VvOUFQUXdiTWFaWHYyckh6MVc0cGFGMWR6MGhUQVNOOGtRWWFyYk5FaGpaeFVITGMyMjcxMkV5NVpwdDd6WjIyalNuQ09MQWR2LUtXVGFIeS0zY1d3WHpKTFR2UnowSE5KZ05LR3k1LWRKTnZNNm5OeVZtS091Tm9BTnZfby1XdEstcUVIcF9YNXlW?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-18 12:52:30"
-    },
-    {
-      "title": "普發1萬在野批雙標劉建國反擊「自相矛盾」喊話明年度預算勿再卡- 政治 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xMFc0XzhiZnZYcThXdXVuaDBuWXk2eHQxTE96QmtKZEtJNmJvMVAtY2phaWlGRXZ2OEY1aXZrbXY4LVdzVGkxbklTeXhDMzhZZUpNMEE3STc5U1JsMGdzaDJVaHluN2t4MUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-18 12:37:48"
-    },
-    {
-      "title": "普發1萬在野批雙標 劉建國反擊「自相矛盾」喊話明年度預算勿再卡 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaV9tR1VsVjJjcUFrREFFM19JdWxwS1pnSHlmS2V1VkpDNC0yekhPdW9veGQ0RXphd0x2czJ0WmhRV1R2M1B6enp5TUthejNvd3lhRkJhdlZ4M3dvSmdncUVVRXRLSnlKdFluTzlERlF0Tjg5YkZtNXBTMVFobFFtZ2dJamJMdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-18 12:37:00"
-    },
-    {
-      "title": "廢清、資循雙法前進雲科大 劉建國力推咖啡全株利用、打造韌性宜居城市 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EVk1DMXh4ckFlTTJIdHhCUzBxRDRHNUNQM0kyWXNBZm5hSW5GenVfdFplMktDV2ZSRnotTE9hakFIRTVRN0YtWUE0WG1ldUdkcEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-18 00:00:00"
-    },
-    {
-      "title": "全民普發1萬元 立委劉建國：AI紅利雲林不能缺席 | 自由電子報 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44ZlZFNENya093YzY3NjN1Tkp3N0Rqa3RveVRJNnVrUjBaRWJCWk1GelZnUmMxTVRwN1BrNFJfRUFMVWw1a3ZHVUFqVUVSODdzTFVENmtR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-17 18:56:11"
-    },
-    {
-      "title": "全民普發1萬元立委劉建國：AI紅利雲林不能缺席- 政治 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ibWJLZU1hQ3FMTmJONVdqOWtMOHNjSTBmZHdnRmFnLV9QdFphTWRmUDFqamNzeS1MWXNFUWdPQ2liSDdyRjZIVzRmQmo5U2phV0pyazdGclNfRV90TTJqaVBPOEVqakJfeGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-17 17:53:42"
-    },
-    {
-      "title": "選舉逼近服務處突搬遷引聯想！劉建國團隊曝這原因：待了17年很不捨 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQcE54Sk40Q3N2dmNaTDJPdE5ReF9YaFBDZV9KUndvMk1jdmJqblY2N0w2VlF6OFhaaENXdGJFZVRETWcwdHBPekZFdGhSMHFJbTBpQnUtMm9vOWhNUFBHU2pXZEJSZGFyc0lSTmdWUEVGdTI5ZGFwdkx1aUp4enJpWXVsWVFZbS1kMTljZ294ZlgyMW9ZaXV6NDRqcUg5UTdield3UGQxSmhqekxmSDQzTGg2UmtWdkJuQnRyMktwaDhzczVFVFJLYXNJTmRUZ3FxMHBmX0NnU3E2MmJIYVJLbEFXb1FiMHJkVzRZdkh2YTdvRGNxdzZKY1BfMFpXM1pJY3otaGktSWF1YlROWjc5UWpGSXBoWkJVQnhuOVcxMTV1a3JZTWxJVXNUQzZ1b3U5U2tWdnkxZzQ2YjJQX2lPVVc5UWY4WHRTWkpWVzJFVHB4ejFWMWYxQmNMeFdRRWNtLW1VMWRhNE1SQmFETVFDMEpBbVExdDFVZEl5RTdmaFNuRVFDeldtQ3FxZDFtZGNkY3R2NXFpV1U2WlVDZHVaYmVFNUkxTnI4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-17 16:03:10"
-    },
-    {
-      "title": "選舉逼近服務處突搬遷引聯想！劉建國團隊曝這原因：待了17年很不捨 - 中時新聞網",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84cG5URENXSllyb3VDN0lSQ3B5ejQ1Vm11U1huT1BvRDJXUUxCZGxNdmlfZUgzc1FHVExzTFNldGR5dmJ0TC1kdU9ZYS10di1KTC1tc19iRjYwbGw0WW9yRjJLNUg5OUswalZfRlZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-17 15:58:10"
-    },
-    {
-      "title": "斗六人文公園開發83.7％ 劉建國17年服務處因「這因素」確定搬遷 | 自由電子報 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zYkZSZTFyWXpueVRKMk9Fc3hfQ3BZOE1Ba2tNanhHb1M1TnZ0eEkxNmVaZ2dHUVpld2kwVWV0T2t2NExSYldBLUR6QTd5Wks0Sk8xUFhB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-17 15:49:36"
-    },
-    {
-      "title": "斗六人文公園開發83.7％ 劉建國17年服務處因「這因素」確定搬遷 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNZUdxS3hYYWtnS1BncWJkYlFIQUlmcjZjLWFkeU1WSWJFVWozSXVnOFRkZElBZURYdEhZWTdFa1lMcWxkZkMwdG1INnlqWTMyUlhJN29aR0E1bXpOTEFXWWlJbTJVb3p0cFNRTDNobzcwMzhYZ3dKX19WMGJ3TlM1Wk9LWm5ncFRnWm5WWXFpaVM1Mk1LOThVT0ZmWHZRYUZvNi1PbTJnUUlWcnJQcm5uU3h6M1h5dTJuSlRPaGp2Z1dNdGtBTUdUTGg5Ymhjd3BJSnRIUXk0Z1BTMWR1WjlBRkc3Zy1LMVNadUx5ZzdJS0RMU2xvYW0yQUFrckcyN1FpZWMwSjFlSkQ5SjIxTWNKS3V0MmdESVF0cU1Db2hiX1c5SWpVNHV5Ri1SaGttM2FIVWViYVpiOG4yQzA4U3N4WVV5eVN2Mkp6anp5WlNsV1hvZ1lmcWdJYS1KVjJaYlp5b0EyN3I3RTl3SndIQnZXeWFyWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-17 15:15:15"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "✨ 七夕佳節，願天下有情人終成眷屬！ ✨ 喜鵲搭橋、浪漫相會，今天是一年一度的七夕情人節🌹 不論是正沉浸在熱戀中的情侶、相濡以沫相伴多年的夫妻，或是正在享受自由精彩的單身朋友，學忠都在這裡送上最誠摯的祝福！💐 今晚別忘了放下忙碌的工作，對身邊最重 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMinAhBVV95cUxOcEZQZktKLWsyd0IzdFAwZkhra1NCWHBXNXNqTHZmTm5PYjVRSEVVUTJNclY4TldpRUdUaEJLVV9tUXU5ZHY4emlrV1dUVGpCY0dZNEtacDJlRzZ6V2Yza0h4SlNtbVk2VGNnN0dwaWdKWU5tQTNPNVNsd3gxdTZSdXNOU1RtVlJHbjNZQUdRaUd0d1NsbG1QTDUzMHh0VWtzNGpwUWRJX3QxdnRHaHEyaUFPSU1VSjE4SXVzajc2MV9yOFNqU2Q1YjVjbTdkZzlrcHg2Q0x1cEVSbm9UcWpONnUySVM4M1pZZkRHakpTRmd0T2tRMk8temwwZkhvUlp4U2licmliUVVRcVZRNVoxZzFNMGREV0pjbFh4ZC1sdndXVEptRXRQYVJLejdZM0NvQlg4OGhUZEZMREladE9veE1hLTBBOEJCcUY0T1l3RWFrYXFLVVdOS0FoQUVoV1E4aUlWNnF1UmdMZ09UVW5HcFEtRGlta2YzbGtQYnc2OWRUMWd3R3RvdDNOdFM3Vk81VGFtaWxKV1RwTmVRVHhsUzRla2U5c3RBRnE1UzdiekJ4N2tUdzVIYTl1cWtPUDZmWl9ERlpUaktNUXJ5R1pqZnY3WGFvMzhaVmpXeFcxb19MTGYwam9STnNkUGNydnBqMEpPTGM3YU04Q096c0pxV2JtVWljcHlpLW1vbkcteUJfeUlsQzlpZmNMWGwxcGxxQkpISUhHYno2S2xPdTZKSjF4ejdvT3FMTFNCQkV6ekhRQndRSFQwWlVMNHlKNUZsOEFwVjVjWVV3S2MwUDNWdlRFbmpLMFBoNGZTZ3lnNXV3Z1lrVkc3WnpaUW1yNi1pMHI1WlFRUGVRQTV1WFliTktURVh4NTRKa1JsSE1qNGtSNHJxaFNQZlVCbDlIaGtWazhNeGpCWHlNWkFKU0h2Y3hydVE5clh3UklXVmdQcFB0c3J4a1E2MWRCbHMwcnJNVVVTLTNXNGhfZkIzZjdtN0FUbnkweW5qTHR2Q19NMHFIbnpLOWRKN2RhTEJaLW1UYWMtSHBLOWd1VUl0TkJmQklyZFZTVVNBSWk0WEJDNmdfSWl3ckg1VV8wV3hrYTB3ZHI2NnNaVVZHV1psdEdueFVjR3ByMFYyOEV0LU1ub0hJcDBUVmdzLVVhakdtN0JHMTc3Sl9CSDB3XzlVQmlPYTM1bmxhcFZ6cWo0TWlRSFotSmJjTDU4dWdOV1NRUlljS3ZHV0o0UEhlU1FuNC1xeTctM3Z0U1FHVG95NTFHMS1xS3psSWFTalBQTWlqMDBlWHg0N1ZsLU45MGZ3elkweEFXRHBndXQwekVIVDczZlY0WjlnY3NDV3BrZ2pDRzkyVzg1REdMQmZGMGtsdFo2bVVVWlpBd2NsS05YRw",
+      "time": "2026-08-19 10:48:12"
+    },
     {
       "title": "「經費無上限，做到解決好為止！」一句承諾，徹底終結雲林兩三百年的「吃飯配沙」！ 🌾💨 ​過去每到秋冬，濁水溪揚塵讓雲林鄉親連吃頓飯都滿嘴沙。 濁水溪的問題困擾了兩三百年，但劉建國沒有放棄，在立院強力質詢、更陪同時任行政院長的賴清德親赴現場勘查！ ​賴 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxQLVVXVE8tOW5zSE1pM1FEb0kxODUzSXZTSUhraVZlNUUxZURKQnUyX3dVSkswVVBWUDZGYU53MDVFRTIzUEJuUnl2RGhGdWN6WXlTU3hDcHVzZV9vSElWand0SHc0VzFWSUV5NmsxTjZUYmk1SGRlYUhtMlBQUWVZdVo5anZnd1BEZ0FzYmZvWUo1a3JleVFfQ3lNU3U0dTFtU3RBeEN5Z0dsS1JRWWdHY3cwSFIxSXhJR0JRWnVZam8zRzlSMHZ2WXVIVUJzaElFeWpqMEJaWjc2ZDVRaXppRWQzZ1NKYVFxMDBrTWNVekNCdC1KN2YySHVNclpjenZVSDFpR1ZyUGQxOWlzWXRkX0I0NmotN1hKZjV4am9WMURxMTNFUnZTUDdvRmlpNnQwN3RrWi1DbFVlRHdQQ3lRSlhGTHAzZnFMbkhjaVNzQmVTSFkxUDhnVDRoc3hneUxTVUE4elN3c3ZPU0xHYTVKemw3Z1p5ZDBMa0FQakhTdkRxbmptVWwzb3c3LWZKQlE0S2VDMTNReGVyZ3BCTEUtZktpUmxacmoybWpnRzM0R2FYelRwOFhtRGJNcXY0Z2s5eTk2NzlPMlJQZG1yX3laU0ZCd1Z0M3BWR3ozUERCcUxwa0lzdDJSMzZXbHRheTJ4MnF6VWNMN1dVTURUXzYyUWg5YTg5S1RxOFZxSm1NZnNUc00xYjVxQkpsNlg5YWtTcV9Pb3duUFFGeUlydnJjR2dJQm16TnFZelJONHFMR1k1aE5CSE5vMDA0OENhSFRwQWUybUg0LVZpZUhxd0FKcEtqQm5pTXVRcEtWeUNVeWhwYmlIQUFab2prUk5nRjZZcFN5bGdJVTd4WWtnY2JDVGRuOUZyUG50dFFWYjItYWZDQVp4TzdoUE95ZTc2Sk0zQlNaOFg2WWNSNm5GalJtVTlDNVpzZUl3eWl4cGg2Y0VNUFZyMElVZmotd3lYNm5NbEdYeU9tdVQta19BOTdvUldyVHJrS3lEdXZIMmk0SG9id1V4NnZOMGgwZ1lNeENOSlJsM0RtM2hSVThwTkZmanZJOHpPbVF6aGExQ2xzamI3ejAtUGNkRE9qOWg0M3dlc0ItNTl3QUZhci1XVU9najZNZ3d2VjlsaURYNUxadndreUJqa2diRG4tSjFVVHFuSmhRTW5wQnFXcnJXY0MwZWlRQjFfZFppOXNScE1oVlR0dWNVUUtMWTlRVHctMlcwUjRraWotbWVtRE9paUNIQ1JXWmQwLTlsOTFLcjQ3SmxUQmMtVUJiY1ppZGNaUzc0cDNaNXRJNjBmZ0tsSnhvZ2VsU2g5NVFkUHpqU0VZWTJNV1IzcXk3aHo3em5Uek5EeDdEb3p0V2szTjBWSjJWeHNOVXptVDc5UVltWnpmd3pfdTJl",
@@ -611,14 +749,54 @@
       "title": "兩人同時間都在雲林尬場，提前挑起年底選戰煙硝味。 #賴清德 #劉建國 #盧秀燕 #張嘉郡 #雲林 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxQMHc3T3dneEZuaWFGMXNuT05RRWF2Wl8xSFZWT3FlV2VpRGhSZXZQZmp3LVJoTUYzTWhndXpnMkRraEgxb0hnV3dZV0ZTTzVOMnBiQ0lwendKR3BPdTM3SEdpMmVqZU5JNDlkbUgtN2NaRXVFaTZSWUhta1VmdENrRkJhTFpVOVJlRC1qOXdHTXh0UVR4c2cxZ3RVRWdXbG1PcU1iSWQ0MU5mU3lZajFyd2NVU2J3dUdHb01IaVJzdHJkMjI0Tzgtal9RNmdTa2luSnU3SF9iQU5td3VUUVY4OG9ZNXp1QkFKeFRER3YyQlVqQ19rR3ZGQkZtc3JsZTM3eFN0OV9vRTNFcWtfc3c0cHJDZ3E4WGdnVmJhNnFmaWtyY3U5UlpldUxMMVFfUU9td2R5QmtuUmtIZ0ZvTjhnRlJVdDBVSkZhVktHdFB4WEdxdEwxU0NEenJjVG84SDd3cXA2NVR1bVBZUXprT21QcmpuODBmQnJ4cWVUSWZfR29vOV8zN1B0eW1GN3JMMnY3bXowVHo0ejhaT3FLbFFTSGR4UGstUHNZOTg0bGRRcDVCQlVPclBrRHNxYmdhbkRTUGdIRFlTYUI4WDludnFfVlR5R19WcmRlZTFCenA5anJBYzlEekdxUEhRUWllTFEtRnM3VDU5SV9QdmVjZXdiRjdBcnc4ZG9XVWVyMVA1ZlpuRGdRSlVlRlA4d2R3NFVXTFE",
       "time": "2026-08-15 22:00:48"
-    },
-    {
-      "title": "總預算三讀\"韓、傅大和解\"！出奇招！盧邀兩位大帥哥看奧德賽 南下挺張嘉郡！與賴總統同日拚場 隔空喊話：總預算要公平分配！ #shorts - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AVBVV95cUxNcFVtQ3J1UUtkVGUySFVyOE8xQWkzNnlkeGJkMndvSVg3MnkyUi0tU3VyTTlrbXFVYkozQk0wblNXa1lVSHhmU3JNazRhNEJkNE9CRV9nSXAyakxab2hzQnhraFpWb3ZPaWptVDNIdjYzNmZHSUdUME0xVTVmTGRYSXg4S0I5bkFnOTJ6aUdNX0tSS3VCVDdYR0puSm40WDg4RUVBUm8wdWtEX0g3dlJKRWNCY1d4YTJ6MEhaNTlwTm9sNzRydDZ2VFh0SWVKWTZtd2NaV0JWcE1MV05DSTNiZEdUeFg2REtwaDBaeFluZndUWVpWWDNveTJlckVFVjZrd1ZuMGhTTUI2cTk3RVhYM1ExUF83OFFIcl9sX1dFbVBLeThFOXJfQmpiS205eXRXaHQwUFJKQURtOUtMM3Etcm4xeGpqa1NYRmpxUXloOXBXWEF5YURVOU9qWklHSjZUMjBHdmhpTkhGRDFHMlB3MlctU3puUTFYeW0tTW92UE9UblkySzJ0alNwSHRxRGhpVmkzRlAxcDRQMXRzRGJBX2tlVTM4cC1leVFQUXpJQnRnUXdxZTBoeDhlTDBwVWdtcjVTV01ZOW1TZVhJWWVWdmhldkNBMXlJalUweTJYQkh5aWFqMzg5dWQ4Qy11dFI5UU1fVDUxV3R5Y05KVTV2VGxqUkxNcFo1MXRsbUo3VnU2eEF2TW5lSDBtYlFSN1pWU2c2Mm92aHNZOWh2SjdMMGNjNC1vQjZwdU00UHBUMXNEYzZ4UEhDRE04RHBRRnlsRC02OEpHT2tFeTlscnM0VUlZRGlWQXRlTV9mRm9XcDBwYTVYdWtxOWdrZkVWS2I5aHM1ZUU2X0Jfd2FZT2V2MklkVlpyazN4NS1vMnNEaGhEcUkwVUVSbHFrVzV0bUJmdWo0UUxJckp1dkFuMnRFTXVtU3NSazhsNEdON2QtaUM",
-      "time": "2026-08-15 21:51:45"
     }
   ],
   "latest_news_20": [
+    {
+      "title": "張麗善親遞接力棒！張嘉郡喊「8年不能歸零」、拚30項建設 - NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BNkF5WlN4U0JKaGpleTRDd0lpTTNnRW52ZTEtV3ZBMTRNaHd5UzN6aTFkajlBNWg3WWw5UExBWjh3Qzg1V2F4ek5zYk_SAVJBVV95cUxPYmk0aHQ2MklJYmx1T1JWUGpHZFJNQndNRFp5S1hNWGd3bVNQUnlwVkR0Z1pOUVgzUllUeUhZS3FiR0dFaGlkN1RWNVJSSjNBWXp3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:33:28"
+    },
+    {
+      "title": "選戰倒數百天 張嘉郡接下張麗善棒子 - 中國評論新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjSmRpa2hIT1dPdG9CRWgxX2hta1RNWm5YZXowT2tjUkE2LWhCY09ZTHlRMzBTUmxLZXd0c3hMeDBuY29OOVpTaEFSQ0FadVFUTkJTLTlzYnJRbnlQOE9nOUFqNEg2ZG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:25:21"
+    },
+    {
+      "title": "選戰倒數百天 張嘉郡接下張麗善棒子 - 中國評論新聞",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXeEttS2JkY1FyWk5pUnZMTGhfNC1jOHpsaGNPOHZzQWp2MzFaTXBFMmFkSG5URTNNdDRNYVZmR3FLZEFRX1hYRjdzX25IMHRjRkRvenFwVzBSLTZfWlN2ak5PMHBjV1c4cjE3TUd2Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:25:21"
+    },
+    {
+      "title": "選戰倒數百日 劉建國拋「一園區、七顆心」幼到老通通照顧 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOQ2VtcFZXM1Z0QTR2X0lBZm5KVXpIQlBtMzgyRjRSWVFvc2xxa08zZTdCUF9VV29RWk81bEhLRFY4NjQtM29henNnaFJiQktGc2pjQmFGbUY2UXo4bjRQRENOUi14dG52dWVfQzdFRkVOUVllQ1ZrUGVBbkE5dFlDcDZrU19nbTlfSVk3Q1ExY1hJRzdxRE0yWW1KbG0tcTFqY0paRzVZNHpsYUlBR0RTajEyX1REd2RsZm5WWnJaeC1qZmlDcndNZkJ1ZWJ5c3pEMzRYcjhPdXphZWJ5T09mNEVaZjR6a2ZmcjZkQ3FpY3NnYWtQb1ZsaE5fbkZwRjFBS3BfY3dxTkFrZDFkcnlrb1R2emxIVWdKUTVtSzlRLU5OSm1zc2VQTWZkX1pISEZ4WERqY1VIbmVpVkg3Ymg2MUxmOWY4MGIwVVlyWW55ZzExcjNuVlpUUmw2OFY4NTI5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:20:29"
+    },
+    {
+      "title": "選戰倒數百日劉建國拋「一園區、七顆心」幼到老通通照顧- 政治 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KdUg2dmJCMUl2ZVNvTlhSelNZazFPMVFvZi1RTnB1ajBab2pnd0ZNM1E3aWpfUUJvcVFZVVJlOWtlcnJjYVFEa2hTSEhITnZuTUZ3R2VlNEZCejRzRnotNEFDNWxJWUhvdWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:20:29"
+    },
+    {
+      "title": "立委劉建國拋「一園區、七顆心」政見 從醫療產業到老幼照護打造新雲林 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1MmJRMU16RkJCZFpDM28zLVB6S1FoR29NaGxoTGZlbzlEa1dFb0tUSzRYMHpKelM3ZWxneV85blVESnR6ZEtxSlJSR2xfVzNoM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:18:00"
+    },
+    {
+      "title": "接棒傳承！張嘉郡在距選舉百日接下張麗善棒子續航雲林建設願景| 縣市長議員選戰| 要聞 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4bFJJRGJ2Rnk1dHNmMlVFLWZZQlFPcGdMVG5POXc4azBRcWJrbEdjRlVuQUdtdmZJYm5LMEV2dmpVN1JKM2VqSDgzZ21ZNlVVdUlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:10:56"
+    },
+    {
+      "title": "張嘉郡拚勝選！接棒張麗善續推30項建設盼「讓下一代擁有更好的雲林」 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQTWVxemQ5ZXdCSGpaa3FSVHJqNzFlNXdlTmx6XzItUWJEcEppVjVhZXFYQ2dhTERvNVJXQXFNUzBNVEZwVVdRNHBROTZCUDV5bVQyT2xYZXhuZmx5am1GRlU4SHVkUmp6MFhBM1hBZzZ0QXRDLUFtbWtvMmloWDBwM2VuUjVvclI5aWY2UlZkNFkwYzY0eHR1bDhtcWQ3U2xrWnZSWTNyaEJRSGxYQk5ZUDkyWmRmLWRDeDZSbGRXQkZ4SUx4X3dMOXVRdVc4QV9DY1FsSF91SFpLc0hOZWRJQnFpMFBsUTFRNnlQUDRHelVuNVB5b202OW5GZTM2T3ZkMkt4SEluQVpyOVgzZjBFNWl3ZjlTblBDVzNZcTV3WFVPb1hVZzgwRXVpUGpiNkxiY1BCaHN5QlhHNlRnSDQ2ZlEtWHhONFJ1LUJXRDl0UnlrNWZYZG9uN292eGlvaVZibjNDZ19kWmxFZi1CNUdIN0k0X3ZwTTNiaFdjR0tuWVNZdF9qd25zMkNpTl9ONTlkX1Y0Uy1oMmJJMDRnZmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 15:08:03"
+    },
+    {
+      "title": "縣市長選舉倒數百日 張嘉郡宣布雲林美術館落腳斗六 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQbDlCQl9yd25WY2FOZnNCMDlweVhuMTJEb0t6aUNBNWpFSFVWdTlGaC1ONGlHblVHS2VIOWlEX2NoVzBSQ1FuVXFoaG5NQ1VjbG1OLVE0eVl2R2Zwb24xLTFTV3Y3djB6SDFqTVBVRk5JZmNWUHFpcEtQR2FTbjM4ZVgxU3dSOFBnM2hOVks2TTFoMW9RakxVY1JqS3ZXbjZzaEMxSThxWjIwZ1hUXzFtZFlMTVhZaWIzTkR4ODEteDZGSF90WkF1UmlXSE5EOHhUTkdFbkJIaGZOTkM3REVqa1dHdlJLbENfQ0FNZ1piWFFadU1Rd1dtWExQcG5zY2ZGYWs4dWxHNUR3aWFSNzRMVU5jM0Vha0tTWl92dnBwQXpKNkJGZUlTWHo5cjkzYVp5aTRESm5lWVNfcVRrcTUtUkZOaEVlUXBwbV9RR05jbkVMdVhIZEx2UDBhRTZXM0VpWUhZenFCdXE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-20 14:37:42"
+    },
     {
       "title": "接棒張麗善繼續拼！張嘉郡提《雲林美術館白皮書》， 擘劃雲林斗六美術館新願景| 夏和宣| 地方新聞 - 風傳媒",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XcTNHaDBkZVNXRHdPeWZMZmx4c2FhSGhYNkpidk1ZbFl0MjdNVzBtYkJqZEZVSllLZkdaVm1DamhSS3d4ME5fRVplbUJqUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -673,51 +851,6 @@
       "title": "普發1萬在野批雙標 劉建國反擊「自相矛盾」喊話明年度預算勿再卡 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNTTVVVVBnSC1Qd0J6alBlVXZfMkhER3VjVUh0S2VSZWlkNW1zaVB6cHdRcFJUSEpLMWk3cVZkdlFFTHp2RWxQNm9zaU5uVV9paFhOZTFnUkwtVEFIbnRMblRqTHk5a2g0bnFiX0phaWstRWprWGtsWC1BUG5wU1l5cUEySVhPYUduWS1ZUGVJSUlySDdtb3J0Z1BteXpnS2V4ckJ1UFQ0U0dYZ1ozbmN2dExKYWZhckNEUzVXbTFOYWd0REpwWmtjMjFxendBTElwdGZfcG5KeEZ2WkREc3RIMHNfS2hoVVRScGZLSjlBMnZlcWtLV2V5Y2RCU1JoSGtObXlpR1VKY19TZWJMdlFod0VvOUFQUXdiTWFaWHYyckh6MVc0cGFGMWR6MGhUQVNOOGtRWWFyYk5FaGpaeFVITGMyMjcxMkV5NVpwdDd6WjIyalNuQ09MQWR2LUtXVGFIeS0zY1d3WHpKTFR2UnowSE5KZ05LR3k1LWRKTnZNNm5OeVZtS091Tm9BTnZfby1XdEstcUVIcF9YNXlW?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-18 12:52:30"
-    },
-    {
-      "title": "普發1萬在野批雙標劉建國反擊「自相矛盾」喊話明年度預算勿再卡- 政治 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xMFc0XzhiZnZYcThXdXVuaDBuWXk2eHQxTE96QmtKZEtJNmJvMVAtY2phaWlGRXZ2OEY1aXZrbXY4LVdzVGkxbklTeXhDMzhZZUpNMEE3STc5U1JsMGdzaDJVaHluN2t4MUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-18 12:37:48"
-    },
-    {
-      "title": "普發1萬在野批雙標 劉建國反擊「自相矛盾」喊話明年度預算勿再卡 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaV9tR1VsVjJjcUFrREFFM19JdWxwS1pnSHlmS2V1VkpDNC0yekhPdW9veGQ0RXphd0x2czJ0WmhRV1R2M1B6enp5TUthejNvd3lhRkJhdlZ4M3dvSmdncUVVRXRLSnlKdFluTzlERlF0Tjg5YkZtNXBTMVFobFFtZ2dJamJMdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-18 12:37:00"
-    },
-    {
-      "title": "廢清、資循雙法前進雲科大 劉建國力推咖啡全株利用、打造韌性宜居城市 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EVk1DMXh4ckFlTTJIdHhCUzBxRDRHNUNQM0kyWXNBZm5hSW5GenVfdFplMktDV2ZSRnotTE9hakFIRTVRN0YtWUE0WG1ldUdkcEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-18 00:00:00"
-    },
-    {
-      "title": "全民普發1萬元 立委劉建國：AI紅利雲林不能缺席 | 自由電子報 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44ZlZFNENya093YzY3NjN1Tkp3N0Rqa3RveVRJNnVrUjBaRWJCWk1GelZnUmMxTVRwN1BrNFJfRUFMVWw1a3ZHVUFqVUVSODdzTFVENmtR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-17 18:56:11"
-    },
-    {
-      "title": "全民普發1萬元立委劉建國：AI紅利雲林不能缺席- 政治 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ibWJLZU1hQ3FMTmJONVdqOWtMOHNjSTBmZHdnRmFnLV9QdFphTWRmUDFqamNzeS1MWXNFUWdPQ2liSDdyRjZIVzRmQmo5U2phV0pyazdGclNfRV90TTJqaVBPOEVqakJfeGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-17 17:53:42"
-    },
-    {
-      "title": "選舉逼近服務處突搬遷引聯想！劉建國團隊曝這原因：待了17年很不捨 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQcE54Sk40Q3N2dmNaTDJPdE5ReF9YaFBDZV9KUndvMk1jdmJqblY2N0w2VlF6OFhaaENXdGJFZVRETWcwdHBPekZFdGhSMHFJbTBpQnUtMm9vOWhNUFBHU2pXZEJSZGFyc0lSTmdWUEVGdTI5ZGFwdkx1aUp4enJpWXVsWVFZbS1kMTljZ294ZlgyMW9ZaXV6NDRqcUg5UTdield3UGQxSmhqekxmSDQzTGg2UmtWdkJuQnRyMktwaDhzczVFVFJLYXNJTmRUZ3FxMHBmX0NnU3E2MmJIYVJLbEFXb1FiMHJkVzRZdkh2YTdvRGNxdzZKY1BfMFpXM1pJY3otaGktSWF1YlROWjc5UWpGSXBoWkJVQnhuOVcxMTV1a3JZTWxJVXNUQzZ1b3U5U2tWdnkxZzQ2YjJQX2lPVVc5UWY4WHRTWkpWVzJFVHB4ejFWMWYxQmNMeFdRRWNtLW1VMWRhNE1SQmFETVFDMEpBbVExdDFVZEl5RTdmaFNuRVFDeldtQ3FxZDFtZGNkY3R2NXFpV1U2WlVDZHVaYmVFNUkxTnI4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-17 16:03:10"
-    },
-    {
-      "title": "選舉逼近服務處突搬遷引聯想！劉建國團隊曝這原因：待了17年很不捨 - 中時新聞網",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84cG5URENXSllyb3VDN0lSQ3B5ejQ1Vm11U1huT1BvRDJXUUxCZGxNdmlfZUgzc1FHVExzTFNldGR5dmJ0TC1kdU9ZYS10di1KTC1tc19iRjYwbGw0WW9yRjJLNUg5OUswalZfRlZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-17 15:58:10"
-    },
-    {
-      "title": "斗六人文公園開發83.7％ 劉建國17年服務處因「這因素」確定搬遷 | 自由電子報 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zYkZSZTFyWXpueVRKMk9Fc3hfQ3BZOE1Ba2tNanhHb1M1TnZ0eEkxNmVaZ2dHUVpld2kwVWV0T2t2NExSYldBLUR6QTd5Wks0Sk8xUFhB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-17 15:49:36"
-    },
-    {
-      "title": "斗六人文公園開發83.7％ 劉建國17年服務處因「這因素」確定搬遷 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNZUdxS3hYYWtnS1BncWJkYlFIQUlmcjZjLWFkeU1WSWJFVWozSXVnOFRkZElBZURYdEhZWTdFa1lMcWxkZkMwdG1INnlqWTMyUlhJN29aR0E1bXpOTEFXWWlJbTJVb3p0cFNRTDNobzcwMzhYZ3dKX19WMGJ3TlM1Wk9LWm5ncFRnWm5WWXFpaVM1Mk1LOThVT0ZmWHZRYUZvNi1PbTJnUUlWcnJQcm5uU3h6M1h5dTJuSlRPaGp2Z1dNdGtBTUdUTGg5Ymhjd3BJSnRIUXk0Z1BTMWR1WjlBRkc3Zy1LMVNadUx5ZzdJS0RMU2xvYW0yQUFrckcyN1FpZWMwSjFlSkQ5SjIxTWNKS3V0MmdESVF0cU1Db2hiX1c5SWpVNHV5Ri1SaGttM2FIVWViYVpiOG4yQzA4U3N4WVV5eVN2Mkp6anp5WlNsV1hvZ1lmcWdJYS1KVjJaYlp5b0EyN3I3RTl3SndIQnZXeWFyWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-17 15:15:15"
     }
   ],
   "person_sections": {
@@ -826,6 +959,36 @@
       ],
       "news": [
         {
+          "title": "張麗善親遞接力棒！張嘉郡喊「8年不能歸零」、拚30項建設 - NOWnews今日新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BNkF5WlN4U0JKaGpleTRDd0lpTTNnRW52ZTEtV3ZBMTRNaHd5UzN6aTFkajlBNWg3WWw5UExBWjh3Qzg1V2F4ek5zYk_SAVJBVV95cUxPYmk0aHQ2MklJYmx1T1JWUGpHZFJNQndNRFp5S1hNWGd3bVNQUnlwVkR0Z1pOUVgzUllUeUhZS3FiR0dFaGlkN1RWNVJSSjNBWXp3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-20 15:33:28"
+        },
+        {
+          "title": "選戰倒數百天 張嘉郡接下張麗善棒子 - 中國評論新聞",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjSmRpa2hIT1dPdG9CRWgxX2hta1RNWm5YZXowT2tjUkE2LWhCY09ZTHlRMzBTUmxLZXd0c3hMeDBuY29OOVpTaEFSQ0FadVFUTkJTLTlzYnJRbnlQOE9nOUFqNEg2ZG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-20 15:25:21"
+        },
+        {
+          "title": "選戰倒數百天 張嘉郡接下張麗善棒子 - 中國評論新聞",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXeEttS2JkY1FyWk5pUnZMTGhfNC1jOHpsaGNPOHZzQWp2MzFaTXBFMmFkSG5URTNNdDRNYVZmR3FLZEFRX1hYRjdzX25IMHRjRkRvenFwVzBSLTZfWlN2ak5PMHBjV1c4cjE3TUd2Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-20 15:25:21"
+        },
+        {
+          "title": "接棒傳承！張嘉郡在距選舉百日接下張麗善棒子續航雲林建設願景| 縣市長議員選戰| 要聞 - UDN",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4bFJJRGJ2Rnk1dHNmMlVFLWZZQlFPcGdMVG5POXc4azBRcWJrbEdjRlVuQUdtdmZJYm5LMEV2dmpVN1JKM2VqSDgzZ21ZNlVVdUlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-20 15:10:56"
+        },
+        {
+          "title": "張嘉郡拚勝選！接棒張麗善續推30項建設盼「讓下一代擁有更好的雲林」 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQTWVxemQ5ZXdCSGpaa3FSVHJqNzFlNXdlTmx6XzItUWJEcEppVjVhZXFYQ2dhTERvNVJXQXFNUzBNVEZwVVdRNHBROTZCUDV5bVQyT2xYZXhuZmx5am1GRlU4SHVkUmp6MFhBM1hBZzZ0QXRDLUFtbWtvMmloWDBwM2VuUjVvclI5aWY2UlZkNFkwYzY0eHR1bDhtcWQ3U2xrWnZSWTNyaEJRSGxYQk5ZUDkyWmRmLWRDeDZSbGRXQkZ4SUx4X3dMOXVRdVc4QV9DY1FsSF91SFpLc0hOZWRJQnFpMFBsUTFRNnlQUDRHelVuNVB5b202OW5GZTM2T3ZkMkt4SEluQVpyOVgzZjBFNWl3ZjlTblBDVzNZcTV3WFVPb1hVZzgwRXVpUGpiNkxiY1BCaHN5QlhHNlRnSDQ2ZlEtWHhONFJ1LUJXRDl0UnlrNWZYZG9uN292eGlvaVZibjNDZ19kWmxFZi1CNUdIN0k0X3ZwTTNiaFdjR0tuWVNZdF9qd25zMkNpTl9ONTlkX1Y0Uy1oMmJJMDRnZmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-20 15:08:03"
+        },
+        {
+          "title": "縣市長選舉倒數百日 張嘉郡宣布雲林美術館落腳斗六 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQbDlCQl9yd25WY2FOZnNCMDlweVhuMTJEb0t6aUNBNWpFSFVWdTlGaC1ONGlHblVHS2VIOWlEX2NoVzBSQ1FuVXFoaG5NQ1VjbG1OLVE0eVl2R2Zwb24xLTFTV3Y3djB6SDFqTVBVRk5JZmNWUHFpcEtQR2FTbjM4ZVgxU3dSOFBnM2hOVks2TTFoMW9RakxVY1JqS3ZXbjZzaEMxSThxWjIwZ1hUXzFtZFlMTVhZaWIzTkR4ODEteDZGSF90WkF1UmlXSE5EOHhUTkdFbkJIaGZOTkM3REVqa1dHdlJLbENfQ0FNZ1piWFFadU1Rd1dtWExQcG5zY2ZGYWs4dWxHNUR3aWFSNzRMVU5jM0Vha0tTWl92dnBwQXpKNkJGZUlTWHo5cjkzYVp5aTRESm5lWVNfcVRrcTUtUkZOaEVlUXBwbV9RR05jbkVMdVhIZEx2UDBhRTZXM0VpWUhZenFCdXE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-20 14:37:42"
+        },
+        {
           "title": "接棒張麗善繼續拼！張嘉郡提《雲林美術館白皮書》， 擘劃雲林斗六美術館新願景| 夏和宣| 地方新聞 - 風傳媒",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XcTNHaDBkZVNXRHdPeWZMZmx4c2FhSGhYNkpidk1ZbFl0MjdNVzBtYkJqZEZVSllLZkdaVm1DamhSS3d4ME5fRVplbUJqUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-20 14:23:57"
@@ -894,36 +1057,6 @@
           "title": "盧秀燕訪雲林大啖九層粿 公開盛讚張嘉郡政見有國際觀 - 元丰傳媒",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16V1IzdFUwSVhYMnVmcWU0bHFHUmIyZnJNRWFDTzdOdDNRV0w0TGR6NVdpYTZPajZ4aUlmX1VUYlNUcmNvQktDZi0tSEJ4TDBTTHNDT18tWGRROVA5NFhWam9ycmg0Z1pxWFhvbUpB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-15 19:11:51"
-        },
-        {
-          "title": "盧秀燕訪雲林大啖九層粿 公開盛讚張嘉郡政見有國際觀 - 元丰傳媒",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yWFc5amNPY0ptM1hTczVjNUNNUC1QZFhxSmZaMnMwYXJfbk1TSG5scHh3TkRCazJjLXRtZkNNWEJHQW1HS2YtUm1YbkZKWlEtQU9aVVFnV08zR0NTOVVPUnNYTktiRS11?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-15 19:08:58"
-        },
-        {
-          "title": "盧秀燕訪西螺力挺張嘉郡 大讚65歲健保、雙語政見 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQeVVOSG9SWDJmZWZQTGhXNnJvUVV4YWhELXhNYWZzbUpKa3BHcFZGeFVmcDZOeUlHeWVoNXlvZTd3Zk04S3lWLWpxUHVhS2phR3ZTUjJkTHhmSFVQcU9YQUlna3pVYjhmS012ajRYQ00zaG1Jc2RQbURwOEsyLW1OVlczOEtISzN3RDZlUnpkQWptLW9fR3NnVERVclVtWDZaYjI3OFY0QjBEeXBBQ245RllMa1lucDlQWnZodTZxTG5KYW5nVWRXV2VqMXN1MExpaEZQWHRrbm1ncTZzakJYN1ZRb3NobGNHSEU0dTV0QTY2MmV6NUxLa3JabWFWR1RSMjQ0U2xyMjhwN1JLbnlXQy1IWExYWExseVZzOXFqa0RMeUFDZURkRzBXazN6NERrYlpZWGk4cE1HaXRhM2hPdFpoekR6a1Jy?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-15 19:03:20"
-        },
-        {
-          "title": "盧秀燕訪西螺力挺張嘉郡 大讚65歲健保、雙語政見 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWlZ4REk3bHdoREFuekwtWG8tNWI3LV9EQS13cHR2ejBwWllCQzBTWlA4TzVick0xWnBtLXZoQU1KYThwVlhsang3Q3RFOGhhQTFJeWJtTjdaVGpLWkhQV1lIV0M4eUtlUjF1V1FFSTR3LWhnZHpnd0R2SkxDOEdick1oSVZlMndaZmViXw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-15 19:03:20"
-        },
-        {
-          "title": "盧秀燕訪西螺盛讚張嘉郡政見「有國際觀」：將讓雲林更進步！ - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQeFZ1V0pWa3ptV0t0VlJvaEczR1VxVjA2RlVsZ3JNRmVqUFMxeUlXbTlyU3NKY0lOTWk1eHMyNmo5TlZoMUdkUVJsam43WXJpX2lKOE9Ja2N4TlhSNlkteUl6Nm41THpkenh3RXJMUHJ5Vm5ZRloxdF8yMkZLay1BMnBCekh6ZVg5V19tRXN2enRDU01SUFh0eDJqZ2Vya1pRV2gycVRvcVNyRmRWNXZjOHJMbmRTbUxhQ255eHo1amNIZDFwTEdJdFBBSEV3SGY5cDhxeEF0RzJnSmNtWGdSenprN1l0S184aWFXQTg4RjFGYXpnNEh2NTVEZ3lCRlAtOWZ2Q3FxNld2eGN6WG03RUUxX3p3VVI5eE96MG8xVUg0YUZPRWNwS0hLS1VPTVlaR3VUbU94TFdIS3VOSGtmTFpWNWF6dkNySnNOdHMwNW5ZU0dyNnFrSWVPY1ZuaDZIdWlMa2NqdGhyQ2FqTkFVaVVEWXNGQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-15 18:17:00"
-        },
-        {
-          "title": "盧秀燕訪西螺盛讚張嘉郡政見「有國際觀」：將讓雲林更進步！ - 上報Up Media",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfdTBBTUNtMEdPekE3QmxPWk5uNlYxV084bVVDOEpxY1ZQTHlqV25oZ3R0TmpIRW5lOWRMTmpKZEVERlFyLWljSjJ3UGZXTEVxWFVMWGpqSXNtRkpaNnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-15 18:17:00"
-        },
-        {
-          "title": "盧秀燕輔選列車前進雲林 力挺張嘉郡展現團結氣勢 - 新華報導",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51a2lLVW02dE8yVWlmNl85TTNMbGI3S1BTcm40N3ZzbEw2VldEVTBpTlF0M3FqbFZCLTVOM1d0WnBXM2tIbGVVRzBFVFlzd1ZyWUdTdkNlT2JlNWNqa2JmSUVLRVhjWmt1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-15 17:50:00"
         }
       ]
     },
@@ -1032,6 +1165,21 @@
       ],
       "news": [
         {
+          "title": "選戰倒數百日 劉建國拋「一園區、七顆心」幼到老通通照顧 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOQ2VtcFZXM1Z0QTR2X0lBZm5KVXpIQlBtMzgyRjRSWVFvc2xxa08zZTdCUF9VV29RWk81bEhLRFY4NjQtM29henNnaFJiQktGc2pjQmFGbUY2UXo4bjRQRENOUi14dG52dWVfQzdFRkVOUVllQ1ZrUGVBbkE5dFlDcDZrU19nbTlfSVk3Q1ExY1hJRzdxRE0yWW1KbG0tcTFqY0paRzVZNHpsYUlBR0RTajEyX1REd2RsZm5WWnJaeC1qZmlDcndNZkJ1ZWJ5c3pEMzRYcjhPdXphZWJ5T09mNEVaZjR6a2ZmcjZkQ3FpY3NnYWtQb1ZsaE5fbkZwRjFBS3BfY3dxTkFrZDFkcnlrb1R2emxIVWdKUTVtSzlRLU5OSm1zc2VQTWZkX1pISEZ4WERqY1VIbmVpVkg3Ymg2MUxmOWY4MGIwVVlyWW55ZzExcjNuVlpUUmw2OFY4NTI5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-20 15:20:29"
+        },
+        {
+          "title": "選戰倒數百日劉建國拋「一園區、七顆心」幼到老通通照顧- 政治 - 自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KdUg2dmJCMUl2ZVNvTlhSelNZazFPMVFvZi1RTnB1ajBab2pnd0ZNM1E3aWpfUUJvcVFZVVJlOWtlcnJjYVFEa2hTSEhITnZuTUZ3R2VlNEZCejRzRnotNEFDNWxJWUhvdWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-20 15:20:29"
+        },
+        {
+          "title": "立委劉建國拋「一園區、七顆心」政見 從醫療產業到老幼照護打造新雲林 - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1MmJRMU16RkJCZFpDM28zLVB6S1FoR29NaGxoTGZlbzlEa1dFb0tUSzRYMHpKelM3ZWxneV85blVESnR6ZEtxSlJSR2xfVzNoM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-20 15:18:00"
+        },
+        {
           "title": "劉建國點名張家開戰！提「兩大關鍵」打造新雲林！20260807 自由短影音｜#shorts - 自由時報",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeUw5YlBhcEtGOXVJVlhLVzFpZmNLOG9idFJzZVlTS3ZlNk1mc08yQUNHWDFUN2dHU3hweExKM2JuUm9BWTI5N01GOTlvUTFvdWpMazc2NUtHZmM4cXhZNzlZNnFMTUJFUU9yVEJieUdhS3RtNklMUkJoV0JISks3N3VhVjFQQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-20 11:21:00"
@@ -1115,26 +1263,83 @@
           "title": "斗六人文公園開發83.7％ 劉建國17年服務處因「這因素」確定搬遷 | 自由電子報 - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zYkZSZTFyWXpueVRKMk9Fc3hfQ3BZOE1Ba2tNanhHb1M1TnZ0eEkxNmVaZ2dHUVpld2kwVWV0T2t2NExSYldBLUR6QTd5Wks0Sk8xUFhB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-17 15:49:36"
-        },
-        {
-          "title": "斗六人文公園開發83.7％ 劉建國17年服務處因「這因素」確定搬遷 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNZUdxS3hYYWtnS1BncWJkYlFIQUlmcjZjLWFkeU1WSWJFVWozSXVnOFRkZElBZURYdEhZWTdFa1lMcWxkZkMwdG1INnlqWTMyUlhJN29aR0E1bXpOTEFXWWlJbTJVb3p0cFNRTDNobzcwMzhYZ3dKX19WMGJ3TlM1Wk9LWm5ncFRnWm5WWXFpaVM1Mk1LOThVT0ZmWHZRYUZvNi1PbTJnUUlWcnJQcm5uU3h6M1h5dTJuSlRPaGp2Z1dNdGtBTUdUTGg5Ymhjd3BJSnRIUXk0Z1BTMWR1WjlBRkc3Zy1LMVNadUx5ZzdJS0RMU2xvYW0yQUFrckcyN1FpZWMwSjFlSkQ5SjIxTWNKS3V0MmdESVF0cU1Db2hiX1c5SWpVNHV5Ri1SaGttM2FIVWViYVpiOG4yQzA4U3N4WVV5eVN2Mkp6anp5WlNsV1hvZ1lmcWdJYS1KVjJaYlp5b0EyN3I3RTl3SndIQnZXeWFyWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-17 15:15:15"
-        },
-        {
-          "title": "斗六人文公園開發83.7％ 劉建國17年服務處因「這因素」確定搬遷- 政治 - 自由時報",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OTmVpcHF1X0NlVmRYeVdEdUUxMzdENnZacEtWZUUtSGtncVhSbGpDR3B6QjVlbFBGdHFQX2tYbE9tczZsNG80aEh6WFBJYVVaTHJCdG9FbnJOZnpwUnJlTHpKUXJSYVdrVGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-17 15:15:15"
-        },
-        {
-          "title": "斗六人文公園開發進度逾8成 劉建國服務處17年老家因這原因確定搬家 - UDN",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ySURCMEI5V1NTWWIwMVZhaDFtdVdNZjZCNDFDTHVSY0NPbEVPaFNOcHUtR0lSelhFN0N4YzVXdUdUSFdhWGhuWlk3RW5LVzhU0gFWQVVfeXFMTS0xbWd6V0VkZFY5Ni01bE1YS2ZKdEpVNnFCazlDcGRRbUk0Rm53TVNCeE1oN0pMUElXR3MySTVGQjE4NDBua1NmWDI1R1Z1RzAxamQxY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-17 13:42:56"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "張麗善親遞接力棒！張嘉郡喊「8年不能歸零」、拚30項建設 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BNkF5WlN4U0JKaGpleTRDd0lpTTNnRW52ZTEtV3ZBMTRNaHd5UzN6aTFkajlBNWg3WWw5UExBWjh3Qzg1V2F4ek5zYk_SAVJBVV95cUxPYmk0aHQ2MklJYmx1T1JWUGpHZFJNQndNRFp5S1hNWGd3bVNQUnlwVkR0Z1pOUVgzUllUeUhZS3FiR0dFaGlkN1RWNVJSSjNBWXp3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:33:28"
+      },
+      {
+        "title": "選戰倒數百天 張嘉郡接下張麗善棒子 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjSmRpa2hIT1dPdG9CRWgxX2hta1RNWm5YZXowT2tjUkE2LWhCY09ZTHlRMzBTUmxLZXd0c3hMeDBuY29OOVpTaEFSQ0FadVFUTkJTLTlzYnJRbnlQOE9nOUFqNEg2ZG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:25:21"
+      },
+      {
+        "title": "選戰倒數百天 張嘉郡接下張麗善棒子 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXeEttS2JkY1FyWk5pUnZMTGhfNC1jOHpsaGNPOHZzQWp2MzFaTXBFMmFkSG5URTNNdDRNYVZmR3FLZEFRX1hYRjdzX25IMHRjRkRvenFwVzBSLTZfWlN2ak5PMHBjV1c4cjE3TUd2Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:25:21"
+      },
+      {
+        "title": "選戰倒數百日 劉建國拋「一園區、七顆心」幼到老通通照顧 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOQ2VtcFZXM1Z0QTR2X0lBZm5KVXpIQlBtMzgyRjRSWVFvc2xxa08zZTdCUF9VV29RWk81bEhLRFY4NjQtM29henNnaFJiQktGc2pjQmFGbUY2UXo4bjRQRENOUi14dG52dWVfQzdFRkVOUVllQ1ZrUGVBbkE5dFlDcDZrU19nbTlfSVk3Q1ExY1hJRzdxRE0yWW1KbG0tcTFqY0paRzVZNHpsYUlBR0RTajEyX1REd2RsZm5WWnJaeC1qZmlDcndNZkJ1ZWJ5c3pEMzRYcjhPdXphZWJ5T09mNEVaZjR6a2ZmcjZkQ3FpY3NnYWtQb1ZsaE5fbkZwRjFBS3BfY3dxTkFrZDFkcnlrb1R2emxIVWdKUTVtSzlRLU5OSm1zc2VQTWZkX1pISEZ4WERqY1VIbmVpVkg3Ymg2MUxmOWY4MGIwVVlyWW55ZzExcjNuVlpUUmw2OFY4NTI5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:20:29"
+      },
+      {
+        "title": "選戰倒數百日劉建國拋「一園區、七顆心」幼到老通通照顧- 政治 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KdUg2dmJCMUl2ZVNvTlhSelNZazFPMVFvZi1RTnB1ajBab2pnd0ZNM1E3aWpfUUJvcVFZVVJlOWtlcnJjYVFEa2hTSEhITnZuTUZ3R2VlNEZCejRzRnotNEFDNWxJWUhvdWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:20:29"
+      },
+      {
+        "title": "立委劉建國拋「一園區、七顆心」政見 從醫療產業到老幼照護打造新雲林 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1MmJRMU16RkJCZFpDM28zLVB6S1FoR29NaGxoTGZlbzlEa1dFb0tUSzRYMHpKelM3ZWxneV85blVESnR6ZEtxSlJSR2xfVzNoM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:18:00"
+      },
+      {
+        "title": "接棒傳承！張嘉郡在距選舉百日接下張麗善棒子續航雲林建設願景| 縣市長議員選戰| 要聞 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4bFJJRGJ2Rnk1dHNmMlVFLWZZQlFPcGdMVG5POXc4azBRcWJrbEdjRlVuQUdtdmZJYm5LMEV2dmpVN1JKM2VqSDgzZ21ZNlVVdUlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:10:56"
+      },
+      {
+        "title": "張嘉郡拚勝選！接棒張麗善續推30項建設盼「讓下一代擁有更好的雲林」 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQTWVxemQ5ZXdCSGpaa3FSVHJqNzFlNXdlTmx6XzItUWJEcEppVjVhZXFYQ2dhTERvNVJXQXFNUzBNVEZwVVdRNHBROTZCUDV5bVQyT2xYZXhuZmx5am1GRlU4SHVkUmp6MFhBM1hBZzZ0QXRDLUFtbWtvMmloWDBwM2VuUjVvclI5aWY2UlZkNFkwYzY0eHR1bDhtcWQ3U2xrWnZSWTNyaEJRSGxYQk5ZUDkyWmRmLWRDeDZSbGRXQkZ4SUx4X3dMOXVRdVc4QV9DY1FsSF91SFpLc0hOZWRJQnFpMFBsUTFRNnlQUDRHelVuNVB5b202OW5GZTM2T3ZkMkt4SEluQVpyOVgzZjBFNWl3ZjlTblBDVzNZcTV3WFVPb1hVZzgwRXVpUGpiNkxiY1BCaHN5QlhHNlRnSDQ2ZlEtWHhONFJ1LUJXRDl0UnlrNWZYZG9uN292eGlvaVZibjNDZ19kWmxFZi1CNUdIN0k0X3ZwTTNiaFdjR0tuWVNZdF9qd25zMkNpTl9ONTlkX1Y0Uy1oMmJJMDRnZmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:08:03"
+      },
+      {
+        "title": "縣市長選舉倒數百日 張嘉郡宣布雲林美術館落腳斗六 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQbDlCQl9yd25WY2FOZnNCMDlweVhuMTJEb0t6aUNBNWpFSFVWdTlGaC1ONGlHblVHS2VIOWlEX2NoVzBSQ1FuVXFoaG5NQ1VjbG1OLVE0eVl2R2Zwb24xLTFTV3Y3djB6SDFqTVBVRk5JZmNWUHFpcEtQR2FTbjM4ZVgxU3dSOFBnM2hOVks2TTFoMW9RakxVY1JqS3ZXbjZzaEMxSThxWjIwZ1hUXzFtZFlMTVhZaWIzTkR4ODEteDZGSF90WkF1UmlXSE5EOHhUTkdFbkJIaGZOTkM3REVqa1dHdlJLbENfQ0FNZ1piWFFadU1Rd1dtWExQcG5zY2ZGYWs4dWxHNUR3aWFSNzRMVU5jM0Vha0tTWl92dnBwQXpKNkJGZUlTWHo5cjkzYVp5aTRESm5lWVNfcVRrcTUtUkZOaEVlUXBwbV9RR05jbkVMdVhIZEx2UDBhRTZXM0VpWUhZenFCdXE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 14:37:42"
+      },
+      {
+        "title": "接棒張麗善繼續拼！張嘉郡提《雲林美術館白皮書》， 擘劃雲林斗六美術館新願景| 夏和宣| 地方新聞 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XcTNHaDBkZVNXRHdPeWZMZmx4c2FhSGhYNkpidk1ZbFl0MjdNVzBtYkJqZEZVSllLZkdaVm1DamhSS3d4ME5fRVplbUJqUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 14:23:57"
+      },
+      {
+        "title": "九合一選戰倒數百日 張嘉郡正式「接棒」張麗善宣示啟航| 政治焦點 - 太報 TaiSounds",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GTDB5SERrV3lReFNVYlhkOHRjT0VYUXhmckFiODZpZV9uVG9jczRJRE1sQmU3TThjX05jZjFEU04zb200N05tcjdDcjNRUUdCQ0stRFZNZGpLZGtX?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 14:20:24"
+      },
+      {
+        "title": "劉建國點名張家開戰！提「兩大關鍵」打造新雲林！20260807 自由短影音｜#shorts - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeUw5YlBhcEtGOXVJVlhLVzFpZmNLOG9idFJzZVlTS3ZlNk1mc08yQUNHWDFUN2dHU3hweExKM2JuUm9BWTI5N01GOTlvUTFvdWpMazc2NUtHZmM4cXhZNzlZNnFMTUJFUU9yVEJieUdhS3RtNklMUkJoV0JISks3N3VhVjFQQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 11:21:00"
+      },
+      {
+        "title": "馬偕小小醫學營十多年不間斷 劉建國：把醫學種子種進雲林囝仔心裡 - 台灣新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE44NHdta1BHdHVJVGpmTV9vMDNkdlBSNUkxVlZNQnZvZHNqeEJCbDNjZjBVaXZ0SVZUbEtNWGE4N1Ytbl92MHNv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 10:43:11"
+      },
+      {
+        "title": "筱君 台灣 PLUS-雲林幸福指數全國墊底 劉建國誓言翻轉壞印象 0819 - 美洲台灣日報",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBla3JwSFVlNFJ2ek9TZUJoLUVLcjl5RjZtV0QxaFo3X2FnOWsxSTdNZ3lwbGxiRlV4VjZMelZoc0JILXIyRWVvWTJCdmExQ3QxVzhsZmRacFpicWtOUTVva3k0SWo2ZnppMlNaWmlPZ2RfTWJzR2Fz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-19 23:35:37"
+      }
+    ],
     "youtube": [
       {
         "title": "政院普發現金有三前提，在野黨別再漫天喊價！",
@@ -1166,37 +1371,55 @@
         "url": "https://www.youtube.com/shorts/qhc_JRfS1No",
         "time": "2026-08-19 20:25:46"
       }
-    ],
-    "news": [
-      {
-        "title": "接棒張麗善繼續拼！張嘉郡提《雲林美術館白皮書》， 擘劃雲林斗六美術館新願景| 夏和宣| 地方新聞 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XcTNHaDBkZVNXRHdPeWZMZmx4c2FhSGhYNkpidk1ZbFl0MjdNVzBtYkJqZEZVSllLZkdaVm1DamhSS3d4ME5fRVplbUJqUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-20 14:23:57"
-      },
-      {
-        "title": "九合一選戰倒數百日 張嘉郡正式「接棒」張麗善宣示啟航| 政治焦點 - 太報 TaiSounds",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GTDB5SERrV3lReFNVYlhkOHRjT0VYUXhmckFiODZpZV9uVG9jczRJRE1sQmU3TThjX05jZjFEU04zb200N05tcjdDcjNRUUdCQ0stRFZNZGpLZGtX?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-20 14:20:24"
-      },
-      {
-        "title": "劉建國點名張家開戰！提「兩大關鍵」打造新雲林！20260807 自由短影音｜#shorts - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeUw5YlBhcEtGOXVJVlhLVzFpZmNLOG9idFJzZVlTS3ZlNk1mc08yQUNHWDFUN2dHU3hweExKM2JuUm9BWTI5N01GOTlvUTFvdWpMazc2NUtHZmM4cXhZNzlZNnFMTUJFUU9yVEJieUdhS3RtNklMUkJoV0JISks3N3VhVjFQQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-20 11:21:00"
-      },
-      {
-        "title": "馬偕小小醫學營十多年不間斷 劉建國：把醫學種子種進雲林囝仔心裡 - 台灣新聞雲",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE44NHdta1BHdHVJVGpmTV9vMDNkdlBSNUkxVlZNQnZvZHNqeEJCbDNjZjBVaXZ0SVZUbEtNWGE4N1Ytbl92MHNv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-20 10:43:11"
-      },
-      {
-        "title": "筱君 台灣 PLUS-雲林幸福指數全國墊底 劉建國誓言翻轉壞印象 0819 - 美洲台灣日報",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBla3JwSFVlNFJ2ek9TZUJoLUVLcjl5RjZtV0QxaFo3X2FnOWsxSTdNZ3lwbGxiRlV4VjZMelZoc0JILXIyRWVvWTJCdmExQ3QxVzhsZmRacFpicWtOUTVva3k0SWo2ZnppMlNaWmlPZ2RfTWJzR2Fz?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-19 23:35:37"
-      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "張麗善親遞接力棒！張嘉郡喊「8年不能歸零」、拚30項建設 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BNkF5WlN4U0JKaGpleTRDd0lpTTNnRW52ZTEtV3ZBMTRNaHd5UzN6aTFkajlBNWg3WWw5UExBWjh3Qzg1V2F4ek5zYk_SAVJBVV95cUxPYmk0aHQ2MklJYmx1T1JWUGpHZFJNQndNRFp5S1hNWGd3bVNQUnlwVkR0Z1pOUVgzUllUeUhZS3FiR0dFaGlkN1RWNVJSSjNBWXp3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:33:28"
+      },
+      {
+        "title": "選戰倒數百天 張嘉郡接下張麗善棒子 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjSmRpa2hIT1dPdG9CRWgxX2hta1RNWm5YZXowT2tjUkE2LWhCY09ZTHlRMzBTUmxLZXd0c3hMeDBuY29OOVpTaEFSQ0FadVFUTkJTLTlzYnJRbnlQOE9nOUFqNEg2ZG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:25:21"
+      },
+      {
+        "title": "選戰倒數百天 張嘉郡接下張麗善棒子 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXeEttS2JkY1FyWk5pUnZMTGhfNC1jOHpsaGNPOHZzQWp2MzFaTXBFMmFkSG5URTNNdDRNYVZmR3FLZEFRX1hYRjdzX25IMHRjRkRvenFwVzBSLTZfWlN2ak5PMHBjV1c4cjE3TUd2Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:25:21"
+      },
+      {
+        "title": "選戰倒數百日 劉建國拋「一園區、七顆心」幼到老通通照顧 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOQ2VtcFZXM1Z0QTR2X0lBZm5KVXpIQlBtMzgyRjRSWVFvc2xxa08zZTdCUF9VV29RWk81bEhLRFY4NjQtM29henNnaFJiQktGc2pjQmFGbUY2UXo4bjRQRENOUi14dG52dWVfQzdFRkVOUVllQ1ZrUGVBbkE5dFlDcDZrU19nbTlfSVk3Q1ExY1hJRzdxRE0yWW1KbG0tcTFqY0paRzVZNHpsYUlBR0RTajEyX1REd2RsZm5WWnJaeC1qZmlDcndNZkJ1ZWJ5c3pEMzRYcjhPdXphZWJ5T09mNEVaZjR6a2ZmcjZkQ3FpY3NnYWtQb1ZsaE5fbkZwRjFBS3BfY3dxTkFrZDFkcnlrb1R2emxIVWdKUTVtSzlRLU5OSm1zc2VQTWZkX1pISEZ4WERqY1VIbmVpVkg3Ymg2MUxmOWY4MGIwVVlyWW55ZzExcjNuVlpUUmw2OFY4NTI5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:20:29"
+      },
+      {
+        "title": "選戰倒數百日劉建國拋「一園區、七顆心」幼到老通通照顧- 政治 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KdUg2dmJCMUl2ZVNvTlhSelNZazFPMVFvZi1RTnB1ajBab2pnd0ZNM1E3aWpfUUJvcVFZVVJlOWtlcnJjYVFEa2hTSEhITnZuTUZ3R2VlNEZCejRzRnotNEFDNWxJWUhvdWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:20:29"
+      },
+      {
+        "title": "立委劉建國拋「一園區、七顆心」政見 從醫療產業到老幼照護打造新雲林 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1MmJRMU16RkJCZFpDM28zLVB6S1FoR29NaGxoTGZlbzlEa1dFb0tUSzRYMHpKelM3ZWxneV85blVESnR6ZEtxSlJSR2xfVzNoM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:18:00"
+      },
+      {
+        "title": "接棒傳承！張嘉郡在距選舉百日接下張麗善棒子續航雲林建設願景| 縣市長議員選戰| 要聞 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4bFJJRGJ2Rnk1dHNmMlVFLWZZQlFPcGdMVG5POXc4azBRcWJrbEdjRlVuQUdtdmZJYm5LMEV2dmpVN1JKM2VqSDgzZ21ZNlVVdUlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:10:56"
+      },
+      {
+        "title": "張嘉郡拚勝選！接棒張麗善續推30項建設盼「讓下一代擁有更好的雲林」 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQTWVxemQ5ZXdCSGpaa3FSVHJqNzFlNXdlTmx6XzItUWJEcEppVjVhZXFYQ2dhTERvNVJXQXFNUzBNVEZwVVdRNHBROTZCUDV5bVQyT2xYZXhuZmx5am1GRlU4SHVkUmp6MFhBM1hBZzZ0QXRDLUFtbWtvMmloWDBwM2VuUjVvclI5aWY2UlZkNFkwYzY0eHR1bDhtcWQ3U2xrWnZSWTNyaEJRSGxYQk5ZUDkyWmRmLWRDeDZSbGRXQkZ4SUx4X3dMOXVRdVc4QV9DY1FsSF91SFpLc0hOZWRJQnFpMFBsUTFRNnlQUDRHelVuNVB5b202OW5GZTM2T3ZkMkt4SEluQVpyOVgzZjBFNWl3ZjlTblBDVzNZcTV3WFVPb1hVZzgwRXVpUGpiNkxiY1BCaHN5QlhHNlRnSDQ2ZlEtWHhONFJ1LUJXRDl0UnlrNWZYZG9uN292eGlvaVZibjNDZ19kWmxFZi1CNUdIN0k0X3ZwTTNiaFdjR0tuWVNZdF9qd25zMkNpTl9ONTlkX1Y0Uy1oMmJJMDRnZmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:08:03"
+      },
+      {
+        "title": "縣市長選舉倒數百日 張嘉郡宣布雲林美術館落腳斗六 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQbDlCQl9yd25WY2FOZnNCMDlweVhuMTJEb0t6aUNBNWpFSFVWdTlGaC1ONGlHblVHS2VIOWlEX2NoVzBSQ1FuVXFoaG5NQ1VjbG1OLVE0eVl2R2Zwb24xLTFTV3Y3djB6SDFqTVBVRk5JZmNWUHFpcEtQR2FTbjM4ZVgxU3dSOFBnM2hOVks2TTFoMW9RakxVY1JqS3ZXbjZzaEMxSThxWjIwZ1hUXzFtZFlMTVhZaWIzTkR4ODEteDZGSF90WkF1UmlXSE5EOHhUTkdFbkJIaGZOTkM3REVqa1dHdlJLbENfQ0FNZ1piWFFadU1Rd1dtWExQcG5zY2ZGYWs4dWxHNUR3aWFSNzRMVU5jM0Vha0tTWl92dnBwQXpKNkJGZUlTWHo5cjkzYVp5aTRESm5lWVNfcVRrcTUtUkZOaEVlUXBwbV9RR05jbkVMdVhIZEx2UDBhRTZXM0VpWUhZenFCdXE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 14:37:42"
+      },
       {
         "title": "接棒張麗善繼續拼！張嘉郡提《雲林美術館白皮書》， 擘劃雲林斗六美術館新願景| 夏和宣| 地方新聞 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XcTNHaDBkZVNXRHdPeWZMZmx4c2FhSGhYNkpidk1ZbFl0MjdNVzBtYkJqZEZVSllLZkdaVm1DamhSS3d4ME5fRVplbUJqUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1351,54 +1574,14 @@
         "title": "劉建國爭取農民福祉 抽水電費免負擔800萬元改善農水路 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNWWw2UjBIY01PVzF0d2xwNnJtNEtsaG9ObHJQS3paNGdvNi1TeWQtTUdPMFRXbXZQY0E5N3FqT1E4ZWJnUjQwQnJWM1VlWHQyX2trX28xdGl1czREdHlocjNFLXJPVVpKdFh6SVBFdEFNcHpRUzZ5MkNjaXRmZzdHVU9zTy1wXzV4SjFRN2VNTUNvV1ctNmgyQVkxREItNUdxU2pBbHFqSXdwSlhzTEN4eEN1Q2RTVi1PcFFMbDRJMmh5eHF2cWgzUG1Ea3AxUDUxRHN3eEdLNnBTa1JzVHB5NFpRUFlvNG5aU1lHUzBpV3l1Q0xwS2dmN3h6ajgtbTY3WGREQkxIQzVUUlFrYUdTX0VLdFZLSlBieTZyUF8yZVRaOU1adVlfUVczRVp5QVdNUmdKUFVHb29WYzVnaV9RTUN4V0dQclhZOXhDR1Jkb2dkX2FIVjM4aFpxcXh0RV9fMEpqeFNiWkNremRY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-16 11:00:00"
-      },
-      {
-        "title": "劉建國爭取農民福祉 抽水電費免負擔800萬元改善農水路 - 生活新聞 - PChome Online 新聞 - PChome Online新聞",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaHloNDZCLWUySl9CV1FWcmNzVkRkNmVDV2dmWnROYl8wNlJNczZqSk9aaEhLWGgzTno1UnJZRVp1aVJaQ1ZGczhJaFM1dHU2MFFpOVVDOGhGY0dDUUNiSy11SUdrSFRnUXNUdkpiVmEwU1hJSWJLSGxxa0tsOVJLdnZnZGpUc1p1QVBHWGlIWTNNSzA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-16 10:54:46"
-      },
-      {
-        "title": "盧秀燕出馬了！親赴雲林力挺張嘉郡 一句話較勁賴清德 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPamVJalBOTDJrQnJ5bTg3TmhXa0VUWENMNFdCYVpGQmZBbVlQd2k1cWFLZmMtSXRFM2ZpMWRYb0ZkMFB4Y0FJa0Q2SXVBYXBDY1FHNk9KaXRNcjBLdWZvY1pXS3EtcWRvMWhsQVBmYzA0RFRpOFF1ZVI1SjBubnNzSWJSM1kxZVNhc0NScDZ4SjRUOFdSbkxEdTZidEJMd09GbzJKRTJHWWgwU3Rsa2RsVU9FUzRYSGZRUkxoX2I5ZGN6Y1NjTDRLd1Z3ZjVpV0FqN2dyRWg2ZUJmbnBhdVFFUElqTGxvX1R6bkFlQ1c3YnZFQTZNVzE0STg3VmVscTlhTjJudmV1cWEtek1EeTc2MUg1Tzd0WXRHeDBMWmRJUWNXNVQ4dE04TGZCU0g0d0ptWTdUTm1ORHJidEI4czQ1dDl2Nm14cnhTbUhJN3RjcWphdGdXdC0teGtXZVVpQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-16 10:10:18"
-      },
-      {
-        "title": "盧秀燕出馬了！親赴雲林力挺張嘉郡 一句話較勁賴清德 - 中天新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6V3NINzhlVzNGOUpXeV9KblE5emZUQUdseFh1ZlBQT2lZS3FDek95Y19iSzRBRGRJWXpfTXZ6bjNya2RiLUc4U3g2c0VZSFF1aTVj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-16 09:58:52"
-      },
-      {
-        "title": "總統賴清德訪雲林古坑品筍力、挺劉建國 細數三大理由力挺劉建國當縣長 雲林一定大大發展！ - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ySzNqQkcxLU1xMU56ckJ1Ukg1TzlLdXFORU92ZVB3eDNZa1hSMnBGQUplNWdJZFlpMEpOYVFuREtOTDZGcG8xSTVZQ2NDZkR2Xzd2c0tOUUdsTWtqVDl4MTVfOWxTVnVHLXFR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-16 08:59:36"
-      },
-      {
-        "title": "總統賴清德訪雲林古坑品筍力、挺劉建國 細數三大理由力挺劉建國當縣長 雲林一定大大發展！ - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BQS1NNjFwMzhuOVdWSTZ6NG5RX3gzSGxXQzVPMGhhNWw3N3J3alg1bnhKa0tXVDZ5eXliaVNZYnBGNjQzN3puY3JDR2ZLQUxtOWViTnAtNkJvXzZtbG5ySnB3MGJaT0JaQnBQN2R6OUM5QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-16 02:02:35"
-      },
-      {
-        "title": "總統賴清德訪雲林古坑品筍力、挺劉建國 細數三大理由力挺劉建國當縣長 雲林一定大大發展！ - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iZjcwcjRicjdkdjRuaDl6LUNHdjFUdTNGLTk2TFZhYWtCQ1Zqa0ZXb0Q1SDVMNUpOeTBqcHFma1JWbUEteTJ2YmRzd2dCZ2RuRVRXRTlIZHdUeHNNWmhvYWNPNFJ5bmo5TU03QklUdVprb2w5Uzd0UHp6UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-16 00:29:46"
-      },
-      {
-        "title": "張嘉郡攜手盧秀燕談區域治理 盼串聯中台灣共創發展新格局 | 觀傳媒 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWaWZMR3dscFVkT0xtTkd4RWswN1BnRGlLRk1mSzJjTWl2R3Y3c0VXM2lUU00wVjdPSGNmVzBJX3BLQ01vN2ZxZ2RpWVZqaUpwbkx5WGVB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-15 22:30:03"
-      },
-      {
-        "title": "盧西螺輔選張嘉郡 蔣宜花力挺吳宗憲游淑貞 | 中華日報 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pbFh3bGd2V29qRUlOSlo0NWl4d1B2OHJ6X09wWEVRY0RvejNtelRLTEpleE42MXNtbm9NQVFmRDBPcmE0b2dmUTR2Y29icjFSNmJTczhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-15 22:10:00"
-      },
-      {
-        "title": "盧西螺輔選張嘉郡 蔣宜花力挺吳宗憲游淑貞 - 中華新聞雲／中華日報",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWOUlqMUhBZVJiMm5hRjRSVXVDQmhmR3VIdmg2NlZueldQRU54aU5rcXlQZXZjSDV4Nl9NUEs1MFV0MWVGcTV5eGdDamU0YUFrcWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-15 21:47:11"
       }
     ],
     "facebook": [
+      {
+        "title": "✨ 七夕佳節，願天下有情人終成眷屬！ ✨ 喜鵲搭橋、浪漫相會，今天是一年一度的七夕情人節🌹 不論是正沉浸在熱戀中的情侶、相濡以沫相伴多年的夫妻，或是正在享受自由精彩的單身朋友，學忠都在這裡送上最誠摯的祝福！💐 今晚別忘了放下忙碌的工作，對身邊最重 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMinAhBVV95cUxOcEZQZktKLWsyd0IzdFAwZkhra1NCWHBXNXNqTHZmTm5PYjVRSEVVUTJNclY4TldpRUdUaEJLVV9tUXU5ZHY4emlrV1dUVGpCY0dZNEtacDJlRzZ6V2Yza0h4SlNtbVk2VGNnN0dwaWdKWU5tQTNPNVNsd3gxdTZSdXNOU1RtVlJHbjNZQUdRaUd0d1NsbG1QTDUzMHh0VWtzNGpwUWRJX3QxdnRHaHEyaUFPSU1VSjE4SXVzajc2MV9yOFNqU2Q1YjVjbTdkZzlrcHg2Q0x1cEVSbm9UcWpONnUySVM4M1pZZkRHakpTRmd0T2tRMk8temwwZkhvUlp4U2licmliUVVRcVZRNVoxZzFNMGREV0pjbFh4ZC1sdndXVEptRXRQYVJLejdZM0NvQlg4OGhUZEZMREladE9veE1hLTBBOEJCcUY0T1l3RWFrYXFLVVdOS0FoQUVoV1E4aUlWNnF1UmdMZ09UVW5HcFEtRGlta2YzbGtQYnc2OWRUMWd3R3RvdDNOdFM3Vk81VGFtaWxKV1RwTmVRVHhsUzRla2U5c3RBRnE1UzdiekJ4N2tUdzVIYTl1cWtPUDZmWl9ERlpUaktNUXJ5R1pqZnY3WGFvMzhaVmpXeFcxb19MTGYwam9STnNkUGNydnBqMEpPTGM3YU04Q096c0pxV2JtVWljcHlpLW1vbkcteUJfeUlsQzlpZmNMWGwxcGxxQkpISUhHYno2S2xPdTZKSjF4ejdvT3FMTFNCQkV6ekhRQndRSFQwWlVMNHlKNUZsOEFwVjVjWVV3S2MwUDNWdlRFbmpLMFBoNGZTZ3lnNXV3Z1lrVkc3WnpaUW1yNi1pMHI1WlFRUGVRQTV1WFliTktURVh4NTRKa1JsSE1qNGtSNHJxaFNQZlVCbDlIaGtWazhNeGpCWHlNWkFKU0h2Y3hydVE5clh3UklXVmdQcFB0c3J4a1E2MWRCbHMwcnJNVVVTLTNXNGhfZkIzZjdtN0FUbnkweW5qTHR2Q19NMHFIbnpLOWRKN2RhTEJaLW1UYWMtSHBLOWd1VUl0TkJmQklyZFZTVVNBSWk0WEJDNmdfSWl3ckg1VV8wV3hrYTB3ZHI2NnNaVVZHV1psdEdueFVjR3ByMFYyOEV0LU1ub0hJcDBUVmdzLVVhakdtN0JHMTc3Sl9CSDB3XzlVQmlPYTM1bmxhcFZ6cWo0TWlRSFotSmJjTDU4dWdOV1NRUlljS3ZHV0o0UEhlU1FuNC1xeTctM3Z0U1FHVG95NTFHMS1xS3psSWFTalBQTWlqMDBlWHg0N1ZsLU45MGZ3elkweEFXRHBndXQwekVIVDczZlY0WjlnY3NDV3BrZ2pDRzkyVzg1REdMQmZGMGtsdFo2bVVVWlpBd2NsS05YRw",
+        "time": "2026-08-19 10:48:12"
+      },
       {
         "title": "「經費無上限，做到解決好為止！」一句承諾，徹底終結雲林兩三百年的「吃飯配沙」！ 🌾💨 ​過去每到秋冬，濁水溪揚塵讓雲林鄉親連吃頓飯都滿嘴沙。 濁水溪的問題困擾了兩三百年，但劉建國沒有放棄，在立院強力質詢、更陪同時任行政院長的賴清德親赴現場勘查！ ​賴 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxQLVVXVE8tOW5zSE1pM1FEb0kxODUzSXZTSUhraVZlNUUxZURKQnUyX3dVSkswVVBWUDZGYU53MDVFRTIzUEJuUnl2RGhGdWN6WXlTU3hDcHVzZV9vSElWand0SHc0VzFWSUV5NmsxTjZUYmk1SGRlYUhtMlBQUWVZdVo5anZnd1BEZ0FzYmZvWUo1a3JleVFfQ3lNU3U0dTFtU3RBeEN5Z0dsS1JRWWdHY3cwSFIxSXhJR0JRWnVZam8zRzlSMHZ2WXVIVUJzaElFeWpqMEJaWjc2ZDVRaXppRWQzZ1NKYVFxMDBrTWNVekNCdC1KN2YySHVNclpjenZVSDFpR1ZyUGQxOWlzWXRkX0I0NmotN1hKZjV4am9WMURxMTNFUnZTUDdvRmlpNnQwN3RrWi1DbFVlRHdQQ3lRSlhGTHAzZnFMbkhjaVNzQmVTSFkxUDhnVDRoc3hneUxTVUE4elN3c3ZPU0xHYTVKemw3Z1p5ZDBMa0FQakhTdkRxbmptVWwzb3c3LWZKQlE0S2VDMTNReGVyZ3BCTEUtZktpUmxacmoybWpnRzM0R2FYelRwOFhtRGJNcXY0Z2s5eTk2NzlPMlJQZG1yX3laU0ZCd1Z0M3BWR3ozUERCcUxwa0lzdDJSMzZXbHRheTJ4MnF6VWNMN1dVTURUXzYyUWg5YTg5S1RxOFZxSm1NZnNUc00xYjVxQkpsNlg5YWtTcV9Pb3duUFFGeUlydnJjR2dJQm16TnFZelJONHFMR1k1aE5CSE5vMDA0OENhSFRwQWUybUg0LVZpZUhxd0FKcEtqQm5pTXVRcEtWeUNVeWhwYmlIQUFab2prUk5nRjZZcFN5bGdJVTd4WWtnY2JDVGRuOUZyUG50dFFWYjItYWZDQVp4TzdoUE95ZTc2Sk0zQlNaOFg2WWNSNm5GalJtVTlDNVpzZUl3eWl4cGg2Y0VNUFZyMElVZmotd3lYNm5NbEdYeU9tdVQta19BOTdvUldyVHJrS3lEdXZIMmk0SG9id1V4NnZOMGgwZ1lNeENOSlJsM0RtM2hSVThwTkZmanZJOHpPbVF6aGExQ2xzamI3ejAtUGNkRE9qOWg0M3dlc0ItNTl3QUZhci1XVU9najZNZ3d2VjlsaURYNUxadndreUJqa2diRG4tSjFVVHFuSmhRTW5wQnFXcnJXY0MwZWlRQjFfZFppOXNScE1oVlR0dWNVUUtMWTlRVHctMlcwUjRraWotbWVtRE9paUNIQ1JXWmQwLTlsOTFLcjQ3SmxUQmMtVUJiY1ppZGNaUzc0cDNaNXRJNjBmZ0tsSnhvZ2VsU2g5NVFkUHpqU0VZWTJNV1IzcXk3aHo3em5Uek5EeDdEb3p0V2szTjBWSjJWeHNOVXptVDc5UVltWnpmd3pfdTJl",
@@ -1593,11 +1776,6 @@
         "title": "【814空軍節~感謝國軍弟兄-保家衛國！】 無論是深夜的緊急起飛、例行的戰備任務，或是在跑道旁頂著烈日完成每一次檢修，這些不會上新聞的日常，正是台灣得以安穩的原因。 今天是漢光演習的最後一天。這幾天，陸海空三軍與後備部隊在各地全力投入演訓，用最貼近 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMihAhBVV95cUxPMVNmWHNCVWx4UFpTTTgwUFpmQTVVYVJCQmowTmJnWHF1dXJZTGhmdzh5cEdzSkdxclNrTzJKME04bTd0b2N5YUdmSS11TFMyekIyZ1UtU1B3aTMtdllnUzdraVFvSTEwQ0NRTXVqcWJsNUV2c3BtcExjVnhseng1SFM4eWxBcU41eGhUVFBQX2ZaNU9hd0NHUkhfdGR6RjVJNXJMNldVM0lrd19HenFsdHVPVU9rSFNmRDNlMGVOcG9OV0U4VmNlVW1LRG85VlVDVDI1Y09BdWhlT21NZTl5SHYwRktzTjVwbjB6ams2bXVmb0pIZE5aNnZzenRXZTdfTjFybEc1NVM1U0x0cmFEQ3VGZWRPTmN2cW0tLTdEcUpaQXo5VjZOVzQ2aHI1XzFmZnJwejFrQUtuNWpSbmR0NWhEQ3N0YWJ1dnJUYmFjWjdHM1NObTEzZUNBT0RFeXlMZGFnbEl1NXVET1N1akR0RDA4T296ZDZJaGJ3SmhXWUJCTjBKbEE0VGh0bFk1NUkwenY2N1ZYa2I4TXRuWnh3UWFGbFNLYUFQaWZhUVBINUd5TjRrRE9URHdKbEhjNmpOSWZQVjdhNFY5Q3lBVFRxTGJPUUtrOU9zblNzUnJaYzEzeGJOMFh4bWw1MlNJLTA5V3BhaG5JQ3hGY3ZzT0FmR2Q1UFp6dHZSSHQ1Nk9aT3NyOWpFV08xXzdxNmF5RjdfLXh3Uzc2Ymoxeks1YWZUWjlEMW91aWF4M3JpbWNmZTlfYkJzTEI0YXR2UjNhazlUU2xtU2dsOWgwcE1DcW1vbkZEZlhQd0V1VVZ2SDlMc2U4VllzVVh0VEw0dFFCZjc2cldwUlJTYS13WFhNNnVRNHRBZjdnUV9qdFZxMXh6ZWZGN29nVVRFalY5d0xzVE55c0FSYVFDWGJDSEMtS3NLcFZxbDB6SXVBQ2F0RXR1S192R0JaLTV3bzZBa1RndlZ3MkVmRDN2MlJkcmJMbEJjeUtYdHFDRFNCZ2hEVV9TSTlDU2FDNGF1dnhkWEcyWlBmd2NyZ0x5UGtsVW1KTEVNdmlQaTZqMzFxbndWVzh1aWhNUzJXZXZWT25FdGtWRVRYdWg0cVFGekdyelhqQW5Ea3JYR0lITWllYUZCR282S2tDY0Q1R1BnbV9nTW5rYUVEcVVFNlNrRHNjWjUxdjRFalZ1UTdsTzNIQlFvb0RLOUY1UTFwWlpJOXEySTFULUxYQjRCRVZOM3Y2N1NZZ2tXd21ERXh6OG1BSFFYOE54MzRGSENGejBValZhU2ZSNjNKekJwRGVvcWF2Vm4xeWJpSGVyZUlPX1VVb0FnaVVFbHA3d0s4aEg3YTNvZjM2QWpjSTFzZQ",
         "time": "2026-08-14 09:46:19"
-      },
-      {
-        "title": "⛩️【虔心祈福！虎尾中元普渡開香典禮！🙏】 「北基隆、南虎尾」，虎尾中元祭承襲八大普渡區的傳統文化底蘊 ，結合獨特的「一區一特色」 ，不僅是虎尾人的共同記憶與信仰 ，更是咱雲林虎尾最珍貴、最熱鬧的宗教文化盛事 ！ 今天，學忠懷著無比虔誠與恭敬的心情 ，陸續 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMikAhBVV95cUxQa3pYR2I2WDdkeElpZVBaNTNnZkRBbUQ1bFZzRGFLdmJYNU83c1JHMkNpZWZUZE43TU0taUhscUVVMXVfM2djaFVhd3l2emNtMktXbTgzaERNUWNvb19ORHlkbTVXTXp1ek5zTHF1NE1TZW90Y2RvRENHb2lwTkdXUjhGZjJXUHAwRjBNS1l6U2VOeHFncFRQYXEzaWhHaVBYNmVWbTgyR2I3WmpkNDE0aWI1OXl0WlBkZGZTWUxxMmI2dW9vUFhXUXlZMUNPZjVsWEhUdDdMOUl4SXdZem8taTZWb3ZTU3JkOXlPWHVQZHd1S3VNd1RUNDFtTHRZVTNWbmlWQjdWUjBoNE5BUTRPMDgzNzk3TGtyT1hxTlRuVktyME1PNEoyZEVxV3pRbXFfQTJHaldzYy1BSVhpeE8xS2NLYkpQcGF6eWI4S25HX3B1d2dMaWFETEtUVktJOU5KM2dRSnNtX2YxMGVrLUQyQUFuaXA3X1kyYlVuX0YzLXc2bmdJd3A5M2JjNlFZYUtPSFJ3YkplY3RrN3ZIZDZiYWwwbUFyRk1XM3dDUE9zY1FjSjlPemRxVExfQ3JuWFBjc050TzdjVTNfM2NPbXBjRnJib3VYMlU4emFJRk1sLUtqbVBwTzU0RF9ETGVPMVJZejhZOUlvdUswMW84QVQzU1QwQ1RJLWF5aC1uQXZ1cXVqaHlEakxJczdXN09DY1NtTFpsV01IUFFtMGxFSVBWbEl5enhfeVcwTnBpUEJHMHJNT0xLX3FmWmtVV3ZqR2xtb3g5QlpQZjBEcGlzNUI4ZDZIaHdTUU9id2N2VGpxQzY5QVZ1ZU1PVFRmWXpsOGZBSlNEbVpUNzlEMDRwV2hMTkRjeHZLNGhnUDVXTjZWZk16M09jMm5mMmVQX3Y0U2puNG4wWnBybVA1UGpSZUowZllWZUVUVGdkMTFaNERUM09zYXRha1RVQW9KT0hmVnlFQi1HUWRiMWxNT0h6ZloxOFlOZVZSNzhGVTBNa0R6X1lLal84eXM2M0FTQlpaUFFoZjRHcmc5V2xobnByS1hmb19iUXFhelo3UVBLa1BqWHRmNmNHNUlqSFRYclhUQkFlZURlNDF1bTJublI4Um5pOUlOS2hzbUdBTHpSWlpXejBNY05IckdsYzlYSVN5dFNBUWt2bkhjVFN6eEFjb1B6TVFkVmxlUjJVUjM3amlzUFhlT0Rndmp2Q0FZaXlEdDFRUEZBc1Bmb3U1Q2gwTjZMWWNwMnZ2REtLbVVscHdzNTN1WEpxa1c2VzFpS0xTWkFqSE1fZVVIMmY3QUxBR1dxZE03NmZodnZ5VFEyeGxmVEJJdm82ckNmbDlvUXFuWHNibnhTZzFyS21CN3FaS2tOTw",
-        "time": "2026-08-14 06:23:37"
       }
     ],
     "youtube": [
@@ -1657,6 +1835,69 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "張麗善親遞接力棒！張嘉郡喊「8年不能歸零」、拚30項建設 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BNkF5WlN4U0JKaGpleTRDd0lpTTNnRW52ZTEtV3ZBMTRNaHd5UzN6aTFkajlBNWg3WWw5UExBWjh3Qzg1V2F4ek5zYk_SAVJBVV95cUxPYmk0aHQ2MklJYmx1T1JWUGpHZFJNQndNRFp5S1hNWGd3bVNQUnlwVkR0Z1pOUVgzUllUeUhZS3FiR0dFaGlkN1RWNVJSSjNBWXp3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:33:28",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "選戰倒數百天 張嘉郡接下張麗善棒子 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjSmRpa2hIT1dPdG9CRWgxX2hta1RNWm5YZXowT2tjUkE2LWhCY09ZTHlRMzBTUmxLZXd0c3hMeDBuY29OOVpTaEFSQ0FadVFUTkJTLTlzYnJRbnlQOE9nOUFqNEg2ZG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:25:21",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "選戰倒數百天 張嘉郡接下張麗善棒子 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXeEttS2JkY1FyWk5pUnZMTGhfNC1jOHpsaGNPOHZzQWp2MzFaTXBFMmFkSG5URTNNdDRNYVZmR3FLZEFRX1hYRjdzX25IMHRjRkRvenFwVzBSLTZfWlN2ak5PMHBjV1c4cjE3TUd2Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:25:21",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "選戰倒數百日 劉建國拋「一園區、七顆心」幼到老通通照顧 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOQ2VtcFZXM1Z0QTR2X0lBZm5KVXpIQlBtMzgyRjRSWVFvc2xxa08zZTdCUF9VV29RWk81bEhLRFY4NjQtM29henNnaFJiQktGc2pjQmFGbUY2UXo4bjRQRENOUi14dG52dWVfQzdFRkVOUVllQ1ZrUGVBbkE5dFlDcDZrU19nbTlfSVk3Q1ExY1hJRzdxRE0yWW1KbG0tcTFqY0paRzVZNHpsYUlBR0RTajEyX1REd2RsZm5WWnJaeC1qZmlDcndNZkJ1ZWJ5c3pEMzRYcjhPdXphZWJ5T09mNEVaZjR6a2ZmcjZkQ3FpY3NnYWtQb1ZsaE5fbkZwRjFBS3BfY3dxTkFrZDFkcnlrb1R2emxIVWdKUTVtSzlRLU5OSm1zc2VQTWZkX1pISEZ4WERqY1VIbmVpVkg3Ymg2MUxmOWY4MGIwVVlyWW55ZzExcjNuVlpUUmw2OFY4NTI5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:20:29",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "選戰倒數百日劉建國拋「一園區、七顆心」幼到老通通照顧- 政治 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KdUg2dmJCMUl2ZVNvTlhSelNZazFPMVFvZi1RTnB1ajBab2pnd0ZNM1E3aWpfUUJvcVFZVVJlOWtlcnJjYVFEa2hTSEhITnZuTUZ3R2VlNEZCejRzRnotNEFDNWxJWUhvdWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:20:29",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "立委劉建國拋「一園區、七顆心」政見 從醫療產業到老幼照護打造新雲林 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1MmJRMU16RkJCZFpDM28zLVB6S1FoR29NaGxoTGZlbzlEa1dFb0tUSzRYMHpKelM3ZWxneV85blVESnR6ZEtxSlJSR2xfVzNoM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:18:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "接棒傳承！張嘉郡在距選舉百日接下張麗善棒子續航雲林建設願景| 縣市長議員選戰| 要聞 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4bFJJRGJ2Rnk1dHNmMlVFLWZZQlFPcGdMVG5POXc4azBRcWJrbEdjRlVuQUdtdmZJYm5LMEV2dmpVN1JKM2VqSDgzZ21ZNlVVdUlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:10:56",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "張嘉郡拚勝選！接棒張麗善續推30項建設盼「讓下一代擁有更好的雲林」 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQTWVxemQ5ZXdCSGpaa3FSVHJqNzFlNXdlTmx6XzItUWJEcEppVjVhZXFYQ2dhTERvNVJXQXFNUzBNVEZwVVdRNHBROTZCUDV5bVQyT2xYZXhuZmx5am1GRlU4SHVkUmp6MFhBM1hBZzZ0QXRDLUFtbWtvMmloWDBwM2VuUjVvclI5aWY2UlZkNFkwYzY0eHR1bDhtcWQ3U2xrWnZSWTNyaEJRSGxYQk5ZUDkyWmRmLWRDeDZSbGRXQkZ4SUx4X3dMOXVRdVc4QV9DY1FsSF91SFpLc0hOZWRJQnFpMFBsUTFRNnlQUDRHelVuNVB5b202OW5GZTM2T3ZkMkt4SEluQVpyOVgzZjBFNWl3ZjlTblBDVzNZcTV3WFVPb1hVZzgwRXVpUGpiNkxiY1BCaHN5QlhHNlRnSDQ2ZlEtWHhONFJ1LUJXRDl0UnlrNWZYZG9uN292eGlvaVZibjNDZ19kWmxFZi1CNUdIN0k0X3ZwTTNiaFdjR0tuWVNZdF9qd25zMkNpTl9ONTlkX1Y0Uy1oMmJJMDRnZmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 15:08:03",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "縣市長選舉倒數百日 張嘉郡宣布雲林美術館落腳斗六 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQbDlCQl9yd25WY2FOZnNCMDlweVhuMTJEb0t6aUNBNWpFSFVWdTlGaC1ONGlHblVHS2VIOWlEX2NoVzBSQ1FuVXFoaG5NQ1VjbG1OLVE0eVl2R2Zwb24xLTFTV3Y3djB6SDFqTVBVRk5JZmNWUHFpcEtQR2FTbjM4ZVgxU3dSOFBnM2hOVks2TTFoMW9RakxVY1JqS3ZXbjZzaEMxSThxWjIwZ1hUXzFtZFlMTVhZaWIzTkR4ODEteDZGSF90WkF1UmlXSE5EOHhUTkdFbkJIaGZOTkM3REVqa1dHdlJLbENfQ0FNZ1piWFFadU1Rd1dtWExQcG5zY2ZGYWs4dWxHNUR3aWFSNzRMVU5jM0Vha0tTWl92dnBwQXpKNkJGZUlTWHo5cjkzYVp5aTRESm5lWVNfcVRrcTUtUkZOaEVlUXBwbV9RR05jbkVMdVhIZEx2UDBhRTZXM0VpWUhZenFCdXE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-20 14:37:42",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "接棒張麗善繼續拼！張嘉郡提《雲林美術館白皮書》， 擘劃雲林斗六美術館新願景| 夏和宣| 地方新聞 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XcTNHaDBkZVNXRHdPeWZMZmx4c2FhSGhYNkpidk1ZbFl0MjdNVzBtYkJqZEZVSllLZkdaVm1DamhSS3d4ME5fRVplbUJqUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1740,13 +1981,18 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 4
+        "count": 8
       },
       {
         "name": "斗六",
-        "count": 1
+        "count": 2
       }
     ],
-    "groups": []
+    "groups": [
+      {
+        "name": "工地/營造",
+        "count": 3
+      }
+    ]
   }
 }
