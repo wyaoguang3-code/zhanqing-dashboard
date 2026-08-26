@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-08-26T03:10:22.147758+00:00",
+  "generated_at": "2026-08-26T03:27:52.023457+00:00",
   "metrics": {
-    "total_24h": 16,
+    "total_24h": 19,
     "prev_24h": 31,
-    "growth_pct": -48.39,
-    "news_24h": 9,
+    "growth_pct": -38.71,
+    "news_24h": 11,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 165,
+    "total": 168,
     "prev": 202,
-    "growth_pct": -18.32,
-    "news": 118,
+    "growth_pct": -16.83,
+    "news": 120,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 9
+      "count": 11
     },
     {
       "platform": "facebook",
@@ -36,13 +36,13 @@
     },
     {
       "platform": "youtube",
-      "count": 1
+      "count": 2
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 118
+      "count": 120
     },
     {
       "platform": "facebook",
@@ -50,7 +50,7 @@
     },
     {
       "platform": "youtube",
-      "count": 13
+      "count": 14
     }
   ],
   "by_hour": [
@@ -93,6 +93,14 @@
     {
       "hour": "2026-08-26 09:00",
       "count": 1
+    },
+    {
+      "hour": "2026-08-26 10:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-08-26 11:00",
+      "count": 2
     }
   ],
   "by_hour_7d": [
@@ -359,12 +367,20 @@
     {
       "hour": "2026-08-26 09:00",
       "count": 1
+    },
+    {
+      "hour": "2026-08-26 10:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-08-26 11:00",
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 9
+      "count": 11
     },
     {
       "platform": "facebook",
@@ -372,24 +388,17 @@
     }
   ],
   "mention_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "配合翁曉玲砍弱勢！張嘉郡買月餅救火 綠黨團轟：打完人才給糖吃 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPR05zZTRuTE5la0FELVVmd3RKWW9TQ2ExU0FaRkZ6NkNVcUEtRVY4WmttWTd2eldkNFZ6dXB0LVRZU3JLV3h2cjcyUkRMbHZnekppcVJxcTFqcWtpTWtpME5INzBOY2t5ZEdwSDZyRjV3VzRDYnlYZUQ3dk9CMU1uU09peUdjeTRQU2RZOWtOQWt5bUVOSTVSeGdGYnkxM2VyU01qSnZCXzlfbkg4YmNnTWdjQXZXRVRWLWR0RDVqYXVzWDFRWGhwczQxWFB0YmF6T2VjYktqeFZ2dXB3bUJ6OUJrOExIZU0zRG1YeWR3ZUs2VVJPckhlam5LNFI4MXpkMWVqeUZfUUhKZW1fbGQzU2hLTl9DU0NFRVczN0lrZExOWGRZQnZ4Z2gwQ09fMlEzU2c2OWV0cjJtekdza0JyREdLd1I3bmJONGlqUkZ6U2pjRmRBOHVEUmN2dXJObDlianBJWE9zVHV4NWh3WHhId1cyX1o5WEV4Qy12YlFRMUZaVzBrSm9zYm1yLTlxTWJ6ektpZVFnZjBVQ0IxcTNtMHJGai12amRnMlh2UHlfaGhHdDdsTVN4cA",
-        "time": "2026-08-26 09:34:05"
-      },
-      {
-        "title": "政見發表會｜一園區、七顆心、世代安心 ​🏥 一園區｜醫療照顧人・產業留住人 ​建國推出「打造醫療照護產業園區」重大建設政見： ✅️ 爭取129億元推動「臺大虎尾院區二期擴建」及39億元「國家高齡醫學暨健康福祉研究中心」，打造雲林醫療雙核心，提升急重症量能免奔 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi5AdBVV95cUxQVE5EclNDdjBKZ09RcWFMbzZET1lqQkQzU0pJZFhCWlV6bW00RE4weFhvTFd4ZFk1LXFKcGxmY3NhblpfaGtKSTVaRXBQcGJsLXAtT1hrYko5dFpNZ3VkckpaN3FmaWZjWG43YXJXTnRMczlZMDVxWTdwa1JBYjV2U2RPa05CUW9MdnpjNEdfNkZ3bFdYbXFKR21jaXJsTk81a2lHb2RQMjBZRmtMcnNjYzhPWHB3RktydnBDdkpmRlpXVGt3bG1kYV9KLVlVdDVweW45Q1lpWFJIR3JQYjBmbmc2VFMzaXVteWdXV2dMellNcHBDU2xIR245R3plWWxEaFN0czFwYWFrOTF0TmdZdjJBN0t3eTE5SU1wVjh3aVVmM3pBSEhhVHdMTU5qM1h0M0UtQ3JXSjNSeHBKak9FS2VpVkRQdDQwajNEUmFSNVdqSFQ4OTlwYlhxdjNjOWpPZDlTUXBhM1NsVEZqYVpEZWs4X0ZkYlFXUzBnVG9CM0JjT05jRTJwcUwyWjFMR3VJSENNTXVtVEVlT2k0TkxsdVc4VEd6bzlLTzhVWUNvS29hWjZJcUtYbnd1ZlBQS21pOFpjNnc5Q0FrT2F4ZVZZejJXUGNLS1VwNzN6V0FGVHQzUXUxYWZMaUE3Zll4RklQc1k5R1ZLUm5ZQXY1RXl3NnNTVXJja0V1Snl1T1Y3X3M2QlhYQk9zcDg3ejhLM293MC1HX0E5VEx3UWNZcWhCLVlPMDg1Um15RnEtVTRjVUc2aGNUTjFiY2FyMlhNZjZLanFUTVJuWHhUTkVaRjB2N3RiODJZRkhBMlNxQUNTT1VlOV84ekZmTHAxWjBBOVJrV2Z3ZXQ1MmFnc1RkdXA4SU5OVDJyNGlieFBYd2NtUEt0OUl5WUF6M3FHN2llczFiN0tBeGV4c2RIYzhmUThwSGdoMUVvUVF4bmJRbDZEM3lfZk1aWDNKRE9GWEpIc0JvX2lrQXc1T2V0bjVUMmJYSUFKaTc5RExJSUFOVFd4S2s2NUV1dkRTVFByLTVKRXdQbVN2MHgwZGpYWUFXZXV3VjgyMGEtYmhvQUtpYUtmdWZUSWxmZ0xOYUxoVXViaUdzMFpaSzd0WEN2MHN1ZmZFa3dNWjhjSVdHdHhaM2JLYWY5RTBzNDU2SVE0akNMdUtfNXZpeVdOOE5SYnViaURIR0EyR2d6RlNQT3RNclc4OTkweTB4alpZdHAwMU9GWkRUOFAxdVJSMkw2RXE5NUViUzF2ZGRsV0pXMDdFSU9Dd3F2LVlwTVNtdTMzbUhnOGZzR0hmT3lPczBwdWUzbDI5am1PMl8",
-        "time": "2026-08-25 19:37:35"
-      },
-      {
-        "title": "中秋佳節將至，雲林縣長參選人、立法委員張嘉郡24日宣布，捐出一個月的薪水，採購由雲林縣內身心障礙團體、庇護工場及弱勢社福機構製作的中秋月餅與禮盒，送給縣內有需要的家庭與弱勢族群。張嘉郡希望透過實際行動，讓愛心在中秋節前夕持續傳遞，也支持在地 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMikwhBVV95cUxQQml3RFNvVUtVYzVHUHJZV1VUaXh6RXFzcVRzNHF0bXBSb01XTGp5aHZEUVlicW5JeWJJMzQya1ZKaGNxMDNYeWVYX0MtdG1RaUNvTlJGQWE4SnV6R0NnZEZvNEVaNGVJcHRqVzNCWk42dmlWaC1BV2VDZUhYMlg2QVBLeThIa0RCWDJKOVhNRDMzNW45Vkx5cy1yb24zd2RrdmNIOUxZQWM5aHRvMkhfckt4Tk1nSEdtSUlUbGlwdXJpRXE3ZXpzWkk1VlZNR3ZUTGEzajl3NUxJOEpoNE43Y2ZqanhvQV9fZ0JwdURab3hVS05pcURNZWtEcjlENVRlY2VhYnQ3ZkF2VURwT3NMcVdBNU8yMlJoTFIzMVUydHlKeEZpc19qQTFWaFB3MC1oNzFaMGd5Unp1Z1pSbmNRTVZEQkJQdnVWWW92U2tPVjZpeDc1MGhQQ1d3SzlkTHhSYjFYRTIwMVJjaUw2ZVdNRUFoUGVfcS1yNjhScmVuc0RrYTNOQTNtTm9yQ1Q0VDRjeXpoXzRfN21Kd2FvZ1ZNZV9aLVQwbVRtNklUN2hveW5kQ0hYSjRENmpULTRIbG8zUklTcEswSDl3bmUwOFZ1RndFSDhFVjhFaGVOOXc0TXZ1ZmdlU3U1bTExWWFPLUVRUERQUWtLNTF2bk8tZTIweTNZRjZPVzZwZ0RMelE5ODNoclRKVHliQ3lxZk5BZUJBSlhiOGhUU2w4S01XLUFTNEtLUFR6TWJsRWtYT21xUUlGcjg3d09DT1d5NnRZbF9JanZyUVpiRXdtaUo2US1EUVNfcENYUmNpbi1HV1FPcy0yOEdCU29WZVFHNWwxV2JKNGFCZGhiTmoycHM0aXNXbUI1UloyNmFPOE9rXzhESFRWSkU5SHgzeVUzUTh4ak5sMXVDc2xtNWtxR3VOMHBjV3dYakp2ZkU0a2pNNWU4TFpZQl9Fd3ljVUtnUGhHaUJFYnJ1QWFQWUhoLWtxTk5iX0lPcHN2Ull2eFlTaDZjRm41UXdMVHhaQXdjNl9GeVdQcjVHR1kxanFUMlhwWFlveU8xNUNnczkxaFFxTUQzWkF4YnZVQ0lQOUpyY3hzUFBHb2lFN3dXclAzWFQxeG9pWjhUMF9mSlh2aWtpelVOZnVVSTFRdkZHeGVUNmVqUVJGRTVZWDd2Z1lzLWpWajloaTNNdHFZZGxOdWxSNE91ZGhhdEZ4NHpmZGVRS1VlelRJZnZFaHlmeFVfcFJOa2xrbjBKenhVb0pnVDFRT1VkU1hiYWtSTURpVFlVbzJZQmxSdElWRkxsbzM2eXkzenJNWVVXcFZ4Y1RjVWl0eGpXX3dWdk9neElzdHhzeWc5UUhmX1h2SVlKcEZGeXo5eHRjN0ZmQQ",
-        "time": "2026-08-25 15:15:38"
-      }
-    ],
     "news": [
+      {
+        "title": "迎戰雲林少子化問題 張嘉郡再拋每年1.2萬元育兒成長津貼政見| 政治焦點 - 太報 TaiSounds",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2akNsVnhpbkptbnZWVnNJU3hqUWtMRjJsdXd0bnREZW9ST0Y2MWVjY2ZzSDd4bWlKMGVLcnh0M25EMVNESlBLc19GUEZGUUNtX252TUtEVklaeEw1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-26 11:05:20"
+      },
+      {
+        "title": "張嘉郡拋育兒成長津貼政見雲林0-6歲兒童每年發放1.2萬元- 政治 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPQnpkbl9NcVdGVDlDLXRfVnBZWkswZGdfVTRKZzJ5eEVDUzJsWmo2bGp5TmJXcUFYc21lMTNURW1Yb005a3BRbGF5dTAzYk5LVUw2bDU1eXNfWkYxREZWRW9kNEcycGdUM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-26 11:02:19"
+      },
       {
         "title": "失明議員遭霸凌1／陳芳盈左眼傷殘獲理賠　劉建國幹部竟抹黑 | 社會 | CTWANT - CTWANT",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYWmYtdlN3aGFvbmtNUWhOUjdwN2UzLWd4RjFfZTZqeXBqeS1BYThKakZYNzFDTFhMNXN1LTYyQVN5TUFSMEQ3Qkxya0lrOEXSAVRBVV95cUxNTGozc28tQm1lczBnQzZBUG85aENjdVd1Wl9JSGFOLVlkR2F3RkJlTDhhMnhoNGl4WEljenBpZjUtLXV0QVMwQVRqalZTazVHX3YtRGs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -435,12 +444,29 @@
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pdDN6X3pYNjVzaEw2VkE2ZEVkZklweTN2ZzlDMEtybXVTb09QaDdVWW9QNjJObUNfMUtzZ3ZuNmoza05RYWx6QmI2bGxvNGlJUm5kX2pDT0g4dG1Mb3fSAUtBVV95cUxPWnhfMDl0U1VLR3Qzd0lGZUtjejZPd3UyQWk2Nno4S2hTdkdlQlpIRlR5ay1tQktZdTNTTWdiTk12LUVrN2ZHZjBxOG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-25 13:41:00"
       }
+    ],
+    "facebook": [
+      {
+        "title": "配合翁曉玲砍弱勢！張嘉郡買月餅救火 綠黨團轟：打完人才給糖吃 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPR05zZTRuTE5la0FELVVmd3RKWW9TQ2ExU0FaRkZ6NkNVcUEtRVY4WmttWTd2eldkNFZ6dXB0LVRZU3JLV3h2cjcyUkRMbHZnekppcVJxcTFqcWtpTWtpME5INzBOY2t5ZEdwSDZyRjV3VzRDYnlYZUQ3dk9CMU1uU09peUdjeTRQU2RZOWtOQWt5bUVOSTVSeGdGYnkxM2VyU01qSnZCXzlfbkg4YmNnTWdjQXZXRVRWLWR0RDVqYXVzWDFRWGhwczQxWFB0YmF6T2VjYktqeFZ2dXB3bUJ6OUJrOExIZU0zRG1YeWR3ZUs2VVJPckhlam5LNFI4MXpkMWVqeUZfUUhKZW1fbGQzU2hLTl9DU0NFRVczN0lrZExOWGRZQnZ4Z2gwQ09fMlEzU2c2OWV0cjJtekdza0JyREdLd1I3bmJONGlqUkZ6U2pjRmRBOHVEUmN2dXJObDlianBJWE9zVHV4NWh3WHhId1cyX1o5WEV4Qy12YlFRMUZaVzBrSm9zYm1yLTlxTWJ6ektpZVFnZjBVQ0IxcTNtMHJGai12amRnMlh2UHlfaGhHdDdsTVN4cA",
+        "time": "2026-08-26 09:34:05"
+      },
+      {
+        "title": "政見發表會｜一園區、七顆心、世代安心 ​🏥 一園區｜醫療照顧人・產業留住人 ​建國推出「打造醫療照護產業園區」重大建設政見： ✅️ 爭取129億元推動「臺大虎尾院區二期擴建」及39億元「國家高齡醫學暨健康福祉研究中心」，打造雲林醫療雙核心，提升急重症量能免奔 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi5AdBVV95cUxQVE5EclNDdjBKZ09RcWFMbzZET1lqQkQzU0pJZFhCWlV6bW00RE4weFhvTFd4ZFk1LXFKcGxmY3NhblpfaGtKSTVaRXBQcGJsLXAtT1hrYko5dFpNZ3VkckpaN3FmaWZjWG43YXJXTnRMczlZMDVxWTdwa1JBYjV2U2RPa05CUW9MdnpjNEdfNkZ3bFdYbXFKR21jaXJsTk81a2lHb2RQMjBZRmtMcnNjYzhPWHB3RktydnBDdkpmRlpXVGt3bG1kYV9KLVlVdDVweW45Q1lpWFJIR3JQYjBmbmc2VFMzaXVteWdXV2dMellNcHBDU2xIR245R3plWWxEaFN0czFwYWFrOTF0TmdZdjJBN0t3eTE5SU1wVjh3aVVmM3pBSEhhVHdMTU5qM1h0M0UtQ3JXSjNSeHBKak9FS2VpVkRQdDQwajNEUmFSNVdqSFQ4OTlwYlhxdjNjOWpPZDlTUXBhM1NsVEZqYVpEZWs4X0ZkYlFXUzBnVG9CM0JjT05jRTJwcUwyWjFMR3VJSENNTXVtVEVlT2k0TkxsdVc4VEd6bzlLTzhVWUNvS29hWjZJcUtYbnd1ZlBQS21pOFpjNnc5Q0FrT2F4ZVZZejJXUGNLS1VwNzN6V0FGVHQzUXUxYWZMaUE3Zll4RklQc1k5R1ZLUm5ZQXY1RXl3NnNTVXJja0V1Snl1T1Y3X3M2QlhYQk9zcDg3ejhLM293MC1HX0E5VEx3UWNZcWhCLVlPMDg1Um15RnEtVTRjVUc2aGNUTjFiY2FyMlhNZjZLanFUTVJuWHhUTkVaRjB2N3RiODJZRkhBMlNxQUNTT1VlOV84ekZmTHAxWjBBOVJrV2Z3ZXQ1MmFnc1RkdXA4SU5OVDJyNGlieFBYd2NtUEt0OUl5WUF6M3FHN2llczFiN0tBeGV4c2RIYzhmUThwSGdoMUVvUVF4bmJRbDZEM3lfZk1aWDNKRE9GWEpIc0JvX2lrQXc1T2V0bjVUMmJYSUFKaTc5RExJSUFOVFd4S2s2NUV1dkRTVFByLTVKRXdQbVN2MHgwZGpYWUFXZXV3VjgyMGEtYmhvQUtpYUtmdWZUSWxmZ0xOYUxoVXViaUdzMFpaSzd0WEN2MHN1ZmZFa3dNWjhjSVdHdHhaM2JLYWY5RTBzNDU2SVE0akNMdUtfNXZpeVdOOE5SYnViaURIR0EyR2d6RlNQT3RNclc4OTkweTB4alpZdHAwMU9GWkRUOFAxdVJSMkw2RXE5NUViUzF2ZGRsV0pXMDdFSU9Dd3F2LVlwTVNtdTMzbUhnOGZzR0hmT3lPczBwdWUzbDI5am1PMl8",
+        "time": "2026-08-25 19:37:35"
+      },
+      {
+        "title": "中秋佳節將至，雲林縣長參選人、立法委員張嘉郡24日宣布，捐出一個月的薪水，採購由雲林縣內身心障礙團體、庇護工場及弱勢社福機構製作的中秋月餅與禮盒，送給縣內有需要的家庭與弱勢族群。張嘉郡希望透過實際行動，讓愛心在中秋節前夕持續傳遞，也支持在地 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMikwhBVV95cUxQQml3RFNvVUtVYzVHUHJZV1VUaXh6RXFzcVRzNHF0bXBSb01XTGp5aHZEUVlicW5JeWJJMzQya1ZKaGNxMDNYeWVYX0MtdG1RaUNvTlJGQWE4SnV6R0NnZEZvNEVaNGVJcHRqVzNCWk42dmlWaC1BV2VDZUhYMlg2QVBLeThIa0RCWDJKOVhNRDMzNW45Vkx5cy1yb24zd2RrdmNIOUxZQWM5aHRvMkhfckt4Tk1nSEdtSUlUbGlwdXJpRXE3ZXpzWkk1VlZNR3ZUTGEzajl3NUxJOEpoNE43Y2ZqanhvQV9fZ0JwdURab3hVS05pcURNZWtEcjlENVRlY2VhYnQ3ZkF2VURwT3NMcVdBNU8yMlJoTFIzMVUydHlKeEZpc19qQTFWaFB3MC1oNzFaMGd5Unp1Z1pSbmNRTVZEQkJQdnVWWW92U2tPVjZpeDc1MGhQQ1d3SzlkTHhSYjFYRTIwMVJjaUw2ZVdNRUFoUGVfcS1yNjhScmVuc0RrYTNOQTNtTm9yQ1Q0VDRjeXpoXzRfN21Kd2FvZ1ZNZV9aLVQwbVRtNklUN2hveW5kQ0hYSjRENmpULTRIbG8zUklTcEswSDl3bmUwOFZ1RndFSDhFVjhFaGVOOXc0TXZ1ZmdlU3U1bTExWWFPLUVRUERQUWtLNTF2bk8tZTIweTNZRjZPVzZwZ0RMelE5ODNoclRKVHliQ3lxZk5BZUJBSlhiOGhUU2w4S01XLUFTNEtLUFR6TWJsRWtYT21xUUlGcjg3d09DT1d5NnRZbF9JanZyUVpiRXdtaUo2US1EUVNfcENYUmNpbi1HV1FPcy0yOEdCU29WZVFHNWwxV2JKNGFCZGhiTmoycHM0aXNXbUI1UloyNmFPOE9rXzhESFRWSkU5SHgzeVUzUTh4ak5sMXVDc2xtNWtxR3VOMHBjV3dYakp2ZkU0a2pNNWU4TFpZQl9Fd3ljVUtnUGhHaUJFYnJ1QWFQWUhoLWtxTk5iX0lPcHN2Ull2eFlTaDZjRm41UXdMVHhaQXdjNl9GeVdQcjVHR1kxanFUMlhwWFlveU8xNUNnczkxaFFxTUQzWkF4YnZVQ0lQOUpyY3hzUFBHb2lFN3dXclAzWFQxeG9pWjhUMF9mSlh2aWtpelVOZnVVSTFRdkZHeGVUNmVqUVJGRTVZWDd2Z1lzLWpWajloaTNNdHFZZGxOdWxSNE91ZGhhdEZ4NHpmZGVRS1VlelRJZnZFaHlmeFVfcFJOa2xrbjBKenhVb0pnVDFRT1VkU1hiYWtSTURpVFlVbzJZQmxSdElWRkxsbzM2eXkzenJNWVVXcFZ4Y1RjVWl0eGpXX3dWdk9neElzdHhzeWc5UUhmX1h2SVlKcEZGeXo5eHRjN0ZmQQ",
+        "time": "2026-08-25 15:15:38"
+      }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 9
+      "count": 11
     },
     {
       "platform": "facebook",
@@ -448,24 +474,17 @@
     }
   ],
   "alias_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "配合翁曉玲砍弱勢！張嘉郡買月餅救火 綠黨團轟：打完人才給糖吃 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPR05zZTRuTE5la0FELVVmd3RKWW9TQ2ExU0FaRkZ6NkNVcUEtRVY4WmttWTd2eldkNFZ6dXB0LVRZU3JLV3h2cjcyUkRMbHZnekppcVJxcTFqcWtpTWtpME5INzBOY2t5ZEdwSDZyRjV3VzRDYnlYZUQ3dk9CMU1uU09peUdjeTRQU2RZOWtOQWt5bUVOSTVSeGdGYnkxM2VyU01qSnZCXzlfbkg4YmNnTWdjQXZXRVRWLWR0RDVqYXVzWDFRWGhwczQxWFB0YmF6T2VjYktqeFZ2dXB3bUJ6OUJrOExIZU0zRG1YeWR3ZUs2VVJPckhlam5LNFI4MXpkMWVqeUZfUUhKZW1fbGQzU2hLTl9DU0NFRVczN0lrZExOWGRZQnZ4Z2gwQ09fMlEzU2c2OWV0cjJtekdza0JyREdLd1I3bmJONGlqUkZ6U2pjRmRBOHVEUmN2dXJObDlianBJWE9zVHV4NWh3WHhId1cyX1o5WEV4Qy12YlFRMUZaVzBrSm9zYm1yLTlxTWJ6ektpZVFnZjBVQ0IxcTNtMHJGai12amRnMlh2UHlfaGhHdDdsTVN4cA",
-        "time": "2026-08-26 09:34:05"
-      },
-      {
-        "title": "政見發表會｜一園區、七顆心、世代安心 ​🏥 一園區｜醫療照顧人・產業留住人 ​建國推出「打造醫療照護產業園區」重大建設政見： ✅️ 爭取129億元推動「臺大虎尾院區二期擴建」及39億元「國家高齡醫學暨健康福祉研究中心」，打造雲林醫療雙核心，提升急重症量能免奔 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi5AdBVV95cUxQVE5EclNDdjBKZ09RcWFMbzZET1lqQkQzU0pJZFhCWlV6bW00RE4weFhvTFd4ZFk1LXFKcGxmY3NhblpfaGtKSTVaRXBQcGJsLXAtT1hrYko5dFpNZ3VkckpaN3FmaWZjWG43YXJXTnRMczlZMDVxWTdwa1JBYjV2U2RPa05CUW9MdnpjNEdfNkZ3bFdYbXFKR21jaXJsTk81a2lHb2RQMjBZRmtMcnNjYzhPWHB3RktydnBDdkpmRlpXVGt3bG1kYV9KLVlVdDVweW45Q1lpWFJIR3JQYjBmbmc2VFMzaXVteWdXV2dMellNcHBDU2xIR245R3plWWxEaFN0czFwYWFrOTF0TmdZdjJBN0t3eTE5SU1wVjh3aVVmM3pBSEhhVHdMTU5qM1h0M0UtQ3JXSjNSeHBKak9FS2VpVkRQdDQwajNEUmFSNVdqSFQ4OTlwYlhxdjNjOWpPZDlTUXBhM1NsVEZqYVpEZWs4X0ZkYlFXUzBnVG9CM0JjT05jRTJwcUwyWjFMR3VJSENNTXVtVEVlT2k0TkxsdVc4VEd6bzlLTzhVWUNvS29hWjZJcUtYbnd1ZlBQS21pOFpjNnc5Q0FrT2F4ZVZZejJXUGNLS1VwNzN6V0FGVHQzUXUxYWZMaUE3Zll4RklQc1k5R1ZLUm5ZQXY1RXl3NnNTVXJja0V1Snl1T1Y3X3M2QlhYQk9zcDg3ejhLM293MC1HX0E5VEx3UWNZcWhCLVlPMDg1Um15RnEtVTRjVUc2aGNUTjFiY2FyMlhNZjZLanFUTVJuWHhUTkVaRjB2N3RiODJZRkhBMlNxQUNTT1VlOV84ekZmTHAxWjBBOVJrV2Z3ZXQ1MmFnc1RkdXA4SU5OVDJyNGlieFBYd2NtUEt0OUl5WUF6M3FHN2llczFiN0tBeGV4c2RIYzhmUThwSGdoMUVvUVF4bmJRbDZEM3lfZk1aWDNKRE9GWEpIc0JvX2lrQXc1T2V0bjVUMmJYSUFKaTc5RExJSUFOVFd4S2s2NUV1dkRTVFByLTVKRXdQbVN2MHgwZGpYWUFXZXV3VjgyMGEtYmhvQUtpYUtmdWZUSWxmZ0xOYUxoVXViaUdzMFpaSzd0WEN2MHN1ZmZFa3dNWjhjSVdHdHhaM2JLYWY5RTBzNDU2SVE0akNMdUtfNXZpeVdOOE5SYnViaURIR0EyR2d6RlNQT3RNclc4OTkweTB4alpZdHAwMU9GWkRUOFAxdVJSMkw2RXE5NUViUzF2ZGRsV0pXMDdFSU9Dd3F2LVlwTVNtdTMzbUhnOGZzR0hmT3lPczBwdWUzbDI5am1PMl8",
-        "time": "2026-08-25 19:37:35"
-      },
-      {
-        "title": "中秋佳節將至，雲林縣長參選人、立法委員張嘉郡24日宣布，捐出一個月的薪水，採購由雲林縣內身心障礙團體、庇護工場及弱勢社福機構製作的中秋月餅與禮盒，送給縣內有需要的家庭與弱勢族群。張嘉郡希望透過實際行動，讓愛心在中秋節前夕持續傳遞，也支持在地 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMikwhBVV95cUxQQml3RFNvVUtVYzVHUHJZV1VUaXh6RXFzcVRzNHF0bXBSb01XTGp5aHZEUVlicW5JeWJJMzQya1ZKaGNxMDNYeWVYX0MtdG1RaUNvTlJGQWE4SnV6R0NnZEZvNEVaNGVJcHRqVzNCWk42dmlWaC1BV2VDZUhYMlg2QVBLeThIa0RCWDJKOVhNRDMzNW45Vkx5cy1yb24zd2RrdmNIOUxZQWM5aHRvMkhfckt4Tk1nSEdtSUlUbGlwdXJpRXE3ZXpzWkk1VlZNR3ZUTGEzajl3NUxJOEpoNE43Y2ZqanhvQV9fZ0JwdURab3hVS05pcURNZWtEcjlENVRlY2VhYnQ3ZkF2VURwT3NMcVdBNU8yMlJoTFIzMVUydHlKeEZpc19qQTFWaFB3MC1oNzFaMGd5Unp1Z1pSbmNRTVZEQkJQdnVWWW92U2tPVjZpeDc1MGhQQ1d3SzlkTHhSYjFYRTIwMVJjaUw2ZVdNRUFoUGVfcS1yNjhScmVuc0RrYTNOQTNtTm9yQ1Q0VDRjeXpoXzRfN21Kd2FvZ1ZNZV9aLVQwbVRtNklUN2hveW5kQ0hYSjRENmpULTRIbG8zUklTcEswSDl3bmUwOFZ1RndFSDhFVjhFaGVOOXc0TXZ1ZmdlU3U1bTExWWFPLUVRUERQUWtLNTF2bk8tZTIweTNZRjZPVzZwZ0RMelE5ODNoclRKVHliQ3lxZk5BZUJBSlhiOGhUU2w4S01XLUFTNEtLUFR6TWJsRWtYT21xUUlGcjg3d09DT1d5NnRZbF9JanZyUVpiRXdtaUo2US1EUVNfcENYUmNpbi1HV1FPcy0yOEdCU29WZVFHNWwxV2JKNGFCZGhiTmoycHM0aXNXbUI1UloyNmFPOE9rXzhESFRWSkU5SHgzeVUzUTh4ak5sMXVDc2xtNWtxR3VOMHBjV3dYakp2ZkU0a2pNNWU4TFpZQl9Fd3ljVUtnUGhHaUJFYnJ1QWFQWUhoLWtxTk5iX0lPcHN2Ull2eFlTaDZjRm41UXdMVHhaQXdjNl9GeVdQcjVHR1kxanFUMlhwWFlveU8xNUNnczkxaFFxTUQzWkF4YnZVQ0lQOUpyY3hzUFBHb2lFN3dXclAzWFQxeG9pWjhUMF9mSlh2aWtpelVOZnVVSTFRdkZHeGVUNmVqUVJGRTVZWDd2Z1lzLWpWajloaTNNdHFZZGxOdWxSNE91ZGhhdEZ4NHpmZGVRS1VlelRJZnZFaHlmeFVfcFJOa2xrbjBKenhVb0pnVDFRT1VkU1hiYWtSTURpVFlVbzJZQmxSdElWRkxsbzM2eXkzenJNWVVXcFZ4Y1RjVWl0eGpXX3dWdk9neElzdHhzeWc5UUhmX1h2SVlKcEZGeXo5eHRjN0ZmQQ",
-        "time": "2026-08-25 15:15:38"
-      }
-    ],
     "news": [
+      {
+        "title": "迎戰雲林少子化問題 張嘉郡再拋每年1.2萬元育兒成長津貼政見| 政治焦點 - 太報 TaiSounds",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2akNsVnhpbkptbnZWVnNJU3hqUWtMRjJsdXd0bnREZW9ST0Y2MWVjY2ZzSDd4bWlKMGVLcnh0M25EMVNESlBLc19GUEZGUUNtX252TUtEVklaeEw1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-26 11:05:20"
+      },
+      {
+        "title": "張嘉郡拋育兒成長津貼政見雲林0-6歲兒童每年發放1.2萬元- 政治 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPQnpkbl9NcVdGVDlDLXRfVnBZWkswZGdfVTRKZzJ5eEVDUzJsWmo2bGp5TmJXcUFYc21lMTNURW1Yb005a3BRbGF5dTAzYk5LVUw2bDU1eXNfWkYxREZWRW9kNEcycGdUM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-26 11:02:19"
+      },
       {
         "title": "失明議員遭霸凌1／陳芳盈左眼傷殘獲理賠　劉建國幹部竟抹黑 | 社會 | CTWANT - CTWANT",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYWmYtdlN3aGFvbmtNUWhOUjdwN2UzLWd4RjFfZTZqeXBqeS1BYThKakZYNzFDTFhMNXN1LTYyQVN5TUFSMEQ3Qkxya0lrOEXSAVRBVV95cUxNTGozc28tQm1lczBnQzZBUG85aENjdVd1Wl9JSGFOLVlkR2F3RkJlTDhhMnhoNGl4WEljenBpZjUtLXV0QVMwQVRqalZTazVHX3YtRGs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -511,17 +530,44 @@
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pdDN6X3pYNjVzaEw2VkE2ZEVkZklweTN2ZzlDMEtybXVTb09QaDdVWW9QNjJObUNfMUtzZ3ZuNmoza05RYWx6QmI2bGxvNGlJUm5kX2pDT0g4dG1Mb3fSAUtBVV95cUxPWnhfMDl0U1VLR3Qzd0lGZUtjejZPd3UyQWk2Nno4S2hTdkdlQlpIRlR5ay1tQktZdTNTTWdiTk12LUVrN2ZHZjBxOG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-25 13:41:00"
       }
+    ],
+    "facebook": [
+      {
+        "title": "配合翁曉玲砍弱勢！張嘉郡買月餅救火 綠黨團轟：打完人才給糖吃 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPR05zZTRuTE5la0FELVVmd3RKWW9TQ2ExU0FaRkZ6NkNVcUEtRVY4WmttWTd2eldkNFZ6dXB0LVRZU3JLV3h2cjcyUkRMbHZnekppcVJxcTFqcWtpTWtpME5INzBOY2t5ZEdwSDZyRjV3VzRDYnlYZUQ3dk9CMU1uU09peUdjeTRQU2RZOWtOQWt5bUVOSTVSeGdGYnkxM2VyU01qSnZCXzlfbkg4YmNnTWdjQXZXRVRWLWR0RDVqYXVzWDFRWGhwczQxWFB0YmF6T2VjYktqeFZ2dXB3bUJ6OUJrOExIZU0zRG1YeWR3ZUs2VVJPckhlam5LNFI4MXpkMWVqeUZfUUhKZW1fbGQzU2hLTl9DU0NFRVczN0lrZExOWGRZQnZ4Z2gwQ09fMlEzU2c2OWV0cjJtekdza0JyREdLd1I3bmJONGlqUkZ6U2pjRmRBOHVEUmN2dXJObDlianBJWE9zVHV4NWh3WHhId1cyX1o5WEV4Qy12YlFRMUZaVzBrSm9zYm1yLTlxTWJ6ektpZVFnZjBVQ0IxcTNtMHJGai12amRnMlh2UHlfaGhHdDdsTVN4cA",
+        "time": "2026-08-26 09:34:05"
+      },
+      {
+        "title": "政見發表會｜一園區、七顆心、世代安心 ​🏥 一園區｜醫療照顧人・產業留住人 ​建國推出「打造醫療照護產業園區」重大建設政見： ✅️ 爭取129億元推動「臺大虎尾院區二期擴建」及39億元「國家高齡醫學暨健康福祉研究中心」，打造雲林醫療雙核心，提升急重症量能免奔 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi5AdBVV95cUxQVE5EclNDdjBKZ09RcWFMbzZET1lqQkQzU0pJZFhCWlV6bW00RE4weFhvTFd4ZFk1LXFKcGxmY3NhblpfaGtKSTVaRXBQcGJsLXAtT1hrYko5dFpNZ3VkckpaN3FmaWZjWG43YXJXTnRMczlZMDVxWTdwa1JBYjV2U2RPa05CUW9MdnpjNEdfNkZ3bFdYbXFKR21jaXJsTk81a2lHb2RQMjBZRmtMcnNjYzhPWHB3RktydnBDdkpmRlpXVGt3bG1kYV9KLVlVdDVweW45Q1lpWFJIR3JQYjBmbmc2VFMzaXVteWdXV2dMellNcHBDU2xIR245R3plWWxEaFN0czFwYWFrOTF0TmdZdjJBN0t3eTE5SU1wVjh3aVVmM3pBSEhhVHdMTU5qM1h0M0UtQ3JXSjNSeHBKak9FS2VpVkRQdDQwajNEUmFSNVdqSFQ4OTlwYlhxdjNjOWpPZDlTUXBhM1NsVEZqYVpEZWs4X0ZkYlFXUzBnVG9CM0JjT05jRTJwcUwyWjFMR3VJSENNTXVtVEVlT2k0TkxsdVc4VEd6bzlLTzhVWUNvS29hWjZJcUtYbnd1ZlBQS21pOFpjNnc5Q0FrT2F4ZVZZejJXUGNLS1VwNzN6V0FGVHQzUXUxYWZMaUE3Zll4RklQc1k5R1ZLUm5ZQXY1RXl3NnNTVXJja0V1Snl1T1Y3X3M2QlhYQk9zcDg3ejhLM293MC1HX0E5VEx3UWNZcWhCLVlPMDg1Um15RnEtVTRjVUc2aGNUTjFiY2FyMlhNZjZLanFUTVJuWHhUTkVaRjB2N3RiODJZRkhBMlNxQUNTT1VlOV84ekZmTHAxWjBBOVJrV2Z3ZXQ1MmFnc1RkdXA4SU5OVDJyNGlieFBYd2NtUEt0OUl5WUF6M3FHN2llczFiN0tBeGV4c2RIYzhmUThwSGdoMUVvUVF4bmJRbDZEM3lfZk1aWDNKRE9GWEpIc0JvX2lrQXc1T2V0bjVUMmJYSUFKaTc5RExJSUFOVFd4S2s2NUV1dkRTVFByLTVKRXdQbVN2MHgwZGpYWUFXZXV3VjgyMGEtYmhvQUtpYUtmdWZUSWxmZ0xOYUxoVXViaUdzMFpaSzd0WEN2MHN1ZmZFa3dNWjhjSVdHdHhaM2JLYWY5RTBzNDU2SVE0akNMdUtfNXZpeVdOOE5SYnViaURIR0EyR2d6RlNQT3RNclc4OTkweTB4alpZdHAwMU9GWkRUOFAxdVJSMkw2RXE5NUViUzF2ZGRsV0pXMDdFSU9Dd3F2LVlwTVNtdTMzbUhnOGZzR0hmT3lPczBwdWUzbDI5am1PMl8",
+        "time": "2026-08-25 19:37:35"
+      },
+      {
+        "title": "中秋佳節將至，雲林縣長參選人、立法委員張嘉郡24日宣布，捐出一個月的薪水，採購由雲林縣內身心障礙團體、庇護工場及弱勢社福機構製作的中秋月餅與禮盒，送給縣內有需要的家庭與弱勢族群。張嘉郡希望透過實際行動，讓愛心在中秋節前夕持續傳遞，也支持在地 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMikwhBVV95cUxQQml3RFNvVUtVYzVHUHJZV1VUaXh6RXFzcVRzNHF0bXBSb01XTGp5aHZEUVlicW5JeWJJMzQya1ZKaGNxMDNYeWVYX0MtdG1RaUNvTlJGQWE4SnV6R0NnZEZvNEVaNGVJcHRqVzNCWk42dmlWaC1BV2VDZUhYMlg2QVBLeThIa0RCWDJKOVhNRDMzNW45Vkx5cy1yb24zd2RrdmNIOUxZQWM5aHRvMkhfckt4Tk1nSEdtSUlUbGlwdXJpRXE3ZXpzWkk1VlZNR3ZUTGEzajl3NUxJOEpoNE43Y2ZqanhvQV9fZ0JwdURab3hVS05pcURNZWtEcjlENVRlY2VhYnQ3ZkF2VURwT3NMcVdBNU8yMlJoTFIzMVUydHlKeEZpc19qQTFWaFB3MC1oNzFaMGd5Unp1Z1pSbmNRTVZEQkJQdnVWWW92U2tPVjZpeDc1MGhQQ1d3SzlkTHhSYjFYRTIwMVJjaUw2ZVdNRUFoUGVfcS1yNjhScmVuc0RrYTNOQTNtTm9yQ1Q0VDRjeXpoXzRfN21Kd2FvZ1ZNZV9aLVQwbVRtNklUN2hveW5kQ0hYSjRENmpULTRIbG8zUklTcEswSDl3bmUwOFZ1RndFSDhFVjhFaGVOOXc0TXZ1ZmdlU3U1bTExWWFPLUVRUERQUWtLNTF2bk8tZTIweTNZRjZPVzZwZ0RMelE5ODNoclRKVHliQ3lxZk5BZUJBSlhiOGhUU2w4S01XLUFTNEtLUFR6TWJsRWtYT21xUUlGcjg3d09DT1d5NnRZbF9JanZyUVpiRXdtaUo2US1EUVNfcENYUmNpbi1HV1FPcy0yOEdCU29WZVFHNWwxV2JKNGFCZGhiTmoycHM0aXNXbUI1UloyNmFPOE9rXzhESFRWSkU5SHgzeVUzUTh4ak5sMXVDc2xtNWtxR3VOMHBjV3dYakp2ZkU0a2pNNWU4TFpZQl9Fd3ljVUtnUGhHaUJFYnJ1QWFQWUhoLWtxTk5iX0lPcHN2Ull2eFlTaDZjRm41UXdMVHhaQXdjNl9GeVdQcjVHR1kxanFUMlhwWFlveU8xNUNnczkxaFFxTUQzWkF4YnZVQ0lQOUpyY3hzUFBHb2lFN3dXclAzWFQxeG9pWjhUMF9mSlh2aWtpelVOZnVVSTFRdkZHeGVUNmVqUVJGRTVZWDd2Z1lzLWpWajloaTNNdHFZZGxOdWxSNE91ZGhhdEZ4NHpmZGVRS1VlelRJZnZFaHlmeFVfcFJOa2xrbjBKenhVb0pnVDFRT1VkU1hiYWtSTURpVFlVbzJZQmxSdElWRkxsbzM2eXkzenJNWVVXcFZ4Y1RjVWl0eGpXX3dWdk9neElzdHhzeWc5UUhmX1h2SVlKcEZGeXo5eHRjN0ZmQQ",
+        "time": "2026-08-25 15:15:38"
+      }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 8,
+    "張嘉郡": 10,
     "劉建國": 6
   },
   "mention_compare_7d": {
-    "張嘉郡": 85,
+    "張嘉郡": 87,
     "劉建國": 68
   },
   "top_news": [
+    {
+      "title": "迎戰雲林少子化問題 張嘉郡再拋每年1.2萬元育兒成長津貼政見| 政治焦點 - 太報 TaiSounds",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2akNsVnhpbkptbnZWVnNJU3hqUWtMRjJsdXd0bnREZW9ST0Y2MWVjY2ZzSDd4bWlKMGVLcnh0M25EMVNESlBLc19GUEZGUUNtX252TUtEVklaeEw1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-26 11:05:20"
+    },
+    {
+      "title": "張嘉郡拋育兒成長津貼政見雲林0-6歲兒童每年發放1.2萬元- 政治 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPQnpkbl9NcVdGVDlDLXRfVnBZWkswZGdfVTRKZzJ5eEVDUzJsWmo2bGp5TmJXcUFYc21lMTNURW1Yb005a3BRbGF5dTAzYk5LVUw2bDU1eXNfWkYxREZWRW9kNEcycGdUM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-26 11:02:19"
+    },
     {
       "title": "失明議員遭霸凌1／陳芳盈左眼傷殘獲理賠　劉建國幹部竟抹黑 | 社會 | CTWANT - CTWANT",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYWmYtdlN3aGFvbmtNUWhOUjdwN2UzLWd4RjFfZTZqeXBqeS1BYThKakZYNzFDTFhMNXN1LTYyQVN5TUFSMEQ3Qkxya0lrOEXSAVRBVV95cUxNTGozc28tQm1lczBnQzZBUG85aENjdVd1Wl9JSGFOLVlkR2F3RkJlTDhhMnhoNGl4WEljenBpZjUtLXV0QVMwQVRqalZTazVHX3YtRGs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -569,6 +615,16 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "迎戰雲林少子化問題 張嘉郡再拋每年1.2萬元育兒成長津貼政見| 政治焦點 - 太報 TaiSounds",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2akNsVnhpbkptbnZWVnNJU3hqUWtMRjJsdXd0bnREZW9ST0Y2MWVjY2ZzSDd4bWlKMGVLcnh0M25EMVNESlBLc19GUEZGUUNtX252TUtEVklaeEw1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-26 11:05:20"
+    },
+    {
+      "title": "張嘉郡拋育兒成長津貼政見雲林0-6歲兒童每年發放1.2萬元- 政治 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPQnpkbl9NcVdGVDlDLXRfVnBZWkswZGdfVTRKZzJ5eEVDUzJsWmo2bGp5TmJXcUFYc21lMTNURW1Yb005a3BRbGF5dTAzYk5LVUw2bDU1eXNfWkYxREZWRW9kNEcycGdUM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-26 11:02:19"
+    },
     {
       "title": "失明議員遭霸凌1／陳芳盈左眼傷殘獲理賠　劉建國幹部竟抹黑 | 社會 | CTWANT - CTWANT",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYWmYtdlN3aGFvbmtNUWhOUjdwN2UzLWd4RjFfZTZqeXBqeS1BYThKakZYNzFDTFhMNXN1LTYyQVN5TUFSMEQ3Qkxya0lrOEXSAVRBVV95cUxNTGozc28tQm1lczBnQzZBUG85aENjdVd1Wl9JSGFOLVlkR2F3RkJlTDhhMnhoNGl4WEljenBpZjUtLXV0QVMwQVRqalZTazVHX3YtRGs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -658,16 +714,6 @@
       "title": "總統府中秋訂單受刪凍影響雲林身障團體受衝擊張嘉郡捐一月薪水| 2026九合一選舉 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4aVZMRnRQUG15YzNoUXFfUC1ham94R055YTF2RmNQaTFHLXhrclJXWUJackhPVEpCSUJsV1NGcENTSlBkNXdWWGF5YllVQ0hzR2lWLV9OVkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-24 18:46:43"
-    },
-    {
-      "title": "免費營養午餐2.0全面升級！ 雲林縣長參選人劉建國：讓雲林囝仔吃得健康、安心長大 - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWaVVQUVd4a0d4YTdMSXZJaXJ6ZjBWcnZLN3g5Qjl1MzVTMHhSa0t2QWNjc1RSaXYtQThPbTFmOWdKeTlQUWwxNnlacUVab2hoeEw1aUhWNUZYcm4ydnFKNXlmQk1vMEdUZ2xR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-24 18:40:12"
-    },
-    {
-      "title": "中秋節做公益雲林立委張嘉郡拋磚引玉捐月薪採購弱勢團體禮盒讓愛心持續傳遞社會充滿更多分享與關懷！ - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VWHZleHVlMVBLRnZqdkppZDJOd0dDMm1HNzAzSG1SYXdNcUZJdVhIb1lTaFE4WE96TGpiWGpMSHJ4Q1FkVEtvV29RQmo5elZvaEpEMlVEQlpkbC04WDJwX242Wm9ka0JQdFhQaDFjdXVZeGNGUU1ObGJDcTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-24 18:34:00"
     }
   ],
   "latest_facebook_20": [
@@ -774,6 +820,16 @@
   ],
   "latest_news_20": [
     {
+      "title": "迎戰雲林少子化問題 張嘉郡再拋每年1.2萬元育兒成長津貼政見| 政治焦點 - 太報 TaiSounds",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2akNsVnhpbkptbnZWVnNJU3hqUWtMRjJsdXd0bnREZW9ST0Y2MWVjY2ZzSDd4bWlKMGVLcnh0M25EMVNESlBLc19GUEZGUUNtX252TUtEVklaeEw1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-26 11:05:20"
+    },
+    {
+      "title": "張嘉郡拋育兒成長津貼政見雲林0-6歲兒童每年發放1.2萬元- 政治 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPQnpkbl9NcVdGVDlDLXRfVnBZWkswZGdfVTRKZzJ5eEVDUzJsWmo2bGp5TmJXcUFYc21lMTNURW1Yb005a3BRbGF5dTAzYk5LVUw2bDU1eXNfWkYxREZWRW9kNEcycGdUM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-26 11:02:19"
+    },
+    {
       "title": "失明議員遭霸凌1／陳芳盈左眼傷殘獲理賠　劉建國幹部竟抹黑 | 社會 | CTWANT - CTWANT",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYWmYtdlN3aGFvbmtNUWhOUjdwN2UzLWd4RjFfZTZqeXBqeS1BYThKakZYNzFDTFhMNXN1LTYyQVN5TUFSMEQ3Qkxya0lrOEXSAVRBVV95cUxNTGozc28tQm1lczBnQzZBUG85aENjdVd1Wl9JSGFOLVlkR2F3RkJlTDhhMnhoNGl4WEljenBpZjUtLXV0QVMwQVRqalZTazVHX3YtRGs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-26 06:00:00"
@@ -862,16 +918,6 @@
       "title": "總統府中秋訂單受刪凍影響雲林身障團體受衝擊張嘉郡捐一月薪水| 2026九合一選舉 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4aVZMRnRQUG15YzNoUXFfUC1ham94R055YTF2RmNQaTFHLXhrclJXWUJackhPVEpCSUJsV1NGcENTSlBkNXdWWGF5YllVQ0hzR2lWLV9OVkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-24 18:46:43"
-    },
-    {
-      "title": "免費營養午餐2.0全面升級！ 雲林縣長參選人劉建國：讓雲林囝仔吃得健康、安心長大 - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWaVVQUVd4a0d4YTdMSXZJaXJ6ZjBWcnZLN3g5Qjl1MzVTMHhSa0t2QWNjc1RSaXYtQThPbTFmOWdKeTlQUWwxNnlacUVab2hoeEw1aUhWNUZYcm4ydnFKNXlmQk1vMEdUZ2xR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-24 18:40:12"
-    },
-    {
-      "title": "中秋節做公益雲林立委張嘉郡拋磚引玉捐月薪採購弱勢團體禮盒讓愛心持續傳遞社會充滿更多分享與關懷！ - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VWHZleHVlMVBLRnZqdkppZDJOd0dDMm1HNzAzSG1SYXdNcUZJdVhIb1lTaFE4WE96TGpiWGpMSHJ4Q1FkVEtvV29RQmo5elZvaEpEMlVEQlpkbC04WDJwX242Wm9ka0JQdFhQaDFjdXVZeGNGUU1ObGJDcTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-24 18:34:00"
     }
   ],
   "person_sections": {
@@ -980,6 +1026,16 @@
       ],
       "news": [
         {
+          "title": "迎戰雲林少子化問題 張嘉郡再拋每年1.2萬元育兒成長津貼政見| 政治焦點 - 太報 TaiSounds",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2akNsVnhpbkptbnZWVnNJU3hqUWtMRjJsdXd0bnREZW9ST0Y2MWVjY2ZzSDd4bWlKMGVLcnh0M25EMVNESlBLc19GUEZGUUNtX252TUtEVklaeEw1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-26 11:05:20"
+        },
+        {
+          "title": "張嘉郡拋育兒成長津貼政見雲林0-6歲兒童每年發放1.2萬元- 政治 - 自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPQnpkbl9NcVdGVDlDLXRfVnBZWkswZGdfVTRKZzJ5eEVDUzJsWmo2bGp5TmJXcUFYc21lMTNURW1Yb005a3BRbGF5dTAzYk5LVUw2bDU1eXNfWkYxREZWRW9kNEcycGdUM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-26 11:02:19"
+        },
+        {
           "title": "雲林縣長選戰 張嘉郡、劉建國鴨子划水 - 中時新聞網",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kS29MWi0zNUpKLUJ5UFZzZmZRSXpEOWwtdkpiU1pWcGwyakk1RERXNVppNDI0dUNvT2JvZG1VM3QtcUZPdEZFT2I0UVpVVUFDQjh0YTREbDNzWllkSWlKZHc2YTdOSjhNa2Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-26 04:10:00"
@@ -1067,16 +1123,6 @@
         {
           "title": "張嘉郡月薪變月餅！全數採購雲林公益團體　中秋前送暖弱勢家庭 - NOWnews今日新聞",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iQWhCcGV3WmN4TjNXZU5XOVpNd3VIeHlsa2RpSHhVdUpkcHJYYm45QlhUUGNaN1ZWRExKMElkOVdzdnVoMEw0NWhrckpQeVVWUGfSAVJBVV95cUxOYkFoQnBld1pjeE4zV2VOVzlaTXd1SHh5bGtkaUh4VXVKZHByWGJuOUJYVFBjWjdWVkRMSjBJZDlXc3Z1aDBMNDVoa3JKUHlVVlBn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-24 16:19:45"
-        },
-        {
-          "title": "張嘉郡月薪變月餅！全數採購雲林公益團體　中秋前送暖弱勢家庭 - NOWnews今日新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wXzV3RHFKRmMxR0FhMVVyZjdkODh6VE9ZQU50WVV4TEhNRDQ3OU12WHowYjNYWDI5MXlEcUJrZEY0V3Y1WjhEdHpCc1bSAVJBVV95cUxOYkFoQnBld1pjeE4zV2VOVzlaTXd1SHh5bGtkaUh4VXVKZHByWGJuOUJYVFBjWjdWVkRMSjBJZDlXc3Z1aDBMNDVoa3JKUHlVVlBn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-24 16:19:45"
-        },
-        {
-          "title": "張嘉郡捐一個月薪水 挺公益買月餅幫弱勢 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQTWxIU2FQRHR3c3Rpd1FuOHdJSGVMek9leDNnT1VQdXZFUm5VOGpZQkNWUDdrQnZpaXlBQVRVRWF4eTNyTUUzNnNzWERWSjVacTVsZkRUbE5VWXJURHFRMkV6RWg4NU01UDB0UFhnZXVtTnltazFNM2dRQk5yLXlzWGxXclNQOWxONktQZ0dLUnVfSWh2RGxZTjhDTnlVcm40cF9DdnBZVV9kZktZeHUwc2tTSW9IOTFZTndncU5qb0o1MEhhUXJEZFpGdEI5QzlqLXhlaFVLU3AzcmNGQ21pMExuMHJaVTdPQV9QTWxYSjZGbVNsLXlldmFyaFhJS2VWN20xR0lSbklhaG11TnpCMnlSR2xkeFAtQ3JrbnRlS2pDZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-24 16:19:45"
         }
       ]
@@ -1291,6 +1337,16 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "迎戰雲林少子化問題 張嘉郡再拋每年1.2萬元育兒成長津貼政見| 政治焦點 - 太報 TaiSounds",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2akNsVnhpbkptbnZWVnNJU3hqUWtMRjJsdXd0bnREZW9ST0Y2MWVjY2ZzSDd4bWlKMGVLcnh0M25EMVNESlBLc19GUEZGUUNtX252TUtEVklaeEw1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-26 11:05:20"
+      },
+      {
+        "title": "張嘉郡拋育兒成長津貼政見雲林0-6歲兒童每年發放1.2萬元- 政治 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPQnpkbl9NcVdGVDlDLXRfVnBZWkswZGdfVTRKZzJ5eEVDUzJsWmo2bGp5TmJXcUFYc21lMTNURW1Yb005a3BRbGF5dTAzYk5LVUw2bDU1eXNfWkYxREZWRW9kNEcycGdUM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-26 11:02:19"
+      },
+      {
         "title": "失明議員遭霸凌1／陳芳盈左眼傷殘獲理賠　劉建國幹部竟抹黑 | 社會 | CTWANT - CTWANT",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYWmYtdlN3aGFvbmtNUWhOUjdwN2UzLWd4RjFfZTZqeXBqeS1BYThKakZYNzFDTFhMNXN1LTYyQVN5TUFSMEQ3Qkxya0lrOEXSAVRBVV95cUxNTGozc28tQm1lczBnQzZBUG85aENjdVd1Wl9JSGFOLVlkR2F3RkJlTDhhMnhoNGl4WEljenBpZjUtLXV0QVMwQVRqalZTazVHX3YtRGs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-26 06:00:00"
@@ -1370,6 +1426,11 @@
     ],
     "youtube": [
       {
+        "title": "范雲委員親自開箱！超吸睛「洋流小物」,快來捐款認領你的市長沈伯洋！",
+        "url": "https://www.youtube.com/shorts/_dG2m5Bo5Qg",
+        "time": "2026-08-26 10:21:14"
+      },
+      {
         "title": "【直播完整版】0826 市場逗陣行！李四川新店建國市場掃街最新｜民視快新聞｜",
         "url": "https://www.youtube.com/watch?v=xukD1FqS1RQ",
         "time": "2026-08-25 19:13:20"
@@ -1378,6 +1439,16 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "迎戰雲林少子化問題 張嘉郡再拋每年1.2萬元育兒成長津貼政見| 政治焦點 - 太報 TaiSounds",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2akNsVnhpbkptbnZWVnNJU3hqUWtMRjJsdXd0bnREZW9ST0Y2MWVjY2ZzSDd4bWlKMGVLcnh0M25EMVNESlBLc19GUEZGUUNtX252TUtEVklaeEw1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-26 11:05:20"
+      },
+      {
+        "title": "張嘉郡拋育兒成長津貼政見雲林0-6歲兒童每年發放1.2萬元- 政治 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPQnpkbl9NcVdGVDlDLXRfVnBZWkswZGdfVTRKZzJ5eEVDUzJsWmo2bGp5TmJXcUFYc21lMTNURW1Yb005a3BRbGF5dTAzYk5LVUw2bDU1eXNfWkYxREZWRW9kNEcycGdUM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-26 11:02:19"
+      },
       {
         "title": "失明議員遭霸凌1／陳芳盈左眼傷殘獲理賠　劉建國幹部竟抹黑 | 社會 | CTWANT - CTWANT",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYWmYtdlN3aGFvbmtNUWhOUjdwN2UzLWd4RjFfZTZqeXBqeS1BYThKakZYNzFDTFhMNXN1LTYyQVN5TUFSMEQ3Qkxya0lrOEXSAVRBVV95cUxNTGozc28tQm1lczBnQzZBUG85aENjdVd1Wl9JSGFOLVlkR2F3RkJlTDhhMnhoNGl4WEljenBpZjUtLXV0QVMwQVRqalZTazVHX3YtRGs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1567,16 +1638,6 @@
         "title": "讓信任成為溫柔守護的力量 劉建國籲社會支持身障庇護工場 - 台灣新聞雲",
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hWVdjenhwN3hCWVhvYk1TVEZqZVhWdTlCVmZuVVZFbGhSZVItWVA0Q2tzdEV4dG9LemdMWWFNUnh0bHhfdG5N?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-23 18:56:08"
-      },
-      {
-        "title": "劉建國提「一園區、七顆心」打造世代安心新雲林 - 大纪元",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkamJPbGNuTW9YVHAxTXNUaXF5Rk1pY0dGWElWSWh4VXlFUlFuOHJIM3Q4MEJyQi0tM1NmUUc4SW5jLWdrbUxwR1NidFZfcjB0WXlqT3ZkVHh5ZzZBSFMybtIBZkFVX3lxTFBNWjd1NENZZGlxREJiWlRLTTdPSzJ5X2VEUHMxQWZNRWpFNm5jRDQtRTlwSGdOY3BNY2FHXzRzQ0N1RkEyZ2dsT3N1bXJ1blY2b0tyZ3Q4ZHhIN0ZzZFFqZ0RlYkZUZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-23 08:58:00"
-      },
-      {
-        "title": "張嘉郡提美術館政見 盼延續雲林重大建設 - 大纪元",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEaVlCSjdfbk5Kc3R3MExfTDBfNkI3d0pXT3RrVVJOS1ZOdGp0bndOUkFvZjhrY0VNUjBVZ041ZGQzVU12aXJ4RF9OaWQ0OGJybHJYV1hrZk9QdnZFaHg5b9IBZkFVX3lxTE9YZ0x5bDFLSW5MMm4taG5DZV80bFRmV3lMZVBCYkZFQVBTUEoyc3lSQWMxaDh3VGpfakVvdWhhb3pWcjN1UnNzZHFmbnpUclpHX05nVmxYR0VUOGo5NkhrcWRFcnluZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-23 08:54:00"
       }
     ],
     "facebook": [
@@ -1753,6 +1814,11 @@
     ],
     "youtube": [
       {
+        "title": "范雲委員親自開箱！超吸睛「洋流小物」,快來捐款認領你的市長沈伯洋！",
+        "url": "https://www.youtube.com/shorts/_dG2m5Bo5Qg",
+        "time": "2026-08-26 10:21:14"
+      },
+      {
         "title": "【直播完整版】0826 市場逗陣行！李四川新店建國市場掃街最新｜民視快新聞｜",
         "url": "https://www.youtube.com/watch?v=xukD1FqS1RQ",
         "time": "2026-08-25 19:13:20"
@@ -1838,6 +1904,27 @@
       }
     ],
     "day": [
+      {
+        "title": "迎戰雲林少子化問題 張嘉郡再拋每年1.2萬元育兒成長津貼政見| 政治焦點 - 太報 TaiSounds",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2akNsVnhpbkptbnZWVnNJU3hqUWtMRjJsdXd0bnREZW9ST0Y2MWVjY2ZzSDd4bWlKMGVLcnh0M25EMVNESlBLc19GUEZGUUNtX252TUtEVklaeEw1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-26 11:05:20",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "張嘉郡拋育兒成長津貼政見雲林0-6歲兒童每年發放1.2萬元- 政治 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPQnpkbl9NcVdGVDlDLXRfVnBZWkswZGdfVTRKZzJ5eEVDUzJsWmo2bGp5TmJXcUFYc21lMTNURW1Yb005a3BRbGF5dTAzYk5LVUw2bDU1eXNfWkYxREZWRW9kNEcycGdUM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-26 11:02:19",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "范雲委員親自開箱！超吸睛「洋流小物」,快來捐款認領你的市長沈伯洋！",
+        "url": "https://www.youtube.com/shorts/_dG2m5Bo5Qg",
+        "time": "2026-08-26 10:21:14",
+        "platform": "youtube",
+        "risk": "綠"
+      },
       {
         "title": "配合翁曉玲砍弱勢！張嘉郡買月餅救火 綠黨團轟：打完人才給糖吃 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPR05zZTRuTE5la0FELVVmd3RKWW9TQ2ExU0FaRkZ6NkNVcUEtRVY4WmttWTd2eldkNFZ6dXB0LVRZU3JLV3h2cjcyUkRMbHZnekppcVJxcTFqcWtpTWtpME5INzBOY2t5ZEdwSDZyRjV3VzRDYnlYZUQ3dk9CMU1uU09peUdjeTRQU2RZOWtOQWt5bUVOSTVSeGdGYnkxM2VyU01qSnZCXzlfbkg4YmNnTWdjQXZXRVRWLWR0RDVqYXVzWDFRWGhwczQxWFB0YmF6T2VjYktqeFZ2dXB3bUJ6OUJrOExIZU0zRG1YeWR3ZUs2VVJPckhlam5LNFI4MXpkMWVqeUZfUUhKZW1fbGQzU2hLTl9DU0NFRVczN0lrZExOWGRZQnZ4Z2gwQ09fMlEzU2c2OWV0cjJtekdza0JyREdLd1I3bmJONGlqUkZ6U2pjRmRBOHVEUmN2dXJObDlianBJWE9zVHV4NWh3WHhId1cyX1o5WEV4Qy12YlFRMUZaVzBrSm9zYm1yLTlxTWJ6ektpZVFnZjBVQ0IxcTNtMHJGai12amRnMlh2UHlfaGhHdDdsTVN4cA",
@@ -1942,7 +2029,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 6
+        "count": 8
       },
       {
         "name": "虎尾",
