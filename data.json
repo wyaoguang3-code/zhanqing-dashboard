@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-08-26T12:27:55.308798+00:00",
+  "generated_at": "2026-08-26T12:46:45.544117+00:00",
   "metrics": {
-    "total_24h": 24,
-    "prev_24h": 22,
-    "growth_pct": 9.09,
-    "news_24h": 20,
+    "total_24h": 27,
+    "prev_24h": 20,
+    "growth_pct": 35.0,
+    "news_24h": 22,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 183,
-    "prev": 202,
-    "growth_pct": -9.41,
-    "news": 136,
+    "total": 181,
+    "prev": 207,
+    "growth_pct": -12.56,
+    "news": 138,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 20
+      "count": 22
     },
     {
       "platform": "youtube",
@@ -36,21 +36,21 @@
     },
     {
       "platform": "facebook",
-      "count": 1
+      "count": 2
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 136
+      "count": 138
     },
     {
       "platform": "facebook",
-      "count": 32
+      "count": 33
     },
     {
       "platform": "youtube",
-      "count": 15
+      "count": 10
     }
   ],
   "by_hour": [
@@ -93,13 +93,17 @@
     {
       "hour": "2026-08-26 17:00",
       "count": 4
+    },
+    {
+      "hour": "2026-08-26 18:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-08-26 19:00",
+      "count": 2
     }
   ],
   "by_hour_7d": [
-    {
-      "hour": "2026-08-19 20:00",
-      "count": 5
-    },
     {
       "hour": "2026-08-19 23:00",
       "count": 1
@@ -379,20 +383,50 @@
     {
       "hour": "2026-08-26 17:00",
       "count": 4
+    },
+    {
+      "hour": "2026-08-26 18:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-08-26 19:00",
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 20
+      "count": 22
     },
     {
       "platform": "facebook",
-      "count": 1
+      "count": 2
     }
   ],
   "mention_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "補足育兒缺口！#張嘉郡 拋0-6歲育兒成長津貼每年1.2萬元 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNNER4X0s5Y3NJR25QdVRmZktDakE1QVBVY3ZTVjlwQXlONWJEaVp3d2hhczM5ckZObzF3MDUxWDQ0N3A3aWJDQk00TmtnN2tEbG45Y3dEaUdQSHdVbWdldVI5RlBhQ0VpY2VzRXBLM0I5aFFzdXdSZ2Z5Yk9SaTdERWdoekJHV2FSZ1pOZG9IQ29OU3d5dWNvaURWVXNwOTRLSXhqd29DVHU3TkdkdmZ2ckdEbXBmMTI0Rzk0WVpJYjcwNkI2V2RfXzJTT3JFeEZFWGRWY09LMTMzUElaQ2JjSXhiTVNETzBlQ3l1a01aQV9tV0x1aU9OTUtCLVJWNHdlVDZuWW9RWkF6WVBpVmRNQ0pnZUY2eXJKVGNOY0h4VVVNOUFLVXd0WFFzd19VSHdmTDVkTkVZVHA2QXdwODhSWHRZdXJYNjE2VTVDTkJxUWc5RkU0OXJxTmxmSVg4bEZYaDBScTJPVUNzUXVrdWlIdmtR",
+        "time": "2026-08-26 19:38:23"
+      },
+      {
+        "title": "配合翁曉玲砍弱勢！張嘉郡買月餅救火 綠黨團轟：打完人才給糖吃 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPR05zZTRuTE5la0FELVVmd3RKWW9TQ2ExU0FaRkZ6NkNVcUEtRVY4WmttWTd2eldkNFZ6dXB0LVRZU3JLV3h2cjcyUkRMbHZnekppcVJxcTFqcWtpTWtpME5INzBOY2t5ZEdwSDZyRjV3VzRDYnlYZUQ3dk9CMU1uU09peUdjeTRQU2RZOWtOQWt5bUVOSTVSeGdGYnkxM2VyU01qSnZCXzlfbkg4YmNnTWdjQXZXRVRWLWR0RDVqYXVzWDFRWGhwczQxWFB0YmF6T2VjYktqeFZ2dXB3bUJ6OUJrOExIZU0zRG1YeWR3ZUs2VVJPckhlam5LNFI4MXpkMWVqeUZfUUhKZW1fbGQzU2hLTl9DU0NFRVczN0lrZExOWGRZQnZ4Z2gwQ09fMlEzU2c2OWV0cjJtekdza0JyREdLd1I3bmJONGlqUkZ6U2pjRmRBOHVEUmN2dXJObDlianBJWE9zVHV4NWh3WHhId1cyX1o5WEV4Qy12YlFRMUZaVzBrSm9zYm1yLTlxTWJ6ektpZVFnZjBVQ0IxcTNtMHJGai12amRnMlh2UHlfaGhHdDdsTVN4cA",
+        "time": "2026-08-26 09:34:05"
+      }
+    ],
     "news": [
+      {
+        "title": "張嘉郡訪台中綠美圖盧秀燕：交流提升中台灣文化生活品質| 地方 - cna.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Xai1QOTJwaDlucUcxZ1R5UXB4RXlRMWYxcVhKcV9yUXdwZXlFR0RIU2FaWTdrRUhsaWtFMVFEWXFDTEZHTVJWaUVRQXp1RGdQOGdYekJ6U3h6a0lORmtJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-26 19:03:00"
+      },
+      {
+        "title": "張嘉郡打造雲林美術館 拜會盧秀燕取經綠美圖：讓城市發展有溫度 - 上報Up Media",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fLVpGY3VyQlpRREZBU2cyRjVVNHZGN0ZBQnVLQUpkVldZR0NIdUI2ZWhyNTNTY1VUMzhWZG5RZ0xGdWRfS0h2T0FxSllxd28xZkd6RzV6VGVnNXJOOVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-26 18:21:00"
+      },
       {
         "title": "張嘉郡訪台中綠美圖 贈交趾陶祝盧秀燕「繼續展翅高飛」 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85eGdCYnF4cUY0VlFCQmpTbk9nWG9EeEIzZXVzNmRteHZTU05tZG9QakF3dUpjenAyaTI5RU5WNEdqMXVxR3RaakM2cEczSUUzbG1z0gFYQVVfeXFMTVl2NlBCRWFfTUV4MGtoaW5JVVpnRW1RVkI0QjJ3Y1hIQmdtZUxWbE5hMUc5RTVzc0RHNjJJai1VcnJrX3hMT1FpWm1YbE5GMmtHU1hTWFo5Nw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -492,28 +526,43 @@
         "title": "藍委「懺悔潮」來了？張嘉郡捐薪買庇護禮盒 綠委酸：開始補破網 | Newtalk - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc1hxWFZxOG5ONnBOX1FIMmt1Z05sc2x1anUxZGxkVWpWZGZncDQzRUpoYXRUVGRENGtmckVMV05RZjJLdE8xTVJtNHZuNUZfUmExTmNhbkcwU3pkNUIwamptUlI4UFU1TjZFeHB2T1p5ZFR5WTJvWXBlWE1FTk9uRUkxWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-25 23:45:35"
-      }
-    ],
-    "facebook": [
-      {
-        "title": "配合翁曉玲砍弱勢！張嘉郡買月餅救火 綠黨團轟：打完人才給糖吃 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPR05zZTRuTE5la0FELVVmd3RKWW9TQ2ExU0FaRkZ6NkNVcUEtRVY4WmttWTd2eldkNFZ6dXB0LVRZU3JLV3h2cjcyUkRMbHZnekppcVJxcTFqcWtpTWtpME5INzBOY2t5ZEdwSDZyRjV3VzRDYnlYZUQ3dk9CMU1uU09peUdjeTRQU2RZOWtOQWt5bUVOSTVSeGdGYnkxM2VyU01qSnZCXzlfbkg4YmNnTWdjQXZXRVRWLWR0RDVqYXVzWDFRWGhwczQxWFB0YmF6T2VjYktqeFZ2dXB3bUJ6OUJrOExIZU0zRG1YeWR3ZUs2VVJPckhlam5LNFI4MXpkMWVqeUZfUUhKZW1fbGQzU2hLTl9DU0NFRVczN0lrZExOWGRZQnZ4Z2gwQ09fMlEzU2c2OWV0cjJtekdza0JyREdLd1I3bmJONGlqUkZ6U2pjRmRBOHVEUmN2dXJObDlianBJWE9zVHV4NWh3WHhId1cyX1o5WEV4Qy12YlFRMUZaVzBrSm9zYm1yLTlxTWJ6ektpZVFnZjBVQ0IxcTNtMHJGai12amRnMlh2UHlfaGhHdDdsTVN4cA",
-        "time": "2026-08-26 09:34:05"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 20
+      "count": 22
     },
     {
       "platform": "facebook",
-      "count": 1
+      "count": 2
     }
   ],
   "alias_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "補足育兒缺口！#張嘉郡 拋0-6歲育兒成長津貼每年1.2萬元 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNNER4X0s5Y3NJR25QdVRmZktDakE1QVBVY3ZTVjlwQXlONWJEaVp3d2hhczM5ckZObzF3MDUxWDQ0N3A3aWJDQk00TmtnN2tEbG45Y3dEaUdQSHdVbWdldVI5RlBhQ0VpY2VzRXBLM0I5aFFzdXdSZ2Z5Yk9SaTdERWdoekJHV2FSZ1pOZG9IQ29OU3d5dWNvaURWVXNwOTRLSXhqd29DVHU3TkdkdmZ2ckdEbXBmMTI0Rzk0WVpJYjcwNkI2V2RfXzJTT3JFeEZFWGRWY09LMTMzUElaQ2JjSXhiTVNETzBlQ3l1a01aQV9tV0x1aU9OTUtCLVJWNHdlVDZuWW9RWkF6WVBpVmRNQ0pnZUY2eXJKVGNOY0h4VVVNOUFLVXd0WFFzd19VSHdmTDVkTkVZVHA2QXdwODhSWHRZdXJYNjE2VTVDTkJxUWc5RkU0OXJxTmxmSVg4bEZYaDBScTJPVUNzUXVrdWlIdmtR",
+        "time": "2026-08-26 19:38:23"
+      },
+      {
+        "title": "配合翁曉玲砍弱勢！張嘉郡買月餅救火 綠黨團轟：打完人才給糖吃 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPR05zZTRuTE5la0FELVVmd3RKWW9TQ2ExU0FaRkZ6NkNVcUEtRVY4WmttWTd2eldkNFZ6dXB0LVRZU3JLV3h2cjcyUkRMbHZnekppcVJxcTFqcWtpTWtpME5INzBOY2t5ZEdwSDZyRjV3VzRDYnlYZUQ3dk9CMU1uU09peUdjeTRQU2RZOWtOQWt5bUVOSTVSeGdGYnkxM2VyU01qSnZCXzlfbkg4YmNnTWdjQXZXRVRWLWR0RDVqYXVzWDFRWGhwczQxWFB0YmF6T2VjYktqeFZ2dXB3bUJ6OUJrOExIZU0zRG1YeWR3ZUs2VVJPckhlam5LNFI4MXpkMWVqeUZfUUhKZW1fbGQzU2hLTl9DU0NFRVczN0lrZExOWGRZQnZ4Z2gwQ09fMlEzU2c2OWV0cjJtekdza0JyREdLd1I3bmJONGlqUkZ6U2pjRmRBOHVEUmN2dXJObDlianBJWE9zVHV4NWh3WHhId1cyX1o5WEV4Qy12YlFRMUZaVzBrSm9zYm1yLTlxTWJ6ektpZVFnZjBVQ0IxcTNtMHJGai12amRnMlh2UHlfaGhHdDdsTVN4cA",
+        "time": "2026-08-26 09:34:05"
+      }
+    ],
     "news": [
+      {
+        "title": "張嘉郡訪台中綠美圖盧秀燕：交流提升中台灣文化生活品質| 地方 - cna.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Xai1QOTJwaDlucUcxZ1R5UXB4RXlRMWYxcVhKcV9yUXdwZXlFR0RIU2FaWTdrRUhsaWtFMVFEWXFDTEZHTVJWaUVRQXp1RGdQOGdYekJ6U3h6a0lORmtJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-26 19:03:00"
+      },
+      {
+        "title": "張嘉郡打造雲林美術館 拜會盧秀燕取經綠美圖：讓城市發展有溫度 - 上報Up Media",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fLVpGY3VyQlpRREZBU2cyRjVVNHZGN0ZBQnVLQUpkVldZR0NIdUI2ZWhyNTNTY1VUMzhWZG5RZ0xGdWRfS0h2T0FxSllxd28xZkd6RzV6VGVnNXJOOVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-26 18:21:00"
+      },
       {
         "title": "張嘉郡訪台中綠美圖 贈交趾陶祝盧秀燕「繼續展翅高飛」 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85eGdCYnF4cUY0VlFCQmpTbk9nWG9EeEIzZXVzNmRteHZTU05tZG9QakF3dUpjenAyaTI5RU5WNEdqMXVxR3RaakM2cEczSUUzbG1z0gFYQVVfeXFMTVl2NlBCRWFfTUV4MGtoaW5JVVpnRW1RVkI0QjJ3Y1hIQmdtZUxWbE5hMUc5RTVzc0RHNjJJai1VcnJrX3hMT1FpWm1YbE5GMmtHU1hTWFo5Nw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -614,24 +663,27 @@
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc1hxWFZxOG5ONnBOX1FIMmt1Z05sc2x1anUxZGxkVWpWZGZncDQzRUpoYXRUVGRENGtmckVMV05RZjJLdE8xTVJtNHZuNUZfUmExTmNhbkcwU3pkNUIwamptUlI4UFU1TjZFeHB2T1p5ZFR5WTJvWXBlWE1FTk9uRUkxWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-25 23:45:35"
       }
-    ],
-    "facebook": [
-      {
-        "title": "配合翁曉玲砍弱勢！張嘉郡買月餅救火 綠黨團轟：打完人才給糖吃 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPR05zZTRuTE5la0FELVVmd3RKWW9TQ2ExU0FaRkZ6NkNVcUEtRVY4WmttWTd2eldkNFZ6dXB0LVRZU3JLV3h2cjcyUkRMbHZnekppcVJxcTFqcWtpTWtpME5INzBOY2t5ZEdwSDZyRjV3VzRDYnlYZUQ3dk9CMU1uU09peUdjeTRQU2RZOWtOQWt5bUVOSTVSeGdGYnkxM2VyU01qSnZCXzlfbkg4YmNnTWdjQXZXRVRWLWR0RDVqYXVzWDFRWGhwczQxWFB0YmF6T2VjYktqeFZ2dXB3bUJ6OUJrOExIZU0zRG1YeWR3ZUs2VVJPckhlam5LNFI4MXpkMWVqeUZfUUhKZW1fbGQzU2hLTl9DU0NFRVczN0lrZExOWGRZQnZ4Z2gwQ09fMlEzU2c2OWV0cjJtekdza0JyREdLd1I3bmJONGlqUkZ6U2pjRmRBOHVEUmN2dXJObDlianBJWE9zVHV4NWh3WHhId1cyX1o5WEV4Qy12YlFRMUZaVzBrSm9zYm1yLTlxTWJ6ektpZVFnZjBVQ0IxcTNtMHJGai12amRnMlh2UHlfaGhHdDdsTVN4cA",
-        "time": "2026-08-26 09:34:05"
-      }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 18,
+    "張嘉郡": 21,
     "劉建國": 6
   },
   "mention_compare_7d": {
-    "張嘉郡": 102,
+    "張嘉郡": 105,
     "劉建國": 68
   },
   "top_news": [
+    {
+      "title": "張嘉郡訪台中綠美圖盧秀燕：交流提升中台灣文化生活品質| 地方 - cna.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Xai1QOTJwaDlucUcxZ1R5UXB4RXlRMWYxcVhKcV9yUXdwZXlFR0RIU2FaWTdrRUhsaWtFMVFEWXFDTEZHTVJWaUVRQXp1RGdQOGdYekJ6U3h6a0lORmtJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-26 19:03:00"
+    },
+    {
+      "title": "張嘉郡打造雲林美術館 拜會盧秀燕取經綠美圖：讓城市發展有溫度 - 上報Up Media",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fLVpGY3VyQlpRREZBU2cyRjVVNHZGN0ZBQnVLQUpkVldZR0NIdUI2ZWhyNTNTY1VUMzhWZG5RZ0xGdWRfS0h2T0FxSllxd28xZkd6RzV6VGVnNXJOOVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-26 18:21:00"
+    },
     {
       "title": "張嘉郡訪台中綠美圖 贈交趾陶祝盧秀燕「繼續展翅高飛」 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85eGdCYnF4cUY0VlFCQmpTbk9nWG9EeEIzZXVzNmRteHZTU05tZG9QakF3dUpjenAyaTI5RU5WNEdqMXVxR3RaakM2cEczSUUzbG1z0gFYQVVfeXFMTVl2NlBCRWFfTUV4MGtoaW5JVVpnRW1RVkI0QjJ3Y1hIQmdtZUxWbE5hMUc5RTVzc0RHNjJJai1VcnJrX3hMT1FpWm1YbE5GMmtHU1hTWFo5Nw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -681,19 +733,19 @@
       "title": "張嘉郡推「0至6歲育兒成長津貼」 每年發1.2萬元陪伴孩子安心成長 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOdGpQdXBSbl9wQkFBX1JXRHJJQ2g4TDBSV1BYc3R2OEsxRlFjNElQdnI0d01pazdHMEVLLTNLc3dSX25MZVYyUl9DSXF0Ym5nT1pOYzNldnAzOTR1UDY5clVpUVFoREJZZDJPUml5QnViN1pWYkd1WTBXdm8zWFlJZ0JNeEZ0ekU1T3BjQXJrdW04SjRiRmRLUDVmOXR2YWUxVUpXbDBRVzJGOUVJeWZpQWRuQUstSW80NVFHR1dldHdZcU44VTFQTTFaSkVDYWtLSjJQbEw3ZzMxa2Z1cFJ6bVNQR282Zk90dWROd3lscnRzWlp5VlMxUGViZFpYOXZnR09TanRhcDY1RElVZjZPMEhJUTNnNTJUTXhRRUN2WmlSV185UFRndTEzRFRqTTNDM2lhNGdrekl1TkpTSEJmc1dJSXg2ZWZZemc1MEFmVEJFRUJnZldnSnk4b1ZlSzJGNlZIdFFyT2VHeXlpaEg2WlRDeGtrNURGdTJad2x3RHp6VnpFTG5ycw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-26 13:15:00"
-    },
-    {
-      "title": "推雲林0-6歲育兒成長津貼每年1.2萬元 張嘉郡：為每個家庭多撐一把 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNdWdIRFRrZGVnQzZxRURUZU5uWW4wNWJldk1tUmI2dExZZ3k4OUptYkdSYThtNWNzYmJHa0swdGFic3oyLTdJN3hGalVHVlIyLVoyNE5kcFU2d0ZmOFJWdy0wRzd6WFl1NHRIR2h3dEM3SWkzakVuSURJYXNvbW9xak5mclpQVnhnQkhmTmZIeU1lWUdOVlcyTGhOY3FwVmdyZ1NGa2RYQXBuTXgxTDhON21GUzJXeEEwb3lCMFhiZENleVRVaWowSUpXOUExbDR0bkJMRmpEVXZQV1dYY3ppYUZtX3dXVGdtc0Q0WjRaZV9vWUNKQWVWVFZFejZOTzQ4WF9JalAya3BKa3FHSFJ0Mkg2RS1fb1kxMFlYNUZ0RXdOX0kwVFdCa09YRlpqdi1IOFdnWHBuUkk3b2xmTXp0cUVqRExrenk2cnNoeFBkY1ZrVlM0c1h3SXRTZkpXbFd5REpER1dhS2ZzLW5pODd2MFFlZmlEMzdId044ZWp3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-26 11:39:11"
-    },
-    {
-      "title": "迎戰雲林少子化問題 張嘉郡再拋每年1.2萬元育兒成長津貼政見 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPYjcwWDVUZl9udXM1RXY4cUxVeldIelpqNEN6T3NzdmhmRVRtMEZuNWhJWjZjTmFWemRZYTZPRkhLcElaZmZiQnRnT2hINGFNNV9xRzNIcklaUnZaY1B0MTFDX2FxOVdtakQ1VXFqTVAzdlRGQ0pWSGNfYTk3ZGV6aUNEZzBucDdHdDhldER0YnNKY3pUNmx1VUVCMVBMNVlnSER3RVlFTE1ValN6RnRfMGpTcmNCdTM3dk80VTF4MTBsSXhNUUQzbnRZMktHZU15d1hqNTh5WUI3TDYwcUJ3d3RBeUFBcXk2LTY5TEQ1UUFOeEFDdkVINnpYTnlDZllSOHRhVUp5Mzg4cHA2d1J3ZzBZZGtyVDB0aUpjNzJIU3g2bWJBUmxEUm40ZGcyTFRUVnk3STNaVF9SYTF2aDZjR2dlcUtvN0RvbmxLeW1Sd3VFeXBXQmthbmxTR2VfQXE0Nzl6WEt4NEtUaFpPYVBoV2hmRUh6d1VKeC1DWVY1UEduU29wTE5JdHczOXV4cDBu?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-26 11:34:30"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "張嘉郡訪台中綠美圖盧秀燕：交流提升中台灣文化生活品質| 地方 - cna.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Xai1QOTJwaDlucUcxZ1R5UXB4RXlRMWYxcVhKcV9yUXdwZXlFR0RIU2FaWTdrRUhsaWtFMVFEWXFDTEZHTVJWaUVRQXp1RGdQOGdYekJ6U3h6a0lORmtJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-26 19:03:00"
+    },
+    {
+      "title": "張嘉郡打造雲林美術館 拜會盧秀燕取經綠美圖：讓城市發展有溫度 - 上報Up Media",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fLVpGY3VyQlpRREZBU2cyRjVVNHZGN0ZBQnVLQUpkVldZR0NIdUI2ZWhyNTNTY1VUMzhWZG5RZ0xGdWRfS0h2T0FxSllxd28xZkd6RzV6VGVnNXJOOVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-26 18:21:00"
+    },
     {
       "title": "張嘉郡訪台中綠美圖 贈交趾陶祝盧秀燕「繼續展翅高飛」 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85eGdCYnF4cUY0VlFCQmpTbk9nWG9EeEIzZXVzNmRteHZTU05tZG9QakF3dUpjenAyaTI5RU5WNEdqMXVxR3RaakM2cEczSUUzbG1z0gFYQVVfeXFMTVl2NlBCRWFfTUV4MGtoaW5JVVpnRW1RVkI0QjJ3Y1hIQmdtZUxWbE5hMUc5RTVzc0RHNjJJai1VcnJrX3hMT1FpWm1YbE5GMmtHU1hTWFo5Nw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -783,19 +835,14 @@
       "title": "雲林縣長選戰 張嘉郡、劉建國鴨子划水 - 中時新聞網",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kS29MWi0zNUpKLUJ5UFZzZmZRSXpEOWwtdkpiU1pWcGwyakk1RERXNVppNDI0dUNvT2JvZG1VM3QtcUZPdEZFT2I0UVpVVUFDQjh0YTREbDNzWllkSWlKZHc2YTdOSjhNa2Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-26 04:10:00"
-    },
-    {
-      "title": "雲林縣長選戰 張嘉郡、劉建國鴨子划水 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQQXZESU5GVzZqcXJrWkJYTEVpZkZ5a0JQWTRMWFd5N1FBNGFwX09CWkpJRkJCOGxmNkdZa3NOZUo4VThLbXkyTGRkS3JnQkV3TmxxSEgyeVdxQnlCYlNQWEQtbVN5M2NieG1vZkF3NTBFMF9aVUVrcjhHTXVBU3FLc0s2dVBnVVlwY2JUSFhaRXdoc1dkQVJPbnlfV3gtMjYyUkFDQ2E2dXlSSFVBOGg0Nkt5UzhMTVZxa0xyODYtcXhZNFdQbFRkMjcxdDJleFNPM1Jqck1URFhhT1locFBhbmV5SGJmUUZyWGZGdnNqbzhOQlZqSjlSYVM1Rno3SmhTN0Y3WXZwLTlrelZDaW1rY1lIQnBSUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-26 04:10:00"
-    },
-    {
-      "title": "藍委「懺悔潮」來了？張嘉郡捐薪買庇護禮盒 綠委酸：開始補破網 | Newtalk - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc1hxWFZxOG5ONnBOX1FIMmt1Z05sc2x1anUxZGxkVWpWZGZncDQzRUpoYXRUVGRENGtmckVMV05RZjJLdE8xTVJtNHZuNUZfUmExTmNhbkcwU3pkNUIwamptUlI4UFU1TjZFeHB2T1p5ZFR5WTJvWXBlWE1FTk9uRUkxWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-25 23:45:35"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "補足育兒缺口！#張嘉郡 拋0-6歲育兒成長津貼每年1.2萬元 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNNER4X0s5Y3NJR25QdVRmZktDakE1QVBVY3ZTVjlwQXlONWJEaVp3d2hhczM5ckZObzF3MDUxWDQ0N3A3aWJDQk00TmtnN2tEbG45Y3dEaUdQSHdVbWdldVI5RlBhQ0VpY2VzRXBLM0I5aFFzdXdSZ2Z5Yk9SaTdERWdoekJHV2FSZ1pOZG9IQ29OU3d5dWNvaURWVXNwOTRLSXhqd29DVHU3TkdkdmZ2ckdEbXBmMTI0Rzk0WVpJYjcwNkI2V2RfXzJTT3JFeEZFWGRWY09LMTMzUElaQ2JjSXhiTVNETzBlQ3l1a01aQV9tV0x1aU9OTUtCLVJWNHdlVDZuWW9RWkF6WVBpVmRNQ0pnZUY2eXJKVGNOY0h4VVVNOUFLVXd0WFFzd19VSHdmTDVkTkVZVHA2QXdwODhSWHRZdXJYNjE2VTVDTkJxUWc5RkU0OXJxTmxmSVg4bEZYaDBScTJPVUNzUXVrdWlIdmtR",
+      "time": "2026-08-26 19:38:23"
+    },
     {
       "title": "配合翁曉玲砍弱勢！張嘉郡買月餅救火 綠黨團轟：打完人才給糖吃 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPR05zZTRuTE5la0FELVVmd3RKWW9TQ2ExU0FaRkZ6NkNVcUEtRVY4WmttWTd2eldkNFZ6dXB0LVRZU3JLV3h2cjcyUkRMbHZnekppcVJxcTFqcWtpTWtpME5INzBOY2t5ZEdwSDZyRjV3VzRDYnlYZUQ3dk9CMU1uU09peUdjeTRQU2RZOWtOQWt5bUVOSTVSeGdGYnkxM2VyU01qSnZCXzlfbkg4YmNnTWdjQXZXRVRWLWR0RDVqYXVzWDFRWGhwczQxWFB0YmF6T2VjYktqeFZ2dXB3bUJ6OUJrOExIZU0zRG1YeWR3ZUs2VVJPckhlam5LNFI4MXpkMWVqeUZfUUhKZW1fbGQzU2hLTl9DU0NFRVczN0lrZExOWGRZQnZ4Z2gwQ09fMlEzU2c2OWV0cjJtekdza0JyREdLd1I3bmJONGlqUkZ6U2pjRmRBOHVEUmN2dXJObDlianBJWE9zVHV4NWh3WHhId1cyX1o5WEV4Qy12YlFRMUZaVzBrSm9zYm1yLTlxTWJ6ektpZVFnZjBVQ0IxcTNtMHJGai12amRnMlh2UHlfaGhHdDdsTVN4cA",
@@ -890,14 +937,19 @@
       "title": "劉建國 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54a3ppa1FlZTNOajBLek43SU15Q1BFSThnbWNnSWlDY3p4SDVQUmlaMEVEOWdUalJZenhQdGQ0bVQ1WWRqU2c3b0ZVdFFnTUtQWEl0MDVXUG5jbEtLU0I1amhOSzd5TFhTNTNwU21jaw",
       "time": "2026-08-22 13:30:02"
-    },
-    {
-      "title": "劉建國 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zZU56bktyMUlmQi0wamxWUkhHV2p4VFlJT3dqaUE2ai1JQVdqaDFmam1kcjJfemZFcjRrWDlsNlZNNVRvcUJDUmNzV2o1SzJjSTdPUXY4eF9xdzFZYWU4MnJNMUd0Y0VFbnV2dHNOdw",
-      "time": "2026-08-22 13:30:02"
     }
   ],
   "latest_news_20": [
+    {
+      "title": "張嘉郡訪台中綠美圖盧秀燕：交流提升中台灣文化生活品質| 地方 - cna.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Xai1QOTJwaDlucUcxZ1R5UXB4RXlRMWYxcVhKcV9yUXdwZXlFR0RIU2FaWTdrRUhsaWtFMVFEWXFDTEZHTVJWaUVRQXp1RGdQOGdYekJ6U3h6a0lORmtJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-26 19:03:00"
+    },
+    {
+      "title": "張嘉郡打造雲林美術館 拜會盧秀燕取經綠美圖：讓城市發展有溫度 - 上報Up Media",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fLVpGY3VyQlpRREZBU2cyRjVVNHZGN0ZBQnVLQUpkVldZR0NIdUI2ZWhyNTNTY1VUMzhWZG5RZ0xGdWRfS0h2T0FxSllxd28xZkd6RzV6VGVnNXJOOVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-26 18:21:00"
+    },
     {
       "title": "張嘉郡訪台中綠美圖 贈交趾陶祝盧秀燕「繼續展翅高飛」 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85eGdCYnF4cUY0VlFCQmpTbk9nWG9EeEIzZXVzNmRteHZTU05tZG9QakF3dUpjenAyaTI5RU5WNEdqMXVxR3RaakM2cEczSUUzbG1z0gFYQVVfeXFMTVl2NlBCRWFfTUV4MGtoaW5JVVpnRW1RVkI0QjJ3Y1hIQmdtZUxWbE5hMUc5RTVzc0RHNjJJai1VcnJrX3hMT1FpWm1YbE5GMmtHU1hTWFo5Nw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -987,21 +1039,16 @@
       "title": "雲林縣長選戰 張嘉郡、劉建國鴨子划水 - 中時新聞網",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kS29MWi0zNUpKLUJ5UFZzZmZRSXpEOWwtdkpiU1pWcGwyakk1RERXNVppNDI0dUNvT2JvZG1VM3QtcUZPdEZFT2I0UVpVVUFDQjh0YTREbDNzWllkSWlKZHc2YTdOSjhNa2Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-26 04:10:00"
-    },
-    {
-      "title": "雲林縣長選戰 張嘉郡、劉建國鴨子划水 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQQXZESU5GVzZqcXJrWkJYTEVpZkZ5a0JQWTRMWFd5N1FBNGFwX09CWkpJRkJCOGxmNkdZa3NOZUo4VThLbXkyTGRkS3JnQkV3TmxxSEgyeVdxQnlCYlNQWEQtbVN5M2NieG1vZkF3NTBFMF9aVUVrcjhHTXVBU3FLc0s2dVBnVVlwY2JUSFhaRXdoc1dkQVJPbnlfV3gtMjYyUkFDQ2E2dXlSSFVBOGg0Nkt5UzhMTVZxa0xyODYtcXhZNFdQbFRkMjcxdDJleFNPM1Jqck1URFhhT1locFBhbmV5SGJmUUZyWGZGdnNqbzhOQlZqSjlSYVM1Rno3SmhTN0Y3WXZwLTlrelZDaW1rY1lIQnBSUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-26 04:10:00"
-    },
-    {
-      "title": "藍委「懺悔潮」來了？張嘉郡捐薪買庇護禮盒 綠委酸：開始補破網 | Newtalk - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc1hxWFZxOG5ONnBOX1FIMmt1Z05sc2x1anUxZGxkVWpWZGZncDQzRUpoYXRUVGRENGtmckVMV05RZjJLdE8xTVJtNHZuNUZfUmExTmNhbkcwU3pkNUIwamptUlI4UFU1TjZFeHB2T1p5ZFR5WTJvWXBlWE1FTk9uRUkxWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-25 23:45:35"
     }
   ],
   "person_sections": {
     "張嘉郡": {
       "facebook": [
+        {
+          "title": "補足育兒缺口！#張嘉郡 拋0-6歲育兒成長津貼每年1.2萬元 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNNER4X0s5Y3NJR25QdVRmZktDakE1QVBVY3ZTVjlwQXlONWJEaVp3d2hhczM5ckZObzF3MDUxWDQ0N3A3aWJDQk00TmtnN2tEbG45Y3dEaUdQSHdVbWdldVI5RlBhQ0VpY2VzRXBLM0I5aFFzdXdSZ2Z5Yk9SaTdERWdoekJHV2FSZ1pOZG9IQ29OU3d5dWNvaURWVXNwOTRLSXhqd29DVHU3TkdkdmZ2ckdEbXBmMTI0Rzk0WVpJYjcwNkI2V2RfXzJTT3JFeEZFWGRWY09LMTMzUElaQ2JjSXhiTVNETzBlQ3l1a01aQV9tV0x1aU9OTUtCLVJWNHdlVDZuWW9RWkF6WVBpVmRNQ0pnZUY2eXJKVGNOY0h4VVVNOUFLVXd0WFFzd19VSHdmTDVkTkVZVHA2QXdwODhSWHRZdXJYNjE2VTVDTkJxUWc5RkU0OXJxTmxmSVg4bEZYaDBScTJPVUNzUXVrdWlIdmtR",
+          "time": "2026-08-26 19:38:23"
+        },
         {
           "title": "配合翁曉玲砍弱勢！張嘉郡買月餅救火 綠黨團轟：打完人才給糖吃 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPR05zZTRuTE5la0FELVVmd3RKWW9TQ2ExU0FaRkZ6NkNVcUEtRVY4WmttWTd2eldkNFZ6dXB0LVRZU3JLV3h2cjcyUkRMbHZnekppcVJxcTFqcWtpTWtpME5INzBOY2t5ZEdwSDZyRjV3VzRDYnlYZUQ3dk9CMU1uU09peUdjeTRQU2RZOWtOQWt5bUVOSTVSeGdGYnkxM2VyU01qSnZCXzlfbkg4YmNnTWdjQXZXRVRWLWR0RDVqYXVzWDFRWGhwczQxWFB0YmF6T2VjYktqeFZ2dXB3bUJ6OUJrOExIZU0zRG1YeWR3ZUs2VVJPckhlam5LNFI4MXpkMWVqeUZfUUhKZW1fbGQzU2hLTl9DU0NFRVczN0lrZExOWGRZQnZ4Z2gwQ09fMlEzU2c2OWV0cjJtekdza0JyREdLd1I3bmJONGlqUkZ6U2pjRmRBOHVEUmN2dXJObDlianBJWE9zVHV4NWh3WHhId1cyX1o5WEV4Qy12YlFRMUZaVzBrSm9zYm1yLTlxTWJ6ektpZVFnZjBVQ0IxcTNtMHJGai12amRnMlh2UHlfaGhHdDdsTVN4cA",
@@ -1096,14 +1143,19 @@
           "title": "年底九合一加溫，雲林縣長參選人張嘉郡今（15）日陪同台中市長盧秀燕、雲林縣長張麗善走訪雲林西螺參香、品嚐在地美食，進行地方治理交流；張嘉郡指出，認同盧秀燕推動中台灣區域治理平台，透過區域合作、資源整合，才能創造更大效益... - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMikwhBVV95cUxQLW5UY0NNYzRBUHp0RkpLQ0w2dVJvc0ItRTA3QjFtVEg2dUd2bUtkNTZwUWJ3V1E5UjB6VndVQ1FrdWFua2VlMjZNOUd3N1llcjlzeWstdkRNSVhqLU9DaFZYWG9EQk81WDdHN2F0NG5wUjIwMlFINEZ2M2hUMmIwc1FqbmVRS0dqY0FHOTZuVWpNUGZlU1FNU1NtN0hQaWVCcjU3bnNoMHZ1ZnZuN0hjaTEyNkhTR1hWcmt0QUpCVHdOQlRkV3hwS19CbTNGM1EtdzZLSXBpQURXV0J5bmNXSVRESUV1UzdEMlBHN2FFSGoyaXNta05FRFNWQVZJVzRDN1ZFelMzNC1wLWd1Nk8wUXNTN3pCc3BiazFIUmpoUzBHNFI5VXFvejU3N3N1aHVFaURYUEd2UmNfN0dRR09yMGJwZGVwc1FzM1VxM2tFV1BMdzN1MGJNWUZUeGFQVkZady0yem04d05TMExZVGxLcEs0Q05Hc1VQczhWbFNCOHhjekRZTUpNWHhPNk4zenBqTW1OS01xNEd1TWtPaFFyZkdmS2lWaEFuSzJzazRyanZ4RkhyMzY4V19xWGFBWERoSGpwYUMwSlZPS2JXOGVPWkhlVlhaM3RIbGR5SGZ2OVR5SFNXTFNsSF9fVGwtX0JLQjNpNFd5SDczdHd4aEZFRVlvMndOMlVMeXJWNUViWGRIUTdvRWs3blF6T3E2RV85V0c0bk1KSFhaRzl5Ylhod29kdHpteUNsdE1jbzUzYjlDQm9TZW8xd1R1VDJfNVA3MF9yNThlcmc5X2lBQ21SZndXUXFhV2dGVm9GTnhSRmJIeVpfRkJiTXdHMXA5LXRlMmpMOFZYZHQ3QXJ1QlNGVnhDR191eUJjck10MWdPaXZZN29QV3R0dU5GMDhEZmZ6UWtpR3d2Y0IwT0xaUW5lOWxEMXVCc3RSWDljcldfbEpHTGJxYXFlRTZlT3NOdE1KQkQzTlVPTWw0X0hNbVdqZmJJb2g2MmxlX0lFSEdZYUtpeGhZS1U3TTBfZXZmV1U4U0FvYWFqRFhlZUpCcy1UZE43anRVRG5RS015QTFfcloweTJqQkY1S3ZFa1JkTDlVRmFGTWkzWEQ0ZHhnQlBwX2oycUsxcUMzME91NVkxX0k2TkZkTDUya1dJZUU1WlAwV1FuTEoxQWdKU05CQnpXbXFsTGdEWEs0aHo5TW5BYzB6ZjFacmE1azJmN1pxMUhHNEc2Z1F0TFBXQTFqLTdsaXdvQ1hqN1RDVG9NRnoyR0thZVl5NkZVLWNWRzRmV0gwV0E4MXBYM0QtMUt3eUJUb2txS21UZHE2UHg5Yy1Jb1E2S2tPYWdfUWhwcjZUM0pvUmhHRmY2eWpvUGY5TEtXalNGbw",
           "time": "2026-08-15 17:15:02"
-        },
-        {
-          "title": "中視新聞. . 🔴【LIVE直播】盧秀燕南下雲林輔選張嘉郡 西螺福興宮參香現場最新｜2026.08.15 - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPNUw0cHhCdHZoT0w1VmRwY0tFVnc1cFRFWEtTZloyZnNsZGtlc1RJVDNCbHVvMVRRa01NMkpaR0JYY3FJanFVal9lQnUzdmNMT0U5aE1PdnN6RFFmcnh5eDBVMnRrS214X1VrRXlCd3F3S05XWl9saDlSTDlTQklJMlVsT3d0b3k0Ml9aRWhZb3d4eU1LaEF4WEFTb0FiV3pRVEYzcDRkUVBlaG41N0NHRFhXeXRnLWg2U3R3UERKMF9RVDFxSGFsUC1HRzc5UjJzS2NnWHpaNHF0dkVsMDRtMUxqTWNJVHVlNjl3Q1NfMVJHTVNIRnViY3VQNnVmdks2Njk0ZGN1V2k1QWMzZG1OUlVTWXRXVnZrT2tZU2FNeXlLUjc2U2NIRHhqWE9xSmhfNC1Md194REtzNWE5Zjd3T0FCZ0puUllZWkNHbVpBSlhCZmk5RXpFOC1UUG5UcHk0aGZYNWM0bHoyTUFtd2xlQnRrYzRCMzNGUXJhM2NZeDVKeTBVVGR0azlOV1hMY05PT1Z1Q05YNkRlTDhack5fNHNJc1VzcHduMTk1aGZWSE5KNldySzllel96MWxnMTQ",
-          "time": "2026-08-15 10:15:34"
         }
       ],
       "news": [
+        {
+          "title": "張嘉郡訪台中綠美圖盧秀燕：交流提升中台灣文化生活品質| 地方 - cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Xai1QOTJwaDlucUcxZ1R5UXB4RXlRMWYxcVhKcV9yUXdwZXlFR0RIU2FaWTdrRUhsaWtFMVFEWXFDTEZHTVJWaUVRQXp1RGdQOGdYekJ6U3h6a0lORmtJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-26 19:03:00"
+        },
+        {
+          "title": "張嘉郡打造雲林美術館 拜會盧秀燕取經綠美圖：讓城市發展有溫度 - 上報Up Media",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fLVpGY3VyQlpRREZBU2cyRjVVNHZGN0ZBQnVLQUpkVldZR0NIdUI2ZWhyNTNTY1VUMzhWZG5RZ0xGdWRfS0h2T0FxSllxd28xZkd6RzV6VGVnNXJOOVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-26 18:21:00"
+        },
         {
           "title": "張嘉郡訪台中綠美圖 贈交趾陶祝盧秀燕「繼續展翅高飛」 - UDN",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85eGdCYnF4cUY0VlFCQmpTbk9nWG9EeEIzZXVzNmRteHZTU05tZG9QakF3dUpjenAyaTI5RU5WNEdqMXVxR3RaakM2cEczSUUzbG1z0gFYQVVfeXFMTVl2NlBCRWFfTUV4MGtoaW5JVVpnRW1RVkI0QjJ3Y1hIQmdtZUxWbE5hMUc5RTVzc0RHNjJJai1VcnJrX3hMT1FpWm1YbE5GMmtHU1hTWFo5Nw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1193,16 +1245,6 @@
           "title": "藍白配合翁曉玲大砍弱勢預算！張嘉郡急買月餅救火 綠委轟：打完人才給糖吃 - FTNN 新聞網",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RYWxGOWlSQ1g3alBCN2pJMFNYVXJYYnJyb1RPdnVneDM0ZG5EY09ZTXJMTUd1TUZDTzdKaUhiZ09pd21aREpJa0RmOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-25 15:32:00"
-        },
-        {
-          "title": "藍白配合翁曉玲大砍弱勢預算！張嘉郡急買月餅救火 綠委轟：打完人才給糖吃 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxPUmhtVFBwdjZYcm5HeHVzSC1GRkhyendKRkhPMUNwZktrZUNRZWxIWm9NZkJLY2Y1WUwyS0tRamVnak1lTFduZWZJS2ZKSFdzZ0NRdm5nQ0tLcnJNbU9wSHVVYUtqaHgtbFgwUnA5WUxEem1TRDY3NUFVVzdNeVlRdmNOQ3lCUTlLVVgxcXZBWXBra0VpMmlfOExCZGliaWJFV2R4NngycUdhSnlhZy02aXM1ZThUVUVOMkFOUmZJMGwzVi1zWjBHUjRZSGRYbmJlLVNDby0yT0huR2dnOXZHWlFacUppV0ZDTHN6TEhRbFkyMFY1QmxNN0N4OTgxWTNMaWJrLW1ubWNXd2pSMUFUdXFTQ3pzcWdsQktacGRSUEtXN3F3enU3X0kwSjBRRmlnQ2JvaU11eXV0TFdpd3Bxb19SX1NncElyT1RCT2pLbk4zZi04NEs2WkNTUzFvWEY3RDY4dlNqX3ZRYTlacnhTS2hjZUNnNHBQVS1xZHcyQ1puNVB5TWdVd24zRDVTb3A0dTlTaEFBUUVYdnRXQnVlWDNaVFVXaTNJUWRVZGlMYmVKaTE5SS1Uc1g1VlJfeWoybTJZdFE5bGNBc1c2akVxaW44R1BEM2s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-25 15:32:00"
-        },
-        {
-          "title": "配合翁曉玲砍弱勢！張嘉郡買月餅救火　綠黨團轟：打完人才給糖吃 - ETtoday新聞雲",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pdDN6X3pYNjVzaEw2VkE2ZEVkZklweTN2ZzlDMEtybXVTb09QaDdVWW9QNjJObUNfMUtzZ3ZuNmoza05RYWx6QmI2bGxvNGlJUm5kX2pDT0g4dG1Mb3fSAUtBVV95cUxPWnhfMDl0U1VLR3Qzd0lGZUtjejZPd3UyQWk2Nno4S2hTdkdlQlpIRlR5ay1tQktZdTNTTWdiTk12LUVrN2ZHZjBxOG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-25 13:41:00"
         }
       ]
     },
@@ -1416,6 +1458,16 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "張嘉郡訪台中綠美圖盧秀燕：交流提升中台灣文化生活品質| 地方 - cna.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Xai1QOTJwaDlucUcxZ1R5UXB4RXlRMWYxcVhKcV9yUXdwZXlFR0RIU2FaWTdrRUhsaWtFMVFEWXFDTEZHTVJWaUVRQXp1RGdQOGdYekJ6U3h6a0lORmtJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-26 19:03:00"
+      },
+      {
+        "title": "張嘉郡打造雲林美術館 拜會盧秀燕取經綠美圖：讓城市發展有溫度 - 上報Up Media",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fLVpGY3VyQlpRREZBU2cyRjVVNHZGN0ZBQnVLQUpkVldZR0NIdUI2ZWhyNTNTY1VUMzhWZG5RZ0xGdWRfS0h2T0FxSllxd28xZkd6RzV6VGVnNXJOOVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-26 18:21:00"
+      },
+      {
         "title": "張嘉郡訪台中綠美圖 贈交趾陶祝盧秀燕「繼續展翅高飛」 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85eGdCYnF4cUY0VlFCQmpTbk9nWG9EeEIzZXVzNmRteHZTU05tZG9QakF3dUpjenAyaTI5RU5WNEdqMXVxR3RaakM2cEczSUUzbG1z0gFYQVVfeXFMTVl2NlBCRWFfTUV4MGtoaW5JVVpnRW1RVkI0QjJ3Y1hIQmdtZUxWbE5hMUc5RTVzc0RHNjJJai1VcnJrX3hMT1FpWm1YbE5GMmtHU1hTWFo5Nw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-26 17:16:58"
@@ -1535,6 +1587,11 @@
     ],
     "facebook": [
       {
+        "title": "補足育兒缺口！#張嘉郡 拋0-6歲育兒成長津貼每年1.2萬元 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNNER4X0s5Y3NJR25QdVRmZktDakE1QVBVY3ZTVjlwQXlONWJEaVp3d2hhczM5ckZObzF3MDUxWDQ0N3A3aWJDQk00TmtnN2tEbG45Y3dEaUdQSHdVbWdldVI5RlBhQ0VpY2VzRXBLM0I5aFFzdXdSZ2Z5Yk9SaTdERWdoekJHV2FSZ1pOZG9IQ29OU3d5dWNvaURWVXNwOTRLSXhqd29DVHU3TkdkdmZ2ckdEbXBmMTI0Rzk0WVpJYjcwNkI2V2RfXzJTT3JFeEZFWGRWY09LMTMzUElaQ2JjSXhiTVNETzBlQ3l1a01aQV9tV0x1aU9OTUtCLVJWNHdlVDZuWW9RWkF6WVBpVmRNQ0pnZUY2eXJKVGNOY0h4VVVNOUFLVXd0WFFzd19VSHdmTDVkTkVZVHA2QXdwODhSWHRZdXJYNjE2VTVDTkJxUWc5RkU0OXJxTmxmSVg4bEZYaDBScTJPVUNzUXVrdWlIdmtR",
+        "time": "2026-08-26 19:38:23"
+      },
+      {
         "title": "配合翁曉玲砍弱勢！張嘉郡買月餅救火 綠黨團轟：打完人才給糖吃 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPR05zZTRuTE5la0FELVVmd3RKWW9TQ2ExU0FaRkZ6NkNVcUEtRVY4WmttWTd2eldkNFZ6dXB0LVRZU3JLV3h2cjcyUkRMbHZnekppcVJxcTFqcWtpTWtpME5INzBOY2t5ZEdwSDZyRjV3VzRDYnlYZUQ3dk9CMU1uU09peUdjeTRQU2RZOWtOQWt5bUVOSTVSeGdGYnkxM2VyU01qSnZCXzlfbkg4YmNnTWdjQXZXRVRWLWR0RDVqYXVzWDFRWGhwczQxWFB0YmF6T2VjYktqeFZ2dXB3bUJ6OUJrOExIZU0zRG1YeWR3ZUs2VVJPckhlam5LNFI4MXpkMWVqeUZfUUhKZW1fbGQzU2hLTl9DU0NFRVczN0lrZExOWGRZQnZ4Z2gwQ09fMlEzU2c2OWV0cjJtekdza0JyREdLd1I3bmJONGlqUkZ6U2pjRmRBOHVEUmN2dXJObDlianBJWE9zVHV4NWh3WHhId1cyX1o5WEV4Qy12YlFRMUZaVzBrSm9zYm1yLTlxTWJ6ektpZVFnZjBVQ0IxcTNtMHJGai12amRnMlh2UHlfaGhHdDdsTVN4cA",
         "time": "2026-08-26 09:34:05"
@@ -1543,6 +1600,16 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "張嘉郡訪台中綠美圖盧秀燕：交流提升中台灣文化生活品質| 地方 - cna.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Xai1QOTJwaDlucUcxZ1R5UXB4RXlRMWYxcVhKcV9yUXdwZXlFR0RIU2FaWTdrRUhsaWtFMVFEWXFDTEZHTVJWaUVRQXp1RGdQOGdYekJ6U3h6a0lORmtJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-26 19:03:00"
+      },
+      {
+        "title": "張嘉郡打造雲林美術館 拜會盧秀燕取經綠美圖：讓城市發展有溫度 - 上報Up Media",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fLVpGY3VyQlpRREZBU2cyRjVVNHZGN0ZBQnVLQUpkVldZR0NIdUI2ZWhyNTNTY1VUMzhWZG5RZ0xGdWRfS0h2T0FxSllxd28xZkd6RzV6VGVnNXJOOVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-26 18:21:00"
+      },
       {
         "title": "張嘉郡訪台中綠美圖 贈交趾陶祝盧秀燕「繼續展翅高飛」 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85eGdCYnF4cUY0VlFCQmpTbk9nWG9EeEIzZXVzNmRteHZTU05tZG9QakF3dUpjenAyaTI5RU5WNEdqMXVxR3RaakM2cEczSUUzbG1z0gFYQVVfeXFMTVl2NlBCRWFfTUV4MGtoaW5JVVpnRW1RVkI0QjJ3Y1hIQmdtZUxWbE5hMUc5RTVzc0RHNjJJai1VcnJrX3hMT1FpWm1YbE5GMmtHU1hTWFo5Nw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1732,19 +1799,14 @@
         "title": "中秋節做公益雲林立委張嘉郡拋磚引玉捐月薪採購弱勢團體禮盒讓愛心持續傳遞社會充滿更多分享與關懷！ - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VWHZleHVlMVBLRnZqdkppZDJOd0dDMm1HNzAzSG1SYXdNcUZJdVhIb1lTaFE4WE96TGpiWGpMSHJ4Q1FkVEtvV29RQmo5elZvaEpEMlVEQlpkbC04WDJwX242Wm9ka0JQdFhQaDFjdXVZeGNGUU1ObGJDcTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-24 18:34:00"
-      },
-      {
-        "title": "中秋節做公益雲林立委張嘉郡拋磚引玉捐月薪採購弱勢團體禮盒讓愛心持續傳遞社會充滿更多分享與關懷！ - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iN1pFbHA0Wms0MXRyX01wQmNlYWt2QjRqODNpbTVQaFhMSTB1MjdOcUdqRWZXcVdvTXkxZTJibkkwb281a2w3elJobGtIVmx6WU1waGpKYnJKcW9XRlBwdXhyaW5JVFR6Mklr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-24 18:30:00"
-      },
-      {
-        "title": "張嘉郡捐月薪購公益月餅！助雲林弱勢過中秋 - 中時新聞網",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43aldLM2pCVElmTW5HSkpYd193QnIxd0k0UXphbndwSlluN0xPZFJsaWlCMEZGMFB1b0JoY25QS3gwVG5RVkdKN1pvUU9Wekg0c29uQmROb3M3RE1fdmxIR0hJY2RPc3VMZ1F0M1Nn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-24 17:31:28"
       }
     ],
     "facebook": [
+      {
+        "title": "補足育兒缺口！#張嘉郡 拋0-6歲育兒成長津貼每年1.2萬元 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNNER4X0s5Y3NJR25QdVRmZktDakE1QVBVY3ZTVjlwQXlONWJEaVp3d2hhczM5ckZObzF3MDUxWDQ0N3A3aWJDQk00TmtnN2tEbG45Y3dEaUdQSHdVbWdldVI5RlBhQ0VpY2VzRXBLM0I5aFFzdXdSZ2Z5Yk9SaTdERWdoekJHV2FSZ1pOZG9IQ29OU3d5dWNvaURWVXNwOTRLSXhqd29DVHU3TkdkdmZ2ckdEbXBmMTI0Rzk0WVpJYjcwNkI2V2RfXzJTT3JFeEZFWGRWY09LMTMzUElaQ2JjSXhiTVNETzBlQ3l1a01aQV9tV0x1aU9OTUtCLVJWNHdlVDZuWW9RWkF6WVBpVmRNQ0pnZUY2eXJKVGNOY0h4VVVNOUFLVXd0WFFzd19VSHdmTDVkTkVZVHA2QXdwODhSWHRZdXJYNjE2VTVDTkJxUWc5RkU0OXJxTmxmSVg4bEZYaDBScTJPVUNzUXVrdWlIdmtR",
+        "time": "2026-08-26 19:38:23"
+      },
       {
         "title": "配合翁曉玲砍弱勢！張嘉郡買月餅救火 綠黨團轟：打完人才給糖吃 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPR05zZTRuTE5la0FELVVmd3RKWW9TQ2ExU0FaRkZ6NkNVcUEtRVY4WmttWTd2eldkNFZ6dXB0LVRZU3JLV3h2cjcyUkRMbHZnekppcVJxcTFqcWtpTWtpME5INzBOY2t5ZEdwSDZyRjV3VzRDYnlYZUQ3dk9CMU1uU09peUdjeTRQU2RZOWtOQWt5bUVOSTVSeGdGYnkxM2VyU01qSnZCXzlfbkg4YmNnTWdjQXZXRVRWLWR0RDVqYXVzWDFRWGhwczQxWFB0YmF6T2VjYktqeFZ2dXB3bUJ6OUJrOExIZU0zRG1YeWR3ZUs2VVJPckhlam5LNFI4MXpkMWVqeUZfUUhKZW1fbGQzU2hLTl9DU0NFRVczN0lrZExOWGRZQnZ4Z2gwQ09fMlEzU2c2OWV0cjJtekdza0JyREdLd1I3bmJONGlqUkZ6U2pjRmRBOHVEUmN2dXJObDlianBJWE9zVHV4NWh3WHhId1cyX1o5WEV4Qy12YlFRMUZaVzBrSm9zYm1yLTlxTWJ6ektpZVFnZjBVQ0IxcTNtMHJGai12amRnMlh2UHlfaGhHdDdsTVN4cA",
@@ -1956,31 +2018,6 @@
         "title": "九合一選舉倒數百日 張嘉郡接棒張麗善延續雲林建設",
         "url": "https://www.youtube.com/watch?v=jIH4jMjlAwI",
         "time": "2026-08-20 18:37:24"
-      },
-      {
-        "title": "政院普發現金有三前提，在野黨別再漫天喊價！",
-        "url": "https://www.youtube.com/shorts/XAWNqEiJEz4",
-        "time": "2026-08-19 20:44:02"
-      },
-      {
-        "title": "法律保障仍有不足，媒體追訪也該有界線！",
-        "url": "https://www.youtube.com/shorts/Q12QOMI3Mug",
-        "time": "2026-08-19 20:43:13"
-      },
-      {
-        "title": "德記者在台遭中國跟監，是跨國鎮壓警鐘！",
-        "url": "https://www.youtube.com/shorts/aIryuWRUORo",
-        "time": "2026-08-19 20:40:40"
-      },
-      {
-        "title": "藍白政治報復刪預算，傷害的是國家！",
-        "url": "https://www.youtube.com/shorts/PxV9UpvzhJY",
-        "time": "2026-08-19 20:36:41"
-      },
-      {
-        "title": "《經濟學人》示警：臺灣的民主正在被「挾持」？！",
-        "url": "https://www.youtube.com/shorts/gEy5owijYd4",
-        "time": "2026-08-19 20:31:44"
       }
     ]
   },
@@ -2003,6 +2040,27 @@
       }
     ],
     "day": [
+      {
+        "title": "補足育兒缺口！#張嘉郡 拋0-6歲育兒成長津貼每年1.2萬元 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNNER4X0s5Y3NJR25QdVRmZktDakE1QVBVY3ZTVjlwQXlONWJEaVp3d2hhczM5ckZObzF3MDUxWDQ0N3A3aWJDQk00TmtnN2tEbG45Y3dEaUdQSHdVbWdldVI5RlBhQ0VpY2VzRXBLM0I5aFFzdXdSZ2Z5Yk9SaTdERWdoekJHV2FSZ1pOZG9IQ29OU3d5dWNvaURWVXNwOTRLSXhqd29DVHU3TkdkdmZ2ckdEbXBmMTI0Rzk0WVpJYjcwNkI2V2RfXzJTT3JFeEZFWGRWY09LMTMzUElaQ2JjSXhiTVNETzBlQ3l1a01aQV9tV0x1aU9OTUtCLVJWNHdlVDZuWW9RWkF6WVBpVmRNQ0pnZUY2eXJKVGNOY0h4VVVNOUFLVXd0WFFzd19VSHdmTDVkTkVZVHA2QXdwODhSWHRZdXJYNjE2VTVDTkJxUWc5RkU0OXJxTmxmSVg4bEZYaDBScTJPVUNzUXVrdWlIdmtR",
+        "time": "2026-08-26 19:38:23",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
+        "title": "張嘉郡訪台中綠美圖盧秀燕：交流提升中台灣文化生活品質| 地方 - cna.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Xai1QOTJwaDlucUcxZ1R5UXB4RXlRMWYxcVhKcV9yUXdwZXlFR0RIU2FaWTdrRUhsaWtFMVFEWXFDTEZHTVJWaUVRQXp1RGdQOGdYekJ6U3h6a0lORmtJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-26 19:03:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "張嘉郡打造雲林美術館 拜會盧秀燕取經綠美圖：讓城市發展有溫度 - 上報Up Media",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fLVpGY3VyQlpRREZBU2cyRjVVNHZGN0ZBQnVLQUpkVldZR0NIdUI2ZWhyNTNTY1VUMzhWZG5RZ0xGdWRfS0h2T0FxSllxd28xZkd6RzV6VGVnNXJOOVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-26 18:21:00",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "誰是真心為國防自主？週四立院無人機表決大戰？！ Ft.無人機專家aka碳基科技執行長 游沛文Stacy【#八范雲集】EP.44",
         "url": "https://www.youtube.com/watch?v=r3qGpb9llCM",
@@ -2121,27 +2179,6 @@
         "time": "2026-08-26 11:02:19",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "范雲委員親自開箱！超吸睛「洋流小物」,快來捐款認領你的市長沈伯洋！",
-        "url": "https://www.youtube.com/shorts/_dG2m5Bo5Qg",
-        "time": "2026-08-26 10:21:14",
-        "platform": "youtube",
-        "risk": "綠"
-      },
-      {
-        "title": "配合翁曉玲砍弱勢！張嘉郡買月餅救火 綠黨團轟：打完人才給糖吃 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPR05zZTRuTE5la0FELVVmd3RKWW9TQ2ExU0FaRkZ6NkNVcUEtRVY4WmttWTd2eldkNFZ6dXB0LVRZU3JLV3h2cjcyUkRMbHZnekppcVJxcTFqcWtpTWtpME5INzBOY2t5ZEdwSDZyRjV3VzRDYnlYZUQ3dk9CMU1uU09peUdjeTRQU2RZOWtOQWt5bUVOSTVSeGdGYnkxM2VyU01qSnZCXzlfbkg4YmNnTWdjQXZXRVRWLWR0RDVqYXVzWDFRWGhwczQxWFB0YmF6T2VjYktqeFZ2dXB3bUJ6OUJrOExIZU0zRG1YeWR3ZUs2VVJPckhlam5LNFI4MXpkMWVqeUZfUUhKZW1fbGQzU2hLTl9DU0NFRVczN0lrZExOWGRZQnZ4Z2gwQ09fMlEzU2c2OWV0cjJtekdza0JyREdLd1I3bmJONGlqUkZ6U2pjRmRBOHVEUmN2dXJObDlianBJWE9zVHV4NWh3WHhId1cyX1o5WEV4Qy12YlFRMUZaVzBrSm9zYm1yLTlxTWJ6ektpZVFnZjBVQ0IxcTNtMHJGai12amRnMlh2UHlfaGhHdDdsTVN4cA",
-        "time": "2026-08-26 09:34:05",
-        "platform": "facebook",
-        "risk": "綠"
-      },
-      {
-        "title": "雲林縣長選戰 張嘉郡、劉建國鴨子划水 - 中時新聞網",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kS29MWi0zNUpKLUJ5UFZzZmZRSXpEOWwtdkpiU1pWcGwyakk1RERXNVppNDI0dUNvT2JvZG1VM3QtcUZPdEZFT2I0UVpVVUFDQjh0YTREbDNzWllkSWlKZHc2YTdOSjhNa2Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-26 04:10:00",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2149,11 +2186,11 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 7
+        "count": 8
       },
       {
         "name": "台中",
-        "count": 3
+        "count": 4
       }
     ],
     "groups": []
