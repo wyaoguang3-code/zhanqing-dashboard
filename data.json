@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-08-31T06:55:49.985646+00:00",
+  "generated_at": "2026-08-31T07:11:33.355670+00:00",
   "metrics": {
-    "total_24h": 0,
+    "total_24h": 3,
     "prev_24h": 40,
-    "growth_pct": -100.0,
-    "news_24h": 0,
+    "growth_pct": -92.5,
+    "news_24h": 3,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 198,
-    "prev": 146,
-    "growth_pct": 35.62,
-    "news": 161,
+    "total": 196,
+    "prev": 151,
+    "growth_pct": 29.8,
+    "news": 160,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -25,26 +25,36 @@
       "reasons": []
     }
   },
-  "by_platform": [],
+  "by_platform": [
+    {
+      "platform": "news",
+      "count": 3
+    }
+  ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 161
+      "count": 160
     },
     {
       "platform": "facebook",
-      "count": 26
+      "count": 25
     },
     {
       "platform": "youtube",
       "count": 11
     }
   ],
-  "by_hour": [],
+  "by_hour": [
+    {
+      "hour": "2026-08-31 14:00",
+      "count": 3
+    }
+  ],
   "by_hour_7d": [
     {
       "hour": "2026-08-24 15:00",
-      "count": 6
+      "count": 1
     },
     {
       "hour": "2026-08-24 16:00",
@@ -349,22 +359,103 @@
     {
       "hour": "2026-08-30 10:00",
       "count": 1
+    },
+    {
+      "hour": "2026-08-31 14:00",
+      "count": 3
     }
   ],
-  "mention_by_platform_24h": [],
-  "mention_latest_by_platform_24h": {},
-  "alias_by_platform_24h": [],
-  "alias_latest_by_platform_24h": {},
+  "mention_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 3
+    }
+  ],
+  "mention_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "選舉登記首日水林展現團結氣勢 張嘉郡陪周資昀掃街 逾200人齊喊「凍蒜」 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2UTVaQkJxNi1tNUlzNWJJRV9xWGU1ZDFtd3B0TzlnbnRiamhmOEs3N0FlTnNMR19OSEhqM1ZvVkJlZFo2djNXSA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-31 14:31:28"
+      },
+      {
+        "title": "劉建國提出「高齡照顧全面升級」政策 讓雲林長輩健康呷百二 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQN0lZSGF6ZHBOWmE3MS1ieFB0eGdlSU5EVDNkbG5Yd0xTVUptSjFnQTFwY19CR1RXNnQ0TWNTSjFEZ2RBRzc3LXl3aDdzUEJLVFNmWmRoZ3NSUnV5R3F3bnF0WlJSSGlJNmtjZUVHbE5CU2hQamVsOVY3V1BmVTVqeUQ0RlMtWjZ5QmU2VjMzdkhzVTFZV2hGa3hRd2VpeXlKNnByckQwUXhHUTUtcWg1TlAtTHVfazRsY3QzbkdaempqZFR4c3pxb1dGM3I3eHVSdmdKSF94MC01eEpyRXY2TlJoRE00ZmJ2M1pxLVA1QjRBY2YzVkd2c0RVY2FsUFRORDVWM0E5b040UEpuY1poWWJZWGFSWmlkN29jLS1LbkV4U3RrcXc4V2x0cnlySlBNdVpkbUgzbGpycHlGd1AzMVNfR0hPZ3pZS1BaSVNBYktkVWV2VlBlUDktYmNSWFVtUjFtYTlwMjRpSkhfbWRTOXEzdTF6VVFRbFNwWFB6MDBCMnM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-31 14:26:08"
+      },
+      {
+        "title": "劉建國提高齡照顧全面升級 讓雲林長輩健康呷百二 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOSDlDb1BISF9LNld4VmQwYmtreW05d2ZPWFVkVGEzQVRZOEVZSHRqbHBXTkRidUNvcVhvQ3VrejZXMnotNmtzclVtU2RtNzBOUHVQWWh6NTNQWE4wREt6cnZhd1FVaVk4OWdHRVc2OFIwajkyQ1hGalNXeXJCVmhUZmE1aEMzOTdCaGpkYmtfVGJvdC1fZjBhenMyWFVHMFAyYV9XVUtXWnl4Tll3ZFU4bWlLaFBaYTVHWFp4bk9SWjFENGhoTFR6ZFF1NExodk00VWNWNHZ2QzJxSTAyZUptalVxOWVIenFXX1llNE00TThaTmNDUnV3bUMwT3ZoQUJFOVpRYXhmZ3Rsa24tSXBnYlZhQ2tBcTh3d2ViSU5TR25obl9OT2V4S0FCUl91OUlJMHIwX21lbGNqbnNnT0d4V19Xd2lRblZWQkFsMW1YTXdjZkxBVElRUUdnNFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-31 14:09:55"
+      }
+    ]
+  },
+  "alias_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 3
+    }
+  ],
+  "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "選舉登記首日水林展現團結氣勢 張嘉郡陪周資昀掃街 逾200人齊喊「凍蒜」 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2UTVaQkJxNi1tNUlzNWJJRV9xWGU1ZDFtd3B0TzlnbnRiamhmOEs3N0FlTnNMR19OSEhqM1ZvVkJlZFo2djNXSA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-31 14:31:28"
+      },
+      {
+        "title": "劉建國提出「高齡照顧全面升級」政策 讓雲林長輩健康呷百二 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQN0lZSGF6ZHBOWmE3MS1ieFB0eGdlSU5EVDNkbG5Yd0xTVUptSjFnQTFwY19CR1RXNnQ0TWNTSjFEZ2RBRzc3LXl3aDdzUEJLVFNmWmRoZ3NSUnV5R3F3bnF0WlJSSGlJNmtjZUVHbE5CU2hQamVsOVY3V1BmVTVqeUQ0RlMtWjZ5QmU2VjMzdkhzVTFZV2hGa3hRd2VpeXlKNnByckQwUXhHUTUtcWg1TlAtTHVfazRsY3QzbkdaempqZFR4c3pxb1dGM3I3eHVSdmdKSF94MC01eEpyRXY2TlJoRE00ZmJ2M1pxLVA1QjRBY2YzVkd2c0RVY2FsUFRORDVWM0E5b040UEpuY1poWWJZWGFSWmlkN29jLS1LbkV4U3RrcXc4V2x0cnlySlBNdVpkbUgzbGpycHlGd1AzMVNfR0hPZ3pZS1BaSVNBYktkVWV2VlBlUDktYmNSWFVtUjFtYTlwMjRpSkhfbWRTOXEzdTF6VVFRbFNwWFB6MDBCMnM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-31 14:26:08"
+      },
+      {
+        "title": "劉建國提高齡照顧全面升級 讓雲林長輩健康呷百二 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOSDlDb1BISF9LNld4VmQwYmtreW05d2ZPWFVkVGEzQVRZOEVZSHRqbHBXTkRidUNvcVhvQ3VrejZXMnotNmtzclVtU2RtNzBOUHVQWWh6NTNQWE4wREt6cnZhd1FVaVk4OWdHRVc2OFIwajkyQ1hGalNXeXJCVmhUZmE1aEMzOTdCaGpkYmtfVGJvdC1fZjBhenMyWFVHMFAyYV9XVUtXWnl4Tll3ZFU4bWlLaFBaYTVHWFp4bk9SWjFENGhoTFR6ZFF1NExodk00VWNWNHZ2QzJxSTAyZUptalVxOWVIenFXX1llNE00TThaTmNDUnV3bUMwT3ZoQUJFOVpRYXhmZ3Rsa24tSXBnYlZhQ2tBcTh3d2ViSU5TR25obl9OT2V4S0FCUl91OUlJMHIwX21lbGNqbnNnT0d4V19Xd2lRblZWQkFsMW1YTXdjZkxBVElRUUdnNFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-31 14:09:55"
+      }
+    ]
+  },
   "mention_compare_24h": {
-    "張嘉郡": 0,
-    "劉建國": 0
+    "張嘉郡": 1,
+    "劉建國": 2
   },
   "mention_compare_7d": {
-    "張嘉郡": 128,
-    "劉建國": 62
+    "張嘉郡": 124,
+    "劉建國": 64
   },
-  "top_news": [],
+  "top_news": [
+    {
+      "title": "選舉登記首日水林展現團結氣勢 張嘉郡陪周資昀掃街 逾200人齊喊「凍蒜」 - 台灣民眾電子報",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2UTVaQkJxNi1tNUlzNWJJRV9xWGU1ZDFtd3B0TzlnbnRiamhmOEs3N0FlTnNMR19OSEhqM1ZvVkJlZFo2djNXSA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-31 14:31:28"
+    },
+    {
+      "title": "劉建國提出「高齡照顧全面升級」政策 讓雲林長輩健康呷百二 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQN0lZSGF6ZHBOWmE3MS1ieFB0eGdlSU5EVDNkbG5Yd0xTVUptSjFnQTFwY19CR1RXNnQ0TWNTSjFEZ2RBRzc3LXl3aDdzUEJLVFNmWmRoZ3NSUnV5R3F3bnF0WlJSSGlJNmtjZUVHbE5CU2hQamVsOVY3V1BmVTVqeUQ0RlMtWjZ5QmU2VjMzdkhzVTFZV2hGa3hRd2VpeXlKNnByckQwUXhHUTUtcWg1TlAtTHVfazRsY3QzbkdaempqZFR4c3pxb1dGM3I3eHVSdmdKSF94MC01eEpyRXY2TlJoRE00ZmJ2M1pxLVA1QjRBY2YzVkd2c0RVY2FsUFRORDVWM0E5b040UEpuY1poWWJZWGFSWmlkN29jLS1LbkV4U3RrcXc4V2x0cnlySlBNdVpkbUgzbGpycHlGd1AzMVNfR0hPZ3pZS1BaSVNBYktkVWV2VlBlUDktYmNSWFVtUjFtYTlwMjRpSkhfbWRTOXEzdTF6VVFRbFNwWFB6MDBCMnM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-31 14:26:08"
+    },
+    {
+      "title": "劉建國提高齡照顧全面升級 讓雲林長輩健康呷百二 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOSDlDb1BISF9LNld4VmQwYmtreW05d2ZPWFVkVGEzQVRZOEVZSHRqbHBXTkRidUNvcVhvQ3VrejZXMnotNmtzclVtU2RtNzBOUHVQWWh6NTNQWE4wREt6cnZhd1FVaVk4OWdHRVc2OFIwajkyQ1hGalNXeXJCVmhUZmE1aEMzOTdCaGpkYmtfVGJvdC1fZjBhenMyWFVHMFAyYV9XVUtXWnl4Tll3ZFU4bWlLaFBaYTVHWFp4bk9SWjFENGhoTFR6ZFF1NExodk00VWNWNHZ2QzJxSTAyZUptalVxOWVIenFXX1llNE00TThaTmNDUnV3bUMwT3ZoQUJFOVpRYXhmZ3Rsa24tSXBnYlZhQ2tBcTh3d2ViSU5TR25obl9OT2V4S0FCUl91OUlJMHIwX21lbGNqbnNnT0d4V19Xd2lRblZWQkFsMW1YTXdjZkxBVElRUUdnNFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-31 14:09:55"
+    }
+  ],
   "top_news_7d": [
+    {
+      "title": "選舉登記首日水林展現團結氣勢 張嘉郡陪周資昀掃街 逾200人齊喊「凍蒜」 - 台灣民眾電子報",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2UTVaQkJxNi1tNUlzNWJJRV9xWGU1ZDFtd3B0TzlnbnRiamhmOEs3N0FlTnNMR19OSEhqM1ZvVkJlZFo2djNXSA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-31 14:31:28"
+    },
+    {
+      "title": "劉建國提出「高齡照顧全面升級」政策 讓雲林長輩健康呷百二 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQN0lZSGF6ZHBOWmE3MS1ieFB0eGdlSU5EVDNkbG5Yd0xTVUptSjFnQTFwY19CR1RXNnQ0TWNTSjFEZ2RBRzc3LXl3aDdzUEJLVFNmWmRoZ3NSUnV5R3F3bnF0WlJSSGlJNmtjZUVHbE5CU2hQamVsOVY3V1BmVTVqeUQ0RlMtWjZ5QmU2VjMzdkhzVTFZV2hGa3hRd2VpeXlKNnByckQwUXhHUTUtcWg1TlAtTHVfazRsY3QzbkdaempqZFR4c3pxb1dGM3I3eHVSdmdKSF94MC01eEpyRXY2TlJoRE00ZmJ2M1pxLVA1QjRBY2YzVkd2c0RVY2FsUFRORDVWM0E5b040UEpuY1poWWJZWGFSWmlkN29jLS1LbkV4U3RrcXc4V2x0cnlySlBNdVpkbUgzbGpycHlGd1AzMVNfR0hPZ3pZS1BaSVNBYktkVWV2VlBlUDktYmNSWFVtUjFtYTlwMjRpSkhfbWRTOXEzdTF6VVFRbFNwWFB6MDBCMnM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-31 14:26:08"
+    },
+    {
+      "title": "劉建國提高齡照顧全面升級 讓雲林長輩健康呷百二 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOSDlDb1BISF9LNld4VmQwYmtreW05d2ZPWFVkVGEzQVRZOEVZSHRqbHBXTkRidUNvcVhvQ3VrejZXMnotNmtzclVtU2RtNzBOUHVQWWh6NTNQWE4wREt6cnZhd1FVaVk4OWdHRVc2OFIwajkyQ1hGalNXeXJCVmhUZmE1aEMzOTdCaGpkYmtfVGJvdC1fZjBhenMyWFVHMFAyYV9XVUtXWnl4Tll3ZFU4bWlLaFBaYTVHWFp4bk9SWjFENGhoTFR6ZFF1NExodk00VWNWNHZ2QzJxSTAyZUptalVxOWVIenFXX1llNE00TThaTmNDUnV3bUMwT3ZoQUJFOVpRYXhmZ3Rsa24tSXBnYlZhQ2tBcTh3d2ViSU5TR25obl9OT2V4S0FCUl91OUlJMHIwX21lbGNqbnNnT0d4V19Xd2lRblZWQkFsMW1YTXdjZkxBVElRUUdnNFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-31 14:09:55"
+    },
     {
       "title": "高齡多重用藥成隱憂 劉建國促藥師深入社區守護長輩健康 | 觀傳媒 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YZEJHcXlsaTB4M0VHcmJON2d2aFZTM0RnaTNERFdFaXgzTy1jcUxGXzhydFJyLXpvdHhRbGxfWlptekZMYjFJR3lReGYwVy1EVFcxdGNB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -449,21 +540,6 @@
       "title": "張嘉郡拋高齡友善藥局政見 敬老卡點數盼進社區藥局 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EeHRZeW9jeEtiMXZqRXY4LXhKNkhoX2tVN1lBNGxiVVNfM0l2OFEtNDJaRmZxRHZLU1FLeVIxcHEyaHBiUkZRTVRLNi01YW02QWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-29 21:24:00"
-    },
-    {
-      "title": "雲林人口高齡化！張嘉郡推「高齡友善藥局」：敬老卡點數可在社區藥局使用 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNTEpoYlkya0VjeUNDSXZ3UFNaM2w0dXVqOE5nakdtV0NZbkxhMUM1S2RIMkxaUjllSmM0VXpXcng5WGxScHo0QTZhampyaktOX3ZFQmc3SnV0UTNoR2x5aHZEVzBYUlNBUmtCaFBxOEE5aklCeTdiM3hfWXRpS1l3cDY0VjJCN0Q3VEt3ZWFXYU9ZOGh0eG1RQm1NOFI5Y1FsekdWXzlEOTU0N1NEMUZCazFZWDR1cU5xSllBNnFMY2VyUjNVWkpydzhhazRDME1BSVhxNFhsZTRiVHRDWDlTUnpZczR2V2dCS2RQeHBWOTdBQjdlNE1TVVo5cVdNdW9RRmxFQnBoWUk4N3c5MThjYTYtWDloa0hhM0tGUnNfQ1dJMkV1VGlsRTZEd1VDejlNZG1xWDRqSERWSTQ3YW03aVQ0TEVBeUgwREl3YVF2R2gwU2lPWTFpT2tPSHJKejJYTlA3OS10TkJublpOR3pYOEhhWHBqYmRrMzhsMnZsR19BSG01UFdFblRiNXdYbjRpT2p0U2tQb3ZZaS1UQkVramFLdXk2ZkFBMFMxdmp4OTh3bGNRNFluMHE5OU56bkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-29 20:51:52"
-    },
-    {
-      "title": "雲林人口高齡化！張嘉郡推「高齡友善藥局」：敬老卡點數可在社區藥局使用 - 中天新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Ec2RSQThNOV9tMm9pRWxTdUxvYWRXMkRHYzlmRzVIQUpBbXp2TjRiSkFJQml0eUF1NEJQNTZDT1RDSkJlaV8temZsUW12MnNVZHEw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-29 20:51:52"
-    },
-    {
-      "title": "深耕地方藥事照護！劉建國籲串聯醫院、社區、家庭打造雲林高齡安全網 - 三星傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrQzdpOUZUaVlkdVVad0NxZVlUMlBnbFI3ZU55SXkxdFNTak9ON0VzcVVWZjlpbjlQZUtJSDlqWkpQb2g1bzFTQ1Y5aUFmNEh3ZEI5Wl9mZzZzbmVjbGVUNWx3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-29 19:54:34"
     }
   ],
   "latest_facebook_20": [
@@ -570,6 +646,21 @@
   ],
   "latest_news_20": [
     {
+      "title": "選舉登記首日水林展現團結氣勢 張嘉郡陪周資昀掃街 逾200人齊喊「凍蒜」 - 台灣民眾電子報",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2UTVaQkJxNi1tNUlzNWJJRV9xWGU1ZDFtd3B0TzlnbnRiamhmOEs3N0FlTnNMR19OSEhqM1ZvVkJlZFo2djNXSA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-31 14:31:28"
+    },
+    {
+      "title": "劉建國提出「高齡照顧全面升級」政策 讓雲林長輩健康呷百二 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQN0lZSGF6ZHBOWmE3MS1ieFB0eGdlSU5EVDNkbG5Yd0xTVUptSjFnQTFwY19CR1RXNnQ0TWNTSjFEZ2RBRzc3LXl3aDdzUEJLVFNmWmRoZ3NSUnV5R3F3bnF0WlJSSGlJNmtjZUVHbE5CU2hQamVsOVY3V1BmVTVqeUQ0RlMtWjZ5QmU2VjMzdkhzVTFZV2hGa3hRd2VpeXlKNnByckQwUXhHUTUtcWg1TlAtTHVfazRsY3QzbkdaempqZFR4c3pxb1dGM3I3eHVSdmdKSF94MC01eEpyRXY2TlJoRE00ZmJ2M1pxLVA1QjRBY2YzVkd2c0RVY2FsUFRORDVWM0E5b040UEpuY1poWWJZWGFSWmlkN29jLS1LbkV4U3RrcXc4V2x0cnlySlBNdVpkbUgzbGpycHlGd1AzMVNfR0hPZ3pZS1BaSVNBYktkVWV2VlBlUDktYmNSWFVtUjFtYTlwMjRpSkhfbWRTOXEzdTF6VVFRbFNwWFB6MDBCMnM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-31 14:26:08"
+    },
+    {
+      "title": "劉建國提高齡照顧全面升級 讓雲林長輩健康呷百二 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOSDlDb1BISF9LNld4VmQwYmtreW05d2ZPWFVkVGEzQVRZOEVZSHRqbHBXTkRidUNvcVhvQ3VrejZXMnotNmtzclVtU2RtNzBOUHVQWWh6NTNQWE4wREt6cnZhd1FVaVk4OWdHRVc2OFIwajkyQ1hGalNXeXJCVmhUZmE1aEMzOTdCaGpkYmtfVGJvdC1fZjBhenMyWFVHMFAyYV9XVUtXWnl4Tll3ZFU4bWlLaFBaYTVHWFp4bk9SWjFENGhoTFR6ZFF1NExodk00VWNWNHZ2QzJxSTAyZUptalVxOWVIenFXX1llNE00TThaTmNDUnV3bUMwT3ZoQUJFOVpRYXhmZ3Rsa24tSXBnYlZhQ2tBcTh3d2ViSU5TR25obl9OT2V4S0FCUl91OUlJMHIwX21lbGNqbnNnT0d4V19Xd2lRblZWQkFsMW1YTXdjZkxBVElRUUdnNFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-08-31 14:09:55"
+    },
+    {
       "title": "高齡多重用藥成隱憂 劉建國促藥師深入社區守護長輩健康 | 觀傳媒 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YZEJHcXlsaTB4M0VHcmJON2d2aFZTM0RnaTNERFdFaXgzTy1jcUxGXzhydFJyLXpvdHhRbGxfWlptekZMYjFJR3lReGYwVy1EVFcxdGNB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-30 10:23:22"
@@ -653,21 +744,6 @@
       "title": "張嘉郡拋高齡友善藥局政見 敬老卡點數盼進社區藥局 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EeHRZeW9jeEtiMXZqRXY4LXhKNkhoX2tVN1lBNGxiVVNfM0l2OFEtNDJaRmZxRHZLU1FLeVIxcHEyaHBiUkZRTVRLNi01YW02QWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-08-29 21:24:00"
-    },
-    {
-      "title": "雲林人口高齡化！張嘉郡推「高齡友善藥局」：敬老卡點數可在社區藥局使用 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNTEpoYlkya0VjeUNDSXZ3UFNaM2w0dXVqOE5nakdtV0NZbkxhMUM1S2RIMkxaUjllSmM0VXpXcng5WGxScHo0QTZhampyaktOX3ZFQmc3SnV0UTNoR2x5aHZEVzBYUlNBUmtCaFBxOEE5aklCeTdiM3hfWXRpS1l3cDY0VjJCN0Q3VEt3ZWFXYU9ZOGh0eG1RQm1NOFI5Y1FsekdWXzlEOTU0N1NEMUZCazFZWDR1cU5xSllBNnFMY2VyUjNVWkpydzhhazRDME1BSVhxNFhsZTRiVHRDWDlTUnpZczR2V2dCS2RQeHBWOTdBQjdlNE1TVVo5cVdNdW9RRmxFQnBoWUk4N3c5MThjYTYtWDloa0hhM0tGUnNfQ1dJMkV1VGlsRTZEd1VDejlNZG1xWDRqSERWSTQ3YW03aVQ0TEVBeUgwREl3YVF2R2gwU2lPWTFpT2tPSHJKejJYTlA3OS10TkJublpOR3pYOEhhWHBqYmRrMzhsMnZsR19BSG01UFdFblRiNXdYbjRpT2p0U2tQb3ZZaS1UQkVramFLdXk2ZkFBMFMxdmp4OTh3bGNRNFluMHE5OU56bkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-29 20:51:52"
-    },
-    {
-      "title": "雲林人口高齡化！張嘉郡推「高齡友善藥局」：敬老卡點數可在社區藥局使用 - 中天新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Ec2RSQThNOV9tMm9pRWxTdUxvYWRXMkRHYzlmRzVIQUpBbXp2TjRiSkFJQml0eUF1NEJQNTZDT1RDSkJlaV8temZsUW12MnNVZHEw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-29 20:51:52"
-    },
-    {
-      "title": "深耕地方藥事照護！劉建國籲串聯醫院、社區、家庭打造雲林高齡安全網 - 三星傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrQzdpOUZUaVlkdVVad0NxZVlUMlBnbFI3ZU55SXkxdFNTak9ON0VzcVVWZjlpbjlQZUtJSDlqWkpQb2g1bzFTQ1Y5aUFmNEh3ZEI5Wl9mZzZzbmVjbGVUNWx3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-08-29 19:54:34"
     }
   ],
   "person_sections": {
@@ -776,6 +852,11 @@
       ],
       "news": [
         {
+          "title": "選舉登記首日水林展現團結氣勢 張嘉郡陪周資昀掃街 逾200人齊喊「凍蒜」 - 台灣民眾電子報",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2UTVaQkJxNi1tNUlzNWJJRV9xWGU1ZDFtd3B0TzlnbnRiamhmOEs3N0FlTnNMR19OSEhqM1ZvVkJlZFo2djNXSA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-31 14:31:28"
+        },
+        {
           "title": "雲林 張嘉郡力推高齡友善藥局 劉建國拚打造照護安全網 - 中時新聞網",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2UkNWcDdGbDk3cU11TURzOW1sVjQ0WUUtdnVYNFpCdkNrTTAxTmdETVc2ZnBCUmJMX1VfcC1qOFE1ZzJCU1FnZG1RWFFXWEctd1BrdUUtOS1YRjZkVWFQNEozVXItRm9rWGo4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-30 04:10:00"
@@ -868,11 +949,6 @@
         {
           "title": "敬老卡點數也要能藥局用！張嘉郡推「高齡友善藥局」政策 打造雲林高齡照護網 - 上報Up Media",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByd0V4NHdoVE1BRV9qY2wybWY3VVNBS2NPcjN6UDQ0U1NMemticmFOcEdBRFZrTWluZEkyeWFxa09obUM0OGgwLVBZamswMmpRMHU5ZFo1b0stVmwzSHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-29 17:50:00"
-        },
-        {
-          "title": "敬老卡點數也要能藥局用！張嘉郡推「高齡友善藥局」政策 打造雲林高齡照護網 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNNG5zbkZJV29vN0ZZbXJlak9XWW1UU0lmZmNzSzRaQ1g2cG45TUFBT0MyUkNQVWtQRDNJa3ZlaHlKV2pwRXhJazgtZWIyWDdBS3dyRlZSMFAwb0RVVlJ0YjNYY09Sa3Bmd1o2OUpvWHEzbzBCTVZNMUV3Mkk3YWdoNER5dVJIWlZFb3I1UmIxeEhWUkRxY3pxb2drVmtyUjNWM0I1VzN4cnU2Tl9UUVNUQzM3LVo4a1EwcFJKTTNnU2tDVTEtU3JjYy1CUVh4ZG9qYm43LWpLOEw5TnJYSUoyVkJ6aWdxTU80cnBvME5PT0RTTUxzb090M0toZ0Z0LUEyUk1ITEUwS2hvZ2Ytb1lwVlFVckgzS2pIN29qZUlSMF9pb1J5ODA3TW5oanZycVFXdVhkdk1fWlY3Slp3Mkw2aF9YMTlaY3BQbW9OVXRid21JZnVmenJYcnNoSzU5c3FlS0xxSjJfWWtuNWFtcWxDbUxPWnpsTlVqQ0p5NmlvNlhKcE95N0VhM1lBZkNOTmdHd1M4VkFWN3R6Tnh6UU5xX2FOc1RKWGlHMnJveVRIQklnTnpmdXpjbFJWSmlhY0xGY0hHTTVsVkpMZm1wRXVHcjdaYXpYUWxY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-29 17:50:00"
         }
       ]
@@ -982,6 +1058,16 @@
       ],
       "news": [
         {
+          "title": "劉建國提出「高齡照顧全面升級」政策 讓雲林長輩健康呷百二 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQN0lZSGF6ZHBOWmE3MS1ieFB0eGdlSU5EVDNkbG5Yd0xTVUptSjFnQTFwY19CR1RXNnQ0TWNTSjFEZ2RBRzc3LXl3aDdzUEJLVFNmWmRoZ3NSUnV5R3F3bnF0WlJSSGlJNmtjZUVHbE5CU2hQamVsOVY3V1BmVTVqeUQ0RlMtWjZ5QmU2VjMzdkhzVTFZV2hGa3hRd2VpeXlKNnByckQwUXhHUTUtcWg1TlAtTHVfazRsY3QzbkdaempqZFR4c3pxb1dGM3I3eHVSdmdKSF94MC01eEpyRXY2TlJoRE00ZmJ2M1pxLVA1QjRBY2YzVkd2c0RVY2FsUFRORDVWM0E5b040UEpuY1poWWJZWGFSWmlkN29jLS1LbkV4U3RrcXc4V2x0cnlySlBNdVpkbUgzbGpycHlGd1AzMVNfR0hPZ3pZS1BaSVNBYktkVWV2VlBlUDktYmNSWFVtUjFtYTlwMjRpSkhfbWRTOXEzdTF6VVFRbFNwWFB6MDBCMnM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-31 14:26:08"
+        },
+        {
+          "title": "劉建國提高齡照顧全面升級 讓雲林長輩健康呷百二 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOSDlDb1BISF9LNld4VmQwYmtreW05d2ZPWFVkVGEzQVRZOEVZSHRqbHBXTkRidUNvcVhvQ3VrejZXMnotNmtzclVtU2RtNzBOUHVQWWh6NTNQWE4wREt6cnZhd1FVaVk4OWdHRVc2OFIwajkyQ1hGalNXeXJCVmhUZmE1aEMzOTdCaGpkYmtfVGJvdC1fZjBhenMyWFVHMFAyYV9XVUtXWnl4Tll3ZFU4bWlLaFBaYTVHWFp4bk9SWjFENGhoTFR6ZFF1NExodk00VWNWNHZ2QzJxSTAyZUptalVxOWVIenFXX1llNE00TThaTmNDUnV3bUMwT3ZoQUJFOVpRYXhmZ3Rsa24tSXBnYlZhQ2tBcTh3d2ViSU5TR25obl9OT2V4S0FCUl91OUlJMHIwX21lbGNqbnNnT0d4V19Xd2lRblZWQkFsMW1YTXdjZkxBVElRUUdnNFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-08-31 14:09:55"
+        },
+        {
           "title": "高齡多重用藥成隱憂 劉建國促藥師深入社區守護長輩健康 | 觀傳媒 - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YZEJHcXlsaTB4M0VHcmJON2d2aFZTM0RnaTNERFdFaXgzTy1jcUxGXzhydFJyLXpvdHhRbGxfWlptekZMYjFJR3lReGYwVy1EVFcxdGNB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-30 10:23:22"
@@ -1070,23 +1156,46 @@
           "title": "雲林農損949公頃！水林鄉地瓜災情浮現 劉建國、張嘉郡勘災 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPbVR6a3A3ZjJBMFZwbl9mdE1teHNmYzcyb1liTXhON0Q5RkZ5ZDRJYTB5LVlLQ1VjRzJpNGhsc2kzOVc3OXlDc0J3X3BiOGt1d2ZlNUVoUFVvdkxwWUVaUWNLWGswU244WUpCRVZQR0s0LWZXSm5JWTdrY3hidzhrZjVrMndCdjNPSFQ0SmZmT252VDBCaWtlMWxUN0lfOWV6TW5OZ3FQdmdoczZ1TlBXX2NENjA5LWFGM3c0NmlGejZ1UXRRZ2FINW9WWjNWNWlZdGE2aU05U0E5QmtuT3c4R1pJQ3dQMGRhbWRWWXNoaEhTVFZCMFU3VVhUNThxTnNPMGZUSncxQ1d5R21YTHFaRElKVXlfLTJ2aHhOSXl0SktKaERlbDJ0YVhBcndOYjlDMjF1UmRlMHRFRnpKR296RlhadmxHWHVtQTljcU5Nb3dkRG1VM2U4U3FiMDRIV21vZ1kxY29VOVFScEVRbjg4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-28 16:36:22"
-        },
-        {
-          "title": "雲林農損949公頃！水林鄉地瓜災情浮現劉建國、張嘉郡勘災- 生活 - 自由時報",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGOWtkSkJMUUZsMzlla0ZOZ0h3eVdncDdzSG5tRUpob3BucElEUjJ3UVF5T2ZnYndERUVUM1lSenJ3T3NhajlacHBvaS1lbXd4bzhEYmdKVGxHc0s1a2xoUTIyMnA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-28 16:36:22"
-        },
-        {
-          "title": "西瓜南瓜青蔥接連受災 劉建國會同農糧署加速爭取災害救助 - 觀傳媒",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fWmdFbk9TRm5rUV9wcWdZeG0xQ1ZUYnZrU1dNaGFuTUVSYXY1RkREelZYUE1pTWhlSGpLc3NGNnc3OHZWa0lrd2VScmVoWTFVQy1sZmMwRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-28 16:30:40"
         }
       ]
     }
   },
-  "latest_by_platform_24h": {},
+  "latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "選舉登記首日水林展現團結氣勢 張嘉郡陪周資昀掃街 逾200人齊喊「凍蒜」 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2UTVaQkJxNi1tNUlzNWJJRV9xWGU1ZDFtd3B0TzlnbnRiamhmOEs3N0FlTnNMR19OSEhqM1ZvVkJlZFo2djNXSA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-31 14:31:28"
+      },
+      {
+        "title": "劉建國提出「高齡照顧全面升級」政策 讓雲林長輩健康呷百二 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQN0lZSGF6ZHBOWmE3MS1ieFB0eGdlSU5EVDNkbG5Yd0xTVUptSjFnQTFwY19CR1RXNnQ0TWNTSjFEZ2RBRzc3LXl3aDdzUEJLVFNmWmRoZ3NSUnV5R3F3bnF0WlJSSGlJNmtjZUVHbE5CU2hQamVsOVY3V1BmVTVqeUQ0RlMtWjZ5QmU2VjMzdkhzVTFZV2hGa3hRd2VpeXlKNnByckQwUXhHUTUtcWg1TlAtTHVfazRsY3QzbkdaempqZFR4c3pxb1dGM3I3eHVSdmdKSF94MC01eEpyRXY2TlJoRE00ZmJ2M1pxLVA1QjRBY2YzVkd2c0RVY2FsUFRORDVWM0E5b040UEpuY1poWWJZWGFSWmlkN29jLS1LbkV4U3RrcXc4V2x0cnlySlBNdVpkbUgzbGpycHlGd1AzMVNfR0hPZ3pZS1BaSVNBYktkVWV2VlBlUDktYmNSWFVtUjFtYTlwMjRpSkhfbWRTOXEzdTF6VVFRbFNwWFB6MDBCMnM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-31 14:26:08"
+      },
+      {
+        "title": "劉建國提高齡照顧全面升級 讓雲林長輩健康呷百二 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOSDlDb1BISF9LNld4VmQwYmtreW05d2ZPWFVkVGEzQVRZOEVZSHRqbHBXTkRidUNvcVhvQ3VrejZXMnotNmtzclVtU2RtNzBOUHVQWWh6NTNQWE4wREt6cnZhd1FVaVk4OWdHRVc2OFIwajkyQ1hGalNXeXJCVmhUZmE1aEMzOTdCaGpkYmtfVGJvdC1fZjBhenMyWFVHMFAyYV9XVUtXWnl4Tll3ZFU4bWlLaFBaYTVHWFp4bk9SWjFENGhoTFR6ZFF1NExodk00VWNWNHZ2QzJxSTAyZUptalVxOWVIenFXX1llNE00TThaTmNDUnV3bUMwT3ZoQUJFOVpRYXhmZ3Rsa24tSXBnYlZhQ2tBcTh3d2ViSU5TR25obl9OT2V4S0FCUl91OUlJMHIwX21lbGNqbnNnT0d4V19Xd2lRblZWQkFsMW1YTXdjZkxBVElRUUdnNFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-31 14:09:55"
+      }
+    ]
+  },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "選舉登記首日水林展現團結氣勢 張嘉郡陪周資昀掃街 逾200人齊喊「凍蒜」 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2UTVaQkJxNi1tNUlzNWJJRV9xWGU1ZDFtd3B0TzlnbnRiamhmOEs3N0FlTnNMR19OSEhqM1ZvVkJlZFo2djNXSA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-31 14:31:28"
+      },
+      {
+        "title": "劉建國提出「高齡照顧全面升級」政策 讓雲林長輩健康呷百二 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQN0lZSGF6ZHBOWmE3MS1ieFB0eGdlSU5EVDNkbG5Yd0xTVUptSjFnQTFwY19CR1RXNnQ0TWNTSjFEZ2RBRzc3LXl3aDdzUEJLVFNmWmRoZ3NSUnV5R3F3bnF0WlJSSGlJNmtjZUVHbE5CU2hQamVsOVY3V1BmVTVqeUQ0RlMtWjZ5QmU2VjMzdkhzVTFZV2hGa3hRd2VpeXlKNnByckQwUXhHUTUtcWg1TlAtTHVfazRsY3QzbkdaempqZFR4c3pxb1dGM3I3eHVSdmdKSF94MC01eEpyRXY2TlJoRE00ZmJ2M1pxLVA1QjRBY2YzVkd2c0RVY2FsUFRORDVWM0E5b040UEpuY1poWWJZWGFSWmlkN29jLS1LbkV4U3RrcXc4V2x0cnlySlBNdVpkbUgzbGpycHlGd1AzMVNfR0hPZ3pZS1BaSVNBYktkVWV2VlBlUDktYmNSWFVtUjFtYTlwMjRpSkhfbWRTOXEzdTF6VVFRbFNwWFB6MDBCMnM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-31 14:26:08"
+      },
+      {
+        "title": "劉建國提高齡照顧全面升級 讓雲林長輩健康呷百二 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOSDlDb1BISF9LNld4VmQwYmtreW05d2ZPWFVkVGEzQVRZOEVZSHRqbHBXTkRidUNvcVhvQ3VrejZXMnotNmtzclVtU2RtNzBOUHVQWWh6NTNQWE4wREt6cnZhd1FVaVk4OWdHRVc2OFIwajkyQ1hGalNXeXJCVmhUZmE1aEMzOTdCaGpkYmtfVGJvdC1fZjBhenMyWFVHMFAyYV9XVUtXWnl4Tll3ZFU4bWlLaFBaYTVHWFp4bk9SWjFENGhoTFR6ZFF1NExodk00VWNWNHZ2QzJxSTAyZUptalVxOWVIenFXX1llNE00TThaTmNDUnV3bUMwT3ZoQUJFOVpRYXhmZ3Rsa24tSXBnYlZhQ2tBcTh3d2ViSU5TR25obl9OT2V4S0FCUl91OUlJMHIwX21lbGNqbnNnT0d4V19Xd2lRblZWQkFsMW1YTXdjZkxBVElRUUdnNFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-31 14:09:55"
+      },
       {
         "title": "高齡多重用藥成隱憂 劉建國促藥師深入社區守護長輩健康 | 觀傳媒 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YZEJHcXlsaTB4M0VHcmJON2d2aFZTM0RnaTNERFdFaXgzTy1jcUxGXzhydFJyLXpvdHhRbGxfWlptekZMYjFJR3lReGYwVy1EVFcxdGNB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1271,21 +1380,6 @@
         "title": "深耕地方藥事照護 劉建國：串起醫院、社區、家庭 打造雲林高齡照護安全網 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPSk9tcGREdWtXQXVwRnczaFFNWlFzdWZGWVd2NVBVTEZaZjNzX0NnVmRaeG5fd3ZtZHVrNEl2WmNVMjFZemF1ZEZfc1JZRXkyT2lmQ0VCWnNNdl9IWTZQY0p6aV9BcmxUZndHdXVsdEpSNUZhTk5Rd0piWWR1UlI3bGN6RmFJN25obC1FSi1aWWExMWlnYWNrS2lIdFlES2ZERWtOLUFIQ05jWU1MYzN6eWhSRk1YaWRxSV9SaGk1ZF91NW5CMjZuTXVOVzMtZHlJblUzTVJCQkFDNzU5V0VhVUpqSHJIM0ZPc3o5SXZ0WjJ2UnFrUFdyUFlkTE1rSmF5eGdET0R5MmZHVkVUNnNkR21iYUZBczhCY1pRVF9uUzlmZld5ZUFHRDRPUk5qTWNEeFhaWFVya093MmZh?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-29 15:44:11"
-      },
-      {
-        "title": "張嘉郡拋「高齡友善藥局」政策 敬老卡點數可在社區藥局使用 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQTUtVZ21IQzFyenktb2x4Qll1bWpEZ0R0S2NuU0FaMlFYRmdSSmhqcGJXNi1ySXJLZlJabHQtQzI2aVVOTlMyVVY4WWNqd0xIMndVWk5jN0Fnc25aSGEwcU4wQzkwOW5zYjlEaFJXZlpIX0FpOGJNN2RjR0NGU2Y0TEtEXzYwOVREU3BHQmJuUlVpVEJydDdNZFdaeHh4ZjNNbEJPLVZxWUJDSF9rWTFYRVE5UmZzMDRWWmYxek9mQ044X1ZDRl83SDJIcFlwb2wtdFdhendteEgtUFBKbGMxb1pBMC1kM2hpRnNrcThtc1lwNmJFdjJwZnhBdjFSRFZidFg5dDU3VGZtYUFlTkl6OFl6V2w5MHlrTG1yLUtHdTlvSkxSRC1mSzh3d2tOUW1vMnNURktXM25Va2Jzb1kyUU5MWkt2RkRXUEZ6dUhsRGlfQ2pnMjJtQzloa0hEa2JlRGFrRlFTUEhiRWJxek1nYU9qRFNQdVJMUlVzdzBQaXBYNVk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-29 14:48:08"
-      },
-      {
-        "title": "豪雨造成雲林農損 張嘉郡赴水林、北港、土庫勘災 籲天災救助從速、從寬、從簡 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNTnl0ZllHN19JNnREcVY5OEh6STBsT3pkTzBxMGkyTWRLY2tmd3gwRHp3WjhMQ1FpS2s0bkVtSUNEMWFkQWpJaXFocHliN3g4VzF3MnF2QnJ1MzQyZGdSekxxVlVhM0xveE1ybktOTkZwdjJhTXRLUVd1dFp6NjZ3aHprOFhWTXd1STF6V2VKNFZ1eHo5V0pCWmxRZDVFN3JOaXQ3R1NiZkp3dDhFSWxfOGpLTkdkc1EwTHB5M3NQbExGS01MUjVPSVVJVUdYZ1ZFdjBIaEdiQVF4NGFoUnNLeFhhMnktZ0E2SGpoamRXSzBMQ3N6b2pmX1E2SER4N3lzWGlST25DM0lCYThoOEk5dlIwR3E5Z1F1OU1LOE10QW5pREtfLVhhLVlmNHBvb0hZblNxejhYcUEyNXZtcjhKUEJFYTRSNWtNcVpQODZpNnc3N1lJY2ZrNHJnbWlrblUyVkZITlJNaExFZFZUUWFlUTBDd1l6VmszQzJ0T3R6OUVsRlBqOFR5U0hVSGVZZjVQTWtEb1FlOFhrUTRm?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-29 13:42:30"
-      },
-      {
-        "title": "台男困阿布達比返台「親謝劉建國」 網友不買帳 - 台視全球資訊網",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9faXJTUzdFYlRWaElURC1mYUh5OHpNRURuUE1ma3ZaN2dkZWRpUUxrRUQwU2s0RWpkQkMySnVOaUVUbTJwN0g3YkJoTFBVRTRyRVZFUFdydGQzekxQWHZ2MWNNSUUxaFdacXVXNUNJXy1GcTBoMnV2bDU2ZEg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-29 08:07:21"
       }
     ],
     "facebook": [
@@ -1413,11 +1507,6 @@
         "title": "💚 好消息報給大家知道！雲林要換新的垃圾車了！ 建國幫大家爭取、追蹤已久的案子，終於有好消息啦！ 環境部這次核定補助雲林縣「#換購低碳垃圾車」計畫，一口氣要幫我們換掉 6 台垃圾車！ 📍本次換購垃圾車鄉鎮市有： 斗六市、大埤鄉、臺西鄉、西螺鎮、莿桐鄉、古 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMihAhBVV95cUxQaEczOUFSNENpVjdXbW1DdTF4VXU3NUoyU3hNR1JYYVlGN1lhZE01OXFIa3h2OE9naWM2dEt4eVhrNldrN3dDQUoxckJPaHFhQ3h3VEFQN05RT2dHVGFlbENUUjljZWZsWW9JUXpodEFWYU8yb1dMNUd5Q3AzYlJIYlg5RnBFVDRzV0MzcU9jbjFSNWIzeG1VdmlvMC15anhPeVpEelZYWXVueUlpZUFlNmxTMGFsYno3Q214MTZ0dm1GMy0tT3pTVjhxczZ5LW5yTHMydHU1N3J2bnpPTXRmdXRIMFFkeDl2UU9EeUdSY0xhOTI0ZlNRNDcxNmZwb3ZNSFJULW55dVZQR3dBZkdOZENYd2xzd25MSGVpbDJtN0ZlREp6QXRyc2xUNlhBUHRTVmhVOTBoRWJsdjRiZ051cW5za1J0STY5RlN1bXNHNlA2WEZvZWlvUUVuRXFTekxYOEFCdHFqSUpjOGF3NGNJWGl3QWZRU1JHT0VIQkY2cHRZalNTeXZEdF9kNENOUlV0Z1dlbzRta1VVZGJFdk5ieVdDTFhRSmpuRzlsZW4tTDhwMkgtMk1kR0hxVGlENGNtVW9DR0ZCWC0ybzVHdlVzS3FIU012Qlk3YkNwNE5Ya2ZVVHhfZDg2bEZULVRFOEJBWXp0MUE1QTdOMWg0MlRnSnZoc3FkRmZQYW5uT3l1VmdrRldXS1NYMXR2U1Zzemw4dnE2dzJkbE9BSlpLZWVBVlNUZk5RZWZpZmpKSy0tS29CZFVBVGduaDJKMERYQ3BFZk9oYkk4X096S2RTM2NRQW1Ca0NmWnBjc2hFcmJOTVVhRTJXWUVhR2VVd2NhZ0Fpb1diVnFlTnI1VzJyYW5aU1VpUzFNbmNPY24xUzNxT1ZtUkUyTUYwUzVLQXVPa24zNFkyU2xjNzV5VUw0SkRkWDl1RXNZSGtaS0JfZGZhLW41RGhibEtZaG5CMDA1RllPbW5rdDRFUWJ0OGE0cDNzOGF3X2FXdEdoZWUzdl9DQ2stMmVYb3ZVeWNKdkVLUjhaaVAycGg0aW1VUjNVYTlVSVpXa0szbVNWTTVjQkR1ZjQ3aUZPc21IRVZmRkNfZWNNUDRuT0VKU3huaXpuSlFCZXcyMWxqN0NuRTFpLUZaQWVvLWFJa1pFXzVvTkNFcW9OTzdVZFNhNXBEMV91RGxGMER1N1lKdk1UVG10UE5TUXlwSVJ4NE9KX1Z2WXotS05TdjhfTDdFeDZLT2pRNktIMVU3bzVSVENlZWgxRzUzZEIzUElDUldIRGRCX1Bvc2FIcVViN25kaTdEcnJEQjNNOTFZWGhTYzNIU0M1dUo5Qk1lZlBkUVNuN1JDRjhDaTlFYUJydw",
         "time": "2026-08-24 16:27:33"
-      },
-      {
-        "title": "#一盒月餅兩份心意🌕 #讓中秋的溫暖在雲林傳下去❤️ 中秋將近，嘉郡想先送出一份心意。 嘉郡 #捐出一個月的立委薪水，採購 #雲林身心障礙團體、#庇護工場 及 #社福機構 製作的中秋月餅，再把這一盒盒月餅，送到縣內有需要的家庭手中。 一盒月餅，承接一雙努力的 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi-gdBVV95cUxQZmxURUpETEdKREROZkZIcEpaZy1mVHpFT2xaZ2tqbGtRcDhtbHdDRWxjZnY4WFI5Q2xjUGhmc0prTTh6eEZydjN4RlFpWHMxTlRPZ2I1Sl9HNEdJQjBhbzdhYUpqR2lYeFVqYjd4dzNsdkVOa2MxMDZhNkxuOXVpU0hQWEVFaFZua2xLbGg1eTJDV0F3elpuZEVYUFc0R3RYNVV6eXp6R0NnUlpObno1bF9MbWx2QzNTbmNOdk9pTmNtRVVjRThkbkdfQVQxYTlmbmhyM0NJa1R0dk9kRWhBckk1NWxOU3F1RGVNYVlDbFEzeGFZTGZ0UWkyVlk2SklPT1M0N1cycXh6dFVHbWZkVU1ndFVpYlN4Nkh0NWZPdU5sRW9fYkZjQU8wM2ZMT0JIMEdqbk5laC1ZRTdQUHZEdDNGOWZTQ0p2Z0V0SHBBUU5MbWdqcU0zZmhzUHA3blh4d3FBWUNWZWdGRUZ2dVlObktwc2FqUzZmOWQ2bXF4blJZVk9VeW5aeVFHdnhuMV84YklpYnJ4dm8yWHVNQ1B2dHlFYnpvY3V2Z3dYYzdoUTFYdWNJcGw0OERyZUh6dFlMTDRZNjB3bTZ2MzEzU2VLTkFUYjBRLUVWYjFwdV9OcGV1MVdSNDgwZmdOTmpnRnB1cU8wM0g1NDdHRnV0RjNPclVVWEhQS20zdWZsQlA3Z3NuMjFNUXJfbEpJaF9oSWQycjU3S2V0ak9NaktCTDlPNEdWajJfQ002S3QxeWxhQW9JZ1E5Y2xEWTU0bmtzZmtuamZaa0hTTXEtdEc0Tm0zQnBpQ0w0a2VMaHY2OGlBRXRiWElkTWpqVDBvUnpYc2Z3Q3V6MFVVdUF3UlV6VDNQbXlGbXdMSXcwWTlVV2hId0NvYjRUZmFsbXNwdlY4dzdXZmh4MGVqYTJkeXVGRlJnT2hlOVVnamNOSzV3SDBydTdSRjBKcDJzczQzRi01UWRzeGJtVmlJamNEQWtMa2dIVmIzNkItTGxfZVlTLTREa05tZ2dlNUVzM2NWQ2JoMkdWdTdNVlNYWkg3TVBUSFpOcW54TFFMdnZZc2xaSzZnQmpXWU9feTZaRkk4a3ZqOUFrdVdqejNiVnFHOTY3UE4wd0ZuY1JXMHVuNkdmcUFLVDBSalZRa1FuTEdzTHJMUHhiN2JydmFmSk9KakhSY0ZxX1owNzk3Z1Zud3F3VVVsNkQzbXdqYlJXeVRWY0dVeUVMbV9sOFJDbi1qY1E3YnMxMzg2OU9aOThVMjVvaEZmQXpBbkFhbmlGRjR4a1pEX2g0WEVSbTFvdXgtaHhYdGRjVXJMM3BheE0zU1gyZVF6YjFERUZfbjgxQUl3",
-        "time": "2026-08-24 15:04:53"
       }
     ],
     "youtube": [
@@ -1481,10 +1570,42 @@
   "event_stream": {
     "minute": [],
     "hour": [],
-    "day": []
+    "day": [
+      {
+        "title": "選舉登記首日水林展現團結氣勢 張嘉郡陪周資昀掃街 逾200人齊喊「凍蒜」 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2UTVaQkJxNi1tNUlzNWJJRV9xWGU1ZDFtd3B0TzlnbnRiamhmOEs3N0FlTnNMR19OSEhqM1ZvVkJlZFo2djNXSA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-31 14:31:28",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國提出「高齡照顧全面升級」政策 讓雲林長輩健康呷百二 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQN0lZSGF6ZHBOWmE3MS1ieFB0eGdlSU5EVDNkbG5Yd0xTVUptSjFnQTFwY19CR1RXNnQ0TWNTSjFEZ2RBRzc3LXl3aDdzUEJLVFNmWmRoZ3NSUnV5R3F3bnF0WlJSSGlJNmtjZUVHbE5CU2hQamVsOVY3V1BmVTVqeUQ0RlMtWjZ5QmU2VjMzdkhzVTFZV2hGa3hRd2VpeXlKNnByckQwUXhHUTUtcWg1TlAtTHVfazRsY3QzbkdaempqZFR4c3pxb1dGM3I3eHVSdmdKSF94MC01eEpyRXY2TlJoRE00ZmJ2M1pxLVA1QjRBY2YzVkd2c0RVY2FsUFRORDVWM0E5b040UEpuY1poWWJZWGFSWmlkN29jLS1LbkV4U3RrcXc4V2x0cnlySlBNdVpkbUgzbGpycHlGd1AzMVNfR0hPZ3pZS1BaSVNBYktkVWV2VlBlUDktYmNSWFVtUjFtYTlwMjRpSkhfbWRTOXEzdTF6VVFRbFNwWFB6MDBCMnM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-31 14:26:08",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國提高齡照顧全面升級 讓雲林長輩健康呷百二 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOSDlDb1BISF9LNld4VmQwYmtreW05d2ZPWFVkVGEzQVRZOEVZSHRqbHBXTkRidUNvcVhvQ3VrejZXMnotNmtzclVtU2RtNzBOUHVQWWh6NTNQWE4wREt6cnZhd1FVaVk4OWdHRVc2OFIwajkyQ1hGalNXeXJCVmhUZmE1aEMzOTdCaGpkYmtfVGJvdC1fZjBhenMyWFVHMFAyYV9XVUtXWnl4Tll3ZFU4bWlLaFBaYTVHWFp4bk9SWjFENGhoTFR6ZFF1NExodk00VWNWNHZ2QzJxSTAyZUptalVxOWVIenFXX1llNE00TThaTmNDUnV3bUMwT3ZoQUJFOVpRYXhmZ3Rsa24tSXBnYlZhQ2tBcTh3d2ViSU5TR25obl9OT2V4S0FCUl91OUlJMHIwX21lbGNqbnNnT0d4V19Xd2lRblZWQkFsMW1YTXdjZkxBVElRUUdnNFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-08-31 14:09:55",
+        "platform": "news",
+        "risk": "綠"
+      }
+    ]
   },
   "regional_groups": {
-    "regions": [],
-    "groups": []
+    "regions": [
+      {
+        "name": "雲林",
+        "count": 2
+      }
+    ],
+    "groups": [
+      {
+        "name": "農業族群",
+        "count": 1
+      }
+    ]
   }
 }
