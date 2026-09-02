@@ -1,10 +1,10 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-02T03:29:45.831250+00:00",
+  "generated_at": "2026-09-02T03:45:28.496913+00:00",
   "metrics": {
     "total_24h": 30,
-    "prev_24h": 13,
-    "growth_pct": 130.77,
+    "prev_24h": 15,
+    "growth_pct": 100.0,
     "news_24h": 25,
     "anomaly": {
       "level": "綠",
@@ -15,8 +15,8 @@
   },
   "metrics_7d": {
     "total": 188,
-    "prev": 176,
-    "growth_pct": 6.82,
+    "prev": 178,
+    "growth_pct": 5.62,
     "news": 155,
     "anomaly": {
       "level": "綠",
@@ -56,7 +56,7 @@
   "by_hour": [
     {
       "hour": "2026-09-01 11:00",
-      "count": 3
+      "count": 1
     },
     {
       "hour": "2026-09-01 12:00",
@@ -92,7 +92,7 @@
     },
     {
       "hour": "2026-09-01 22:00",
-      "count": 3
+      "count": 4
     },
     {
       "hour": "2026-09-02 04:00",
@@ -101,13 +101,13 @@
     {
       "hour": "2026-09-02 07:00",
       "count": 1
+    },
+    {
+      "hour": "2026-09-02 10:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
-    {
-      "hour": "2026-08-26 11:00",
-      "count": 2
-    },
     {
       "hour": "2026-08-26 13:00",
       "count": 2
@@ -394,7 +394,7 @@
     },
     {
       "hour": "2026-09-01 22:00",
-      "count": 3
+      "count": 4
     },
     {
       "hour": "2026-09-02 04:00",
@@ -402,6 +402,10 @@
     },
     {
       "hour": "2026-09-02 07:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-09-02 10:00",
       "count": 1
     }
   ],
@@ -420,19 +424,12 @@
     }
   ],
   "mention_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "劉建國 (@liucnko.fans) - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUdzFBbktnajVDbFlEZ080am02Y3JkQWVwVmpmdWU3bjRFZ004cWNoR2JWNDV2dDItQy1ETHprY0FfTEtjbzJPN2FmTGRzX0dXY042cVBwYm41NE12MUs5dkJ4VTVwYlZqLU5wejN3",
-        "time": "2026-09-02 04:24:20"
-      },
-      {
-        "title": "國民黨雲林縣長參選人張嘉郡舉辦毛巾嘉年華記者會，當媒體犀利追問「竹北破局是否衝擊選情」時，一旁的徐巧芯隨即霸氣搶答緩頰，大膽高呼：「再讓子彈飛一下」。徐巧芯堅定強調在野團結是最重要的，並當場代表在野領袖做出重磅承諾：「藍白合作依然是 2026 與 202 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMipwhBVV95cUxQdndVUjMtNHl4RWMyUWt4U1VBMFlDT0tPX09GejFZMkJNQ2xBWWw4OEloMncwam40cmVVbk40V1FIS21aZWs0d3dmQjhhMlVjeEwwUFNlbTZpdGlPdjVnbldneXlQS0RKUkloMlE0MXJhbmlNTHB2cFRhd3hmUGRLMnQxa0RTbnBBaktQTXc4Y01hZlI0dEZVWmt4U1VBeWJrNk94dFR4YmZtOXJ3TDFQYnZDcXplNWx1bldTTkgzYU5YWHNJeGJQTGtvUGtBc2k1REotRTZUSmFraE9jblVqeE1Od1FtVHc5QW9Vd1djN29YeTVBeFh1WV9VMFlQblphUnpqWk9BclhTNlBBem9RblNHMDZpTjZKSDBtVFd1UkFPeFJnWmRnbWF0VjRxMkRVSzVZTEhrNV9rWmxWdkdsTjY0b2hMRU5qSEFkZ2d2bWcxUHZFcVh3T3dQalF4aUxLczlXMGZhLThXcFlubVRrbWhyYjE2ekdrZ1p6ZXBub1NsbWZvNF9SZVZhRUJhUE85Y1hudUFBcDBiNU91cm52WnE4OXRSSHRPRmFfMzJKeWtEU21NdUtRdkxGRmYtYTRUcmtnU3BLZkctVUJvQjNVNTFzUTZXMnNxcWdJOVlndGp2cEczdkNzdjFzN2g3aG11cTdleFhqb1ZQdFV6b3doeU1wY2czNmVTOGpyNHctOUVSNjFQaUFYN0FNcDhLOFR4cVFpV21OZ3VFS0VIQWhpREV1YzVCLW82V1lVMTZGbnVjVy0za2VfZjFIOU5oTWhZT1FGQTBwVzlKSWtLWUYzdlBGakZiTDlpQ2lyd0RzakZ6aEtCaWZlZ2Z4ZTJvejRMLUZfOExkclQxVXBmUUZTVTlLYld4b1F4N0o0bkJzbzhLcndIMW03Tm0wMTVQa2QycXNlUm1LSTVxQXpkQTFmWjBqXzlaSkN5eVA5N1JLaER1Unc4RzNyUGxTQkNIUGIxX1g2Wkt3WW45NmItRGNQZmpmRVNiV0FSc3hBUXBjNkotbTZYRW1abzk5YkxRVlctUjNnNEZ1NjBzaUU5ak9Jd0VheU1zM2VsakFDclU5Uzd0R1g4Y1BaUVA1Sk83V283SXZBR1dhRlVlSkdNOFdWaFJ6RHVMUnpqLXBpZm54UlpDNExwMjVyRC0tNjlBdXFsUHlPbDU4Y2ZXY0lkNjEyUEtSYTJIU3BDbEVOWHk4MlJoUXhRekVjQlVHVWpsYUZSTUg2bndPOGRRTzFMc29scUQtbWQwYk5yMzcyN09Rcm1nd2VuUzk0ZDBJUVVUWGxrRC1pVmdocDNZRHJEOTVWdnh4VFdsVXZ2Tk5vNlJzbmMzaWUxaTRTVXpoQ015NFNjcWFDU2w5S3ZRTTdQOUVucTJmTjd5eG5DNFVIZHJkSXNEVC0zUHFz",
-        "time": "2026-09-01 21:35:07"
-      }
-    ],
     "news": [
+      {
+        "title": "麥寮運動公園缺特色公廁！劉建國出手爭取2000萬中央資源 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0dFNwVm1MdlczZExJVTI0a1o5ZnJQTmJUdjYtUE1OUGJ2UFMxaHVWYUR0bjVLRFoxeGxUN0pyYjNoNHhIeU9iVy16WG5PR3AyODctd0hwbE5TbUxVdlJENlZhTE1hQ0Vm?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-02 10:48:45"
+      },
       {
         "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 | 觀傳媒 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xdjVPWkh4QnJCenNMVko4MEp4dkNwcmF0SGc0eG11c1dFaV94ZW9FYWdwZlJXZzZqTVpTOGY2VXc3SFhFaDJUN3BxU19PZG42RkNnYzBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -447,6 +444,11 @@
         "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 - 觀傳媒",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DdThLZG9lUHplYjc4WnkwQVBwdjBfaGJkNHNGVmVhd2RoS3RjVk1zSE1ua0JkUkpuSzU2R2xTaDZNNEJoTVpmOXI4U2psNk1tb1ZOdUhuVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-01 22:11:06"
+      },
+      {
+        "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtdlE5TmJoMFA3S1RyZEdVMmFhN3dHQzJEaGlfNFZaNjM2UEJwRENrODhjamthY3BaSVZDRkgyMmp5MmE4Q1ZPeUNkUGJxdUVJY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-01 22:11:00"
       },
       {
         "title": "劉建國邀環管署現勘麥寮特色公廁 爭取2千萬元中央補助 - 三星傳媒",
@@ -547,16 +549,18 @@
         "title": "雲林毛巾結合農產、食品推聯名 張嘉郡盼打造地方產業新鏈結 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQa1hlSEh5V3ctN0pORVktdVlOSEVpaEU5OG44UWo2TjVlY1hSLXFYSUxIajNBTkJHemFVZVFjYmhKamwwZkUyS1RMUnN1c21RN2NXdEJqQmdNSlFSdTV1eXI1Q0o0bE8wNF9Bald1MG0xT2lYaFRHVjJFeUFHN01LajdWSU9IcUcybVZSTnBadkRuanV0bGlFUTQyWmd3OXl0THBtb3llcFQxV2lPOUY4ZTJNZWd2UTNqdGRKRVJLaDRLVXFqSk1HSHhZWGRBSjFNMzh3SHA4VXpNZUIwZWpTV2FXUEltS3MyaTQ2TC1rMDE5a1FQVjlhN2xta0hYYTBheUtBSWhBMHM5Mm1mV3Z3TUhPUjBObTBhWEtwS3NyMk9CZHNEQ1NpNjVRMkJLanhnZmZtdFhDN2dURE1nRTFpemNUZlVHQ1lWSjRDQm1YRXlFcklEMk5teVNuM2tsamdfdUFzdUwxS3RvSndIQlRsdC1pM285NVhhZDNzT2NjUk5VZFpZaFdGSHRHRjYwUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-01 11:46:16"
+      }
+    ],
+    "facebook": [
+      {
+        "title": "劉建國 (@liucnko.fans) - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUdzFBbktnajVDbFlEZ080am02Y3JkQWVwVmpmdWU3bjRFZ004cWNoR2JWNDV2dDItQy1ETHprY0FfTEtjbzJPN2FmTGRzX0dXY042cVBwYm41NE12MUs5dkJ4VTVwYlZqLU5wejN3",
+        "time": "2026-09-02 04:24:20"
       },
       {
-        "title": "雲林毛巾結合農產、食品推聯名 張嘉郡盼打造地方產業新鏈結 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JekgzUE5PMHM5RjFTdWp6NHhNWEMteFdHa0h1alNQNzZVV0VENVdxMTZ3SHVTSkZRbnZoY1Vld09WM2pWc3NjMkxKZFg2MHNtdlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-01 11:38:00"
-      },
-      {
-        "title": "雲林毛巾結合農產、食品推聯名 張嘉郡盼打造地方產業新鏈結 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVk91SmQtSlA3My1YcjhFRlFGMkxzV1JDcy1sRWlZSGRYcnhzc3lDM2QtejM3YlVUVnk4c2Z3RktoMW9XUk1YLWRaeFpoOUttWFlod3Q1cHN4SG1OLXVJaUwtY3RtTjJ4R2lLWUlQS0oybHpJbUZmSWpmQm4xSUNzWVFrV0VmMFVhVGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-01 11:34:56"
+        "title": "國民黨雲林縣長參選人張嘉郡舉辦毛巾嘉年華記者會，當媒體犀利追問「竹北破局是否衝擊選情」時，一旁的徐巧芯隨即霸氣搶答緩頰，大膽高呼：「再讓子彈飛一下」。徐巧芯堅定強調在野團結是最重要的，並當場代表在野領袖做出重磅承諾：「藍白合作依然是 2026 與 202 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMipwhBVV95cUxQdndVUjMtNHl4RWMyUWt4U1VBMFlDT0tPX09GejFZMkJNQ2xBWWw4OEloMncwam40cmVVbk40V1FIS21aZWs0d3dmQjhhMlVjeEwwUFNlbTZpdGlPdjVnbldneXlQS0RKUkloMlE0MXJhbmlNTHB2cFRhd3hmUGRLMnQxa0RTbnBBaktQTXc4Y01hZlI0dEZVWmt4U1VBeWJrNk94dFR4YmZtOXJ3TDFQYnZDcXplNWx1bldTTkgzYU5YWHNJeGJQTGtvUGtBc2k1REotRTZUSmFraE9jblVqeE1Od1FtVHc5QW9Vd1djN29YeTVBeFh1WV9VMFlQblphUnpqWk9BclhTNlBBem9RblNHMDZpTjZKSDBtVFd1UkFPeFJnWmRnbWF0VjRxMkRVSzVZTEhrNV9rWmxWdkdsTjY0b2hMRU5qSEFkZ2d2bWcxUHZFcVh3T3dQalF4aUxLczlXMGZhLThXcFlubVRrbWhyYjE2ekdrZ1p6ZXBub1NsbWZvNF9SZVZhRUJhUE85Y1hudUFBcDBiNU91cm52WnE4OXRSSHRPRmFfMzJKeWtEU21NdUtRdkxGRmYtYTRUcmtnU3BLZkctVUJvQjNVNTFzUTZXMnNxcWdJOVlndGp2cEczdkNzdjFzN2g3aG11cTdleFhqb1ZQdFV6b3doeU1wY2czNmVTOGpyNHctOUVSNjFQaUFYN0FNcDhLOFR4cVFpV21OZ3VFS0VIQWhpREV1YzVCLW82V1lVMTZGbnVjVy0za2VfZjFIOU5oTWhZT1FGQTBwVzlKSWtLWUYzdlBGakZiTDlpQ2lyd0RzakZ6aEtCaWZlZ2Z4ZTJvejRMLUZfOExkclQxVXBmUUZTVTlLYld4b1F4N0o0bkJzbzhLcndIMW03Tm0wMTVQa2QycXNlUm1LSTVxQXpkQTFmWjBqXzlaSkN5eVA5N1JLaER1Unc4RzNyUGxTQkNIUGIxX1g2Wkt3WW45NmItRGNQZmpmRVNiV0FSc3hBUXBjNkotbTZYRW1abzk5YkxRVlctUjNnNEZ1NjBzaUU5ak9Jd0VheU1zM2VsakFDclU5Uzd0R1g4Y1BaUVA1Sk83V283SXZBR1dhRlVlSkdNOFdWaFJ6RHVMUnpqLXBpZm54UlpDNExwMjVyRC0tNjlBdXFsUHlPbDU4Y2ZXY0lkNjEyUEtSYTJIU3BDbEVOWHk4MlJoUXhRekVjQlVHVWpsYUZSTUg2bndPOGRRTzFMc29scUQtbWQwYk5yMzcyN09Rcm1nd2VuUzk0ZDBJUVVUWGxrRC1pVmdocDNZRHJEOTVWdnh4VFdsVXZ2Tk5vNlJzbmMzaWUxaTRTVXpoQ015NFNjcWFDU2w5S3ZRTTdQOUVucTJmTjd5eG5DNFVIZHJkSXNEVC0zUHFz",
+        "time": "2026-09-01 21:35:07"
       }
     ],
     "youtube": [
@@ -582,19 +586,12 @@
     }
   ],
   "alias_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "劉建國 (@liucnko.fans) - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUdzFBbktnajVDbFlEZ080am02Y3JkQWVwVmpmdWU3bjRFZ004cWNoR2JWNDV2dDItQy1ETHprY0FfTEtjbzJPN2FmTGRzX0dXY042cVBwYm41NE12MUs5dkJ4VTVwYlZqLU5wejN3",
-        "time": "2026-09-02 04:24:20"
-      },
-      {
-        "title": "國民黨雲林縣長參選人張嘉郡舉辦毛巾嘉年華記者會，當媒體犀利追問「竹北破局是否衝擊選情」時，一旁的徐巧芯隨即霸氣搶答緩頰，大膽高呼：「再讓子彈飛一下」。徐巧芯堅定強調在野團結是最重要的，並當場代表在野領袖做出重磅承諾：「藍白合作依然是 2026 與 202 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMipwhBVV95cUxQdndVUjMtNHl4RWMyUWt4U1VBMFlDT0tPX09GejFZMkJNQ2xBWWw4OEloMncwam40cmVVbk40V1FIS21aZWs0d3dmQjhhMlVjeEwwUFNlbTZpdGlPdjVnbldneXlQS0RKUkloMlE0MXJhbmlNTHB2cFRhd3hmUGRLMnQxa0RTbnBBaktQTXc4Y01hZlI0dEZVWmt4U1VBeWJrNk94dFR4YmZtOXJ3TDFQYnZDcXplNWx1bldTTkgzYU5YWHNJeGJQTGtvUGtBc2k1REotRTZUSmFraE9jblVqeE1Od1FtVHc5QW9Vd1djN29YeTVBeFh1WV9VMFlQblphUnpqWk9BclhTNlBBem9RblNHMDZpTjZKSDBtVFd1UkFPeFJnWmRnbWF0VjRxMkRVSzVZTEhrNV9rWmxWdkdsTjY0b2hMRU5qSEFkZ2d2bWcxUHZFcVh3T3dQalF4aUxLczlXMGZhLThXcFlubVRrbWhyYjE2ekdrZ1p6ZXBub1NsbWZvNF9SZVZhRUJhUE85Y1hudUFBcDBiNU91cm52WnE4OXRSSHRPRmFfMzJKeWtEU21NdUtRdkxGRmYtYTRUcmtnU3BLZkctVUJvQjNVNTFzUTZXMnNxcWdJOVlndGp2cEczdkNzdjFzN2g3aG11cTdleFhqb1ZQdFV6b3doeU1wY2czNmVTOGpyNHctOUVSNjFQaUFYN0FNcDhLOFR4cVFpV21OZ3VFS0VIQWhpREV1YzVCLW82V1lVMTZGbnVjVy0za2VfZjFIOU5oTWhZT1FGQTBwVzlKSWtLWUYzdlBGakZiTDlpQ2lyd0RzakZ6aEtCaWZlZ2Z4ZTJvejRMLUZfOExkclQxVXBmUUZTVTlLYld4b1F4N0o0bkJzbzhLcndIMW03Tm0wMTVQa2QycXNlUm1LSTVxQXpkQTFmWjBqXzlaSkN5eVA5N1JLaER1Unc4RzNyUGxTQkNIUGIxX1g2Wkt3WW45NmItRGNQZmpmRVNiV0FSc3hBUXBjNkotbTZYRW1abzk5YkxRVlctUjNnNEZ1NjBzaUU5ak9Jd0VheU1zM2VsakFDclU5Uzd0R1g4Y1BaUVA1Sk83V283SXZBR1dhRlVlSkdNOFdWaFJ6RHVMUnpqLXBpZm54UlpDNExwMjVyRC0tNjlBdXFsUHlPbDU4Y2ZXY0lkNjEyUEtSYTJIU3BDbEVOWHk4MlJoUXhRekVjQlVHVWpsYUZSTUg2bndPOGRRTzFMc29scUQtbWQwYk5yMzcyN09Rcm1nd2VuUzk0ZDBJUVVUWGxrRC1pVmdocDNZRHJEOTVWdnh4VFdsVXZ2Tk5vNlJzbmMzaWUxaTRTVXpoQ015NFNjcWFDU2w5S3ZRTTdQOUVucTJmTjd5eG5DNFVIZHJkSXNEVC0zUHFz",
-        "time": "2026-09-01 21:35:07"
-      }
-    ],
     "news": [
+      {
+        "title": "麥寮運動公園缺特色公廁！劉建國出手爭取2000萬中央資源 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0dFNwVm1MdlczZExJVTI0a1o5ZnJQTmJUdjYtUE1OUGJ2UFMxaHVWYUR0bjVLRFoxeGxUN0pyYjNoNHhIeU9iVy16WG5PR3AyODctd0hwbE5TbUxVdlJENlZhTE1hQ0Vm?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-02 10:48:45"
+      },
       {
         "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 | 觀傳媒 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xdjVPWkh4QnJCenNMVko4MEp4dkNwcmF0SGc0eG11c1dFaV94ZW9FYWdwZlJXZzZqTVpTOGY2VXc3SFhFaDJUN3BxU19PZG42RkNnYzBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -609,6 +606,11 @@
         "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 - 觀傳媒",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DdThLZG9lUHplYjc4WnkwQVBwdjBfaGJkNHNGVmVhd2RoS3RjVk1zSE1ua0JkUkpuSzU2R2xTaDZNNEJoTVpmOXI4U2psNk1tb1ZOdUhuVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-01 22:11:06"
+      },
+      {
+        "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtdlE5TmJoMFA3S1RyZEdVMmFhN3dHQzJEaGlfNFZaNjM2UEJwRENrODhjamthY3BaSVZDRkgyMmp5MmE4Q1ZPeUNkUGJxdUVJY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-01 22:11:00"
       },
       {
         "title": "劉建國邀環管署現勘麥寮特色公廁 爭取2千萬元中央補助 - 三星傳媒",
@@ -709,16 +711,18 @@
         "title": "雲林毛巾結合農產、食品推聯名 張嘉郡盼打造地方產業新鏈結 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQa1hlSEh5V3ctN0pORVktdVlOSEVpaEU5OG44UWo2TjVlY1hSLXFYSUxIajNBTkJHemFVZVFjYmhKamwwZkUyS1RMUnN1c21RN2NXdEJqQmdNSlFSdTV1eXI1Q0o0bE8wNF9Bald1MG0xT2lYaFRHVjJFeUFHN01LajdWSU9IcUcybVZSTnBadkRuanV0bGlFUTQyWmd3OXl0THBtb3llcFQxV2lPOUY4ZTJNZWd2UTNqdGRKRVJLaDRLVXFqSk1HSHhZWGRBSjFNMzh3SHA4VXpNZUIwZWpTV2FXUEltS3MyaTQ2TC1rMDE5a1FQVjlhN2xta0hYYTBheUtBSWhBMHM5Mm1mV3Z3TUhPUjBObTBhWEtwS3NyMk9CZHNEQ1NpNjVRMkJLanhnZmZtdFhDN2dURE1nRTFpemNUZlVHQ1lWSjRDQm1YRXlFcklEMk5teVNuM2tsamdfdUFzdUwxS3RvSndIQlRsdC1pM285NVhhZDNzT2NjUk5VZFpZaFdGSHRHRjYwUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-01 11:46:16"
+      }
+    ],
+    "facebook": [
+      {
+        "title": "劉建國 (@liucnko.fans) - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUdzFBbktnajVDbFlEZ080am02Y3JkQWVwVmpmdWU3bjRFZ004cWNoR2JWNDV2dDItQy1ETHprY0FfTEtjbzJPN2FmTGRzX0dXY042cVBwYm41NE12MUs5dkJ4VTVwYlZqLU5wejN3",
+        "time": "2026-09-02 04:24:20"
       },
       {
-        "title": "雲林毛巾結合農產、食品推聯名 張嘉郡盼打造地方產業新鏈結 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JekgzUE5PMHM5RjFTdWp6NHhNWEMteFdHa0h1alNQNzZVV0VENVdxMTZ3SHVTSkZRbnZoY1Vld09WM2pWc3NjMkxKZFg2MHNtdlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-01 11:38:00"
-      },
-      {
-        "title": "雲林毛巾結合農產、食品推聯名 張嘉郡盼打造地方產業新鏈結 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVk91SmQtSlA3My1YcjhFRlFGMkxzV1JDcy1sRWlZSGRYcnhzc3lDM2QtejM3YlVUVnk4c2Z3RktoMW9XUk1YLWRaeFpoOUttWFlod3Q1cHN4SG1OLXVJaUwtY3RtTjJ4R2lLWUlQS0oybHpJbUZmSWpmQm4xSUNzWVFrV0VmMFVhVGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-01 11:34:56"
+        "title": "國民黨雲林縣長參選人張嘉郡舉辦毛巾嘉年華記者會，當媒體犀利追問「竹北破局是否衝擊選情」時，一旁的徐巧芯隨即霸氣搶答緩頰，大膽高呼：「再讓子彈飛一下」。徐巧芯堅定強調在野團結是最重要的，並當場代表在野領袖做出重磅承諾：「藍白合作依然是 2026 與 202 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMipwhBVV95cUxQdndVUjMtNHl4RWMyUWt4U1VBMFlDT0tPX09GejFZMkJNQ2xBWWw4OEloMncwam40cmVVbk40V1FIS21aZWs0d3dmQjhhMlVjeEwwUFNlbTZpdGlPdjVnbldneXlQS0RKUkloMlE0MXJhbmlNTHB2cFRhd3hmUGRLMnQxa0RTbnBBaktQTXc4Y01hZlI0dEZVWmt4U1VBeWJrNk94dFR4YmZtOXJ3TDFQYnZDcXplNWx1bldTTkgzYU5YWHNJeGJQTGtvUGtBc2k1REotRTZUSmFraE9jblVqeE1Od1FtVHc5QW9Vd1djN29YeTVBeFh1WV9VMFlQblphUnpqWk9BclhTNlBBem9RblNHMDZpTjZKSDBtVFd1UkFPeFJnWmRnbWF0VjRxMkRVSzVZTEhrNV9rWmxWdkdsTjY0b2hMRU5qSEFkZ2d2bWcxUHZFcVh3T3dQalF4aUxLczlXMGZhLThXcFlubVRrbWhyYjE2ekdrZ1p6ZXBub1NsbWZvNF9SZVZhRUJhUE85Y1hudUFBcDBiNU91cm52WnE4OXRSSHRPRmFfMzJKeWtEU21NdUtRdkxGRmYtYTRUcmtnU3BLZkctVUJvQjNVNTFzUTZXMnNxcWdJOVlndGp2cEczdkNzdjFzN2g3aG11cTdleFhqb1ZQdFV6b3doeU1wY2czNmVTOGpyNHctOUVSNjFQaUFYN0FNcDhLOFR4cVFpV21OZ3VFS0VIQWhpREV1YzVCLW82V1lVMTZGbnVjVy0za2VfZjFIOU5oTWhZT1FGQTBwVzlKSWtLWUYzdlBGakZiTDlpQ2lyd0RzakZ6aEtCaWZlZ2Z4ZTJvejRMLUZfOExkclQxVXBmUUZTVTlLYld4b1F4N0o0bkJzbzhLcndIMW03Tm0wMTVQa2QycXNlUm1LSTVxQXpkQTFmWjBqXzlaSkN5eVA5N1JLaER1Unc4RzNyUGxTQkNIUGIxX1g2Wkt3WW45NmItRGNQZmpmRVNiV0FSc3hBUXBjNkotbTZYRW1abzk5YkxRVlctUjNnNEZ1NjBzaUU5ak9Jd0VheU1zM2VsakFDclU5Uzd0R1g4Y1BaUVA1Sk83V283SXZBR1dhRlVlSkdNOFdWaFJ6RHVMUnpqLXBpZm54UlpDNExwMjVyRC0tNjlBdXFsUHlPbDU4Y2ZXY0lkNjEyUEtSYTJIU3BDbEVOWHk4MlJoUXhRekVjQlVHVWpsYUZSTUg2bndPOGRRTzFMc29scUQtbWQwYk5yMzcyN09Rcm1nd2VuUzk0ZDBJUVVUWGxrRC1pVmdocDNZRHJEOTVWdnh4VFdsVXZ2Tk5vNlJzbmMzaWUxaTRTVXpoQ015NFNjcWFDU2w5S3ZRTTdQOUVucTJmTjd5eG5DNFVIZHJkSXNEVC0zUHFz",
+        "time": "2026-09-01 21:35:07"
       }
     ],
     "youtube": [
@@ -730,14 +734,19 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 12,
-    "劉建國": 16
+    "張嘉郡": 10,
+    "劉建國": 18
   },
   "mention_compare_7d": {
-    "張嘉郡": 107,
-    "劉建國": 67
+    "張嘉郡": 105,
+    "劉建國": 69
   },
   "top_news": [
+    {
+      "title": "麥寮運動公園缺特色公廁！劉建國出手爭取2000萬中央資源 - 元丰傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0dFNwVm1MdlczZExJVTI0a1o5ZnJQTmJUdjYtUE1OUGJ2UFMxaHVWYUR0bjVLRFoxeGxUN0pyYjNoNHhIeU9iVy16WG5PR3AyODctd0hwbE5TbUxVdlJENlZhTE1hQ0Vm?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-02 10:48:45"
+    },
     {
       "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 | 觀傳媒 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xdjVPWkh4QnJCenNMVko4MEp4dkNwcmF0SGc0eG11c1dFaV94ZW9FYWdwZlJXZzZqTVpTOGY2VXc3SFhFaDJUN3BxU19PZG42RkNnYzBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -752,6 +761,11 @@
       "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 - 觀傳媒",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DdThLZG9lUHplYjc4WnkwQVBwdjBfaGJkNHNGVmVhd2RoS3RjVk1zSE1ua0JkUkpuSzU2R2xTaDZNNEJoTVpmOXI4U2psNk1tb1ZOdUhuVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-01 22:11:06"
+    },
+    {
+      "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtdlE5TmJoMFA3S1RyZEdVMmFhN3dHQzJEaGlfNFZaNjM2UEJwRENrODhjamthY3BaSVZDRkgyMmp5MmE4Q1ZPeUNkUGJxdUVJY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-01 22:11:00"
     },
     {
       "title": "劉建國邀環管署現勘麥寮特色公廁 爭取2千萬元中央補助 - 三星傳媒",
@@ -787,19 +801,14 @@
       "title": "麥寮運動公園公廁要升級！劉建國爭取2000萬盼打造全國示範 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LbTBuQWxVcl96dVVTeHQ4US14WU41TlhJNzFPZm1DVk54aVFvV0JxN1VlWDUzQmI0Q0JOVzh3aG1YOHVobzZNYWFibkx5Qm1WdWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-01 17:36:04"
-    },
-    {
-      "title": "劉建國邀環管署現勘麥寮公廁 爭取2000萬元中央補助 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOZF9ENmthbGdxbEVPRk0yVTc1UUZ6SXRUcmpKMG1vaHNSYzNGWmdJclJ4bkZkU1Zya215VHpVSkZSR1BnRzhtSkJnLTFUVmNzMVdDdmo1ck9tOFNobW9vdjdKcE8yLWVaRGNWeFV0N1RGcmxoeDdhMFE5WEdpZnhoaWtfaDQ4UkticzdPRmFLMWN5ekNseFNFOVZHMlg0YTljS3FUSk1CdldrZjhYM0E4NUZLWDBCQ2ZzRXQ5SFZiaEVfblNaMkhhU2lfTXFFNVNKZmxkcDllUE1qU1pvQ05KOU8yOURiS01xREZNWEtkLUZvMmxBRTNwd25HQ3VKQWMwYmdUZmlab2NGWVdWTFFRQ3BwTnR4bURXX1hQNTQ1VllvYmk4VlMyRVJCNURFRHQxaXBsY0Z1eXRCYlhsSEtHVlp3dHMydGxDOFFSenVzSVVZTUxjd0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-01 17:26:14"
-    },
-    {
-      "title": "麥寮運動公園缺特色公廁！劉建國出手爭取2000萬中央資源 - 元丰傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95a1lXMkFjcUNWanhRVjEyWUdoRnN0R2EtRmRHUjQ2cXJ4RmkxcHdiRzN0MW5ITWRTa1RFS25PRUxydW9zR1FXTHI0aHQzQ0NhX3NJTWtaVzVHTThaZmd4YlY0WlY0d2Zx?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-01 17:26:05"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "麥寮運動公園缺特色公廁！劉建國出手爭取2000萬中央資源 - 元丰傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0dFNwVm1MdlczZExJVTI0a1o5ZnJQTmJUdjYtUE1OUGJ2UFMxaHVWYUR0bjVLRFoxeGxUN0pyYjNoNHhIeU9iVy16WG5PR3AyODctd0hwbE5TbUxVdlJENlZhTE1hQ0Vm?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-02 10:48:45"
+    },
     {
       "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 | 觀傳媒 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xdjVPWkh4QnJCenNMVko4MEp4dkNwcmF0SGc0eG11c1dFaV94ZW9FYWdwZlJXZzZqTVpTOGY2VXc3SFhFaDJUN3BxU19PZG42RkNnYzBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -814,6 +823,11 @@
       "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 - 觀傳媒",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DdThLZG9lUHplYjc4WnkwQVBwdjBfaGJkNHNGVmVhd2RoS3RjVk1zSE1ua0JkUkpuSzU2R2xTaDZNNEJoTVpmOXI4U2psNk1tb1ZOdUhuVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-01 22:11:06"
+    },
+    {
+      "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtdlE5TmJoMFA3S1RyZEdVMmFhN3dHQzJEaGlfNFZaNjM2UEJwRENrODhjamthY3BaSVZDRkgyMmp5MmE4Q1ZPeUNkUGJxdUVJY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-01 22:11:00"
     },
     {
       "title": "劉建國邀環管署現勘麥寮特色公廁 爭取2千萬元中央補助 - 三星傳媒",
@@ -889,16 +903,6 @@
       "title": "【有影】張嘉郡推雲林產業跨域結盟 毛巾嘉年華9月5 日台北花博登場 - 匯流新聞網",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE95TjNGaXI3NzRReGluaGdUR05mMTRZV0Fsc0g1QU0tbGlOTmFWM1l3MklUZVB4TExnVUpCSmpnSjlxaXlmVzFHU3FB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-01 14:31:26"
-    },
-    {
-      "title": "毛巾嘉年華5日北市登場　張嘉郡盼民眾看見雲林實力 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBubTZXMktfRGRNRmZKcGF6VW5KYXFZaEJMSE92Smw4Nnp3bDBBMmhZZ19SWGhTU1d4czlnM3hBUVg1ZUxkdzVyZVd1c2pXZWNObGNiOGZoVzk1d9IBX0FVX3lxTE5wUzBvaEFKcE9JRURPX0FkLS1WNmNQMFE0RzhUQXRaRENEV1M3Yzh0ZXcwUktjR0pYVmYyZzJwUmtTempqUFF0TUR0by1EOVl1MUpnd0l1MFpOaV9jUmFn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-01 14:00:51"
-    },
-    {
-      "title": "毛巾嘉年華5日北市登場張嘉郡盼民眾看見雲林實力| 政治 - cna.com.tw",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IVkVMZlRDZ2N5NVdJZDQ4amEtclJZS1FPdzN6Sk5vWXFVUXVxODZWTVlYRnhQajR0Q1J6NVRNeTlEemp3OFdvUTh4WG5jTVBrVjk3Q2FJTTA5NUJRXzRn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-01 13:51:00"
     }
   ],
   "latest_facebook_20": [
@@ -1005,6 +1009,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "麥寮運動公園缺特色公廁！劉建國出手爭取2000萬中央資源 - 元丰傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0dFNwVm1MdlczZExJVTI0a1o5ZnJQTmJUdjYtUE1OUGJ2UFMxaHVWYUR0bjVLRFoxeGxUN0pyYjNoNHhIeU9iVy16WG5PR3AyODctd0hwbE5TbUxVdlJENlZhTE1hQ0Vm?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-02 10:48:45"
+    },
+    {
       "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 | 觀傳媒 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xdjVPWkh4QnJCenNMVko4MEp4dkNwcmF0SGc0eG11c1dFaV94ZW9FYWdwZlJXZzZqTVpTOGY2VXc3SFhFaDJUN3BxU19PZG42RkNnYzBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-01 22:46:53"
@@ -1018,6 +1027,11 @@
       "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 - 觀傳媒",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DdThLZG9lUHplYjc4WnkwQVBwdjBfaGJkNHNGVmVhd2RoS3RjVk1zSE1ua0JkUkpuSzU2R2xTaDZNNEJoTVpmOXI4U2psNk1tb1ZOdUhuVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-01 22:11:06"
+    },
+    {
+      "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtdlE5TmJoMFA3S1RyZEdVMmFhN3dHQzJEaGlfNFZaNjM2UEJwRENrODhjamthY3BaSVZDRkgyMmp5MmE4Q1ZPeUNkUGJxdUVJY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-01 22:11:00"
     },
     {
       "title": "劉建國邀環管署現勘麥寮特色公廁 爭取2千萬元中央補助 - 三星傳媒",
@@ -1093,16 +1107,6 @@
       "title": "【有影】張嘉郡推雲林產業跨域結盟 毛巾嘉年華9月5 日台北花博登場 - 匯流新聞網",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE95TjNGaXI3NzRReGluaGdUR05mMTRZV0Fsc0g1QU0tbGlOTmFWM1l3MklUZVB4TExnVUpCSmpnSjlxaXlmVzFHU3FB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-01 14:31:26"
-    },
-    {
-      "title": "毛巾嘉年華5日北市登場　張嘉郡盼民眾看見雲林實力 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBubTZXMktfRGRNRmZKcGF6VW5KYXFZaEJMSE92Smw4Nnp3bDBBMmhZZ19SWGhTU1d4czlnM3hBUVg1ZUxkdzVyZVd1c2pXZWNObGNiOGZoVzk1d9IBX0FVX3lxTE5wUzBvaEFKcE9JRURPX0FkLS1WNmNQMFE0RzhUQXRaRENEV1M3Yzh0ZXcwUktjR0pYVmYyZzJwUmtTempqUFF0TUR0by1EOVl1MUpnd0l1MFpOaV9jUmFn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-01 14:00:51"
-    },
-    {
-      "title": "毛巾嘉年華5日北市登場張嘉郡盼民眾看見雲林實力| 政治 - cna.com.tw",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IVkVMZlRDZ2N5NVdJZDQ4amEtclJZS1FPdzN6Sk5vWXFVUXVxODZWTVlYRnhQajR0Q1J6NVRNeTlEemp3OFdvUTh4WG5jTVBrVjk3Q2FJTTA5NUJRXzRn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-01 13:51:00"
     }
   ],
   "person_sections": {
@@ -1417,6 +1421,11 @@
       ],
       "news": [
         {
+          "title": "麥寮運動公園缺特色公廁！劉建國出手爭取2000萬中央資源 - 元丰傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0dFNwVm1MdlczZExJVTI0a1o5ZnJQTmJUdjYtUE1OUGJ2UFMxaHVWYUR0bjVLRFoxeGxUN0pyYjNoNHhIeU9iVy16WG5PR3AyODctd0hwbE5TbUxVdlJENlZhTE1hQ0Vm?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-02 10:48:45"
+        },
+        {
           "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 | 觀傳媒 - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xdjVPWkh4QnJCenNMVko4MEp4dkNwcmF0SGc0eG11c1dFaV94ZW9FYWdwZlJXZzZqTVpTOGY2VXc3SFhFaDJUN3BxU19PZG42RkNnYzBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-01 22:46:53"
@@ -1430,6 +1439,11 @@
           "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 - 觀傳媒",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DdThLZG9lUHplYjc4WnkwQVBwdjBfaGJkNHNGVmVhd2RoS3RjVk1zSE1ua0JkUkpuSzU2R2xTaDZNNEJoTVpmOXI4U2psNk1tb1ZOdUhuVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-01 22:11:06"
+        },
+        {
+          "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtdlE5TmJoMFA3S1RyZEdVMmFhN3dHQzJEaGlfNFZaNjM2UEJwRENrODhjamthY3BaSVZDRkgyMmp5MmE4Q1ZPeUNkUGJxdUVJY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-01 22:11:00"
         },
         {
           "title": "劉建國邀環管署現勘麥寮特色公廁 爭取2千萬元中央補助 - 三星傳媒",
@@ -1505,22 +1519,17 @@
           "title": "劉建國提高齡照顧全面升級　讓雲林長輩健康呷百二 - 鏡週刊Mirror Media",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43VzBSZk1jRmE3SXFKNF84dmNoMUJoNTVTZnA3UEJYd1pjVTkxUDlkMnpEblhlN01YTEhvNTFJV2VTdVM5c2FpSnN4WTU3TFpuSGdsb2RzMXVuYy0wRE01ajdzaG9FQdIBa0FVX3lxTE00R0RNRkFPUEZpTi1BWTlLUkNYVkhrQm9xeW1KYWU5Zjlyc2l4ZjNuNkJJZnBaVFZkVXp6Qm5aTkIzcVM2ZGFkV3B2U0ZkbFBqYzZVdG1BYXd1WkNQaFViemtUVUJLQlNOU0tV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-08-31 14:01:00"
-        },
-        {
-          "title": "快新聞／劉建國提出「高齡照顧全面升級」政策 讓雲林長輩健康呷百二 - 民視新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UZm1TM09xYXZFaFZfMVI1aUpvd2lqVFpPWjZkYWk5eU9oUEtiMHdEdDhGMWh0clFsUzhIcmtrN3AwLTY4U0xJN2EyVVk1RUJXWmhqYkt0TVJtQ21xZ3B2cA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-31 13:57:23"
-        },
-        {
-          "title": "廁所「釘孤支」不悔劉建國：不配合有心人士炒新聞| 政治 - setn.com",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5obXRxenBta25lSXpzMmNFaThjc1Vlc0lzU1ZmUWZIRUJtTG5hY1dpSzBZOG9qTkx6U3laZl9hUW5jUWZFUUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-08-30 18:10:45"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "麥寮運動公園缺特色公廁！劉建國出手爭取2000萬中央資源 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0dFNwVm1MdlczZExJVTI0a1o5ZnJQTmJUdjYtUE1OUGJ2UFMxaHVWYUR0bjVLRFoxeGxUN0pyYjNoNHhIeU9iVy16WG5PR3AyODctd0hwbE5TbUxVdlJENlZhTE1hQ0Vm?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-02 10:48:45"
+      },
       {
         "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 | 觀傳媒 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xdjVPWkh4QnJCenNMVko4MEp4dkNwcmF0SGc0eG11c1dFaV94ZW9FYWdwZlJXZzZqTVpTOGY2VXc3SFhFaDJUN3BxU19PZG42RkNnYzBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1535,6 +1544,11 @@
         "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 - 觀傳媒",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DdThLZG9lUHplYjc4WnkwQVBwdjBfaGJkNHNGVmVhd2RoS3RjVk1zSE1ua0JkUkpuSzU2R2xTaDZNNEJoTVpmOXI4U2psNk1tb1ZOdUhuVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-01 22:11:06"
+      },
+      {
+        "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtdlE5TmJoMFA3S1RyZEdVMmFhN3dHQzJEaGlfNFZaNjM2UEJwRENrODhjamthY3BaSVZDRkgyMmp5MmE4Q1ZPeUNkUGJxdUVJY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-01 22:11:00"
       },
       {
         "title": "劉建國邀環管署現勘麥寮特色公廁 爭取2千萬元中央補助 - 三星傳媒",
@@ -1635,16 +1649,6 @@
         "title": "雲林毛巾結合農產、食品推聯名 張嘉郡盼打造地方產業新鏈結 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQa1hlSEh5V3ctN0pORVktdVlOSEVpaEU5OG44UWo2TjVlY1hSLXFYSUxIajNBTkJHemFVZVFjYmhKamwwZkUyS1RMUnN1c21RN2NXdEJqQmdNSlFSdTV1eXI1Q0o0bE8wNF9Bald1MG0xT2lYaFRHVjJFeUFHN01LajdWSU9IcUcybVZSTnBadkRuanV0bGlFUTQyWmd3OXl0THBtb3llcFQxV2lPOUY4ZTJNZWd2UTNqdGRKRVJLaDRLVXFqSk1HSHhZWGRBSjFNMzh3SHA4VXpNZUIwZWpTV2FXUEltS3MyaTQ2TC1rMDE5a1FQVjlhN2xta0hYYTBheUtBSWhBMHM5Mm1mV3Z3TUhPUjBObTBhWEtwS3NyMk9CZHNEQ1NpNjVRMkJLanhnZmZtdFhDN2dURE1nRTFpemNUZlVHQ1lWSjRDQm1YRXlFcklEMk5teVNuM2tsamdfdUFzdUwxS3RvSndIQlRsdC1pM285NVhhZDNzT2NjUk5VZFpZaFdGSHRHRjYwUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-01 11:46:16"
-      },
-      {
-        "title": "雲林毛巾結合農產、食品推聯名 張嘉郡盼打造地方產業新鏈結 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JekgzUE5PMHM5RjFTdWp6NHhNWEMteFdHa0h1alNQNzZVV0VENVdxMTZ3SHVTSkZRbnZoY1Vld09WM2pWc3NjMkxKZFg2MHNtdlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-01 11:38:00"
-      },
-      {
-        "title": "雲林毛巾結合農產、食品推聯名 張嘉郡盼打造地方產業新鏈結 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVk91SmQtSlA3My1YcjhFRlFGMkxzV1JDcy1sRWlZSGRYcnhzc3lDM2QtejM3YlVUVnk4c2Z3RktoMW9XUk1YLWRaeFpoOUttWFlod3Q1cHN4SG1OLXVJaUwtY3RtTjJ4R2lLWUlQS0oybHpJbUZmSWpmQm4xSUNzWVFrV0VmMFVhVGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-01 11:34:56"
       }
     ],
     "facebook": [
@@ -1680,6 +1684,11 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "麥寮運動公園缺特色公廁！劉建國出手爭取2000萬中央資源 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0dFNwVm1MdlczZExJVTI0a1o5ZnJQTmJUdjYtUE1OUGJ2UFMxaHVWYUR0bjVLRFoxeGxUN0pyYjNoNHhIeU9iVy16WG5PR3AyODctd0hwbE5TbUxVdlJENlZhTE1hQ0Vm?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-02 10:48:45"
+      },
+      {
         "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 | 觀傳媒 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xdjVPWkh4QnJCenNMVko4MEp4dkNwcmF0SGc0eG11c1dFaV94ZW9FYWdwZlJXZzZqTVpTOGY2VXc3SFhFaDJUN3BxU19PZG42RkNnYzBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-01 22:46:53"
@@ -1693,6 +1702,11 @@
         "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 - 觀傳媒",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DdThLZG9lUHplYjc4WnkwQVBwdjBfaGJkNHNGVmVhd2RoS3RjVk1zSE1ua0JkUkpuSzU2R2xTaDZNNEJoTVpmOXI4U2psNk1tb1ZOdUhuVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-01 22:11:06"
+      },
+      {
+        "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtdlE5TmJoMFA3S1RyZEdVMmFhN3dHQzJEaGlfNFZaNjM2UEJwRENrODhjamthY3BaSVZDRkgyMmp5MmE4Q1ZPeUNkUGJxdUVJY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-01 22:11:00"
       },
       {
         "title": "劉建國邀環管署現勘麥寮特色公廁 爭取2千萬元中央補助 - 三星傳媒",
@@ -1868,16 +1882,6 @@
         "title": "高齡多重用藥成隱憂 劉建國促藥師深入社區守護長輩健康 | 觀傳媒 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YZEJHcXlsaTB4M0VHcmJON2d2aFZTM0RnaTNERFdFaXgzTy1jcUxGXzhydFJyLXpvdHhRbGxfWlptekZMYjFJR3lReGYwVy1EVFcxdGNB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-08-30 10:23:22"
-      },
-      {
-        "title": "雲林 張嘉郡力推高齡友善藥局 劉建國拚打造照護安全網 - 中時新聞網",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2UkNWcDdGbDk3cU11TURzOW1sVjQ0WUUtdnVYNFpCdkNrTTAxTmdETVc2ZnBCUmJMX1VfcC1qOFE1ZzJCU1FnZG1RWFFXWEctd1BrdUUtOS1YRjZkVWFQNEozVXItRm9rWGo4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-30 04:10:00"
-      },
-      {
-        "title": "雲林縣長參選人張嘉郡推出「高齡友善藥局」政策 敬老卡點數可在社區藥局使用！ - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyMV8zY193Qm53eEJDcTZoRl9SSmV1QVNxdmlJMGdxcS1sWmZpeTBKOEcyU2F4YTJJYTlteGpfVGNIeEVXbk9iMXhqRW1FbENBYk5ETnpQdU5KaTlTVFF0UllGYjdnb044YTdJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-08-30 02:09:36"
       }
     ],
     "facebook": [
@@ -2055,6 +2059,13 @@
     "hour": [],
     "day": [
       {
+        "title": "麥寮運動公園缺特色公廁！劉建國出手爭取2000萬中央資源 - 元丰傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0dFNwVm1MdlczZExJVTI0a1o5ZnJQTmJUdjYtUE1OUGJ2UFMxaHVWYUR0bjVLRFoxeGxUN0pyYjNoNHhIeU9iVy16WG5PR3AyODctd0hwbE5TbUxVdlJENlZhTE1hQ0Vm?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-02 10:48:45",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "許宇甄 立法委員 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMiqgdBVV95cUxNanVKS2NTcGtNd3ZMZ1VQNjd2OFRmOFdteThCTjdBSkpSeEM1dVVySDZYWjFXWHhfQ2Jpd2Q1MlI1cGwyX2JTT0hfaEVRUlE4SXNwTUJZNW52bDU2MXI0SXhRYzE0TllPRGFhcHhzVjVXNTYwU2lhWVpmZ0xRaXNCOVNGWWlRb25ObmJsMUlxSThNUUxVYkhRT3dfOGJDcUhhX09COXpSd3RMdWVSNXlpRDJ5bTloZVh0WnVMVFkxQzJlMU4tdUJuVGVFMDRHOS1ITjVYemxickdBdG5wZU91UGJXNGVMY3dtX3pQVUhXZWdnRW9VTk9LZ19CblhteUg3Vjl5NUpsX2d2NDRaSUtZT1d0Uno0SE5LYlhuVy1fQ1FhbHREMm1CcGxsYjcxUVIycVFQWlFSV2MyTUxfMERFc0xFaW14amtPQTZwQm1OREl0OS0wMmJMOHptMnhOeFNWWnlOM1h5dXg1RkZLY05PWkN1WWN0V2ZGN21vamVrQ1NHa2xkVDliQy0zMUsyeTlTdk1ZWnFocWxoeG1GQlN4aVRIZjlfeTlHdnpodllQRlZGWkhYUmlFV1l0RGtYQndXaXdUMTJfalF3S0YtOFZLbmY1M2swdXNreV91RUtoMzNfOWVFcTVkTjFELUt1OTlkQnFXN0ZqMXZ3WkFqUVdZTUlWQW5GdWNOUXBlNkpmeEMzemN4cW1oSmFYVWdIalotSDRRVEV5ZTU4b3VCRFBaLUk2akdaTkY5Y1BfVFFwY0JoYjB4RElpV1ZnZXJad29aSEtwVDk3cEE0dTgybVBGa3N2R2VwUHJWckM0cWk0YU9YdnBGOW9sMnZoQ3Y2TnQ0U1pSSHljanFyVk8wOXpXUjltdzJ5RWtzbTBpS2NWV1RNX2c4WGxVa2V5SjZpN1FrMlhjaFVGQkRwQ1E2WTBzbUF6TGJSUjBSUmw0cGJpemU2U2kyOEpES285cW9XdjA0NlJpS1o0VzhmYkFfZ0p3NkVBZWhFbWFPOTNtLTN5enhmWUlfSEZtWGgweWVCYUJSTEliN1hiMVN6SWx0NXdJNEhaZm8zZkwzRlpIbWZfSjhFVUFzQ0pZOHVZZHdzdnNlTnAxUUU4MHRkcFZXcFJVQ2ZGOGdCNjFFT1JsS2FwdWsyaW9qV0MtbUZhYWRPWDcyeDllUHZjVjg3Z3ZZMXUxVFdlWXBvVHJLam1HYWp6OHRaNXNhUVg2VWJjekJBcmVpYjBHbU45YTZFdw",
         "time": "2026-09-02 07:00:04",
@@ -2086,6 +2097,13 @@
         "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 - 觀傳媒",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DdThLZG9lUHplYjc4WnkwQVBwdjBfaGJkNHNGVmVhd2RoS3RjVk1zSE1ua0JkUkpuSzU2R2xTaDZNNEJoTVpmOXI4U2psNk1tb1ZOdUhuVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-01 22:11:06",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtdlE5TmJoMFA3S1RyZEdVMmFhN3dHQzJEaGlfNFZaNjM2UEJwRENrODhjamthY3BaSVZDRkgyMmp5MmE4Q1ZPeUNkUGJxdUVJY2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-01 22:11:00",
         "platform": "news",
         "risk": "綠"
       },
@@ -2179,20 +2197,6 @@
         "time": "2026-09-01 14:50:16",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "假日湧千人！麥寮城鄉運動公園擬增公廁 劉建國邀中央現勘爭取經費 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQY3JUY3pkSHZfRUhqV2NOTVV5bW5KblZrWHVwNUtSXzMxTTJ4dnB0QU5Vek1rWWhCTzQtMjhvTk56NzFBTk9xdFhGdzluTmh4SW1SdnZobjNIVjY5LXZEUVlfTzVGM1huRG9nY0JIa2MtQ1hvMUJyd2ZubER6Y2l1YjUwZkZZQ1lNZmdGWlhEMDR5cVJfYWxnajRSd3hRTjFpTXhOa0l2UDc0bTgwWHRBaC04eTMxd25IcjhfcGhLR1BmUVUtN3kxbHNONmpFSnZLaWVObUEybHoxRG81UHN2NVhQTFhLZGNEbzJKaDJtMmhrMHlGSjhvU3JRUzdSRkRpZlRzRXdpR203V0hMaHB3aVhIRkxiT3pXLVVzZU1lWGlsMlJEOHZZbTZMVkYtV3R1UnVkSUxUNkNtamNKR1JXdGhxMk5oM0lmNUI4WUhIYjBvcWtDQmoycm8zUmlvUWFxYWd5NjRFOTRSbXpzb3M0d0Y0SUZvcmRGb3hSV0pDUnZBTW1nMVgxbV9DcDdqZ0JwbmNram9WYWFPZ2I4NUt1eUhpbUNaSG5DMGNxdWYzVVhmdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-01 14:46:27",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "假日湧千人！麥寮城鄉運動公園擬增公廁 劉建國邀中央現勘爭取經費 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1OGZBQ2lJOEpSX2g3MFQ0dXZBcEpyRUR2QVJlUGg3LVNNV1lJTlI2TVlXRFNtSnZCVTN6T0RoOEo3SWM5MXY2MFdxWXdBd0c3NnBaVzJDX1lKa21lUV8wN3N0a0jSAWpBVV95cUxNX2lnSFBDb0FZSVZ3ekFYZS1YWVpnTDRGajdicF90WXdJeHpISWNWQWdmalQtSHpzSUZ5LUlzclpGMWZRY3hCZ0M5ZGk2dVdjTVgzZndZUnJNUld6NTFsUjFIMGNFX1g4bmxn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-01 14:46:27",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2200,11 +2204,11 @@
     "regions": [
       {
         "name": "麥寮",
-        "count": 15
+        "count": 17
       },
       {
         "name": "雲林",
-        "count": 12
+        "count": 10
       }
     ],
     "groups": [
