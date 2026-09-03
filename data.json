@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-03T06:53:39.041162+00:00",
+  "generated_at": "2026-09-03T07:09:23.684029+00:00",
   "metrics": {
-    "total_24h": 16,
+    "total_24h": 22,
     "prev_24h": 25,
-    "growth_pct": -36.0,
-    "news_24h": 15,
+    "growth_pct": -12.0,
+    "news_24h": 20,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 175,
-    "prev": 199,
-    "growth_pct": -12.06,
-    "news": 147,
+    "total": 181,
+    "prev": 197,
+    "growth_pct": -8.12,
+    "news": 152,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,17 +28,21 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 15
+      "count": 20
     },
     {
       "platform": "facebook",
+      "count": 1
+    },
+    {
+      "platform": "youtube",
       "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 147
+      "count": 152
     },
     {
       "platform": "facebook",
@@ -46,7 +50,7 @@
     },
     {
       "platform": "youtube",
-      "count": 5
+      "count": 6
     }
   ],
   "by_hour": [
@@ -60,7 +64,7 @@
     },
     {
       "hour": "2026-09-02 17:00",
-      "count": 7
+      "count": 8
     },
     {
       "hour": "2026-09-02 18:00",
@@ -71,7 +75,15 @@
       "count": 1
     },
     {
+      "hour": "2026-09-03 12:00",
+      "count": 1
+    },
+    {
       "hour": "2026-09-03 13:00",
+      "count": 4
+    },
+    {
+      "hour": "2026-09-03 14:00",
       "count": 3
     }
   ],
@@ -338,7 +350,7 @@
     },
     {
       "hour": "2026-09-02 17:00",
-      "count": 7
+      "count": 8
     },
     {
       "hour": "2026-09-02 18:00",
@@ -349,18 +361,41 @@
       "count": 1
     },
     {
+      "hour": "2026-09-03 12:00",
+      "count": 1
+    },
+    {
       "hour": "2026-09-03 13:00",
+      "count": 4
+    },
+    {
+      "hour": "2026-09-03 14:00",
       "count": 3
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 15
+      "count": 20
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "「WOW超越想像、雲林更好」 張嘉郡：承擔責任、接續建設、加速前進 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tMmxEMEtNc2ZPM0I2T0N3SWtfbUhMMll3WkgtYjNPOWphUjR5NG1TSUpYTlhCN2p6OXdRN3o1dmMtb0pPYjdCQg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-03 14:10:47"
+      },
+      {
+        "title": "雲林寵物經濟拚共好 張嘉郡推出4大政策【最新快訊】 - 台視全球資訊網",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05V24wLUliaV9yRC1HV3hYTnVQMFJxVDNGb2dTS0FOc09jQ0R2ZlFpZGItdmpQazlENVZ1d0N5N3J5NHdZajJTSVdzTHY5Rkh6SVdoblRnRUFVUnNSOFF4THJyR3doNHFhbGNNbjdPeURPS1JmcEpjVXF2aWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-03 14:08:50"
+      },
+      {
+        "title": "參選雲林縣長張嘉郡完成登記 誓言讓世界驚嘆雲林 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qVDJVaG85TEl5cmVfRGpOTTZPU1U0Y2wtRVBWajB0VkpfQmY4Uno5R08xY0I0NDRwM0c2elUtVHlXWnVaVWhpckV0QzAyMmU1TmF30gFYQVVfeXFMTmI1bDliQ0lLbFA0VW90cXhxYm9samtGNkNZLU1qbThJa0NBMDk5YTRqd3hEbUxrWXAyeU1IcDNMTDNiNWI1RFMzNTBRdWp3VTV4bXAxOTFzNg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-03 13:38:22"
+      },
       {
         "title": "張嘉郡：今登記參選縣長 承擔責任接續建設加速前進 讓雲林更好 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXMza2VkTmJ1UkY1Z25VSzYxY182WEdvWEJDVWZRYm43eGhhWng2SXRxUWRWRDl3ekEzckpwUFJweHlKZllWWlN5RktaT0ptYy1NWGRGUHFhYWVQb3FVTGZRR2RtaWtOSnBmQlM1ZnF6a0E3UHU3LTdrbWhUOXZMOEE3N2dYNFlFc3NBT0pB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -375,6 +410,11 @@
         "title": "數百支持者到場力挺！張嘉郡登記參選雲林縣長 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPQV9wSFNaQ0pYbWVTMTFMemlkS056TFVocXRyUWdQVndVWkhqNkNGRTI3UGRqbTlOM3pQZDhHc3hlQkJZZW9IM2NYcXpTSjFQZ2RneTJNS1ZKVXVsVHI4dUQ5eGpwTDV3c01fSXNNS3JCenI0R3VaTHdfZUtBYmIwcGU3YkloTmo1Vjh1TWtYdmJMenctWkF0alZzMDlHcEZ3RDB5eWFOSFRkSEExaDNUWko1eGNjc0Vjcl9vUVpaUnozMllUVzROTzVpWmU3ZnlmUkszUG5kTno0bko2YUk4aGtyTXRBQWVmVC1Mbk53aXVfX0lRdnVHTEZjLVpZVUxxaElrZXpqUktXR1hhYTZReDZSOGFxaEhaMjNjbkUwOXlvYWlPUWNId255Tkd4OWtuQUxBUFIwOEkzWHpMd0hqNUJKY00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-03 13:05:25"
+      },
+      {
+        "title": "數百支持者到場力挺！張嘉郡登記參選雲林縣長 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4N3pzWEI4LXB6R29NUC1HTjlEb05BOWtQcExiM1FueHlYRVU4cWdwcW8wdzJqcjNta2R6Tl9TTlctWWpxQzVISXhVU3BJZXpqTkx2QWpPNUR0OWNFT2FuaUZGakR6MnpEQWfSAW9BVV95cUxQNm1oRzdGcHRvY3dVMV9pVHVTR2RPeGlUX1EtanBIUGpBS0dKXzhYY0NfaWlfYWFNS2tNcFdfcmtkcWdYUmdKdktpcnJPOXBXN0RlbzZ0WEhXRUVUMFlkTkhWWUpMTkFnQ1QxY2lsQ1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-03 12:55:45"
       },
       {
         "title": "連日降雨致青蔥受損嚴重 劉建國爭取公告天然災害救助 | 中華日報 - today.line.me",
@@ -395,6 +435,11 @@
         "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNalhSbWRlYkxaV3FDSTlSZzZmRXl4TVNFaXptM2VNcTVJaVJnVmFCbVdiS1c4Ny1QNEdqcTBhTEFzWDJoVVpEQ3RHdnBBRjV0R3dXX3drLXduRHlrZXpCUWprVjZqbE9GaHlyLU56WWE1UjNkUFV6MzFQamdoVC1Ma2tsV2ozQlFaUFBmakYzNExMMHRuOUxYbUpsb2hpRmJnMm1naENpNVRZOFREUkVSVTlZQ2c0WWp3R2tNX2dWanktQzIwNV9Ndy1ESVFNU0NSbkY0UzdFNTl0YTZ4RXROOFBFT1FXYkFWN2ZIb3dVOXVKYW1Dd1JOZDNBLUM2OElpWng1UVotbktKZ1hHNEZMT3cwbmw3bFlMaWp4VDFyMFlXbVlVbW9jOFFoU2VNdUtSaDRaMnFRZmpWeS1YOFJyLXpBM3lGSUpULTY2WGNkZEk1MDVRNndPc0dxYmJjS0JsNHhJNjM2N2ViOHZ2dldHMkhJRGlLcFdValBVNGd3cDhCMlVTZHRXem9pRmlOUHJxZUpBZmZKR21wU2Z6UXdHR3FUUDY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-02 17:26:17"
+      },
+      {
+        "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - 觀傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wb1lHMUNocElOcjkyY21Bb1FyWVpNak9MdUhiZGpHcTBLRl9lNTQ2QVVTdTJUeXVEMXVZUWFhVHhkLWR6ZTFIU1hDR2NrUnhaNTVnQ1hLaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-02 17:26:15"
       },
       {
         "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - 蕃新聞",
@@ -441,11 +486,26 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 15
+      "count": 20
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "「WOW超越想像、雲林更好」 張嘉郡：承擔責任、接續建設、加速前進 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tMmxEMEtNc2ZPM0I2T0N3SWtfbUhMMll3WkgtYjNPOWphUjR5NG1TSUpYTlhCN2p6OXdRN3o1dmMtb0pPYjdCQg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-03 14:10:47"
+      },
+      {
+        "title": "雲林寵物經濟拚共好 張嘉郡推出4大政策【最新快訊】 - 台視全球資訊網",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05V24wLUliaV9yRC1HV3hYTnVQMFJxVDNGb2dTS0FOc09jQ0R2ZlFpZGItdmpQazlENVZ1d0N5N3J5NHdZajJTSVdzTHY5Rkh6SVdoblRnRUFVUnNSOFF4THJyR3doNHFhbGNNbjdPeURPS1JmcEpjVXF2aWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-03 14:08:50"
+      },
+      {
+        "title": "參選雲林縣長張嘉郡完成登記 誓言讓世界驚嘆雲林 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qVDJVaG85TEl5cmVfRGpOTTZPU1U0Y2wtRVBWajB0VkpfQmY4Uno5R08xY0I0NDRwM0c2elUtVHlXWnVaVWhpckV0QzAyMmU1TmF30gFYQVVfeXFMTmI1bDliQ0lLbFA0VW90cXhxYm9samtGNkNZLU1qbThJa0NBMDk5YTRqd3hEbUxrWXAyeU1IcDNMTDNiNWI1RFMzNTBRdWp3VTV4bXAxOTFzNg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-03 13:38:22"
+      },
       {
         "title": "張嘉郡：今登記參選縣長 承擔責任接續建設加速前進 讓雲林更好 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXMza2VkTmJ1UkY1Z25VSzYxY182WEdvWEJDVWZRYm43eGhhWng2SXRxUWRWRDl3ekEzckpwUFJweHlKZllWWlN5RktaT0ptYy1NWGRGUHFhYWVQb3FVTGZRR2RtaWtOSnBmQlM1ZnF6a0E3UHU3LTdrbWhUOXZMOEE3N2dYNFlFc3NBT0pB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -460,6 +520,11 @@
         "title": "數百支持者到場力挺！張嘉郡登記參選雲林縣長 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPQV9wSFNaQ0pYbWVTMTFMemlkS056TFVocXRyUWdQVndVWkhqNkNGRTI3UGRqbTlOM3pQZDhHc3hlQkJZZW9IM2NYcXpTSjFQZ2RneTJNS1ZKVXVsVHI4dUQ5eGpwTDV3c01fSXNNS3JCenI0R3VaTHdfZUtBYmIwcGU3YkloTmo1Vjh1TWtYdmJMenctWkF0alZzMDlHcEZ3RDB5eWFOSFRkSEExaDNUWko1eGNjc0Vjcl9vUVpaUnozMllUVzROTzVpWmU3ZnlmUkszUG5kTno0bko2YUk4aGtyTXRBQWVmVC1Mbk53aXVfX0lRdnVHTEZjLVpZVUxxaElrZXpqUktXR1hhYTZReDZSOGFxaEhaMjNjbkUwOXlvYWlPUWNId255Tkd4OWtuQUxBUFIwOEkzWHpMd0hqNUJKY00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-03 13:05:25"
+      },
+      {
+        "title": "數百支持者到場力挺！張嘉郡登記參選雲林縣長 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4N3pzWEI4LXB6R29NUC1HTjlEb05BOWtQcExiM1FueHlYRVU4cWdwcW8wdzJqcjNta2R6Tl9TTlctWWpxQzVISXhVU3BJZXpqTkx2QWpPNUR0OWNFT2FuaUZGakR6MnpEQWfSAW9BVV95cUxQNm1oRzdGcHRvY3dVMV9pVHVTR2RPeGlUX1EtanBIUGpBS0dKXzhYY0NfaWlfYWFNS2tNcFdfcmtkcWdYUmdKdktpcnJPOXBXN0RlbzZ0WEhXRUVUMFlkTkhWWUpMTkFnQ1QxY2lsQ1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-03 12:55:45"
       },
       {
         "title": "連日降雨致青蔥受損嚴重 劉建國爭取公告天然災害救助 | 中華日報 - today.line.me",
@@ -480,6 +545,11 @@
         "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNalhSbWRlYkxaV3FDSTlSZzZmRXl4TVNFaXptM2VNcTVJaVJnVmFCbVdiS1c4Ny1QNEdqcTBhTEFzWDJoVVpEQ3RHdnBBRjV0R3dXX3drLXduRHlrZXpCUWprVjZqbE9GaHlyLU56WWE1UjNkUFV6MzFQamdoVC1Ma2tsV2ozQlFaUFBmakYzNExMMHRuOUxYbUpsb2hpRmJnMm1naENpNVRZOFREUkVSVTlZQ2c0WWp3R2tNX2dWanktQzIwNV9Ndy1ESVFNU0NSbkY0UzdFNTl0YTZ4RXROOFBFT1FXYkFWN2ZIb3dVOXVKYW1Dd1JOZDNBLUM2OElpWng1UVotbktKZ1hHNEZMT3cwbmw3bFlMaWp4VDFyMFlXbVlVbW9jOFFoU2VNdUtSaDRaMnFRZmpWeS1YOFJyLXpBM3lGSUpULTY2WGNkZEk1MDVRNndPc0dxYmJjS0JsNHhJNjM2N2ViOHZ2dldHMkhJRGlLcFdValBVNGd3cDhCMlVTZHRXem9pRmlOUHJxZUpBZmZKR21wU2Z6UXdHR3FUUDY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-02 17:26:17"
+      },
+      {
+        "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - 觀傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wb1lHMUNocElOcjkyY21Bb1FyWVpNak9MdUhiZGpHcTBLRl9lNTQ2QVVTdTJUeXVEMXVZUWFhVHhkLWR6ZTFIU1hDR2NrUnhaNTVnQ1hLaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-02 17:26:15"
       },
       {
         "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - 蕃新聞",
@@ -524,14 +594,29 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 4,
-    "劉建國": 11
+    "張嘉郡": 8,
+    "劉建國": 12
   },
   "mention_compare_7d": {
-    "張嘉郡": 85,
-    "劉建國": 80
+    "張嘉郡": 89,
+    "劉建國": 81
   },
   "top_news": [
+    {
+      "title": "「WOW超越想像、雲林更好」 張嘉郡：承擔責任、接續建設、加速前進 - 台灣民眾電子報",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tMmxEMEtNc2ZPM0I2T0N3SWtfbUhMMll3WkgtYjNPOWphUjR5NG1TSUpYTlhCN2p6OXdRN3o1dmMtb0pPYjdCQg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-03 14:10:47"
+    },
+    {
+      "title": "雲林寵物經濟拚共好 張嘉郡推出4大政策【最新快訊】 - 台視全球資訊網",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05V24wLUliaV9yRC1HV3hYTnVQMFJxVDNGb2dTS0FOc09jQ0R2ZlFpZGItdmpQazlENVZ1d0N5N3J5NHdZajJTSVdzTHY5Rkh6SVdoblRnRUFVUnNSOFF4THJyR3doNHFhbGNNbjdPeURPS1JmcEpjVXF2aWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-03 14:08:50"
+    },
+    {
+      "title": "參選雲林縣長張嘉郡完成登記 誓言讓世界驚嘆雲林 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qVDJVaG85TEl5cmVfRGpOTTZPU1U0Y2wtRVBWajB0VkpfQmY4Uno5R08xY0I0NDRwM0c2elUtVHlXWnVaVWhpckV0QzAyMmU1TmF30gFYQVVfeXFMTmI1bDliQ0lLbFA0VW90cXhxYm9samtGNkNZLU1qbThJa0NBMDk5YTRqd3hEbUxrWXAyeU1IcDNMTDNiNWI1RFMzNTBRdWp3VTV4bXAxOTFzNg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-03 13:38:22"
+    },
     {
       "title": "張嘉郡：今登記參選縣長 承擔責任接續建設加速前進 讓雲林更好 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXMza2VkTmJ1UkY1Z25VSzYxY182WEdvWEJDVWZRYm43eGhhWng2SXRxUWRWRDl3ekEzckpwUFJweHlKZllWWlN5RktaT0ptYy1NWGRGUHFhYWVQb3FVTGZRR2RtaWtOSnBmQlM1ZnF6a0E3UHU3LTdrbWhUOXZMOEE3N2dYNFlFc3NBT0pB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -546,6 +631,11 @@
       "title": "數百支持者到場力挺！張嘉郡登記參選雲林縣長 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPQV9wSFNaQ0pYbWVTMTFMemlkS056TFVocXRyUWdQVndVWkhqNkNGRTI3UGRqbTlOM3pQZDhHc3hlQkJZZW9IM2NYcXpTSjFQZ2RneTJNS1ZKVXVsVHI4dUQ5eGpwTDV3c01fSXNNS3JCenI0R3VaTHdfZUtBYmIwcGU3YkloTmo1Vjh1TWtYdmJMenctWkF0alZzMDlHcEZ3RDB5eWFOSFRkSEExaDNUWko1eGNjc0Vjcl9vUVpaUnozMllUVzROTzVpWmU3ZnlmUkszUG5kTno0bko2YUk4aGtyTXRBQWVmVC1Mbk53aXVfX0lRdnVHTEZjLVpZVUxxaElrZXpqUktXR1hhYTZReDZSOGFxaEhaMjNjbkUwOXlvYWlPUWNId255Tkd4OWtuQUxBUFIwOEkzWHpMd0hqNUJKY00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-03 13:05:25"
+    },
+    {
+      "title": "數百支持者到場力挺！張嘉郡登記參選雲林縣長 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4N3pzWEI4LXB6R29NUC1HTjlEb05BOWtQcExiM1FueHlYRVU4cWdwcW8wdzJqcjNta2R6Tl9TTlctWWpxQzVISXhVU3BJZXpqTkx2QWpPNUR0OWNFT2FuaUZGakR6MnpEQWfSAW9BVV95cUxQNm1oRzdGcHRvY3dVMV9pVHVTR2RPeGlUX1EtanBIUGpBS0dKXzhYY0NfaWlfYWFNS2tNcFdfcmtkcWdYUmdKdktpcnJPOXBXN0RlbzZ0WEhXRUVUMFlkTkhWWUpMTkFnQ1QxY2lsQ1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-03 12:55:45"
     },
     {
       "title": "連日降雨致青蔥受損嚴重 劉建國爭取公告天然災害救助 | 中華日報 - today.line.me",
@@ -568,33 +658,28 @@
       "time": "2026-09-02 17:26:17"
     },
     {
-      "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fdkZiTFZZQ3I3NHJjbUZyLTlzRXBCNWZrcTQ4WmV1X2pzT1I0aU4ycWgzWGxSX05iSXA1eW1hQ0lXcm84RDgyUmZ6SFVJa3VSWEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-02 17:26:00"
-    },
-    {
-      "title": "連日降雨致青蔥受損嚴重 劉建國爭取公告天然災害救助 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPa0dhbnFIemVoVFJXTHBuTWZnZXAyMGhGMldWMXpaa0dwenRTRXNkTHFPWWpwd002cFU2ckpmTG1xY2gzeGstbkZPWk5YbnJrbFFOb0wxUTFXbF9ZUmMzNEtEYmFjQktROENYX2ZBU1VHMzc2Y2pFdklIQnJYYzVsX2pwWHpaeG5IQWJ0YXNPOVZudGp4QTBET0JCa3hvcHB2N3hhLUlQNnlTUGpDcUtBSUVENk1nc2VUekJ5OV84OV9aUlB5YklWRF9EZ1o1NGRjUFdzZGVGZ05ibVlXMk1hQ05SNWVVSkV6X0huX2Z1Ty1nWVdLNVlySjdqSEs3ZGJQa3U3OE9hS0liTG1oVC1lVW1SZ254dmNtbGdaVXoxQXJ5N2RmNGNlbGg3LTQ3WXc0bmlCWUF5bVRqN0tKU2drQ3ZpMzdKWF90R0stSXBPdWpsRTVmQmd5YklRVWd0cVowT1JyRnU1UGJwOXZQMXpHYVlqTUY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-02 17:23:23"
-    },
-    {
-      "title": "「阿國師」太會炒！劉建國秀廚藝 鎮長、農糧分署長直呼「壓力大」 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOeHc1R3NCV205S1ZscUtlaWhJd0w0LTcyWWU2dUdsOTgtckNxS1RZQThtUHY1aVdtb3ZMcEc0cUxhUHhCTkxKVWtObmhLTXc3OC1XWkxiRFoyQnBUbmlZa1RDRUcxNnF0cHpDTkhld2JHaWRleXJBWDZhc2FFUjVLeFhWQ2hMZ0R4YWNTNjBoSndmSlN5WXJGR3hPbDhMZU9RVHNIOEFWeHBfNDhEYVl2UjFvaUEyZEstU3RWUTdIMUxGNUNOX3NwU1B2WGlfWXVrRXdlWWREeGtZazczcURjd1VST2t1b0Z6V1J5WjNqd1E4RjVjZHBycktXVUhNUHlzaWJYMFp1dFJZSnFaTHB1NTlBUFI0cERhX216di1XVUtfWVhCMXBtRTlKM2tTRW50MTJtVU9NZkE4NWhiRGhHdTB1VVlGN21wUXZCSzFXTkpYc1J2?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-02 17:07:24"
-    },
-    {
-      "title": "「阿國師」太會炒！劉建國秀廚藝 鎮長、農糧分署長直呼「壓力大」 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nb09PM1BQZnJla3NDSkN0bHZrcFVvcVFqRmtfc1hMbUpRd25uLS1DRm5EaHVDSnF2VXJxS0ExdzJMNmlrWjFzOFlDM194MWt6ZnVKVi03eDNGaU5rdWRUbDRzeFXSAWpBVV95cUxPbTljdThiZXhKaGN1MVZseEFLakQyZ3VLX241MG9WOUJkWFVfQXpJUktQcTRFbXR3WXk3Y1EzRi1EZ3pTeWpIdVVQR2FVZl9XdlUwZjZIS21kWk5YQU50bV9CalpiU3lhSXRn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-02 17:07:24"
-    },
-    {
-      "title": "劉建國會勘元長、褒忠青蔥農損 籲農業部儘速啟動天然災害現金救助 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeGFUcGZiajNMQy1vRFF6ZS1DUnhyanRsUnBrVklaZWswTUotMi1wLUZSbHBFamZXZnYwYjhQQ0tNNUZ6MzZ3am5ISll1VUFwYVVuMm1YeWl1ZVpiSVhUVUswSUNscks1NHhfMFpTRloxLU40ekZhS3pFVlBISkpyT0ZDWFJSVGN4eEZGQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-02 16:52:22"
+      "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - 觀傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wb1lHMUNocElOcjkyY21Bb1FyWVpNak9MdUhiZGpHcTBLRl9lNTQ2QVVTdTJUeXVEMXVZUWFhVHhkLWR6ZTFIU1hDR2NrUnhaNTVnQ1hLaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-02 17:26:15"
     }
   ],
   "top_news_7d": [
     {
+      "title": "「WOW超越想像、雲林更好」 張嘉郡：承擔責任、接續建設、加速前進 - 台灣民眾電子報",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tMmxEMEtNc2ZPM0I2T0N3SWtfbUhMMll3WkgtYjNPOWphUjR5NG1TSUpYTlhCN2p6OXdRN3o1dmMtb0pPYjdCQg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-03 14:10:47"
+    },
+    {
+      "title": "雲林寵物經濟拚共好 張嘉郡推出4大政策【最新快訊】 - 台視全球資訊網",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05V24wLUliaV9yRC1HV3hYTnVQMFJxVDNGb2dTS0FOc09jQ0R2ZlFpZGItdmpQazlENVZ1d0N5N3J5NHdZajJTSVdzTHY5Rkh6SVdoblRnRUFVUnNSOFF4THJyR3doNHFhbGNNbjdPeURPS1JmcEpjVXF2aWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-03 14:08:50"
+    },
+    {
+      "title": "參選雲林縣長張嘉郡完成登記 誓言讓世界驚嘆雲林 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qVDJVaG85TEl5cmVfRGpOTTZPU1U0Y2wtRVBWajB0VkpfQmY4Uno5R08xY0I0NDRwM0c2elUtVHlXWnVaVWhpckV0QzAyMmU1TmF30gFYQVVfeXFMTmI1bDliQ0lLbFA0VW90cXhxYm9samtGNkNZLU1qbThJa0NBMDk5YTRqd3hEbUxrWXAyeU1IcDNMTDNiNWI1RFMzNTBRdWp3VTV4bXAxOTFzNg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-03 13:38:22"
+    },
+    {
       "title": "張嘉郡：今登記參選縣長 承擔責任接續建設加速前進 讓雲林更好 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXMza2VkTmJ1UkY1Z25VSzYxY182WEdvWEJDVWZRYm43eGhhWng2SXRxUWRWRDl3ekEzckpwUFJweHlKZllWWlN5RktaT0ptYy1NWGRGUHFhYWVQb3FVTGZRR2RtaWtOSnBmQlM1ZnF6a0E3UHU3LTdrbWhUOXZMOEE3N2dYNFlFc3NBT0pB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-03 13:25:48"
@@ -608,6 +693,11 @@
       "title": "數百支持者到場力挺！張嘉郡登記參選雲林縣長 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPQV9wSFNaQ0pYbWVTMTFMemlkS056TFVocXRyUWdQVndVWkhqNkNGRTI3UGRqbTlOM3pQZDhHc3hlQkJZZW9IM2NYcXpTSjFQZ2RneTJNS1ZKVXVsVHI4dUQ5eGpwTDV3c01fSXNNS3JCenI0R3VaTHdfZUtBYmIwcGU3YkloTmo1Vjh1TWtYdmJMenctWkF0alZzMDlHcEZ3RDB5eWFOSFRkSEExaDNUWko1eGNjc0Vjcl9vUVpaUnozMllUVzROTzVpWmU3ZnlmUkszUG5kTno0bko2YUk4aGtyTXRBQWVmVC1Mbk53aXVfX0lRdnVHTEZjLVpZVUxxaElrZXpqUktXR1hhYTZReDZSOGFxaEhaMjNjbkUwOXlvYWlPUWNId255Tkd4OWtuQUxBUFIwOEkzWHpMd0hqNUJKY00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-03 13:05:25"
+    },
+    {
+      "title": "數百支持者到場力挺！張嘉郡登記參選雲林縣長 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4N3pzWEI4LXB6R29NUC1HTjlEb05BOWtQcExiM1FueHlYRVU4cWdwcW8wdzJqcjNta2R6Tl9TTlctWWpxQzVISXhVU3BJZXpqTkx2QWpPNUR0OWNFT2FuaUZGakR6MnpEQWfSAW9BVV95cUxQNm1oRzdGcHRvY3dVMV9pVHVTR2RPeGlUX1EtanBIUGpBS0dKXzhYY0NfaWlfYWFNS2tNcFdfcmtkcWdYUmdKdktpcnJPOXBXN0RlbzZ0WEhXRUVUMFlkTkhWWUpMTkFnQ1QxY2lsQ1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-03 12:55:45"
     },
     {
       "title": "連日降雨致青蔥受損嚴重 劉建國爭取公告天然災害救助 | 中華日報 - today.line.me",
@@ -628,6 +718,11 @@
       "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNalhSbWRlYkxaV3FDSTlSZzZmRXl4TVNFaXptM2VNcTVJaVJnVmFCbVdiS1c4Ny1QNEdqcTBhTEFzWDJoVVpEQ3RHdnBBRjV0R3dXX3drLXduRHlrZXpCUWprVjZqbE9GaHlyLU56WWE1UjNkUFV6MzFQamdoVC1Ma2tsV2ozQlFaUFBmakYzNExMMHRuOUxYbUpsb2hpRmJnMm1naENpNVRZOFREUkVSVTlZQ2c0WWp3R2tNX2dWanktQzIwNV9Ndy1ESVFNU0NSbkY0UzdFNTl0YTZ4RXROOFBFT1FXYkFWN2ZIb3dVOXVKYW1Dd1JOZDNBLUM2OElpWng1UVotbktKZ1hHNEZMT3cwbmw3bFlMaWp4VDFyMFlXbVlVbW9jOFFoU2VNdUtSaDRaMnFRZmpWeS1YOFJyLXpBM3lGSUpULTY2WGNkZEk1MDVRNndPc0dxYmJjS0JsNHhJNjM2N2ViOHZ2dldHMkhJRGlLcFdValBVNGd3cDhCMlVTZHRXem9pRmlOUHJxZUpBZmZKR21wU2Z6UXdHR3FUUDY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-02 17:26:17"
+    },
+    {
+      "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - 觀傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wb1lHMUNocElOcjkyY21Bb1FyWVpNak9MdUhiZGpHcTBLRl9lNTQ2QVVTdTJUeXVEMXVZUWFhVHhkLWR6ZTFIU1hDR2NrUnhaNTVnQ1hLaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-02 17:26:15"
     },
     {
       "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - 蕃新聞",
@@ -668,31 +763,6 @@
       "title": "雲林釋出1.5萬個職缺！矽品斗六新廠預計2028啟用 張嘉郡：打造青年返鄉好舞台 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNOXd3ckk1VjZEQTRURU01Z1pnd2h6TWkzbTI1cHdFbDV4Y1hINFUxVGladDQzMVpXX3Q3TzhaOVNKUUZZU2txZHVyM1JaMzBFRjFUMnI3SHhLMGdxWEI1TmlxeFZnR0dCcGZXeDk4eGZoTnA0bm9WUm8tbFJUSU05QWxxMWFLYTQ3Slhhc1BMMzR3dk1paUtvaHJHVEk3VnVyYlZrMGg5U1RySXdOR1FDd29RTVJPVDVqdmhDT2NKYkRwYmh1T1NuNUJaOWEyVnBZSkF4Yy1ld2RoR3drQ1pITF9FRGZKQUJWSWowNnl4UWRUOWxpY1lXYUhNNjlHeC1pdFlmZ21JbzFtdUozWUY4c21ibHB5alZ3TWhnMDJBYXpTYTlvRDJGR1dZUUswVi1jLUhJYXRxN3ZVN1JfOEtCem1LbzRvdnVpV1hydFdLWXY4TUliVTVQSkRXMWRSelg0ZGNNWkh3QkEweUw1TGpsLVFRb29CeFZya01YWlpObXVjZi01YzFCektJVjVyeW01RWVzbVo4alNyN252bWRlWmQxaWxlLWRHS2VkQjdmSlo5ZENzbkNrSWl6WmJYQ29iQU5Wb3g5Sm0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-02 15:16:13"
-    },
-    {
-      "title": "雲林釋出1.5萬個職缺！矽品斗六新廠預計2028啟用　張嘉郡：打造青年返鄉好舞台 - 鏡週刊Mirror Media",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wcTMySl9rYkhmUk9nLUtOMU5wc2JVOHdCU1l5bFVwa1dnM0FsZnpIem9FWTBTZmZESFF5S01QVFZKQ1RGN2FSUEhjUmc4LUswa3NHcFNlMVZPRW_SAWBBVV95cUxPbWVKR1VlRGVyU3FhNDUxdDc2WVpmQ0N4cHRveTJTYzEyUHZZNUk2T1p1blI0M3RNaU80TFU4dmVlbUNmZ3VLT1A5U1o0aWttdEtFRGZkMnpOa0RHMWc4bjc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-02 14:50:00"
-    },
-    {
-      "title": "雲林釋出1.5萬個職缺！矽品斗六新廠預計2028啟用　張嘉郡：打造青年返鄉好舞台 - 鏡週刊Mirror Media",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tZUpHVWVEZXJTcWE0NTF0NzZZWmZDQ3hwdG95MlNjMTJQdlk1STZPWnVuUjQzdE1pTzRMVTh2ZWVtQ2ZndUtPUDlTWjRpa210S0VEZmQyek5rREcxZzhuN9IBYEFVX3lxTE9tZUpHVWVEZXJTcWE0NTF0NzZZWmZDQ3hwdG95MlNjMTJQdlk1STZPWnVuUjQzdE1pTzRMVTh2ZWVtQ2ZndUtPUDlTWjRpa210S0VEZmQyek5rREcxZzhuNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-02 14:50:00"
-    },
-    {
-      "title": "麥寮運動公園缺特色公廁！劉建國出手爭取2000萬中央資源 - 元丰傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0dFNwVm1MdlczZExJVTI0a1o5ZnJQTmJUdjYtUE1OUGJ2UFMxaHVWYUR0bjVLRFoxeGxUN0pyYjNoNHhIeU9iVy16WG5PR3AyODctd0hwbE5TbUxVdlJENlZhTE1hQ0Vm?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-02 10:48:45"
-    },
-    {
-      "title": "麥寮運動公園新公廁 劉建國爭取經費 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LUEtfWDJsWlE0V29EUmI4X1FEeGF5cDk2cndEa1dkUjBhN09KalpEcU9nWkJOb2NCY2V0T2hUcDkwVXJYQ0czdGs2R2E3WXJnYkxDeWNya3A2VE3SAWBBVV95cUxOejlJLXYwZXhpbWdQWll3RlVWMUExM2VOY0dVZXAzQi1BVThRelhPcDUyMkFTZFhsYnlsbE45RllRN2MxVXBFUUlqcXl6cHctX0hoX084ZFF3bVhQQ3V1bmE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-02 05:30:00"
-    },
-    {
-      "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 | 觀傳媒 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xdjVPWkh4QnJCenNMVko4MEp4dkNwcmF0SGc0eG11c1dFaV94ZW9FYWdwZlJXZzZqTVpTOGY2VXc3SFhFaDJUN3BxU19PZG42RkNnYzBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-01 22:46:53"
     }
   ],
   "latest_facebook_20": [
@@ -799,6 +869,21 @@
   ],
   "latest_news_20": [
     {
+      "title": "「WOW超越想像、雲林更好」 張嘉郡：承擔責任、接續建設、加速前進 - 台灣民眾電子報",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tMmxEMEtNc2ZPM0I2T0N3SWtfbUhMMll3WkgtYjNPOWphUjR5NG1TSUpYTlhCN2p6OXdRN3o1dmMtb0pPYjdCQg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-03 14:10:47"
+    },
+    {
+      "title": "雲林寵物經濟拚共好 張嘉郡推出4大政策【最新快訊】 - 台視全球資訊網",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05V24wLUliaV9yRC1HV3hYTnVQMFJxVDNGb2dTS0FOc09jQ0R2ZlFpZGItdmpQazlENVZ1d0N5N3J5NHdZajJTSVdzTHY5Rkh6SVdoblRnRUFVUnNSOFF4THJyR3doNHFhbGNNbjdPeURPS1JmcEpjVXF2aWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-03 14:08:50"
+    },
+    {
+      "title": "參選雲林縣長張嘉郡完成登記 誓言讓世界驚嘆雲林 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qVDJVaG85TEl5cmVfRGpOTTZPU1U0Y2wtRVBWajB0VkpfQmY4Uno5R08xY0I0NDRwM0c2elUtVHlXWnVaVWhpckV0QzAyMmU1TmF30gFYQVVfeXFMTmI1bDliQ0lLbFA0VW90cXhxYm9samtGNkNZLU1qbThJa0NBMDk5YTRqd3hEbUxrWXAyeU1IcDNMTDNiNWI1RFMzNTBRdWp3VTV4bXAxOTFzNg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-03 13:38:22"
+    },
+    {
       "title": "張嘉郡：今登記參選縣長 承擔責任接續建設加速前進 讓雲林更好 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXMza2VkTmJ1UkY1Z25VSzYxY182WEdvWEJDVWZRYm43eGhhWng2SXRxUWRWRDl3ekEzckpwUFJweHlKZllWWlN5RktaT0ptYy1NWGRGUHFhYWVQb3FVTGZRR2RtaWtOSnBmQlM1ZnF6a0E3UHU3LTdrbWhUOXZMOEE3N2dYNFlFc3NBT0pB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-03 13:25:48"
@@ -812,6 +897,11 @@
       "title": "數百支持者到場力挺！張嘉郡登記參選雲林縣長 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPQV9wSFNaQ0pYbWVTMTFMemlkS056TFVocXRyUWdQVndVWkhqNkNGRTI3UGRqbTlOM3pQZDhHc3hlQkJZZW9IM2NYcXpTSjFQZ2RneTJNS1ZKVXVsVHI4dUQ5eGpwTDV3c01fSXNNS3JCenI0R3VaTHdfZUtBYmIwcGU3YkloTmo1Vjh1TWtYdmJMenctWkF0alZzMDlHcEZ3RDB5eWFOSFRkSEExaDNUWko1eGNjc0Vjcl9vUVpaUnozMllUVzROTzVpWmU3ZnlmUkszUG5kTno0bko2YUk4aGtyTXRBQWVmVC1Mbk53aXVfX0lRdnVHTEZjLVpZVUxxaElrZXpqUktXR1hhYTZReDZSOGFxaEhaMjNjbkUwOXlvYWlPUWNId255Tkd4OWtuQUxBUFIwOEkzWHpMd0hqNUJKY00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-03 13:05:25"
+    },
+    {
+      "title": "數百支持者到場力挺！張嘉郡登記參選雲林縣長 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4N3pzWEI4LXB6R29NUC1HTjlEb05BOWtQcExiM1FueHlYRVU4cWdwcW8wdzJqcjNta2R6Tl9TTlctWWpxQzVISXhVU3BJZXpqTkx2QWpPNUR0OWNFT2FuaUZGakR6MnpEQWfSAW9BVV95cUxQNm1oRzdGcHRvY3dVMV9pVHVTR2RPeGlUX1EtanBIUGpBS0dKXzhYY0NfaWlfYWFNS2tNcFdfcmtkcWdYUmdKdktpcnJPOXBXN0RlbzZ0WEhXRUVUMFlkTkhWWUpMTkFnQ1QxY2lsQ1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-03 12:55:45"
     },
     {
       "title": "連日降雨致青蔥受損嚴重 劉建國爭取公告天然災害救助 | 中華日報 - today.line.me",
@@ -832,6 +922,11 @@
       "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNalhSbWRlYkxaV3FDSTlSZzZmRXl4TVNFaXptM2VNcTVJaVJnVmFCbVdiS1c4Ny1QNEdqcTBhTEFzWDJoVVpEQ3RHdnBBRjV0R3dXX3drLXduRHlrZXpCUWprVjZqbE9GaHlyLU56WWE1UjNkUFV6MzFQamdoVC1Ma2tsV2ozQlFaUFBmakYzNExMMHRuOUxYbUpsb2hpRmJnMm1naENpNVRZOFREUkVSVTlZQ2c0WWp3R2tNX2dWanktQzIwNV9Ndy1ESVFNU0NSbkY0UzdFNTl0YTZ4RXROOFBFT1FXYkFWN2ZIb3dVOXVKYW1Dd1JOZDNBLUM2OElpWng1UVotbktKZ1hHNEZMT3cwbmw3bFlMaWp4VDFyMFlXbVlVbW9jOFFoU2VNdUtSaDRaMnFRZmpWeS1YOFJyLXpBM3lGSUpULTY2WGNkZEk1MDVRNndPc0dxYmJjS0JsNHhJNjM2N2ViOHZ2dldHMkhJRGlLcFdValBVNGd3cDhCMlVTZHRXem9pRmlOUHJxZUpBZmZKR21wU2Z6UXdHR3FUUDY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-02 17:26:17"
+    },
+    {
+      "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - 觀傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wb1lHMUNocElOcjkyY21Bb1FyWVpNak9MdUhiZGpHcTBLRl9lNTQ2QVVTdTJUeXVEMXVZUWFhVHhkLWR6ZTFIU1hDR2NrUnhaNTVnQ1hLaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-02 17:26:15"
     },
     {
       "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - 蕃新聞",
@@ -872,31 +967,6 @@
       "title": "雲林釋出1.5萬個職缺！矽品斗六新廠預計2028啟用 張嘉郡：打造青年返鄉好舞台 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNOXd3ckk1VjZEQTRURU01Z1pnd2h6TWkzbTI1cHdFbDV4Y1hINFUxVGladDQzMVpXX3Q3TzhaOVNKUUZZU2txZHVyM1JaMzBFRjFUMnI3SHhLMGdxWEI1TmlxeFZnR0dCcGZXeDk4eGZoTnA0bm9WUm8tbFJUSU05QWxxMWFLYTQ3Slhhc1BMMzR3dk1paUtvaHJHVEk3VnVyYlZrMGg5U1RySXdOR1FDd29RTVJPVDVqdmhDT2NKYkRwYmh1T1NuNUJaOWEyVnBZSkF4Yy1ld2RoR3drQ1pITF9FRGZKQUJWSWowNnl4UWRUOWxpY1lXYUhNNjlHeC1pdFlmZ21JbzFtdUozWUY4c21ibHB5alZ3TWhnMDJBYXpTYTlvRDJGR1dZUUswVi1jLUhJYXRxN3ZVN1JfOEtCem1LbzRvdnVpV1hydFdLWXY4TUliVTVQSkRXMWRSelg0ZGNNWkh3QkEweUw1TGpsLVFRb29CeFZya01YWlpObXVjZi01YzFCektJVjVyeW01RWVzbVo4alNyN252bWRlWmQxaWxlLWRHS2VkQjdmSlo5ZENzbkNrSWl6WmJYQ29iQU5Wb3g5Sm0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-02 15:16:13"
-    },
-    {
-      "title": "雲林釋出1.5萬個職缺！矽品斗六新廠預計2028啟用　張嘉郡：打造青年返鄉好舞台 - 鏡週刊Mirror Media",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wcTMySl9rYkhmUk9nLUtOMU5wc2JVOHdCU1l5bFVwa1dnM0FsZnpIem9FWTBTZmZESFF5S01QVFZKQ1RGN2FSUEhjUmc4LUswa3NHcFNlMVZPRW_SAWBBVV95cUxPbWVKR1VlRGVyU3FhNDUxdDc2WVpmQ0N4cHRveTJTYzEyUHZZNUk2T1p1blI0M3RNaU80TFU4dmVlbUNmZ3VLT1A5U1o0aWttdEtFRGZkMnpOa0RHMWc4bjc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-02 14:50:00"
-    },
-    {
-      "title": "雲林釋出1.5萬個職缺！矽品斗六新廠預計2028啟用　張嘉郡：打造青年返鄉好舞台 - 鏡週刊Mirror Media",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tZUpHVWVEZXJTcWE0NTF0NzZZWmZDQ3hwdG95MlNjMTJQdlk1STZPWnVuUjQzdE1pTzRMVTh2ZWVtQ2ZndUtPUDlTWjRpa210S0VEZmQyek5rREcxZzhuN9IBYEFVX3lxTE9tZUpHVWVEZXJTcWE0NTF0NzZZWmZDQ3hwdG95MlNjMTJQdlk1STZPWnVuUjQzdE1pTzRMVTh2ZWVtQ2ZndUtPUDlTWjRpa210S0VEZmQyek5rREcxZzhuNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-02 14:50:00"
-    },
-    {
-      "title": "麥寮運動公園缺特色公廁！劉建國出手爭取2000萬中央資源 - 元丰傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0dFNwVm1MdlczZExJVTI0a1o5ZnJQTmJUdjYtUE1OUGJ2UFMxaHVWYUR0bjVLRFoxeGxUN0pyYjNoNHhIeU9iVy16WG5PR3AyODctd0hwbE5TbUxVdlJENlZhTE1hQ0Vm?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-02 10:48:45"
-    },
-    {
-      "title": "麥寮運動公園新公廁 劉建國爭取經費 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LUEtfWDJsWlE0V29EUmI4X1FEeGF5cDk2cndEa1dkUjBhN09KalpEcU9nWkJOb2NCY2V0T2hUcDkwVXJYQ0czdGs2R2E3WXJnYkxDeWNya3A2VE3SAWBBVV95cUxOejlJLXYwZXhpbWdQWll3RlVWMUExM2VOY0dVZXAzQi1BVThRelhPcDUyMkFTZFhsYnlsbE45RllRN2MxVXBFUUlqcXl6cHctX0hoX084ZFF3bVhQQ3V1bmE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-02 05:30:00"
-    },
-    {
-      "title": "麥寮運動公園公廁拚升級 劉建國爭取2千萬元打造全國示範 | 觀傳媒 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xdjVPWkh4QnJCenNMVko4MEp4dkNwcmF0SGc0eG11c1dFaV94ZW9FYWdwZlJXZzZqTVpTOGY2VXc3SFhFaDJUN3BxU19PZG42RkNnYzBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-01 22:46:53"
     }
   ],
   "person_sections": {
@@ -1005,6 +1075,21 @@
       ],
       "news": [
         {
+          "title": "「WOW超越想像、雲林更好」 張嘉郡：承擔責任、接續建設、加速前進 - 台灣民眾電子報",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tMmxEMEtNc2ZPM0I2T0N3SWtfbUhMMll3WkgtYjNPOWphUjR5NG1TSUpYTlhCN2p6OXdRN3o1dmMtb0pPYjdCQg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-03 14:10:47"
+        },
+        {
+          "title": "雲林寵物經濟拚共好 張嘉郡推出4大政策【最新快訊】 - 台視全球資訊網",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05V24wLUliaV9yRC1HV3hYTnVQMFJxVDNGb2dTS0FOc09jQ0R2ZlFpZGItdmpQazlENVZ1d0N5N3J5NHdZajJTSVdzTHY5Rkh6SVdoblRnRUFVUnNSOFF4THJyR3doNHFhbGNNbjdPeURPS1JmcEpjVXF2aWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-03 14:08:50"
+        },
+        {
+          "title": "參選雲林縣長張嘉郡完成登記 誓言讓世界驚嘆雲林 - UDN",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qVDJVaG85TEl5cmVfRGpOTTZPU1U0Y2wtRVBWajB0VkpfQmY4Uno5R08xY0I0NDRwM0c2elUtVHlXWnVaVWhpckV0QzAyMmU1TmF30gFYQVVfeXFMTmI1bDliQ0lLbFA0VW90cXhxYm9samtGNkNZLU1qbThJa0NBMDk5YTRqd3hEbUxrWXAyeU1IcDNMTDNiNWI1RFMzNTBRdWp3VTV4bXAxOTFzNg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-03 13:38:22"
+        },
+        {
           "title": "張嘉郡：今登記參選縣長 承擔責任接續建設加速前進 讓雲林更好 - PChome Online 新聞",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXMza2VkTmJ1UkY1Z25VSzYxY182WEdvWEJDVWZRYm43eGhhWng2SXRxUWRWRDl3ekEzckpwUFJweHlKZllWWlN5RktaT0ptYy1NWGRGUHFhYWVQb3FVTGZRR2RtaWtOSnBmQlM1ZnF6a0E3UHU3LTdrbWhUOXZMOEE3N2dYNFlFc3NBT0pB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-03 13:25:48"
@@ -1018,6 +1103,11 @@
           "title": "數百支持者到場力挺！張嘉郡登記參選雲林縣長 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPQV9wSFNaQ0pYbWVTMTFMemlkS056TFVocXRyUWdQVndVWkhqNkNGRTI3UGRqbTlOM3pQZDhHc3hlQkJZZW9IM2NYcXpTSjFQZ2RneTJNS1ZKVXVsVHI4dUQ5eGpwTDV3c01fSXNNS3JCenI0R3VaTHdfZUtBYmIwcGU3YkloTmo1Vjh1TWtYdmJMenctWkF0alZzMDlHcEZ3RDB5eWFOSFRkSEExaDNUWko1eGNjc0Vjcl9vUVpaUnozMllUVzROTzVpWmU3ZnlmUkszUG5kTno0bko2YUk4aGtyTXRBQWVmVC1Mbk53aXVfX0lRdnVHTEZjLVpZVUxxaElrZXpqUktXR1hhYTZReDZSOGFxaEhaMjNjbkUwOXlvYWlPUWNId255Tkd4OWtuQUxBUFIwOEkzWHpMd0hqNUJKY00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-03 13:05:25"
+        },
+        {
+          "title": "數百支持者到場力挺！張嘉郡登記參選雲林縣長 - 自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4N3pzWEI4LXB6R29NUC1HTjlEb05BOWtQcExiM1FueHlYRVU4cWdwcW8wdzJqcjNta2R6Tl9TTlctWWpxQzVISXhVU3BJZXpqTkx2QWpPNUR0OWNFT2FuaUZGakR6MnpEQWfSAW9BVV95cUxQNm1oRzdGcHRvY3dVMV9pVHVTR2RPeGlUX1EtanBIUGpBS0dKXzhYY0NfaWlfYWFNS2tNcFdfcmtkcWdYUmdKdktpcnJPOXBXN0RlbzZ0WEhXRUVUMFlkTkhWWUpMTkFnQ1QxY2lsQ1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-03 12:55:45"
         },
         {
           "title": "雲林釋出1.5萬個職缺！矽品斗六新廠預計2028啟用 張嘉郡：打造青年返鄉好舞台 - Yahoo新聞",
@@ -1083,26 +1173,6 @@
           "title": "雲林毛巾結合農產、食品推聯名 張嘉郡盼打造地方產業新鏈結 - 蕃新聞",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JekgzUE5PMHM5RjFTdWp6NHhNWEMteFdHa0h1alNQNzZVV0VENVdxMTZ3SHVTSkZRbnZoY1Vld09WM2pWc3NjMkxKZFg2MHNtdlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-01 11:38:00"
-        },
-        {
-          "title": "雲林毛巾結合農產、食品推聯名 張嘉郡盼打造地方產業新鏈結 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVk91SmQtSlA3My1YcjhFRlFGMkxzV1JDcy1sRWlZSGRYcnhzc3lDM2QtejM3YlVUVnk4c2Z3RktoMW9XUk1YLWRaeFpoOUttWFlod3Q1cHN4SG1OLXVJaUwtY3RtTjJ4R2lLWUlQS0oybHpJbUZmSWpmQm4xSUNzWVFrV0VmMFVhVGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-01 11:34:56"
-        },
-        {
-          "title": "張嘉郡推雲林產業跨域結盟 毛巾嘉年華9月5日台北登場 - 墨新聞-MORE News",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5pSnJhNmFKV1hMUU94eE5yTl9ncFQ5UUYxVHNVbEFkTmhUS2VHX3pEcnpyWnc2emtOTXhMMmpBS2RUQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-01 11:19:50"
-        },
-        {
-          "title": "張嘉郡推雲林產業跨域結盟 多位藍委站台展現黨內好人緣 - UDN",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01ODN3aTNUSEdHNENoa2cxWGJDOFVtcTU2WUlLVFpnZ3ZaTDBQcF9SWGNjSm1zc2dSVkhpVmtLaGlCMzhJQUlkRGlvNHJIUk5henRv0gFYQVVfeXFMTXRubHhQZXBQVVpJRVRsLUdHZjZ6Z1d2cGdzR0xMZGEtdE5qUDNITVBsa1VxTE5KMi15aTdQaXBEQzYyaXRKVi1vTFh2ZmxfS0phcTJ5VEc5UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-01 11:15:55"
-        },
-        {
-          "title": "張嘉郡推雲林產業跨域結盟 多位藍委站台展現黨內好人緣 - udn",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10bmx4UGVwUFVaSUVUbC1HR2Y2emdXdnBnc0dMTGRhLXROalAzSE1QbGtVcUxOSjIteWk3UGlwREM2Mml0SlYtb0xYdmZsX0tKYXEyeVRHOVHSAVhBVV95cUxNdG5seFBlcFBVWklFVGwtR0dmNnpnV3ZwZ3NHTExkYS10TmpQM0hNUGxrVXFMTkoyLXlpN1BpcERDNjJpdEpWLW9MWHZmbF9LSmFxMnlURzlR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-01 11:15:55"
         }
       ]
     },
@@ -1231,6 +1301,11 @@
           "time": "2026-09-02 17:26:17"
         },
         {
+          "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - 觀傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wb1lHMUNocElOcjkyY21Bb1FyWVpNak9MdUhiZGpHcTBLRl9lNTQ2QVVTdTJUeXVEMXVZUWFhVHhkLWR6ZTFIU1hDR2NrUnhaNTVnQ1hLaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-02 17:26:15"
+        },
+        {
           "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - 蕃新聞",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fdkZiTFZZQ3I3NHJjbUZyLTlzRXBCNWZrcTQ4WmV1X2pzT1I0aU4ycWgzWGxSX05iSXA1eW1hQ0lXcm84RDgyUmZ6SFVJa3VSWEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-02 17:26:00"
@@ -1304,17 +1379,27 @@
           "title": "劉建國邀環管署現勘麥寮特色公廁 爭取2千萬元中央補助 - 三星傳媒",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Iby1PVmhBNVRvVXBkQVNrU1g2ZkhaUnRERWMtNW92RmJaTzdZUGlGek1qQXFoaS1uS3hpelBRNDNNVm9wVWptQ1lidTIzWkRNV3ptRHhSbmdHUjl4dUZ5cFB3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-01 20:45:15"
-        },
-        {
-          "title": "劉建國邀環管署現勘麥寮特色公廁 爭取2千萬元中央補助 - 蕃新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0UFR3OVFMQk1HRTdJbWs0aG1wNDhnWGZ6Z0RmWFFUT19GcFJZamZ5NkdkMHdfeUl1UlZFZGxpNnU0eWxlSWNndWdEY2V2eGl4MXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-01 20:40:00"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "「WOW超越想像、雲林更好」 張嘉郡：承擔責任、接續建設、加速前進 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tMmxEMEtNc2ZPM0I2T0N3SWtfbUhMMll3WkgtYjNPOWphUjR5NG1TSUpYTlhCN2p6OXdRN3o1dmMtb0pPYjdCQg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-03 14:10:47"
+      },
+      {
+        "title": "雲林寵物經濟拚共好 張嘉郡推出4大政策【最新快訊】 - 台視全球資訊網",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05V24wLUliaV9yRC1HV3hYTnVQMFJxVDNGb2dTS0FOc09jQ0R2ZlFpZGItdmpQazlENVZ1d0N5N3J5NHdZajJTSVdzTHY5Rkh6SVdoblRnRUFVUnNSOFF4THJyR3doNHFhbGNNbjdPeURPS1JmcEpjVXF2aWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-03 14:08:50"
+      },
+      {
+        "title": "參選雲林縣長張嘉郡完成登記 誓言讓世界驚嘆雲林 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qVDJVaG85TEl5cmVfRGpOTTZPU1U0Y2wtRVBWajB0VkpfQmY4Uno5R08xY0I0NDRwM0c2elUtVHlXWnVaVWhpckV0QzAyMmU1TmF30gFYQVVfeXFMTmI1bDliQ0lLbFA0VW90cXhxYm9samtGNkNZLU1qbThJa0NBMDk5YTRqd3hEbUxrWXAyeU1IcDNMTDNiNWI1RFMzNTBRdWp3VTV4bXAxOTFzNg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-03 13:38:22"
+      },
       {
         "title": "張嘉郡：今登記參選縣長 承擔責任接續建設加速前進 讓雲林更好 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXMza2VkTmJ1UkY1Z25VSzYxY182WEdvWEJDVWZRYm43eGhhWng2SXRxUWRWRDl3ekEzckpwUFJweHlKZllWWlN5RktaT0ptYy1NWGRGUHFhYWVQb3FVTGZRR2RtaWtOSnBmQlM1ZnF6a0E3UHU3LTdrbWhUOXZMOEE3N2dYNFlFc3NBT0pB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1329,6 +1414,11 @@
         "title": "數百支持者到場力挺！張嘉郡登記參選雲林縣長 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPQV9wSFNaQ0pYbWVTMTFMemlkS056TFVocXRyUWdQVndVWkhqNkNGRTI3UGRqbTlOM3pQZDhHc3hlQkJZZW9IM2NYcXpTSjFQZ2RneTJNS1ZKVXVsVHI4dUQ5eGpwTDV3c01fSXNNS3JCenI0R3VaTHdfZUtBYmIwcGU3YkloTmo1Vjh1TWtYdmJMenctWkF0alZzMDlHcEZ3RDB5eWFOSFRkSEExaDNUWko1eGNjc0Vjcl9vUVpaUnozMllUVzROTzVpWmU3ZnlmUkszUG5kTno0bko2YUk4aGtyTXRBQWVmVC1Mbk53aXVfX0lRdnVHTEZjLVpZVUxxaElrZXpqUktXR1hhYTZReDZSOGFxaEhaMjNjbkUwOXlvYWlPUWNId255Tkd4OWtuQUxBUFIwOEkzWHpMd0hqNUJKY00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-03 13:05:25"
+      },
+      {
+        "title": "數百支持者到場力挺！張嘉郡登記參選雲林縣長 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4N3pzWEI4LXB6R29NUC1HTjlEb05BOWtQcExiM1FueHlYRVU4cWdwcW8wdzJqcjNta2R6Tl9TTlctWWpxQzVISXhVU3BJZXpqTkx2QWpPNUR0OWNFT2FuaUZGakR6MnpEQWfSAW9BVV95cUxQNm1oRzdGcHRvY3dVMV9pVHVTR2RPeGlUX1EtanBIUGpBS0dKXzhYY0NfaWlfYWFNS2tNcFdfcmtkcWdYUmdKdktpcnJPOXBXN0RlbzZ0WEhXRUVUMFlkTkhWWUpMTkFnQ1QxY2lsQ1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-03 12:55:45"
       },
       {
         "title": "連日降雨致青蔥受損嚴重 劉建國爭取公告天然災害救助 | 中華日報 - today.line.me",
@@ -1349,6 +1439,11 @@
         "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNalhSbWRlYkxaV3FDSTlSZzZmRXl4TVNFaXptM2VNcTVJaVJnVmFCbVdiS1c4Ny1QNEdqcTBhTEFzWDJoVVpEQ3RHdnBBRjV0R3dXX3drLXduRHlrZXpCUWprVjZqbE9GaHlyLU56WWE1UjNkUFV6MzFQamdoVC1Ma2tsV2ozQlFaUFBmakYzNExMMHRuOUxYbUpsb2hpRmJnMm1naENpNVRZOFREUkVSVTlZQ2c0WWp3R2tNX2dWanktQzIwNV9Ndy1ESVFNU0NSbkY0UzdFNTl0YTZ4RXROOFBFT1FXYkFWN2ZIb3dVOXVKYW1Dd1JOZDNBLUM2OElpWng1UVotbktKZ1hHNEZMT3cwbmw3bFlMaWp4VDFyMFlXbVlVbW9jOFFoU2VNdUtSaDRaMnFRZmpWeS1YOFJyLXpBM3lGSUpULTY2WGNkZEk1MDVRNndPc0dxYmJjS0JsNHhJNjM2N2ViOHZ2dldHMkhJRGlLcFdValBVNGd3cDhCMlVTZHRXem9pRmlOUHJxZUpBZmZKR21wU2Z6UXdHR3FUUDY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-02 17:26:17"
+      },
+      {
+        "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - 觀傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wb1lHMUNocElOcjkyY21Bb1FyWVpNak9MdUhiZGpHcTBLRl9lNTQ2QVVTdTJUeXVEMXVZUWFhVHhkLWR6ZTFIU1hDR2NrUnhaNTVnQ1hLaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-02 17:26:15"
       },
       {
         "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - 蕃新聞",
@@ -1397,10 +1492,32 @@
         "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxORGQ1Mi1uQ0FSTzNEWWtvcnhtT0ZOOHV6VXpicFpwaEZfcFFaa1I2b0RMODlnZ1o3OVYyUHZfenpuUUJMamktRmZ0dkVkVjkyZlNQNzZRb3hvQXVqZ3psS0d2c25oTEVKRk5SNzJuLWNWLWFxaWZycTFwaHhUSEFWN3Q2bGZfcHRYYktlRS00V043M0s1SXZuQ0pKa18yUklXQWczalNLUnk4b0p2Y21XUU1zTDdfdE1OSkdIUWlFbTVzZXEtejV5U25aMnRaMTZMTHNJWk93Vk51X3BuUmVaUTlDb2F0cnNxRGdMVUZDNHUyMzlFTHNpZEkwY3g1REV3cXpiYWxCZ2NLRG1fT2x0d1BnUGw5YWt6SzlSSV9YNnJFMFBQdHdnNVcwVXppX2d3NEpFaEtQM1dRV1RQam1zWEUzNnhKNTNUbVlrZDNidlFDUDNQTE5VemdMbTY5Yl9DbkVtNXJ4NjhqNUtwVDM2S0g2UDhETjJBbkJyN3BVcnlMYS1BdWlXVkluSFZuT3oydUFsTTlwU1BORDFyX0pjelJoV0ZrMTJNQ3dCVVFfeXF1WlhITFZ3c3pjSUhsbjVzLVZTM2hWXzM1a0tVX0xjbTZWemRKc0ZTdnF5WW1kQ3BrYTlDQ0ZOOFhBeXVmQ20tdFRza3ZkZVhqbHB3ekU2MUUxZlVnWlVQZndLWE1jaS1DamkxVC1YUERibl9EQlBmcUtnMVRFc19IZ21ibHdwZGFkZVBCbnVSd2JGTUdDX2U0U0N0MGhabkZVZ0RlNTQ2Ni1rblpFOW5yQ2JfOWJBVk5seGx1bmpqZnl6OUFGZDFnUzRCTFRScEJSY052VXgyVVJVTnpWbHYyV0RnXzZkMjNUVmVzZVlneVozWVhjYXI4WmRLbS04TEluazRkcU1ZbDBxNGFuSmFEYXYtVTdSMEMyQ0g3MktCaTJCRGFaRUdzQjltUnlYTWEyZUhOTWZESFRrdjdkQThyWmEwbTRuUm9xTlk0MlJPenUwMkt0dTgzMW5mdEFGX3liUXlQZXEyTGVuclBJdmJ0cUVXUi1HemRqQzJxUjh0TDBZcUZfNVJSYW9Td1pnU2dacjZ0QVVlX3p6aUdwdU8yeXJtM0VNczdGSXdtcFRTb2lleUo0OGh5VGl0MHFPLTZCcXF0bkNtR3Y1SVRYUDBydXk0dExmWHZHcUZnMlZDSTROUnVfN3JDQ3VaZnE2TnVNcUxtcV9mMWxYdXU3YjhIYmpqNDNKVnNGSzZuZFl3ZXlFSk5ZdF9PZzIwWmQ0U2ZjUzhPeWZMVVJweVpJZE1raHh5R2VTd0Z4WlZTc3BMV2xQNzAycVFuckx0cjBmS0VTNVZDcGd2YXBPZmpfeGhTR3VuTDkyM3pBVnFnWDh1aENLVUN5RXh6dEdoeGk5bDFqaUtHNFE",
         "time": "2026-09-02 19:00:47"
       }
+    ],
+    "youtube": [
+      {
+        "title": "「我也被老婆打過！」家暴竟被勸忍耐？范雲質詢司法院：不適任家事調解委員該退場！",
+        "url": "https://www.youtube.com/watch?v=wJK7ZXBWnQQ",
+        "time": "2026-09-03 14:00:36"
+      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "「WOW超越想像、雲林更好」 張嘉郡：承擔責任、接續建設、加速前進 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tMmxEMEtNc2ZPM0I2T0N3SWtfbUhMMll3WkgtYjNPOWphUjR5NG1TSUpYTlhCN2p6OXdRN3o1dmMtb0pPYjdCQg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-03 14:10:47"
+      },
+      {
+        "title": "雲林寵物經濟拚共好 張嘉郡推出4大政策【最新快訊】 - 台視全球資訊網",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05V24wLUliaV9yRC1HV3hYTnVQMFJxVDNGb2dTS0FOc09jQ0R2ZlFpZGItdmpQazlENVZ1d0N5N3J5NHdZajJTSVdzTHY5Rkh6SVdoblRnRUFVUnNSOFF4THJyR3doNHFhbGNNbjdPeURPS1JmcEpjVXF2aWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-03 14:08:50"
+      },
+      {
+        "title": "參選雲林縣長張嘉郡完成登記 誓言讓世界驚嘆雲林 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qVDJVaG85TEl5cmVfRGpOTTZPU1U0Y2wtRVBWajB0VkpfQmY4Uno5R08xY0I0NDRwM0c2elUtVHlXWnVaVWhpckV0QzAyMmU1TmF30gFYQVVfeXFMTmI1bDliQ0lLbFA0VW90cXhxYm9samtGNkNZLU1qbThJa0NBMDk5YTRqd3hEbUxrWXAyeU1IcDNMTDNiNWI1RFMzNTBRdWp3VTV4bXAxOTFzNg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-03 13:38:22"
+      },
       {
         "title": "張嘉郡：今登記參選縣長 承擔責任接續建設加速前進 讓雲林更好 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXMza2VkTmJ1UkY1Z25VSzYxY182WEdvWEJDVWZRYm43eGhhWng2SXRxUWRWRDl3ekEzckpwUFJweHlKZllWWlN5RktaT0ptYy1NWGRGUHFhYWVQb3FVTGZRR2RtaWtOSnBmQlM1ZnF6a0E3UHU3LTdrbWhUOXZMOEE3N2dYNFlFc3NBT0pB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1415,6 +1532,11 @@
         "title": "數百支持者到場力挺！張嘉郡登記參選雲林縣長 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPQV9wSFNaQ0pYbWVTMTFMemlkS056TFVocXRyUWdQVndVWkhqNkNGRTI3UGRqbTlOM3pQZDhHc3hlQkJZZW9IM2NYcXpTSjFQZ2RneTJNS1ZKVXVsVHI4dUQ5eGpwTDV3c01fSXNNS3JCenI0R3VaTHdfZUtBYmIwcGU3YkloTmo1Vjh1TWtYdmJMenctWkF0alZzMDlHcEZ3RDB5eWFOSFRkSEExaDNUWko1eGNjc0Vjcl9vUVpaUnozMllUVzROTzVpWmU3ZnlmUkszUG5kTno0bko2YUk4aGtyTXRBQWVmVC1Mbk53aXVfX0lRdnVHTEZjLVpZVUxxaElrZXpqUktXR1hhYTZReDZSOGFxaEhaMjNjbkUwOXlvYWlPUWNId255Tkd4OWtuQUxBUFIwOEkzWHpMd0hqNUJKY00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-03 13:05:25"
+      },
+      {
+        "title": "數百支持者到場力挺！張嘉郡登記參選雲林縣長 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4N3pzWEI4LXB6R29NUC1HTjlEb05BOWtQcExiM1FueHlYRVU4cWdwcW8wdzJqcjNta2R6Tl9TTlctWWpxQzVISXhVU3BJZXpqTkx2QWpPNUR0OWNFT2FuaUZGakR6MnpEQWfSAW9BVV95cUxQNm1oRzdGcHRvY3dVMV9pVHVTR2RPeGlUX1EtanBIUGpBS0dKXzhYY0NfaWlfYWFNS2tNcFdfcmtkcWdYUmdKdktpcnJPOXBXN0RlbzZ0WEhXRUVUMFlkTkhWWUpMTkFnQ1QxY2lsQ1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-03 12:55:45"
       },
       {
         "title": "連日降雨致青蔥受損嚴重 劉建國爭取公告天然災害救助 | 中華日報 - today.line.me",
@@ -1435,6 +1557,11 @@
         "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNalhSbWRlYkxaV3FDSTlSZzZmRXl4TVNFaXptM2VNcTVJaVJnVmFCbVdiS1c4Ny1QNEdqcTBhTEFzWDJoVVpEQ3RHdnBBRjV0R3dXX3drLXduRHlrZXpCUWprVjZqbE9GaHlyLU56WWE1UjNkUFV6MzFQamdoVC1Ma2tsV2ozQlFaUFBmakYzNExMMHRuOUxYbUpsb2hpRmJnMm1naENpNVRZOFREUkVSVTlZQ2c0WWp3R2tNX2dWanktQzIwNV9Ndy1ESVFNU0NSbkY0UzdFNTl0YTZ4RXROOFBFT1FXYkFWN2ZIb3dVOXVKYW1Dd1JOZDNBLUM2OElpWng1UVotbktKZ1hHNEZMT3cwbmw3bFlMaWp4VDFyMFlXbVlVbW9jOFFoU2VNdUtSaDRaMnFRZmpWeS1YOFJyLXpBM3lGSUpULTY2WGNkZEk1MDVRNndPc0dxYmJjS0JsNHhJNjM2N2ViOHZ2dldHMkhJRGlLcFdValBVNGd3cDhCMlVTZHRXem9pRmlOUHJxZUpBZmZKR21wU2Z6UXdHR3FUUDY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-02 17:26:17"
+      },
+      {
+        "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - 觀傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wb1lHMUNocElOcjkyY21Bb1FyWVpNak9MdUhiZGpHcTBLRl9lNTQ2QVVTdTJUeXVEMXVZUWFhVHhkLWR6ZTFIU1hDR2NrUnhaNTVnQ1hLaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-02 17:26:15"
       },
       {
         "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - 蕃新聞",
@@ -1575,31 +1702,6 @@
         "title": "麥寮運動公園公廁要升級！劉建國爭取2000萬盼打造全國示範- 政府消息新聞- PChome Online 新聞 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUWtQd3dtLXdkQVFjSnUxRnVXcXVfMTM4cno2c18zdzhyYWRxY3ducjA2cFowX0sxMkJ0b3lkN2RSZWZsb29XMGZGcko5MXZfMWVxU3RkZ1A2X3Rna3JRaGgzYzl1eGxsR1Y5SmFGazFtbjFkNmpTclRhdWZtLVo0YjZ1TzZiT1dhOGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-01 17:18:02"
-      },
-      {
-        "title": "張嘉郡參與毛巾嘉年華　推動雲林毛巾、良品業者跨域合作 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55dm0xR3pxOS1mU21fTWx0WENLRlF5MmxYRmR3ZFBkalZFMTlONkRTeFZpVEVKaU0yUGFuel9YaDJPbU4wSjlfaEZLOWlaLTlUa1hCdmdtbEhTMzE3X0lRRU1VSjJXQdIBa0FVX3lxTFBHUFlJRkFkMlF3MmJIS3FzckZ0ZzRucmdhNXZzSHFkNWlBemtaeXVnNmpxMERhLWFuWkUzRElJX3Z2R1dYZm9Lbkp5Q1BXbjRrWllWN2VGa2RmOWxtS1A3dkM2amRJeDV3NmdV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-01 15:30:00"
-      },
-      {
-        "title": "張嘉郡推廣雲林毛巾嘉年華 (圖) - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNY3JHbXQ0T1h3Snh1Q3BiSlVvRHk5YkhZY0p0X2c0QnQyMHUzTWxCNTlxd3V4d3lKT3NOT0FsbjRYSEFIMExKelB0TndST1kyblFVZjhpNmZENWIzMGVqalZFUm9mSFZBNWRJNllZU2txU3I3ak0tdDgyWk4wWmxuUE1PdzVwQVRwbm9ManpfcDZnZC00dXpwdThja1ZOaldYcFEzc3dQSmFyTVdEX0ZsSzFkaUJqNmY1a0RGVS1xMGZNZ3NpeExnSFk0OUJjQW9yOVRCNXhESFFkLTIwYkhjdVRhbGZEWC1GcE15MGlZSVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-01 14:50:16"
-      },
-      {
-        "title": "假日湧千人！麥寮城鄉運動公園擬增公廁 劉建國邀中央現勘爭取經費 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQY3JUY3pkSHZfRUhqV2NOTVV5bW5KblZrWHVwNUtSXzMxTTJ4dnB0QU5Vek1rWWhCTzQtMjhvTk56NzFBTk9xdFhGdzluTmh4SW1SdnZobjNIVjY5LXZEUVlfTzVGM1huRG9nY0JIa2MtQ1hvMUJyd2ZubER6Y2l1YjUwZkZZQ1lNZmdGWlhEMDR5cVJfYWxnajRSd3hRTjFpTXhOa0l2UDc0bTgwWHRBaC04eTMxd25IcjhfcGhLR1BmUVUtN3kxbHNONmpFSnZLaWVObUEybHoxRG81UHN2NVhQTFhLZGNEbzJKaDJtMmhrMHlGSjhvU3JRUzdSRkRpZlRzRXdpR203V0hMaHB3aVhIRkxiT3pXLVVzZU1lWGlsMlJEOHZZbTZMVkYtV3R1UnVkSUxUNkNtamNKR1JXdGhxMk5oM0lmNUI4WUhIYjBvcWtDQmoycm8zUmlvUWFxYWd5NjRFOTRSbXpzb3M0d0Y0SUZvcmRGb3hSV0pDUnZBTW1nMVgxbV9DcDdqZ0JwbmNram9WYWFPZ2I4NUt1eUhpbUNaSG5DMGNxdWYzVVhmdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-01 14:46:27"
-      },
-      {
-        "title": "假日湧千人！麥寮城鄉運動公園擬增公廁 劉建國邀中央現勘爭取經費 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1OGZBQ2lJOEpSX2g3MFQ0dXZBcEpyRUR2QVJlUGg3LVNNV1lJTlI2TVlXRFNtSnZCVTN6T0RoOEo3SWM5MXY2MFdxWXdBd0c3NnBaVzJDX1lKa21lUV8wN3N0a0jSAWpBVV95cUxNX2lnSFBDb0FZSVZ3ekFYZS1YWVpnTDRGajdicF90WXdJeHpISWNWQWdmalQtSHpzSUZ5LUlzclpGMWZRY3hCZ0M5ZGk2dVdjTVgzZndZUnJNUld6NTFsUjFIMGNFX1g4bmxn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-01 14:46:27"
-      },
-      {
-        "title": "【有影】張嘉郡推雲林產業跨域結盟 毛巾嘉年華9月5 日台北花博登場 - 匯流新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE95TjNGaXI3NzRReGluaGdUR05mMTRZV0Fsc0g1QU0tbGlOTmFWM1l3MklUZVB4TExnVUpCSmpnSjlxaXlmVzFHU3FB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-01 14:31:26"
       }
     ],
     "facebook": [
@@ -1721,6 +1823,11 @@
     ],
     "youtube": [
       {
+        "title": "「我也被老婆打過！」家暴竟被勸忍耐？范雲質詢司法院：不適任家事調解委員該退場！",
+        "url": "https://www.youtube.com/watch?v=wJK7ZXBWnQQ",
+        "time": "2026-09-03 14:00:36"
+      },
+      {
         "title": "張嘉郡推雲林產業跨域結盟 \"毛巾嘉年華\"9/5台北登場－民視新聞",
         "url": "https://www.youtube.com/shorts/orv7-ikfDNM",
         "time": "2026-09-01 12:40:28"
@@ -1752,6 +1859,34 @@
     "hour": [],
     "day": [
       {
+        "title": "「WOW超越想像、雲林更好」 張嘉郡：承擔責任、接續建設、加速前進 - 台灣民眾電子報",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tMmxEMEtNc2ZPM0I2T0N3SWtfbUhMMll3WkgtYjNPOWphUjR5NG1TSUpYTlhCN2p6OXdRN3o1dmMtb0pPYjdCQg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-03 14:10:47",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "雲林寵物經濟拚共好 張嘉郡推出4大政策【最新快訊】 - 台視全球資訊網",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05V24wLUliaV9yRC1HV3hYTnVQMFJxVDNGb2dTS0FOc09jQ0R2ZlFpZGItdmpQazlENVZ1d0N5N3J5NHdZajJTSVdzTHY5Rkh6SVdoblRnRUFVUnNSOFF4THJyR3doNHFhbGNNbjdPeURPS1JmcEpjVXF2aWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-03 14:08:50",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "「我也被老婆打過！」家暴竟被勸忍耐？范雲質詢司法院：不適任家事調解委員該退場！",
+        "url": "https://www.youtube.com/watch?v=wJK7ZXBWnQQ",
+        "time": "2026-09-03 14:00:36",
+        "platform": "youtube",
+        "risk": "綠"
+      },
+      {
+        "title": "參選雲林縣長張嘉郡完成登記 誓言讓世界驚嘆雲林 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qVDJVaG85TEl5cmVfRGpOTTZPU1U0Y2wtRVBWajB0VkpfQmY4Uno5R08xY0I0NDRwM0c2elUtVHlXWnVaVWhpckV0QzAyMmU1TmF30gFYQVVfeXFMTmI1bDliQ0lLbFA0VW90cXhxYm9samtGNkNZLU1qbThJa0NBMDk5YTRqd3hEbUxrWXAyeU1IcDNMTDNiNWI1RFMzNTBRdWp3VTV4bXAxOTFzNg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-03 13:38:22",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "張嘉郡：今登記參選縣長 承擔責任接續建設加速前進 讓雲林更好 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXMza2VkTmJ1UkY1Z25VSzYxY182WEdvWEJDVWZRYm43eGhhWng2SXRxUWRWRDl3ekEzckpwUFJweHlKZllWWlN5RktaT0ptYy1NWGRGUHFhYWVQb3FVTGZRR2RtaWtOSnBmQlM1ZnF6a0E3UHU3LTdrbWhUOXZMOEE3N2dYNFlFc3NBT0pB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-03 13:25:48",
@@ -1769,6 +1904,13 @@
         "title": "數百支持者到場力挺！張嘉郡登記參選雲林縣長 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPQV9wSFNaQ0pYbWVTMTFMemlkS056TFVocXRyUWdQVndVWkhqNkNGRTI3UGRqbTlOM3pQZDhHc3hlQkJZZW9IM2NYcXpTSjFQZ2RneTJNS1ZKVXVsVHI4dUQ5eGpwTDV3c01fSXNNS3JCenI0R3VaTHdfZUtBYmIwcGU3YkloTmo1Vjh1TWtYdmJMenctWkF0alZzMDlHcEZ3RDB5eWFOSFRkSEExaDNUWko1eGNjc0Vjcl9vUVpaUnozMllUVzROTzVpWmU3ZnlmUkszUG5kTno0bko2YUk4aGtyTXRBQWVmVC1Mbk53aXVfX0lRdnVHTEZjLVpZVUxxaElrZXpqUktXR1hhYTZReDZSOGFxaEhaMjNjbkUwOXlvYWlPUWNId255Tkd4OWtuQUxBUFIwOEkzWHpMd0hqNUJKY00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-03 13:05:25",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "數百支持者到場力挺！張嘉郡登記參選雲林縣長 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4N3pzWEI4LXB6R29NUC1HTjlEb05BOWtQcExiM1FueHlYRVU4cWdwcW8wdzJqcjNta2R6Tl9TTlctWWpxQzVISXhVU3BJZXpqTkx2QWpPNUR0OWNFT2FuaUZGakR6MnpEQWfSAW9BVV95cUxQNm1oRzdGcHRvY3dVMV9pVHVTR2RPeGlUX1EtanBIUGpBS0dKXzhYY0NfaWlfYWFNS2tNcFdfcmtkcWdYUmdKdktpcnJPOXBXN0RlbzZ0WEhXRUVUMFlkTkhWWUpMTkFnQ1QxY2lsQ1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-03 12:55:45",
         "platform": "news",
         "risk": "綠"
       },
@@ -1804,6 +1946,13 @@
         "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNalhSbWRlYkxaV3FDSTlSZzZmRXl4TVNFaXptM2VNcTVJaVJnVmFCbVdiS1c4Ny1QNEdqcTBhTEFzWDJoVVpEQ3RHdnBBRjV0R3dXX3drLXduRHlrZXpCUWprVjZqbE9GaHlyLU56WWE1UjNkUFV6MzFQamdoVC1Ma2tsV2ozQlFaUFBmakYzNExMMHRuOUxYbUpsb2hpRmJnMm1naENpNVRZOFREUkVSVTlZQ2c0WWp3R2tNX2dWanktQzIwNV9Ndy1ESVFNU0NSbkY0UzdFNTl0YTZ4RXROOFBFT1FXYkFWN2ZIb3dVOXVKYW1Dd1JOZDNBLUM2OElpWng1UVotbktKZ1hHNEZMT3cwbmw3bFlMaWp4VDFyMFlXbVlVbW9jOFFoU2VNdUtSaDRaMnFRZmpWeS1YOFJyLXpBM3lGSUpULTY2WGNkZEk1MDVRNndPc0dxYmJjS0JsNHhJNjM2N2ViOHZ2dldHMkhJRGlLcFdValBVNGd3cDhCMlVTZHRXem9pRmlOUHJxZUpBZmZKR21wU2Z6UXdHR3FUUDY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-02 17:26:17",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "豪雨重創青蔥產區逾五成 劉建國會勘元長褒忠籲速啟動災害救助 - 觀傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wb1lHMUNocElOcjkyY21Bb1FyWVpNak9MdUhiZGpHcTBLRl9lNTQ2QVVTdTJUeXVEMXVZUWFhVHhkLWR6ZTFIU1hDR2NrUnhaNTVnQ1hLaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-02 17:26:15",
         "platform": "news",
         "risk": "綠"
       },
@@ -1848,20 +1997,6 @@
         "time": "2026-09-02 16:52:22",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "劉建國會勘元長、褒忠青蔥農損 籲農業部儘速啟動天然災害現金救助 - hoomedia.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSX3Y3ZDlHVG1NV1hETGxzNG1ndXpCQnVJMlZRT2RSdElmUTVtUEkyU0tlNnhIXzJDOEtDVnQ1TzdnS3NicTFWUUM2WGh0ZXBrMkNpdQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-02 16:52:04",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "雲林釋出1.5萬個職缺！矽品斗六新廠預計2028啟用 張嘉郡：打造青年返鄉好舞台 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNOXd3ckk1VjZEQTRURU01Z1pnd2h6TWkzbTI1cHdFbDV4Y1hINFUxVGladDQzMVpXX3Q3TzhaOVNKUUZZU2txZHVyM1JaMzBFRjFUMnI3SHhLMGdxWEI1TmlxeFZnR0dCcGZXeDk4eGZoTnA0bm9WUm8tbFJUSU05QWxxMWFLYTQ3Slhhc1BMMzR3dk1paUtvaHJHVEk3VnVyYlZrMGg5U1RySXdOR1FDd29RTVJPVDVqdmhDT2NKYkRwYmh1T1NuNUJaOWEyVnBZSkF4Yy1ld2RoR3drQ1pITF9FRGZKQUJWSWowNnl4UWRUOWxpY1lXYUhNNjlHeC1pdFlmZ21JbzFtdUozWUY4c21ibHB5alZ3TWhnMDJBYXpTYTlvRDJGR1dZUUswVi1jLUhJYXRxN3ZVN1JfOEtCem1LbzRvdnVpV1hydFdLWXY4TUliVTVQSkRXMWRSelg0ZGNNWkh3QkEweUw1TGpsLVFRb29CeFZya01YWlpObXVjZi01YzFCektJVjVyeW01RWVzbVo4alNyN252bWRlWmQxaWxlLWRHS2VkQjdmSlo5ZENzbkNrSWl6WmJYQ29iQU5Wb3g5Sm0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-02 15:16:13",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -1869,7 +2004,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 5
+        "count": 9
       },
       {
         "name": "斗六",
@@ -1879,11 +2014,11 @@
     "groups": [
       {
         "name": "農業族群",
-        "count": 9
+        "count": 10
       },
       {
         "name": "工地/營造",
-        "count": 2
+        "count": 3
       }
     ]
   }
