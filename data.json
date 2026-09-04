@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-04T21:57:51.113877+00:00",
+  "generated_at": "2026-09-04T22:13:33.952189+00:00",
   "metrics": {
-    "total_24h": 36,
+    "total_24h": 39,
     "prev_24h": 76,
-    "growth_pct": -52.63,
-    "news_24h": 30,
+    "growth_pct": -48.68,
+    "news_24h": 33,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 230,
+    "total": 233,
     "prev": 174,
-    "growth_pct": 32.18,
-    "news": 198,
+    "growth_pct": 33.91,
+    "news": 201,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 30
+      "count": 33
     },
     {
       "platform": "facebook",
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 198
+      "count": 201
     },
     {
       "platform": "facebook",
@@ -96,11 +96,19 @@
     },
     {
       "hour": "2026-09-04 21:00",
-      "count": 2
+      "count": 3
     },
     {
       "hour": "2026-09-05 00:00",
       "count": 2
+    },
+    {
+      "hour": "2026-09-05 04:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-09-05 05:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -394,17 +402,25 @@
     },
     {
       "hour": "2026-09-04 21:00",
-      "count": 2
+      "count": 3
     },
     {
       "hour": "2026-09-05 00:00",
       "count": 2
+    },
+    {
+      "hour": "2026-09-05 04:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-09-05 05:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 29
+      "count": 32
     },
     {
       "platform": "youtube",
@@ -418,6 +434,16 @@
   "mention_latest_by_platform_24h": {
     "news": [
       {
+        "title": "雲林縣長4人登記 劉建國︰要縣民政治 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWXlaNnRyUXJNa0RmZzF2UkhPOFp3QTNDdDBTeUxLa1FNdHR2UVZXamNaQ1JWaURJemV6MUNOZU1TUmxqd1djTXV2ODVJWjBReXNsYndiQi1VRXhVdTRoYmRuMzFZb2FBN3FLR01WNlZaYmtSeW55UWFQY1Y3U3hKLU9BRlZsYzNGY2tpaFoyNmJDMU4yNUMtUGI2X3F5TC1HU1NkQ1N0WTJwUmNjX1NKcTk3Rjdzd0xldU9ST2phaEQyVXlSaXZjUEhIcXpoQVpON0RpRWx1ekhqNnRzb1VzakhLVHpIMTZvd0o2akJ2WFlVSHZ6alM0NUpYM2hYVkZNeWFXQzhNV3FCZkk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-05 05:30:00"
+      },
+      {
+        "title": "雲林 劉建國拚高科技產業 張嘉郡賣柚挺農民 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQeWR3bUd2WUllZWlzaUVocG5PSm91UlhwS3pzNWdSeUE4WHBQS0REV3FMc04yaHlHcWhUazFQLVpYSTdXRmNvbkN2UWlYeUdoQkJPNUdlREpicXFuZnpfeFBzbUNXSzdJRWtlamFwYWMxQlJ5T2hEMUwzeEg1YWNIX0dXX1pwcmQwM2JQSS1faE9KNDlTRVljcjBSeVgzblFzMFlfTHdXM2ZIalRkS01yOG5Xc1BpeTNrY1l1SHJJSHdBS1hacTZwc3lMLUtzSjBUVnZpVDR1M19Uc0FIS0J2bktMR2hENTJlM2NVRXRKaVU0eDZ2VzBOTG1XSFd1Sng3MGRLX0g0dktQVHNOS0IyRmNVbFhBRmlrcDhTSmplTHBkODVGZkIzb3dYMUxaQkg1V2tWT2M5MEhrZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-05 04:10:00"
+      },
+      {
         "title": "多名參選人趕末班車！雲林劉建國喊「94要拚」嘉義爆登記失敗 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBydEYwMk9nSHhWeDc0akJUWWUwNURDcE1sRV85S1hPVVJvX1lpOTZpWnZabk94Q1BmbWJPWDFLNWdVTk8yR2FaaXp3U3IzYTZfdUNr0gFYQVVfeXFMT0tNckw4cUxQQ1pYalpQVUdTY05ib0RjMUF5MEZUb3dfcm9LLU9sWFFCMTdnMHI3cTEtc3dCWG1NS3oyVUUwZVF4R2U4eXdfbkxwMVlwWWhyRg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-05 00:00:00"
@@ -426,6 +452,11 @@
         "title": "多名參選人趕末班車！雲林劉建國喊「94要拚」嘉義爆登記失敗| 2026九合一選舉 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01QWRVSTMwVXp6S3dFcFVKbzVWMG52cEtPa0tWdmpuZmI5UURDSDJ3T0duNmlvdzNIMnZqTUNRTXoyX2FLSUpZeXpRakszcWRxbkhMVExYYXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-05 00:00:00"
+      },
+      {
+        "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HN2RzTEVKckZqWFhjYWhKT19IX3NaclBLdThPUjJhM2ctaF9FZGUweDRrY3pQMlhhZk84SjZ6OVlIRnM5WlpsM1BiLTVwclA4QVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-04 21:48:00"
       },
       {
         "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - tw.news.yahoo.com",
@@ -596,7 +627,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 29
+      "count": 32
     },
     {
       "platform": "youtube",
@@ -610,6 +641,16 @@
   "alias_latest_by_platform_24h": {
     "news": [
       {
+        "title": "雲林縣長4人登記 劉建國︰要縣民政治 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWXlaNnRyUXJNa0RmZzF2UkhPOFp3QTNDdDBTeUxLa1FNdHR2UVZXamNaQ1JWaURJemV6MUNOZU1TUmxqd1djTXV2ODVJWjBReXNsYndiQi1VRXhVdTRoYmRuMzFZb2FBN3FLR01WNlZaYmtSeW55UWFQY1Y3U3hKLU9BRlZsYzNGY2tpaFoyNmJDMU4yNUMtUGI2X3F5TC1HU1NkQ1N0WTJwUmNjX1NKcTk3Rjdzd0xldU9ST2phaEQyVXlSaXZjUEhIcXpoQVpON0RpRWx1ekhqNnRzb1VzakhLVHpIMTZvd0o2akJ2WFlVSHZ6alM0NUpYM2hYVkZNeWFXQzhNV3FCZkk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-05 05:30:00"
+      },
+      {
+        "title": "雲林 劉建國拚高科技產業 張嘉郡賣柚挺農民 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQeWR3bUd2WUllZWlzaUVocG5PSm91UlhwS3pzNWdSeUE4WHBQS0REV3FMc04yaHlHcWhUazFQLVpYSTdXRmNvbkN2UWlYeUdoQkJPNUdlREpicXFuZnpfeFBzbUNXSzdJRWtlamFwYWMxQlJ5T2hEMUwzeEg1YWNIX0dXX1pwcmQwM2JQSS1faE9KNDlTRVljcjBSeVgzblFzMFlfTHdXM2ZIalRkS01yOG5Xc1BpeTNrY1l1SHJJSHdBS1hacTZwc3lMLUtzSjBUVnZpVDR1M19Uc0FIS0J2bktMR2hENTJlM2NVRXRKaVU0eDZ2VzBOTG1XSFd1Sng3MGRLX0g0dktQVHNOS0IyRmNVbFhBRmlrcDhTSmplTHBkODVGZkIzb3dYMUxaQkg1V2tWT2M5MEhrZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-05 04:10:00"
+      },
+      {
         "title": "多名參選人趕末班車！雲林劉建國喊「94要拚」嘉義爆登記失敗 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBydEYwMk9nSHhWeDc0akJUWWUwNURDcE1sRV85S1hPVVJvX1lpOTZpWnZabk94Q1BmbWJPWDFLNWdVTk8yR2FaaXp3U3IzYTZfdUNr0gFYQVVfeXFMT0tNckw4cUxQQ1pYalpQVUdTY05ib0RjMUF5MEZUb3dfcm9LLU9sWFFCMTdnMHI3cTEtc3dCWG1NS3oyVUUwZVF4R2U4eXdfbkxwMVlwWWhyRg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-05 00:00:00"
@@ -618,6 +659,11 @@
         "title": "多名參選人趕末班車！雲林劉建國喊「94要拚」嘉義爆登記失敗| 2026九合一選舉 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01QWRVSTMwVXp6S3dFcFVKbzVWMG52cEtPa0tWdmpuZmI5UURDSDJ3T0duNmlvdzNIMnZqTUNRTXoyX2FLSUpZeXpRakszcWRxbkhMVExYYXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-05 00:00:00"
+      },
+      {
+        "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HN2RzTEVKckZqWFhjYWhKT19IX3NaclBLdThPUjJhM2ctaF9FZGUweDRrY3pQMlhhZk84SjZ6OVlIRnM5WlpsM1BiLTVwclA4QVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-04 21:48:00"
       },
       {
         "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - tw.news.yahoo.com",
@@ -786,14 +832,24 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 18,
-    "劉建國": 20
+    "張嘉郡": 20,
+    "劉建國": 23
   },
   "mention_compare_7d": {
-    "張嘉郡": 127,
-    "劉建國": 96
+    "張嘉郡": 129,
+    "劉建國": 99
   },
   "top_news": [
+    {
+      "title": "雲林縣長4人登記 劉建國︰要縣民政治 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWXlaNnRyUXJNa0RmZzF2UkhPOFp3QTNDdDBTeUxLa1FNdHR2UVZXamNaQ1JWaURJemV6MUNOZU1TUmxqd1djTXV2ODVJWjBReXNsYndiQi1VRXhVdTRoYmRuMzFZb2FBN3FLR01WNlZaYmtSeW55UWFQY1Y3U3hKLU9BRlZsYzNGY2tpaFoyNmJDMU4yNUMtUGI2X3F5TC1HU1NkQ1N0WTJwUmNjX1NKcTk3Rjdzd0xldU9ST2phaEQyVXlSaXZjUEhIcXpoQVpON0RpRWx1ekhqNnRzb1VzakhLVHpIMTZvd0o2akJ2WFlVSHZ6alM0NUpYM2hYVkZNeWFXQzhNV3FCZkk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-05 05:30:00"
+    },
+    {
+      "title": "雲林 劉建國拚高科技產業 張嘉郡賣柚挺農民 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQeWR3bUd2WUllZWlzaUVocG5PSm91UlhwS3pzNWdSeUE4WHBQS0REV3FMc04yaHlHcWhUazFQLVpYSTdXRmNvbkN2UWlYeUdoQkJPNUdlREpicXFuZnpfeFBzbUNXSzdJRWtlamFwYWMxQlJ5T2hEMUwzeEg1YWNIX0dXX1pwcmQwM2JQSS1faE9KNDlTRVljcjBSeVgzblFzMFlfTHdXM2ZIalRkS01yOG5Xc1BpeTNrY1l1SHJJSHdBS1hacTZwc3lMLUtzSjBUVnZpVDR1M19Uc0FIS0J2bktMR2hENTJlM2NVRXRKaVU0eDZ2VzBOTG1XSFd1Sng3MGRLX0g0dktQVHNOS0IyRmNVbFhBRmlrcDhTSmplTHBkODVGZkIzb3dYMUxaQkg1V2tWT2M5MEhrZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-05 04:10:00"
+    },
     {
       "title": "多名參選人趕末班車！雲林劉建國喊「94要拚」嘉義爆登記失敗 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBydEYwMk9nSHhWeDc0akJUWWUwNURDcE1sRV85S1hPVVJvX1lpOTZpWnZabk94Q1BmbWJPWDFLNWdVTk8yR2FaaXp3U3IzYTZfdUNr0gFYQVVfeXFMT0tNckw4cUxQQ1pYalpQVUdTY05ib0RjMUF5MEZUb3dfcm9LLU9sWFFCMTdnMHI3cTEtc3dCWG1NS3oyVUUwZVF4R2U4eXdfbkxwMVlwWWhyRg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -803,6 +859,11 @@
       "title": "多名參選人趕末班車！雲林劉建國喊「94要拚」嘉義爆登記失敗| 2026九合一選舉 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01QWRVSTMwVXp6S3dFcFVKbzVWMG52cEtPa0tWdmpuZmI5UURDSDJ3T0duNmlvdzNIMnZqTUNRTXoyX2FLSUpZeXpRakszcWRxbkhMVExYYXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-05 00:00:00"
+    },
+    {
+      "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HN2RzTEVKckZqWFhjYWhKT19IX3NaclBLdThPUjJhM2ctaF9FZGUweDRrY3pQMlhhZk84SjZ6OVlIRnM5WlpsM1BiLTVwclA4QVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-04 21:48:00"
     },
     {
       "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - tw.news.yahoo.com",
@@ -838,24 +899,19 @@
       "title": "九合一選戰登記截止日 劉建國獲支持者簇擁壓線登記 - tw.news.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOYUk2TGdXY3RCSnJWbUwzV2xRRVpDLXpDY3pBelpMTXlmd0pIS1NEYlJCS05GaEdfRjh6QS1mbDZYVW5neklUcG9yR0ZMeVc1VTVlZURUZmpFYmRVa2pGYmNvcFpXdzV2UGNWbVV4Szg5UUZEVHpoUm1NYnFObDZxT1U5bWpqRXZ1NDBNVmFIVnY2YWJNTVZrX3RpcVloaFhPS21KcHNVeFJTczJsZ2FyYWVRb1F0Vk9EcDV5dG9mcEVEMWJpS0F5ZE9qWExnTnVfTjVwY1dtNjNoX2JSUDlHblc2bVFxeUgycnl2YnV0SXVHa2NfUjlNUWFXdzM2Yy15VjhWMmxLV2lqMlQxQUQwRVM4UFlKWmdSd2xDcW1DdWtmOGpORFV5ODhGYzUyT21qdlJKOHdvck1OandSazFLWkdYaWxJLVJKcFZnNC1palF1UUdtMURNY0hTd09Tdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-04 17:36:58"
-    },
-    {
-      "title": "中秋將至斗六文旦搶先亮相 張嘉郡立院拚通路籲全民「吃文旦挺農民」 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbUpYaVRsTkFyMHRhR09JMHQ5X1JzbEpjRlhfYUl5ckhUOTlVZFE3UG1wUmlyYnpXS1BoRzVoSUtaR1FyWEd0RHRMOGo3QnlZbVVwT2tUc0ppanJnNTA0alpsdml3bVRrb0tXNzZTVnRiM1lHZkRDTWt5NHNYcFI5VV90OA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-04 16:24:55"
-    },
-    {
-      "title": "縣長參選登記完隔天就北上 張嘉郡立院替雲林柚農「找市場」 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1c2M2WkJWaTQ1d3dXUjdHeWRHeEI0QXkzeURELUVWcTVMZWQ0ZU5mUUoyZ3VRLTVsek1CNXdOcDd0Z2pWbnQ1Wm0xanlKcGhq0gFWQVVfeXFMT2dZVFlQSFNsUUhUQWNtOHYzMWV1elJNQkVfeUlFYUw2ekRQa0xGZjVSQWtwaTlMaFM0T3VwbG9WVklhNHExOU51WGVPcUZXZFB6STh4bXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-04 16:22:29"
-    },
-    {
-      "title": "中秋將至斗六文旦搶先亮相 張嘉郡立院拚通路籲全民「吃文旦挺農民」 - tw.news.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQTWhydmt1TDdQdUVCTFlNM0ZvTW84ZmJwd3JDbnEwUWVWeTR1d3hZVkxwaFRPYkxpMUNtN2o0YVMzVk1TTzh0UzJscVhYTFJ4cnlhVWVUemowQ2FydDJTaVU2OUpodEd3RDkycVRYRlVRa2xqZVkwamhzRWl6SXNDaVJVc3M2UGJIQi1FUkticW9KaTBWcXNOTVk0VUt4cXFoMDhYVWxvLVZCLXJxMXh0bG1lb09LYjJqZ2F2ZDZRaUZUdGY2TmdCU29lUjFlVHY4VnJjTkhGbWRkTnloTE5JQ2hkLUJndWxxVTBmM2h5MU9XWFUwRkluYkdKZDU2MjFRMTJpTmYtSnF4VXRJdjFVUDhDVlRiaDVRdDhaM1BKZEtBYkU4Z2l3T1lKSTZya0g5aThZR3ktZXV5NHVIdExybkpieV81NHRGcF9zLVA5U2VJUlhDRzNCQzMyX2N1dGRsLXQ3NnVEaDFSR2EtZHVnUzF1S0s3YmdiRng5TFQ3MmVkMmstWHBoekZudDlIMHdNRHRmbzEtTndJUG1pOXdpUm5rbV9scVp5VVFSd3lta2Ridw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-04 16:15:24"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "雲林縣長4人登記 劉建國︰要縣民政治 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWXlaNnRyUXJNa0RmZzF2UkhPOFp3QTNDdDBTeUxLa1FNdHR2UVZXamNaQ1JWaURJemV6MUNOZU1TUmxqd1djTXV2ODVJWjBReXNsYndiQi1VRXhVdTRoYmRuMzFZb2FBN3FLR01WNlZaYmtSeW55UWFQY1Y3U3hKLU9BRlZsYzNGY2tpaFoyNmJDMU4yNUMtUGI2X3F5TC1HU1NkQ1N0WTJwUmNjX1NKcTk3Rjdzd0xldU9ST2phaEQyVXlSaXZjUEhIcXpoQVpON0RpRWx1ekhqNnRzb1VzakhLVHpIMTZvd0o2akJ2WFlVSHZ6alM0NUpYM2hYVkZNeWFXQzhNV3FCZkk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-05 05:30:00"
+    },
+    {
+      "title": "雲林 劉建國拚高科技產業 張嘉郡賣柚挺農民 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQeWR3bUd2WUllZWlzaUVocG5PSm91UlhwS3pzNWdSeUE4WHBQS0REV3FMc04yaHlHcWhUazFQLVpYSTdXRmNvbkN2UWlYeUdoQkJPNUdlREpicXFuZnpfeFBzbUNXSzdJRWtlamFwYWMxQlJ5T2hEMUwzeEg1YWNIX0dXX1pwcmQwM2JQSS1faE9KNDlTRVljcjBSeVgzblFzMFlfTHdXM2ZIalRkS01yOG5Xc1BpeTNrY1l1SHJJSHdBS1hacTZwc3lMLUtzSjBUVnZpVDR1M19Uc0FIS0J2bktMR2hENTJlM2NVRXRKaVU0eDZ2VzBOTG1XSFd1Sng3MGRLX0g0dktQVHNOS0IyRmNVbFhBRmlrcDhTSmplTHBkODVGZkIzb3dYMUxaQkg1V2tWT2M5MEhrZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-05 04:10:00"
+    },
     {
       "title": "多名參選人趕末班車！雲林劉建國喊「94要拚」嘉義爆登記失敗 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBydEYwMk9nSHhWeDc0akJUWWUwNURDcE1sRV85S1hPVVJvX1lpOTZpWnZabk94Q1BmbWJPWDFLNWdVTk8yR2FaaXp3U3IzYTZfdUNr0gFYQVVfeXFMT0tNckw4cUxQQ1pYalpQVUdTY05ib0RjMUF5MEZUb3dfcm9LLU9sWFFCMTdnMHI3cTEtc3dCWG1NS3oyVUUwZVF4R2U4eXdfbkxwMVlwWWhyRg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -865,6 +921,11 @@
       "title": "多名參選人趕末班車！雲林劉建國喊「94要拚」嘉義爆登記失敗| 2026九合一選舉 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01QWRVSTMwVXp6S3dFcFVKbzVWMG52cEtPa0tWdmpuZmI5UURDSDJ3T0duNmlvdzNIMnZqTUNRTXoyX2FLSUpZeXpRakszcWRxbkhMVExYYXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-05 00:00:00"
+    },
+    {
+      "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HN2RzTEVKckZqWFhjYWhKT19IX3NaclBLdThPUjJhM2ctaF9FZGUweDRrY3pQMlhhZk84SjZ6OVlIRnM5WlpsM1BiLTVwclA4QVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-04 21:48:00"
     },
     {
       "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - tw.news.yahoo.com",
@@ -940,21 +1001,6 @@
       "title": "張嘉郡立院推廣斗六文旦為農民拚通路 談登記坦言「很感動」 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPdXRUenJyVVdBNWRrUjhXSHdHX1dmTTc2d2FaOXZQMW9haG1wcTZOaEowbHRkMzdfVnlSc1RYR3l5MGJDWmpQZDNTQkFJdzVibTVWcTBzamM2VWRUeUpJSnhYNnpBelFUNmxwcDFwb2p1Y3JIMDEtQzVDUGJnT1RLRG9DblJSZjYzNDU5RUFLdVU1Y1NCUmo4ZnVPWlZqb2RRT1M4emtJQXZFbi1WeTctMENVLS1VVW5JN3VsRDY3bHdMUzR4RlVjRmJmQ05BV2JOQms0RWJtZHhSWmoweTRLVHZLUnRHS3puazdXbzZUem53eFRCVEg5OEZVNkdYWTExYWlCRm05Z3FGbkhBeHR2aFRTaGt0aGhZb3JCaExMcHdSLWJhMVVfUHRzeDBwa1F3aVBBdHVQcU16ZmhwUG95dkdqRV95X0c3YTBPVXlvTXpoN0tEbDRQd1RTb2xmZVZWZlhId09FTVp2a1BiSmdPQzNOYlFZUXo2Rks0Z1JTeDFYQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-04 15:00:00"
-    },
-    {
-      "title": "張嘉郡立院推廣斗六文旦為農民拚通路 談登記坦言「很感動」 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByTV9yVmhVOGhsWWpFQ2ZROThwMHBnZDl2eWlJcFFOM19ZdTIya2E1UGFDNkJ5eHJrVmJfUGdSek96Vnd4ZzR4VE5kZk1BeXlKcGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-04 15:00:00"
-    },
-    {
-      "title": "雲林綠營團結拚勝選 劉建國、尹令瑛合體登記 - 上報Up Media",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IZkF1R0JnUzRqdjJGaWYzOXkwa0haRTMzQVhQYlhrWEhyeTFUNlE0eGt5b1ZuVzJJQ1dXdXBudWtpamRiT0c3b2YzN19fTG1vOUxzVkRKV1d6cl94a0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-04 13:51:00"
-    },
-    {
-      "title": "劉建國登記參選雲林縣長 張嘉郡推廣斗六文旦| 地方 - 中央社 CNA",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02WFNxMDZZeU9ZNXNRUHhjQ250VHlOOEhrR2QycWVaYWFYVVJlUGlPcmVRd1M1dWJBdVRUMnFBRWNpTjBTN1EtMVFqeElPeFRROTRzTTN4YzNwNHE0YU1j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-04 13:45:00"
     }
   ],
   "latest_facebook_20": [
@@ -1061,6 +1107,16 @@
   ],
   "latest_news_20": [
     {
+      "title": "雲林縣長4人登記 劉建國︰要縣民政治 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWXlaNnRyUXJNa0RmZzF2UkhPOFp3QTNDdDBTeUxLa1FNdHR2UVZXamNaQ1JWaURJemV6MUNOZU1TUmxqd1djTXV2ODVJWjBReXNsYndiQi1VRXhVdTRoYmRuMzFZb2FBN3FLR01WNlZaYmtSeW55UWFQY1Y3U3hKLU9BRlZsYzNGY2tpaFoyNmJDMU4yNUMtUGI2X3F5TC1HU1NkQ1N0WTJwUmNjX1NKcTk3Rjdzd0xldU9ST2phaEQyVXlSaXZjUEhIcXpoQVpON0RpRWx1ekhqNnRzb1VzakhLVHpIMTZvd0o2akJ2WFlVSHZ6alM0NUpYM2hYVkZNeWFXQzhNV3FCZkk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-05 05:30:00"
+    },
+    {
+      "title": "雲林 劉建國拚高科技產業 張嘉郡賣柚挺農民 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQeWR3bUd2WUllZWlzaUVocG5PSm91UlhwS3pzNWdSeUE4WHBQS0REV3FMc04yaHlHcWhUazFQLVpYSTdXRmNvbkN2UWlYeUdoQkJPNUdlREpicXFuZnpfeFBzbUNXSzdJRWtlamFwYWMxQlJ5T2hEMUwzeEg1YWNIX0dXX1pwcmQwM2JQSS1faE9KNDlTRVljcjBSeVgzblFzMFlfTHdXM2ZIalRkS01yOG5Xc1BpeTNrY1l1SHJJSHdBS1hacTZwc3lMLUtzSjBUVnZpVDR1M19Uc0FIS0J2bktMR2hENTJlM2NVRXRKaVU0eDZ2VzBOTG1XSFd1Sng3MGRLX0g0dktQVHNOS0IyRmNVbFhBRmlrcDhTSmplTHBkODVGZkIzb3dYMUxaQkg1V2tWT2M5MEhrZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-05 04:10:00"
+    },
+    {
       "title": "多名參選人趕末班車！雲林劉建國喊「94要拚」嘉義爆登記失敗 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBydEYwMk9nSHhWeDc0akJUWWUwNURDcE1sRV85S1hPVVJvX1lpOTZpWnZabk94Q1BmbWJPWDFLNWdVTk8yR2FaaXp3U3IzYTZfdUNr0gFYQVVfeXFMT0tNckw4cUxQQ1pYalpQVUdTY05ib0RjMUF5MEZUb3dfcm9LLU9sWFFCMTdnMHI3cTEtc3dCWG1NS3oyVUUwZVF4R2U4eXdfbkxwMVlwWWhyRg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-05 00:00:00"
@@ -1069,6 +1125,11 @@
       "title": "多名參選人趕末班車！雲林劉建國喊「94要拚」嘉義爆登記失敗| 2026九合一選舉 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01QWRVSTMwVXp6S3dFcFVKbzVWMG52cEtPa0tWdmpuZmI5UURDSDJ3T0duNmlvdzNIMnZqTUNRTXoyX2FLSUpZeXpRakszcWRxbkhMVExYYXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-05 00:00:00"
+    },
+    {
+      "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HN2RzTEVKckZqWFhjYWhKT19IX3NaclBLdThPUjJhM2ctaF9FZGUweDRrY3pQMlhhZk84SjZ6OVlIRnM5WlpsM1BiLTVwclA4QVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-04 21:48:00"
     },
     {
       "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - tw.news.yahoo.com",
@@ -1144,21 +1205,6 @@
       "title": "張嘉郡立院推廣斗六文旦為農民拚通路 談登記坦言「很感動」 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPdXRUenJyVVdBNWRrUjhXSHdHX1dmTTc2d2FaOXZQMW9haG1wcTZOaEowbHRkMzdfVnlSc1RYR3l5MGJDWmpQZDNTQkFJdzVibTVWcTBzamM2VWRUeUpJSnhYNnpBelFUNmxwcDFwb2p1Y3JIMDEtQzVDUGJnT1RLRG9DblJSZjYzNDU5RUFLdVU1Y1NCUmo4ZnVPWlZqb2RRT1M4emtJQXZFbi1WeTctMENVLS1VVW5JN3VsRDY3bHdMUzR4RlVjRmJmQ05BV2JOQms0RWJtZHhSWmoweTRLVHZLUnRHS3puazdXbzZUem53eFRCVEg5OEZVNkdYWTExYWlCRm05Z3FGbkhBeHR2aFRTaGt0aGhZb3JCaExMcHdSLWJhMVVfUHRzeDBwa1F3aVBBdHVQcU16ZmhwUG95dkdqRV95X0c3YTBPVXlvTXpoN0tEbDRQd1RTb2xmZVZWZlhId09FTVp2a1BiSmdPQzNOYlFZUXo2Rks0Z1JTeDFYQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-04 15:00:00"
-    },
-    {
-      "title": "張嘉郡立院推廣斗六文旦為農民拚通路 談登記坦言「很感動」 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByTV9yVmhVOGhsWWpFQ2ZROThwMHBnZDl2eWlJcFFOM19ZdTIya2E1UGFDNkJ5eHJrVmJfUGdSek96Vnd4ZzR4VE5kZk1BeXlKcGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-04 15:00:00"
-    },
-    {
-      "title": "雲林綠營團結拚勝選 劉建國、尹令瑛合體登記 - 上報Up Media",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IZkF1R0JnUzRqdjJGaWYzOXkwa0haRTMzQVhQYlhrWEhyeTFUNlE0eGt5b1ZuVzJJQ1dXdXBudWtpamRiT0c3b2YzN19fTG1vOUxzVkRKV1d6cl94a0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-04 13:51:00"
-    },
-    {
-      "title": "劉建國登記參選雲林縣長 張嘉郡推廣斗六文旦| 地方 - 中央社 CNA",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02WFNxMDZZeU9ZNXNRUHhjQ250VHlOOEhrR2QycWVaYWFYVVJlUGlPcmVRd1M1dWJBdVRUMnFBRWNpTjBTN1EtMVFqeElPeFRROTRzTTN4YzNwNHE0YU1j?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-04 13:45:00"
     }
   ],
   "person_sections": {
@@ -1267,6 +1313,16 @@
       ],
       "news": [
         {
+          "title": "雲林 劉建國拚高科技產業 張嘉郡賣柚挺農民 - tw.news.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQeWR3bUd2WUllZWlzaUVocG5PSm91UlhwS3pzNWdSeUE4WHBQS0REV3FMc04yaHlHcWhUazFQLVpYSTdXRmNvbkN2UWlYeUdoQkJPNUdlREpicXFuZnpfeFBzbUNXSzdJRWtlamFwYWMxQlJ5T2hEMUwzeEg1YWNIX0dXX1pwcmQwM2JQSS1faE9KNDlTRVljcjBSeVgzblFzMFlfTHdXM2ZIalRkS01yOG5Xc1BpeTNrY1l1SHJJSHdBS1hacTZwc3lMLUtzSjBUVnZpVDR1M19Uc0FIS0J2bktMR2hENTJlM2NVRXRKaVU0eDZ2VzBOTG1XSFd1Sng3MGRLX0g0dktQVHNOS0IyRmNVbFhBRmlrcDhTSmplTHBkODVGZkIzb3dYMUxaQkg1V2tWT2M5MEhrZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-05 04:10:00"
+        },
+        {
+          "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HN2RzTEVKckZqWFhjYWhKT19IX3NaclBLdThPUjJhM2ctaF9FZGUweDRrY3pQMlhhZk84SjZ6OVlIRnM5WlpsM1BiLTVwclA4QVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-04 21:48:00"
+        },
+        {
           "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - tw.news.yahoo.com",
           "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxOTEJGRmo2bWF6TGVCeXdxVFZybjVOZGdXY0pYblp3T0xnT1BBbGQ2Mlh0SjlzQzFZUGp0ZmFiZFdlY2hmYTg0N0RXMG9LcVVkWEszazVRbUN6bGd5WldjSnJMcU1BN01KcHlWaFEtWGpBQmtfdXFTOXlSaDRHVUxpaTg1M1JxVjhMb2FYcGlGZUNVLS12Y3I1VEpQYkR0ZFROTmc3dWp3VDM1MF9Fa0dCUkpHN2I3aHRKQ3drOU1UTjZ6MW9xMENKZldkMlJONVJ0T1JCbUptMDFoWl9zRW9IRXREUDdMcEEtUXI1QjlLckVPU1VycUlIS185ZWl2a2tCU3hkXzVMazJySFgyNnJ6SVJzQkM5OUxZVUtMS3JwbUNHN1VuZWtoUGVBYzNsdWlWcmNGRkwtaWNaZXR5VEhNb0ZUSHh4ZmlsamNBSXRZekJ4alFLREJHemVkTk1NdW5FSHppRjlvaTlhOG1ockhTdXlod0RFOUpaMkZzdXVKQUNwdy1xbC1FWXV6c2toNDlaRC1KM1Vqd25QNF83ZlRLcjRLU0treFlqV3BNNg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-04 21:46:32"
@@ -1355,16 +1411,6 @@
           "title": "張嘉郡今登記參選縣長 加速前進要讓雲林更好 - atanews.net",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jbk5YN2dEeTFYZlFPN2Rhc3NyTWJ4b3lFR0wtNWhvRHJnVFJscXB6QlRqZUlXam4zanE2ZFdmQ19RYjIyNzJFMnN6V290cFE0S19lbzR5TWJaZE43QkFjUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-04 04:21:54"
-        },
-        {
-          "title": "張嘉郡完成雲林縣長參選登記 提WOW超越想像 | 中華日報 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zMkZ6aDg1NTdjZjlBNTRLMkNqY3U0X3NSWXl5ZnVUbUtET0k4cEtmQzhvaWprdmVzMXRBQmQzX2xKc2EwMjQwTE9BLUhET1dLTzVMVkFn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-04 02:06:54"
-        },
-        {
-          "title": "張嘉郡登記參選雲林縣長 喊「WOW超越想像」接棒張麗善加速雲林前進 - tw.news.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOMThVS0dNTDhjdWdUc3ltQ3F1RnZ5UEItTkZPcEh3RUNtY1RHMTNPZ0t4LTRveU1scnRqTlFNaXFudGUtT28tNndmSmxGejc4bzJrYWJ6ajUyR3RFOTJVcTNiaVA3VUQ1eEJVMXFEdVpPeXh5V0FRdnpHZV9DamhBdW1rWEhpT0pOTEFLUXJUcDZzRzZlV3F2aGliTUJkMExYblR6S1NHMWRkZndGQWtNemhiWXZBeGczQTI4bHBkT1YxMXBpOWw3TTRqUl9xRVh0SURTTlplTE5CZkQ3REh2T3pZZWhKMFAtS1dkY3RxeEpFZjYxSGo4U1V1MnF6UkRabWtwbjNPVFVxZGhReUJ2VDJRMUV0YlRtMGcxRXI3MmF4emJwY1pIZDVzbE9RWW9JbEJfUHRHXzVCNTExaWNBV1JHQkFNQ0pMaHRjYWFIYTF0aDJYMU5EaEF6Z3ZqOGtsTkkwRzI5WGZfOTItcjBSSVlEYW9UVGlyaHZBazZ1Q1pzQ0kxWjgtLURTN2VBUjd5WjNDUDFrMlBGMjByNlJr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-03 22:35:51"
         }
       ]
     },
@@ -1473,6 +1519,16 @@
       ],
       "news": [
         {
+          "title": "雲林縣長4人登記 劉建國︰要縣民政治 - tw.news.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWXlaNnRyUXJNa0RmZzF2UkhPOFp3QTNDdDBTeUxLa1FNdHR2UVZXamNaQ1JWaURJemV6MUNOZU1TUmxqd1djTXV2ODVJWjBReXNsYndiQi1VRXhVdTRoYmRuMzFZb2FBN3FLR01WNlZaYmtSeW55UWFQY1Y3U3hKLU9BRlZsYzNGY2tpaFoyNmJDMU4yNUMtUGI2X3F5TC1HU1NkQ1N0WTJwUmNjX1NKcTk3Rjdzd0xldU9ST2phaEQyVXlSaXZjUEhIcXpoQVpON0RpRWx1ekhqNnRzb1VzakhLVHpIMTZvd0o2akJ2WFlVSHZ6alM0NUpYM2hYVkZNeWFXQzhNV3FCZkk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-05 05:30:00"
+        },
+        {
+          "title": "雲林 劉建國拚高科技產業 張嘉郡賣柚挺農民 - tw.news.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQeWR3bUd2WUllZWlzaUVocG5PSm91UlhwS3pzNWdSeUE4WHBQS0REV3FMc04yaHlHcWhUazFQLVpYSTdXRmNvbkN2UWlYeUdoQkJPNUdlREpicXFuZnpfeFBzbUNXSzdJRWtlamFwYWMxQlJ5T2hEMUwzeEg1YWNIX0dXX1pwcmQwM2JQSS1faE9KNDlTRVljcjBSeVgzblFzMFlfTHdXM2ZIalRkS01yOG5Xc1BpeTNrY1l1SHJJSHdBS1hacTZwc3lMLUtzSjBUVnZpVDR1M19Uc0FIS0J2bktMR2hENTJlM2NVRXRKaVU0eDZ2VzBOTG1XSFd1Sng3MGRLX0g0dktQVHNOS0IyRmNVbFhBRmlrcDhTSmplTHBkODVGZkIzb3dYMUxaQkg1V2tWT2M5MEhrZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-05 04:10:00"
+        },
+        {
           "title": "多名參選人趕末班車！雲林劉建國喊「94要拚」嘉義爆登記失敗 - UDN",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBydEYwMk9nSHhWeDc0akJUWWUwNURDcE1sRV85S1hPVVJvX1lpOTZpWnZabk94Q1BmbWJPWDFLNWdVTk8yR2FaaXp3U3IzYTZfdUNr0gFYQVVfeXFMT0tNckw4cUxQQ1pYalpQVUdTY05ib0RjMUF5MEZUb3dfcm9LLU9sWFFCMTdnMHI3cTEtc3dCWG1NS3oyVUUwZVF4R2U4eXdfbkxwMVlwWWhyRg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-05 00:00:00"
@@ -1481,6 +1537,11 @@
           "title": "多名參選人趕末班車！雲林劉建國喊「94要拚」嘉義爆登記失敗| 2026九合一選舉 - UDN",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01QWRVSTMwVXp6S3dFcFVKbzVWMG52cEtPa0tWdmpuZmI5UURDSDJ3T0duNmlvdzNIMnZqTUNRTXoyX2FLSUpZeXpRakszcWRxbkhMVExYYXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-05 00:00:00"
+        },
+        {
+          "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HN2RzTEVKckZqWFhjYWhKT19IX3NaclBLdThPUjJhM2ctaF9FZGUweDRrY3pQMlhhZk84SjZ6OVlIRnM5WlpsM1BiLTVwclA4QVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-04 21:48:00"
         },
         {
           "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - tw.news.yahoo.com",
@@ -1556,27 +1617,22 @@
           "title": "劉建國爭取 6校8千萬操場改善經費 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUjZTbW9jeHdjd20zZ2VRMUZBblBoLXpmeTNpU2ZMSE80bi0zLTJUSVVJVDk5RmQ4R3V4S1RXNEVvR3ZZZHVwdUdVS196VXlQdk9yU1hNSldkaWZtYm1oc3JTV0JQM1YxX3IxV2lUSnpUN2lCN2kwakM0X19CRFVEbnJUZDJ4Ym01V3Bjdko1TWpBdTZSQnd6WUFfb250LVc5aEFYdEZmZnBCZ0RIeG5BNE5ISHcwY0xqZDBYQ3RMSnhfV0pvU0k0WFFYei1fVEpacjVFLW9kZDBQbkprVHl5NUxzX251NlhIclBBR1o1VzBITzYzSE1LbzJSYUZla00?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-04 05:30:00"
-        },
-        {
-          "title": "劉建國爭取 6校8千萬操場改善經費 - 自由時報",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MTEl3ZXM2djJGUFhzYmJzMHN6RmhzZzJwV3MtLWt2RVc4NmJ3c2FPT243NUJqSG14dWRyanpqSHE3djZQd1hTSlMyTFlmbHRXdmhfZkI1YlRzTk5PQkpGadIBZkFVX3lxTE9LM1lBUGNjMjc4Q1ZpVXVReFVxU2dBZy15VTIzT2VDRS1WbzhyNzJpeFFleHNKUU96UWZscEQ4dDVHd2x2WEpXVmhYRjE1eFdpbnRhcHRqdlhPWUlIVmZQOExPWjRudw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-04 05:30:00"
-        },
-        {
-          "title": "雲林縣長、縣議員累計68人參戰 劉建國明早登記 | 自由電子報 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PVGJQdUM4VTJfTnFpTlYtNERkeWhCVEtGM3drdTBtb3VGS3lvQ1ZPbnBXV0ZVR1Bxa3lkOHR5VTR3bDdIdFNWMFFEN0hxNzZNc3BMQnVB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-03 21:25:25"
-        },
-        {
-          "title": "雲林縣長、縣議員累計68人參戰 劉建國明早登記 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPb3BzUWRXT0hJRkJpX1V0NkFxYkQ5MnhYS0lCVGlwa1BFWkswLVg4LVV4UmNJWHZrbDNyOW54UGlseEExcTRhdU9iYjJrM3NnUW00cjZlYnJpZmVMQW1QanJkWHIzSTZ0T203TjBPNzlIMVlTZ213c08tNFlWd1R4MkxCOGt6VFIxOXQzTE9zRE5VWU5POU0zeUh1NEF1RzY2VzRMSG5VcUlnU1ZrblM1azEySXNYZjN5LVZRQkpfWklodVJUTVR6R0QxN0oyeHUtaXhYb3ZXTjk4bk5VdTYwOG9NNGVIUEZBVnJ3Yk1CWmw5bExSd09WUEFtTTdQOTdYOF9EVHFpSmNKU28tYmxPSmVoQjJIRDZMWE5fX0p5WHc1V2gtT2xmZE4tWl8yTkE0OTNZZk5vcTA3aTEy?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-03 21:11:21"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "雲林縣長4人登記 劉建國︰要縣民政治 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWXlaNnRyUXJNa0RmZzF2UkhPOFp3QTNDdDBTeUxLa1FNdHR2UVZXamNaQ1JWaURJemV6MUNOZU1TUmxqd1djTXV2ODVJWjBReXNsYndiQi1VRXhVdTRoYmRuMzFZb2FBN3FLR01WNlZaYmtSeW55UWFQY1Y3U3hKLU9BRlZsYzNGY2tpaFoyNmJDMU4yNUMtUGI2X3F5TC1HU1NkQ1N0WTJwUmNjX1NKcTk3Rjdzd0xldU9ST2phaEQyVXlSaXZjUEhIcXpoQVpON0RpRWx1ekhqNnRzb1VzakhLVHpIMTZvd0o2akJ2WFlVSHZ6alM0NUpYM2hYVkZNeWFXQzhNV3FCZkk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-05 05:30:00"
+      },
+      {
+        "title": "雲林 劉建國拚高科技產業 張嘉郡賣柚挺農民 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQeWR3bUd2WUllZWlzaUVocG5PSm91UlhwS3pzNWdSeUE4WHBQS0REV3FMc04yaHlHcWhUazFQLVpYSTdXRmNvbkN2UWlYeUdoQkJPNUdlREpicXFuZnpfeFBzbUNXSzdJRWtlamFwYWMxQlJ5T2hEMUwzeEg1YWNIX0dXX1pwcmQwM2JQSS1faE9KNDlTRVljcjBSeVgzblFzMFlfTHdXM2ZIalRkS01yOG5Xc1BpeTNrY1l1SHJJSHdBS1hacTZwc3lMLUtzSjBUVnZpVDR1M19Uc0FIS0J2bktMR2hENTJlM2NVRXRKaVU0eDZ2VzBOTG1XSFd1Sng3MGRLX0g0dktQVHNOS0IyRmNVbFhBRmlrcDhTSmplTHBkODVGZkIzb3dYMUxaQkg1V2tWT2M5MEhrZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-05 04:10:00"
+      },
       {
         "title": "多名參選人趕末班車！雲林劉建國喊「94要拚」嘉義爆登記失敗 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBydEYwMk9nSHhWeDc0akJUWWUwNURDcE1sRV85S1hPVVJvX1lpOTZpWnZabk94Q1BmbWJPWDFLNWdVTk8yR2FaaXp3U3IzYTZfdUNr0gFYQVVfeXFMT0tNckw4cUxQQ1pYalpQVUdTY05ib0RjMUF5MEZUb3dfcm9LLU9sWFFCMTdnMHI3cTEtc3dCWG1NS3oyVUUwZVF4R2U4eXdfbkxwMVlwWWhyRg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1586,6 +1642,11 @@
         "title": "多名參選人趕末班車！雲林劉建國喊「94要拚」嘉義爆登記失敗| 2026九合一選舉 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01QWRVSTMwVXp6S3dFcFVKbzVWMG52cEtPa0tWdmpuZmI5UURDSDJ3T0duNmlvdzNIMnZqTUNRTXoyX2FLSUpZeXpRakszcWRxbkhMVExYYXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-05 00:00:00"
+      },
+      {
+        "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HN2RzTEVKckZqWFhjYWhKT19IX3NaclBLdThPUjJhM2ctaF9FZGUweDRrY3pQMlhhZk84SjZ6OVlIRnM5WlpsM1BiLTVwclA4QVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-04 21:48:00"
       },
       {
         "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - tw.news.yahoo.com",
@@ -1766,6 +1827,16 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "雲林縣長4人登記 劉建國︰要縣民政治 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWXlaNnRyUXJNa0RmZzF2UkhPOFp3QTNDdDBTeUxLa1FNdHR2UVZXamNaQ1JWaURJemV6MUNOZU1TUmxqd1djTXV2ODVJWjBReXNsYndiQi1VRXhVdTRoYmRuMzFZb2FBN3FLR01WNlZaYmtSeW55UWFQY1Y3U3hKLU9BRlZsYzNGY2tpaFoyNmJDMU4yNUMtUGI2X3F5TC1HU1NkQ1N0WTJwUmNjX1NKcTk3Rjdzd0xldU9ST2phaEQyVXlSaXZjUEhIcXpoQVpON0RpRWx1ekhqNnRzb1VzakhLVHpIMTZvd0o2akJ2WFlVSHZ6alM0NUpYM2hYVkZNeWFXQzhNV3FCZkk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-05 05:30:00"
+      },
+      {
+        "title": "雲林 劉建國拚高科技產業 張嘉郡賣柚挺農民 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQeWR3bUd2WUllZWlzaUVocG5PSm91UlhwS3pzNWdSeUE4WHBQS0REV3FMc04yaHlHcWhUazFQLVpYSTdXRmNvbkN2UWlYeUdoQkJPNUdlREpicXFuZnpfeFBzbUNXSzdJRWtlamFwYWMxQlJ5T2hEMUwzeEg1YWNIX0dXX1pwcmQwM2JQSS1faE9KNDlTRVljcjBSeVgzblFzMFlfTHdXM2ZIalRkS01yOG5Xc1BpeTNrY1l1SHJJSHdBS1hacTZwc3lMLUtzSjBUVnZpVDR1M19Uc0FIS0J2bktMR2hENTJlM2NVRXRKaVU0eDZ2VzBOTG1XSFd1Sng3MGRLX0g0dktQVHNOS0IyRmNVbFhBRmlrcDhTSmplTHBkODVGZkIzb3dYMUxaQkg1V2tWT2M5MEhrZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-05 04:10:00"
+      },
+      {
         "title": "多名參選人趕末班車！雲林劉建國喊「94要拚」嘉義爆登記失敗 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBydEYwMk9nSHhWeDc0akJUWWUwNURDcE1sRV85S1hPVVJvX1lpOTZpWnZabk94Q1BmbWJPWDFLNWdVTk8yR2FaaXp3U3IzYTZfdUNr0gFYQVVfeXFMT0tNckw4cUxQQ1pYalpQVUdTY05ib0RjMUF5MEZUb3dfcm9LLU9sWFFCMTdnMHI3cTEtc3dCWG1NS3oyVUUwZVF4R2U4eXdfbkxwMVlwWWhyRg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-05 00:00:00"
@@ -1774,6 +1845,11 @@
         "title": "多名參選人趕末班車！雲林劉建國喊「94要拚」嘉義爆登記失敗| 2026九合一選舉 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01QWRVSTMwVXp6S3dFcFVKbzVWMG52cEtPa0tWdmpuZmI5UURDSDJ3T0duNmlvdzNIMnZqTUNRTXoyX2FLSUpZeXpRakszcWRxbkhMVExYYXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-05 00:00:00"
+      },
+      {
+        "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HN2RzTEVKckZqWFhjYWhKT19IX3NaclBLdThPUjJhM2ctaF9FZGUweDRrY3pQMlhhZk84SjZ6OVlIRnM5WlpsM1BiLTVwclA4QVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-04 21:48:00"
       },
       {
         "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - tw.news.yahoo.com",
@@ -1949,21 +2025,6 @@
         "title": "張嘉郡完成縣長參選登記 喊「嘉速前進」接棒拚雲林 - 大纪元",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1cnpxRFBxNmhKNkUtcVJFdHVGQ1BncFY1NHlQbEk0TWxTVThkRVBzZ1BvZ1lsWHZuWnZieHpCaHlfaGY1cTlGbnVQbVBuLWUzZ2hZZFJVNDEyMmNIZTRJ0gFkQVVfeXFMT3BTYVVWZHl5NElpdmNRUHRocFIyUWdrNmZoS3FKR1ByN0oyemhYNUI4S0xEREF3NUxjcU1kbUNDX2xETFplWDZfdnJBZFFZdTRxUkswVGFyYU0zNURETXJmMjhnOQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-03 21:44:00"
-      },
-      {
-        "title": "張嘉郡登記參選雲林縣長 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd0NnbktJRjdoLUNQeTF4U3lkSTM4Y0MyYU8yeFlmckgtTTBCUHdTY2x4YlA5eWpBS05TTEw4ZFNFRDlKcnJId2FSSHdUX05XaWNsMXZHTnNOOEFxeXRhLTl0ek1YaDktMUp3UlR6bDRYaWJpdVRUMGxuMTJhZV94V3d5MkZ3OG9hTXhRRVNaazF5YW1fMUZqMkpwc2dwUTgzMGFhRHRMN3IyeE15ZHpqRG9SalNmVDJrTDdRZlVjR0xXMkRQQWF6WjFTeGlES1kzQ0xVbFBhcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-03 21:29:11"
-      },
-      {
-        "title": "雲林縣長、縣議員累計68人參戰 劉建國明早登記 | 自由電子報 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PVGJQdUM4VTJfTnFpTlYtNERkeWhCVEtGM3drdTBtb3VGS3lvQ1ZPbnBXV0ZVR1Bxa3lkOHR5VTR3bDdIdFNWMFFEN0hxNzZNc3BMQnVB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-03 21:25:25"
-      },
-      {
-        "title": "雲林縣長、縣議員累計68人參戰 劉建國明早登記 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPb3BzUWRXT0hJRkJpX1V0NkFxYkQ5MnhYS0lCVGlwa1BFWkswLVg4LVV4UmNJWHZrbDNyOW54UGlseEExcTRhdU9iYjJrM3NnUW00cjZlYnJpZmVMQW1QanJkWHIzSTZ0T203TjBPNzlIMVlTZ213c08tNFlWd1R4MkxCOGt6VFIxOXQzTE9zRE5VWU5POU0zeUh1NEF1RzY2VzRMSG5VcUlnU1ZrblM1azEySXNYZjN5LVZRQkpfWklodVJUTVR6R0QxN0oyeHUtaXhYb3ZXTjk4bk5VdTYwOG9NNGVIUEZBVnJ3Yk1CWmw5bExSd09WUEFtTTdQOTdYOF9EVHFpSmNKU28tYmxPSmVoQjJIRDZMWE5fX0p5WHc1V2gtT2xmZE4tWl8yTkE0OTNZZk5vcTA3aTEy?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-03 21:11:21"
       }
     ],
     "facebook": [
@@ -2134,6 +2195,13 @@
   "event_stream": {
     "minute": [
       {
+        "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HN2RzTEVKckZqWFhjYWhKT19IX3NaclBLdThPUjJhM2ctaF9FZGUweDRrY3pQMlhhZk84SjZ6OVlIRnM5WlpsM1BiLTVwclA4QVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-04 21:48:00",
+        "platform": "news",
+        "risk": "紅"
+      },
+      {
         "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - tw.news.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxOTEJGRmo2bWF6TGVCeXdxVFZybjVOZGdXY0pYblp3T0xnT1BBbGQ2Mlh0SjlzQzFZUGp0ZmFiZFdlY2hmYTg0N0RXMG9LcVVkWEszazVRbUN6bGd5WldjSnJMcU1BN01KcHlWaFEtWGpBQmtfdXFTOXlSaDRHVUxpaTg1M1JxVjhMb2FYcGlGZUNVLS12Y3I1VEpQYkR0ZFROTmc3dWp3VDM1MF9Fa0dCUkpHN2I3aHRKQ3drOU1UTjZ6MW9xMENKZldkMlJONVJ0T1JCbUptMDFoWl9zRW9IRXREUDdMcEEtUXI1QjlLckVPU1VycUlIS185ZWl2a2tCU3hkXzVMazJySFgyNnJ6SVJzQkM5OUxZVUtMS3JwbUNHN1VuZWtoUGVBYzNsdWlWcmNGRkwtaWNaZXR5VEhNb0ZUSHh4ZmlsamNBSXRZekJ4alFLREJHemVkTk1NdW5FSHppRjlvaTlhOG1ockhTdXlod0RFOUpaMkZzdXVKQUNwdy1xbC1FWXV6c2toNDlaRC1KM1Vqd25QNF83ZlRLcjRLU0treFlqV3BNNg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-04 21:46:32",
@@ -2150,6 +2218,20 @@
     ],
     "hour": [],
     "day": [
+      {
+        "title": "雲林縣長4人登記 劉建國︰要縣民政治 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWXlaNnRyUXJNa0RmZzF2UkhPOFp3QTNDdDBTeUxLa1FNdHR2UVZXamNaQ1JWaURJemV6MUNOZU1TUmxqd1djTXV2ODVJWjBReXNsYndiQi1VRXhVdTRoYmRuMzFZb2FBN3FLR01WNlZaYmtSeW55UWFQY1Y3U3hKLU9BRlZsYzNGY2tpaFoyNmJDMU4yNUMtUGI2X3F5TC1HU1NkQ1N0WTJwUmNjX1NKcTk3Rjdzd0xldU9ST2phaEQyVXlSaXZjUEhIcXpoQVpON0RpRWx1ekhqNnRzb1VzakhLVHpIMTZvd0o2akJ2WFlVSHZ6alM0NUpYM2hYVkZNeWFXQzhNV3FCZkk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-05 05:30:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "雲林 劉建國拚高科技產業 張嘉郡賣柚挺農民 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQeWR3bUd2WUllZWlzaUVocG5PSm91UlhwS3pzNWdSeUE4WHBQS0REV3FMc04yaHlHcWhUazFQLVpYSTdXRmNvbkN2UWlYeUdoQkJPNUdlREpicXFuZnpfeFBzbUNXSzdJRWtlamFwYWMxQlJ5T2hEMUwzeEg1YWNIX0dXX1pwcmQwM2JQSS1faE9KNDlTRVljcjBSeVgzblFzMFlfTHdXM2ZIalRkS01yOG5Xc1BpeTNrY1l1SHJJSHdBS1hacTZwc3lMLUtzSjBUVnZpVDR1M19Uc0FIS0J2bktMR2hENTJlM2NVRXRKaVU0eDZ2VzBOTG1XSFd1Sng3MGRLX0g0dktQVHNOS0IyRmNVbFhBRmlrcDhTSmplTHBkODVGZkIzb3dYMUxaQkg1V2tWT2M5MEhrZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-05 04:10:00",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "多名參選人趕末班車！雲林劉建國喊「94要拚」嘉義爆登記失敗 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBydEYwMk9nSHhWeDc0akJUWWUwNURDcE1sRV85S1hPVVJvX1lpOTZpWnZabk94Q1BmbWJPWDFLNWdVTk8yR2FaaXp3U3IzYTZfdUNr0gFYQVVfeXFMT0tNckw4cUxQQ1pYalpQVUdTY05ib0RjMUF5MEZUb3dfcm9LLU9sWFFCMTdnMHI3cTEtc3dCWG1NS3oyVUUwZVF4R2U4eXdfbkxwMVlwWWhyRg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -2275,20 +2357,6 @@
         "time": "2026-09-04 15:00:00",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "張嘉郡立院推廣斗六文旦為農民拚通路 談登記坦言「很感動」 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPdXRUenJyVVdBNWRrUjhXSHdHX1dmTTc2d2FaOXZQMW9haG1wcTZOaEowbHRkMzdfVnlSc1RYR3l5MGJDWmpQZDNTQkFJdzVibTVWcTBzamM2VWRUeUpJSnhYNnpBelFUNmxwcDFwb2p1Y3JIMDEtQzVDUGJnT1RLRG9DblJSZjYzNDU5RUFLdVU1Y1NCUmo4ZnVPWlZqb2RRT1M4emtJQXZFbi1WeTctMENVLS1VVW5JN3VsRDY3bHdMUzR4RlVjRmJmQ05BV2JOQms0RWJtZHhSWmoweTRLVHZLUnRHS3puazdXbzZUem53eFRCVEg5OEZVNkdYWTExYWlCRm05Z3FGbkhBeHR2aFRTaGt0aGhZb3JCaExMcHdSLWJhMVVfUHRzeDBwa1F3aVBBdHVQcU16ZmhwUG95dkdqRV95X0c3YTBPVXlvTXpoN0tEbDRQd1RTb2xmZVZWZlhId09FTVp2a1BiSmdPQzNOYlFZUXo2Rks0Z1JTeDFYQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-04 15:00:00",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "張嘉郡立院推廣斗六文旦為農民拚通路 談登記坦言「很感動」 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByTV9yVmhVOGhsWWpFQ2ZROThwMHBnZDl2eWlJcFFOM19ZdTIya2E1UGFDNkJ5eHJrVmJfUGdSek96Vnd4ZzR4VE5kZk1BeXlKcGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-04 15:00:00",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2296,7 +2364,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 20
+        "count": 23
       },
       {
         "name": "斗六",
@@ -2306,7 +2374,7 @@
     "groups": [
       {
         "name": "農業族群",
-        "count": 9
+        "count": 10
       },
       {
         "name": "工地/營造",
