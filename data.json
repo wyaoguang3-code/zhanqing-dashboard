@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-05T05:21:13.289407+00:00",
+  "generated_at": "2026-09-05T05:36:58.172599+00:00",
   "metrics": {
-    "total_24h": 44,
+    "total_24h": 42,
     "prev_24h": 77,
-    "growth_pct": -42.86,
-    "news_24h": 39,
+    "growth_pct": -45.45,
+    "news_24h": 36,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 241,
-    "prev": 178,
-    "growth_pct": 35.39,
-    "news": 211,
+    "total": 243,
+    "prev": 175,
+    "growth_pct": 38.86,
+    "news": 212,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,25 +28,25 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 39
+      "count": 36
+    },
+    {
+      "platform": "facebook",
+      "count": 3
     },
     {
       "platform": "youtube",
       "count": 3
-    },
-    {
-      "platform": "facebook",
-      "count": 2
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 211
+      "count": 212
     },
     {
       "platform": "facebook",
-      "count": 22
+      "count": 23
     },
     {
       "platform": "youtube",
@@ -56,7 +56,7 @@
   "by_hour": [
     {
       "hour": "2026-09-04 13:00",
-      "count": 7
+      "count": 3
     },
     {
       "hour": "2026-09-04 14:00",
@@ -112,10 +112,14 @@
     },
     {
       "hour": "2026-09-05 06:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-09-05 08:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-09-05 12:00",
       "count": 1
     }
   ],
@@ -426,17 +430,21 @@
     },
     {
       "hour": "2026-09-05 06:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-09-05 08:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-09-05 12:00",
       "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 38
+      "count": 35
     },
     {
       "platform": "youtube",
@@ -453,6 +461,11 @@
         "title": "劉建國完成雲林縣長參選登記 高喊雲林大團結為改變而戰 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNNUJFX3lDaFJocHRzLXZlU0dKTjRrVmsxUVpick54ekhqM0Zvek1MNHJ4bkQwR21qR0IyRkpoVVIwaUJ0VGtBbWVfQWNCZmxjTGMtakRFU1ZtVEQwSUcxcXlMX2JHR0ZoRmMzTkJlUURNdlB3d19Jb3lzaVIxOU10NjV3X05NQzJTYzVVWi1jYWZsY2g0d0xkdlczeTdybUtHT0NQMFZQMDhzLWdRRmQyaGVOaHAweFMzYUl0LURVUlU0cHdDZ1pUbldrSVJNMVVhdlZKcTBCNElnVVJwRmJJcTFTNGN3X3FuekhVaXh5Vk4xSmxnNGt5eU5UWHZFT1p6dE1qdnFWdnNMQTczTVpyYk16RmdhaXo1OE92M2JTSExTZzFRVUh3MlFXTndUaC0tMGx3UEd1dU9xUTFQeDBhVkRDeFhCSnd1QU5uY1kza2xmdTJMUDhCR3FvVGpUVWJBS3RLWmxBU21jTkdqZ0owVk92cmpEcjFTaVZEcHYwQWU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-05 08:43:49"
+      },
+      {
+        "title": "雲林大團結就是要改變！立委劉建國登記參選縣長 喊出「94就是要選能力、要改變、拚勝選」！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiSGd0V3FoTkZkbmVydkp4UEJnbEg5bGpqMVR6cHkxRVNLZkU1WGFTRXFhaW9zNlk4ZlNSdGVQdURuTVpwNF9BSzFLb3lfNm5WbnVyQ1Z2cGRfLWpYQTEwSEN0MEFncWZQbjZhQjBQOEVkdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-05 06:57:56"
       },
       {
         "title": "參選人趕末班車…雲林劉建國喊「94要拚」 嘉義爆登記失敗 - Yahoo新聞",
@@ -618,26 +631,6 @@
         "title": "劉建國完成雲林縣長登記：雲林不屬於特定家族 | 中華日報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyY01XcGx6Zkw0QmFVeHcyOXo0RlVFVFo5a1Zqc2pMWWNaQnU0NUhMSkxhOXpDQzBlZHlUcDhfYVE4SVN5SXd1aGlNOUQxcGlmTTQtOEpR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-04 13:39:46"
-      },
-      {
-        "title": "替農民拼通路 張嘉郡推廣斗六文旦 籲全國民眾支持農民 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNSlpJeHlMQjd6N211OHpfSjJEMlFkSTRvYnNDN3VCbkJwWG9aajlRX2VRMWpoNjVKSDQ5T0NsWWlhMU05VnRNcklJYm9WQU9ZMFpnNEFxY09wOWYwd3FvaGJaSWpvajhwZG5BV0RjWFV0eGlpLTVxRUZURVUtUHQwOGRCbmhxMWVPc2tJMGU5QXJWdTFJOTRhX2gxQ0ZVbU80dVB5emVERG5raWlxb3FIN0VMNVNWNUp3bHBTUy12em9GaFlwdzdReWo0Tnc1czd5QWJSbUpCQzZTcWozTDBSOGM3UmFCLUFhUGpwOWJNM09kT2JuOTM0UzRJVll2VnU5VE5PWUlxVTB6UHRMWmZiQk5rRkpJX0xTeUU2VEVqUWEwUVJNLWxsZ0hrc19kMFpOZkdCN1J4c0k2NnRrQ2lGeU4wejVnN1JaQ2FqeXZoT2dLbk5Bdmg5d0s4cS04LVJna0NTYWVQTElINWhMZHJTVlp4TzUyZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-04 13:26:15"
-      },
-      {
-        "title": "傳賴清德接競總主委？劉建國登記參選直言：目前尚未討論到 - 中時新聞網",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OaVB4MF9TNHpRQThDRnZITnBkSkFRazR4M1hmT2dKQjdsU0xSb3NseU9QUGJ0LV9kSTJJaWZ0SWhrUzNPeFZDbkYyNXVtUEJmRFBQZUhmLWxOM05iZ1ZYYVVvR2RubjNVMWhTMHhB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-04 13:23:18"
-      },
-      {
-        "title": "雲林大團結就是要改變！劉建國9月4日登記 喊「94就是要選能力、改變、拚這次」 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOUnJzWEVkLVUyUnUtQXdQdXB5Y1Q1TEkxcUVvQVFxelFKZzktdGJTd2ZwZEdDS2ppWXhtRkc2MGRpbjBvb3MxSF8tU1NaUXlHUUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-04 13:22:33"
-      },
-      {
-        "title": "替農民拼通路 張嘉郡推廣斗六文旦 籲全國民眾支持農民 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWFZUFd5TGlveXZiSTFvOUw2alZrS0xNZkpvOXJ4ZF8yUnZkYU5acnFvUTQtM1lZVmdST3pBNWpyMlpJTHlyN1dKSW9SZnd0YmdDZjEzUDZfZWUwUUJ1Z3NLWVBhbDVxX2RxeEN0YmVSdVJZV1BnTWZ0RXY5dTVfbVpuejY2MnVsRVJ3Rg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-04 13:22:06"
       }
     ],
     "facebook": [
@@ -673,7 +666,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 38
+      "count": 35
     },
     {
       "platform": "youtube",
@@ -690,6 +683,11 @@
         "title": "劉建國完成雲林縣長參選登記 高喊雲林大團結為改變而戰 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNNUJFX3lDaFJocHRzLXZlU0dKTjRrVmsxUVpick54ekhqM0Zvek1MNHJ4bkQwR21qR0IyRkpoVVIwaUJ0VGtBbWVfQWNCZmxjTGMtakRFU1ZtVEQwSUcxcXlMX2JHR0ZoRmMzTkJlUURNdlB3d19Jb3lzaVIxOU10NjV3X05NQzJTYzVVWi1jYWZsY2g0d0xkdlczeTdybUtHT0NQMFZQMDhzLWdRRmQyaGVOaHAweFMzYUl0LURVUlU0cHdDZ1pUbldrSVJNMVVhdlZKcTBCNElnVVJwRmJJcTFTNGN3X3FuekhVaXh5Vk4xSmxnNGt5eU5UWHZFT1p6dE1qdnFWdnNMQTczTVpyYk16RmdhaXo1OE92M2JTSExTZzFRVUh3MlFXTndUaC0tMGx3UEd1dU9xUTFQeDBhVkRDeFhCSnd1QU5uY1kza2xmdTJMUDhCR3FvVGpUVWJBS3RLWmxBU21jTkdqZ0owVk92cmpEcjFTaVZEcHYwQWU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-05 08:43:49"
+      },
+      {
+        "title": "雲林大團結就是要改變！立委劉建國登記參選縣長 喊出「94就是要選能力、要改變、拚勝選」！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiSGd0V3FoTkZkbmVydkp4UEJnbEg5bGpqMVR6cHkxRVNLZkU1WGFTRXFhaW9zNlk4ZlNSdGVQdURuTVpwNF9BSzFLb3lfNm5WbnVyQ1Z2cGRfLWpYQTEwSEN0MEFncWZQbjZhQjBQOEVkdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-05 06:57:56"
       },
       {
         "title": "參選人趕末班車…雲林劉建國喊「94要拚」 嘉義爆登記失敗 - Yahoo新聞",
@@ -855,26 +853,6 @@
         "title": "劉建國完成雲林縣長登記：雲林不屬於特定家族 | 中華日報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyY01XcGx6Zkw0QmFVeHcyOXo0RlVFVFo5a1Zqc2pMWWNaQnU0NUhMSkxhOXpDQzBlZHlUcDhfYVE4SVN5SXd1aGlNOUQxcGlmTTQtOEpR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-04 13:39:46"
-      },
-      {
-        "title": "替農民拼通路 張嘉郡推廣斗六文旦 籲全國民眾支持農民 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNSlpJeHlMQjd6N211OHpfSjJEMlFkSTRvYnNDN3VCbkJwWG9aajlRX2VRMWpoNjVKSDQ5T0NsWWlhMU05VnRNcklJYm9WQU9ZMFpnNEFxY09wOWYwd3FvaGJaSWpvajhwZG5BV0RjWFV0eGlpLTVxRUZURVUtUHQwOGRCbmhxMWVPc2tJMGU5QXJWdTFJOTRhX2gxQ0ZVbU80dVB5emVERG5raWlxb3FIN0VMNVNWNUp3bHBTUy12em9GaFlwdzdReWo0Tnc1czd5QWJSbUpCQzZTcWozTDBSOGM3UmFCLUFhUGpwOWJNM09kT2JuOTM0UzRJVll2VnU5VE5PWUlxVTB6UHRMWmZiQk5rRkpJX0xTeUU2VEVqUWEwUVJNLWxsZ0hrc19kMFpOZkdCN1J4c0k2NnRrQ2lGeU4wejVnN1JaQ2FqeXZoT2dLbk5Bdmg5d0s4cS04LVJna0NTYWVQTElINWhMZHJTVlp4TzUyZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-04 13:26:15"
-      },
-      {
-        "title": "傳賴清德接競總主委？劉建國登記參選直言：目前尚未討論到 - 中時新聞網",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OaVB4MF9TNHpRQThDRnZITnBkSkFRazR4M1hmT2dKQjdsU0xSb3NseU9QUGJ0LV9kSTJJaWZ0SWhrUzNPeFZDbkYyNXVtUEJmRFBQZUhmLWxOM05iZ1ZYYVVvR2RubjNVMWhTMHhB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-04 13:23:18"
-      },
-      {
-        "title": "雲林大團結就是要改變！劉建國9月4日登記 喊「94就是要選能力、改變、拚這次」 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOUnJzWEVkLVUyUnUtQXdQdXB5Y1Q1TEkxcUVvQVFxelFKZzktdGJTd2ZwZEdDS2ppWXhtRkc2MGRpbjBvb3MxSF8tU1NaUXlHUUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-04 13:22:33"
-      },
-      {
-        "title": "替農民拼通路 張嘉郡推廣斗六文旦 籲全國民眾支持農民 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWFZUFd5TGlveXZiSTFvOUw2alZrS0xNZkpvOXJ4ZF8yUnZkYU5acnFvUTQtM1lZVmdST3pBNWpyMlpJTHlyN1dKSW9SZnd0YmdDZjEzUDZfZWUwUUJ1Z3NLWVBhbDVxX2RxeEN0YmVSdVJZV1BnTWZ0RXY5dTVfbVpuejY2MnVsRVJ3Rg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-04 13:22:06"
       }
     ],
     "facebook": [
@@ -908,18 +886,23 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 20,
-    "劉建國": 31
+    "張嘉郡": 18,
+    "劉建國": 30
   },
   "mention_compare_7d": {
     "張嘉郡": 130,
-    "劉建國": 108
+    "劉建國": 109
   },
   "top_news": [
     {
       "title": "劉建國完成雲林縣長參選登記 高喊雲林大團結為改變而戰 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNNUJFX3lDaFJocHRzLXZlU0dKTjRrVmsxUVpick54ekhqM0Zvek1MNHJ4bkQwR21qR0IyRkpoVVIwaUJ0VGtBbWVfQWNCZmxjTGMtakRFU1ZtVEQwSUcxcXlMX2JHR0ZoRmMzTkJlUURNdlB3d19Jb3lzaVIxOU10NjV3X05NQzJTYzVVWi1jYWZsY2g0d0xkdlczeTdybUtHT0NQMFZQMDhzLWdRRmQyaGVOaHAweFMzYUl0LURVUlU0cHdDZ1pUbldrSVJNMVVhdlZKcTBCNElnVVJwRmJJcTFTNGN3X3FuekhVaXh5Vk4xSmxnNGt5eU5UWHZFT1p6dE1qdnFWdnNMQTczTVpyYk16RmdhaXo1OE92M2JTSExTZzFRVUh3MlFXTndUaC0tMGx3UEd1dU9xUTFQeDBhVkRDeFhCSnd1QU5uY1kza2xmdTJMUDhCR3FvVGpUVWJBS3RLWmxBU21jTkdqZ0owVk92cmpEcjFTaVZEcHYwQWU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-05 08:43:49"
+    },
+    {
+      "title": "雲林大團結就是要改變！立委劉建國登記參選縣長 喊出「94就是要選能力、要改變、拚勝選」！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiSGd0V3FoTkZkbmVydkp4UEJnbEg5bGpqMVR6cHkxRVNLZkU1WGFTRXFhaW9zNlk4ZlNSdGVQdURuTVpwNF9BSzFLb3lfNm5WbnVyQ1Z2cGRfLWpYQTEwSEN0MEFncWZQbjZhQjBQOEVkdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-05 06:57:56"
     },
     {
       "title": "參選人趕末班車…雲林劉建國喊「94要拚」 嘉義爆登記失敗 - Yahoo新聞",
@@ -970,11 +953,6 @@
       "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - tw.news.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxOTEJGRmo2bWF6TGVCeXdxVFZybjVOZGdXY0pYblp3T0xnT1BBbGQ2Mlh0SjlzQzFZUGp0ZmFiZFdlY2hmYTg0N0RXMG9LcVVkWEszazVRbUN6bGd5WldjSnJMcU1BN01KcHlWaFEtWGpBQmtfdXFTOXlSaDRHVUxpaTg1M1JxVjhMb2FYcGlGZUNVLS12Y3I1VEpQYkR0ZFROTmc3dWp3VDM1MF9Fa0dCUkpHN2I3aHRKQ3drOU1UTjZ6MW9xMENKZldkMlJONVJ0T1JCbUptMDFoWl9zRW9IRXREUDdMcEEtUXI1QjlLckVPU1VycUlIS185ZWl2a2tCU3hkXzVMazJySFgyNnJ6SVJzQkM5OUxZVUtMS3JwbUNHN1VuZWtoUGVBYzNsdWlWcmNGRkwtaWNaZXR5VEhNb0ZUSHh4ZmlsamNBSXRZekJ4alFLREJHemVkTk1NdW5FSHppRjlvaTlhOG1ockhTdXlod0RFOUpaMkZzdXVKQUNwdy1xbC1FWXV6c2toNDlaRC1KM1Vqd25QNF83ZlRLcjRLU0treFlqV3BNNg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-04 21:46:32"
-    },
-    {
-      "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa0MzWVpneDB4dWNzZnVDSzBmcGJQaW1sb3BLOWt4Zm1PZVBCbzRjSXNNRUNUczNwaGxQZ0ZweXd5dE5nMlRWRXBHTUgyaEZLQ3QxNDhnQkRCN1N5Y1Z3dk5zWExodnVrdDFyRTc5WXNPR3FYNzE5QlZHRzdqUE9naWFLZFpZRXZnYnVhbg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-04 21:46:32"
     }
   ],
   "top_news_7d": [
@@ -982,6 +960,11 @@
       "title": "劉建國完成雲林縣長參選登記 高喊雲林大團結為改變而戰 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNNUJFX3lDaFJocHRzLXZlU0dKTjRrVmsxUVpick54ekhqM0Zvek1MNHJ4bkQwR21qR0IyRkpoVVIwaUJ0VGtBbWVfQWNCZmxjTGMtakRFU1ZtVEQwSUcxcXlMX2JHR0ZoRmMzTkJlUURNdlB3d19Jb3lzaVIxOU10NjV3X05NQzJTYzVVWi1jYWZsY2g0d0xkdlczeTdybUtHT0NQMFZQMDhzLWdRRmQyaGVOaHAweFMzYUl0LURVUlU0cHdDZ1pUbldrSVJNMVVhdlZKcTBCNElnVVJwRmJJcTFTNGN3X3FuekhVaXh5Vk4xSmxnNGt5eU5UWHZFT1p6dE1qdnFWdnNMQTczTVpyYk16RmdhaXo1OE92M2JTSExTZzFRVUh3MlFXTndUaC0tMGx3UEd1dU9xUTFQeDBhVkRDeFhCSnd1QU5uY1kza2xmdTJMUDhCR3FvVGpUVWJBS3RLWmxBU21jTkdqZ0owVk92cmpEcjFTaVZEcHYwQWU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-05 08:43:49"
+    },
+    {
+      "title": "雲林大團結就是要改變！立委劉建國登記參選縣長 喊出「94就是要選能力、要改變、拚勝選」！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiSGd0V3FoTkZkbmVydkp4UEJnbEg5bGpqMVR6cHkxRVNLZkU1WGFTRXFhaW9zNlk4ZlNSdGVQdURuTVpwNF9BSzFLb3lfNm5WbnVyQ1Z2cGRfLWpYQTEwSEN0MEFncWZQbjZhQjBQOEVkdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-05 06:57:56"
     },
     {
       "title": "參選人趕末班車…雲林劉建國喊「94要拚」 嘉義爆登記失敗 - Yahoo新聞",
@@ -1072,14 +1055,14 @@
       "title": "替農民拼通路！張嘉郡推廣斗六文旦 籲以行動支持台灣農業 - tw.news.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPX0lKVWZTaVk5WEVqNXd3d0dSRzRJZThzVzJPQnZ3bXZjS1FhOVRIZ2ZxNGhRWGpRRkcxY2txb2N5cXc5Z1BNZUVtV1lCMXEyUXI3RFZnU09Majl1TVNjaGdvRC1rWngxakFEc3FBa1pFMWxnRzFEcnRSdWJBYTRRRnQ2dnRiODlnSDNTSkk3YzRDckc5VWR1TGlySzVqbGhFTy1QNFo2dUQxRF8wOFEyTExJZjYzc1RyOThDaUJrY1VzTWxjUVlsU0FaR2dWY0s1LVRsVHJyS2JmVDFkWVBXRlJyMFJ5VWJfeXhJTVktSW8xdkRvYXFGMVFKN2llTXVzcWlET1hYSjlSY0hGX0xrUkc2bzhmREVEcFY5Q3BBRzBwamcwX0REWnIxQXo0akt2aEhLUGpJUTFheWNrOXBVSEVpY3RGbm9fS0RYQ0puT3BaX1JYSXpQWmlUYUZqajdhWG5FTGlaTjU4Q1ZrT0VUODRsN0pseENaYmdjVmdBandQUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-04 17:44:27"
-    },
-    {
-      "title": "替農民拼通路！張嘉郡推廣斗六文旦 籲以行動支持台灣農業 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd1BqN0lMV3JVcUJnZVFGUjhPQkhfdDgyZDc4d1pQeHMxNmNlREJhcEdVU2ZhdzQxUXFvNjdsNXM3aUFhWWd1bkgtVkhVTDliOHdNSlZUalJVRHhQckczeUtIN2JKSHBFNU5YdHJwZ2RfQ1phSlI4LUlJZkEtcVppbW5zYTlyN0VCWlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-04 17:44:27"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "☔️ 風雨生信心！全民國防自強大會！ 今天「中華民國後備憲兵 115 年度全民國防全國自強大會」在雲林盛大登場，來自全國 22 個縣市的後憲弟兄、眷屬齊聚一堂，場面熱血、聲勢驚人！🔥 活動展開，陰涼的天氣，讓大家有個舒爽的開始，但旋即老天爺就給大家出了考題 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMixAdBVV95cUxPWC1RS0RvMlJnZFQxVUNTYlducmJXbXU4Q1p3UjVVRUt4STh5RXhVS1hzbGJCWFhoVXgyMXZ2RmFlR1VLd0NkUXpMbHFTSm9heXVIVHZVSUJzbGVCODFaa3dGVzV5MXd4UjBQSktsdnFycEdsM3lBSnI2Snk3dUtfbHh6UjlTRWRjTkhJdlFyWllIVG9OVXN3ZWduMXlaNU9hWk9vNlF5ME1fdlBBN09wNUNTbW5Idm50di1xbi1ST3M1VUMxTlpvZ2YxeVQzbUlEV05OazRKNDdfcHkzQ0VVaHVsZ1hCREhkMVdWZlhMSTVXdFJCVE1MYlJ6VnIxR2JGcWRteEg0VWd1SHJSMEx0ZFdEcTJSSmJuSkkxUXR4TGZJQW5WRE1tMFJtSW9jS2l3cGQ1OFppa3FSbXFsTk9yWDJnTURRZkVpdTU3QWVrZUdXSGgwZlc0TnF6Y3QtUGNjUU1EdkQtSldHa2VkWjB5RGxkZTQxbFd2S1BPa1RjTjQzWmRCVlJzNklrTU0yalU2c0F6TFZSXzljc2U4ekVLal9aMHNJcnlDZE4xNnNFV0V2Zkk1Sm5TOEpZY0ZVYlpRYVM3aG1GTnhNS1V0SllTWFc4OGZ0RWFHSTRCZVpxenFkcV9uY21yQWhMVE13TTRldlN4aVkwX2RIamsxdGVVVlg3Y2VKa3VlOS01SHFDemR0TDZjUHRZXzlqNW5NWjJRbnUzSF9Gc1FZUWdxRUZwdFVjS3BzZUZkS0xScGF4SWp4TEFXZGJJM25CcXMtUzdxSGpVQlppWlBBWGEtUUJENTZNUGttU1lFekIyWm1FLVhYdXdnY20zanNPaXdlSXhQZzIxcm9KWDRhb0tTS2xmQm45ZGVjRExBa1JnZFFqVHZiT3Jnc0RIVXM5S1VQUGFOdmlBYnNoaFRXN284MVUwcjB2NmFGd3RHUTZTay1oZDFKWFBtM2dITEc4Zkh6U29YcVNNQjlLOWh2MkkyWnZCei1ab3pRYTBGNFpGWGdCaE5oWHJXa2NkYWU3VDZETXUwUGN1ZzlMREt0S3BvLUM4MjNuLXhyTHd2clNjMXhIcjU0ZEVsVDhMbmpHRHFpeVlsTVlvWVc0b2paeS1nOWNVZWYxclpHV3lpMGhkb3FBbU9vb3lsWXJkMzBkMnZGX053d0phbTFoNURreE4yVXJ5T1l4MVNmMXJRbmJMN3FCZmxULVdmQjJ5WlVjTGowem9SMFFuLWRaOGYwUkZzN3R3TXFLVGM2Q0NtQ3ZWLVE1NDlhQUsx",
+      "time": "2026-09-05 12:13:25"
+    },
     {
       "title": "民進黨籍雲林縣長參選人劉建國，於9/4在黨公職人員以及上百名支持者的陪同之下前往雲林縣選委會完成登記。 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMimwVBVV95cUxQdlRIMVV1eHBqeEc5TUFwNnZxUS1iMm9CMG5rdDVNNTZFMmo2ZFRpc1lzWWx4MVBwVTNiUFlDT2JwNkM5S1RfUTNQSG5sak9zWE9CM2U2aGdXZG1vNlhMMkJzZk0tVzR6dnphbGYwSnc0Tng5NkdGZU9jRGVlWWxTQVRJQTZSSWZRZ3QzVUl3VFV5T2NGeFMyRnNvUVdtSFRablh4X0xzVkN6dEJ1WEM3NElrMXVjd0FrMFNQYzdRbUpqSFlNV21OdWdEZ1VOS1d4Z1ZYNE53N3gzNWxnYzFia0pNWWVYX0xMVTlXRUJjbExHd0t3ZGVfUUhwNXdGSTZ0ODFpcDd1dzJyQ1AzcEJnUUxRWTVlTGVuQndhU3p0Y1ZVb1o0YVBWcjlyRFRGM3pTUTRwLWVYa0JPdjBhX19ZSGplTDV6YW9fVWQtVXkxR05udjg5bWFiNnFRLUFwS3NOb18wM0tHaHlvd3dlZnU0WHVDYVozVHZDVlNjQUxBWElCYWVJNGNuUWNEdm9rYjRHYlBHYXh2REd2V21lbWE2YUN6dG0yMTV6QlBxZ1RQUjBzRXJqLVZmazE1d0FLcVVjUkExVk5qX1dKaDNEd0lwVE1OWFhoSXBWblY0TlJKMGdfWlItNFptNE12QzZEN3Q1MzVlelVEOHQ5WDdEeDVrZnVWeWZNNGkxUV93Y0Z5X2NEYTlENVBtRG95R1U0TTFsNUVhNTdsUmxwOHlDaUcyeVBwXzlzYmdDLWlkNmQ5eDBhWUR2Q3luMm9vY1ZISC1SZTBjZzlHb096T2ZWaFFBOUtnYTlDYWIzLWRGdV84UzRBZlAzZFQzWXBmT2E3TDZRS2ZtZXpwOHU1VF92NVV2X0ZxUFVyOXU0N2Vv",
@@ -1174,11 +1157,6 @@
       "title": "🏃 動起來就有券！運動部「揮汗有禮・全民動起來」明天開跑！ 9/1（二）10:00 至 11/30（一）24:00，只要完成運動任務、上傳紀錄，審核通過就能領加碼券，總計 200 萬份，額滿為止！ 誰可以參加 年滿 16 歲（民國 98/12/31 前出生）、具中華民國國籍並在國內設有戶籍者。 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMixAZBVV95cUxPeTlMNVNoRUdsXzZvZjFNaEtMNzQ5TDZ2M1I4R2ZOeFlmOGhMaDlPV1lza2JtTW5EX1I1SUZabmpsd1J2VEg4MEJWQmN0RlBPV1pqWHhfVWxQWnlsYXZpRElnbjBTbkJ2VXRwS3dBbTBWVk9XZE4tNG9QekRRZjRFWGRyVlR2cXVxQ3FIQWZrRm1WMmVMeVdLYmNnZVNLcWQwNENEbzM1OVRiSW1jQzI3N29RQXdTOXJReDNjWmtycGxqaXJwY24yb0lwT2RLeHNLVHZfMGg4WXk1Qm0wOEU3c001ZTRYWnVjQzc4dHhSTVN5czNaVUgzNTJNbTh3ZXEwNHNWNkM2SjVXTHE3eW1qQmVPY3dZYWFFWUtGM1ZyaV94UVo0V0VIRndlOUoyOFhKRm1rR25La3AwU0dQd1hLckJHVlNLNzlHOXRMZ2lnVXNMcmJPcDY2eFBRMXFBOHEzNVBmbGVtWE9hakIwNEREZUJSWXhxNG5kc0JBRzE1VTVRbVQ5N2hZT2l6Y18yVlI3UFd0UEFGOWROVEQ3NkRURDhVczdiMEdxRTZYNjJkc1pUME9MQmV2LWd6blF4OFR6TUhCemExTTdobmFYRTc0cFNyWnNqbUtUTW52TkV2OEdJbnVLQ3V3NXFaVDdjME9RX3l1c2xVVmFZOGZSY09tb25FUFpmTVVnSm5uNW5tOFVLekRqamQ2Z0NnYW5tbnl0clBhSk83ME1DSWlMbWdfZ3J6di10Tzl1SS11dzhCUFg5Z1k5RzEwdkNsVkYzNjNhUDh1NTJNZ2FfZmp6ZFB6Y0xaaUpwT3pFRGtHUzBFaWROdXFxQk1NTXFJLVNrOTdaU0F2b1lhR0kxdEV1XzRVZ2JzVndsLUdWX3dFcjFjNTA5OUVTWmRaMnFTZ0pUNUpMaUE5akplbXlzMVdGQkJhNHdNMDZKdmZNSzhYOGNsbWl0NGprNEg5WkRFa2YtQ2VUUEM1QWF6SFkzUlNvTmZadkYzaGtoeFhYekJzcEJWaEpXVWltM2xjWHh4dFFFSkJIRXRXcTljYjZVNS1XbXJseHlEXzg5ZVJKdlpZcGhHdC1tS1Z1c013WjA4a1E5MFVKY1Awcw",
       "time": "2026-08-31 18:15:44"
-    },
-    {
-      "title": "藍白爛委排行－最長會期十大可恥行為！ ​ 今天是8月31日，也是表定「立法院延會」的最後一天。這個漫長的會期，#國民黨、#民眾黨 立委留下的，是一樁又一樁令人不齒的醜態。以下公布藍白立委本會期惡形惡狀的排行榜： ​ 😡 第10名：民眾黨 #陳清龍 干預司法 ​ 只 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi-wdBVV95cUxQZ2oxb2Zjbkx1RUYzZW1Jemp5Q3BrclFWZE9VTU80OWx1Zlo4NDRLSVF2WTVHLXRKU25qdlRBT1pLcE5Ed2tqZ1czQkdGNE1nN2dsRHdfRTJIUURLVFVsRlZJQW5YUm1jRm91czhSRjVnWjQ2WGRoNFI3eEJEV2lwbHNvbGdiTkpuX2p3Nkw4eWstNEdyNkluTzd0dm1jMGVGdHVUREJ5SkxXbnF6c1pUdEgtUmQ3TkRXaW96TVFxbDhNYjRfSXBqdlpMN1A2SUhhRTlXQWhJREtZWXBTNkdtVkZSMnhVS3ktNWZYMTNzbk5nam5fQjBfYS03d2ZkbEx0RlhuNkRBSUZoVVhoX01KcGlnOWJ6WXFwWGZwcGRqWi1uSks4ak44dGVieTkwVThJcU1DekxoVlhSUGZRT1pRaDM1cC1sLU5vcjJpTW1jeXJidkxtbXVna1ZfMk9TeEhrcElESGtlcnc2aVAwcmdzMTJXZDVEZy0zSmRYdUdnNmtzRlFkWXF0YnBPdm0wUWhaNFR2eEpFemtYZUp6TXQ3SkszWWNDaGQtek11S2puRk5rV0RhWVd2dzZibnpjdWJHUXV3WEJQY2d2NmpHZnYtdDRKYVRQYmh4VjlQM05TdE1rbUNFNk1xR0tZQW5KYzJZNDZzQUVKTTU4LUhFQm14X0p2OUN5YXByejRlS3NianM5Q3R0QkZGQWdzcmRfMVh4R0FxUkRCUUFnOVpuRTh2VlFRRHFfYTBtUlczcGNvak5EUWhnWEljV3o1bTFsX3lyZks0QUVnOUlsOEhmSXFpOGlSZEJSV2JNNlQ2d1g4UUNUTTVMdEN6bV9uSUZRUmI5LUZDNXNFaU5xSngwUlI0cl92UnhDVjhjdm80dEplQkZRTWphTlR1cnNnb2NyN3JNd3NMZ0lUbGJiek12R1QxNE14ZEZPeVI1TlVFbHB2bFF6SXlTbVYtUWc0V1R3SnNacU43Y055UUwwZm5ZcnB3LTdEMWNzRlJ5QUFUQXRBR1lZLWN6UGtVaDBjSUI2WUJpeWY3ZkUwbmtyVFduNHZhU2o1cnVjT2NOWFJlcjQtR05KTHlpZkhvUzlyMmo3UnBVeTVFUDBibnpsU05XNEN3R1REaWRoNHJwMjZCd202MDczU09Oa1lFRXlZUFZ5Z3hlVTJNaGpJdERtdjlXaFh4TVVJWno5dlFtbnk4RzFTZ3E0V19VcGxiMWdqdDExa1dDMVRMcmt0TmhROWg0eWJ0b0JkaVBiWkl5VkJrSkdyOG5ONUhXN1k2YTZfa18xY2tMcTBKY2JmdDBLUGNxS2RvRlB5dGItcDZqd3dRR2pURWFjQVNVMmc0V09VTQ",
-      "time": "2026-08-31 12:45:50"
     }
   ],
   "latest_news_20": [
@@ -1186,6 +1164,11 @@
       "title": "劉建國完成雲林縣長參選登記 高喊雲林大團結為改變而戰 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNNUJFX3lDaFJocHRzLXZlU0dKTjRrVmsxUVpick54ekhqM0Zvek1MNHJ4bkQwR21qR0IyRkpoVVIwaUJ0VGtBbWVfQWNCZmxjTGMtakRFU1ZtVEQwSUcxcXlMX2JHR0ZoRmMzTkJlUURNdlB3d19Jb3lzaVIxOU10NjV3X05NQzJTYzVVWi1jYWZsY2g0d0xkdlczeTdybUtHT0NQMFZQMDhzLWdRRmQyaGVOaHAweFMzYUl0LURVUlU0cHdDZ1pUbldrSVJNMVVhdlZKcTBCNElnVVJwRmJJcTFTNGN3X3FuekhVaXh5Vk4xSmxnNGt5eU5UWHZFT1p6dE1qdnFWdnNMQTczTVpyYk16RmdhaXo1OE92M2JTSExTZzFRVUh3MlFXTndUaC0tMGx3UEd1dU9xUTFQeDBhVkRDeFhCSnd1QU5uY1kza2xmdTJMUDhCR3FvVGpUVWJBS3RLWmxBU21jTkdqZ0owVk92cmpEcjFTaVZEcHYwQWU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-05 08:43:49"
+    },
+    {
+      "title": "雲林大團結就是要改變！立委劉建國登記參選縣長 喊出「94就是要選能力、要改變、拚勝選」！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiSGd0V3FoTkZkbmVydkp4UEJnbEg5bGpqMVR6cHkxRVNLZkU1WGFTRXFhaW9zNlk4ZlNSdGVQdURuTVpwNF9BSzFLb3lfNm5WbnVyQ1Z2cGRfLWpYQTEwSEN0MEFncWZQbjZhQjBQOEVkdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-05 06:57:56"
     },
     {
       "title": "參選人趕末班車…雲林劉建國喊「94要拚」 嘉義爆登記失敗 - Yahoo新聞",
@@ -1275,11 +1258,6 @@
     {
       "title": "替農民拼通路！張嘉郡推廣斗六文旦 籲以行動支持台灣農業 - tw.news.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPX0lKVWZTaVk5WEVqNXd3d0dSRzRJZThzVzJPQnZ3bXZjS1FhOVRIZ2ZxNGhRWGpRRkcxY2txb2N5cXc5Z1BNZUVtV1lCMXEyUXI3RFZnU09Majl1TVNjaGdvRC1rWngxakFEc3FBa1pFMWxnRzFEcnRSdWJBYTRRRnQ2dnRiODlnSDNTSkk3YzRDckc5VWR1TGlySzVqbGhFTy1QNFo2dUQxRF8wOFEyTExJZjYzc1RyOThDaUJrY1VzTWxjUVlsU0FaR2dWY0s1LVRsVHJyS2JmVDFkWVBXRlJyMFJ5VWJfeXhJTVktSW8xdkRvYXFGMVFKN2llTXVzcWlET1hYSjlSY0hGX0xrUkc2bzhmREVEcFY5Q3BBRzBwamcwX0REWnIxQXo0akt2aEhLUGpJUTFheWNrOXBVSEVpY3RGbm9fS0RYQ0puT3BaX1JYSXpQWmlUYUZqajdhWG5FTGlaTjU4Q1ZrT0VUODRsN0pseENaYmdjVmdBandQUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-04 17:44:27"
-    },
-    {
-      "title": "替農民拼通路！張嘉郡推廣斗六文旦 籲以行動支持台灣農業 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd1BqN0lMV3JVcUJnZVFGUjhPQkhfdDgyZDc4d1pQeHMxNmNlREJhcEdVU2ZhdzQxUXFvNjdsNXM3aUFhWWd1bkgtVkhVTDliOHdNSlZUalJVRHhQckczeUtIN2JKSHBFNU5YdHJwZ2RfQ1phSlI4LUlJZkEtcVppbW5zYTlyN0VCWlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-04 17:44:27"
     }
   ],
@@ -1600,6 +1578,11 @@
           "time": "2026-09-05 08:43:49"
         },
         {
+          "title": "雲林大團結就是要改變！立委劉建國登記參選縣長 喊出「94就是要選能力、要改變、拚勝選」！ - 台灣華報",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiSGd0V3FoTkZkbmVydkp4UEJnbEg5bGpqMVR6cHkxRVNLZkU1WGFTRXFhaW9zNlk4ZlNSdGVQdURuTVpwNF9BSzFLb3lfNm5WbnVyQ1Z2cGRfLWpYQTEwSEN0MEFncWZQbjZhQjBQOEVkdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-05 06:57:56"
+        },
+        {
           "title": "參選人趕末班車…雲林劉建國喊「94要拚」 嘉義爆登記失敗 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOdlJVMDhialpGX3FCR3d5VEo0bl9VMEV0T3lOVEkyR1gzSFd4M2lEVzR0eFdFNjctdTdiTjBDMmp3SlBMNlBienZ6RjBHYnRHNUxjaWZIRVE3TlgyTXlsWnhTS1JKSThLTXFKZ1N4ZnBzMnRjbjhfbk9BeDRuOEJvUHgwckRkc2FGektlS1ZrWEdjYkNxMjk0bUVuc3BPd1RqRk5hM1pFcE96RDFLMmh2VmpWYmhCbDBzU0hweFl6X3FfN2FDbFBOZGRDV01QOW13a3BWQTQ1X05taE5rMkpWLTJVUl9rYVp6YW52UjNLWVBKd0RreHpwVHdQX2xEekRacWsxX3kyLVdCMzNtMXJNTzNkeHNrRDdLM2lYOFNJWnhjRC01ZFRVZVNUN3FWc29KbGlwbWR3aERrcXF1NHA3SXVqallwdmtCaTZCYkN6TDM0N2Q0X3RTbjVrdDFwVEFBUWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-05 06:09:14"
@@ -1688,11 +1671,6 @@
           "title": "劉建國4日完成登記參選雲林縣長 喊話雲林大團結拚這次迎接改變 - 觀傳媒",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IeTlCNVJLeU1qajVWdmJ3T3U0dXNfRUpNVkd1czBKUm1aaDBHLVRYQXp1SmhZcWdhVzhISFZqdnBGTjdhSEZ5QWJlRUZzNlFodE1Zb25mSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-04 16:15:23"
-        },
-        {
-          "title": "劉建國致詞28分鐘 記者熱到器材當機 - 中國評論新聞",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBZFpoZ1lFZG5MdXI3amgta19oUVJSeHNUYXBZczBfOFMxUjJ0TmdDb1I4a3JXUlhFTTdkaE8xVWFVVG5BcEZ1SXo2d0xDYUZKTE56OVNzS3ZSUTdVc3ZjWUhia25MdUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-04 15:25:34"
         }
       ]
     }
@@ -1703,6 +1681,11 @@
         "title": "劉建國完成雲林縣長參選登記 高喊雲林大團結為改變而戰 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNNUJFX3lDaFJocHRzLXZlU0dKTjRrVmsxUVpick54ekhqM0Zvek1MNHJ4bkQwR21qR0IyRkpoVVIwaUJ0VGtBbWVfQWNCZmxjTGMtakRFU1ZtVEQwSUcxcXlMX2JHR0ZoRmMzTkJlUURNdlB3d19Jb3lzaVIxOU10NjV3X05NQzJTYzVVWi1jYWZsY2g0d0xkdlczeTdybUtHT0NQMFZQMDhzLWdRRmQyaGVOaHAweFMzYUl0LURVUlU0cHdDZ1pUbldrSVJNMVVhdlZKcTBCNElnVVJwRmJJcTFTNGN3X3FuekhVaXh5Vk4xSmxnNGt5eU5UWHZFT1p6dE1qdnFWdnNMQTczTVpyYk16RmdhaXo1OE92M2JTSExTZzFRVUh3MlFXTndUaC0tMGx3UEd1dU9xUTFQeDBhVkRDeFhCSnd1QU5uY1kza2xmdTJMUDhCR3FvVGpUVWJBS3RLWmxBU21jTkdqZ0owVk92cmpEcjFTaVZEcHYwQWU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-05 08:43:49"
+      },
+      {
+        "title": "雲林大團結就是要改變！立委劉建國登記參選縣長 喊出「94就是要選能力、要改變、拚勝選」！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiSGd0V3FoTkZkbmVydkp4UEJnbEg5bGpqMVR6cHkxRVNLZkU1WGFTRXFhaW9zNlk4ZlNSdGVQdURuTVpwNF9BSzFLb3lfNm5WbnVyQ1Z2cGRfLWpYQTEwSEN0MEFncWZQbjZhQjBQOEVkdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-05 06:57:56"
       },
       {
         "title": "參選人趕末班車…雲林劉建國喊「94要拚」 嘉義爆登記失敗 - Yahoo新聞",
@@ -1873,26 +1856,23 @@
         "title": "劉建國完成雲林縣長登記：雲林不屬於特定家族 | 中華日報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyY01XcGx6Zkw0QmFVeHcyOXo0RlVFVFo5a1Zqc2pMWWNaQnU0NUhMSkxhOXpDQzBlZHlUcDhfYVE4SVN5SXd1aGlNOUQxcGlmTTQtOEpR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-04 13:39:46"
+      }
+    ],
+    "facebook": [
+      {
+        "title": "☔️ 風雨生信心！全民國防自強大會！ 今天「中華民國後備憲兵 115 年度全民國防全國自強大會」在雲林盛大登場，來自全國 22 個縣市的後憲弟兄、眷屬齊聚一堂，場面熱血、聲勢驚人！🔥 活動展開，陰涼的天氣，讓大家有個舒爽的開始，但旋即老天爺就給大家出了考題 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMixAdBVV95cUxPWC1RS0RvMlJnZFQxVUNTYlducmJXbXU4Q1p3UjVVRUt4STh5RXhVS1hzbGJCWFhoVXgyMXZ2RmFlR1VLd0NkUXpMbHFTSm9heXVIVHZVSUJzbGVCODFaa3dGVzV5MXd4UjBQSktsdnFycEdsM3lBSnI2Snk3dUtfbHh6UjlTRWRjTkhJdlFyWllIVG9OVXN3ZWduMXlaNU9hWk9vNlF5ME1fdlBBN09wNUNTbW5Idm50di1xbi1ST3M1VUMxTlpvZ2YxeVQzbUlEV05OazRKNDdfcHkzQ0VVaHVsZ1hCREhkMVdWZlhMSTVXdFJCVE1MYlJ6VnIxR2JGcWRteEg0VWd1SHJSMEx0ZFdEcTJSSmJuSkkxUXR4TGZJQW5WRE1tMFJtSW9jS2l3cGQ1OFppa3FSbXFsTk9yWDJnTURRZkVpdTU3QWVrZUdXSGgwZlc0TnF6Y3QtUGNjUU1EdkQtSldHa2VkWjB5RGxkZTQxbFd2S1BPa1RjTjQzWmRCVlJzNklrTU0yalU2c0F6TFZSXzljc2U4ekVLal9aMHNJcnlDZE4xNnNFV0V2Zkk1Sm5TOEpZY0ZVYlpRYVM3aG1GTnhNS1V0SllTWFc4OGZ0RWFHSTRCZVpxenFkcV9uY21yQWhMVE13TTRldlN4aVkwX2RIamsxdGVVVlg3Y2VKa3VlOS01SHFDemR0TDZjUHRZXzlqNW5NWjJRbnUzSF9Gc1FZUWdxRUZwdFVjS3BzZUZkS0xScGF4SWp4TEFXZGJJM25CcXMtUzdxSGpVQlppWlBBWGEtUUJENTZNUGttU1lFekIyWm1FLVhYdXdnY20zanNPaXdlSXhQZzIxcm9KWDRhb0tTS2xmQm45ZGVjRExBa1JnZFFqVHZiT3Jnc0RIVXM5S1VQUGFOdmlBYnNoaFRXN284MVUwcjB2NmFGd3RHUTZTay1oZDFKWFBtM2dITEc4Zkh6U29YcVNNQjlLOWh2MkkyWnZCei1ab3pRYTBGNFpGWGdCaE5oWHJXa2NkYWU3VDZETXUwUGN1ZzlMREt0S3BvLUM4MjNuLXhyTHd2clNjMXhIcjU0ZEVsVDhMbmpHRHFpeVlsTVlvWVc0b2paeS1nOWNVZWYxclpHV3lpMGhkb3FBbU9vb3lsWXJkMzBkMnZGX053d0phbTFoNURreE4yVXJ5T1l4MVNmMXJRbmJMN3FCZmxULVdmQjJ5WlVjTGowem9SMFFuLWRaOGYwUkZzN3R3TXFLVGM2Q0NtQ3ZWLVE1NDlhQUsx",
+        "time": "2026-09-05 12:13:25"
       },
       {
-        "title": "替農民拼通路 張嘉郡推廣斗六文旦 籲全國民眾支持農民 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNSlpJeHlMQjd6N211OHpfSjJEMlFkSTRvYnNDN3VCbkJwWG9aajlRX2VRMWpoNjVKSDQ5T0NsWWlhMU05VnRNcklJYm9WQU9ZMFpnNEFxY09wOWYwd3FvaGJaSWpvajhwZG5BV0RjWFV0eGlpLTVxRUZURVUtUHQwOGRCbmhxMWVPc2tJMGU5QXJWdTFJOTRhX2gxQ0ZVbU80dVB5emVERG5raWlxb3FIN0VMNVNWNUp3bHBTUy12em9GaFlwdzdReWo0Tnc1czd5QWJSbUpCQzZTcWozTDBSOGM3UmFCLUFhUGpwOWJNM09kT2JuOTM0UzRJVll2VnU5VE5PWUlxVTB6UHRMWmZiQk5rRkpJX0xTeUU2VEVqUWEwUVJNLWxsZ0hrc19kMFpOZkdCN1J4c0k2NnRrQ2lGeU4wejVnN1JaQ2FqeXZoT2dLbk5Bdmg5d0s4cS04LVJna0NTYWVQTElINWhMZHJTVlp4TzUyZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-04 13:26:15"
+        "title": "民進黨籍雲林縣長參選人劉建國，於9/4在黨公職人員以及上百名支持者的陪同之下前往雲林縣選委會完成登記。 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMimwVBVV95cUxQdlRIMVV1eHBqeEc5TUFwNnZxUS1iMm9CMG5rdDVNNTZFMmo2ZFRpc1lzWWx4MVBwVTNiUFlDT2JwNkM5S1RfUTNQSG5sak9zWE9CM2U2aGdXZG1vNlhMMkJzZk0tVzR6dnphbGYwSnc0Tng5NkdGZU9jRGVlWWxTQVRJQTZSSWZRZ3QzVUl3VFV5T2NGeFMyRnNvUVdtSFRablh4X0xzVkN6dEJ1WEM3NElrMXVjd0FrMFNQYzdRbUpqSFlNV21OdWdEZ1VOS1d4Z1ZYNE53N3gzNWxnYzFia0pNWWVYX0xMVTlXRUJjbExHd0t3ZGVfUUhwNXdGSTZ0ODFpcDd1dzJyQ1AzcEJnUUxRWTVlTGVuQndhU3p0Y1ZVb1o0YVBWcjlyRFRGM3pTUTRwLWVYa0JPdjBhX19ZSGplTDV6YW9fVWQtVXkxR05udjg5bWFiNnFRLUFwS3NOb18wM0tHaHlvd3dlZnU0WHVDYVozVHZDVlNjQUxBWElCYWVJNGNuUWNEdm9rYjRHYlBHYXh2REd2V21lbWE2YUN6dG0yMTV6QlBxZ1RQUjBzRXJqLVZmazE1d0FLcVVjUkExVk5qX1dKaDNEd0lwVE1OWFhoSXBWblY0TlJKMGdfWlItNFptNE12QzZEN3Q1MzVlelVEOHQ5WDdEeDVrZnVWeWZNNGkxUV93Y0Z5X2NEYTlENVBtRG95R1U0TTFsNUVhNTdsUmxwOHlDaUcyeVBwXzlzYmdDLWlkNmQ5eDBhWUR2Q3luMm9vY1ZISC1SZTBjZzlHb096T2ZWaFFBOUtnYTlDYWIzLWRGdV84UzRBZlAzZFQzWXBmT2E3TDZRS2ZtZXpwOHU1VF92NVV2X0ZxUFVyOXU0N2Vv",
+        "time": "2026-09-04 20:22:56"
       },
       {
-        "title": "傳賴清德接競總主委？劉建國登記參選直言：目前尚未討論到 - 中時新聞網",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OaVB4MF9TNHpRQThDRnZITnBkSkFRazR4M1hmT2dKQjdsU0xSb3NseU9QUGJ0LV9kSTJJaWZ0SWhrUzNPeFZDbkYyNXVtUEJmRFBQZUhmLWxOM05iZ1ZYYVVvR2RubjNVMWhTMHhB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-04 13:23:18"
-      },
-      {
-        "title": "雲林大團結就是要改變！劉建國9月4日登記 喊「94就是要選能力、改變、拚這次」 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOUnJzWEVkLVUyUnUtQXdQdXB5Y1Q1TEkxcUVvQVFxelFKZzktdGJTd2ZwZEdDS2ppWXhtRkc2MGRpbjBvb3MxSF8tU1NaUXlHUUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-04 13:22:33"
-      },
-      {
-        "title": "替農民拼通路 張嘉郡推廣斗六文旦 籲全國民眾支持農民 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWFZUFd5TGlveXZiSTFvOUw2alZrS0xNZkpvOXJ4ZF8yUnZkYU5acnFvUTQtM1lZVmdST3pBNWpyMlpJTHlyN1dKSW9SZnd0YmdDZjEzUDZfZWUwUUJ1Z3NLWVBhbDVxX2RxeEN0YmVSdVJZV1BnTWZ0RXY5dTVfbVpuejY2MnVsRVJ3Rg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-04 13:22:06"
+        "title": "#文旦界的愛馬仕🍐 #斗六文旦甜蜜登場✨️ 中秋節快到了，要送什麼最有雲林味？ 嘉郡一定大聲推薦，號稱「文旦界愛馬仕」的 斗六文旦！ 果肉細緻、汁多清甜，自己吃是享受，拿來送親朋好友也很有面子，現在正是品嚐斗六文旦的好時候👍 這次嘉郡也特別把斗六文旦帶 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxNc2Uzd2dWaDRDSU00MVVIbnZHdnhpcFhaNTk3QXNIcWE0cW54X3NVQzVkcjlacEJBNS1FbjZBdXJGbUNFUDJqa1JRRnlzMHRQbGNfX0FQc0g5cFV1UDFlQWNMdEY2cUJHQXMtVzhvSW5QYW9Pamg3Z3JuUVhQdjNURGhFc1M3ZG1uaGYwUHhhbVJWcEhaRzdwZFY4cHVhaU5mVHpXcm81QXN4eXFDOEhROFIwd1o0VUs4Nzk5SEhlN3FDSG5HYmdWRklFVUVob2RlalJyN24xYzlQeXFoMlVxdnc0ZW83dk5JVVd3elp4TUFEdlBoWlZkMmRwUk5XZGZxamNING5GMmNUQTNoUzFzUF9SVUYzSGZqYmtpVnE1WUEzb2hULXNPVjZnbDljN0J6bGFzdmk2dU1FT0dIM2xtaC1SaEUwejVVY0U1d1pFeTh4a0ZFSkxoYUQwM3NaQXNxT2tFcl9LbTVfRXh0WHF6MEF0Y01XVHRqOWlGU3NtTEV5SHhCREoyNS1Eb2xVY2EwTTNyTFcwemZJR3pBOTQtbEdQRXdVQ3dRcU9vRkM2Y0x1S2tWd3NqOW4yaF9HMFl4aUlRQUJnZUp0MFFmQWtwUGE5QkJNN2JScVdxdG9KSUJjbFdMYkFMY095TzJvc1dhOEZZQzZ1TVlwWjhyQTZxWk5hWXdjZHR3Y1Z5WEFHOWxMQVB3cWRwTTZaWnV6VUpvOFg1VWd3QjlNYWNpaTFDcmZEMzZIcG80b3hMZUlVVTY5X3ktWUYzOERDNGx2emE4QmJQMW9tWGQ2RlJIc0RPQ0NpcDFTUV9RVnoxd0pHU1VxcXdnU2lDZ29hUWliaTBhT3BlZDNyMlZVX2prem5kUGFfQnJLWE9fXzhkWGFQbXIzRnFmNGlKNFdaZld4N2JGc1c3RENUUDVQaFBpZUFnczUzZFN4SldKc3VpZEM0bG9sZ3pDU1NYdEMzLTh2WWFySlZCVmlQVUUtcUtOZGZ6Z2l6and3UkVsMlM4MVlDUzFMU3NPdW90czlZVzE2M0p5VERCanNHeTlPWFdfX0NPMVJjaUxnVHZHSDVKNlFpd2pyMUlobkdkNTZJeEJqald0S1BoMFZqbXhnR3pGLXZvVEczdGh4UWtGc3ItMEVaZHZlS1dva0pfU0RvbEZ5Y0h2YVp2dkJLcncwOWhCd0NmaTI4MkFtZVhUUFZOZW1kZW1DS1NFR2labjMtV0JYa2lzTVhiNEdaS0Fra0VWQmc3SmpkWkZ1ekgyM054ZXA0WmRoWVdMeW5qQllwRkRreHozT1BfVWJfR3E2bVBoZVoxSnZCS0FwNDR5RTc1WjhxUnYxUXlfZXFCelpRUXYtQ1lQdnNaZUc3TWVyLW9LcEpHVG05SDlJVkdYZUFDcEFSbW04WVpI",
+        "time": "2026-09-04 16:50:36"
       }
     ],
     "youtube": [
@@ -1911,18 +1891,6 @@
         "url": "https://www.youtube.com/watch?v=n0ltiGGa9QQ",
         "time": "2026-09-04 14:34:51"
       }
-    ],
-    "facebook": [
-      {
-        "title": "民進黨籍雲林縣長參選人劉建國，於9/4在黨公職人員以及上百名支持者的陪同之下前往雲林縣選委會完成登記。 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMimwVBVV95cUxQdlRIMVV1eHBqeEc5TUFwNnZxUS1iMm9CMG5rdDVNNTZFMmo2ZFRpc1lzWWx4MVBwVTNiUFlDT2JwNkM5S1RfUTNQSG5sak9zWE9CM2U2aGdXZG1vNlhMMkJzZk0tVzR6dnphbGYwSnc0Tng5NkdGZU9jRGVlWWxTQVRJQTZSSWZRZ3QzVUl3VFV5T2NGeFMyRnNvUVdtSFRablh4X0xzVkN6dEJ1WEM3NElrMXVjd0FrMFNQYzdRbUpqSFlNV21OdWdEZ1VOS1d4Z1ZYNE53N3gzNWxnYzFia0pNWWVYX0xMVTlXRUJjbExHd0t3ZGVfUUhwNXdGSTZ0ODFpcDd1dzJyQ1AzcEJnUUxRWTVlTGVuQndhU3p0Y1ZVb1o0YVBWcjlyRFRGM3pTUTRwLWVYa0JPdjBhX19ZSGplTDV6YW9fVWQtVXkxR05udjg5bWFiNnFRLUFwS3NOb18wM0tHaHlvd3dlZnU0WHVDYVozVHZDVlNjQUxBWElCYWVJNGNuUWNEdm9rYjRHYlBHYXh2REd2V21lbWE2YUN6dG0yMTV6QlBxZ1RQUjBzRXJqLVZmazE1d0FLcVVjUkExVk5qX1dKaDNEd0lwVE1OWFhoSXBWblY0TlJKMGdfWlItNFptNE12QzZEN3Q1MzVlelVEOHQ5WDdEeDVrZnVWeWZNNGkxUV93Y0Z5X2NEYTlENVBtRG95R1U0TTFsNUVhNTdsUmxwOHlDaUcyeVBwXzlzYmdDLWlkNmQ5eDBhWUR2Q3luMm9vY1ZISC1SZTBjZzlHb096T2ZWaFFBOUtnYTlDYWIzLWRGdV84UzRBZlAzZFQzWXBmT2E3TDZRS2ZtZXpwOHU1VF92NVV2X0ZxUFVyOXU0N2Vv",
-        "time": "2026-09-04 20:22:56"
-      },
-      {
-        "title": "#文旦界的愛馬仕🍐 #斗六文旦甜蜜登場✨️ 中秋節快到了，要送什麼最有雲林味？ 嘉郡一定大聲推薦，號稱「文旦界愛馬仕」的 斗六文旦！ 果肉細緻、汁多清甜，自己吃是享受，拿來送親朋好友也很有面子，現在正是品嚐斗六文旦的好時候👍 這次嘉郡也特別把斗六文旦帶 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxNc2Uzd2dWaDRDSU00MVVIbnZHdnhpcFhaNTk3QXNIcWE0cW54X3NVQzVkcjlacEJBNS1FbjZBdXJGbUNFUDJqa1JRRnlzMHRQbGNfX0FQc0g5cFV1UDFlQWNMdEY2cUJHQXMtVzhvSW5QYW9Pamg3Z3JuUVhQdjNURGhFc1M3ZG1uaGYwUHhhbVJWcEhaRzdwZFY4cHVhaU5mVHpXcm81QXN4eXFDOEhROFIwd1o0VUs4Nzk5SEhlN3FDSG5HYmdWRklFVUVob2RlalJyN24xYzlQeXFoMlVxdnc0ZW83dk5JVVd3elp4TUFEdlBoWlZkMmRwUk5XZGZxamNING5GMmNUQTNoUzFzUF9SVUYzSGZqYmtpVnE1WUEzb2hULXNPVjZnbDljN0J6bGFzdmk2dU1FT0dIM2xtaC1SaEUwejVVY0U1d1pFeTh4a0ZFSkxoYUQwM3NaQXNxT2tFcl9LbTVfRXh0WHF6MEF0Y01XVHRqOWlGU3NtTEV5SHhCREoyNS1Eb2xVY2EwTTNyTFcwemZJR3pBOTQtbEdQRXdVQ3dRcU9vRkM2Y0x1S2tWd3NqOW4yaF9HMFl4aUlRQUJnZUp0MFFmQWtwUGE5QkJNN2JScVdxdG9KSUJjbFdMYkFMY095TzJvc1dhOEZZQzZ1TVlwWjhyQTZxWk5hWXdjZHR3Y1Z5WEFHOWxMQVB3cWRwTTZaWnV6VUpvOFg1VWd3QjlNYWNpaTFDcmZEMzZIcG80b3hMZUlVVTY5X3ktWUYzOERDNGx2emE4QmJQMW9tWGQ2RlJIc0RPQ0NpcDFTUV9RVnoxd0pHU1VxcXdnU2lDZ29hUWliaTBhT3BlZDNyMlZVX2prem5kUGFfQnJLWE9fXzhkWGFQbXIzRnFmNGlKNFdaZld4N2JGc1c3RENUUDVQaFBpZUFnczUzZFN4SldKc3VpZEM0bG9sZ3pDU1NYdEMzLTh2WWFySlZCVmlQVUUtcUtOZGZ6Z2l6and3UkVsMlM4MVlDUzFMU3NPdW90czlZVzE2M0p5VERCanNHeTlPWFdfX0NPMVJjaUxnVHZHSDVKNlFpd2pyMUlobkdkNTZJeEJqald0S1BoMFZqbXhnR3pGLXZvVEczdGh4UWtGc3ItMEVaZHZlS1dva0pfU0RvbEZ5Y0h2YVp2dkJLcncwOWhCd0NmaTI4MkFtZVhUUFZOZW1kZW1DS1NFR2labjMtV0JYa2lzTVhiNEdaS0Fra0VWQmc3SmpkWkZ1ekgyM054ZXA0WmRoWVdMeW5qQllwRkRreHozT1BfVWJfR3E2bVBoZVoxSnZCS0FwNDR5RTc1WjhxUnYxUXlfZXFCelpRUXYtQ1lQdnNaZUc3TWVyLW9LcEpHVG05SDlJVkdYZUFDcEFSbW04WVpI",
-        "time": "2026-09-04 16:50:36"
-      }
     ]
   },
   "latest_by_platform_7d": {
@@ -1931,6 +1899,11 @@
         "title": "劉建國完成雲林縣長參選登記 高喊雲林大團結為改變而戰 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNNUJFX3lDaFJocHRzLXZlU0dKTjRrVmsxUVpick54ekhqM0Zvek1MNHJ4bkQwR21qR0IyRkpoVVIwaUJ0VGtBbWVfQWNCZmxjTGMtakRFU1ZtVEQwSUcxcXlMX2JHR0ZoRmMzTkJlUURNdlB3d19Jb3lzaVIxOU10NjV3X05NQzJTYzVVWi1jYWZsY2g0d0xkdlczeTdybUtHT0NQMFZQMDhzLWdRRmQyaGVOaHAweFMzYUl0LURVUlU0cHdDZ1pUbldrSVJNMVVhdlZKcTBCNElnVVJwRmJJcTFTNGN3X3FuekhVaXh5Vk4xSmxnNGt5eU5UWHZFT1p6dE1qdnFWdnNMQTczTVpyYk16RmdhaXo1OE92M2JTSExTZzFRVUh3MlFXTndUaC0tMGx3UEd1dU9xUTFQeDBhVkRDeFhCSnd1QU5uY1kza2xmdTJMUDhCR3FvVGpUVWJBS3RLWmxBU21jTkdqZ0owVk92cmpEcjFTaVZEcHYwQWU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-05 08:43:49"
+      },
+      {
+        "title": "雲林大團結就是要改變！立委劉建國登記參選縣長 喊出「94就是要選能力、要改變、拚勝選」！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiSGd0V3FoTkZkbmVydkp4UEJnbEg5bGpqMVR6cHkxRVNLZkU1WGFTRXFhaW9zNlk4ZlNSdGVQdURuTVpwNF9BSzFLb3lfNm5WbnVyQ1Z2cGRfLWpYQTEwSEN0MEFncWZQbjZhQjBQOEVkdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-05 06:57:56"
       },
       {
         "title": "參選人趕末班車…雲林劉建國喊「94要拚」 嘉義爆登記失敗 - Yahoo新聞",
@@ -2121,14 +2094,14 @@
         "title": "替農民拼通路 張嘉郡推廣斗六文旦 籲全國民眾支持農民 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWFZUFd5TGlveXZiSTFvOUw2alZrS0xNZkpvOXJ4ZF8yUnZkYU5acnFvUTQtM1lZVmdST3pBNWpyMlpJTHlyN1dKSW9SZnd0YmdDZjEzUDZfZWUwUUJ1Z3NLWVBhbDVxX2RxeEN0YmVSdVJZV1BnTWZ0RXY5dTVfbVpuejY2MnVsRVJ3Rg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-04 13:22:06"
-      },
-      {
-        "title": "「雲林不屬於一個家族！」 劉建國登記：縣民政治才能引領邁向未來 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOVTJWS3BBLW4wREQ5UDlYTXQ4U2ZCdmx0a2hyMWRId1dwd3lHbkJ2YkhWOGJick9reE52d2VvdGpnNk5fSXdUYzVHOGc5dmFjQzdkLWN6QVQ5cE5hVldIbkZQQlZMQjY2bVE5cGtWUGpMMWtJaGw5VkRrQ2NLbURiTkE1b0FNTS1HR3RHRUt2SGx5cVZaeV9Ea0ZXR2tnTERsUEo3TTRiTTJuZVZvbTFfcC00UjUybGdrSG1vRzBpY2pJV25aM2k3cF8wNXhSbjV1RUx1eF9xckMwMFNmZWhBRGlTZVJPMHF6c0ROdWhZQmljSDhYUXRVSlBHLVBuMmdwQ01XOUtGdjk0SnE5bHN0SUUyMVd6QkV3SldWYWRFNGZqZ3Q1dWR6YkFrbmRfLVc3Sng1cU80Y0ljR3lMYkJra0RXYmEtd212QlNVTWlOU2dYMXpfVVlvS2x1dWNDb0ZSaHVDQ2RRV2VJZGdsWkNFTW84NXZsN0FjTFVWanczUnV3bGM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-04 12:48:39"
       }
     ],
     "facebook": [
+      {
+        "title": "☔️ 風雨生信心！全民國防自強大會！ 今天「中華民國後備憲兵 115 年度全民國防全國自強大會」在雲林盛大登場，來自全國 22 個縣市的後憲弟兄、眷屬齊聚一堂，場面熱血、聲勢驚人！🔥 活動展開，陰涼的天氣，讓大家有個舒爽的開始，但旋即老天爺就給大家出了考題 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMixAdBVV95cUxPWC1RS0RvMlJnZFQxVUNTYlducmJXbXU4Q1p3UjVVRUt4STh5RXhVS1hzbGJCWFhoVXgyMXZ2RmFlR1VLd0NkUXpMbHFTSm9heXVIVHZVSUJzbGVCODFaa3dGVzV5MXd4UjBQSktsdnFycEdsM3lBSnI2Snk3dUtfbHh6UjlTRWRjTkhJdlFyWllIVG9OVXN3ZWduMXlaNU9hWk9vNlF5ME1fdlBBN09wNUNTbW5Idm50di1xbi1ST3M1VUMxTlpvZ2YxeVQzbUlEV05OazRKNDdfcHkzQ0VVaHVsZ1hCREhkMVdWZlhMSTVXdFJCVE1MYlJ6VnIxR2JGcWRteEg0VWd1SHJSMEx0ZFdEcTJSSmJuSkkxUXR4TGZJQW5WRE1tMFJtSW9jS2l3cGQ1OFppa3FSbXFsTk9yWDJnTURRZkVpdTU3QWVrZUdXSGgwZlc0TnF6Y3QtUGNjUU1EdkQtSldHa2VkWjB5RGxkZTQxbFd2S1BPa1RjTjQzWmRCVlJzNklrTU0yalU2c0F6TFZSXzljc2U4ekVLal9aMHNJcnlDZE4xNnNFV0V2Zkk1Sm5TOEpZY0ZVYlpRYVM3aG1GTnhNS1V0SllTWFc4OGZ0RWFHSTRCZVpxenFkcV9uY21yQWhMVE13TTRldlN4aVkwX2RIamsxdGVVVlg3Y2VKa3VlOS01SHFDemR0TDZjUHRZXzlqNW5NWjJRbnUzSF9Gc1FZUWdxRUZwdFVjS3BzZUZkS0xScGF4SWp4TEFXZGJJM25CcXMtUzdxSGpVQlppWlBBWGEtUUJENTZNUGttU1lFekIyWm1FLVhYdXdnY20zanNPaXdlSXhQZzIxcm9KWDRhb0tTS2xmQm45ZGVjRExBa1JnZFFqVHZiT3Jnc0RIVXM5S1VQUGFOdmlBYnNoaFRXN284MVUwcjB2NmFGd3RHUTZTay1oZDFKWFBtM2dITEc4Zkh6U29YcVNNQjlLOWh2MkkyWnZCei1ab3pRYTBGNFpGWGdCaE5oWHJXa2NkYWU3VDZETXUwUGN1ZzlMREt0S3BvLUM4MjNuLXhyTHd2clNjMXhIcjU0ZEVsVDhMbmpHRHFpeVlsTVlvWVc0b2paeS1nOWNVZWYxclpHV3lpMGhkb3FBbU9vb3lsWXJkMzBkMnZGX053d0phbTFoNURreE4yVXJ5T1l4MVNmMXJRbmJMN3FCZmxULVdmQjJ5WlVjTGowem9SMFFuLWRaOGYwUkZzN3R3TXFLVGM2Q0NtQ3ZWLVE1NDlhQUsx",
+        "time": "2026-09-05 12:13:25"
+      },
       {
         "title": "民進黨籍雲林縣長參選人劉建國，於9/4在黨公職人員以及上百名支持者的陪同之下前往雲林縣選委會完成登記。 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMimwVBVV95cUxQdlRIMVV1eHBqeEc5TUFwNnZxUS1iMm9CMG5rdDVNNTZFMmo2ZFRpc1lzWWx4MVBwVTNiUFlDT2JwNkM5S1RfUTNQSG5sak9zWE9CM2U2aGdXZG1vNlhMMkJzZk0tVzR6dnphbGYwSnc0Tng5NkdGZU9jRGVlWWxTQVRJQTZSSWZRZ3QzVUl3VFV5T2NGeFMyRnNvUVdtSFRablh4X0xzVkN6dEJ1WEM3NElrMXVjd0FrMFNQYzdRbUpqSFlNV21OdWdEZ1VOS1d4Z1ZYNE53N3gzNWxnYzFia0pNWWVYX0xMVTlXRUJjbExHd0t3ZGVfUUhwNXdGSTZ0ODFpcDd1dzJyQ1AzcEJnUUxRWTVlTGVuQndhU3p0Y1ZVb1o0YVBWcjlyRFRGM3pTUTRwLWVYa0JPdjBhX19ZSGplTDV6YW9fVWQtVXkxR05udjg5bWFiNnFRLUFwS3NOb18wM0tHaHlvd3dlZnU0WHVDYVozVHZDVlNjQUxBWElCYWVJNGNuUWNEdm9rYjRHYlBHYXh2REd2V21lbWE2YUN6dG0yMTV6QlBxZ1RQUjBzRXJqLVZmazE1d0FLcVVjUkExVk5qX1dKaDNEd0lwVE1OWFhoSXBWblY0TlJKMGdfWlItNFptNE12QzZEN3Q1MzVlelVEOHQ5WDdEeDVrZnVWeWZNNGkxUV93Y0Z5X2NEYTlENVBtRG95R1U0TTFsNUVhNTdsUmxwOHlDaUcyeVBwXzlzYmdDLWlkNmQ5eDBhWUR2Q3luMm9vY1ZISC1SZTBjZzlHb096T2ZWaFFBOUtnYTlDYWIzLWRGdV84UzRBZlAzZFQzWXBmT2E3TDZRS2ZtZXpwOHU1VF92NVV2X0ZxUFVyOXU0N2Vv",
@@ -2317,9 +2290,23 @@
     "hour": [],
     "day": [
       {
+        "title": "☔️ 風雨生信心！全民國防自強大會！ 今天「中華民國後備憲兵 115 年度全民國防全國自強大會」在雲林盛大登場，來自全國 22 個縣市的後憲弟兄、眷屬齊聚一堂，場面熱血、聲勢驚人！🔥 活動展開，陰涼的天氣，讓大家有個舒爽的開始，但旋即老天爺就給大家出了考題 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMixAdBVV95cUxPWC1RS0RvMlJnZFQxVUNTYlducmJXbXU4Q1p3UjVVRUt4STh5RXhVS1hzbGJCWFhoVXgyMXZ2RmFlR1VLd0NkUXpMbHFTSm9heXVIVHZVSUJzbGVCODFaa3dGVzV5MXd4UjBQSktsdnFycEdsM3lBSnI2Snk3dUtfbHh6UjlTRWRjTkhJdlFyWllIVG9OVXN3ZWduMXlaNU9hWk9vNlF5ME1fdlBBN09wNUNTbW5Idm50di1xbi1ST3M1VUMxTlpvZ2YxeVQzbUlEV05OazRKNDdfcHkzQ0VVaHVsZ1hCREhkMVdWZlhMSTVXdFJCVE1MYlJ6VnIxR2JGcWRteEg0VWd1SHJSMEx0ZFdEcTJSSmJuSkkxUXR4TGZJQW5WRE1tMFJtSW9jS2l3cGQ1OFppa3FSbXFsTk9yWDJnTURRZkVpdTU3QWVrZUdXSGgwZlc0TnF6Y3QtUGNjUU1EdkQtSldHa2VkWjB5RGxkZTQxbFd2S1BPa1RjTjQzWmRCVlJzNklrTU0yalU2c0F6TFZSXzljc2U4ekVLal9aMHNJcnlDZE4xNnNFV0V2Zkk1Sm5TOEpZY0ZVYlpRYVM3aG1GTnhNS1V0SllTWFc4OGZ0RWFHSTRCZVpxenFkcV9uY21yQWhMVE13TTRldlN4aVkwX2RIamsxdGVVVlg3Y2VKa3VlOS01SHFDemR0TDZjUHRZXzlqNW5NWjJRbnUzSF9Gc1FZUWdxRUZwdFVjS3BzZUZkS0xScGF4SWp4TEFXZGJJM25CcXMtUzdxSGpVQlppWlBBWGEtUUJENTZNUGttU1lFekIyWm1FLVhYdXdnY20zanNPaXdlSXhQZzIxcm9KWDRhb0tTS2xmQm45ZGVjRExBa1JnZFFqVHZiT3Jnc0RIVXM5S1VQUGFOdmlBYnNoaFRXN284MVUwcjB2NmFGd3RHUTZTay1oZDFKWFBtM2dITEc4Zkh6U29YcVNNQjlLOWh2MkkyWnZCei1ab3pRYTBGNFpGWGdCaE5oWHJXa2NkYWU3VDZETXUwUGN1ZzlMREt0S3BvLUM4MjNuLXhyTHd2clNjMXhIcjU0ZEVsVDhMbmpHRHFpeVlsTVlvWVc0b2paeS1nOWNVZWYxclpHV3lpMGhkb3FBbU9vb3lsWXJkMzBkMnZGX053d0phbTFoNURreE4yVXJ5T1l4MVNmMXJRbmJMN3FCZmxULVdmQjJ5WlVjTGowem9SMFFuLWRaOGYwUkZzN3R3TXFLVGM2Q0NtQ3ZWLVE1NDlhQUsx",
+        "time": "2026-09-05 12:13:25",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
         "title": "劉建國完成雲林縣長參選登記 高喊雲林大團結為改變而戰 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNNUJFX3lDaFJocHRzLXZlU0dKTjRrVmsxUVpick54ekhqM0Zvek1MNHJ4bkQwR21qR0IyRkpoVVIwaUJ0VGtBbWVfQWNCZmxjTGMtakRFU1ZtVEQwSUcxcXlMX2JHR0ZoRmMzTkJlUURNdlB3d19Jb3lzaVIxOU10NjV3X05NQzJTYzVVWi1jYWZsY2g0d0xkdlczeTdybUtHT0NQMFZQMDhzLWdRRmQyaGVOaHAweFMzYUl0LURVUlU0cHdDZ1pUbldrSVJNMVVhdlZKcTBCNElnVVJwRmJJcTFTNGN3X3FuekhVaXh5Vk4xSmxnNGt5eU5UWHZFT1p6dE1qdnFWdnNMQTczTVpyYk16RmdhaXo1OE92M2JTSExTZzFRVUh3MlFXTndUaC0tMGx3UEd1dU9xUTFQeDBhVkRDeFhCSnd1QU5uY1kza2xmdTJMUDhCR3FvVGpUVWJBS3RLWmxBU21jTkdqZ0owVk92cmpEcjFTaVZEcHYwQWU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-05 08:43:49",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "雲林大團結就是要改變！立委劉建國登記參選縣長 喊出「94就是要選能力、要改變、拚勝選」！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiSGd0V3FoTkZkbmVydkp4UEJnbEg5bGpqMVR6cHkxRVNLZkU1WGFTRXFhaW9zNlk4ZlNSdGVQdURuTVpwNF9BSzFLb3lfNm5WbnVyQ1Z2cGRfLWpYQTEwSEN0MEFncWZQbjZhQjBQOEVkdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-05 06:57:56",
         "platform": "news",
         "risk": "綠"
       },
@@ -2441,20 +2428,6 @@
         "time": "2026-09-04 17:44:27",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "九合一選戰登記截止日 劉建國獲支持者簇擁壓線登記 - tw.news.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOYUk2TGdXY3RCSnJWbUwzV2xRRVpDLXpDY3pBelpMTXlmd0pIS1NEYlJCS05GaEdfRjh6QS1mbDZYVW5neklUcG9yR0ZMeVc1VTVlZURUZmpFYmRVa2pGYmNvcFpXdzV2UGNWbVV4Szg5UUZEVHpoUm1NYnFObDZxT1U5bWpqRXZ1NDBNVmFIVnY2YWJNTVZrX3RpcVloaFhPS21KcHNVeFJTczJsZ2FyYWVRb1F0Vk9EcDV5dG9mcEVEMWJpS0F5ZE9qWExnTnVfTjVwY1dtNjNoX2JSUDlHblc2bVFxeUgycnl2YnV0SXVHa2NfUjlNUWFXdzM2Yy15VjhWMmxLV2lqMlQxQUQwRVM4UFlKWmdSd2xDcW1DdWtmOGpORFV5ODhGYzUyT21qdlJKOHdvck1OandSazFLWkdYaWxJLVJKcFZnNC1palF1UUdtMURNY0hTd09Tdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-04 17:36:58",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "#文旦界的愛馬仕🍐 #斗六文旦甜蜜登場✨️ 中秋節快到了，要送什麼最有雲林味？ 嘉郡一定大聲推薦，號稱「文旦界愛馬仕」的 斗六文旦！ 果肉細緻、汁多清甜，自己吃是享受，拿來送親朋好友也很有面子，現在正是品嚐斗六文旦的好時候👍 這次嘉郡也特別把斗六文旦帶 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxNc2Uzd2dWaDRDSU00MVVIbnZHdnhpcFhaNTk3QXNIcWE0cW54X3NVQzVkcjlacEJBNS1FbjZBdXJGbUNFUDJqa1JRRnlzMHRQbGNfX0FQc0g5cFV1UDFlQWNMdEY2cUJHQXMtVzhvSW5QYW9Pamg3Z3JuUVhQdjNURGhFc1M3ZG1uaGYwUHhhbVJWcEhaRzdwZFY4cHVhaU5mVHpXcm81QXN4eXFDOEhROFIwd1o0VUs4Nzk5SEhlN3FDSG5HYmdWRklFVUVob2RlalJyN24xYzlQeXFoMlVxdnc0ZW83dk5JVVd3elp4TUFEdlBoWlZkMmRwUk5XZGZxamNING5GMmNUQTNoUzFzUF9SVUYzSGZqYmtpVnE1WUEzb2hULXNPVjZnbDljN0J6bGFzdmk2dU1FT0dIM2xtaC1SaEUwejVVY0U1d1pFeTh4a0ZFSkxoYUQwM3NaQXNxT2tFcl9LbTVfRXh0WHF6MEF0Y01XVHRqOWlGU3NtTEV5SHhCREoyNS1Eb2xVY2EwTTNyTFcwemZJR3pBOTQtbEdQRXdVQ3dRcU9vRkM2Y0x1S2tWd3NqOW4yaF9HMFl4aUlRQUJnZUp0MFFmQWtwUGE5QkJNN2JScVdxdG9KSUJjbFdMYkFMY095TzJvc1dhOEZZQzZ1TVlwWjhyQTZxWk5hWXdjZHR3Y1Z5WEFHOWxMQVB3cWRwTTZaWnV6VUpvOFg1VWd3QjlNYWNpaTFDcmZEMzZIcG80b3hMZUlVVTY5X3ktWUYzOERDNGx2emE4QmJQMW9tWGQ2RlJIc0RPQ0NpcDFTUV9RVnoxd0pHU1VxcXdnU2lDZ29hUWliaTBhT3BlZDNyMlZVX2prem5kUGFfQnJLWE9fXzhkWGFQbXIzRnFmNGlKNFdaZld4N2JGc1c3RENUUDVQaFBpZUFnczUzZFN4SldKc3VpZEM0bG9sZ3pDU1NYdEMzLTh2WWFySlZCVmlQVUUtcUtOZGZ6Z2l6and3UkVsMlM4MVlDUzFMU3NPdW90czlZVzE2M0p5VERCanNHeTlPWFdfX0NPMVJjaUxnVHZHSDVKNlFpd2pyMUlobkdkNTZJeEJqald0S1BoMFZqbXhnR3pGLXZvVEczdGh4UWtGc3ItMEVaZHZlS1dva0pfU0RvbEZ5Y0h2YVp2dkJLcncwOWhCd0NmaTI4MkFtZVhUUFZOZW1kZW1DS1NFR2labjMtV0JYa2lzTVhiNEdaS0Fra0VWQmc3SmpkWkZ1ekgyM054ZXA0WmRoWVdMeW5qQllwRkRreHozT1BfVWJfR3E2bVBoZVoxSnZCS0FwNDR5RTc1WjhxUnYxUXlfZXFCelpRUXYtQ1lQdnNaZUc3TWVyLW9LcEpHVG05SDlJVkdYZUFDcEFSbW04WVpI",
-        "time": "2026-09-04 16:50:36",
-        "platform": "facebook",
-        "risk": "綠"
       }
     ]
   },
@@ -2462,17 +2435,17 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 30
+        "count": 31
       },
       {
         "name": "斗六",
-        "count": 12
+        "count": 10
       }
     ],
     "groups": [
       {
         "name": "農業族群",
-        "count": 11
+        "count": 9
       }
     ]
   }
