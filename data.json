@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-06T13:35:36.378307+00:00",
+  "generated_at": "2026-09-06T13:52:32.030095+00:00",
   "metrics": {
-    "total_24h": 1,
-    "prev_24h": 41,
-    "growth_pct": -97.56,
-    "news_24h": 0,
+    "total_24h": 2,
+    "prev_24h": 36,
+    "growth_pct": -94.44,
+    "news_24h": 1,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 235,
+    "total": 236,
     "prev": 205,
-    "growth_pct": 14.63,
-    "news": 202,
+    "growth_pct": 15.12,
+    "news": 203,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -29,12 +29,16 @@
     {
       "platform": "facebook",
       "count": 1
+    },
+    {
+      "platform": "news",
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 202
+      "count": 203
     },
     {
       "platform": "facebook",
@@ -48,6 +52,10 @@
   "by_hour": [
     {
       "hour": "2026-09-06 10:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-09-06 21:00",
       "count": 1
     }
   ],
@@ -335,17 +343,45 @@
     {
       "hour": "2026-09-06 10:00",
       "count": 1
+    },
+    {
+      "hour": "2026-09-06 21:00",
+      "count": 1
     }
   ],
-  "mention_by_platform_24h": [],
-  "mention_latest_by_platform_24h": {},
+  "mention_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 1
+    }
+  ],
+  "mention_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "快評》選情五五波！劉建國、張嘉郡各有需要突破的「挑戰」 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kVEYyNmRkRkdWdEp6aTc5ZThRbE13bkpMMk5XZlFBMFVQdXZpa18ySXlQeUVYcmJhNTlySkVCUk9fSGNNZ0Y2MGVmMVhpSEkybEw4NXZFLU5VZTgybTVXN2NNUGpyYlJyRFHSAW9BVV95cUxQOTU1RlpVM3E0UTg0RDJyM0U2RmhVZUthSzVOYWM3N0tMbmdGYTBkbVBCTlpkX0VRb2psS1ItZ2FvMmxoUU1sZ2Z4blo4MFRVUGpQSlYtZjdvXzNkOENwRS1zbzJKa1RIUmVkem1uUjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-06 21:14:24"
+      }
+    ]
+  },
   "alias_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 1
+    },
     {
       "platform": "facebook",
       "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "快評》選情五五波！劉建國、張嘉郡各有需要突破的「挑戰」 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kVEYyNmRkRkdWdEp6aTc5ZThRbE13bkpMMk5XZlFBMFVQdXZpa18ySXlQeUVYcmJhNTlySkVCUk9fSGNNZ0Y2MGVmMVhpSEkybEw4NXZFLU5VZTgybTVXN2NNUGpyYlJyRFHSAW9BVV95cUxQOTU1RlpVM3E0UTg0RDJyM0U2RmhVZUthSzVOYWM3N0tMbmdGYTBkbVBCTlpkX0VRb2psS1ItZ2FvMmxoUU1sZ2Z4blo4MFRVUGpQSlYtZjdvXzNkOENwRS1zbzJKa1RIUmVkem1uUjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-06 21:14:24"
+      }
+    ],
     "facebook": [
       {
         "title": "雨過天晴☀️ 完成登記、走出來的那一刻 雨停了，天空也亮了 登記這天 大雨擋不住大家的熱情 鄉親從四面八方而來 陪著嘉郡一起走上新的起點 每一雙緊緊握住的手 每一句「嘉郡，加油！」 每一個充滿期待的笑容 都是嘉郡向前的力量 這一刻 心裡有感動、有感謝 更多的 - facebook.com",
@@ -355,15 +391,26 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 0,
-    "劉建國": 0
+    "張嘉郡": 1,
+    "劉建國": 1
   },
   "mention_compare_7d": {
-    "張嘉郡": 127,
-    "劉建國": 104
+    "張嘉郡": 128,
+    "劉建國": 105
   },
-  "top_news": [],
+  "top_news": [
+    {
+      "title": "快評》選情五五波！劉建國、張嘉郡各有需要突破的「挑戰」 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kVEYyNmRkRkdWdEp6aTc5ZThRbE13bkpMMk5XZlFBMFVQdXZpa18ySXlQeUVYcmJhNTlySkVCUk9fSGNNZ0Y2MGVmMVhpSEkybEw4NXZFLU5VZTgybTVXN2NNUGpyYlJyRFHSAW9BVV95cUxQOTU1RlpVM3E0UTg0RDJyM0U2RmhVZUthSzVOYWM3N0tMbmdGYTBkbVBCTlpkX0VRb2psS1ItZ2FvMmxoUU1sZ2Z4blo4MFRVUGpQSlYtZjdvXzNkOENwRS1zbzJKa1RIUmVkem1uUjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-06 21:14:24"
+    }
+  ],
   "top_news_7d": [
+    {
+      "title": "快評》選情五五波！劉建國、張嘉郡各有需要突破的「挑戰」 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kVEYyNmRkRkdWdEp6aTc5ZThRbE13bkpMMk5XZlFBMFVQdXZpa18ySXlQeUVYcmJhNTlySkVCUk9fSGNNZ0Y2MGVmMVhpSEkybEw4NXZFLU5VZTgybTVXN2NNUGpyYlJyRFHSAW9BVV95cUxQOTU1RlpVM3E0UTg0RDJyM0U2RmhVZUthSzVOYWM3N0tMbmdGYTBkbVBCTlpkX0VRb2psS1ItZ2FvMmxoUU1sZ2Z4blo4MFRVUGpQSlYtZjdvXzNkOENwRS1zbzJKa1RIUmVkem1uUjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-06 21:14:24"
+    },
     {
       "title": "雲林毛巾嘉年華台北熱鬧登場蔣萬安、張麗善、張嘉郡花博同台- 社會新聞- PChome Online 新聞 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa21Odms2VHd3MkEzRlBoWWxlb3R1SjJFbGtReXppY0d6YlVZdHVGbnkxc0ZZeDNyTWZ0SGszcXg3djBmM3p6U040QW85bGlwR0pzTW4zWm42c2lCWDJZNldFbzhPRzNET0RINzdPVUFOMWdmQUlMZjdxZGpsUTZieWNxS1JUTXRfdWl6QVV6LVFUUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -458,11 +505,6 @@
       "title": "劉建國完成雲林縣長參選登記 高喊雲林大團結為改變而戰 - PChome Online 股市",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVjdjVDd3TGdNOEVlTDdiMmc4UTYwSnA5R0VSWmNKaDRQeHZvMmlhRHNMT0hMQW1mOTlHVmg4Nld4SnEzbFZxYkVad0ZIa3c3NGoxcmNENktTd3ctYjJCN25PRFpUa1hCUmFUcmtaMWxfSUJrSDlkU0hBQ0oyVmx2bQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-05 08:23:08"
-    },
-    {
-      "title": "為農民打通銷路！張嘉郡行銷斗六文旦 號召全民挺農 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbXRWUkRFcE81TndrOUVMcldZYjhrNzZtNWR1SmJ3MHFHSXg4Tmhhd2RPNVMtMjQxUEE2X3BvOHBGS05QV0ctdlFSLUg4QlN3QzFSTTZUaTIteGJXd3ZrZTVJT004VEI0cjBSbjdmU3Y4UmQ2V1BneVVTVGhsbU9YRW9lLU9FNmM0cFkzRnc2NXROSlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-05 07:58:54"
     }
   ],
   "latest_facebook_20": [
@@ -569,6 +611,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "快評》選情五五波！劉建國、張嘉郡各有需要突破的「挑戰」 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kVEYyNmRkRkdWdEp6aTc5ZThRbE13bkpMMk5XZlFBMFVQdXZpa18ySXlQeUVYcmJhNTlySkVCUk9fSGNNZ0Y2MGVmMVhpSEkybEw4NXZFLU5VZTgybTVXN2NNUGpyYlJyRFHSAW9BVV95cUxQOTU1RlpVM3E0UTg0RDJyM0U2RmhVZUthSzVOYWM3N0tMbmdGYTBkbVBCTlpkX0VRb2psS1ItZ2FvMmxoUU1sZ2Z4blo4MFRVUGpQSlYtZjdvXzNkOENwRS1zbzJKa1RIUmVkem1uUjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-06 21:14:24"
+    },
+    {
       "title": "雲林毛巾嘉年華台北熱鬧登場蔣萬安、張麗善、張嘉郡花博同台- 社會新聞- PChome Online 新聞 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa21Odms2VHd3MkEzRlBoWWxlb3R1SjJFbGtReXppY0d6YlVZdHVGbnkxc0ZZeDNyTWZ0SGszcXg3djBmM3p6U040QW85bGlwR0pzTW4zWm42c2lCWDJZNldFbzhPRzNET0RINzdPVUFOMWdmQUlMZjdxZGpsUTZieWNxS1JUTXRfdWl6QVV6LVFUUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-05 19:59:25"
@@ -662,11 +709,6 @@
       "title": "劉建國完成雲林縣長參選登記 高喊雲林大團結為改變而戰 - PChome Online 股市",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVjdjVDd3TGdNOEVlTDdiMmc4UTYwSnA5R0VSWmNKaDRQeHZvMmlhRHNMT0hMQW1mOTlHVmg4Nld4SnEzbFZxYkVad0ZIa3c3NGoxcmNENktTd3ctYjJCN25PRFpUa1hCUmFUcmtaMWxfSUJrSDlkU0hBQ0oyVmx2bQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-05 08:23:08"
-    },
-    {
-      "title": "為農民打通銷路！張嘉郡行銷斗六文旦 號召全民挺農 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbXRWUkRFcE81TndrOUVMcldZYjhrNzZtNWR1SmJ3MHFHSXg4Tmhhd2RPNVMtMjQxUEE2X3BvOHBGS05QV0ctdlFSLUg4QlN3QzFSTTZUaTIteGJXd3ZrZTVJT004VEI0cjBSbjdmU3Y4UmQ2V1BneVVTVGhsbU9YRW9lLU9FNmM0cFkzRnc2NXROSlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-05 07:58:54"
     }
   ],
   "person_sections": {
@@ -775,6 +817,11 @@
       ],
       "news": [
         {
+          "title": "快評》選情五五波！劉建國、張嘉郡各有需要突破的「挑戰」 - 自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kVEYyNmRkRkdWdEp6aTc5ZThRbE13bkpMMk5XZlFBMFVQdXZpa18ySXlQeUVYcmJhNTlySkVCUk9fSGNNZ0Y2MGVmMVhpSEkybEw4NXZFLU5VZTgybTVXN2NNUGpyYlJyRFHSAW9BVV95cUxQOTU1RlpVM3E0UTg0RDJyM0U2RmhVZUthSzVOYWM3N0tMbmdGYTBkbVBCTlpkX0VRb2psS1ItZ2FvMmxoUU1sZ2Z4blo4MFRVUGpQSlYtZjdvXzNkOENwRS1zbzJKa1RIUmVkem1uUjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-06 21:14:24"
+        },
+        {
           "title": "雲林毛巾嘉年華台北熱鬧登場蔣萬安、張麗善、張嘉郡花博同台- 社會新聞- PChome Online 新聞 - PChome Online 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa21Odms2VHd3MkEzRlBoWWxlb3R1SjJFbGtReXppY0d6YlVZdHVGbnkxc0ZZeDNyTWZ0SGszcXg3djBmM3p6U040QW85bGlwR0pzTW4zWm42c2lCWDJZNldFbzhPRzNET0RINzdPVUFOMWdmQUlMZjdxZGpsUTZieWNxS1JUTXRfdWl6QVV6LVFUUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-05 19:59:25"
@@ -867,11 +914,6 @@
         {
           "title": "雲林 劉建國拚高科技產業 張嘉郡賣柚挺農民 - 中時新聞網",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZWDJBazA4SzFJQWp3STFCVWtsc0tGQV9KMGczR0VxRjQtOVkwRDROaDZnOVhSTWJVUUlQelpWbDlZa2w2SnlPSV9SX3ItbHVxSHE3Y1VENzM0aXZIcTFWa1FjN05QQWdoTkdn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-05 04:10:00"
-        },
-        {
-          "title": "雲林 劉建國拚高科技產業 張嘉郡賣柚挺農民 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQeWR3bUd2WUllZWlzaUVocG5PSm91UlhwS3pzNWdSeUE4WHBQS0REV3FMc04yaHlHcWhUazFQLVpYSTdXRmNvbkN2UWlYeUdoQkJPNUdlREpicXFuZnpfeFBzbUNXSzdJRWtlamFwYWMxQlJ5T2hEMUwzeEg1YWNIX0dXX1pwcmQwM2JQSS1faE9KNDlTRVljcjBSeVgzblFzMFlfTHdXM2ZIalRkS01yOG5Xc1BpeTNrY1l1SHJJSHdBS1hacTZwc3lMLUtzSjBUVnZpVDR1M19Uc0FIS0J2bktMR2hENTJlM2NVRXRKaVU0eDZ2VzBOTG1XSFd1Sng3MGRLX0g0dktQVHNOS0IyRmNVbFhBRmlrcDhTSmplTHBkODVGZkIzb3dYMUxaQkg1V2tWT2M5MEhrZw?oc=5",
           "time": "2026-09-05 04:10:00"
         }
       ]
@@ -981,6 +1023,11 @@
       ],
       "news": [
         {
+          "title": "快評》選情五五波！劉建國、張嘉郡各有需要突破的「挑戰」 - 自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kVEYyNmRkRkdWdEp6aTc5ZThRbE13bkpMMk5XZlFBMFVQdXZpa18ySXlQeUVYcmJhNTlySkVCUk9fSGNNZ0Y2MGVmMVhpSEkybEw4NXZFLU5VZTgybTVXN2NNUGpyYlJyRFHSAW9BVV95cUxQOTU1RlpVM3E0UTg0RDJyM0U2RmhVZUthSzVOYWM3N0tMbmdGYTBkbVBCTlpkX0VRb2psS1ItZ2FvMmxoUU1sZ2Z4blo4MFRVUGpQSlYtZjdvXzNkOENwRS1zbzJKa1RIUmVkem1uUjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-06 21:14:24"
+        },
+        {
           "title": "劉建國完成雲林縣長參選登記 高喊雲林大團結為改變而戰 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNNUJFX3lDaFJocHRzLXZlU0dKTjRrVmsxUVpick54ekhqM0Zvek1MNHJ4bkQwR21qR0IyRkpoVVIwaUJ0VGtBbWVfQWNCZmxjTGMtakRFU1ZtVEQwSUcxcXlMX2JHR0ZoRmMzTkJlUURNdlB3d19Jb3lzaVIxOU10NjV3X05NQzJTYzVVWi1jYWZsY2g0d0xkdlczeTdybUtHT0NQMFZQMDhzLWdRRmQyaGVOaHAweFMzYUl0LURVUlU0cHdDZ1pUbldrSVJNMVVhdlZKcTBCNElnVVJwRmJJcTFTNGN3X3FuekhVaXh5Vk4xSmxnNGt5eU5UWHZFT1p6dE1qdnFWdnNMQTczTVpyYk16RmdhaXo1OE92M2JTSExTZzFRVUh3MlFXTndUaC0tMGx3UEd1dU9xUTFQeDBhVkRDeFhCSnd1QU5uY1kza2xmdTJMUDhCR3FvVGpUVWJBS3RLWmxBU21jTkdqZ0owVk92cmpEcjFTaVZEcHYwQWU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-05 08:43:49"
@@ -1074,11 +1121,6 @@
           "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - PChome Online 股市",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2Y1S0I3OHhpSGhCMW5iTmpUOUJ3YldSeXF0V0VMZkVUeUFPTjNHRWJxYUNwUXJDVllyN2czYzdZajhwYVZOZkw2eWZGNzIxSGNHY29HbTMwRDhmLTJuSjdPZTJDLTlDYjRuTE1tcG5MVXJjcExCZU1lZVZEU2hHMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-04 21:46:32"
-        },
-        {
-          "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - Life 生活網",
-          "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPN1psUlp0Ull0a2NsUjdXcGlIQUhaLWJnMW1KRDRVenllOTBfbjM3dnZ4cjdHcG9pQlUwajNCYm5OUExPT3ctNEtVN0dVT29COWZzdDc5VUt5bjRhakc0RnlxZXZFMlV2YWJVYXRJN0ZpRV9LdE5PYlNuQVJzREZ1QUpOYWxxUnR5RDkyXzdnSU0xWjNIbWFwekJGUHk5ZG5teW5ZRjdoalJvclhsTTRjbXhFeXhKZEZVaXBVVldkT2RUeU9Cak9yd3ZuOENYelhrMVlNWVZTRDJtTkY5YmNia0d1M28zTl9Ebm9wYjJyRzlrZXhqbzZEUGhJR0F2Sl9kSWctM05uYkpleXh2T2VUMnZhaDBaTy1pRmhfVzdsT3JMbnIybXFrcElKTnBIQ252SmQ2MGxjTFZwaWxZOHVldnJrVENMQU9RMDRpckEtUzNCMERFbHFuUG5jaUpUUV9heklJdlVQelNoLURBdkw3RHNxT0FPTlktQlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-04 21:46:32"
         }
       ]
     }
@@ -1090,10 +1132,22 @@
         "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxOaXBWd05ZN3JrbUpDd3lwYjJLRW9ZcmVvckd0QXA1NV9tNUwwbHgweG1oQmhFQUs5NFA4OTUtNkZKV1R3MWthYm5GNlZPVXhDTklxcFA0YzJSalZHREVMR3EzVUVZNUFtRS1Ha1VpcVFPMUx2aFlIbC01S21CVzVIeERiS2hGbnBGWGNDRnhCOTB1V1NzUm5ON1JjOVJUeVFrRjNOMmtjcFhhV1FoVkNNRmxWcnlJV1Bkc3RqdnZVN2dpaWdRMlBXYmFkZDllY2F3QURSbXVjMGZLc3dVRExCWnNSREhiMElHMGdpV1EtZEtFazN5ZDRORFZrLUV6bHhGZG5kQXJuRU9Ra29Yajc3RS1QSzNGekZUZHhtLWMwSFoyUmN0UV94RDFoMkYxRWZkOENiWHhIS1JlYUVmd3RCYkFFTFh0aDBLdzVrQU12VERHM09KaWJzeWFzSFZoSTFSZFJYY3l6SHBZZmFiQzdGT25idlIxbzhOQ3F6RjdHZE1tYTl3MC1DRXFlVzNZRnJ2ak04WmxkV0J1V0dTZE96N3ZwblRKaFlsZkQybzVPUXY0OE5SdTJZV0RvOTNNa0lucENIRjdtM1VwMWlSZ1FnZ1ZDWFZTWU94eEVWQnZDQTlTN0dhd1RwRENvVzhKVWluQVZhOW1KN3V4M2lRTjRIcFQ2U05xeGhydml3aUctVkMwVHdaRkZ0UExseWZFWlZTUUpfbmM3ZFRiS2lDQkNvY2ZiX0JzN2VoZEVsZElLa1A4LXlkYmROUi1CMk9INFc1RjBpUXI3Z1Vnc1BzUXdvWUZuVzgtRjItR1ZfMVhuNHZsWDUyRmZiNENMeDNTU1I5ZEh4YXY0ZFZTaWFRRVVzaUFsMWRHOHl1R0tObXVGdU9yLUFnekdWdGl5LUpSZ0dFZ0IwY0pxMDBXN1B6dmc2eWRaN0dXb0FhejM1ZVBUM2FnZUJseHMwbWxzQUFBak53dzVUeG5ZaTZLZmd4TzVkcVNYOVctNWhRTXEyanF1d3dWcDRlNEY4U09ud3A0d3VjUjFKbFZhNkdUa29NZjF3NUhiZ09ReW1yTk9zNXQzdk1TcG1yTEVYV09wOTVua2xkeTJYT2J6YUZUbTdqQ3dISExLX0tTNVdQQWFfWmV0RmR2ZU5pSW9rTHRtWE54RTZXYUdESWJYa2ZtM3ltdHVNTExyRW1LaGFrOTBXeEx3SlQ2enJwNm8xMHNubmRoVlFoTzV1d2Jlb3VZZC03OThiRDR0bnRCNDFtb2NLWGZwZWgyaUdxbmhNdGRCbkFydEZubkhxVHQ3TmozZW9IQVJISEtrVEplVEhTSGVCX3NrRGhSVEI3eFE2T044cUZaOW9mNk1UNm1mdDNBd1FzTWdGZWNVcXVCN2dXV0diaE1icExFbVB5bFFUYldkSDFockE",
         "time": "2026-09-06 10:52:58"
       }
+    ],
+    "news": [
+      {
+        "title": "快評》選情五五波！劉建國、張嘉郡各有需要突破的「挑戰」 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kVEYyNmRkRkdWdEp6aTc5ZThRbE13bkpMMk5XZlFBMFVQdXZpa18ySXlQeUVYcmJhNTlySkVCUk9fSGNNZ0Y2MGVmMVhpSEkybEw4NXZFLU5VZTgybTVXN2NNUGpyYlJyRFHSAW9BVV95cUxQOTU1RlpVM3E0UTg0RDJyM0U2RmhVZUthSzVOYWM3N0tMbmdGYTBkbVBCTlpkX0VRb2psS1ItZ2FvMmxoUU1sZ2Z4blo4MFRVUGpQSlYtZjdvXzNkOENwRS1zbzJKa1RIUmVkem1uUjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-06 21:14:24"
+      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "快評》選情五五波！劉建國、張嘉郡各有需要突破的「挑戰」 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kVEYyNmRkRkdWdEp6aTc5ZThRbE13bkpMMk5XZlFBMFVQdXZpa18ySXlQeUVYcmJhNTlySkVCUk9fSGNNZ0Y2MGVmMVhpSEkybEw4NXZFLU5VZTgybTVXN2NNUGpyYlJyRFHSAW9BVV95cUxQOTU1RlpVM3E0UTg0RDJyM0U2RmhVZUthSzVOYWM3N0tMbmdGYTBkbVBCTlpkX0VRb2psS1ItZ2FvMmxoUU1sZ2Z4blo4MFRVUGpQSlYtZjdvXzNkOENwRS1zbzJKa1RIUmVkem1uUjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-06 21:14:24"
+      },
       {
         "title": "雲林毛巾嘉年華台北熱鬧登場蔣萬安、張麗善、張嘉郡花博同台- 社會新聞- PChome Online 新聞 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa21Odms2VHd3MkEzRlBoWWxlb3R1SjJFbGtReXppY0d6YlVZdHVGbnkxc0ZZeDNyTWZ0SGszcXg3djBmM3p6U040QW85bGlwR0pzTW4zWm42c2lCWDJZNldFbzhPRzNET0RINzdPVUFOMWdmQUlMZjdxZGpsUTZieWNxS1JUTXRfdWl6QVV6LVFUUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1288,11 +1342,6 @@
         "title": "雨害低溫衝擊文旦減產！張嘉郡立院力推雲林柚挺農民 - 政府消息新聞 - PChome Online 新聞 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaHNOTk43cHUzd1RoUi1oTnZWSndhTXVVSWhTUjV0QlFtU3haTlJ6ODlWZ3F1bjREejR4ZDF3OEw4U0ZiZTdpRXhMTUszdWJlNEZRc2FBanY2Mld4cVRfblUwclJjTTBKRHdiOUs4VVB2bjRmSGozZ1FncV8zU0Z6bUVTeU9zcjZQaEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-04 21:08:44"
-      },
-      {
-        "title": "替農民拼通路 張嘉郡推廣斗六文旦 籲全國民眾支持農民 | 夏和宣 | 地方新聞 - Storm.mg",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpTkh4RndlcndrblNYR0tHMW9oTVQyUEhaaTUwNFR1MV9VclN2NHhUWmNXX3JDOERNUzVvM25mSFc0R2licXVjak5Xd2VUQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-04 20:57:00"
       }
     ],
     "facebook": [
@@ -1469,6 +1518,13 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "快評》選情五五波！劉建國、張嘉郡各有需要突破的「挑戰」 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kVEYyNmRkRkdWdEp6aTc5ZThRbE13bkpMMk5XZlFBMFVQdXZpa18ySXlQeUVYcmJhNTlySkVCUk9fSGNNZ0Y2MGVmMVhpSEkybEw4NXZFLU5VZTgybTVXN2NNUGpyYlJyRFHSAW9BVV95cUxQOTU1RlpVM3E0UTg0RDJyM0U2RmhVZUthSzVOYWM3N0tMbmdGYTBkbVBCTlpkX0VRb2psS1ItZ2FvMmxoUU1sZ2Z4blo4MFRVUGpQSlYtZjdvXzNkOENwRS1zbzJKa1RIUmVkem1uUjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-06 21:14:24",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "雨過天晴☀️ 完成登記、走出來的那一刻 雨停了，天空也亮了 登記這天 大雨擋不住大家的熱情 鄉親從四面八方而來 陪著嘉郡一起走上新的起點 每一雙緊緊握住的手 每一句「嘉郡，加油！」 每一個充滿期待的笑容 都是嘉郡向前的力量 這一刻 心裡有感動、有感謝 更多的 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxOaXBWd05ZN3JrbUpDd3lwYjJLRW9ZcmVvckd0QXA1NV9tNUwwbHgweG1oQmhFQUs5NFA4OTUtNkZKV1R3MWthYm5GNlZPVXhDTklxcFA0YzJSalZHREVMR3EzVUVZNUFtRS1Ha1VpcVFPMUx2aFlIbC01S21CVzVIeERiS2hGbnBGWGNDRnhCOTB1V1NzUm5ON1JjOVJUeVFrRjNOMmtjcFhhV1FoVkNNRmxWcnlJV1Bkc3RqdnZVN2dpaWdRMlBXYmFkZDllY2F3QURSbXVjMGZLc3dVRExCWnNSREhiMElHMGdpV1EtZEtFazN5ZDRORFZrLUV6bHhGZG5kQXJuRU9Ra29Yajc3RS1QSzNGekZUZHhtLWMwSFoyUmN0UV94RDFoMkYxRWZkOENiWHhIS1JlYUVmd3RCYkFFTFh0aDBLdzVrQU12VERHM09KaWJzeWFzSFZoSTFSZFJYY3l6SHBZZmFiQzdGT25idlIxbzhOQ3F6RjdHZE1tYTl3MC1DRXFlVzNZRnJ2ak04WmxkV0J1V0dTZE96N3ZwblRKaFlsZkQybzVPUXY0OE5SdTJZV0RvOTNNa0lucENIRjdtM1VwMWlSZ1FnZ1ZDWFZTWU94eEVWQnZDQTlTN0dhd1RwRENvVzhKVWluQVZhOW1KN3V4M2lRTjRIcFQ2U05xeGhydml3aUctVkMwVHdaRkZ0UExseWZFWlZTUUpfbmM3ZFRiS2lDQkNvY2ZiX0JzN2VoZEVsZElLa1A4LXlkYmROUi1CMk9INFc1RjBpUXI3Z1Vnc1BzUXdvWUZuVzgtRjItR1ZfMVhuNHZsWDUyRmZiNENMeDNTU1I5ZEh4YXY0ZFZTaWFRRVVzaUFsMWRHOHl1R0tObXVGdU9yLUFnekdWdGl5LUpSZ0dFZ0IwY0pxMDBXN1B6dmc2eWRaN0dXb0FhejM1ZVBUM2FnZUJseHMwbWxzQUFBak53dzVUeG5ZaTZLZmd4TzVkcVNYOVctNWhRTXEyanF1d3dWcDRlNEY4U09ud3A0d3VjUjFKbFZhNkdUa29NZjF3NUhiZ09ReW1yTk9zNXQzdk1TcG1yTEVYV09wOTVua2xkeTJYT2J6YUZUbTdqQ3dISExLX0tTNVdQQWFfWmV0RmR2ZU5pSW9rTHRtWE54RTZXYUdESWJYa2ZtM3ltdHVNTExyRW1LaGFrOTBXeEx3SlQ2enJwNm8xMHNubmRoVlFoTzV1d2Jlb3VZZC03OThiRDR0bnRCNDFtb2NLWGZwZWgyaUdxbmhNdGRCbkFydEZubkhxVHQ3TmozZW9IQVJISEtrVEplVEhTSGVCX3NrRGhSVEI3eFE2T044cUZaOW9mNk1UNm1mdDNBd1FzTWdGZWNVcXVCN2dXV0diaE1icExFbVB5bFFUYldkSDFockE",
