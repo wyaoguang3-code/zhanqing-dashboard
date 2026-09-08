@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-08T06:03:05.789865+00:00",
+  "generated_at": "2026-09-08T06:18:52.950108+00:00",
   "metrics": {
-    "total_24h": 1,
+    "total_24h": 6,
     "prev_24h": 7,
-    "growth_pct": -85.71,
-    "news_24h": 0,
+    "growth_pct": -14.29,
+    "news_24h": 5,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 219,
-    "prev": 189,
-    "growth_pct": 15.87,
-    "news": 188,
+    "total": 223,
+    "prev": 190,
+    "growth_pct": 17.37,
+    "news": 193,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -27,6 +27,10 @@
   },
   "by_platform": [
     {
+      "platform": "news",
+      "count": 5
+    },
+    {
       "platform": "facebook",
       "count": 1
     }
@@ -34,11 +38,11 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 188
+      "count": 193
     },
     {
       "platform": "facebook",
-      "count": 24
+      "count": 23
     },
     {
       "platform": "youtube",
@@ -49,12 +53,20 @@
     {
       "hour": "2026-09-07 22:00",
       "count": 1
+    },
+    {
+      "hour": "2026-09-08 13:00",
+      "count": 4
+    },
+    {
+      "hour": "2026-09-08 14:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
     {
       "hour": "2026-09-01 14:00",
-      "count": 5
+      "count": 4
     },
     {
       "hour": "2026-09-01 15:00",
@@ -319,15 +331,54 @@
     {
       "hour": "2026-09-07 22:00",
       "count": 1
+    },
+    {
+      "hour": "2026-09-08 13:00",
+      "count": 4
+    },
+    {
+      "hour": "2026-09-08 14:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 5
+    },
     {
       "platform": "facebook",
       "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "張嘉郡今公布競選主視覺「雲林更好」 他出任總幹事 - 壹蘋新聞網",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUNPZlY4a2xSSllhY2ItYVo0NWVVb2xhLWQzc1V2RVZhT3dIcTNoUWhJQndqcDcxOTZUbnFYUjBETTF3eWRjYTdHYWhZYmJrTG1jTnNOYXF5NUFvTW5CZlhlejRISnpXbnVoTll3NG5iY2JhbVhYd0pGVFJkLVZLa3Z2Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 14:01:00"
+      },
+      {
+        "title": "張嘉郡眼眶紅了！公布競選團隊 總幹事這句話戳心 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByVVljdEM5OC01dkVtQmxUNldpM1RmeHRNc0pkTm9hNXlZOG53c2xYaTA5YXhtdVBSTWpvR3FfbEZhNHRjejZzdHd0dDZacG1kd0dRZ09wR3RWSGdtSFQ2RHJNa1pUWVRGY2fSAW9BVV95cUxQYk5CTTQyNDYtR0hCUk5XSkNYcERtcnJtZVotUklSXzlPRUV6Rk02NzNxeno2NE81T2VXNEc5QzRZWENLdHA1UldzYVpYdnpQZVhvamMzRmp3Rl9QN1ZIU1NHeGhsWnFLZ0tJSDdOYVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 13:32:12"
+      },
+      {
+        "title": "張嘉郡競選團隊亮牌 這兩人出任正、副總幹事 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tajRvWjVUTXZNbnNWNDNxTERLb0VCN3BidnBJamJwS1lReFhGY2hmbktfWGwzZHBQMUFZMjVOOEFoc2J4X3pxWWZyb2tGWWhIdFNn0gFYQVVfeXFMUGMxeE13Qkx3ZDMwSEF4d2xiSmZHTk1zaEp3c2xrOUN0REJEcGFoVjM4VF9NRXZSUDJTRWpudDlDYlpGWmJWMDN5Q0NxZ0VrRTQ0WkxYalZVYQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 13:04:10"
+      },
+      {
+        "title": "張嘉郡競選團隊亮牌這兩人出任正、副總幹事| 2026九合一選舉 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mNjZEeEFzbnZweEJSVEdKOUo2aW1nOU1LeEVSTmozS3ltd3RGR05KNmdCSVZaMWxXM1dZSW9zRm5nWGRmYVIzUEZIVkhUejVnNXZYOEdFaFg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 13:04:10"
+      },
+      {
+        "title": "《咱的雲林、新的世代》張嘉郡曝競選歌曲 空心菜達人任總幹事 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPYjNLU290VFRrcmc3aDJmc2pYWDJHeWVmaGxldjJCb1MtZkF1U1dxbkUxb1l0aU5NaHNFUDV3c05MR29aeTFQZ2hsM2l0Tm5lYUIyNWk4R2ZmVVdjXzljekdlSURYcmRRQTBaOUJZMWFnVmpYRFBuYUJOclV1NEsxWlVkOHZYMzZEeUZScmpZWDZsN1FBc3BUbUJqSHFwTzh5T1RncjIzczVaZUEyWU1NdUN2a3lpdFBWMjYxbTBVczA5OTloWnI5MlNtc0RJcXVaYkF6SmxVWnhiLW1aT3l2bGlRU2R6Z1hUTXFRZkI3bFdjY2hTVjN0VXk3NFNYWFNUbU1vVWZ1MlFqZDR5bHMxQmhzdWd2c0VZZnlCQU9nZWZTd19FSDJjN3oxZEJHUm9qMUQ1VkxWU3lIdUNxZHlGNm5fc2pZY2luSEhFWW9NTXRncENEeGVtVkZWME5HOXlIekZ4RVN4aHc1TzM4VkZIZERlWHloTFVyakFOYU9SM0g0OFk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 13:03:56"
+      }
+    ],
     "facebook": [
       {
         "title": "九合一大選候選人登記，週五是最後截止日期，雲林縣長綠營參選人劉建國，在數百位選民支持聲下，來到選委會，壓線登記參選！他強調雲林不能再走舊思維、舊作為，要由全民政治取代家族政治！ - facebook.com",
@@ -338,11 +389,42 @@
   },
   "alias_by_platform_24h": [
     {
+      "platform": "news",
+      "count": 5
+    },
+    {
       "platform": "facebook",
       "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "張嘉郡今公布競選主視覺「雲林更好」 他出任總幹事 - 壹蘋新聞網",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUNPZlY4a2xSSllhY2ItYVo0NWVVb2xhLWQzc1V2RVZhT3dIcTNoUWhJQndqcDcxOTZUbnFYUjBETTF3eWRjYTdHYWhZYmJrTG1jTnNOYXF5NUFvTW5CZlhlejRISnpXbnVoTll3NG5iY2JhbVhYd0pGVFJkLVZLa3Z2Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 14:01:00"
+      },
+      {
+        "title": "張嘉郡眼眶紅了！公布競選團隊 總幹事這句話戳心 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByVVljdEM5OC01dkVtQmxUNldpM1RmeHRNc0pkTm9hNXlZOG53c2xYaTA5YXhtdVBSTWpvR3FfbEZhNHRjejZzdHd0dDZacG1kd0dRZ09wR3RWSGdtSFQ2RHJNa1pUWVRGY2fSAW9BVV95cUxQYk5CTTQyNDYtR0hCUk5XSkNYcERtcnJtZVotUklSXzlPRUV6Rk02NzNxeno2NE81T2VXNEc5QzRZWENLdHA1UldzYVpYdnpQZVhvamMzRmp3Rl9QN1ZIU1NHeGhsWnFLZ0tJSDdOYVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 13:32:12"
+      },
+      {
+        "title": "張嘉郡競選團隊亮牌 這兩人出任正、副總幹事 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tajRvWjVUTXZNbnNWNDNxTERLb0VCN3BidnBJamJwS1lReFhGY2hmbktfWGwzZHBQMUFZMjVOOEFoc2J4X3pxWWZyb2tGWWhIdFNn0gFYQVVfeXFMUGMxeE13Qkx3ZDMwSEF4d2xiSmZHTk1zaEp3c2xrOUN0REJEcGFoVjM4VF9NRXZSUDJTRWpudDlDYlpGWmJWMDN5Q0NxZ0VrRTQ0WkxYalZVYQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 13:04:10"
+      },
+      {
+        "title": "張嘉郡競選團隊亮牌這兩人出任正、副總幹事| 2026九合一選舉 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mNjZEeEFzbnZweEJSVEdKOUo2aW1nOU1LeEVSTmozS3ltd3RGR05KNmdCSVZaMWxXM1dZSW9zRm5nWGRmYVIzUEZIVkhUejVnNXZYOEdFaFg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 13:04:10"
+      },
+      {
+        "title": "《咱的雲林、新的世代》張嘉郡曝競選歌曲 空心菜達人任總幹事 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPYjNLU290VFRrcmc3aDJmc2pYWDJHeWVmaGxldjJCb1MtZkF1U1dxbkUxb1l0aU5NaHNFUDV3c05MR29aeTFQZ2hsM2l0Tm5lYUIyNWk4R2ZmVVdjXzljekdlSURYcmRRQTBaOUJZMWFnVmpYRFBuYUJOclV1NEsxWlVkOHZYMzZEeUZScmpZWDZsN1FBc3BUbUJqSHFwTzh5T1RncjIzczVaZUEyWU1NdUN2a3lpdFBWMjYxbTBVczA5OTloWnI5MlNtc0RJcXVaYkF6SmxVWnhiLW1aT3l2bGlRU2R6Z1hUTXFRZkI3bFdjY2hTVjN0VXk3NFNYWFNUbU1vVWZ1MlFqZDR5bHMxQmhzdWd2c0VZZnlCQU9nZWZTd19FSDJjN3oxZEJHUm9qMUQ1VkxWU3lIdUNxZHlGNm5fc2pZY2luSEhFWW9NTXRncENEeGVtVkZWME5HOXlIekZ4RVN4aHc1TzM4VkZIZERlWHloTFVyakFOYU9SM0g0OFk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 13:03:56"
+      }
+    ],
     "facebook": [
       {
         "title": "九合一大選候選人登記，週五是最後截止日期，雲林縣長綠營參選人劉建國，在數百位選民支持聲下，來到選委會，壓線登記參選！他強調雲林不能再走舊思維、舊作為，要由全民政治取代家族政治！ - facebook.com",
@@ -352,15 +434,66 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 0,
+    "張嘉郡": 5,
     "劉建國": 1
   },
   "mention_compare_7d": {
-    "張嘉郡": 116,
+    "張嘉郡": 121,
     "劉建國": 107
   },
-  "top_news": [],
+  "top_news": [
+    {
+      "title": "張嘉郡今公布競選主視覺「雲林更好」 他出任總幹事 - 壹蘋新聞網",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUNPZlY4a2xSSllhY2ItYVo0NWVVb2xhLWQzc1V2RVZhT3dIcTNoUWhJQndqcDcxOTZUbnFYUjBETTF3eWRjYTdHYWhZYmJrTG1jTnNOYXF5NUFvTW5CZlhlejRISnpXbnVoTll3NG5iY2JhbVhYd0pGVFJkLVZLa3Z2Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-08 14:01:00"
+    },
+    {
+      "title": "張嘉郡眼眶紅了！公布競選團隊 總幹事這句話戳心 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByVVljdEM5OC01dkVtQmxUNldpM1RmeHRNc0pkTm9hNXlZOG53c2xYaTA5YXhtdVBSTWpvR3FfbEZhNHRjejZzdHd0dDZacG1kd0dRZ09wR3RWSGdtSFQ2RHJNa1pUWVRGY2fSAW9BVV95cUxQYk5CTTQyNDYtR0hCUk5XSkNYcERtcnJtZVotUklSXzlPRUV6Rk02NzNxeno2NE81T2VXNEc5QzRZWENLdHA1UldzYVpYdnpQZVhvamMzRmp3Rl9QN1ZIU1NHeGhsWnFLZ0tJSDdOYVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-08 13:32:12"
+    },
+    {
+      "title": "張嘉郡競選團隊亮牌 這兩人出任正、副總幹事 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tajRvWjVUTXZNbnNWNDNxTERLb0VCN3BidnBJamJwS1lReFhGY2hmbktfWGwzZHBQMUFZMjVOOEFoc2J4X3pxWWZyb2tGWWhIdFNn0gFYQVVfeXFMUGMxeE13Qkx3ZDMwSEF4d2xiSmZHTk1zaEp3c2xrOUN0REJEcGFoVjM4VF9NRXZSUDJTRWpudDlDYlpGWmJWMDN5Q0NxZ0VrRTQ0WkxYalZVYQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-08 13:04:10"
+    },
+    {
+      "title": "張嘉郡競選團隊亮牌這兩人出任正、副總幹事| 2026九合一選舉 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mNjZEeEFzbnZweEJSVEdKOUo2aW1nOU1LeEVSTmozS3ltd3RGR05KNmdCSVZaMWxXM1dZSW9zRm5nWGRmYVIzUEZIVkhUejVnNXZYOEdFaFg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-08 13:04:10"
+    },
+    {
+      "title": "《咱的雲林、新的世代》張嘉郡曝競選歌曲 空心菜達人任總幹事 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPYjNLU290VFRrcmc3aDJmc2pYWDJHeWVmaGxldjJCb1MtZkF1U1dxbkUxb1l0aU5NaHNFUDV3c05MR29aeTFQZ2hsM2l0Tm5lYUIyNWk4R2ZmVVdjXzljekdlSURYcmRRQTBaOUJZMWFnVmpYRFBuYUJOclV1NEsxWlVkOHZYMzZEeUZScmpZWDZsN1FBc3BUbUJqSHFwTzh5T1RncjIzczVaZUEyWU1NdUN2a3lpdFBWMjYxbTBVczA5OTloWnI5MlNtc0RJcXVaYkF6SmxVWnhiLW1aT3l2bGlRU2R6Z1hUTXFRZkI3bFdjY2hTVjN0VXk3NFNYWFNUbU1vVWZ1MlFqZDR5bHMxQmhzdWd2c0VZZnlCQU9nZWZTd19FSDJjN3oxZEJHUm9qMUQ1VkxWU3lIdUNxZHlGNm5fc2pZY2luSEhFWW9NTXRncENEeGVtVkZWME5HOXlIekZ4RVN4aHc1TzM4VkZIZERlWHloTFVyakFOYU9SM0g0OFk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-08 13:03:56"
+    }
+  ],
   "top_news_7d": [
+    {
+      "title": "張嘉郡今公布競選主視覺「雲林更好」 他出任總幹事 - 壹蘋新聞網",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUNPZlY4a2xSSllhY2ItYVo0NWVVb2xhLWQzc1V2RVZhT3dIcTNoUWhJQndqcDcxOTZUbnFYUjBETTF3eWRjYTdHYWhZYmJrTG1jTnNOYXF5NUFvTW5CZlhlejRISnpXbnVoTll3NG5iY2JhbVhYd0pGVFJkLVZLa3Z2Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-08 14:01:00"
+    },
+    {
+      "title": "張嘉郡眼眶紅了！公布競選團隊 總幹事這句話戳心 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByVVljdEM5OC01dkVtQmxUNldpM1RmeHRNc0pkTm9hNXlZOG53c2xYaTA5YXhtdVBSTWpvR3FfbEZhNHRjejZzdHd0dDZacG1kd0dRZ09wR3RWSGdtSFQ2RHJNa1pUWVRGY2fSAW9BVV95cUxQYk5CTTQyNDYtR0hCUk5XSkNYcERtcnJtZVotUklSXzlPRUV6Rk02NzNxeno2NE81T2VXNEc5QzRZWENLdHA1UldzYVpYdnpQZVhvamMzRmp3Rl9QN1ZIU1NHeGhsWnFLZ0tJSDdOYVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-08 13:32:12"
+    },
+    {
+      "title": "張嘉郡競選團隊亮牌 這兩人出任正、副總幹事 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tajRvWjVUTXZNbnNWNDNxTERLb0VCN3BidnBJamJwS1lReFhGY2hmbktfWGwzZHBQMUFZMjVOOEFoc2J4X3pxWWZyb2tGWWhIdFNn0gFYQVVfeXFMUGMxeE13Qkx3ZDMwSEF4d2xiSmZHTk1zaEp3c2xrOUN0REJEcGFoVjM4VF9NRXZSUDJTRWpudDlDYlpGWmJWMDN5Q0NxZ0VrRTQ0WkxYalZVYQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-08 13:04:10"
+    },
+    {
+      "title": "張嘉郡競選團隊亮牌這兩人出任正、副總幹事| 2026九合一選舉 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mNjZEeEFzbnZweEJSVEdKOUo2aW1nOU1LeEVSTmozS3ltd3RGR05KNmdCSVZaMWxXM1dZSW9zRm5nWGRmYVIzUEZIVkhUejVnNXZYOEdFaFg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-08 13:04:10"
+    },
+    {
+      "title": "《咱的雲林、新的世代》張嘉郡曝競選歌曲 空心菜達人任總幹事 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPYjNLU290VFRrcmc3aDJmc2pYWDJHeWVmaGxldjJCb1MtZkF1U1dxbkUxb1l0aU5NaHNFUDV3c05MR29aeTFQZ2hsM2l0Tm5lYUIyNWk4R2ZmVVdjXzljekdlSURYcmRRQTBaOUJZMWFnVmpYRFBuYUJOclV1NEsxWlVkOHZYMzZEeUZScmpZWDZsN1FBc3BUbUJqSHFwTzh5T1RncjIzczVaZUEyWU1NdUN2a3lpdFBWMjYxbTBVczA5OTloWnI5MlNtc0RJcXVaYkF6SmxVWnhiLW1aT3l2bGlRU2R6Z1hUTXFRZkI3bFdjY2hTVjN0VXk3NFNYWFNUbU1vVWZ1MlFqZDR5bHMxQmhzdWd2c0VZZnlCQU9nZWZTd19FSDJjN3oxZEJHUm9qMUQ1VkxWU3lIdUNxZHlGNm5fc2pZY2luSEhFWW9NTXRncENEeGVtVkZWME5HOXlIekZ4RVN4aHc1TzM4VkZIZERlWHloTFVyakFOYU9SM0g0OFk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-08 13:03:56"
+    },
     {
       "title": "《2026雲林縣長選情初探》劉建國拚山海整合 張嘉郡甩家族標籤 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVZUN6MGxKOTNBOVRTb2lwQms2dEF1NjQ3c1Bvd3pxOG1Ld1gwZ1dsT2l6U0ZvX1VrcGU3MWpvUmZ0Wnl0N0pxQTFuZDNIQk9Lb3o2NHZyYUpMcWxfTzJTSdIBZkFVX3lxTE5ldk9uWTNVWWNiLWtFS0hjTl90eXNPTmNWLXFwVjdHTUE4bUtMaUNKMHlqMjd3UnZZRTY4Tlh0Z3FrdV9HREJ0LTAtRnJaTkR4aXBaTGpTX1dGR2N3WkU5XzZTMnM5UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -435,31 +568,6 @@
       "title": "雲林家扶頒發393學子助學金 張嘉郡、黃凱鼓勵勇敢追夢 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wTUVYLTN2Sng4aFgyYklnc2VwUlRZQ2paRVpwcnB0WlZVUjZLSHdMNDRIX3htMXlZN2hycVB2MEkzb1lUS1FQelJ0TUtxYnNyUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-05 15:41:00"
-    },
-    {
-      "title": "雲林毛巾嘉年華進軍台北 蔣萬安、張麗善、張嘉郡花博同台開幕 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQQ3dhNHhtanJXNFZ1dEtER0U2YnN1N294ZWR4UnNYYWtPZ2lJdkdTRjZkelNIQmNQNHdBaUJxaFlmTXUwekpNbHp5RTFKdUIwSGVWcVJtR1dwOTM5bjNfNG5RRl9yaWhyLWJiQUQwQmQ1clNUaWN0YW5UU0Z6Y2dTd0dDLUpZTVJvU1VUOHdfUjlFNFFXdUxwMDRVb0xoN0hIajZBRGZkR004d3lpUWxPTVVjSUxZTGtKU2djMXNQUU56M3ExTFNlTi15Q3VGdEo2YWhsQW93Tnk5SUs4M3N4V2VCVTEzbUJIUjVZMzZrWmcxWHBMQ1NiREF0WWt4V3R2T1VwY1MyNFRSbkVKNzBXUFFXYzFQanJBQW00eGV6YkwwYU9YaTlLblozWTQyMkQwSkVKa1ZQMXJSbkVuLTcyMklteXJPeTVkUjdpMEVPQVdqalQ2TldDbjhBN3k5dUtyeFdjSExlWGpicFJhYTA2WHZqRng2V2lGMFExTkZqOU9UbjR5YmR1WWdpcUZocUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-05 15:23:08"
-    },
-    {
-      "title": "雲林毛巾嘉年華進軍台北 蔣萬安、張麗善、 張嘉郡花博同台開幕 - 匯流新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBETjROR3NJRGVyRVZBQXBDd2pFY29tQVd0S2dVdUhpa0Vpa3JHX3VJckRNcmUwLW1MLUdFamJFNlhWd3JTd1E0RFp3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-05 15:23:08"
-    },
-    {
-      "title": "雲林毛巾嘉年華進軍台北蔣萬安、張麗善、張嘉郡花博同台開幕- 政治新聞- PChome Online 新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMDE3MWt4Z2JKV0RrN3Jrc3RybU5QWDRTTUJaMUc5RUxFVUZSQ19GZjVjVVJLRkktNUUxeXp0dlVqSTc1d2E5RU93REx3Ul9mekt2dUtOM3lhZlh5d0c0MnZmc3NFcktUQzZsWVRodm5SWUN1NG9Kc2Rfa3o3QmZrR0EycWliYlU0QkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-05 15:23:08"
-    },
-    {
-      "title": "盧秀燕南下雲林造勢 送張嘉郡蒜頭祝凍蒜 - 台視全球資訊網",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qNlRsSXBxc3VlS2dTaEJHTUFsVmdwOC1leGlHdUtEVVZGVEI4SW5JWDNZS1R5SU9PTXJEaUdobE9jYmluOG1RbGRhajBFZ0JMNFdkbUwxbVR1aGd3TVhvWUduYWJEZnh6YlZDWHVqaVBjY1QxZ0p6dkV0eUI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-05 13:51:05"
-    },
-    {
-      "title": "劉建國完成雲林縣長參選登記 高喊雲林大團結為改變而戰 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNNUJFX3lDaFJocHRzLXZlU0dKTjRrVmsxUVpick54ekhqM0Zvek1MNHJ4bkQwR21qR0IyRkpoVVIwaUJ0VGtBbWVfQWNCZmxjTGMtakRFU1ZtVEQwSUcxcXlMX2JHR0ZoRmMzTkJlUURNdlB3d19Jb3lzaVIxOU10NjV3X05NQzJTYzVVWi1jYWZsY2g0d0xkdlczeTdybUtHT0NQMFZQMDhzLWdRRmQyaGVOaHAweFMzYUl0LURVUlU0cHdDZ1pUbldrSVJNMVVhdlZKcTBCNElnVVJwRmJJcTFTNGN3X3FuekhVaXh5Vk4xSmxnNGt5eU5UWHZFT1p6dE1qdnFWdnNMQTczTVpyYk16RmdhaXo1OE92M2JTSExTZzFRVUh3MlFXTndUaC0tMGx3UEd1dU9xUTFQeDBhVkRDeFhCSnd1QU5uY1kza2xmdTJMUDhCR3FvVGpUVWJBS3RLWmxBU21jTkdqZ0owVk92cmpEcjFTaVZEcHYwQWU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-05 08:43:49"
     }
   ],
   "latest_facebook_20": [
@@ -566,6 +674,31 @@
   ],
   "latest_news_20": [
     {
+      "title": "張嘉郡今公布競選主視覺「雲林更好」 他出任總幹事 - 壹蘋新聞網",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUNPZlY4a2xSSllhY2ItYVo0NWVVb2xhLWQzc1V2RVZhT3dIcTNoUWhJQndqcDcxOTZUbnFYUjBETTF3eWRjYTdHYWhZYmJrTG1jTnNOYXF5NUFvTW5CZlhlejRISnpXbnVoTll3NG5iY2JhbVhYd0pGVFJkLVZLa3Z2Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-08 14:01:00"
+    },
+    {
+      "title": "張嘉郡眼眶紅了！公布競選團隊 總幹事這句話戳心 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByVVljdEM5OC01dkVtQmxUNldpM1RmeHRNc0pkTm9hNXlZOG53c2xYaTA5YXhtdVBSTWpvR3FfbEZhNHRjejZzdHd0dDZacG1kd0dRZ09wR3RWSGdtSFQ2RHJNa1pUWVRGY2fSAW9BVV95cUxQYk5CTTQyNDYtR0hCUk5XSkNYcERtcnJtZVotUklSXzlPRUV6Rk02NzNxeno2NE81T2VXNEc5QzRZWENLdHA1UldzYVpYdnpQZVhvamMzRmp3Rl9QN1ZIU1NHeGhsWnFLZ0tJSDdOYVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-08 13:32:12"
+    },
+    {
+      "title": "張嘉郡競選團隊亮牌 這兩人出任正、副總幹事 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tajRvWjVUTXZNbnNWNDNxTERLb0VCN3BidnBJamJwS1lReFhGY2hmbktfWGwzZHBQMUFZMjVOOEFoc2J4X3pxWWZyb2tGWWhIdFNn0gFYQVVfeXFMUGMxeE13Qkx3ZDMwSEF4d2xiSmZHTk1zaEp3c2xrOUN0REJEcGFoVjM4VF9NRXZSUDJTRWpudDlDYlpGWmJWMDN5Q0NxZ0VrRTQ0WkxYalZVYQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-08 13:04:10"
+    },
+    {
+      "title": "張嘉郡競選團隊亮牌這兩人出任正、副總幹事| 2026九合一選舉 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mNjZEeEFzbnZweEJSVEdKOUo2aW1nOU1LeEVSTmozS3ltd3RGR05KNmdCSVZaMWxXM1dZSW9zRm5nWGRmYVIzUEZIVkhUejVnNXZYOEdFaFg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-08 13:04:10"
+    },
+    {
+      "title": "《咱的雲林、新的世代》張嘉郡曝競選歌曲 空心菜達人任總幹事 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPYjNLU290VFRrcmc3aDJmc2pYWDJHeWVmaGxldjJCb1MtZkF1U1dxbkUxb1l0aU5NaHNFUDV3c05MR29aeTFQZ2hsM2l0Tm5lYUIyNWk4R2ZmVVdjXzljekdlSURYcmRRQTBaOUJZMWFnVmpYRFBuYUJOclV1NEsxWlVkOHZYMzZEeUZScmpZWDZsN1FBc3BUbUJqSHFwTzh5T1RncjIzczVaZUEyWU1NdUN2a3lpdFBWMjYxbTBVczA5OTloWnI5MlNtc0RJcXVaYkF6SmxVWnhiLW1aT3l2bGlRU2R6Z1hUTXFRZkI3bFdjY2hTVjN0VXk3NFNYWFNUbU1vVWZ1MlFqZDR5bHMxQmhzdWd2c0VZZnlCQU9nZWZTd19FSDJjN3oxZEJHUm9qMUQ1VkxWU3lIdUNxZHlGNm5fc2pZY2luSEhFWW9NTXRncENEeGVtVkZWME5HOXlIekZ4RVN4aHc1TzM4VkZIZERlWHloTFVyakFOYU9SM0g0OFk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-08 13:03:56"
+    },
+    {
       "title": "《2026雲林縣長選情初探》劉建國拚山海整合 張嘉郡甩家族標籤 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVZUN6MGxKOTNBOVRTb2lwQms2dEF1NjQ3c1Bvd3pxOG1Ld1gwZ1dsT2l6U0ZvX1VrcGU3MWpvUmZ0Wnl0N0pxQTFuZDNIQk9Lb3o2NHZyYUpMcWxfTzJTSdIBZkFVX3lxTE5ldk9uWTNVWWNiLWtFS0hjTl90eXNPTmNWLXFwVjdHTUE4bUtMaUNKMHlqMjd3UnZZRTY4Tlh0Z3FrdV9HREJ0LTAtRnJaTkR4aXBaTGpTX1dGR2N3WkU5XzZTMnM5UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-07 05:30:00"
@@ -639,31 +772,6 @@
       "title": "雲林家扶頒發393學子助學金 張嘉郡、黃凱鼓勵勇敢追夢 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wTUVYLTN2Sng4aFgyYklnc2VwUlRZQ2paRVpwcnB0WlZVUjZLSHdMNDRIX3htMXlZN2hycVB2MEkzb1lUS1FQelJ0TUtxYnNyUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-05 15:41:00"
-    },
-    {
-      "title": "雲林毛巾嘉年華進軍台北 蔣萬安、張麗善、張嘉郡花博同台開幕 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQQ3dhNHhtanJXNFZ1dEtER0U2YnN1N294ZWR4UnNYYWtPZ2lJdkdTRjZkelNIQmNQNHdBaUJxaFlmTXUwekpNbHp5RTFKdUIwSGVWcVJtR1dwOTM5bjNfNG5RRl9yaWhyLWJiQUQwQmQ1clNUaWN0YW5UU0Z6Y2dTd0dDLUpZTVJvU1VUOHdfUjlFNFFXdUxwMDRVb0xoN0hIajZBRGZkR004d3lpUWxPTVVjSUxZTGtKU2djMXNQUU56M3ExTFNlTi15Q3VGdEo2YWhsQW93Tnk5SUs4M3N4V2VCVTEzbUJIUjVZMzZrWmcxWHBMQ1NiREF0WWt4V3R2T1VwY1MyNFRSbkVKNzBXUFFXYzFQanJBQW00eGV6YkwwYU9YaTlLblozWTQyMkQwSkVKa1ZQMXJSbkVuLTcyMklteXJPeTVkUjdpMEVPQVdqalQ2TldDbjhBN3k5dUtyeFdjSExlWGpicFJhYTA2WHZqRng2V2lGMFExTkZqOU9UbjR5YmR1WWdpcUZocUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-05 15:23:08"
-    },
-    {
-      "title": "雲林毛巾嘉年華進軍台北 蔣萬安、張麗善、 張嘉郡花博同台開幕 - 匯流新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBETjROR3NJRGVyRVZBQXBDd2pFY29tQVd0S2dVdUhpa0Vpa3JHX3VJckRNcmUwLW1MLUdFamJFNlhWd3JTd1E0RFp3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-05 15:23:08"
-    },
-    {
-      "title": "雲林毛巾嘉年華進軍台北蔣萬安、張麗善、張嘉郡花博同台開幕- 政治新聞- PChome Online 新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMDE3MWt4Z2JKV0RrN3Jrc3RybU5QWDRTTUJaMUc5RUxFVUZSQ19GZjVjVVJLRkktNUUxeXp0dlVqSTc1d2E5RU93REx3Ul9mekt2dUtOM3lhZlh5d0c0MnZmc3NFcktUQzZsWVRodm5SWUN1NG9Kc2Rfa3o3QmZrR0EycWliYlU0QkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-05 15:23:08"
-    },
-    {
-      "title": "盧秀燕南下雲林造勢 送張嘉郡蒜頭祝凍蒜 - 台視全球資訊網",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qNlRsSXBxc3VlS2dTaEJHTUFsVmdwOC1leGlHdUtEVVZGVEI4SW5JWDNZS1R5SU9PTXJEaUdobE9jYmluOG1RbGRhajBFZ0JMNFdkbUwxbVR1aGd3TVhvWUduYWJEZnh6YlZDWHVqaVBjY1QxZ0p6dkV0eUI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-05 13:51:05"
-    },
-    {
-      "title": "劉建國完成雲林縣長參選登記 高喊雲林大團結為改變而戰 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNNUJFX3lDaFJocHRzLXZlU0dKTjRrVmsxUVpick54ekhqM0Zvek1MNHJ4bkQwR21qR0IyRkpoVVIwaUJ0VGtBbWVfQWNCZmxjTGMtakRFU1ZtVEQwSUcxcXlMX2JHR0ZoRmMzTkJlUURNdlB3d19Jb3lzaVIxOU10NjV3X05NQzJTYzVVWi1jYWZsY2g0d0xkdlczeTdybUtHT0NQMFZQMDhzLWdRRmQyaGVOaHAweFMzYUl0LURVUlU0cHdDZ1pUbldrSVJNMVVhdlZKcTBCNElnVVJwRmJJcTFTNGN3X3FuekhVaXh5Vk4xSmxnNGt5eU5UWHZFT1p6dE1qdnFWdnNMQTczTVpyYk16RmdhaXo1OE92M2JTSExTZzFRVUh3MlFXTndUaC0tMGx3UEd1dU9xUTFQeDBhVkRDeFhCSnd1QU5uY1kza2xmdTJMUDhCR3FvVGpUVWJBS3RLWmxBU21jTkdqZ0owVk92cmpEcjFTaVZEcHYwQWU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-05 08:43:49"
     }
   ],
   "person_sections": {
@@ -772,6 +880,31 @@
       ],
       "news": [
         {
+          "title": "張嘉郡今公布競選主視覺「雲林更好」 他出任總幹事 - 壹蘋新聞網",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUNPZlY4a2xSSllhY2ItYVo0NWVVb2xhLWQzc1V2RVZhT3dIcTNoUWhJQndqcDcxOTZUbnFYUjBETTF3eWRjYTdHYWhZYmJrTG1jTnNOYXF5NUFvTW5CZlhlejRISnpXbnVoTll3NG5iY2JhbVhYd0pGVFJkLVZLa3Z2Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-08 14:01:00"
+        },
+        {
+          "title": "張嘉郡眼眶紅了！公布競選團隊 總幹事這句話戳心 - 自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByVVljdEM5OC01dkVtQmxUNldpM1RmeHRNc0pkTm9hNXlZOG53c2xYaTA5YXhtdVBSTWpvR3FfbEZhNHRjejZzdHd0dDZacG1kd0dRZ09wR3RWSGdtSFQ2RHJNa1pUWVRGY2fSAW9BVV95cUxQYk5CTTQyNDYtR0hCUk5XSkNYcERtcnJtZVotUklSXzlPRUV6Rk02NzNxeno2NE81T2VXNEc5QzRZWENLdHA1UldzYVpYdnpQZVhvamMzRmp3Rl9QN1ZIU1NHeGhsWnFLZ0tJSDdOYVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-08 13:32:12"
+        },
+        {
+          "title": "張嘉郡競選團隊亮牌 這兩人出任正、副總幹事 - UDN",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tajRvWjVUTXZNbnNWNDNxTERLb0VCN3BidnBJamJwS1lReFhGY2hmbktfWGwzZHBQMUFZMjVOOEFoc2J4X3pxWWZyb2tGWWhIdFNn0gFYQVVfeXFMUGMxeE13Qkx3ZDMwSEF4d2xiSmZHTk1zaEp3c2xrOUN0REJEcGFoVjM4VF9NRXZSUDJTRWpudDlDYlpGWmJWMDN5Q0NxZ0VrRTQ0WkxYalZVYQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-08 13:04:10"
+        },
+        {
+          "title": "張嘉郡競選團隊亮牌這兩人出任正、副總幹事| 2026九合一選舉 - UDN",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mNjZEeEFzbnZweEJSVEdKOUo2aW1nOU1LeEVSTmozS3ltd3RGR05KNmdCSVZaMWxXM1dZSW9zRm5nWGRmYVIzUEZIVkhUejVnNXZYOEdFaFg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-08 13:04:10"
+        },
+        {
+          "title": "《咱的雲林、新的世代》張嘉郡曝競選歌曲 空心菜達人任總幹事 - tw.news.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPYjNLU290VFRrcmc3aDJmc2pYWDJHeWVmaGxldjJCb1MtZkF1U1dxbkUxb1l0aU5NaHNFUDV3c05MR29aeTFQZ2hsM2l0Tm5lYUIyNWk4R2ZmVVdjXzljekdlSURYcmRRQTBaOUJZMWFnVmpYRFBuYUJOclV1NEsxWlVkOHZYMzZEeUZScmpZWDZsN1FBc3BUbUJqSHFwTzh5T1RncjIzczVaZUEyWU1NdUN2a3lpdFBWMjYxbTBVczA5OTloWnI5MlNtc0RJcXVaYkF6SmxVWnhiLW1aT3l2bGlRU2R6Z1hUTXFRZkI3bFdjY2hTVjN0VXk3NFNYWFNUbU1vVWZ1MlFqZDR5bHMxQmhzdWd2c0VZZnlCQU9nZWZTd19FSDJjN3oxZEJHUm9qMUQ1VkxWU3lIdUNxZHlGNm5fc2pZY2luSEhFWW9NTXRncENEeGVtVkZWME5HOXlIekZ4RVN4aHc1TzM4VkZIZERlWHloTFVyakFOYU9SM0g0OFk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-08 13:03:56"
+        },
+        {
           "title": "《2026雲林縣長選情初探》劉建國拚山海整合 張嘉郡甩家族標籤 - 自由時報",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVZUN6MGxKOTNBOVRTb2lwQms2dEF1NjQ3c1Bvd3pxOG1Ld1gwZ1dsT2l6U0ZvX1VrcGU3MWpvUmZ0Wnl0N0pxQTFuZDNIQk9Lb3o2NHZyYUpMcWxfTzJTSdIBZkFVX3lxTE5ldk9uWTNVWWNiLWtFS0hjTl90eXNPTmNWLXFwVjdHTUE4bUtMaUNKMHlqMjd3UnZZRTY4Tlh0Z3FrdV9HREJ0LTAtRnJaTkR4aXBaTGpTX1dGR2N3WkU5XzZTMnM5UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-07 05:30:00"
@@ -845,31 +978,6 @@
           "title": "雲林家扶頒發393學子助學金 張嘉郡、黃凱鼓勵勇敢追夢 - 蕃新聞",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wTUVYLTN2Sng4aFgyYklnc2VwUlRZQ2paRVpwcnB0WlZVUjZLSHdMNDRIX3htMXlZN2hycVB2MEkzb1lUS1FQelJ0TUtxYnNyUVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-05 15:41:00"
-        },
-        {
-          "title": "雲林毛巾嘉年華進軍台北 蔣萬安、張麗善、張嘉郡花博同台開幕 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQQ3dhNHhtanJXNFZ1dEtER0U2YnN1N294ZWR4UnNYYWtPZ2lJdkdTRjZkelNIQmNQNHdBaUJxaFlmTXUwekpNbHp5RTFKdUIwSGVWcVJtR1dwOTM5bjNfNG5RRl9yaWhyLWJiQUQwQmQ1clNUaWN0YW5UU0Z6Y2dTd0dDLUpZTVJvU1VUOHdfUjlFNFFXdUxwMDRVb0xoN0hIajZBRGZkR004d3lpUWxPTVVjSUxZTGtKU2djMXNQUU56M3ExTFNlTi15Q3VGdEo2YWhsQW93Tnk5SUs4M3N4V2VCVTEzbUJIUjVZMzZrWmcxWHBMQ1NiREF0WWt4V3R2T1VwY1MyNFRSbkVKNzBXUFFXYzFQanJBQW00eGV6YkwwYU9YaTlLblozWTQyMkQwSkVKa1ZQMXJSbkVuLTcyMklteXJPeTVkUjdpMEVPQVdqalQ2TldDbjhBN3k5dUtyeFdjSExlWGpicFJhYTA2WHZqRng2V2lGMFExTkZqOU9UbjR5YmR1WWdpcUZocUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-05 15:23:08"
-        },
-        {
-          "title": "雲林毛巾嘉年華進軍台北 蔣萬安、張麗善、 張嘉郡花博同台開幕 - 匯流新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBETjROR3NJRGVyRVZBQXBDd2pFY29tQVd0S2dVdUhpa0Vpa3JHX3VJckRNcmUwLW1MLUdFamJFNlhWd3JTd1E0RFp3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-05 15:23:08"
-        },
-        {
-          "title": "雲林毛巾嘉年華進軍台北蔣萬安、張麗善、張嘉郡花博同台開幕- 政治新聞- PChome Online 新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMDE3MWt4Z2JKV0RrN3Jrc3RybU5QWDRTTUJaMUc5RUxFVUZSQ19GZjVjVVJLRkktNUUxeXp0dlVqSTc1d2E5RU93REx3Ul9mekt2dUtOM3lhZlh5d0c0MnZmc3NFcktUQzZsWVRodm5SWUN1NG9Kc2Rfa3o3QmZrR0EycWliYlU0QkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-05 15:23:08"
-        },
-        {
-          "title": "盧秀燕南下雲林造勢 送張嘉郡蒜頭祝凍蒜 - 台視全球資訊網",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qNlRsSXBxc3VlS2dTaEJHTUFsVmdwOC1leGlHdUtEVVZGVEI4SW5JWDNZS1R5SU9PTXJEaUdobE9jYmluOG1RbGRhajBFZ0JMNFdkbUwxbVR1aGd3TVhvWUduYWJEZnh6YlZDWHVqaVBjY1QxZ0p6dkV0eUI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-05 13:51:05"
-        },
-        {
-          "title": "為農民打通銷路！張嘉郡行銷斗六文旦 號召全民挺農 - 蕃新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uY0sxNHJhUkVsM2lVT2xHd3g4ODlqRFRUaVVFSHVkYUNkZjhKaGFhVTlJbkJBczhSRjk4VUhLY19NeFFlRDZUTThvSlJGVGNDN1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-05 08:43:00"
         }
       ]
     },
@@ -1081,6 +1189,33 @@
     }
   },
   "latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "張嘉郡今公布競選主視覺「雲林更好」 他出任總幹事 - 壹蘋新聞網",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUNPZlY4a2xSSllhY2ItYVo0NWVVb2xhLWQzc1V2RVZhT3dIcTNoUWhJQndqcDcxOTZUbnFYUjBETTF3eWRjYTdHYWhZYmJrTG1jTnNOYXF5NUFvTW5CZlhlejRISnpXbnVoTll3NG5iY2JhbVhYd0pGVFJkLVZLa3Z2Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 14:01:00"
+      },
+      {
+        "title": "張嘉郡眼眶紅了！公布競選團隊 總幹事這句話戳心 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByVVljdEM5OC01dkVtQmxUNldpM1RmeHRNc0pkTm9hNXlZOG53c2xYaTA5YXhtdVBSTWpvR3FfbEZhNHRjejZzdHd0dDZacG1kd0dRZ09wR3RWSGdtSFQ2RHJNa1pUWVRGY2fSAW9BVV95cUxQYk5CTTQyNDYtR0hCUk5XSkNYcERtcnJtZVotUklSXzlPRUV6Rk02NzNxeno2NE81T2VXNEc5QzRZWENLdHA1UldzYVpYdnpQZVhvamMzRmp3Rl9QN1ZIU1NHeGhsWnFLZ0tJSDdOYVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 13:32:12"
+      },
+      {
+        "title": "張嘉郡競選團隊亮牌 這兩人出任正、副總幹事 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tajRvWjVUTXZNbnNWNDNxTERLb0VCN3BidnBJamJwS1lReFhGY2hmbktfWGwzZHBQMUFZMjVOOEFoc2J4X3pxWWZyb2tGWWhIdFNn0gFYQVVfeXFMUGMxeE13Qkx3ZDMwSEF4d2xiSmZHTk1zaEp3c2xrOUN0REJEcGFoVjM4VF9NRXZSUDJTRWpudDlDYlpGWmJWMDN5Q0NxZ0VrRTQ0WkxYalZVYQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 13:04:10"
+      },
+      {
+        "title": "張嘉郡競選團隊亮牌這兩人出任正、副總幹事| 2026九合一選舉 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mNjZEeEFzbnZweEJSVEdKOUo2aW1nOU1LeEVSTmozS3ltd3RGR05KNmdCSVZaMWxXM1dZSW9zRm5nWGRmYVIzUEZIVkhUejVnNXZYOEdFaFg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 13:04:10"
+      },
+      {
+        "title": "《咱的雲林、新的世代》張嘉郡曝競選歌曲 空心菜達人任總幹事 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPYjNLU290VFRrcmc3aDJmc2pYWDJHeWVmaGxldjJCb1MtZkF1U1dxbkUxb1l0aU5NaHNFUDV3c05MR29aeTFQZ2hsM2l0Tm5lYUIyNWk4R2ZmVVdjXzljekdlSURYcmRRQTBaOUJZMWFnVmpYRFBuYUJOclV1NEsxWlVkOHZYMzZEeUZScmpZWDZsN1FBc3BUbUJqSHFwTzh5T1RncjIzczVaZUEyWU1NdUN2a3lpdFBWMjYxbTBVczA5OTloWnI5MlNtc0RJcXVaYkF6SmxVWnhiLW1aT3l2bGlRU2R6Z1hUTXFRZkI3bFdjY2hTVjN0VXk3NFNYWFNUbU1vVWZ1MlFqZDR5bHMxQmhzdWd2c0VZZnlCQU9nZWZTd19FSDJjN3oxZEJHUm9qMUQ1VkxWU3lIdUNxZHlGNm5fc2pZY2luSEhFWW9NTXRncENEeGVtVkZWME5HOXlIekZ4RVN4aHc1TzM4VkZIZERlWHloTFVyakFOYU9SM0g0OFk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 13:03:56"
+      }
+    ],
     "facebook": [
       {
         "title": "九合一大選候選人登記，週五是最後截止日期，雲林縣長綠營參選人劉建國，在數百位選民支持聲下，來到選委會，壓線登記參選！他強調雲林不能再走舊思維、舊作為，要由全民政治取代家族政治！ - facebook.com",
@@ -1091,6 +1226,31 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "張嘉郡今公布競選主視覺「雲林更好」 他出任總幹事 - 壹蘋新聞網",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUNPZlY4a2xSSllhY2ItYVo0NWVVb2xhLWQzc1V2RVZhT3dIcTNoUWhJQndqcDcxOTZUbnFYUjBETTF3eWRjYTdHYWhZYmJrTG1jTnNOYXF5NUFvTW5CZlhlejRISnpXbnVoTll3NG5iY2JhbVhYd0pGVFJkLVZLa3Z2Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 14:01:00"
+      },
+      {
+        "title": "張嘉郡眼眶紅了！公布競選團隊 總幹事這句話戳心 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByVVljdEM5OC01dkVtQmxUNldpM1RmeHRNc0pkTm9hNXlZOG53c2xYaTA5YXhtdVBSTWpvR3FfbEZhNHRjejZzdHd0dDZacG1kd0dRZ09wR3RWSGdtSFQ2RHJNa1pUWVRGY2fSAW9BVV95cUxQYk5CTTQyNDYtR0hCUk5XSkNYcERtcnJtZVotUklSXzlPRUV6Rk02NzNxeno2NE81T2VXNEc5QzRZWENLdHA1UldzYVpYdnpQZVhvamMzRmp3Rl9QN1ZIU1NHeGhsWnFLZ0tJSDdOYVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 13:32:12"
+      },
+      {
+        "title": "張嘉郡競選團隊亮牌 這兩人出任正、副總幹事 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tajRvWjVUTXZNbnNWNDNxTERLb0VCN3BidnBJamJwS1lReFhGY2hmbktfWGwzZHBQMUFZMjVOOEFoc2J4X3pxWWZyb2tGWWhIdFNn0gFYQVVfeXFMUGMxeE13Qkx3ZDMwSEF4d2xiSmZHTk1zaEp3c2xrOUN0REJEcGFoVjM4VF9NRXZSUDJTRWpudDlDYlpGWmJWMDN5Q0NxZ0VrRTQ0WkxYalZVYQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 13:04:10"
+      },
+      {
+        "title": "張嘉郡競選團隊亮牌這兩人出任正、副總幹事| 2026九合一選舉 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mNjZEeEFzbnZweEJSVEdKOUo2aW1nOU1LeEVSTmozS3ltd3RGR05KNmdCSVZaMWxXM1dZSW9zRm5nWGRmYVIzUEZIVkhUejVnNXZYOEdFaFg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 13:04:10"
+      },
+      {
+        "title": "《咱的雲林、新的世代》張嘉郡曝競選歌曲 空心菜達人任總幹事 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPYjNLU290VFRrcmc3aDJmc2pYWDJHeWVmaGxldjJCb1MtZkF1U1dxbkUxb1l0aU5NaHNFUDV3c05MR29aeTFQZ2hsM2l0Tm5lYUIyNWk4R2ZmVVdjXzljekdlSURYcmRRQTBaOUJZMWFnVmpYRFBuYUJOclV1NEsxWlVkOHZYMzZEeUZScmpZWDZsN1FBc3BUbUJqSHFwTzh5T1RncjIzczVaZUEyWU1NdUN2a3lpdFBWMjYxbTBVczA5OTloWnI5MlNtc0RJcXVaYkF6SmxVWnhiLW1aT3l2bGlRU2R6Z1hUTXFRZkI3bFdjY2hTVjN0VXk3NFNYWFNUbU1vVWZ1MlFqZDR5bHMxQmhzdWd2c0VZZnlCQU9nZWZTd19FSDJjN3oxZEJHUm9qMUQ1VkxWU3lIdUNxZHlGNm5fc2pZY2luSEhFWW9NTXRncENEeGVtVkZWME5HOXlIekZ4RVN4aHc1TzM4VkZIZERlWHloTFVyakFOYU9SM0g0OFk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 13:03:56"
+      },
       {
         "title": "《2026雲林縣長選情初探》劉建國拚山海整合 張嘉郡甩家族標籤 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVZUN6MGxKOTNBOVRTb2lwQms2dEF1NjQ3c1Bvd3pxOG1Ld1gwZ1dsT2l6U0ZvX1VrcGU3MWpvUmZ0Wnl0N0pxQTFuZDNIQk9Lb3o2NHZyYUpMcWxfTzJTSdIBZkFVX3lxTE5ldk9uWTNVWWNiLWtFS0hjTl90eXNPTmNWLXFwVjdHTUE4bUtMaUNKMHlqMjd3UnZZRTY4Tlh0Z3FrdV9HREJ0LTAtRnJaTkR4aXBaTGpTX1dGR2N3WkU5XzZTMnM5UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1265,31 +1425,6 @@
         "title": "劉建國登記參選雲林縣長 提「雲林八好」拚下一個十年 - 大纪元",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PNllrdkZ4dk1Id1VIeEJyRzh1M1lpdG15MVRKWkt4dWl0Z0FpVldCS3M5cGdEa0RQbnhUd3paUUVMQU95cTVuN09tNlM0YWJfRENVckcybHRxZmlCczZlUzl5ZjHSAWRBVV95cUxPTzZZa3ZGeHZNSHdVSHhCckc4dTNZaXRteTFUSlpLeHVpdGdBaVZXQktzOXBnRGtEUG54VHd6WlFFTEFPeXE1bjdPbTZTNGFiX0RDVXJHMmx0cWZpQnM2ZVM5eWYx?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-04 22:22:00"
-      },
-      {
-        "title": "劉建國登記參選雲林縣長 提「雲林八好」拚下一個十年 - 大纪元",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wT0J1WmRybEpCaGlJZ3RYN01NNHd1bVFlYmZsNGhrVnZmUEp5UW9Qb2Q0T1FxNDl4czVjVEFFQ0ltZW1XdkZPRkFOTVlsT1AwVFM1R3A0c1A5cWZPUjBJ0gFkQVVfeXFMT082WWt2Rnh2TUh3VUh4QnJHOHUzWWl0bXkxVEpaS3h1aXRnQWlWV0JLczlwZ0RrRFBueFR3elpRRUxBT3lxNW43T202UzRhYl9EQ1VyRzJsdHFmaUJzNmVTOXlmMQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-04 22:22:00"
-      },
-      {
-        "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HN2RzTEVKckZqWFhjYWhKT19IX3NaclBLdThPUjJhM2ctaF9FZGUweDRrY3pQMlhhZk84SjZ6OVlIRnM5WlpsM1BiLTVwclA4QVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-04 21:48:00"
-      },
-      {
-        "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - tw.news.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxOTEJGRmo2bWF6TGVCeXdxVFZybjVOZGdXY0pYblp3T0xnT1BBbGQ2Mlh0SjlzQzFZUGp0ZmFiZFdlY2hmYTg0N0RXMG9LcVVkWEszazVRbUN6bGd5WldjSnJMcU1BN01KcHlWaFEtWGpBQmtfdXFTOXlSaDRHVUxpaTg1M1JxVjhMb2FYcGlGZUNVLS12Y3I1VEpQYkR0ZFROTmc3dWp3VDM1MF9Fa0dCUkpHN2I3aHRKQ3drOU1UTjZ6MW9xMENKZldkMlJONVJ0T1JCbUptMDFoWl9zRW9IRXREUDdMcEEtUXI1QjlLckVPU1VycUlIS185ZWl2a2tCU3hkXzVMazJySFgyNnJ6SVJzQkM5OUxZVUtMS3JwbUNHN1VuZWtoUGVBYzNsdWlWcmNGRkwtaWNaZXR5VEhNb0ZUSHh4ZmlsamNBSXRZekJ4alFLREJHemVkTk1NdW5FSHppRjlvaTlhOG1ockhTdXlod0RFOUpaMkZzdXVKQUNwdy1xbC1FWXV6c2toNDlaRC1KM1Vqd25QNF83ZlRLcjRLU0treFlqV3BNNg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-04 21:46:32"
-      },
-      {
-        "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa0MzWVpneDB4dWNzZnVDSzBmcGJQaW1sb3BLOWt4Zm1PZVBCbzRjSXNNRUNUczNwaGxQZ0ZweXd5dE5nMlRWRXBHTUgyaEZLQ3QxNDhnQkRCN1N5Y1Z3dk5zWExodnVrdDFyRTc5WXNPR3FYNzE5QlZHRzdqUE9naWFLZFpZRXZnYnVhbg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-04 21:46:32"
-      },
-      {
-        "title": "雲林選舉大爆炸！張嘉郡劉建國死鬥爭霸 73人搶議員 鄉鎮市長49人強碰 - PChome Online 股市",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2Y1S0I3OHhpSGhCMW5iTmpUOUJ3YldSeXF0V0VMZkVUeUFPTjNHRWJxYUNwUXJDVllyN2czYzdZajhwYVZOZkw2eWZGNzIxSGNHY29HbTMwRDhmLTJuSjdPZTJDLTlDYjRuTE1tcG5MVXJjcExCZU1lZVZEU2hHMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-04 21:46:32"
       }
     ],
     "facebook": [
@@ -1407,11 +1542,6 @@
         "title": "麥寮鄉城鄉運動公園佔地逾8公頃，加上附近的運動中心，吸引許多民眾前來運動放鬆，為了讓鄉親能使用更好的廁所環境，立委劉建國會同麥寮鄉公所及中央環境部前往會勘，並希望中央能全力支持地方建設，提升鄉親生活品質。 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMipghBVV95cUxNM2lkTERVYV9wUzFrNkkzY0RHMVZQQnpENEpycnZwWjhtMmlpTjFKdFhxT0JYQ19lRk5qS0tPZWplNnhQQ0JpaXRvdzF2czNJanVxS1M3TzYzY1BaeWdQQ3FydVJCNFZad0JjVmhDaGxPOVZWVkotLVE2WHN1Y1ZFd2ltUmo5OU1aSkhmQnlfQTdkbG5nYWhKWEgyajJkTW9STHBUWjNhY096S1UxUzVEX0x4M3hxZDFleWM3RzN4dTBSenNZUVJ2V1NfZDhiVVBtbUlxaUo1dE04Zk5RWExwYXFaOTBKSWhHVy1mNU5OaDZiZExEOUN1UHBlX3I2cHJNSldweUNROVg2LVBtS3R4bTctWWJNcWpIU2x3Yzl6RjVRMXdNZlJwWE85V0hyU2FUSVdNRDdMclBPRUppTEpsaWk0OWd4Yk9UbmdlNFZPSXVSVmVzcGc5UWdpNU1qUlJWejBwMTdQbU9LbnZ3Zi1ZYXFNaV93YjhTdHlJb2RtenBKS0tPZmdDZXkwdW1WcEpoQ1Z1Nm54M1RYNVJRaVU4UVNZaW5ZODlsY2IzZWFTOS1fQV8wcnhiUlhNWDlQcmc3Vko5ZzhGU01JVUllWFVlSkRldEFfZm11VGphQzNaeFdsalN6QXF2aFJXZXV5eks1d09heHF5UlAtN3FMU1M5cTNHVUFfNW5NdTRUUnFfbENLXzRqZUlqSmV6bTRFUmRvOGVZWEphclJpRmdUUDFXSU95ZzFGS0RBLTBSUTRXWVZhMlBwVzl5UzNBSFpjRjU1SE05ZXFIaWkzNV9TZDhZYmZXamZLblpNRG1CSHRfZlNGdjVBaUpTeXNNU1hZeG1nRGladkZQRnF5T1Itb0Fsb2ZfcHNJa09UVlFnbUsxN3NQVXhOR3g5TEZDNnNOLVg4Z0JMYWs1M1cwcVNndkg0VzA5bXlFR1ZRbjlfRUtMMk9lUGRVYjkwbUpwWjkwbTdDMFdPQ3ZhY2trb1FxM3NDQURoNTdXUmR2Q0JZUi1OQ0pnazF4RkVBU0FkX3lTbE1tYXkxMUxmWlRiTjY4REIxSGFZejFHZUt1SUltNDFqUHljQW1SVlVFamdBSTFXSDdKaFVyZ29vaXZVOVpKZWV4WVZfODhjT1dHMzM0d2szV3JXX1N0aU4yWWt3TmxiM1VLd2EwaVZIb0xITEhXZW1mczhYcUhzWXNDRWo5SUdyYVNkZkJqT1l6dGU1Q1ZSR1B6eE9kTUpSZEZGd2VDaHBIMllOSDVzYm5MYWtFRE80bWRPT3ZLbDNXUE1VclFUZ3hoaVRrZjZuWHNET2tBRjVVa3NrRG9TVkd3TnJCT2xGQUgwX3FKT3pSR1lfMXdUWE1nSmtXaXFaamRldU1nMW1nUkFYVURtc2kxRTFucjJkUHczaDd0WFE",
         "time": "2026-09-01 20:01:08"
-      },
-      {
-        "title": "支持國民黨，就是支持翁曉玲！ ​ 國民黨不分區立委 #翁曉玲 提案刪光了總統府向37家庇護工場採購中秋禮盒的預算，引發社會譁然後，大言不慚地甩鍋「感謝黨團支持提案」。 ​ 翁曉玲還堅持大刪文化部與公視預算，無視文化工作者的努力，一概嘲諷為「青鳥的飼料費 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi-wdBVV95cUxNd3d0ck1IejBIMWpYakJLd2lGZmhqOE5aay16UDA4QlNuaE5Tdk53Vm1BdlNfZzBtVkJ2MkRQN0ZsdHBibGRXWFJ1NUJ1VldKZHJVTWNUQzl5Rm1zNDJPM0xoMV9mMGppdENjUG9nSEVCbEUtaFZZR3hJOFdKVTNQcUFLdHV1Z2I0Z0FDUHNZeTFMcWw4dDA1UEUyNHM2RFFuTE1fRUgwdGlJN2RLX0tLby10UzZGVC1kMF9HYURZb2ZzSmxxZjlrT3pmZ0RfWTVEOWxjZ2NSNnJEQ245QThnanZOdXZQWEFtUVNCUEtDWmZ4czZaYl9fQmFneFB0R2RsVy1lZ3BRWlVpWVFYdWFoNDJ1VURONFpseC1VcmJiLXhaS0NjN0ZQS3RYNW5Oc21fODBabjRHVU4xeUJnX1JfZThHYzVDRC1LTGl4SFB4LXk4RjFuUzJua3F4ZUxUZlc2SXFjaXZ1WmdCMFN4enBJRXNScWRaZC1uVkl3bXN6TnNrSjRLOUdGMVd0R2VGX255Wmd5ckdOY1hReEd1VjRkZXN5d2hlZXVRX2FyZ0FjOUhwQ0lUOXZCdFQwQzNKTUFlcG9nSTg5RVZ4bmJWYnFMcXZodi1URFNNb2RRSFN6a3lsa2Ezb2lDMTRMbjRtWk9LZTZFdFp6RHhrcVVGakhGSkloci1jTVh2V1Y4aEFVOFhfVjdRZHNQelhvbk1MNDdrbnB2RFBacVhaSDBqNzVsNHd1MDV4MVhPZElEd1k2QnBnSTRudEd2Q3VEeU9KMjFyTUlDUHJTWE5kblZsVVBJdnQzR0txX3A1Z0VQV0g1b1pxRnItTDVwNHIzYVV0V2JmS2hNQm5Lc1d2eHM0VlFRdHgxTWNaNHNLTld1dnhNY3lGZGpndmJBZ1Z5RlhLS0p0V0Z0bi1IdURuenBZWXhiNndPcnRfSmJJYkt1aTNsOUpNNDJUenBBem81cEJULXYyZlpObWNadFdBaFpRRThZd083MG1RWkJfYmFsUFRUMEdiMC0yNE9TWTZyRmpmUUF3WlNfSU5QWnZ1Y0J4TW1mWFM1REYwLVZzdjJSSzlwdEtzYnFlcHBBSzhrbnlIVVpCYUVrZlplNW50cWVEdm9aakVMLXdCbzdFRUZMTEVmZ195b2YxSFJrMjVTZHVJb1YtSEU3NnJ2czkyNlJEa0JndzV6WVdSaV83a2JCVFhDZC1McDJHRXZOMGVWS1F4VmNKYkloWGhGejcyZG5iTHQ3dndQOW9Mb2xFOVlkNHBiZ3FJUGtpellldGZ1RVpmY1A1d25wTmdhYkhRUXJNTjNZbW56aEVhTEoxa1NqVnFZTmxFdEtmd2FVZ21Ccw",
-        "time": "2026-09-01 14:09:24"
       }
     ],
     "youtube": [
@@ -1457,6 +1587,41 @@
     "hour": [],
     "day": [
       {
+        "title": "張嘉郡今公布競選主視覺「雲林更好」 他出任總幹事 - 壹蘋新聞網",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUNPZlY4a2xSSllhY2ItYVo0NWVVb2xhLWQzc1V2RVZhT3dIcTNoUWhJQndqcDcxOTZUbnFYUjBETTF3eWRjYTdHYWhZYmJrTG1jTnNOYXF5NUFvTW5CZlhlejRISnpXbnVoTll3NG5iY2JhbVhYd0pGVFJkLVZLa3Z2Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 14:01:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "張嘉郡眼眶紅了！公布競選團隊 總幹事這句話戳心 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByVVljdEM5OC01dkVtQmxUNldpM1RmeHRNc0pkTm9hNXlZOG53c2xYaTA5YXhtdVBSTWpvR3FfbEZhNHRjejZzdHd0dDZacG1kd0dRZ09wR3RWSGdtSFQ2RHJNa1pUWVRGY2fSAW9BVV95cUxQYk5CTTQyNDYtR0hCUk5XSkNYcERtcnJtZVotUklSXzlPRUV6Rk02NzNxeno2NE81T2VXNEc5QzRZWENLdHA1UldzYVpYdnpQZVhvamMzRmp3Rl9QN1ZIU1NHeGhsWnFLZ0tJSDdOYVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 13:32:12",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "張嘉郡競選團隊亮牌 這兩人出任正、副總幹事 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tajRvWjVUTXZNbnNWNDNxTERLb0VCN3BidnBJamJwS1lReFhGY2hmbktfWGwzZHBQMUFZMjVOOEFoc2J4X3pxWWZyb2tGWWhIdFNn0gFYQVVfeXFMUGMxeE13Qkx3ZDMwSEF4d2xiSmZHTk1zaEp3c2xrOUN0REJEcGFoVjM4VF9NRXZSUDJTRWpudDlDYlpGWmJWMDN5Q0NxZ0VrRTQ0WkxYalZVYQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 13:04:10",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "張嘉郡競選團隊亮牌這兩人出任正、副總幹事| 2026九合一選舉 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mNjZEeEFzbnZweEJSVEdKOUo2aW1nOU1LeEVSTmozS3ltd3RGR05KNmdCSVZaMWxXM1dZSW9zRm5nWGRmYVIzUEZIVkhUejVnNXZYOEdFaFg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 13:04:10",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "《咱的雲林、新的世代》張嘉郡曝競選歌曲 空心菜達人任總幹事 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPYjNLU290VFRrcmc3aDJmc2pYWDJHeWVmaGxldjJCb1MtZkF1U1dxbkUxb1l0aU5NaHNFUDV3c05MR29aeTFQZ2hsM2l0Tm5lYUIyNWk4R2ZmVVdjXzljekdlSURYcmRRQTBaOUJZMWFnVmpYRFBuYUJOclV1NEsxWlVkOHZYMzZEeUZScmpZWDZsN1FBc3BUbUJqSHFwTzh5T1RncjIzczVaZUEyWU1NdUN2a3lpdFBWMjYxbTBVczA5OTloWnI5MlNtc0RJcXVaYkF6SmxVWnhiLW1aT3l2bGlRU2R6Z1hUTXFRZkI3bFdjY2hTVjN0VXk3NFNYWFNUbU1vVWZ1MlFqZDR5bHMxQmhzdWd2c0VZZnlCQU9nZWZTd19FSDJjN3oxZEJHUm9qMUQ1VkxWU3lIdUNxZHlGNm5fc2pZY2luSEhFWW9NTXRncENEeGVtVkZWME5HOXlIekZ4RVN4aHc1TzM4VkZIZERlWHloTFVyakFOYU9SM0g0OFk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-08 13:03:56",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "九合一大選候選人登記，週五是最後截止日期，雲林縣長綠營參選人劉建國，在數百位選民支持聲下，來到選委會，壓線登記參選！他強調雲林不能再走舊思維、舊作為，要由全民政治取代家族政治！ - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMinwhBVV95cUxPaGlreVBBYUloU3VuN21WQnFzZGVFSDJkVlI5SUFPOUstb08wazBpZ0RzR3ZTYmVkcHpwc3doSk5veV9MckxYZ2JFblZOeXJYZUdpOF9xRWxhV3h2dHZaMUpoZGdOOUNfQ28yQmJIVjhvQXp5UVA0WDQ5anFvamNKXzlDcTVmMl9heFNJMUQtVU5QLXRITGw5b3FTTVVHLXJEYnQ0bHNlN2RaenM3ZmJIZVJCNWtXQzRFTW42R1JCYkJOQTdyYjM0UzhGVXpfSjJRdkZZNlM4YmJqeU5WajluWEJZMXpGTXZLUy1RVllqSFZxaS1WMU5pMGNkT2FEaGx1Zk1iQ3BFVjhybkhBNDNnNnpkVDV4cXk0cEpGeEwxejBjLUNVWF9aR3YwRmxXYTczUmdVUlhJaHRzYmdFNUpBREl2ZGJYcVNFdmJEV1R6XzNYWTRSaDRERERFRmZGVkpUaUFuM2xibXVqc3VaMkVxREVJZXp0NVNLcE1zT3l5Z2RscWZfNzIzdXVydzZ6SHFtTjU4OWU3UDcwNlU4SW40UEZUUGJVTGlJZHVpd0hZR3V4aGNjVjB0VzlIano1OWhDeWpRM1pBdlhzLUhxRjZ6YV9WV3cxQXRIOG5PYW54c2tFVFFxX3l4SmdtLVVBVEVGRmNidnFSSVNNbVlSQlhFSXRRcldvbFpTdEE2ZWNuMjIwWE1hbGU1STZndThKNGV1dmJQZFRUTFQ1N0tQYlA3VzJab002WjhVcTBMWGh4T2kwbFlZSF9QTWhMRk9hNDlHRnJJMzQ1M1pFWUs4ZGlRVFhxcE1VWjJpUElJX3c4bGtBREstZzRFa1ptdm9ocXg0V050ZUZKX3pGa0hjRnhZT2ZEdEd3b2NTS0EtN1lNcnhaTG9kQnQ0TWx1TWVlTzJ1Y180LVY3QmFqSFd3MTBicVZfMXlGYXgyaFRPNGJPT2tGcmk2dVNiSlU3WHRrYkNoTkwzTXRWSHhleldFR1YyNlBleE0tUng1Vm1ReXJUeGtqaXNEVEFfdGpkNVY5V1ZrZVdrSHRqaEp3a251Wm0xVlY3MVg5dXl3TFNFR1Bmc1lrODFoNVpocXVtbDByS1RHbmlhWGlLNlI2RXo1Q05Lc0txLUhRaWJiTktjZEE5Z0l5TEp3ZEtDQmNCRU1qS3lzbmZCWW1BeDU5UV9xLUZvVDJVVWpFNl9mU0ZXdk0wWm9IdnVPZ2V3S09ybkVUZU95T0lmQWFzSWNsTGRXek5MU3R1cWFfdjg3ZUJDVjVIYUhmSVlNZDVHdDBRWktWRnhReWVGZm4xLVZWd2JkdmpJbDZjSVRPQmljT2JJSlpiR3ZIWExDUzRXMW5MV3V4ajNobWFvVlJmVUZvY1FGWDRacVFpLVpVZjNWc2h1NG90VQ",
         "time": "2026-09-07 22:54:51",
@@ -1469,7 +1634,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 1
+        "count": 3
       }
     ],
     "groups": []
