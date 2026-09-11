@@ -1,10 +1,10 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-11T22:44:22.485486+00:00",
+  "generated_at": "2026-09-11T23:00:08.795276+00:00",
   "metrics": {
-    "total_24h": 26,
+    "total_24h": 27,
     "prev_24h": 35,
-    "growth_pct": -25.71,
+    "growth_pct": -22.86,
     "news_24h": 24,
     "anomaly": {
       "level": "綠",
@@ -15,9 +15,9 @@
   },
   "metrics_7d": {
     "total": 169,
-    "prev": 257,
-    "growth_pct": -34.24,
-    "news": 145,
+    "prev": 258,
+    "growth_pct": -34.5,
+    "news": 144,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -33,16 +33,20 @@
     {
       "platform": "youtube",
       "count": 2
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 145
+      "count": 144
     },
     {
       "platform": "facebook",
-      "count": 18
+      "count": 19
     },
     {
       "platform": "youtube",
@@ -83,15 +87,15 @@
       "count": 1
     },
     {
+      "hour": "2026-09-11 20:00",
+      "count": 1
+    },
+    {
       "hour": "2026-09-11 23:00",
       "count": 1
     }
   ],
   "by_hour_7d": [
-    {
-      "hour": "2026-09-05 06:00",
-      "count": 1
-    },
     {
       "hour": "2026-09-05 07:00",
       "count": 1
@@ -309,6 +313,10 @@
       "count": 1
     },
     {
+      "hour": "2026-09-11 20:00",
+      "count": 1
+    },
+    {
       "hour": "2026-09-11 23:00",
       "count": 1
     }
@@ -317,9 +325,20 @@
     {
       "platform": "news",
       "count": 23
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "豪雨造成古坑竹筍、番石榴農損 #張嘉郡 現勘籲儘速辦理天然災害救助 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNUnNselRPelhEcGtSZTBCTFBKRGp0M3NmczZfZHI3S1BkcG5ZYkN4T0sya1gwSGNDdlJxWm5YYWF0c1h6LTNoa1pucFpEVW9qVDhONFMxaHpHV1JkTTFpXzVId29SdWxfaVJkZUJnUkxNYUlUcXBVQzEtVlpCQ3I0WXl0a1h5YmRtMzRfY3BCanItRzQzelBGcFdtZzg5LWw4X1hEa2RNNWljX3BsX3hoNHkybEFWa2VYOWswYXZ6SzJUQjFwOHpzdWZOUjJJM2YtYVJ2Mi1fSkc3U2dadU93aWxtVWYzN3luMy1MTFFIc2Y1aVRYbmRIdkFvaE5GRTBhbml1RkJOR1V5YlJzblh3VGtZN0Jzb3Vfc1pBU3JLN2lMano5UXZ0b2lCUzQwaXo4V2tlYzlQc2pTM2tmNzdPaGEtaUFna0IweVBGT195aThNOTYzenpweTFsXy1LMjM5dXNCdmdBR0VENG5jZ0M2bVVGcnBidzhIc0JyMzlSa25tOURRNGd1ZGc1VnRtejVyeDBBR1RVNDdNbVJTa2hiLVZXRlBnczE4N3E4OTJDRWJsY3B6SGhMLUxoOGRtSnZuaXR4YmtMVU1nLTZG",
+        "time": "2026-09-11 20:52:51"
+      }
+    ],
     "news": [
       {
         "title": "豪雨害雲林蚵死8成蚵農苦！ 劉建國、張嘉郡雙雙前往勘災 - eracom.com.tw",
@@ -442,9 +461,20 @@
     {
       "platform": "news",
       "count": 23
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "豪雨造成古坑竹筍、番石榴農損 #張嘉郡 現勘籲儘速辦理天然災害救助 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNUnNselRPelhEcGtSZTBCTFBKRGp0M3NmczZfZHI3S1BkcG5ZYkN4T0sya1gwSGNDdlJxWm5YYWF0c1h6LTNoa1pucFpEVW9qVDhONFMxaHpHV1JkTTFpXzVId29SdWxfaVJkZUJnUkxNYUlUcXBVQzEtVlpCQ3I0WXl0a1h5YmRtMzRfY3BCanItRzQzelBGcFdtZzg5LWw4X1hEa2RNNWljX3BsX3hoNHkybEFWa2VYOWswYXZ6SzJUQjFwOHpzdWZOUjJJM2YtYVJ2Mi1fSkc3U2dadU93aWxtVWYzN3luMy1MTFFIc2Y1aVRYbmRIdkFvaE5GRTBhbml1RkJOR1V5YlJzblh3VGtZN0Jzb3Vfc1pBU3JLN2lMano5UXZ0b2lCUzQwaXo4V2tlYzlQc2pTM2tmNzdPaGEtaUFna0IweVBGT195aThNOTYzenpweTFsXy1LMjM5dXNCdmdBR0VENG5jZ0M2bVVGcnBidzhIc0JyMzlSa25tOURRNGd1ZGc1VnRtejVyeDBBR1RVNDdNbVJTa2hiLVZXRlBnczE4N3E4OTJDRWJsY3B6SGhMLUxoOGRtSnZuaXR4YmtMVU1nLTZG",
+        "time": "2026-09-11 20:52:51"
+      }
+    ],
     "news": [
       {
         "title": "豪雨害雲林蚵死8成蚵農苦！ 劉建國、張嘉郡雙雙前往勘災 - eracom.com.tw",
@@ -564,12 +594,12 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 23,
+    "張嘉郡": 24,
     "劉建國": 6
   },
   "mention_compare_7d": {
-    "張嘉郡": 121,
-    "劉建國": 47
+    "張嘉郡": 122,
+    "劉建國": 46
   },
   "top_news": [
     {
@@ -737,6 +767,11 @@
   ],
   "latest_facebook_20": [
     {
+      "title": "豪雨造成古坑竹筍、番石榴農損 #張嘉郡 現勘籲儘速辦理天然災害救助 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNUnNselRPelhEcGtSZTBCTFBKRGp0M3NmczZfZHI3S1BkcG5ZYkN4T0sya1gwSGNDdlJxWm5YYWF0c1h6LTNoa1pucFpEVW9qVDhONFMxaHpHV1JkTTFpXzVId29SdWxfaVJkZUJnUkxNYUlUcXBVQzEtVlpCQ3I0WXl0a1h5YmRtMzRfY3BCanItRzQzelBGcFdtZzg5LWw4X1hEa2RNNWljX3BsX3hoNHkybEFWa2VYOWswYXZ6SzJUQjFwOHpzdWZOUjJJM2YtYVJ2Mi1fSkc3U2dadU93aWxtVWYzN3luMy1MTFFIc2Y1aVRYbmRIdkFvaE5GRTBhbml1RkJOR1V5YlJzblh3VGtZN0Jzb3Vfc1pBU3JLN2lMano5UXZ0b2lCUzQwaXo4V2tlYzlQc2pTM2tmNzdPaGEtaUFna0IweVBGT195aThNOTYzenpweTFsXy1LMjM5dXNCdmdBR0VENG5jZ0M2bVVGcnBidzhIc0JyMzlSa25tOURRNGd1ZGc1VnRtejVyeDBBR1RVNDdNbVJTa2hiLVZXRlBnczE4N3E4OTJDRWJsY3B6SGhMLUxoOGRtSnZuaXR4YmtMVU1nLTZG",
+      "time": "2026-09-11 20:52:51"
+    },
+    {
       "title": "📣豪雨釀災 漁民陳情牡蠣死亡率達七、八成 張嘉郡、丁學忠促加速、從寬辦理天然災害救助：https://hoomedia.com.tw/2026/09/10/166893/ 🌎延伸閱讀： https://hoomedia.com.tw/2026/09/10/166893/ 🏘️互傳媒新聞網： https://hoomedia.com.tw - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMiqAVBVV95cUxPTlFlNmRBRUZ5b1hHaHB0NnRobFU3MUJrSmFmZk9sNjdRN1lmQmE1S2NHNm1FcXBydm5CMC1mQ3FIaUFEZ3djRjJ5RDR2aVJJMHhXZFZaT184bXI0WU5hMGZvUlpoMTN2N21xbjJPZ3Zra20yc3czNjFTdUhYZ1ZiNV9SUF84VnlXYkNGNXk2UFVQVVRDbWllNnFvUTFsT1hOV2l4TnlpZW1IeXpCMzF0QlZ2MG80NFBLOGs2XzFCd2FPYUZiY3ZhMlY2emJEbW5wMFRoVmNyX2VsZlA0QkVCQWQ4bDk0MkJpUWtWalVwSld5bDV2MTFJVXNxTEhITlp0U2hFWDN4c0hVSmUtN0xKYmZhWkdHcjlGVUdLRXA2N3VKc3MycFpxeHVrakZDMG9sa2JhaVc2NE83TW91clNGZGtUbm1WRFdMdFFVdDR6SkdraC1ZV24tQThNeW5mX1llRkhYbENkRVI4NUkyYkYtN1l6Y3Y3MEJUZXJ1U3FhWFJfLXpNM1cyeXdKZTI5RnhPUVNKYnJxd240SGJ6WGFtTzFlZU53cXFpdmlyOE9lcTdtNEQtZkhoTXU0YlVVUWw5RzNhR2poLUhmVGJBbHozVEtJT3h1MTRZMnotdGVVdVZHSUJJWmdYQXBIbHdpVExXOWZ0NkZ5aXk1S29fWFY2RE5PcVNiU3RNTlRLSUVUa3EtV0hONUlUUTR0YlUzNy1wRGd3WGhKZHVJbkFJRVd6MkR5Ti1ld2hHeV82cS04RW51cmRZQjBQd1JXLUg5aE1nQmFZWFpFN2dUUVZ4bk5HVjJMYmtJNUs1eTFxLU43cTBNaTZ6Q2Y1R3FTODNoX3E0RU13c3l3eU5xV0g1QnU0VFV3Qy15MElDR053LWs0aU8zeGpKcHRGSQ",
       "time": "2026-09-10 18:17:17"
@@ -830,11 +865,6 @@
       "title": "民進黨籍雲林縣長參選人劉建國，於9/4在黨公職人員以及上百名支持者的陪同之下前往雲林縣選委會完成登記。 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMimwVBVV95cUxQdlRIMVV1eHBqeEc5TUFwNnZxUS1iMm9CMG5rdDVNNTZFMmo2ZFRpc1lzWWx4MVBwVTNiUFlDT2JwNkM5S1RfUTNQSG5sak9zWE9CM2U2aGdXZG1vNlhMMkJzZk0tVzR6dnphbGYwSnc0Tng5NkdGZU9jRGVlWWxTQVRJQTZSSWZRZ3QzVUl3VFV5T2NGeFMyRnNvUVdtSFRablh4X0xzVkN6dEJ1WEM3NElrMXVjd0FrMFNQYzdRbUpqSFlNV21OdWdEZ1VOS1d4Z1ZYNE53N3gzNWxnYzFia0pNWWVYX0xMVTlXRUJjbExHd0t3ZGVfUUhwNXdGSTZ0ODFpcDd1dzJyQ1AzcEJnUUxRWTVlTGVuQndhU3p0Y1ZVb1o0YVBWcjlyRFRGM3pTUTRwLWVYa0JPdjBhX19ZSGplTDV6YW9fVWQtVXkxR05udjg5bWFiNnFRLUFwS3NOb18wM0tHaHlvd3dlZnU0WHVDYVozVHZDVlNjQUxBWElCYWVJNGNuUWNEdm9rYjRHYlBHYXh2REd2V21lbWE2YUN6dG0yMTV6QlBxZ1RQUjBzRXJqLVZmazE1d0FLcVVjUkExVk5qX1dKaDNEd0lwVE1OWFhoSXBWblY0TlJKMGdfWlItNFptNE12QzZEN3Q1MzVlelVEOHQ5WDdEeDVrZnVWeWZNNGkxUV93Y0Z5X2NEYTlENVBtRG95R1U0TTFsNUVhNTdsUmxwOHlDaUcyeVBwXzlzYmdDLWlkNmQ5eDBhWUR2Q3luMm9vY1ZISC1SZTBjZzlHb096T2ZWaFFBOUtnYTlDYWIzLWRGdV84UzRBZlAzZFQzWXBmT2E3TDZRS2ZtZXpwOHU1VF92NVV2X0ZxUFVyOXU0N2Vv",
       "time": "2026-09-04 20:22:56"
-    },
-    {
-      "title": "#文旦界的愛馬仕🍐 #斗六文旦甜蜜登場✨️ 中秋節快到了，要送什麼最有雲林味？ 嘉郡一定大聲推薦，號稱「文旦界愛馬仕」的 斗六文旦！ 果肉細緻、汁多清甜，自己吃是享受，拿來送親朋好友也很有面子，現在正是品嚐斗六文旦的好時候👍 這次嘉郡也特別把斗六文旦帶 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMipAhBVV95cUxNc2Uzd2dWaDRDSU00MVVIbnZHdnhpcFhaNTk3QXNIcWE0cW54X3NVQzVkcjlacEJBNS1FbjZBdXJGbUNFUDJqa1JRRnlzMHRQbGNfX0FQc0g5cFV1UDFlQWNMdEY2cUJHQXMtVzhvSW5QYW9Pamg3Z3JuUVhQdjNURGhFc1M3ZG1uaGYwUHhhbVJWcEhaRzdwZFY4cHVhaU5mVHpXcm81QXN4eXFDOEhROFIwd1o0VUs4Nzk5SEhlN3FDSG5HYmdWRklFVUVob2RlalJyN24xYzlQeXFoMlVxdnc0ZW83dk5JVVd3elp4TUFEdlBoWlZkMmRwUk5XZGZxamNING5GMmNUQTNoUzFzUF9SVUYzSGZqYmtpVnE1WUEzb2hULXNPVjZnbDljN0J6bGFzdmk2dU1FT0dIM2xtaC1SaEUwejVVY0U1d1pFeTh4a0ZFSkxoYUQwM3NaQXNxT2tFcl9LbTVfRXh0WHF6MEF0Y01XVHRqOWlGU3NtTEV5SHhCREoyNS1Eb2xVY2EwTTNyTFcwemZJR3pBOTQtbEdQRXdVQ3dRcU9vRkM2Y0x1S2tWd3NqOW4yaF9HMFl4aUlRQUJnZUp0MFFmQWtwUGE5QkJNN2JScVdxdG9KSUJjbFdMYkFMY095TzJvc1dhOEZZQzZ1TVlwWjhyQTZxWk5hWXdjZHR3Y1Z5WEFHOWxMQVB3cWRwTTZaWnV6VUpvOFg1VWd3QjlNYWNpaTFDcmZEMzZIcG80b3hMZUlVVTY5X3ktWUYzOERDNGx2emE4QmJQMW9tWGQ2RlJIc0RPQ0NpcDFTUV9RVnoxd0pHU1VxcXdnU2lDZ29hUWliaTBhT3BlZDNyMlZVX2prem5kUGFfQnJLWE9fXzhkWGFQbXIzRnFmNGlKNFdaZld4N2JGc1c3RENUUDVQaFBpZUFnczUzZFN4SldKc3VpZEM0bG9sZ3pDU1NYdEMzLTh2WWFySlZCVmlQVUUtcUtOZGZ6Z2l6and3UkVsMlM4MVlDUzFMU3NPdW90czlZVzE2M0p5VERCanNHeTlPWFdfX0NPMVJjaUxnVHZHSDVKNlFpd2pyMUlobkdkNTZJeEJqald0S1BoMFZqbXhnR3pGLXZvVEczdGh4UWtGc3ItMEVaZHZlS1dva0pfU0RvbEZ5Y0h2YVp2dkJLcncwOWhCd0NmaTI4MkFtZVhUUFZOZW1kZW1DS1NFR2labjMtV0JYa2lzTVhiNEdaS0Fra0VWQmc3SmpkWkZ1ekgyM054ZXA0WmRoWVdMeW5qQllwRkRreHozT1BfVWJfR3E2bVBoZVoxSnZCS0FwNDR5RTc1WjhxUnYxUXlfZXFCelpRUXYtQ1lQdnNaZUc3TWVyLW9LcEpHVG05SDlJVkdYZUFDcEFSbW04WVpI",
-      "time": "2026-09-04 16:50:36"
     }
   ],
   "latest_news_20": [
@@ -943,6 +973,11 @@
     "張嘉郡": {
       "facebook": [
         {
+          "title": "豪雨造成古坑竹筍、番石榴農損 #張嘉郡 現勘籲儘速辦理天然災害救助 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNUnNselRPelhEcGtSZTBCTFBKRGp0M3NmczZfZHI3S1BkcG5ZYkN4T0sya1gwSGNDdlJxWm5YYWF0c1h6LTNoa1pucFpEVW9qVDhONFMxaHpHV1JkTTFpXzVId29SdWxfaVJkZUJnUkxNYUlUcXBVQzEtVlpCQ3I0WXl0a1h5YmRtMzRfY3BCanItRzQzelBGcFdtZzg5LWw4X1hEa2RNNWljX3BsX3hoNHkybEFWa2VYOWswYXZ6SzJUQjFwOHpzdWZOUjJJM2YtYVJ2Mi1fSkc3U2dadU93aWxtVWYzN3luMy1MTFFIc2Y1aVRYbmRIdkFvaE5GRTBhbml1RkJOR1V5YlJzblh3VGtZN0Jzb3Vfc1pBU3JLN2lMano5UXZ0b2lCUzQwaXo4V2tlYzlQc2pTM2tmNzdPaGEtaUFna0IweVBGT195aThNOTYzenpweTFsXy1LMjM5dXNCdmdBR0VENG5jZ0M2bVVGcnBidzhIc0JyMzlSa25tOURRNGd1ZGc1VnRtejVyeDBBR1RVNDdNbVJTa2hiLVZXRlBnczE4N3E4OTJDRWJsY3B6SGhMLUxoOGRtSnZuaXR4YmtMVU1nLTZG",
+          "time": "2026-09-11 20:52:51"
+        },
+        {
           "title": "📣豪雨釀災 漁民陳情牡蠣死亡率達七、八成 張嘉郡、丁學忠促加速、從寬辦理天然災害救助：https://hoomedia.com.tw/2026/09/10/166893/ 🌎延伸閱讀： https://hoomedia.com.tw/2026/09/10/166893/ 🏘️互傳媒新聞網： https://hoomedia.com.tw - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMiqAVBVV95cUxPTlFlNmRBRUZ5b1hHaHB0NnRobFU3MUJrSmFmZk9sNjdRN1lmQmE1S2NHNm1FcXBydm5CMC1mQ3FIaUFEZ3djRjJ5RDR2aVJJMHhXZFZaT184bXI0WU5hMGZvUlpoMTN2N21xbjJPZ3Zra20yc3czNjFTdUhYZ1ZiNV9SUF84VnlXYkNGNXk2UFVQVVRDbWllNnFvUTFsT1hOV2l4TnlpZW1IeXpCMzF0QlZ2MG80NFBLOGs2XzFCd2FPYUZiY3ZhMlY2emJEbW5wMFRoVmNyX2VsZlA0QkVCQWQ4bDk0MkJpUWtWalVwSld5bDV2MTFJVXNxTEhITlp0U2hFWDN4c0hVSmUtN0xKYmZhWkdHcjlGVUdLRXA2N3VKc3MycFpxeHVrakZDMG9sa2JhaVc2NE83TW91clNGZGtUbm1WRFdMdFFVdDR6SkdraC1ZV24tQThNeW5mX1llRkhYbENkRVI4NUkyYkYtN1l6Y3Y3MEJUZXJ1U3FhWFJfLXpNM1cyeXdKZTI5RnhPUVNKYnJxd240SGJ6WGFtTzFlZU53cXFpdmlyOE9lcTdtNEQtZkhoTXU0YlVVUWw5RzNhR2poLUhmVGJBbHozVEtJT3h1MTRZMnotdGVVdVZHSUJJWmdYQXBIbHdpVExXOWZ0NkZ5aXk1S29fWFY2RE5PcVNiU3RNTlRLSUVUa3EtV0hONUlUUTR0YlUzNy1wRGd3WGhKZHVJbkFJRVd6MkR5Ti1ld2hHeV82cS04RW51cmRZQjBQd1JXLUg5aE1nQmFZWFpFN2dUUVZ4bk5HVjJMYmtJNUs1eTFxLU43cTBNaTZ6Q2Y1R3FTODNoX3E0RU13c3l3eU5xV0g1QnU0VFV3Qy15MElDR053LWs0aU8zeGpKcHRGSQ",
           "time": "2026-09-10 18:17:17"
@@ -1036,11 +1071,6 @@
           "title": "中秋佳節將至，雲林縣長參選人、立法委員張嘉郡24日宣布，捐出一個月的薪水，採購由雲林縣內身心障礙團體、庇護工場及弱勢社福機構製作的中秋月餅與禮盒，送給縣內有需要的家庭與弱勢族群。張嘉郡希望透過實際行動，讓愛心在中秋節前夕持續傳遞，也支持在地 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMikwhBVV95cUxQQml3RFNvVUtVYzVHUHJZV1VUaXh6RXFzcVRzNHF0bXBSb01XTGp5aHZEUVlicW5JeWJJMzQya1ZKaGNxMDNYeWVYX0MtdG1RaUNvTlJGQWE4SnV6R0NnZEZvNEVaNGVJcHRqVzNCWk42dmlWaC1BV2VDZUhYMlg2QVBLeThIa0RCWDJKOVhNRDMzNW45Vkx5cy1yb24zd2RrdmNIOUxZQWM5aHRvMkhfckt4Tk1nSEdtSUlUbGlwdXJpRXE3ZXpzWkk1VlZNR3ZUTGEzajl3NUxJOEpoNE43Y2ZqanhvQV9fZ0JwdURab3hVS05pcURNZWtEcjlENVRlY2VhYnQ3ZkF2VURwT3NMcVdBNU8yMlJoTFIzMVUydHlKeEZpc19qQTFWaFB3MC1oNzFaMGd5Unp1Z1pSbmNRTVZEQkJQdnVWWW92U2tPVjZpeDc1MGhQQ1d3SzlkTHhSYjFYRTIwMVJjaUw2ZVdNRUFoUGVfcS1yNjhScmVuc0RrYTNOQTNtTm9yQ1Q0VDRjeXpoXzRfN21Kd2FvZ1ZNZV9aLVQwbVRtNklUN2hveW5kQ0hYSjRENmpULTRIbG8zUklTcEswSDl3bmUwOFZ1RndFSDhFVjhFaGVOOXc0TXZ1ZmdlU3U1bTExWWFPLUVRUERQUWtLNTF2bk8tZTIweTNZRjZPVzZwZ0RMelE5ODNoclRKVHliQ3lxZk5BZUJBSlhiOGhUU2w4S01XLUFTNEtLUFR6TWJsRWtYT21xUUlGcjg3d09DT1d5NnRZbF9JanZyUVpiRXdtaUo2US1EUVNfcENYUmNpbi1HV1FPcy0yOEdCU29WZVFHNWwxV2JKNGFCZGhiTmoycHM0aXNXbUI1UloyNmFPOE9rXzhESFRWSkU5SHgzeVUzUTh4ak5sMXVDc2xtNWtxR3VOMHBjV3dYakp2ZkU0a2pNNWU4TFpZQl9Fd3ljVUtnUGhHaUJFYnJ1QWFQWUhoLWtxTk5iX0lPcHN2Ull2eFlTaDZjRm41UXdMVHhaQXdjNl9GeVdQcjVHR1kxanFUMlhwWFlveU8xNUNnczkxaFFxTUQzWkF4YnZVQ0lQOUpyY3hzUFBHb2lFN3dXclAzWFQxeG9pWjhUMF9mSlh2aWtpelVOZnVVSTFRdkZHeGVUNmVqUVJGRTVZWDd2Z1lzLWpWajloaTNNdHFZZGxOdWxSNE91ZGhhdEZ4NHpmZGVRS1VlelRJZnZFaHlmeFVfcFJOa2xrbjBKenhVb0pnVDFRT1VkU1hiYWtSTURpVFlVbzJZQmxSdElWRkxsbzM2eXkzenJNWVVXcFZ4Y1RjVWl0eGpXX3dWdk9neElzdHhzeWc5UUhmX1h2SVlKcEZGeXo5eHRjN0ZmQQ",
           "time": "2026-08-25 15:15:38"
-        },
-        {
-          "title": "【張嘉郡中秋拚公益 捐月薪採購庇護工廠禮盒贈弱勢】 張嘉郡拋磚引玉，捐月薪採購弱勢團體中秋禮盒⋯ . 看全文 👉https://www.mirrormedia.mg/story/20260824-166inv-141046?utm_source=photo&utm_medium=mmpage - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMivAVBVV95cUxOMFd2Ym9Sbnk3eUxXRm9wQVhETUI0c3pVLVVYUDdsTGxSWlBrZUxrWEJETDgwZmszczdjQUVYSzRfY04yeGhORUMwU2MtRHZUY3NIM3BfMVRUdi1NbzJDRXZRRjU4T1ExQVhQa1IxZ3VGRXQySXJlWlZBclhGcFRGWjk1N3NPWEZXb1g1eDZqYXR0dlpqVDBYVlBnLUc3R1VVb3otOHllbXhVeGlSNk1jV21xd0dSWURiSTlGRTBlNVE1UVh1SUp3SnN0bG9RYlpQX0FQZ2RGeXR3MlRiOExWb0FLNEk5S2FtaXpON2JwaEZoNGZwTGJ4Y3Q5UkVvc3hHeURLaVJXNWdNR3ZkUVVVZDN2eFJXdjBaUFVzbVBYaXJyd0l2YlpCVVRxVERmcHhLUElBYlFIWEhUdWdXdHpNU2NWZDRuQUQydEwwVV9fTW9KMXMxX3hLVTBIM0h0UzZHU0hJT21GUWtFODVOVnBBNk8yV1daUkNILVFnQ2hPOHJqN1JPRXpZOWtMM1pBR3o2bUtrekNvOVNJV2VMaXBfUU12NWFuOEpOMGZFZUJTQmxjTzdRLVBZbzBaUlNXd254TzlwVmQ1QXJBYjJleGxSMVZYUDIyMFFMT1Blelc5WnRCSEdfRW90ZkpqbFdPV1FzanJyemdUOXlncGpYSnZVamt6R3czSkpkaWVTSmxjQlhmUzVoSVVNVnZ4ZWJOVkNQUnNEQ0VTMEZNWXpBSlVkektxQkFKWUxHSklLMHJJbE81LVU3Q1cyYTRjSlNjS3BFUjlHWkhEZDh6ZDJSYnM3STZfY2dJWjc3bnk1ZXRjdjVGSDV4UTBjYjZTbi1wbGtzTFMyYS1ua3NLZm5uRm83bG5tdGdNVEZDeFhMV2FNWmRwaWdEMURrTUdTeWZwWkFwWUxIaDF5MjE2YnJY",
-          "time": "2026-08-24 20:38:37"
         }
       ],
       "news": [
@@ -1487,6 +1517,13 @@
         "url": "https://www.youtube.com/watch?v=AagfbMO2mU0",
         "time": "2026-09-11 16:00:24"
       }
+    ],
+    "facebook": [
+      {
+        "title": "豪雨造成古坑竹筍、番石榴農損 #張嘉郡 現勘籲儘速辦理天然災害救助 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNUnNselRPelhEcGtSZTBCTFBKRGp0M3NmczZfZHI3S1BkcG5ZYkN4T0sya1gwSGNDdlJxWm5YYWF0c1h6LTNoa1pucFpEVW9qVDhONFMxaHpHV1JkTTFpXzVId29SdWxfaVJkZUJnUkxNYUlUcXBVQzEtVlpCQ3I0WXl0a1h5YmRtMzRfY3BCanItRzQzelBGcFdtZzg5LWw4X1hEa2RNNWljX3BsX3hoNHkybEFWa2VYOWswYXZ6SzJUQjFwOHpzdWZOUjJJM2YtYVJ2Mi1fSkc3U2dadU93aWxtVWYzN3luMy1MTFFIc2Y1aVRYbmRIdkFvaE5GRTBhbml1RkJOR1V5YlJzblh3VGtZN0Jzb3Vfc1pBU3JLN2lMano5UXZ0b2lCUzQwaXo4V2tlYzlQc2pTM2tmNzdPaGEtaUFna0IweVBGT195aThNOTYzenpweTFsXy1LMjM5dXNCdmdBR0VENG5jZ0M2bVVGcnBidzhIc0JyMzlSa25tOURRNGd1ZGc1VnRtejVyeDBBR1RVNDdNbVJTa2hiLVZXRlBnczE4N3E4OTJDRWJsY3B6SGhMLUxoOGRtSnZuaXR4YmtMVU1nLTZG",
+        "time": "2026-09-11 20:52:51"
+      }
     ]
   },
   "latest_by_platform_7d": {
@@ -1694,6 +1731,11 @@
     ],
     "facebook": [
       {
+        "title": "豪雨造成古坑竹筍、番石榴農損 #張嘉郡 現勘籲儘速辦理天然災害救助 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNUnNselRPelhEcGtSZTBCTFBKRGp0M3NmczZfZHI3S1BkcG5ZYkN4T0sya1gwSGNDdlJxWm5YYWF0c1h6LTNoa1pucFpEVW9qVDhONFMxaHpHV1JkTTFpXzVId29SdWxfaVJkZUJnUkxNYUlUcXBVQzEtVlpCQ3I0WXl0a1h5YmRtMzRfY3BCanItRzQzelBGcFdtZzg5LWw4X1hEa2RNNWljX3BsX3hoNHkybEFWa2VYOWswYXZ6SzJUQjFwOHpzdWZOUjJJM2YtYVJ2Mi1fSkc3U2dadU93aWxtVWYzN3luMy1MTFFIc2Y1aVRYbmRIdkFvaE5GRTBhbml1RkJOR1V5YlJzblh3VGtZN0Jzb3Vfc1pBU3JLN2lMano5UXZ0b2lCUzQwaXo4V2tlYzlQc2pTM2tmNzdPaGEtaUFna0IweVBGT195aThNOTYzenpweTFsXy1LMjM5dXNCdmdBR0VENG5jZ0M2bVVGcnBidzhIc0JyMzlSa25tOURRNGd1ZGc1VnRtejVyeDBBR1RVNDdNbVJTa2hiLVZXRlBnczE4N3E4OTJDRWJsY3B6SGhMLUxoOGRtSnZuaXR4YmtMVU1nLTZG",
+        "time": "2026-09-11 20:52:51"
+      },
+      {
         "title": "📣豪雨釀災 漁民陳情牡蠣死亡率達七、八成 張嘉郡、丁學忠促加速、從寬辦理天然災害救助：https://hoomedia.com.tw/2026/09/10/166893/ 🌎延伸閱讀： https://hoomedia.com.tw/2026/09/10/166893/ 🏘️互傳媒新聞網： https://hoomedia.com.tw - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMiqAVBVV95cUxPTlFlNmRBRUZ5b1hHaHB0NnRobFU3MUJrSmFmZk9sNjdRN1lmQmE1S2NHNm1FcXBydm5CMC1mQ3FIaUFEZ3djRjJ5RDR2aVJJMHhXZFZaT184bXI0WU5hMGZvUlpoMTN2N21xbjJPZ3Zra20yc3czNjFTdUhYZ1ZiNV9SUF84VnlXYkNGNXk2UFVQVVRDbWllNnFvUTFsT1hOV2l4TnlpZW1IeXpCMzF0QlZ2MG80NFBLOGs2XzFCd2FPYUZiY3ZhMlY2emJEbW5wMFRoVmNyX2VsZlA0QkVCQWQ4bDk0MkJpUWtWalVwSld5bDV2MTFJVXNxTEhITlp0U2hFWDN4c0hVSmUtN0xKYmZhWkdHcjlGVUdLRXA2N3VKc3MycFpxeHVrakZDMG9sa2JhaVc2NE83TW91clNGZGtUbm1WRFdMdFFVdDR6SkdraC1ZV24tQThNeW5mX1llRkhYbENkRVI4NUkyYkYtN1l6Y3Y3MEJUZXJ1U3FhWFJfLXpNM1cyeXdKZTI5RnhPUVNKYnJxd240SGJ6WGFtTzFlZU53cXFpdmlyOE9lcTdtNEQtZkhoTXU0YlVVUWw5RzNhR2poLUhmVGJBbHozVEtJT3h1MTRZMnotdGVVdVZHSUJJWmdYQXBIbHdpVExXOWZ0NkZ5aXk1S29fWFY2RE5PcVNiU3RNTlRLSUVUa3EtV0hONUlUUTR0YlUzNy1wRGd3WGhKZHVJbkFJRVd6MkR5Ti1ld2hHeV82cS04RW51cmRZQjBQd1JXLUg5aE1nQmFZWFpFN2dUUVZ4bk5HVjJMYmtJNUs1eTFxLU43cTBNaTZ6Q2Y1R3FTODNoX3E0RU13c3l3eU5xV0g1QnU0VFV3Qy15MElDR053LWs0aU8zeGpKcHRGSQ",
         "time": "2026-09-10 18:17:17"
@@ -1829,6 +1871,13 @@
         "risk": "綠"
       },
       {
+        "title": "豪雨造成古坑竹筍、番石榴農損 #張嘉郡 現勘籲儘速辦理天然災害救助 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNUnNselRPelhEcGtSZTBCTFBKRGp0M3NmczZfZHI3S1BkcG5ZYkN4T0sya1gwSGNDdlJxWm5YYWF0c1h6LTNoa1pucFpEVW9qVDhONFMxaHpHV1JkTTFpXzVId29SdWxfaVJkZUJnUkxNYUlUcXBVQzEtVlpCQ3I0WXl0a1h5YmRtMzRfY3BCanItRzQzelBGcFdtZzg5LWw4X1hEa2RNNWljX3BsX3hoNHkybEFWa2VYOWswYXZ6SzJUQjFwOHpzdWZOUjJJM2YtYVJ2Mi1fSkc3U2dadU93aWxtVWYzN3luMy1MTFFIc2Y1aVRYbmRIdkFvaE5GRTBhbml1RkJOR1V5YlJzblh3VGtZN0Jzb3Vfc1pBU3JLN2lMano5UXZ0b2lCUzQwaXo4V2tlYzlQc2pTM2tmNzdPaGEtaUFna0IweVBGT195aThNOTYzenpweTFsXy1LMjM5dXNCdmdBR0VENG5jZ0M2bVVGcnBidzhIc0JyMzlSa25tOURRNGd1ZGc1VnRtejVyeDBBR1RVNDdNbVJTa2hiLVZXRlBnczE4N3E4OTJDRWJsY3B6SGhMLUxoOGRtSnZuaXR4YmtMVU1nLTZG",
+        "time": "2026-09-11 20:52:51",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
         "title": "豪雨害雲林蚵死8成蚵農苦！ 劉建國、張嘉郡雙雙前往勘災 - eracom.com.tw",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pZU04QkNPemotRnUwMWZiM0NFcDBYMnBmTjB2OUY4Y2dnVUtEZFcxNi1EUjFwd3h3UHJVS1lyUGEwMHJCM3Nqd3JqYkFSajg0WG5xREpKbllZcmMwclVrS1ZJVmZCYWhHbnczUTRLUEh3RmltM2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-11 19:40:59",
@@ -1953,13 +2002,6 @@
         "time": "2026-09-11 15:15:18",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "豪雨造成竹筍、番石榴農損 張嘉郡現勘籲速辦天然災害救助 | 中廣新聞網 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyVm9YTnNzbDZ4WnI4WmZPVmY5ZGlCVDVBVURrQ3BNV2M4U0FsMzBZUXB1d2RfcXBmOGVFbk1lc01LWEVoY2ZaNDlZRFhoRWlCN1kzRzRn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-11 13:35:45",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -1967,7 +2009,7 @@
     "regions": [
       {
         "name": "古坑",
-        "count": 12
+        "count": 13
       },
       {
         "name": "雲林",
@@ -1977,7 +2019,7 @@
     "groups": [
       {
         "name": "農業族群",
-        "count": 17
+        "count": 18
       }
     ]
   }
