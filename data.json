@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-12T23:40:41.900570+00:00",
+  "generated_at": "2026-09-12T23:56:35.415882+00:00",
   "metrics": {
-    "total_24h": 31,
+    "total_24h": 33,
     "prev_24h": 30,
-    "growth_pct": 3.33,
-    "news_24h": 29,
+    "growth_pct": 10.0,
+    "news_24h": 31,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 179,
+    "total": 181,
     "prev": 239,
-    "growth_pct": -25.1,
-    "news": 156,
+    "growth_pct": -24.27,
+    "news": 158,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 29
+      "count": 31
     },
     {
       "platform": "facebook",
@@ -38,7 +38,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 156
+      "count": 158
     },
     {
       "platform": "facebook",
@@ -68,7 +68,7 @@
     },
     {
       "hour": "2026-09-12 17:00",
-      "count": 3
+      "count": 4
     },
     {
       "hour": "2026-09-12 18:00",
@@ -88,6 +88,10 @@
     },
     {
       "hour": "2026-09-12 22:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-09-13 06:00",
       "count": 1
     }
   ],
@@ -302,7 +306,7 @@
     },
     {
       "hour": "2026-09-12 17:00",
-      "count": 3
+      "count": 4
     },
     {
       "hour": "2026-09-12 18:00",
@@ -323,12 +327,16 @@
     {
       "hour": "2026-09-12 22:00",
       "count": 1
+    },
+    {
+      "hour": "2026-09-13 06:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 29
+      "count": 31
     },
     {
       "platform": "facebook",
@@ -337,6 +345,11 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "健保宣導列車前進雲林土庫 劉建國：落實在地醫療 完善長輩安心照護網 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOR1FOeTBXOE9OaWEyN1FBeXZVZGVpbldWclZZcVMxa0c5WGVoX1pfLWhkYkFGZFJOa1RqWF84akFySnpZV3JrMlFNUG9VYmp2MnlJeHprLUFURVg0SWcwVzNTMWZYUE5kUW1ZU2FhS0Z1MWMwYXJGRngwdEo2TjBJRzlwRlpoYlFGc213ZV9hbFVFbjdyem1hb1JUaEVXVDFVU2oyREZRVE9wbDUyU05wNktaN3AxWU1nMmEzcWtmREpSUHA4cjdqWEtWUE1iaGxfU1lPdHU2YWQ3RWFLamh1Q3dYYzdoeFJKMUNkMG9KcXFjNFdJWERiejNfeEh3QlFBOS1DUEtHejFFNl9QS1BtbWNaaXBlTGl6QzdtMXE3elJOMnJacjJaUlBHZ3hFX1NneEV3b29Ud3BPYVVBT0NWX0llamN1QnE3Y3dRMTFwTHB0LTBTcFNudkl5eS03SXdxbTBaalpSTUhNOE5QWUUwNzdYdUdjcTIwek9oUUUteE8zZXUzMFZYbHpKUVJFaW11T2JVbzFoUG5handHcDBuWTdsLW5Rb1dWYzh1Z1o2c3ZtbTJYYjdEeGExZGF2Vk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-13 06:21:58"
+      },
       {
         "title": "明星球星齊聚斗六響應公益 張嘉郡：讓愛心一年一年延續 - 元丰傳媒",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10RGRLc2Nld2QtSGJYdnBWM0c3Qm5fWWJ6dGlMbEZoQkdmYjZwM0hCa1poX3lHaFdlSC1obGtnWVRUb0dCbHRPdVZnSFUyaEpoMVpBNE1sS2t0N2xvclF6R0FiNTNuekFH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -461,6 +474,11 @@
         "title": "力挺華山公益棒球賽 張嘉郡：打造高齡友善、健康有愛雲林 - tw.news.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOd1A2TUQ1ZVc3ZVliUmhFcXdhQ21TV2ZKbVY0bHpYZWlDZFcwRllPenl6SDdXdnRnNTQ1Q2ZodFEtbUQ4TG1aTkk3UWx4bnpxOUcxeW9acTJCakxTbzRGYkwxdmZmZ3Y5UkFBYWN5TWNrbTN6cktqNU9WWlBqNno2b2FZdHRpRE96VjR6Y0hmUExGM3ZndlJLZ09NVVlkOHhSZlVibEdaMkhJVjNUbTk0VEZnWkVqRHpER1RLanVWVFJtWnJQUjQwdDVGVU5XODFNRE9DMU9lX19Tc1Q4WFU5WmUtNjZQMUJ6Q0MyOXJvSGdtclJUNU91QzI3R1JQVDNSaWlaaWdFQlhLb2RzREprTG5weGNpSmJ2LXAxYTdGUWc4TmVFa2N5YXhrYXFYeDZWWjRsUHJpZ3c5ZGZiSVNGMkFGV1RIdTk3RjItODFKY1ZWcmtYRlFCUlY1UnRxZ0hQNm00Mk5yZWRydE5jeWJaQ0F6TmZ3ZDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-12 17:26:00"
+      },
+      {
+        "title": "古坑農民心淌血！竹筍腐爛、番石榴落果　張嘉郡促請中央加速救助 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBUamZySGJoWll2SzVoR1FuWE9qQ1ZpYTllOHZmbWE4S2pHVUVXZ1FjTnYtbVRSSDRBMDQwX2pQQVRnbHkyQXJGRkJqekzSAVJBVV95cUxPNEhDY1ZZdnpuajE0bVRNNUhEbk9GekF4YmZxTVBpQW1kVkU2MFJlS2lHOHlIbHVBMVJQMEZuTm9Ld1JhRGpqNmtCRmhnTzNIanJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-12 17:13:18"
       },
       {
         "title": "劉建國大埤聯合競總第一站成立 提農業、社福政見拚雲林改變 - Yahoo新聞",
@@ -494,7 +512,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 29
+      "count": 31
     },
     {
       "platform": "facebook",
@@ -503,6 +521,11 @@
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "健保宣導列車前進雲林土庫 劉建國：落實在地醫療 完善長輩安心照護網 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOR1FOeTBXOE9OaWEyN1FBeXZVZGVpbldWclZZcVMxa0c5WGVoX1pfLWhkYkFGZFJOa1RqWF84akFySnpZV3JrMlFNUG9VYmp2MnlJeHprLUFURVg0SWcwVzNTMWZYUE5kUW1ZU2FhS0Z1MWMwYXJGRngwdEo2TjBJRzlwRlpoYlFGc213ZV9hbFVFbjdyem1hb1JUaEVXVDFVU2oyREZRVE9wbDUyU05wNktaN3AxWU1nMmEzcWtmREpSUHA4cjdqWEtWUE1iaGxfU1lPdHU2YWQ3RWFLamh1Q3dYYzdoeFJKMUNkMG9KcXFjNFdJWERiejNfeEh3QlFBOS1DUEtHejFFNl9QS1BtbWNaaXBlTGl6QzdtMXE3elJOMnJacjJaUlBHZ3hFX1NneEV3b29Ud3BPYVVBT0NWX0llamN1QnE3Y3dRMTFwTHB0LTBTcFNudkl5eS03SXdxbTBaalpSTUhNOE5QWUUwNzdYdUdjcTIwek9oUUUteE8zZXUzMFZYbHpKUVJFaW11T2JVbzFoUG5handHcDBuWTdsLW5Rb1dWYzh1Z1o2c3ZtbTJYYjdEeGExZGF2Vk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-13 06:21:58"
+      },
       {
         "title": "明星球星齊聚斗六響應公益 張嘉郡：讓愛心一年一年延續 - 元丰傳媒",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10RGRLc2Nld2QtSGJYdnBWM0c3Qm5fWWJ6dGlMbEZoQkdmYjZwM0hCa1poX3lHaFdlSC1obGtnWVRUb0dCbHRPdVZnSFUyaEpoMVpBNE1sS2t0N2xvclF6R0FiNTNuekFH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -629,6 +652,11 @@
         "time": "2026-09-12 17:26:00"
       },
       {
+        "title": "古坑農民心淌血！竹筍腐爛、番石榴落果　張嘉郡促請中央加速救助 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBUamZySGJoWll2SzVoR1FuWE9qQ1ZpYTllOHZmbWE4S2pHVUVXZ1FjTnYtbVRSSDRBMDQwX2pQQVRnbHkyQXJGRkJqekzSAVJBVV95cUxPNEhDY1ZZdnpuajE0bVRNNUhEbk9GekF4YmZxTVBpQW1kVkU2MFJlS2lHOHlIbHVBMVJQMEZuTm9Ld1JhRGpqNmtCRmhnTzNIanJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-12 17:13:18"
+      },
+      {
         "title": "劉建國大埤聯合競總第一站成立 提農業、社福政見拚雲林改變 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOT280S0t5cWo5ZXpLXzh6dS1mOFNjX1h3T3o0V19MLWxPOXFIZFVZTHVqdGltellRcklkQmJuZk56V0I2LXpzckpHZHZUeWtWRTEzeURxQkNpZFNrTlBBNXR6SGFrQ1RoZnZ2a200aWVsMmx3akdsejg4R0dvWDlGZHRtRGxlSWNiNUhGSV9aNUFEbmxub2ZJeGZrMFJxUGtTbnc0N19OODhTQXA3TlhhVV80c2xyWEk2Ym9wQTJYclhLYzBRYVhwMS05WElLWURrem5aeF9iLUZlQlYzUldjcGxfQ2NnUF8yUUNYdGFNODI0LTVTdmZrb2dkM2JQaUJtQWgwWXJvWUZzSTNSeGxZbjRDTmtSN1cxV3d2UXZBWHlKOXZsLXBvbVZXalkyNy04Q1JuNVRoWVFMWWRUc3lTdndSSlF4aUhPckhLLXJWMDBheFZCX3Jya2wyU29BMFdvTXhCUXdOSU04UjNpTVYzaVFrODhwRVlwMzdUc09KWUNpNU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-12 16:37:00"
@@ -658,14 +686,19 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 17,
-    "劉建國": 17
+    "張嘉郡": 18,
+    "劉建國": 18
   },
   "mention_compare_7d": {
-    "張嘉郡": 124,
-    "劉建國": 60
+    "張嘉郡": 125,
+    "劉建國": 61
   },
   "top_news": [
+    {
+      "title": "健保宣導列車前進雲林土庫 劉建國：落實在地醫療 完善長輩安心照護網 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOR1FOeTBXOE9OaWEyN1FBeXZVZGVpbldWclZZcVMxa0c5WGVoX1pfLWhkYkFGZFJOa1RqWF84akFySnpZV3JrMlFNUG9VYmp2MnlJeHprLUFURVg0SWcwVzNTMWZYUE5kUW1ZU2FhS0Z1MWMwYXJGRngwdEo2TjBJRzlwRlpoYlFGc213ZV9hbFVFbjdyem1hb1JUaEVXVDFVU2oyREZRVE9wbDUyU05wNktaN3AxWU1nMmEzcWtmREpSUHA4cjdqWEtWUE1iaGxfU1lPdHU2YWQ3RWFLamh1Q3dYYzdoeFJKMUNkMG9KcXFjNFdJWERiejNfeEh3QlFBOS1DUEtHejFFNl9QS1BtbWNaaXBlTGl6QzdtMXE3elJOMnJacjJaUlBHZ3hFX1NneEV3b29Ud3BPYVVBT0NWX0llamN1QnE3Y3dRMTFwTHB0LTBTcFNudkl5eS03SXdxbTBaalpSTUhNOE5QWUUwNzdYdUdjcTIwek9oUUUteE8zZXUzMFZYbHpKUVJFaW11T2JVbzFoUG5handHcDBuWTdsLW5Rb1dWYzh1Z1o2c3ZtbTJYYjdEeGExZGF2Vk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-13 06:21:58"
+    },
     {
       "title": "明星球星齊聚斗六響應公益 張嘉郡：讓愛心一年一年延續 - 元丰傳媒",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10RGRLc2Nld2QtSGJYdnBWM0c3Qm5fWWJ6dGlMbEZoQkdmYjZwM0hCa1poX3lHaFdlSC1obGtnWVRUb0dCbHRPdVZnSFUyaEpoMVpBNE1sS2t0N2xvclF6R0FiNTNuekFH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -720,14 +753,14 @@
       "title": "張嘉郡看棒球賽關注公益 劉建國參訪精米設備關心農業 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNYkxrZHhpQjZ2aHNSUVhNb0JadHUzRm5tc0E4MlJBeU1rMk0wbXFCTFo0VE1aeWQxV1V5NXJURDFndXZCYXUxTlVBMWNQVkhBTlg2b255ZTk0ekhCa29jZnRrZXpjWjdyRTRpRTZNbEZDRlFSSDV5VlNmQ1daSmJJTjdKbmdEWUVmdVhfVTRnM0FYZmI2ZFowME1hRElvanhYR0RiemRuOTM1MWEyTzBKYjd2aHgtMkk4dDlON3VteXE1Qm9BZVdmVk0tQ3ZUdUI0YllXYkpjLU5RNkZoSmhnNWVtTzdTd0I4TmR2YlhCSGRTQUFwSnpvXzNxR0NlS3JuNjRPQnBpWlI3d0VYeWZsMnFkZ2dpM0lhb2xfR2pEb3BGTFQ5Z0cwaHJyQURWRHlRS0VXd3FwQjlRMU1zeHRiTnJ5MXh0bjQ5bTRNSmh2UGNxcmZJZEltZTJlczE1TzFWOTdpRjF4LVMzaGtiVVFtTHFCbHU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-12 19:28:13"
-    },
-    {
-      "title": "（有影片）／健保宣導列車開進雲林土庫 劉建國打拚醫療在地照護到位 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPUkkwbnNwbjVTUWl2NVFTUWl3R2o1VFZaWF9ZOGJHTFhKWmZsSzhKYUJiUEt4SkNWRTIxMHdKTFVwQWFUOEpWeHdrM0Nvcm1UNUpUWlVXWE92dW5KM3pYM2gxWUpieGRqRVpldkNIa1NsV2szMGRNTnVBQkxPenBVaUlDTE1tX01Fb1pvT3VRc2trcU5ObFBBRjRvUFdSXzl3Q1lLWkJwUjBDRjhVaS05bm9xR3RQNmFaUVhfWGdaYXduRTNIeF82VkljRUpiaEpIekJLWmRSWVRnLVZUa18yN2VUMW8zLUxXM3cyaUMxYlo5VnQ5NFJDdENjZlVseXZ6d2doOWlkdkI1ajBkUXJyTjctQms1OXg2djd6WFRnQS1RSThyZENRaHk5UEMxdkZzdEVqamQ5anVMNllNMWxNZ2oyaGMtV2lMdmxOM05lR3c2UmZGTFZ3OTV1a1JIMEZxTGtUZkI1eXdsT1BGWXhtMXFOd084V3A1X1dCa25fUVF5bFd0SkkwZE9qblhER1RQX1dkSWpwSUFJM1F4ekJiWU5ISG1fQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-12 19:25:36"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "健保宣導列車前進雲林土庫 劉建國：落實在地醫療 完善長輩安心照護網 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOR1FOeTBXOE9OaWEyN1FBeXZVZGVpbldWclZZcVMxa0c5WGVoX1pfLWhkYkFGZFJOa1RqWF84akFySnpZV3JrMlFNUG9VYmp2MnlJeHprLUFURVg0SWcwVzNTMWZYUE5kUW1ZU2FhS0Z1MWMwYXJGRngwdEo2TjBJRzlwRlpoYlFGc213ZV9hbFVFbjdyem1hb1JUaEVXVDFVU2oyREZRVE9wbDUyU05wNktaN3AxWU1nMmEzcWtmREpSUHA4cjdqWEtWUE1iaGxfU1lPdHU2YWQ3RWFLamh1Q3dYYzdoeFJKMUNkMG9KcXFjNFdJWERiejNfeEh3QlFBOS1DUEtHejFFNl9QS1BtbWNaaXBlTGl6QzdtMXE3elJOMnJacjJaUlBHZ3hFX1NneEV3b29Ud3BPYVVBT0NWX0llamN1QnE3Y3dRMTFwTHB0LTBTcFNudkl5eS03SXdxbTBaalpSTUhNOE5QWUUwNzdYdUdjcTIwek9oUUUteE8zZXUzMFZYbHpKUVJFaW11T2JVbzFoUG5handHcDBuWTdsLW5Rb1dWYzh1Z1o2c3ZtbTJYYjdEeGExZGF2Vk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-13 06:21:58"
+    },
     {
       "title": "明星球星齊聚斗六響應公益 張嘉郡：讓愛心一年一年延續 - 元丰傳媒",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10RGRLc2Nld2QtSGJYdnBWM0c3Qm5fWWJ6dGlMbEZoQkdmYjZwM0hCa1poX3lHaFdlSC1obGtnWVRUb0dCbHRPdVZnSFUyaEpoMVpBNE1sS2t0N2xvclF6R0FiNTNuekFH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -822,11 +855,6 @@
       "title": "張嘉郡出席華山公益棒球賽 聚焦雲林高齡照護與在宅醫療 - 17news民生好報",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Ba3pPMngtbmI3S0d5NEN3Z1dMTktyN3BrYV9kUXNwOGI5VlhzTkxDUnhrMWRkcEFaT0Y0czBuWVZWamFCZEZTOXlR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-12 18:25:23"
-    },
-    {
-      "title": "劉建國成立大埤聯合競總 (圖) - tw.news.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOGhCeE5iOVBmdjgzWjg3eDJMYVhnc1N2UVExTk5fMVFYLUhuS1BuNGVQRU91MjZGVVQ5aDJBbVhKOWlqSFYzOFpsU3NFRXFTZnhWVFIzaURsZTdqVEVNaUp3Mlo0RkV1RFEwNVpTeUhub2dpdlVYekU2NEMzeUZMVDdLaWtJeXN3M2FuSkhZeGFYUVByVklZRlBVNlZndW90cnBSMnpjdkJLMy1nQWtndEotWFhRaEpRQkVUZnZJV2VkZWc5R3Q2U0hBU1A1MlRRSUsxZEY4UUJwck9KRFJwbm01NHM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-12 18:14:55"
     }
   ],
   "latest_facebook_20": [
@@ -933,6 +961,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "健保宣導列車前進雲林土庫 劉建國：落實在地醫療 完善長輩安心照護網 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOR1FOeTBXOE9OaWEyN1FBeXZVZGVpbldWclZZcVMxa0c5WGVoX1pfLWhkYkFGZFJOa1RqWF84akFySnpZV3JrMlFNUG9VYmp2MnlJeHprLUFURVg0SWcwVzNTMWZYUE5kUW1ZU2FhS0Z1MWMwYXJGRngwdEo2TjBJRzlwRlpoYlFGc213ZV9hbFVFbjdyem1hb1JUaEVXVDFVU2oyREZRVE9wbDUyU05wNktaN3AxWU1nMmEzcWtmREpSUHA4cjdqWEtWUE1iaGxfU1lPdHU2YWQ3RWFLamh1Q3dYYzdoeFJKMUNkMG9KcXFjNFdJWERiejNfeEh3QlFBOS1DUEtHejFFNl9QS1BtbWNaaXBlTGl6QzdtMXE3elJOMnJacjJaUlBHZ3hFX1NneEV3b29Ud3BPYVVBT0NWX0llamN1QnE3Y3dRMTFwTHB0LTBTcFNudkl5eS03SXdxbTBaalpSTUhNOE5QWUUwNzdYdUdjcTIwek9oUUUteE8zZXUzMFZYbHpKUVJFaW11T2JVbzFoUG5handHcDBuWTdsLW5Rb1dWYzh1Z1o2c3ZtbTJYYjdEeGExZGF2Vk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-13 06:21:58"
+    },
+    {
       "title": "明星球星齊聚斗六響應公益 張嘉郡：讓愛心一年一年延續 - 元丰傳媒",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10RGRLc2Nld2QtSGJYdnBWM0c3Qm5fWWJ6dGlMbEZoQkdmYjZwM0hCa1poX3lHaFdlSC1obGtnWVRUb0dCbHRPdVZnSFUyaEpoMVpBNE1sS2t0N2xvclF6R0FiNTNuekFH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-12 22:26:47"
@@ -1026,11 +1059,6 @@
       "title": "張嘉郡出席華山公益棒球賽 聚焦雲林高齡照護與在宅醫療 - 17news民生好報",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Ba3pPMngtbmI3S0d5NEN3Z1dMTktyN3BrYV9kUXNwOGI5VlhzTkxDUnhrMWRkcEFaT0Y0czBuWVZWamFCZEZTOXlR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-12 18:25:23"
-    },
-    {
-      "title": "劉建國成立大埤聯合競總 (圖) - tw.news.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOGhCeE5iOVBmdjgzWjg3eDJMYVhnc1N2UVExTk5fMVFYLUhuS1BuNGVQRU91MjZGVVQ5aDJBbVhKOWlqSFYzOFpsU3NFRXFTZnhWVFIzaURsZTdqVEVNaUp3Mlo0RkV1RFEwNVpTeUhub2dpdlVYekU2NEMzeUZMVDdLaWtJeXN3M2FuSkhZeGFYUVByVklZRlBVNlZndW90cnBSMnpjdkJLMy1nQWtndEotWFhRaEpRQkVUZnZJV2VkZWc5R3Q2U0hBU1A1MlRRSUsxZEY4UUJwck9KRFJwbm01NHM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-12 18:14:55"
     }
   ],
   "person_sections": {
@@ -1214,6 +1242,11 @@
           "time": "2026-09-12 17:26:00"
         },
         {
+          "title": "古坑農民心淌血！竹筍腐爛、番石榴落果　張嘉郡促請中央加速救助 - NOWnews今日新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBUamZySGJoWll2SzVoR1FuWE9qQ1ZpYTllOHZmbWE4S2pHVUVXZ1FjTnYtbVRSSDRBMDQwX2pQQVRnbHkyQXJGRkJqekzSAVJBVV95cUxPNEhDY1ZZdnpuajE0bVRNNUhEbk9GekF4YmZxTVBpQW1kVkU2MFJlS2lHOHlIbHVBMVJQMEZuTm9Ld1JhRGpqNmtCRmhnTzNIanJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-12 17:13:18"
+        },
+        {
           "title": "豪雨重創雲林古坑農作 竹筍、番石榴慘遭災損 張嘉郡勘災促加速救助農民 - 蕃新聞",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sLV9SNDdFaTR1b0YxTTQwWHVIdHJGUnVnQnU2QnNoVEFZcGZGX1hrTVhuSnVtNFptQkVyNUJlb2k0VDdmY2M5TzhYM0thWHlodnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-12 09:49:00"
@@ -1232,11 +1265,6 @@
           "title": "豪雨造成雲林古坑竹筍、番石榴農損 立委張嘉郡等人現勘 籲儘速辦理天然災害救助！ - 台灣華報",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FN1dTeWhabTc0RDNla19jcFBNaFFDaHVsX1RpSTJib3NIeXh1ekFZMm1WNGVyQlVmenZ0ZVhtaEV6MDg0OEg4U1FrV2p5b1dSVEp2SU1yNzlHYUl4RFRiWEdqSzVST1A1TW9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-11 23:59:57"
-        },
-        {
-          "title": "豪雨害雲林蚵死8成蚵農苦！ 劉建國、張嘉郡雙雙前往勘災 - eracom.com.tw",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pZU04QkNPemotRnUwMWZiM0NFcDBYMnBmTjB2OUY4Y2dnVUtEZFcxNi1EUjFwd3h3UHJVS1lyUGEwMHJCM3Nqd3JqYkFSajg0WG5xREpKbllZcmMwclVrS1ZJVmZCYWhHbnczUTRLUEh3RmltM2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-11 19:40:59"
         }
       ]
     },
@@ -1345,6 +1373,11 @@
       ],
       "news": [
         {
+          "title": "健保宣導列車前進雲林土庫 劉建國：落實在地醫療 完善長輩安心照護網 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOR1FOeTBXOE9OaWEyN1FBeXZVZGVpbldWclZZcVMxa0c5WGVoX1pfLWhkYkFGZFJOa1RqWF84akFySnpZV3JrMlFNUG9VYmp2MnlJeHprLUFURVg0SWcwVzNTMWZYUE5kUW1ZU2FhS0Z1MWMwYXJGRngwdEo2TjBJRzlwRlpoYlFGc213ZV9hbFVFbjdyem1hb1JUaEVXVDFVU2oyREZRVE9wbDUyU05wNktaN3AxWU1nMmEzcWtmREpSUHA4cjdqWEtWUE1iaGxfU1lPdHU2YWQ3RWFLamh1Q3dYYzdoeFJKMUNkMG9KcXFjNFdJWERiejNfeEh3QlFBOS1DUEtHejFFNl9QS1BtbWNaaXBlTGl6QzdtMXE3elJOMnJacjJaUlBHZ3hFX1NneEV3b29Ud3BPYVVBT0NWX0llamN1QnE3Y3dRMTFwTHB0LTBTcFNudkl5eS03SXdxbTBaalpSTUhNOE5QWUUwNzdYdUdjcTIwek9oUUUteE8zZXUzMFZYbHpKUVJFaW11T2JVbzFoUG5handHcDBuWTdsLW5Rb1dWYzh1Z1o2c3ZtbTJYYjdEeGExZGF2Vk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-13 06:21:58"
+        },
+        {
           "title": "（有影片）／劉建國首座聯合競總大埤成立 大喊「縣民政治 對家族政治」 | 觀傳媒 - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83YXNfNDFOcFVha1RZYTZtYlhmel9mck05M2RkbnBpZ3kycWRReENramJsSEc4S29CUTBGVW53V19XdmpxeFNJNDYxaER3ZU5DWjJHaW9n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-12 21:30:00"
@@ -1438,17 +1471,17 @@
           "title": "雲林牡蠣大量死亡 劉建國.張嘉郡前後勘災爭補助 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQMjVxaExVUHI0NndreGs3ckRWdmhoOHRkcGJDdHlmaG9OTE1LRVVNNER3ZzBQX1ZxMmZ6WW9KV0E3MHFnVHptR0xFVHhrcHpGRDc4Q214ZV9JMUZGYldaYVk0TDluMmpQd3VnRmRySktLQUVHbTQxNkQ1N1cxcXIwVGV3RUUxLWZCNUtWbUpweV9iTk00bEFWdklZelp1b3FLdmp5VGsyeEJzUVJBNFZLSXM3anpjSnVpT2NKZlRQUElpU0hkZlV4VzZCUzAxZlRMSVMta3RONU1aVHNmcVVYalJMMW9uRFJwSlF6MVJ4ZG1RUkJMZkpEQlFpei1mOS0wY2M3bThJV1ZVenhJSEIwajVldUxON0ZBUWcwbk1zTmFzdlAzRVE2NTRZOXpsUGxTbG9xbDJ6b3RwbUIySXJBYlZvTGl6ODg1MDJHdVZlYmpTZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-11 17:50:35"
-        },
-        {
-          "title": "雲林牡蠣大量死亡 劉建國、張嘉郡前後勘災爭補助 - 民視新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VZnRFVDduS1RUeVdXVkFCV3FsblRRQ0V4enVTYkR3Q1IzbFZmVF9iUUlxcmJpVDYwLUVhRDd1TnFsT0dTRER0NXJCWDdVNEhrcWxtNGwtQ1g5XzIwUWcwZA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-11 17:50:35"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "健保宣導列車前進雲林土庫 劉建國：落實在地醫療 完善長輩安心照護網 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOR1FOeTBXOE9OaWEyN1FBeXZVZGVpbldWclZZcVMxa0c5WGVoX1pfLWhkYkFGZFJOa1RqWF84akFySnpZV3JrMlFNUG9VYmp2MnlJeHprLUFURVg0SWcwVzNTMWZYUE5kUW1ZU2FhS0Z1MWMwYXJGRngwdEo2TjBJRzlwRlpoYlFGc213ZV9hbFVFbjdyem1hb1JUaEVXVDFVU2oyREZRVE9wbDUyU05wNktaN3AxWU1nMmEzcWtmREpSUHA4cjdqWEtWUE1iaGxfU1lPdHU2YWQ3RWFLamh1Q3dYYzdoeFJKMUNkMG9KcXFjNFdJWERiejNfeEh3QlFBOS1DUEtHejFFNl9QS1BtbWNaaXBlTGl6QzdtMXE3elJOMnJacjJaUlBHZ3hFX1NneEV3b29Ud3BPYVVBT0NWX0llamN1QnE3Y3dRMTFwTHB0LTBTcFNudkl5eS03SXdxbTBaalpSTUhNOE5QWUUwNzdYdUdjcTIwek9oUUUteE8zZXUzMFZYbHpKUVJFaW11T2JVbzFoUG5handHcDBuWTdsLW5Rb1dWYzh1Z1o2c3ZtbTJYYjdEeGExZGF2Vk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-13 06:21:58"
+      },
       {
         "title": "明星球星齊聚斗六響應公益 張嘉郡：讓愛心一年一年延續 - 元丰傳媒",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10RGRLc2Nld2QtSGJYdnBWM0c3Qm5fWWJ6dGlMbEZoQkdmYjZwM0hCa1poX3lHaFdlSC1obGtnWVRUb0dCbHRPdVZnSFUyaEpoMVpBNE1sS2t0N2xvclF6R0FiNTNuekFH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1573,6 +1606,11 @@
         "title": "力挺華山公益棒球賽 張嘉郡：打造高齡友善、健康有愛雲林 - tw.news.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOd1A2TUQ1ZVc3ZVliUmhFcXdhQ21TV2ZKbVY0bHpYZWlDZFcwRllPenl6SDdXdnRnNTQ1Q2ZodFEtbUQ4TG1aTkk3UWx4bnpxOUcxeW9acTJCakxTbzRGYkwxdmZmZ3Y5UkFBYWN5TWNrbTN6cktqNU9WWlBqNno2b2FZdHRpRE96VjR6Y0hmUExGM3ZndlJLZ09NVVlkOHhSZlVibEdaMkhJVjNUbTk0VEZnWkVqRHpER1RLanVWVFJtWnJQUjQwdDVGVU5XODFNRE9DMU9lX19Tc1Q4WFU5WmUtNjZQMUJ6Q0MyOXJvSGdtclJUNU91QzI3R1JQVDNSaWlaaWdFQlhLb2RzREprTG5weGNpSmJ2LXAxYTdGUWc4TmVFa2N5YXhrYXFYeDZWWjRsUHJpZ3c5ZGZiSVNGMkFGV1RIdTk3RjItODFKY1ZWcmtYRlFCUlY1UnRxZ0hQNm00Mk5yZWRydE5jeWJaQ0F6TmZ3ZDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-12 17:26:00"
+      },
+      {
+        "title": "古坑農民心淌血！竹筍腐爛、番石榴落果　張嘉郡促請中央加速救助 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBUamZySGJoWll2SzVoR1FuWE9qQ1ZpYTllOHZmbWE4S2pHVUVXZ1FjTnYtbVRSSDRBMDQwX2pQQVRnbHkyQXJGRkJqekzSAVJBVV95cUxPNEhDY1ZZdnpuajE0bVRNNUhEbk9GekF4YmZxTVBpQW1kVkU2MFJlS2lHOHlIbHVBMVJQMEZuTm9Ld1JhRGpqNmtCRmhnTzNIanJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-12 17:13:18"
       },
       {
         "title": "劉建國大埤聯合競總第一站成立 提農業、社福政見拚雲林改變 - Yahoo新聞",
@@ -1611,6 +1649,11 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "健保宣導列車前進雲林土庫 劉建國：落實在地醫療 完善長輩安心照護網 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOR1FOeTBXOE9OaWEyN1FBeXZVZGVpbldWclZZcVMxa0c5WGVoX1pfLWhkYkFGZFJOa1RqWF84akFySnpZV3JrMlFNUG9VYmp2MnlJeHprLUFURVg0SWcwVzNTMWZYUE5kUW1ZU2FhS0Z1MWMwYXJGRngwdEo2TjBJRzlwRlpoYlFGc213ZV9hbFVFbjdyem1hb1JUaEVXVDFVU2oyREZRVE9wbDUyU05wNktaN3AxWU1nMmEzcWtmREpSUHA4cjdqWEtWUE1iaGxfU1lPdHU2YWQ3RWFLamh1Q3dYYzdoeFJKMUNkMG9KcXFjNFdJWERiejNfeEh3QlFBOS1DUEtHejFFNl9QS1BtbWNaaXBlTGl6QzdtMXE3elJOMnJacjJaUlBHZ3hFX1NneEV3b29Ud3BPYVVBT0NWX0llamN1QnE3Y3dRMTFwTHB0LTBTcFNudkl5eS03SXdxbTBaalpSTUhNOE5QWUUwNzdYdUdjcTIwek9oUUUteE8zZXUzMFZYbHpKUVJFaW11T2JVbzFoUG5handHcDBuWTdsLW5Rb1dWYzh1Z1o2c3ZtbTJYYjdEeGExZGF2Vk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-13 06:21:58"
+      },
+      {
         "title": "明星球星齊聚斗六響應公益 張嘉郡：讓愛心一年一年延續 - 元丰傳媒",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10RGRLc2Nld2QtSGJYdnBWM0c3Qm5fWWJ6dGlMbEZoQkdmYjZwM0hCa1poX3lHaFdlSC1obGtnWVRUb0dCbHRPdVZnSFUyaEpoMVpBNE1sS2t0N2xvclF6R0FiNTNuekFH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-12 22:26:47"
@@ -1734,6 +1777,11 @@
         "title": "力挺華山公益棒球賽 張嘉郡：打造高齡友善、健康有愛雲林 - tw.news.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOd1A2TUQ1ZVc3ZVliUmhFcXdhQ21TV2ZKbVY0bHpYZWlDZFcwRllPenl6SDdXdnRnNTQ1Q2ZodFEtbUQ4TG1aTkk3UWx4bnpxOUcxeW9acTJCakxTbzRGYkwxdmZmZ3Y5UkFBYWN5TWNrbTN6cktqNU9WWlBqNno2b2FZdHRpRE96VjR6Y0hmUExGM3ZndlJLZ09NVVlkOHhSZlVibEdaMkhJVjNUbTk0VEZnWkVqRHpER1RLanVWVFJtWnJQUjQwdDVGVU5XODFNRE9DMU9lX19Tc1Q4WFU5WmUtNjZQMUJ6Q0MyOXJvSGdtclJUNU91QzI3R1JQVDNSaWlaaWdFQlhLb2RzREprTG5weGNpSmJ2LXAxYTdGUWc4TmVFa2N5YXhrYXFYeDZWWjRsUHJpZ3c5ZGZiSVNGMkFGV1RIdTk3RjItODFKY1ZWcmtYRlFCUlY1UnRxZ0hQNm00Mk5yZWRydE5jeWJaQ0F6TmZ3ZDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-12 17:26:00"
+      },
+      {
+        "title": "古坑農民心淌血！竹筍腐爛、番石榴落果　張嘉郡促請中央加速救助 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBUamZySGJoWll2SzVoR1FuWE9qQ1ZpYTllOHZmbWE4S2pHVUVXZ1FjTnYtbVRSSDRBMDQwX2pQQVRnbHkyQXJGRkJqekzSAVJBVV95cUxPNEhDY1ZZdnpuajE0bVRNNUhEbk9GekF4YmZxTVBpQW1kVkU2MFJlS2lHOHlIbHVBMVJQMEZuTm9Ld1JhRGpqNmtCRmhnTzNIanJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-12 17:13:18"
       },
       {
         "title": "劉建國大埤聯合競總第一站成立 提農業、社福政見拚雲林改變 - Yahoo新聞",
@@ -1799,16 +1847,6 @@
         "title": "8月下旬豪雨致竹筍.芭樂農損 張嘉郡籲儘速辦理天然災害救助 - 台灣生活新聞",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mTjdzZ3ozdUMzVmw3aGJleERiV0dMeW5mNVE1VkU2bGFTSzN6M0J6a01RLURrWHNHU2FCTjd6RXIzV0NzSXl6UmowRklEeFJQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-11 17:36:26"
-      },
-      {
-        "title": "豪雨造成古坑竹筍、番石榴農損 張嘉郡爭取儘速辦理天災救助 - PChome Online 股市",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdGRVSEhBbkJSSUxnandZTDJwT0JyaW5McUs0aGVhTE52OUszV2lXa016Y3RHcDZIbDBmTlQ0dzlvODlRMnY5eFNSY2NvdVJZY1FTWTVVcTcyZDJ1TnhDUnN3TFhKZ3VVaFUtU1g1elVIX0NBa0FZTGNtTkFPZlRqZQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-11 17:22:35"
-      },
-      {
-        "title": "古坑竹筍、番石榴陰雨農損 張嘉郡：農業部應加速辦理天然災害救助 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNWmRFcllNMzhXT1lHNWJpVVl6djQxSjMyWThtUmRFRmFZdnozcTdWbVRTLTNyQ1NyUWRzNWRaVk5Ja0xJanZYTWRQekNaVVBuYmZuSDBPaXl4R1RSVTJacTFVSXBFMXVyaE5QNWhrRjNmWHVBcnN6Qy12bExGLTZKTUlheFo1Y2xZQnQ0TC1CYTVyWk11SXJndE1mcDVPSzBBb29ua09tbXFwYXVWekRQT05pQjdBZ0pCaWsyMjFEV0xmR2hFYjRoSy1wT2sxS19jTTVLRFBpblJOTW43S2RtWk94eVo2T05veUhRQjRQX3hPLUtEUnZaT0RwM3BMV29LRzJUOFlEMFVwVmpJcmZLc2luZlZhb3hQNEFnd2wzR19OakxJamJLRDFZNXR0OHpLc05CbmFiWGtmTUN5Vk5EeEtHTGRycHBuX2ZfMmxyM09fX1YwVjJ6dU05bXVtS2ZZcDJNeXZ3OXZndklBMEhLUDJuRkQ4MkhRQlpQQ2hxWldFWFBaOXB2Z21xTDBKME9nUGk2LVlnN3VFb0g2aVFRTTY2REZkaFk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-11 17:18:49"
       }
     ],
     "facebook": [
@@ -1935,6 +1973,13 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "健保宣導列車前進雲林土庫 劉建國：落實在地醫療 完善長輩安心照護網 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOR1FOeTBXOE9OaWEyN1FBeXZVZGVpbldWclZZcVMxa0c5WGVoX1pfLWhkYkFGZFJOa1RqWF84akFySnpZV3JrMlFNUG9VYmp2MnlJeHprLUFURVg0SWcwVzNTMWZYUE5kUW1ZU2FhS0Z1MWMwYXJGRngwdEo2TjBJRzlwRlpoYlFGc213ZV9hbFVFbjdyem1hb1JUaEVXVDFVU2oyREZRVE9wbDUyU05wNktaN3AxWU1nMmEzcWtmREpSUHA4cjdqWEtWUE1iaGxfU1lPdHU2YWQ3RWFLamh1Q3dYYzdoeFJKMUNkMG9KcXFjNFdJWERiejNfeEh3QlFBOS1DUEtHejFFNl9QS1BtbWNaaXBlTGl6QzdtMXE3elJOMnJacjJaUlBHZ3hFX1NneEV3b29Ud3BPYVVBT0NWX0llamN1QnE3Y3dRMTFwTHB0LTBTcFNudkl5eS03SXdxbTBaalpSTUhNOE5QWUUwNzdYdUdjcTIwek9oUUUteE8zZXUzMFZYbHpKUVJFaW11T2JVbzFoUG5handHcDBuWTdsLW5Rb1dWYzh1Z1o2c3ZtbTJYYjdEeGExZGF2Vk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-13 06:21:58",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "明星球星齊聚斗六響應公益 張嘉郡：讓愛心一年一年延續 - 元丰傳媒",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10RGRLc2Nld2QtSGJYdnBWM0c3Qm5fWWJ6dGlMbEZoQkdmYjZwM0hCa1poX3lHaFdlSC1obGtnWVRUb0dCbHRPdVZnSFUyaEpoMVpBNE1sS2t0N2xvclF6R0FiNTNuekFH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -2067,13 +2112,6 @@
         "time": "2026-09-12 18:25:23",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "劉建國成立大埤聯合競總 (圖) - tw.news.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOGhCeE5iOVBmdjgzWjg3eDJMYVhnc1N2UVExTk5fMVFYLUhuS1BuNGVQRU91MjZGVVQ5aDJBbVhKOWlqSFYzOFpsU3NFRXFTZnhWVFIzaURsZTdqVEVNaUp3Mlo0RkV1RFEwNVpTeUhub2dpdlVYekU2NEMzeUZMVDdLaWtJeXN3M2FuSkhZeGFYUVByVklZRlBVNlZndW90cnBSMnpjdkJLMy1nQWtndEotWFhRaEpRQkVUZnZJV2VkZWc5R3Q2U0hBU1A1MlRRSUsxZEY4UUJwck9KRFJwbm01NHM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-12 18:14:55",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2081,21 +2119,21 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 20
-      },
-      {
-        "name": "斗六",
-        "count": 2
+        "count": 21
       },
       {
         "name": "古坑",
+        "count": 3
+      },
+      {
+        "name": "斗六",
         "count": 2
       }
     ],
     "groups": [
       {
         "name": "農業族群",
-        "count": 9
+        "count": 10
       }
     ]
   }
