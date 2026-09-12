@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-12T01:06:32.081067+00:00",
+  "generated_at": "2026-09-12T01:22:18.060864+00:00",
   "metrics": {
-    "total_24h": 27,
+    "total_24h": 28,
     "prev_24h": 35,
-    "growth_pct": -22.86,
-    "news_24h": 24,
+    "growth_pct": -20.0,
+    "news_24h": 25,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 164,
+    "total": 165,
     "prev": 262,
-    "growth_pct": -37.4,
-    "news": 139,
+    "growth_pct": -37.02,
+    "news": 140,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 24
+      "count": 25
     },
     {
       "platform": "youtube",
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 139
+      "count": 140
     },
     {
       "platform": "facebook",
@@ -92,7 +92,7 @@
     },
     {
       "hour": "2026-09-11 23:00",
-      "count": 1
+      "count": 2
     }
   ],
   "by_hour_7d": [
@@ -310,13 +310,13 @@
     },
     {
       "hour": "2026-09-11 23:00",
-      "count": 1
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 23
+      "count": 24
     },
     {
       "platform": "facebook",
@@ -324,14 +324,12 @@
     }
   ],
   "mention_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "豪雨造成古坑竹筍、番石榴農損 #張嘉郡 現勘籲儘速辦理天然災害救助 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNUnNselRPelhEcGtSZTBCTFBKRGp0M3NmczZfZHI3S1BkcG5ZYkN4T0sya1gwSGNDdlJxWm5YYWF0c1h6LTNoa1pucFpEVW9qVDhONFMxaHpHV1JkTTFpXzVId29SdWxfaVJkZUJnUkxNYUlUcXBVQzEtVlpCQ3I0WXl0a1h5YmRtMzRfY3BCanItRzQzelBGcFdtZzg5LWw4X1hEa2RNNWljX3BsX3hoNHkybEFWa2VYOWswYXZ6SzJUQjFwOHpzdWZOUjJJM2YtYVJ2Mi1fSkc3U2dadU93aWxtVWYzN3luMy1MTFFIc2Y1aVRYbmRIdkFvaE5GRTBhbml1RkJOR1V5YlJzblh3VGtZN0Jzb3Vfc1pBU3JLN2lMano5UXZ0b2lCUzQwaXo4V2tlYzlQc2pTM2tmNzdPaGEtaUFna0IweVBGT195aThNOTYzenpweTFsXy1LMjM5dXNCdmdBR0VENG5jZ0M2bVVGcnBidzhIc0JyMzlSa25tOURRNGd1ZGc1VnRtejVyeDBBR1RVNDdNbVJTa2hiLVZXRlBnczE4N3E4OTJDRWJsY3B6SGhMLUxoOGRtSnZuaXR4YmtMVU1nLTZG",
-        "time": "2026-09-11 20:52:51"
-      }
-    ],
     "news": [
+      {
+        "title": "豪雨造成雲林古坑竹筍、番石榴農損 立委張嘉郡等人現勘 籲儘速辦理天然災害救助！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FN1dTeWhabTc0RDNla19jcFBNaFFDaHVsX1RpSTJib3NIeXh1ekFZMm1WNGVyQlVmenZ0ZVhtaEV6MDg0OEg4U1FrV2p5b1dSVEp2SU1yNzlHYUl4RFRiWEdqSzVST1A1TW9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-11 23:59:57"
+      },
       {
         "title": "豪雨害雲林蚵死8成蚵農苦！ 劉建國、張嘉郡雙雙前往勘災 - eracom.com.tw",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pZU04QkNPemotRnUwMWZiM0NFcDBYMnBmTjB2OUY4Y2dnVUtEZFcxNi1EUjFwd3h3UHJVS1lyUGEwMHJCM3Nqd3JqYkFSajg0WG5xREpKbllZcmMwclVrS1ZJVmZCYWhHbnczUTRLUEh3RmltM2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -447,12 +445,19 @@
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFVEktOEZVVG82T0Fja3E3N2lFYU5JRlhJOEtyZVpOVm9LYlFPTzM3QmtYc3h2emN2LXJEdXRaUVpwU1ltU01QLU91X3RIWUZMNjJpM1FlcFVOUEhXckZXZ3FONnRYOGd1VWhvSDdtdXU4eS1QSWozMzl6cHh3Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-11 10:11:30"
       }
+    ],
+    "facebook": [
+      {
+        "title": "豪雨造成古坑竹筍、番石榴農損 #張嘉郡 現勘籲儘速辦理天然災害救助 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNUnNselRPelhEcGtSZTBCTFBKRGp0M3NmczZfZHI3S1BkcG5ZYkN4T0sya1gwSGNDdlJxWm5YYWF0c1h6LTNoa1pucFpEVW9qVDhONFMxaHpHV1JkTTFpXzVId29SdWxfaVJkZUJnUkxNYUlUcXBVQzEtVlpCQ3I0WXl0a1h5YmRtMzRfY3BCanItRzQzelBGcFdtZzg5LWw4X1hEa2RNNWljX3BsX3hoNHkybEFWa2VYOWswYXZ6SzJUQjFwOHpzdWZOUjJJM2YtYVJ2Mi1fSkc3U2dadU93aWxtVWYzN3luMy1MTFFIc2Y1aVRYbmRIdkFvaE5GRTBhbml1RkJOR1V5YlJzblh3VGtZN0Jzb3Vfc1pBU3JLN2lMano5UXZ0b2lCUzQwaXo4V2tlYzlQc2pTM2tmNzdPaGEtaUFna0IweVBGT195aThNOTYzenpweTFsXy1LMjM5dXNCdmdBR0VENG5jZ0M2bVVGcnBidzhIc0JyMzlSa25tOURRNGd1ZGc1VnRtejVyeDBBR1RVNDdNbVJTa2hiLVZXRlBnczE4N3E4OTJDRWJsY3B6SGhMLUxoOGRtSnZuaXR4YmtMVU1nLTZG",
+        "time": "2026-09-11 20:52:51"
+      }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 23
+      "count": 24
     },
     {
       "platform": "facebook",
@@ -460,14 +465,12 @@
     }
   ],
   "alias_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "豪雨造成古坑竹筍、番石榴農損 #張嘉郡 現勘籲儘速辦理天然災害救助 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNUnNselRPelhEcGtSZTBCTFBKRGp0M3NmczZfZHI3S1BkcG5ZYkN4T0sya1gwSGNDdlJxWm5YYWF0c1h6LTNoa1pucFpEVW9qVDhONFMxaHpHV1JkTTFpXzVId29SdWxfaVJkZUJnUkxNYUlUcXBVQzEtVlpCQ3I0WXl0a1h5YmRtMzRfY3BCanItRzQzelBGcFdtZzg5LWw4X1hEa2RNNWljX3BsX3hoNHkybEFWa2VYOWswYXZ6SzJUQjFwOHpzdWZOUjJJM2YtYVJ2Mi1fSkc3U2dadU93aWxtVWYzN3luMy1MTFFIc2Y1aVRYbmRIdkFvaE5GRTBhbml1RkJOR1V5YlJzblh3VGtZN0Jzb3Vfc1pBU3JLN2lMano5UXZ0b2lCUzQwaXo4V2tlYzlQc2pTM2tmNzdPaGEtaUFna0IweVBGT195aThNOTYzenpweTFsXy1LMjM5dXNCdmdBR0VENG5jZ0M2bVVGcnBidzhIc0JyMzlSa25tOURRNGd1ZGc1VnRtejVyeDBBR1RVNDdNbVJTa2hiLVZXRlBnczE4N3E4OTJDRWJsY3B6SGhMLUxoOGRtSnZuaXR4YmtMVU1nLTZG",
-        "time": "2026-09-11 20:52:51"
-      }
-    ],
     "news": [
+      {
+        "title": "豪雨造成雲林古坑竹筍、番石榴農損 立委張嘉郡等人現勘 籲儘速辦理天然災害救助！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FN1dTeWhabTc0RDNla19jcFBNaFFDaHVsX1RpSTJib3NIeXh1ekFZMm1WNGVyQlVmenZ0ZVhtaEV6MDg0OEg4U1FrV2p5b1dSVEp2SU1yNzlHYUl4RFRiWEdqSzVST1A1TW9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-11 23:59:57"
+      },
       {
         "title": "豪雨害雲林蚵死8成蚵農苦！ 劉建國、張嘉郡雙雙前往勘災 - eracom.com.tw",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pZU04QkNPemotRnUwMWZiM0NFcDBYMnBmTjB2OUY4Y2dnVUtEZFcxNi1EUjFwd3h3UHJVS1lyUGEwMHJCM3Nqd3JqYkFSajg0WG5xREpKbllZcmMwclVrS1ZJVmZCYWhHbnczUTRLUEh3RmltM2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -583,17 +586,29 @@
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFVEktOEZVVG82T0Fja3E3N2lFYU5JRlhJOEtyZVpOVm9LYlFPTzM3QmtYc3h2emN2LXJEdXRaUVpwU1ltU01QLU91X3RIWUZMNjJpM1FlcFVOUEhXckZXZ3FONnRYOGd1VWhvSDdtdXU4eS1QSWozMzl6cHh3Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-11 10:11:30"
       }
+    ],
+    "facebook": [
+      {
+        "title": "豪雨造成古坑竹筍、番石榴農損 #張嘉郡 現勘籲儘速辦理天然災害救助 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNUnNselRPelhEcGtSZTBCTFBKRGp0M3NmczZfZHI3S1BkcG5ZYkN4T0sya1gwSGNDdlJxWm5YYWF0c1h6LTNoa1pucFpEVW9qVDhONFMxaHpHV1JkTTFpXzVId29SdWxfaVJkZUJnUkxNYUlUcXBVQzEtVlpCQ3I0WXl0a1h5YmRtMzRfY3BCanItRzQzelBGcFdtZzg5LWw4X1hEa2RNNWljX3BsX3hoNHkybEFWa2VYOWswYXZ6SzJUQjFwOHpzdWZOUjJJM2YtYVJ2Mi1fSkc3U2dadU93aWxtVWYzN3luMy1MTFFIc2Y1aVRYbmRIdkFvaE5GRTBhbml1RkJOR1V5YlJzblh3VGtZN0Jzb3Vfc1pBU3JLN2lMano5UXZ0b2lCUzQwaXo4V2tlYzlQc2pTM2tmNzdPaGEtaUFna0IweVBGT195aThNOTYzenpweTFsXy1LMjM5dXNCdmdBR0VENG5jZ0M2bVVGcnBidzhIc0JyMzlSa25tOURRNGd1ZGc1VnRtejVyeDBBR1RVNDdNbVJTa2hiLVZXRlBnczE4N3E4OTJDRWJsY3B6SGhMLUxoOGRtSnZuaXR4YmtMVU1nLTZG",
+        "time": "2026-09-11 20:52:51"
+      }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 24,
+    "張嘉郡": 25,
     "劉建國": 6
   },
   "mention_compare_7d": {
-    "張嘉郡": 120,
+    "張嘉郡": 121,
     "劉建國": 43
   },
   "top_news": [
+    {
+      "title": "豪雨造成雲林古坑竹筍、番石榴農損 立委張嘉郡等人現勘 籲儘速辦理天然災害救助！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FN1dTeWhabTc0RDNla19jcFBNaFFDaHVsX1RpSTJib3NIeXh1ekFZMm1WNGVyQlVmenZ0ZVhtaEV6MDg0OEg4U1FrV2p5b1dSVEp2SU1yNzlHYUl4RFRiWEdqSzVST1A1TW9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-11 23:59:57"
+    },
     {
       "title": "討論牆 | 蘇治芬雲林徒步宣講 籲守護民主政治(圖) - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vNzRMYmlqVWJNdTRnV1dtZG1OYXpsMjNIRlhRYVJ2d0tBUTdPdWJtS2lHOEhJb1RpMThnLXp2Wm9VT2R2RjhUbFI5cjJLUG8wQVdnaHlvSnpCTzdoenZaY29UbWg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -648,14 +663,14 @@
       "title": "古坑農民心淌血！竹筍腐爛、番石榴落果　張嘉郡促請中央加速救助 - nownews.com",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80SENjVll2em5qMTRtVE01SERuT0Z6QXhiZnFNUGlBbWRWRTYwUmVLaUc4eUhsdUExUlAwRm5Ob0t3UmFEamo2a0JGaGdPM0hqcmfSAVJBVV95cUxPNEhDY1ZZdnpuajE0bVRNNUhEbk9GekF4YmZxTVBpQW1kVkU2MFJlS2lHOHlIbHVBMVJQMEZuTm9Ld1JhRGpqNmtCRmhnTzNIanJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-11 16:57:27"
-    },
-    {
-      "title": "古坑竹筍泡水腐爛！張嘉郡促請中央加速救助 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZW0yaUNELVVVVlZGS1RLazZwdE5EWDB1OWk4eU5lNkFlTHNoM1pCbkNOSU03Mzg1SzBwVUdoWmNqR2tIeTQ2X3dUX0JzQmxrUHo1c19wdjFXTE9BTEZOS0tBY2NMZldPbHNjcm1zT1AxMTdHV05qaGFCVnUwZ25EQW01V0NLZzdmdXhtbw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-11 16:57:27"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "豪雨造成雲林古坑竹筍、番石榴農損 立委張嘉郡等人現勘 籲儘速辦理天然災害救助！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FN1dTeWhabTc0RDNla19jcFBNaFFDaHVsX1RpSTJib3NIeXh1ekFZMm1WNGVyQlVmenZ0ZVhtaEV6MDg0OEg4U1FrV2p5b1dSVEp2SU1yNzlHYUl4RFRiWEdqSzVST1A1TW9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-11 23:59:57"
+    },
     {
       "title": "討論牆 | 蘇治芬雲林徒步宣講 籲守護民主政治(圖) - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vNzRMYmlqVWJNdTRnV1dtZG1OYXpsMjNIRlhRYVJ2d0tBUTdPdWJtS2lHOEhJb1RpMThnLXp2Wm9VT2R2RjhUbFI5cjJLUG8wQVdnaHlvSnpCTzdoenZaY29UbWg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -750,11 +765,6 @@
       "title": "張嘉郡連日現勘口湖、古坑農漁民災損 爭取災害救助 - tw.news.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPZjlyODdGcWU3bkRwbEJLalpWckRHUE5EcXNaMERDbENFY3FKck1EY0NaX0tGVDJiRHRmRzNXaERHanFrdGRoMFBzdVZZaVFSSE5hbl8zdUNoR3owcDY5c2dqLVhYZXhlZmlteXlrdmZNZ21rQzhIaXBQbGJrWjUwdUNWeWlScS1GOHhuZ3RrWGFUQ2RaVVk1UDZlTHlvRFBQWldCM1BUWlNTQzR0VC1wcU5iclZwbVA4SW5GdWFtR0RTNnlocmFwQ3o3U0dlTXRyWHBmYzNSM196UnViSWd2TnF3TEd5SWVXejB6VFVPV0tqZXdBblREelpZVkY4cVMxZ1psRUx1Z0pLV19nUE16bUF2TVJSZEVwWUdVSDIwMmVCWGRmdmh6RHh3VjQtczVVbEpFX1VxcEJjbk1saVI4dHpxQWZuajRyaV85Q0dFMzNWSDZQcGRxQ24yYWM0UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-11 13:21:30"
-    },
-    {
-      "title": "豪雨造成竹筍、番石榴農損 張嘉郡現勘籲速辦天然災害救助 - tw.news.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPeVVoN1d4UUJqcUV2cDZzb2kwMmJ1RG5DVkRHLWxkN1BEZzZZRGtSTi1kbWRaVWtJMXpwckF5Zy10czhoY2dyb1dYNEVOaWplVHI5X0lkc0hLMmtkUWZwdE94TGprNjkyaWdiN3lidUROVjFTRkQxeDEwTmVuTEExMnROV1JyWjNieVB4MkRrUHpaZF9fcmozUU1YbE00MFVNc1ZjX29KWXZfMmxVMkZpOGVCRDJwU0tiWjVGcUlRUWxpOUh3ZURfMU9pTDRweko3NnJXTGEzVXdvWnQ2Z0Vnc0pmUWl2R21DbTdEek9pZ3RXdFlrMWFheXMxM3BXS3J4ZmRpQVkzSGl2bTVJa3lEbi1ydzBPN3U2WllWdzVXZmxrME5tUEw3R0NfM2Jod2hlc1pHTFBnQXY4LTJCcUlLZG9kQ1M1cGw0eWhTVWFrc2Z2WlA5RjI4bUNwbjF2aUhicGNSYk5EcXBvb1FSRTRUbUFlNTBnOHVvbVE2STNIbkdpQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-11 13:02:09"
     }
   ],
   "latest_facebook_20": [
@@ -861,6 +871,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "豪雨造成雲林古坑竹筍、番石榴農損 立委張嘉郡等人現勘 籲儘速辦理天然災害救助！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FN1dTeWhabTc0RDNla19jcFBNaFFDaHVsX1RpSTJib3NIeXh1ekFZMm1WNGVyQlVmenZ0ZVhtaEV6MDg0OEg4U1FrV2p5b1dSVEp2SU1yNzlHYUl4RFRiWEdqSzVST1A1TW9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-11 23:59:57"
+    },
+    {
       "title": "討論牆 | 蘇治芬雲林徒步宣講 籲守護民主政治(圖) - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vNzRMYmlqVWJNdTRnV1dtZG1OYXpsMjNIRlhRYVJ2d0tBUTdPdWJtS2lHOEhJb1RpMThnLXp2Wm9VT2R2RjhUbFI5cjJLUG8wQVdnaHlvSnpCTzdoenZaY29UbWg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-11 23:31:52"
@@ -954,11 +969,6 @@
       "title": "張嘉郡連日現勘口湖、古坑農漁民災損 爭取災害救助 - tw.news.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPZjlyODdGcWU3bkRwbEJLalpWckRHUE5EcXNaMERDbENFY3FKck1EY0NaX0tGVDJiRHRmRzNXaERHanFrdGRoMFBzdVZZaVFSSE5hbl8zdUNoR3owcDY5c2dqLVhYZXhlZmlteXlrdmZNZ21rQzhIaXBQbGJrWjUwdUNWeWlScS1GOHhuZ3RrWGFUQ2RaVVk1UDZlTHlvRFBQWldCM1BUWlNTQzR0VC1wcU5iclZwbVA4SW5GdWFtR0RTNnlocmFwQ3o3U0dlTXRyWHBmYzNSM196UnViSWd2TnF3TEd5SWVXejB6VFVPV0tqZXdBblREelpZVkY4cVMxZ1psRUx1Z0pLV19nUE16bUF2TVJSZEVwWUdVSDIwMmVCWGRmdmh6RHh3VjQtczVVbEpFX1VxcEJjbk1saVI4dHpxQWZuajRyaV85Q0dFMzNWSDZQcGRxQ24yYWM0UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-11 13:21:30"
-    },
-    {
-      "title": "豪雨造成竹筍、番石榴農損 張嘉郡現勘籲速辦天然災害救助 - tw.news.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPeVVoN1d4UUJqcUV2cDZzb2kwMmJ1RG5DVkRHLWxkN1BEZzZZRGtSTi1kbWRaVWtJMXpwckF5Zy10czhoY2dyb1dYNEVOaWplVHI5X0lkc0hLMmtkUWZwdE94TGprNjkyaWdiN3lidUROVjFTRkQxeDEwTmVuTEExMnROV1JyWjNieVB4MkRrUHpaZF9fcmozUU1YbE00MFVNc1ZjX29KWXZfMmxVMkZpOGVCRDJwU0tiWjVGcUlRUWxpOUh3ZURfMU9pTDRweko3NnJXTGEzVXdvWnQ2Z0Vnc0pmUWl2R21DbTdEek9pZ3RXdFlrMWFheXMxM3BXS3J4ZmRpQVkzSGl2bTVJa3lEbi1ydzBPN3U2WllWdzVXZmxrME5tUEw3R0NfM2Jod2hlc1pHTFBnQXY4LTJCcUlLZG9kQ1M1cGw0eWhTVWFrc2Z2WlA5RjI4bUNwbjF2aUhicGNSYk5EcXBvb1FSRTRUbUFlNTBnOHVvbVE2STNIbkdpQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-11 13:02:09"
     }
   ],
   "person_sections": {
@@ -1067,6 +1077,11 @@
       ],
       "news": [
         {
+          "title": "豪雨造成雲林古坑竹筍、番石榴農損 立委張嘉郡等人現勘 籲儘速辦理天然災害救助！ - 台灣華報",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FN1dTeWhabTc0RDNla19jcFBNaFFDaHVsX1RpSTJib3NIeXh1ekFZMm1WNGVyQlVmenZ0ZVhtaEV6MDg0OEg4U1FrV2p5b1dSVEp2SU1yNzlHYUl4RFRiWEdqSzVST1A1TW9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-11 23:59:57"
+        },
+        {
           "title": "豪雨害雲林蚵死8成蚵農苦！ 劉建國、張嘉郡雙雙前往勘災 - eracom.com.tw",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pZU04QkNPemotRnUwMWZiM0NFcDBYMnBmTjB2OUY4Y2dnVUtEZFcxNi1EUjFwd3h3UHJVS1lyUGEwMHJCM3Nqd3JqYkFSajg0WG5xREpKbllZcmMwclVrS1ZJVmZCYWhHbnczUTRLUEh3RmltM2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-11 19:40:59"
@@ -1160,11 +1175,6 @@
           "title": "豪雨造成竹筍、番石榴農損 張嘉郡現勘籲速辦天然災害救助 - tw.news.yahoo.com",
           "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPeVVoN1d4UUJqcUV2cDZzb2kwMmJ1RG5DVkRHLWxkN1BEZzZZRGtSTi1kbWRaVWtJMXpwckF5Zy10czhoY2dyb1dYNEVOaWplVHI5X0lkc0hLMmtkUWZwdE94TGprNjkyaWdiN3lidUROVjFTRkQxeDEwTmVuTEExMnROV1JyWjNieVB4MkRrUHpaZF9fcmozUU1YbE00MFVNc1ZjX29KWXZfMmxVMkZpOGVCRDJwU0tiWjVGcUlRUWxpOUh3ZURfMU9pTDRweko3NnJXTGEzVXdvWnQ2Z0Vnc0pmUWl2R21DbTdEek9pZ3RXdFlrMWFheXMxM3BXS3J4ZmRpQVkzSGl2bTVJa3lEbi1ydzBPN3U2WllWdzVXZmxrME5tUEw3R0NfM2Jod2hlc1pHTFBnQXY4LTJCcUlLZG9kQ1M1cGw0eWhTVWFrc2Z2WlA5RjI4bUNwbjF2aUhicGNSYk5EcXBvb1FSRTRUbUFlNTBnOHVvbVE2STNIbkdpQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-11 13:02:09"
-        },
-        {
-          "title": "張嘉郡連日現勘口湖、古坑農漁民災損 爭取災害救助 - 上報Up Media",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qR185MExCNkd5MlRPam4zdDRnMTNZdjlqaXIzTXRmNmotWElrUlFxWnkxM0FnemNDNExrODFfQVE2bHQ0LXFpd1pwREloU0I2MWk3dnJBQllJWkZYLWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-11 12:37:00"
         }
       ]
     },
@@ -1378,6 +1388,11 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "豪雨造成雲林古坑竹筍、番石榴農損 立委張嘉郡等人現勘 籲儘速辦理天然災害救助！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FN1dTeWhabTc0RDNla19jcFBNaFFDaHVsX1RpSTJib3NIeXh1ekFZMm1WNGVyQlVmenZ0ZVhtaEV6MDg0OEg4U1FrV2p5b1dSVEp2SU1yNzlHYUl4RFRiWEdqSzVST1A1TW9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-11 23:59:57"
+      },
+      {
         "title": "討論牆 | 蘇治芬雲林徒步宣講 籲守護民主政治(圖) - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vNzRMYmlqVWJNdTRnV1dtZG1OYXpsMjNIRlhRYVJ2d0tBUTdPdWJtS2lHOEhJb1RpMThnLXp2Wm9VT2R2RjhUbFI5cjJLUG8wQVdnaHlvSnpCTzdoenZaY29UbWg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-11 23:31:52"
@@ -1520,6 +1535,11 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "豪雨造成雲林古坑竹筍、番石榴農損 立委張嘉郡等人現勘 籲儘速辦理天然災害救助！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FN1dTeWhabTc0RDNla19jcFBNaFFDaHVsX1RpSTJib3NIeXh1ekFZMm1WNGVyQlVmenZ0ZVhtaEV6MDg0OEg4U1FrV2p5b1dSVEp2SU1yNzlHYUl4RFRiWEdqSzVST1A1TW9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-11 23:59:57"
+      },
       {
         "title": "討論牆 | 蘇治芬雲林徒步宣講 籲守護民主政治(圖) - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vNzRMYmlqVWJNdTRnV1dtZG1OYXpsMjNIRlhRYVJ2d0tBUTdPdWJtS2lHOEhJb1RpMThnLXp2Wm9VT2R2RjhUbFI5cjJLUG8wQVdnaHlvSnpCTzdoenZaY29UbWg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1714,11 +1734,6 @@
         "title": "連日中台豪大雨致養殖牡蠣近八成死亡 張嘉郡籲漁業署從寬救助| 縣市長選舉 - 太報 TaiSounds",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0anBydUNoR0NjMGhadzhVLXBULTRJZnVMQno1UVpSNUY3cVMtVXR2YUx0VUVRb3VGdGpvVEhsREFFaVJSTlpCOWMwSVRrZ2FKSGYzWk9wMWNJeWQ3NFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-10 14:15:45"
-      },
-      {
-        "title": "連日中台豪大雨致養殖牡蠣近八成死亡 張嘉郡籲漁業署從寬救助 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQTk9IYjc3MzNFZUVRMkZBazdjUnREa0k3d1ZhclNjeTZCYnJ4R09hQ0RYenh5MVFZV2Q1SkVDZ0d6ZW94SEVKSVozUXE2RmxYZWtEVGQzMF9KVW5LSGtsdGFSVmJVazZKSlRmR0RTSVp2UjVReFd3RU9HXy1lT2VuV2FlTFFlVmVtb3Y2VkpmZGlOZHNuc3JaR1BGVmdFMXlUSmZWUzVUYkRydG1nX2xqWkR6clNUbnlCZVdqM0YtOGZvaE5FY3p1RmZKcm5sanhEdXA4UGxqU2FQNDJrSFg3NnlEbGs2VXhwRThwX2NYTzdhVXdoUmkyTDBUeE04dDZINldESzRsRDIyeHd1R2gwamI5RXpxMHd2cHJvMDdINHhrZHpMX2F1dkVSbkNtZE9ialBmeEk4N1oybFFUd3BMOUd0RzdVdDFVa1FTN3RRUFZqRS1Hd1ZrWE5XQy1CU1BSYXJfenVOR1lRRTM4UlU0WHdVWllYQkltdFIyOUdaUGJLQUFWakl0UEtEQy1kTDBDSGFBYmV4YnV2Q3FBUDBjOVhJWWk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-10 14:15:45"
       }
     ],
     "facebook": [
@@ -1856,6 +1871,13 @@
     "hour": [],
     "day": [
       {
+        "title": "豪雨造成雲林古坑竹筍、番石榴農損 立委張嘉郡等人現勘 籲儘速辦理天然災害救助！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FN1dTeWhabTc0RDNla19jcFBNaFFDaHVsX1RpSTJib3NIeXh1ekFZMm1WNGVyQlVmenZ0ZVhtaEV6MDg0OEg4U1FrV2p5b1dSVEp2SU1yNzlHYUl4RFRiWEdqSzVST1A1TW9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-11 23:59:57",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "討論牆 | 蘇治芬雲林徒步宣講 籲守護民主政治(圖) - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vNzRMYmlqVWJNdTRnV1dtZG1OYXpsMjNIRlhRYVJ2d0tBUTdPdWJtS2lHOEhJb1RpMThnLXp2Wm9VT2R2RjhUbFI5cjJLUG8wQVdnaHlvSnpCTzdoenZaY29UbWg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-11 23:31:52",
@@ -1987,13 +2009,6 @@
         "time": "2026-09-11 15:15:18",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "八月雨雲林古坑竹筍、芭樂受損 張嘉郡抵山區會勘爭取災損補助 - udn",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzMUdSSnNXT1hUb05TdWJNWjJiVnZpVFhyd3hIR3pkLVY4UFl5R2pwRmVTeUhSY0hHY1lfNkNlRkgyX0VIM0lVdW1BX2lXNm05cGc4U2Vn0gFWQVVfeXFMUDMxR1JKc1dPWFRvTlN1Yk1aMmJWdmlUWHJ3eEhHemQtVjhQWXlHanBGZVN5SFJjSEdjWV82Q2VGSDJfRUgzSVV1bUFfaVc2bTlwZzhTZWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-11 15:15:18",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2001,17 +2016,17 @@
     "regions": [
       {
         "name": "古坑",
-        "count": 13
+        "count": 14
       },
       {
         "name": "雲林",
-        "count": 12
+        "count": 13
       }
     ],
     "groups": [
       {
         "name": "農業族群",
-        "count": 18
+        "count": 19
       }
     ]
   }
