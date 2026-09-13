@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-13T09:23:04.367233+00:00",
+  "generated_at": "2026-09-13T09:40:58.694620+00:00",
   "metrics": {
-    "total_24h": 33,
-    "prev_24h": 18,
-    "growth_pct": 83.33,
-    "news_24h": 33,
+    "total_24h": 32,
+    "prev_24h": 19,
+    "growth_pct": 68.42,
+    "news_24h": 31,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,9 +14,9 @@
     }
   },
   "metrics_7d": {
-    "total": 189,
+    "total": 190,
     "prev": 237,
-    "growth_pct": -20.25,
+    "growth_pct": -19.83,
     "news": 167,
     "anomaly": {
       "level": "綠",
@@ -28,7 +28,11 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 33
+      "count": 31
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "by_platform_7d": [
@@ -42,13 +46,13 @@
     },
     {
       "platform": "youtube",
-      "count": 5
+      "count": 6
     }
   ],
   "by_hour": [
     {
       "hour": "2026-09-12 17:00",
-      "count": 3
+      "count": 1
     },
     {
       "hour": "2026-09-12 18:00",
@@ -81,6 +85,10 @@
     {
       "hour": "2026-09-13 13:00",
       "count": 2
+    },
+    {
+      "hour": "2026-09-13 16:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -323,12 +331,16 @@
     {
       "hour": "2026-09-13 13:00",
       "count": 2
+    },
+    {
+      "hour": "2026-09-13 16:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 33
+      "count": 31
     }
   ],
   "mention_latest_by_platform_24h": {
@@ -487,23 +499,13 @@
         "title": "健保宣導列車前進雲林土庫 劉建國：打造「醫療在地、照護到位、長輩安心」的雲林 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPU0dLMFZ5bWJLQzNTN29PTURWcW9Ud2FYZ2dsdkpsMGhwTkpNUW1pWmZOdkFTVmFTeDJHYk9tWW5qQnptWEV2SXR6X2F2OTl6N0p5V21LakE1dE5iRnlUVzFhWG9ld2huZ2JCSW05MmZhZmxabklrUlVYM1RFZGlOVm96OU4xMmVKSHFHX2haTkJGOWt3STBSTDFCRldFTmFVdTd5R19DbWdPeEluY1NLRHdzaUpoYW5MTkJOdkZ6QVVIc0xTbVBHS1pCaTZud2FPc3hjZ2IzVGtydGQwRkM1aXF1WDdWRGRSemhRU0RMN3NhTlRaeFphcXhxd1BJSTZXRUk0MGNjLXVodGlRd0dBem9vTVdxWkJyXzA2MmFZcDFjMERaa2VELXh4SlY1b0JXOWtrVzNOeFNYUzJDbnVWdmZYWm5HQVJjQU5FOU5oZE0ydUc0ZTRDT3FGWFNsMXh4cUpvYzdJWFRvRFljOTNqTjVWMTZmTF9IRUlIbmw2c3lnOEdE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-12 17:44:30"
-      },
-      {
-        "title": "劉建國大埤聯合競總第一站成立 提農業、社福政見拚雲林改變 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QTW8tLVFucW1xME84VEdmSXdmNzd5TS13aUJrT2lTT1ZfWDBqbFVPS1UtMGFsR1F5OEQ1b29MSTZlTVg3eFctd0tlcU0yczBGaFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-12 17:33:00"
-      },
-      {
-        "title": "力挺華山公益棒球賽 張嘉郡：打造高齡友善、健康有愛雲林 - tw.news.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOd1A2TUQ1ZVc3ZVliUmhFcXdhQ21TV2ZKbVY0bHpYZWlDZFcwRllPenl6SDdXdnRnNTQ1Q2ZodFEtbUQ4TG1aTkk3UWx4bnpxOUcxeW9acTJCakxTbzRGYkwxdmZmZ3Y5UkFBYWN5TWNrbTN6cktqNU9WWlBqNno2b2FZdHRpRE96VjR6Y0hmUExGM3ZndlJLZ09NVVlkOHhSZlVibEdaMkhJVjNUbTk0VEZnWkVqRHpER1RLanVWVFJtWnJQUjQwdDVGVU5XODFNRE9DMU9lX19Tc1Q4WFU5WmUtNjZQMUJ6Q0MyOXJvSGdtclJUNU91QzI3R1JQVDNSaWlaaWdFQlhLb2RzREprTG5weGNpSmJ2LXAxYTdGUWc4TmVFa2N5YXhrYXFYeDZWWjRsUHJpZ3c5ZGZiSVNGMkFGV1RIdTk3RjItODFKY1ZWcmtYRlFCUlY1UnRxZ0hQNm00Mk5yZWRydE5jeWJaQ0F6TmZ3ZDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-12 17:26:00"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 33
+      "count": 31
     }
   ],
   "alias_latest_by_platform_24h": {
@@ -662,22 +664,12 @@
         "title": "健保宣導列車前進雲林土庫 劉建國：打造「醫療在地、照護到位、長輩安心」的雲林 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPU0dLMFZ5bWJLQzNTN29PTURWcW9Ud2FYZ2dsdkpsMGhwTkpNUW1pWmZOdkFTVmFTeDJHYk9tWW5qQnptWEV2SXR6X2F2OTl6N0p5V21LakE1dE5iRnlUVzFhWG9ld2huZ2JCSW05MmZhZmxabklrUlVYM1RFZGlOVm96OU4xMmVKSHFHX2haTkJGOWt3STBSTDFCRldFTmFVdTd5R19DbWdPeEluY1NLRHdzaUpoYW5MTkJOdkZ6QVVIc0xTbVBHS1pCaTZud2FPc3hjZ2IzVGtydGQwRkM1aXF1WDdWRGRSemhRU0RMN3NhTlRaeFphcXhxd1BJSTZXRUk0MGNjLXVodGlRd0dBem9vTVdxWkJyXzA2MmFZcDFjMERaa2VELXh4SlY1b0JXOWtrVzNOeFNYUzJDbnVWdmZYWm5HQVJjQU5FOU5oZE0ydUc0ZTRDT3FGWFNsMXh4cUpvYzdJWFRvRFljOTNqTjVWMTZmTF9IRUlIbmw2c3lnOEdE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-12 17:44:30"
-      },
-      {
-        "title": "劉建國大埤聯合競總第一站成立 提農業、社福政見拚雲林改變 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QTW8tLVFucW1xME84VEdmSXdmNzd5TS13aUJrT2lTT1ZfWDBqbFVPS1UtMGFsR1F5OEQ1b29MSTZlTVg3eFctd0tlcU0yczBGaFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-12 17:33:00"
-      },
-      {
-        "title": "力挺華山公益棒球賽 張嘉郡：打造高齡友善、健康有愛雲林 - tw.news.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOd1A2TUQ1ZVc3ZVliUmhFcXdhQ21TV2ZKbVY0bHpYZWlDZFcwRllPenl6SDdXdnRnNTQ1Q2ZodFEtbUQ4TG1aTkk3UWx4bnpxOUcxeW9acTJCakxTbzRGYkwxdmZmZ3Y5UkFBYWN5TWNrbTN6cktqNU9WWlBqNno2b2FZdHRpRE96VjR6Y0hmUExGM3ZndlJLZ09NVVlkOHhSZlVibEdaMkhJVjNUbTk0VEZnWkVqRHpER1RLanVWVFJtWnJQUjQwdDVGVU5XODFNRE9DMU9lX19Tc1Q4WFU5WmUtNjZQMUJ6Q0MyOXJvSGdtclJUNU91QzI3R1JQVDNSaWlaaWdFQlhLb2RzREprTG5weGNpSmJ2LXAxYTdGUWc4TmVFa2N5YXhrYXFYeDZWWjRsUHJpZ3c5ZGZiSVNGMkFGV1RIdTk3RjItODFKY1ZWcmtYRlFCUlY1UnRxZ0hQNm00Mk5yZWRydE5jeWJaQ0F6TmZ3ZDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-12 17:26:00"
       }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 17,
-    "劉建國": 20
+    "張嘉郡": 16,
+    "劉建國": 19
   },
   "mention_compare_7d": {
     "張嘉郡": 129,
@@ -1621,16 +1613,13 @@
         "title": "健保宣導列車前進雲林土庫 劉建國：打造「醫療在地、照護到位、長輩安心」的雲林 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPU0dLMFZ5bWJLQzNTN29PTURWcW9Ud2FYZ2dsdkpsMGhwTkpNUW1pWmZOdkFTVmFTeDJHYk9tWW5qQnptWEV2SXR6X2F2OTl6N0p5V21LakE1dE5iRnlUVzFhWG9ld2huZ2JCSW05MmZhZmxabklrUlVYM1RFZGlOVm96OU4xMmVKSHFHX2haTkJGOWt3STBSTDFCRldFTmFVdTd5R19DbWdPeEluY1NLRHdzaUpoYW5MTkJOdkZ6QVVIc0xTbVBHS1pCaTZud2FPc3hjZ2IzVGtydGQwRkM1aXF1WDdWRGRSemhRU0RMN3NhTlRaeFphcXhxd1BJSTZXRUk0MGNjLXVodGlRd0dBem9vTVdxWkJyXzA2MmFZcDFjMERaa2VELXh4SlY1b0JXOWtrVzNOeFNYUzJDbnVWdmZYWm5HQVJjQU5FOU5oZE0ydUc0ZTRDT3FGWFNsMXh4cUpvYzdJWFRvRFljOTNqTjVWMTZmTF9IRUlIbmw2c3lnOEdE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-12 17:44:30"
-      },
+      }
+    ],
+    "youtube": [
       {
-        "title": "劉建國大埤聯合競總第一站成立 提農業、社福政見拚雲林改變 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QTW8tLVFucW1xME84VEdmSXdmNzd5TS13aUJrT2lTT1ZfWDBqbFVPS1UtMGFsR1F5OEQ1b29MSTZlTVg3eFctd0tlcU0yczBGaFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-12 17:33:00"
-      },
-      {
-        "title": "力挺華山公益棒球賽 張嘉郡：打造高齡友善、健康有愛雲林 - tw.news.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOd1A2TUQ1ZVc3ZVliUmhFcXdhQ21TV2ZKbVY0bHpYZWlDZFcwRllPenl6SDdXdnRnNTQ1Q2ZodFEtbUQ4TG1aTkk3UWx4bnpxOUcxeW9acTJCakxTbzRGYkwxdmZmZ3Y5UkFBYWN5TWNrbTN6cktqNU9WWlBqNno2b2FZdHRpRE96VjR6Y0hmUExGM3ZndlJLZ09NVVlkOHhSZlVibEdaMkhJVjNUbTk0VEZnWkVqRHpER1RLanVWVFJtWnJQUjQwdDVGVU5XODFNRE9DMU9lX19Tc1Q4WFU5WmUtNjZQMUJ6Q0MyOXJvSGdtclJUNU91QzI3R1JQVDNSaWlaaWdFQlhLb2RzREprTG5weGNpSmJ2LXAxYTdGUWc4TmVFa2N5YXhrYXFYeDZWWjRsUHJpZ3c5ZGZiSVNGMkFGV1RIdTk3RjItODFKY1ZWcmtYRlFCUlY1UnRxZ0hQNm00Mk5yZWRydE5jeWJaQ0F6TmZ3ZDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-12 17:26:00"
+        "title": "狼醫因性侵判刑還能看診四年? 范雲要求衛福部:醫師懲戒制度全面改革",
+        "url": "https://www.youtube.com/watch?v=TijoPELKZHE",
+        "time": "2026-09-13 16:00:01"
       }
     ]
   },
@@ -1926,6 +1915,11 @@
     ],
     "youtube": [
       {
+        "title": "狼醫因性侵判刑還能看診四年? 范雲要求衛福部:醫師懲戒制度全面改革",
+        "url": "https://www.youtube.com/watch?v=TijoPELKZHE",
+        "time": "2026-09-13 16:00:01"
+      },
+      {
         "title": "蕭美琴受邀歐洲自由與民主論壇 民主世界不因恐嚇卻步！",
         "url": "https://www.youtube.com/shorts/qCgaJ3MDFH0",
         "time": "2026-09-11 18:41:11"
@@ -1956,6 +1950,13 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "狼醫因性侵判刑還能看診四年? 范雲要求衛福部:醫師懲戒制度全面改革",
+        "url": "https://www.youtube.com/watch?v=TijoPELKZHE",
+        "time": "2026-09-13 16:00:01",
+        "platform": "youtube",
+        "risk": "綠"
+      },
       {
         "title": "台灣鮮乳健康樂活健走 劉建國拋「老人、小孩周周兩瓶」 - 中時新聞網",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UVlRBcDJCUHo3RUNSOFJlRkRoZUlYRC1GcXZDcDRQUWxFVlY3YnYtMW5lb1J6b096VUIycnVqam9UUHRLQnVXNnRwRlI2b0hUa2N3ajhJRUczY1NVZnlrVThiYllZd3h3Vl9vb1BB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -2088,13 +2089,6 @@
         "time": "2026-09-12 19:28:13",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "（有影片）／健保宣導列車開進雲林土庫 劉建國打拚醫療在地照護到位 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPUkkwbnNwbjVTUWl2NVFTUWl3R2o1VFZaWF9ZOGJHTFhKWmZsSzhKYUJiUEt4SkNWRTIxMHdKTFVwQWFUOEpWeHdrM0Nvcm1UNUpUWlVXWE92dW5KM3pYM2gxWUpieGRqRVpldkNIa1NsV2szMGRNTnVBQkxPenBVaUlDTE1tX01Fb1pvT3VRc2trcU5ObFBBRjRvUFdSXzl3Q1lLWkJwUjBDRjhVaS05bm9xR3RQNmFaUVhfWGdaYXduRTNIeF82VkljRUpiaEpIekJLWmRSWVRnLVZUa18yN2VUMW8zLUxXM3cyaUMxYlo5VnQ5NFJDdENjZlVseXZ6d2doOWlkdkI1ajBkUXJyTjctQms1OXg2djd6WFRnQS1RSThyZENRaHk5UEMxdkZzdEVqamQ5anVMNllNMWxNZ2oyaGMtV2lMdmxOM05lR3c2UmZGTFZ3OTV1a1JIMEZxTGtUZkI1eXdsT1BGWXhtMXFOd084V3A1X1dCa25fUVF5bFd0SkkwZE9qblhER1RQX1dkSWpwSUFJM1F4ekJiWU5ISG1fQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-12 19:25:36",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2102,7 +2096,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 21
+        "count": 19
       },
       {
         "name": "斗六",
@@ -2112,7 +2106,7 @@
     "groups": [
       {
         "name": "農業族群",
-        "count": 5
+        "count": 4
       }
     ]
   }
