@@ -1,10 +1,10 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-14T03:39:20.951551+00:00",
+  "generated_at": "2026-09-14T03:55:04.506839+00:00",
   "metrics": {
-    "total_24h": 25,
+    "total_24h": 26,
     "prev_24h": 41,
-    "growth_pct": -39.02,
+    "growth_pct": -36.59,
     "news_24h": 24,
     "anomaly": {
       "level": "綠",
@@ -14,9 +14,9 @@
     }
   },
   "metrics_7d": {
-    "total": 212,
+    "total": 213,
     "prev": 240,
-    "growth_pct": -11.67,
+    "growth_pct": -11.25,
     "news": 191,
     "anomaly": {
       "level": "綠",
@@ -31,6 +31,10 @@
       "count": 24
     },
     {
+      "platform": "facebook",
+      "count": 1
+    },
+    {
       "platform": "youtube",
       "count": 1
     }
@@ -42,7 +46,7 @@
     },
     {
       "platform": "facebook",
-      "count": 15
+      "count": 16
     },
     {
       "platform": "youtube",
@@ -92,6 +96,10 @@
     },
     {
       "hour": "2026-09-14 10:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-09-14 11:00",
       "count": 1
     }
   ],
@@ -363,15 +371,30 @@
     {
       "hour": "2026-09-14 10:00",
       "count": 1
+    },
+    {
+      "hour": "2026-09-14 11:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
       "count": 24
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "雲林拚改變！大埤聯合競總成立 劉建國：這戰是「縣民對家族」的選擇 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQNV9VeEZTUE5RZ1NqVzB5ekxwNDB4NTViMVJoNFBLUk5QRlJNX1FIMzFoSExWUlZmaEhkVWVNbWtURXVxZVluLVc5ZG1ZN2VtbkVkLVJuclB1ZjFjWXI2NC1LTG1HRHAyMV9lS1hQVkxSRXV0bnpDeGxXdGlZV2xobFA3YldVcjY0aHY5YVZRMkNhckJBMDk1TjhkTDdPNzc3UjVPMTlnb1JvVzJxTlo1Z2E3VjRuQ3RPX1BON2pzRm1rY1VrelUyVzVqejVwS2tnUmtlZHUyczA3WndlU3ExX2lzQUV1blJ5eEE2ay1aNXRPUFgxd19Za25kQ255QXNhcnAtb3hfdVFub3ZNZTNiTVhGbnYyYVY1WjVZdTRaN3ZmdV8zVHg2ZnFldF9QZzVkeEdQS1EzSU9OVk5JNXp0SHJtUnZmSmItRG5GeTdzNEcyR2JGQW5vZmFsNldJWWxSSHdlOUxXMXVocEI4SkJvZ0YwZjZYdW9pei13UUw2cVNqZE9zQ2p6Ujlmdmx4TlkybHRScEVMa1JpcGp4dzFKT3pnMGlPOVA4SE1iVXhxUQ",
+        "time": "2026-09-14 11:31:52"
+      }
+    ],
     "news": [
       {
         "title": "跨縣助選張嘉郡 許淑華：雲林縣長後繼有人 - hk.crntt.com",
@@ -499,9 +522,20 @@
     {
       "platform": "news",
       "count": 24
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "雲林拚改變！大埤聯合競總成立 劉建國：這戰是「縣民對家族」的選擇 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQNV9VeEZTUE5RZ1NqVzB5ekxwNDB4NTViMVJoNFBLUk5QRlJNX1FIMzFoSExWUlZmaEhkVWVNbWtURXVxZVluLVc5ZG1ZN2VtbkVkLVJuclB1ZjFjWXI2NC1LTG1HRHAyMV9lS1hQVkxSRXV0bnpDeGxXdGlZV2xobFA3YldVcjY0aHY5YVZRMkNhckJBMDk1TjhkTDdPNzc3UjVPMTlnb1JvVzJxTlo1Z2E3VjRuQ3RPX1BON2pzRm1rY1VrelUyVzVqejVwS2tnUmtlZHUyczA3WndlU3ExX2lzQUV1blJ5eEE2ay1aNXRPUFgxd19Za25kQ255QXNhcnAtb3hfdVFub3ZNZTNiTVhGbnYyYVY1WjVZdTRaN3ZmdV8zVHg2ZnFldF9QZzVkeEdQS1EzSU9OVk5JNXp0SHJtUnZmSmItRG5GeTdzNEcyR2JGQW5vZmFsNldJWWxSSHdlOUxXMXVocEI4SkJvZ0YwZjZYdW9pei13UUw2cVNqZE9zQ2p6Ujlmdmx4TlkybHRScEVMa1JpcGp4dzFKT3pnMGlPOVA4SE1iVXhxUQ",
+        "time": "2026-09-14 11:31:52"
+      }
+    ],
     "news": [
       {
         "title": "跨縣助選張嘉郡 許淑華：雲林縣長後繼有人 - hk.crntt.com",
@@ -627,11 +661,11 @@
   },
   "mention_compare_24h": {
     "張嘉郡": 18,
-    "劉建國": 6
+    "劉建國": 7
   },
   "mention_compare_7d": {
     "張嘉郡": 149,
-    "劉建國": 64
+    "劉建國": 65
   },
   "top_news": [
     {
@@ -799,6 +833,11 @@
   ],
   "latest_facebook_20": [
     {
+      "title": "雲林拚改變！大埤聯合競總成立 劉建國：這戰是「縣民對家族」的選擇 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQNV9VeEZTUE5RZ1NqVzB5ekxwNDB4NTViMVJoNFBLUk5QRlJNX1FIMzFoSExWUlZmaEhkVWVNbWtURXVxZVluLVc5ZG1ZN2VtbkVkLVJuclB1ZjFjWXI2NC1LTG1HRHAyMV9lS1hQVkxSRXV0bnpDeGxXdGlZV2xobFA3YldVcjY0aHY5YVZRMkNhckJBMDk1TjhkTDdPNzc3UjVPMTlnb1JvVzJxTlo1Z2E3VjRuQ3RPX1BON2pzRm1rY1VrelUyVzVqejVwS2tnUmtlZHUyczA3WndlU3ExX2lzQUV1blJ5eEE2ay1aNXRPUFgxd19Za25kQ255QXNhcnAtb3hfdVFub3ZNZTNiTVhGbnYyYVY1WjVZdTRaN3ZmdV8zVHg2ZnFldF9QZzVkeEdQS1EzSU9OVk5JNXp0SHJtUnZmSmItRG5GeTdzNEcyR2JGQW5vZmFsNldJWWxSSHdlOUxXMXVocEI4SkJvZ0YwZjZYdW9pei13UUw2cVNqZE9zQ2p6Ujlmdmx4TlkybHRScEVMa1JpcGp4dzFKT3pnMGlPOVA4SE1iVXhxUQ",
+      "time": "2026-09-14 11:31:52"
+    },
+    {
       "title": "賴淑娞競總成立展氣勢🔥張麗善、丁學忠 許舒博站台 斗六行政中心與城市發展成焦點【正聲記者|徐得洧 #斗六 採訪報導】 斗六市長候選人 賴淑娞 今（12日）上午成立競選總部，縣長 張麗善 、立法委員 丁學忠 （ 榮耀海線 丁學忠 ）、林國慶、全國商業總會理事長暨競選總部 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMizgdBVV95cUxPbDA4d2ExZFRyZnRxNEFNY2p6NjZHQjE2Zlh5SXBsbDlSa2hlaGdDY3d6V094WVVNOFpyT2MtclJHczVVVDVhWFZXdDhfMjkybXNqU3BzMkpBc09veS1KbXFsdjNKLWlTN29QSlNBUmdvTUwzXzVEZ1d5VzJSRUZvX05Cd29peTAzYkx2MlN1dWlRbllpRFR0NEtwWXp0QXNoS2Z5SEttMkUzb2k3Y0ZGQWRjT0tMRmg3OFlRS2ZpV1pPLVMtemxhRlpNVEtiVzJXb0VtYl84ZFhoLWNQQkU1NDR5anBlOTdYT3E1aFhPaHU0bkI2UWFmbldJdUxXb0xrZ19Ya3VRREloc3hkUDdYRkVGN1lveXNnTUJJMVRWaEQwZEI1XzVXb0dqbHpyejdQeGxxVDVIUGVHMkRkYjhjWUZ6bE5iYVBFTi1YVDVmMHRDWWFPN0FZWThOZFVEVmVqQmhGTUJhanoyUDY3U3dqNmJ2VHZlYXhTUkhQUldjcmYxdnZPU0hpUDlYOXk2UXV0Z253aC1kcmQ3eHp3R1dETFhCbFg2VWhJaXFFQU1HeFlmQjdyNXR5cjA0ZmNYXzJ2U2RaS3lBZFJ5enBHZXFET1ZPTW9IaUphZ19nd3RPeHp3dnp2UVJUSGE0QW9LeHFwLV94Tk1ycE5jMjNNWkIyZ1Fua2xfd01LcEw3NmhTaVFLT0ZPQVNaZHgtZ1A3bWcxRkt5SWprXzFXWVlpcjd3SUZUSGhGY2tFQ0F0OVB1OERzOWVaOHFUVzZvNEpPTFp4bl9SQ2E2T3NjaTBhelNhb21HS1c3TkYtX0FUZERyQ1dOaFpBak9KamNlR3pmdGpEQzRQRnhsUnNhY2FIejNrbkhYRnZRVk4zVFg3NXBIT0phNkw3Vm9WX2tnMld0SkhYNTZoUDZTYVdNYXZ4eDJqSXJpaWx3SVB3NnY3NGR0TWxsV1hDc1RUNmtqX2Nra1BQVzdUWDcwOW1rZjBfQTAtVGtheWtPWk1NU3k1VnBKYWM3eDBHamwxOFozY0VBN09KaVAxT0o1MFJRd1hzQkhIUVlhdE1IcHB3Znd5LUVDZzRhNGFYaFpXRVNwWkJKTFVRb19qUExtZHpZOEdmZXF5OE5CYVRtb2RNbUNGMXZPcjZ1R3NZRlItbi0yNmFyaWs3UFJrR0ZCR3ZObDhhUFFpb0pIT1pTdGFyT3VFUm1WMnFtVTUta1dQbTA1WUVoZ2ZXbzBUZi0wZnkwRU5FWjB0c0llTE0wUTBFZWNybGxhUjdOVjhkcU9SOVZTS05xQQ",
       "time": "2026-09-12 14:51:46"
@@ -892,11 +931,6 @@
       "title": "#蔣萬安、#張麗善、#張嘉郡 花博同台 雲林毛巾嘉年華登場 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPZ3g0MHhHNUdscXRpaU9qNExJcjgyZjhCd1pRSWVIaFZNWmg0TGloOWFiV2lYQ2ctNGJkcWNYWVNzOGJJOHlhTTZEM3ZBNUVLZ2RTeW5vU0JnQk14VV9rVXJWX1F4aDVJbWtkOVJ1dmJBaXFNM0Z4aUNWMWVnZFM4b2ZsczRhb0lObDdCRlVock9tWDY5N3FZZUJjR0poMy1lalNkaEpUSE8wZjkxZlRnRUFQeUtjQUtqOUY5VGRLbEVTMGR6SnRnMGV0RU9XZ3o4X0V2Q1AtNGo5LVdsY1RBdGp4NThMUkJsUThxY1ZSb2pIRk1LU2hHQVZNN2ZmSWVqaEVRWE9vNW9aUkVKTDRvZjdnLUFsVzllZ2VaSGJpZmNFS2d5TkNnOVVyemlOX3hndTBGaEhETE9NNjlJNEVQbmRHbldiZUxXelF6U0FIMm9QTWdZT0NTT3kwbnh1R3drNXI1b1Uxc2lRd0lpcUNneTdCdmdtOU9Q",
       "time": "2026-09-05 16:40:49"
-    },
-    {
-      "title": "udn.com 聯合新聞網. . 【#最新】蔣萬安花博公園圓山園區花海廣場出席巾喜一夏・雲林毛巾嘉年華開幕記者會。 #蔣萬安 #雲林毛巾嘉年華 #聯合報直播 #udn直播 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgZBVV95cUxPaWZrMV8xWlRiN01wRGtna1BCV1BzaG1tSlZfRHJ5eVJfNlZBdTdEZGpZUUhIWFNkNHRIVDhSLU0wN1ZLdFJhT1JveWx1dWtVNmJuTmE0eXhEeDhLUEZPOWYxS2pWVVdXVElvYzBUQTRiMXJWLWRGdFhmUzVKNVd2Wk0zc1lFenlaZWRPZXNUWFZ0YTZkRkJnMS16UUM0N3REV3h2QXhjS3Jta3pGcmpMWFF2SWlsWGxWUU1ReDFDX1Npc2JHNEwxWmtyYjRjWTMwdTZCVzVGNm9iOHdER3I2Nm1adDZYakdJb2dTQUNCaUxudFp0eURQdXkwdWZPNVlpbjg0dzl2S2doejdIckpwTDh1d1EwTEZuYkNRalpORGM0dzFZZzhVNTlkTVBCVDFzcGt1eUpOUFZIZkU5SkRLQ3M3MmhBa09yR0ppRXV2cm41WWZLeENXcGlEdkhWT0ZreVR6YVItdVFMRXRzR0RTelc1MW5KY2xxOXJzaVdOZHBhZVlKZkI5ZXZfTDJyaVJac1pZdzRLSEVadWtLR3F6MGdVUkNxZVdOcHlCUGVkdTNPa1A3TUZhdDdSYk9QRHo4OHk2OTd0cTgxRjhzbTlBSUNjRVBuaDZGUjBweXlJYmlNS1lyV3NWZlpSajh2U1d6U1dYZjVrSHJSNDlrQjl1aGVfMnliNVB0OGhWVGhUNHRmVGYyaGN3dTBLMm9TS0JKSEZTVFhTZzZBVHR3WTl2THNBZVFKVHRVWFN1WFU1XzdscEFnbF9vVllVcXZVdkQ5bkRtdFNGUTV6Njlmd2tySVFVMF9jNUxBaEhYTUFxZGIyc08ta2R4YjhoTWp2OWpaZXFEN2RaLXpVa1ZnN0hBRGZudFFmM0NlVThRdTF1TlhuYVUyX1JfSFQtd2NqWXRLS19laGlvYktYeWhRVkg4dlhVZkxMYVRYQmpXV2hkVWZEUjRldlJ3eW9rdjhmN3FhOENoQ2hOUThqNE14NUpMUml5bEx1MWs2azM1T1VieFZyb3VkTF9zT2tGRlpIZTAza1d0R0l3dGFpaDNSME1jb21HQkg0YkFRNXFMellTcmVtVnN3U3dBMTZkaXktdTZYc0E",
-      "time": "2026-09-05 13:41:53"
     }
   ],
   "latest_news_20": [
@@ -1211,6 +1245,11 @@
     "劉建國": {
       "facebook": [
         {
+          "title": "雲林拚改變！大埤聯合競總成立 劉建國：這戰是「縣民對家族」的選擇 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQNV9VeEZTUE5RZ1NqVzB5ekxwNDB4NTViMVJoNFBLUk5QRlJNX1FIMzFoSExWUlZmaEhkVWVNbWtURXVxZVluLVc5ZG1ZN2VtbkVkLVJuclB1ZjFjWXI2NC1LTG1HRHAyMV9lS1hQVkxSRXV0bnpDeGxXdGlZV2xobFA3YldVcjY0aHY5YVZRMkNhckJBMDk1TjhkTDdPNzc3UjVPMTlnb1JvVzJxTlo1Z2E3VjRuQ3RPX1BON2pzRm1rY1VrelUyVzVqejVwS2tnUmtlZHUyczA3WndlU3ExX2lzQUV1blJ5eEE2ay1aNXRPUFgxd19Za25kQ255QXNhcnAtb3hfdVFub3ZNZTNiTVhGbnYyYVY1WjVZdTRaN3ZmdV8zVHg2ZnFldF9QZzVkeEdQS1EzSU9OVk5JNXp0SHJtUnZmSmItRG5GeTdzNEcyR2JGQW5vZmFsNldJWWxSSHdlOUxXMXVocEI4SkJvZ0YwZjZYdW9pei13UUw2cVNqZE9zQ2p6Ujlmdmx4TlkybHRScEVMa1JpcGp4dzFKT3pnMGlPOVA4SE1iVXhxUQ",
+          "time": "2026-09-14 11:31:52"
+        },
+        {
           "title": "各位好朋友，9月12日，也就是這禮拜六，建國與 大埤鄉長候選人 #陳世彬 大埤競選總部 要成立了！ ⠀⠀⠀⠀ 【劉建國陳世彬大埤競選總部成立大會】 🔸時間：9月12日(六) 上午 09：30 🔸地點：大埤鄉中正路23號(大埤國小前) ⠀⠀⠀⠀ 誠摯邀請您一起來挺建國，讓我們一起勇 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMi_wZBVV95cUxPT3ZlUEVreUVVWGpIMU5tTWM2RC1McnJYdzBqaG92Mjd6c2NZNlRZcXFIa01vYV9SV0NGZzdscGlMUnJtbUs5VWVIcF9PblRqWF8zUTZZY2dNbzdYVllveWRjbHpNREs2ME5Gd0dkc0RzRG54RHRCZS1Sa0FndzlMaXV0MkIzRDllU3VHN01lNDFocTd0Y0FzRGhrMVAxN1F2eFhTY3JFMEllRzdaVl94RlpRa1JzR211UlRzZm5OeHhvcWNqb2N0Q3pMRUJIX3lVMFdGc1FndzNDX1Y5WXJVWVBXYVBnR0ZZMkR1OU9oVUI5RExxOGhJNU1jR0lYeGNySlJQQ2RoNGhvZE94LUJ1dHJXZWJNOHF2YXpMT0RrVkg4VExGRDBCWnJ5cjRJdUZUZS1KVmhhN2JiYnFRWWtBTGxQLU5NYjgtUjJlajFyQ21UZjZpRVFEVmxDZ2dzanBGbFRqV0xYRFJwUzZzY3ZaV0ROWkNFaFc4NzFNc0t3Zko2eW1EZjNSalFyRUt4SjZTZG9BaVFldUE3V1YtYy0zT1ZER2pKVS1aTnoxYnYwQ3VfTzRwSndOLV9fQ3FoZkxYSmptSEkxckJXa21FbGVKQzdaaXE5RUQ1LTk0VWhkdnVwYjhpeGVSXzFYMi1yZUdDaFhKZjl4TDJXOW95OEpYRDZJRk45eDRvWFJKQkZlMHplZEhEbS1XTzRORnVJend3Q1VuVEVJdloxX2VhNl9zd3VheU5OV0E3dVlzVGc0S0tLalBmdjMxcmVHQkR4NHphTnNNS3VzNUFmSmtweUdHTzFBVnpKaVlCeDRvY2VlSUkwdmRxMWFvRjdNQXVDa2VSZFVhXzRDekRzX0I1c2pkbjBlSFZsMTVaTDZQZHVBWWd4LTYtQUZqdXpwQi1ZLWZDNDlKN29keC02NXprSXFfYVBMNGpvQk02NUhveGg3blQ4Q0s3bk50MUJkeWJpZEJnMzlsa2JkRENCSVJaVFNjcEFiV2Y5YU94TVQwRi05ZVZhSktjdUlKaTE1OTllSmhCZmI2M2ZsbWd3UXFDQmF5UG1EWmZpQzFnSVJSRG1NN0ZCcHNnclUtS3Jld0JFUGEtclBNVUFiVGE3STVvaEE3eTlZalhVa242NHdubGRjMTJWRmpfTEFuRnd6TE1tUElSOTZKZHZ5QWRmSTZNS3JR",
           "time": "2026-09-10 17:09:41"
@@ -1304,11 +1343,6 @@
           "title": "📣 雲林長輩看過來 📣 老農津貼拚 1 萬 📣 國民年金顧 5 千 ​ 農民辛苦一世人，退休生活更要好好顧！​雲林是台灣的農業首都，每一粒米、每一把菜，都是鄉親流汗打拚的成果。 劉建國全力爭取、中央大力支持： ​✅ 老農津貼提高到 10,000 元／月（行政院已正式提案） ✅ - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMizwdBVV95cUxOVEYyS1RJaDBuSEtiTVZQeVI0cUZ0bHJoRmRXYVVJMUVacV9ZLXlJVG1MN1BNUDR0bnQ2VjNxTXo2RWVpNVZ4b3BGV2Fiem9yT0YwZ3YwUmpLa01pTmpLRWQtMGwyZ2NsOUVpSnpJblRSbF8tbGY1WDdiVldCUWVZWlM4YjlWMTVLSkd1eDkwYWpCTHVncUxOT2hVenZxaTY5NFhlWElWMTNURUFSVjB0Nk82dWsxdWstRjgyVGpiOTF0Qmo0dWxlb1lSdjd2WXlnTUhNMl9fZUlzRXVzN2ZZdENGTGRpb3JSZUdiOFRfZFZ6MzVjMGY0VC1TNUtyMkFHRkc4ZUVFVHFjZklYT05SakxUdm55ZjFzbC02LTA1VFNKYUh6ejZMa2ZwdHNDNmtJdlJ6enp3dzFfS2FkWS1IWUZ3TjZkRDJRemRxRzM4bEd0cGx6U19KbUpJVEJhTTFxRC02bEVXbk9jcTFxM1NhVmpnWXFyb2d6X3hMdV9QM0JFQUQ5dFdJb3BLUVRNV2hobFJBUzdEWmZIcFVTSm14aFNOc2FwSWFLZnFDRm5hejR0TFg5dFJaeDBmN1FnR1VBNXZJQkJLM2gweGxjZjgyNXhmZUpNRHdJWWFTU3licy1MNHk0SkhxOFRtaVBlNm9FeE13Q3paLUFLODFKcGRmQkFKa19DY3l6bHBYQ21YQWdOTmtDZEQ5Q2hfYmdsYWI0NUtuQVJzdmNYVWRuX04xVWpWdmlNN1lkRGNQM083OUx6UmQwSmVNQ2RscWFjQ3h5U2FuTE0xUEUwWFhpMndCOURFQVcxbzQzVTZQb0xxd2lYdkdSeDVlTnRtV3JOZ0tfdGdZenpiMVFIc0pVYWQyUktjSW9ORmVUbE1XQ3lNbHc3Uk1fOTVQLWVMVElLc09NTjlqcHk0dVZteGNsX2taYXFqMDAyOF9xajZhdkRYQ2dpbUZ4VWJIU2poc1VxU1ZXcnhOLXlHcnN4Qk1LaWlSRmFydDhnTEZRYllzNEhsV2ZTSV9yLXBYenBHSVFTME4wRGdKLUpfRXAwWVNwSWNBZTdTZlUtUTg1VHZrVU81c2J1NTN4U3FxWGxTOGdzUGdHdmJWWWxRNW1XTnByVG16aEJRUVczNWg1Q1B5NDV1Q2lyX1c4YnAtOV9wUGx4N3h6SUFHNHdWNHMxLWthVHlJUXBBc3RIckhhX2xudGY3cjFqVHgzMTVZeVBxRWVpVDdncFp6eTRTMU1vNFVIY2tRNzBEMmhvTDVwcF9fUUt2X2tHUVRkdUxYOWF3VHZ4OTQ",
           "time": "2026-08-19 19:43:27"
-        },
-        {
-          "title": "📣 雲林長輩看過來 📣 老農津貼拚 1 萬 📣 國民年金顧 5 千 ​ 農民辛苦一世人，退休生活更要好好顧！​雲林是台灣的農業首都，每一粒米、每一把菜，都是鄉親流汗打拚的成果。 劉建國全力爭取、中央大力支持： ​✅ 老農津貼提高到 10,000 元／月（行政院已正式提案） ✅ - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi0AdBVV95cUxPSTdPbXBJRzhLZmlxNU1ROVFhbWVSU1pGQlZxcTB1M1AtZXlVa2FISUlDc1piZUpqVFJ6OFVNUFRFcXZ3VGRwb0VkWGVEZFNoRmhwbGE5SlU3WWpoakFPcGpKWWVRN1FFQ0l1S3ZfLUE4amVDQndmdXVDUUFYbjBOUXhmVkMzbXpyZ1RzclBuT0NQNHlldlJ2MERFYmYwRzJKYm1qLTFsSHFGcjFIUld5VE5zaVBDbkhSd19aV0ZmcFhfak1qMDJpblN0WE5lT1lFWFdHQU5wZUdtc2FkUHY5SjlsQ2NjSDZhNmFSVmp5TnIwYWwzTUItN0RpZjYzNFROTWJSVW1rMnM3Ny02NHVnTHNPRlExZVp2MDNFTWRTSlpKaXowaHY0U1k5aFFhb1Y5d3VGb21MVE5iaE9nVk5tN2JoQWtBR3h1ZGE2MFhqclJzLXhUVnNNdTJNZ01JaFhkQmpPQlBweUxoM213bTlKcUZnR1AySGtSbHVFTFV4TV8tMENFQ1ZyYlJiTF9MQzdDalFCeDg0dkY1SDhIVF9OOFpsb3lfendWME9ZZkp2NTAwUXZtTldEci1udUh4emVLQnBiUHJZS2d5UUhEMGNaQWgxbWdsN0VYR1dnRERDWEh3MlQ4TWFyLXY0MWxQdE9hazZBaGpGbXQ0cHVjV3pyR1BiY1E2RmhES1JoZUU3YWhhVURieE5RcUluTkYxLWl4VXMxUHY1VHFoTnlJaVNoY09MbHFrZy03NHFHT0ZMZzhTXzh6SzA4OHBLNjMzcUFrVGhlSmIwY2NlWHM4anpRSmozMEoxMXZvcmRidTBQejFXTzF0RFdfWkRRUzRWVUNFS2RPTE52cDBUVlBibkZJTm9ILWdGY2FHVGlNakxzV3FyRmpKLWtJMlp0WlFDbE51NnIxSDdRRHV4TkNKOGVDTFpQMzVGaXlWVnhJcndSWm1ONHA3a2F1QTVNRWtnTlNYN3hjdlNtM2hRNmJFdnlfMzFlSzBJNGZKNFZGVnYxVjF5akJTX0J4TE5ZWVRSVEJCRFZIV1BzaVZmeFpaM1BzRHpUZVJDNjFiZHl4bnZSYVJqbFVHMGl4QUNfZDM3MHRnUHJ1WWYtckhnc2xFbmF0aFhkM0JsU1E2T1lqNlBOV0tkMVFNU21wVlc3UVB5WVVfNXI0ZlBFLWtIZWxlb1pYdUY0Nk9ES1E2S3J3ODVjWXpTYlo3ejRmazNvbHVvdElBeXdVY0E5bkxjX2lzZ1ZTazhWaEZYc2FMQ0RQbG9OamtoLWZOdWtLYWNFWFNCMlFr",
-          "time": "2026-08-19 19:41:45"
         }
       ],
       "news": [
@@ -1538,6 +1572,13 @@
         "time": "2026-09-13 12:45:16"
       }
     ],
+    "facebook": [
+      {
+        "title": "雲林拚改變！大埤聯合競總成立 劉建國：這戰是「縣民對家族」的選擇 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQNV9VeEZTUE5RZ1NqVzB5ekxwNDB4NTViMVJoNFBLUk5QRlJNX1FIMzFoSExWUlZmaEhkVWVNbWtURXVxZVluLVc5ZG1ZN2VtbkVkLVJuclB1ZjFjWXI2NC1LTG1HRHAyMV9lS1hQVkxSRXV0bnpDeGxXdGlZV2xobFA3YldVcjY0aHY5YVZRMkNhckJBMDk1TjhkTDdPNzc3UjVPMTlnb1JvVzJxTlo1Z2E3VjRuQ3RPX1BON2pzRm1rY1VrelUyVzVqejVwS2tnUmtlZHUyczA3WndlU3ExX2lzQUV1blJ5eEE2ay1aNXRPUFgxd19Za25kQ255QXNhcnAtb3hfdVFub3ZNZTNiTVhGbnYyYVY1WjVZdTRaN3ZmdV8zVHg2ZnFldF9QZzVkeEdQS1EzSU9OVk5JNXp0SHJtUnZmSmItRG5GeTdzNEcyR2JGQW5vZmFsNldJWWxSSHdlOUxXMXVocEI4SkJvZ0YwZjZYdW9pei13UUw2cVNqZE9zQ2p6Ujlmdmx4TlkybHRScEVMa1JpcGp4dzFKT3pnMGlPOVA4SE1iVXhxUQ",
+        "time": "2026-09-14 11:31:52"
+      }
+    ],
     "youtube": [
       {
         "title": "狼醫因性侵判刑還能看診四年? 范雲要求衛福部:醫師懲戒制度全面改革",
@@ -1751,6 +1792,11 @@
     ],
     "facebook": [
       {
+        "title": "雲林拚改變！大埤聯合競總成立 劉建國：這戰是「縣民對家族」的選擇 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQNV9VeEZTUE5RZ1NqVzB5ekxwNDB4NTViMVJoNFBLUk5QRlJNX1FIMzFoSExWUlZmaEhkVWVNbWtURXVxZVluLVc5ZG1ZN2VtbkVkLVJuclB1ZjFjWXI2NC1LTG1HRHAyMV9lS1hQVkxSRXV0bnpDeGxXdGlZV2xobFA3YldVcjY0aHY5YVZRMkNhckJBMDk1TjhkTDdPNzc3UjVPMTlnb1JvVzJxTlo1Z2E3VjRuQ3RPX1BON2pzRm1rY1VrelUyVzVqejVwS2tnUmtlZHUyczA3WndlU3ExX2lzQUV1blJ5eEE2ay1aNXRPUFgxd19Za25kQ255QXNhcnAtb3hfdVFub3ZNZTNiTVhGbnYyYVY1WjVZdTRaN3ZmdV8zVHg2ZnFldF9QZzVkeEdQS1EzSU9OVk5JNXp0SHJtUnZmSmItRG5GeTdzNEcyR2JGQW5vZmFsNldJWWxSSHdlOUxXMXVocEI4SkJvZ0YwZjZYdW9pei13UUw2cVNqZE9zQ2p6Ujlmdmx4TlkybHRScEVMa1JpcGp4dzFKT3pnMGlPOVA4SE1iVXhxUQ",
+        "time": "2026-09-14 11:31:52"
+      },
+      {
         "title": "賴淑娞競總成立展氣勢🔥張麗善、丁學忠 許舒博站台 斗六行政中心與城市發展成焦點【正聲記者|徐得洧 #斗六 採訪報導】 斗六市長候選人 賴淑娞 今（12日）上午成立競選總部，縣長 張麗善 、立法委員 丁學忠 （ 榮耀海線 丁學忠 ）、林國慶、全國商業總會理事長暨競選總部 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMizgdBVV95cUxPbDA4d2ExZFRyZnRxNEFNY2p6NjZHQjE2Zlh5SXBsbDlSa2hlaGdDY3d6V094WVVNOFpyT2MtclJHczVVVDVhWFZXdDhfMjkybXNqU3BzMkpBc09veS1KbXFsdjNKLWlTN29QSlNBUmdvTUwzXzVEZ1d5VzJSRUZvX05Cd29peTAzYkx2MlN1dWlRbllpRFR0NEtwWXp0QXNoS2Z5SEttMkUzb2k3Y0ZGQWRjT0tMRmg3OFlRS2ZpV1pPLVMtemxhRlpNVEtiVzJXb0VtYl84ZFhoLWNQQkU1NDR5anBlOTdYT3E1aFhPaHU0bkI2UWFmbldJdUxXb0xrZ19Ya3VRREloc3hkUDdYRkVGN1lveXNnTUJJMVRWaEQwZEI1XzVXb0dqbHpyejdQeGxxVDVIUGVHMkRkYjhjWUZ6bE5iYVBFTi1YVDVmMHRDWWFPN0FZWThOZFVEVmVqQmhGTUJhanoyUDY3U3dqNmJ2VHZlYXhTUkhQUldjcmYxdnZPU0hpUDlYOXk2UXV0Z253aC1kcmQ3eHp3R1dETFhCbFg2VWhJaXFFQU1HeFlmQjdyNXR5cjA0ZmNYXzJ2U2RaS3lBZFJ5enBHZXFET1ZPTW9IaUphZ19nd3RPeHp3dnp2UVJUSGE0QW9LeHFwLV94Tk1ycE5jMjNNWkIyZ1Fua2xfd01LcEw3NmhTaVFLT0ZPQVNaZHgtZ1A3bWcxRkt5SWprXzFXWVlpcjd3SUZUSGhGY2tFQ0F0OVB1OERzOWVaOHFUVzZvNEpPTFp4bl9SQ2E2T3NjaTBhelNhb21HS1c3TkYtX0FUZERyQ1dOaFpBak9KamNlR3pmdGpEQzRQRnhsUnNhY2FIejNrbkhYRnZRVk4zVFg3NXBIT0phNkw3Vm9WX2tnMld0SkhYNTZoUDZTYVdNYXZ4eDJqSXJpaWx3SVB3NnY3NGR0TWxsV1hDc1RUNmtqX2Nra1BQVzdUWDcwOW1rZjBfQTAtVGtheWtPWk1NU3k1VnBKYWM3eDBHamwxOFozY0VBN09KaVAxT0o1MFJRd1hzQkhIUVlhdE1IcHB3Znd5LUVDZzRhNGFYaFpXRVNwWkJKTFVRb19qUExtZHpZOEdmZXF5OE5CYVRtb2RNbUNGMXZPcjZ1R3NZRlItbi0yNmFyaWs3UFJrR0ZCR3ZObDhhUFFpb0pIT1pTdGFyT3VFUm1WMnFtVTUta1dQbTA1WUVoZ2ZXbzBUZi0wZnkwRU5FWjB0c0llTE0wUTBFZWNybGxhUjdOVjhkcU9SOVZTS05xQQ",
         "time": "2026-09-12 14:51:46"
@@ -1863,6 +1909,13 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "雲林拚改變！大埤聯合競總成立 劉建國：這戰是「縣民對家族」的選擇 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQNV9VeEZTUE5RZ1NqVzB5ekxwNDB4NTViMVJoNFBLUk5QRlJNX1FIMzFoSExWUlZmaEhkVWVNbWtURXVxZVluLVc5ZG1ZN2VtbkVkLVJuclB1ZjFjWXI2NC1LTG1HRHAyMV9lS1hQVkxSRXV0bnpDeGxXdGlZV2xobFA3YldVcjY0aHY5YVZRMkNhckJBMDk1TjhkTDdPNzc3UjVPMTlnb1JvVzJxTlo1Z2E3VjRuQ3RPX1BON2pzRm1rY1VrelUyVzVqejVwS2tnUmtlZHUyczA3WndlU3ExX2lzQUV1blJ5eEE2ay1aNXRPUFgxd19Za25kQ255QXNhcnAtb3hfdVFub3ZNZTNiTVhGbnYyYVY1WjVZdTRaN3ZmdV8zVHg2ZnFldF9QZzVkeEdQS1EzSU9OVk5JNXp0SHJtUnZmSmItRG5GeTdzNEcyR2JGQW5vZmFsNldJWWxSSHdlOUxXMXVocEI4SkJvZ0YwZjZYdW9pei13UUw2cVNqZE9zQ2p6Ujlmdmx4TlkybHRScEVMa1JpcGp4dzFKT3pnMGlPOVA4SE1iVXhxUQ",
+        "time": "2026-09-14 11:31:52",
+        "platform": "facebook",
+        "risk": "綠"
+      },
       {
         "title": "跨縣助選張嘉郡 許淑華：雲林縣長後繼有人 - hk.crntt.com",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlUGFJUHlBX05FVHpvLWFpVzBiT1VZdnRTQTRQUHRwdHltRTZnN1hiSEpQUzFqbUhnR1RoUWJHdXl0Z2FNUWxfZXpqNk5sU041UWZhdUpYVHo3QjdPbUZ6R2gxYm5MV28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1995,13 +2048,6 @@
         "time": "2026-09-13 19:07:00",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "潘越雲、萬芳等7組歌手齊聚雲林 張嘉郡提「雲林小巨蛋」構想 - 17news民生好報",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41ME5Gb2s2NzdBSlpMYzc0cGxSQUdYaGUxZElHc1RNajMtbUxzN3RLdzlVMHhfUnRZSXI0QThVQVppNGtKSWZEclNB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-13 19:02:51",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2009,7 +2055,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 18
+        "count": 19
       }
     ],
     "groups": []
