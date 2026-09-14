@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-14T03:55:04.506839+00:00",
+  "generated_at": "2026-09-14T04:11:29.646321+00:00",
   "metrics": {
-    "total_24h": 26,
+    "total_24h": 30,
     "prev_24h": 41,
-    "growth_pct": -36.59,
-    "news_24h": 24,
+    "growth_pct": -26.83,
+    "news_24h": 28,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 213,
+    "total": 217,
     "prev": 240,
-    "growth_pct": -11.25,
-    "news": 191,
+    "growth_pct": -9.58,
+    "news": 195,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 24
+      "count": 28
     },
     {
       "platform": "facebook",
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 191
+      "count": 195
     },
     {
       "platform": "facebook",
@@ -60,7 +60,7 @@
     },
     {
       "hour": "2026-09-13 13:00",
-      "count": 2
+      "count": 3
     },
     {
       "hour": "2026-09-13 16:00",
@@ -96,11 +96,11 @@
     },
     {
       "hour": "2026-09-14 10:00",
-      "count": 1
+      "count": 3
     },
     {
       "hour": "2026-09-14 11:00",
-      "count": 1
+      "count": 2
     }
   ],
   "by_hour_7d": [
@@ -334,7 +334,7 @@
     },
     {
       "hour": "2026-09-13 13:00",
-      "count": 2
+      "count": 3
     },
     {
       "hour": "2026-09-13 16:00",
@@ -370,17 +370,17 @@
     },
     {
       "hour": "2026-09-14 10:00",
-      "count": 1
+      "count": 3
     },
     {
       "hour": "2026-09-14 11:00",
-      "count": 1
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 24
+      "count": 28
     },
     {
       "platform": "facebook",
@@ -388,17 +388,25 @@
     }
   ],
   "mention_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "雲林拚改變！大埤聯合競總成立 劉建國：這戰是「縣民對家族」的選擇 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQNV9VeEZTUE5RZ1NqVzB5ekxwNDB4NTViMVJoNFBLUk5QRlJNX1FIMzFoSExWUlZmaEhkVWVNbWtURXVxZVluLVc5ZG1ZN2VtbkVkLVJuclB1ZjFjWXI2NC1LTG1HRHAyMV9lS1hQVkxSRXV0bnpDeGxXdGlZV2xobFA3YldVcjY0aHY5YVZRMkNhckJBMDk1TjhkTDdPNzc3UjVPMTlnb1JvVzJxTlo1Z2E3VjRuQ3RPX1BON2pzRm1rY1VrelUyVzVqejVwS2tnUmtlZHUyczA3WndlU3ExX2lzQUV1blJ5eEE2ay1aNXRPUFgxd19Za25kQ255QXNhcnAtb3hfdVFub3ZNZTNiTVhGbnYyYVY1WjVZdTRaN3ZmdV8zVHg2ZnFldF9QZzVkeEdQS1EzSU9OVk5JNXp0SHJtUnZmSmItRG5GeTdzNEcyR2JGQW5vZmFsNldJWWxSSHdlOUxXMXVocEI4SkJvZ0YwZjZYdW9pei13UUw2cVNqZE9zQ2p6Ujlmdmx4TlkybHRScEVMa1JpcGp4dzFKT3pnMGlPOVA4SE1iVXhxUQ",
-        "time": "2026-09-14 11:31:52"
-      }
-    ],
     "news": [
+      {
+        "title": "雲林拚改變！大埤聯合競總成立 劉建國：這戰是「縣民對家族」的選擇 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxONTNGTTJMOWJvT0pEb3VWMXBCRDFKcG9HTV9mOTM0QWtoeUk1anljSGpRYXBqTTV0Nll3eEpLRzRNVzlQT04wSlhWY2VZeGRjYnlId2NKVHNUeWlub1c0QU9XNEMxMmdtTFhfMGtRS2U1R282RUZ2cERKckozUHp4LWdKSGVCQ1F0MHYxZWhMek9mWUZRZTA2blZ3Wk5iT29JaG10WkJjbWcyOTRXYlVHR0RmT1hDUVNaV3dyVXBRR3pHN0YyTXlpcU5zNDMzZDI4NmpJaHVvUGtMUnM4N3ZncVdvYVdEYlJUenhUbWg1OUdWcUFEUEtURW9qTTBqNUhJaVlPcDZWQ3JOWWxGZkFONmxlNE5uUnRJQTlrQ1MxZGloSlE1dFZVUHluSTdXV1c3dlhKOWV3aEc5YmxnQWV1X29pSThTeVpCbHNlWXlOVmdkbDFUMEJ1WWZZNG52cUtVbk42QWVxZzFHV0tmOUxLMXRWci1KR0VV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-14 11:48:35"
+      },
+      {
+        "title": "許淑華跨區力挺張嘉郡 藍營戰神謝龍介也盛讚 | 夏和宣 | 地方新聞 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IYWtqa25JeURKTmxiYXFETjJfcjhqY2RiMXJQN2lKZHBMRzB6Yk4tMHpNd0VmbW5vdXVCYWh1bVVGUnotMGRJN0RpR0dKdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-14 10:38:26"
+      },
       {
         "title": "跨縣助選張嘉郡 許淑華：雲林縣長後繼有人 - hk.crntt.com",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlUGFJUHlBX05FVHpvLWFpVzBiT1VZdnRTQTRQUHRwdHltRTZnN1hiSEpQUzFqbUhnR1RoUWJHdXl0Z2FNUWxfZXpqNk5sU041UWZhdUpYVHo3QjdPbUZ6R2gxYm5MV28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-14 10:02:07"
+      },
+      {
+        "title": "跨縣助選張嘉郡 許淑華：雲林縣長後繼有人 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oRllpbnJlaTh0eUlJUVVNRmZvUXRmanhCSUQ1WjV5VU9GeWxadFBlWnJSQmh3bEN5WVFxSURzSjJNdUhISEk0RTZEa2Nwa0wxbVI3RV9jY0RRVzdpdXdFaUFEeTk3RlJVY0ExRVo3MA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-14 10:02:07"
       },
       {
@@ -507,6 +515,11 @@
         "time": "2026-09-13 13:03:58"
       },
       {
+        "title": "鮮乳標章新制上路雲林今辦鮮乳健走挺農劉建國拋全縣老少周周喝鮮乳| 時事 - 聯合影音",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NUURCQ1NHZUdBTXB4QzRYbFUwYV81RUc1NklJcHMtSmJ6YVhQM0dyOGhsU1BnbEZGRGV3Wm8zdHY2VUVHX0hZamJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-13 13:03:00"
+      },
+      {
         "title": "500人健走挺國產鮮乳！ 劉建國拋「老人、小孩週週2瓶」政見 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOS09ESnJsQUZrWWpiaVAzOHlTaU9WYXBGcXZzSEllZ3pidGZZVDYwdTNTQ1F2aGQ3ZWxUdWxPdV9BN0ZJN09sQXZGVTljZXNmXzJ2WGt3OU0tRWJ6MHVVMWNna0FoU2xQZTFVXzR3WnVmNTkzenZGeFNFWml0dnl5QmlRSmFFLWRUSDB6WF9ZWmR0U2tyOHlzd3MtNjRJTThLcVNZOUpOTlkybGx1aVNoN2Jkdk1MMzNHSkNMenpJX0ZOaWNKb1VGcGVya09NeC1ENTVwRnE3MVpDcTIxN0hGNGs0UjdiN0g0LVJJX0k4c3N0REFVSHJjdkx1SEt0Z2ZOZGxOSkVSbzM5WEhvYU9PSHJEMzYxeWFsNndzQWp3c2NYdkhZVVg3Z3BDZFF1MUxTVWdpckx1LVJJN1dZbDh6c0UyRjM1c0ZaZUdTVmdjSmtvcTRnNXVPTUZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-13 12:58:27"
@@ -516,12 +529,19 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54SXlLSDlZQm9WeWxhU0VSNEJDbHBsU05WblR5NFNNN1JoZkgxWnZNMXU2Tms3QlNwa0xaaUJzOUI0TlJpajU2Z2Z5QWxjQnlMTVU2Yy1WVEVkYkl2emxsa0E3clRmRzlORnfSAW9BVV95cUxOb0FBVERfYXdxUnYwdzdGUURwNDA3bjNqUE83Mk9qYlNLbHlxN29PZjZQeDU3YndUYzRIVVFHcXVQOGRKeFVzem1XOVpsajB5NG9iQ1paaHJpSFJlUE9CZHMzcjFhdXVMNWVWNS1RS0k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-13 12:45:16"
       }
+    ],
+    "facebook": [
+      {
+        "title": "雲林拚改變！大埤聯合競總成立 劉建國：這戰是「縣民對家族」的選擇 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQNV9VeEZTUE5RZ1NqVzB5ekxwNDB4NTViMVJoNFBLUk5QRlJNX1FIMzFoSExWUlZmaEhkVWVNbWtURXVxZVluLVc5ZG1ZN2VtbkVkLVJuclB1ZjFjWXI2NC1LTG1HRHAyMV9lS1hQVkxSRXV0bnpDeGxXdGlZV2xobFA3YldVcjY0aHY5YVZRMkNhckJBMDk1TjhkTDdPNzc3UjVPMTlnb1JvVzJxTlo1Z2E3VjRuQ3RPX1BON2pzRm1rY1VrelUyVzVqejVwS2tnUmtlZHUyczA3WndlU3ExX2lzQUV1blJ5eEE2ay1aNXRPUFgxd19Za25kQ255QXNhcnAtb3hfdVFub3ZNZTNiTVhGbnYyYVY1WjVZdTRaN3ZmdV8zVHg2ZnFldF9QZzVkeEdQS1EzSU9OVk5JNXp0SHJtUnZmSmItRG5GeTdzNEcyR2JGQW5vZmFsNldJWWxSSHdlOUxXMXVocEI4SkJvZ0YwZjZYdW9pei13UUw2cVNqZE9zQ2p6Ujlmdmx4TlkybHRScEVMa1JpcGp4dzFKT3pnMGlPOVA4SE1iVXhxUQ",
+        "time": "2026-09-14 11:31:52"
+      }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 24
+      "count": 28
     },
     {
       "platform": "facebook",
@@ -529,17 +549,25 @@
     }
   ],
   "alias_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "雲林拚改變！大埤聯合競總成立 劉建國：這戰是「縣民對家族」的選擇 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQNV9VeEZTUE5RZ1NqVzB5ekxwNDB4NTViMVJoNFBLUk5QRlJNX1FIMzFoSExWUlZmaEhkVWVNbWtURXVxZVluLVc5ZG1ZN2VtbkVkLVJuclB1ZjFjWXI2NC1LTG1HRHAyMV9lS1hQVkxSRXV0bnpDeGxXdGlZV2xobFA3YldVcjY0aHY5YVZRMkNhckJBMDk1TjhkTDdPNzc3UjVPMTlnb1JvVzJxTlo1Z2E3VjRuQ3RPX1BON2pzRm1rY1VrelUyVzVqejVwS2tnUmtlZHUyczA3WndlU3ExX2lzQUV1blJ5eEE2ay1aNXRPUFgxd19Za25kQ255QXNhcnAtb3hfdVFub3ZNZTNiTVhGbnYyYVY1WjVZdTRaN3ZmdV8zVHg2ZnFldF9QZzVkeEdQS1EzSU9OVk5JNXp0SHJtUnZmSmItRG5GeTdzNEcyR2JGQW5vZmFsNldJWWxSSHdlOUxXMXVocEI4SkJvZ0YwZjZYdW9pei13UUw2cVNqZE9zQ2p6Ujlmdmx4TlkybHRScEVMa1JpcGp4dzFKT3pnMGlPOVA4SE1iVXhxUQ",
-        "time": "2026-09-14 11:31:52"
-      }
-    ],
     "news": [
+      {
+        "title": "雲林拚改變！大埤聯合競總成立 劉建國：這戰是「縣民對家族」的選擇 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxONTNGTTJMOWJvT0pEb3VWMXBCRDFKcG9HTV9mOTM0QWtoeUk1anljSGpRYXBqTTV0Nll3eEpLRzRNVzlQT04wSlhWY2VZeGRjYnlId2NKVHNUeWlub1c0QU9XNEMxMmdtTFhfMGtRS2U1R282RUZ2cERKckozUHp4LWdKSGVCQ1F0MHYxZWhMek9mWUZRZTA2blZ3Wk5iT29JaG10WkJjbWcyOTRXYlVHR0RmT1hDUVNaV3dyVXBRR3pHN0YyTXlpcU5zNDMzZDI4NmpJaHVvUGtMUnM4N3ZncVdvYVdEYlJUenhUbWg1OUdWcUFEUEtURW9qTTBqNUhJaVlPcDZWQ3JOWWxGZkFONmxlNE5uUnRJQTlrQ1MxZGloSlE1dFZVUHluSTdXV1c3dlhKOWV3aEc5YmxnQWV1X29pSThTeVpCbHNlWXlOVmdkbDFUMEJ1WWZZNG52cUtVbk42QWVxZzFHV0tmOUxLMXRWci1KR0VV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-14 11:48:35"
+      },
+      {
+        "title": "許淑華跨區力挺張嘉郡 藍營戰神謝龍介也盛讚 | 夏和宣 | 地方新聞 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IYWtqa25JeURKTmxiYXFETjJfcjhqY2RiMXJQN2lKZHBMRzB6Yk4tMHpNd0VmbW5vdXVCYWh1bVVGUnotMGRJN0RpR0dKdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-14 10:38:26"
+      },
       {
         "title": "跨縣助選張嘉郡 許淑華：雲林縣長後繼有人 - hk.crntt.com",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlUGFJUHlBX05FVHpvLWFpVzBiT1VZdnRTQTRQUHRwdHltRTZnN1hiSEpQUzFqbUhnR1RoUWJHdXl0Z2FNUWxfZXpqNk5sU041UWZhdUpYVHo3QjdPbUZ6R2gxYm5MV28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-14 10:02:07"
+      },
+      {
+        "title": "跨縣助選張嘉郡 許淑華：雲林縣長後繼有人 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oRllpbnJlaTh0eUlJUVVNRmZvUXRmanhCSUQ1WjV5VU9GeWxadFBlWnJSQmh3bEN5WVFxSURzSjJNdUhISEk0RTZEa2Nwa0wxbVI3RV9jY0RRVzdpdXdFaUFEeTk3RlJVY0ExRVo3MA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-14 10:02:07"
       },
       {
@@ -648,6 +676,11 @@
         "time": "2026-09-13 13:03:58"
       },
       {
+        "title": "鮮乳標章新制上路雲林今辦鮮乳健走挺農劉建國拋全縣老少周周喝鮮乳| 時事 - 聯合影音",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NUURCQ1NHZUdBTXB4QzRYbFUwYV81RUc1NklJcHMtSmJ6YVhQM0dyOGhsU1BnbEZGRGV3Wm8zdHY2VUVHX0hZamJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-13 13:03:00"
+      },
+      {
         "title": "500人健走挺國產鮮乳！ 劉建國拋「老人、小孩週週2瓶」政見 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOS09ESnJsQUZrWWpiaVAzOHlTaU9WYXBGcXZzSEllZ3pidGZZVDYwdTNTQ1F2aGQ3ZWxUdWxPdV9BN0ZJN09sQXZGVTljZXNmXzJ2WGt3OU0tRWJ6MHVVMWNna0FoU2xQZTFVXzR3WnVmNTkzenZGeFNFWml0dnl5QmlRSmFFLWRUSDB6WF9ZWmR0U2tyOHlzd3MtNjRJTThLcVNZOUpOTlkybGx1aVNoN2Jkdk1MMzNHSkNMenpJX0ZOaWNKb1VGcGVya09NeC1ENTVwRnE3MVpDcTIxN0hGNGs0UjdiN0g0LVJJX0k4c3N0REFVSHJjdkx1SEt0Z2ZOZGxOSkVSbzM5WEhvYU9PSHJEMzYxeWFsNndzQWp3c2NYdkhZVVg3Z3BDZFF1MUxTVWdpckx1LVJJN1dZbDh6c0UyRjM1c0ZaZUdTVmdjSmtvcTRnNXVPTUZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-13 12:58:27"
@@ -657,20 +690,42 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54SXlLSDlZQm9WeWxhU0VSNEJDbHBsU05WblR5NFNNN1JoZkgxWnZNMXU2Tms3QlNwa0xaaUJzOUI0TlJpajU2Z2Z5QWxjQnlMTVU2Yy1WVEVkYkl2emxsa0E3clRmRzlORnfSAW9BVV95cUxOb0FBVERfYXdxUnYwdzdGUURwNDA3bjNqUE83Mk9qYlNLbHlxN29PZjZQeDU3YndUYzRIVVFHcXVQOGRKeFVzem1XOVpsajB5NG9iQ1paaHJpSFJlUE9CZHMzcjFhdXVMNWVWNS1RS0k?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-13 12:45:16"
       }
+    ],
+    "facebook": [
+      {
+        "title": "雲林拚改變！大埤聯合競總成立 劉建國：這戰是「縣民對家族」的選擇 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQNV9VeEZTUE5RZ1NqVzB5ekxwNDB4NTViMVJoNFBLUk5QRlJNX1FIMzFoSExWUlZmaEhkVWVNbWtURXVxZVluLVc5ZG1ZN2VtbkVkLVJuclB1ZjFjWXI2NC1LTG1HRHAyMV9lS1hQVkxSRXV0bnpDeGxXdGlZV2xobFA3YldVcjY0aHY5YVZRMkNhckJBMDk1TjhkTDdPNzc3UjVPMTlnb1JvVzJxTlo1Z2E3VjRuQ3RPX1BON2pzRm1rY1VrelUyVzVqejVwS2tnUmtlZHUyczA3WndlU3ExX2lzQUV1blJ5eEE2ay1aNXRPUFgxd19Za25kQ255QXNhcnAtb3hfdVFub3ZNZTNiTVhGbnYyYVY1WjVZdTRaN3ZmdV8zVHg2ZnFldF9QZzVkeEdQS1EzSU9OVk5JNXp0SHJtUnZmSmItRG5GeTdzNEcyR2JGQW5vZmFsNldJWWxSSHdlOUxXMXVocEI4SkJvZ0YwZjZYdW9pei13UUw2cVNqZE9zQ2p6Ujlmdmx4TlkybHRScEVMa1JpcGp4dzFKT3pnMGlPOVA4SE1iVXhxUQ",
+        "time": "2026-09-14 11:31:52"
+      }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 18,
-    "劉建國": 7
+    "張嘉郡": 20,
+    "劉建國": 9
   },
   "mention_compare_7d": {
-    "張嘉郡": 149,
-    "劉建國": 65
+    "張嘉郡": 151,
+    "劉建國": 67
   },
   "top_news": [
     {
+      "title": "雲林拚改變！大埤聯合競總成立 劉建國：這戰是「縣民對家族」的選擇 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxONTNGTTJMOWJvT0pEb3VWMXBCRDFKcG9HTV9mOTM0QWtoeUk1anljSGpRYXBqTTV0Nll3eEpLRzRNVzlQT04wSlhWY2VZeGRjYnlId2NKVHNUeWlub1c0QU9XNEMxMmdtTFhfMGtRS2U1R282RUZ2cERKckozUHp4LWdKSGVCQ1F0MHYxZWhMek9mWUZRZTA2blZ3Wk5iT29JaG10WkJjbWcyOTRXYlVHR0RmT1hDUVNaV3dyVXBRR3pHN0YyTXlpcU5zNDMzZDI4NmpJaHVvUGtMUnM4N3ZncVdvYVdEYlJUenhUbWg1OUdWcUFEUEtURW9qTTBqNUhJaVlPcDZWQ3JOWWxGZkFONmxlNE5uUnRJQTlrQ1MxZGloSlE1dFZVUHluSTdXV1c3dlhKOWV3aEc5YmxnQWV1X29pSThTeVpCbHNlWXlOVmdkbDFUMEJ1WWZZNG52cUtVbk42QWVxZzFHV0tmOUxLMXRWci1KR0VV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-14 11:48:35"
+    },
+    {
+      "title": "許淑華跨區力挺張嘉郡 藍營戰神謝龍介也盛讚 | 夏和宣 | 地方新聞 - 風傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IYWtqa25JeURKTmxiYXFETjJfcjhqY2RiMXJQN2lKZHBMRzB6Yk4tMHpNd0VmbW5vdXVCYWh1bVVGUnotMGRJN0RpR0dKdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-14 10:38:26"
+    },
+    {
       "title": "跨縣助選張嘉郡 許淑華：雲林縣長後繼有人 - hk.crntt.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlUGFJUHlBX05FVHpvLWFpVzBiT1VZdnRTQTRQUHRwdHltRTZnN1hiSEpQUzFqbUhnR1RoUWJHdXl0Z2FNUWxfZXpqNk5sU041UWZhdUpYVHo3QjdPbUZ6R2gxYm5MV28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-14 10:02:07"
+    },
+    {
+      "title": "跨縣助選張嘉郡 許淑華：雲林縣長後繼有人 - 中國評論新聞",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oRllpbnJlaTh0eUlJUVVNRmZvUXRmanhCSUQ1WjV5VU9GeWxadFBlWnJSQmh3bEN5WVFxSURzSjJNdUhISEk0RTZEa2Nwa0wxbVI3RV9jY0RRVzdpdXdFaUFEeTk3RlJVY0ExRVo3MA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-14 10:02:07"
     },
     {
@@ -712,27 +767,27 @@
       "title": "張嘉郡「廟口開講」要讓雲林閃閃發亮 張麗善、謝龍介、許淑華助講 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tVGI5eGV2Z3hWRXdXaWk2OGFnbTNHY0hCVVdaV3FhdF9vVG5KWFBpVmxfUklJRG82V090UlNIYUh5dHpwNnd3M09iYTRsY1VqZlZpVV96WmxuSWZvWEh6WVVOSEdXT0dPQlHSAW9BVV95cUxNaGQ5QlhrSWx1UDhDdTNYem1QZzBIdmVZMVJNeGdvZ2h2SGMwbjJIQzVXSGV1ckp6eHpvU3kyaXN6bFVLVFJWZG8xdGNtR01meWJLWHBJX1NPc2IzYzFDSjl5REZWcWxldEUwTjNmZG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-13 22:16:14"
-    },
-    {
-      "title": "跨縣助選張嘉郡 許淑華：最開心的是雲林縣長後繼有人 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPTEJ0T3g3bFJaSktSSXVGQjFJNDI5Qk1yaFE1TnhlUU1mSEk0LUh1WEVkMWZwUTM0aTRTMTFDX1g0aE02LTNHQk5VenExd3RxZFdMMFB6MEZwS1VSTVhSMlpqaFJaSzVpUGVjOTlJYlY3MENiMW5EWmxNaUhlNkY1VVVDS2stb3J5QUtJWWt6dkMzX0RuWUo4dFFxN1YxUmdFWDNiNEdsWGk1aDVhdWFoRDBZb0V3TUZhT1hnOVRYZEI0bHAzSEtPcmMyX1gwZnFaNV92dkVObjFzS2IyNkdSbzNZaU5RUlN6OTFiNkRDWW5wQkpleUItbXZ4U1JEd0M2VHZuOE9ab24yQ1VhcTRoazdWclhwVTFiV2lFSzVFTjVSa1hzdXZwTFpkMnY3dHdMUVBRSVpJbFk3N1pxX1dNTnN5V3JkclFYbGJETEs3Und2NGJwNE4wZEtwaTJzMnlrbU0wUFpkZjdsQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-13 21:35:01"
-    },
-    {
-      "title": "雲林縣長參選人嘉郡首場廟口開講 許淑華、謝龍介來相挺 - udn",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FYVZ3ODFNTmdzOWdmSWdOckhKYkg1a1ZHNUVpbURXMFNnY3hkUWNBbUFKNndFb3JnTTFqTFJBbXp0NjJtbWVRT0p6T0xIc19SMFRB0gFYQVVfeXFMUFV0SWVUUVU4RWpoZHJCSEJnd1libXBKWlAzS0RKbWJHSmxtdXo3VUVTbGJYV1lBN0VyY2FtNzhvcDQ5djQ5Y0RPb2ZWVVFIVEdNbm14U09LeQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-13 21:18:22"
-    },
-    {
-      "title": "雲林縣長參選人嘉郡首場廟口開講許淑華、謝龍介來相挺| 2026九合一選舉 - udn.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44Z3V2Mld4SjhaNVNxWkt6ZUlvYk8zMkFRMEtpbTdYUEtjTC1OTWh3SVNIdk5jZk9WSzNrTHFWWGJtVlM2UzlldFVremxYMFhoSzVFbk5iX0c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-13 21:18:22"
     }
   ],
   "top_news_7d": [
     {
+      "title": "雲林拚改變！大埤聯合競總成立 劉建國：這戰是「縣民對家族」的選擇 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxONTNGTTJMOWJvT0pEb3VWMXBCRDFKcG9HTV9mOTM0QWtoeUk1anljSGpRYXBqTTV0Nll3eEpLRzRNVzlQT04wSlhWY2VZeGRjYnlId2NKVHNUeWlub1c0QU9XNEMxMmdtTFhfMGtRS2U1R282RUZ2cERKckozUHp4LWdKSGVCQ1F0MHYxZWhMek9mWUZRZTA2blZ3Wk5iT29JaG10WkJjbWcyOTRXYlVHR0RmT1hDUVNaV3dyVXBRR3pHN0YyTXlpcU5zNDMzZDI4NmpJaHVvUGtMUnM4N3ZncVdvYVdEYlJUenhUbWg1OUdWcUFEUEtURW9qTTBqNUhJaVlPcDZWQ3JOWWxGZkFONmxlNE5uUnRJQTlrQ1MxZGloSlE1dFZVUHluSTdXV1c3dlhKOWV3aEc5YmxnQWV1X29pSThTeVpCbHNlWXlOVmdkbDFUMEJ1WWZZNG52cUtVbk42QWVxZzFHV0tmOUxLMXRWci1KR0VV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-14 11:48:35"
+    },
+    {
+      "title": "許淑華跨區力挺張嘉郡 藍營戰神謝龍介也盛讚 | 夏和宣 | 地方新聞 - 風傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IYWtqa25JeURKTmxiYXFETjJfcjhqY2RiMXJQN2lKZHBMRzB6Yk4tMHpNd0VmbW5vdXVCYWh1bVVGUnotMGRJN0RpR0dKdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-14 10:38:26"
+    },
+    {
       "title": "跨縣助選張嘉郡 許淑華：雲林縣長後繼有人 - hk.crntt.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlUGFJUHlBX05FVHpvLWFpVzBiT1VZdnRTQTRQUHRwdHltRTZnN1hiSEpQUzFqbUhnR1RoUWJHdXl0Z2FNUWxfZXpqNk5sU041UWZhdUpYVHo3QjdPbUZ6R2gxYm5MV28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-14 10:02:07"
+    },
+    {
+      "title": "跨縣助選張嘉郡 許淑華：雲林縣長後繼有人 - 中國評論新聞",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oRllpbnJlaTh0eUlJUVVNRmZvUXRmanhCSUQ1WjV5VU9GeWxadFBlWnJSQmh3bEN5WVFxSURzSjJNdUhISEk0RTZEa2Nwa0wxbVI3RV9jY0RRVzdpdXdFaUFEeTk3RlJVY0ExRVo3MA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-14 10:02:07"
     },
     {
@@ -814,21 +869,6 @@
       "title": "2026民歌音樂會唱響雲林 張嘉郡提「雲林小巨蛋」構想 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQjB2NnpwTmdGQ2hQOUlyTTRXd3ZtRnNTay1rLUZGUHFiRmdreEtkYkxfbUdjSXg4MjUtQ1hqTUlRdkFFd1AzWEJPSVFZQ0draXVjQmt3Sjlob0FudWVZMHNHdWpRdnJNLVo4MWhxZVUwVlc1T2F4OHBzX0lwUm1jaXh1dm1HTHUwMFZvcmFZV1lMUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-13 20:17:39"
-    },
-    {
-      "title": "2026民歌音樂會唱響雲林 張嘉郡提「雲林小巨蛋」構想 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aXzJwQlljbUVNcGE4b2NHSzZaV3hKWFdTSFdmS09kN2ZpWFFmSHd0LWo1MVFMa3Z5cHduWk5MTXZHckpUWFBhM21FOGhXTlVVVUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-13 20:17:00"
-    },
-    {
-      "title": "潘越雲、萬芳等7組歌手齊聚雲林 張嘉郡提「雲林小巨蛋」構想 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oTENxdFNhdjVBS0RIRnp2ZjdkV3FCVjFJVG5zY3hSUFNDNTBReUwwdDQyakxXMHZEMGRjdHlsdkxadjBHX2F5dWxoNk92V25BX2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-13 19:07:00"
-    },
-    {
-      "title": "潘越雲、萬芳等7組歌手齊聚雲林 張嘉郡提「雲林小巨蛋」構想 - 17news民生好報",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41ME5Gb2s2NzdBSlpMYzc0cGxSQUdYaGUxZElHc1RNajMtbUxzN3RLdzlVMHhfUnRZSXI0QThVQVppNGtKSWZEclNB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-13 19:02:51"
     }
   ],
   "latest_facebook_20": [
@@ -935,8 +975,23 @@
   ],
   "latest_news_20": [
     {
+      "title": "雲林拚改變！大埤聯合競總成立 劉建國：這戰是「縣民對家族」的選擇 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxONTNGTTJMOWJvT0pEb3VWMXBCRDFKcG9HTV9mOTM0QWtoeUk1anljSGpRYXBqTTV0Nll3eEpLRzRNVzlQT04wSlhWY2VZeGRjYnlId2NKVHNUeWlub1c0QU9XNEMxMmdtTFhfMGtRS2U1R282RUZ2cERKckozUHp4LWdKSGVCQ1F0MHYxZWhMek9mWUZRZTA2blZ3Wk5iT29JaG10WkJjbWcyOTRXYlVHR0RmT1hDUVNaV3dyVXBRR3pHN0YyTXlpcU5zNDMzZDI4NmpJaHVvUGtMUnM4N3ZncVdvYVdEYlJUenhUbWg1OUdWcUFEUEtURW9qTTBqNUhJaVlPcDZWQ3JOWWxGZkFONmxlNE5uUnRJQTlrQ1MxZGloSlE1dFZVUHluSTdXV1c3dlhKOWV3aEc5YmxnQWV1X29pSThTeVpCbHNlWXlOVmdkbDFUMEJ1WWZZNG52cUtVbk42QWVxZzFHV0tmOUxLMXRWci1KR0VV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-14 11:48:35"
+    },
+    {
+      "title": "許淑華跨區力挺張嘉郡 藍營戰神謝龍介也盛讚 | 夏和宣 | 地方新聞 - 風傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IYWtqa25JeURKTmxiYXFETjJfcjhqY2RiMXJQN2lKZHBMRzB6Yk4tMHpNd0VmbW5vdXVCYWh1bVVGUnotMGRJN0RpR0dKdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-14 10:38:26"
+    },
+    {
       "title": "跨縣助選張嘉郡 許淑華：雲林縣長後繼有人 - hk.crntt.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlUGFJUHlBX05FVHpvLWFpVzBiT1VZdnRTQTRQUHRwdHltRTZnN1hiSEpQUzFqbUhnR1RoUWJHdXl0Z2FNUWxfZXpqNk5sU041UWZhdUpYVHo3QjdPbUZ6R2gxYm5MV28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-14 10:02:07"
+    },
+    {
+      "title": "跨縣助選張嘉郡 許淑華：雲林縣長後繼有人 - 中國評論新聞",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oRllpbnJlaTh0eUlJUVVNRmZvUXRmanhCSUQ1WjV5VU9GeWxadFBlWnJSQmh3bEN5WVFxSURzSjJNdUhISEk0RTZEa2Nwa0wxbVI3RV9jY0RRVzdpdXdFaUFEeTk3RlJVY0ExRVo3MA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-14 10:02:07"
     },
     {
@@ -1018,21 +1073,6 @@
       "title": "2026民歌音樂會唱響雲林 張嘉郡提「雲林小巨蛋」構想 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQjB2NnpwTmdGQ2hQOUlyTTRXd3ZtRnNTay1rLUZGUHFiRmdreEtkYkxfbUdjSXg4MjUtQ1hqTUlRdkFFd1AzWEJPSVFZQ0draXVjQmt3Sjlob0FudWVZMHNHdWpRdnJNLVo4MWhxZVUwVlc1T2F4OHBzX0lwUm1jaXh1dm1HTHUwMFZvcmFZV1lMUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-13 20:17:39"
-    },
-    {
-      "title": "2026民歌音樂會唱響雲林 張嘉郡提「雲林小巨蛋」構想 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aXzJwQlljbUVNcGE4b2NHSzZaV3hKWFdTSFdmS09kN2ZpWFFmSHd0LWo1MVFMa3Z5cHduWk5MTXZHckpUWFBhM21FOGhXTlVVVUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-13 20:17:00"
-    },
-    {
-      "title": "潘越雲、萬芳等7組歌手齊聚雲林 張嘉郡提「雲林小巨蛋」構想 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oTENxdFNhdjVBS0RIRnp2ZjdkV3FCVjFJVG5zY3hSUFNDNTBReUwwdDQyakxXMHZEMGRjdHlsdkxadjBHX2F5dWxoNk92V25BX2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-13 19:07:00"
-    },
-    {
-      "title": "潘越雲、萬芳等7組歌手齊聚雲林 張嘉郡提「雲林小巨蛋」構想 - 17news民生好報",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41ME5Gb2s2NzdBSlpMYzc0cGxSQUdYaGUxZElHc1RNajMtbUxzN3RLdzlVMHhfUnRZSXI0QThVQVppNGtKSWZEclNB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-13 19:02:51"
     }
   ],
   "person_sections": {
@@ -1141,8 +1181,18 @@
       ],
       "news": [
         {
+          "title": "許淑華跨區力挺張嘉郡 藍營戰神謝龍介也盛讚 | 夏和宣 | 地方新聞 - 風傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IYWtqa25JeURKTmxiYXFETjJfcjhqY2RiMXJQN2lKZHBMRzB6Yk4tMHpNd0VmbW5vdXVCYWh1bVVGUnotMGRJN0RpR0dKdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-14 10:38:26"
+        },
+        {
           "title": "跨縣助選張嘉郡 許淑華：雲林縣長後繼有人 - hk.crntt.com",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlUGFJUHlBX05FVHpvLWFpVzBiT1VZdnRTQTRQUHRwdHltRTZnN1hiSEpQUzFqbUhnR1RoUWJHdXl0Z2FNUWxfZXpqNk5sU041UWZhdUpYVHo3QjdPbUZ6R2gxYm5MV28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-14 10:02:07"
+        },
+        {
+          "title": "跨縣助選張嘉郡 許淑華：雲林縣長後繼有人 - 中國評論新聞",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oRllpbnJlaTh0eUlJUVVNRmZvUXRmanhCSUQ1WjV5VU9GeWxadFBlWnJSQmh3bEN5WVFxSURzSjJNdUhISEk0RTZEa2Nwa0wxbVI3RV9jY0RRVzdpdXdFaUFEeTk3RlJVY0ExRVo3MA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-14 10:02:07"
         },
         {
@@ -1229,16 +1279,6 @@
           "title": "參加老人公益棒球賽 張嘉郡：要讓雲林長者在地安心生活、幸福變老 | 太報 - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRZlkxcGhtNUZ4VGt2U1NGZ2c1OXZnUURwaklMUmVwME9CQjhCR1ZwQ21kS1pHZXByZHlZTWx3WGZYR3BZY1A0a0tBU1lCTG5qTnBpZVl3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-13 00:14:38"
-        },
-        {
-          "title": "明星球星齊聚斗六響應公益 張嘉郡：讓愛心一年一年延續 - 元丰傳媒",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10RGRLc2Nld2QtSGJYdnBWM0c3Qm5fWWJ6dGlMbEZoQkdmYjZwM0hCa1poX3lHaFdlSC1obGtnWVRUb0dCbHRPdVZnSFUyaEpoMVpBNE1sS2t0N2xvclF6R0FiNTNuekFH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-12 22:26:47"
-        },
-        {
-          "title": "張嘉郡力挺華山公益棒球賽 盼打造高齡友善健康有愛雲林 | 觀傳媒 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mcXF1dThGWjBVdXY0Q05RQ0gwNFZzd09lR3owVTc1RXdHOEtSSHJaSFE0c3NoSWYzSS1falNqdm12WVlSU2FrWnZoRzFmOHhrMmQxVnFn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-12 21:35:51"
         }
       ]
     },
@@ -1347,6 +1387,11 @@
       ],
       "news": [
         {
+          "title": "雲林拚改變！大埤聯合競總成立 劉建國：這戰是「縣民對家族」的選擇 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxONTNGTTJMOWJvT0pEb3VWMXBCRDFKcG9HTV9mOTM0QWtoeUk1anljSGpRYXBqTTV0Nll3eEpLRzRNVzlQT04wSlhWY2VZeGRjYnlId2NKVHNUeWlub1c0QU9XNEMxMmdtTFhfMGtRS2U1R282RUZ2cERKckozUHp4LWdKSGVCQ1F0MHYxZWhMek9mWUZRZTA2blZ3Wk5iT29JaG10WkJjbWcyOTRXYlVHR0RmT1hDUVNaV3dyVXBRR3pHN0YyTXlpcU5zNDMzZDI4NmpJaHVvUGtMUnM4N3ZncVdvYVdEYlJUenhUbWg1OUdWcUFEUEtURW9qTTBqNUhJaVlPcDZWQ3JOWWxGZkFONmxlNE5uUnRJQTlrQ1MxZGloSlE1dFZVUHluSTdXV1c3dlhKOWV3aEc5YmxnQWV1X29pSThTeVpCbHNlWXlOVmdkbDFUMEJ1WWZZNG52cUtVbk42QWVxZzFHV0tmOUxLMXRWci1KR0VV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-14 11:48:35"
+        },
+        {
           "title": "守護長者、學生 劉建國提週週喝兩次鮮乳 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPYmo4MjVNXzRmZEpKOEdCc3N5YmtMQzVjYmFfRmJfR0EzM2JRSGtKNDZueFRTVVc3SmNCRkdYcW13WTY3djNfekUzcGJFMTRtMmN2amx2aHhZM0VZRFRxbjUzMVMzdlJRc1BMb3dEWkZ1eldmNURSM01LR1BYT0tKYVpiT0J6UmwtTkNTeHlSY3ZlZWw5Q29nOHJLbjBtbGlmSjRZWXJMNkN3Z0ZNVmRxelBlYnMzbUNnWHpOaU1ETnhZQ3Q4eXVxWWNMaURReElIaFJGckFYbGFFYTU4VnRjamhKaGtGNUJyODVzNFQ2Q3RoNEx5dDZHOGpVcnlYd3RJMTNRZmM2VGFJU3NMMFEwRGRhOE1DTG5xRE1rTUUzY1dRQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-14 05:30:00"
@@ -1365,6 +1410,11 @@
           "title": "鮮乳標章新制上路 雲林今辦鮮乳健走挺農 劉建國拋全縣老少周周喝鮮乳 - UDN",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uNmVYbWNlcF9YanZKMEVtV3FvbTlvVVdBemhaRUt5S1NmZm0yaVRFSXVOZlJueEtET3FaRXFtN2VLTkwybnFsRXljNmdpWHRW0gFWQVVfeXFMT29KSU1sMWlXdlc1SnFfbUhxb2k0bVdDeWVLcHB2akJrSUxWR2RzYjdnMWo4WjF4TDl0cUY0ZnllcERwZ1pBVUhqZ0hadGdfNGdHZUpwdVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-13 13:03:58"
+        },
+        {
+          "title": "鮮乳標章新制上路雲林今辦鮮乳健走挺農劉建國拋全縣老少周周喝鮮乳| 時事 - 聯合影音",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NUURCQ1NHZUdBTXB4QzRYbFUwYV81RUc1NklJcHMtSmJ6YVhQM0dyOGhsU1BnbEZGRGV3Wm8zdHY2VUVHX0hZamJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-13 13:03:00"
         },
         {
           "title": "500人健走挺國產鮮乳！ 劉建國拋「老人、小孩週週2瓶」政見 - Yahoo新聞",
@@ -1435,16 +1485,6 @@
           "title": "（有影片）／健保宣導列車開進雲林土庫 劉建國打拚醫療在地照護到位 - 蕃新聞",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4emdnZ1JBUzl0ZnFETmMzRm5HcHVnMF8wQWJ3MjBOS013Wk1RM19uTExOUnZodURBcVB2VndQWlc4ZXZTdGxDbUVIZVBXZHQxWFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-12 19:25:00"
-        },
-        {
-          "title": "張嘉郡看棒球賽關注公益 劉建國參訪精米設備關心農業 - 中時新聞網",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxeTI1UVdpZHd5TExwUWN6YnV6MUxSdjk0UWRDWkcweGVfcERDb1MycGoyYlhINHBwRW53MXE4a3VnXzhzeWdnV0ZWYUZveUxYRkY4al9Pc1BrbnRvc2RydWtrR2hIMmU2UG43eTdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-12 19:23:13"
-        },
-        {
-          "title": "張嘉郡力挺公益棒球賽 劉建國成立大埤聯合競總 - 放言Fount Media",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DWnV1QkZyYmlQaVllcWhlYzJMejUwZ2wxLXBDd0hyMVkxVWpyYUNCUXdycnBpUm9wQTUwRS1EYnJYN0dtV2pPbGk1UFNHMUNtOXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-12 18:45:27"
         }
       ]
     }
@@ -1452,8 +1492,23 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "雲林拚改變！大埤聯合競總成立 劉建國：這戰是「縣民對家族」的選擇 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxONTNGTTJMOWJvT0pEb3VWMXBCRDFKcG9HTV9mOTM0QWtoeUk1anljSGpRYXBqTTV0Nll3eEpLRzRNVzlQT04wSlhWY2VZeGRjYnlId2NKVHNUeWlub1c0QU9XNEMxMmdtTFhfMGtRS2U1R282RUZ2cERKckozUHp4LWdKSGVCQ1F0MHYxZWhMek9mWUZRZTA2blZ3Wk5iT29JaG10WkJjbWcyOTRXYlVHR0RmT1hDUVNaV3dyVXBRR3pHN0YyTXlpcU5zNDMzZDI4NmpJaHVvUGtMUnM4N3ZncVdvYVdEYlJUenhUbWg1OUdWcUFEUEtURW9qTTBqNUhJaVlPcDZWQ3JOWWxGZkFONmxlNE5uUnRJQTlrQ1MxZGloSlE1dFZVUHluSTdXV1c3dlhKOWV3aEc5YmxnQWV1X29pSThTeVpCbHNlWXlOVmdkbDFUMEJ1WWZZNG52cUtVbk42QWVxZzFHV0tmOUxLMXRWci1KR0VV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-14 11:48:35"
+      },
+      {
+        "title": "許淑華跨區力挺張嘉郡 藍營戰神謝龍介也盛讚 | 夏和宣 | 地方新聞 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IYWtqa25JeURKTmxiYXFETjJfcjhqY2RiMXJQN2lKZHBMRzB6Yk4tMHpNd0VmbW5vdXVCYWh1bVVGUnotMGRJN0RpR0dKdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-14 10:38:26"
+      },
+      {
         "title": "跨縣助選張嘉郡 許淑華：雲林縣長後繼有人 - hk.crntt.com",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlUGFJUHlBX05FVHpvLWFpVzBiT1VZdnRTQTRQUHRwdHltRTZnN1hiSEpQUzFqbUhnR1RoUWJHdXl0Z2FNUWxfZXpqNk5sU041UWZhdUpYVHo3QjdPbUZ6R2gxYm5MV28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-14 10:02:07"
+      },
+      {
+        "title": "跨縣助選張嘉郡 許淑華：雲林縣長後繼有人 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oRllpbnJlaTh0eUlJUVVNRmZvUXRmanhCSUQ1WjV5VU9GeWxadFBlWnJSQmh3bEN5WVFxSURzSjJNdUhISEk0RTZEa2Nwa0wxbVI3RV9jY0RRVzdpdXdFaUFEeTk3RlJVY0ExRVo3MA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-14 10:02:07"
       },
       {
@@ -1560,6 +1615,11 @@
         "title": "鮮乳標章新制上路 雲林今辦鮮乳健走挺農 劉建國拋全縣老少周周喝鮮乳 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uNmVYbWNlcF9YanZKMEVtV3FvbTlvVVdBemhaRUt5S1NmZm0yaVRFSXVOZlJueEtET3FaRXFtN2VLTkwybnFsRXljNmdpWHRW0gFWQVVfeXFMT29KSU1sMWlXdlc1SnFfbUhxb2k0bVdDeWVLcHB2akJrSUxWR2RzYjdnMWo4WjF4TDl0cUY0ZnllcERwZ1pBVUhqZ0hadGdfNGdHZUpwdVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-13 13:03:58"
+      },
+      {
+        "title": "鮮乳標章新制上路雲林今辦鮮乳健走挺農劉建國拋全縣老少周周喝鮮乳| 時事 - 聯合影音",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NUURCQ1NHZUdBTXB4QzRYbFUwYV81RUc1NklJcHMtSmJ6YVhQM0dyOGhsU1BnbEZGRGV3Wm8zdHY2VUVHX0hZamJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-13 13:03:00"
       },
       {
         "title": "500人健走挺國產鮮乳！ 劉建國拋「老人、小孩週週2瓶」政見 - Yahoo新聞",
@@ -1590,8 +1650,23 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "雲林拚改變！大埤聯合競總成立 劉建國：這戰是「縣民對家族」的選擇 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxONTNGTTJMOWJvT0pEb3VWMXBCRDFKcG9HTV9mOTM0QWtoeUk1anljSGpRYXBqTTV0Nll3eEpLRzRNVzlQT04wSlhWY2VZeGRjYnlId2NKVHNUeWlub1c0QU9XNEMxMmdtTFhfMGtRS2U1R282RUZ2cERKckozUHp4LWdKSGVCQ1F0MHYxZWhMek9mWUZRZTA2blZ3Wk5iT29JaG10WkJjbWcyOTRXYlVHR0RmT1hDUVNaV3dyVXBRR3pHN0YyTXlpcU5zNDMzZDI4NmpJaHVvUGtMUnM4N3ZncVdvYVdEYlJUenhUbWg1OUdWcUFEUEtURW9qTTBqNUhJaVlPcDZWQ3JOWWxGZkFONmxlNE5uUnRJQTlrQ1MxZGloSlE1dFZVUHluSTdXV1c3dlhKOWV3aEc5YmxnQWV1X29pSThTeVpCbHNlWXlOVmdkbDFUMEJ1WWZZNG52cUtVbk42QWVxZzFHV0tmOUxLMXRWci1KR0VV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-14 11:48:35"
+      },
+      {
+        "title": "許淑華跨區力挺張嘉郡 藍營戰神謝龍介也盛讚 | 夏和宣 | 地方新聞 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IYWtqa25JeURKTmxiYXFETjJfcjhqY2RiMXJQN2lKZHBMRzB6Yk4tMHpNd0VmbW5vdXVCYWh1bVVGUnotMGRJN0RpR0dKdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-14 10:38:26"
+      },
+      {
         "title": "跨縣助選張嘉郡 許淑華：雲林縣長後繼有人 - hk.crntt.com",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlUGFJUHlBX05FVHpvLWFpVzBiT1VZdnRTQTRQUHRwdHltRTZnN1hiSEpQUzFqbUhnR1RoUWJHdXl0Z2FNUWxfZXpqNk5sU041UWZhdUpYVHo3QjdPbUZ6R2gxYm5MV28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-14 10:02:07"
+      },
+      {
+        "title": "跨縣助選張嘉郡 許淑華：雲林縣長後繼有人 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oRllpbnJlaTh0eUlJUVVNRmZvUXRmanhCSUQ1WjV5VU9GeWxadFBlWnJSQmh3bEN5WVFxSURzSjJNdUhISEk0RTZEa2Nwa0wxbVI3RV9jY0RRVzdpdXdFaUFEeTk3RlJVY0ExRVo3MA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-14 10:02:07"
       },
       {
@@ -1698,6 +1773,11 @@
         "title": "鮮乳標章新制上路 雲林今辦鮮乳健走挺農 劉建國拋全縣老少周周喝鮮乳 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uNmVYbWNlcF9YanZKMEVtV3FvbTlvVVdBemhaRUt5S1NmZm0yaVRFSXVOZlJueEtET3FaRXFtN2VLTkwybnFsRXljNmdpWHRW0gFWQVVfeXFMT29KSU1sMWlXdlc1SnFfbUhxb2k0bVdDeWVLcHB2akJrSUxWR2RzYjdnMWo4WjF4TDl0cUY0ZnllcERwZ1pBVUhqZ0hadGdfNGdHZUpwdVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-13 13:03:58"
+      },
+      {
+        "title": "鮮乳標章新制上路雲林今辦鮮乳健走挺農劉建國拋全縣老少周周喝鮮乳| 時事 - 聯合影音",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NUURCQ1NHZUdBTXB4QzRYbFUwYV81RUc1NklJcHMtSmJ6YVhQM0dyOGhsU1BnbEZGRGV3Wm8zdHY2VUVHX0hZamJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-13 13:03:00"
       },
       {
         "title": "500人健走挺國產鮮乳！ 劉建國拋「老人、小孩週週2瓶」政見 - Yahoo新聞",
@@ -1768,26 +1848,6 @@
         "title": "（有影片）／劉建國首座聯合競總大埤成立 大喊「縣民政治 對家族政治」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQa3J2ZzFOLUJSVFZxSFRoN3lOOUFxdmV6cE93TTVGMmh5MENFSW9EX19WNkdOMTRUUHh2MDNIREI2WVhldExjVG9HcmFneVg0Z3R5OFNaMkVPT2pqNmdIemxXTTRldFVDVF9LcVdILU9xVlIteEhrTlpyZ2JOZ3RXaHYzWDV6bTl6dF8wUFFiVUNFUXYxeEVvemZ1WjlUUTJnMXplcEs3TlNtUnRmY1Z1NGt4ZnRCRUFJN3BxY3JDV251c0N5TjJxRFlCTHFIU1Vic2xldkVPTEU0WlVVTE1mbnJiUDNLbzQ1Z1M1N3dVc2pxR29Cd2hpN1Q3Ry0wbmtZWU9WVFUwY3JHaURfYUx3WDV5NHk3NkJzeWtpU0VLQkNwczQ0Yk5JUWJ6ZHMzeXNLZUxNM19USVdjNjB4TGlSbVBCNDVrTURwV3lqbXBxWG0xLWVBZ3E3YUxXY3ZxRHc3WFBSc0Y2ZUFCMDBQQjVtVkYtWFduRGRuUVdXeFpnTE5FNXpScFdZY01LaFRsQTdZeTFRMEg3ZnBnMl82?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-12 21:00:53"
-      },
-      {
-        "title": "（有影片）／劉建國首座聯合競總大埤成立 大喊「縣民政治 對家族政治」 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpY2JIVHlaYm1TT054ZkhPNkJEM1p1Rm4tMXBPVzhUclF5T0s3cHZGdzVnMlZZcGNXVEljRW9ZWjFSVFN1SG1ReXZfdGRNOUxOLVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-12 21:00:00"
-      },
-      {
-        "title": "張嘉郡力挺華山公益棒球賽 攜手打造高齡友善、健康有愛雲林 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVk1oLU85cDBGOGFPYkF5Sk54aDJfLU8wUU1vQV9fTkpFUG5IWVpXcV93SklSZ1h1QTRVU01uU3VhZ2puV1dnSktRZ2RXVzVzX2hQSUMtX3FJZHFHS3JZRGE0dlZsSXF5Vm5wWnRZdnJ2OGZDdzc0b2NGTmdzdUI1eDdOV2M4YzY3TlRkRl9qV0dKZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-12 20:48:27"
-      },
-      {
-        "title": "張嘉郡力挺華山公益棒球賽 攜手打造高齡友善、健康有愛雲林 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LVmZldTU5MmdwaHRvbGp4Rm52NmNPWkxPMHpZdGFNM1lKM0tKdlk5c0V3NWpjRW54WUZQZmZBeTZ5NjdRX2lTUUZVUW5OTE5MUHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-12 20:48:00"
-      },
-      {
-        "title": "張嘉郡力挺華山公益棒球賽 盼打造高齡友善健康有愛雲林 - 觀傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzNDFJamRONE1qOWJTQ1lMcmdsTThULWl4VnVGR1FGMEF0azExbjZ3eUFxV0VCOHJWXzZFZDNlVTNoM3NLbWFYYnA4Q2ZaTVM0RmdwbERFOA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-12 20:47:21"
       }
     ],
     "facebook": [
@@ -1910,6 +1970,13 @@
     "hour": [],
     "day": [
       {
+        "title": "雲林拚改變！大埤聯合競總成立 劉建國：這戰是「縣民對家族」的選擇 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxONTNGTTJMOWJvT0pEb3VWMXBCRDFKcG9HTV9mOTM0QWtoeUk1anljSGpRYXBqTTV0Nll3eEpLRzRNVzlQT04wSlhWY2VZeGRjYnlId2NKVHNUeWlub1c0QU9XNEMxMmdtTFhfMGtRS2U1R282RUZ2cERKckozUHp4LWdKSGVCQ1F0MHYxZWhMek9mWUZRZTA2blZ3Wk5iT29JaG10WkJjbWcyOTRXYlVHR0RmT1hDUVNaV3dyVXBRR3pHN0YyTXlpcU5zNDMzZDI4NmpJaHVvUGtMUnM4N3ZncVdvYVdEYlJUenhUbWg1OUdWcUFEUEtURW9qTTBqNUhJaVlPcDZWQ3JOWWxGZkFONmxlNE5uUnRJQTlrQ1MxZGloSlE1dFZVUHluSTdXV1c3dlhKOWV3aEc5YmxnQWV1X29pSThTeVpCbHNlWXlOVmdkbDFUMEJ1WWZZNG52cUtVbk42QWVxZzFHV0tmOUxLMXRWci1KR0VV?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-14 11:48:35",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "雲林拚改變！大埤聯合競總成立 劉建國：這戰是「縣民對家族」的選擇 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQNV9VeEZTUE5RZ1NqVzB5ekxwNDB4NTViMVJoNFBLUk5QRlJNX1FIMzFoSExWUlZmaEhkVWVNbWtURXVxZVluLVc5ZG1ZN2VtbkVkLVJuclB1ZjFjWXI2NC1LTG1HRHAyMV9lS1hQVkxSRXV0bnpDeGxXdGlZV2xobFA3YldVcjY0aHY5YVZRMkNhckJBMDk1TjhkTDdPNzc3UjVPMTlnb1JvVzJxTlo1Z2E3VjRuQ3RPX1BON2pzRm1rY1VrelUyVzVqejVwS2tnUmtlZHUyczA3WndlU3ExX2lzQUV1blJ5eEE2ay1aNXRPUFgxd19Za25kQ255QXNhcnAtb3hfdVFub3ZNZTNiTVhGbnYyYVY1WjVZdTRaN3ZmdV8zVHg2ZnFldF9QZzVkeEdQS1EzSU9OVk5JNXp0SHJtUnZmSmItRG5GeTdzNEcyR2JGQW5vZmFsNldJWWxSSHdlOUxXMXVocEI4SkJvZ0YwZjZYdW9pei13UUw2cVNqZE9zQ2p6Ujlmdmx4TlkybHRScEVMa1JpcGp4dzFKT3pnMGlPOVA4SE1iVXhxUQ",
         "time": "2026-09-14 11:31:52",
@@ -1917,8 +1984,22 @@
         "risk": "綠"
       },
       {
+        "title": "許淑華跨區力挺張嘉郡 藍營戰神謝龍介也盛讚 | 夏和宣 | 地方新聞 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IYWtqa25JeURKTmxiYXFETjJfcjhqY2RiMXJQN2lKZHBMRzB6Yk4tMHpNd0VmbW5vdXVCYWh1bVVGUnotMGRJN0RpR0dKdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-14 10:38:26",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "跨縣助選張嘉郡 許淑華：雲林縣長後繼有人 - hk.crntt.com",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlUGFJUHlBX05FVHpvLWFpVzBiT1VZdnRTQTRQUHRwdHltRTZnN1hiSEpQUzFqbUhnR1RoUWJHdXl0Z2FNUWxfZXpqNk5sU041UWZhdUpYVHo3QjdPbUZ6R2gxYm5MV28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-14 10:02:07",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "跨縣助選張嘉郡 許淑華：雲林縣長後繼有人 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oRllpbnJlaTh0eUlJUVVNRmZvUXRmanhCSUQ1WjV5VU9GeWxadFBlWnJSQmh3bEN5WVFxSURzSjJNdUhISEk0RTZEa2Nwa0wxbVI3RV9jY0RRVzdpdXdFaUFEeTk3RlJVY0ExRVo3MA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-14 10:02:07",
         "platform": "news",
         "risk": "綠"
@@ -2027,27 +2108,6 @@
         "time": "2026-09-13 20:24:41",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "2026民歌音樂會唱響雲林 張嘉郡提「雲林小巨蛋」構想 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQjB2NnpwTmdGQ2hQOUlyTTRXd3ZtRnNTay1rLUZGUHFiRmdreEtkYkxfbUdjSXg4MjUtQ1hqTUlRdkFFd1AzWEJPSVFZQ0draXVjQmt3Sjlob0FudWVZMHNHdWpRdnJNLVo4MWhxZVUwVlc1T2F4OHBzX0lwUm1jaXh1dm1HTHUwMFZvcmFZV1lMUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-13 20:17:39",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "2026民歌音樂會唱響雲林 張嘉郡提「雲林小巨蛋」構想 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aXzJwQlljbUVNcGE4b2NHSzZaV3hKWFdTSFdmS09kN2ZpWFFmSHd0LWo1MVFMa3Z5cHduWk5MTXZHckpUWFBhM21FOGhXTlVVVUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-13 20:17:00",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "潘越雲、萬芳等7組歌手齊聚雲林 張嘉郡提「雲林小巨蛋」構想 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oTENxdFNhdjVBS0RIRnp2ZjdkV3FCVjFJVG5zY3hSUFNDNTBReUwwdDQyakxXMHZEMGRjdHlsdkxadjBHX2F5dWxoNk92V25BX2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-13 19:07:00",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2055,7 +2115,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 19
+        "count": 22
       }
     ],
     "groups": []
