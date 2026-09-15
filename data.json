@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-15T10:53:28.439396+00:00",
+  "generated_at": "2026-09-15T11:09:18.444985+00:00",
   "metrics": {
-    "total_24h": 14,
-    "prev_24h": 57,
-    "growth_pct": -75.44,
-    "news_24h": 11,
+    "total_24h": 18,
+    "prev_24h": 55,
+    "growth_pct": -67.27,
+    "news_24h": 14,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,9 +14,9 @@
     }
   },
   "metrics_7d": {
-    "total": 223,
-    "prev": 247,
-    "growth_pct": -9.72,
+    "total": 224,
+    "prev": 249,
+    "growth_pct": -10.04,
     "news": 196,
     "anomaly": {
       "level": "綠",
@@ -28,11 +28,11 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 11
+      "count": 14
     },
     {
       "platform": "youtube",
-      "count": 3
+      "count": 4
     }
   ],
   "by_platform_7d": [
@@ -46,7 +46,7 @@
     },
     {
       "platform": "youtube",
-      "count": 9
+      "count": 10
     }
   ],
   "by_hour": [
@@ -68,17 +68,21 @@
     },
     {
       "hour": "2026-09-15 16:00",
-      "count": 5
+      "count": 7
+    },
+    {
+      "hour": "2026-09-15 17:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-09-15 18:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
     {
-      "hour": "2026-09-08 18:00",
-      "count": 1
-    },
-    {
       "hour": "2026-09-08 19:00",
-      "count": 9
+      "count": 7
     },
     {
       "hour": "2026-09-08 20:00",
@@ -354,13 +358,21 @@
     },
     {
       "hour": "2026-09-15 16:00",
-      "count": 5
+      "count": 7
+    },
+    {
+      "hour": "2026-09-15 17:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-09-15 18:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 11
+      "count": 14
     },
     {
       "platform": "youtube",
@@ -370,13 +382,28 @@
   "mention_latest_by_platform_24h": {
     "news": [
       {
+        "title": "中油開挖海底管線！張嘉郡出手爭取補償金 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNOWZLaVZPekhXSmVNRVNxaURpY1Nfb1I2dXUxMXE3SklaTlU0T3ZJQlpZSFA1Xy02Vl8zWGYzS0hSejZhMlozR0JJcnFqekdPc3FYeTdhNmFLR0xEdlVla3g2cmxGbjN2Qmo2Y3d3QnpiNzRjLUFLYzg2RjJKcHpwRTRKUVE0UVpkRkxidVpia3pRU0hwS0trZ25Ba2R4eDZLd0lwel9lVzA0YmxqNWZncDAzQ2thMklhalJYbWxZazRNYmE0UXZydm1kempXN0tpVUsySnFHa0RKLUZVV2ZhLS1QRnFWcG5UTVBHN3hINDliRDUxRzUzX1JPdzlOVW5lXzFTdktsNzY3YUw2OHl3cUh4d09qbENrb3Vack9NRHVCcnVnbkdfUWptZ0s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-15 18:05:34"
+      },
+      {
         "title": "天然氣管線開挖影響生計 張嘉郡替漁民爭取權益 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcDdCQXdjelFYMElPTjNTY1dRUVBUNk9NWWRLQnktLUYtTWZOWWpxS0xMMG5WR0JTejMwWF93VklRazA4ZHlYcHd5UEhxQTFFQ2NmckNGZFBCdlZhRkZuNk9tdmpSMlhCOU9DWUlFVHJXZmtfVHk3TmdEdzV5cmhXbjhXelpKdlJLdFNMZQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-15 16:52:52"
       },
       {
+        "title": "海底天然氣管線施工衝擊生計 張嘉郡出手替雲林漁民爭補償 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQd1U3aXRGWDhqblJuLU9xLU0wSFRoLTh6SDQtQU80aWJhQmxTTXlSaGxka01lSkRTMWtoUGU5U0Z1a0RhMzY5a3RPbkZBZVVab0RmVDRibzBqZjY1U3NqdnNxeE05NFJINWtYdjJvOUM5Y3NjVGlJbDI0NXMycG9ha2x0elpBRjBCNzItb1REUnpzcUZJWks4azVrYWY3MS1XbUluOGx5cTZmVmVQVnIzMngyVjhTUE42RWhCczlUR1JzV2FkOW10Y2g4OUVVbVFqenIxWUt1UXFOWGtfV3B1TUZkbFJDLTR2QVc5U1FnTTNBWWZ4akpnQkJBS0N5VnZyMTQ3UjFfQkRlQ1VDcFRLUTRNUld4VTFTb2NiTlRNMXNnZXk2S3ZMOHcxN2V6M0pVd29KdmpES0E2QVVPUWpFWVhQOVVEc2ZyVkJrYlZBdHI1UHgtUzFwOW1FT3VSQmpxSnloNngtOVlwMHUyY3FJSmQzMl9HX0R3ZUxYSDJVcUV2VG5pUGVxR24tUG4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-15 16:48:31"
+      },
+      {
         "title": "天然氣管線施工影響雲林漁民生計 張嘉郡要求中油加速補償 - 上報Up Media",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYdHp2bUhKU2lRMFFvX1U4eFhwOGk5T0c1cVp6U2h1d29QWkx6OGpVQmU2NWJjQ3BCbUFhR2RKU2pIUElIczRkS2ZuTzItczVjMlh3U1pNRXJUYWRQWVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-15 16:40:00"
+      },
+      {
+        "title": "天然氣管線施工影響雲林漁民生計 張嘉郡要求中油加速補償 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOS3dtZWVUcXJFbmtrTUdYWFFzM0RvUGc0XzVNS0E1M2s0aFNoVFlKYW80VEdaRTZNeDdRRThFN2FPQjdNMVBibTUtQnVtSDRzb01tYXlGdTNHZ2wzZkhYenNlRVAxZ2h4UkhISGFvRmppM1ZSSkVwaWY1SHFiSFJ1M2UzdUtzb1hDaWtYdS04OHE0MkNsaVpxRXVCREZFRDFKdVNOOUl3QlhEeDFFLTdZY1pDZGdKSG10S01EZlduajMwdmdCcTh5b0FtMG5zbzBvWk1qVEhva3hIWDZRUXBVVmRHR0lJV2E2dlJVeG9OWHgxM2RleGNKUjBOVU5McTMyTWE1Q0o3RGxwbnBxZlVuMlIwQnlwZF9NRXlid1pldkZlYVljUWNhQ0xRMG8tWV9NRGlQOVppYjgwMTdWWVN6MFZmaHEtZDlfcjBzNjRZcXRzQXRrTW1OYkdGMjdibHFwVnlXRkp6WlBvRnRmYzQ1blhtanN3N2ItTGM5cWVudEo4bHo3bnFlYW55bTM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-15 16:40:00"
       },
       {
@@ -436,7 +463,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 11
+      "count": 14
     },
     {
       "platform": "youtube",
@@ -446,13 +473,28 @@
   "alias_latest_by_platform_24h": {
     "news": [
       {
+        "title": "中油開挖海底管線！張嘉郡出手爭取補償金 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNOWZLaVZPekhXSmVNRVNxaURpY1Nfb1I2dXUxMXE3SklaTlU0T3ZJQlpZSFA1Xy02Vl8zWGYzS0hSejZhMlozR0JJcnFqekdPc3FYeTdhNmFLR0xEdlVla3g2cmxGbjN2Qmo2Y3d3QnpiNzRjLUFLYzg2RjJKcHpwRTRKUVE0UVpkRkxidVpia3pRU0hwS0trZ25Ba2R4eDZLd0lwel9lVzA0YmxqNWZncDAzQ2thMklhalJYbWxZazRNYmE0UXZydm1kempXN0tpVUsySnFHa0RKLUZVV2ZhLS1QRnFWcG5UTVBHN3hINDliRDUxRzUzX1JPdzlOVW5lXzFTdktsNzY3YUw2OHl3cUh4d09qbENrb3Vack9NRHVCcnVnbkdfUWptZ0s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-15 18:05:34"
+      },
+      {
         "title": "天然氣管線開挖影響生計 張嘉郡替漁民爭取權益 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcDdCQXdjelFYMElPTjNTY1dRUVBUNk9NWWRLQnktLUYtTWZOWWpxS0xMMG5WR0JTejMwWF93VklRazA4ZHlYcHd5UEhxQTFFQ2NmckNGZFBCdlZhRkZuNk9tdmpSMlhCOU9DWUlFVHJXZmtfVHk3TmdEdzV5cmhXbjhXelpKdlJLdFNMZQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-15 16:52:52"
       },
       {
+        "title": "海底天然氣管線施工衝擊生計 張嘉郡出手替雲林漁民爭補償 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQd1U3aXRGWDhqblJuLU9xLU0wSFRoLTh6SDQtQU80aWJhQmxTTXlSaGxka01lSkRTMWtoUGU5U0Z1a0RhMzY5a3RPbkZBZVVab0RmVDRibzBqZjY1U3NqdnNxeE05NFJINWtYdjJvOUM5Y3NjVGlJbDI0NXMycG9ha2x0elpBRjBCNzItb1REUnpzcUZJWks4azVrYWY3MS1XbUluOGx5cTZmVmVQVnIzMngyVjhTUE42RWhCczlUR1JzV2FkOW10Y2g4OUVVbVFqenIxWUt1UXFOWGtfV3B1TUZkbFJDLTR2QVc5U1FnTTNBWWZ4akpnQkJBS0N5VnZyMTQ3UjFfQkRlQ1VDcFRLUTRNUld4VTFTb2NiTlRNMXNnZXk2S3ZMOHcxN2V6M0pVd29KdmpES0E2QVVPUWpFWVhQOVVEc2ZyVkJrYlZBdHI1UHgtUzFwOW1FT3VSQmpxSnloNngtOVlwMHUyY3FJSmQzMl9HX0R3ZUxYSDJVcUV2VG5pUGVxR24tUG4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-15 16:48:31"
+      },
+      {
         "title": "天然氣管線施工影響雲林漁民生計 張嘉郡要求中油加速補償 - 上報Up Media",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYdHp2bUhKU2lRMFFvX1U4eFhwOGk5T0c1cVp6U2h1d29QWkx6OGpVQmU2NWJjQ3BCbUFhR2RKU2pIUElIczRkS2ZuTzItczVjMlh3U1pNRXJUYWRQWVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-15 16:40:00"
+      },
+      {
+        "title": "天然氣管線施工影響雲林漁民生計 張嘉郡要求中油加速補償 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOS3dtZWVUcXJFbmtrTUdYWFFzM0RvUGc0XzVNS0E1M2s0aFNoVFlKYW80VEdaRTZNeDdRRThFN2FPQjdNMVBibTUtQnVtSDRzb01tYXlGdTNHZ2wzZkhYenNlRVAxZ2h4UkhISGFvRmppM1ZSSkVwaWY1SHFiSFJ1M2UzdUtzb1hDaWtYdS04OHE0MkNsaVpxRXVCREZFRDFKdVNOOUl3QlhEeDFFLTdZY1pDZGdKSG10S01EZlduajMwdmdCcTh5b0FtMG5zbzBvWk1qVEhva3hIWDZRUXBVVmRHR0lJV2E2dlJVeG9OWHgxM2RleGNKUjBOVU5McTMyTWE1Q0o3RGxwbnBxZlVuMlIwQnlwZF9NRXlid1pldkZlYVljUWNhQ0xRMG8tWV9NRGlQOVppYjgwMTdWWVN6MFZmaHEtZDlfcjBzNjRZcXRzQXRrTW1OYkdGMjdibHFwVnlXRkp6WlBvRnRmYzQ1blhtanN3N2ItTGM5cWVudEo4bHo3bnFlYW55bTM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-15 16:40:00"
       },
       {
@@ -510,22 +552,37 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 5,
+    "張嘉郡": 8,
     "劉建國": 7
   },
   "mention_compare_7d": {
-    "張嘉郡": 150,
+    "張嘉郡": 152,
     "劉建國": 82
   },
   "top_news": [
+    {
+      "title": "中油開挖海底管線！張嘉郡出手爭取補償金 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNOWZLaVZPekhXSmVNRVNxaURpY1Nfb1I2dXUxMXE3SklaTlU0T3ZJQlpZSFA1Xy02Vl8zWGYzS0hSejZhMlozR0JJcnFqekdPc3FYeTdhNmFLR0xEdlVla3g2cmxGbjN2Qmo2Y3d3QnpiNzRjLUFLYzg2RjJKcHpwRTRKUVE0UVpkRkxidVpia3pRU0hwS0trZ25Ba2R4eDZLd0lwel9lVzA0YmxqNWZncDAzQ2thMklhalJYbWxZazRNYmE0UXZydm1kempXN0tpVUsySnFHa0RKLUZVV2ZhLS1QRnFWcG5UTVBHN3hINDliRDUxRzUzX1JPdzlOVW5lXzFTdktsNzY3YUw2OHl3cUh4d09qbENrb3Vack9NRHVCcnVnbkdfUWptZ0s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-15 18:05:34"
+    },
     {
       "title": "天然氣管線開挖影響生計 張嘉郡替漁民爭取權益 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcDdCQXdjelFYMElPTjNTY1dRUVBUNk9NWWRLQnktLUYtTWZOWWpxS0xMMG5WR0JTejMwWF93VklRazA4ZHlYcHd5UEhxQTFFQ2NmckNGZFBCdlZhRkZuNk9tdmpSMlhCOU9DWUlFVHJXZmtfVHk3TmdEdzV5cmhXbjhXelpKdlJLdFNMZQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-15 16:52:52"
     },
     {
+      "title": "海底天然氣管線施工衝擊生計 張嘉郡出手替雲林漁民爭補償 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQd1U3aXRGWDhqblJuLU9xLU0wSFRoLTh6SDQtQU80aWJhQmxTTXlSaGxka01lSkRTMWtoUGU5U0Z1a0RhMzY5a3RPbkZBZVVab0RmVDRibzBqZjY1U3NqdnNxeE05NFJINWtYdjJvOUM5Y3NjVGlJbDI0NXMycG9ha2x0elpBRjBCNzItb1REUnpzcUZJWks4azVrYWY3MS1XbUluOGx5cTZmVmVQVnIzMngyVjhTUE42RWhCczlUR1JzV2FkOW10Y2g4OUVVbVFqenIxWUt1UXFOWGtfV3B1TUZkbFJDLTR2QVc5U1FnTTNBWWZ4akpnQkJBS0N5VnZyMTQ3UjFfQkRlQ1VDcFRLUTRNUld4VTFTb2NiTlRNMXNnZXk2S3ZMOHcxN2V6M0pVd29KdmpES0E2QVVPUWpFWVhQOVVEc2ZyVkJrYlZBdHI1UHgtUzFwOW1FT3VSQmpxSnloNngtOVlwMHUyY3FJSmQzMl9HX0R3ZUxYSDJVcUV2VG5pUGVxR24tUG4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-15 16:48:31"
+    },
+    {
       "title": "天然氣管線施工影響雲林漁民生計 張嘉郡要求中油加速補償 - 上報Up Media",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYdHp2bUhKU2lRMFFvX1U4eFhwOGk5T0c1cVp6U2h1d29QWkx6OGpVQmU2NWJjQ3BCbUFhR2RKU2pIUElIczRkS2ZuTzItczVjMlh3U1pNRXJUYWRQWVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-15 16:40:00"
+    },
+    {
+      "title": "天然氣管線施工影響雲林漁民生計 張嘉郡要求中油加速補償 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOS3dtZWVUcXJFbmtrTUdYWFFzM0RvUGc0XzVNS0E1M2s0aFNoVFlKYW80VEdaRTZNeDdRRThFN2FPQjdNMVBibTUtQnVtSDRzb01tYXlGdTNHZ2wzZkhYenNlRVAxZ2h4UkhISGFvRmppM1ZSSkVwaWY1SHFiSFJ1M2UzdUtzb1hDaWtYdS04OHE0MkNsaVpxRXVCREZFRDFKdVNOOUl3QlhEeDFFLTdZY1pDZGdKSG10S01EZlduajMwdmdCcTh5b0FtMG5zbzBvWk1qVEhva3hIWDZRUXBVVmRHR0lJV2E2dlJVeG9OWHgxM2RleGNKUjBOVU5McTMyTWE1Q0o3RGxwbnBxZlVuMlIwQnlwZF9NRXlid1pldkZlYVljUWNhQ0xRMG8tWV9NRGlQOVppYjgwMTdWWVN6MFZmaHEtZDlfcjBzNjRZcXRzQXRrTW1OYkdGMjdibHFwVnlXRkp6WlBvRnRmYzQ1blhtanN3N2ItTGM5cWVudEo4bHo3bnFlYW55bTM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-15 16:40:00"
     },
     {
@@ -562,27 +619,32 @@
       "title": "劉建國邀集相關單位會勘國道1號石龜溪橋工程 排水溝確定保留 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85WUZ3NVl3d3lzYkcyZzVMZlJMTmFwLXF6Z1BxeHkxWExhQktqVXF5VXNQcjE2V3lVU055VFpuOElCSGZiekx4VTJpUmtYUDhLYXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-14 20:11:00"
-    },
-    {
-      "title": "劉建國邀集相關單位會勘國道1號石龜溪橋工程 排水溝確定保留 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQRF9XN3hDbU1uTEx5eHBNVk1qYzRJSWY1NHMzYnZwa2dBT0FIYnFyeHVNUlV5RTBpTHpvT3BvVHpfcEprMVJTLURWaElRMmlfYkEyQko1TU9rVS1fYk5PMXhVYW1wUG9nVVRFdzJYWDVVXy1mUUctTTR5U3dfRkN2NnEyaUZ5YTFtczl4TlZJM2dDTkRPUVUyOVhyVl9DdENpdTBJVlhBall2enZ4RXRtZW5NMFEtRWI4NzVxWExOaHNFdFRiaHpzR1libDI1aGhIOXdmR0J1SEJfM1RuZW1LQ0NHTS1hMnY1ajNxblhqV1dWVnBvSlREbEJES1BqM3BlTjJEd3JqbEFCd3hEWE04dzJnU3h4TFB1bGZiRDJaUjBEMjlhTzBOY1l4Q2QxX1BuYjh0NnppVDhCNkUzVGJCRm5VQkRwZXUtMnpRVHoyTWNUYXNOS0FtU2xubE4yWnBKSmpLSjlickhWWThNb2RnZy00YzFsNjFnSDJPNGp5cG9wZ3h6ZVhGbHlKa1N3dlFuSE80YldiaklXZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-14 20:06:49"
-    },
-    {
-      "title": "劉建國邀集相關單位會勘國道1號石龜溪橋工程 排水溝確定保留 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObkdBUUd5M01JU3dLemhOb3ZDaUdCckFHbUlwcXE5RHg4SUM4N1p1SmhMcGQ5d3hpRXotVmZhNWcxUEhnM0FMb1k4SmJudEtkQVpYN2xpdUx3b3NUV1B6UVVRVjV5LTl2cGdKT0gtZzJ6anVSX05xNzdQWnAwWl90TzVYZGlwSmpTcTUwak9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-14 20:06:49"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "中油開挖海底管線！張嘉郡出手爭取補償金 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNOWZLaVZPekhXSmVNRVNxaURpY1Nfb1I2dXUxMXE3SklaTlU0T3ZJQlpZSFA1Xy02Vl8zWGYzS0hSejZhMlozR0JJcnFqekdPc3FYeTdhNmFLR0xEdlVla3g2cmxGbjN2Qmo2Y3d3QnpiNzRjLUFLYzg2RjJKcHpwRTRKUVE0UVpkRkxidVpia3pRU0hwS0trZ25Ba2R4eDZLd0lwel9lVzA0YmxqNWZncDAzQ2thMklhalJYbWxZazRNYmE0UXZydm1kempXN0tpVUsySnFHa0RKLUZVV2ZhLS1QRnFWcG5UTVBHN3hINDliRDUxRzUzX1JPdzlOVW5lXzFTdktsNzY3YUw2OHl3cUh4d09qbENrb3Vack9NRHVCcnVnbkdfUWptZ0s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-15 18:05:34"
+    },
     {
       "title": "天然氣管線開挖影響生計 張嘉郡替漁民爭取權益 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcDdCQXdjelFYMElPTjNTY1dRUVBUNk9NWWRLQnktLUYtTWZOWWpxS0xMMG5WR0JTejMwWF93VklRazA4ZHlYcHd5UEhxQTFFQ2NmckNGZFBCdlZhRkZuNk9tdmpSMlhCOU9DWUlFVHJXZmtfVHk3TmdEdzV5cmhXbjhXelpKdlJLdFNMZQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-15 16:52:52"
     },
     {
+      "title": "海底天然氣管線施工衝擊生計 張嘉郡出手替雲林漁民爭補償 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQd1U3aXRGWDhqblJuLU9xLU0wSFRoLTh6SDQtQU80aWJhQmxTTXlSaGxka01lSkRTMWtoUGU5U0Z1a0RhMzY5a3RPbkZBZVVab0RmVDRibzBqZjY1U3NqdnNxeE05NFJINWtYdjJvOUM5Y3NjVGlJbDI0NXMycG9ha2x0elpBRjBCNzItb1REUnpzcUZJWks4azVrYWY3MS1XbUluOGx5cTZmVmVQVnIzMngyVjhTUE42RWhCczlUR1JzV2FkOW10Y2g4OUVVbVFqenIxWUt1UXFOWGtfV3B1TUZkbFJDLTR2QVc5U1FnTTNBWWZ4akpnQkJBS0N5VnZyMTQ3UjFfQkRlQ1VDcFRLUTRNUld4VTFTb2NiTlRNMXNnZXk2S3ZMOHcxN2V6M0pVd29KdmpES0E2QVVPUWpFWVhQOVVEc2ZyVkJrYlZBdHI1UHgtUzFwOW1FT3VSQmpxSnloNngtOVlwMHUyY3FJSmQzMl9HX0R3ZUxYSDJVcUV2VG5pUGVxR24tUG4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-15 16:48:31"
+    },
+    {
       "title": "天然氣管線施工影響雲林漁民生計 張嘉郡要求中油加速補償 - 上報Up Media",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYdHp2bUhKU2lRMFFvX1U4eFhwOGk5T0c1cVp6U2h1d29QWkx6OGpVQmU2NWJjQ3BCbUFhR2RKU2pIUElIczRkS2ZuTzItczVjMlh3U1pNRXJUYWRQWVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-15 16:40:00"
+    },
+    {
+      "title": "天然氣管線施工影響雲林漁民生計 張嘉郡要求中油加速補償 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOS3dtZWVUcXJFbmtrTUdYWFFzM0RvUGc0XzVNS0E1M2s0aFNoVFlKYW80VEdaRTZNeDdRRThFN2FPQjdNMVBibTUtQnVtSDRzb01tYXlGdTNHZ2wzZkhYenNlRVAxZ2h4UkhISGFvRmppM1ZSSkVwaWY1SHFiSFJ1M2UzdUtzb1hDaWtYdS04OHE0MkNsaVpxRXVCREZFRDFKdVNOOUl3QlhEeDFFLTdZY1pDZGdKSG10S01EZlduajMwdmdCcTh5b0FtMG5zbzBvWk1qVEhva3hIWDZRUXBVVmRHR0lJV2E2dlJVeG9OWHgxM2RleGNKUjBOVU5McTMyTWE1Q0o3RGxwbnBxZlVuMlIwQnlwZF9NRXlid1pldkZlYVljUWNhQ0xRMG8tWV9NRGlQOVppYjgwMTdWWVN6MFZmaHEtZDlfcjBzNjRZcXRzQXRrTW1OYkdGMjdibHFwVnlXRkp6WlBvRnRmYzQ1blhtanN3N2ItTGM5cWVudEo4bHo3bnFlYW55bTM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-15 16:40:00"
     },
     {
@@ -659,21 +721,6 @@
       "title": "劉建國拋雲林老少週週喝鮮乳張嘉郡首場廟口開講－民視新聞- 民視新聞網 - ftvnews.com.tw",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tNlNTSHIxNUUwdXVIRlV4UEpDM04ySTZHb3FJQ1dWLXQ3QXVFOXlpOTduTEdDZ1Z1Q0FldHFGT3BqQXFMUEJ0WFJmeGpJVWpLZkJCWTM2OU1aSGVYRGlWVnhidkJwOUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-14 17:44:36"
-    },
-    {
-      "title": "劉建國拋雲林「老少週週喝鮮乳」 張嘉郡首場廟口開講 - ftvnews.com.tw",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01WHBaN0s0VkI3aXNKZHVKRVBaSDB2UGo3MnZOS2hTMDN4S05zZGUwOC1wNkRuQnBBTDN3eUxNLTZyTjNkVE5tbm52OVRXZDg1cFZFekZHZ0hGcG5VYXhQTA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-14 17:24:02"
-    },
-    {
-      "title": "劉建國拋雲林老少週週喝鮮乳 張嘉郡首場廟口開講 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPRGhZb1NxQW9ZVFFmaFhuRjlfVlV3WjZiU1R3QmdSdFpaZlIzUmpydng0T0JsWC1KREtuNjZIak00cVE3czFYTTBJS2ZyVXp3eDNGWUE0U19oRDVFYUhjSFlVR0hiaUpmM2tsUWgwaXU2U2d3TTg3SV9wTDJCd1hXcjhZdlFRZm1QRV95cnJ5Z0tNcTNZSlUwYjBnS0ptM1dHNHZUYWJjWkZoXzhYOVh4WlRMUGFXU1NBQ3BJWmE0QURSNnN2YlVTS0xHY0VWSWhqQUJOZjdYNWoxVFl0eEgzd3VSaEVQTEZSNWV2R2VnNzhUN0ZhQWY1N0FXMmdJLVYwREt2a2E1ZDE1YWNZb3JQVkdBX3hNcmtjUDJLcjhrOU9Gb053RUtRQUJBZE8xdmVjSFVMVnlQX3VUSGZlTmcyejBrYXlFTV9rY3ljUjFZUDR2RXlMWHR0SFVicEY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-14 17:24:02"
-    },
-    {
-      "title": "改變第一站 劉建國大埤聯合競總成立：這一戰是「縣民對家族」的選擇 | 鏡週刊 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XelpFMS1EY0N5cksxSkhpT0ljeHpkNGxfa1ZBUGhvZGdRQXJ6WUZ0TmcwNUpHcTg4MEg4Q3MyODEyYWtVWDItRVhwVUtacVB1aDZtV0RB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-14 16:30:59"
     }
   ],
   "latest_facebook_20": [
@@ -780,13 +827,28 @@
   ],
   "latest_news_20": [
     {
+      "title": "中油開挖海底管線！張嘉郡出手爭取補償金 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNOWZLaVZPekhXSmVNRVNxaURpY1Nfb1I2dXUxMXE3SklaTlU0T3ZJQlpZSFA1Xy02Vl8zWGYzS0hSejZhMlozR0JJcnFqekdPc3FYeTdhNmFLR0xEdlVla3g2cmxGbjN2Qmo2Y3d3QnpiNzRjLUFLYzg2RjJKcHpwRTRKUVE0UVpkRkxidVpia3pRU0hwS0trZ25Ba2R4eDZLd0lwel9lVzA0YmxqNWZncDAzQ2thMklhalJYbWxZazRNYmE0UXZydm1kempXN0tpVUsySnFHa0RKLUZVV2ZhLS1QRnFWcG5UTVBHN3hINDliRDUxRzUzX1JPdzlOVW5lXzFTdktsNzY3YUw2OHl3cUh4d09qbENrb3Vack9NRHVCcnVnbkdfUWptZ0s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-15 18:05:34"
+    },
+    {
       "title": "天然氣管線開挖影響生計 張嘉郡替漁民爭取權益 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcDdCQXdjelFYMElPTjNTY1dRUVBUNk9NWWRLQnktLUYtTWZOWWpxS0xMMG5WR0JTejMwWF93VklRazA4ZHlYcHd5UEhxQTFFQ2NmckNGZFBCdlZhRkZuNk9tdmpSMlhCOU9DWUlFVHJXZmtfVHk3TmdEdzV5cmhXbjhXelpKdlJLdFNMZQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-15 16:52:52"
     },
     {
+      "title": "海底天然氣管線施工衝擊生計 張嘉郡出手替雲林漁民爭補償 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQd1U3aXRGWDhqblJuLU9xLU0wSFRoLTh6SDQtQU80aWJhQmxTTXlSaGxka01lSkRTMWtoUGU5U0Z1a0RhMzY5a3RPbkZBZVVab0RmVDRibzBqZjY1U3NqdnNxeE05NFJINWtYdjJvOUM5Y3NjVGlJbDI0NXMycG9ha2x0elpBRjBCNzItb1REUnpzcUZJWks4azVrYWY3MS1XbUluOGx5cTZmVmVQVnIzMngyVjhTUE42RWhCczlUR1JzV2FkOW10Y2g4OUVVbVFqenIxWUt1UXFOWGtfV3B1TUZkbFJDLTR2QVc5U1FnTTNBWWZ4akpnQkJBS0N5VnZyMTQ3UjFfQkRlQ1VDcFRLUTRNUld4VTFTb2NiTlRNMXNnZXk2S3ZMOHcxN2V6M0pVd29KdmpES0E2QVVPUWpFWVhQOVVEc2ZyVkJrYlZBdHI1UHgtUzFwOW1FT3VSQmpxSnloNngtOVlwMHUyY3FJSmQzMl9HX0R3ZUxYSDJVcUV2VG5pUGVxR24tUG4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-15 16:48:31"
+    },
+    {
       "title": "天然氣管線施工影響雲林漁民生計 張嘉郡要求中油加速補償 - 上報Up Media",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYdHp2bUhKU2lRMFFvX1U4eFhwOGk5T0c1cVp6U2h1d29QWkx6OGpVQmU2NWJjQ3BCbUFhR2RKU2pIUElIczRkS2ZuTzItczVjMlh3U1pNRXJUYWRQWVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-15 16:40:00"
+    },
+    {
+      "title": "天然氣管線施工影響雲林漁民生計 張嘉郡要求中油加速補償 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOS3dtZWVUcXJFbmtrTUdYWFFzM0RvUGc0XzVNS0E1M2s0aFNoVFlKYW80VEdaRTZNeDdRRThFN2FPQjdNMVBibTUtQnVtSDRzb01tYXlGdTNHZ2wzZkhYenNlRVAxZ2h4UkhISGFvRmppM1ZSSkVwaWY1SHFiSFJ1M2UzdUtzb1hDaWtYdS04OHE0MkNsaVpxRXVCREZFRDFKdVNOOUl3QlhEeDFFLTdZY1pDZGdKSG10S01EZlduajMwdmdCcTh5b0FtMG5zbzBvWk1qVEhva3hIWDZRUXBVVmRHR0lJV2E2dlJVeG9OWHgxM2RleGNKUjBOVU5McTMyTWE1Q0o3RGxwbnBxZlVuMlIwQnlwZF9NRXlid1pldkZlYVljUWNhQ0xRMG8tWV9NRGlQOVppYjgwMTdWWVN6MFZmaHEtZDlfcjBzNjRZcXRzQXRrTW1OYkdGMjdibHFwVnlXRkp6WlBvRnRmYzQ1blhtanN3N2ItTGM5cWVudEo4bHo3bnFlYW55bTM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-15 16:40:00"
     },
     {
@@ -863,21 +925,6 @@
       "title": "劉建國拋雲林老少週週喝鮮乳張嘉郡首場廟口開講－民視新聞- 民視新聞網 - ftvnews.com.tw",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tNlNTSHIxNUUwdXVIRlV4UEpDM04ySTZHb3FJQ1dWLXQ3QXVFOXlpOTduTEdDZ1Z1Q0FldHFGT3BqQXFMUEJ0WFJmeGpJVWpLZkJCWTM2OU1aSGVYRGlWVnhidkJwOUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-14 17:44:36"
-    },
-    {
-      "title": "劉建國拋雲林「老少週週喝鮮乳」 張嘉郡首場廟口開講 - ftvnews.com.tw",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01WHBaN0s0VkI3aXNKZHVKRVBaSDB2UGo3MnZOS2hTMDN4S05zZGUwOC1wNkRuQnBBTDN3eUxNLTZyTjNkVE5tbm52OVRXZDg1cFZFekZHZ0hGcG5VYXhQTA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-14 17:24:02"
-    },
-    {
-      "title": "劉建國拋雲林老少週週喝鮮乳 張嘉郡首場廟口開講 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPRGhZb1NxQW9ZVFFmaFhuRjlfVlV3WjZiU1R3QmdSdFpaZlIzUmpydng0T0JsWC1KREtuNjZIak00cVE3czFYTTBJS2ZyVXp3eDNGWUE0U19oRDVFYUhjSFlVR0hiaUpmM2tsUWgwaXU2U2d3TTg3SV9wTDJCd1hXcjhZdlFRZm1QRV95cnJ5Z0tNcTNZSlUwYjBnS0ptM1dHNHZUYWJjWkZoXzhYOVh4WlRMUGFXU1NBQ3BJWmE0QURSNnN2YlVTS0xHY0VWSWhqQUJOZjdYNWoxVFl0eEgzd3VSaEVQTEZSNWV2R2VnNzhUN0ZhQWY1N0FXMmdJLVYwREt2a2E1ZDE1YWNZb3JQVkdBX3hNcmtjUDJLcjhrOU9Gb053RUtRQUJBZE8xdmVjSFVMVnlQX3VUSGZlTmcyejBrYXlFTV9rY3ljUjFZUDR2RXlMWHR0SFVicEY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-14 17:24:02"
-    },
-    {
-      "title": "改變第一站 劉建國大埤聯合競總成立：這一戰是「縣民對家族」的選擇 | 鏡週刊 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XelpFMS1EY0N5cksxSkhpT0ljeHpkNGxfa1ZBUGhvZGdRQXJ6WUZ0TmcwNUpHcTg4MEg4Q3MyODEyYWtVWDItRVhwVUtacVB1aDZtV0RB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-14 16:30:59"
     }
   ],
   "person_sections": {
@@ -986,13 +1033,28 @@
       ],
       "news": [
         {
+          "title": "中油開挖海底管線！張嘉郡出手爭取補償金 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNOWZLaVZPekhXSmVNRVNxaURpY1Nfb1I2dXUxMXE3SklaTlU0T3ZJQlpZSFA1Xy02Vl8zWGYzS0hSejZhMlozR0JJcnFqekdPc3FYeTdhNmFLR0xEdlVla3g2cmxGbjN2Qmo2Y3d3QnpiNzRjLUFLYzg2RjJKcHpwRTRKUVE0UVpkRkxidVpia3pRU0hwS0trZ25Ba2R4eDZLd0lwel9lVzA0YmxqNWZncDAzQ2thMklhalJYbWxZazRNYmE0UXZydm1kempXN0tpVUsySnFHa0RKLUZVV2ZhLS1QRnFWcG5UTVBHN3hINDliRDUxRzUzX1JPdzlOVW5lXzFTdktsNzY3YUw2OHl3cUh4d09qbENrb3Vack9NRHVCcnVnbkdfUWptZ0s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-15 18:05:34"
+        },
+        {
           "title": "天然氣管線開挖影響生計 張嘉郡替漁民爭取權益 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcDdCQXdjelFYMElPTjNTY1dRUVBUNk9NWWRLQnktLUYtTWZOWWpxS0xMMG5WR0JTejMwWF93VklRazA4ZHlYcHd5UEhxQTFFQ2NmckNGZFBCdlZhRkZuNk9tdmpSMlhCOU9DWUlFVHJXZmtfVHk3TmdEdzV5cmhXbjhXelpKdlJLdFNMZQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-15 16:52:52"
         },
         {
+          "title": "海底天然氣管線施工衝擊生計 張嘉郡出手替雲林漁民爭補償 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQd1U3aXRGWDhqblJuLU9xLU0wSFRoLTh6SDQtQU80aWJhQmxTTXlSaGxka01lSkRTMWtoUGU5U0Z1a0RhMzY5a3RPbkZBZVVab0RmVDRibzBqZjY1U3NqdnNxeE05NFJINWtYdjJvOUM5Y3NjVGlJbDI0NXMycG9ha2x0elpBRjBCNzItb1REUnpzcUZJWks4azVrYWY3MS1XbUluOGx5cTZmVmVQVnIzMngyVjhTUE42RWhCczlUR1JzV2FkOW10Y2g4OUVVbVFqenIxWUt1UXFOWGtfV3B1TUZkbFJDLTR2QVc5U1FnTTNBWWZ4akpnQkJBS0N5VnZyMTQ3UjFfQkRlQ1VDcFRLUTRNUld4VTFTb2NiTlRNMXNnZXk2S3ZMOHcxN2V6M0pVd29KdmpES0E2QVVPUWpFWVhQOVVEc2ZyVkJrYlZBdHI1UHgtUzFwOW1FT3VSQmpxSnloNngtOVlwMHUyY3FJSmQzMl9HX0R3ZUxYSDJVcUV2VG5pUGVxR24tUG4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-15 16:48:31"
+        },
+        {
           "title": "天然氣管線施工影響雲林漁民生計 張嘉郡要求中油加速補償 - 上報Up Media",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYdHp2bUhKU2lRMFFvX1U4eFhwOGk5T0c1cVp6U2h1d29QWkx6OGpVQmU2NWJjQ3BCbUFhR2RKU2pIUElIczRkS2ZuTzItczVjMlh3U1pNRXJUYWRQWVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-15 16:40:00"
+        },
+        {
+          "title": "天然氣管線施工影響雲林漁民生計 張嘉郡要求中油加速補償 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOS3dtZWVUcXJFbmtrTUdYWFFzM0RvUGc0XzVNS0E1M2s0aFNoVFlKYW80VEdaRTZNeDdRRThFN2FPQjdNMVBibTUtQnVtSDRzb01tYXlGdTNHZ2wzZkhYenNlRVAxZ2h4UkhISGFvRmppM1ZSSkVwaWY1SHFiSFJ1M2UzdUtzb1hDaWtYdS04OHE0MkNsaVpxRXVCREZFRDFKdVNOOUl3QlhEeDFFLTdZY1pDZGdKSG10S01EZlduajMwdmdCcTh5b0FtMG5zbzBvWk1qVEhva3hIWDZRUXBVVmRHR0lJV2E2dlJVeG9OWHgxM2RleGNKUjBOVU5McTMyTWE1Q0o3RGxwbnBxZlVuMlIwQnlwZF9NRXlid1pldkZlYVljUWNhQ0xRMG8tWV9NRGlQOVppYjgwMTdWWVN6MFZmaHEtZDlfcjBzNjRZcXRzQXRrTW1OYkdGMjdibHFwVnlXRkp6WlBvRnRmYzQ1blhtanN3N2ItTGM5cWVudEo4bHo3bnFlYW55bTM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-15 16:40:00"
         },
         {
@@ -1069,21 +1131,6 @@
           "title": "星光熠熠挺獨老！ 張嘉郡力挺華山公益棒球賽：盼打造高齡友善的雲林 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQcVNMd25MM01wQ1JNQ3JDY0tBeVZOaE1yUGZaYTd1RGllcnBhclVfcGQ4UlFHUDdONFFVUmw2WERhQ3F1T0JPN2hVYWhyS0ktQ29BdFJOU2F3NUhReHlSQ0VTLUFrTG9WbE1kakZZbG9QVjNjZXEtZy1xVmR3dHlNY0xndExZdzJTVzJPVWp2Z1paVFAyckdsWDJrS2dOaFVNVmNBYldyS1RVd1hSNDhfSGd0UXB6WHVWVWctV3BCZzdFOG5JTnQzSEY3WUc0UGVaaWlvR1AyUXU5aDRrVk1sdGhaNzZ3ZlBrMEx2c0JMamRabzZPZEQ4b3hpRVBMdHFoNVVEaDBJTWVYWEk4VFdBeVVYdm80a3NaQ3RLWjYzVXlxbmJCOXRpWDRVbEhkdXZWTWNrTDdoS3lJU250YnFsVGdTT1ZWMGowY3lEWHAxSVQ0TWNLVE54MUpJOVhBbGJjVDB4a21wcnY0eDRvZWE0allLZFhUVk1RaFEwMVNVWlY0dUdUUUcyN1IzeDkwR1JiR0ExenBzWklGWnl5cWR2QlBNbW5fX1pWalJkQzJTRTVEdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-14 12:23:22"
-        },
-        {
-          "title": "星光熠熠挺獨老！ 張嘉郡力挺華山公益棒球賽：盼打造高齡友善的雲林 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY1ZfbE1iZFpwZENsUGd4cFhJdHNRUTh5RjJSZVNhNWZlUk9GN3pwZWVxYTlvcWpaTm5BWVJWSmpoYnVwT0x1Ull2WnFZUG5KZmtGTEJfRFhwX1hheTk2X2FucTA5VjRjUHNHclNnYVl0Y29wNS1PcUZ2cm5HSkh1THdqSWVUdXNOWHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-14 12:19:27"
-        },
-        {
-          "title": "星光熠熠挺獨老！ 張嘉郡力挺華山公益棒球賽： 盼打造高齡友善的雲林 - 匯流新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9VdHVsUVFLQ0ZsOW9XdWJJZUYwS2QxV2VhdUZOZnJqaWxlVnQ0WmRrVi1OU3Z5NVlOSmNTV3hyeG5PY0RtUTdBSzZn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-14 12:19:27"
-        },
-        {
-          "title": "星光熠熠挺獨老！ 張嘉郡力挺華山公益棒球賽：盼打造高齡友善的雲林 - PChome Online 股市",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNGIyX3JmelFXeGZyNGRjR2J3R3p0eFZMVXY1RENCelRtZlIzTHBNUDAxanp0cWZKQWtESlhmbjdmR0RrejFZc3dtemdRZE1mcEVCY3B5Q2pWeFRvajhTcW0ycEZZamZGTzY3NFpqMjQ4YzUybGpjVVFsRUZfVlRZQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-14 12:19:27"
         }
       ]
     },
@@ -1297,13 +1344,28 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "中油開挖海底管線！張嘉郡出手爭取補償金 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNOWZLaVZPekhXSmVNRVNxaURpY1Nfb1I2dXUxMXE3SklaTlU0T3ZJQlpZSFA1Xy02Vl8zWGYzS0hSejZhMlozR0JJcnFqekdPc3FYeTdhNmFLR0xEdlVla3g2cmxGbjN2Qmo2Y3d3QnpiNzRjLUFLYzg2RjJKcHpwRTRKUVE0UVpkRkxidVpia3pRU0hwS0trZ25Ba2R4eDZLd0lwel9lVzA0YmxqNWZncDAzQ2thMklhalJYbWxZazRNYmE0UXZydm1kempXN0tpVUsySnFHa0RKLUZVV2ZhLS1QRnFWcG5UTVBHN3hINDliRDUxRzUzX1JPdzlOVW5lXzFTdktsNzY3YUw2OHl3cUh4d09qbENrb3Vack9NRHVCcnVnbkdfUWptZ0s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-15 18:05:34"
+      },
+      {
         "title": "天然氣管線開挖影響生計 張嘉郡替漁民爭取權益 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcDdCQXdjelFYMElPTjNTY1dRUVBUNk9NWWRLQnktLUYtTWZOWWpxS0xMMG5WR0JTejMwWF93VklRazA4ZHlYcHd5UEhxQTFFQ2NmckNGZFBCdlZhRkZuNk9tdmpSMlhCOU9DWUlFVHJXZmtfVHk3TmdEdzV5cmhXbjhXelpKdlJLdFNMZQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-15 16:52:52"
       },
       {
+        "title": "海底天然氣管線施工衝擊生計 張嘉郡出手替雲林漁民爭補償 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQd1U3aXRGWDhqblJuLU9xLU0wSFRoLTh6SDQtQU80aWJhQmxTTXlSaGxka01lSkRTMWtoUGU5U0Z1a0RhMzY5a3RPbkZBZVVab0RmVDRibzBqZjY1U3NqdnNxeE05NFJINWtYdjJvOUM5Y3NjVGlJbDI0NXMycG9ha2x0elpBRjBCNzItb1REUnpzcUZJWks4azVrYWY3MS1XbUluOGx5cTZmVmVQVnIzMngyVjhTUE42RWhCczlUR1JzV2FkOW10Y2g4OUVVbVFqenIxWUt1UXFOWGtfV3B1TUZkbFJDLTR2QVc5U1FnTTNBWWZ4akpnQkJBS0N5VnZyMTQ3UjFfQkRlQ1VDcFRLUTRNUld4VTFTb2NiTlRNMXNnZXk2S3ZMOHcxN2V6M0pVd29KdmpES0E2QVVPUWpFWVhQOVVEc2ZyVkJrYlZBdHI1UHgtUzFwOW1FT3VSQmpxSnloNngtOVlwMHUyY3FJSmQzMl9HX0R3ZUxYSDJVcUV2VG5pUGVxR24tUG4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-15 16:48:31"
+      },
+      {
         "title": "天然氣管線施工影響雲林漁民生計 張嘉郡要求中油加速補償 - 上報Up Media",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYdHp2bUhKU2lRMFFvX1U4eFhwOGk5T0c1cVp6U2h1d29QWkx6OGpVQmU2NWJjQ3BCbUFhR2RKU2pIUElIczRkS2ZuTzItczVjMlh3U1pNRXJUYWRQWVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-15 16:40:00"
+      },
+      {
+        "title": "天然氣管線施工影響雲林漁民生計 張嘉郡要求中油加速補償 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOS3dtZWVUcXJFbmtrTUdYWFFzM0RvUGc0XzVNS0E1M2s0aFNoVFlKYW80VEdaRTZNeDdRRThFN2FPQjdNMVBibTUtQnVtSDRzb01tYXlGdTNHZ2wzZkhYenNlRVAxZ2h4UkhISGFvRmppM1ZSSkVwaWY1SHFiSFJ1M2UzdUtzb1hDaWtYdS04OHE0MkNsaVpxRXVCREZFRDFKdVNOOUl3QlhEeDFFLTdZY1pDZGdKSG10S01EZlduajMwdmdCcTh5b0FtMG5zbzBvWk1qVEhva3hIWDZRUXBVVmRHR0lJV2E2dlJVeG9OWHgxM2RleGNKUjBOVU5McTMyTWE1Q0o3RGxwbnBxZlVuMlIwQnlwZF9NRXlid1pldkZlYVljUWNhQ0xRMG8tWV9NRGlQOVppYjgwMTdWWVN6MFZmaHEtZDlfcjBzNjRZcXRzQXRrTW1OYkdGMjdibHFwVnlXRkp6WlBvRnRmYzQ1blhtanN3N2ItTGM5cWVudEo4bHo3bnFlYW55bTM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-15 16:40:00"
       },
       {
@@ -1354,6 +1416,11 @@
     ],
     "youtube": [
       {
+        "title": "國會也是中共的滲透目標！范雲籲藍白勿再擋國安修法",
+        "url": "https://www.youtube.com/shorts/bFZq4-2RJow",
+        "time": "2026-09-15 17:36:50"
+      },
+      {
         "title": "張嘉郡廟口開講 許淑華謝龍介跨區助講-台灣生活新聞",
         "url": "https://www.youtube.com/watch?v=PG3OgnGGF94",
         "time": "2026-09-15 16:04:15"
@@ -1373,13 +1440,28 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "中油開挖海底管線！張嘉郡出手爭取補償金 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNOWZLaVZPekhXSmVNRVNxaURpY1Nfb1I2dXUxMXE3SklaTlU0T3ZJQlpZSFA1Xy02Vl8zWGYzS0hSejZhMlozR0JJcnFqekdPc3FYeTdhNmFLR0xEdlVla3g2cmxGbjN2Qmo2Y3d3QnpiNzRjLUFLYzg2RjJKcHpwRTRKUVE0UVpkRkxidVpia3pRU0hwS0trZ25Ba2R4eDZLd0lwel9lVzA0YmxqNWZncDAzQ2thMklhalJYbWxZazRNYmE0UXZydm1kempXN0tpVUsySnFHa0RKLUZVV2ZhLS1QRnFWcG5UTVBHN3hINDliRDUxRzUzX1JPdzlOVW5lXzFTdktsNzY3YUw2OHl3cUh4d09qbENrb3Vack9NRHVCcnVnbkdfUWptZ0s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-15 18:05:34"
+      },
+      {
         "title": "天然氣管線開挖影響生計 張嘉郡替漁民爭取權益 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcDdCQXdjelFYMElPTjNTY1dRUVBUNk9NWWRLQnktLUYtTWZOWWpxS0xMMG5WR0JTejMwWF93VklRazA4ZHlYcHd5UEhxQTFFQ2NmckNGZFBCdlZhRkZuNk9tdmpSMlhCOU9DWUlFVHJXZmtfVHk3TmdEdzV5cmhXbjhXelpKdlJLdFNMZQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-15 16:52:52"
       },
       {
+        "title": "海底天然氣管線施工衝擊生計 張嘉郡出手替雲林漁民爭補償 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQd1U3aXRGWDhqblJuLU9xLU0wSFRoLTh6SDQtQU80aWJhQmxTTXlSaGxka01lSkRTMWtoUGU5U0Z1a0RhMzY5a3RPbkZBZVVab0RmVDRibzBqZjY1U3NqdnNxeE05NFJINWtYdjJvOUM5Y3NjVGlJbDI0NXMycG9ha2x0elpBRjBCNzItb1REUnpzcUZJWks4azVrYWY3MS1XbUluOGx5cTZmVmVQVnIzMngyVjhTUE42RWhCczlUR1JzV2FkOW10Y2g4OUVVbVFqenIxWUt1UXFOWGtfV3B1TUZkbFJDLTR2QVc5U1FnTTNBWWZ4akpnQkJBS0N5VnZyMTQ3UjFfQkRlQ1VDcFRLUTRNUld4VTFTb2NiTlRNMXNnZXk2S3ZMOHcxN2V6M0pVd29KdmpES0E2QVVPUWpFWVhQOVVEc2ZyVkJrYlZBdHI1UHgtUzFwOW1FT3VSQmpxSnloNngtOVlwMHUyY3FJSmQzMl9HX0R3ZUxYSDJVcUV2VG5pUGVxR24tUG4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-15 16:48:31"
+      },
+      {
         "title": "天然氣管線施工影響雲林漁民生計 張嘉郡要求中油加速補償 - 上報Up Media",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYdHp2bUhKU2lRMFFvX1U4eFhwOGk5T0c1cVp6U2h1d29QWkx6OGpVQmU2NWJjQ3BCbUFhR2RKU2pIUElIczRkS2ZuTzItczVjMlh3U1pNRXJUYWRQWVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-15 16:40:00"
+      },
+      {
+        "title": "天然氣管線施工影響雲林漁民生計 張嘉郡要求中油加速補償 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOS3dtZWVUcXJFbmtrTUdYWFFzM0RvUGc0XzVNS0E1M2s0aFNoVFlKYW80VEdaRTZNeDdRRThFN2FPQjdNMVBibTUtQnVtSDRzb01tYXlGdTNHZ2wzZkhYenNlRVAxZ2h4UkhISGFvRmppM1ZSSkVwaWY1SHFiSFJ1M2UzdUtzb1hDaWtYdS04OHE0MkNsaVpxRXVCREZFRDFKdVNOOUl3QlhEeDFFLTdZY1pDZGdKSG10S01EZlduajMwdmdCcTh5b0FtMG5zbzBvWk1qVEhva3hIWDZRUXBVVmRHR0lJV2E2dlJVeG9OWHgxM2RleGNKUjBOVU5McTMyTWE1Q0o3RGxwbnBxZlVuMlIwQnlwZF9NRXlid1pldkZlYVljUWNhQ0xRMG8tWV9NRGlQOVppYjgwMTdWWVN6MFZmaHEtZDlfcjBzNjRZcXRzQXRrTW1OYkdGMjdibHFwVnlXRkp6WlBvRnRmYzQ1blhtanN3N2ItTGM5cWVudEo4bHo3bnFlYW55bTM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-15 16:40:00"
       },
       {
@@ -1556,21 +1638,6 @@
         "title": "力挺華山公益棒球賽 張嘉郡：打造高齡友善健康有愛的雲林 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Bay1YbkcwdVpITHU1US0tSENDcGtQV0xSaWJkMUJlcjF6VktveG5HUGV4alAybjZ6a2wwMF82ZmtBSlVFMU4xbmNwNlVNOUpqTVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-14 07:56:47"
-      },
-      {
-        "title": "力挺華山公益棒球賽 張嘉郡：打造高齡友善健康有愛的雲林 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZDBwbzhFZ3hpWkMxNDM2T2hFdzlmMEk2ZkNSdzQ1U0tFbkRMSDVRb1hHaGlYMUxxUEl4c1B4Mk1LU2tvY2lONDdLNVdDd3ZHLW1aYjZVWjh3ZmJqY2E4NEN6alpfSldwdVpSS0ZnMFZUdEtrNi1qLTJ6WnBOSDRkSXpmZFA4RXRncGl6V1dEaDhhMzg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-14 06:50:37"
-      },
-      {
-        "title": "力挺華山公益棒球賽 張嘉郡：打造高齡友善、健康有愛的雲林 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPSjB5UVhFVXYybHhnR2NSb3FqZDdXLWljRUFfV3pKaFhQS0FDQnoyZmNrdTN6TGdsLUVHQzE1VEhkMmJ2MFJyNU11ZFhiaTdSOFFsaU1FdFI4d1duZFctekNrLUNiWG9vR3dlWTBuU0lYMEtSNEN6OXJSdFRFbktjdG9XUmFIb0hIdUtvNlloaGhNY0U0dng0M2lDVnJVV3JxMl8xdy1GZlFyZ0xiM2NHS2ZoMmFua1NPR3Q1dUNWVzI0WWk2dWRXaDgzZWRwUzB2MWJrVmVsZG04THdRMy0zZWFNSExEeUFQcGxoOHJSdUVodFFlNGkyU3psZTJmMVRiczRBSUFLWmhWMUVTQUlwdGxHVElFNVVWdU5Ua3NXZF9FTnFoc0pUc3QxcGo5dnFoMExiOGtMSW0yUXQ4aGRVS2M1Wmx6cXdtMk5PQ2JBakZCVlZDb3FYbzdQWFFyZDhqekZCTE1Qd1VhZUxXS0FnaFM3dzNlbkRvUWwxQnJnTTBwaFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-14 06:49:35"
-      },
-      {
-        "title": "守護長者、學生 劉建國提週週喝兩次鮮乳 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPYmo4MjVNXzRmZEpKOEdCc3N5YmtMQzVjYmFfRmJfR0EzM2JRSGtKNDZueFRTVVc3SmNCRkdYcW13WTY3djNfekUzcGJFMTRtMmN2amx2aHhZM0VZRFRxbjUzMVMzdlJRc1BMb3dEWkZ1eldmNURSM01LR1BYT0tKYVpiT0J6UmwtTkNTeHlSY3ZlZWw5Q29nOHJLbjBtbGlmSjRZWXJMNkN3Z0ZNVmRxelBlYnMzbUNnWHpOaU1ETnhZQ3Q4eXVxWWNMaURReElIaFJGckFYbGFFYTU4VnRjamhKaGtGNUJyODVzNFQ2Q3RoNEx5dDZHOGpVcnlYd3RJMTNRZmM2VGFJU3NMMFEwRGRhOE1DTG5xRE1rTUUzY1dRQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-14 05:30:00"
       }
     ],
     "facebook": [
@@ -1667,6 +1734,11 @@
     ],
     "youtube": [
       {
+        "title": "國會也是中共的滲透目標！范雲籲藍白勿再擋國安修法",
+        "url": "https://www.youtube.com/shorts/bFZq4-2RJow",
+        "time": "2026-09-15 17:36:50"
+      },
+      {
         "title": "張嘉郡廟口開講 許淑華謝龍介跨區助講-台灣生活新聞",
         "url": "https://www.youtube.com/watch?v=PG3OgnGGF94",
         "time": "2026-09-15 16:04:15"
@@ -1718,6 +1790,20 @@
     "hour": [],
     "day": [
       {
+        "title": "中油開挖海底管線！張嘉郡出手爭取補償金 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNOWZLaVZPekhXSmVNRVNxaURpY1Nfb1I2dXUxMXE3SklaTlU0T3ZJQlpZSFA1Xy02Vl8zWGYzS0hSejZhMlozR0JJcnFqekdPc3FYeTdhNmFLR0xEdlVla3g2cmxGbjN2Qmo2Y3d3QnpiNzRjLUFLYzg2RjJKcHpwRTRKUVE0UVpkRkxidVpia3pRU0hwS0trZ25Ba2R4eDZLd0lwel9lVzA0YmxqNWZncDAzQ2thMklhalJYbWxZazRNYmE0UXZydm1kempXN0tpVUsySnFHa0RKLUZVV2ZhLS1QRnFWcG5UTVBHN3hINDliRDUxRzUzX1JPdzlOVW5lXzFTdktsNzY3YUw2OHl3cUh4d09qbENrb3Vack9NRHVCcnVnbkdfUWptZ0s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-15 18:05:34",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "國會也是中共的滲透目標！范雲籲藍白勿再擋國安修法",
+        "url": "https://www.youtube.com/shorts/bFZq4-2RJow",
+        "time": "2026-09-15 17:36:50",
+        "platform": "youtube",
+        "risk": "綠"
+      },
+      {
         "title": "天然氣管線開挖影響生計 張嘉郡替漁民爭取權益 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcDdCQXdjelFYMElPTjNTY1dRUVBUNk9NWWRLQnktLUYtTWZOWWpxS0xMMG5WR0JTejMwWF93VklRazA4ZHlYcHd5UEhxQTFFQ2NmckNGZFBCdlZhRkZuNk9tdmpSMlhCOU9DWUlFVHJXZmtfVHk3TmdEdzV5cmhXbjhXelpKdlJLdFNMZQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-15 16:52:52",
@@ -1725,8 +1811,22 @@
         "risk": "綠"
       },
       {
+        "title": "海底天然氣管線施工衝擊生計 張嘉郡出手替雲林漁民爭補償 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQd1U3aXRGWDhqblJuLU9xLU0wSFRoLTh6SDQtQU80aWJhQmxTTXlSaGxka01lSkRTMWtoUGU5U0Z1a0RhMzY5a3RPbkZBZVVab0RmVDRibzBqZjY1U3NqdnNxeE05NFJINWtYdjJvOUM5Y3NjVGlJbDI0NXMycG9ha2x0elpBRjBCNzItb1REUnpzcUZJWks4azVrYWY3MS1XbUluOGx5cTZmVmVQVnIzMngyVjhTUE42RWhCczlUR1JzV2FkOW10Y2g4OUVVbVFqenIxWUt1UXFOWGtfV3B1TUZkbFJDLTR2QVc5U1FnTTNBWWZ4akpnQkJBS0N5VnZyMTQ3UjFfQkRlQ1VDcFRLUTRNUld4VTFTb2NiTlRNMXNnZXk2S3ZMOHcxN2V6M0pVd29KdmpES0E2QVVPUWpFWVhQOVVEc2ZyVkJrYlZBdHI1UHgtUzFwOW1FT3VSQmpxSnloNngtOVlwMHUyY3FJSmQzMl9HX0R3ZUxYSDJVcUV2VG5pUGVxR24tUG4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-15 16:48:31",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "天然氣管線施工影響雲林漁民生計 張嘉郡要求中油加速補償 - 上報Up Media",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYdHp2bUhKU2lRMFFvX1U4eFhwOGk5T0c1cVp6U2h1d29QWkx6OGpVQmU2NWJjQ3BCbUFhR2RKU2pIUElIczRkS2ZuTzItczVjMlh3U1pNRXJUYWRQWVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-15 16:40:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "天然氣管線施工影響雲林漁民生計 張嘉郡要求中油加速補償 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOS3dtZWVUcXJFbmtrTUdYWFFzM0RvUGc0XzVNS0E1M2s0aFNoVFlKYW80VEdaRTZNeDdRRThFN2FPQjdNMVBibTUtQnVtSDRzb01tYXlGdTNHZ2wzZkhYenNlRVAxZ2h4UkhISGFvRmppM1ZSSkVwaWY1SHFiSFJ1M2UzdUtzb1hDaWtYdS04OHE0MkNsaVpxRXVCREZFRDFKdVNOOUl3QlhEeDFFLTdZY1pDZGdKSG10S01EZlduajMwdmdCcTh5b0FtMG5zbzBvWk1qVEhva3hIWDZRUXBVVmRHR0lJV2E2dlJVeG9OWHgxM2RleGNKUjBOVU5McTMyTWE1Q0o3RGxwbnBxZlVuMlIwQnlwZF9NRXlid1pldkZlYVljUWNhQ0xRMG8tWV9NRGlQOVppYjgwMTdWWVN6MFZmaHEtZDlfcjBzNjRZcXRzQXRrTW1OYkdGMjdibHFwVnlXRkp6WlBvRnRmYzQ1blhtanN3N2ItTGM5cWVudEo4bHo3bnFlYW55bTM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-15 16:40:00",
         "platform": "news",
         "risk": "綠"
@@ -1821,7 +1921,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 3
+        "count": 5
       },
       {
         "name": "虎尾",
