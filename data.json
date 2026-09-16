@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-16T01:58:01.048893+00:00",
+  "generated_at": "2026-09-16T02:15:58.315699+00:00",
   "metrics": {
     "total_24h": 28,
     "prev_24h": 43,
     "growth_pct": -34.88,
-    "news_24h": 22,
+    "news_24h": 21,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 224,
+    "total": 226,
     "prev": 257,
-    "growth_pct": -12.84,
-    "news": 193,
+    "growth_pct": -12.06,
+    "news": 194,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 22
+      "count": 21
     },
     {
       "platform": "youtube",
@@ -36,17 +36,17 @@
     },
     {
       "platform": "facebook",
-      "count": 2
+      "count": 3
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 193
+      "count": 194
     },
     {
       "platform": "facebook",
-      "count": 20
+      "count": 21
     },
     {
       "platform": "youtube",
@@ -56,7 +56,7 @@
   "by_hour": [
     {
       "hour": "2026-09-15 10:00",
-      "count": 2
+      "count": 1
     },
     {
       "hour": "2026-09-15 11:00",
@@ -89,6 +89,10 @@
     {
       "hour": "2026-09-16 07:00",
       "count": 2
+    },
+    {
+      "hour": "2026-09-16 09:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -310,7 +314,7 @@
     },
     {
       "hour": "2026-09-14 12:00",
-      "count": 6
+      "count": 7
     },
     {
       "hour": "2026-09-14 13:00",
@@ -383,23 +387,44 @@
     {
       "hour": "2026-09-16 07:00",
       "count": 2
+    },
+    {
+      "hour": "2026-09-16 09:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 22
+      "count": 21
+    },
+    {
+      "platform": "facebook",
+      "count": 3
     },
     {
       "platform": "youtube",
       "count": 2
-    },
-    {
-      "platform": "facebook",
-      "count": 2
     }
   ],
   "mention_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "親愛的朋友，9月20日這個禮拜日，建國和 林慧如 鄉長競選總部在古坑正式成立！ 誠摯邀請您蒞臨與會，一起為新雲林加油。 【古坑競選總部成立大會】 📅 時間：9月20日（日）10：00 📍 地點：古坑鄉西平路41-3號 讓我們一起勇敢轉型，創造屬於雲林的美好未來！ #勇敢轉 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMimgdBVV95cUxOOEpwRVFNRjlSMW16WDBfdXlKZ0xEQ3VxcXU0UEluY3A0dWZkSnRReG5TVEhwZGctLXNKWE5WcW0wdzNEOFFtRUl0Q0ZfM25HZUoyMUt0SlVPNHFuVWF3Y2pEc2VySXc3ZW5TT0pVOTVnV3dNbTZKTFB2LUE1RTZfZDcyWTlsS0hHWGRGOHdOY2ZtRUhGdDZlOFpKd2dXT2RrcWNobHZDZ0hBaWtNZ2tjbmZGTmVod3pHOTEzWFdFOUhtSXMzTGxGaDU1YUtXWUtoLWV5Wk1FZ09OMjJvcGZNMmItdUZkN191SGtOODBQMEI1bEdRd2liYmRCUUFGcGdkZ3dZNUtVRmxXRkRHVUhIU2Z4dXRPV21vQV8zTzhKR1dTZmpZaVF1Z2N5WnBfSjVZNnhxRFBoVUo0RHZNQmJFdjRMQmU2RnFpX256WU9heVptRXVXTkxBNjluLVRIZEQ3SG0tOG9XTVIyTDVoLXZGN2dHYVhBMHRHWWJmYktmZDJ0SEdJb2RLZTFKQmRKNFN2NTcycE9KdTkzYzRid1FvVHg2NWViZndBdG9DOVpzR1Q1VGFzTnZLLTBEZ3lNVUlwMTV2czdLbTJCdTVEZlA2WHIzdTRYZDhRS1RpbWx0NmJpRnN2SUF6Rk5yUXpLb2hpM1RzdzNVZy1WeEhZMkN2Qk83a3dwNHZWVGM2V0ZwTFRvODRzQmN4eXJvNTEzS1BXX3RoX0xXSHBxY3d4WWpmR3NocXhWczU0Tl90MW56RktkNUY4VkR2SFYxWlF6VEFNRDFFN2N6TDktTVhBZGhySnRpT0NVUVRZYmk3X19xMjFmcnRTdjlINWlHNDNLUjdESXR5NTZzQ0R5amZROUhHeXJucEEwcmlrVW5OVlozeGpPUWNEMS1FT2FRQVNUUks0TlNCcnZaaHpteUpHSjROSGQyQXdqcW5wWWxNd3k1clp5Nlpqb3NfZGpURlFmb2dLNHZJN2N2LWRCVmh5MW8tblQ0OFhTbG9naU1jNHg4RXJPMUpmMmdNUDFmN1BINmlfcjUwSE1rYVZkaWVxTld4YjZ2ZHhvdHE5VDh0c3JMUXhyOEJHZWJJT1BFVXIwYWRRcHUwcjI4bWRkSXJfQW94NG5fOXJjTVM0NE0wQVJsVkhJVGdQN0p3Nm5qMG81VnZYVkpNakgwaFNoaENTeHpBVjBPb3FieTlKcmtLUFR3b29hRnJib0xrQlpn",
+        "time": "2026-09-16 09:30:05"
+      },
+      {
+        "title": "🔥勇敢轉型，新雲林！改變，就拚這一次！🔥 雲林鄉親朋友站出來！ 建國的「競選總本部成立大會」正式登場，邀請大家一起來到現場，逗陣作伙拚！ 活動資訊 時間：9/20（日）15:30 開放進場 地點：斗六棒球場大門前廣場（總本部：斗六市明德北路二段309號斜對面） 這一 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxNNW0zMTJhREF6OXVaa05RYU5OemlwQWFYa1RObEhYV21fZW9JVUp2NjFkYzd1dXlCb1ZKWkpNMUlSZURzX2RLdTExcEphVTZsY0RFeHZ4Z0hLaURzeksxTDUzRkZkdUdkSVhUT25TTXRLTG9yTlpKZ19HNzVyZmNOOGFtZUZEZ3poOWlpdGxRQzRJbEpQNThfYWhsRFFhdnR2dnZWazlIbVpnUWhVQmE5ZFU2OGlORXZheWotNzBsanN6VGM4NDBpNkIwaE11aGpEYlhneTJjR3huMVJ6aDJzaU84Vm9QZkJWTzNOX3lYSUtaWnlYdV9HeHNDZ01ha2RSLTlVclVVZTBvS1NDTDk4T3BQWlFFMkk1dDJtZGxNYlQ4RG1aZnJkMGphdTFEWkxadFVuTlVRVnFncTF5RThLeGRadThyRUd5N2lXZVZnb21DZHQwdi14cmlUQnFaaW5tQWZ2WElweDFCckR0UFFvRDRJNzNVRWV3QS12Wm1OWmUtNXlDb3BtMzJnNm1La3pKNUw1MXc5bDRQT3ZQdmpVdEhCS2NiNFNIeHlBVG5kUkZJUXIwMVpxQTdka3MxR0ZrUUtXbFJhOHhRVkxPSWtnczRvM3NOZThiYnhhd1JEZnI4Z1RNcHZEakxaM1VSNkljSHo3QlloeVc1aVc5ZF9kbzd1b25mQU5fdEU5Q2FiZTNVd0M1NE9qN1RYLTVxNmswQ3VJNVpXWXNsaGw5VDYwd0ctMFZiODNuQUhaREJxaEZPTFAtR2l2OHhfQ3FWdnd1Y2NHdUF6emdsdXpNSHdITHpVRWZGMWNEdlI4b2p6X3pSOXdFUFhROWR6MFJIWWl5Vm9NS0phdFc1S2NlZF9SNDJWTnJpZk1qZGhzSVNNcWh3N1RPQ1NUR19PcmpFd3E5c2NlSlA0TUU0TlpQZkFkWi1DdFJzMVRUM3c3bXNZY0lELWRhd1NBZFhXTkZoWkJGckxRWlloRTdzSVVaSElvY2xValFlRGp4U1VYOVBRRWNQWUNZM0liZ2cwdUNDRjMzaGpNY1JJMWlCaE1hQ2pPWjFJOFFkNTZQMUpvM3AzaHBOTDVGRFdRb2NwSGlfMnJ0UGVkZ1MwTTJYY25Tc2tDSjFodFdqTl95MnNBekQ1dG83d2UyVU51b1dsejlVdWV5RV9XUEVLcDFjMTEyNlZ5Ung3QUJuNVhEQUlOdjhmNzI5WG1PakstdVBnMGJCalZsUUdBNDVxT2JrbS0zeVkxSEVnOFE3T19NaWxCalhPVzV5RnBET0VVUUxQN1QtUVdsZV9mU2FQbk5GZw",
+        "time": "2026-09-15 19:09:38"
+      },
+      {
+        "title": "天然氣管線開挖影響漁民生計 張嘉郡要求中油加速核撥補償 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOY2RJdFpxSjlfdmU5ZWJoMlR0Y21hQ1AzMEdiYjh6clZEYllQSTFnMU5sdlRldEVnUEhYNVN4UkY3LVdJQWl6SEZ2ZGRFQjJyOWg4VVpOYXVDNTBORHpjZ1ZPc1N5LWdxNURENjlZcGl3SXo2bWtQNzIyd24wTmEzd0plSHF0bnQ0RnJReHNNdHJSRXRfNlhFVlRZWUcxX2kyaFkxLUNBSFlYSUs0VjNpM3d0SVJ3VDlKNVByZDNxcFVsZGVIdEF4LVNEcGhuX0otYzlMdmp2Q1Q3WW92NnZSNlFoeGlMUXRqbDFTRUMwZVdxdXBxTzFnVk0tTTFpV09WUEFGbGtKNHFkVElKYm8xRV9qeG9sN1lKNEVveWxZbWx4eUJmNWhuRmNKcTNkUUl1UVE3S3JPV2N5dWpndzhtLUVoUzBJd2haVVM5QXFWWVVia1hVQ0sxalFXSTN1X1I4cS1uZ2VmenBLUWRlbFZGWmtRbUtveGQ3eUhpUGR0OFFQSTFvd2dxTldPTk9hRWNoOVZLY3A4LS1IaVYyUmNRWVlB",
+        "time": "2026-09-15 17:47:43"
+      }
+    ],
     "news": [
       {
         "title": "跨縣女力聯手！許淑華力挺張嘉郡謝龍介北上盛讚有魄力、有溫度- 生活新聞- PChome Online 新聞 - PChome Online 新聞",
@@ -505,11 +530,6 @@
         "title": "農民憂排水溝完工被拆 劉建國邀會勘三方達共識 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNSGNoc2tMcVBKenl5RmZhbU8tTnpwQWhtdzI0dGdadGJCTFM3NzRnUDdEY2hpYlFQcG9qdGthazI4bzd5M2RZb0QwNllGdG5rT0RSc3pJUnFIdjcyOFZYOUYyY0s0VldFUWRnRmZYZ0d2cjNTNWV0ZHdDcHFRYl9vaGhGR3YwVmdBUTBnMTQ3THhSTktySm5JWWFGR3ZlZjlJZTBlUWlKczc5TTIwYnpSNWxuOE01dUNZN3R4ak10MENham02SHNOR2ZmNGJpRDNiYUFuWU5aTDMyQzNaaUxNM0dHLTJqaHhPclJhb0NvR19QRkY3NlRUS0o4WjFhSmpzbDBkYldNOWZyaUJkVngyTTAwQnA4OW5MdnZFa2g5cGx4TG1tM0FsTENKNFhNRWdiYl8yZXhsWVYzSnlEeV8xV0RHM0UzN0JQN2t0S18wamQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-15 10:26:58"
-      },
-      {
-        "title": "農民憂排水溝完工被拆 劉建國邀會勘三方達共識 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BTHJrOGlNQjlpZk5Rb0ZBbEV1ZE5XX3hRX2cxbUF4VktnTm5JSGRRMERDLTlFV3dzZmdzdjZEMmdwTnotMU5yQXVGMkJBc1Y3dHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-15 10:04:00"
       }
     ],
     "youtube": [
@@ -522,36 +542,41 @@
         "title": "張嘉郡廟口開講 許淑華謝龍介跨區助講-台灣生活新聞",
         "url": "https://www.youtube.com/watch?v=PG3OgnGGF94",
         "time": "2026-09-15 16:04:15"
-      }
-    ],
-    "facebook": [
-      {
-        "title": "🔥勇敢轉型，新雲林！改變，就拚這一次！🔥 雲林鄉親朋友站出來！ 建國的「競選總本部成立大會」正式登場，邀請大家一起來到現場，逗陣作伙拚！ 活動資訊 時間：9/20（日）15:30 開放進場 地點：斗六棒球場大門前廣場（總本部：斗六市明德北路二段309號斜對面） 這一 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxNNW0zMTJhREF6OXVaa05RYU5OemlwQWFYa1RObEhYV21fZW9JVUp2NjFkYzd1dXlCb1ZKWkpNMUlSZURzX2RLdTExcEphVTZsY0RFeHZ4Z0hLaURzeksxTDUzRkZkdUdkSVhUT25TTXRLTG9yTlpKZ19HNzVyZmNOOGFtZUZEZ3poOWlpdGxRQzRJbEpQNThfYWhsRFFhdnR2dnZWazlIbVpnUWhVQmE5ZFU2OGlORXZheWotNzBsanN6VGM4NDBpNkIwaE11aGpEYlhneTJjR3huMVJ6aDJzaU84Vm9QZkJWTzNOX3lYSUtaWnlYdV9HeHNDZ01ha2RSLTlVclVVZTBvS1NDTDk4T3BQWlFFMkk1dDJtZGxNYlQ4RG1aZnJkMGphdTFEWkxadFVuTlVRVnFncTF5RThLeGRadThyRUd5N2lXZVZnb21DZHQwdi14cmlUQnFaaW5tQWZ2WElweDFCckR0UFFvRDRJNzNVRWV3QS12Wm1OWmUtNXlDb3BtMzJnNm1La3pKNUw1MXc5bDRQT3ZQdmpVdEhCS2NiNFNIeHlBVG5kUkZJUXIwMVpxQTdka3MxR0ZrUUtXbFJhOHhRVkxPSWtnczRvM3NOZThiYnhhd1JEZnI4Z1RNcHZEakxaM1VSNkljSHo3QlloeVc1aVc5ZF9kbzd1b25mQU5fdEU5Q2FiZTNVd0M1NE9qN1RYLTVxNmswQ3VJNVpXWXNsaGw5VDYwd0ctMFZiODNuQUhaREJxaEZPTFAtR2l2OHhfQ3FWdnd1Y2NHdUF6emdsdXpNSHdITHpVRWZGMWNEdlI4b2p6X3pSOXdFUFhROWR6MFJIWWl5Vm9NS0phdFc1S2NlZF9SNDJWTnJpZk1qZGhzSVNNcWh3N1RPQ1NUR19PcmpFd3E5c2NlSlA0TUU0TlpQZkFkWi1DdFJzMVRUM3c3bXNZY0lELWRhd1NBZFhXTkZoWkJGckxRWlloRTdzSVVaSElvY2xValFlRGp4U1VYOVBRRWNQWUNZM0liZ2cwdUNDRjMzaGpNY1JJMWlCaE1hQ2pPWjFJOFFkNTZQMUpvM3AzaHBOTDVGRFdRb2NwSGlfMnJ0UGVkZ1MwTTJYY25Tc2tDSjFodFdqTl95MnNBekQ1dG83d2UyVU51b1dsejlVdWV5RV9XUEVLcDFjMTEyNlZ5Ung3QUJuNVhEQUlOdjhmNzI5WG1PakstdVBnMGJCalZsUUdBNDVxT2JrbS0zeVkxSEVnOFE3T19NaWxCalhPVzV5RnBET0VVUUxQN1QtUVdsZV9mU2FQbk5GZw",
-        "time": "2026-09-15 19:09:38"
-      },
-      {
-        "title": "天然氣管線開挖影響漁民生計 張嘉郡要求中油加速核撥補償 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOY2RJdFpxSjlfdmU5ZWJoMlR0Y21hQ1AzMEdiYjh6clZEYllQSTFnMU5sdlRldEVnUEhYNVN4UkY3LVdJQWl6SEZ2ZGRFQjJyOWg4VVpOYXVDNTBORHpjZ1ZPc1N5LWdxNURENjlZcGl3SXo2bWtQNzIyd24wTmEzd0plSHF0bnQ0RnJReHNNdHJSRXRfNlhFVlRZWUcxX2kyaFkxLUNBSFlYSUs0VjNpM3d0SVJ3VDlKNVByZDNxcFVsZGVIdEF4LVNEcGhuX0otYzlMdmp2Q1Q3WW92NnZSNlFoeGlMUXRqbDFTRUMwZVdxdXBxTzFnVk0tTTFpV09WUEFGbGtKNHFkVElKYm8xRV9qeG9sN1lKNEVveWxZbWx4eUJmNWhuRmNKcTNkUUl1UVE3S3JPV2N5dWpndzhtLUVoUzBJd2haVVM5QXFWWVVia1hVQ0sxalFXSTN1X1I4cS1uZ2VmenBLUWRlbFZGWmtRbUtveGQ3eUhpUGR0OFFQSTFvd2dxTldPTk9hRWNoOVZLY3A4LS1IaVYyUmNRWVlB",
-        "time": "2026-09-15 17:47:43"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 22
+      "count": 21
+    },
+    {
+      "platform": "facebook",
+      "count": 3
     },
     {
       "platform": "youtube",
       "count": 2
-    },
-    {
-      "platform": "facebook",
-      "count": 2
     }
   ],
   "alias_latest_by_platform_24h": {
+    "facebook": [
+      {
+        "title": "親愛的朋友，9月20日這個禮拜日，建國和 林慧如 鄉長競選總部在古坑正式成立！ 誠摯邀請您蒞臨與會，一起為新雲林加油。 【古坑競選總部成立大會】 📅 時間：9月20日（日）10：00 📍 地點：古坑鄉西平路41-3號 讓我們一起勇敢轉型，創造屬於雲林的美好未來！ #勇敢轉 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMimgdBVV95cUxOOEpwRVFNRjlSMW16WDBfdXlKZ0xEQ3VxcXU0UEluY3A0dWZkSnRReG5TVEhwZGctLXNKWE5WcW0wdzNEOFFtRUl0Q0ZfM25HZUoyMUt0SlVPNHFuVWF3Y2pEc2VySXc3ZW5TT0pVOTVnV3dNbTZKTFB2LUE1RTZfZDcyWTlsS0hHWGRGOHdOY2ZtRUhGdDZlOFpKd2dXT2RrcWNobHZDZ0hBaWtNZ2tjbmZGTmVod3pHOTEzWFdFOUhtSXMzTGxGaDU1YUtXWUtoLWV5Wk1FZ09OMjJvcGZNMmItdUZkN191SGtOODBQMEI1bEdRd2liYmRCUUFGcGdkZ3dZNUtVRmxXRkRHVUhIU2Z4dXRPV21vQV8zTzhKR1dTZmpZaVF1Z2N5WnBfSjVZNnhxRFBoVUo0RHZNQmJFdjRMQmU2RnFpX256WU9heVptRXVXTkxBNjluLVRIZEQ3SG0tOG9XTVIyTDVoLXZGN2dHYVhBMHRHWWJmYktmZDJ0SEdJb2RLZTFKQmRKNFN2NTcycE9KdTkzYzRid1FvVHg2NWViZndBdG9DOVpzR1Q1VGFzTnZLLTBEZ3lNVUlwMTV2czdLbTJCdTVEZlA2WHIzdTRYZDhRS1RpbWx0NmJpRnN2SUF6Rk5yUXpLb2hpM1RzdzNVZy1WeEhZMkN2Qk83a3dwNHZWVGM2V0ZwTFRvODRzQmN4eXJvNTEzS1BXX3RoX0xXSHBxY3d4WWpmR3NocXhWczU0Tl90MW56RktkNUY4VkR2SFYxWlF6VEFNRDFFN2N6TDktTVhBZGhySnRpT0NVUVRZYmk3X19xMjFmcnRTdjlINWlHNDNLUjdESXR5NTZzQ0R5amZROUhHeXJucEEwcmlrVW5OVlozeGpPUWNEMS1FT2FRQVNUUks0TlNCcnZaaHpteUpHSjROSGQyQXdqcW5wWWxNd3k1clp5Nlpqb3NfZGpURlFmb2dLNHZJN2N2LWRCVmh5MW8tblQ0OFhTbG9naU1jNHg4RXJPMUpmMmdNUDFmN1BINmlfcjUwSE1rYVZkaWVxTld4YjZ2ZHhvdHE5VDh0c3JMUXhyOEJHZWJJT1BFVXIwYWRRcHUwcjI4bWRkSXJfQW94NG5fOXJjTVM0NE0wQVJsVkhJVGdQN0p3Nm5qMG81VnZYVkpNakgwaFNoaENTeHpBVjBPb3FieTlKcmtLUFR3b29hRnJib0xrQlpn",
+        "time": "2026-09-16 09:30:05"
+      },
+      {
+        "title": "🔥勇敢轉型，新雲林！改變，就拚這一次！🔥 雲林鄉親朋友站出來！ 建國的「競選總本部成立大會」正式登場，邀請大家一起來到現場，逗陣作伙拚！ 活動資訊 時間：9/20（日）15:30 開放進場 地點：斗六棒球場大門前廣場（總本部：斗六市明德北路二段309號斜對面） 這一 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxNNW0zMTJhREF6OXVaa05RYU5OemlwQWFYa1RObEhYV21fZW9JVUp2NjFkYzd1dXlCb1ZKWkpNMUlSZURzX2RLdTExcEphVTZsY0RFeHZ4Z0hLaURzeksxTDUzRkZkdUdkSVhUT25TTXRLTG9yTlpKZ19HNzVyZmNOOGFtZUZEZ3poOWlpdGxRQzRJbEpQNThfYWhsRFFhdnR2dnZWazlIbVpnUWhVQmE5ZFU2OGlORXZheWotNzBsanN6VGM4NDBpNkIwaE11aGpEYlhneTJjR3huMVJ6aDJzaU84Vm9QZkJWTzNOX3lYSUtaWnlYdV9HeHNDZ01ha2RSLTlVclVVZTBvS1NDTDk4T3BQWlFFMkk1dDJtZGxNYlQ4RG1aZnJkMGphdTFEWkxadFVuTlVRVnFncTF5RThLeGRadThyRUd5N2lXZVZnb21DZHQwdi14cmlUQnFaaW5tQWZ2WElweDFCckR0UFFvRDRJNzNVRWV3QS12Wm1OWmUtNXlDb3BtMzJnNm1La3pKNUw1MXc5bDRQT3ZQdmpVdEhCS2NiNFNIeHlBVG5kUkZJUXIwMVpxQTdka3MxR0ZrUUtXbFJhOHhRVkxPSWtnczRvM3NOZThiYnhhd1JEZnI4Z1RNcHZEakxaM1VSNkljSHo3QlloeVc1aVc5ZF9kbzd1b25mQU5fdEU5Q2FiZTNVd0M1NE9qN1RYLTVxNmswQ3VJNVpXWXNsaGw5VDYwd0ctMFZiODNuQUhaREJxaEZPTFAtR2l2OHhfQ3FWdnd1Y2NHdUF6emdsdXpNSHdITHpVRWZGMWNEdlI4b2p6X3pSOXdFUFhROWR6MFJIWWl5Vm9NS0phdFc1S2NlZF9SNDJWTnJpZk1qZGhzSVNNcWh3N1RPQ1NUR19PcmpFd3E5c2NlSlA0TUU0TlpQZkFkWi1DdFJzMVRUM3c3bXNZY0lELWRhd1NBZFhXTkZoWkJGckxRWlloRTdzSVVaSElvY2xValFlRGp4U1VYOVBRRWNQWUNZM0liZ2cwdUNDRjMzaGpNY1JJMWlCaE1hQ2pPWjFJOFFkNTZQMUpvM3AzaHBOTDVGRFdRb2NwSGlfMnJ0UGVkZ1MwTTJYY25Tc2tDSjFodFdqTl95MnNBekQ1dG83d2UyVU51b1dsejlVdWV5RV9XUEVLcDFjMTEyNlZ5Ung3QUJuNVhEQUlOdjhmNzI5WG1PakstdVBnMGJCalZsUUdBNDVxT2JrbS0zeVkxSEVnOFE3T19NaWxCalhPVzV5RnBET0VVUUxQN1QtUVdsZV9mU2FQbk5GZw",
+        "time": "2026-09-15 19:09:38"
+      },
+      {
+        "title": "天然氣管線開挖影響漁民生計 張嘉郡要求中油加速核撥補償 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOY2RJdFpxSjlfdmU5ZWJoMlR0Y21hQ1AzMEdiYjh6clZEYllQSTFnMU5sdlRldEVnUEhYNVN4UkY3LVdJQWl6SEZ2ZGRFQjJyOWg4VVpOYXVDNTBORHpjZ1ZPc1N5LWdxNURENjlZcGl3SXo2bWtQNzIyd24wTmEzd0plSHF0bnQ0RnJReHNNdHJSRXRfNlhFVlRZWUcxX2kyaFkxLUNBSFlYSUs0VjNpM3d0SVJ3VDlKNVByZDNxcFVsZGVIdEF4LVNEcGhuX0otYzlMdmp2Q1Q3WW92NnZSNlFoeGlMUXRqbDFTRUMwZVdxdXBxTzFnVk0tTTFpV09WUEFGbGtKNHFkVElKYm8xRV9qeG9sN1lKNEVveWxZbWx4eUJmNWhuRmNKcTNkUUl1UVE3S3JPV2N5dWpndzhtLUVoUzBJd2haVVM5QXFWWVVia1hVQ0sxalFXSTN1X1I4cS1uZ2VmenBLUWRlbFZGWmtRbUtveGQ3eUhpUGR0OFFQSTFvd2dxTldPTk9hRWNoOVZLY3A4LS1IaVYyUmNRWVlB",
+        "time": "2026-09-15 17:47:43"
+      }
+    ],
     "news": [
       {
         "title": "跨縣女力聯手！許淑華力挺張嘉郡謝龍介北上盛讚有魄力、有溫度- 生活新聞- PChome Online 新聞 - PChome Online 新聞",
@@ -657,11 +682,6 @@
         "title": "農民憂排水溝完工被拆 劉建國邀會勘三方達共識 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNSGNoc2tMcVBKenl5RmZhbU8tTnpwQWhtdzI0dGdadGJCTFM3NzRnUDdEY2hpYlFQcG9qdGthazI4bzd5M2RZb0QwNllGdG5rT0RSc3pJUnFIdjcyOFZYOUYyY0s0VldFUWRnRmZYZ0d2cjNTNWV0ZHdDcHFRYl9vaGhGR3YwVmdBUTBnMTQ3THhSTktySm5JWWFGR3ZlZjlJZTBlUWlKczc5TTIwYnpSNWxuOE01dUNZN3R4ak10MENham02SHNOR2ZmNGJpRDNiYUFuWU5aTDMyQzNaaUxNM0dHLTJqaHhPclJhb0NvR19QRkY3NlRUS0o4WjFhSmpzbDBkYldNOWZyaUJkVngyTTAwQnA4OW5MdnZFa2g5cGx4TG1tM0FsTENKNFhNRWdiYl8yZXhsWVYzSnlEeV8xV0RHM0UzN0JQN2t0S18wamQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-15 10:26:58"
-      },
-      {
-        "title": "農民憂排水溝完工被拆 劉建國邀會勘三方達共識 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BTHJrOGlNQjlpZk5Rb0ZBbEV1ZE5XX3hRX2cxbUF4VktnTm5JSGRRMERDLTlFV3dzZmdzdjZEMmdwTnotMU5yQXVGMkJBc1Y3dHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-15 10:04:00"
       }
     ],
     "youtube": [
@@ -674,18 +694,6 @@
         "title": "張嘉郡廟口開講 許淑華謝龍介跨區助講-台灣生活新聞",
         "url": "https://www.youtube.com/watch?v=PG3OgnGGF94",
         "time": "2026-09-15 16:04:15"
-      }
-    ],
-    "facebook": [
-      {
-        "title": "🔥勇敢轉型，新雲林！改變，就拚這一次！🔥 雲林鄉親朋友站出來！ 建國的「競選總本部成立大會」正式登場，邀請大家一起來到現場，逗陣作伙拚！ 活動資訊 時間：9/20（日）15:30 開放進場 地點：斗六棒球場大門前廣場（總本部：斗六市明德北路二段309號斜對面） 這一 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxNNW0zMTJhREF6OXVaa05RYU5OemlwQWFYa1RObEhYV21fZW9JVUp2NjFkYzd1dXlCb1ZKWkpNMUlSZURzX2RLdTExcEphVTZsY0RFeHZ4Z0hLaURzeksxTDUzRkZkdUdkSVhUT25TTXRLTG9yTlpKZ19HNzVyZmNOOGFtZUZEZ3poOWlpdGxRQzRJbEpQNThfYWhsRFFhdnR2dnZWazlIbVpnUWhVQmE5ZFU2OGlORXZheWotNzBsanN6VGM4NDBpNkIwaE11aGpEYlhneTJjR3huMVJ6aDJzaU84Vm9QZkJWTzNOX3lYSUtaWnlYdV9HeHNDZ01ha2RSLTlVclVVZTBvS1NDTDk4T3BQWlFFMkk1dDJtZGxNYlQ4RG1aZnJkMGphdTFEWkxadFVuTlVRVnFncTF5RThLeGRadThyRUd5N2lXZVZnb21DZHQwdi14cmlUQnFaaW5tQWZ2WElweDFCckR0UFFvRDRJNzNVRWV3QS12Wm1OWmUtNXlDb3BtMzJnNm1La3pKNUw1MXc5bDRQT3ZQdmpVdEhCS2NiNFNIeHlBVG5kUkZJUXIwMVpxQTdka3MxR0ZrUUtXbFJhOHhRVkxPSWtnczRvM3NOZThiYnhhd1JEZnI4Z1RNcHZEakxaM1VSNkljSHo3QlloeVc1aVc5ZF9kbzd1b25mQU5fdEU5Q2FiZTNVd0M1NE9qN1RYLTVxNmswQ3VJNVpXWXNsaGw5VDYwd0ctMFZiODNuQUhaREJxaEZPTFAtR2l2OHhfQ3FWdnd1Y2NHdUF6emdsdXpNSHdITHpVRWZGMWNEdlI4b2p6X3pSOXdFUFhROWR6MFJIWWl5Vm9NS0phdFc1S2NlZF9SNDJWTnJpZk1qZGhzSVNNcWh3N1RPQ1NUR19PcmpFd3E5c2NlSlA0TUU0TlpQZkFkWi1DdFJzMVRUM3c3bXNZY0lELWRhd1NBZFhXTkZoWkJGckxRWlloRTdzSVVaSElvY2xValFlRGp4U1VYOVBRRWNQWUNZM0liZ2cwdUNDRjMzaGpNY1JJMWlCaE1hQ2pPWjFJOFFkNTZQMUpvM3AzaHBOTDVGRFdRb2NwSGlfMnJ0UGVkZ1MwTTJYY25Tc2tDSjFodFdqTl95MnNBekQ1dG83d2UyVU51b1dsejlVdWV5RV9XUEVLcDFjMTEyNlZ5Ung3QUJuNVhEQUlOdjhmNzI5WG1PakstdVBnMGJCalZsUUdBNDVxT2JrbS0zeVkxSEVnOFE3T19NaWxCalhPVzV5RnBET0VVUUxQN1QtUVdsZV9mU2FQbk5GZw",
-        "time": "2026-09-15 19:09:38"
-      },
-      {
-        "title": "天然氣管線開挖影響漁民生計 張嘉郡要求中油加速核撥補償 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOY2RJdFpxSjlfdmU5ZWJoMlR0Y21hQ1AzMEdiYjh6clZEYllQSTFnMU5sdlRldEVnUEhYNVN4UkY3LVdJQWl6SEZ2ZGRFQjJyOWg4VVpOYXVDNTBORHpjZ1ZPc1N5LWdxNURENjlZcGl3SXo2bWtQNzIyd24wTmEzd0plSHF0bnQ0RnJReHNNdHJSRXRfNlhFVlRZWUcxX2kyaFkxLUNBSFlYSUs0VjNpM3d0SVJ3VDlKNVByZDNxcFVsZGVIdEF4LVNEcGhuX0otYzlMdmp2Q1Q3WW92NnZSNlFoeGlMUXRqbDFTRUMwZVdxdXBxTzFnVk0tTTFpV09WUEFGbGtKNHFkVElKYm8xRV9qeG9sN1lKNEVveWxZbWx4eUJmNWhuRmNKcTNkUUl1UVE3S3JPV2N5dWpndzhtLUVoUzBJd2haVVM5QXFWWVVia1hVQ0sxalFXSTN1X1I4cS1uZ2VmenBLUWRlbFZGWmtRbUtveGQ3eUhpUGR0OFFQSTFvd2dxTldPTk9hRWNoOVZLY3A4LS1IaVYyUmNRWVlB",
-        "time": "2026-09-15 17:47:43"
       }
     ]
   },
@@ -694,8 +702,8 @@
     "劉建國": 5
   },
   "mention_compare_7d": {
-    "張嘉郡": 152,
-    "劉建國": 82
+    "張嘉郡": 153,
+    "劉建國": 83
   },
   "top_news": [
     {
@@ -863,6 +871,11 @@
   ],
   "latest_facebook_20": [
     {
+      "title": "親愛的朋友，9月20日這個禮拜日，建國和 林慧如 鄉長競選總部在古坑正式成立！ 誠摯邀請您蒞臨與會，一起為新雲林加油。 【古坑競選總部成立大會】 📅 時間：9月20日（日）10：00 📍 地點：古坑鄉西平路41-3號 讓我們一起勇敢轉型，創造屬於雲林的美好未來！ #勇敢轉 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMimgdBVV95cUxOOEpwRVFNRjlSMW16WDBfdXlKZ0xEQ3VxcXU0UEluY3A0dWZkSnRReG5TVEhwZGctLXNKWE5WcW0wdzNEOFFtRUl0Q0ZfM25HZUoyMUt0SlVPNHFuVWF3Y2pEc2VySXc3ZW5TT0pVOTVnV3dNbTZKTFB2LUE1RTZfZDcyWTlsS0hHWGRGOHdOY2ZtRUhGdDZlOFpKd2dXT2RrcWNobHZDZ0hBaWtNZ2tjbmZGTmVod3pHOTEzWFdFOUhtSXMzTGxGaDU1YUtXWUtoLWV5Wk1FZ09OMjJvcGZNMmItdUZkN191SGtOODBQMEI1bEdRd2liYmRCUUFGcGdkZ3dZNUtVRmxXRkRHVUhIU2Z4dXRPV21vQV8zTzhKR1dTZmpZaVF1Z2N5WnBfSjVZNnhxRFBoVUo0RHZNQmJFdjRMQmU2RnFpX256WU9heVptRXVXTkxBNjluLVRIZEQ3SG0tOG9XTVIyTDVoLXZGN2dHYVhBMHRHWWJmYktmZDJ0SEdJb2RLZTFKQmRKNFN2NTcycE9KdTkzYzRid1FvVHg2NWViZndBdG9DOVpzR1Q1VGFzTnZLLTBEZ3lNVUlwMTV2czdLbTJCdTVEZlA2WHIzdTRYZDhRS1RpbWx0NmJpRnN2SUF6Rk5yUXpLb2hpM1RzdzNVZy1WeEhZMkN2Qk83a3dwNHZWVGM2V0ZwTFRvODRzQmN4eXJvNTEzS1BXX3RoX0xXSHBxY3d4WWpmR3NocXhWczU0Tl90MW56RktkNUY4VkR2SFYxWlF6VEFNRDFFN2N6TDktTVhBZGhySnRpT0NVUVRZYmk3X19xMjFmcnRTdjlINWlHNDNLUjdESXR5NTZzQ0R5amZROUhHeXJucEEwcmlrVW5OVlozeGpPUWNEMS1FT2FRQVNUUks0TlNCcnZaaHpteUpHSjROSGQyQXdqcW5wWWxNd3k1clp5Nlpqb3NfZGpURlFmb2dLNHZJN2N2LWRCVmh5MW8tblQ0OFhTbG9naU1jNHg4RXJPMUpmMmdNUDFmN1BINmlfcjUwSE1rYVZkaWVxTld4YjZ2ZHhvdHE5VDh0c3JMUXhyOEJHZWJJT1BFVXIwYWRRcHUwcjI4bWRkSXJfQW94NG5fOXJjTVM0NE0wQVJsVkhJVGdQN0p3Nm5qMG81VnZYVkpNakgwaFNoaENTeHpBVjBPb3FieTlKcmtLUFR3b29hRnJib0xrQlpn",
+      "time": "2026-09-16 09:30:05"
+    },
+    {
       "title": "🔥勇敢轉型，新雲林！改變，就拚這一次！🔥 雲林鄉親朋友站出來！ 建國的「競選總本部成立大會」正式登場，邀請大家一起來到現場，逗陣作伙拚！ 活動資訊 時間：9/20（日）15:30 開放進場 地點：斗六棒球場大門前廣場（總本部：斗六市明德北路二段309號斜對面） 這一 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxNNW0zMTJhREF6OXVaa05RYU5OemlwQWFYa1RObEhYV21fZW9JVUp2NjFkYzd1dXlCb1ZKWkpNMUlSZURzX2RLdTExcEphVTZsY0RFeHZ4Z0hLaURzeksxTDUzRkZkdUdkSVhUT25TTXRLTG9yTlpKZ19HNzVyZmNOOGFtZUZEZ3poOWlpdGxRQzRJbEpQNThfYWhsRFFhdnR2dnZWazlIbVpnUWhVQmE5ZFU2OGlORXZheWotNzBsanN6VGM4NDBpNkIwaE11aGpEYlhneTJjR3huMVJ6aDJzaU84Vm9QZkJWTzNOX3lYSUtaWnlYdV9HeHNDZ01ha2RSLTlVclVVZTBvS1NDTDk4T3BQWlFFMkk1dDJtZGxNYlQ4RG1aZnJkMGphdTFEWkxadFVuTlVRVnFncTF5RThLeGRadThyRUd5N2lXZVZnb21DZHQwdi14cmlUQnFaaW5tQWZ2WElweDFCckR0UFFvRDRJNzNVRWV3QS12Wm1OWmUtNXlDb3BtMzJnNm1La3pKNUw1MXc5bDRQT3ZQdmpVdEhCS2NiNFNIeHlBVG5kUkZJUXIwMVpxQTdka3MxR0ZrUUtXbFJhOHhRVkxPSWtnczRvM3NOZThiYnhhd1JEZnI4Z1RNcHZEakxaM1VSNkljSHo3QlloeVc1aVc5ZF9kbzd1b25mQU5fdEU5Q2FiZTNVd0M1NE9qN1RYLTVxNmswQ3VJNVpXWXNsaGw5VDYwd0ctMFZiODNuQUhaREJxaEZPTFAtR2l2OHhfQ3FWdnd1Y2NHdUF6emdsdXpNSHdITHpVRWZGMWNEdlI4b2p6X3pSOXdFUFhROWR6MFJIWWl5Vm9NS0phdFc1S2NlZF9SNDJWTnJpZk1qZGhzSVNNcWh3N1RPQ1NUR19PcmpFd3E5c2NlSlA0TUU0TlpQZkFkWi1DdFJzMVRUM3c3bXNZY0lELWRhd1NBZFhXTkZoWkJGckxRWlloRTdzSVVaSElvY2xValFlRGp4U1VYOVBRRWNQWUNZM0liZ2cwdUNDRjMzaGpNY1JJMWlCaE1hQ2pPWjFJOFFkNTZQMUpvM3AzaHBOTDVGRFdRb2NwSGlfMnJ0UGVkZ1MwTTJYY25Tc2tDSjFodFdqTl95MnNBekQ1dG83d2UyVU51b1dsejlVdWV5RV9XUEVLcDFjMTEyNlZ5Ung3QUJuNVhEQUlOdjhmNzI5WG1PakstdVBnMGJCalZsUUdBNDVxT2JrbS0zeVkxSEVnOFE3T19NaWxCalhPVzV5RnBET0VVUUxQN1QtUVdsZV9mU2FQbk5GZw",
       "time": "2026-09-15 19:09:38"
@@ -956,11 +969,6 @@
       "title": "大罷免曾安排公開感謝蘇治芬卻告吹 蘇幕僚嘆雲林綠營難團結 #雲林虎尾 #蘇治芬 #劉建國 #民進黨 #2026地方選舉 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMiiAVBVV95cUxNczZySDFzYWk0Q2FaMTR3eE0xNktVSE5ocG9qY3VkaEtzSlZiQTRReENhd2dBVlZ1aFN3TDRyaXp2ZktDU2pHUEFGcXY1VzJ3NldWS09qU3VqS1pCTGE1ckZZXzQyaUhROWtYb2hDSkhWblQ5R185U3FQbTlqQU9TMlhqTU9JZHludm5jOG84VUtxV0NXV19LaXJpRnpYbTA0Uk44VlNtOWpYRklJVHNpaUJIWmo4UTBseUdvakQ3ZDhFQUhmc2NUb0Uza3ZDWlZUOEduajJ0Z1BFSUdvTWE4aURLTExUckdsUEszUGIxeXIzeVJsd2M4TVZtcmV5RkQ3UmJ3TURmSzlzUWRrRjVnVG9NLXd1M3d0U3NkNGltQ3FyVkdUWFZ4bHpnTTVrbWlxSjQyYWd5eVBBQ2QtWldlUldDNVJYemUtRjk1YUdWUVVGN2RDVm9wU0lob19ZbFRPVEtLX1BhcmhRQlRrMzRZRENBUHZPWTRLbmIzRXEwSmtMVko1NEQwa0t6eTRMOU1TS1RIOU5BWG9QamdEMDRMbzNqWllFcVZrY2s5Y19Pb2ktbTRUeGZrbmxIbkEtLWZwLURmUlhYTEUwYjFmNkJaRFEtSDhQeGk3M3padnVHMnNwcE1JNHU5Zi1rU2dOay1Kb2F1RGtkRWFPQ0t4TnZUZ1lJSk5FVm5TS3BybG9Wa2J2M1pDaEQ5RFdnc2xTWFBrNTNOZmZRRlVOV1d1dE1VX2hZTXF4MEtmTTF0THNuTjk1alhPZkNhYXlmblRVaDNCOEFNUV94X19hNjVmYnFBTm0zaWl5czVlblN4Q2UtZ2pzMFpnczZLS21Pd0tlM3IwSEVqLUxfMzM",
       "time": "2026-09-09 16:51:54"
-    },
-    {
-      "title": "#咱的雲林新的世代✨ #嘉郡出發嘉速前進🚀 新的聲音、新的夥伴、新的力量，今天正式集結❗️ 嘉郡很開心向大家介紹兩位新戰友🤗 #全國十大模範農民、莿桐「#空心菜達人」#林春生，擔任競選總幹事；投入循環永續、智慧農業的「#農場晃晃」創辦人 #陳柏吟，擔任副總幹 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxPVHhuVWFhVWdaYjRpY0lXOTR5NTlFbUlCR1ZoY1RtMVhaT2FROGU4RDljb3c1MmRqT3h6QVNFQlc0TXBic3A4MHFsZ21XYXV0RGkzRGVnY2hxSjNhOE5sWXNlLURGcU91dU5FMnpsckhsT1luTmQwSW90aHd6Y01LczR4NnpWNEpoVUFYSmpzSTJRNzAxT3FsNHJlT0lrcWYzaS1aNm4yUzNMOEM3ODZJQXlrTVQzMDlZNXA0aWV0Z0l4RE9vNUJEd1VwUFZSdnRMQ3J1QXV4ckMzMlJmQlRINWtmb0s5TDBvTzNfV1FBaFE3WlB4dXdKRDlRQ1l5bDhJS21CMUVzQ2lqNmplNXpMV3puc1BmYzZmMmlGSHQ5WWI3YnFwcUxqOUYxOHYtSzN3dUlyaVU1ZDBEcmlLRmJkUDcxX1llNDFzR2FxTmx6Z2QxMTZIOS1oV1NjMDRMOUI3Uk9SaWxGdkRRWVktNGNWOE1rYkUteGthdnlEbXRSNjJKNEsteWIyY3c5OU1PV2dHQzd6dXVZTmtUd21IaXpERTZvNUw5OXIyQWMxTHZ0TWd0VVFrMjBoTm03ZHFmQ1dJYlUyNlVxVFNfTW9ad01YbFBWQzNLbGhGeVdzbEFEaGlGZU1QekR4eWt1MU9CM1NqaUtyenNyYURBQWRVT1RjbkY2d1ZsUFNkUDlfXzZCczI4LWRjT0FYTGxLakVocW1qRTlWRFhRTVlYdDBqbVpxNV9IY2FuSEZMWXAwY3d1RWxRMFRIMFAxMmlNTHJSV2JOWWxWcG9tcHVoRkhTVTRxUGRXck5LLXFJQ3piSnhTWURscG15RzFITl9PaXJKeUhTX3F1cGJ2UmM3eGlkUjI1QXlVVDNYMkEtdW5FZG1HM0dYWXE5aXhHSW00MVFEbE9SOGxaSU5FYUdEejBhTXJYOXZvWDFUOXg3V1FJOVJ1ZXJkVVRQZDBPSVNHdkZWWDlhSVdnaWY1TlVHbHJQNXdlSGJsSnpEeWplVGRnNDdvZlVZMGZadVIwREtkcl94Vzl4OTBzX2hzVGZVeUY1VjZxdFl2Q0dzajhhM1VOOUI3MmhQdFhXcFNXZDk4SmZnbFd4MUFTcmNrbEdwMHMtUkh2aXA1aFR0RDItOGtaVEY0cVd1U1htX21WQkpBMHkwUVNRN1RhOVloZERVRjVPeDZZVkV5dm5ZOU1jVXR1T2kzQm5OUnZGNVZkLVNaQWdrVUZzMlJzZlhLT0VWM1hkZjVIV1M1eXI0VHFic2JheTJkRUxlSmUxYm5VelU4ekxmaXdFQVJBc3N1SGpxNTkzOUhuZU11cE1FbWtJN0ZJY1RYcy04dGRvbVFPSDFzTlluRThsVHNaYWlnUmxidnpINmVBYUg1c1dLU1JaaTNmMldmLVdrYkxxdTBpTnVCYzNkZU0",
-      "time": "2026-09-09 11:50:09"
     }
   ],
   "latest_news_20": [
@@ -1585,11 +1593,6 @@
         "title": "農民憂排水溝完工被拆 劉建國邀會勘三方達共識 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNSGNoc2tMcVBKenl5RmZhbU8tTnpwQWhtdzI0dGdadGJCTFM3NzRnUDdEY2hpYlFQcG9qdGthazI4bzd5M2RZb0QwNllGdG5rT0RSc3pJUnFIdjcyOFZYOUYyY0s0VldFUWRnRmZYZ0d2cjNTNWV0ZHdDcHFRYl9vaGhGR3YwVmdBUTBnMTQ3THhSTktySm5JWWFGR3ZlZjlJZTBlUWlKczc5TTIwYnpSNWxuOE01dUNZN3R4ak10MENham02SHNOR2ZmNGJpRDNiYUFuWU5aTDMyQzNaaUxNM0dHLTJqaHhPclJhb0NvR19QRkY3NlRUS0o4WjFhSmpzbDBkYldNOWZyaUJkVngyTTAwQnA4OW5MdnZFa2g5cGx4TG1tM0FsTENKNFhNRWdiYl8yZXhsWVYzSnlEeV8xV0RHM0UzN0JQN2t0S18wamQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-15 10:26:58"
-      },
-      {
-        "title": "農民憂排水溝完工被拆 劉建國邀會勘三方達共識 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BTHJrOGlNQjlpZk5Rb0ZBbEV1ZE5XX3hRX2cxbUF4VktnTm5JSGRRMERDLTlFV3dzZmdzdjZEMmdwTnotMU5yQXVGMkJBc1Y3dHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-15 10:04:00"
       }
     ],
     "youtube": [
@@ -1615,6 +1618,11 @@
       }
     ],
     "facebook": [
+      {
+        "title": "親愛的朋友，9月20日這個禮拜日，建國和 林慧如 鄉長競選總部在古坑正式成立！ 誠摯邀請您蒞臨與會，一起為新雲林加油。 【古坑競選總部成立大會】 📅 時間：9月20日（日）10：00 📍 地點：古坑鄉西平路41-3號 讓我們一起勇敢轉型，創造屬於雲林的美好未來！ #勇敢轉 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMimgdBVV95cUxOOEpwRVFNRjlSMW16WDBfdXlKZ0xEQ3VxcXU0UEluY3A0dWZkSnRReG5TVEhwZGctLXNKWE5WcW0wdzNEOFFtRUl0Q0ZfM25HZUoyMUt0SlVPNHFuVWF3Y2pEc2VySXc3ZW5TT0pVOTVnV3dNbTZKTFB2LUE1RTZfZDcyWTlsS0hHWGRGOHdOY2ZtRUhGdDZlOFpKd2dXT2RrcWNobHZDZ0hBaWtNZ2tjbmZGTmVod3pHOTEzWFdFOUhtSXMzTGxGaDU1YUtXWUtoLWV5Wk1FZ09OMjJvcGZNMmItdUZkN191SGtOODBQMEI1bEdRd2liYmRCUUFGcGdkZ3dZNUtVRmxXRkRHVUhIU2Z4dXRPV21vQV8zTzhKR1dTZmpZaVF1Z2N5WnBfSjVZNnhxRFBoVUo0RHZNQmJFdjRMQmU2RnFpX256WU9heVptRXVXTkxBNjluLVRIZEQ3SG0tOG9XTVIyTDVoLXZGN2dHYVhBMHRHWWJmYktmZDJ0SEdJb2RLZTFKQmRKNFN2NTcycE9KdTkzYzRid1FvVHg2NWViZndBdG9DOVpzR1Q1VGFzTnZLLTBEZ3lNVUlwMTV2czdLbTJCdTVEZlA2WHIzdTRYZDhRS1RpbWx0NmJpRnN2SUF6Rk5yUXpLb2hpM1RzdzNVZy1WeEhZMkN2Qk83a3dwNHZWVGM2V0ZwTFRvODRzQmN4eXJvNTEzS1BXX3RoX0xXSHBxY3d4WWpmR3NocXhWczU0Tl90MW56RktkNUY4VkR2SFYxWlF6VEFNRDFFN2N6TDktTVhBZGhySnRpT0NVUVRZYmk3X19xMjFmcnRTdjlINWlHNDNLUjdESXR5NTZzQ0R5amZROUhHeXJucEEwcmlrVW5OVlozeGpPUWNEMS1FT2FRQVNUUks0TlNCcnZaaHpteUpHSjROSGQyQXdqcW5wWWxNd3k1clp5Nlpqb3NfZGpURlFmb2dLNHZJN2N2LWRCVmh5MW8tblQ0OFhTbG9naU1jNHg4RXJPMUpmMmdNUDFmN1BINmlfcjUwSE1rYVZkaWVxTld4YjZ2ZHhvdHE5VDh0c3JMUXhyOEJHZWJJT1BFVXIwYWRRcHUwcjI4bWRkSXJfQW94NG5fOXJjTVM0NE0wQVJsVkhJVGdQN0p3Nm5qMG81VnZYVkpNakgwaFNoaENTeHpBVjBPb3FieTlKcmtLUFR3b29hRnJib0xrQlpn",
+        "time": "2026-09-16 09:30:05"
+      },
       {
         "title": "🔥勇敢轉型，新雲林！改變，就拚這一次！🔥 雲林鄉親朋友站出來！ 建國的「競選總本部成立大會」正式登場，邀請大家一起來到現場，逗陣作伙拚！ 活動資訊 時間：9/20（日）15:30 開放進場 地點：斗六棒球場大門前廣場（總本部：斗六市明德北路二段309號斜對面） 這一 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxNNW0zMTJhREF6OXVaa05RYU5OemlwQWFYa1RObEhYV21fZW9JVUp2NjFkYzd1dXlCb1ZKWkpNMUlSZURzX2RLdTExcEphVTZsY0RFeHZ4Z0hLaURzeksxTDUzRkZkdUdkSVhUT25TTXRLTG9yTlpKZ19HNzVyZmNOOGFtZUZEZ3poOWlpdGxRQzRJbEpQNThfYWhsRFFhdnR2dnZWazlIbVpnUWhVQmE5ZFU2OGlORXZheWotNzBsanN6VGM4NDBpNkIwaE11aGpEYlhneTJjR3huMVJ6aDJzaU84Vm9QZkJWTzNOX3lYSUtaWnlYdV9HeHNDZ01ha2RSLTlVclVVZTBvS1NDTDk4T3BQWlFFMkk1dDJtZGxNYlQ4RG1aZnJkMGphdTFEWkxadFVuTlVRVnFncTF5RThLeGRadThyRUd5N2lXZVZnb21DZHQwdi14cmlUQnFaaW5tQWZ2WElweDFCckR0UFFvRDRJNzNVRWV3QS12Wm1OWmUtNXlDb3BtMzJnNm1La3pKNUw1MXc5bDRQT3ZQdmpVdEhCS2NiNFNIeHlBVG5kUkZJUXIwMVpxQTdka3MxR0ZrUUtXbFJhOHhRVkxPSWtnczRvM3NOZThiYnhhd1JEZnI4Z1RNcHZEakxaM1VSNkljSHo3QlloeVc1aVc5ZF9kbzd1b25mQU5fdEU5Q2FiZTNVd0M1NE9qN1RYLTVxNmswQ3VJNVpXWXNsaGw5VDYwd0ctMFZiODNuQUhaREJxaEZPTFAtR2l2OHhfQ3FWdnd1Y2NHdUF6emdsdXpNSHdITHpVRWZGMWNEdlI4b2p6X3pSOXdFUFhROWR6MFJIWWl5Vm9NS0phdFc1S2NlZF9SNDJWTnJpZk1qZGhzSVNNcWh3N1RPQ1NUR19PcmpFd3E5c2NlSlA0TUU0TlpQZkFkWi1DdFJzMVRUM3c3bXNZY0lELWRhd1NBZFhXTkZoWkJGckxRWlloRTdzSVVaSElvY2xValFlRGp4U1VYOVBRRWNQWUNZM0liZ2cwdUNDRjMzaGpNY1JJMWlCaE1hQ2pPWjFJOFFkNTZQMUpvM3AzaHBOTDVGRFdRb2NwSGlfMnJ0UGVkZ1MwTTJYY25Tc2tDSjFodFdqTl95MnNBekQ1dG83d2UyVU51b1dsejlVdWV5RV9XUEVLcDFjMTEyNlZ5Ung3QUJuNVhEQUlOdjhmNzI5WG1PakstdVBnMGJCalZsUUdBNDVxT2JrbS0zeVkxSEVnOFE3T19NaWxCalhPVzV5RnBET0VVUUxQN1QtUVdsZV9mU2FQbk5GZw",
@@ -1832,6 +1840,11 @@
     ],
     "facebook": [
       {
+        "title": "親愛的朋友，9月20日這個禮拜日，建國和 林慧如 鄉長競選總部在古坑正式成立！ 誠摯邀請您蒞臨與會，一起為新雲林加油。 【古坑競選總部成立大會】 📅 時間：9月20日（日）10：00 📍 地點：古坑鄉西平路41-3號 讓我們一起勇敢轉型，創造屬於雲林的美好未來！ #勇敢轉 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMimgdBVV95cUxOOEpwRVFNRjlSMW16WDBfdXlKZ0xEQ3VxcXU0UEluY3A0dWZkSnRReG5TVEhwZGctLXNKWE5WcW0wdzNEOFFtRUl0Q0ZfM25HZUoyMUt0SlVPNHFuVWF3Y2pEc2VySXc3ZW5TT0pVOTVnV3dNbTZKTFB2LUE1RTZfZDcyWTlsS0hHWGRGOHdOY2ZtRUhGdDZlOFpKd2dXT2RrcWNobHZDZ0hBaWtNZ2tjbmZGTmVod3pHOTEzWFdFOUhtSXMzTGxGaDU1YUtXWUtoLWV5Wk1FZ09OMjJvcGZNMmItdUZkN191SGtOODBQMEI1bEdRd2liYmRCUUFGcGdkZ3dZNUtVRmxXRkRHVUhIU2Z4dXRPV21vQV8zTzhKR1dTZmpZaVF1Z2N5WnBfSjVZNnhxRFBoVUo0RHZNQmJFdjRMQmU2RnFpX256WU9heVptRXVXTkxBNjluLVRIZEQ3SG0tOG9XTVIyTDVoLXZGN2dHYVhBMHRHWWJmYktmZDJ0SEdJb2RLZTFKQmRKNFN2NTcycE9KdTkzYzRid1FvVHg2NWViZndBdG9DOVpzR1Q1VGFzTnZLLTBEZ3lNVUlwMTV2czdLbTJCdTVEZlA2WHIzdTRYZDhRS1RpbWx0NmJpRnN2SUF6Rk5yUXpLb2hpM1RzdzNVZy1WeEhZMkN2Qk83a3dwNHZWVGM2V0ZwTFRvODRzQmN4eXJvNTEzS1BXX3RoX0xXSHBxY3d4WWpmR3NocXhWczU0Tl90MW56RktkNUY4VkR2SFYxWlF6VEFNRDFFN2N6TDktTVhBZGhySnRpT0NVUVRZYmk3X19xMjFmcnRTdjlINWlHNDNLUjdESXR5NTZzQ0R5amZROUhHeXJucEEwcmlrVW5OVlozeGpPUWNEMS1FT2FRQVNUUks0TlNCcnZaaHpteUpHSjROSGQyQXdqcW5wWWxNd3k1clp5Nlpqb3NfZGpURlFmb2dLNHZJN2N2LWRCVmh5MW8tblQ0OFhTbG9naU1jNHg4RXJPMUpmMmdNUDFmN1BINmlfcjUwSE1rYVZkaWVxTld4YjZ2ZHhvdHE5VDh0c3JMUXhyOEJHZWJJT1BFVXIwYWRRcHUwcjI4bWRkSXJfQW94NG5fOXJjTVM0NE0wQVJsVkhJVGdQN0p3Nm5qMG81VnZYVkpNakgwaFNoaENTeHpBVjBPb3FieTlKcmtLUFR3b29hRnJib0xrQlpn",
+        "time": "2026-09-16 09:30:05"
+      },
+      {
         "title": "🔥勇敢轉型，新雲林！改變，就拚這一次！🔥 雲林鄉親朋友站出來！ 建國的「競選總本部成立大會」正式登場，邀請大家一起來到現場，逗陣作伙拚！ 活動資訊 時間：9/20（日）15:30 開放進場 地點：斗六棒球場大門前廣場（總本部：斗六市明德北路二段309號斜對面） 這一 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxNNW0zMTJhREF6OXVaa05RYU5OemlwQWFYa1RObEhYV21fZW9JVUp2NjFkYzd1dXlCb1ZKWkpNMUlSZURzX2RLdTExcEphVTZsY0RFeHZ4Z0hLaURzeksxTDUzRkZkdUdkSVhUT25TTXRLTG9yTlpKZ19HNzVyZmNOOGFtZUZEZ3poOWlpdGxRQzRJbEpQNThfYWhsRFFhdnR2dnZWazlIbVpnUWhVQmE5ZFU2OGlORXZheWotNzBsanN6VGM4NDBpNkIwaE11aGpEYlhneTJjR3huMVJ6aDJzaU84Vm9QZkJWTzNOX3lYSUtaWnlYdV9HeHNDZ01ha2RSLTlVclVVZTBvS1NDTDk4T3BQWlFFMkk1dDJtZGxNYlQ4RG1aZnJkMGphdTFEWkxadFVuTlVRVnFncTF5RThLeGRadThyRUd5N2lXZVZnb21DZHQwdi14cmlUQnFaaW5tQWZ2WElweDFCckR0UFFvRDRJNzNVRWV3QS12Wm1OWmUtNXlDb3BtMzJnNm1La3pKNUw1MXc5bDRQT3ZQdmpVdEhCS2NiNFNIeHlBVG5kUkZJUXIwMVpxQTdka3MxR0ZrUUtXbFJhOHhRVkxPSWtnczRvM3NOZThiYnhhd1JEZnI4Z1RNcHZEakxaM1VSNkljSHo3QlloeVc1aVc5ZF9kbzd1b25mQU5fdEU5Q2FiZTNVd0M1NE9qN1RYLTVxNmswQ3VJNVpXWXNsaGw5VDYwd0ctMFZiODNuQUhaREJxaEZPTFAtR2l2OHhfQ3FWdnd1Y2NHdUF6emdsdXpNSHdITHpVRWZGMWNEdlI4b2p6X3pSOXdFUFhROWR6MFJIWWl5Vm9NS0phdFc1S2NlZF9SNDJWTnJpZk1qZGhzSVNNcWh3N1RPQ1NUR19PcmpFd3E5c2NlSlA0TUU0TlpQZkFkWi1DdFJzMVRUM3c3bXNZY0lELWRhd1NBZFhXTkZoWkJGckxRWlloRTdzSVVaSElvY2xValFlRGp4U1VYOVBRRWNQWUNZM0liZ2cwdUNDRjMzaGpNY1JJMWlCaE1hQ2pPWjFJOFFkNTZQMUpvM3AzaHBOTDVGRFdRb2NwSGlfMnJ0UGVkZ1MwTTJYY25Tc2tDSjFodFdqTl95MnNBekQ1dG83d2UyVU51b1dsejlVdWV5RV9XUEVLcDFjMTEyNlZ5Ung3QUJuNVhEQUlOdjhmNzI5WG1PakstdVBnMGJCalZsUUdBNDVxT2JrbS0zeVkxSEVnOFE3T19NaWxCalhPVzV5RnBET0VVUUxQN1QtUVdsZV9mU2FQbk5GZw",
         "time": "2026-09-15 19:09:38"
@@ -1995,6 +2008,13 @@
     "hour": [],
     "day": [
       {
+        "title": "親愛的朋友，9月20日這個禮拜日，建國和 林慧如 鄉長競選總部在古坑正式成立！ 誠摯邀請您蒞臨與會，一起為新雲林加油。 【古坑競選總部成立大會】 📅 時間：9月20日（日）10：00 📍 地點：古坑鄉西平路41-3號 讓我們一起勇敢轉型，創造屬於雲林的美好未來！ #勇敢轉 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMimgdBVV95cUxOOEpwRVFNRjlSMW16WDBfdXlKZ0xEQ3VxcXU0UEluY3A0dWZkSnRReG5TVEhwZGctLXNKWE5WcW0wdzNEOFFtRUl0Q0ZfM25HZUoyMUt0SlVPNHFuVWF3Y2pEc2VySXc3ZW5TT0pVOTVnV3dNbTZKTFB2LUE1RTZfZDcyWTlsS0hHWGRGOHdOY2ZtRUhGdDZlOFpKd2dXT2RrcWNobHZDZ0hBaWtNZ2tjbmZGTmVod3pHOTEzWFdFOUhtSXMzTGxGaDU1YUtXWUtoLWV5Wk1FZ09OMjJvcGZNMmItdUZkN191SGtOODBQMEI1bEdRd2liYmRCUUFGcGdkZ3dZNUtVRmxXRkRHVUhIU2Z4dXRPV21vQV8zTzhKR1dTZmpZaVF1Z2N5WnBfSjVZNnhxRFBoVUo0RHZNQmJFdjRMQmU2RnFpX256WU9heVptRXVXTkxBNjluLVRIZEQ3SG0tOG9XTVIyTDVoLXZGN2dHYVhBMHRHWWJmYktmZDJ0SEdJb2RLZTFKQmRKNFN2NTcycE9KdTkzYzRid1FvVHg2NWViZndBdG9DOVpzR1Q1VGFzTnZLLTBEZ3lNVUlwMTV2czdLbTJCdTVEZlA2WHIzdTRYZDhRS1RpbWx0NmJpRnN2SUF6Rk5yUXpLb2hpM1RzdzNVZy1WeEhZMkN2Qk83a3dwNHZWVGM2V0ZwTFRvODRzQmN4eXJvNTEzS1BXX3RoX0xXSHBxY3d4WWpmR3NocXhWczU0Tl90MW56RktkNUY4VkR2SFYxWlF6VEFNRDFFN2N6TDktTVhBZGhySnRpT0NVUVRZYmk3X19xMjFmcnRTdjlINWlHNDNLUjdESXR5NTZzQ0R5amZROUhHeXJucEEwcmlrVW5OVlozeGpPUWNEMS1FT2FRQVNUUks0TlNCcnZaaHpteUpHSjROSGQyQXdqcW5wWWxNd3k1clp5Nlpqb3NfZGpURlFmb2dLNHZJN2N2LWRCVmh5MW8tblQ0OFhTbG9naU1jNHg4RXJPMUpmMmdNUDFmN1BINmlfcjUwSE1rYVZkaWVxTld4YjZ2ZHhvdHE5VDh0c3JMUXhyOEJHZWJJT1BFVXIwYWRRcHUwcjI4bWRkSXJfQW94NG5fOXJjTVM0NE0wQVJsVkhJVGdQN0p3Nm5qMG81VnZYVkpNakgwaFNoaENTeHpBVjBPb3FieTlKcmtLUFR3b29hRnJib0xrQlpn",
+        "time": "2026-09-16 09:30:05",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
         "title": "跨縣女力聯手！許淑華力挺張嘉郡謝龍介北上盛讚有魄力、有溫度- 生活新聞- PChome Online 新聞 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbFBHeXJLakx1TThUQmRZZW9FeFRWNU5DcHlVczVmLUhBdWJ5a3puRzNOOTFESEtQNUxMeDlFR1dManA0VzlpczljZEkzOHk3UmY3aGVjT1p6MHY4eTU5OFdUa2Fncm1KLVZ5UWR1cUxYaG9yZDV2RWR5SHV1STVzVlZKRFJLdXF2VFQ3bDZ6elJyZTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-16 07:44:52",
@@ -2126,13 +2146,6 @@
         "time": "2026-09-15 16:48:31",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "海底天然氣管線施工衝擊生計 張嘉郡出手替雲林漁民爭補償 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJLS01cnVZQlJXWkJtQXUyX2ZabjVKR29iQUJadlJlSll4cXI3UkJkaU9TUE44V3I0WndaaE8tbWU4VDBwVVEySlA5SE5DOE9kY0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-15 16:48:00",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2140,17 +2153,21 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 9
+        "count": 10
       },
       {
         "name": "斗六",
+        "count": 1
+      },
+      {
+        "name": "古坑",
         "count": 1
       }
     ],
     "groups": [
       {
         "name": "農業族群",
-        "count": 2
+        "count": 1
       }
     ]
   }
