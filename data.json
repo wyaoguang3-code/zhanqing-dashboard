@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-17T23:31:30.431889+00:00",
+  "generated_at": "2026-09-17T23:47:20.880064+00:00",
   "metrics": {
-    "total_24h": 44,
-    "prev_24h": 126,
-    "growth_pct": -65.08,
-    "news_24h": 30,
+    "total_24h": 46,
+    "prev_24h": 125,
+    "growth_pct": -63.2,
+    "news_24h": 32,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 357,
+    "total": 360,
     "prev": 205,
-    "growth_pct": 74.15,
-    "news": 298,
+    "growth_pct": 75.61,
+    "news": 300,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 30
+      "count": 32
     },
     {
       "platform": "facebook",
@@ -42,11 +42,11 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 298
+      "count": 300
     },
     {
       "platform": "facebook",
-      "count": 42
+      "count": 43
     },
     {
       "platform": "youtube",
@@ -112,7 +112,11 @@
     },
     {
       "hour": "2026-09-18 00:00",
-      "count": 3
+      "count": 4
+    },
+    {
+      "hour": "2026-09-18 06:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -382,7 +386,7 @@
     },
     {
       "hour": "2026-09-16 20:00",
-      "count": 6
+      "count": 7
     },
     {
       "hour": "2026-09-16 21:00",
@@ -474,13 +478,17 @@
     },
     {
       "hour": "2026-09-18 00:00",
-      "count": 3
+      "count": 4
+    },
+    {
+      "hour": "2026-09-18 06:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 30
+      "count": 32
     },
     {
       "platform": "facebook",
@@ -493,6 +501,16 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國到台南開「幸福小黃」 想帶回雲林 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQcFRqLUVhSkZuSnVqcEVwSWdoa3J2Zl9SRVc3VVFyeEFrclMxTGN2Qzc5NVNoZkRvYkxGWXdiOG5JSFY5OERhTlNqQ2FMTHBDODc0bzZ2bFVhTUFjY1lnX0luZVI5VENtUF9UOVJCVkx4dkJDak0xampyQVpKQ1hISEJybU5HYjVIZ3ViUDN6Z0QyQ1A3LXdZUXktV2J0V0tBNnlHVU9rU3FEZUQzNTB0ajZJb1RuTHV0aWVNVlRJZGNsX0xQa2lsLTdnS0tUYTMyQ1VmZ3RydlJ0cGpodE1ndnppQ19nRGdGZ0NqS1otcGVmdzdsbTl4OWI4S3hTYTRtc29PNXBrQWlVZEIyTlM3TEo4V2Yxdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-18 06:29:07"
+      },
+      {
+        "title": "討論牆 | 賴清德親任劉建國競總主委 蘇治芬接總督導拚雲林選戰 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGMjRNcHgwc2piNGREVEltUFFGbks5UWk1QmZPSEVKRGw0TldwVHZOYU5fQk1SaUdMcXJYQS04TjNfaTZBVDc3dXkzdGJEZmxCYllweTBNcHRLSW44VEFVNGdpYTk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-18 00:47:35"
+      },
       {
         "title": "劉建國台南\"學習之旅\" 合體黃偉哲.陳亭妃走訪教學現場 - Yahoo",
         "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNM1dxaUEyREFGQXMxLWxxcWJfYWFsSWhyMUtSUERPYnZlWkpJcXE0TGNiaUhwRUlYckFYdEE5blZJbFNkRGRacTFUSmRaMUdBaVNxR0RmZEFLNEo0RjVpRlNoT0w4YXhpNGcyRHdoM2JhMDM1bXloZ0FQZXRscmJNV2xFblF1cUZvZVByMTBkNURtT0R6YjNFWkNMTTFaaUhhelFPV3BoQXp6aHdUcEJTbzV3eHk3YkljY3BBSEMtMEVXQngzSy1kcjAxOUZxLTdDd3BLaHdraW92UlJzU25iWnJaOUFjd045Nm80UDBoVTBrTUFITi12SENxT2czZDJTdkNhM0JNSWVBTExhV1RwcmROeXVOTk1PX2lYaFB4UUp1bVVOQmgtSWFwbmw0cEtNSm1ubVpjS2MyMkEyT3F4eTU5eUhpWGc5ODNmZU9YLTBJSThwM2I0dVhUWmYycHFha0tBUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -717,7 +735,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 30
+      "count": 32
     },
     {
       "platform": "facebook",
@@ -730,6 +748,16 @@
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國到台南開「幸福小黃」 想帶回雲林 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQcFRqLUVhSkZuSnVqcEVwSWdoa3J2Zl9SRVc3VVFyeEFrclMxTGN2Qzc5NVNoZkRvYkxGWXdiOG5JSFY5OERhTlNqQ2FMTHBDODc0bzZ2bFVhTUFjY1lnX0luZVI5VENtUF9UOVJCVkx4dkJDak0xampyQVpKQ1hISEJybU5HYjVIZ3ViUDN6Z0QyQ1A3LXdZUXktV2J0V0tBNnlHVU9rU3FEZUQzNTB0ajZJb1RuTHV0aWVNVlRJZGNsX0xQa2lsLTdnS0tUYTMyQ1VmZ3RydlJ0cGpodE1ndnppQ19nRGdGZ0NqS1otcGVmdzdsbTl4OWI4S3hTYTRtc29PNXBrQWlVZEIyTlM3TEo4V2Yxdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-18 06:29:07"
+      },
+      {
+        "title": "討論牆 | 賴清德親任劉建國競總主委 蘇治芬接總督導拚雲林選戰 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGMjRNcHgwc2piNGREVEltUFFGbks5UWk1QmZPSEVKRGw0TldwVHZOYU5fQk1SaUdMcXJYQS04TjNfaTZBVDc3dXkzdGJEZmxCYllweTBNcHRLSW44VEFVNGdpYTk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-18 00:47:35"
+      },
       {
         "title": "劉建國台南\"學習之旅\" 合體黃偉哲.陳亭妃走訪教學現場 - Yahoo",
         "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNM1dxaUEyREFGQXMxLWxxcWJfYWFsSWhyMUtSUERPYnZlWkpJcXE0TGNiaUhwRUlYckFYdEE5blZJbFNkRGRacTFUSmRaMUdBaVNxR0RmZEFLNEo0RjVpRlNoT0w4YXhpNGcyRHdoM2JhMDM1bXloZ0FQZXRscmJNV2xFblF1cUZvZVByMTBkNURtT0R6YjNFWkNMTTFaaUhhelFPV3BoQXp6aHdUcEJTbzV3eHk3YkljY3BBSEMtMEVXQngzSy1kcjAxOUZxLTdDd3BLaHdraW92UlJzU25iWnJaOUFjd045Nm80UDBoVTBrTUFITi12SENxT2czZDJTdkNhM0JNSWVBTExhV1RwcmROeXVOTk1PX2lYaFB4UUp1bVVOQmgtSWFwbmw0cEtNSm1ubVpjS2MyMkEyT3F4eTU5eUhpWGc5ODNmZU9YLTBJSThwM2I0dVhUWmYycHFha0tBUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -953,13 +981,23 @@
   },
   "mention_compare_24h": {
     "張嘉郡": 11,
-    "劉建國": 33
+    "劉建國": 35
   },
   "mention_compare_7d": {
     "張嘉郡": 175,
-    "劉建國": 192
+    "劉建國": 195
   },
   "top_news": [
+    {
+      "title": "劉建國到台南開「幸福小黃」 想帶回雲林 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQcFRqLUVhSkZuSnVqcEVwSWdoa3J2Zl9SRVc3VVFyeEFrclMxTGN2Qzc5NVNoZkRvYkxGWXdiOG5JSFY5OERhTlNqQ2FMTHBDODc0bzZ2bFVhTUFjY1lnX0luZVI5VENtUF9UOVJCVkx4dkJDak0xampyQVpKQ1hISEJybU5HYjVIZ3ViUDN6Z0QyQ1A3LXdZUXktV2J0V0tBNnlHVU9rU3FEZUQzNTB0ajZJb1RuTHV0aWVNVlRJZGNsX0xQa2lsLTdnS0tUYTMyQ1VmZ3RydlJ0cGpodE1ndnppQ19nRGdGZ0NqS1otcGVmdzdsbTl4OWI4S3hTYTRtc29PNXBrQWlVZEIyTlM3TEo4V2Yxdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-18 06:29:07"
+    },
+    {
+      "title": "討論牆 | 賴清德親任劉建國競總主委 蘇治芬接總督導拚雲林選戰 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGMjRNcHgwc2piNGREVEltUFFGbks5UWk1QmZPSEVKRGw0TldwVHZOYU5fQk1SaUdMcXJYQS04TjNfaTZBVDc3dXkzdGJEZmxCYllweTBNcHRLSW44VEFVNGdpYTk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-18 00:47:35"
+    },
     {
       "title": "劉建國台南\"學習之旅\" 合體黃偉哲.陳亭妃走訪教學現場 - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNM1dxaUEyREFGQXMxLWxxcWJfYWFsSWhyMUtSUERPYnZlWkpJcXE0TGNiaUhwRUlYckFYdEE5blZJbFNkRGRacTFUSmRaMUdBaVNxR0RmZEFLNEo0RjVpRlNoT0w4YXhpNGcyRHdoM2JhMDM1bXloZ0FQZXRscmJNV2xFblF1cUZvZVByMTBkNURtT0R6YjNFWkNMTTFaaUhhelFPV3BoQXp6aHdUcEJTbzV3eHk3YkljY3BBSEMtMEVXQngzSy1kcjAxOUZxLTdDd3BLaHdraW92UlJzU25iWnJaOUFjd045Nm80UDBoVTBrTUFITi12SENxT2czZDJTdkNhM0JNSWVBTExhV1RwcmROeXVOTk1PX2lYaFB4UUp1bVVOQmgtSWFwbmw0cEtNSm1ubVpjS2MyMkEyT3F4eTU5eUhpWGc5ODNmZU9YLTBJSThwM2I0dVhUWmYycHFha0tBUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1009,19 +1047,19 @@
       "title": "影／劉建國台南取經 合體黃偉哲、陳亭妃盼複製「幸福小黃2.0」 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoWEV1S0ZVZzJtUUhpdU5UZzVXZzEyMmFHVlU4dXgzamlPNFRPeFZXUmNyOERFcG1Mdmh3QnFmMVJxRXVVUFBObmtaSnBnY2thUENZ0gFYQVVfeXFMT1RlcThxQXNlLWs3SGlUQzRZZVFIVEVzLS1BOUxvY3V3VUkzQlk2dElKS2FGeXNHandETlpCY28tcllvZUNVNnItUUMxcGI2QnV5clNVX0pCdg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-17 18:21:11"
-    },
-    {
-      "title": "影／劉建國台南取經 合體黃偉哲、陳亭妃盼複製「幸福小黃2.0」 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SQ29LTHVlb1dwWkVzWEs0b1BydlJvcFVuNjV1aE9RbkI1UWxhYVpvMXVzRUxlTXlCM3NiVmJGU1RXMTNsbmwxVURKaDdpRWc0U293aWxWSG0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-17 18:20:00"
-    },
-    {
-      "title": "賴清德宣布接任劉建國競總主委 只有劉建國當選雲林縣才有辦法改變、才能繼續向前 - atanews.net",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SRUEwTWZTUlJEQUNfdkU0SjFNbTM5NmRoWTdCTk5reGJfQ1pjZjI4b3JxLXMwR0w4OFQ4cHRoZ2s5dUxWQjF2dXdoMDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-17 17:27:03"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "劉建國到台南開「幸福小黃」 想帶回雲林 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQcFRqLUVhSkZuSnVqcEVwSWdoa3J2Zl9SRVc3VVFyeEFrclMxTGN2Qzc5NVNoZkRvYkxGWXdiOG5JSFY5OERhTlNqQ2FMTHBDODc0bzZ2bFVhTUFjY1lnX0luZVI5VENtUF9UOVJCVkx4dkJDak0xampyQVpKQ1hISEJybU5HYjVIZ3ViUDN6Z0QyQ1A3LXdZUXktV2J0V0tBNnlHVU9rU3FEZUQzNTB0ajZJb1RuTHV0aWVNVlRJZGNsX0xQa2lsLTdnS0tUYTMyQ1VmZ3RydlJ0cGpodE1ndnppQ19nRGdGZ0NqS1otcGVmdzdsbTl4OWI4S3hTYTRtc29PNXBrQWlVZEIyTlM3TEo4V2Yxdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-18 06:29:07"
+    },
+    {
+      "title": "討論牆 | 賴清德親任劉建國競總主委 蘇治芬接總督導拚雲林選戰 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGMjRNcHgwc2piNGREVEltUFFGbks5UWk1QmZPSEVKRGw0TldwVHZOYU5fQk1SaUdMcXJYQS04TjNfaTZBVDc3dXkzdGJEZmxCYllweTBNcHRLSW44VEFVNGdpYTk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-18 00:47:35"
+    },
     {
       "title": "劉建國台南\"學習之旅\" 合體黃偉哲.陳亭妃走訪教學現場 - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNM1dxaUEyREFGQXMxLWxxcWJfYWFsSWhyMUtSUERPYnZlWkpJcXE0TGNiaUhwRUlYckFYdEE5blZJbFNkRGRacTFUSmRaMUdBaVNxR0RmZEFLNEo0RjVpRlNoT0w4YXhpNGcyRHdoM2JhMDM1bXloZ0FQZXRscmJNV2xFblF1cUZvZVByMTBkNURtT0R6YjNFWkNMTTFaaUhhelFPV3BoQXp6aHdUcEJTbzV3eHk3YkljY3BBSEMtMEVXQngzSy1kcjAxOUZxLTdDd3BLaHdraW92UlJzU25iWnJaOUFjd045Nm80UDBoVTBrTUFITi12SENxT2czZDJTdkNhM0JNSWVBTExhV1RwcmROeXVOTk1PX2lYaFB4UUp1bVVOQmgtSWFwbmw0cEtNSm1ubVpjS2MyMkEyT3F4eTU5eUhpWGc5ODNmZU9YLTBJSThwM2I0dVhUWmYycHFha0tBUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1111,16 +1149,6 @@
       "title": "黃尤美合體許淑華、謝龍介力挺張嘉郡　喊話讓斗六市成雲林重要核心 - 鏡週刊Mirror Media",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91YkFza3VNemJjV3RTbHhPcXJKU1VpNEZUalFFQUZfT2htbFFKX0NMazJJZVV6SkhQVmVwS2h4cHRjeXh0MWpTdGRJZlItcGNodU0yaGNkeGNSS0oybG5ScDNJRdIBaEFVX3lxTE8yOWRUbFV2OVdPeU9lNzdmeUpua2d3azdCSHI1ZGlBc1JwUmZhX2lleHlaQk8xNC1hLVFUZjBEcmRiZUVzNzlZX0lIcUtZMWhWUWFld3lPZzFkc2k3VGVMT1pVMEFxdE5D?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-17 14:50:00"
-    },
-    {
-      "title": "【內幕】陳明文奔走請賴清德壓陣雲林 劉建國、蘇治芬放下心結「尊重總統安排」 - 上報",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pZEFTUXlXTnZHX0RKUVBqSUEwY2NjemxCd0p1ZENqako3WWxrZXd0Ty1NbzF0SXh0aEI5clV6cXJjem02R1VHT1FZbUpUVVEtVTFSODFKN2JfbnY1OHU3UDdRcmFYUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-17 14:40:00"
-    },
-    {
-      "title": "【內幕】陳明文奔走請賴清德壓陣雲林 劉建國、蘇治芬放下心結「尊重總統安排」 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTW5OdVF6eVJkYXFnYy1DNk9yYVZwNzRpZ2pnZEoyZFdnSnBadmozUXFCa1hzR1VVRUJhc0pUZWJ4dGpBQVFUUHBUS292U2dHeVc1M2NBa25zRmFXNDhNWEkyLWZKR1A5dl9YTndCM3RnSGgtNlhBQjdjcjVLZXBBdjFvM1hCWWQ0QlNXQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-17 14:40:00"
     }
   ],
   "latest_facebook_20": [
@@ -1190,6 +1218,11 @@
       "time": "2026-09-16 20:40:46"
     },
     {
+      "title": "劉建國. . 「劉建國的勝選，是全雲林人民的勝利！」 今天行動中常會移師雲林，賴清德 主席親自接下建國競選總部主委，蘇治芬 前縣長出任總督導。 除了蘇前縣長以外，蘇前縣長的團隊，過往所有為了故鄉打拚的力量，今天全員到齊！ ​主席在台上講的那句話直擊人心： - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMimghBVV95cUxOck5NR3djMndwWEU5OG9jVGUteTFhVC1uekF2QW1RM1NTQ1o4VzUxT0JHdjFCYlhBZDMzWVR5Rm9xaFZTWVl3SHZVTkNGYXltYkxOUi1XZGNNVy0tcUNmOXo3eF9YXzBxZTNTWjI2LXgxRVVLbXQ0eTJyTjZGZ0R2UWJuU0tyRi0yQjlLb2pDN2h6cFd4UFU2U3hEa0hzM3prem9tMnB0clJhaUFDbFc2SF9rVW44Z3d6NUlJcERXX0RYUlJZSWxpOEFPZkp4ZVdwNl9Rc2ZyV0ZDZGhhVUE5U05ROXNLZTV5NC1FemctME9nN29RZ1ZNVlVvcGtQZmxGcHRPblpyUDZlcm5ET2tXeHYxM1lrTXY4WmYtS1FKU1hBTVI1UVItTVNMZXJOb1V5WDZBR3RwS2Y0UGc0RG1YODVkR2w1Z1I0NlB3a2hPQW9WazBGUDZBcklhRGRiajMyUEhCNHg2bmNUMjd6ekV4WFpIUUIzOG5nSVJTTzhpWVViWFAzUEk5WWp1QUVGRGRBWE1SdlhHQmI5VFZKeGtxTWQ2c0lLLW1Nd1E0Q2hreVJpTW4wTXIzdkZOelM1WXBtV0FNd0RoSXZncHl1WDlWMm9tbDBQUm15Nm1yVzkwdzZTUl9kbjRhSlkycWVjR1hXMUtiZGhjd3dwYktaX3htS2t2UzJidXNQLUcwZjF3bUNYdXZKWEFIRnJHQW0tYUF6Z1Y0dWF3YTI2N1R3VGQxRDI4S3FTRlJ3aHFuOUIzQThXM2VMUnVsRTMxSGlEM2V1Vkl4NXI5NGZLTzNjZTVBYzJ3U3RaTEhVRVlScnNCWkR1SnFTaHRUYy1ZYU9ET19IYmhpdUVKLUMzRVd3OHhpb3dLQ1RvVDFTMnVXOU9OeXF4c3dNa2NaZ0dMUUpDU0dYR3FuRUt6R243NmFkRXdlMmdjVWpGVHZ1ZFd2dUlWQWNYQUJfZUJzWUZvclF5SkdnMjYtYTFDbU5CejVyX0ZTajRGekwzaFp6SmZGZWpZSURnOE1TaXNwTnBuLVVURG9hZkx6VzhSRURIdmtvUVVuNkU2elhNUmFFOUFnVkIwUmZjdXh0MjdDWHVzSmJldGt6QzFVNW95b3RESzZLUjh0ako4XzY1MVh3WjdibURzY3BXSFQ2bGtkVGVxQUpvZm5nZUZ6UGt0Q3dvU3U0dXZfTk5HRW5EX0h0cXNuTzFoT1Z4V0J0emliNXY2czV2RURFYWJoTTU1T0plWnpQOFYtRVRoUHd4UkVKUnMwWjlYYnA0ek00bnRGdFFuN0NWbzNIX3RRU3VwT0ZEUENwX0dpNnRad0RpMDQwWEdPc2hfcGlFeHN6eDdJaWt5azlrcHdaOU5sTE9aWHNaS2pRamN0MnlDMzNYd2V2Q2c",
+      "time": "2026-09-16 20:28:45"
+    },
+    {
       "title": "〔＊正聲廣播雲林台＊〕 【最強助選員，賴清德宣布接任劉建國競總主委】 本台記者佩佩/麥寮採訪報導 隨著年底九合一地方大選進入黃金衝刺階段，民主進步黨今（9/16）將「行動中常會」移師 #雲林 #麥寮社教園區 舉辦；黨主席賴清德率領全體中常委全員到齊，全力為雲林 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi7gdBVV95cUxPQjRhYS0tcTJCQ05Xd3NoVkNQSUxhRXdYQlNkTnNnV2NIX3ZIa2FtZ2kxZVBrY0RnTXBvNGp1Uy1sdUFfZXlKdV9Rb1dvWmkybi02X2Jpa1NmYlI0SG50aTgzRUNMbHhyM19IUmxhbEdJbFVZMmd3SkEwYU1RRGFPRmNrRzVheUNienc3NFIweEdMRnFTRWRkMDg3RXhZeTJWdFNfVDAxN2w5dXlEVmRvYVBrMEZ5X1pPeS1QbGswNHpFV0RxeVJXN2dDNjYxQmZEVVN6clgwQ2lFRHVKMnpzeHVpZE1hb2J6TEhfTzVxTzdwYlFKLXZNYUMySmQ5enl1SER0aktyQ0U0NEtYdEd5dEhCTTR0aGV6U05fVHJZR21OMkhlcWxYcTl5ZGJ6aGFhSzhPVFFvMkxOWlgzMnduWGNfNWN0VUg0SEN0c0lyMlZGbUtrdWRSaENXQVRobHFDam8yYWthdkphQ2Nlc2pFUU9wVWJBQmdoQ09zTjBrRUhHS0Q3UjBRX1pQbnRxY0hYZHlfREJqUTBJVlhEQjZFQTA0NkYzbktWS3ZhT3NJOG13RDM4S2lFbmRYakIzMDZuUWxYMnBRODRKYTlLd21FalVFb1FNQTFjd3VLaldoTmZ6VFpFTXI3ODJPSGt2NnRWUG5WOEwzd09ZcHRmZmRENDZXbEVWM2F3Z1BUSTFSQzBRNlhkSE1lZ0F5c1pRRmt6V0NwNDA3ckYzVXZ5cTBOMzJrV1lrb05LV2xxdFZ5QWkycGhYZDF1Vk9MV1ZQZjNpYTY4UERmdzlEeVVaNmoxQmRzb1ExVFlsYlh5YTJYbzVvU1FOUWtNWG9uaTZsZkVfRFh2X2ozSEJXVTZoYXhGck8wR1RwTE5jOWUxWlFlZzRPNkNtcVpKZ2hGeFAzMGdqeHpRNnJ3VmdGUTJSMm1PcWwtNGdiMVlCRmFWREo0QUVKUHljLTJQVl9iMnptSTFpUjVGZW9fVERKMFZNUEV0SkpqUWx6U0NMeW5LY2ZCNVltdGc0MGZSdTgtQnF0N1hmdFBCTmdOMlg5VUh1UkFJSk5sZ2lBMWY1UktfMHR1V1BJV2NOSFk4VHlrZHAzejFlM0R1bXVZWFNjMnY4NmxaR2F5aHZHdEp3bUdkR2JhY0xSY2x1Rnp4bzRDMFBoQmJVcHJCTVRVN0dPTG5Ua1N1THNQaTV1Z2FZM3ctMDF6Z3loRVcxMTF0VENhQzBPN1ZsS0NneVN0N0QwbkRzQnlJYUNqUHZUbXlhTmZLNFQyVk81dm5VYXFBX2E1U2k5cVA3bV80RnREMXhFQjdBN3huVlVSb1d5LUtJMnRnREp3",
       "time": "2026-09-16 20:17:25"
@@ -1218,14 +1251,19 @@
       "title": "讓 劉建國 帶領鄉親贏回雲林！用更強大的力量守護鄉親、為家鄉打拚！ - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOdFh6cFlNTEE2Yms2TWtZdWRZUGJQMDdpT3RMUEw1UFRGanJmbjZWeVozcHgyd0NLLTRMVndORzhPNERtLUx4eXpfeGZVV3JxbHVoQ2F2ZkdCNWJUQnhtMHlnYld3bDRxRlB0OXRhcVdTV1g3QjZ4ZjR2bGJPUTdXdWVRR2o3aG43WVRqTUlFN1Zvc00wS2thREJwWGt4dkZRcnpjSFRCdDFWQ1BBOGh3MUhuY3pna0lfX3EyeVlsVGw3ampFQ0dOTzczeEVRU0ZZLVNldzNSQWNlenFCalZfVWUxazNscjJJSEEtVWxnZWhaMWY2bjZ1OWJNVFZDQS1VQ0Rfd2FCRnBZRmw3VGh2QlZYVlRSdkhLcVJXWXJfZkpGdFdnRVVmN0piMnV5bGN3bjN5UFB3Yjd0NzZrSDZ5alJMcmQ3U2F0RjVlRjhWLWZTOGROZnFaSjA4Vl9kb2oyV3FCNEI2WVZfQmlVdzV1SVdXc1drTC1ncmhRb2x5YjRmZUhMdXBaRThwOFVGN0Q1MXlaOFRlUjk0bFZPbHNxeXZCbnJZaTFWdGhRZXRNZi1NWTJMekRyNFB3",
       "time": "2026-09-16 19:04:54"
-    },
-    {
-      "title": "年底九合一地方大選倒數72天，民主進步黨在16日將「行動中常會」移師雲林縣麥寮鄉舉辦，黨主席賴清德帶領中常委全員到齊，全力支持民進黨籍雲林縣長劉建國站台，劉建國針對人口流失、青年壓力、鄉鎮發展等議題提出政策，總統賴清德也希望整合中央與地方，共同 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMihghBVV95cUxNSHdKSFctUVp6RWxxUDl1RUk0N0pkNDFldjQydm01Q3VkYUN5QkVWNlAwREp3Z3RPTWNuYmRzbE03V3dTVTZMQnJBbWoxMGZtTS1aS3g0NEl3emhnUlFfZlRXcFdtc0NYcGhPY1ZQc0pFVTNRdDNTTVdjQ3J4S19IN1lUTzFQQUdEVVU5U0lDczBycG43MENBc0NmellZczhtekNrMnl2Q3RjZHlmdDZDNEQ3Y19faUswa2Q2NUg2NW12eEVwTk15ZVA1cUI1SHg0b0o2WmxkVy1mYnR2WG1sZjRYTk1aRDNqN3M4eXJocTF4RU5kTE9nY19jam94RXdhYVc2NGVxSjZ4SGNDS3pLX2JxZGhEanZpU0k3QmJ2RlNJekFwNFdjNHl0YkZSZ2huNW55bFhWb3JHcFM1RDVZMEtOUDRUd3VJN3p0WnZGNklhQ3hwYXNWTHJ2WWF0eUxJc21DOWF3NXczN0czS0tSMHdUSXFiVzd6MUpNRW5fN2dndmZmVlJ3d3dFbzg5UzlHdV9RMlFKTE5hSUViUS1LUFpwZThxU3IwT19MNzdRRDhkelVBWjFZQUJOOVhMSTFkQWdZWkxWTG4ySlJVaEk1S3RYcW9DSGh5MEFUZGFxd0E0VXZpOVhuV19TVWp3eUdpdFBtYi1fbDZiWFZWMm9lVjZJV0NYZ0tFN1NRS2JJeE5pUVFQWHpteTVfcFZ5VnNwVlNtc1pJOW9vYk5YZ0dPNlAxNEROeGpaSnl1UHNETzBNd1I0LVg4VDlqczkxNWw2Sm8xSko3dFNsZi02RWVOR2VYNmVBNkJxdkhrY3psQmtodHBmZjJvYzRCcjRVQzM2cjV1NzFuTFdNQWNkbDZKOEFybE9QaFc2RDVDRk9uOGwzSGZoam95UmtlSkgzUWsyaFdjT2prd0JkaHAzbDRONkMwRktOMUotVGZRQU1iNDRVNkxKcTRsUnpnQ0I0Wi0ySElXV1lzelN5ZHR1MzF1OER2LV9INl91MEVzeWtCUkFjYkFBMU9zWHZ2U3k0bUdqbUJOdndoQ1ZydHQ3TWZscWdFV2UyTHhTUXF4Sm5NeG9PSnVhOS1LUi04TnMxRFFleVdIUzlGbnVqSVJwOXgwWmFQWTRKMVJKcDkxYS0yTFhrcktybUV6aWFuY01XUnY0UkRnMGJKNFhZbnZPODB4YVowZnZ4RkEzUnBuU091Qk5fM25CZzN2cm5mZ3FwbFVPVnVhUy1lc2xQVHBnaTZrSkdvejFFVHFQclRfQXBSSlQ4M3FWUmxaTHkzVVRrVkNxd1NNMmVnb0FhZ19LcXlabmJBQ0c2czlWZzNrZ0pzTklUWWZfaWpYNjVTNF8xajI1OUNpcFpR",
-      "time": "2026-09-16 18:18:30"
     }
   ],
   "latest_news_20": [
+    {
+      "title": "劉建國到台南開「幸福小黃」 想帶回雲林 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQcFRqLUVhSkZuSnVqcEVwSWdoa3J2Zl9SRVc3VVFyeEFrclMxTGN2Qzc5NVNoZkRvYkxGWXdiOG5JSFY5OERhTlNqQ2FMTHBDODc0bzZ2bFVhTUFjY1lnX0luZVI5VENtUF9UOVJCVkx4dkJDak0xampyQVpKQ1hISEJybU5HYjVIZ3ViUDN6Z0QyQ1A3LXdZUXktV2J0V0tBNnlHVU9rU3FEZUQzNTB0ajZJb1RuTHV0aWVNVlRJZGNsX0xQa2lsLTdnS0tUYTMyQ1VmZ3RydlJ0cGpodE1ndnppQ19nRGdGZ0NqS1otcGVmdzdsbTl4OWI4S3hTYTRtc29PNXBrQWlVZEIyTlM3TEo4V2Yxdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-18 06:29:07"
+    },
+    {
+      "title": "討論牆 | 賴清德親任劉建國競總主委 蘇治芬接總督導拚雲林選戰 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGMjRNcHgwc2piNGREVEltUFFGbks5UWk1QmZPSEVKRGw0TldwVHZOYU5fQk1SaUdMcXJYQS04TjNfaTZBVDc3dXkzdGJEZmxCYllweTBNcHRLSW44VEFVNGdpYTk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-18 00:47:35"
+    },
     {
       "title": "劉建國台南\"學習之旅\" 合體黃偉哲.陳亭妃走訪教學現場 - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNM1dxaUEyREFGQXMxLWxxcWJfYWFsSWhyMUtSUERPYnZlWkpJcXE0TGNiaUhwRUlYckFYdEE5blZJbFNkRGRacTFUSmRaMUdBaVNxR0RmZEFLNEo0RjVpRlNoT0w4YXhpNGcyRHdoM2JhMDM1bXloZ0FQZXRscmJNV2xFblF1cUZvZVByMTBkNURtT0R6YjNFWkNMTTFaaUhhelFPV3BoQXp6aHdUcEJTbzV3eHk3YkljY3BBSEMtMEVXQngzSy1kcjAxOUZxLTdDd3BLaHdraW92UlJzU25iWnJaOUFjd045Nm80UDBoVTBrTUFITi12SENxT2czZDJTdkNhM0JNSWVBTExhV1RwcmROeXVOTk1PX2lYaFB4UUp1bVVOQmgtSWFwbmw0cEtNSm1ubVpjS2MyMkEyT3F4eTU5eUhpWGc5ODNmZU9YLTBJSThwM2I0dVhUWmYycHFha0tBUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1315,16 +1353,6 @@
       "title": "黃尤美合體許淑華、謝龍介力挺張嘉郡　喊話讓斗六市成雲林重要核心 - 鏡週刊Mirror Media",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91YkFza3VNemJjV3RTbHhPcXJKU1VpNEZUalFFQUZfT2htbFFKX0NMazJJZVV6SkhQVmVwS2h4cHRjeXh0MWpTdGRJZlItcGNodU0yaGNkeGNSS0oybG5ScDNJRdIBaEFVX3lxTE8yOWRUbFV2OVdPeU9lNzdmeUpua2d3azdCSHI1ZGlBc1JwUmZhX2lleHlaQk8xNC1hLVFUZjBEcmRiZUVzNzlZX0lIcUtZMWhWUWFld3lPZzFkc2k3VGVMT1pVMEFxdE5D?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-17 14:50:00"
-    },
-    {
-      "title": "【內幕】陳明文奔走請賴清德壓陣雲林 劉建國、蘇治芬放下心結「尊重總統安排」 - 上報",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pZEFTUXlXTnZHX0RKUVBqSUEwY2NjemxCd0p1ZENqako3WWxrZXd0Ty1NbzF0SXh0aEI5clV6cXJjem02R1VHT1FZbUpUVVEtVTFSODFKN2JfbnY1OHU3UDdRcmFYUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-17 14:40:00"
-    },
-    {
-      "title": "【內幕】陳明文奔走請賴清德壓陣雲林 劉建國、蘇治芬放下心結「尊重總統安排」 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTW5OdVF6eVJkYXFnYy1DNk9yYVZwNzRpZ2pnZEoyZFdnSnBadmozUXFCa1hzR1VVRUJhc0pUZWJ4dGpBQVFUUHBUS292U2dHeVc1M2NBa25zRmFXNDhNWEkyLWZKR1A5dl9YTndCM3RnSGgtNlhBQjdjcjVLZXBBdjFvM1hCWWQ0QlNXQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-17 14:40:00"
     }
   ],
   "person_sections": {
@@ -1592,6 +1620,11 @@
           "time": "2026-09-16 20:40:46"
         },
         {
+          "title": "劉建國. . 「劉建國的勝選，是全雲林人民的勝利！」 今天行動中常會移師雲林，賴清德 主席親自接下建國競選總部主委，蘇治芬 前縣長出任總督導。 除了蘇前縣長以外，蘇前縣長的團隊，過往所有為了故鄉打拚的力量，今天全員到齊！ ​主席在台上講的那句話直擊人心： - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMimghBVV95cUxOck5NR3djMndwWEU5OG9jVGUteTFhVC1uekF2QW1RM1NTQ1o4VzUxT0JHdjFCYlhBZDMzWVR5Rm9xaFZTWVl3SHZVTkNGYXltYkxOUi1XZGNNVy0tcUNmOXo3eF9YXzBxZTNTWjI2LXgxRVVLbXQ0eTJyTjZGZ0R2UWJuU0tyRi0yQjlLb2pDN2h6cFd4UFU2U3hEa0hzM3prem9tMnB0clJhaUFDbFc2SF9rVW44Z3d6NUlJcERXX0RYUlJZSWxpOEFPZkp4ZVdwNl9Rc2ZyV0ZDZGhhVUE5U05ROXNLZTV5NC1FemctME9nN29RZ1ZNVlVvcGtQZmxGcHRPblpyUDZlcm5ET2tXeHYxM1lrTXY4WmYtS1FKU1hBTVI1UVItTVNMZXJOb1V5WDZBR3RwS2Y0UGc0RG1YODVkR2w1Z1I0NlB3a2hPQW9WazBGUDZBcklhRGRiajMyUEhCNHg2bmNUMjd6ekV4WFpIUUIzOG5nSVJTTzhpWVViWFAzUEk5WWp1QUVGRGRBWE1SdlhHQmI5VFZKeGtxTWQ2c0lLLW1Nd1E0Q2hreVJpTW4wTXIzdkZOelM1WXBtV0FNd0RoSXZncHl1WDlWMm9tbDBQUm15Nm1yVzkwdzZTUl9kbjRhSlkycWVjR1hXMUtiZGhjd3dwYktaX3htS2t2UzJidXNQLUcwZjF3bUNYdXZKWEFIRnJHQW0tYUF6Z1Y0dWF3YTI2N1R3VGQxRDI4S3FTRlJ3aHFuOUIzQThXM2VMUnVsRTMxSGlEM2V1Vkl4NXI5NGZLTzNjZTVBYzJ3U3RaTEhVRVlScnNCWkR1SnFTaHRUYy1ZYU9ET19IYmhpdUVKLUMzRVd3OHhpb3dLQ1RvVDFTMnVXOU9OeXF4c3dNa2NaZ0dMUUpDU0dYR3FuRUt6R243NmFkRXdlMmdjVWpGVHZ1ZFd2dUlWQWNYQUJfZUJzWUZvclF5SkdnMjYtYTFDbU5CejVyX0ZTajRGekwzaFp6SmZGZWpZSURnOE1TaXNwTnBuLVVURG9hZkx6VzhSRURIdmtvUVVuNkU2elhNUmFFOUFnVkIwUmZjdXh0MjdDWHVzSmJldGt6QzFVNW95b3RESzZLUjh0ako4XzY1MVh3WjdibURzY3BXSFQ2bGtkVGVxQUpvZm5nZUZ6UGt0Q3dvU3U0dXZfTk5HRW5EX0h0cXNuTzFoT1Z4V0J0emliNXY2czV2RURFYWJoTTU1T0plWnpQOFYtRVRoUHd4UkVKUnMwWjlYYnA0ek00bnRGdFFuN0NWbzNIX3RRU3VwT0ZEUENwX0dpNnRad0RpMDQwWEdPc2hfcGlFeHN6eDdJaWt5azlrcHdaOU5sTE9aWHNaS2pRamN0MnlDMzNYd2V2Q2c",
+          "time": "2026-09-16 20:28:45"
+        },
+        {
           "title": "〔＊正聲廣播雲林台＊〕 【最強助選員，賴清德宣布接任劉建國競總主委】 本台記者佩佩/麥寮採訪報導 隨著年底九合一地方大選進入黃金衝刺階段，民主進步黨今（9/16）將「行動中常會」移師 #雲林 #麥寮社教園區 舉辦；黨主席賴清德率領全體中常委全員到齊，全力為雲林 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMi7gdBVV95cUxPQjRhYS0tcTJCQ05Xd3NoVkNQSUxhRXdYQlNkTnNnV2NIX3ZIa2FtZ2kxZVBrY0RnTXBvNGp1Uy1sdUFfZXlKdV9Rb1dvWmkybi02X2Jpa1NmYlI0SG50aTgzRUNMbHhyM19IUmxhbEdJbFVZMmd3SkEwYU1RRGFPRmNrRzVheUNienc3NFIweEdMRnFTRWRkMDg3RXhZeTJWdFNfVDAxN2w5dXlEVmRvYVBrMEZ5X1pPeS1QbGswNHpFV0RxeVJXN2dDNjYxQmZEVVN6clgwQ2lFRHVKMnpzeHVpZE1hb2J6TEhfTzVxTzdwYlFKLXZNYUMySmQ5enl1SER0aktyQ0U0NEtYdEd5dEhCTTR0aGV6U05fVHJZR21OMkhlcWxYcTl5ZGJ6aGFhSzhPVFFvMkxOWlgzMnduWGNfNWN0VUg0SEN0c0lyMlZGbUtrdWRSaENXQVRobHFDam8yYWthdkphQ2Nlc2pFUU9wVWJBQmdoQ09zTjBrRUhHS0Q3UjBRX1pQbnRxY0hYZHlfREJqUTBJVlhEQjZFQTA0NkYzbktWS3ZhT3NJOG13RDM4S2lFbmRYakIzMDZuUWxYMnBRODRKYTlLd21FalVFb1FNQTFjd3VLaldoTmZ6VFpFTXI3ODJPSGt2NnRWUG5WOEwzd09ZcHRmZmRENDZXbEVWM2F3Z1BUSTFSQzBRNlhkSE1lZ0F5c1pRRmt6V0NwNDA3ckYzVXZ5cTBOMzJrV1lrb05LV2xxdFZ5QWkycGhYZDF1Vk9MV1ZQZjNpYTY4UERmdzlEeVVaNmoxQmRzb1ExVFlsYlh5YTJYbzVvU1FOUWtNWG9uaTZsZkVfRFh2X2ozSEJXVTZoYXhGck8wR1RwTE5jOWUxWlFlZzRPNkNtcVpKZ2hGeFAzMGdqeHpRNnJ3VmdGUTJSMm1PcWwtNGdiMVlCRmFWREo0QUVKUHljLTJQVl9iMnptSTFpUjVGZW9fVERKMFZNUEV0SkpqUWx6U0NMeW5LY2ZCNVltdGc0MGZSdTgtQnF0N1hmdFBCTmdOMlg5VUh1UkFJSk5sZ2lBMWY1UktfMHR1V1BJV2NOSFk4VHlrZHAzejFlM0R1bXVZWFNjMnY4NmxaR2F5aHZHdEp3bUdkR2JhY0xSY2x1Rnp4bzRDMFBoQmJVcHJCTVRVN0dPTG5Ua1N1THNQaTV1Z2FZM3ctMDF6Z3loRVcxMTF0VENhQzBPN1ZsS0NneVN0N0QwbkRzQnlJYUNqUHZUbXlhTmZLNFQyVk81dm5VYXFBX2E1U2k5cVA3bV80RnREMXhFQjdBN3huVlVSb1d5LUtJMnRnREp3",
           "time": "2026-09-16 20:17:25"
@@ -1630,14 +1663,19 @@
           "title": "自由時報. . 賴清德親任劉建國競總主委 蘇治芬系統全員到位 圖文報導：https://news.ltn.com.tw/news/politics/breakingnews/5576025 #賴清德 #劉建國 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxPbF80VGg2UnNWaVVDWUliOVFSSE5Ga2RsSm40LTBva0pnLURvSmFRXzluN3RiZWU2VzZPMmo2d1VsTHp5eVU2Ui04M0hMdEdCVElDRnNKS2JLQXo0dm1GdHB5dmUtQ1VNWmhzVWZuVWtqcldIbmF0RnVVc2tZS2Ewc1NfMXhIODBJVzNrRXUwZENEb096NDNKa09oZGxrOWdKQUdtRFVpUW5NTTU2RzNkcUtPWjItcm8xUldPbjFyNHloVGJJSThJSU02Ti1keDZRWldGQUZrVEdDelFORDdLdlAxWllSdnlkYTRkWkJSMnJsTEJic01wOHBQZzRrVUhnanJDaktLcGhGMm5kTWNlejN6aG16S19RRDd0QlMzM2JCRU9kOFpUeGh4QVpoZl9wLTJGc054ZkIyS1VZOHlwZkg3a1paUFJrM25Ldy13ci1KbVlkSlp1WmpfMV84Zy1qQm5DTE1TVUxGVzhvZHg3RGxjTkpFaHNEZGJySDZjVVJEU0p4d0JtZ0xrbFgxc2h2M3pQdnR1WFpiXzZ4aHIteDNKVmYyWUxoeUQ2WFlNZW5SakNldFlEMTcxYXhCUldSS3g5SlBDVmFyeVg3TlF0T2ZkTkc0MDlPRTJQVFJGOUs4UDNkYW1acmFkQ2ltbEJsVmNsTXpWUEkzcEctVWdlaQ",
           "time": "2026-09-16 17:57:43"
-        },
-        {
-          "title": "接劉建國競總主委！#賴清德 轟張家：打拚的是家族利益、沒為雲林建設出力 - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxOOUdYZ3pYNlBwYlhDTXNzVzRGNVRRUGtlbFBuMGhXUVd3M2Q3V040YXVhWEoyNVNaR3loR21WTWd3T0hmMFE2MXF0MDd2M19lRno2cDJ0NkVOR19NNjlZT3J3d2VRdVdueEtUOEJHZExaVUtJMU5FUkY4UGRrb1VpcUo5TWZsSGdxakluYS1OSU5uNWxxTmREd0ctV2pIb2NhU2h6TEZHS1VMdFROV0ROSnlFcmhGMHpmSVc2T2k0T0F0UXd6SnJMc3l4OV9CSWJ0MXdjVm5iaDBOUWVFZHFlaXY1bWw3cm8wYTQwQVViM0R2LXRCMUo3QXdFQmNXSXYwWXltTk12UFVVTktnVlE1OWk5bEpQa0pGdDBfcnFYdjQ1WVQ4TXB3RDlBRUY5VGVpcUlKbWJuVksyUFJOREtUbWVkbGFTRF9Ybk5Dc1hNOUoyakdYdXlPV3lIS2cxQm1MT1JtRVNZXzA1WkN5T0xpenhsdUVOS25yNUY3N1dueGVZWGs4bUFJMlNkcnJMSkY2SnJhSUpFZUxWbEIweFdmRFpPejNLZ1NyTTNwRFZJYUFiRTBrbE1zMmVUczR6Q3NtNzhpX1hJTFY2QTdYYjlmMzcydW0",
-          "time": "2026-09-16 17:02:07"
         }
       ],
       "news": [
+        {
+          "title": "劉建國到台南開「幸福小黃」 想帶回雲林 - tw.news.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQcFRqLUVhSkZuSnVqcEVwSWdoa3J2Zl9SRVc3VVFyeEFrclMxTGN2Qzc5NVNoZkRvYkxGWXdiOG5JSFY5OERhTlNqQ2FMTHBDODc0bzZ2bFVhTUFjY1lnX0luZVI5VENtUF9UOVJCVkx4dkJDak0xampyQVpKQ1hISEJybU5HYjVIZ3ViUDN6Z0QyQ1A3LXdZUXktV2J0V0tBNnlHVU9rU3FEZUQzNTB0ajZJb1RuTHV0aWVNVlRJZGNsX0xQa2lsLTdnS0tUYTMyQ1VmZ3RydlJ0cGpodE1ndnppQ19nRGdGZ0NqS1otcGVmdzdsbTl4OWI4S3hTYTRtc29PNXBrQWlVZEIyTlM3TEo4V2Yxdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-18 06:29:07"
+        },
+        {
+          "title": "討論牆 | 賴清德親任劉建國競總主委 蘇治芬接總督導拚雲林選戰 - LINE TODAY",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGMjRNcHgwc2piNGREVEltUFFGbks5UWk1QmZPSEVKRGw0TldwVHZOYU5fQk1SaUdMcXJYQS04TjNfaTZBVDc3dXkzdGJEZmxCYllweTBNcHRLSW44VEFVNGdpYTk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-18 00:47:35"
+        },
         {
           "title": "劉建國台南\"學習之旅\" 合體黃偉哲.陳亭妃走訪教學現場 - Yahoo",
           "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNM1dxaUEyREFGQXMxLWxxcWJfYWFsSWhyMUtSUERPYnZlWkpJcXE0TGNiaUhwRUlYckFYdEE5blZJbFNkRGRacTFUSmRaMUdBaVNxR0RmZEFLNEo0RjVpRlNoT0w4YXhpNGcyRHdoM2JhMDM1bXloZ0FQZXRscmJNV2xFblF1cUZvZVByMTBkNURtT0R6YjNFWkNMTTFaaUhhelFPV3BoQXp6aHdUcEJTbzV3eHk3YkljY3BBSEMtMEVXQngzSy1kcjAxOUZxLTdDd3BLaHdraW92UlJzU25iWnJaOUFjd045Nm80UDBoVTBrTUFITi12SENxT2czZDJTdkNhM0JNSWVBTExhV1RwcmROeXVOTk1PX2lYaFB4UUp1bVVOQmgtSWFwbmw0cEtNSm1ubVpjS2MyMkEyT3F4eTU5eUhpWGc5ODNmZU9YLTBJSThwM2I0dVhUWmYycHFha0tBUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1727,22 +1765,22 @@
           "title": "【重磅快評】賴清德綁定劉建國將重蹈北農翻車覆轍？ - udn.com",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uU2o3ZXBUWWgwZGRkWUQ0X05hSUxnMnQ5a041dmRyNXE0ZllKNlNlS21BdEZYVWZJVUlYZ2t3eVJTZWhxemZBbHVLQ3RtT2pQaFJJ0gFYQVVfeXFMTW5RVzE2QTVtSmdvSWtRSW1QMWkyV21wQnlCa0dNekxPRWlIclRmQ05mQ3l0azg2VEVxeHpMNkxFTU12N1p0VjB2UVJCN09vWXBBTjZ3bS14Vg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-17 11:58:02"
-        },
-        {
-          "title": "【重磅快評】賴清德綁定劉建國將重蹈北農翻車覆轍？ - udn.com",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwMHdhM3dSXzF3QmZ1NkZpTU5TN2UtM0ZoaHkydFNwVEF3YXl5REp4TTRnamRZTHpnOXVzVXlFM3U4bTJhNHRxZUk5Z1FMUmVZUUh6eWNvOVVWQ2UxTzdjcVpENVB4TEc2dUFpOWc5OEczZXA30gFXQVVfeXFMTmN1RVNXdlFvbUs0NFJYYlpmLTYyQ3QydUR1ZU91NlFwNmp5U01fM3g4R2c4ZDY0bmZEWDdobzNHRmVBS1VDQnFERjBBZVlBV1R6MDV0Qmk0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-17 11:58:02"
-        },
-        {
-          "title": "【重磅快評】賴清德綁定劉建國將重蹈北農翻車覆轍？ - udn.com",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FQUlKRHNOUlVPRmhLZXVBdTBYbG1fd2twSDJrck1NXzVSUlZUT19XcmlNbWp6YVBUd3o5b2R0ZlRDWUJ1bkVPT3B5alVHZnJMNnpxbFZQSzF4RkxVdXdnQ1dmdnpETHRfT2txMzItdjBtZDZW0gFYQVVfeXFMTW5RVzE2QTVtSmdvSWtRSW1QMWkyV21wQnlCa0dNekxPRWlIclRmQ05mQ3l0azg2VEVxeHpMNkxFTU12N1p0VjB2UVJCN09vWXBBTjZ3bS14Vg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-17 11:58:02"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國到台南開「幸福小黃」 想帶回雲林 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQcFRqLUVhSkZuSnVqcEVwSWdoa3J2Zl9SRVc3VVFyeEFrclMxTGN2Qzc5NVNoZkRvYkxGWXdiOG5JSFY5OERhTlNqQ2FMTHBDODc0bzZ2bFVhTUFjY1lnX0luZVI5VENtUF9UOVJCVkx4dkJDak0xampyQVpKQ1hISEJybU5HYjVIZ3ViUDN6Z0QyQ1A3LXdZUXktV2J0V0tBNnlHVU9rU3FEZUQzNTB0ajZJb1RuTHV0aWVNVlRJZGNsX0xQa2lsLTdnS0tUYTMyQ1VmZ3RydlJ0cGpodE1ndnppQ19nRGdGZ0NqS1otcGVmdzdsbTl4OWI4S3hTYTRtc29PNXBrQWlVZEIyTlM3TEo4V2Yxdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-18 06:29:07"
+      },
+      {
+        "title": "討論牆 | 賴清德親任劉建國競總主委 蘇治芬接總督導拚雲林選戰 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGMjRNcHgwc2piNGREVEltUFFGbks5UWk1QmZPSEVKRGw0TldwVHZOYU5fQk1SaUdMcXJYQS04TjNfaTZBVDc3dXkzdGJEZmxCYllweTBNcHRLSW44VEFVNGdpYTk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-18 00:47:35"
+      },
       {
         "title": "劉建國台南\"學習之旅\" 合體黃偉哲.陳亭妃走訪教學現場 - Yahoo",
         "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNM1dxaUEyREFGQXMxLWxxcWJfYWFsSWhyMUtSUERPYnZlWkpJcXE0TGNiaUhwRUlYckFYdEE5blZJbFNkRGRacTFUSmRaMUdBaVNxR0RmZEFLNEo0RjVpRlNoT0w4YXhpNGcyRHdoM2JhMDM1bXloZ0FQZXRscmJNV2xFblF1cUZvZVByMTBkNURtT0R6YjNFWkNMTTFaaUhhelFPV3BoQXp6aHdUcEJTbzV3eHk3YkljY3BBSEMtMEVXQngzSy1kcjAxOUZxLTdDd3BLaHdraW92UlJzU25iWnJaOUFjd045Nm80UDBoVTBrTUFITi12SENxT2czZDJTdkNhM0JNSWVBTExhV1RwcmROeXVOTk1PX2lYaFB4UUp1bVVOQmgtSWFwbmw0cEtNSm1ubVpjS2MyMkEyT3F4eTU5eUhpWGc5ODNmZU9YLTBJSThwM2I0dVhUWmYycHFha0tBUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1972,6 +2010,16 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "劉建國到台南開「幸福小黃」 想帶回雲林 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQcFRqLUVhSkZuSnVqcEVwSWdoa3J2Zl9SRVc3VVFyeEFrclMxTGN2Qzc5NVNoZkRvYkxGWXdiOG5JSFY5OERhTlNqQ2FMTHBDODc0bzZ2bFVhTUFjY1lnX0luZVI5VENtUF9UOVJCVkx4dkJDak0xampyQVpKQ1hISEJybU5HYjVIZ3ViUDN6Z0QyQ1A3LXdZUXktV2J0V0tBNnlHVU9rU3FEZUQzNTB0ajZJb1RuTHV0aWVNVlRJZGNsX0xQa2lsLTdnS0tUYTMyQ1VmZ3RydlJ0cGpodE1ndnppQ19nRGdGZ0NqS1otcGVmdzdsbTl4OWI4S3hTYTRtc29PNXBrQWlVZEIyTlM3TEo4V2Yxdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-18 06:29:07"
+      },
+      {
+        "title": "討論牆 | 賴清德親任劉建國競總主委 蘇治芬接總督導拚雲林選戰 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGMjRNcHgwc2piNGREVEltUFFGbks5UWk1QmZPSEVKRGw0TldwVHZOYU5fQk1SaUdMcXJYQS04TjNfaTZBVDc3dXkzdGJEZmxCYllweTBNcHRLSW44VEFVNGdpYTk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-18 00:47:35"
+      },
+      {
         "title": "劉建國台南\"學習之旅\" 合體黃偉哲.陳亭妃走訪教學現場 - Yahoo",
         "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNM1dxaUEyREFGQXMxLWxxcWJfYWFsSWhyMUtSUERPYnZlWkpJcXE0TGNiaUhwRUlYckFYdEE5blZJbFNkRGRacTFUSmRaMUdBaVNxR0RmZEFLNEo0RjVpRlNoT0w4YXhpNGcyRHdoM2JhMDM1bXloZ0FQZXRscmJNV2xFblF1cUZvZVByMTBkNURtT0R6YjNFWkNMTTFaaUhhelFPV3BoQXp6aHdUcEJTbzV3eHk3YkljY3BBSEMtMEVXQngzSy1kcjAxOUZxLTdDd3BLaHdraW92UlJzU25iWnJaOUFjd045Nm80UDBoVTBrTUFITi12SENxT2czZDJTdkNhM0JNSWVBTExhV1RwcmROeXVOTk1PX2lYaFB4UUp1bVVOQmgtSWFwbmw0cEtNSm1ubVpjS2MyMkEyT3F4eTU5eUhpWGc5ODNmZU9YLTBJSThwM2I0dVhUWmYycHFha0tBUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-18 00:21:49"
@@ -2160,16 +2208,6 @@
         "title": "雲林劉建國拚綠營整合 張嘉郡走親民風 - 中國評論新聞",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PWEU3c0dCVGdmRnM0ZlhEN2lobVlta1hyOFk5MGtQNjZmbU1sTE8yY0pHcTFtQW9PblJHcHNpRzd4TEhManM1blR4SFBvWGhwaW0yMElUZkwzTXRFT1VkWURlQnhWcTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-17 00:31:48"
-      },
-      {
-        "title": "宣布接任劉建國競總主委 賴清德：只有劉建國當選，雲林縣才有辦法改變、才能繼續向前 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Fa05VUWVUTTVHVHNBOU9JSldDNXQ1Wk1veWgtUWFVOGwteWhlWW1KQVdqT1BYTEtqN2VGeldPOC0wUl9uanNIRjJlTklFdVA1V0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-17 00:00:12"
-      },
-      {
-        "title": "雲林縣長選戰藍綠對決！賴清德宣布接劉建國競總主委槓張家| 2026九合一選舉 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42c1lNQ0tIMlNxZ1FCdE9nTkVka2tkYUNvcUZBcG1FY3l5ZkZYcWxCSENWRWNfYVBNUWRDc1pUb2hXUFh1TUlMMEZIZWpyNWp3M09FMkJGVWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-17 00:00:00"
       }
     ],
     "facebook": [
@@ -2237,6 +2275,11 @@
         "title": "賴清德親任劉建國競總主委 蘇治芬系統全員到位 #賴清德 #劉建國 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxQYk40eUFJRHJFY1NZYnpKSk5oUzZXLW91NU9qVjBxZG40S1RTeTBhcVZ2Sjl5Wi1wR1ZERmxIS1Y2MGpSUXBrSGV6TGt4N0E4TTVuZS0yRVZCcnRUazgxcG5ndVl1cE5fYTc4YmllNzVwMkFEZ1BZRWpZVDA0eVAzWGpacS0xR1hwa3dwaVdCQ2xKLTA0NmxkVEFNbmJYU2t5dklqdTVhY2s4NWRqTHluRDFJMFBVMnpXem4wZlR2OEtUbktHeGNmc2Z3R2ZEcnFuZThWWkdnOUhJVU5saVMxaHNxSTZQM3JwdmlxYlBfMmxfN3N5LWg3UWZXU1pxZXhGX3ZkV05vUlB1Z3d5QUFPTS16UzRyMlFPUktKVDA1c1plOVZKV1NRQVp4Vjc2WmdpLTlYNnJSLUl1d2pFWHBlS2UyOUtRQjBGT1o4NzdQajVpZWR0UkMzYktEbXgyLURtOHBiRzhLT040NUExRjVFNmxoTC04czZqWmc2LVltckFfNnhScnFBWUtRaWpSV0lWdzhRRTZMLTMwVTBQX1ZmLWpDci1OSFJHemIxYzBZTG0",
         "time": "2026-09-16 20:40:46"
+      },
+      {
+        "title": "劉建國. . 「劉建國的勝選，是全雲林人民的勝利！」 今天行動中常會移師雲林，賴清德 主席親自接下建國競選總部主委，蘇治芬 前縣長出任總督導。 除了蘇前縣長以外，蘇前縣長的團隊，過往所有為了故鄉打拚的力量，今天全員到齊！ ​主席在台上講的那句話直擊人心： - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMimghBVV95cUxOck5NR3djMndwWEU5OG9jVGUteTFhVC1uekF2QW1RM1NTQ1o4VzUxT0JHdjFCYlhBZDMzWVR5Rm9xaFZTWVl3SHZVTkNGYXltYkxOUi1XZGNNVy0tcUNmOXo3eF9YXzBxZTNTWjI2LXgxRVVLbXQ0eTJyTjZGZ0R2UWJuU0tyRi0yQjlLb2pDN2h6cFd4UFU2U3hEa0hzM3prem9tMnB0clJhaUFDbFc2SF9rVW44Z3d6NUlJcERXX0RYUlJZSWxpOEFPZkp4ZVdwNl9Rc2ZyV0ZDZGhhVUE5U05ROXNLZTV5NC1FemctME9nN29RZ1ZNVlVvcGtQZmxGcHRPblpyUDZlcm5ET2tXeHYxM1lrTXY4WmYtS1FKU1hBTVI1UVItTVNMZXJOb1V5WDZBR3RwS2Y0UGc0RG1YODVkR2w1Z1I0NlB3a2hPQW9WazBGUDZBcklhRGRiajMyUEhCNHg2bmNUMjd6ekV4WFpIUUIzOG5nSVJTTzhpWVViWFAzUEk5WWp1QUVGRGRBWE1SdlhHQmI5VFZKeGtxTWQ2c0lLLW1Nd1E0Q2hreVJpTW4wTXIzdkZOelM1WXBtV0FNd0RoSXZncHl1WDlWMm9tbDBQUm15Nm1yVzkwdzZTUl9kbjRhSlkycWVjR1hXMUtiZGhjd3dwYktaX3htS2t2UzJidXNQLUcwZjF3bUNYdXZKWEFIRnJHQW0tYUF6Z1Y0dWF3YTI2N1R3VGQxRDI4S3FTRlJ3aHFuOUIzQThXM2VMUnVsRTMxSGlEM2V1Vkl4NXI5NGZLTzNjZTVBYzJ3U3RaTEhVRVlScnNCWkR1SnFTaHRUYy1ZYU9ET19IYmhpdUVKLUMzRVd3OHhpb3dLQ1RvVDFTMnVXOU9OeXF4c3dNa2NaZ0dMUUpDU0dYR3FuRUt6R243NmFkRXdlMmdjVWpGVHZ1ZFd2dUlWQWNYQUJfZUJzWUZvclF5SkdnMjYtYTFDbU5CejVyX0ZTajRGekwzaFp6SmZGZWpZSURnOE1TaXNwTnBuLVVURG9hZkx6VzhSRURIdmtvUVVuNkU2elhNUmFFOUFnVkIwUmZjdXh0MjdDWHVzSmJldGt6QzFVNW95b3RESzZLUjh0ako4XzY1MVh3WjdibURzY3BXSFQ2bGtkVGVxQUpvZm5nZUZ6UGt0Q3dvU3U0dXZfTk5HRW5EX0h0cXNuTzFoT1Z4V0J0emliNXY2czV2RURFYWJoTTU1T0plWnpQOFYtRVRoUHd4UkVKUnMwWjlYYnA0ek00bnRGdFFuN0NWbzNIX3RRU3VwT0ZEUENwX0dpNnRad0RpMDQwWEdPc2hfcGlFeHN6eDdJaWt5azlrcHdaOU5sTE9aWHNaS2pRamN0MnlDMzNYd2V2Q2c",
+        "time": "2026-09-16 20:28:45"
       },
       {
         "title": "〔＊正聲廣播雲林台＊〕 【最強助選員，賴清德宣布接任劉建國競總主委】 本台記者佩佩/麥寮採訪報導 隨著年底九合一地方大選進入黃金衝刺階段，民主進步黨今（9/16）將「行動中常會」移師 #雲林 #麥寮社教園區 舉辦；黨主席賴清德率領全體中常委全員到齊，全力為雲林 - facebook.com",
@@ -2367,11 +2410,6 @@
         "title": "張嘉郡. 張嘉郡 · Original audio. - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93cEV3eERFaWV1WGxPTW5yNm41ZkZPQnVRZC1jZURuY2IwOUo4ekVHc3ZIQUtJODhibEMySmgxY1pGNEF0VWZ0YTRySXNScE1BM2hxR1RnQTBCcTlQLXhUTlBtQWI4OEhJRGhwRWVQdw",
         "time": "2026-09-13 22:32:32"
-      },
-      {
-        "title": "賴淑娞競總成立展氣勢🔥張麗善、丁學忠 許舒博站台 斗六行政中心與城市發展成焦點【正聲記者|徐得洧 #斗六 採訪報導】 斗六市長候選人 賴淑娞 今（12日）上午成立競選總部，縣長 張麗善 、立法委員 丁學忠 （ 榮耀海線 丁學忠 ）、林國慶、全國商業總會理事長暨競選總部 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMizgdBVV95cUxPbDA4d2ExZFRyZnRxNEFNY2p6NjZHQjE2Zlh5SXBsbDlSa2hlaGdDY3d6V094WVVNOFpyT2MtclJHczVVVDVhWFZXdDhfMjkybXNqU3BzMkpBc09veS1KbXFsdjNKLWlTN29QSlNBUmdvTUwzXzVEZ1d5VzJSRUZvX05Cd29peTAzYkx2MlN1dWlRbllpRFR0NEtwWXp0QXNoS2Z5SEttMkUzb2k3Y0ZGQWRjT0tMRmg3OFlRS2ZpV1pPLVMtemxhRlpNVEtiVzJXb0VtYl84ZFhoLWNQQkU1NDR5anBlOTdYT3E1aFhPaHU0bkI2UWFmbldJdUxXb0xrZ19Ya3VRREloc3hkUDdYRkVGN1lveXNnTUJJMVRWaEQwZEI1XzVXb0dqbHpyejdQeGxxVDVIUGVHMkRkYjhjWUZ6bE5iYVBFTi1YVDVmMHRDWWFPN0FZWThOZFVEVmVqQmhGTUJhanoyUDY3U3dqNmJ2VHZlYXhTUkhQUldjcmYxdnZPU0hpUDlYOXk2UXV0Z253aC1kcmQ3eHp3R1dETFhCbFg2VWhJaXFFQU1HeFlmQjdyNXR5cjA0ZmNYXzJ2U2RaS3lBZFJ5enBHZXFET1ZPTW9IaUphZ19nd3RPeHp3dnp2UVJUSGE0QW9LeHFwLV94Tk1ycE5jMjNNWkIyZ1Fua2xfd01LcEw3NmhTaVFLT0ZPQVNaZHgtZ1A3bWcxRkt5SWprXzFXWVlpcjd3SUZUSGhGY2tFQ0F0OVB1OERzOWVaOHFUVzZvNEpPTFp4bl9SQ2E2T3NjaTBhelNhb21HS1c3TkYtX0FUZERyQ1dOaFpBak9KamNlR3pmdGpEQzRQRnhsUnNhY2FIejNrbkhYRnZRVk4zVFg3NXBIT0phNkw3Vm9WX2tnMld0SkhYNTZoUDZTYVdNYXZ4eDJqSXJpaWx3SVB3NnY3NGR0TWxsV1hDc1RUNmtqX2Nra1BQVzdUWDcwOW1rZjBfQTAtVGtheWtPWk1NU3k1VnBKYWM3eDBHamwxOFozY0VBN09KaVAxT0o1MFJRd1hzQkhIUVlhdE1IcHB3Znd5LUVDZzRhNGFYaFpXRVNwWkJKTFVRb19qUExtZHpZOEdmZXF5OE5CYVRtb2RNbUNGMXZPcjZ1R3NZRlItbi0yNmFyaWs3UFJrR0ZCR3ZObDhhUFFpb0pIT1pTdGFyT3VFUm1WMnFtVTUta1dQbTA1WUVoZ2ZXbzBUZi0wZnkwRU5FWjB0c0llTE0wUTBFZWNybGxhUjdOVjhkcU9SOVZTS05xQQ",
-        "time": "2026-09-12 14:51:46"
       }
     ],
     "youtube": [
@@ -2466,6 +2504,20 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "劉建國到台南開「幸福小黃」 想帶回雲林 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQcFRqLUVhSkZuSnVqcEVwSWdoa3J2Zl9SRVc3VVFyeEFrclMxTGN2Qzc5NVNoZkRvYkxGWXdiOG5JSFY5OERhTlNqQ2FMTHBDODc0bzZ2bFVhTUFjY1lnX0luZVI5VENtUF9UOVJCVkx4dkJDak0xampyQVpKQ1hISEJybU5HYjVIZ3ViUDN6Z0QyQ1A3LXdZUXktV2J0V0tBNnlHVU9rU3FEZUQzNTB0ajZJb1RuTHV0aWVNVlRJZGNsX0xQa2lsLTdnS0tUYTMyQ1VmZ3RydlJ0cGpodE1ndnppQ19nRGdGZ0NqS1otcGVmdzdsbTl4OWI4S3hTYTRtc29PNXBrQWlVZEIyTlM3TEo4V2Yxdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-18 06:29:07",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "討論牆 | 賴清德親任劉建國競總主委 蘇治芬接總督導拚雲林選戰 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGMjRNcHgwc2piNGREVEltUFFGbks5UWk1QmZPSEVKRGw0TldwVHZOYU5fQk1SaUdMcXJYQS04TjNfaTZBVDc3dXkzdGJEZmxCYllweTBNcHRLSW44VEFVNGdpYTk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-18 00:47:35",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "劉建國台南\"學習之旅\" 合體黃偉哲.陳亭妃走訪教學現場 - Yahoo",
         "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNM1dxaUEyREFGQXMxLWxxcWJfYWFsSWhyMUtSUERPYnZlWkpJcXE0TGNiaUhwRUlYckFYdEE5blZJbFNkRGRacTFUSmRaMUdBaVNxR0RmZEFLNEo0RjVpRlNoT0w4YXhpNGcyRHdoM2JhMDM1bXloZ0FQZXRscmJNV2xFblF1cUZvZVByMTBkNURtT0R6YjNFWkNMTTFaaUhhelFPV3BoQXp6aHdUcEJTbzV3eHk3YkljY3BBSEMtMEVXQngzSy1kcjAxOUZxLTdDd3BLaHdraW92UlJzU25iWnJaOUFjd045Nm80UDBoVTBrTUFITi12SENxT2czZDJTdkNhM0JNSWVBTExhV1RwcmROeXVOTk1PX2lYaFB4UUp1bVVOQmgtSWFwbmw0cEtNSm1ubVpjS2MyMkEyT3F4eTU5eUhpWGc5ODNmZU9YLTBJSThwM2I0dVhUWmYycHFha0tBUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -2591,20 +2643,6 @@
         "time": "2026-09-17 16:55:17",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "國民黨斗六市長參選人黃尤美今（17日）發布最新影片，與南投縣長許淑華、國民黨台南市長參選人謝龍介合體，跨縣市為國民黨加油，力挺雲林縣長候選人張嘉郡。黃尤美也響應張嘉郡提出的競選主軸「WOW雲林更好」，喊話未來縣市同心、建設加倍，讓斗六一起向前、 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMikwhBVV95cUxQLXhkZXlvTDN3Qm5kZ0NlMXJLS2xQdS1hbDc1UkVQMjlZYVBwMGcxYXdCR0EtQjlJNjlOR1Q2eE1GNEZTN0lvMnotS3c5N1ZCSmdPci1SOU5OanU4anFRVEpvTFYwbUVmZjQ4Zi1jU3dlcjZYNHpvTWlMZW9wUTVLazVNQUlpZ0NHblJMWVU0ZF83QUdmYU5ISG9kaHVSLU1DUzRBSVlBc3RFWmwtMHRoNi1EdE1YTG45UzQxa1BnX3EwV0JCUU1aUl9lMWtzUkdyaFE5M01HSVZNYUZfVVdDVnE3SktNQWUtbFpERmxWSWo4THR1cTBuMzA3VDFBaWxRUk9UVG5rNkJFNGJrdlh5S1FVcmROeHRxRDUzdTJHNkI4MHM5SDdtWmZMY05ROVp5OHFiZU1SalZPX0VjUTZMaUNNNUg2emFaUTdiRGlxUWNDOTctQnhMajlHSVhwQ1FmcDlZZHNCZDZLdzIwQnJZR0NxeV94ZDZ1Q3VSNXRuSnh6Y3hnMDFDdVZOX3JheEJZanVqZF9lSncxYWxGai1DX0Y2WndobHBFd3FhWGV3SHVCbWVSdHBnaXlYamswRlpwVDZnNndseE1DNVZHa1AtWDRWanlTQ1NiSEZ1ektUYnNaNWg5a3NOQkU0cGRBM21aMmV1NHYxS0tRVjFkckJGUWdqbDhmXzk1TENkcjI1akoyMXZwa2hGM0FlcmtzOExtdVpHZEhpcFJpZTk5UE5QOV9qbnF1U0tZbENzSEEzLUxmME9aZWM0czlFQmQ0M3hYQ0pRMnhwZkJ6OVAyZ1NtSHVjVW5nd2xmcHgwQjFySVlUakRmb2ZpU1NEZ0M4VzZsSEhpdnZReXdLSGtCTm01ZFB5YnBJM0dkV0ZHZThROGdnSjlMeG15TEJ1enozdi11YUF4Vy02dy1IWHlhbGZESTF4emJFWHhpNjdBQ1pSU2lFRldmV1NySnRYMWg5c2lPRDVhYTYwalBoVTdEaVQweHdMRlFzeHRGZEVFckYxanF6UEs4aXhKVTJWNlU2M2haRE9hUW9hSGFTOGc4RzYtbFBzVHctUmJ6WlBsWGR1R1VvTkpLdHd3MWducFp2UXdKcGhiSXE0U3VmMGFfQVc2TnUxUDB5ajNFbTFNcERfdERtbTBnX2xTWVVFYTBxN3hNajdRcUNuQ1FxUUhCdnRSejVvQnpzQi1LNllLeE9ZaVhGYkY2RXhkcTF2X3ZKZWRSYVVPUzdTczdfd2VENk1xczUyUUgzTzMxX0NPSzA1MVJyX2dsd3VnVk11ODROTFVTaE5NWks3a3RNZURrUXFzWFhBMnBDc0Mxb3VOY0VRZ3VsUmhUcXF0QkN1amlnblh0dHhhT2lYTnFpYVk4ZWdGb0hlWQ",
-        "time": "2026-09-17 16:17:03",
-        "platform": "facebook",
-        "risk": "綠"
-      },
-      {
-        "title": "許淑華、謝龍介跨縣市合體 拍片力挺張嘉郡 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQaVBCVVVyLVA1cTdfQ1NseTdTNS13QjhEMExjNVJiaGRRbTEwdlN5ZVRBMG8yQVNnQ25EbWtVRnloWEM3eGZiVm1KR2N4eklBSVgxS0U1ZzR3SVphVHF2dzFIaUsxWDdrbHdGX002bE5Vd0tnMnVJc1h3aVN3LUVwN2xHdjZtVFdMREtnTmRRX3JzdW0xYmNxQS1RZ3oxREh6QVJ6TlZnU2wyWmxEQUpKenAtWC1Vc1BLV2tUM2FrVVRfckUtTDNJNHY5WERWdWE0bHJ6YmVnaG9DMUZlUG5tTXV0ZTUtQUFhMzNkend2Tm8wNmV1MEtwTW41VmxZcW5FazB3ek9pQ3BkbkpxajRSQUFROFFtSUhrN2F5UGdwUGxSaU8zVDEtVTJpZ2txZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-17 16:04:54",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2612,7 +2650,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 23
+        "count": 25
       },
       {
         "name": "斗六",
