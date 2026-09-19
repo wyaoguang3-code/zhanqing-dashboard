@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-19T12:01:44.193112+00:00",
+  "generated_at": "2026-09-19T12:17:33.867679+00:00",
   "metrics": {
-    "total_24h": 23,
+    "total_24h": 26,
     "prev_24h": 39,
-    "growth_pct": -41.03,
-    "news_24h": 21,
+    "growth_pct": -33.33,
+    "news_24h": 23,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 361,
+    "total": 364,
     "prev": 175,
-    "growth_pct": 106.29,
-    "news": 299,
+    "growth_pct": 108.0,
+    "news": 301,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,11 +28,11 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 21
+      "count": 23
     },
     {
       "platform": "facebook",
-      "count": 1
+      "count": 2
     },
     {
       "platform": "youtube",
@@ -42,11 +42,11 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 299
+      "count": 301
     },
     {
       "platform": "facebook",
-      "count": 42
+      "count": 43
     },
     {
       "platform": "youtube",
@@ -85,6 +85,14 @@
     {
       "hour": "2026-09-19 16:00",
       "count": 2
+    },
+    {
+      "hour": "2026-09-19 17:00",
+      "count": 2
+    },
+    {
+      "hour": "2026-09-19 19:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -451,20 +459,38 @@
     {
       "hour": "2026-09-19 16:00",
       "count": 2
+    },
+    {
+      "hour": "2026-09-19 17:00",
+      "count": 2
+    },
+    {
+      "hour": "2026-09-19 19:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 21
+      "count": 23
     },
     {
       "platform": "facebook",
-      "count": 1
+      "count": 2
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "竹北國眾兩黨撕破臉翻頁 白營雲林喊集中選票挺張嘉郡接棒 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQbEpZdV92d3ZiSVFPMTNBZ2tpVGYtYWJLUVBpbU4wWmU3X3BJUGFWRkdVYjg4bmZHR3BoMlhva25fT0VaWFBUVDB1MnVkZ1ZYTU1fYU55dW5QLVhaUHZ3cW1Uc3dIeFVlWnJRQ2xOZVFnTEt4MnczT2FjRGtkRFFKbTIzdkZ6TTJjcXRxOHd1NHI4MXdYM2I5bzVQYTM5WUVRVmQtLUZjb2wyZkY2TWZTdmpqU1lCY3VzN280ZUFkdWZSbW1JQVlRekhMTzh3UV9zTFdhdXY5MjZrSllsbXZaaEtKalZSMFRTV3o3akZTZmgxQTZ4dkJYenFVZE1pS281UG9EOUJXQktPcW9pYTVOdXJuV1ZPX3E2SmRYUTlpR3IydEVFLTItMmgzenJFTWVYRnlYSmtHaDh3WGpjWTVNdkhzY25KYUlLcEdtcGx1VmduTm9hVjI3cU1DMjZQZUlmNE50R2R6dFVVMlJVRDA3bHl5cUk4Mll1cmdsSVBNNlROSy05ejBmU2tDd2Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-19 19:05:11"
+      },
+      {
+        "title": "樂齡動起來！劉建國推廣健康運動長輩齊聚雲科大挑戰匹克球- 社會新聞- PChome Online 新聞 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVEk5NmpvdWlLc1ZaVnVYd1V6WVVoZXNqcjFHZ183V2d6VXkzeDFaaUowbXJSV1doY2xfNFVhMEtkbEZXSFo1elRYS25ZcUthUjdOa2hRcXF2VTVhSndwRllOWU03VkRUN2FKeUQ1aW1XZGlKQVY1SEt3ZERUVThBOThGSVBkYlFKVzloVkYzbExiQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-19 17:22:50"
+      },
       {
         "title": "迎戰賴清德任劉建國競總主委！民眾黨：雲林全力支持張嘉郡 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPMjRLTmNKcWN3RWFaX2lnR1RIUzZ4dU90RTJqNnU2THFCVDIyb010Vy1TTmMzTnFob2FiZ1MtRzJyS0lsOFBDS2lfZnlNSkljUDFrMmRPa18zajNRVVFjNzRYSzYzZS1USHkxMEs5X1k1NndRTzlrM21lMEFoSXlkR1ByZ3FhaTMtaWFwcklXMGFXeVNEc2R6Si1TMklyUk55VURuS1VHUE9NTnUyVmwtTjQ4VHNzdkRlRldsWU5zNU42c2llRkJjdFdfSDA4bm1tbEE1bURkRWZ2SFBBRXFzNnIxdTVhYVoyd0Zid1hqZ0FEMTJvVGRhZnlzU0pocmNQeDh4RmMwcVJWbXJZUDE0ZWxYTWgxbzJkNjlYdnMtXzZOUHJ5VHNmVkxiX3FGWmdCdGplV1RjQ2p5ajBGaThVdEtFOFhTNGlmalhFT01rb1pzQjduOEhCQ085bTE2Mk9FSVRDclpFSW5zVkFmeWhoTVVBV2ZHamtLVDRJYzZGZG11UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -572,6 +598,11 @@
       }
     ],
     "facebook": [
+      {
+        "title": "【「竹北的事情就留在竹北」 黃國昌籲支持張嘉郡】 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOd2xsZ05sR3ZuNDg5cjBxLVkwTjl3dUZWQmhUQTJfQ010R08tNDQ5elBSZWhLT0JnXzRvTWdLVWlleGlOci1ac1RpSkpxRElOaGhaQ1VxXzRHMGJxbEhWd0lycXlDUGc1MVlHMHNBc1JSaExlUkJsX282aXNVcFU1NnNOeWhtdDl4SVY3U2xoRm05aDJjWFdHMFZ2eWdDczlsMjc5T2lERWkyd1Atek1tS1RERm9Va1VhS2xLZld4TmpIU2pUc2J6MFdzRmtOR0RzeVdnSFZ6X0RURUtFZnZaaVZzYkFUS3ptamtwRV9aSkhlYWZFcU81RUp1UDgxdWxOenVrdmZ6VzBTZ0hwWGpfcllZR1Fmdm5RanV5NkU4Y3IyZmhVQ2RQSzJ1UEZGOXRwNnB5TkxVUXktaE9JTFFWdnh6Z25kR0oydEJYUw",
+        "time": "2026-09-19 17:50:09"
+      },
       {
         "title": "雲林藍白合體！ 黃國昌喊集中選票挺張嘉郡： 竹北破局就留在竹北 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPMDVUbTc1RnlDMllFOUlhaHlOUVRSQTlmNzdNN0JvRmo3VUg1MHBDUWlMR2hQT1lWVlJ5TXU3OGp6R0JyTTJJYk5jUUVHeXpoWWU0TVRTUS1Wd1RWbnBTWjRqZjFKZWgwWlJfNGw1eWZ4M09nZkNCenh1TmhkcENqMDliWnk2RXk4UWlWb2dJYk9UQmFRcEdvVk9CLUQ2bENjbDZaWGdWaHhoMlVURHNZV2lNYUFfY2FZMVZXdWNoRDR1WkZZbndPempiSTVHMEJORXVCNHQtS2Uzb1RkYjFiUllvY1V3cDdHWGlocHd1M255R1l2S0l3VGV0YldfRloySW5qSFdmNGY2Umh2ZUU4amh4UExIbngyOEZsWDB6NDBMM01VTDdDbFo1U291VkJDMk9LVEk1TnFVREE1dGNFSGUtOEwyVGdpZEhYZDRaS3A4M1hFQVIxazBWYVFWNGg4Tk93dUpJY3B3cTVpVVZQck1TaUNKLXY3ci13c042a3BUMWlMeHJpU0hLWE0tV2VicmJKYU03VnhvY0RRX2RkaV84TXdXVEJYUGJ4TXJn",
@@ -582,15 +613,25 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 21
+      "count": 23
     },
     {
       "platform": "facebook",
-      "count": 1
+      "count": 2
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "竹北國眾兩黨撕破臉翻頁 白營雲林喊集中選票挺張嘉郡接棒 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQbEpZdV92d3ZiSVFPMTNBZ2tpVGYtYWJLUVBpbU4wWmU3X3BJUGFWRkdVYjg4bmZHR3BoMlhva25fT0VaWFBUVDB1MnVkZ1ZYTU1fYU55dW5QLVhaUHZ3cW1Uc3dIeFVlWnJRQ2xOZVFnTEt4MnczT2FjRGtkRFFKbTIzdkZ6TTJjcXRxOHd1NHI4MXdYM2I5bzVQYTM5WUVRVmQtLUZjb2wyZkY2TWZTdmpqU1lCY3VzN280ZUFkdWZSbW1JQVlRekhMTzh3UV9zTFdhdXY5MjZrSllsbXZaaEtKalZSMFRTV3o3akZTZmgxQTZ4dkJYenFVZE1pS281UG9EOUJXQktPcW9pYTVOdXJuV1ZPX3E2SmRYUTlpR3IydEVFLTItMmgzenJFTWVYRnlYSmtHaDh3WGpjWTVNdkhzY25KYUlLcEdtcGx1VmduTm9hVjI3cU1DMjZQZUlmNE50R2R6dFVVMlJVRDA3bHl5cUk4Mll1cmdsSVBNNlROSy05ejBmU2tDd2Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-19 19:05:11"
+      },
+      {
+        "title": "樂齡動起來！劉建國推廣健康運動長輩齊聚雲科大挑戰匹克球- 社會新聞- PChome Online 新聞 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVEk5NmpvdWlLc1ZaVnVYd1V6WVVoZXNqcjFHZ183V2d6VXkzeDFaaUowbXJSV1doY2xfNFVhMEtkbEZXSFo1elRYS25ZcUthUjdOa2hRcXF2VTVhSndwRllOWU03VkRUN2FKeUQ1aW1XZGlKQVY1SEt3ZERUVThBOThGSVBkYlFKVzloVkYzbExiQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-19 17:22:50"
+      },
       {
         "title": "迎戰賴清德任劉建國競總主委！民眾黨：雲林全力支持張嘉郡 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPMjRLTmNKcWN3RWFaX2lnR1RIUzZ4dU90RTJqNnU2THFCVDIyb010Vy1TTmMzTnFob2FiZ1MtRzJyS0lsOFBDS2lfZnlNSkljUDFrMmRPa18zajNRVVFjNzRYSzYzZS1USHkxMEs5X1k1NndRTzlrM21lMEFoSXlkR1ByZ3FhaTMtaWFwcklXMGFXeVNEc2R6Si1TMklyUk55VURuS1VHUE9NTnUyVmwtTjQ4VHNzdkRlRldsWU5zNU42c2llRkJjdFdfSDA4bm1tbEE1bURkRWZ2SFBBRXFzNnIxdTVhYVoyd0Zid1hqZ0FEMTJvVGRhZnlzU0pocmNQeDh4RmMwcVJWbXJZUDE0ZWxYTWgxbzJkNjlYdnMtXzZOUHJ5VHNmVkxiX3FGWmdCdGplV1RjQ2p5ajBGaThVdEtFOFhTNGlmalhFT01rb1pzQjduOEhCQ085bTE2Mk9FSVRDclpFSW5zVkFmeWhoTVVBV2ZHamtLVDRJYzZGZG11UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -699,6 +740,11 @@
     ],
     "facebook": [
       {
+        "title": "【「竹北的事情就留在竹北」 黃國昌籲支持張嘉郡】 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOd2xsZ05sR3ZuNDg5cjBxLVkwTjl3dUZWQmhUQTJfQ010R08tNDQ5elBSZWhLT0JnXzRvTWdLVWlleGlOci1ac1RpSkpxRElOaGhaQ1VxXzRHMGJxbEhWd0lycXlDUGc1MVlHMHNBc1JSaExlUkJsX282aXNVcFU1NnNOeWhtdDl4SVY3U2xoRm05aDJjWFdHMFZ2eWdDczlsMjc5T2lERWkyd1Atek1tS1RERm9Va1VhS2xLZld4TmpIU2pUc2J6MFdzRmtOR0RzeVdnSFZ6X0RURUtFZnZaaVZzYkFUS3ptamtwRV9aSkhlYWZFcU81RUp1UDgxdWxOenVrdmZ6VzBTZ0hwWGpfcllZR1Fmdm5RanV5NkU4Y3IyZmhVQ2RQSzJ1UEZGOXRwNnB5TkxVUXktaE9JTFFWdnh6Z25kR0oydEJYUw",
+        "time": "2026-09-19 17:50:09"
+      },
+      {
         "title": "雲林藍白合體！ 黃國昌喊集中選票挺張嘉郡： 竹北破局就留在竹北 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPMDVUbTc1RnlDMllFOUlhaHlOUVRSQTlmNzdNN0JvRmo3VUg1MHBDUWlMR2hQT1lWVlJ5TXU3OGp6R0JyTTJJYk5jUUVHeXpoWWU0TVRTUS1Wd1RWbnBTWjRqZjFKZWgwWlJfNGw1eWZ4M09nZkNCenh1TmhkcENqMDliWnk2RXk4UWlWb2dJYk9UQmFRcEdvVk9CLUQ2bENjbDZaWGdWaHhoMlVURHNZV2lNYUFfY2FZMVZXdWNoRDR1WkZZbndPempiSTVHMEJORXVCNHQtS2Uzb1RkYjFiUllvY1V3cDdHWGlocHd1M255R1l2S0l3VGV0YldfRloySW5qSFdmNGY2Umh2ZUU4amh4UExIbngyOEZsWDB6NDBMM01VTDdDbFo1U291VkJDMk9LVEk1TnFVREE1dGNFSGUtOEwyVGdpZEhYZDRaS3A4M1hFQVIxazBWYVFWNGg4Tk93dUpJY3B3cTVpVVZQck1TaUNKLXY3ci13c042a3BUMWlMeHJpU0hLWE0tV2VicmJKYU03VnhvY0RRX2RkaV84TXdXVEJYUGJ4TXJn",
         "time": "2026-09-19 15:05:01"
@@ -706,14 +752,24 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 14,
-    "劉建國": 11
+    "張嘉郡": 16,
+    "劉建國": 12
   },
   "mention_compare_7d": {
-    "張嘉郡": 150,
-    "劉建國": 207
+    "張嘉郡": 152,
+    "劉建國": 208
   },
   "top_news": [
+    {
+      "title": "竹北國眾兩黨撕破臉翻頁 白營雲林喊集中選票挺張嘉郡接棒 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQbEpZdV92d3ZiSVFPMTNBZ2tpVGYtYWJLUVBpbU4wWmU3X3BJUGFWRkdVYjg4bmZHR3BoMlhva25fT0VaWFBUVDB1MnVkZ1ZYTU1fYU55dW5QLVhaUHZ3cW1Uc3dIeFVlWnJRQ2xOZVFnTEt4MnczT2FjRGtkRFFKbTIzdkZ6TTJjcXRxOHd1NHI4MXdYM2I5bzVQYTM5WUVRVmQtLUZjb2wyZkY2TWZTdmpqU1lCY3VzN280ZUFkdWZSbW1JQVlRekhMTzh3UV9zTFdhdXY5MjZrSllsbXZaaEtKalZSMFRTV3o3akZTZmgxQTZ4dkJYenFVZE1pS281UG9EOUJXQktPcW9pYTVOdXJuV1ZPX3E2SmRYUTlpR3IydEVFLTItMmgzenJFTWVYRnlYSmtHaDh3WGpjWTVNdkhzY25KYUlLcEdtcGx1VmduTm9hVjI3cU1DMjZQZUlmNE50R2R6dFVVMlJVRDA3bHl5cUk4Mll1cmdsSVBNNlROSy05ejBmU2tDd2Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-19 19:05:11"
+    },
+    {
+      "title": "樂齡動起來！劉建國推廣健康運動長輩齊聚雲科大挑戰匹克球- 社會新聞- PChome Online 新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVEk5NmpvdWlLc1ZaVnVYd1V6WVVoZXNqcjFHZ183V2d6VXkzeDFaaUowbXJSV1doY2xfNFVhMEtkbEZXSFo1elRYS25ZcUthUjdOa2hRcXF2VTVhSndwRllOWU03VkRUN2FKeUQ1aW1XZGlKQVY1SEt3ZERUVThBOThGSVBkYlFKVzloVkYzbExiQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-19 17:22:50"
+    },
     {
       "title": "迎戰賴清德任劉建國競總主委！民眾黨：雲林全力支持張嘉郡 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPMjRLTmNKcWN3RWFaX2lnR1RIUzZ4dU90RTJqNnU2THFCVDIyb010Vy1TTmMzTnFob2FiZ1MtRzJyS0lsOFBDS2lfZnlNSkljUDFrMmRPa18zajNRVVFjNzRYSzYzZS1USHkxMEs5X1k1NndRTzlrM21lMEFoSXlkR1ByZ3FhaTMtaWFwcklXMGFXeVNEc2R6Si1TMklyUk55VURuS1VHUE9NTnUyVmwtTjQ4VHNzdkRlRldsWU5zNU42c2llRkJjdFdfSDA4bm1tbEE1bURkRWZ2SFBBRXFzNnIxdTVhYVoyd0Zid1hqZ0FEMTJvVGRhZnlzU0pocmNQeDh4RmMwcVJWbXJZUDE0ZWxYTWgxbzJkNjlYdnMtXzZOUHJ5VHNmVkxiX3FGWmdCdGplV1RjQ2p5ajBGaThVdEtFOFhTNGlmalhFT01rb1pzQjduOEhCQ085bTE2Mk9FSVRDclpFSW5zVkFmeWhoTVVBV2ZHamtLVDRJYzZGZG11UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -763,19 +819,19 @@
       "title": "雲林藍白合體！黃國昌喊集中選票挺張嘉郡：竹北破局就留在竹北 - TVBS新聞網",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WVXhURXliVm5EYXl4Sm42Rm0xa3RJQ1VOOWEyYUpaVTFEeHNSbGNmVFE0djVWT0gxeEpqdTFJZjNUdUNBaVF4NWZjUlpMYkc5bGVF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-19 13:47:00"
-    },
-    {
-      "title": "黃國昌喊「竹北的事留在竹北」！雲林同框張麗善 站台力挺張嘉郡接棒| 政治焦點 - 太報 TaiSounds",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42eUxvdktGTVdJaDlqendoYU1iaHl1bVVmWGh5X2VKei1GbU5yQU1EX08xRVExRE1uV3l5X1g4YUVZOVlSaVpNcXJlOWxSZUh5RVRhN2stMGRNc1BY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-19 13:44:27"
-    },
-    {
-      "title": "竹北的事情留在竹北 黃國昌同台張嘉郡喊話小草全力挺張 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPLVZMeGNhMHNOcDc0YjNiWjhxWVBMa0UxNVlLNkV5dmNPeVpzSkVlWTdUZmdIeVVkbWRodzBxdHJTLWRpMnNfcTdYb2RNRjRyZldGUTN1OFUyMlRVQ3NyZ2tJRW1jSmdSeHF1SjMxUTAzd3ZhNndrcEE3OG03djZtY05Tc1psdkplQ0FRRndhbTJyWU5MSFdEMUJoNkw2VmltOUNoUGVlTUl6NWNzdWVyOTFqNTlUTmlvVlFvaHZqa2FYdXh3RVB4OGdnZ1FlN0JVWGJCOWpiV1NfaF9ZaUR1T09iVkdlV2FOajFxSkN5UGJlWDl5dXpHbTluRzFtcVY5czI5SUd1VnhsVi1vY2cteDVnZTNTTUtvQ2lIWkdBWVpGM2NCQWhteUc2YkJicGdPTkhLcF9Gd04tdWtIWXY4MFpmX2lCSXkxTTZSMkFoQ3M3OEdxcFdkb09mbUs0ZXBOSk5ZRUw4RzVBZkZvdGNUTVNfRWV6NDNoeEN0dmVXODQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-19 13:07:09"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "竹北國眾兩黨撕破臉翻頁 白營雲林喊集中選票挺張嘉郡接棒 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQbEpZdV92d3ZiSVFPMTNBZ2tpVGYtYWJLUVBpbU4wWmU3X3BJUGFWRkdVYjg4bmZHR3BoMlhva25fT0VaWFBUVDB1MnVkZ1ZYTU1fYU55dW5QLVhaUHZ3cW1Uc3dIeFVlWnJRQ2xOZVFnTEt4MnczT2FjRGtkRFFKbTIzdkZ6TTJjcXRxOHd1NHI4MXdYM2I5bzVQYTM5WUVRVmQtLUZjb2wyZkY2TWZTdmpqU1lCY3VzN280ZUFkdWZSbW1JQVlRekhMTzh3UV9zTFdhdXY5MjZrSllsbXZaaEtKalZSMFRTV3o3akZTZmgxQTZ4dkJYenFVZE1pS281UG9EOUJXQktPcW9pYTVOdXJuV1ZPX3E2SmRYUTlpR3IydEVFLTItMmgzenJFTWVYRnlYSmtHaDh3WGpjWTVNdkhzY25KYUlLcEdtcGx1VmduTm9hVjI3cU1DMjZQZUlmNE50R2R6dFVVMlJVRDA3bHl5cUk4Mll1cmdsSVBNNlROSy05ejBmU2tDd2Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-19 19:05:11"
+    },
+    {
+      "title": "樂齡動起來！劉建國推廣健康運動長輩齊聚雲科大挑戰匹克球- 社會新聞- PChome Online 新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVEk5NmpvdWlLc1ZaVnVYd1V6WVVoZXNqcjFHZ183V2d6VXkzeDFaaUowbXJSV1doY2xfNFVhMEtkbEZXSFo1elRYS25ZcUthUjdOa2hRcXF2VTVhSndwRllOWU03VkRUN2FKeUQ1aW1XZGlKQVY1SEt3ZERUVThBOThGSVBkYlFKVzloVkYzbExiQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-19 17:22:50"
+    },
     {
       "title": "迎戰賴清德任劉建國競總主委！民眾黨：雲林全力支持張嘉郡 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPMjRLTmNKcWN3RWFaX2lnR1RIUzZ4dU90RTJqNnU2THFCVDIyb010Vy1TTmMzTnFob2FiZ1MtRzJyS0lsOFBDS2lfZnlNSkljUDFrMmRPa18zajNRVVFjNzRYSzYzZS1USHkxMEs5X1k1NndRTzlrM21lMEFoSXlkR1ByZ3FhaTMtaWFwcklXMGFXeVNEc2R6Si1TMklyUk55VURuS1VHUE9NTnUyVmwtTjQ4VHNzdkRlRldsWU5zNU42c2llRkJjdFdfSDA4bm1tbEE1bURkRWZ2SFBBRXFzNnIxdTVhYVoyd0Zid1hqZ0FEMTJvVGRhZnlzU0pocmNQeDh4RmMwcVJWbXJZUDE0ZWxYTWgxbzJkNjlYdnMtXzZOUHJ5VHNmVkxiX3FGWmdCdGplV1RjQ2p5ajBGaThVdEtFOFhTNGlmalhFT01rb1pzQjduOEhCQ085bTE2Mk9FSVRDclpFSW5zVkFmeWhoTVVBV2ZHamtLVDRJYzZGZG11UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -865,19 +921,14 @@
       "title": "雲林突圍5 力抗家族壟斷 劉建國拚翻轉 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNTU9aVnkwNXhWMGMyUTNyZElnR3NyUWFZYXJySnZVQmNDQU5VMF90cl9jcm8yM0VZNDZkYnZLdm4xYjl4a1BPdWJUOWNIQ2wwVHlob0xseW4ydXNpZHM4cHItYXR3WFFoSkI0ZWM2UFdEQ2xlR0YtNGxLNW1zUkVFX2dlWjRiOWJMTVFSWldUVzc2SjdzYi1haEdjWElRSUFnODhlMlNFX2tWbVV0S0RVUkpTTURYeENEUmdxLTVJMlhEQ2c5Qk1wVklQWk9yNWdxelRGcGpHWGNZbjhLLVRIcnpaMlBiTUpSbWNTZnU0N3dhdmJzVU04NWdud0N6V3gycjlIVzlQaXJrS0J1ZFZhMmd0UlNVWlk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-19 10:06:55"
-    },
-    {
-      "title": "雲林突圍1 劉建國的參政心法：雞婆與臭屁 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRFZmOGRQRTZIYXRaQ2oxcExJdFZQT0ZwRm9JYTBYRko0ZHFZOHdEazdnNDBfMzEzTVVnTk5kTEpDRDFIWXJ0ZmdmSC1RWV8tUHVnMnlraDI1amUyazc3NkxncTdaWlBmSURYVE9vUXc4VXo3Mm51aUJzUDFBSExVX3A4YWUwOEJXanZ4ZmgtQ0x3ZlBKcHpEamE3bW9jVTRsOXdQWTh3YzBMR21jS0ItVFNzMXYtRm5nbHh5N2xvYWh4UXdZbjZ5WVFJWDZ1S0RBdGd4UWF0RlFjM0VJaXJickhtRTd3MHZvSVZ3a0xoZmR3T3VRczFFVzFDSlZUQ2hrMTlxbVpIcnp6Y3dOYjlxZW4yanlkTWFtLUItZUhDbUtLUWs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-19 10:06:55"
-    },
-    {
-      "title": "幕後／賴清德掛帥雲林！助攻劉建國催返鄉票 拚突破張家優勢選區 - TVBS新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zbkxiOFBTbzQ5R0VCNGFDZkZrd2x5dE5EVEE1dnhZMWd6WUtQQVk2X1lCN1h5OXlOSVNVMmRISk9aOW9OemdWbGlDbFoxS0pCb1dn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-19 07:30:00"
     }
   ],
   "latest_facebook_20": [
+    {
+      "title": "【「竹北的事情就留在竹北」 黃國昌籲支持張嘉郡】 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOd2xsZ05sR3ZuNDg5cjBxLVkwTjl3dUZWQmhUQTJfQ010R08tNDQ5elBSZWhLT0JnXzRvTWdLVWlleGlOci1ac1RpSkpxRElOaGhaQ1VxXzRHMGJxbEhWd0lycXlDUGc1MVlHMHNBc1JSaExlUkJsX282aXNVcFU1NnNOeWhtdDl4SVY3U2xoRm05aDJjWFdHMFZ2eWdDczlsMjc5T2lERWkyd1Atek1tS1RERm9Va1VhS2xLZld4TmpIU2pUc2J6MFdzRmtOR0RzeVdnSFZ6X0RURUtFZnZaaVZzYkFUS3ptamtwRV9aSkhlYWZFcU81RUp1UDgxdWxOenVrdmZ6VzBTZ0hwWGpfcllZR1Fmdm5RanV5NkU4Y3IyZmhVQ2RQSzJ1UEZGOXRwNnB5TkxVUXktaE9JTFFWdnh6Z25kR0oydEJYUw",
+      "time": "2026-09-19 17:50:09"
+    },
     {
       "title": "雲林藍白合體！ 黃國昌喊集中選票挺張嘉郡： 竹北破局就留在竹北 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPMDVUbTc1RnlDMllFOUlhaHlOUVRSQTlmNzdNN0JvRmo3VUg1MHBDUWlMR2hQT1lWVlJ5TXU3OGp6R0JyTTJJYk5jUUVHeXpoWWU0TVRTUS1Wd1RWbnBTWjRqZjFKZWgwWlJfNGw1eWZ4M09nZkNCenh1TmhkcENqMDliWnk2RXk4UWlWb2dJYk9UQmFRcEdvVk9CLUQ2bENjbDZaWGdWaHhoMlVURHNZV2lNYUFfY2FZMVZXdWNoRDR1WkZZbndPempiSTVHMEJORXVCNHQtS2Uzb1RkYjFiUllvY1V3cDdHWGlocHd1M255R1l2S0l3VGV0YldfRloySW5qSFdmNGY2Umh2ZUU4amh4UExIbngyOEZsWDB6NDBMM01VTDdDbFo1U291VkJDMk9LVEk1TnFVREE1dGNFSGUtOEwyVGdpZEhYZDRaS3A4M1hFQVIxazBWYVFWNGg4Tk93dUpJY3B3cTVpVVZQck1TaUNKLXY3ci13c042a3BUMWlMeHJpU0hLWE0tV2VicmJKYU03VnhvY0RRX2RkaV84TXdXVEJYUGJ4TXJn",
@@ -972,14 +1023,19 @@
       "title": "民視新聞. . ▌【熱門網搜】賴清德接下劉建國競總主委 指雲林未來也攸關台灣前途｜民視新聞 - 民進黨行動中常會雲林場，16日下午來到雲林麥寮舉行，前立委蘇治芬、總統賴清德都到場，蘇治芬擔任競選總部總督導，總統賴清德，則在民進黨雲林縣長候選人劉建國邀請 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMigghBVV95cUxQbjhKdlQxVTRoTU5VMVFQWHUxWEVZZklRdjVMdWlMcS1FNHpYWnlPeVFJdF9zd3ZDakh6V2tDRm9yWWVleUVRMjJLSVFiYzZyUGZUc0YzZXVjS0lsSG1ic0dTSlFBd05tN2FiZmplTEdoYXVpNUJRbFFzZlFGdlpJaUlUcTU4dHFTT2JRUGFnMUtad2JMZV9hWU1ld2tLbzF4X3ltcnphT29PUTVPRzcxZGxUZzk5eXNOWTlZd1d4MmkwV18xNG43QXEtWGwxWGI1RTFOVWFDbmJsOGpiYXN4ZFlOOEJIcjlmQTdFTXBuZ3BaNHQ0bERKbExrbmlwU0dFSGhkNHItZzJ2R1Zwei1xbjNUeEg4NnF6VC0tSHQ0OWFWd0pWTWtMY2RldkMtdEw4N3ROUS1aa05ETG5fS05JeUdsTTJtQm9GUkFoQ0dfX2U4ZEd0aDJQUW5ZR1B3cm9XWDBQX0MwMU0tT0hmMFpWY2lvcE1KVXF4bFMzaVZpeUlXRzVDNndlYzc2Yml6UnVmTGoyVDRLMWdvT0RVOEppNHZRa1l1WGZ2NjcxTE1ldXJTZTRwLThkZkNhUFNNQ2xSQ3lEejExWENzY2lFSjRNaERDSmN2RndzOUZVekw4ei1IeVlCR3JXdWI5OFMwdkVaRjJqU3pVUkNfXzF1TnpSVzhjWWJYVFE1cmV1aDhnelVDc2MtNVBVOGc0WmtaMjlycWk4RXFZYUJTU0liT0ZxZXZkYzVEcl9jLTk0Q2FFWExmYjhRT0ZMSjhHNFVaTUZYXzNlNHgzSjZvcnVJTVZzSnFlVDBhNmJxWUxpaEFVLXFlTjlQejdtVF82b3R2c1NmNU9LS2lUbVVvNl9ad0hDTENlUlh3MjhRZTZCMWFlc25iX0hCTktWSXdlUVNscTNVSzM2T29VZFlQaHYxWFpaVTY1TG5kdVpKTGVhc2lfX0VseTh6bjdvLWJVR1hmMzJESTZaYUN4ZlF0ZWlxbGVWT3RwRXNHM1AwWExMdGsxTVR3X1Q3azBKS1UwYVdYNFZxMDBudnZVRTl6LTFZcnltUm50bmFLNWQ2SjVPdVN3S2pnVnlWbjg1MVlndlpNbVllb0NEekJWN1UwdmkwWkNGa2RnV1dIemJMTERnYWo0ZE1Ia2ozZ3d0b2xLUW9GR0htSHdrbzJwclVUVTV5YWs1SkI0ZUlyVTY4NmZpU0NDbDAwN01XMDFNcXhuWmk4c2FUVW9hTDJJd1FDd1ZFR3pnbTZFLUc3eHAwWmtWbDdUS0tqU3VFeUxyRXFITmZtTU8tMFoxUGtoQnpaWWhmY05WZGtBRmlFYUZ0QnFYcE9MQ1lXd1ptMHZZdDlrZG43SVNCWmc",
       "time": "2026-09-16 20:15:30"
-    },
-    {
-      "title": "「劉建國的勝選，是全雲林人民的勝利！」 今天行動中常會移師雲林，賴清德 主席親自接下建國競選總部主委，蘇治芬 前縣長出任總督導。 除了蘇前縣長以外，蘇前縣長的團隊，過往所有為了故鄉打拚的力量，今天全員到齊！ ​主席在台上講的那句話直擊人心： 這是一場 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMimghBVV95cUxPZl9LLVhLQ1J6bnk4VkhOclM2RU9wb0hMdTVEYlJvemREYzgyM3V5aGdTTVNGSkptalJVeVRFTlRYNkZMYjhVOHJSYjBNdTlrcDJ4UUpDaUc0b3FETHdqOWZycmpyaFFjVE0taV9KYmNSeVpNb2Z6eWt5SmpuUzdsR0tlYm5ZdEFYMUNnTzA4X2JadzZoTllMS3BOMWs1UHR6emdXbHBSREhwQklBV3FBTmEtd0M2NHNaMmZhVlpFN0NWN1Rxcmh6YjBqU2VockFXdVBxOHRCLWl0b1hWLUFjRGo4dGhHTXh6S3RSbmhaaDBNMVhqMVh3NC1QdmFnbEEwWTNRZTRVQldPam9LQV9pWGR4TXBLUUJSNFFqMjZNb19aZDBNQnQyc2hvOVM5bkMxNW9jRFpYZXVmTVdJaUh3MmJLN2l0bkxNaXpBZGhiUXEwN0F0bHJiREFOamlrVzRhVUVPa09uUmxZSk0wOXU5Zml1MFpyYllwVXN6WkdJSXBobmIzYThjQWZHalZYRzhKeUlOWTNEaXhtVTB4MFBEeGl5dnNBbXlHVVVsSEJYSWlVVGk2Ql9LUlhRT19GUTRWbEtTNDJtMmRrNjU2aWYwdHJyUVdsM2pUclZBRjFtdFM5OGtGUnpSWTA3d2tsMmsxRGxsMVBWUFF1UjAxcVNzaFhPTGh4cm5ZY3JNaDRQWnl5REpmRTh2aTRQa3JDaXJIakRndGtvQzQ1enE3dEtLd1hWNXA2VFlUVUFBc1g5M0hyaFcxbVBDaGFfNEdFX3cxT0RGY1Y0Wm51NE1sZVRMR1BOUjJZVklsdFI4Zy1ETzJGYmoxcDJweUpGbVRJTG1CTFdhSFlVSXNhS2xROGozOGlKVkJ4b2hlclZvdGZHLVNvWlN3NUxDLTNXNV9aV3lOaC1Ma1ZJdUI5amZtOTg1SGxBU0lPbFFWenRfQWM3akpwRTY2M2V4OEJob0otSGExUFpvMm5fNHZ5anRKRGdSUEg4QXNIZklHdnhvWnlnLWVobkpnTFN1X3Q4LTZZazd4NzhDNUFodVM0NG1SRlIwdWl1cXJ3YTZhTWl6bG5lLXUxUjBpdVpIVHV1bDllNE5YQ0ZTVURlVURpN2xLa2VEQ0ViWURfVlNKZGREMWE3LWpWRldQNlJMWUhDZmVjdGxzMU85NTdaa25LbmxrYnlrNTk4d01YUEU2OFQ1OXdzN09qS041MVUzUWFkdGFiY29TVEtvaHZkRm1NeHdUb0IxUFF3YWZ2VFpFeUtBckRyOGEwVUpTOURaVHNSLUQzUkxEbUMycjJqUFdpSXhjT000aFVPR1o4aVdSNmhuY0YtSklQV0lnTTQyRlJ6SzJuNm55MVRQcEx2YmhMSzVVZEFZVEFoLVNGSVZfdUE",
-      "time": "2026-09-16 19:51:37"
     }
   ],
   "latest_news_20": [
+    {
+      "title": "竹北國眾兩黨撕破臉翻頁 白營雲林喊集中選票挺張嘉郡接棒 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQbEpZdV92d3ZiSVFPMTNBZ2tpVGYtYWJLUVBpbU4wWmU3X3BJUGFWRkdVYjg4bmZHR3BoMlhva25fT0VaWFBUVDB1MnVkZ1ZYTU1fYU55dW5QLVhaUHZ3cW1Uc3dIeFVlWnJRQ2xOZVFnTEt4MnczT2FjRGtkRFFKbTIzdkZ6TTJjcXRxOHd1NHI4MXdYM2I5bzVQYTM5WUVRVmQtLUZjb2wyZkY2TWZTdmpqU1lCY3VzN280ZUFkdWZSbW1JQVlRekhMTzh3UV9zTFdhdXY5MjZrSllsbXZaaEtKalZSMFRTV3o3akZTZmgxQTZ4dkJYenFVZE1pS281UG9EOUJXQktPcW9pYTVOdXJuV1ZPX3E2SmRYUTlpR3IydEVFLTItMmgzenJFTWVYRnlYSmtHaDh3WGpjWTVNdkhzY25KYUlLcEdtcGx1VmduTm9hVjI3cU1DMjZQZUlmNE50R2R6dFVVMlJVRDA3bHl5cUk4Mll1cmdsSVBNNlROSy05ejBmU2tDd2Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-19 19:05:11"
+    },
+    {
+      "title": "樂齡動起來！劉建國推廣健康運動長輩齊聚雲科大挑戰匹克球- 社會新聞- PChome Online 新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVEk5NmpvdWlLc1ZaVnVYd1V6WVVoZXNqcjFHZ183V2d6VXkzeDFaaUowbXJSV1doY2xfNFVhMEtkbEZXSFo1elRYS25ZcUthUjdOa2hRcXF2VTVhSndwRllOWU03VkRUN2FKeUQ1aW1XZGlKQVY1SEt3ZERUVThBOThGSVBkYlFKVzloVkYzbExiQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-19 17:22:50"
+    },
     {
       "title": "迎戰賴清德任劉建國競總主委！民眾黨：雲林全力支持張嘉郡 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPMjRLTmNKcWN3RWFaX2lnR1RIUzZ4dU90RTJqNnU2THFCVDIyb010Vy1TTmMzTnFob2FiZ1MtRzJyS0lsOFBDS2lfZnlNSkljUDFrMmRPa18zajNRVVFjNzRYSzYzZS1USHkxMEs5X1k1NndRTzlrM21lMEFoSXlkR1ByZ3FhaTMtaWFwcklXMGFXeVNEc2R6Si1TMklyUk55VURuS1VHUE9NTnUyVmwtTjQ4VHNzdkRlRldsWU5zNU42c2llRkJjdFdfSDA4bm1tbEE1bURkRWZ2SFBBRXFzNnIxdTVhYVoyd0Zid1hqZ0FEMTJvVGRhZnlzU0pocmNQeDh4RmMwcVJWbXJZUDE0ZWxYTWgxbzJkNjlYdnMtXzZOUHJ5VHNmVkxiX3FGWmdCdGplV1RjQ2p5ajBGaThVdEtFOFhTNGlmalhFT01rb1pzQjduOEhCQ085bTE2Mk9FSVRDclpFSW5zVkFmeWhoTVVBV2ZHamtLVDRJYzZGZG11UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1069,21 +1125,16 @@
       "title": "雲林突圍5 力抗家族壟斷 劉建國拚翻轉 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNTU9aVnkwNXhWMGMyUTNyZElnR3NyUWFZYXJySnZVQmNDQU5VMF90cl9jcm8yM0VZNDZkYnZLdm4xYjl4a1BPdWJUOWNIQ2wwVHlob0xseW4ydXNpZHM4cHItYXR3WFFoSkI0ZWM2UFdEQ2xlR0YtNGxLNW1zUkVFX2dlWjRiOWJMTVFSWldUVzc2SjdzYi1haEdjWElRSUFnODhlMlNFX2tWbVV0S0RVUkpTTURYeENEUmdxLTVJMlhEQ2c5Qk1wVklQWk9yNWdxelRGcGpHWGNZbjhLLVRIcnpaMlBiTUpSbWNTZnU0N3dhdmJzVU04NWdud0N6V3gycjlIVzlQaXJrS0J1ZFZhMmd0UlNVWlk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-19 10:06:55"
-    },
-    {
-      "title": "雲林突圍1 劉建國的參政心法：雞婆與臭屁 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRFZmOGRQRTZIYXRaQ2oxcExJdFZQT0ZwRm9JYTBYRko0ZHFZOHdEazdnNDBfMzEzTVVnTk5kTEpDRDFIWXJ0ZmdmSC1RWV8tUHVnMnlraDI1amUyazc3NkxncTdaWlBmSURYVE9vUXc4VXo3Mm51aUJzUDFBSExVX3A4YWUwOEJXanZ4ZmgtQ0x3ZlBKcHpEamE3bW9jVTRsOXdQWTh3YzBMR21jS0ItVFNzMXYtRm5nbHh5N2xvYWh4UXdZbjZ5WVFJWDZ1S0RBdGd4UWF0RlFjM0VJaXJickhtRTd3MHZvSVZ3a0xoZmR3T3VRczFFVzFDSlZUQ2hrMTlxbVpIcnp6Y3dOYjlxZW4yanlkTWFtLUItZUhDbUtLUWs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-19 10:06:55"
-    },
-    {
-      "title": "幕後／賴清德掛帥雲林！助攻劉建國催返鄉票 拚突破張家優勢選區 - TVBS新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zbkxiOFBTbzQ5R0VCNGFDZkZrd2x5dE5EVEE1dnhZMWd6WUtQQVk2X1lCN1h5OXlOSVNVMmRISk9aOW9OemdWbGlDbFoxS0pCb1dn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-19 07:30:00"
     }
   ],
   "person_sections": {
     "張嘉郡": {
       "facebook": [
+        {
+          "title": "【「竹北的事情就留在竹北」 黃國昌籲支持張嘉郡】 - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOd2xsZ05sR3ZuNDg5cjBxLVkwTjl3dUZWQmhUQTJfQ010R08tNDQ5elBSZWhLT0JnXzRvTWdLVWlleGlOci1ac1RpSkpxRElOaGhaQ1VxXzRHMGJxbEhWd0lycXlDUGc1MVlHMHNBc1JSaExlUkJsX282aXNVcFU1NnNOeWhtdDl4SVY3U2xoRm05aDJjWFdHMFZ2eWdDczlsMjc5T2lERWkyd1Atek1tS1RERm9Va1VhS2xLZld4TmpIU2pUc2J6MFdzRmtOR0RzeVdnSFZ6X0RURUtFZnZaaVZzYkFUS3ptamtwRV9aSkhlYWZFcU81RUp1UDgxdWxOenVrdmZ6VzBTZ0hwWGpfcllZR1Fmdm5RanV5NkU4Y3IyZmhVQ2RQSzJ1UEZGOXRwNnB5TkxVUXktaE9JTFFWdnh6Z25kR0oydEJYUw",
+          "time": "2026-09-19 17:50:09"
+        },
         {
           "title": "雲林藍白合體！ 黃國昌喊集中選票挺張嘉郡： 竹北破局就留在竹北 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPMDVUbTc1RnlDMllFOUlhaHlOUVRSQTlmNzdNN0JvRmo3VUg1MHBDUWlMR2hQT1lWVlJ5TXU3OGp6R0JyTTJJYk5jUUVHeXpoWWU0TVRTUS1Wd1RWbnBTWjRqZjFKZWgwWlJfNGw1eWZ4M09nZkNCenh1TmhkcENqMDliWnk2RXk4UWlWb2dJYk9UQmFRcEdvVk9CLUQ2bENjbDZaWGdWaHhoMlVURHNZV2lNYUFfY2FZMVZXdWNoRDR1WkZZbndPempiSTVHMEJORXVCNHQtS2Uzb1RkYjFiUllvY1V3cDdHWGlocHd1M255R1l2S0l3VGV0YldfRloySW5qSFdmNGY2Umh2ZUU4amh4UExIbngyOEZsWDB6NDBMM01VTDdDbFo1U291VkJDMk9LVEk1TnFVREE1dGNFSGUtOEwyVGdpZEhYZDRaS3A4M1hFQVIxazBWYVFWNGg4Tk93dUpJY3B3cTVpVVZQck1TaUNKLXY3ci13c042a3BUMWlMeHJpU0hLWE0tV2VicmJKYU03VnhvY0RRX2RkaV84TXdXVEJYUGJ4TXJn",
@@ -1178,14 +1229,14 @@
           "title": "【每日必看】大陣仗登記!張嘉郡喊\"WOW\"接棒 打造雲林黃金十年 雲林選委會今天(3)熱鬧非凡，國民黨雲林縣長參選人張嘉郡，在現任縣長張麗善，以及滿場支持者簇擁下，正式簽下參選承諾，張嘉郡喊出\"\"WOW 超越想像\"\"，競選主軸 拋出育兒津貼，與免健保費等多項福 - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMi9wdBVV95cUxQSFZDVFRjSzVaVHdqWE5pNElrX2NIaHEtNnJzM0NhTWRHRXpRMUxjbTdXTVJvaWpTWHZ1aGcwb3JYWVJSRVF4Z1p5SmNVV3ZPcWl2UE5yMFFpMF9pZmRKNFdhMzR0enM1cm1zRXJoMmFQcUZYN0M2QU80aWRsdENQZjVabnVaMVdjQUlGVDVXZ2s0UUROWU5aMUVHYkkzNHRpLTRzR25JZnNBNExILVR6MGJya2JQRm5YQkR6N0ZIaHNRYmZQSkZlU1liaFJNMlktN3g2QWlVRTl5ZWlwSHFWLWhCMzZnRUV3VE0yaVBySTlrUlc5eUJkNW80RUkwYXc3M1lfaHhfeHljdHQ1SW5JOWFpWUtTaWY1VWV1NkpzQXFHSlVVbHR3RUdtdFYzNG9oRFJmTl82OVVrSXk0R2FKa2NWckNzVThtRThsQ3pGaWNBaTFUa0hKWm44YlM5cU1yWGxqbVFfNlRJR3ViY1pCQmJVRVptLW5UMGJSLVQ2eHRMTmZBTHpiVGNLcks1YmUyRUdETE9XM1dKcEhEWDFKanNjTnRxU3A4ZnhiN0dhelkydnppc1dCelZmd283RVViUWY3Y2VROW9FMFgwLUFPVmd3N0RKTFRfeUlTdF9HSTViSE44VXlPQmZvQV8yTS1pdkdZOEFZMHpyNDR1UDU5eUdwSENNWHAtVDNFQlFaSXRCM0JfNER2b0Y5YzhfZFR5aDZGVVJSNWlwV3daQWRqUDVRRzBaa1pzNlBYQlFkZTlPVDNtaHQ1OWdsblBaNS1UUXVTbEhXYzlWLUNsVkxmSGRGczJPai02cDNsVHUtdDlVcGhDVWgzc1c2ZUQ4ZDFiRksyX2tTUzZwOVNnclVSOFItQjJLMXI1Ml9CdlBTbVF6cm01UXJFZVQwVnlTcGRyQ09HaVFCeWI2dmVCSzNTVm9iU1FUZmRFek4tN0dRa25lX3dqdWdtTU5XZTZhd2J3R0lzNUpONC1rVFFKeHU3cHEyemtIdm5FdTBweWwxNlE0VDhMNHp5OEx5UmZTcWlEQXpyN3E0RlZaN05jSEpQeHZkSG9UdjUyWFB0Vy1oZG10dlVZQ1FaTl9ENkdNdXJKUFNoU2lUd1FCY1RKdzZlVTNzNkN3dkpqTXRXQ2p6MWs0d3p5SngzMFp5TndEYVRaNWVKSW5Md2RWWEpvVjM4dUdTYy1HMWZMOGtncm1ZcjlTNUs5MDNrcEFiUmExSkV1X2ZvTlg1UlJJZDI2MGRCb0tFMFBKS2o3ZmVVRFRhcW9taktfWExjUXZCalJGR3ZKcFQ4TElRdGRJejJaMEw1RkRfYnVSMU1qTndvTHJUc2o4WW1ja2xz",
           "time": "2026-09-03 20:38:26"
-        },
-        {
-          "title": "在眾人的陪同下，今天張嘉郡立委登記參選雲林縣長。嘉郡交出的這份登記表，就是一份對縣民最莊嚴的承諾。 我一路看著嘉郡成長，從她求學，到學成歸國後擔任我的國會辦公室助理。她從基層做起，經手大大小小的選民服務、會勘、備詢稿……一步一步熟悉雲林各鄉 - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMisAhBVV95cUxNZ2VJcmhaTU0xVFBBNUdQSFJqc0tTaU1BWFpfQ3Fua3ZKU3p2aFFBX3pMaVQ3RlJVWnhZMDB6dWR6NlNJLVp5YVp3Y0k0T0loaFB3TW1hSFpNMTZOZkR2RllRWjg3aDRwcnFtd2dZdE5MeGZySm40M3VJVzlxX0F4N2xFbXhFRFA5Q0NySXotdWxfN2VlWXUtRzhGY0N3T0pnVzZTMFBsV2V3TEZDSFhoLTFWSjdQcE1nYXA2bko5V1lVRFFnSjMtb1pIVjJaeE1nWUlWVGROaDctdUV0UmluT2RNQnFUV241MGlmRVhjTVBjTUJVeWJYMmgzZk9tU0hkNU8zdm5WVVhFT1MyZVczLVBmbm43VkdUUG5TSkRIanZaZWthcElyQ1Z5SHdHRmJrRmpIeGxsRVZ4Ml8ydDVENW5hbW1uVHlIbEFzWUd6VGw3dlZNc3NfZURnY2hZOGNtSWNsdkhHQUtVMnlFdlpOR0VrcHFXYUNULWVXV3haY1B0MHBYU1BlamVDSXNSRWtDSXZyRFBhd3hOOXg1YkRTel83X0xUZ1ZCd2NrU0dlQVc4cnBNUF9SaG1CX1BYbmVlTTJ3ODEyRnVIenJvSmJYdWJFRnpIYnZhQU5nbHNpVk9kYkxCSmthNlJGS0VuQWU3Wm9LOXNZZ3NmVWpkNVRKN3E2MV9EY0pxSWx2X3FwalhsYlptQ25YUVphc2VZSEdsQVoxS2tKVE53eTZmRkJBLUs3cnJVN3luOHRtaGRHM183OThrZmxqOWluY3lOdmptS0VSbmJOSG1fTGh0Ymp5ZmFKYWlxb3A3aWJMYks5NVFCTU4wc0Y1TWlUN1ZnaklsdTFGdkZNVTNic2Y0X2U2WWJqUjFtLU9WRzlSbEZicmd6MTUwbGZISklROC1NZGx5MmZLLWptcTNGdGxKZXpZb2Fib1UxaVloWVRxR3NyQ3dmdmp3LTFPQkczdE05bFRMb001OVhMd0U0dEZoOG9WY0dmMW15elpDSVF2cG9Lb185WDdWSHdhNFQzTnBzSkpmZmJURGVjcWU3d19UMG0wUE5qS25sbDF0QlBkRzNqTllJQ3dWOGk0SjFNNDhLWXhVOUJoYnpLSG1ESG90bFBYTllSVUQwRGhrRlpoeGR5ZElWd1FsdElvNmh2NS02dU5kWkxIbWFWeDhqUlc2TWUyQ2ZvMUJpaklkVUlkNlZUaDhPSnYtNERhOWJWd1FybG1PMHUtNmdXR09hTU01cG10NjFyZEpqdkhScWFLa0xSZ1EwRkR5ZWMzN2ROQ1pyVTFLNmJiQWpsSm1HWWhUR3ZjQmNNQVZtT25LakY2TVg5ZTc1Y1pnbm55WTNFYk9BVlduTTJva0d4SnZrTG5rTmZ6Q3ZJM1FlZ0NfUXQyWjhJX0lSOHdFUkh2OWJuODhiNVdR",
-          "time": "2026-09-03 20:00:03"
         }
       ],
       "news": [
+        {
+          "title": "竹北國眾兩黨撕破臉翻頁 白營雲林喊集中選票挺張嘉郡接棒 - tw.news.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQbEpZdV92d3ZiSVFPMTNBZ2tpVGYtYWJLUVBpbU4wWmU3X3BJUGFWRkdVYjg4bmZHR3BoMlhva25fT0VaWFBUVDB1MnVkZ1ZYTU1fYU55dW5QLVhaUHZ3cW1Uc3dIeFVlWnJRQ2xOZVFnTEt4MnczT2FjRGtkRFFKbTIzdkZ6TTJjcXRxOHd1NHI4MXdYM2I5bzVQYTM5WUVRVmQtLUZjb2wyZkY2TWZTdmpqU1lCY3VzN280ZUFkdWZSbW1JQVlRekhMTzh3UV9zTFdhdXY5MjZrSllsbXZaaEtKalZSMFRTV3o3akZTZmgxQTZ4dkJYenFVZE1pS281UG9EOUJXQktPcW9pYTVOdXJuV1ZPX3E2SmRYUTlpR3IydEVFLTItMmgzenJFTWVYRnlYSmtHaDh3WGpjWTVNdkhzY25KYUlLcEdtcGx1VmduTm9hVjI3cU1DMjZQZUlmNE50R2R6dFVVMlJVRDA3bHl5cUk4Mll1cmdsSVBNNlROSy05ejBmU2tDd2Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-19 19:05:11"
+        },
         {
           "title": "迎戰賴清德任劉建國競總主委！民眾黨：雲林全力支持張嘉郡 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPMjRLTmNKcWN3RWFaX2lnR1RIUzZ4dU90RTJqNnU2THFCVDIyb010Vy1TTmMzTnFob2FiZ1MtRzJyS0lsOFBDS2lfZnlNSkljUDFrMmRPa18zajNRVVFjNzRYSzYzZS1USHkxMEs5X1k1NndRTzlrM21lMEFoSXlkR1ByZ3FhaTMtaWFwcklXMGFXeVNEc2R6Si1TMklyUk55VURuS1VHUE9NTnUyVmwtTjQ4VHNzdkRlRldsWU5zNU42c2llRkJjdFdfSDA4bm1tbEE1bURkRWZ2SFBBRXFzNnIxdTVhYVoyd0Zid1hqZ0FEMTJvVGRhZnlzU0pocmNQeDh4RmMwcVJWbXJZUDE0ZWxYTWgxbzJkNjlYdnMtXzZOUHJ5VHNmVkxiX3FGWmdCdGplV1RjQ2p5ajBGaThVdEtFOFhTNGlmalhFT01rb1pzQjduOEhCQ085bTE2Mk9FSVRDclpFSW5zVkFmeWhoTVVBV2ZHamtLVDRJYzZGZG11UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1279,11 +1330,6 @@
         {
           "title": "黃尤美合體許淑華、謝龍介力挺張嘉郡 喊話讓斗六市成雲林重要核心 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPSFZPOGVlTV8zX3IzS2F0Tnh0MGRNbEtlZjZSZkxwRTVvcFNmeUpPdUJyS0VYZlE4aHpES1Zoc01nak5tTnpGRG9sc0RBTlpuWFpJdmF1MVV3V0VxUHBkYm9xUkp3MGVxc1RsTWdSMndkdzBZSzB0NEUzQk4tSE8yTUdrMHhBaFpHV09oY0g0RjQxYjFhRnlTVHdOZ0Z3ZzhIRm1lWnNLa3VoQldNVGZNbGQwcHE5RTk5NU9DeDBWd3M0NlhqV2FiOThhdFRyc1RBa1dZR3RZVzh4c3pHWm50QzA1eEpBLWVVTkFSdU5ISExuaGcyZmJTaTV3MTVueVlUSlA3dkh1RkZVaGZKVVVnNHNQeEd1cU4zaGFKMlFBMHB6N2huemdXdVFVdllDbWtwd0tUMldXSDZFSmdKLW5nOW9sMUI4emdVLXhjUlNqY21MUzl3QnFOcExEYXhsVTFyNm45M1FkZS1ua0VQbGtkUjF1OVhIX2pFeFZhNTVKUm5DT0xPV0VsRzFxNWNKZlZCNDFtcWZRUkVnWS1kRC0yZkZGdjdRRmRVMWxKX25ZRDVPUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-17 14:50:00"
-        },
-        {
-          "title": "黃尤美合體許淑華、謝龍介力挺張嘉郡　喊話讓斗六市成雲林重要核心 - 鏡週刊Mirror Media",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91YkFza3VNemJjV3RTbHhPcXJKU1VpNEZUalFFQUZfT2htbFFKX0NMazJJZVV6SkhQVmVwS2h4cHRjeXh0MWpTdGRJZlItcGNodU0yaGNkeGNSS0oybG5ScDNJRdIBaEFVX3lxTE8yOWRUbFV2OVdPeU9lNzdmeUpua2d3azdCSHI1ZGlBc1JwUmZhX2lleHlaQk8xNC1hLVFUZjBEcmRiZUVzNzlZX0lIcUtZMWhWUWFld3lPZzFkc2k3VGVMT1pVMEFxdE5D?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-17 14:50:00"
         }
       ]
@@ -1393,6 +1439,11 @@
       ],
       "news": [
         {
+          "title": "樂齡動起來！劉建國推廣健康運動長輩齊聚雲科大挑戰匹克球- 社會新聞- PChome Online 新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVEk5NmpvdWlLc1ZaVnVYd1V6WVVoZXNqcjFHZ183V2d6VXkzeDFaaUowbXJSV1doY2xfNFVhMEtkbEZXSFo1elRYS25ZcUthUjdOa2hRcXF2VTVhSndwRllOWU03VkRUN2FKeUQ1aW1XZGlKQVY1SEt3ZERUVThBOThGSVBkYlFKVzloVkYzbExiQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-19 17:22:50"
+        },
+        {
           "title": "迎戰賴清德任劉建國競總主委！民眾黨：雲林全力支持張嘉郡 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPMjRLTmNKcWN3RWFaX2lnR1RIUzZ4dU90RTJqNnU2THFCVDIyb010Vy1TTmMzTnFob2FiZ1MtRzJyS0lsOFBDS2lfZnlNSkljUDFrMmRPa18zajNRVVFjNzRYSzYzZS1USHkxMEs5X1k1NndRTzlrM21lMEFoSXlkR1ByZ3FhaTMtaWFwcklXMGFXeVNEc2R6Si1TMklyUk55VURuS1VHUE9NTnUyVmwtTjQ4VHNzdkRlRldsWU5zNU42c2llRkJjdFdfSDA4bm1tbEE1bURkRWZ2SFBBRXFzNnIxdTVhYVoyd0Zid1hqZ0FEMTJvVGRhZnlzU0pocmNQeDh4RmMwcVJWbXJZUDE0ZWxYTWgxbzJkNjlYdnMtXzZOUHJ5VHNmVkxiX3FGWmdCdGplV1RjQ2p5ajBGaThVdEtFOFhTNGlmalhFT01rb1pzQjduOEhCQ085bTE2Mk9FSVRDclpFSW5zVkFmeWhoTVVBV2ZHamtLVDRJYzZGZG11UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-19 16:50:19"
@@ -1486,17 +1537,22 @@
           "title": "從偏鄉交通到兒童福利 劉建國赴台南取經推雲嘉南合作 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTDlSYWVSM1Eza3lKNU9LT1A3dXVGNnYtRWtBY1k0eUJKMXd5a3c3UDB3eFU4N0J6RW9pYklWZWt0aXRadXBsQkhyblVFT2kwVEVWYUMzWXJSX0NBNmpweWItY0Fzdkh3b1NCUDlQbWd3UjA4emJKZGJpR1czNHJtVHRfRDU4WG54b3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-18 12:50:22"
-        },
-        {
-          "title": "從偏鄉交通到兒童福利 劉建國赴台南取經推雲嘉南合作 - PChome Online 股市",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOE5HdlVwSkhJYVlrdzB1anZYRUdPZHNMUjlYOVJycUZnVGx1UGtheG5rcmtBdGlrRmMwRXZ0eFVXNkhVUXZyYmFydGlxT2hkeWtaX0VPaW9qdUN2WDFsbm1feE50NmwwOHpyb1hDV0dTVzJLUzU2NFBZdWRCRTIycA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-18 12:50:22"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "竹北國眾兩黨撕破臉翻頁 白營雲林喊集中選票挺張嘉郡接棒 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQbEpZdV92d3ZiSVFPMTNBZ2tpVGYtYWJLUVBpbU4wWmU3X3BJUGFWRkdVYjg4bmZHR3BoMlhva25fT0VaWFBUVDB1MnVkZ1ZYTU1fYU55dW5QLVhaUHZ3cW1Uc3dIeFVlWnJRQ2xOZVFnTEt4MnczT2FjRGtkRFFKbTIzdkZ6TTJjcXRxOHd1NHI4MXdYM2I5bzVQYTM5WUVRVmQtLUZjb2wyZkY2TWZTdmpqU1lCY3VzN280ZUFkdWZSbW1JQVlRekhMTzh3UV9zTFdhdXY5MjZrSllsbXZaaEtKalZSMFRTV3o3akZTZmgxQTZ4dkJYenFVZE1pS281UG9EOUJXQktPcW9pYTVOdXJuV1ZPX3E2SmRYUTlpR3IydEVFLTItMmgzenJFTWVYRnlYSmtHaDh3WGpjWTVNdkhzY25KYUlLcEdtcGx1VmduTm9hVjI3cU1DMjZQZUlmNE50R2R6dFVVMlJVRDA3bHl5cUk4Mll1cmdsSVBNNlROSy05ejBmU2tDd2Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-19 19:05:11"
+      },
+      {
+        "title": "樂齡動起來！劉建國推廣健康運動長輩齊聚雲科大挑戰匹克球- 社會新聞- PChome Online 新聞 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVEk5NmpvdWlLc1ZaVnVYd1V6WVVoZXNqcjFHZ183V2d6VXkzeDFaaUowbXJSV1doY2xfNFVhMEtkbEZXSFo1elRYS25ZcUthUjdOa2hRcXF2VTVhSndwRllOWU03VkRUN2FKeUQ1aW1XZGlKQVY1SEt3ZERUVThBOThGSVBkYlFKVzloVkYzbExiQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-19 17:22:50"
+      },
       {
         "title": "迎戰賴清德任劉建國競總主委！民眾黨：雲林全力支持張嘉郡 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPMjRLTmNKcWN3RWFaX2lnR1RIUzZ4dU90RTJqNnU2THFCVDIyb010Vy1TTmMzTnFob2FiZ1MtRzJyS0lsOFBDS2lfZnlNSkljUDFrMmRPa18zajNRVVFjNzRYSzYzZS1USHkxMEs5X1k1NndRTzlrM21lMEFoSXlkR1ByZ3FhaTMtaWFwcklXMGFXeVNEc2R6Si1TMklyUk55VURuS1VHUE9NTnUyVmwtTjQ4VHNzdkRlRldsWU5zNU42c2llRkJjdFdfSDA4bm1tbEE1bURkRWZ2SFBBRXFzNnIxdTVhYVoyd0Zid1hqZ0FEMTJvVGRhZnlzU0pocmNQeDh4RmMwcVJWbXJZUDE0ZWxYTWgxbzJkNjlYdnMtXzZOUHJ5VHNmVkxiX3FGWmdCdGplV1RjQ2p5ajBGaThVdEtFOFhTNGlmalhFT01rb1pzQjduOEhCQ085bTE2Mk9FSVRDclpFSW5zVkFmeWhoTVVBV2ZHamtLVDRJYzZGZG11UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1605,6 +1661,11 @@
     ],
     "facebook": [
       {
+        "title": "【「竹北的事情就留在竹北」 黃國昌籲支持張嘉郡】 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOd2xsZ05sR3ZuNDg5cjBxLVkwTjl3dUZWQmhUQTJfQ010R08tNDQ5elBSZWhLT0JnXzRvTWdLVWlleGlOci1ac1RpSkpxRElOaGhaQ1VxXzRHMGJxbEhWd0lycXlDUGc1MVlHMHNBc1JSaExlUkJsX282aXNVcFU1NnNOeWhtdDl4SVY3U2xoRm05aDJjWFdHMFZ2eWdDczlsMjc5T2lERWkyd1Atek1tS1RERm9Va1VhS2xLZld4TmpIU2pUc2J6MFdzRmtOR0RzeVdnSFZ6X0RURUtFZnZaaVZzYkFUS3ptamtwRV9aSkhlYWZFcU81RUp1UDgxdWxOenVrdmZ6VzBTZ0hwWGpfcllZR1Fmdm5RanV5NkU4Y3IyZmhVQ2RQSzJ1UEZGOXRwNnB5TkxVUXktaE9JTFFWdnh6Z25kR0oydEJYUw",
+        "time": "2026-09-19 17:50:09"
+      },
+      {
         "title": "雲林藍白合體！ 黃國昌喊集中選票挺張嘉郡： 竹北破局就留在竹北 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPMDVUbTc1RnlDMllFOUlhaHlOUVRSQTlmNzdNN0JvRmo3VUg1MHBDUWlMR2hQT1lWVlJ5TXU3OGp6R0JyTTJJYk5jUUVHeXpoWWU0TVRTUS1Wd1RWbnBTWjRqZjFKZWgwWlJfNGw1eWZ4M09nZkNCenh1TmhkcENqMDliWnk2RXk4UWlWb2dJYk9UQmFRcEdvVk9CLUQ2bENjbDZaWGdWaHhoMlVURHNZV2lNYUFfY2FZMVZXdWNoRDR1WkZZbndPempiSTVHMEJORXVCNHQtS2Uzb1RkYjFiUllvY1V3cDdHWGlocHd1M255R1l2S0l3VGV0YldfRloySW5qSFdmNGY2Umh2ZUU4amh4UExIbngyOEZsWDB6NDBMM01VTDdDbFo1U291VkJDMk9LVEk1TnFVREE1dGNFSGUtOEwyVGdpZEhYZDRaS3A4M1hFQVIxazBWYVFWNGg4Tk93dUpJY3B3cTVpVVZQck1TaUNKLXY3ci13c042a3BUMWlMeHJpU0hLWE0tV2VicmJKYU03VnhvY0RRX2RkaV84TXdXVEJYUGJ4TXJn",
         "time": "2026-09-19 15:05:01"
@@ -1620,6 +1681,16 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "竹北國眾兩黨撕破臉翻頁 白營雲林喊集中選票挺張嘉郡接棒 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQbEpZdV92d3ZiSVFPMTNBZ2tpVGYtYWJLUVBpbU4wWmU3X3BJUGFWRkdVYjg4bmZHR3BoMlhva25fT0VaWFBUVDB1MnVkZ1ZYTU1fYU55dW5QLVhaUHZ3cW1Uc3dIeFVlWnJRQ2xOZVFnTEt4MnczT2FjRGtkRFFKbTIzdkZ6TTJjcXRxOHd1NHI4MXdYM2I5bzVQYTM5WUVRVmQtLUZjb2wyZkY2TWZTdmpqU1lCY3VzN280ZUFkdWZSbW1JQVlRekhMTzh3UV9zTFdhdXY5MjZrSllsbXZaaEtKalZSMFRTV3o3akZTZmgxQTZ4dkJYenFVZE1pS281UG9EOUJXQktPcW9pYTVOdXJuV1ZPX3E2SmRYUTlpR3IydEVFLTItMmgzenJFTWVYRnlYSmtHaDh3WGpjWTVNdkhzY25KYUlLcEdtcGx1VmduTm9hVjI3cU1DMjZQZUlmNE50R2R6dFVVMlJVRDA3bHl5cUk4Mll1cmdsSVBNNlROSy05ejBmU2tDd2Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-19 19:05:11"
+      },
+      {
+        "title": "樂齡動起來！劉建國推廣健康運動長輩齊聚雲科大挑戰匹克球- 社會新聞- PChome Online 新聞 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVEk5NmpvdWlLc1ZaVnVYd1V6WVVoZXNqcjFHZ183V2d6VXkzeDFaaUowbXJSV1doY2xfNFVhMEtkbEZXSFo1elRYS25ZcUthUjdOa2hRcXF2VTVhSndwRllOWU03VkRUN2FKeUQ1aW1XZGlKQVY1SEt3ZERUVThBOThGSVBkYlFKVzloVkYzbExiQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-19 17:22:50"
+      },
       {
         "title": "迎戰賴清德任劉建國競總主委！民眾黨：雲林全力支持張嘉郡 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPMjRLTmNKcWN3RWFaX2lnR1RIUzZ4dU90RTJqNnU2THFCVDIyb010Vy1TTmMzTnFob2FiZ1MtRzJyS0lsOFBDS2lfZnlNSkljUDFrMmRPa18zajNRVVFjNzRYSzYzZS1USHkxMEs5X1k1NndRTzlrM21lMEFoSXlkR1ByZ3FhaTMtaWFwcklXMGFXeVNEc2R6Si1TMklyUk55VURuS1VHUE9NTnUyVmwtTjQ4VHNzdkRlRldsWU5zNU42c2llRkJjdFdfSDA4bm1tbEE1bURkRWZ2SFBBRXFzNnIxdTVhYVoyd0Zid1hqZ0FEMTJvVGRhZnlzU0pocmNQeDh4RmMwcVJWbXJZUDE0ZWxYTWgxbzJkNjlYdnMtXzZOUHJ5VHNmVkxiX3FGWmdCdGplV1RjQ2p5ajBGaThVdEtFOFhTNGlmalhFT01rb1pzQjduOEhCQ085bTE2Mk9FSVRDclpFSW5zVkFmeWhoTVVBV2ZHamtLVDRJYzZGZG11UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1809,19 +1880,14 @@
         "title": "從偏鄉交通到兒童福利 劉建國赴台南取經推雲嘉南合作 - PChome Online 股市",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOE5HdlVwSkhJYVlrdzB1anZYRUdPZHNMUjlYOVJycUZnVGx1UGtheG5rcmtBdGlrRmMwRXZ0eFVXNkhVUXZyYmFydGlxT2hkeWtaX0VPaW9qdUN2WDFsbm1feE50NmwwOHpyb1hDV0dTVzJLUzU2NFBZdWRCRTIycA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-18 12:50:22"
-      },
-      {
-        "title": "賴清德親任劉建國競總主委不是掛名！黃守達解讀雲林戰場訊號：就是宣示「我要抓賄選」 - 放言Fount Media",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHbHJQYjg5aXpnWWpqS0EzNjlPRzUwM2lNQ24wckVxc2V0dTV3NUJuQkJxQTBpbUg5Z0c5WmlQbkgydU51aGZ3dVVUb0tLZjNGWHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-18 12:30:00"
-      },
-      {
-        "title": "劉建國拜會黃偉哲、陳亭妃 拋雲嘉南大合作構想 - 政府消息新聞 - PChome Online 新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ3hHaW8xX0w3RGZpYnBJcW1nQXNUMzZJSS1taTMxM2dCakdwMU5zOFgzZ0hPbUFabnVOdWZMQ09WUkVuMjJDSWItWlZkLXl0R3QzZkQzVGZDVTlETjV3allhMXkwc0dMXzVfdmUyeWZrSXdPYzlFbDB2UTVjUkM0YnAtazNIci10MWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-18 11:49:25"
       }
     ],
     "facebook": [
+      {
+        "title": "【「竹北的事情就留在竹北」 黃國昌籲支持張嘉郡】 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOd2xsZ05sR3ZuNDg5cjBxLVkwTjl3dUZWQmhUQTJfQ010R08tNDQ5elBSZWhLT0JnXzRvTWdLVWlleGlOci1ac1RpSkpxRElOaGhaQ1VxXzRHMGJxbEhWd0lycXlDUGc1MVlHMHNBc1JSaExlUkJsX282aXNVcFU1NnNOeWhtdDl4SVY3U2xoRm05aDJjWFdHMFZ2eWdDczlsMjc5T2lERWkyd1Atek1tS1RERm9Va1VhS2xLZld4TmpIU2pUc2J6MFdzRmtOR0RzeVdnSFZ6X0RURUtFZnZaaVZzYkFUS3ptamtwRV9aSkhlYWZFcU81RUp1UDgxdWxOenVrdmZ6VzBTZ0hwWGpfcllZR1Fmdm5RanV5NkU4Y3IyZmhVQ2RQSzJ1UEZGOXRwNnB5TkxVUXktaE9JTFFWdnh6Z25kR0oydEJYUw",
+        "time": "2026-09-19 17:50:09"
+      },
       {
         "title": "雲林藍白合體！ 黃國昌喊集中選票挺張嘉郡： 竹北破局就留在竹北 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPMDVUbTc1RnlDMllFOUlhaHlOUVRSQTlmNzdNN0JvRmo3VUg1MHBDUWlMR2hQT1lWVlJ5TXU3OGp6R0JyTTJJYk5jUUVHeXpoWWU0TVRTUS1Wd1RWbnBTWjRqZjFKZWgwWlJfNGw1eWZ4M09nZkNCenh1TmhkcENqMDliWnk2RXk4UWlWb2dJYk9UQmFRcEdvVk9CLUQ2bENjbDZaWGdWaHhoMlVURHNZV2lNYUFfY2FZMVZXdWNoRDR1WkZZbndPempiSTVHMEJORXVCNHQtS2Uzb1RkYjFiUllvY1V3cDdHWGlocHd1M255R1l2S0l3VGV0YldfRloySW5qSFdmNGY2Umh2ZUU4amh4UExIbngyOEZsWDB6NDBMM01VTDdDbFo1U291VkJDMk9LVEk1TnFVREE1dGNFSGUtOEwyVGdpZEhYZDRaS3A4M1hFQVIxazBWYVFWNGg4Tk93dUpJY3B3cTVpVVZQck1TaUNKLXY3ci13c042a3BUMWlMeHJpU0hLWE0tV2VicmJKYU03VnhvY0RRX2RkaV84TXdXVEJYUGJ4TXJn",
@@ -2016,11 +2082,6 @@
         "title": "張嘉郡福興宮「WOW雲林更好」廟口開講 南投縣長許淑華.台南市長候選人謝龍介跨區助講 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxNOG9GZVItNTFPRlcxOXdRNzhvVnRsdmRVeGljek1VeVFpTEZibWx6M3d1cnR0SEpSU2lMTFNweVFnR2x3OXRTU1kxR0dmQW1hWEhKdUpaM2ZuOGRfRURrSEV4QW5adkNiVnNwU0xJc3p5d3RJeFFkSHJnd2YyR01ucUFpVjhFc2NVSGxYeGNIMW1hRGJHMkdQd1BJQVVFQUV6NHNnZ1AwRW40N2l0Qm1ValZLODNfVm5WenBKZ1RySmpwTllZUkM2UTlNOVJaWW9RUDNHTHlTU2dPZkp2STl1UDk4eVluamdFMlQ0WlBQSTBuSHM5ZEFPN181UUVqZ2tGSGZ5VTRULU5SZG9EVFdhVzhPV1QyTG4tQWhNN09nTkR5My10Nmd4MXlmNEJWRXBfdnRFcFlNQ294aHNaVURWTGZnWkhHVFZfOUhZdDQ3VEkwYmJPb216UlVOTGxqamRBSXpkSGNDQXVQNHJLUUxOVUhzVlpMeVJ0TWY1eFVqdk1xVmkzZk94YUFUSU02LVZCU0RtYmUzVDh2UXNFY190RjBabmprQ0U5ajBQYUh4OU5STGFyR1F0QWJGLWVyTURnbUNXbm1RREUwenB0MFIyYUJzUHdRQXU5Z0cybUxzS1JQQXZ1WXRGT2FsbGdkR1c3bmVTTVhENmFTLWxXbmFDOWhDTjRxVXdnMlIyZ0EwbzhUbGU2Q1hldktB",
         "time": "2026-09-14 17:14:17"
-      },
-      {
-        "title": "雲林拚改變！大埤聯合競總成立 劉建國：這戰是「縣民對家族」的選擇 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQNV9VeEZTUE5RZ1NqVzB5ekxwNDB4NTViMVJoNFBLUk5QRlJNX1FIMzFoSExWUlZmaEhkVWVNbWtURXVxZVluLVc5ZG1ZN2VtbkVkLVJuclB1ZjFjWXI2NC1LTG1HRHAyMV9lS1hQVkxSRXV0bnpDeGxXdGlZV2xobFA3YldVcjY0aHY5YVZRMkNhckJBMDk1TjhkTDdPNzc3UjVPMTlnb1JvVzJxTlo1Z2E3VjRuQ3RPX1BON2pzRm1rY1VrelUyVzVqejVwS2tnUmtlZHUyczA3WndlU3ExX2lzQUV1blJ5eEE2ay1aNXRPUFgxd19Za25kQ255QXNhcnAtb3hfdVFub3ZNZTNiTVhGbnYyYVY1WjVZdTRaN3ZmdV8zVHg2ZnFldF9QZzVkeEdQS1EzSU9OVk5JNXp0SHJtUnZmSmItRG5GeTdzNEcyR2JGQW5vZmFsNldJWWxSSHdlOUxXMXVocEI4SkJvZ0YwZjZYdW9pei13UUw2cVNqZE9zQ2p6Ujlmdmx4TlkybHRScEVMa1JpcGp4dzFKT3pnMGlPOVA4SE1iVXhxUQ",
-        "time": "2026-09-14 11:31:52"
       }
     ],
     "youtube": [
@@ -2130,6 +2191,27 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "竹北國眾兩黨撕破臉翻頁 白營雲林喊集中選票挺張嘉郡接棒 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQbEpZdV92d3ZiSVFPMTNBZ2tpVGYtYWJLUVBpbU4wWmU3X3BJUGFWRkdVYjg4bmZHR3BoMlhva25fT0VaWFBUVDB1MnVkZ1ZYTU1fYU55dW5QLVhaUHZ3cW1Uc3dIeFVlWnJRQ2xOZVFnTEt4MnczT2FjRGtkRFFKbTIzdkZ6TTJjcXRxOHd1NHI4MXdYM2I5bzVQYTM5WUVRVmQtLUZjb2wyZkY2TWZTdmpqU1lCY3VzN280ZUFkdWZSbW1JQVlRekhMTzh3UV9zTFdhdXY5MjZrSllsbXZaaEtKalZSMFRTV3o3akZTZmgxQTZ4dkJYenFVZE1pS281UG9EOUJXQktPcW9pYTVOdXJuV1ZPX3E2SmRYUTlpR3IydEVFLTItMmgzenJFTWVYRnlYSmtHaDh3WGpjWTVNdkhzY25KYUlLcEdtcGx1VmduTm9hVjI3cU1DMjZQZUlmNE50R2R6dFVVMlJVRDA3bHl5cUk4Mll1cmdsSVBNNlROSy05ejBmU2tDd2Q?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-19 19:05:11",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "【「竹北的事情就留在竹北」 黃國昌籲支持張嘉郡】 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOd2xsZ05sR3ZuNDg5cjBxLVkwTjl3dUZWQmhUQTJfQ010R08tNDQ5elBSZWhLT0JnXzRvTWdLVWlleGlOci1ac1RpSkpxRElOaGhaQ1VxXzRHMGJxbEhWd0lycXlDUGc1MVlHMHNBc1JSaExlUkJsX282aXNVcFU1NnNOeWhtdDl4SVY3U2xoRm05aDJjWFdHMFZ2eWdDczlsMjc5T2lERWkyd1Atek1tS1RERm9Va1VhS2xLZld4TmpIU2pUc2J6MFdzRmtOR0RzeVdnSFZ6X0RURUtFZnZaaVZzYkFUS3ptamtwRV9aSkhlYWZFcU81RUp1UDgxdWxOenVrdmZ6VzBTZ0hwWGpfcllZR1Fmdm5RanV5NkU4Y3IyZmhVQ2RQSzJ1UEZGOXRwNnB5TkxVUXktaE9JTFFWdnh6Z25kR0oydEJYUw",
+        "time": "2026-09-19 17:50:09",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
+        "title": "樂齡動起來！劉建國推廣健康運動長輩齊聚雲科大挑戰匹克球- 社會新聞- PChome Online 新聞 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVEk5NmpvdWlLc1ZaVnVYd1V6WVVoZXNqcjFHZ183V2d6VXkzeDFaaUowbXJSV1doY2xfNFVhMEtkbEZXSFo1elRYS25ZcUthUjdOa2hRcXF2VTVhSndwRllOWU03VkRUN2FKeUQ1aW1XZGlKQVY1SEt3ZERUVThBOThGSVBkYlFKVzloVkYzbExiQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-19 17:22:50",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "迎戰賴清德任劉建國競總主委！民眾黨：雲林全力支持張嘉郡 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPMjRLTmNKcWN3RWFaX2lnR1RIUzZ4dU90RTJqNnU2THFCVDIyb010Vy1TTmMzTnFob2FiZ1MtRzJyS0lsOFBDS2lfZnlNSkljUDFrMmRPa18zajNRVVFjNzRYSzYzZS1USHkxMEs5X1k1NndRTzlrM21lMEFoSXlkR1ByZ3FhaTMtaWFwcklXMGFXeVNEc2R6Si1TMklyUk55VURuS1VHUE9NTnUyVmwtTjQ4VHNzdkRlRldsWU5zNU42c2llRkJjdFdfSDA4bm1tbEE1bURkRWZ2SFBBRXFzNnIxdTVhYVoyd0Zid1hqZ0FEMTJvVGRhZnlzU0pocmNQeDh4RmMwcVJWbXJZUDE0ZWxYTWgxbzJkNjlYdnMtXzZOUHJ5VHNmVkxiX3FGWmdCdGplV1RjQ2p5ajBGaThVdEtFOFhTNGlmalhFT01rb1pzQjduOEhCQ085bTE2Mk9FSVRDclpFSW5zVkFmeWhoTVVBV2ZHamtLVDRJYzZGZG11UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -2248,27 +2330,6 @@
         "time": "2026-09-19 12:29:39",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "「竹北的事情就留在竹北」 黃國昌雲林助選呼籲支持國民黨張嘉郡 - udn",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBseDNWdHIweUhvTkNJTFVZYXRnc1JybnV0SVE1VnRkSkZQak5ydmFwd281UFhJcW9RVU1rOXhlbm5yd0VXTnU2QklraXFlcmFJQXZr0gFYQVVfeXFMTVZTSnpUcVA0Z2MxVk1ZcXRkdlJwY1o0WEZKdjVfVXI1UkdSOWU4b0FGLWtKTFNtZmRGVkhraENaenQ2SEd6OHJXVExqQ1NRb1RDV3JrdG1GSA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-19 12:08:09",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "「竹北的事情就留在竹北」 黃國昌雲林助選呼籲支持國民黨張嘉郡| 2026九合一選舉 - udn",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OajlJcUZXM3E0ejQtODg5cUI1Mk9Gam9OcEtfdjVnUk9qZXc5b08tSkU4UWw5dW5zeUhnOW5KZDdIMkgtQzBLOGROcXpJbXZXeXJTalNuQ3o?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-19 12:08:09",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "雲林突圍5 力抗家族壟斷 劉建國拚翻轉 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNTU9aVnkwNXhWMGMyUTNyZElnR3NyUWFZYXJySnZVQmNDQU5VMF90cl9jcm8yM0VZNDZkYnZLdm4xYjl4a1BPdWJUOWNIQ2wwVHlob0xseW4ydXNpZHM4cHItYXR3WFFoSkI0ZWM2UFdEQ2xlR0YtNGxLNW1zUkVFX2dlWjRiOWJMTVFSWldUVzc2SjdzYi1haEdjWElRSUFnODhlMlNFX2tWbVV0S0RVUkpTTURYeENEUmdxLTVJMlhEQ2c5Qk1wVklQWk9yNWdxelRGcGpHWGNZbjhLLVRIcnpaMlBiTUpSbWNTZnU0N3dhdmJzVU04NWdud0N6V3gycjlIVzlQaXJrS0J1ZFZhMmd0UlNVWlk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-19 10:06:55",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2276,7 +2337,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 19
+        "count": 20
       }
     ],
     "groups": []
