@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-20T13:46:41.978693+00:00",
+  "generated_at": "2026-09-20T14:02:30.512049+00:00",
   "metrics": {
-    "total_24h": 25,
+    "total_24h": 31,
     "prev_24h": 36,
-    "growth_pct": -30.56,
-    "news_24h": 22,
+    "growth_pct": -13.89,
+    "news_24h": 28,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 367,
+    "total": 373,
     "prev": 210,
-    "growth_pct": 74.76,
-    "news": 298,
+    "growth_pct": 77.62,
+    "news": 304,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 22
+      "count": 28
     },
     {
       "platform": "facebook",
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 298
+      "count": 304
     },
     {
       "platform": "facebook",
@@ -93,6 +93,14 @@
     {
       "hour": "2026-09-20 19:00",
       "count": 10
+    },
+    {
+      "hour": "2026-09-20 20:00",
+      "count": 4
+    },
+    {
+      "hour": "2026-09-20 21:00",
+      "count": 2
     }
   ],
   "by_hour_7d": [
@@ -471,12 +479,20 @@
     {
       "hour": "2026-09-20 19:00",
       "count": 10
+    },
+    {
+      "hour": "2026-09-20 20:00",
+      "count": 4
+    },
+    {
+      "hour": "2026-09-20 21:00",
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 22
+      "count": 28
     },
     {
       "platform": "facebook",
@@ -489,6 +505,36 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "賴清德挺劉建國 提出雲林要贏三大理由 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zMUNHOVFfRW9RWG1oaHFDR0ZGRUhQZUhPRzR2eWVKSTdiQWpFOWJtbTNsY3NRZ05lejkzdC1JZUFKY0tvMzRrdjFXT1R2RVlyZG44THhIR1FJSTdNRTE0UGxUTEJRSVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 21:09:37"
+      },
+      {
+        "title": "劉建國競總成立萬人相挺賴清德提3理由力薦| 政治 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2SzZfbXp3RzNtRWNjUlpMSEVtd3JxdXAwUjdYUzh4b0FDMTBYY0FhX1lPaHBmZ25LOWRRcDA4VGpPdVpTeHcxT0FaTkEzVGJTRWNJc1VXdnlLZmwtbHVJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 21:01:00"
+      },
+      {
+        "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUVRlTmNJRTY2WFlxUnNNYng2YnZ6d0NOcWtOdGd2aDFpLXVOVWxSTjE4dm1EOEI2VE1MUmwyOVV5WkVGcERwbkFJc09PS19DbC1ESElPaDdhUmNEZmpWcXpwc2N4dUpzMmfSAW9BVV95cUxPRlMyN2JFOVJvcXdMaUlFOUR6eUE0c1dOMlFBdFRwTDZMZFpVNTRObU5jdWxuLUhCWkRkSXZrYkN2RDl6aTd2VTBESnVZYjFISWlHQ1AxS1VJOHhUdTktTHduYnJsZzJWX2NrWUNNZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:59:23"
+      },
+      {
+        "title": "總統級助攻！賴清德罕接劉建國競總主委 「3大原因」曝光了 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNcUhLbldtMXpCNWZHcGF5c3h4NVUzODdJa0NCalVpNnF0Q20xM21EMDZua2FJMC1FY3YySFJBbnlzLUUzdWRhdFNCdTgxYXBWOFV6M2lCYmVuQmoyYmViVm5uTnFVMW5nSVlnOTZtdHQ3R2c4WEIwdUw5WDI3UmxpRE5xdFlwSUNiTW03R0h3NjF6eDlzQUF0c2lwNHZfYnpfMkUyNkZXZXBsb3l1cm16NmpfMlR4R19nUlRXeW5HOFpuaWM5R2JTR2o4RXphLUdnTG12VjVCeEoxbzZSSkdjcWN1VUlNVGpUbkdqaEp1bXlMZUFTQk5vTE9zU1FScVJwTmZLRDZNT2ZoUHBvSG5TMkpWbFgxSmVuQ0R0Z0ZKNll2Qmota2tndTVKNTYwZkJQMXNhTGNWU01YSU5VZ0s3bmd1SWF5RS12MVpZX29yWmw1dWstLUlEUVlaczZCWDkzRF9TMDVnemcxREVt?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:53:47"
+      },
+      {
+        "title": "湧逾萬人相挺！劉建國競選總部成立喊話全力守護家鄉未來- 股市爆料同學會 - CMoney",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zc1lXd2x2aEdBaGVsQzFjRjdfVHNSUFgtSTJwODdpeXJkS2JXMm1jRFl4bWRCV3Y2N0c1c09ONkJYRzVvVmFkR3hsTXotWWlVaWR1X2NFY3o?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:34:55"
+      },
+      {
+        "title": "湧逾萬人相挺！劉建國競選總部成立 喊話全力守護家鄉未來 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mSTFFSHhnOTVXLUlRNzFNTlEzelRMNHprOEFWOWZxVFFsbEZxZ1A0QkNIeGJrbEJSMlc4emR4cVB0UnAxQ05qVlp5Ukg4TTE1aWJHYlhOSm9zWE1sTUo4ZWRkdEFaTVZ4dnfSAW9BVV95cUxNTVp0T09kU1lfX0JVNE5vcjhaLXhUTkMzdU1NX1ZxS3BsWVpZN0JmbF92MERMY29qRWVIazM5OUR5endGc21iMElSOWsxS0xucDEzYWxKSmtpTjl0anA0VEpVaGxGd0NZaFNsaEFCVXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:25:23"
+      },
       {
         "title": "民進黨雲林縣長參選人劉建國競選總部成立 湧入上萬名鄉親支持 - 三星傳媒",
         "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNTU1PWDlhV2VpSmQ2NmJUU0tabXFoeFlvZTE2TjZKZjhMNTlTdXRZZThrQlVGSzFYNzE5N3BFcTV1WHE1d1l0dVBBY0EtbzFOaFFWeVI5NHVFQjIta1Myd3ZldEx0ZDlBUkdHX3AtZWVaV3BiTHR6bXQxdVNNTk1YVkc0cFhpOUVMU3BReW1NV2xQVVhSWjRRSkRWck9zNzgtUjFPZ3U2LTMxYXNwMi04THBRd3MtaTFIR3dmUVVZbTNNbFVvVHRnY3dCMUZfVlZ0b2RHYXh5dHRjcmNHNW5IYncyR3dkemZpVEdOZ0ROUE9XbEFILWl1SW9WeldrWHpxYjNRN1dtN1hWd3M0MkQ2dWlhTWwwLUNqQzJ1dk9PaVZxeWFtOEpINVc2V21fMktSaU9Fb3BIblBUaFMwaG1leHk3N2NCSlZZNVg0ZnpUZ2QxeDJ3LURNQlFnaDNXMHoxN2N5UXhsQ2NmM09GUHltSThzYkFmSHFuc3JZZ0NkYThuLWdib2hhZzZObElNZ0JFaXFzLURHTk9Ya3pidU1yd0JSbDJ2b0lNd1RzU2ozdDlnSG1tNjJybXBNZ2RXYi1wS1dQcm9DWnUtRkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -623,7 +669,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 22
+      "count": 28
     },
     {
       "platform": "facebook",
@@ -636,6 +682,36 @@
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "賴清德挺劉建國 提出雲林要贏三大理由 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zMUNHOVFfRW9RWG1oaHFDR0ZGRUhQZUhPRzR2eWVKSTdiQWpFOWJtbTNsY3NRZ05lejkzdC1JZUFKY0tvMzRrdjFXT1R2RVlyZG44THhIR1FJSTdNRTE0UGxUTEJRSVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 21:09:37"
+      },
+      {
+        "title": "劉建國競總成立萬人相挺賴清德提3理由力薦| 政治 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2SzZfbXp3RzNtRWNjUlpMSEVtd3JxdXAwUjdYUzh4b0FDMTBYY0FhX1lPaHBmZ25LOWRRcDA4VGpPdVpTeHcxT0FaTkEzVGJTRWNJc1VXdnlLZmwtbHVJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 21:01:00"
+      },
+      {
+        "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUVRlTmNJRTY2WFlxUnNNYng2YnZ6d0NOcWtOdGd2aDFpLXVOVWxSTjE4dm1EOEI2VE1MUmwyOVV5WkVGcERwbkFJc09PS19DbC1ESElPaDdhUmNEZmpWcXpwc2N4dUpzMmfSAW9BVV95cUxPRlMyN2JFOVJvcXdMaUlFOUR6eUE0c1dOMlFBdFRwTDZMZFpVNTRObU5jdWxuLUhCWkRkSXZrYkN2RDl6aTd2VTBESnVZYjFISWlHQ1AxS1VJOHhUdTktTHduYnJsZzJWX2NrWUNNZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:59:23"
+      },
+      {
+        "title": "總統級助攻！賴清德罕接劉建國競總主委 「3大原因」曝光了 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNcUhLbldtMXpCNWZHcGF5c3h4NVUzODdJa0NCalVpNnF0Q20xM21EMDZua2FJMC1FY3YySFJBbnlzLUUzdWRhdFNCdTgxYXBWOFV6M2lCYmVuQmoyYmViVm5uTnFVMW5nSVlnOTZtdHQ3R2c4WEIwdUw5WDI3UmxpRE5xdFlwSUNiTW03R0h3NjF6eDlzQUF0c2lwNHZfYnpfMkUyNkZXZXBsb3l1cm16NmpfMlR4R19nUlRXeW5HOFpuaWM5R2JTR2o4RXphLUdnTG12VjVCeEoxbzZSSkdjcWN1VUlNVGpUbkdqaEp1bXlMZUFTQk5vTE9zU1FScVJwTmZLRDZNT2ZoUHBvSG5TMkpWbFgxSmVuQ0R0Z0ZKNll2Qmota2tndTVKNTYwZkJQMXNhTGNWU01YSU5VZ0s3bmd1SWF5RS12MVpZX29yWmw1dWstLUlEUVlaczZCWDkzRF9TMDVnemcxREVt?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:53:47"
+      },
+      {
+        "title": "湧逾萬人相挺！劉建國競選總部成立喊話全力守護家鄉未來- 股市爆料同學會 - CMoney",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zc1lXd2x2aEdBaGVsQzFjRjdfVHNSUFgtSTJwODdpeXJkS2JXMm1jRFl4bWRCV3Y2N0c1c09ONkJYRzVvVmFkR3hsTXotWWlVaWR1X2NFY3o?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:34:55"
+      },
+      {
+        "title": "湧逾萬人相挺！劉建國競選總部成立 喊話全力守護家鄉未來 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mSTFFSHhnOTVXLUlRNzFNTlEzelRMNHprOEFWOWZxVFFsbEZxZ1A0QkNIeGJrbEJSMlc4emR4cVB0UnAxQ05qVlp5Ukg4TTE1aWJHYlhOSm9zWE1sTUo4ZWRkdEFaTVZ4dnfSAW9BVV95cUxNTVp0T09kU1lfX0JVNE5vcjhaLXhUTkMzdU1NX1ZxS3BsWVpZN0JmbF92MERMY29qRWVIazM5OUR5endGc21iMElSOWsxS0xucDEzYWxKSmtpTjl0anA0VEpVaGxGd0NZaFNsaEFCVXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:25:23"
+      },
       {
         "title": "民進黨雲林縣長參選人劉建國競選總部成立 湧入上萬名鄉親支持 - 三星傳媒",
         "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNTU1PWDlhV2VpSmQ2NmJUU0tabXFoeFlvZTE2TjZKZjhMNTlTdXRZZThrQlVGSzFYNzE5N3BFcTV1WHE1d1l0dVBBY0EtbzFOaFFWeVI5NHVFQjIta1Myd3ZldEx0ZDlBUkdHX3AtZWVaV3BiTHR6bXQxdVNNTk1YVkc0cFhpOUVMU3BReW1NV2xQVVhSWjRRSkRWck9zNzgtUjFPZ3U2LTMxYXNwMi04THBRd3MtaTFIR3dmUVVZbTNNbFVvVHRnY3dCMUZfVlZ0b2RHYXh5dHRjcmNHNW5IYncyR3dkemZpVEdOZ0ROUE9XbEFILWl1SW9WeldrWHpxYjNRN1dtN1hWd3M0MkQ2dWlhTWwwLUNqQzJ1dk9PaVZxeWFtOEpINVc2V21fMktSaU9Fb3BIblBUaFMwaG1leHk3N2NCSlZZNVg0ZnpUZ2QxeDJ3LURNQlFnaDNXMHoxN2N5UXhsQ2NmM09GUHltSThzYkFmSHFuc3JZZ0NkYThuLWdib2hhZzZObElNZ0JFaXFzLURHTk9Ya3pidU1yd0JSbDJ2b0lNd1RzU2ozdDlnSG1tNjJybXBNZ2RXYi1wS1dQcm9DWnUtRkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -769,13 +845,43 @@
   },
   "mention_compare_24h": {
     "張嘉郡": 4,
-    "劉建國": 22
+    "劉建國": 28
   },
   "mention_compare_7d": {
     "張嘉郡": 141,
-    "劉建國": 220
+    "劉建國": 226
   },
   "top_news": [
+    {
+      "title": "賴清德挺劉建國 提出雲林要贏三大理由 - 中國評論新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zMUNHOVFfRW9RWG1oaHFDR0ZGRUhQZUhPRzR2eWVKSTdiQWpFOWJtbTNsY3NRZ05lejkzdC1JZUFKY0tvMzRrdjFXT1R2RVlyZG44THhIR1FJSTdNRTE0UGxUTEJRSVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 21:09:37"
+    },
+    {
+      "title": "劉建國競總成立萬人相挺賴清德提3理由力薦| 政治 - 中央社 CNA",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2SzZfbXp3RzNtRWNjUlpMSEVtd3JxdXAwUjdYUzh4b0FDMTBYY0FhX1lPaHBmZ25LOWRRcDA4VGpPdVpTeHcxT0FaTkEzVGJTRWNJc1VXdnlLZmwtbHVJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 21:01:00"
+    },
+    {
+      "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUVRlTmNJRTY2WFlxUnNNYng2YnZ6d0NOcWtOdGd2aDFpLXVOVWxSTjE4dm1EOEI2VE1MUmwyOVV5WkVGcERwbkFJc09PS19DbC1ESElPaDdhUmNEZmpWcXpwc2N4dUpzMmfSAW9BVV95cUxPRlMyN2JFOVJvcXdMaUlFOUR6eUE0c1dOMlFBdFRwTDZMZFpVNTRObU5jdWxuLUhCWkRkSXZrYkN2RDl6aTd2VTBESnVZYjFISWlHQ1AxS1VJOHhUdTktTHduYnJsZzJWX2NrWUNNZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 20:59:23"
+    },
+    {
+      "title": "總統級助攻！賴清德罕接劉建國競總主委 「3大原因」曝光了 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNcUhLbldtMXpCNWZHcGF5c3h4NVUzODdJa0NCalVpNnF0Q20xM21EMDZua2FJMC1FY3YySFJBbnlzLUUzdWRhdFNCdTgxYXBWOFV6M2lCYmVuQmoyYmViVm5uTnFVMW5nSVlnOTZtdHQ3R2c4WEIwdUw5WDI3UmxpRE5xdFlwSUNiTW03R0h3NjF6eDlzQUF0c2lwNHZfYnpfMkUyNkZXZXBsb3l1cm16NmpfMlR4R19nUlRXeW5HOFpuaWM5R2JTR2o4RXphLUdnTG12VjVCeEoxbzZSSkdjcWN1VUlNVGpUbkdqaEp1bXlMZUFTQk5vTE9zU1FScVJwTmZLRDZNT2ZoUHBvSG5TMkpWbFgxSmVuQ0R0Z0ZKNll2Qmota2tndTVKNTYwZkJQMXNhTGNWU01YSU5VZ0s3bmd1SWF5RS12MVpZX29yWmw1dWstLUlEUVlaczZCWDkzRF9TMDVnemcxREVt?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 20:53:47"
+    },
+    {
+      "title": "湧逾萬人相挺！劉建國競選總部成立喊話全力守護家鄉未來- 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zc1lXd2x2aEdBaGVsQzFjRjdfVHNSUFgtSTJwODdpeXJkS2JXMm1jRFl4bWRCV3Y2N0c1c09ONkJYRzVvVmFkR3hsTXotWWlVaWR1X2NFY3o?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 20:34:55"
+    },
+    {
+      "title": "湧逾萬人相挺！劉建國競選總部成立 喊話全力守護家鄉未來 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mSTFFSHhnOTVXLUlRNzFNTlEzelRMNHprOEFWOWZxVFFsbEZxZ1A0QkNIeGJrbEJSMlc4emR4cVB0UnAxQ05qVlp5Ukg4TTE1aWJHYlhOSm9zWE1sTUo4ZWRkdEFaTVZ4dnfSAW9BVV95cUxNTVp0T09kU1lfX0JVNE5vcjhaLXhUTkMzdU1NX1ZxS3BsWVpZN0JmbF92MERMY29qRWVIazM5OUR5endGc21iMElSOWsxS0xucDEzYWxKSmtpTjl0anA0VEpVaGxGd0NZaFNsaEFCVXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 20:25:23"
+    },
     {
       "title": "民進黨雲林縣長參選人劉建國競選總部成立 湧入上萬名鄉親支持 - 三星傳媒",
       "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNTU1PWDlhV2VpSmQ2NmJUU0tabXFoeFlvZTE2TjZKZjhMNTlTdXRZZThrQlVGSzFYNzE5N3BFcTV1WHE1d1l0dVBBY0EtbzFOaFFWeVI5NHVFQjIta1Myd3ZldEx0ZDlBUkdHX3AtZWVaV3BiTHR6bXQxdVNNTk1YVkc0cFhpOUVMU3BReW1NV2xQVVhSWjRRSkRWck9zNzgtUjFPZ3U2LTMxYXNwMi04THBRd3MtaTFIR3dmUVVZbTNNbFVvVHRnY3dCMUZfVlZ0b2RHYXh5dHRjcmNHNW5IYncyR3dkemZpVEdOZ0ROUE9XbEFILWl1SW9WeldrWHpxYjNRN1dtN1hWd3M0MkQ2dWlhTWwwLUNqQzJ1dk9PaVZxeWFtOEpINVc2V21fMktSaU9Fb3BIblBUaFMwaG1leHk3N2NCSlZZNVg0ZnpUZ2QxeDJ3LURNQlFnaDNXMHoxN2N5UXhsQ2NmM09GUHltSThzYkFmSHFuc3JZZ0NkYThuLWdib2hhZzZObElNZ0JFaXFzLURHTk9Ya3pidU1yd0JSbDJ2b0lNd1RzU2ozdDlnSG1tNjJybXBNZ2RXYi1wS1dQcm9DWnUtRkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -805,39 +911,39 @@
       "title": "民進黨縣長候選人劉建國競選總本部成立 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNLXg4STNfV0xKcC13YUd3TlVpRUZQbXppbHl2X3JPZndzVXlfWVgyS2sxUW1HZElRdVhDM0UzYUJtNEx1bW1uYWZPSGxzMGJZekREZUJLUjRZdnd4d1RUcVBnTkFOeWdVQVQ0ZXVrekdpRkRyUmxCQVBaNWZsSDdGV0F1QTBNXzZMQjBUbF94N0xZT1ljU2FCa3hMTlNWNzcxOXFWMmNQcWN4ZVVfVUljNnFoU1dVc2cxLWh6QnZ4RXNxMDF4VXp6dkt6M2MyOGNWV2RkYWo4ZS0zT3pYQmpuemdSM3FaN3hPVUZRUmRYbDFmVGdZM0ZCc1V1dkRkekNFdWlJc3N3Z1lfSjNadVlTY3RZbFNacmNVNDRIZGd4eElfTmtveUI3WHlxQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-20 19:46:19"
-    },
-    {
-      "title": "挺劉建國翻轉雲林！賴清德轟張家「整碗捧」：別讓民主聖地變家族政治私產| 政治焦點 - 太報 TaiSounds",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1QUxnWHBEM05xMFdKRGJnc2l4eHNEYV8yWGhwZGYydUdrUXd6V2lNeUZaenM3NllvVWhzekZCUUtlU200VmVlMXJJVzJmYTJROUhsUFdsUHBhRDNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 19:38:43"
-    },
-    {
-      "title": "劉建國競總成立 賴清德.陳其邁與余天都到場 - 民視新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RRVVROXo4Z09nVkM0aU5FVUJ1OG1UYnljY3U3UFZrZGNQTUtLSFpJTWNrWkFBZUd6dkR2SDRTOFBUVEJpeFBzUlYzSWNzMmhLVTg3RG1YY2RMS3dXN0hGbQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 19:12:43"
-    },
-    {
-      "title": "劉建國二度鞠躬表達決心！ 為雲林鄉親再戰｜#鏡新聞 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOaDNfUGRHa1Fod1N1WHFiMWhjOU1Gcmw0dHE4QWNpTGlpNjhRYXRBV0FiMXA4UjM0dW95c3NNUmpfa1dsX19rbGVVSGlyN3g5WFlncjJ2VTAyOWh4cEtScURDRUk3czF6a1Flc3c3LVpZQUIycUxlOFpVZWV6cHlZOEVTZW1oQzA5aHhSQ0djbXNmQlEyVUlIelM2dnpMMnBGUXpfMVVVWmpQbkQ3T1c5b2tsZUdoU3NlTWdERWpKVmF4TXB0Sjc4a1g5R0VHbHNtdTRHT2RUQ20wWWpmMng4SHJoSndlQUFSM0I5VV9EVmh4TnBya0VabkEtb0tVYWJVMVJCandxNWVQLTNDQ0JuTjRCMmRRSWtIMHdCTXVMY1lwRHlpY0pvdTRqa2FlcFd3REgxTmNVeWNnWWY5MUFCM3VCb1gtS1RvdHJ1Y0FvTEwwQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 19:03:06"
-    },
-    {
-      "title": "劉建國成立競選總本部 賴清德站台：張家不能「整碗捧」 - 中時新聞網",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBINXRVTWlyVmRHYTN0anBVS3hPeVJxanMtR0ltZkhIbkZ2WlR4WDRxNEJ5RVQ2NnFLSjVnUUJnMEcxZUt3QmhCd3pSTzZHeXBHT0t2cmh3aExJTzhhVXVFS1F5N280czYxRlJrQVVn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 18:51:43"
-    },
-    {
-      "title": "揭力挺劉建國「三大理由」 賴清德站台喊：台灣要贏、雲林先贏 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQbmp2SVFwRWVxOXg5SEI2eDA2SmNEZ3lIRzFXcUdwUk1IM1ZESVRmT0RSeVRkcGh0ZHRUTzhtS2Z1WkFRTl9HTlJOWFhPSkh5c3FoRmFJaGZSSDVPd2RoSnhoRXliekoxMFU1ZTdNbkJtWkN1MG9rY1RGNTliX0pIa0NNbG9TZzZVMVU2bjhEOF9OZFF2SDh1c2twM1lMQ08wejdEUy1iYmpyY3BhUDFOcEx0WUFhZWJoUm05aFYxTkY1blBoU0E5X3h3VU0xckNXZmxlY0JVRTRac1E3TXdacFlkYVFBZVJzR1ptT2t2RzhHYTdxRGVBSGY5V1lWblpwNFF2Y0prMkJwalUxcVpOOE9odWQtUm1UcHYyRXdzb3FSZEdBcUt3OTV0V2V4elBwT3dFdW1Za1Z3T3FBTkRVYS1tUElDM05kUkxmMGttZXNWYTNJLWZQcnFkbUdqa2ltOUxOdkk1YXBQNDFYZ3pndG1Tbm5Menh1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 18:38:11"
-    },
-    {
-      "title": "揭力挺劉建國「三大理由」 賴清德站台喊：台灣要贏、雲林先贏 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03WWc5V2txQzczcHNxQVlEZHU4YllEOGZPMDdqS0o4SzR6dzRndVNoSDNoZVlaY3hzUjJreGwyaXlGblE1UXBabzNsaVRHNndid2syQ0EyR3d2X0o3N1lNLXFPX0RvUXF2dVHSAW9BVV95cUxOcXhybHN5S1RXUWpZOXZyRFVrdFhUaEV1c3o1ZFRfVnFtT2VfaWgyeXF6Tzd5cmlpTWhjSEtFYmtvWkFBcU9VaUNrcHR0WExJT1FOSEd4QXRPVFExMkp0ZGg2TEJrZy10WXFsNFVESDA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 18:38:11"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "賴清德挺劉建國 提出雲林要贏三大理由 - 中國評論新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zMUNHOVFfRW9RWG1oaHFDR0ZGRUhQZUhPRzR2eWVKSTdiQWpFOWJtbTNsY3NRZ05lejkzdC1JZUFKY0tvMzRrdjFXT1R2RVlyZG44THhIR1FJSTdNRTE0UGxUTEJRSVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 21:09:37"
+    },
+    {
+      "title": "劉建國競總成立萬人相挺賴清德提3理由力薦| 政治 - 中央社 CNA",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2SzZfbXp3RzNtRWNjUlpMSEVtd3JxdXAwUjdYUzh4b0FDMTBYY0FhX1lPaHBmZ25LOWRRcDA4VGpPdVpTeHcxT0FaTkEzVGJTRWNJc1VXdnlLZmwtbHVJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 21:01:00"
+    },
+    {
+      "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUVRlTmNJRTY2WFlxUnNNYng2YnZ6d0NOcWtOdGd2aDFpLXVOVWxSTjE4dm1EOEI2VE1MUmwyOVV5WkVGcERwbkFJc09PS19DbC1ESElPaDdhUmNEZmpWcXpwc2N4dUpzMmfSAW9BVV95cUxPRlMyN2JFOVJvcXdMaUlFOUR6eUE0c1dOMlFBdFRwTDZMZFpVNTRObU5jdWxuLUhCWkRkSXZrYkN2RDl6aTd2VTBESnVZYjFISWlHQ1AxS1VJOHhUdTktTHduYnJsZzJWX2NrWUNNZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 20:59:23"
+    },
+    {
+      "title": "總統級助攻！賴清德罕接劉建國競總主委 「3大原因」曝光了 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNcUhLbldtMXpCNWZHcGF5c3h4NVUzODdJa0NCalVpNnF0Q20xM21EMDZua2FJMC1FY3YySFJBbnlzLUUzdWRhdFNCdTgxYXBWOFV6M2lCYmVuQmoyYmViVm5uTnFVMW5nSVlnOTZtdHQ3R2c4WEIwdUw5WDI3UmxpRE5xdFlwSUNiTW03R0h3NjF6eDlzQUF0c2lwNHZfYnpfMkUyNkZXZXBsb3l1cm16NmpfMlR4R19nUlRXeW5HOFpuaWM5R2JTR2o4RXphLUdnTG12VjVCeEoxbzZSSkdjcWN1VUlNVGpUbkdqaEp1bXlMZUFTQk5vTE9zU1FScVJwTmZLRDZNT2ZoUHBvSG5TMkpWbFgxSmVuQ0R0Z0ZKNll2Qmota2tndTVKNTYwZkJQMXNhTGNWU01YSU5VZ0s3bmd1SWF5RS12MVpZX29yWmw1dWstLUlEUVlaczZCWDkzRF9TMDVnemcxREVt?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 20:53:47"
+    },
+    {
+      "title": "湧逾萬人相挺！劉建國競選總部成立喊話全力守護家鄉未來- 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zc1lXd2x2aEdBaGVsQzFjRjdfVHNSUFgtSTJwODdpeXJkS2JXMm1jRFl4bWRCV3Y2N0c1c09ONkJYRzVvVmFkR3hsTXotWWlVaWR1X2NFY3o?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 20:34:55"
+    },
+    {
+      "title": "湧逾萬人相挺！劉建國競選總部成立 喊話全力守護家鄉未來 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mSTFFSHhnOTVXLUlRNzFNTlEzelRMNHprOEFWOWZxVFFsbEZxZ1A0QkNIeGJrbEJSMlc4emR4cVB0UnAxQ05qVlp5Ukg4TTE1aWJHYlhOSm9zWE1sTUo4ZWRkdEFaTVZ4dnfSAW9BVV95cUxNTVp0T09kU1lfX0JVNE5vcjhaLXhUTkMzdU1NX1ZxS3BsWVpZN0JmbF92MERMY29qRWVIazM5OUR5endGc21iMElSOWsxS0xucDEzYWxKSmtpTjl0anA0VEpVaGxGd0NZaFNsaEFCVXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 20:25:23"
+    },
     {
       "title": "民進黨雲林縣長參選人劉建國競選總部成立 湧入上萬名鄉親支持 - 三星傳媒",
       "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNTU1PWDlhV2VpSmQ2NmJUU0tabXFoeFlvZTE2TjZKZjhMNTlTdXRZZThrQlVGSzFYNzE5N3BFcTV1WHE1d1l0dVBBY0EtbzFOaFFWeVI5NHVFQjIta1Myd3ZldEx0ZDlBUkdHX3AtZWVaV3BiTHR6bXQxdVNNTk1YVkc0cFhpOUVMU3BReW1NV2xQVVhSWjRRSkRWck9zNzgtUjFPZ3U2LTMxYXNwMi04THBRd3MtaTFIR3dmUVVZbTNNbFVvVHRnY3dCMUZfVlZ0b2RHYXh5dHRjcmNHNW5IYncyR3dkemZpVEdOZ0ROUE9XbEFILWl1SW9WeldrWHpxYjNRN1dtN1hWd3M0MkQ2dWlhTWwwLUNqQzJ1dk9PaVZxeWFtOEpINVc2V21fMktSaU9Fb3BIblBUaFMwaG1leHk3N2NCSlZZNVg0ZnpUZ2QxeDJ3LURNQlFnaDNXMHoxN2N5UXhsQ2NmM09GUHltSThzYkFmSHFuc3JZZ0NkYThuLWdib2hhZzZObElNZ0JFaXFzLURHTk9Ya3pidU1yd0JSbDJ2b0lNd1RzU2ozdDlnSG1tNjJybXBNZ2RXYi1wS1dQcm9DWnUtRkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -907,36 +1013,6 @@
       "title": "錄影相挺劉建國拚雲林縣長 蔡英文讚「他答應的事會一直追」 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQNEtaQ1hhZXBVajluMlJQZEwtaVBDMHlkSTRFR1N2dEZXaFlnemUxRUxEYTBxeEExazhYOGtLNWduRWJ4WUhvbGxhdVZkYTJ4VFo0WEtyMW8zRUg2emxjekY2QklBN0hxeXJ1OUVtZ1V1MU5PR2JUWjhRbFA0NGVHb2dLVzVOOVVraHZubnFvdmF6bV9PUHlGUHJncENXVG5qS1dOckFOQW5OcFBITG5Nb2VDNlRocDRlRjZlRHUwcHNaSXpleGp2NEpCRUxEYXFObVY5cldvcm9iQzdsV21UVDBPb20tZU83c0pieS1KWFBVcno1S2dlbGlHREM2Vi1nYnZVZjR0MEZBZHFuekY0Y21jWGx3bE9BSjJmYnBHRWFxdjB1WFVqenN3NjFTaDBtYmJCdUR2cDNkbWgtQnNEYm9vTVpXMHlrSnQ2WWZPNlkxdjR2aTk3ODVGQlpNZDBHZE9SNWVjRndOZnY0eHhFVlZxSGl3SHM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-20 17:06:12"
-    },
-    {
-      "title": "綠營雲林大團結！劉建國競選總部成立大會登場 賴清德、余天都來了 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPNzJJazZFMjl4M0FhaGRaRGVwYUE2YnRrQXl1cTNpQXRQOU9LbzRQZ2FOM291endWbWR1b1JzX2JLTmF5bHhia0Z5UkQ5MFEwZ3lTTnJtOUh1N3hPRFctczZQMFA4c1NCY1Y4eHJJYkhVWHg5QzdZLUJnWHZFRWJYcFV5emxPY1hhN0xtcVF2RUVXTV9mQTd6bmI5cFBTeTNRVnUyTWxRcWVQLWZhMncySnZ5NF8tWThDT01PV20ybW0xdzNmakFFdjNSMXhaTkV0akNlYTRxZ1pVLXgwckV2QVNlUXpUMGI4X2sza2J3RnU3WG40c3hBNlBOREFfNjlKSUpsdGItdHVvbGNVeDhIVi13dlJHWHlIM3U2dlc1UWNJT1NmUGY1WFVUbEZRWXNpcTJRczVQZUxnb0gzUldkc2VhbzJDaGRtMnkxbktocGVfNjk3bVN5RHJFVmZkTXItQ1d5X2VPY0c2b2pDdFNDLVRJQmp1bmF3dDNDSXROdkFpNnJ5ZUdaQVNZVUhzR1pRVUJUSFZkVFNlSmxtbzRqS3FnXzBzQkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 15:28:10"
-    },
-    {
-      "title": "綠營雲林大團結！劉建國競選總部成立大會登場 賴清德、余天都來了 | 民視新聞網 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yejVSZ0JHRHB6bkludFFCN1lkUzFaT3NnVUE2S2s4Y1FVNURNRkROajc5UXJCdUdQaFZsUjhkUElVM3pKQ1VIblNleHZrTzFpa2tlYWV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 15:23:05"
-    },
-    {
-      "title": "劉建國林慧如聯合競總成立 喊話「縣民政治」與「家族政治」的選擇 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TOTFPZEgzRG5vY3M4M0lzQVpEdmhoXzk4b2R0NjBZdy02bTBNZ0xFRmxHcXBydUFnQ2R3R29aYkpwcV9ValF3QnpHTVNyTXUtSms00gFYQVVfeXFMUG5ndjlxQzk0X0ZUUHdBb29qNWxyc29neUtqeFFHTUZKSTIyenhiMTBVU1RGS1VFZUxncjhmcUdUT180cnNkNzFtZTk4MEtoT1hwZ3FfUTFnZA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 14:44:44"
-    },
-    {
-      "title": "AI選戰雙面刃》張嘉郡導入AI智慧管理系統 展現數位治理思維 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zSjJRRnFPZVd0Nm83MkRPTkVIaVZkM3R4RURMVktlWmMxWTdlYzY1Vm1hZU1HUDNtU3BPNzdidkNJaUZIbFh4emVIUGNjd19xV18tZ0oySGdwdzFtNWI2UGg0WTZqS2N1cFHSAW9BVV95cUxOeVA3Q0l4M3pVOG9oS28wSUNSYWJpM0pHaGdHbkRsbHZkdWJ3UTgzN1N5Q0R4cUJkb2NpS19RcmRSeGZwU3VsRWVla1cyUzlKMEplRHVHOS1zaTBoLU9NRHA0YjhQaEZ1clhmNTA0QTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 13:54:47"
-    },
-    {
-      "title": "選舉小物拚創意！張嘉郡匹克球拍、山田摩衣「達摩」、黃瀞瑩「姐」系吸睛 | 太報 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBydkozM2hJbC1Sd3J1MjAwYnEzTjZaVEtIOVdOaUlCQnJHMXlhem1yN2NyMlB4QTlVYjNjc1NwbHJPeXFBeC1FdUpNQzVyMkRiblBIRjhB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 08:33:39"
-    },
-    {
-      "title": "贏回雲林 劉建國今成立競總賴清德站台 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPNkJkdzlBeTNvLVo3X2ZsdFZVOUJFZFNlY3RLQW9tck5aTUZzbHRsVDlFUnFGRGMwZ0NDNHFsek1yWlZ5TkxybEN4cVVDUE1xa2oyVG5zc1QxWTNGZ2JQeGZuZlVlMWdMY0FULW5URUdCREJOeVdoNTMxTlo4WUEyT0VjZmZIRUJoYWs2MTJ5THdGSFhyUUVEQkpKYkpaNnowNVV2U2hWNVBDRUQxOTJzR3lfeGhfbTNSUmUtTmZhTnI3UXFWRzJGYVk0bkhEYUY4Y2sxN3Z6TV9YWVhGNTBLNHpTY2d6OXY5SFZrUlpCRTRoa2tFZHJOeDNpR0FCcVBjb1hHUWdiOFUxc2ZWSVVoVFVlNmRJLTJiUmZ6Uk5GaG0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 05:30:00"
     }
   ],
   "latest_facebook_20": [
@@ -1043,6 +1119,36 @@
   ],
   "latest_news_20": [
     {
+      "title": "賴清德挺劉建國 提出雲林要贏三大理由 - 中國評論新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zMUNHOVFfRW9RWG1oaHFDR0ZGRUhQZUhPRzR2eWVKSTdiQWpFOWJtbTNsY3NRZ05lejkzdC1JZUFKY0tvMzRrdjFXT1R2RVlyZG44THhIR1FJSTdNRTE0UGxUTEJRSVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 21:09:37"
+    },
+    {
+      "title": "劉建國競總成立萬人相挺賴清德提3理由力薦| 政治 - 中央社 CNA",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2SzZfbXp3RzNtRWNjUlpMSEVtd3JxdXAwUjdYUzh4b0FDMTBYY0FhX1lPaHBmZ25LOWRRcDA4VGpPdVpTeHcxT0FaTkEzVGJTRWNJc1VXdnlLZmwtbHVJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 21:01:00"
+    },
+    {
+      "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUVRlTmNJRTY2WFlxUnNNYng2YnZ6d0NOcWtOdGd2aDFpLXVOVWxSTjE4dm1EOEI2VE1MUmwyOVV5WkVGcERwbkFJc09PS19DbC1ESElPaDdhUmNEZmpWcXpwc2N4dUpzMmfSAW9BVV95cUxPRlMyN2JFOVJvcXdMaUlFOUR6eUE0c1dOMlFBdFRwTDZMZFpVNTRObU5jdWxuLUhCWkRkSXZrYkN2RDl6aTd2VTBESnVZYjFISWlHQ1AxS1VJOHhUdTktTHduYnJsZzJWX2NrWUNNZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 20:59:23"
+    },
+    {
+      "title": "總統級助攻！賴清德罕接劉建國競總主委 「3大原因」曝光了 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNcUhLbldtMXpCNWZHcGF5c3h4NVUzODdJa0NCalVpNnF0Q20xM21EMDZua2FJMC1FY3YySFJBbnlzLUUzdWRhdFNCdTgxYXBWOFV6M2lCYmVuQmoyYmViVm5uTnFVMW5nSVlnOTZtdHQ3R2c4WEIwdUw5WDI3UmxpRE5xdFlwSUNiTW03R0h3NjF6eDlzQUF0c2lwNHZfYnpfMkUyNkZXZXBsb3l1cm16NmpfMlR4R19nUlRXeW5HOFpuaWM5R2JTR2o4RXphLUdnTG12VjVCeEoxbzZSSkdjcWN1VUlNVGpUbkdqaEp1bXlMZUFTQk5vTE9zU1FScVJwTmZLRDZNT2ZoUHBvSG5TMkpWbFgxSmVuQ0R0Z0ZKNll2Qmota2tndTVKNTYwZkJQMXNhTGNWU01YSU5VZ0s3bmd1SWF5RS12MVpZX29yWmw1dWstLUlEUVlaczZCWDkzRF9TMDVnemcxREVt?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 20:53:47"
+    },
+    {
+      "title": "湧逾萬人相挺！劉建國競選總部成立喊話全力守護家鄉未來- 股市爆料同學會 - CMoney",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zc1lXd2x2aEdBaGVsQzFjRjdfVHNSUFgtSTJwODdpeXJkS2JXMm1jRFl4bWRCV3Y2N0c1c09ONkJYRzVvVmFkR3hsTXotWWlVaWR1X2NFY3o?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 20:34:55"
+    },
+    {
+      "title": "湧逾萬人相挺！劉建國競選總部成立 喊話全力守護家鄉未來 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mSTFFSHhnOTVXLUlRNzFNTlEzelRMNHprOEFWOWZxVFFsbEZxZ1A0QkNIeGJrbEJSMlc4emR4cVB0UnAxQ05qVlp5Ukg4TTE1aWJHYlhOSm9zWE1sTUo4ZWRkdEFaTVZ4dnfSAW9BVV95cUxNTVp0T09kU1lfX0JVNE5vcjhaLXhUTkMzdU1NX1ZxS3BsWVpZN0JmbF92MERMY29qRWVIazM5OUR5endGc21iMElSOWsxS0xucDEzYWxKSmtpTjl0anA0VEpVaGxGd0NZaFNsaEFCVXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 20:25:23"
+    },
+    {
       "title": "民進黨雲林縣長參選人劉建國競選總部成立 湧入上萬名鄉親支持 - 三星傳媒",
       "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNTU1PWDlhV2VpSmQ2NmJUU0tabXFoeFlvZTE2TjZKZjhMNTlTdXRZZThrQlVGSzFYNzE5N3BFcTV1WHE1d1l0dVBBY0EtbzFOaFFWeVI5NHVFQjIta1Myd3ZldEx0ZDlBUkdHX3AtZWVaV3BiTHR6bXQxdVNNTk1YVkc0cFhpOUVMU3BReW1NV2xQVVhSWjRRSkRWck9zNzgtUjFPZ3U2LTMxYXNwMi04THBRd3MtaTFIR3dmUVVZbTNNbFVvVHRnY3dCMUZfVlZ0b2RHYXh5dHRjcmNHNW5IYncyR3dkemZpVEdOZ0ROUE9XbEFILWl1SW9WeldrWHpxYjNRN1dtN1hWd3M0MkQ2dWlhTWwwLUNqQzJ1dk9PaVZxeWFtOEpINVc2V21fMktSaU9Fb3BIblBUaFMwaG1leHk3N2NCSlZZNVg0ZnpUZ2QxeDJ3LURNQlFnaDNXMHoxN2N5UXhsQ2NmM09GUHltSThzYkFmSHFuc3JZZ0NkYThuLWdib2hhZzZObElNZ0JFaXFzLURHTk9Ya3pidU1yd0JSbDJ2b0lNd1RzU2ozdDlnSG1tNjJybXBNZ2RXYi1wS1dQcm9DWnUtRkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-20 19:55:08"
@@ -1111,36 +1217,6 @@
       "title": "錄影相挺劉建國拚雲林縣長 蔡英文讚「他答應的事會一直追」 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQNEtaQ1hhZXBVajluMlJQZEwtaVBDMHlkSTRFR1N2dEZXaFlnemUxRUxEYTBxeEExazhYOGtLNWduRWJ4WUhvbGxhdVZkYTJ4VFo0WEtyMW8zRUg2emxjekY2QklBN0hxeXJ1OUVtZ1V1MU5PR2JUWjhRbFA0NGVHb2dLVzVOOVVraHZubnFvdmF6bV9PUHlGUHJncENXVG5qS1dOckFOQW5OcFBITG5Nb2VDNlRocDRlRjZlRHUwcHNaSXpleGp2NEpCRUxEYXFObVY5cldvcm9iQzdsV21UVDBPb20tZU83c0pieS1KWFBVcno1S2dlbGlHREM2Vi1nYnZVZjR0MEZBZHFuekY0Y21jWGx3bE9BSjJmYnBHRWFxdjB1WFVqenN3NjFTaDBtYmJCdUR2cDNkbWgtQnNEYm9vTVpXMHlrSnQ2WWZPNlkxdjR2aTk3ODVGQlpNZDBHZE9SNWVjRndOZnY0eHhFVlZxSGl3SHM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-20 17:06:12"
-    },
-    {
-      "title": "綠營雲林大團結！劉建國競選總部成立大會登場 賴清德、余天都來了 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPNzJJazZFMjl4M0FhaGRaRGVwYUE2YnRrQXl1cTNpQXRQOU9LbzRQZ2FOM291endWbWR1b1JzX2JLTmF5bHhia0Z5UkQ5MFEwZ3lTTnJtOUh1N3hPRFctczZQMFA4c1NCY1Y4eHJJYkhVWHg5QzdZLUJnWHZFRWJYcFV5emxPY1hhN0xtcVF2RUVXTV9mQTd6bmI5cFBTeTNRVnUyTWxRcWVQLWZhMncySnZ5NF8tWThDT01PV20ybW0xdzNmakFFdjNSMXhaTkV0akNlYTRxZ1pVLXgwckV2QVNlUXpUMGI4X2sza2J3RnU3WG40c3hBNlBOREFfNjlKSUpsdGItdHVvbGNVeDhIVi13dlJHWHlIM3U2dlc1UWNJT1NmUGY1WFVUbEZRWXNpcTJRczVQZUxnb0gzUldkc2VhbzJDaGRtMnkxbktocGVfNjk3bVN5RHJFVmZkTXItQ1d5X2VPY0c2b2pDdFNDLVRJQmp1bmF3dDNDSXROdkFpNnJ5ZUdaQVNZVUhzR1pRVUJUSFZkVFNlSmxtbzRqS3FnXzBzQkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 15:28:10"
-    },
-    {
-      "title": "綠營雲林大團結！劉建國競選總部成立大會登場 賴清德、余天都來了 | 民視新聞網 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yejVSZ0JHRHB6bkludFFCN1lkUzFaT3NnVUE2S2s4Y1FVNURNRkROajc5UXJCdUdQaFZsUjhkUElVM3pKQ1VIblNleHZrTzFpa2tlYWV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 15:23:05"
-    },
-    {
-      "title": "劉建國林慧如聯合競總成立 喊話「縣民政治」與「家族政治」的選擇 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TOTFPZEgzRG5vY3M4M0lzQVpEdmhoXzk4b2R0NjBZdy02bTBNZ0xFRmxHcXBydUFnQ2R3R29aYkpwcV9ValF3QnpHTVNyTXUtSms00gFYQVVfeXFMUG5ndjlxQzk0X0ZUUHdBb29qNWxyc29neUtqeFFHTUZKSTIyenhiMTBVU1RGS1VFZUxncjhmcUdUT180cnNkNzFtZTk4MEtoT1hwZ3FfUTFnZA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 14:44:44"
-    },
-    {
-      "title": "AI選戰雙面刃》張嘉郡導入AI智慧管理系統 展現數位治理思維 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zSjJRRnFPZVd0Nm83MkRPTkVIaVZkM3R4RURMVktlWmMxWTdlYzY1Vm1hZU1HUDNtU3BPNzdidkNJaUZIbFh4emVIUGNjd19xV18tZ0oySGdwdzFtNWI2UGg0WTZqS2N1cFHSAW9BVV95cUxOeVA3Q0l4M3pVOG9oS28wSUNSYWJpM0pHaGdHbkRsbHZkdWJ3UTgzN1N5Q0R4cUJkb2NpS19RcmRSeGZwU3VsRWVla1cyUzlKMEplRHVHOS1zaTBoLU9NRHA0YjhQaEZ1clhmNTA0QTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 13:54:47"
-    },
-    {
-      "title": "選舉小物拚創意！張嘉郡匹克球拍、山田摩衣「達摩」、黃瀞瑩「姐」系吸睛 | 太報 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBydkozM2hJbC1Sd3J1MjAwYnEzTjZaVEtIOVdOaUlCQnJHMXlhem1yN2NyMlB4QTlVYjNjc1NwbHJPeXFBeC1FdUpNQzVyMkRiblBIRjhB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 08:33:39"
-    },
-    {
-      "title": "贏回雲林 劉建國今成立競總賴清德站台 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPNkJkdzlBeTNvLVo3X2ZsdFZVOUJFZFNlY3RLQW9tck5aTUZzbHRsVDlFUnFGRGMwZ0NDNHFsek1yWlZ5TkxybEN4cVVDUE1xa2oyVG5zc1QxWTNGZ2JQeGZuZlVlMWdMY0FULW5URUdCREJOeVdoNTMxTlo4WUEyT0VjZmZIRUJoYWs2MTJ5THdGSFhyUUVEQkpKYkpaNnowNVV2U2hWNVBDRUQxOTJzR3lfeGhfbTNSUmUtTmZhTnI3UXFWRzJGYVk0bkhEYUY4Y2sxN3Z6TV9YWVhGNTBLNHpTY2d6OXY5SFZrUlpCRTRoa2tFZHJOeDNpR0FCcVBjb1hHUWdiOFUxc2ZWSVVoVFVlNmRJLTJiUmZ6Uk5GaG0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 05:30:00"
     }
   ],
   "person_sections": {
@@ -1455,6 +1531,36 @@
       ],
       "news": [
         {
+          "title": "賴清德挺劉建國 提出雲林要贏三大理由 - 中國評論新聞",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zMUNHOVFfRW9RWG1oaHFDR0ZGRUhQZUhPRzR2eWVKSTdiQWpFOWJtbTNsY3NRZ05lejkzdC1JZUFKY0tvMzRrdjFXT1R2RVlyZG44THhIR1FJSTdNRTE0UGxUTEJRSVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-20 21:09:37"
+        },
+        {
+          "title": "劉建國競總成立萬人相挺賴清德提3理由力薦| 政治 - 中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2SzZfbXp3RzNtRWNjUlpMSEVtd3JxdXAwUjdYUzh4b0FDMTBYY0FhX1lPaHBmZ25LOWRRcDA4VGpPdVpTeHcxT0FaTkEzVGJTRWNJc1VXdnlLZmwtbHVJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-20 21:01:00"
+        },
+        {
+          "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUVRlTmNJRTY2WFlxUnNNYng2YnZ6d0NOcWtOdGd2aDFpLXVOVWxSTjE4dm1EOEI2VE1MUmwyOVV5WkVGcERwbkFJc09PS19DbC1ESElPaDdhUmNEZmpWcXpwc2N4dUpzMmfSAW9BVV95cUxPRlMyN2JFOVJvcXdMaUlFOUR6eUE0c1dOMlFBdFRwTDZMZFpVNTRObU5jdWxuLUhCWkRkSXZrYkN2RDl6aTd2VTBESnVZYjFISWlHQ1AxS1VJOHhUdTktTHduYnJsZzJWX2NrWUNNZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-20 20:59:23"
+        },
+        {
+          "title": "總統級助攻！賴清德罕接劉建國競總主委 「3大原因」曝光了 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNcUhLbldtMXpCNWZHcGF5c3h4NVUzODdJa0NCalVpNnF0Q20xM21EMDZua2FJMC1FY3YySFJBbnlzLUUzdWRhdFNCdTgxYXBWOFV6M2lCYmVuQmoyYmViVm5uTnFVMW5nSVlnOTZtdHQ3R2c4WEIwdUw5WDI3UmxpRE5xdFlwSUNiTW03R0h3NjF6eDlzQUF0c2lwNHZfYnpfMkUyNkZXZXBsb3l1cm16NmpfMlR4R19nUlRXeW5HOFpuaWM5R2JTR2o4RXphLUdnTG12VjVCeEoxbzZSSkdjcWN1VUlNVGpUbkdqaEp1bXlMZUFTQk5vTE9zU1FScVJwTmZLRDZNT2ZoUHBvSG5TMkpWbFgxSmVuQ0R0Z0ZKNll2Qmota2tndTVKNTYwZkJQMXNhTGNWU01YSU5VZ0s3bmd1SWF5RS12MVpZX29yWmw1dWstLUlEUVlaczZCWDkzRF9TMDVnemcxREVt?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-20 20:53:47"
+        },
+        {
+          "title": "湧逾萬人相挺！劉建國競選總部成立喊話全力守護家鄉未來- 股市爆料同學會 - CMoney",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zc1lXd2x2aEdBaGVsQzFjRjdfVHNSUFgtSTJwODdpeXJkS2JXMm1jRFl4bWRCV3Y2N0c1c09ONkJYRzVvVmFkR3hsTXotWWlVaWR1X2NFY3o?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-20 20:34:55"
+        },
+        {
+          "title": "湧逾萬人相挺！劉建國競選總部成立 喊話全力守護家鄉未來 - 自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mSTFFSHhnOTVXLUlRNzFNTlEzelRMNHprOEFWOWZxVFFsbEZxZ1A0QkNIeGJrbEJSMlc4emR4cVB0UnAxQ05qVlp5Ukg4TTE1aWJHYlhOSm9zWE1sTUo4ZWRkdEFaTVZ4dnfSAW9BVV95cUxNTVp0T09kU1lfX0JVNE5vcjhaLXhUTkMzdU1NX1ZxS3BsWVpZN0JmbF92MERMY29qRWVIazM5OUR5endGc21iMElSOWsxS0xucDEzYWxKSmtpTjl0anA0VEpVaGxGd0NZaFNsaEFCVXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-20 20:25:23"
+        },
+        {
           "title": "民進黨雲林縣長參選人劉建國競選總部成立 湧入上萬名鄉親支持 - 三星傳媒",
           "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNTU1PWDlhV2VpSmQ2NmJUU0tabXFoeFlvZTE2TjZKZjhMNTlTdXRZZThrQlVGSzFYNzE5N3BFcTV1WHE1d1l0dVBBY0EtbzFOaFFWeVI5NHVFQjIta1Myd3ZldEx0ZDlBUkdHX3AtZWVaV3BiTHR6bXQxdVNNTk1YVkc0cFhpOUVMU3BReW1NV2xQVVhSWjRRSkRWck9zNzgtUjFPZ3U2LTMxYXNwMi04THBRd3MtaTFIR3dmUVVZbTNNbFVvVHRnY3dCMUZfVlZ0b2RHYXh5dHRjcmNHNW5IYncyR3dkemZpVEdOZ0ROUE9XbEFILWl1SW9WeldrWHpxYjNRN1dtN1hWd3M0MkQ2dWlhTWwwLUNqQzJ1dk9PaVZxeWFtOEpINVc2V21fMktSaU9Fb3BIblBUaFMwaG1leHk3N2NCSlZZNVg0ZnpUZ2QxeDJ3LURNQlFnaDNXMHoxN2N5UXhsQ2NmM09GUHltSThzYkFmSHFuc3JZZ0NkYThuLWdib2hhZzZObElNZ0JFaXFzLURHTk9Ya3pidU1yd0JSbDJ2b0lNd1RzU2ozdDlnSG1tNjJybXBNZ2RXYi1wS1dQcm9DWnUtRkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-20 19:55:08"
@@ -1523,42 +1629,42 @@
           "title": "錄影相挺劉建國拚雲林縣長 蔡英文讚「他答應的事會一直追」 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQNEtaQ1hhZXBVajluMlJQZEwtaVBDMHlkSTRFR1N2dEZXaFlnemUxRUxEYTBxeEExazhYOGtLNWduRWJ4WUhvbGxhdVZkYTJ4VFo0WEtyMW8zRUg2emxjekY2QklBN0hxeXJ1OUVtZ1V1MU5PR2JUWjhRbFA0NGVHb2dLVzVOOVVraHZubnFvdmF6bV9PUHlGUHJncENXVG5qS1dOckFOQW5OcFBITG5Nb2VDNlRocDRlRjZlRHUwcHNaSXpleGp2NEpCRUxEYXFObVY5cldvcm9iQzdsV21UVDBPb20tZU83c0pieS1KWFBVcno1S2dlbGlHREM2Vi1nYnZVZjR0MEZBZHFuekY0Y21jWGx3bE9BSjJmYnBHRWFxdjB1WFVqenN3NjFTaDBtYmJCdUR2cDNkbWgtQnNEYm9vTVpXMHlrSnQ2WWZPNlkxdjR2aTk3ODVGQlpNZDBHZE9SNWVjRndOZnY0eHhFVlZxSGl3SHM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-20 17:06:12"
-        },
-        {
-          "title": "綠營雲林大團結！劉建國競選總部成立大會登場 賴清德、余天都來了 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPNzJJazZFMjl4M0FhaGRaRGVwYUE2YnRrQXl1cTNpQXRQOU9LbzRQZ2FOM291endWbWR1b1JzX2JLTmF5bHhia0Z5UkQ5MFEwZ3lTTnJtOUh1N3hPRFctczZQMFA4c1NCY1Y4eHJJYkhVWHg5QzdZLUJnWHZFRWJYcFV5emxPY1hhN0xtcVF2RUVXTV9mQTd6bmI5cFBTeTNRVnUyTWxRcWVQLWZhMncySnZ5NF8tWThDT01PV20ybW0xdzNmakFFdjNSMXhaTkV0akNlYTRxZ1pVLXgwckV2QVNlUXpUMGI4X2sza2J3RnU3WG40c3hBNlBOREFfNjlKSUpsdGItdHVvbGNVeDhIVi13dlJHWHlIM3U2dlc1UWNJT1NmUGY1WFVUbEZRWXNpcTJRczVQZUxnb0gzUldkc2VhbzJDaGRtMnkxbktocGVfNjk3bVN5RHJFVmZkTXItQ1d5X2VPY0c2b2pDdFNDLVRJQmp1bmF3dDNDSXROdkFpNnJ5ZUdaQVNZVUhzR1pRVUJUSFZkVFNlSmxtbzRqS3FnXzBzQkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-20 15:28:10"
-        },
-        {
-          "title": "綠營雲林大團結！劉建國競選總部成立大會登場 賴清德、余天都來了 | 民視新聞網 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yejVSZ0JHRHB6bkludFFCN1lkUzFaT3NnVUE2S2s4Y1FVNURNRkROajc5UXJCdUdQaFZsUjhkUElVM3pKQ1VIblNleHZrTzFpa2tlYWV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-20 15:23:05"
-        },
-        {
-          "title": "劉建國林慧如聯合競總成立 喊話「縣民政治」與「家族政治」的選擇 - UDN",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TOTFPZEgzRG5vY3M4M0lzQVpEdmhoXzk4b2R0NjBZdy02bTBNZ0xFRmxHcXBydUFnQ2R3R29aYkpwcV9ValF3QnpHTVNyTXUtSms00gFYQVVfeXFMUG5ndjlxQzk0X0ZUUHdBb29qNWxyc29neUtqeFFHTUZKSTIyenhiMTBVU1RGS1VFZUxncjhmcUdUT180cnNkNzFtZTk4MEtoT1hwZ3FfUTFnZA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-20 14:44:44"
-        },
-        {
-          "title": "贏回雲林 劉建國今成立競總賴清德站台 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPNkJkdzlBeTNvLVo3X2ZsdFZVOUJFZFNlY3RLQW9tck5aTUZzbHRsVDlFUnFGRGMwZ0NDNHFsek1yWlZ5TkxybEN4cVVDUE1xa2oyVG5zc1QxWTNGZ2JQeGZuZlVlMWdMY0FULW5URUdCREJOeVdoNTMxTlo4WUEyT0VjZmZIRUJoYWs2MTJ5THdGSFhyUUVEQkpKYkpaNnowNVV2U2hWNVBDRUQxOTJzR3lfeGhfbTNSUmUtTmZhTnI3UXFWRzJGYVk0bkhEYUY4Y2sxN3Z6TV9YWVhGNTBLNHpTY2d6OXY5SFZrUlpCRTRoa2tFZHJOeDNpR0FCcVBjb1hHUWdiOFUxc2ZWSVVoVFVlNmRJLTJiUmZ6Uk5GaG0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-20 05:30:00"
-        },
-        {
-          "title": "討論牆 | 劉建國登記參選雲林縣長 張嘉郡推廣斗六文旦 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ONF90TDI3aUJteXpjNXdIRWdNOVpHcy0zd0J6WXA5QlktTjFrZHpnSWNISWNQQW5QSi1OYXp0bTJEaERwd2JlNE1zYnB4QllCZUwtUlduVEdpS01EQU14X1lVZGo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-19 22:59:23"
-        },
-        {
-          "title": "樂齡動起來！劉建國推廣健康運動長輩齊聚雲科大挑戰匹克球- 社會新聞- PChome Online 新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVEk5NmpvdWlLc1ZaVnVYd1V6WVVoZXNqcjFHZ183V2d6VXkzeDFaaUowbXJSV1doY2xfNFVhMEtkbEZXSFo1elRYS25ZcUthUjdOa2hRcXF2VTVhSndwRllOWU03VkRUN2FKeUQ1aW1XZGlKQVY1SEt3ZERUVThBOThGSVBkYlFKVzloVkYzbExiQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-19 17:22:50"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "賴清德挺劉建國 提出雲林要贏三大理由 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zMUNHOVFfRW9RWG1oaHFDR0ZGRUhQZUhPRzR2eWVKSTdiQWpFOWJtbTNsY3NRZ05lejkzdC1JZUFKY0tvMzRrdjFXT1R2RVlyZG44THhIR1FJSTdNRTE0UGxUTEJRSVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 21:09:37"
+      },
+      {
+        "title": "劉建國競總成立萬人相挺賴清德提3理由力薦| 政治 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2SzZfbXp3RzNtRWNjUlpMSEVtd3JxdXAwUjdYUzh4b0FDMTBYY0FhX1lPaHBmZ25LOWRRcDA4VGpPdVpTeHcxT0FaTkEzVGJTRWNJc1VXdnlLZmwtbHVJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 21:01:00"
+      },
+      {
+        "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUVRlTmNJRTY2WFlxUnNNYng2YnZ6d0NOcWtOdGd2aDFpLXVOVWxSTjE4dm1EOEI2VE1MUmwyOVV5WkVGcERwbkFJc09PS19DbC1ESElPaDdhUmNEZmpWcXpwc2N4dUpzMmfSAW9BVV95cUxPRlMyN2JFOVJvcXdMaUlFOUR6eUE0c1dOMlFBdFRwTDZMZFpVNTRObU5jdWxuLUhCWkRkSXZrYkN2RDl6aTd2VTBESnVZYjFISWlHQ1AxS1VJOHhUdTktTHduYnJsZzJWX2NrWUNNZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:59:23"
+      },
+      {
+        "title": "總統級助攻！賴清德罕接劉建國競總主委 「3大原因」曝光了 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNcUhLbldtMXpCNWZHcGF5c3h4NVUzODdJa0NCalVpNnF0Q20xM21EMDZua2FJMC1FY3YySFJBbnlzLUUzdWRhdFNCdTgxYXBWOFV6M2lCYmVuQmoyYmViVm5uTnFVMW5nSVlnOTZtdHQ3R2c4WEIwdUw5WDI3UmxpRE5xdFlwSUNiTW03R0h3NjF6eDlzQUF0c2lwNHZfYnpfMkUyNkZXZXBsb3l1cm16NmpfMlR4R19nUlRXeW5HOFpuaWM5R2JTR2o4RXphLUdnTG12VjVCeEoxbzZSSkdjcWN1VUlNVGpUbkdqaEp1bXlMZUFTQk5vTE9zU1FScVJwTmZLRDZNT2ZoUHBvSG5TMkpWbFgxSmVuQ0R0Z0ZKNll2Qmota2tndTVKNTYwZkJQMXNhTGNWU01YSU5VZ0s3bmd1SWF5RS12MVpZX29yWmw1dWstLUlEUVlaczZCWDkzRF9TMDVnemcxREVt?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:53:47"
+      },
+      {
+        "title": "湧逾萬人相挺！劉建國競選總部成立喊話全力守護家鄉未來- 股市爆料同學會 - CMoney",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zc1lXd2x2aEdBaGVsQzFjRjdfVHNSUFgtSTJwODdpeXJkS2JXMm1jRFl4bWRCV3Y2N0c1c09ONkJYRzVvVmFkR3hsTXotWWlVaWR1X2NFY3o?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:34:55"
+      },
+      {
+        "title": "湧逾萬人相挺！劉建國競選總部成立 喊話全力守護家鄉未來 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mSTFFSHhnOTVXLUlRNzFNTlEzelRMNHprOEFWOWZxVFFsbEZxZ1A0QkNIeGJrbEJSMlc4emR4cVB0UnAxQ05qVlp5Ukg4TTE1aWJHYlhOSm9zWE1sTUo4ZWRkdEFaTVZ4dnfSAW9BVV95cUxNTVp0T09kU1lfX0JVNE5vcjhaLXhUTkMzdU1NX1ZxS3BsWVpZN0JmbF92MERMY29qRWVIazM5OUR5endGc21iMElSOWsxS0xucDEzYWxKSmtpTjl0anA0VEpVaGxGd0NZaFNsaEFCVXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:25:23"
+      },
       {
         "title": "民進黨雲林縣長參選人劉建國競選總部成立 湧入上萬名鄉親支持 - 三星傳媒",
         "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNTU1PWDlhV2VpSmQ2NmJUU0tabXFoeFlvZTE2TjZKZjhMNTlTdXRZZThrQlVGSzFYNzE5N3BFcTV1WHE1d1l0dVBBY0EtbzFOaFFWeVI5NHVFQjIta1Myd3ZldEx0ZDlBUkdHX3AtZWVaV3BiTHR6bXQxdVNNTk1YVkc0cFhpOUVMU3BReW1NV2xQVVhSWjRRSkRWck9zNzgtUjFPZ3U2LTMxYXNwMi04THBRd3MtaTFIR3dmUVVZbTNNbFVvVHRnY3dCMUZfVlZ0b2RHYXh5dHRjcmNHNW5IYncyR3dkemZpVEdOZ0ROUE9XbEFILWl1SW9WeldrWHpxYjNRN1dtN1hWd3M0MkQ2dWlhTWwwLUNqQzJ1dk9PaVZxeWFtOEpINVc2V21fMktSaU9Fb3BIblBUaFMwaG1leHk3N2NCSlZZNVg0ZnpUZ2QxeDJ3LURNQlFnaDNXMHoxN2N5UXhsQ2NmM09GUHltSThzYkFmSHFuc3JZZ0NkYThuLWdib2hhZzZObElNZ0JFaXFzLURHTk9Ya3pidU1yd0JSbDJ2b0lNd1RzU2ozdDlnSG1tNjJybXBNZ2RXYi1wS1dQcm9DWnUtRkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1692,6 +1798,36 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "賴清德挺劉建國 提出雲林要贏三大理由 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zMUNHOVFfRW9RWG1oaHFDR0ZGRUhQZUhPRzR2eWVKSTdiQWpFOWJtbTNsY3NRZ05lejkzdC1JZUFKY0tvMzRrdjFXT1R2RVlyZG44THhIR1FJSTdNRTE0UGxUTEJRSVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 21:09:37"
+      },
+      {
+        "title": "劉建國競總成立萬人相挺賴清德提3理由力薦| 政治 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2SzZfbXp3RzNtRWNjUlpMSEVtd3JxdXAwUjdYUzh4b0FDMTBYY0FhX1lPaHBmZ25LOWRRcDA4VGpPdVpTeHcxT0FaTkEzVGJTRWNJc1VXdnlLZmwtbHVJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 21:01:00"
+      },
+      {
+        "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUVRlTmNJRTY2WFlxUnNNYng2YnZ6d0NOcWtOdGd2aDFpLXVOVWxSTjE4dm1EOEI2VE1MUmwyOVV5WkVGcERwbkFJc09PS19DbC1ESElPaDdhUmNEZmpWcXpwc2N4dUpzMmfSAW9BVV95cUxPRlMyN2JFOVJvcXdMaUlFOUR6eUE0c1dOMlFBdFRwTDZMZFpVNTRObU5jdWxuLUhCWkRkSXZrYkN2RDl6aTd2VTBESnVZYjFISWlHQ1AxS1VJOHhUdTktTHduYnJsZzJWX2NrWUNNZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:59:23"
+      },
+      {
+        "title": "總統級助攻！賴清德罕接劉建國競總主委 「3大原因」曝光了 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNcUhLbldtMXpCNWZHcGF5c3h4NVUzODdJa0NCalVpNnF0Q20xM21EMDZua2FJMC1FY3YySFJBbnlzLUUzdWRhdFNCdTgxYXBWOFV6M2lCYmVuQmoyYmViVm5uTnFVMW5nSVlnOTZtdHQ3R2c4WEIwdUw5WDI3UmxpRE5xdFlwSUNiTW03R0h3NjF6eDlzQUF0c2lwNHZfYnpfMkUyNkZXZXBsb3l1cm16NmpfMlR4R19nUlRXeW5HOFpuaWM5R2JTR2o4RXphLUdnTG12VjVCeEoxbzZSSkdjcWN1VUlNVGpUbkdqaEp1bXlMZUFTQk5vTE9zU1FScVJwTmZLRDZNT2ZoUHBvSG5TMkpWbFgxSmVuQ0R0Z0ZKNll2Qmota2tndTVKNTYwZkJQMXNhTGNWU01YSU5VZ0s3bmd1SWF5RS12MVpZX29yWmw1dWstLUlEUVlaczZCWDkzRF9TMDVnemcxREVt?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:53:47"
+      },
+      {
+        "title": "湧逾萬人相挺！劉建國競選總部成立喊話全力守護家鄉未來- 股市爆料同學會 - CMoney",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zc1lXd2x2aEdBaGVsQzFjRjdfVHNSUFgtSTJwODdpeXJkS2JXMm1jRFl4bWRCV3Y2N0c1c09ONkJYRzVvVmFkR3hsTXotWWlVaWR1X2NFY3o?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:34:55"
+      },
+      {
+        "title": "湧逾萬人相挺！劉建國競選總部成立 喊話全力守護家鄉未來 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mSTFFSHhnOTVXLUlRNzFNTlEzelRMNHprOEFWOWZxVFFsbEZxZ1A0QkNIeGJrbEJSMlc4emR4cVB0UnAxQ05qVlp5Ukg4TTE1aWJHYlhOSm9zWE1sTUo4ZWRkdEFaTVZ4dnfSAW9BVV95cUxNTVp0T09kU1lfX0JVNE5vcjhaLXhUTkMzdU1NX1ZxS3BsWVpZN0JmbF92MERMY29qRWVIazM5OUR5endGc21iMElSOWsxS0xucDEzYWxKSmtpTjl0anA0VEpVaGxGd0NZaFNsaEFCVXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:25:23"
+      },
       {
         "title": "民進黨雲林縣長參選人劉建國競選總部成立 湧入上萬名鄉親支持 - 三星傳媒",
         "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNTU1PWDlhV2VpSmQ2NmJUU0tabXFoeFlvZTE2TjZKZjhMNTlTdXRZZThrQlVGSzFYNzE5N3BFcTV1WHE1d1l0dVBBY0EtbzFOaFFWeVI5NHVFQjIta1Myd3ZldEx0ZDlBUkdHX3AtZWVaV3BiTHR6bXQxdVNNTk1YVkc0cFhpOUVMU3BReW1NV2xQVVhSWjRRSkRWck9zNzgtUjFPZ3U2LTMxYXNwMi04THBRd3MtaTFIR3dmUVVZbTNNbFVvVHRnY3dCMUZfVlZ0b2RHYXh5dHRjcmNHNW5IYncyR3dkemZpVEdOZ0ROUE9XbEFILWl1SW9WeldrWHpxYjNRN1dtN1hWd3M0MkQ2dWlhTWwwLUNqQzJ1dk9PaVZxeWFtOEpINVc2V21fMktSaU9Fb3BIblBUaFMwaG1leHk3N2NCSlZZNVg0ZnpUZ2QxeDJ3LURNQlFnaDNXMHoxN2N5UXhsQ2NmM09GUHltSThzYkFmSHFuc3JZZ0NkYThuLWdib2hhZzZObElNZ0JFaXFzLURHTk9Ya3pidU1yd0JSbDJ2b0lNd1RzU2ozdDlnSG1tNjJybXBNZ2RXYi1wS1dQcm9DWnUtRkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1861,36 +1997,6 @@
         "title": "黃國昌喊話挺國民黨 雲林選票集中投張嘉郡 - 中國評論新聞",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXamhDb0I3VVN4cXJEckFOWFFlN3dEMlI2VDBrVnZlLTNYQy0xajQ5NDIxRGVkZlpoY01qZzNuVmh3YTIzWjExT3ZPU3pENVdYUE5QdmpQQW9QeE51X3JDOVk5VDBoeHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-19 14:46:31"
-      },
-      {
-        "title": "雲林藍白合穩了！黃國昌宣示：民眾黨「集中選票」支持張嘉郡 - 上報",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QcFdHSEtYWGNySWxLWkE5TmhEcUlCdzRkb2lCZEM3MG9zUkhhcm5tS1JwNG82Rkx6M044QW1VVTVRTG1MSFMxQ1d2dk1YdlB6VkNYcWlZQmNYbF9MX0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-19 14:10:00"
-      },
-      {
-        "title": "雲林藍白合穩了！黃國昌宣示：民眾黨「集中選票」支持張嘉郡 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rbkFGZ0xic2VOV3Bvc0JOX25mcVJfVzBxYzAxaDI2V1VuRUk1bVZHNF80VTI3YXpwZWRkTk1nOUZ6UG5QYm5BQ015cjFsVWhIckE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-19 14:10:00"
-      },
-      {
-        "title": "黃國昌喊「竹北的事留在竹北」！雲林同框張麗善 站台力挺張嘉郡接棒 - tw.news.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQdGtla2gxUnctOHJnb2JrVWFEYlF2d1dfSk50VE51R2gyak9qNzVLMEc1WFNRR2M0cWpoMDdEX1VPUTRHXzcyYXR4eTViOU91ZVB4WVp1VW1qdnpmbWMyVHJHNkx1OWdIbUNZZzFUV0VWUERtaXhsWTM2b2RiNlUyd3J0RXJIbER4UmdPMEItSEliN0VKVUhSZ1pmbHhMTjFsbE5LM2hacGl4MjJBWlo2ZzR0U1l0aDVSY1h0Q2NySFRsOXBqOFdHT0RCdG8xdXJfSjJ4cXRucTZUT0tTUGtUUmFfNWRFYkEtX1AwektKQjNLYTJBNURNY05WMk8ydmh1THBwWEdfdk5MWFkzUnpSSm5uT0dlclppZkZURmN5UkJmazlscE1zRUxvYVJsZHlLc1p5b0NUODNUTUpIX0V3T29rd2N3ak9kYVVmQUF3RkphQkdUSm8xRDBFaU93SU1Sa3hyN2g2bHlFMnlicEFxNWhzOHV2M1VDY0VaMmxmcWhpd3N3RlNRZFZmNzNrS25jdnhTb1JTbjNRSDBPWnBVc1NLUXdMLXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-19 14:08:26"
-      },
-      {
-        "title": "黃國昌喊「竹北的事留在竹北」！雲林同框張麗善站台力挺張嘉郡接棒| 太報 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YQUdlUHQ1a01BSV8wdEV4WTZQRG9QZENqLWJGX3dfRDI1Uk1BOHN5SzdBVlhQc3hrQ19mWlRfdGhBeGV3UVB1Qzc2TVVMZU5YNnpxMEJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-19 14:00:46"
-      },
-      {
-        "title": "雲林藍白合體！黃國昌喊集中選票挺張嘉郡：竹北破局就留在竹北 | TVBS - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94alVDS20yMlgySzg1NTdWMFpMbDRJbG5uUUUzRU5ndG04TnFVbXVfUEJlSnBhYklmQm1xSDE5aUF0NFhFQmpnX3ZMYmtwMXg0ZzA1WG1R?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-19 13:57:54"
-      },
-      {
-        "title": "雲林藍白合體！黃國昌喊集中選票挺張嘉郡：竹北破局就留在竹北 - TVBS新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WVXhURXliVm5EYXl4Sm42Rm0xa3RJQ1VOOWEyYUpaVTFEeHNSbGNmVFE0djVWT0gxeEpqdTFJZjNUdUNBaVF4NWZjUlpMYkc5bGVF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-19 13:47:00"
       }
     ],
     "facebook": [
@@ -2203,6 +2309,48 @@
     "hour": [],
     "day": [
       {
+        "title": "賴清德挺劉建國 提出雲林要贏三大理由 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zMUNHOVFfRW9RWG1oaHFDR0ZGRUhQZUhPRzR2eWVKSTdiQWpFOWJtbTNsY3NRZ05lejkzdC1JZUFKY0tvMzRrdjFXT1R2RVlyZG44THhIR1FJSTdNRTE0UGxUTEJRSVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 21:09:37",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國競總成立萬人相挺賴清德提3理由力薦| 政治 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2SzZfbXp3RzNtRWNjUlpMSEVtd3JxdXAwUjdYUzh4b0FDMTBYY0FhX1lPaHBmZ25LOWRRcDA4VGpPdVpTeHcxT0FaTkEzVGJTRWNJc1VXdnlLZmwtbHVJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 21:01:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUVRlTmNJRTY2WFlxUnNNYng2YnZ6d0NOcWtOdGd2aDFpLXVOVWxSTjE4dm1EOEI2VE1MUmwyOVV5WkVGcERwbkFJc09PS19DbC1ESElPaDdhUmNEZmpWcXpwc2N4dUpzMmfSAW9BVV95cUxPRlMyN2JFOVJvcXdMaUlFOUR6eUE0c1dOMlFBdFRwTDZMZFpVNTRObU5jdWxuLUhCWkRkSXZrYkN2RDl6aTd2VTBESnVZYjFISWlHQ1AxS1VJOHhUdTktTHduYnJsZzJWX2NrWUNNZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:59:23",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "總統級助攻！賴清德罕接劉建國競總主委 「3大原因」曝光了 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNcUhLbldtMXpCNWZHcGF5c3h4NVUzODdJa0NCalVpNnF0Q20xM21EMDZua2FJMC1FY3YySFJBbnlzLUUzdWRhdFNCdTgxYXBWOFV6M2lCYmVuQmoyYmViVm5uTnFVMW5nSVlnOTZtdHQ3R2c4WEIwdUw5WDI3UmxpRE5xdFlwSUNiTW03R0h3NjF6eDlzQUF0c2lwNHZfYnpfMkUyNkZXZXBsb3l1cm16NmpfMlR4R19nUlRXeW5HOFpuaWM5R2JTR2o4RXphLUdnTG12VjVCeEoxbzZSSkdjcWN1VUlNVGpUbkdqaEp1bXlMZUFTQk5vTE9zU1FScVJwTmZLRDZNT2ZoUHBvSG5TMkpWbFgxSmVuQ0R0Z0ZKNll2Qmota2tndTVKNTYwZkJQMXNhTGNWU01YSU5VZ0s3bmd1SWF5RS12MVpZX29yWmw1dWstLUlEUVlaczZCWDkzRF9TMDVnemcxREVt?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:53:47",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "湧逾萬人相挺！劉建國競選總部成立喊話全力守護家鄉未來- 股市爆料同學會 - CMoney",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zc1lXd2x2aEdBaGVsQzFjRjdfVHNSUFgtSTJwODdpeXJkS2JXMm1jRFl4bWRCV3Y2N0c1c09ONkJYRzVvVmFkR3hsTXotWWlVaWR1X2NFY3o?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:34:55",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "湧逾萬人相挺！劉建國競選總部成立 喊話全力守護家鄉未來 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mSTFFSHhnOTVXLUlRNzFNTlEzelRMNHprOEFWOWZxVFFsbEZxZ1A0QkNIeGJrbEJSMlc4emR4cVB0UnAxQ05qVlp5Ukg4TTE1aWJHYlhOSm9zWE1sTUo4ZWRkdEFaTVZ4dnfSAW9BVV95cUxNTVp0T09kU1lfX0JVNE5vcjhaLXhUTkMzdU1NX1ZxS3BsWVpZN0JmbF92MERMY29qRWVIazM5OUR5endGc21iMElSOWsxS0xucDEzYWxKSmtpTjl0anA0VEpVaGxGd0NZaFNsaEFCVXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:25:23",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "民進黨雲林縣長參選人劉建國競選總部成立 湧入上萬名鄉親支持 - 三星傳媒",
         "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNTU1PWDlhV2VpSmQ2NmJUU0tabXFoeFlvZTE2TjZKZjhMNTlTdXRZZThrQlVGSzFYNzE5N3BFcTV1WHE1d1l0dVBBY0EtbzFOaFFWeVI5NHVFQjIta1Myd3ZldEx0ZDlBUkdHX3AtZWVaV3BiTHR6bXQxdVNNTk1YVkc0cFhpOUVMU3BReW1NV2xQVVhSWjRRSkRWck9zNzgtUjFPZ3U2LTMxYXNwMi04THBRd3MtaTFIR3dmUVVZbTNNbFVvVHRnY3dCMUZfVlZ0b2RHYXh5dHRjcmNHNW5IYncyR3dkemZpVEdOZ0ROUE9XbEFILWl1SW9WeldrWHpxYjNRN1dtN1hWd3M0MkQ2dWlhTWwwLUNqQzJ1dk9PaVZxeWFtOEpINVc2V21fMktSaU9Fb3BIblBUaFMwaG1leHk3N2NCSlZZNVg0ZnpUZ2QxeDJ3LURNQlFnaDNXMHoxN2N5UXhsQ2NmM09GUHltSThzYkFmSHFuc3JZZ0NkYThuLWdib2hhZzZObElNZ0JFaXFzLURHTk9Ya3pidU1yd0JSbDJ2b0lNd1RzU2ozdDlnSG1tNjJybXBNZ2RXYi1wS1dQcm9DWnUtRkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-20 19:55:08",
@@ -2299,48 +2447,6 @@
         "time": "2026-09-20 17:26:17",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "錄影相挺劉建國拚雲林縣長 蔡英文讚「他答應的事會一直追」 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQNEtaQ1hhZXBVajluMlJQZEwtaVBDMHlkSTRFR1N2dEZXaFlnemUxRUxEYTBxeEExazhYOGtLNWduRWJ4WUhvbGxhdVZkYTJ4VFo0WEtyMW8zRUg2emxjekY2QklBN0hxeXJ1OUVtZ1V1MU5PR2JUWjhRbFA0NGVHb2dLVzVOOVVraHZubnFvdmF6bV9PUHlGUHJncENXVG5qS1dOckFOQW5OcFBITG5Nb2VDNlRocDRlRjZlRHUwcHNaSXpleGp2NEpCRUxEYXFObVY5cldvcm9iQzdsV21UVDBPb20tZU83c0pieS1KWFBVcno1S2dlbGlHREM2Vi1nYnZVZjR0MEZBZHFuekY0Y21jWGx3bE9BSjJmYnBHRWFxdjB1WFVqenN3NjFTaDBtYmJCdUR2cDNkbWgtQnNEYm9vTVpXMHlrSnQ2WWZPNlkxdjR2aTk3ODVGQlpNZDBHZE9SNWVjRndOZnY0eHhFVlZxSGl3SHM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-20 17:06:12",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "劉建國. . 📢 【勇敢轉型 新雲林 改變拚這次！】總本部成立大會・全台線上直播預告 📢雲林的鄉親朋友，改變的時刻到了！劉建國邀請大家一起站出來，為雲林的未來注入新動能！💪我們即將在 本週日（9/20）下午 舉行盛大的「競選總本部成立大會」，現場將凝聚全雲林最熱 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOSFFiTmk3ajJ3ZFFKc0dyXzYydmRtV0JBdG1hV0doUmZmcHJacm5LdTlYcFVrQnBnYlExeDZsalZ4cVU3NHVrSkY4cEY1NHBfOE1FSWFwZHZxTFZRTVJCOGxJdGxIS2FHR0dxcGdNZFRxMmhCRXM0RU1XSUdJWmhDeUliTmRvTmY0X01OT3RscHJMT050NFZPekJocEdySUFxLWVBY2YzUXZ2YmtSNlhaSHh3VTVlNGRoSFpZWm0tdHFKRVBCcm9vVGlqQUo3LTlianUzZU4wNV9JdGxNU3UwN19sUmdzblFTZzZLQ2RKUU1rNlpEYTdPbEIwdEgyWHRtcXlQTFRmX0xlWUxzNkhPaDhDWXU4ckFNY0U2dU1OdGlhTzlkbGxGYmZCOUVEQlBwLVFvQk5FNzJDV2g3dGIwZkJZN2pVX3VNcVA2aEIzOTdfbm9vZ1F1bmNxcXgzNkhNWjZ3c3M1d1hGOV8tZU5DWTFxaFJiWlhFUWxaLUp3",
-        "time": "2026-09-20 15:29:05",
-        "platform": "facebook",
-        "risk": "綠"
-      },
-      {
-        "title": "綠營雲林大團結！劉建國競選總部成立大會登場 賴清德、余天都來了 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPNzJJazZFMjl4M0FhaGRaRGVwYUE2YnRrQXl1cTNpQXRQOU9LbzRQZ2FOM291endWbWR1b1JzX2JLTmF5bHhia0Z5UkQ5MFEwZ3lTTnJtOUh1N3hPRFctczZQMFA4c1NCY1Y4eHJJYkhVWHg5QzdZLUJnWHZFRWJYcFV5emxPY1hhN0xtcVF2RUVXTV9mQTd6bmI5cFBTeTNRVnUyTWxRcWVQLWZhMncySnZ5NF8tWThDT01PV20ybW0xdzNmakFFdjNSMXhaTkV0akNlYTRxZ1pVLXgwckV2QVNlUXpUMGI4X2sza2J3RnU3WG40c3hBNlBOREFfNjlKSUpsdGItdHVvbGNVeDhIVi13dlJHWHlIM3U2dlc1UWNJT1NmUGY1WFVUbEZRWXNpcTJRczVQZUxnb0gzUldkc2VhbzJDaGRtMnkxbktocGVfNjk3bVN5RHJFVmZkTXItQ1d5X2VPY0c2b2pDdFNDLVRJQmp1bmF3dDNDSXROdkFpNnJ5ZUdaQVNZVUhzR1pRVUJUSFZkVFNlSmxtbzRqS3FnXzBzQkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-20 15:28:10",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "綠營雲林大團結！劉建國競選總部成立大會登場 賴清德、余天都來了 | 民視新聞網 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yejVSZ0JHRHB6bkludFFCN1lkUzFaT3NnVUE2S2s4Y1FVNURNRkROajc5UXJCdUdQaFZsUjhkUElVM3pKQ1VIblNleHZrTzFpa2tlYWV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-20 15:23:05",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "劉建國林慧如聯合競總成立 喊話「縣民政治」與「家族政治」的選擇 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TOTFPZEgzRG5vY3M4M0lzQVpEdmhoXzk4b2R0NjBZdy02bTBNZ0xFRmxHcXBydUFnQ2R3R29aYkpwcV9ValF3QnpHTVNyTXUtSms00gFYQVVfeXFMUG5ndjlxQzk0X0ZUUHdBb29qNWxyc29neUtqeFFHTUZKSTIyenhiMTBVU1RGS1VFZUxncjhmcUdUT180cnNkNzFtZTk4MEtoT1hwZ3FfUTFnZA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-20 14:44:44",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "AI選戰雙面刃》張嘉郡導入AI智慧管理系統 展現數位治理思維 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zSjJRRnFPZVd0Nm83MkRPTkVIaVZkM3R4RURMVktlWmMxWTdlYzY1Vm1hZU1HUDNtU3BPNzdidkNJaUZIbFh4emVIUGNjd19xV18tZ0oySGdwdzFtNWI2UGg0WTZqS2N1cFHSAW9BVV95cUxOeVA3Q0l4M3pVOG9oS28wSUNSYWJpM0pHaGdHbkRsbHZkdWJ3UTgzN1N5Q0R4cUJkb2NpS19RcmRSeGZwU3VsRWVla1cyUzlKMEplRHVHOS1zaTBoLU9NRHA0YjhQaEZ1clhmNTA0QTg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-20 13:54:47",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2348,7 +2454,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 16
+        "count": 17
       },
       {
         "name": "斗六",
