@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-20T16:09:02.041776+00:00",
+  "generated_at": "2026-09-20T16:24:50.367435+00:00",
   "metrics": {
-    "total_24h": 34,
+    "total_24h": 38,
     "prev_24h": 37,
-    "growth_pct": -8.11,
-    "news_24h": 30,
+    "growth_pct": 2.7,
+    "news_24h": 33,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 371,
+    "total": 375,
     "prev": 216,
-    "growth_pct": 71.76,
-    "news": 303,
+    "growth_pct": 73.61,
+    "news": 306,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,21 +28,21 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 30
-    },
-    {
-      "platform": "facebook",
-      "count": 2
+      "count": 33
     },
     {
       "platform": "youtube",
+      "count": 3
+    },
+    {
+      "platform": "facebook",
       "count": 2
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 303
+      "count": 306
     },
     {
       "platform": "facebook",
@@ -50,7 +50,7 @@
     },
     {
       "platform": "youtube",
-      "count": 21
+      "count": 22
     }
   ],
   "by_hour": [
@@ -92,7 +92,7 @@
     },
     {
       "hour": "2026-09-20 20:00",
-      "count": 4
+      "count": 5
     },
     {
       "hour": "2026-09-20 21:00",
@@ -100,7 +100,15 @@
     },
     {
       "hour": "2026-09-20 22:00",
-      "count": 3
+      "count": 4
+    },
+    {
+      "hour": "2026-09-20 23:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-09-21 00:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -474,7 +482,7 @@
     },
     {
       "hour": "2026-09-20 20:00",
-      "count": 4
+      "count": 5
     },
     {
       "hour": "2026-09-20 21:00",
@@ -482,13 +490,21 @@
     },
     {
       "hour": "2026-09-20 22:00",
-      "count": 3
+      "count": 4
+    },
+    {
+      "hour": "2026-09-20 23:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-09-21 00:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 30
+      "count": 33
     },
     {
       "platform": "youtube",
@@ -502,8 +518,18 @@
   "mention_latest_by_platform_24h": {
     "news": [
       {
+        "title": "雲林縣長候選人張嘉郡拱範宮廟口開講立委游顥、丁學忠等人到場力挺呼籲麥寮、台西等海區大團結！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1udnNCbGFJSkpoakZHczVvYlhJZE9IWmhHNWQwTmRHRDVsdWdVTndmalgxb0Z4akp6aEplN3ZTSE9uNnNLcmxhdjZfdjFZREQ4YzZWbFlsWWVuemJ2OGcyTmlTdHg2TE9TTS1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 23:22:30"
+      },
+      {
         "title": "麥寮拱範宮廟口開講爆滿 游顥、 丁學忠站台力薦張嘉郡 - cnews.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1Zm5PNWFBR3RCTWRyR21EY2tEMmViTHd5WkJKbDBLS0JvY3V1cWd3TVpfaHlLLWhmV3pWUkZSS1Q4SGRLM0JZdmdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 22:57:35"
+      },
+      {
+        "title": "麥寮拱範宮廟口開講爆滿 游顥、丁學忠站台力薦張嘉郡 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNZnhBcEJGcUJzS283MDN4emFrN0lQd014NTBIWXdQaGhtSkFaVXZvZ1RYcmp1U2pRU3JEVTlfM01TNk52cmdULVhiUTRqeE9vRU1lTmRMNFA3YUN0elBVR2gzX183NGhSOGNTbzMtUmRwdVNpV3BKeE15eFEtcUJUNmswUnoxNWp0LXhNVTk1cHZDT0FYbHp0WUNTc3BYa24tOTBUS044eFhEalJMZlVYZFZqdzU4WVRJV3dOWFpRdWZoQ2tSUDhQX1ItMmJodFdWZk1fRHVwZ2hpbm5oUE9VWG1LNC1taVN2U0dXZHZQejJ5dkcwSVhYT2xrVGppUUFYTXhUVENRZmN4dlFlWDVOTnY2d0psaGZwTWtSN1FKUWd0YzdtazBHNnhnS0lCRVN4Rk4tNlVfV0tWcV9RbWMxdHNTLXg0eVRvQUdtN1h5Sy14Y1dETFhFQjVUOGIzanhwZXcyNWRRb2hnUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-20 22:57:35"
       },
       {
@@ -529,6 +555,11 @@
       {
         "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUVRlTmNJRTY2WFlxUnNNYng2YnZ6d0NOcWtOdGd2aDFpLXVOVWxSTjE4dm1EOEI2VE1MUmwyOVV5WkVGcERwbkFJc09PS19DbC1ESElPaDdhUmNEZmpWcXpwc2N4dUpzMmfSAW9BVV95cUxPRlMyN2JFOVJvcXdMaUlFOUR6eUE0c1dOMlFBdFRwTDZMZFpVNTRObU5jdWxuLUhCWkRkSXZrYkN2RDl6aTd2VTBESnVZYjFISWlHQ1AxS1VJOHhUdTktTHduYnJsZzJWX2NrWUNNZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:59:23"
+      },
+      {
+        "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GUzI3YkU5Um9xd0xpSUU5RHp5QTRzV04yUUF0VHBMNkxkWlU1NE5tTmN1bG4tSEJaRGRJdmtiQ3ZEOXppN3ZVMERKdVliMUhJaUdDUDFLVUk4eFR1OS1Md25icmxnMlZfY2tZQ01lUdIBb0FVX3lxTE9GUzI3YkU5Um9xd0xpSUU5RHp5QTRzV04yUUF0VHBMNkxkWlU1NE5tTmN1bG4tSEJaRGRJdmtiQ3ZEOXppN3ZVMERKdVliMUhJaUdDUDFLVUk4eFR1OS1Md25icmxnMlZfY2tZQ01lUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-20 20:59:23"
       },
       {
@@ -680,7 +711,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 30
+      "count": 33
     },
     {
       "platform": "youtube",
@@ -694,8 +725,18 @@
   "alias_latest_by_platform_24h": {
     "news": [
       {
+        "title": "雲林縣長候選人張嘉郡拱範宮廟口開講立委游顥、丁學忠等人到場力挺呼籲麥寮、台西等海區大團結！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1udnNCbGFJSkpoakZHczVvYlhJZE9IWmhHNWQwTmRHRDVsdWdVTndmalgxb0Z4akp6aEplN3ZTSE9uNnNLcmxhdjZfdjFZREQ4YzZWbFlsWWVuemJ2OGcyTmlTdHg2TE9TTS1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 23:22:30"
+      },
+      {
         "title": "麥寮拱範宮廟口開講爆滿 游顥、 丁學忠站台力薦張嘉郡 - cnews.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1Zm5PNWFBR3RCTWRyR21EY2tEMmViTHd5WkJKbDBLS0JvY3V1cWd3TVpfaHlLLWhmV3pWUkZSS1Q4SGRLM0JZdmdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 22:57:35"
+      },
+      {
+        "title": "麥寮拱範宮廟口開講爆滿 游顥、丁學忠站台力薦張嘉郡 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNZnhBcEJGcUJzS283MDN4emFrN0lQd014NTBIWXdQaGhtSkFaVXZvZ1RYcmp1U2pRU3JEVTlfM01TNk52cmdULVhiUTRqeE9vRU1lTmRMNFA3YUN0elBVR2gzX183NGhSOGNTbzMtUmRwdVNpV3BKeE15eFEtcUJUNmswUnoxNWp0LXhNVTk1cHZDT0FYbHp0WUNTc3BYa24tOTBUS044eFhEalJMZlVYZFZqdzU4WVRJV3dOWFpRdWZoQ2tSUDhQX1ItMmJodFdWZk1fRHVwZ2hpbm5oUE9VWG1LNC1taVN2U0dXZHZQejJ5dkcwSVhYT2xrVGppUUFYTXhUVENRZmN4dlFlWDVOTnY2d0psaGZwTWtSN1FKUWd0YzdtazBHNnhnS0lCRVN4Rk4tNlVfV0tWcV9RbWMxdHNTLXg0eVRvQUdtN1h5Sy14Y1dETFhFQjVUOGIzanhwZXcyNWRRb2hnUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-20 22:57:35"
       },
       {
@@ -721,6 +762,11 @@
       {
         "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUVRlTmNJRTY2WFlxUnNNYng2YnZ6d0NOcWtOdGd2aDFpLXVOVWxSTjE4dm1EOEI2VE1MUmwyOVV5WkVGcERwbkFJc09PS19DbC1ESElPaDdhUmNEZmpWcXpwc2N4dUpzMmfSAW9BVV95cUxPRlMyN2JFOVJvcXdMaUlFOUR6eUE0c1dOMlFBdFRwTDZMZFpVNTRObU5jdWxuLUhCWkRkSXZrYkN2RDl6aTd2VTBESnVZYjFISWlHQ1AxS1VJOHhUdTktTHduYnJsZzJWX2NrWUNNZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:59:23"
+      },
+      {
+        "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GUzI3YkU5Um9xd0xpSUU5RHp5QTRzV04yUUF0VHBMNkxkWlU1NE5tTmN1bG4tSEJaRGRJdmtiQ3ZEOXppN3ZVMERKdVliMUhJaUdDUDFLVUk4eFR1OS1Md25icmxnMlZfY2tZQ01lUdIBb0FVX3lxTE9GUzI3YkU5Um9xd0xpSUU5RHp5QTRzV04yUUF0VHBMNkxkWlU1NE5tTmN1bG4tSEJaRGRJdmtiQ3ZEOXppN3ZVMERKdVliMUhJaUdDUDFLVUk4eFR1OS1Md25icmxnMlZfY2tZQ01lUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-20 20:59:23"
       },
       {
@@ -870,17 +916,27 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 3,
-    "劉建國": 31
+    "張嘉郡": 5,
+    "劉建國": 32
   },
   "mention_compare_7d": {
-    "張嘉郡": 136,
-    "劉建國": 229
+    "張嘉郡": 138,
+    "劉建國": 230
   },
   "top_news": [
     {
+      "title": "雲林縣長候選人張嘉郡拱範宮廟口開講立委游顥、丁學忠等人到場力挺呼籲麥寮、台西等海區大團結！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1udnNCbGFJSkpoakZHczVvYlhJZE9IWmhHNWQwTmRHRDVsdWdVTndmalgxb0Z4akp6aEplN3ZTSE9uNnNLcmxhdjZfdjFZREQ4YzZWbFlsWWVuemJ2OGcyTmlTdHg2TE9TTS1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 23:22:30"
+    },
+    {
       "title": "麥寮拱範宮廟口開講爆滿 游顥、 丁學忠站台力薦張嘉郡 - cnews.com.tw",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1Zm5PNWFBR3RCTWRyR21EY2tEMmViTHd5WkJKbDBLS0JvY3V1cWd3TVpfaHlLLWhmV3pWUkZSS1Q4SGRLM0JZdmdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 22:57:35"
+    },
+    {
+      "title": "麥寮拱範宮廟口開講爆滿 游顥、丁學忠站台力薦張嘉郡 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNZnhBcEJGcUJzS283MDN4emFrN0lQd014NTBIWXdQaGhtSkFaVXZvZ1RYcmp1U2pRU3JEVTlfM01TNk52cmdULVhiUTRqeE9vRU1lTmRMNFA3YUN0elBVR2gzX183NGhSOGNTbzMtUmRwdVNpV3BKeE15eFEtcUJUNmswUnoxNWp0LXhNVTk1cHZDT0FYbHp0WUNTc3BYa24tOTBUS044eFhEalJMZlVYZFZqdzU4WVRJV3dOWFpRdWZoQ2tSUDhQX1ItMmJodFdWZk1fRHVwZ2hpbm5oUE9VWG1LNC1taVN2U0dXZHZQejJ5dkcwSVhYT2xrVGppUUFYTXhUVENRZmN4dlFlWDVOTnY2d0psaGZwTWtSN1FKUWd0YzdtazBHNnhnS0lCRVN4Rk4tNlVfV0tWcV9RbWMxdHNTLXg0eVRvQUdtN1h5Sy14Y1dETFhFQjVUOGIzanhwZXcyNWRRb2hnUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-20 22:57:35"
     },
     {
@@ -909,6 +965,11 @@
       "time": "2026-09-20 20:59:23"
     },
     {
+      "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GUzI3YkU5Um9xd0xpSUU5RHp5QTRzV04yUUF0VHBMNkxkWlU1NE5tTmN1bG4tSEJaRGRJdmtiQ3ZEOXppN3ZVMERKdVliMUhJaUdDUDFLVUk4eFR1OS1Md25icmxnMlZfY2tZQ01lUdIBb0FVX3lxTE9GUzI3YkU5Um9xd0xpSUU5RHp5QTRzV04yUUF0VHBMNkxkWlU1NE5tTmN1bG4tSEJaRGRJdmtiQ3ZEOXppN3ZVMERKdVliMUhJaUdDUDFLVUk4eFR1OS1Md25icmxnMlZfY2tZQ01lUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 20:59:23"
+    },
+    {
       "title": "總統級助攻！賴清德罕接劉建國競總主委 「3大原因」曝光了 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNcUhLbldtMXpCNWZHcGF5c3h4NVUzODdJa0NCalVpNnF0Q20xM21EMDZua2FJMC1FY3YySFJBbnlzLUUzdWRhdFNCdTgxYXBWOFV6M2lCYmVuQmoyYmViVm5uTnFVMW5nSVlnOTZtdHQ3R2c4WEIwdUw5WDI3UmxpRE5xdFlwSUNiTW03R0h3NjF6eDlzQUF0c2lwNHZfYnpfMkUyNkZXZXBsb3l1cm16NmpfMlR4R19nUlRXeW5HOFpuaWM5R2JTR2o4RXphLUdnTG12VjVCeEoxbzZSSkdjcWN1VUlNVGpUbkdqaEp1bXlMZUFTQk5vTE9zU1FScVJwTmZLRDZNT2ZoUHBvSG5TMkpWbFgxSmVuQ0R0Z0ZKNll2Qmota2tndTVKNTYwZkJQMXNhTGNWU01YSU5VZ0s3bmd1SWF5RS12MVpZX29yWmw1dWstLUlEUVlaczZCWDkzRF9TMDVnemcxREVt?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-20 20:53:47"
@@ -922,27 +983,22 @@
       "title": "湧逾萬人相挺！劉建國競選總部成立 喊話全力守護家鄉未來 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mSTFFSHhnOTVXLUlRNzFNTlEzelRMNHprOEFWOWZxVFFsbEZxZ1A0QkNIeGJrbEJSMlc4emR4cVB0UnAxQ05qVlp5Ukg4TTE1aWJHYlhOSm9zWE1sTUo4ZWRkdEFaTVZ4dnfSAW9BVV95cUxNTVp0T09kU1lfX0JVNE5vcjhaLXhUTkMzdU1NX1ZxS3BsWVpZN0JmbF92MERMY29qRWVIazM5OUR5endGc21iMElSOWsxS0xucDEzYWxKSmtpTjl0anA0VEpVaGxGd0NZaFNsaEFCVXM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-20 20:25:23"
-    },
-    {
-      "title": "民進黨雲林縣長參選人劉建國競選總部成立 湧入上萬名鄉親支持 - 三星傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNTU1PWDlhV2VpSmQ2NmJUU0tabXFoeFlvZTE2TjZKZjhMNTlTdXRZZThrQlVGSzFYNzE5N3BFcTV1WHE1d1l0dVBBY0EtbzFOaFFWeVI5NHVFQjIta1Myd3ZldEx0ZDlBUkdHX3AtZWVaV3BiTHR6bXQxdVNNTk1YVkc0cFhpOUVMU3BReW1NV2xQVVhSWjRRSkRWck9zNzgtUjFPZ3U2LTMxYXNwMi04THBRd3MtaTFIR3dmUVVZbTNNbFVvVHRnY3dCMUZfVlZ0b2RHYXh5dHRjcmNHNW5IYncyR3dkemZpVEdOZ0ROUE9XbEFILWl1SW9WeldrWHpxYjNRN1dtN1hWd3M0MkQ2dWlhTWwwLUNqQzJ1dk9PaVZxeWFtOEpINVc2V21fMktSaU9Fb3BIblBUaFMwaG1leHk3N2NCSlZZNVg0ZnpUZ2QxeDJ3LURNQlFnaDNXMHoxN2N5UXhsQ2NmM09GUHltSThzYkFmSHFuc3JZZ0NkYThuLWdib2hhZzZObElNZ0JFaXFzLURHTk9Ya3pidU1yd0JSbDJ2b0lNd1RzU2ozdDlnSG1tNjJybXBNZ2RXYi1wS1dQcm9DWnUtRkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 19:55:08"
-    },
-    {
-      "title": "劉建國競總成立萬人相挺 賴清德提3理由力薦 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HT1VkZHJKX3pGQ0JpSUlfekdUOFNoVkt1cnlZZTJhZWNYVk5OUkVFckdaQlU1TGtNSjdxUHl4RlFDZmx4d3dVZDNFSWRmQ2J5TlN6VmZuTG1vUdIBX0FVX3lxTE1zNVA4MTBEVllqa1p3aHo0c1U1MmZqREt5VnkxQm1TdXRYTS16YVZQaWtWQXo4VmUtOTRJVmZKQkZqQ3A3b0Z6TkFiTFRKS2Y1aFMtSE9FSXEzZzB5aTFJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 19:54:48"
-    },
-    {
-      "title": "賴清德親任主委坐鎮雲林！劉建國競總正式成立 「總統級查賄」政治訊號進入實戰 - 放言Fount Media",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0T2RpekctbERaOHhyeExsb25mNUZoWXRfZHo0a3lsa2w0eHNnOFEwaS0wWHctUVRKQ3QxdkJzSno4VkZWVDN6WGd3LUhrQWNKS0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 19:53:41"
     }
   ],
   "top_news_7d": [
     {
+      "title": "雲林縣長候選人張嘉郡拱範宮廟口開講立委游顥、丁學忠等人到場力挺呼籲麥寮、台西等海區大團結！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1udnNCbGFJSkpoakZHczVvYlhJZE9IWmhHNWQwTmRHRDVsdWdVTndmalgxb0Z4akp6aEplN3ZTSE9uNnNLcmxhdjZfdjFZREQ4YzZWbFlsWWVuemJ2OGcyTmlTdHg2TE9TTS1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 23:22:30"
+    },
+    {
       "title": "麥寮拱範宮廟口開講爆滿 游顥、 丁學忠站台力薦張嘉郡 - cnews.com.tw",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1Zm5PNWFBR3RCTWRyR21EY2tEMmViTHd5WkJKbDBLS0JvY3V1cWd3TVpfaHlLLWhmV3pWUkZSS1Q4SGRLM0JZdmdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 22:57:35"
+    },
+    {
+      "title": "麥寮拱範宮廟口開講爆滿 游顥、丁學忠站台力薦張嘉郡 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNZnhBcEJGcUJzS283MDN4emFrN0lQd014NTBIWXdQaGhtSkFaVXZvZ1RYcmp1U2pRU3JEVTlfM01TNk52cmdULVhiUTRqeE9vRU1lTmRMNFA3YUN0elBVR2gzX183NGhSOGNTbzMtUmRwdVNpV3BKeE15eFEtcUJUNmswUnoxNWp0LXhNVTk1cHZDT0FYbHp0WUNTc3BYa24tOTBUS044eFhEalJMZlVYZFZqdzU4WVRJV3dOWFpRdWZoQ2tSUDhQX1ItMmJodFdWZk1fRHVwZ2hpbm5oUE9VWG1LNC1taVN2U0dXZHZQejJ5dkcwSVhYT2xrVGppUUFYTXhUVENRZmN4dlFlWDVOTnY2d0psaGZwTWtSN1FKUWd0YzdtazBHNnhnS0lCRVN4Rk4tNlVfV0tWcV9RbWMxdHNTLXg0eVRvQUdtN1h5Sy14Y1dETFhFQjVUOGIzanhwZXcyNWRRb2hnUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-20 22:57:35"
     },
     {
@@ -968,6 +1024,11 @@
     {
       "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUVRlTmNJRTY2WFlxUnNNYng2YnZ6d0NOcWtOdGd2aDFpLXVOVWxSTjE4dm1EOEI2VE1MUmwyOVV5WkVGcERwbkFJc09PS19DbC1ESElPaDdhUmNEZmpWcXpwc2N4dUpzMmfSAW9BVV95cUxPRlMyN2JFOVJvcXdMaUlFOUR6eUE0c1dOMlFBdFRwTDZMZFpVNTRObU5jdWxuLUhCWkRkSXZrYkN2RDl6aTd2VTBESnVZYjFISWlHQ1AxS1VJOHhUdTktTHduYnJsZzJWX2NrWUNNZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 20:59:23"
+    },
+    {
+      "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GUzI3YkU5Um9xd0xpSUU5RHp5QTRzV04yUUF0VHBMNkxkWlU1NE5tTmN1bG4tSEJaRGRJdmtiQ3ZEOXppN3ZVMERKdVliMUhJaUdDUDFLVUk4eFR1OS1Md25icmxnMlZfY2tZQ01lUdIBb0FVX3lxTE9GUzI3YkU5Um9xd0xpSUU5RHp5QTRzV04yUUF0VHBMNkxkWlU1NE5tTmN1bG4tSEJaRGRJdmtiQ3ZEOXppN3ZVMERKdVliMUhJaUdDUDFLVUk4eFR1OS1Md25icmxnMlZfY2tZQ01lUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-20 20:59:23"
     },
     {
@@ -1024,21 +1085,6 @@
       "title": "劉建國競總成立 賴清德.陳其邁與余天都到場 - 民視新聞網",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RRVVROXo4Z09nVkM0aU5FVUJ1OG1UYnljY3U3UFZrZGNQTUtLSFpJTWNrWkFBZUd6dkR2SDRTOFBUVEJpeFBzUlYzSWNzMmhLVTg3RG1YY2RMS3dXN0hGbQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-20 19:12:43"
-    },
-    {
-      "title": "賴清德親征雲林力挺劉建國 說明破例接主委理由並批家族政治阻礙民主 - udn.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YVDlCeWxrbkVUMVo4eXB1cDNDeVFyV1k1ZnRFVXZLd2NNbUktOGVuaE9jNFp6TXFOR0xHVEdwVGJxNU5sdlVwangzWDBNcTlodzFxdlh1ZDNLNlY0OUNzc2g4dU50WEF4S25zbmVJWlNZa18y0gFYQVVfeXFMTk9HVWFrYlJpQU1EQkEyb24xUDdtdldmY1JDRlE3dHExazNMeFhfdE9rajE3Wk1JUkJZblVsd3BBa2NWaVRDRUZONEowX2ZOeDZmb0ozWVhBMw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 19:08:28"
-    },
-    {
-      "title": "劉建國二度鞠躬表達決心！ 為雲林鄉親再戰｜#鏡新聞 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOaDNfUGRHa1Fod1N1WHFiMWhjOU1Gcmw0dHE4QWNpTGlpNjhRYXRBV0FiMXA4UjM0dW95c3NNUmpfa1dsX19rbGVVSGlyN3g5WFlncjJ2VTAyOWh4cEtScURDRUk3czF6a1Flc3c3LVpZQUIycUxlOFpVZWV6cHlZOEVTZW1oQzA5aHhSQ0djbXNmQlEyVUlIelM2dnpMMnBGUXpfMVVVWmpQbkQ3T1c5b2tsZUdoU3NlTWdERWpKVmF4TXB0Sjc4a1g5R0VHbHNtdTRHT2RUQ20wWWpmMng4SHJoSndlQUFSM0I5VV9EVmh4TnBya0VabkEtb0tVYWJVMVJCandxNWVQLTNDQ0JuTjRCMmRRSWtIMHdCTXVMY1lwRHlpY0pvdTRqa2FlcFd3REgxTmNVeWNnWWY5MUFCM3VCb1gtS1RvdHJ1Y0FvTEwwQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 19:03:06"
-    },
-    {
-      "title": "劉建國成立競選總本部 賴清德站台：張家不能「整碗捧」 - 中時新聞網",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBINXRVTWlyVmRHYTN0anBVS3hPeVJxanMtR0ltZkhIbkZ2WlR4WDRxNEJ5RVQ2NnFLSjVnUUJnMEcxZUt3QmhCd3pSTzZHeXBHT0t2cmh3aExJTzhhVXVFS1F5N280czYxRlJrQVVn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 18:51:43"
     }
   ],
   "latest_facebook_20": [
@@ -1145,8 +1191,18 @@
   ],
   "latest_news_20": [
     {
+      "title": "雲林縣長候選人張嘉郡拱範宮廟口開講立委游顥、丁學忠等人到場力挺呼籲麥寮、台西等海區大團結！ - 台灣華報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1udnNCbGFJSkpoakZHczVvYlhJZE9IWmhHNWQwTmRHRDVsdWdVTndmalgxb0Z4akp6aEplN3ZTSE9uNnNLcmxhdjZfdjFZREQ4YzZWbFlsWWVuemJ2OGcyTmlTdHg2TE9TTS1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 23:22:30"
+    },
+    {
       "title": "麥寮拱範宮廟口開講爆滿 游顥、 丁學忠站台力薦張嘉郡 - cnews.com.tw",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1Zm5PNWFBR3RCTWRyR21EY2tEMmViTHd5WkJKbDBLS0JvY3V1cWd3TVpfaHlLLWhmV3pWUkZSS1Q4SGRLM0JZdmdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 22:57:35"
+    },
+    {
+      "title": "麥寮拱範宮廟口開講爆滿 游顥、丁學忠站台力薦張嘉郡 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNZnhBcEJGcUJzS283MDN4emFrN0lQd014NTBIWXdQaGhtSkFaVXZvZ1RYcmp1U2pRU3JEVTlfM01TNk52cmdULVhiUTRqeE9vRU1lTmRMNFA3YUN0elBVR2gzX183NGhSOGNTbzMtUmRwdVNpV3BKeE15eFEtcUJUNmswUnoxNWp0LXhNVTk1cHZDT0FYbHp0WUNTc3BYa24tOTBUS044eFhEalJMZlVYZFZqdzU4WVRJV3dOWFpRdWZoQ2tSUDhQX1ItMmJodFdWZk1fRHVwZ2hpbm5oUE9VWG1LNC1taVN2U0dXZHZQejJ5dkcwSVhYT2xrVGppUUFYTXhUVENRZmN4dlFlWDVOTnY2d0psaGZwTWtSN1FKUWd0YzdtazBHNnhnS0lCRVN4Rk4tNlVfV0tWcV9RbWMxdHNTLXg0eVRvQUdtN1h5Sy14Y1dETFhFQjVUOGIzanhwZXcyNWRRb2hnUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-20 22:57:35"
     },
     {
@@ -1172,6 +1228,11 @@
     {
       "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUVRlTmNJRTY2WFlxUnNNYng2YnZ6d0NOcWtOdGd2aDFpLXVOVWxSTjE4dm1EOEI2VE1MUmwyOVV5WkVGcERwbkFJc09PS19DbC1ESElPaDdhUmNEZmpWcXpwc2N4dUpzMmfSAW9BVV95cUxPRlMyN2JFOVJvcXdMaUlFOUR6eUE0c1dOMlFBdFRwTDZMZFpVNTRObU5jdWxuLUhCWkRkSXZrYkN2RDl6aTd2VTBESnVZYjFISWlHQ1AxS1VJOHhUdTktTHduYnJsZzJWX2NrWUNNZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-20 20:59:23"
+    },
+    {
+      "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GUzI3YkU5Um9xd0xpSUU5RHp5QTRzV04yUUF0VHBMNkxkWlU1NE5tTmN1bG4tSEJaRGRJdmtiQ3ZEOXppN3ZVMERKdVliMUhJaUdDUDFLVUk4eFR1OS1Md25icmxnMlZfY2tZQ01lUdIBb0FVX3lxTE9GUzI3YkU5Um9xd0xpSUU5RHp5QTRzV04yUUF0VHBMNkxkWlU1NE5tTmN1bG4tSEJaRGRJdmtiQ3ZEOXppN3ZVMERKdVliMUhJaUdDUDFLVUk4eFR1OS1Md25icmxnMlZfY2tZQ01lUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-20 20:59:23"
     },
     {
@@ -1228,21 +1289,6 @@
       "title": "劉建國競總成立 賴清德.陳其邁與余天都到場 - 民視新聞網",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RRVVROXo4Z09nVkM0aU5FVUJ1OG1UYnljY3U3UFZrZGNQTUtLSFpJTWNrWkFBZUd6dkR2SDRTOFBUVEJpeFBzUlYzSWNzMmhLVTg3RG1YY2RMS3dXN0hGbQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-20 19:12:43"
-    },
-    {
-      "title": "賴清德親征雲林力挺劉建國 說明破例接主委理由並批家族政治阻礙民主 - udn.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YVDlCeWxrbkVUMVo4eXB1cDNDeVFyV1k1ZnRFVXZLd2NNbUktOGVuaE9jNFp6TXFOR0xHVEdwVGJxNU5sdlVwangzWDBNcTlodzFxdlh1ZDNLNlY0OUNzc2g4dU50WEF4S25zbmVJWlNZa18y0gFYQVVfeXFMTk9HVWFrYlJpQU1EQkEyb24xUDdtdldmY1JDRlE3dHExazNMeFhfdE9rajE3Wk1JUkJZblVsd3BBa2NWaVRDRUZONEowX2ZOeDZmb0ozWVhBMw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 19:08:28"
-    },
-    {
-      "title": "劉建國二度鞠躬表達決心！ 為雲林鄉親再戰｜#鏡新聞 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOaDNfUGRHa1Fod1N1WHFiMWhjOU1Gcmw0dHE4QWNpTGlpNjhRYXRBV0FiMXA4UjM0dW95c3NNUmpfa1dsX19rbGVVSGlyN3g5WFlncjJ2VTAyOWh4cEtScURDRUk3czF6a1Flc3c3LVpZQUIycUxlOFpVZWV6cHlZOEVTZW1oQzA5aHhSQ0djbXNmQlEyVUlIelM2dnpMMnBGUXpfMVVVWmpQbkQ3T1c5b2tsZUdoU3NlTWdERWpKVmF4TXB0Sjc4a1g5R0VHbHNtdTRHT2RUQ20wWWpmMng4SHJoSndlQUFSM0I5VV9EVmh4TnBya0VabkEtb0tVYWJVMVJCandxNWVQLTNDQ0JuTjRCMmRRSWtIMHdCTXVMY1lwRHlpY0pvdTRqa2FlcFd3REgxTmNVeWNnWWY5MUFCM3VCb1gtS1RvdHJ1Y0FvTEwwQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 19:03:06"
-    },
-    {
-      "title": "劉建國成立競選總本部 賴清德站台：張家不能「整碗捧」 - 中時新聞網",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBINXRVTWlyVmRHYTN0anBVS3hPeVJxanMtR0ltZkhIbkZ2WlR4WDRxNEJ5RVQ2NnFLSjVnUUJnMEcxZUt3QmhCd3pSTzZHeXBHT0t2cmh3aExJTzhhVXVFS1F5N280czYxRlJrQVVn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-20 18:51:43"
     }
   ],
   "person_sections": {
@@ -1351,8 +1397,18 @@
       ],
       "news": [
         {
+          "title": "雲林縣長候選人張嘉郡拱範宮廟口開講立委游顥、丁學忠等人到場力挺呼籲麥寮、台西等海區大團結！ - 台灣華報",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1udnNCbGFJSkpoakZHczVvYlhJZE9IWmhHNWQwTmRHRDVsdWdVTndmalgxb0Z4akp6aEplN3ZTSE9uNnNLcmxhdjZfdjFZREQ4YzZWbFlsWWVuemJ2OGcyTmlTdHg2TE9TTS1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-20 23:22:30"
+        },
+        {
           "title": "麥寮拱範宮廟口開講爆滿 游顥、 丁學忠站台力薦張嘉郡 - cnews.com.tw",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1Zm5PNWFBR3RCTWRyR21EY2tEMmViTHd5WkJKbDBLS0JvY3V1cWd3TVpfaHlLLWhmV3pWUkZSS1Q4SGRLM0JZdmdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-20 22:57:35"
+        },
+        {
+          "title": "麥寮拱範宮廟口開講爆滿 游顥、丁學忠站台力薦張嘉郡 - tw.news.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNZnhBcEJGcUJzS283MDN4emFrN0lQd014NTBIWXdQaGhtSkFaVXZvZ1RYcmp1U2pRU3JEVTlfM01TNk52cmdULVhiUTRqeE9vRU1lTmRMNFA3YUN0elBVR2gzX183NGhSOGNTbzMtUmRwdVNpV3BKeE15eFEtcUJUNmswUnoxNWp0LXhNVTk1cHZDT0FYbHp0WUNTc3BYa24tOTBUS044eFhEalJMZlVYZFZqdzU4WVRJV3dOWFpRdWZoQ2tSUDhQX1ItMmJodFdWZk1fRHVwZ2hpbm5oUE9VWG1LNC1taVN2U0dXZHZQejJ5dkcwSVhYT2xrVGppUUFYTXhUVENRZmN4dlFlWDVOTnY2d0psaGZwTWtSN1FKUWd0YzdtazBHNnhnS0lCRVN4Rk4tNlVfV0tWcV9RbWMxdHNTLXg0eVRvQUdtN1h5Sy14Y1dETFhFQjVUOGIzanhwZXcyNWRRb2hnUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-20 22:57:35"
         },
         {
@@ -1439,16 +1495,6 @@
           "title": "黃國昌喊「竹北的事留在竹北」！雲林同框張麗善 站台力挺張嘉郡接棒| 政治焦點 - 太報 TaiSounds",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42eUxvdktGTVdJaDlqendoYU1iaHl1bVVmWGh5X2VKei1GbU5yQU1EX08xRVExRE1uV3l5X1g4YUVZOVlSaVpNcXJlOWxSZUh5RVRhN2stMGRNc1BY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-19 13:44:27"
-        },
-        {
-          "title": "竹北的事情留在竹北 黃國昌同台張嘉郡喊話小草全力挺張 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPLVZMeGNhMHNOcDc0YjNiWjhxWVBMa0UxNVlLNkV5dmNPeVpzSkVlWTdUZmdIeVVkbWRodzBxdHJTLWRpMnNfcTdYb2RNRjRyZldGUTN1OFUyMlRVQ3NyZ2tJRW1jSmdSeHF1SjMxUTAzd3ZhNndrcEE3OG03djZtY05Tc1psdkplQ0FRRndhbTJyWU5MSFdEMUJoNkw2VmltOUNoUGVlTUl6NWNzdWVyOTFqNTlUTmlvVlFvaHZqa2FYdXh3RVB4OGdnZ1FlN0JVWGJCOWpiV1NfaF9ZaUR1T09iVkdlV2FOajFxSkN5UGJlWDl5dXpHbTluRzFtcVY5czI5SUd1VnhsVi1vY2cteDVnZTNTTUtvQ2lIWkdBWVpGM2NCQWhteUc2YkJicGdPTkhLcF9Gd04tdWtIWXY4MFpmX2lCSXkxTTZSMkFoQ3M3OEdxcFdkb09mbUs0ZXBOSk5ZRUw4RzVBZkZvdGNUTVNfRWV6NDNoeEN0dmVXODQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-19 13:07:09"
-        },
-        {
-          "title": "黃國昌雲林站台喊「竹北的事留竹北」 籲集中選票挺張嘉郡 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPMzBkTGFGVUVVNkZWb0dZRmFRODRUMEZZMzhrekNMcUNFcm05WDVyTDVoaWRkM1FoNk5jbGx1STF1aXlMc1AydTBIN1hDLWFEdEhFbzJsckpJY0ptWXdfRkoxYkRqSHZPQTdQdkZUdTNQbkFCcENXZzRqbXFrNU9yYkdGZWhjYTBSZnI5dWhZTm5mdFI0THJZUjk1ck1hS3JPam1FdzhkT1FMUEV3QWhLLW9LaTlEMDNuY1lFTmtTZGdhTlREdVhaMzJIRTFUNnVhNWhHUl9heE5HYnE4a1FuLXVJUWdOWkprcXF2UkJuQ1l3QUxnMUxPVll3OXJmd0lMcGt0eFJjX1VTWENxdjBFdUxDc21HNzM4dm1oUVhrSWY5Zk44NVdGOC0taDNCYVpFTGxMR0VBbU5IcWZoRVlxLTl5X3ZzNWhaZi1Bc24zVHpDdG54NS13WHh0Z092NFprWFBiZVhhVkpkdzZheXJyMWx5VHdpdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-19 12:59:02"
         }
       ]
     },
@@ -1582,6 +1628,11 @@
           "time": "2026-09-20 20:59:23"
         },
         {
+          "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GUzI3YkU5Um9xd0xpSUU5RHp5QTRzV04yUUF0VHBMNkxkWlU1NE5tTmN1bG4tSEJaRGRJdmtiQ3ZEOXppN3ZVMERKdVliMUhJaUdDUDFLVUk4eFR1OS1Md25icmxnMlZfY2tZQ01lUdIBb0FVX3lxTE9GUzI3YkU5Um9xd0xpSUU5RHp5QTRzV04yUUF0VHBMNkxkWlU1NE5tTmN1bG4tSEJaRGRJdmtiQ3ZEOXppN3ZVMERKdVliMUhJaUdDUDFLVUk4eFR1OS1Md25icmxnMlZfY2tZQ01lUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-20 20:59:23"
+        },
+        {
           "title": "總統級助攻！賴清德罕接劉建國競總主委 「3大原因」曝光了 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNcUhLbldtMXpCNWZHcGF5c3h4NVUzODdJa0NCalVpNnF0Q20xM21EMDZua2FJMC1FY3YySFJBbnlzLUUzdWRhdFNCdTgxYXBWOFV6M2lCYmVuQmoyYmViVm5uTnFVMW5nSVlnOTZtdHQ3R2c4WEIwdUw5WDI3UmxpRE5xdFlwSUNiTW03R0h3NjF6eDlzQUF0c2lwNHZfYnpfMkUyNkZXZXBsb3l1cm16NmpfMlR4R19nUlRXeW5HOFpuaWM5R2JTR2o4RXphLUdnTG12VjVCeEoxbzZSSkdjcWN1VUlNVGpUbkdqaEp1bXlMZUFTQk5vTE9zU1FScVJwTmZLRDZNT2ZoUHBvSG5TMkpWbFgxSmVuQ0R0Z0ZKNll2Qmota2tndTVKNTYwZkJQMXNhTGNWU01YSU5VZ0s3bmd1SWF5RS12MVpZX29yWmw1dWstLUlEUVlaczZCWDkzRF9TMDVnemcxREVt?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-20 20:53:47"
@@ -1650,11 +1701,6 @@
           "title": "劉建國成立競選總本部 賴清德站台：張家不能「整碗捧」 - 中時新聞網",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBINXRVTWlyVmRHYTN0anBVS3hPeVJxanMtR0ltZkhIbkZ2WlR4WDRxNEJ5RVQ2NnFLSjVnUUJnMEcxZUt3QmhCd3pSTzZHeXBHT0t2cmh3aExJTzhhVXVFS1F5N280czYxRlJrQVVn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-20 18:51:43"
-        },
-        {
-          "title": "揭力挺劉建國「三大理由」 賴清德站台喊：台灣要贏、雲林先贏 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQbmp2SVFwRWVxOXg5SEI2eDA2SmNEZ3lIRzFXcUdwUk1IM1ZESVRmT0RSeVRkcGh0ZHRUTzhtS2Z1WkFRTl9HTlJOWFhPSkh5c3FoRmFJaGZSSDVPd2RoSnhoRXliekoxMFU1ZTdNbkJtWkN1MG9rY1RGNTliX0pIa0NNbG9TZzZVMVU2bjhEOF9OZFF2SDh1c2twM1lMQ08wejdEUy1iYmpyY3BhUDFOcEx0WUFhZWJoUm05aFYxTkY1blBoU0E5X3h3VU0xckNXZmxlY0JVRTRac1E3TXdacFlkYVFBZVJzR1ptT2t2RzhHYTdxRGVBSGY5V1lWblpwNFF2Y0prMkJwalUxcVpOOE9odWQtUm1UcHYyRXdzb3FSZEdBcUt3OTV0V2V4elBwT3dFdW1Za1Z3T3FBTkRVYS1tUElDM05kUkxmMGttZXNWYTNJLWZQcnFkbUdqa2ltOUxOdkk1YXBQNDFYZ3pndG1Tbm5Menh1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-20 18:38:11"
         }
       ]
     }
@@ -1662,8 +1708,18 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "雲林縣長候選人張嘉郡拱範宮廟口開講立委游顥、丁學忠等人到場力挺呼籲麥寮、台西等海區大團結！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1udnNCbGFJSkpoakZHczVvYlhJZE9IWmhHNWQwTmRHRDVsdWdVTndmalgxb0Z4akp6aEplN3ZTSE9uNnNLcmxhdjZfdjFZREQ4YzZWbFlsWWVuemJ2OGcyTmlTdHg2TE9TTS1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 23:22:30"
+      },
+      {
         "title": "麥寮拱範宮廟口開講爆滿 游顥、 丁學忠站台力薦張嘉郡 - cnews.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1Zm5PNWFBR3RCTWRyR21EY2tEMmViTHd5WkJKbDBLS0JvY3V1cWd3TVpfaHlLLWhmV3pWUkZSS1Q4SGRLM0JZdmdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 22:57:35"
+      },
+      {
+        "title": "麥寮拱範宮廟口開講爆滿 游顥、丁學忠站台力薦張嘉郡 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNZnhBcEJGcUJzS283MDN4emFrN0lQd014NTBIWXdQaGhtSkFaVXZvZ1RYcmp1U2pRU3JEVTlfM01TNk52cmdULVhiUTRqeE9vRU1lTmRMNFA3YUN0elBVR2gzX183NGhSOGNTbzMtUmRwdVNpV3BKeE15eFEtcUJUNmswUnoxNWp0LXhNVTk1cHZDT0FYbHp0WUNTc3BYa24tOTBUS044eFhEalJMZlVYZFZqdzU4WVRJV3dOWFpRdWZoQ2tSUDhQX1ItMmJodFdWZk1fRHVwZ2hpbm5oUE9VWG1LNC1taVN2U0dXZHZQejJ5dkcwSVhYT2xrVGppUUFYTXhUVENRZmN4dlFlWDVOTnY2d0psaGZwTWtSN1FKUWd0YzdtazBHNnhnS0lCRVN4Rk4tNlVfV0tWcV9RbWMxdHNTLXg0eVRvQUdtN1h5Sy14Y1dETFhFQjVUOGIzanhwZXcyNWRRb2hnUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-20 22:57:35"
       },
       {
@@ -1689,6 +1745,11 @@
       {
         "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUVRlTmNJRTY2WFlxUnNNYng2YnZ6d0NOcWtOdGd2aDFpLXVOVWxSTjE4dm1EOEI2VE1MUmwyOVV5WkVGcERwbkFJc09PS19DbC1ESElPaDdhUmNEZmpWcXpwc2N4dUpzMmfSAW9BVV95cUxPRlMyN2JFOVJvcXdMaUlFOUR6eUE0c1dOMlFBdFRwTDZMZFpVNTRObU5jdWxuLUhCWkRkSXZrYkN2RDl6aTd2VTBESnVZYjFISWlHQ1AxS1VJOHhUdTktTHduYnJsZzJWX2NrWUNNZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:59:23"
+      },
+      {
+        "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GUzI3YkU5Um9xd0xpSUU5RHp5QTRzV04yUUF0VHBMNkxkWlU1NE5tTmN1bG4tSEJaRGRJdmtiQ3ZEOXppN3ZVMERKdVliMUhJaUdDUDFLVUk4eFR1OS1Md25icmxnMlZfY2tZQ01lUdIBb0FVX3lxTE9GUzI3YkU5Um9xd0xpSUU5RHp5QTRzV04yUUF0VHBMNkxkWlU1NE5tTmN1bG4tSEJaRGRJdmtiQ3ZEOXppN3ZVMERKdVliMUhJaUdDUDFLVUk4eFR1OS1Md25icmxnMlZfY2tZQ01lUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-20 20:59:23"
       },
       {
@@ -1812,6 +1873,23 @@
         "time": "2026-09-20 05:30:00"
       }
     ],
+    "youtube": [
+      {
+        "title": "台灣好生活 雲林進行式｜勇敢轉型 新雲林！",
+        "url": "https://www.youtube.com/watch?v=c6JMIoB32Gg",
+        "time": "2026-09-21 00:13:18"
+      },
+      {
+        "title": "劉建國競總成立大會 總統賴清德力挺籲團結翻轉雲林-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=YUEYQi9f-5s",
+        "time": "2026-09-20 22:31:07"
+      },
+      {
+        "title": "【直播完整版】0920 雲林營造大團結! 劉建國總部成立大會 總統現身拉抬｜民視快新聞｜",
+        "url": "https://www.youtube.com/watch?v=JfomMFdULVo",
+        "time": "2026-09-20 11:29:51"
+      }
+    ],
     "facebook": [
       {
         "title": "競選總本部成立，感謝每一位到場的雲林鄉親！ 今天，建國心裡有很多感觸。 四年前，大家對我有期待，但我沒有完成大家的託付。這四年來，我不斷檢討、反省，也沒有停下腳步。只要地方有需要，不論山區、沿海，或是農作物受災，我和團隊都持續走進地方、協助鄉親。 - facebook.com",
@@ -1823,25 +1901,23 @@
         "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOSFFiTmk3ajJ3ZFFKc0dyXzYydmRtV0JBdG1hV0doUmZmcHJacm5LdTlYcFVrQnBnYlExeDZsalZ4cVU3NHVrSkY4cEY1NHBfOE1FSWFwZHZxTFZRTVJCOGxJdGxIS2FHR0dxcGdNZFRxMmhCRXM0RU1XSUdJWmhDeUliTmRvTmY0X01OT3RscHJMT050NFZPekJocEdySUFxLWVBY2YzUXZ2YmtSNlhaSHh3VTVlNGRoSFpZWm0tdHFKRVBCcm9vVGlqQUo3LTlianUzZU4wNV9JdGxNU3UwN19sUmdzblFTZzZLQ2RKUU1rNlpEYTdPbEIwdEgyWHRtcXlQTFRmX0xlWUxzNkhPaDhDWXU4ckFNY0U2dU1OdGlhTzlkbGxGYmZCOUVEQlBwLVFvQk5FNzJDV2g3dGIwZkJZN2pVX3VNcVA2aEIzOTdfbm9vZ1F1bmNxcXgzNkhNWjZ3c3M1d1hGOV8tZU5DWTFxaFJiWlhFUWxaLUp3",
         "time": "2026-09-20 15:29:05"
       }
-    ],
-    "youtube": [
-      {
-        "title": "劉建國競總成立大會 總統賴清德力挺籲團結翻轉雲林-雲林新聞網",
-        "url": "https://www.youtube.com/watch?v=YUEYQi9f-5s",
-        "time": "2026-09-20 22:31:07"
-      },
-      {
-        "title": "【直播完整版】0920 雲林營造大團結! 劉建國總部成立大會 總統現身拉抬｜民視快新聞｜",
-        "url": "https://www.youtube.com/watch?v=JfomMFdULVo",
-        "time": "2026-09-20 11:29:51"
-      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "雲林縣長候選人張嘉郡拱範宮廟口開講立委游顥、丁學忠等人到場力挺呼籲麥寮、台西等海區大團結！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1udnNCbGFJSkpoakZHczVvYlhJZE9IWmhHNWQwTmRHRDVsdWdVTndmalgxb0Z4akp6aEplN3ZTSE9uNnNLcmxhdjZfdjFZREQ4YzZWbFlsWWVuemJ2OGcyTmlTdHg2TE9TTS1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 23:22:30"
+      },
+      {
         "title": "麥寮拱範宮廟口開講爆滿 游顥、 丁學忠站台力薦張嘉郡 - cnews.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1Zm5PNWFBR3RCTWRyR21EY2tEMmViTHd5WkJKbDBLS0JvY3V1cWd3TVpfaHlLLWhmV3pWUkZSS1Q4SGRLM0JZdmdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 22:57:35"
+      },
+      {
+        "title": "麥寮拱範宮廟口開講爆滿 游顥、丁學忠站台力薦張嘉郡 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNZnhBcEJGcUJzS283MDN4emFrN0lQd014NTBIWXdQaGhtSkFaVXZvZ1RYcmp1U2pRU3JEVTlfM01TNk52cmdULVhiUTRqeE9vRU1lTmRMNFA3YUN0elBVR2gzX183NGhSOGNTbzMtUmRwdVNpV3BKeE15eFEtcUJUNmswUnoxNWp0LXhNVTk1cHZDT0FYbHp0WUNTc3BYa24tOTBUS044eFhEalJMZlVYZFZqdzU4WVRJV3dOWFpRdWZoQ2tSUDhQX1ItMmJodFdWZk1fRHVwZ2hpbm5oUE9VWG1LNC1taVN2U0dXZHZQejJ5dkcwSVhYT2xrVGppUUFYTXhUVENRZmN4dlFlWDVOTnY2d0psaGZwTWtSN1FKUWd0YzdtazBHNnhnS0lCRVN4Rk4tNlVfV0tWcV9RbWMxdHNTLXg0eVRvQUdtN1h5Sy14Y1dETFhFQjVUOGIzanhwZXcyNWRRb2hnUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-20 22:57:35"
       },
       {
@@ -1867,6 +1943,11 @@
       {
         "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUVRlTmNJRTY2WFlxUnNNYng2YnZ6d0NOcWtOdGd2aDFpLXVOVWxSTjE4dm1EOEI2VE1MUmwyOVV5WkVGcERwbkFJc09PS19DbC1ESElPaDdhUmNEZmpWcXpwc2N4dUpzMmfSAW9BVV95cUxPRlMyN2JFOVJvcXdMaUlFOUR6eUE0c1dOMlFBdFRwTDZMZFpVNTRObU5jdWxuLUhCWkRkSXZrYkN2RDl6aTd2VTBESnVZYjFISWlHQ1AxS1VJOHhUdTktTHduYnJsZzJWX2NrWUNNZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:59:23"
+      },
+      {
+        "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GUzI3YkU5Um9xd0xpSUU5RHp5QTRzV04yUUF0VHBMNkxkWlU1NE5tTmN1bG4tSEJaRGRJdmtiQ3ZEOXppN3ZVMERKdVliMUhJaUdDUDFLVUk4eFR1OS1Md25icmxnMlZfY2tZQ01lUdIBb0FVX3lxTE9GUzI3YkU5Um9xd0xpSUU5RHp5QTRzV04yUUF0VHBMNkxkWlU1NE5tTmN1bG4tSEJaRGRJdmtiQ3ZEOXppN3ZVMERKdVliMUhJaUdDUDFLVUk4eFR1OS1Md25icmxnMlZfY2tZQ01lUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-20 20:59:23"
       },
       {
@@ -2023,21 +2104,6 @@
         "title": "樂齡動起來！劉建國推廣健康運動長輩齊聚雲科大挑戰匹克球- 社會新聞- PChome Online 新聞 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVEk5NmpvdWlLc1ZaVnVYd1V6WVVoZXNqcjFHZ183V2d6VXkzeDFaaUowbXJSV1doY2xfNFVhMEtkbEZXSFo1elRYS25ZcUthUjdOa2hRcXF2VTVhSndwRllOWU03VkRUN2FKeUQ1aW1XZGlKQVY1SEt3ZERUVThBOThGSVBkYlFKVzloVkYzbExiQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-19 17:22:50"
-      },
-      {
-        "title": "迎戰賴清德任劉建國競總主委！民眾黨：雲林全力支持張嘉郡 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPMjRLTmNKcWN3RWFaX2lnR1RIUzZ4dU90RTJqNnU2THFCVDIyb010Vy1TTmMzTnFob2FiZ1MtRzJyS0lsOFBDS2lfZnlNSkljUDFrMmRPa18zajNRVVFjNzRYSzYzZS1USHkxMEs5X1k1NndRTzlrM21lMEFoSXlkR1ByZ3FhaTMtaWFwcklXMGFXeVNEc2R6Si1TMklyUk55VURuS1VHUE9NTnUyVmwtTjQ4VHNzdkRlRldsWU5zNU42c2llRkJjdFdfSDA4bm1tbEE1bURkRWZ2SFBBRXFzNnIxdTVhYVoyd0Zid1hqZ0FEMTJvVGRhZnlzU0pocmNQeDh4RmMwcVJWbXJZUDE0ZWxYTWgxbzJkNjlYdnMtXzZOUHJ5VHNmVkxiX3FGWmdCdGplV1RjQ2p5ajBGaThVdEtFOFhTNGlmalhFT01rb1pzQjduOEhCQ085bTE2Mk9FSVRDclpFSW5zVkFmeWhoTVVBV2ZHamtLVDRJYzZGZG11UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-19 16:50:19"
-      },
-      {
-        "title": "拚光復、贏回雲林！劉建國明日成立競總 賴清德將站台 | 自由電子報 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXMm5HZ1lqelB6b1FmVUJtUTYtcmtWUktsbXZscVNVVmFiN29IdUVoS196Unc1ckpRYks2ZXdTWE43VFJBQkpENEVJY1llRTRBSHdSeUxR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-19 16:22:40"
-      },
-      {
-        "title": "拚光復、贏回雲林！劉建國明日成立競總 賴清德將站台 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPMlJlcW8zaEVWSVFVODRKSmh1SkxESDBVcDh3VmU5Vk44eGk5Y3VRaDJaUHRKWE0yTnZpREM2Q2RZekFXUGpJVHppS3Z2SG1vdFk0bVR5R1pQanU1dG9FU3dtUDBUbDV2dUJHMlBSUEVqV0V4cG9qUmNVdi1fc0NCdnRKWFVzUGdndGx3QkxZbnUzemdrQi1CR2ZfelZORGdJVTFwTDZuQkNrUHdiOHFSbl9tZHdQVlk0WVVpTG9oRmhYWlJlTjdzdnpVdlBRZmJPZ25SVVVwdHNuYjFhLWt3OHRqdzM4RVhySWVuSmw3cXU3aWI2ZHBpRW1XeS14UnhqTlZtNmhfOXNpdWpRbEJER1BjMGFhZmJMNHNGNmRqZDZRczc2SmVpTHJBZlF0RVBNUVQxT3JpTnhrc20tV1hDQ3M0MGhCVExCZTZxdHdNWkY0RHJPOC1fSFdjMTZ5eWs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-19 15:47:29"
       }
     ],
     "facebook": [
@@ -2244,6 +2310,11 @@
     ],
     "youtube": [
       {
+        "title": "台灣好生活 雲林進行式｜勇敢轉型 新雲林！",
+        "url": "https://www.youtube.com/watch?v=c6JMIoB32Gg",
+        "time": "2026-09-21 00:13:18"
+      },
+      {
         "title": "劉建國競總成立大會 總統賴清德力挺籲團結翻轉雲林-雲林新聞網",
         "url": "https://www.youtube.com/watch?v=YUEYQi9f-5s",
         "time": "2026-09-20 22:31:07"
@@ -2355,8 +2426,29 @@
     "hour": [],
     "day": [
       {
+        "title": "台灣好生活 雲林進行式｜勇敢轉型 新雲林！",
+        "url": "https://www.youtube.com/watch?v=c6JMIoB32Gg",
+        "time": "2026-09-21 00:13:18",
+        "platform": "youtube",
+        "risk": "綠"
+      },
+      {
+        "title": "雲林縣長候選人張嘉郡拱範宮廟口開講立委游顥、丁學忠等人到場力挺呼籲麥寮、台西等海區大團結！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1udnNCbGFJSkpoakZHczVvYlhJZE9IWmhHNWQwTmRHRDVsdWdVTndmalgxb0Z4akp6aEplN3ZTSE9uNnNLcmxhdjZfdjFZREQ4YzZWbFlsWWVuemJ2OGcyTmlTdHg2TE9TTS1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 23:22:30",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "麥寮拱範宮廟口開講爆滿 游顥、 丁學忠站台力薦張嘉郡 - cnews.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1Zm5PNWFBR3RCTWRyR21EY2tEMmViTHd5WkJKbDBLS0JvY3V1cWd3TVpfaHlLLWhmV3pWUkZSS1Q4SGRLM0JZdmdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 22:57:35",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "麥寮拱範宮廟口開講爆滿 游顥、丁學忠站台力薦張嘉郡 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNZnhBcEJGcUJzS283MDN4emFrN0lQd014NTBIWXdQaGhtSkFaVXZvZ1RYcmp1U2pRU3JEVTlfM01TNk52cmdULVhiUTRqeE9vRU1lTmRMNFA3YUN0elBVR2gzX183NGhSOGNTbzMtUmRwdVNpV3BKeE15eFEtcUJUNmswUnoxNWp0LXhNVTk1cHZDT0FYbHp0WUNTc3BYa24tOTBUS044eFhEalJMZlVYZFZqdzU4WVRJV3dOWFpRdWZoQ2tSUDhQX1ItMmJodFdWZk1fRHVwZ2hpbm5oUE9VWG1LNC1taVN2U0dXZHZQejJ5dkcwSVhYT2xrVGppUUFYTXhUVENRZmN4dlFlWDVOTnY2d0psaGZwTWtSN1FKUWd0YzdtazBHNnhnS0lCRVN4Rk4tNlVfV0tWcV9RbWMxdHNTLXg0eVRvQUdtN1h5Sy14Y1dETFhFQjVUOGIzanhwZXcyNWRRb2hnUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-20 22:57:35",
         "platform": "news",
         "risk": "綠"
@@ -2399,6 +2491,13 @@
       {
         "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUVRlTmNJRTY2WFlxUnNNYng2YnZ6d0NOcWtOdGd2aDFpLXVOVWxSTjE4dm1EOEI2VE1MUmwyOVV5WkVGcERwbkFJc09PS19DbC1ESElPaDdhUmNEZmpWcXpwc2N4dUpzMmfSAW9BVV95cUxPRlMyN2JFOVJvcXdMaUlFOUR6eUE0c1dOMlFBdFRwTDZMZFpVNTRObU5jdWxuLUhCWkRkSXZrYkN2RDl6aTd2VTBESnVZYjFISWlHQ1AxS1VJOHhUdTktTHduYnJsZzJWX2NrWUNNZVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-20 20:59:23",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "蘇治芬站台喊話他「已做好接棒」 呼籲鄉親支持劉建國 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GUzI3YkU5Um9xd0xpSUU5RHp5QTRzV04yUUF0VHBMNkxkWlU1NE5tTmN1bG4tSEJaRGRJdmtiQ3ZEOXppN3ZVMERKdVliMUhJaUdDUDFLVUk4eFR1OS1Md25icmxnMlZfY2tZQ01lUdIBb0FVX3lxTE9GUzI3YkU5Um9xd0xpSUU5RHp5QTRzV04yUUF0VHBMNkxkWlU1NE5tTmN1bG4tSEJaRGRJdmtiQ3ZEOXppN3ZVMERKdVliMUhJaUdDUDFLVUk4eFR1OS1Md25icmxnMlZfY2tZQ01lUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-20 20:59:23",
         "platform": "news",
         "risk": "綠"
@@ -2465,34 +2564,6 @@
         "time": "2026-09-20 19:46:19",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "競選總本部成立，感謝每一位到場的雲林鄉親！ 今天，建國心裡有很多感觸。 四年前，大家對我有期待，但我沒有完成大家的託付。這四年來，我不斷檢討、反省，也沒有停下腳步。只要地方有需要，不論山區、沿海，或是農作物受災，我和團隊都持續走進地方、協助鄉親。 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxPcjFSWE9VT3ZTa253WjNOVkpNOE5SaWNDQlEwVWx6SmtVYjBFaTJMMHZJRk1NRi03RjdhT3dta0F5RFVZVE1CaGxxdUREenlZdWs1WlhvTWVMVVlkR0RXY0pyR1dGb3loOFVjZnROVUpTTnZEU2VXdjFvaFZ1NTBDZldUbTE4eVBLYUZySXB4dXE4UkEyaEtjbHlGeW5wRnNXQzh6eVk2eVBZNnNoaEQ2UDFFcjA0UmdMeFkwNkZoX0syZHk4WTZDcjVuMGxFUEZ0cU9VcVpsdm54UUszaTc1bHVFOHRNSlZRTGFxR2w4R0hQakhBUGFaQnRaUmdTVlUyclItdGhwYW5Zb29OUVAxaXJRRzNiNExYNUV5aFFlcHZTRFVHREdSYVFUUEQ3eXpPeWtWTU8wWjdUX3RJYS1NQmxqa0pGeE9fSThsVFNDZFJkZkdEWHpranpobFF1elU4NTBadDRqeGRCV0tISkRkNEtSUmNwRFl6S0xkVzl5RkZEclo4YWxoT2FqVjVoQjJVMC1mSW1pMzN3MUZUQ1FxbGtJWVdETk9QREkwcHphamRPd3dEeUtQcmFEVEhsWGlrQzd2Y0NmS0pDcU45ck9PQnc4MTFPbHhmci1WUnQ0Zk1qelViUlZZVVJBR2FYT2t3ZnF1VGd5RHFDaVJCUGw0SC14OTBEaEpja181dHJNVjZvX1d6S3ZfclFjSEhINkU0S2RCMkRMY0RFT05yU1o3TklEUVFnNmRmcnhYR3ZBTHVaMFpiSndKc2tvRndwRGc3QmlfVndUc3V2b3kzNXI2X05idDA3a2FNTEZibFhDMmJQMnllUXJIRWJ3d0xGYUNWdUJPUFBJSWhjV2N5TlgzQVNnMEdPVXJOWkdFM0tMYlhTMmdLMW5KVGFsZ2tKZWNIUkhCVTl2NEVYbEN2d2ZIOEYwOTVZWEdZd2VMdzdjLU1VVFktVjJIMlRBdFo5R2NGN1AzbVVLSDh6MW4yeEpkZm1VX0ptWnZFcEJZUnc4VWlkcnZ1OFdZbV9FVklCS2xLdnotVmNXQVFuYXlrbF9EQm9EeF9lS3BQZ1l4SkpORlBvY0luaEpyTDBKbC00ejlTZmRnRkZOaUN1VjJWQTA2VVBQU21TRWRqUkNWS3QwTkgzcU16NGEzcklrRVlCMVVsTzZUWE1lSWc0R2J0dWtoOGRNTk5OaDJLbS1oRF9oVTNoYVY4WlB3OWZzZ3FOTmxwRXpZRWFJTjJPUXlBMW5zR3EzSHZGWHgxWVVFeWpvV3hNZW00NThfeGhOdnFkQUFWSG5jd2pXc1pINHhPSnBqaHJBUDVUUW5KTUVNVFlVVmlWb2ZUSW9IYnNRbnVyUUp6SUZxcl9mYzRsLV9MVGtmRHVzU2FQVkRjeXV4bTVYN3JPazNYSlFCdDRyQkNwY1k",
-        "time": "2026-09-20 19:41:36",
-        "platform": "facebook",
-        "risk": "綠"
-      },
-      {
-        "title": "挺劉建國翻轉雲林！賴清德轟張家「整碗捧」：別讓民主聖地變家族政治私產| 政治焦點 - 太報 TaiSounds",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1QUxnWHBEM05xMFdKRGJnc2l4eHNEYV8yWGhwZGYydUdrUXd6V2lNeUZaenM3NllvVWhzekZCUUtlU200VmVlMXJJVzJmYTJROUhsUFdsUHBhRDNw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-20 19:38:43",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "劉建國競總成立 賴清德.陳其邁與余天都到場 - 民視新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RRVVROXo4Z09nVkM0aU5FVUJ1OG1UYnljY3U3UFZrZGNQTUtLSFpJTWNrWkFBZUd6dkR2SDRTOFBUVEJpeFBzUlYzSWNzMmhLVTg3RG1YY2RMS3dXN0hGbQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-20 19:12:43",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "賴清德親征雲林力挺劉建國 說明破例接主委理由並批家族政治阻礙民主 - udn.com",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YVDlCeWxrbkVUMVo4eXB1cDNDeVFyV1k1ZnRFVXZLd2NNbUktOGVuaE9jNFp6TXFOR0xHVEdwVGJxNU5sdlVwangzWDBNcTlodzFxdlh1ZDNLNlY0OUNzc2g4dU50WEF4S25zbmVJWlNZa18y0gFYQVVfeXFMTk9HVWFrYlJpQU1EQkEyb24xUDdtdldmY1JDRlE3dHExazNMeFhfdE9rajE3Wk1JUkJZblVsd3BBa2NWaVRDRUZONEowX2ZOeDZmb0ozWVhBMw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-20 19:08:28",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2500,11 +2571,11 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 19
+        "count": 21
       },
       {
         "name": "麥寮",
-        "count": 1
+        "count": 3
       }
     ],
     "groups": [
