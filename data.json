@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-21T16:01:01.257558+00:00",
+  "generated_at": "2026-09-21T16:16:54.557312+00:00",
   "metrics": {
     "total_24h": 44,
-    "prev_24h": 45,
-    "growth_pct": -2.22,
-    "news_24h": 35,
+    "prev_24h": 47,
+    "growth_pct": -6.38,
+    "news_24h": 36,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 380,
+    "total": 382,
     "prev": 257,
-    "growth_pct": 47.86,
-    "news": 311,
+    "growth_pct": 48.64,
+    "news": 313,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 35
+      "count": 36
     },
     {
       "platform": "facebook",
@@ -36,13 +36,13 @@
     },
     {
       "platform": "youtube",
-      "count": 3
+      "count": 2
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 311
+      "count": 313
     },
     {
       "platform": "facebook",
@@ -54,10 +54,6 @@
     }
   ],
   "by_hour": [
-    {
-      "hour": "2026-09-21 00:00",
-      "count": 2
-    },
     {
       "hour": "2026-09-21 03:00",
       "count": 1
@@ -96,7 +92,7 @@
     },
     {
       "hour": "2026-09-21 17:00",
-      "count": 5
+      "count": 6
     },
     {
       "hour": "2026-09-21 18:00",
@@ -112,6 +108,10 @@
     },
     {
       "hour": "2026-09-21 21:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-09-21 22:00",
       "count": 1
     }
   ],
@@ -490,7 +490,7 @@
     },
     {
       "hour": "2026-09-21 17:00",
-      "count": 5
+      "count": 6
     },
     {
       "hour": "2026-09-21 18:00",
@@ -507,12 +507,16 @@
     {
       "hour": "2026-09-21 21:00",
       "count": 1
+    },
+    {
+      "hour": "2026-09-21 22:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 34
+      "count": 35
     },
     {
       "platform": "facebook",
@@ -525,6 +529,11 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "南下力挺「立院好姊妹」柯志恩 張麗善：期許她和張嘉郡明年並肩作戰 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPam9zQkpzcGVCMnNmZ2M1SW56YXVzbmFGVDhRQ1l1QnVnRWd3cV9pQTVaa2pUWVRaZzZNRUhFQ2V5TFBPbW5YUUticGk0SkdwdUtJVHp1YzJjcG9xRGNhOFBCbnBBV0dycUVvY0pUbUZ0ZGtQSjBKQ1RaS3dPT0tOblVYeVlib3RST2FsNmdJX1RralN6S2U0UWNDOVI0alhfNjRsR05WSlExNFd5am1HVE5wcF9HSV9VNjRPcUxSWWQ5U0d6TWZ4eGNzYkRVNGJ2LXFRMmhWLVV4TzhZMVVCR1pzVDZfdkIybk9SOHJoTnU0T0o4SjRmTERDeG1Sa1hITGRCWjRudmFtdllkUWpLclFKNkc5YW5jVGJONFFnWkZTNkJUUkZLVWNoanVBWTZqTXlPdThtMWtWbktkbkJ4WllEakNxaUZLaUtvYUdwRG1HSDdUaTk1WHMzUngyVmQxNEYwTzB3NW1CRmdkSnNicXVBdTI4YWdUM1p6NlB0ejFjWHhGcTFqYjRZcm9BVDh3eFNnLVd4ekNTbjFYNXFrd1d3dGlmYWY0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-21 22:56:17"
+      },
       {
         "title": "劉建國競選總部成立 賴清德擔任主委 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMWo2RnNqM1ZNdGg2UFJVQ1NSRGx0T2hGSE9hOEhZWVJnWFUzUzhONHpPOG9RVXU1d1VZS01Zb2owTXptTnRwTHBJSzl4MmVMM2lxTE1keV9wZEdEeVZnUngzVWM1X2lpNUptX2F2MTcyQk5FeUtTM2pDY1ROcllzUkg0NXc2b1NHNHdRdmVVY1hZNlFQeldqSHVIWWpXMHQ3RThwbml3N3oxQzlJOHB5VW1JVUFGUzJGQ0p3UW1SYkVBSXNxUlBYUkE3WWp0RUg0R3l4SXc3d3hJcUk1c3pkWUxuN2Q5cXdfb05Gd1dUOW5aMFhmdWF1OTVnNEJFbEgtaEx6MnVUa0RnM1FycjdFdG9zZXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -569,6 +578,11 @@
         "title": "劉建國競總成立 賴清德任主委、蘇治芬任總督導拚新雲林 - 觀傳媒",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZMlVtZEtJejlDUGZrcGI3LW03M1hrLWNvTnB0TUYzQnc5SzE0UFFORGJ0aldYUmRIN3V4N2NxZTVqU05XbWY2dm5MSzBhbEdfZjJQeWMzaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-21 17:29:20"
+      },
+      {
+        "title": "劉建國競總成立 賴清德任主委、蘇治芬任總督導拚新雲林 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81TU8xT1ZBeHdGYjJfYlBPQUZWUUtlVVRXVXotU1FMVklMWkxOLWRTb1ZGMDV6VU5RdktZeVRrbHNTTmpsZVcwMFU5ZHlmS1JTSVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-21 17:29:00"
       },
       {
         "title": "劉建國競總成立湧入上萬人 賴清德攜手喊話「一起拚新雲林」 - allnews.tw",
@@ -689,11 +703,6 @@
         "title": "劉建國競總成立 綠大咖助陣 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tQ0QyaXZYLU9MYWtOMEo0ZGF5TTh4MUN5dmI3QVh2cnlpa3g4Snl2bEZxZjBRUmNnNHJUQjJ6SjBvbGIwbU1qMVdwUjVwbm82MmNsRGY0MHp3ZUxlbkEyWDctbUZkZ9IBZkFVX3lxTE9tQ0QyaXZYLU9MYWtOMEo0ZGF5TTh4MUN5dmI3QVh2cnlpa3g4Snl2bEZxZjBRUmNnNHJUQjJ6SjBvbGIwbU1qMVdwUjVwbm82MmNsRGY0MHp3ZUxlbkEyWDctbUZkZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-21 05:30:00"
-      },
-      {
-        "title": "討論牆 | 【幕後】賴清德召喚歷史！提蘇治芬父反對蔣介石三連任 劉建國競選主軸「拒家族接班」 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iSk1CT0NhOFhNNkl2b0diaEkybmlzQnJxMzNlS092bzZPdkZoWTgwUjVscDJCYUdRdzk1TUlNVDRZTzFMNTJuWTBxb3NEcU1YbU1OV0hzbzlMSi1zMmI4aElxcTI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-21 00:02:56"
       }
     ],
     "facebook": [
@@ -739,7 +748,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 34
+      "count": 35
     },
     {
       "platform": "facebook",
@@ -752,6 +761,11 @@
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "南下力挺「立院好姊妹」柯志恩 張麗善：期許她和張嘉郡明年並肩作戰 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPam9zQkpzcGVCMnNmZ2M1SW56YXVzbmFGVDhRQ1l1QnVnRWd3cV9pQTVaa2pUWVRaZzZNRUhFQ2V5TFBPbW5YUUticGk0SkdwdUtJVHp1YzJjcG9xRGNhOFBCbnBBV0dycUVvY0pUbUZ0ZGtQSjBKQ1RaS3dPT0tOblVYeVlib3RST2FsNmdJX1RralN6S2U0UWNDOVI0alhfNjRsR05WSlExNFd5am1HVE5wcF9HSV9VNjRPcUxSWWQ5U0d6TWZ4eGNzYkRVNGJ2LXFRMmhWLVV4TzhZMVVCR1pzVDZfdkIybk9SOHJoTnU0T0o4SjRmTERDeG1Sa1hITGRCWjRudmFtdllkUWpLclFKNkc5YW5jVGJONFFnWkZTNkJUUkZLVWNoanVBWTZqTXlPdThtMWtWbktkbkJ4WllEakNxaUZLaUtvYUdwRG1HSDdUaTk1WHMzUngyVmQxNEYwTzB3NW1CRmdkSnNicXVBdTI4YWdUM1p6NlB0ejFjWHhGcTFqYjRZcm9BVDh3eFNnLVd4ekNTbjFYNXFrd1d3dGlmYWY0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-21 22:56:17"
+      },
       {
         "title": "劉建國競選總部成立 賴清德擔任主委 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMWo2RnNqM1ZNdGg2UFJVQ1NSRGx0T2hGSE9hOEhZWVJnWFUzUzhONHpPOG9RVXU1d1VZS01Zb2owTXptTnRwTHBJSzl4MmVMM2lxTE1keV9wZEdEeVZnUngzVWM1X2lpNUptX2F2MTcyQk5FeUtTM2pDY1ROcllzUkg0NXc2b1NHNHdRdmVVY1hZNlFQeldqSHVIWWpXMHQ3RThwbml3N3oxQzlJOHB5VW1JVUFGUzJGQ0p3UW1SYkVBSXNxUlBYUkE3WWp0RUg0R3l4SXc3d3hJcUk1c3pkWUxuN2Q5cXdfb05Gd1dUOW5aMFhmdWF1OTVnNEJFbEgtaEx6MnVUa0RnM1FycjdFdG9zZXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -796,6 +810,11 @@
         "title": "劉建國競總成立 賴清德任主委、蘇治芬任總督導拚新雲林 - 觀傳媒",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZMlVtZEtJejlDUGZrcGI3LW03M1hrLWNvTnB0TUYzQnc5SzE0UFFORGJ0aldYUmRIN3V4N2NxZTVqU05XbWY2dm5MSzBhbEdfZjJQeWMzaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-21 17:29:20"
+      },
+      {
+        "title": "劉建國競總成立 賴清德任主委、蘇治芬任總督導拚新雲林 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81TU8xT1ZBeHdGYjJfYlBPQUZWUUtlVVRXVXotU1FMVklMWkxOLWRTb1ZGMDV6VU5RdktZeVRrbHNTTmpsZVcwMFU5ZHlmS1JTSVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-21 17:29:00"
       },
       {
         "title": "劉建國競總成立湧入上萬人 賴清德攜手喊話「一起拚新雲林」 - allnews.tw",
@@ -916,11 +935,6 @@
         "title": "劉建國競總成立 綠大咖助陣 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tQ0QyaXZYLU9MYWtOMEo0ZGF5TTh4MUN5dmI3QVh2cnlpa3g4Snl2bEZxZjBRUmNnNHJUQjJ6SjBvbGIwbU1qMVdwUjVwbm82MmNsRGY0MHp3ZUxlbkEyWDctbUZkZ9IBZkFVX3lxTE9tQ0QyaXZYLU9MYWtOMEo0ZGF5TTh4MUN5dmI3QVh2cnlpa3g4Snl2bEZxZjBRUmNnNHJUQjJ6SjBvbGIwbU1qMVdwUjVwbm82MmNsRGY0MHp3ZUxlbkEyWDctbUZkZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-21 05:30:00"
-      },
-      {
-        "title": "討論牆 | 【幕後】賴清德召喚歷史！提蘇治芬父反對蔣介石三連任 劉建國競選主軸「拒家族接班」 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iSk1CT0NhOFhNNkl2b0diaEkybmlzQnJxMzNlS092bzZPdkZoWTgwUjVscDJCYUdRdzk1TUlNVDRZTzFMNTJuWTBxb3NEcU1YbU1OV0hzbzlMSi1zMmI4aElxcTI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-21 00:02:56"
       }
     ],
     "facebook": [
@@ -964,14 +978,19 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 23,
+    "張嘉郡": 24,
     "劉建國": 22
   },
   "mention_compare_7d": {
-    "張嘉郡": 133,
-    "劉建國": 238
+    "張嘉郡": 134,
+    "劉建國": 239
   },
   "top_news": [
+    {
+      "title": "南下力挺「立院好姊妹」柯志恩 張麗善：期許她和張嘉郡明年並肩作戰 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPam9zQkpzcGVCMnNmZ2M1SW56YXVzbmFGVDhRQ1l1QnVnRWd3cV9pQTVaa2pUWVRaZzZNRUhFQ2V5TFBPbW5YUUticGk0SkdwdUtJVHp1YzJjcG9xRGNhOFBCbnBBV0dycUVvY0pUbUZ0ZGtQSjBKQ1RaS3dPT0tOblVYeVlib3RST2FsNmdJX1RralN6S2U0UWNDOVI0alhfNjRsR05WSlExNFd5am1HVE5wcF9HSV9VNjRPcUxSWWQ5U0d6TWZ4eGNzYkRVNGJ2LXFRMmhWLVV4TzhZMVVCR1pzVDZfdkIybk9SOHJoTnU0T0o4SjRmTERDeG1Sa1hITGRCWjRudmFtdllkUWpLclFKNkc5YW5jVGJONFFnWkZTNkJUUkZLVWNoanVBWTZqTXlPdThtMWtWbktkbkJ4WllEakNxaUZLaUtvYUdwRG1HSDdUaTk1WHMzUngyVmQxNEYwTzB3NW1CRmdkSnNicXVBdTI4YWdUM1p6NlB0ejFjWHhGcTFqYjRZcm9BVDh3eFNnLVd4ekNTbjFYNXFrd1d3dGlmYWY0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-21 22:56:17"
+    },
     {
       "title": "劉建國競選總部成立 賴清德擔任主委 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMWo2RnNqM1ZNdGg2UFJVQ1NSRGx0T2hGSE9hOEhZWVJnWFUzUzhONHpPOG9RVXU1d1VZS01Zb2owTXptTnRwTHBJSzl4MmVMM2lxTE1keV9wZEdEeVZnUngzVWM1X2lpNUptX2F2MTcyQk5FeUtTM2pDY1ROcllzUkg0NXc2b1NHNHdRdmVVY1hZNlFQeldqSHVIWWpXMHQ3RThwbml3N3oxQzlJOHB5VW1JVUFGUzJGQ0p3UW1SYkVBSXNxUlBYUkE3WWp0RUg0R3l4SXc3d3hJcUk1c3pkWUxuN2Q5cXdfb05Gd1dUOW5aMFhmdWF1OTVnNEJFbEgtaEx6MnVUa0RnM1FycjdFdG9zZXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1023,18 +1042,18 @@
       "time": "2026-09-21 17:29:20"
     },
     {
-      "title": "劉建國競總成立湧入上萬人 賴清德攜手喊話「一起拚新雲林」 - allnews.tw",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLSnh2QkJGR0lHb3FXdmpjd3c4X3hKLUk2RU1vYlNXbUota0NxakdiTDJmOHBuUzJtYmtzRUdoeWVEX0VBWVVhaA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-21 15:02:53"
-    },
-    {
-      "title": "打造斗六下個黃金10年 張嘉郡提產業落地3支柱 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQbEJLb1ZjTWJRVTNlOGhrQ29ZT2tfVnFiTC1ZU0UwelhwQ1hNRmI3MTZFWFJfNDJMcTc0Yjlwb25NLTFWalkyNTVXREJlcW4zZnFEamdFVDJpanh4M2FBdUFDWE45QUtMSzZyVjVKeUdUM0JtZGtWd3ZzYjU3MzJHdUhESURaQzFUZjhsUFNCY0luR1pfODRrSGg1TjlDRml2cjdDdzJmT1ltclNLcDNPUElfek1MVFN4VXZJR1pIOTJqc3BVRXNpWWZCWWFKSVBFR1UwSHBsM2NQVHNPY2otRXZQRlJENHpxQzV4b2VkeHZQeDNNOENubzVWWEkzT0ZvVjNsMGNPNGRzaE1YVF9vTm01bXlsZ2FEelRuTWx4cDdLTEMyNGRBY25ycEo2OHdCckt1OHdKWjFMaXhi?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-21 15:00:00"
+      "title": "劉建國競總成立 賴清德任主委、蘇治芬任總督導拚新雲林 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81TU8xT1ZBeHdGYjJfYlBPQUZWUUtlVVRXVXotU1FMVklMWkxOLWRTb1ZGMDV6VU5RdktZeVRrbHNTTmpsZVcwMFU5ZHlmS1JTSVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-21 17:29:00"
     }
   ],
   "top_news_7d": [
     {
+      "title": "南下力挺「立院好姊妹」柯志恩 張麗善：期許她和張嘉郡明年並肩作戰 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPam9zQkpzcGVCMnNmZ2M1SW56YXVzbmFGVDhRQ1l1QnVnRWd3cV9pQTVaa2pUWVRaZzZNRUhFQ2V5TFBPbW5YUUticGk0SkdwdUtJVHp1YzJjcG9xRGNhOFBCbnBBV0dycUVvY0pUbUZ0ZGtQSjBKQ1RaS3dPT0tOblVYeVlib3RST2FsNmdJX1RralN6S2U0UWNDOVI0alhfNjRsR05WSlExNFd5am1HVE5wcF9HSV9VNjRPcUxSWWQ5U0d6TWZ4eGNzYkRVNGJ2LXFRMmhWLVV4TzhZMVVCR1pzVDZfdkIybk9SOHJoTnU0T0o4SjRmTERDeG1Sa1hITGRCWjRudmFtdllkUWpLclFKNkc5YW5jVGJONFFnWkZTNkJUUkZLVWNoanVBWTZqTXlPdThtMWtWbktkbkJ4WllEakNxaUZLaUtvYUdwRG1HSDdUaTk1WHMzUngyVmQxNEYwTzB3NW1CRmdkSnNicXVBdTI4YWdUM1p6NlB0ejFjWHhGcTFqYjRZcm9BVDh3eFNnLVd4ekNTbjFYNXFrd1d3dGlmYWY0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-21 22:56:17"
+    },
+    {
       "title": "劉建國競選總部成立 賴清德擔任主委 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMWo2RnNqM1ZNdGg2UFJVQ1NSRGx0T2hGSE9hOEhZWVJnWFUzUzhONHpPOG9RVXU1d1VZS01Zb2owTXptTnRwTHBJSzl4MmVMM2lxTE1keV9wZEdEeVZnUngzVWM1X2lpNUptX2F2MTcyQk5FeUtTM2pDY1ROcllzUkg0NXc2b1NHNHdRdmVVY1hZNlFQeldqSHVIWWpXMHQ3RThwbml3N3oxQzlJOHB5VW1JVUFGUzJGQ0p3UW1SYkVBSXNxUlBYUkE3WWp0RUg0R3l4SXc3d3hJcUk1c3pkWUxuN2Q5cXdfb05Gd1dUOW5aMFhmdWF1OTVnNEJFbEgtaEx6MnVUa0RnM1FycjdFdG9zZXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-21 21:09:31"
@@ -1083,6 +1102,11 @@
       "title": "劉建國競總成立 賴清德任主委、蘇治芬任總督導拚新雲林 - 觀傳媒",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZMlVtZEtJejlDUGZrcGI3LW03M1hrLWNvTnB0TUYzQnc5SzE0UFFORGJ0aldYUmRIN3V4N2NxZTVqU05XbWY2dm5MSzBhbEdfZjJQeWMzaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-21 17:29:20"
+    },
+    {
+      "title": "劉建國競總成立 賴清德任主委、蘇治芬任總督導拚新雲林 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81TU8xT1ZBeHdGYjJfYlBPQUZWUUtlVVRXVXotU1FMVklMWkxOLWRTb1ZGMDV6VU5RdktZeVRrbHNTTmpsZVcwMFU5ZHlmS1JTSVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-21 17:29:00"
     },
     {
       "title": "劉建國競總成立湧入上萬人 賴清德攜手喊話「一起拚新雲林」 - allnews.tw",
@@ -1123,16 +1147,6 @@
       "title": "車拚賴清德！新北雲林同鄉會造勢 鄭麗文替李四川拉票、喊張嘉郡接棒 - TVBS新聞網",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtVVMxMzV3TnFReVU4RUdyU3YwZy0zeDV2VFg3LXhDcTN5d2pHZlhGdnR3dkU3NUJsZGJBdzQ3STB2Q3pHR1NsZ3g3eURfTjdBNG04?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-21 13:31:00"
-    },
-    {
-      "title": "擘劃斗六未來！張嘉郡建構產業落地3大支柱 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNU3JINGQyNVdzWFBHMldiSnlMRm1kdG5LblZlSkFBYWR4aWdGMlh4ZmJIQWZDVjR2SkRscWtCS0x0bTFhZmRia1JNSVpQc2w3TGlTRURjU1duc3RHa3VwWGM2Y25ZYlZyR3RWTlJHNzRiVnMyU3lIQzZmNktmNW4xYVp2UktFOUJ1NEE3VklQdGRLbXF2RW11U0pmRVIwbHRDMzhCdDQ4VER4b0RWMDJiVUNUUWhOZkVWanh4S2ZiZlplaGliS1Vna3lBVUpGeUVjeU84YmJnRnBBVV9ZTEk1Ul9EUkVJM0lhX0NLRHpKYUhUcVUzMHpwUmpUN2lmNlNBekVqWkNnMzNFRVlweWNIUTFBcjZMeDlhOXBvWDdFU0VsRHZ4VWhsM2l4WUduZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-21 13:27:43"
-    },
-    {
-      "title": "張嘉郡擘劃斗六未來 建構石榴育才、雲科研發、產業落地三支柱 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQM1pibVU1YU5xRzYxR28tNXl3alZBamotSVR4WVl2aElpcU82UFU5M3g2X1VsOWxJZUk1S0RWeHQ5cV9aTTRqQmpYR0thZ3BPbXpKc2t0NXJuMnRocW52ODZsazVjakdaNmJqcTd4eHdLWEpUVVZ1UG5TbFdvdnZKMUs5enhzcGN6aTdVdUUteVRIeWVYRjM3VzRBUmR4UGs0bmprdHMwRnI1azBIRUdYRTgxMEVVM3N5eWtIZmxraW5LTllfc1RRQ0pRYlVKcV9xeWJMVHBid0hlR3JxcnZqVzVFNjl2OFpCWm54TDhid3FicXJwTUJ6anhleHUwRUZaV3Q2OE5vcmF3Y195OWhzS0hrVkx0elI2YnloODMtUFZ1RnJNTkRMRmd5ZEVGYWtJVDl2bzhmYUh2TDd2blI0Y0VlSVVFdzJyT0VFalJBUWJfa3YxYWtfUy1zOWZPTUljMVRMRERkMG5HS09EeWMzUlV1TlVGTXVzLVFZdmVGRTc3Zng0NHFVWEtWa2l4RGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-21 13:20:05"
     }
   ],
   "latest_facebook_20": [
@@ -1239,6 +1253,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "南下力挺「立院好姊妹」柯志恩 張麗善：期許她和張嘉郡明年並肩作戰 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPam9zQkpzcGVCMnNmZ2M1SW56YXVzbmFGVDhRQ1l1QnVnRWd3cV9pQTVaa2pUWVRaZzZNRUhFQ2V5TFBPbW5YUUticGk0SkdwdUtJVHp1YzJjcG9xRGNhOFBCbnBBV0dycUVvY0pUbUZ0ZGtQSjBKQ1RaS3dPT0tOblVYeVlib3RST2FsNmdJX1RralN6S2U0UWNDOVI0alhfNjRsR05WSlExNFd5am1HVE5wcF9HSV9VNjRPcUxSWWQ5U0d6TWZ4eGNzYkRVNGJ2LXFRMmhWLVV4TzhZMVVCR1pzVDZfdkIybk9SOHJoTnU0T0o4SjRmTERDeG1Sa1hITGRCWjRudmFtdllkUWpLclFKNkc5YW5jVGJONFFnWkZTNkJUUkZLVWNoanVBWTZqTXlPdThtMWtWbktkbkJ4WllEakNxaUZLaUtvYUdwRG1HSDdUaTk1WHMzUngyVmQxNEYwTzB3NW1CRmdkSnNicXVBdTI4YWdUM1p6NlB0ejFjWHhGcTFqYjRZcm9BVDh3eFNnLVd4ekNTbjFYNXFrd1d3dGlmYWY0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-21 22:56:17"
+    },
+    {
       "title": "劉建國競選總部成立 賴清德擔任主委 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMWo2RnNqM1ZNdGg2UFJVQ1NSRGx0T2hGSE9hOEhZWVJnWFUzUzhONHpPOG9RVXU1d1VZS01Zb2owTXptTnRwTHBJSzl4MmVMM2lxTE1keV9wZEdEeVZnUngzVWM1X2lpNUptX2F2MTcyQk5FeUtTM2pDY1ROcllzUkg0NXc2b1NHNHdRdmVVY1hZNlFQeldqSHVIWWpXMHQ3RThwbml3N3oxQzlJOHB5VW1JVUFGUzJGQ0p3UW1SYkVBSXNxUlBYUkE3WWp0RUg0R3l4SXc3d3hJcUk1c3pkWUxuN2Q5cXdfb05Gd1dUOW5aMFhmdWF1OTVnNEJFbEgtaEx6MnVUa0RnM1FycjdFdG9zZXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-21 21:09:31"
@@ -1289,6 +1308,11 @@
       "time": "2026-09-21 17:29:20"
     },
     {
+      "title": "劉建國競總成立 賴清德任主委、蘇治芬任總督導拚新雲林 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81TU8xT1ZBeHdGYjJfYlBPQUZWUUtlVVRXVXotU1FMVklMWkxOLWRTb1ZGMDV6VU5RdktZeVRrbHNTTmpsZVcwMFU5ZHlmS1JTSVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-21 17:29:00"
+    },
+    {
       "title": "劉建國競總成立湧入上萬人 賴清德攜手喊話「一起拚新雲林」 - allnews.tw",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLSnh2QkJGR0lHb3FXdmpjd3c4X3hKLUk2RU1vYlNXbUota0NxakdiTDJmOHBuUzJtYmtzRUdoeWVEX0VBWVVhaA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-21 15:02:53"
@@ -1327,16 +1351,6 @@
       "title": "車拚賴清德！新北雲林同鄉會造勢 鄭麗文替李四川拉票、喊張嘉郡接棒 - TVBS新聞網",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtVVMxMzV3TnFReVU4RUdyU3YwZy0zeDV2VFg3LXhDcTN5d2pHZlhGdnR3dkU3NUJsZGJBdzQ3STB2Q3pHR1NsZ3g3eURfTjdBNG04?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-21 13:31:00"
-    },
-    {
-      "title": "擘劃斗六未來！張嘉郡建構產業落地3大支柱 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNU3JINGQyNVdzWFBHMldiSnlMRm1kdG5LblZlSkFBYWR4aWdGMlh4ZmJIQWZDVjR2SkRscWtCS0x0bTFhZmRia1JNSVpQc2w3TGlTRURjU1duc3RHa3VwWGM2Y25ZYlZyR3RWTlJHNzRiVnMyU3lIQzZmNktmNW4xYVp2UktFOUJ1NEE3VklQdGRLbXF2RW11U0pmRVIwbHRDMzhCdDQ4VER4b0RWMDJiVUNUUWhOZkVWanh4S2ZiZlplaGliS1Vna3lBVUpGeUVjeU84YmJnRnBBVV9ZTEk1Ul9EUkVJM0lhX0NLRHpKYUhUcVUzMHpwUmpUN2lmNlNBekVqWkNnMzNFRVlweWNIUTFBcjZMeDlhOXBvWDdFU0VsRHZ4VWhsM2l4WUduZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-21 13:27:43"
-    },
-    {
-      "title": "張嘉郡擘劃斗六未來 建構石榴育才、雲科研發、產業落地三支柱 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQM1pibVU1YU5xRzYxR28tNXl3alZBamotSVR4WVl2aElpcU82UFU5M3g2X1VsOWxJZUk1S0RWeHQ5cV9aTTRqQmpYR0thZ3BPbXpKc2t0NXJuMnRocW52ODZsazVjakdaNmJqcTd4eHdLWEpUVVZ1UG5TbFdvdnZKMUs5enhzcGN6aTdVdUUteVRIeWVYRjM3VzRBUmR4UGs0bmprdHMwRnI1azBIRUdYRTgxMEVVM3N5eWtIZmxraW5LTllfc1RRQ0pRYlVKcV9xeWJMVHBid0hlR3JxcnZqVzVFNjl2OFpCWm54TDhid3FicXJwTUJ6anhleHUwRUZaV3Q2OE5vcmF3Y195OWhzS0hrVkx0elI2YnloODMtUFZ1RnJNTkRMRmd5ZEVGYWtJVDl2bzhmYUh2TDd2blI0Y0VlSVVFdzJyT0VFalJBUWJfa3YxYWtfUy1zOWZPTUljMVRMRERkMG5HS09EeWMzUlV1TlVGTXVzLVFZdmVGRTc3Zng0NHFVWEtWa2l4RGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-21 13:20:05"
     }
   ],
   "person_sections": {
@@ -1445,6 +1459,11 @@
       ],
       "news": [
         {
+          "title": "南下力挺「立院好姊妹」柯志恩 張麗善：期許她和張嘉郡明年並肩作戰 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPam9zQkpzcGVCMnNmZ2M1SW56YXVzbmFGVDhRQ1l1QnVnRWd3cV9pQTVaa2pUWVRaZzZNRUhFQ2V5TFBPbW5YUUticGk0SkdwdUtJVHp1YzJjcG9xRGNhOFBCbnBBV0dycUVvY0pUbUZ0ZGtQSjBKQ1RaS3dPT0tOblVYeVlib3RST2FsNmdJX1RralN6S2U0UWNDOVI0alhfNjRsR05WSlExNFd5am1HVE5wcF9HSV9VNjRPcUxSWWQ5U0d6TWZ4eGNzYkRVNGJ2LXFRMmhWLVV4TzhZMVVCR1pzVDZfdkIybk9SOHJoTnU0T0o4SjRmTERDeG1Sa1hITGRCWjRudmFtdllkUWpLclFKNkc5YW5jVGJONFFnWkZTNkJUUkZLVWNoanVBWTZqTXlPdThtMWtWbktkbkJ4WllEakNxaUZLaUtvYUdwRG1HSDdUaTk1WHMzUngyVmQxNEYwTzB3NW1CRmdkSnNicXVBdTI4YWdUM1p6NlB0ejFjWHhGcTFqYjRZcm9BVDh3eFNnLVd4ekNTbjFYNXFrd1d3dGlmYWY0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-21 22:56:17"
+        },
+        {
           "title": "張麗善跨縣市相挺 許願明年柯志恩與張嘉郡一起並肩作戰 - UDN",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uV2tBUGNFclliQk1iV3plMk5vTVZXR3dXTktEci1rX2M5dm5jUHM0cDluMzhSUDZ3NC1rZWVCOExscmVXSS1qVHhFajZxamNWNDNn0gFYQVVfeXFMUDJPRmNCb0FBbXl0YWRmRUptcXRORGNhMHVPeVgybldNdENBVzlqTEI5d0w4em1MWjZHTVV5dXdNd0dyNE1ib2t0ejMzd2R3YXQ4X1ZaeWNrUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-21 20:36:48"
@@ -1538,11 +1557,6 @@
           "title": "劉建國競總聲嘶翻轉雲林 張嘉郡廟口開講立足雲林 - tw.news.yahoo.com",
           "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQeDZVUVlmSXlTbEljcnVxbWdoVmNSZ1RsazFFUGZkWGJGanNYdnpmZkg2MVY2aVZHamdGTmVHVUVJeUZLNXBhZDlqbHRwZURiQTZlcFhCSkROd2RjM24yQW9KLUFSRno5anp2QzZlaVNQNEVCTzJsNU9wT1IxcXVRZkVhcFRUNU42bUlkamF4b2lGRXhMeWU2dHhIcmRjZVdEN3NrRHUzbXZDRzhJYXBiWUM3TGk1RnBuMi01NXFPSTY0QVg4NEZBVzlsbGxIV3NSYzFLMGswZDZNNkFaMTk3LVlSYzVTblRDWEFrOWJQQ1NXSXF3OVI0Y0FiVzRiX3FwVGh1TGlaandqUmdGT05mOXI4eThYYm4tWUdsa2VSdS1Dc0RubVRRVURhOGVqbVB5cy1Gc2RzbkJJUURmWW11Zml6WVZLUEE5OXZsemQtQjctdzlNYkN6ZHpIZkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-21 10:25:57"
-        },
-        {
-          "title": "劉建國競總聲嘶翻轉雲林 張嘉郡廟口開講立足雲林 - 社會新聞 - PChome Online 新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObjFWTzBxSmpjX3JaT2JYU04xbFZYemxHVTFwQm93X2NpSlpaMXJud05wWnd6U2FLX1Bac2c1Q0pNWUJuTS1TWElMNzlvU2pyVXVtSEFwaGRlMGdXY0drbVVSTldpTlc4Y0puZjNLS0pKTTdITWtkRFRmVkltX2YwOEV0aWY2YW5Bc2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-21 10:18:26"
         }
       ]
     },
@@ -1676,6 +1690,11 @@
           "time": "2026-09-21 17:29:20"
         },
         {
+          "title": "劉建國競總成立 賴清德任主委、蘇治芬任總督導拚新雲林 - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81TU8xT1ZBeHdGYjJfYlBPQUZWUUtlVVRXVXotU1FMVklMWkxOLWRTb1ZGMDV6VU5RdktZeVRrbHNTTmpsZVcwMFU5ZHlmS1JTSVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-21 17:29:00"
+        },
+        {
           "title": "劉建國競總成立湧入上萬人 賴清德攜手喊話「一起拚新雲林」 - allnews.tw",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLSnh2QkJGR0lHb3FXdmpjd3c4X3hKLUk2RU1vYlNXbUota0NxakdiTDJmOHBuUzJtYmtzRUdoeWVEX0VBWVVhaA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-21 15:02:53"
@@ -1744,17 +1763,17 @@
           "title": "賴總統趕場力挺劉建國、陳瑩| 2026九合一選舉 - UDN",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JdldTc2Z6MVNyZWNhdHRhWkdQb1BfLXR5X3RQd1czbkZNbFpyVVktVHJ0c2VJTlY5bUZoc0hTbVgycDE1ekdPbjR6Vmw2SktIaGhQZlA1cGE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-21 00:00:00"
-        },
-        {
-          "title": "劉建國競總成立大會 總統賴清德力挺籲團結翻轉雲林 - 台灣生活新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XM0wxNEMwMUVCaU9JX2hRQmVCa01nRWszMjZmRk1jeUh3T05vV2tPT1BZVXhOd3BlZkJNVnFLQ0NVWHhaZ1dDMnJxLWxhQi1H?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-20 22:37:30"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "南下力挺「立院好姊妹」柯志恩 張麗善：期許她和張嘉郡明年並肩作戰 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPam9zQkpzcGVCMnNmZ2M1SW56YXVzbmFGVDhRQ1l1QnVnRWd3cV9pQTVaa2pUWVRaZzZNRUhFQ2V5TFBPbW5YUUticGk0SkdwdUtJVHp1YzJjcG9xRGNhOFBCbnBBV0dycUVvY0pUbUZ0ZGtQSjBKQ1RaS3dPT0tOblVYeVlib3RST2FsNmdJX1RralN6S2U0UWNDOVI0alhfNjRsR05WSlExNFd5am1HVE5wcF9HSV9VNjRPcUxSWWQ5U0d6TWZ4eGNzYkRVNGJ2LXFRMmhWLVV4TzhZMVVCR1pzVDZfdkIybk9SOHJoTnU0T0o4SjRmTERDeG1Sa1hITGRCWjRudmFtdllkUWpLclFKNkc5YW5jVGJONFFnWkZTNkJUUkZLVWNoanVBWTZqTXlPdThtMWtWbktkbkJ4WllEakNxaUZLaUtvYUdwRG1HSDdUaTk1WHMzUngyVmQxNEYwTzB3NW1CRmdkSnNicXVBdTI4YWdUM1p6NlB0ejFjWHhGcTFqYjRZcm9BVDh3eFNnLVd4ekNTbjFYNXFrd1d3dGlmYWY0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-21 22:56:17"
+      },
       {
         "title": "劉建國競選總部成立 賴清德擔任主委 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMWo2RnNqM1ZNdGg2UFJVQ1NSRGx0T2hGSE9hOEhZWVJnWFUzUzhONHpPOG9RVXU1d1VZS01Zb2owTXptTnRwTHBJSzl4MmVMM2lxTE1keV9wZEdEeVZnUngzVWM1X2lpNUptX2F2MTcyQk5FeUtTM2pDY1ROcllzUkg0NXc2b1NHNHdRdmVVY1hZNlFQeldqSHVIWWpXMHQ3RThwbml3N3oxQzlJOHB5VW1JVUFGUzJGQ0p3UW1SYkVBSXNxUlBYUkE3WWp0RUg0R3l4SXc3d3hJcUk1c3pkWUxuN2Q5cXdfb05Gd1dUOW5aMFhmdWF1OTVnNEJFbEgtaEx6MnVUa0RnM1FycjdFdG9zZXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1804,6 +1823,11 @@
         "title": "劉建國競總成立 賴清德任主委、蘇治芬任總督導拚新雲林 - 觀傳媒",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZMlVtZEtJejlDUGZrcGI3LW03M1hrLWNvTnB0TUYzQnc5SzE0UFFORGJ0aldYUmRIN3V4N2NxZTVqU05XbWY2dm5MSzBhbEdfZjJQeWMzaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-21 17:29:20"
+      },
+      {
+        "title": "劉建國競總成立 賴清德任主委、蘇治芬任總督導拚新雲林 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81TU8xT1ZBeHdGYjJfYlBPQUZWUUtlVVRXVXotU1FMVklMWkxOLWRTb1ZGMDV6VU5RdktZeVRrbHNTTmpsZVcwMFU5ZHlmS1JTSVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-21 17:29:00"
       },
       {
         "title": "劉建國競總成立湧入上萬人 賴清德攜手喊話「一起拚新雲林」 - allnews.tw",
@@ -1924,11 +1948,6 @@
         "title": "劉建國競總成立 綠大咖助陣 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tQ0QyaXZYLU9MYWtOMEo0ZGF5TTh4MUN5dmI3QVh2cnlpa3g4Snl2bEZxZjBRUmNnNHJUQjJ6SjBvbGIwbU1qMVdwUjVwbm82MmNsRGY0MHp3ZUxlbkEyWDctbUZkZ9IBZkFVX3lxTE9tQ0QyaXZYLU9MYWtOMEo0ZGF5TTh4MUN5dmI3QVh2cnlpa3g4Snl2bEZxZjBRUmNnNHJUQjJ6SjBvbGIwbU1qMVdwUjVwbm82MmNsRGY0MHp3ZUxlbkEyWDctbUZkZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-21 05:30:00"
-      },
-      {
-        "title": "討論牆 | 【幕後】賴清德召喚歷史！提蘇治芬父反對蔣介石三連任 劉建國競選主軸「拒家族接班」 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iSk1CT0NhOFhNNkl2b0diaEkybmlzQnJxMzNlS092bzZPdkZoWTgwUjVscDJCYUdRdzk1TUlNVDRZTzFMNTJuWTBxb3NEcU1YbU1OV0hzbzlMSi1zMmI4aElxcTI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-21 00:02:56"
       }
     ],
     "facebook": [
@@ -1973,16 +1992,16 @@
         "title": "兒少被害人不是法庭的「局外人」! 范雲質詢法務部、司法院：尊重兒少知情權",
         "url": "https://www.youtube.com/watch?v=XyEiUKdJlUs",
         "time": "2026-09-21 16:00:29"
-      },
-      {
-        "title": "台灣好生活 雲林進行式｜勇敢轉型 新雲林！",
-        "url": "https://www.youtube.com/watch?v=c6JMIoB32Gg",
-        "time": "2026-09-21 00:13:18"
       }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "南下力挺「立院好姊妹」柯志恩 張麗善：期許她和張嘉郡明年並肩作戰 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPam9zQkpzcGVCMnNmZ2M1SW56YXVzbmFGVDhRQ1l1QnVnRWd3cV9pQTVaa2pUWVRaZzZNRUhFQ2V5TFBPbW5YUUticGk0SkdwdUtJVHp1YzJjcG9xRGNhOFBCbnBBV0dycUVvY0pUbUZ0ZGtQSjBKQ1RaS3dPT0tOblVYeVlib3RST2FsNmdJX1RralN6S2U0UWNDOVI0alhfNjRsR05WSlExNFd5am1HVE5wcF9HSV9VNjRPcUxSWWQ5U0d6TWZ4eGNzYkRVNGJ2LXFRMmhWLVV4TzhZMVVCR1pzVDZfdkIybk9SOHJoTnU0T0o4SjRmTERDeG1Sa1hITGRCWjRudmFtdllkUWpLclFKNkc5YW5jVGJONFFnWkZTNkJUUkZLVWNoanVBWTZqTXlPdThtMWtWbktkbkJ4WllEakNxaUZLaUtvYUdwRG1HSDdUaTk1WHMzUngyVmQxNEYwTzB3NW1CRmdkSnNicXVBdTI4YWdUM1p6NlB0ejFjWHhGcTFqYjRZcm9BVDh3eFNnLVd4ekNTbjFYNXFrd1d3dGlmYWY0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-21 22:56:17"
+      },
       {
         "title": "劉建國競選總部成立 賴清德擔任主委 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMWo2RnNqM1ZNdGg2UFJVQ1NSRGx0T2hGSE9hOEhZWVJnWFUzUzhONHpPOG9RVXU1d1VZS01Zb2owTXptTnRwTHBJSzl4MmVMM2lxTE1keV9wZEdEeVZnUngzVWM1X2lpNUptX2F2MTcyQk5FeUtTM2pDY1ROcllzUkg0NXc2b1NHNHdRdmVVY1hZNlFQeldqSHVIWWpXMHQ3RThwbml3N3oxQzlJOHB5VW1JVUFGUzJGQ0p3UW1SYkVBSXNxUlBYUkE3WWp0RUg0R3l4SXc3d3hJcUk1c3pkWUxuN2Q5cXdfb05Gd1dUOW5aMFhmdWF1OTVnNEJFbEgtaEx6MnVUa0RnM1FycjdFdG9zZXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -2032,6 +2051,11 @@
         "title": "劉建國競總成立 賴清德任主委、蘇治芬任總督導拚新雲林 - 觀傳媒",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZMlVtZEtJejlDUGZrcGI3LW03M1hrLWNvTnB0TUYzQnc5SzE0UFFORGJ0aldYUmRIN3V4N2NxZTVqU05XbWY2dm5MSzBhbEdfZjJQeWMzaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-21 17:29:20"
+      },
+      {
+        "title": "劉建國競總成立 賴清德任主委、蘇治芬任總督導拚新雲林 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81TU8xT1ZBeHdGYjJfYlBPQUZWUUtlVVRXVXotU1FMVklMWkxOLWRTb1ZGMDV6VU5RdktZeVRrbHNTTmpsZVcwMFU5ZHlmS1JTSVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-21 17:29:00"
       },
       {
         "title": "劉建國競總成立湧入上萬人 賴清德攜手喊話「一起拚新雲林」 - allnews.tw",
@@ -2172,16 +2196,6 @@
         "title": "雲林縣長候選人張嘉郡拱範宮廟口開講立委游顥、丁學忠等人到場力挺呼籲麥寮、台西等海區大團結！ - 台灣華報",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1udnNCbGFJSkpoakZHczVvYlhJZE9IWmhHNWQwTmRHRDVsdWdVTndmalgxb0Z4akp6aEplN3ZTSE9uNnNLcmxhdjZfdjFZREQ4YzZWbFlsWWVuemJ2OGcyTmlTdHg2TE9TTS1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-20 23:22:30"
-      },
-      {
-        "title": "麥寮拱範宮廟口開講爆滿 游顥、 丁學忠站台力薦張嘉郡 - cnews.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1Zm5PNWFBR3RCTWRyR21EY2tEMmViTHd5WkJKbDBLS0JvY3V1cWd3TVpfaHlLLWhmV3pWUkZSS1Q4SGRLM0JZdmdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-20 22:57:35"
-      },
-      {
-        "title": "麥寮拱範宮廟口開講爆滿 游顥、丁學忠站台力薦張嘉郡 - tw.news.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNZnhBcEJGcUJzS283MDN4emFrN0lQd014NTBIWXdQaGhtSkFaVXZvZ1RYcmp1U2pRU3JEVTlfM01TNk52cmdULVhiUTRqeE9vRU1lTmRMNFA3YUN0elBVR2gzX183NGhSOGNTbzMtUmRwdVNpV3BKeE15eFEtcUJUNmswUnoxNWp0LXhNVTk1cHZDT0FYbHp0WUNTc3BYa24tOTBUS044eFhEalJMZlVYZFZqdzU4WVRJV3dOWFpRdWZoQ2tSUDhQX1ItMmJodFdWZk1fRHVwZ2hpbm5oUE9VWG1LNC1taVN2U0dXZHZQejJ5dkcwSVhYT2xrVGppUUFYTXhUVENRZmN4dlFlWDVOTnY2d0psaGZwTWtSN1FKUWd0YzdtazBHNnhnS0lCRVN4Rk4tNlVfV0tWcV9RbWMxdHNTLXg0eVRvQUdtN1h5Sy14Y1dETFhFQjVUOGIzanhwZXcyNWRRb2hnUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-20 22:57:35"
       }
     ],
     "facebook": [
@@ -2499,6 +2513,13 @@
     "hour": [],
     "day": [
       {
+        "title": "南下力挺「立院好姊妹」柯志恩 張麗善：期許她和張嘉郡明年並肩作戰 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPam9zQkpzcGVCMnNmZ2M1SW56YXVzbmFGVDhRQ1l1QnVnRWd3cV9pQTVaa2pUWVRaZzZNRUhFQ2V5TFBPbW5YUUticGk0SkdwdUtJVHp1YzJjcG9xRGNhOFBCbnBBV0dycUVvY0pUbUZ0ZGtQSjBKQ1RaS3dPT0tOblVYeVlib3RST2FsNmdJX1RralN6S2U0UWNDOVI0alhfNjRsR05WSlExNFd5am1HVE5wcF9HSV9VNjRPcUxSWWQ5U0d6TWZ4eGNzYkRVNGJ2LXFRMmhWLVV4TzhZMVVCR1pzVDZfdkIybk9SOHJoTnU0T0o4SjRmTERDeG1Sa1hITGRCWjRudmFtdllkUWpLclFKNkc5YW5jVGJONFFnWkZTNkJUUkZLVWNoanVBWTZqTXlPdThtMWtWbktkbkJ4WllEakNxaUZLaUtvYUdwRG1HSDdUaTk1WHMzUngyVmQxNEYwTzB3NW1CRmdkSnNicXVBdTI4YWdUM1p6NlB0ejFjWHhGcTFqYjRZcm9BVDh3eFNnLVd4ekNTbjFYNXFrd1d3dGlmYWY0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-21 22:56:17",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "劉建國競選總部成立 賴清德擔任主委 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMWo2RnNqM1ZNdGg2UFJVQ1NSRGx0T2hGSE9hOEhZWVJnWFUzUzhONHpPOG9RVXU1d1VZS01Zb2owTXptTnRwTHBJSzl4MmVMM2lxTE1keV9wZEdEeVZnUngzVWM1X2lpNUptX2F2MTcyQk5FeUtTM2pDY1ROcllzUkg0NXc2b1NHNHdRdmVVY1hZNlFQeldqSHVIWWpXMHQ3RThwbml3N3oxQzlJOHB5VW1JVUFGUzJGQ0p3UW1SYkVBSXNxUlBYUkE3WWp0RUg0R3l4SXc3d3hJcUk1c3pkWUxuN2Q5cXdfb05Gd1dUOW5aMFhmdWF1OTVnNEJFbEgtaEx6MnVUa0RnM1FycjdFdG9zZXo?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-21 21:09:31",
@@ -2583,6 +2604,13 @@
         "risk": "綠"
       },
       {
+        "title": "劉建國競總成立 賴清德任主委、蘇治芬任總督導拚新雲林 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81TU8xT1ZBeHdGYjJfYlBPQUZWUUtlVVRXVXotU1FMVklMWkxOLWRTb1ZGMDV6VU5RdktZeVRrbHNTTmpsZVcwMFU5ZHlmS1JTSVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-21 17:29:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "張嘉郡拋科技教育政策 擘劃斗六未來10年-雲林新聞網",
         "url": "https://www.youtube.com/watch?v=1bzIORG2AwY",
         "time": "2026-09-21 17:22:00",
@@ -2621,20 +2649,6 @@
         "title": "張嘉郡提斗六10年願景布局人才培育 石榴國中增設科技高中 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15VnpiT2I1UTR0cGVKSDFKS3JQM2RjN0RQbG1yTWUzd3FLTVdGeVYtX2x0TjBBVWxIUGVmRmV3YWRhUkEtdUlFVERVSkoyczBxYmNqUVB3TUNndVIyYXRHTlZlbUJlaWlYU3fSAW9BVV95cUxPMF9hbnZTbnYxVjBPckRKeGtXNFowWVVSZ2tMVHp2dmwxZzA3dElKZ3g3dy1rV0w2eExCTjY1R29PcmRDbmRVRmJyNGN3RGZsSE9sSjZuZW43NVlHZ3ZQRlhqVnNEbXM3eW9odVpIbG8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-21 14:26:53",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "張嘉郡提斗六10年願景布局人才培育 石榴國中增設科技高中 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQYksxdUkweFEzNmxBNW41Z29GaGpiSHdjaDJEOW1sQ3JBeERVcE1KcVhVdzhlR2dINXRIVHVUaUpoTjZyOGxFV1luYXk0Y3FtNkNzY052MGxtUmRhZnM4dlV6QzAwUXBFTjdCU2tSWVN3U1VvS2xUT1RTbTkyVjk1M3RNRFlDNjBmd0tDeFU4Y01QTld2b1dYcV9wa29qMzlleUo1NWdseWhIS0lsOWVkQkR5TmMwRXBIMnp6WU1DZGhvajJCdklMTjRyNXluOHVRZHotV1FTR0FXNFUxT2Q3bXphSXVKbmxPZlNwMzhuQmxDT0IwSjBZQjRJdFJid2UtWkV0TjVoX3F6LTItS1ZkLWh4TFJwTGVSVFpnTEdjZnUxNEZRcERqaWJOSzVSRWdObXhrRGw3Uzhqd0RNSXJlUTFiMHJwSWFhcmNHaEZlWXUzalR6ck0wbm15SGpuMk9HNFpaQTBZUFowRE9qblJnSkpJYU5aTmhzR25PYUhHLUpZNTA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-21 14:26:53",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "張嘉郡擘劃斗六未來 建構石榴育才、雲科研發、產業落地三支柱 | 夏和宣 | 地方新聞 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HbFZGTVBIMXQ2QUt0REhmQV9vN3RkeURIbU1pUEpFSU44cHg0RjZNYkEzTHQycUdOakZ5endyNG02N0dDX003XzNoQTlaQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-21 14:10:27",
         "platform": "news",
         "risk": "綠"
       }
