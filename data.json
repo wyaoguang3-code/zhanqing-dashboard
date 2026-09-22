@@ -1,10 +1,10 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-22T11:45:08.584690+00:00",
+  "generated_at": "2026-09-22T12:00:58.381275+00:00",
   "metrics": {
     "total_24h": 16,
-    "prev_24h": 77,
-    "growth_pct": -79.22,
+    "prev_24h": 73,
+    "growth_pct": -78.08,
     "news_24h": 12,
     "anomaly": {
       "level": "綠",
@@ -14,9 +14,9 @@
     }
   },
   "metrics_7d": {
-    "total": 372,
-    "prev": 243,
-    "growth_pct": 53.09,
+    "total": 373,
+    "prev": 241,
+    "growth_pct": 54.77,
     "news": 303,
     "anomaly": {
       "level": "綠",
@@ -32,7 +32,11 @@
     },
     {
       "platform": "facebook",
-      "count": 4
+      "count": 3
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "by_platform_7d": [
@@ -46,13 +50,13 @@
     },
     {
       "platform": "youtube",
-      "count": 18
+      "count": 19
     }
   ],
   "by_hour": [
     {
       "hour": "2026-09-21 20:00",
-      "count": 3
+      "count": 2
     },
     {
       "hour": "2026-09-21 21:00",
@@ -85,13 +89,13 @@
     {
       "hour": "2026-09-22 17:00",
       "count": 2
+    },
+    {
+      "hour": "2026-09-22 19:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
-    {
-      "hour": "2026-09-15 19:00",
-      "count": 1
-    },
     {
       "hour": "2026-09-15 20:00",
       "count": 1
@@ -442,7 +446,7 @@
     },
     {
       "hour": "2026-09-21 19:00",
-      "count": 2
+      "count": 3
     },
     {
       "hour": "2026-09-21 20:00",
@@ -479,6 +483,10 @@
     {
       "hour": "2026-09-22 17:00",
       "count": 2
+    },
+    {
+      "hour": "2026-09-22 19:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
@@ -488,10 +496,21 @@
     },
     {
       "platform": "facebook",
-      "count": 3
+      "count": 2
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
+    "youtube": [
+      {
+        "title": "【直播完整版】0923 青年三好雲林正好！劉建國政見發表｜民視快新聞｜",
+        "url": "https://www.youtube.com/watch?v=_CKPm6DTT8Y",
+        "time": "2026-09-22 19:13:46"
+      }
+    ],
     "news": [
       {
         "title": "綠委劉建國促轉型！雲林毛巾跨界美容美髮 - Yahoo新聞",
@@ -564,11 +583,6 @@
         "title": "張嘉郡 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WbjZ3SzgxeE41YVJiQm90X0hiVXpab2dZX2xKcFcyODhRUW1PWnNsVFlza3VYQkgtT2pnOW9fUUhEa200V0FxV0ZiZk0yUGY5bjgwQ1MxXzVuNGF3d1V5eVl4Tlo1T0JEUHlmaDk0NA",
         "time": "2026-09-22 08:50:03"
-      },
-      {
-        "title": "民進黨籍雲林縣長候選人劉建國，在9/20日舉行競選總本部成立大會，除了由前縣長蘇治芬擔任競總總督導，總統賴清德也親自出任競選總部主任委員，另外高雄市長陳其邁、行政院秘書長張惇涵以及前立委余天等人都來到現場力挺劉建國，現場上千名雲林鄉親與支持 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMikAhBVV95cUxNMVNPSHhaSFBBZjdmeU1xdTNqcVRYQTlmc3JBSFM1N2RtRVRKRURSSjdWX2s5XzNuSXRnTGNnREZzWTg2TUI5LWtqbXg3LVpjXzNOOVpRVEdJcHdLY3cxWUJRV0J0Wmhyck1ZRllkZE4xcXJUdjhXS3ZaT2RrSWN0dkJvRG1ZVnpqN2JfbG44UHUzQmRDOGtKZGNjcHBCal9QNk4xTm1uNXhmR09yS0pBdldZd0sxSktJRFhMaGtTUnhtMGFsWndHeGwzaWphYl9fUm9KVnZFdHNEd3VHQWxBaEdOeEZ6cmRmbS02MEFHQUhudUt6bTVEMTNzeVRYLWFDQ2hvM0JIYzQycjZkOGxxdkoybUFXeDBFRGhjNGFzVjBta3I2RlBnTzU5N1llSllDM096Tmc5WEpGMHR3NGdZVEVsYVJ2RkczM1JCeEFIc0l5cmxKeXFlZDdmeV9PckhXS3p2R1lUQ2swSzVVMllyQ2d2c1k5WU1fYVVYVm8zSXhrcWhCRHJyd2x4OEwzSGs1OGIzeGFoT19zQkVZYXpNZ0U3dWVfT29jREJBTC00SlAwXzhfWndDTDV0MzBHbEVhcVBjb0U1YVlsRDBjcExaVFVjWWRFS29XeVRkQTRGeVVQb0xXd1I2NU9hLV9QalZxZ1ZSb3R2VmlyenNTdWx6NnQyd2FIN19WWi1WUUlRUEdCSk94b2pGajlRZUllVm5tbUdQdnJXZkQ3TTN4RHVwOVRrWk5wQXZjU0lEVzY0NlhKMzFZT1B1LVI1TW9sMU1rdWxTZHNyYmoyM3hIaTJDMFR6bmJBSkZmZjRJQkV1VjNzNXJ3TjZ4ZjdreFQwX253RWZNaUFzMGhONGV0RUJMUDJmeHBTOUZJYmc5Z1dMSmN3X3ZaZ2tBUmMtWWwzLTFmXzh6bkZVQXc0YTdzckk5S1BuZGJFWUJNWG5lbHBXWjNBalpJUGZtb0UxS2RGQlY5V2hMcXQwVUE5MkhXMDFfQzd3dEk4bG00RDJxS1RhRGtCalZHcDdHTklRYU5EelBqR2RoTXdyczZrTllESTNpa1N5VVhiNjFrVWtlaXRUS0FXS3pld1JWRDN0aGU5OWtNZVhZQ0VMdkVadTJvWm9FVW9ub1cwYmRwN01JVUwxZ3k0bk1DelFGckF5bGdmMHRheTN4WVY4YUdhdjF5bzVHdFV6OFRNT01RTVJrX2hoWlJUcXh5NVR6dnotZ08xeDA2YTc3WTY5WDBvSDJwWlhjbnpRdy1INTljc09WaWM4dG5xeHNyTlE0R256WF9qelRYeHVxdV93Y1RTcVZMSzQwazdRUG1qZ3VOZ1hmZDRXYzc0eGttWnJpM0J3N1ZHdDZqOHZ0aTFKRDJsckxEQTN6dg",
-        "time": "2026-09-21 20:00:49"
       }
     ]
   },
@@ -579,10 +593,21 @@
     },
     {
       "platform": "facebook",
-      "count": 3
+      "count": 2
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
+    "youtube": [
+      {
+        "title": "【直播完整版】0923 青年三好雲林正好！劉建國政見發表｜民視快新聞｜",
+        "url": "https://www.youtube.com/watch?v=_CKPm6DTT8Y",
+        "time": "2026-09-22 19:13:46"
+      }
+    ],
     "news": [
       {
         "title": "綠委劉建國促轉型！雲林毛巾跨界美容美髮 - Yahoo新聞",
@@ -655,11 +680,6 @@
         "title": "張嘉郡 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WbjZ3SzgxeE41YVJiQm90X0hiVXpab2dZX2xKcFcyODhRUW1PWnNsVFlza3VYQkgtT2pnOW9fUUhEa200V0FxV0ZiZk0yUGY5bjgwQ1MxXzVuNGF3d1V5eVl4Tlo1T0JEUHlmaDk0NA",
         "time": "2026-09-22 08:50:03"
-      },
-      {
-        "title": "民進黨籍雲林縣長候選人劉建國，在9/20日舉行競選總本部成立大會，除了由前縣長蘇治芬擔任競總總督導，總統賴清德也親自出任競選總部主任委員，另外高雄市長陳其邁、行政院秘書長張惇涵以及前立委余天等人都來到現場力挺劉建國，現場上千名雲林鄉親與支持 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMikAhBVV95cUxNMVNPSHhaSFBBZjdmeU1xdTNqcVRYQTlmc3JBSFM1N2RtRVRKRURSSjdWX2s5XzNuSXRnTGNnREZzWTg2TUI5LWtqbXg3LVpjXzNOOVpRVEdJcHdLY3cxWUJRV0J0Wmhyck1ZRllkZE4xcXJUdjhXS3ZaT2RrSWN0dkJvRG1ZVnpqN2JfbG44UHUzQmRDOGtKZGNjcHBCal9QNk4xTm1uNXhmR09yS0pBdldZd0sxSktJRFhMaGtTUnhtMGFsWndHeGwzaWphYl9fUm9KVnZFdHNEd3VHQWxBaEdOeEZ6cmRmbS02MEFHQUhudUt6bTVEMTNzeVRYLWFDQ2hvM0JIYzQycjZkOGxxdkoybUFXeDBFRGhjNGFzVjBta3I2RlBnTzU5N1llSllDM096Tmc5WEpGMHR3NGdZVEVsYVJ2RkczM1JCeEFIc0l5cmxKeXFlZDdmeV9PckhXS3p2R1lUQ2swSzVVMllyQ2d2c1k5WU1fYVVYVm8zSXhrcWhCRHJyd2x4OEwzSGs1OGIzeGFoT19zQkVZYXpNZ0U3dWVfT29jREJBTC00SlAwXzhfWndDTDV0MzBHbEVhcVBjb0U1YVlsRDBjcExaVFVjWWRFS29XeVRkQTRGeVVQb0xXd1I2NU9hLV9QalZxZ1ZSb3R2VmlyenNTdWx6NnQyd2FIN19WWi1WUUlRUEdCSk94b2pGajlRZUllVm5tbUdQdnJXZkQ3TTN4RHVwOVRrWk5wQXZjU0lEVzY0NlhKMzFZT1B1LVI1TW9sMU1rdWxTZHNyYmoyM3hIaTJDMFR6bmJBSkZmZjRJQkV1VjNzNXJ3TjZ4ZjdreFQwX253RWZNaUFzMGhONGV0RUJMUDJmeHBTOUZJYmc5Z1dMSmN3X3ZaZ2tBUmMtWWwzLTFmXzh6bkZVQXc0YTdzckk5S1BuZGJFWUJNWG5lbHBXWjNBalpJUGZtb0UxS2RGQlY5V2hMcXQwVUE5MkhXMDFfQzd3dEk4bG00RDJxS1RhRGtCalZHcDdHTklRYU5EelBqR2RoTXdyczZrTllESTNpa1N5VVhiNjFrVWtlaXRUS0FXS3pld1JWRDN0aGU5OWtNZVhZQ0VMdkVadTJvWm9FVW9ub1cwYmRwN01JVUwxZ3k0bk1DelFGckF5bGdmMHRheTN4WVY4YUdhdjF5bzVHdFV6OFRNT01RTVJrX2hoWlJUcXh5NVR6dnotZ08xeDA2YTc3WTY5WDBvSDJwWlhjbnpRdy1INTljc09WaWM4dG5xeHNyTlE0R256WF9qelRYeHVxdV93Y1RTcVZMSzQwazdRUG1qZ3VOZ1hmZDRXYzc0eGttWnJpM0J3N1ZHdDZqOHZ0aTFKRDJsckxEQTN6dg",
-        "time": "2026-09-21 20:00:49"
       }
     ]
   },
@@ -669,7 +689,7 @@
   },
   "mention_compare_7d": {
     "張嘉郡": 119,
-    "劉建國": 247
+    "劉建國": 248
   },
   "top_news": [
     {
@@ -795,6 +815,11 @@
       "time": "2026-09-21 20:36:48"
     },
     {
+      "title": "打造斗六成中台灣AI智慧城市新典範 張嘉郡拋「育才、研發、落地」3策 | 太報 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JS0xvY2xBMkRuOW9VWUZUQ1JZZWUwREo2cFgyYmJYTW1HT3Y5LXN0Y1RRSWF0TTBBUWJIQmVIcG1nYm5HS2ptV1pMWDg3dnhkajFBdEZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-21 19:58:46"
+    },
+    {
       "title": "讓人才留斗六、讓產業進雲林 張嘉郡提「石榴育才、雲科研發、產業落地」 - 臺灣導報",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tZURfUEp1X3EtaHFNWmIxa2hwWFZFMjF1cEY4R2ZVLVBRb0hLYmY5VzNYTFlrd20tQmF5U3RHNzgxb1NQWFJaQVo5VElxQlZFZElITQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-21 19:16:02"
@@ -828,11 +853,6 @@
       "title": "蘇治芬稱三井Outlet撤資台西？ 雲林縣政府澄清「搞錯投資者」 - news.nextapple.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUVlRR1YxWmpzaWoxRDBzLWdaVmxab0Y4RkJzejNSNWFkZjVZOV9CNmVzUWlwdDA3WU9zdnlRc2txOTgyUzZCRnVJV2RPNXJWdTRFOVlCbXdwZmxJcW1WSFpHSHJPRlpjdXBncWUwSU1KekR3Q2JiOW0xTktqeTZFQ2g2Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-21 18:30:00"
-    },
-    {
-      "title": "劉建國競總成立！賴清德親任主委　蘇治芬任總督導 - ETtoday新聞雲",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0RjJHSnA1Y0NWQm41Q08tT09MU2RRN2QwSmNoYXI4Y01PNjNFNVlZc3ZGdU5mam5sTWg5VGRuSzJaSGh1WnctN25zUFRYRVlrSGVQYUhCbFYtNXZRT1HSAUtBVV95cUxNdHRwTlpvcjVMSTdYYkRPUmNRUG1NcVNHWF95ZEl3SmphSjQwZVE3cXRnWlRzQjBvMk05d19kWGtLZklVeThjSGNoWEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-21 17:45:00"
     }
   ],
   "latest_facebook_20": [
@@ -999,6 +1019,11 @@
       "time": "2026-09-21 20:36:48"
     },
     {
+      "title": "打造斗六成中台灣AI智慧城市新典範 張嘉郡拋「育才、研發、落地」3策 | 太報 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JS0xvY2xBMkRuOW9VWUZUQ1JZZWUwREo2cFgyYmJYTW1HT3Y5LXN0Y1RRSWF0TTBBUWJIQmVIcG1nYm5HS2ptV1pMWDg3dnhkajFBdEZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-21 19:58:46"
+    },
+    {
       "title": "讓人才留斗六、讓產業進雲林 張嘉郡提「石榴育才、雲科研發、產業落地」 - 臺灣導報",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tZURfUEp1X3EtaHFNWmIxa2hwWFZFMjF1cEY4R2ZVLVBRb0hLYmY5VzNYTFlrd20tQmF5U3RHNzgxb1NQWFJaQVo5VElxQlZFZElITQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-21 19:16:02"
@@ -1032,11 +1057,6 @@
       "title": "蘇治芬稱三井Outlet撤資台西？ 雲林縣政府澄清「搞錯投資者」 - news.nextapple.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUVlRR1YxWmpzaWoxRDBzLWdaVmxab0Y4RkJzejNSNWFkZjVZOV9CNmVzUWlwdDA3WU9zdnlRc2txOTgyUzZCRnVJV2RPNXJWdTRFOVlCbXdwZmxJcW1WSFpHSHJPRlpjdXBncWUwSU1KekR3Q2JiOW0xTktqeTZFQ2g2Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-21 18:30:00"
-    },
-    {
-      "title": "劉建國競總成立！賴清德親任主委　蘇治芬任總督導 - ETtoday新聞雲",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0RjJHSnA1Y0NWQm41Q08tT09MU2RRN2QwSmNoYXI4Y01PNjNFNVlZc3ZGdU5mam5sTWg5VGRuSzJaSGh1WnctN25zUFRYRVlrSGVQYUhCbFYtNXZRT1HSAUtBVV95cUxNdHRwTlpvcjVMSTdYYkRPUmNRUG1NcVNHWF95ZEl3SmphSjQwZVE3cXRnWlRzQjBvMk05d19kWGtLZklVeThjSGNoWEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-21 17:45:00"
     }
   ],
   "person_sections": {
@@ -1170,6 +1190,11 @@
           "time": "2026-09-21 20:36:48"
         },
         {
+          "title": "打造斗六成中台灣AI智慧城市新典範 張嘉郡拋「育才、研發、落地」3策 | 太報 - LINE TODAY",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JS0xvY2xBMkRuOW9VWUZUQ1JZZWUwREo2cFgyYmJYTW1HT3Y5LXN0Y1RRSWF0TTBBUWJIQmVIcG1nYm5HS2ptV1pMWDg3dnhkajFBdEZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-21 19:58:46"
+        },
+        {
           "title": "讓人才留斗六、讓產業進雲林 張嘉郡提「石榴育才、雲科研發、產業落地」 - 臺灣導報",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tZURfUEp1X3EtaHFNWmIxa2hwWFZFMjF1cEY4R2ZVLVBRb0hLYmY5VzNYTFlrd20tQmF5U3RHNzgxb1NQWFJaQVo5VElxQlZFZElITQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-21 19:16:02"
@@ -1238,11 +1263,6 @@
           "title": "擘劃斗六未來！張嘉郡建構產業落地3大支柱 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNU3JINGQyNVdzWFBHMldiSnlMRm1kdG5LblZlSkFBYWR4aWdGMlh4ZmJIQWZDVjR2SkRscWtCS0x0bTFhZmRia1JNSVpQc2w3TGlTRURjU1duc3RHa3VwWGM2Y25ZYlZyR3RWTlJHNzRiVnMyU3lIQzZmNktmNW4xYVp2UktFOUJ1NEE3VklQdGRLbXF2RW11U0pmRVIwbHRDMzhCdDQ4VER4b0RWMDJiVUNUUWhOZkVWanh4S2ZiZlplaGliS1Vna3lBVUpGeUVjeU84YmJnRnBBVV9ZTEk1Ul9EUkVJM0lhX0NLRHpKYUhUcVUzMHpwUmpUN2lmNlNBekVqWkNnMzNFRVlweWNIUTFBcjZMeDlhOXBvWDdFU0VsRHZ4VWhsM2l4WUduZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-21 13:27:43"
-        },
-        {
-          "title": "張嘉郡擘劃斗六未來 建構石榴育才、雲科研發、產業落地三支柱 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQM1pibVU1YU5xRzYxR28tNXl3alZBamotSVR4WVl2aElpcU82UFU5M3g2X1VsOWxJZUk1S0RWeHQ5cV9aTTRqQmpYR0thZ3BPbXpKc2t0NXJuMnRocW52ODZsazVjakdaNmJqcTd4eHdLWEpUVVZ1UG5TbFdvdnZKMUs5enhzcGN6aTdVdUUteVRIeWVYRjM3VzRBUmR4UGs0bmprdHMwRnI1azBIRUdYRTgxMEVVM3N5eWtIZmxraW5LTllfc1RRQ0pRYlVKcV9xeWJMVHBid0hlR3JxcnZqVzVFNjl2OFpCWm54TDhid3FicXJwTUJ6anhleHUwRUZaV3Q2OE5vcmF3Y195OWhzS0hrVkx0elI2YnloODMtUFZ1RnJNTkRMRmd5ZEVGYWtJVDl2bzhmYUh2TDd2blI0Y0VlSVVFdzJyT0VFalJBUWJfa3YxYWtfUy1zOWZPTUljMVRMRERkMG5HS09EeWMzUlV1TlVGTXVzLVFZdmVGRTc3Zng0NHFVWEtWa2l4RGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-21 13:20:05"
         }
       ]
     },
@@ -1531,11 +1551,13 @@
         "title": "許宇甄 立法委員 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMiqghBVV95cUxOcnI3RU5QZmhuaVdGQWo0WVppWHVPdm5Bb0ZhSjBjbkNkODZ3bHBnMzhkN2ZHZ09xd3pCbFRjZ1FpT2hTdFJJdkYtUUtVcFIzQmFJNmgtM0RYRG9xVk5VSkNCaWJXQ1VCY215d2FIUmZrSXgwY1BjeXdObVYzU2owMkh2WFZNemEtSkMtY2NNZWtyMTctS3ZfaGNGb1hSejl4TE50ZjRQM0lQbnNXY2hmM0tWdmExcEYyQ251Q3BpT2hTVE5hMnRrTklYcm41R3ZNRW11RTJRLVFMR2NxRHJuU3FEVnA0cTNDOG53blJLT1RRZVJRZldFNDkzUDN3SFdFZEZuR3hHTDhTNTZhWGdGcF9fMlVQUG5ZUUhnS05aTy1oZ0hIN2FRY3FVTVMwWERGTl96M1ZSdUJkWWhBN3VvZU0xcWJzaXpVZ0hzNWFIU09uSjlORno5YnVjYV9RRm5NSHNUZi14a3ZlTlB3S21NU3MyQ3NKdHRlaVlJUzdXNWFxQzFURHI5d1BYMHFSLXgzWkxBMkdMbk5jaHVaNVh1YkJLUVRFYTEzUF95ZVBnSHRMSV9MWkFCQWw3WFU0TXJBSDNMWU44Y3NVZC1FT3hpSmtzRnkyQ2JkMFF0M1k2M1lFNDh6UWZCZjcwalpHOGlRelVuMFhabzFWS3plSFJfeV9VSVN4dm5WZmdUeEZvME5naE1MS01IWnA0bzJGYWhzQndoU0Ixd3kwYV9UTi1MOFJualRDWmpScEZHRUFwbWdPV0pMZHJ3Qm1JYjZhVnhJNURYZ2FjS2RQMURaZU9MVHgxUHd2eUZTRjBuV1R5OERSbk0tWFM4RTROUmxQU09VelVqR2JMYUdHelBSMmUxRGNKcXdwelMzOFNzWEJlY2prTDc2TTFxRFcxaU82dzBMbXlROHFSelpHQVJDNWtCamxDUmVKUWh1QlZDUWVKbnB2TW02Wkd0WUJtcGV6SmlvTkhhX2d0NE1sZHZna0t5Rlg1S1k3LUFRdFJqdWFOUFNXbW1zUjlNTkdJZGVzU0FzVWtYU29GazFWN2FTd0x5RTNfemRZeXp5cjNIbEF6R1E2VHZJRFl4TjFUcG1rUDd3a1E1bGV5T0M0cFNYUGJhUEt2b3lVQ015Si1qQmg1WWZ4aTJsT3pjUVpjdVF6UVRCUHM4OE9hQ2pOWHRUbWZpRm9Tc3JpRGY2T1FLd0NxdWVYS1VxeW5FaDJkN2M0VUxQR0Y1aElSY056eC1Iay1oZW1hQjYyMFQtQUE3cGgyeDZRUDBpZVA1VUVTOHFaeWhTa3M3UUQ5VlFXclp5MWpnVGJRQl9Mdl9ucWlWdHBTNjY2aC1kVGxfRVhNaUJhMnRpTkhFRTZCUWhNS1dzaVlPUEhCaGluOWhuX1dzUVZYNDdINUZobXd2Qlhn",
         "time": "2026-09-22 07:00:34"
-      },
+      }
+    ],
+    "youtube": [
       {
-        "title": "民進黨籍雲林縣長候選人劉建國，在9/20日舉行競選總本部成立大會，除了由前縣長蘇治芬擔任競總總督導，總統賴清德也親自出任競選總部主任委員，另外高雄市長陳其邁、行政院秘書長張惇涵以及前立委余天等人都來到現場力挺劉建國，現場上千名雲林鄉親與支持 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMikAhBVV95cUxNMVNPSHhaSFBBZjdmeU1xdTNqcVRYQTlmc3JBSFM1N2RtRVRKRURSSjdWX2s5XzNuSXRnTGNnREZzWTg2TUI5LWtqbXg3LVpjXzNOOVpRVEdJcHdLY3cxWUJRV0J0Wmhyck1ZRllkZE4xcXJUdjhXS3ZaT2RrSWN0dkJvRG1ZVnpqN2JfbG44UHUzQmRDOGtKZGNjcHBCal9QNk4xTm1uNXhmR09yS0pBdldZd0sxSktJRFhMaGtTUnhtMGFsWndHeGwzaWphYl9fUm9KVnZFdHNEd3VHQWxBaEdOeEZ6cmRmbS02MEFHQUhudUt6bTVEMTNzeVRYLWFDQ2hvM0JIYzQycjZkOGxxdkoybUFXeDBFRGhjNGFzVjBta3I2RlBnTzU5N1llSllDM096Tmc5WEpGMHR3NGdZVEVsYVJ2RkczM1JCeEFIc0l5cmxKeXFlZDdmeV9PckhXS3p2R1lUQ2swSzVVMllyQ2d2c1k5WU1fYVVYVm8zSXhrcWhCRHJyd2x4OEwzSGs1OGIzeGFoT19zQkVZYXpNZ0U3dWVfT29jREJBTC00SlAwXzhfWndDTDV0MzBHbEVhcVBjb0U1YVlsRDBjcExaVFVjWWRFS29XeVRkQTRGeVVQb0xXd1I2NU9hLV9QalZxZ1ZSb3R2VmlyenNTdWx6NnQyd2FIN19WWi1WUUlRUEdCSk94b2pGajlRZUllVm5tbUdQdnJXZkQ3TTN4RHVwOVRrWk5wQXZjU0lEVzY0NlhKMzFZT1B1LVI1TW9sMU1rdWxTZHNyYmoyM3hIaTJDMFR6bmJBSkZmZjRJQkV1VjNzNXJ3TjZ4ZjdreFQwX253RWZNaUFzMGhONGV0RUJMUDJmeHBTOUZJYmc5Z1dMSmN3X3ZaZ2tBUmMtWWwzLTFmXzh6bkZVQXc0YTdzckk5S1BuZGJFWUJNWG5lbHBXWjNBalpJUGZtb0UxS2RGQlY5V2hMcXQwVUE5MkhXMDFfQzd3dEk4bG00RDJxS1RhRGtCalZHcDdHTklRYU5EelBqR2RoTXdyczZrTllESTNpa1N5VVhiNjFrVWtlaXRUS0FXS3pld1JWRDN0aGU5OWtNZVhZQ0VMdkVadTJvWm9FVW9ub1cwYmRwN01JVUwxZ3k0bk1DelFGckF5bGdmMHRheTN4WVY4YUdhdjF5bzVHdFV6OFRNT01RTVJrX2hoWlJUcXh5NVR6dnotZ08xeDA2YTc3WTY5WDBvSDJwWlhjbnpRdy1INTljc09WaWM4dG5xeHNyTlE0R256WF9qelRYeHVxdV93Y1RTcVZMSzQwazdRUG1qZ3VOZ1hmZDRXYzc0eGttWnJpM0J3N1ZHdDZqOHZ0aTFKRDJsckxEQTN6dg",
-        "time": "2026-09-21 20:00:49"
+        "title": "【直播完整版】0923 青年三好雲林正好！劉建國政見發表｜民視快新聞｜",
+        "url": "https://www.youtube.com/watch?v=_CKPm6DTT8Y",
+        "time": "2026-09-22 19:13:46"
       }
     ]
   },
@@ -1600,6 +1622,11 @@
         "title": "張麗善跨縣市相挺 許願明年柯志恩與張嘉郡一起並肩作戰 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uV2tBUGNFclliQk1iV3plMk5vTVZXR3dXTktEci1rX2M5dm5jUHM0cDluMzhSUDZ3NC1rZWVCOExscmVXSS1qVHhFajZxamNWNDNn0gFYQVVfeXFMUDJPRmNCb0FBbXl0YWRmRUptcXRORGNhMHVPeVgybldNdENBVzlqTEI5d0w4em1MWjZHTVV5dXdNd0dyNE1ib2t0ejMzd2R3YXQ4X1ZaeWNrUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-21 20:36:48"
+      },
+      {
+        "title": "打造斗六成中台灣AI智慧城市新典範 張嘉郡拋「育才、研發、落地」3策 | 太報 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JS0xvY2xBMkRuOW9VWUZUQ1JZZWUwREo2cFgyYmJYTW1HT3Y5LXN0Y1RRSWF0TTBBUWJIQmVIcG1nYm5HS2ptV1pMWDg3dnhkajFBdEZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-21 19:58:46"
       },
       {
         "title": "讓人才留斗六、讓產業進雲林 張嘉郡提「石榴育才、雲科研發、產業落地」 - 臺灣導報",
@@ -1735,11 +1762,6 @@
         "title": "張嘉郡擘劃斗六未來十年藍圖 拋「三支柱」打造中台灣AI智慧新核心 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQTnhXU19HQWc4djNTQlF6elBSOGtpUzN5aUVSVnpHZ0d4OC1saGQtMFcyMG1EUEFBN0Z6eUlvbG5TOGFWcUNvaDZjV0NRNEswNWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-21 12:46:00"
-      },
-      {
-        "title": "張嘉郡擘劃斗六未來 建構石榴育才、雲科研發、產業落地三支柱 - 上報",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zTjEyd2lXNHFfblg5Umx3ZzJQcHZwb196R200VWttZkpndk9ISkcwWllhWDRDc2t6WVhqQUJheWRvQ3FlaW9jVHlsbFlnVFJFZ1BIdy1rbVRmU3o3eWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-21 12:34:00"
       }
     ],
     "facebook": [
@@ -1946,6 +1968,11 @@
     ],
     "youtube": [
       {
+        "title": "【直播完整版】0923 青年三好雲林正好！劉建國政見發表｜民視快新聞｜",
+        "url": "https://www.youtube.com/watch?v=_CKPm6DTT8Y",
+        "time": "2026-09-22 19:13:46"
+      },
+      {
         "title": "張嘉郡拋科技教育政策 擘劃斗六未來10年-雲林新聞網",
         "url": "https://www.youtube.com/watch?v=1bzIORG2AwY",
         "time": "2026-09-21 17:22:00"
@@ -2041,6 +2068,13 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "【直播完整版】0923 青年三好雲林正好！劉建國政見發表｜民視快新聞｜",
+        "url": "https://www.youtube.com/watch?v=_CKPm6DTT8Y",
+        "time": "2026-09-22 19:13:46",
+        "platform": "youtube",
+        "risk": "綠"
+      },
       {
         "title": "綠委劉建國促轉型！雲林毛巾跨界美容美髮 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPT01XU3N5dENfdTRQVVViNVZoQi1tdnZKTS1sNDdvRUlxcGJGcFdBQVc2d09RZEJfQWdNN0xRb2VzR0ptRzlIWElyejVwMlBtTWNWR2xaaHY3ZHctbzJQUllYZ1l6dkdnWjBZM001ZDBaWFV1NHJrMGNIVDVINnN5U0x2TkFWVTFja3ZYU21sM2pRY0FXZ3ZlbGdsXzBHRm9uSklJRnp4bG5TaV91bGpHNV9xTHEtejN3S29TUzZoLWFkbmxWMTBkeDFFdnNrd3RDNXdaWTJWSXgzaGU3MzNEQzNlOGVSY1BPcHE5ak82MzV6QktSaDM1emswRFY1Y2g1cHgwbzZySVQ2NERRWUctY0VsUjFLaVA2cUFLUVBVNTdYcGNhR0I3VzBnVko?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -2144,13 +2178,6 @@
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uV2tBUGNFclliQk1iV3plMk5vTVZXR3dXTktEci1rX2M5dm5jUHM0cDluMzhSUDZ3NC1rZWVCOExscmVXSS1qVHhFajZxamNWNDNn0gFYQVVfeXFMUDJPRmNCb0FBbXl0YWRmRUptcXRORGNhMHVPeVgybldNdENBVzlqTEI5d0w4em1MWjZHTVV5dXdNd0dyNE1ib2t0ejMzd2R3YXQ4X1ZaeWNrUg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-21 20:36:48",
         "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "民進黨籍雲林縣長候選人劉建國，在9/20日舉行競選總本部成立大會，除了由前縣長蘇治芬擔任競總總督導，總統賴清德也親自出任競選總部主任委員，另外高雄市長陳其邁、行政院秘書長張惇涵以及前立委余天等人都來到現場力挺劉建國，現場上千名雲林鄉親與支持 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMikAhBVV95cUxNMVNPSHhaSFBBZjdmeU1xdTNqcVRYQTlmc3JBSFM1N2RtRVRKRURSSjdWX2s5XzNuSXRnTGNnREZzWTg2TUI5LWtqbXg3LVpjXzNOOVpRVEdJcHdLY3cxWUJRV0J0Wmhyck1ZRllkZE4xcXJUdjhXS3ZaT2RrSWN0dkJvRG1ZVnpqN2JfbG44UHUzQmRDOGtKZGNjcHBCal9QNk4xTm1uNXhmR09yS0pBdldZd0sxSktJRFhMaGtTUnhtMGFsWndHeGwzaWphYl9fUm9KVnZFdHNEd3VHQWxBaEdOeEZ6cmRmbS02MEFHQUhudUt6bTVEMTNzeVRYLWFDQ2hvM0JIYzQycjZkOGxxdkoybUFXeDBFRGhjNGFzVjBta3I2RlBnTzU5N1llSllDM096Tmc5WEpGMHR3NGdZVEVsYVJ2RkczM1JCeEFIc0l5cmxKeXFlZDdmeV9PckhXS3p2R1lUQ2swSzVVMllyQ2d2c1k5WU1fYVVYVm8zSXhrcWhCRHJyd2x4OEwzSGs1OGIzeGFoT19zQkVZYXpNZ0U3dWVfT29jREJBTC00SlAwXzhfWndDTDV0MzBHbEVhcVBjb0U1YVlsRDBjcExaVFVjWWRFS29XeVRkQTRGeVVQb0xXd1I2NU9hLV9QalZxZ1ZSb3R2VmlyenNTdWx6NnQyd2FIN19WWi1WUUlRUEdCSk94b2pGajlRZUllVm5tbUdQdnJXZkQ3TTN4RHVwOVRrWk5wQXZjU0lEVzY0NlhKMzFZT1B1LVI1TW9sMU1rdWxTZHNyYmoyM3hIaTJDMFR6bmJBSkZmZjRJQkV1VjNzNXJ3TjZ4ZjdreFQwX253RWZNaUFzMGhONGV0RUJMUDJmeHBTOUZJYmc5Z1dMSmN3X3ZaZ2tBUmMtWWwzLTFmXzh6bkZVQXc0YTdzckk5S1BuZGJFWUJNWG5lbHBXWjNBalpJUGZtb0UxS2RGQlY5V2hMcXQwVUE5MkhXMDFfQzd3dEk4bG00RDJxS1RhRGtCalZHcDdHTklRYU5EelBqR2RoTXdyczZrTllESTNpa1N5VVhiNjFrVWtlaXRUS0FXS3pld1JWRDN0aGU5OWtNZVhZQ0VMdkVadTJvWm9FVW9ub1cwYmRwN01JVUwxZ3k0bk1DelFGckF5bGdmMHRheTN4WVY4YUdhdjF5bzVHdFV6OFRNT01RTVJrX2hoWlJUcXh5NVR6dnotZ08xeDA2YTc3WTY5WDBvSDJwWlhjbnpRdy1INTljc09WaWM4dG5xeHNyTlE0R256WF9qelRYeHVxdV93Y1RTcVZMSzQwazdRUG1qZ3VOZ1hmZDRXYzc0eGttWnJpM0J3N1ZHdDZqOHZ0aTFKRDJsckxEQTN6dg",
-        "time": "2026-09-21 20:00:49",
-        "platform": "facebook",
         "risk": "綠"
       }
     ]
