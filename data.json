@@ -1,6 +1,6 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-23T11:03:35.228935+00:00",
+  "generated_at": "2026-09-23T11:21:39.028160+00:00",
   "metrics": {
     "total_24h": 19,
     "prev_24h": 22,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 307,
-    "prev": 316,
-    "growth_pct": -2.85,
-    "news": 247,
+    "total": 304,
+    "prev": 320,
+    "growth_pct": -5.0,
+    "news": 245,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -42,22 +42,18 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 247
+      "count": 245
     },
     {
       "platform": "facebook",
-      "count": 43
+      "count": 41
     },
     {
       "platform": "youtube",
-      "count": 17
+      "count": 18
     }
   ],
   "by_hour": [
-    {
-      "hour": "2026-09-22 19:00",
-      "count": 1
-    },
     {
       "hour": "2026-09-22 20:00",
       "count": 3
@@ -93,12 +89,16 @@
     {
       "hour": "2026-09-23 17:00",
       "count": 3
+    },
+    {
+      "hour": "2026-09-23 18:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
     {
       "hour": "2026-09-16 19:00",
-      "count": 11
+      "count": 7
     },
     {
       "hour": "2026-09-16 20:00",
@@ -487,6 +487,10 @@
     {
       "hour": "2026-09-23 17:00",
       "count": 3
+    },
+    {
+      "hour": "2026-09-23 18:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
@@ -495,15 +499,22 @@
       "count": 15
     },
     {
-      "platform": "facebook",
+      "platform": "youtube",
       "count": 1
     },
     {
-      "platform": "youtube",
+      "platform": "facebook",
       "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
+    "youtube": [
+      {
+        "title": "雲林縣長候選人劉建國推青年三好政策 租屋.首購.長輩同住補助-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=EL5nbF18XbU",
+        "time": "2026-09-23 18:33:10"
+      }
+    ],
     "news": [
       {
         "title": "劉建國推「青年三好?雲林正好！」 安居三三三、雲林青鬆一萬兩千點 - Yahoo新聞",
@@ -586,13 +597,6 @@
         "title": "#守護詔安客家文化薪火代代傳 #澹仔火遊客庄點亮崙背客庄 三百多年來，詔安客家在雲林落地生根，一代又一代認真打拚，為地方、為家鄉付出，也成為雲林一路向前的重要力量。 嘉郡要謝謝每一位客家鄉親，長年和我們一起顧土地、拚發展。這份對家鄉的感情與付出， - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxOZTFwekJLUDE0X18zNVAwQnFjYWJSY1Jzdm1aeHZ2U2FSTlQydHd6aEU2VzJkQm5GMEtzZ2JGQzJlTTNoeGlUdTZMQXl6WGNveEU0amViNy1NWFB6OUFSa3NwNTlGbTVEWDMzYTJNOWh5Q2RxR2VXbnI3c2xValluM0tRTGlTVHBGWUhnTHdHN3cxNGMxamx3NWxKZ1dpYzlJRFlCRUNVREdJbElsT0x6MkZ4R1VXMHlQYjYtSk0yV0VER2I5QVhGTFBmSmRqaEZGZWd0NFN2cmZlTjR4ZmpxdVJxWkk2alRoR1NSaHhBZUJwN3FXTVFhd3NxLWJIMGRXamM3cXlCeUpHdGRjelpJa0NZYVloZjdvRjkyUktlbHozTXRkaHhOYzhBQUZzcl9NMHpIemV6V3pLQTg1LVAxNERSNWhQRHowSS0yZWl5cXptc0lvQnlaSHdmbzAwZnpGWmFmVGh6cEJScVFHSFVicXczSWYyQ2VLLVNMM1RjYTVfT1RmZkJheU9ZNkJRazRpQ1VsQkZlNkgtRmNnVlZVeTBhbnJfdDNkeDZ1ekg0YUY2WGZnaHVmTk1XSUs4WEI4dWIyQ2JDMmNhb0R6U1VGS1g2a2U5T1IzOTNDM3JsLUtXUDVmZUVpcF9zM0NHYUhVZUF6UGRWRUFSMFpZN25SNnVzaUstTlRVTzBlM3JXLVl5SGM2QjR4YW1tM2MwV0l1Zi0xdjBKR0htOUREVHY3aGpEYlhaOWxJcms1SWxjT3UxTlJHUVNuV1JBbzRmM2FqMmhMTm1HTGhZQlBSalhXTGkzRWtNOEVJMTI0SVhYMWVPMFR2bWlkaGV0ZFNkZFBES2lCYlRSNFFKMnh2ZlZabTRGamJtb2gwVGw2MW5DYUdvaVNobjFZMVdlQlNqWTJua190Q0lFQV9RVEZtQmpJRXZCWFIybzZDV25LdDMzZU42UjBOek90TG9qV2RqT09RNDVFUElDTWlIV0ZOMEhydEtIR3FfeFN4azRiQ3JEZTRfanhjWlcwX3dJUlJ3QWMwXzd3YXoxTDVwaUl3aEdWMXBnM3ZTODBTUkQtZnNYOTJid3dzbUxyalQxcm94R1ZVNmgtcjR3WnZpZk9OekdSdnhpY1VPV1JvZkxaTlQzellSZFpBQ2ZOY3NMQWI1VjdTRHREd2FDVnRZZC1fTjB5d1hRaU5KWVdSdjJIQjFWci1PVUs5ckJBNVY3Y3V4SWZOdVhLejNZSElqTk1WZDRodGdRdUpodnRfdU1NQzB6MW5vdGkwWTk3THp5V3NBNlVfUFFTamlkdzlnQWlrczZ3RmNELVh4LUdZWlhSVmQ1cVdfTm9yaW9TSlJhVERydEk3LVN6Y0k1Z1J6U0NicDMxRWpnc1VwdWNOM3E5aE5hMGZ1V21TMFI5djhIOUpULWM",
         "time": "2026-09-23 08:55:55"
-      }
-    ],
-    "youtube": [
-      {
-        "title": "【直播完整版】0923 青年三好雲林正好！劉建國政見發表｜民視快新聞｜",
-        "url": "https://www.youtube.com/watch?v=_CKPm6DTT8Y",
-        "time": "2026-09-22 19:13:46"
       }
     ]
   },
@@ -602,15 +606,22 @@
       "count": 15
     },
     {
-      "platform": "facebook",
+      "platform": "youtube",
       "count": 1
     },
     {
-      "platform": "youtube",
+      "platform": "facebook",
       "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
+    "youtube": [
+      {
+        "title": "雲林縣長候選人劉建國推青年三好政策 租屋.首購.長輩同住補助-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=EL5nbF18XbU",
+        "time": "2026-09-23 18:33:10"
+      }
+    ],
     "news": [
       {
         "title": "劉建國推「青年三好?雲林正好！」 安居三三三、雲林青鬆一萬兩千點 - Yahoo新聞",
@@ -694,13 +705,6 @@
         "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxOZTFwekJLUDE0X18zNVAwQnFjYWJSY1Jzdm1aeHZ2U2FSTlQydHd6aEU2VzJkQm5GMEtzZ2JGQzJlTTNoeGlUdTZMQXl6WGNveEU0amViNy1NWFB6OUFSa3NwNTlGbTVEWDMzYTJNOWh5Q2RxR2VXbnI3c2xValluM0tRTGlTVHBGWUhnTHdHN3cxNGMxamx3NWxKZ1dpYzlJRFlCRUNVREdJbElsT0x6MkZ4R1VXMHlQYjYtSk0yV0VER2I5QVhGTFBmSmRqaEZGZWd0NFN2cmZlTjR4ZmpxdVJxWkk2alRoR1NSaHhBZUJwN3FXTVFhd3NxLWJIMGRXamM3cXlCeUpHdGRjelpJa0NZYVloZjdvRjkyUktlbHozTXRkaHhOYzhBQUZzcl9NMHpIemV6V3pLQTg1LVAxNERSNWhQRHowSS0yZWl5cXptc0lvQnlaSHdmbzAwZnpGWmFmVGh6cEJScVFHSFVicXczSWYyQ2VLLVNMM1RjYTVfT1RmZkJheU9ZNkJRazRpQ1VsQkZlNkgtRmNnVlZVeTBhbnJfdDNkeDZ1ekg0YUY2WGZnaHVmTk1XSUs4WEI4dWIyQ2JDMmNhb0R6U1VGS1g2a2U5T1IzOTNDM3JsLUtXUDVmZUVpcF9zM0NHYUhVZUF6UGRWRUFSMFpZN25SNnVzaUstTlRVTzBlM3JXLVl5SGM2QjR4YW1tM2MwV0l1Zi0xdjBKR0htOUREVHY3aGpEYlhaOWxJcms1SWxjT3UxTlJHUVNuV1JBbzRmM2FqMmhMTm1HTGhZQlBSalhXTGkzRWtNOEVJMTI0SVhYMWVPMFR2bWlkaGV0ZFNkZFBES2lCYlRSNFFKMnh2ZlZabTRGamJtb2gwVGw2MW5DYUdvaVNobjFZMVdlQlNqWTJua190Q0lFQV9RVEZtQmpJRXZCWFIybzZDV25LdDMzZU42UjBOek90TG9qV2RqT09RNDVFUElDTWlIV0ZOMEhydEtIR3FfeFN4azRiQ3JEZTRfanhjWlcwX3dJUlJ3QWMwXzd3YXoxTDVwaUl3aEdWMXBnM3ZTODBTUkQtZnNYOTJid3dzbUxyalQxcm94R1ZVNmgtcjR3WnZpZk9OekdSdnhpY1VPV1JvZkxaTlQzellSZFpBQ2ZOY3NMQWI1VjdTRHREd2FDVnRZZC1fTjB5d1hRaU5KWVdSdjJIQjFWci1PVUs5ckJBNVY3Y3V4SWZOdVhLejNZSElqTk1WZDRodGdRdUpodnRfdU1NQzB6MW5vdGkwWTk3THp5V3NBNlVfUFFTamlkdzlnQWlrczZ3RmNELVh4LUdZWlhSVmQ1cVdfTm9yaW9TSlJhVERydEk3LVN6Y0k1Z1J6U0NicDMxRWpnc1VwdWNOM3E5aE5hMGZ1V21TMFI5djhIOUpULWM",
         "time": "2026-09-23 08:55:55"
       }
-    ],
-    "youtube": [
-      {
-        "title": "【直播完整版】0923 青年三好雲林正好！劉建國政見發表｜民視快新聞｜",
-        "url": "https://www.youtube.com/watch?v=_CKPm6DTT8Y",
-        "time": "2026-09-22 19:13:46"
-      }
     ]
   },
   "mention_compare_24h": {
@@ -709,7 +713,7 @@
   },
   "mention_compare_7d": {
     "張嘉郡": 98,
-    "劉建國": 199
+    "劉建國": 196
   },
   "top_news": [
     {
@@ -1573,6 +1577,11 @@
     ],
     "youtube": [
       {
+        "title": "雲林縣長候選人劉建國推青年三好政策 租屋.首購.長輩同住補助-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=EL5nbF18XbU",
+        "time": "2026-09-23 18:33:10"
+      },
+      {
         "title": "性騷移送懲戒近一年進度不明？范雲要求：不讓個別律師行為，傷害整體律師尊嚴！",
         "url": "https://www.youtube.com/watch?v=ZftIGCpYV3Y",
         "time": "2026-09-23 16:00:08"
@@ -1581,11 +1590,6 @@
         "title": "范雲回應川習會：台美的民主價值、安全經濟利益跨越黨派！",
         "url": "https://www.youtube.com/shorts/wrm7Yx8VO54",
         "time": "2026-09-22 20:09:21"
-      },
-      {
-        "title": "【直播完整版】0923 青年三好雲林正好！劉建國政見發表｜民視快新聞｜",
-        "url": "https://www.youtube.com/watch?v=_CKPm6DTT8Y",
-        "time": "2026-09-22 19:13:46"
       }
     ],
     "facebook": [
@@ -2003,6 +2007,11 @@
     ],
     "youtube": [
       {
+        "title": "雲林縣長候選人劉建國推青年三好政策 租屋.首購.長輩同住補助-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=EL5nbF18XbU",
+        "time": "2026-09-23 18:33:10"
+      },
+      {
         "title": "性騷移送懲戒近一年進度不明？范雲要求：不讓個別律師行為，傷害整體律師尊嚴！",
         "url": "https://www.youtube.com/watch?v=ZftIGCpYV3Y",
         "time": "2026-09-23 16:00:08"
@@ -2093,6 +2102,13 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "雲林縣長候選人劉建國推青年三好政策 租屋.首購.長輩同住補助-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=EL5nbF18XbU",
+        "time": "2026-09-23 18:33:10",
+        "platform": "youtube",
+        "risk": "綠"
+      },
       {
         "title": "劉建國推「青年三好?雲林正好！」 安居三三三、雲林青鬆一萬兩千點 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPMm1hNlpSUWd2YlcyeGx6ZHgwOFhBNGZOeS00SnlfNXg4UjFTR0UtVU1mRXhtaVdNUnZEZDB2QmZpeUFXS0dxd1NVV1ZvQ2N4b05SajdZcGVOcFlkTTRWRXk3cjUtUF9zdVU2SUxhUFYtQ2dYMTFqXzZJNnRHT1JFMGcxWHV6M0lLbTFaZWY4S2pxTUlsS1BJeWd4UkQ4NGdEVDE0RXFCV0xfeUpmT2VzOUFzcndzemVnd2NHbnRLZWFCY3hlZndsLWdXdmI0aGRsSEJwaGpoQWxpYi1mVlFjS0dLd1ZQNmpUZHF4X2ZqYWpkTi1uSG9YQzduSjdXckdPWUpJWDJYbDFVNVRESXVJYzFyMXJLRmFrTWhoRXlVZUhXZjlmSC1NV1JFajhuVE8yUkdKMFJheTZ6ejhBZUZpeUxfaHliSUhPVlUxbEVzTDFyUm5N?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -2216,13 +2232,6 @@
         "title": "范雲回應川習會：台美的民主價值、安全經濟利益跨越黨派！",
         "url": "https://www.youtube.com/shorts/wrm7Yx8VO54",
         "time": "2026-09-22 20:09:21",
-        "platform": "youtube",
-        "risk": "綠"
-      },
-      {
-        "title": "【直播完整版】0923 青年三好雲林正好！劉建國政見發表｜民視快新聞｜",
-        "url": "https://www.youtube.com/watch?v=_CKPm6DTT8Y",
-        "time": "2026-09-22 19:13:46",
         "platform": "youtube",
         "risk": "綠"
       }
