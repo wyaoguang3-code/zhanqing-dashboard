@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-23T12:24:56.147015+00:00",
+  "generated_at": "2026-09-23T12:40:44.101471+00:00",
   "metrics": {
-    "total_24h": 18,
-    "prev_24h": 21,
-    "growth_pct": -14.29,
-    "news_24h": 15,
+    "total_24h": 20,
+    "prev_24h": 22,
+    "growth_pct": -9.09,
+    "news_24h": 17,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 294,
-    "prev": 329,
-    "growth_pct": -10.64,
-    "news": 239,
+    "total": 297,
+    "prev": 330,
+    "growth_pct": -10.0,
+    "news": 243,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 15
+      "count": 17
     },
     {
       "platform": "youtube",
@@ -42,11 +42,11 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 239
+      "count": 243
     },
     {
       "platform": "facebook",
-      "count": 37
+      "count": 36
     },
     {
       "platform": "youtube",
@@ -54,10 +54,6 @@
     }
   ],
   "by_hour": [
-    {
-      "hour": "2026-09-22 20:00",
-      "count": 2
-    },
     {
       "hour": "2026-09-23 00:00",
       "count": 1
@@ -84,21 +80,25 @@
     },
     {
       "hour": "2026-09-23 16:00",
-      "count": 4
+      "count": 6
     },
     {
       "hour": "2026-09-23 17:00",
-      "count": 3
+      "count": 4
     },
     {
       "hour": "2026-09-23 18:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-09-23 19:00",
       "count": 1
     }
   ],
   "by_hour_7d": [
     {
       "hour": "2026-09-16 20:00",
-      "count": 4
+      "count": 3
     },
     {
       "hour": "2026-09-16 21:00",
@@ -478,21 +478,25 @@
     },
     {
       "hour": "2026-09-23 16:00",
-      "count": 4
+      "count": 6
     },
     {
       "hour": "2026-09-23 17:00",
-      "count": 3
+      "count": 4
     },
     {
       "hour": "2026-09-23 18:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-09-23 19:00",
       "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 15
+      "count": 17
     },
     {
       "platform": "youtube",
@@ -504,14 +508,12 @@
     }
   ],
   "mention_latest_by_platform_24h": {
-    "youtube": [
-      {
-        "title": "雲林縣長候選人劉建國推青年三好政策 租屋.首購.長輩同住補助-雲林新聞網",
-        "url": "https://www.youtube.com/watch?v=EL5nbF18XbU",
-        "time": "2026-09-23 18:33:10"
-      }
-    ],
     "news": [
+      {
+        "title": "從校園到產業一條龍！張嘉郡提斗六三支柱　盼人才企業留在雲林 - ETtoday新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGMENBX1oySnJZX2EtMWxGVUFkeWwyVGt5c3VyR3VTeDRleUx6MVRhMTQtampMZ0FKS3k2YXFUcFJsUmpfa0lnbWRBQWxKaEI0UG45V3o0ZThTcE93T0HSAUtBVV95cUxNVW1FWUZ2UjFoQW5fNzluLVA4R2FUTndYUGltUXJDbEVXM2w2NFBRcUF6MjBHZGVwSGtmSnFUTUFJQUxQcmZkckEyQWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-23 19:12:00"
+      },
       {
         "title": "劉建國推「青年三好?雲林正好！」 安居三三三、雲林青鬆一萬兩千點 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPMm1hNlpSUWd2YlcyeGx6ZHgwOFhBNGZOeS00SnlfNXg4UjFTR0UtVU1mRXhtaVdNUnZEZDB2QmZpeUFXS0dxd1NVV1ZvQ2N4b05SajdZcGVOcFlkTTRWRXk3cjUtUF9zdVU2SUxhUFYtQ2dYMTFqXzZJNnRHT1JFMGcxWHV6M0lLbTFaZWY4S2pxTUlsS1BJeWd4UkQ4NGdEVDE0RXFCV0xfeUpmT2VzOUFzcndzemVnd2NHbnRLZWFCY3hlZndsLWdXdmI0aGRsSEJwaGpoQWxpYi1mVlFjS0dLd1ZQNmpUZHF4X2ZqYWpkTi1uSG9YQzduSjdXckdPWUpJWDJYbDFVNVRESXVJYzFyMXJLRmFrTWhoRXlVZUhXZjlmSC1NV1JFajhuVE8yUkdKMFJheTZ6ejhBZUZpeUxfaHliSUhPVlUxbEVzTDFyUm5N?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -521,6 +523,11 @@
         "title": "張嘉郡擘劃斗六未來 建構石榴育才、雲科研發、產業落地三支柱 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNME1zeEh4Uk1Pb3pqUldRUG1iVHR2WGJJRERsVXJaNW5TenpjcHF2WWZ5ZjZvNG1VTFlEMHZxZ2lhVmZHcFhtUHBPRDI5RXliNEFGRk40SjZTSGFJdUZoLWVRM0ljSWIzWDVva01KZzg5dldzd3VNYmYxb2xtNHhfUHhHM2hhbUtHTC1LY3NhZGhNLVpsYXozeFBwR1VNOEFoM0N4REEyOEItanNYTHJXSTFqVG9yWWFyRnJ1UjR6X2ZiNGlrT0VRZl84aHlRSEdYSU4tQ2ZOQ1ZVRVZGODh4U3JVZXZIaXRYS3NQSTFQSk91aEtHQ3pDdzNYQk83a2NvTm42dXFENnNhZDBwd1QxbmVsSEgxcGpTdy1KTGZVOFZmc1FNaENhRjM2RUItQnpKQ1lqRVNZd3VoU2dpcFpCZHFxQTJWOGQ4aHhPRTAtZEZvWEN1SXJYREMyX0dYMThfVU5PRXRMY3g0OFAybHNKZnVkU3djWXFCWHFsaW85ZVBnajc2NnV6ZzZvVm5GM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-23 17:34:51"
+      },
+      {
+        "title": "劉建國推「青年三好、雲林正好」3大政策打造新雲林 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOdGxyajk0MzlMVk1Wa0phNk5tbXByTUcyQzhrdWtBQ3psaUFfRlNzbmpiTDZKakI2N3VJemNsWVYyWWJlTkJFUFJ0OXJoRGVBR09yVFpXbjR5ZThrbUpRYjZVbVFwQkw2b25yX2txOGdfR0tVNVVGNjF2SmxVRkxNUnF5SXNuQktwVFczWFJJNU1UdjVWaWJzNk8xVE4wZThnNVZ2VVlHa193UXhBbmtNUGR1TVNFamtianlWQlZRSVB3TldOWHluTmcxYWplbjRybHhYZVBHWng5RlRrYUxhOWdLcTB2anBZTXYzMTdSb3hiZEpWakg2ZU40d3VQSWZGeFlsYlNJWlplb1BtUG1xME52bVFqM1JTVXE5akI1Q29GS2pGWVFGWnBNSGNNNlJUTXgxQWJmNUtzZUI2b1lIanZrb2p4Z0Z2?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-23 17:08:09"
       },
       {
         "title": "台西農會「烤香米」新品發表 張嘉郡：提升品牌價值推廣雲林農產品 - Yahoo新聞",
@@ -536,6 +543,16 @@
         "title": "台西農會成功行銷烤玉米 張嘉郡扮推手再續前緣推烤香米 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOZzhFMHJja0t4VndSM2l6NVVJWE5VQmN2WUJlWjRqVmZHUWdYcDlFcDVNQWp1THBWOG9TZXhUY1hpb0w2Q3ZYOWVIZU9KRElvLTE4ZnUyZ3A0eE9XclM4dUQ5eFRSVkVfbEVZRDZYVG44WUo2WVlEcWhIWGRUcU5tWk9neUgtY3BOMnYxTnZmOFpEbTBpTnp2ckhCREdCbDJpa1hkOHRobGhyTTlKOTM2WF9OY1FBZU96c3VUVk0tSjNadTQ5V1ZQWVRUOS05TFJNelVXSkdwSENsbG1jZkRjcjY1eFBLMktFalhaamlzcVhJbGZpQlJ1THhJR1ZiMkpDa3FMRHZaaFNqdF9FaENSX0RvZXhyZ0xVeFkxcU9ZMElXRVRXOWRpeF9mWmZJSHpwY0IyN0RrZWRpYldsLUhxWEtDd251eXF1aVU1UU90MzNZSUJWSHRwazQ5eGVZaHcwYjl3UnI5Rk0wU1VHRl9iM2w3bTFYYWJORWQzbDhrQUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-23 16:29:12"
+      },
+      {
+        "title": "台西農會成功行銷烤玉米 張嘉郡扮推手再續前緣推烤香米 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOERnRm9HblFoWXRYX1pWMVhldGs5V013RmtQNW1FcWd4Qm5KZVdab05MeWRZQ25xZkY4WmI2TDRUcEJTbGdLMi1BMzRoS3JsWmtXTTdLbVpaNjNXd2ZpcUZ1clpHY3ZrZnZBc3JmQkJjM0FaczBaUGNRa3hBaFVwenotRXN3Q0toN1NrWA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-23 16:29:12"
+      },
+      {
+        "title": "劉建國提青年三好政策張嘉郡推廣農特產品| 政治 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QdENJZE9SR3pQRmF0WXhQTDN4YU11V2szWEJRMVNQS0RxSi1uc2lMVDZvNGtDZFJaRS0wSW0xVmJoSWNMdDVTUDlMQXh3RzhBY09FbXQzUDhJcHJzYmpN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-23 16:15:00"
       },
       {
         "title": "台西農會推「烤香米」 米、玉米、毛豆變身零食 張嘉郡助攻行銷 - UDN",
@@ -576,16 +593,13 @@
         "title": "2026雲林巾彩耕地藝術節台北暖身 劉建國媒合通路助虎尾毛巾走向新市場 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQc2hoM1ZJSlJhbWoyZFhRVXk2OGp2eXZ3YTJqOGVkUWhJYWtMRFhKQUZWbW12NjNueEgzQUdRZ3V2VkViYWltNFhFdmlQdzBUcFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-23 00:38:00"
-      },
+      }
+    ],
+    "youtube": [
       {
-        "title": "2026雲林巾彩耕地藝術節台北亮相 劉建國媒合通路讓地方產業被看見 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4aXk3dzRxRzVaTGZ5TlhHT3M2SWsyVkVPRmVVVWhsbl9lRm9CYTV4cUxvRlFYNENIN3hZUzVsQjBaQmhwSk1wMGp3R2VEWTdybkFfQS15OTNJOUxPc19JOTlDVlNiZ9IBa0FVX3lxTE1JYkphSXRzZDJNdU13U0YzVS1wX2RmQlhvOGxqY29WUldfMWlIOFYya0NQbmQ4SHNvcWxKa2VOUzlMMHZXREtFNlg2YXdGM2ZWLXRNeVZlaTdYcF9TM2xlNmM3N2FFdy15Rno0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-22 20:26:00"
-      },
-      {
-        "title": "2026雲林巾彩耕地藝術節台北亮相 劉建國媒合通路讓地方產業被看見 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNU1psdm1Id3dXRTc4eDRIVjRyd1JidkJxZzJGY1NXTjFYLWRGUjVhSGxHUmMxWm8zUGZsRWJUNXJuQXRpdjgxY24ydzNyNUkxQTZrSHVHU1lqSWVCcmNxNTFJVF94MXI3NElRclpjSFFVZHlZd1d3SkpWLXJaY2p6RF9OTHE1b3lPNnBFNVg5MHpvYVJmdXliRUxuekNxbjNFemd0STVLUVBmRW5rdF96RnVld19GTm0zUFdrUXEyaEtvY3Jzc28wUi00aENUU25jdUc0c1V1SzhiNlBtLTVIa3hHOUtyc3pTU0xrN1BPU2k2ZWJyUmN6VXpzWWtPZ3VhQW1kUFR6WExtWkxWeFlaUHBKTi16X3Vqa0pia19FTnUzOHBKdVJWd1lYd3M4U2Q2RC1la0kzZ05DSTlBMnQwZl94dExPNlZrMnVBN2hpSmF0dUhjbjJBUDEwNGxMTkxWaGtqQW1BNUl2NmNza0RwcE50M2lfc0ZndDNfemZHNUswRVdsbXdMbHpKdUxOODBfSFpnNUw3UUhUVUFaQjhIMVlEakd3Zzc4d3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-22 20:26:00"
+        "title": "雲林縣長候選人劉建國推青年三好政策 租屋.首購.長輩同住補助-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=EL5nbF18XbU",
+        "time": "2026-09-23 18:33:10"
       }
     ],
     "facebook": [
@@ -599,7 +613,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 15
+      "count": 17
     },
     {
       "platform": "youtube",
@@ -611,14 +625,12 @@
     }
   ],
   "alias_latest_by_platform_24h": {
-    "youtube": [
-      {
-        "title": "雲林縣長候選人劉建國推青年三好政策 租屋.首購.長輩同住補助-雲林新聞網",
-        "url": "https://www.youtube.com/watch?v=EL5nbF18XbU",
-        "time": "2026-09-23 18:33:10"
-      }
-    ],
     "news": [
+      {
+        "title": "從校園到產業一條龍！張嘉郡提斗六三支柱　盼人才企業留在雲林 - ETtoday新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGMENBX1oySnJZX2EtMWxGVUFkeWwyVGt5c3VyR3VTeDRleUx6MVRhMTQtampMZ0FKS3k2YXFUcFJsUmpfa0lnbWRBQWxKaEI0UG45V3o0ZThTcE93T0HSAUtBVV95cUxNVW1FWUZ2UjFoQW5fNzluLVA4R2FUTndYUGltUXJDbEVXM2w2NFBRcUF6MjBHZGVwSGtmSnFUTUFJQUxQcmZkckEyQWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-23 19:12:00"
+      },
       {
         "title": "劉建國推「青年三好?雲林正好！」 安居三三三、雲林青鬆一萬兩千點 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPMm1hNlpSUWd2YlcyeGx6ZHgwOFhBNGZOeS00SnlfNXg4UjFTR0UtVU1mRXhtaVdNUnZEZDB2QmZpeUFXS0dxd1NVV1ZvQ2N4b05SajdZcGVOcFlkTTRWRXk3cjUtUF9zdVU2SUxhUFYtQ2dYMTFqXzZJNnRHT1JFMGcxWHV6M0lLbTFaZWY4S2pxTUlsS1BJeWd4UkQ4NGdEVDE0RXFCV0xfeUpmT2VzOUFzcndzemVnd2NHbnRLZWFCY3hlZndsLWdXdmI0aGRsSEJwaGpoQWxpYi1mVlFjS0dLd1ZQNmpUZHF4X2ZqYWpkTi1uSG9YQzduSjdXckdPWUpJWDJYbDFVNVRESXVJYzFyMXJLRmFrTWhoRXlVZUhXZjlmSC1NV1JFajhuVE8yUkdKMFJheTZ6ejhBZUZpeUxfaHliSUhPVlUxbEVzTDFyUm5N?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -628,6 +640,11 @@
         "title": "張嘉郡擘劃斗六未來 建構石榴育才、雲科研發、產業落地三支柱 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNME1zeEh4Uk1Pb3pqUldRUG1iVHR2WGJJRERsVXJaNW5TenpjcHF2WWZ5ZjZvNG1VTFlEMHZxZ2lhVmZHcFhtUHBPRDI5RXliNEFGRk40SjZTSGFJdUZoLWVRM0ljSWIzWDVva01KZzg5dldzd3VNYmYxb2xtNHhfUHhHM2hhbUtHTC1LY3NhZGhNLVpsYXozeFBwR1VNOEFoM0N4REEyOEItanNYTHJXSTFqVG9yWWFyRnJ1UjR6X2ZiNGlrT0VRZl84aHlRSEdYSU4tQ2ZOQ1ZVRVZGODh4U3JVZXZIaXRYS3NQSTFQSk91aEtHQ3pDdzNYQk83a2NvTm42dXFENnNhZDBwd1QxbmVsSEgxcGpTdy1KTGZVOFZmc1FNaENhRjM2RUItQnpKQ1lqRVNZd3VoU2dpcFpCZHFxQTJWOGQ4aHhPRTAtZEZvWEN1SXJYREMyX0dYMThfVU5PRXRMY3g0OFAybHNKZnVkU3djWXFCWHFsaW85ZVBnajc2NnV6ZzZvVm5GM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-23 17:34:51"
+      },
+      {
+        "title": "劉建國推「青年三好、雲林正好」3大政策打造新雲林 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOdGxyajk0MzlMVk1Wa0phNk5tbXByTUcyQzhrdWtBQ3psaUFfRlNzbmpiTDZKakI2N3VJemNsWVYyWWJlTkJFUFJ0OXJoRGVBR09yVFpXbjR5ZThrbUpRYjZVbVFwQkw2b25yX2txOGdfR0tVNVVGNjF2SmxVRkxNUnF5SXNuQktwVFczWFJJNU1UdjVWaWJzNk8xVE4wZThnNVZ2VVlHa193UXhBbmtNUGR1TVNFamtianlWQlZRSVB3TldOWHluTmcxYWplbjRybHhYZVBHWng5RlRrYUxhOWdLcTB2anBZTXYzMTdSb3hiZEpWakg2ZU40d3VQSWZGeFlsYlNJWlplb1BtUG1xME52bVFqM1JTVXE5akI1Q29GS2pGWVFGWnBNSGNNNlJUTXgxQWJmNUtzZUI2b1lIanZrb2p4Z0Z2?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-23 17:08:09"
       },
       {
         "title": "台西農會「烤香米」新品發表 張嘉郡：提升品牌價值推廣雲林農產品 - Yahoo新聞",
@@ -643,6 +660,16 @@
         "title": "台西農會成功行銷烤玉米 張嘉郡扮推手再續前緣推烤香米 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOZzhFMHJja0t4VndSM2l6NVVJWE5VQmN2WUJlWjRqVmZHUWdYcDlFcDVNQWp1THBWOG9TZXhUY1hpb0w2Q3ZYOWVIZU9KRElvLTE4ZnUyZ3A0eE9XclM4dUQ5eFRSVkVfbEVZRDZYVG44WUo2WVlEcWhIWGRUcU5tWk9neUgtY3BOMnYxTnZmOFpEbTBpTnp2ckhCREdCbDJpa1hkOHRobGhyTTlKOTM2WF9OY1FBZU96c3VUVk0tSjNadTQ5V1ZQWVRUOS05TFJNelVXSkdwSENsbG1jZkRjcjY1eFBLMktFalhaamlzcVhJbGZpQlJ1THhJR1ZiMkpDa3FMRHZaaFNqdF9FaENSX0RvZXhyZ0xVeFkxcU9ZMElXRVRXOWRpeF9mWmZJSHpwY0IyN0RrZWRpYldsLUhxWEtDd251eXF1aVU1UU90MzNZSUJWSHRwazQ5eGVZaHcwYjl3UnI5Rk0wU1VHRl9iM2w3bTFYYWJORWQzbDhrQUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-23 16:29:12"
+      },
+      {
+        "title": "台西農會成功行銷烤玉米 張嘉郡扮推手再續前緣推烤香米 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOERnRm9HblFoWXRYX1pWMVhldGs5V013RmtQNW1FcWd4Qm5KZVdab05MeWRZQ25xZkY4WmI2TDRUcEJTbGdLMi1BMzRoS3JsWmtXTTdLbVpaNjNXd2ZpcUZ1clpHY3ZrZnZBc3JmQkJjM0FaczBaUGNRa3hBaFVwenotRXN3Q0toN1NrWA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-23 16:29:12"
+      },
+      {
+        "title": "劉建國提青年三好政策張嘉郡推廣農特產品| 政治 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QdENJZE9SR3pQRmF0WXhQTDN4YU11V2szWEJRMVNQS0RxSi1uc2lMVDZvNGtDZFJaRS0wSW0xVmJoSWNMdDVTUDlMQXh3RzhBY09FbXQzUDhJcHJzYmpN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-23 16:15:00"
       },
       {
         "title": "台西農會推「烤香米」 米、玉米、毛豆變身零食 張嘉郡助攻行銷 - UDN",
@@ -683,16 +710,13 @@
         "title": "2026雲林巾彩耕地藝術節台北暖身 劉建國媒合通路助虎尾毛巾走向新市場 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQc2hoM1ZJSlJhbWoyZFhRVXk2OGp2eXZ3YTJqOGVkUWhJYWtMRFhKQUZWbW12NjNueEgzQUdRZ3V2VkViYWltNFhFdmlQdzBUcFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-23 00:38:00"
-      },
+      }
+    ],
+    "youtube": [
       {
-        "title": "2026雲林巾彩耕地藝術節台北亮相 劉建國媒合通路讓地方產業被看見 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4aXk3dzRxRzVaTGZ5TlhHT3M2SWsyVkVPRmVVVWhsbl9lRm9CYTV4cUxvRlFYNENIN3hZUzVsQjBaQmhwSk1wMGp3R2VEWTdybkFfQS15OTNJOUxPc19JOTlDVlNiZ9IBa0FVX3lxTE1JYkphSXRzZDJNdU13U0YzVS1wX2RmQlhvOGxqY29WUldfMWlIOFYya0NQbmQ4SHNvcWxKa2VOUzlMMHZXREtFNlg2YXdGM2ZWLXRNeVZlaTdYcF9TM2xlNmM3N2FFdy15Rno0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-22 20:26:00"
-      },
-      {
-        "title": "2026雲林巾彩耕地藝術節台北亮相 劉建國媒合通路讓地方產業被看見 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNU1psdm1Id3dXRTc4eDRIVjRyd1JidkJxZzJGY1NXTjFYLWRGUjVhSGxHUmMxWm8zUGZsRWJUNXJuQXRpdjgxY24ydzNyNUkxQTZrSHVHU1lqSWVCcmNxNTFJVF94MXI3NElRclpjSFFVZHlZd1d3SkpWLXJaY2p6RF9OTHE1b3lPNnBFNVg5MHpvYVJmdXliRUxuekNxbjNFemd0STVLUVBmRW5rdF96RnVld19GTm0zUFdrUXEyaEtvY3Jzc28wUi00aENUU25jdUc0c1V1SzhiNlBtLTVIa3hHOUtyc3pTU0xrN1BPU2k2ZWJyUmN6VXpzWWtPZ3VhQW1kUFR6WExtWkxWeFlaUHBKTi16X3Vqa0pia19FTnUzOHBKdVJWd1lYd3M4U2Q2RC1la0kzZ05DSTlBMnQwZl94dExPNlZrMnVBN2hpSmF0dUhjbjJBUDEwNGxMTkxWaGtqQW1BNUl2NmNza0RwcE50M2lfc0ZndDNfemZHNUswRVdsbXdMbHpKdUxOODBfSFpnNUw3UUhUVUFaQjhIMVlEakd3Zzc4d3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-22 20:26:00"
+        "title": "雲林縣長候選人劉建國推青年三好政策 租屋.首購.長輩同住補助-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=EL5nbF18XbU",
+        "time": "2026-09-23 18:33:10"
       }
     ],
     "facebook": [
@@ -704,14 +728,19 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 6,
+    "張嘉郡": 9,
     "劉建國": 11
   },
   "mention_compare_7d": {
-    "張嘉郡": 97,
-    "劉建國": 187
+    "張嘉郡": 100,
+    "劉建國": 188
   },
   "top_news": [
+    {
+      "title": "從校園到產業一條龍！張嘉郡提斗六三支柱　盼人才企業留在雲林 - ETtoday新聞雲",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGMENBX1oySnJZX2EtMWxGVUFkeWwyVGt5c3VyR3VTeDRleUx6MVRhMTQtampMZ0FKS3k2YXFUcFJsUmpfa0lnbWRBQWxKaEI0UG45V3o0ZThTcE93T0HSAUtBVV95cUxNVW1FWUZ2UjFoQW5fNzluLVA4R2FUTndYUGltUXJDbEVXM2w2NFBRcUF6MjBHZGVwSGtmSnFUTUFJQUxQcmZkckEyQWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-23 19:12:00"
+    },
     {
       "title": "劉建國推「青年三好?雲林正好！」 安居三三三、雲林青鬆一萬兩千點 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPMm1hNlpSUWd2YlcyeGx6ZHgwOFhBNGZOeS00SnlfNXg4UjFTR0UtVU1mRXhtaVdNUnZEZDB2QmZpeUFXS0dxd1NVV1ZvQ2N4b05SajdZcGVOcFlkTTRWRXk3cjUtUF9zdVU2SUxhUFYtQ2dYMTFqXzZJNnRHT1JFMGcxWHV6M0lLbTFaZWY4S2pxTUlsS1BJeWd4UkQ4NGdEVDE0RXFCV0xfeUpmT2VzOUFzcndzemVnd2NHbnRLZWFCY3hlZndsLWdXdmI0aGRsSEJwaGpoQWxpYi1mVlFjS0dLd1ZQNmpUZHF4X2ZqYWpkTi1uSG9YQzduSjdXckdPWUpJWDJYbDFVNVRESXVJYzFyMXJLRmFrTWhoRXlVZUhXZjlmSC1NV1JFajhuVE8yUkdKMFJheTZ6ejhBZUZpeUxfaHliSUhPVlUxbEVzTDFyUm5N?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -721,6 +750,11 @@
       "title": "張嘉郡擘劃斗六未來 建構石榴育才、雲科研發、產業落地三支柱 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNME1zeEh4Uk1Pb3pqUldRUG1iVHR2WGJJRERsVXJaNW5TenpjcHF2WWZ5ZjZvNG1VTFlEMHZxZ2lhVmZHcFhtUHBPRDI5RXliNEFGRk40SjZTSGFJdUZoLWVRM0ljSWIzWDVva01KZzg5dldzd3VNYmYxb2xtNHhfUHhHM2hhbUtHTC1LY3NhZGhNLVpsYXozeFBwR1VNOEFoM0N4REEyOEItanNYTHJXSTFqVG9yWWFyRnJ1UjR6X2ZiNGlrT0VRZl84aHlRSEdYSU4tQ2ZOQ1ZVRVZGODh4U3JVZXZIaXRYS3NQSTFQSk91aEtHQ3pDdzNYQk83a2NvTm42dXFENnNhZDBwd1QxbmVsSEgxcGpTdy1KTGZVOFZmc1FNaENhRjM2RUItQnpKQ1lqRVNZd3VoU2dpcFpCZHFxQTJWOGQ4aHhPRTAtZEZvWEN1SXJYREMyX0dYMThfVU5PRXRMY3g0OFAybHNKZnVkU3djWXFCWHFsaW85ZVBnajc2NnV6ZzZvVm5GM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-23 17:34:51"
+    },
+    {
+      "title": "劉建國推「青年三好、雲林正好」3大政策打造新雲林 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOdGxyajk0MzlMVk1Wa0phNk5tbXByTUcyQzhrdWtBQ3psaUFfRlNzbmpiTDZKakI2N3VJemNsWVYyWWJlTkJFUFJ0OXJoRGVBR09yVFpXbjR5ZThrbUpRYjZVbVFwQkw2b25yX2txOGdfR0tVNVVGNjF2SmxVRkxNUnF5SXNuQktwVFczWFJJNU1UdjVWaWJzNk8xVE4wZThnNVZ2VVlHa193UXhBbmtNUGR1TVNFamtianlWQlZRSVB3TldOWHluTmcxYWplbjRybHhYZVBHWng5RlRrYUxhOWdLcTB2anBZTXYzMTdSb3hiZEpWakg2ZU40d3VQSWZGeFlsYlNJWlplb1BtUG1xME52bVFqM1JTVXE5akI1Q29GS2pGWVFGWnBNSGNNNlJUTXgxQWJmNUtzZUI2b1lIanZrb2p4Z0Z2?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-23 17:08:09"
     },
     {
       "title": "台西農會「烤香米」新品發表 張嘉郡：提升品牌價值推廣雲林農產品 - Yahoo新聞",
@@ -736,6 +770,16 @@
       "title": "台西農會成功行銷烤玉米 張嘉郡扮推手再續前緣推烤香米 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOZzhFMHJja0t4VndSM2l6NVVJWE5VQmN2WUJlWjRqVmZHUWdYcDlFcDVNQWp1THBWOG9TZXhUY1hpb0w2Q3ZYOWVIZU9KRElvLTE4ZnUyZ3A0eE9XclM4dUQ5eFRSVkVfbEVZRDZYVG44WUo2WVlEcWhIWGRUcU5tWk9neUgtY3BOMnYxTnZmOFpEbTBpTnp2ckhCREdCbDJpa1hkOHRobGhyTTlKOTM2WF9OY1FBZU96c3VUVk0tSjNadTQ5V1ZQWVRUOS05TFJNelVXSkdwSENsbG1jZkRjcjY1eFBLMktFalhaamlzcVhJbGZpQlJ1THhJR1ZiMkpDa3FMRHZaaFNqdF9FaENSX0RvZXhyZ0xVeFkxcU9ZMElXRVRXOWRpeF9mWmZJSHpwY0IyN0RrZWRpYldsLUhxWEtDd251eXF1aVU1UU90MzNZSUJWSHRwazQ5eGVZaHcwYjl3UnI5Rk0wU1VHRl9iM2w3bTFYYWJORWQzbDhrQUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-23 16:29:12"
+    },
+    {
+      "title": "台西農會成功行銷烤玉米 張嘉郡扮推手再續前緣推烤香米 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOERnRm9HblFoWXRYX1pWMVhldGs5V013RmtQNW1FcWd4Qm5KZVdab05MeWRZQ25xZkY4WmI2TDRUcEJTbGdLMi1BMzRoS3JsWmtXTTdLbVpaNjNXd2ZpcUZ1clpHY3ZrZnZBc3JmQkJjM0FaczBaUGNRa3hBaFVwenotRXN3Q0toN1NrWA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-23 16:29:12"
+    },
+    {
+      "title": "劉建國提青年三好政策張嘉郡推廣農特產品| 政治 - 中央社 CNA",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QdENJZE9SR3pQRmF0WXhQTDN4YU11V2szWEJRMVNQS0RxSi1uc2lMVDZvNGtDZFJaRS0wSW0xVmJoSWNMdDVTUDlMQXh3RzhBY09FbXQzUDhJcHJzYmpN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-23 16:15:00"
     },
     {
       "title": "台西農會推「烤香米」 米、玉米、毛豆變身零食 張嘉郡助攻行銷 - UDN",
@@ -751,29 +795,14 @@
       "title": "劉建國提「青年三好」 推安居三三三、每年1.2萬點生活補助 - 政治新聞 - PChome Online 新聞 - news.pchome.com.tw",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUmtqb1ZpYkg3RW9TYWRUN3c0YVBuczhuS3hrMDh6aFN1OU5OZmtVX3JxT2pBWjZHa085YXFxWGs0WkZ3aUtTOWFYRDgxSU1oeXZjdEQ4ckxJdWRPQzNEYnZFU0x3MVB3ZXM1ZWRpRFd6VU54LWw1VExDVE9SUmJDdFJXZ25yeTg4aWxhQ1V3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-23 15:00:13"
-    },
-    {
-      "title": "雲林青年快看！劉建國提3大政策主軸政見 3面向全曝光了 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOaUtuVUZlVC12VEVXdkQ5QlVXbVFKNE9pZ0F0cjFwdGlGa3h3WVp1UXU2anZsYWtFaXpseWVQQWwzYmdfZ0NFWWdGdDlBZDNEemVKYXhSTGYwV2VSeXp0TW1aRXFIckxtZzZJNEZmc2hyOC1fMjRpd1pMVV91SlF3UkV0NHNZWm5BYlFQOG1pQjZENjFCU0lTa0VYOFY0eHhGMmd0TVdWZlRLdzZOZmRCLUVoYkFRYzBfRjFDQnZGcG14T1NmYW4tcG8takdPUUlrTU9JYkVCTmo4OFMyMHpYTG0zRlQ5NGh1VW5JNnNzLTV6WUgyV1BOWEdHMWdTSFJXUjh4Mks2MDg2YlZmZjh2enZvVUZwX1N2T24xV0x0LTAtVXU4Tk5aNzVZOGJ0cDJURFhRMFNmTUJBR0NxS25kOXgxOENETEhCZW9oYk1SV3dvMEdEMlFZSi1MX0ZNQzBTblJDLTlobjZBUFFT?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-23 14:56:17"
-    },
-    {
-      "title": "雲林人口止跌 劉建國提3支箭︰每月租屋加碼補3000元、就業5000元 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPM3N2WkQwMGNKcnlEek9OUy1Zb1Y2akVWcm9qNUxBQXNDZFEzSWdZa185dmxYelZnYVA4aGlOQjRQajd0UEtMU3d1Ym5ZYS1ZN1A0ZWJvZW1FcldmcVp2aldySV9yeUNvNFFyU3JvUEVhbmFhV0ZnS29DaXF1U19qNlBRbHE5d1RqdHJSb291TThHQmhHN2V1QlVlTGk1cmhOR2hRdzk4b1YyQU5hWjNGczBIb0l4TzNCSlk3cjR5UDYwNHpIRzBZeFgxLVpKeDl4aGh1U3VmZHVNZ1pNZXpON2VSRW45S1BBOU5DVGMwQUYzaXp2ZzhUX3NOejdoTkVELUNnOUFQbWJmU0xjZlgzamVJZGZONlJqNkdoQlc2ZFpfb1hNZk9lQTF0QnJwd01pMV82MDZVaUpCTUZETU40c3AxMkl5MWR2QkExZ1lpc0ZfTjRoUmoyQmxvdC0wVVhpOVgwVkhtb1VYYmthYlN5dDZUbEd2bXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-23 13:47:48"
-    },
-    {
-      "title": "雲林人口止跌 劉建國提3支箭︰每月租屋加碼補3000元、就業5000元 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Jd0VJUHB2dXpQVXVOZzNRVWNHT1dZTHQ4dkJyWVBYQTVZRzdTalVQRmlwNzZjX3BkTVRfWDBHdmF5MXpRSGoxdVlqSmlhcHFQbUFkOTRDbnFObkdBbGpKaGVEbGdCaGZ0R0HSAW9BVV95cUxONG1Ud3Z4d3ltVDFsbFgtZzItM0tuVXliSFZBREJpWEZrcUZiRUNnRnI1aWdDam4yQzJ4aVZ0aEpIeTduRDdvM0dFUEpBdUwydk8wS1dOMGpveTVvMFNlRmVkWmNkVk1vZEtxVFRvRTA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-23 13:47:48"
-    },
-    {
-      "title": "從照護到AI 劉建國勾勒新雲林 - 中時新聞網",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFUHRmUjZzdWx6UjVEeElNdUdTMTc5eVNTRVhSY184Vk45RjlCQlp6YlE3Sy0xYjhibmJfSjJCVWtpcUNvSmozdnlwRFY4M1Q4dHV1Q0RwUHZ6SjdqMXNhUFpSeVpRYVQxeklr?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-23 04:10:00"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "從校園到產業一條龍！張嘉郡提斗六三支柱　盼人才企業留在雲林 - ETtoday新聞雲",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGMENBX1oySnJZX2EtMWxGVUFkeWwyVGt5c3VyR3VTeDRleUx6MVRhMTQtampMZ0FKS3k2YXFUcFJsUmpfa0lnbWRBQWxKaEI0UG45V3o0ZThTcE93T0HSAUtBVV95cUxNVW1FWUZ2UjFoQW5fNzluLVA4R2FUTndYUGltUXJDbEVXM2w2NFBRcUF6MjBHZGVwSGtmSnFUTUFJQUxQcmZkckEyQWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-23 19:12:00"
+    },
     {
       "title": "劉建國推「青年三好?雲林正好！」 安居三三三、雲林青鬆一萬兩千點 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPMm1hNlpSUWd2YlcyeGx6ZHgwOFhBNGZOeS00SnlfNXg4UjFTR0UtVU1mRXhtaVdNUnZEZDB2QmZpeUFXS0dxd1NVV1ZvQ2N4b05SajdZcGVOcFlkTTRWRXk3cjUtUF9zdVU2SUxhUFYtQ2dYMTFqXzZJNnRHT1JFMGcxWHV6M0lLbTFaZWY4S2pxTUlsS1BJeWd4UkQ4NGdEVDE0RXFCV0xfeUpmT2VzOUFzcndzemVnd2NHbnRLZWFCY3hlZndsLWdXdmI0aGRsSEJwaGpoQWxpYi1mVlFjS0dLd1ZQNmpUZHF4X2ZqYWpkTi1uSG9YQzduSjdXckdPWUpJWDJYbDFVNVRESXVJYzFyMXJLRmFrTWhoRXlVZUhXZjlmSC1NV1JFajhuVE8yUkdKMFJheTZ6ejhBZUZpeUxfaHliSUhPVlUxbEVzTDFyUm5N?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -783,6 +812,11 @@
       "title": "張嘉郡擘劃斗六未來 建構石榴育才、雲科研發、產業落地三支柱 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNME1zeEh4Uk1Pb3pqUldRUG1iVHR2WGJJRERsVXJaNW5TenpjcHF2WWZ5ZjZvNG1VTFlEMHZxZ2lhVmZHcFhtUHBPRDI5RXliNEFGRk40SjZTSGFJdUZoLWVRM0ljSWIzWDVva01KZzg5dldzd3VNYmYxb2xtNHhfUHhHM2hhbUtHTC1LY3NhZGhNLVpsYXozeFBwR1VNOEFoM0N4REEyOEItanNYTHJXSTFqVG9yWWFyRnJ1UjR6X2ZiNGlrT0VRZl84aHlRSEdYSU4tQ2ZOQ1ZVRVZGODh4U3JVZXZIaXRYS3NQSTFQSk91aEtHQ3pDdzNYQk83a2NvTm42dXFENnNhZDBwd1QxbmVsSEgxcGpTdy1KTGZVOFZmc1FNaENhRjM2RUItQnpKQ1lqRVNZd3VoU2dpcFpCZHFxQTJWOGQ4aHhPRTAtZEZvWEN1SXJYREMyX0dYMThfVU5PRXRMY3g0OFAybHNKZnVkU3djWXFCWHFsaW85ZVBnajc2NnV6ZzZvVm5GM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-23 17:34:51"
+    },
+    {
+      "title": "劉建國推「青年三好、雲林正好」3大政策打造新雲林 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOdGxyajk0MzlMVk1Wa0phNk5tbXByTUcyQzhrdWtBQ3psaUFfRlNzbmpiTDZKakI2N3VJemNsWVYyWWJlTkJFUFJ0OXJoRGVBR09yVFpXbjR5ZThrbUpRYjZVbVFwQkw2b25yX2txOGdfR0tVNVVGNjF2SmxVRkxNUnF5SXNuQktwVFczWFJJNU1UdjVWaWJzNk8xVE4wZThnNVZ2VVlHa193UXhBbmtNUGR1TVNFamtianlWQlZRSVB3TldOWHluTmcxYWplbjRybHhYZVBHWng5RlRrYUxhOWdLcTB2anBZTXYzMTdSb3hiZEpWakg2ZU40d3VQSWZGeFlsYlNJWlplb1BtUG1xME52bVFqM1JTVXE5akI1Q29GS2pGWVFGWnBNSGNNNlJUTXgxQWJmNUtzZUI2b1lIanZrb2p4Z0Z2?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-23 17:08:09"
     },
     {
       "title": "台西農會「烤香米」新品發表 張嘉郡：提升品牌價值推廣雲林農產品 - Yahoo新聞",
@@ -798,6 +832,16 @@
       "title": "台西農會成功行銷烤玉米 張嘉郡扮推手再續前緣推烤香米 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOZzhFMHJja0t4VndSM2l6NVVJWE5VQmN2WUJlWjRqVmZHUWdYcDlFcDVNQWp1THBWOG9TZXhUY1hpb0w2Q3ZYOWVIZU9KRElvLTE4ZnUyZ3A0eE9XclM4dUQ5eFRSVkVfbEVZRDZYVG44WUo2WVlEcWhIWGRUcU5tWk9neUgtY3BOMnYxTnZmOFpEbTBpTnp2ckhCREdCbDJpa1hkOHRobGhyTTlKOTM2WF9OY1FBZU96c3VUVk0tSjNadTQ5V1ZQWVRUOS05TFJNelVXSkdwSENsbG1jZkRjcjY1eFBLMktFalhaamlzcVhJbGZpQlJ1THhJR1ZiMkpDa3FMRHZaaFNqdF9FaENSX0RvZXhyZ0xVeFkxcU9ZMElXRVRXOWRpeF9mWmZJSHpwY0IyN0RrZWRpYldsLUhxWEtDd251eXF1aVU1UU90MzNZSUJWSHRwazQ5eGVZaHcwYjl3UnI5Rk0wU1VHRl9iM2w3bTFYYWJORWQzbDhrQUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-23 16:29:12"
+    },
+    {
+      "title": "台西農會成功行銷烤玉米 張嘉郡扮推手再續前緣推烤香米 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOERnRm9HblFoWXRYX1pWMVhldGs5V013RmtQNW1FcWd4Qm5KZVdab05MeWRZQ25xZkY4WmI2TDRUcEJTbGdLMi1BMzRoS3JsWmtXTTdLbVpaNjNXd2ZpcUZ1clpHY3ZrZnZBc3JmQkJjM0FaczBaUGNRa3hBaFVwenotRXN3Q0toN1NrWA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-23 16:29:12"
+    },
+    {
+      "title": "劉建國提青年三好政策張嘉郡推廣農特產品| 政治 - 中央社 CNA",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QdENJZE9SR3pQRmF0WXhQTDN4YU11V2szWEJRMVNQS0RxSi1uc2lMVDZvNGtDZFJaRS0wSW0xVmJoSWNMdDVTUDlMQXh3RzhBY09FbXQzUDhJcHJzYmpN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-23 16:15:00"
     },
     {
       "title": "台西農會推「烤香米」 米、玉米、毛豆變身零食 張嘉郡助攻行銷 - UDN",
@@ -853,26 +897,6 @@
       "title": "綠委劉建國促轉型！雲林毛巾跨界美容美髮 | NOWNEWS今日新聞 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QYWZjNnViWi1rY0F0Qm1ab3FOWUFicmhhbHF4VkhpbWRTSzVDN043SG1uanloTlJrckY2ZXF6MnlBQkpCbk5YZzgyRE9LSUpNZUVrZGhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-22 18:32:52"
-    },
-    {
-      "title": "綠委劉建國促轉型！雲林毛巾跨界美容美髮 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPT01XU3N5dENfdTRQVVViNVZoQi1tdnZKTS1sNDdvRUlxcGJGcFdBQVc2d09RZEJfQWdNN0xRb2VzR0ptRzlIWElyejVwMlBtTWNWR2xaaHY3ZHctbzJQUllYZ1l6dkdnWjBZM001ZDBaWFV1NHJrMGNIVDVINnN5U0x2TkFWVTFja3ZYU21sM2pRY0FXZ3ZlbGdsXzBHRm9uSklJRnp4bG5TaV91bGpHNV9xTHEtejN3S29TUzZoLWFkbmxWMTBkeDFFdnNrd3RDNXdaWTJWSXgzaGU3MzNEQzNlOGVSY1BPcHE5ak82MzV6QktSaDM1emswRFY1Y2g1cHgwbzZySVQ2NERRWUctY0VsUjFLaVA2cUFLUVBVNTdYcGNhR0I3VzBnVko?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-22 17:58:01"
-    },
-    {
-      "title": "綠委劉建國促轉型！雲林毛巾跨界美容美髮 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSmdxUEZnSU5rT3dOTm5mRzZRaGg5d1NfUEI0Y245OVJXazVQRmRHUDhoQnN1OHFLMUg0SjJZajlpR2JSYUxmNzN4TXVIc0xSMEItSVYySVdNOXdseXJ1eEpMUEVTbXl6TFpyYy1YendwbU8zWTlGUE5OdE5BcnRNLW41WmxEZ3h5cTVYMw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-22 17:58:01"
-    },
-    {
-      "title": "讓虎尾毛巾被看見！劉建國牽線跨界拓通路 周遊驚喜現身力挺 | 民視新聞網 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xbWY5NlJmdzNiWWhsRkFUNm9kQ1ZHZzBYUC00VWhmeWhKcUp4cE1SYVctX0JsYlpqTVZkR1dudjZoc2Z3SnFFZnFNX2N0b3Yya1BGdHV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-22 17:00:23"
-    },
-    {
-      "title": "劉建國競選總部成立 賴清德任主委提三大理由力挺 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVeUlETDh4THZQZHpKRE85MklEWnpJXzZTWUVndWtVVDlpdzB0UDhTMVhhaE1rY3JZcERITFpKZXBWeVpBQ1VwZDBZaGQ1bk9JRVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-22 08:21:00"
     }
   ],
   "latest_facebook_20": [
@@ -979,6 +1003,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "從校園到產業一條龍！張嘉郡提斗六三支柱　盼人才企業留在雲林 - ETtoday新聞雲",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGMENBX1oySnJZX2EtMWxGVUFkeWwyVGt5c3VyR3VTeDRleUx6MVRhMTQtampMZ0FKS3k2YXFUcFJsUmpfa0lnbWRBQWxKaEI0UG45V3o0ZThTcE93T0HSAUtBVV95cUxNVW1FWUZ2UjFoQW5fNzluLVA4R2FUTndYUGltUXJDbEVXM2w2NFBRcUF6MjBHZGVwSGtmSnFUTUFJQUxQcmZkckEyQWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-23 19:12:00"
+    },
+    {
       "title": "劉建國推「青年三好?雲林正好！」 安居三三三、雲林青鬆一萬兩千點 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPMm1hNlpSUWd2YlcyeGx6ZHgwOFhBNGZOeS00SnlfNXg4UjFTR0UtVU1mRXhtaVdNUnZEZDB2QmZpeUFXS0dxd1NVV1ZvQ2N4b05SajdZcGVOcFlkTTRWRXk3cjUtUF9zdVU2SUxhUFYtQ2dYMTFqXzZJNnRHT1JFMGcxWHV6M0lLbTFaZWY4S2pxTUlsS1BJeWd4UkQ4NGdEVDE0RXFCV0xfeUpmT2VzOUFzcndzemVnd2NHbnRLZWFCY3hlZndsLWdXdmI0aGRsSEJwaGpoQWxpYi1mVlFjS0dLd1ZQNmpUZHF4X2ZqYWpkTi1uSG9YQzduSjdXckdPWUpJWDJYbDFVNVRESXVJYzFyMXJLRmFrTWhoRXlVZUhXZjlmSC1NV1JFajhuVE8yUkdKMFJheTZ6ejhBZUZpeUxfaHliSUhPVlUxbEVzTDFyUm5N?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-23 17:36:09"
@@ -987,6 +1016,11 @@
       "title": "張嘉郡擘劃斗六未來 建構石榴育才、雲科研發、產業落地三支柱 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNME1zeEh4Uk1Pb3pqUldRUG1iVHR2WGJJRERsVXJaNW5TenpjcHF2WWZ5ZjZvNG1VTFlEMHZxZ2lhVmZHcFhtUHBPRDI5RXliNEFGRk40SjZTSGFJdUZoLWVRM0ljSWIzWDVva01KZzg5dldzd3VNYmYxb2xtNHhfUHhHM2hhbUtHTC1LY3NhZGhNLVpsYXozeFBwR1VNOEFoM0N4REEyOEItanNYTHJXSTFqVG9yWWFyRnJ1UjR6X2ZiNGlrT0VRZl84aHlRSEdYSU4tQ2ZOQ1ZVRVZGODh4U3JVZXZIaXRYS3NQSTFQSk91aEtHQ3pDdzNYQk83a2NvTm42dXFENnNhZDBwd1QxbmVsSEgxcGpTdy1KTGZVOFZmc1FNaENhRjM2RUItQnpKQ1lqRVNZd3VoU2dpcFpCZHFxQTJWOGQ4aHhPRTAtZEZvWEN1SXJYREMyX0dYMThfVU5PRXRMY3g0OFAybHNKZnVkU3djWXFCWHFsaW85ZVBnajc2NnV6ZzZvVm5GM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-23 17:34:51"
+    },
+    {
+      "title": "劉建國推「青年三好、雲林正好」3大政策打造新雲林 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOdGxyajk0MzlMVk1Wa0phNk5tbXByTUcyQzhrdWtBQ3psaUFfRlNzbmpiTDZKakI2N3VJemNsWVYyWWJlTkJFUFJ0OXJoRGVBR09yVFpXbjR5ZThrbUpRYjZVbVFwQkw2b25yX2txOGdfR0tVNVVGNjF2SmxVRkxNUnF5SXNuQktwVFczWFJJNU1UdjVWaWJzNk8xVE4wZThnNVZ2VVlHa193UXhBbmtNUGR1TVNFamtianlWQlZRSVB3TldOWHluTmcxYWplbjRybHhYZVBHWng5RlRrYUxhOWdLcTB2anBZTXYzMTdSb3hiZEpWakg2ZU40d3VQSWZGeFlsYlNJWlplb1BtUG1xME52bVFqM1JTVXE5akI1Q29GS2pGWVFGWnBNSGNNNlJUTXgxQWJmNUtzZUI2b1lIanZrb2p4Z0Z2?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-23 17:08:09"
     },
     {
       "title": "台西農會「烤香米」新品發表 張嘉郡：提升品牌價值推廣雲林農產品 - Yahoo新聞",
@@ -1002,6 +1036,16 @@
       "title": "台西農會成功行銷烤玉米 張嘉郡扮推手再續前緣推烤香米 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOZzhFMHJja0t4VndSM2l6NVVJWE5VQmN2WUJlWjRqVmZHUWdYcDlFcDVNQWp1THBWOG9TZXhUY1hpb0w2Q3ZYOWVIZU9KRElvLTE4ZnUyZ3A0eE9XclM4dUQ5eFRSVkVfbEVZRDZYVG44WUo2WVlEcWhIWGRUcU5tWk9neUgtY3BOMnYxTnZmOFpEbTBpTnp2ckhCREdCbDJpa1hkOHRobGhyTTlKOTM2WF9OY1FBZU96c3VUVk0tSjNadTQ5V1ZQWVRUOS05TFJNelVXSkdwSENsbG1jZkRjcjY1eFBLMktFalhaamlzcVhJbGZpQlJ1THhJR1ZiMkpDa3FMRHZaaFNqdF9FaENSX0RvZXhyZ0xVeFkxcU9ZMElXRVRXOWRpeF9mWmZJSHpwY0IyN0RrZWRpYldsLUhxWEtDd251eXF1aVU1UU90MzNZSUJWSHRwazQ5eGVZaHcwYjl3UnI5Rk0wU1VHRl9iM2w3bTFYYWJORWQzbDhrQUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-23 16:29:12"
+    },
+    {
+      "title": "台西農會成功行銷烤玉米 張嘉郡扮推手再續前緣推烤香米 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOERnRm9HblFoWXRYX1pWMVhldGs5V013RmtQNW1FcWd4Qm5KZVdab05MeWRZQ25xZkY4WmI2TDRUcEJTbGdLMi1BMzRoS3JsWmtXTTdLbVpaNjNXd2ZpcUZ1clpHY3ZrZnZBc3JmQkJjM0FaczBaUGNRa3hBaFVwenotRXN3Q0toN1NrWA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-23 16:29:12"
+    },
+    {
+      "title": "劉建國提青年三好政策張嘉郡推廣農特產品| 政治 - 中央社 CNA",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QdENJZE9SR3pQRmF0WXhQTDN4YU11V2szWEJRMVNQS0RxSi1uc2lMVDZvNGtDZFJaRS0wSW0xVmJoSWNMdDVTUDlMQXh3RzhBY09FbXQzUDhJcHJzYmpN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-23 16:15:00"
     },
     {
       "title": "台西農會推「烤香米」 米、玉米、毛豆變身零食 張嘉郡助攻行銷 - UDN",
@@ -1057,26 +1101,6 @@
       "title": "綠委劉建國促轉型！雲林毛巾跨界美容美髮 | NOWNEWS今日新聞 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QYWZjNnViWi1rY0F0Qm1ab3FOWUFicmhhbHF4VkhpbWRTSzVDN043SG1uanloTlJrckY2ZXF6MnlBQkpCbk5YZzgyRE9LSUpNZUVrZGhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-22 18:32:52"
-    },
-    {
-      "title": "綠委劉建國促轉型！雲林毛巾跨界美容美髮 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPT01XU3N5dENfdTRQVVViNVZoQi1tdnZKTS1sNDdvRUlxcGJGcFdBQVc2d09RZEJfQWdNN0xRb2VzR0ptRzlIWElyejVwMlBtTWNWR2xaaHY3ZHctbzJQUllYZ1l6dkdnWjBZM001ZDBaWFV1NHJrMGNIVDVINnN5U0x2TkFWVTFja3ZYU21sM2pRY0FXZ3ZlbGdsXzBHRm9uSklJRnp4bG5TaV91bGpHNV9xTHEtejN3S29TUzZoLWFkbmxWMTBkeDFFdnNrd3RDNXdaWTJWSXgzaGU3MzNEQzNlOGVSY1BPcHE5ak82MzV6QktSaDM1emswRFY1Y2g1cHgwbzZySVQ2NERRWUctY0VsUjFLaVA2cUFLUVBVNTdYcGNhR0I3VzBnVko?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-22 17:58:01"
-    },
-    {
-      "title": "綠委劉建國促轉型！雲林毛巾跨界美容美髮 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSmdxUEZnSU5rT3dOTm5mRzZRaGg5d1NfUEI0Y245OVJXazVQRmRHUDhoQnN1OHFLMUg0SjJZajlpR2JSYUxmNzN4TXVIc0xSMEItSVYySVdNOXdseXJ1eEpMUEVTbXl6TFpyYy1YendwbU8zWTlGUE5OdE5BcnRNLW41WmxEZ3h5cTVYMw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-22 17:58:01"
-    },
-    {
-      "title": "讓虎尾毛巾被看見！劉建國牽線跨界拓通路 周遊驚喜現身力挺 | 民視新聞網 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xbWY5NlJmdzNiWWhsRkFUNm9kQ1ZHZzBYUC00VWhmeWhKcUp4cE1SYVctX0JsYlpqTVZkR1dudjZoc2Z3SnFFZnFNX2N0b3Yya1BGdHV3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-22 17:00:23"
-    },
-    {
-      "title": "劉建國競選總部成立 賴清德任主委提三大理由力挺 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVeUlETDh4THZQZHpKRE85MklEWnpJXzZTWUVndWtVVDlpdzB0UDhTMVhhaE1rY3JZcERITFpKZXBWeVpBQ1VwZDBZaGQ1bk9JRVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-22 08:21:00"
     }
   ],
   "person_sections": {
@@ -1185,6 +1209,11 @@
       ],
       "news": [
         {
+          "title": "從校園到產業一條龍！張嘉郡提斗六三支柱　盼人才企業留在雲林 - ETtoday新聞雲",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGMENBX1oySnJZX2EtMWxGVUFkeWwyVGt5c3VyR3VTeDRleUx6MVRhMTQtampMZ0FKS3k2YXFUcFJsUmpfa0lnbWRBQWxKaEI0UG45V3o0ZThTcE93T0HSAUtBVV95cUxNVW1FWUZ2UjFoQW5fNzluLVA4R2FUTndYUGltUXJDbEVXM2w2NFBRcUF6MjBHZGVwSGtmSnFUTUFJQUxQcmZkckEyQWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-23 19:12:00"
+        },
+        {
           "title": "張嘉郡擘劃斗六未來 建構石榴育才、雲科研發、產業落地三支柱 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNME1zeEh4Uk1Pb3pqUldRUG1iVHR2WGJJRERsVXJaNW5TenpjcHF2WWZ5ZjZvNG1VTFlEMHZxZ2lhVmZHcFhtUHBPRDI5RXliNEFGRk40SjZTSGFJdUZoLWVRM0ljSWIzWDVva01KZzg5dldzd3VNYmYxb2xtNHhfUHhHM2hhbUtHTC1LY3NhZGhNLVpsYXozeFBwR1VNOEFoM0N4REEyOEItanNYTHJXSTFqVG9yWWFyRnJ1UjR6X2ZiNGlrT0VRZl84aHlRSEdYSU4tQ2ZOQ1ZVRVZGODh4U3JVZXZIaXRYS3NQSTFQSk91aEtHQ3pDdzNYQk83a2NvTm42dXFENnNhZDBwd1QxbmVsSEgxcGpTdy1KTGZVOFZmc1FNaENhRjM2RUItQnpKQ1lqRVNZd3VoU2dpcFpCZHFxQTJWOGQ4aHhPRTAtZEZvWEN1SXJYREMyX0dYMThfVU5PRXRMY3g0OFAybHNKZnVkU3djWXFCWHFsaW85ZVBnajc2NnV6ZzZvVm5GM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-23 17:34:51"
@@ -1198,6 +1227,16 @@
           "title": "台西農會成功行銷烤玉米 張嘉郡扮推手再續前緣推烤香米 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOZzhFMHJja0t4VndSM2l6NVVJWE5VQmN2WUJlWjRqVmZHUWdYcDlFcDVNQWp1THBWOG9TZXhUY1hpb0w2Q3ZYOWVIZU9KRElvLTE4ZnUyZ3A0eE9XclM4dUQ5eFRSVkVfbEVZRDZYVG44WUo2WVlEcWhIWGRUcU5tWk9neUgtY3BOMnYxTnZmOFpEbTBpTnp2ckhCREdCbDJpa1hkOHRobGhyTTlKOTM2WF9OY1FBZU96c3VUVk0tSjNadTQ5V1ZQWVRUOS05TFJNelVXSkdwSENsbG1jZkRjcjY1eFBLMktFalhaamlzcVhJbGZpQlJ1THhJR1ZiMkpDa3FMRHZaaFNqdF9FaENSX0RvZXhyZ0xVeFkxcU9ZMElXRVRXOWRpeF9mWmZJSHpwY0IyN0RrZWRpYldsLUhxWEtDd251eXF1aVU1UU90MzNZSUJWSHRwazQ5eGVZaHcwYjl3UnI5Rk0wU1VHRl9iM2w3bTFYYWJORWQzbDhrQUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-23 16:29:12"
+        },
+        {
+          "title": "台西農會成功行銷烤玉米 張嘉郡扮推手再續前緣推烤香米 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOERnRm9HblFoWXRYX1pWMVhldGs5V013RmtQNW1FcWd4Qm5KZVdab05MeWRZQ25xZkY4WmI2TDRUcEJTbGdLMi1BMzRoS3JsWmtXTTdLbVpaNjNXd2ZpcUZ1clpHY3ZrZnZBc3JmQkJjM0FaczBaUGNRa3hBaFVwenotRXN3Q0toN1NrWA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-23 16:29:12"
+        },
+        {
+          "title": "劉建國提青年三好政策張嘉郡推廣農特產品| 政治 - 中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QdENJZE9SR3pQRmF0WXhQTDN4YU11V2szWEJRMVNQS0RxSi1uc2lMVDZvNGtDZFJaRS0wSW0xVmJoSWNMdDVTUDlMQXh3RzhBY09FbXQzUDhJcHJzYmpN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-23 16:15:00"
         },
         {
           "title": "台西農會推「烤香米」 米、玉米、毛豆變身零食 張嘉郡助攻行銷 - UDN",
@@ -1268,21 +1307,6 @@
           "title": "張嘉郡擘劃斗六未來 石榴育才雲科研發產業落地 | 觀傳媒 - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ya2doYWNwcEdNTnpmX2NKUkZRdTBWNmtDc0R2TTZIV1pMWDl6THpvUG9oQjIxZWxjNVVpY3E0dFVzU2NvYk54dGliaTVnSFRySVVpdElB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-21 17:41:55"
-        },
-        {
-          "title": "張嘉郡擘劃斗六未來 建構石榴育才、雲科研發、產業落地三支柱 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQTC1HOW1qSmctR2gtVFhpeklqbkNWLVJJOXlBVXJNTWJnVXdwMFNSOGVYdnNxVDBmWlBUNEs5b0xtbzNJTXRhYTRxblBsSXlBRnZXZHlVT3F0dlo4WDVpTjZHSEVtaVdhT2R0LVZPUzRvMGZqaVhOQ184SXkxMVBvYUpkZ2RoWkV5bGhyM2FsbjNDaG1uZjJnLXE0UmtqQUE2OGwwVWF6bkhsc2JNWnhEOE9QdlR4dGF6VUxIU3Vpcll0YnFvMUdfZk5qV3RReEUzVjZiSU5kM2UzQ3IzZkg0T182V1ZfZnEyN2hoajRQbmlmVGR1aVg3WWpoaTluNjNDdUg1WS1ZektuN3B0X2wtUlhOMm5ERFJ3akNmdkxyVXZGNGtRcnE0c051YnJWSzFSRGtqenhBMFFRaHBUeV8tOTlzajdxWlBNX280eE1Rcm5jcTZRV05CRFowOFkzNm93X3hTZTRienZwQ3lUdzRHZFNuTUpCLVFQUmNPSHVYdFJTakR3Ni03TFlrbjBjb1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-21 17:40:48"
-        },
-        {
-          "title": "張嘉郡拋科技教育.產業雙引擎政策 擘劃斗六未來10年 - 台灣生活新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03ZC01cG81aXllaTJZY1JKYXJTNGJNN3Y4QkpyTWtUS0p4dTNwSk9MLVlGS0l6b0ZrMmtiM1VGRHhDWDlfenRONDZ3bFJIS0Rv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-21 17:39:34"
-        },
-        {
-          "title": "張嘉郡擘劃斗六未來 石榴育才雲科研發產業落地 - 觀傳媒",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BX216TGlia29aV3BMcnRPaTlzNlhUX0pyTVdiMTZTZEcyc20zWEVsNkMwamlUNi1BMWNZOVAydFFsVDFyUVduM2pFRmJTNFM1NTBnbnJDSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-21 17:30:26"
         }
       ]
     },
@@ -1396,9 +1420,19 @@
           "time": "2026-09-23 17:36:09"
         },
         {
+          "title": "劉建國推「青年三好、雲林正好」3大政策打造新雲林 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOdGxyajk0MzlMVk1Wa0phNk5tbXByTUcyQzhrdWtBQ3psaUFfRlNzbmpiTDZKakI2N3VJemNsWVYyWWJlTkJFUFJ0OXJoRGVBR09yVFpXbjR5ZThrbUpRYjZVbVFwQkw2b25yX2txOGdfR0tVNVVGNjF2SmxVRkxNUnF5SXNuQktwVFczWFJJNU1UdjVWaWJzNk8xVE4wZThnNVZ2VVlHa193UXhBbmtNUGR1TVNFamtianlWQlZRSVB3TldOWHluTmcxYWplbjRybHhYZVBHWng5RlRrYUxhOWdLcTB2anBZTXYzMTdSb3hiZEpWakg2ZU40d3VQSWZGeFlsYlNJWlplb1BtUG1xME52bVFqM1JTVXE5akI1Q29GS2pGWVFGWnBNSGNNNlJUTXgxQWJmNUtzZUI2b1lIanZrb2p4Z0Z2?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-23 17:08:09"
+        },
+        {
           "title": "解決人口流失問題! 劉建國搶青年選票 拋\"青年三好\"政策 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPT2s4MkgxeWVjNnRLSlBMa2ltam03TEVvMXlxZHVmb3N6SjZZQ09NZVYxZmV5cVA1WllVUU9QTjZxWFZycVlpX0R0MXhpVGVEbnZ6YjY3c2ctT2xKWkY1YnJ1TjhsQmctQ2NPNXR6MnpVMzZ2Z2hKbWVCTWRBNzJRTWhRWHdjUzVCQS13bkxRd0xnVERmVGQzbU9WekdxczZuS0oydUJyQVR1QmJiOGFwYkUyc0NDUnpGc0FheUNGSGt5V0V2YlZaQ2lOLS16WkVVQlA0ZG43bkVQSlQ4cnpFcVZqTXdncV9LWFBHa2licVlZM3FWMXNzY05QNncyU2xDNFVfTDVvTXVJY2QxTzBqanA1bTdRZEhjY0hxNmxEdFZrWHpWMnZrNFlrM2VkTW1jc2NWYzBZeXFSbGdvUDVTR0dTRS1TWC1xS0NzVmhJeTlOR18zTkJJa1JHa3N4d0xJNGtsWnNPOGx0WmEx?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-23 16:31:02"
+        },
+        {
+          "title": "劉建國提青年三好政策張嘉郡推廣農特產品| 政治 - 中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QdENJZE9SR3pQRmF0WXhQTDN4YU11V2szWEJRMVNQS0RxSi1uc2lMVDZvNGtDZFJaRS0wSW0xVmJoSWNMdDVTUDlMQXh3RzhBY09FbXQzUDhJcHJzYmpN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-23 16:15:00"
         },
         {
           "title": "劉建國提「青年三好」 推安居三三三、每年1.2萬點生活補助 - 政治新聞 - PChome Online 新聞 - news.pchome.com.tw",
@@ -1479,22 +1513,17 @@
           "title": "劉建國競選總部成立 賴清德任主委提三大理由力挺 - 政治新聞 - PChome Online 新聞 - PChome Online 新聞",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQU9GSjFGaWlWWF9kV0NtbHZYV3VwcFJGdkE0bm1vdGFYTThvQkc1U3dFWk1vWnRsYUlINXRRQ3JTai1Kc1N6VUtONkVfbXQza1pYYU1WcFpXd1ViLUkwN3JQM2tYQ1RuWmlJSjM4SGVqQ1FEWk9GUldjWEctZjhTZUs2ZTR2ZkpoSE90QmFhbF9NczFORkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-22 08:07:45"
-        },
-        {
-          "title": "討論牆 | 劉建國競總成立 賴清德任主委、蘇治芬任總督導拚新雲林 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tWmZTaWZYeldCbnAtZm9iVlU4TnkybzdQeTlkZnhFYUxoQVV3OThCMlFHTFlYLWhCQk5XMTNxWkE4N3hnMHpLMU9jTl9VT1JwSXNBVjJ5MFhSRVFUblNtbHZPX1A?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-22 06:24:40"
-        },
-        {
-          "title": "雲林AI育才、產業布局 劉建國、張嘉郡政見較勁 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQNGVlYXVyUG5RdFppUWF3aDdKdThGMElnWDVCeE1WWEtyYUVjQ1o1WlJ2LWhtLTJBTlZJY1NFdmVwVU9VNTNmSXZvb2hMRHg3WHRxbFNXb1ExUERvYTFDZzRHQXFQMk11R25xY2RMdF92RHlaN2hRcVQ4LS1zeDRaWF9EcXVnd2xPcENjZnNWWm5CdE1iTjJHRzFyc1dQWUo4dkJwNUZaS2FzOUlVdUZ0RHNYeWVCWmFmMGppRXJJWVNMM2hJTDMtWmJuOWZjRHlTODZnY1dabjVRVVBPWWRqSWtvRDdLZ1llRWMyUzR5dkhzNWNrazlaYkRmT2FzY0MtRE5oVk1zRGdndGFXXy1FTkZGU1Q2SWF4TFF2ZlN0RHJ1US00N09vWVROcUxrQmhKaHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-22 05:30:00"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "從校園到產業一條龍！張嘉郡提斗六三支柱　盼人才企業留在雲林 - ETtoday新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGMENBX1oySnJZX2EtMWxGVUFkeWwyVGt5c3VyR3VTeDRleUx6MVRhMTQtampMZ0FKS3k2YXFUcFJsUmpfa0lnbWRBQWxKaEI0UG45V3o0ZThTcE93T0HSAUtBVV95cUxNVW1FWUZ2UjFoQW5fNzluLVA4R2FUTndYUGltUXJDbEVXM2w2NFBRcUF6MjBHZGVwSGtmSnFUTUFJQUxQcmZkckEyQWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-23 19:12:00"
+      },
       {
         "title": "劉建國推「青年三好?雲林正好！」 安居三三三、雲林青鬆一萬兩千點 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPMm1hNlpSUWd2YlcyeGx6ZHgwOFhBNGZOeS00SnlfNXg4UjFTR0UtVU1mRXhtaVdNUnZEZDB2QmZpeUFXS0dxd1NVV1ZvQ2N4b05SajdZcGVOcFlkTTRWRXk3cjUtUF9zdVU2SUxhUFYtQ2dYMTFqXzZJNnRHT1JFMGcxWHV6M0lLbTFaZWY4S2pxTUlsS1BJeWd4UkQ4NGdEVDE0RXFCV0xfeUpmT2VzOUFzcndzemVnd2NHbnRLZWFCY3hlZndsLWdXdmI0aGRsSEJwaGpoQWxpYi1mVlFjS0dLd1ZQNmpUZHF4X2ZqYWpkTi1uSG9YQzduSjdXckdPWUpJWDJYbDFVNVRESXVJYzFyMXJLRmFrTWhoRXlVZUhXZjlmSC1NV1JFajhuVE8yUkdKMFJheTZ6ejhBZUZpeUxfaHliSUhPVlUxbEVzTDFyUm5N?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1504,6 +1533,11 @@
         "title": "張嘉郡擘劃斗六未來 建構石榴育才、雲科研發、產業落地三支柱 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNME1zeEh4Uk1Pb3pqUldRUG1iVHR2WGJJRERsVXJaNW5TenpjcHF2WWZ5ZjZvNG1VTFlEMHZxZ2lhVmZHcFhtUHBPRDI5RXliNEFGRk40SjZTSGFJdUZoLWVRM0ljSWIzWDVva01KZzg5dldzd3VNYmYxb2xtNHhfUHhHM2hhbUtHTC1LY3NhZGhNLVpsYXozeFBwR1VNOEFoM0N4REEyOEItanNYTHJXSTFqVG9yWWFyRnJ1UjR6X2ZiNGlrT0VRZl84aHlRSEdYSU4tQ2ZOQ1ZVRVZGODh4U3JVZXZIaXRYS3NQSTFQSk91aEtHQ3pDdzNYQk83a2NvTm42dXFENnNhZDBwd1QxbmVsSEgxcGpTdy1KTGZVOFZmc1FNaENhRjM2RUItQnpKQ1lqRVNZd3VoU2dpcFpCZHFxQTJWOGQ4aHhPRTAtZEZvWEN1SXJYREMyX0dYMThfVU5PRXRMY3g0OFAybHNKZnVkU3djWXFCWHFsaW85ZVBnajc2NnV6ZzZvVm5GM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-23 17:34:51"
+      },
+      {
+        "title": "劉建國推「青年三好、雲林正好」3大政策打造新雲林 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOdGxyajk0MzlMVk1Wa0phNk5tbXByTUcyQzhrdWtBQ3psaUFfRlNzbmpiTDZKakI2N3VJemNsWVYyWWJlTkJFUFJ0OXJoRGVBR09yVFpXbjR5ZThrbUpRYjZVbVFwQkw2b25yX2txOGdfR0tVNVVGNjF2SmxVRkxNUnF5SXNuQktwVFczWFJJNU1UdjVWaWJzNk8xVE4wZThnNVZ2VVlHa193UXhBbmtNUGR1TVNFamtianlWQlZRSVB3TldOWHluTmcxYWplbjRybHhYZVBHWng5RlRrYUxhOWdLcTB2anBZTXYzMTdSb3hiZEpWakg2ZU40d3VQSWZGeFlsYlNJWlplb1BtUG1xME52bVFqM1JTVXE5akI1Q29GS2pGWVFGWnBNSGNNNlJUTXgxQWJmNUtzZUI2b1lIanZrb2p4Z0Z2?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-23 17:08:09"
       },
       {
         "title": "台西農會「烤香米」新品發表 張嘉郡：提升品牌價值推廣雲林農產品 - Yahoo新聞",
@@ -1519,6 +1553,16 @@
         "title": "台西農會成功行銷烤玉米 張嘉郡扮推手再續前緣推烤香米 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOZzhFMHJja0t4VndSM2l6NVVJWE5VQmN2WUJlWjRqVmZHUWdYcDlFcDVNQWp1THBWOG9TZXhUY1hpb0w2Q3ZYOWVIZU9KRElvLTE4ZnUyZ3A0eE9XclM4dUQ5eFRSVkVfbEVZRDZYVG44WUo2WVlEcWhIWGRUcU5tWk9neUgtY3BOMnYxTnZmOFpEbTBpTnp2ckhCREdCbDJpa1hkOHRobGhyTTlKOTM2WF9OY1FBZU96c3VUVk0tSjNadTQ5V1ZQWVRUOS05TFJNelVXSkdwSENsbG1jZkRjcjY1eFBLMktFalhaamlzcVhJbGZpQlJ1THhJR1ZiMkpDa3FMRHZaaFNqdF9FaENSX0RvZXhyZ0xVeFkxcU9ZMElXRVRXOWRpeF9mWmZJSHpwY0IyN0RrZWRpYldsLUhxWEtDd251eXF1aVU1UU90MzNZSUJWSHRwazQ5eGVZaHcwYjl3UnI5Rk0wU1VHRl9iM2w3bTFYYWJORWQzbDhrQUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-23 16:29:12"
+      },
+      {
+        "title": "台西農會成功行銷烤玉米 張嘉郡扮推手再續前緣推烤香米 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOERnRm9HblFoWXRYX1pWMVhldGs5V013RmtQNW1FcWd4Qm5KZVdab05MeWRZQ25xZkY4WmI2TDRUcEJTbGdLMi1BMzRoS3JsWmtXTTdLbVpaNjNXd2ZpcUZ1clpHY3ZrZnZBc3JmQkJjM0FaczBaUGNRa3hBaFVwenotRXN3Q0toN1NrWA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-23 16:29:12"
+      },
+      {
+        "title": "劉建國提青年三好政策張嘉郡推廣農特產品| 政治 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QdENJZE9SR3pQRmF0WXhQTDN4YU11V2szWEJRMVNQS0RxSi1uc2lMVDZvNGtDZFJaRS0wSW0xVmJoSWNMdDVTUDlMQXh3RzhBY09FbXQzUDhJcHJzYmpN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-23 16:15:00"
       },
       {
         "title": "台西農會推「烤香米」 米、玉米、毛豆變身零食 張嘉郡助攻行銷 - UDN",
@@ -1559,16 +1603,6 @@
         "title": "2026雲林巾彩耕地藝術節台北暖身 劉建國媒合通路助虎尾毛巾走向新市場 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQc2hoM1ZJSlJhbWoyZFhRVXk2OGp2eXZ3YTJqOGVkUWhJYWtMRFhKQUZWbW12NjNueEgzQUdRZ3V2VkViYWltNFhFdmlQdzBUcFE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-23 00:38:00"
-      },
-      {
-        "title": "2026雲林巾彩耕地藝術節台北亮相 劉建國媒合通路讓地方產業被看見 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4aXk3dzRxRzVaTGZ5TlhHT3M2SWsyVkVPRmVVVWhsbl9lRm9CYTV4cUxvRlFYNENIN3hZUzVsQjBaQmhwSk1wMGp3R2VEWTdybkFfQS15OTNJOUxPc19JOTlDVlNiZ9IBa0FVX3lxTE1JYkphSXRzZDJNdU13U0YzVS1wX2RmQlhvOGxqY29WUldfMWlIOFYya0NQbmQ4SHNvcWxKa2VOUzlMMHZXREtFNlg2YXdGM2ZWLXRNeVZlaTdYcF9TM2xlNmM3N2FFdy15Rno0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-22 20:26:00"
-      },
-      {
-        "title": "2026雲林巾彩耕地藝術節台北亮相 劉建國媒合通路讓地方產業被看見 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNU1psdm1Id3dXRTc4eDRIVjRyd1JidkJxZzJGY1NXTjFYLWRGUjVhSGxHUmMxWm8zUGZsRWJUNXJuQXRpdjgxY24ydzNyNUkxQTZrSHVHU1lqSWVCcmNxNTFJVF94MXI3NElRclpjSFFVZHlZd1d3SkpWLXJaY2p6RF9OTHE1b3lPNnBFNVg5MHpvYVJmdXliRUxuekNxbjNFemd0STVLUVBmRW5rdF96RnVld19GTm0zUFdrUXEyaEtvY3Jzc28wUi00aENUU25jdUc0c1V1SzhiNlBtLTVIa3hHOUtyc3pTU0xrN1BPU2k2ZWJyUmN6VXpzWWtPZ3VhQW1kUFR6WExtWkxWeFlaUHBKTi16X3Vqa0pia19FTnUzOHBKdVJWd1lYd3M4U2Q2RC1la0kzZ05DSTlBMnQwZl94dExPNlZrMnVBN2hpSmF0dUhjbjJBUDEwNGxMTkxWaGtqQW1BNUl2NmNza0RwcE50M2lfc0ZndDNfemZHNUswRVdsbXdMbHpKdUxOODBfSFpnNUw3UUhUVUFaQjhIMVlEakd3Zzc4d3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-22 20:26:00"
       }
     ],
     "youtube": [
@@ -1594,6 +1628,11 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "從校園到產業一條龍！張嘉郡提斗六三支柱　盼人才企業留在雲林 - ETtoday新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGMENBX1oySnJZX2EtMWxGVUFkeWwyVGt5c3VyR3VTeDRleUx6MVRhMTQtampMZ0FKS3k2YXFUcFJsUmpfa0lnbWRBQWxKaEI0UG45V3o0ZThTcE93T0HSAUtBVV95cUxNVW1FWUZ2UjFoQW5fNzluLVA4R2FUTndYUGltUXJDbEVXM2w2NFBRcUF6MjBHZGVwSGtmSnFUTUFJQUxQcmZkckEyQWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-23 19:12:00"
+      },
+      {
         "title": "劉建國推「青年三好?雲林正好！」 安居三三三、雲林青鬆一萬兩千點 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPMm1hNlpSUWd2YlcyeGx6ZHgwOFhBNGZOeS00SnlfNXg4UjFTR0UtVU1mRXhtaVdNUnZEZDB2QmZpeUFXS0dxd1NVV1ZvQ2N4b05SajdZcGVOcFlkTTRWRXk3cjUtUF9zdVU2SUxhUFYtQ2dYMTFqXzZJNnRHT1JFMGcxWHV6M0lLbTFaZWY4S2pxTUlsS1BJeWd4UkQ4NGdEVDE0RXFCV0xfeUpmT2VzOUFzcndzemVnd2NHbnRLZWFCY3hlZndsLWdXdmI0aGRsSEJwaGpoQWxpYi1mVlFjS0dLd1ZQNmpUZHF4X2ZqYWpkTi1uSG9YQzduSjdXckdPWUpJWDJYbDFVNVRESXVJYzFyMXJLRmFrTWhoRXlVZUhXZjlmSC1NV1JFajhuVE8yUkdKMFJheTZ6ejhBZUZpeUxfaHliSUhPVlUxbEVzTDFyUm5N?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-23 17:36:09"
@@ -1602,6 +1641,11 @@
         "title": "張嘉郡擘劃斗六未來 建構石榴育才、雲科研發、產業落地三支柱 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNME1zeEh4Uk1Pb3pqUldRUG1iVHR2WGJJRERsVXJaNW5TenpjcHF2WWZ5ZjZvNG1VTFlEMHZxZ2lhVmZHcFhtUHBPRDI5RXliNEFGRk40SjZTSGFJdUZoLWVRM0ljSWIzWDVva01KZzg5dldzd3VNYmYxb2xtNHhfUHhHM2hhbUtHTC1LY3NhZGhNLVpsYXozeFBwR1VNOEFoM0N4REEyOEItanNYTHJXSTFqVG9yWWFyRnJ1UjR6X2ZiNGlrT0VRZl84aHlRSEdYSU4tQ2ZOQ1ZVRVZGODh4U3JVZXZIaXRYS3NQSTFQSk91aEtHQ3pDdzNYQk83a2NvTm42dXFENnNhZDBwd1QxbmVsSEgxcGpTdy1KTGZVOFZmc1FNaENhRjM2RUItQnpKQ1lqRVNZd3VoU2dpcFpCZHFxQTJWOGQ4aHhPRTAtZEZvWEN1SXJYREMyX0dYMThfVU5PRXRMY3g0OFAybHNKZnVkU3djWXFCWHFsaW85ZVBnajc2NnV6ZzZvVm5GM3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-23 17:34:51"
+      },
+      {
+        "title": "劉建國推「青年三好、雲林正好」3大政策打造新雲林 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOdGxyajk0MzlMVk1Wa0phNk5tbXByTUcyQzhrdWtBQ3psaUFfRlNzbmpiTDZKakI2N3VJemNsWVYyWWJlTkJFUFJ0OXJoRGVBR09yVFpXbjR5ZThrbUpRYjZVbVFwQkw2b25yX2txOGdfR0tVNVVGNjF2SmxVRkxNUnF5SXNuQktwVFczWFJJNU1UdjVWaWJzNk8xVE4wZThnNVZ2VVlHa193UXhBbmtNUGR1TVNFamtianlWQlZRSVB3TldOWHluTmcxYWplbjRybHhYZVBHWng5RlRrYUxhOWdLcTB2anBZTXYzMTdSb3hiZEpWakg2ZU40d3VQSWZGeFlsYlNJWlplb1BtUG1xME52bVFqM1JTVXE5akI1Q29GS2pGWVFGWnBNSGNNNlJUTXgxQWJmNUtzZUI2b1lIanZrb2p4Z0Z2?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-23 17:08:09"
       },
       {
         "title": "台西農會「烤香米」新品發表 張嘉郡：提升品牌價值推廣雲林農產品 - Yahoo新聞",
@@ -1617,6 +1661,16 @@
         "title": "台西農會成功行銷烤玉米 張嘉郡扮推手再續前緣推烤香米 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOZzhFMHJja0t4VndSM2l6NVVJWE5VQmN2WUJlWjRqVmZHUWdYcDlFcDVNQWp1THBWOG9TZXhUY1hpb0w2Q3ZYOWVIZU9KRElvLTE4ZnUyZ3A0eE9XclM4dUQ5eFRSVkVfbEVZRDZYVG44WUo2WVlEcWhIWGRUcU5tWk9neUgtY3BOMnYxTnZmOFpEbTBpTnp2ckhCREdCbDJpa1hkOHRobGhyTTlKOTM2WF9OY1FBZU96c3VUVk0tSjNadTQ5V1ZQWVRUOS05TFJNelVXSkdwSENsbG1jZkRjcjY1eFBLMktFalhaamlzcVhJbGZpQlJ1THhJR1ZiMkpDa3FMRHZaaFNqdF9FaENSX0RvZXhyZ0xVeFkxcU9ZMElXRVRXOWRpeF9mWmZJSHpwY0IyN0RrZWRpYldsLUhxWEtDd251eXF1aVU1UU90MzNZSUJWSHRwazQ5eGVZaHcwYjl3UnI5Rk0wU1VHRl9iM2w3bTFYYWJORWQzbDhrQUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-23 16:29:12"
+      },
+      {
+        "title": "台西農會成功行銷烤玉米 張嘉郡扮推手再續前緣推烤香米 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOERnRm9HblFoWXRYX1pWMVhldGs5V013RmtQNW1FcWd4Qm5KZVdab05MeWRZQ25xZkY4WmI2TDRUcEJTbGdLMi1BMzRoS3JsWmtXTTdLbVpaNjNXd2ZpcUZ1clpHY3ZrZnZBc3JmQkJjM0FaczBaUGNRa3hBaFVwenotRXN3Q0toN1NrWA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-23 16:29:12"
+      },
+      {
+        "title": "劉建國提青年三好政策張嘉郡推廣農特產品| 政治 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QdENJZE9SR3pQRmF0WXhQTDN4YU11V2szWEJRMVNQS0RxSi1uc2lMVDZvNGtDZFJaRS0wSW0xVmJoSWNMdDVTUDlMQXh3RzhBY09FbXQzUDhJcHJzYmpN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-23 16:15:00"
       },
       {
         "title": "台西農會推「烤香米」 米、玉米、毛豆變身零食 張嘉郡助攻行銷 - UDN",
@@ -1772,26 +1826,6 @@
         "title": "打造斗六成中台灣AI智慧城市新典範 張嘉郡拋「育才、研發、落地」3策 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOSlNub29oTTZ0U3dtVkxGV2VUUFlyVGdWTXprN1lKTng1VmtoakRmYnF3dHNBSWNUTktHQ2V4RDRnTGVYM0VQQUo4RndUT1gwS2hWb3ZTMEdhMzBwc0NTN0xXc3FOMXBxUFBBLTBxaGNoUE85ZHJ1R3NMUF94WVhsd3BUZ3RablNodDE3X1E5R2lDa29nUVJ4b29Ialh6SV90S0JUcE9GQll0OTZXVWhsTWZzYmhIUVoyeFVyMlE2UHFGVU55RmNmMnphWHZiRnNHN2kzRnptbXJ2LV9ZMjIzZEVzLVNJalE2THNQTU44OWlockh1VURSbEFxLWUwY3NTc0hiOFNuZC1BMUlPZW96UUlhOVlkN2xXZlZVVmlrNEhzX0xoRkxhQk83OGRTSlBxQXlmZFlZY3V0OVhsUDVVdThSRENtNGsteWczZXQzY0dqb0tqOTBjTGNyUkVYNXphbHdxdE5mQUdIdEl5bDVIRjFMNGxWUmJ3Q1BzWF9DZ1FUS014UEpn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-21 18:45:55"
-      },
-      {
-        "title": "劉建國競選總部成立 賴清德任主委提三大理由力挺 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQVmkzcmpjY3p2bGh2ZVdaZnBFMmVqVE9UYnZwSkNpdktfX2RreDVzSDRUcDBDV0ZKUnU1RlVFVzhvTlBqckZjWnRLcjIwWXRZc2VJbXFudnFaVFZyS3loYXpJMGtWcW9hbzVnZ2IxSW1SMHZETDlxMFAxdjFnOWNoZFl5VlREYlRPX0dQMXRCd1paZ29lcmx5X0ROVDVKdG5LVlFMTE1KVzdfR1ZQTjY1OFN6V25zTWdNTFVtMmxMR1JfcEVCQ2hKbEdQelM3TGtpelNLY3NGdDBNT3B2a2JacXRkSTQwV1pDXzhvZGVPVDNmT0wtTW9valdrakpVYlFEMWVoUGZLcTZhOHl1ZzlXZjN3QXRoOWJmMG5zNEhPWTNodkhNQ0E5QU5vaGtDeVl5RTI4a2RETDc3S2J6OG9vYmZHT3kwc0xla1hfZkgzSXhuVzhqdjg0S0ZWclU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-21 18:31:59"
-      },
-      {
-        "title": "張嘉郡麥寮廟口開講 提出台61線.地方創生等發展規劃 - 台灣生活新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kRWhJbDNEUXFlRWdQVUFlOFBhWU9uNjRJQ1g0VDZnLURBS1czWmpQOVAxS0RfaGlFa2wzVFpYaGpvclVlTmpicGl5cTZEZ09L?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-21 18:31:47"
-      },
-      {
-        "title": "蘇治芬稱三井Outlet撤資台西？ 雲林縣政府澄清「搞錯投資者」 - news.nextapple.com",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUVlRR1YxWmpzaWoxRDBzLWdaVmxab0Y4RkJzejNSNWFkZjVZOV9CNmVzUWlwdDA3WU9zdnlRc2txOTgyUzZCRnVJV2RPNXJWdTRFOVlCbXdwZmxJcW1WSFpHSHJPRlpjdXBncWUwSU1KekR3Q2JiOW0xTktqeTZFQ2g2Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-21 18:30:00"
-      },
-      {
-        "title": "劉建國競總成立 賴清德任主委、蘇治芬任總督導拚新雲林 | 觀傳媒 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fdkl6WFpOdEo2WV81SUh6dTB3NUVEOEZtT2VXeHlsUFlQUktyVEFYQ1A4ekNScWpXaDVqRVJHaXdDM09XazFLSGRJWDJvOTVuTVdjdzJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-21 18:10:12"
       }
     ],
     "facebook": [
@@ -1974,11 +2008,6 @@
         "title": "賴清德親任劉建國競總主委 蘇治芬系統全員到位 #賴清德 #劉建國 - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxQYk40eUFJRHJFY1NZYnpKSk5oUzZXLW91NU9qVjBxZG40S1RTeTBhcVZ2Sjl5Wi1wR1ZERmxIS1Y2MGpSUXBrSGV6TGt4N0E4TTVuZS0yRVZCcnRUazgxcG5ndVl1cE5fYTc4YmllNzVwMkFEZ1BZRWpZVDA0eVAzWGpacS0xR1hwa3dwaVdCQ2xKLTA0NmxkVEFNbmJYU2t5dklqdTVhY2s4NWRqTHluRDFJMFBVMnpXem4wZlR2OEtUbktHeGNmc2Z3R2ZEcnFuZThWWkdnOUhJVU5saVMxaHNxSTZQM3JwdmlxYlBfMmxfN3N5LWg3UWZXU1pxZXhGX3ZkV05vUlB1Z3d5QUFPTS16UzRyMlFPUktKVDA1c1plOVZKV1NRQVp4Vjc2WmdpLTlYNnJSLUl1d2pFWHBlS2UyOUtRQjBGT1o4NzdQajVpZWR0UkMzYktEbXgyLURtOHBiRzhLT040NUExRjVFNmxoTC04czZqWmc2LVltckFfNnhScnFBWUtRaWpSV0lWdzhRRTZMLTMwVTBQX1ZmLWpDci1OSFJHemIxYzBZTG0",
         "time": "2026-09-16 20:40:46"
-      },
-      {
-        "title": "劉建國. . 「劉建國的勝選，是全雲林人民的勝利！」 今天行動中常會移師雲林，賴清德 主席親自接下建國競選總部主委，蘇治芬 前縣長出任總督導。 除了蘇前縣長以外，蘇前縣長的團隊，過往所有為了故鄉打拚的力量，今天全員到齊！ ​主席在台上講的那句話直擊人心： - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMimghBVV95cUxOck5NR3djMndwWEU5OG9jVGUteTFhVC1uekF2QW1RM1NTQ1o4VzUxT0JHdjFCYlhBZDMzWVR5Rm9xaFZTWVl3SHZVTkNGYXltYkxOUi1XZGNNVy0tcUNmOXo3eF9YXzBxZTNTWjI2LXgxRVVLbXQ0eTJyTjZGZ0R2UWJuU0tyRi0yQjlLb2pDN2h6cFd4UFU2U3hEa0hzM3prem9tMnB0clJhaUFDbFc2SF9rVW44Z3d6NUlJcERXX0RYUlJZSWxpOEFPZkp4ZVdwNl9Rc2ZyV0ZDZGhhVUE5U05ROXNLZTV5NC1FemctME9nN29RZ1ZNVlVvcGtQZmxGcHRPblpyUDZlcm5ET2tXeHYxM1lrTXY4WmYtS1FKU1hBTVI1UVItTVNMZXJOb1V5WDZBR3RwS2Y0UGc0RG1YODVkR2w1Z1I0NlB3a2hPQW9WazBGUDZBcklhRGRiajMyUEhCNHg2bmNUMjd6ekV4WFpIUUIzOG5nSVJTTzhpWVViWFAzUEk5WWp1QUVGRGRBWE1SdlhHQmI5VFZKeGtxTWQ2c0lLLW1Nd1E0Q2hreVJpTW4wTXIzdkZOelM1WXBtV0FNd0RoSXZncHl1WDlWMm9tbDBQUm15Nm1yVzkwdzZTUl9kbjRhSlkycWVjR1hXMUtiZGhjd3dwYktaX3htS2t2UzJidXNQLUcwZjF3bUNYdXZKWEFIRnJHQW0tYUF6Z1Y0dWF3YTI2N1R3VGQxRDI4S3FTRlJ3aHFuOUIzQThXM2VMUnVsRTMxSGlEM2V1Vkl4NXI5NGZLTzNjZTVBYzJ3U3RaTEhVRVlScnNCWkR1SnFTaHRUYy1ZYU9ET19IYmhpdUVKLUMzRVd3OHhpb3dLQ1RvVDFTMnVXOU9OeXF4c3dNa2NaZ0dMUUpDU0dYR3FuRUt6R243NmFkRXdlMmdjVWpGVHZ1ZFd2dUlWQWNYQUJfZUJzWUZvclF5SkdnMjYtYTFDbU5CejVyX0ZTajRGekwzaFp6SmZGZWpZSURnOE1TaXNwTnBuLVVURG9hZkx6VzhSRURIdmtvUVVuNkU2elhNUmFFOUFnVkIwUmZjdXh0MjdDWHVzSmJldGt6QzFVNW95b3RESzZLUjh0ako4XzY1MVh3WjdibURzY3BXSFQ2bGtkVGVxQUpvZm5nZUZ6UGt0Q3dvU3U0dXZfTk5HRW5EX0h0cXNuTzFoT1Z4V0J0emliNXY2czV2RURFYWJoTTU1T0plWnpQOFYtRVRoUHd4UkVKUnMwWjlYYnA0ek00bnRGdFFuN0NWbzNIX3RRU3VwT0ZEUENwX0dpNnRad0RpMDQwWEdPc2hfcGlFeHN6eDdJaWt5azlrcHdaOU5sTE9aWHNaS2pRamN0MnlDMzNYd2V2Q2c",
-        "time": "2026-09-16 20:28:45"
       }
     ],
     "youtube": [
@@ -2079,6 +2108,13 @@
     "hour": [],
     "day": [
       {
+        "title": "從校園到產業一條龍！張嘉郡提斗六三支柱　盼人才企業留在雲林 - ETtoday新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGMENBX1oySnJZX2EtMWxGVUFkeWwyVGt5c3VyR3VTeDRleUx6MVRhMTQtampMZ0FKS3k2YXFUcFJsUmpfa0lnbWRBQWxKaEI0UG45V3o0ZThTcE93T0HSAUtBVV95cUxNVW1FWUZ2UjFoQW5fNzluLVA4R2FUTndYUGltUXJDbEVXM2w2NFBRcUF6MjBHZGVwSGtmSnFUTUFJQUxQcmZkckEyQWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-23 19:12:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "雲林縣長候選人劉建國推青年三好政策 租屋.首購.長輩同住補助-雲林新聞網",
         "url": "https://www.youtube.com/watch?v=EL5nbF18XbU",
         "time": "2026-09-23 18:33:10",
@@ -2100,6 +2136,13 @@
         "risk": "綠"
       },
       {
+        "title": "劉建國推「青年三好、雲林正好」3大政策打造新雲林 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOdGxyajk0MzlMVk1Wa0phNk5tbXByTUcyQzhrdWtBQ3psaUFfRlNzbmpiTDZKakI2N3VJemNsWVYyWWJlTkJFUFJ0OXJoRGVBR09yVFpXbjR5ZThrbUpRYjZVbVFwQkw2b25yX2txOGdfR0tVNVVGNjF2SmxVRkxNUnF5SXNuQktwVFczWFJJNU1UdjVWaWJzNk8xVE4wZThnNVZ2VVlHa193UXhBbmtNUGR1TVNFamtianlWQlZRSVB3TldOWHluTmcxYWplbjRybHhYZVBHWng5RlRrYUxhOWdLcTB2anBZTXYzMTdSb3hiZEpWakg2ZU40d3VQSWZGeFlsYlNJWlplb1BtUG1xME52bVFqM1JTVXE5akI1Q29GS2pGWVFGWnBNSGNNNlJUTXgxQWJmNUtzZUI2b1lIanZrb2p4Z0Z2?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-23 17:08:09",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "台西農會「烤香米」新品發表 張嘉郡：提升品牌價值推廣雲林農產品 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQUUI2S2ZjeUpuZWdMak1VbE5QLVNmc0M1ZlFSdS1CdEt2RWVJeF93QVBxLUoyVTB2VWRsTlVWSTNjQXJjcDdXcXNiWWN3aE0xLWdaaHBOS0tfdW53RVlDdW5HNGdCN0dqWlU2V044dEhWTXVfZGZicUlMTXRPa3pVRVFvTWlqdXdxbml5RTlwMkxYTFRwOXJFbUJMX25PbGpheEU2aUFyUkkxMFU4RHBMb1kwOGJIYm5LT2tKZ19UQ0lKWENwLVJGTFh0blFNSjc2dFZrZVJvb0xYckdXdFh0WVM3QUhyTFFDWFYtenZtOW1QNXkxTHRQNlVKaTM5dEFWYW1MeWFoTTBySzZGZGRqY29rODhHdTRDVVdwSVpWT3VtQjdKdl81TjJ6Z3RleG9WY2lwZUpoRVc0R0ZUejJOOS1BbkF3ZkF4MFQ4ZkFRdlpzTzEyRldCa21XUUF3aWxOSlZQaHYxWFJPUlRBMV96dy1tR0w4RDRZQ2hPSXRma090N000LXZzZHBVTE52Ql8zWW1pYVdYWXlqMzNa?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-23 17:00:00",
@@ -2117,6 +2160,20 @@
         "title": "台西農會成功行銷烤玉米 張嘉郡扮推手再續前緣推烤香米 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOZzhFMHJja0t4VndSM2l6NVVJWE5VQmN2WUJlWjRqVmZHUWdYcDlFcDVNQWp1THBWOG9TZXhUY1hpb0w2Q3ZYOWVIZU9KRElvLTE4ZnUyZ3A0eE9XclM4dUQ5eFRSVkVfbEVZRDZYVG44WUo2WVlEcWhIWGRUcU5tWk9neUgtY3BOMnYxTnZmOFpEbTBpTnp2ckhCREdCbDJpa1hkOHRobGhyTTlKOTM2WF9OY1FBZU96c3VUVk0tSjNadTQ5V1ZQWVRUOS05TFJNelVXSkdwSENsbG1jZkRjcjY1eFBLMktFalhaamlzcVhJbGZpQlJ1THhJR1ZiMkpDa3FMRHZaaFNqdF9FaENSX0RvZXhyZ0xVeFkxcU9ZMElXRVRXOWRpeF9mWmZJSHpwY0IyN0RrZWRpYldsLUhxWEtDd251eXF1aVU1UU90MzNZSUJWSHRwazQ5eGVZaHcwYjl3UnI5Rk0wU1VHRl9iM2w3bTFYYWJORWQzbDhrQUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-23 16:29:12",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "台西農會成功行銷烤玉米 張嘉郡扮推手再續前緣推烤香米 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOERnRm9HblFoWXRYX1pWMVhldGs5V013RmtQNW1FcWd4Qm5KZVdab05MeWRZQ25xZkY4WmI2TDRUcEJTbGdLMi1BMzRoS3JsWmtXTTdLbVpaNjNXd2ZpcUZ1clpHY3ZrZnZBc3JmQkJjM0FaczBaUGNRa3hBaFVwenotRXN3Q0toN1NrWA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-23 16:29:12",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國提青年三好政策張嘉郡推廣農特產品| 政治 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QdENJZE9SR3pQRmF0WXhQTDN4YU11V2szWEJRMVNQS0RxSi1uc2lMVDZvNGtDZFJaRS0wSW0xVmJoSWNMdDVTUDlMQXh3RzhBY09FbXQzUDhJcHJzYmpN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-23 16:15:00",
         "platform": "news",
         "risk": "綠"
       },
@@ -2189,20 +2246,6 @@
         "time": "2026-09-23 00:38:00",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "2026雲林巾彩耕地藝術節台北亮相 劉建國媒合通路讓地方產業被看見 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4aXk3dzRxRzVaTGZ5TlhHT3M2SWsyVkVPRmVVVWhsbl9lRm9CYTV4cUxvRlFYNENIN3hZUzVsQjBaQmhwSk1wMGp3R2VEWTdybkFfQS15OTNJOUxPc19JOTlDVlNiZ9IBa0FVX3lxTE1JYkphSXRzZDJNdU13U0YzVS1wX2RmQlhvOGxqY29WUldfMWlIOFYya0NQbmQ4SHNvcWxKa2VOUzlMMHZXREtFNlg2YXdGM2ZWLXRNeVZlaTdYcF9TM2xlNmM3N2FFdy15Rno0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-22 20:26:00",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "2026雲林巾彩耕地藝術節台北亮相 劉建國媒合通路讓地方產業被看見 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNU1psdm1Id3dXRTc4eDRIVjRyd1JidkJxZzJGY1NXTjFYLWRGUjVhSGxHUmMxWm8zUGZsRWJUNXJuQXRpdjgxY24ydzNyNUkxQTZrSHVHU1lqSWVCcmNxNTFJVF94MXI3NElRclpjSFFVZHlZd1d3SkpWLXJaY2p6RF9OTHE1b3lPNnBFNVg5MHpvYVJmdXliRUxuekNxbjNFemd0STVLUVBmRW5rdF96RnVld19GTm0zUFdrUXEyaEtvY3Jzc28wUi00aENUU25jdUc0c1V1SzhiNlBtLTVIa3hHOUtyc3pTU0xrN1BPU2k2ZWJyUmN6VXpzWWtPZ3VhQW1kUFR6WExtWkxWeFlaUHBKTi16X3Vqa0pia19FTnUzOHBKdVJWd1lYd3M4U2Q2RC1la0kzZ05DSTlBMnQwZl94dExPNlZrMnVBN2hpSmF0dUhjbjJBUDEwNGxMTkxWaGtqQW1BNUl2NmNza0RwcE50M2lfc0ZndDNfemZHNUswRVdsbXdMbHpKdUxOODBfSFpnNUw3UUhUVUFaQjhIMVlEakd3Zzc4d3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-22 20:26:00",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2214,7 +2257,7 @@
       },
       {
         "name": "斗六",
-        "count": 1
+        "count": 2
       },
       {
         "name": "虎尾",
