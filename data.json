@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-25T00:20:58.957775+00:00",
+  "generated_at": "2026-09-25T00:36:50.279551+00:00",
   "metrics": {
-    "total_24h": 6,
-    "prev_24h": 44,
-    "growth_pct": -86.36,
-    "news_24h": 6,
+    "total_24h": 5,
+    "prev_24h": 46,
+    "growth_pct": -89.13,
+    "news_24h": 4,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,9 +14,9 @@
     }
   },
   "metrics_7d": {
-    "total": 253,
+    "total": 254,
     "prev": 370,
-    "growth_pct": -31.62,
+    "growth_pct": -31.35,
     "news": 215,
     "anomaly": {
       "level": "綠",
@@ -28,7 +28,11 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 6
+      "count": 4
+    },
+    {
+      "platform": "facebook",
+      "count": 1
     }
   ],
   "by_platform_7d": [
@@ -38,7 +42,7 @@
     },
     {
       "platform": "facebook",
-      "count": 24
+      "count": 25
     },
     {
       "platform": "youtube",
@@ -48,7 +52,7 @@
   "by_hour": [
     {
       "hour": "2026-09-24 08:00",
-      "count": 4
+      "count": 2
     },
     {
       "hour": "2026-09-24 11:00",
@@ -56,6 +60,10 @@
     },
     {
       "hour": "2026-09-24 15:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-09-25 08:00",
       "count": 1
     }
   ],
@@ -383,12 +391,16 @@
     {
       "hour": "2026-09-24 15:00",
       "count": 1
+    },
+    {
+      "hour": "2026-09-25 08:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 6
+      "count": 4
     }
   ],
   "mention_latest_by_platform_24h": {
@@ -412,23 +424,13 @@
         "title": "劉建國提出「青年三好・雲林正好」政策 推出安居三三三、雲林青鬆12000點 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNcU1WcFVTRzU5a2hUWml0X0N3LWJYTnI4NnFHbEIteWZSWUVLSzlRdlN2OWlON1dlM25haUxscUJMdE9rSHlVbFNFaEprQmVfbm9RMG9pSVg3YlQ4RllyZ3hac2k2S3FJcHlwdFhmNDRDdFlNM1ZDM0ZuX0RMWmJHRDRmNm8ybl9ZUU5rSm5lTHk1a3FFOEVhdk45ekxhNDFURDd1eE1DaHdyZEFmUFVQR1dxVUphaEhWYmxYQ3lFekp2UkZJMVJfUlRDMVZ1UGxWeF9pS2thcWhOcXhpMGZHVUdSY0Vfa0hNeVd5NGtINk1tV1M4YVlnOE5KbTZnTF81RktTVlJDVUpqZEVreXVWUGtfb0pGYk13eldQTko3VWNTQk4xeWJWb0hmU2VuQ2xEMTlDNTFjd3IxYTVfUlM1MFpBMkxqR3NGSnJPTHhkaXRZaUhsVUZwRUdKWXdYd2Nq?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-24 08:43:56"
-      },
-      {
-        "title": "劉建國提出「青年三好・雲林正好」政策 推出安居三三三、雲林青鬆12000點 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0pBOTBWY2VEN2dRaGF1VGE3V2UwT1RoYWFEMEZYY01aOFZ1N0N0dEJ3Z3EwTTQzY2diWlZyREQ0NGJSdkdVaFIxWmtSaXllQ243SThVMG1qaWNyTVpQaTJMR044Nk51ZzBodVp1OFF2SC11aFdLZEdtMnFfQ25VR1I0Z0FrSFZLOEdpT1lGRF9UajQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-24 08:35:40"
-      },
-      {
-        "title": "張嘉郡擘劃斗六未來 建構石榴育才、雲科研發、產業落地三支柱 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPUmRfQWdsdFdnLTBYZUo0WVAwRHg5XzVzT2s2Qk9sUFc1VEY1dHV2ZVU2eEl3M29hRDdDRGN5YVVLNWh1dkljV3FXTVp0bHQ2OTZHbzAwU0JocFd3MHZhM3RYekRFa0NsZ211aXlmcmg3el8yRFhfY0duR0NBZVJSa1JqZWRaZ25UTFY2bWczMlBMNXRTeFRZeXFscWFpdnNyeU1xZzZGZzlrQWhfTTVYNEhjVVFBWW1XbnBmRVhhaWUteTh6M0N5ZElYbGNLbUhGYzlmak5RajV6MHFHUXdMMjJxM2VpeG5OOVJ6bW1ERkpObmJHOS1XUEJWUGtuSmItMElVOHdzYVlBR3pQaVhWb1NfY1p1MUJ2WHB2dDhBd3djQlM1d1VqclkyUzRLTDNIUFVqb1RRQVpDOVhDS1hlWjJfRC1pMzQzcElGb1p5TGswSlUyWmFyNUN6NHR2Snl5SnpwTUVlR1RRRFVxazg2MkJ4cDJETUZWZG12bkItQm13UmtwRDd3Qkg0X0ZBSHM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-24 08:33:56"
       }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 6
+      "count": 4
     }
   ],
   "alias_latest_by_platform_24h": {
@@ -452,22 +454,12 @@
         "title": "劉建國提出「青年三好・雲林正好」政策 推出安居三三三、雲林青鬆12000點 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNcU1WcFVTRzU5a2hUWml0X0N3LWJYTnI4NnFHbEIteWZSWUVLSzlRdlN2OWlON1dlM25haUxscUJMdE9rSHlVbFNFaEprQmVfbm9RMG9pSVg3YlQ4RllyZ3hac2k2S3FJcHlwdFhmNDRDdFlNM1ZDM0ZuX0RMWmJHRDRmNm8ybl9ZUU5rSm5lTHk1a3FFOEVhdk45ekxhNDFURDd1eE1DaHdyZEFmUFVQR1dxVUphaEhWYmxYQ3lFekp2UkZJMVJfUlRDMVZ1UGxWeF9pS2thcWhOcXhpMGZHVUdSY0Vfa0hNeVd5NGtINk1tV1M4YVlnOE5KbTZnTF81RktTVlJDVUpqZEVreXVWUGtfb0pGYk13eldQTko3VWNTQk4xeWJWb0hmU2VuQ2xEMTlDNTFjd3IxYTVfUlM1MFpBMkxqR3NGSnJPTHhkaXRZaUhsVUZwRUdKWXdYd2Nq?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-24 08:43:56"
-      },
-      {
-        "title": "劉建國提出「青年三好・雲林正好」政策 推出安居三三三、雲林青鬆12000點 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0pBOTBWY2VEN2dRaGF1VGE3V2UwT1RoYWFEMEZYY01aOFZ1N0N0dEJ3Z3EwTTQzY2diWlZyREQ0NGJSdkdVaFIxWmtSaXllQ243SThVMG1qaWNyTVpQaTJMR044Nk51ZzBodVp1OFF2SC11aFdLZEdtMnFfQ25VR1I0Z0FrSFZLOEdpT1lGRF9UajQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-24 08:35:40"
-      },
-      {
-        "title": "張嘉郡擘劃斗六未來 建構石榴育才、雲科研發、產業落地三支柱 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPUmRfQWdsdFdnLTBYZUo0WVAwRHg5XzVzT2s2Qk9sUFc1VEY1dHV2ZVU2eEl3M29hRDdDRGN5YVVLNWh1dkljV3FXTVp0bHQ2OTZHbzAwU0JocFd3MHZhM3RYekRFa0NsZ211aXlmcmg3el8yRFhfY0duR0NBZVJSa1JqZWRaZ25UTFY2bWczMlBMNXRTeFRZeXFscWFpdnNyeU1xZzZGZzlrQWhfTTVYNEhjVVFBWW1XbnBmRVhhaWUteTh6M0N5ZElYbGNLbUhGYzlmak5RajV6MHFHUXdMMjJxM2VpeG5OOVJ6bW1ERkpObmJHOS1XUEJWUGtuSmItMElVOHdzYVlBR3pQaVhWb1NfY1p1MUJ2WHB2dDhBd3djQlM1d1VqclkyUzRLTDNIUFVqb1RRQVpDOVhDS1hlWjJfRC1pMzQzcElGb1p5TGswSlUyWmFyNUN6NHR2Snl5SnpwTUVlR1RRRFVxazg2MkJ4cDJETUZWZG12bkItQm13UmtwRDd3Qkg0X0ZBSHM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-24 08:33:56"
       }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 2,
-    "劉建國": 4
+    "張嘉郡": 1,
+    "劉建國": 3
   },
   "mention_compare_7d": {
     "張嘉郡": 93,
@@ -493,16 +485,6 @@
       "title": "劉建國提出「青年三好・雲林正好」政策 推出安居三三三、雲林青鬆12000點 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNcU1WcFVTRzU5a2hUWml0X0N3LWJYTnI4NnFHbEIteWZSWUVLSzlRdlN2OWlON1dlM25haUxscUJMdE9rSHlVbFNFaEprQmVfbm9RMG9pSVg3YlQ4RllyZ3hac2k2S3FJcHlwdFhmNDRDdFlNM1ZDM0ZuX0RMWmJHRDRmNm8ybl9ZUU5rSm5lTHk1a3FFOEVhdk45ekxhNDFURDd1eE1DaHdyZEFmUFVQR1dxVUphaEhWYmxYQ3lFekp2UkZJMVJfUlRDMVZ1UGxWeF9pS2thcWhOcXhpMGZHVUdSY0Vfa0hNeVd5NGtINk1tV1M4YVlnOE5KbTZnTF81RktTVlJDVUpqZEVreXVWUGtfb0pGYk13eldQTko3VWNTQk4xeWJWb0hmU2VuQ2xEMTlDNTFjd3IxYTVfUlM1MFpBMkxqR3NGSnJPTHhkaXRZaUhsVUZwRUdKWXdYd2Nq?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-24 08:43:56"
-    },
-    {
-      "title": "劉建國提出「青年三好・雲林正好」政策 推出安居三三三、雲林青鬆12000點 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0pBOTBWY2VEN2dRaGF1VGE3V2UwT1RoYWFEMEZYY01aOFZ1N0N0dEJ3Z3EwTTQzY2diWlZyREQ0NGJSdkdVaFIxWmtSaXllQ243SThVMG1qaWNyTVpQaTJMR044Nk51ZzBodVp1OFF2SC11aFdLZEdtMnFfQ25VR1I0Z0FrSFZLOEdpT1lGRF9UajQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-24 08:35:40"
-    },
-    {
-      "title": "張嘉郡擘劃斗六未來 建構石榴育才、雲科研發、產業落地三支柱 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPUmRfQWdsdFdnLTBYZUo0WVAwRHg5XzVzT2s2Qk9sUFc1VEY1dHV2ZVU2eEl3M29hRDdDRGN5YVVLNWh1dkljV3FXTVp0bHQ2OTZHbzAwU0JocFd3MHZhM3RYekRFa0NsZ211aXlmcmg3el8yRFhfY0duR0NBZVJSa1JqZWRaZ25UTFY2bWczMlBMNXRTeFRZeXFscWFpdnNyeU1xZzZGZzlrQWhfTTVYNEhjVVFBWW1XbnBmRVhhaWUteTh6M0N5ZElYbGNLbUhGYzlmak5RajV6MHFHUXdMMjJxM2VpeG5OOVJ6bW1ERkpObmJHOS1XUEJWUGtuSmItMElVOHdzYVlBR3pQaVhWb1NfY1p1MUJ2WHB2dDhBd3djQlM1d1VqclkyUzRLTDNIUFVqb1RRQVpDOVhDS1hlWjJfRC1pMzQzcElGb1p5TGswSlUyWmFyNUN6NHR2Snl5SnpwTUVlR1RRRFVxazg2MkJ4cDJETUZWZG12bkItQm13UmtwRDd3Qkg0X0ZBSHM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-24 08:33:56"
     }
   ],
   "top_news_7d": [
@@ -609,6 +591,11 @@
   ],
   "latest_facebook_20": [
     {
+      "title": "建國祝大家中秋佳節愉快！🌕✨ 建國知道不少離鄉打拚的鄉親，都已經陸續回到我們最熟悉的家鄉，在這裡先跟所有返鄉的家人們說聲：歡迎回家；一大早還在路上的朋友們，注意交通安全！ ​難得全家團圓，文旦、月餅跟烤肉肯定不能少。不過建國也要化身「健康特派員 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxNb1A2TF8td2xDOWt6RjJHaXlmTU5nUS1nS1FBRDFCYW1CYWc4b3FoS1pDc2pRQldQU0RjN3hyMzA0dDRWTVhSQXIwRDRFdk94TlVRRXpPelZhVGVJNkFCZG1rUkxLNF83LTk2d3dzYlZ0cWpUV3ZwWmlrUFhQQnFPTGE1MEo1bXFLSmpVYXc4dEk3cE9RX3dkcUR6TFB4MGRqaWJ4dVk3bW5ReWZPa2tKd2dIWjhlS2ZIMFRwbHRMdE9iVmJFdmFnLVI3NVN3cEc4aEtZWlVCT0pPbnBUd0J6cVhhYWtBOHZOcW5ocFlPdnJpdzVsbUFCcktDNGMwd3VMVEppUkEydFc5Y0Q2Rnp1ZHFHSHJiUFJvWFAzeUtwTFdWOURvVXdFZ1NwaHdLY2ZhYlZQQVZOTGV2Z0xYMEl2UHhVUF9QUjNkenUzNDh4Ynh2NFRERTdlTDRmOTlOWnU1WUJoQ2ZKdTlYWGJiRXhOR0ZnMnVjaF9JX1E0Nk5FdUtVWklTcG05TzJ1UXdMUjNzWENBMndzMkxxMVRFTXhLYTVlMER1Ym5fY3dOenN3OUFLNkVocVAtZHpPekhCVzA5WmVkVnVtWHdLdmIxbmlnU0dJVy1YOVhoRXZ6TWRJV0gycXAwa3pYa3IyakZLNG5HUHNpVFB0Q1gwc09TUDlqbktLT25ydUdXM0hzWnFmMVBORVBYWlFoaFlCcTk4cGdVNmtHaC1WM1JqNFdBTzRLZmduV2g4TDBoNWh3d3ZHNmFMY01hSGpzLUdOYnY3WDhGck9sTG1TNnMyQ3RfdmVral9NUHkxM2lWWFF6cHZIYXNnRjFfWTZYZElKR3VfWFl6TGlIT295QW11UmJJT19CbTVQRERGY1pVU2h3RHdEQ3otN1ptdjhiMUc0MUpUT2t6TVJxaHJaSG9aUEtfUnpDREJ6V1VPM1FjaE4yVi1YYVNyNHhtbk1XQjVhLVVMSG1PZGVmOF8xN0pHendZSUNjS18wcHduWGVHQjVKYVFYVm81X1d1THVxX2lvVFVITHRIMnNIR1FVM1RYNmE4VFVKc0YyLUpxTzgtcUY2S3BITndxbmY5OHRDMnpYR0otOG1ERTNhY2JkMnF2UTQ4YUFudUFDSUR4bmlXNS1wcXZpZWhSODVRbl81OXlCZ2JQSktrU1ROb3hMSTl0bU1BM05KajNpX2FTQ3E3NnJrUWhxOTNvX193VzNIa1ZOU2tRdjVaN3hlRzZNMjNPWW8xWHpfS2MxWHlIZjN1dVBkWmt6dHJZb0xMY3haN1B4Nlp3WFFlZ24wUmlSVkFjaFpYMkpoR0YyUzlHSnFnQkxhMGVzM0xRUVhEMTdwZWVpc1A3YzFhMzM2QWdudV9zRWRzOThDMW5CbUdOdGdRRVlFWkdqMDNvTWgyeF96ZGYtVURXQVE",
+      "time": "2026-09-25 08:17:56"
+    },
+    {
       "title": "#守護詔安客家文化薪火代代傳 #澹仔火遊客庄點亮崙背客庄 三百多年來，詔安客家在雲林落地生根，一代又一代認真打拚，為地方、為家鄉付出，也成為雲林一路向前的重要力量。 嘉郡要謝謝每一位客家鄉親，長年和我們一起顧土地、拚發展。這份對家鄉的感情與付出， - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxOZTFwekJLUDE0X18zNVAwQnFjYWJSY1Jzdm1aeHZ2U2FSTlQydHd6aEU2VzJkQm5GMEtzZ2JGQzJlTTNoeGlUdTZMQXl6WGNveEU0amViNy1NWFB6OUFSa3NwNTlGbTVEWDMzYTJNOWh5Q2RxR2VXbnI3c2xValluM0tRTGlTVHBGWUhnTHdHN3cxNGMxamx3NWxKZ1dpYzlJRFlCRUNVREdJbElsT0x6MkZ4R1VXMHlQYjYtSk0yV0VER2I5QVhGTFBmSmRqaEZGZWd0NFN2cmZlTjR4ZmpxdVJxWkk2alRoR1NSaHhBZUJwN3FXTVFhd3NxLWJIMGRXamM3cXlCeUpHdGRjelpJa0NZYVloZjdvRjkyUktlbHozTXRkaHhOYzhBQUZzcl9NMHpIemV6V3pLQTg1LVAxNERSNWhQRHowSS0yZWl5cXptc0lvQnlaSHdmbzAwZnpGWmFmVGh6cEJScVFHSFVicXczSWYyQ2VLLVNMM1RjYTVfT1RmZkJheU9ZNkJRazRpQ1VsQkZlNkgtRmNnVlZVeTBhbnJfdDNkeDZ1ekg0YUY2WGZnaHVmTk1XSUs4WEI4dWIyQ2JDMmNhb0R6U1VGS1g2a2U5T1IzOTNDM3JsLUtXUDVmZUVpcF9zM0NHYUhVZUF6UGRWRUFSMFpZN25SNnVzaUstTlRVTzBlM3JXLVl5SGM2QjR4YW1tM2MwV0l1Zi0xdjBKR0htOUREVHY3aGpEYlhaOWxJcms1SWxjT3UxTlJHUVNuV1JBbzRmM2FqMmhMTm1HTGhZQlBSalhXTGkzRWtNOEVJMTI0SVhYMWVPMFR2bWlkaGV0ZFNkZFBES2lCYlRSNFFKMnh2ZlZabTRGamJtb2gwVGw2MW5DYUdvaVNobjFZMVdlQlNqWTJua190Q0lFQV9RVEZtQmpJRXZCWFIybzZDV25LdDMzZU42UjBOek90TG9qV2RqT09RNDVFUElDTWlIV0ZOMEhydEtIR3FfeFN4azRiQ3JEZTRfanhjWlcwX3dJUlJ3QWMwXzd3YXoxTDVwaUl3aEdWMXBnM3ZTODBTUkQtZnNYOTJid3dzbUxyalQxcm94R1ZVNmgtcjR3WnZpZk9OekdSdnhpY1VPV1JvZkxaTlQzellSZFpBQ2ZOY3NMQWI1VjdTRHREd2FDVnRZZC1fTjB5d1hRaU5KWVdSdjJIQjFWci1PVUs5ckJBNVY3Y3V4SWZOdVhLejNZSElqTk1WZDRodGdRdUpodnRfdU1NQzB6MW5vdGkwWTk3THp5V3NBNlVfUFFTamlkdzlnQWlrczZ3RmNELVh4LUdZWlhSVmQ1cVdfTm9yaW9TSlJhVERydEk3LVN6Y0k1Z1J6U0NicDMxRWpnc1VwdWNOM3E5aE5hMGZ1V21TMFI5djhIOUpULWM",
       "time": "2026-09-23 08:55:55"
@@ -702,11 +689,6 @@
       "title": "【「竹北的事情就留在竹北」 黃國昌籲支持張嘉郡】 - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOd2xsZ05sR3ZuNDg5cjBxLVkwTjl3dUZWQmhUQTJfQ010R08tNDQ5elBSZWhLT0JnXzRvTWdLVWlleGlOci1ac1RpSkpxRElOaGhaQ1VxXzRHMGJxbEhWd0lycXlDUGc1MVlHMHNBc1JSaExlUkJsX282aXNVcFU1NnNOeWhtdDl4SVY3U2xoRm05aDJjWFdHMFZ2eWdDczlsMjc5T2lERWkyd1Atek1tS1RERm9Va1VhS2xLZld4TmpIU2pUc2J6MFdzRmtOR0RzeVdnSFZ6X0RURUtFZnZaaVZzYkFUS3ptamtwRV9aSkhlYWZFcU81RUp1UDgxdWxOenVrdmZ6VzBTZ0hwWGpfcllZR1Fmdm5RanV5NkU4Y3IyZmhVQ2RQSzJ1UEZGOXRwNnB5TkxVUXktaE9JTFFWdnh6Z25kR0oydEJYUw",
       "time": "2026-09-19 17:50:09"
-    },
-    {
-      "title": "雲林藍白合體！ 黃國昌喊集中選票挺張嘉郡： 竹北破局就留在竹北 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPMDVUbTc1RnlDMllFOUlhaHlOUVRSQTlmNzdNN0JvRmo3VUg1MHBDUWlMR2hQT1lWVlJ5TXU3OGp6R0JyTTJJYk5jUUVHeXpoWWU0TVRTUS1Wd1RWbnBTWjRqZjFKZWgwWlJfNGw1eWZ4M09nZkNCenh1TmhkcENqMDliWnk2RXk4UWlWb2dJYk9UQmFRcEdvVk9CLUQ2bENjbDZaWGdWaHhoMlVURHNZV2lNYUFfY2FZMVZXdWNoRDR1WkZZbndPempiSTVHMEJORXVCNHQtS2Uzb1RkYjFiUllvY1V3cDdHWGlocHd1M255R1l2S0l3VGV0YldfRloySW5qSFdmNGY2Umh2ZUU4amh4UExIbngyOEZsWDB6NDBMM01VTDdDbFo1U291VkJDMk9LVEk1TnFVREE1dGNFSGUtOEwyVGdpZEhYZDRaS3A4M1hFQVIxazBWYVFWNGg4Tk93dUpJY3B3cTVpVVZQck1TaUNKLXY3ci13c042a3BUMWlMeHJpU0hLWE0tV2VicmJKYU03VnhvY0RRX2RkaV84TXdXVEJYUGJ4TXJn",
-      "time": "2026-09-19 15:05:01"
     }
   ],
   "latest_news_20": [
@@ -1246,16 +1228,13 @@
         "title": "劉建國提出「青年三好・雲林正好」政策 推出安居三三三、雲林青鬆12000點 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNcU1WcFVTRzU5a2hUWml0X0N3LWJYTnI4NnFHbEIteWZSWUVLSzlRdlN2OWlON1dlM25haUxscUJMdE9rSHlVbFNFaEprQmVfbm9RMG9pSVg3YlQ4RllyZ3hac2k2S3FJcHlwdFhmNDRDdFlNM1ZDM0ZuX0RMWmJHRDRmNm8ybl9ZUU5rSm5lTHk1a3FFOEVhdk45ekxhNDFURDd1eE1DaHdyZEFmUFVQR1dxVUphaEhWYmxYQ3lFekp2UkZJMVJfUlRDMVZ1UGxWeF9pS2thcWhOcXhpMGZHVUdSY0Vfa0hNeVd5NGtINk1tV1M4YVlnOE5KbTZnTF81RktTVlJDVUpqZEVreXVWUGtfb0pGYk13eldQTko3VWNTQk4xeWJWb0hmU2VuQ2xEMTlDNTFjd3IxYTVfUlM1MFpBMkxqR3NGSnJPTHhkaXRZaUhsVUZwRUdKWXdYd2Nq?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-24 08:43:56"
-      },
+      }
+    ],
+    "facebook": [
       {
-        "title": "劉建國提出「青年三好・雲林正好」政策 推出安居三三三、雲林青鬆12000點 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0pBOTBWY2VEN2dRaGF1VGE3V2UwT1RoYWFEMEZYY01aOFZ1N0N0dEJ3Z3EwTTQzY2diWlZyREQ0NGJSdkdVaFIxWmtSaXllQ243SThVMG1qaWNyTVpQaTJMR044Nk51ZzBodVp1OFF2SC11aFdLZEdtMnFfQ25VR1I0Z0FrSFZLOEdpT1lGRF9UajQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-24 08:35:40"
-      },
-      {
-        "title": "張嘉郡擘劃斗六未來 建構石榴育才、雲科研發、產業落地三支柱 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPUmRfQWdsdFdnLTBYZUo0WVAwRHg5XzVzT2s2Qk9sUFc1VEY1dHV2ZVU2eEl3M29hRDdDRGN5YVVLNWh1dkljV3FXTVp0bHQ2OTZHbzAwU0JocFd3MHZhM3RYekRFa0NsZ211aXlmcmg3el8yRFhfY0duR0NBZVJSa1JqZWRaZ25UTFY2bWczMlBMNXRTeFRZeXFscWFpdnNyeU1xZzZGZzlrQWhfTTVYNEhjVVFBWW1XbnBmRVhhaWUteTh6M0N5ZElYbGNLbUhGYzlmak5RajV6MHFHUXdMMjJxM2VpeG5OOVJ6bW1ERkpObmJHOS1XUEJWUGtuSmItMElVOHdzYVlBR3pQaVhWb1NfY1p1MUJ2WHB2dDhBd3djQlM1d1VqclkyUzRLTDNIUFVqb1RRQVpDOVhDS1hlWjJfRC1pMzQzcElGb1p5TGswSlUyWmFyNUN6NHR2Snl5SnpwTUVlR1RRRFVxazg2MkJ4cDJETUZWZG12bkItQm13UmtwRDd3Qkg0X0ZBSHM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-24 08:33:56"
+        "title": "建國祝大家中秋佳節愉快！🌕✨ 建國知道不少離鄉打拚的鄉親，都已經陸續回到我們最熟悉的家鄉，在這裡先跟所有返鄉的家人們說聲：歡迎回家；一大早還在路上的朋友們，注意交通安全！ ​難得全家團圓，文旦、月餅跟烤肉肯定不能少。不過建國也要化身「健康特派員 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxNb1A2TF8td2xDOWt6RjJHaXlmTU5nUS1nS1FBRDFCYW1CYWc4b3FoS1pDc2pRQldQU0RjN3hyMzA0dDRWTVhSQXIwRDRFdk94TlVRRXpPelZhVGVJNkFCZG1rUkxLNF83LTk2d3dzYlZ0cWpUV3ZwWmlrUFhQQnFPTGE1MEo1bXFLSmpVYXc4dEk3cE9RX3dkcUR6TFB4MGRqaWJ4dVk3bW5ReWZPa2tKd2dIWjhlS2ZIMFRwbHRMdE9iVmJFdmFnLVI3NVN3cEc4aEtZWlVCT0pPbnBUd0J6cVhhYWtBOHZOcW5ocFlPdnJpdzVsbUFCcktDNGMwd3VMVEppUkEydFc5Y0Q2Rnp1ZHFHSHJiUFJvWFAzeUtwTFdWOURvVXdFZ1NwaHdLY2ZhYlZQQVZOTGV2Z0xYMEl2UHhVUF9QUjNkenUzNDh4Ynh2NFRERTdlTDRmOTlOWnU1WUJoQ2ZKdTlYWGJiRXhOR0ZnMnVjaF9JX1E0Nk5FdUtVWklTcG05TzJ1UXdMUjNzWENBMndzMkxxMVRFTXhLYTVlMER1Ym5fY3dOenN3OUFLNkVocVAtZHpPekhCVzA5WmVkVnVtWHdLdmIxbmlnU0dJVy1YOVhoRXZ6TWRJV0gycXAwa3pYa3IyakZLNG5HUHNpVFB0Q1gwc09TUDlqbktLT25ydUdXM0hzWnFmMVBORVBYWlFoaFlCcTk4cGdVNmtHaC1WM1JqNFdBTzRLZmduV2g4TDBoNWh3d3ZHNmFMY01hSGpzLUdOYnY3WDhGck9sTG1TNnMyQ3RfdmVral9NUHkxM2lWWFF6cHZIYXNnRjFfWTZYZElKR3VfWFl6TGlIT295QW11UmJJT19CbTVQRERGY1pVU2h3RHdEQ3otN1ptdjhiMUc0MUpUT2t6TVJxaHJaSG9aUEtfUnpDREJ6V1VPM1FjaE4yVi1YYVNyNHhtbk1XQjVhLVVMSG1PZGVmOF8xN0pHendZSUNjS18wcHduWGVHQjVKYVFYVm81X1d1THVxX2lvVFVITHRIMnNIR1FVM1RYNmE4VFVKc0YyLUpxTzgtcUY2S3BITndxbmY5OHRDMnpYR0otOG1ERTNhY2JkMnF2UTQ4YUFudUFDSUR4bmlXNS1wcXZpZWhSODVRbl81OXlCZ2JQSktrU1ROb3hMSTl0bU1BM05KajNpX2FTQ3E3NnJrUWhxOTNvX193VzNIa1ZOU2tRdjVaN3hlRzZNMjNPWW8xWHpfS2MxWHlIZjN1dVBkWmt6dHJZb0xMY3haN1B4Nlp3WFFlZ24wUmlSVkFjaFpYMkpoR0YyUzlHSnFnQkxhMGVzM0xRUVhEMTdwZWVpc1A3YzFhMzM2QWdudV9zRWRzOThDMW5CbUdOdGdRRVlFWkdqMDNvTWgyeF96ZGYtVURXQVE",
+        "time": "2026-09-25 08:17:56"
       }
     ]
   },
@@ -1464,6 +1443,11 @@
     ],
     "facebook": [
       {
+        "title": "建國祝大家中秋佳節愉快！🌕✨ 建國知道不少離鄉打拚的鄉親，都已經陸續回到我們最熟悉的家鄉，在這裡先跟所有返鄉的家人們說聲：歡迎回家；一大早還在路上的朋友們，注意交通安全！ ​難得全家團圓，文旦、月餅跟烤肉肯定不能少。不過建國也要化身「健康特派員 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxNb1A2TF8td2xDOWt6RjJHaXlmTU5nUS1nS1FBRDFCYW1CYWc4b3FoS1pDc2pRQldQU0RjN3hyMzA0dDRWTVhSQXIwRDRFdk94TlVRRXpPelZhVGVJNkFCZG1rUkxLNF83LTk2d3dzYlZ0cWpUV3ZwWmlrUFhQQnFPTGE1MEo1bXFLSmpVYXc4dEk3cE9RX3dkcUR6TFB4MGRqaWJ4dVk3bW5ReWZPa2tKd2dIWjhlS2ZIMFRwbHRMdE9iVmJFdmFnLVI3NVN3cEc4aEtZWlVCT0pPbnBUd0J6cVhhYWtBOHZOcW5ocFlPdnJpdzVsbUFCcktDNGMwd3VMVEppUkEydFc5Y0Q2Rnp1ZHFHSHJiUFJvWFAzeUtwTFdWOURvVXdFZ1NwaHdLY2ZhYlZQQVZOTGV2Z0xYMEl2UHhVUF9QUjNkenUzNDh4Ynh2NFRERTdlTDRmOTlOWnU1WUJoQ2ZKdTlYWGJiRXhOR0ZnMnVjaF9JX1E0Nk5FdUtVWklTcG05TzJ1UXdMUjNzWENBMndzMkxxMVRFTXhLYTVlMER1Ym5fY3dOenN3OUFLNkVocVAtZHpPekhCVzA5WmVkVnVtWHdLdmIxbmlnU0dJVy1YOVhoRXZ6TWRJV0gycXAwa3pYa3IyakZLNG5HUHNpVFB0Q1gwc09TUDlqbktLT25ydUdXM0hzWnFmMVBORVBYWlFoaFlCcTk4cGdVNmtHaC1WM1JqNFdBTzRLZmduV2g4TDBoNWh3d3ZHNmFMY01hSGpzLUdOYnY3WDhGck9sTG1TNnMyQ3RfdmVral9NUHkxM2lWWFF6cHZIYXNnRjFfWTZYZElKR3VfWFl6TGlIT295QW11UmJJT19CbTVQRERGY1pVU2h3RHdEQ3otN1ptdjhiMUc0MUpUT2t6TVJxaHJaSG9aUEtfUnpDREJ6V1VPM1FjaE4yVi1YYVNyNHhtbk1XQjVhLVVMSG1PZGVmOF8xN0pHendZSUNjS18wcHduWGVHQjVKYVFYVm81X1d1THVxX2lvVFVITHRIMnNIR1FVM1RYNmE4VFVKc0YyLUpxTzgtcUY2S3BITndxbmY5OHRDMnpYR0otOG1ERTNhY2JkMnF2UTQ4YUFudUFDSUR4bmlXNS1wcXZpZWhSODVRbl81OXlCZ2JQSktrU1ROb3hMSTl0bU1BM05KajNpX2FTQ3E3NnJrUWhxOTNvX193VzNIa1ZOU2tRdjVaN3hlRzZNMjNPWW8xWHpfS2MxWHlIZjN1dVBkWmt6dHJZb0xMY3haN1B4Nlp3WFFlZ24wUmlSVkFjaFpYMkpoR0YyUzlHSnFnQkxhMGVzM0xRUVhEMTdwZWVpc1A3YzFhMzM2QWdudV9zRWRzOThDMW5CbUdOdGdRRVlFWkdqMDNvTWgyeF96ZGYtVURXQVE",
+        "time": "2026-09-25 08:17:56"
+      },
+      {
         "title": "#守護詔安客家文化薪火代代傳 #澹仔火遊客庄點亮崙背客庄 三百多年來，詔安客家在雲林落地生根，一代又一代認真打拚，為地方、為家鄉付出，也成為雲林一路向前的重要力量。 嘉郡要謝謝每一位客家鄉親，長年和我們一起顧土地、拚發展。這份對家鄉的感情與付出， - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxOZTFwekJLUDE0X18zNVAwQnFjYWJSY1Jzdm1aeHZ2U2FSTlQydHd6aEU2VzJkQm5GMEtzZ2JGQzJlTTNoeGlUdTZMQXl6WGNveEU0amViNy1NWFB6OUFSa3NwNTlGbTVEWDMzYTJNOWh5Q2RxR2VXbnI3c2xValluM0tRTGlTVHBGWUhnTHdHN3cxNGMxamx3NWxKZ1dpYzlJRFlCRUNVREdJbElsT0x6MkZ4R1VXMHlQYjYtSk0yV0VER2I5QVhGTFBmSmRqaEZGZWd0NFN2cmZlTjR4ZmpxdVJxWkk2alRoR1NSaHhBZUJwN3FXTVFhd3NxLWJIMGRXamM3cXlCeUpHdGRjelpJa0NZYVloZjdvRjkyUktlbHozTXRkaHhOYzhBQUZzcl9NMHpIemV6V3pLQTg1LVAxNERSNWhQRHowSS0yZWl5cXptc0lvQnlaSHdmbzAwZnpGWmFmVGh6cEJScVFHSFVicXczSWYyQ2VLLVNMM1RjYTVfT1RmZkJheU9ZNkJRazRpQ1VsQkZlNkgtRmNnVlZVeTBhbnJfdDNkeDZ1ekg0YUY2WGZnaHVmTk1XSUs4WEI4dWIyQ2JDMmNhb0R6U1VGS1g2a2U5T1IzOTNDM3JsLUtXUDVmZUVpcF9zM0NHYUhVZUF6UGRWRUFSMFpZN25SNnVzaUstTlRVTzBlM3JXLVl5SGM2QjR4YW1tM2MwV0l1Zi0xdjBKR0htOUREVHY3aGpEYlhaOWxJcms1SWxjT3UxTlJHUVNuV1JBbzRmM2FqMmhMTm1HTGhZQlBSalhXTGkzRWtNOEVJMTI0SVhYMWVPMFR2bWlkaGV0ZFNkZFBES2lCYlRSNFFKMnh2ZlZabTRGamJtb2gwVGw2MW5DYUdvaVNobjFZMVdlQlNqWTJua190Q0lFQV9RVEZtQmpJRXZCWFIybzZDV25LdDMzZU42UjBOek90TG9qV2RqT09RNDVFUElDTWlIV0ZOMEhydEtIR3FfeFN4azRiQ3JEZTRfanhjWlcwX3dJUlJ3QWMwXzd3YXoxTDVwaUl3aEdWMXBnM3ZTODBTUkQtZnNYOTJid3dzbUxyalQxcm94R1ZVNmgtcjR3WnZpZk9OekdSdnhpY1VPV1JvZkxaTlQzellSZFpBQ2ZOY3NMQWI1VjdTRHREd2FDVnRZZC1fTjB5d1hRaU5KWVdSdjJIQjFWci1PVUs5ckJBNVY3Y3V4SWZOdVhLejNZSElqTk1WZDRodGdRdUpodnRfdU1NQzB6MW5vdGkwWTk3THp5V3NBNlVfUFFTamlkdzlnQWlrczZ3RmNELVh4LUdZWlhSVmQ1cVdfTm9yaW9TSlJhVERydEk3LVN6Y0k1Z1J6U0NicDMxRWpnc1VwdWNOM3E5aE5hMGZ1V21TMFI5djhIOUpULWM",
         "time": "2026-09-23 08:55:55"
@@ -1662,6 +1646,13 @@
     "hour": [],
     "day": [
       {
+        "title": "建國祝大家中秋佳節愉快！🌕✨ 建國知道不少離鄉打拚的鄉親，都已經陸續回到我們最熟悉的家鄉，在這裡先跟所有返鄉的家人們說聲：歡迎回家；一大早還在路上的朋友們，注意交通安全！ ​難得全家團圓，文旦、月餅跟烤肉肯定不能少。不過建國也要化身「健康特派員 - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxNb1A2TF8td2xDOWt6RjJHaXlmTU5nUS1nS1FBRDFCYW1CYWc4b3FoS1pDc2pRQldQU0RjN3hyMzA0dDRWTVhSQXIwRDRFdk94TlVRRXpPelZhVGVJNkFCZG1rUkxLNF83LTk2d3dzYlZ0cWpUV3ZwWmlrUFhQQnFPTGE1MEo1bXFLSmpVYXc4dEk3cE9RX3dkcUR6TFB4MGRqaWJ4dVk3bW5ReWZPa2tKd2dIWjhlS2ZIMFRwbHRMdE9iVmJFdmFnLVI3NVN3cEc4aEtZWlVCT0pPbnBUd0J6cVhhYWtBOHZOcW5ocFlPdnJpdzVsbUFCcktDNGMwd3VMVEppUkEydFc5Y0Q2Rnp1ZHFHSHJiUFJvWFAzeUtwTFdWOURvVXdFZ1NwaHdLY2ZhYlZQQVZOTGV2Z0xYMEl2UHhVUF9QUjNkenUzNDh4Ynh2NFRERTdlTDRmOTlOWnU1WUJoQ2ZKdTlYWGJiRXhOR0ZnMnVjaF9JX1E0Nk5FdUtVWklTcG05TzJ1UXdMUjNzWENBMndzMkxxMVRFTXhLYTVlMER1Ym5fY3dOenN3OUFLNkVocVAtZHpPekhCVzA5WmVkVnVtWHdLdmIxbmlnU0dJVy1YOVhoRXZ6TWRJV0gycXAwa3pYa3IyakZLNG5HUHNpVFB0Q1gwc09TUDlqbktLT25ydUdXM0hzWnFmMVBORVBYWlFoaFlCcTk4cGdVNmtHaC1WM1JqNFdBTzRLZmduV2g4TDBoNWh3d3ZHNmFMY01hSGpzLUdOYnY3WDhGck9sTG1TNnMyQ3RfdmVral9NUHkxM2lWWFF6cHZIYXNnRjFfWTZYZElKR3VfWFl6TGlIT295QW11UmJJT19CbTVQRERGY1pVU2h3RHdEQ3otN1ptdjhiMUc0MUpUT2t6TVJxaHJaSG9aUEtfUnpDREJ6V1VPM1FjaE4yVi1YYVNyNHhtbk1XQjVhLVVMSG1PZGVmOF8xN0pHendZSUNjS18wcHduWGVHQjVKYVFYVm81X1d1THVxX2lvVFVITHRIMnNIR1FVM1RYNmE4VFVKc0YyLUpxTzgtcUY2S3BITndxbmY5OHRDMnpYR0otOG1ERTNhY2JkMnF2UTQ4YUFudUFDSUR4bmlXNS1wcXZpZWhSODVRbl81OXlCZ2JQSktrU1ROb3hMSTl0bU1BM05KajNpX2FTQ3E3NnJrUWhxOTNvX193VzNIa1ZOU2tRdjVaN3hlRzZNMjNPWW8xWHpfS2MxWHlIZjN1dVBkWmt6dHJZb0xMY3haN1B4Nlp3WFFlZ24wUmlSVkFjaFpYMkpoR0YyUzlHSnFnQkxhMGVzM0xRUVhEMTdwZWVpc1A3YzFhMzM2QWdudV9zRWRzOThDMW5CbUdOdGdRRVlFWkdqMDNvTWgyeF96ZGYtVURXQVE",
+        "time": "2026-09-25 08:17:56",
+        "platform": "facebook",
+        "risk": "綠"
+      },
+      {
         "title": "助攻劉建國！賴清德「行動中常會」雲林場 - 三立新聞",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yTWdfNjgxQjE5d2R0RFdzaGdKeG5UOUNQdDRxamhfUjZqeHROUEdvU2h6SThFcWRtNzJTVEt4cEhBX2R3VkNFVVNrdFBRZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-24 15:01:51",
@@ -1688,20 +1679,6 @@
         "time": "2026-09-24 08:43:56",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "劉建國提出「青年三好・雲林正好」政策 推出安居三三三、雲林青鬆12000點 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0pBOTBWY2VEN2dRaGF1VGE3V2UwT1RoYWFEMEZYY01aOFZ1N0N0dEJ3Z3EwTTQzY2diWlZyREQ0NGJSdkdVaFIxWmtSaXllQ243SThVMG1qaWNyTVpQaTJMR044Nk51ZzBodVp1OFF2SC11aFdLZEdtMnFfQ25VR1I0Z0FrSFZLOEdpT1lGRF9UajQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-24 08:35:40",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "張嘉郡擘劃斗六未來 建構石榴育才、雲科研發、產業落地三支柱 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPUmRfQWdsdFdnLTBYZUo0WVAwRHg5XzVzT2s2Qk9sUFc1VEY1dHV2ZVU2eEl3M29hRDdDRGN5YVVLNWh1dkljV3FXTVp0bHQ2OTZHbzAwU0JocFd3MHZhM3RYekRFa0NsZ211aXlmcmg3el8yRFhfY0duR0NBZVJSa1JqZWRaZ25UTFY2bWczMlBMNXRTeFRZeXFscWFpdnNyeU1xZzZGZzlrQWhfTTVYNEhjVVFBWW1XbnBmRVhhaWUteTh6M0N5ZElYbGNLbUhGYzlmak5RajV6MHFHUXdMMjJxM2VpeG5OOVJ6bW1ERkpObmJHOS1XUEJWUGtuSmItMElVOHdzYVlBR3pQaVhWb1NfY1p1MUJ2WHB2dDhBd3djQlM1d1VqclkyUzRLTDNIUFVqb1RRQVpDOVhDS1hlWjJfRC1pMzQzcElGb1p5TGswSlUyWmFyNUN6NHR2Snl5SnpwTUVlR1RRRFVxazg2MkJ4cDJETUZWZG12bkItQm13UmtwRDd3Qkg0X0ZBSHM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-24 08:33:56",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -1709,13 +1686,14 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 4
-      },
-      {
-        "name": "斗六",
-        "count": 1
+        "count": 3
       }
     ],
-    "groups": []
+    "groups": [
+      {
+        "name": "交通通勤",
+        "count": 1
+      }
+    ]
   }
 }
