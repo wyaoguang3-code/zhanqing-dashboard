@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-25T06:51:27.616777+00:00",
+  "generated_at": "2026-09-25T07:09:37.151455+00:00",
   "metrics": {
-    "total_24h": 2,
-    "prev_24h": 44,
-    "growth_pct": -95.45,
-    "news_24h": 1,
+    "total_24h": 1,
+    "prev_24h": 42,
+    "growth_pct": -97.62,
+    "news_24h": 0,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 238,
+    "total": 237,
     "prev": 379,
-    "growth_pct": -37.2,
-    "news": 202,
+    "growth_pct": -37.47,
+    "news": 201,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -29,16 +29,12 @@
     {
       "platform": "facebook",
       "count": 1
-    },
-    {
-      "platform": "news",
-      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 202
+      "count": 201
     },
     {
       "platform": "facebook",
@@ -51,10 +47,6 @@
   ],
   "by_hour": [
     {
-      "hour": "2026-09-24 15:00",
-      "count": 1
-    },
-    {
       "hour": "2026-09-25 08:00",
       "count": 1
     }
@@ -62,7 +54,7 @@
   "by_hour_7d": [
     {
       "hour": "2026-09-18 15:00",
-      "count": 5
+      "count": 4
     },
     {
       "hour": "2026-09-18 16:00",
@@ -369,51 +361,19 @@
       "count": 1
     }
   ],
-  "mention_by_platform_24h": [
-    {
-      "platform": "news",
-      "count": 1
-    }
-  ],
-  "mention_latest_by_platform_24h": {
-    "news": [
-      {
-        "title": "助攻劉建國！賴清德「行動中常會」雲林場 - 三立新聞",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yTWdfNjgxQjE5d2R0RFdzaGdKeG5UOUNQdDRxamhfUjZqeHROUEdvU2h6SThFcWRtNzJTVEt4cEhBX2R3VkNFVVNrdFBRZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-24 15:01:51"
-      }
-    ]
-  },
-  "alias_by_platform_24h": [
-    {
-      "platform": "news",
-      "count": 1
-    }
-  ],
-  "alias_latest_by_platform_24h": {
-    "news": [
-      {
-        "title": "助攻劉建國！賴清德「行動中常會」雲林場 - 三立新聞",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yTWdfNjgxQjE5d2R0RFdzaGdKeG5UOUNQdDRxamhfUjZqeHROUEdvU2h6SThFcWRtNzJTVEt4cEhBX2R3VkNFVVNrdFBRZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-24 15:01:51"
-      }
-    ]
-  },
+  "mention_by_platform_24h": [],
+  "mention_latest_by_platform_24h": {},
+  "alias_by_platform_24h": [],
+  "alias_latest_by_platform_24h": {},
   "mention_compare_24h": {
     "張嘉郡": 0,
-    "劉建國": 1
+    "劉建國": 0
   },
   "mention_compare_7d": {
     "張嘉郡": 92,
-    "劉建國": 144
+    "劉建國": 143
   },
-  "top_news": [
-    {
-      "title": "助攻劉建國！賴清德「行動中常會」雲林場 - 三立新聞",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yTWdfNjgxQjE5d2R0RFdzaGdKeG5UOUNQdDRxamhfUjZqeHROUEdvU2h6SThFcWRtNzJTVEt4cEhBX2R3VkNFVVNrdFBRZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-24 15:01:51"
-    }
-  ],
+  "top_news": [],
   "top_news_7d": [
     {
       "title": "助攻劉建國！賴清德「行動中常會」雲林場 - 三立新聞",
@@ -1141,13 +1101,6 @@
         "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxNb1A2TF8td2xDOWt6RjJHaXlmTU5nUS1nS1FBRDFCYW1CYWc4b3FoS1pDc2pRQldQU0RjN3hyMzA0dDRWTVhSQXIwRDRFdk94TlVRRXpPelZhVGVJNkFCZG1rUkxLNF83LTk2d3dzYlZ0cWpUV3ZwWmlrUFhQQnFPTGE1MEo1bXFLSmpVYXc4dEk3cE9RX3dkcUR6TFB4MGRqaWJ4dVk3bW5ReWZPa2tKd2dIWjhlS2ZIMFRwbHRMdE9iVmJFdmFnLVI3NVN3cEc4aEtZWlVCT0pPbnBUd0J6cVhhYWtBOHZOcW5ocFlPdnJpdzVsbUFCcktDNGMwd3VMVEppUkEydFc5Y0Q2Rnp1ZHFHSHJiUFJvWFAzeUtwTFdWOURvVXdFZ1NwaHdLY2ZhYlZQQVZOTGV2Z0xYMEl2UHhVUF9QUjNkenUzNDh4Ynh2NFRERTdlTDRmOTlOWnU1WUJoQ2ZKdTlYWGJiRXhOR0ZnMnVjaF9JX1E0Nk5FdUtVWklTcG05TzJ1UXdMUjNzWENBMndzMkxxMVRFTXhLYTVlMER1Ym5fY3dOenN3OUFLNkVocVAtZHpPekhCVzA5WmVkVnVtWHdLdmIxbmlnU0dJVy1YOVhoRXZ6TWRJV0gycXAwa3pYa3IyakZLNG5HUHNpVFB0Q1gwc09TUDlqbktLT25ydUdXM0hzWnFmMVBORVBYWlFoaFlCcTk4cGdVNmtHaC1WM1JqNFdBTzRLZmduV2g4TDBoNWh3d3ZHNmFMY01hSGpzLUdOYnY3WDhGck9sTG1TNnMyQ3RfdmVral9NUHkxM2lWWFF6cHZIYXNnRjFfWTZYZElKR3VfWFl6TGlIT295QW11UmJJT19CbTVQRERGY1pVU2h3RHdEQ3otN1ptdjhiMUc0MUpUT2t6TVJxaHJaSG9aUEtfUnpDREJ6V1VPM1FjaE4yVi1YYVNyNHhtbk1XQjVhLVVMSG1PZGVmOF8xN0pHendZSUNjS18wcHduWGVHQjVKYVFYVm81X1d1THVxX2lvVFVITHRIMnNIR1FVM1RYNmE4VFVKc0YyLUpxTzgtcUY2S3BITndxbmY5OHRDMnpYR0otOG1ERTNhY2JkMnF2UTQ4YUFudUFDSUR4bmlXNS1wcXZpZWhSODVRbl81OXlCZ2JQSktrU1ROb3hMSTl0bU1BM05KajNpX2FTQ3E3NnJrUWhxOTNvX193VzNIa1ZOU2tRdjVaN3hlRzZNMjNPWW8xWHpfS2MxWHlIZjN1dVBkWmt6dHJZb0xMY3haN1B4Nlp3WFFlZ24wUmlSVkFjaFpYMkpoR0YyUzlHSnFnQkxhMGVzM0xRUVhEMTdwZWVpc1A3YzFhMzM2QWdudV9zRWRzOThDMW5CbUdOdGdRRVlFWkdqMDNvTWgyeF96ZGYtVURXQVE",
         "time": "2026-09-25 08:17:56"
       }
-    ],
-    "news": [
-      {
-        "title": "助攻劉建國！賴清德「行動中常會」雲林場 - 三立新聞",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yTWdfNjgxQjE5d2R0RFdzaGdKeG5UOUNQdDRxamhfUjZqeHROUEdvU2h6SThFcWRtNzJTVEt4cEhBX2R3VkNFVVNrdFBRZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-24 15:01:51"
-      }
     ]
   },
   "latest_by_platform_7d": {
@@ -1548,23 +1501,11 @@
         "time": "2026-09-25 08:17:56",
         "platform": "facebook",
         "risk": "綠"
-      },
-      {
-        "title": "助攻劉建國！賴清德「行動中常會」雲林場 - 三立新聞",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yTWdfNjgxQjE5d2R0RFdzaGdKeG5UOUNQdDRxamhfUjZqeHROUEdvU2h6SThFcWRtNzJTVEt4cEhBX2R3VkNFVVNrdFBRZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-24 15:01:51",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
   "regional_groups": {
-    "regions": [
-      {
-        "name": "雲林",
-        "count": 1
-      }
-    ],
+    "regions": [],
     "groups": [
       {
         "name": "交通通勤",
