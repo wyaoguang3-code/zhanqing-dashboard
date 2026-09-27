@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-27T03:54:26.954033+00:00",
+  "generated_at": "2026-09-27T04:10:18.152569+00:00",
   "metrics": {
-    "total_24h": 1,
+    "total_24h": 4,
     "prev_24h": 2,
-    "growth_pct": -50.0,
-    "news_24h": 1,
+    "growth_pct": 100.0,
+    "news_24h": 4,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 188,
+    "total": 191,
     "prev": 366,
-    "growth_pct": -48.63,
-    "news": 159,
+    "growth_pct": -47.81,
+    "news": 162,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,13 +28,13 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 1
+      "count": 4
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 159
+      "count": 162
     },
     {
       "platform": "facebook",
@@ -49,6 +49,10 @@
     {
       "hour": "2026-09-26 12:00",
       "count": 1
+    },
+    {
+      "hour": "2026-09-27 11:00",
+      "count": 3
     }
   ],
   "by_hour_7d": [
@@ -299,21 +303,86 @@
     {
       "hour": "2026-09-26 12:00",
       "count": 1
+    },
+    {
+      "hour": "2026-09-27 11:00",
+      "count": 3
     }
   ],
-  "mention_by_platform_24h": [],
-  "mention_latest_by_platform_24h": {},
-  "alias_by_platform_24h": [],
-  "alias_latest_by_platform_24h": {},
+  "mention_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 3
+    }
+  ],
+  "mention_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "雲林縣長藍白合！柯文哲斗六輔選拜票 讚張嘉郡「沒問題啦」：有能力承接雲林發展重任 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOUzBqM0lwcFdDd05lbllDVFZBbDlzMDBJUXJGQlI5U1Q0UnZ5bXRKbTRlTTBpb1VhVFlZakp3ZzhVeHZyUkNwMHg5MzNzelJ6aFNNMzVqdXJxXzM5bGdlMm9DdThWZnc0YWFjYWlrazVWNUJlbmZ2VXpLYXRxMDE3ZTB1ZGdnU3RHX1RkRkdybXhha0tURjlsbmVyZ1RIS2pZNDZ1WnJReFdNRHhNS0hiLUEteXZabmlQOE4ya1Bkd3lBRkFEZVlYMGRsYXNSZ1N5ZGdPTVNDY0NiemxBSU90VDkwZ0RVOFRtVkhtMWQ1UVZtenNpNjRwMTdsblNDbFZsTG9lTzI2WnBVRFNHOEZseXl4SFdYV1htcXBWOEZoejd5ak9xdi01YmtGQmRlLWpES3pxQXkyUS1oSmxQS2RYZ1VuWE42TmI1bi05bGlDNU1NN1R4RGlVZl9ySHJqWEYydmg3T2IzTFZSNksxMDJkNTRVeGNqSmlEYlZBQ2hsdHNTdjMtaW45ck45UXk1Q012Y0NZZkYwYTFrMDhWVDRBQlk1emhqRllhWVBDZVhhUnBCS2FLVzBibW02N1FHdS1hb1lWRnBwUnNwZ2pxdDZMT2VXcXJLc2RuaEtRN0ZHQ0Y0XzZVbUtyaUxGZzJHbXZQQlNSMWNXOENhaDhH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-27 11:31:50"
+      },
+      {
+        "title": "南下雲林合體掃市場 柯文哲替張嘉郡能力打包票：她沒問題啦！ - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNR21ETjAtZk5QMng1aFF5X3M1UmY5bVkxdTFWLUhWNW1sVlowaEJNSThqWEJiN1I1clh6ZDRRTGIyQVpGQzU5bDc5RC1rWnJpMmo0UnhKcHpmQkdKd0tTSVlTYTNEb2pTbWNHcnZDS21zNjFKbVg5Z0NjYmVWX0Fkc1JRelZaN1VFZ2IzakRMV2NaVHNzMVhKVXE1aTNacTF1ZXFzcDFfTkVhdXZib0FxU2hUWDNVdkhZcU5wWXFXSlNRbUc2dDVPbHJ6OWlVLUVtbXNWdUJmcVd2LWtzYWRVNHVObjAzUEZsVjJSVk11QWVXWTgxNmJiWkRsNWZEYTQ1bVZieFBVcEhXN2RxY1RJVnlvSUFxVkFFQjhwM1NsbXFNWjBsel8zMjNWZld4Nm94dGZoUWRsUHFRQ0d6UFdwT0Etc3RJX09POU9ScXdXZUlzQWdHSndGWEtHMnBHN3cybGExcHdsdFYtQXpzand5TkREaTBiN1d0Y0V5OHRMRHpKLUZSNmNSbXh3OS1UUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-27 11:22:17"
+      },
+      {
+        "title": "柯文哲出手挺張嘉郡！一句「她沒問題啦」引爆雲林藍白合 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vLWxtalJvWTNuSlJFUHB1ZURpQUdXdDFYNkNQV05FMHdzamN3Q0ducVp2QVM3TVp5R3BWbDRFYWhMTUNVUEFmTDJDOG1JNGFMWXRjSjVDOUhWTVhsbEltaUZDT0pMU2E3Y25CZE93?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-27 11:18:17"
+      }
+    ]
+  },
+  "alias_by_platform_24h": [
+    {
+      "platform": "news",
+      "count": 3
+    }
+  ],
+  "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "雲林縣長藍白合！柯文哲斗六輔選拜票 讚張嘉郡「沒問題啦」：有能力承接雲林發展重任 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOUzBqM0lwcFdDd05lbllDVFZBbDlzMDBJUXJGQlI5U1Q0UnZ5bXRKbTRlTTBpb1VhVFlZakp3ZzhVeHZyUkNwMHg5MzNzelJ6aFNNMzVqdXJxXzM5bGdlMm9DdThWZnc0YWFjYWlrazVWNUJlbmZ2VXpLYXRxMDE3ZTB1ZGdnU3RHX1RkRkdybXhha0tURjlsbmVyZ1RIS2pZNDZ1WnJReFdNRHhNS0hiLUEteXZabmlQOE4ya1Bkd3lBRkFEZVlYMGRsYXNSZ1N5ZGdPTVNDY0NiemxBSU90VDkwZ0RVOFRtVkhtMWQ1UVZtenNpNjRwMTdsblNDbFZsTG9lTzI2WnBVRFNHOEZseXl4SFdYV1htcXBWOEZoejd5ak9xdi01YmtGQmRlLWpES3pxQXkyUS1oSmxQS2RYZ1VuWE42TmI1bi05bGlDNU1NN1R4RGlVZl9ySHJqWEYydmg3T2IzTFZSNksxMDJkNTRVeGNqSmlEYlZBQ2hsdHNTdjMtaW45ck45UXk1Q012Y0NZZkYwYTFrMDhWVDRBQlk1emhqRllhWVBDZVhhUnBCS2FLVzBibW02N1FHdS1hb1lWRnBwUnNwZ2pxdDZMT2VXcXJLc2RuaEtRN0ZHQ0Y0XzZVbUtyaUxGZzJHbXZQQlNSMWNXOENhaDhH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-27 11:31:50"
+      },
+      {
+        "title": "南下雲林合體掃市場 柯文哲替張嘉郡能力打包票：她沒問題啦！ - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNR21ETjAtZk5QMng1aFF5X3M1UmY5bVkxdTFWLUhWNW1sVlowaEJNSThqWEJiN1I1clh6ZDRRTGIyQVpGQzU5bDc5RC1rWnJpMmo0UnhKcHpmQkdKd0tTSVlTYTNEb2pTbWNHcnZDS21zNjFKbVg5Z0NjYmVWX0Fkc1JRelZaN1VFZ2IzakRMV2NaVHNzMVhKVXE1aTNacTF1ZXFzcDFfTkVhdXZib0FxU2hUWDNVdkhZcU5wWXFXSlNRbUc2dDVPbHJ6OWlVLUVtbXNWdUJmcVd2LWtzYWRVNHVObjAzUEZsVjJSVk11QWVXWTgxNmJiWkRsNWZEYTQ1bVZieFBVcEhXN2RxY1RJVnlvSUFxVkFFQjhwM1NsbXFNWjBsel8zMjNWZld4Nm94dGZoUWRsUHFRQ0d6UFdwT0Etc3RJX09POU9ScXdXZUlzQWdHSndGWEtHMnBHN3cybGExcHdsdFYtQXpzand5TkREaTBiN1d0Y0V5OHRMRHpKLUZSNmNSbXh3OS1UUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-27 11:22:17"
+      },
+      {
+        "title": "柯文哲出手挺張嘉郡！一句「她沒問題啦」引爆雲林藍白合 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vLWxtalJvWTNuSlJFUHB1ZURpQUdXdDFYNkNQV05FMHdzamN3Q0ducVp2QVM3TVp5R3BWbDRFYWhMTUNVUEFmTDJDOG1JNGFMWXRjSjVDOUhWTVhsbEltaUZDT0pMU2E3Y25CZE93?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-27 11:18:17"
+      }
+    ]
+  },
   "mention_compare_24h": {
-    "張嘉郡": 0,
+    "張嘉郡": 3,
     "劉建國": 0
   },
   "mention_compare_7d": {
-    "張嘉郡": 67,
+    "張嘉郡": 70,
     "劉建國": 121
   },
   "top_news": [
+    {
+      "title": "雲林縣長藍白合！柯文哲斗六輔選拜票 讚張嘉郡「沒問題啦」：有能力承接雲林發展重任 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOUzBqM0lwcFdDd05lbllDVFZBbDlzMDBJUXJGQlI5U1Q0UnZ5bXRKbTRlTTBpb1VhVFlZakp3ZzhVeHZyUkNwMHg5MzNzelJ6aFNNMzVqdXJxXzM5bGdlMm9DdThWZnc0YWFjYWlrazVWNUJlbmZ2VXpLYXRxMDE3ZTB1ZGdnU3RHX1RkRkdybXhha0tURjlsbmVyZ1RIS2pZNDZ1WnJReFdNRHhNS0hiLUEteXZabmlQOE4ya1Bkd3lBRkFEZVlYMGRsYXNSZ1N5ZGdPTVNDY0NiemxBSU90VDkwZ0RVOFRtVkhtMWQ1UVZtenNpNjRwMTdsblNDbFZsTG9lTzI2WnBVRFNHOEZseXl4SFdYV1htcXBWOEZoejd5ak9xdi01YmtGQmRlLWpES3pxQXkyUS1oSmxQS2RYZ1VuWE42TmI1bi05bGlDNU1NN1R4RGlVZl9ySHJqWEYydmg3T2IzTFZSNksxMDJkNTRVeGNqSmlEYlZBQ2hsdHNTdjMtaW45ck45UXk1Q012Y0NZZkYwYTFrMDhWVDRBQlk1emhqRllhWVBDZVhhUnBCS2FLVzBibW02N1FHdS1hb1lWRnBwUnNwZ2pxdDZMT2VXcXJLc2RuaEtRN0ZHQ0Y0XzZVbUtyaUxGZzJHbXZQQlNSMWNXOENhaDhH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-27 11:31:50"
+    },
+    {
+      "title": "南下雲林合體掃市場 柯文哲替張嘉郡能力打包票：她沒問題啦！ - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNR21ETjAtZk5QMng1aFF5X3M1UmY5bVkxdTFWLUhWNW1sVlowaEJNSThqWEJiN1I1clh6ZDRRTGIyQVpGQzU5bDc5RC1rWnJpMmo0UnhKcHpmQkdKd0tTSVlTYTNEb2pTbWNHcnZDS21zNjFKbVg5Z0NjYmVWX0Fkc1JRelZaN1VFZ2IzakRMV2NaVHNzMVhKVXE1aTNacTF1ZXFzcDFfTkVhdXZib0FxU2hUWDNVdkhZcU5wWXFXSlNRbUc2dDVPbHJ6OWlVLUVtbXNWdUJmcVd2LWtzYWRVNHVObjAzUEZsVjJSVk11QWVXWTgxNmJiWkRsNWZEYTQ1bVZieFBVcEhXN2RxY1RJVnlvSUFxVkFFQjhwM1NsbXFNWjBsel8zMjNWZld4Nm94dGZoUWRsUHFRQ0d6UFdwT0Etc3RJX09POU9ScXdXZUlzQWdHSndGWEtHMnBHN3cybGExcHdsdFYtQXpzand5TkREaTBiN1d0Y0V5OHRMRHpKLUZSNmNSbXh3OS1UUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-27 11:22:17"
+    },
+    {
+      "title": "柯文哲出手挺張嘉郡！一句「她沒問題啦」引爆雲林藍白合 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vLWxtalJvWTNuSlJFUHB1ZURpQUdXdDFYNkNQV05FMHdzamN3Q0ducVp2QVM3TVp5R3BWbDRFYWhMTUNVUEFmTDJDOG1JNGFMWXRjSjVDOUhWTVhsbEltaUZDT0pMU2E3Y25CZE93?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-27 11:18:17"
+    },
     {
       "title": "中秋掃街屏東縣長周春米建國市場問候攤商 蘇清泉恆春關注國旅 - Taiwan News",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BLTdxV0pBWFFBRXFTQWtmQmNveTJSNEZ6SjJCX2FIQUYxLV9IdmpTRFQ2dmZudHlWU01SdTVnVXZxYmlvSFV1Y0hrNElKLWtiV3VvemM2VXE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -321,6 +390,21 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "雲林縣長藍白合！柯文哲斗六輔選拜票 讚張嘉郡「沒問題啦」：有能力承接雲林發展重任 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOUzBqM0lwcFdDd05lbllDVFZBbDlzMDBJUXJGQlI5U1Q0UnZ5bXRKbTRlTTBpb1VhVFlZakp3ZzhVeHZyUkNwMHg5MzNzelJ6aFNNMzVqdXJxXzM5bGdlMm9DdThWZnc0YWFjYWlrazVWNUJlbmZ2VXpLYXRxMDE3ZTB1ZGdnU3RHX1RkRkdybXhha0tURjlsbmVyZ1RIS2pZNDZ1WnJReFdNRHhNS0hiLUEteXZabmlQOE4ya1Bkd3lBRkFEZVlYMGRsYXNSZ1N5ZGdPTVNDY0NiemxBSU90VDkwZ0RVOFRtVkhtMWQ1UVZtenNpNjRwMTdsblNDbFZsTG9lTzI2WnBVRFNHOEZseXl4SFdYV1htcXBWOEZoejd5ak9xdi01YmtGQmRlLWpES3pxQXkyUS1oSmxQS2RYZ1VuWE42TmI1bi05bGlDNU1NN1R4RGlVZl9ySHJqWEYydmg3T2IzTFZSNksxMDJkNTRVeGNqSmlEYlZBQ2hsdHNTdjMtaW45ck45UXk1Q012Y0NZZkYwYTFrMDhWVDRBQlk1emhqRllhWVBDZVhhUnBCS2FLVzBibW02N1FHdS1hb1lWRnBwUnNwZ2pxdDZMT2VXcXJLc2RuaEtRN0ZHQ0Y0XzZVbUtyaUxGZzJHbXZQQlNSMWNXOENhaDhH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-27 11:31:50"
+    },
+    {
+      "title": "南下雲林合體掃市場 柯文哲替張嘉郡能力打包票：她沒問題啦！ - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNR21ETjAtZk5QMng1aFF5X3M1UmY5bVkxdTFWLUhWNW1sVlowaEJNSThqWEJiN1I1clh6ZDRRTGIyQVpGQzU5bDc5RC1rWnJpMmo0UnhKcHpmQkdKd0tTSVlTYTNEb2pTbWNHcnZDS21zNjFKbVg5Z0NjYmVWX0Fkc1JRelZaN1VFZ2IzakRMV2NaVHNzMVhKVXE1aTNacTF1ZXFzcDFfTkVhdXZib0FxU2hUWDNVdkhZcU5wWXFXSlNRbUc2dDVPbHJ6OWlVLUVtbXNWdUJmcVd2LWtzYWRVNHVObjAzUEZsVjJSVk11QWVXWTgxNmJiWkRsNWZEYTQ1bVZieFBVcEhXN2RxY1RJVnlvSUFxVkFFQjhwM1NsbXFNWjBsel8zMjNWZld4Nm94dGZoUWRsUHFRQ0d6UFdwT0Etc3RJX09POU9ScXdXZUlzQWdHSndGWEtHMnBHN3cybGExcHdsdFYtQXpzand5TkREaTBiN1d0Y0V5OHRMRHpKLUZSNmNSbXh3OS1UUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-27 11:22:17"
+    },
+    {
+      "title": "柯文哲出手挺張嘉郡！一句「她沒問題啦」引爆雲林藍白合 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vLWxtalJvWTNuSlJFUHB1ZURpQUdXdDFYNkNQV05FMHdzamN3Q0ducVp2QVM3TVp5R3BWbDRFYWhMTUNVUEFmTDJDOG1JNGFMWXRjSjVDOUhWTVhsbEltaUZDT0pMU2E3Y25CZE93?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-27 11:18:17"
+    },
     {
       "title": "中秋掃街屏東縣長周春米建國市場問候攤商 蘇清泉恆春關注國旅 - Taiwan News",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BLTdxV0pBWFFBRXFTQWtmQmNveTJSNEZ6SjJCX2FIQUYxLV9IdmpTRFQ2dmZudHlWU01SdTVnVXZxYmlvSFV1Y0hrNElKLWtiV3VvemM2VXE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -405,21 +489,6 @@
       "title": "台西農會再推爆款「烤香米」 張嘉郡力挺雲林農產創新 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVDVQY01iYncwNjJoaHN4VmJmZXlCNl9EME9IQ2lZalNuekRmYUE1ZmFqLTh6c1IwUWktcFVXVmNfTHBfOTBGOWxLc2hPejRNb0NYdzhMb3kwUVFFNDF4TEVSWXF4V2t4X1d6YTJjRm9oYUNJUXRiNWdBNGZoQmoxLTl2U3JFNS1falVTT1JDLU9aUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-23 21:50:38"
-    },
-    {
-      "title": "台西烤玉米熱銷270萬包再出招 張嘉郡助「烤香米」新品搶攻米食市場 | 觀傳媒 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlUmJ1emNqRnREcmFJLUc4amtXejdjektqZ2tYN1VKRzdUNFBCVEItdEhoTzhkeU40cjNYcDR5c1M3WlN3ZkcwOXdnd0RmRE9mbkJocml3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-23 21:18:16"
-    },
-    {
-      "title": "烤玉米後再出招！台西農會再推「烤香米」連張嘉郡都忍不住大口啖 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQd21tMjJNeDFObDNiYUI0T2pBZ1g0ZzhMTjdoRjMxdDdQazFzREYzZndDNUJON0wtUXFxQXBScDZWUkxWdXhtZW1MYmJEMGNweXJYRzRub1ltS1VIWjdPd0lRRkVISElITnVjNU5vMDNRd1paMTJ0WDFoQ2VhUmNpbzVEUWlpNzB3bjZHWW54cmpBYnBqb2hRd0ZacTJSNld4b3NqUDVUcGpMR21BSnBfUFRwajFxRnVKdWpwUDVCT242SF9Na0xIWDBkYS1wLUY3S05QdlgtQkduakd0UXpuYnZlaU9aVnVCRThBdkg5VVN0RVY0Ull1YmNxd0NOcEFXQnY5X2h1NXp1VjB3RWJ6bmxUanNKRWZJbmdyTkNZUk1Ta1ZEdjJmU21OdnoyYnVmbDFQOVVhQmNudmpRTElCLTZ0R0ZaeVA3SG0tcHZCS1dodDNlTHZuQnJubGpvTVlLQ2JNQlh0akU1RURwUHZNUWJfaEFfeTJQcHU0UnMwaHc0dmlPSmZGaVZBQVM3a1FtTVhNQlJBU0FpNjQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-23 21:11:03"
-    },
-    {
-      "title": "烤玉米後再出招！台西農會再推「烤香米」連張嘉郡都忍不住大口啖 - news.pchome.com.tw",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeE1XX1F1SUN3MlRqRXNRSHZodV93ejRwUW1qaS1vU05MX0hPS3hCLUxyakt1WThZc3lhYTZSa3ZLQ2wxem1yX1NRZFlhczVDd1VxRE95RDEwcWFsaTB6WkFaMU92WTl0aVI1Rkt1ampXMWNsX1l1dXBtQmQ4ZmZ6aG1KWkFyWDBEWHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-23 21:11:03"
     }
   ],
   "latest_facebook_20": [
@@ -526,6 +595,21 @@
   ],
   "latest_news_20": [
     {
+      "title": "雲林縣長藍白合！柯文哲斗六輔選拜票 讚張嘉郡「沒問題啦」：有能力承接雲林發展重任 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOUzBqM0lwcFdDd05lbllDVFZBbDlzMDBJUXJGQlI5U1Q0UnZ5bXRKbTRlTTBpb1VhVFlZakp3ZzhVeHZyUkNwMHg5MzNzelJ6aFNNMzVqdXJxXzM5bGdlMm9DdThWZnc0YWFjYWlrazVWNUJlbmZ2VXpLYXRxMDE3ZTB1ZGdnU3RHX1RkRkdybXhha0tURjlsbmVyZ1RIS2pZNDZ1WnJReFdNRHhNS0hiLUEteXZabmlQOE4ya1Bkd3lBRkFEZVlYMGRsYXNSZ1N5ZGdPTVNDY0NiemxBSU90VDkwZ0RVOFRtVkhtMWQ1UVZtenNpNjRwMTdsblNDbFZsTG9lTzI2WnBVRFNHOEZseXl4SFdYV1htcXBWOEZoejd5ak9xdi01YmtGQmRlLWpES3pxQXkyUS1oSmxQS2RYZ1VuWE42TmI1bi05bGlDNU1NN1R4RGlVZl9ySHJqWEYydmg3T2IzTFZSNksxMDJkNTRVeGNqSmlEYlZBQ2hsdHNTdjMtaW45ck45UXk1Q012Y0NZZkYwYTFrMDhWVDRBQlk1emhqRllhWVBDZVhhUnBCS2FLVzBibW02N1FHdS1hb1lWRnBwUnNwZ2pxdDZMT2VXcXJLc2RuaEtRN0ZHQ0Y0XzZVbUtyaUxGZzJHbXZQQlNSMWNXOENhaDhH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-27 11:31:50"
+    },
+    {
+      "title": "南下雲林合體掃市場 柯文哲替張嘉郡能力打包票：她沒問題啦！ - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNR21ETjAtZk5QMng1aFF5X3M1UmY5bVkxdTFWLUhWNW1sVlowaEJNSThqWEJiN1I1clh6ZDRRTGIyQVpGQzU5bDc5RC1rWnJpMmo0UnhKcHpmQkdKd0tTSVlTYTNEb2pTbWNHcnZDS21zNjFKbVg5Z0NjYmVWX0Fkc1JRelZaN1VFZ2IzakRMV2NaVHNzMVhKVXE1aTNacTF1ZXFzcDFfTkVhdXZib0FxU2hUWDNVdkhZcU5wWXFXSlNRbUc2dDVPbHJ6OWlVLUVtbXNWdUJmcVd2LWtzYWRVNHVObjAzUEZsVjJSVk11QWVXWTgxNmJiWkRsNWZEYTQ1bVZieFBVcEhXN2RxY1RJVnlvSUFxVkFFQjhwM1NsbXFNWjBsel8zMjNWZld4Nm94dGZoUWRsUHFRQ0d6UFdwT0Etc3RJX09POU9ScXdXZUlzQWdHSndGWEtHMnBHN3cybGExcHdsdFYtQXpzand5TkREaTBiN1d0Y0V5OHRMRHpKLUZSNmNSbXh3OS1UUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-27 11:22:17"
+    },
+    {
+      "title": "柯文哲出手挺張嘉郡！一句「她沒問題啦」引爆雲林藍白合 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vLWxtalJvWTNuSlJFUHB1ZURpQUdXdDFYNkNQV05FMHdzamN3Q0ducVp2QVM3TVp5R3BWbDRFYWhMTUNVUEFmTDJDOG1JNGFMWXRjSjVDOUhWTVhsbEltaUZDT0pMU2E3Y25CZE93?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-27 11:18:17"
+    },
+    {
       "title": "中秋掃街屏東縣長周春米建國市場問候攤商 蘇清泉恆春關注國旅 - Taiwan News",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BLTdxV0pBWFFBRXFTQWtmQmNveTJSNEZ6SjJCX2FIQUYxLV9IdmpTRFQ2dmZudHlWU01SdTVnVXZxYmlvSFV1Y0hrNElKLWtiV3VvemM2VXE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-26 12:38:00"
@@ -609,21 +693,6 @@
       "title": "台西農會再推爆款「烤香米」 張嘉郡力挺雲林農產創新 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVDVQY01iYncwNjJoaHN4VmJmZXlCNl9EME9IQ2lZalNuekRmYUE1ZmFqLTh6c1IwUWktcFVXVmNfTHBfOTBGOWxLc2hPejRNb0NYdzhMb3kwUVFFNDF4TEVSWXF4V2t4X1d6YTJjRm9oYUNJUXRiNWdBNGZoQmoxLTl2U3JFNS1falVTT1JDLU9aUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-23 21:50:38"
-    },
-    {
-      "title": "台西烤玉米熱銷270萬包再出招 張嘉郡助「烤香米」新品搶攻米食市場 | 觀傳媒 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlUmJ1emNqRnREcmFJLUc4amtXejdjektqZ2tYN1VKRzdUNFBCVEItdEhoTzhkeU40cjNYcDR5c1M3WlN3ZkcwOXdnd0RmRE9mbkJocml3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-23 21:18:16"
-    },
-    {
-      "title": "烤玉米後再出招！台西農會再推「烤香米」連張嘉郡都忍不住大口啖 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQd21tMjJNeDFObDNiYUI0T2pBZ1g0ZzhMTjdoRjMxdDdQazFzREYzZndDNUJON0wtUXFxQXBScDZWUkxWdXhtZW1MYmJEMGNweXJYRzRub1ltS1VIWjdPd0lRRkVISElITnVjNU5vMDNRd1paMTJ0WDFoQ2VhUmNpbzVEUWlpNzB3bjZHWW54cmpBYnBqb2hRd0ZacTJSNld4b3NqUDVUcGpMR21BSnBfUFRwajFxRnVKdWpwUDVCT242SF9Na0xIWDBkYS1wLUY3S05QdlgtQkduakd0UXpuYnZlaU9aVnVCRThBdkg5VVN0RVY0Ull1YmNxd0NOcEFXQnY5X2h1NXp1VjB3RWJ6bmxUanNKRWZJbmdyTkNZUk1Ta1ZEdjJmU21OdnoyYnVmbDFQOVVhQmNudmpRTElCLTZ0R0ZaeVA3SG0tcHZCS1dodDNlTHZuQnJubGpvTVlLQ2JNQlh0akU1RURwUHZNUWJfaEFfeTJQcHU0UnMwaHc0dmlPSmZGaVZBQVM3a1FtTVhNQlJBU0FpNjQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-23 21:11:03"
-    },
-    {
-      "title": "烤玉米後再出招！台西農會再推「烤香米」連張嘉郡都忍不住大口啖 - news.pchome.com.tw",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeE1XX1F1SUN3MlRqRXNRSHZodV93ejRwUW1qaS1vU05MX0hPS3hCLUxyakt1WThZc3lhYTZSa3ZLQ2wxem1yX1NRZFlhczVDd1VxRE95RDEwcWFsaTB6WkFaMU92WTl0aVI1Rkt1ampXMWNsX1l1dXBtQmQ4ZmZ6aG1KWkFyWDBEWHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-23 21:11:03"
     }
   ],
   "person_sections": {
@@ -732,6 +801,21 @@
       ],
       "news": [
         {
+          "title": "雲林縣長藍白合！柯文哲斗六輔選拜票 讚張嘉郡「沒問題啦」：有能力承接雲林發展重任 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOUzBqM0lwcFdDd05lbllDVFZBbDlzMDBJUXJGQlI5U1Q0UnZ5bXRKbTRlTTBpb1VhVFlZakp3ZzhVeHZyUkNwMHg5MzNzelJ6aFNNMzVqdXJxXzM5bGdlMm9DdThWZnc0YWFjYWlrazVWNUJlbmZ2VXpLYXRxMDE3ZTB1ZGdnU3RHX1RkRkdybXhha0tURjlsbmVyZ1RIS2pZNDZ1WnJReFdNRHhNS0hiLUEteXZabmlQOE4ya1Bkd3lBRkFEZVlYMGRsYXNSZ1N5ZGdPTVNDY0NiemxBSU90VDkwZ0RVOFRtVkhtMWQ1UVZtenNpNjRwMTdsblNDbFZsTG9lTzI2WnBVRFNHOEZseXl4SFdYV1htcXBWOEZoejd5ak9xdi01YmtGQmRlLWpES3pxQXkyUS1oSmxQS2RYZ1VuWE42TmI1bi05bGlDNU1NN1R4RGlVZl9ySHJqWEYydmg3T2IzTFZSNksxMDJkNTRVeGNqSmlEYlZBQ2hsdHNTdjMtaW45ck45UXk1Q012Y0NZZkYwYTFrMDhWVDRBQlk1emhqRllhWVBDZVhhUnBCS2FLVzBibW02N1FHdS1hb1lWRnBwUnNwZ2pxdDZMT2VXcXJLc2RuaEtRN0ZHQ0Y0XzZVbUtyaUxGZzJHbXZQQlNSMWNXOENhaDhH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-27 11:31:50"
+        },
+        {
+          "title": "南下雲林合體掃市場 柯文哲替張嘉郡能力打包票：她沒問題啦！ - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNR21ETjAtZk5QMng1aFF5X3M1UmY5bVkxdTFWLUhWNW1sVlowaEJNSThqWEJiN1I1clh6ZDRRTGIyQVpGQzU5bDc5RC1rWnJpMmo0UnhKcHpmQkdKd0tTSVlTYTNEb2pTbWNHcnZDS21zNjFKbVg5Z0NjYmVWX0Fkc1JRelZaN1VFZ2IzakRMV2NaVHNzMVhKVXE1aTNacTF1ZXFzcDFfTkVhdXZib0FxU2hUWDNVdkhZcU5wWXFXSlNRbUc2dDVPbHJ6OWlVLUVtbXNWdUJmcVd2LWtzYWRVNHVObjAzUEZsVjJSVk11QWVXWTgxNmJiWkRsNWZEYTQ1bVZieFBVcEhXN2RxY1RJVnlvSUFxVkFFQjhwM1NsbXFNWjBsel8zMjNWZld4Nm94dGZoUWRsUHFRQ0d6UFdwT0Etc3RJX09POU9ScXdXZUlzQWdHSndGWEtHMnBHN3cybGExcHdsdFYtQXpzand5TkREaTBiN1d0Y0V5OHRMRHpKLUZSNmNSbXh3OS1UUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-27 11:22:17"
+        },
+        {
+          "title": "柯文哲出手挺張嘉郡！一句「她沒問題啦」引爆雲林藍白合 - 中時新聞網",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vLWxtalJvWTNuSlJFUHB1ZURpQUdXdDFYNkNQV05FMHdzamN3Q0ducVp2QVM3TVp5R3BWbDRFYWhMTUNVUEFmTDJDOG1JNGFMWXRjSjVDOUhWTVhsbEltaUZDT0pMU2E3Y25CZE93?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-27 11:18:17"
+        },
+        {
           "title": "台西農會烤玉米狂銷270萬包後再出招 張嘉郡扮推手再推「烤香米」 - 匯流新聞網",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE16ZWdjeEJnQlZtZXVXaGVua01SUkdHQlVvdXZVNEl3SmR6SmpBN1AzTWJqdVNLT251bDhodzJSR1MxN3NGdjdyWEJ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-24 11:42:19"
@@ -815,21 +899,6 @@
           "title": "台西農會「烤香米」新品發表 張嘉郡：提升品牌價值推廣雲林農產品 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQUUI2S2ZjeUpuZWdMak1VbE5QLVNmc0M1ZlFSdS1CdEt2RWVJeF93QVBxLUoyVTB2VWRsTlVWSTNjQXJjcDdXcXNiWWN3aE0xLWdaaHBOS0tfdW53RVlDdW5HNGdCN0dqWlU2V044dEhWTXVfZGZicUlMTXRPa3pVRVFvTWlqdXdxbml5RTlwMkxYTFRwOXJFbUJMX25PbGpheEU2aUFyUkkxMFU4RHBMb1kwOGJIYm5LT2tKZ19UQ0lKWENwLVJGTFh0blFNSjc2dFZrZVJvb0xYckdXdFh0WVM3QUhyTFFDWFYtenZtOW1QNXkxTHRQNlVKaTM5dEFWYW1MeWFoTTBySzZGZGRqY29rODhHdTRDVVdwSVpWT3VtQjdKdl81TjJ6Z3RleG9WY2lwZUpoRVc0R0ZUejJOOS1BbkF3ZkF4MFQ4ZkFRdlpzTzEyRldCa21XUUF3aWxOSlZQaHYxWFJPUlRBMV96dy1tR0w4RDRZQ2hPSXRma090N000LXZzZHBVTE52Ql8zWW1pYVdYWXlqMzNa?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-23 17:00:00"
-        },
-        {
-          "title": "台西農會成功行銷烤玉米 張嘉郡扮推手再續前緣推烤香米 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOZzhFMHJja0t4VndSM2l6NVVJWE5VQmN2WUJlWjRqVmZHUWdYcDlFcDVNQWp1THBWOG9TZXhUY1hpb0w2Q3ZYOWVIZU9KRElvLTE4ZnUyZ3A0eE9XclM4dUQ5eFRSVkVfbEVZRDZYVG44WUo2WVlEcWhIWGRUcU5tWk9neUgtY3BOMnYxTnZmOFpEbTBpTnp2ckhCREdCbDJpa1hkOHRobGhyTTlKOTM2WF9OY1FBZU96c3VUVk0tSjNadTQ5V1ZQWVRUOS05TFJNelVXSkdwSENsbG1jZkRjcjY1eFBLMktFalhaamlzcVhJbGZpQlJ1THhJR1ZiMkpDa3FMRHZaaFNqdF9FaENSX0RvZXhyZ0xVeFkxcU9ZMElXRVRXOWRpeF9mWmZJSHpwY0IyN0RrZWRpYldsLUhxWEtDd251eXF1aVU1UU90MzNZSUJWSHRwazQ5eGVZaHcwYjl3UnI5Rk0wU1VHRl9iM2w3bTFYYWJORWQzbDhrQUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-23 16:29:12"
-        },
-        {
-          "title": "台西農會成功行銷烤玉米 張嘉郡扮推手再續前緣推烤香米 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOERnRm9HblFoWXRYX1pWMVhldGs5V013RmtQNW1FcWd4Qm5KZVdab05MeWRZQ25xZkY4WmI2TDRUcEJTbGdLMi1BMzRoS3JsWmtXTTdLbVpaNjNXd2ZpcUZ1clpHY3ZrZnZBc3JmQkJjM0FaczBaUGNRa3hBaFVwenotRXN3Q0toN1NrWA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-23 16:29:12"
-        },
-        {
-          "title": "劉建國提青年三好政策張嘉郡推廣農特產品| 政治 - 中央社 CNA",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QdENJZE9SR3pQRmF0WXhQTDN4YU11V2szWEJRMVNQS0RxSi1uc2lMVDZvNGtDZFJaRS0wSW0xVmJoSWNMdDVTUDlMQXh3RzhBY09FbXQzUDhJcHJzYmpN?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-23 16:15:00"
         }
       ]
     },
@@ -1043,6 +1112,21 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "雲林縣長藍白合！柯文哲斗六輔選拜票 讚張嘉郡「沒問題啦」：有能力承接雲林發展重任 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOUzBqM0lwcFdDd05lbllDVFZBbDlzMDBJUXJGQlI5U1Q0UnZ5bXRKbTRlTTBpb1VhVFlZakp3ZzhVeHZyUkNwMHg5MzNzelJ6aFNNMzVqdXJxXzM5bGdlMm9DdThWZnc0YWFjYWlrazVWNUJlbmZ2VXpLYXRxMDE3ZTB1ZGdnU3RHX1RkRkdybXhha0tURjlsbmVyZ1RIS2pZNDZ1WnJReFdNRHhNS0hiLUEteXZabmlQOE4ya1Bkd3lBRkFEZVlYMGRsYXNSZ1N5ZGdPTVNDY0NiemxBSU90VDkwZ0RVOFRtVkhtMWQ1UVZtenNpNjRwMTdsblNDbFZsTG9lTzI2WnBVRFNHOEZseXl4SFdYV1htcXBWOEZoejd5ak9xdi01YmtGQmRlLWpES3pxQXkyUS1oSmxQS2RYZ1VuWE42TmI1bi05bGlDNU1NN1R4RGlVZl9ySHJqWEYydmg3T2IzTFZSNksxMDJkNTRVeGNqSmlEYlZBQ2hsdHNTdjMtaW45ck45UXk1Q012Y0NZZkYwYTFrMDhWVDRBQlk1emhqRllhWVBDZVhhUnBCS2FLVzBibW02N1FHdS1hb1lWRnBwUnNwZ2pxdDZMT2VXcXJLc2RuaEtRN0ZHQ0Y0XzZVbUtyaUxGZzJHbXZQQlNSMWNXOENhaDhH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-27 11:31:50"
+      },
+      {
+        "title": "南下雲林合體掃市場 柯文哲替張嘉郡能力打包票：她沒問題啦！ - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNR21ETjAtZk5QMng1aFF5X3M1UmY5bVkxdTFWLUhWNW1sVlowaEJNSThqWEJiN1I1clh6ZDRRTGIyQVpGQzU5bDc5RC1rWnJpMmo0UnhKcHpmQkdKd0tTSVlTYTNEb2pTbWNHcnZDS21zNjFKbVg5Z0NjYmVWX0Fkc1JRelZaN1VFZ2IzakRMV2NaVHNzMVhKVXE1aTNacTF1ZXFzcDFfTkVhdXZib0FxU2hUWDNVdkhZcU5wWXFXSlNRbUc2dDVPbHJ6OWlVLUVtbXNWdUJmcVd2LWtzYWRVNHVObjAzUEZsVjJSVk11QWVXWTgxNmJiWkRsNWZEYTQ1bVZieFBVcEhXN2RxY1RJVnlvSUFxVkFFQjhwM1NsbXFNWjBsel8zMjNWZld4Nm94dGZoUWRsUHFRQ0d6UFdwT0Etc3RJX09POU9ScXdXZUlzQWdHSndGWEtHMnBHN3cybGExcHdsdFYtQXpzand5TkREaTBiN1d0Y0V5OHRMRHpKLUZSNmNSbXh3OS1UUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-27 11:22:17"
+      },
+      {
+        "title": "柯文哲出手挺張嘉郡！一句「她沒問題啦」引爆雲林藍白合 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vLWxtalJvWTNuSlJFUHB1ZURpQUdXdDFYNkNQV05FMHdzamN3Q0ducVp2QVM3TVp5R3BWbDRFYWhMTUNVUEFmTDJDOG1JNGFMWXRjSjVDOUhWTVhsbEltaUZDT0pMU2E3Y25CZE93?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-27 11:18:17"
+      },
+      {
         "title": "中秋掃街屏東縣長周春米建國市場問候攤商 蘇清泉恆春關注國旅 - Taiwan News",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BLTdxV0pBWFFBRXFTQWtmQmNveTJSNEZ6SjJCX2FIQUYxLV9IdmpTRFQ2dmZudHlWU01SdTVnVXZxYmlvSFV1Y0hrNElKLWtiV3VvemM2VXE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-26 12:38:00"
@@ -1051,6 +1135,21 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "雲林縣長藍白合！柯文哲斗六輔選拜票 讚張嘉郡「沒問題啦」：有能力承接雲林發展重任 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOUzBqM0lwcFdDd05lbllDVFZBbDlzMDBJUXJGQlI5U1Q0UnZ5bXRKbTRlTTBpb1VhVFlZakp3ZzhVeHZyUkNwMHg5MzNzelJ6aFNNMzVqdXJxXzM5bGdlMm9DdThWZnc0YWFjYWlrazVWNUJlbmZ2VXpLYXRxMDE3ZTB1ZGdnU3RHX1RkRkdybXhha0tURjlsbmVyZ1RIS2pZNDZ1WnJReFdNRHhNS0hiLUEteXZabmlQOE4ya1Bkd3lBRkFEZVlYMGRsYXNSZ1N5ZGdPTVNDY0NiemxBSU90VDkwZ0RVOFRtVkhtMWQ1UVZtenNpNjRwMTdsblNDbFZsTG9lTzI2WnBVRFNHOEZseXl4SFdYV1htcXBWOEZoejd5ak9xdi01YmtGQmRlLWpES3pxQXkyUS1oSmxQS2RYZ1VuWE42TmI1bi05bGlDNU1NN1R4RGlVZl9ySHJqWEYydmg3T2IzTFZSNksxMDJkNTRVeGNqSmlEYlZBQ2hsdHNTdjMtaW45ck45UXk1Q012Y0NZZkYwYTFrMDhWVDRBQlk1emhqRllhWVBDZVhhUnBCS2FLVzBibW02N1FHdS1hb1lWRnBwUnNwZ2pxdDZMT2VXcXJLc2RuaEtRN0ZHQ0Y0XzZVbUtyaUxGZzJHbXZQQlNSMWNXOENhaDhH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-27 11:31:50"
+      },
+      {
+        "title": "南下雲林合體掃市場 柯文哲替張嘉郡能力打包票：她沒問題啦！ - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNR21ETjAtZk5QMng1aFF5X3M1UmY5bVkxdTFWLUhWNW1sVlowaEJNSThqWEJiN1I1clh6ZDRRTGIyQVpGQzU5bDc5RC1rWnJpMmo0UnhKcHpmQkdKd0tTSVlTYTNEb2pTbWNHcnZDS21zNjFKbVg5Z0NjYmVWX0Fkc1JRelZaN1VFZ2IzakRMV2NaVHNzMVhKVXE1aTNacTF1ZXFzcDFfTkVhdXZib0FxU2hUWDNVdkhZcU5wWXFXSlNRbUc2dDVPbHJ6OWlVLUVtbXNWdUJmcVd2LWtzYWRVNHVObjAzUEZsVjJSVk11QWVXWTgxNmJiWkRsNWZEYTQ1bVZieFBVcEhXN2RxY1RJVnlvSUFxVkFFQjhwM1NsbXFNWjBsel8zMjNWZld4Nm94dGZoUWRsUHFRQ0d6UFdwT0Etc3RJX09POU9ScXdXZUlzQWdHSndGWEtHMnBHN3cybGExcHdsdFYtQXpzand5TkREaTBiN1d0Y0V5OHRMRHpKLUZSNmNSbXh3OS1UUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-27 11:22:17"
+      },
+      {
+        "title": "柯文哲出手挺張嘉郡！一句「她沒問題啦」引爆雲林藍白合 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vLWxtalJvWTNuSlJFUHB1ZURpQUdXdDFYNkNQV05FMHdzamN3Q0ducVp2QVM3TVp5R3BWbDRFYWhMTUNVUEFmTDJDOG1JNGFMWXRjSjVDOUhWTVhsbEltaUZDT0pMU2E3Y25CZE93?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-27 11:18:17"
+      },
       {
         "title": "中秋掃街屏東縣長周春米建國市場問候攤商 蘇清泉恆春關注國旅 - Taiwan News",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BLTdxV0pBWFFBRXFTQWtmQmNveTJSNEZ6SjJCX2FIQUYxLV9IdmpTRFQ2dmZudHlWU01SdTVnVXZxYmlvSFV1Y0hrNElKLWtiV3VvemM2VXE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1235,21 +1334,6 @@
         "title": "台西農會成功行銷烤玉米 張嘉郡扮推手再續前緣推烤香米 | 夏和宣 | 地方新聞 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SQm1KaWlKZ0NyaDhoS0oxRmIwQzB6djZmclBGSkZ0QlNWdTF4Z2RqdGFqWnhQTE9oYXVIY3dtWWdsaUx3WWJmMVdSeHU0UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-23 17:02:00"
-      },
-      {
-        "title": "台西農會「烤香米」新品發表 張嘉郡：提升品牌價值推廣雲林農產品 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQUUI2S2ZjeUpuZWdMak1VbE5QLVNmc0M1ZlFSdS1CdEt2RWVJeF93QVBxLUoyVTB2VWRsTlVWSTNjQXJjcDdXcXNiWWN3aE0xLWdaaHBOS0tfdW53RVlDdW5HNGdCN0dqWlU2V044dEhWTXVfZGZicUlMTXRPa3pVRVFvTWlqdXdxbml5RTlwMkxYTFRwOXJFbUJMX25PbGpheEU2aUFyUkkxMFU4RHBMb1kwOGJIYm5LT2tKZ19UQ0lKWENwLVJGTFh0blFNSjc2dFZrZVJvb0xYckdXdFh0WVM3QUhyTFFDWFYtenZtOW1QNXkxTHRQNlVKaTM5dEFWYW1MeWFoTTBySzZGZGRqY29rODhHdTRDVVdwSVpWT3VtQjdKdl81TjJ6Z3RleG9WY2lwZUpoRVc0R0ZUejJOOS1BbkF3ZkF4MFQ4ZkFRdlpzTzEyRldCa21XUUF3aWxOSlZQaHYxWFJPUlRBMV96dy1tR0w4RDRZQ2hPSXRma090N000LXZzZHBVTE52Ql8zWW1pYVdYWXlqMzNa?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-23 17:00:00"
-      },
-      {
-        "title": "解決人口流失問題! 劉建國搶青年選票 拋\"青年三好\"政策 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPT2s4MkgxeWVjNnRLSlBMa2ltam03TEVvMXlxZHVmb3N6SjZZQ09NZVYxZmV5cVA1WllVUU9QTjZxWFZycVlpX0R0MXhpVGVEbnZ6YjY3c2ctT2xKWkY1YnJ1TjhsQmctQ2NPNXR6MnpVMzZ2Z2hKbWVCTWRBNzJRTWhRWHdjUzVCQS13bkxRd0xnVERmVGQzbU9WekdxczZuS0oydUJyQVR1QmJiOGFwYkUyc0NDUnpGc0FheUNGSGt5V0V2YlZaQ2lOLS16WkVVQlA0ZG43bkVQSlQ4cnpFcVZqTXdncV9LWFBHa2licVlZM3FWMXNzY05QNncyU2xDNFVfTDVvTXVJY2QxTzBqanA1bTdRZEhjY0hxNmxEdFZrWHpWMnZrNFlrM2VkTW1jc2NWYzBZeXFSbGdvUDVTR0dTRS1TWC1xS0NzVmhJeTlOR18zTkJJa1JHa3N4d0xJNGtsWnNPOGx0WmEx?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-23 16:31:02"
-      },
-      {
-        "title": "台西農會成功行銷烤玉米 張嘉郡扮推手再續前緣推烤香米 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOZzhFMHJja0t4VndSM2l6NVVJWE5VQmN2WUJlWjRqVmZHUWdYcDlFcDVNQWp1THBWOG9TZXhUY1hpb0w2Q3ZYOWVIZU9KRElvLTE4ZnUyZ3A0eE9XclM4dUQ5eFRSVkVfbEVZRDZYVG44WUo2WVlEcWhIWGRUcU5tWk9neUgtY3BOMnYxTnZmOFpEbTBpTnp2ckhCREdCbDJpa1hkOHRobGhyTTlKOTM2WF9OY1FBZU96c3VUVk0tSjNadTQ5V1ZQWVRUOS05TFJNelVXSkdwSENsbG1jZkRjcjY1eFBLMktFalhaamlzcVhJbGZpQlJ1THhJR1ZiMkpDa3FMRHZaaFNqdF9FaENSX0RvZXhyZ0xVeFkxcU9ZMElXRVRXOWRpeF9mWmZJSHpwY0IyN0RrZWRpYldsLUhxWEtDd251eXF1aVU1UU90MzNZSUJWSHRwazQ5eGVZaHcwYjl3UnI5Rk0wU1VHRl9iM2w3bTFYYWJORWQzbDhrQUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-23 16:29:12"
       }
     ],
     "facebook": [
@@ -1407,6 +1491,27 @@
     "hour": [],
     "day": [
       {
+        "title": "雲林縣長藍白合！柯文哲斗六輔選拜票 讚張嘉郡「沒問題啦」：有能力承接雲林發展重任 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOUzBqM0lwcFdDd05lbllDVFZBbDlzMDBJUXJGQlI5U1Q0UnZ5bXRKbTRlTTBpb1VhVFlZakp3ZzhVeHZyUkNwMHg5MzNzelJ6aFNNMzVqdXJxXzM5bGdlMm9DdThWZnc0YWFjYWlrazVWNUJlbmZ2VXpLYXRxMDE3ZTB1ZGdnU3RHX1RkRkdybXhha0tURjlsbmVyZ1RIS2pZNDZ1WnJReFdNRHhNS0hiLUEteXZabmlQOE4ya1Bkd3lBRkFEZVlYMGRsYXNSZ1N5ZGdPTVNDY0NiemxBSU90VDkwZ0RVOFRtVkhtMWQ1UVZtenNpNjRwMTdsblNDbFZsTG9lTzI2WnBVRFNHOEZseXl4SFdYV1htcXBWOEZoejd5ak9xdi01YmtGQmRlLWpES3pxQXkyUS1oSmxQS2RYZ1VuWE42TmI1bi05bGlDNU1NN1R4RGlVZl9ySHJqWEYydmg3T2IzTFZSNksxMDJkNTRVeGNqSmlEYlZBQ2hsdHNTdjMtaW45ck45UXk1Q012Y0NZZkYwYTFrMDhWVDRBQlk1emhqRllhWVBDZVhhUnBCS2FLVzBibW02N1FHdS1hb1lWRnBwUnNwZ2pxdDZMT2VXcXJLc2RuaEtRN0ZHQ0Y0XzZVbUtyaUxGZzJHbXZQQlNSMWNXOENhaDhH?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-27 11:31:50",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "南下雲林合體掃市場 柯文哲替張嘉郡能力打包票：她沒問題啦！ - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNR21ETjAtZk5QMng1aFF5X3M1UmY5bVkxdTFWLUhWNW1sVlowaEJNSThqWEJiN1I1clh6ZDRRTGIyQVpGQzU5bDc5RC1rWnJpMmo0UnhKcHpmQkdKd0tTSVlTYTNEb2pTbWNHcnZDS21zNjFKbVg5Z0NjYmVWX0Fkc1JRelZaN1VFZ2IzakRMV2NaVHNzMVhKVXE1aTNacTF1ZXFzcDFfTkVhdXZib0FxU2hUWDNVdkhZcU5wWXFXSlNRbUc2dDVPbHJ6OWlVLUVtbXNWdUJmcVd2LWtzYWRVNHVObjAzUEZsVjJSVk11QWVXWTgxNmJiWkRsNWZEYTQ1bVZieFBVcEhXN2RxY1RJVnlvSUFxVkFFQjhwM1NsbXFNWjBsel8zMjNWZld4Nm94dGZoUWRsUHFRQ0d6UFdwT0Etc3RJX09POU9ScXdXZUlzQWdHSndGWEtHMnBHN3cybGExcHdsdFYtQXpzand5TkREaTBiN1d0Y0V5OHRMRHpKLUZSNmNSbXh3OS1UUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-27 11:22:17",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "柯文哲出手挺張嘉郡！一句「她沒問題啦」引爆雲林藍白合 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vLWxtalJvWTNuSlJFUHB1ZURpQUdXdDFYNkNQV05FMHdzamN3Q0ducVp2QVM3TVp5R3BWbDRFYWhMTUNVUEFmTDJDOG1JNGFMWXRjSjVDOUhWTVhsbEltaUZDT0pMU2E3Y25CZE93?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-27 11:18:17",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "中秋掃街屏東縣長周春米建國市場問候攤商 蘇清泉恆春關注國旅 - Taiwan News",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BLTdxV0pBWFFBRXFTQWtmQmNveTJSNEZ6SjJCX2FIQUYxLV9IdmpTRFQ2dmZudHlWU01SdTVnVXZxYmlvSFV1Y0hrNElKLWtiV3VvemM2VXE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-26 12:38:00",
@@ -1416,7 +1521,16 @@
     ]
   },
   "regional_groups": {
-    "regions": [],
+    "regions": [
+      {
+        "name": "雲林",
+        "count": 3
+      },
+      {
+        "name": "斗六",
+        "count": 1
+      }
+    ],
     "groups": []
   }
 }
