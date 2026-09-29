@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-29T10:41:28.901723+00:00",
+  "generated_at": "2026-09-29T10:57:20.383235+00:00",
   "metrics": {
-    "total_24h": 22,
-    "prev_24h": 63,
-    "growth_pct": -65.08,
-    "news_24h": 19,
+    "total_24h": 26,
+    "prev_24h": 60,
+    "growth_pct": -56.67,
+    "news_24h": 22,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 177,
+    "total": 181,
     "prev": 387,
-    "growth_pct": -54.26,
-    "news": 159,
+    "growth_pct": -53.23,
+    "news": 162,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,17 +28,21 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 19
+      "count": 22
     },
     {
       "platform": "facebook",
       "count": 3
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 159
+      "count": 162
     },
     {
       "platform": "facebook",
@@ -46,7 +50,7 @@
     },
     {
       "platform": "youtube",
-      "count": 7
+      "count": 8
     }
   ],
   "by_hour": [
@@ -93,6 +97,10 @@
     {
       "hour": "2026-09-29 12:00",
       "count": 1
+    },
+    {
+      "hour": "2026-09-29 18:00",
+      "count": 4
     }
   ],
   "by_hour_7d": [
@@ -351,20 +359,50 @@
     {
       "hour": "2026-09-29 12:00",
       "count": 1
+    },
+    {
+      "hour": "2026-09-29 18:00",
+      "count": 4
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 19
+      "count": 22
     },
     {
       "platform": "facebook",
       "count": 2
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "mention_latest_by_platform_24h": {
+    "youtube": [
+      {
+        "title": "張嘉郡斗南廟口開講 藍營立委接力站台相挺-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=OHEoLZB95C4",
+        "time": "2026-09-29 18:30:26"
+      }
+    ],
     "news": [
+      {
+        "title": "劉建國、陳中一聯合競總成立　喊「接棒」延續建設拚元長 - ETtoday新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LM0lVRFM3b0tyamY1Wmx1MHpuYUV5TTNNYTAwMGVyU3BrQk56R3VkRjlEWnYwMXhUYzg1Sjh1MFJfN3RYUmk2bjluY1B2Z1hFTHRqQmoySjVZVlowV1HSAUtBVV95cUxONFpjSTRSa3owZnZhdEpQQjJEaHBVY2NiX3FncG9OVkpDckFrUndZTXdOYnJHWTRzODlYRFhTZnZvekh4T2pqWGNFNEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-29 18:20:00"
+      },
+      {
+        "title": "張嘉郡斗南廟口開講 藍營立委接力站台相挺 - news.st-media.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04ZGtuOWdYNFE2N0FvZ1huV3VVMjlzcmFfVlBtRzJHazhYNVkzMkthSTIxd1NZSE5VeUtRbm1ueGFlN1FwRmlTdlJXUzl6ZVhG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-29 18:10:30"
+      },
+      {
+        "title": "張嘉郡、黃尤美攜手拚斗六　小巨蛋、美術館、鐵路高架化端政見 - ETtoday新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CR19fNW9sc2xNQ19aM3hFSTkyeWt4bXlXaDdGa1ZBSnZGLUJiX2c3RHNEMjZiel83by1WZEdYS0tBN0QycXYyRlpFOFVXbWl0ZC1kam5lRTh4OEo5TEHSAUtBVV95cUxNTG96aGxKMFBIUkpBanVWenlWeTRwM2Q2WnAzNXdiM0stSnFWSFVXSTBvcnl3dERKZDlJUDRxSnJSQUVUekJnamloQU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-29 18:04:00"
+      },
       {
         "title": "劉建國、陳中一成立元長聯合競總　聚焦產業、治水與長照 - 大纪元",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBob0hXXy1UeDdwbVpDblZqdWJIYUVVSlprcDBkNUZ5eC02cndCbXg1S0xkQTcxMVFZb0ViNmNyWmNwTS1WYWhYaXN6LVd4LU9Xc2dhWVhwMVpHSUJyWFFzb9IBZkFVX3lxTE9WZkFxdUZoRU9rNnlhMjZrSy16ZlctYTlzdUE4TjZUWWpUY0hDVjNfUGNQZ1h2cmRHdDBXZ1hnUzJGbEF2M1lmOTJQWWhsTTFXM0VPRVUxY2p6WlN5VHY3RnVoWDYyQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -477,15 +515,41 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 19
+      "count": 22
     },
     {
       "platform": "facebook",
       "count": 3
+    },
+    {
+      "platform": "youtube",
+      "count": 1
     }
   ],
   "alias_latest_by_platform_24h": {
+    "youtube": [
+      {
+        "title": "張嘉郡斗南廟口開講 藍營立委接力站台相挺-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=OHEoLZB95C4",
+        "time": "2026-09-29 18:30:26"
+      }
+    ],
     "news": [
+      {
+        "title": "劉建國、陳中一聯合競總成立　喊「接棒」延續建設拚元長 - ETtoday新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LM0lVRFM3b0tyamY1Wmx1MHpuYUV5TTNNYTAwMGVyU3BrQk56R3VkRjlEWnYwMXhUYzg1Sjh1MFJfN3RYUmk2bjluY1B2Z1hFTHRqQmoySjVZVlowV1HSAUtBVV95cUxONFpjSTRSa3owZnZhdEpQQjJEaHBVY2NiX3FncG9OVkpDckFrUndZTXdOYnJHWTRzODlYRFhTZnZvekh4T2pqWGNFNEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-29 18:20:00"
+      },
+      {
+        "title": "張嘉郡斗南廟口開講 藍營立委接力站台相挺 - news.st-media.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04ZGtuOWdYNFE2N0FvZ1huV3VVMjlzcmFfVlBtRzJHazhYNVkzMkthSTIxd1NZSE5VeUtRbm1ueGFlN1FwRmlTdlJXUzl6ZVhG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-29 18:10:30"
+      },
+      {
+        "title": "張嘉郡、黃尤美攜手拚斗六　小巨蛋、美術館、鐵路高架化端政見 - ETtoday新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CR19fNW9sc2xNQ19aM3hFSTkyeWt4bXlXaDdGa1ZBSnZGLUJiX2c3RHNEMjZiel83by1WZEdYS0tBN0QycXYyRlpFOFVXbWl0ZC1kam5lRTh4OEo5TEHSAUtBVV95cUxNTG96aGxKMFBIUkpBanVWenlWeTRwM2Q2WnAzNXdiM0stSnFWSFVXSTBvcnl3dERKZDlJUDRxSnJSQUVUekJnamloQU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-29 18:04:00"
+      },
       {
         "title": "劉建國、陳中一成立元長聯合競總　聚焦產業、治水與長照 - 大纪元",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBob0hXXy1UeDdwbVpDblZqdWJIYUVVSlprcDBkNUZ5eC02cndCbXg1S0xkQTcxMVFZb0ViNmNyWmNwTS1WYWhYaXN6LVd4LU9Xc2dhWVhwMVpHSUJyWFFzb9IBZkFVX3lxTE9WZkFxdUZoRU9rNnlhMjZrSy16ZlctYTlzdUE4TjZUWWpUY0hDVjNfUGNQZ1h2cmRHdDBXZ1hnUzJGbEF2M1lmOTJQWWhsTTFXM0VPRVUxY2p6WlN5VHY3RnVoWDYyQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -601,14 +665,29 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 12,
-    "劉建國": 11
+    "張嘉郡": 15,
+    "劉建國": 12
   },
   "mention_compare_7d": {
-    "張嘉郡": 105,
-    "劉建國": 79
+    "張嘉郡": 108,
+    "劉建國": 80
   },
   "top_news": [
+    {
+      "title": "劉建國、陳中一聯合競總成立　喊「接棒」延續建設拚元長 - ETtoday新聞雲",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LM0lVRFM3b0tyamY1Wmx1MHpuYUV5TTNNYTAwMGVyU3BrQk56R3VkRjlEWnYwMXhUYzg1Sjh1MFJfN3RYUmk2bjluY1B2Z1hFTHRqQmoySjVZVlowV1HSAUtBVV95cUxONFpjSTRSa3owZnZhdEpQQjJEaHBVY2NiX3FncG9OVkpDckFrUndZTXdOYnJHWTRzODlYRFhTZnZvekh4T2pqWGNFNEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-29 18:20:00"
+    },
+    {
+      "title": "張嘉郡斗南廟口開講 藍營立委接力站台相挺 - news.st-media.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04ZGtuOWdYNFE2N0FvZ1huV3VVMjlzcmFfVlBtRzJHazhYNVkzMkthSTIxd1NZSE5VeUtRbm1ueGFlN1FwRmlTdlJXUzl6ZVhG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-29 18:10:30"
+    },
+    {
+      "title": "張嘉郡、黃尤美攜手拚斗六　小巨蛋、美術館、鐵路高架化端政見 - ETtoday新聞雲",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CR19fNW9sc2xNQ19aM3hFSTkyeWt4bXlXaDdGa1ZBSnZGLUJiX2c3RHNEMjZiel83by1WZEdYS0tBN0QycXYyRlpFOFVXbWl0ZC1kam5lRTh4OEo5TEHSAUtBVV95cUxNTG96aGxKMFBIUkpBanVWenlWeTRwM2Q2WnAzNXdiM0stSnFWSFVXSTBvcnl3dERKZDlJUDRxSnJSQUVUekJnamloQU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-29 18:04:00"
+    },
     {
       "title": "劉建國、陳中一成立元長聯合競總　聚焦產業、治水與長照 - 大纪元",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBob0hXXy1UeDdwbVpDblZqdWJIYUVVSlprcDBkNUZ5eC02cndCbXg1S0xkQTcxMVFZb0ViNmNyWmNwTS1WYWhYaXN6LVd4LU9Xc2dhWVhwMVpHSUJyWFFzb9IBZkFVX3lxTE9WZkFxdUZoRU9rNnlhMjZrSy16ZlctYTlzdUE4TjZUWWpUY0hDVjNfUGNQZ1h2cmRHdDBXZ1hnUzJGbEF2M1lmOTJQWWhsTTFXM0VPRVUxY2p6WlN5VHY3RnVoWDYyQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -653,24 +732,24 @@
       "title": "雲林縣長候選人劉建國、元長鄉長候選人陳中一成立聯合競總劉建國呼籲鄉親團結一起拚、一起改變勇敢轉型・新雲林！ - 台灣華報",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Sd0VqblBydXREZzd1M09kZ0ZueGctOElfbERJX2ZfRGpVelJfRDJ6YlFLSklIRzg4MkxsblEzSVFHTWFvMUlLYlpKa2c5QkRsSnN2NzUxeUNTeUhFZVFRREloNWx1aTJJT0k4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-29 00:07:25"
-    },
-    {
-      "title": "賴清德拉蘇治芬挺劉建國？謝寒冰見1畫面傻眼：太奇怪了- 政治 - 中時新聞網",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ2pXaHFtYzlhSFBBME11bmtfZGRuTzZacXVqUThfbDZRZm5CSjA4VFRPcmZIUDdxNHVtYWFIQ0FCV0Y3b2hJa1ZWcGUzX0JTa01CODExX243dXJLanlaWjZuZHBsNVRzRUZxZnE1MlZ3MGVXYWxESHVtclFETENSOXZiNk83TDVEaERJV29oZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-29 00:02:30"
-    },
-    {
-      "title": "賴清德拉蘇治芬挺劉建國？謝寒冰見1畫面傻眼：太奇怪了- 政治 - 中時新聞網",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90UzJ5SDdpRE1PdkxfOEc1V2MyTjAzOVZIVzhZVE9NOWRLQmxoOUkzSlVha2ZkempEYnpGTmpRRmdDRmRGZHVQTFFWQTRjQlNlbWZTc3pnRWZVMm9kUjNoTVp5elBpVDRydU5XTmxn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-29 00:02:30"
-    },
-    {
-      "title": "雲林縣長候選人張嘉郡、斗六市長候選人黃尤美斗六聯合競選總部成立前縣長張榮味、縣長張麗善、立委蔡春綢領軍藍白合站台力挺！ - 台灣華報",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41LTFqR0Q0TGVpel95Vl9sUE4ycW9CVG4zLVZoSjRtNXl5RGM5Y2ZnckRJd3lPdE5RT0xVM1dYdF91YklpdkV6dlhlZ2R4TTJHQjlxWDBMSnRzTUpZWGZjUGo4bllIdGV5WkJB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-28 23:02:08"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "劉建國、陳中一聯合競總成立　喊「接棒」延續建設拚元長 - ETtoday新聞雲",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LM0lVRFM3b0tyamY1Wmx1MHpuYUV5TTNNYTAwMGVyU3BrQk56R3VkRjlEWnYwMXhUYzg1Sjh1MFJfN3RYUmk2bjluY1B2Z1hFTHRqQmoySjVZVlowV1HSAUtBVV95cUxONFpjSTRSa3owZnZhdEpQQjJEaHBVY2NiX3FncG9OVkpDckFrUndZTXdOYnJHWTRzODlYRFhTZnZvekh4T2pqWGNFNEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-29 18:20:00"
+    },
+    {
+      "title": "張嘉郡斗南廟口開講 藍營立委接力站台相挺 - news.st-media.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04ZGtuOWdYNFE2N0FvZ1huV3VVMjlzcmFfVlBtRzJHazhYNVkzMkthSTIxd1NZSE5VeUtRbm1ueGFlN1FwRmlTdlJXUzl6ZVhG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-29 18:10:30"
+    },
+    {
+      "title": "張嘉郡、黃尤美攜手拚斗六　小巨蛋、美術館、鐵路高架化端政見 - ETtoday新聞雲",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CR19fNW9sc2xNQ19aM3hFSTkyeWt4bXlXaDdGa1ZBSnZGLUJiX2c3RHNEMjZiel83by1WZEdYS0tBN0QycXYyRlpFOFVXbWl0ZC1kam5lRTh4OEo5TEHSAUtBVV95cUxNTG96aGxKMFBIUkpBanVWenlWeTRwM2Q2WnAzNXdiM0stSnFWSFVXSTBvcnl3dERKZDlJUDRxSnJSQUVUekJnamloQU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-29 18:04:00"
+    },
     {
       "title": "劉建國、陳中一成立元長聯合競總　聚焦產業、治水與長照 - 大纪元",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBob0hXXy1UeDdwbVpDblZqdWJIYUVVSlprcDBkNUZ5eC02cndCbXg1S0xkQTcxMVFZb0ViNmNyWmNwTS1WYWhYaXN6LVd4LU9Xc2dhWVhwMVpHSUJyWFFzb9IBZkFVX3lxTE9WZkFxdUZoRU9rNnlhMjZrSy16ZlctYTlzdUE4TjZUWWpUY0hDVjNfUGNQZ1h2cmRHdDBXZ1hnUzJGbEF2M1lmOTJQWWhsTTFXM0VPRVUxY2p6WlN5VHY3RnVoWDYyQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -755,21 +834,6 @@
       "title": "張嘉郡黃尤美聯合競總成立 雲林斗六選況現熱潮 - tcpttw.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fWE50eXFrNU1YeUpFT20yT1FVV3k5ZWQ4VkZDR0pMS3RFQkQtQ3pRV1hjQ19RT2VvWnZ1cEIyMWJncFluMlNITFpmWktsTWFQZG9BZjJoSWNLSW8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-28 19:13:26"
-    },
-    {
-      "title": "張嘉郡斗六、水林接連成立聯合競總 千人相挺人氣旺 攜手地方拚建設、拚發展 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxOcU5DNGcxTzQzS0pNSlBoRGlZTGpBdmY2My1JRXhuUE9KWXp4Q04yMTlRaHQ2aXNYLWVfZEJpV0huYUE2UVl5b2FJcDhUQmdzSnRURmcyOHpoYWY4eDRnUHZFeGd4d0htN1AydG9waDFsUWoxVkxRd0k5SE5OQnlVdHBuTFpTbVlFSkJzNXMweVEySUlfMjNXaWxXWWpNWEtpV3dHT01BWHRjemNINTJPa0E5cTRQVlI1cWlEZVZoYkhEY05lZVQwcVpCekE2WnN0LVAxMGZQOEUzaFB4d2NlLWN3TTZXQ1RWSkthcllDNjFrZzVPOHdROE52bHBUWUFCVGR0d1ltYUdjQ3NHY0g2cWt5LW5MbjRLSGZrSzFqbzg5UWNJSGc2bUlQdUdSSDl0MENvSEE0VlRVSlBGNlJBVFAtVllrYXB4WVNqOHRZRHRyMnZBcHZJNjdUV3duTFM0aW5JblRoTERWLUZCWDk3TEU3UFhYQ1paQ21HZFo1MzFLSEpXZmZtckZCaThHV1k3bTNhNW1sZzg5YTV3SWhrLUpRNHRfMG4wbGh6ZXZzZDBBRnV6Vl9HRUpzbGxDQnczalhpTk45NkZaOG5mbVVyT0dyM2pIcEVx?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-28 19:05:00"
-    },
-    {
-      "title": "張嘉郡黃尤美斗六總部成立 張榮味、張麗善領軍藍白助陣 黃尤美：斗六向前、幸福加碼 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxQN1dQaklKR2RJMDdTQVFiLXdueTlRUHFiOWVUWkNjT1FsRldwMldCd1VxZmFsODJSdjh6TkprWTd1bUhmeTJFSS1MRUtjRW9sRlFVeFZfTWZtUzdrX2lJVHpIRDYzeHg5LUpmOHQ4czJJdlZMeHJKVVoyd1BaNkQ4UUdMVDlDUlZGTURUaHhtaDhlaTJmUXZzenR3bjZ6U3B0NkNvZ1MwTHBUcUoxWkszVWhlQWNJUi1XWGlrUThCMkhrMjI3R2ZPUUg0OHhfWHFwZ3ZuOTZBbF9WZUNNbWdtbW9MMjBkQ012bGlIMEEyWWdkbU9PU1NwN1FMVXFlRmJWeTVEYVpjZGZ5V3BESWd0OG5Ob2ZTSHR4WXk0ekM0WVY4NjZta0I2bmY2ZmViRGtkZ080NW90TGJscjFZMEVUWWxFX0hKMDRFX0h1akVLTE1YNnlWcW5ySlE3RUU3ZlZqWkNxei0zaGV4a1ZZSEVpSTlPU19oTl9KV2F0RnhmMnVyTjZqZVlES2JYWkNxNGUyUWw1d0RaZlNKOWxQUmFLUU4zMjZoMUtvYjFmdDRpTmhqM2lrX19hTm5DT19jbEZ4Q21jdnV1RjlGdGRO?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-28 19:00:00"
-    },
-    {
-      "title": "藍白合體挺斗六 張嘉郡.黃尤美聯合競總成立 - 台灣生活新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Xc3NFZTNVeVJ2VXUyT3ktQjVWQ0d0UXdlcTEyMHRZbmRURXR1ejBjd0NqWE1aYkEyQmpnX2NDMjdJOUdWS0dMb0pXanZDV1NQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-28 18:20:10"
     }
   ],
   "latest_facebook_20": [
@@ -876,6 +940,21 @@
   ],
   "latest_news_20": [
     {
+      "title": "劉建國、陳中一聯合競總成立　喊「接棒」延續建設拚元長 - ETtoday新聞雲",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LM0lVRFM3b0tyamY1Wmx1MHpuYUV5TTNNYTAwMGVyU3BrQk56R3VkRjlEWnYwMXhUYzg1Sjh1MFJfN3RYUmk2bjluY1B2Z1hFTHRqQmoySjVZVlowV1HSAUtBVV95cUxONFpjSTRSa3owZnZhdEpQQjJEaHBVY2NiX3FncG9OVkpDckFrUndZTXdOYnJHWTRzODlYRFhTZnZvekh4T2pqWGNFNEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-29 18:20:00"
+    },
+    {
+      "title": "張嘉郡斗南廟口開講 藍營立委接力站台相挺 - news.st-media.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04ZGtuOWdYNFE2N0FvZ1huV3VVMjlzcmFfVlBtRzJHazhYNVkzMkthSTIxd1NZSE5VeUtRbm1ueGFlN1FwRmlTdlJXUzl6ZVhG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-29 18:10:30"
+    },
+    {
+      "title": "張嘉郡、黃尤美攜手拚斗六　小巨蛋、美術館、鐵路高架化端政見 - ETtoday新聞雲",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CR19fNW9sc2xNQ19aM3hFSTkyeWt4bXlXaDdGa1ZBSnZGLUJiX2c3RHNEMjZiel83by1WZEdYS0tBN0QycXYyRlpFOFVXbWl0ZC1kam5lRTh4OEo5TEHSAUtBVV95cUxNTG96aGxKMFBIUkpBanVWenlWeTRwM2Q2WnAzNXdiM0stSnFWSFVXSTBvcnl3dERKZDlJUDRxSnJSQUVUekJnamloQU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-29 18:04:00"
+    },
+    {
       "title": "劉建國、陳中一成立元長聯合競總　聚焦產業、治水與長照 - 大纪元",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBob0hXXy1UeDdwbVpDblZqdWJIYUVVSlprcDBkNUZ5eC02cndCbXg1S0xkQTcxMVFZb0ViNmNyWmNwTS1WYWhYaXN6LVd4LU9Xc2dhWVhwMVpHSUJyWFFzb9IBZkFVX3lxTE9WZkFxdUZoRU9rNnlhMjZrSy16ZlctYTlzdUE4TjZUWWpUY0hDVjNfUGNQZ1h2cmRHdDBXZ1hnUzJGbEF2M1lmOTJQWWhsTTFXM0VPRVUxY2p6WlN5VHY3RnVoWDYyQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-29 12:30:00"
@@ -959,21 +1038,6 @@
       "title": "張嘉郡黃尤美聯合競總成立 雲林斗六選況現熱潮 - tcpttw.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fWE50eXFrNU1YeUpFT20yT1FVV3k5ZWQ4VkZDR0pMS3RFQkQtQ3pRV1hjQ19RT2VvWnZ1cEIyMWJncFluMlNITFpmWktsTWFQZG9BZjJoSWNLSW8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-28 19:13:26"
-    },
-    {
-      "title": "張嘉郡斗六、水林接連成立聯合競總 千人相挺人氣旺 攜手地方拚建設、拚發展 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxOcU5DNGcxTzQzS0pNSlBoRGlZTGpBdmY2My1JRXhuUE9KWXp4Q04yMTlRaHQ2aXNYLWVfZEJpV0huYUE2UVl5b2FJcDhUQmdzSnRURmcyOHpoYWY4eDRnUHZFeGd4d0htN1AydG9waDFsUWoxVkxRd0k5SE5OQnlVdHBuTFpTbVlFSkJzNXMweVEySUlfMjNXaWxXWWpNWEtpV3dHT01BWHRjemNINTJPa0E5cTRQVlI1cWlEZVZoYkhEY05lZVQwcVpCekE2WnN0LVAxMGZQOEUzaFB4d2NlLWN3TTZXQ1RWSkthcllDNjFrZzVPOHdROE52bHBUWUFCVGR0d1ltYUdjQ3NHY0g2cWt5LW5MbjRLSGZrSzFqbzg5UWNJSGc2bUlQdUdSSDl0MENvSEE0VlRVSlBGNlJBVFAtVllrYXB4WVNqOHRZRHRyMnZBcHZJNjdUV3duTFM0aW5JblRoTERWLUZCWDk3TEU3UFhYQ1paQ21HZFo1MzFLSEpXZmZtckZCaThHV1k3bTNhNW1sZzg5YTV3SWhrLUpRNHRfMG4wbGh6ZXZzZDBBRnV6Vl9HRUpzbGxDQnczalhpTk45NkZaOG5mbVVyT0dyM2pIcEVx?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-28 19:05:00"
-    },
-    {
-      "title": "張嘉郡黃尤美斗六總部成立 張榮味、張麗善領軍藍白助陣 黃尤美：斗六向前、幸福加碼 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxQN1dQaklKR2RJMDdTQVFiLXdueTlRUHFiOWVUWkNjT1FsRldwMldCd1VxZmFsODJSdjh6TkprWTd1bUhmeTJFSS1MRUtjRW9sRlFVeFZfTWZtUzdrX2lJVHpIRDYzeHg5LUpmOHQ4czJJdlZMeHJKVVoyd1BaNkQ4UUdMVDlDUlZGTURUaHhtaDhlaTJmUXZzenR3bjZ6U3B0NkNvZ1MwTHBUcUoxWkszVWhlQWNJUi1XWGlrUThCMkhrMjI3R2ZPUUg0OHhfWHFwZ3ZuOTZBbF9WZUNNbWdtbW9MMjBkQ012bGlIMEEyWWdkbU9PU1NwN1FMVXFlRmJWeTVEYVpjZGZ5V3BESWd0OG5Ob2ZTSHR4WXk0ekM0WVY4NjZta0I2bmY2ZmViRGtkZ080NW90TGJscjFZMEVUWWxFX0hKMDRFX0h1akVLTE1YNnlWcW5ySlE3RUU3ZlZqWkNxei0zaGV4a1ZZSEVpSTlPU19oTl9KV2F0RnhmMnVyTjZqZVlES2JYWkNxNGUyUWw1d0RaZlNKOWxQUmFLUU4zMjZoMUtvYjFmdDRpTmhqM2lrX19hTm5DT19jbEZ4Q21jdnV1RjlGdGRO?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-28 19:00:00"
-    },
-    {
-      "title": "藍白合體挺斗六 張嘉郡.黃尤美聯合競總成立 - 台灣生活新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Xc3NFZTNVeVJ2VXUyT3ktQjVWQ0d0UXdlcTEyMHRZbmRURXR1ejBjd0NqWE1aYkEyQmpnX2NDMjdJOUdWS0dMb0pXanZDV1NQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-28 18:20:10"
     }
   ],
   "person_sections": {
@@ -1082,6 +1146,16 @@
       ],
       "news": [
         {
+          "title": "張嘉郡斗南廟口開講 藍營立委接力站台相挺 - news.st-media.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04ZGtuOWdYNFE2N0FvZ1huV3VVMjlzcmFfVlBtRzJHazhYNVkzMkthSTIxd1NZSE5VeUtRbm1ueGFlN1FwRmlTdlJXUzl6ZVhG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-29 18:10:30"
+        },
+        {
+          "title": "張嘉郡、黃尤美攜手拚斗六　小巨蛋、美術館、鐵路高架化端政見 - ETtoday新聞雲",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CR19fNW9sc2xNQ19aM3hFSTkyeWt4bXlXaDdGa1ZBSnZGLUJiX2c3RHNEMjZiel83by1WZEdYS0tBN0QycXYyRlpFOFVXbWl0ZC1kam5lRTh4OEo5TEHSAUtBVV95cUxNTG96aGxKMFBIUkpBanVWenlWeTRwM2Q2WnAzNXdiM0stSnFWSFVXSTBvcnl3dERKZDlJUDRxSnJSQUVUekJnamloQU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-29 18:04:00"
+        },
+        {
           "title": "攜手打拚為水林 張嘉郡、周資昀競選總部成立 - 台灣民眾電子報",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIQTJfcXNvSFZNUWd0OEtpZDg5dDdoWklSTURkaUNuQjlrSjA4U1Y1TnlRYkZZbEh5N29UWTlkVVVhU3pGNzk2Mw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-29 10:26:45"
@@ -1170,16 +1244,6 @@
           "title": "張嘉郡、黃尤美斗六競選總部成立 藍營齊聚展現團結氣勢 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQVV96b0xPcFN1aGlQS2hJZUZ1WFFydmF1OFY3WXdDREtSeUZ4SFN1cTN0aEdlWWpGM2dkNXVzUW9henpQMUlSUmNUYTdrcGJIN05qWnk4WXNPYjdVeXJFM2lMTzZOUGVuUHJBcE94NlpEbVhfNzQ4SG9sblB1WjlfU3FqVE5GXzFjVEpTNjQyMjd1OUktWkMzcG9aOWRzVjV0R3p5VXVkbFFERW9CVTdhTlEyT21fMXM3RkQyNHJpNzZGSUZhZ1hSZUFiSmxtQjNHMF82TVp2dXRTdk4xODVPUEhOQ3RUN1k2Q3VCWFVrWHFVZWZNRmFkS0RxWS1la3FrbTB5SC1NYVE1Z3FGSmE1UldxUEZjek9acEljVEhZVnpXNVp5MmRYQ0hKMGdhaGpMNXV3YWdIN0VPQ0ZuRk43MENYQVZnM0x4NXd3Wk1SSkNIQmRJMkpPRi1vQ2dLY1FaN2RxSjhNVEM3Y3E2TF9yWTBIb0Mzdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-28 17:26:44"
-        },
-        {
-          "title": "張嘉郡、黃尤美斗六競總成立拋產業、交通與城市建設政見- 政治新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZG5FTFp1blE5M0d0LXdnbm92SHMybmlUd19yWnhXbnYwUEdXRlRNSXZBME9PXzlHeFZ2eVE1a3h0SDB5RmFwWk9Kb0o1bVJwQXNjdUhRNVZ2Nkd4WG43YVQ1UTY0OVdoYmpXWGI0LTNSZXd4R2hrVTExaE15YTkzeXpJYUQzRkYxNUEzcDB3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-28 17:23:21"
-        },
-        {
-          "title": "張嘉郡、黃尤美斗六競總成立 拋產業、交通與城市建設政見 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQMG8zbzF0aEUxSTl4TWl5bVBnMEQ2eGphMGJJS0FDWWxmeEgxTnRBT05TSHJwZTRRYTBjSnNSODJzdkVreWx1c3lGOXNmb19rNUVUVEZrTnV2c0V6OERlTGttTXJOR1FpNGtWUDhpdFF2M3lJRG9JQkVYWTNaYUk3b1YtVnhjeGFZd0ZOYS16bXVpTl9iYy1idDkxQTZ4SEl0OFZTb244S09FWm1vcmwxaDRnMmg5WWRpYWtBRzNxRlpDYV9PYnZsemVhWGc3YnBsaUpGT2NJTGZFd2dtS1BPa0FFNkxZSmVUZjhfMWZqV2gyalotVDJvWXAxNnlWbWFuVXJEUzB2aFRmVjE0MDJJX3g1eUZnUVNpaG5OWGdVVnlDMndtT00tcm1fNVVFX0tCdzdHX3RzVjQ0N1dMSUlEMjJLR0pPWTFDcTNFWk1iakp6QWk4RTJtZ0JLbEU1am5ZOUpjSlhfMUN5Z1VBYWl4TV9Oc3dheVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-28 17:23:21"
         }
       ]
     },
@@ -1288,6 +1352,11 @@
       ],
       "news": [
         {
+          "title": "劉建國、陳中一聯合競總成立　喊「接棒」延續建設拚元長 - ETtoday新聞雲",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LM0lVRFM3b0tyamY1Wmx1MHpuYUV5TTNNYTAwMGVyU3BrQk56R3VkRjlEWnYwMXhUYzg1Sjh1MFJfN3RYUmk2bjluY1B2Z1hFTHRqQmoySjVZVlowV1HSAUtBVV95cUxONFpjSTRSa3owZnZhdEpQQjJEaHBVY2NiX3FncG9OVkpDckFrUndZTXdOYnJHWTRzODlYRFhTZnZvekh4T2pqWGNFNEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-29 18:20:00"
+        },
+        {
           "title": "劉建國、陳中一成立元長聯合競總　聚焦產業、治水與長照 - 大纪元",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBob0hXXy1UeDdwbVpDblZqdWJIYUVVSlprcDBkNUZ5eC02cndCbXg1S0xkQTcxMVFZb0ViNmNyWmNwTS1WYWhYaXN6LVd4LU9Xc2dhWVhwMVpHSUJyWFFzb9IBZkFVX3lxTE9WZkFxdUZoRU9rNnlhMjZrSy16ZlctYTlzdUE4TjZUWWpUY0hDVjNfUGNQZ1h2cmRHdDBXZ1hnUzJGbEF2M1lmOTJQWWhsTTFXM0VPRVUxY2p6WlN5VHY3RnVoWDYyQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-29 12:30:00"
@@ -1381,17 +1450,27 @@
           "title": "南亞科擴廠傳棄雲林選屏東 張麗善：可見周春米比劉建國重要 - UDN",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SenNXQlBjdjNFdWxPLXVMZ0RiMU5GWkEtaS10VXZrb3U0dWIxMjN5RXNSVzRBQ3hManhSa3JVMGtpYk1sOVM4NUdweXBQQUUtMTZj0gFYQVVfeXFMT3N1bXdOUS1aeEU3QmRVcF9NczFrSEstSGI4YzZXaHl0NVQ0a2dkQzZJSkluZ3A5blB0akdyUGQ5VU5vbmNDM19odkRGS1lSd1FMX2lqeE9MRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-28 12:00:48"
-        },
-        {
-          "title": "南亞科擴廠傳棄雲林選屏東張麗善：可見周春米比劉建國重要| 2026九合一選舉 - UDN",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY1N3dGxCc0tGbEJQQjlfRnVxTTlUd29DX25ZbFVvY2VvOHZ0QVR3VFY1WkVXeXJYa1dBQl90VUswTGl5MFBmcTJzcGM3SUFzalJ2a2V6UkRIU1Q1b0YzZEEyMVFwOXA5M2NZdDNMRmlNTFVyZEhmZjU1UERpNE80OGdsWQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-28 12:00:00"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國、陳中一聯合競總成立　喊「接棒」延續建設拚元長 - ETtoday新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LM0lVRFM3b0tyamY1Wmx1MHpuYUV5TTNNYTAwMGVyU3BrQk56R3VkRjlEWnYwMXhUYzg1Sjh1MFJfN3RYUmk2bjluY1B2Z1hFTHRqQmoySjVZVlowV1HSAUtBVV95cUxONFpjSTRSa3owZnZhdEpQQjJEaHBVY2NiX3FncG9OVkpDckFrUndZTXdOYnJHWTRzODlYRFhTZnZvekh4T2pqWGNFNEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-29 18:20:00"
+      },
+      {
+        "title": "張嘉郡斗南廟口開講 藍營立委接力站台相挺 - news.st-media.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04ZGtuOWdYNFE2N0FvZ1huV3VVMjlzcmFfVlBtRzJHazhYNVkzMkthSTIxd1NZSE5VeUtRbm1ueGFlN1FwRmlTdlJXUzl6ZVhG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-29 18:10:30"
+      },
+      {
+        "title": "張嘉郡、黃尤美攜手拚斗六　小巨蛋、美術館、鐵路高架化端政見 - ETtoday新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CR19fNW9sc2xNQ19aM3hFSTkyeWt4bXlXaDdGa1ZBSnZGLUJiX2c3RHNEMjZiel83by1WZEdYS0tBN0QycXYyRlpFOFVXbWl0ZC1kam5lRTh4OEo5TEHSAUtBVV95cUxNTG96aGxKMFBIUkpBanVWenlWeTRwM2Q2WnAzNXdiM0stSnFWSFVXSTBvcnl3dERKZDlJUDRxSnJSQUVUekJnamloQU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-29 18:04:00"
+      },
       {
         "title": "劉建國、陳中一成立元長聯合競總　聚焦產業、治水與長照 - 大纪元",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBob0hXXy1UeDdwbVpDblZqdWJIYUVVSlprcDBkNUZ5eC02cndCbXg1S0xkQTcxMVFZb0ViNmNyWmNwTS1WYWhYaXN6LVd4LU9Xc2dhWVhwMVpHSUJyWFFzb9IBZkFVX3lxTE9WZkFxdUZoRU9rNnlhMjZrSy16ZlctYTlzdUE4TjZUWWpUY0hDVjNfUGNQZ1h2cmRHdDBXZ1hnUzJGbEF2M1lmOTJQWWhsTTFXM0VPRVUxY2p6WlN5VHY3RnVoWDYyQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1504,10 +1583,32 @@
         "url": "https://news.google.com/rss/articles/CBMinAhBVV95cUxOeEkya1c4QUNIVUNET2lVQmtpQzEwbUp5R2dJaVFROFZWMWpTMnJEN0RYRWRRb0pSNjVNR3V3MUZYbmpuemVyYWpvOWZFX3hvVGRPVTlWM2xCc0JkODJOWUxnM2xld3VjT1lndVpmdGxkTFpIeWJyNDhFWmlsNXY2NnMtV1VINnBGbEo3U0pKcG9xUWJjQXZQX1hfS0JQdTAwZVFhQzJLbko0bmN5ZjBiYTMxVnZpcDlFWGNGSWF0Ym1CQnE4YlVBUDFPYkN5bW1WMlZPNVdUVWY4RWpKSmdYakhxUzZERjM5eWlwNWZDLVBsSVVYazJlMjZQODhuSzJDVjFEZ0pMUExyZ3BnN25pU1RoT0pWblp0bVV1bldGSVMxeTZGa1h1NmQzbkxMTDJLUGxUSHRia2R6bzcxWWVweFRTZUJUWkNudkEwZndoTGI0WS1XbTMzdDVLNDhScTVZSEIxVEFWUWlKUEJUY3hYZUVUbmw1dllvcnlEeEdZT1JHVi1jdFpGQmE2SnR0MHJVMTlZbkhBVk5pWGh2ZEFfY21HUUJQZW9TcUFtQlFTLWo5d1lkMFYxWEFWblRnRnhOR1ZfMXdGZzJiTVZ0NDhjZ3YtODVFa21ZWEY0V1hnOUhRZldiUnlGZFEydHBFMDZlaFRoVmpaQUdhdnNRNG9XdW41ZmZKRTdrUnh0b1JxS3ZleV84ZkNRWUIwNkNjTEtzN19WVVNGRUdDUnNjclZZbmZxS1RtMVhlc2NJQTI0eXo2MkJmcTQwenBaTlMxdU9rempaalFJTVExaXFBSzFQZkVXUWI0ZlVrdzNOblRQRGJtSWlETlR2aEEwc3FFczA5MS1LTjNSZHhhYVNXY2ZrVlhDaW5PUmVaUnZzVWZISHlGNFQ0c2IzODZxSG9aenZDRDJqMW45WE4tdHVSelZOSjVBdWYtR3JIQWtja1gzbEZVN1JGdFlxMUZOdVNxdzdYU0FFeEUzN2ZCanRzX190VXNibTFQSVR0Z2RNYmRpUzBYTnhNenVhdGJ2VUdQUUdRXzRrNFE2NEYtN2QyZEd0QmhYWGFPSjRIdDI3SFJLdWRsc2ZNVFR1dGo3aDBEVkpXVXJ5ZDRNMzZPbG82VzhQN3hRT3FKS2VMaEJmcXR2NVgydHlsRGtZblZZSkdteWE4VUpGemNHNUNRMy1HRV81TGJBUmZOYjdEcG91dGlJTi14eDRHQk1JSTFpTGhUcU5XV0EySFVHbzl3TXNOdkE1cnNIVC14UXR5azBUMDZXeDk3YWVaZFBXLXlnNXlQcjk0RTJhVFJ2RE1mTVhqWVhBcWpfWDJ0dlFaaXc5VlVRbFFrVnEwN1pldTZ4bEhYb0Y5SkxZb0s5R2NKcFJVazNPTVpRS0RqZDR4Zlp3bQ",
         "time": "2026-09-29 00:38:06"
       }
+    ],
+    "youtube": [
+      {
+        "title": "張嘉郡斗南廟口開講 藍營立委接力站台相挺-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=OHEoLZB95C4",
+        "time": "2026-09-29 18:30:26"
+      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "劉建國、陳中一聯合競總成立　喊「接棒」延續建設拚元長 - ETtoday新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LM0lVRFM3b0tyamY1Wmx1MHpuYUV5TTNNYTAwMGVyU3BrQk56R3VkRjlEWnYwMXhUYzg1Sjh1MFJfN3RYUmk2bjluY1B2Z1hFTHRqQmoySjVZVlowV1HSAUtBVV95cUxONFpjSTRSa3owZnZhdEpQQjJEaHBVY2NiX3FncG9OVkpDckFrUndZTXdOYnJHWTRzODlYRFhTZnZvekh4T2pqWGNFNEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-29 18:20:00"
+      },
+      {
+        "title": "張嘉郡斗南廟口開講 藍營立委接力站台相挺 - news.st-media.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04ZGtuOWdYNFE2N0FvZ1huV3VVMjlzcmFfVlBtRzJHazhYNVkzMkthSTIxd1NZSE5VeUtRbm1ueGFlN1FwRmlTdlJXUzl6ZVhG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-29 18:10:30"
+      },
+      {
+        "title": "張嘉郡、黃尤美攜手拚斗六　小巨蛋、美術館、鐵路高架化端政見 - ETtoday新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CR19fNW9sc2xNQ19aM3hFSTkyeWt4bXlXaDdGa1ZBSnZGLUJiX2c3RHNEMjZiel83by1WZEdYS0tBN0QycXYyRlpFOFVXbWl0ZC1kam5lRTh4OEo5TEHSAUtBVV95cUxNTG96aGxKMFBIUkpBanVWenlWeTRwM2Q2WnAzNXdiM0stSnFWSFVXSTBvcnl3dERKZDlJUDRxSnJSQUVUekJnamloQU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-29 18:04:00"
+      },
       {
         "title": "劉建國、陳中一成立元長聯合競總　聚焦產業、治水與長照 - 大纪元",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBob0hXXy1UeDdwbVpDblZqdWJIYUVVSlprcDBkNUZ5eC02cndCbXg1S0xkQTcxMVFZb0ViNmNyWmNwTS1WYWhYaXN6LVd4LU9Xc2dhWVhwMVpHSUJyWFFzb9IBZkFVX3lxTE9WZkFxdUZoRU9rNnlhMjZrSy16ZlctYTlzdUE4TjZUWWpUY0hDVjNfUGNQZ1h2cmRHdDBXZ1hnUzJGbEF2M1lmOTJQWWhsTTFXM0VPRVUxY2p6WlN5VHY3RnVoWDYyQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1692,21 +1793,6 @@
         "title": "藍白大咖齊聚斗六！張嘉郡、黃尤美合體造勢 張榮味現身力挺 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zS0prd252MmpyR3JrVW0xZ1o1WVlPd282a0g4MHBnU093UUVpck96bTVOdV9udzZuU0FseVNDekZaQUFUWmtOZkdENmVOUUhVQkFZV2ViTzBKbHB5RmxtSmhmbmxBRVNuWlHSAW9BVV95cUxOVFdnNGI1SUNPTS15THZrRW56LXkwNThsbmtaYW0wTmtVMlBCUGlSLXY1c3NUeloxMXo3RHVqNGZwUWtWbEpPa3A1VS1oRVdIc09WMXBibjFGLVVrSVlIZ0p1N2M2eElaRkd6WnVKUUU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-28 16:31:35"
-      },
-      {
-        "title": "張嘉郡持續爭取矽品二期 用高科技產業改變雲林 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOa2M0U0tJWDh0dDhaeEtVQXNid29NRVJoOXpUeXhFNVNxZWk1UTZCb1U0OUtyMmE2NXQxaDM0dkYtR2JKSTNjcldyTnltU1F3djR4OFJscVh4MU9CQ1RzVE5XWFNJd2hBSnpDd1NETEVtSmtGQUphRUowOVpJXzE3VU9aclZ6NmM1S195MS1XNFBJRW9Ua2JELWEyY2hjS2ZFcWdGclc0N09TSjdwUmtlZUFaeW9ZXzBJeW1LcklWSm1PS29QZzliNlFVMHlTaHpLX2p3R0laMzcwaVF1RUNyMU82RXgwZFFvUWxWaV9ZZzMyZlRTLU5qQV9yVmt1SXh3b0FZekd6dThKMExfaWJYWEphU0N6czROREtHdGNqeXc3ODBTNHZOcGFpSHRDVF9hblJnelkyNlJheGRNaHVWdDBhLTZnWUtKa1ZLMVBkeV8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-28 16:22:59"
-      },
-      {
-        "title": "張嘉郡持續爭取矽品二期 用高科技產業改變雲林 - 中時新聞網",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vX3JHb2hEemMtdTBtNGd0bVdSVkFQSm1BWE5neDV3LTU2c2hQaEx2bnBqbERUSk13WnRlSmVfVWZkc2xWM1IwcDJxV3huMVl2amZwSzdScU1iVkhxcEplQ1ZHRmF4N2dqbUVuMUR3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-28 16:17:59"
-      },
-      {
-        "title": "張嘉郡、黃尤美斗六競總成立 聚焦產業、交通與城市建設 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NR3FHTHNuaEFObEFnNF9yeVd0RVNfNHgwSFpTYmgzQy13SjVSYW1fVktibkM5a1Rjc1VvR3Y1NXhWRjJHc0JGd0dRRHNaNjZIX2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-28 16:01:00"
       }
     ],
     "facebook": [
@@ -1768,6 +1854,11 @@
     ],
     "youtube": [
       {
+        "title": "張嘉郡斗南廟口開講 藍營立委接力站台相挺-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=OHEoLZB95C4",
+        "time": "2026-09-29 18:30:26"
+      },
+      {
         "title": "藍白合體挺斗六 張嘉郡.黃尤美聯合競總成立-雲林新聞網",
         "url": "https://www.youtube.com/watch?v=2bXGiNOKmhY",
         "time": "2026-09-28 18:11:20"
@@ -1808,6 +1899,34 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "張嘉郡斗南廟口開講 藍營立委接力站台相挺-雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=OHEoLZB95C4",
+        "time": "2026-09-29 18:30:26",
+        "platform": "youtube",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國、陳中一聯合競總成立　喊「接棒」延續建設拚元長 - ETtoday新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LM0lVRFM3b0tyamY1Wmx1MHpuYUV5TTNNYTAwMGVyU3BrQk56R3VkRjlEWnYwMXhUYzg1Sjh1MFJfN3RYUmk2bjluY1B2Z1hFTHRqQmoySjVZVlowV1HSAUtBVV95cUxONFpjSTRSa3owZnZhdEpQQjJEaHBVY2NiX3FncG9OVkpDckFrUndZTXdOYnJHWTRzODlYRFhTZnZvekh4T2pqWGNFNEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-29 18:20:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "張嘉郡斗南廟口開講 藍營立委接力站台相挺 - news.st-media.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04ZGtuOWdYNFE2N0FvZ1huV3VVMjlzcmFfVlBtRzJHazhYNVkzMkthSTIxd1NZSE5VeUtRbm1ueGFlN1FwRmlTdlJXUzl6ZVhG?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-29 18:10:30",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "張嘉郡、黃尤美攜手拚斗六　小巨蛋、美術館、鐵路高架化端政見 - ETtoday新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CR19fNW9sc2xNQ19aM3hFSTkyeWt4bXlXaDdGa1ZBSnZGLUJiX2c3RHNEMjZiel83by1WZEdYS0tBN0QycXYyRlpFOFVXbWl0ZC1kam5lRTh4OEo5TEHSAUtBVV95cUxNTG96aGxKMFBIUkpBanVWenlWeTRwM2Q2WnAzNXdiM0stSnFWSFVXSTBvcnl3dERKZDlJUDRxSnJSQUVUekJnamloQU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-29 18:04:00",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "劉建國、陳中一成立元長聯合競總　聚焦產業、治水與長照 - 大纪元",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBob0hXXy1UeDdwbVpDblZqdWJIYUVVSlprcDBkNUZ5eC02cndCbXg1S0xkQTcxMVFZb0ViNmNyWmNwTS1WYWhYaXN6LVd4LU9Xc2dhWVhwMVpHSUJyWFFzb9IBZkFVX3lxTE9WZkFxdUZoRU9rNnlhMjZrSy16ZlctYTlzdUE4TjZUWWpUY0hDVjNfUGNQZ1h2cmRHdDBXZ1hnUzJGbEF2M1lmOTJQWWhsTTFXM0VPRVUxY2p6WlN5VHY3RnVoWDYyQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1919,34 +2038,6 @@
         "time": "2026-09-28 21:21:38",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "張嘉郡、黃尤美斗六競總成立 展團結氣勢 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNUVlBNV9CZXhlZnc0RFgwdktZTk04VFoyRzdUejYyNGRaQUdTQ1NnQnJtUWtNdjM2U0VwSm5peWRTUVk2ZjM4el9BM0ZRajhYZ2NKZXFIeW54TE1fS28yS29lSVk5RXVLUDZxNElBbTdDSUo0WXZwOElmd2VjeUVXay1IZTc5ZmxnVDlwOHVabnQ2dXR5M2xBLWk3U2xocUNoeTR6a0pGZlphc2Vlak04R253V1lsSHplMFlWZWRmWDlkNkxhd3pzSmtxenFyb2FOREhIUHFTWGxNeGRfSl9FcFljUmNIdEEtY1cwQlZDSENtRXFIUHR2aHZjcG05SUd2STdYZjlmU1FYckVIVE9xc2hHbU9pSF9LdGtiMkpQODR6UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-28 20:11:18",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "劉建國元長成立聯合競總 提AI無人機園區、長照福利拚雲林轉型 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYmJMdlVsM19nVTRyVEZwWl9ZVkxwbUxZMkdybmRhMGFEUTVxM3RGODU5eHkzcW1UanZkVk04NDg4dHVTNkFES3gxNlRxY3c2QUdhN2tHV3ZJakV0Yl9WbFp1WXJyb0Q1SGRib1U1R3F6Ym5sdVF0WDJ5QklIeVlUMy1xUk13ZFFmMG4wUENlZkYyZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-28 19:35:06",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "劉建國元長成立聯合競總 提AI無人機園區、長照福利拚雲林轉型 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hMnRRVzBsUHB5bUFDWk92TlRnXzVYRklsdXlEbzh4bkVNOExyMDQ4dUxDTGxJWnh4REZZZGxBNkVlR185MVUtZTg2RlItY1Y3WWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-28 19:35:00",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "張嘉郡黃尤美聯合競總成立 雲林斗六選況現熱潮 - tcpttw.com",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fWE50eXFrNU1YeUpFT20yT1FVV3k5ZWQ4VkZDR0pMS3RFQkQtQ3pRV1hjQ19RT2VvWnZ1cEIyMWJncFluMlNITFpmWktsTWFQZG9BZjJoSWNLSW8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-28 19:13:26",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -1954,17 +2045,17 @@
     "regions": [
       {
         "name": "斗六",
-        "count": 10
+        "count": 11
       },
       {
         "name": "雲林",
-        "count": 9
+        "count": 10
       }
     ],
     "groups": [
       {
         "name": "工地/營造",
-        "count": 1
+        "count": 2
       },
       {
         "name": "交通通勤",
