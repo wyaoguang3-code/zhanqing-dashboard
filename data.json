@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-09-30T07:05:48.966639+00:00",
+  "generated_at": "2026-09-30T07:21:41.429726+00:00",
   "metrics": {
-    "total_24h": 15,
-    "prev_24h": 55,
-    "growth_pct": -72.73,
-    "news_24h": 12,
+    "total_24h": 18,
+    "prev_24h": 53,
+    "growth_pct": -66.04,
+    "news_24h": 14,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 184,
+    "total": 187,
     "prev": 378,
-    "growth_pct": -51.32,
-    "news": 167,
+    "growth_pct": -50.53,
+    "news": 169,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,11 +28,11 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 12
+      "count": 14
     },
     {
       "platform": "youtube",
-      "count": 2
+      "count": 3
     },
     {
       "platform": "facebook",
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 167
+      "count": 169
     },
     {
       "platform": "facebook",
@@ -50,7 +50,7 @@
     },
     {
       "platform": "youtube",
-      "count": 7
+      "count": 8
     }
   ],
   "by_hour": [
@@ -73,6 +73,10 @@
     {
       "hour": "2026-09-30 13:00",
       "count": 1
+    },
+    {
+      "hour": "2026-09-30 14:00",
+      "count": 3
     }
   ],
   "by_hour_7d": [
@@ -323,12 +327,16 @@
     {
       "hour": "2026-09-30 13:00",
       "count": 1
+    },
+    {
+      "hour": "2026-09-30 14:00",
+      "count": 3
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 12
+      "count": 14
     },
     {
       "platform": "facebook",
@@ -341,6 +349,16 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "從農田到天空「以測帶產、以賽聚才、以產留才、以用創值」四大方向張嘉郡提無人機政策：打造雲林低空科技產業廊帶 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQVXkyV1IxRmJkdE5sa1FSQjlTU1pMaTBYcWJhcE1GOWt0a01HR0lkUFUzbVQ0bnhUTG5sblBTbDl6ZkZjM1p1RVVRQ0VJYnZsLVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-30 14:47:00"
+      },
+      {
+        "title": "拋無人機產業藍圖！張嘉郡：從雲林農田起飛 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOcDR2Q3R2SWg1QkxQamdtSTR3cl9WWDZPa3NnVk1yOTFZME9rVHRpeW1iU2NqeTd5ZnVBU2Jyd3pfZXE1VnZPMmM3SjZVZDVTNkluelVUR2ZUaWFUeXIyQkZXa1BacUlDeDZ2TXNOOWxRcjBpZ0dlSHU5S0MzSzlORzRCY0l3eW9aUUlGR3h0VEtwbjFoQ2pJMWRXYlBWajdjU0d1VndqejN2QmtzOVlJR2RMV0E4Nm5tb0xCcVhzd0VHRWRwV3JFSG54Z2NES3NNQXNJenRiVFpTdGNoblBYa2pHNEhsOEpIcUJkNVJhb3FnUWxtcXM4NHlLTlhCMUNlaURUUGVCSklPbXo3dm9qQ1QzcnYxTU4xSmRCYmZVM0tLZlk5NE1JUDNQdHlMUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-30 14:25:38"
+      },
       {
         "title": "張嘉郡拋無人機產業政策！雲林從農田起飛 打造低空科技廊帶 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOZEF6b01VZlQwNTJ3MjNlUk1iclFRVmQ5QXlFem5RazM3YzkxazBZai1oMFFTR2hvYWJjajB1TDVIajFvYXVNS1A5YXRhemVqMDYzWnA5bWZicTZkdzF6cGtVdl9nOHEyVUFobWV0MGYyUkowalZvR0FXcXhZZHJ6QUFsN0twWDlzNHVadGgzVDZNUHNDcDBoNEJodVZwY09TX0kwSjdMZ3VDUktwM2xwV25DdlhMME5pdmNRbFgzMWR3WXlaSW1IbzZzQ0NQbHVPUlRQSnBYQjF2TEhXSHFidlQ2aU9YRGVQdHVVakxjbFNZR1VfaEZvelVrNEN3eGRlV2E0XzNtWF9rZkVXNlRudTZ4ODJ2Z245QTdNUFNWeFpUMWNTY0RTeUFfTXZEUVdVN2I4aXY0SllKekxCME4wZnN5VWdTaFBtZWJNT1lvWEdzaGh3TzhHbVBPdHRWMjEtWWFGT3FIMmpUdkc0SE1jZ2ljMXNlc2Z4MVlnWnlMTUJDWVI5a0cxbEdkYVRHZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -420,7 +438,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 12
+      "count": 14
     },
     {
       "platform": "facebook",
@@ -433,6 +451,16 @@
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "從農田到天空「以測帶產、以賽聚才、以產留才、以用創值」四大方向張嘉郡提無人機政策：打造雲林低空科技產業廊帶 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQVXkyV1IxRmJkdE5sa1FSQjlTU1pMaTBYcWJhcE1GOWt0a01HR0lkUFUzbVQ0bnhUTG5sblBTbDl6ZkZjM1p1RVVRQ0VJYnZsLVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-30 14:47:00"
+      },
+      {
+        "title": "拋無人機產業藍圖！張嘉郡：從雲林農田起飛 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOcDR2Q3R2SWg1QkxQamdtSTR3cl9WWDZPa3NnVk1yOTFZME9rVHRpeW1iU2NqeTd5ZnVBU2Jyd3pfZXE1VnZPMmM3SjZVZDVTNkluelVUR2ZUaWFUeXIyQkZXa1BacUlDeDZ2TXNOOWxRcjBpZ0dlSHU5S0MzSzlORzRCY0l3eW9aUUlGR3h0VEtwbjFoQ2pJMWRXYlBWajdjU0d1VndqejN2QmtzOVlJR2RMV0E4Nm5tb0xCcVhzd0VHRWRwV3JFSG54Z2NES3NNQXNJenRiVFpTdGNoblBYa2pHNEhsOEpIcUJkNVJhb3FnUWxtcXM4NHlLTlhCMUNlaURUUGVCSklPbXo3dm9qQ1QzcnYxTU4xSmRCYmZVM0tLZlk5NE1JUDNQdHlMUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-30 14:25:38"
+      },
       {
         "title": "張嘉郡拋無人機產業政策！雲林從農田起飛 打造低空科技廊帶 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOZEF6b01VZlQwNTJ3MjNlUk1iclFRVmQ5QXlFem5RazM3YzkxazBZai1oMFFTR2hvYWJjajB1TDVIajFvYXVNS1A5YXRhemVqMDYzWnA5bWZicTZkdzF6cGtVdl9nOHEyVUFobWV0MGYyUkowalZvR0FXcXhZZHJ6QUFsN0twWDlzNHVadGgzVDZNUHNDcDBoNEJodVZwY09TX0kwSjdMZ3VDUktwM2xwV25DdlhMME5pdmNRbFgzMWR3WXlaSW1IbzZzQ0NQbHVPUlRQSnBYQjF2TEhXSHFidlQ2aU9YRGVQdHVVakxjbFNZR1VfaEZvelVrNEN3eGRlV2E0XzNtWF9rZkVXNlRudTZ4ODJ2Z245QTdNUFNWeFpUMWNTY0RTeUFfTXZEUVdVN2I4aXY0SllKekxCME4wZnN5VWdTaFBtZWJNT1lvWEdzaGh3TzhHbVBPdHRWMjEtWWFGT3FIMmpUdkc0SE1jZ2ljMXNlc2Z4MVlnWnlMTUJDWVI5a0cxbEdkYVRHZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -510,14 +538,24 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 10,
+    "張嘉郡": 12,
     "劉建國": 4
   },
   "mention_compare_7d": {
-    "張嘉郡": 119,
+    "張嘉郡": 121,
     "劉建國": 72
   },
   "top_news": [
+    {
+      "title": "從農田到天空「以測帶產、以賽聚才、以產留才、以用創值」四大方向張嘉郡提無人機政策：打造雲林低空科技產業廊帶 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQVXkyV1IxRmJkdE5sa1FSQjlTU1pMaTBYcWJhcE1GOWt0a01HR0lkUFUzbVQ0bnhUTG5sblBTbDl6ZkZjM1p1RVVRQ0VJYnZsLVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-30 14:47:00"
+    },
+    {
+      "title": "拋無人機產業藍圖！張嘉郡：從雲林農田起飛 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOcDR2Q3R2SWg1QkxQamdtSTR3cl9WWDZPa3NnVk1yOTFZME9rVHRpeW1iU2NqeTd5ZnVBU2Jyd3pfZXE1VnZPMmM3SjZVZDVTNkluelVUR2ZUaWFUeXIyQkZXa1BacUlDeDZ2TXNOOWxRcjBpZ0dlSHU5S0MzSzlORzRCY0l3eW9aUUlGR3h0VEtwbjFoQ2pJMWRXYlBWajdjU0d1VndqejN2QmtzOVlJR2RMV0E4Nm5tb0xCcVhzd0VHRWRwV3JFSG54Z2NES3NNQXNJenRiVFpTdGNoblBYa2pHNEhsOEpIcUJkNVJhb3FnUWxtcXM4NHlLTlhCMUNlaURUUGVCSklPbXo3dm9qQ1QzcnYxTU4xSmRCYmZVM0tLZlk5NE1JUDNQdHlMUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-30 14:25:38"
+    },
     {
       "title": "張嘉郡拋無人機產業政策！雲林從農田起飛 打造低空科技廊帶 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOZEF6b01VZlQwNTJ3MjNlUk1iclFRVmQ5QXlFem5RazM3YzkxazBZai1oMFFTR2hvYWJjajB1TDVIajFvYXVNS1A5YXRhemVqMDYzWnA5bWZicTZkdzF6cGtVdl9nOHEyVUFobWV0MGYyUkowalZvR0FXcXhZZHJ6QUFsN0twWDlzNHVadGgzVDZNUHNDcDBoNEJodVZwY09TX0kwSjdMZ3VDUktwM2xwV25DdlhMME5pdmNRbFgzMWR3WXlaSW1IbzZzQ0NQbHVPUlRQSnBYQjF2TEhXSHFidlQ2aU9YRGVQdHVVakxjbFNZR1VfaEZvelVrNEN3eGRlV2E0XzNtWF9rZkVXNlRudTZ4ODJ2Z245QTdNUFNWeFpUMWNTY0RTeUFfTXZEUVdVN2I4aXY0SllKekxCME4wZnN5VWdTaFBtZWJNT1lvWEdzaGh3TzhHbVBPdHRWMjEtWWFGT3FIMmpUdkc0SE1jZ2ljMXNlc2Z4MVlnWnlMTUJDWVI5a0cxbEdkYVRHZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -567,19 +605,19 @@
       "title": "張嘉郡、周資昀水林競總成立！鄉親湧入相挺 - ETtoday新聞雲",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CcmNpVGJFWk5uWno1aXVzY1l0cnhqQ0J5MjcyWS1WQzFPZTZCckltYnphcmxleldrRVVWOEtyTXJ2aF9GN1VSU201WkhZdmlPdThZUld2bHVjWmpuYXfSAUtBVV95cUxPZHlYajNyRmhjZVJXdi1IcWZjUTBwTkxDMVNxS0wyWFV3blVNVUxUek43MUMza0JscXBCWVB4Q2sxTTJZMmYza2RCMDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-29 18:09:00"
-    },
-    {
-      "title": "張嘉郡、黃尤美攜手拚斗六　小巨蛋、美術館、鐵路高架化端政見 - ETtoday新聞雲",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CR19fNW9sc2xNQ19aM3hFSTkyeWt4bXlXaDdGa1ZBSnZGLUJiX2c3RHNEMjZiel83by1WZEdYS0tBN0QycXYyRlpFOFVXbWl0ZC1kam5lRTh4OEo5TEHSAUtBVV95cUxNTG96aGxKMFBIUkpBanVWenlWeTRwM2Q2WnAzNXdiM0stSnFWSFVXSTBvcnl3dERKZDlJUDRxSnJSQUVUekJnamloQU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-29 18:04:00"
-    },
-    {
-      "title": "張嘉郡、黃尤美攜手拚斗六　小巨蛋、美術館、鐵路高架化端政見 - ETtoday新聞雲",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Mb3pobEowUEhSSkFqdVZ6eVZ5NHAzZDZacDM1d2IzSy1KcVZIVVdJMG9yeXd0REpkOUlQNHFKclJBRVR6QmdqaWhBTdIBS0FVX3lxTE1Mb3pobEowUEhSSkFqdVZ6eVZ5NHAzZDZacDM1d2IzSy1KcVZIVVdJMG9yeXd0REpkOUlQNHFKclJBRVR6QmdqaWhBTQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-29 18:04:00"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "從農田到天空「以測帶產、以賽聚才、以產留才、以用創值」四大方向張嘉郡提無人機政策：打造雲林低空科技產業廊帶 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQVXkyV1IxRmJkdE5sa1FSQjlTU1pMaTBYcWJhcE1GOWt0a01HR0lkUFUzbVQ0bnhUTG5sblBTbDl6ZkZjM1p1RVVRQ0VJYnZsLVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-30 14:47:00"
+    },
+    {
+      "title": "拋無人機產業藍圖！張嘉郡：從雲林農田起飛 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOcDR2Q3R2SWg1QkxQamdtSTR3cl9WWDZPa3NnVk1yOTFZME9rVHRpeW1iU2NqeTd5ZnVBU2Jyd3pfZXE1VnZPMmM3SjZVZDVTNkluelVUR2ZUaWFUeXIyQkZXa1BacUlDeDZ2TXNOOWxRcjBpZ0dlSHU5S0MzSzlORzRCY0l3eW9aUUlGR3h0VEtwbjFoQ2pJMWRXYlBWajdjU0d1VndqejN2QmtzOVlJR2RMV0E4Nm5tb0xCcVhzd0VHRWRwV3JFSG54Z2NES3NNQXNJenRiVFpTdGNoblBYa2pHNEhsOEpIcUJkNVJhb3FnUWxtcXM4NHlLTlhCMUNlaURUUGVCSklPbXo3dm9qQ1QzcnYxTU4xSmRCYmZVM0tLZlk5NE1JUDNQdHlMUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-30 14:25:38"
+    },
     {
       "title": "張嘉郡拋無人機產業政策！雲林從農田起飛 打造低空科技廊帶 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOZEF6b01VZlQwNTJ3MjNlUk1iclFRVmQ5QXlFem5RazM3YzkxazBZai1oMFFTR2hvYWJjajB1TDVIajFvYXVNS1A5YXRhemVqMDYzWnA5bWZicTZkdzF6cGtVdl9nOHEyVUFobWV0MGYyUkowalZvR0FXcXhZZHJ6QUFsN0twWDlzNHVadGgzVDZNUHNDcDBoNEJodVZwY09TX0kwSjdMZ3VDUktwM2xwV25DdlhMME5pdmNRbFgzMWR3WXlaSW1IbzZzQ0NQbHVPUlRQSnBYQjF2TEhXSHFidlQ2aU9YRGVQdHVVakxjbFNZR1VfaEZvelVrNEN3eGRlV2E0XzNtWF9rZkVXNlRudTZ4ODJ2Z245QTdNUFNWeFpUMWNTY0RTeUFfTXZEUVdVN2I4aXY0SllKekxCME4wZnN5VWdTaFBtZWJNT1lvWEdzaGh3TzhHbVBPdHRWMjEtWWFGT3FIMmpUdkc0SE1jZ2ljMXNlc2Z4MVlnWnlMTUJDWVI5a0cxbEdkYVRHZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -669,16 +707,6 @@
       "title": "劉建國打造雲嘉無人機廊帶 張嘉郡規劃電動車園區 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNWDlBYTRxSXpZS1IxcDc0TDhpamk5V2ZkMVYyWVVyc3pyNTdHcnJ2anY4Q2xuRjN5bTJlcFFIaWg5WGtNWmdRd3VqNkhZOTFmdlVRd0RiTjBEaHJIOEZ4U1loNWQ0eHROR2NXZzJoWHAteWhyWE5YaWFSV1lvejMwRTdlby1VTGMyUktrSjdqMDlrdHhUMjZkVVhVRFF5Y05qU3diTl9kaEltdnpNOEJDZmJucXpsYldnVWJoRElNRlFTMmxxem13NUZqTlpCNUN3RVNXamZfX1JtcEN2TzZJVXRESnVoSU1KLV9GRmNLOHRBMGNCOXFsdFJaNTFJNzNiQ093enpIcWZ0a2xnbng1YjJaa2FtODN1ODJhSWpBM0VFcGxZVlhkb1F0WV9DWTZRUU1NVDBCX2hveTg0eGZ5amxTRE1fRTJvQTNUYmZianJaN2JmSnhrUEhSMEk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-29 05:30:00"
-    },
-    {
-      "title": "劉建國打造雲嘉無人機廊帶 張嘉郡規劃電動車園區 - news.ltn.com.tw",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16V3V3VVNxdlV4Sk95MU1hdXI2MjZ1MlhpeWhEd3BUeXFxdmhSQ0tsQzVod0lYZDdlQUtyNVBzQmUwRl9PWjJseDQ5cEc3OF82bHNFSXlVc0RFb3JHR0hZVdIBZkFVX3lxTE45LWk2VWQyc04wMHJCR0RveXVTbXFzTW52SnNLM1dVMmNyQzBibW1KZUlaOFNnZDdwYzlCWUNkaGphZGh0WnpSZzE0SGV1NlltYUI1UW5nQU01ZjBKa2V5d2llVHZuZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-29 05:30:00"
-    },
-    {
-      "title": "張嘉郡黃尤美聯合競總成立 雲林斗六選況現熱潮 - 記者爆料網",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xazBqRnZMa2xaaWRNX1dLYm1GSW5LcU5yeVMxMmRCc1p4RlVlWGlSWGZpbEFPcHdZMkI2Y3RXTFZqMXdrVVdGbmNGUXJHUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-29 00:55:16"
     }
   ],
   "latest_facebook_20": [
@@ -785,6 +813,16 @@
   ],
   "latest_news_20": [
     {
+      "title": "從農田到天空「以測帶產、以賽聚才、以產留才、以用創值」四大方向張嘉郡提無人機政策：打造雲林低空科技產業廊帶 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQVXkyV1IxRmJkdE5sa1FSQjlTU1pMaTBYcWJhcE1GOWt0a01HR0lkUFUzbVQ0bnhUTG5sblBTbDl6ZkZjM1p1RVVRQ0VJYnZsLVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-30 14:47:00"
+    },
+    {
+      "title": "拋無人機產業藍圖！張嘉郡：從雲林農田起飛 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOcDR2Q3R2SWg1QkxQamdtSTR3cl9WWDZPa3NnVk1yOTFZME9rVHRpeW1iU2NqeTd5ZnVBU2Jyd3pfZXE1VnZPMmM3SjZVZDVTNkluelVUR2ZUaWFUeXIyQkZXa1BacUlDeDZ2TXNOOWxRcjBpZ0dlSHU5S0MzSzlORzRCY0l3eW9aUUlGR3h0VEtwbjFoQ2pJMWRXYlBWajdjU0d1VndqejN2QmtzOVlJR2RMV0E4Nm5tb0xCcVhzd0VHRWRwV3JFSG54Z2NES3NNQXNJenRiVFpTdGNoblBYa2pHNEhsOEpIcUJkNVJhb3FnUWxtcXM4NHlLTlhCMUNlaURUUGVCSklPbXo3dm9qQ1QzcnYxTU4xSmRCYmZVM0tLZlk5NE1JUDNQdHlMUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-09-30 14:25:38"
+    },
+    {
       "title": "張嘉郡拋無人機產業政策！雲林從農田起飛 打造低空科技廊帶 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOZEF6b01VZlQwNTJ3MjNlUk1iclFRVmQ5QXlFem5RazM3YzkxazBZai1oMFFTR2hvYWJjajB1TDVIajFvYXVNS1A5YXRhemVqMDYzWnA5bWZicTZkdzF6cGtVdl9nOHEyVUFobWV0MGYyUkowalZvR0FXcXhZZHJ6QUFsN0twWDlzNHVadGgzVDZNUHNDcDBoNEJodVZwY09TX0kwSjdMZ3VDUktwM2xwV25DdlhMME5pdmNRbFgzMWR3WXlaSW1IbzZzQ0NQbHVPUlRQSnBYQjF2TEhXSHFidlQ2aU9YRGVQdHVVakxjbFNZR1VfaEZvelVrNEN3eGRlV2E0XzNtWF9rZkVXNlRudTZ4ODJ2Z245QTdNUFNWeFpUMWNTY0RTeUFfTXZEUVdVN2I4aXY0SllKekxCME4wZnN5VWdTaFBtZWJNT1lvWEdzaGh3TzhHbVBPdHRWMjEtWWFGT3FIMmpUdkc0SE1jZ2ljMXNlc2Z4MVlnWnlMTUJDWVI5a0cxbEdkYVRHZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-30 13:09:13"
@@ -873,16 +911,6 @@
       "title": "劉建國打造雲嘉無人機廊帶 張嘉郡規劃電動車園區 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNWDlBYTRxSXpZS1IxcDc0TDhpamk5V2ZkMVYyWVVyc3pyNTdHcnJ2anY4Q2xuRjN5bTJlcFFIaWg5WGtNWmdRd3VqNkhZOTFmdlVRd0RiTjBEaHJIOEZ4U1loNWQ0eHROR2NXZzJoWHAteWhyWE5YaWFSV1lvejMwRTdlby1VTGMyUktrSjdqMDlrdHhUMjZkVVhVRFF5Y05qU3diTl9kaEltdnpNOEJDZmJucXpsYldnVWJoRElNRlFTMmxxem13NUZqTlpCNUN3RVNXamZfX1JtcEN2TzZJVXRESnVoSU1KLV9GRmNLOHRBMGNCOXFsdFJaNTFJNzNiQ093enpIcWZ0a2xnbng1YjJaa2FtODN1ODJhSWpBM0VFcGxZVlhkb1F0WV9DWTZRUU1NVDBCX2hveTg0eGZ5amxTRE1fRTJvQTNUYmZianJaN2JmSnhrUEhSMEk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-09-29 05:30:00"
-    },
-    {
-      "title": "劉建國打造雲嘉無人機廊帶 張嘉郡規劃電動車園區 - news.ltn.com.tw",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16V3V3VVNxdlV4Sk95MU1hdXI2MjZ1MlhpeWhEd3BUeXFxdmhSQ0tsQzVod0lYZDdlQUtyNVBzQmUwRl9PWjJseDQ5cEc3OF82bHNFSXlVc0RFb3JHR0hZVdIBZkFVX3lxTE45LWk2VWQyc04wMHJCR0RveXVTbXFzTW52SnNLM1dVMmNyQzBibW1KZUlaOFNnZDdwYzlCWUNkaGphZGh0WnpSZzE0SGV1NlltYUI1UW5nQU01ZjBKa2V5d2llVHZuZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-29 05:30:00"
-    },
-    {
-      "title": "張嘉郡黃尤美聯合競總成立 雲林斗六選況現熱潮 - 記者爆料網",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xazBqRnZMa2xaaWRNX1dLYm1GSW5LcU5yeVMxMmRCc1p4RlVlWGlSWGZpbEFPcHdZMkI2Y3RXTFZqMXdrVVdGbmNGUXJHUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-09-29 00:55:16"
     }
   ],
   "person_sections": {
@@ -991,6 +1019,16 @@
       ],
       "news": [
         {
+          "title": "從農田到天空「以測帶產、以賽聚才、以產留才、以用創值」四大方向張嘉郡提無人機政策：打造雲林低空科技產業廊帶 - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQVXkyV1IxRmJkdE5sa1FSQjlTU1pMaTBYcWJhcE1GOWt0a01HR0lkUFUzbVQ0bnhUTG5sblBTbDl6ZkZjM1p1RVVRQ0VJYnZsLVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-30 14:47:00"
+        },
+        {
+          "title": "拋無人機產業藍圖！張嘉郡：從雲林農田起飛 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOcDR2Q3R2SWg1QkxQamdtSTR3cl9WWDZPa3NnVk1yOTFZME9rVHRpeW1iU2NqeTd5ZnVBU2Jyd3pfZXE1VnZPMmM3SjZVZDVTNkluelVUR2ZUaWFUeXIyQkZXa1BacUlDeDZ2TXNOOWxRcjBpZ0dlSHU5S0MzSzlORzRCY0l3eW9aUUlGR3h0VEtwbjFoQ2pJMWRXYlBWajdjU0d1VndqejN2QmtzOVlJR2RMV0E4Nm5tb0xCcVhzd0VHRWRwV3JFSG54Z2NES3NNQXNJenRiVFpTdGNoblBYa2pHNEhsOEpIcUJkNVJhb3FnUWxtcXM4NHlLTlhCMUNlaURUUGVCSklPbXo3dm9qQ1QzcnYxTU4xSmRCYmZVM0tLZlk5NE1JUDNQdHlMUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-09-30 14:25:38"
+        },
+        {
           "title": "張嘉郡拋無人機產業政策！雲林從農田起飛 打造低空科技廊帶 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOZEF6b01VZlQwNTJ3MjNlUk1iclFRVmQ5QXlFem5RazM3YzkxazBZai1oMFFTR2hvYWJjajB1TDVIajFvYXVNS1A5YXRhemVqMDYzWnA5bWZicTZkdzF6cGtVdl9nOHEyVUFobWV0MGYyUkowalZvR0FXcXhZZHJ6QUFsN0twWDlzNHVadGgzVDZNUHNDcDBoNEJodVZwY09TX0kwSjdMZ3VDUktwM2xwV25DdlhMME5pdmNRbFgzMWR3WXlaSW1IbzZzQ0NQbHVPUlRQSnBYQjF2TEhXSHFidlQ2aU9YRGVQdHVVakxjbFNZR1VfaEZvelVrNEN3eGRlV2E0XzNtWF9rZkVXNlRudTZ4ODJ2Z245QTdNUFNWeFpUMWNTY0RTeUFfTXZEUVdVN2I4aXY0SllKekxCME4wZnN5VWdTaFBtZWJNT1lvWEdzaGh3TzhHbVBPdHRWMjEtWWFGT3FIMmpUdkc0SE1jZ2ljMXNlc2Z4MVlnWnlMTUJDWVI5a0cxbEdkYVRHZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-30 13:09:13"
@@ -1079,16 +1117,6 @@
           "title": "雲林縣長候選人張嘉郡、斗六市長候選人黃尤美斗六聯合競選總部成立前縣長張榮味、縣長張麗善、立委蔡春綢領軍藍白合站台力挺！ - kingtop.com.tw",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MdVFmNVg5bEF6QVp3Ymd5RmxIQk1qT19ta2hFZHRzcVo2Tjlzc2drei11MlpHc1lZR0taQV9jZ1VxY0sxcWxHa3dnS19veF9uRDRZMmIwU25oMm41Nk8zMy1icXdWTVM4dUdZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-09-28 21:21:38"
-        },
-        {
-          "title": "張嘉郡、黃尤美斗六競總成立 展團結氣勢 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNUVlBNV9CZXhlZnc0RFgwdktZTk04VFoyRzdUejYyNGRaQUdTQ1NnQnJtUWtNdjM2U0VwSm5peWRTUVk2ZjM4el9BM0ZRajhYZ2NKZXFIeW54TE1fS28yS29lSVk5RXVLUDZxNElBbTdDSUo0WXZwOElmd2VjeUVXay1IZTc5ZmxnVDlwOHVabnQ2dXR5M2xBLWk3U2xocUNoeTR6a0pGZlphc2Vlak04R253V1lsSHplMFlWZWRmWDlkNkxhd3pzSmtxenFyb2FOREhIUHFTWGxNeGRfSl9FcFljUmNIdEEtY1cwQlZDSENtRXFIUHR2aHZjcG05SUd2STdYZjlmU1FYckVIVE9xc2hHbU9pSF9LdGtiMkpQODR6UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-28 20:11:18"
-        },
-        {
-          "title": "張嘉郡黃尤美聯合競總成立 雲林斗六選況現熱潮 - tcpttw.com",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fWE50eXFrNU1YeUpFT20yT1FVV3k5ZWQ4VkZDR0pMS3RFQkQtQ3pRV1hjQ19RT2VvWnZ1cEIyMWJncFluMlNITFpmWktsTWFQZG9BZjJoSWNLSW8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-09-28 19:13:26"
         }
       ]
     },
@@ -1302,6 +1330,16 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "從農田到天空「以測帶產、以賽聚才、以產留才、以用創值」四大方向張嘉郡提無人機政策：打造雲林低空科技產業廊帶 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQVXkyV1IxRmJkdE5sa1FSQjlTU1pMaTBYcWJhcE1GOWt0a01HR0lkUFUzbVQ0bnhUTG5sblBTbDl6ZkZjM1p1RVVRQ0VJYnZsLVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-30 14:47:00"
+      },
+      {
+        "title": "拋無人機產業藍圖！張嘉郡：從雲林農田起飛 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOcDR2Q3R2SWg1QkxQamdtSTR3cl9WWDZPa3NnVk1yOTFZME9rVHRpeW1iU2NqeTd5ZnVBU2Jyd3pfZXE1VnZPMmM3SjZVZDVTNkluelVUR2ZUaWFUeXIyQkZXa1BacUlDeDZ2TXNOOWxRcjBpZ0dlSHU5S0MzSzlORzRCY0l3eW9aUUlGR3h0VEtwbjFoQ2pJMWRXYlBWajdjU0d1VndqejN2QmtzOVlJR2RMV0E4Nm5tb0xCcVhzd0VHRWRwV3JFSG54Z2NES3NNQXNJenRiVFpTdGNoblBYa2pHNEhsOEpIcUJkNVJhb3FnUWxtcXM4NHlLTlhCMUNlaURUUGVCSklPbXo3dm9qQ1QzcnYxTU4xSmRCYmZVM0tLZlk5NE1JUDNQdHlMUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-30 14:25:38"
+      },
+      {
         "title": "張嘉郡拋無人機產業政策！雲林從農田起飛 打造低空科技廊帶 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOZEF6b01VZlQwNTJ3MjNlUk1iclFRVmQ5QXlFem5RazM3YzkxazBZai1oMFFTR2hvYWJjajB1TDVIajFvYXVNS1A5YXRhemVqMDYzWnA5bWZicTZkdzF6cGtVdl9nOHEyVUFobWV0MGYyUkowalZvR0FXcXhZZHJ6QUFsN0twWDlzNHVadGgzVDZNUHNDcDBoNEJodVZwY09TX0kwSjdMZ3VDUktwM2xwV25DdlhMME5pdmNRbFgzMWR3WXlaSW1IbzZzQ0NQbHVPUlRQSnBYQjF2TEhXSHFidlQ2aU9YRGVQdHVVakxjbFNZR1VfaEZvelVrNEN3eGRlV2E0XzNtWF9rZkVXNlRudTZ4ODJ2Z245QTdNUFNWeFpUMWNTY0RTeUFfTXZEUVdVN2I4aXY0SllKekxCME4wZnN5VWdTaFBtZWJNT1lvWEdzaGh3TzhHbVBPdHRWMjEtWWFGT3FIMmpUdkc0SE1jZ2ljMXNlc2Z4MVlnWnlMTUJDWVI5a0cxbEdkYVRHZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-30 13:09:13"
@@ -1364,6 +1402,11 @@
     ],
     "youtube": [
       {
+        "title": "沈伯洋競總首次大公開！✨這裡的主角是台北市民！市民發言、親子互動、政見一次看完",
+        "url": "https://www.youtube.com/shorts/T_bUjf6DUwY",
+        "time": "2026-09-30 14:37:08"
+      },
+      {
         "title": "新會期開議！呼籲朝野合作審議優先法案——助企業、撐家庭、增福利！",
         "url": "https://www.youtube.com/shorts/VXdnPTNr83A",
         "time": "2026-09-29 20:49:41"
@@ -1384,6 +1427,16 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "從農田到天空「以測帶產、以賽聚才、以產留才、以用創值」四大方向張嘉郡提無人機政策：打造雲林低空科技產業廊帶 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQVXkyV1IxRmJkdE5sa1FSQjlTU1pMaTBYcWJhcE1GOWt0a01HR0lkUFUzbVQ0bnhUTG5sblBTbDl6ZkZjM1p1RVVRQ0VJYnZsLVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-30 14:47:00"
+      },
+      {
+        "title": "拋無人機產業藍圖！張嘉郡：從雲林農田起飛 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOcDR2Q3R2SWg1QkxQamdtSTR3cl9WWDZPa3NnVk1yOTFZME9rVHRpeW1iU2NqeTd5ZnVBU2Jyd3pfZXE1VnZPMmM3SjZVZDVTNkluelVUR2ZUaWFUeXIyQkZXa1BacUlDeDZ2TXNOOWxRcjBpZ0dlSHU5S0MzSzlORzRCY0l3eW9aUUlGR3h0VEtwbjFoQ2pJMWRXYlBWajdjU0d1VndqejN2QmtzOVlJR2RMV0E4Nm5tb0xCcVhzd0VHRWRwV3JFSG54Z2NES3NNQXNJenRiVFpTdGNoblBYa2pHNEhsOEpIcUJkNVJhb3FnUWxtcXM4NHlLTlhCMUNlaURUUGVCSklPbXo3dm9qQ1QzcnYxTU4xSmRCYmZVM0tLZlk5NE1JUDNQdHlMUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-30 14:25:38"
+      },
       {
         "title": "張嘉郡拋無人機產業政策！雲林從農田起飛 打造低空科技廊帶 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOZEF6b01VZlQwNTJ3MjNlUk1iclFRVmQ5QXlFem5RazM3YzkxazBZai1oMFFTR2hvYWJjajB1TDVIajFvYXVNS1A5YXRhemVqMDYzWnA5bWZicTZkdzF6cGtVdl9nOHEyVUFobWV0MGYyUkowalZvR0FXcXhZZHJ6QUFsN0twWDlzNHVadGgzVDZNUHNDcDBoNEJodVZwY09TX0kwSjdMZ3VDUktwM2xwV25DdlhMME5pdmNRbFgzMWR3WXlaSW1IbzZzQ0NQbHVPUlRQSnBYQjF2TEhXSHFidlQ2aU9YRGVQdHVVakxjbFNZR1VfaEZvelVrNEN3eGRlV2E0XzNtWF9rZkVXNlRudTZ4ODJ2Z245QTdNUFNWeFpUMWNTY0RTeUFfTXZEUVdVN2I4aXY0SllKekxCME4wZnN5VWdTaFBtZWJNT1lvWEdzaGh3TzhHbVBPdHRWMjEtWWFGT3FIMmpUdkc0SE1jZ2ljMXNlc2Z4MVlnWnlMTUJDWVI5a0cxbEdkYVRHZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1573,16 +1626,6 @@
         "title": "元長聯合競選總部成立 劉建國全力支持陳中一 - 台灣生活新聞",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIaE1NZDZSdm5IbUNnaFh2Nl94a3I1WWhzV0NwdmtKbUV2SE10R0wxeTRjMWFlX09oeHc3YnJYdElONkVfR2RKMTBvU0NCN3Vy?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-09-28 17:55:03"
-      },
-      {
-        "title": "張嘉郡黃尤美斗六聯合競選總部成立 藍白大咖站台 - 匯流新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5qU044aWdldnlsYy1JLWZtV1BoWU01bllRUE9USHRrajdQM0lMUVNhbFJuXzFkQzFHQU1zbWpHOGttOEhaWjRfRjBR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-28 17:36:01"
-      },
-      {
-        "title": "張嘉郡、黃尤美斗六聯合競總成立 張榮味、張麗善領軍藍白大咖站台 - 鏡報",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02ZDVaQ0Y0NHBFUUZBY0ZsXzlhZkx2LWlzWlVJdW4zNzZON0doLW1sQm0zRGV6ZFBibGRyZ25VSlpaWUZsNWtVLUJJXzJCRXV2dUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-09-28 17:31:00"
       }
     ],
     "facebook": [
@@ -1639,6 +1682,11 @@
     ],
     "youtube": [
       {
+        "title": "沈伯洋競總首次大公開！✨這裡的主角是台北市民！市民發言、親子互動、政見一次看完",
+        "url": "https://www.youtube.com/shorts/T_bUjf6DUwY",
+        "time": "2026-09-30 14:37:08"
+      },
+      {
         "title": "新會期開議！呼籲朝野合作審議優先法案——助企業、撐家庭、增福利！",
         "url": "https://www.youtube.com/shorts/VXdnPTNr83A",
         "time": "2026-09-29 20:49:41"
@@ -1679,6 +1727,27 @@
     "minute": [],
     "hour": [],
     "day": [
+      {
+        "title": "從農田到天空「以測帶產、以賽聚才、以產留才、以用創值」四大方向張嘉郡提無人機政策：打造雲林低空科技產業廊帶 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQVXkyV1IxRmJkdE5sa1FSQjlTU1pMaTBYcWJhcE1GOWt0a01HR0lkUFUzbVQ0bnhUTG5sblBTbDl6ZkZjM1p1RVVRQ0VJYnZsLVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-30 14:47:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "沈伯洋競總首次大公開！✨這裡的主角是台北市民！市民發言、親子互動、政見一次看完",
+        "url": "https://www.youtube.com/shorts/T_bUjf6DUwY",
+        "time": "2026-09-30 14:37:08",
+        "platform": "youtube",
+        "risk": "綠"
+      },
+      {
+        "title": "拋無人機產業藍圖！張嘉郡：從雲林農田起飛 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOcDR2Q3R2SWg1QkxQamdtSTR3cl9WWDZPa3NnVk1yOTFZME9rVHRpeW1iU2NqeTd5ZnVBU2Jyd3pfZXE1VnZPMmM3SjZVZDVTNkluelVUR2ZUaWFUeXIyQkZXa1BacUlDeDZ2TXNOOWxRcjBpZ0dlSHU5S0MzSzlORzRCY0l3eW9aUUlGR3h0VEtwbjFoQ2pJMWRXYlBWajdjU0d1VndqejN2QmtzOVlJR2RMV0E4Nm5tb0xCcVhzd0VHRWRwV3JFSG54Z2NES3NNQXNJenRiVFpTdGNoblBYa2pHNEhsOEpIcUJkNVJhb3FnUWxtcXM4NHlLTlhCMUNlaURUUGVCSklPbXo3dm9qQ1QzcnYxTU4xSmRCYmZVM0tLZlk5NE1JUDNQdHlMUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-09-30 14:25:38",
+        "platform": "news",
+        "risk": "綠"
+      },
       {
         "title": "張嘉郡拋無人機產業政策！雲林從農田起飛 打造低空科技廊帶 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOZEF6b01VZlQwNTJ3MjNlUk1iclFRVmQ5QXlFem5RazM3YzkxazBZai1oMFFTR2hvYWJjajB1TDVIajFvYXVNS1A5YXRhemVqMDYzWnA5bWZicTZkdzF6cGtVdl9nOHEyVUFobWV0MGYyUkowalZvR0FXcXhZZHJ6QUFsN0twWDlzNHVadGgzVDZNUHNDcDBoNEJodVZwY09TX0kwSjdMZ3VDUktwM2xwV25DdlhMME5pdmNRbFgzMWR3WXlaSW1IbzZzQ0NQbHVPUlRQSnBYQjF2TEhXSHFidlQ2aU9YRGVQdHVVakxjbFNZR1VfaEZvelVrNEN3eGRlV2E0XzNtWF9rZkVXNlRudTZ4ODJ2Z245QTdNUFNWeFpUMWNTY0RTeUFfTXZEUVdVN2I4aXY0SllKekxCME4wZnN5VWdTaFBtZWJNT1lvWEdzaGh3TzhHbVBPdHRWMjEtWWFGT3FIMmpUdkc0SE1jZ2ljMXNlc2Z4MVlnWnlMTUJDWVI5a0cxbEdkYVRHZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1790,7 +1859,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 4
+        "count": 6
       },
       {
         "name": "斗六",
