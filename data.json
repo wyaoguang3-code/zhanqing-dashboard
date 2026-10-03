@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-10-03T11:36:08.201506+00:00",
+  "generated_at": "2026-10-03T11:52:00.550784+00:00",
   "metrics": {
-    "total_24h": 13,
-    "prev_24h": 32,
-    "growth_pct": -59.38,
-    "news_24h": 12,
+    "total_24h": 20,
+    "prev_24h": 29,
+    "growth_pct": -31.03,
+    "news_24h": 16,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 251,
+    "total": 258,
     "prev": 195,
-    "growth_pct": 28.72,
-    "news": 227,
+    "growth_pct": 32.31,
+    "news": 231,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,11 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 12
+      "count": 16
+    },
+    {
+      "platform": "youtube",
+      "count": 3
     },
     {
       "platform": "facebook",
@@ -38,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 227
+      "count": 231
     },
     {
       "platform": "facebook",
@@ -46,7 +50,7 @@
     },
     {
       "platform": "youtube",
-      "count": 9
+      "count": 12
     }
   ],
   "by_hour": [
@@ -76,11 +80,15 @@
     },
     {
       "hour": "2026-10-03 16:00",
-      "count": 2
+      "count": 3
     },
     {
       "hour": "2026-10-03 18:00",
-      "count": 1
+      "count": 3
+    },
+    {
+      "hour": "2026-10-03 19:00",
+      "count": 4
     }
   ],
   "by_hour_7d": [
@@ -418,17 +426,25 @@
     },
     {
       "hour": "2026-10-03 16:00",
-      "count": 2
+      "count": 3
     },
     {
       "hour": "2026-10-03 18:00",
-      "count": 1
+      "count": 3
+    },
+    {
+      "hour": "2026-10-03 19:00",
+      "count": 4
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 12
+      "count": 16
+    },
+    {
+      "platform": "youtube",
+      "count": 3
     },
     {
       "platform": "facebook",
@@ -438,6 +454,21 @@
   "mention_latest_by_platform_24h": {
     "news": [
       {
+        "title": "第五屆雲林動漫影展今登場 張嘉郡：持續培養雲林人才 | 夏和宣 | 地方新聞 - Storm.mg",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yR2RZNlBZUWc3MG1lYzN3cUZCZFZVQXlTLVgwMXUxUnFTVnRGdkJJWTJ6X3dfOHo5S3ZEVEEtQ0c4aGNWNmJVVlNTZHk4Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 19:36:21"
+      },
+      {
+        "title": "劉建國兩鄉鎮競總接力成立 蔡其昌力挺讚他「為了雲林六親不認」 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNV0hKZlpCa1AyVlkzQjItRkpaQWVhZlF0MFlqNUpPUWtFUkhWZ29FWGFIWFhiZHFSWURteDFtQTcyZF80dlhHek1fTUtZR29xcXVNdmFTU2RYNVZDZTNwLTd3OU40M1VJTlhSX1dOQV8wTFZPOTM5UUotOUkzYW9DaUJ2d0hVZUhSYVd5SU12WlQxclFfYmpZTmpCOTQzRVk1ZUp5TG9LUFFPaEpBbWF3bUFQRktORXJFUUJjSk9sR2x2LWFsSVBibTdXbkcydDZfdldRY3V1b1lHVGhyTjgyZUdFZnB2M20xOVlvLTRyaFdmWU1KT0hoT2hhLW9uOXE5QzljUllEQ3ZhNld1TGlyNHBxd2pQUno3U0tTWDdqb3loQUVJTUw0d1VwOVBidjJiY0RJeC1iRlVFLTU2NVJLNnRBdFJ6bEZnbmRlYWdBNWtpckJIVjU0YzExSFJoUndjRW9yWUVQN1VFa1R1N2xlWHVicERRTWd6bUg1LTRvcWJhaEVLR2Y0Zm9QNlJDUG9aLUd2VW1Vb0ZPUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 19:04:02"
+      },
+      {
+        "title": "韓國瑜雲林陪張嘉郡參拜宮廟喻立院亂象需孫悟空鎮壓| 政治 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByTks4VXdnSldyYjJ3TWF6MWlnTHByMGdaZGNfYXl6VklMOVBrcnlRXzdxSmJEa0VjUUl2RFVIU3EwcTBrUC1fcmNrNG1NX2RSS0Nub0dsT2hoenZDaVo4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 18:26:00"
+      },
+      {
         "title": "南亞科改去屏東 韓國瑜輔選張嘉郡突喊：雲林是「武當派」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQOXFKbVIwQm1BZmd3WHlXbTZxVUdZQ3dMMW0tdWxNRHc3R04wRlIyTXp2WUxqZGRfY1BvMjZ0MDRQMkpmUlBzV3A3dHNwWWxCQ056TDlDdklTeHlKSWtPN0lVcVRsMFhJS1phQ3ltck1WSGJpMVR0bmlxSXphZjE2R2NfUF84RmZPSGExZFlZeXZEZ3NhcGtaOW9MaXFUaTFFdnhhMWdWb1E0eEo2QjNQdzBJblFIekhrZUxTTmN0QWE3d0EzcjRRaEx4VTE0MXpDUW4tdUhXR2VIbnNwOVluNFNNV2VaaEd3UFVRbWtITEpZakFjVlFYWkVYWGVTTnpRTFVacGp0ZWtzYy1HcUVNOUY3MGswZVptVHQ2Wjl5ZmdsUUZUXzZ4aGtTWjlnbFB6aVZmYVZheUs4YXJoUkg3TXlzZ1A5OUkta1B1WHhhUlRaalIxUV92bjRtLTlFOHotNUZlS0ZkMlJ2YXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-03 18:00:15"
@@ -445,6 +476,11 @@
       {
         "title": "劉建國輔選大將涉賄 綠黨部執行長蔡永富涉資助胞弟「發紅包買票」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPUldqMjdPYkJuZ053dzh0TTNXOFJ5M3VpMnVKQ09CNl9EZnZCSEFGZWlsSFlDV0tQMTZySkx0dDRRR25WcXN2bjJrWDR1RHFCYmhoNEJPbXpKdmNLcXg3aFBWbzUwbmNibmduZy1yb2hZUWpTalVRSXZYVFpUM2xEOU03ZHZLOHRQLWhoMUVvMjhGenpBWFRmRlhMSzdqZGxObUVZSUFseUVYM0ZSYUpPTVdwUXEtY2ptS2M1cERtaFV0ZVNBZGhyOV9tSE5hdjJPZXgyaHdPLTRTVzdvVFNPR0JPMm53S2pvUlRLTWs5S28tQmpkTjRDbGVrMFZfOFlZV2EzOEdPcnVmdHdjZDdzdW1nU0NTSHlwd2dBOWpvYlhOX1MxRHVCMm9vOUgwZWpUUlFTOGVjMzkzWlFJV01kMzdQM1JyemFUWEYxQTl2QWk5WGstNEEzelJEUEJjTl8yZHFyNFpwajZWeVd1OWFFazl1QjNRNG1ZRGRxU0Vjc24zUExMZXVIbHdEbHJqNmwxQVZoUERaV3JzX0c1NFhGdlJfM1lRQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 16:20:41"
+      },
+      {
+        "title": "劉建國輔選大將涉賄 綠黨部執行長蔡永富涉資助胞弟「發紅包買票」 - 匯流新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJTWQ3ZFdpeWNlRUpYNkdnOUJsOHRiQmpDYUZtelo1aTc2ZEhDcE1DUzJyX1ZVREVCX0ZsZWVJRHRBNVkwd1FGODRR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-03 16:20:41"
       },
       {
@@ -496,6 +532,23 @@
         "title": "南亞科捨雲林擇屏東 最強菜農抱不平：籲劉建國不該罵張麗善、應向「他」抗議 - 中時新聞網",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LTkY0ejl3cGlmVElvZW9BRHAzTkJXbTltdElvSHlvSGd6OXd2SW5rdWtRZlVlYWpsZnlmQ3IzWXZhZVFnWi1LNTNXRko5aDZweTNoejFXb2dNLUM1T3NNYnAzeWNoSGtGVXp0Szln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-02 21:00:24"
+      }
+    ],
+    "youtube": [
+      {
+        "title": "雲林藍綠決戰!韓國瑜站台挺張嘉郡 蘇治芬大讚劉建國－民視新聞",
+        "url": "https://www.youtube.com/shorts/-N9q5h-G65w",
+        "time": "2026-10-03 19:19:53"
+      },
+      {
+        "title": "雲林藍綠決戰!韓國瑜站台挺張嘉郡 蘇治芬大讚劉建國－民視新聞",
+        "url": "https://www.youtube.com/watch?v=VopTyno7wrk",
+        "time": "2026-10-03 19:18:26"
+      },
+      {
+        "title": "韓國瑜參拜受天宮媽祖 呼籲支持張嘉郡 雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=oJXdQCia6Q8",
+        "time": "2026-10-03 18:37:53"
       }
     ],
     "facebook": [
@@ -509,7 +562,11 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 12
+      "count": 16
+    },
+    {
+      "platform": "youtube",
+      "count": 3
     },
     {
       "platform": "facebook",
@@ -519,6 +576,21 @@
   "alias_latest_by_platform_24h": {
     "news": [
       {
+        "title": "第五屆雲林動漫影展今登場 張嘉郡：持續培養雲林人才 | 夏和宣 | 地方新聞 - Storm.mg",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yR2RZNlBZUWc3MG1lYzN3cUZCZFZVQXlTLVgwMXUxUnFTVnRGdkJJWTJ6X3dfOHo5S3ZEVEEtQ0c4aGNWNmJVVlNTZHk4Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 19:36:21"
+      },
+      {
+        "title": "劉建國兩鄉鎮競總接力成立 蔡其昌力挺讚他「為了雲林六親不認」 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNV0hKZlpCa1AyVlkzQjItRkpaQWVhZlF0MFlqNUpPUWtFUkhWZ29FWGFIWFhiZHFSWURteDFtQTcyZF80dlhHek1fTUtZR29xcXVNdmFTU2RYNVZDZTNwLTd3OU40M1VJTlhSX1dOQV8wTFZPOTM5UUotOUkzYW9DaUJ2d0hVZUhSYVd5SU12WlQxclFfYmpZTmpCOTQzRVk1ZUp5TG9LUFFPaEpBbWF3bUFQRktORXJFUUJjSk9sR2x2LWFsSVBibTdXbkcydDZfdldRY3V1b1lHVGhyTjgyZUdFZnB2M20xOVlvLTRyaFdmWU1KT0hoT2hhLW9uOXE5QzljUllEQ3ZhNld1TGlyNHBxd2pQUno3U0tTWDdqb3loQUVJTUw0d1VwOVBidjJiY0RJeC1iRlVFLTU2NVJLNnRBdFJ6bEZnbmRlYWdBNWtpckJIVjU0YzExSFJoUndjRW9yWUVQN1VFa1R1N2xlWHVicERRTWd6bUg1LTRvcWJhaEVLR2Y0Zm9QNlJDUG9aLUd2VW1Vb0ZPUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 19:04:02"
+      },
+      {
+        "title": "韓國瑜雲林陪張嘉郡參拜宮廟喻立院亂象需孫悟空鎮壓| 政治 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByTks4VXdnSldyYjJ3TWF6MWlnTHByMGdaZGNfYXl6VklMOVBrcnlRXzdxSmJEa0VjUUl2RFVIU3EwcTBrUC1fcmNrNG1NX2RSS0Nub0dsT2hoenZDaVo4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 18:26:00"
+      },
+      {
         "title": "南亞科改去屏東 韓國瑜輔選張嘉郡突喊：雲林是「武當派」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQOXFKbVIwQm1BZmd3WHlXbTZxVUdZQ3dMMW0tdWxNRHc3R04wRlIyTXp2WUxqZGRfY1BvMjZ0MDRQMkpmUlBzV3A3dHNwWWxCQ056TDlDdklTeHlKSWtPN0lVcVRsMFhJS1phQ3ltck1WSGJpMVR0bmlxSXphZjE2R2NfUF84RmZPSGExZFlZeXZEZ3NhcGtaOW9MaXFUaTFFdnhhMWdWb1E0eEo2QjNQdzBJblFIekhrZUxTTmN0QWE3d0EzcjRRaEx4VTE0MXpDUW4tdUhXR2VIbnNwOVluNFNNV2VaaEd3UFVRbWtITEpZakFjVlFYWkVYWGVTTnpRTFVacGp0ZWtzYy1HcUVNOUY3MGswZVptVHQ2Wjl5ZmdsUUZUXzZ4aGtTWjlnbFB6aVZmYVZheUs4YXJoUkg3TXlzZ1A5OUkta1B1WHhhUlRaalIxUV92bjRtLTlFOHotNUZlS0ZkMlJ2YXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-03 18:00:15"
@@ -526,6 +598,11 @@
       {
         "title": "劉建國輔選大將涉賄 綠黨部執行長蔡永富涉資助胞弟「發紅包買票」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPUldqMjdPYkJuZ053dzh0TTNXOFJ5M3VpMnVKQ09CNl9EZnZCSEFGZWlsSFlDV0tQMTZySkx0dDRRR25WcXN2bjJrWDR1RHFCYmhoNEJPbXpKdmNLcXg3aFBWbzUwbmNibmduZy1yb2hZUWpTalVRSXZYVFpUM2xEOU03ZHZLOHRQLWhoMUVvMjhGenpBWFRmRlhMSzdqZGxObUVZSUFseUVYM0ZSYUpPTVdwUXEtY2ptS2M1cERtaFV0ZVNBZGhyOV9tSE5hdjJPZXgyaHdPLTRTVzdvVFNPR0JPMm53S2pvUlRLTWs5S28tQmpkTjRDbGVrMFZfOFlZV2EzOEdPcnVmdHdjZDdzdW1nU0NTSHlwd2dBOWpvYlhOX1MxRHVCMm9vOUgwZWpUUlFTOGVjMzkzWlFJV01kMzdQM1JyemFUWEYxQTl2QWk5WGstNEEzelJEUEJjTl8yZHFyNFpwajZWeVd1OWFFazl1QjNRNG1ZRGRxU0Vjc24zUExMZXVIbHdEbHJqNmwxQVZoUERaV3JzX0c1NFhGdlJfM1lRQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 16:20:41"
+      },
+      {
+        "title": "劉建國輔選大將涉賄 綠黨部執行長蔡永富涉資助胞弟「發紅包買票」 - 匯流新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJTWQ3ZFdpeWNlRUpYNkdnOUJsOHRiQmpDYUZtelo1aTc2ZEhDcE1DUzJyX1ZVREVCX0ZsZWVJRHRBNVkwd1FGODRR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-03 16:20:41"
       },
       {
@@ -579,6 +656,23 @@
         "time": "2026-10-02 21:00:24"
       }
     ],
+    "youtube": [
+      {
+        "title": "雲林藍綠決戰!韓國瑜站台挺張嘉郡 蘇治芬大讚劉建國－民視新聞",
+        "url": "https://www.youtube.com/shorts/-N9q5h-G65w",
+        "time": "2026-10-03 19:19:53"
+      },
+      {
+        "title": "雲林藍綠決戰!韓國瑜站台挺張嘉郡 蘇治芬大讚劉建國－民視新聞",
+        "url": "https://www.youtube.com/watch?v=VopTyno7wrk",
+        "time": "2026-10-03 19:18:26"
+      },
+      {
+        "title": "韓國瑜參拜受天宮媽祖 呼籲支持張嘉郡 雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=oJXdQCia6Q8",
+        "time": "2026-10-03 18:37:53"
+      }
+    ],
     "facebook": [
       {
         "title": "工會理事長絕食抗議！雲林艾杰旭勞資僵局未解 基層拋出「20年未全面調薪」訴求 多位民代前往廠區，呼籲中央跨部會介入👀 雲林艾杰旭企業廠區的勞資爭議從今年5月一路延燒，工會理事長沈全成採取了絕食抗議的手段表達訴求。10月1日晚間，立委張嘉郡、丁學忠與 - facebook.com",
@@ -588,14 +682,29 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 8,
-    "劉建國": 5
+    "張嘉郡": 13,
+    "劉建國": 9
   },
   "mention_compare_7d": {
-    "張嘉郡": 175,
-    "劉建國": 81
+    "張嘉郡": 180,
+    "劉建國": 85
   },
   "top_news": [
+    {
+      "title": "第五屆雲林動漫影展今登場 張嘉郡：持續培養雲林人才 | 夏和宣 | 地方新聞 - Storm.mg",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yR2RZNlBZUWc3MG1lYzN3cUZCZFZVQXlTLVgwMXUxUnFTVnRGdkJJWTJ6X3dfOHo5S3ZEVEEtQ0c4aGNWNmJVVlNTZHk4Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-03 19:36:21"
+    },
+    {
+      "title": "劉建國兩鄉鎮競總接力成立 蔡其昌力挺讚他「為了雲林六親不認」 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNV0hKZlpCa1AyVlkzQjItRkpaQWVhZlF0MFlqNUpPUWtFUkhWZ29FWGFIWFhiZHFSWURteDFtQTcyZF80dlhHek1fTUtZR29xcXVNdmFTU2RYNVZDZTNwLTd3OU40M1VJTlhSX1dOQV8wTFZPOTM5UUotOUkzYW9DaUJ2d0hVZUhSYVd5SU12WlQxclFfYmpZTmpCOTQzRVk1ZUp5TG9LUFFPaEpBbWF3bUFQRktORXJFUUJjSk9sR2x2LWFsSVBibTdXbkcydDZfdldRY3V1b1lHVGhyTjgyZUdFZnB2M20xOVlvLTRyaFdmWU1KT0hoT2hhLW9uOXE5QzljUllEQ3ZhNld1TGlyNHBxd2pQUno3U0tTWDdqb3loQUVJTUw0d1VwOVBidjJiY0RJeC1iRlVFLTU2NVJLNnRBdFJ6bEZnbmRlYWdBNWtpckJIVjU0YzExSFJoUndjRW9yWUVQN1VFa1R1N2xlWHVicERRTWd6bUg1LTRvcWJhaEVLR2Y0Zm9QNlJDUG9aLUd2VW1Vb0ZPUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-03 19:04:02"
+    },
+    {
+      "title": "韓國瑜雲林陪張嘉郡參拜宮廟喻立院亂象需孫悟空鎮壓| 政治 - 中央社 CNA",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByTks4VXdnSldyYjJ3TWF6MWlnTHByMGdaZGNfYXl6VklMOVBrcnlRXzdxSmJEa0VjUUl2RFVIU3EwcTBrUC1fcmNrNG1NX2RSS0Nub0dsT2hoenZDaVo4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-03 18:26:00"
+    },
     {
       "title": "南亞科改去屏東 韓國瑜輔選張嘉郡突喊：雲林是「武當派」 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQOXFKbVIwQm1BZmd3WHlXbTZxVUdZQ3dMMW0tdWxNRHc3R04wRlIyTXp2WUxqZGRfY1BvMjZ0MDRQMkpmUlBzV3A3dHNwWWxCQ056TDlDdklTeHlKSWtPN0lVcVRsMFhJS1phQ3ltck1WSGJpMVR0bmlxSXphZjE2R2NfUF84RmZPSGExZFlZeXZEZ3NhcGtaOW9MaXFUaTFFdnhhMWdWb1E0eEo2QjNQdzBJblFIekhrZUxTTmN0QWE3d0EzcjRRaEx4VTE0MXpDUW4tdUhXR2VIbnNwOVluNFNNV2VaaEd3UFVRbWtITEpZakFjVlFYWkVYWGVTTnpRTFVacGp0ZWtzYy1HcUVNOUY3MGswZVptVHQ2Wjl5ZmdsUUZUXzZ4aGtTWjlnbFB6aVZmYVZheUs4YXJoUkg3TXlzZ1A5OUkta1B1WHhhUlRaalIxUV92bjRtLTlFOHotNUZlS0ZkMlJ2YXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -604,6 +713,11 @@
     {
       "title": "劉建國輔選大將涉賄 綠黨部執行長蔡永富涉資助胞弟「發紅包買票」 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPUldqMjdPYkJuZ053dzh0TTNXOFJ5M3VpMnVKQ09CNl9EZnZCSEFGZWlsSFlDV0tQMTZySkx0dDRRR25WcXN2bjJrWDR1RHFCYmhoNEJPbXpKdmNLcXg3aFBWbzUwbmNibmduZy1yb2hZUWpTalVRSXZYVFpUM2xEOU03ZHZLOHRQLWhoMUVvMjhGenpBWFRmRlhMSzdqZGxObUVZSUFseUVYM0ZSYUpPTVdwUXEtY2ptS2M1cERtaFV0ZVNBZGhyOV9tSE5hdjJPZXgyaHdPLTRTVzdvVFNPR0JPMm53S2pvUlRLTWs5S28tQmpkTjRDbGVrMFZfOFlZV2EzOEdPcnVmdHdjZDdzdW1nU0NTSHlwd2dBOWpvYlhOX1MxRHVCMm9vOUgwZWpUUlFTOGVjMzkzWlFJV01kMzdQM1JyemFUWEYxQTl2QWk5WGstNEEzelJEUEJjTl8yZHFyNFpwajZWeVd1OWFFazl1QjNRNG1ZRGRxU0Vjc24zUExMZXVIbHdEbHJqNmwxQVZoUERaV3JzX0c1NFhGdlJfM1lRQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-03 16:20:41"
+    },
+    {
+      "title": "劉建國輔選大將涉賄 綠黨部執行長蔡永富涉資助胞弟「發紅包買票」 - 匯流新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJTWQ3ZFdpeWNlRUpYNkdnOUJsOHRiQmpDYUZtelo1aTc2ZEhDcE1DUzJyX1ZVREVCX0ZsZWVJRHRBNVkwd1FGODRR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-03 16:20:41"
     },
     {
@@ -635,29 +749,24 @@
       "title": "雲林藍營鐵三角成形！張嘉郡重磅宣示「建設不中斷」 - tw.news.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPcVZ5aDNIa1d2SHU3dldNblRBRVgtcGI2cUZHUTV1OEg0ZDNXU0w3UC01Vy1mY2VUUEJMQ014VzlPblB0dkQ5UTlyLU92S0gwMGZqTlBVUWd1VnE5eE5ucjMwRVFJdV9FcENNWHU5V3pGS3V4a1pNWUIxUjBDMDdKWFg2REJCOXd6bWNjUGF5U1IwWHJXb1J1WjBDb3kydFJLUG4wZGRIX2hIb3JRa1IxWHhNakRlb3VLdDFPMUVTVzc1X09PTGxzRkhScnRHamNPVl9La3c5M0hXU1ZFal9saU8zWko1RVF5dXBmcjBKWGpQQnc0LXpJM195d0lIUndjb3kxZE9FdXF1MzFQdWF4MjVvRm82MUhsODdQa2tWQk1KaFZBcUpka1JicW1XQmduc2h5VHFOekhDM1NCSUc5NzZxQTEtM1JXVWI1ODdoeGxsUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-03 14:25:15"
-    },
-    {
-      "title": "與林森寳、謝憲昇形成大埤鐵三角 張嘉郡：讓建設延續、地方發展不中斷 - tw.news.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOTjhYNzMyUEVrU2FEZ0tfdFA0SXFFRThEa0g4REV1d3FIbF80bE1OREUzcVdjNWY3X20wdDBDeEh3Z1ZXNEtGQm5yQl90c0Q3ekJsa0JvMXh5bi1iVWlQLWd3Y2E5S3pXdU1GaHRJeFdlU3RULWZjQ0xDOWMtMzBMVGFvdmdtSlYyN0x3ci1JLVctbWR2dXM2c3E4MkNWQ1lsLVVsVG1sUnZxZWo5Z3BmemZLR0lSU3FVT05xb1JzVzhLX0VUeVBGUDVFSnFQQlgtZ1RHdnhuTFlVeXBUYkwtVDVZb2Z3ZXU3ZmlYb2lXOXFhbTJ3OGJmSmFtODdDTmFhYTlmOFJOS1pua0kxbjhxandzVG13VXE1SnZiQnNtY1liLThmcF8xRzJ2Uk1scS02cUlXVlhJVmJmdVk4SUQtWFRwVVhyMG1EdUFkUkVqRFhsN2FYaFhVdGhQc01uUlF1ZzB3TkhsQ0hRM2RPa25iSEV0Z2RrVVZ5dkJ0U1hKUFI5N0p2QUI2U19xTk04cG1QUm82cHdpVmttOXBrRUFORjFBaDlaMGR6MEZ4QzNXMm8waFJQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-03 14:13:51"
-    },
-    {
-      "title": "雲林參選人涉賄選收押 哥哥車上搜出290萬現金！他竟是劉建國輔選大將 - 壹蘋新聞網",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHhGd2ZRWWRwdkVmeVBkTWw2VkR0OHJRWWJpSVYzTWFXdXN6Ri1jeXR4cXR4eVFEajVSYVVSY2lCU09rd1l5cktjVmt1TUx6Wk0wdjVQRFlKRkpRMW9tTjhKRWtqX1RqRDctTnQ5LXRDVndhaEJkMzlKSzl4RU5JS2dmRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-03 11:15:00"
-    },
-    {
-      "title": "張嘉郡、蕭德恕西螺聯合競總成立 提運動中心、藝術廊道拚地方發展 - epochtimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QTEJHWlA1U2NPV0pqOGcxaGpCbklxcmdQbG1WcWNLSXBJbkRDUGhLN2JSdG9iTmZmdmFrNUJsalFKVzF3NWtRWWxrbFVIcVBReG90Rkx2RXNTVmVCX3VaedIBZkFVX3lxTFBpNE12WFpqZGlyYnRMZC1xR1U4WFd1THk5ODZXcVRfVUl1NUhCM1hMZm1TSzBHLXFiQXdNWkJlY1pCQ3BCaGZ5cXhwMW1zTWFVeGdQQUtvQnZtRnZrSFYzZXBVUGZndw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-03 07:59:00"
-    },
-    {
-      "title": "南亞科捨雲林擇屏東 最強菜農抱不平：籲劉建國不該罵張麗善、應向「他」抗議 - 中時新聞網",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LTkY0ejl3cGlmVElvZW9BRHAzTkJXbTltdElvSHlvSGd6OXd2SW5rdWtRZlVlYWpsZnlmQ3IzWXZhZVFnWi1LNTNXRko5aDZweTNoejFXb2dNLUM1T3NNYnAzeWNoSGtGVXp0Szln?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-02 21:00:24"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "第五屆雲林動漫影展今登場 張嘉郡：持續培養雲林人才 | 夏和宣 | 地方新聞 - Storm.mg",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yR2RZNlBZUWc3MG1lYzN3cUZCZFZVQXlTLVgwMXUxUnFTVnRGdkJJWTJ6X3dfOHo5S3ZEVEEtQ0c4aGNWNmJVVlNTZHk4Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-03 19:36:21"
+    },
+    {
+      "title": "劉建國兩鄉鎮競總接力成立 蔡其昌力挺讚他「為了雲林六親不認」 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNV0hKZlpCa1AyVlkzQjItRkpaQWVhZlF0MFlqNUpPUWtFUkhWZ29FWGFIWFhiZHFSWURteDFtQTcyZF80dlhHek1fTUtZR29xcXVNdmFTU2RYNVZDZTNwLTd3OU40M1VJTlhSX1dOQV8wTFZPOTM5UUotOUkzYW9DaUJ2d0hVZUhSYVd5SU12WlQxclFfYmpZTmpCOTQzRVk1ZUp5TG9LUFFPaEpBbWF3bUFQRktORXJFUUJjSk9sR2x2LWFsSVBibTdXbkcydDZfdldRY3V1b1lHVGhyTjgyZUdFZnB2M20xOVlvLTRyaFdmWU1KT0hoT2hhLW9uOXE5QzljUllEQ3ZhNld1TGlyNHBxd2pQUno3U0tTWDdqb3loQUVJTUw0d1VwOVBidjJiY0RJeC1iRlVFLTU2NVJLNnRBdFJ6bEZnbmRlYWdBNWtpckJIVjU0YzExSFJoUndjRW9yWUVQN1VFa1R1N2xlWHVicERRTWd6bUg1LTRvcWJhaEVLR2Y0Zm9QNlJDUG9aLUd2VW1Vb0ZPUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-03 19:04:02"
+    },
+    {
+      "title": "韓國瑜雲林陪張嘉郡參拜宮廟喻立院亂象需孫悟空鎮壓| 政治 - 中央社 CNA",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByTks4VXdnSldyYjJ3TWF6MWlnTHByMGdaZGNfYXl6VklMOVBrcnlRXzdxSmJEa0VjUUl2RFVIU3EwcTBrUC1fcmNrNG1NX2RSS0Nub0dsT2hoenZDaVo4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-03 18:26:00"
+    },
     {
       "title": "南亞科改去屏東 韓國瑜輔選張嘉郡突喊：雲林是「武當派」 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQOXFKbVIwQm1BZmd3WHlXbTZxVUdZQ3dMMW0tdWxNRHc3R04wRlIyTXp2WUxqZGRfY1BvMjZ0MDRQMkpmUlBzV3A3dHNwWWxCQ056TDlDdklTeHlKSWtPN0lVcVRsMFhJS1phQ3ltck1WSGJpMVR0bmlxSXphZjE2R2NfUF84RmZPSGExZFlZeXZEZ3NhcGtaOW9MaXFUaTFFdnhhMWdWb1E0eEo2QjNQdzBJblFIekhrZUxTTmN0QWE3d0EzcjRRaEx4VTE0MXpDUW4tdUhXR2VIbnNwOVluNFNNV2VaaEd3UFVRbWtITEpZakFjVlFYWkVYWGVTTnpRTFVacGp0ZWtzYy1HcUVNOUY3MGswZVptVHQ2Wjl5ZmdsUUZUXzZ4aGtTWjlnbFB6aVZmYVZheUs4YXJoUkg3TXlzZ1A5OUkta1B1WHhhUlRaalIxUV92bjRtLTlFOHotNUZlS0ZkMlJ2YXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -666,6 +775,11 @@
     {
       "title": "劉建國輔選大將涉賄 綠黨部執行長蔡永富涉資助胞弟「發紅包買票」 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPUldqMjdPYkJuZ053dzh0TTNXOFJ5M3VpMnVKQ09CNl9EZnZCSEFGZWlsSFlDV0tQMTZySkx0dDRRR25WcXN2bjJrWDR1RHFCYmhoNEJPbXpKdmNLcXg3aFBWbzUwbmNibmduZy1yb2hZUWpTalVRSXZYVFpUM2xEOU03ZHZLOHRQLWhoMUVvMjhGenpBWFRmRlhMSzdqZGxObUVZSUFseUVYM0ZSYUpPTVdwUXEtY2ptS2M1cERtaFV0ZVNBZGhyOV9tSE5hdjJPZXgyaHdPLTRTVzdvVFNPR0JPMm53S2pvUlRLTWs5S28tQmpkTjRDbGVrMFZfOFlZV2EzOEdPcnVmdHdjZDdzdW1nU0NTSHlwd2dBOWpvYlhOX1MxRHVCMm9vOUgwZWpUUlFTOGVjMzkzWlFJV01kMzdQM1JyemFUWEYxQTl2QWk5WGstNEEzelJEUEJjTl8yZHFyNFpwajZWeVd1OWFFazl1QjNRNG1ZRGRxU0Vjc24zUExMZXVIbHdEbHJqNmwxQVZoUERaV3JzX0c1NFhGdlJfM1lRQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-03 16:20:41"
+    },
+    {
+      "title": "劉建國輔選大將涉賄 綠黨部執行長蔡永富涉資助胞弟「發紅包買票」 - 匯流新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJTWQ3ZFdpeWNlRUpYNkdnOUJsOHRiQmpDYUZtelo1aTc2ZEhDcE1DUzJyX1ZVREVCX0ZsZWVJRHRBNVkwd1FGODRR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-03 16:20:41"
     },
     {
@@ -737,26 +851,6 @@
       "title": "【重磅快評】部會圍毆雲林賴清德當劉建國主委也沒用| 2026九合一選舉 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42MHpubGc0ZGVWaG5QWkJSc2hWcG81amJIQnFhT3JVbGU2cjdaYjVGYmUyeThjNHZWQk1KNXVLdWtjVGFzX1U2MFpCWGZDcWJOVGJfRnpSRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-02 11:50:18"
-    },
-    {
-      "title": "【重磅快評】部會圍毆雲林 賴清德當劉建國主委也沒用 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tempUbkdwMmVYVUlZUXZiRE9oUUN4b1ItYWdqVGtmNGtNWHExc1N4NmUwUm5ES2xKZVEzRzNlZVZCT0VnejhtRU5jX240VE9ydVHSAVdBVV95cUxQbjRFVXBIVnhsYTFlbjA2OWZRX2RFT2xkYUFHcHIxNXIxQUdwdXlmbWpQcThhVkZONUlWdXlxR0FMNERwU05ra2FBVFN3alc3WTJuMWdDVGs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-02 11:50:18"
-    },
-    {
-      "title": "豪雨致雲林多處護岸受損 張嘉郡爭取5.7億經費明年底完工 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOYkc0RW0xOE0tTk5HckNwVGlTX2ROYkhOZ01yTV8td0lsZVBlb1pBanZwZE84eDRxZnR4Z2RvNHZ6MDdhLWxoN3dzdnRMc3dsRHc5akpsdEpnbDc2ZDNSOWJuMTl1ZzEtT2JfZVFOUEZFUGdaVTZ4MkZlRklFeFJqMjZHRnVyMzhLOE9SYjZfa1BHNGtsbGtnQUJYaFdBLXkwZU1XRUNmU0g1OGJHQ2xSQmxmVXJuXy12NlJsZ0NCcUpEV1F4QWk0MFlENmlfbUhFVTFSUXJVbFJrVnNLTlpLNlBsN1VtbXFTazJpZ0swbkMtVERxUkdXci01MHdVVEZJYnpVSlJPT1BGb2Q4Y1ctamZYckNSZjc3WTNiMXhPZ2tEbnB2M0dNVnRiaFFnTUhwN216WEJGelZLWWVUQ25sM3lHT0lQVXRqMnVWMno1T1I5WVRWWEo5bVZwWG0xTjJlM3ZNSTMzSVF1bDV6R1lld3h4LWxUWmZj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-02 10:32:22"
-    },
-    {
-      "title": "豪雨致雲林多處護岸受損 張嘉郡爭取5.7 億經費明年底完工 - 匯流新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhLWxoVkVzSFJGdFdwTzcxQmlSSjRkTTJYT3ZnbS12akZRWW1UTnZGNDAweURLek5aQmVhSks2UEdTZDM3YlNETVFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-02 10:20:31"
-    },
-    {
-      "title": "豪雨致雲林多處護岸受損 張嘉郡爭取5.7億經費明年底完工 - PChome Online新聞",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU2NZWTRYRVRHcTRkNUJQbVNSU0xoTFlOdzRMUlM1R0ZJa1ltOEI4WjFIR01INTYzeV9GVlROY0g5OEdYZ1NQVi1MbDdJLTZMYWpoUWJuVUhoWGdBWUR3dEZsaG5BYk1BX3VCOTZCYndqX05HeElGeG1LbU85QjRZUE10TXB2bGlaMHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-02 10:20:31"
     }
   ],
   "latest_facebook_20": [
@@ -863,6 +957,21 @@
   ],
   "latest_news_20": [
     {
+      "title": "第五屆雲林動漫影展今登場 張嘉郡：持續培養雲林人才 | 夏和宣 | 地方新聞 - Storm.mg",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yR2RZNlBZUWc3MG1lYzN3cUZCZFZVQXlTLVgwMXUxUnFTVnRGdkJJWTJ6X3dfOHo5S3ZEVEEtQ0c4aGNWNmJVVlNTZHk4Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-03 19:36:21"
+    },
+    {
+      "title": "劉建國兩鄉鎮競總接力成立 蔡其昌力挺讚他「為了雲林六親不認」 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNV0hKZlpCa1AyVlkzQjItRkpaQWVhZlF0MFlqNUpPUWtFUkhWZ29FWGFIWFhiZHFSWURteDFtQTcyZF80dlhHek1fTUtZR29xcXVNdmFTU2RYNVZDZTNwLTd3OU40M1VJTlhSX1dOQV8wTFZPOTM5UUotOUkzYW9DaUJ2d0hVZUhSYVd5SU12WlQxclFfYmpZTmpCOTQzRVk1ZUp5TG9LUFFPaEpBbWF3bUFQRktORXJFUUJjSk9sR2x2LWFsSVBibTdXbkcydDZfdldRY3V1b1lHVGhyTjgyZUdFZnB2M20xOVlvLTRyaFdmWU1KT0hoT2hhLW9uOXE5QzljUllEQ3ZhNld1TGlyNHBxd2pQUno3U0tTWDdqb3loQUVJTUw0d1VwOVBidjJiY0RJeC1iRlVFLTU2NVJLNnRBdFJ6bEZnbmRlYWdBNWtpckJIVjU0YzExSFJoUndjRW9yWUVQN1VFa1R1N2xlWHVicERRTWd6bUg1LTRvcWJhaEVLR2Y0Zm9QNlJDUG9aLUd2VW1Vb0ZPUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-03 19:04:02"
+    },
+    {
+      "title": "韓國瑜雲林陪張嘉郡參拜宮廟喻立院亂象需孫悟空鎮壓| 政治 - 中央社 CNA",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByTks4VXdnSldyYjJ3TWF6MWlnTHByMGdaZGNfYXl6VklMOVBrcnlRXzdxSmJEa0VjUUl2RFVIU3EwcTBrUC1fcmNrNG1NX2RSS0Nub0dsT2hoenZDaVo4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-03 18:26:00"
+    },
+    {
       "title": "南亞科改去屏東 韓國瑜輔選張嘉郡突喊：雲林是「武當派」 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQOXFKbVIwQm1BZmd3WHlXbTZxVUdZQ3dMMW0tdWxNRHc3R04wRlIyTXp2WUxqZGRfY1BvMjZ0MDRQMkpmUlBzV3A3dHNwWWxCQ056TDlDdklTeHlKSWtPN0lVcVRsMFhJS1phQ3ltck1WSGJpMVR0bmlxSXphZjE2R2NfUF84RmZPSGExZFlZeXZEZ3NhcGtaOW9MaXFUaTFFdnhhMWdWb1E0eEo2QjNQdzBJblFIekhrZUxTTmN0QWE3d0EzcjRRaEx4VTE0MXpDUW4tdUhXR2VIbnNwOVluNFNNV2VaaEd3UFVRbWtITEpZakFjVlFYWkVYWGVTTnpRTFVacGp0ZWtzYy1HcUVNOUY3MGswZVptVHQ2Wjl5ZmdsUUZUXzZ4aGtTWjlnbFB6aVZmYVZheUs4YXJoUkg3TXlzZ1A5OUkta1B1WHhhUlRaalIxUV92bjRtLTlFOHotNUZlS0ZkMlJ2YXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-03 18:00:15"
@@ -870,6 +979,11 @@
     {
       "title": "劉建國輔選大將涉賄 綠黨部執行長蔡永富涉資助胞弟「發紅包買票」 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPUldqMjdPYkJuZ053dzh0TTNXOFJ5M3VpMnVKQ09CNl9EZnZCSEFGZWlsSFlDV0tQMTZySkx0dDRRR25WcXN2bjJrWDR1RHFCYmhoNEJPbXpKdmNLcXg3aFBWbzUwbmNibmduZy1yb2hZUWpTalVRSXZYVFpUM2xEOU03ZHZLOHRQLWhoMUVvMjhGenpBWFRmRlhMSzdqZGxObUVZSUFseUVYM0ZSYUpPTVdwUXEtY2ptS2M1cERtaFV0ZVNBZGhyOV9tSE5hdjJPZXgyaHdPLTRTVzdvVFNPR0JPMm53S2pvUlRLTWs5S28tQmpkTjRDbGVrMFZfOFlZV2EzOEdPcnVmdHdjZDdzdW1nU0NTSHlwd2dBOWpvYlhOX1MxRHVCMm9vOUgwZWpUUlFTOGVjMzkzWlFJV01kMzdQM1JyemFUWEYxQTl2QWk5WGstNEEzelJEUEJjTl8yZHFyNFpwajZWeVd1OWFFazl1QjNRNG1ZRGRxU0Vjc24zUExMZXVIbHdEbHJqNmwxQVZoUERaV3JzX0c1NFhGdlJfM1lRQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-03 16:20:41"
+    },
+    {
+      "title": "劉建國輔選大將涉賄 綠黨部執行長蔡永富涉資助胞弟「發紅包買票」 - 匯流新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJTWQ3ZFdpeWNlRUpYNkdnOUJsOHRiQmpDYUZtelo1aTc2ZEhDcE1DUzJyX1ZVREVCX0ZsZWVJRHRBNVkwd1FGODRR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-03 16:20:41"
     },
     {
@@ -941,26 +1055,6 @@
       "title": "【重磅快評】部會圍毆雲林賴清德當劉建國主委也沒用| 2026九合一選舉 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42MHpubGc0ZGVWaG5QWkJSc2hWcG81amJIQnFhT3JVbGU2cjdaYjVGYmUyeThjNHZWQk1KNXVLdWtjVGFzX1U2MFpCWGZDcWJOVGJfRnpSRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-02 11:50:18"
-    },
-    {
-      "title": "【重磅快評】部會圍毆雲林 賴清德當劉建國主委也沒用 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tempUbkdwMmVYVUlZUXZiRE9oUUN4b1ItYWdqVGtmNGtNWHExc1N4NmUwUm5ES2xKZVEzRzNlZVZCT0VnejhtRU5jX240VE9ydVHSAVdBVV95cUxQbjRFVXBIVnhsYTFlbjA2OWZRX2RFT2xkYUFHcHIxNXIxQUdwdXlmbWpQcThhVkZONUlWdXlxR0FMNERwU05ra2FBVFN3alc3WTJuMWdDVGs?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-02 11:50:18"
-    },
-    {
-      "title": "豪雨致雲林多處護岸受損 張嘉郡爭取5.7億經費明年底完工 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOYkc0RW0xOE0tTk5HckNwVGlTX2ROYkhOZ01yTV8td0lsZVBlb1pBanZwZE84eDRxZnR4Z2RvNHZ6MDdhLWxoN3dzdnRMc3dsRHc5akpsdEpnbDc2ZDNSOWJuMTl1ZzEtT2JfZVFOUEZFUGdaVTZ4MkZlRklFeFJqMjZHRnVyMzhLOE9SYjZfa1BHNGtsbGtnQUJYaFdBLXkwZU1XRUNmU0g1OGJHQ2xSQmxmVXJuXy12NlJsZ0NCcUpEV1F4QWk0MFlENmlfbUhFVTFSUXJVbFJrVnNLTlpLNlBsN1VtbXFTazJpZ0swbkMtVERxUkdXci01MHdVVEZJYnpVSlJPT1BGb2Q4Y1ctamZYckNSZjc3WTNiMXhPZ2tEbnB2M0dNVnRiaFFnTUhwN216WEJGelZLWWVUQ25sM3lHT0lQVXRqMnVWMno1T1I5WVRWWEo5bVZwWG0xTjJlM3ZNSTMzSVF1bDV6R1lld3h4LWxUWmZj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-02 10:32:22"
-    },
-    {
-      "title": "豪雨致雲林多處護岸受損 張嘉郡爭取5.7 億經費明年底完工 - 匯流新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhLWxoVkVzSFJGdFdwTzcxQmlSSjRkTTJYT3ZnbS12akZRWW1UTnZGNDAweURLek5aQmVhSks2UEdTZDM3YlNETVFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-02 10:20:31"
-    },
-    {
-      "title": "豪雨致雲林多處護岸受損 張嘉郡爭取5.7億經費明年底完工 - PChome Online新聞",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU2NZWTRYRVRHcTRkNUJQbVNSU0xoTFlOdzRMUlM1R0ZJa1ltOEI4WjFIR01INTYzeV9GVlROY0g5OEdYZ1NQVi1MbDdJLTZMYWpoUWJuVUhoWGdBWUR3dEZsaG5BYk1BX3VCOTZCYndqX05HeElGeG1LbU85QjRZUE10TXB2bGlaMHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-02 10:20:31"
     }
   ],
   "person_sections": {
@@ -1069,6 +1163,16 @@
       ],
       "news": [
         {
+          "title": "第五屆雲林動漫影展今登場 張嘉郡：持續培養雲林人才 | 夏和宣 | 地方新聞 - Storm.mg",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yR2RZNlBZUWc3MG1lYzN3cUZCZFZVQXlTLVgwMXUxUnFTVnRGdkJJWTJ6X3dfOHo5S3ZEVEEtQ0c4aGNWNmJVVlNTZHk4Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-10-03 19:36:21"
+        },
+        {
+          "title": "韓國瑜雲林陪張嘉郡參拜宮廟喻立院亂象需孫悟空鎮壓| 政治 - 中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByTks4VXdnSldyYjJ3TWF6MWlnTHByMGdaZGNfYXl6VklMOVBrcnlRXzdxSmJEa0VjUUl2RFVIU3EwcTBrUC1fcmNrNG1NX2RSS0Nub0dsT2hoenZDaVo4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-10-03 18:26:00"
+        },
+        {
           "title": "南亞科改去屏東 韓國瑜輔選張嘉郡突喊：雲林是「武當派」 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQOXFKbVIwQm1BZmd3WHlXbTZxVUdZQ3dMMW0tdWxNRHc3R04wRlIyTXp2WUxqZGRfY1BvMjZ0MDRQMkpmUlBzV3A3dHNwWWxCQ056TDlDdklTeHlKSWtPN0lVcVRsMFhJS1phQ3ltck1WSGJpMVR0bmlxSXphZjE2R2NfUF84RmZPSGExZFlZeXZEZ3NhcGtaOW9MaXFUaTFFdnhhMWdWb1E0eEo2QjNQdzBJblFIekhrZUxTTmN0QWE3d0EzcjRRaEx4VTE0MXpDUW4tdUhXR2VIbnNwOVluNFNNV2VaaEd3UFVRbWtITEpZakFjVlFYWkVYWGVTTnpRTFVacGp0ZWtzYy1HcUVNOUY3MGswZVptVHQ2Wjl5ZmdsUUZUXzZ4aGtTWjlnbFB6aVZmYVZheUs4YXJoUkg3TXlzZ1A5OUkta1B1WHhhUlRaalIxUV92bjRtLTlFOHotNUZlS0ZkMlJ2YXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-03 18:00:15"
@@ -1157,16 +1261,6 @@
           "title": "張嘉郡、蕭德恕西螺聯合競選服務處成立 36宮廟眾神庇佑凝聚地方力量 - 蕃新聞",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMM1UtdG50Yy1sWmtBUGFCTWtmVk5MeHdWTFMyN0dvVUhLa1ZvNTJ5LXhBMnlNU0RCYVdXcGVHM1FkWTNLNlpZVS0yc180cTI2QkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-01 21:37:00"
-        },
-        {
-          "title": "結合詔安客家武術！張嘉郡攜蕭德恕成立總部　拋大西螺運動中心 - NOWnews今日新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxS3RCcWVfYzQ4WHFOZTBDMWxCT2dTNkRlSVY0b0tBZlBBZVZ6ckV0VVE5cjNGbmJYUVRxa2xxMGNGRThKS3lseWJtcVDSAVJBVV95cUxOakFLQnljamY1eWVUOTZudFV6UXFKazE2TUR3Z2ZaYjFqbm5tQ3p5R09GRjdoNEFrLVpWUDJDTUZ0dDgta0doTUdKXzBabjR6ell3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-10-01 20:45:13"
-        },
-        {
-          "title": "豪雨造成道路、排水受損 張嘉郡成功爭取5.7億經費 預計明年底完工 | 夏和宣 | 地方新聞 - Storm.mg",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SaWRyQUpGR2p4OUxRcEl5aFNtTGJJUGczSzctZUFwb2VrdThqaURVX0ZFU05ldllYSTRad18wTTlsZ1g0ZmhUZS0wa2g2Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-10-01 20:40:00"
         }
       ]
     },
@@ -1275,8 +1369,18 @@
       ],
       "news": [
         {
+          "title": "劉建國兩鄉鎮競總接力成立 蔡其昌力挺讚他「為了雲林六親不認」 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNV0hKZlpCa1AyVlkzQjItRkpaQWVhZlF0MFlqNUpPUWtFUkhWZ29FWGFIWFhiZHFSWURteDFtQTcyZF80dlhHek1fTUtZR29xcXVNdmFTU2RYNVZDZTNwLTd3OU40M1VJTlhSX1dOQV8wTFZPOTM5UUotOUkzYW9DaUJ2d0hVZUhSYVd5SU12WlQxclFfYmpZTmpCOTQzRVk1ZUp5TG9LUFFPaEpBbWF3bUFQRktORXJFUUJjSk9sR2x2LWFsSVBibTdXbkcydDZfdldRY3V1b1lHVGhyTjgyZUdFZnB2M20xOVlvLTRyaFdmWU1KT0hoT2hhLW9uOXE5QzljUllEQ3ZhNld1TGlyNHBxd2pQUno3U0tTWDdqb3loQUVJTUw0d1VwOVBidjJiY0RJeC1iRlVFLTU2NVJLNnRBdFJ6bEZnbmRlYWdBNWtpckJIVjU0YzExSFJoUndjRW9yWUVQN1VFa1R1N2xlWHVicERRTWd6bUg1LTRvcWJhaEVLR2Y0Zm9QNlJDUG9aLUd2VW1Vb0ZPUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-10-03 19:04:02"
+        },
+        {
           "title": "劉建國輔選大將涉賄 綠黨部執行長蔡永富涉資助胞弟「發紅包買票」 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPUldqMjdPYkJuZ053dzh0TTNXOFJ5M3VpMnVKQ09CNl9EZnZCSEFGZWlsSFlDV0tQMTZySkx0dDRRR25WcXN2bjJrWDR1RHFCYmhoNEJPbXpKdmNLcXg3aFBWbzUwbmNibmduZy1yb2hZUWpTalVRSXZYVFpUM2xEOU03ZHZLOHRQLWhoMUVvMjhGenpBWFRmRlhMSzdqZGxObUVZSUFseUVYM0ZSYUpPTVdwUXEtY2ptS2M1cERtaFV0ZVNBZGhyOV9tSE5hdjJPZXgyaHdPLTRTVzdvVFNPR0JPMm53S2pvUlRLTWs5S28tQmpkTjRDbGVrMFZfOFlZV2EzOEdPcnVmdHdjZDdzdW1nU0NTSHlwd2dBOWpvYlhOX1MxRHVCMm9vOUgwZWpUUlFTOGVjMzkzWlFJV01kMzdQM1JyemFUWEYxQTl2QWk5WGstNEEzelJEUEJjTl8yZHFyNFpwajZWeVd1OWFFazl1QjNRNG1ZRGRxU0Vjc24zUExMZXVIbHdEbHJqNmwxQVZoUERaV3JzX0c1NFhGdlJfM1lRQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-10-03 16:20:41"
+        },
+        {
+          "title": "劉建國輔選大將涉賄 綠黨部執行長蔡永富涉資助胞弟「發紅包買票」 - 匯流新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJTWQ3ZFdpeWNlRUpYNkdnOUJsOHRiQmpDYUZtelo1aTc2ZEhDcE1DUzJyX1ZVREVCX0ZsZWVJRHRBNVkwd1FGODRR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-03 16:20:41"
         },
         {
@@ -1363,22 +1467,27 @@
           "title": "南亞科擴廠屏東定案！劉建國批縣府「狀況外」：讓雲林一再錯失機會 | 民視新聞網 - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SVGNON0dZQ1VZMEZOSGxaNWVZTnpBR0lVWUpvTWxmTHhhU0RObjZJM3hheUJiZUZ4ak05ZGV4LUxoLUVHN05vNWEyWUl3czlacG5iMU1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-01 17:58:13"
-        },
-        {
-          "title": "南亞科擴廠屏東定案！劉建國批縣府「狀況外」：讓雲林一再錯失機會 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNT24wVmFJTWNWUzA3dUZYV25nS0laN0NpaUFUOGtKZXBDTkxtOHlFR0l1d2c0Rk9BdFRvdWJDZkliLXJ2SVV6cFRWdkEwX29lNUViVldfQ0U1Q0JEbThoallZaDhUR0IycE9ZZEhrWW5tbHBhOEdNVkFCc2N4QXBaa0x6a1h4bU5JbDVIZkNlTXdJWFdlbU1valEyQXFkMEFGT1pNMHdjejdiSmZreDVDUHZWblhBdjBqdndsZzVTSXJQZXlmaDVqS0prT3h2c3hJdDd1bnMyQm1rTEZCS01WeVZpMFZQRXR2RGxoQzgzWThFSjlZLWk5X3ExNFlKeVRQN3hCSDJQelkyUUVIcThSaWIwQkQySkN6OXNqRkVET3hXeEFsNldnUmxLeE9McTdwVVVQUjZGTU9TNEkxVTFnbk5DNVg1UGcycnoxcmNjYzR5WEg1Q3k2MzJmTVpULXRBTnpkeWZfZ05Db284cnVnMFJYVEJ0OWxqeFlPM1dWbHFDYWxxT25ONGFHVWNCVE1S?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-10-01 17:05:33"
-        },
-        {
-          "title": "快新聞／南亞科擴廠屏東定案！劉建國批縣府「狀況外」：讓雲林一再錯失機會 - ftvnews.com.tw",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tTGpKTG8zVjhZU0p0ckRkTzZ5MnBtaUduenp3dFVZMXVkM1hiZDlMOHpuNW1GYzJOVEFqZmF2RjAwRDAyYUYyZk5xOU04LWtMRWI0SGlUdVpfRjNRRFMyMg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-10-01 17:04:12"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "第五屆雲林動漫影展今登場 張嘉郡：持續培養雲林人才 | 夏和宣 | 地方新聞 - Storm.mg",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yR2RZNlBZUWc3MG1lYzN3cUZCZFZVQXlTLVgwMXUxUnFTVnRGdkJJWTJ6X3dfOHo5S3ZEVEEtQ0c4aGNWNmJVVlNTZHk4Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 19:36:21"
+      },
+      {
+        "title": "劉建國兩鄉鎮競總接力成立 蔡其昌力挺讚他「為了雲林六親不認」 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNV0hKZlpCa1AyVlkzQjItRkpaQWVhZlF0MFlqNUpPUWtFUkhWZ29FWGFIWFhiZHFSWURteDFtQTcyZF80dlhHek1fTUtZR29xcXVNdmFTU2RYNVZDZTNwLTd3OU40M1VJTlhSX1dOQV8wTFZPOTM5UUotOUkzYW9DaUJ2d0hVZUhSYVd5SU12WlQxclFfYmpZTmpCOTQzRVk1ZUp5TG9LUFFPaEpBbWF3bUFQRktORXJFUUJjSk9sR2x2LWFsSVBibTdXbkcydDZfdldRY3V1b1lHVGhyTjgyZUdFZnB2M20xOVlvLTRyaFdmWU1KT0hoT2hhLW9uOXE5QzljUllEQ3ZhNld1TGlyNHBxd2pQUno3U0tTWDdqb3loQUVJTUw0d1VwOVBidjJiY0RJeC1iRlVFLTU2NVJLNnRBdFJ6bEZnbmRlYWdBNWtpckJIVjU0YzExSFJoUndjRW9yWUVQN1VFa1R1N2xlWHVicERRTWd6bUg1LTRvcWJhaEVLR2Y0Zm9QNlJDUG9aLUd2VW1Vb0ZPUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 19:04:02"
+      },
+      {
+        "title": "韓國瑜雲林陪張嘉郡參拜宮廟喻立院亂象需孫悟空鎮壓| 政治 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByTks4VXdnSldyYjJ3TWF6MWlnTHByMGdaZGNfYXl6VklMOVBrcnlRXzdxSmJEa0VjUUl2RFVIU3EwcTBrUC1fcmNrNG1NX2RSS0Nub0dsT2hoenZDaVo4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 18:26:00"
+      },
       {
         "title": "南亞科改去屏東 韓國瑜輔選張嘉郡突喊：雲林是「武當派」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQOXFKbVIwQm1BZmd3WHlXbTZxVUdZQ3dMMW0tdWxNRHc3R04wRlIyTXp2WUxqZGRfY1BvMjZ0MDRQMkpmUlBzV3A3dHNwWWxCQ056TDlDdklTeHlKSWtPN0lVcVRsMFhJS1phQ3ltck1WSGJpMVR0bmlxSXphZjE2R2NfUF84RmZPSGExZFlZeXZEZ3NhcGtaOW9MaXFUaTFFdnhhMWdWb1E0eEo2QjNQdzBJblFIekhrZUxTTmN0QWE3d0EzcjRRaEx4VTE0MXpDUW4tdUhXR2VIbnNwOVluNFNNV2VaaEd3UFVRbWtITEpZakFjVlFYWkVYWGVTTnpRTFVacGp0ZWtzYy1HcUVNOUY3MGswZVptVHQ2Wjl5ZmdsUUZUXzZ4aGtTWjlnbFB6aVZmYVZheUs4YXJoUkg3TXlzZ1A5OUkta1B1WHhhUlRaalIxUV92bjRtLTlFOHotNUZlS0ZkMlJ2YXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1387,6 +1496,11 @@
       {
         "title": "劉建國輔選大將涉賄 綠黨部執行長蔡永富涉資助胞弟「發紅包買票」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPUldqMjdPYkJuZ053dzh0TTNXOFJ5M3VpMnVKQ09CNl9EZnZCSEFGZWlsSFlDV0tQMTZySkx0dDRRR25WcXN2bjJrWDR1RHFCYmhoNEJPbXpKdmNLcXg3aFBWbzUwbmNibmduZy1yb2hZUWpTalVRSXZYVFpUM2xEOU03ZHZLOHRQLWhoMUVvMjhGenpBWFRmRlhMSzdqZGxObUVZSUFseUVYM0ZSYUpPTVdwUXEtY2ptS2M1cERtaFV0ZVNBZGhyOV9tSE5hdjJPZXgyaHdPLTRTVzdvVFNPR0JPMm53S2pvUlRLTWs5S28tQmpkTjRDbGVrMFZfOFlZV2EzOEdPcnVmdHdjZDdzdW1nU0NTSHlwd2dBOWpvYlhOX1MxRHVCMm9vOUgwZWpUUlFTOGVjMzkzWlFJV01kMzdQM1JyemFUWEYxQTl2QWk5WGstNEEzelJEUEJjTl8yZHFyNFpwajZWeVd1OWFFazl1QjNRNG1ZRGRxU0Vjc24zUExMZXVIbHdEbHJqNmwxQVZoUERaV3JzX0c1NFhGdlJfM1lRQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 16:20:41"
+      },
+      {
+        "title": "劉建國輔選大將涉賄 綠黨部執行長蔡永富涉資助胞弟「發紅包買票」 - 匯流新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJTWQ3ZFdpeWNlRUpYNkdnOUJsOHRiQmpDYUZtelo1aTc2ZEhDcE1DUzJyX1ZVREVCX0ZsZWVJRHRBNVkwd1FGODRR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-03 16:20:41"
       },
       {
@@ -1440,6 +1554,23 @@
         "time": "2026-10-02 21:00:24"
       }
     ],
+    "youtube": [
+      {
+        "title": "雲林藍綠決戰!韓國瑜站台挺張嘉郡 蘇治芬大讚劉建國－民視新聞",
+        "url": "https://www.youtube.com/shorts/-N9q5h-G65w",
+        "time": "2026-10-03 19:19:53"
+      },
+      {
+        "title": "雲林藍綠決戰!韓國瑜站台挺張嘉郡 蘇治芬大讚劉建國－民視新聞",
+        "url": "https://www.youtube.com/watch?v=VopTyno7wrk",
+        "time": "2026-10-03 19:18:26"
+      },
+      {
+        "title": "韓國瑜參拜受天宮媽祖 呼籲支持張嘉郡 雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=oJXdQCia6Q8",
+        "time": "2026-10-03 18:37:53"
+      }
+    ],
     "facebook": [
       {
         "title": "工會理事長絕食抗議！雲林艾杰旭勞資僵局未解 基層拋出「20年未全面調薪」訴求 多位民代前往廠區，呼籲中央跨部會介入👀 雲林艾杰旭企業廠區的勞資爭議從今年5月一路延燒，工會理事長沈全成採取了絕食抗議的手段表達訴求。10月1日晚間，立委張嘉郡、丁學忠與 - facebook.com",
@@ -1451,6 +1582,21 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "第五屆雲林動漫影展今登場 張嘉郡：持續培養雲林人才 | 夏和宣 | 地方新聞 - Storm.mg",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yR2RZNlBZUWc3MG1lYzN3cUZCZFZVQXlTLVgwMXUxUnFTVnRGdkJJWTJ6X3dfOHo5S3ZEVEEtQ0c4aGNWNmJVVlNTZHk4Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 19:36:21"
+      },
+      {
+        "title": "劉建國兩鄉鎮競總接力成立 蔡其昌力挺讚他「為了雲林六親不認」 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNV0hKZlpCa1AyVlkzQjItRkpaQWVhZlF0MFlqNUpPUWtFUkhWZ29FWGFIWFhiZHFSWURteDFtQTcyZF80dlhHek1fTUtZR29xcXVNdmFTU2RYNVZDZTNwLTd3OU40M1VJTlhSX1dOQV8wTFZPOTM5UUotOUkzYW9DaUJ2d0hVZUhSYVd5SU12WlQxclFfYmpZTmpCOTQzRVk1ZUp5TG9LUFFPaEpBbWF3bUFQRktORXJFUUJjSk9sR2x2LWFsSVBibTdXbkcydDZfdldRY3V1b1lHVGhyTjgyZUdFZnB2M20xOVlvLTRyaFdmWU1KT0hoT2hhLW9uOXE5QzljUllEQ3ZhNld1TGlyNHBxd2pQUno3U0tTWDdqb3loQUVJTUw0d1VwOVBidjJiY0RJeC1iRlVFLTU2NVJLNnRBdFJ6bEZnbmRlYWdBNWtpckJIVjU0YzExSFJoUndjRW9yWUVQN1VFa1R1N2xlWHVicERRTWd6bUg1LTRvcWJhaEVLR2Y0Zm9QNlJDUG9aLUd2VW1Vb0ZPUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 19:04:02"
+      },
+      {
+        "title": "韓國瑜雲林陪張嘉郡參拜宮廟喻立院亂象需孫悟空鎮壓| 政治 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByTks4VXdnSldyYjJ3TWF6MWlnTHByMGdaZGNfYXl6VklMOVBrcnlRXzdxSmJEa0VjUUl2RFVIU3EwcTBrUC1fcmNrNG1NX2RSS0Nub0dsT2hoenZDaVo4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 18:26:00"
+      },
+      {
         "title": "南亞科改去屏東 韓國瑜輔選張嘉郡突喊：雲林是「武當派」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQOXFKbVIwQm1BZmd3WHlXbTZxVUdZQ3dMMW0tdWxNRHc3R04wRlIyTXp2WUxqZGRfY1BvMjZ0MDRQMkpmUlBzV3A3dHNwWWxCQ056TDlDdklTeHlKSWtPN0lVcVRsMFhJS1phQ3ltck1WSGJpMVR0bmlxSXphZjE2R2NfUF84RmZPSGExZFlZeXZEZ3NhcGtaOW9MaXFUaTFFdnhhMWdWb1E0eEo2QjNQdzBJblFIekhrZUxTTmN0QWE3d0EzcjRRaEx4VTE0MXpDUW4tdUhXR2VIbnNwOVluNFNNV2VaaEd3UFVRbWtITEpZakFjVlFYWkVYWGVTTnpRTFVacGp0ZWtzYy1HcUVNOUY3MGswZVptVHQ2Wjl5ZmdsUUZUXzZ4aGtTWjlnbFB6aVZmYVZheUs4YXJoUkg3TXlzZ1A5OUkta1B1WHhhUlRaalIxUV92bjRtLTlFOHotNUZlS0ZkMlJ2YXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-03 18:00:15"
@@ -1458,6 +1604,11 @@
       {
         "title": "劉建國輔選大將涉賄 綠黨部執行長蔡永富涉資助胞弟「發紅包買票」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPUldqMjdPYkJuZ053dzh0TTNXOFJ5M3VpMnVKQ09CNl9EZnZCSEFGZWlsSFlDV0tQMTZySkx0dDRRR25WcXN2bjJrWDR1RHFCYmhoNEJPbXpKdmNLcXg3aFBWbzUwbmNibmduZy1yb2hZUWpTalVRSXZYVFpUM2xEOU03ZHZLOHRQLWhoMUVvMjhGenpBWFRmRlhMSzdqZGxObUVZSUFseUVYM0ZSYUpPTVdwUXEtY2ptS2M1cERtaFV0ZVNBZGhyOV9tSE5hdjJPZXgyaHdPLTRTVzdvVFNPR0JPMm53S2pvUlRLTWs5S28tQmpkTjRDbGVrMFZfOFlZV2EzOEdPcnVmdHdjZDdzdW1nU0NTSHlwd2dBOWpvYlhOX1MxRHVCMm9vOUgwZWpUUlFTOGVjMzkzWlFJV01kMzdQM1JyemFUWEYxQTl2QWk5WGstNEEzelJEUEJjTl8yZHFyNFpwajZWeVd1OWFFazl1QjNRNG1ZRGRxU0Vjc24zUExMZXVIbHdEbHJqNmwxQVZoUERaV3JzX0c1NFhGdlJfM1lRQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 16:20:41"
+      },
+      {
+        "title": "劉建國輔選大將涉賄 綠黨部執行長蔡永富涉資助胞弟「發紅包買票」 - 匯流新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJTWQ3ZFdpeWNlRUpYNkdnOUJsOHRiQmpDYUZtelo1aTc2ZEhDcE1DUzJyX1ZVREVCX0ZsZWVJRHRBNVkwd1FGODRR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-03 16:20:41"
       },
       {
@@ -1629,26 +1780,6 @@
         "title": "南亞科設廠落屏東 劉建國籲雲林加速產業園區迎接科技投資 | 觀傳媒 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTaVF3WHA2YzhtMmVXZm9uUmIwSjBzUlhoTFlodVZiQVVuTEJ4X3owdTh4bk52ZnpOb201THpQcURNc0lHZzVPNVY1dmlJWUhUWktUVmt3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-01 20:00:38"
-      },
-      {
-        "title": "張嘉郡、蕭德恕西螺聯合競選服務處成立 36宮廟眾神庇佑凝聚地方力量 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOaEhOMUNYV1ZyVWgyYWdwY2NVR0t5Q05tRXROX2dGd2hDLW5JLWNCWFFpdWQ5MTJIQjVvcDhNNDhaeFVoMTUyUVNWSlh0WGpSVWEyWmZQZTAzT3BodWctODhwMENiUEtfbkhXTldoOF9VSXF0Y0pNbEVPYUJXcVpZRnUxMS1ZcEcwcFNfb1ZtSy1UelNHLUxuWXM1Vy13a21vQXpVTlNPY1B0V19VMVZWZjlKRUtGcVF3Q21MWjFJd01icTFvYS0zRjdjdTJiaEczdFhIbHEyVWI3WlVvUm9IYWxLOVVTWTk5ekstejZ6X1QzTGY5cDdLOGJnSGdGU0QzNmg4RTM3eFc1OTZrSGdodDg0RVJBamdWUW1TQ3A0Qnl6MmZMNTh6RUoybG1hV2dWVWVGYVF3VFRXNGR4aHRUY2tQR3g4R3NkbnJQQ2VoRG9EbjNKSU1CRWRHem9GVkI0S1FrZnY5eHpCcXh4bjZGeXRTTkozZktIMFluNW1nTEN3dXRGYXRjaXNrT1JLSjRWYzhzYVV6dnhyNFI1NktIUjBCdWVDakVzVjhqSlBmOHBEeGYy?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-01 20:00:00"
-      },
-      {
-        "title": "南亞科確定落腳屏東！張麗善喊遺憾 劉建國批雲林沒準備好 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOWUhWMU91ajV6Q28xVGg4RVA1YmNnMndIbjRtQ29XMFBORTRFRV9KbER1OFhLaGI5UW80Y2xUZFRTb3A0YTRFakY5WEUyY1JSb0dnYklRcm8tR1lkYThpMklITWFieEQ2NTBWd3cydHI1VmFQVDdOSk9MNjZkS0J4Vzg1QzFYNkhPaU9FaDJzYWZ3NVhUeHBLdHVIVzdTQy1QZGd3Q2ZEZ2F6aHF1ejUwdTBmSUozUUJ2M1kwYU9nZVJTdFFaQWRCVzZqcnZsTG9mTDlNcDhoTkVlN1Q5WWc4M2gzWGVuc1B1MnJ1dnpRMHl0MGpvSk9GbW1rVzJkTm1BS3RMTWJoN21xUDd1aUg4VVZReFBaNTNGUm5XeEJmc1BRcGVqLVFjbTk4NGR1VDVybEUwcXNCVXlQUVpvbmNHckgzUF9qSkxfc09NcEFPYUtyRWRkMnl3bnZ1SHE4Zk52ME9mVHFSOTc2NVFCNkpqYWI4UEZyNjhRQzhlVkhyWUgyUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-01 19:48:44"
-      },
-      {
-        "title": "豪雨重創雲林15鄉鎮 張嘉郡爭取5.7億復建經費 | 觀傳媒 - today.line.me",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zdW5aRGdpZ2ZRb3JEUFdScjQ3UEQyMGdYVjg3ZWhWNWJlSTA3UEw0UDlDYkNrRzBIQk8tUmdFUnpWb0lsWnFjYkZkTlVnUzdHYVJrUzd3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-01 19:43:55"
-      },
-      {
-        "title": "豪雨重創雲林15鄉鎮 張嘉郡爭取5.7億復建經費 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOMEFSQlgxZmV5a2xmXzJIQjlOd1RKd3o5ZDVXczhLNVo1RlQybVY3c1ZkXzhUdXpuLXd4NzR6bHFMZURuNWdRZkw4VlRCUzE4ekMtQXNYV09JUXMtU0xPR2FTZ3FEMmx0bnpHTkxTQk5GVVV5NjNVR1ZjZ2VveGE5c2kzcV93VmwySjNmY2g2SjlETTVTX3dKMjdEX1lZM3laYUt1UVZzTlpFMXdKR3RfY2hWTHRiWDh6M2hQeHNUMU5MWUJsM3lxdEJZZl9TY0JfVUxfQXRiVHZsa0xpSjI2NmQ3ZmVFaHpSMnhDR2hsWklqNW9kTE12LWpaUmV4SEV5eUF6T242Zk5EZWIwQ2FpaG9aYmlyQ3ZGTTZTZjA1enFZNGpMNkVvU2ZuVE1fc2FzbUdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-01 19:41:09"
       }
     ],
     "facebook": [
@@ -1730,6 +1861,21 @@
     ],
     "youtube": [
       {
+        "title": "雲林藍綠決戰!韓國瑜站台挺張嘉郡 蘇治芬大讚劉建國－民視新聞",
+        "url": "https://www.youtube.com/shorts/-N9q5h-G65w",
+        "time": "2026-10-03 19:19:53"
+      },
+      {
+        "title": "雲林藍綠決戰!韓國瑜站台挺張嘉郡 蘇治芬大讚劉建國－民視新聞",
+        "url": "https://www.youtube.com/watch?v=VopTyno7wrk",
+        "time": "2026-10-03 19:18:26"
+      },
+      {
+        "title": "韓國瑜參拜受天宮媽祖 呼籲支持張嘉郡 雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=oJXdQCia6Q8",
+        "time": "2026-10-03 18:37:53"
+      },
+      {
         "title": "卓院長9月薪水還沒領! 范雲：不是個人薪水問題 政治杯葛不應凌駕憲政與法律",
         "url": "https://www.youtube.com/shorts/46ySZUeTrXI",
         "time": "2026-10-02 18:39:07"
@@ -1796,6 +1942,48 @@
     ],
     "day": [
       {
+        "title": "第五屆雲林動漫影展今登場 張嘉郡：持續培養雲林人才 | 夏和宣 | 地方新聞 - Storm.mg",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yR2RZNlBZUWc3MG1lYzN3cUZCZFZVQXlTLVgwMXUxUnFTVnRGdkJJWTJ6X3dfOHo5S3ZEVEEtQ0c4aGNWNmJVVlNTZHk4Zw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 19:36:21",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "雲林藍綠決戰!韓國瑜站台挺張嘉郡 蘇治芬大讚劉建國－民視新聞",
+        "url": "https://www.youtube.com/shorts/-N9q5h-G65w",
+        "time": "2026-10-03 19:19:53",
+        "platform": "youtube",
+        "risk": "綠"
+      },
+      {
+        "title": "雲林藍綠決戰!韓國瑜站台挺張嘉郡 蘇治芬大讚劉建國－民視新聞",
+        "url": "https://www.youtube.com/watch?v=VopTyno7wrk",
+        "time": "2026-10-03 19:18:26",
+        "platform": "youtube",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國兩鄉鎮競總接力成立 蔡其昌力挺讚他「為了雲林六親不認」 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNV0hKZlpCa1AyVlkzQjItRkpaQWVhZlF0MFlqNUpPUWtFUkhWZ29FWGFIWFhiZHFSWURteDFtQTcyZF80dlhHek1fTUtZR29xcXVNdmFTU2RYNVZDZTNwLTd3OU40M1VJTlhSX1dOQV8wTFZPOTM5UUotOUkzYW9DaUJ2d0hVZUhSYVd5SU12WlQxclFfYmpZTmpCOTQzRVk1ZUp5TG9LUFFPaEpBbWF3bUFQRktORXJFUUJjSk9sR2x2LWFsSVBibTdXbkcydDZfdldRY3V1b1lHVGhyTjgyZUdFZnB2M20xOVlvLTRyaFdmWU1KT0hoT2hhLW9uOXE5QzljUllEQ3ZhNld1TGlyNHBxd2pQUno3U0tTWDdqb3loQUVJTUw0d1VwOVBidjJiY0RJeC1iRlVFLTU2NVJLNnRBdFJ6bEZnbmRlYWdBNWtpckJIVjU0YzExSFJoUndjRW9yWUVQN1VFa1R1N2xlWHVicERRTWd6bUg1LTRvcWJhaEVLR2Y0Zm9QNlJDUG9aLUd2VW1Vb0ZPUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 19:04:02",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "韓國瑜參拜受天宮媽祖 呼籲支持張嘉郡 雲林新聞網",
+        "url": "https://www.youtube.com/watch?v=oJXdQCia6Q8",
+        "time": "2026-10-03 18:37:53",
+        "platform": "youtube",
+        "risk": "綠"
+      },
+      {
+        "title": "韓國瑜雲林陪張嘉郡參拜宮廟喻立院亂象需孫悟空鎮壓| 政治 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByTks4VXdnSldyYjJ3TWF6MWlnTHByMGdaZGNfYXl6VklMOVBrcnlRXzdxSmJEa0VjUUl2RFVIU3EwcTBrUC1fcmNrNG1NX2RSS0Nub0dsT2hoenZDaVo4?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 18:26:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "南亞科改去屏東 韓國瑜輔選張嘉郡突喊：雲林是「武當派」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQOXFKbVIwQm1BZmd3WHlXbTZxVUdZQ3dMMW0tdWxNRHc3R04wRlIyTXp2WUxqZGRfY1BvMjZ0MDRQMkpmUlBzV3A3dHNwWWxCQ056TDlDdklTeHlKSWtPN0lVcVRsMFhJS1phQ3ltck1WSGJpMVR0bmlxSXphZjE2R2NfUF84RmZPSGExZFlZeXZEZ3NhcGtaOW9MaXFUaTFFdnhhMWdWb1E0eEo2QjNQdzBJblFIekhrZUxTTmN0QWE3d0EzcjRRaEx4VTE0MXpDUW4tdUhXR2VIbnNwOVluNFNNV2VaaEd3UFVRbWtITEpZakFjVlFYWkVYWGVTTnpRTFVacGp0ZWtzYy1HcUVNOUY3MGswZVptVHQ2Wjl5ZmdsUUZUXzZ4aGtTWjlnbFB6aVZmYVZheUs4YXJoUkg3TXlzZ1A5OUkta1B1WHhhUlRaalIxUV92bjRtLTlFOHotNUZlS0ZkMlJ2YXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-03 18:00:15",
@@ -1805,6 +1993,13 @@
       {
         "title": "劉建國輔選大將涉賄 綠黨部執行長蔡永富涉資助胞弟「發紅包買票」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPUldqMjdPYkJuZ053dzh0TTNXOFJ5M3VpMnVKQ09CNl9EZnZCSEFGZWlsSFlDV0tQMTZySkx0dDRRR25WcXN2bjJrWDR1RHFCYmhoNEJPbXpKdmNLcXg3aFBWbzUwbmNibmduZy1yb2hZUWpTalVRSXZYVFpUM2xEOU03ZHZLOHRQLWhoMUVvMjhGenpBWFRmRlhMSzdqZGxObUVZSUFseUVYM0ZSYUpPTVdwUXEtY2ptS2M1cERtaFV0ZVNBZGhyOV9tSE5hdjJPZXgyaHdPLTRTVzdvVFNPR0JPMm53S2pvUlRLTWs5S28tQmpkTjRDbGVrMFZfOFlZV2EzOEdPcnVmdHdjZDdzdW1nU0NTSHlwd2dBOWpvYlhOX1MxRHVCMm9vOUgwZWpUUlFTOGVjMzkzWlFJV01kMzdQM1JyemFUWEYxQTl2QWk5WGstNEEzelJEUEJjTl8yZHFyNFpwajZWeVd1OWFFazl1QjNRNG1ZRGRxU0Vjc24zUExMZXVIbHdEbHJqNmwxQVZoUERaV3JzX0c1NFhGdlJfM1lRQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 16:20:41",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國輔選大將涉賄 綠黨部執行長蔡永富涉資助胞弟「發紅包買票」 - 匯流新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJTWQ3ZFdpeWNlRUpYNkdnOUJsOHRiQmpDYUZtelo1aTc2ZEhDcE1DUzJyX1ZVREVCX0ZsZWVJRHRBNVkwd1FGODRR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-03 16:20:41",
         "platform": "news",
         "risk": "綠"
@@ -1878,7 +2073,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 7
+        "count": 13
       }
     ],
     "groups": [
