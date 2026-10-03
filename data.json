@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-10-03T07:36:02.647816+00:00",
+  "generated_at": "2026-10-03T07:54:02.494129+00:00",
   "metrics": {
-    "total_24h": 7,
-    "prev_24h": 51,
-    "growth_pct": -86.27,
-    "news_24h": 4,
+    "total_24h": 10,
+    "prev_24h": 47,
+    "growth_pct": -78.72,
+    "news_24h": 7,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 242,
-    "prev": 205,
-    "growth_pct": 18.05,
-    "news": 218,
+    "total": 245,
+    "prev": 203,
+    "growth_pct": 20.69,
+    "news": 221,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 4
+      "count": 7
     },
     {
       "platform": "youtube",
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 218
+      "count": 221
     },
     {
       "platform": "facebook",
@@ -80,6 +80,10 @@
     },
     {
       "hour": "2026-10-03 14:00",
+      "count": 3
+    },
+    {
+      "hour": "2026-10-03 15:00",
       "count": 1
     }
   ],
@@ -410,13 +414,17 @@
     },
     {
       "hour": "2026-10-03 14:00",
+      "count": 3
+    },
+    {
+      "hour": "2026-10-03 15:00",
       "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 4
+      "count": 7
     },
     {
       "platform": "facebook",
@@ -425,6 +433,21 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "張嘉郡、林森寳、謝憲昇大埤鐵三角成形 讓建設延續、地方發展不中斷 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQT2M0X3JjYW1uSzRvWGxHNUJwZGhqZWlPVWVFaFVPUVZLdzhtbE1QcjlidmNGQ3h2QThGM2ctSlZBeHdnS1B5bEtSWXlRd2NRTEFQcVd1eDRkTTNNZEs0SmdwM3pIM0lMY3d0MW5hbFBoX2c4SHVIaTVQOWJKRm1qNVhJbjlUMDlZYk1mNEgtUjdoQWJUYnNMcFVTdDRXMjNiN2pxeUNSTzBrWjcwVERDM2tsekFpaGt5SUJhWXd1dFJYZ3NLVVNVQXpsQ2U1bVAxdkhKUmNGSURrd0FackNZeVFQTDBpTWllZl9PSXloQ3ZiTThPM1ZlSXZVVV9OWmdtMFNmbzhfcGc1Q09VZ1ZuN3hTZFIzRENSREU2VzNGZzcyNlZMU0VSN0JpWTQ4U296RmNkV2gtVVpIczBSNjNYR0E0emhFUzJvSGdQWWk4Y0NYU2hLd3dBSGdlUEFESnNZM3kzYUhxc2FnMVhHTWdFdzcteXg0dzRUU2k5bzJVRVZzeDFmVG44ckstQ3hHaGc0dXhwTklOUW40dzllVld3R0wzM29kYkpI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 15:09:46"
+      },
+      {
+        "title": "雲林縣議員參選人涉賄！交保胞兄為劉建國輔選大將 他怒批：納稅錢變個人恩惠 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOS2RaNGRDTjR4ME9CcG5PNVd2a2EtdjFjZEZHaGs3bHRCRzZBaUdRQ0xRWHZtZlpEWlBoMXQweFF5QVlWZkFPMDR6c2ZIcXpySjdUMEdNMDgyUFh3NUZhX2hDdzhVdVZSa3pqYUZrSkVpdThsWEdnd2Y3T0locUtrZDAwell2LWUydmVhdjkySTBVYXpyTTNUdlNsMjdCMy03ekNxbWw4UXpoMTU0MkZma3VjZGQzYmg4SU5QNGIxcVJ6ZDVTVl9xR1ZnYjc2QWQ2al93VGF4OVM4NW53MEJjMWpQY0RDMVpaLU5EM3AxSkZ4bFd2XzZwOURja3JIVDhRZHZKT2NpbVVfWjdFT0hURmFFOXlMd2t3LXBqUkkzU3QybkhKMF9TUVF4N0hNX0RFSS1pSnNuTExBSnFrQVZiV2tudmotWVN4U2lJUWFVbl9nbHdQdU1NUHAyNmV1NWZTdlhDeXpUOXVXTlNTYm1yZzJHLWJwV09GUGhudm4tbTM0c1NfeUUxYkFTVDRzUWJmcU5ydWY4QVdWU3diQTl4VTc4V1RKVkFyR1NzVDNGclZFZGVFS3dhOUhXbHR3ZDNxdHFSNy1TRWJNdW5INy1XTDhsZTVwOUVLbS1FanhiMkRSbGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 14:30:00"
+      },
+      {
+        "title": "雲林藍營鐵三角成形！張嘉郡重磅宣示「建設不中斷」 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPcVZ5aDNIa1d2SHU3dldNblRBRVgtcGI2cUZHUTV1OEg0ZDNXU0w3UC01Vy1mY2VUUEJMQ014VzlPblB0dkQ5UTlyLU92S0gwMGZqTlBVUWd1VnE5eE5ucjMwRVFJdV9FcENNWHU5V3pGS3V4a1pNWUIxUjBDMDdKWFg2REJCOXd6bWNjUGF5U1IwWHJXb1J1WjBDb3kydFJLUG4wZGRIX2hIb3JRa1IxWHhNakRlb3VLdDFPMUVTVzc1X09PTGxzRkhScnRHamNPVl9La3c5M0hXU1ZFal9saU8zWko1RVF5dXBmcjBKWGpQQnc0LXpJM195d0lIUndjb3kxZE9FdXF1MzFQdWF4MjVvRm82MUhsODdQa2tWQk1KaFZBcUpka1JicW1XQmduc2h5VHFOekhDM1NCSUc5NzZxQTEtM1JXVWI1ODdoeGxsUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 14:25:15"
+      },
       {
         "title": "與林森寳、謝憲昇形成大埤鐵三角 張嘉郡：讓建設延續、地方發展不中斷 - tw.news.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOTjhYNzMyUEVrU2FEZ0tfdFA0SXFFRThEa0g4REV1d3FIbF80bE1OREUzcVdjNWY3X20wdDBDeEh3Z1ZXNEtGQm5yQl90c0Q3ekJsa0JvMXh5bi1iVWlQLWd3Y2E5S3pXdU1GaHRJeFdlU3RULWZjQ0xDOWMtMzBMVGFvdmdtSlYyN0x3ci1JLVctbWR2dXM2c3E4MkNWQ1lsLVVsVG1sUnZxZWo5Z3BmemZLR0lSU3FVT05xb1JzVzhLX0VUeVBGUDVFSnFQQlgtZ1RHdnhuTFlVeXBUYkwtVDVZb2Z3ZXU3ZmlYb2lXOXFhbTJ3OGJmSmFtODdDTmFhYTlmOFJOS1pua0kxbjhxandzVG13VXE1SnZiQnNtY1liLThmcF8xRzJ2Uk1scS02cUlXVlhJVmJmdVk4SUQtWFRwVVhyMG1EdUFkUkVqRFhsN2FYaFhVdGhQc01uUlF1ZzB3TkhsQ0hRM2RPa25iSEV0Z2RrVVZ5dkJ0U1hKUFI5N0p2QUI2U19xTk04cG1QUm82cHdpVmttOXBrRUFORjFBaDlaMGR6MEZ4QzNXMm8waFJQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -457,7 +480,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 4
+      "count": 7
     },
     {
       "platform": "facebook",
@@ -466,6 +489,21 @@
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "張嘉郡、林森寳、謝憲昇大埤鐵三角成形 讓建設延續、地方發展不中斷 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQT2M0X3JjYW1uSzRvWGxHNUJwZGhqZWlPVWVFaFVPUVZLdzhtbE1QcjlidmNGQ3h2QThGM2ctSlZBeHdnS1B5bEtSWXlRd2NRTEFQcVd1eDRkTTNNZEs0SmdwM3pIM0lMY3d0MW5hbFBoX2c4SHVIaTVQOWJKRm1qNVhJbjlUMDlZYk1mNEgtUjdoQWJUYnNMcFVTdDRXMjNiN2pxeUNSTzBrWjcwVERDM2tsekFpaGt5SUJhWXd1dFJYZ3NLVVNVQXpsQ2U1bVAxdkhKUmNGSURrd0FackNZeVFQTDBpTWllZl9PSXloQ3ZiTThPM1ZlSXZVVV9OWmdtMFNmbzhfcGc1Q09VZ1ZuN3hTZFIzRENSREU2VzNGZzcyNlZMU0VSN0JpWTQ4U296RmNkV2gtVVpIczBSNjNYR0E0emhFUzJvSGdQWWk4Y0NYU2hLd3dBSGdlUEFESnNZM3kzYUhxc2FnMVhHTWdFdzcteXg0dzRUU2k5bzJVRVZzeDFmVG44ckstQ3hHaGc0dXhwTklOUW40dzllVld3R0wzM29kYkpI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 15:09:46"
+      },
+      {
+        "title": "雲林縣議員參選人涉賄！交保胞兄為劉建國輔選大將 他怒批：納稅錢變個人恩惠 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOS2RaNGRDTjR4ME9CcG5PNVd2a2EtdjFjZEZHaGs3bHRCRzZBaUdRQ0xRWHZtZlpEWlBoMXQweFF5QVlWZkFPMDR6c2ZIcXpySjdUMEdNMDgyUFh3NUZhX2hDdzhVdVZSa3pqYUZrSkVpdThsWEdnd2Y3T0locUtrZDAwell2LWUydmVhdjkySTBVYXpyTTNUdlNsMjdCMy03ekNxbWw4UXpoMTU0MkZma3VjZGQzYmg4SU5QNGIxcVJ6ZDVTVl9xR1ZnYjc2QWQ2al93VGF4OVM4NW53MEJjMWpQY0RDMVpaLU5EM3AxSkZ4bFd2XzZwOURja3JIVDhRZHZKT2NpbVVfWjdFT0hURmFFOXlMd2t3LXBqUkkzU3QybkhKMF9TUVF4N0hNX0RFSS1pSnNuTExBSnFrQVZiV2tudmotWVN4U2lJUWFVbl9nbHdQdU1NUHAyNmV1NWZTdlhDeXpUOXVXTlNTYm1yZzJHLWJwV09GUGhudm4tbTM0c1NfeUUxYkFTVDRzUWJmcU5ydWY4QVdWU3diQTl4VTc4V1RKVkFyR1NzVDNGclZFZGVFS3dhOUhXbHR3ZDNxdHFSNy1TRWJNdW5INy1XTDhsZTVwOUVLbS1FanhiMkRSbGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 14:30:00"
+      },
+      {
+        "title": "雲林藍營鐵三角成形！張嘉郡重磅宣示「建設不中斷」 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPcVZ5aDNIa1d2SHU3dldNblRBRVgtcGI2cUZHUTV1OEg0ZDNXU0w3UC01Vy1mY2VUUEJMQ014VzlPblB0dkQ5UTlyLU92S0gwMGZqTlBVUWd1VnE5eE5ucjMwRVFJdV9FcENNWHU5V3pGS3V4a1pNWUIxUjBDMDdKWFg2REJCOXd6bWNjUGF5U1IwWHJXb1J1WjBDb3kydFJLUG4wZGRIX2hIb3JRa1IxWHhNakRlb3VLdDFPMUVTVzc1X09PTGxzRkhScnRHamNPVl9La3c5M0hXU1ZFal9saU8zWko1RVF5dXBmcjBKWGpQQnc0LXpJM195d0lIUndjb3kxZE9FdXF1MzFQdWF4MjVvRm82MUhsODdQa2tWQk1KaFZBcUpka1JicW1XQmduc2h5VHFOekhDM1NCSUc5NzZxQTEtM1JXVWI1ODdoeGxsUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 14:25:15"
+      },
       {
         "title": "與林森寳、謝憲昇形成大埤鐵三角 張嘉郡：讓建設延續、地方發展不中斷 - tw.news.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOTjhYNzMyUEVrU2FEZ0tfdFA0SXFFRThEa0g4REV1d3FIbF80bE1OREUzcVdjNWY3X20wdDBDeEh3Z1ZXNEtGQm5yQl90c0Q3ekJsa0JvMXh5bi1iVWlQLWd3Y2E5S3pXdU1GaHRJeFdlU3RULWZjQ0xDOWMtMzBMVGFvdmdtSlYyN0x3ci1JLVctbWR2dXM2c3E4MkNWQ1lsLVVsVG1sUnZxZWo5Z3BmemZLR0lSU3FVT05xb1JzVzhLX0VUeVBGUDVFSnFQQlgtZ1RHdnhuTFlVeXBUYkwtVDVZb2Z3ZXU3ZmlYb2lXOXFhbTJ3OGJmSmFtODdDTmFhYTlmOFJOS1pua0kxbjhxandzVG13VXE1SnZiQnNtY1liLThmcF8xRzJ2Uk1scS02cUlXVlhJVmJmdVk4SUQtWFRwVVhyMG1EdUFkUkVqRFhsN2FYaFhVdGhQc01uUlF1ZzB3TkhsQ0hRM2RPa25iSEV0Z2RrVVZ5dkJ0U1hKUFI5N0p2QUI2U19xTk04cG1QUm82cHdpVmttOXBrRUFORjFBaDlaMGR6MEZ4QzNXMm8waFJQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -496,14 +534,29 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 3,
-    "劉建國": 2
+    "張嘉郡": 5,
+    "劉建國": 3
   },
   "mention_compare_7d": {
-    "張嘉郡": 169,
-    "劉建國": 78
+    "張嘉郡": 171,
+    "劉建國": 79
   },
   "top_news": [
+    {
+      "title": "張嘉郡、林森寳、謝憲昇大埤鐵三角成形 讓建設延續、地方發展不中斷 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQT2M0X3JjYW1uSzRvWGxHNUJwZGhqZWlPVWVFaFVPUVZLdzhtbE1QcjlidmNGQ3h2QThGM2ctSlZBeHdnS1B5bEtSWXlRd2NRTEFQcVd1eDRkTTNNZEs0SmdwM3pIM0lMY3d0MW5hbFBoX2c4SHVIaTVQOWJKRm1qNVhJbjlUMDlZYk1mNEgtUjdoQWJUYnNMcFVTdDRXMjNiN2pxeUNSTzBrWjcwVERDM2tsekFpaGt5SUJhWXd1dFJYZ3NLVVNVQXpsQ2U1bVAxdkhKUmNGSURrd0FackNZeVFQTDBpTWllZl9PSXloQ3ZiTThPM1ZlSXZVVV9OWmdtMFNmbzhfcGc1Q09VZ1ZuN3hTZFIzRENSREU2VzNGZzcyNlZMU0VSN0JpWTQ4U296RmNkV2gtVVpIczBSNjNYR0E0emhFUzJvSGdQWWk4Y0NYU2hLd3dBSGdlUEFESnNZM3kzYUhxc2FnMVhHTWdFdzcteXg0dzRUU2k5bzJVRVZzeDFmVG44ckstQ3hHaGc0dXhwTklOUW40dzllVld3R0wzM29kYkpI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-03 15:09:46"
+    },
+    {
+      "title": "雲林縣議員參選人涉賄！交保胞兄為劉建國輔選大將 他怒批：納稅錢變個人恩惠 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOS2RaNGRDTjR4ME9CcG5PNVd2a2EtdjFjZEZHaGs3bHRCRzZBaUdRQ0xRWHZtZlpEWlBoMXQweFF5QVlWZkFPMDR6c2ZIcXpySjdUMEdNMDgyUFh3NUZhX2hDdzhVdVZSa3pqYUZrSkVpdThsWEdnd2Y3T0locUtrZDAwell2LWUydmVhdjkySTBVYXpyTTNUdlNsMjdCMy03ekNxbWw4UXpoMTU0MkZma3VjZGQzYmg4SU5QNGIxcVJ6ZDVTVl9xR1ZnYjc2QWQ2al93VGF4OVM4NW53MEJjMWpQY0RDMVpaLU5EM3AxSkZ4bFd2XzZwOURja3JIVDhRZHZKT2NpbVVfWjdFT0hURmFFOXlMd2t3LXBqUkkzU3QybkhKMF9TUVF4N0hNX0RFSS1pSnNuTExBSnFrQVZiV2tudmotWVN4U2lJUWFVbl9nbHdQdU1NUHAyNmV1NWZTdlhDeXpUOXVXTlNTYm1yZzJHLWJwV09GUGhudm4tbTM0c1NfeUUxYkFTVDRzUWJmcU5ydWY4QVdWU3diQTl4VTc4V1RKVkFyR1NzVDNGclZFZGVFS3dhOUhXbHR3ZDNxdHFSNy1TRWJNdW5INy1XTDhsZTVwOUVLbS1FanhiMkRSbGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-03 14:30:00"
+    },
+    {
+      "title": "雲林藍營鐵三角成形！張嘉郡重磅宣示「建設不中斷」 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPcVZ5aDNIa1d2SHU3dldNblRBRVgtcGI2cUZHUTV1OEg0ZDNXU0w3UC01Vy1mY2VUUEJMQ014VzlPblB0dkQ5UTlyLU92S0gwMGZqTlBVUWd1VnE5eE5ucjMwRVFJdV9FcENNWHU5V3pGS3V4a1pNWUIxUjBDMDdKWFg2REJCOXd6bWNjUGF5U1IwWHJXb1J1WjBDb3kydFJLUG4wZGRIX2hIb3JRa1IxWHhNakRlb3VLdDFPMUVTVzc1X09PTGxzRkhScnRHamNPVl9La3c5M0hXU1ZFal9saU8zWko1RVF5dXBmcjBKWGpQQnc0LXpJM195d0lIUndjb3kxZE9FdXF1MzFQdWF4MjVvRm82MUhsODdQa2tWQk1KaFZBcUpka1JicW1XQmduc2h5VHFOekhDM1NCSUc5NzZxQTEtM1JXVWI1ODdoeGxsUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-03 14:25:15"
+    },
     {
       "title": "與林森寳、謝憲昇形成大埤鐵三角 張嘉郡：讓建設延續、地方發展不中斷 - tw.news.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOTjhYNzMyUEVrU2FEZ0tfdFA0SXFFRThEa0g4REV1d3FIbF80bE1OREUzcVdjNWY3X20wdDBDeEh3Z1ZXNEtGQm5yQl90c0Q3ekJsa0JvMXh5bi1iVWlQLWd3Y2E5S3pXdU1GaHRJeFdlU3RULWZjQ0xDOWMtMzBMVGFvdmdtSlYyN0x3ci1JLVctbWR2dXM2c3E4MkNWQ1lsLVVsVG1sUnZxZWo5Z3BmemZLR0lSU3FVT05xb1JzVzhLX0VUeVBGUDVFSnFQQlgtZ1RHdnhuTFlVeXBUYkwtVDVZb2Z3ZXU3ZmlYb2lXOXFhbTJ3OGJmSmFtODdDTmFhYTlmOFJOS1pua0kxbjhxandzVG13VXE1SnZiQnNtY1liLThmcF8xRzJ2Uk1scS02cUlXVlhJVmJmdVk4SUQtWFRwVVhyMG1EdUFkUkVqRFhsN2FYaFhVdGhQc01uUlF1ZzB3TkhsQ0hRM2RPa25iSEV0Z2RrVVZ5dkJ0U1hKUFI5N0p2QUI2U19xTk04cG1QUm82cHdpVmttOXBrRUFORjFBaDlaMGR6MEZ4QzNXMm8waFJQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -526,6 +579,21 @@
     }
   ],
   "top_news_7d": [
+    {
+      "title": "張嘉郡、林森寳、謝憲昇大埤鐵三角成形 讓建設延續、地方發展不中斷 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQT2M0X3JjYW1uSzRvWGxHNUJwZGhqZWlPVWVFaFVPUVZLdzhtbE1QcjlidmNGQ3h2QThGM2ctSlZBeHdnS1B5bEtSWXlRd2NRTEFQcVd1eDRkTTNNZEs0SmdwM3pIM0lMY3d0MW5hbFBoX2c4SHVIaTVQOWJKRm1qNVhJbjlUMDlZYk1mNEgtUjdoQWJUYnNMcFVTdDRXMjNiN2pxeUNSTzBrWjcwVERDM2tsekFpaGt5SUJhWXd1dFJYZ3NLVVNVQXpsQ2U1bVAxdkhKUmNGSURrd0FackNZeVFQTDBpTWllZl9PSXloQ3ZiTThPM1ZlSXZVVV9OWmdtMFNmbzhfcGc1Q09VZ1ZuN3hTZFIzRENSREU2VzNGZzcyNlZMU0VSN0JpWTQ4U296RmNkV2gtVVpIczBSNjNYR0E0emhFUzJvSGdQWWk4Y0NYU2hLd3dBSGdlUEFESnNZM3kzYUhxc2FnMVhHTWdFdzcteXg0dzRUU2k5bzJVRVZzeDFmVG44ckstQ3hHaGc0dXhwTklOUW40dzllVld3R0wzM29kYkpI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-03 15:09:46"
+    },
+    {
+      "title": "雲林縣議員參選人涉賄！交保胞兄為劉建國輔選大將 他怒批：納稅錢變個人恩惠 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOS2RaNGRDTjR4ME9CcG5PNVd2a2EtdjFjZEZHaGs3bHRCRzZBaUdRQ0xRWHZtZlpEWlBoMXQweFF5QVlWZkFPMDR6c2ZIcXpySjdUMEdNMDgyUFh3NUZhX2hDdzhVdVZSa3pqYUZrSkVpdThsWEdnd2Y3T0locUtrZDAwell2LWUydmVhdjkySTBVYXpyTTNUdlNsMjdCMy03ekNxbWw4UXpoMTU0MkZma3VjZGQzYmg4SU5QNGIxcVJ6ZDVTVl9xR1ZnYjc2QWQ2al93VGF4OVM4NW53MEJjMWpQY0RDMVpaLU5EM3AxSkZ4bFd2XzZwOURja3JIVDhRZHZKT2NpbVVfWjdFT0hURmFFOXlMd2t3LXBqUkkzU3QybkhKMF9TUVF4N0hNX0RFSS1pSnNuTExBSnFrQVZiV2tudmotWVN4U2lJUWFVbl9nbHdQdU1NUHAyNmV1NWZTdlhDeXpUOXVXTlNTYm1yZzJHLWJwV09GUGhudm4tbTM0c1NfeUUxYkFTVDRzUWJmcU5ydWY4QVdWU3diQTl4VTc4V1RKVkFyR1NzVDNGclZFZGVFS3dhOUhXbHR3ZDNxdHFSNy1TRWJNdW5INy1XTDhsZTVwOUVLbS1FanhiMkRSbGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-03 14:30:00"
+    },
+    {
+      "title": "雲林藍營鐵三角成形！張嘉郡重磅宣示「建設不中斷」 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPcVZ5aDNIa1d2SHU3dldNblRBRVgtcGI2cUZHUTV1OEg0ZDNXU0w3UC01Vy1mY2VUUEJMQ014VzlPblB0dkQ5UTlyLU92S0gwMGZqTlBVUWd1VnE5eE5ucjMwRVFJdV9FcENNWHU5V3pGS3V4a1pNWUIxUjBDMDdKWFg2REJCOXd6bWNjUGF5U1IwWHJXb1J1WjBDb3kydFJLUG4wZGRIX2hIb3JRa1IxWHhNakRlb3VLdDFPMUVTVzc1X09PTGxzRkhScnRHamNPVl9La3c5M0hXU1ZFal9saU8zWko1RVF5dXBmcjBKWGpQQnc0LXpJM195d0lIUndjb3kxZE9FdXF1MzFQdWF4MjVvRm82MUhsODdQa2tWQk1KaFZBcUpka1JicW1XQmduc2h5VHFOekhDM1NCSUc5NzZxQTEtM1JXVWI1ODdoeGxsUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-03 14:25:15"
+    },
     {
       "title": "與林森寳、謝憲昇形成大埤鐵三角 張嘉郡：讓建設延續、地方發展不中斷 - tw.news.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOTjhYNzMyUEVrU2FEZ0tfdFA0SXFFRThEa0g4REV1d3FIbF80bE1OREUzcVdjNWY3X20wdDBDeEh3Z1ZXNEtGQm5yQl90c0Q3ekJsa0JvMXh5bi1iVWlQLWd3Y2E5S3pXdU1GaHRJeFdlU3RULWZjQ0xDOWMtMzBMVGFvdmdtSlYyN0x3ci1JLVctbWR2dXM2c3E4MkNWQ1lsLVVsVG1sUnZxZWo5Z3BmemZLR0lSU3FVT05xb1JzVzhLX0VUeVBGUDVFSnFQQlgtZ1RHdnhuTFlVeXBUYkwtVDVZb2Z3ZXU3ZmlYb2lXOXFhbTJ3OGJmSmFtODdDTmFhYTlmOFJOS1pua0kxbjhxandzVG13VXE1SnZiQnNtY1liLThmcF8xRzJ2Uk1scS02cUlXVlhJVmJmdVk4SUQtWFRwVVhyMG1EdUFkUkVqRFhsN2FYaFhVdGhQc01uUlF1ZzB3TkhsQ0hRM2RPa25iSEV0Z2RrVVZ5dkJ0U1hKUFI5N0p2QUI2U19xTk04cG1QUm82cHdpVmttOXBrRUFORjFBaDlaMGR6MEZ4QzNXMm8waFJQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -610,21 +678,6 @@
       "title": "豪雨重創雲林道路排水 張嘉郡爭取5.7億復建經費64案拚明年底完工 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tU0E5cnFNVC04dGVmVndzblJQYzlhX3Z5MzJUQ1QzMExHYjladC1udmhPQi0xWWlxS3VIY3A0NzI5SURXUWs1X2psSUluWE8wU2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-02 00:00:00"
-    },
-    {
-      "title": "艾杰旭勞資爭議延燒！張嘉郡夜赴絕食抗議現場 籲勞動部、經濟部介入 - 上報Up Media",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2U1l6T0NpV3Q1bWlKWHpaZUg0cl9WaENxU3Y2a2x1TXpZODViU0N4dk9MNWYxTjVBZFh5X3JkeWt3Q3RmenZBeFAyTWRFcTRCZnBwMEk4NFZaYnIxU2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-01 23:26:00"
-    },
-    {
-      "title": "張嘉郡、蕭德恕西螺聯合競選服務處成立 36宮廟眾神庇佑凝聚地方力量 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMM1UtdG50Yy1sWmtBUGFCTWtmVk5MeHdWTFMyN0dvVUhLa1ZvNTJ5LXhBMnlNU0RCYVdXcGVHM1FkWTNLNlpZVS0yc180cTI2QkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-01 21:37:00"
-    },
-    {
-      "title": "南亞科落腳屏東！劉建國批雲林沒準備好 張麗善嘆：非理想決定 | 上報 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPckRkSkpvQ0IwUUxqMlJ4bEJEQ0Z0UVJHYUc1T1JFNVlIeWllOXFRdGE3QUNVNUVJZGJJT1JUOFRfbW8xWEVDOXcxYmxNR3FlYnZrV0g4a2NfZjFxRHhKNUdYajNteTJjWGZHUlJFV2JJLWhMbHFEOERyZEM3NFktTWFpVDY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-01 20:45:45"
     }
   ],
   "latest_facebook_20": [
@@ -731,6 +784,21 @@
   ],
   "latest_news_20": [
     {
+      "title": "張嘉郡、林森寳、謝憲昇大埤鐵三角成形 讓建設延續、地方發展不中斷 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQT2M0X3JjYW1uSzRvWGxHNUJwZGhqZWlPVWVFaFVPUVZLdzhtbE1QcjlidmNGQ3h2QThGM2ctSlZBeHdnS1B5bEtSWXlRd2NRTEFQcVd1eDRkTTNNZEs0SmdwM3pIM0lMY3d0MW5hbFBoX2c4SHVIaTVQOWJKRm1qNVhJbjlUMDlZYk1mNEgtUjdoQWJUYnNMcFVTdDRXMjNiN2pxeUNSTzBrWjcwVERDM2tsekFpaGt5SUJhWXd1dFJYZ3NLVVNVQXpsQ2U1bVAxdkhKUmNGSURrd0FackNZeVFQTDBpTWllZl9PSXloQ3ZiTThPM1ZlSXZVVV9OWmdtMFNmbzhfcGc1Q09VZ1ZuN3hTZFIzRENSREU2VzNGZzcyNlZMU0VSN0JpWTQ4U296RmNkV2gtVVpIczBSNjNYR0E0emhFUzJvSGdQWWk4Y0NYU2hLd3dBSGdlUEFESnNZM3kzYUhxc2FnMVhHTWdFdzcteXg0dzRUU2k5bzJVRVZzeDFmVG44ckstQ3hHaGc0dXhwTklOUW40dzllVld3R0wzM29kYkpI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-03 15:09:46"
+    },
+    {
+      "title": "雲林縣議員參選人涉賄！交保胞兄為劉建國輔選大將 他怒批：納稅錢變個人恩惠 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOS2RaNGRDTjR4ME9CcG5PNVd2a2EtdjFjZEZHaGs3bHRCRzZBaUdRQ0xRWHZtZlpEWlBoMXQweFF5QVlWZkFPMDR6c2ZIcXpySjdUMEdNMDgyUFh3NUZhX2hDdzhVdVZSa3pqYUZrSkVpdThsWEdnd2Y3T0locUtrZDAwell2LWUydmVhdjkySTBVYXpyTTNUdlNsMjdCMy03ekNxbWw4UXpoMTU0MkZma3VjZGQzYmg4SU5QNGIxcVJ6ZDVTVl9xR1ZnYjc2QWQ2al93VGF4OVM4NW53MEJjMWpQY0RDMVpaLU5EM3AxSkZ4bFd2XzZwOURja3JIVDhRZHZKT2NpbVVfWjdFT0hURmFFOXlMd2t3LXBqUkkzU3QybkhKMF9TUVF4N0hNX0RFSS1pSnNuTExBSnFrQVZiV2tudmotWVN4U2lJUWFVbl9nbHdQdU1NUHAyNmV1NWZTdlhDeXpUOXVXTlNTYm1yZzJHLWJwV09GUGhudm4tbTM0c1NfeUUxYkFTVDRzUWJmcU5ydWY4QVdWU3diQTl4VTc4V1RKVkFyR1NzVDNGclZFZGVFS3dhOUhXbHR3ZDNxdHFSNy1TRWJNdW5INy1XTDhsZTVwOUVLbS1FanhiMkRSbGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-03 14:30:00"
+    },
+    {
+      "title": "雲林藍營鐵三角成形！張嘉郡重磅宣示「建設不中斷」 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPcVZ5aDNIa1d2SHU3dldNblRBRVgtcGI2cUZHUTV1OEg0ZDNXU0w3UC01Vy1mY2VUUEJMQ014VzlPblB0dkQ5UTlyLU92S0gwMGZqTlBVUWd1VnE5eE5ucjMwRVFJdV9FcENNWHU5V3pGS3V4a1pNWUIxUjBDMDdKWFg2REJCOXd6bWNjUGF5U1IwWHJXb1J1WjBDb3kydFJLUG4wZGRIX2hIb3JRa1IxWHhNakRlb3VLdDFPMUVTVzc1X09PTGxzRkhScnRHamNPVl9La3c5M0hXU1ZFal9saU8zWko1RVF5dXBmcjBKWGpQQnc0LXpJM195d0lIUndjb3kxZE9FdXF1MzFQdWF4MjVvRm82MUhsODdQa2tWQk1KaFZBcUpka1JicW1XQmduc2h5VHFOekhDM1NCSUc5NzZxQTEtM1JXVWI1ODdoeGxsUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-03 14:25:15"
+    },
+    {
       "title": "與林森寳、謝憲昇形成大埤鐵三角 張嘉郡：讓建設延續、地方發展不中斷 - tw.news.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOTjhYNzMyUEVrU2FEZ0tfdFA0SXFFRThEa0g4REV1d3FIbF80bE1OREUzcVdjNWY3X20wdDBDeEh3Z1ZXNEtGQm5yQl90c0Q3ekJsa0JvMXh5bi1iVWlQLWd3Y2E5S3pXdU1GaHRJeFdlU3RULWZjQ0xDOWMtMzBMVGFvdmdtSlYyN0x3ci1JLVctbWR2dXM2c3E4MkNWQ1lsLVVsVG1sUnZxZWo5Z3BmemZLR0lSU3FVT05xb1JzVzhLX0VUeVBGUDVFSnFQQlgtZ1RHdnhuTFlVeXBUYkwtVDVZb2Z3ZXU3ZmlYb2lXOXFhbTJ3OGJmSmFtODdDTmFhYTlmOFJOS1pua0kxbjhxandzVG13VXE1SnZiQnNtY1liLThmcF8xRzJ2Uk1scS02cUlXVlhJVmJmdVk4SUQtWFRwVVhyMG1EdUFkUkVqRFhsN2FYaFhVdGhQc01uUlF1ZzB3TkhsQ0hRM2RPa25iSEV0Z2RrVVZ5dkJ0U1hKUFI5N0p2QUI2U19xTk04cG1QUm82cHdpVmttOXBrRUFORjFBaDlaMGR6MEZ4QzNXMm8waFJQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-03 14:13:51"
@@ -814,21 +882,6 @@
       "title": "豪雨重創雲林道路排水 張嘉郡爭取5.7億復建經費64案拚明年底完工 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tU0E5cnFNVC04dGVmVndzblJQYzlhX3Z5MzJUQ1QzMExHYjladC1udmhPQi0xWWlxS3VIY3A0NzI5SURXUWs1X2psSUluWE8wU2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-02 00:00:00"
-    },
-    {
-      "title": "艾杰旭勞資爭議延燒！張嘉郡夜赴絕食抗議現場 籲勞動部、經濟部介入 - 上報Up Media",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2U1l6T0NpV3Q1bWlKWHpaZUg0cl9WaENxU3Y2a2x1TXpZODViU0N4dk9MNWYxTjVBZFh5X3JkeWt3Q3RmenZBeFAyTWRFcTRCZnBwMEk4NFZaYnIxU2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-01 23:26:00"
-    },
-    {
-      "title": "張嘉郡、蕭德恕西螺聯合競選服務處成立 36宮廟眾神庇佑凝聚地方力量 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMM1UtdG50Yy1sWmtBUGFCTWtmVk5MeHdWTFMyN0dvVUhLa1ZvNTJ5LXhBMnlNU0RCYVdXcGVHM1FkWTNLNlpZVS0yc180cTI2QkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-01 21:37:00"
-    },
-    {
-      "title": "南亞科落腳屏東！劉建國批雲林沒準備好 張麗善嘆：非理想決定 | 上報 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPckRkSkpvQ0IwUUxqMlJ4bEJEQ0Z0UVJHYUc1T1JFNVlIeWllOXFRdGE3QUNVNUVJZGJJT1JUOFRfbW8xWEVDOXcxYmxNR3FlYnZrV0g4a2NfZjFxRHhKNUdYajNteTJjWGZHUlJFV2JJLWhMbHFEOERyZEM3NFktTWFpVDY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-01 20:45:45"
     }
   ],
   "person_sections": {
@@ -937,6 +990,16 @@
       ],
       "news": [
         {
+          "title": "張嘉郡、林森寳、謝憲昇大埤鐵三角成形 讓建設延續、地方發展不中斷 - tw.news.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQT2M0X3JjYW1uSzRvWGxHNUJwZGhqZWlPVWVFaFVPUVZLdzhtbE1QcjlidmNGQ3h2QThGM2ctSlZBeHdnS1B5bEtSWXlRd2NRTEFQcVd1eDRkTTNNZEs0SmdwM3pIM0lMY3d0MW5hbFBoX2c4SHVIaTVQOWJKRm1qNVhJbjlUMDlZYk1mNEgtUjdoQWJUYnNMcFVTdDRXMjNiN2pxeUNSTzBrWjcwVERDM2tsekFpaGt5SUJhWXd1dFJYZ3NLVVNVQXpsQ2U1bVAxdkhKUmNGSURrd0FackNZeVFQTDBpTWllZl9PSXloQ3ZiTThPM1ZlSXZVVV9OWmdtMFNmbzhfcGc1Q09VZ1ZuN3hTZFIzRENSREU2VzNGZzcyNlZMU0VSN0JpWTQ4U296RmNkV2gtVVpIczBSNjNYR0E0emhFUzJvSGdQWWk4Y0NYU2hLd3dBSGdlUEFESnNZM3kzYUhxc2FnMVhHTWdFdzcteXg0dzRUU2k5bzJVRVZzeDFmVG44ckstQ3hHaGc0dXhwTklOUW40dzllVld3R0wzM29kYkpI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-10-03 15:09:46"
+        },
+        {
+          "title": "雲林藍營鐵三角成形！張嘉郡重磅宣示「建設不中斷」 - tw.news.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPcVZ5aDNIa1d2SHU3dldNblRBRVgtcGI2cUZHUTV1OEg0ZDNXU0w3UC01Vy1mY2VUUEJMQ014VzlPblB0dkQ5UTlyLU92S0gwMGZqTlBVUWd1VnE5eE5ucjMwRVFJdV9FcENNWHU5V3pGS3V4a1pNWUIxUjBDMDdKWFg2REJCOXd6bWNjUGF5U1IwWHJXb1J1WjBDb3kydFJLUG4wZGRIX2hIb3JRa1IxWHhNakRlb3VLdDFPMUVTVzc1X09PTGxzRkhScnRHamNPVl9La3c5M0hXU1ZFal9saU8zWko1RVF5dXBmcjBKWGpQQnc0LXpJM195d0lIUndjb3kxZE9FdXF1MzFQdWF4MjVvRm82MUhsODdQa2tWQk1KaFZBcUpka1JicW1XQmduc2h5VHFOekhDM1NCSUc5NzZxQTEtM1JXVWI1ODdoeGxsUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-10-03 14:25:15"
+        },
+        {
           "title": "與林森寳、謝憲昇形成大埤鐵三角 張嘉郡：讓建設延續、地方發展不中斷 - tw.news.yahoo.com",
           "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOTjhYNzMyUEVrU2FEZ0tfdFA0SXFFRThEa0g4REV1d3FIbF80bE1OREUzcVdjNWY3X20wdDBDeEh3Z1ZXNEtGQm5yQl90c0Q3ekJsa0JvMXh5bi1iVWlQLWd3Y2E5S3pXdU1GaHRJeFdlU3RULWZjQ0xDOWMtMzBMVGFvdmdtSlYyN0x3ci1JLVctbWR2dXM2c3E4MkNWQ1lsLVVsVG1sUnZxZWo5Z3BmemZLR0lSU3FVT05xb1JzVzhLX0VUeVBGUDVFSnFQQlgtZ1RHdnhuTFlVeXBUYkwtVDVZb2Z3ZXU3ZmlYb2lXOXFhbTJ3OGJmSmFtODdDTmFhYTlmOFJOS1pua0kxbjhxandzVG13VXE1SnZiQnNtY1liLThmcF8xRzJ2Uk1scS02cUlXVlhJVmJmdVk4SUQtWFRwVVhyMG1EdUFkUkVqRFhsN2FYaFhVdGhQc01uUlF1ZzB3TkhsQ0hRM2RPa25iSEV0Z2RrVVZ5dkJ0U1hKUFI5N0p2QUI2U19xTk04cG1QUm82cHdpVmttOXBrRUFORjFBaDlaMGR6MEZ4QzNXMm8waFJQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-03 14:13:51"
@@ -1025,16 +1088,6 @@
           "title": "豪雨重創雲林15鄉鎮 張嘉郡爭取5.7億復建經費 | 觀傳媒 - today.line.me",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zdW5aRGdpZ2ZRb3JEUFdScjQ3UEQyMGdYVjg3ZWhWNWJlSTA3UEw0UDlDYkNrRzBIQk8tUmdFUnpWb0lsWnFjYkZkTlVnUzdHYVJrUzd3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-01 19:43:55"
-        },
-        {
-          "title": "豪雨重創雲林15鄉鎮 張嘉郡爭取5.7億復建經費 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOMEFSQlgxZmV5a2xmXzJIQjlOd1RKd3o5ZDVXczhLNVo1RlQybVY3c1ZkXzhUdXpuLXd4NzR6bHFMZURuNWdRZkw4VlRCUzE4ekMtQXNYV09JUXMtU0xPR2FTZ3FEMmx0bnpHTkxTQk5GVVV5NjNVR1ZjZ2VveGE5c2kzcV93VmwySjNmY2g2SjlETTVTX3dKMjdEX1lZM3laYUt1UVZzTlpFMXdKR3RfY2hWTHRiWDh6M2hQeHNUMU5MWUJsM3lxdEJZZl9TY0JfVUxfQXRiVHZsa0xpSjI2NmQ3ZmVFaHpSMnhDR2hsWklqNW9kTE12LWpaUmV4SEV5eUF6T242Zk5EZWIwQ2FpaG9aYmlyQ3ZGTTZTZjA1enFZNGpMNkVvU2ZuVE1fc2FzbUdB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-10-01 19:41:09"
-        },
-        {
-          "title": "豪雨致多處排水護岸受損 張嘉郡爭取5.7億復建經費預計明年底完工 - 上報Up Media",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83Qnp4NXY4eUFBYko1a0ZqMHo3aGh4RWZlZHRoWDdNZWtuUnJhMmZIUTF6LWtsQ2lNMUoySUQwM3FnbzZDOWNDZThXblcxTktRd0ZYNmRVN1dQNkRtYlE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-10-01 19:00:00"
         }
       ]
     },
@@ -1143,6 +1196,11 @@
       ],
       "news": [
         {
+          "title": "雲林縣議員參選人涉賄！交保胞兄為劉建國輔選大將 他怒批：納稅錢變個人恩惠 - tw.news.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOS2RaNGRDTjR4ME9CcG5PNVd2a2EtdjFjZEZHaGs3bHRCRzZBaUdRQ0xRWHZtZlpEWlBoMXQweFF5QVlWZkFPMDR6c2ZIcXpySjdUMEdNMDgyUFh3NUZhX2hDdzhVdVZSa3pqYUZrSkVpdThsWEdnd2Y3T0locUtrZDAwell2LWUydmVhdjkySTBVYXpyTTNUdlNsMjdCMy03ekNxbWw4UXpoMTU0MkZma3VjZGQzYmg4SU5QNGIxcVJ6ZDVTVl9xR1ZnYjc2QWQ2al93VGF4OVM4NW53MEJjMWpQY0RDMVpaLU5EM3AxSkZ4bFd2XzZwOURja3JIVDhRZHZKT2NpbVVfWjdFT0hURmFFOXlMd2t3LXBqUkkzU3QybkhKMF9TUVF4N0hNX0RFSS1pSnNuTExBSnFrQVZiV2tudmotWVN4U2lJUWFVbl9nbHdQdU1NUHAyNmV1NWZTdlhDeXpUOXVXTlNTYm1yZzJHLWJwV09GUGhudm4tbTM0c1NfeUUxYkFTVDRzUWJmcU5ydWY4QVdWU3diQTl4VTc4V1RKVkFyR1NzVDNGclZFZGVFS3dhOUhXbHR3ZDNxdHFSNy1TRWJNdW5INy1XTDhsZTVwOUVLbS1FanhiMkRSbGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-10-03 14:30:00"
+        },
+        {
           "title": "雲林參選人涉賄選收押 哥哥車上搜出290萬現金！他竟是劉建國輔選大將 - 壹蘋新聞網",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHhGd2ZRWWRwdkVmeVBkTWw2VkR0OHJRWWJpSVYzTWFXdXN6Ri1jeXR4cXR4eVFEajVSYVVSY2lCU09rd1l5cktjVmt1TUx6Wk0wdjVQRFlKRkpRMW9tTjhKRWtqX1RqRDctTnQ5LXRDVndhaEJkMzlKSzl4RU5JS2dmRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-03 11:15:00"
@@ -1236,17 +1294,27 @@
           "title": "南亞科擴廠落腳屏東 劉建國批雲林縣府沒做好準備、錯失機會 - 自由財經",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YRU9VekVxT2JlNGtyc1U5eXBkRUE4THJiMmhXR09xR25xMklMdVpZX0V6dEJGRkhNRVFPVF9ncnRNT214aDBERk15QTlTUlJaeVpTeF9VOEJMMEFLSk4yeVdWYkjSAWRBVV95cUxOWEVPVXpFcU9iZTRrcnNVOXlwZEVBOExyYjJoV0dPcUducTJJTHVaWV9FenRCRkZITUVRT1RfZ3J0TU9teGgwREZNeUE5U1JSWnlaU3hfVThCTDBBS0pOMnlXVmJI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-01 16:34:22"
-        },
-        {
-          "title": "國科會拍板南亞科轉向到屏東設廠劉建國：看來顯然雲林沒有準備好| 2026九合一選舉 - UDN",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wQXBMZXNkTGQ3MWNsSk0yX0ZXMUcwb0ZzbW43S3A4UVVxZmRVMUw4SEM4SFgyaTJwYkpabjk2VXA1ZXFMY0xDRFZ3NHZFMGNSQ0MxQUliQ0w?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-10-01 15:45:36"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "張嘉郡、林森寳、謝憲昇大埤鐵三角成形 讓建設延續、地方發展不中斷 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQT2M0X3JjYW1uSzRvWGxHNUJwZGhqZWlPVWVFaFVPUVZLdzhtbE1QcjlidmNGQ3h2QThGM2ctSlZBeHdnS1B5bEtSWXlRd2NRTEFQcVd1eDRkTTNNZEs0SmdwM3pIM0lMY3d0MW5hbFBoX2c4SHVIaTVQOWJKRm1qNVhJbjlUMDlZYk1mNEgtUjdoQWJUYnNMcFVTdDRXMjNiN2pxeUNSTzBrWjcwVERDM2tsekFpaGt5SUJhWXd1dFJYZ3NLVVNVQXpsQ2U1bVAxdkhKUmNGSURrd0FackNZeVFQTDBpTWllZl9PSXloQ3ZiTThPM1ZlSXZVVV9OWmdtMFNmbzhfcGc1Q09VZ1ZuN3hTZFIzRENSREU2VzNGZzcyNlZMU0VSN0JpWTQ4U296RmNkV2gtVVpIczBSNjNYR0E0emhFUzJvSGdQWWk4Y0NYU2hLd3dBSGdlUEFESnNZM3kzYUhxc2FnMVhHTWdFdzcteXg0dzRUU2k5bzJVRVZzeDFmVG44ckstQ3hHaGc0dXhwTklOUW40dzllVld3R0wzM29kYkpI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 15:09:46"
+      },
+      {
+        "title": "雲林縣議員參選人涉賄！交保胞兄為劉建國輔選大將 他怒批：納稅錢變個人恩惠 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOS2RaNGRDTjR4ME9CcG5PNVd2a2EtdjFjZEZHaGs3bHRCRzZBaUdRQ0xRWHZtZlpEWlBoMXQweFF5QVlWZkFPMDR6c2ZIcXpySjdUMEdNMDgyUFh3NUZhX2hDdzhVdVZSa3pqYUZrSkVpdThsWEdnd2Y3T0locUtrZDAwell2LWUydmVhdjkySTBVYXpyTTNUdlNsMjdCMy03ekNxbWw4UXpoMTU0MkZma3VjZGQzYmg4SU5QNGIxcVJ6ZDVTVl9xR1ZnYjc2QWQ2al93VGF4OVM4NW53MEJjMWpQY0RDMVpaLU5EM3AxSkZ4bFd2XzZwOURja3JIVDhRZHZKT2NpbVVfWjdFT0hURmFFOXlMd2t3LXBqUkkzU3QybkhKMF9TUVF4N0hNX0RFSS1pSnNuTExBSnFrQVZiV2tudmotWVN4U2lJUWFVbl9nbHdQdU1NUHAyNmV1NWZTdlhDeXpUOXVXTlNTYm1yZzJHLWJwV09GUGhudm4tbTM0c1NfeUUxYkFTVDRzUWJmcU5ydWY4QVdWU3diQTl4VTc4V1RKVkFyR1NzVDNGclZFZGVFS3dhOUhXbHR3ZDNxdHFSNy1TRWJNdW5INy1XTDhsZTVwOUVLbS1FanhiMkRSbGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 14:30:00"
+      },
+      {
+        "title": "雲林藍營鐵三角成形！張嘉郡重磅宣示「建設不中斷」 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPcVZ5aDNIa1d2SHU3dldNblRBRVgtcGI2cUZHUTV1OEg0ZDNXU0w3UC01Vy1mY2VUUEJMQ014VzlPblB0dkQ5UTlyLU92S0gwMGZqTlBVUWd1VnE5eE5ucjMwRVFJdV9FcENNWHU5V3pGS3V4a1pNWUIxUjBDMDdKWFg2REJCOXd6bWNjUGF5U1IwWHJXb1J1WjBDb3kydFJLUG4wZGRIX2hIb3JRa1IxWHhNakRlb3VLdDFPMUVTVzc1X09PTGxzRkhScnRHamNPVl9La3c5M0hXU1ZFal9saU8zWko1RVF5dXBmcjBKWGpQQnc0LXpJM195d0lIUndjb3kxZE9FdXF1MzFQdWF4MjVvRm82MUhsODdQa2tWQk1KaFZBcUpka1JicW1XQmduc2h5VHFOekhDM1NCSUc5NzZxQTEtM1JXVWI1ODdoeGxsUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 14:25:15"
+      },
       {
         "title": "與林森寳、謝憲昇形成大埤鐵三角 張嘉郡：讓建設延續、地方發展不中斷 - tw.news.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOTjhYNzMyUEVrU2FEZ0tfdFA0SXFFRThEa0g4REV1d3FIbF80bE1OREUzcVdjNWY3X20wdDBDeEh3Z1ZXNEtGQm5yQl90c0Q3ekJsa0JvMXh5bi1iVWlQLWd3Y2E5S3pXdU1GaHRJeFdlU3RULWZjQ0xDOWMtMzBMVGFvdmdtSlYyN0x3ci1JLVctbWR2dXM2c3E4MkNWQ1lsLVVsVG1sUnZxZWo5Z3BmemZLR0lSU3FVT05xb1JzVzhLX0VUeVBGUDVFSnFQQlgtZ1RHdnhuTFlVeXBUYkwtVDVZb2Z3ZXU3ZmlYb2lXOXFhbTJ3OGJmSmFtODdDTmFhYTlmOFJOS1pua0kxbjhxandzVG13VXE1SnZiQnNtY1liLThmcF8xRzJ2Uk1scS02cUlXVlhJVmJmdVk4SUQtWFRwVVhyMG1EdUFkUkVqRFhsN2FYaFhVdGhQc01uUlF1ZzB3TkhsQ0hRM2RPa25iSEV0Z2RrVVZ5dkJ0U1hKUFI5N0p2QUI2U19xTk04cG1QUm82cHdpVmttOXBrRUFORjFBaDlaMGR6MEZ4QzNXMm8waFJQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1290,6 +1358,21 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "張嘉郡、林森寳、謝憲昇大埤鐵三角成形 讓建設延續、地方發展不中斷 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQT2M0X3JjYW1uSzRvWGxHNUJwZGhqZWlPVWVFaFVPUVZLdzhtbE1QcjlidmNGQ3h2QThGM2ctSlZBeHdnS1B5bEtSWXlRd2NRTEFQcVd1eDRkTTNNZEs0SmdwM3pIM0lMY3d0MW5hbFBoX2c4SHVIaTVQOWJKRm1qNVhJbjlUMDlZYk1mNEgtUjdoQWJUYnNMcFVTdDRXMjNiN2pxeUNSTzBrWjcwVERDM2tsekFpaGt5SUJhWXd1dFJYZ3NLVVNVQXpsQ2U1bVAxdkhKUmNGSURrd0FackNZeVFQTDBpTWllZl9PSXloQ3ZiTThPM1ZlSXZVVV9OWmdtMFNmbzhfcGc1Q09VZ1ZuN3hTZFIzRENSREU2VzNGZzcyNlZMU0VSN0JpWTQ4U296RmNkV2gtVVpIczBSNjNYR0E0emhFUzJvSGdQWWk4Y0NYU2hLd3dBSGdlUEFESnNZM3kzYUhxc2FnMVhHTWdFdzcteXg0dzRUU2k5bzJVRVZzeDFmVG44ckstQ3hHaGc0dXhwTklOUW40dzllVld3R0wzM29kYkpI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 15:09:46"
+      },
+      {
+        "title": "雲林縣議員參選人涉賄！交保胞兄為劉建國輔選大將 他怒批：納稅錢變個人恩惠 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOS2RaNGRDTjR4ME9CcG5PNVd2a2EtdjFjZEZHaGs3bHRCRzZBaUdRQ0xRWHZtZlpEWlBoMXQweFF5QVlWZkFPMDR6c2ZIcXpySjdUMEdNMDgyUFh3NUZhX2hDdzhVdVZSa3pqYUZrSkVpdThsWEdnd2Y3T0locUtrZDAwell2LWUydmVhdjkySTBVYXpyTTNUdlNsMjdCMy03ekNxbWw4UXpoMTU0MkZma3VjZGQzYmg4SU5QNGIxcVJ6ZDVTVl9xR1ZnYjc2QWQ2al93VGF4OVM4NW53MEJjMWpQY0RDMVpaLU5EM3AxSkZ4bFd2XzZwOURja3JIVDhRZHZKT2NpbVVfWjdFT0hURmFFOXlMd2t3LXBqUkkzU3QybkhKMF9TUVF4N0hNX0RFSS1pSnNuTExBSnFrQVZiV2tudmotWVN4U2lJUWFVbl9nbHdQdU1NUHAyNmV1NWZTdlhDeXpUOXVXTlNTYm1yZzJHLWJwV09GUGhudm4tbTM0c1NfeUUxYkFTVDRzUWJmcU5ydWY4QVdWU3diQTl4VTc4V1RKVkFyR1NzVDNGclZFZGVFS3dhOUhXbHR3ZDNxdHFSNy1TRWJNdW5INy1XTDhsZTVwOUVLbS1FanhiMkRSbGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 14:30:00"
+      },
+      {
+        "title": "雲林藍營鐵三角成形！張嘉郡重磅宣示「建設不中斷」 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPcVZ5aDNIa1d2SHU3dldNblRBRVgtcGI2cUZHUTV1OEg0ZDNXU0w3UC01Vy1mY2VUUEJMQ014VzlPblB0dkQ5UTlyLU92S0gwMGZqTlBVUWd1VnE5eE5ucjMwRVFJdV9FcENNWHU5V3pGS3V4a1pNWUIxUjBDMDdKWFg2REJCOXd6bWNjUGF5U1IwWHJXb1J1WjBDb3kydFJLUG4wZGRIX2hIb3JRa1IxWHhNakRlb3VLdDFPMUVTVzc1X09PTGxzRkhScnRHamNPVl9La3c5M0hXU1ZFal9saU8zWko1RVF5dXBmcjBKWGpQQnc0LXpJM195d0lIUndjb3kxZE9FdXF1MzFQdWF4MjVvRm82MUhsODdQa2tWQk1KaFZBcUpka1JicW1XQmduc2h5VHFOekhDM1NCSUc5NzZxQTEtM1JXVWI1ODdoeGxsUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 14:25:15"
+      },
       {
         "title": "與林森寳、謝憲昇形成大埤鐵三角 張嘉郡：讓建設延續、地方發展不中斷 - tw.news.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOTjhYNzMyUEVrU2FEZ0tfdFA0SXFFRThEa0g4REV1d3FIbF80bE1OREUzcVdjNWY3X20wdDBDeEh3Z1ZXNEtGQm5yQl90c0Q3ekJsa0JvMXh5bi1iVWlQLWd3Y2E5S3pXdU1GaHRJeFdlU3RULWZjQ0xDOWMtMzBMVGFvdmdtSlYyN0x3ci1JLVctbWR2dXM2c3E4MkNWQ1lsLVVsVG1sUnZxZWo5Z3BmemZLR0lSU3FVT05xb1JzVzhLX0VUeVBGUDVFSnFQQlgtZ1RHdnhuTFlVeXBUYkwtVDVZb2Z3ZXU3ZmlYb2lXOXFhbTJ3OGJmSmFtODdDTmFhYTlmOFJOS1pua0kxbjhxandzVG13VXE1SnZiQnNtY1liLThmcF8xRzJ2Uk1scS02cUlXVlhJVmJmdVk4SUQtWFRwVVhyMG1EdUFkUkVqRFhsN2FYaFhVdGhQc01uUlF1ZzB3TkhsQ0hRM2RPa25iSEV0Z2RrVVZ5dkJ0U1hKUFI5N0p2QUI2U19xTk04cG1QUm82cHdpVmttOXBrRUFORjFBaDlaMGR6MEZ4QzNXMm8waFJQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1474,21 +1557,6 @@
         "title": "南亞科擴廠屏東定案！劉建國批縣府「狀況外」：讓雲林一再錯失機會 | 民視新聞網 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SVGNON0dZQ1VZMEZOSGxaNWVZTnpBR0lVWUpvTWxmTHhhU0RObjZJM3hheUJiZUZ4ak05ZGV4LUxoLUVHN05vNWEyWUl3czlacG5iMU1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-01 17:58:13"
-      },
-      {
-        "title": "南亞科擴廠選屏東錯失雲林 張嘉郡：可惜卡在土地程序 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YZFhxLU1abWJUelYtNGluSUxmdUR4LW5vczVBZ0lpdkdhNWlqSnNndW9ZRUZHa2daY3Q5bUtVSDFXWjhfbWdIR0Q1bmxnVTI3NWdv0gFYQVVfeXFMTm9xNTdXUi1Ka0F6YlphR0pubXpfZUtlZ3VQa1BfYkJhRXZFTVlNWkhZR2UtZl9XWV9GQnFRTkVrb0Y2dzBZWWxrMEpHd1FlNDJrWnV1QXNfbA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-01 17:46:50"
-      },
-      {
-        "title": "南亞科擴廠選屏東錯失雲林張嘉郡：可惜卡在土地程序| 2026九合一選舉 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qeW9zTk03U1FkTDJTUlZEdVI5bEtlT3RxUU9nRlRzSzNTVGJNOFV5Rnp5T2trTnNmS1NFd1p3djI4UEhKS1ZkaGNIYU1zbm13TFVEbURrVFg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-01 17:46:50"
-      },
-      {
-        "title": "南亞科落腳屏東 張嘉郡嘆雲林「萬事俱備」卡在土地程序 - 聚財網",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIb3JVRmkzUHVDWjlWSXZMU2wyeU1QTUVjT3A1d3c2QUpQOVowOXdHc0ltSFVqRUxDMmIzdEhiaWVnSXRYTGF1MVg1QlY?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-01 17:14:01"
       }
     ],
     "facebook": [
@@ -1636,6 +1704,27 @@
     ],
     "day": [
       {
+        "title": "張嘉郡、林森寳、謝憲昇大埤鐵三角成形 讓建設延續、地方發展不中斷 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQT2M0X3JjYW1uSzRvWGxHNUJwZGhqZWlPVWVFaFVPUVZLdzhtbE1QcjlidmNGQ3h2QThGM2ctSlZBeHdnS1B5bEtSWXlRd2NRTEFQcVd1eDRkTTNNZEs0SmdwM3pIM0lMY3d0MW5hbFBoX2c4SHVIaTVQOWJKRm1qNVhJbjlUMDlZYk1mNEgtUjdoQWJUYnNMcFVTdDRXMjNiN2pxeUNSTzBrWjcwVERDM2tsekFpaGt5SUJhWXd1dFJYZ3NLVVNVQXpsQ2U1bVAxdkhKUmNGSURrd0FackNZeVFQTDBpTWllZl9PSXloQ3ZiTThPM1ZlSXZVVV9OWmdtMFNmbzhfcGc1Q09VZ1ZuN3hTZFIzRENSREU2VzNGZzcyNlZMU0VSN0JpWTQ4U296RmNkV2gtVVpIczBSNjNYR0E0emhFUzJvSGdQWWk4Y0NYU2hLd3dBSGdlUEFESnNZM3kzYUhxc2FnMVhHTWdFdzcteXg0dzRUU2k5bzJVRVZzeDFmVG44ckstQ3hHaGc0dXhwTklOUW40dzllVld3R0wzM29kYkpI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 15:09:46",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "雲林縣議員參選人涉賄！交保胞兄為劉建國輔選大將 他怒批：納稅錢變個人恩惠 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOS2RaNGRDTjR4ME9CcG5PNVd2a2EtdjFjZEZHaGs3bHRCRzZBaUdRQ0xRWHZtZlpEWlBoMXQweFF5QVlWZkFPMDR6c2ZIcXpySjdUMEdNMDgyUFh3NUZhX2hDdzhVdVZSa3pqYUZrSkVpdThsWEdnd2Y3T0locUtrZDAwell2LWUydmVhdjkySTBVYXpyTTNUdlNsMjdCMy03ekNxbWw4UXpoMTU0MkZma3VjZGQzYmg4SU5QNGIxcVJ6ZDVTVl9xR1ZnYjc2QWQ2al93VGF4OVM4NW53MEJjMWpQY0RDMVpaLU5EM3AxSkZ4bFd2XzZwOURja3JIVDhRZHZKT2NpbVVfWjdFT0hURmFFOXlMd2t3LXBqUkkzU3QybkhKMF9TUVF4N0hNX0RFSS1pSnNuTExBSnFrQVZiV2tudmotWVN4U2lJUWFVbl9nbHdQdU1NUHAyNmV1NWZTdlhDeXpUOXVXTlNTYm1yZzJHLWJwV09GUGhudm4tbTM0c1NfeUUxYkFTVDRzUWJmcU5ydWY4QVdWU3diQTl4VTc4V1RKVkFyR1NzVDNGclZFZGVFS3dhOUhXbHR3ZDNxdHFSNy1TRWJNdW5INy1XTDhsZTVwOUVLbS1FanhiMkRSbGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 14:30:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "雲林藍營鐵三角成形！張嘉郡重磅宣示「建設不中斷」 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPcVZ5aDNIa1d2SHU3dldNblRBRVgtcGI2cUZHUTV1OEg0ZDNXU0w3UC01Vy1mY2VUUEJMQ014VzlPblB0dkQ5UTlyLU92S0gwMGZqTlBVUWd1VnE5eE5ucjMwRVFJdV9FcENNWHU5V3pGS3V4a1pNWUIxUjBDMDdKWFg2REJCOXd6bWNjUGF5U1IwWHJXb1J1WjBDb3kydFJLUG4wZGRIX2hIb3JRa1IxWHhNakRlb3VLdDFPMUVTVzc1X09PTGxzRkhScnRHamNPVl9La3c5M0hXU1ZFal9saU8zWko1RVF5dXBmcjBKWGpQQnc0LXpJM195d0lIUndjb3kxZE9FdXF1MzFQdWF4MjVvRm82MUhsODdQa2tWQk1KaFZBcUpka1JicW1XQmduc2h5VHFOekhDM1NCSUc5NzZxQTEtM1JXVWI1ODdoeGxsUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-03 14:25:15",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "與林森寳、謝憲昇形成大埤鐵三角 張嘉郡：讓建設延續、地方發展不中斷 - tw.news.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOTjhYNzMyUEVrU2FEZ0tfdFA0SXFFRThEa0g4REV1d3FIbF80bE1OREUzcVdjNWY3X20wdDBDeEh3Z1ZXNEtGQm5yQl90c0Q3ekJsa0JvMXh5bi1iVWlQLWd3Y2E5S3pXdU1GaHRJeFdlU3RULWZjQ0xDOWMtMzBMVGFvdmdtSlYyN0x3ci1JLVctbWR2dXM2c3E4MkNWQ1lsLVVsVG1sUnZxZWo5Z3BmemZLR0lSU3FVT05xb1JzVzhLX0VUeVBGUDVFSnFQQlgtZ1RHdnhuTFlVeXBUYkwtVDVZb2Z3ZXU3ZmlYb2lXOXFhbTJ3OGJmSmFtODdDTmFhYTlmOFJOS1pua0kxbjhxandzVG13VXE1SnZiQnNtY1liLThmcF8xRzJ2Uk1scS02cUlXVlhJVmJmdVk4SUQtWFRwVVhyMG1EdUFkUkVqRFhsN2FYaFhVdGhQc01uUlF1ZzB3TkhsQ0hRM2RPa25iSEV0Z2RrVVZ5dkJ0U1hKUFI5N0p2QUI2U19xTk04cG1QUm82cHdpVmttOXBrRUFORjFBaDlaMGR6MEZ4QzNXMm8waFJQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-03 14:13:51",
@@ -1676,13 +1765,13 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 3
+        "count": 5
       }
     ],
     "groups": [
       {
         "name": "工地/營造",
-        "count": 1
+        "count": 3
       }
     ]
   }
