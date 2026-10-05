@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-10-05T07:40:25.669905+00:00",
+  "generated_at": "2026-10-05T07:56:22.915438+00:00",
   "metrics": {
-    "total_24h": 25,
+    "total_24h": 29,
     "prev_24h": 51,
-    "growth_pct": -50.98,
-    "news_24h": 23,
+    "growth_pct": -43.14,
+    "news_24h": 25,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 257,
+    "total": 261,
     "prev": 175,
-    "growth_pct": 46.86,
-    "news": 228,
+    "growth_pct": 49.14,
+    "news": 230,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,17 +28,21 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 23
+      "count": 25
     },
     {
       "platform": "facebook",
+      "count": 2
+    },
+    {
+      "platform": "youtube",
       "count": 2
     }
   ],
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 228
+      "count": 230
     },
     {
       "platform": "facebook",
@@ -46,7 +50,7 @@
     },
     {
       "platform": "youtube",
-      "count": 12
+      "count": 14
     }
   ],
   "by_hour": [
@@ -80,15 +84,19 @@
     },
     {
       "hour": "2026-10-05 05:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-10-05 12:00",
-      "count": 5
+      "count": 6
     },
     {
       "hour": "2026-10-05 13:00",
-      "count": 3
+      "count": 4
+    },
+    {
+      "hour": "2026-10-05 14:00",
+      "count": 1
     }
   ],
   "by_hour_7d": [
@@ -426,25 +434,34 @@
     },
     {
       "hour": "2026-10-05 05:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-10-05 12:00",
-      "count": 5
+      "count": 6
     },
     {
       "hour": "2026-10-05 13:00",
-      "count": 3
+      "count": 4
+    },
+    {
+      "hour": "2026-10-05 14:00",
+      "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 23
+      "count": 25
     }
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "艾杰旭首度罷工 劉建國：做工會最堅強的後盾 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPdy1GcUF6U0RGell4X3ZaS3dWOEhnS3RNUWRqSTlIUHNkS0JTYVNfWFh6aDBOXzNSTHl1M3JpZ1ZPTlFfTGtjbjYyZEtLMlpEVW9fM25FMEtBZktBZFppemN2azdZYWY2TkZmZDdwa3ZEN3FBbXZrM0pNc2NiX3BydW1DQ0RUYXY0Y2U4d0FpOURoY1F6MUZiWWdQYXNJbzFnUDdXMDRXQ0w1RFF3WlVyVThpQzc5WWtPWmRWUnFjX082MmhlQ2pJQm5oeGdjR1Q4eUhod3BCR1h0N2VDcjJwcVlXWmdab1A3ZHhCdEsxaV9Cci1MWDdnY0FQXzI1Z2NTa3lXbU1qTGxBSVQyQmxwMXJId184NmNDMWJWY2Z5RW9ZS0s2MzE5UnRmWHlsREt3WW9IZHRZWEV5QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-05 14:50:44"
+      },
       {
         "title": "再現全國「詔安客」重鎮風華 張嘉郡拚AI教育、休閒農業六大行動 - udn",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aczVURWxXck1XYWxGaFBjcWt5N2lmVjB5UGpXa1otcjI4NzdhSlduRldwWnhhVWVEX2NyNmtIWVFHUVNORlBlTFJsT2JQRFlnb3lN0gFYQVVfeXFMT1FXZExmY2E4QXJ2QXphVUlKRWx1VmF2b0VYc2V4NkFYanRPQ1FrYnJRaVZzXzdqZ25jc3Y1V3pLdGYydUpIclF3WFViLWFxeFpRSGRfcjVfNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -488,6 +505,11 @@
       {
         "title": "劉世芳讚劉建國孝順 籲打破家族政治 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01ZEhXXy1IVjdhRHVRbHJEU01kekdjR2VqNmptYVQzMjRyTjJlR0V5dFdaR0hYWUFPVkotZ2pwSnc4ZzZ3bU10dV9hcXk2UFlpeUNYN1VDb3BmdGg5TnfSAWNBVV95cUxPX0J1ZzhWZ3NIeXpHd3NnMmg1QS1ISzUzbEpXRG1TdFNpMEVUN09NUll4WVZVTUFCU2FLTTN0MFdkTXlvbmFOM0kzUzBGNzNqOFk0QzRjR056R1VpSnJRWjJRUWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-05 05:30:00"
+      },
+      {
+        "title": "劉世芳讚劉建國孝順 籲打破家族政治 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQYTZWVWc0cWI2cmNQZGRyNThiNDFhX1pxM2pYdUxoMWdUZ3VLUFJPMXRQdnF6NExSb2xLOXBWRGhMZXkwZ2x4REktdU1HbF8xYzZJcG5MTVJkOWo3UW5VSldOWUsyY0ViVkVRb3ZOQ29iN25PcTJiZ01ybVVXTWc2d09zRFVmRm52LWpYOENVWnFIMXhhWHFzVDQ0bDFKM3lhWkZraVRlcG5mdUVsRjZZUGlxUmstamt6d2l0LVR3Y1k0NHd2ZmlLQWlqNVJGRkkwT0tQVkM1bi1hUGtlam5hWlVEa3RNa0VmU2VvT21ISnhoTUFIU1FmaUNRUzUtMmpLZkVmaHpkRzY0UUx3c0NuZkVnREQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-05 05:30:00"
       },
       {
@@ -565,11 +587,16 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 23
+      "count": 25
     }
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "艾杰旭首度罷工 劉建國：做工會最堅強的後盾 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPdy1GcUF6U0RGell4X3ZaS3dWOEhnS3RNUWRqSTlIUHNkS0JTYVNfWFh6aDBOXzNSTHl1M3JpZ1ZPTlFfTGtjbjYyZEtLMlpEVW9fM25FMEtBZktBZFppemN2azdZYWY2TkZmZDdwa3ZEN3FBbXZrM0pNc2NiX3BydW1DQ0RUYXY0Y2U4d0FpOURoY1F6MUZiWWdQYXNJbzFnUDdXMDRXQ0w1RFF3WlVyVThpQzc5WWtPWmRWUnFjX082MmhlQ2pJQm5oeGdjR1Q4eUhod3BCR1h0N2VDcjJwcVlXWmdab1A3ZHhCdEsxaV9Cci1MWDdnY0FQXzI1Z2NTa3lXbU1qTGxBSVQyQmxwMXJId184NmNDMWJWY2Z5RW9ZS0s2MzE5UnRmWHlsREt3WW9IZHRZWEV5QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-05 14:50:44"
+      },
       {
         "title": "再現全國「詔安客」重鎮風華 張嘉郡拚AI教育、休閒農業六大行動 - udn",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aczVURWxXck1XYWxGaFBjcWt5N2lmVjB5UGpXa1otcjI4NzdhSlduRldwWnhhVWVEX2NyNmtIWVFHUVNORlBlTFJsT2JQRFlnb3lN0gFYQVVfeXFMT1FXZExmY2E4QXJ2QXphVUlKRWx1VmF2b0VYc2V4NkFYanRPQ1FrYnJRaVZzXzdqZ25jc3Y1V3pLdGYydUpIclF3WFViLWFxeFpRSGRfcjVfNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -613,6 +640,11 @@
       {
         "title": "劉世芳讚劉建國孝順 籲打破家族政治 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01ZEhXXy1IVjdhRHVRbHJEU01kekdjR2VqNmptYVQzMjRyTjJlR0V5dFdaR0hYWUFPVkotZ2pwSnc4ZzZ3bU10dV9hcXk2UFlpeUNYN1VDb3BmdGg5TnfSAWNBVV95cUxPX0J1ZzhWZ3NIeXpHd3NnMmg1QS1ISzUzbEpXRG1TdFNpMEVUN09NUll4WVZVTUFCU2FLTTN0MFdkTXlvbmFOM0kzUzBGNzNqOFk0QzRjR056R1VpSnJRWjJRUWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-05 05:30:00"
+      },
+      {
+        "title": "劉世芳讚劉建國孝順 籲打破家族政治 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQYTZWVWc0cWI2cmNQZGRyNThiNDFhX1pxM2pYdUxoMWdUZ3VLUFJPMXRQdnF6NExSb2xLOXBWRGhMZXkwZ2x4REktdU1HbF8xYzZJcG5MTVJkOWo3UW5VSldOWUsyY0ViVkVRb3ZOQ29iN25PcTJiZ01ybVVXTWc2d09zRFVmRm52LWpYOENVWnFIMXhhWHFzVDQ0bDFKM3lhWkZraVRlcG5mdUVsRjZZUGlxUmstamt6d2l0LVR3Y1k0NHd2ZmlLQWlqNVJGRkkwT0tQVkM1bi1hUGtlam5hWlVEa3RNa0VmU2VvT21ISnhoTUFIU1FmaUNRUzUtMmpLZkVmaHpkRzY0UUx3c0NuZkVnREQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-05 05:30:00"
       },
       {
@@ -689,13 +721,18 @@
   },
   "mention_compare_24h": {
     "張嘉郡": 12,
-    "劉建國": 12
+    "劉建國": 14
   },
   "mention_compare_7d": {
     "張嘉郡": 171,
-    "劉建國": 93
+    "劉建國": 95
   },
   "top_news": [
+    {
+      "title": "艾杰旭首度罷工 劉建國：做工會最堅強的後盾 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPdy1GcUF6U0RGell4X3ZaS3dWOEhnS3RNUWRqSTlIUHNkS0JTYVNfWFh6aDBOXzNSTHl1M3JpZ1ZPTlFfTGtjbjYyZEtLMlpEVW9fM25FMEtBZktBZFppemN2azdZYWY2TkZmZDdwa3ZEN3FBbXZrM0pNc2NiX3BydW1DQ0RUYXY0Y2U4d0FpOURoY1F6MUZiWWdQYXNJbzFnUDdXMDRXQ0w1RFF3WlVyVThpQzc5WWtPWmRWUnFjX082MmhlQ2pJQm5oeGdjR1Q4eUhod3BCR1h0N2VDcjJwcVlXWmdab1A3ZHhCdEsxaV9Cci1MWDdnY0FQXzI1Z2NTa3lXbU1qTGxBSVQyQmxwMXJId184NmNDMWJWY2Z5RW9ZS0s2MzE5UnRmWHlsREt3WW9IZHRZWEV5QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-05 14:50:44"
+    },
     {
       "title": "再現全國「詔安客」重鎮風華 張嘉郡拚AI教育、休閒農業六大行動 - udn",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aczVURWxXck1XYWxGaFBjcWt5N2lmVjB5UGpXa1otcjI4NzdhSlduRldwWnhhVWVEX2NyNmtIWVFHUVNORlBlTFJsT2JQRFlnb3lN0gFYQVVfeXFMT1FXZExmY2E4QXJ2QXphVUlKRWx1VmF2b0VYc2V4NkFYanRPQ1FrYnJRaVZzXzdqZ25jc3Y1V3pLdGYydUpIclF3WFViLWFxeFpRSGRfcjVfNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -742,22 +779,22 @@
       "time": "2026-10-05 05:30:00"
     },
     {
+      "title": "劉世芳讚劉建國孝順 籲打破家族政治 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQYTZWVWc0cWI2cmNQZGRyNThiNDFhX1pxM2pYdUxoMWdUZ3VLUFJPMXRQdnF6NExSb2xLOXBWRGhMZXkwZ2x4REktdU1HbF8xYzZJcG5MTVJkOWo3UW5VSldOWUsyY0ViVkVRb3ZOQ29iN25PcTJiZ01ybVVXTWc2d09zRFVmRm52LWpYOENVWnFIMXhhWHFzVDQ0bDFKM3lhWkZraVRlcG5mdUVsRjZZUGlxUmstamt6d2l0LVR3Y1k0NHd2ZmlLQWlqNVJGRkkwT0tQVkM1bi1hUGtlam5hWlVEa3RNa0VmU2VvT21ISnhoTUFIU1FmaUNRUzUtMmpLZkVmaHpkRzY0UUx3c0NuZkVnREQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-05 05:30:00"
+    },
+    {
       "title": "劉建國四湖、崙背競總成立 拋AI農業與高齡照護政策 | 觀傳媒 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TOXNPWWMxRmVVNUFhdGU0VHVpYTZXUndTLUhvVUNlSjZIOThJQkRNaEY3ZWpyN0ZLTjk3bTBFRFhIWjRnNnNoeXluY29TeXZrRHhZck1B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-05 02:02:10"
-    },
-    {
-      "title": "臺西崙豐中央廚房動土 張嘉郡拋提高長青食堂補助政見 - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQRUQ0SGxYQktpXzJaZTRDcFZoZFhJc0l6QUFQSm12cjI3cGhRX2dWZmlZY1JHUmRKaDJ3b0lLMm5tMmk5alplRlVlbDBGemFKajRjdGpaYkJDLWdobjg3U2hjdHYzRm9zdDN6a0tCbTh0VnBXQURNUWoxUk9CTDZ3M1RMVG9VOEwzSUxEdE5XbndmaEE1ajM0Y2JhbWs0Zmw5LXhwVFdxLWxDVjJ6THBOWm5OTkt4dzhmTmtjSjJ1RkhONnlwVWk3ME9LRHhZbTdwWjJjalBYOHNucm9JamlZS212RURiZVZBMEZZMGxrdVJaUXRqTFQ5VER1LV9JRVQ0NmlpODlaaFRpbGdXTmlwMDRkeG1uaDVla09KbkdrakhGSXFndXV4UjZ6cnRuUmNaUzV3UmNUWGpwRDNrWDJQLWZZMjVjeGZJckVUbHA3RGJzUkNGQ3FZQ1dlQWNJbGFyRl9DbkpHRFMzV1BFY0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-05 01:25:24"
-    },
-    {
-      "title": "四湖崙背選戰升溫 劉建國喊海線發展、推65歲健保免費 - 元丰傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBycl9aZW55elYyU2FtT1hGSjJhem95NVQ5bm9aMVRJNEJLcVlOYXhlWDJ2Ukc4c0FOMUNLZTBMRFhMazl3bjBZV0QtOVFwNFRxOEhyZG10bERrUzY3UHVyclNrby13WU50?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-05 00:37:41"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "艾杰旭首度罷工 劉建國：做工會最堅強的後盾 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPdy1GcUF6U0RGell4X3ZaS3dWOEhnS3RNUWRqSTlIUHNkS0JTYVNfWFh6aDBOXzNSTHl1M3JpZ1ZPTlFfTGtjbjYyZEtLMlpEVW9fM25FMEtBZktBZFppemN2azdZYWY2TkZmZDdwa3ZEN3FBbXZrM0pNc2NiX3BydW1DQ0RUYXY0Y2U4d0FpOURoY1F6MUZiWWdQYXNJbzFnUDdXMDRXQ0w1RFF3WlVyVThpQzc5WWtPWmRWUnFjX082MmhlQ2pJQm5oeGdjR1Q4eUhod3BCR1h0N2VDcjJwcVlXWmdab1A3ZHhCdEsxaV9Cci1MWDdnY0FQXzI1Z2NTa3lXbU1qTGxBSVQyQmxwMXJId184NmNDMWJWY2Z5RW9ZS0s2MzE5UnRmWHlsREt3WW9IZHRZWEV5QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-05 14:50:44"
+    },
     {
       "title": "再現全國「詔安客」重鎮風華 張嘉郡拚AI教育、休閒農業六大行動 - udn",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aczVURWxXck1XYWxGaFBjcWt5N2lmVjB5UGpXa1otcjI4NzdhSlduRldwWnhhVWVEX2NyNmtIWVFHUVNORlBlTFJsT2JQRFlnb3lN0gFYQVVfeXFMT1FXZExmY2E4QXJ2QXphVUlKRWx1VmF2b0VYc2V4NkFYanRPQ1FrYnJRaVZzXzdqZ25jc3Y1V3pLdGYydUpIclF3WFViLWFxeFpRSGRfcjVfNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -801,6 +838,11 @@
     {
       "title": "劉世芳讚劉建國孝順 籲打破家族政治 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01ZEhXXy1IVjdhRHVRbHJEU01kekdjR2VqNmptYVQzMjRyTjJlR0V5dFdaR0hYWUFPVkotZ2pwSnc4ZzZ3bU10dV9hcXk2UFlpeUNYN1VDb3BmdGg5TnfSAWNBVV95cUxPX0J1ZzhWZ3NIeXpHd3NnMmg1QS1ISzUzbEpXRG1TdFNpMEVUN09NUll4WVZVTUFCU2FLTTN0MFdkTXlvbmFOM0kzUzBGNzNqOFk0QzRjR056R1VpSnJRWjJRUWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-05 05:30:00"
+    },
+    {
+      "title": "劉世芳讚劉建國孝順 籲打破家族政治 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQYTZWVWc0cWI2cmNQZGRyNThiNDFhX1pxM2pYdUxoMWdUZ3VLUFJPMXRQdnF6NExSb2xLOXBWRGhMZXkwZ2x4REktdU1HbF8xYzZJcG5MTVJkOWo3UW5VSldOWUsyY0ViVkVRb3ZOQ29iN25PcTJiZ01ybVVXTWc2d09zRFVmRm52LWpYOENVWnFIMXhhWHFzVDQ0bDFKM3lhWkZraVRlcG5mdUVsRjZZUGlxUmstamt6d2l0LVR3Y1k0NHd2ZmlLQWlqNVJGRkkwT0tQVkM1bi1hUGtlam5hWlVEa3RNa0VmU2VvT21ISnhoTUFIU1FmaUNRUzUtMmpLZkVmaHpkRzY0UUx3c0NuZkVnREQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-05 05:30:00"
     },
     {
@@ -847,16 +889,6 @@
       "title": "臺西崙豐部落中央廚房動土 張嘉郡：當選縣長研議提高長青食堂餐費補助 | 夏和宣 | 地方新聞 - Storm.mg",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QcURzUkNIcXRRRzdSWDFpRDdKZDByaUNfaHcyY3dNdmotU3U0YUNyWnl5Wnd2dHRKTjFLbVBQNkNGaHhfWHdFVWdfb1V1UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-04 19:09:21"
-    },
-    {
-      "title": "劉建國四湖、崙背競總成立張嘉郡出席中央廚房動土| 政治 - 中央社 CNA",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EbVU0S0t4TDVxR3Q2YzVVZ19hTXk5WXFFd2xaOG9kYTZRQWxBVkM0dC05bXd3aDR3SDJfX0JqOFhLLXdSMGhUZDNxQlNCeWV3VU9jYnBoc3JjUFVzTmg0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-04 17:18:00"
-    },
-    {
-      "title": "台西崙豐長青食堂中央廚房動工張嘉郡：當選縣長研議提高補助| 2026九合一選舉 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16LXdRZWx5MXE2MFBTUThtMnJPaGVUdGsybjVDWGd4cU91N0d6OTFHbUs0SXVyY2tzMnUxMjZROVpmTlN4SDRYVmk5MFVRd29tV0E5dnhhUUM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-04 17:16:13"
     }
   ],
   "latest_facebook_20": [
@@ -963,6 +995,11 @@
   ],
   "latest_news_20": [
     {
+      "title": "艾杰旭首度罷工 劉建國：做工會最堅強的後盾 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPdy1GcUF6U0RGell4X3ZaS3dWOEhnS3RNUWRqSTlIUHNkS0JTYVNfWFh6aDBOXzNSTHl1M3JpZ1ZPTlFfTGtjbjYyZEtLMlpEVW9fM25FMEtBZktBZFppemN2azdZYWY2TkZmZDdwa3ZEN3FBbXZrM0pNc2NiX3BydW1DQ0RUYXY0Y2U4d0FpOURoY1F6MUZiWWdQYXNJbzFnUDdXMDRXQ0w1RFF3WlVyVThpQzc5WWtPWmRWUnFjX082MmhlQ2pJQm5oeGdjR1Q4eUhod3BCR1h0N2VDcjJwcVlXWmdab1A3ZHhCdEsxaV9Cci1MWDdnY0FQXzI1Z2NTa3lXbU1qTGxBSVQyQmxwMXJId184NmNDMWJWY2Z5RW9ZS0s2MzE5UnRmWHlsREt3WW9IZHRZWEV5QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-05 14:50:44"
+    },
+    {
       "title": "再現全國「詔安客」重鎮風華 張嘉郡拚AI教育、休閒農業六大行動 - udn",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aczVURWxXck1XYWxGaFBjcWt5N2lmVjB5UGpXa1otcjI4NzdhSlduRldwWnhhVWVEX2NyNmtIWVFHUVNORlBlTFJsT2JQRFlnb3lN0gFYQVVfeXFMT1FXZExmY2E4QXJ2QXphVUlKRWx1VmF2b0VYc2V4NkFYanRPQ1FrYnJRaVZzXzdqZ25jc3Y1V3pLdGYydUpIclF3WFViLWFxeFpRSGRfcjVfNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-05 13:48:06"
@@ -1005,6 +1042,11 @@
     {
       "title": "劉世芳讚劉建國孝順 籲打破家族政治 - 自由時報",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01ZEhXXy1IVjdhRHVRbHJEU01kekdjR2VqNmptYVQzMjRyTjJlR0V5dFdaR0hYWUFPVkotZ2pwSnc4ZzZ3bU10dV9hcXk2UFlpeUNYN1VDb3BmdGg5TnfSAWNBVV95cUxPX0J1ZzhWZ3NIeXpHd3NnMmg1QS1ISzUzbEpXRG1TdFNpMEVUN09NUll4WVZVTUFCU2FLTTN0MFdkTXlvbmFOM0kzUzBGNzNqOFk0QzRjR056R1VpSnJRWjJRUWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-05 05:30:00"
+    },
+    {
+      "title": "劉世芳讚劉建國孝順 籲打破家族政治 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQYTZWVWc0cWI2cmNQZGRyNThiNDFhX1pxM2pYdUxoMWdUZ3VLUFJPMXRQdnF6NExSb2xLOXBWRGhMZXkwZ2x4REktdU1HbF8xYzZJcG5MTVJkOWo3UW5VSldOWUsyY0ViVkVRb3ZOQ29iN25PcTJiZ01ybVVXTWc2d09zRFVmRm52LWpYOENVWnFIMXhhWHFzVDQ0bDFKM3lhWkZraVRlcG5mdUVsRjZZUGlxUmstamt6d2l0LVR3Y1k0NHd2ZmlLQWlqNVJGRkkwT0tQVkM1bi1hUGtlam5hWlVEa3RNa0VmU2VvT21ISnhoTUFIU1FmaUNRUzUtMmpLZkVmaHpkRzY0UUx3c0NuZkVnREQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-05 05:30:00"
     },
     {
@@ -1051,16 +1093,6 @@
       "title": "臺西崙豐部落中央廚房動土 張嘉郡：當選縣長研議提高長青食堂餐費補助 | 夏和宣 | 地方新聞 - Storm.mg",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QcURzUkNIcXRRRzdSWDFpRDdKZDByaUNfaHcyY3dNdmotU3U0YUNyWnl5Wnd2dHRKTjFLbVBQNkNGaHhfWHdFVWdfb1V1UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-04 19:09:21"
-    },
-    {
-      "title": "劉建國四湖、崙背競總成立張嘉郡出席中央廚房動土| 政治 - 中央社 CNA",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EbVU0S0t4TDVxR3Q2YzVVZ19hTXk5WXFFd2xaOG9kYTZRQWxBVkM0dC05bXd3aDR3SDJfX0JqOFhLLXdSMGhUZDNxQlNCeWV3VU9jYnBoc3JjUFVzTmg0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-04 17:18:00"
-    },
-    {
-      "title": "台西崙豐長青食堂中央廚房動工張嘉郡：當選縣長研議提高補助| 2026九合一選舉 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16LXdRZWx5MXE2MFBTUThtMnJPaGVUdGsybjVDWGd4cU91N0d6OTFHbUs0SXVyY2tzMnUxMjZROVpmTlN4SDRYVmk5MFVRd29tV0E5dnhhUUM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-04 17:16:13"
     }
   ],
   "person_sections": {
@@ -1375,6 +1407,11 @@
       ],
       "news": [
         {
+          "title": "艾杰旭首度罷工 劉建國：做工會最堅強的後盾 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPdy1GcUF6U0RGell4X3ZaS3dWOEhnS3RNUWRqSTlIUHNkS0JTYVNfWFh6aDBOXzNSTHl1M3JpZ1ZPTlFfTGtjbjYyZEtLMlpEVW9fM25FMEtBZktBZFppemN2azdZYWY2TkZmZDdwa3ZEN3FBbXZrM0pNc2NiX3BydW1DQ0RUYXY0Y2U4d0FpOURoY1F6MUZiWWdQYXNJbzFnUDdXMDRXQ0w1RFF3WlVyVThpQzc5WWtPWmRWUnFjX082MmhlQ2pJQm5oeGdjR1Q4eUhod3BCR1h0N2VDcjJwcVlXWmdab1A3ZHhCdEsxaV9Cci1MWDdnY0FQXzI1Z2NTa3lXbU1qTGxBSVQyQmxwMXJId184NmNDMWJWY2Z5RW9ZS0s2MzE5UnRmWHlsREt3WW9IZHRZWEV5QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-10-05 14:50:44"
+        },
+        {
           "title": "雲林艾杰旭罷工首日爆推擠衝突 劉建國赴現場聲援：與勞工站在一起 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOTUNwczJLR0IwMnVaNDlGNXZqandKMW9keG1ZY2xzU3Y4S1QtTUpOYVdYajdfWmM1ZGZtRllHYmJ1c1hHSml0WHRqbUJEb0hnZEd5MWQ1NjRBU0NTVW5Fdk1XZE9YUDFDbzVUdjJtWjZqb2djQW5SR1V0c1pXcW5tMW95US1fN3RyZ19DeTJ0X2xNdHdiLXNYTW5JS0hHcFJ5OURzU1l3Z0piRG1OQzhpcWE4UU5OODFOUGFMVWpKcnFUNFRsdGRhVmY4dXhhUTJUMU1CWm9qYTQ2N1pva05hQXFfSHNKdGl1MlRYTlNsUGdCZkhDUjBZTUpKS09UQ2ZXSFBhXzVTMkxyY0FYSXJRWnNUUllBbFRBSFk0alVZSTdGYURkTEdtbVE2dXJvZXVUaUFGbDNDNXZLTjhQaW1ZMEhxSko4b3pjN2xxYUE2RlJzYmhvQWgzZmR1Zkp4WFhFT0NxRWlBQ1g3ZDdvN1l6QjhfMVJmajRVUEQ3aE13TnFoY3g0aWc1Q0FiM0szZS1fN2RCX1JJN0ZybGltZ19jZ2dSVk9DMlU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-05 13:26:15"
@@ -1402,6 +1439,11 @@
         {
           "title": "劉世芳讚劉建國孝順 籲打破家族政治 - 自由時報",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01ZEhXXy1IVjdhRHVRbHJEU01kekdjR2VqNmptYVQzMjRyTjJlR0V5dFdaR0hYWUFPVkotZ2pwSnc4ZzZ3bU10dV9hcXk2UFlpeUNYN1VDb3BmdGg5TnfSAWNBVV95cUxPX0J1ZzhWZ3NIeXpHd3NnMmg1QS1ISzUzbEpXRG1TdFNpMEVUN09NUll4WVZVTUFCU2FLTTN0MFdkTXlvbmFOM0kzUzBGNzNqOFk0QzRjR056R1VpSnJRWjJRUWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-10-05 05:30:00"
+        },
+        {
+          "title": "劉世芳讚劉建國孝順 籲打破家族政治 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQYTZWVWc0cWI2cmNQZGRyNThiNDFhX1pxM2pYdUxoMWdUZ3VLUFJPMXRQdnF6NExSb2xLOXBWRGhMZXkwZ2x4REktdU1HbF8xYzZJcG5MTVJkOWo3UW5VSldOWUsyY0ViVkVRb3ZOQ29iN25PcTJiZ01ybVVXTWc2d09zRFVmRm52LWpYOENVWnFIMXhhWHFzVDQ0bDFKM3lhWkZraVRlcG5mdUVsRjZZUGlxUmstamt6d2l0LVR3Y1k0NHd2ZmlLQWlqNVJGRkkwT0tQVkM1bi1hUGtlam5hWlVEa3RNa0VmU2VvT21ISnhoTUFIU1FmaUNRUzUtMmpLZkVmaHpkRzY0UUx3c0NuZkVnREQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-05 05:30:00"
         },
         {
@@ -1463,22 +1505,17 @@
           "title": "劉建國褒忠斗南成立競總 喊「張家八年不做建國來做」 - 元丰傳媒",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02Yl9objlHYnpmeVRUNHRZZ2daYUNmSE9zRXU3aExTUGJYZk5qcjRJY0Z4Q2haemNXNE5tNGU5ZTBEWnEtNFRmdHU1MFRxeDE4R3NGa3NhVzVKUEItNUlpb08zUUE4QXE5?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-04 04:29:32"
-        },
-        {
-          "title": "討論牆 | 韓國瑜站台挺張嘉郡接棒 前縣長蘇治芬大讚劉建國 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kTG9iSVV6RE1hLTBXaTVuWkthQkVqODlmeThhU1ExS3p4RHVtTWFJYTlvOVlHN0JzM1cwN053d3M4SVZTWk5ydkRrMURlNEx1QmFOSHp4SzE4N0pxell3d1NmYXI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-10-04 03:31:36"
-        },
-        {
-          "title": "味全2.7元夥伴獎金恐喊卡！劉建國出手協調三年不變 - 蕃新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByUUVlWS1nZl9BUkkwQlNBMm5ERkNIQlJFNFV1UFprZnVMNEQxT0Y2WUxKaDlvMm91SnJJWGpYb3pwdDJEc3V3aV9OY0lORnZSSVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-10-04 01:27:03"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "艾杰旭首度罷工 劉建國：做工會最堅強的後盾 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPdy1GcUF6U0RGell4X3ZaS3dWOEhnS3RNUWRqSTlIUHNkS0JTYVNfWFh6aDBOXzNSTHl1M3JpZ1ZPTlFfTGtjbjYyZEtLMlpEVW9fM25FMEtBZktBZFppemN2azdZYWY2TkZmZDdwa3ZEN3FBbXZrM0pNc2NiX3BydW1DQ0RUYXY0Y2U4d0FpOURoY1F6MUZiWWdQYXNJbzFnUDdXMDRXQ0w1RFF3WlVyVThpQzc5WWtPWmRWUnFjX082MmhlQ2pJQm5oeGdjR1Q4eUhod3BCR1h0N2VDcjJwcVlXWmdab1A3ZHhCdEsxaV9Cci1MWDdnY0FQXzI1Z2NTa3lXbU1qTGxBSVQyQmxwMXJId184NmNDMWJWY2Z5RW9ZS0s2MzE5UnRmWHlsREt3WW9IZHRZWEV5QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-05 14:50:44"
+      },
       {
         "title": "再現全國「詔安客」重鎮風華 張嘉郡拚AI教育、休閒農業六大行動 - udn",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aczVURWxXck1XYWxGaFBjcWt5N2lmVjB5UGpXa1otcjI4NzdhSlduRldwWnhhVWVEX2NyNmtIWVFHUVNORlBlTFJsT2JQRFlnb3lN0gFYQVVfeXFMT1FXZExmY2E4QXJ2QXphVUlKRWx1VmF2b0VYc2V4NkFYanRPQ1FrYnJRaVZzXzdqZ25jc3Y1V3pLdGYydUpIclF3WFViLWFxeFpRSGRfcjVfNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1522,6 +1559,11 @@
       {
         "title": "劉世芳讚劉建國孝順 籲打破家族政治 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01ZEhXXy1IVjdhRHVRbHJEU01kekdjR2VqNmptYVQzMjRyTjJlR0V5dFdaR0hYWUFPVkotZ2pwSnc4ZzZ3bU10dV9hcXk2UFlpeUNYN1VDb3BmdGg5TnfSAWNBVV95cUxPX0J1ZzhWZ3NIeXpHd3NnMmg1QS1ISzUzbEpXRG1TdFNpMEVUN09NUll4WVZVTUFCU2FLTTN0MFdkTXlvbmFOM0kzUzBGNzNqOFk0QzRjR056R1VpSnJRWjJRUWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-05 05:30:00"
+      },
+      {
+        "title": "劉世芳讚劉建國孝順 籲打破家族政治 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQYTZWVWc0cWI2cmNQZGRyNThiNDFhX1pxM2pYdUxoMWdUZ3VLUFJPMXRQdnF6NExSb2xLOXBWRGhMZXkwZ2x4REktdU1HbF8xYzZJcG5MTVJkOWo3UW5VSldOWUsyY0ViVkVRb3ZOQ29iN25PcTJiZ01ybVVXTWc2d09zRFVmRm52LWpYOENVWnFIMXhhWHFzVDQ0bDFKM3lhWkZraVRlcG5mdUVsRjZZUGlxUmstamt6d2l0LVR3Y1k0NHd2ZmlLQWlqNVJGRkkwT0tQVkM1bi1hUGtlam5hWlVEa3RNa0VmU2VvT21ISnhoTUFIU1FmaUNRUzUtMmpLZkVmaHpkRzY0UUx3c0NuZkVnREQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-05 05:30:00"
       },
       {
@@ -1606,10 +1648,27 @@
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhaGh3TU1RM0YwZWliWlVfajgwMWdLcFFmU3hMLUdlWHlKRjhWYlNsR3dUV1pqUWRfZkc5bC1LZWxXS3pnQy13YmotUkU0YXJPX0V0UFhudXRSaWMzNGlqQ2dSX0RHaWtEdzBGajN4cXU",
         "time": "2026-10-04 16:36:19"
       }
+    ],
+    "youtube": [
+      {
+        "title": "蔡康永現身洋流現場！范雲：歡迎所有立場的人來聽，但民主選舉不該騷擾任何人",
+        "url": "https://www.youtube.com/shorts/MFu78zIT_SE",
+        "time": "2026-10-05 13:37:08"
+      },
+      {
+        "title": "立院開議，40公民團體再次集結，齊聲呼籲藍白：為318萬基層弱勢福利，盡速通過追加預算！",
+        "url": "https://www.youtube.com/shorts/KKw7HF0ieF8",
+        "time": "2026-10-05 12:15:51"
+      }
     ]
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "艾杰旭首度罷工 劉建國：做工會最堅強的後盾 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPdy1GcUF6U0RGell4X3ZaS3dWOEhnS3RNUWRqSTlIUHNkS0JTYVNfWFh6aDBOXzNSTHl1M3JpZ1ZPTlFfTGtjbjYyZEtLMlpEVW9fM25FMEtBZktBZFppemN2azdZYWY2TkZmZDdwa3ZEN3FBbXZrM0pNc2NiX3BydW1DQ0RUYXY0Y2U4d0FpOURoY1F6MUZiWWdQYXNJbzFnUDdXMDRXQ0w1RFF3WlVyVThpQzc5WWtPWmRWUnFjX082MmhlQ2pJQm5oeGdjR1Q4eUhod3BCR1h0N2VDcjJwcVlXWmdab1A3ZHhCdEsxaV9Cci1MWDdnY0FQXzI1Z2NTa3lXbU1qTGxBSVQyQmxwMXJId184NmNDMWJWY2Z5RW9ZS0s2MzE5UnRmWHlsREt3WW9IZHRZWEV5QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-05 14:50:44"
+      },
       {
         "title": "再現全國「詔安客」重鎮風華 張嘉郡拚AI教育、休閒農業六大行動 - udn",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aczVURWxXck1XYWxGaFBjcWt5N2lmVjB5UGpXa1otcjI4NzdhSlduRldwWnhhVWVEX2NyNmtIWVFHUVNORlBlTFJsT2JQRFlnb3lN0gFYQVVfeXFMT1FXZExmY2E4QXJ2QXphVUlKRWx1VmF2b0VYc2V4NkFYanRPQ1FrYnJRaVZzXzdqZ25jc3Y1V3pLdGYydUpIclF3WFViLWFxeFpRSGRfcjVfNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1653,6 +1712,11 @@
       {
         "title": "劉世芳讚劉建國孝順 籲打破家族政治 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01ZEhXXy1IVjdhRHVRbHJEU01kekdjR2VqNmptYVQzMjRyTjJlR0V5dFdaR0hYWUFPVkotZ2pwSnc4ZzZ3bU10dV9hcXk2UFlpeUNYN1VDb3BmdGg5TnfSAWNBVV95cUxPX0J1ZzhWZ3NIeXpHd3NnMmg1QS1ISzUzbEpXRG1TdFNpMEVUN09NUll4WVZVTUFCU2FLTTN0MFdkTXlvbmFOM0kzUzBGNzNqOFk0QzRjR056R1VpSnJRWjJRUWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-05 05:30:00"
+      },
+      {
+        "title": "劉世芳讚劉建國孝順 籲打破家族政治 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQYTZWVWc0cWI2cmNQZGRyNThiNDFhX1pxM2pYdUxoMWdUZ3VLUFJPMXRQdnF6NExSb2xLOXBWRGhMZXkwZ2x4REktdU1HbF8xYzZJcG5MTVJkOWo3UW5VSldOWUsyY0ViVkVRb3ZOQ29iN25PcTJiZ01ybVVXTWc2d09zRFVmRm52LWpYOENVWnFIMXhhWHFzVDQ0bDFKM3lhWkZraVRlcG5mdUVsRjZZUGlxUmstamt6d2l0LVR3Y1k0NHd2ZmlLQWlqNVJGRkkwT0tQVkM1bi1hUGtlam5hWlVEa3RNa0VmU2VvT21ISnhoTUFIU1FmaUNRUzUtMmpLZkVmaHpkRzY0UUx3c0NuZkVnREQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-05 05:30:00"
       },
       {
@@ -1799,16 +1863,6 @@
         "title": "韓國瑜喊雲林「後發制人」劉建國反擊：鄉親等太久了 - 蕃新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Wb0VwSjAxakpNNE1zVUFaSTh0aG40dENvcC1MQ2JPZlc5MThtMTN4WjUzSm91YkM2eTlSS0xQdzFKNGxXS0cxRy1Pa1VxRzZpZWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-04 00:14:00"
-      },
-      {
-        "title": "韓國瑜陪張嘉郡連跑3宮廟 喊雲林「後發制人」拚高科技進駐 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSHlXeldwODJaMGVrVlNhT1IwU2xpNU42eVFQd2dnUEc2VFlHZVN6RVNpSER6T20yZDJMQ1RnR25oY2lLUHhzT25zU1JIUU1nWU1JejR0Qlh4QVhYRldjbWtLemNNOHJLaHlFSklGQzdzQTZ4MjI2dTRmTlI2ZW00SGJlRzd6LUl2QzNnRw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-04 00:12:19"
-      },
-      {
-        "title": "韓國瑜陪張嘉郡連跑3宮廟 喊雲林「後發制人」拚高科技進駐 - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNWjBaVFpBVzZTT2N2ZXF0Qm1vTVJXWkFpWGt2bjhUQ2UzU2ZwSlRZRmlrWGI1S0ttWjJtVFJuX01lRzNHN0RSXzZzdDVEd2pScGJmY05BYm9YRXc2VGxEUXBFeEhRYWlQYWExWEJodmJFQjVsa1lPQkpYOEpNQUowcEZRcUlFb3ZveWRKT1NiTmZybURudXV4MFNaeFI2NzVGVmVKR0kybndSdjhmWF9vcXg4Mi1udlB4S3g4N1M1bXVzSzRlVHJTems1ZWt1aURhWEFmZUhLSV9VUXh1cmFvNjRvVG5OOFV5SDNyQUx3OTV0clJheENrUlVMcjRGUnl1WEZNdnFSZl9YZGpGTTcteXBxTjBZVnNseGI2b3ZpV0NRcVlSYllydFlCTDhkMEtHdnF3MkJMd3ZydUpQU25mUWNyVjFxX200LTRoQVVFTG5PbEl3NVE0MG1SMnRnSGRrTjAxb0poZTFXdXR2eFdPcFVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-04 00:11:37"
       }
     ],
     "facebook": [
@@ -1900,6 +1954,16 @@
     ],
     "youtube": [
       {
+        "title": "蔡康永現身洋流現場！范雲：歡迎所有立場的人來聽，但民主選舉不該騷擾任何人",
+        "url": "https://www.youtube.com/shorts/MFu78zIT_SE",
+        "time": "2026-10-05 13:37:08"
+      },
+      {
+        "title": "立院開議，40公民團體再次集結，齊聲呼籲藍白：為318萬基層弱勢福利，盡速通過追加預算！",
+        "url": "https://www.youtube.com/shorts/KKw7HF0ieF8",
+        "time": "2026-10-05 12:15:51"
+      },
+      {
         "title": "雲林藍綠決戰!韓國瑜站台挺張嘉郡 蘇治芬大讚劉建國－民視新聞",
         "url": "https://www.youtube.com/shorts/-N9q5h-G65w",
         "time": "2026-10-03 19:19:53"
@@ -1966,10 +2030,24 @@
     "hour": [],
     "day": [
       {
+        "title": "艾杰旭首度罷工 劉建國：做工會最堅強的後盾 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPdy1GcUF6U0RGell4X3ZaS3dWOEhnS3RNUWRqSTlIUHNkS0JTYVNfWFh6aDBOXzNSTHl1M3JpZ1ZPTlFfTGtjbjYyZEtLMlpEVW9fM25FMEtBZktBZFppemN2azdZYWY2TkZmZDdwa3ZEN3FBbXZrM0pNc2NiX3BydW1DQ0RUYXY0Y2U4d0FpOURoY1F6MUZiWWdQYXNJbzFnUDdXMDRXQ0w1RFF3WlVyVThpQzc5WWtPWmRWUnFjX082MmhlQ2pJQm5oeGdjR1Q4eUhod3BCR1h0N2VDcjJwcVlXWmdab1A3ZHhCdEsxaV9Cci1MWDdnY0FQXzI1Z2NTa3lXbU1qTGxBSVQyQmxwMXJId184NmNDMWJWY2Z5RW9ZS0s2MzE5UnRmWHlsREt3WW9IZHRZWEV5QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-05 14:50:44",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "再現全國「詔安客」重鎮風華 張嘉郡拚AI教育、休閒農業六大行動 - udn",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aczVURWxXck1XYWxGaFBjcWt5N2lmVjB5UGpXa1otcjI4NzdhSlduRldwWnhhVWVEX2NyNmtIWVFHUVNORlBlTFJsT2JQRFlnb3lN0gFYQVVfeXFMT1FXZExmY2E4QXJ2QXphVUlKRWx1VmF2b0VYc2V4NkFYanRPQ1FrYnJRaVZzXzdqZ25jc3Y1V3pLdGYydUpIclF3WFViLWFxeFpRSGRfcjVfNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-05 13:48:06",
         "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "蔡康永現身洋流現場！范雲：歡迎所有立場的人來聽，但民主選舉不該騷擾任何人",
+        "url": "https://www.youtube.com/shorts/MFu78zIT_SE",
+        "time": "2026-10-05 13:37:08",
+        "platform": "youtube",
         "risk": "綠"
       },
       {
@@ -2022,8 +2100,22 @@
         "risk": "綠"
       },
       {
+        "title": "立院開議，40公民團體再次集結，齊聲呼籲藍白：為318萬基層弱勢福利，盡速通過追加預算！",
+        "url": "https://www.youtube.com/shorts/KKw7HF0ieF8",
+        "time": "2026-10-05 12:15:51",
+        "platform": "youtube",
+        "risk": "綠"
+      },
+      {
         "title": "劉世芳讚劉建國孝順 籲打破家族政治 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01ZEhXXy1IVjdhRHVRbHJEU01kekdjR2VqNmptYVQzMjRyTjJlR0V5dFdaR0hYWUFPVkotZ2pwSnc4ZzZ3bU10dV9hcXk2UFlpeUNYN1VDb3BmdGg5TnfSAWNBVV95cUxPX0J1ZzhWZ3NIeXpHd3NnMmg1QS1ISzUzbEpXRG1TdFNpMEVUN09NUll4WVZVTUFCU2FLTTN0MFdkTXlvbmFOM0kzUzBGNzNqOFk0QzRjR056R1VpSnJRWjJRUWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-05 05:30:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "劉世芳讚劉建國孝順 籲打破家族政治 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQYTZWVWc0cWI2cmNQZGRyNThiNDFhX1pxM2pYdUxoMWdUZ3VLUFJPMXRQdnF6NExSb2xLOXBWRGhMZXkwZ2x4REktdU1HbF8xYzZJcG5MTVJkOWo3UW5VSldOWUsyY0ViVkVRb3ZOQ29iN25PcTJiZ01ybVVXTWc2d09zRFVmRm52LWpYOENVWnFIMXhhWHFzVDQ0bDFKM3lhWkZraVRlcG5mdUVsRjZZUGlxUmstamt6d2l0LVR3Y1k0NHd2ZmlLQWlqNVJGRkkwT0tQVkM1bi1hUGtlam5hWlVEa3RNa0VmU2VvT21ISnhoTUFIU1FmaUNRUzUtMmpLZkVmaHpkRzY0UUx3c0NuZkVnREQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-05 05:30:00",
         "platform": "news",
         "risk": "綠"
@@ -2074,34 +2166,6 @@
         "title": "四湖崙背選戰升溫 劉建國喊海線發展、推65歲健保免費 - 元丰傳媒",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55SkN1eHF1MmFBMjh3ZTRRX2FmQlZTRmN4RUR0T0RXX19kTWotamJWc2dWakN4ejFOOU9OUlFaWFBNdFExckY1VmpETjRWNFdFYXl1R0ZPT2FXNjVhQWRIUjVFMDJwdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-04 23:32:51",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "崙豐部落中央廚房動土！張嘉郡提長青食堂補助　盼研議提高每餐30元 - ETtoday新聞雲",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VT2p0OEh1T0FTVUczelFmamZHbWx2UEQ3bDZDV2FOaEZ0X1ljWW5NWVFCaFdsTml6bGJJQ1BoNnJfX1piZjFwSmt6d2Z3ekhVb0JsUHN6YjY4QmFWUkHSAUtBVV95cUxQMEFFMEI0SXJHXzRDY1lDd2NSRG9JUUEwajhnaHF6c2hEb0FXTC12WDdVTFJUTEQwQ0lCbXNjRmtTUzlsNzZoUlpmVDQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-04 23:04:00",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "台西崙豐長青食堂中央廚房動工 張嘉郡：當選縣長研議提高補助 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc1dvNmhtRWNFbHJPWnJvbk5iamVYaTJCRGV6aXJaQlBsanJ0STRvVGVBRk1GTWdtdlU0Vjc0bTNERTRBVHRKNUhOM1U2a0VaellZYmlSc1JIMnozYXhnSTV5NG9hZFdQUE1wTkxVV1RfeGFwUjFpVUJMcFVzS3dMaNIBX0FVX3lxTE9Sa0xWQ2VWSjZQQUZsMER2bWp2UHoxSE84SWpSWEwwWGNyWTZjUUYtU0x5R1M4WEJoa05uUVlPOGFvUHJwcExBX3hoa25ETFkzaENtb1dfd1BMeWlrdTVZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-04 19:40:01",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "臺西崙豐部落中央廚房動土 張嘉郡：當選縣長研議提高長青食堂餐費補助 | 夏和宣 | 地方新聞 - Storm.mg",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QcURzUkNIcXRRRzdSWDFpRDdKZDByaUNfaHcyY3dNdmotU3U0YUNyWnl5Wnd2dHRKTjFLbVBQNkNGaHhfWHdFVWdfb1V1UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-04 19:09:21",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "劉建國四湖、崙背競總成立張嘉郡出席中央廚房動土| 政治 - 中央社 CNA",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EbVU0S0t4TDVxR3Q2YzVVZ19hTXk5WXFFd2xaOG9kYTZRQWxBVkM0dC05bXd3aDR3SDJfX0JqOFhLLXdSMGhUZDNxQlNCeWV3VU9jYnBoc3JjUFVzTmg0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-04 17:18:00",
         "platform": "news",
         "risk": "綠"
       }
