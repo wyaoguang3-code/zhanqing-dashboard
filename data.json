@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-10-06T12:29:36.526350+00:00",
+  "generated_at": "2026-10-06T12:48:01.976771+00:00",
   "metrics": {
-    "total_24h": 40,
+    "total_24h": 43,
     "prev_24h": 38,
-    "growth_pct": 5.26,
-    "news_24h": 32,
+    "growth_pct": 13.16,
+    "news_24h": 35,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 270,
-    "prev": 192,
-    "growth_pct": 40.62,
-    "news": 234,
+    "total": 273,
+    "prev": 191,
+    "growth_pct": 42.93,
+    "news": 237,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 32
+      "count": 35
     },
     {
       "platform": "facebook",
@@ -42,7 +42,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 234
+      "count": 237
     },
     {
       "platform": "facebook",
@@ -56,7 +56,7 @@
   "by_hour": [
     {
       "hour": "2026-10-06 00:00",
-      "count": 2
+      "count": 3
     },
     {
       "hour": "2026-10-06 04:00",
@@ -100,10 +100,14 @@
     },
     {
       "hour": "2026-10-06 18:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-10-06 19:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-10-06 20:00",
       "count": 1
     }
   ],
@@ -418,7 +422,7 @@
     },
     {
       "hour": "2026-10-06 00:00",
-      "count": 2
+      "count": 3
     },
     {
       "hour": "2026-10-06 04:00",
@@ -462,17 +466,21 @@
     },
     {
       "hour": "2026-10-06 18:00",
-      "count": 1
+      "count": 2
     },
     {
       "hour": "2026-10-06 19:00",
+      "count": 1
+    },
+    {
+      "hour": "2026-10-06 20:00",
       "count": 1
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 32
+      "count": 35
     },
     {
       "platform": "facebook",
@@ -486,9 +494,19 @@
   "mention_latest_by_platform_24h": {
     "news": [
       {
+        "title": "西螺濁水米首航澳洲！張嘉郡：拚年出口1200噸、拓展歐美市場 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xS3h2SWxqUk5aY0trbnIxQVNJM3NjZ0pFakJYYzEtbXE2LThzTkdpUWR5VU1Xa29KMjJWUmh3Uk84VVpCR1VjVHQ2Um84RjgzbVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-06 20:02:00"
+      },
+      {
         "title": "劉建國教育政見端「三愛」　校安、教師減負、孩子課後陪伴 - ETtoday新聞雲",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nMFVSVmdsNGg0bmhFSDR2R1VLQjFVZVhEUk9KbE56anB2VWVTVzd2d3pIMjljMVZBRHF5LTdRWmdRRTAzZVMwLThoTF9oSlRDdU9mTng3Qk1yb3k1aEHSAUtBVV95cUxOVzFEMjlvT25Tc3JXRk9HOVhDdjZtQ0RHbzBENUhVN0ZvRDNDcHgyRUg1UzFuTExFdjhWTU15SmdmclJScVNKUC12Qnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-06 19:03:00"
+      },
+      {
+        "title": "劉建國提教育政見張嘉郡見證西螺米外銷- 地方 - 華視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Gd3A5VkpMZW1yTUFqRk14ejBOMnBraE52Zm93RjNJQmVWYTg5NzBxcEVwSExMdUVOWWZQelNFMHZvR0Q1XzFfRU9XM3lnTDMzSWNHUHRzSlo4dUdzTUlmTWhPMFg4WDAxOUhVZHJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-06 18:01:37"
       },
       {
         "title": "雲林三愛 劉建國端教育政見:守護愛、減負愛、陪伴愛 - Yahoo新聞",
@@ -643,6 +661,11 @@
       {
         "title": "雲林選戰張嘉郡、劉建國現身挺罷工| 雲嘉南| 地方 - UDN",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41RHFQZ1JQLTVfZkxCRWRzbFFvRHFDWGtUVFQyZGVvZDhmMGNIcGNtYkliLWRuTE9CRy12Y2dCeENmZUYzWHNEYlI5VXlEdTlQbmlxTTgzOVM5dTZlT1dGOFJIZmJPOTE3VlB0anZMYzJoWDg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-06 00:00:00"
+      },
+      {
+        "title": "雲林選戰 張嘉郡、劉建國現身挺罷工 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wNnFUOWEwV1pDR1l1Qk04bDRqXzV2YXlyUDN0YnBfMkFTYWstMEZLUXVnZWxNTGdtQVRiNUdOV28wS1V1bGxQUXg0aXhQOEZjWS1ZZ0FaQmFLemN5T3lyd2tfNkNHcmlFUDlLTW9rUXF3TFJo0gFWQVVfeXFMUFRRNmhJODFKVGVKcUZnUXFIVURJamY4QzhrSk1KMlJ0a3ZTSDgtVWxlWWZMU3BYMnQ1MjRST2MxY1BqZzRra0N5MmFnUnhkNEN5WWZyaWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-06 00:00:00"
       }
     ],
@@ -689,7 +712,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 32
+      "count": 35
     },
     {
       "platform": "facebook",
@@ -703,9 +726,19 @@
   "alias_latest_by_platform_24h": {
     "news": [
       {
+        "title": "西螺濁水米首航澳洲！張嘉郡：拚年出口1200噸、拓展歐美市場 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xS3h2SWxqUk5aY0trbnIxQVNJM3NjZ0pFakJYYzEtbXE2LThzTkdpUWR5VU1Xa29KMjJWUmh3Uk84VVpCR1VjVHQ2Um84RjgzbVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-06 20:02:00"
+      },
+      {
         "title": "劉建國教育政見端「三愛」　校安、教師減負、孩子課後陪伴 - ETtoday新聞雲",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nMFVSVmdsNGg0bmhFSDR2R1VLQjFVZVhEUk9KbE56anB2VWVTVzd2d3pIMjljMVZBRHF5LTdRWmdRRTAzZVMwLThoTF9oSlRDdU9mTng3Qk1yb3k1aEHSAUtBVV95cUxOVzFEMjlvT25Tc3JXRk9HOVhDdjZtQ0RHbzBENUhVN0ZvRDNDcHgyRUg1UzFuTExFdjhWTU15SmdmclJScVNKUC12Qnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-06 19:03:00"
+      },
+      {
+        "title": "劉建國提教育政見張嘉郡見證西螺米外銷- 地方 - 華視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Gd3A5VkpMZW1yTUFqRk14ejBOMnBraE52Zm93RjNJQmVWYTg5NzBxcEVwSExMdUVOWWZQelNFMHZvR0Q1XzFfRU9XM3lnTDMzSWNHUHRzSlo4dUdzTUlmTWhPMFg4WDAxOUhVZHJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-06 18:01:37"
       },
       {
         "title": "雲林三愛 劉建國端教育政見:守護愛、減負愛、陪伴愛 - Yahoo新聞",
@@ -861,6 +894,11 @@
         "title": "雲林選戰張嘉郡、劉建國現身挺罷工| 雲嘉南| 地方 - UDN",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41RHFQZ1JQLTVfZkxCRWRzbFFvRHFDWGtUVFQyZGVvZDhmMGNIcGNtYkliLWRuTE9CRy12Y2dCeENmZUYzWHNEYlI5VXlEdTlQbmlxTTgzOVM5dTZlT1dGOFJIZmJPOTE3VlB0anZMYzJoWDg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-06 00:00:00"
+      },
+      {
+        "title": "雲林選戰 張嘉郡、劉建國現身挺罷工 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wNnFUOWEwV1pDR1l1Qk04bDRqXzV2YXlyUDN0YnBfMkFTYWstMEZLUXVnZWxNTGdtQVRiNUdOV28wS1V1bGxQUXg0aXhQOEZjWS1ZZ0FaQmFLemN5T3lyd2tfNkNHcmlFUDlLTW9rUXF3TFJo0gFWQVVfeXFMUFRRNmhJODFKVGVKcUZnUXFIVURJamY4QzhrSk1KMlJ0a3ZTSDgtVWxlWWZMU3BYMnQ1MjRST2MxY1BqZzRra0N5MmFnUnhkNEN5WWZyaWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-06 00:00:00"
       }
     ],
     "youtube": [
@@ -904,18 +942,28 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 9,
-    "劉建國": 33
+    "張嘉郡": 12,
+    "劉建國": 35
   },
   "mention_compare_7d": {
-    "張嘉郡": 152,
-    "劉建國": 123
+    "張嘉郡": 155,
+    "劉建國": 125
   },
   "top_news": [
+    {
+      "title": "西螺濁水米首航澳洲！張嘉郡：拚年出口1200噸、拓展歐美市場 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xS3h2SWxqUk5aY0trbnIxQVNJM3NjZ0pFakJYYzEtbXE2LThzTkdpUWR5VU1Xa29KMjJWUmh3Uk84VVpCR1VjVHQ2Um84RjgzbVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-06 20:02:00"
+    },
     {
       "title": "劉建國教育政見端「三愛」　校安、教師減負、孩子課後陪伴 - ETtoday新聞雲",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nMFVSVmdsNGg0bmhFSDR2R1VLQjFVZVhEUk9KbE56anB2VWVTVzd2d3pIMjljMVZBRHF5LTdRWmdRRTAzZVMwLThoTF9oSlRDdU9mTng3Qk1yb3k1aEHSAUtBVV95cUxOVzFEMjlvT25Tc3JXRk9HOVhDdjZtQ0RHbzBENUhVN0ZvRDNDcHgyRUg1UzFuTExFdjhWTU15SmdmclJScVNKUC12Qnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-06 19:03:00"
+    },
+    {
+      "title": "劉建國提教育政見張嘉郡見證西螺米外銷- 地方 - 華視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Gd3A5VkpMZW1yTUFqRk14ejBOMnBraE52Zm93RjNJQmVWYTg5NzBxcEVwSExMdUVOWWZQelNFMHZvR0Q1XzFfRU9XM3lnTDMzSWNHUHRzSlo4dUdzTUlmTWhPMFg4WDAxOUhVZHJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-06 18:01:37"
     },
     {
       "title": "雲林三愛 劉建國端教育政見:守護愛、減負愛、陪伴愛 - Yahoo新聞",
@@ -961,23 +1009,23 @@
       "title": "西螺濁水米首度外銷澳洲 張嘉郡：布局歐洲、中南美洲讓雲林農產走向國際 - 蕃新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51Z1V3cmtCc0pmNEVuVXFWemQxWnZNbDB3UWxpMEJSY01GbGlUbTZtM3V1bng1RGJqZkkyUVBmVmExQVdFT2RndmZXd1lqaU9ERUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-06 15:48:00"
-    },
-    {
-      "title": "藍營猛轟劉建國大將買票　逼賴清德辭競總主委道歉 - 三立新聞",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1M2ZlZndLU2c5Ym9GcG5UOTFqRlpGWUZ1N0pqd0JJSXBMVDlmOERFUTZfSzN3SmhXUHdaOGVETnQ4X3R1WWJQeNIBTEFVX3lxTFBPZVlUa2s2LUx0Zy1pdDFoZWlIYzM4UnVYeGZQYkVBRHN3dzVURnk3YkxfQkwtb29kSmRGS1NoNFRYWGlYSWh4NFV2TE8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-06 15:11:00"
-    },
-    {
-      "title": "雲林西螺米首度外銷澳洲 張嘉郡喊讚 - 中國評論新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tWll1WkpudHNtLUFEai1FRHU0SXNTTUlEV2JTbEZyMUZHREU5YWEtZEp1emhPdkt2MktXUmNBQzJvVEk2UFVnakMteHYwaG45TjhpOURQZjE0R0tjeTMxZm4zem9PeUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-06 14:31:23"
     }
   ],
   "top_news_7d": [
     {
+      "title": "西螺濁水米首航澳洲！張嘉郡：拚年出口1200噸、拓展歐美市場 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xS3h2SWxqUk5aY0trbnIxQVNJM3NjZ0pFakJYYzEtbXE2LThzTkdpUWR5VU1Xa29KMjJWUmh3Uk84VVpCR1VjVHQ2Um84RjgzbVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-06 20:02:00"
+    },
+    {
       "title": "劉建國教育政見端「三愛」　校安、教師減負、孩子課後陪伴 - ETtoday新聞雲",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nMFVSVmdsNGg0bmhFSDR2R1VLQjFVZVhEUk9KbE56anB2VWVTVzd2d3pIMjljMVZBRHF5LTdRWmdRRTAzZVMwLThoTF9oSlRDdU9mTng3Qk1yb3k1aEHSAUtBVV95cUxOVzFEMjlvT25Tc3JXRk9HOVhDdjZtQ0RHbzBENUhVN0ZvRDNDcHgyRUg1UzFuTExFdjhWTU15SmdmclJScVNKUC12Qnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-06 19:03:00"
+    },
+    {
+      "title": "劉建國提教育政見張嘉郡見證西螺米外銷- 地方 - 華視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Gd3A5VkpMZW1yTUFqRk14ejBOMnBraE52Zm93RjNJQmVWYTg5NzBxcEVwSExMdUVOWWZQelNFMHZvR0Q1XzFfRU9XM3lnTDMzSWNHUHRzSlo4dUdzTUlmTWhPMFg4WDAxOUhVZHJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-06 18:01:37"
     },
     {
       "title": "雲林三愛 劉建國端教育政見:守護愛、減負愛、陪伴愛 - Yahoo新聞",
@@ -1063,16 +1111,6 @@
       "title": "劉建國輔選大將涉賄選 藍黨團喊道歉說明：賴清德辭競總主委| 政治焦點 - taisounds.com",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zOVl5SjM3NGtraUNsV0UyTk8xeENzQlVHZXRxaXBsWU1VbGo5azNzYWNYaGFzLXBndGtHSFlIcml1aVgxVEdwN25EWm1uSm5IZEdGVEpwSVVLajc1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-06 13:53:52"
-    },
-    {
-      "title": "雲林綠選將賄選遭押 藍要求賴清德、劉建國公開道歉 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNbFY4S3hBNENsTVFDbVRZUWRCdy1FanYxSjBfbkwxQlBSMk1tT3M2OXBPQmhDQXhCeVhmYUNDQ3hRN1lYVkFaWG96cnRaSzVfMzZrZzFHNDZWUkZRTTR1d200Vks5YTNxVmxUeThiRUpzUnBfQWg2YU9wZHl5dEJfUTZmZWZGZTZUYThDR1RuT0dMeUFtcTZlZDJkQ3VEbDZsbExPODB6LXJsOUFCWFdDbUJmQ0dSWkRTSlNlZkpXa3RIWmt4aEQyemJlMHh1MTFDeGtydUlQbTBsaTAxZDh0R0plNXVjc3kzUEVjemFCLWRBUUxSMmhncHJjRWgtZFo2cFBLMERSbmpiWnV4ZVdLLVhmaG1VUW5IMks0Tm1WOUcxdkJrVkdxeVVrNUJ3c19ibzlQVU1HT0Q1NkdnZFNMYlkwSG40YmloMzRyNEFZUUxteXQ1Y0gzcVlhRjE0dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-06 13:38:47"
-    },
-    {
-      "title": "劉建國輔選大將涉賄選 國民黨團：道歉說明、別想切割 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQNjZRRGRPQVNrU28yM01yTXl4Z3VhVjBfeWtDbHA0QnJ0c2kzVFdDMlZsd3h4STlvNDMwUUFJWEdSY2loM3Vla3NyQVV6MGtndzF5WXF0ZVJ0MjJ2Mi1qandhaUd0U1JnRUpxTUNyRnE1VDRZOFFLcHo0anRzc1FfZjE1VldzVXc3bmxaT1EyWEtqTDdtLW5OWDhXM3hjNlJFQlZybFVtdGp5QTg3VWlOYVZILWNIVFJvN29WTFlYQ0xHMFRPVXcwNENFNVg1cVRMSjJHS3FMdHVDTHNTSF9OM3Bfc0VQcmNoRzVHVHN4QlppMVo5eGdKU0l5YkYwbFE4d1h1Qm9RLXdOUm43ck5od1Y3RGYxTTl5UmJVVUh6aTRVbXdvMzZpQ2hMY1A5U055am1JVldFaWVkbUUxeWw2bS1HOGtFczlPTUtOSXdwWl9CTzNZOEhWTl84S0RwV2s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-06 13:25:36"
     }
   ],
   "latest_facebook_20": [
@@ -1179,9 +1217,19 @@
   ],
   "latest_news_20": [
     {
+      "title": "西螺濁水米首航澳洲！張嘉郡：拚年出口1200噸、拓展歐美市場 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xS3h2SWxqUk5aY0trbnIxQVNJM3NjZ0pFakJYYzEtbXE2LThzTkdpUWR5VU1Xa29KMjJWUmh3Uk84VVpCR1VjVHQ2Um84RjgzbVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-06 20:02:00"
+    },
+    {
       "title": "劉建國教育政見端「三愛」　校安、教師減負、孩子課後陪伴 - ETtoday新聞雲",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nMFVSVmdsNGg0bmhFSDR2R1VLQjFVZVhEUk9KbE56anB2VWVTVzd2d3pIMjljMVZBRHF5LTdRWmdRRTAzZVMwLThoTF9oSlRDdU9mTng3Qk1yb3k1aEHSAUtBVV95cUxOVzFEMjlvT25Tc3JXRk9HOVhDdjZtQ0RHbzBENUhVN0ZvRDNDcHgyRUg1UzFuTExFdjhWTU15SmdmclJScVNKUC12Qnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-06 19:03:00"
+    },
+    {
+      "title": "劉建國提教育政見張嘉郡見證西螺米外銷- 地方 - 華視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Gd3A5VkpMZW1yTUFqRk14ejBOMnBraE52Zm93RjNJQmVWYTg5NzBxcEVwSExMdUVOWWZQelNFMHZvR0Q1XzFfRU9XM3lnTDMzSWNHUHRzSlo4dUdzTUlmTWhPMFg4WDAxOUhVZHJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-06 18:01:37"
     },
     {
       "title": "雲林三愛 劉建國端教育政見:守護愛、減負愛、陪伴愛 - Yahoo新聞",
@@ -1267,16 +1315,6 @@
       "title": "劉建國輔選大將涉賄選 藍黨團喊道歉說明：賴清德辭競總主委| 政治焦點 - taisounds.com",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zOVl5SjM3NGtraUNsV0UyTk8xeENzQlVHZXRxaXBsWU1VbGo5azNzYWNYaGFzLXBndGtHSFlIcml1aVgxVEdwN25EWm1uSm5IZEdGVEpwSVVLajc1?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-06 13:53:52"
-    },
-    {
-      "title": "雲林綠選將賄選遭押 藍要求賴清德、劉建國公開道歉 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNbFY4S3hBNENsTVFDbVRZUWRCdy1FanYxSjBfbkwxQlBSMk1tT3M2OXBPQmhDQXhCeVhmYUNDQ3hRN1lYVkFaWG96cnRaSzVfMzZrZzFHNDZWUkZRTTR1d200Vks5YTNxVmxUeThiRUpzUnBfQWg2YU9wZHl5dEJfUTZmZWZGZTZUYThDR1RuT0dMeUFtcTZlZDJkQ3VEbDZsbExPODB6LXJsOUFCWFdDbUJmQ0dSWkRTSlNlZkpXa3RIWmt4aEQyemJlMHh1MTFDeGtydUlQbTBsaTAxZDh0R0plNXVjc3kzUEVjemFCLWRBUUxSMmhncHJjRWgtZFo2cFBLMERSbmpiWnV4ZVdLLVhmaG1VUW5IMks0Tm1WOUcxdkJrVkdxeVVrNUJ3c19ibzlQVU1HT0Q1NkdnZFNMYlkwSG40YmloMzRyNEFZUUxteXQ1Y0gzcVlhRjE0dw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-06 13:38:47"
-    },
-    {
-      "title": "劉建國輔選大將涉賄選 國民黨團：道歉說明、別想切割 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQNjZRRGRPQVNrU28yM01yTXl4Z3VhVjBfeWtDbHA0QnJ0c2kzVFdDMlZsd3h4STlvNDMwUUFJWEdSY2loM3Vla3NyQVV6MGtndzF5WXF0ZVJ0MjJ2Mi1qandhaUd0U1JnRUpxTUNyRnE1VDRZOFFLcHo0anRzc1FfZjE1VldzVXc3bmxaT1EyWEtqTDdtLW5OWDhXM3hjNlJFQlZybFVtdGp5QTg3VWlOYVZILWNIVFJvN29WTFlYQ0xHMFRPVXcwNENFNVg1cVRMSjJHS3FMdHVDTHNTSF9OM3Bfc0VQcmNoRzVHVHN4QlppMVo5eGdKU0l5YkYwbFE4d1h1Qm9RLXdOUm43ck5od1Y3RGYxTTl5UmJVVUh6aTRVbXdvMzZpQ2hMY1A5U055am1JVldFaWVkbUUxeWw2bS1HOGtFczlPTUtOSXdwWl9CTzNZOEhWTl84S0RwV2s?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-06 13:25:36"
     }
   ],
   "person_sections": {
@@ -1385,6 +1423,16 @@
       ],
       "news": [
         {
+          "title": "西螺濁水米首航澳洲！張嘉郡：拚年出口1200噸、拓展歐美市場 - 蕃新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xS3h2SWxqUk5aY0trbnIxQVNJM3NjZ0pFakJYYzEtbXE2LThzTkdpUWR5VU1Xa29KMjJWUmh3Uk84VVpCR1VjVHQ2Um84RjgzbVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-10-06 20:02:00"
+        },
+        {
+          "title": "劉建國提教育政見張嘉郡見證西螺米外銷- 地方 - 華視新聞網",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Gd3A5VkpMZW1yTUFqRk14ejBOMnBraE52Zm93RjNJQmVWYTg5NzBxcEVwSExMdUVOWWZQelNFMHZvR0Q1XzFfRU9XM3lnTDMzSWNHUHRzSlo4dUdzTUlmTWhPMFg4WDAxOUhVZHJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-10-06 18:01:37"
+        },
+        {
           "title": "西螺濁水米首度外銷澳洲35噸 張嘉郡看好將佈局歐洲、 中南美洲 - 匯流新聞網",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rZXZoelRwSWptcUVDeFNRN0R2SlNPMVNWbF95Nkx4cUxIbjM2X1duYS0zSDZDLW9VUTZDWjRGRi1qQ3ZjZHNUVmNn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-06 16:58:32"
@@ -1422,6 +1470,11 @@
         {
           "title": "雲林選戰張嘉郡、劉建國現身挺罷工| 雲嘉南| 地方 - UDN",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41RHFQZ1JQLTVfZkxCRWRzbFFvRHFDWGtUVFQyZGVvZDhmMGNIcGNtYkliLWRuTE9CRy12Y2dCeENmZUYzWHNEYlI5VXlEdTlQbmlxTTgzOVM5dTZlT1dGOFJIZmJPOTE3VlB0anZMYzJoWDg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-10-06 00:00:00"
+        },
+        {
+          "title": "雲林選戰 張嘉郡、劉建國現身挺罷工 - UDN",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wNnFUOWEwV1pDR1l1Qk04bDRqXzV2YXlyUDN0YnBfMkFTYWstMEZLUXVnZWxNTGdtQVRiNUdOV28wS1V1bGxQUXg0aXhQOEZjWS1ZZ0FaQmFLemN5T3lyd2tfNkNHcmlFUDlLTW9rUXF3TFJo0gFWQVVfeXFMUFRRNmhJODFKVGVKcUZnUXFIVURJamY4QzhrSk1KMlJ0a3ZTSDgtVWxlWWZMU3BYMnQ1MjRST2MxY1BqZzRra0N5MmFnUnhkNEN5WWZyaWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-06 00:00:00"
         },
         {
@@ -1468,21 +1521,6 @@
           "title": "張嘉郡崙背6政見獲力挺 打造親子館、AI教育、拚休閒農業發展 - PChome Online新聞",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeWgwQmpTNVprUWVjb1ZWaUdfWHVXY3UySDdYbHNkb3JBY3RPZlJFaHZhRmdLYnB1SHlDS3dxeDVpZ0xuODRBVFBsV2JZeG81RzN2WjhiQXVVekZHSUIwSW4wMFBQQl9WSjc3NXJCR2JFWTc1R2pReWxDdFNWaGFYNjVFOVVaUlRKUEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-05 13:15:18"
-        },
-        {
-          "title": "張嘉郡發布「再造崙背風華」六大行動 打造崙背新樣貌 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQOVJ5dWk4RlBIMkREV1B5Tlg0eGo2c1ZrV2ROM0tPaEtOSjM0RnU5U21YX3loUmJ6SGdXOE1YaHo0Vi1tQmtHeGU4T1lZZFUyOVM4SC11YjRqQkhzYWFaWVYxZFNVenAzTXdUclpXbm1nM1FLUm1IcW1EODVmUklETWtZRUY3UXB5RlM4VGcwMU85dnFaZnhCSVEtVGNTd3VqZDlzeHpOOU9EMHVwbFZnNHBKVGwtU1FkdmNuNXE4Y3c5TlUycDJfR2ttTlV6WjdIVlJWUkxyZlA0c3lJUkxJMV93SnRmc3FucTZfV19iYlJxbXJqdUF2aEtjQS1FRUZRMlNFWG1GTU10eGdqUmUzcGE1LVBQbjZFUUl3MVl0OHZuRUx0VGYyNk44RlYyWDBuRDgwYVNVUloxOTlPU2JpczJXekM4NVRKTUd6UUZ3UWtxYVlYa1RlRjZjVmcxMzQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-10-05 12:54:05"
-        },
-        {
-          "title": "臺西崙豐中央廚房動土 張嘉郡拋提高長青食堂補助政見 | 觀傳媒 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jUFRhOEZtSVE4WnVfd3Qyc0F1dlBXQzdxdWo0Qmt3VzRLejBuVGtuQWZ0Y1ZFaEZsbEJLOE10TERoZldJbExPMC11cHFYR0pCZngtLXFn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-10-05 02:02:09"
-        },
-        {
-          "title": "臺西崙豐中央廚房動土 張嘉郡拋提高長青食堂補助政見 - Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQRUQ0SGxYQktpXzJaZTRDcFZoZFhJc0l6QUFQSm12cjI3cGhRX2dWZmlZY1JHUmRKaDJ3b0lLMm5tMmk5alplRlVlbDBGemFKajRjdGpaYkJDLWdobjg3U2hjdHYzRm9zdDN6a0tCbTh0VnBXQURNUWoxUk9CTDZ3M1RMVG9VOEwzSUxEdE5XbndmaEE1ajM0Y2JhbWs0Zmw5LXhwVFdxLWxDVjJ6THBOWm5OTkt4dzhmTmtjSjJ1RkhONnlwVWk3ME9LRHhZbTdwWjJjalBYOHNucm9JamlZS212RURiZVZBMEZZMGxrdVJaUXRqTFQ5VER1LV9JRVQ0NmlpODlaaFRpbGdXTmlwMDRkeG1uaDVla09KbkdrakhGSXFndXV4UjZ6cnRuUmNaUzV3UmNUWGpwRDNrWDJQLWZZMjVjeGZJckVUbHA3RGJzUkNGQ3FZQ1dlQWNJbGFyRl9DbkpHRFMzV1BFY0E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-10-05 01:25:24"
         }
       ]
     },
@@ -1596,6 +1634,11 @@
           "time": "2026-10-06 19:03:00"
         },
         {
+          "title": "劉建國提教育政見張嘉郡見證西螺米外銷- 地方 - 華視新聞網",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Gd3A5VkpMZW1yTUFqRk14ejBOMnBraE52Zm93RjNJQmVWYTg5NzBxcEVwSExMdUVOWWZQelNFMHZvR0Q1XzFfRU9XM3lnTDMzSWNHUHRzSlo4dUdzTUlmTWhPMFg4WDAxOUhVZHJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-10-06 18:01:37"
+        },
+        {
           "title": "雲林三愛 劉建國端教育政見:守護愛、減負愛、陪伴愛 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOU2Uyc0s4ZEZfQ1pwd0lIcU5DTm5xcGJreUpSUldBZW45OFBwLVpyNS1jd0NkRmY1MDBtXzJidV8wYUtVSkd5M0F4WHRObFZvUTdoTWpoVUdrOFBhZ0hjXzV6TFlYM2NERE5yY0ZrN0tkdHFmcEgyazNVMThsQXN5eXRkN1l2U3hoYXZyYUtkcDM1ZjRFdXhuZTdCMVN1UlhPcmFWNUtFbWFvdmEzYWl5Uy15QnVjTVZQZXFRVXhoT2Q0X1A5RzJYb0daUEp2RUo3WDhjS3pZVXplWlEtZXQtRVpXckkxdG1mS1g5OEM5OGdWYjQ0U0R3QlQzNjZCRk5kYVFCN0NaUGxvdUJzNzl3VWNVQXc4SHpudFZtcjRNNEd1ckdPcTFha3hRNGhnWk93WkxqYXEzeHNEYjBhRExOcm1ROEZmNXBKVUlkVG83blRRZXpE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-06 17:34:03"
@@ -1684,11 +1727,6 @@
           "title": "綠雲林黨部執行長涉賄 藍黨團要劉建國道歉、賴清德辭競總主委 - UDN",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45WHZ2RTVjV1lUQXU3U2NTdG1ldDBhYmRtbzNPODRNalNONHUyTldxa2xrMkp1WnJfdDJwMC1WcXRUU0RVVnFtaWRvUGZkaXd40gFWQVVfeXFMTXg3akFDSVBZX3lsWjRuejZ1ZlZfR2JhckstS00xa1o4SGd1MHVxR0VaRWM0clhYR1dIZlV5alBaV2pmOVhuTW9VNGRneW5iSVRwWTVyVGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-06 11:38:56"
-        },
-        {
-          "title": "LIVE／雲林人快看！劉建國今早舉辦政見發布會 霸氣喊話：縮短城鄉差距 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQR3hvdzktVE92NFUwazZfMnRnZGZabHE2V1F2d1dOeTQ0OGpBNEtNdFhIWGk3d3A3N2hHaFVINGNOX3JDeko2M2R6akk1cmxJa0FZZ1lRUDkxUVV4TlVwcVllRHJiSm1ncGZnZ2I0aWM5eWFubWlIS2htTDQycWJkdEdYMExhOFkwUkxPTl9pendWTmJNYjJhczliX000LUlBNEFMSTByd3I1R1lGZHQ4YzdTNlZpYzNhVkw4X1dRRzRGVGFNNEVoUUNuREp0N1haVDliaVEyV2lHZFRtR2UzR2l0N2tkbURaOFNiQWFWbUhrM0oydndHN3hrV3RaM1ByT0xpOFFlT3BSVEplcF94bzQ3blBKZmZyUHlGZlRXMm0tUUU5Tkx5M012Zk82Ymg4dkVNb2tiUXg1YUZpeUVjbnpzb0tRMHprTXg3c2tnNDBfWUM0ZURaM1Y3MzNfRnJQaFhheEZYNVJxZmREblRTY29TYUJPQ3dQRHZyQ0xudS0tUmljSHZBSWlNOGJTX2pQYi1DQ3g3MFllaFEycXBia2JB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-10-06 11:13:30"
         }
       ]
     }
@@ -1696,9 +1734,19 @@
   "latest_by_platform_24h": {
     "news": [
       {
+        "title": "西螺濁水米首航澳洲！張嘉郡：拚年出口1200噸、拓展歐美市場 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xS3h2SWxqUk5aY0trbnIxQVNJM3NjZ0pFakJYYzEtbXE2LThzTkdpUWR5VU1Xa29KMjJWUmh3Uk84VVpCR1VjVHQ2Um84RjgzbVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-06 20:02:00"
+      },
+      {
         "title": "劉建國教育政見端「三愛」　校安、教師減負、孩子課後陪伴 - ETtoday新聞雲",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nMFVSVmdsNGg0bmhFSDR2R1VLQjFVZVhEUk9KbE56anB2VWVTVzd2d3pIMjljMVZBRHF5LTdRWmdRRTAzZVMwLThoTF9oSlRDdU9mTng3Qk1yb3k1aEHSAUtBVV95cUxOVzFEMjlvT25Tc3JXRk9HOVhDdjZtQ0RHbzBENUhVN0ZvRDNDcHgyRUg1UzFuTExFdjhWTU15SmdmclJScVNKUC12Qnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-06 19:03:00"
+      },
+      {
+        "title": "劉建國提教育政見張嘉郡見證西螺米外銷- 地方 - 華視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Gd3A5VkpMZW1yTUFqRk14ejBOMnBraE52Zm93RjNJQmVWYTg5NzBxcEVwSExMdUVOWWZQelNFMHZvR0Q1XzFfRU9XM3lnTDMzSWNHUHRzSlo4dUdzTUlmTWhPMFg4WDAxOUhVZHJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-06 18:01:37"
       },
       {
         "title": "雲林三愛 劉建國端教育政見:守護愛、減負愛、陪伴愛 - Yahoo新聞",
@@ -1853,6 +1901,11 @@
       {
         "title": "雲林選戰張嘉郡、劉建國現身挺罷工| 雲嘉南| 地方 - UDN",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41RHFQZ1JQLTVfZkxCRWRzbFFvRHFDWGtUVFQyZGVvZDhmMGNIcGNtYkliLWRuTE9CRy12Y2dCeENmZUYzWHNEYlI5VXlEdTlQbmlxTTgzOVM5dTZlT1dGOFJIZmJPOTE3VlB0anZMYzJoWDg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-06 00:00:00"
+      },
+      {
+        "title": "雲林選戰 張嘉郡、劉建國現身挺罷工 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wNnFUOWEwV1pDR1l1Qk04bDRqXzV2YXlyUDN0YnBfMkFTYWstMEZLUXVnZWxNTGdtQVRiNUdOV28wS1V1bGxQUXg0aXhQOEZjWS1ZZ0FaQmFLemN5T3lyd2tfNkNHcmlFUDlLTW9rUXF3TFJo0gFWQVVfeXFMUFRRNmhJODFKVGVKcUZnUXFIVURJamY4QzhrSk1KMlJ0a3ZTSDgtVWxlWWZMU3BYMnQ1MjRST2MxY1BqZzRra0N5MmFnUnhkNEN5WWZyaWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-06 00:00:00"
       }
     ],
@@ -1904,9 +1957,19 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "西螺濁水米首航澳洲！張嘉郡：拚年出口1200噸、拓展歐美市場 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xS3h2SWxqUk5aY0trbnIxQVNJM3NjZ0pFakJYYzEtbXE2LThzTkdpUWR5VU1Xa29KMjJWUmh3Uk84VVpCR1VjVHQ2Um84RjgzbVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-06 20:02:00"
+      },
+      {
         "title": "劉建國教育政見端「三愛」　校安、教師減負、孩子課後陪伴 - ETtoday新聞雲",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nMFVSVmdsNGg0bmhFSDR2R1VLQjFVZVhEUk9KbE56anB2VWVTVzd2d3pIMjljMVZBRHF5LTdRWmdRRTAzZVMwLThoTF9oSlRDdU9mTng3Qk1yb3k1aEHSAUtBVV95cUxOVzFEMjlvT25Tc3JXRk9HOVhDdjZtQ0RHbzBENUhVN0ZvRDNDcHgyRUg1UzFuTExFdjhWTU15SmdmclJScVNKUC12Qnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-06 19:03:00"
+      },
+      {
+        "title": "劉建國提教育政見張嘉郡見證西螺米外銷- 地方 - 華視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Gd3A5VkpMZW1yTUFqRk14ejBOMnBraE52Zm93RjNJQmVWYTg5NzBxcEVwSExMdUVOWWZQelNFMHZvR0Q1XzFfRU9XM3lnTDMzSWNHUHRzSlo4dUdzTUlmTWhPMFg4WDAxOUhVZHJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-06 18:01:37"
       },
       {
         "title": "雲林三愛 劉建國端教育政見:守護愛、減負愛、陪伴愛 - Yahoo新聞",
@@ -2064,6 +2127,11 @@
         "time": "2026-10-06 00:00:00"
       },
       {
+        "title": "雲林選戰 張嘉郡、劉建國現身挺罷工 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wNnFUOWEwV1pDR1l1Qk04bDRqXzV2YXlyUDN0YnBfMkFTYWstMEZLUXVnZWxNTGdtQVRiNUdOV28wS1V1bGxQUXg0aXhQOEZjWS1ZZ0FaQmFLemN5T3lyd2tfNkNHcmlFUDlLTW9rUXF3TFJo0gFWQVVfeXFMUFRRNmhJODFKVGVKcUZnUXFIVURJamY4QzhrSk1KMlJ0a3ZTSDgtVWxlWWZMU3BYMnQ1MjRST2MxY1BqZzRra0N5MmFnUnhkNEN5WWZyaWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-06 00:00:00"
+      },
+      {
         "title": "艾杰旭罷工爆衝突！劉建國站工人身後 勞資10月8日再協商 - 元丰傳媒",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mTzJPLWl0VHZNYlFyN2U4QXBKZWNscXFZcUhOZ0JFYkx5M2FqMjhnMk5xOGdOR2VOMWJnd0Q3cWVqakZXSHBjdVpMdDZJTFhQNko5T1FUN0pMdUpMREtOMHJGLWRORGI3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-05 20:07:37"
@@ -2087,21 +2155,6 @@
         "title": "艾杰旭正式罷工！劉建國聲援勞工 罷工現場批雲縣府慢半拍 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNY0szTEE1UzFOR0xZeEtXNFdCMGJQenlhbWJJMlVOX1JMWWlxMlN2VWs5SHlCREw2Nm9tUHoyOE1ZVHp3T3NGN2R5RElYREIwNlJPM2hIYlY0VGtTS1ppb3lHaVdCX2Y1U1pwY25QS2RBQTNuYnR6dGlzczlYUHQxU2JETmExa0p0c0tEUjNKV1pab2V3M29vVF94ajJHcDFLV18zOWdyem0tczhDdWpSa3h6cEl6cEktUWFITDVadFhtb00zWEthQmM2R0R2OFB6Qmh6UDFhUS1YcFdZanBSZDBaY1NXVE96dXBfMGdwUlBhTDZWT1B5NmZWZUs4SzNZMFVRMWZhLXBqRHRudWY2VTNScE54dnp1QkNtSmpUenROeU1HdWluOXNjdDhRNmFFZ2YxRTk1UkdQY05nSFQ0cDVGX1oyNzBsSUEzampDaEFQT3NfRjJfMEZvcEtGcm51MmZkS3k3SDhsQl9Mc0wyTWlpV0wyQjV5Uk9FbzhHRVRaZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-05 18:54:31"
-      },
-      {
-        "title": "張嘉郡拋「再造崙背風華」6大願景 親子館、泳池、AI教育都來了 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45bk1sTXppOUcxX2JBQ2tWSm1yQ3A5RUwtS0FRNFNLZHpUZW1ZbndzdjF1eUhIay1qREFVbnowdDJCY3ZnOV9DeVVseEFqZ1NmU0dUWnpLSVVPVElwQVlEQ2xoV0hKQ29fQnfSAW9BVV95cUxQU0NKUnFDTmdCS3hwSzlidzRCem1UUjhQd2JtVWlncGVVZ25yd25pSG55WXpVQUFCOGJmekpxeVdrZDhNRHQ4cEl0VWpxa0p6R3p5OHBVRllQNXB3NUtSc0lva1B6T1JNV0pldHZGb3M?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-05 17:59:59"
-      },
-      {
-        "title": "張嘉郡提出再造崙背風華 規劃六大行動發表地方政見 - 中華新聞雲",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WMUtUWmVzakpXYVh1ekF0TFY2MlVtM3hwa0l6T1VZQm5TZ2VOSFV3a3V6WHkwWmk2Z21OYW5NZ3l5OFRFUWNzSWtjT2hmejRNYnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-05 17:08:33"
-      },
-      {
-        "title": "艾杰旭25年首度罷工 劉建國：做工會最堅強的後盾 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOWmpuX0lvd01NUm82cDZPM3FYYVRZdXc5M0hLbUYyMzRoWUZlQmwyZFhXZDFveEVXRDhYRTdMR1h5M2ktSjV1X2VMYy1LY2t4aF9uMnFaRENuV2tsMUszV1oyNUpWZFE2bnNOa0Jyb2ZtR3dtOXJGcnphaXdpVy1tZGYtcmlVMjMtYzB0d0JWWGVOc3V2RktaNjhwcS1jdTFDTlFGdklLWkc1MFpHSFE0NUhHbTg0ckQ0cklOenFwZVgxdmxpdFZxcTY4N1lWQXdqVUpDdWEyZTdUUm9qRTA0bjRmdVBJZG53Z2MycnJHRWF4QWZqOWgxSldJN3M0Q3o4bTNWUUFvbUJ1aC05UUVxbnMyY19vUkhPM2lJS002am13a0kxX3JMX3dUZGMxNW5nZ3l2YngtQW9rUGJ2X2h1SEtGdktfUlc0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-05 17:06:10"
       }
     ],
     "facebook": [
@@ -2309,6 +2362,13 @@
     ],
     "day": [
       {
+        "title": "西螺濁水米首航澳洲！張嘉郡：拚年出口1200噸、拓展歐美市場 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xS3h2SWxqUk5aY0trbnIxQVNJM3NjZ0pFakJYYzEtbXE2LThzTkdpUWR5VU1Xa29KMjJWUmh3Uk84VVpCR1VjVHQ2Um84RjgzbVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-06 20:02:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "劉建國教育政見端「三愛」　校安、教師減負、孩子課後陪伴 - ETtoday新聞雲",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nMFVSVmdsNGg0bmhFSDR2R1VLQjFVZVhEUk9KbE56anB2VWVTVzd2d3pIMjljMVZBRHF5LTdRWmdRRTAzZVMwLThoTF9oSlRDdU9mTng3Qk1yb3k1aEHSAUtBVV95cUxOVzFEMjlvT25Tc3JXRk9HOVhDdjZtQ0RHbzBENUhVN0ZvRDNDcHgyRUg1UzFuTExFdjhWTU15SmdmclJScVNKUC12Qnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-06 19:03:00",
@@ -2320,6 +2380,13 @@
         "url": "https://www.youtube.com/watch?v=GyHaeTLEUjA",
         "time": "2026-10-06 18:19:03",
         "platform": "youtube",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國提教育政見張嘉郡見證西螺米外銷- 地方 - 華視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Gd3A5VkpMZW1yTUFqRk14ejBOMnBraE52Zm93RjNJQmVWYTg5NzBxcEVwSExMdUVOWWZQelNFMHZvR0Q1XzFfRU9XM3lnTDMzSWNHUHRzSlo4dUdzTUlmTWhPMFg4WDAxOUhVZHJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-06 18:01:37",
+        "platform": "news",
         "risk": "綠"
       },
       {
@@ -2433,20 +2500,6 @@
         "time": "2026-10-06 14:10:00",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "【每日必看】張嘉郡拋再造崙背六大行動!智慧AI教育扎根在地 為了翻轉傳統農業鄉鎮，煥發客庄新活力，國民黨雲林縣長參選人張嘉郡重磅發表，\"再造崙背風華\"六大行動，從 AI教育、文化傳承，到交通建設全面升級，要打造一個宜居宜遊的崙背新樣貌。 - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi9wdBVV95cUxQU085dUlmZV9YaDc3UmNBb2RaQ1VkclVPY2x3UGRSdnNHOWFFWTZpM1hWZ3ZrbHB0b3k2WjZoWXFXUnRDN2hteXBFM3BVU3I0VV9DYmphOUNIcklQUk5tU1NwQ1lsY25oNjJlY3Z3VERnMVl6ZU05RU9keFlIZjNIX1BlX2NtVldJVmw3cXFBWl9ON1hNeTZrOElYYzZzNW52VlpoQnFNWXEzeE1ZMWt4TGQtWHVoa1Q4TVQ3RjdyMXQ3bkFLcW5qeEdsVWZyZDBiRVhRVV9LU1dzOHpqUjhfcDdMTzQ4ZlJBR1Azd3U0bzlyM1BkVDNZdUg0bG9Idjgwa25vaTczS3lFbDlIdmdmd05LVzRGNFJ0UDdPeTBJQUlRYUlJeWU0T01ITXNUeUl6YUtHWl9fNTZ2Ym5BYnVsWmFrdElObGhGSTZiVS1lNXFyRXJHOG9MdjVDNFd5WGRzTWlDTHl0TlRaZ2praHNrN1U5UkxBMGdMTzA2LTlSaDNPUWQ3SGFmVDlpOW5oek9jQzRDTkhtNHVLQ1RqcGROS0d6UUFQU0ZWc0ZLN2tFdU9maExDYmNxWV9idVFQbTNtdEpBZkZHVzIyVHY0dXlvV2JWT0xRcGM4SXd6aWdDSTViWl9LYTN6czJ2U0tJWjNvY2R1cDVaazR2SHU2V05BOXlDaWFZeUN4YV91UVBnTVRUSkV6dzloaDZwbDVSU3JmWXFYd0ZHcXZSODQ5ZUdMdmJ0UmFVc1podlZRa1VjN1dkbzdramItaTQwcTJESUFXdmdZWHRnS0s2clVoN3YtcjBUXzdJc3Q5MFAxTUl0ZGdienZlV2ktSUhVeDFJQU8xdjNFd3ZBRU5Da0JSVHlVS1ZtVW1abVRWckE5c2lRQnJ5cTBycVB1cDl2YU5hVjNNRzYtaDQ0dUM4eEJCWExWaEpueDk3LU50dWRSRTlXRmZhT1JjUXhUekdVVnczV2FKWGR4OU9hd1FBaHVadjRkV08xREVfUnFiU254b1JUbHphbXY4VkdIVXRGY2ZidkJJNkRlSjdMNU1DTVQ5aFNESnFubHZvZllkQ09adTFzaDVMODJnOGVmeW93TnJDcmZsMDZZZk5VS0V1NnBKT0JSRXpLalFyaC1mczZzaTE4RnE1dllJeWFfLUZ5UTlYaGpNZmRaVkJyTFRxVnozQ0Y2NjhxRmdmbnI3dHFWV0I2aW8xcUptd3FfZzFfX0ZCMFRjaVFuaUFCeHpWVzlwbjA2OWhzeFZLREdQTUdhMFMwdnZ0YzFBb1lReUY5Ni1GMVRGalBkUkNxLUlrODNXS2o4MUtZbmhLTFpPMkJPRkppRGRVcVdYdVRv",
-        "time": "2026-10-06 14:08:07",
-        "platform": "facebook",
-        "risk": "綠"
-      },
-      {
-        "title": "教師行政減半、食品技師護食安 劉建國端教育政見：每月和學生共用2次午餐 - news.ltn.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52d2xaUlFXQW00MGRGRnBwY0VMbENDUWE0a2NGUVUxdE56VkZ1aTF6YW00RTBFMjdVbnBWckJmYW9DUkYxZm42a2Ewa0JSNktER0NCVVJMc3VZUk9HeXBaU1Rhajk2LWdnRmfSAW9BVV95cUxOSTc1c0g1cVREa3k2OXFqdE1uNmVqWmZtTjUyMVJvaktkZnVnZ1BEWkQ1dlNEMzNVaGdULXA3YWJ0Vk04OEo0MU1HYzYzbHExU0JxdTh6OTBNck9PZjBLbU9BNjhUbWgxQXVSQmdpTGc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-06 13:56:41",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2454,13 +2507,13 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 21
+        "count": 22
       }
     ],
     "groups": [
       {
         "name": "教育家長",
-        "count": 11
+        "count": 12
       },
       {
         "name": "工地/營造",
