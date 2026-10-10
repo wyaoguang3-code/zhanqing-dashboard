@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-10-10T08:15:57.799846+00:00",
+  "generated_at": "2026-10-10T08:31:48.955173+00:00",
   "metrics": {
-    "total_24h": 16,
+    "total_24h": 19,
     "prev_24h": 18,
-    "growth_pct": -11.11,
-    "news_24h": 13,
+    "growth_pct": 5.56,
+    "news_24h": 16,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 248,
-    "prev": 250,
-    "growth_pct": -0.8,
-    "news": 211,
+    "total": 249,
+    "prev": 252,
+    "growth_pct": -1.19,
+    "news": 212,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 13
+      "count": 16
     },
     {
       "platform": "facebook",
@@ -38,7 +38,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 211
+      "count": 212
     },
     {
       "platform": "facebook",
@@ -80,18 +80,18 @@
     },
     {
       "hour": "2026-10-10 12:00",
-      "count": 5
+      "count": 6
     },
     {
       "hour": "2026-10-10 14:00",
       "count": 1
+    },
+    {
+      "hour": "2026-10-10 15:00",
+      "count": 2
     }
   ],
   "by_hour_7d": [
-    {
-      "hour": "2026-10-03 16:00",
-      "count": 2
-    },
     {
       "hour": "2026-10-03 17:00",
       "count": 1
@@ -398,17 +398,21 @@
     },
     {
       "hour": "2026-10-10 12:00",
-      "count": 5
+      "count": 6
     },
     {
       "hour": "2026-10-10 14:00",
       "count": 1
+    },
+    {
+      "hour": "2026-10-10 15:00",
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 13
+      "count": 16
     },
     {
       "platform": "facebook",
@@ -416,14 +420,17 @@
     }
   ],
   "mention_latest_by_platform_24h": {
-    "facebook": [
-      {
-        "title": "雲林大卡卡，產業發展不能再原地踏步！ 今天建國台西競選總部正式成立，感謝所有到場的鄉親朋友！ 也感謝台西鄉長候選人 #許常鎮 出席支持，以及我立院好同事 #王義川、競總總督導 #蘇治芬、競總本部副主委 #林源泉、#丁彥哲，以及立法院最高顧問 #李明憲，一 - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMihAhBVV95cUxQejRGVGN5b0M3aExIWW4zRkQ3N0poSzZ0a2FUWU9abTZMWTQ1bUIwX2ZJNXJDbE55T2dLdmhXVG8zdWptV2duaG83QjloQWVwNHo2c2ZyeDZaZFRKRnA5NzZCa2lDQV9MN3R0MVJBaXl6cl9HeUIyNFM1MGM1dFRLLXhXeFBhYXpidGY3b0l5aE96aGpIaUNEZ2cxdnZnYkpoOWZKZ0NVdndzY2VFTnp4MGRGM2h0QXhPa0NtNUpqMHdDbmFFOFFFWno2WmEzUnRxdjAtcUhaZmNHUzdJVW5kM0VENC1Oclk4VW1uWXFoVnZ5T1pKMTFDUmNMQ3JzZHFwdTJNdW9uQm5ETnB1T19ZNjFBdWVPWjRra0k3S0RIeklidDBZTWdaQTZjR2VsXzIwS0RMMDVZUWZpRm5FQS03NGM3WlJ5bFc0aEx4MWZlSzhSdmd5dG5VUlg5M2MyZ2ctNVdCTkI4TGRjTDJROHg0YjlWZE1OR05SQ0dZVGtmT0JiTUU1dWFjeGZuVzNzTTFzcENXRE5hOXN2QnpRSEZZS0E3bVdnNGszRzM2bF9ZT0xPWW9oX0N6c0ZJTl9RODZ0YnVpbnpLbjFZQ0o3QjlneWlPN0NmVllrN0xTUHI3UmZDVjZpQ0hCSDlfTE9kSzJWVS1Tbm9XTV9mdndreF9oSUVoRWpQQ00xYlQ4QVE4ZnVmWVpLaTJSWElJdGZ2REkyZTZkSjR0VWFGWkdSWGp1bm93bDZWZ0RIUnlYRFdxNDl2NXZobXp5UkZLNGZwY1A1ZDhsRGJjLXVFQXFwaEhZS0ljYTJHZWJkNkZyYlpqUEhZd0FyanlkNDJ2d0MybXVTa3BPSG5aMjVqcnpUVVRTVWtxb25zdXptRHNwX0FCdkFDR1VnUXpwUG40dHFrZEZNLWJYbzkwWEdFeWFxSjNzUVNPbW5jcnN0eHRnVllRdHVybmlTVDVSZm1qRkozcktKX0t3RjhNYkR0eGE1RGxJcVZYQmlvY1JNVE4weXFZRnIxSnZ5WlZneEJ2cWt0ZzYzVVpXSk5oczlFQzRwMGhyNjZkZEF4R1NjMUJQVFk2WVkySmZVUnFjXy1TY3F4bHJidUE5T0xacUVRMkpGQ1JzZVVzcGV3RkttT3Y4U19ZLUoxYzk3UVVOSklxcFVqa0g5X0dJLUpwOUVVcU5ZcF9EbHNVZVQ5VGc0M2p0VVdKVG1xY0Z3cUg2aDBEaWZKY1JBMkE2eW4tQ3cyUFU4UFVsbE8weXhxcE1NdW1qZXBva0c4TWl1aE5VZ2tUaDRBb1NVZlVZMVdmTmthTmhqRm1nbGYtbnh3WVZCcklvTVpTWEEybl9yUHJsbGl3aW5nN0JFeVpOYg",
-        "time": "2026-10-10 14:56:07"
-      }
-    ],
     "news": [
+      {
+        "title": "張嘉郡參加國慶升旗健走與鄉親共同迎接雙十國慶 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPQ0p6aWViaDFzTUZKcDQ2S05rbTRqXzl6ZFFDNm9pZ0lqUTQ0endTMlNvYm1KbWM2UUlhVmhKMXdRVHhWTjZWbjlXZG1oYXNZakQtMllwYmdMV3V1R2ZEdXFhdmtkYm10TUUzTFJQUE85WEs2SFprMWN4ZFdtR1REdnRCNnFzMWVOMWQxeHYzaUZCV191ZnJIVjFfV1hLdDVzbzcwZnZjaHloajRuWGVtSlJra0xmTGhnZVJUQUU5b2xEaTNBZ3hNbmJtY1RqYWJjSVdlam5tNDlKQW9JOW1HZ3B2YlFOYWkwUmFyZ1VGaFVmUVg0d3l3aUtNMXhjOFpaSzJVb1FSUEI2Tkk3NWpnVm9ibTBOeFZNZmtUUVpGQ2VjNXY4b0ZfQkhRU1ZjazB1TGtrbmxzcWZlQXJsZEdMM1ctLThlTXhOdWtzZXBreW9NSTEzVnFQRGh6Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 15:52:43"
+      },
+      {
+        "title": "劉建國批雲林發展「大卡卡」 台西競總成立喊打造「雲林流」 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2dUF2Sm5ZOEJRX3hIb29kemhJbDBrNE5ZUUI0SWt2MnY5QUR2cE1PLVhPV3FCSjE1WGMtRU5iTTNGQWlpZ21EMHdLTVZNMkppTUV6QUpqaDdJdVhQRC1Hc3BMWmtDUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 15:38:00"
+      },
       {
         "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOa2xlOUpiWDhOTEM5M0llc2I4TXZ1TFMxTUZFQVJxZjMxSlNMaHRwaEItYUxialFoVGZ6V3dKMlV6TWJkXy1VX2x2MmlNT0RLMjFLWk5fcC1YQlFobDYtdXVEZjRzaDRHZXQ0amU1U05YWEhEYXRXUXd6TDBwd2UwRi16UXg4dmtHU2ZxWlhKMXVHOUFUTjlsaHkzYTZYcE1QamtYdmxSaFJtVURubnlGYmp1LURPN3dONUQzdDZoVWZac0o2a3dHVjFKOTlIbjBRekQ4NTZoS2VMNm5rcWZWOWliOGZfWGxqUXRhTmFDTl9ZTm9PN3ZxMFVZTUw5Ym9xUDZ6dHkwM29QVml1dHhBeVBQYkxMckhsNktEZ2E1M2wzNEloTlRPTmRMei1DVkRBVk9fcEs3enctQy1NakVMRFJnYmN2djVPSUIwSG9DeTJHajI2c0xaT2hITVRIS2VsVTI5QzVWUWNHYWRBOVNDbEVqRHRvUV93RUNaNVFxVXFQTzhCdkhZQ1Vyd1ZTNHhPZ0hSdlV0elJUQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -432,6 +439,11 @@
       {
         "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - 匯流新聞網",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tUl84X3UyOVpNSXZrS3pGcDF3UE5IZE1mYmxjM1A5OXRPMWRoalpfM0oxaXpGY29DNXlqM0pvTWhld1lGdnJQLXhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 12:53:14"
+      },
+      {
+        "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONWFINWZFNmFUbG15ckFpWkVwVm5OUnN1eE45ZUUxbG1sZTFJZmRyM25hTGxaSEN0VUJaNHl0TnAxcGJNT0pvY1NxbmxtSzdrU3A3cF9ZY2sxNjVNX0ZXLVNnX0h3aE5wenRLaHNUdG9ob0dBNXZOanJpcWUwajlhOHg4LUxBXzhLOHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-10 12:53:14"
       },
       {
@@ -489,12 +501,19 @@
         "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOSHptdmo1bDYzV241anZfb3dXYkdLNlk3anEzb1NwOUg0V2ZFX0dqUk0wZlhVSzVGaTdleUVyNkE3aE5aUkhRVVNrakRFbk9YNmNLUjJueUc2Mm5oeUt3dk1IMEdNNUkwS29PTEhTa25JdXhPbFNLOFlDRjdKOEhVTW9yZ09BNFY5RWd3NE9BckR4S2RtMFRQZDFOSVpjejZTNnRzRHU4WnZEQTluSVI4UXhEeFh6cW9xNU1uaXBCbjBFTDJQc253WE9zSUpOUUpxa2p5NVpYc2ZuaGVwOTlaQm1GTVVVSU9TRlhLSjhCZnhUdnFtOE1VSlE5LWtaNEtseVA5Z05yNUNzNXhqWkgzRzN6T1luNV9TanJXbXE2R1RKUzI2a0YwbU5KcGpJM1VwTkVGM0xXcENKNEFFZnlfWEM2MHVTTjhYVmhycWp3c3dWcjFVNlRsaS0zNlJ6aThRdXg2WlpXOVBZS3o4MXN3WFFyblM4WUhpVVZUb3ZHRmRTbWVFTkp1ZUZrUVJWZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-09 17:27:26"
       }
+    ],
+    "facebook": [
+      {
+        "title": "雲林大卡卡，產業發展不能再原地踏步！ 今天建國台西競選總部正式成立，感謝所有到場的鄉親朋友！ 也感謝台西鄉長候選人 #許常鎮 出席支持，以及我立院好同事 #王義川、競總總督導 #蘇治芬、競總本部副主委 #林源泉、#丁彥哲，以及立法院最高顧問 #李明憲，一 - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMihAhBVV95cUxQejRGVGN5b0M3aExIWW4zRkQ3N0poSzZ0a2FUWU9abTZMWTQ1bUIwX2ZJNXJDbE55T2dLdmhXVG8zdWptV2duaG83QjloQWVwNHo2c2ZyeDZaZFRKRnA5NzZCa2lDQV9MN3R0MVJBaXl6cl9HeUIyNFM1MGM1dFRLLXhXeFBhYXpidGY3b0l5aE96aGpIaUNEZ2cxdnZnYkpoOWZKZ0NVdndzY2VFTnp4MGRGM2h0QXhPa0NtNUpqMHdDbmFFOFFFWno2WmEzUnRxdjAtcUhaZmNHUzdJVW5kM0VENC1Oclk4VW1uWXFoVnZ5T1pKMTFDUmNMQ3JzZHFwdTJNdW9uQm5ETnB1T19ZNjFBdWVPWjRra0k3S0RIeklidDBZTWdaQTZjR2VsXzIwS0RMMDVZUWZpRm5FQS03NGM3WlJ5bFc0aEx4MWZlSzhSdmd5dG5VUlg5M2MyZ2ctNVdCTkI4TGRjTDJROHg0YjlWZE1OR05SQ0dZVGtmT0JiTUU1dWFjeGZuVzNzTTFzcENXRE5hOXN2QnpRSEZZS0E3bVdnNGszRzM2bF9ZT0xPWW9oX0N6c0ZJTl9RODZ0YnVpbnpLbjFZQ0o3QjlneWlPN0NmVllrN0xTUHI3UmZDVjZpQ0hCSDlfTE9kSzJWVS1Tbm9XTV9mdndreF9oSUVoRWpQQ00xYlQ4QVE4ZnVmWVpLaTJSWElJdGZ2REkyZTZkSjR0VWFGWkdSWGp1bm93bDZWZ0RIUnlYRFdxNDl2NXZobXp5UkZLNGZwY1A1ZDhsRGJjLXVFQXFwaEhZS0ljYTJHZWJkNkZyYlpqUEhZd0FyanlkNDJ2d0MybXVTa3BPSG5aMjVqcnpUVVRTVWtxb25zdXptRHNwX0FCdkFDR1VnUXpwUG40dHFrZEZNLWJYbzkwWEdFeWFxSjNzUVNPbW5jcnN0eHRnVllRdHVybmlTVDVSZm1qRkozcktKX0t3RjhNYkR0eGE1RGxJcVZYQmlvY1JNVE4weXFZRnIxSnZ5WlZneEJ2cWt0ZzYzVVpXSk5oczlFQzRwMGhyNjZkZEF4R1NjMUJQVFk2WVkySmZVUnFjXy1TY3F4bHJidUE5T0xacUVRMkpGQ1JzZVVzcGV3RkttT3Y4U19ZLUoxYzk3UVVOSklxcFVqa0g5X0dJLUpwOUVVcU5ZcF9EbHNVZVQ5VGc0M2p0VVdKVG1xY0Z3cUg2aDBEaWZKY1JBMkE2eW4tQ3cyUFU4UFVsbE8weXhxcE1NdW1qZXBva0c4TWl1aE5VZ2tUaDRBb1NVZlVZMVdmTmthTmhqRm1nbGYtbnh3WVZCcklvTVpTWEEybl9yUHJsbGl3aW5nN0JFeVpOYg",
+        "time": "2026-10-10 14:56:07"
+      }
     ]
   },
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 13
+      "count": 16
     },
     {
       "platform": "facebook",
@@ -502,6 +521,88 @@
     }
   ],
   "alias_latest_by_platform_24h": {
+    "news": [
+      {
+        "title": "張嘉郡參加國慶升旗健走與鄉親共同迎接雙十國慶 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPQ0p6aWViaDFzTUZKcDQ2S05rbTRqXzl6ZFFDNm9pZ0lqUTQ0endTMlNvYm1KbWM2UUlhVmhKMXdRVHhWTjZWbjlXZG1oYXNZakQtMllwYmdMV3V1R2ZEdXFhdmtkYm10TUUzTFJQUE85WEs2SFprMWN4ZFdtR1REdnRCNnFzMWVOMWQxeHYzaUZCV191ZnJIVjFfV1hLdDVzbzcwZnZjaHloajRuWGVtSlJra0xmTGhnZVJUQUU5b2xEaTNBZ3hNbmJtY1RqYWJjSVdlam5tNDlKQW9JOW1HZ3B2YlFOYWkwUmFyZ1VGaFVmUVg0d3l3aUtNMXhjOFpaSzJVb1FSUEI2Tkk3NWpnVm9ibTBOeFZNZmtUUVpGQ2VjNXY4b0ZfQkhRU1ZjazB1TGtrbmxzcWZlQXJsZEdMM1ctLThlTXhOdWtzZXBreW9NSTEzVnFQRGh6Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 15:52:43"
+      },
+      {
+        "title": "劉建國批雲林發展「大卡卡」 台西競總成立喊打造「雲林流」 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2dUF2Sm5ZOEJRX3hIb29kemhJbDBrNE5ZUUI0SWt2MnY5QUR2cE1PLVhPV3FCSjE1WGMtRU5iTTNGQWlpZ21EMHdLTVZNMkppTUV6QUpqaDdJdVhQRC1Hc3BMWmtDUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 15:38:00"
+      },
+      {
+        "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOa2xlOUpiWDhOTEM5M0llc2I4TXZ1TFMxTUZFQVJxZjMxSlNMaHRwaEItYUxialFoVGZ6V3dKMlV6TWJkXy1VX2x2MmlNT0RLMjFLWk5fcC1YQlFobDYtdXVEZjRzaDRHZXQ0amU1U05YWEhEYXRXUXd6TDBwd2UwRi16UXg4dmtHU2ZxWlhKMXVHOUFUTjlsaHkzYTZYcE1QamtYdmxSaFJtVURubnlGYmp1LURPN3dONUQzdDZoVWZac0o2a3dHVjFKOTlIbjBRekQ4NTZoS2VMNm5rcWZWOWliOGZfWGxqUXRhTmFDTl9ZTm9PN3ZxMFVZTUw5Ym9xUDZ6dHkwM29QVml1dHhBeVBQYkxMckhsNktEZ2E1M2wzNEloTlRPTmRMei1DVkRBVk9fcEs3enctQy1NakVMRFJnYmN2djVPSUIwSG9DeTJHajI2c0xaT2hITVRIS2VsVTI5QzVWUWNHYWRBOVNDbEVqRHRvUV93RUNaNVFxVXFQTzhCdkhZQ1Vyd1ZTNHhPZ0hSdlV0elJUQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 12:57:29"
+      },
+      {
+        "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - 匯流新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tUl84X3UyOVpNSXZrS3pGcDF3UE5IZE1mYmxjM1A5OXRPMWRoalpfM0oxaXpGY29DNXlqM0pvTWhld1lGdnJQLXhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 12:53:14"
+      },
+      {
+        "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONWFINWZFNmFUbG15ckFpWkVwVm5OUnN1eE45ZUUxbG1sZTFJZmRyM25hTGxaSEN0VUJaNHl0TnAxcGJNT0pvY1NxbmxtSzdrU3A3cF9ZY2sxNjVNX0ZXLVNnX0h3aE5wenRLaHNUdG9ob0dBNXZOanJpcWUwajlhOHg4LUxBXzhLOHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 12:53:14"
+      },
+      {
+        "title": "出席雲林國慶升旗健走 張嘉郡：盼國家持續進步 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPWEZLbW9uQTI5V3drRXFSSkY4cnpaY0diU05scFQ5X2pMLWdYMHpSdlVvS1JNUWJEcTdMVkk3b1NEN1JGWEhVS0tLTTNtd0txUEhPYXVBaHJ1YWgyMVhjclNGeXRDWXVhZ2ROZktYRGlHTkRWUU5jN29jTDQxZkpPR1N3V3NKMjQtUjliRlJCMUVuRXpwZTk0Snh1Tm1ONlJOakVrVmpNN053TXhOYkdjcm5qQXpUb0cxYVVNb0xQNF9UMzk5UDg4b3k1blRBQkpYdGNsUHdZdHQ0ekpQU3VEdU1SeDFEckF3SWpvcm5QYVBGUlZMRDVHUEZieDBqTUFSSXE5eVJKR0lXdnpRQVhGdzVLX3BjQm1PODl6X2NUbll6M2RsMHc3NWtJa3JfQVMwUDJUSjBDN2ZXaG5SQVFpeWVCTG51QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 12:41:17"
+      },
+      {
+        "title": "張嘉郡出席雲林國慶升旗健走 與鄉親共同迎接雙十國慶 | 夏和宣 | 地方新聞 - Storm.mg",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zbXo5ZTc3a3lhaXVRUVAzaHV0aG5maGhYc2tEVkhIXzJMOXNXbDdwT0NYOHJnQm1hU0lzSWlEbVRxV0RLZEc2bzdOdDI1UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 12:32:00"
+      },
+      {
+        "title": "張麗善同台張嘉郡慶國慶！引韓國瑜這句話 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNY2tGRWdMLXRWaldCN2RZb3RxMXRubjkxV0tfTU9RX1RtVFlvZmNacnZUSmVDS2x4Z0UyMkRmNHVUX2JSbzlnZnliWXVwb3cxalZYQkJkWUhLbWxmT3dXUkxHUkRjN3AxMDEtQ1VoSzhrVkVHdXpwaUd6enZuZEs4ZFlVejJMNm5zYW5VNHpMQ1phZlVYM3ZKdlp1dkltaU40LV9LVXMzUGI4Rk5fNlVnZC1uUmFSTllZSGJzU2VPUVYyUGdvYWNzOGtzUkxGQTIxb2I2OHlFT1BYREpCdXFmanFtLWMwemYyQWRWcG9XT2NYNlBwMFpmeVY0VDRIOWZFelQxUE0wWGkyUXVDQk1EajVweS11aG1JUUg4LXo4ZTNGUWgyY0FiOXgwQ08?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 12:12:55"
+      },
+      {
+        "title": "張麗善同台張嘉郡慶國慶！引韓國瑜這句話 | NOWNEWS今日新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTOUEzdVBWaHVYazNYZEM4Q09USXZBbWUta3VheTdhRFFsUDc0VFdvYS1PVjdwVGFsUkZMVHBsY1lXVDd4elhocjZDMXBaejVRUTU1dFJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 11:59:28"
+      },
+      {
+        "title": "出席雲林國慶升旗健走　張嘉郡：盼國家持續進步 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FOVJmWERiRmFhaUtlUm1QY0FVU2hGcWhzV0JJOFJqRU5idUZnN3JrX3dPem5KN09IcjdSTTJERFp4bUxDWklNYlYtQ3lCOGVHck9iOEZMZENrTHZlcVQzeFNxa9IBaEFVX3lxTE1sZW5XeUc5UUE5TDBuTHNxYUZHb25vQnM2NHlNck1aemIzOExDeDM1N0xETWhuOGp2dGs1aFpKNDRJSWVIbnN0VFJETjdSQnBHeHlKeHl3eUNlX19vVy00czU1ejlrY09T?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 11:53:00"
+      },
+      {
+        "title": "討論牆 | 蘇治芬雲林徒步宣講 表態若受邀會加入劉建國團隊 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zeFktQkthT254TDRmOXc0X2psS2FxZ2hJN0g5ZHd3TXVIR3gxMGd4ZU1QZGlPUXJsOEhDclVoSmZ2S1JmVDd0QlN2QUoyVEgxTlFEQVlaRkVQOTk1QUtLV2lJWXQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 08:43:57"
+      },
+      {
+        "title": "雲林縣長候選人張嘉郡宣布加碼敬老福利政策 身障者60歲可享敬老卡福利！ - 台灣華報",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KV1Y5RlI0N0p1RXp1dXRIUHdnY1NTVTFPZVRnZDV3TFNzcHhZUDJWN2cxTXNCZE5mQ0JFNzladVBXeUNNdm1naWE5NDZKWlRuNmpteG1ZZU5ZQl94MHlPb1YweUtVWVJFWkhF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-09 22:01:12"
+      },
+      {
+        "title": "玻璃大廠罷工險引波瀾 張麗善成功拆彈 張嘉郡、劉建國無勝負 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQdm5ZaFlXMjRIcEExVzdyY1pDaUlCVi1GU2k3YUc3X2Z4VEtSYVV2RHRxUE83ZWozajhXdkdvV2tJQ3FwMV9OeVI3V2N3QVo1ZUpUYzFXNkF1djR0cXZJeFBKNFRYVTlfTUEtUDlUUDJLNlpud2dyNmVpU3ZzSkh4N1pNN0h5SGZxTTh3VUo1dDAxTnlCb0lUdGFJOFJ6dGFqeHE0bGpEZ05PZl9vOVppcGhkNV9CSnVQQkU1eUNMOUI3MHVScjNKVmdTc1VEYkZyd3l0UGloTndQUGQtM1o2NXExZVNfWlFJNVlpY0d0eGQwLVhMcUJlSC1GVFJzUl92Qnl1WkcxNlo4bzJScUdhcDlEa0ZjazdoemwwYWNhVDByTHh5eWVCdWNNTVBXbmxPUFVmMTI1XzdTRHlpaTR4bFVEbTV3MzZYT1k3VGlXcVdVOFc3Y2JHdWVNMEJqc282X0h2RVZ6SVF4Q1EzNjFOVm1fN3V2RlBFQU5YcXBvbjZMNVcyRU9Bb3JUUVdsczg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-09 18:27:37"
+      },
+      {
+        "title": "玻璃大廠罷工險引波瀾 張麗善成功拆彈 張嘉郡、劉建國無勝負 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DdXJDc3d1M2Mta3U1cm9zOEFTdGJMNmU5ZXdMSDlHNHR0Q1hyMG5ObzQ2bllQVGpsOVl6cVF0bkhjREVzYmJXT0xsUVp2UFVveVFWTlEtTTRIcjAtWW8zSkRTZmtPMm1YOHZIeTRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-09 18:22:37"
+      },
+      {
+        "title": "張嘉郡再加碼敬老福利 倡身障者滿60歲提前享敬老卡優惠 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oWmN5Q2dqWkwyLTJCMzRZMFpxeDdqbGtTYW1YX3dZMVFseDloWEZlT2ZQNGZsb2NMWFdWd0tQNVRFempQRklYRW9LT0V5bmFHMUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-09 17:51:00"
+      },
+      {
+        "title": "艾杰旭罷工達成調薪協議 劉建國肯定工會堅持、中央持續協調 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOSHptdmo1bDYzV241anZfb3dXYkdLNlk3anEzb1NwOUg0V2ZFX0dqUk0wZlhVSzVGaTdleUVyNkE3aE5aUkhRVVNrakRFbk9YNmNLUjJueUc2Mm5oeUt3dk1IMEdNNUkwS29PTEhTa25JdXhPbFNLOFlDRjdKOEhVTW9yZ09BNFY5RWd3NE9BckR4S2RtMFRQZDFOSVpjejZTNnRzRHU4WnZEQTluSVI4UXhEeFh6cW9xNU1uaXBCbjBFTDJQc253WE9zSUpOUUpxa2p5NVpYc2ZuaGVwOTlaQm1GTVVVSU9TRlhLSjhCZnhUdnFtOE1VSlE5LWtaNEtseVA5Z05yNUNzNXhqWkgzRzN6T1luNV9TanJXbXE2R1RKUzI2a0YwbU5KcGpJM1VwTkVGM0xXcENKNEFFZnlfWEM2MHVTTjhYVmhycWp3c3dWcjFVNlRsaS0zNlJ6aThRdXg2WlpXOVBZS3o4MXN3WFFyblM4WUhpVVZUb3ZHRmRTbWVFTkp1ZUZrUVJWZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-09 17:27:26"
+      }
+    ],
     "facebook": [
       {
         "title": "雲林大卡卡，產業發展不能再原地踏步！ 今天建國台西競選總部正式成立，感謝所有到場的鄉親朋友！ 也感謝台西鄉長候選人 #許常鎮 出席支持，以及我立院好同事 #王義川、競總總督導 #蘇治芬、競總本部副主委 #林源泉、#丁彥哲，以及立法院最高顧問 #李明憲，一 - Facebook",
@@ -513,84 +614,27 @@
         "url": "https://news.google.com/rss/articles/CBMirwhBVV95cUxPakpaVVU0cks4TU9tME55WlFOcWJ4dkxmcWRCYkdMN2ZzZHpYYmpBdnlrMUVhUFNkVndpWHo0cnV3bThubGJKVGRvb19RSHNpWWgycEg0Ry1yWkdSRGx0eUhKaVV3Z1g4X1gwXzFsUnFuZUxhNDQ2b3o5OHJzM2MweWQ2XzltMF9iWWFZbzZrUFAxUjlKS3BHX1d3SzhuVFMzenRlZEktVzRWanNFS1QxT0gtcXlDSlVpdXNOT3BIUWZ3cWlZS2NPWk1iSzQ5VGhmbW9LdjZWQlh0ZEswV3pKWVdNandDZHFHbGRtb0RZUHJqYjFyYWFWcWZwdWdCOUQzWFZmLUk5aW55STVqbTZhX3k4cE1feFVEdVlSUHl2emJieFNIZ3k3TDZoaVRVX2diQjFwNDdyVzYwWi1CcnRiOWY0MGlsYTFuRWFhUDRpdGhONUl0VW9TX0dCOEVPczlGMUl1am4yc0ZkVGYtZVdrdGRIeVFlSHM0bnVOZ3ptMjd0cFdMRzZfQ1V4UnBrRUJCdEJDWGt6QVhuTWprbTctTlVKUlBFMmkxVV9sdUVqQUI1ZEdmRElXUU95UXlTdjJBQkxqbnladnd6alRaVEphdUFVemVsXzg4TzZqeE81bFMyUW45ZU1NdG9Ma3dsNnJ0N01RWC1tM2Q1TkZIX2w5UnVuc05ZUnRfSXduVGFjNjVBdDhneDJSRnlNbEs2OTlEel9wN3VVSlN6WkFVdzVvcmpwY28td3BDYl91bTdvZDgwc25fNTlQY0I0MVpqbWxaTFE2QkVoM0dYTjFsclN3WHRZNF96V3lMcWdyYnJoWk1LM3M5akR4MzdkNUE0NWlSekJVNkZPc1gwSC1KZjdTTjlJWXRScmo5Yl80a0hZbG0zaF9oWmNPUHRyeEZYQVc2TlJkS3ZwQnBhNFlGek9NRGt5RE1neFFMMGNuRFZaMXFTTkpXd09iVGxLMjdqVXBUM2NWakNpZ2pJY0w1RkZTb2oyWElVbGdYcjh2WEZSU041X3paQk11QTZIWDF0TXdfUGdKbk5HUkxxbDlmMnZ2eC1nSW93Q1NpUmV4RUpZb1NIYzNDY0c5aUFjd0hLX0VqZjFhWkZUSzRjMlFmeFQxTGd3dzJ2ZzR5UF8zQ21vRkY2dWthUGhkQm5jTUNCeUNBbTZoUC1QenFob2h6UWpTYXdYaEx4cnNWZUNwcjdfYVNmVk5pWi1lbzY2ZXZpY3JTd3V5WjNraVllaDBtVWZNd3Q1eXhLS1VOVHc5RTBrdlJKV3RWeTdiekpOaGQyelJsRElPLUFYd1ByNUpkd1JKZ29EaWxQNVRMTm44SjQzVjVrdWppUzhKZTFDMkduTFhDMk1MMUd1d0JsY1JzUTVDb09UeXNQQjV5djk1d2txMXBMYmN0Sm5GZHpTZTFqeWs",
         "time": "2026-10-10 09:53:43"
       }
-    ],
-    "news": [
-      {
-        "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOa2xlOUpiWDhOTEM5M0llc2I4TXZ1TFMxTUZFQVJxZjMxSlNMaHRwaEItYUxialFoVGZ6V3dKMlV6TWJkXy1VX2x2MmlNT0RLMjFLWk5fcC1YQlFobDYtdXVEZjRzaDRHZXQ0amU1U05YWEhEYXRXUXd6TDBwd2UwRi16UXg4dmtHU2ZxWlhKMXVHOUFUTjlsaHkzYTZYcE1QamtYdmxSaFJtVURubnlGYmp1LURPN3dONUQzdDZoVWZac0o2a3dHVjFKOTlIbjBRekQ4NTZoS2VMNm5rcWZWOWliOGZfWGxqUXRhTmFDTl9ZTm9PN3ZxMFVZTUw5Ym9xUDZ6dHkwM29QVml1dHhBeVBQYkxMckhsNktEZ2E1M2wzNEloTlRPTmRMei1DVkRBVk9fcEs3enctQy1NakVMRFJnYmN2djVPSUIwSG9DeTJHajI2c0xaT2hITVRIS2VsVTI5QzVWUWNHYWRBOVNDbEVqRHRvUV93RUNaNVFxVXFQTzhCdkhZQ1Vyd1ZTNHhPZ0hSdlV0elJUQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-10 12:57:29"
-      },
-      {
-        "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - 匯流新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tUl84X3UyOVpNSXZrS3pGcDF3UE5IZE1mYmxjM1A5OXRPMWRoalpfM0oxaXpGY29DNXlqM0pvTWhld1lGdnJQLXhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-10 12:53:14"
-      },
-      {
-        "title": "出席雲林國慶升旗健走 張嘉郡：盼國家持續進步 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPWEZLbW9uQTI5V3drRXFSSkY4cnpaY0diU05scFQ5X2pMLWdYMHpSdlVvS1JNUWJEcTdMVkk3b1NEN1JGWEhVS0tLTTNtd0txUEhPYXVBaHJ1YWgyMVhjclNGeXRDWXVhZ2ROZktYRGlHTkRWUU5jN29jTDQxZkpPR1N3V3NKMjQtUjliRlJCMUVuRXpwZTk0Snh1Tm1ONlJOakVrVmpNN053TXhOYkdjcm5qQXpUb0cxYVVNb0xQNF9UMzk5UDg4b3k1blRBQkpYdGNsUHdZdHQ0ekpQU3VEdU1SeDFEckF3SWpvcm5QYVBGUlZMRDVHUEZieDBqTUFSSXE5eVJKR0lXdnpRQVhGdzVLX3BjQm1PODl6X2NUbll6M2RsMHc3NWtJa3JfQVMwUDJUSjBDN2ZXaG5SQVFpeWVCTG51QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-10 12:41:17"
-      },
-      {
-        "title": "張嘉郡出席雲林國慶升旗健走 與鄉親共同迎接雙十國慶 | 夏和宣 | 地方新聞 - Storm.mg",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zbXo5ZTc3a3lhaXVRUVAzaHV0aG5maGhYc2tEVkhIXzJMOXNXbDdwT0NYOHJnQm1hU0lzSWlEbVRxV0RLZEc2bzdOdDI1UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-10 12:32:00"
-      },
-      {
-        "title": "張麗善同台張嘉郡慶國慶！引韓國瑜這句話 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNY2tGRWdMLXRWaldCN2RZb3RxMXRubjkxV0tfTU9RX1RtVFlvZmNacnZUSmVDS2x4Z0UyMkRmNHVUX2JSbzlnZnliWXVwb3cxalZYQkJkWUhLbWxmT3dXUkxHUkRjN3AxMDEtQ1VoSzhrVkVHdXpwaUd6enZuZEs4ZFlVejJMNm5zYW5VNHpMQ1phZlVYM3ZKdlp1dkltaU40LV9LVXMzUGI4Rk5fNlVnZC1uUmFSTllZSGJzU2VPUVYyUGdvYWNzOGtzUkxGQTIxb2I2OHlFT1BYREpCdXFmanFtLWMwemYyQWRWcG9XT2NYNlBwMFpmeVY0VDRIOWZFelQxUE0wWGkyUXVDQk1EajVweS11aG1JUUg4LXo4ZTNGUWgyY0FiOXgwQ08?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-10 12:12:55"
-      },
-      {
-        "title": "張麗善同台張嘉郡慶國慶！引韓國瑜這句話 | NOWNEWS今日新聞 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTOUEzdVBWaHVYazNYZEM4Q09USXZBbWUta3VheTdhRFFsUDc0VFdvYS1PVjdwVGFsUkZMVHBsY1lXVDd4elhocjZDMXBaejVRUTU1dFJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-10 11:59:28"
-      },
-      {
-        "title": "出席雲林國慶升旗健走　張嘉郡：盼國家持續進步 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FOVJmWERiRmFhaUtlUm1QY0FVU2hGcWhzV0JJOFJqRU5idUZnN3JrX3dPem5KN09IcjdSTTJERFp4bUxDWklNYlYtQ3lCOGVHck9iOEZMZENrTHZlcVQzeFNxa9IBaEFVX3lxTE1sZW5XeUc5UUE5TDBuTHNxYUZHb25vQnM2NHlNck1aemIzOExDeDM1N0xETWhuOGp2dGs1aFpKNDRJSWVIbnN0VFJETjdSQnBHeHlKeHl3eUNlX19vVy00czU1ejlrY09T?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-10 11:53:00"
-      },
-      {
-        "title": "討論牆 | 蘇治芬雲林徒步宣講 表態若受邀會加入劉建國團隊 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zeFktQkthT254TDRmOXc0X2psS2FxZ2hJN0g5ZHd3TXVIR3gxMGd4ZU1QZGlPUXJsOEhDclVoSmZ2S1JmVDd0QlN2QUoyVEgxTlFEQVlaRkVQOTk1QUtLV2lJWXQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-10 08:43:57"
-      },
-      {
-        "title": "雲林縣長候選人張嘉郡宣布加碼敬老福利政策 身障者60歲可享敬老卡福利！ - 台灣華報",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KV1Y5RlI0N0p1RXp1dXRIUHdnY1NTVTFPZVRnZDV3TFNzcHhZUDJWN2cxTXNCZE5mQ0JFNzladVBXeUNNdm1naWE5NDZKWlRuNmpteG1ZZU5ZQl94MHlPb1YweUtVWVJFWkhF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-09 22:01:12"
-      },
-      {
-        "title": "玻璃大廠罷工險引波瀾 張麗善成功拆彈 張嘉郡、劉建國無勝負 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQdm5ZaFlXMjRIcEExVzdyY1pDaUlCVi1GU2k3YUc3X2Z4VEtSYVV2RHRxUE83ZWozajhXdkdvV2tJQ3FwMV9OeVI3V2N3QVo1ZUpUYzFXNkF1djR0cXZJeFBKNFRYVTlfTUEtUDlUUDJLNlpud2dyNmVpU3ZzSkh4N1pNN0h5SGZxTTh3VUo1dDAxTnlCb0lUdGFJOFJ6dGFqeHE0bGpEZ05PZl9vOVppcGhkNV9CSnVQQkU1eUNMOUI3MHVScjNKVmdTc1VEYkZyd3l0UGloTndQUGQtM1o2NXExZVNfWlFJNVlpY0d0eGQwLVhMcUJlSC1GVFJzUl92Qnl1WkcxNlo4bzJScUdhcDlEa0ZjazdoemwwYWNhVDByTHh5eWVCdWNNTVBXbmxPUFVmMTI1XzdTRHlpaTR4bFVEbTV3MzZYT1k3VGlXcVdVOFc3Y2JHdWVNMEJqc282X0h2RVZ6SVF4Q1EzNjFOVm1fN3V2RlBFQU5YcXBvbjZMNVcyRU9Bb3JUUVdsczg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-09 18:27:37"
-      },
-      {
-        "title": "玻璃大廠罷工險引波瀾 張麗善成功拆彈 張嘉郡、劉建國無勝負 - 中時新聞網",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DdXJDc3d1M2Mta3U1cm9zOEFTdGJMNmU5ZXdMSDlHNHR0Q1hyMG5ObzQ2bllQVGpsOVl6cVF0bkhjREVzYmJXT0xsUVp2UFVveVFWTlEtTTRIcjAtWW8zSkRTZmtPMm1YOHZIeTRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-09 18:22:37"
-      },
-      {
-        "title": "張嘉郡再加碼敬老福利 倡身障者滿60歲提前享敬老卡優惠 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oWmN5Q2dqWkwyLTJCMzRZMFpxeDdqbGtTYW1YX3dZMVFseDloWEZlT2ZQNGZsb2NMWFdWd0tQNVRFempQRklYRW9LT0V5bmFHMUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-09 17:51:00"
-      },
-      {
-        "title": "艾杰旭罷工達成調薪協議 劉建國肯定工會堅持、中央持續協調 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOSHptdmo1bDYzV241anZfb3dXYkdLNlk3anEzb1NwOUg0V2ZFX0dqUk0wZlhVSzVGaTdleUVyNkE3aE5aUkhRVVNrakRFbk9YNmNLUjJueUc2Mm5oeUt3dk1IMEdNNUkwS29PTEhTa25JdXhPbFNLOFlDRjdKOEhVTW9yZ09BNFY5RWd3NE9BckR4S2RtMFRQZDFOSVpjejZTNnRzRHU4WnZEQTluSVI4UXhEeFh6cW9xNU1uaXBCbjBFTDJQc253WE9zSUpOUUpxa2p5NVpYc2ZuaGVwOTlaQm1GTVVVSU9TRlhLSjhCZnhUdnFtOE1VSlE5LWtaNEtseVA5Z05yNUNzNXhqWkgzRzN6T1luNV9TanJXbXE2R1RKUzI2a0YwbU5KcGpJM1VwTkVGM0xXcENKNEFFZnlfWEM2MHVTTjhYVmhycWp3c3dWcjFVNlRsaS0zNlJ6aThRdXg2WlpXOVBZS3o4MXN3WFFyblM4WUhpVVZUb3ZHRmRTbWVFTkp1ZUZrUVJWZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-09 17:27:26"
-      }
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 11,
-    "劉建國": 5
+    "張嘉郡": 13,
+    "劉建國": 6
   },
   "mention_compare_7d": {
-    "張嘉郡": 134,
-    "劉建國": 123
+    "張嘉郡": 136,
+    "劉建國": 122
   },
   "top_news": [
+    {
+      "title": "張嘉郡參加國慶升旗健走與鄉親共同迎接雙十國慶 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPQ0p6aWViaDFzTUZKcDQ2S05rbTRqXzl6ZFFDNm9pZ0lqUTQ0endTMlNvYm1KbWM2UUlhVmhKMXdRVHhWTjZWbjlXZG1oYXNZakQtMllwYmdMV3V1R2ZEdXFhdmtkYm10TUUzTFJQUE85WEs2SFprMWN4ZFdtR1REdnRCNnFzMWVOMWQxeHYzaUZCV191ZnJIVjFfV1hLdDVzbzcwZnZjaHloajRuWGVtSlJra0xmTGhnZVJUQUU5b2xEaTNBZ3hNbmJtY1RqYWJjSVdlam5tNDlKQW9JOW1HZ3B2YlFOYWkwUmFyZ1VGaFVmUVg0d3l3aUtNMXhjOFpaSzJVb1FSUEI2Tkk3NWpnVm9ibTBOeFZNZmtUUVpGQ2VjNXY4b0ZfQkhRU1ZjazB1TGtrbmxzcWZlQXJsZEdMM1ctLThlTXhOdWtzZXBreW9NSTEzVnFQRGh6Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-10 15:52:43"
+    },
+    {
+      "title": "劉建國批雲林發展「大卡卡」 台西競總成立喊打造「雲林流」 - 鏡週刊Mirror Media",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2dUF2Sm5ZOEJRX3hIb29kemhJbDBrNE5ZUUI0SWt2MnY5QUR2cE1PLVhPV3FCSjE1WGMtRU5iTTNGQWlpZ21EMHdLTVZNMkppTUV6QUpqaDdJdVhQRC1Hc3BMWmtDUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-10 15:38:00"
+    },
     {
       "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOa2xlOUpiWDhOTEM5M0llc2I4TXZ1TFMxTUZFQVJxZjMxSlNMaHRwaEItYUxialFoVGZ6V3dKMlV6TWJkXy1VX2x2MmlNT0RLMjFLWk5fcC1YQlFobDYtdXVEZjRzaDRHZXQ0amU1U05YWEhEYXRXUXd6TDBwd2UwRi16UXg4dmtHU2ZxWlhKMXVHOUFUTjlsaHkzYTZYcE1QamtYdmxSaFJtVURubnlGYmp1LURPN3dONUQzdDZoVWZac0o2a3dHVjFKOTlIbjBRekQ4NTZoS2VMNm5rcWZWOWliOGZfWGxqUXRhTmFDTl9ZTm9PN3ZxMFVZTUw5Ym9xUDZ6dHkwM29QVml1dHhBeVBQYkxMckhsNktEZ2E1M2wzNEloTlRPTmRMei1DVkRBVk9fcEs3enctQy1NakVMRFJnYmN2djVPSUIwSG9DeTJHajI2c0xaT2hITVRIS2VsVTI5QzVWUWNHYWRBOVNDbEVqRHRvUV93RUNaNVFxVXFQTzhCdkhZQ1Vyd1ZTNHhPZ0hSdlV0elJUQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -599,6 +643,11 @@
     {
       "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - 匯流新聞網",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tUl84X3UyOVpNSXZrS3pGcDF3UE5IZE1mYmxjM1A5OXRPMWRoalpfM0oxaXpGY29DNXlqM0pvTWhld1lGdnJQLXhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-10 12:53:14"
+    },
+    {
+      "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONWFINWZFNmFUbG15ckFpWkVwVm5OUnN1eE45ZUUxbG1sZTFJZmRyM25hTGxaSEN0VUJaNHl0TnAxcGJNT0pvY1NxbmxtSzdrU3A3cF9ZY2sxNjVNX0ZXLVNnX0h3aE5wenRLaHNUdG9ob0dBNXZOanJpcWUwajlhOHg4LUxBXzhLOHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-10 12:53:14"
     },
     {
@@ -635,24 +684,19 @@
       "title": "雲林縣長候選人張嘉郡宣布加碼敬老福利政策 身障者60歲可享敬老卡福利！ - 台灣華報",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KV1Y5RlI0N0p1RXp1dXRIUHdnY1NTVTFPZVRnZDV3TFNzcHhZUDJWN2cxTXNCZE5mQ0JFNzladVBXeUNNdm1naWE5NDZKWlRuNmpteG1ZZU5ZQl94MHlPb1YweUtVWVJFWkhF?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-09 22:01:12"
-    },
-    {
-      "title": "玻璃大廠罷工險引波瀾 張麗善成功拆彈 張嘉郡、劉建國無勝負 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQdm5ZaFlXMjRIcEExVzdyY1pDaUlCVi1GU2k3YUc3X2Z4VEtSYVV2RHRxUE83ZWozajhXdkdvV2tJQ3FwMV9OeVI3V2N3QVo1ZUpUYzFXNkF1djR0cXZJeFBKNFRYVTlfTUEtUDlUUDJLNlpud2dyNmVpU3ZzSkh4N1pNN0h5SGZxTTh3VUo1dDAxTnlCb0lUdGFJOFJ6dGFqeHE0bGpEZ05PZl9vOVppcGhkNV9CSnVQQkU1eUNMOUI3MHVScjNKVmdTc1VEYkZyd3l0UGloTndQUGQtM1o2NXExZVNfWlFJNVlpY0d0eGQwLVhMcUJlSC1GVFJzUl92Qnl1WkcxNlo4bzJScUdhcDlEa0ZjazdoemwwYWNhVDByTHh5eWVCdWNNTVBXbmxPUFVmMTI1XzdTRHlpaTR4bFVEbTV3MzZYT1k3VGlXcVdVOFc3Y2JHdWVNMEJqc282X0h2RVZ6SVF4Q1EzNjFOVm1fN3V2RlBFQU5YcXBvbjZMNVcyRU9Bb3JUUVdsczg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-09 18:27:37"
-    },
-    {
-      "title": "玻璃大廠罷工險引波瀾 張麗善成功拆彈 張嘉郡、劉建國無勝負 - 中時新聞網",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DdXJDc3d1M2Mta3U1cm9zOEFTdGJMNmU5ZXdMSDlHNHR0Q1hyMG5ObzQ2bllQVGpsOVl6cVF0bkhjREVzYmJXT0xsUVp2UFVveVFWTlEtTTRIcjAtWW8zSkRTZmtPMm1YOHZIeTRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-09 18:22:37"
-    },
-    {
-      "title": "張嘉郡再加碼敬老福利 倡身障者滿60歲提前享敬老卡優惠 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oWmN5Q2dqWkwyLTJCMzRZMFpxeDdqbGtTYW1YX3dZMVFseDloWEZlT2ZQNGZsb2NMWFdWd0tQNVRFempQRklYRW9LT0V5bmFHMUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-09 17:51:00"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "張嘉郡參加國慶升旗健走與鄉親共同迎接雙十國慶 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPQ0p6aWViaDFzTUZKcDQ2S05rbTRqXzl6ZFFDNm9pZ0lqUTQ0endTMlNvYm1KbWM2UUlhVmhKMXdRVHhWTjZWbjlXZG1oYXNZakQtMllwYmdMV3V1R2ZEdXFhdmtkYm10TUUzTFJQUE85WEs2SFprMWN4ZFdtR1REdnRCNnFzMWVOMWQxeHYzaUZCV191ZnJIVjFfV1hLdDVzbzcwZnZjaHloajRuWGVtSlJra0xmTGhnZVJUQUU5b2xEaTNBZ3hNbmJtY1RqYWJjSVdlam5tNDlKQW9JOW1HZ3B2YlFOYWkwUmFyZ1VGaFVmUVg0d3l3aUtNMXhjOFpaSzJVb1FSUEI2Tkk3NWpnVm9ibTBOeFZNZmtUUVpGQ2VjNXY4b0ZfQkhRU1ZjazB1TGtrbmxzcWZlQXJsZEdMM1ctLThlTXhOdWtzZXBreW9NSTEzVnFQRGh6Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-10 15:52:43"
+    },
+    {
+      "title": "劉建國批雲林發展「大卡卡」 台西競總成立喊打造「雲林流」 - 鏡週刊Mirror Media",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2dUF2Sm5ZOEJRX3hIb29kemhJbDBrNE5ZUUI0SWt2MnY5QUR2cE1PLVhPV3FCSjE1WGMtRU5iTTNGQWlpZ21EMHdLTVZNMkppTUV6QUpqaDdJdVhQRC1Hc3BMWmtDUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-10 15:38:00"
+    },
     {
       "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOa2xlOUpiWDhOTEM5M0llc2I4TXZ1TFMxTUZFQVJxZjMxSlNMaHRwaEItYUxialFoVGZ6V3dKMlV6TWJkXy1VX2x2MmlNT0RLMjFLWk5fcC1YQlFobDYtdXVEZjRzaDRHZXQ0amU1U05YWEhEYXRXUXd6TDBwd2UwRi16UXg4dmtHU2ZxWlhKMXVHOUFUTjlsaHkzYTZYcE1QamtYdmxSaFJtVURubnlGYmp1LURPN3dONUQzdDZoVWZac0o2a3dHVjFKOTlIbjBRekQ4NTZoS2VMNm5rcWZWOWliOGZfWGxqUXRhTmFDTl9ZTm9PN3ZxMFVZTUw5Ym9xUDZ6dHkwM29QVml1dHhBeVBQYkxMckhsNktEZ2E1M2wzNEloTlRPTmRMei1DVkRBVk9fcEs3enctQy1NakVMRFJnYmN2djVPSUIwSG9DeTJHajI2c0xaT2hITVRIS2VsVTI5QzVWUWNHYWRBOVNDbEVqRHRvUV93RUNaNVFxVXFQTzhCdkhZQ1Vyd1ZTNHhPZ0hSdlV0elJUQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -661,6 +705,11 @@
     {
       "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - 匯流新聞網",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tUl84X3UyOVpNSXZrS3pGcDF3UE5IZE1mYmxjM1A5OXRPMWRoalpfM0oxaXpGY29DNXlqM0pvTWhld1lGdnJQLXhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-10 12:53:14"
+    },
+    {
+      "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONWFINWZFNmFUbG15ckFpWkVwVm5OUnN1eE45ZUUxbG1sZTFJZmRyM25hTGxaSEN0VUJaNHl0TnAxcGJNT0pvY1NxbmxtSzdrU3A3cF9ZY2sxNjVNX0ZXLVNnX0h3aE5wenRLaHNUdG9ob0dBNXZOanJpcWUwajlhOHg4LUxBXzhLOHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-10 12:53:14"
     },
     {
@@ -737,21 +786,6 @@
       "title": "身障長者福利來了 張嘉郡加碼宣布：身障者60歲可享敬老卡福利 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQRXptV2c4bDdic09rSnBWUVVqcGRMVnZRLTB2T2Z1em9RUWZFVmt2cGNJMnk4cjRjV3RkcnVMSzdoNm01clJMYUN3eVRXMnVPMW5NN2NMUnVTenhhMXp2WElUS0YyZWkwTnlwWlVvUmRxcW5VdEpIVHFDZkNPS2VvUEdDY3ZpTElOMFExb3JtRkluTDFVaHZ5M0p0REZWZk44UzN2U1BDUy00MGFlRlU4SWZxZEhET3c0ZXk3U0pUc3B1djBMMlpqQzVFeGhHNjhjMmdfQ2JvN2t2TmhzNGdSVHg5SDBGV0hRc3RyWVhVa203OEx5QjRMdFhHeFJoLVZvRGx5cjZXRkowTFloZ19NSXVyenh6OGs4dHlJQjJnOUYzNkY1QUpkeFlxTUFqZkJscHJJQ09mcU1IMEloMERwMHpyVS1DT2l2SzFCMXNQT2dtWS1RWUkwV01RaWt2ZENXWW5KaE82WHZlV196NkhFeHZpX1htSFhBOExRbUdSOGxtSDEwUkUzVDlqQ1AxX2s2?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-09 15:00:00"
-    },
-    {
-      "title": "張嘉郡致詞突哽咽！憶輪椅上的阿公 當場鼻酸落淚 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPNnFKQUJneVRjNk9aRWhtVGhITzJYM0hESlViaDlhUUtPWVRjV05YWnZ4U2ZJd0JxS0k4YlV2d25oTmZfNjhOSWx0bEZFRUtxQXJhd3czejVJa0dYYlRabF9PMUNBXzFnRXA2SVRuU09SeERPUUhZRFRIMllaeDN1dVdBTmlPb0VxY1lhT1dUTEN4SFM4Nk9wbHUwSnJFdi1fMWZIQjZPUHRZcEpZd3N4SmpwckxpOWwtdlAxS2lMRDJycVRlS2VWSWpUeWtXTjkzU2ZPbWltOUdpZ2FOTkFGWG9PRUhRYi1sb1pLM05QNWY3WEdheTlYR2ptZDFjQlVmVzM0elcyS3V5VnV1WFN0cmpfRVhfX0NvSVFzMjlNcjhHdVNLS0ZEei1NdHpHM1haSE51a3Y4OXk5RERFb01GSmVKeWVsLVhJMDB4VlJmRzY4QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-09 14:21:17"
-    },
-    {
-      "title": "張嘉郡致詞突哽咽！憶輪椅上的阿公 當場鼻酸落淚 - 中時新聞網",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BUVkySUNzUDN2RTVTcWlmWm1YRTFrU3BZczJXMTFwVHhJNDkxcUljYzFNaWtJX3IybzVHTThxYVE5S2M2RWhzdjRWLS1kc09MODNqb2pIQ0pqZF84RklURkhtc0tNbktUanVqNUFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-09 13:51:56"
-    },
-    {
-      "title": "憶受坐輪椅阿公照顧一度哽咽 張嘉郡擴大福利對象：身障者60歲享敬老卡 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcHFkUWpKUWJfMmQ1a2dNazBZV3g2dmJlWnY2Z0JZZ1c0RVdaNl9QYWhhTW5Va3hqUUh2N01TckdWTEl4N2dRNHE2TExaZ0lFcTZadG8zbF8wQnJoY2pqOU5FMktQYUdqX1djNVRqVEZOYVYyVUFyRHd6c3VlLVZPM3hlUy1Id3dCRXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-09 13:51:52"
     }
   ],
   "latest_facebook_20": [
@@ -858,6 +892,16 @@
   ],
   "latest_news_20": [
     {
+      "title": "張嘉郡參加國慶升旗健走與鄉親共同迎接雙十國慶 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPQ0p6aWViaDFzTUZKcDQ2S05rbTRqXzl6ZFFDNm9pZ0lqUTQ0endTMlNvYm1KbWM2UUlhVmhKMXdRVHhWTjZWbjlXZG1oYXNZakQtMllwYmdMV3V1R2ZEdXFhdmtkYm10TUUzTFJQUE85WEs2SFprMWN4ZFdtR1REdnRCNnFzMWVOMWQxeHYzaUZCV191ZnJIVjFfV1hLdDVzbzcwZnZjaHloajRuWGVtSlJra0xmTGhnZVJUQUU5b2xEaTNBZ3hNbmJtY1RqYWJjSVdlam5tNDlKQW9JOW1HZ3B2YlFOYWkwUmFyZ1VGaFVmUVg0d3l3aUtNMXhjOFpaSzJVb1FSUEI2Tkk3NWpnVm9ibTBOeFZNZmtUUVpGQ2VjNXY4b0ZfQkhRU1ZjazB1TGtrbmxzcWZlQXJsZEdMM1ctLThlTXhOdWtzZXBreW9NSTEzVnFQRGh6Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-10 15:52:43"
+    },
+    {
+      "title": "劉建國批雲林發展「大卡卡」 台西競總成立喊打造「雲林流」 - 鏡週刊Mirror Media",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2dUF2Sm5ZOEJRX3hIb29kemhJbDBrNE5ZUUI0SWt2MnY5QUR2cE1PLVhPV3FCSjE1WGMtRU5iTTNGQWlpZ21EMHdLTVZNMkppTUV6QUpqaDdJdVhQRC1Hc3BMWmtDUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-10 15:38:00"
+    },
+    {
       "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOa2xlOUpiWDhOTEM5M0llc2I4TXZ1TFMxTUZFQVJxZjMxSlNMaHRwaEItYUxialFoVGZ6V3dKMlV6TWJkXy1VX2x2MmlNT0RLMjFLWk5fcC1YQlFobDYtdXVEZjRzaDRHZXQ0amU1U05YWEhEYXRXUXd6TDBwd2UwRi16UXg4dmtHU2ZxWlhKMXVHOUFUTjlsaHkzYTZYcE1QamtYdmxSaFJtVURubnlGYmp1LURPN3dONUQzdDZoVWZac0o2a3dHVjFKOTlIbjBRekQ4NTZoS2VMNm5rcWZWOWliOGZfWGxqUXRhTmFDTl9ZTm9PN3ZxMFVZTUw5Ym9xUDZ6dHkwM29QVml1dHhBeVBQYkxMckhsNktEZ2E1M2wzNEloTlRPTmRMei1DVkRBVk9fcEs3enctQy1NakVMRFJnYmN2djVPSUIwSG9DeTJHajI2c0xaT2hITVRIS2VsVTI5QzVWUWNHYWRBOVNDbEVqRHRvUV93RUNaNVFxVXFQTzhCdkhZQ1Vyd1ZTNHhPZ0hSdlV0elJUQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-10 12:57:29"
@@ -865,6 +909,11 @@
     {
       "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - 匯流新聞網",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tUl84X3UyOVpNSXZrS3pGcDF3UE5IZE1mYmxjM1A5OXRPMWRoalpfM0oxaXpGY29DNXlqM0pvTWhld1lGdnJQLXhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-10 12:53:14"
+    },
+    {
+      "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONWFINWZFNmFUbG15ckFpWkVwVm5OUnN1eE45ZUUxbG1sZTFJZmRyM25hTGxaSEN0VUJaNHl0TnAxcGJNT0pvY1NxbmxtSzdrU3A3cF9ZY2sxNjVNX0ZXLVNnX0h3aE5wenRLaHNUdG9ob0dBNXZOanJpcWUwajlhOHg4LUxBXzhLOHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-10 12:53:14"
     },
     {
@@ -941,21 +990,6 @@
       "title": "身障長者福利來了 張嘉郡加碼宣布：身障者60歲可享敬老卡福利 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQRXptV2c4bDdic09rSnBWUVVqcGRMVnZRLTB2T2Z1em9RUWZFVmt2cGNJMnk4cjRjV3RkcnVMSzdoNm01clJMYUN3eVRXMnVPMW5NN2NMUnVTenhhMXp2WElUS0YyZWkwTnlwWlVvUmRxcW5VdEpIVHFDZkNPS2VvUEdDY3ZpTElOMFExb3JtRkluTDFVaHZ5M0p0REZWZk44UzN2U1BDUy00MGFlRlU4SWZxZEhET3c0ZXk3U0pUc3B1djBMMlpqQzVFeGhHNjhjMmdfQ2JvN2t2TmhzNGdSVHg5SDBGV0hRc3RyWVhVa203OEx5QjRMdFhHeFJoLVZvRGx5cjZXRkowTFloZ19NSXVyenh6OGs4dHlJQjJnOUYzNkY1QUpkeFlxTUFqZkJscHJJQ09mcU1IMEloMERwMHpyVS1DT2l2SzFCMXNQT2dtWS1RWUkwV01RaWt2ZENXWW5KaE82WHZlV196NkhFeHZpX1htSFhBOExRbUdSOGxtSDEwUkUzVDlqQ1AxX2s2?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-09 15:00:00"
-    },
-    {
-      "title": "張嘉郡致詞突哽咽！憶輪椅上的阿公 當場鼻酸落淚 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPNnFKQUJneVRjNk9aRWhtVGhITzJYM0hESlViaDlhUUtPWVRjV05YWnZ4U2ZJd0JxS0k4YlV2d25oTmZfNjhOSWx0bEZFRUtxQXJhd3czejVJa0dYYlRabF9PMUNBXzFnRXA2SVRuU09SeERPUUhZRFRIMllaeDN1dVdBTmlPb0VxY1lhT1dUTEN4SFM4Nk9wbHUwSnJFdi1fMWZIQjZPUHRZcEpZd3N4SmpwckxpOWwtdlAxS2lMRDJycVRlS2VWSWpUeWtXTjkzU2ZPbWltOUdpZ2FOTkFGWG9PRUhRYi1sb1pLM05QNWY3WEdheTlYR2ptZDFjQlVmVzM0elcyS3V5VnV1WFN0cmpfRVhfX0NvSVFzMjlNcjhHdVNLS0ZEei1NdHpHM1haSE51a3Y4OXk5RERFb01GSmVKeWVsLVhJMDB4VlJmRzY4QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-09 14:21:17"
-    },
-    {
-      "title": "張嘉郡致詞突哽咽！憶輪椅上的阿公 當場鼻酸落淚 - 中時新聞網",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BUVkySUNzUDN2RTVTcWlmWm1YRTFrU3BZczJXMTFwVHhJNDkxcUljYzFNaWtJX3IybzVHTThxYVE5S2M2RWhzdjRWLS1kc09MODNqb2pIQ0pqZF84RklURkhtc0tNbktUanVqNUFB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-09 13:51:56"
-    },
-    {
-      "title": "憶受坐輪椅阿公照顧一度哽咽 張嘉郡擴大福利對象：身障者60歲享敬老卡 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcHFkUWpKUWJfMmQ1a2dNazBZV3g2dmJlWnY2Z0JZZ1c0RVdaNl9QYWhhTW5Va3hqUUh2N01TckdWTEl4N2dRNHE2TExaZ0lFcTZadG8zbF8wQnJoY2pqOU5FMktQYUdqX1djNVRqVEZOYVYyVUFyRHd6c3VlLVZPM3hlUy1Id3dCRXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-09 13:51:52"
     }
   ],
   "person_sections": {
@@ -1064,6 +1098,11 @@
       ],
       "news": [
         {
+          "title": "張嘉郡參加國慶升旗健走與鄉親共同迎接雙十國慶 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPQ0p6aWViaDFzTUZKcDQ2S05rbTRqXzl6ZFFDNm9pZ0lqUTQ0endTMlNvYm1KbWM2UUlhVmhKMXdRVHhWTjZWbjlXZG1oYXNZakQtMllwYmdMV3V1R2ZEdXFhdmtkYm10TUUzTFJQUE85WEs2SFprMWN4ZFdtR1REdnRCNnFzMWVOMWQxeHYzaUZCV191ZnJIVjFfV1hLdDVzbzcwZnZjaHloajRuWGVtSlJra0xmTGhnZVJUQUU5b2xEaTNBZ3hNbmJtY1RqYWJjSVdlam5tNDlKQW9JOW1HZ3B2YlFOYWkwUmFyZ1VGaFVmUVg0d3l3aUtNMXhjOFpaSzJVb1FSUEI2Tkk3NWpnVm9ibTBOeFZNZmtUUVpGQ2VjNXY4b0ZfQkhRU1ZjazB1TGtrbmxzcWZlQXJsZEdMM1ctLThlTXhOdWtzZXBreW9NSTEzVnFQRGh6Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-10-10 15:52:43"
+        },
+        {
           "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOa2xlOUpiWDhOTEM5M0llc2I4TXZ1TFMxTUZFQVJxZjMxSlNMaHRwaEItYUxialFoVGZ6V3dKMlV6TWJkXy1VX2x2MmlNT0RLMjFLWk5fcC1YQlFobDYtdXVEZjRzaDRHZXQ0amU1U05YWEhEYXRXUXd6TDBwd2UwRi16UXg4dmtHU2ZxWlhKMXVHOUFUTjlsaHkzYTZYcE1QamtYdmxSaFJtVURubnlGYmp1LURPN3dONUQzdDZoVWZac0o2a3dHVjFKOTlIbjBRekQ4NTZoS2VMNm5rcWZWOWliOGZfWGxqUXRhTmFDTl9ZTm9PN3ZxMFVZTUw5Ym9xUDZ6dHkwM29QVml1dHhBeVBQYkxMckhsNktEZ2E1M2wzNEloTlRPTmRMei1DVkRBVk9fcEs3enctQy1NakVMRFJnYmN2djVPSUIwSG9DeTJHajI2c0xaT2hITVRIS2VsVTI5QzVWUWNHYWRBOVNDbEVqRHRvUV93RUNaNVFxVXFQTzhCdkhZQ1Vyd1ZTNHhPZ0hSdlV0elJUQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-10 12:57:29"
@@ -1071,6 +1110,11 @@
         {
           "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - 匯流新聞網",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tUl84X3UyOVpNSXZrS3pGcDF3UE5IZE1mYmxjM1A5OXRPMWRoalpfM0oxaXpGY29DNXlqM0pvTWhld1lGdnJQLXhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-10-10 12:53:14"
+        },
+        {
+          "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONWFINWZFNmFUbG15ckFpWkVwVm5OUnN1eE45ZUUxbG1sZTFJZmRyM25hTGxaSEN0VUJaNHl0TnAxcGJNT0pvY1NxbmxtSzdrU3A3cF9ZY2sxNjVNX0ZXLVNnX0h3aE5wenRLaHNUdG9ob0dBNXZOanJpcWUwajlhOHg4LUxBXzhLOHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-10 12:53:14"
         },
         {
@@ -1152,16 +1196,6 @@
           "title": "憶受坐輪椅阿公照顧一度哽咽 張嘉郡擴大福利對象：身障者60歲享敬老卡 - PChome Online 新聞",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcHFkUWpKUWJfMmQ1a2dNazBZV3g2dmJlWnY2Z0JZZ1c0RVdaNl9QYWhhTW5Va3hqUUh2N01TckdWTEl4N2dRNHE2TExaZ0lFcTZadG8zbF8wQnJoY2pqOU5FMktQYUdqX1djNVRqVEZOYVYyVUFyRHd6c3VlLVZPM3hlUy1Id3dCRXc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-09 13:51:52"
-        },
-        {
-          "title": "憶受坐輪椅阿公照顧一度哽咽 張嘉郡擴大福利對象：身障者60 歲享敬老卡 - 匯流新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9NQmMta1ZGR09ia2lBMDVaN1h6NnF0QkVKSDZoZWV6Z01qVl9Cak05aFVjRTFzOWFzN0FYUk41Y2lfcGtzV01YLUZn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-10-09 13:51:52"
-        },
-        {
-          "title": "身心障礙長者利多！張嘉郡加碼宣布：身障者60歲可享敬老卡福利 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQYWVNODhvVWtBNEpMb3lYbGJmb0k0TTlOcjNwdVBvT3RKbmEtNmV5YjJLcXFfbGpQSlRKdXc5enlwZWh4QmgxWFpKSnhSNzFmNnBNUGYwdndqRmR4dndiSkllUnVFZ2ZoNWNBeEZuNXNJWEV1UnlHUlE3YjlBOVRSTFF3cm4tb2Z5N0ZkYTdWNjY1WWhlZlc4Z2k1cnNGY2FTNlNQUWxxNC1XMTJqRlJvMjM3MDdMSjZYWkpkWFdOTWNwZHJxWUhCaEI4dXprNDVuaUVHOVZsbEpxbVc3dTNtLXozdjdOZnRjOUl0ZFl4cGRHblpnQktGdXEzaG5hc21qY3ZRTW1nOTdXNHVIZGYtRkEtME90V1doeElSenJkMTVQX19MUnJfal9mWGxHTGZyT3dHbTJyME1xdzFKNlZMYkZWS05NVEZCM1U1STJKREF1UW10eWs4OHRMMW1iNmp4emE5d1lrSzZyeTBuUGxfcERjcGtHU1czOUdheUowY1J5ZThiYXp4dXdRVDJUVk1F?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-10-09 13:44:00"
         }
       ]
     },
@@ -1270,6 +1304,11 @@
       ],
       "news": [
         {
+          "title": "劉建國批雲林發展「大卡卡」 台西競總成立喊打造「雲林流」 - 鏡週刊Mirror Media",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2dUF2Sm5ZOEJRX3hIb29kemhJbDBrNE5ZUUI0SWt2MnY5QUR2cE1PLVhPV3FCSjE1WGMtRU5iTTNGQWlpZ21EMHdLTVZNMkppTUV6QUpqaDdJdVhQRC1Hc3BMWmtDUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-10-10 15:38:00"
+        },
+        {
           "title": "討論牆 | 蘇治芬雲林徒步宣講 表態若受邀會加入劉建國團隊 - LINE TODAY",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zeFktQkthT254TDRmOXc0X2psS2FxZ2hJN0g5ZHd3TXVIR3gxMGd4ZU1QZGlPUXJsOEhDclVoSmZ2S1JmVDd0QlN2QUoyVEgxTlFEQVlaRkVQOTk1QUtLV2lJWXQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-10 08:43:57"
@@ -1363,17 +1402,22 @@
           "title": "劉建國大將涉賄選！藍營喊「鐵證如山」 綠反擊：勿未審先判 - TVBS新聞網",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Rb3NtQTRtQ25mRGVUWkJycmlXbzdGNDc2UTlPM2JPc216TDRJc0J3bjJKYnU0amZsdW5zNEt6OUZtMVlCM2ZTaHJZY0JLWUdLbFNZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-06 19:49:00"
-        },
-        {
-          "title": "劉建國教育政見端「三愛」　校安、教師減負、孩子課後陪伴 - ETtoday新聞雲",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nMFVSVmdsNGg0bmhFSDR2R1VLQjFVZVhEUk9KbE56anB2VWVTVzd2d3pIMjljMVZBRHF5LTdRWmdRRTAzZVMwLThoTF9oSlRDdU9mTng3Qk1yb3k1aEHSAUtBVV95cUxOVzFEMjlvT25Tc3JXRk9HOVhDdjZtQ0RHbzBENUhVN0ZvRDNDcHgyRUg1UzFuTExFdjhWTU15SmdmclJScVNKUC12Qnc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-10-06 19:03:00"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "張嘉郡參加國慶升旗健走與鄉親共同迎接雙十國慶 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPQ0p6aWViaDFzTUZKcDQ2S05rbTRqXzl6ZFFDNm9pZ0lqUTQ0endTMlNvYm1KbWM2UUlhVmhKMXdRVHhWTjZWbjlXZG1oYXNZakQtMllwYmdMV3V1R2ZEdXFhdmtkYm10TUUzTFJQUE85WEs2SFprMWN4ZFdtR1REdnRCNnFzMWVOMWQxeHYzaUZCV191ZnJIVjFfV1hLdDVzbzcwZnZjaHloajRuWGVtSlJra0xmTGhnZVJUQUU5b2xEaTNBZ3hNbmJtY1RqYWJjSVdlam5tNDlKQW9JOW1HZ3B2YlFOYWkwUmFyZ1VGaFVmUVg0d3l3aUtNMXhjOFpaSzJVb1FSUEI2Tkk3NWpnVm9ibTBOeFZNZmtUUVpGQ2VjNXY4b0ZfQkhRU1ZjazB1TGtrbmxzcWZlQXJsZEdMM1ctLThlTXhOdWtzZXBreW9NSTEzVnFQRGh6Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 15:52:43"
+      },
+      {
+        "title": "劉建國批雲林發展「大卡卡」 台西競總成立喊打造「雲林流」 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2dUF2Sm5ZOEJRX3hIb29kemhJbDBrNE5ZUUI0SWt2MnY5QUR2cE1PLVhPV3FCSjE1WGMtRU5iTTNGQWlpZ21EMHdLTVZNMkppTUV6QUpqaDdJdVhQRC1Hc3BMWmtDUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 15:38:00"
+      },
       {
         "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOa2xlOUpiWDhOTEM5M0llc2I4TXZ1TFMxTUZFQVJxZjMxSlNMaHRwaEItYUxialFoVGZ6V3dKMlV6TWJkXy1VX2x2MmlNT0RLMjFLWk5fcC1YQlFobDYtdXVEZjRzaDRHZXQ0amU1U05YWEhEYXRXUXd6TDBwd2UwRi16UXg4dmtHU2ZxWlhKMXVHOUFUTjlsaHkzYTZYcE1QamtYdmxSaFJtVURubnlGYmp1LURPN3dONUQzdDZoVWZac0o2a3dHVjFKOTlIbjBRekQ4NTZoS2VMNm5rcWZWOWliOGZfWGxqUXRhTmFDTl9ZTm9PN3ZxMFVZTUw5Ym9xUDZ6dHkwM29QVml1dHhBeVBQYkxMckhsNktEZ2E1M2wzNEloTlRPTmRMei1DVkRBVk9fcEs3enctQy1NakVMRFJnYmN2djVPSUIwSG9DeTJHajI2c0xaT2hITVRIS2VsVTI5QzVWUWNHYWRBOVNDbEVqRHRvUV93RUNaNVFxVXFQTzhCdkhZQ1Vyd1ZTNHhPZ0hSdlV0elJUQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1382,6 +1426,11 @@
       {
         "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - 匯流新聞網",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tUl84X3UyOVpNSXZrS3pGcDF3UE5IZE1mYmxjM1A5OXRPMWRoalpfM0oxaXpGY29DNXlqM0pvTWhld1lGdnJQLXhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 12:53:14"
+      },
+      {
+        "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONWFINWZFNmFUbG15ckFpWkVwVm5OUnN1eE45ZUUxbG1sZTFJZmRyM25hTGxaSEN0VUJaNHl0TnAxcGJNT0pvY1NxbmxtSzdrU3A3cF9ZY2sxNjVNX0ZXLVNnX0h3aE5wenRLaHNUdG9ob0dBNXZOanJpcWUwajlhOHg4LUxBXzhLOHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-10 12:53:14"
       },
       {
@@ -1461,6 +1510,16 @@
   "latest_by_platform_7d": {
     "news": [
       {
+        "title": "張嘉郡參加國慶升旗健走與鄉親共同迎接雙十國慶 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPQ0p6aWViaDFzTUZKcDQ2S05rbTRqXzl6ZFFDNm9pZ0lqUTQ0endTMlNvYm1KbWM2UUlhVmhKMXdRVHhWTjZWbjlXZG1oYXNZakQtMllwYmdMV3V1R2ZEdXFhdmtkYm10TUUzTFJQUE85WEs2SFprMWN4ZFdtR1REdnRCNnFzMWVOMWQxeHYzaUZCV191ZnJIVjFfV1hLdDVzbzcwZnZjaHloajRuWGVtSlJra0xmTGhnZVJUQUU5b2xEaTNBZ3hNbmJtY1RqYWJjSVdlam5tNDlKQW9JOW1HZ3B2YlFOYWkwUmFyZ1VGaFVmUVg0d3l3aUtNMXhjOFpaSzJVb1FSUEI2Tkk3NWpnVm9ibTBOeFZNZmtUUVpGQ2VjNXY4b0ZfQkhRU1ZjazB1TGtrbmxzcWZlQXJsZEdMM1ctLThlTXhOdWtzZXBreW9NSTEzVnFQRGh6Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 15:52:43"
+      },
+      {
+        "title": "劉建國批雲林發展「大卡卡」 台西競總成立喊打造「雲林流」 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2dUF2Sm5ZOEJRX3hIb29kemhJbDBrNE5ZUUI0SWt2MnY5QUR2cE1PLVhPV3FCSjE1WGMtRU5iTTNGQWlpZ21EMHdLTVZNMkppTUV6QUpqaDdJdVhQRC1Hc3BMWmtDUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 15:38:00"
+      },
+      {
         "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOa2xlOUpiWDhOTEM5M0llc2I4TXZ1TFMxTUZFQVJxZjMxSlNMaHRwaEItYUxialFoVGZ6V3dKMlV6TWJkXy1VX2x2MmlNT0RLMjFLWk5fcC1YQlFobDYtdXVEZjRzaDRHZXQ0amU1U05YWEhEYXRXUXd6TDBwd2UwRi16UXg4dmtHU2ZxWlhKMXVHOUFUTjlsaHkzYTZYcE1QamtYdmxSaFJtVURubnlGYmp1LURPN3dONUQzdDZoVWZac0o2a3dHVjFKOTlIbjBRekQ4NTZoS2VMNm5rcWZWOWliOGZfWGxqUXRhTmFDTl9ZTm9PN3ZxMFVZTUw5Ym9xUDZ6dHkwM29QVml1dHhBeVBQYkxMckhsNktEZ2E1M2wzNEloTlRPTmRMei1DVkRBVk9fcEs3enctQy1NakVMRFJnYmN2djVPSUIwSG9DeTJHajI2c0xaT2hITVRIS2VsVTI5QzVWUWNHYWRBOVNDbEVqRHRvUV93RUNaNVFxVXFQTzhCdkhZQ1Vyd1ZTNHhPZ0hSdlV0elJUQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-10 12:57:29"
@@ -1468,6 +1527,11 @@
       {
         "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - 匯流新聞網",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tUl84X3UyOVpNSXZrS3pGcDF3UE5IZE1mYmxjM1A5OXRPMWRoalpfM0oxaXpGY29DNXlqM0pvTWhld1lGdnJQLXhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 12:53:14"
+      },
+      {
+        "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONWFINWZFNmFUbG15ckFpWkVwVm5OUnN1eE45ZUUxbG1sZTFJZmRyM25hTGxaSEN0VUJaNHl0TnAxcGJNT0pvY1NxbmxtSzdrU3A3cF9ZY2sxNjVNX0ZXLVNnX0h3aE5wenRLaHNUdG9ob0dBNXZOanJpcWUwajlhOHg4LUxBXzhLOHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-10 12:53:14"
       },
       {
@@ -1644,21 +1708,6 @@
         "title": "高鐵特區文小非營利幼兒園竣工啟用 張嘉郡：完善教保服務減輕家庭育兒負擔 - 上報Up Media",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EVU1sOG91QV81cWRpbnk1WGh0MTRCdmM1eTlBd0J1OGdmTEFTU0RMeGFYQ2RsS3A5eDFTM3czZlp3YUo2dVMyMVlUektGVjlDUjVWbE81LXBiUVU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-07 14:29:00"
-      },
-      {
-        "title": "張嘉郡成功爭取教育部補助經費 雲林高鐵特區文小非營利幼兒園今啟用 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOaThrRFU0VEVmWXRFTVJjbGN1Q3VXQkIwOWdkeTFHbmpfZWVUOW9SQmNrN1k3dW9rLWxaYjJ5akk1WGhrNzJIblBvRm5JZk94MzNqOVNsak04THRCa1ZSc3Mzb0ZsZTVEeTVlN3gtT0FDU3Q1cHNXbl93cVhSbm5kdDFfM0Zxa0xFQW1fMjMySXVpcVBOdlpMMXBnYjJ2N2FkbmI0Y2hoNUtqSVlMbzdjLVhfUlpYODFrUHpyZjgtUjJrMllYc01icVMxZlRJcDI1LTNJbEhzcW81ci0yNW9zSWVCRW13MEh4N19VYkZFOWpFenl5a3lnX1JObEl2djNyblNMYmVMVF9JMElUaGgwaVhuTWZ3eFdfZDZyOXBaMWtvdXhvaHJVQ2JUUENwSk9yaHJzZWhMRXAwZmhFN2tGMnpjTERBSEhyWVJFelV6T1VEQldkMTVCUWI2eWNOS2JZNGVrWlhWbTdZdGtjMWhuUHFJeG9JQjVOcjhLQjl3UDB5NHZhcUJlVTZEbVY1aEkzTE9EUmIxUlpEXzk3NHNoekNMWVo0WGo2eXZNQ2x5Ry05OHNwWldqWFF0XzVlSTBKMXFfTU4zc2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-07 13:51:27"
-      },
-      {
-        "title": "張嘉郡成功爭取教育部補助經費 雲林高鐵特區文小非營利幼兒園今啟用 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbnlKdWRtZWZCd0NiSzA5VnJXY1A4Xzl2UHc0bW9RRHhMVGVVZGU4TFVoaDRPYVA4UmJaU3h1OWJvallGdFlpaXAwbVJ1aHllY241bi16RjNKR0kyeFNDTlhkZlhINnhqVU13bVhhZkpnelk1ajBZZEc4YjJMWTZtSmVjMkd3c0J3Z1E?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-07 13:42:17"
-      },
-      {
-        "title": "張嘉郡成功爭取教育部補助經費 雲林高鐵特區文小非營利幼兒園今啟用 - 匯流新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xRFlwdzQ1Wnc0UDc2MEVzUnZQVGtaZHk0SHIzVkZRVEZOMXRBVGQ2SkVVRWRjREJNSHFEQjZyVWxnRC1Hd08yOTRn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-07 13:42:17"
       }
     ],
     "facebook": [
@@ -1856,6 +1905,20 @@
     "hour": [],
     "day": [
       {
+        "title": "張嘉郡參加國慶升旗健走與鄉親共同迎接雙十國慶 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPQ0p6aWViaDFzTUZKcDQ2S05rbTRqXzl6ZFFDNm9pZ0lqUTQ0endTMlNvYm1KbWM2UUlhVmhKMXdRVHhWTjZWbjlXZG1oYXNZakQtMllwYmdMV3V1R2ZEdXFhdmtkYm10TUUzTFJQUE85WEs2SFprMWN4ZFdtR1REdnRCNnFzMWVOMWQxeHYzaUZCV191ZnJIVjFfV1hLdDVzbzcwZnZjaHloajRuWGVtSlJra0xmTGhnZVJUQUU5b2xEaTNBZ3hNbmJtY1RqYWJjSVdlam5tNDlKQW9JOW1HZ3B2YlFOYWkwUmFyZ1VGaFVmUVg0d3l3aUtNMXhjOFpaSzJVb1FSUEI2Tkk3NWpnVm9ibTBOeFZNZmtUUVpGQ2VjNXY4b0ZfQkhRU1ZjazB1TGtrbmxzcWZlQXJsZEdMM1ctLThlTXhOdWtzZXBreW9NSTEzVnFQRGh6Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 15:52:43",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國批雲林發展「大卡卡」 台西競總成立喊打造「雲林流」 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2dUF2Sm5ZOEJRX3hIb29kemhJbDBrNE5ZUUI0SWt2MnY5QUR2cE1PLVhPV3FCSjE1WGMtRU5iTTNGQWlpZ21EMHdLTVZNMkppTUV6QUpqaDdJdVhQRC1Hc3BMWmtDUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 15:38:00",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "雲林大卡卡，產業發展不能再原地踏步！ 今天建國台西競選總部正式成立，感謝所有到場的鄉親朋友！ 也感謝台西鄉長候選人 #許常鎮 出席支持，以及我立院好同事 #王義川、競總總督導 #蘇治芬、競總本部副主委 #林源泉、#丁彥哲，以及立法院最高顧問 #李明憲，一 - Facebook",
         "url": "https://news.google.com/rss/articles/CBMihAhBVV95cUxQejRGVGN5b0M3aExIWW4zRkQ3N0poSzZ0a2FUWU9abTZMWTQ1bUIwX2ZJNXJDbE55T2dLdmhXVG8zdWptV2duaG83QjloQWVwNHo2c2ZyeDZaZFRKRnA5NzZCa2lDQV9MN3R0MVJBaXl6cl9HeUIyNFM1MGM1dFRLLXhXeFBhYXpidGY3b0l5aE96aGpIaUNEZ2cxdnZnYkpoOWZKZ0NVdndzY2VFTnp4MGRGM2h0QXhPa0NtNUpqMHdDbmFFOFFFWno2WmEzUnRxdjAtcUhaZmNHUzdJVW5kM0VENC1Oclk4VW1uWXFoVnZ5T1pKMTFDUmNMQ3JzZHFwdTJNdW9uQm5ETnB1T19ZNjFBdWVPWjRra0k3S0RIeklidDBZTWdaQTZjR2VsXzIwS0RMMDVZUWZpRm5FQS03NGM3WlJ5bFc0aEx4MWZlSzhSdmd5dG5VUlg5M2MyZ2ctNVdCTkI4TGRjTDJROHg0YjlWZE1OR05SQ0dZVGtmT0JiTUU1dWFjeGZuVzNzTTFzcENXRE5hOXN2QnpRSEZZS0E3bVdnNGszRzM2bF9ZT0xPWW9oX0N6c0ZJTl9RODZ0YnVpbnpLbjFZQ0o3QjlneWlPN0NmVllrN0xTUHI3UmZDVjZpQ0hCSDlfTE9kSzJWVS1Tbm9XTV9mdndreF9oSUVoRWpQQ00xYlQ4QVE4ZnVmWVpLaTJSWElJdGZ2REkyZTZkSjR0VWFGWkdSWGp1bm93bDZWZ0RIUnlYRFdxNDl2NXZobXp5UkZLNGZwY1A1ZDhsRGJjLXVFQXFwaEhZS0ljYTJHZWJkNkZyYlpqUEhZd0FyanlkNDJ2d0MybXVTa3BPSG5aMjVqcnpUVVRTVWtxb25zdXptRHNwX0FCdkFDR1VnUXpwUG40dHFrZEZNLWJYbzkwWEdFeWFxSjNzUVNPbW5jcnN0eHRnVllRdHVybmlTVDVSZm1qRkozcktKX0t3RjhNYkR0eGE1RGxJcVZYQmlvY1JNVE4weXFZRnIxSnZ5WlZneEJ2cWt0ZzYzVVpXSk5oczlFQzRwMGhyNjZkZEF4R1NjMUJQVFk2WVkySmZVUnFjXy1TY3F4bHJidUE5T0xacUVRMkpGQ1JzZVVzcGV3RkttT3Y4U19ZLUoxYzk3UVVOSklxcFVqa0g5X0dJLUpwOUVVcU5ZcF9EbHNVZVQ5VGc0M2p0VVdKVG1xY0Z3cUg2aDBEaWZKY1JBMkE2eW4tQ3cyUFU4UFVsbE8weXhxcE1NdW1qZXBva0c4TWl1aE5VZ2tUaDRBb1NVZlVZMVdmTmthTmhqRm1nbGYtbnh3WVZCcklvTVpTWEEybl9yUHJsbGl3aW5nN0JFeVpOYg",
         "time": "2026-10-10 14:56:07",
@@ -1872,6 +1935,13 @@
       {
         "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - 匯流新聞網",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tUl84X3UyOVpNSXZrS3pGcDF3UE5IZE1mYmxjM1A5OXRPMWRoalpfM0oxaXpGY29DNXlqM0pvTWhld1lGdnJQLXhn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 12:53:14",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "張麗善最後一次主持國慶交棒意味濃 張嘉郡偕千名鄉親活力齊聚 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONWFINWZFNmFUbG15ckFpWkVwVm5OUnN1eE45ZUUxbG1sZTFJZmRyM25hTGxaSEN0VUJaNHl0TnAxcGJNT0pvY1NxbmxtSzdrU3A3cF9ZY2sxNjVNX0ZXLVNnX0h3aE5wenRLaHNUdG9ob0dBNXZOanJpcWUwajlhOHg4LUxBXzhLOHc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-10 12:53:14",
         "platform": "news",
         "risk": "綠"
@@ -1973,7 +2043,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 6
+        "count": 7
       }
     ],
     "groups": []
