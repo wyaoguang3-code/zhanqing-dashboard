@@ -1,11 +1,11 @@
 {
   "site_name": "戰情儀表板",
-  "generated_at": "2026-10-10T09:35:59.161621+00:00",
+  "generated_at": "2026-10-10T09:53:18.961888+00:00",
   "metrics": {
-    "total_24h": 20,
-    "prev_24h": 19,
-    "growth_pct": 5.26,
-    "news_24h": 17,
+    "total_24h": 21,
+    "prev_24h": 20,
+    "growth_pct": 5.0,
+    "news_24h": 18,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -14,10 +14,10 @@
     }
   },
   "metrics_7d": {
-    "total": 250,
+    "total": 252,
     "prev": 253,
-    "growth_pct": -1.19,
-    "news": 213,
+    "growth_pct": -0.4,
+    "news": 215,
     "anomaly": {
       "level": "綠",
       "current_hour_count": 0,
@@ -28,7 +28,7 @@
   "by_platform": [
     {
       "platform": "news",
-      "count": 17
+      "count": 18
     },
     {
       "platform": "facebook",
@@ -38,7 +38,7 @@
   "by_platform_7d": [
     {
       "platform": "news",
-      "count": 213
+      "count": 215
     },
     {
       "platform": "facebook",
@@ -50,10 +50,6 @@
     }
   ],
   "by_hour": [
-    {
-      "hour": "2026-10-09 17:00",
-      "count": 1
-    },
     {
       "hour": "2026-10-09 18:00",
       "count": 2
@@ -93,6 +89,10 @@
     {
       "hour": "2026-10-10 16:00",
       "count": 1
+    },
+    {
+      "hour": "2026-10-10 17:00",
+      "count": 2
     }
   ],
   "by_hour_7d": [
@@ -411,12 +411,16 @@
     {
       "hour": "2026-10-10 16:00",
       "count": 1
+    },
+    {
+      "hour": "2026-10-10 17:00",
+      "count": 2
     }
   ],
   "mention_by_platform_24h": [
     {
       "platform": "news",
-      "count": 17
+      "count": 18
     },
     {
       "platform": "facebook",
@@ -425,6 +429,16 @@
   ],
   "mention_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國台西競總成立 批雲林產業停滯：別再「大卡卡」！ - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNN05leU1nbmJkZk1fX3BJbXFUMVlXU0daT1BCeXNYUEJzWjAzVmV1VlJ0NkpFTmlIbndTRzlxSzRKWHY0b1JZd0I1bUZXUEViNzNZaWxHbjB2ZWdoa1dVblB6ZTRCc0ZaUS16T0M5UXRmQzNieFN4eDZBU1M1RHNSN1A0dzBSTW9pNUlkV1I0TVVyWG1ocUlLMS1vZl9CMl9LSmF6RXZhbzlFNFZoSHN5dUZDV0hMXzBWMWhJSXk5TmpJb195Y24zX2NJYmhIRC1nZGNRS0NvRjdSSTVaTU1HelA1MHVUWFhjVEJLS0ppYXVZdmNPRW5iajVzcmJlR2pWRHNWcXZrUDdiY0N1LWdKek5jY3dJUVg1ZEtKTWNQYS10VGhUUHoxUEc1QmdXb0hoWXMwd1VicTdCb08yYXVSMXM3R0R3ajVTRG5WTUJBWFVsem8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 17:04:02"
+      },
+      {
+        "title": "劉建國台西競總成立 批雲林產業停滯：別再「大卡卡」！ - 互傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IUlJ2N1JSMjZrNEFsOHYzWjNfd0VQbUFkSWVrZmpvQ2dhOWJwbHR4blJDb21yRElXalJmMjktaFY1dE45OU1fR2hoQ2ZKR1NTWUM1dA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 17:04:02"
+      },
       {
         "title": "台西競總成立 劉建國：產業發展不能原地踏步 要打造「雲林流」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPUkZlMl9ubGZYM1JBUm5qNGlVeUQzUWNzVHNJUEFxcFRYaG5WTUVTNkptSTVUVHF1VGVqLWNUVnF3QV9yTVdRZXh4V2l4c1hsQU5pWUxkd1I3VFpWQnVYRC1scnVRZVpaMHF6b1lORmt1cUdKWVlCSl8yQW5RS1BQN1hyOWw3WUVhSUZWTU5rWnF6SmhYUFBpandTd0ppbndZZTVpcUtCd2Vpa1lxZHFrRkhHc2VZTDY0dTEtLXU2eEZyek0yQ3JRWGZROVlwRFJOaWlJekRKZU9FVU5xN3ZDcG51Q3dnVnFhX3ZUdnBKV3BPdmNrN2VVazlydGpPSVkzNmpreU1JUGJFNGJicGpQRVhNcnNQV0diQUNnU0V3N204SVZlV1ZaaWJYc1d1RlJLZEliZ29sMmJMVWdMOE83MG9vNWt6aENPSkNjN0N2dkVHYkFtUzJKYjBIZ1pwRjJqcUpHQjZTWURmVzRUMUh0bTJ4YV9ITk9GdEV4enpVRl9KWUZa?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -504,11 +518,6 @@
         "title": "玻璃大廠罷工險引波瀾 張麗善成功拆彈 張嘉郡、劉建國無勝負 - 中時新聞網",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DdXJDc3d1M2Mta3U1cm9zOEFTdGJMNmU5ZXdMSDlHNHR0Q1hyMG5ObzQ2bllQVGpsOVl6cVF0bkhjREVzYmJXT0xsUVp2UFVveVFWTlEtTTRIcjAtWW8zSkRTZmtPMm1YOHZIeTRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-09 18:22:37"
-      },
-      {
-        "title": "張嘉郡再加碼敬老福利 倡身障者滿60歲提前享敬老卡優惠 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oWmN5Q2dqWkwyLTJCMzRZMFpxeDdqbGtTYW1YX3dZMVFseDloWEZlT2ZQNGZsb2NMWFdWd0tQNVRFempQRklYRW9LT0V5bmFHMUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-09 17:51:00"
       }
     ],
     "facebook": [
@@ -522,7 +531,7 @@
   "alias_by_platform_24h": [
     {
       "platform": "news",
-      "count": 17
+      "count": 18
     },
     {
       "platform": "facebook",
@@ -531,6 +540,16 @@
   ],
   "alias_latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國台西競總成立 批雲林產業停滯：別再「大卡卡」！ - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNN05leU1nbmJkZk1fX3BJbXFUMVlXU0daT1BCeXNYUEJzWjAzVmV1VlJ0NkpFTmlIbndTRzlxSzRKWHY0b1JZd0I1bUZXUEViNzNZaWxHbjB2ZWdoa1dVblB6ZTRCc0ZaUS16T0M5UXRmQzNieFN4eDZBU1M1RHNSN1A0dzBSTW9pNUlkV1I0TVVyWG1ocUlLMS1vZl9CMl9LSmF6RXZhbzlFNFZoSHN5dUZDV0hMXzBWMWhJSXk5TmpJb195Y24zX2NJYmhIRC1nZGNRS0NvRjdSSTVaTU1HelA1MHVUWFhjVEJLS0ppYXVZdmNPRW5iajVzcmJlR2pWRHNWcXZrUDdiY0N1LWdKek5jY3dJUVg1ZEtKTWNQYS10VGhUUHoxUEc1QmdXb0hoWXMwd1VicTdCb08yYXVSMXM3R0R3ajVTRG5WTUJBWFVsem8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 17:04:02"
+      },
+      {
+        "title": "劉建國台西競總成立 批雲林產業停滯：別再「大卡卡」！ - 互傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IUlJ2N1JSMjZrNEFsOHYzWjNfd0VQbUFkSWVrZmpvQ2dhOWJwbHR4blJDb21yRElXalJmMjktaFY1dE45OU1fR2hoQ2ZKR1NTWUM1dA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 17:04:02"
+      },
       {
         "title": "台西競總成立 劉建國：產業發展不能原地踏步 要打造「雲林流」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPUkZlMl9ubGZYM1JBUm5qNGlVeUQzUWNzVHNJUEFxcFRYaG5WTUVTNkptSTVUVHF1VGVqLWNUVnF3QV9yTVdRZXh4V2l4c1hsQU5pWUxkd1I3VFpWQnVYRC1scnVRZVpaMHF6b1lORmt1cUdKWVlCSl8yQW5RS1BQN1hyOWw3WUVhSUZWTU5rWnF6SmhYUFBpandTd0ppbndZZTVpcUtCd2Vpa1lxZHFrRkhHc2VZTDY0dTEtLXU2eEZyek0yQ3JRWGZROVlwRFJOaWlJekRKZU9FVU5xN3ZDcG51Q3dnVnFhX3ZUdnBKV3BPdmNrN2VVazlydGpPSVkzNmpreU1JUGJFNGJicGpQRVhNcnNQV0diQUNnU0V3N204SVZlV1ZaaWJYc1d1RlJLZEliZ29sMmJMVWdMOE83MG9vNWt6aENPSkNjN0N2dkVHYkFtUzJKYjBIZ1pwRjJqcUpHQjZTWURmVzRUMUh0bTJ4YV9ITk9GdEV4enpVRl9KWUZa?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -610,11 +629,6 @@
         "title": "玻璃大廠罷工險引波瀾 張麗善成功拆彈 張嘉郡、劉建國無勝負 - 中時新聞網",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DdXJDc3d1M2Mta3U1cm9zOEFTdGJMNmU5ZXdMSDlHNHR0Q1hyMG5ObzQ2bllQVGpsOVl6cVF0bkhjREVzYmJXT0xsUVp2UFVveVFWTlEtTTRIcjAtWW8zSkRTZmtPMm1YOHZIeTRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-09 18:22:37"
-      },
-      {
-        "title": "張嘉郡再加碼敬老福利 倡身障者滿60歲提前享敬老卡優惠 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oWmN5Q2dqWkwyLTJCMzRZMFpxeDdqbGtTYW1YX3dZMVFseDloWEZlT2ZQNGZsb2NMWFdWd0tQNVRFempQRklYRW9LT0V5bmFHMUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-09 17:51:00"
       }
     ],
     "facebook": [
@@ -631,14 +645,24 @@
     ]
   },
   "mention_compare_24h": {
-    "張嘉郡": 13,
-    "劉建國": 7
+    "張嘉郡": 12,
+    "劉建國": 9
   },
   "mention_compare_7d": {
     "張嘉郡": 135,
-    "劉建國": 124
+    "劉建國": 126
   },
   "top_news": [
+    {
+      "title": "劉建國台西競總成立 批雲林產業停滯：別再「大卡卡」！ - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNN05leU1nbmJkZk1fX3BJbXFUMVlXU0daT1BCeXNYUEJzWjAzVmV1VlJ0NkpFTmlIbndTRzlxSzRKWHY0b1JZd0I1bUZXUEViNzNZaWxHbjB2ZWdoa1dVblB6ZTRCc0ZaUS16T0M5UXRmQzNieFN4eDZBU1M1RHNSN1A0dzBSTW9pNUlkV1I0TVVyWG1ocUlLMS1vZl9CMl9LSmF6RXZhbzlFNFZoSHN5dUZDV0hMXzBWMWhJSXk5TmpJb195Y24zX2NJYmhIRC1nZGNRS0NvRjdSSTVaTU1HelA1MHVUWFhjVEJLS0ppYXVZdmNPRW5iajVzcmJlR2pWRHNWcXZrUDdiY0N1LWdKek5jY3dJUVg1ZEtKTWNQYS10VGhUUHoxUEc1QmdXb0hoWXMwd1VicTdCb08yYXVSMXM3R0R3ajVTRG5WTUJBWFVsem8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-10 17:04:02"
+    },
+    {
+      "title": "劉建國台西競總成立 批雲林產業停滯：別再「大卡卡」！ - 互傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IUlJ2N1JSMjZrNEFsOHYzWjNfd0VQbUFkSWVrZmpvQ2dhOWJwbHR4blJDb21yRElXalJmMjktaFY1dE45OU1fR2hoQ2ZKR1NTWUM1dA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-10 17:04:02"
+    },
     {
       "title": "台西競總成立 劉建國：產業發展不能原地踏步 要打造「雲林流」 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPUkZlMl9ubGZYM1JBUm5qNGlVeUQzUWNzVHNJUEFxcFRYaG5WTUVTNkptSTVUVHF1VGVqLWNUVnF3QV9yTVdRZXh4V2l4c1hsQU5pWUxkd1I3VFpWQnVYRC1scnVRZVpaMHF6b1lORmt1cUdKWVlCSl8yQW5RS1BQN1hyOWw3WUVhSUZWTU5rWnF6SmhYUFBpandTd0ppbndZZTVpcUtCd2Vpa1lxZHFrRkhHc2VZTDY0dTEtLXU2eEZyek0yQ3JRWGZROVlwRFJOaWlJekRKZU9FVU5xN3ZDcG51Q3dnVnFhX3ZUdnBKV3BPdmNrN2VVazlydGpPSVkzNmpreU1JUGJFNGJicGpQRVhNcnNQV0diQUNnU0V3N204SVZlV1ZaaWJYc1d1RlJLZEliZ29sMmJMVWdMOE83MG9vNWt6aENPSkNjN0N2dkVHYkFtUzJKYjBIZ1pwRjJqcUpHQjZTWURmVzRUMUh0bTJ4YV9ITk9GdEV4enpVRl9KWUZa?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -688,19 +712,19 @@
       "title": "張麗善同台張嘉郡慶國慶！引韓國瑜這句話 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNY2tGRWdMLXRWaldCN2RZb3RxMXRubjkxV0tfTU9RX1RtVFlvZmNacnZUSmVDS2x4Z0UyMkRmNHVUX2JSbzlnZnliWXVwb3cxalZYQkJkWUhLbWxmT3dXUkxHUkRjN3AxMDEtQ1VoSzhrVkVHdXpwaUd6enZuZEs4ZFlVejJMNm5zYW5VNHpMQ1phZlVYM3ZKdlp1dkltaU40LV9LVXMzUGI4Rk5fNlVnZC1uUmFSTllZSGJzU2VPUVYyUGdvYWNzOGtzUkxGQTIxb2I2OHlFT1BYREpCdXFmanFtLWMwemYyQWRWcG9XT2NYNlBwMFpmeVY0VDRIOWZFelQxUE0wWGkyUXVDQk1EajVweS11aG1JUUg4LXo4ZTNGUWgyY0FiOXgwQ08?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-10 12:12:55"
-    },
-    {
-      "title": "張麗善同台張嘉郡慶國慶！引韓國瑜這句話 | NOWNEWS今日新聞 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTOUEzdVBWaHVYazNYZEM4Q09USXZBbWUta3VheTdhRFFsUDc0VFdvYS1PVjdwVGFsUkZMVHBsY1lXVDd4elhocjZDMXBaejVRUTU1dFJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-10 11:59:28"
-    },
-    {
-      "title": "出席雲林國慶升旗健走　張嘉郡：盼國家持續進步 - 鏡週刊Mirror Media",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FOVJmWERiRmFhaUtlUm1QY0FVU2hGcWhzV0JJOFJqRU5idUZnN3JrX3dPem5KN09IcjdSTTJERFp4bUxDWklNYlYtQ3lCOGVHck9iOEZMZENrTHZlcVQzeFNxa9IBaEFVX3lxTE1sZW5XeUc5UUE5TDBuTHNxYUZHb25vQnM2NHlNck1aemIzOExDeDM1N0xETWhuOGp2dGs1aFpKNDRJSWVIbnN0VFJETjdSQnBHeHlKeHl3eUNlX19vVy00czU1ejlrY09T?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-10 11:53:00"
     }
   ],
   "top_news_7d": [
+    {
+      "title": "劉建國台西競總成立 批雲林產業停滯：別再「大卡卡」！ - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNN05leU1nbmJkZk1fX3BJbXFUMVlXU0daT1BCeXNYUEJzWjAzVmV1VlJ0NkpFTmlIbndTRzlxSzRKWHY0b1JZd0I1bUZXUEViNzNZaWxHbjB2ZWdoa1dVblB6ZTRCc0ZaUS16T0M5UXRmQzNieFN4eDZBU1M1RHNSN1A0dzBSTW9pNUlkV1I0TVVyWG1ocUlLMS1vZl9CMl9LSmF6RXZhbzlFNFZoSHN5dUZDV0hMXzBWMWhJSXk5TmpJb195Y24zX2NJYmhIRC1nZGNRS0NvRjdSSTVaTU1HelA1MHVUWFhjVEJLS0ppYXVZdmNPRW5iajVzcmJlR2pWRHNWcXZrUDdiY0N1LWdKek5jY3dJUVg1ZEtKTWNQYS10VGhUUHoxUEc1QmdXb0hoWXMwd1VicTdCb08yYXVSMXM3R0R3ajVTRG5WTUJBWFVsem8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-10 17:04:02"
+    },
+    {
+      "title": "劉建國台西競總成立 批雲林產業停滯：別再「大卡卡」！ - 互傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IUlJ2N1JSMjZrNEFsOHYzWjNfd0VQbUFkSWVrZmpvQ2dhOWJwbHR4blJDb21yRElXalJmMjktaFY1dE45OU1fR2hoQ2ZKR1NTWUM1dA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-10 17:04:02"
+    },
     {
       "title": "台西競總成立 劉建國：產業發展不能原地踏步 要打造「雲林流」 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPUkZlMl9ubGZYM1JBUm5qNGlVeUQzUWNzVHNJUEFxcFRYaG5WTUVTNkptSTVUVHF1VGVqLWNUVnF3QV9yTVdRZXh4V2l4c1hsQU5pWUxkd1I3VFpWQnVYRC1scnVRZVpaMHF6b1lORmt1cUdKWVlCSl8yQW5RS1BQN1hyOWw3WUVhSUZWTU5rWnF6SmhYUFBpandTd0ppbndZZTVpcUtCd2Vpa1lxZHFrRkhHc2VZTDY0dTEtLXU2eEZyek0yQ3JRWGZROVlwRFJOaWlJekRKZU9FVU5xN3ZDcG51Q3dnVnFhX3ZUdnBKV3BPdmNrN2VVazlydGpPSVkzNmpreU1JUGJFNGJicGpQRVhNcnNQV0diQUNnU0V3N204SVZlV1ZaaWJYc1d1RlJLZEliZ29sMmJMVWdMOE83MG9vNWt6aENPSkNjN0N2dkVHYkFtUzJKYjBIZ1pwRjJqcUpHQjZTWURmVzRUMUh0bTJ4YV9ITk9GdEV4enpVRl9KWUZa?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -790,16 +814,6 @@
       "title": "艾杰旭罷工達成調薪協議 劉建國肯定工會堅持、中央持續協調 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOSHptdmo1bDYzV241anZfb3dXYkdLNlk3anEzb1NwOUg0V2ZFX0dqUk0wZlhVSzVGaTdleUVyNkE3aE5aUkhRVVNrakRFbk9YNmNLUjJueUc2Mm5oeUt3dk1IMEdNNUkwS29PTEhTa25JdXhPbFNLOFlDRjdKOEhVTW9yZ09BNFY5RWd3NE9BckR4S2RtMFRQZDFOSVpjejZTNnRzRHU4WnZEQTluSVI4UXhEeFh6cW9xNU1uaXBCbjBFTDJQc253WE9zSUpOUUpxa2p5NVpYc2ZuaGVwOTlaQm1GTVVVSU9TRlhLSjhCZnhUdnFtOE1VSlE5LWtaNEtseVA5Z05yNUNzNXhqWkgzRzN6T1luNV9TanJXbXE2R1RKUzI2a0YwbU5KcGpJM1VwTkVGM0xXcENKNEFFZnlfWEM2MHVTTjhYVmhycWp3c3dWcjFVNlRsaS0zNlJ6aThRdXg2WlpXOVBZS3o4MXN3WFFyblM4WUhpVVZUb3ZHRmRTbWVFTkp1ZUZrUVJWZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-09 17:27:26"
-    },
-    {
-      "title": "身心障礙長者利多 張嘉郡加碼宣布：身障者60歲可享敬老卡福利 | 夏和宣 | 地方新聞 - Storm.mg",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11aG0tRy1FUHdQaUJHcS03a1FXWVlUSEI5MTlqbGVweV9ZVDR1MlZ2Rk5WNmw0MEhrbW9BVzByQ0pwX0t1RDVZWGt4ZWNHQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-09 15:19:00"
-    },
-    {
-      "title": "張嘉郡提身障者60歲享敬老卡 主張擴大雲林福利使用彈性 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wdDRDZUxMTVgwakpaWEg2RVpmbWp2eWszQnoycDBKVk5GUkYxb2lkZXhwa0ttLUs4WTI5QjhuYjFYeDJnREw0RGZvR0pEbUJnREE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-09 15:08:00"
     }
   ],
   "latest_facebook_20": [
@@ -906,6 +920,16 @@
   ],
   "latest_news_20": [
     {
+      "title": "劉建國台西競總成立 批雲林產業停滯：別再「大卡卡」！ - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNN05leU1nbmJkZk1fX3BJbXFUMVlXU0daT1BCeXNYUEJzWjAzVmV1VlJ0NkpFTmlIbndTRzlxSzRKWHY0b1JZd0I1bUZXUEViNzNZaWxHbjB2ZWdoa1dVblB6ZTRCc0ZaUS16T0M5UXRmQzNieFN4eDZBU1M1RHNSN1A0dzBSTW9pNUlkV1I0TVVyWG1ocUlLMS1vZl9CMl9LSmF6RXZhbzlFNFZoSHN5dUZDV0hMXzBWMWhJSXk5TmpJb195Y24zX2NJYmhIRC1nZGNRS0NvRjdSSTVaTU1HelA1MHVUWFhjVEJLS0ppYXVZdmNPRW5iajVzcmJlR2pWRHNWcXZrUDdiY0N1LWdKek5jY3dJUVg1ZEtKTWNQYS10VGhUUHoxUEc1QmdXb0hoWXMwd1VicTdCb08yYXVSMXM3R0R3ajVTRG5WTUJBWFVsem8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-10 17:04:02"
+    },
+    {
+      "title": "劉建國台西競總成立 批雲林產業停滯：別再「大卡卡」！ - 互傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IUlJ2N1JSMjZrNEFsOHYzWjNfd0VQbUFkSWVrZmpvQ2dhOWJwbHR4blJDb21yRElXalJmMjktaFY1dE45OU1fR2hoQ2ZKR1NTWUM1dA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "time": "2026-10-10 17:04:02"
+    },
+    {
       "title": "台西競總成立 劉建國：產業發展不能原地踏步 要打造「雲林流」 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPUkZlMl9ubGZYM1JBUm5qNGlVeUQzUWNzVHNJUEFxcFRYaG5WTUVTNkptSTVUVHF1VGVqLWNUVnF3QV9yTVdRZXh4V2l4c1hsQU5pWUxkd1I3VFpWQnVYRC1scnVRZVpaMHF6b1lORmt1cUdKWVlCSl8yQW5RS1BQN1hyOWw3WUVhSUZWTU5rWnF6SmhYUFBpandTd0ppbndZZTVpcUtCd2Vpa1lxZHFrRkhHc2VZTDY0dTEtLXU2eEZyek0yQ3JRWGZROVlwRFJOaWlJekRKZU9FVU5xN3ZDcG51Q3dnVnFhX3ZUdnBKV3BPdmNrN2VVazlydGpPSVkzNmpreU1JUGJFNGJicGpQRVhNcnNQV0diQUNnU0V3N204SVZlV1ZaaWJYc1d1RlJLZEliZ29sMmJMVWdMOE83MG9vNWt6aENPSkNjN0N2dkVHYkFtUzJKYjBIZ1pwRjJqcUpHQjZTWURmVzRUMUh0bTJ4YV9ITk9GdEV4enpVRl9KWUZa?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-10 16:12:33"
@@ -994,16 +1018,6 @@
       "title": "艾杰旭罷工達成調薪協議 劉建國肯定工會堅持、中央持續協調 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOSHptdmo1bDYzV241anZfb3dXYkdLNlk3anEzb1NwOUg0V2ZFX0dqUk0wZlhVSzVGaTdleUVyNkE3aE5aUkhRVVNrakRFbk9YNmNLUjJueUc2Mm5oeUt3dk1IMEdNNUkwS29PTEhTa25JdXhPbFNLOFlDRjdKOEhVTW9yZ09BNFY5RWd3NE9BckR4S2RtMFRQZDFOSVpjejZTNnRzRHU4WnZEQTluSVI4UXhEeFh6cW9xNU1uaXBCbjBFTDJQc253WE9zSUpOUUpxa2p5NVpYc2ZuaGVwOTlaQm1GTVVVSU9TRlhLSjhCZnhUdnFtOE1VSlE5LWtaNEtseVA5Z05yNUNzNXhqWkgzRzN6T1luNV9TanJXbXE2R1RKUzI2a0YwbU5KcGpJM1VwTkVGM0xXcENKNEFFZnlfWEM2MHVTTjhYVmhycWp3c3dWcjFVNlRsaS0zNlJ6aThRdXg2WlpXOVBZS3o4MXN3WFFyblM4WUhpVVZUb3ZHRmRTbWVFTkp1ZUZrUVJWZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "time": "2026-10-09 17:27:26"
-    },
-    {
-      "title": "身心障礙長者利多 張嘉郡加碼宣布：身障者60歲可享敬老卡福利 | 夏和宣 | 地方新聞 - Storm.mg",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11aG0tRy1FUHdQaUJHcS03a1FXWVlUSEI5MTlqbGVweV9ZVDR1MlZ2Rk5WNmw0MEhrbW9BVzByQ0pwX0t1RDVZWGt4ZWNHQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-09 15:19:00"
-    },
-    {
-      "title": "張嘉郡提身障者60歲享敬老卡 主張擴大雲林福利使用彈性 - 蕃新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wdDRDZUxMTVgwakpaWEg2RVpmbWp2eWszQnoycDBKVk5GUkYxb2lkZXhwa0ttLUs4WTI5QjhuYjFYeDJnREw0RGZvR0pEbUJnREE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "time": "2026-10-09 15:08:00"
     }
   ],
   "person_sections": {
@@ -1318,6 +1332,16 @@
       ],
       "news": [
         {
+          "title": "劉建國台西競總成立 批雲林產業停滯：別再「大卡卡」！ - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNN05leU1nbmJkZk1fX3BJbXFUMVlXU0daT1BCeXNYUEJzWjAzVmV1VlJ0NkpFTmlIbndTRzlxSzRKWHY0b1JZd0I1bUZXUEViNzNZaWxHbjB2ZWdoa1dVblB6ZTRCc0ZaUS16T0M5UXRmQzNieFN4eDZBU1M1RHNSN1A0dzBSTW9pNUlkV1I0TVVyWG1ocUlLMS1vZl9CMl9LSmF6RXZhbzlFNFZoSHN5dUZDV0hMXzBWMWhJSXk5TmpJb195Y24zX2NJYmhIRC1nZGNRS0NvRjdSSTVaTU1HelA1MHVUWFhjVEJLS0ppYXVZdmNPRW5iajVzcmJlR2pWRHNWcXZrUDdiY0N1LWdKek5jY3dJUVg1ZEtKTWNQYS10VGhUUHoxUEc1QmdXb0hoWXMwd1VicTdCb08yYXVSMXM3R0R3ajVTRG5WTUJBWFVsem8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-10-10 17:04:02"
+        },
+        {
+          "title": "劉建國台西競總成立 批雲林產業停滯：別再「大卡卡」！ - 互傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IUlJ2N1JSMjZrNEFsOHYzWjNfd0VQbUFkSWVrZmpvQ2dhOWJwbHR4blJDb21yRElXalJmMjktaFY1dE45OU1fR2hoQ2ZKR1NTWUM1dA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "time": "2026-10-10 17:04:02"
+        },
+        {
           "title": "台西競總成立 劉建國：產業發展不能原地踏步 要打造「雲林流」 - Yahoo新聞",
           "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPUkZlMl9ubGZYM1JBUm5qNGlVeUQzUWNzVHNJUEFxcFRYaG5WTUVTNkptSTVUVHF1VGVqLWNUVnF3QV9yTVdRZXh4V2l4c1hsQU5pWUxkd1I3VFpWQnVYRC1scnVRZVpaMHF6b1lORmt1cUdKWVlCSl8yQW5RS1BQN1hyOWw3WUVhSUZWTU5rWnF6SmhYUFBpandTd0ppbndZZTVpcUtCd2Vpa1lxZHFrRkhHc2VZTDY0dTEtLXU2eEZyek0yQ3JRWGZROVlwRFJOaWlJekRKZU9FVU5xN3ZDcG51Q3dnVnFhX3ZUdnBKV3BPdmNrN2VVazlydGpPSVkzNmpreU1JUGJFNGJicGpQRVhNcnNQV0diQUNnU0V3N204SVZlV1ZaaWJYc1d1RlJLZEliZ29sMmJMVWdMOE83MG9vNWt6aENPSkNjN0N2dkVHYkFtUzJKYjBIZ1pwRjJqcUpHQjZTWURmVzRUMUh0bTJ4YV9ITk9GdEV4enpVRl9KWUZa?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-10 16:12:33"
@@ -1406,22 +1430,22 @@
           "title": "劉世芳點出雲林產業發展核心 劉建國競總：不是沒條件，是縣府準備好了嗎？ - 蕃新聞",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HWHhZekFlVXFCM3FkV3hvblFlOUY3X0lzaUdlVi1tUk5YWE51SHpjc3dXY3ZUVzlZaTVHMGhGZGN2Z3lGbWIya1loX2Jwd09HVEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "time": "2026-10-07 00:00:00"
-        },
-        {
-          "title": "教師行政砍半、午餐食安雙師把關！劉建國端教育政策搶攻家長票 - 蕃新聞",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05SU8wc01qREx1ZHZhUXJnVkUwUGMzcnZSU1hIalFTZHhmQmhiTnFnZTB3bVlsZEtLT200cTlDTFJyRm10ZExyVzYtNnNSamlpR3c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-10-06 21:47:00"
-        },
-        {
-          "title": "教師行政砍半、午餐食安雙師把關！劉建國端教育政策搶攻家長票 - Yahoo新聞",
-          "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOZzJvZVdoZXVOZ3VkUWk3ZGxuZkIyQ0k5VkY2WVJvUWhhM3VIYXNrdFhsQTBSd1pHWjFTWkVqWjF3WGhrdGJyRkotcy1YaF80Q0VKMXNhYmlfZEgxcGhmeXF4b2dFd1FBakZTeUxES0d4OGlZTkRSakozaXYzUlc0MmMyeklhS0M3elpJaTNQZEQzUG1abEdNTWxuaXpnMGpZdTNpcTRFZ3liY0ktczNmOFB6Wlk4amhSaEh0VjFlNDQxNVdDSUZvREJSVTczTUdEQ0hCeFdHdEk1QzdUS2RfQWxrNnYzWkx3c1JjbnN4WFpiMGI4YzFhV1o5SlhBRlRZb3V2dWJ5M0pQSUZJV21weDk4dmgzd01xUjJSd2lNLTdNUGVnMHZmQWdPdnQ5eWVpemVBRkxjQm9oYVVJM2lySk0wWXZNamN5aENJUjR3aEhBa3RqcENULUZ5M3F3UFhkb3FRZms3SXU4Q1NZdHlmQ01Xbmw2REU0eElwcndJRWhybzNxSkJya1g4ZnhGdk85Q1ZFU3pVMUpNdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "time": "2026-10-06 21:46:46"
         }
       ]
     }
   },
   "latest_by_platform_24h": {
     "news": [
+      {
+        "title": "劉建國台西競總成立 批雲林產業停滯：別再「大卡卡」！ - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNN05leU1nbmJkZk1fX3BJbXFUMVlXU0daT1BCeXNYUEJzWjAzVmV1VlJ0NkpFTmlIbndTRzlxSzRKWHY0b1JZd0I1bUZXUEViNzNZaWxHbjB2ZWdoa1dVblB6ZTRCc0ZaUS16T0M5UXRmQzNieFN4eDZBU1M1RHNSN1A0dzBSTW9pNUlkV1I0TVVyWG1ocUlLMS1vZl9CMl9LSmF6RXZhbzlFNFZoSHN5dUZDV0hMXzBWMWhJSXk5TmpJb195Y24zX2NJYmhIRC1nZGNRS0NvRjdSSTVaTU1HelA1MHVUWFhjVEJLS0ppYXVZdmNPRW5iajVzcmJlR2pWRHNWcXZrUDdiY0N1LWdKek5jY3dJUVg1ZEtKTWNQYS10VGhUUHoxUEc1QmdXb0hoWXMwd1VicTdCb08yYXVSMXM3R0R3ajVTRG5WTUJBWFVsem8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 17:04:02"
+      },
+      {
+        "title": "劉建國台西競總成立 批雲林產業停滯：別再「大卡卡」！ - 互傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IUlJ2N1JSMjZrNEFsOHYzWjNfd0VQbUFkSWVrZmpvQ2dhOWJwbHR4blJDb21yRElXalJmMjktaFY1dE45OU1fR2hoQ2ZKR1NTWUM1dA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 17:04:02"
+      },
       {
         "title": "台西競總成立 劉建國：產業發展不能原地踏步 要打造「雲林流」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPUkZlMl9ubGZYM1JBUm5qNGlVeUQzUWNzVHNJUEFxcFRYaG5WTUVTNkptSTVUVHF1VGVqLWNUVnF3QV9yTVdRZXh4V2l4c1hsQU5pWUxkd1I3VFpWQnVYRC1scnVRZVpaMHF6b1lORmt1cUdKWVlCSl8yQW5RS1BQN1hyOWw3WUVhSUZWTU5rWnF6SmhYUFBpandTd0ppbndZZTVpcUtCd2Vpa1lxZHFrRkhHc2VZTDY0dTEtLXU2eEZyek0yQ3JRWGZROVlwRFJOaWlJekRKZU9FVU5xN3ZDcG51Q3dnVnFhX3ZUdnBKV3BPdmNrN2VVazlydGpPSVkzNmpreU1JUGJFNGJicGpQRVhNcnNQV0diQUNnU0V3N204SVZlV1ZaaWJYc1d1RlJLZEliZ29sMmJMVWdMOE83MG9vNWt6aENPSkNjN0N2dkVHYkFtUzJKYjBIZ1pwRjJqcUpHQjZTWURmVzRUMUh0bTJ4YV9ITk9GdEV4enpVRl9KWUZa?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1501,11 +1525,6 @@
         "title": "玻璃大廠罷工險引波瀾 張麗善成功拆彈 張嘉郡、劉建國無勝負 - 中時新聞網",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DdXJDc3d1M2Mta3U1cm9zOEFTdGJMNmU5ZXdMSDlHNHR0Q1hyMG5ObzQ2bllQVGpsOVl6cVF0bkhjREVzYmJXT0xsUVp2UFVveVFWTlEtTTRIcjAtWW8zSkRTZmtPMm1YOHZIeTRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-09 18:22:37"
-      },
-      {
-        "title": "張嘉郡再加碼敬老福利 倡身障者滿60歲提前享敬老卡優惠 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oWmN5Q2dqWkwyLTJCMzRZMFpxeDdqbGtTYW1YX3dZMVFseDloWEZlT2ZQNGZsb2NMWFdWd0tQNVRFempQRklYRW9LT0V5bmFHMUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-09 17:51:00"
       }
     ],
     "facebook": [
@@ -1528,6 +1547,16 @@
   },
   "latest_by_platform_7d": {
     "news": [
+      {
+        "title": "劉建國台西競總成立 批雲林產業停滯：別再「大卡卡」！ - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNN05leU1nbmJkZk1fX3BJbXFUMVlXU0daT1BCeXNYUEJzWjAzVmV1VlJ0NkpFTmlIbndTRzlxSzRKWHY0b1JZd0I1bUZXUEViNzNZaWxHbjB2ZWdoa1dVblB6ZTRCc0ZaUS16T0M5UXRmQzNieFN4eDZBU1M1RHNSN1A0dzBSTW9pNUlkV1I0TVVyWG1ocUlLMS1vZl9CMl9LSmF6RXZhbzlFNFZoSHN5dUZDV0hMXzBWMWhJSXk5TmpJb195Y24zX2NJYmhIRC1nZGNRS0NvRjdSSTVaTU1HelA1MHVUWFhjVEJLS0ppYXVZdmNPRW5iajVzcmJlR2pWRHNWcXZrUDdiY0N1LWdKek5jY3dJUVg1ZEtKTWNQYS10VGhUUHoxUEc1QmdXb0hoWXMwd1VicTdCb08yYXVSMXM3R0R3ajVTRG5WTUJBWFVsem8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 17:04:02"
+      },
+      {
+        "title": "劉建國台西競總成立 批雲林產業停滯：別再「大卡卡」！ - 互傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IUlJ2N1JSMjZrNEFsOHYzWjNfd0VQbUFkSWVrZmpvQ2dhOWJwbHR4blJDb21yRElXalJmMjktaFY1dE45OU1fR2hoQ2ZKR1NTWUM1dA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 17:04:02"
+      },
       {
         "title": "台西競總成立 劉建國：產業發展不能原地踏步 要打造「雲林流」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPUkZlMl9ubGZYM1JBUm5qNGlVeUQzUWNzVHNJUEFxcFRYaG5WTUVTNkptSTVUVHF1VGVqLWNUVnF3QV9yTVdRZXh4V2l4c1hsQU5pWUxkd1I3VFpWQnVYRC1scnVRZVpaMHF6b1lORmt1cUdKWVlCSl8yQW5RS1BQN1hyOWw3WUVhSUZWTU5rWnF6SmhYUFBpandTd0ppbndZZTVpcUtCd2Vpa1lxZHFrRkhHc2VZTDY0dTEtLXU2eEZyek0yQ3JRWGZROVlwRFJOaWlJekRKZU9FVU5xN3ZDcG51Q3dnVnFhX3ZUdnBKV3BPdmNrN2VVazlydGpPSVkzNmpreU1JUGJFNGJicGpQRVhNcnNQV0diQUNnU0V3N204SVZlV1ZaaWJYc1d1RlJLZEliZ29sMmJMVWdMOE83MG9vNWt6aENPSkNjN0N2dkVHYkFtUzJKYjBIZ1pwRjJqcUpHQjZTWURmVzRUMUh0bTJ4YV9ITk9GdEV4enpVRl9KWUZa?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
@@ -1717,16 +1746,6 @@
         "title": "雲林高鐵特區文小非營利幼兒園今啟用 張嘉郡：完善教保服務、減輕育兒負擔 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxQMlowMVNuMkRvMjRlSDB4a1F1QUcxSUViSWFvMnFjZDBLWGlyY0JJOU5fTmUtOGwwaHM4Wl9SdHlUZUE4ZHlNWEpneHhzenZyLVVuekxoa0p0Sm5Ja0hNcmJvYVVXSTNWT2Q0b1d4SHREaF9lRS1RNGkzY3VWZDN4YzhYbFQ0VEJud1lHenJ3RTd1ZXlGU1NQVG9UTm53WjcwWjZSV1lqZW0tTm5HVktjM1ZiRFEtaTFpMTRUM1NDRFdhbFdQNFdlWl91aGl5Z1BGTjJvVm1tZjRxbnhRUDVFTjVvNG81RFgwSkFLSVJ3U1VlRXhuZlRoOE9Ha3BBRldQQWxLbzlhZjBMUmtrbkZlLVZvMmdiQ010N2xSdFpfSUdMRVFiTTR2LXBMR0xPMEUzWFBuRXlrQjZyRzVfb1BCY3huUTFwZXNpd2YwaGZOaUw3NEFCUGdxTnBaZUc3eXJEclpwQWFDOThzdUlOLWtQbUdVdXNkUEtzd2ZaYTFKRjUxMWlxUzhrMHJnT0tOMndCZmlucTY5RUpsT3lQYlRURjlpcTAtZ1oxaVNfWGJDWHhLdGxQNEJMYi11VlBpUzhpWEN5enZ3aXQ0bnI5OGtHdzZWV3RDYzA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-07 15:34:00"
-      },
-      {
-        "title": "高鐵特區幼兒園啟用！張嘉郡拋育兒津貼加碼 | NOWNEWS今日新聞 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JcnBrQS1uOGtHRG5iVzhudkJXZEhxOHFDMURjRGhLWlVkYkpPdzV3d2ZaclQ5eFYtWTRaOHBMT1hOUjVyeDFJajUyMWFvdmlNbVNBODRn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-07 15:23:08"
-      },
-      {
-        "title": "雲林高鐵特區幼兒園啟用！新增228名額　張嘉郡再拋育兒年補1.2萬 - NOWnews今日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxSnlUSS1VSHg2Nno0TW9tMjdhM3ZLUF9XbzNqNV8tR0FiaUdrYThUanFlLUN3TW8teFVIQV9kNS05U0wyd1U2dnpNd0nSAVJBVV95cUxOWmswNDhoTEF3SmgzSjlHVUZ5MlhIN0pVb0xrTXZUcXE5SFB5SV9uQXFIUUtla3pSdUt1QkZ2SXFzd3pMZy1uSFZBaW1pOW0xVnBn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-07 15:22:43"
       }
     ],
     "facebook": [
@@ -1924,6 +1943,20 @@
     "hour": [],
     "day": [
       {
+        "title": "劉建國台西競總成立 批雲林產業停滯：別再「大卡卡」！ - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNN05leU1nbmJkZk1fX3BJbXFUMVlXU0daT1BCeXNYUEJzWjAzVmV1VlJ0NkpFTmlIbndTRzlxSzRKWHY0b1JZd0I1bUZXUEViNzNZaWxHbjB2ZWdoa1dVblB6ZTRCc0ZaUS16T0M5UXRmQzNieFN4eDZBU1M1RHNSN1A0dzBSTW9pNUlkV1I0TVVyWG1ocUlLMS1vZl9CMl9LSmF6RXZhbzlFNFZoSHN5dUZDV0hMXzBWMWhJSXk5TmpJb195Y24zX2NJYmhIRC1nZGNRS0NvRjdSSTVaTU1HelA1MHVUWFhjVEJLS0ppYXVZdmNPRW5iajVzcmJlR2pWRHNWcXZrUDdiY0N1LWdKek5jY3dJUVg1ZEtKTWNQYS10VGhUUHoxUEc1QmdXb0hoWXMwd1VicTdCb08yYXVSMXM3R0R3ajVTRG5WTUJBWFVsem8?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 17:04:02",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
+        "title": "劉建國台西競總成立 批雲林產業停滯：別再「大卡卡」！ - 互傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IUlJ2N1JSMjZrNEFsOHYzWjNfd0VQbUFkSWVrZmpvQ2dhOWJwbHR4blJDb21yRElXalJmMjktaFY1dE45OU1fR2hoQ2ZKR1NTWUM1dA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "time": "2026-10-10 17:04:02",
+        "platform": "news",
+        "risk": "綠"
+      },
+      {
         "title": "台西競總成立 劉建國：產業發展不能原地踏步 要打造「雲林流」 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPUkZlMl9ubGZYM1JBUm5qNGlVeUQzUWNzVHNJUEFxcFRYaG5WTUVTNkptSTVUVHF1VGVqLWNUVnF3QV9yTVdRZXh4V2l4c1hsQU5pWUxkd1I3VFpWQnVYRC1scnVRZVpaMHF6b1lORmt1cUdKWVlCSl8yQW5RS1BQN1hyOWw3WUVhSUZWTU5rWnF6SmhYUFBpandTd0ppbndZZTVpcUtCd2Vpa1lxZHFrRkhHc2VZTDY0dTEtLXU2eEZyek0yQ3JRWGZROVlwRFJOaWlJekRKZU9FVU5xN3ZDcG51Q3dnVnFhX3ZUdnBKV3BPdmNrN2VVazlydGpPSVkzNmpreU1JUGJFNGJicGpQRVhNcnNQV0diQUNnU0V3N204SVZlV1ZaaWJYc1d1RlJLZEliZ29sMmJMVWdMOE83MG9vNWt6aENPSkNjN0N2dkVHYkFtUzJKYjBIZ1pwRjJqcUpHQjZTWURmVzRUMUh0bTJ4YV9ITk9GdEV4enpVRl9KWUZa?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "time": "2026-10-10 16:12:33",
@@ -2048,20 +2081,6 @@
         "time": "2026-10-09 18:27:37",
         "platform": "news",
         "risk": "綠"
-      },
-      {
-        "title": "玻璃大廠罷工險引波瀾 張麗善成功拆彈 張嘉郡、劉建國無勝負 - 中時新聞網",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DdXJDc3d1M2Mta3U1cm9zOEFTdGJMNmU5ZXdMSDlHNHR0Q1hyMG5ObzQ2bllQVGpsOVl6cVF0bkhjREVzYmJXT0xsUVp2UFVveVFWTlEtTTRIcjAtWW8zSkRTZmtPMm1YOHZIeTRB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-09 18:22:37",
-        "platform": "news",
-        "risk": "綠"
-      },
-      {
-        "title": "張嘉郡再加碼敬老福利 倡身障者滿60歲提前享敬老卡優惠 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oWmN5Q2dqWkwyLTJCMzRZMFpxeDdqbGtTYW1YX3dZMVFseDloWEZlT2ZQNGZsb2NMWFdWd0tQNVRFempQRklYRW9LT0V5bmFHMUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "time": "2026-10-09 17:51:00",
-        "platform": "news",
-        "risk": "綠"
       }
     ]
   },
@@ -2069,7 +2088,7 @@
     "regions": [
       {
         "name": "雲林",
-        "count": 9
+        "count": 11
       }
     ],
     "groups": []
